@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-57505"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-19"
-last_updated: "2011-12-30"
+last_updated: "2012-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2012.
 
 Código publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2007.
 
@@ -343,19 +343,19 @@ Restablecimiento de las cosas a su estado previo.- En cualquier estado de la cau
 
 Lo anterior se hará a solicitud de la víctima u ofendido, siempre que sus derechos estén legalmente justificados y se haya constituido garantía si se le hubiere exigido.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL DECRETO No. 279, PUBLICADO EN EL P.O. DE 13 DE NOVIEMBRE DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO, PARA QUEDAR CONFORMADO POR TRES PARRAFOS.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL DECRETO No. 279, PUBLICADO EN EL P.O. DE 13 DE NOVIEMBRE DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO, PARA QUEDAR CONFORMADO POR TRES PÁRRAFOS.</small>
 
 ###### Artículo 36.
 
 Resolución de peticiones o planteamientos de las partes.- Todas las peticiones o planteamientos de las partes que, por su naturaleza o importancia, deban ser debatidas, requieran desahogo de prueba o cuando así lo disponga esta Ley expresamente, se resolverán en audiencia, salvo los casos en que se autorice resolver por escrito.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 La prueba deberá ofrecerse al solicitarse la celebración de la audiencia, o en su caso, antes de que se lleve a cabo la misma.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -565,7 +565,7 @@ Renuncia o abreviación.- Las partes en cuyo favor se haya establecido un plazo,
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 63.
 
@@ -635,7 +635,7 @@ Saneamiento.- Todos los defectos formales deberán ser inmediatamente saneados, 
 
 La autoridad judicial podrá corregir en cualquier momento, de oficio o a petición de parte, los errores puramente formales contenidos en sus actuaciones o resoluciones, respetando siempre los derechos y garantías de los intervinientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -653,7 +653,7 @@ II. Dentro de las veinticuatro horas siguientes a haberse practicado el acto no 
 
 III. Hayan aceptado, expresa o tácitamente, los efectos del acto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -667,7 +667,7 @@ Declaración de nulidad.- Cuando no sea posible sanear o convalidar un acto, el 
 
 #### SECCIÓN 1. EJERCICIO Y EXTINCIÓN DE LA ACCIÓN PENAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -689,7 +689,7 @@ I. El pago del máximo previsto para la pena de multa, realizado antes de la aud
 
 II. La aplicación de un criterio de oportunidad, en los casos y las formas previstos en este Código;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -711,7 +711,7 @@ I. Se trate de un hecho socialmente insignificante o de mínima o exigua culpabi
 
 No podrá aplicarse el principio de oportunidad en los casos de delitos contra el libre desarrollo de la personalidad y de violencia familiar, por afectar gravemente el interés público.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -721,13 +721,13 @@ III. El imputado haya sufrido, a consecuencia del hecho, daño físico o psicol�
 
 IV. La penal o medida de seguridad que pueda imponerse por el hecho de cuya persecución se prescinde, carezca de importancia en consideración a la pena o medida de seguridad ya impuesta, o la que se le impuso en un proceso tramitado en otro fuero.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 El agente del Ministerio Público aplicará los criterios de oportunidad sobre la base de razones objetivas y sin discriminación, valorando las pautas descritas en cada caso individual, según los criterios generales que para tal efecto haya dictado el Procurador General de Justicia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -737,7 +737,7 @@ Para la aplicación de los criterios de oportunidad señalados en las fracciones
 
 Plazo.- Los criterios de oportunidad podrán ejercerse hasta antes de dictado el auto de apertura de juicio oral.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -749,7 +749,7 @@ La decisión del agente del Ministerio Público que aplique o niegue un criterio
 
 La impugnación deberá ser presentada ante el Juez de Garantía dentro de los tres días posteriores a la notificación. Presentada la impugnación, el Juez en audiencia pública y con presencia de las partes la resolverá. En caso de que el impugnante no comparezca a pesar de haber sido debidamente citado, se declarará sin materia la impugnación correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -781,7 +781,7 @@ II. La reparación del daño material y la indemnización de los perjuicios deri
 
 III. La reparación del daño moral sufrido por la víctima o el ofendido.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -789,7 +789,7 @@ III. La reparación del daño moral sufrido por la víctima o el ofendido.
 
 Exigibilidad.- La reparación del daño a cargo del imputado será exigible por el Ministerio Público o por la persona que ejerció la acción penal privada, dentro del mismo proceso penal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -799,7 +799,7 @@ Solicitud de la reparación del daño.- Cuando corresponda al Agente del Ministe
 
 Concluida la investigación, al formular la acusación el Agente del Ministerio Público deberá concretar la pretensión para la reparación del daño, especificando el monto completo de cada una de las partidas o rubros que comprendan la indemnización por restitución, pago material, pago del daño moral y pago de los daños y perjuicios ocasionados por el delito atribuido.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -811,7 +811,7 @@ Intereses públicos y sociales.- El Agente del Ministerio Público también exig
 
 En estos casos, el monto de la condena será destinado a un fondo general de reparaciones a las víctimas u ofendido, administrado por la Procuraduría General de Justicia del Estado, quien velará por su manejo y reglamentará la forma en la que estas indemnizaciones satisfagan mejor los intereses de las víctimas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -895,7 +895,7 @@ Motivos de excusa.- Los magistrados y los jueces deben excusarse de conocer los 
 
 I. Haber actuado como Juez de Garantía o pronunciado o concurrido a pronunciar la sentencia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -969,7 +969,7 @@ Falta de probidad.- Incurrirá en falta grave el juzgador que omita apartarse de
 
 #### SECCIÓN 1. MINISTERIO PÚBLICO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -1023,9 +1023,9 @@ La excusa o la recusación serán resueltas por el Procurador General de Justici
 
 #### SECCIÓN 2. POLICÍA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 111.
 
@@ -1033,13 +1033,13 @@ Función de las instituciones policiales.- Los integrantes de las instituciones 
 
 En los casos de violencia familiar y delitos contra el libre desarrollo de la personalidad, deberán aplicar los protocolos o disposiciones especiales para el adecuado resguardo de los derechos de las víctimas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 Cuando las instituciones policiales mencionadas sean las primeras en conocer de un hecho delictuoso, deberán ejercer las facultades previstas en el Artículo 112, fracciones I, III, IV, V, VII y VIII de este Código, hasta que el Ministerio Público o la policía ministerial intervengan.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -1049,13 +1049,13 @@ Asimismo, actuarán como auxiliares del Ministerio Público o de la autoridad ju
 
 Los elementos policiales a que se refiere el presente artículo no podrán informar a los medios de comunicación social, ni a persona alguna, acerca de la identidad de detenidos, imputados, víctimas u ofendidos, testigos, ni de otras personas que se encontraren o pudieren resultar vinculadas a la investigación de un hecho punible, en protección de sus derechos y de la función investigadora.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO UNICO DEL DECRETO No. 279, PUBLICADO EN EL P.O. DE 13 DE NOVIEMBRE DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO, PARA QUEDAR CONFORMADO POR TRES PARRAFOS.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL DECRETO No. 279, PUBLICADO EN EL P.O. DE 13 DE NOVIEMBRE DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO, PARA QUEDAR CONFORMADO POR TRES PÁRRAFOS.</small>
 
 ###### Artículo 112.
 
 Atribuciones de la policía ministerial.- La policía ministerial tendrá las siguientes atribuciones:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -1077,21 +1077,21 @@ VIII. Reunir toda la información de urgencia que pueda ser útil al agente del 
 
 IX. Realizar detenciones en los casos que autoriza la Constitución Federal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 Cuando para el cumplimiento de estas atribuciones se requiera una orden judicial, la policía informará al Ministerio Público para que éste la solicite.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 La policía deberá reportar constante y oportunamente al Ministerio Público toda la información recabada en relación con la investigación a cargo de este último.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 113.
 
@@ -1099,7 +1099,7 @@ Obligaciones de las instituciones policiales.- Las instituciones policiales debe
 
 La autoridad administrativa no podrá revocar, alterar o retardar una orden emitida por los agentes del Ministerio Público o por los jueces.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -1111,15 +1111,15 @@ Comunicaciones entre el Ministerio Público y las instituciones policiales.- Las
 
 Formalidades.- Los policías respetarán las formalidades previstas para la investigación y subordinarán sus actos a las instrucciones que emita el Ministerio Público, sin perjuicio de las facultades que este Código les concede para recopilar y procesar toda la información relevante que conduzca al esclarecimiento de los hechos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 Los policías actuarán conforme a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 116.
 
@@ -1143,15 +1143,15 @@ III. A las comunidades indígenas, en los hechos punibles que impliquen discrimi
 
 Ofendido.- Se considerará ofendido a aquel individuo que haya sufrido indirectamente alguna afectación en su persona o bienes con motivo de la comisión de un delito y que tenga derecho a la reparación del daño conforme al Artículo 35 del Código Penal para el Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 119.
 
 Derechos de la víctima u ofendido.- La víctima u ofendido tendrán los siguientes derechos:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -1163,7 +1163,7 @@ III. A constituirse en acusador coadyuvante, para lo cual deberá nombrar a un p
 
 IV. Ser informado de las resoluciones que finalicen o suspendan el procedimiento, siempre que lo haya solicitado y tenga señalado domicilio conocido;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -1177,43 +1177,43 @@ VIII. A recibir asesoría jurídica, protección especial de su integridad físi
 
 IX. Solicitar la reapertura de la investigación cuando se haya decretado el archivo temporal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 X. Solicitar las medidas cautelares y providencias necesarias para la protección y restitución de sus derechos, en los términos que señale este Código;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 XI. Apelar las resoluciones de sobreseimiento y las relacionadas con la reparación del daño;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 XII. Impugnar ante el Juez de Garantía las decisiones que recaigan a las quejas interpuestas contra las omisiones del Ministerio Público en la investigación de los delitos o de su negativa de reabrir la investigación
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 XIII. Impugnar ante el Juez de Garantía las decisiones del Ministerio Público de abstenerse de investigar o de no ejercicio de la acción penal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 XIV. Al resguardo de su identidad y otros datos personales cuando se trate de personas menores de edad, de delitos de violación, secuestro, y cuando a juicio del juzgador sea necesario para su protección, salvaguardando los derechos de la defensa;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 XV. No ser objeto de información por los medios de comunicación o presentado ante la comunidad sin su consentimiento; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -1235,9 +1235,9 @@ Acusador coadyuvante.- En el plazo señalado en el Artículo 301, la víctima u 
 
 Denominación.- Se denominará genéricamente imputado a quien, mediante cualquier acto del procedimiento, sea señalado como posible autor de un hecho punible o partícipe en él. Se denominará condenado a aquel sobre quien ha recaído una sentencia de condena firme.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 122.
 
@@ -1249,7 +1249,7 @@ II. Conocer su derecho a no declarar, y de ser advertido de que todo lo que en s
 
 III. Tener una comunicación inmediata y efectiva con la persona, asociación, agrupación o entidad a la que desee comunicar su captura;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -1323,7 +1323,7 @@ Si el imputado se presenta después de la declaratoria de sustracción a la acci
 
 #### SECCIÓN 2. DECLARACIÓN DEL IMPUTADO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -1357,7 +1357,7 @@ La inobservancia de los preceptos relativos a la declaración del imputado imped
 
 Varios imputados.- Cuando deban declarar varios imputados, las declaraciones serán recibidas sucesivamente, evitando que se comuniquen entre sí antes de la recepción de todas ellas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -1371,7 +1371,7 @@ Facultades de los intervinientes.- Todos los intervinientes podrán indicar las 
 
 ### CAPÍTULO IV. DEFENSORES Y REPRESENTANTES LEGALES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -1379,13 +1379,13 @@ Facultades de los intervinientes.- Todos los intervinientes podrán indicar las 
 
 Derecho de elección.- El imputado tendrá el derecho de elegir un defensor particular de su preferencia para que lo represente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 137.
 
 (DEROGADO, P.O. 13 DE NOVIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -1423,9 +1423,9 @@ Cuando el abandono ocurra antes de iniciarse el juicio, podrá aplazarse razonab
 
 Sanciones.- Además de las sanciones establecidas en el Código Penal, al defensor que abandone la defensa sin causa justificada se le impondrá la multa a que se refiere el artículo 153 de ésta (sic) Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 143.
 
@@ -1441,7 +1441,7 @@ Defensor común.- La defensa de varios imputados en un mismo procedimiento por u
 
 Garantías para el ejercicio de la defensa.- No será admisible el aseguramiento o decomiso de cosas relacionadas con la defensa, así como tampoco la interceptación de las comunicaciones del imputado con sus defensores, consultores técnicos y sus auxiliares, ni las efectuadas entre éstos y las personas que les brindan asistencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 146.
 
@@ -1451,7 +1451,7 @@ Garantías para el ejercicio de la defensa.- No será admisible el aseguramiento
 
 Entrevista con otras personas.- Si antes de una audiencia, con motivo de su preparación, el defensor tuviera necesidad de entrevistar a una persona que se niega a recibirlo, podrá solicitar el auxilio judicial, explicándole las razones que tornan necesaria la entrevista. El juzgador, en caso de considerar fundada la necesidad, expedirá la orden de que esa persona reciba al defensor en el lugar y en el momento que, en principio, ella misma decida, o la citará a la sede del Tribunal para que la entrevista se desarrolle allí, con la presencia del juzgador o del personal que éste designe.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -1501,9 +1501,9 @@ En caso de incumplimiento de pago, la autoridad judicial solicitará a la autori
 
 ## TÍTULO SEXTO. MEDIDAS CAUTELARES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -1511,7 +1511,7 @@ En caso de incumplimiento de pago, la autoridad judicial solicitará a la autori
 
 Principio general.- Las medidas cautelares en contra del imputado son exclusivamente las autorizadas por este Código, tienen carácter excepcional y sólo pueden ser impuestas mediante resolución judicial fundada, motivada y debidamente documentada, por el tiempo absolutamente indispensable y para los fines de asegurar su presencia en el proceso, evitar la obstaculización del procedimiento y garantizar la seguridad o integridad de la víctima u ofendido.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -1519,13 +1519,13 @@ Las resoluciones judiciales sobre medidas cautelares podrán ser modificadas en 
 
 En todo caso, el Tribunal puede proceder de oficio cuando favorezca la libertad del imputado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 Para la imposición de medidas cautelares, se podrá escuchar la opinión del órgano que para tal efecto se establezca en la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2011)</small>
 
 ###### Artículo 155.
 
@@ -1599,7 +1599,7 @@ Procedencia de la detención.- Ninguna persona podrá ser detenida sino por orde
 
 Presentación espontánea.- El imputado contra quien se hubiere emitido la orden de aprehensión, podrá ocurrir ante el Juez que correspondiere para que se le formule la imputación. El Juez podrá ordenar, según el caso, que se mantenga en libertad al imputado e, incluso, eximirlo de la aplicación de medidas cautelares personales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -1613,7 +1613,7 @@ Cuando el delito tenga señalada pena no privativa de libertad o pena alternativ
 
 Los agentes policiales que ejecuten una orden judicial de aprehensión o presentación, conducirán inmediatamente al detenido ante la presencia del Juez que hubiere expedido la orden, debiendo entregar al imputado copia de los resolutivos de la misma. Una vez que el aprehendido o presentado por orden judicial sea puesto a disposición del Juez o Tribunal, éste convocará de inmediato a la audiencia correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -1623,7 +1623,7 @@ Solicitud de orden de aprehensión.- La solicitud de orden de aprehensión del M
 
 El representante del Ministerio Público, al solicitar la orden deberá exponer una relación de los hechos que le atribuya al imputado, sustentada en forma precisa en los registros correspondientes, y expresará las razones por las que considera que se actualizaron las exigencias señaladas en el artículo anterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -1645,31 +1645,31 @@ Los agentes policiales estarán obligados a detener a quienes sorprendieren en l
 
 Cuando se detenga a una persona por un hecho que pudiera constituir un delito que requiera querella de parte ofendida, será informado inmediatamente quien pueda presentarla, y si éste no se presenta en un plazo de veinticuatro horas, el detenido será puesto en libertad de inmediato.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 El Ministerio Público debe examinar inmediatamente después de que la persona es traída a su presencia, las condiciones en las que se realizó la detención. Sí ésta no fue conforme a las disposiciones de este Código, dispondrá la libertad inmediata de la persona y, en su caso, velará por la aplicación de las sanciones disciplinarias o penales que correspondan.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 El Ministerio Público deberá poner al detenido a disposición del Juez, dentro de un plazo de cuarenta y ocho horas. En caso de que no pretenda solicitar prisión preventiva y existe acuerdo con el imputado y su defensor sobre las medidas cautelares a imponer, el Ministerio Público deberá solicitar al Juez la aplicación de dichas medidas en forma anticipada.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 Para efectos de lo anterior, el Juez deberá convocar inmediatamente a una audiencia con la intervención de las partes para verificar si existe el acuerdo, y en su caso, decretará la imposición de la medida cautelar ordenando la libertad del imputado. Si el Ministerio Público no solicita fecha de audiencia para formular imputación u orden de aprehensión en un plazo no mayor de quince días, las medidas cautelares anticipadas que se hayan decretado quedarán sin efecto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 La medida cautelar anticipada que se haya decretado se considerará prorrogada una vez que se le haya dado la oportunidad de declarar al imputado en la audiencia de formulación de imputación, sin perjuicio de que las partes puedan solicitar su modificación en cualquier momento del proceso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -1703,13 +1703,13 @@ III. Por razón de la hora, lugar o cualquier otra circunstancia, no pueda el Mi
 
 Detención en caso urgente.- De actualizarse los supuestos previstos en el artículo anterior, el Ministerio Público podrá ordenar por escrito la detención del imputado, debiendo expresar en dicha orden los antecedentes de la investigación y los indicios que motivan su proceder.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 Los agentes de policía que ejecuten una orden de detención por caso urgente, deberán presentar inmediatamente al imputado ante el Ministerio Público que haya emitido dicha orden, quien ordenará que el detenido sea conducido ante el Juez dentro de un plazo de cuarenta y ocho horas, contado desde que la detención se hubiere practicado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO NUMERO 440 QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO NÚMERO 440 QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 2010)</small>
 
@@ -1719,15 +1719,15 @@ Audiencia de Control de Detención.- Inmediatamente después de que el imputado 
 
 A esta audiencia deberá concurrir el Ministerio Público, quien deberá justificar ante el Juez los motivos de la detención. La ausencia del Ministerio Público en la audiencia dará lugar a la liberación del detenido si ya se hubiere agotado el término de las cuarenta y ocho horas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO NUMERO 440 QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO NÚMERO 440 QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2010)</small>
 
 Cuando el imputado ha sido aprehendido después de habérsele formulado la imputación y ha sido puesto a disposición del Juez, se convocará inmediatamente a una audiencia en la que, a solicitud del Ministerio Público, podrá revocar, modificar o sustituir la medida cautelar decretada con anterioridad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 167.
 
@@ -1743,7 +1743,7 @@ IV. La obligación de presentarse periódicamente ante el Juez o ante la autorid
 
 V. La colocación de localizadores electrónicos, sin que medie violencia o lesión a la dignidad o integridad física del imputado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -1751,13 +1751,13 @@ VI. La prohibición de salir de su domicilio o el de otra persona, sin vigilanci
 
 VII. La prohibición de concurrir a determinadas reuniones o de visitar ciertos lugares;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 VIII. La prohibición de acercarse, convivir o comunicarse con personas determinadas, siempre que no se afecte el derecho de defensa;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -1769,25 +1769,25 @@ XI. Internamiento en centro de salud u hospital psiquiátrico, en los casos en q
 
 XII. La prisión preventiva, a menos que el delito imputado tuviera señalada pena alternativa o no privativa de libertad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 El Ministerio Público sólo podrá solicitar la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el proceso, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 Con excepción de los delitos calificados como graves por la ley, el Juez puede prescindir de toda medida cautelar cuando la promesa del imputado de someterse al proceso sea suficiente para descartar los motivos que autorizarían el dictado de la medida conforme el artículo siguiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 Las medidas cautelares previstas en las fracciones VII, VIII y IX, podrán ser solicitadas por la víctima u ofendido del delito.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -1795,9 +1795,9 @@ Las medidas cautelares previstas en las fracciones VII, VIII y IX, podrán ser s
 
 Procedencia.- El Juez podrá aplicar las medidas cautelares, siempre y cuando se le haya dado la oportunidad al imputado de rendir su declaración, y exista una presunción razonable, por apreciación de las circunstancias del caso particular, de que el imputado represente un riesgo para la sociedad, la víctima o el ofendido, salvo que se trate de la aplicación anticipada de medidas cautelares a que se refiere el artículo 162 de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 169.
 
@@ -1805,9 +1805,9 @@ Imposición.- A solicitud del Ministerio Público, el Juez podrá imponer una so
 
 En ningún caso, el Juez está autorizado a aplicar estas medidas desnaturalizando su finalidad, ni a imponer otras más graves que las solicitadas o cuyo cumplimiento resulte imposible.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 170.
 
@@ -1815,7 +1815,7 @@ Riesgo para la sociedad.- Se entiende que existe riesgo para la sociedad, cuando
 
 I. Para decidir acerca del peligro de sustracción a la acción de la justicia, el Juez tomará en cuenta, entre otras, las siguientes circunstancias:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -1827,7 +1827,7 @@ c) El comportamiento del imputado durante el proceso o en otro anterior, en la m
 
 d) La posible pena o medida de seguridad a imponer;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -1841,31 +1841,31 @@ b) Influirá para que coimputados, testigos o peritos no declaren o se comporten
 
 III. Existe riesgo para la víctima u otra persona, cuando se estime que el imputado puede cometer un delito doloso contra cualquiera de ellos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 IV. La medida cautelar prevista en la fracción X del artículo 167 de este Código, podrá aplicarse cuando exista presunción razonable de que el imputado pueda cometer un nuevo delito de la misma naturaleza al que se le atribuye.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO UNICO DEL DECRETO No. 279, PUBLICADO EN EL P.O. DE 13 DE NOVIEMBRE DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO, PARA QUEDAR CONFORMADO POR DOS FRACCIONES.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL DECRETO No. 279, PUBLICADO EN EL P.O. DE 13 DE NOVIEMBRE DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO, PARA QUEDAR CONFORMADO POR DOS FRACCIONES.</small>
 
 ###### Artículo 171.
 
 Resolución.- La resolución que imponga una medida cautelar personal contendrá:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 I. La indicación de la medida y las razones por las cuales el Juez estima que los presupuestos que la motivan concurren en el caso; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 II. La fecha en que vence el plazo máximo de vigencia de la medida, tratándose de la medida cautelar de la prisión preventiva.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -1951,19 +1951,19 @@ Terminación de la prisión preventiva.- La prisión preventiva finalizará cuan
 
 I. Nuevos elementos del proceso demuestren que no concurren los motivos que la fundaron o tornen conveniente su sustitución por otra medida;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 II. Exceda el tiempo que como máximo de pena fije la ley al delito que motivare el proceso;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 III. Su duración exceda de doce meses;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -1973,13 +1973,13 @@ IV. Las condiciones personales del imputado se agraven de tal modo que la prisi�
 
 Prórroga del plazo máximo de la prisión preventiva.- Si se ha dictado sentencia condenatoria y ésta ha sido impugnada, el plazo máximo de prisión preventiva podrá prorrogarse por seis meses más.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 Excepcionalmente y de oficio, la autoridad judicial podrá autorizar una prórroga de la prisión preventiva más allá del plazo anterior sin que en ningún caso exceda de seis meses cuando se haya ordenado la reposición del juicio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -1989,25 +1989,25 @@ Vencidos esos plazos, no se podrá acordar una nueva ampliación, sin que ello o
 
 Suspensión de los plazos de prisión preventiva.- Los plazos previstos en los artículos anteriores se suspenderán cuando:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 I. El proceso deba prolongarse a causa del ejercicio de defensa del imputado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 II. El proceso esté suspendido a causa de un mandato derivado de un juicio de amparo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 III. El debate de juicio oral se encuentre suspendido o se aplace su iniciación a petición del imputado o su defensor; o
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2021,7 +2021,7 @@ Medidas.- Para garantizar la reparación de los posibles daños y perjuicios pro
 
 En la solicitud, el promovente deberá expresar el carácter con el que comparece, el daño o perjuicio concreto que se pretende garantizar, así como la persona en contra de la cual se pide el embargo y los antecedentes con que se cuenta para considerar como probable responsable de reparar el daño a dicha persona.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2033,7 +2033,7 @@ Resolución.- El Juez de Garantía resolverá sobre la solicitud de embargo en a
 
 Embargo previo a la imputación.- Si el embargo precautorio se ordena antes de que se haya formulado imputación en contra del directamente responsable de reparar el daño, el Ministerio Público deberá formular imputación, solicitar la orden de aprehensión correspondiente o solicitar fecha de audiencia para formular imputación, en un plazo no mayor de dos meses.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2081,9 +2081,9 @@ Aplicación.- El embargo precautorio de bienes se regirá en lo no previsto en e
 
 ## TÍTULO SÉPTIMO. MEDIOS ALTERNATIVOS DE TERMINACIÓN DEL PROCESO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ### CAPÍTULO I. JUSTICIA ALTERNATIVA
 
@@ -2099,7 +2099,7 @@ Se entiende por acuerdo reparatorio, al pacto entre la víctima u ofendido y el 
 
 La aplicación de estos mecanismos tendrá por objeto atender las necesidades y responsabilidades individuales y colectivas de las partes y lograr la integración de la víctima u ofendido y del infractor en la comunidad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2111,7 +2111,7 @@ Se exceptúan de esta disposición los homicidios culposos que se cometan con mo
 
 Si el delito afecta intereses difusos o colectivos, en el mecanismo de justicia alternativa respectivo, el Ministerio Público asumirá la representación de los citados intereses, cuando no se haya apersonado como víctima u ofendido alguno de los sujetos autorizados en este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2121,7 +2121,7 @@ Oportunidad.- La celebración de los acuerdos reparatorios procederá hasta ante
 
 El Juez de Garantía, a petición de las partes, podrá suspender el proceso penal hasta por treinta días para que procuren la solución del conflicto. En caso de que alguna de las partes decidiera interrumpir los procedimientos de mediación, conciliación o proceso restaurativo, o existiera alguna causa que los interrumpiera, cualquiera de las partes podrá solicitar la continuación del proceso penal, sin perjuicio de que el especialista a que se refiere la Ley informe al Juez para que este tome las medidas pertinentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2137,7 +2137,7 @@ Tratándose de aquellos asuntos en que se ha formulado la imputación, el juez d
 
 El Juez o el Ministerio Público no aprobarán los acuerdos reparatorios cuando tenga fundados motivos para estimar que alguno de los intervinientes no está en condiciones de igualdad para negociar o ha actuado bajo coacción o amenaza.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2231,9 +2231,9 @@ Si el imputado está sometido a otro proceso y goza de libertad, la obligación 
 
 La revocación de la suspensión del proceso no impedirá el pronunciamiento de una sentencia absolutoria, ni la concesión de algunas de las medidas sustitutivas a la privación de libertad, cuando fueren procedentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 208.
 
@@ -2251,7 +2251,7 @@ Durante el período de suspensión del proceso a prueba quedará suspendida la p
 
 Modos de inicio del procedimiento. El procedimiento penal se inicia por denuncia o por querella.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2305,7 +2305,7 @@ Querella.- Querella es la expresión de voluntad de la víctima u ofendido del d
 
 Cuando con motivo del tránsito de vehículos con motor, culposamente se cause lesión, y el ofendido quede en estado de inconsciencia o imposibilitado para formular su querella y no tuviere quien lo represente legal o convencionalmente, se entenderá que su deseo es querellarse.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2329,7 +2329,7 @@ Este órgano podrá formular la querella en representación de menores o incapac
 
 #### SECCIÓN 2. LA PERSECUCIÓN PENAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2343,13 +2343,13 @@ Deber de persecución penal.- Cuando el Ministerio Público tenga conocimiento d
 
 El Ministerio Público aplicará, cuando así proceda, las medidas alternas señaladas en la Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 Artículo 222 bis.- Facultad para abstenerse de investigar.- cuando fuere evidente que los hechos relatados en la denuncia o querella no fueren constitutivos de delito o cuando los antecedentes y datos suministrados permitan establecer, de forma indubitable, que se encuentra extinguida la acción penal contra el imputado y siempre que no haya habido intervención del Juez en el procedimiento, el Ministerio Público podrá abstenerse de toda investigación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2359,7 +2359,7 @@ Queja.- El denunciante, querellante o el imputado, podrá acudir en queja ante e
 
 La queja deberá resolverse por escrito en un plazo de veinticuatro horas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2369,7 +2369,7 @@ Archivo temporal.- En tanto no se formule la imputación, el Ministerio Público
 
 La víctima u ofendido podrá solicitar al Ministerio Público la reapertura de la investigación siempre y cuando proponga la realización de diligencias de investigación concretas y pertinentes, y de ser denegada ésta petición, podrá presentar queja ante el superior jerárquico del Ministerio Público dentro de un plazo de tres días, la cual deberá resolverse por escrito en un plazo de veinticuatro horas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2377,7 +2377,7 @@ La víctima u ofendido podrá solicitar al Ministerio Público la reapertura de 
 
 No ejercicio de la acción penal.- Antes de que se formule imputación en el procedimiento, el Ministerio Público podrá decretar el no ejercicio de la acción penal cuando los antecedentes le permitan concluir que en el caso concreto se actualiza alguna de las causales de sobreseimiento previstas en este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2513,7 +2513,7 @@ Registro de otros locales.- Para el registro de oficinas públicas, locales púb
 
 Quien haya prestado el consentimiento será invitado a presenciar el acto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2553,7 +2553,7 @@ Medidas de vigilancia.- Antes de que el Juez dicte la orden de cateo, el Ministe
 
 Facultades coercitivas.- Para realizar el cateo, la inspección y el registro, podrá ordenarse que durante la diligencia no se ausenten quienes se encuentran en el lugar o que cualquier otra persona comparezca inmediatamente. Quienes se opusieren, podrán ser compelidos por la fuerza pública.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2573,7 +2573,7 @@ III. Sonidos, signos o voces provenientes de un lugar cerrado o habitado o de su
 
 Los motivos que determinaron la inspección sin orden judicial constarán detalladamente en el acta que al efecto se levante.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2589,9 +2589,9 @@ Las inspecciones que afecten el pudor de las personas deberán realizarse prefer
 
 De lo actuado se dejará constancia en un acta.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 245.
 
@@ -2617,7 +2617,7 @@ Inspecciones colectivas.- Cuando la policía realice inspecciones de personas o 
 
 Aseguramiento.- El Juez, el Ministerio Público y la policía, deberán disponer que sean recogidos y conservados los objetos relacionados con el delito, los sujetos a decomiso y aquellos que puedan servir como medios de prueba; para ello, cuando sea necesario, ordenarán su aseguramiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2643,9 +2643,9 @@ Cuando se estime conveniente, se dejará constancia de los elementos restituidos
 
 Clausura Temporal.- Cuando para averiguar un hecho punible sea indispensable clausurar un local, el Ministerio Público procederá en consecuencia por el tiempo estrictamente necesario para realizar las diligencias debidas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 252.
 
@@ -2659,7 +2659,7 @@ Incautación de bases de datos.- Cuando se aseguren equipos informáticos o dato
 
 El examen de los objetos o documentos se hará bajo la responsabilidad del agente del Ministerio Público que lo haya solicitado. Los objetos o información que no resulten útiles a la investigación o estén comprendidas en las restricciones para el aseguramiento, serán devueltos de inmediato y no podrán utilizarse para la investigación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2697,7 +2697,7 @@ Lo examinado será conservado, en lo posible, de modo que el peritaje pueda repe
 
 Exámenes y pruebas en las personas.- Si fuere necesario para constatar circunstancias decisivas para la investigación, podrán efectuarse en la persona del imputado, el afectado por el hecho punible, u otras personas, con su consentimiento, exámenes corporales, pruebas de carácter biológico, extracciones de sangre u otros similares, siempre que no exista riesgo o menoscabo para su salud o dignidad y que tenga como fin la investigación del hecho punible.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2753,9 +2753,9 @@ Control Judicial.- Los interesados podrán objetar ante el Juez las medidas que 
 
 #### SECCIÓN 5. PRUEBA ANTICIPADA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 266.
 
@@ -2821,7 +2821,7 @@ Estos registros no podrán reemplazar a las declaraciones de los agentes de poli
 
 Concepto de formulación de la imputación.- La formulación de la imputación es la comunicación que el Ministerio Público efectúa al imputado, en presencia del Juez, de que se desarrolla una investigación en su contra respecto de uno o más hechos determinados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2831,7 +2831,7 @@ Oportunidad para formular la imputación.- En el caso de los imputados detenidos
 
 En el caso de imputados que han sido aprehendidos por orden judicial, se formulará la imputación en su contra en la audiencia que al efecto convoque el Juez de Garantía, una vez que el imputado ha sido puesto a su disposición e inmediatamente después de verificar que el imputado conoce sus derechos o en su caso después de que se le han dado a conocer.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2843,13 +2843,13 @@ A esta audiencia se citará al imputado, a quien se le indicará que deberá com
 
 El Ministerio Público formulará imputación en términos de lo dispuesto en el artículo 278 de este Código, una vez que el Juez haya verificado que el imputado conoce sus derechos, o en su caso, después de que se los haya dado a conocer.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 277.
 
 (DEROGADO, P.O. 13 DE NOVIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2867,7 +2867,7 @@ Efectos de la formulación de la imputación.- La formulación de la imputación
 
 I. Suspenderá el curso de la prescripción de la acción penal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2881,7 +2881,7 @@ Si con posterioridad a la formulación de la imputación el Ministerio Público 
 
 #### SECCIÓN 8. VINCULACIÓN DEL IMPUTADO A PROCESO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO UNICO DEL DECRETO No. 279, PUBLICADO EN EL P.O. DE 13 DE NOVIEMBRE DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO, PARA QUEDAR CONFORMADO POR TRES FRACCIONES Y DOS PARRAFOS.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL DECRETO No. 279, PUBLICADO EN EL P.O. DE 13 DE NOVIEMBRE DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO, PARA QUEDAR CONFORMADO POR TRES FRACCIONES Y DOS PÁRRAFOS.</small>
 
 ###### Artículo 281.
 
@@ -2889,19 +2889,19 @@ Requisitos para vincular a proceso al imputado.- El Juez, a petición del Minist
 
 I. Que se haya formulado la imputación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 II. De los antecedentes de la investigación expuestos por el Ministerio Público, obren datos que establezcan se ha cometido un hecho que la Ley señale como delito y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 III. No se encuentre demostrada, más allá de toda duda razonable, una causa de extinción de la acción penal, de la pretensión punitiva o excluyente de delito.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2913,7 +2913,7 @@ No vinculación a proceso del imputado.- En caso de que no se reúna alguno de l
 
 El auto de no vinculación del imputado a proceso no impide que el Ministerio Público continúe con la investigación y posteriormente formule de nueva cuenta la imputación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2943,7 +2943,7 @@ Plazo judicial para el cierre de la investigación.- El Juez competente, de ofic
 
 #### SECCIÓN 9. CONCLUSIÓN DE LA ETAPA DE INVESTIGACIÓN
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2951,7 +2951,7 @@ Plazo judicial para el cierre de la investigación.- El Juez competente, de ofic
 
 Plazo para declarar el cierre de la investigación.- Transcurrido el plazo para el cierre de la investigación, esta se tendrá por cerrada, salvo que el Ministerio Público o el imputado hayan solicitado justificadamente prórroga del mismo al Juez, dentro de diez días previos a la conclusión del plazo que se pretende prorrogar, observándose los límites máximos previstos en el artículo 286. Si el Juez estima que la prórroga no se justifica, denegará la petición.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2965,7 +2965,7 @@ II. Solicitar el sobreseimiento de la causa; o
 
 III. Solicitar la suspensión del proceso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -3027,7 +3027,7 @@ Si el Juez acepta la solicitud, ordenará al Ministerio Público reabrir la inve
 
 El Juez no decretará ni renovará aquellas diligencias que en su oportunidad se hubieren ordenado a petición de las partes y no se hubieren cumplido por negligencia o hecho imputable a ellas; tampoco las que fueren manifiestamente impertinentes; las que tuvieren por objeto acreditar hechos públicos y notorios, o aquellas que hubieren sido solicitadas con fines puramente dilatorios.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -3065,9 +3065,9 @@ Acusaciones subsidiarias.- El agente del Ministerio Público podrá hacer valer 
 
 Ofrecimiento de medios de prueba.- Si de conformidad con lo establecido en la fracción VI del artículo 294, el Ministerio Público ofrece prueba de testigos, deberá presentar una lista, identificándolos con nombre, apellidos, profesión y domicilio o residencia, señalando, además, la materia sobre la que habrán de recaer sus declaraciones. Cuando el Ministerio Público ofrezca como prueba el testimonio de una persona en cuyo favor se haya decretado un criterio de oportunidad conforme a la (sic) dispuesto en la fracción II del artículo 79 de este Código, se encontrará obligado a informar a la defensa sobre esta circunstancia y a anexar en su escrito de acusación la resolución mediante la cual se haya decretado ejercer el criterio de oportunidad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 297.
 
@@ -3077,7 +3077,7 @@ En ningún caso el dictamen de perito podrá sustituir la declaración del perit
 
 Al ofrecerse evidencia material sometida a custodia, deberán anexarse los documentos respectivos que acrediten, en su caso, la cadena de custodia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 298.
 
@@ -3091,7 +3091,7 @@ Al ofrecerse evidencia material sometida a custodia, deberán anexarse los docum
 
 Finalidad.- La etapa intermedia tiene por objeto el ofrecimiento y admisión de pruebas, así como la depuración de los hechos controvertidos que serán materia de juicio oral.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -3105,7 +3105,7 @@ Transcurrido el plazo sin que se hayan subsanados los defectos, el Juez dará vi
 
 Una vez resuelto lo conducente, el Juez ordenará la notificación a las partes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -3131,7 +3131,7 @@ Acusador coadyuvante.- El acusador coadyuvante deberá formular su gestión por 
 
 La Participación de la víctima u ofendido como acusador coadyuvante no alterará las facultades concedidas por Ley al Ministerio Público, ni le eximirá de sus responsabilidades.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -3149,7 +3149,7 @@ V. Los medios de prueba que ofrezca para ser desahogados en la audiencia de indi
 
 La víctima u ofendido podrá desistirse expresamente de su demanda en cualquier estado del proceso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -3163,7 +3163,7 @@ III. Ofrecer los medios de prueba que ofrezca para ser desahogados en la audienc
 
 Sin perjuicio de lo dispuesto en este artículo, en el desarrollo de la audiencia el demandado civil podrá tener intervención en aquellos temas relativos a la reparación del daño.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -3179,13 +3179,13 @@ I. Realizar las observaciones que estimen adecuadas sobre el escrito de acusaci�
 
 II. Deducir las excepciones de previo y especial pronunciamiento a que se refiere el artículo siguiente;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 III. Exponer los argumentos de defensa que considere necesarios y señalar los medios de prueba que se producirán en la audiencia de debate, en los mismos términos previstos en los artículos 296 y 297 de éste Código;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -3193,9 +3193,9 @@ IV. Ofrecer los medios de prueba relativos a la individualización de la pena, p
 
 V. Proponer a las partes la suspensión del proceso a prueba, el procedimiento abreviado, los acuerdos reparatorios y demás acuerdos que sean procedentes conforme a otras leyes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 305.
 
@@ -3233,13 +3233,13 @@ La falta de comparecencia del Ministerio Público o del defensor público será 
 
 Si la falta de comparecencia es de un defensor particular, el Juez le designará un defensor público al acusado y dispondrá la suspensión de la audiencia por un plazo razonable conforme a las circunstancias del caso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 Si el actor civil no comparece se le tendrá por desistido de su demanda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -3251,9 +3251,9 @@ Si el Procurador no subsanare oportunamente los vicios, el Juez procederá a dec
 
 Si la víctima u ofendido han hecho valer algún vicio formal de la acusación el Juez en la audiencia escuchará al Ministerio Público sobre tales observaciones. Si el Ministerio Público se negase a corregir los vicios formales señalados por la víctima u ofendido, se dejarán a salvo sus derechos para presentar queja ante el Procurador General de Justicia, a menos de que el vicio consistiese en que el Ministerio Público omitió solicitar la reparación del daño, caso en el cual se suspenderá la audiencia y se dará vista al Procurador General de Justicia por un plazo de tres días para que, en su caso, corrija esa omisión.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 310.
 
@@ -3303,19 +3303,19 @@ II. La o las acusaciones que deberán ser objeto del juicio y las correcciones f
 
 III. Los hechos que se dieren por acreditados;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 IV. En su caso, la demanda de reparación de daños y perjuicios;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 V. Las pruebas que deberán producirse en el juicio oral y las que deban de desahogarse en la audiencia de individualización de las sanciones y de reparación de daño; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -3325,7 +3325,7 @@ VI. La identificación de quienes deban ser citados a la audiencia de juicio ora
 
 #### SECCIÓN 1. DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -3337,9 +3337,9 @@ Principios.- El juicio es la etapa de decisión de las cuestiones esenciales del
 
 Restricción judicial.- Los jueces que en el mismo asunto hayan intervenido en las etapas anteriores a la del juicio oral, no podrán integrar el Tribunal del debate.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 318.
 
@@ -3373,31 +3373,31 @@ Estas medidas sólo procederán por solicitud fundada del Ministerio Público y 
 
 Publicidad.- El debate será público, pero el Tribunal podrá resolver excepcionalmente, aún de oficio, que se desarrolle total o parcialmente a puertas cerradas, cuando:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 I. Por razones de seguridad nacional o seguridad pública.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 II. Para proteger a las víctimas u ofendidos, testigos y personas menores de edad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 III. Cuando se ponga en riesgo la revelación de datos legalmente protegidos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 IV. Cuando esté previsto específicamente en este Código o en otra Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -3407,7 +3407,7 @@ La resolución será fundada y constará en el registro del debate de juicio ora
 
 El Tribunal señalará en cada caso las condiciones en que se ejercerá el derecho a informar y podrá restringir o prohibir, mediante resolución fundada, la grabación, fotografía, edición o reproducción de la audiencia, cuando puedan resultar afectados algunos de los intereses señalados en este artículo o cuando se limite el derecho del acusado o de la víctima u ofendido a un juicio imparcial y justo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -3465,9 +3465,9 @@ Las decisiones y las resoluciones que se emitan durante el juicio, serán dictad
 
 #### SECCIÓN 3. DIRECCIÓN Y DISCIPLINA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 328.
 
@@ -3509,9 +3509,9 @@ Legalidad de la prueba.- Los elementos de prueba no tendrán valor si han sido o
 
 Oportunidad para la recepción de la prueba.- La prueba que hubiere de servir de base a la sentencia deberá rendirse durante la audiencia de debate de juicio oral, salvo las excepciones expresamente previstas en la Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 333.
 
@@ -3553,9 +3553,9 @@ Si el testigo reside en un lugar lejano al asiento del órgano judicial y carece
 
 Tratándose de testigos que fueren servidores públicos, la dependencia en la que se desempeñen adoptará las medidas correspondientes para garantizar su comparecencia. En caso de que estas medidas irroguen gastos, correrán a cargo de esa dependencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 338.
 
@@ -3563,7 +3563,7 @@ Comparecencia obligatoria de testigos.- Si el testigo, debidamente citado, no co
 
 Las autoridades están obligadas a auxiliar oportuna y diligentemente al Juez para garantizar la comparecencia obligatoria de los testigos. El Juez podrá emplear contra las autoridades los medios de apremio que establece este Código en caso de incumplimiento o retardo a sus determinaciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -3579,7 +3579,7 @@ Excepciones a la obligación de comparecencia.- No estarán obligados a concurri
 
 I. Respecto de los servidores públicos federales, el presidente de la República; los Secretarios de Estado de la Federación; el Procurador General de la República; los Ministros de la Suprema Corte de Justicia de la Nación; y los Diputados y Senadores del Congreso de la Unión;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -3591,7 +3591,7 @@ IV. Los que, por enfermedad grave u otro impedimento calificado por el Tribunal,
 
 Si las personas enumeradas en las fracciones anteriores renunciaren a su derecho a no comparecer, deberán prestar declaración conforme a las reglas generales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -3603,7 +3603,7 @@ Las personas que no puedan concurrir al Tribunal, por estar físicamente impedid
 
 Estos procedimientos especiales deberán llevarse a cabo sin afectar el derecho a la confrontación y a la defensa.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -3675,7 +3675,7 @@ Otros elementos de prueba.- Además de los previstos en este Código, podrán ut
 
 Exhibición de prueba material.- Previa su incorporación al proceso, los objetos y otros elementos de convicción podrán ser exhibidos al imputado, a los testigos y a los peritos, para que los reconozcan o informen sobre ellos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -3759,7 +3759,7 @@ Estas normas se aplicarán al imputado cuando consienta prestar declaración.
 
 Las decisiones del Tribunal al respecto no admitirán recurso alguno.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -3769,7 +3769,7 @@ Lectura de declaraciones o informes en la audiencia de debate de juicio oral.- P
 
 Lo anterior, sin perjuicio de que las partes exijan la comparecencia personal del testigo o perito cuando sea posible.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 364.
 
@@ -3779,7 +3779,7 @@ Lo anterior, sin perjuicio de que las partes exijan la comparecencia personal de
 
 Lectura para apoyo de memoria y superación de contradicciones en la audiencia de debate de juicio oral.- Durante el interrogatorio al imputado, testigo o perito, se les podrá leer parte de sus declaraciones anteriores o documentos por ellos elaborados, cuando fuere necesario para ayudar a la memoria o para demostrar o superar contradicciones, o con el fin de solicitar las aclaraciones pertinentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -3815,7 +3815,7 @@ Por último, se otorgará al imputado la palabra para que manifieste lo convenie
 
 #### SECCIÓN 10. DELIBERACIÓN Y SENTENCIA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -3825,7 +3825,7 @@ Deliberación.- Inmediatamente después de clausurado el debate, los miembros de
 
 En caso de incumplir los plazos a que se refiere este artículo, se decretará la nulidad del juicio y se repetirá en el plazo más breve posible. Tratándose de enfermedad grave de alguno de los jueces, la deliberación podrá suspenderse hasta por diez días, luego de los cuales se decretará la nulidad del juicio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -3843,7 +3843,7 @@ Convicción del Tribunal.- Nadie podrá ser condenado por algún delito, sino cu
 
 El Tribunal formará su convicción sobre la base de la prueba producida durante el juicio oral.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -3875,7 +3875,7 @@ Redacción de la sentencia.- La sentencia será siempre redactada por uno de los
 
 Si se trata de un Tribunal Unitario, la sentencia la dictara el Juez que la pronunció.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -3905,7 +3905,7 @@ Señalamiento de fecha para audiencia de individualización de sanciones y repar
 
 Las partes, con aprobación del Tribunal, podrán renunciar a la celebración de la audiencia de individualización de sanciones y reparación del daño. En este caso, el Tribunal citara a una audiencia de lectura de sentencia condenatoria. En caso de que en la fecha y hora fijadas para la audiencia de lectura de sentencia condenatoria no asistiere a la sala de audiencias persona alguna, se dispensará la lectura de la sentencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -3913,7 +3913,7 @@ Las partes, con aprobación del Tribunal, podrán renunciar a la celebración de
 
 Citación a la audiencia de individualización de sanciones.- La fecha de la audiencia de individualización de las sanciones se le notificará, en su caso, a la víctima u ofendido y al tercero civilmente demandado. Asimismo, se citará a ella a quienes deban comparecer a la misma.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -3931,7 +3931,7 @@ Enseguida, se le dará el uso de la palabra a la víctima u ofendido para que se
 
 Desahogo de pruebas.- Expuesto los alegatos iniciales de las partes, se procederá al desahogo de las pruebas debidamente admitidas, empezando por las del Ministerio Público, después las de la víctima u ofendido, y concluyendo con las de la defensa. En el desahogo de los medios de prueba serán aplicables las normas relativas al juicio oral.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -3939,31 +3939,31 @@ Desahogo de pruebas.- Expuesto los alegatos iniciales de las partes, se proceder
 
 Alegatos finales y lectura de sentencia.- Desahogadas las pruebas, las partes harán sus alegatos finales. Después de deliberar brevemente, el Tribunal procederá a manifestarse con respecto a la sanción a imponer al sentenciado y sobre la existencia del daño causado a la víctima u ofendido y su reparación. Asimismo, fijará las penas y se pronunciará sobre la eventual aplicación de alguna de las medidas alternativas a la pena de prisión o sobre su suspensión, e indicará en que forma deberá, en su caso, repararse el daño. A continuación, el Tribunal procederá a explicar la sentencia condenatoria.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 #### SECCIÓN 11. LIQUIDACIÓN POR DAÑOS Y PERJUICIOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 Artículo 385 bis.- Prevención de pago.- Cuando la sentencia condene a reparación de daños y perjuicios en cantidad líquida, el Juez que la hubiere dictado le prevendrá al imputado y al tercero demando civil si lo hubiere, que proceda a pagar su importe total en el plazo de cinco días.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 Artículo 385 bis 1.- Ejecución a plazos.- Cuando la sentencia hubiere condenado al pago y este no se haya efectuado en el plazo antes mencionado, la víctima u ofendido, el imputado, el tercero civilmente demandado y el Ministerio Público, en su caso, podrán solicitar, previo acuerdo con el responsable de cubrir la reparación del daño, que el Juez autorice su pago en plazos, sin que pueda exceder de un año. Si se estima necesario, podrá requerirse el otorgamiento de garantías.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 Artículo 385 bis 2.- Ejecución forzosa.- Cuando la sentencia hubiere condenado al pago de cantidad líquida y no se hubiere pagado en el plazo de cinco días, y no existiere acuerdo para pagar a plazos, la víctima u ofendido y, en su caso, el Ministerio Público, presentarán ante el Juez que dictó la sentencia penal una solicitud de embargo de bienes, siempre y cuando no se hubiera decretado ya con anterioridad otro embargo. El avalúo y venta de los bienes se tramitará en términos de lo que establece el Código de Procedimientos Civiles para el Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -3985,9 +3985,9 @@ En lo no previsto y siempre que no se opongan a las primeras, se aplicarán las 
 
 ### CAPÍTULO II. PROCEDIMIENTO ABREVIADO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 387.
 
@@ -3995,7 +3995,7 @@ Procedencia.- El procedimiento abreviado se tramitará únicamente a solicitud d
 
 La existencia de coimputados no impide la aplicación de estas reglas a alguno de ellos. Se escuchará a la víctima u ofendido, a pesar de que no se haya constituido como acusador coadyuvante, pero su criterio no será vinculante. La incomparecencia injustificada de la víctima u ofendido a la audiencia no impedirá que se resuelva sobre la apertura del procedimiento abreviado y, en su caso, se dicte la sentencia respectiva.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -4007,19 +4007,19 @@ Oportunidad.- El Ministerio Público podrá presentar la acusación y solicitar 
 
 El Ministerio Público manifestará su intención de que se aplique el procedimiento abreviado al formular su acusación por escrito, o verbalmente, en la misma audiencia intermedia. En este último caso, el Ministerio Público podrá modificar su acusación, así como la pena requerida.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 Cuando en la acusación se solicite la aplicación del procedimiento abreviado, no será necesario que en la misma se ofrezcan los medios de prueba a que se refieren las fracciones VI, VII y VIII del artículo 294 de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 En caso de que la acusación se presente por escrito y el procedimiento abreviado sea rechazado, se le concederá al Ministerio Público un plazo de cinco días para que presente su acusación cumpliendo con los requisitos previstos en el artículo 294 de este Código, pudiendo modificar la pena solicitada en la acusación donde solicitó la aplicación del procedimiento abreviado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -4031,19 +4031,19 @@ Verificación del Juez.- Antes de resolver sobre la solicitud del Ministerio Pú
 
 I. Ha prestado su conformidad al procedimiento abreviado en forma libre, voluntaria e informada y con la asistencia de su defensor;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 II. Conociere su derecho a exigir un juicio oral, y que renunciare voluntariamente a ese derecho, aceptare los antecedentes de la investigación, y ser juzgado conforme a los mismos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 III. Entendiere los términos del acuerdo y las consecuencias que éste pudiera implicarle;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -4053,7 +4053,7 @@ IV. Reconoce ante la autoridad judicial, voluntariamente y con conocimiento de l
 
 Resolución sobre la solicitud de procedimiento abreviado.- El Juez aceptará la solicitud de procedimiento abreviado del Ministerio Público cuando considere actualizados los requisitos correspondientes, en caso contrario, la rechazará. En este último supuesto, el requerimiento anterior sobre la pena no vinculará al Ministerio Público durante el juicio, se tendrán por no formuladas la aceptación de los hechos por parte del acusado, así como las modificaciones de la acusación efectuadas para posibilitar la tramitación abreviada del procedimiento. De la misma forma, el Juez dispondrá que todos los antecedentes relativos al planteamiento, discusión y resolución de la solicitud, sean eliminados del registro.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -4061,7 +4061,7 @@ Resolución sobre la solicitud de procedimiento abreviado.- El Juez aceptará la
 
 Trámite en el procedimiento abreviado.- Acordado el procedimiento abreviado, el Juez otorgará la palabra a las partes para que realicen las manifestaciones que consideren convenientes. En todo caso, la exposición final corresponderá siempre al imputado y a su defensor.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -4083,7 +4083,7 @@ Si el supuesto previsto en el párrafo primero se actualiza durante el juicio, i
 
 Las partes tendrán derecho a presentar sus peritajes en el plazo señalado en el párrafo anterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -4113,13 +4113,13 @@ Serán aplicables a los inimputables todos los derechos que para el imputado pre
 
 Comunidades indígenas.- Tratándose de delitos cometidos por miembros de comunidades o pueblos indígenas, en perjuicio de bienes jurídicos patrimoniales de éstos o de alguno de sus miembros, podrán ser juzgados conforme a sus usos y costumbres por sus autoridades tradicionales. Cuando conozcan las autoridades tradicionales, no podrá conocer la jurisdicción ordinaria, dejando a salvo el derecho a recurrir.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ### CAPÍTULO V. PROCEDIMIENTO POR DELITO DE ACCIÓN PRIVADA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -4127,7 +4127,7 @@ Artículo 394 bis.- Procedencia.- La acción penal por la víctima u ofendido po
 
 La víctima u ofendido en el procedimiento de acción penal privada deberá estar representada por un Licenciado en Derecho.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -4135,7 +4135,7 @@ Artículo 394 bis 1.- Querella.- En los casos de los delitos de difamación y ca
 
 No obstante, durante el trámite de la investigación podrá proponer otras diligencias que resulten estrictamente indispensables y que se desprendan del desahogo de las diligencias que haya propuesto al presentar la querella.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -4143,13 +4143,13 @@ Artículo 394 bis 2.- Acción penal privada en caso de criterios de oportunidad.
 
 Si la víctima u ofendido decide ejercitar la acción penal privada informará al Ministerio Público de esta circunstancia pudiendo solicitarle la práctica de diligencias que resulten indispensables para la investigación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 Artículo 394 bis 3.- Cierre de la investigación.- Una vez realizadas las diligencias propuestas por la víctima u ofendido, el Ministerio Público cerrará la investigación y entregará la carpeta de investigación a la víctima u ofendido para que en su caso, ejercite la acción penal privada.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -4157,7 +4157,7 @@ Artículo 394 bis 4.- Ejercicio de la acción penal privada.- Dentro de los diez
 
 En caso que la víctima u ofendido no presente la solicitud de audiencia de formulación de imputación dentro del término señalado en el párrafo anterior, se extinguirá la acción penal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -4165,7 +4165,7 @@ Artículo 394 bis 5.- Audiencia inicial.- Al principio de la audiencia el Juez v
 
 Después de formulada la imputación, en la misma audiencia, el Juez recibirá la declaración del imputado, en caso que decida ejercer su derecho a declarar.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -4173,7 +4173,7 @@ Artículo 394 bis 6.- Vinculación al proceso.- Inmediatamente después que el i
 
 Una vez hecho lo anterior, se procederá a resolver la vinculación a proceso en los mismo términos que lo exige este Código para la acción penal pública.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -4181,19 +4181,19 @@ Artículo 394 bis 7.- Presentación de la acusación.- Dentro de los diez días 
 
 En caso que la víctima u ofendido no presente el escrito de acusación dentro del plazo señalado en el párrafo anterior, se extinguirá la acción penal y se decretará el sobreseimiento de la causa.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 Artículo 394 bis 8.- Audiencia intermedia.- Inmediatamente después de que la víctima u ofendido haya presentado el escrito de acusación, el Juez deberá notificarlo al imputado con copia del mismo y citará a las partes a la audiencia intermedia, la que deberá tener lugar en un plazo no inferior a cinco días ni superior a diez días, contados a partir de su notificación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 Artículo 394 bis 9.- Facultades del imputado y de la defensa.- Hasta antes del inicio de la audiencia intermedia, por escrito, o en dicha audiencia, en forma verbal, el imputado o su defensor podrán ejercer las facultades a que se refiere el artículo 304 de este ordenamiento, con excepción de lo dispuesto en su fracción I.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -4201,13 +4201,13 @@ Artículo 394 bis 10.- Soluciones alternas.- En la audiencia de vinculación a p
 
 En caso de no lograr algún acuerdo, se dispondrá la continuación del procedimiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 Artículo 394 bis 11.- Acumulación de causas.- La acumulación de causas por delitos de acción privada se regirá por las disposiciones comunes, pero ellas no se acumularán con las incorporadas por delitos de acción pública.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -4221,7 +4221,7 @@ III.- Cuando muerto el acusador, no comparezca el representante de la sucesión 
 
 En los casos de incomparecencia, la justa causa deberá acreditarse antes de la iniciación de la audiencia respectiva, si es posible o, en caso contrario, dentro de cuarenta y ocho horas siguientes a la fecha fijada para aquella.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -4231,13 +4231,13 @@ El desistimiento tácito comprenderá a todos los imputados.
 
 El desistimiento extinguirá la acción penal, y el Juez decretará el sobreseimiento de la causa y en su caso podrá imponer el pago de los gastos del proceso al acusador particular, salvo que las partes hubieran convenido a este respecto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 Artículo 394 bis 14.- Impugnaciones.- El acusador particular podrá impugnar aquellas resoluciones que son recurribles por el Ministerio Público.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -4275,13 +4275,13 @@ Condiciones de interposición.- Los recursos se interpondrán en las condiciones
 
 Agravio.- Las partes sólo podrán impugnar las decisiones judiciales que pudieran causarles agravio, siempre que no hayan contribuido a provocarlo. El recurso deberá sustentarse en el reproche de los defectos que causan la afectación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 El imputado podrá impugar (sic) una decisión judicial aunque haya contribuido a provocar el vico (sic), en los casos en que se lesionen derechos fundamentales previstos en la Constitución Federal o en tratados internacionales ratificados por el Estado Mexicano, siempre y cuando no haya actuado con mala fe.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -4291,7 +4291,7 @@ Recurso de la víctima u ofendido.- La víctima o el ofendido podrán recurrir l
 
 La exclusión de los medios de prueba que hubiere ofrecido y las decisiones que se producen en la fase de juicio, solo podrá recurrirlas cuando se haya constituido como acusador coadyuvante.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -4313,7 +4313,7 @@ Sobre la adhesión se dará traslado a las demás partes por el término de tres
 
 Efecto extensivo del recurso.- Cuando existan coimputados, el recurso interpuesto por uno de ellos favorecerá también a los demás, a menos que el recurso se base en motivos exclusivamente personales de quien lo interpuso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -4363,13 +4363,13 @@ Resoluciones apelables.- Serán apelables las siguientes resoluciones dictadas p
 
 I. Las que pusieren término al procedimiento o hicieren imposible su prosecución;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 II. Las que se pronunciaren sobre medidas cautelares. Tratándose de estas resoluciones también serán apelables aquellas decretadas por el Tribunal de Juicio Oral;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -4379,7 +4379,7 @@ IV. Las que concedieren, negaren o revocaren la suspensión del proceso a prueba
 
 V. La sentencia definitiva dictada en el procedimiento abreviado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -4387,7 +4387,7 @@ VI. Sobre la vinculación o no del imputado a proceso;
 
 VII. La negativa de orden de aprehensión o de cateo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -4407,9 +4407,9 @@ En el escrito en el cual se interponga el recurso, se deberán expresar los agra
 
 Cuando el Tribunal competente para conocer de la apelación tenga su sede en un lugar distinto al del proceso, las partes deberán fijar un nuevo domicilio en la jurisdicción de aquél para recibir notificaciones, o la forma para recibirlas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 412.
 
@@ -4423,7 +4423,7 @@ Trámite.- Recibida la resolución apelada y los antecedentes, el Tribunal compe
 
 Si al interponer el recurso, al contestarlo o al adherirse a él, alguno de los interesados considerara necesario exponer oralmente sus argumentos, o bien, cuando el Tribunal la estime útil, éste citará a una audiencia oral dentro de los diez días siguientes, para resolver sobre la cuestión planteada.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -4469,7 +4469,7 @@ II. Se hubiese deducido en contra de resolución que no fuere impugnable por med
 
 III. Lo interpusiere persona no legitimada para ello, o
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -4519,7 +4519,7 @@ Defectos no esenciales.- No causan nulidad los errores de la sentencia recurrida
 
 Trámite.- En la tramitación del recurso de nulidad se seguirá el procedimiento previsto para la apelación, salvo disposición en contrario.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -4535,7 +4535,7 @@ I. Sea indispensable para sustentar el agravio que se formula; o,
 
 II. Se actualicen los supuestos del recurso de revisión.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -4605,19 +4605,19 @@ Rechazo.- El rechazo de la solicitud de revisión no impedirá la interposición
 
 T R A N S I T O R I O S
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2010)</small>
 
 Artículo Primero.- El presente Código entrará en vigor a las cero horas del día once de agosto del año dos mil diez en el partido judicial de Mexicali y en forma sucesiva en los demás partidos judiciales del Estado, conforme al siguiente orden:
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
 
-I.- Ensenada, a partir de las cero horas del día tres de mayo del año dos mil doce.
+I.- Ensenada, a partir de las cero horas del día once de agosto del año dos mil catorce.
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
 
-II.- Tijuana, Tecate y Playas de Rosarito, a partir de las cero horas del día tres de mayo del año dos mil trece.
+II.- Tijuana, Tecate y Playas de Rosarito, a partir de las cero horas del día once de agosto del año dos mil quince.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -4643,7 +4643,7 @@ VI.- Como ordenamiento jurídico aplicable en los delitos contra la salud en su 
 
 El Código de Procedimientos Penales publicado en el Periódico Oficial del Estado de fecha 20 de agosto de 1989, podrá seguir siendo reformado o adicionado hasta en tanto se siga actualizando alguno de los supuestos contenidos en las fracciones anteriores.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -4651,13 +4651,13 @@ Artículo Tercero.- Inaplicabilidad de normas incompatibles. Con las excepciones
 
 Artículo Cuarto.- Delitos Permanentes y Continuados. El procedimiento penal relativo a hechos delictuosos de carácter permanente o continuado que iniciaron bajo la vigencia del aludido Código de Procedimientos Penales de mil novecientos ochenta y nueve y que continúen desarrollándose bajo la vigencia de la presente Ley, será regulado por el primero de los Ordenamientos citados en este Artículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 Artículo Quinto.- Prohibición de Acumulación de Procesos. No procederá la acumulación de procesos sobre hechos delictuosos, cuando alguno de ellos esté sometido al presente Código y otro al Código de procedimientos Penales publicado en el Periódico Oficial del Estado con fecha veinte de agosto de 1989.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -4699,7 +4699,7 @@ BERNARDO H. MARTINEZ AGUIRRE.
 
 P.O. 20 DE MARZO DE 2009.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA ENTRADA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3º. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA ENTRADA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3º. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
 
 P.O. 13 DE NOVIEMBRE DE 2009.
 
@@ -4707,11 +4707,11 @@ P.O. 13 DE NOVIEMBRE DE 2009.
 
 P.O. 22 DE ENERO DE 2010.
 
-LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
 
 P.O. 23 DE ABRIL DE 2010.
 
-EL DECRETO CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+EL DECRETO CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.
 
 P.O. 23 DE ABRIL DE 2010.
 
@@ -4729,15 +4729,15 @@ SEGUNDO.- Publíquese el presente en el Periódico oficial del Estado.
 
 P.O. 15 DE OCTUBRE DE 2010.
 
-DECRETO Nº 440 SE APRUEBA LA REFORMA DEL ARTICULO 166 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL PERIODICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
+DECRETO Nº 440 SE APRUEBA LA REFORMA DEL ARTÍCULO 166 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
 
 Único.- La presente reforma entrará en vigor en el Municipio de Mexicali al día siguiente de su publicación en el Periódico Oficial del Estado, mientras que en el resto de los municipios será en términos de lo que disponen las fracciones I y II del artículo primero transitorio del Código de Procedimientos Penales para el Estado publicado el 19 de octubre de 2007 en el Periódico Oficial de Estado.
 
 P.O. 15 DE OCTUBRE DE 2010.
 
-DECRETO Nº 446, SE APRUEBA LA REFORMA AL ARTICULO SEGUNDO TRANSITORIO DEL NUEVO CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA.
+DECRETO Nº 446, SE APRUEBA LA REFORMA AL ARTÍCULO SEGUNDO TRANSITORIO DEL NUEVO CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA.
 
-LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.
 
 P.O. 9 DE FEBRERO DE 2011.
 
@@ -4754,3 +4754,9 @@ P.O. 1 DE JULIO DE 2011.
 P.O. 30 DE DICIEMBRE DE 2011.
 
 ÚNICO.- Las presentes reformas entrarán en vigor el día de su publicación en el Periódico Oficial de (sic) Estado de Baja California.
+
+P.O. 27 DE ABRIL DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
