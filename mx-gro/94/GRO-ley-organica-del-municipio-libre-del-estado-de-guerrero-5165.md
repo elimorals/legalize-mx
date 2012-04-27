@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2011-07-22"
+last_updated: "2012-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
+LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -689,7 +689,7 @@ El Gobernador del Estado podrá asistir a Sesiones de los Ayuntamientos y tomar 
 
 A las sesiones de los Ayuntamientos deberán comparecer los servidores de la administración municipal, sólo con voz informativa, cuando se traten asuntos de su competencia o fueren requeridos para ello para rendir informes o aportar datos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MARZO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 59.
 
@@ -697,9 +697,11 @@ La vigilancia de la administración municipal se distribuirá entre los regidore
 
 > <small>(REFORMADA, P.O. 23 DE MARZO DE 2007)</small>
 
-I.- De Desarrollo Urbano y Obras Públicas.
+I. De Desarrollo Urbano y Obras Públicas.
 
-II. De Educación, Cultura, Recreación, Espectáculos y Juventud;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
+
+II. De Educación y Juventud;
 
 III. De Comercio y Abasto Popular;
 
@@ -713,17 +715,21 @@ VI. De la Participación Social de la Mujer;
 
 VII. De Atención y Participación Social de Migrantes;
 
-> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2007)</small>
+(ADICIONADA, P.O. 23 DE MARZO DE 2007) (REFORMADA [N. DE E. REPUBLICADA, P.O. 27 DE ABRIL DE 2012)
 
 VIII. De Medio Ambiente y Recursos Naturales;
 
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
 
-IX. De Asuntos indígenas.
+IX. De Asuntos indígenas, y (sic)
 
 > <small>(ADICIONADA, P.O. 22 DE JULIO DE 2011)</small>
 
 X. De fomento al empleo.
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2012)</small>
+
+X (SIC). De Cultura, Recreación y Espectáculos.
 
 ###### ARTICULO 60.
 
@@ -807,7 +813,7 @@ I. Realizar estudios económicos relacionados con las finanzas municipales;
 
 II. Celebrar convenios con el Gobierno del Estado en materia fiscal relacionadas con la administración de contribuciones;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO NUMERO 621.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NÚMERO 621.</small>
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
@@ -831,7 +837,7 @@ X. Aceptar donaciones, herencias y legados a los Municipios, siempre que se haga
 
 XI. Todas aquellas que faciliten y aseguren el mejor desempeño de sus tareas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MARZO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 63.
 
@@ -911,39 +917,63 @@ XI. En el ámbito de su competencia regular en beneficio social el aprovechamien
 
 XII. Todas aquellas que en el ámbito de su competencia faciliten y aseguren el mejor desempeño de sus tareas relacionadas con la conservación, protección, preservación, mejoramiento, instauración o restauración del ambiente para evitar el deterioro e impacto ambiental y para coordinar la política ecológica municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 64.
 
-Son facultades y obligaciones de los Ayuntamientos en materia de Educación, Cultura, Recreación, Espectáculos y Juventud, las siguientes:
+Son facultades y obligaciones de los ayuntamientos en materia de Educación y juventud, las siguientes:
 
-I. Participar con la coordinación del Gobierno del Estado e integrarse al Sistema Estatal de Cultura, fomentar y difundir los valores culturales y artísticos, nombrando al efecto un cronista municipal;
+I. (DEROGADA, P.O. 27 DE ABRIL DE 2012)
 
-II. Organizar, con la colaboración ciudadana bibliotecas municipales, casas de cultura, museos y galerías artísticas;
+II. (DEROGADA, P.O. 27 DE ABRIL DE 2012)
 
-III. Participar con la coordinación del Gobierno del Estado e integrarse al Sistema Estatal de Artesanías para propiciar la protección, fomento, producción, distribución y comercialización de las artesanías guerrerenses;
+III. (DEROGADA, P.O. 27 DE ABRIL DE 2012)
 
 IV. Vigilar la prestación de los servicios educativos en el Municipio dando cuenta a las autoridades educativas sobre el funcionamiento de los establecimientos de educación en sus distintos niveles y grados;
 
 V. Participar en el mantenimiento de establecimientos educativos con la participación de padres de familia, maestros y grupos ciudadanos;
 
-VI. Cuidar de la seguridad y el orden de cines, teatros, paseos y centros recreativos;
+VI. (DEROGADA, P.O. 27 DE ABRIL DE 2012)
 
 VII. Promover los programas de alfabetización y educación para los adultos en coordinación con las autoridades educativas correspondientes;
 
 VIII. Vigilar que los niños en edad escolar asistan a las escuelas y que los maestros cumplan con sus horarios y obligaciones;
 
-IX. Otorgar licencias para espectáculos y vigilar que el cobro al público se haga en base a los precios autorizados y se presenten los programas anunciados;
+IX. (DEROGADA, P.O. 27 DE ABRIL DE 2012)
 
 X. Fomentar las actividades que exalten los valores cívicos nacionales, estatales, regionales y locales;
 
-XI. Fomentar las actividades recreativas de sano esparcimiento y deportivas en todas sus manifestaciones;
+XI. (DEROGADA, P.O. 27 DE ABRIL DE 2012)
 
-XII. Integrar los comités municipales del deporte al Sistema Estatal del Deporte y la Juventud;
+XII. (DEROGADA, P.O. 27 DE ABRIL DE 2012)
 
 XIII. Implementar programas de incorporación de la juventud al desarrollo y darles seguimiento y evaluarlos periódicamente;
 
-XIV. Otorgar reconocimiento a nivel municipal a personas físicas o morales o bien a agrupaciones ciudadanas por sus contribuciones dentro de proyectos de beneficio colectivo que eleven el bienestar social o la producción, y
+XIV. (DEROGADA, P.O. 27 DE ABRIL DE 2012)
 
 XV. Todas aquellas que faciliten y aseguren el mejor desempeño de sus tareas.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2012)</small>
+
+ARTICULO 64 BIS.- Son facultades y obligaciones de los ayuntamientos en materia de cultura, recreación y espectáculos, las siguientes:
+
+l. Participar en coordinación con el Gobierno del Estado e integrarse al Sistema Estatal de Cultura, para fomentar y difundir los valores culturales y artísticos, nombrando al efecto un cronista municipal;
+
+II. Organizar, con la colaboración ciudadana bibliotecas municipales, casas de cultura, museos y galerías artísticas;
+
+III. Integrarse al Sistema Estatal de Artesanías para propiciar la protección, fomento, producción, distribución y comercialización de las artesanías guerrerenses;
+
+IV. Cuidar que las autoridades administrativas municipales cumplan con la vigilancia en la seguridad y el orden de cines, teatros, paseos y centros recreativos;
+
+V. Vigilar que en las licencias para espectáculos y cobro al público, se cumpla con la reglamentación autorizada;
+
+VI. Fomentar las actividades recreativas de sano esparcimiento y deportivas en todas sus manifestaciones;
+
+VII. Integrar a los comités municipales del deporte al Sistema Estatal del Deporte;
+
+VIII. Otorgar reconocimiento a nivel municipal a personas físicas o morales o bien a agrupaciones ciudadanas por sus contribuciones dentro de proyectos de beneficio colectivo que eleven el bienestar social o la producción, y
+
+IX. Todas aquellas que faciliten y aseguren el mejor desempeño de sus tareas.
 
 ###### ARTICULO 65.
 
@@ -1051,7 +1081,7 @@ X. Ejercer las facultades que le confiere la Ley Federal de la Reforma Agraria, 
 
 XI. Todas aquellas que faciliten y aseguren el mejor desempeño de sus tareas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 69.
 
@@ -1637,7 +1667,7 @@ III. Otorgar fianza por el manejo de los recursos a su cargo, y a cargo de los e
 
 IV. Imponer las sanciones que correspondan por infracciones a los ordenamientos fiscales, cuya aplicación esté encomendada a la propia Tesorería;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO NUMERO 621.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NÚMERO 621.</small>
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
@@ -1665,7 +1695,7 @@ XIV.- Permitir y facilitar la práctica de auditorías provenientes de la Audito
 
 XV. Glosar oportunamente las cuentas del Ayuntamiento;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO NUMERO 621.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NÚMERO 621.</small>
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
@@ -1923,7 +1953,7 @@ El Catálogo General de Inmuebles a que se refiere el artículo anterior será p
 
 Los Ayuntamientos celebrarán convenios de coordinación con el Gobierno del Estado a fin de implementar y mantener actualizado el Catálogo General de Inmuebles.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 134.
 
@@ -2037,7 +2067,7 @@ Los servidores públicos municipales otorgarán los auxilios e información nece
 
 DE LOS SERVICIOS PUBLICOS MUNICIPALES.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 146.
 
@@ -2131,7 +2161,7 @@ Los Ayuntamientos informarán al Congreso del Estado de las erogaciones que haya
 
 Los Ayuntamientos no podrán otorgar garantías ni efectuar depósitos para el cumplimiento de sus obligaciones, con cargo al presupuesto de egresos de los Municipios, del ejercicio fiscal en curso sin autorización del Congreso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO NUMERO 621.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NÚMERO 621.</small>
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
@@ -2681,7 +2711,7 @@ En los términos de la Ley que Establece las Bases para el Fomento de la Partici
 
 Los Ayuntamientos podrán otorgar reconocimientos a nivel municipal a personas físicas o morales o bien a agrupaciones ciudadanas por sus contribuciones dentro de proyectos de beneficio colectivo que eleven el bienestar social o la producción.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE JUNIO DE 1992)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE JUNIO DE 1992)</small>
 
 ### CAPITULO XI. DE LOS COMITES DE DESARROLLO INDIGENISTA
 
@@ -2843,7 +2873,7 @@ III. Promover la correcta aplicación de las normas protectoras de los derechos 
 
 IV. Promover la implantación de programas de alfabetización para adultos, de educación bilingüe, bicultural y de educación para los adultos en el medio indígena.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1993)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1993)</small>
 
 ### CAPITULO II. DE LA DIRECCION DE ESPECTACULOS
 
@@ -2949,13 +2979,13 @@ En las controversias de carácter contencioso sobre cuestiones de límites entre
 
 Las controversias que se susciten entre los Ayuntamientos y los ciudadanos por actos de autoridad serán conocidas por el Tribunal de lo Contencioso Administrativo.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
 ## TITULO DECIMO
 
 DE LOS ESTABLECIMIENTOS DE ESPECTACULOS Y DE CENTROS NOCTURNOS Y ANALOGOS EN MUNICIPIOS DE INTERES TURISTICO.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
 ### CAPITULO VI. DE LAS SANCIONES
 
@@ -2985,7 +3015,7 @@ Los ordenamientos municipales que reglamenten estas bases clasificarán los esta
 
 En esa clasificación se tendrá en cuenta las buenas costumbres en los términos del Código Civil del Estado.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
 ###### ARTICULO 258.
 
@@ -3027,7 +3057,7 @@ Cualquiera que se ostente como inspector de la Dirección de Espectáculos o ser
 
 Los ayuntamientos reglamentarán sobre el tipo de uniforme, credenciales e identificaciones visibles que habrán de portar los inspectores de la Dirección de espectáculos invariablemente. Salvo casos de extrema urgencia, los inspectores podrán realizar sus visitas siempre y cuando cuenten y exhiban al efecto una orden de inspección por escrito.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
 ###### ARTICULO 265.
 
@@ -3053,7 +3083,7 @@ La representación ante el Comité Mixto a que se refiere el próximo Capítulo,
 
 La Dirección de Espectáculos podrá autorizar la ampliación transitoria de los horarios excepcionalmente siempre que se observen las leyes laborales y fiscales aplicables, asimismo podrá autorizar por día, tiempo determinado y evento específico la ampliación de la admisión a los establecimientos de manera transitoria.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
 ###### ARTICULO 267.
 
@@ -3081,7 +3111,7 @@ V.- Recomendar el monto de las sanciones según lo establecido por la propia Ley
 
 La Secretaría de Fomento Turístico, junto con los ayuntamientos, y sin menoscabo de lo que prescriban otras Leyes estatales o federales, promoverán la organización de los representantes de los establecimientos, y su mejor funcionamiento, a efecto de que contribuyan a la mejor aplicación de esta Ley y de las reglamentaciones municipales.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
 ###### ARTICULO 270.
 
@@ -3145,7 +3175,7 @@ Existirán servicios sanitarios para cada sexo absolutamente independientes y se
 
 Quedan prohibidos los espectáculos que agredan la dignidad humana, incluídos los valores sexuales, y aquellos que infrinjan dolor a los animales o provoquen su muerte, en los términos de la Ley de Protección de los Animales, salvo lo que se ajuste a las tradiciones del Estado.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
 ###### ARTICULO 280.
 
@@ -3265,7 +3295,7 @@ El Secretario de Gobierno.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 5 DE MARZO DE 1991.
 
@@ -3273,7 +3303,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 
 P.O. 13 DE SEPTIEMBRE DE 1991.
 
-DECRETO QUE ADICIONA EL ARTICULO 95 BIS Y UN TITULO DECIMO.
+DECRETO QUE ADICIONA EL ARTÍCULO 95 BIS Y UN TÍTULO DÉCIMO.
 
 ###### ARTICULO PRIMERO.
 
@@ -3285,7 +3315,7 @@ El presente Decreto de adiciones entrará en vigor quince días después de su p
 
 P.O. 13 DE SEPTIEMBRE DE 1991.
 
-DECRETO POR EL QUE SE REFORMA EL ARTICULO 73 Y SE ADICIONA EL ARTICULO 77
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 73 Y SE ADICIONA EL ARTÍCULO 77
 
 ###### ARTICULO PRIMERO.
 
@@ -3449,7 +3479,7 @@ SEGUNDO.- Notifíquese al Ejecutivo del Estado para su publicación en el Perió
 
 P.O. 2 DE JULIO DE 2010.
 
-DECRETO NUMERO 414, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 134, 135, 137 BIS Y 248 DE LA LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO.
+DECRETO NÚMERO 414, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 134, 135, 137 BIS Y 248 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
@@ -3457,7 +3487,7 @@ SEGUNDO.- Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Es
 
 P.O. 2 DE JULIO DE 2010.
 
-DECRETO NUMERO 417, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 29, 109 BIS Y CAPITULO III BIS DE LA LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO.
+DECRETO NÚMERO 417, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 29, 109 BIS Y CAPÍTULO III BIS DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
@@ -3496,3 +3526,15 @@ Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado para 
 ###### ARTÍCULO QUINTO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, para el conocimiento general.
+
+P.O. 27 DE ABRIL DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los Ayuntamientos Municipales deberán realizar las adecuaciones de designación de Regidurías, conforme a las presentes reformas, en un lapso no mayor de 90 días a partir de la entrada en vigor.
+
+TERCERO.- Remítase a los Titulares de los Poderes Ejecutivo, Legislativo y Judicial, así como a los Ayuntamientos de la Entidad, para su observancia y cumplimiento.
+
+CUARTO.- Remítase al Titular del Poder Ejecutivo del Estado, para los efectos legales conducentes.
+
+QUINTO.- Publíquese en el Periódico Oficial del Gobierno del Estado y en la página Web del Congreso del Estado, para su observancia general.
