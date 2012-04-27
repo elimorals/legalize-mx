@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-de-la-administracion-publica-del-estado-de-16303"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-10-12"
-last_updated: "2011-10-21"
+last_updated: "2012-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE GUERRERO NUMERO 433
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 12 de octubre de 1999.
 
@@ -249,9 +249,9 @@ XIII.- Secretaría de Asuntos Indígenas;
 
 XIV.- Secretaría de la Mujer;
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
 
-XV.- Secretaría de la Juventud; y
+XV.- Secretaría de la Juventud y la niñez.
 
 > <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2011)</small>
 
@@ -1131,11 +1131,15 @@ XIV.- Establecer y operar un sistema de seguimiento de los programas federales r
 
 XV.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 33.
 
-La Secretaría de la Juventud, es el órgano encargado de conducir integralmente la política de desarrollo e impulso de la juventud en el Estado, y le corresponde el despacho de los siguientes asuntos:
+La Secretaría de la Juventud y la niñez, es el órgano encargado de conducir integralmente la política de desarrollo e impulso de la juventud y la niñez en el Estado, y le corresponde el despacho de los siguientes asuntos:
 
-I.- Formular y coordinar las políticas y acciones encaminadas al desarrollo integral de la juventud;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
+
+I.- Formular y coordinar las políticas y acciones encaminadas al desarrollo integral de la juventud y la niñez;
 
 II.- Formular, organizar, dirigir y promover, en coordinación con las dependencias y entidades de los tres niveles de gobierno, programas de rescate y consolidación de los valores cívicos, sociales y culturales de la juventud;
 
@@ -1145,17 +1149,25 @@ III.- Coordinar, organizar, dirigir y fomentar, con la participación de los sec
 
 IV.- Promover, coordinar y fomentar programas de orientación y educación para la salud de la juventud, haciendo énfasis en la educación sexual y reproductiva;
 
-V.- Promover la defensa de los derechos de la juventud;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
 
-VI.- Promover, coordinar y fomentar programas para el bienestar de la juventud y estimular su participación en el proceso de desarrollo de la Entidad;
+V.- Promover la defensa de los derechos de la juventud y la niñez;
 
-VII.- Desarrollar las relaciones de comunicación, coordinación y apoyo mutuo con las delegaciones y representaciones de las dependencias y entidades de la Administración Pública Federal, cuyo ámbito de competencia corresponda a los programas de bienestar social de la juventud;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
+
+VI.- Promover, coordinar y fomentar programas para el bienestar de la juventud y la niñez, así como estimular la participación de los jóvenes en el proceso de desarrollo de la Entidad;
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
+
+VII.- Desarrollar las relaciones de comunicación, coordinación y apoyo mutuo con las delegaciones y representaciones de las dependencias y entidades de la Administración Pública Federal, cuyo ámbito de competencia corresponda a los programas de bienestar social de la juventud y de la niñez;
 
 VIII.- Establecer canales de comunicación entre el Gobierno del Estado y los jóvenes;
 
 IX.- Favorecer la capacitación de instructores para propiciar el mejor desarrollo de las actividades culturales y artísticas de la juventud;
 
-X.- Propiciar en la juventud el desarrollo y difusión de la cultura tradicional en el Estado, como mecanismo para reforzar nuestra identidad;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
+
+X.- Propiciar en la juventud y la niñez el desarrollo y difusión de la cultura tradicional en el Estado, como mecanismo para reforzar nuestra identidad;
 
 XI.- Organizar y constituir grupos de jóvenes promotores y difusores de las diferentes expresiones del arte y la cultura;
 
@@ -1181,13 +1193,19 @@ XXI.- Convenir con las dependencias y entidades de la Administración Pública, 
 
 XXII.- Establecer convenios con Universidades Públicas y Privadas para la ejecución de programas destinados al desarrollo integral de la juventud;
 
-XXIII.- Implementar programas de apoyo integral para los jóvenes indígenas en zonas marginadas y colonias conurbadas de las grandes ciudades;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
 
-XXIV.- Integrar los Consejos Consultivos Municipales, Regionales y Estatal para coadyuvar en las tareas y programas de atención a la juventud;
+XXIII.- Implementar programas de apoyo integral para los jóvenes, niñas y niños indígenas en zonas marginadas y colonias conurbadas de las grandes ciudades;
 
-XXV.- Coordinar los planes y programas destinados a la juventud, que emprendan dependencias y entidades de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
 
-XXVI.- Encauzar el apoyo a jóvenes discapacitados, así como de aquellos que se encuentren sujetos a programas de readaptación social, a efecto de hacer posible su incorporación a las actividades sociales, culturales y productivas de la Entidad; y
+XXIV.- Integrar los Consejos Consultivos Municipales, Regionales y Estatal para coadyuvar en las tareas y programas de atención a la juventud y a la niñez;
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
+
+XXV.- Coordinar los planes y programas destinados a la juventud y a la niñez, que emprendan dependencias y entidades de la Administración Pública Estatal;
+
+XXVI.- Encauzar el apoyo a jóvenes discapacitados, así como de aquellos que se encuentren sujetos a programas de readaptación social, a efecto de hacer posible su incorporación a las actividades sociales, culturales y productivas de la Entidad; y (sic)
 
 XXVII.- Establecer y operar un sistema de seguimiento de los programas federales relacionados con los asuntos de su competencia, conforme a lo que las leyes y acuerdos de coordinación establezcan, en congruencia con el Comité de Planeación para el Desarrollo del Estado;
 
@@ -1714,3 +1732,13 @@ SEXTO.- No obstante el cambio de régimen jurídico de la Subsecretaría del Tra
 SÉPTIMO. Todos los bienes muebles, enseres, equipo de oficina y de transporte con que cuenta la actual Subsecretaría del Trabajo y Previsión Social, pasan a formar parte de los bienes de la Secretaría del Trabajo y Previsión Social.
 
 OCTAVO.- Publíquese en el Periódico Oficial del Gobierno del Estado y en la página WEB del Congreso del Estado; así como en dos de los diarios de mayor circulación en la entidad.
+
+P.O. 27 DE ABRIL DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos legales procedentes.
