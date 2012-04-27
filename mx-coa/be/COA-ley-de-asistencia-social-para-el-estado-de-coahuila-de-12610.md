@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asistencia-social-para-el-estado-de-coahuila-de-12610"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-23"
-last_updated: "2009-02-10"
+last_updated: "2012-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE COAHUILA, PUBLICADO EN EL P.O. 27 DE ABRIL DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 23 de enero de 1998.
 
@@ -57,7 +59,7 @@ Para los efectos de esta ley se entiende por asistencia social, el conjunto de a
 
 El Gobierno del Estado, en forma prioritaria, proporcionará servicios de asistencia social encaminados al desarrollo integral de la familia, a fin de promover la atención y protección de los menores, el bienestar de la familia y el desarrollo de la comunidad, así como apoyar, en su formación y subsistencia, a quienes tengan carencias familiares esenciales, no superables en forma autónoma por ellos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 4°.
 
@@ -137,7 +139,7 @@ XIII.- Las demás personas consideradas en otras disposiciones jurídicas aplica
 
 ARTICULO 6° BIS.- Además de los descritos en el artículo anterior, podrán considerarse sujetos de los servicios de asistencia social y otros beneficios sociales a víctimas del delito, a los dependientes de una persona que haya sido asesinada en función de su actividad dentro del periodismo. En este caso las o los cónyuges, concubinos o compañeros civiles supérstites y los descendientes podrán solicitar al Ejecutivo una pensión, la cual podrá otorgarse previo estudio socioeconómico e investigación que establezca elementos que el móvil del homicidio fue en función del desarrollo de la actividad periodística. Dicha pensión se sujetara a las modalidades y términos que establezca el decreto que, en su caso, se emita.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 7°.
 
@@ -211,7 +213,7 @@ Los servicios de salud conectados con la asistencia social estarán a cargo de l
 
 #### SECCION PRIMERA. DE LOS PROGRAMAS Y ACCIONES DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 11.
 
@@ -385,7 +387,7 @@ Para el cumplimiento de las acciones previstas en el presente capítulo, el Sist
 
 Se considera de interés general regular el desarrollo armónico e integral de la comunidad en función de sus integrantes, por lo que el Sistema, en coordinación con la autoridad competente, implementará los programas, acciones y actividades necesarias para crear condiciones propicias al desarrollo social donde se atienda, entre otros, el principio de equidad entre los géneros y también al incremento de oportunidades para mejorar las condiciones de vida individuales y colectiva de la población del estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 22.
 
@@ -437,7 +439,7 @@ XVIII.- Establecer programas de trabajo y ocupación para personas jubiladas; y
 
 XIX.- Las demás que se establezcan con ese propósito.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE ENERO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE ENERO DE 2007)</small>
 
 #### SECCION CUARTA. DE LA ATENCION A LAS Y LOS MENORES
 
@@ -445,7 +447,7 @@ XIX.- Las demás que se establezcan con ese propósito.
 
 Para los efectos de las acciones preventivas previstas en la presente ley, se considera como menores a todas las personas físicas, desde el momento de su concepción hasta los dieciocho años de edad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 24.
 
@@ -461,7 +463,7 @@ III.- La asistencia a menores en situación extraordinaria; y
 
 IV.- El apoyo jurídico, requerido para solucionar los problemas vinculados con situaciones que les afecten.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 25.
 
@@ -479,7 +481,7 @@ III.- Proporcionar información y educación sexual; y
 
 IV.- Las demás que con ese propósito se establezcan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 26.
 
@@ -517,7 +519,7 @@ IX.- Auxiliar a las autoridades competentes en las campañas de educación vial;
 
 X.- Las demás que se establezcan con ese propósito.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 27.
 
@@ -533,7 +535,7 @@ IV.- Talleres protegidos; y
 
 V.- Rehabilitación física.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 28.
 
@@ -617,7 +619,7 @@ El Sistema atenderá a menores en situación extraordinaria hasta en tanto se le
 
 Para el logro de este propósito el Sistema establecerá casas de cuna y fundará albergues y estancia infantiles.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE ENERO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE ENERO DE 2007)</small>
 
 ### CAPITULO TERCERO. DE OTRAS MEDIDAS DE PREVENCION RESPECTO A LAS Y LOS MENORES
 
@@ -639,7 +641,7 @@ Los abusos o desviaciones que representantes legales o terceras personas cometan
 
 La directiva y/o personal responsable de la administración de hospitales públicos o privados, personal médico particular, docentes o cualquier otra persona u organismo que tenga conocimiento de hechos relacionados con menores en situación extraordinaria, tendrán la obligación de comunicarlo a la Procuraduría de la Familia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 34.
 
@@ -695,7 +697,7 @@ Las y los propietarios o personas encargadas de las salas o teatros fijarán en 
 
 La propaganda de espectáculos aptos para personas mayores que se haga a través de la prensa y revistas o programas, no deberá contener grabados impúdicos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE ENERO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE ENERO DE 2007)</small>
 
 ### CAPITULO CUARTO. DE LAS SANCIONES APLICABLES A QUIENES ATENTEN CONTRA LA INTEGRIDAD FISICA O MORAL DE LAS Y LOS MENORES
 
@@ -711,7 +713,7 @@ Las madres y padres, encargados de la tutela o de la patria potestad que se most
 
 Se amonestará e impondrá multa de entre 100 y 500 veces el salario mínimo diario general vigente en la entidad, sin perjuicio de las acciones que correspondan conforme a esta ley a la Procuraduría de la Familia para solicitar la pérdida de los derechos inherentes a la patria potestad o tutela cuando proceda y, en su caso, la responsabilidad penal que fuere exigible a las madres, los padres, encargados de la tutela o de la patria potestad de las y los menores o a cualquier persona, cuando se les maltrate física o mentalmente; les diesen órdenes, consejos o ejemplos corruptores; se les exponga o abandonen o cuando por cualquier otro acto comprometan la salud, seguridad o moralidad de sus hijas, hijos o custodios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 41.
 
@@ -993,7 +995,7 @@ El Patronato celebrará dos sesiones ordinarias al año y las extraordinarias qu
 
 A las sesiones podrá asistir la Directora o Director General del Sistema con voz, pero sin voto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 64.
 
@@ -1085,7 +1087,7 @@ Las sesiones de la Junta serán válidas cuando el quórum se constituya con la 
 
 Los acuerdos se tomarán por mayoría de votos de quienes asistan a las sesiones. En caso de empate su titular tendrá voto de calidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 68.
 
@@ -1105,7 +1107,7 @@ IV.- Suscribir y autorizar, en unión de la Secretaría Técnica, las actas que 
 
 V.- En general, realizar todos aquellos actos que fuesen necesarios para el eficiente funcionamiento de la Junta y del Sistema, así como aquellos que emanen de otras leyes y demás disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 69.
 
@@ -1125,7 +1127,7 @@ III.- Levantar y autorizar con su firma las actas correspondientes a las sesione
 
 IV.- Las demás facultades que le sean expresamente señaladas por el reglamento interior del Sistema y por la Presidenta o Presidente de la Junta.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 70.
 
@@ -1151,7 +1153,7 @@ V.- Las demás facultades que les sean expresamente señaladas por el reglamento
 
 La Directora o Director General se designará y removerá libremente por el Gobernador del Estado. Deberá tener la ciudadanía mexicana por nacimiento, la mayoría de edad, así como la experiencia en materia administrativa y de asistencia social.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 72.
 
@@ -1183,7 +1185,7 @@ XI.- Otorgar a las personas que juzgue conveniente poderes especiales y generale
 
 XII.- Las demás que por acuerdo de la Junta se le atribuyan, así como las que le competan conforme al reglamento interior del Sistema y otras disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 73.
 
@@ -1357,7 +1359,7 @@ III.- Por Delegadas o Delegados Regionales que se requieran cuya designación la
 
 IV.- Por personal técnico y administrativo que determine el presupuesto de egresos correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 81.
 
@@ -1375,7 +1377,7 @@ III.- Ser de reconocida honorabilidad; y
 
 IV.- Tener vocación y conocimiento sobre la materia de asistencia social.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 82.
 
@@ -1387,7 +1389,7 @@ Las personas titulares de las Delegaciones Regionales ejercerán las mismas atri
 
 Las Delegaciones Regionales contarán con el personal técnico y administrativo necesario para el desempeño de sus funciones y que prevea el presupuesto de egresos respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 83.
 
@@ -1425,7 +1427,7 @@ La Procuraduría y las Delegaciones Regionales, en su caso, deberán recibir tod
 
 Recibido el reporte procederán a su investigación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 86.
 
@@ -1537,7 +1539,7 @@ EL SECRETARIO DE LA CONTRALORIA Y MODERNIZACION ADMINISTRATIVA
 
 C.P. JUAN ANTONIO CEDILLO RIOS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 13 DE JULIO DE 2004.
 
@@ -1606,3 +1608,13 @@ PRIMERO. Este decreto será vigente al día siguiente de su publicación en el P
 SEGUNDO. Hasta en tanto no se expidan los acuerdos de sectorización de los organismos públicos descentralizados que forman parte de la Administración Pública del Estado, continuarán bajo la sectorización que dispongan los instrumentos jurídicos que los hubiesen creado.
 
 TERCERO. Se dejan sin efectos las disposiciones que se opongan a lo previsto en este decreto.
+
+P.O. 27 DE ABRIL DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor al siguiente día de su publicación.
+
+SEGUNDO.- Se abroga la Ley de Asistencia Social para el Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Gobierno del Estado el 23 de enero de 1998.
+
+TERCERO.- Para los efectos de lo dispuesto en la presente ley, se convalidan todos los actos realizados por el organismo público descentralizado denominado "Sistema para el Desarrollo Integral de la Familia", creado mediante la ley que se abroga, así como los derechos y obligaciones que correspondan a dicha entidad, efectuados y adquiridos desde su creación.
+
+CUARTO.- La Junta de Gobierno del Sistema deberá aprobar el Reglamento Interior del mismo dentro de los 180 días siguientes contados a partir de la fecha en que entre en vigor esta ley.
