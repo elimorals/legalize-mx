@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-registro-publico-de-la-propiedad-del-estado-5492
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-20"
-last_updated: "2008-11-03"
+last_updated: "2012-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE YUCATAN
 
-REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE YUCATAN
+REGLAMENTO DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE YUCATÁN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE NOVIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY QUE CREA EL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN, PUBLICADO EN EL D.O. 27 DE ABRIL DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: DEROGADO.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 20 de marzo de 2007.
 
@@ -905,7 +907,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. PEDRO FRANCISCO RIVAS GUTIÉRREZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O. 17 DE SEPTIEMBRE DE 2007.
 
@@ -914,3 +916,9 @@ D.O. 17 DE SEPTIEMBRE DE 2007.
 D.O. 3 DE NOVIEMBRE DE 2008.
 
 ÚNICO. Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 27 DE ABRIL DE 2012.
+
+Artículo Primero. Este Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo. Se derogan el Reglamento del Registro Público de la Propiedad del Estado de Yucatán y el Reglamento de la Ley del Catastro del Estado de Yucatán, así como las demás disposiciones de igual o menor rango, cuando contravengan el contenido de este Reglamento.
