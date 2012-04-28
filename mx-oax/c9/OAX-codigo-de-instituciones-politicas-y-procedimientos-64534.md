@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-instituciones-politicas-y-procedimientos-64534"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-11-08"
-last_updated: "2011-06-17"
+last_updated: "2012-04-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO DE INSTITUCIONES POLÍTICAS Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2012.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 8 de noviembre de 2008.
 
@@ -3623,199 +3623,41 @@ Artículo 259
 
 Para el registro, el Instituto tomará en cuenta el informe que rinda el Consejo General y los Consejos Distritales o Municipales Electorales, la documentación electoral y los recursos presentados ante el Tribunal Electoral y las resoluciones recaídas, en cuyo caso podrá negar el registro de la constancia de mayoría o de asignación.
 
-# LIBRO SEXTO. Del Tribunal Estatal Electoral
+> <small>(DEROGADO CON LOS TÍTULOS Y ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO DÉCIMO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA, P.O. 28 DE ABRIL DE 2012)</small>
+
+# LIBRO SEXTO
 
 ## TÍTULO PRIMERO. Disposiciones Preliminares
 
-Artículo 260
-
-1. El Tribunal Estatal Electoral es un órgano del Poder Judicial de carácter permanente, autónomo en su funcionamiento e independiente en sus decisiones. Es la máxima autoridad jurisdiccional en materia electoral del Estado de Oaxaca.
-
-2. El Tribunal Estatal Electoral conocerá de los recursos y medios de impugnación que se interpongan respecto de las elecciones de Gobernador del Estado, Diputados y Concejales de los Ayuntamientos por los regímenes de partidos políticos y de usos y costumbres, así como de todas las demás controversias que determine este Código y la Ley respectiva.
-
-3. El Tribunal Estatal Electoral al resolver los medios de impugnación garantizará que los actos y resoluciones de las autoridades electorales se sujeten a los principios de legalidad, imparcialidad, objetividad y definitividad.
-
-4. El Tribunal Estatal Electoral realizará el cómputo final y la calificación de la elección de Gobernador del Estado, una vez resueltas las impugnaciones que se hubieren interpuesto sobre la misma o habiendo constancia de que no se interpuso ninguna, procediendo a formular la declaratoria de Gobernador Electo respecto del candidato que hubiese obtenido el mayor número de votos, comunicándolo a la Legislatura para difundirlo mediante Bando Solemne y por otros medios idóneos.
-
-5. Las resoluciones del Tribunal Estatal Electoral serán definitivas e inatacables en el ámbito estatal.
+Artículo 260 (DEROGADO POR EL ARTÍCULO DÉCIMO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA, P.O. 28 DE ABRIL DE 2012)
 
 ## TÍTULO SEGUNDO. Integración y Funcionamiento
 
-Artículo 261
+Artículo 261 (DEROGADO POR EL ARTÍCULO DÉCIMO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA, P.O. 28 DE ABRIL DE 2012)
 
-1. El Tribunal Estatal Electoral residirá en la capital del Estado o zona conurbada y se integrará con tres Magistrados propietarios y tres suplentes que serán elegidos por el Congreso Local mediante el voto aprobatorio de las dos terceras partes de sus integrantes.
+Artículo 262 (DEROGADO POR EL ARTÍCULO DÉCIMO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA, P.O. 28 DE ABRIL DE 2012)
 
-2. Para tal efecto, previa convocatoria y examen por oposición, a propuesta del Pleno del Honorable Tribunal Superior de Justicia del Estado, se presentará una lista por ternas para ocupar los cargos de propietarios y suplentes.
+Artículo 263 (DEROGADO POR EL ARTÍCULO DÉCIMO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA, P.O. 28 DE ABRIL DE 2012)
 
-3. Las propuestas serán presentadas al Congreso Local y serán turnadas a la comisión respectiva, la que en un término de cinco días presentará el dictamen debidamente fundado y motivado de la propuesta de designación de los integrantes del Tribunal. El dictamen se presentará en sesión plenaria en los términos de la Ley Orgánica del Congreso y su Reglamento. En caso de ser aprobado, se turnará al Ejecutivo para su publicación en el Periódico Oficial, señalando la fecha y hora en que los designados deberán comparecer ante el Congreso Local a rendir protesta; durante los recesos del Congreso Local, se convocará a la diputación permanente a sesión extraordinaria para cumplir con lo dispuesto con este artículo.
+Artículo 264 (DEROGADO POR EL ARTÍCULO DÉCIMO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA, P.O. 28 DE ABRIL DE 2012)
 
-4. En caso de que el dictamen de la comisión no sea aprobado o que la lista de candidatos enviados por el Pleno del Tribunal Superior de Justicia se agote sin que el Congreso haya designado el número de magistrados requeridos, el Tribunal Superior, deberá enviar otra lista hasta que alcance el número necesario para cubrir las vacantes. Si los diputados del Congreso Local volviesen a votar sin que se completare el número requerido de magistrados, se procederá a insacular, dentro de los candidatos propuestos, a aquellos que falten por designar.
+Artículo 265 (DEROGADO POR EL ARTÍCULO DÉCIMO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA, P.O. 28 DE ABRIL DE 2012)
 
-Artículo 262
+Artículo 266 (DEROGADO POR EL ARTÍCULO DÉCIMO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA, P.O. 28 DE ABRIL DE 2012)
 
-1. Los Magistrados del Tribunal deberán reunir los mismos requisitos que los Magistrados del Tribunal Superior de Justicia y durarán en su encargo cuatro años, pudiendo ser reelectos por una sola vez.
+Artículo 267 (DEROGADO POR EL ARTÍCULO DÉCIMO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA, P.O. 28 DE ABRIL DE 2012)
 
-2. La retribución que reciban los Magistrados del Tribunal será similar a la que perciban los Magistrados del Tribunal Superior de Justicia y estará señalada en el Presupuesto de Egresos del propio Tribunal.
+Artículo 268 (DEROGADO POR EL ARTÍCULO DÉCIMO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA, P.O. 28 DE ABRIL DE 2012)
 
-Artículo 263
+Artículo 269 (DEROGADO POR EL ARTÍCULO DÉCIMO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA, P.O. 28 DE ABRIL DE 2012)
 
-El Tribunal tendrá las siguientes atribuciones:
+Artículo 270 (DEROGADO POR EL ARTÍCULO DÉCIMO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA, P.O. 28 DE ABRIL DE 2012)
 
-a) Resolver en forma definitiva e inatacable en el ámbito estatal, en los términos de este Código:
+Artículo 271 (DEROGADO POR EL ARTÍCULO DÉCIMO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA, P.O. 28 DE ABRIL DE 2012)
 
-I. Conocer de los medios de impugnación que se interpongan respecto de las elecciones de Gobernador del Estado, Diputados y Concejales de los ayuntamientos por los regímenes de partidos políticos y de usos y costumbres, así como de todas las demás controversias que determine la ley respectiva, interpuestos en contra de actos o resoluciones de los órganos electorales;
+Artículo 272 (DEROGADO POR EL ARTÍCULO DÉCIMO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA, P.O. 28 DE ABRIL DE 2012)
 
-II. Decretar la nulidad de una elección por las causas expresamente establecidas en la ley.
-
-b) Cuando sea requerido para:
-
-I. Determinar y aplicar las sanciones previstas en la ley.
-
-II. Resolver las controversias entre sus servidores y las que se originen entre el Instituto y sus servidores.
-
-Artículo 264
-
-(F. DE. E., P.O. 29 DE NOVIEMBRE DE 2008)
-
-1. El Tribunal funcionará siempre en pleno, sus resoluciones se tomarán por mayoría de votos y sus sesiones serán públicas.
-
-(F. DE. E., P.O. 29 DE NOVIEMBRE DE 2008)
-
-2. El Pleno del Tribunal es la máxima autoridad y estará integrado por los Magistrados propietarios, quienes tendrán las siguientes atribuciones:
-
-a) Elegir dentro de ellos al Presidente del Tribunal;
-
-b) Designar o remover a propuesta del Presidente, a los Jueces Instructores, al Secretario General, Secretarios de Estudio y Cuenta, Actuarios, administrativos y demás personal auxiliar que considere necesarios para la tramitación, integración y sustanciación de los expedientes relativos a los medios de impugnación que deba resolver dicho órgano jurisdiccional;
-
-c) Aprobar y en su caso modificar el Reglamento Interno del Tribunal, y ordenar su publicación;
-
-d) Aprobar el presupuesto del Tribunal, y
-
-e) Las demás que le asigne la Constitución, este Código, la Ley y su Reglamento.
-
-Artículo 265
-
-Los Magistrados integrantes del Tribunal tendrán las siguientes atribuciones:
-
-a) Asistir, participar y votar, cuando corresponda en las sesiones a las que sean convocados por el Presidente del Tribunal;
-
-b) Resolver en forma colegiada los asuntos de su competencia;
-
-c) Formular los proyectos de resolución de los expedientes que les sean turnados para tal efecto;
-
-d) Exponer en sesión pública, personalmente o por conducto de su Secretario los proyectos de resolución, señalando las consideraciones jurídicas y los preceptos en que se funden;
-
-e) Discutir y votar los proyectos de resolución que sean sometidos a su consideración;
-
-f) Formular voto particular o voto razonado en caso de disentir de un proyecto de resolución y solicitar que se agregue al expediente;
-
-g) Solicitar al Pleno que sus proyectos de resolución se agreguen a los expedientes como votos particulares cuando no sean aprobados por la mayoría, o formular voto particular, que deberá formar parte integrante de la resolución que se dicte, siempre y cuando se emita y glose antes de que se pase para engrose y firma el proyecto de mayoría;
-
-h) Realizar los engroses de los fallos aprobados cuando sean designados para tal efecto;
-
-i) Cuando corresponda revisar y dirigir el trámite y substanciación de los medios de impugnación;
-
-j) Las que sean necesarias para el correcto funcionamiento del Tribunal, y
-
-k) Las demás que le confieren las leyes y su reglamento.
-
-Artículo 266
-
-Los Magistrados durante el tiempo de su ejercicio no podrán desempeñar otro empleo o cargo de la Federación, de los Estados, de Municipios o de particulares, salvo aquellos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia cuando sean compatibles con el ejercicio de la Magistratura.
-
-Artículo 267
-
-Son facultades del Presidente del Tribunal:
-
-a) Presidir las sesiones del Pleno del Tribunal, dirigir los debates y vigilar que se conserve el orden durante las sesiones;
-
-b) Proponer al Pleno del Tribunal los nombramientos de Secretario General, Jueces Instructores, Secretarios de Estudio y Cuenta, Actuarios, y personal técnico administrativo necesario para el buen funcionamiento del Tribunal;
-
-c) Representar permanentemente al Tribunal ante toda clase de autoridades y otorgar poderes para pleitos y cobranzas;
-
-d) Conducir las relaciones con otros organismos Electorales;
-
-e) Despachar la correspondencia del Tribunal;
-
-f) Comunicar a los organismos electorales, para su cumplimiento, las resoluciones que dicte el Tribunal;
-
-g) Elaborar, y una vez aprobado por el Pleno, enviar el proyecto de presupuesto del Tribunal al titular del Poder Ejecutivo, por conducto del funcionario que éste designe;
-
-h) Rendir un informe anual ante el Pleno del Tribunal, en sesión ordinaria, dando cuenta de la administración del mismo y de los principales criterios adoptados en sus resoluciones y ordenar su publicación; e
-
-i) Las demás que le confieren las Leyes.
-
-Artículo 268
-
-El secretario general del Tribunal tendrá las siguientes atribuciones:
-
-a) Atender la administración de los recursos humanos, financieros y materiales necesarios para el funcionamiento del Tribunal;
-
-b) Dar cuenta, tomar las votaciones y redactar las actas respectivas;
-
-c) Dictar, previo acuerdo con el Presidente, los lineamientos generales para la identificación e integración de los expedientes;
-
-d) Autorizar, con su firma, los acuerdos del Tribunal, así como expedir las certificaciones que se requieran de las constancias existentes en el mismo. Para tal efecto, el Secretario tendrá fe pública;
-
-e) Supervisar el debido funcionamiento de los archivos del Tribunal;
-
-f) Comunicar a los organismos electorales las resoluciones que pronuncie sobre la expedición de constancias de mayoría;
-
-g) Cumplir las tareas que le encomienden el Pleno y el Presidente del Tribunal;
-
-h) Realizar las notificaciones de las resoluciones recaídas en los expedientes, en ausencia o por impedimento de los actuarios; e
-
-i) Las demás que le otorgue este Código y la ley respectiva.
-
-Artículo 269
-
-Los Actuarios tendrán fe pública respecto de las actuaciones que practiquen en los expedientes que le sean turnados y serán los encargados de notificar los acuerdos y resoluciones que dicte el Tribunal.
-
-Artículo 270
-
-Los Secretarios del Tribunal deberán reunir los siguientes requisitos:
-
-I. Ser mexicano en pleno goce de sus derechos;
-
-II. Ser mayor de veinticinco años de edad;
-
-III. Ser Licenciado en Derecho con título oficialmente expedido;
-
-IV. Aprobar un examen de oposición teórico y práctico en sesión pública, ante un jurado compuesto por Magistrados del Tribunal; y
-
-V. Ser de honradez y probidad notorias. En igualdad de condiciones, serán preferidas aquellas personas que acrediten su conocimiento en Derecho Electoral.
-
-Artículo 271
-
-Corresponde a la Secretaría General conjuntamente con la Presidencia:
-
-a) Admitir los medios de impugnación de la competencia del Tribunal, así como los escritos de las partes en los procesos;
-
-b) Proponer al pleno el desechamiento de los medios de impugnación cuando sea manifiesta su notoria improcedencia;
-
-c) Integrar los expedientes para el trámite de los medios de impugnación interpuestos ante el Tribunal; y
-
-d) Turnar los expedientes para su estudio y resolución a los Magistrados del Tribunal. Para tal efecto, la Secretaría General contará con los recursos humanos y técnicos que sean necesarios.
-
-Artículo 272
-
-1. Las responsabilidades de todos los miembros del Tribunal, se rigen por lo dispuesto en la Constitución particular y por la Ley de Responsabilidades de los Servidores Públicos del Estado.
-
-2. Los Magistrados Electorales no podrán ser removidos de sus cargos, por las mismas causas que lo fueren los Magistrados del Pleno del Tribunal Superior de Justicia del Estado.
-
-3. Las excusas por impedimento legal para conocer de un asunto presentado por un Magistrado Electoral, serán calificadas y resueltas de inmediato por el Pleno.
-
-4. Los Magistrados Electorales están impedidos para conocer de aquéllos asuntos en que se actualice cualquiera de las hipótesis que rigen a los Magistrados del Tribunal Superior de Justicia en casos semejantes.
-
-5. Los Magistrados Electorales y los servidores del Tribunal, en los términos de la Legislación aplicable, cumplirán con la obligación respecto a la declaración de su situación patrimonial ante la Contraloría del Poder Judicial del Estado.
-
-Artículo 273
-
-1. Durante el proceso electoral todos los días y horas son hábiles, el horario de labores se sujetará a las necesidades del servicio.
-
-2. Los servidores públicos y empleados del Tribunal Electoral están obligados a prestar sus servicios durante los horarios que señale el Reglamento Interno tomando en cuenta lo que dispone el párrafo anterior.
-
-3. Durante el proceso electoral, no se pagarán horas extras, pero se preverán en el presupuesto las compensaciones extraordinarias que deban otorgarse a los servidores y personal del Tribunal con los horarios, y carga de trabajo que hubiesen desahogado.
+Artículo 273 (DEROGADO POR EL ARTÍCULO DÉCIMO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA, P.O. 28 DE ABRIL DE 2012)
 
 # LIBRO SÉPTIMO. De los Regímenes Sancionador Electoral y Disciplinario Interno
 
@@ -4066,3 +3908,47 @@ P.O. 17 DE JUNIO DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor a partir, del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE ABRIL DE 2012.
+
+Artículo Primero.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.
+
+Se abroga la Ley Orgánica del Poder Judicial del Estado Libre y Soberano de Oaxaca publicada en el Periódico Oficial del Estado con fecha dieciséis de octubre de mil novecientos noventa y nueve.
+
+Artículo Tercero.
+
+Los procesos y procedimientos iniciados con anterioridad a la entrada en vigor de la presente Ley Orgánica del Poder Judicial del Estado de Oaxaca, continuarán tramitándose hasta su conclusión conforme a las disposiciones con las que fueron iniciados.
+
+Artículo Cuarto.
+
+Las coordinaciones de comunicación social y de relaciones públicas adscritas a la Presidencia del Tribunal Superior de Justicia en el Estado, mantendrán sus operaciones por el resto del ejercicio 2012 ajustándose al presupuesto ya autorizado.
+
+La dirección del fondo para la administración de justicia continuará cumpliendo con las obligaciones legales, quedando insubsistentes los acuerdos del pleno del Tribunal Superior de Justicia que lo afecten, exceptuando aquellos que afecten derechos adquiridos.
+
+Artículo Quinto.
+
+Se faculta al presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura para dictar todas las medidas necesarias para la efectividad e inmediato cumplimiento del presente Decreto.
+
+Artículo Sexto.
+
+Las jubilaciones de los magistrados del Poder Judicial del Estado, designados con anterioridad al presente Decreto, se regirán conforme a las leyes que les resulten aplicables, vigentes antes de la entrada en vigor de la presente Ley.
+
+Artículo Séptimo.
+
+El pleno del Tribunal Superior de Justicia, del Consejo de la Judicatura y de los Tribunales especializados, en cumplimiento a lo dispuesto en el presente Decreto, dentro de los sesenta días siguientes a su entrada en vigor, elaborarán y aprobarán su reglamento interno; entre tanto la aplicación y los problemas de interpretación que surjan· serán resueltos por el presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura.
+
+Artículo Octavo.
+
+En tanto se autoriza presupuestalmente la creación de los juzgados del Tribunal de lo Contencioso Administrativo, se estará a lo dispuesto en la legislación correspondiente.
+
+Artículo Noveno.
+
+En tanto se publique la Ley de Justicia Alternativa del Estado de Oaxaca, seguirán aplicándose las disposiciones de la Ley de Mediación del Estado de Oaxaca.
+
+Artículo Décimo.
+
+Se DEROGA el libro Sexto relativo al Tribunal Estatal Electoral, que comprenden los artículos 260 al 273 del Código de Instituciones Políticas y Procedimientos Electorales del Estado de Oaxaca.
