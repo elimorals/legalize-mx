@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2012-04-21"
+last_updated: "2012-04-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2012.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -2349,7 +2349,9 @@ XVII. El objeto robado sea un vehículo de motor.
 
 En los casos a que hace referencia este artículo, se aplicarán las sanciones correspondientes al robo simple, aumentadas en una mitad.
 
-Los adquirientes o detentadores de vehículos o autopartes no serán sancionados, cuando acrediten legalmente la buena fe en la adquisición o tenencia de las cosas que se consideran como robadas; para acreditar esta circunstancia se atenderá al costo de compra de los bienes y su precio en el mercado, así como la legalidad del procedimiento de adquisición con persona moral o física cierta.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2012)</small>
+
+Los adquirientes o detentadores de vehículos o autopartes no serán sancionados, cuando acrediten legalmente la buena fe en la adquisición o posesión de las cosas que se consideran como robadas; para acreditar esta circunstancia se atenderá al costo de compra de los bienes y su precio en el mercado, así como la legalidad del procedimiento de adquisición con persona moral o física cierta, o en la buena fe de la posesión.
 
 ###### ARTICULO 201.
 
@@ -3825,8 +3827,6 @@ El Ministerio Público o la autoridad judicial del conocimiento, tan pronto iden
 
 En todo centro de reclusión se prestarán servicios de rehabilitación al farmacodependiente.
 
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
-
 ###### ARTICULO 331.
 
 Cuando el Ministerio Público tenga conocimiento que el propietario, poseedor, arrendatario o usufructuario de un establecimiento de cualquier naturaleza lo empleare para realizar cualquiera de las conductas sancionadas en el presente Título o que permitiere su realización por terceros, informará a la autoridad administrativa competente para que, en ejercicio de sus atribuciones, realice la clausura del establecimiento, sin perjuicio de las sanciones que resulten por la aplicación de la Ley de Extinción de Dominio del Estado de San Luis Potosí, y demás ordenamientos legales aplicables.
@@ -4155,6 +4155,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 
 SEGUNDO. Se derogan las disposiciones que se opongan a éste.
 
+P.O. 16 DE FEBRERO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
 P.O. 10 DE NOVIEMBRE DE 2011.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -4162,12 +4168,6 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 No obstante lo anterior, para la implementación del presente Decreto el Estado contará con un plazo de tres años a partir de su entrada en vigor.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
-
-P.O. 16 DE FEBRERO DE 2012.
-
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 
 P.O. 12 DE ABRIL DE 2012.
 
@@ -4186,6 +4186,12 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a éste.
 P.O. 21 DE ABRIL DE 2012.
 
 DECRETO No. 958 POR EL QUE SE REFORMA EL ARTÍCULO 23 EN SU FRACCIÓN IV, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 28 DE ABRIL DE 2012.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
