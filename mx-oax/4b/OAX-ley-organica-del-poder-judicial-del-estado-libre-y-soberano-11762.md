@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-judicial-del-estado-libre-y-soberano-117
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-10-16"
-last_updated: "2011-06-16"
+last_updated: "2012-04-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA
+LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 28 DE ABRIL DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 16 de octubre de 1999.
 
@@ -111,7 +113,7 @@ I. Gozar del fuero que les concede la Constitución Política del Estado;
 
 II. No ser privados de sus cargos, sino en los términos del artículo 141 de la Constitución Política del Estado;
 
-Ill. Percibir una remuneración adecuada que será igual para cada uno de ellos y no podrá ser reducida durante su encargo;
+III. Percibir una remuneración adecuada que será igual para cada uno de ellos y no podrá ser reducida durante su encargo;
 
 IV. Integrar Sala y desempeñar las comisiones que acuerde el Pleno o el Presidente del Tribunal Superior de Justicia, dando cuenta por escrito con el resultado de la encomienda. El Presidente queda eximido de integrar Sala; y
 
@@ -303,7 +305,7 @@ Las ausencias del Magistrado Presidente de Sala serán cubiertas por el Magistra
 
 Las Salas del Honorable Tribunal Superior de Justicia del Estado, conocerán de los recursos y medios de impugnación que la ley de la materia determine, en los procesos seguidos en los Juzgados de todo el Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 17.
 
@@ -319,7 +321,7 @@ En los términos de esta Ley, de su Reglamento y de la adjetiva que resulte apli
 
 Las irregularidades atribuidas a los Jueces por faltas a la función pública serán conocidas en todos los casos por la Visitaduría del Tribunal Superior de Justicia del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 18.
 
@@ -485,7 +487,7 @@ II. Las labores que les encomiende la Superioridad en todo lo referente al servi
 
 III. Las demás que les señale esta Ley y el Reglamento. En ausencia del Ejecutor, el Secretario de Acuerdos asumirá sus funciones.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2007)</small>
 
 ### CAPITULO VII. DE LAS LICENCIAS
 
@@ -619,7 +621,7 @@ VI. (DEROGADA, P.O. 31 DE AGOSTO DE 2007)
 
 VII. Practicar visitas por lo menos una vez cada dos meses si son Jueces Penales o Mixtos a los reclusorios donde se encuentren internados los procesados o sentenciados a su disposición, levantando el acta, la que remitirán desde luego al Presidente del Tribunal Superior de Justicia;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRAFO, P.O. 31 DE AGOSTO DE 2007)</small>
 
 VIII. Salvo en los supuestos señalados en el artículo siguiente, ser el Jefe Administrativo del Juzgado, y en este último caso le corresponde:
 
@@ -665,7 +667,7 @@ XI. (DEROGADA, P.O. 31 DE AGOSTO DE 2007)
 
 XII. (DEROGADA, P.O. 31 DE AGOSTO DE 2007)
 
-Xlll. Las demás que les confiera el Pleno del Tribunal Superior de Justicia, esta Ley y su Reglamento.
+XIII. Las demás que les confiera el Pleno del Tribunal Superior de Justicia, esta Ley y su Reglamento.
 
 ###### ARTICULO 37.
 
@@ -679,7 +681,7 @@ Los Jueces residirán en el domicilio donde se ubique el Juzgado al que estén a
 
 Cuando el Juez tuviera impedimento legal para conocer en determinados asuntos, será sustituido por el Juez de igual categoría más próximo geográficamente o por el que resulte más próximo atendiendo a la mejor comunicación, o por el que indique la Sala que conozca del impedimento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2011)</small>
 
 ARTICULO 39 BIS.- En los Juzgados de Garantía, Control de Legalidad, en los Tribunales de Juicio Oral y en los Juzgados de Ejecución de Sanciones del sistema adversarial oral, deberá nombrarse un administrador, con las siguientes atribuciones:
 
@@ -793,7 +795,7 @@ III. Las demás que les señale el Reglamento y el Presidente del Tribunal Super
 
 La organización y estructura de la Dirección de Servicios Periciales, se establecerá en el Reglamento de esta Ley.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE ABRIL DE 2004)</small>
 
 ### CAPITULO III. DEL CENTRO DE MEDIACION JUDICIAL
 
@@ -1017,7 +1019,7 @@ ARTICULO 59 TER.- La carrera judicial tiene por objeto, con base en el sistema d
 
 La carrera judicial se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 60.
 
@@ -1421,7 +1423,7 @@ LIC. HECTOR ANUAR MAFUD MAFUD.
 
 Al C.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 31 DE DICIEMBRE DE 1999.
 
@@ -1464,3 +1466,47 @@ CUARTO.- A partir de la entrada en vigor del presente decreto, las facultades so
 QUINTO.- La competencia territorial de los jueces de ejecución de sanciones del sistema mixto; será determinada por el Pleno del Tribunal Superior de Justicia atendiendo a la ubicación de los centros de reclusión, si el sentenciado se encuentra privado de su libertad, o en libertad por estar gozando de alguno de los beneficios que el juez o la autoridad administrativa le otorgó.
 
 SEXTO.- En un plazo no mayor a sesenta días, el Congreso del Estado deberá realizar las reformas y adecuaciones pertinentes a las leyes y reglamentos que tengan relación con la ejecución de las penas y medidas de seguridad, a fin de adecuarlas al texto constitucional local y federal.
+
+P.O. 28 DE ABRIL DE 2012.
+
+Artículo Primero.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.
+
+Se abroga la Ley Orgánica del Poder Judicial del Estado Libre y Soberano de Oaxaca publicada en el Periódico Oficial del Estado con fecha dieciséis de octubre de mil novecientos noventa y nueve.
+
+Artículo Tercero.
+
+Los procesos y procedimientos iniciados con anterioridad a la entrada en vigor de la presente Ley Orgánica del Poder Judicial del Estado de Oaxaca, continuarán tramitándose hasta su conclusión conforme a las disposiciones con las que fueron iniciados.
+
+Artículo Cuarto.
+
+Las coordinaciones de comunicación social y de relaciones públicas adscritas a la Presidencia del Tribunal Superior de Justicia en el Estado, mantendrán sus operaciones por el resto del ejercicio 2012 ajustándose al presupuesto ya autorizado.
+
+La dirección del fondo para la administración de justicia continuará cumpliendo con las obligaciones legales, quedando insubsistentes los acuerdos del pleno del Tribunal Superior de Justicia que lo afecten, exceptuando aquellos que afecten derechos adquiridos.
+
+Artículo Quinto.
+
+Se faculta al presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura para dictar todas las medidas necesarias para la efectividad e inmediato cumplimiento del presente Decreto.
+
+Artículo Sexto.
+
+Las jubilaciones de los magistrados del Poder Judicial del Estado, designados con anterioridad al presente Decreto, se regirán conforme a las leyes que les resulten aplicables, vigentes antes de la entrada en vigor de la presente Ley.
+
+Artículo Séptimo.
+
+El pleno del Tribunal Superior de Justicia, del Consejo de la Judicatura y de los Tribunales especializados, en cumplimiento a lo dispuesto en el presente Decreto, dentro de los sesenta días siguientes a su entrada en vigor, elaborarán y aprobarán su reglamento interno; entre tanto la aplicación y los problemas de interpretación que surjan serán resueltos por el presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura.
+
+Artículo Octavo.
+
+En tanto se autoriza presupuestalmente la creación de los juzgados del Tribunal de lo Contencioso Administrativo, se estará a lo dispuesto en la legislación correspondiente.
+
+Artículo Noveno.
+
+En tanto se publique la Ley de Justicia Alternativa del Estado de Oaxaca, seguirán aplicándose las disposiciones de la Ley de Mediación del Estado de Oaxaca.
+
+Artículo Décimo.
+
+Se DEROGA el libro Sexto relativo al Tribunal Estatal Electoral, que comprenden (sic) los artículos 260 al 273 del Código de Instituciones Políticas y Procedimientos Electorales del Estado de Oaxaca.
