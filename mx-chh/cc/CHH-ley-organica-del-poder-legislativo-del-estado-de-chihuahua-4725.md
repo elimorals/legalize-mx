@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2012-04-04"
+last_updated: "2012-04-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2012.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -456,6 +456,10 @@ XIV.- Solicitar el auxilio de la fuerza pública cuando sea necesario para garan
 XV.- Firmar con los Secretarios las actas de las sesiones y las minutas de leyes y decretos que se aprueben y remitirlas al Ejecutivo para su promulgación, dentro de los quince días hábiles siguientes a su aprobación, así como también los nombramientos o remociones que haya acordado el Congreso.
 
 La omisión de este requisito ocasionará las sanciones por el incumplimiento, sin afectar la validez del acto;
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2012)</small>
+
+Tratándose de las resoluciones de las Iniciativas con carácter de Acuerdo, deberán enviarse a las respectivas dependencias e instancias dentro de los cinco días hábiles siguientes al de su aprobación.
 
 XVI.- Representar al Congreso en juicio y fuera de él;
 
@@ -2314,3 +2318,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Para dar cumplimiento a lo dispuesto en el Decreto, se contará con un plazo de ciento ochenta días naturales contados a partir de la publicación del presente Decreto en el Periódico Oficial del Estado.
+
+P.O. 28 DE ABRIL DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
