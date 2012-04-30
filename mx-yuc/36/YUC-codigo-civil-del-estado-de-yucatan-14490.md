@@ -4,7 +4,7 @@ identifier: "YUC-codigo-civil-del-estado-de-yucatan-14490"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-12-31"
-last_updated: "2011-04-08"
+last_updated: "2012-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CÓDIGO CIVIL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 8 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE ABRIL DE 2012.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 31 de diciembre de 1993.
 
@@ -327,961 +327,1023 @@ Si el nacimiento ocurriese en un buque extranjero, se observará, por lo que toc
 
 Si el nacimiento acaeciese durante un viaje por tierra, podrá registrarse en el lugar en que ocurra o en el domicilio de los padres, según las normas antes establecidas; en el primer caso, se remitirá copia del acta al oficial del registro civil del domicilio de los padres, y en el segundo, se tendrá para hacer el registro el término que señala el artículo 42 de este código, con un día más por cada cuarenta kilómetros de distancia o fracción que exceda de la mitad.
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LAS SECCIONES, DENOMINACIONES Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
+
 ### CAPITULO III. DEL MATRIMONIO
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 #### SECCION PRIMERA. DISPOSICIONES GENERALES
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 54.
 
-El matrimonio es la unión voluntaria entre un solo hombre y una sola mujer, basada en el amor y sancionada por el estado, para fundar una familia, perpetuar la especie y darse recíprocamente compañía, ayuda y asistencia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 55.
 
-Para contraer matrimonio es necesario que ambos contrayentes tengan dieciocho años de edad cumplidos. El Poder Ejecutivo del Estado puede conceder dispensa de edad, en casos excepcionales y por causas graves y justificadas.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 56.
 
-La edad mínima para contraer matrimonio será de dieciséis años cumplidos con el consentimiento de la persona o personas que ejerzan sobre ellos la patria potestad o la tutela.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 57.
 
-A falta de ascendiente que ejerza la patria potestad, para el matrimonio de las personas a que se refiere el artículo anterior, se requerirá el consentimiento del tutor.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 58.
 
-El matrimonio entre adolescentes no tiene como consecuencia la pérdida de los derechos de los contrayentes derivados de su condición etaria, ni libera a cualquier obligado respecto de dichos derechos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 59.
 
-Ni los ascendientes, ni los tutores, ni el Poder Ejecutivo, podrán revocar el consentimiento que hayan otorgado a un menor de edad para contraer matrimonio.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
-Artículo 59 A.- Para contraer matrimonio, los contrayentes deberán acreditar la asistencia previa al taller de orientación prematrimonial implementado por las autoridades estatales.
+Artículo 59 A.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-En el taller de orientación prematrimonial se hará del conocimiento de los contrayentes:
-
-I.- Los requisitos para contraer matrimonio;
-
-II.- Efectos del matrimonio, con relación a los cónyuges y sus descendientes;
-
-III.- Regímenes patrimoniales, patria potestad, patrimonio de la familia, paternidad responsable, responsabilidad financiera, y
-
-IV.- Causales y efectos del divorcio.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 60.
 
-Las personas que deseen contraer matrimonio se presentarán al oficial del registro civil del domicilio de cualquiera de los contrayentes, acompañadas de tres testigos que, bajo protesta de conducirse con verdad, declaren que los interesados no tienen impedimento legal para el matrimonio; oída esta declaración y cerciorado el oficial de la espontánea voluntad de los contrayentes, declarará perfeccionado el acto, levantándose en el libro respectivo el acta correspondiente.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 61.
 
-En el acto del matrimonio, los interesados deberán exhibir un certificado suscrito por médico titulado, en el que conste que los pretendientes que no padecen enfermedad alguna crónica e incurable, que sea además contagiosa o hereditaria. Los médicos encargados de los servicios de sanidad de carácter oficial tienen obligación de expedir gratuitamente este certificado a los indigentes.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-En caso de que el matrimonio se celebre bajo el régimen de sociedad conyugal convencional, los interesados deberán exhibir el documento en el que consten las capitulaciones matrimoniales correspondientes, para que sea archivado, así como una relación valorizada de los bienes que a cada uno pertenezcan y de las deudas que existan a cargo de cada uno de ellos; en caso de que alguno o los dos no tengan bienes o deudas, se hará constar en el acta su declaración en ese sentido.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 62.
 
-En el acta de matrimonio se hará constar expresamente si los contrayentes han celebrado capitulaciones matrimoniales, y si se casan bajo el régimen de sociedad conyugal o de separación de bienes. En caso de omisión se entenderá que se contrae por separación de bienes.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 63.
 
-En caso de que los contrayentes sean menores de dieciocho años, concurrirán al matrimonio las personas que según los artículos 56 y 57 de este código deben prestar su consentimiento para el acto, salvo que por impedimento para concurrir personalmente, hubiesen otorgado su autorización en la forma prevista en el artículo 57 del código del registro civil.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-Si a causa de irracional disenso, la autoridad municipal hubiese sido la que otorgó el consentimiento, deberán los interesados exhibir la constancia relativa.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 64.
 
-El oficial del registro civil ante quien se haga una solicitud de matrimonio, está obligado a exigir de los pretendientes y de los ascendientes o tutores de éstos, bajo protesta de decir verdad, todas las declaraciones que estime necesarias para asegurarse de su identidad y de la aptitud de los interesados para contraer matrimonio.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 65.
 
-Los pretendientes que declaren maliciosamente un hecho falso, los testigos que falsamente declaren la exactitud de las declaraciones de aquéllos o su identidad, así como los que dolosamente se hiciesen pasar por padres o tutores de los pretendientes, serán consignados al ministerio público para la aplicación de las sanciones que correspondan.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 66.
 
-Los oficiales del registro civil deberán negarse a autorizar el matrimonio, cuando por el conocimiento de los interesados o por denuncia en forma, tuviesen noticia de que alguno de los pretendientes carece de aptitud legal para celebrar el matrimonio.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 67.
 
-La denuncia de impedimento puede ser hecha por cualquiera persona.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-Las anónimas o hechas por cualquier medio, sin presentarse personalmente el denunciante, sólo serán admitidas cuando estén comprobadas con las constancias necesarias.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 68.
 
-El matrimonio terminará:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Por la muerte de uno de los cónyuges.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
-II.- Por nulidad declarada judicialmente.
-
-III.- Por divorcio.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 #### SECCION SEGUNDA. DE LOS IMPEDIMENTOS PARA CONTRAER MATRIMONIO
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 69.
 
-Son impedimentos para contraer matrimonio:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- La falta de edad requerida por la ley.
-
-II.- La falta del consentimiento a que se refieren los artículos 56, 57 y 58 de este código.
-
-III.- El parentesco de consanguinidad o de afinidad, sin limitación de grado, en la línea recta ascendente y descendente.
-
-IV.- El parentesco de consanguinidad en línea colateral dentro del tercer grado, entre hermanos y medios hermanos, entre tío y sobrina y entre sobrino y tía.
-
-V.- El atentado contra la vida de alguna persona casada, para contraer matrimonio con su cónyuge.
-
-> <small>(REFORMADA, D.O. 28 DE ENERO DE 2010)</small>
-
-VI.- La fuerza o miedo graves.
-
-VII.- El uso indebido y persistente de enervantes, estupefacientes u otras substancias que alteren gravemente la conducta y produzcan dependencia.
-
-> <small>(REFORMADA, D.O. 28 DE ENERO DE 2010)</small>
-
-VIII. Padecer una enfermedad mental que imposibilite a la persona para hacer uso de su voluntad, o el padecimiento de cualquier enfermedad de las tenidas por incurables, que sea además contagiosa o hereditaria, y
-
-IX.- La subsistencia legal de un matrimonio anterior.
-
-> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2010)</small>
-
-En el caso de enfermedad incurable, que sea contagiosa o hereditaria a que se refiere la fracción VIII, el impedimento será dispensable cuando ambos contrayentes acrediten fehacientemente haber obtenido de institución o médico especialista, el conocimiento de los alcances, los efectos y la prevención de la enfermedad que sea motivo del impedimento, y manifiesten su consentimiento para contraer matrimonio.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 70.
 
-El adoptante no podrá contraer matrimonio con el adoptado o sus descendientes, en tanto dure el lazo jurídico resultante de la adopción.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 71.
 
-(DEROGADO, D.O. 28 DE ENERO DE 2010)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 72.
 
-El tutor no podrá contraer matrimonio con la persona que ha estado o esté bajo su guarda, antes de que queden aprobadas legalmente las cuentas de la tutela, previa valoración psicológica que realice la Procuraduría de la Defensa del Menor y la Familia. En todo caso, la voluntad de la persona sujeta a tutela deberá ser oída después de que hubiese estado treinta días en casa designada por el juez, fuera de cualquiera influencia del tutor. Si la persona sujeta a tutela tuviera menos de dieciocho años de edad deberá obtenerse la autorización a que se refiere el artículo 55 y 56 de este Código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 73.
 
-La disposición contenida en el artículo inmediato anterior es aplicable al curador y a los descendientes de éste y a los del tutor.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 74.
 
-Si el matrimonio llegare a celebrarse en contravención a lo dispuesto en los dos artículos inmediatos anteriores, el matrimonio será nulo. En este caso, el juez procederá a nombrar inmediatamente un tutor interino que reciba los bienes y al tutor o curador se le exigirán las responsabilidades que correspondan, a menos que la persona sujeta a tutela, ya sea mayor de edad y manifiesta de manera indubitable su voluntad favorable al matrimonio, en cuyo caso éste subsistirá, sin que se den las demás consecuencias relacionadas en este artículo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 #### SECCION TERCERA. DE LOS MATRIMONIOS CONTRAIDOS FUERA DEL ESTADO
 
-> <small>(REFORMADO, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 75.
 
-El matrimonio entre extranjeros celebrado fuera del territorio nacional, que sea válido con arreglo a las leyes del país en que se celebró, surtirá efectos legales en el Estado, siempre que los interesados comprueben ante la autoridad judicial que corresponda, en vía de jurisdicción voluntaria, que al celebrarlo no violaron las disposiciones contenidas en el artículo 69 de este código, observándose lo dispuesto en el artículo 54 del código del registro civil.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 76.
 
-El matrimonio celebrado fuera del territorio nacional entre mexicanos, o entre un mexicano y otra persona que sea extranjera, producirá efectos legales en Yucatán, si se prueba que en el acto se observaron las formas y requisitos que en el lugar de su celebración establezcan las leyes, y que los mexicanos no contravinieron las disposiciones de los artículos del 69 al 73 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 77.
 
-Tratándose de mexicanos domiciliados en el Estado que contraigan matrimonio fuera de él, en caso de urgencia que no permita ocurrir a las autoridades de Yucatán, podrán suplir el consentimiento de los ascendientes las autoridades del Estado en que se celebre, o siendo fuera de la república, el ministro o cónsul mexicano, o quien haga sus veces conforme a los tratados internacionales.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 78.
 
-En caso de peligro de muerte próxima, y no habiendo en el lugar ministro o cónsul, ni quién haga sus veces, el matrimonio será válido siempre que se justifique que concurrieron esas circunstancias.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 79.
 
-Si el caso previsto en el artículo inmediato anterior ocurriere en el mar, a bordo de un buque nacional o extranjero, regirá lo dispuesto en dicho artículo, pero autorizando el acto el capitán o patrón del buque.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 80.
 
-Las personas comprendidas en los cuatro artículos inmediatos anteriores, dentro de los tres meses de su llegada al Estado, deberán acreditar ante las autoridades judiciales, que concurren en su matrimonio los requisitos establecidos en los citados artículos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 81.
 
-Si la sentencia dictada en el procedimiento a que alude el artículo inmediato anterior, fuere en el sentido de declarar válido el matrimonio, se enviará copia de ella al oficial del registro civil que corresponda, para que éste proceda a inscribirla en el libro respectivo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 82.
 
-Si la inscripción a que se refiere el artículo inmediato anterior fuere hecha después del término fijado en el artículo 80 de este código, el oficial del registro civil ante quien se haga, impondrá a los cónyuges una sanción equivalente al doble del salario mínimo vigente en la zona.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 #### SECCION CUARTA. DE LOS DERECHOS Y OBLIGACIONES QUE NACEN DEL MATRIMONIO
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 83.
 
-Los cónyuges están obligados a guardarse fidelidad, a vivir juntos y a contribuir, en lo que a cada uno corresponda, para los fines del matrimonio.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 84.
 
-Los cónyuges contribuirán económicamente al sostenimiento del hogar, a su alimentación y a la de sus hijas e hijos, así como a la educación de éstos en los términos que la ley establece, sin perjuicio de distribuirse la carga en la forma y proporción que acuerden para este efecto, según sus posibilidades. Se eximirá de lo anterior, el que se encuentre imposibilitado físicamente para trabajar y careciere de bienes propios, en cuyo caso el otro atenderá íntegramente a esos gastos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-Los derechos y obligaciones que nacen del matrimonio serán siempre iguales para los cónyuges e independientes de su aportación económica al sostenimiento del hogar.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
-> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2010)</small>
+Artículo 84 A.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-Artículo 84 A.- El desempeño del trabajo en el hogar o el cuidado de hijas e hijos se estimarán como contribución económica al sostenimiento del hogar.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 85.
 
-Cada uno de los cónyuges tiene derecho preferente sobre los bienes propios y los productos e ingresos del otro, para los gastos de su alimentación y la de sus hijos, pudiendo pedir el aseguramiento de bienes por una cuantía necesaria para hacer efectivo este derecho.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 86.
 
-La responsabilidad del hogar recae en ambos cónyuges, siendo el acuerdo entre ellos el que debe prevalecer, tanto en lo doméstico como en la educación de los hijos, salvo que alguno de los consortes sea de notoria mala conducta.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 87.
 
-El hombre y la mujer menores de dieciocho años, unidos en matrimonio, tendrán la libre administración de sus bienes, salvo lo dispuesto en el artículo 117 de este Código. Los tribunales atenderán a su condición de adolescentes y suplirán las deficiencias de sus promociones, en los negocios judiciales en que intervengan.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 88.
 
-El marido y la mujer durante el matrimonio, podrán ejercer los derechos y acciones que tengan el uno en contra del otro; pero la prescripción entre ellos no corre mientras dure el matrimonio.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 #### SECCION QUINTA. DE LA NULIDAD DEL MATRIMONIO
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 89.
 
-Son causas de nulidad del matrimonio:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- El error acerca de la persona con quien se contrae, cuando intentando un cónyuge celebrar matrimonio con persona determinada, lo contrae con otra.
-
-II.- Que el matrimonio se haya celebrado concurriendo alguno de los impedimentos enumerados en el artículo 69 de este código.
-
-III.- Que se haya celebrado contraviniendo lo dispuesto en los artículos del 60 al 63 de este código.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 90.
 
-La acción de nulidad que nace de error, sólo puede deducirla el cónyuge engañado; pero si éste no denuncia el error dentro de los tres días siguientes a aquél en que lo advierta, se tendrá por ratificado el consentimiento y queda subsistente el matrimonio.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 91.
 
-Las y los adolescentes que hubieran contraído matrimonio, sin tener la edad requerida por el artículo 55 de este código, podrán demandar la nulidad del mismo personalmente, sin necesidad de contar con un representante legal, desde la celebración de dicho matrimonio y hasta tres años después de que cumplieran los dieciocho años de edad.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 92.
 
-(DEROGADO, D.O. 28 DE ENERO DE 2010)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 93.
 
-(DEROGADO, D.O. 28 DE ENERO DE 2010)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 94.
 
-(DEROGADO, D.O. 28 DE ENERO DE 2010)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 95.
 
-La acción de nulidad que nace por el parentesco a que se refieren las fracciones III y IV del artículo 69 de este código, puede ejercitarse por cualquiera de los cónyuges, por sus ascendientes, sus descendientes o por el ministerio público.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 96.
 
-La nulidad proveniente del atentado contra la vida de alguno de los cónyuges para casarse con el que quede libre, puede ser deducida por los descendientes del cónyuge víctima del atentado, por sus ascendientes o por el ministerio público, dentro del término de seis meses, contados desde que se celebró el nuevo matrimonio.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 97.
 
-La fuerza o miedo graves serán causa de nulidad del matrimonio, si concurren las circunstancias siguientes:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Que una u otro importen peligro de perder la vida, el honor, la libertad, la salud o una parte considerable de los bienes.
-
-II.- Que el miedo haya sido causado, o la violencia hecha al cónyuge o a la persona o personas que le tienen bajo su patria potestad o tutela, al celebrarse el matrimonio.
-
-III.- Que uno y otra hayan subsistido al tiempo de celebrarse el matrimonio.
-
-La acción que nace de estas causas de nulidad, sólo puede deducirse por el cónyuge agraviado, dentro de sesenta días contados desde la fecha en que cesó la violencia o la intimidación.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 98.
 
-La nulidad que se funde en alguna de las causas expresadas en la fracción VII del artículo 69 de este código, sólo puede ser pedida por los cónyuges, dentro del término de sesenta días, contados desde que se celebró el matrimonio.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 99.
 
-Tienen derecho de pedir la nulidad a que se refiere la fracción VIII del artículo 69 de este código, el otro cónyuge o el tutor especial que para el efecto se nombre al cónyuge afectado, si éste estuviere incapacitado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 100.
 
-El vínculo de un matrimonio anterior, existente al tiempo de contraerse el segundo, anula éste, aunque se contraiga de buena fe, creyéndose fundadamente que el consorte anterior había muerto. La acción que nace de esta causa, puede deducirse por el cónyuge del primer matrimonio, por sus hijos o herederos y por los cónyuges que contrajeron el segundo o por el ministerio público.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 101.
 
-La nulidad que se funda en la falta de formalidades esenciales para la validez del matrimonio, puede alegarse por los cónyuges y por cualquiera que tenga interés en probar que no hay matrimonio.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-También podrá declararse a instancia del ministerio público.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 102.
 
-No procederá la demanda de nulidad por falta de formalidades en el acta de un matrimonio celebrado ante un oficial del registro civil, cuando a la existencia de dicha acta se una la posesión de estado matrimonial.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 103.
 
-El derecho para demandar la nulidad de un matrimonio sólo compete a quienes la ley lo concede expresamente, y no es transmisible por herencia ni de cualquiera otra manera. Sin embargo, los herederos podrán continuar la demanda de nulidad entablada por aquél a quien hereden.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 104.
 
-Ejecutoriada la sentencia que declare la nulidad de un matrimonio, el tribunal, de oficio, enviará copia certificada de ella al oficial del registro civil ante quien pasó el matrimonio, para que al margen del acta ponga nota circunstanciada en que consten: la parte resolutiva de la sentencia, su fecha y el tribunal que la pronunció. La copia será depositada en el archivo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 105.
 
-Todo matrimonio tiene en su favor la presunción de ser válido, sólo se considerará nulo, cuando así lo declare una sentencia que cause ejecutoria.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 106.
 
-Los cónyuges no pueden celebrar transacción ni compromiso en árbitros, acerca de la nulidad del matrimonio.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 107.
 
-El matrimonio contraído de buena fe, aunque sea declarado nulo, produce todos sus efectos civiles a favor de los cónyuges, mientras dure; y en todo tiempo, en favor de hijas e hijos nacidos antes de la celebración del matrimonio, durante él y trescientos días después de la declaración de nulidad, si no se hubiesen separado los consortes, o desde su separación en caso contrario, siempre y cuando, la mujer no hubiere contraído nuevas nupcias, en cuyo caso se estará a lo dispuesto por el artículo 255 de este Código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 108.
 
-Si ha habido buena fe de parte de uno solo de los cónyuges, el matrimonio produce efectos civiles únicamente respecto de él y de los hijos. Si ha habido mala fe de parte de ambos cónyuges, el matrimonio produce efectos legales solamente respecto de los hijos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 109.
 
-La buena fe se presume, y para destruir esta presunción se requiere prueba plena.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 110.
 
-Si la demanda de nulidad fuere entablada por uno solo de los cónyuges, se dictarán desde luego las medidas provisionales que establece el artículo 199 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 111.
 
-Si de parte de ambos cónyuges hubiese habido buena fe, y a falta de convenio especial celebrado por los interesados, y una vez que la sentencia sobre nulidad cause ejecutoria, los hijos menores de catorce años, quedarán bajo la patria potestad de ambos cónyuges y al cuidado de la madre, salvo que alguno de los cónyuges se dedicare a la prostitución, al lenocinio, usare indebida y persistentemente las substancias a que se refiere la fracción VII del artículo 69 de este código, tuviere alguna enfermedad contagiosa, o por su conducta ofreciere peligro grave para la salud o la moralidad de sus hijos, en cuyo caso el cónyuge responsable perderá el derecho que le otorga este precepto.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-Los hijos mayores de 14 años, permanecerán a su elección, con el padre o con la madre, salvo que el elegido se encuentre en alguno de los supuestos invocados en la parte final del párrafo anterior.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 112.
 
-Si uno solo de los cónyuges ha procedido de buena fe, quedarán todos los hijos a su cuidado y bajo su patria potestad.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 113.
 
-Lo prevenido en los dos artículos precedentes es sin perjuicio de la obligación que tienen ambos cónyuges de contribuir para los gastos de alimentación y educación de sus hijos, en la forma que disponga la sentencia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 114.
 
-Declarada la nulidad del matrimonio, se procederá a la división de los bienes comunes en los términos de la sección sexta de este capítulo. Los productos repartibles, si los dos cónyuges hubieren procedido de buena fe, se dividirán por mitad entre ellos, o en la forma dispuesta en las capitulaciones matrimoniales, si las hubiere; si sólo hubiere habido buena fe por parte de uno de los cónyuges, a éste corresponderán íntegramente esos productos. Si ha habido mala fe de parte de ambos cónyuges, los productos se aplicarán en favor de los hijos, y si no los hubiese, se repartirán en proporción a lo que cada consorte llevó al matrimonio.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 115.
 
-Si al declararse la nulidad del matrimonio, la mujer estuviere encinta, se dictarán las medidas de precaución a que se refiere el capítulo I del título quinto del libro cuarto de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 116.
 
-(DEROGADO, D.O. 28 DE ENERO DE 2010)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADA CON LAS DENOMINACIONES Y ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 #### SECCION SEXTA. DE LOS BIENES DE LOS CONSORTES
 
 DISPOSICIONES GENERALES
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 117.
 
-El matrimonio puede celebrarse bajo el régimen de sociedad conyugal o bajo el de separación de bienes. La sociedad conyugal puede ser convencional o legal. Si en el acta matrimonial no se hiciere mención del régimen, se entenderá celebrado el matrimonio bajo el régimen de separación de bienes.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-Los cónyuges están obligados a presentar una copia certificada del acta en que conste la constitución de la sociedad conyugal y de las capitulaciones matrimoniales, en su caso, al registro público de la propiedad del Estado, para su inscripción.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 118.
 
-La sociedad convencional se regirá estrictamente por las capitulaciones matrimoniales que la constituyan. Todo lo que no estuviere expresado en ellas de un modo terminante, se regirá por los preceptos contenidos en los artículos del 137 al 173 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 119.
 
-La sociedad conyugal, sea convencional o legal, se regirá por las disposiciones relativas a la sociedad común, en todo lo que no estuviere comprendido en esta sección.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 120.
 
-La sociedad conyugal, sea convencional o legal, nace desde el momento en que se celebra por la voluntad de los cónyuges.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 121.
 
-La sociedad convencional puede terminar antes de que se disuelva el matrimonio, si así está convenido en las capitulaciones o por acuerdo de los cónyuges.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 122.
 
-La sociedad legal termina por la disolución del matrimonio, por voluntad expresa de los consortes y por sentencia que declare la presunción de muerte del cónyuge ausente.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 123.
 
-Puede también terminar la sociedad conyugal durante el matrimonio, a petición de alguno de los cónyuges, por los siguientes motivos:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Si el socio administrador, por su notoria negligencia o torpe administración, amenaza arruinar a su consocio o disminuir considerablemente los bienes comunes.
-
-II.- Cuando el socio administrador hace cesión de bienes a sus acreedores, o es declarado en quiebra, estado de concurso o de suspensión de pagos.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 124.
 
-La separación de bienes, hecha durante el matrimonio, puede terminar, suspender o modificar la sociedad conyugal, según convengan los cónyuges.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 125.
 
-El abandono injustificado del domicilio conyugal por uno de los cónyuges, hace cesar para él, desde el día del abandono, los efectos de la sociedad legal, en cuanto le favorezcan; éstos no podrán comenzar de nuevo sino por convenio expreso.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 126.
 
-La administración de los bienes de la sociedad conyugal reside en ambos consortes en los términos establecidos en este código, salvo convenio en contrario.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 DE LAS CAPITULACIONES MATRIMONIALES
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 127.
 
-Se llaman capitulaciones matrimoniales los pactos que los esposos celebran para constituír, ya sea separación de bienes, la sociedad convencional, sociedad legal, así como para determinar la forma de administrar los bienes. Las capitulaciones matrimoniales pueden otorgarse antes de la celebración del matrimonio o durante él; y pueden comprender no sólo los bienes de que sean dueños los consortes al tiempo de celebrarlas sino también los que adquieran después.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 128.
 
-En las capitulaciones matrimoniales en que se pacte la separación de bienes durante el matrimonio, se observarán las formalidades exigidas para la transmisión de los bienes de que se trate.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 129.
 
-Las capitulaciones no pueden alterarse ni revocarse después de la celebración del matrimonio, sino en los mismos términos que los demás contratos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 130.
 
-En el matrimonio entre adolescentes, a pesar de su constitución con el régimen de separación de bienes, los cónyuges, bajo pena de nulidad, no podrán realizar los actos jurídicos relacionados en los artículos 145, 146 y 147 de este Código, sin contar con la conformidad del ascendiente que hubiera otorgado su garantía para la autorización judicial del matrimonio respectivo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 DE LA SOCIEDAD CONVENCIONAL
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 131.
 
-Las capitulaciones matrimoniales en que se establezca la sociedad convencional, deben contener:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- La lista detallada de los bienes inmuebles que cada consorte lleve a la sociedad, con expresión de su valor y de los gravámenes que reporten.
-
-II.- La lista especificada de los bienes muebles que cada consorte introduzca a la sociedad.
-
-III.- Nota pormenorizada de las deudas que tenga cada cónyuge al celebrar el matrimonio, con expresión de si la sociedad ha de responder de ellas, o únicamente de las que se contraigan durante el matrimonio, ya sea por ambos consortes o por cualquiera de ellos.
-
-IV.- La declaración expresa de si la sociedad ha de comprender todos los bienes de cada consorte o sólo parte de ellos, precisando en este último caso cuáles son los bienes que hayan de entrar a la sociedad.
-
-V.- La declaración explícita de si la sociedad ha de comprender todos los bienes de los consortes, o solamente sus productos.
-
-En uno y en otro caso se determinará con toda claridad la parte que en los bienes o en sus productos corresponda a cada cónyuge.
-
-VI.- La declaración de si el producto del trabajo de cada consorte corresponde exclusivamente al que lo ejecutó, o si debe dar participación de ese producto al otro consorte y en qué proporción.
-
-VII.- La declaración terminante acerca de quién debe ser el administrador de la sociedad, expresándose con claridad las facultades que se le conceden.
-
-VIII.- La declaración acerca de si los bienes futuros que adquieran los cónyuges durante el matrimonio, pertenecen exclusivamente al adquirente, o si deben repartirse entre ellos y en qué proporción.
-
-IX.- Las bases para liquidar la sociedad.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 132.
 
-Es nula toda capitulación en cuya virtud uno de los consortes haya de percibir todas las utilidades; así como la que establezca que alguno de ellos sea responsable por las pérdidas y deudas comunes en una parte que exceda a la que proporcionalmente corresponda a su capital o a las utilidades que deba percibir.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 133.
 
-Cuando se establezca que uno de los consortes sólo deba recibir una cantidad fija, el otro consorte o sus herederos deberán pagar la suma convenida, haya o no utilidades en la sociedad.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 134.
 
-Los acreedores que no hubieren tenido conocimiento de los términos en que estuviere constituida la sociedad convencional, por no haberse registrado, podrán ejercitar sus acciones conforme a las reglas de la legal; pero el consorte que en virtud de las capitulaciones no deba responder de aquella deuda, conservará a salvo sus derechos para cobrar la parte que le corresponde, de los gananciales del otro consorte, y si éstos no alcanzaren, de los bienes propios de éste.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 135.
 
-Todo pacto que importe cesión de una parte de los bienes propios de cada contrayente, será considerado como donación.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 DE LA SOCIEDAD LEGAL
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 136.
 
-La sociedad legal queda constituida con la simple declaración que los cónyuges hagan ante el oficial del registro civil de ser su voluntad que los bienes aportados al matrimonio y los que en adelante adquieran, se rijan por este sistema.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 137.
 
-En la sociedad legal, son propios de cada cónyuge:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Los bienes de que era dueño al tiempo de celebrarse el matrimonio, y los que poseía antes de éste, aunque no fuere dueño de ellos, si los adquiere por prescripción durante la sociedad.
-
-II.- Los bienes que durante la sociedad adquiera cada cónyuge por don de la fortuna, por donación de cualquiera especie, por herencia o por legado, constituido a favor de uno solo de ellos. Cuando las donaciones fueren onerosas, se deducirá del capital del cónyuge que las reciba, el importe de las cargas que hayan sido soportadas por la sociedad.
-
-III.- Los bienes adquiridos por cualquier título propio que sea anterior al matrimonio, aunque la prestación se haya hecho después de la celebración de él. Los gastos que se hubieren causado para hacer efectivo el título, serán a cargo del dueño de éste.
-
-IV.- Los adquiridos por venta o permuta de sus bienes raíces y los adquiridos con el precio de la venta de otros también raíces de su propiedad.
-
-V.- Lo que cada cónyuge adquiera por la consolidación de la propiedad y el usufructo, siendo a su cargo los gastos que se hubieren hecho.
-
-VI.- Las cantidades cobradas por los plazos vencidos durante el matrimonio, si alguno de los cónyuges tuviere derecho a una prestación exigible en plazos, que no tenga el carácter de usufructo.
-
-VII.- El tesoro encontrado casualmente.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 138.
 
-Forman el fondo de la sociedad legal:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Todos los bienes adquiridos por cualquiera de los cónyuges en el ejercicio de una profesión o actividad lícita, mercantil o industrial, o por cualquier trabajo.
-
-II.- Los bienes que provengan de herencia, legado o donación hechos a ambos cónyuges sin designación de partes. Si hubiere designación de partes, y éstas fueren desiguales, sólo serán comunes los frutos de la herencia, legado o donación.
-
-III.- El capital sacado de la masa común de bienes para adquirir fincas por cualquier título que nazca de derecho propio de alguno de los cónyuges, anterior al matrimonio.
-
-IV.- El precio de las refacciones de crédito y el de cualesquiera mejora y reparaciones hechas en fincas o créditos propios de uno de los cónyuges.
-
-V.- El exceso o diferencia de precios dados por uno de los cónyuges en venta o permuta de bienes propios para adquirir otros en lugar de los vendidos o permutados.
-
-VI.- Los bienes adquiridos por título oneroso durante la sociedad a costa del caudal común, bien se haga la adquisición para la comunidad, bien para uno solo de los consortes.
-
-VII.- Los frutos, accesiones, rentas e intereses percibidos o devengados durante la sociedad, procedentes de los bienes comunes o de los propios de cada uno de los consortes.
-
-VIII.- Lo adquirido por razón de usufructo.
-
-IX.- Los edificios construidos durante la sociedad con fondos de ella, sobre suelo propio de alguno de los cónyuges, a quien se abonará el valor del terreno.
-
-X.- Las cabezas de ganado que excedan en número de las que al celebrarse el matrimonio fueron propias de alguno de los cónyuges.
-
-XI.- Los frutos pendientes al disolverse la sociedad, que se dividirán en proporción al tiempo que ésta haya durado en el último año. Los años se computarán desde la fecha de la celebración del matrimonio.
-
-XII.- El tesoro encontrado por industria de cualquiera de los cónyuges.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 139.
 
-Se reputan adquiridos durante la sociedad los bienes que alguno de los cónyuges debió adquirir como propios durante ella, y que no fueron adquiridos sino después de disuelta, ya por no haberse tenido noticia de ellos, ya por haberse dificultado injustamente su adquisición o goce.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 140.
 
-Serán del fondo social los frutos de los bienes a que se refiere el artículo inmediato anterior, que hubieren sido percibidos después de disuelta la sociedad y que debieron serlo durante ella.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 141.
 
-No pueden renunciarse los gananciales durante el matrimonio; pero disuelto éste, o decretada la separación de bienes, pueden renunciarse los adquiridos, y vale la renuncia si se hace en escritura pública, otorgada después de treinta días de la separación o disolución. Esta disposición no es renunciable.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 142.
 
-Todos los bienes que existan en poder de cualquiera de los cónyuges al hacerse la separación de ellos, se presumen gananciales, mientras no se pruebe lo contrario.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 143.
 
-Ni la declaración de uno de los cónyuges que afirme ser suya una cosa, ni la confesión del otro, ni ambas juntas, se estimarán pruebas suficientes, aunque sean judiciales. En este caso, la confesión se considerará como donación, que no quedará confirmada sino por la muerte del donante.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 144.
 
-El dominio, posesión y administración de los bienes comunes reside en ambos cónyuges mientras subsista la sociedad.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 145.
 
-Los bienes raíces pertenecientes al fondo social, no pueden ser obligados ni enajenados en modo alguno por uno de los cónyuges sin el consentimiento del otro. En los casos de oposición infundada podrá suplirse por decreto judicial el consentimiento del cónyuge disidente, previa su audiencia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 146.
 
-Ninguno de los cónyuges podrá tomar capitales prestados, sin el consentimiento del otro, cuando su importe exceda al equivalente de veinte veces el salario mínimo general diario vigente en el Estado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-Este consentimiento deberá hacerse constar en el documento de préstamo. Es nula toda obligación contraída con infracción de las disposiciones de este artículo.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 147.
 
-Ninguno de los cónyuges puede aceptar ni repudiar la herencia común sin consentimiento del otro; pero el juez puede suplir este consentimiento, previa audiencia del disidente.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 148.
 
-La responsabilidad de la aceptación sin la conformidad del otro cónyuge o la autorización judicial, sólo afectará los bienes propios del aceptante y su mitad de gananciales.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 149.
 
-Ninguna enajenación que de los bienes gananciales haga un cónyuge en contravención de la ley o en fraude del otro, perjudicará a éste ni a sus herederos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 150.
 
-Cualquiera de los cónyuges puede pagar con los gananciales los gastos ordinarios de la familia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 151.
 
-Las deudas contraídas durante el matrimonio por ambos cónyuges o por cualquiera de ellos en los términos del artículo 146 de este código, son carga de la sociedad legal.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 152.
 
-Las deudas de cada cónyuge, anteriores al matrimonio, no son carga de la sociedad legal, a no ser en los casos siguientes:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Si el otro cónyuge estuviere personalmente obligado.
-
-II.- Si hubieren sido contraídas en provecho común de los cónyuges.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 153.
 
-Quedan comprendidas entre las deudas de que habla el artículo que precede, las que provengan de cualquier hecho de los consortes, anterior al matrimonio, aun cuando la obligación se haga efectiva durante la sociedad.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 154.
 
-Los créditos anteriores al matrimonio, en el caso de que el cónyuge obligado no tenga con qué satisfacerlos, sólo podrán ser pagados con los gananciales que le correspondan.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 155.
 
-Son carga de la sociedad legal:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Los atrasos de las pensiones o réditos devengados durante el matrimonio, con motivo de las obligaciones a que estuvieren afectos, tanto los bienes propios de los cónyuges, como los que forman el fondo social.
-
-II.- Los gastos que se hagan en las reposiciones indispensables para la conservación de los bienes propios de cada cónyuge; los gastos que no fueren de esta clase, se imputarán al haber del dueño.
-
-III.- Todos los gastos que se hicieren para la conservación de los bienes del fondo social.
-
-IV.- El mantenimiento de la familia, la educación de los hijos comunes y la de los entenados que fueren menores de edad.
-
-V.- Los gastos de inventarios y demás que se causen en la liquidación y en la entrega de los bienes que formaron el fondo social.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 156.
 
-La sociedad legal termina y se suspende en los casos señalados en los artículos 122, 123 y 124 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-DE LA DISOLUCION Y LIQUIDACION
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 DE LA SOCIEDAD CONYUGAL
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 157.
 
-En los casos de nulidad del matrimonio, cuando los dos cónyuges procedieron de buena fe, subsistirá la sociedad hasta que cause ejecutoria la sentencia. Si uno solo de los cónyuges tuvo buena fe, subsistirá la sociedad también hasta que cause ejecutoria la sentencia, si ésto es favorable al cónyuge inocente; en caso contrario, la sociedad se considerará nula desde su principio.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 158.
 
-Si los dos cónyuges procedieron de mala fe, la sociedad se considerará nula desde la celebración del matrimonio, quedando en todo caso a salvo los derechos que un tercero tuviere contra el fondo social.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 159.
 
-El cónyuge o cónyuges administradores darán cuenta de la administración de los bienes en los términos convenidos en las capitulaciones matrimoniales y faltando éstas, conforme a las prescripciones establecidas en este código para el caso de disolución de la sociedad legal.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 160.
 
-En los casos de divorcio se procederá a la liquidación de la sociedad en los términos establecidos en este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 161.
 
-En los casos de divorcio por mutuo acuerdo o de simple separación de bienes, se observarán para la liquidación los convenios que hayan celebrado los consortes y que fuesen aprobados por el juez, en caso de rebeldía de alguno de los cónyuges, el juez podrá ejecutarla.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 162.
 
-La disolución no producirá efecto respecto de los acreedores, sino desde la fecha en que se les notifique el fallo judicial.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 163.
 
-Disuelta la sociedad, se procederá desde luego a formar el inventario, incluyéndose en forma detallada, no sólo los bienes que formaron la sociedad, sino los que deban traerse a colación.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 164.
 
-Deben traerse a colación las cantidades pagadas por el fondo social y que sean carga exclusiva de los bienes propios de cada cónyuge, y el importe de las donaciones y de las enajenaciones que deban considerarse fraudulentas conforme al artículo 149 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 165.
 
-No se incluirán en el inventario los efectos que formaban el lecho y vestidos de los consortes, que se entregarán desde luego a éstos o a sus herederos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 166.
 
-Terminado el inventario y tratándose de sociedad legal, se pagarán los créditos que hubieren contra el fondo social; se devolverá a cada cónyuge lo que llevó al matrimonio y el sobrante, si lo hubiere, se dividirá entre los cónyuges por mitad. En caso de que hubiere pérdidas, el importe de éstas se deducirá por mitad de lo que cada consorte hubiere llevado a la sociedad; y si uno solo llevó el capital, de éste se deducirá el total de las pérdidas.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-En el caso de sociedad convencional, se procederá como se haya establecido en las capitulaciones, y si nada se hubiera dispuesto al respecto, se aplicará lo ordenado en el párrafo anterior.
-
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 167.
 
-Tratándose de sociedad legal, en la liquidación de los gananciales, cada cónyuge tendrá derecho a la mitad, sea cual fuere el importe de los bienes que cada uno de ellos haya aportado al matrimonio, o adquirido durante él y aun cuando alguno de los dos haya carecido de bienes al tiempo de celebrarlo, salvo lo dispuesto en el artículo 114 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-Tratándose de sociedad convencional, se procederá en los términos de las capitulaciones, y si nada se hubiera dispuesto en ellas al respecto, se aplicará lo ordenado en el párrafo anterior.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 168.
 
-Las pérdidas o desmejoras de los bienes muebles no estimados, aunque provengan de caso fortuito, se pagarán de los gananciales, si los hubiere; en caso contrario, el dueño recibirá los muebles en el estado en que se hallen.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 169.
 
-Los deterioros de los bienes inmuebles no son abonables en ningún caso al dueño, excepto los que provengan de culpa del cónyuge administrador, en cuyo caso se pagarán con cargo al fondo social.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 170.
 
-Muerto uno de los cónyuges, continuará el que sobreviva en la posesión y administración del fondo social, con intervención del representante de la sucesión, mientras no se verifique la partición; salvo que hubieren existido matrimonios anteriores, que no hayan sido liquidados, en cuyo caso el albacea tendrá la posesión y administración de los bienes gananciales.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 171.
 
-Cuando haya de ejecutarse simultáneamente la liquidación de las sociedades correspondientes a dos o más matrimonios contraídos por una misma persona, a falta de inventarios se admitirán las pruebas ordinarias para fijar el fondo de cada socio.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 172.
 
-En caso de duda, se dividirá los gananciales entre las diferentes sociedades, en proporción al tiempo que hayan durado y al valor de los bienes propios de cada socio.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 173.
 
-Todo lo relativo a la formación de inventarios y a las solemnidades de la partición y adjudicación de los bienes, se regirá por lo que disponga el código de procedimientos civiles.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 DE LA SEPARACION DE BIENES
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 174.
 
-La separación de bienes puede establecerse por simple declaración al momento de celebrarse el matrimonio, y que se asentará en el acta, o por medio de capitulaciones matrimoniales.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 175.
 
-En el régimen de separación de bienes, los cónyuges serán considerados como dos extraños en todo lo relativo a sus bienes.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 176.
 
-En el caso del artículo inmediato anterior, los cónyuges conservan la propiedad, posesión y administración de sus bienes muebles e inmuebles y el goce de sus productos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 177.
 
-Cada cónyuge responderá de las deudas que contraiga antes y durante el matrimonio.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 178.
 
-Si la separación de bienes se adopta por medio de capitulaciones matrimoniales, se observará lo dispuesto en los artículos del 127 al 130 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 179.
 
-La separación de bienes puede ser absoluta o parcial. En el segundo caso, los puntos que no estén comprendidos en las capitulaciones de separación, se regirán por los preceptos que regulan la sociedad legal, a no ser que los esposos constituyan acerca de ellos sociedad convencional.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 180.
 
-En el matrimonio sujeto al régimen de separación de bienes, cada uno de los consortes contribuirá a sostener los alimentos, la habitación, la educación de los hijos y demás cargas del matrimonio, según el convenio; y a falta de éste, en la forma prevista en el artículo 84 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 181.
 
-Los bienes adquiridos en común por ambos cónyuges y respecto de los cuales no se haya hecho designación de parte, quedan sujetos a las reglas de la copropiedad, mientras no se practique la división de los mismos. Hecha ésta, cada uno de los cónyuges disfrutará exclusivamente de la parte que le corresponda.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 182.
 
-La separación de bienes por convenio puede verificarse, en virtud de divorcio o por mutuo consentimiento.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 183.
 
-En caso de divorcio por mutuo consentimiento, se observará lo que los cónyuges acordaren con aprobación del juez, o lo que hubiesen pactado en capitulaciones matrimoniales.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 184.
 
-La separación de bienes por sentencia judicial tendrá lugar en los casos de ausencia y cuando alguno de los consortes fuere condenado a la pérdida de los derechos de familia, conforme al código de defensa social.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 185.
 
-La sentencia ejecutoria que declare la separación, debe registrarse en el registro público de la propiedad.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO IV. DEL DIVORCIO
 
-> <small>(REFORMADO, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 186.
 
-El divorcio es la disolución del vínculo matrimonial.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 187.
 
-El divorcio tendrá lugar:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Por mutuo consentimiento.
-
-II.- Por sentencia ejecutoria dictada con fundamento en alguna de las causas a que se refiere el artículo 194 de este código.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 188.
 
-El divorcio por mutuo consentimiento sólo podrá pedirse cuando haya transcurrido un año, contado desde la celebración del matrimonio.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 189.
 
-Cuando ambos consortes convengan en divorciarse, no tengan hijos menores de edad, y de común acuerdo hubiesen liquidado la sociedad conyugal, si bajo ese régimen se casaron, el divorcio se llevará a cabo por simple comparecencia ante el oficial del registro civil del lugar de su domicilio.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 190.
 
-El divorcio obtenido en la forma establecida en el artículo anterior no surtirá efectos legales si se comprueba que los cónyuges no reunieron las condiciones a que se refiere dicho precepto.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 191.
 
-Si los cónyuges que pretenden divorciarse tuvieren hijos menores, presentarán al juzgado un escrito en que se fijen los siguientes puntos:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Designación de la persona a quien sean confiados los hijos del matrimonio, tanto durante el procedimiento como después de consumado el divorcio.
-
-II.- El modo de subvenir a las necesidades de los hijos, tanto durante el procedimiento como después de consumado el divorcio.
-
-III.- La casa en que habitará cada cónyuge durante el procedimiento.
-
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
-
-IV.- La cantidad que a título de alimentos un cónyuge debe pagar al otro, la forma de hacer el pago y la garantía que deba darse para asegurarlos durante el procedimiento y después de ejecutoriada la sentencia que aprobó las bases del divorcio, o bien la manifestación expresa de que ambos cónyuges quedarán exentos de toda obligación a este respecto en caso de que así se convenga.
-
-V.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento, y la de liquidar dicha sociedad después de consumado el divorcio, así como la designación de liquidadores. A ese efecto se acompañará un inventario y avalúo de todos los bienes muebles e inmuebles de la sociedad.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 192.
 
-El juez, previa audiencia del ministerio público, aprobará el convenio, si con los puntos acordados no se lesionaren los intereses de los hijos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-En caso contrario oirá en audiencia verbal a los interesados y al ministerio público, y resolverá lo que estime conveniente.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 193.
 
-Si los cónyuges que tratan de llevar a cabo su divorcio por mutuo consentimiento no tuviesen hijos menores de edad, pero sí bienes, y no llegasen a ponerse de acuerdo en el arreglo de los mismos, cualquiera de los interesados ocurrirá al juez, en juicio ordinario, para que éste resuelva los puntos controvertidos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 194.
 
-El divorcio, en el caso de la fracción II del artículo 187 de este código, procede:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Por adulterio.
-
-II.- Por el hecho de que la mujer dé a luz un hijo concebido antes del matrimonio, siempre que judicialmente se declare que no es hijo del marido.
-
-III.- Por obligar o forzar a uno de los cónyuges para prostituir al otro, no sólo cuando lo haga directamente, sino también cuando se pruebe que ha recibido dinero o cualquiera remuneración con objeto de permitir que otra persona tenga relaciones sexuales con su cónyuge.
-
-IV.- Por la incitación o la violencia hecha por un cónyuge al otro para cometer un delito.
-
-> <small>(REFORMADA, D.O. 28 DE ENERO DE 2010)</small>
-
-V.- Por los actos ejecutados o las omisiones toleradas por el marido o la mujer con el fin de explotar sexual o laboralmente a los hijos o hijas, ya se trate de descendientes de ambos, ya sea de uno solo de ellos.
-
-Para los efectos de esta fracción se entenderá como explotación sexual al uso de niñas, niños o adolescentes con fines sexuales, a cambio de dinero, bienes o favores en especie entre el explotador, intermediario o agente y otros que lucren con dicha explotación y como explotación laboral a la trasgresión de las garantías que brinda la legislación laboral mexicana a personas menores de dieciocho años de edad, así como a la utilización de las mismas para todo trabajo que los prive de su niñez, su potencial y su dignidad, y que sea perjudicial para su desarrollo físico y psicológico.
-
-VI.- Por padecer cualquiera de los cónyuges una enfermedad crónica o incurable que sea además contagiosa o hereditaria.
-
-VII.- Por enajenación mental incurable de cualquiera de los cónyuges.
-
-VIII.- Por separación de la casa conyugal por más de seis meses sin causa justificada.
-
-IX.- Por separación de la casa conyugal por más de un año, originada por causa que sea bastante para pedir el divorcio, sin que el cónyuge que se separó entable demanda.
-
-X.- Por sevicia, lesiones, amenazas o injurias graves de un cónyuge para el otro.
-
-XI.- Por la negativa injustificada de alguno de los cónyuges a cumplir con las obligaciones de proporcionar alimentos a sus acreedores, siendo necesario agotar previamente los procedimientos tendientes a su cumplimiento.
-
-XII.- Por haber cometido uno de los cónyuges un delito intencional o doloso, que no sea político y cuya pena impuesta exceda de dos años de prisión.
-
-XIII.- Por el hábito de juego cuando amenace causar la ruina de la familia; el hábito de embriaguez; las aberraciones sexuales de alguno de los cónyuges; y el uso indebido y persistente de drogas enervantes, de estupefacientes o de otras sustancias que alteren gravemente la conducta.
-
-XIV.- Por cometer un cónyuge, contra la persona o los bienes del otro, un acto que sería punible si se tratara de persona extraña, siempre que en la ley se sancione dicho acto con pena de prisión que sea mayor de un año.
-
-XV.- Por separación de los cónyuges por más de dos años, independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualquiera de ellos.
-
-XVI.- Por la acusación calumniosa hecha por un cónyuge contra el otro, de haber cometido un delito que merezca pena mayor de dos años de prisión.
-
-XVII.- La declaración de ausencia legalmente hecha, o la de presunción de muerte, en los casos de excepción en que no se necesita para que se haga ésta que proceda la declaración de ausencia.
-
-> <small>(ADICIONADA, D.O. 28 DE ENERO DE 2010)</small>
-
-XVIII.- Por violencia familiar cometida por uno de los cónyuges contra el otro o hacia las hijas e hijos de ambos o de alguno de ellos.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 195.
 
-Cuando un cónyuge haya pedido el divorcio o la nulidad de matrimonio por causa que no haya justificado o que no haya resultado suficiente, el demandado tiene, a su vez, el derecho de demandar el divorcio; pero no podrá hacerlo sino pasados tres meses de haber causado ejecutoria la sentencia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 196.
 
-El divorcio sólo puede ser demandado por el cónyuge que no haya dado causa a él, y dentro de los seis meses siguientes al día en que hayan llegado a su noticia los hechos en que se funde la demanda.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 197.
 
-Para que pueda pedirse el divorcio por causa de enajenación mental que se considere incurable de algunos de los cónyuges, es necesario que se declare previamente la interdicción del mismo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 198.
 
-Mientras se tramita el juicio de divorcio, los cónyuges podrán permanecer separados.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 199.
 
-Al admitirse la demanda de divorcio o al tenerse por contestada la misma, a criterio del juez, se dictarán provisionalmente las medidas siguientes:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos.
-
-II.- Dictar las disposiciones convenientes para que ningún cónyuge cause perjuicio al otro, en materia de bienes.
-
-III.- Dictar, en su caso, las medidas precautorias que la ley establece respecto a la mujer que esté encinta.
-
-> <small>(REFORMADA, D.O. 28 DE ENERO DE 2010)</small>
-
-IV.- Poner a las hijas e hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. A falta de acuerdo, el juez determinará lo que estime conveniente teniendo en cuenta su interés superior.
-
-V.- Fijar día y hora de visita del otro cónyuge para los hijos, señalando siempre que en ningún momento estas deben de interferir en los horarios de estudio del menor.
-
-> <small>(ADICIONADA, D.O. 28 DE ENERO DE 2010)</small>
-
-VI. En los casos en que el Juez lo considere pertinente, con el fin de salvaguardar la integridad y seguridad de los interesados, tomará las medidas siguientes:
-
-a) Ordenar la salida del cónyuge demandado del domicilio conyugal;
-
-b) En caso de que las partes interesadas se hayan visto obligadas a retirarse de su domicilio, ordenar su reintegración al mismo, así como la restitución de sus bienes personales que se encontraban en el mismo;
-
-c) Prohibición al cónyuge demandado de ir a lugar determinado, tal como el domicilio o el lugar donde trabajan o estudian los agraviados, e
-
-d) Informar a la autoridad competente sobre las medidas tomadas, a fin de que presten atención inmediata a las personas afectadas en caso de que lo soliciten.
-
-El padre y la madre, sin importar las consecuencias del divorcio, quedan sujetos a todas las obligaciones que tienen para con sus hijos e hijas.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 200.
 
-Antes de que se provea definitivamente sobre la patria potestad o tutela de los hijos, los tribunales podrán acordar, de oficio o a petición de los abuelos, tíos o hermanos mayores, cualquiera providencia que se considere benéfica a los menores.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 201.
 
-El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas las obligaciones que tienen para con sus hijos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 202.
 
-El cónyuge que diere causa al divorcio, perderá todo lo que le hubiere dado o prometido su consorte, u otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 203.
 
-En todo caso de divorcio, el juez dictará las medidas necesarias para asegurar la subsistencia de los hijos a quienes haya obligación de dar alimentos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 204.
 
-La sentencia de divorcio fijará la situación de los hijos, conforme a las reglas siguientes:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE ENERO DE 2010)</small>
-
-I.- Si el divorcio se fundase en alguna de las causas previstas en las fracciones III, IV, V, VI, VII, X, XII, XIII, XVII y XVIII del artículo 194 de este código, las hijas e hijos quedarán bajo el cuidado y la patria potestad del cónyuge que no haya dado causa al divorcio.
-
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
-
-A la muerte de éste, a petición de parte interesada se estará a lo dispuesto en la fracción siguiente.
-
-> <small>(REFORMADO, D.O. 28 DE ENERO DE 2010)</small>
-
-II.- En los demás casos, el juez gozará de las más amplias facultades para resolver todo lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación, según el caso, y en especial a la custodia y al cuidado de las hijas e hijos. De oficio o a petición de parte interesada durante el procedimiento, se allegará de los elementos necesarios para ello, debiendo escuchar a ambos progenitores y a los menores de dieciocho años de edad, para evitar y prevenir conductas de violencia familiar o cualquier otra circunstancia que amerite la necesidad de la medida, considerando el interés superior de estos últimos. En todo caso protegerá y hará respetar el derecho de convivencia con los padres, salvo que se acredite que existe peligro para las hijas o hijos.
-
-La protección para las hijas o hijos incluirá las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar
-
-Para el caso de las hijas o hijos mayores de dieciocho años de edad e incapaces, sujetos a la tutela de alguno de los ex cónyuges, en la sentencia de divorcio deberán establecerse las medidas a que se refiere este artículo para su protección.
-
-> <small>(REFORMADO, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 205.
 
-En los casos de divorcio necesario, el Juez, tomando en cuenta las circunstancias del caso y, entre ellas, la condición socioeconómica, el género, la etnia, la situación laboral, los ingresos y la capacidad para trabajar de los cónyuges, decidirá sobre el pago de alimentos que un cónyuge deberá dar al otro.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 206.
 
-Ejecutoriada la sentencia de divorcio el juez enviará copia de ella al oficial del registro civil ante quien se celebró el matrimonio, para que haga las anotaciones correspondientes, y se procederá desde luego a la división de los bienes, observándose las reglas relativas a sociedad convencional, sociedad legal o separación de bienes, según proceda de acuerdo con el régimen que los consortes hubiesen adoptado al celebrar su matrimonio.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 207.
 
-Los consortes divorciados tendrán en todo caso obligación de contribuir, en los términos del artículo 84 de este Código, a la subsistencia y educación de las hijas y los hijos hasta que lleguen a la mayor edad o aunque sean mayores de edad, siempre que estudien una carrera técnica o profesional y que vivan honestamente. En caso de que las hijas o hijos mayores de dieciocho años de edad tengan alguna discapacidad, subsistirá también la obligación respectiva, en los términos del artículo 325 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 208.
 
-Cuando tramitándose un juicio de divorcio sobreviniere la muerte de uno de los cónyuges, el juicio quedará sin efecto y los herederos del muerto tienen los mismos derechos y obligaciones que tendrían si no hubiera existido dicho juicio.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
 ### CAPITULO V. DE LAS DEFUNCIONES
 
@@ -1315,2209 +1377,2571 @@ En el caso de muerte a bordo de un buque nacional, el acta se formará de la man
 
 El jefe de cualquier cuerpo o destacamento militar, tiene obligación de participar al oficial del registro civil respectivo, los muertos que haya habido en campaña o en otro acto del servicio, especificándose la filiación. El oficial del registro civil observará en este caso lo dispuesto en el artículo 213 de este código.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO VI. DEL CONCUBINATO
 
-> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
-Artículo 215 A.- El concubinato es la unión de hecho entre un solo hombre y una sola mujer que estando en aptitud de contraer matrimonio entre sí, no lo han celebrado en los términos que la Ley señala y hacen vida en común de manera notoria y permanente, han procreado hijas o hijos o han vivido públicamente como marido y mujer durante dos años continuos o más.
+Artículo 215 A.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
-Artículo 215 B.- En lo referente a los derechos y obligaciones de los concubinarios, es aplicable lo relativo al matrimonio.
+Artículo 215 B.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-Los bienes adquiridos durante el concubinato, se regirán por las reglas relativas a la separación de bienes.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 28 DE ENERO DE 2010)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ## TITULO TERCERO. DE LOS ALIMENTOS, DEL PARENTESCO Y DE LA VIOLENCIA FAMILIAR
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
+
 ### CAPITULO I. DEL PARENTESCO
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 216.
 
-La ley no reconoce más parentesco que los de consanguinidad, afinidad y civil.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 217.
 
-El parentesco de consanguinidad es el que existe entre personas que descienden de un mismo progenitor.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 218.
 
-El parentesco de afinidad es el que se contrae por el matrimonio, entre el varón y los parientes de la mujer, y entre la mujer y los parientes del varón.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 219.
 
-El parentesco civil es el que nace de la adopción. En la adopción simple el parentesco sólo existe entre el adoptante y el adoptado. En el caso de la adopción plena, el parentesco existe entre el adoptante, el adoptado y los familiares consanguíneos de éste.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 220.
 
-Cada generación forma un grado, y la serie de grados lo constituye lo que se llama línea de parentesco.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 221.
 
-La línea recta o colateral: la recta se compone de la serie de grados entre personas que descienden unas de otras; la transversal se compone de la serie de grados entre personas que sin descender unas de otras, proceden de un progenitor o tronco común.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 222.
 
-La línea recta es ascendente o descendente; ascendente es la que liga a una persona con su progenitor o tronco de que procede; descendente es la que liga al progenitor con los que de él proceden.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-La misma línea es, pues, ascendente o descendente, según el punto de partida y la relación a que se atiende.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 223.
 
-En la línea recta los grados se cuentan por el número de generaciones, o por el de las personas, excluyendo al progenitor.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 224.
 
-En la línea colateral los grados se cuentan por el número de generaciones, subiendo por una de las líneas y descendiendo por la otra; o por el número de personas que hay de uno a otro de los extremos que se consideran, excluyendo la del progenitor o tronco común.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO II. DE LOS ALIMENTOS
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 225.
 
-La obligación de dar alimentos es recíproca. El que los da tiene a su vez el derecho de pedirlos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 226.
 
-Los cónyuges deben darse alimentos. La ley determinará cuando queda subsistente esta obligación en los casos de divorcio y otros que la misma ley señale. Los concubinos están obligados en igual forma a darse alimentos, si se satisfacen los requisitos señalados en el artículo 2507 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 227.
 
-Los padres están obligados a dar alimentos a sus hijos. A falta o por imposibilidad de los padres, la obligación recae en los demás ascendientes por ambas líneas que estuvieren más próximos en grado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 228.
 
-Los hijos están obligados a dar alimentos a sus padres. A falta o por imposibilidad de los hijos, lo están los descendientes más próximos en grado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 229.
 
-A falta o por imposibilidad de los ascendientes o descendientes, la obligación recae en los hermanos de padre y madre; en defecto de éstos, en los que fueran de padre o madre solamente.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 230.
 
-Los hermanos a que se refiere el artículo anterior, tienen obligación de dar alimentos a los menores, mientras éstos llegan a la edad de dieciocho años. También deben dar alimentos a sus hermanos incapaces.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 231.
 
-Tratándose de adopción simple, el adoptante y el adoptado tienen obligación de darse alimentos en los casos en que la tienen el padre y los hijos. En la adopción plena, se aplicará lo dispuesto por los artículos 227, 228, 229 y 230 de este Código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 232.
 
-Los alimentos comprenden:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- La comida, el vestido, la habitación, la atención médica, la hospitalaria y en su caso, los gastos de embarazo y parto, así como también las atenciones a las necesidades psíquica, afectiva y de sano esparcimiento y en su caso, los gastos de funerales;
-
-II.- Respecto de niñas, niños y adolescentes los alimentos comprenden además los gastos necesarios para la educación preescolar, primaria y secundaria del acreedor o la acreedora alimentista, y para proporcionarles algún oficio, arte o profesión honestos y adecuados a sus circunstancias personales;
-
-III.- Con relación a las personas con algún tipo de discapacidad o declaradas en estado de interdicción, los alimentos comprenden todo lo necesario para lograr, en lo posible, su habilitación o rehabilitación y su desarrollo, y
-
-IV.- Por lo que hace a los adultos mayores que carezcan de capacidad económica, los gastos necesarios para su atención geriátrica.
-
-Los acreedores y acreedoras alimentarios tendrán derecho preferente sobre los ingresos y bienes de quien tenga dicha obligación, respecto de otra calidad de acreedores.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 233.
 
-El obligado a dar alimentos cumple la obligación asignando una pensión suficiente al acreedor alimentista, o incorporándolo a su familia. Si el acreedor se opone a ser incorporado, compete al juez, según las circunstancias, fijar la manera de ministrar los alimentos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 234.
 
-El deudor alimentista no podrá pedir que se incorpore a su familia al que debe recibir los alimentos, cuando se trate de un excónyuge que recibe alimentos del otro, y cuando haya inconveniente legal para hacer esa incorporación.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 235.
 
-Los alimentos han de ser proporcionados en la posibilidad del que debe darlos y a la necesidad del que debe recibirlos. Una vez fijado el monto de la pensión alimenticia en las diligencias, juicio de divorcio o bases del convenio para el divorcio voluntario, respectivos y sin perjuicio de lo dispuesto en el artículo 857 del código de procedimientos civiles del Estado, la pensión será aumentada cada vez que se incremente el salario mínimo general en la zona económica en que está ubicado el domicilio del deudor o la deudora alimentarios, en el mismo porcentaje en que hubiere sido incrementado el salario mínimo general, salvo que el deudor o la deudora demuestren que sus ingresos no aumentaron en igual proporción. En este caso, el incremento de la pensión se ajustará al que realmente hubiese obtenido el deudor o la deudora.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-El deudor o la deudora alimentarios deberán informar al juez y al acreedor o la acreedora alimentistas, dentro de los diez días siguientes a cualquier cambio de empleo, el nombre, denominación o razón social de su nuevo trabajo, la ubicación de éste y el puesto o cargo que desempeñen, a efecto de que continúen cumpliendo con la pensión alimenticia decretada para no incurrir en ninguna responsabilidad.
-
-Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 236.
 
-Si fuesen varios los que deben dar los alimentos, el juez repartirá el importe entre ellos, en proporción a sus posibilidades económicas.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 237.
 
-Si sólo algunos tuviesen posibilidad, entre ellos se repartirá el importe de los alimentos; y si uno solo la tuviese, únicamente él cumplirá la obligación.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 238.
 
-Tienen acción para pedir el aseguramiento de los alimentos:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- El acreedor alimentista.
-
-> <small>(REFORMADA, D.O. 28 DE ENERO DE 2010)</small>
-
-II.- El que ejerza la patria potestad o el que tenga la guarda y custodia de él, ó descendiente obligado.
-
-III.- El tutor.
-
-IV.- Los hermanos.
-
-V.- El ministerio público.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 239.
 
-Si las personas a que se refieren las fracciones II, III y IV del artículo anterior, no pueden representar al acreedor alimentario en el juicio en que se pida el aseguramiento de alimentos, se nombrará por el juez un tutor interino.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 240.
 
-El tutor interino dará garantía por el importe anual de los alimentos. Si administrare algún fondo destinado a ese objeto, por él dará la garantía legal.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 241.
 
-El aseguramiento podrá consistir en hipoteca, prenda, fianza o depósito de cantidad bastante a cubrir los alimentos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 242.
 
-En los casos en que los que ejerzan la patria potestad gocen de la mitad del usufructo de los bienes del menor, el importe de los alimentos se deducirá de dicha mitad; si ésta no alcanza a cubrirlos, los alimentos se tomarán de la otra mitad perteneciente al menor; y si ésta tampoco bastare, el exceso será de cuenta de los que ejerzan la patria potestad.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 243.
 
-Cesa la obligación de dar alimentos:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Cuando el que la tiene carece de medios para cumplirla.
-
-II.- Cuando el acreedor alimentista deja de necesitar los alimentos.
-
-III.- En caso de injuria, falta o daños graves inferidos por el acreedor alimentista contra el que debe prestarlos.
-
-IV.- Cuando la necesidad de los alimentos dependa de la conducta viciosa o de la falta de aplicación al trabajo del acreedor alimentista, mientras subsistan estas causas.
-
-V.- Si el acreedor alimentista, sin consentimiento del que debe dar los alimentos, abandona la casa de éste por causas injustificables.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 244.
 
-El derecho de recibir alimentos no puede ser objeto de transacción y es irrenunciable e intransmisible, pero sí pueden ser objeto de las operaciones indicadas, las pensiones caídas.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 245.
 
-Cuando el deudor alimentario no estuviere presente o estándolo rehusare entregar lo necesario para los alimentos de los miembros de la familia con derecho a recibirlos, será responsable de la deuda que éstos contraigan para cubrir esa exigencia, pero sólo en la cuantía estrictamente necesaria para ese objeto y siempre que no se trate de gastos de lujo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 246.
 
-El cónyuge que, sin culpa suya, se vea obligado a vivir separado del otro, podrá pedir al juez de primera instancia del lugar de su residencia, que obligue a su esposo a darle alimentos durante la separación y a que le suministre todos los que haya dejado de darle desde que lo abandonó. El juez, según las circunstancias del caso, fijará la suma que el cónyuge responsable debe suministrar mensualmente dictando las medidas necesarias para que dicha cantidad sea debidamente asegurada y para que pague los gastos que el otro cónyuge haya tenido que erogar con tal motivo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 247.
 
-Lo dispuesto en los dos artículos anteriores es aplicable a la mujer, cuando tenga obligación de dar alimentos y el marido se halle en las condiciones apuntadas.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO III. DE LA VIOLENCIA FAMILIAR
 
-> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
-Artículo 247 A.- Los integrantes de la familia tienen derecho a desarrollarse en un ambiente de respeto a su integridad física, psicoemocional, económica, sexual y tienen la obligación de evitar conductas que generen violencia familiar.
+Artículo 247 A.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-A tal efecto, contarán con la asistencia y protección de las instituciones públicas y privadas, de acuerdo a las leyes para combatir y prevenir conductas de violencia familiar.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
-> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2010)</small>
+Artículo 247 B.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-Artículo 247 B.- Por violencia familiar se considera el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, psicológica, patrimonial, económica o sexual, ejercida en contra de un miembro de la familia por otro integrante de la misma, dentro o fuera del domicilio familiar.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
-No se justifica en ningún caso como forma de educación o formación el ejercicio de la violencia hacia niñas, niños o adolescentes.
+Artículo 247 C.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
-Artículo 247 C.- También se considera violencia familiar la conducta descrita en el artículo anterior llevada a cabo contra la persona que esté sujeta a su custodia, guarda, protección, educación, instrucción o cuidado, siempre y cuando el agresor y el ofendido se encuentren conviviendo.
+Artículo 247 D.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
-Artículo 247 D.- Los integrantes de la familia que incurran en violencia familiar, deberán reparar los daños y perjuicios que se ocasionen con dicha conducta, con autonomía de otro tipo de sanciones que éste y otros ordenamientos legales establezcan.
-
-En todas las controversias derivadas de violencia familiar, el Juez dictará las medidas a que se refiere éste Código y en los demás ordenamientos legales en la materia.
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ## TITULO CUARTO. DE LA PATERNIDAD Y FILIACION
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
+
 ### CAPITULO I. DE LOS HIJOS NACIDOS DE MATRIMONIO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 248.
 
-Con las excepciones previstas en el artículo 255, se presumen de los cónyuges:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Los hijos nacidos después de ciento ochenta días contados desde la celebración del matrimonio.
-
-II.- Los hijos nacidos dentro de los trescientos días siguientes a la terminación de matrimonio. Este término se contará desde que, de hecho, quedaron separados los cónyuges.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 249.
 
-El marido podrá desconocer al hijo nacido después de trescientos días contados desde que de hecho dejó de tener acceso carnal con su mujer; pero la mujer, el hijo o el tutor de éste, pueden sostener en tales casos que el marido es el padre.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 250.
 
-El marido no podrá desconocer que es padre del hijo nacido dentro de los ciento ochenta días siguientes a la celebración del matrimonio:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Si se probare que supo antes de casarse el embarazo de su futura consorte.
-
-II.- Si concurrió al levantamiento del acta de nacimiento y ésta fue firmada por él, o contiene su declaración de no saber firmar.
-
-III.- Si ha reconocido expresamente por suyo al hijo de su mujer.
-
-IV.- Si el hijo no nació capaz de vivir.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 251.
 
-Para los efectos legales sólo se reputa nacido el feto que, desprendido enteramente del seno materno, nace configura (sic) humana y que, o vive veinticuatro horas naturales cuando menos, o dentro de este término es presentado vivo al registro civil. Faltando alguna de estas circunstancias, nunca ni nadie podrá ejercitar derecho alguno sobre la paternidad.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 252.
 
-En todos los casos en que el marido tenga derecho de desconocer al hijo de su mujer como hijo suyo, deberá deducir su acción dentro de sesenta días contados desde el del nacimiento, si estaba presente, o desde el día en que llegó al lugar, si estaba ausente, o desde el día en que descubrió el fraude, si se le ocultó el nacimiento.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 253.
 
-Si el marido está en tutela, este derecho puede ser ejercido por su tutor, si éste no lo ejerciere, podrá hacerlo el marido, después de haber salido de la tutela, pero siempre en el plazo mencionado en el artículo inmediato anterior, que se contará desde el día en que legítimamente se declare haber cesado la tutela.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 254.
 
-El derecho establecido por el artículo anterior sólo pasa a los herederos del marido, cuando éste muere sin recuperar la razón, teniendo o no tutor, o cuando la acción hubiese sido intentada ya por el marido.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 255.
 
-Si la viuda, divorciada, o aquella cuyo matrimonio fuese declarado nulo, contrajere nuevas nupcias dentro de los trescientos días después de la interrupción de la cohabitación o de la terminación del matrimonio anterior, la filiación de la hija o hijo que naciere después de celebrado el nuevo matrimonio se establecerá conforme a las reglas siguientes:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Se presume que es del anterior marido, si nace dentro de los trescientos días siguientes a la interrupción de la cohabitación o a la disolución del anterior matrimonio y antes de ciento ochenta días desde la celebración del nuevo matrimonio;
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
-II.- Se presume que es del nuevo marido, si nace después de ciento ochenta días de la celebración del nuevo matrimonio, aunque el nacimiento tenga lugar dentro de los trescientos días posteriores a la interrupción de la cohabitación o a la disolución del anterior matrimonio;
+Artículo 255 A.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-III.- El que negare las presunciones establecidas en las dos fracciones que preceden, deberá probar plenamente la imposibilidad física o circunstancial de que sea del marido a quien se atribuye.
-
-IV.- Se Deroga, y (sic)
-
-V.- Se Deroga. (sic)
-
-> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2010)</small>
-
-Artículo 255 A.- Si el hijo nace después de los trescientos días de la disolución del anterior matrimonio y antes de ciento ochenta días desde la celebración del nuevo, se aplicará lo dispuesto en el artículo 250 de este Código.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 256.
 
-El desconocimiento de un hijo de parte del marido o de sus herederos, se hará por demanda en forma ante el juez competente. Todo desconocimiento practicado de otra manera es nulo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 257.
 
-El desconocimiento de un hijo o una hija de parte del marido o de sus herederos, se hará por demanda en forma ante el juez competente.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-Todo desconocimiento practicado de otra manera es nulo. La sola declaración de la madre no será suficiente para tenerlo por demostrado.
-
-La pericial biológica deberá ser decretada de oficio por el juez, a cargo del promovente de la demanda y en beneficio de la persona cuya paternidad se impugne cuando ésta sea menor de dieciocho años de edad, en los casos en que no hubiere sido solicitada por las partes.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 258.
 
-No puede haber sobre la filiación, ni transacción ni compromiso en árbitros. Esta prohibición no quita a los padres la facultad de reconocer a sus hijos, ni a los hijos mayores la de consentir en el reconocimiento. Puede haber transacción o arbitramento sobre los derechos pecuniarios que de la filiación legalmente declarada pudieren deducirse, sin que las concesiones que se hagan al que se dice hijo, importen la adquisición de estado de hijo nacido en matrimonio.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO II. DE LAS PRUEBAS DE FILIACION
 
 DE LOS HIJOS NACIDOS DE MATRIMONIO
 
-> <small>(REFORMADO, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 259.
 
-La maternidad podrá ser impugnada por no ser la mujer la madre del descendiente que pasa por suyo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-Esta acción puede ser entablada en todo tiempo por el marido o sus herederos legítimos, por el hijo o la hija y por todo tercero que invoque interés legítimo. La mujer registrada como madre puede ejercer la acción cuando alegue suposición del parto o sustitución del nacido siempre que sea ajena a los hechos.
-
-> <small>(REFORMADO, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 260.
 
-No puede haber sobre la filiación, ni transacción, ni compromiso en árbitros, pero sí sobre los derechos pecuniarios que de la filiación legalmente adquirida se pudieran deducir.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 261.
 
-La filiación de hijos o hijas nacidos de matrimonio se prueba por la partida de nacimiento de aquellos; pero si se cuestiona la validez del matrimonio de los padres, deberá presentarse el acta de matrimonio.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 262.
 
-Estando conforme el acta de nacimiento con la posesión actual de estado del hijo, no se admite acción en contra.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 263.
 
-Si el acta de nacimiento fuere defectuosa, podrá acreditarse la filiación por los medios ordinarios de prueba que el derecho establece; pero la testimonial no es admisible si no hubiese un principio de prueba escrita o indicios o presunciones resultantes de hechos ciertos que se consideren bastante graves para determinar su admisión.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 264.
 
-Las acciones civiles que se intenten contra el hijo por los bienes que haya adquirido durante su estado de hijo nacido de matrimonio, aunque después resulte no serlo, se sujetarán a las reglas comunes para la prescripción.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 265.
 
-La acción que compete al hijo para reclamar su estado, es imprescriptible para él y sus descendientes.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 266.
 
-Los demás herederos del hijo podrán intentar la acción de que trata el artículo anterior:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Si el hijo ha muerto antes de cumplir veinticinco años.
-
-II.- Si el hijo fue declarado en estado de interdicción antes de cumplir los veinticinco años y murió después en el mismo estado.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 267.
 
-Los herederos podrán continuar la acción intentada por el hijo, a no ser que éste se hubiere desistido formalmente de ella, o nada hubiere promovido judicialmente durante un año contado desde la última diligencia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-También podrán contestar toda demanda que tenga por objeto disputarle la condición de hijo nacido de matrimonio.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 268.
 
-Los acreedores, legatarios y donatarios tendrán los mismos derechos que a los herederos conceden los artículos 266 y 267 de este código, si el hijo no dejó bienes suficientes para pagarles.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 269.
 
-Las acciones de que hablan los tres artículos que preceden, prescriben a los cuatro años, contados desde el fallecimiento del hijo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 270.
 
-La posesión de hijo nacido de matrimonio no puede perderse sino por sentencia judicial, la cual admitirá los recursos que dan las leyes, en los juicios de mayor interés.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO III. DE LOS HIJOS NACIDOS FUERA DE MATRIMONIO
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 271.
 
-Los hijos nacidos fuera de matrimonio llevarán los apellidos de quienes los presenten en el registro civil como hijos suyos. Cuando sólo uno de los progenitores los presenten, llevarán sus apellidos o apellido cuando sólo tenga uno.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 272.
 
-El matrimonio subsecuente de los padres produce el efecto de que los hijos nacidos fuera de él, adquieran los derechos que establece el capítulo I de este título, aunque el matrimonio fuere declarado nulo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 273.
 
-Para que el hijo goce del derecho que le concede el artículo que precede, los padres deben reconocerlo expresamente antes de la celebración del matrimonio, en el acto mismo de celebrarlo o durante él, haciendo en todo caso el reconocimiento ambos padres, conjunta o separadamente.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 274.
 
-Todos los hijos tienen iguales derechos ya sean nacidos en matrimonio, ya fuera de él. Todos tienen iguales obligaciones para con sus padres.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 275.
 
-Los padres tienen para con los hijos nacidos fuera de matrimonio los mismos derechos y obligaciones que para con los nacidos en matrimonio.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 276.
 
-Los padres, al contraer matrimonio, pueden declarar como hijos nacidos en él a los que hayan tenido antes, aunque hubiesen fallecido, si hubieren dejado descendientes.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 277.
 
-Al contraer matrimonio pueden declarar los cónyuges que es hijo de ambos el hijo de que la mujer estuviere o pudiere estar encinta.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 278.
 
-La filiación de los hijos nacidos fuera de matrimonio se prueba por el reconocimiento voluntario o por una sentencia que declare la paternidad o maternidad.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 279.
 
-Pueden reconocer a sus hijos, los que tengan la edad exigida para contraer matrimonio, más la edad del hijo que va a ser reconocido. Los que no tengan dicha edad podrán reconocer a sus hijos si acreditan en forma indubitable la filiación.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 280.
 
-El reconocimiento hecho por un menor de dieciocho años es revocable si prueba que sufrió engaño al hacerlo, pudiendo intentar la revocación hasta seis meses después de la mayor edad.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 281.
 
-El reconocimiento no es revocable por el que lo hizo, salvo el caso del artículo inmediato anterior; y si se ha hecho en testamento, aunque éste se revoque no se tiene por revocado el reconocimiento.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 282.
 
-El reconocimiento de un hijo nacido fuera de matrimonio podrá hacerse de alguno de los modos siguientes:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- En la partida de nacimiento, ante el oficial del registro civil.
-
-II.- Por acta especial ante el mismo oficial.
-
-III.- Por escritura pública.
-
-IV.- Por testamento.
-
-V.- Por confesión judicial directa y expresa.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 283.
 
-El marido podrá reconocer a un hijo habido antes de su matrimonio o durante éste, pero no tendrá derecho de llevarlo a vivir a la casa conyugal, sin el consentimiento expreso de la esposa.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 284.
 
-La mujer casada podrá reconocer a un hijo habido antes de su matrimonio, pero no tendrá derecho de llevarlo a la casa conyugal, sin el consentimiento expreso de su marido.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 285.
 
-La hija o hijo de una mujer casada podrá ser reconocido por otro hombre distinto al marido, en cualquiera de los casos siguientes:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Cuando el marido lo haya desconocido y por resolución judicial se haya declarado que no es hijo suyo;
-
-II.- Cuando la cónyuge pruebe que no cohabitaba con el cónyuge, durante el periodo de la concepción;
-
-La Procuraduría de la Defensa del Menor y la Familia, realizará las investigaciones de trabajo social, dándole vista al Ministerio Público a fin de determinar la no cohabitación de los cónyuges durante el periodo de la concepción, y en su caso ordenará al Registro Civil la inscripción respectiva.
-
-III.- Cuando la mujer en cualquier tiempo, probare mediante prueba científica indubitable que la paternidad de su hija o hijo recae en hombre distinto al cónyuge.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 286.
 
-El padre o la madre que no hubiese reconocido a su hijo en el acta de nacimiento, sólo podrá hacerlo posteriormente con el consentimiento del que va a ser reconocido, si éste fuere mayor de edad.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 287.
 
-Si el hijo a quien se pretende reconocer, en los términos del artículo inmediato anterior, estuviere bajo la patria potestad de alguno de sus ascendientes, se requerirá el consentimiento de éste para llevar a cabo el reconocimiento. Si no hubiere ascendiente que ejerza la patria potestad, se observarán las reglas siguientes:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Si el hijo es menor de edad, pero mayor de catorce años, se requerirá que el menor y el tutor que lo represente, den su consentimiento para el acto.
-
-II.- Si fuere menor de catorce años, bastará el consentimiento del tutor.
-
-Si no hubiere tutor nombrado, se ocurrirá al juez a fin de que designe un tutor especial para el caso.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 288.
 
-Si el tutor negare su consentimiento para que el menor sea reconocido, el juez competente calificará las razones en que se fundó el disenso y confirmará o revocará la decisión del tutor.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 289.
 
-Puede reconocerse al hijo que no ha nacido, fijándose en todo caso las circunstancias necesarias para su identificación.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 290.
 
-Puede reconocerse al hijo que ha muerto, si dejó descendientes, con el consentimiento de éstos, otorgado en la forma prevista en los artículos 286 y 287 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 291.
 
-Cuando el padre o la madre reconozcan separadamente a un hijo, no podrán revelar en el acta de nacimiento el nombre de la persona con quien fue habido, excepto en el caso de que el hijo hubiese sido procreado como consecuencia de los delitos de estupro, violación o rapto debidamente comprobados, en que la ofendida tiene derecho a pedir que se inscriba en el acta de nacimiento el nombre del progenitor.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 292.
 
-El reconocimiento de hijos a que se refieren los artículos anteriores, deberá ser hecho por acta levantada ante el oficial del registro civil.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 293.
 
-Si el reconocimiento se hiciere por escritura pública, en testamento o por confesión judicial directa y expresa, el notario ante quien se verifique el otorgamiento, o las autoridades judiciales, en su caso, remitirán el documento en que conste el acto al oficial del registro civil que corresponda, para que éste proceda a levantar el acta relativa. Si se trata de testamento, el juez o el notario ante quien se tramite la testamentaría, una vez declarada o reconocida la validez del testamento remitirá al oficial del registro civil el reconocimiento.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 294.
 
-La omisión del acta a que se refiere el artículo inmediato anterior no quita sus efectos legales al reconocimiento, pero para su validez en juicio, se cumplirá con lo dispuesto en el artículo 33 de este código. Se impondrá a los responsables de la omisión una multa hasta de cinco veces el salario mínimo general diario, que aplicará y hará efectiva la autoridad ante quien se haga valer el reconocimiento.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 295.
 
-No es requisito indispensable el nombramiento de tutor a que se refiere el artículo 287 de este código, si el que reconoce estuviere en artículo de muerte; pero si recuperase la salud, estará obligado a revalidar el reconocimiento conforme a las reglas generales. En este caso, el reconocido podrá repudiar el reconocimiento.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 296.
 
-Si el hijo reconocido es menor, puede reclamar contra el reconocimiento cuando llegue a la mayor edad. El término para deducir esta acción será de dos años, que se contarán desde que el hijo cumpla la mayor edad, si antes de cumplirla tuvo noticia del reconocimiento, y si no la tenía, desde la fecha en que la adquirió.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 297.
 
-La persona que cuida o ha cuidado de la alimentación de un niño, a quien le ha dado su apellido o permitido que lo lleve, que públicamente lo ha presentado como hijo suyo y ha proveído a su educación y subsistencia, podrá contradecir el reconocimiento que otra persona haya hecho o pretenda hacer de ese niño. En este caso no se le podrá separar de su lado, a menos que consienta en entregarlo o que fuere obligada a hacer la entrega por sentencia ejecutoriada. El término para contradecir el reconocimiento será el de dos años, contados desde que tuvo conocimiento de él.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 298.
 
-Si la madre contradice el reconocimiento que un hombre haya hecho o pretenda hacer de un hijo que ella reconoce como suyo, bastará su sola contradicción para invalidar aquel reconocimiento, siempre que el hijo estuviere conforme. En este caso, no conservará el hijo ninguno de los derechos que le haya dado el referido reconocimiento.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 299.
 
-Cuando el padre y la madre que no vivan juntos reconozcan al hijo en el mismo acto, convendrán cuál de los dos ejercerá sobre él la patria potestad; y en caso de que no lo hicieren, el juez oyendo a los padres y al ministerio público, resolverá lo que creyere más conveniente a los intereses del menor.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 300.
 
-En caso de que el reconocimiento se efectúe sucesivamente por los padres, cuando no vivan juntos, ejercerá la patria potestad el que primero hubiese reconocido, salvo que se conviniere otra cosa entre los padres, y siempre que el juez no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y del ministerio público.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 301.
 
-El hijo tiene derecho cuando es nacido fuera de matrimonio, a intentar judicialmente que lo reconozcan como tal cualquiera de sus progenitores, sujetándose a lo que previene este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 302.
 
-Si se tratare de investigar la maternidad para obtener el reconocimiento de la madre, únicamente el hijo podrá hacerlo, siempre que tenga a su favor la posesión de estado de hijo de aquélla.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 303.
 
-Si se tratare de investigar la paternidad, solamente podrá intentarse la acción cuando exista cualquiera de las circunstancias siguientes:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- En los casos de rapto, estupro o violación, cuando la época del delito coincide con la de la concepción.
-
-II.- Cuando el hijo se encuentra en posesión de estado de hijo del presunto padre.
-
-III.- Cuando el hijo haya sido concebido durante el tiempo en que la madre habitaba bajo el mismo techo con el pretendido padre, viviendo maritalmente.
-
-IV.- Cuando el hijo tenga un principio de prueba en favor de la paternidad.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 304.
 
-Se presumen hijos del concubinario y de la concubina:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Los nacidos después de ciento ochenta días contados desde que comenzó el concubinato.
-
-II.- Los nacidos dentro de los trescientos días siguientes al en que cesó la vida común entre el concubinario y la concubina.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 305.
 
-La posesión de estado para los efectos de los artículos anteriores se justificará demostrando por los medios ordinarios de prueba, que el hijo ha sido tratado por el presunto padre o la presunta madre, o por la familia de éstos, como hijo de aquéllos, y que los mismos han proveído a su subsistencia, educación y establecimiento.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 306.
 
-El hecho de dar alimentos no constituye por sí solo prueba ni aún presunción de paternidad o maternidad, ni puede alegarse como razón para investigar éstas.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 307.
 
-Las acciones para la investigación de la paternidad o de la maternidad no pueden ser intentadas más que por el hijo si fuere mayor de edad. Si fuere menor edad, sólo podrá intentarlas un tutor especial que el juez le nombre.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 308.
 
-Las acciones a que se refiere el artículo inmediato anterior, pueden entenderse aún después del fallecimiento del padre o de la madre, y prescriben en dos años contados desde que el hijo llegó a la mayoría de edad.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO IV. DE LA ADOPCIÓN
 
-> <small>(ADICIONADA, D.O. 13 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 309.
 
-La adopción es un acto jurídico que se establece por resolución judicial. Tiene por objeto, entre otros, la protección de la persona de la niña, niño y adolescente o del interdictado, mediante su integración a una familia, y por virtud del mismo, se crea entre la persona adoptante y la adoptada la misma filiación legítima que existe entre padres, madres, hijas e hijos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, D.O. 16 DE MAYO DE 2005)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
-Artículo 309 A.- La adopción será Plena preferentemente, no obstante, atendiendo al interés superior de la persona que se pretende adoptar y buscando la idoneidad de los adoptantes, el Juez podrá establecer la adopción Simple, cuando se le proporcionen los elemento (sic) suficientes para ello.
+Artículo 309 A.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-La adopción Simple podrá ser Plena, cuando se acredite que ha desaparecido la causa que la motivó.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
-> <small>(REFORMADO, D.O. 28 DE ENERO DE 2010)</small>
+Artículo 309 B.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-Artículo 309 B.- La persona mayor de veinticinco años en pleno ejercicio de sus derechos puede adoptar a una o más niñas, niños adolescentes o interdictados aún cuando éstos sean mayores de dieciocho años de edad, siempre que acredite, que cumple con los requisitos establecidos en el artículo 316-A de este Código.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
-> <small>(REFORMADO, D.O. 16 DE MAYO DE 2005)</small>
+Artículo 309 C.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-Artículo 309 C.- Un cónyuge puede adoptar a los hijos del otro con la autorización de quien o quienes ejerzan la patria potestad.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
-> <small>(ADICIONADO, D.O. 16 DE MAYO DE 2005)</small>
+Artículo 309 D.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-Artículo 309 D.- Los hijos adoptivos de un mismo adoptante, serán considerados hermanos entre sí.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
-> <small>(REFORMADO, D.O. 28 DE ENERO DE 2010)</small>
+Artículo 309 E.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-Artículo 309 E.- La Procuraduría de la Defensa del Menor y la Familia, a petición de los interesados en adoptar, podrá solicitar al Juez durante el trámite de adopción, el cambio de nombre propio de la niña o niño que se pretendan adoptar, siempre que éstos no hayan cumplido un año de edad. Cuando sean mayores de dicha edad solo podrá solicitarse que se añada un nombre al que originalmente tengan.
-
-> <small>(REFORMADO, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 310.
 
-Los cónyuges, pueden adoptar a una o más niñas, niños, adolescentes o interdictados, siempre que ambos cónyuges estén conformes en la adopción, aunque sólo uno de ellos cumpla con el requisito de la edad a que se refiere el artículo 309-B de este Código. En este caso, la diferencia de edad entre los adoptantes y el adoptado, será de cuando menos de veinte años.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 311.
 
-Nadie puede ser adoptado por más de una persona, salvo el caso previsto en el artículo anterior.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 312.
 
-El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de la tutela.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, D.O. 16 DE MAYO DE 2005)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 313.
 
-El que adopta tendrá respecto de la persona y bienes del adoptado, los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, D.O. 16 DE MAYO DE 2005)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 314.
 
-El adoptado tendrá para con la persona que lo adopte, los mismos derechos y obligaciones que tiene un hijo respecto de su padre.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, D.O. 16 DE MAYO DE 2005)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 315.
 
-Para que la adopción pueda concederse, deberán ratificar su consentimiento, ante el Juez competente:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- La persona o personas que ejercen la patria potestad sobre el menor que se trata de adoptar;
-
-II.- El tutor del que se va a adoptar;
-
-III.- Las personas que hayan acogido al que se pretende adoptar y lo traten como a un hijo, cuando no hubiera quien ejerza la patria potestad sobre él, ni tenga tutor;
-
-IV.- El Ministerio Público adscrito al domicilio del que se pretenda adoptar, cuando éste no cuente con registro de nacimiento, o en éste aparezca como expósito, ni tenga tutor o persona que ostensiblemente procure su cuidado como a un hijo;
-
-V.- El menor de edad cuando tenga más de doce años;
-
-VI.- El que se pretenda adoptar menor de doce años, cuando por su capacidad y madurez, a juicio de la Procuraduría de la Defensa del Menor y la Familia, pudiere dar su opinión;
-
-Cuando cualquiera de ellos manifieste su negativa, deberá expresar la causa en que se funde, a fin de que pueda ser analizada por el Juez, previa vista que se le de a la Procuraduría de la Defensa del Menor y la Familia, a fin de que emita su opinión.
-
-En caso de que alguno de los sujetos mencionados en las fracciones anteriores, habiendo sido personalmente notificado de la diligencia, no se presentare ante el juez dentro del término de cinco días hábiles que al efecto se concedan, se entenderá como otorgado su consentimiento para realizar la adopción.
-
-> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 316.
 
-La adopción producirá sus efectos aunque sobrevengan hijos al adoptante.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, D.O. 16 DE MAYO DE 2005)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
-Artículo 316 A.- Para que la adopción pueda determinarse, se requiere sea benéfica y atienda al interés superior del adoptado. Los adoptantes deberán acreditar los siguientes requisitos:
+Artículo 316 A.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Tener medios bastantes para proveer debidamente la subsistencia, educación y cuidado de la persona que se pretenda adoptar;
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
-II.- Su aptitud e idoneidad para desempeñar las funciones paternas;
+Artículo 316 B.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-III.- Tener veinte años más que el menor o interdictado por adoptar;
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
-IV.- Estar casados entre sí o vivir en concubinato, y que dichas relaciones hayan tenido una duración mínima de cinco años ininterrumpidos y bien avenidos, según criterio del juzgador;
+Artículo 316 C.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(REFORMADA, D.O. 24 DE JULIO DE 2009)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
-V.- Ser mayor de veinticinco años y estar en pleno ejercicio de sus derechos;
+Artículo 316 D.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-VI.- Ser de buenas costumbres.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
-La Procuraduría de la Defensa del Menor y la Familia, vigilará y dictaminará sobre el cumplimiento de los requisitos establecidos en este Artículo, de conformidad con lo establecido en el Libro Tercero, Título Único, Capítulo VIII del Código de Procedimientos Civiles de Yucatán. El Juez deberá evaluar el referido dictamen, antes de emitir su resolución sobre la procedencia y forma de adopción, previa vista al Ministerio Público.
+Artículo 316 E.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
-El Ejecutivo del Estado, podrá dispensar los requisitos señalados en las fracciones III y IV del presente artículo, a juicio de la Procuraduría de la Defensa del Menor y la Familia, cuando sea en beneficio de los menores de edad, y si se tratare del tutor hasta después de que hayan sido definitivamente aprobadas las cuentas de la tutela.
-
-> <small>(REFORMADO, D.O. 16 DE MAYO DE 2005)</small>
-
-Artículo 316 B.- Podrán ser adoptados, los menores de edad e interdictados que se encuentren en situación de desamparo; entendiéndose por esta, la que se produce por el incumplimiento de los deberes de asistencia familiar, conforme al Título Tercero del Libro Primero de este Código.
-
-> <small>(REFORMADO, D.O. 28 DE ENERO DE 2010)</small>
-
-Igualmente podrán ser adoptadas las personas antes referidas, cuando quien o quienes ejerzan la patria potestad o tutela sobre ellos, declaren ante la Procuraduría de la Defensa del Menor y la Familia, la voluntad de que aquellas personas sean adoptadas, informándolos de sus consecuencias y siempre que dicho órgano dictamine favorablemente la solicitud de adopción.
-
-> <small>(REFORMADO, D.O. 16 DE MAYO DE 2005)</small>
-
-Artículo 316 C.- El procedimiento para la adopción se sujetará a lo establecido en el Libro Tercero, Titulo Único, Capítulo VIII del Código de Procedimientos Civiles de Yucatán.
-
-> <small>(REFORMADO, D.O. 16 DE MAYO DE 2005)</small>
-
-Artículo 316 D.- Una vez declarada ejecutoriada la sentencia que resuelva una adopción, ésta será considerada como irrevocable.
-
-> <small>(REFORMADO, D.O. 28 DE ENERO DE 2010)</small>
-
-Artículo 316 E.- La Dirección del Registro Civil, la Procuraduría de la Defensa del Menor y la Familia y las demás instituciones que hubieren intervenido en el proceso de adopción, se abstendrán de proporcionar información sobre los antecedentes de la familia de origen del adoptado, así como su historia médica, excepto en los siguientes casos:
-
-I.- Cuando existan impedimentos para contraer matrimonio por parentesco de consanguinidad establecidos en las fracciones III y IV del artículo 69 de este Código, y
-
-II.- Cuando la persona adoptada desee conocer sus antecedentes familiares, siempre y cuando sea mayor de dieciocho años de edad, o bien, siendo menor de dicha edad, con el consentimiento de los adoptantes.
-
-Los adoptantes, en todo caso, serán informados de la historia médica de la familia genética del adoptado, en caso de que se conociera, para proteger su salud a través del conocimiento de posibles enfermedades hereditarias, o a petición del Ministerio Público en los casos de investigación criminal.
-
-> <small>(ADICIONADA, D.O. 13 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 #### SECCIÓN SEGUNDA. DE LA ADOPCIÓN SIMPLE
 
-> <small>(REFORMADO, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 317.
 
-La adopción simple es la forma de adopción que confiere a la persona adoptada, la condición de hija o hijo biológico, con los efectos dispuestos en este Código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-Artículo 317 A.- (DEROGADO, D.O. 16 DE MAYO DE 2005)
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
-> <small>(REFORMADO, D.O. 16 DE MAYO DE 2005)</small>
+Artículo 317 A.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 318.
 
-Los derechos y obligaciones que nacen de la adopción Simple, y el parentesco que de ella resulte, se limitan al adoptante y al adoptado, excepto en lo relativo a los impedimentos para contraer matrimonio; respecto de los cuales, se observará lo que dispone el artículo 70 de este Código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, D.O. 16 DE MAYO DE 2005)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 319.
 
-En la adopción Simple, la patria potestad será transferida al adoptante, salvo que esté casado con alguno de los progenitores del adoptado, por lo que en este caso, la ejercerán ambos cónyuges.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 320.
 
-(DEROGADO, D.O. 16 DE MAYO DE 2005)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 321.
 
-(DEROGADO, D.O. 16 DE MAYO DE 2005)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 322.
 
-(DEROGADO, D.O. 16 DE MAYO DE 2005)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-Artículo 322 A.- (DEROGADO, D.O. 16 DE MAYO DE 2005)
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
-> <small>(ADICIONADO, D.O. 16 DE MAYO DE 2005)</small>
+Artículo 322 A.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-Artículo 322 B.- La resolución que apruebe la adopción Simple, ordenará al Oficial del Registro Civil, que levante el acta de nacimiento, en la que figuren los adoptantes como padres, y los datos que se requieran conforme a la Ley.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
-> <small>(ADICIONADA, D.O. 13 DE DICIEMBRE DE 1999)</small>
+Artículo 322 B.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 #### SECCIÓN TERCERA. DE LA ADOPCIÓN PLENA
 
-> <small>(REFORMADO, D.O. 16 DE MAYO DE 2005)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 323.
 
-La adopción Plena es aquella, en la que el adoptado adquiere un vínculo de filiación con los adoptantes y la familia de éstos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
-Artículo 323 A.- La resolución judicial en que se apruebe la adopción plena, constituye un nuevo estado civil, su autoridad es absoluta y no puede ser contradicha por persona alguna.
+Artículo 323 A.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
-Artículo 323 B.- La resolución judicial que apruebe la adopción plena, contendrá la orden al Oficial del Registro Civil, para que levante el acta de nacimiento en la que figuren como padres, él o los adoptantes; como hijo, el adoptado y como abuelos los padres de aquél o aquellos, y demás datos que se requieran conforme a la Ley, sin hacer mención sobre la adopción.
+Artículo 323 B.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-Artículo 323 C.- (DEROGADO, D.O. 16 DE MAYO DE 2005)
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
-Artículo 323 D.- (DEROGADO, D.O. 16 DE MAYO DE 2005)
+Artículo 323 C.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
-Artículo 323 E.- La adopción plena entraña automáticamente la extinción de los vínculos jurídicos con la familia de origen, por lo que no serán exigibles las obligaciones derivadas de este tipo de parentesco, ni tendrá derecho alguno respecto de esos mismos parientes, excepto en lo relativo a los impedimentos de matrimonio cuya responsabilidad moral corresponde a los adoptantes.
+Artículo 323 D.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(ADICIONADA, D.O. 13 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+Artículo 323 E.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 #### SECCIÓN CUARTA. DE LA ADOPCIÓN INTERNACIONAL Y POR EXTRANJEROS
 
-> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 324.
 
-La adopción internacional es la que promueven ciudadanos extranjeros o nacionales mexicanos con residencia habitual fuera de la República Mexicana.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-La adopción por extranjeros es la promovida por ciudadanos de otro país, con residencia permanente en el territorio nacional.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
-Las adopciones internacionales o por extranjeros pueden ser simples o plenas.
-
-En igualdad de circunstancias, se dará preferencia en la adopción a mexicanos sobre los extranjeros.
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ## TITULO QUINTO. DE LA PATRIA POTESTAD
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO I. DE LOS EFECTOS DE LA PATRIA POTESTAD
 
 RESPECTO A LA PERSONA DE LOS DESCENDIENTES
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 325.
 
-Los descendientes, cualesquiera que sean su estado, edad y condición, deben honrar y respetar a sus ascendientes. Los descendientes y ascendientes se deben respeto y consideración mutuos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 326.
 
-La patria potestad se ejerce sobre la persona y los bienes de los descendientes. Su ejercicio queda sujeto en cuanto a la guarda y educación de los menores, a las modalidades que le impriman las resoluciones que se dicten, de acuerdo con el código de defensa social del Estado y las leyes sobre previsión social y delincuencia infantil que se expidan.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 327.
 
-La patria potestad corresponde:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Al padre y a la madre, conjunta o separadamente. En caso de desacuerdo será otorgada a una de las partes por sentencia judicial.
-
-II.- A los abuelos paternos y maternos, conjunta o separadamente y en caso de oposición de intereses por sentencia judicial a favor de una de las partes.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 328.
 
-Sólo por muerte o interdicción, sentencia judicial o ausencia del llamado preferentemente, entrará en ejercicio de la patria potestad el que le siga en el orden establecido en el artículo inmediato anterior, salvo lo dispuesto en los artículos 299 y 300 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 329.
 
-Mientras estuviere el descendiente sujeto a la patria potestad, no podrá dejar la casa del que la ejerce sin permiso de éste o decreto de la autoridad pública competente.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 330.
 
-En la adopción simple, la patria potestad sobre el hijo adoptivo, la ejercerán únicamente la persona o personas que lo adopten.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-En la adopción plena, la patria potestad se ejercerá en los términos del artículo 327 de éste Código.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 331.
 
-A la persona que tiene al hijo bajo su patria potestad incumbe la obligación de educarlo convenientemente.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-Cuando llegue a conocimiento de los consejos locales de tutela o de cualquier otra institución de defensa o de protección de los menores, que la persona de que se trata no cumple esa obligación, lo avisará al ministerio público para que promueva lo que corresponda.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 332.
 
-El que ejerce la patria potestad tiene la facultad de corregir y reprimir mesuradamente la conducta de sus descendientes.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-Las autoridades auxiliarán al que ejerce la patria potestad, en el ejercicio de ésta, de una manera prudente, siempre que sean requeridas para ello.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 333.
 
-El que está sujeto a la patria potestad no puede comparecer en juicio ni contraer obligación alguna, sino por conducto del que ejerza la patria potestad, salvo lo dispuesto en la ley federal del trabajo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO II. DE LOS EFECTOS DE LA PATRIA POTESTAD
 
 SOBRE LOS BIENES DE LOS DESCENDIENTES
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 334.
 
-El que ejerce la patria potestad es el legítimo representante de los que están sujetos a ella, y administrador legal de los bienes que les pertenecen, conforme a las prescripciones de la ley.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 335.
 
-Los bienes del descendiente, mientras estén bajo la patria potestad, se dividen en dos clases:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Bienes adquiridos por su trabajo.
-
-II.- Bienes adquiridos por cualquier otro título.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 336.
 
-De los bienes de la primera clase el descendiente tiene la propiedad, la administración y el usufructo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 337.
 
-En los bienes de la segunda clase, la propiedad y la mitad del usufructo pertenecen al descendiente; la administración y la otra mitad del usufructo corresponden a la persona que ejerza la patria potestad. Sin embargo, si el descendiente adquiere bienes por herencia, legado o donación y el testador o donante dispone que el usufructo pertenezca al descendiente o que se destine a un fin determinado, se estará a lo dispuesto.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 338.
 
-La renuncia del usufructo hecha a favor del descendiente, será considerada como donación.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 339.
 
-El usufructo de los bienes concedido a la persona que ejerza la patria potestad, lleva consigo las obligaciones impuestas a los usufructuarios, con excepción de la de dar fianza.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 340.
 
-El que ejerza la patria potestad no puede enajenar, ni gravar de ningún modo los bienes inmuebles o los muebles preciosos en que, conforme el artículo 337 de este código, le corresponde la administración, sino por causa de absoluta necesidad o de evidente beneficio y previa autorización judicial.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-Tampoco podrá celebrar contratos de arrendamiento por más de cinco años, ni recibir la renta anticipada por más de dos años; vender valores comerciales, industriales, títulos de rentas, acciones, frutos y ganado, por menor valor del que se cotice en la plaza el día de la venta; hacer donaciones de los bienes de los descendientes, o remisión voluntaria de los derechos de éstos, ni dar fianza en representación de los descendientes.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 341.
 
-Siempre que el juez conceda licencia al que ejerce la patria potestad para enajenar un bien inmueble o un mueble precioso perteneciente al menor, tomará las medidas necesarias para hacer que el producto de la venta se dedique al objeto a que se destinó y para que con el resto se adquiera un inmueble o se imponga con segura hipoteca a favor del menor o bien se invierta en una institución de crédito en favor del menor.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 342.
 
-En todos los casos en que el ascendiente tenga un interés opuesto al de su descendiente que se halle bajo la patria potestad, o en aquél en que por cualquier causa esté impedido para representar al incapaz, éste será representado en juicio o fuera de él por un tutor, que el juez nombrará para cada caso.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 343.
 
-Los jueces tienen la facultad de tomar las medidas necesarias para impedir que, por la mala administración de quien ejerce la patria potestad, los bienes del descendiente se derrochen o se disminuyan.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-Estas medidas se tomarán a instancias de las personas interesadas, del menor cuando hubiere cumplido catorce años, del consejo local de tutelas, o del ministerio público.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 344.
 
-El ascendiente que cese en el ejercicio de la patria potestad, debe entregar a sus descendientes o a quien los represente, todos los bienes y frutos que pertenezcan a dichos descendientes, rindiendo cuenta de su administración.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO III. DE LA SUSPENSION Y TERMINACION DE LA PATRIA POTESTAD
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 345.
 
-La patria potestad se suspende:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Por incapacidad declarada judicialmente en los casos II, III y IV del artículo 352 de este código.
-
-II.- Por la ausencia declarada en forma.
-
-III.- Por sentencia condenatoria que imponga como pena esta suspensión.
-
-> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 346.
 
-La patria potestad se pierde:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Cuando el que la ejerce es condenado expresamente a la pérdida de ese derecho, o cuando es condenado dos o mas veces por delitos graves.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
-II.- En los casos de terminación de matrimonio, por nulidad o por divorcio, cuando así lo disponga la sentencia.
+Artículo 346 A.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-III.- Cuando por las costumbres depravadas de los ascendientes, malos tratos o abandono de sus deberes, pudiera comprometerse la salud, la seguridad o la moralidad de los descendientes, aún cuando esos hechos no cayeren bajo la sanción de la Ley Penal.
-
-Asimismo, cuando tolere que otras personas atenten o pongan en riesgo la integridad física o moral de los menores.
-
-> <small>(REFORMADA, D.O. 28 DE ENERO DE 2010)</small>
-
-IV.- Cuando quien la ejerza, deje de velar y convivir injustificadamente con el menor de edad y lo deje abandonado o en custodia para su cuidado en algún centro asistencial público o privado, o en casa particular por más de sesenta días naturales y tratándose de expósitos, después de siete días naturales.
-
-V.- Por la entrega que el padre o la madre, o quien ejerce la patria potestad hiciera del menor a una institución de asistencia social, pública o privada con la finalidad de que sea dado en adopción.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 16 DE MAYO DE 2005)</small>
-
-VI.- Cuando el que la ejerza, sea condenado por la comisión de un delito doloso, en el que la víctima sea el menor.
-
-En los casos de adopción, acreditado el interés superior del menor, y su situación de abandono, el Juez de lo Familiar resolverá previamente la pérdida de patria potestad.
-
-> <small>(ADICIONADO, D.O. 16 DE MAYO DE 2005)</small>
-
-Artículo 346 A.- La Procuraduría para la Defensa del Menor y la Familia, podrá promover la pérdida de la patria potestad, de los menores bajo la tutela pública. Entre tanto, efectuará en su carácter de tutor, la integración oportuna de estos a un ambiente familiar, en hogares adoptivos.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 347.
 
-La patria potestad se termina:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Por la muerte de quien la ejerce, si no hay otra persona en quien recaiga.
-
-II.- Por la mayor edad del hijo.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 348.
 
-La patria potestad no es renunciable; pero los abuelos a quienes corresponda ejercerla, pueden excusarse:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Cuando tengan sesenta años cumplidos.
-
-II.- Cuando por su mal estado habitual de salud, no puedan atender debidamente a su desempeño.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 349.
 
-En los diversos casos que señala el artículo 346 de este código, los ascendientes que ejercían la patria potestad pierden los derechos inherentes a ésta, pero no quedan liberados de las obligaciones que les incumben, las cuales continuarán en todo su vigor en favor de los descendientes, hasta que la patria potestad se termine.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 350.
 
-Los ascendientes conservan su derecho al usufructo de los bienes del descendiente, si han quedado suspensos del ejercicio de la patria potestad, conforme a la fracción I del artículo 345 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ## TITULO SEXTO. DE LA TUTELA
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
+
 ### CAPITULO I. DISPOSICIONES GENERALES
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 351.
 
-El objeto de la tutela es la guarda de la persona y bienes, o solamente de los bienes, de los que no estando sujetos a patria potestad tienen incapacidad natural y legal, o solamente la segunda, para gobernarse por si mismos. La tutela puede también tener por objeto la representación interina del incapaz en los casos especiales que señale la ley.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 352.
 
-Tienen incapacidad legal y natural:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Los menores de edad.
-
-II.- Los mayores de edad privados de inteligencia, por locura, idiocia u otras deficiencias mentales.
-
-III.- Los sordomudos que no sepan leer ni escribir.
-
-IV.- Los ebrios consuetudinarios, y los que habitualmente hacen uso inmoderado de drogas enervantes.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 353.
 
-Tienen incapacidad legal los casados menores de dieciocho años, únicamente para los actos previstos en el artículo 87 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 354.
 
-El consejo local de tutelas, o en su defecto, cualquiera persona o autoridad que tenga noticia de que un incapaz carece de representante legal, deberá ponerlo en conocimiento del agente del ministerio público respectivo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 355.
 
-La tutela es un cargo personal del que ninguno puede eximirse sino por causa legítima. Pueden ser tutores y curadores las personas de uno u otro sexo mayores de edad.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 356.
 
-El que se rehusare sin causa legal a desempeñar el cargo de tutor, es responsable de los daños y perjuicios que de su negativa resulten al incapacitado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 357.
 
-La tutela se desempeñará por el tutor con intervención del curador, del juez familiar y del consejo local de tutelas en los términos establecidos en este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 358.
 
-Ningún incapaz puede tener al mismo tiempo más de un tutor definitivo y un curador; pero un tutor y un curador pueden desempeñar la tutela de varios incapaces.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 359.
 
-Cuando los intereses de alguno o algunos de los incapaces sujetos a la misma tutela fueren opuestos, el tutor lo pondrá en conocimiento del juez, quien nombrará un tutor especial que defienda los intereses de los incapaces, mientras se decide el punto de oposición.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 360.
 
-Los cargos de tutor y de curador de un incapaz no pueden ser desempeñados al mismo tiempo por una sola persona. Tampoco pueden desempeñarse por personas que tengan entre sí parentesco en cualquier grado de la línea recta, o dentro del cuarto grado de la colateral.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 361.
 
-No pueden ser nombrados tutores o curadores las personas que desempeñan algún cargo en un juzgado familiar y las que integran los consejos locales de tutelas; ni los que están ligados con parentesco de consanguinidad con las mencionadas personas, en la línea recta, sin limitación de grados, y la colateral dentro del cuarto grado inclusive.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 362.
 
-El cargo de tutor se defiere:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- En testamento.
-
-II.- Por elección del mismo menor confirmada por el juez.
-
-III.- Por nombramiento exclusivo del juez.
-
-IV.- Por la ley.
-
-El cargo de curador se defiere por los tres primeros modos.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 363.
 
-Ninguna tutela puede deferirse sin que previamente se declare en los términos que disponga el código de procedimientos civiles, el estado de incapacidad de la persona que va a quedar sujeta a ella.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 364.
 
-El menor de edad que fuere demente, idiota, o estuviese privado de la inteligencia por otras deficiencias mentales, sordo mudo, ebrio consuetudinario o que habitualmente abuse de las drogas enervantes, estará sujeto a la tutela de menores, mientras no llegue a la mayor edad.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-Si al cumplirse ésta continuare el impedimento, el incapaz se sujetará a nueva tutela, previo juicio de interdicción, en el cual serán oídos el tutor y el curador anteriores.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 365.
 
-Los hijos menores de un incapacitado quedarán bajo la patria potestad del ascendiente que corresponda conforme a la ley, y no habiéndolo, será tutor de ellos el mismo del incapacitado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 366.
 
-La tutela del demente, del deficiente mental, sordomudo que no sepa leer y escribir, ebrio consuetudinario y de los que habitualmente abusen de las drogas enervantes, durará el tiempo que subsista la interdicción, cuando sea ejercitada por los descendientes o por los ascendientes. El cónyuge sólo tendrá obligación de desempeñar ese cargo mientras conserve su carácter de cónyuge. Los extraños que desempeñen la tutela de que se trata, tienen derecho de que se les releve de ella a los diez años de ejercerla.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 367.
 
-La interdicción no terminará sino por la muerte del incapacitado o por sentencia ejecutoria que declare haber cesado aquélla y que se hubiere pronunciado en juicio seguido conforme a las mismas reglas establecidas para el de interdicción.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 368.
 
-El juez familiar del domicilio del incapacitado, y si no lo hubiere cualquiera otra autoridad judicial, dictará provisionalmente las medidas necesarias para proteger la persona y bienes del incapacitado hasta que se nombre tutor.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO II. DE LA TUTELA TESTAMENTARIA
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 369.
 
-El que ejerza patria potestad tiene derecho de nombrar tutor en su testamento a aquellos sobre quienes la ejercen con inclusión del póstumo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 370.
 
-El nombramiento de tutor testamentario, hecho en los términos del artículo anterior, excluye del ejercicio de la patria potestad a los ascendientes de ulteriores grados.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 371.
 
-El nombramiento de tutor testamentario hecho por cualquier otro ascendiente, excluye de la patria potestad a los demás que debieran ejercerla.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 372.
 
-Si el nombramiento del tutor testamentario a que se refieren los artículos anteriores fuere hecho en consideración a que el ascendiente en quien debiera recaer la patria potestad tuviese impedimento para ejercerla, cesando el impedimento cesará la tutela, a no ser que el testador haya declarado expresamente que la tutela continúe aún después de que haya cesado el impedimento.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 373.
 
-El que en su testamento, aunque sea un menor, deje bienes, ya sea por legado o por herencia, a un incapaz que no esté bajo su patria potestad, ni bajo la de otro, puede nombrarle tutor solamente para la administración de los bienes que le deje. Aun cuando en la disposición testamentaria correspondiente se prevenga que el beneficiario no reciba los productos del capital dejado en herencia o legado, no subsistirá dicha disposición en lo estrictamente indispensable para satisfacer las necesidades alimentarias del menor.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 374.
 
-Si fueren varios los menores podrá nombrárseles un tutor común, o conferirse a persona diferente la tutela de cada uno de ellos, observándose, en su caso, lo dispuesto en el artículo 359 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 375.
 
-El padre que ejerce la tutela de un hijo, sujeto a interdicción por incapacidad intelectual, puede nombrarle tutor testamentario si la madre ha fallecido o no puede legalmente ejercer la tutela. La madre, en su caso, tendrá el mismo derecho.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
-
-En ningún otro caso ha lugar a la tutela testamentaria del incapacitado.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 376.
 
-Siempre que se nombren varios tutores, desempeñará la tutela el primero nombrado, a quien sustituirán los demás por el orden de su nombramiento, en los casos de muerte, incapacidad, excusa o remoción, salvo que el testador haya establecido el orden de la tutela.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 377.
 
-Deben observarse las reglas, limitaciones y condiciones puestas por el testador para la administración de la tutela, que no sean contrarias a las leyes, a no ser que el juez, oyendo al tutor y al curador, las estime dañosas a los menores en cuyo caso podrán dispensarlas o modificarlas.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 378.
 
-Si por un nombramiento condicional de tutor o por cualquier otro motivo, faltare temporalmente el tutor testamentario, el juez proveerá de tutor interino al menor conforme a las reglas generales sobre nombramiento de tutores.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 379.
 
-El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a su hijo adoptivo, aplicándose a esta tutela lo dispuesto en los artículos anteriores.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO III. DE LA TUTELA LEGITIMA
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 380.
 
-Ha lugar a la tutela legítima de los menores, cuando no hay quién ejerza sobre ellos la patria potestad ni tutor testamentario.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 381.
 
-La tutela legítima corresponde:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- A los hermanos prefiriéndose a los que lo sean por ambas líneas.
-
-II.- Por falta o incapacidad de los hermanos, a los demás colaterales dentro del cuarto grado inclusive.
-
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 382.
 
-Si hubiere varios parientes del mismo grado, el juez elegirá entre ellos al que le parezca más apto para el cargo; pero si el incapaz hubiere cumplido 14 años, él hará la elección.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 383.
 
-La falta temporal del tutor legítimo, se suplirá en los términos establecidos en los dos artículos anteriores.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 384.
 
-El marido es tutor legítimo y forzoso de su mujer, y ésta lo es de su marido.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 385.
 
-Los hijos mayores de edad son tutores de su padre o madre libres de matrimonio.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 386.
 
-Cuando haya dos o más hijos, será preferido el que viva en compañía del padre o de la madre, y siendo varios los que estén en el mismo caso, el juez elegirá al que le parezca más apto.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 387.
 
-Los padres son de derecho tutores de sus hijos, solteros o viudos, cuando éstos no tengan hijos que puedan desempeñar la tutela, debiéndose acordar respecto a quien de los dos ejercerá el cargo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 388.
 
-A falta de tutor testamentario y de persona que con arreglo a los artículos anteriores deba desempeñar la tutela, serán llamados a ella sucesivamente los abuelos, los hermanos del incapacitado y los demás colaterales a que se refiere la fracción II del artículo 381 de este código, tomándose en consideración, en su caso, lo que dispone el artículo 382 del mismo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 389.
 
-El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquel derecho.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, D.O. 28 DE ENERO DE 2010)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 390.
 
-La Ley coloca a niñas, niños y adolescentes abandonados, y de padre o madre desconocidos, bajo la tutela de la persona que los haya cuidado, la cual tendrá las obligaciones, facultades y restricciones establecidas para los demás tutores.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-Se considera expósita, a la persona menor de dieciocho años de edad cuyo origen se desconoce y es puesto en situación de desamparo en un hospital, casa particular o algún paraje público o privado por siete días naturales, por quienes conforme a la Ley están obligados a protegerla.
-
-Se considerará abandonada, a la persona menor de dieciocho años de edad que conociéndose su origen, los que ejercen la patria potestad o tutela sobre él, incumplan sin causa justificada, por más de treinta días naturales, con sus deberes, aún cuando alguna persona o institución se hiciere cargo del mismo.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 391.
 
-Los directores de las inclusas, hospitales y demás casas de beneficencia donde se reciban niños abandonados, desempeñarán la tutela legítima de éstos, con arreglo a las leyes y a lo que prevengan los estatutos del establecimiento. En este caso, no es necesario el discernimiento del cargo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO IV. DE LA TUTELA DATIVA
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 392.
 
-La tutela dativa tiene lugar:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Cuando no hay tutor testamentario ni persona a quien, conforme a la ley, corresponda la tutela legítima.
-
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
-
-II.- Cuando el tutor testamentario está impedido temporalmente de ejercer su cargo y no hay ningún pariente de los designados en el artículo 381 de este código.
-
-III.- En los casos especiales que establece este código.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 393.
 
-El tutor dativo será designado por el menor si ha cumplido catorce años. El juez familiar confirmará la designación, si no tiene justa causa para reprobarla. Para reprobar las ulteriores designaciones que haga el menor, el juez oirá el parecer del consejo local de tutelas.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-Si no se aprueba el nombramiento hecho por el menor, el juez nombrará tutor conforme a lo dispuesto en el artículo siguiente.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 394.
 
-Si el menor no ha cumplido catorce años, el nombramiento de tutor lo hará el juez familiar de entre las personas que figuren en la lista formada cada año por el consejo local de tutelas, oyendo al ministerio público, quien debe cuidar de que quede comprobada la honorabilidad de la persona elegida para tutor.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 395.
 
-Si el juez no hace oportunamente el nombramiento de tutor, es responsable de los daños y perjuicios que se sigan al menor por esa falta.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 396.
 
-Siempre será dativa la tutela de los menores a que se refiere el artículo 353 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 397.
 
-A los menores de edad que no estén sujetos a patria potestad, ni a tutela testamentaria o legítima, aunque no tengan bienes, se les nombrará tutor dativo. La tutela en este caso tendrá por objeto el cuidado de la persona del menor, a efecto de que reciba educación.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-El tutor será nombrado a petición del consejo local de tutelas, del ministerio público, del mismo menor, y aún de oficio por el juez familiar.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO V. DE LAS PERSONAS INHABILES PARA EL DESEMPEÑO DE LA TUTELA
 
 Y DE LAS PERSONAS QUE DEBEN SER SEPARADAS DE ELLA.
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 398.
 
-No pueden ser tutores, aunque estén anuentes en aceptar el cargo:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Los que a su vez estén sujetos a patria potestad o a tutela.
-
-II.- Los que hayan sido removidos de otra tutela por haberse conducido mal, ya respecto de la persona, ya respecto de la administración de los bienes del incapacitado.
-
-III.- Los que por sentencia ejecutoria hayan sido condenados a la privación de este cargo o a la inhabilitación para obtenerlo.
-
-IV.- Los que hayan sido condenados por delitos contra:
-
-a) La moral pública,
-
-b) la familia,
-
-c) la paz y la seguridad públicas,
-
-d) el honor de las personas,
-
-e) el patrimonio,
-
-f) la vida e integridad física de las personas, y
-
-g) la salud.
-
-V.- Los que no tengan oficio o modo de vivir conocido o sean de notoria mala conducta.
-
-VI.- Los que al deferirse la tutela, tengan pleito pendiente con el incapacitado.
-
-VII.- Los deudores del incapacitado en cantidad considerable, a juicio del juez, a no ser que el que nombre tutor testamentario lo haya hecho con conocimiento de la deuda, declarándolo así expresamente al hacer el nombramiento.
-
-VIII.- Los jueces, magistrados y demás funcionarios o empleados de la administración de justicia.
-
-IX.- Los que no estén domiciliados en el lugar en que deba ejercerce (sic) la tutela.
-
-X.- Los que padezcan enfermedad crónica contagiosa.
-
-XI.- Los demás a quienes lo prohibe la ley.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 399.
 
-Serán separados de la tutela:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Los que sin haber caucionado su manejo conforme a la ley, ejerzan la administración de la tutela.
-
-II.- Los que se conduzcan mal en el desempeño de la tutela, ya sea respecto de la persona, ya respecto de la administración de los bienes del incapacitado.
-
-III.- Los tutores que no rindan sus cuentas dentro del término fijado por la ley.
-
-IV.- Los comprendidos en el artículo anterior, desde que sobrevenga o se averigüe su incapacidad.
-
-V.- El tutor que se encuentre en el caso previsto en el artículo 72 de este código.
-
-VI.- El tutor que permanezca ausente por más de seis meses, del lugar en que debe desempeñar la tutela.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 400.
 
-No pueden ser tutores ni curadores del demente los que hayan sido causa de la demencia, ni los que la hayan fomentado directa o indirectamente.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 401.
 
-Lo dispuesto en el artículo anterior se aplicará en cuanto fuere posible, a la tutela de los que padezcan idiocia o cualquier deficiencia mental, sordomudos que no sepan leer y escribir, ebrios consuetudinarios y de los que abusan habitualmente de las drogas enervantes.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 402.
 
-El consejo local de tutelas, el ministerio público y los parientes del pupilo, tienen derecho de promover la separación de los tutores que se encuentren en alguno de los casos previstos en el artículo 399 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 403.
 
-El tutor que fuere procesado por cualquier delito, quedará suspenso en el ejercicio de su encargo desde que se provea el auto motivado de prisión, hasta que se pronuncie sentencia irrevocable.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 404.
 
-En el caso de que trata el artículo anterior, se proveerá a la tutela conforme a la ley.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 405.
 
-Absuelto el tutor, volverá al ejercicio de su encargo. Si es condenado a una pena que no lleve consigo la inhabilitación para desempeñar la tutela, volverá a ésta al extinguir su condena, siempre que la pena impuesta no exceda de un año de prisión.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO VI. DE LAS EXCUSAS DE LA TUTELA
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 406.
 
-Pueden excusarse de ser tutores de cualquier clase:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
-
-I.- Los funcionarios y empleados públicos.
-
-II.- Los militares en servicio activo.
-
-III.- Los que tengan bajo su patria potestad dos o más descendientes.
-
-IV.- Los que fueren tan pobres que no puedan atender a la tutela sin menoscabo de su subsistencia.
-
-V.- Los que por el mal estado de su salud o por no saber leer ni escribir, no pueden atender debidamente a la tutela.
-
-VI.- Los que tengan sesenta años cumplidos.
-
-VII.- Los que tengan a su cargo otra tutela o curatela.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 407.
 
-Los impedimentos y excusas para la tutela, deben proponerse ante el juez dentro de diez días después de sabido el nombramiento.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 408.
 
-Cuando el impedimento o la causa legal de la excusa ocurriere después de la admisión de la tutela, los términos señalados en el artículo anterior correrán desde el día en que el tutor conoció el impedimento o la causa legal de la excusa.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 409.
 
-Mientras se califica el impedimento o la excusa, el juez nombrará un tutor interino.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 410.
 
-El tutor de cualquiera clase que sin excusa o desechada la que hubiere propuesto, no desempeñare la tutela, perderá el derecho que tenga para heredar al incapacitado en caso de intestado, y es responsable de los daños y perjuicios que por su renuncia hubiesen sobrevenido al pupilo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-En igual pena incurre la persona a quien corresponda la tutela legítima, si citada o notificada legalmente no se presenta al juez manifestando su parentesco con el incapacitado.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 411.
 
-Muerto el tutor que esté desempeñando una tutela sus herederos o ejecutores testamentarios están obligados a dar aviso al ministerio público, quien promoverá inmediatamente que se provea al incapacitado del tutor que corresponda según la ley.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO VII. DE LAS GARANTIAS QUE DEBEN OTORGAR LOS TUTORES
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 412.
 
-El tutor, antes de que se le discierna el cargo, prestará caución consistente en depósito, hipoteca o fianza.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 413.
 
-No se admitirá fianza sino cuando el tutor no tenga bienes en qué constituir la hipoteca.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 414.
 
-Cuando los bienes que tenga el tutor no alcancen a cubrir la cantidad que ha de asegurarse conforme el artículo siguiente, la garantía podrá consistir, parte en hipoteca, parte en fianza, o sólo en fianza a juicio del juez y previa audiencia del curador y del consejo local de tutelas.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 415.
 
-La caución se dará:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Por el importe de las rentas que deban producir los bienes raíces en dos años, y los réditos de los capitales impuestos durante el mismo tiempo.
-
-II.- Por el de los bienes muebles y el de los enseres y semovientes de las fincas rústicas.
-
-III.- Por el de los productos de las mismas fincas en dos años graduados por peritos o por el término medio de un quinquenio, a elección del juez.
-
-IV.- Por el de las utilidades anuales en las negociaciones mercantiles o industriales calculadas por los libros de contabilidad, o a juicio de peritos.
-
-V.- En cualquier caso no previsto en las fracciones anteriores, el tutor estará obligado a dar la garantía por la cantidad que señale el juez, quien para hacerlo, tomará en cuenta el dictamen de personas entendidas y oirá al curador y al ministerio público.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 416.
 
-Si los bienes del incapacitado enumerados en el artículo inmediato anterior, aumentan o disminuyen durante la tutela, podrán aumentarse o disminuirse proporcionalmente la hipoteca y la fianza, a pedimento del tutor, del curador, del ministerio público o del consejo local de tutelas.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 417.
 
-Si el tutor, dentro de tres meses después de aceptado su nombramiento, no pudiere dar la garantía por las cantidades que fija el artículo 415 de este código, se le removerá de plano y se procederá al nombramiento del nuevo tutor.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 418.
 
-Durante los tres meses señalados en el artículo precedente, desempeñará la administración de los bienes un tutor interino, quien los recibirá por inventario judicial, y no podrá ejecutar otros actos de administración que los que sean expresamente determinados por el juez y siempre con intervención del curador.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 419.
 
-Están exceptuados de la obligación de dar garantías:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Los tutores testamentarios cuando expresamente los haya relevado de esta obligación el testador.
-
-II.- El tutor que no administre bienes.
-
-III.- Los ascendientes, el cónyuge y los descendientes, en los casos en que conforme a la ley sean llamados a la tutela de sus descendientes, cónyuge o ascendientes respectivamente, salvo que el juez, con audiencia del curador y del consejo local de tutelas, estime conveniente exigir la garantía.
-
-IV.- Los que acojan a un expósito, lo alimenten y eduquen convenientemente por más de diez años, a no ser que haya recibido pensión para cuidar de él.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 420.
 
-Los comprendidos en la fracción I del artículo inmediato anterior, estarán obligados a dar garantía cuando con posterioridad a su nombramiento haya sobrevenido causa ignorada por el testador que haga necesaria aquélla a juicio del juez y previa audiencia del curador. Los comprendidos en la fracción II del mismo artículo, estarán obligados a dar la garantía, en seguida que entren en posesión de los bienes.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 421.
 
-Siempre que el tutor sea coheredero del incapaz, y éste no tenga más bienes que los hereditarios, no se podrá exigir al tutor otra garantía que la hipoteca de su misma porción hereditaria, a no ser que esta porción no iguale a la mitad de la porción del incapaz, pues en tal caso se integrará la garantía con hipoteca de bienes propios del tutor o con fianza.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 422.
 
-Al presentar el tutor su cuenta anual, el curador o el consejo local de tutelas deben promover información de supervivencia e idoneidad de los fiadores dados por aquél; esta información también podrán promoverla en cualquier tiempo que lo estimen conveniente. El ministerio público tiene igual facultad, y hasta de oficio el juez puede exigir esa información.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 423.
 
-Es también obligación del curador y del consejo local de tutelas, vigilar el estado de las fincas hipotecadas por el tutor, dando aviso al juez de los deterioros y menoscabos que en ellas hubiere, para que si es notable la disminución del precio, se exija al tutor que asegure con otra los intereses que administra.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 424.
 
-La garantía que presten los tutores no impedirá que el juez familiar, a moción del ministerio público, del consejo local de tutelas, de los parientes del incapacitado o de éste si ha cumplido catorce años, dicte las providencias que se estimen útiles para la conservación de los bienes del pupilo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO VIII. DEL DESEMPEÑO DE LA TUTELA
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 425.
 
-El tutor definitivo de cualquier clase que sea y el interino, cuando tenga que administrar bienes, no podrán entrar al desempeño de su encargo sin que antes se nombre curador, excepto en el caso de los artículos 390 y 391 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 426.
 
-El tutor que entre a la administración de los bienes sin que se haya nombrado curador, será responsable de los daños y perjuicios que cause al incapacitado y, además separado de la tutela; mas ningún extraño puede rehusarse a tratar con él judicial o extrajudicialmente, alegando la falta de curador.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 427.
 
-El tutor está obligado:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- A alimentar y, en su caso, educar al incapacitado.
-
-II.- A destinar de preferencia los recursos del incapacitado a la curación de sus enfermedades o a su regeneración si es un ebrio consuetudinario o abusa habitualmente de las drogas enervantes.
-
-III.- A administrar el caudal de los incapacitados, consultando al pupilo para los actos importantes de la administración, cuando sea capaz de discernimiento y mayor de catorce años; pero la falta de consulta no surte efectos contra tercero.
-
-La administración de los bienes que el pupilo ha adquirido con su trabajo, le corresponde a él y no al tutor.
-
-IV.- A representar al incapacitado en juicio y fuera de él en todos los actos civiles, con excepción del matrimonio, del reconocimiento de hijos, del testamento y de otros estrictamente personales.
-
-V.- A solicitar oportunamente la autorización judicial para todo lo que legalmente no pueda hacer sin ella.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 428.
 
-Los gastos de alimentos y educación del incapacitado deben regularse con aprobación judicial, de manera que nada necesario le falte según su condición y recursos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 429.
 
-El tutor, dentro del primer mes de ejercer su cargo fijará, con aprobación del juez, la cantidad que haya de invertirse en gastos de administración y el número y sueldo de los dependientes necesarios para ella. Ni el número ni el sueldo de los empleados podrá aumentarse sino con aprobación judicial.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 430.
 
-El tutor designará al menor a la carrera u oficio que éste elija según sus circunstancias. Si el tutor infringe esta disposición, puede el menor, por conducto del curador, del consejo local de tutelas o por sí mismo, ponerlo en conocimiento del juez, para que dicte las medidas convenientes.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 431.
 
-Si el que tenía la patria potestad sobre el menor lo había dedicado a alguna carrera, el tutor no variará ésta, sin la aprobación del juez, quien decidirá este punto prudentemente y oyendo en todo caso al mismo menor, al curador y al consejo local de tutelas.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 432.
 
-Si las rentas del menor no alcanzan a cubrir los gastos de su alimentación y educación, el juez decidirá si ha de ponérsele a aprender un oficio o adoptarse otro medio para evitar la enajenación de los bienes y, si fuere posible, sujetará a las rentas de éstos, los gastos de alimentación.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 433.
 
-Si los pupilos fueren indigentes o carecieren de suficientes medios para los gastos que demanden su alimentación y su educación, el tutor exigirá judicialmente la prestación de esos gastos a los parientes que tienen obligación legal de alimentar a los incapacitados. Las expensas que esto origine, serán cubiertas por el deudor alimentista. Cuando el mismo tutor sea el obligado a dar alimentos por razón de su parentesco con el pupilo, el curador ejercitará la acción a que este artículo se refiere.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 434.
 
-Si los pupilos indigentes no tienen personas que estén obligadas a alimentarlos, o si teniéndolas no pudieren hacerlo, el tutor, con autorización del juez familiar quien oirá el parecer del curador del consejo local de tutelas, pondrá al pupilo en un establecimiento de beneficencia pública o privada en donde pueda educarse. Si ni eso fuere posible el tutor procurará que los particulares suministren trabajo al incapacitado, compatible con su edad y circunstancias personales, con la obligación de alimentarlo y educarlo. No por esto el tutor queda eximido de su encargo, pues continuará vigilando al menor, a fin de que no sufra daño por lo excesivo del trabajo, lo insuficiente de la alimentación o lo defectuoso de la educación que se le imparta.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 435.
 
-Los incapacitados indigentes que no puedan ser alimentados y educados por los medios previstos en los dos artículos anteriores, lo serán a costa de las rentas públicas del Estado; pero si se llega a tener conocimiento de que existen parientes del incapacitado que estén legalmente obligados a proporcionarle alimentos, el ministerio público deducirá la acción correspondiente para que se reembolse al gobierno de los gastos que hubiese hecho en cumplimiento de lo dispuesto por este artículo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 436.
 
-El tutor de los incapacitados a que se refiere la fracción II del artículo 427 de este código, está obligado a presentar al juez familiar en el mes de enero de cada año, un certificado de dos facultativos que declaren acerca del estado del individuo sujeto a interdicción, a quien para este efecto reconocerán en presencia del curador. El juez se cerciorará del estado que guarde el incapacitado y tomará todas las medidas que estime convenientes para mejorar su condición.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 437.
 
-Para la seguridad, alivio y mejoría de las personas a que se refiere el artículo anterior el tutor adoptará las medidas que juzgue oportunas, previa la autorización judicial que se otorgará con audiencia del curador. Las medidas que fueren muy urgentes podrán ser ejecutadas por el tutor, quien dará cuenta inmediatamente al juez para obtener la debida aprobación.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 438.
 
-El tutor está obligado a formar, dentro de los seis meses siguientes al inicio de su ejercicio, inventario judicial y circunstanciado de cuanto constituye el patrimonio del menor, con intervención del curador y del mismo incapacitado, si goza de discernimiento y ha cumplido catorce años de edad.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 439.
 
-La obligación de hacer inventario no puede ser dispensada ni aún por los que tienen derecho de nombrar tutor testamentario.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 440.
 
-Mientras que el inventario no estuviere formado, la tutela debe limitarse a los actos de mera protección a la persona y conservación de los bienes del incapacitado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 441.
 
-El tutor está obligado a inscribir en el inventario el crédito que tenga contra el incapacitado; si no lo hace, pierde el derecho de cobrarlo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 442.
 
-Los bienes que el incapacitado adquiera después de la formación del inventario, se incluirán inmediatamente en él con las mismas formalidades prescritas en el artículo 438 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 443.
 
-Hecho el inventario no se admite al tutor rendir prueba contra él en perjuicio del incapacitado, ni antes ni después de la mayor edad de éste, ya sea que litigue en nombre propio o con la representación del incapacitado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
-
-Se exceptúan de lo dispuesto en el párrafo anterior, los casos en que el error del inventario sea evidente o cuando se trate de un derecho claramente establecido.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 444.
 
-Si se hubiere omitido listar algunos bienes en el inventario, el menor mismo antes, o después de la mayor edad, y el curador o cualquier pariente, pueden ocurrir al juez, pidiendo que los bienes omitidos se listen; y el juez, oído el parecer del tutor, determinará en justicia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 445.
 
-Si el padre o la madre del menor ejercían algún comercio o industria, el juez, con informe de dos peritos, decidirá si ha de continuar o no la negociación; a no ser que los padres hubieren dispuesto algo sobre este punto, en cuyo caso se respetará su voluntad, en cuanto no ofrezca grave inconveniente a juicio del juez.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 446.
 
-El dinero que resulte sobrante después de cubiertas las cargas y atenciones de la tutela, el que proceda de las reducciones de capitales y el que adquiera de cualquier otro modo, será impuesto por el tutor dentro de tres meses, contados desde que se hubiere reunido cuarenta mil pesos, sobre segura hipoteca, calificada bajo su responsabilidad, teniendo en cuenta el precio de la finca, sus productos y la depreciación que pueda sobrevenir al realizarla.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 447.
 
-Si para hacer la imposición dentro del término señalado en el artículo inmediato anterior, hubiere algún inconveniente grave, el tutor lo manifestará al juez, quien podrá ampliar el plazo por otros tres meses.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 448.
 
-Mientras se hacen las imposiciones a que se refieren los artículos 446 y 447 de este código, el tutor depositará las cantidades que perciba, en una institución de crédito, y si no lo hicieren pagarán los réditos fijados por el Banco de México, mientras los capitales no sean depositados.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 449.
 
-Los bienes inmuebles, los derechos anexos a ellos, y los muebles preciosos, no pueden ser enajenados ni gravados por el tutor, sino por causa de absoluta necesidad o evidente utilidad del menor, debidamente justificada y previas la conformidad del curador y la autorización judicial.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 450.
 
-Cuando la enajenación se haya permitido para cubrir con su producto algún objeto determinado, el juez señalará al tutor un plazo dentro del cual deberá acreditar que el producto de la enajenación se ha invertido en su objeto. Mientras no se haga la inversión, el producto de la venta se depositará en una institución de crédito.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 451.
 
-La venta de los bienes inmuebles del incapacitado es nula, si no se hace judicialmente en subasta pública. En la enajenación de alhajas y muebles preciosos, el juez decidirá si conviene o no la almoneda, pudiendo dispensarla, acreditada la utilidad que resulte al menor.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-Los tutores no podrán vender valores comerciales, industriales, títulos de rentas, acciones, frutos y ganados perteneciente al incapacitado, por menor valor del que se cotice en la plaza el día de la venta, ni dar fianza a nombre de su pupilo.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 452.
 
-Cuando se trate de enajenar, gravar o hipotecar bienes que pertenezcan al incapacitado como copropietario, se comenzará por mandar justipreciar dichos bienes para fijar con toda precisión su valor y la parte que en ellos represente el incapacitado, a fin de que el juez resuelva si conviene o no que se dividan materialmente dichos bienes para que aquél reciba en plena propiedad su porción, o si, por el contrario, es conveniente la enajenación, gravamen o hipoteca, fijando en este caso las condiciones y seguridades con que deben hacerse, pudiendo, si lo estimare conveniente dispensar almoneda, siempre que consientan en ello el tutor y el curador. Sin embargo, cuando el menor represente menos de un cincuenta por ciento en la copropiedad, la operación se practicará, si así lo determina la mayoría de los copartícipes calculada por cantidades, sin sujetarse en este caso a las reglas establecidas para bienes de incapacitados.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 453.
 
-Para todos los gastos extraordinarios que no sean de conservación ni de reparación, necesita el tutor ser autorizado por el juez.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 454.
 
-Se requiere licencia judicial para que el tutor pueda transigir y comprometer en árbitros los negocios del incapacitado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-El nombramiento de árbitros hecho por el tutor deberá sujetarse a la aprobación del juez.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 455.
 
-Para que el tutor transija, cuando el objeto de la reclamación consiste en bienes inmuebles, muebles preciosos o valores mercantiles o industriales cuya cuantía exceda de trescientas sesenta y cinco veces el salario mínimo vigente en el domicilio del incapacitado, necesita del consentimiento del curador y de la aprobación judicial otorgada con audiencia de éste.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 456.
 
-Para conformarse el tutor con la demanda entablada contra el menor sobre propiedad de bienes muebles preciosos, bienes raíces u otro derecho real, cualquiera que sea su cuantía, necesita la aprobación judicial otorgada con audiencia del curador.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 457.
 
-Ni con licencia judicial, ni en almoneda o fuera de ella puede el tutor comprar o arrendar los bienes del incapacitado, ni hacer contrato alguno respecto de ellos, para sí, su cónyuge o concubina, ascendientes o descendientes sin limitación de grado, o por parientes colaterales hasta el cuarto grado sean éstos por consanguinidad o afinidad. Si lo hiciere, además de la nulidad del contrato, el acto será suficiente para que se le remueva.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 458.
 
-Cesa la prohibición del artículo anterior respecto de la venta de bienes, en el caso de que el tutor o sus parientes allí mencionados sean coherederos, copartícipes o socios del incapacitado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 459.
 
-El tutor no podrá hacerse pago de sus créditos contra el incapacitado, sin la conformidad del curador y la aprobación judicial.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 460.
 
-El tutor no puede aceptar para sí a título gratuito u oneroso, la cesión de algún derecho o crédito contra el incapacitado. Sólo puede adquirir esos derechos por herencia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 461.
 
-El tutor no puede dar en arrendamiento los bienes del incapacitado, por más de cinco años sino en caso de necesidad o utilidad, previos el consentimiento del curador y la autorización judicial, observándose en su caso lo dispuesto en el artículo 452 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 462.
 
-El arrendamiento hecho de conformidad con el artículo anterior, subsistirá por el tiempo convenido, aun cuando se acabe la tutela; pero será nula toda anticipación de rentas o alquileres por más de seis meses.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 463.
 
-Sin autorización judicial no puede el tutor recibir dinero prestado en nombre del incapacitado, ya sea que se constituya o no hipoteca en el contrato.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 464.
 
-El tutor no puede hacer donaciones a nombre del incapacitado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 465.
 
-El tutor tiene, respecto del menor, las mismas facultades que a los ascendientes concede el artículo 332 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 466.
 
-Durante la tutela no corre la prescripción entre el tutor y el incapacitado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 467.
 
-El tutor tiene obligación de admitir las donaciones simples, legados y herencias que se dejen al incapacitado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 468.
 
-La expropiación, por causa de utilidad pública, de bienes de incapacitados, no se sujetará a las reglas antes establecidas, sino a lo que dispongan las leyes de la materia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 469.
 
-Cuando la tutela del incapacitado recayere en su cónyuge, continuará éste ejerciendo los derechos conyugales, con las siguientes modificaciones:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- En los casos en que conforme a derecho fuera necesario el consentimiento del cónyuge incapaz, se suplirá éste por el juez, con audiencia del curador.
-
-II.- En los casos en que el cónyuge incapaz requiera querellarse del otro o demandarlo para asegurar sus derechos violados o amenazados, será representado por un tutor interino que el juez le nombrará.
-
-Es obligación del curador promover este nombramiento y si no lo cumple será responsable de los perjuicios que se causen al incapacitado. También podrá promover este nombramiento el consejo local de tutelas, los parientes del incapacitado o el ministerio público.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 470.
 
-Cuando la tutela del incapaz recaiga en su cónyuge, éste sólo podrá gravar o enajenar los bienes mencionados en el artículo 449 de este código, previa audiencia del curador y autorización judicial, que se concederá de acuerdo con lo dispuesto en el artículo 451 del mismo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 471.
 
-El tutor tiene derecho a una retribución por la administración de los bienes del incapacitado, que podrá fijar el que conforme a derecho lo nombre en su testamento, y en defecto de éste, y para los tutores legítimos o dativos, el juez.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 472.
 
-En ningún caso bajará la retribución del cinco ni excederá del diez por ciento de las rentas líquidas de dichos bienes.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 473.
 
-Si los bienes del incapacitado tuvieren un aumento en sus productos, debido exclusivamente a la industria y diligencia del tutor, tendrá derecho a que se le aumente la remuneración hasta un veinte por ciento de los productos líquidos. La calificación del aumento se hará por el juez, con audiencia del curador.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 474.
 
-Para que pueda hacerse en la retribución de los tutores el aumento extraordinario que permite el artículo inmediato anterior, será requisito indispensable que por lo menos en dos años consecutivos haya obtenido el tutor la aprobación absoluta de sus cuentas.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 475.
 
-El tutor no tendrá derecho a remuneración alguna y restituirá lo que por este título hubiere recibido, si contraviniere lo dispuesto en el artículo 72 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 476.
 
-La administración de los bienes que el menor sujeto a tutela ha adquirido con su trabajo, corresponde a él y no al tutor.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 477.
 
-Son nulos todos los actos de administración y todos los contratos celebrados por los incapacitados sujetos a interdicción, ya sea que los ejecuten antes o después del nombramiento del tutor, salvo lo dispuesto en el artículo inmediato anterior.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 478.
 
-La nulidad a que se refiere el artículo anterior sólo puede ser alegada, sea como acción, sea como excepción, por el mismo incapacitado o por sus legítimos representantes; pero no por las personas con quienes contrató, ni por los fiadores que se hayan dado al constituirse la obligación, ni por los mancomunados en ella.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 479.
 
-La acción para pedir la nulidad prescribe en los términos en que prescriben las acciones personales o reales, según la naturaleza del acto cuya nulidad se pretende.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 480.
 
-Los menores de edad no pueden alegar la nulidad de que habla el artículo 477 de este código, en las obligaciones que hubieren contraído sobre materias propias de la profesión o arte en que sean peritos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-Tampoco pueden alegarla los menores, si han presentado certificados falsos del registro civil, para hacerse pasar como mayores, o han manifestado dolosamente que lo eran.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 481.
 
-La tutela se extingue:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Por la muerte del pupilo o porque desaparezca su incapacidad.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
-II.- Porque el incapacitado sujeto a tutela, entre a la patria potestad por reconocimiento o por adopción.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO IX. DE LAS CUENTAS DE LA TUTELA
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 482.
 
-El tutor está obligado a rendir al juez cuenta detallada de su administración, en el mes de enero de cada año, sea cual fuere la fecha en que se le hubiere discernido el cargo. La falta de presentación de la cuenta en el término fijado, motivará la remoción del tutor.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 483.
 
-El tutor tiene también obligación de rendir cuentas cuando, por causas graves que calificará el juez, lo exijan el curador, el consejo local de tutelas, o el mismo menor que haya cumplido catorce años de edad.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 484.
 
-La cuenta de administración comprenderá no sólo las cantidades en numenario (sic) que hubiere recibido el tutor por producto de los bienes y la aplicación que les haya dado, sino en general todas las operaciones que se hubieren practicado, e irá acompañada de los documentos justificativos y de un balance del estado de los bienes.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 485.
 
-El tutor es responsable del valor de los créditos activos si dentro de sesenta días, contados desde el vencimiento de su plazo, no ha obtenido su pago o garantía que asegure éste, o no ha pedido judicialmente el uno o la otra.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 486.
 
-Si el incapacitado no está en posesión de algunos bienes a que tiene derecho, será responsable el tutor de la pérdida de ellos, si dentro de dos meses contados desde que tuvo noticia del derecho del incapacitado, no entabla a nombre de éste judicialmente, las acciones conducentes para recobrarlos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 487.
 
-Lo dispuesto en el artículo anterior se entiende sin perjuicio de la responsabilidad que, después de intentadas las acciones, pueda resultar al tutor por culpa o negligencia en el desempeño de su encargo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 488.
 
-Deben abonarse al tutor todos los gastos hechos debida y legalmente, aunque los haya anticipado de su propio caudal, y aunque de ellos no haya resultado utilidad al menor, si esto ha sido sin culpa del primero.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 489.
 
-Ninguna anticipación al crédito contra el incapacitado se abonará al tutor, si excede de la mitad de la renta anual de los bienes de aquél, a menos que al efecto haya sido autorizado por el juez con audiencia del curador.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 490.
 
-El tutor será igualmente indemnizado, según el prudente arbitrio del juez, del daño que haya sufrido por causa de la tutela y en el desempeño necesario de ella, cuando no haya intervenido de su parte culpa o negligencia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 491.
 
-La obligación de rendir cuenta no puede ser dispensada en contrato o última voluntad, ni aún por el mismo menor; y si esa dispensa se pusiere como condición, en cualquier acto se tendrá por no puesta.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 492.
 
-El tutor que sea reemplazado por otro estará obligado, y lo mismo sus herederos, a rendir cuenta general de la tutela al que le reemplaza. El nuevo tutor responderá al incapacitado por los daños y perjuicios si no pidiere y tomare las cuentas de su antecesor.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 493.
 
-La obligación de dar cuentas pasa a los herederos del tutor, y si alguno de ellos sigue administrando los bienes de la tutela, su responsabilidad será la misma que la de aquél.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 494.
 
-La garantía dada por el tutor comprenderá hasta la administración que tengan los herederos en el caso del artículo anterior, y se cancelará cuando todas las cuentas hayan sido aprobadas.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 495.
 
-El tutor, o en su falta quien lo represente, rendirá las cuentas generales de la tutela en el término de tres meses contados desde el día en que fenezca la tutela. El juez podrá prorrogar este plazo hasta por tres meses más, si circunstancias extraordinarias así lo exigieren.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO X. DE LA ENTREGA DE LOS BIENES
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 496.
 
-El tutor, terminada la tutela, está obligado a entregar todos los bienes del incapacitado y todos los documentos que le pertenezcan, conforme al balance que se hubiere presentado en la última cuenta aprobada.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 497.
 
-La obligación de entregar los bienes no se suspende por estar pendiente la rendición de cuentas. La entrega debe ser hecha durante el mes siguiente a la terminación de la tutela; cuando los bienes sean muy cuantiosos o estuvieren ubicados en diversos lugares, el juez puede fijar un término prudente para hacerla; pero en todo caso deberá comenzarse en el plazo antes señalado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 498.
 
-El tutor que entre al cargo sucediendo a otro, está obligado a exigir la entrega de bienes y cuentas al que le ha precedido. Si no le exige, es responsable de todos los daños y perjuicios que por su omisión se siguieren al incapacitado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 499.
 
-La entrega de los bienes y la cuenta de la tutela se efectuarán a expensas del incapacitado. Cuando intervenga dolo o culpa de parte del tutor, serán de su cuenta todos los gastos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 500.
 
-El saldo que resulte en pro o en contra del tutor, producirá el interés que fija el tipo de cambio el Banco de México. En el primer caso correrá desde que previa entrega de los bienes se haga el requerimiento legal para el pago, y en el segundo, desde la rendición de cuentas, si hubiesen sido dados dentro del término designado por la ley; y si no desde que expire el mismo término.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 501.
 
-Cuando en la cuenta resulte saldo contra el tutor, aunque por un arreglo con el menor o sus representantes se otorguen plazos al responsable o a sus herederos para satisfacerlo quedarán vivas las hipotecas u otras garantías dadas para la administración, hasta que se verifique el pago, a menos que se haya pactado expresamente lo contrario en el arreglo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 502.
 
-Si la caución fuere de fianza, el convenio que conceda nuevos plazos al tutor, se hará saber al fiador; si éste consiente, permanecerá obligado hasta la solución; si no consiente, no habrá espera, y se podrá exigir el pago inmediato o la sustitución del fiador por otro igualmente idóneo que acepte el convenio.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 503.
 
-Todas las acciones por hechos relativos a la administración de la tutela, que el incapacitado pueda ejercitar contra su tutor, o contra los fiadores y garantes de éste, quedan extinguidas por el lapso de cuatro años, contados desde el día en que se cumpla la mayor edad, o desde el momento en que se hayan recibido los bienes y la cuenta de tutela, o desde que haya cesado la incapacidad en los demás casos previstos por la ley.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 504.
 
-Si las funciones de un tutor hubieren fenecido durante la minoridad, el menor podrá ejercitar las acciones correspondientes contra él y los que le hubieren sucedido en el cargo, computándose entonces los términos desde el día en que llegue a la mayor edad. Tratándose de los demás incapacitados los términos se computarán desde que cese la incapacidad.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO XI. DE LA CURATELA
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 505.
 
-Todos los sujetos a tutela, ya sea testamentaria, legítima o dativa, además del tutor tendrán un curador, excepto cuando la tutela sea interina y no haya que administrarse bienes.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 506.
 
-Lo dispuesto sobre impedimentos o excusas de los tutores regirá igualmente respecto de los curadores.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 507.
 
-Los que tienen derecho a nombrar tutor, lo tienen también de nombrar curador.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 508.
 
-Designarán por sí mismos al curador, con aprobación judicial, los comprendidos en el artículo 393 de este código, observándose lo que allí se dispone respecto de esos nombramientos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 509.
 
-El curador de todos los demás individuos sujetos a tutela, será nombrado por el juez.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 510.
 
-El curador está obligado:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- A defender los derechos del incapacitado en juicio o fuera de él, exclusivamente en el caso de que estén en oposición con los del tutor.
-
-II.- A vigilar la conducta del tutor y a poner en conocimiento del juez todo aquello que considere que puede ser dañoso al incapacitado.
-
-III.- A dar aviso al juez para que se haga el nombramiento de tutor, cuando éste faltare o abandonare la tutela.
-
-IV.- A cumplir con las obligaciones que el testador le haya impuesto, si fue nombrado por él; y
-
-V.- A cumplir las demás obligaciones que la ley le señale.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 511.
 
-El curador que no llene los deberes prescritos en el artículo precedente, será responsable de los daños y perjuicios que resultaren al incapacitado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 512.
 
-Las funciones del curador cesarán cuando el incapacitado salga de la tutela; pero si sólo variaren las personas de los tutores, el curador continuará en la curaduría.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 513.
 
-El curador tiene derecho a ser relevado de la curaduría, pasados diez años desde que se encargó de ella.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 514.
 
-En los casos en que conforme a este código tenga que intervenir el curador, cobrará no más del veinticinco por ciento ni menos del diez por ciento de los honorarios del tutor, sin que por ningún motivo pueda pretender mayor retribución. Si hiciere algunos gastos en el desempeño de su cargo, se le pagarán.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO XII. DE LOS CONSEJOS LOCALES DE TUTELAS
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 515.
 
-En cada municipalidad habrá un consejo local de tutelas compuesto de un presidente y de dos vocales, que durarán un año en el ejercicio de su cargo, serán nombrados por los respectivos ayuntamientos en la primera sesión que celebren en el mes de enero de cada año, procurando que los nombramientos recaigan en personas que sean de notorias buenas costumbres y que tengan interés en proteger a la infancia desvalida.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 516.
 
-El consejo local de tutelas es un órgano de vigilancia y de información que, además de las funciones que expresamente le asignan varios de los artículos que preceden, tienen las obligaciones siguientes:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Formar y remitir a los jueces de lo familiar una lista de las personas de la localidad que por su aptitud legal y moral, pueden desempeñar la tutela o la curatela, para que entre ellos se nombren los tutores y curadores, en los casos que esos nombramientos correspondan al juez.
-
-II.- Velar porque los tutores cumplan con sus deberes, especialmente en lo que se refiere a la educación de los menores, dando aviso al juez de lo familiar de las faltas u omisiones que notare.
-
-III.- Avisar al juez de lo familiar cuando tenga conocimiento de que los bienes de un incapacitado están en peligro, a fin de que dicte las medidas correspondientes.
-
-IV.- Investigar y poner en conocimiento del juez de lo familiar qué incapacitados carecen de tutor, con el objeto de que se hagan los respectivos nombramientos.
-
-V.- Cuidar con especialidad de que los tutores cumplan la obligación que les impone el artículo 438 de este código.
-
-VI.- Vigilar el registro de tutelas, a fin de que sea llevado en debida forma.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 517.
 
-Los jueces de lo familiar son las autoridades encargadas exclusivamente de intervenir en los asuntos relativos a la tutela.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-Ejercerán una sobrevigilancia sobre el conjunto de los actos del tutor, para impedir por medio de disposiciones apropiadas, la transgresión de sus deberes.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 518.
 
-Mientras se nombra tutor, el juez de lo familiar debe dictar las medidas necesarias para que el incapacitado no sufra perjuicios en su persona o en sus intereses.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO XIII. DE LOS CONSEJOS DE FAMILIA
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 519.
 
-El autor de una herencia que hubiera instituido herederos a menores o incapacitados puede, en su testamento, designar personas cuyo número no exceda de cinco, para constituir el consejo de familia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 520.
 
-El consejo de familia tendrá, con respecto a la tutela de las personas a que se refiere el artículo precedente, las mismas facultades y atribuciones que el artículo 516 de este código, en sus fracciones II, III y V, señala al consejo local de tutelas.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 521.
 
-Presidirá el consejo de familia, el vocal de más edad del mismo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 522.
 
-El consejo de familia se disolverá al extinguirse la tutela.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ## TITULO SEPTIMO
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
+
 ### CAPITULO UNICO. DE LA MAYOR EDAD
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 523.
 
-La mayor edad comienza a los dieciocho años cumplidos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 524.
 
-El mayor de edad dispone libremente de su persona y de sus bienes. La mayor edad representa la adquisición de la capacidad jurídica perfecta, y es igual para hombres y mujeres.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ## TITULO OCTAVO. DE LOS AUSENTES E IGNORADOS
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
+
 ### CAPITULO I. DE LAS MEDIDAS PROVISIONALES
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 525.
 
-Al que se hubiere ausentado del lugar de su residencia sin que se conozca su paradero y tuviere apoderado constituido antes o después de su partida, se le tendrá como presente para todos los efectos civiles, y sus negocios se podrán tratar con el apoderado hasta donde alcance el poder, salvo lo dispuesto en el artículo 544 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 526.
 
-Cuando una persona haya desaparecido, y se ignore el lugar en que se halle y quién la representa, el juez, a petición de parte o de oficio, nombrará un depositario de sus bienes, la citará por edictos publicados en el diario oficial del gobierno del Estado y en uno de los periódicos de mayor circulación de la república y de su último domicilio, señalándole para que se presente en un término no menor de tres meses ni mayor de seis, y dictará las providencias necesarias para asegurar los bienes. La publicación en el diario oficial del gobierno del Estado será gratuita.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 527.
 
-El juez, al publicar los edictos remitirá copia a los cónsules mexicanos de aquellos lugares del extranjero en que se pueda presumir que se encuentra el ausente o que se tenga noticias de él.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 528.
 
-Si el ausente tiene hijos menores que estén bajo su patria potestad, y no hay ascendiente que deba ejercerla conforme a la ley, ni tutor testamentario ni legítimo, el ministerio público pedirá que se nombre tutor en los términos prevenidos en este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 529.
 
-Las obligaciones y facultades del depositario serán las que la ley asigna a los depositarios judiciales.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 530.
 
-Se nombrará depositario:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Al cónyuge del ausente.
-
-II.- A uno de los hijos mayores de edad que resida en el lugar.
-
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
-
-Si hubiere varios, el juez elegirá al más apto.
-
-III.- Al ascendiente más próximo en grado al ausente.
-
-IV.- A falta de los anteriores o cuando sea inconveniente que éstos por su notoria mala conducta o por su ineptitud, sean nombrados depositarios, el juez nombrará al heredero presuntivo y si hubiera varios resolverá lo que dispone el artículo 536 de este código.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 531.
 
-Si cumplido el término del llamamiento, el citado no compareciere por sí ni por apoderado legítimo, ni por medio de tutor o de pariente que pueda representarle, se procederá al nombramiento de representante.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 532.
 
-Lo mismo se hará cuando en iguales circunstancias termine el poder conferido por el ausente, o sea insuficiente para el caso.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 533.
 
-Tienen acción para pedir el nombramiento de depositario y representante, el ministerio público y cualquiera a quien interese tratar o litigar con el ausente o defender los intereses de éste.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 534.
 
-En el nombramiento de representante se seguirá el orden establecido en el artículo 530 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 535.
 
-Si el cónyuge ausente fuere casado en segunda o ulteriores nupcias y hubiere hijos del matrimonio o matrimonios anteriores, el juez dispondrá que el cónyuge presente y los hijos del matrimonio o matrimonios anteriores o sus legítimos representantes en su caso, nombren de acuerdo al depositario representante; más si no estuvieren conformes, el juez lo nombrará libremente, de entre las personas designadas por el artículo anterior.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 536.
 
-A falta de cónyuge, de descendientes y ascendientes, será representante el heredero presunto. Si hubiese varios con igual derecho, ellos mismos elegirán al que deba ser representante. Si no se ponen de acuerdo en la elección, la hará el juez prefiriéndose al que tenga más interés en la conservación de los bienes del ausente.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 537.
 
-El representante del ausente es el legítimo administrador de los bienes de éste y tiene, respecto de ellos, las mismas obligaciones, facultades y restricciones que los tutores.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-No entrará a la administración de los bienes sin que previamente forme inventario y avalúo de ellos, y si dentro del término de un mes no presenta la caución correspondiente, se nombrará otro representante.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 538.
 
-No pueden ser representantes de un ausente los que no puedan ser tutores. Pueden excusarse los que puedan hacerlo de la tutela. Será removido el representante por las mismas causas que los tutores.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 539.
 
-El cargo de representante termina:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Con el regreso del ausente.
-
-II.- Con la presentación del apoderado legítimo.
-
-III.- Con la muerte del ausente.
-
-IV.- Con la posesión provisional.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 540.
 
-Todos los años, en el día que corresponda a aquél en que hubiere sido nombrado el representante, éste promoverá la publicación de nuevos edictos llamando al ausente. En ellos constará el nombre y domicilio del representante y el número de años que falten para que se cumpla el plazo que señalan los artículos 543 y 544 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 541.
 
-Los edictos se publicarán dos veces, con intervalos de un mes, en los principales periódicos del último domicilio del ausente; y se remitirán a los cónsules, como previene el artículo 527 de este código. La publicación en el diario oficial del gobierno del Estado se hará sin costo alguno.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 542.
 
-El representante está obligado a promover la publicación de los edictos. La falta de cumplimiento de esa obligación, hace responsable al representante de los daños y perjuicios que se sigan al ausente y es causa legítima de remoción.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO II. DE LA DECLARACION DE AUSENCIA
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 543.
 
-Pasados dos años desde el día en que haya sido nombrado el representante, habrá acción para pedir la declaración de ausencia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 544.
 
-En caso de que el ausente haya dejado o nombrado apoderado general para la administración de sus bienes, no podrá pedirse la declaración de ausencia sino pasados dos años, que se contarán desde la desaparición del ausente, si en este período no se tuviere ninguna noticia suya, o desde la fecha en que se hayan tenido las últimas.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 545.
 
-Lo dispuesto en el artículo anterior, se observará aun cuando el poder se haya conferido por más de dos años.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 546.
 
-Pasados dos años que se contarán del modo establecido en el artículo 543 de este código, el ministerio público y las personas que designa el artículo siguiente, pueden pedir que el apoderado garantice, en los mismos términos en que debe hacerlo el representante. Si no lo hiciere se nombrará representante de acuerdo con lo dispuesto en los artículos 534, 535 y 536 del mismo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 547.
 
-Pueden pedir la declaración de ausencia:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Los presuntos herederos legítimos del ausente.
-
-II.- Los herederos instituidos en testamento público abierto.
-
-III.- Los que tengan algún derecho u obligación que dependan de la vida, muerte o presencia del ausente.
-
-IV.- El ministerio público.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 548.
 
-Si el juez encuentra fundada la demanda, dispondrá que se publique su extracto durante tres meses, con intervalos de quince días, en el diario oficial que corresponda y en uno de los principales del último domicilio del ausente; y la remitirá a los cónsules conforme el artículo 527 de este código. La publicación en el diario oficial del gobierno del Estado se hará sin costo alguno.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 549.
 
-Pasados cuatro meses desde la fecha de la última publicación, si no hubiere noticias del ausente ni oposición de algún interesado, el juez declarará en forma la ausencia. La resolución que declare la ausencia podrá ser apelada conforme al código de procedimientos civiles.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 550.
 
-Si hubiere algunas noticias u oposición, el juez no declarará la ausencia sin repetir las publicaciones que establece el artículo 548 de este código, y hacer la averiguación por los medios que el oponente proponga, y por los que el mismo juez crea oportunos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 551.
 
-La declaración de ausencia se publicará tres veces en los periódicos mencionados con intervalos de quince días, remitiéndose a los cónsules como está prevenido respecto de los edictos. Ambas publicaciones se repetirán cada dos años, hasta que se declare la presunción de muerte.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 552.
 
-Declarada la ausencia, el representante del ausente continuará en posesión de los bienes de éste, entre tanto se declara la presunción de muerte.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO III. DE LA PRESUNCION DE MUERTE DEL AUSENTE
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 553.
 
-Cuando hayan transcurrido cuatro años desde la declaración de ausencia, el juez, a instancia de parte interesada, declarará la presunción de muerte.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-Respecto de los individuos que hayan desaparecido al tomar parte en una guerra, encontrándose a bordo de un buque que naufrague, de una nave destruida, o accidentada, o al verificarse una explosión, incendio, terremoto, inundación u otros siniestros semejantes, bastará que hayan transcurrido dos años, contados desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en esos casos sea necesario que previamente se declare la ausencia; pero sí se tomarán las medidas provisionales a que se refiere el capítulo I de este título.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 554.
 
-Declarada la presunción de muerte si hubiere testamento la persona en cuyo poder se encuentre lo presentará al juez, dentro de quince días contados desde la publicación de la sentencia que establezca la presunción.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 555.
 
-Si el testamento fuere público cerrado u ológrafo el juez de oficio o a instancia de cualquiera que se crea interesado en el testamento, abrirá éste en presencia del representante del ausente con citación de los que promovieron la declaración de ausencia, y con las demás solemnidades prescritas para la apertura de esta clase de testamentos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 556.
 
-Los herederos testamentarios, y en su defecto los que lo fueren legítimos al tiempo de la desaparición del ausente o al tiempo en que se hayan recibido las últimas noticias, serán puestos en posesión provisional de los bienes, previa caución que asegure las resultas de la administración, si fueren mayores, si estuvieren bajo la patria potestad o tutela, se procederá conforme a derecho.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 557.
 
-Si son varios los herederos y los bienes admiten cómoda división, cada uno administrará la parte que le corresponda.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 558.
 
-Si los bienes no admiten cómoda división, los herederos elegirán entre ellos mismos un administrador general; y si no se pusieren de acuerdo, el juez lo nombrará escogiéndole de entre los mismos herederos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 559.
 
-Si una parte de los bienes fuere cómodamente divisible y otra no, respecto de ésta se nombrará el administrador general.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 560.
 
-Los herederos que no administren podrán nombrar un interventor que tendrá las facultades y obligaciones señaladas a los curadores. Sus honorarios será el que se fija a los interventores testamentarios y lo pagará la masa común.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 561.
 
-El que entre en la posesión provisional, tendrá respecto de los bienes, las mismas obligaciones, facultades y restricciones que los tutores.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 562.
 
-En el caso del artículo 557 de este código, cada heredero dará la caución que corresponda a la parte de bienes que administre; en el caso del artículo 558 del mismo, el administrador general será quien dé la caución legal.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 563.
 
-Los legatarios, los donatarios y todos los que tengan sobre los bienes del ausente derechos que dependan de la muerte o presencia de éste, podrán ejercerlos dando la caución que corresponda según el artículo 415 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 564.
 
-Los que tengan con relación al ausente obligaciones que deban cesar a la muerte de éste, podrán también suspender su cumplimiento bajo la misma caución.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 565.
 
-Si no pudiere darse la caución prevenida en los artículos 556 y del 561 al 564 de este código, el juez, según las circunstancias de las personas y de los bienes y concediendo el plazo fijado en el artículo 417 del mismo, podrá disminuir el importe de aquélla, pero de modo que no sea menor de la tercera parte de los valores señalados en el artículo 415 de este ordenamiento.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 566.
 
-Mientras no se dé la expresada caución, no cesará la administración del representante.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 567.
 
-No están obligados a dar garantías:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- El cónyuge, los descendientes y los ascendientes que como herederos entren en la posesión de los bienes del ausente, por la parte que en ellos les corresponda.
-
-II.- El ascendiente que, en ejercicio de la patria potestad, administre bienes que correspondan a sus descendientes, como herederos del ausente. Si hubiere legatarios, el cónyuge, los descendientes y ascendientes darán la garantía legal por la parte de bienes que correspondan a los legatarios, si no hubiere división ni administrador general.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 568.
 
-Los que entren en la posesión provisional tienen derecho de pedir cuentas al representante del ausente, y éste entregará los bienes y dará las cuentas en los términos prevenidos en los capítulos IX y X del título sexto de este libro. El plazo señalado por el artículo 497 de este código, se contará desde el día en que el heredero haya sido declarado con derecho a la referida posesión.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 569.
 
-Si declarada la presunción de muerte, no se presentaren herederos del ausente, el ministerio público pedirá la continuación del representante o la elección de otro que en nombre del fisco del Estado, entre en la posesión provisional, conforme a los artículos que anteceden.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 570.
 
-Muerto el que haya obtenido la posesión provisional, le sucederán sus herederos en la parte que les haya correspondido, bajo las mismas condiciones y con iguales garantías.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 571.
 
-Si el ausente se presenta o se prueba su existencia, antes de que sea declarada la presunción de muerte, recobrará sus bienes con deducción de la mitad de los frutos y rentas, que quedarán a beneficio de los que hayan tenido la posesión provisional.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 572.
 
-Si se llega a probar la muerte del ausente, la herencia se defiere a los que deban heredarle al tiempo de ella; pero el poseedor o poseedores de los bienes hereditarios, al restituirlos, se reservarán la mitad de los frutos correspondientes a la época de la posesión provisional.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 573.
 
-Cuando hecha la declaración de ausencia o la de presunción de muerte de una persona, se hubiesen aplicado sus bienes a sus herederos legítimos en caso de no haber testamento, y después se presentaren otros pretendiendo que ellos deben ser preferidos en la herencia y así se declare por sentencia que cause ejecutoria, la entrega de los bienes se hará a éstos en los mismos términos en que, según el artículo 571 de este código, debiera hacerse al ausente si se presentare.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 574.
 
-Los poseedores provisionales darán cuenta al ausente y a sus herederos. El plazo legal correrá desde el día en que el primero se presente por sí o por apoderado legítimo, o desde aquél en que por sentencia que cause ejecutoria, se haya deferido la herencia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 575.
 
-La posesión provisional termina:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Con el regreso del ausente.
-
-II.- Con la noticia cierta de su existencia.
-
-III.- Con la certidumbre de su muerte.
-
-IV.- Con la sentencia que cause ejecutoria en el caso del artículo 573 de este código.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 576.
 
-En el caso de la fracción II del artículo anterior, los poseedores provisionales serán considerados como representantes del ausente desde el día en que se tenga noticia cierta de la existencia de éste.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 577.
 
-En el caso de la fracción III del artículo 575 de este código, los poseedores provisionales deberán solicitar la declaración de muerte del ausente.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 578.
 
-La sentencia que declare la presunción de muerte de un ausente casado, pone término a la sociedad conyugal.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 579.
 
-Pasados cuatro años de la declaración de presunción de muerte, los poseedores provisionales de los bienes del ausente adquirirán la posesión definitiva de los mismos y podrán pedir al juez la cancelación de las garantías que otorgaron para adquirir la posesión provisional.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 580.
 
-La posesión definitiva sólo termina con el regreso del ausente.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-Este recibirá sus bienes en el estado en que se encuentren, sin derecho a reclamación alguna contra los poseedores definitivos.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 581.
 
-Los poseedores definitivos se considerarán como dueños de los bienes del ausente y podrán disponer libremente de ellos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO IV. DISPOSICIONES GENERALES
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 582.
 
-El representante y los poseedores provisionales, en sus respectivos casos, tienen la legítima procuración del ausente, en juicio y fuera de él. Todos los actos que ejecuten dentro de la órbita de sus facultades legales, son válidos y obligan al ausente.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 583.
 
-Por causa de ausencia, no se suspenden los términos que fija la ley para la prescripción.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 584.
 
-El ausente y sus herederos tienen acción para reclamar los daños y perjuicios que el representante o los poseedores provisionales hayan causado por exceso en sus facultades, culpa o negligencia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 585.
 
-El ministerio público velará por los intereses del ausente y será oído en todos los procedimientos que tengan relación con él y en las declaraciones de ausencia y presunción de muerte.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
 # LIBRO SEGUNDO. DE LA POSESION Y PROPIEDAD DE LOS BIENES
 
@@ -11575,2211 +11999,2959 @@ Para que el registro pueda ser cancelado por consentimiento de las partes, se re
 
 Si para cancelar el registro se pusiere alguna condición, se requiere, además, el cumplimiento de ésta.
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
+
 # LIBRO CUARTO. DE LAS SUCESIONES
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ## TITULO PRIMERO. DE LA HERENCIA Y DE LOS HEREDEROS Y LEGATARIOS
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
+
 ### CAPITULO I. DE LA HERENCIA
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2196.
 
-Herencia es la sucesión en todos los bienes del difunto y en todos sus derechos y obligaciones que no se extinguen por la muerte.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2197.
 
-La herencia se defiere por la voluntad del testador o por disposición de la ley. La primera se llama testamentaria y la segunda legítima.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2198.
 
-El testador puede disponer del todo o de parte de sus bienes. La parte de que no disponga quedará regida por los preceptos de la sucesión legítima.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO II. DE LOS HEREDEROS Y LEGATARIOS
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 2199.
 
-El heredero adquiere a título universal y responde de las cargas de la herencia hasta donde alcance la cuantía de los bienes que hereda.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2200.
 
-El legatario adquiere a título particular y no tiene más cargas que las que expresamente le imponga el testador, sin perjuicio de su responsabilidad subsidiaria con los herederos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2201.
 
-Cuando toda la herencia se distribuya en legados, los legatarios serán considerados como herederos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2202.
 
-Si el autor de la herencia y sus herederos o legatarios perecieren en el mismo desastre o en el mismo día, sin que se pueda averiguar a ciencia cierta quiénes murieron antes, se tendrán todos por muertos al mismo tiempo y no habrá lugar entre ellos a la transmisión de la herencia o legado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2203.
 
-A la muerte del autor de la sucesión los herederos adquieren derecho a la masa hereditaria como a un patrimonio común, mientras no se haga la división.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2204.
 
-Cada heredero puede disponer del derecho que tiene en la masa hereditaria, pero no puede disponer de las cosas que forman la sucesión.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2205.
 
-El legatario adquiere derecho al legado puro y simple así como al de día cierto, desde el momento de la muerte del testador.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2206.
 
-El heredero o legatario no puede enajenar su parte en la herencia sino después de la muerte de aquél a quien hereda.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2207.
 
-El heredero de parte de los bienes que quiera vender a un extraño su derecho hereditario, debe notificar a sus coherederos por medio de un notario, o judicialmente, las bases o condiciones en que se ha concertado la venta, a fin de que aquéllos, dentro del término de ocho días, hagan uso del derecho del tanto; si los herederos hacen uso de ese derecho, el vendedor está obligado a consumar la venta a su favor, conforme a las bases concertadas. Por el solo transcurso de los ocho días se pierde el derecho del tanto. Si la venta se hace omitiéndose la notificación prescrita en este artículo, será nula.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2208.
 
-Si dos o más coherederos quisieren hacer uso del derecho del tanto, se preferirá al que represente mayor porción en la herencia, y si las porciones son iguales, la suerte decidirá quién hace uso del derecho, salvo convenio en contrario.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2209.
 
-El derecho concedido en el artículo 2207 de este código, no será necesario si la enajenación se hace a un coheredero.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ## TITULO SEGUNDO. DE LAS SUCESIONES POR TESTAMENTO
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
+
 ### CAPITULO I. DISPOSICIONES GENERALES
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2210.
 
-Testamento es un acto personalísimo, revocable y libre, por el cual una persona capaz dispone de sus bienes y derechos y declara o cumple deberes para después de su muerte.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2211.
 
-No pueden testar en el mismo acto dos o más personas, ya en provecho recíproco, ya en favor de un tercero.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2212.
 
-Ni la subsistencia del nombramiento del heredero o de los legatarios, ni la designación de las cantidades que a ellos corresponda, pueden dejarse al arbitrio de un tercero.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2213.
 
-Puede el testador encomendar a un tercero la distribución de las cantidades que se deje a clases determinadas como pobres, huérfanos, etcétera, y la elección de las personas a quienes aquéllas deben aplicarse. Puede también encomendar el testador a un tercero la elección de objetos o establecimientos públicos o de beneficencia a los que deje sus bienes y la distribución de las cantidades que a cada uno correspondería. La ley de beneficencia privada fijará los requisitos y condiciones para esta clase de disposiciones.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2214.
 
-La disposición hecha en términos vagos en favor de los parientes del testador, se entenderá que se refiere a los parientes mas próximos, según el orden de la sucesión legítima.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2215.
 
-Las disposiciones hechas a título universal o particular no tienen ningún efecto cuando se funden en una causa expresa, que resulte errónea, si ha sido la única que determinó la voluntad del testador.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2216.
 
-Toda la disposición testamentaria deberá entenderse en el sentido literal de las palabras, a no ser que aparezca con manifiesta claridad que fue otra la voluntad del testador. En caso de duda sobre la inteligencia o interpretación de una disposición testamentaria, se observará lo que aparezca más conforme a la intención del testador, según el tenor del testamento y la prueba auxiliar que a este respecto pueda rendirse por los interesados.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2217.
 
-Si un testamento se pierde por un evento ignorado por el testador, o por haber sido ocultado por otra persona, podrán los interesados exigir su cumplimiento si demuestran plenamente el hecho de la pérdida o de la ocultación, logran igualmente comprobar lo contenido en el mismo testamento y que en su otorgamiento se llenaron todas las formalidades legales.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2218.
 
-La expresión de una causa contraria a derecho, aunque sea verdadera, se tendrá por no escrita.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO II. DE LA CAPACIDAD PARA TESTAR
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 2219.
 
-La ley sólo reconoce capacidad para testar, a las personas que tienen:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Perfecto conocimiento del acto.
-
-II.- Perfecta libertad al ejecutarlo, esto es, exenta de toda intimidación y de toda influencia moral.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2220.
 
-Por falta del primero de los requisitos mencionados, en el artículo que precede, la ley considera incapaces de testar:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Al menor de dieciséis años de edad.
-
-II.- Al que habitual o accidentalmente se encuentre en estado de enajenación mental, mientras dure el impedimento.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2221.
 
-Es válido el testamento hecho por un demente en un intervalo lúcido con tal que se observen las prescripciones siguientes:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Siempre que un demente pretenda hacer testamento, su tutor o en defecto de éste, la familia de aquél, presentará solicitud por escrito al juez, quien acompañado de dos facultativos que nombre el propio juez, se trasladará a la casa del paciente.
-
-II.- Los facultativos y el juez, examinarán al enfermo, haciéndole cuantas preguntas estimen convenientes a fin de cerciorarse de su capacidad para testar.
-
-III.- Del reconocimiento se levantará acta formal en que se hará constar el resultado.
-
-IV.- Si éste fuere favorable, se procederá desde luego al otorgamiento del testamento ante notario, con las demás solemnidades que se requieren para los testamentos públicos abiertos.
-
-V.- Terminado el otorgamiento se pondrá razón expresa de que durante todo el acto conservó el paciente perfecta lucidez de juicio, firmando además de el interesado, los testigos, el juez, los facultativos y finalmente el notario autorizante, sin cuyo requisito y constancia será nulo el testamento.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2222.
 
-Por falta del segundo de los requisitos mencionados en el artículo 2219 de este código, la ley considera incapaz de testar a los que al ejecutarlo obran bajo la influencia de amenazas contra su vida, su libertad, su honra o sus bienes, o contra la vida, libertad, honra o bienes de su cónyuge o de sus parientes en cualquier grado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO III. DE LA CAPACIDAD PARA HEREDAR
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 2223.
 
-Todos los habitantes del Estado tienen capacidad para heredar; pero pueden perderla por alguna de las causas siguientes:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- La falta de personalidad.
-
-II.- El delito.
-
-III.- La presunción de influencia contraria a la libertad del testador, o a la verdad o integridad del testamento.
-
-IV.- La falta de reciprocidad internacional.
-
-V.- La utilidad pública.
-
-VI.- La renuncia o remoción de algún cargo conferido en el testamento.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2224.
 
-Por falta de personalidad son incapaces de adquirir por testamento y por intestado, los que no estén concebidos al tiempo de la muerte del autor de la herencia o que aun cuando lo estén, no sean viables conforme a lo dispuesto en el artículo 254 de este código, o nacieren después de trescientos días contados desde la muerte de aquél.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2225.
 
-Será no obstante válida la disposición hecha en favor de los hijos que nacieren de ciertas y determinadas personas vivas al tiempo de la muerte del testador, pero no valdrá la que se haga en favor de los descendientes de ulteriores grados.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2226.
 
-Por razón de delito son incapaces para adquirir por testamento o por intestado:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
-
-I.- El condenado por haber dado, mandado o intentado dar muerte a la persona de cuya sucesión se trate, o a los padres, hijos, cónyuge o hermanos de ella.
-
-II.- El que haya hecho contra el autor de la sucesión o contra su cónyuge, ascendientes, descendientes o hermanos, acusación de delito que merezca pena capital o de prisión, aun cuando aquella sea fundada, a no ser que ese acto haya sido preciso para que el acusador se salvara de dicha pena o salvase a alguno de sus descendientes o ascendientes o hermanos o cónyuge.
-
-III.- El cónyuge que sobrevive y haya sido declarado adúltero en juicio durante la vida del otro, si se tratare de la sucesión del cónyuge inocente.
-
-IV.- El padre y la madre respecto del hijo abandonado por ellos.
-
-V.- El que hubiere cometido contra el difunto, sus hijos, su cónyuge o sus padres un atentado por el que deba ser castigado criminalmente, si así se declara en juicio.
-
-VI.- El que usare de violencia con el autor de la herencia para que haga, deje de hacer o revoque su testamento.
-
-VII.- El padre y la madre respecto de sus hijos nacidos fuera de matrimonio y de los descendientes de éstos, si no han reconocido a aquéllos o los reconocieren después de muerto el autor de la herencia.
-
-VIII.- El que, conforme al código de defensa social, fuere culpable de supresión, sustitución o suposición de infante, siempre que se trate de la herencia que debía corresponder a éste o a las personas a quienes se haya perjudicado o intentado perjudicar con esos actos.
-
-IX.- El coautor del cónyuge adúltero, ya sea que se trate de la sucesión de dicho cónyuge adúltero o del cónyuge inocente.
-
-X.- Los padres que abandonaren o prostituyeran a sus hijos o atentaren a su pudor respecto de los ofendidos.
-
-XI.- Los demás parientes del autor de la herencia que, teniendo obligación de darle alimentos no lo hubieren cumplido.
-
-XII.- Los parientes del autor de la herencia que, hallándose éste imposibilitado para trabajar y sin recursos, no se cuidaren de recogerlo o de hacerlo recoger en establecimiento de beneficencia.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2227.
 
-Cuando la parte agraviada de cualquiera de los modos que expresa el artículo anterior, perdonare al ofensor recobrará éste el derecho de suceder al ofendido por intestado, si el perdón consta por declaración auténtica o por hechos indudables.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2228.
 
-La capacidad para suceder por testamento, sólo se recobra si después de conocido el agravio, el ofendido instituye heredero al ofensor o revalida su institución con las mismas solemnidades que se exigen para testar.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2229.
 
-Por presunción de influjo contrario a la libertad del autor de la herencia, son incapaces de adquirir por testamento del menor, los tutores y curadores, a no ser que sean instituidos antes de ser nombrados para el cargo o después de la mayor edad de aquél y estando ya aprobadas las cuentas de la tutela.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2230.
 
-La incapacidad a que se refiere el artículo anterior, no comprende a los ascendientes y hermanos del menor.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2231.
 
-Por la misma razón en que se funda el artículo 2229 de este código, son incapaces de heredar por testamento el médico o el ministro de cualquier culto que hayan asistido o prestado cualquier clase de auxilio médico o espiritual al autor de la herencia, durante la última enfermedad de la que hubiera fallecido, así como sus cónyuges, ascendientes, descendientes y hermanos de dichos facultativos y ministros. No existirá la prohibición que este artículo establece cuando el médico o el ministro de culto sean herederos legítimos del de cujus.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2232.
 
-El notario a que a sabiendas autorice un testamento en que se contravenga lo dispuesto en los artículos anteriores, será destituído. El juez a quien se presentare el testamento, lo comunicará al ejecutivo y éste impondrá esa pena.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2233.
 
-Por presunción de influjo contrario a la verdad o integridad del testamento, son incapaces de heredar el notario y los testigos que intervinieron en él, y sus cónyuges, descendientes, ascendientes o hermanos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2234.
 
-Los extranjeros y las personas morales son capaces de adquirir bienes por testamento o por intestado; pero su capacidad tiene las limitaciones establecidas en la Constitución Política de los Estados Unidos Mexicanos y en las respectivas leyes reglamentarias de los artículos constitucionales. Tratándose de extranjeros, se observará lo dispuesto en el artículo siguiente.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2235.
 
-Por falta de reciprocidad internacional, son incapaces de heredar por testamento o por intestado, de los habitantes del Estado, los extranjeros que según las leyes de su país no pueden testar o dejar por intestado sus bienes a favor de los mexicanos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2236.
 
-Por causa de utilidad pública son incapaces de adquirir, sea por herencia, sea por legado, las personas a quienes lo prohibe la Constitución Política de la República.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2237.
 
-Son incapaces de heredar por testamento los que, nombrados en él, tutores, curadores o albaceas, hayan rehusado sin causa justa el cargo o por mala conducta hayan sido separados judicialmente de su ejercicio. Lo dispuesto en la primera parte no comprende a los que, desechada por el juez la excusa, hayan servido el cargo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-Las personas llamadas por la ley para desempeñar la tutela legítima y que se rehusen sin causa legítima a desempeñarla, no tienen derecho a heredar a los incapaces de quienes deben ser tutores.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2238.
 
-Para que el heredero pueda suceder, basta que sea capaz al tiempo de la muerte del autor de la herencia salvo lo dispuesto en el artículo inmediato anterior.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2239.
 
-Si la institución fuere condicional, se necesitará además que el heredero sea capaz al tiempo en que se cumpla la condición.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2240.
 
-El heredero testamentario que muere antes que el testador o antes de que se cumpla la condición, el incapaz de heredar y el que renuncia la sucesión no transmite ningún derecho a sus herederos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2241.
 
-En los casos del artículo anterior, la herencia pertenece a los herederos legítimos del testador, a no ser que éste haya dispuesto otra cosa.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2242.
 
-El que herede en lugar del excluido, tendrá las mismas cargas y condiciones que legalmente se habían puesto a aquél.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2243.
 
-El que siendo incapaz de suceder hubiere entrado en posesión de los bienes, deberá restituirlos con todas sus accesiones, y con todos los frutos y rentas que hubiere percibido.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2244.
 
-El incapaz de heredar no tendrá el usufructo ni la administración de los bienes que, en el caso señalado en el artículo 2226 de este código correspondan a sus descendientes.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2245.
 
-Los deudores de la sucesión que fueren demandados, y que en ningún caso puedan tener el carácter de herederos, no podrán oponer al que está en posesión del derecho de heredero o legatario la excepción de incapacidad para heredar.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2246.
 
-A excepción del caso comprendido en la fracción IV del artículo 2227 de este código, la incapacidad para heredar a que se refiere ese artículo priva también de los alimentos que corresponden por ley.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2247.
 
-La incapacidad para heredar no produce el efecto de privar al incapaz de lo que hubiere de percibir, sino después de declarada en juicio a petición de algún interesado. El ministerio público es parte en este caso. No puede deducirse acción para declarar la incapacidad, pasados cinco años desde que el incapaz esté en posesión de la herencia o legado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2248.
 
-Si el que entró en posesión de la herencia y la perdió después por incapacidad, hubiere enajenado o gravado en todo o en parte los bienes antes de ser emplazados en el jucio (sic) en que se discuta su capacidad, y aquél con quien contrató hubiere tenido buena fe, el contrato subsistirá, mas el heredero incapaz estará obligado a indemnizar al que lo sustituya, de todos los daños y perjucios (sic).
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO IV. DE LAS CONDICIONES QUE PUEDEN PONERSE
 
 EN LOS TESTAMENTOS
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 2249.
 
-El testador es libre para establecer condiciones al disponer de sus bienes.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2250.
 
-La falta de cumplimiento de alguna condición impuesta al heredero o al legatario, no perjudicará a éstos siempre que hayan empleado todos los medios necesarios para llenar aquélla.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2251.
 
-La condición física o legalmente imposible de realizar, se tiene por no puesta.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2252.
 
-Si la condición que era imposible al tiempo de otorgarse el testamento, dejare de serlo al de la muerte del testador, será válida.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2253.
 
-Es nula la institución hecha bajo la condición de que el heredero o el legatario haga en su testamento alguna disposición en favor del testador o de otra persona.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2254.
 
-La condición que sólo suspende por cierto tiempo la ejecución del testamento, no impedirá que el heredero o legatario adquieran derecho a la herencia o legado y lo transmitan a sus herederos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2255.
 
-Respecto de las condiciones puestas en los testamentos, regirán las disposiciones relativas a obligaciones condicionales, en todo lo que no esté especialmente determinado en este libro.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2256.
 
-La disposición a término señalado por un acontecimiento que puede no suceder, se reputa hecha bajo la condición de que se verifique aquel acontecimiento.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2257.
 
-Cuando el testador no hubiere señalado plazo para el cumplimiento de la condición, la cosa legada permanecerá en poder del albacea, y al hacerse la partición, se asegurará completamente el derecho del legatario, para el caso de cumplirse la condición, observándose además las disposiciones establecidas para hacer la partición cuando uno de los herederos es condicional.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2258.
 
-Si la condición es puramente potestativa, y de dar o hacer alguna cosa, y el que ha sido gravado con ella ofrece cumplirla, pero aquél a cuyo favor se estableció rehusa aceptar la cosa o el hecho, la condición se tiene por cumplida.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2259.
 
-La condición potestativa se tendrá por cumplida aun cuando el heredero o legatario hayan prestado la cosa o el hecho antes de que se otorgara el testamento; a no ser que pueda reiterarse la prestación, en cuyo caso no será ésta obligatoria sino cuando el testador haya tenido conocimiento de la primera.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2260.
 
-En el caso final del artículo que precede, corresponde al que debe pagar el legado la prueba de que el testador tenía conocimiento de la primera prestación.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2261.
 
-La condición de no impugnar el testamento, so pena de perder el carácter de heredero o legatario, y en general la de no dar o de no hacer, se tendrá por no puesta.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2262.
 
-Cuando la condición fuere casual o mixta, bastará que se realice en cualquier tiempo, vivo o muerto el testador, si éste no hubiere dispuesto otra cosa.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2263.
 
-Si la condición se había cumplido al hacerse el testamento ignorándolo el testador, se tendrá por cumplida; más si lo sabía, sólo se tendrá por cumplida si ya no puede existir o cumplirse de nuevo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2264.
 
-La condición impuesta al heredero o legatario, de tomar o dejar de tomar estado, se tendrá por no puesta.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2265.
 
-Puede válidamente dejarse a alguno el usufructo, o una pensión o prestación periódica por el tiempo que permanezca soltero o viudo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2266.
 
-La condición que se ha cumplido existiendo la persona a quien se impuso, se retrotrae al tiempo de la muerte del testador y desde entonces deben abonarse los frutos de la herencia o legado, a menos que el testador haya dispuesto expresamente otra cosa.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2267.
 
-La carga de hacer alguna cosa se considera como condición resolutoria.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2268.
 
-Si no se hubiere señalado tiempo para el cumplimiento de la carga, ni ésta por su propia naturaleza lo tuviere, se observará lo dispuesto en el artículo 2257 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2269.
 
-Si el legado fuere de prestación periódica, que debe concluir en un día que es inseguro si llegara o no, llegando el día, el legatario habrá hecho suyas todas las prestaciones que correspondan hasta aquel día.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2270.
 
-Si el día en que debe comenzar el legado fuere seguro, sea que se sepa o no cuándo ha de llegar, el que ha de entregar la cosa legada tendrá, respecto de ella, los derechos y las obligaciones del usufructuario.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2271.
 
-En el caso del artículo anterior, si el legado consiste en prestación periódica, el que debe pagarlo hace suyo todo lo correspondiente al intermedio, y cumple con hacer la prestación comenzando el día señalado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2272.
 
-Cuando el legado debe concluir en un día que es seguro que ha de llegar, se entregará la cosa o cantidad legada al legatario, quien se considerará como usufructuario de ella.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2273.
 
-Si el legado consistiere en prestación periódica, el legatario hará suyas todas las cantidades vencidas hasta el día señalado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO V. DE LOS BIENES DE QUE PUEDE DISPONERSE POR TESTAMENTO
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 2274.
 
-El testador debe dejar alimentos a las personas que se mencionan en las fracciones siguientes:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- A los descendientes respecto de los cuales tenga obligación legal de proporcionar alimentos al momento de la muerte.
-
-II.- Al cónyuge supérstite cuando esté impedido de trabajar y no tenga bienes suficientes. Salvo otra disposición expresa del testador este derecho subsistirá en tanto no contraiga matrimonio y viva honestamente.
-
-III.- A los ascendientes.
-
-> <small>(REFORMADA, D.O. 8 DE ABRIL DE 2011)</small>
-
-IV.- A la persona con quien el testador vivió como si fuera su cónyuge durante los dos años que precedieron inmediatamente a su muerte o con quien tuvo hijos, siempre que ambos hayan permanecido libres del matrimonio durante el concubinato y que el superviviente esté impedido de trabajar y no tenga bienes suficientes. Este derecho sólo subsistirá mientras la persona de que se trata no contraiga nupcias y observe buena conducta. Si fueran varias las personas con quien el testador vivió como si fueran su cónyuge, ninguna de ellas tendrá derecho a alimentos.
-
-V.- A los hermanos y demás parientes colaterales dentro del cuarto grado, si están incapacitados o mientras no cumplan 18 años, si no tienen bienes para subvenir a sus necesidades.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2275.
 
-No hay obligación de dejar alimentos a los descendientes, sino a falta o por imposibilidad de ascendientes más próximos en grado. Tampoco hay obligación de dejar alimentos a los ascendientes, sino a falta o por imposibilidad del más próximo descendiente.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2276.
 
-No hay obligación de dejar alimentos, cuando los descendientes, ascendientes o cónyuge supérstite tengan bienes propios; pero si teniéndolos, su producto no iguala a la pensión que debería corresponderles, la obligación se reducirá a lo que falte para completarla.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2277.
 
-Para tener el derecho de ser alimentado, se necesita encontrarse al tiempo de la muerte del testador en alguno de los casos fijados en el artículo 2274 de este código, y cesa ese derecho tan luego como el interesado deje de estar en las condiciones a que se refiere el mismo artículo, observe mala conducta o adquiera bienes propios, aplicándose en este caso lo dispuesto en el artículo anterior.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2278.
 
-El derecho de percibir alimentos no es renunciable ni puede ser objeto de transacción. La pensión alimenticia se fijará y asegurará conforme a lo dispuesto en los artículos 235, 238 y 244 de este código y, por ningún motivo excederá de los productos de la porción que en caso de sucesión intestada, correspondería al que tenga derecho a dicha pensión, ni bajará de la mitad de esos productos. Si el testador hubiere fijado la pensión alimenticia, subsistirá su designación, cualquiera que sea siempre que no baje del mínimo establecido. Con excepción de los artículos citados en el presente capítulo, no son aplicables a los alimentos debidos por sucesión las disposiciones del capítulo II título tercero del libro primero de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2279.
 
-Cuando el caudal hereditario no fuere suficiente para dar alimentos a todas las personas enumeradas en el artículo 2274 de este código, se observarán las reglas siguientes:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Se ministrará a los descendientes y al cónyuge supérstite o la concubina o cuncubinario (sic) a prorrata.
-
-II.- Cubiertas las pensiones a que se refiere la fracción anterior, se ministrarán a prorrata a los ascendientes.
-
-III.- Después se ministrarán tambien a prorrata a los hermanos y sobrinos.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2280.
 
-Es inoficioso el testamento en que no se deja la pensión alimenticia, según lo establecido en este capítulo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2281.
 
-El acreedor alimentista preterido tendrá solamente derecho a que se le dé la pensión que le corresponda, subsistiendo el testamento en todo lo que no perjudique ese derecho.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2282.
 
-La pensión alimenticia es carga de la masa hereditaria, excepto cuando el testador haya gravado con ella a alguno o algunos de los partícipes en la sucesión.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2283.
 
-No obstante lo dispuesto en el artículo 2281 de este código, el hijo póstumo tendrá derecho a percibir íntegra la porción que le correspondería como heredero legítimo si no hubiera testamento, a menos que el testador hubiere dispuesto expresamente otra cosa.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2284.
 
-No puede disponerse por testamento de los bienes que constituyen el patrimonio de la familia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO VI. DE LA INSTITUCION DE HEREDERO
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 2285.
 
-El testamento otorgado legalmente, será válido aunque no contenga institución de heredero o aunque el nombrado no acepte la herencia o sea incapaz de heredar.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2286.
 
-En los tres casos señalados en el artículo anterior, se cumplirán las demás disposiciones testamentarias que estuvieren hechas conforme a las leyes.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2287.
 
-Los herederos instituidos sin designación de la parte que a cada uno corresponda, heredarán por partes iguales.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2288.
 
-El heredero instituido en cosa cierta y determinada debe tenerse por legatario.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2289.
 
-Aunque el testador nombre a algunos herederos individualmente y otros colectivamente, los colectivamente nombrados se considerarán como si lo fuesen individualmente, a no ser que se conozca de un modo claro que ha sido otra la voluntad del testador.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2290.
 
-Si el testador instituye a sus hermanos y los tiene sólo de padre, sólo de madre, y de padre y madre, se dividirá la herencia como en el caso de intestado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2291.
 
-Si el testador llama a la sucesión a cierta persona y sus hijos, se entenderán todos instituidos simultánea y no sucesivamente.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2292.
 
-El heredero debe ser instituido designándolo por su nombre y apellido, y si hubiere varios que tengan el mismo nombre y apellido, deben agregarse otros nombres y circunstancias que distingan al que se quiere nombrar.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2293.
 
-Aunque se haya omitido el nombre del heredero, si el testador lo designare de modo que no pueda dudarse de quién sea, valdrá la institución.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2294.
 
-El error en el nombre, apellido o cualidades del heredero no vicia la institución, si de otro modo se supiere ciertamente cuál es la persona nombrada.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2295.
 
-Si entre varios individuos del mismo nombre y circunstancias no pudiere saberse a quién quiso designar el testador, ninguno será heredero.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2296.
 
-El heredero no responde de las deudas, de los legados, ni de las demás cargas hereditarias o testamentarias, sino hasta donde alcance la cuantía de los bienes que hereda.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2297.
 
-Toda disposición en favor de persona incierta o sobre cosa que no pueda identificarse, será nula, a menos que por algún evento puedan resultar ciertas.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO VII. DE LOS LEGADOS
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 2298.
 
-Cuando no haya disposiciones especiales, los legatarios se regirán por las mismas normas que los herederos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2299.
 
-El legado puede consistir en la prestación de cosa o en la de un hecho o servicio.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2300.
 
-El acreedor cuyo crédito no conste más que por el testamento, se tendrá para los efectos legales como legatario preferente.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2301.
 
-El testador puede gravar con legados, no sólo a los herederos, sino a los mismos legatarios, quienes no están obligados a responder del gravamen sino hasta donde alcance el valor de su legado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2302.
 
-Si el heredero o legatario renunciaren la sucesión, la carga que se les haya impuesto se pagará sólo con la cantidad a que tenía derecho el que renunció.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2303.
 
-Si la carga consiste en hecho, el heredero o legatario que acepta la sucesión queda obligado a prestarlo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2304.
 
-Si el legatario a quien se impuso algún gravamen no recibe todo el legado, se reducirá la carga proporcionalmente, si sufre evicción, podrá repetir lo que haya pagado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2305.
 
-Es nulo el legado que el testador hace de cosa individualmente determinada, que al tiempo de su muerte no se halle en su herencia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2306.
 
-Si la cosa mencionada en el artículo que precede, existe en la herencia, pero no en la cantidad o número designados, tendrá derecho el legatario a lo que hubiere.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2307.
 
-El legado queda sin efecto si la cosa legada perece del todo, viviendo el testador, si se pierde por evicción, y si perece después de la muerte del testador, sin culpa del heredero.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2308.
 
-Los legados de usufructo o servidumbre, subsistirán mientras viva el legatario, a no ser que el testador haya dispuesto expresamente otra cosa.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2309.
 
-Solo duran veinte años los legados de que trata el artículo anterior, si fueren dejados a alguna corporación que tuviere capacidad de adquirirlos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2310.
 
-El legado de cosa o cantidad depositada en el lugar designado, sólo subsistirá en la parte que en él se encuentre.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2311.
 
-Si la cosa legada está dada en prenda o hipoteca, o lo fuere después de otorgado el testamento, el desempeño o la retención serán a cargo de la herencia, a no ser que el testador haya dispuesto expresamente otra cosa. Si por no pagar el obligado, conforme el párrafo anterior lo hiciera el legatario, quedará éste subrogado en el lugar y derechos del acreedor para reclamar contra aquel. Cualquier otra carga perpetua o temporal, a que se haya afecta la cosa legada, pasa con esta al legatario, pero en ambos casos las rentas y los réditos devengados hasta la muerte del testador son cargas de la herencia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2312.
 
-El legado hecho a un tercero de un crédito a favor del testador, sólo produce efecto en la parte del crédito que esté insoluto al tiempo de abrirse la sucesión.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2313.
 
-En el caso del artículo anterior, el que deba cumplir el legado entregará al legatario el título del crédito y le cederá todas las acciones que en virtud de él correspondan al testador.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2314.
 
-El que debe pagar el legado no está obligado al saneamiento ni a ninguna otra responsabilidad, ya provenga ésta del mismo título, ya de insolvencia del deudor o de sus fiadores, ya de otra causa.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2315.
 
-El legado de que habla el artículo 2312 de este código comprende los intereses que por el crédito se deban a la muerte del testador.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2316.
 
-Dichos legados subsistirán aunque el testador haya demandado judicialmente al deudor, si el pago no se ha realizado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2317.
 
-El legado genérico de liberación o perdón de las deudas, comprende sólo las existentes al tiempo de otorgarse el testamento, no las posteriores.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2318.
 
-En el legado de alimentos, si el testador no señaló cantidad, se observará lo dispuesto en el capítulo II, título tercero, del libro primero de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2319.
 
-En los legados alternativos la elección corresponde al heredero, si el testador no la concede expresamente al legatario.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2320.
 
-Si el heredero tiene la elección, puede entregar la cosa de menor valor; si la elección corresponde al legatario, puede exigir la cosa de mayor valor.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2321.
 
-En los legados alternativos se observará además lo dispuesto para las obligaciones alternativas.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2322.
 
-En todos los casos en que el que tenga derecho de hacer la elección no pudiere hacerla, la hará su representante legítimo o sus herederos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2323.
 
-El juez, a petición de parte legítima, hará la elección, si en el término que él señale no la hiciere la persona que tenga derecho de hacerla.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2324.
 
-La elección hecha legalmente es irrevocable.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2325.
 
-El legatario no puede aceptar una parte del legado y repudiar otra.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2326.
 
-Si el legatario muere antes de aceptar el legado y deja varios herederos, puede uno de éstos aceptar y otro repudiar la parte que le corresponda en el legado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2327.
 
-Si se dejaren dos legados y uno fuere oneroso, el legatario no podrá renunciar éste y aceptar el que no lo sea. Si los dos son onerosos o gratuitos, es libre para aceptarlos todos o repudiar el que quiera.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2328.
 
-El heredero que sea al mismo tiempo legatario, puede renunciar la herencia y aceptar el legado o renunciar éste y aceptar aquélla.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2329.
 
-El legatario adquiere derecho al legado puro y simple, así como al de día cierto, desde el momento de la muerte del testador, y lo transmite a sus herederos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2330.
 
-El legatario puede exigir que el heredero afiance en todos los casos en que puede exigirlo el acreedor.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2331.
 
-El error acerca del nombre de la persona o acerca de la cosa legada, no anula el legado si puede demostrarse cuál fue la intención del testador.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2332.
 
-El error en el nombre, apellido o cualidades del legatario, no vicia la institución, si de otro modo se supiere ciertamente cual es la persona nombrada.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2333.
 
-Si la cosa legada estuviere en poder del legatario, podrá éste retenerla, sin perjuicio de devolver, en caso de reducción, lo que corresponda conforme a derecho.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2334.
 
-Los legados en dinero deben pagarse en esa especie; y si no la hay en la herencia, con el producto de los bienes que al efecto se vendan.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2335.
 
-Los gastos necesarios para la entrega de la cosa legada serán a cargo del legatario, salvo disposición del testador en contrario.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2336.
 
-El importe de las contribuciones correspondientes al legado, se deducirá del valor de éste, a no ser que el testador disponga otra cosa.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2337.
 
-Si toda la herencia se distribuyere en legados, se prorratearán las deudas y gravámenes de ella, entre todos los partícipes en proporción de sus cuotas, a no ser que el testador hubiere dispuesto otra cosa.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2338.
 
-Si los bienes de la herencia no alcanzan para cubrir todos los legados, el pago se hará en el orden siguiente:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Legados remuneratorios.
-
-II.- Legados que el testador o la ley declaren preferentes.
-
-III.- Legados de cosa cierta y determinada.
-
-IV.- Legados de alimentos.
-
-V.- Los demás a prorrata.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2339.
 
-Los legatarios tienen derecho de reivindicar de cualquier tercero la cosa legada, ya sea mueble o raíz, con tal que sea cierta y determinada.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2340.
 
-El legatario de un bien que perece incendiado después de la muerte del testador, tiene derecho de recibir la indemnización del seguro si la cosa estaba asegurada.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2341.
 
-Si se declara nulo el testamento después de pagado el legado, la acción del verdadero heredero para recobrar la cosa legada procede contra el legatario y no contra el otro heredero, a no ser que éste haya hecho con dolo la partición.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2342.
 
-El legado hecho a un acreedor no compensa su crédito, a no ser que el testador lo declare expresamente. En caso de compensación si los valores fueren diferentes, el acreedor tendrá derecho de cobrar el exceso del crédito o del legado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2343.
 
-Por medio de un legado puede el deudor mejorar la condición de su acreedor, haciendo puro el crédito condicional, hipotecario el simple o exigible desde luego el que lo sea a plazo, pero esta mejora no perjudicará en manera alguna los privilegios de los demás acreedores.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2344.
 
-El obligado a la entrega del legado responderá en caso de evicción, si la cosa fuere indeterminada y se señalare solamente por género o especie.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO VIII. DE LAS SUSTITUCIONES
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 2345.
 
-Puede el testador sustituir una o más personas al heredero o herederos instituidos para el caso de que mueran antes que él, o de que no puedan o no quieran aceptar la herencia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2346.
 
-Los sustitutos pueden ser nombrados conjunta o sucesivamente.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2347.
 
-El sustituto del sustituto, faltando éste lo es el heredero sustituído.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2348.
 
-La designación de sustituto simple y sin expresión de casos, comprende los tres señalados en el artículo 2345 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2349.
 
-Los sustitutos recibirán la herencia con los mismos gravámenes y condiciones con que debían recibirla los herederos, a no ser que el testador haya dispuesto expresamente otra cosa, o que los gravámenes o condiciones fueren meramente personales del heredero.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2350.
 
-Si los herederos instituidos en partes desiguales fueren sustituidos recíprocamente, en la sustitución tendrán las mismas partes que en la institución, a no ser que claramente aparezca haber sido otra la voluntad del testador.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2351.
 
-Quedan prohibidas las sustituciones fideicomisarias y cualesquiera otras diversas de las consignadas en este capítulo, sea cual fuere la forma de que se las revista.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2352.
 
-La nulidad de las sustituciones a que se refiere el artículo anterior no importa la de la institución ni la del legado, teniéndose por no escrita la cláusula de sustitución.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2353.
 
-No se reputa fideicomisaria la disposición en que el testador deja la propiedad del todo o de parte de sus bienes a una persona y el usufructo a otra, a no ser que el propietario o el usufructurario (sic) queden obligados a transferir a su muerte la propiedad o el usufructo a un tercero.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2354.
 
-Se consideran fideicomisarias y en consecuencia prohibidas, las disposiciones que contengan prohibición de enajenar, o que llamen a un tercero a lo que quede de la herencia por la muerte del heredero, o encargo de prestar a más de una persona sucesivamente cierta renta o pensión.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2355.
 
-La obligación que se impone al heredero de invertir ciertas cantidades en obras benéficas, como pensiones para estudiantes, para los pobres o para cualquier establecimiento de beneficencia, no está comprendida en la prohibición del artículo anterior. Si la carga se impusiere sobre bienes inmuebles o fuere temporal, el heredero o herederos podrán disponer de la finca gravada, sin que cese el gravamen mientras que la inscripción de éste no se cancele. Si la carga fuere perpetua, el heredero podrá capitalizarla e imponer el capital e interés con primera o suficiente hipoteca. La capitalización e imposición del capital se hará interviniendo la autoridad correspondiente y con audiencia de los interesados y del ministerio público.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2356.
 
-Puede el padre dejar una parte o la totalidad de sus bienes a sus hijos, con la carga de transferirlos al hijo o hijos que tuvieren los herederos instituidos, hasta la muerte del testador, teniéndose en cuenta lo dispuesto en el artículo 2225 de este código, en cuyo caso, al heredero se considerará como usufructuario, esta disposición será nula cuando la transmisión de los bienes pretenda hacerse a descendientes de ulteriores grados.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2357.
 
-Todo lo dispuesto en este capítulo respecto de los herederos, se observará también respecto de los legatarios.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO IX. DE LA NULIDAD, REVOCACION Y CADUCIDAD DE LOS TESTAMENTOS
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 2358.
 
-Es nula la institución de heredero o legatario hecha en memorias o comunicados secretos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2359.
 
-Es nulo el testamento otorgado por violencia o concedido por dolo o fraude, así como el que haga el testador bajo la influencia de amenazas contra su persona o sus bienes o contra la persona o bienes de su cónyuge o de sus parientes.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2360.
 
-El testador que se encuentre en el caso del artículo que precede podrá, luego que cese la violencia o disfrute de la libertad completa, revalidar su testamento con las mismas solemnidades que si lo otorgara de nuevo. De lo contrario será nula la revalidación.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2361.
 
-El que por dolo, fraude o violencia impide que alguno haga su última disposición, perderá el derecho que tenga para suceder por intestado, sin perjuicio de la responsabilidad penal en que incurra.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2362.
 
-Cualquiera autoridad que tuviere noticia de que alguno impide a otro testar, se presentará sin demora en la casa del segundo para asegurarle el ejercicio de su derecho, y levantará acta en que haga constar el hecho que ha motivado su presencia, la persona o personas que causen la violencia y los medios que al efecto hayan empleado o intenten emplear, y si la persona cuya libertad ampara hizo o no uso de su derecho, comunicándolo todo al ministerio público.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2363.
 
-Es nulo el testamento cuando el testador no expresa cumplida y claramente su voluntad, sino sólo por señales o monosílabos, en respuesta a las preguntas que se le hacen. Es también nulo cuando se otorga en contravención a las formas prescritas por la ley.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2364.
 
-El testador no puede prohibir que se impugne el testamento en los casos en que éste deba ser nulo conforme a la ley.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2365.
 
-El testamento es un acto revocable hasta el último momento de la vida del testador. La renuncia de la facultad de revocar el testamento, es nula.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2366.
 
-El reconocimiento de un hijo no pierde su fuerza legal, aunque se revoque el testamento en que se hizo, siempre que éste haya sido abierto y otorgado ante notario.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2367.
 
-Son nulas la renuncia del derecho de testar y la cláusula en que alguno se obligue a no usar de ese derecho sino bajo ciertas condiciones, sean éstas de la clase que fueren.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2368.
 
-El testamento anterior queda revocado de pleno derecho por el posterior perfecto, si el testador no expresa en éste su voluntad de que aquél subsista en todo o en parte.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2369.
 
-La revocación producirá su efecto aunque el segundo testamento caduque por incapacidad del heredero o de los legatarios nuevamente nombrados, o por su renuncia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2370.
 
-El testamento anterior recobrará, no obstante su fuerza, si el testador, revocando el posterior, declara ser su voluntad que el primero subsista.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2371.
 
-Las disposiciones testamentarias caducan y quedan sin efecto, en lo relativo a los herederos y legatarios:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Si el heredero o legatario muere antes que el testador o antes de que se cumpla la condición de que dependa la herencia o el legado.
-
-II.- Si el heredero o legatario se hace incapaz de recibir la herencia o legado.
-
-III.- Si renuncia a su derecho.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2372.
 
-La disposición testamentaria que contenga condición de suceso pasado o presente desconocidos no caduca, aunque la noticia del hecho se adquiera después de la muerte del heredero o legatario, cuyos derechos se transmiten a sus respectivos herederos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ## TITULO TERCERO. DE LA FORMA DE LOS TESTAMENTOS
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
+
 ### CAPITULO I. DISPOSICIONES GENERALES
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2373.
 
-El testamento, en cuanto a su forma, es ordinario o especial.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2374.
 
-El ordinario puede ser:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Público abierto.
-
-II.- Público cerrado.
-
-III.- Ológrafo.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2375.
 
-El especial puede ser:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Privado.
-
-II.- Militar.
-
-III.- Marítimo.
-
-IV.- Hecho en país extranjero.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2376.
 
-No pueden ser testigos de testamento;
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Los empleados del notario que lo autorice,
-
-II.- Los ciegos, los mudos y los totalmente sordos.
-
-III.- Los que no entienden el idioma que habla el testador.
-
-IV.- Los que no están en su sano juicio.
-
-V.- Los que no tengan la calidad de domiciliados salvo en los casos exceptuados por la ley.
-
-VI.- Los menores de edad.
-
-VII.- Los que hayan sido condenados por el delito de falsedad.
-
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
-
-VIII.- Los herederos o legatarios, sus descendientes, ascendientes, cónyuge o hermanos. El concurso como testigo de una de las personas a que se refiere esta fracción, sólo produce como efecto la nulidad de la disposición que beneficie a ella y a sus mencionados parientes.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2377.
 
-Cuando el testador ignore el idioma nacional, concurrirán al acto y firmarán el testamento, además de los testigos y del notario, dos intérpretes nombrados por el mismo testador.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2378.
 
-Los testigos que intervengan en cualquier testamento, deberán conocer al testador o cerciorarse de algún modo de su identidad. El notario y los testigos deberán asegurarse de que el testador se halla en su cabal juicio y libre de cualquier coacción.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2379.
 
-Si la identidad del testador no pudiere ser verificada, se declarará esta circunstancia por el notario o por los testigos en su caso, agregando uno u otros todas las señales que caractericen la persona de aquél.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2380.
 
-Se prohibe a los notarios y a cualesquiera otra persona que hayan de redactar disposiciones de última voluntad, dejar hojas en blanco y servirse de abreviaturas o cifras, bajo la pena que se impondrá de diez veces el salario mínimo general vigente.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2381.
 
-En el caso del artículo 2379 de este código no tendrá validez el testamento, mientras no se justifique la identidad del testador.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2382.
 
-El notario que hubiere autorizado un testamento abierto o la entrega de uno cerrado, debe avisar a los interesados, si supiere su domicilio, con la brevedad posible, luego que sepa la muerte del testador. Si no lo hace, es responsable de los daños y perjuicios que la dilación ocasione.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2383.
 
-Lo dispuesto en el artículo que precede se observará también por cualquiera que tenga en su poder un testamento.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2384.
 
-Si los interesados están ausentes, o son desconocidos, la noticia se dará al juez.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO II. DEL TESTAMENTO PUBLICO ABIERTO
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2385.
 
-Testamento público abierto es el que se otorga ante notario y tres testigos idóneos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-El testador expresará de un modo claro y terminante su voluntad al notario y a los testigos. El notario redactará por escrito las cláusulas del testamento sujetándose estrictamente a la voluntad del testador, y las leerá en voz alta para que este manifieste si está conforme. Si lo estuviere, firmarán todos el instrumento, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado. El testador imprimirá su huella digital en cada una de las hojas del acta.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2386.
 
-Si alguno de los testigos no supiere escribir, firmará otro de ellos por él; pero cuando menos deberá constar la firma de dos testigos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2387.
 
-Si el testador no pudiere o no supiere escribir, intervendrá otro testigo más, que firme por él. En caso de extrema urgencia y no pudiendo ser llamado otro testigo, firmará por el testador uno de los tres que asistieren al otorgamiento, haciéndose constar esta circunstancia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2388.
 
-El que fuere enteramente sordo, pero que sepa leer, deberá dar lectura a su testamento. Si no supiere o no pudiere hacerlo, designará una persona que lo lea en su nombre.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2389.
 
-Cuando sea ciego el testador, se dará lectura al testamento dos veces; una por el notario, como está prescrito en el artículo 2385 de este código y otra, en igual forma, por uno de los testigos o persona que el testador designe.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2390.
 
-Cuando el testador ignore el idioma del país, si puede, escribirá de su puño y letra, su testamento que será traducido al español por los dos intérpretes a que se refiere el artículo 2377 de este código. La traducción, se transcribirá como testamento en el protocolo respectivo y el original se archivará en el apéndice correspondiente del notario que intervenga en el acto. Si el testador no puede o no sabe escribir, uno de los intérpretes escribirá el testamento que dicte aquél, y leido y aprobado por el testador, se traducirá al español por los dos intérpretes que deben concurrir al acto; hecha la traducción se procederá como se dispone en el párrafo anterior. Si el testador no puede o no sabe leer, dictará en su idioma el testamento a uno de los intérpretes. Traducido por dos intérpretes, se procederá como dispone el párrafo primero de este artículo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2391.
 
-Todas las formalidades se practicarán acto continuo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2392.
 
-Faltando alguna de las solemnidades establecidas en los artículos del 2385 al 2391 de este código quedará el testamento sin efecto y el notario será responsable de los daños y perjuicios, e incurrirá además en la pena de destitución.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO III. DEL TESTAMENTO PUBLICO CERRADO
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 2393.
 
-El testamento cerrado puede ser escrito por el testador o por otra persona, a su ruego.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2394.
 
-El testador debe firmar al calce del testamento, e imprimir su huella digital al margen de cada una de las hojas del mismo; pero si no supiere escribir o no pudiere hacerlo, podrá firmar por él otra persona.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2395.
 
-En los casos de los dos artículos que preceden la persona que haya firmado por el testador o escrito el testamento, concurrirá con él a la presentación del pliego cerrado; en ese acto, el testador declarará a que aquella persona firmó en su nombre, o escribió el testamento, y ésta firmará en la cubierta con los testigos y el notario.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2396.
 
-El papel en que esté escrito el testamento o el que le sirva de cubierta, deberá estar cerrado y sellado o lo hará cerrar y sellar el testador en el acto del otorgamiento y lo exhibirá al notario, en presencia de tres testigos. El testador, al hacer la presentación, declarará que en aquel pliego está contenida su última voluntad.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2397.
 
-El notario procederá como disponga la ley del notariado, observando las formalidades requeridas en los cuatro artículos anteriores, y extenderá constancia del acto en la cubierta del testamento. Esa constancia deberá ser firmada por el testador, los testigos y el notario. El testador imprimirá además su huella digital y el notario pondrá su sello, levantándose en el protocolo la correspondiente acta.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2398.
 
-Si alguno de los testigos no supiere firmar, se llamará a otra persona que lo haga en su nombre y en su presencia de modo que siempre haya tres firmas.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2399.
 
-Si al hacer la presentación del testamento no pudiere firmar el testador, lo hará otra persona en su nombre y en presencia suya, no debiendo hacerlo ninguno de los testigos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2400.
 
-Sólo en caso de suma urgencia podrá firmar uno de los testigos, ya sea por el que no sepa hacerlo, ya por el testador. El notario hará constar expresamente esa circunstancia, bajo pena de destitución.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2401.
 
-Los que no saben o no pueden leer, son inhábiles para hacer testamento cerrado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2402.
 
-El sordomudo podrá hacer testamento cerrado con tal de que esté todo el escrito, fechado y firmado de su propia mano, y, que al presentarlo al notario ante tres testigos, escriba en presencia de todos, sobre la cubierta, que en aquel pliego se contiene su última voluntad, ya escrita y firmada por él. El notario declarará en el acta de la cubierta que el testador lo escribió así, observándose además lo dispuesto en los artículos 2396, 2397 y 2398 de este código. El testador imprimirá además su huella digital, en la forma prevista en los artículos 2394 y 2397 del mismo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2403.
 
-En el caso del artículo anterior, si el testador no puede firmar la cubierta, se observará lo dispuesto en los artículos 2399 y 2400 de este código, dando fe el notario de la elección que el testador haga de uno de los testigos para que firme por él.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2404.
 
-El que sea sólo mudo o sólo sordo, puede hacer testamento cerrado con tal de que esté escrito de su puño y letra, o si ha sido escrito por otro, lo anote así el testador, en la cubierta, y firme la nota de su puño y letra, sujetándose a las demás solemnidades prescritas para esta clase de testamentos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2405.
 
-El testamento cerrado que carezca de alguna de las formalidades que exigen los artículos del 2393 al 2400 de este código y del 2402 al 2404 del mismo, quedará sin efecto y el notario será responsable en los términos del artículo 2392 de este ordenamiento.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2406.
 
-Cerrado y autorizado el testamento, se entregará al testador, y el notario pondrá razón en el protocolo, del lugar, hora, día, mes y año en que el testamento fue autorizado y entregado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2407.
 
-Por la infracción del artículo anterior, no se anulará el testamento, pero el notario incurrirá en la pena de suspensión de sus funciones por seis meses.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2408.
 
-Luego que el juez reciba un testamento cerrado, hará comparecer al notario y a los testigos que concurrieron a su otorgamiento.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2409.
 
-El testamento cerrado no podrá ser abierto sino después de que el notario y los testigos hayan reconocido ante el juez sus firmas y las del testador o de la persona que por éste hubiere firmado, y hayan declarado si en su concepto está cerrado y sellado como lo estaba en el acto de la entrega.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2410.
 
-Si no pudieren comparecer todos los testigos por muerte, enfermedad o ausencia, bastará el reconocimiento de la mayor parte y el del notario.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2411.
 
-Si por iguales causas no pudieren comparecer el notario, la mayor parte de los testigos o ninguno de ellos, el juez lo hará constar así por información, como también la legitimidad de las firmas, y que en la fecha que lleva el testamento se encontraban aquéllos en el lugar en que éste se otorgó.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2412.
 
-Cumplido lo prescrito en los cinco artículos anteriores, el juez decretará la publicación y protocolización del testamento.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2413.
 
-El testamento cerrado quedará sin efecto siempre que se encuentre roto el pliego interior o abierto el que forma la cubierta, de manera tal que haya podido extraerse el contenido, o borradas, raspadas o enmendadas las firmas que lo autorizan, aunque el contenido no sea vicioso.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2414.
 
-Toda persona que tuviere en su poder un testamento cerrado y no lo presente, o lo sustraiga dolosamente de los bienes del finado, incurrirá en la pena, si fuere heredero por intestado, de pérdida, del derecho que pudiere tener, sin perjuicio de la que corresponda conforme al código de defensa social.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO IV. DEL TESTAMENTO OLOGRAFO
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 2415.
 
-Se llama testamento ológrafo al escrito de puño y letra del testador.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2416.
 
-Este testamento sólo podrá ser otorgado por las personas mayores de edad, y para que sea válido deberá estar totalmente escrito por el testador y firmado por él, con expresión del día, mes y año en que se otorgue. Los extranjeros podrán otorgar testamento ológrafo en su propio idioma.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2417.
 
-Si contuviere palabras tachadas o entre renglones, las salvará el testador bajo su firma. La omisión de esta formalidad por el testador, sólo afecta a la validez de las palabras tachadas, enmendadas o entre renglones, pero no al testamento mismo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2418.
 
-El testador hará por duplicado su testamento ológrafo, imprimirá en cada ejemplar su huella digital y presentará ambos al director del archivo notarial. El original, dentro de un sobre cerrado y lacrado, será depositado en el archivo, y el duplicado, también encerrado en un sobre lacrado y con la nota en la cubierta, de que se hablará después, será devuelto al testador. Este podrá poner en los sobres que contengan los testamentos, los sellos, señales o marcas que estime necesarios para evitar violaciones.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2419.
 
-El depósito en el archivo notarial se hará personalmente por el testador, quien si no es conocido del encargado de la oficina, debe presentar dos testigos que lo identifiquen o cualquier documento que sea fehaciente a juicio del director del archivo notarial. En el sobre que contenga el testamento original, el testador de su puño y letra pondrá la siguiente constancia: "dentro de este sobre se contiene mi testamento". A continuación se expresará el lugar y la fecha en que se hace el depósito. La constancia será firmada por el testador y por el encargado de la oficina. En caso de que intervengan testigos de identificación también firmarán.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2420.
 
-En el sobre cerrado que contenga el duplicado del testamento ológrafo, se pondrá constancia de recibo del mismo, con expresión del lugar y de la fecha. Esta constancia será firmada por el director del archivo notarial del Estado, el testador y los testigos de identificación, cuando éstos intervengan. El testador, en presencia del director del archivo notarial, imprimirá su huella digital en el sobre.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2421.
 
-Cuando el testador estuviere imposibilitado para hacer personalmente la entrega de su testamento en las oficinas del archivo notarial, el encargado de ellas deberá concurrir al lugar donde aquél se encontrare, para cumplir las formalidades del depósito.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2422.
 
-Hecho el depósito, el director del archivo notarial tomará razón de él en el libro respectivo, a fin de que el testamento pueda ser identificado, y conservará el original bajo su directa responsabilidad hasta que proceda hacer su entrega al mismo testador o al juez competente.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2423.
 
-En cualquier tiempo el testador tendrá derecho de retirar del archivo, personalmente o por medio de mandatario con poder especial otorgado ante notario, el testamento depositado; haciendose constar la entrega en un acta que firmarán el interesado y el encargado de la oficina.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2424.
 
-El juez ante quien se promueve un juicio sucesorio pedirá informe al director del archivo notarial, acerca de si en su oficina se ha depositado algún testamento ológrafo del autor de la sucesión, para que en caso de que así sea, se le remita el testamento.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2425.
 
-El que guarde en su poder el duplicado de un testamento, o cualquiera que tenga noticia de que el autor de una sucesión ha depositado algún testamento ológrafo, lo comunicará al juez competente, quien pedirá al director del archivo notarial que se lo remita.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2426.
 
-Recibido el testamento, el juez examinará la cubierta que lo contiene para cerciorarse de que no ha sido violada; hará que los testigos de identificación que residieren en el lugar, reconozcan sus firmas y la del testador, y en presencia del ministerio público, de los que se hayan presentado como interesados y de los mencionados testigos, abrirá el sobre que contiene el testamento. Si éste llena los requisitos mencionados en este capítulo, y queda comprobado que es el mismo que depósito el testador, se declarará formal testamento de éste.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2427.
 
-Sólo cuando el original depositado haya sido destruido o robado se tendrá como formal testamento el duplicado, procediendose para su apertura como se dispone en el artículo que precede.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2428.
 
-El testamento ológrafo quedará sin efecto cuando el original o el duplicado, en su caso, estuvieren rotos o el sobre que los cubre resultare abierto, o las firmas que los autoricen aparecieren borradas, raspadas o con enmendaduras, aun cuando el contenido del testamento no sea vicioso.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2429.
 
-El director del archivo notarial no proporcionará informes acerca del testamento ológrafo, depositado en su oficina, sino al mismo testador o a los jueces competentes que oficialmente se los pidan.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO V. DEL TESTAMENTO PRIVADO
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 2430.
 
-El testamento privado está permitido en los casos siguientes:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
-
-I.- Cuando el testador es atacado de una enfermedad tan violenta y grave que no dé tiempo para que concurra al notario a hacer el testamento.
-
-II.- Cuando no haya notario en la población, o juez que actúe por receptoría o aunque los haya sea imposible, o por lo menos muy difícil, que concurran al otorgamiento del testamento, siempre que el que va a testar se encuentre en inminente peligro de muerte.
-
-III.- Cuando los militares o asimilados del ejército entren en campaña o se encuentran prisioneros de guerra.
-
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2431.
 
-Para que en los casos enumerados en el artículo que precede pueda otorgarse testamento privado, es necesario que al testador no le sea posible hacer testamento ológrafo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2432.
 
-El testador que se encuentre en el caso de hacer testamento privado declarará en presencia de cinco testigos idóneos su última voluntad, que uno de ellos redactará por escrito, si el testador no puede escribir.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2433.
 
-No será necesario redactar por escrito el testamento, cuando ninguno de los testigos sepa escribir y en los casos de suma urgencia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2434.
 
-En los casos de suma urgencia bastarán tres testigos idóneos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2435.
 
-Al otorgarse el testamento privado se observarán en su caso, las disposiciones contenidas en los artículos del 2385 al 2391 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2436.
 
-El testamento privado sólo surtirá sus efectos si el testador fallece de la enfermedad o en el peligro en que se hallaba, o dentro de un mes de desaparecida la causa que lo autorizó.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2437.
 
-El testamento privado necesita, además, para su validez, que se haga la declaración a que se refiere el artículo 2440 de este código, teniendo en cuenta las declaraciones de los testigos que firmaron u oyeron, en su caso, la voluntad del testador.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2438.
 
-La declaración a que se refiere el artículo anterior será pedida por los interesados, inmediatamente después de que supiesen la muerte del testador y la forma de su disposición.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2439.
 
-Los testigos que concurran a un testamento privado deberán declarar circunstancialmente:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- El lugar, la hora, el día, el mes y el año en que se otorgó el testamento.
-
-II.- Si reconocieron, vieron y oyeron claramente al testador.
-
-III.- El tenor de la disposición.
-
-IV.- Si el testador estaba en su cabal juicio y libre de cualquier coacción.
-
-V.- El motivo por el que se otorgó el testamento privado.
-
-VI.- Si saben que el testador falleció o no de la enfermedad, o en el peligro en que se hallaba.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2440.
 
-Si los testigos fueren idóneos y estuvieren conformes en todas y cada una de las circunstancias enumeradas en el artículo que precede, el juez declarará que sus dichos son el formal testamento de la persona de quien se trate.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2441.
 
-Si después de la muerte del testador muriese alguno de los testigos, se hará la declaración con los restantes con tal de que no sean menos de tres, manifiestamente coincidentes y libres de toda excepción.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2442.
 
-Lo dispuesto en el artículo anterior se observará también en el caso de ausencia de alguno o algunos de los testigos, siempre que en la falta de comparecencia del testigo no hubiere dolo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2443.
 
-Sabiéndose el lugar donde se hallan los testigos, serán examinados por exhorto.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO VI. DEL TESTAMENTO MILITAR
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 2444.
 
-Si el militar, asimilado del ejército o empleado civil hace su disposición en el momento de entrar en acción de guerra, o estando herido, sobre el campo de batalla, bastará que declare su voluntad ante dos testigos, o que entregue a los mismos el pliego cerrado que contenga su disposición escrita y firmada, o por lo menos firmada, de su puño y letra.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2445.
 
-Lo dispuesto en el artículo anterior, se observará en su caso respecto de los prisioneros de guerra.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2446.
 
-Los testamentos otorgados por escrito conforme a este capítulo, deberán ser entregados luego que muera el testador, por aquél en cuyo poder hubieren quedado, al jefe inmediato del difunto, quien lo remitirá a la Secretaría de la Defensa Nacional, y ésta a la autoridad judicial competente, para los efectos legales.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2447.
 
-Si el testamento hubiere sido otorgado de palabra, los testigos instruirán de él desde luego al jefe inmediato del testador, el cual dará parte en el acto a la Secretaría de la Defensa Nacional, y ésta a la autoridad judicial competente, a fin de que, citando a los testigos, se proceda, teniendo en cuenta lo dispuesto en los artículos del 2436 al 2443 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO VII. DEL TESTAMENTO MARITIMO
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 2448.
 
-Los que se encuentren en alta mar, a bordo de navíos de la marina nacional, sea de guerra o mercante, en caso de peligro, pueden también testar en la forma privada, sujetándose a las prescripciones de este capítulo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2449.
 
-El testamento marítimo será escrito en presencia de dos testigos y el capitán del navío, y será leído, datado y firmado, como se ha dicho en los artículos del 2385 al 2391 de este código; pero en todo caso deberán firmar el capitán y los dos testigos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2450.
 
-Si el capitán hiciere su testamento, desempeñará sus veces el que deba sucederle en el mando.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2451.
 
-El testamento marítimo deberá ser hecho por duplicado, conservado entre los papeles más importantes de la embarcación y mencionado en su diario.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2452.
 
-Si el buque arribare a un puerto en que haya agente diplomático, cónsul o vicecónsul mexicano, el capitán le depositará uno de los dos ejemplares del testamento, fechado y sellado, con una copia de la nota que debe constar en el diario de la embarcación.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2453.
 
-Al arribar a territorio mexicano, se entregará el otro ejemplar, o ambos, si no se dejó alguno en otra parte a la autoridad marítima del lugar, en la forma señalada en el artículo inmediato anterior.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2454.
 
-En cualquiera de los casos mencionados en los dos artículos precedentes, el capitán de la embarcación exigirá el recibo de la entrega y lo citará por nota en el diario.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2455.
 
-Los cónsules, vicecónsules y agentes diplomáticos o las autoridades marítimas levantarán luego que reciban los ejemplares referidos, un acta de la entrega, y la remitirán con los citados ejemplares, a la posible brevedad, a la Secretaría de Relaciones Exteriores, la cual hará publicar por los periódicos la noticia de la muerte del testador, para que los interesados promuevan la apertura del testamento.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2456.
 
-El testamento marítimo solamente producirá efectos legales falleciendo el testador en el mar, o dentro de un mes contados desde su desembarque en algún lugar en donde, conforme a la ley mexicana o la extranjera, haya podido ratificar y otorgar de nuevo su última disposición.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2457.
 
-Si el testador desembarca en un lugar donde no haya agente diplomático o cónsul, y no se sabe si a (sic) muerto ni la fecha del fallecimiento, se procederá conforme a lo dispuesto en el título VIII del libro primero de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO VIII. DEL TESTAMENTO HECHO EN PAIS EXTRANJERO
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 2458.
 
-Los testamentos hechos en país extranjero producirán efecto en el Estado, cuando hayan sido formulados auténticamente conforme a las leyes del país en que se otorgaron.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2459.
 
-Los yucatecos que se encuentren a bordo de un buque mercante extranjero, podrán hacer testamento en la forma legal que indique el capitán del barco, y si éste no indicare alguna, podrá otorgarse el testamento cerrado, privado o marítimo. Si el capitán rehusare autorizar el testamento, se otorgará éste ante cuatro testigos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2460.
 
-Los secretarios de legación, los cónsules y los vicecónsules mexicanos, podrán hacer las veces de notarios en el otorgamiento de los testamentos de los yucatecos, conformándose con los preceptos de este código, y si no tuvieren éste a la vista con arreglo a los del código civil del Distrito Federal.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2461.
 
-Los funcionarios referidos remitirán copia autorizada de los testamentos que ante ellos se hubieren otorgado al secretario de relaciones para los efectos previstos en el artículo 2455 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ## TITULO CUARTO. DE LA SUCESION LEGITIMA
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
+
 ### CAPITULO I. DISPOSICIONES GENERALES
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2462.
 
-La herencia legítima, se abre:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Cuando no hay testamento otorgado, o el que se otorgó es nulo o perdió después su fuerza, aunque antes haya sido válido.
-
-II.- Cuando el testador no dispuso de todos sus bienes.
-
-III.- Cuando falta la condición impuesta al heredero, o éste muere antes que el testador, o repudia la herencia, sin que haya sustituto.
-
-IV.- Cuando el heredero instituido es incapaz de heredar.
-
-V.- Cuando se trata de los bienes que constituyen el patrimonio de la familia.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2463.
 
-Cuando siendo válido el testamento no deba subsistir la institución de heredero, subsistirán sin embargo, las demás disposiciones hechas en él, y la sucesión legítima sólo comprenderá los bienes que debían corresponder al heredero instituido.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2464.
 
-Si el testador dispone legalmente sólo de una parte de sus bienes el resto de ellos forma la sucesión legítima.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2465.
 
-La sucesión legítima se concede:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- A los descendientes y ascendientes, al cónyuge que sobrevive, concubinario o concubina, en ciertos casos, con exclusión de los colaterales y del fisco del Estado.
-
-II.- Faltando descendientes y ascendientes, al cónyuge que sobrevive, concubinario o concubina, en ciertos casos, con exclusión de los colaterales y del fisco del Estado.
-
-III.- Faltando el cónyuge, concubinario o concubina a los hermanos y sobrinos, representantes de hermanos difuntos, con exclusión de los demás colaterales y del fisco del Estado.
-
-IV.- Faltando descendientes, ascendientes, cónyuge, concubinario o concubina, hermanos y sobrinos, a los tíos, con exclusión de los demás colaterales y del fisco del Estado.
-
-V.- Faltando descendientes, ascendientes, cónyuge, concubinario o concubina, hermanos, sobrinos y tíos, al fisco del Estado.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2466.
 
-El parentesco de afinidad no da derecho de heredar.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2467.
 
-Los parientes que se hallaren en el mismo grado, heredarán por cabezas y por partes iguales.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2468.
 
-Si hubiere varios parientes en un mismo grado y alguno o algunos no quisieren o no pudieren heredar, su parte acrecerá a los otros del mismo grado, salvo el derecho de representación cuando deba tener lugar.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2469.
 
-Repudiando o no pudiendo suceder el pariente más próximo si es solo, o todos los parientes más próximos, heredarán los del grado siguiente, por su propio derecho y sin que puedan representar al repudiante o incapaz.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2470.
 
-Las líneas y grados de parentesco se arreglarán por las disposiciones contenidas en el capítulo I, título tercero, libro primero de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2471.
 
-Los hijos y descendientes del que sea incapaz de heredar, no serán excluidos de la sucesión, aun cuando viva el ascendiente incapaz, si ellos mismos fueren llamados a heredar por la ley en representación de aquél.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2472.
 
-El patrimonio de la familia será siempre heredado en común por las personas designadas como beneficiarias al constituirse dicho patrimonio.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2473.
 
-La transmisión hereditaria de los bienes sólo podrá hacerse cuando se hubiese extinguido el derecho a percibir alimentos de todos los beneficiarios.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO II. DEL DERECHO DE REPRESENTACION
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 2474.
 
-Se llama derecho de representación, el que corresponde a los parientes de alguna persona, para sucederle en todos los derechos que tendría si viviere o hubiera podido heredar.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2475.
 
-El derecho de representación tendrá siempre lugar en la línea recta descendente, pero nunca en la ascendente.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2476.
 
-En la línea transversal tendrá lugar el derecho de representación en favor de los hijos de los hermanos, ya lo sean de padre y madre, ya por una sola línea.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2477.
 
-Siendo varios los representantes de la misma persona, repartirán entre sí con igualdad lo que debía corresponder a aquélla.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2478.
 
-Se puede representar a aquél cuya sucesión se ha repudiado, mas no a aquél de cuya sucesión ha sido declarado incapaz el que debiera ser representante.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2479.
 
-El que repudia la herencia que le corresponde por una línea, no queda por esa razón impedido de aceptar la que le corresponde por otra.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2480.
 
-Entre personas vivas no tiene lugar la representación sino en el caso del artículo 2471 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO III. DE LA SUCESION DE LOS DESCENDIENTES
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 2481.
 
-Si a la muerte de los padres quedaren sólo hijos, la herencia se dividirá entre todos por partes iguales, sin distinción de sexo ni edad, y aunque procedan de distintos matrimonios o hubieren nacido fuera de matrimonio.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2482.
 
-Si sólo quedaren descendientes de ulterior grado, la herencia se dividirá por estirpes; y si en alguna de éstas hubiere varios herederos, la porción que a ella corresponda, se dividirá por partes iguales.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2483.
 
-Si quedaren hijos y descendientes de ulterior grado, los primeros heredarán por cabeza y los segundos por estirpe.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2484.
 
-Concurriendo hijos con ascendientes, éstos sólo tendrán derecho a alimentos, que en ningún caso podrán exceder de la porción de uno de los hijos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2485.
 
-El adoptado en forma plena, hereda como un hijo; pero en la adopción simple, no hay derecho de sucesión entre el adoptado y los parientes del adoptante.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2486.
 
-Concurriendo padres adoptantes y descendientes del adoptado en forma simple, los primeros sólo tendrán derecho a alimentos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2487.
 
-Si el intestado no fuere absoluto se deducirá del total de la herencia la parte de que legalmente haya dispuesto el testador, y el resto se dividirá de la manera que disponen los artículos que preceden.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2488.
 
-Concurriendo el cónyuge que sobrevive, con descendientes, se observará lo dispuesto en el artículo 2501 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2489.
 
-Si concurre la concubina o el concubinario con descendientes, se observará lo dispuesto en el artículo 2504 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO IV. DE LA SUCESION DE LOS ASCENDIENTES
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 2490.
 
-A falta de descendientes y concurriendo el cónyuge que sobrevive con ascendientes, la herencia se dividirá en dos partes iguales, de las cuales una se aplicará al cónyuge y otra a los ascendientes.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2491.
 
-A falta de descendientes y cónyuge sucederán el padre y la madre por partes iguales.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2492.
 
-Si sólo hubiere padre o madre, el que viva sucederá al hijo en toda la herencia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2493.
 
-Si sólo hubiere ascendientes de ulterior grado por una línea, se dividirá entre ellos la herencia por partes iguales.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2494.
 
-Si hubiere ascendientes por ambas líneas, se dividirá la herencia en dos partes iguales, y se aplicarán una a los ascendientes de la línea paterna y otra a los de la materna.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2495.
 
-Los miembros de cada línea dividirán entre sí, por partes iguales, la porción que les corresponda.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2496.
 
-Concurriendo los adoptantes con ascendientes del adoptado en forma simple, la herencia de éste se dividirá por partes iguales entre los adoptantes y los ascendientes.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2497.
 
-Si concurren el cónyuge del adoptado en forma simple con los adoptantes, las dos terceras partes de la herencia corresponden al cónyuge y la otra tercera parte a los que hicieron la adopción.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2498.
 
-Los ascendientes tendrán los derechos que se les conceden en este capítulo, siempre que hayan reconocido a los descendientes de cuya sucesión se trate, o que el reconocimiento se haya verificado a instancia del hijo en el juicio respectivo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2499.
 
-Si el reconocimiento se verifica después que el descendiente ha heredado o adquirido derecho a una herencia, ni el que lo reconoce, ni sus descendientes, tienen derecho alguno a la herencia del reconocido, y sólo pueden pedir alimentos, que se les concederán conforme a la ley. Lo que antecede no tendrá lugar cuando el reconocimiento del hijo se haya verificado a instancia de éste en el juicio respectivo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2500.
 
-Concurriendo la concubina o el concubinario con ascendiente, se observará lo dispuesto en el artículo 2501 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO V. DE LA SUCESION DEL CONYUGE, DE LA CONCUBINA
 
 Y DEL CONCUBINARIO
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 2501.
 
-El cónyuge que sobrevive, concurriendo con descendientes, tendrá el derecho de un hijo, si carece de bienes o los que tiene al morir el autor de la sucesión no igualan a la porción que a cada hijo debe corresponder, lo mismo se observará si concurre con hijos adoptivos del autor de la herencia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2502.
 
-En el primer caso del artículo anterior, el cónyuge recibirá íntegra la porción señalada; en el segundo, sólo tendrá derecho de recibir lo que baste para igualar sus bienes con la porción mencionada.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2503.
 
-A falta de ascendientes y descendientes, el cónyuge sucede en todos los bienes.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, D.O. 8 DE ABRIL DE 2011)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2504.
 
-La persona con quien el autor o autora de la herencia vivió como si fuera su cónyuge durante los dos años que precedieron inmediatamente a su muerte o con la que tuvo hijos, siempre que ambos hubieren permanecido libres de matrimonio durante el concubinato, tiene derecho a heredar en los mismos términos en que heredaría el cónyuge o la cónyuge conforme a los artículos precedentes.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO VI. DE LA SUCESION DE LOS COLATERALES
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 2505.
 
-A falta de ascendientes, descendientes, cónyuge, concubina o concubinario, en su caso, la ley llama a la sucesión a los hermanos y sobrinos del difunto.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2506.
 
-Si sólo hay hermanos por ambas líneas, sucederán por partes iguales. Si concurren hermanos con medios hermanos, aquéllos heredarán doble porción que éstos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2507.
 
-Si concurren hermanos con sobrinos, hijos de hermanos, los primeros herederán (sic) por cabezas y los segundos por estirpes.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2508.
 
-A falta de hermanos, sucederán sus hijos, dividiéndose la herencia por estirpes, y la porción de cada estirpe por cabezas.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2509.
 
-Los hijos de los medios hermanos gozarán del derecho de representación, y sucederán en la parte que les corresponda, ya estén solos, ya concurran con sus tíos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2510.
 
-Faltando descendientes, ascendientes, cónyuge, concubinario o concubina, hermanos y sobrinos, a los tíos, con exclusión de los demás colaterales y del fisco del Estado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO VII. DE LA SUCESION DEL FISCO DEL ESTADO
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 2511.
 
-A falta de todos los herederos llamados en los capítulos anteriores, sucederá el fisco del Estado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2512.
 
-El fisco del Estado en el caso del artículo anterior, herederá (sic) aun cuando en la herencia hubiere bienes raíces; pero entonces, a menos de que dichos bienes sean destinados al servicio público, serán enajenados conforme a la ley, aplicándose al fisco del Estado el precio que se obtuviere.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ## TITULO QUINTO. DISPOSICIONES COMUNES A LA SUCESION TESTAMENTARIA
 
 Y A LA LEGITIMA
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
+
 ### CAPITULO I. PRECAUCIONES QUE DEBEN ADOPTARSE CUANDO
 
 LA VIUDA QUEDE ENCINTA
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 2513.
 
-Cuando a la muerte del marido, la viuda quede encinta, debe ponerlo dentro de cuarenta días en conocimiento del juez, para que lo notifique a los interesados en la sucesión.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2514.
 
-Los interesados a que se refiere el artículo anterior pueden pedir al juez que dicte las providencias convenientes para evitar la suposición del parto, la sustitución del infante o que se haga pasar por viable la criatura que no lo es. Cuidará el juez de que las medidas que dicte no ataquen al pudor ni a la libertad de la viuda.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2515.
 
-Háyase o no dado el aviso de que habla el artículo 2513 de este código al aproximarse la época del parto, la viuda deberá ponerlo en conocimiento del juez, para que lo haga saber a los interesados. Estos tienen derecho de pedir que el juez nombre una persona que se cerciore de la realidad del alumbramiento, debiendo recaer el nombramiento precisamente en un médico o en una partera.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2516.
 
-Si el marido reconoció en instrumento público o privado la certeza de la preñez de su consorte, estará dispensada ésta de dar el aviso a que se refiere el artículo 2513 de este código pero quedará sujeta a cumplir lo dispuesto en el artículo 2515 del mismo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2517.
 
-La omisión de la madre no perjudica los derechos del hijo, si por otros medios legales pudieren acreditarse.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2518.
 
-La viuda encinta, aun cuando tenga bienes, debe ser alimentada debidamente, con cargo a la masa hereditaria.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2519.
 
-Si la viuda no cumple con lo dispuesto en los artículos 2513 y 2515 de este código podrán los interesados negarle los alimentos cuando tenga bienes; pero si por averiguaciones posteriores resultare cierta la preñez se deberá abonar los alimentos que dejaron de pagarse.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2520.
 
-La viuda no debe restituir el importe de los alimentos percibidos cuando haya habido aborto o no resultare cierta la preñez, salvo el caso en que ésta hubiere sido contradicha por el dictamen pericial.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2521.
 
-El juez decidirá de plano toda cuestión de alimentos, conforme a los artículos anteriores, resolviendo en caso dudoso a favor de la viuda.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2522.
 
-La división de la herencia se suspenderá hasta que ocurra el parto o hasta que transcurra el tiempo máximo de la preñez, mas los acreedores podrán ser pagados con mandato judicial.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2523.
 
-Para cualquiera de las diligencias que se practiquen conforme a lo dispuesto en este capítulo, deberá ser oída la viuda.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO II. DE LA APERTURA Y TRANSMISION DE LA HERENCIA
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 2524.
 
-La sucesión se abre en el momento en que muere el autor de la herencia, y cuando se declara la presunción de muerte de un ausente.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2525.
 
-Siendo varias las personas llamadas, simultáneamente, a la misma herencia, se considerará como indivisible el derecho que tienen a ella, tanto respecto de la posesión como del dominio, mientras no se haga partición.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2526.
 
-Un coheredero no puede enajenar ni gravar cosa alguna de los bienes hereditarios.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2527.
 
-No habiendo albacea nombrado, cualquiera de los herederos puede, en el caso del artículo 2525 de este código, reclamar la posesión de la totalidad de la herencia de algún tercero que por cualquier motivo sea poseedor de ella, sin que el demandado pueda oponerle la excepción de que la herencia no le pertenece por entero.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2528.
 
-Habiendo albacea nombrado, él deberá promover la reclamación a que se refiere el artículo precedente, y siendo moroso en hacerlo, los herederos podrán pedir la remoción.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2529.
 
-El derecho de reclamar la herencia prescribe en diez años. Es transmisible a los herederos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO III. DE LA ACEPTACION Y REPUDIACION DE LA HERENCIA
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 2530.
 
-Pueden aceptar o repudiar la herencia todos los que tienen la libre disposición de sus bienes.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2531.
 
-La aceptación es expresa si el heredero acepta con palabras terminantes, y tácita si ejecuta hechos de que se deduzca necesariamente la intención de aceptar, o hechos que no podría ejecutar sino con la calidad de heredero.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2532.
 
-Ninguno puede aceptar o repudiar la herencia en parte, con plazo o condicionalmente.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2533.
 
-Cualquiera de los cónyuges puede libremente aceptar o repudiar la herencia que le corresponda.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2534.
 
-La herencia dejada a los menores y demás incapacitados, será aceptada por sus tutores, quienes podrán repudiarla con autorización judicial previa audiencia del ministerio público.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2535.
 
-Los sordomudos que no estuvieren en tutela y supieren escribir, podrán aceptar o repudiar la herencia por sí o por procurador; pero si no supieran escribir la aceptará en su nombre un tutor electo para el caso conforme a lo dispuesto en los casos de interdicción.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2536.
 
-Si el heredero fallece sin aceptar o repudiar la herencia, el derecho de hacerlo se transmite a sus herederos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2537.
 
-Los efectos de la aceptación o repudiación de la herencia, se retrotraen siempre a la fecha de la muerte de la persona a quien se hereda.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2538.
 
-La repudiación no priva al que la hace, si no es heredero ejecutor, del derecho de reclamar los legados que se le hubieren dejado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2539.
 
-El nombrado heredero en testamento y que al mismo tiempo tenga derecho de heredar por intestado, si repudia como heredero testamentario, pierde el derecho de suceder por intestado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2540.
 
-El que repudia el derecho de suceder por intestado sin tener noticia de su título testamentario, puede en virtud de éste aceptar la herencia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2541.
 
-Conocida la muerte de aquel a quien se hereda, se puede renunciar la herencia dejada bajo condición, aunque ésta no se haya cumplido.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2542.
 
-Los legítimos representantes de las sociedades y corporaciones capaces de adquirir, pueden aceptar la herencia que a aquéllas se dejare; pero tratándose de corporaciones de carácter oficial o instituciones de beneficencia privada, no pueden repudiar la herencia sin aprobación judicial y previa audiencia del ministerio público.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-Los establecimientos públicos no pueden aceptar ni repudiar una herencia sin aprobación de la autoridad administrativa superior de quien depende.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2543.
 
-Cuando alguno tuviere interés en que el heredero declare si acepta o repudia la herencia, podrá pedir, pasados nueve días de la apertura de ésta, que el juez asigne al heredero un plazo que no excederá de un mes, para que dentro de él haga su declaración, apercibido de que si no lo hace se tendrá la herencia por no aceptada.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2544.
 
-La aceptación y la repudiación una vez hechas, son irrevocables, y no pueden ser impugnadas sino en los casos de dolo y violencia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2545.
 
-El heredero puede revocar la aceptación o la repudiación cuando por un testamento desconocido, al tiempo de hacerla, se altere la cantidad o calidad de la herencia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2546.
 
-En el caso del artículo anterior, si el heredero revoca la aceptación, devolverá todo lo que hubiere percibido de la herencia, observándose respecto de los frutos las reglas relativas a los poseedores.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2547.
 
-Si el heredero repudia la herencia en perjuicio de sus acreedores, pueden éstos pedir al juez que los autorice para aceptarla en nombre de aquél.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2548.
 
-En el caso del artículo anterior, la aceptación sólo aprovechará a los acreedores para el pago de sus créditos; pero si la herencia excediere del importe de éstos, el exceso pertenecerá a quien llame la ley y en ningún caso al que hizo la renuncia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2549.
 
-Los acreedores cuyos créditos fueren posteriores a la repudiación, no pueden ejercer el derecho que concede el artículo 2547 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2550.
 
-El que por la repudiación de la herencia deba entrar en ella, podrá impedir que la acepten los acreedores pagando a éstos los créditos que tienen contra el que repudió.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2551.
 
-El que a instancia de un legatario o acreedor hereditario haya sido declarado heredero, será considerado como tal por los demás acreedores o legatarios sin necesidad de nuevo juicio.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2552.
 
-La aceptación en ningún caso produce confusión de los bienes del autor de la herencia y de los herederos, porque toda herencia se entiende aceptada a beneficio de inventario, aunque no se exprese.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO IV. DEL ALBACEAZGO
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 2553.
 
-La ley reconoce como ejecutores de las últimas voluntades a los albaceas designados por el testador, y cuando éste no hubiere hecho designación o el nombrado no desempeñare el cargo, al designado por los herederos instituidos, de entre ellos mismos y por mayoría de votos, si no hubiese mayoría el albacea será nombrado por el juez de entre los propuestos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2554.
 
-Para el desempeño del albaceazgo representan legítimamente:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Cualquiera de los cónyuges que sea mayor de edad al que sea menor de edad, observándose lo mismo en el caso de los concubinos.
-
-II.- Los ascendientes a sus descendientes que estén bajo su patria potestad.
-
-III.- Los tutores a los menores y a los demás que se hallen sujetos a tutelas.
-
-IV.- El depositario, representante o poseedor de los bienes al ausente.
-
-V.- El apoderado nombrado a los ayuntamientos.
-
-VI.- Los directores a los establecimientos públicos.
-
-VII.- El ministerio público, al fisco del Estado.
-
-Lo dispuesto en las tres últimas fracciones sólo se observará cuando las leyes o reglamentos administrativos no dispongan otra cosa.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2555.
 
-La mayoría, en todos los casos de que habla este capítulo y los relativos a inventario y particiones, se calculará por el importe de las porciones y no por el número de las personas. En caso de que la porción mayor exceda de la mitad de la herencia y pertenezca a una sola persona, la representación de ésta se reducirá a sólo una cuarta parte de la herencia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2556.
 
-Lo dispuesto en los artículos que preceden, se observará también en los casos de intestado y cuando el albacea nombrado falte, sea por la causa que fuere.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2557.
 
-No pueden ser albaceas, ni con el consentimiento de sus coherederos y salvo el caso de ser herederos únicos:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Los magistrados y jueces que estén ejerciendo jurisdicción en el lugar donde se abra la sucesión.
-
-II.- Los que por sentencia hubieren sido removidos del cargo de albacea.
-
-III.- Los que hayan sido condenados por delitos contra la propiedad.
-
-IV.- Los que no tengan un modo honesto de vivir.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2558.
 
-El heredero que fuere único será el albacea, si no hubiere sido nombrado otro en el testamento.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2559.
 
-Cuando no haya heredero o el nombrado no entre en la herencia, el juez nombrará al albacea, si no hubiere legatarios.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2560.
 
-El albacea nombrado conforme al artículo que precede, durará en su encargo mientras declarados los herederos legítimos, éstos hacen la elección conforme a los artículos del 2537 al 2559 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2561.
 
-Cuando toda la herencia se distribuya en legados, los legatarios nombrarán al albacea, observándose lo prevenido en los citados artículos del 2537 al 2559 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2562.
 
-Si los albaceas son mancomunados, sólo valdrá lo que hagan todos de común acuerdo, lo que haga uno de ellos legalmente autorizado por los demás, o lo que, en caso de disidencia acuerde la mayoría. Si no hubiere mayoría, decidirá el juez.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2563.
 
-En los casos de suma urgencia, podrá uno de los albaceas mancomunados practicar bajo su responsabilidad personal los actos que fueren necesarios dando cuenta inmediatamente a los demás.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2564.
 
-El albacea puede renunciar su encargo, pero si lo hiciere sin causa, perderá todo lo que le hubiere dejado el testador.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2565.
 
-El albacea que pretenda excusarse, debe hacerlo por escrito al juez del conocimiento, pero mientras se decide sobre su excusa debe desempeñar el cargo bajo pena de perder su porción hereditaria y pagar los daños y perjuicios que ocasionare.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2566.
 
-Pueden excusarse de ser albacea:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Los empleados y funcionarios públicos.
-
-II.- Los militares en servicio activo.
-
-III.- Los que fueren tan pobres que no puedan atender el albaceazgo sin menoscabo de su subsistencia.
-
-IV.- Los que por el mal estado habitual de su salud, o por no saber leer ni escribir, no puedan atender debidamente el albaceazgo.
-
-V.- Los que tengan sesenta años cumplidos.
-
-VI.- Los que tengan a su cargo otro albaceazgo.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2567.
 
-El cargo de albacea no puede ser delegado sino en virtud de poder solemne, salvo en todo caso, lo dispuesto por el testador.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2568.
 
-El albacea podrá ser general o especial.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2569.
 
-El ejecutor general está obligado a entregar al especial las cantidades o cosas necesarias, para que cumpla la parte del testamento que estuviere a su cargo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2570.
 
-El ejecutor especial puede, a nombre del legatario, exigir la constitución de hipoteca a que se refieren las fracciones I y IV del artículo 2091 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2571.
 
-La posesión de los bienes hereditarios se transmite por ministerio de la ley, a los ejecutores universales, desde el momento de la muerte del autor de la herencia, salvo lo dispuesto en la primera parte del artículo 170 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2572.
 
-El albacea posee en nombre propio por la parte que le corresponda en la herencia, y en nombre ajeno por la parte que corresponda a los demás herederos y legatarios.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2573.
 
-Las facultades del albacea serán además de las especialmente contenidas en este capítulo, y las que expresamente le hayan concedido al testador o los herederos, y no fueren contrarias a las leyes, las de un administrador general.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2574.
 
-El albacea debe deducir todas las acciones que pertenecieron al autor de la herencia y que no se hayan extinguido por su muerte.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2575.
 
-Son obligaciones del albacea general:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- La presentación del testamento.
-
-II.- El aseguramiento de los bienes de la herencia.
-
-III.- La formación de inventarios.
-
-IV.- La administración de los bienes y la rendición de cuentas del albaceazgo.
-
-V.- El pago de las deudas mortuorias, hereditarias y testamentarias.
-
-VI.- La partición y adjudicación de los bienes entre los herederos y legatarios.
-
-VII.- La defensa en juicio o fuera de él, así de la herencia como de la validez del testamento, conforme a derecho.
-
-VIII.- La representación de la sucesión en todos los juicios que hubieren de promoverse en su nombre o que se promovieren contra ella.
-
-IX.- Las demás que le imponga la ley.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2576.
 
-Los acreedores y legatarios no podrán exigir el pago de sus créditos y legados, sino hasta que el inventario haya sido formado y aprobado dentro del término legal fijado para el efecto, salvo los casos previstos en los artículos 2610 y 2611 de este código, y aquellas deudas sobre las cuales hubiere juicio pendiente, al abrirse la sucesión; pero tienen derecho a promover y cuidar la formación del inventario.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2577.
 
-Si el albacea ha sido nombrado en testamento, y lo tiene en su poder, debe presentarlo dentro de los ocho días siguientes a la muerte del testador.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2578.
 
-En caso de intestado o cuando no conste quién de los herederos deba ser el albacea, se admitirá la denuncia hecha por cualquiera de ellos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2579.
 
-El albacea, antes de formar el inventario, no permitirá la extracción de cosa alguna, si no consta la propiedad ajena por el mismo testamento, por escritura pública o por los libros de contabilidad llevados debidamente.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2580.
 
-Cuando la propiedad de cosa ajena conste por medios diversos de los enumerados en el artículo que precede, el albacea se limitará a poner al margen de las partidas respectivas una nota que indique la pertenencia de la cosa, para que la propiedad se discuta en el juicio correspondiente.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2581.
 
-Son nulas de pleno derecho las disposiciones por las que el testador dispense al albacea de la obligación de rendir cuentas y de la de hacer inventario.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2582.
 
-El albacea, dentro del primer mes de ejercer su encargo fijará de acuerdo con los herederos, la cantidad que haya de emplearse en los gastos de administración y el número y el sueldo de los dependientes.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2583.
 
-Si para el pago de una deuda u otro gasto urgente fuere necesario vender algunos bienes, el albacea deberá hacerlo de acuerdo con los herederos; y si eso no fuere posible, con la aprobación judicial.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2584.
 
-Lo dispuesto en los artículos 457 y 458 de este código respecto de los tutores, se observará también respecto de los albaceas.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2585.
 
-Los bienes legados específicamente no pueden ser gravados, hipotecados, ni arrendados sin consentimiento del legatario.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2586.
 
-El albacea no puede gravar ni hipotecar los bienes, sin consentimiento de todos los herederos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2587.
 
-El albacea no puede transigir ni comprometer en árbitros los negocios de la herencia, previo consentimiento de todos los herederos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2588.
 
-El albacea no puede, sin consentimiento de la mayoría de los herederos o del interventor, si éste estuviere nombrado:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Arrendar los bienes de la herencia por más de un año.
-
-II.- Pagar las deudas del autor de la herencia, salvo que consten en escritura pública.
-
-III.- Conformarse con las demandas presentadas, contra el autor de la herencia o contra la sucesión.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2589.
 
-La obligación que de dar cuentas tiene el albacea, pasa a sus herederos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2590.
 
-El albacea a quien el testador no haya fijado plazo, debe cumplir su encargo dentro de un año, contado desde su aceptación o desde que terminen los litigios que se promovieren sobre la validez o nulidad del testamento.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2591.
 
-Si el testador prorroga el plazo legal, debe señalar expresamente el tiempo de la prórroga, o de lo contrario se entenderá prorrogado el plazo por otro año. Lo mismo pueden acordar todos los herederos. Al expirar el plazo que fija el artículo anterior, o su prórroga, el juez de plano, sin recurso alguno, removerá al albacea y mientras se nombre nuevo albacea, si no estuviere nombrado por testamento o por la mayoría de los herederos, pondrá los bienes al cuidado de un depositario que él nombrará y que deberá ser mayor de edad y capaz de obligarse.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2592.
 
-La cuenta de administración debe ser aprobada por todos los herederos; el que disienta, puede seguir a su costa el juicio respectivo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2593.
 
-Cuando fuere interesado el fisco, intervendrá el ministerio público en la aprobación de las cuentas.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2594.
 
-Los gastos hechos por el albacea en el cumplimiento de su encargo, incluso los honorarios de abogados y procuradores que haya ocupado, se pagarán de la masa de la herencia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2595.
 
-El testador puede señalar al albacea la retribución que quiera.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2596.
 
-Si el testador no designare la retribución, el albacea cobrará el dos por ciento sobre el importe líquido y efectivo de la herencia y el cinco por ciento sobre los productos industriales de los bienes hereditarios.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2597.
 
-Si el mismo hiciere la partición, cobrará además, el dos por ciento sobre el importe líquido y efectivo de la herencia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2598.
 
-El albacea a quien se ha asignado algún legado por razón de su cargo, no tiene derecho de cobrar otra retribución.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2599.
 
-Si fueren varios y mancomunados los albaceas, la retribución se repartirá entre todos ellos; si no fueren mancomunados, la repartición se hará en proporción al tiempo que cada uno haya administrado y al trabajo que hubiere tenido en la administración. El que hubiere sido removido perderá su derecho a toda retribución.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2600.
 
-El albacea que no presente el inventario en el término legal, perderá todo derecho a ser retribuido y si señalado nuevo término no lo presenta, será removido de plano, conforme al artículo 2591 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2601.
 
-El testador puede nombrar libremente un interventor. Los herederos que no administran, tienen derecho para nombrar, a mayoría de votos, un interventor que vigile en nombre de todos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2602.
 
-Si los herederos no se pusieren de acuerdo en la elección, el juez nombrará al interventor, escogiéndole de entre las personas que hayan sido propuestas por los herederos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2603.
 
-El interventor no puede tener la posesión, ni aún interina, de los bienes.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2604.
 
-Debe nombrarse precisamente un interventor:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Cuando entre los herederos nombrados haya alguna persona casada menor de edad cuyo cónyuge hubiere sido separado judicialmente de ella o de la administración de los bienes.
-
-II.- Siempre que el heredero esté ausente o no sea conocido.
-
-III.- Cuando la cuantía de los legados iguale o exceda a la porción del heredero albacea.
-
-IV.- Cuando se hayan dejado legados, cualquiera que sea su cuantía, para objetos o establecimientos de beneficencia pública.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2605.
 
-Las funciones del interventor, además de las que especialmente le confiera este código, serán las de vigilar el exacto cumplimiento del cargo de albacea y evitar que éste cause perjuicios a la sucesión. Siempre que alguno de los herederos lo solicite y el albacea se negare a intentar una acción o contestarla en nombre de la sucesión, podrá hacerlo el interventor en representación de la sucesión, siendo los gastos y honorarios que se causen por cuenta de ésta si se obtiene éxito, y en caso contrario, de cuenta del solicitante.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2606.
 
-Los cargos de albacea o interventor acaban:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Por el término natural del encargo.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
-II.- Por muerte.
-
-III.- Por incapacidad legal, declarada en forma.
-
-IV.- Por renuncia.
-
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
-
-V.- Por el vencimiento del término señalado por el testador o por la ley.
-
-VI.- Por remoción, la que no tendrá lugar sino por sentencia pronunciada a petición de parte legítima y con audiencia del interesado; salvo los casos de los artículos 2591 y 2600 de este código.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO V. DEL INVENTARIO Y LIQUIDACION DE LA HERENCIA
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 2607.
 
-El albacea definitivo, dentro de treinta días contados desde que hubiere entrado al desempeño de sus funciones, promoverá la formación de inventario.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2608.
 
-Si el albacea no cumpliere con lo dispuesto en el artículo anterior podrá promover la formación del inventario cualquier heredero, el cual se considerará asociado al albacea, quien no podrá ejecutar en lo sucesivo, sin consentimiento de aquél, ningún acto de administración. En caso de desacuerdo, se ocurrirá al juez para que resuelva.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2609.
 
-Concluido y aprobado judicialmente el inventario el albacea procederá a la liquidación de la herencia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2610.
 
-En primer lugar serán pagadas del cuerpo de la herencia las deudas mortuorias, si no lo estuvieren ya, pues pueden pagarse antes de la formación del inventario. Son deudas mortuorias: los gastos del funeral, y los que se hayan causado en la última enfermedad del autor de la herencia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2611.
 
-En segundo lugar se pagarán los gastos causados por la misma herencia y los créditos alimentistas, que pueden ser cubiertos antes de la formación del inventario.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2612.
 
-En seguida se pagarán las deudas hereditarias que fueren exigidas.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2613.
 
-Se llaman deudas hereditarias las contraídas por el autor de la herencia independientemente de su última disposición y de las que es responsable con sus bienes.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2614.
 
-Si para hacer los gastos de que hablan los artículos anteriores no hubiere dinero en la herencia, el albacea promoverá la venta de los bienes muebles y aún de los inmuebles, con las solemnidades que respectivamente se requieran.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2615.
 
-Si hubiere pendiente algún concurso, el albacea no deberá pagar sino conforme a la sentencia de graduación de acreedores.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2616.
 
-Los acreedores, cuando no haya concurso, serán pagados en el orden en que se presenten; pero si entre los no presentados, hubiere algunos preferentes, se exigirá a los que fueren pagados la caución de acreedor de mejor derecho.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2617.
 
-El albacea, concluido el inventario, no podrá pagar los legados sin haber cubierto o asignado bienes bastantes para pagar las deudas, conservando en los respectivos bienes los gravámenes especiales que tengan.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2618.
 
-Los acreedores que se presenten después de pagados los legados, sólo tendrán acción contra éstos cuando en la herencia no hubieren bienes bastantes para cubrir sus créditos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2619.
 
-La venta de bienes hereditarios en todo caso se hará en pública subasta, a no ser que la mayoría de los interesados acuerden otra cosa.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2620.
 
-El acuerdo de la mayoría de los interesados, o la autorización judicial en su caso, determinarán la aplicación que haya de darse al precio de las cosas vendidas.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO VI. DE LA PARTICION
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 2621.
 
-Aprobados el inventario y la cuenta de administración, el albacea debe hacer en seguida la partición de la herencia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2622.
 
-A ningún coheredero puede obligarse a permanecer en la indivisión de los bienes, ni aún por prevención expresa del testador, salvo lo dispuesto para el patrimonio de la familia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2623.
 
-Sólo puede suspenderse una partición en el caso del artículo 2522 de este código, o en virtud de convenio expreso de todos los interesados. Habiendo menores entre ellos, deberá oirse al tutor y al ministerio público, y el acuerdo en que se apruebe el convenio determinará el tiempo que debe durar la indivisión.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2624.
 
-Si el autor de la herencia hiciere la partición de los bienes en su testamento, a ella deberá estarse, salvo derecho de tercero.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2625.
 
-Las deudas contraídas durante la indivisión, serán pagadas preferentemente.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2626.
 
-Si el testador hubiere legado alguna pensión o renta vitalicia sin gravar con ella en particular a algún heredero o legatario, se capitalizará al nueve por ciento anual, y se separará un capital o fondo equivalente que se entregará a la persona que deba percibir la pensión o renta, quien tendrá todas las obligaciones de mero usufructuario.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2627.
 
-En el proyecto de partición se expresará la parte que del capital o fondo afecto a la pensión que corresponderá a cada uno de los herederos luego que aquélla se extinga.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2628.
 
-Lo dispuesto en los dos artículos anteriores, se observará cuando se trate de las pensiones alimenticias a que se refiere el artículo 2274 de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2629.
 
-Cuando todos los herederos fueren mayores, podrán hacer extrajudicialmente la partición, la cual sólo será judicial si fuere menor alguno de los interesados o si la mayoría de éstos lo pidiere.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2630.
 
-La partición constará en escritura pública siempre que en la herencia haya bienes cuya enajenación debe hacerse con esa formalidad.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2631.
 
-La acción para pedir la partición de la herencia prescribe a los diez años contra el coheredero que ha poseído en todo o parte de ella en nombre propio.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2632.
 
-Si todos los coherederos poseen en común la herencia o alguno en nombre de todos, no tiene lugar la prescripción.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2633.
 
-El término para la prescripción se contará desde el día en que falleció el autor de la herencia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2634.
 
-Los gastos de la partición se rebajarán del fondo común; los que se hagan por el interés particular de alguno de los herederos o legatarios, se imputarán a su haber.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO VII. DE LOS EFECTOS DE LA PARTICION
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 2635.
 
-Los coherederos están recíprocamente obligados a indemnizarse en caso de evicción de los objetos repartidos y pueden usar del derecho que les concede el artículo 2091 fracción I de este código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2636.
 
-La obligación de saneamiento sólo cesará en los casos siguientes:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
-I.- Cuando el mismo autor de la herencia haya hecho en vida la partición.
-
-II.- Cuando al hacerse ésta se haya pactado expresamente.
-
-III.- Cuando la evicción proceda de causa posterior a la partición, o fuere ocasionada por culpa del que la sufre.
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2637.
 
-El que sufre la evicción será indemnizado por los coherederos en proporción a sus cuotas hereditarias.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2638.
 
-La porción que deberá pagarse al que pierda su parte por evicción, no será la que represente su haber primitivo, sino la que le corresponda, deduciéndose del total de la herencia la parte perdida.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2639.
 
-Si alguno de los coherederos estuviere insolvente, la cuota con que debía contribuir se repartirá entre los demás, incluso el que perdió su parte por la evicción.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2640.
 
-Los que pagaren por el insolvente, conservarán su acción contra él para cuando mejore de fortuna.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2641.
 
-Si se adjudica como cobrable un crédito, los coherederos no responden de la insolvencia posterior del deudor hereditario y sólo son responsables de su solvencia al tiempo de hacerse la partición.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2642.
 
-El heredero cuyos bienes hereditarios fueren embargados o contra quien se pronunciare sentencia en juicio por causa de ellos, tiene derecho de pedir que sus coherederos caucionen la responsabilidad que pueda resultarles; y en caso contrario que se les prohiba enajenar los bienes que recibieron.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)</small>
 
 ### CAPITULO VIII. DE LA RESCISION DE LAS PARTICIONES
 
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
 ###### Artículo 2643.
 
-Las particiones pueden rescindirse o anularse por las mismas causas que las obligaciones.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2644.
 
-La partición hecha con preterición de alguno de los herederos, no se rescindirá, a no ser que se pruebe que hubo dolo o mala fe de parte de los otros interesados; pero éstos tendrán obligación de pagar al preterido la parte que le corresponda.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2645.
 
-La partición hecha con un heredero falso, es nula en cuanto tengan relación con él y en cuanto su personalidad perjudique a los otros interesados.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
+
+> <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 ###### Artículo 2646.
 
-Si hecha la partición aparecieren algunos bienes omitidos en ella, se hará una división suplementaria, en la cual se observarán las disposiciones contenidas en este título.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
 ## ARTICULOS TRANSITORIOS
 
@@ -13895,6 +15067,28 @@ ARTÌCULO TERCERO.- Se derogan todas las disposiciones de igual o menor rango qu
 
 D.O. 8 DE ABRIL DE 2011.
 
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones contenidas en el Capítulo III denominado "Del Matrimonio", en el Capítulo IV denominado "Del Divorcio" y en el Capítulo VI denominado "Del concubinato", los tres pertenecientes al TÍTULO SEGUNDO "DEL ESTADO CIVIL"; todos los artículos contenidos en el TÍTULO TERCERO DENOMINADO "DE LOS ALIMENTOS, DEL PARENTESCO Y DE LA VIOLENCIA FAMILIAR" el cual incluye los capítulos siguientes: Capítulo I denominado "Del parentesco", Capítulo II denominado "De los Alimentos", y el Capítulo III denominado "De la violencia familiar"; todas las disposiciones que se encuentran en el TÍTULO CUARTO "DE LA PATERNIDAD Y FILIACIÓN" el cual comprende los capítulos siguientes: Capítulo I denominado "De los hijos nacidos de matrimonio", el Capítulo II denominado "De las pruebas de filiación de los hijos nacidos de matrimonio", el Capítulo III denominado "De los hijos nacidos fuera de matrimonio" y el Capítulo IV que se denomina "De la adopción"; todos los artículos que se encuentran en el TÍTULO QUINTO "DE LA PATRIA POTESTAD" mismo que incluye los capítulos I, II y III denominados, respectivamente: "De los efectos de la patria potestad respecto a la persona de los descendientes", "De los efectos de la patria potestad sobre los bienes de los descendientes" y "De la suspensión y terminación de la patria potestad"; todas las disposiciones normativas del TÍTULO SEXTO, "DE LA TUTELA", contenido en los Capítulos I denominado "Disposiciones Generales", Capítulo II "De la tutela testamentaria", Capítulo III "De la tutela legítima", Capítulo IV "De la tutela dativa", Capítulo V "De las personas inhábiles para el desempeño de la tutela y de las personas que deben ser separadas de ella", el Capítulo VI "De las excusas de la tutela", el Capítulo VII denominado "De las garantías que deben otorgar los tutores", el Capítulo VIII "Del desempeño de la tutela", Capítulo IX denominado "De las cuentas de la tutela", el Capítulo X "De la entrega de los bienes", el Capítulo XI denominado "De la curatela", el Capítulo XII denominado "De los Consejos locales de tutelas", y el Capítulo XIII denominado "De los Consejos de Familia"; todos los artículos que integran el TÍTULO SÉPTIMO "DE LA MAYOR EDAD", en su Capítulo único; todas las disposiciones que establece el TÍTULO OCTAVO "DE LOS AUSENTES E IGNORADOS" que incluye los capítulos siguientes: Capítulo I denominado "De las medidas provisionales", Capítulo II "De la declaración de ausencia", Capítulo III "De la presunción de muerte del ausente" y el Capítulo IV denominado "Disposiciones generales", Títulos éstos que forman parte del LIBRO PRIMERO denominado "DE LAS PERSONAS" del Código Civil de Yucatán. Asimismo se derogan del LIBRO CUARTO denominado "SUCESIONES", todos los artículos que forman parte del TÍTULO PRIMERO "DE LA HERENCIA Y DE LOS HEREDEROS Y LEGATARIOS" el que incluye el Capítulo I "De la herencia" y el Capítulo II denominado "De los herederos y legatarios"; todas las disposiciones contenidas en el TÍTULO SEGUNDO "DE LAS SUCESIONES POR TESTAMENTO" el cual comprende los capítulos siguientes: Capítulo I "Disposiciones generales", Capítulo II "De la capacidad para testar", el Capítulo III "De la capacidad para heredar", el Capítulo IV "De las condiciones que pueden ponerse en los testamentos", el Capítulo V denominado "De los bienes que pueden disponerse por testamento", el Capítulo VI "De la institución de heredero", el Capítulo VII denominado "De los legados", el Capítulo VIII "De las sustituciones", y el Capítulo IX denominado "De la nulidad, revocación y caducidad de los testamentos"; todos los artículos que forman parte del TÍTULO TERCERO "DE LA FORMA DE LOS TESTAMENTOS" del cual forman parte ocho capítulos denominados respectivamente: "Disposiciones generales", "Del testamento público abierto", "Del testamento público cerrado", "Del testamento ológrafo", "Del testamento privado", "Del testamento militar", "Del testamento marítimo" y "Del testamento hecho en país extranjero"; todas las disposiciones del TÍTULO CUARTO "DE LA SUCESIÓN LEGÍTIMA" el cual se integra por el Capítulo I "Disposiciones generales", Capítulo II "Del derecho de representación", Capítulo III "De la sucesión de los descendientes", Capítulo IV "De la sucesión de los ascendientes", Capítulo V "De la sucesión del cónyuge, concubina y del concubinario" y el Capítulo VI "De la sucesión de los colaterales" y el Capítulo VII "De la sucesión del fisco del Estado" y finalmente se derogan también todos los artículos contenidos en el TÍTULO QUINTO "DISPOSICIONES COMUNES A LA SUCESIÓN TESTAMENTARIA Y A LA LEGÍTIMA" que está incluido por los capítulos siguientes: Capítulo I "Precauciones que deben adoptarse cuando la viuda quede encinta", el Capítulo II denominado "De la apertura y trasmisión de la herencia", el Capítulo III "De la aceptación y repudiación de la herencia", el Capítulo IV "Del albaceazgo", el Capítulo V denominado "Del inventario y liquidación de la herencia", el Capítulo VI "De la partición", el Capítulo VII denominado "De los efectos de la partición", y el Capítulo VIII "De la rescisión de las particiones", todos del Código Civil del Estado de Yucatán.
+
+###### ARTÍCULO TERCERO.
+
+Todos los procedimientos, juicios y demás asuntos relacionados con la materia familiar que se encuentren en trámite a la entrada en vigor de este Código de Familia para el Estado de Yucatán, se substanciarán y resolverán hasta su total conclusión de conformidad con las normas aplicables al momento en que fueron iniciados.
+
 ###### ARTÍCULO ÚNICO.
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 30 DE ABRIL DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Este Código entrará en vigor a los 180 días hábiles siguientes a los de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO CUARTO.
+
+Lo dispuesto en el artículo 253 de este Código, entrará en vigor una vez que se expidan las reglas y normas en la legislación del registro civil del Estado, acerca de la tramitación, excepciones y demás supuestos derivados del proceso de elección que deberán seguir ambos progenitores para establecer el orden de los apellidos de sus descendientes en línea recta de primer grado.
+
+###### ARTÍCULO QUINTO.
+
+Los Poderes Ejecutivo y Judicial del Estado, deberán tomar todas las previsiones y medidas administrativas y legales necesarias para la debida aplicación de las disposiciones de este Código de Familia para el Estado de Yucatán.
