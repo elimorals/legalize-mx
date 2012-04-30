@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-instituto-de-las-artesanias-e-69175"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-06-26"
-last_updated: "2009-06-26"
+last_updated: "2012-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69175&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE LAS ARTESANIAS E INDUSTRIAS POPULARES DEL ESTADO DE PUEBLA
 
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO ÚNICO DEL DECRETO POR EL QUE SE EXTINGUE EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE ARTESANÍAS E INDUSTRIAS POPULARES DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE 30 DE ABRIL DE 2012, SE SUPRIME EL MENCIONADO ORGANISMO, TRANSFIRIENDO SUS RECURSOS HUMANOS, MATERIALES Y FINANCIEROS A LA SECRETARÍA DE LA COMPETITIVIDAD, TRABAJO Y DESARROLLO ECONÓMICO, EN LOS TÉRMINOS DE LOS ARTÍCULOS TRANSITORIOS DE DICHO DECRETO.</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO DE ARTESANIAS E INDUSTRIAS POPULARES DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2012.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 26 de junio de 2009.
 
@@ -315,3 +317,49 @@ Se deja sin efecto el Reglamento Interior del Instituto de Artesanías e Industr
 Todos los acuerdos, circulares y demás lineamientos emitidos con anterioridad, tendrán validez en todo lo que no se oponga al presente Reglamento.
 
 Así lo aprobaron por unanimidad los integrantes de la Junta Directiva del Instituto de Artesanías e Industrias Populares del Estado de Puebla, con fundamento en el artículo 13 fracción I del Decreto de creación de dicho Instituto, los cuales firman para constancia. Conste.- Representante del Licenciado Mario Marín Torres, Gobernador Constitucional del Estado y Presidente Honorario.- LICENCIADO JOSE ANTONIO LOPEZ MALO CAPELLINI.- Rúbrica.- Por la Secretaría de Desarrollo Económico y Secretario Ejecutivo de la Junta Directiva del Instituto de Artesanías e Industrias Populares del Estado.- LICENCIADO RENE HERIBERTO RUIZ RANGEL.- Rúbrica.- Por la Secretaría de Finanzas y Administración: Vocal.- LICENCIADO MARIO ALBERTO GONZÁLEZ GOVEA.- Rúbrica.- Por la Secretaría de Desarrollo Social.- Vocal.- LICENCIADO JAIME EDUARDO ALCAZAR LANDINI.- Rúbrica.- Por la Secretaría de Turismo.- Vocal.- LICENCIADO JUAN JOSÉ BRETÓN AVALOS.- Rúbrica.- Por la Secretaría de Cultura.- Vocal.- DOCTORA YOLANDA RIOS CERÓN.- Rúbrica.- Por el IAIP.- DIRECTORA GENERAL PROFESORA MARIA DE LOS ANGELES MARINA BLANCO CASCO.- Rúbrica.- Por la Comisión Estatal para el Desarrollo Integral de los Pueblos Indígenas.- Vocal.- CIUDADANO JUAN CARLOS MIER VELASCO.- Rúbrica.- Comisaria Pública del IAIP.- CONTADORA PÚBLICA LUZ MARIA VARGAS HERNÁNDEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE ABRIL DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día hábil siguiente al de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Decreto del Congreso del Estado por el cual se crea el Organismo Público descentralizado denominado Instituto de Artesanías e Industrias Populares del Estado de Puebla, publicado en el Periódico Oficial del Estado el treinta de diciembre de dos mil cinco.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos humanos asignados al Instituto de Artesanías e Industrias Populares del Estado de Puebla, que sean necesarios, serán transferidos a la Secretaría de Competitividad, Trabajo y Desarrollo Económico; las Secretarías de Finanzas y de Administración, en el ámbito de sus respectivas competencias, deberán realizar las acciones correspondientes para respaldar dichos movimientos.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos materiales propiedad del Instituto de Artesanías e Industrias Populares del Estado de Puebla, a la entrada en vigor del presente Decreto, deberán ser transferidos a la Secretaría de Administración, para que en su ámbito de competencia, realice las acciones correspondientes respecto del destino de los mismos.
+
+###### ARTÍCULO QUINTO.
+
+Los recursos financieros con los que cuenta el Instituto de Artesanías e Industrias Populares del Estado de Puebla a la entrada en vigor del presente Decreto, cualquiera que sea su origen, serán transferidos a la Secretaría de Finanzas.
+
+El producto de la venta del inventario de las mercancías que se concentren en la citada Dependencia, deberá ser ingresado a la Secretaría de Finanzas.
+
+###### ARTÍCULO SEXTO.
+
+La Secretaría de Competitividad, Trabajo y Desarrollo Económico, realizará los trámites correspondientes para la cancelación del Registro Federal de Contribuyentes ante la Secretaría de Hacienda y Crédito Público.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Competitividad, Trabajo y Desarrollo Económico a partir de la entrada en vigor del presente Decreto, conocerá de los juicios, procesos o trámites análogos incluidos los contratos, convenios y demás instrumentos jurídicos, que eran competencia del Instituto de Artesanías e Industrias Populares del Estado de Puebla.
+
+###### ARTÍCULO OCTAVO.
+
+Los demás derechos, obligaciones y demás asuntos y disposiciones legales a favor o en los que se haga referencia al Instituto de Artesanías e Industrias Populares del Estado de Puebla, se entenderán subrogados y concedidas las atribuciones a la Secretaría de Trabajo, Competitividad y Desarrollo Económico.
+
+###### ARTÍCULO NOVENO.
+
+La Secretaría de Trabajo, Competitividad y Desarrollo Económico, en términos de la normatividad vigente, se coordinará con las Secretarías de Finanzas, de Administración y de la Contraloría, a fin de que lleven a cabo las acciones que deriven de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO DÉCIMO.
+
+Se derogan aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
