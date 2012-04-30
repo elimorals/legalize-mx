@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-secretaria-de-proteccion-civil-85662"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-01-25"
-last_updated: "2012-01-25"
+last_updated: "2012-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85662&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "VER"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE PROTECCION CIVIL DEL ESTADO DE VERACRUZ
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE ABRIL DE 2012 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE PROTECCIÓN CIVIL DEL ESTADO DE VERACRUZ
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 30 DE ABRIL DE 2012.</small>
 
 Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 25 de enero de 2012.
 
@@ -411,43 +411,65 @@ XV. Otorgar orientación y asesoría a las empresas mencionadas en la fracción 
 
 XVI. Las demás que les atribuyan este reglamento y otras disposiciones legales aplicables, así como las que les sean conferidas por el Director General de Administración de Emergencias.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE ABRIL DE 2012 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 13.
 
 Los Enlaces Regionales tendrán la sede que determine el Secretario y ejercerán sus atribuciones en la circunscripción territorial que a continuación se indica:
 
-I. Región Pánuco: Chalma, Chiconamel, El Higo, Ozuluama, Pánuco, Platón Sánchez, Pueblo Viejo, Tampico Alto, Tantoyuca, Tempoal;
+> <small>(F. DE E., G.O. 30 DE ABRIL DE 2012)</small>
 
-II. Región Sierra de Otontepec. Huasteca Baja: Chinampa de Gorostiza, Chontla, Citlaltépec, Ixcatepec, Tamalín, Tancoco, Tantima;
+l. Región Pánuco: Chalma, Chiconamel, El Higo, Ozuluama de Mascareñas, Pánuco, Platón Sánchez, Pueblo Viejo, Tampico Alto, Tantoyuca, Tempoal;
 
-III. Región Chicontepec: Benito Juárez, Chicontepec, Huayacocotla, Ilamatlán, Ixhuatlán de Madero, Texcatepec, Tlachichilco, Zacualpan de Zaragoza, Zontecomatlán;
+> <small>(F. DE E., G.O. 30 DE ABRIL DE 2012)</small>
+
+II. Región Sierra de Otontepec. Huasteca Baja: Chinampa de Gorostiza, Chontla, Citlaltépetl, Ixcatepec, Tamalín, Tancoco, Tantima;
+
+> <small>(F. DE E., G.O. 30 DE ABRIL DE 2012)</small>
+
+III. Región Chicontepec: Benito Juárez, Chicontepec, Huayacocotla, Ilamatlán, Ixhuatlán de Madero, Texcatepec, Tlachichilco, Zacualpan, Zontecomatlán;
 
 IV. Región Tuxpan: Álamo Temapache, Naranjos Amatlán, Cerro Azul, Tamiahua, Tepetzintla, Tuxpan;
 
-V. Región Poza Rica: Castillo de Teayo, Cazones de Herrera, Coatzintla, Poza Rica, Tihuatlán;
+> <small>(F. DE E., G.O. 30 DE ABRIL DE 2012)</small>
 
-VI. Región Papantla: Chumatlán, Coahuitlán, Coxquihui, Coyutla de Benítez, Espinal, Filomeno Mata, Gutiérrez Zamora, Macatlán, Papantla, Zozocolco;
+V. Región Poza Rica: Castillo de Teayo, Cazones de Herrera, Coatzintla, Poza Rica de Hidalgo, Tihuatlán;
 
-VII. Región Martínez de la Torre: Colipa, Juchique de Ferrer, Martínez de la Torre, Misantla, Nautla, San Rafael, Tecolutla, Tenochtitlan, Tlapacoyan, Vega de Alatorre, Yecuatla;
+> <small>(F. DE E., G.O. 30 DE ABRIL DE 2012)</small>
+
+VI. Región Papantla: Chumatlán, Coahuitlán, Coxquihui, Coyutla, Espinal, Filomeno Mata, Gutiérrez Zamora, Mecatlán, Papantla, Zozocolco de Hidalgo;
+
+> <small>(F. DE E., G.O. 30 DE ABRIL DE 2012)</small>
+
+VII. Región Martínez de la Torre: Colipa, Juchique de Ferrer, Martínez de la Torre, Misantla, Nautla, San Rafael, Tecolutla, Tenochtitlán, Tlapacoyan, Vega de Alatorre, Yecuatla;
 
 VIII. Región Perote: Altotonga, Atzalan, Acajete, Jalacingo, Las Minas, Las Vigas de Ramírez, Perote, Rafael Lucio, Tatatila, Tlacolulan, Villa Aldama;
 
-IX. Región Xalapa: Acatlán, Actopan, Alto Lucero, Banderilla, Chiconquiaco, Coacoatzintla, Emiliano Zapata, Jilotepec, Landero y Coss, Miahuatlán, Naolinco, Tepetlán, Tlalnelhuayocan, Tonayán, Xalapa;
+> <small>(F. DE E., G.O. 30 DE ABRIL DE 2012)</small>
+
+IX. Región Xalapa: Acatlán, Actopan, Alto Lucero de Gutiérrez Barrios, Banderilla, Chiconquiaco, Coacoatzintla, Emiliano Zapata, Jilotepec, Landero y Coss, Miahuatlán, Naolinco, Tepetlán, Tlalnelhuayocan, Tonayán, Xalapa;
 
 X. Región Coatepec: Coatepec, Xico, Teocelo, Cosautlán de Carvajal, Ixhuacán de los Reyes, Ayahualulco, Jalcomulco, Apazapan, Tlaltetela, Totutla, Tenampa;
 
-XI. Región Veracruz: Veracruz, Boca del Río, Jamapa, Medellín, Alvarado, Ignacio de la Llave, La Antigua, Manlio Fabio Altamirano, Paso de Ovejas, Puente Nacional, Soledad de Doblado, Tlalixcoyan, Úrsulo Galván;
+> <small>(F. DE E., G.O. 30 DE ABRIL DE 2012)</small>
+
+XI. Región Veracruz: Veracruz, Boca del Río, Cotaxtla, Jamapa, Medellín, Alvarado, Ignacio de la Llave, La Antigua, Manlio Fabio Altamirano, Paso de Ovejas, Puente Nacional, Soledad de Doblado, Tlalixcoyan, Úrsulo Galván;
 
 XII. Región Huatusco: Alpatláhuac, Calcahualco, Camarón de Tejeda, Chocamán, Coscomatepec, Huatusco, Ixhuatlán del Café, Paso del Macho, Sochiapa, Tepatlaxco, Tlacotepec de Mejía, Comapa, Tomatlán, Zentla;
 
-XIII. Región Córdoba: Amatlán de los Reyes, Atoyac, Coetzala, Córdoba, Cuichapa, Cuitlahuac, Fortín de las Flores, Naranjal, Omealca, Tezonapa, Yanga, Carrillo Puerto;
+> <small>(F. DE E., G.O. 30 DE ABRIL DE 2012)</small>
 
-XIV. Región Orizaba: Acultzingo, Tlilapan, Aquila, Atzacan, Camerino Z. Mendoza, Nogales, Huiloapan de Cuahutémoc, Rafael Delgado, Ixtaczoquitlán, La Perla, Magdalena, Maltrata, Mariano Escobedo, Ixhuatlancillo, Orizaba, Río Blanco;
+XIII. Región Córdoba: Amatlán de los Reyes, Atoyac, Coetzala, Córdoba, Cuichapa, Cuitláhuac, Fortín, Naranjal, Omealca, Tezonapa, Yanga, Carrillo Puerto;
 
-XV. Región Zongolica: Astacinga, Atlahuilco, Los Reyes, Mixtla de Altamirano, San Andrés Tenejapán, Soledad Atzompa, Tehuipango, Tequila, Texhuacan, Tlaquilpa, Xoxocoxtla, Zongolica;
+> <small>(F. DE E., G.O. 30 DE ABRIL DE 2012)</small>
 
-XVI. Región Cosamaloapan: Acula, Amatitlán, Carlos A. Carrillo, Chacaltianguis, Cosamaloapan, Ixmatlahuacan, Otatitlán, Tlacojalpan, Tlacotalpan, Tuxtlilla;
+XIV. Región Orizaba: Acultzingo, Tlilapan, Aquila, Atzacan, Camerino Z. Mendoza, Nogales, Huiloapan de Cuauhtémoc, Rafael Delgado, Ixtaczoquitlán, La Perla, Magdalena Maltrata, Mariano Escobedo, Ixhuatlancillo, Orizaba, Río Blanco;
+
+> <small>(F. DE E., G.O. 30 DE ABRIL DE 2012)</small>
+
+XV. Región Zongolica: Astacinga, Atlahuilco, Los Reyes, Mixtla de Altamirano, San Andrés Tenejapan, Soledad Atzompa, Tehuipango, Tequila, Texhucán, Tlaquilpa, Xoxocotla, Zongolica;
+
+> <small>(F. DE E., G.O. 30 DE ABRIL DE 2012)</small>
+
+XVI. Región Cosamaloapan: Acula, Amatitlán, Carlos A. Carrillo, Chacaltianguis, Cosamaloapan de Carpio, Ixmatlahuacan, Otatitlán, Tlacojalpan, TIacotalpan, TuxtiIIa.
 
 XVII. Región Tres Valles: Tierra Blanca, José Azueta, Santiago Sochiapan, Playa Vicente, Tres Valles, Isla, Juan Rodríguez Clara, San Juan Evangelista;
 
@@ -455,7 +477,9 @@ XVIII. Región Los Tuxtlas: Ángel R. Cabada, Lerdo de Tejada, Saltabarranca, Ca
 
 XIX. Región Minatitlán: Acayucan, Cosoleacaque, Chinameca, Hidalgotitlán, Jáltipan, Jesús Carranza, Minatitlán, Oluta, Oteapan, Soconusco, Sayula de Alemán, Texistepec, Uxpanapa, Zaragoza; y
 
-XX. Región Coatzacoalcos: Macayapan, Pajapan, Soteapan, Tatahuicapan de Juárez, Agua Dulce, Coatzacoalcos, Ixhuatlán del Sureste, Las Choapas, Moloacán y Nanchital de Lázaro Cárdenas del Río.
+> <small>(F. DE E., G.O. 30 DE ABRIL DE 2012)</small>
+
+XX. Región Coatzacoalcos: Mecayapan, Pajapan, Soteapan, Tatahuicapan de Juárez, Agua Dulce, Coatzacoalcos, Ixhuatlán del Sureste, Las Choapas, Moloacán y Nanchital de Lázaro Cárdenas del Río.
 
 Cuando por circunstancias operativas se requiera, conforme al presupuesto aprobado y mediante acuerdo escrito, el Secretario autorizará la creación, desaparición, cambio de sede o de circunscripción territorial, temporal o definitiva, de las Coordinaciones Regionales.
 
