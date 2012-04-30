@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-publicidad-exterior-del-distrito-82431"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-15"
-last_updated: "2012-03-02"
+last_updated: "2012-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82431&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-08-10"
 
 REGLAMENTO DE LA LEY DE PUBLICIDAD EXTERIOR DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE ABRIL DE 2012.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 15 de agosto de 2011.
 
@@ -1358,7 +1358,9 @@ Décimo segundo. Se abroga el "Acuerdo por el cual se aprueba el reordenamiento 
 
 Décimo tercero. La Secretaría, a través de la Autoridad del Espacio Público del Distrito Federal, conducirá la reubicación de anuncios en nodos y corredores publicitarios, a la que hace referencia el artículo Transitorio Cuarto de la Ley de Publicidad Exterior del Distrito Federal, de conformidad con las siguientes reglas:
 
-I. Serán objeto de reubicación en los nodos y corredores publicitarios, los anuncios autosoportados, en azoteas y adosados a fachadas de inmuebles ubicados en la Ciudad de México, que hayan sido materia de un convenio celebrado con el titular de la Secretaría de Desarrollo Urbano y Vivienda con anterioridad a la publicación del presente Reglamento, incluidos aquellos que se hayan incorporado al proceso de reubicación en el mes de mayo del año 2011 de conformidad con las disposiciones del acuerdo del Consejo de Publicidad Exterior publicado el 13 de mayo de 2011 en la Gaceta Oficial del Distrito Federal;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2012)</small>
+
+I. Serán objeto de reubicación en los nodos y corredores publicitarios, los anuncios autosoportados y en azoteas ubicados en la Ciudad de México, que hayan estado inscritos en el Programa de Reordenamiento de Anuncios y Recuperación de la Imagen Urbana del Distrito Federal instrumentado el 6 de diciembre de 2004, incluidos aquellos que se hayan incorporado al proceso de reubicación en el mes de mayo del año 2011 de conformidad con las disposiciones del acuerdo del Consejo de Publicidad Exterior publicado el 13 de mayo de 2011 en la Gaceta Oficial del Distrito Federal;
 
 II. En un plazo de quince días hábiles contados a partir de la fecha de publicación del presente Decreto, la Autoridad del Espacio Público del Distrito Federal publicará en la Gaceta Oficial del Distrito Federal un aviso que contendrá los requisitos que deban reunir las propuestas de reubicación de anuncios a los que se refiere la fracción anterior;
 
@@ -1368,11 +1370,25 @@ IV. Las propuestas de reubicación de anuncios que se presenten, serán analizad
 
 V. Cuando las propuestas de reubicación de anuncios se relacionen con la constitución de nodos publicitarios, la Autoridad del Espacio Público del Distrito Federal gestionará ante las autoridades competentes la asignación de los bienes del dominio público del Distrito Federal y la contraprestación de los Permisos Administrativos Temporales Revocables correspondientes, previamente a la aprobación de las propuestas de reubicación;
 
-VI. Una vez aprobada la propuesta de reubicación, la Secretaría de Desarrollo Urbano y Vivienda otorgará las licencias, y en su caso, los Permisos Administrativos Temporales Revocables correspondientes;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2012)</small>
 
-VII. El plazo de retiro voluntario de anuncios para su correspondiente reubicación, será de treinta días naturales contados a partir de la fecha de expedición de la licencia o Permiso Administrativo Temporal Revocable correspondiente;
+VI. Una vez aprobada la propuesta de reubicación, la Secretaría de Desarrollo Urbano y Vivienda otorgará las licencias, y en su caso, los Permisos Administrativos Temporales Revocables correspondientes, de conformidad con las siguientes reglas:
 
-VIII. Cuando transcurra el plazo de quince días hábiles sin que se haya presentado alguna propuesta de reubicación de anuncios, o cuando el interesado no haya dado seguimiento a su propuesta de reubicación, la Autoridad del Espacio Público del Distrito Federal asignará directamente los espacios correspondientes en el nodo o corredor publicitario que estime pertinente, mediante acuerdo que deberá publicar en la Gaceta Oficial del Distrito Federal;
+1. Reubicará en primer término los anuncios que hayan sido retirados o cuyas dimensiones hayan sido reducidas a las previstas por la Ley y su Reglamento, de conformidad con las vialidades, plazos y demás condiciones previstas en el acuerdo del Consejo de Publicidad Exterior publicado el 15 de agosto de 2011 en la Gaceta Oficial del Distrito Federal, y
+
+2. Si no fuere posible demostrar fehacientemente el retiro o la reducción de dimensiones a las que se refiere el párrafo anterior, tendrán preferencia de reubicación aquellos anuncios contenidos en la propuesta que primero se haya presentado y que hayan sido retirados dentro de los plazos ofrecidos para su retiro voluntario, o en su caso, determinados por la Autoridad del Espacio Público;
+
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2012)</small>
+
+VII. El plazo de retiro voluntario de anuncios para su correspondiente reubicación, así como el plazo de retiro que determine la Autoridad del Espacio Público del Distrito Federal, no podrá exceder de siete días naturales contados a partir de la fecha de expedición de la licencia o Permiso Administrativo Temporal Revocable correspondiente;
+
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2012)</small>
+
+VIII. Cuando transcurra el plazo de quince días hábiles sin que se haya presentado alguna propuesta de reubicación de anuncios, o cuando el interesado no haya dado seguimiento a su propuesta de reubicación, la Autoridad del Espacio Público del Distrito Federal asignará directamente los espacios correspondientes en el nodo o corredor publicitario que estime pertinente, mediante el otorgamiento de las licencias o Permisos Administrativos Temporales Revocables y la determinación del plazo de retiro correspondientes;
+
+> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2012)</small>
+
+VIII Bis. Los plazos previstos en las fracciones II, III, VII y VIII del presente artículo, se observarán sin perjuicio de que el Instituto de Verificación Administrativa del Distrito Federal o la Secretaría de Protección Civil, en el ámbito de sus respectivas competencias, retiren en cualquier tiempo los anuncios que representen un riesgo para la integridad física o patrimonial de las personas, de conformidad con la opinión técnica que al efecto emita la Secretaría de Protección Civil;
 
 IX. Las solicitudes relacionadas con la reubicación de anuncios formuladas por sus propietarios, serán atendidas por la Autoridad del Espacio Público del Distrito Federal, en mesas de trabajo a las que se refiere el artículo Transitorio Cuarto de la Ley de Publicidad Exterior del Distrito Federal, las cuales podrán ser individuales o colectivas, y de las cuales se levantará una minuta firmada por el titular de la Autoridad del Espacio Público del Distrito Federal y por las personas beneficiadas con la reubicación;
 
@@ -1380,11 +1396,15 @@ X. Cuando con motivo de la reubicación de anuncios resultase algún conflicto d
 
 XI. A falta de acuerdo señalado en la fracción anterior, la Autoridad del Espacio Público del Distrito Federal aplicará sucesivamente los siguientes criterios:
 
-1. Tendrán preferencia de reubicación aquellos anuncios contenidos en la propuesta que primero se haya presentado y que hayan sido retirados de la superficie a reubicar o de las áreas aledañas inmediatas dentro de los plazos ofrecidos para su retiro voluntario, o en su caso, determinados por la autoridad, y
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2012)</small>
+
+1. Aplicará las reglas previstas en la fracción VI del presente artículo, y
 
 2. De persistir el conflicto entre las partes, se someterán a sorteo los espacios de reubicación.
 
-XII. Los anuncios que no hayan sido reubicados o retirados voluntariamente por sus propietarios en el plazo previsto por el presente artículo, no obstante que la Autoridad del Espacio Público del Distrito Federal les haya asignado un espacio de reubicación, serán retirados por el Instituto de Verificación Administrativa del Distrito Federal de conformidad con las disposiciones aplicables, y
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2012)</small>
+
+XII. Los anuncios que no hayan sido reubicados o retirados voluntariamente por sus propietarios en los plazos a los que se refiere el presente artículo, no obstante que la Autoridad del Espacio Público del Distrito Federal les haya asignado un espacio de reubicación, serán retirados por el Instituto de Verificación Administrativa del Distrito Federal, o en su caso, por la Secretaría de Protección Civil, en el ámbito de sus respectivas competencias, y
 
 XIII. La Secretaría coordinará con el Instituto de Verificación Administrativa del Distrito Federal el retiro de anuncios en la ciudad, por el tiempo que dure la reubicación de anuncios.
 
@@ -1425,3 +1445,7 @@ G.O. 2 DE MARZO DE 2012.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Segundo. Las propuestas de reubicación de anuncios presentadas con anterioridad a la publicación del presente Decreto, serán admitidas a trámite por la Autoridad del Espacio Público del Distrito Federal, siempre que los anuncios sean objeto de reubicación de conformidad con las disposiciones del presente Decreto.
+
+G.O. 30 DE ABRIL DE 2012.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
