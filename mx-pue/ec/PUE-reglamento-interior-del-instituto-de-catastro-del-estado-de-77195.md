@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-instituto-de-catastro-del-estado-de-771
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-10-18"
-last_updated: "2010-10-18"
+last_updated: "2012-04-30"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE CATASTRO DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO REGISTRAL Y CATASTRAL DEL ESTADO DE PUEBLA, PUBLICADO EN LA CUARTA SECCIÓN DEL P.O. DE 30 DE ABRIL DE 2012, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: SIN EFECTO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 18 de octubre de 2010.
 
@@ -446,3 +448,13 @@ SEGUNDO.- Se abroga el Reglamento Interior del Instituto de Catastro del Estado 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 
 Dado en la Heroica Puebla de Zaragoza, a los veinticuatro días del mes de septiembre de dos mil diez.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO VALENTÍN JORGE MENESES ROJAS.- Rúbrica.- El Secretario de Finanzas y Administración.- INGENIERO GERARDO MARÍA PÉREZ SALAZAR.- Rúbrica.
+
+N. DE E A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+P.O. 30 DE ABRIL DE 2012.
+
+PRIMERO.- El presente Reglamento se publicará en el Periódico Oficial del Estado y entrará en vigor el día hábil siguiente de su publicación.
+
+SEGUNDO.- Se deja sin efecto el Reglamento Interior del Instituto de Catastro del Estado de Puebla, publicado en el Periódico Oficial del Estado en fecha dieciocho de octubre del año dos mil diez.
+
+TERCERO.- Quedan sin efecto todas las disposiciones que se opongan al presente ordenamiento.
