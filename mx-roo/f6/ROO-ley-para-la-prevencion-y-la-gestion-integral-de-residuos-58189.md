@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-la-prevencion-y-la-gestion-integral-de-residuos-58189"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-17"
-last_updated: "2009-11-13"
+last_updated: "2012-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # LEY PARA LA PREVENCION Y LA GESTION INTEGRAL DE RESIDUOS DEL ESTADO DE QUINTANA ROO
 
-LEY PARA LA PREVENCION Y LA GESTION INTEGRAL DE RESIDUOS DEL ESTADO DE QUINTANA ROO
+LEY PARA LA PREVENCIÓN Y LA GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2012.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 17 de diciembre de 2007.
 
@@ -105,7 +105,9 @@ II.- Almacenamiento: Retención temporal de los residuos en lugares propicios pa
 
 III.- Ambientalmente Adecuado: Acción acorde con la protección del ambiente, la salud y los recursos naturales; la prevención de la generación, la valorización y el manejo integral de los residuos, así como con las disposiciones jurídicas aplicables;
 
-IV.- Cadena Productiva: Toda actividad tendiente a re utilizar, reciclar, coprocesar como combustible alterno o aprovechar la capacidad calorífica de los materiales contenidos en los residuos sólidos urbanos o de manejo especial que se desvían de su tratamiento o disposición final para ser valorizados o introducidos los mercados de subproductos o de productos reciclados;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2012)</small>
+
+IV.- Cadena Productiva: Toda actividad tendiente a reutilizar y/o reciclar residuos sólidos urbanos o de manejo especial que se desvían de su tratamiento o disposición final para ser valorizados o introducidos a los mercados de subproductos o de productos reciclados;
 
 V.- Cédula de Desempeño Ambiental: Instrumento documental de recopilación de información de emisiones y transferencia de contaminantes de sustancias sujetas a reportes para dar seguimiento a las condicionantes establecidas en los títulos, concesiones, permisos, autorizaciones y otros actos de autoridad, que a efecto haya otorgado la Secretaría en materia ambiental para la actualización de la base de datos del registro;
 
@@ -697,7 +699,7 @@ La Secretaría solicitará periódicamente a la autoridad federal toda la inform
 
 Están prohibidos el abandono, el vertido o la eliminación incontrolada de Residuos en el Estado. Toda actividad relacionada con la liberación al ambiente de Residuos Sólidos Urbanos, de Manejo Especial o Peligrosos queda sujeta a autorización de las autoridades competentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 52.
 
@@ -953,27 +955,35 @@ El transporte se realizará con las medidas que garanticen la seguridad de la po
 
 En las actividades de manejo, se prohíbe:
 
-l.- Verter Residuos en las vías o lugares públicos, lotes baldíos, barrancas, cañadas, redes de drenaje, cableado eléctrico o telefónico subterráneo, instalaciones de gas, cuerpos de agua, cavidades subterráneas, áreas naturales protegidas o áreas privadas de conservación, así como en todo lugar no autorizado para tales fines;
+I.- Verter Residuos en las vías o lugares públicos, lotes baldíos, barrancas, cañadas, redes de drenaje, cableado eléctrico o telefónico subterráneo, instalaciones de gas, cuerpos de agua, cavidades subterráneas, áreas naturales protegidas o áreas privadas de conservación, así como en todo lugar no autorizado para tales fines;
 
-II.- Incinerar Residuos o utilizarlos en calderas u otros equipos de combustión sin autorización y de manera contraria a lo dispuesto en esta Ley, la LGPGIR, su Reglamento, la normatividad aplicable y las disposiciones en la materia de los convenios internacionales de los que México sea parte;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2012)</small>
 
-III.- Ofrecer servicios de Manejo Integral a los Residuos de Manejo Especial y sólidos urbanos sin la autorización correspondiente, y (sic)
+II.-· Incinerar residuos de manejo especial o utilizarlos en calderas u otros equipos de combustión sin autorización y de manera contraria a lo dispuesto en esta Ley, la LGPGIR, su Reglamento, la normatividad aplicable y las disposiciones en la materia de los Convenios Internacionales de los que México sea parte;
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2012)</small>
+
+III.- Ofrecer servicios de manejo integral a los residuos de manejo especial y sólidos urbanos sin la autorización correspondiente;
 
 IV.- Disponer Residuos en áreas no autorizadas para dichos fines;
 
-> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2012)</small>
 
-V.- Otorgar a título gratuito en los establecimientos comerciales bolsas de plástico no biodegradable para el transporte de las mercancías.
+V.- Otorgar a título gratuito en los establecimientos comerciales bolsas de plástico no biodegradable para el transporte de las mercancías; y
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2012)</small>
+
+VI.- Incinerar residuos sólidos urbanos.
 
 ###### Artículo 72.
 
 Las actividades de tratamiento de Residuos Sólidos Urbanos y de Manejo Especial se llevarán a cabo conforme a lo que establezca esta Ley y su Reglamento; la legislación federal de la materia, las Normas Oficiales Mexicanas y las normas técnicas ambientales estatales, así como las disposiciones reglamentarias que establezcan los municipios.
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2012)</small>
+
 ###### Artículo 73.
 
-La selección del tratamiento térmico de los Residuos Sólidos Urbanos o de Manejo Especial, solo será posible de no existir la posibilidad de valorizarlos o tratarlos por otros medios de manera ambientalmente adecuada y económicamente viable.
-
-Sólo podrán ser sujetos a tratamientos térmicos aquellos Residuos autorizados por la Secretaría de acuerdo al Reglamento de esta Ley y cuando dichos tratamientos cumplan con las disposiciones jurídicas y las disposiciones de los convenios internacionales que resulten aplicables.
+La selección del tratamiento térmico de los residuos de manejo especial solo será posible de no existir la posibilidad de valorizarlos o tratarlos por otros medios de manera ambientalmente adecuada y económicamente viable, siempre y cuando sean autorizados por la Secretaría de acuerdo al reglamento de esta ley y cuando dichos tratamientos cumplan con las disposiciones jurídicas y las disposiciones de los Convenios Internacionales que resulten aplicables.
 
 ###### Artículo 74.
 
@@ -1069,7 +1079,7 @@ La composta que no pueda ser aprovechada deberá ser enviada a los Rellenos Sani
 
 Toda persona que lleve a cabo procesos de tratamiento de Residuos Sólidos Urbanos tipo orgánicos para la producción y venta de composta debe cumplir con las disposiciones que establecen las Normas Oficiales Mexicanas, estatales y demás disposiciones jurídicas que resulten aplicables. Esta disposición no aplica a quienes generen composta a partir de sus propios Residuos para uso personal o dentro de sus instalaciones con fines de jardinería.
 
-### CAPÍTULO SEXTO. PREVENCIÓN, CONTROL Y REMEDlACIÓN DEL SUELO
+### CAPÍTULO SEXTO. PREVENCIÓN, CONTROL Y REMEDIACIÓN DEL SUELO
 
 #### Sección Primera. De la Prevención y Control de la Contaminación de Sitios
 
@@ -1361,7 +1371,7 @@ LA SECRETARIA DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
 ROSARIO ORTÍZ YELADAQUI
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 8 DE MAYO DE 2009.
 
@@ -1384,3 +1394,7 @@ CUARTO.- El Ejecutivo del Estado y los ayuntamientos contarán con un plazo de 9
 ## TRANSITORIO
 
 ÚNICO.- Publíquese el Decreto que al efecto se expida en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 30 DE ABRIL DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
