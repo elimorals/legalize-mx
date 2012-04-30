@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-de-la-ley-para-la-proteccion-del-ambiente-68576"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-06"
-last_updated: "2009-05-06"
+last_updated: "2012-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # REGLAMENTO DE LA LEY PARA LA PROTECCION DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA EN MATERIA DE EVALUACION DEL IMPACTO Y RIESGO AMBIENTAL
 
-REGLAMENTO DE LA LEY PARA LA PROTECCION DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA EN MATERIA DE EVALUACION DEL IMPACTO Y RIESGO AMBIENTAL
+REGLAMENTO DE LA LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA EN MATERIA DE EVALUACIÓN DEL IMPACTO Y RIESGO AMBIENTAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2012.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 6 de mayo de 2009.
 
@@ -43,15 +43,19 @@ DECRETO DEL EJECUTIVO DEL ESTADO POR EL QUE SE EXPIDE EL REGLAMENTO DE LA LEY PA
 
 El presente ordenamiento es de observancia general en todo el territorio estatal; tiene por objeto reglamentar la Ley para la Protección del Ambiente Natural y el Desarrollo Sustentable del Estado de Puebla, en Materia de Evaluación del Impacto y Riesgo Ambiental.
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 2.
 
-La aplicación de este Reglamento corresponde a la Secretaría del Medio Ambiente y Recursos Naturales del Estado de Puebla, de conformidad con las disposiciones legales y reglamentarias en la materia.
+La aplicación de este Reglamento corresponde a la Secretaría de Sustentabilidad Ambiental y Ordenamiento Territorial, de conformidad con las disposiciones legales y reglamentarias en la materia.
 
 ###### ARTÍCULO 3.
 
 Para los efectos del presente Reglamento además de las definiciones contenidas en la Ley para la Protección del Ambiente Natural y el Desarrollo Sustentable del Estado de Puebla, se entenderá por:
 
-I.- ESTUDIO DE RIESGO AMBIENTAL: Análisis mediante el cual, el promovente da a conocer, con base en la revisión de las acciones proyectadas para el desarrollo de una actividad considerada riesgosa, los probables riesgos que éstas representan para los ecosistemas, la salud o el ambiente, y que incluye las medidas técnicas, preventivas, correctivas y de seguridad, tendentes (sic) a evitar, mitigar, minimizar o controlar los efectos adversos al equilibrio ecológico en caso de un posible accidente, durante la ejecución u operación normal de la obra o actividad de que se trate;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2012)</small>
+
+I.- ESTUDIO DE RIESGO AMBIENTAL: Documento por el cual el promovente da a conocer, con base en la revisión y análisis de las acciones proyectadas para el desarrollo de una actividad considerada riesgosa, los probables riesgos que éstas representan para los ecosistemas, la salud o el ambiente, y que incluye las medidas técnicas, preventivas, correctivas y de seguridad, tendientes a evitar, mitigar, minimizar o controlar los efectos adversos al equilibrio ecológico en caso de un accidente, durante la ejecución u operación normal de la obra o actividad que se trate.
 
 II.- EVALUACIÓN DE IMPACTO AMBIENTAL: Es el instrumento de política ambiental y el procedimiento a través del cual la Secretaría, con base en el informe preventivo de impacto ambiental, la manifestación de impacto ambiental o estudio de riesgo ambiental, determina la procedencia ambiental de realizar un programa, obra o actividad, pública o privada, dentro del territorio del Estado, e identifica las medidas que se impondrán de manera obligatoria, para evitar o reducir al mínimo sus efectos negativos sobre el ambiente, prevenir futuros daños a éste y propiciar el aprovechamiento sustentable de los recursos naturales;
 
@@ -71,13 +75,17 @@ IX.- MEDIDAS DE PREVENCIÓN: Conjunto de acciones que deberá ejecutar el promov
 
 X.- REGLAMENTO: Reglamento de la Ley para la Protección del Ambiente Natural y el Desarrollo Sustentable del Estado de Puebla en Materia de Evaluación del Impacto y Riesgo Ambiental; y
 
-XI.- SECRETARÍA: La Secretaría del Medio Ambiente y Recursos Naturales del Estado de Puebla.
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2012)</small>
+
+XI.- SECRETARÍA: La Secretaría de Sustentabilidad Ambiental y Ordenamiento Territorial.
 
 ###### ARTÍCULO 4.
 
 Es competencia de la Secretaría:
 
-I.- Evaluar los estudios de impacto ambiental y en su caso de riesgo ambiental; así como, emitir las resoluciones correspondientes para la realización de obras o actividades públicas o privadas, su construcción, ampliación o modificación a que se refiere la Ley y el presente Reglamento;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2012)</small>
+
+I.- Evaluar las manifestaciones de impacto ambiental y, en su caso, los estudios de riesgo ambiental; así como, emitir las resoluciones correspondientes para la realización, construcción, ampliación o modificación de las obras o actividades a que se refiere la Ley y el presente Reglamento;
 
 II.- Formular, publicar y poner a disposición del público en general, las guías para la elaboración del informe preventivo de impacto ambiental; de la manifestación del impacto ambiental, y del estudio de riesgo ambiental;
 
@@ -93,23 +101,31 @@ VII.- Las demás previstas en la Ley, este Reglamento y en las demás disposicio
 
 ### CAPÍTULO II. DE LAS OBRAS O ACTIVIDADES QUE REQUIEREN AUTORIZACIÓN EN MATERIA DE EVALUACIÓN DEL IMPACTO Y RIESGO AMBIENTAL Y DE LAS EXCEPCIONES
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 5.
 
-Además de lo previsto en el artículo 38 de la Ley, la Secretaría evaluará el impacto ambiental y en su caso, el riesgo ambiental de las obras y actividades que en forma enunciativa y no limitativa a continuación se indican:
+Quienes pretendan ejecutar alguna de las obras o actividades indicadas en el artículo 38 de la Ley, así como las que a continuación se indican, deberán contar, previo a su ejecución, con la autorización en materia de impacto ambiental y, en su caso, de riesgo ambiental:
 
-I.- Obra pública estatal y municipal a partir de una superficie de 1,000 metros cuadrados, así como en cualquier otro tipo de inmueble a partir de 1,000 metros cuadrados de construcción;
+I. Obra o actividad pública estatal y municipal a partir de 1,500 metros cuadrados de superficie y/o construcción; así como cualquier otro tipo de inmueble a partir de 1,500 metros cuadrados de construcción, siempre y cuando no esté considerada en el artículo 38 de la Ley y no sea competencia de la Federación, en términos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-II.- Estaciones de Carburación a Gas; incluyendo estaciones de almacenamiento de gas menores a 50,000 kilogramos;
+II. Estaciones de carburación a gas y obras e infraestructura para el almacenamiento de gas menores a 50,000 kilogramos;
 
-III.- Construcción de bodegas y naves industriales;
+III. Estaciones de servicio de gasolina;
 
-IV.- Exploración, extracción y aprovechamiento de minerales o sustancias que constituyan depósitos de naturaleza semejante a los componentes de los terrenos, tales como arena, mármol, grava, ónix, arcilla, tepezil, pizarra guinda, piedra o aquéllas que no estén reservadas a la Federación;
+IV. Construcción o ampliación de naves Industriales;
 
-V.- Lugares destinados a la concurrencia masiva de personas, tales como: centros de diversiones, restaurantes, discotecas, centrales de autobuses, centrales camioneras, corralones;
+V. Exploración, extracción y aprovechamiento de minerales o sustancias que constituyan depósitos de naturaleza semejante a los componentes de los terrenos: arena, mármol, grava, ónix, arcilla, tepezil, pizarra guinda, piedra o aquéllas que no estén reservadas a la Federación;
 
-VI.- Granjas avícolas, acuícolas, porcícolas, hornos crematorios y funerarias; y
+VI. Lugares destinados a la concurrencia masiva de personas, tales como centros de diversiones, restaurantes, discotecas, centrales de autobuses, centrales camioneras y corralones;
 
-VII.- Las demás que determine la Secretaría y que no estén reservadas a la Federación.
+VII. Granjas avícolas, acuícolas, porcícolas y de ganado estabulado;
+
+VIII. Hornos crematorios y funerarias; y
+
+IX. Las demás que no estén reservadas a la Federación por la Ley General, su Reglamento en la materia u otras disposiciones aplicables.
+
+En caso de que en un mismo inmueble se pretendan ejecutar dos o más obras o actividades que impliquen los supuestos previstos en el presente artículo, deberán especificarse en su conjunto, para que se considere en la manifestación de impacto ambiental.
 
 ###### ARTÍCULO 6.
 
@@ -287,9 +303,11 @@ e) La identificación, descripción y evaluación de los impactos ambientales y 
 
 f) Los planos de localización a detalle con coordenadas UTM (COORDENADAS UNIVERSAL TRANSVERSAL DE MERCATOR) o geográficas de todos los vértices del polígono del área en la que se pretende realizar la obra o actividad, y los planos correspondientes al tipo de obra o actividad.
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 26.
 
-La Secretaría emitirá la resolución de la evaluación del informe preventivo en materia de impacto ambiental conforme al artículo 44 de la Ley, en un término de veinte días hábiles siguientes a la integración del expediente de evaluación.
+La Secretaría analizará y evaluará el informe preventivo de impacto ambiental, y determinará en un plazo no mayor de treinta días hábiles siguientes a la integración del expediente respectivo, si es necesario presentar la manifestación de impacto ambiental o, en su caso, si puede realizar la obra o actividad en los términos propuestos.
 
 #### SECCIÓN TERCERA. DE LA EVALUACIÓN DE LA MANIFESTACIÓN DE IMPACTO AMBIENTAL
 
@@ -552,3 +570,11 @@ Las obras o actividades que se encuentren en trámite bajo el procedimiento de e
 Se derogan todas las disposiciones legales y administrativas de igualo menor rango que se opongan al presente Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo del Estado, en la Heroica Puebla de Zaragoza, a los veinticinco días del mes de marzo de dos mil nueve.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO MARIO ALBERTO MONTERO SERRANO.- Rúbrica.- El Secretario del Medio Ambiente y Recursos Naturales.- LICENCIADO FRANCISCO E. CASTILLO MONTEMAYOR.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE ABRIL DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Quedan sin efecto todas aquellas disposiciones que contravengan lo dispuesto en este Decreto.
