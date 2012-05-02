@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-finanzas-y-80756"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-06"
-last_updated: "2011-04-06"
+last_updated: "2012-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y PLANEACION DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2012.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de abril de 2011.
 
@@ -95,9 +95,17 @@ m) Subprocuraduría Fiscal de Asuntos Federales;
 
 n) Tesorería General;
 
-ñ) Dirección General de Coordinación Hacendaria, y
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2012)</small>
 
-o) Dirección General de Coordinación y Desarrollo Administrativo.
+ñ) Dirección General de Desarrollo de Sistemas de Ingresos y Egresos;
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2012)</small>
+
+o) Secretaría Técnica del titular de la Secretaría de Finanzas y Planeación;
+
+p) Dirección General de Coordinación Hacendaria, y
+
+q) Dirección General de Coordinación y Desarrollo Administrativo.
 
 Las unidades administrativas se integrarán con los titulares respectivos, Subdirectores, Jefes de Departamento y demás servidores públicos, así como el personal de apoyo adscrito a las mismas, que se señalen en los Manuales de Organización y las disposiciones jurídicas aplicables, y de conformidad con su suficiencia presupuestal.
 
@@ -417,9 +425,21 @@ Quedan adscritas a la Secretaría las siguientes unidades administrativas:
 
 I. Tesorería General,
 
-II. Dirección General de Coordinación Hacendaría, y
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2012)</small>
 
-III. Dirección General de Coordinación y Desarrollo Administrativo.
+II. Dirección General de Desarrollo de Sistemas de Ingresos y Egresos;
+
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2012)</small>
+
+III. Secretaría Técnica del titular de la Secretaría de Finanzas y Planeación;
+
+IV. Dirección General de Coordinación Hacendaria, y
+
+V. Dirección General de Coordinación y Desarrollo Administrativo.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2012)</small>
+
+La Tesorería General y la Secretaría Técnica del titular de la Secretaría de Finanzas y Planeación, tendrán también nivel de Dirección General.
 
 ###### Artículo 16.
 
@@ -462,6 +482,10 @@ Quedan adscritas a la Procuraduría Fiscal las unidades administrativas siguient
 I. Subprocuraduría Fiscal de Asuntos Estatales, y
 
 II. Subprocuraduría Fiscal de Asuntos Federales.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2012)</small>
+
+La Subprocuraduría Fiscal de Asuntos Estatales y la Subprocuraduría Fiscal de Asuntos Federales tendrán el nivel de Dirección General.
 
 ### CAPÍTULO SEXTO. DE LAS ATRIBUCIONES GENÉRICAS DE LOS DIRECTORES GENERALES
 
@@ -1143,6 +1167,54 @@ XX. Programar y organizar en coadyuvancia con las Unidades Administrativas y en 
 
 XXI. Las demás que determinen las disposiciones jurídicas aplicables o le delegue el titular de la Secretaría dentro del ámbito de su competencia.
 
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2012)</small>
+
+Artículo 37 bis. La Dirección General de Desarrollo de Sistemas de Ingresos y Egresos atenderá el despacho de los siguientes asuntos:
+
+l. Analizar las necesidades de las Direcciones Generales de la Secretaría de Finanzas y Planeación con el propósito de asesorar, proponer, planear y coordinar, junto con los encargados de cada Unidad Administrativa, el desarrollo, mantenimiento y actualización de sistemas de información e infraestructura tecnológica para la Secretaría de Finanzas y Planeación y promover el desarrollo tecnológico en el cumplimiento de sus objetivos y metas, optimizando los recursos técnicos y económicos de la Secretaría;
+
+II. Coordinarse con las autoridades federales para el intercambio de información referente al Programa del Registro Público Vehicular, de una manera segura y eficiente;
+
+III. Coordinar los trabajos de interconexión con las Dependencias Estatales y Federales, para garantizar el intercambio de información de una forma segura y eficiente;
+
+IV. Coordinarse con la Secretaría de Hacienda y Crédito Público para el intercambio de información, así como uso conjunto de sistemas y aplicaciones, referente a la coordinación hacendaria que se estipula en Ley;
+
+V. Trabajar, en coordinación con otras Entidades Federativas, los programas de intercambio de información fiscal, así como cualquier trabajo que resulte de la coordinación hacendaria entre las mismas, en los casos en que intervenga la Secretaría de Finanzas y Planeación;
+
+VI. Administrar los servidores de la Secretaría de Finanzas y Planeación, para garantizar su adecuado funcionamiento, y el resguardo de la información que ahí se almacene;
+
+VII. Administrar, dar mantenimiento y garantizar la operación de la red de telecomunicaciones de la Secretaría de Finanzas y Planeación, así como coordinarse con la Dirección General de Tecnologías de la Información y Comunicaciones, de la Secretaría de Gestión e Innovación Gubernamental, para garantizar que las redes de la Secretaría se puedan conectar a la red general del Gobierno;
+
+VIII. Administrar, dar mantenimiento y garantizar la operación de la infraestructura de cómputo de la Secretaría de Finanzas y Planeación, así como coordinarse con la Dirección General de Tecnologías de la Información y Comunicaciones, de la Secretaría de Gestión e Innovación Gubernamental, para garantizar que la infraestructura de la Secretaría siga los estándares generales del Gobierno;
+
+IX. Integrar una plataforma tecnológica y de desarrollo en la Secretaría de Finanzas y Planeación, que se pueda integrar a los programas de gobierno en esta materia, en coordinación con la Dirección General de Tecnologías de la Información y Comunicaciones, de la Secretaría de Gestión e Innovación Gubernamental;
+
+X. Analizar y proponer los requerimientos de tecnologías de la información, para la autorización y dictamen de las adquisiciones que, en materia de tecnologías de la información, se requiera en la Secretaría de Finanzas y Planeación y se pueda alinear con los estándares del Gobierno, en coordinación con la Dirección General de Tecnologías de la Información y Comunicaciones, de la Secretaría de Gestión e Innovación Gubernamental;
+
+XI. Implementar las medidas de seguridad en las redes de la Secretaría de Finanzas y Planeación, que permitan tener una comunicación adecuada entre los sistemas de la Secretaría, garantizando la funcionalidad durante todo el año;
+
+XII. Implementar las medidas de seguridad necesarias para garantizar la operación de los padrones de contribuyentes, cálculos, cobros y control de los mismos a través de herramientas móviles, internet e intranet;
+
+XIII. Coordinar los trabajos que, en materia de desarrollo y mantenimiento de sistemas, requieran las diversas unidades administrativas de la Secretaría de Finanzas y Planeación, con la finalidad de garantizar la presupuestación y control del ejercicio del gasto, así como del ingreso, y
+
+XIV. Las demás que determinen las disposiciones legales aplicables o le delegue la persona titular de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2012)</small>
+
+Artículo 37 ter. El Secretario Técnico atenderá el despacho de los siguientes asuntos:
+
+I. Coordinar y administrar los compromisos de la agenda del titular de la Secretaría, mediante la verificación de actividades programadas, con la finalidad de concluir de manera satisfactoria con los objetivos previamente establecidos;
+
+II. Planear la correcta administración de los recursos en la oficina del titular de la Secretaría, mediante la verificación de un desempeño adecuado conforme a las políticas establecidas por el titular, con la finalidad de dar cumplimiento a la normatividad vigente;
+
+III. Implementar y desarrollar mecanismos de comunicación efectiva con las personas que soliciten audiencia con el titular de la Secretaría, mediante la realización de entrevistas, con la finalidad de asegurar la programación de compromisos y de la agenda;
+
+IV. Administrar las actividades de sus áreas adscritas, mediante la atención de las solicitudes de apoyo, con la finalidad de dar seguimiento y turnarlas al área correspondiente y dar solución en tiempo y forma;
+
+V. Controlar de manera eficiente la correspondencia oficial de los distintos ámbitos de gobierno, recibidos en la oficina del titular de la Secretaría, a través de realizar un orden de la misma, con la finalidad de turnarla al área correspondiente a fin de otorgar una respuesta oportuna en tiempo y forma, y
+
+VI. Las demás que le otorguen otros ordenamientos legales o le sean delegadas por el titular de la Secretaría.
+
 ### CAPÍTULO OCTAVO. DEL ENCARGADO DE DESPACHO
 
 ###### Artículo 38.
@@ -1162,6 +1234,10 @@ Los Subsecretarios y el Procurador Fiscal o el Encargado de Despacho, en su caso
 ###### Artículo 41.
 
 Los Directores Generales, Subprocuradores Fiscales y Tesorero General, o Encargado de Despacho, en su caso, serán suplidos por el servidor público de jerarquía inmediata inferior que ellos mismos designen o que indique el titular de la Subsecretaría o Procuraduría Fiscal. A falta de dicha designación, serán suplidos por el servidor público de jerarquía inmediata inferior que corresponda, atendiendo a la naturaleza de las funciones a suplir.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2012)</small>
+
+El Secretario Técnico del titular de la Secretaría de Finanzas y Planeación, únicamente podrá ser suplido, por la persona que designe el titular de la Secretaría de Finanzas y Planeación.
 
 ## TRANSITORIOS
 
@@ -1188,3 +1264,13 @@ El SECRETARIO DE FINANZAS Y PLANEACIÓN
 L.C. JOSÉ ALEJANDRO JESÚS VILLARREAL GASCA.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE MAYO DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+SEGUNDO. La Secretaría de Finanzas y Planeación deberá emitir o actualizar sus manuales de organización y de políticas y procedimientos, en un plazo no mayor a 90 días hábiles; y en tanto se realiza dicha modificación seguirán vigentes los actuales.
+
+TERCERO. Se derogan las disposiciones de igual o menor rango que contravengan el presente Decreto.
