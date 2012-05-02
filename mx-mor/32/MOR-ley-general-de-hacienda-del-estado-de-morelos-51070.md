@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-51070"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-07-05"
-last_updated: "2011-12-21"
+last_updated: "2012-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2012.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 2006.
 
@@ -105,7 +105,7 @@ La Secretaría de Finanzas y Planeación del Estado interpretará para efectos a
 
 OBJETO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ## TÍTULO SEGUNDO. DE LOS IMPUESTOS
 
@@ -119,13 +119,13 @@ OBJETO
 
 SUJETO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 9.
 
 (DEROGADO, P.O. 12 DE OCTUBRE DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 10.
 
@@ -133,7 +133,7 @@ SUJETO
 
 BASE Y TASA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 11.
 
@@ -141,7 +141,7 @@ BASE Y TASA
 
 PAGO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 12.
 
@@ -149,19 +149,19 @@ PAGO
 
 OBLIGACIONES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
 (DEROGADO, P.O. 12 DE OCTUBRE DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 14.
 
 (DEROGADO, P.O. 12 DE OCTUBRE DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 15.
 
@@ -243,17 +243,33 @@ SUJETO
 
 Son sujetos del Impuesto las personas jurídico individuales o físicas y jurídico colectivas o morales que presten los servicios a que se refiere el artículo precedente, aún cuando tengan su domicilio fiscal en lugar distinto de la prestación del servicio, quienes trasladarán de manera expresa y por separado su importe a las personas que reciban los servicios.
 
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2012)</small>
+
+De la misma manera, el Gobierno del Estado destinará y/o transferirá un peso más al Fideicomiso Turismo Morelos por cada peso que haya recaudado de este impuesto para lograr su objeto.
+
 ###### Artículo 25.
 
 El impuesto a que se refiere este Capítulo se causará y trasladará en el momento que se perciba el pago por los servicios de hospedaje.
 
-Los recursos que genere el Impuesto sobre la Prestación de Servicios de Hospedaje serán aplicados en los siguientes términos: un mínimo del setenta y seis por ciento a la publicidad, promoción y difusión turística; hasta el diez por ciento como máximo a la realización de obras de infraestructura de interés turístico; el cinco por ciento a la administración del Fideicomiso Público constituido para la administración y aplicación de los recursos que genere el impuesto a que se refiere este artículo; tres por ciento destinado a programas de verificación fiscal de los recursos y el seis por ciento restante para cubrir los gastos administrativos que la recaudación genere. Estas dos últimas cantidades quedarán a favor del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+Los recursos que genere el Impuesto sobre la Prestación de Servicios de Hospedaje, y que le sean destinados y/o transferidos serán aplicados en los siguientes términos: en un 95% para promoción turística en general, misma que abarcará los segmentos de grupos y convenciones; el turismo de ocio; el turismo de alta calidad; la promoción y difusión institucional; así como los gastos administrativos y de operatividad del Fideicomiso Turismo Morelos, mismos que serán del 6% del monto destinado para la promoción turística en general; y el 5% restante se destinará a cubrir los gastos administrativos que la recaudación genera por parte del Estado. Esta última cantidad quedará a favor del Gobierno del Estado.
 
-El Comité Técnico del Fideicomiso Público a que se refiere el párrafo que antecede, se conformará por un presidente que será el Gobernador del Estado, quién tendrá voto de calidad, siete representantes más del Poder Ejecutivo, seis miembros de la iniciativa privada que representen a todas las agrupaciones de prestadores de servicios de hospedaje y dos integrantes que represente a todas las agrupaciones de parques acuáticos y balnearios legalmente constituidas en el Estado de Morelos.
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2012)</small>
 
-La Secretaría de Finanzas y Planeación del Estado enterará bimestralmente al fideicomiso el noventa y uno por ciento de los recursos recaudados durante el período, a más tardar el día veintisiete de los meses de marzo, mayo, julio, septiembre, noviembre y enero.
+Lo anterior, en el entendido que dentro del concepto de promoción en general se engloba: espectaculares, medios de comunicación (periódico, tv, radio, etc.), campañas de internet, realización de páginas de internet, centro de reservaciones, pago de stands, incluyendo asistencia y viáticos de ferias, eventos, asambleas, congresos y seminarios, impresión de folletería, revistas especializadas, artículos promocionales, producción de video y banco de imágenes, así como una partida destinada a relaciones públicas.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2012)</small>
+
+El Comité Técnico del Fideicomiso Público Turismo Morelos, se conformará por un Presidente que será el Gobernador del Estado, quién tendrá voto de calidad, cuatro representantes más del Poder Ejecutivo que serán: la Secretaría de Turismo, la Secretaría de Desarrollo Económico, la Secretaría de Finanzas y Planeación y el Instituto de Cultura de Morelos; cinco miembros del sector privado, que serán: un representante del sector de grupos y convenciones; un representante del sector turístico de alta calidad; un representante del sector turístico de ocio; un representante del sector hotelero; y un representante del sector de los balnearios y parques acuáticos.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2012)</small>
+
+La Secretaría de Finanzas y Planeación del Estado enterará bimestralmente al fideicomiso el noventa y cinco por ciento de los recursos recaudados durante el período, en el que estarán ya incluidos los recursos económicos que el Gobierno del Estado le destina y/o transfiera a más tardar el día veintisiete de los meses de marzo, mayo, julio, septiembre, noviembre y enero.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2012)</small>
+
+A las reuniones del Comité Técnico del Fideicomiso asistirán como invitados permanentes los representantes de la Secretaría de la Contraloría, de la Secretaría de Gobierno y de la Consejería Jurídica con voz pero sin voto.
 
 TASA
 
@@ -485,9 +501,13 @@ Son sujetos del Impuesto las personas jurídico individuales o físicas y juríd
 
 Las personas jurídico individuales o físicas y jurídico colectivas o morales, que presten los servicios de parques acuáticos y balnearios, tendrán el carácter de retenedores respecto a este impuesto, por lo que estarán obligados a la retención y entero del impuesto.
 
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2012)</small>
+
+De la misma manera, el Gobierno del Estado destinará y/o transferirá un peso más al Fideicomiso Turismo Morelos por cada peso que haya recaudado de este impuesto para lograr su objeto.
+
 TASA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 45.
 
@@ -519,15 +539,19 @@ V. Proporcionar a la autoridad fiscal del Estado, cuando así lo solicite, la co
 
 La autoridad fiscal estatal estará facultada para determinar presuntivamente el impuesto por la prestación de servicios de parques acuáticos y balnearios en los términos que señale el Código Fiscal del Estado de Morelos.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2012)</small>
+
 ###### Artículo 48.
 
-Los recursos que genere el Impuesto sobre los servicios de parques acuáticos y balnearios serán aplicados en los siguientes términos: un mínimo del setenta y seis por ciento a la publicidad, promoción y difusión turística; hasta el diez por ciento como máximo a la realización de obras de infraestructura de interés turístico; el cinco por ciento a la administración del Fideicomiso Público constituido para la administración y aplicación de los recursos que genere el impuesto a que se refiere este artículo; tres por ciento destinado a programas de verificación fiscal de los recursos y el seis por ciento restante para cubrir los gastos administrativos que la recaudación genere. Estos dos últimos porcentajes quedarán a favor del Gobierno del Estado.
+Los recursos que genere el Impuesto sobre los Servicios de Parques Acuáticos y Balnearios y que le sean destinados y/o transferidos serán aplicados en los siguientes términos: en un 95% para promoción turística en general, misma que abarcará los segmentos de grupos y convenciones; el turismo de ocio; el turismo de alta calidad; la promoción y difusión institucional; así como los gastos administrativos y de operatividad del Fideicomiso Turismo Morelos, mismos que serán del 6% del monto total destinado para la promoción turística en general; y el 5% restante se destinará a cubrir los gastos administrativos que la recaudación genera por parte del Estado. Esta última cantidad quedará a favor del Gobierno del Estado.
 
-La Secretaría de Finanzas y Planeación del Estado enterará bimestralmente al Fideicomiso Público, los recursos recaudados durante el período, a más tardar el día veintisiete de los meses de enero, marzo, mayo, julio, septiembre y noviembre, debiendo publicar trimestralmente el monto que por concepto de estos ingresos participables.
+Lo anterior, en el entendido que dentro del concepto de promoción en general se engloba: espectaculares, medios de comunicación (periódico, tv, radio, etc.), campañas de internet, realización de páginas de internet, centro de reservaciones, pago de stands, incluyendo asistencia y viáticos de ferias, eventos, asambleas, congresos y seminarios, impresión de folletería, revistas especializadas, artículos promocionales, producción de video y banco de imágenes, así como una partida destinada a relaciones públicas.
+
+La Secretaría de Finanzas y Planeación del Estado enterará bimestralmente al Fideicomiso Público, el noventa y cinco por ciento de los recursos recaudados durante el periodo, en que estarán ya incluidos los recursos económicos que el Gobierno del Estado le destina y/o transfiera a más tardar el día veintisiete de los meses de enero, marzo, mayo, julio, septiembre y noviembre.
 
 ### CAPÍTULO SÉPTIMO BIS. DEL IMPUESTO SOBRE NÓMINAS
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 OBJETO
 
@@ -619,7 +643,7 @@ EXENCIONES
 
 No causarán este impuesto la Federación, los Estados, los Municipios, los Partidos Políticos en los términos de la legislación electoral correspondiente, los organismos públicos descentralizados de la Administración Pública Estatal y Federal, conforme a la Ley Federal de Juegos y Sorteos, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública, y las asociaciones de asistencia y beneficencia pública legalmente constituidas, sin embargo, deberán cumplir con las obligaciones de retención que éste u otros impuestos les obliguen.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 ### CAPÍTULO OCTAVO. DEL IMPUESTO ADICIONAL
 
@@ -767,7 +791,7 @@ VI. Conservar la documentación comprobatoria del pago de las remuneraciones obj
 
 VII. Las personas jurídico-individuales (físicas) y jurídico-colectivas (morales) que reciban las prestaciones del trabajo personal subordinado y que no hagan las erogaciones objeto de este impuesto deberán de presentar su aviso de inscripción para efectos de control, exhibiendo copia del contrato de prestación de servicio ante la oficina de recaudación fiscal que corresponda a su domicilio y proporcionar los datos que identifiquen a la persona que haga dichas erogaciones, así como el número de trabajadores que presten el trabajo subordinado.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 DISPOSICIONES GENERALES
 
@@ -1183,7 +1207,7 @@ X. Los contratos y operaciones relacionados con bienes inmuebles que en cumplimi
 
 XI. Por la verificación en campo de un inmueble, deberá cubrirse al personal comisionado, por concepto de viáticos y pasajes la cantidad que se determine en el Reglamento Interno del Registro Público de la Propiedad y del Comercio y la normatividad vigente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 79.
 
@@ -1539,13 +1563,13 @@ En el Servicio Particular por inscripción al padrón vehicular con expedición 
 
 7. Auto antiguo: $650.00
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRAFO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 b) (sic) Servicio Público:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -1553,7 +1577,7 @@ b) (sic) Servicio Público:
 
 pasajeros sin itinerario fijo: $800.00
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -1561,7 +1585,7 @@ pasajeros sin itinerario fijo: $800.00
 
 pasajeros con itinerario fijo: $800.00
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -1575,13 +1599,13 @@ a) Por una placa $200.00
 
 b) Por dos placas $400.00
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 III. REFRENDO ANUAL DE TARJETA DE CIRCULACIÓN Y HOLOGRAMA:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2011)</small>
 
@@ -1601,7 +1625,7 @@ III. REFRENDO ANUAL DE TARJETA DE CIRCULACIÓN Y HOLOGRAMA:
 
 8. Vehículos de servicio público:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -1609,7 +1633,7 @@ a). Servicio de Transporte de pasajeros
 
 sin itinerario fijo: $400.00
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -1617,7 +1641,7 @@ b). Servicio de Transporte de pasajeros
 
 con itinerario fijo: $400.00
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -2321,13 +2345,13 @@ la autorización: $300.00
 
 IX. Otros servicios: $2,000.00
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE OCTUBRE DE 2010)</small>
 
 ### CAPÍTULO DÉCIMO SÉPTIMO. LEGALIZACIÓN DE FIRMAS, CERTIFICADOS, CERTIFICACIONES, CONSTANCIAS Y COPIAS CERTIFICADAS
 
 ### CAPÍTULO DÉCIMO OCTAVO. DE LA RECUPERACIÓN DE LOS MATERIALES UTILIZADOS EN EL PROCESO DE RESPUESTA A LAS SOLICITUDES DE ACCESO A LA INFORMACIÓN PÚBLICA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -3041,7 +3065,7 @@ El cobro de Derechos por conceptos de copias certificadas se causará de conform
 
 Por la reproducción de información en otros medios:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -3069,7 +3093,7 @@ hasta 60 x 90 cm.
 
 Por cada 25 cm. Extras
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -3349,11 +3373,11 @@ GERMÁN CASTAÑÓN GALAVIZ
 
 RÚBRICAS.
 
-N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+N. DE E.: A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
 
 P.O. 27 DE DICIEMBRE DE 2006.
 
-DECRETO NUMERO 108
+DECRETO NÚMERO 108
 
 PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano del Gobierno del Estado Libre y Soberano de Morelos.
 
@@ -3361,7 +3385,7 @@ SEGUNDO.- Remítase el presente Decreto al titular del Poder Ejecutivo Estatal p
 
 P.O. 27 DE DICIEMBRE DE 2006.
 
-DECRETO NUMERO 132
+DECRETO NÚMERO 132
 
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial "Tierra y Libertad", órgano del Gobierno del Estado Libre y Soberano de Morelos.
 
@@ -3371,7 +3395,7 @@ TERCERO.- Remítase al Titular del Poder Ejecutivo Estatal para los efectos cons
 
 P.O. 27 DE DICIEMBRE DE 2006.
 
-DECRETO NUMERO 137
+DECRETO NÚMERO 137
 
 > <small>(F. DE E., P.O. 14 DE FEBRERO DE 2007)</small>
 
@@ -3454,3 +3478,11 @@ SEGUNDO.- Se derogan todas las disposiciones que concedan subsidios o exenciones
 TERCERO.- Para los efectos de las disposiciones de la Ley General de Hacienda del Estado de Morelos, relativas a la actualización de las cuotas y tarifas de las contribuciones en cantidades determinadas, se autoriza la aplicación de un subsidio para mantener dichas cuotas y tarifas en los mismos montos que establece la mencionada Ley General de Hacienda del Estado de Morelos.
 
 CUARTO.- Con la finalidad de homologar los sistemas automatizados de recaudación, así como el proceso de depósito de recursos en el sistema bancario nacional, respecto del esquema aplicado en la determinación de los impuestos y derechos cuyo importe sea o comprenda, fracciones en pesos, se autoriza que en el caso de productos y aprovechamientos se aplique un ajuste de los montos a la unidad más próxima; por lo que tratándose de cantidades terminadas hasta cincuenta centavos, el ajuste se hará a la unidad inmediata inferior y tratándose de cantidades terminadas por arriba de los cincuenta centavos, el ajuste se hará a la unidad inmediata superior.
+
+P.O. 2 DE MAYO DE 2012.
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo para los efectos a que se refiere el artículo 44 de la Constitución Política del Estado de Morelos.
+
+TERCERO.- El Ejecutivo Estatal deberá programar en el Presupuesto de Egresos del Gobierno del Estado de Morelos, correspondiente al ejercicio fiscal del año dos mil trece, los recursos suficientes para el pleno cumplimiento de lo ordenado, derivado de la recaudación de los impuestos afectados a través de la presente resolución durante el ejercicio fiscal 2012.
