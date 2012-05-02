@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-educacion-del-estado-de-morelos-14617"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-26"
-last_updated: "2012-02-01"
+last_updated: "2012-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 26 de agosto de 1996.
 
@@ -51,7 +51,7 @@ Que tal situación ha provocado y continuará provocando hasta en tanto no se co
 
 4.- Que como es de suponer una Ley de Educación como la presente acorde con la normatividad federal, la participación social y ciudadana, así como por las nuevas expectativas educativas, exigió la participación de todos los sectores institucionales y particulares que tienen un interés especial en el desarrollo educativo del Estado, por lo que en nuestra Entidad se efectuaron diversos foros de consulta, discusión y análisis sobre el servicio educativo y sus repercusiones sociales.
 
-En este proceso de consulta coordinado de manera conjunta por los representantes de las tres fracciones parlamentarias que integran esta Soberanía, por la Secretaría de Bienestar Social, la Sección XIX del Sindicato Nacional de Trabajadores de la Educación, y en cuya organización, desarrollo, compilación, análisis e interpretación de resultados participaron de manera muy activa y asumieron responsabilidades directas los representantes de diversas instituciones, dependencias, asociaciones y organismos públicos y privados, entre los cuales, y solo enunciativamente, es justo destacar a los siguientes: Universidad Autónoma del Estado de Morelos, Consejo Coordinador Empresarial del Estado de Morelos, Unión Estatal de Padres de Familia, Casa Ciudadana, Asociación Estatal de Padres de Familia, Representación en Morelos del Consejo Nacional de Ciencia y Tecnología, Federación de Escuelas Particulares y Representación de la Secretaría de Educación Pública en el Estado de Morelos.
+En este proceso de consulta coordinado de manera conjunta por los representantes de las tres fracciones parlamentarias que integran esta Soberanía, por la Secretaría de Bienestar Social, la Sección XIX del Sindicato Nacional de Trabajadores de la Educación, y en cuya organización, desarrollo, compilación, análisis e interpretación de resultados participaron de manera muy activa y asumieron responsabilidades directas los representantes de diversas instituciones, dependencias, asociaciones y organismos públicos y privados, entre los cuales, y solo enunciativamente, es justo destacar a los siguientes: Universidad Autónoma del Estado de Morelos, Consejo Coordinador Empresarial del Estado de Morelos, Unión Estatal de Padres de Familia, Casa Ciudadana, Asociación Estatal de Padres de Familia, representación en Morelos del Consejo Nacional de Ciencia y Tecnología, Federación de Escuelas Particulares y Representación de la Secretaría de Educación Pública en el Estado de Morelos.
 
 5.- Que al interior del Congreso del Estado se efectuó un profundo análisis y una exhaustiva revisión al valioso material recopilado durante esa consulta y a las propuestas individuales de los Diputados que participaron en cada una de las reuniones que se efectuaron por las Comisiones de Trabajo, en donde con verdadera disposición al diálogo y tolerancia por parte de los representantes de las tres fracciones parlamentarias de este Congreso, se pudo elaborar el presente documento en forma por demás consensada, que recoge y expresa real y efectivamente las exigencias y expectativas de la sociedad; precisa las atribuciones de cada nivel educativo, define los altos fines de la educación, preservando las características sustantivas del Artículo 3° Constitucional de garantizar una educación nacionalista, popular y progresista; consolida la formación del educando dentro de un esquema integral de valores; concibe el proyecto educativo inserto en un contexto social, nacional, en donde se destaca la soberanía, la prevalencia y superación de la escuela pública, el respeto irrestricto a los símbolos patrios y la preservación de la identidad nacional; una educación más comprometida de solidaridad con los más necesitados, que esté vinculada estrechamente con el desarrollo productivo de la Entidad y participe en la resolución de su problemática social; establece las bases para abrir espacios para la investigación educativa y la capacitación, formación y superación del magisterio, para hacer del maestro un verdadero profesional de la enseñanza; asegura la aplicación de recursos suficientes para el sostenimiento del servicio público educativo; reconoce los derechos de los particulares a impartir educación y; garantiza el pleno derecho de los padres de familia para intervenir en el proceso de formación de sus hijos y en el mejoramiento de las condiciones en que tal proceso se desarrolla, mediante el ejercicio de todas aquellas acciones y aportaciones que no implican intervención en los ámbitos pedagógico y laboral.
 
@@ -351,13 +351,15 @@ Para ejercer la docencia en instituciones establecidas por el Gobierno del Estad
 
 ### CAPITULO V. DE LA EDUCACION FISICA Y ARTISTICA
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2012)</small>
 
 ### CAPITULO VI. DE LA EDUCACION INDIGENA
 
 ## TITULO SEGUNDO. DE LA EDUCACION QUE SE IMPARTA EN EL ESTADO
 
 ### CAPITULO VII. DE LA EDUCACION ESPECIAL
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 23.
 
@@ -445,7 +447,7 @@ Las escuelas públicas de nueva creación del tipo básico, llevarán el nombre 
 
 ###### ARTICULO 36.
 
-La educación física contribuirá al desarrollo armónico e integral del individuo en el proceso escolar y se promoverá en los niveles de educación inicial, primaria, secundaria, media superior y superior.
+La Educación física contribuirá al desarrollo armónico e integral del individuo en el proceso escolar y se promoverá en los niveles de educación inicial, primaria, secundaria, media superior, superior y en la modalidad de educación especial.
 
 En el nivel superior, la educación física deberá tener el objetivo primordial de fomentar la práctica de un deporte o disciplina deportiva, o bien, el acondicionamiento físico permanente y cotidiano de los estudiantes.
 
@@ -489,11 +491,9 @@ La educación indígena deberá impartirse por docentes bilingües, de acuerdo a
 
 ###### ARTICULO 44.
 
-La educación especial tendrá como finalidad brindar apoyo psicopedagógico a individuos con discapacidades transitorias o definitivas, así como a aquellos con capacidad y aptitudes sobresalientes.
+La educación especial tendrá como finalidad brindar apoyo psicopedagógico y físico a niños, niñas y adolescentes con discapacidades transitorias o definitivas así como aquellos como aquellos (sic) con capacidad y aptitudes sobresalientes.
 
-Procurará atender a los educandos de manera adecuada a sus propias condiciones, para que se integren al medio escolar regular, a la comunidad y al trabajo productivo.
-
-Tratándose de personas en edad escolar con estas características, se propiciará su integración a los planteles de educación básica regular, y para aquéllos que no logren esta integración se procurará atenderlos de manera adecuada a sus propias condiciones con equidad social.
+La educación física especial procurará atender a los educandos de manera adecuada tomando en cuenta sus propias condiciones para que se integren al medio escolar regular, a la comunidad y al trabajo productivo.
 
 ###### ARTICULO 45.
 
@@ -502,6 +502,10 @@ La educación especial se ofrecerá en planteles educativos estatales, municipal
 ###### ARTICULO 46.
 
 En la impartición de la educación para menores de edad se tomarán medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad, y que la aplicación de la disciplina escolar sea compatible con su edad.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2012)</small>
+
+ARTICULO 46 BIS.- La educación física especial tendrá el carácter de obligatoria en los Centros de Necesidades Educativas Especiales, en los Centros de Atención Múltiple, así como en Unidades de Servicio de Apoyo a la Educación Regular, Servicios de Apoyo Emocional, Centros de Aptitudes Sobresalientes, la cual deberá ser impartida por maestros con Licenciatura en Educación Física, quienes deberán aportar sus conocimientos a efecto de lograr que los niños, niñas y adolescentes logren el desarrollo armónico del individuo mediante la práctica sistemática de la actividad corporal, asociadas a discapacidades, elementos y satisfacciones motrices, en relación con sus necesidades, intereses y capacidades que puedan ser manifestados, durante su participación en los diferentes ámbitos de la vida familiar, social y productiva.
 
 ### CAPITULO I. DE LOS PADRES DE FAMILIA
 
@@ -1191,7 +1195,7 @@ GUILLERMO MALO VELASCO
 
 RUBRICAS
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 16 DE DICIEMBRE DE 1998.
 
@@ -1244,3 +1248,11 @@ PRIMERO.- Aprobado que sea el presente decreto, remítase al titular del Poder E
 SEGUNDO.- El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
 
 TERCERO.- Las instituciones de educación superior que forman parte del Sistema Educativo Estatal, contarán con un periodo de doce meses contados a partir de la vigencia de este decreto para cumplir a cabalidad con la observancia de las nuevas disposiciones contenidas en el artículo 36 de la Ley de Educación del Estado de Morelos.
+
+P.O. 2 DE MAYO DE 2012.
+
+Primero.- Aprobado que sea el presente decreto túrnese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión el (sic) Gobierno del Estado de Morelos.
+
+Segundo.- El Poder Ejecutivo, deberá establecer conforme a los mecanismos correspondientes la ampliación presupuestal procedente a fin de que al inicio del ciclo escolar 2012 - 2013, se asigne a los profesionales en el área de educación física a los centros de atención a personas con discapacidades en la educación especial.
+
+Tercero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
