@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-planeacion-del-estado-de-mexico-y-municipios-22804"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-21"
-last_updated: "2011-11-22"
+last_updated: "2012-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS
+LEY DE PLANEACIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE MAYO DE 2012.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 21 de diciembre de 2001.
 
@@ -52,6 +52,10 @@ II. De la participación democrática de los habitantes del Estado de México, g
 III. De la coordinación de acciones de planeación democrática para el desarrollo con el Gobierno Federal y los gobiernos municipales;
 
 IV. De la formulación, instrumentación, colaboración, concertación, control y seguimiento de la ejecución y la evaluación de la estrategia de desarrollo contenida en el Plan de Desarrollo del Estado de México y en los planes de desarrollo municipales.
+
+> <small>(ADICIONADA, G.G. 3 DE MAYO DE 2012)</small>
+
+V. Del equilibrio de los factores de la producción, que proteja y promueva el empleo; en un marco de estabilidad económica y social que garantice la competitividad y privilegie el eficiente, transparente y racional ejercicio de los recursos públicos.
 
 ###### Artículo 2.
 
@@ -387,7 +391,7 @@ Aprobados los planes de desarrollo, se publicarán en el periódico oficial "Gac
 
 En el informe que anualmente rinda el titular del Poder Ejecutivo ante el Poder Legislativo sobre el estado que guarda la administración pública, también lo hará del avance en el cumplimiento del Plan de Desarrollo del Estado de México.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 24.
 
@@ -469,7 +473,7 @@ Las dependencias, organismos, entidades públicas, unidades administrativas y se
 
 El Gobierno del Estado de México y los ayuntamientos, en el ámbito de su competencia, impulsarán los mecanismos, medios e instrumentos necesarios para consolidar el régimen republicano, representativo, democrático y federal, mediante la coordinación y participación de la sociedad en la planeación democrática para el desarrollo con base en los principios que rigen en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de México.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 40.
 
@@ -703,7 +707,7 @@ MANUEL CADENA MORALES
 
 (RUBRICA).
 
-N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.G. 7 DE AGOSTO DE 2003
 
@@ -766,6 +770,12 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 G.G. 22 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 3 DE MAYO DE 2012.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
