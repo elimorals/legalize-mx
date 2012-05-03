@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ccno-3-2012-de-la-comision-de-creacion-de-nuevos-87042"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-04-09"
-last_updated: "2012-04-09"
+last_updated: "2012-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87042&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,19 +19,17 @@ issue_date: "2012-03-26"
 ---
 # ACUERDO CCNO/3/2012 DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL [RELATIVO AL INICIO DE LA COMPETENCIA TEMPORAL COMPARTIDA Y TURNO REGULADO DE ASUNTOS EJECUTIVOS MERCANTILES DEL JUZGADO PRIMERO DE DISTRITO EN MATERIA MERCANTIL, ESPECIALIZADO EN JUICIOS DE CUANTIA MENOR, CON SEDE EN SAN ANDRES CHOLULA, PUEBLA]
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE MAYO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ACUERDO CCNO/3/2012 DE LA COMISIÓN DE CREACIÓN DE NUEVOS ÓRGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL INICIO DE LA COMPETENCIA TEMPORAL COMPARTIDA Y TURNO REGULADO DE ASUNTOS EJECUTIVOS MERCANTILES DEL JUZGADO PRIMERO DE DISTRITO EN MATERIA MERCANTIL, ESPECIALIZADO EN JUICIOS DE CUANTÍA MENOR, CON SEDE EN SAN ANDRÉS CHOLULA, PUEBLA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 3 DE MAYO DE 2012.</small>
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 9 de abril de 2012.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos.
 
 ACUERDO CCNO/3/2012 DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL INICIO DE LA COMPETENCIA TEMPORAL COMPARTIDA Y TURNO REGULADO DE ASUNTOS EJECUTIVOS MERCANTILES DEL JUZGADO PRIMERO DE DISTRITO EN MATERIA MERCANTIL, ESPECIALIZADO EN JUICIOS DE CUANTIA MENOR, CON SEDE EN SAN ANDRES CHOLULA, PUEBLA.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE MAYO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 CONSIDERANDO
 
@@ -49,7 +47,9 @@ En el punto tercero transitorio del citado ordenamiento se precisó que a fin de
 
 SEXTO. Toda vez que de la información estadística reportada por el Juzgado Primero de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con sede en San Andrés Cholula, se advierte que, hasta al momento, sus ingresos resultan reducidos, lo que le permite contribuir en la tramitación y el desahogo de otros asuntos de naturaleza mercantil que se presenten ante sus homólogos mixtos en esa misma residencia, resulta conveniente ordenar como medida para eficientar la administración de justicia, el establecimiento de la competencia temporal compartida y el turno regulado de asuntos respecto de los juicios ejecutivos mercantiles de cuantía semejante a la establecida para los juicios orales que se presenten ante éstos, lo cual hace necesario proveer los aspectos inherentes a dicha medida.
 
-En consecuencia, con fundamento en las disposiciones constitucionales y legales citadas, así como en las consideraciones vertidas, el Pleno del Consejo de la Judicatura Federal expide el siguiente
+> <small>(F. DE E., D.O.F. 3 DE MAYO DE 2012)</small>
+
+En consecuencia, con fundamento en las disposiciones constitucionales y legales citadas, la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal expide el siguiente
 
 ACUERDO
 
