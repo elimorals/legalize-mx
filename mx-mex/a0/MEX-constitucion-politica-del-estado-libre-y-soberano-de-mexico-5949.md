@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2012-01-13"
+last_updated: "2012-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE MAYO DE 2012.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -65,15 +65,23 @@ El ejercicio de la autoridad se sujetará a esta Constitución, a las leyes y a 
 
 La soberanía estatal reside esencial y originariamente en el pueblo del Estado de México, quien la ejerce en su territorio por medio de los poderes del Estado y de los ayuntamientos, en los términos de la Constitución Federal y con arreglo a esta Constitución.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 3 DE MAYO DE 2012)</small>
 
-## TITULO SEGUNDO. De los Principios Constitucionales
+## TITULO SEGUNDO. De los Principios Constitucionales, los Derechos Humanos y sus Garantías
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 5.
 
 En el Estado de México todos los individuos son iguales y tienen las libertades, derechos y garantías que la Constitución Federal, esta Constitución, los Tratados Internacionales en materia de derechos fundamentales de los que el Estado Mexicano sea parte y las leyes del Estado establecen.
+
+> <small>(ADICIONADO, G.G. 3 DE MAYO DE 2012)</small>
+
+Las normas relativas a los derechos humanos se interpretarán de conformidad con la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales en la materia y esta Constitución para favorecer en todo tiempo a las personas la protección más amplia.
+
+> <small>(ADICIONADO, G.G. 3 DE MAYO DE 2012)</small>
+
+Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
 
 > <small>(REFORMADO, G.G. 13 DE ABRIL DE 2010)</small>
 
@@ -83,9 +91,9 @@ Queda prohibida toda discriminación motivada por origen étnico o nacional, gé
 
 El hombre y la mujer son iguales ante la ley, ésta garantizará el desarrollo pleno y la protección de la familia y sus miembros por ser base fundamental de la sociedad. Bajo el principio de igualdad consagrado en este precepto, debe considerarse la equidad entre hombre y mujer, en los ámbitos de desarrollo humano primordiales como lo son el educativo, laboral, político, económico, social y en general, todos aquellos que dignifiquen a la persona, por consiguiente las autoridades deben velar porque en los ordenamientos secundarios se prevean disposiciones que la garanticen.
 
-> <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, G.G. 3 DE MAYO DE 2012)</small>
 
-Todo individuo tiene derecho a recibir educación. El Estado de México y los Municipios impartirán educación preescolar, primaria y secundaria de forma obligatoria para todos los mexiquenses.
+Toda persona tiene derecho a recibir educación. El Estado de México y los Municipios impartirán educación preescolar, primaria y secundaria de forma obligatoria para todos los mexiquenses.
 
 > <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
 
@@ -111,9 +119,9 @@ Los particulares podrán impartir educación, siempre con apego a los mismos fin
 
 Las universidades y las demás instituciones de educación superior a las que la ley otorgue autonomía, soberanía y gobierno, tendrán la facultad y la responsabilidad de gobernarse por sí mismas.
 
-> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, G.G. 3 DE MAYO DE 2012)</small>
 
-El Estado garantizará a todos los individuos el acceso a la ciencia y a la tecnología; establecerá políticas de largo plazo e implementará mecanismos que fomenten el desarrollo científico y tecnológico de la entidad, que permitan elevar el nivel de vida de la población, combatir la pobreza y proporcionar igualdad de oportunidades.
+El Estado garantizará a todas las personas el acceso a la ciencia y a la tecnología; establecerá políticas de largo plazo e implementará mecanismos que fomenten el desarrollo científico y tecnológico de la entidad, que permitan elevar el nivel de vida de la población, combatir la pobreza y proporcionar igualdad de oportunidades.
 
 > <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
 
@@ -149,9 +157,9 @@ VI. La ley reglamentaria, determinará la manera en que los sujetos obligados de
 
 VII. La inobservancia de las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
 
-> <small>(ADICIONADO, G.G. 24 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, G.G. 3 DE MAYO DE 2012)</small>
 
-Todo individuo tiene derecho a una alimentación adecuada.
+Toda persona tiene derecho a una alimentación adecuada.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -341,7 +349,9 @@ La ley determinará las formas de participación de estas organizaciones, y la d
 
 La Legislatura del Estado establecerá un organismo autónomo para la protección de los derechos humanos que otorga el orden jurídico mexicano, el cual conocerá de quejas en contra de actos u omisiones de naturaleza administrativa, provenientes de cualquier autoridad o servidor público del Estado, o de los municipios que violen los derechos humanos. Este organismo formulará recomendaciones públicas no vinculatorias; así como denuncias y quejas ante las autoridades respectivas.
 
-El organismo no será competente tratándose de asuntos electorales, laborales y jurisdiccionales.
+> <small>(REFORMADO, G.G. 3 DE MAYO DE 2012)</small>
+
+El organismo no será competente tratándose de asuntos electorales y jurisdiccionales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE FEBRERO DE 2011)</small>
 
@@ -1526,6 +1536,10 @@ c) El equivalente al treinta y tres por ciento de los integrantes de un Ayuntami
 > <small>(REFORMADO, G.G. 29 DE MARZO DE 2011)</small>
 
 d) La o el Presidente de la Comisión de Derechos Humanos del Estado de México, en materia de derechos humanos.
+
+> <small>(ADICIONADA, G.G. 3 DE MAYO DE 2012)</small>
+
+IV. La Sala Constitucional conocerá de los recursos ordinarios en contra de resoluciones judiciales definitivas en donde se inapliquen normas en ejercicio del control difuso de la constitucionalidad o de la convencionalidad, en los términos que señale la ley.
 
 Las resoluciones dictadas en los procesos a que se refiere este artículo, que declaren la invalidez de disposiciones generales del Poder Ejecutivo, del Poder Legislativo o de los Municipios, tendrán efectos generales cuando sean aprobados cuando menos por cuatro votos de los integrantes de la Sala Constitucional.
 
@@ -3385,7 +3399,7 @@ CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan
 
 G.G. 6 DE SEPTIEMBRE DE 2010.
 
-DECRETO NUMERO 149, POR EL QUE SE REFORMA EL ARTICULO 18 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+DECRETO NÚMERO 149, POR EL QUE SE REFORMA EL ARTÍCULO 18 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -3522,6 +3536,12 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Gaceta del Gobierno".
 
 G.G. 13 DE ENERO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 3 DE MAYO DE 2012.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
