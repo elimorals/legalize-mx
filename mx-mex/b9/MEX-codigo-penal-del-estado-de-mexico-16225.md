@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2012-04-24"
+last_updated: "2012-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE MAYO DE 2012.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -1205,7 +1205,7 @@ Artículo 106 bis.- La aplicación de un criterio de oportunidad, extingue la ac
 
 Si la decisión se funda en la insignificancia del hecho, sus efectos se entenderán a todos los que reúnan las mismas condiciones.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 101.
 
@@ -1239,7 +1239,7 @@ La prescripción de las penas de multa y reparación del daño a favor de la pro
 
 Artículo 106 ter.- El cumplimiento de lo acordado a través de un mecanismo alternativo de solución de controversias, extingue la acción penal.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
 ### CAPÍTULO XVI. SUSPENSIÓN CONDICIONAL DEL PROCESO A PRUEBA
 
@@ -2957,6 +2957,14 @@ Artículo 268 BIS.- Comete el delito de trata de personas quien para sí o para 
 
 Para efectos de este artículo se entenderá por explotación el obtener provecho económico o cualquier otro beneficio para sí o para otra persona, mediante la prostitución ajena u otras formas de explotación sexual, los trabajos o servicios forzados, la esclavitud, la servidumbre o la mendicidad ajena.
 
+> <small>(ADICIONADO, G.G. 3 DE MAYO DE 2012)</small>
+
+Se aplicarán las mismas penas a que se refiere el artículo 268 bis-1, a quien solicite o contrate la publicación o anuncio en medios de comunicación impresos o electrónicos, que ofrezcan servicios que tengan por objeto alguna de las formas de explotación a que se refiere este artículo.
+
+> <small>(ADICIONADO, G.G. 3 DE MAYO DE 2012)</small>
+
+Igualmente se aplicarán, a quien teniendo facultades para autorizar la publicación de anuncios en medios de comunicación impresos o electrónicos, realice o contrate o permita la contratación de anuncios que tengan por objeto cualquier forma de explotación que establece este artículo.
+
 Cuando las conductas anteriores recaigan en una persona menor de dieciocho años de edad o persona que no tenga la capacidad de comprender el significado del hecho, se considerará como trata de personas incluso cuando no se recurra a ninguno de los medios comisivos señalados en el primer párrafo del presente artículo.
 
 El consentimiento otorgado por la víctima en cualquier modalidad del delito de trata de personas no constituirá causa excluyente del delito.
@@ -3609,9 +3617,11 @@ XVII. Cuando se cometa a escuelas e inmuebles destinados a actividades educativa
 
 Al que se apodere de un bien ajeno mueble, sin consentimiento del dueño o legítimo poseedor, con carácter temporal y no para apropiárselo o venderlo y lo restituya espontáneamente antes de que la autoridad tome conocimiento, se le impondrán de seis meses a dos años de prisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE MAYO DE 2012)</small>
+
 ###### Artículo 292.
 
-Se equipara al delito de robo y se sancionará en los siguientes términos, al que sabiendo su procedencia ilícita:
+Se equipara al delito de robo y se sancionará en los siguientes términos, al que:
 
 I. Desmantele uno o más vehículos robados, enajene o trafique conjunta o separadamente las partes que los conforman;
 
@@ -3630,6 +3640,14 @@ En estos casos, se impondrán de cinco a veinte años de prisión y de uno a tre
 > <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
 Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución, sanción del delito o de ejecución de penas, además de las sanciones a que se refiere este artículo, se le aumentará la pena de prisión en una mitad más y se le inhabilitará de dos a veinte años para desempeñar cualquier empleo, cargo o comisión públicos.
+
+> <small>(ADICIONADO, G.G. 3 DE MAYO DE 2012)</small>
+
+Los propietarios de vehículos automotores que hayan realizado un contrato de compra-venta, podrán acudir a las Agencias Especializadas de Robo de vehículos, a realizar el trámite de verificación correspondiente.
+
+> <small>(ADICIONADO, G.G. 3 DE MAYO DE 2012)</small>
+
+La Procuraduría de Justicia del Estado de México a través de las Agencias Especializadas de Robo de Vehículos, deberá verificar que el trámite sea gratuito y que de la revisión se entregue impreso, con fecha y sello de la dependencia reporte de verificación de procedencia.
 
 ###### Artículo 293.
 
@@ -4655,7 +4673,21 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-G.G. 25 DE JULIO DE 2008.
+G.G. 3 DE MAYO DE 2012.
+
+DECRETO NÚMERO 440, POR EL QUE SE ADICIONAN EL TERCER Y CUARTO PÁRRAFOS, RECORRIÉNDOSE LOS SUBSECUENTES, AL ARTÍCULO 268 BIS DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 3 DE MAYO DE 2012.
+
+DECRETO NÚMERO 441, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONAN DOS ÚLTIMOS PÁRRAFOS AL ARTÍCULO 292 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 ###### ARTÍCULO PRIMERO.
 
