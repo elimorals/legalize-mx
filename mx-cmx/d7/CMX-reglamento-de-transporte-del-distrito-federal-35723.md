@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-transporte-del-distrito-federal-35723"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-30"
-last_updated: "2012-02-08"
+last_updated: "2012-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35723&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-12-19"
 
 REGLAMENTO DE TRANSPORTE DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE MAYO DE 2012.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 30 de diciembre de 2003.
 
@@ -716,7 +716,7 @@ La Secretaría, sustentada en el Programa General de Desarrollo del Distrito Fed
 
 #### Sección IV. Del Servicio Privado de Pasajeros; Escolar, de Personal, Turístico y Especializado
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE JUNIO DE 2009)</small>
 
 ###### Artículo 45.
 
@@ -1110,9 +1110,9 @@ En el caso de los anuncios que se encuentren en unidades propias y éstos se ref
 
 Los concesionarios y permisionarios interesados en colocar publicidad en vehículos del servicio de transporte, deben tramitar su permiso correspondiente en la Secretaría. En el caso de bicicletas adaptadas, la Delegación emitirá, la autorización correspondiente.
 
-> <small>(ADICIONADO, G.O. 8 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, G.O. 3 DE MAYO DE 2012)</small>
 
-En el servicio colectivo concesionado queda prohibida la instalación de publicidad en el exterior de los vehículos. La publicidad al interior de los vehículos que autorice la Secretaría deberá contar con el dictamen técnico del organismo que corresponda.
+En el servicio colectivo concesionado a que se refiere el artículo 2°, fracción IX, inciso a) de este Reglamento, queda prohibida la instalación de publicidad en el exterior de los vehículos. La publicidad al interior de los vehículos que autorice la Secretaría deberá contar con el dictamen técnico del organismo que corresponda.
 
 ###### Artículo 85.
 
@@ -1214,7 +1214,7 @@ La Secretaría autorizará los trámites de regulación al transporte de pasajer
 
 Los trámites serán resueltos conforme a los plazos establecidos en las disposiciones jurídicas y administrativas vigentes y con los requisitos siguientes:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 El pago de derechos se deberá realizar al inicio de cada trámite, y presentarse en los formatos de solicitud que al efecto proporcione la Secretaría.
 
@@ -1516,7 +1516,7 @@ Cuarto.- Las cesiones de derechos efectuadas al amparo de la Ley de Transporte d
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los 19 días del mes de diciembre del año dos mil tres.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD.- FRANCISCO GARDUÑO YÁNEZ (SIC).- FIRMA.-
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 G.O. 17 DE ABRIL DE 2009.
 
@@ -1537,3 +1537,9 @@ Primero. Publíquese en la Gaceta Oficial del Distrito Federal.
 Segundo. El presente decreto entrará en vigor el día de su publicación.
 
 Tercero. Las referencias que en éste Reglamento se hacen a los Corredores de Transporte Público de Pasajeros del Distrito Federal se entenderán dirigidas a Metrobús.
+
+G.O. 3 DE MAYO DE 2012.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
