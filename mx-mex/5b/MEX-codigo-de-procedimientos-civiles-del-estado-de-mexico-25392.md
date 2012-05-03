@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-civiles-del-estado-de-mexico-25392"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-01"
-last_updated: "2012-04-24"
+last_updated: "2012-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE MAYO DE 2012.
 
 Código publicado en el Gaceta del Gobierno del Estado de México, el lunes 1 de julio del 2002.
 
@@ -469,7 +469,9 @@ X. En lo relativo a suplir el consentimiento de quien ejerce la patria potestad,
 
 XI. Para lo relativo al matrimonio y cuestiones familiares, el del domicilio conyugal o familiar;
 
-XII. En los juicios de divorcio, el del último domicilio de los cónyuges, y en caso de abandono de hogar, el del domicilio del cónyuge abandonado;
+> <small>(REFORMADA, G.G. 3 DE MAYO DE 2012)</small>
+
+XII. En los procedimientos de divorcio, el del último domicilio donde hicieron vida en común;
 
 XIII. En los casos de alimentos, el del domicilio del acreedor alimentario;
 
@@ -915,7 +917,7 @@ Excepción a la nulidad de actuaciones
 
 99.- Cuando la ley prescriba una determinada forma para una actuación, sólo será nula, si se efectúa en una forma diversa.
 
-Escritura de cantidades y fechas
+Actuaciones en idioma español
 
 ## TITULO SEPTIMO. Actos Procesales en General
 
@@ -925,13 +927,13 @@ Forma de las actuaciones y promociones
 
 ###### Artículo 1.
 
-101.- Las fechas y cantidades se escribirán con letra y número.
+100.- Las actuaciones judiciales y promociones deben escribirse en idioma español. Los documentos que se presenten redactados en otro idioma o lengua, salvo los aforismos en latín que podrán ser traducidos, se acompañarán de la correspondiente traducción.
 
-Actuaciones en idioma español
+Escritura de cantidades y fechas
 
 ###### Artículo 1.
 
-100.- Las actuaciones judiciales y promociones deben escribirse en idioma español. Los documentos que se presenten redactados en otro idioma o lengua, salvo los aforismos en latín que podrán ser traducidos, se acompañarán de la correspondiente traducción.
+101.- Las fechas y cantidades se escribirán con letra y número.
 
 Prohibición de borrar y abreviar
 
@@ -1131,9 +1133,7 @@ Reposición de actuaciones judiciales de oficio
 
 Expedición de copias certificadas
 
-### CAPITULO IV. Del Control y Reposición de Autos
-
-y Expedición de Copias
+### CAPITULO IV. Del Control y Reposición de Autos y Expedición de Copias
 
 Folio y rúbrica de expedientes
 
@@ -2141,13 +2141,13 @@ Generalidad de la prueba
 
 ###### Artículo 1.
 
-267.- La confesión es expresa y tácita o ficta. Es expresa la que se hace clara y terminantemente al formular o contestar la demanda, al absolver posiciones, o en cualquier otro acto del proceso. Es tácita o ficta cuando la ley lo señala.
+268.- La confesión sólo produce efecto en lo que perjudica al que la hace.
 
-Efectos de la confesión
+Clases de confesión
 
 ###### Artículo 1.
 
-268.- La confesión sólo produce efecto en lo que perjudica al que la hace.
+267.- La confesión es expresa y tácita o ficta. Es expresa la que se hace clara y terminantemente al formular o contestar la demanda, al absolver posiciones, o en cualquier otro acto del proceso. Es tácita o ficta cuando la ley lo señala.
 
 Sólo las partes pueden absolver posiciones
 
@@ -2211,7 +2211,7 @@ Calificación de las posiciones
 
 ### CAPITULO II. De la Confesión
 
-Clases de confesión
+Efectos de la confesión
 
 ###### Artículo 1.
 
@@ -2953,7 +2953,7 @@ Apelación con efecto suspensivo de sentencias
 
 ###### Artículo 1.
 
-377.- Las sentencias definitivas son apelabIes con efecto suspensivo, salvo cuando la ley determine lo contrario.
+377.- Las sentencias definitivas son apelables con efecto suspensivo, salvo cuando la ley determine lo contrario.
 
 Apelación de interlocutorias y autos
 
@@ -5585,7 +5585,7 @@ Personas que pueden ser tutor interino
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 19 DE FEBRERO DE 2009)</small>
 
 Requisitos de la petición
 
@@ -5619,7 +5619,7 @@ VI. Especificación del parentesco o vínculo que une al solicitante con la pers
 
 VII. Exhibir, en su caso el documento de designación de tutor o curador, que haya hecho el incapaz.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -5747,7 +5747,7 @@ Procedimientos escritos
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 2.
 
@@ -5855,7 +5855,7 @@ Medidas de protección
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 2.
 
@@ -6085,6 +6085,8 @@ Medios de impugnación
 
 372.- La sentencia definitiva que conceda la restitución del menor será apelable con efecto suspensivo; la que la niegue, sin efecto suspensivo.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2012)</small>
+
 ### CAPITULO VIII. Restitución Internacional de Menores
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
@@ -6093,9 +6095,97 @@ Medios de impugnación
 
 Objeto
 
+###### Artículo 2.
+
+373.- La solicitud de divorcio podrá presentarse por uno de los cónyuges, sin necesidad de señalar la razón que lo motive, debiendo acompañar:
+
+I. Acta de matrimonio en copia certificada;
+
+II. Acta de nacimiento de los hijos, en copia certificada; y
+
+III. Propuesta de convenio que habrá de regular las consecuencias de la disolución del vínculo matrimonial, debiendo contener:
+
+a) La designación sobre la guarda y custodia de los hijos menores o incapaces y, el domicilio donde vivirán;
+
+b) El régimen de visita y convivencia respecto del progenitor que no ejercerá la guarda y custodia de los menores;
+
+c) La designación del cónyuge que seguirá habitando, en su caso, el domicilio donde se haga vida en común;
+
+d) La cantidad que por concepto de alimentos se propone, para atender las necesidades de los hijos y en su caso del cónyuge a quien deba darse alimentos, la forma, lugar y temporalidad para hacerlo, los elementos que permitan al Juez fijar la pensión propuesta, así como la garantía para asegurar su cumplimiento;
+
+e) La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y hasta que se liquide, así como la forma de liquidarla, después de decretado el divorcio; y
+
+f) Tratándose del régimen de separación de bienes, la forma de repartir los bienes adquiridos durante el matrimonio, en los términos previstos por el artículo 4.46 del Código Civil del Estado.
+
+En la solicitud, se podrá pedir la aplicación de medidas precautorias, acompañando en su caso, la documentación que se estime necesaria.
+
+Se exhibirá copia de la solicitud y documentos exhibidos para traslado.
+
+> <small>(ADICIONADO, G.G. 3 DE MAYO DE 2012)</small>
+
+Procedimiento
+
+###### Artículo 2.
+
+374.- Presentada la solicitud, de no existir prevención alguna, el juez admitirá a trámite la petición, dando vista al otro cónyuge y, proveerá sobre las medidas precautorias solicitadas o las que estime necesarias para salvaguardar el interés superior de los menores o incapaces.
+
+Además, se señalará día y hora para una audiencia de avenencia que tendrá verificativo después de nueve y antes de quince días, contados a partir de la notificación del propio auto.
+
+> <small>(ADICIONADO, G.G. 3 DE MAYO DE 2012)</small>
+
+Vista por edictos
+
+###### Artículo 2.
+
+375.- Si el otro cónyuge no se localiza en el domicilio señalado, no tiene uno fijo o se ignora su paradero, la notificación se hará por edictos. La audiencia se señalará dentro de los cinco días siguientes a la fecha de exhibición de las publicaciones que contengan los edictos respectivos.
+
+> <small>(ADICIONADO, G.G. 3 DE MAYO DE 2012)</small>
+
+Audiencia de Avenencia
+
+###### Artículo 2.
+
+376.- En la audiencia de avenencia el juez tratará de conciliar a las partes, para continuar con el matrimonio, no habiéndose obtenido la conciliación, citará a una segunda audiencia con el mismo propósito, en un término de tres días, y si en esta segunda audiencia de conciliación no se logra avenir a las partes, continuará la misma y el juez las escuchará sobre la propuesta del convenio, en la que se podrán modificar o adicionar las cláusulas del mismo a petición de los interesados.
+
+De manifestar su conformidad con los términos del convenio y, de no haber observación alguna por el juzgador, se aprobará y elevará a la categoría de cosa juzgada, decretando la disolución del vínculo matrimonial y, en su caso, la terminación de la sociedad conyugal.
+
+La aprobación del convenio podrá ser sólo sobre los puntos en que haya consenso, respecto de los restantes se procederá conforme al precepto legal siguiente.
+
+> <small>(ADICIONADO, G.G. 3 DE MAYO DE 2012)</small>
+
+Falta de consenso en el convenio
+
+###### Artículo 2.
+
+377.- De no llegar a un acuerdo sobre la totalidad de los puntos del convenio o de inasistir a la audiencia respectiva el cónyuge citado, se decretará la disolución del vínculo matrimonial y, en su caso, la terminación de la sociedad conyugal; apercibiendo a las partes de abstenerse de ocultar, enajenar, dilapidar bienes y efectos patrimoniales generados durante el matrimonio hasta en tanto se resuelva en definitiva.
+
+En la propia audiencia, se decidirá sobre las medidas precautorias y provisionales, entre otras las referentes a los alimentos, guarda y custodia de menores o incapaces y, régimen de convivencia.
+
+Se otorgará a las partes un plazo común de cinco días para que conforme a los requisitos de una demanda, formulen sus pretensiones, hechos y ofrezcan sus medios de prueba, respecto de los puntos que no hayan sido objeto de consenso y los demás que estimen convenientes.
+
+Con los escritos que presenten las partes, se les dará vista para que manifiesten lo que a su interés convenga, opongan defensas y excepciones y ofrezca los medios de prueba respectivos, por un plazo de cinco días.
+
+> <small>(ADICIONADO, G.G. 3 DE MAYO DE 2012)</small>
+
+Citación a la audiencia inicial
+
 #### SECCION PRIMERA. De la Conciliación
 
 > <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+
+###### Artículo 2.
+
+378.- De no formularse pretensión alguna, o transcurrido el plazo a que se refiere el artículo anterior, el juez citará a las partes a la audiencia inicial a que se refiere el artículo 5.50 de este Código, que tendrá verificativo dentro de los cinco días siguientes.
+
+El procedimiento continuará conforme a las reglas del Libro Quinto de este Código.
+
+> <small>(ADICIONADO, G.G. 3 DE MAYO DE 2012)</small>
+
+Irrecurribilidad
+
+###### Artículo 2.
+
+379.- La resolución que decrete el divorcio será irrecurrible.
 
 #### SECCION SEGUNDA. De la Controversia de Violencia Familiar
 
@@ -6104,6 +6194,12 @@ Objeto
 > <small>(REFORMADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
 Traslado de la demanda
+
+### CAPÍTULO IX. Del Divorcio Incausado
+
+> <small>(ADICIONADO, G.G. 3 DE MAYO DE 2012)</small>
+
+Requisitos
 
 ### CAPITULO I. Disposiciones Comunes
 
@@ -6119,17 +6215,13 @@ Autorización judicial para vender o gravar
 
 Requisitos de la adopción
 
-### CAPITULO IV. De la Inmatriculación
-
-Requisitos para la información de dominio
-
 # LIBRO TERCERO. Procedimientos Judiciales no Contenciosos
 
 ## TITULO UNICO. Actos que por Disposición de la Ley a Solicitud de los Particulares Requieren Intervención del Juez cuando no Exista Litigio
 
-### CAPITULO V. Del Apeo o Deslinde
+### CAPITULO IV. De la Inmatriculación
 
-Procedencia
+Requisitos para la información de dominio
 
 ###### Artículo 3.
 
@@ -6209,9 +6301,9 @@ IV. Derechos de patentes, marcas, autorales y otros análogos.
 
 Requisitos para conceder la autorización
 
-### CAPITULO I. Reglas Generales
+### CAPITULO V. Del Apeo o Deslinde
 
-Procedencia del concurso de acreedores
+Procedencia
 
 ###### Artículo 3.
 
@@ -6275,9 +6367,9 @@ Requisitos de la solicitud
 
 > <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2004)</small>
 
-### CAPITULO II. De las Funciones del Síndico
+### CAPITULO I. Reglas Generales
 
-Funciones del síndico
+Procedencia del concurso de acreedores
 
 ###### Artículo 3.
 
@@ -6325,9 +6417,9 @@ IV. Constancia del comisariado ejidal o comunal de que el inmueble no está suje
 
 Personas que deberán ser citadas
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO II. De las Funciones del Síndico
 
-Medidas urgentes en caso de fallecimiento
+Funciones del síndico
 
 ###### Artículo 3.
 
@@ -6387,9 +6479,9 @@ Protocolización de las informaciones
 
 Legitimación
 
-### CAPITULO II. De las Testamentarias
+### CAPITULO I. Disposiciones Generales
 
-Inicio de juicio testamentario
+Medidas urgentes en caso de fallecimiento
 
 ###### Artículo 3.
 
@@ -6455,9 +6547,9 @@ V. El Juez mandará que se fijen las señales convenientes en los puntos deslind
 
 ## TITULO PRIMERO. Concurso
 
-### CAPITULO III. De los Intestados
+### CAPITULO II. De las Testamentarias
 
-Denuncia intestamentaria
+Inicio de juicio testamentario
 
 ###### Artículo 4.
 
@@ -6585,9 +6677,9 @@ Impedimentos para ser síndico
 
 13.- El síndico tendrá los mismos impedimentos respecto del concursado y del Juez que los que tienen los tutores que administren bienes.
 
-### CAPITULO IV. Del Inventario y Avalúo
+### CAPITULO III. De los Intestados
 
-Plazo para el inventario
+Denuncia intestamentaria
 
 ###### Artículo 4.
 
@@ -6639,9 +6731,9 @@ V. Terminado el reconocimiento y graduación, los acreedores, por mayoría de cr
 
 ## TITULO SEGUNDO. Sucesiones
 
-### CAPITULO V. De la Administración y la Rendición de Cuentas
+### CAPITULO IV. Del Inventario y Avalúo
 
-Enajenación de bienes inventariados
+Plazo para el inventario
 
 ###### Artículo 4.
 
@@ -6801,9 +6893,9 @@ Existencia de testamento en caso de intestado
 
 35.- Si durante la tramitación de un intestado se exhibe el testamento, se sobreseerá aquél, para iniciar el juicio testamentario, a no ser que se refiera a una parte de los bienes hereditarios. En este caso se acumularán los juicios y el albacea será el testamentario; la liquidación y partición serán comunes; los inventarios lo serán cuando se acumulen antes de su formación.
 
-### CAPITULO VI. De la Liquidación y Partición de la Herencia
+### CAPITULO V. De la Administración y la Rendición de Cuentas
 
-Distribución provisional
+Enajenación de bienes inventariados
 
 ###### Artículo 4.
 
@@ -6839,9 +6931,9 @@ Impugnación de testamento
 
 41.- Si se impugna la validez del testamento o la capacidad de algún heredero, se continuará el juicio hasta antes de la adjudicación, en tanto se dicta sentencia definitiva sobre la impugnación.
 
-### CAPITULO VII. De la Transmisión Hereditaria del Patrimonio Familiar
+### CAPITULO VI. De la Liquidación y Partición de la Herencia
 
-Adjudicación del patrimonio familiar
+Distribución provisional
 
 ###### Artículo 4.
 
@@ -6893,9 +6985,9 @@ Entrega de documentos
 
 49.- Al albacea se le entregarán todos los documentos inherentes a los bienes que forman la masa hereditaria, y los herederos le concederán facilidades y auxilio para el desempeño de su cargo.
 
-### CAPITULO VIII. De la Tramitación por Notarios
+### CAPITULO VII. De la Transmisión Hereditaria del Patrimonio Familiar
 
-Tramitación notarial
+Adjudicación del patrimonio familiar
 
 ###### Artículo 4.
 
@@ -6925,9 +7017,9 @@ Modificación de inventario y avalúo
 
 54.- Aprobado el inventario y avalúo, sólo podrá modificarse cuando aparezcan o se excluyan bienes o se declare operante la oposición.
 
-### CAPITULO IX. De la Tramitación Especial
+### CAPITULO VIII. De la Tramitación por Notarios
 
-Tramitación especial
+Tramitación notarial
 
 ###### Artículo 4.
 
@@ -6995,9 +7087,9 @@ Aprobación de la cuenta
 
 64.- Aprobada la cuenta de administración, el albacea procederá a la liquidación de la herencia.
 
-### CAPITULO X. Disposiciones Comunes
+### CAPITULO IX. De la Tramitación Especial
 
-Oposición al tramite especial o notarial
+Tramitación especial
 
 ###### Artículo 4.
 
@@ -7065,6 +7157,14 @@ Apelación de la adjudicación
 
 75.- La resolución que decida sobre la adjudicación es apelable con efecto suspensivo.
 
+### CAPITULO X. Disposiciones Comunes
+
+Oposición al tramite especial o notarial
+
+###### Artículo 4.
+
+76.- Exhibida el acta de defunción, acreditado el derecho de los herederos y la existencia del patrimonio familiar, el Juez dictará resolución de adjudicación.
+
 ### CAPITULO I. Disposiciones Generales
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
@@ -7072,18 +7172,6 @@ Apelación de la adjudicación
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
 Reglas de las controversias
-
-###### Artículo 4.
-
-76.- Exhibida el acta de defunción, acreditado el derecho de los herederos y la existencia del patrimonio familiar, el Juez dictará resolución de adjudicación.
-
-### CAPITULO II. Actos Procesales en General
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Peticiones orales
 
 ###### Artículo 4.
 
@@ -7127,13 +7215,13 @@ III. El Notario redactará el instrumento en el que se relacionarán los documen
 
 IV. En el instrumento a que se refiere la fracción anterior, los legatarios podrán otorgar, a su vez, testamento público simplificado.
 
-### CAPITULO III. De la Pruebas
+### CAPITULO II. Actos Procesales en General
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
-Requisitos de los medios de prueba
+Peticiones orales
 
 ###### Artículo 4.
 
@@ -7155,13 +7243,13 @@ Resolución en la tramitación especial
 
 84.- El Juez en una sola audiencia y en presencia de los interesados, examinará los documentos y resolverá haciendo la declaración de herederos, y adjudicación de los bienes.
 
-### CAPITULO IV. De la Demanda
+### CAPITULO III. De la Pruebas
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
-De la demanda, reconvención y su contestación
+Requisitos de los medios de prueba
 
 ###### Artículo 4.
 
@@ -7183,13 +7271,13 @@ Formalidad de la adjudicación
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
 
-### CAPITULO V. Audiencia Inicial
+### CAPITULO IV. De la Demanda
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
-Etapas de la audiencia inicial
+De la demanda, reconvención y su contestación
 
 ###### Artículo 5.
 
@@ -7209,7 +7297,9 @@ Controversias
 
 2.- Se sujetarán a estas controversias:
 
-I. Las que se susciten con motivo de alimentos, guarda y custodia, convivencia, régimen patrimonial, patria potestad, parentesco, paternidad, nulidades relativas a esta materia, divorcio necesario y las demás relacionadas con el derecho familiar;
+> <small>(REFORMADA, G.G. 3 DE MAYO DE 2012)</small>
+
+I. Las que se susciten con motivo de alimentos, guarda y custodia, convivencia, régimen patrimonial, patria potestad, parentesco, paternidad, nulidades relativas a esta materia y las demás relacionadas con el derecho familiar;
 
 II. Las relativas al estado civil de las personas; y
 
@@ -7291,13 +7381,13 @@ Suplencia de la queja
 
 Determinaciones orales
 
-### CAPITULO VI. De la Audiencia Principal
+### CAPITULO V. Audiencia Inicial
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
-Desarrollo de la audiencia principal
+Etapas de la audiencia inicial
 
 ###### Artículo 5.
 
@@ -7571,13 +7661,13 @@ La falta de interés en el desahogo de estos medios de prueba, surtirá efectos 
 
 Declaración de parte
 
-### CAPITULO VII. Cambio de Vía en el Divorcio Necesario
+### CAPITULO VI. De la Audiencia Principal
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
-Solicitud de divorcio por mutuo consentimiento
+Desarrollo de la audiencia principal
 
 ###### Artículo 5.
 
@@ -7721,13 +7811,9 @@ Además de los medios de prueba que este código establece, las partes podrán o
 
 Del formato de demanda de alimentos
 
-### CAPITULO VIII. De los Recursos
+### CAPITULO VII. Cambio de Vía en el Divorcio Necesario
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Revocación fuera de audiencia
+Solicitud de divorcio por mutuo consentimiento
 
 ###### Artículo 5.
 
@@ -7879,6 +7965,14 @@ Inasistencia de las partes
 
 Enunciación de la litis
 
+### CAPITULO VIII. De los Recursos
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Revocación fuera de audiencia
+
 ###### Artículo 5.
 
 52.- Declarada abierta la audiencia inicial, el juez precisará sucintamente las pretensiones de las partes.
@@ -8029,101 +8123,59 @@ El juez dictará las providencias necesarias para su desahogo.
 
 Cuando se hayan solicitado informes de autoridades o particulares, se les requerirá para que, a la brevedad, los rindan. Una vez agotadas las medidas de apremio que se estimen conducentes, el juez podrá tenerlas por desiertas y señalará fecha dentro de los cinco días siguientes para la continuación de la audiencia.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
+> <small>(DEROGADA SU DENOMINACIÓN, G.G. 3 DE MAYO DE 2012)</small>
 
 ###### Artículo 5.
 
-65.- En los asuntos relacionados con divorcio necesario, desde la etapa conciliatoria hasta la de alegatos, las partes de común acuerdo, podrán solicitar la suspensión de la audiencia, siempre que expresen su voluntad de disolver su vínculo matrimonial por mutuo consentimiento, al efecto, exhibirán o elaborarán en ese acto, el convenio a que se refiere el artículo 4.102 del Código Civil del Estado.
-
-Para ello, deberán estar agregadas las copias certificadas de las actas de matrimonio y de nacimiento de los menores hijos, en su caso.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+65.- (DEROGADO, G.G. 3 DE MAYO DE 2012)
 
 Vista al Ministerio Público
 
 ###### Artículo 5.
 
-66.- De la solicitud del divorcio por mutuo consentimiento y del convenio, se dará vista al Ministerio Público cuando estén involucrados derechos de menores o incapaces.
-
-El Ministerio Público adscrito desahogará la vista en la propia audiencia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+66.- (DEROGADO, G.G. 3 DE MAYO DE 2012)
 
 Análisis del convenio
 
 ###### Artículo 5.
 
-67.- En la misma audiencia, el juez analizará el convenio y señalará a los cónyuges los puntos que no se apeguen a derecho o que considere inequitativos, para que los corrijan.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+67.- (DEROGADO, G.G. 3 DE MAYO DE 2012)
 
 Aprobación del convenio
 
 ###### Artículo 5.
 
-68.- De encontrar apegado a derecho el convenio y de estar garantizados los derechos de los menores o incapaces, el juez dictará resolución.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+68.- (DEROGADO, G.G. 3 DE MAYO DE 2012)
 
 Derechos de tercero
 
 ###### Artículo 5.
 
-69.- En lo relativo a la administración y liquidación de la sociedad conyugal, quedan a salvo los derechos de terceros.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+69.- (DEROGADO, G.G. 3 DE MAYO DE 2012)
 
 Sentencia irrecurrible
 
 ###### Artículo 5.
 
-70.- la sentencia que declare la disolución del vínculo matrimonial es irrecurrible.
-
-Se procederá inmediatamente a su ejecución en el mismo expediente.
-
-El juez podrá dictar las medidas necesarias para su ejecución.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+70.- (DEROGADO, G.G. 3 DE MAYO DE 2012)
 
 Levantamiento de la suspensión de la audiencia
 
 ###### Artículo 5.
 
-71.- De no decretarse el divorcio por mutuo consentimiento se continuará con la audiencia respectiva.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+71.- (DEROGADO, G.G. 3 DE MAYO DE 2012)
 
 Efectos de la solicitud de suspensión
 
 ###### Artículo 5.
 
-72.- La solicitud de suspensión de la audiencia no constituye perdón tácito en relación a los hechos del divorcio necesario.
-
-Sólo la sentencia que decrete el divorcio por mutuo consentimiento constituirá la extinción de las pretensiones relacionadas con la controversia del orden familiar.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+72.- (DEROGADO, G.G. 3 DE MAYO DE 2012)
 
 Aplicación supletoria
 
 ###### Artículo 5.
 
-73.- Se aplicarán en lo conducente las disposiciones del divorcio por mutuo consentimiento.
+73.- (DEROGADO, G.G. 3 DE MAYO DE 2012)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -8381,8 +8433,18 @@ SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 
 G.G. 24 DE ABRIL DE 2012.
 
-DECRETO NÚMERO 434, POR EL QUE SE REFORMAN LOS ARTÍCULOS 1.93, 1.94 Y SE ADICIONA EL ARTÍCULO 5.40.1 Y UN SEGUNDO PÁRRAFO RECORRIÉNDOSE LOS SUBSECUENTES AL ARTÍCULO 5.43 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO.
+DECRETO No. 434 POR EL QUE SE REFORMAN LOS ARTÍCULOS 1.93, 1.94 Y SE ADICIONA EL ARTÍCULO 5.40.1 Y UN SEGUNDO PÁRRAFO RECORRIÉNDOSE LOS SUBSECUENTES AL ARTÍCULO 5.43 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 3 DE MAYO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Los juicios y actuaciones que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión de conformidad con las disposiciones jurídicas vigentes en ese momento.
+
+CUARTO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
