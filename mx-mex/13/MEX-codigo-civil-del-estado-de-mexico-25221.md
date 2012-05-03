@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2011-09-06"
+last_updated: "2012-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # CODIGO CIVIL DEL ESTADO DE MEXICO
 
-CODIGO CIVIL DEL ESTADO DE MEXICO
+CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE MAYO DE 2012.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -355,7 +355,7 @@ Domicilio convencional
 
 22.- El domicilio convencional, es aquel que la persona tiene derecho a designar para el cumplimiento de determinadas obligaciones.
 
-> <small>(ADICIONADA SU DENOMINACION, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(ADICIONADA SU DENOMINACIÓN, G.G. 6 DE MARZO DE 2010)</small>
 
 Domicilio familiar
 
@@ -657,9 +657,7 @@ II. Asentará el acta correspondiente al reconocimiento de paternidad o maternid
 
 De las resoluciones de divorcio
 
-### CAPITULO VI. Resoluciones que declaren o modifiquen
-
-el Estado Civil
+### CAPITULO VI. Resoluciones que declaren o modifiquen el Estado Civil
 
 Resoluciones sobre estado civil
 
@@ -727,7 +725,7 @@ Aclaración de actas del estado civil
 
 ### CAPITULO I. De la Familia
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE MARZO DE 2010)</small>
 
 De la familia
 
@@ -735,15 +733,15 @@ De la familia
 
 # LIBRO CUARTO. Del Derecho Familiar
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE MARZO DE 2010)</small>
 
 ## TITULO PRIMERO. De la Familia y el Matrimonio
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE MARZO DE 2010)</small>
 
 ### CAPITULO I BIS. De los Requisitos para contraer Matrimonio
 
-> <small>(ADICIONADA SU DENOMINACION, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(ADICIONADA SU DENOMINACIÓN, G.G. 6 DE MARZO DE 2010)</small>
 
 Concepto de matrimonio
 
@@ -801,7 +799,7 @@ Irrenunciables los fines del matrimonio
 
 Edad para contraer matrimonio
 
-(REUBICADO Y REFORMADO PRIMER PARRAFO, G.G. 6 DE MARZO DE 2010)
+(REUBICADO Y REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MARZO DE 2010)
 
 ###### Artículo 4.
 
@@ -809,7 +807,7 @@ Edad para contraer matrimonio
 
 Los Jueces de Primera Instancia pueden conceder dispensas de edad por causas graves y justificadas.
 
-> <small>(DEROGADO TERCER PARRAFO, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, G.G. 6 DE MARZO DE 2010)</small>
 
 Personas que deben consentir el matrimonio de menores
 
@@ -935,7 +933,7 @@ Los efectos civiles, se retrotraerán a la fecha de la celebración del matrimon
 
 Régimen patrimonial en el matrimonio
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MARZO DE 2010)</small>
 
 ###### Artículo 4.
 
@@ -1481,6 +1479,8 @@ III. Se celebre sin que hayan transcurrido los plazos para que los divorciados p
 
 88.- El divorcio disuelve el matrimonio y deja a los cónyuges en aptitud de contraer otro.
 
+> <small>(REFORMADO, G.G. 3 DE MAYO DE 2012)</small>
+
 Clases de divorcio
 
 ## TITULO TERCERO. Del Divorcio
@@ -1489,91 +1489,43 @@ Efectos jurídicos del divorcio
 
 ###### Artículo 4.
 
-89.- El divorcio se clasifica en necesario y voluntario. Es necesario cuando cualquiera de los cónyuges lo reclama fundado en una o más de las causas que señala el artículo siguiente y es voluntario cuando se solicita de común acuerdo por éstos.
-
-Causas de divorcio necesario
+89.- El divorcio se clasifica en incausado y voluntario. Es incausado cuando cualquiera de los cónyuges lo solicita sin que exista necesidad de señalar la razón que lo motiva y es voluntario cuando se solicita de común acuerdo.
 
 ###### Artículo 4.
 
-90.- Son causas de divorcio necesario:
+90.- (DEROGADO, G.G. 3 DE MAYO DE 2012)
 
-I. El adulterio de uno de los cónyuges;
+> <small>(REFORMADO, G.G. 3 DE MAYO DE 2012)</small>
 
-II. Que la mujer dé a luz, durante el matrimonio, un hijo concebido antes de celebrarse el mismo con persona distinta al cónyuge;
-
-III. La propuesta de prostitución de un cónyuge al otro no cuando el mismo la haya hecho directamente, sino cuando se pruebe que ha recibido cualquier remuneración con el objeto expreso de permitirlo;
-
-IV. La bisexualidad manifestada posterior a los seis meses de celebrado el matrimonio;
-
-V. La incitación o la violencia hecha por un cónyuge al otro para cometer algún delito;
-
-VI. Los actos inmorales ejecutados por alguno de los cónyuges con el fin de corromper a los hijos de ambos, o de uno de ellos, así como la tolerancia de su corrupción;
-
-VII. Padecer alguna enfermedad crónica e incurable que sea además contagiosa o hereditaria;
-
-VIII. Padecer enajenación mental incurable;
-
-IX. La separación del domicilio conyugal por más de seis meses sin causa justificada;
-
-X. (DEROGADA, G.G. 29 DE AGOSTO DE 2007)
-
-XI. La sevicia, las amenazas o las injurias graves de un cónyuge para el otro, que hagan difícil la vida en común;
-
-> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
-
-XII. La negativa de los cónyuges de darse alimentos o de darlos a los hijos;
-
-XIII. La acusación calumniosa por un delito, hecha por un cónyuge contra el otro;
-
-XIV. Haber cometido uno de los cónyuges un delito doloso, por el cual tenga que sufrir una pena de prisión no conmutable;
-
-XV. Los hábitos de juegos prohibidos o de embriaguez habitual, el uso indebido y persistente de estupefacientes, psicotrópicos, o cualquier otra sustancia que altere la conducta y produzca dependencia cuando amenacen causar la ruina de la familia, o constituyan un continuo motivo de desavenencia conyugal;
-
-XVI. Haber cometido un cónyuge contra la persona o los bienes del otro, un acto que sería punible si se tratara de tercero, siempre que tenga señalada en la ley una pena de prisión que exceda un año;
-
-> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
-
-XVII. La violencia familiar;
-
-XVIII. Permitir ser instrumento, de un método de concepción humana artificial, sin el consentimiento de su cónyuge;
-
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2007)</small>
-
-XIX. La separación de los cónyuges por más de un año, independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualquiera de ellos;
-
-> <small>(ADICIONADA, G.G. 16 DE ENERO DE 2007)</small>
-
-XX. Incumplimiento injustificado de las determinaciones judiciales que se hayan ordenado, tendientes a corregir los actos de Violencia Familiar hacia el otro cónyuge o a los hijos, por el cónyuge obligado a ello.
-
-Legitimación y plazo de la acción de divorcio
+Legitimación y plazo para solicitar el divorcio incausado
 
 ###### Artículo 4.
 
-91.- El divorcio sólo puede ser demandado por el cónyuge que no haya dado causa a él, dentro de los seis meses siguientes al día en que tenga conocimiento de los hechos en que se funde la demanda, excepto en causas de tracto sucesivo.
-
-Caducidad de la acción de divorcio
+91.- El divorcio podrá pedirse por uno de los cónyuges, con la sola manifestación de la voluntad de no querer continuar con el matrimonio, después de un año de haberse celebrado.
 
 ###### Artículo 4.
 
-92.- La caducidad de la acción de divorcio se examinará de oficio aún desde la presentación de la demanda.
-
-Extinción de la acción de divorcio por perdón
+92.- (DEROGADO, G.G. 3 DE MAYO DE 2012)
 
 ###### Artículo 4.
 
-93.- Ninguna de las causas de divorcio pueden alegarse cuando haya mediado perdón expreso o tácito.
+93.- (DEROGADO, G.G. 3 DE MAYO DE 2012)
+
+> <small>(REFORMADO, G.G. 3 DE MAYO DE 2012)</small>
 
 Reconciliación de los cónyuges
 
 ###### Artículo 4.
 
-94.- La reconciliación de los cónyuges pone término al juicio de divorcio en cualquier estado en que se encuentre, si aún no hubiere sentencia ejecutoria, comunicándolo al Juez.
+94.- La reconciliación de los cónyuges pone término al trámite de divorcio en cualquier estado en que se encuentre, si aún no se hubiere decretado, comunicándolo al Juez.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE MAYO DE 2012)</small>
 
 Medidas precautorias en el divorcio
 
 ###### Artículo 4.
 
-95.- Al admitirse la demanda de divorcio, o antes, si hubiere urgencia, podrán dictarse sólo mientras dure el juicio, las disposiciones siguientes:
+95.- Al admitirse la solicitud de divorcio, o antes, si hubiere urgencia, podrán dictarse sólo mientras dure el procedimiento, las disposiciones siguientes:
 
 I. Separar a los cónyuges, tomando siempre en cuenta las circunstancias personales de cada uno y el interés superior de los hijos menores y de los sujetos a tutela;
 
@@ -1585,37 +1537,39 @@ IV. Dictar las medidas convenientes respecto a la mujer que esté embarazada;
 
 V. Las necesarias para que los cónyuges no se causen daños en su persona, en sus bienes, en los de la sociedad conyugal o en los bienes de los hijos.
 
-Sentencia de divorcio en relación a los hijos
+> <small>(ADICIONADO, G.G. 3 DE MAYO DE 2012)</small>
 
-> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+Los menores de doce años deberán quedar preferentemente al cuidado de la madre, a menos que exista una causa justificada a criterio del Juez. No será obstáculo para la preferencia maternal en la custodia el hecho de que la madre carezca de recursos económicos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO Y EPÍGRAFE, G.G. 3 DE MAYO DE 2012)</small>
+
+Resolución de divorcio en relación a los hijos
 
 ###### Artículo 4.
 
-96.- En la sentencia que decrete el divorcio, se determinarán los derechos y obligaciones derivados de la patria potestad, respecto a la persona y bienes de los hijos, teniendo en cuenta el interés particular de los menores, su salud, costumbres, educación y conservación de su patrimonio.
+96.- En la resolución que decrete el divorcio voluntario, se determinarán los derechos y obligaciones derivados de la patria potestad, respecto a la persona y bienes de los hijos, teniendo en cuenta el interés superior de los menores, su salud, costumbres, educación y conservación de su patrimonio.
 
 El Juez acordará de oficio cualquier providencia que considere benéfica para los hijos o los sujetos a tutela.
 
-Revocación de las donaciones por divorcio
-
 ###### Artículo 4.
 
-97.- Por el divorcio se revocan las donaciones hechas al cónyuge culpable. El cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
+97.- (DEROGADO, G.G. 3 DE MAYO DE 2012)
+
+> <small>(REFORMADO, G.G. 3 DE MAYO DE 2012)</small>
 
 Liquidación de la sociedad conyugal
 
-###### Artículo 4.
+###### Articulo 4.
 
-98.- Ejecutoriada la sentencia de divorcio, se liquidará la sociedad conyugal, y se tomarán las precauciones necesarias para asegurar las obligaciones pendientes entre los cónyuges, o con relación a los hijos.
+98.- Decretado el divorcio, se liquidará la sociedad conyugal, y se tomarán las precauciones necesarias para asegurar las obligaciones pendientes entre los cónyuges, o con relación a los hijos.
+
+> <small>(REFORMADO, G.G. 3 DE MAYO DE 2012)</small>
 
 Alimentos de los cónyuges en el divorcio
 
-> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
-
 ###### Artículo 4.
 
-99.- En los casos de divorcio necesario, el cónyuge inocente tendrá derecho a alimentos. En el divorcio decretado con base en la separación de los cónyuges por más de un año, tendrá derecho a ellos el que lo necesite.
-
-Para la fijación de los alimentos se tomarán en cuenta las circunstancias siguientes:
+99.- En el divorcio tendrá derecho a los alimentos el que lo necesite, y su monto se fijara de acuerdo a las circunstancias siguientes:
 
 I. La edad y el estado de salud de los cónyuges;
 
@@ -1627,17 +1581,15 @@ IV. Otras obligaciones que tenga el cónyuge deudor; y
 
 V. Las demás que el Juez estime necesarias y pertinentes.
 
-En todos los casos, el cónyuge inocente que carezca de bienes o que durante el matrimonio haya realizado cotidianamente trabajo del hogar consistente en tareas de administración, dirección, atención del mismo o al cuidado de la familia, o que esté imposibilitado para trabajar, tendrá derecho a alimentos, sin menoscabo de la repartición equitativa de bienes.
+En todos los casos, el cónyuge que carezca de bienes o que durante el matrimonio haya realizado cotidianamente trabajo del hogar consistente en tareas de administración, dirección, atención del mismo o al cuidado de la familia, o que esté imposibilitado para trabajar, tendrá derecho a alimentos, sin menoscabo de la repartición equitativa de bienes.
 
-En la resolución se fijarán las bases para actualizar la pensión y las garantías para su efectividad. El derecho a los alimentos, en caso de divorcio necesario, se extingue cuando el acreedor contraiga nuevas nupcias o se una en concubinato.
+En la resolución que se dicte con respecto a los alimentos, se fijarán las bases para actualizar la pensión y las garantías para su efectividad.
 
-El cónyuge inocente tiene derecho, además del pago de alimentos, a que el culpable lo indemnice por los daños y perjuicios que el divorcio le haya causado.
-
-Plazo para contraer nuevo matrimonio
+El derecho a los alimentos, se extingue cuando el acreedor contraiga nuevas nupcias o se una en concubinato.
 
 ###### Artículo 4.
 
-100.- El cónyuge que haya dado causa al divorcio, no podrá volver a casarse, sino después de dos años, contados desde que se decretó el divorcio. Los divorciados uno del otro pueden volver a casarse entre sí en cualquier momento.
+100.- (DEROGADO, G.G. 3 DE MAYO DE 2012)
 
 Plazo para solicitar divorcio voluntario
 
@@ -1715,11 +1667,13 @@ II. El que por su condición o circunstancia no pueda allegarse sus alimentos.
 
 Este derecho se disfrutará mientras no contraiga matrimonio o se una en concubinato.
 
-Asiento de sentencia ejecutoriada
+> <small>(REFORMADO, G.G. 3 DE MAYO DE 2012)</small>
+
+Anotación en el Registro Civil
 
 ###### Artículo 4.
 
-110.- Ejecutoriada una sentencia de divorcio, el Juez de Primera Instancia remitirá copia certificada de ella al oficial del Registro Civil de su jurisdicción y ante quien se celebró el matrimonio, para que a costa de los interesados se realicen los asientos correspondientes.
+110.- De la resolución que decrete el divorcio, el Juez remitirá certificada al Oficial del Registro Civil de su jurisdicción y ante quien se celebró el matrimonio, para que a costa de los interesados se realicen los asientos correspondientes.
 
 ###### Artículo 4.
 
@@ -2279,7 +2233,7 @@ Relación jurídica entre adoptante y adoptado
 
 Personas que deben consentir en la adopción
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
 
 ###### Artículo 4.
 
@@ -2621,7 +2575,7 @@ Pérdida de la patria potestad por sentencia
 
 I. Cuando el que la ejerza es condenado por delito doloso grave;
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MARZO DE 2010)</small>
 
 II. Cuando por las costumbres depravadas de los que ejerzan la patria potestad, malos tratos, violencia familiar o abandono de sus deberes alimentarios o de guarda o custodia por más de dos meses y por ello se comprometa la salud, la seguridad o la moralidad de los menores aún cuando esos hechos no constituyan delito.
 
@@ -3227,7 +3181,7 @@ Causas de extinción de la tutela
 
 Medidas para garantizar el cuidado de los pupilos
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
 
 ###### Artículo 4.
 
@@ -3939,7 +3893,7 @@ Efectos de la extinción del patrimonio familiar
 
 396.- Toda persona que sufriese violencia familiar por parte de alguno de los integrantes del grupo familiar, podrá interponer demanda de estos hechos ante el Juez de Primera Instancia, en términos del Código de Procedimientos Civiles.
 
-> <small>(ADICIONADA SU DENOMINACION, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(ADICIONADA SU DENOMINACIÓN, G.G. 6 DE MARZO DE 2010)</small>
 
 Concepto de grupo familiar
 
@@ -4001,7 +3955,7 @@ V. (DEROGADA, G.G. 6 DE MARZO DE 2010)
 
 403.- Se considera concubinato la relación de hecho que tienen un hombre y una mujer, que sin estar casados y sin impedimentos legales para contraer matrimonio, viven juntos, haciendo una vida en común por un período mínimo de un año; no se requerirá para la existencia del concubinato el periodo antes señalado, cuando reunidos los demás requisitos, se hayan procreado hijos en común.
 
-> <small>(ADICIONADA SU DENOMINACION, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(ADICIONADA SU DENOMINACIÓN, G.G. 6 DE MARZO DE 2010)</small>
 
 Derechos y obligaciones que nacen del concubinato
 
@@ -4013,7 +3967,7 @@ Derechos y obligaciones que nacen del concubinato
 
 ## TITULO DECIMO TERCERO. Del Concubinato
 
-> <small>(ADICIONADA SU DENOMINACION, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(ADICIONADA SU DENOMINACIÓN, G.G. 6 DE MARZO DE 2010)</small>
 
 Definición del concubinato
 
@@ -13387,9 +13341,7 @@ Formación del contrato de mandato
 
 ## TITULO DECIMO. Del Contrato de Prestación de Servicios
 
-### CAPITULO IV. De las Obligaciones y Derechos del Mandante y
-
-del Mandatario con Relación a Tercero
+### CAPITULO IV. De las Obligaciones y Derechos del Mandante y del Mandatario con Relación a Tercero
 
 Obligación del mandante de cumplir lo ejecutado
 
@@ -14671,9 +14623,7 @@ Obligaciones de la sociedad con terceros
 
 939.- La disolución de la sociedad no modifica los compromisos contraídos con terceros.
 
-#### SECCION QUINTA. De la Disolución de
-
-la Sociedad
+#### SECCION QUINTA. De la Disolución de la Sociedad
 
 Causas de disolución
 
@@ -16339,7 +16289,7 @@ Obligatoriedad del laudo
 
 1174.- La decisión de los árbitros es de obligada aceptación.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NUMERO 329, PUBLICADO EN LA G.G. DE 18 DE AGOSTO DE 2011, SE MODIFICA DE FORMA SUSTANTIVA EL LIBRO OCTAVO DEL CODIGO CIVIL DEL ESTADO DE MEXICO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 329, PUBLICADO EN LA G.G. DE 18 DE AGOSTO DE 2011, SE MODIFICA DE FORMA SUSTANTIVA EL LIBRO OCTAVO DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO.</small>
 
 # LIBRO OCTAVO. Del Registro Público de la Propiedad
 
@@ -16701,7 +16651,7 @@ Impugnación contra la calificación registral. Recurso de Inconformidad o juici
 
 Si mediante sentencia ejecutoriada se resuelve que el documento fue mal calificado e indebidamente rechazado y se ordena que se registre, la inscripción se practicará de inmediato y surtirá sus efectos desde que por primera vez se presentó el documento, debiéndose tener en cuenta lo dispuesto por los artículos 8.23 al 8.28 inclusive.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 18 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
@@ -17077,7 +17027,7 @@ Las bases para la extracción y captura de información para integrar el folio s
 
 72.- La información e imágenes contenidas en la base de datos de los sistemas informáticos con los que opere el Registro Público de la Propiedad, tendrán la misma validez y exactitud jurídica que las contenidas en los libros o en el archivo histórico, así como el carácter probatorio para los efectos correspondientes.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 18 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ## TITULO QUINTO. De los Servidores Públicos del Instituto de la Función Registral del Estado de México
 
@@ -17103,7 +17053,7 @@ Disposiciones aplicables del registro de inmuebles
 
 74.- Serán aplicables a estas inscripciones las disposiciones relativas del registro de bienes inmuebles, en cuanto sean compatibles con la naturaleza de los actos o contratos materia del presente capítulo y con los efectos que las inscripciones producen.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 18 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ## TITULO SEXTO. De los Servidores Públicos del Instituto de la Función Registral del Estado de México
 
@@ -17161,7 +17111,7 @@ MANUEL CADENA MORALES
 
 (RUBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.G. 17 DE JULIO DE 2003.
 
@@ -17191,7 +17141,7 @@ TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 G.G. 29 DE AGOSTO DE 2007.
 
-DECRETO NUMERO 74.
+DECRETO NÚMERO 74.
 
 PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
@@ -17201,7 +17151,7 @@ TERCERO.- Los asuntos que se encuentren en trámite se resolverán de conformida
 
 G.G. 29 DE AGOSTO DE 2007.
 
-DECRETO NUMERO 75.
+DECRETO NÚMERO 75.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
@@ -17221,7 +17171,7 @@ CUARTO.- El Instituto de la Función Registral del Estado de México aplicará l
 
 QUINTO.- El Consejo Directivo, en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto, deberá expedir el Reglamento Interior del Instituto de la Función Registral del Estado de México.
 
-SEXTO.- Los recursos humanos, materiales y financieros con los que venia operando la Dirección General del Registro Público de la Propiedad de la Secretaria General de Gobierno, se transferirán al Instituto de la Función Registral del Estado de México, en los términos que establezcan las Secretarías General de Gobierno y de Finanzas, en sus respectivos ámbitos de competencia.
+SEXTO.- Los recursos humanos, materiales y financieros con los que venía operando la Dirección General del Registro Público de la Propiedad de la Secretaria General de Gobierno, se transferirán al Instituto de la Función Registral del Estado de México, en los términos que establezcan las Secretarías General de Gobierno y de Finanzas, en sus respectivos ámbitos de competencia.
 
 SÉPTIMO.- Se respetarán los derechos laborales adquiridos por los servidores públicos adscritos a la Dirección General del Registro Público de la Propiedad de la Secretaría General de Gobierno que pasen a formar parte del Instituto de la Función Registral del Estado de México.
 
@@ -17346,3 +17296,13 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 3 DE MAYO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Los juicios y actuaciones que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión de conformidad con las disposiciones jurídicas vigentes en ese momento.
+
+CUARTO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
