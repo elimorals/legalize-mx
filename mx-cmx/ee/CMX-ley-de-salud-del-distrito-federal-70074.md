@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2012-01-27"
+last_updated: "2012-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE MAYO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -1344,9 +1344,29 @@ III. Expedir, revalidar o revocar, en su caso, en coordinación con la Agencia, 
 
 IV. Coordinar, supervisar, evaluar y concentrar la información relativa a la disposición, internación y salida de sangre humana, sus componentes y células progenitoras hematopoyéticas en el Distrito Federal;
 
-V. Promover y coordinar la realización de campañas de donación voluntaria de sangre, y
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 2012)</small>
 
-VI. Proponer actividades de investigación, capacitación de recursos humanos e información en la materia de sus propósitos.
+V. Promover y coordinar la realización de campañas de donación voluntaria, y altruista de sangre, sus componentes y células progenitoras hematopoyéticas;
+
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 2012)</small>
+
+VI. Proponer y, en su caso, desarrollar actividades de investigación, capacitación de recursos humanos e información en materia de donación de sangre, sus componentes y células progenitoras hematopoyéticas;
+
+> <small>(ADICIONADA, G.O. 3 DE MAYO DE 2012)</small>
+
+VII. Establecer mecanismos para la sistematización y difusión, entre las unidades médicas del Gobierno del Distrito Federal, de la normatividad e información científica y sanitaria en materia de disposición de sangre, sus componentes y células progenitoras hematopoyéticas;
+
+> <small>(ADICIONADA, G.O. 3 DE MAYO DE 2012)</small>
+
+VIII. Proponer y, en su caso, realizar actividades educativas, de investigación y de difusión para el fomento de la cultura de la donación de sangre, sus componentes y células progenitoras hematopoyéticas para fines terapéuticos y de investigación;
+
+> <small>(ADICIONADA, G.O. 3 DE MAYO DE 2012)</small>
+
+IX. Coadyuvar, en el ámbito de sus competencias, con las autoridades correspondientes para evitar la disposición ilícita de sangre, sus componentes y células progenitoras hematopoyéticas, y
+
+> <small>(ADICIONADA, G.O. 3 DE MAYO DE 2012)</small>
+
+X. Promover la constitución de los Comités de Medicina Transfusional que establezcan las unidades médicas del Gobierno del Distrito Federal.
 
 ### Capítulo XXV. Servicios de Salud en Reclusorios y Centros de Readaptación Social
 
@@ -1898,7 +1918,7 @@ XIII. Las demás medidas de índole sanitaria que determinen las autoridades san
 
 Las medidas de seguridad señaladas en el presente artículo son de inmediata ejecución y serán aplicadas en los términos de las disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 142.
 
@@ -2242,7 +2262,7 @@ Queda prohibida la venta de alimentos en la vía pública sin la autorización s
 
 Queda estrictamente prohibida la (sic) el comercio o la venta de alimentos en las zonas de acceso, entradas y rampas de la (sic) unidades hospitalarias y de atención médica.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 24 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE AGOSTO DE 2010)</small>
 
 ### Capítulo XX. Establecimientos, medicina estética, embellecimiento físico del cuerpo humano y actividades diversas
 
@@ -2617,3 +2637,7 @@ G.O. 27 DE ENERO DE 2012.
 DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 109, 110, 148 Y 149 DE LA LEY DE SALUD DEL DISTRITO FEDERAL.
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. La Secretaría de Salud, conforme a la suficiencia presupuestal asignada por la Asamblea Legislativa del Distrito Federal, instrumentará las acciones establecidas en el presente Decreto.
+
+G.O. 3 DE MAYO DE 2012.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. La Secretaría de Salud, conforme a la suficiencia presupuestal asignada por la Asamblea Legislativa, instrumentará las acciones establecidas en la (sic) presente Decreto.
