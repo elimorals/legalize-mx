@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salvaguarda-del-patrimonio-urbanistico-16125"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-13"
-last_updated: "2008-12-22"
+last_updated: "2012-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16125&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2000-03-14"
 ---
 # LEY DE SALVAGUARDA DEL PATRIMONIO URBANISTICO ARQUITECTONICO DEL DISTRITO FEDERAL
 
-LEY DE SALVAGUARDA DEL PATRIMONIO URBANISTICO ARQUITECTONICO DEL DISTRITO FEDERAL
+LEY DE SALVAGUARDA DEL PATRIMONIO URBANÍSTICO ARQUITECTÓNICO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE MAYO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de abril de 2000.
 
@@ -264,13 +264,15 @@ Un espacio abierto monumental es un medio físico definido en suelo urbano, libr
 
 Los espacios abiertos monumentales, según sus características y usos de origen, pueden ser:
 
-I. Acequia: Zanja por donde se conducen aguas para regar y para otros fines;
+I. (DEROGADA, G.O. 3 DE MAYO DE 2012)
 
 II. Atrio: Espacio abierto destinado a uso religioso generalmente adosado a un templo;
 
 III. Calle: Vialidad con una tradición histórica y características de traza e imagen urbana singulares;
 
-IV. Canal: Cauce artificial por donde se conduce agua para darle salida o para diversos usos entre los que figura la circulación vehicular entre Chinampas;
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 2012)</small>
+
+IV. Canal o acequia: Es una obra hidráulica para conducir aguas de regadío, para el transporte de personas y productos, así como para conectar chinampas, lagos y lagunas.
 
 V. Chinampas: Sistema de terrenos artificiales de origen y tradición mesoamericana en la Cuenca de México, separados entre sí por canales de agua, en un medio lacustre de poca profundidad, destinados al cultivo de especies vegetales con fines productivos y de habitación;
 
@@ -312,7 +314,13 @@ V. Paseos: Reforma, Bucareli, Horacio (Paseo de los Cedros), Tlalpan, Tacuba, Ma
 
 VI. Plazas: Las que se declaren conforme a las disposiciones de esta ley exceptuando las de jurisdicción federal;
 
-VII. Viveros: Viveros de Coyoacán.
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 2012)</small>
+
+VII. Viveros: Viveros de Coyoacán; y
+
+> <small>(ADICIONADA, G.O. 3 DE MAYO DE 2012)</small>
+
+VIII. Canales: Canal Nacional, Canal de Cuemanco y Canal de Chalco.
 
 ###### Artículo 13.
 
@@ -580,7 +588,7 @@ DEL REGISTRO PÚBLICO, CATÁLOGOS Y DE INFORMACIÓN DEL PATRIMONIO URBANÍSTICO 
 
 Dentro del Registro Público de la Propiedad, habrá una sección que contará con una base de datos electrónica que se denominará Registro Público del Patrimonio Urbanístico Arquitectónico del Distrito Federal, cuya organización y funcionamiento se determinarán por vía reglamentaria. En él se inscribirán las declaratorias y registros de zonas, espacios abiertos monumentales y monumentos del Patrimonio Urbanístico Arquitectónico y los actos jurídicos relacionados con los mismos según la presente Ley y su Reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 22 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 36.
 
@@ -1086,7 +1094,7 @@ La Secretaría de Cultura es el órgano facultado para establecer y ejecutar los
 
 Los programas de Puesta en Valor deberán difundir, de manera clara y completa, las ventajas no solamente estéticas y culturales, sino también sociales y económicas que puede ofrecer una política bien llevada de salvaguarda del Patrimonio Urbanístico Arquitectónico, mostrando siempre la función que éste debe tener en la vida contemporánea.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 22 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 116.
 
@@ -1138,7 +1146,7 @@ V. Para guías de turistas: Programas destinados a preparar a los guías que dar
 
 Para especialistas: Programas de difusión de los avances científicos y tecnológicos en las diversas disciplinas relacionadas con la conservación, a través de publicaciones y la realización de Congresos y ferias.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 22 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 121.
 
@@ -1158,7 +1166,7 @@ Para llevar a cabo los programas mencionados en la fracción IV del artículo 12
 
 En el caso de monumentos y espacios abiertos monumentales del dominio público, el órgano correspondiente podrá fijar cuotas de acceso y los precios de los servicios de guías de turistas que en ellos se presten. Los recursos que se recauden, se aplicarán primordialmente al cuidado y conservación de los mismos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 22 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 123.
 
@@ -1252,7 +1260,7 @@ Salón de sesiones de la Asamblea Legislativa del Distrito Federal, a 30 de dici
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación v observancia, expido el presente Decreto Promulgatorio. en la Residencia Oficial de la Jefa de Gobierno del Distrito Federal, en la Ciudad de México, a los catorce días del mes de marzo de dos mil.- LA JEFA DE GOBIERNO DEL DISTRITO FEDERAL, ROSARIO ROBLES BERLANGA.- FIRMA.- EL SECRETARIO DE GOBIERNO, LEONEL GODOY RANGEL.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, ROBERTO EIBENSCHTZ HARTMAN.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONOMICO, FRANCISCO CANO ESCALANTE.- FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, CLARA JUSIDMAN RAPOPORT.- FIRMAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 20 DE SEPTIEMBRE DE 2001.
 
@@ -1267,3 +1275,11 @@ G.O. 22 DE DICIEMBRE DE 2008.
 Primero.- Dentro de los 30 días siguientes a la entrada en vigor del presente decreto, el Consejo de Salvaguarda del Patrimonio Urbanístico Arquitectónico del Distrito Federal se deberá instalar formalmente con los integrantes determinados en el artículo 26 de la Salvaguarda del Patrimonio Urbanístico Arquitectónico del Distrito Federal.
 
 Segundo.- El presente decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 3 DE MAYO DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El Registro Público de la Propiedad a través del Registro Público de Patrimonio Urbanístico Arquitectónico y conforme a lo establecido por los artículos 35, 38, 39, 68 y 83 del presente ordenamiento, emitirá a nombre del Gobierno del Distrito Federal el Título oficial que identificará al Canal Nacional como Espacio Abierto Monumental, en el que se reflejarán todos los actos jurídicos e intervenciones de obra que sobre él se realicen.
+
+TERCERO.- El Gobierno del Distrito Federal deberá de formular las recomendaciones técnicas respectivas y determinar la autoridad responsable para el desarrollo y seguimiento del plan de manejo y salvaguarda correspondiente al Canal Nacional en un plazo no mayor a 30 días hábiles contados a partir de la entrada en vigor del presente decreto.
