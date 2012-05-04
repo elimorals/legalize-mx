@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-6086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-08"
-last_updated: "2012-01-16"
+last_updated: "2012-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE MAYO DE 2012.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 8 de septiembre de 1995.
 
@@ -49,7 +49,7 @@ LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE MEXICO
 
 La presente ley es de orden público y tiene por objeto regular la organización y funcionamiento del Poder Judicial del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -57,7 +57,7 @@ La presente ley es de orden público y tiene por objeto regular la organización
 
 Corresponde a los Tribunales del Poder Judicial, en los términos de la Constitución Política del Estado Libre y Soberano de México, la facultad de interpretar y aplicar las leyes en los asuntos del orden civil, familiar, penal, de justicia para adolescentes y en las demás materias del fuero común y del orden federal, en los casos en que expresamente los ordenamientos legales les confieran jurisdicción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -87,7 +87,7 @@ Son auxiliares del Poder Judicial:
 
 I. Los presidentes, síndicos y delegados municipales;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -109,11 +109,11 @@ IX. Los síndicos e interventores de quiebras y de concursos;
 
 X. Los tutores, curadores, depositarios, albaceas y los interventores judiciales, en las funciones que les sean asignadas por la ley; y (sic)
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
 XI.- Los mediadores y conciliadores, en los casos y términos establecidos en la ley;
 
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADA, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
 XII.- Los demás a quienes las leyes les confieran este carácter.
 
@@ -125,9 +125,9 @@ Los auxiliares del Poder Judicial cumplirán los mandamientos de la autoridad ju
 
 Los árbitros conocerán de los asuntos que les encomienden los interesados, conforme a los términos de los compromisos respectivos y observarán en su trámite las formas y restricciones que fijen las leyes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 8.
 
@@ -141,7 +141,7 @@ III. Realizar todas las acciones necesarias para la plena ejecución de sus reso
 
 IV. Auxiliar a los órganos jurisdiccionales de la federación y a las demás autoridades, en los términos de las disposiciones legales;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -151,7 +151,7 @@ VI. Proporcionar a las autoridades competentes los datos e informes que solicite
 
 VII. Oír a los interesados en los asuntos de que conozcan cuando les sea solicitado;
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 VIII.- Disponer lo necesario para que los magistrados y jueces usen toga en las audiencias públicas, reuniones del Tribunal y actos solemnes judiciales;
 
@@ -165,7 +165,7 @@ Ningún negocio judicial podrá tener más de dos instancias.
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 10.
 
@@ -179,77 +179,77 @@ I. Distrito de Chalco: Chalco, Amecameca, Atlautla, Ayapango, Cocotitlán, Ecatz
 
 II. Distrito de Cuautitlán: Cuautitlán, Coyotepec, Cuautitlán Izcalli, Huehuetoca, Melchor Ocampo, Teoloyucan, Tepotzotlán, Tultepec y Tultitlán;
 
-(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1999) (F. DE E., P.O. 5 DE ENERO DE 2000)
+(ADICIONADA, G.G. 24 DE DICIEMBRE DE 1999) (F. DE E., G.G. 5 DE ENERO DE 2000)
 
 III. Distrito de Ecatepec de Morelos: Ecatepec de Morelos y Coacalco de Berriozabal.
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 IV. Distrito de El Oro: El Oro, Acambay, Atlacomulco y Temascalcingo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 V. Distrito de Ixtlahuaca: Ixtlahuaca, Jiquipilco, Jocotitlán, Morelos, San Felipe del Progreso y San José del Rincón;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 VI. Distrito de Jilotepec: Jilotepec, Aculco, Chapa de Mota, Polotitlán, Soyaniquilpan de Juárez, Timilpan y Villa del Carbón;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 VII. Distrito de Lerma: Lerma, Ocoyoacac, Otzolotepec, San Mateo Atenco y Xonacatlán;
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 VIII. Distrito de Nezahualcóyotl: Nezahualcóyotl, Chimalhuacán y La Paz;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 IX. Distrito de Otumba: Otumba, Axapusco, Nopaltepec, San Martín de las Pirámides, Tecámac y Temascalapa;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 X. Distrito de Sultepec: Sultepec, Almoloya de Alquisiras, Amatepec, Texcaltitlán, Tlatlaya y Zacualpan;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 XI. Distrito de Temascaltepec: Temascaltepec, Luvianos, San Simón de Guerrero y Tejupilco;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 XII. Distrito de Tenango del Valle: Tenango del Valle, Almoloya del Río, Atizapán, Calimaya, Capulhuac, Chapultepec, Joquicingo, Mexicaltzingo, Rayón, San Antonio la Isla, Texcalyacac, Tianguistenco y Xalatlaco;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 XIII. Distrito de Tenancingo: Tenancingo, Coatepec Harinas, Ixtapan de la Sal, Malinalco, Ocuilan, Tonatico, Villa Guerrero y Zumpahuacán;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 XIV. Distrito de Texcoco: Texcoco, Acolman, Atenco, Chiautla, Chicoloapan, Chiconcuac, Papalotla, Teotihuacán, Tepetlaoxtoc y Tezoyuca;
 
-(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999) (F. DE E., P.O. 5 DE ENERO DE 2000)
+(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999) (F. DE E., G.G. 5 DE ENERO DE 2000)
 
 XV. Distrito de Tlalnepantla: Tlalnepantla de Baz, Atizapán de Zaragoza, Huixquilucan, Isidro Fabela, Jilotzingo, Naucalpan y Nicolás Romero;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 XVI. Distrito de Toluca: Toluca, Almoloya de Juárez, Metepec, Temoaya, Villa Victoria y Zinacantepec;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 XVII. Distrito de Valle de Bravo: Valle de Bravo, Amanalco, Donato Guerra, Ixtapan del Oro, Santo Tomás, Otzoloapan, Villa de Allende y Zacazonapan; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 XVIII. Distrito de Zumpango: Zumpango, Apaxco, Hueypoxtla, Jaltenco, Nextlalpan, Tequixquiac y Tonanitla.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -257,7 +257,7 @@ XVIII. Distrito de Zumpango: Zumpango, Apaxco, Hueypoxtla, Jaltenco, Nextlalpan,
 
 En cada distrito o región judicial funcionarán los tribunales o juzgados que determine el Consejo de la Judicatura.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -267,13 +267,13 @@ Los tribunales o juzgados tendrán jurisdicción en el territorio de la región 
 
 Las regiones judiciales podrán comprender el ámbito territorial de más de un distrito judicial.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 14.
 
 (DEROGADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -285,7 +285,7 @@ Los jueces serán los necesarios para el despacho de los asuntos que les corresp
 
 ### CAPITULO PRIMERO. De las designaciones
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 3 DE MARZO DE 2010)</small>
 
@@ -297,13 +297,13 @@ Los Magistrados del Tribunal Superior de Justicia y los jueces serán designados
 
 Los nombramientos de magistrados del Tribunal Superior de Justicia, se sujetarán a la aprobación de la Legislatura o de la Diputación Permanente, en su caso, la cual la otorgará o negará dentro del término improrrogable de diez días hábiles. Si no resolviere dentro de ese plazo, se tendrán por aprobados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 3 DE MARZO DE 2010)</small>
 
 En caso de negativa, el Consejo de la Judicatura formulará una segunda propuesta y si tampoco es aprobada, quedará facultado para realizar un tercer nombramiento que surtirá efectos desde luego.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 3 DE MARZO DE 2010)</small>
 
@@ -331,7 +331,7 @@ Los magistrados, jueces, secretarios del pleno, de la presidencia, de acuerdos, 
 
 Quedan exceptuados de esta disposición los cargos honoríficos en asociaciones científicas, literarias o de beneficencia; asimismo, los cargos docentes siempre que su desempeño no perjudique las funciones y labores propias de los servidores de la justicia.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 Los magistrados no podrán ocupar otro cargo en la administración pública estatal, durante el tiempo señalado para el ejercicio de su función, salvo que renuncien al cargo que desempeñan.
 
@@ -339,7 +339,7 @@ Los magistrados no podrán ocupar otro cargo en la administración pública esta
 
 Ningún nombramiento para servidor público de la administración de justicia o auxiliar de ésta, podrá recaer en ascendientes, descendientes, cónyuges o colaterales dentro del cuarto grado por consanguinidad, segundo por afinidad o con parentesco civil, con los servidores que hagan la designación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -357,7 +357,7 @@ Los magistrados, jueces, secretarios del pleno, de la presidencia, de acuerdos, 
 
 El Tribunal Superior de Justicia residirá en la capital del Estado, estará integrado por el número de magistrados que determine el Consejo de la Judicatura, designados en los términos previstos por la Constitución Política del Estado y esta ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 10 DE ENERO DE 2010)</small>
 
@@ -395,7 +395,7 @@ II. No ser ministro de algún culto religioso, a menos que se separe formal, mat
 
 III. No tener impedimento físico o enfermedad que lo imposibilite para el desempeño del cargo; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 IV. (DEROGADA, G.G. 10 DE ENERO DE 2010)
 
@@ -405,7 +405,7 @@ Los magistrados concurrirán al desempeño de sus labores los días hábiles y d
 
 ### CAPITULO SEGUNDO. Del Pleno del Tribunal
 
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.G. 8 DE MAYO DE 2003)</small>
 
 ###### Artículo 32.
 
@@ -419,7 +419,7 @@ Corresponde al pleno del Tribunal Superior de Justicia:
 
 I. Iniciar leyes o decretos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -431,7 +431,7 @@ IV. Expedir y modificar el reglamento interior del tribunal;
 
 V. Previa licencia al cargo de magistrado que acuerde el Consejo de la Judicatura, conceder licencia al Presidente del Tribunal para separarse del cargo hasta por 15 días y nombrar al Presidente Interino;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -477,7 +477,7 @@ Para ser secretario general de acuerdos, se necesitan los mismos requisitos que 
 
 Del Presidente del Tribunal Superior de Justicia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 3 DE MARZO DE 2010)</small>
 
@@ -501,7 +501,7 @@ III. Tramitar los asuntos de la competencia del pleno del tribunal hasta su reso
 
 IV. Designar a los magistrados sustitutos de las salas en los casos de excusa, impedimento o recusación;
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2003)</small>
+> <small>(REFORMADA, G.G. 8 DE MAYO DE 2003)</small>
 
 V. Vigilar que los presidentes de las salas colegiadas, los magistrados unitarios y los jueces proporcionen mensualmente los datos estadísticos de los asuntos de su competencia;
 
@@ -519,17 +519,17 @@ XI. Informar anualmente al pleno del Tribunal Superior de Justicia sobre las act
 
 XII. Representar al Tribunal Superior de Justicia en los actos jurídicos y oficiales o designar, en su caso, representante para tal efecto; y (sic)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 XIII. Solicitar a la Sala Colegiada o Tribunal Oral respectivo, que ejerza la facultad de atracción para conocer de asuntos de la competencia de la Sala Unitaria o del juzgado de juicio oral correspondiente; y
 
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2003)</small>
+> <small>(ADICIONADA, G.G. 8 DE MAYO DE 2003)</small>
 
 XIV. Las demás que le confieran las leyes y otras disposiciones legales.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE MAYO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 8 DE MAYO DE 2003)</small>
 
 ### CAPITULO CUARTO. De las Salas Colegiadas y Unitarias del Tribunal Superior de Justicia
 
@@ -539,23 +539,23 @@ XIV. Las demás que le confieran las leyes y otras disposiciones legales.
 
 El Tribunal Superior de Justicia ejercerá sus funciones en salas: constitucional, colegiadas y unitarias que determine el Consejo de la Judicatura, distribuidas en las regiones en el número y ubicación geográficas como lo estime necesario; para el despacho de los asuntos, la Sala Constitucional conocerá de los asuntos de esta índole; las Salas Civiles, conocerán de los asuntos civiles y mercantiles; las salas penales, conocerán de los asuntos de este ramo; la sala especializada de adolescentes conocerán de los asuntos de esta materia; y las salas familiares, de los asuntos de esta materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE MAYO DE 2003)</small>
 
 ###### Artículo 44.
 
 Corresponde a las salas colegiadas del Tribunal Superior de Justicia, conocer y resolver:
 
-(REFORMADA, P.O. 8 DE MAYO DE 2003) (F. DE E., P.O. 27 DE MAYO DE 2003)
+(REFORMADA, G.G. 8 DE MAYO DE 2003) (F. DE E., G.G. 27 DE MAYO DE 2003)
 
 I. En materia civil, familiar y mercantil, de los recursos que se interpongan en contra de sentencias definitivas, dictadas por los jueces de primera instancia y de cuantía menor.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 De los asuntos cuya competencia corresponda a las salas unitarias, cuando por su importancia y trascendencia lo determine el presidente del Tribunal Superior de Justicia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -565,51 +565,59 @@ De los conflictos de competencia que se susciten entre los juzgados y tribunales
 
 De las recusaciones de los jueces de su adscripción, así como de la oposición de las partes a las excusas.
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2003)</small>
+> <small>(REFORMADA, G.G. 8 DE MAYO DE 2003)</small>
 
 III. De las recusaciones o excusas de sus miembros, de los magistrados unitarios de su adscripción, así como de la oposición de las partes y solicitar, en su caso, la designación del sustituto al presidente del Tribunal Superior de Justicia; y
 
 IV. De los demás asuntos que les confieran esta ley, el reglamento interior del tribunal y otras disposiciones legales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 Artículo 44 bis.- Corresponde a las Salas Unitarias del Tribunal Superior de Justicia, en materia civil, familiar y mercantil conocer y resolver:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 I. De los recursos que se interpongan en contra de resoluciones diversas a las sentencias definitivas, dictadas por los jueces de cuantía menor y de primera instancia.
 
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2003)</small>
+> <small>(ADICIONADA, G.G. 8 DE MAYO DE 2003)</small>
 
 II. De los conflictos de competencia que se susciten entre los juzgados pertenecientes a su adscripción. Cuando se trate de juzgados de distintas salas, conocerá la sala a la que pertenezca el juzgado que dio inicio al conflicto.
 
-(ADICIONADA, P.O. 8 DE MAYO DE 2003) (F. DE E., P.O. 27 DE MAYO DE 2003)
+(ADICIONADA, G.G. 8 DE MAYO DE 2003) (F. DE E., G.G. 27 DE MAYO DE 2003)
 
 III. De las recusaciones de los jueces de su adscripción, así como de la oposición de las partes a las excusas; y
 
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2003)</small>
+> <small>(ADICIONADA, G.G. 8 DE MAYO DE 2003)</small>
 
 IV. De los demás asuntos que les confieran esta ley, el reglamento interior del Tribunal y otras disposiciones legales.
 
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2004)</small>
+> <small>(ADICIONADO, G.G. 10 DE SEPTIEMBRE DE 2004)</small>
 
 Artículo 44 bis-1.- Corresponde a la Sala Constitucional, conocer y resolver de las controversias y acciones de inconstitucionalidad, previstas en el artículo 88 Bis de la Constitución Política del Estado libre y Soberano de México.
+
+> <small>(ADICIONADO, G.G. 4 DE MAYO DE 2012)</small>
+
+La Sala Constitucional conocerá de los recursos ordinarios en contra de resoluciones judiciales en donde se inapliquen normas en ejercicio del control difuso de la constitucionalidad o de la convencionalidad, en estos casos resolverá también el fondo del asunto planteado.
+
+> <small>(ADICIONADO, G.G. 4 DE MAYO DE 2012)</small>
+
+Para la substanciación de estos recursos ordinarios se observarán las disposiciones de la legislación procesal de la materia, para el trámite y resolución del recurso.
 
 > <small>(ADICIONADO, G.G. 23 DE MAYO DE 2007)</small>
 
 Artículo 44 bis-2.- Corresponde a la Sala Especializada de Adolescentes conocer y resolver de los recursos a los procedimientos previstos en la Ley de Justicia para Adolescentes del Estado de México.
 
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.G. 8 DE MAYO DE 2003)</small>
 
 ###### Artículo 45.
 
 Cada sala colegiada elegirá anualmente en el mes de enero y en forma alterna de entre sus miembros un Presidente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -625,13 +633,13 @@ III. Tener la representación de la sala y despachar la correspondencia oficial,
 
 IV. Conocer de los asuntos que les encomiende esta ley y otros ordenamientos legales.
 
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.G. 8 DE MAYO DE 2003)</small>
 
 ###### Artículo 47.
 
 Los magistrados adscritos a cada sala colegiada desempeñarán por turno el cargo de magistrado semanero, quien proveerá lo conducente a las promociones de las partes, sometiendo los acuerdos a la aprobación de los demás integrantes de la misma.
 
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.G. 8 DE MAYO DE 2003)</small>
 
 ###### Artículo 48.
 
@@ -645,7 +653,7 @@ Si a pesar de lo señalado en el párrafo anterior, no existe mayoría en la vot
 
 La sala respectiva calificará las excusas e impedimentos de sus integrantes. Si con motivo de la excusa o del impedimento, el asunto no pudiere ser resuelto, se pedirá al presidente del tribunal que designe al magistrado que debe integrar sala en sustitución de aquél.
 
-> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2003)</small>
+> <small>(ADICIONADO, G.G. 8 DE MAYO DE 2003)</small>
 
 Los Presidentes de las salas colegiadas distribuirán por riguroso turno entre él y los demás miembros de la sala, los tocas para su estudio y presentación oportuna del proyecto de resolución.
 
@@ -675,9 +683,9 @@ Los auxiliares de las salas deberán ser ciudadanos mexicanos, estar capacitados
 
 La administración, vigilancia y disciplina del Poder Judicial, estarán a cargo del Consejo de la Judicatura conforme a las bases que señala la Constitución Política del Estado y esta ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE ENERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2010)</small>
 
 ###### Artículo 53.
 
@@ -685,43 +693,43 @@ El Consejo de la Judicatura se integra por:
 
 I. Un presidente, que será el del Tribunal Superior de Justicia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.G. 10 DE ENERO DE 2010)</small>
 
 II. Dos magistrados del pleno del Tribunal Superior de Justicia designados por el Consejo de la Judicatura;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.G. 10 DE ENERO DE 2010)</small>
 
 III. Un Juez de Primera Instancia designado por el Consejo de la Judicatura;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, G.G. 10 DE ENERO DE 2010)</small>
 
 IV. Uno designado por el titular del Ejecutivo del Estado; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, G.G. 10 DE ENERO DE 2010)</small>
 
 V. Dos designados por la Legislatura del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.G. 10 DE ENERO DE 2010)</small>
 
 Las personas designadas por el Ejecutivo y la Legislatura deberán cumplir con los requisitos que para magistrado se exigen por la Constitución Política del Estado, salvo el de haber servido en el Poder Judicial del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.G. 10 DE ENERO DE 2010)</small>
 
 Los magistrados y el juez designados por el Consejo de la Judicatura deberán tener cuando menos cinco años en esa categoría, no haber sido sancionados administrativamente con suspensión en el cargo y que se hayan distinguido por su capacidad profesional y honorabilidad en el ejercicio de sus actividades. El Consejo de la Judicatura emitirá acuerdo previo, que establezca los términos y procedimiento al que deberán sujetarse los interesados en participar en estas designaciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 10 DE ENERO DE 2010)</small>
 
@@ -733,11 +741,11 @@ Los integrantes del Consejo de la Judicatura durarán en su encargo cinco años 
 
 El Consejo de la Judicatura funcionará en pleno o en comisiones.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 El Consejo de la Judicatura integrará una Comisión Especial, cuando así lo estime conveniente a solicitud del titular del Ejecutivo o del Pleno de la Legislatura, para realizar la averiguación de hechos que pudieran constituir un ilícito o responsabilidad administrativa, de algún magistrado o juez del Poder Judicial; cuando la petición se derive del Pleno de la Legislatura, por conducto de su Comisión de Administración de Justicia, podrá hacer llegar a la comisión especial, los elementos de prueba y demás información a su alcance, a efecto de que se determine lo procedente por el Consejo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 10 DE ENERO DE 2010)</small>
 
@@ -745,7 +753,7 @@ El Consejo de la Judicatura integrará una Comisión Especial, cuando así lo es
 
 El pleno del Consejo de la Judicatura celebrará sesiones ordinarias una vez cada 15 días y cuantas extraordinarias se requieran, previa convocatoria de su presidente, a iniciativa propia o a solicitud de cuando menos tres de sus integrantes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 10 DE ENERO DE 2010)</small>
 
@@ -781,13 +789,13 @@ Son facultades del Consejo de la Judicatura:
 
 I. Velar por la autonomía y la independencia de los miembros del Poder Judicial y evitar que se afecte su imparcialidad y libertad para juzgar;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.G. 10 DE ENERO DE 2010)</small>
 
 II. Designar a los jueces y al personal de los juzgados, mediante exámenes de oposición abiertos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -795,7 +803,7 @@ III.- Determinar, por necesidades de la función jurisdiccional, las regiones ge
 
 IV. Determinar la adscripción, de acuerdo con las necesidades del servicio, de los magistrados, jueces y personal de los juzgados; dar curso a las renuncias que presenten y determinar el cese de jueces de primera instancia y de cuantía menor en los casos previstos en esta ley;
 
-> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2004)</small>
+> <small>(ADICIONADA, G.G. 10 DE SEPTIEMBRE DE 2004)</small>
 
 IV bis. Designar de entre los magistrados que formen parte del Pleno, a los que en forma temporal integren la Sala Constitucional y dentro de ellos al instructor.
 
@@ -849,47 +857,47 @@ XXVII. Pedir al pleno del Tribunal Superior de Justicia la información y opinio
 
 XXVIII. Solicitar de los magistrados del pleno del Tribunal Superior de Justicia su colaboración para el mejor desempeño de sus funciones de vigilancia; y (sic)
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
 XXIX.- Practicar visitas de supervisión al Centro de Mediación y Conciliación;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 XXX. Crear, organizar, dirigir y administrar a los juzgados ejecutores de sentencias;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 XXXI. Expedir los reglamentos, normas y demás disposiciones de orden interno por las que habrán de regirse los Jueces Ejecutores de Sentencias, así como vigilar su cumplimiento;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 XXXII. Vigilar que los Jueces Ejecutores otorguen de oficio a los internos los beneficios o el tratamiento a que se hagan acreedores en los términos de Ley;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 XXXIII. Supervisar la vigilancia a que estarán sujetas las personas que gozan de los beneficios y tratamientos preliberatorios, con la colaboración en su caso, de la Dirección de General de Prevención y Readaptación Social del Estado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 XXXIV. Coordinarse con la Dirección General de Prevención y Readaptación Social, para establecer medidas eficaces dentro del marco legal que permitan reducir el índice de población penitenciaria;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 XXXV. Vigilar que los jueces ejecutores de sentencias revisen oficiosamente y de manera periódica los expedientes de los internos con sentencia ejecutoriada; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -929,29 +937,29 @@ XII. Despachar la correspondencia oficial del Consejo; y
 
 XIII. Las demás que le otorguen las leyes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ### CAPITULO SEXTO. De los Tribunales y Juzgados de Primera Instancia
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009))
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 65.
 
 En cada distrito o región judicial habrá el número de tribunales o juzgados de primera instancia que el Consejo de la Judicatura determine, los que tendrán competencia para conocer de los asuntos civiles, mercantiles, penales, de lo familiar, de justicia para adolescentes y demás materias en que ejerzan su jurisdicción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 66.
 
 Los jueces de primera instancia durarán en su encargo seis años y únicamente podrán ser suspendidos o destituidos en sus funciones conforme a ésta Ley. El Consejo de la Judicatura podrá ratificarlos por periodos iguales; previa aprobación de exámenes de actualización, cuando su función haya sido desempeñada con probidad, eficacia, profesionalismo y que su expediente no tenga notas de demérito.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO, G.G. 3 DE OCTUBRE DE 2005)</small>
 
 Para la ratificación de los jueces de primera instancia, el Consejo de la Judicatura tomará además en consideración, los siguientes elementos:
 
@@ -969,7 +977,7 @@ V. Los demás que el Consejo de la Judicatura estime pertinentes.
 
 Si por cualquier motivo superveniente el nombramiento de un juez quedare sin efecto, el Consejo de la Judicatura acordará lo conducente. En este caso, los actos en que hubiere intervenido serán legalmente válidos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -977,9 +985,9 @@ Si por cualquier motivo superveniente el nombramiento de un juez quedare sin efe
 
 Los jueces de primera instancia deberán reunir los mismos requisitos que los magistrados, menos la edad, que bastará que sea de 28 años, cinco años de poseer título de licenciado en derecho y de ejercicio profesional y haber aprobado el examen de oposición.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 69.
 
@@ -989,13 +997,13 @@ I. Un juez; y
 
 II. Los secretarios, ejecutores, notificadores y auxiliares que determine el Consejo de la Judicatura.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 En los juzgados de justicia para adolescentes y familiares, no habrá ejecutores.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1021,7 +1029,7 @@ Los demás servidores públicos de los juzgados de primera instancia deberán re
 
 Los jueces de primera instancia de la materia civil, conocerán y resolverán:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
 
@@ -1049,15 +1057,15 @@ IV. De la diligenciación de exhortos, cartas rogatorias, suplicatorias, requisi
 
 V. De los demás asuntos familiares cuyo conocimiento les atribuyan las leyes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 73.
 
 Los tribunales y juzgados en materia penal conocerán y resolverán:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1071,9 +1079,9 @@ III. De los demás asuntos cuyo conocimiento les atribuyan las leyes.
 
 Artículo 73 bis.- Los jueces de adolescentes serán competentes para conocer de los asuntos que establece la ley de la materia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 74.
 
@@ -1129,7 +1137,7 @@ En cada distrito judicial habrá el número de juzgados de cuantía menor que de
 
 Los juzgados de cuantía menor ejercerán su jurisdicción en el ámbito territorial que determine el pleno del Tribunal Superior de Justicia y tendrán la competencia que señale esta ley y los demás ordenamientos aplicables.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO, G.G. 3 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 80.
 
@@ -1167,15 +1175,15 @@ Los jueces de cuantía menor, dentro de su jurisdicción, tendrán competencia p
 
 I. En materia civil y mercantil:
 
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.G. 8 DE MAYO DE 2003)</small>
 
 a) De todos los juicios civiles o mercantiles cuyo monto sea hasta mil veces el salario mínimo vigente en el área geográfica respectiva, exceptuando los asuntos que son de la competencia de los jueces de primera instancia.
 
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.G. 8 DE MAYO DE 2003)</small>
 
 b) De las diligencias de consignación, incluso pensiones alimenticias, cuando el valor de la cosa o la cantidad que se ofrezca sea hasta mil veces el salario mínimo vigente en el área geográfica respectiva. En los casos de prestaciones periódicas deberá estarse a lo dispuesto en el Código de Procedimientos Civiles.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 II. (DEROGADA, G.G. 30 DE SEPTIEMBRE DE 2009)
 
@@ -1221,7 +1229,7 @@ Las disposiciones de este capítulo se aplicarán en los asuntos mercantiles, si
 
 ### CAPITULO OCTAVO. De los Secretarios, Oficiales Mayores y demás Servidores Públicos de la Administración de Justicia
 
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.G. 8 DE MAYO DE 2003)</small>
 
 ### CAPITULO NOVENO. De los Auxiliares de la Administración de Justicia
 
@@ -1237,7 +1245,7 @@ I. Cumplir con el horario de labores fijado por el Consejo de la Judicatura, vig
 
 II. Recibir por sí o por conducto de la oficialía de partes, los escritos o promociones que se les presenten, anotar al calce la razón del día y la hora de presentación, expresando el número de hojas que contengan los documentos que se acompañen. También deberán asentar razón idéntica en la copia, con la firma del que recibe el escrito y el sello del juzgado o tribunal, para que quede en poder del interesado;
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2003)</small>
+> <small>(REFORMADA, G.G. 8 DE MAYO DE 2003)</small>
 
 III. Dar cuenta diariamente dentro de las 24 horas siguientes de su recepción, al presidente del Tribunal Superior de Justicia, al presidente de la sala colegiada, al magistrado unitario, o al juez, según corresponda, con los escritos, promociones y avisos presentados por los interesados, así como con los oficios y demás documentos que se reciban y tramitar la correspondencia oficial;
 
@@ -1365,7 +1373,7 @@ Las ausencias temporales de los servidores públicos del Poder Judicial se supli
 
 I. Las de los jueces que no excedan de tres meses dentro del juzgado en que ocurra, por el primer secretario de acuerdos; en su defecto, por los demás secretarios en su orden o bien por el juez que designe el Consejo de la Judicatura.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1375,19 +1383,19 @@ II. La del secretario general de acuerdos, por el secretario de la sala que desi
 
 III. Las de los secretarios de acuerdos de las salas del tribunal, por los secretarios auxiliares de las mismas y en defecto de éstos, por el secretario interino que designe el Consejo de la Judicatura;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 IV. Las de los secretarios de los juzgados, por el servidor público que le siga en jerarquía, o por el secretario interino que designe el Consejo de la Judicatura;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 V. Las de los administradores, por el servidor público que le siga en jerarquía o por quien designe el Consejo de la Judicatura; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1399,7 +1407,7 @@ Las ausencias absolutas de los servidores públicos del Poder Judicial, se supli
 
 I. La del presidente del Tribunal Superior de Justicia, por el magistrado que elija el pleno; y las de los magistrados, por quienes reuniendo los requisitos constitucionales, designe el Consejo de la Judicatura con la aprobación de la Legislatura o de la Diputación Permanente;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1453,7 +1461,7 @@ XIV. No asistir al desempeño de sus labores o incumplir con el horario reglamen
 
 XV. No cumplir con los términos señalados en los ordenamientos legales.
 
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.G. 8 DE MAYO DE 2003)</small>
 
 ###### Artículo 113.
 
@@ -1511,9 +1519,9 @@ V. Retardar indebidamente las notificaciones, emplazamientos, embargos o diligen
 
 VI. No cumplir con los términos señalados en los ordenamientos legales.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
-ARTICULO 116 bis.- Son faltas administrativas de los mediadores y conciliadores, las siguientes:
+Artículo 116 bis.- Son faltas administrativas de los mediadores y conciliadores, las siguientes:
 
 I.- Revelar los informes, datos, comentarios, opiniones, conversaciones y acuerdos de las partes de que tengan conocimiento con motivo del trámite de mediación o conciliación en el que intervengan;
 
@@ -1719,7 +1727,7 @@ La jurisprudencia que establezca el Tribunal Superior de Justicia funcionando en
 
 Habrá jurisprudencia, cuando lo resuelto por una sala colegiada se sustente en cinco sentencias consecutivas no interrumpidas por otra en contrario y haya sido aprobada por unanimidad de votos, con excepción de las resoluciones emitidas por la Sala Constitucional.
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 1996)</small>
 
 ###### Artículo 140.
 
@@ -1727,11 +1735,11 @@ Cuando dos o más de las salas sustenten tesis contradictorias, el Pleno del Tri
 
 La tesis del Pleno del Tribunal Superior de Justicia que resuelva la contradicción, tendrá el carácter de jurisprudencia, conforme a lo dispuesto en el primer párrafo del artículo 139 de esta ley.
 
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.G. 8 DE MAYO DE 2003)</small>
 
 La resolución que dirima la controversia no afectará por ningún motivo las situaciones jurídicas concretas definidas en juicio con anterioridad a la misma.
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 1996)</small>
 
 ###### Artículo 141.
 
@@ -1749,7 +1757,7 @@ IV.- El Procurador General de Justicia del Estado, cuando considere que se afect
 
 V.- El Coordinador General de Compilación y Sistematización de Tesis del Tribunal Superior de Justicia.
 
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.G. 8 DE MAYO DE 2003)</small>
 
 ###### Artículo 142.
 
@@ -1775,7 +1783,7 @@ Las atribuciones de la dirección serán determinadas por el pleno del Consejo d
 
 ### CAPITULO UNICO. De la Escuela Judicial
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 144.
 
@@ -1835,9 +1843,9 @@ El presidente del Consejo de la Judicatura firmará las operaciones activas o pa
 
 ### CAPITULO UNICO. De la Carrera Judicial
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ES</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE ENERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2010)</small>
 
 ###### Artículo 150.
 
@@ -1873,7 +1881,7 @@ El presidente del Consejo de la Judicatura podrá solicitar a los integrantes de
 
 ## TITULO OCTAVO
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 31 DE DICIEMBRE DE 2002)</small>
 
 ### CAPITULO PRIMERO. Del Departamento de Computación e Informática
 
@@ -1881,23 +1889,23 @@ El presidente del Consejo de la Judicatura podrá solicitar a los integrantes de
 
 La Escuela Judicial, es un órgano desconcentrado del Consejo de la Judicatura que tiene por objeto la capacitación, formación, actualización y profesionalización de los Servidores Públicos del Poder Judicial, así como: investigar, preservar, transmitir y extender el conocimiento de todos aquellos preceptos y actuaciones que conforman la estructura doctrinaria, teórica y práctica de la función jurisdiccional.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 154.
 
 La Escuela Judicial contará con un Director General designado por el Consejo de la Judicatura de entre los Magistrados del Tribunal Superior de Justicia, o alguna persona que reúna el perfil académico, técnico y profesional para desempeñar la función; durará en el cargo cinco años.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2002)</small>
 
 Artículo 154 bis.- La Escuela Judicial podrá contar con las Unidades Académicas y Administrativas que se establezcan en su Reglamento Interior.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 155.
 
 La Escuela Judicial contará con un Comité General Académico conformado por seis personas de reconocida experiencia profesional y académica, designadas por el propio Consejo y procurando que, éstos sean expertos en las diferentes materias que conforman la actividad jurisdiccional; durarán en el cargo tres años.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 156.
 
@@ -1929,7 +1937,7 @@ IX. Cursos continuos de preparación para las distintas categorías de la Carrer
 
 El ingreso y promoción para las categorías que conforman la Carrera Judicial, se realizarán invariablemente mediante concursos de oposición que serán abiertos, y en los que no sólo podrán participar los servidores públicos del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2002)</small>
 
 La Escuela Judicial, velará por brindar la oportunidad de acceder a una carrera judicial a todo ciudadano, con la única limitante de satisfacer los requisitos que la ley exija a cada categoría judicial.
 
@@ -1941,7 +1949,7 @@ La promoción de los servidores del Poder Judicial, se hará mediante el sistema
 
 La carrera judicial está integrada por las siguientes categorías:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 I. (DEROGADA, G.G. 10 DE ENERO DE 2010)
 
@@ -1971,7 +1979,7 @@ Para el otorgamiento de los estímulos se tomará en cuenta el desempeño en el 
 
 Los concursos de oposición para el ingreso y promoción dentro de las categorías señaladas, se sujetarán al siguiente procedimiento:
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 I. El Consejo de la Judicatura emitirá una convocatoria por lo menos con treinta días naturales de anticipación, misma que deberá ser publicada en la Gaceta del Gobierno y en dos de los principales diarios de circulación estatal. En la convocatoria deberá especificarse que se trata de un concurso de oposición, la categoría y el número de vacantes sujetas a concurso; el lugar, el día y hora en que se llevarán a cabo los exámenes, así como el plazo, lugar y requisitos para la inscripción y, en general, todos los demás elementos que se estimen necesarios.
 
@@ -2059,7 +2067,7 @@ IV. Conservar actualizados los registros estadísticos de los procesos, para pro
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 169.
 
@@ -2077,7 +2085,7 @@ La organización y funcionamiento de la dirección será determinada por el regl
 
 ### CAPITULO PRIMERO. Disposiciones Generales
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2129,15 +2137,15 @@ Los emolumentos de los peritos serán cubiertos de acuerdo al presupuesto del Po
 
 Los peritos podrán ejercer libremente su profesión, pero estarán impedidos para dictaminar por nombramiento de alguna de las partes, en los tribunales del Poder Judicial del Estado.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO QUE LO INTEGRAN, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
 ## TITULO DECIMO TERCERO. Del Centro de Mediación y Conciliación
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
 ### CAPITULO SEGUNDO. De los Juzgados de Control, de los Tribunales y Juzgados de Juicio Oral y de Ejecución de Sentencia
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2147,7 +2155,7 @@ El Centro de Mediación y Conciliación es un órgano del Poder Judicial que ten
 
 Prestará sus servicios de mediación y conciliación a la ciudadanía en general, sin ser requisito que medie un proceso judicial y contara con centros que determine el Consejo de la Judicatura, distribuidos estratégicamente para atender las necesidades de los habitantes del Estado.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 179.
 
@@ -2169,25 +2177,25 @@ VII.- Brindar asesoría técnica en materia de mediación y conciliación a los 
 
 VIII.- Las demás que establezcan los ordenamientos legales.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 180.
 
 El Centro de Mediación y Conciliación desarrollará sus funciones conforme al Reglamento del Centro de Mediación y Conciliación, conforme a los manuales de organización, de procedimientos y demás disposiciones que emita el Consejo de la Judicatura.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 181.
 
 El Centro de Mediación y Conciliación dependerá del Consejo de la Judicatura.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 182.
 
 El Centro de Mediación y Conciliación estará a cargo de un Director designado por el Consejo de la Judicatura y contará con el personal que se autorice.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 183.
 
@@ -2205,37 +2213,37 @@ V.- Ser de reconocida buena conducta y solvencia moral;
 
 VI.- No haber sido condenado por delito intencional.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 184.
 
 Para ser mediador o conciliador se debe reunir los mismos requisitos que se establecen para el Director del Centro de Mediación y Conciliación, con excepción de la edad, que será cuando menos de 30 años y la profesión, pudiendo ser licenciado en derecho, en psicología, en sociología, en antropología, en trabajo social o en comunicación.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 185.
 
 Los mediadores y conciliadores tendrán fe pública en todo lo relativo al desempeño de sus funciones, debiendo firmar junto con los interesados todo acuerdo o convenio.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 186.
 
 La sujeción a la mediación y conciliación son voluntarias.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ## TITULO DECIMO CUARTO. De los Órganos Jurisdiccionales en Materia Penal
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO [N. DE E. ANTES CAPITULO UNICO], G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO ÚNICO], G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ### CAPITULO TERCERO. Del Administrador del Juzgado
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2257,7 +2265,7 @@ V. Salas del Tribunal Superior de Justicia.
 
 El Poder Judicial del Estado contará con jueces y magistrados especializados en violencia de género.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2265,7 +2273,7 @@ El Poder Judicial del Estado contará con jueces y magistrados especializados en
 
 Los jueces tendrán fe pública en el ejercicio de su función.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2281,11 +2289,11 @@ III. De la etapa de juicio, el juez o tribunal de juicio oral; y
 
 IV. De la etapa de ejecución, el juez ejecutor de sentencias.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 Artículo 189 bis.- (DEROGADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2301,7 +2309,7 @@ III. El personal auxiliar que determine el Consejo de la Judicatura.
 
 El tribunal de juicio oral se integrará por tres jueces y uno de ellos lo presidirá, según el turno respectivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2327,7 +2335,7 @@ VIII. Recibir la prueba anticipada; y
 
 IX. Las demás que les confiera la ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2341,7 +2349,7 @@ II. Representar al tribunal en el trámite de juicio de garantías; y
 
 III. Las demás que señalen las leyes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2355,7 +2363,7 @@ Para la revocación de los beneficios o tratamiento, será competente el que los
 
 La Sala Penal de la región del juzgado de ejecución de sentencias que haya prevenido, decidirá cualquier conflicto sobre competencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2373,7 +2381,7 @@ IV. Formar expediente particular a cada interno desde que se dicte sentencia eje
 
 V. Las demás que les señale la normatividad correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2387,7 +2395,7 @@ II. Ser licenciado en derecho con conocimientos en administración o licenciado 
 
 III. No haber sido condenado por delito doloso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2459,7 +2467,7 @@ XXXI. Supervisar que en cada audiencia se redacte el acta mínima correspondient
 
 XXXII. Las demás que determine la ley o el Consejo de la Judicatura.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2467,99 +2475,99 @@ XXXII. Las demás que determine la ley o el Consejo de la Judicatura.
 
 Para el desempeño de las atribuciones a su cargo, el administrador contará con el personal auxiliar que el Consejo de la Judicatura determine.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 198.
 
 (DEROGADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 199.
 
 (DEROGADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 200.
 
 (DEROGADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 201.
 
 (DEROGADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 Artículo 201 bis.- (DEROGADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 Artículo 201 ter.- (DEROGADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 202.
 
 (DEROGADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 203.
 
 (DEROGADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 204.
 
 (DEROGADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 205.
 
 (DEROGADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 206.
 
 (DEROGADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 207.
 
 (DEROGADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 208.
 
 (DEROGADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 209.
 
 (DEROGADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 210.
 
 (DEROGADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 211.
 
 (DEROGADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 212.
 
@@ -2609,15 +2617,15 @@ LIC. HECTOR XIMENEZ GONZALEZ
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-P.O. 13 DE SEPTIEMBRE DE 1996
+G.G. 13 DE SEPTIEMBRE DE 1996
 
 PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
 
-P.O. 24 DE DICIEMBRE DE 1999
+G.G. 24 DE DICIEMBRE DE 1999
 
 PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
 
@@ -2625,17 +2633,17 @@ SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicac
 
 TERCERO.- El Magistrado que se desempeña actualmente como Presidente del Tribunal Superior de Justicia, actuará como tal hasta la celebración de la primera sesión a que se refiere el artículo 40 de esta ley.
 
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2000)</small>
+> <small>(F. DE E., G.G. 5 DE ENERO DE 2000)</small>
 
 CUARTO.- El Ejecutivo del Estado, el Tribunal Superior de Justicia y/o el Consejo de la Judicatura, tomarán las medidas correspondientes y proveerán lo necesario en la esfera administrativa y jurisdiccional, para que a la brevedad posible queden debidamente organizados los nuevos Distritos Judiciales.
 
-P.O. 10 DE DICIEMBRE DE 2002
+G.G. 10 DE DICIEMBRE DE 2002
 
 PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
 
-P.O. 31 DE DICIEMBRE DE 2002
+G.G. 31 DE DICIEMBRE DE 2002
 
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
@@ -2643,7 +2651,7 @@ SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en
 
 TERCERO.- En cualquier modalidad en la que se mencione el Instituto de Capacitación y Especialización Judicial en el texto de la Ley Orgánica del Poder Judicial del Estado Libre y Soberano de México, deberá ser sustituido por el término "Escuela Judicial".
 
-P.O. 8 DE MAYO DE 2003
+G.G. 8 DE MAYO DE 2003
 
 ###### ARTICULO PRIMERO.
 
@@ -2661,13 +2669,13 @@ El Consejo de la Judicatura estará facultado para determinar el inicio de las f
 
 Los asuntos que estén en trámite ante las Salas Colegiadas al entrar en funciones las Salas Unitarias y que sean de la competencia de éstas últimas, se seguirá sustanciando por la Sala Colegiada respectiva, hasta la resolución definitiva.
 
-P.O. 10 DE SEPTIEMBRE DE 2004.
+G.G. 10 DE SEPTIEMBRE DE 2004.
 
 PRIMERO. Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
-P.O. 3 DE OCTUBRE DE 2005.
+G.G. 3 DE OCTUBRE DE 2005.
 
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
@@ -2854,6 +2862,12 @@ TERCERO.- La Secretaría de Salud del Estado implementará los centros especiali
 CUARTO.- El presente Decreto surtirá efectos para los sistemas procesales penales mixto y acusatorio, respectivamente, vigentes en el Estado de México.
 
 G.G. 16 DE ENERO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 4 DE MAYO DE 2012.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
