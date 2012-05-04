@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-policia-estatal-preventiva-50410"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-08"
-last_updated: "2006-05-08"
+last_updated: "2012-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50410&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA POLICÍA ESTATAL PREVENTIVA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE LA POLICÍA ESTATAL PREVENTIVA DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el lunes 8 de mayo de 2006.
 
@@ -1180,3 +1182,27 @@ BERNARDO H. MARTINEZ AGUIRRE
 SECRETARIO DE SEGURIDAD PÚBLICA
 
 MANUEL DÍAZ LERMA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE MAYO DE 2012.
+
+Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California. Salvo lo previsto en los Artículos transitorios Octavo y Noveno.
+
+Artículo Segundo.- Se abroga el Reglamento Interno de la Policía Estatal Preventiva, Publicado en el Periódico Oficial del Estado en fecha 08 de Mayo de 2006.
+
+Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+Artículo Cuarto.- El titular de la Secretaría de Seguridad Pública del Estado de Baja California, deberá expedir los manuales administrativos necesarios para el funcionamiento de la Policía Estatal Preventiva de Baja California, a que se refiere el presente Reglamento, a más tardar dentro de un año siguiente a la entrada en vigor de éste.
+
+Artículo Quinto.- En tanto no se expidan los manuales, acuerdos, ordenes generales, circulares y demás disposiciones aplicables necesarios para el funcionamiento de la Policía Estatal Preventiva de Baja California, el Director de la Policía Estatal Preventiva del Estado de Baja California, queda facultado para disponer la forma de atender y resolver los asuntos que se presenten, relacionados con dicha normatividad.
+
+Artículo Sexto.- El Director de la Policía Estatal Preventiva del Estado de Baja California, queda autorizado para resolver las dudas con motivo de la interpretación o aplicación del presente Reglamento, y sobre las situaciones no previstas en el mismo.
+
+Artículo Séptimo.- El Comité Interno de Evaluación de la Policía Estatal Preventiva de Baja California; se instalará e iniciará sus funciones a más tardar dentro de los treinta días naturales posteriores a la publicación del presente Reglamento.
+
+Artículo Octavo.- Los grados, cargos y estructura policial de la Institución Policial, que se refieren en el presente Reglamento, entrarán en operación, hasta en tanto se actualice el supuesto previsto en el Artículo Tercero transitorio de la Ley de la Policía Estatal Preventiva de Baja California.
+
+Artículo Noveno.- Los sistemas complementarios de seguridad social que a favor de los Miembros establece el presente Reglamento, entrarán en vigor a más tardar dentro de los dos años siguientes a la entrada en vigor del presente Reglamento.
+
+Artículo Décimo.- La denominación de reglamento interno de la Dirección de la Policía Estatal Preventiva, a que se hace referencia en el Artículo 16 del Reglamento Interno de la Secretaría de Seguridad Pública del Estado de Baja California, corresponde al presente Reglamento.
