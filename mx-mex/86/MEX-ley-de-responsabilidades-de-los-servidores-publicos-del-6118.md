@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-responsabilidades-de-los-servidores-publicos-del-6118"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-11"
-last_updated: "2011-11-11"
+last_updated: "2012-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE MAYO DE 2012.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 11 de septiembre de 1990.
 
@@ -43,7 +43,7 @@ LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS
 
 ### CAPITULO UNICO. Disposiciones Generales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 1997)</small>
 
 ###### Artículo 1.
 
@@ -97,7 +97,7 @@ de Juicio Político y Declaración de Procedencia
 
 ### CAPITULO I. Sujetos, Causas del Juicio Político y Sanciones
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 1997)</small>
 
 ###### Artículo 5.
 
@@ -233,7 +233,7 @@ En caso contrario, la resolución decretará la destitución del cargo y el peri
 
 ### CAPITULO III. De la Declaración de Procedencia por Responsabilidad Penal
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 1997)</small>
 
 ###### Artículo 22.
 
@@ -321,7 +321,7 @@ En todo caso, las votaciones deberán ser nominales, para formular, aprobar o re
 
 En el juicio político a que se refiere esta Ley, los acuerdos y determinaciones de la Legislatura se tomarán en sesión pública, excepto en la que se presente acusación o cuando las buenas costumbres o el interés general exijan que la audiencia sea secreta.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 1997)</small>
 
 ###### Artículo 37.
 
@@ -353,11 +353,11 @@ En todo lo relativo al procedimiento no previsto en esta Ley así como en el ofr
 
 Son sujetos de responsabilidad administrativa disciplinaria, los servidores públicos y todas aquellas personas a que se refiere el artículo 2 de esta ley.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 1998)</small>
 
 ### CAPÍTULO II. De la Responsabilidad Administrativa Disciplinaria
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 42.
 
@@ -407,7 +407,7 @@ XIX. Presentar con oportunidad y veracidad la Manifestación de Bienes en los t�
 
 XX. Atender con diligencia las instrucciones, requerimientos y resoluciones que reciba de la Secretaría de la Contraloría o del órgano de control interno conforme a su competencia;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 1994)</small>
 
 XXI. Supervisar que los servidores públicos sujetos a su dirección, cumplan con las disposiciones de este artículo e informar por escrito ante el superior jerárquico u órgano de control interno los actos u omisiones que en ejercicio de sus funciones llegare a advertir respecto de cualquier servidor público, que puedan ser causa de responsabilidad administrativa en los términos de esta Ley, y de las normas que al efecto se expidan.
 
@@ -417,19 +417,31 @@ XXII. Abstener de cualquier acto u omisión que implique incumplimiento de cualq
 
 XXIII. Abstener de impedir, por sí o por interpósita persona, utilizando cualquier medio, la formulación de quejas y denuncias; o que con motivo de las mismas, realice cualquier conducta injusta u omita una justa y debida, que lesione los intereses de los quejosos o denunciantes; y
 
-> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE MAYO DE 2012)</small>
 
-XXIV. En materia de derechos humanos:
+XXIV. Promover, respetar, proteger los derechos humanos, prevenir, investigar, sancionar y reparar las violaciones a los mismos, en el ámbito de sus atribuciones.
+
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 a) Implementar las medidas precautorias o cautelares que hayan sido aceptadas, a petición de la Comisión de Derechos Humanos, y abstenerse de negarlas a sabiendas de que existen los hechos que las motivan;
 
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
 b) Proporcionar en forma oportuna y veraz, la información y datos que requieran tanto la Comisión de Derechos Humanos como los Defensores Municipales de Derechos Humanos;
+
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 c) Permitir a su personal el acceso incondicionado, inmediato e irrestricto a los espacios físicos, información y personas que requieran tanto la Comisión de Derechos Humanos como los Defensores Municipales de Derechos Humanos, para practicar sus actuaciones, salvo en los casos que por disposición expresa de la ley no sea posible;
 
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
 d) Cumplir en sus términos las mediaciones y conciliaciones que hayan sido aceptadas, de conformidad con los procedimientos sustanciados por la Comisión de Derechos Humanos o los Defensores Municipales de Derechos Humanos;
 
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
 e) Cumplir en sus términos las recomendaciones de la Comisión de Derechos Humanos que hayan sido aceptadas; y
+
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 f) Observar las disposiciones relacionadas con el procedimiento de designación de los Defensores Municipales de Derechos Humanos.
 
@@ -525,7 +537,7 @@ Los ayuntamientos establecerán los órganos y sistemas respectivos en los térm
 
 Los servidores públicos de la Secretaría, que incurran en responsabilidad administrativa, serán sancionados conforme al presente Capítulo, por el órgano que disponga su reglamento interior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 49.
 
@@ -563,9 +575,9 @@ VI.- Arresto hasta por 36 horas en los términos de la Ley de Seguridad Pública
 
 ###### Artículo 50.
 
-(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, P.O. 7 DE FEBRERO DE 1997)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, P.O. 7 DE FEBRERO DE 1997)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 51.
 
@@ -625,13 +637,13 @@ La Secretaría y el superior jerárquico informando previamente a ésta, en los 
 
 Lo anterior, es aplicable a los Poderes Judicial y Legislativo, como también a los Ayuntamientos a través de sus órganos competentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 59.
 
 Las sanciones administrativas disciplinarias se impondrán mediante el siguiente procedimiento:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 1998)</small>
 
 I. El procedimiento administrativo disciplinario se inicia cuando se notifica al presunto responsable el oficio por el que se le da a conocer el lugar, día y hora en que se realizará la audiencia, la responsabilidad o responsabilidades que se le imputen y su derecho a ofrecer pruebas y alegar en la misma, por si o por medio de defensor. A la audiencia, podrá asistir el representante de la dependencia de adscripción que para tal efecto se designe.
 
@@ -655,7 +667,7 @@ III. Si de la audiencia se desprende que no existen elementos suficientes para r
 
 Iniciado el procedimiento administrativo y de existir elementos suficientes que determinen un daño o beneficio indebido en detrimento del erario estatal o municipal, la autoridad ejecutora del posible crédito fiscal a solicitud de la Secretaría o del órgano de control interno podrá trabar embargo precautorio para asegurar la reparación del daño o perjuicio causado, pero en todos los casos el depositario será el presunto responsable.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 1998)</small>
 
 IV. En cualquier momento, previo o posterior al citatorio a que se refiere la fracción I, se podrá determinar, tratándose de servidores públicos, la suspensión temporal de los presuntos responsables de su cargo, empleos o comisiones, cuando causen perjuicio a la administración pública, si así conviene para la conducción o continuación de las investigaciones. Dicha suspensión no podrá exceder de 30 días.
 
@@ -715,13 +727,13 @@ El Juicio Contencioso Administrativo no procederá en contra de los actos y reso
 
 ###### Artículo 66.
 
-(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, P.O. 7 DE FEBRERO DE 1997)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, P.O. 7 DE FEBRERO DE 1997)
 
 ###### Artículo 67.
 
-(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, P.O. 7 DE FEBRERO DE 1997)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, P.O. 7 DE FEBRERO DE 1997)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 68.
 
@@ -849,7 +861,7 @@ Las facultades de la autoridad para constituir responsabilidades en los término
 
 los Servidores Públicos
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 78.
 
@@ -867,7 +879,7 @@ Tienen la obligación de presentar Manifestación de Bienes ante los órganos co
 
 I.- En la Legislatura del Estado: Los Diputados, el Oficial Mayor, todo el personal de la Contaduría General de Glosa y Jefes de Departamentos hasta Directores;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 1998)</small>
 
 II. En el Poder Ejecutivo: los servidores públicos de la administración pública central y del sector auxiliar, desde jefes de departamento hasta los titulares de las dependencias, incluyendo al Gobernador del Estado; Notarios Públicos, Defensores de Oficio y aquellos que manejen, recauden o administren fondos y recursos estatales, municipales o federales y en la propia Secretaría todos sus servidores públicos.
 
@@ -963,13 +975,13 @@ Para los efectos de la persecución penal por enriquecimiento ilícito, la Secre
 
 Los Poderes Judicial y Legislativo, y los Ayuntamientos, actuarán en lo conducente respecto a sus servidores conforme a las disposiciones que se establecen en el presente capítulo.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 5 DE ENERO DE 1994)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 5 DE ENERO DE 1994)</small>
 
 ###### Artículo 89.
 
 Para los efectos de esta Ley, se considera obsequio todo bien que reciban con motivo de sus funciones los servidores públicos, su cónyuge o parientes consanguíneos hasta el cuarto grado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 1994)</small>
 
 ###### Artículo 90.
 
@@ -1039,15 +1051,15 @@ de los Servidores Públicos
 
 ###### Artículo 100.
 
-(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, P.O. 7 DE FEBRERO DE 1997)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, P.O. 7 DE FEBRERO DE 1997)
 
 ###### Artículo 101.
 
-(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, P.O. 7 DE FEBRERO DE 1997)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, P.O. 7 DE FEBRERO DE 1997)
 
 ###### Artículo 102.
 
-(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, P.O. 7 DE FEBRERO DE 1997)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, P.O. 7 DE FEBRERO DE 1997)
 
 T R A N S I T O R I O S
 
@@ -1101,7 +1113,7 @@ LIC. JORGE LOPEZ OCHOA
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 5 DE ENERO DE 1994
 
@@ -1127,9 +1139,9 @@ El presente decreto entrará en vigor el día de su publicación en la Gaceta de
 
 P.O. 7 DE FEBRERO DE 1997
 
-CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS
+CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS
 
-SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS QUE SE RELACIONAN CON EL PRESENTE DECRETO
+SE TRANSCRIBEN ÚNICAMENTE LOS ARTÍCULOS TRANSITORIOS QUE SE RELACIONAN CON EL PRESENTE DECRETO
 
 ###### ARTICULO SEGUNDO.
 
@@ -1220,5 +1232,11 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 G.G. 11 DE NOVIEMBRE DE 2011.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial Gaceta del Gobierno.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 4 DE MAYO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
