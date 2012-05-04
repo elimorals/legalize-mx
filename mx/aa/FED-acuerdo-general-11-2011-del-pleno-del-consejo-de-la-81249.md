@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-11-2011-del-pleno-del-consejo-de-la-81249"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-05-12"
-last_updated: "2012-04-26"
+last_updated: "2012-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81249&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2011-05-03"
 ---
 # ACUERDO GENERAL 11/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN LA REPUBLICA MEXICANA; Y AL NUMERO, JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA]
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE MAYO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 ACUERDO GENERAL 11/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE MAYO DE 2012.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 12 de mayo de 2011.
 
@@ -271,7 +273,9 @@ XVI. DECIMOSEXTO CIRCUITO:
 
 2. Tres tribunales unitarios con sede en Guanajuato.
 
-3. Ocho juzgados de Distrito en el Estado de Guanajuato: dos con residencia en la ciudad del mismo nombre, tres con sede en León y tres con residencia en Celaya.
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 14/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE MAYO DE 2012)</small>
+
+3. Diez Juzgados de Distrito en el Estado de Guanajuato: dos con residencia en la ciudad del mismo nombre, tres con sede en León, tres con residencia en Celaya y dos con sede en Irapuato.
 
 XVII. DECIMOSEPTIMO CIRCUITO:
 
@@ -517,6 +521,8 @@ XXXI. TRIGESIMO PRIMER CIRCUITO: Estado de Campeche.
 
 XXXII. TRIGESIMO SEGUNDO CIRCUITO: Estado de Colima.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE PUNTO CUARTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE MAYO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CUARTO. La jurisdicción territorial de los juzgados de Distrito es la siguiente:
 
 I. PRIMER CIRCUITO:
@@ -631,13 +637,19 @@ Los juzgados de Distrito en el Estado de Baja California, con residencia en Tiju
 
 Los juzgados de Distrito en el Estado de Baja California, con residencia en Ensenada, ejercerán jurisdicción territorial en el distrito judicial conformado por el municipio del mismo nombre.
 
+> <small>(REFORMADA POR EL PUNTO DÉCIMO DEL ACUERDO GENERAL 13/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE MAYO DE 2012)</small>
+
 XVI. DECIMOSEXTO CIRCUITO:
 
-Los juzgados de Distrito en el Estado de Guanajuato, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Abasolo, Allende, Atarjea, Cuerámaro, Doctor Mora, Dolores Hidalgo, Guanajuato, Huanímaro, Irapuato, Pueblo Nuevo, Romita, San Diego de la Unión, San José Iturbide, San Luis de la Paz, Santa Catarina, Tierra Blanca, Victoria y Xichú.
+Los juzgados de Distrito en el Estado de Guanajuato, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Atarjea, Doctor Mora, Dolores Hidalgo, Guanajuato, San Diego de la Unión, San José Iturbide, San Luis de la Paz, Santa Catarina, Tierra Blanca, Victoria y Xichú.
 
-Los juzgados de Distrito en el Estado de Guanajuato, con sede en León, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Manuel Doblado, León, Ocampo, Pénjamo, Purísima del Rincón, San Felipe, San Francisco del Rincón y Silao.
+Los juzgados de Distrito en el Estado de Guanajuato, con sede en León, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Manuel Doblado, León, Ocampo, Purísima del Rincón, San Felipe y San Francisco del Rincón.
 
-Los juzgados de Distrito en el Estado de Guanajuato, con residencia en Celaya, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acámbaro, Apaseo el Alto, Apaseo el Grande, Celaya, Comonfort, Coroneo, Cortázar, Jaral del Progreso, Jerécuaro, Moroleón, Salamanca, Salvatierra, Santa Cruz de Juventino Rosas, Santiago Maravatío, Tarandacuao, Tarímoro, Uriangato, Valle de Santiago, Villagrán y Yuriria.
+Los juzgados de Distrito en el Estado de Guanajuato, con residencia en Celaya, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acámbaro, Apaseo el Alto, Apaseo el Grande, Celaya, Comonfort, Coroneo, Cortázar, Jaral del Progreso, Jerécuaro, Moroleón, Salvatierra, Santa Cruz de Juventino Rosas, Santiago Maravatío, Tarandacuao, Tarímoro, Uriangato, Villagrán y Yuriria.
+
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 14/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE MAYO DE 2012)</small>
+
+Los Juzgados de Distrito en el Estado de Guanajuato, con residencia en Irapuato, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de Abasolo, Allende, Cuerámaro, Huanímaro, Irapuato, Pénjamo, Pueblo Nuevo, Romita, Salamanca, Silao y Valle de Santiago.
 
 XVII. DECIMOSEPTIMO CIRCUITO:
 
@@ -737,9 +749,9 @@ QUINTO. Se contará con:
 
 2. El Centro Auxiliar de la Segunda Región, se integrará por cuatro tribunales colegiados de Circuito Auxiliares y seis juzgados de Distrito Auxiliares, con residencia en San Andrés Cholula, Puebla y dos juzgados de Distrito Auxiliares, con residencia en Puebla, Puebla.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 31/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 14/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE MAYO DE 2012)</small>
 
-3. El Centro Auxiliar de la Tercera Región, se integrará por seis tribunales colegiados de Circuito Auxiliares, dos con residencia en Guanajuato, Guanajuato, dos con sede en Guadalajara, Jalisco y dos con residencia en Morelia, Michoacán; siete tribunales unitarios de Circuito Auxiliares, cinco con residencia en Guanajuato, Guanajuato y dos con sede en Guadalajara, Jalisco, y seis juzgados de Distrito Auxiliares, tres con residencia en Guanajuato, Guanajuato, dos con sede en Guadalajara, Jalisco, y uno con sede en Uruapan, Michoacán.
+3. El Centro Auxiliar de la Tercera Región, se integrará por seis tribunales colegiados de Circuito Auxiliares, dos con residencia en Guanajuato, Guanajuato, dos con sede en Guadalajara, Jalisco, y dos con residencia en Morelia, Michoacán; siete Tribunales Unitarios de Circuito Auxiliares, cinco con residencia en Guanajuato, Guanajuato, y dos con sede en Guadalajara, Jalisco y, cuatro Juzgados de Distrito Auxiliares, dos con residencia en Guanajuato, Guanajuato y dos con sede en Guadalajara, Jalisco.
 
 4. El Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, se integrará por dos tribunales colegiados de Circuito Auxiliares, un tribunal unitario de Circuito Auxiliar y cinco juzgados de Distrito Auxiliares.
 
@@ -1000,3 +1012,25 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 11/2011, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales colegiados y unitarios de circuito y de los Juzgados de distrito. Asimismo la reforma al Acuerdo General 10/2008, del Pleno Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Segunda Región, así como los órganos que lo integrarán.
+
+D.O.F. 4 DE MAYO DE 2012.
+
+ACUERDO GENERAL 13/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA EL ACUERDO GENERAL 11/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, EN LOS PUNTOS SEGUNDO, APARTADO XVI, DECIMOSEXTO CIRCUITO, NÚMERO 3; Y CUARTO, APARTADO XVI, DECIMOSEXTO CIRCUITO.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 11/2011, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales colegiados y unitarios de Circuito y de los juzgados de Distrito.
+
+D.O.F. 4 DE MAYO DE 2012.
+
+ACUERDO GENERAL 14/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL ACUERDO GENERAL 11/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, EN LOS PUNTOS: QUINTO, NUMERAL 3; SEGUNDO, APARTADO XVI, DECIMOSEXTO CIRCUITO, NÚMERO 3; Y CUARTO, APARTADO XVI, DECIMOSEXTO CIRCUITO, PÁRRAFO CUARTO.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Dirección General de Estadística Judicial y la Dirección General de Tecnologías de la Información determinarán, en el ámbito de su competencia, lo relativo al funcionamiento de la Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de Guanajuato, con residencia en Irapuato.
+
+CUARTO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 11/2011, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos en que se divide la república mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales colegiados y unitarios de Circuito y de los juzgados de Distrito. Asimismo, la reforma al Acuerdo General 18/2008, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato, así como los órganos jurisdiccionales que lo integrarán.
