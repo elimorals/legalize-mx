@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-desarrollo-economico-y-competitividad-para-el-estado-584
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-17"
-last_updated: "2008-12-12"
+last_updated: "2012-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # LEY DE DESARROLLO ECONOMICO Y COMPETITIVIDAD PARA EL ESTADO DE QUINTANA ROO
 
-LEY DE DESARROLLO ECONOMICO Y COMPETITIVIDAD PARA EL ESTADO DE QUINTANA ROO
+LEY DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD PARA EL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2012.
 
 Ley publicada en el Número 83 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 17 de diciembre de 2007.
 
@@ -43,9 +43,11 @@ LEY DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD PARA EL ESTADO DE QUINTANA ROO
 
 ### CAPÍTULO I. DEL OBJETO Y ÁMBITO DE APLICACIÓN DE LA LEY
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2012)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de observancia general en el Estado de Quintana Roo, y tienen por objeto promover y fomentar el desarrollo económico del Estado mediante políticas de apoyo a la competitividad que propicien el aprovechamiento sustentable de los recursos y los mercados, fortalezcan las vocaciones regionales y sectoriales, así como el establecimiento de estímulos a la inversión en sectores y regiones estratégicas.
+Las disposiciones de esta Ley, son de observancia general en el Estado de Quintana Roo, y tiene por objeto promover y fomentar el desarrollo económico del Estado mediante políticas de apoyo a la competitividad que propicien el aprovechamiento sustentable de los recursos y los mercados, estableciendo las bases para fomentar e incentivar la inversión nacional y extranjera, la generación de trabajos decentes y empleos verdes y de alto valor agregado en el Estado, procurando la protección del medio ambiente y la lucha contra el cambio climático, y buscando ante todo, el bienestar social de los quintanarroenses.
 
 ### CAPÍTULO II. DE LOS ÓRGANOS COMPETENTES EN LA APLICACIÓN DE LA LEY
 
@@ -59,75 +61,97 @@ La Secretaría se encuentra facultada para interpretar esta Ley y su Reglamento,
 
 ### CAPÍTULO III. DEFINICIONES
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2012)</small>
+
 ###### Artículo 3.
 
-Para efectos de esta Ley se entiende por:
+Para efectos de esta Ley, se entiende por:
 
-I.- Aceleradora de Negocios.- Entidad que apoya a empresas de base tecnológica y/o empresas innovadoras con gran potencial de crecimiento en términos de ventas y de generación de empleos a través de servicios de consultoría, innovación, gestión y comercialización; para posicionarlas en el mercado nacional, elevar su productividad y facilitar el acceso a mercados globales;
+I. Aceleradora de Negocios.- Entidad que apoya a empresas de base tecnológica y/o empresas innovadoras con gran potencial de crecimiento en términos de ventas y de generación de empleos a través de servicios de consultoría, innovación, gestión y comercialización; para posicionarlas en el mercado nacional, elevar su productividad y facilitar el acceso a mercados globales;
 
-II.- Agrupamiento empresarial (Cluster).- Concentración geográfica de empresas e instituciones que interactúan entre sí y que, al hacerlo, crean un clima de negocios en que todos ellos pueden mejorar su desempeño, competitividad y rentabilidad de largo plazo;
+II. Agrupamiento empresarial (Cluster).- Concentración geográfica de empresas e instituciones que interactúan entre sí y que, al hacerlo, crean un clima de negocios en que todos ellos pueden mejorar su desempeño, competitividad y rentabilidad de largo plazo;
 
-III.- Calidad.- Conjunto de atributos que debe presentar un producto o servicio para la satisfacción del consumidor, evaluado en base a normas nacionales e internacionales, obligatorias o voluntarias;
+III. Cadenas productivas.- Sistemas productivos que integran conjuntos de empresas que añaden valor agregado a productos o servicios a través de las fases del proceso económico;
 
-IV.- Capital Humano.- Conjunto de capacidades productivas que un individuo adquiere por acumulación de conocimientos generales o específicos;
+IV. Calidad.- Conjunto de atributos que debe presentar un producto o servicio para la satisfacción del consumidor evaluado en base a normas nacionales e internacionales, obligatorias o voluntarias;
 
-V.- CEMER.- Comisión Estatal de Mejora Regulatoria de Quintana Roo;
+V. Capacitación.- Servicio empresarial que consiste en la impartición de cursos, talleres y metodologías, con la finalidad de mejorar las capacidades y habilidades de los recursos humanos de las empresas que reciben la atención;
 
-VI.- CENER.- Comisión de Energía de Quintana Roo;
+VI. Capital Humano.- Conjunto de capacidades productivas que un individuo adquiere por acumulación de conocimientos generales o específicos;
 
-VII.- Centro de Articulación Productiva.- Estrategia abocada a la institucionalización y desarrollo de modelos asociativos en los agrupamientos empresariales para generar información, metodologías, capacidades y servicios, cuyos principales objetivos son el desarrollo de inteligencia competitiva empresarial, la articulación y el aterrizaje de proyectos de alto valor;
+VII. Centro de Articulación Productiva.- Organismo orientado al apoyo de la Micro, Pequeña y Mediana Empresa, mediante la prestación de servicios de consultoría y asesoría, cuyos objetivos serán articular los procesos productivos, fortalecer las empresas, propiciar la sustitución de importaciones y vincular la oferta con la demanda tanto en el mercado interno como el extranjero;
 
-VIII.- Comisión.- La Comisión Estatal de Competitividad;
+VIII. CEMER.- Comisión Estatal de Mejora Regulatoria de Quintana Roo;
 
-IX.- Competitividad.- Capacidad que tiene el Estado para generar características decisivas en sus regiones que permita y facilite a sus empresas crear y mantener ventajas competitivas en determinados campos de la producción;
+IX. CENER.- Comisión de Energía de Quintana Roo;
 
-X.- Desarrollo Económico.- Proceso de crecimiento económico y cambio estructural que mediante la utilización del potencial existente en el Estado conduce a la mejora de la calidad de vida de su población, así como de sus diversas localidades y regiones;
+X.- Comisión.- La Comisión Estatal de Competitividad;
 
-XI.- Emprendedores.- Los hombres y mujeres que se encuentren en proceso de creación de una micro, pequeña o mediana empresa, a partir de una idea o proyecto de negocio;
+XI. Competitividad.- La calidad del ambiente económico e institucional para el desarrollo sostenible y sustentable de las actividades privadas y el aumento de la productividad; y a nivel empresa, la capacidad para mantener y fortalecer su rentabilidad y participación de las MIPYMES en los mercados, con base en ventajas asociadas a sus productos o servicios, así como a las condiciones en que los ofrecen;
 
-XII.- Empresa: La persona física o moral legalmente constituida, cuyo objeto sea llevar a cabo actividades económicas para la producción o el intercambio de bienes y servicios para el mercado;
+XII. Desarrollo Económico.- Proceso de crecimiento económico y cambio estructural que mediante la utilización del potencial existente en el Estado conduce a la mejora de la calidad de vida de su población, así como de sus diversas localidades y regiones;
 
-XIII.- Empresa de Base Tecnológica (EBT).- Iniciativas empresariales innovadoras de alto riesgo e incertidumbre por encontrarse en sectores emergentes de alto y rápido desarrollo;
+XIII. Empleo Verde.- Son aquellos que ayudan a reducir el impacto ambiental de las empresas y de los sectores económicos, hasta alcanzar niveles sostenibles;
 
-XIV.- Esquema de Capacitación.- Modelo operativo que reúne el conjunto de acciones para fomentar el desarrollo de capital humano, incluidos: cursos, talleres, seminarios, programas de formación profesional y otros que incidan en la adquisición de nuevos conocimientos y habilidades para satisfacer las necesidades del sector productivo;
+XIV. Emprendedores.- Los hombres y mujeres que se encuentren en proceso de creación de una micro, pequeña o mediana empresa, a partir de una idea o proyecto de negocio;
 
-XV.- Estímulos.- Apoyos que se otorgan a las empresas en los términos de esta Ley y las disposiciones fiscales de carácter estatal;
+XV. Empresa.- La persona física o moral legalmente constituida, cuyo objeto sea llevar a cabo actividades económicas para la producción o el intercambio de bienes y servicios para el mercado;
 
-XVI.- FIFODEQROO.- Fideicomiso del Fondo para el Desarrollo Económico de Quintana Roo;
+XVI. Empresa de Base Tecnológica.- Aquellas que basan su actividad en las aplicaciones de nuevos descubrimientos científicos o tecnológicos para la generación de nuevos productos, procesos o servicios;
 
-XVII.- FODEQROO.- Fondo para el Desarrollo Económico de Quintana Roo;
+XVII. Esquema de Capacitación.- Modelo operativo que reúne el conjunto de acciones para fomentar el desarrollo de capital humano, incluidos: cursos, talleres, seminarios, programas de formación profesional y otros que incidan en la adquisición de nuevos conocimientos y habilidades para satisfacer las necesidades del sector productivo;
 
-XVIII.- Fomento al Desarrollo Económico.- Acciones económicas, jurídicas, sociales, comerciales, de coordinación, de capacitación y/o tecnológicas que contribuyan al progreso de las empresas locales, así como también a la atracción de nuevas empresas y a la generación de empleos;
+XVIII. Estímulos.- Apoyos que se otorgan a las empresas en los términos de esta Ley y las disposiciones fiscales de carácter estatal;
 
-XIX.- Incubadora de Negocios.- Entidad que fomenta la creación, constitución y consolidación de empresas. Pueden proveer espacios físicos, capacitación y/o consultoría;
+XIX. FIFODEQROO.- Fideicomiso del Fondo para el Desarrollo Económico de Quintana Roo;
 
-XX.- Ley.- La Ley de Desarrollo Económico y Competitividad para el Estado de Quintana Roo;
+XX. FODEQROO.- Fondo para el Desarrollo Económico de Quintana Roo;
 
-XXI.- MIPYMES.- La micro, pequeña y mediana empresas, de conformidad con la estratificación establecida por la legislación;
+XXI. Fomento al Desarrollo Económico.- Acciones económicas, jurídicas, sociales, comerciales, de coordinación, de capacitación y/o tecnológicas que contribuyan al progreso de las empresas locales, así como también a la atracción de nuevas empresas y a la generación de empleos;
 
-XXII.- Plan: El Plan Estatal de Desarrollo Vigente;
+XXII. Incubadora de Negocios.- Entidad que fomenta la creación, constitución y consolidación de empresas. Pueden proveer espacios físicos, capacitación y/o consultoría;
 
-XXIII.- Programa Económico.- Paquete de estímulos aprobado conforme a los procedimientos de esta Ley cuyo objetivo primordial es reactivar o apoyar algún sector ó actividad económica de una región definida de la entidad;
+XXIII. Ley.- La Ley de Desarrollo Económico y Competitividad para el Estado de Quintana Roo;
 
-XXIV.- Proyectos de Inversión.- Para efectos de la presente ley se consideran todos aquellos proyectos que impliquen alto impacto para el desarrollo económico en razón de la cuantía de las inversiones, la vinculación con agrupamientos empresariales regionales, utilización de tecnología de punta, la generación de empleos y su orientación al mercado local, nacional e internacional
+XXIV. MIPYMES.- Micro, pequeñas y medianas empresas, legalmente constituidas, con base en la estratificación establecida por la Secretaría, de común acuerdo con la Secretaría de Hacienda y Crédito Público y publicada en el Diario Oficial de la Federación, partiendo de la siguiente:
 
-XXV.- Reglamento.- El Reglamento de la Ley de Desarrollo Económico y Competitividad para el Estado de Quintana Roo;
+Estratificación por Número de Trabajadores
 
-XXVI.- SECDE.- El Sistema Estatal de Capacitación para el Desarrollo Económico;
+Sector/Tamaño Industria Comercio Servicios
 
-XXVII.- Secretaría.- La Secretaría de Desarrollo Económico del Estado;
+Micro 0-10 0-10 0-10
 
-XXVIII.- Sector motor.- Sector económico en el que se concentran las empresas de los agrupamientos empresariales que mueven la economía del Estado;
+Pequeña 11-50 11-30 11-50
 
-XXIX.- SEECAT.- El Servicio Estatal del Empleo y Capacitación para el Trabajo del Estado de Quintana Roo;
+Mediana 51-250 31-100 51-100
 
-XXX.- SINACE.- Sistema de Incubación y Aceleración de Empresas de Quintana Roo;
+Se incluyen productores agrícolas, ganaderos, forestales, pescadores, acuicultores, mineros, artesanos y de bienes culturales, así como prestadores de servicios turísticos y culturales
 
-XXXI.- SIEMQROO.- El Sistema de Información Económica y de Mercado de Quintana Roo;
+XXV. Plan. El Plan Estatal de Desarrollo Vigente;
 
-XXXII.- Ventaja Competitiva.- Condiciones favorables que las empresas tienen sobre sus competidores como resultado de procesos de innovación y mejora en las mismas; y
+XXVI. Programa Económico.- Paquete de estímulos aprobado conforme a los procedimientos de esta Ley cuyo objetivo primordial es reactivar o apoyar algún sector ó actividad económica de una región definida de la entidad;
 
-XXXIII.- Vocaciones Regionales.- Agrupamientos empresariales preponderantes o con potencial de desarrollo que tienen cada región del Estado.
+XXVII. Proyectos de Inversión.- Para efectos de la presente ley se consideran todos aquellos proyectos que impliquen alto impacto para el desarrollo económico en razón de la cuantía de las inversiones, la vinculación con agrupamientos empresariales regionales, utilización de tecnología de punta, la generación de empleos y su orientación al mercado local, nacional e internacional;
+
+XXVIII. Reglamento.- El Reglamento de la Ley de Desarrollo Económico y Competitividad para el Estado de Quintana Roo;
+
+XXIX. SECDE.- El Sistema Estatal de Capacitación para el Desarrollo Económico;
+
+XXX. Secretaría.- La Secretaría de Desarrollo Económico del Estado;
+
+XXXI. Sector motor.- Sector económico en el que se concentran las empresas de los agrupamientos empresariales que mueven la economía del Estado;
+
+XXXII. SINACE.- Sistema de Incubación y Aceleración de Empresas de Quintana Roo;
+
+XXXIII. SIEMQROO.- El Sistema de Información Económica y de Mercado de Quintana Roo;
+
+XXXIV. Trabajo Decente.- Es aquél trabajo en el que se respeta plenamente la dignidad de la empleada o el empleado, otorgándole un salario adecuado, seguridad en el lugar de trabajo y protección social para ella o él y su familia, mejores perspectivas de desarrollo personal e integración a la sociedad, libertad para que exprese sus opiniones, organización y participación en las decisiones que afectan su vida, e igualdad de oportunidades y trato, y que no admite discriminación por razón de origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, religión, opinión, preferencia sexual, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de la empleada o el empleado;
+
+XXXV. Trabajador de Primer Empleo.- Trabajador, mujer o hombre que no tenga registro previo de aseguramiento en el régimen obligatorio ante el Instituto Mexicano del Seguro Social, por no haber prestado de forma permanente o eventual un servicio remunerado, personal y subordinado a un patrón;
+
+XXXVI. Ventaja Competitiva.- Características que posee un producto o un servicio, que derivado de los procesos de innovación y mejoras, obtienen una mejor calidad en relación a los que presenta la competencia; y
+
+XXXVII. Vocaciones Regionales.- Agrupamientos empresariales preponderantes o con potencial de desarrollo que tienen cada región del Estado.
 
 ### CAPÍTULO IV. DE LAS ACTIVIDADES ECONOMICAS PRIORITARIAS
 
@@ -173,9 +197,13 @@ b) El impulso a la creación de empresas regionales mediante la promoción de la
 
 c) Un marco jurídico que aliente y consolide la competitividad y la inversión;
 
-d) La incorporación al mercado laboral de personas adultas mayores y de personas productivas con capacidades diferentes, así como el reconocimiento de aquellas empresas que participen en los programas que para tal efecto se establezcan;
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2012)</small>
 
-e) La generación de nuevas fuentes de empleo formales y la conservación de las existentes impulsando el establecimiento de nuevas empresas;
+d) La incorporación al mercado laboral de personas adultas mayores, personas productivas con alguna discapacidad y, a las y los jóvenes en edad productiva, priorizando en este último grupo, a aquellas o aquellos que busquen acceder a un primer empleo, así como el reconocimiento de aquellas empresas que participen en los programas que para tal efecto se establezcan;
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2012)</small>
+
+e) La generación de nuevas fuentes de trabajo decente¸ empleos verdes y la conservación de las existentes impulsando el establecimiento de nuevas empresas para generar un desarrollo sustentable;
 
 f) El desarrollo de infraestructura, servicios y demás condiciones necesarias que propicien la atracción de proyectos de inversión en la Entidad;
 
@@ -195,7 +223,9 @@ m) La mejora regulatoria, para crear un entorno altamente favorable y competitiv
 
 n) Los programas para la explotación de los productos elaborados en el Estado;
 
-ñ) La utilización de tecnología limpia que incluya equipos, dispositivos, mecanismos, técnicas o sistemas, que aplicados a una fuente o proceso generador de contaminantes, reduzcan, minimicen o eliminen, su grado de peligrosidad y contaminación;
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2012)</small>
+
+ñ) La utilización de tecnología limpia que incluya equipos, dispositivos, mecanismos, técnicas o sistemas, que aplicados a una fuente o proceso generador de contaminantes, reduzcan, minimicen o eliminen, su grado de peligrosidad y contaminación; asimismo formular sugerencias tendientes a vincular la modernización, la innovación y el desarrollo tecnológico en el sector productivo;
 
 o) El desarrollo de infraestructura logística de comunicaciones y transportes, aduanal, industrial y de alta tecnología ante las instancias y dependencias correspondientes; y
 
@@ -242,6 +272,10 @@ II.- Unificar los esfuerzos de los diversos programas sectoriales evitando la du
 III.- Diseñar las estrategias que impulsen la diversificación económica en la entidad con el objeto de reducir la dependencia económica en el sector turístico; y
 
 IV.- Integrar de manera regional los programas de crecimiento económico y productivo, generando vínculos económicos con el resto de las entidades, en especial las del Sur Sureste.
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2012)</small>
+
+V.- Promover y estimular el acceso al primer empleo de las y los jóvenes quintanarroenses.
 
 ###### Artículo 10.
 
@@ -415,7 +449,9 @@ III.- La instrumentación de estrategias para articular, coordinar y alinear la 
 
 IV.- La promoción y adopción de esquemas de certificación laboral;
 
-V.- El otorgamiento de becas y facilidades para contribuir en la formación de capital humano;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
+
+V.- El otorgamiento de becas y facilidades para contribuir en la formación de capital humano, principalmente entre los jóvenes;
 
 VI.- Opinar sobre la pertinencia de los planes de estudio de las carreras y programas que ofrecen las instituciones radicadas en el Estado en relación con las necesidades de formación por parte del sector productivo; y
 
@@ -451,13 +487,11 @@ IX.- Los niveles satisfactorios de educación y capacitación.
 
 ### CAPÍTULO VIII. DEL EMPLEO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2012)</small>
 
 ###### Artículo 31.
 
-La Secretaría del Trabajo y Previsión Social, en coordinación con los organismos correspondientes del orden federal y municipal y de los sectores privado y laboral, desarrollará programas y medidas tendientes a la consecución del pleno empleo, así como para el mejoramiento de la capacidad y calidad del recurso humano, para promover el equilibrio cuantitativo y cualitativo sectorial y por región de la oferta y demanda de empleo con el objeto de reducir situaciones de desempleo y demandas de empleo no satisfechas. Todo lo anterior, dentro de las orientaciones generales de la política de desarrollo económico y competitividad que se establecen en esta ley y otros ordenamientos relacionados.
+La Secretaría del Trabajo y Previsión Social, en coordinación con los organismos correspondientes del orden federal y municipal y de los sectores privado y laboral, desarrollará programas y medidas tendientes a fomentar el primer empleo, a la generación del trabajo decente y los empleos verdes, así como para el mejoramiento de la capacidad y calidad del recurso humano, para promover el equilibrio cuantitativo y cualitativo sectorial y por región de la oferta y demanda de empleo con el objeto de reducir situaciones de desempleo y demandas de empleo no satisfechas. Todo lo anterior dentro de las orientaciones generales de la política de desarrollo económico y competitividad que se establecen en esta Ley y otros ordenamientos relacionados.
 
 ###### Artículo 32.
 
@@ -469,7 +503,9 @@ II.- Prevenir las repercusiones de los procesos de reconversión productiva sobr
 
 III.- Inducir la transferencia de las personas ocupadas en actividades urbanas o rurales de baja productividad e ingresos, a otras actividades de mayor productividad;
 
-IV.- Fomentar las oportunidades de empleo para los grupos que enfrentan mayores dificultades de inserción laboral;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
+
+IV.- Fomentar las oportunidades de trabajo decente para los grupos que enfrentan mayores dificultades de inserción laboral, como lo son, las personas adultas mayores, personas productivas con alguna discapacidad y a las y los jóvenes en edad productiva, priorizando en este último grupo, a aquellas o aquellos que busquen acceder a un primer empleo;
 
 V.- Incorporar la formación profesional y la certificación de competencias laborales como componente básico de las políticas y programas de empleo;
 
@@ -479,17 +515,13 @@ VII.- Atender la movilidad sectorial y geográfica de la mano de obra, de modo d
 
 VIII.- Promover la regularización de las relaciones laborales, desalentando las prácticas informales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
-
 ###### Artículo 33.
 
-Se establece el Servicio Estatal del Empleo y Capacitación para el Trabajo de Quintana Roo, como el organismo público desconcentrado de la Secretaría del Trabajo y Previsión Social del Estado, que tendrá bajo su responsabilidad la planeación, desarrollo y seguimiento de los programas y medidas de la política de empleo y capacitación para el trabajo en el marco de lo establecido en la presente ley.
+(DEROGADO, P.O. 4 DE MAYO DE 2012)
 
 ###### Artículo 34.
 
-La administración y operación del Servicio Estatal del Empleo y Capacitación para el Trabajo estarán bajo la responsabilidad de un Coordinador General, mismo que será designado por el Gobernador del Estado a propuesta del Secretario de Desarrollo Económico.
+(DEROGADO, P.O. 4 DE MAYO DE 2012)
 
 ### CAPÍTULO IX. DE LA MEJORA REGULATORIA
 
@@ -549,6 +581,8 @@ IX.- Dar difusión a los programas y servicios públicos y privados orientados a
 
 X.- Participar en coordinación con las dependencias que tengan facultades para expedirlas, en la elaboración de Normas Oficiales Mexicanas y Normas Mexicanas de eficiencia energética y aprovechamiento de energías renovables.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2012)</small>
+
 ###### Artículo 41.
 
 Para la dirección y cumplimiento de sus objetivos, la Comisión de Energía contará con un órgano de gobierno, mismo que será el Órgano Superior de la Comisión y estará integrado de la siguiente forma:
@@ -559,31 +593,33 @@ II.- El Secretario de Desarrollo Económico quien será el Vicepresidente Ejecut
 
 III.- El Titular de la Comisión de Energía quien será el Secretario Técnico;
 
-Un representante designado por cada uno de los Titulares de las Secretarías de:
+Un representante designado por cada uno de los titulares de las Secretarías de:
 
 IV.- Planeación y Desarrollo Regional;
 
-V.- Desarrollo Urbano y Medio Ambiente;
+V.- Desarrollo Urbano;
 
-VI.- Infraestructura y Transportes;
+VI.- Ecología y Medio Ambiente;
 
-VII.- Desarrollo Agropecuario, Rural e Indígena;
+VII.- Infraestructura y Transportes;
 
-VIII.- Turismo;
+VIII.- Desarrollo Agropecuario, Rural e Indígena;
 
-IX.- Contraloría;
+IX.- Turismo;
 
-X.- El Consejo Quintanarroense de Ciencia y Tecnología;
+X.- Contraloría;
 
-XI.- Un representante de los empresarios de la Región Centro-Sur del Estado;
+XI.- El Consejo Quintanarroense de Ciencia y Tecnología;
 
-XII.- Un representante de los empresarios de la Región Norte del Estado; y
+XII.- Un representante de los empresarios de la Región Centro-Sur del Estado;
 
-XIII.- Por invitación un representante de la Comisión Federal de
+XIII.- Un representante de los empresarios de la Región Norte del Estado; y
 
-Electricidad.
+XIV.- Por invitación un representante de la Comisión Federal de Electricidad.
 
-Los representantes podrán designar a sus respectivos suplentes.
+Por cada uno de los miembros propietarios se deberá nombrar un suplente.
+
+El Vicepresidente Ejecutivo suplirá las ausencias del Presidente; el suplente del Vicepresidente Ejecutivo, asumirá las funciones de éste cuando aquél haga las veces de Presidente.
 
 ###### Artículo 42.
 
@@ -855,7 +891,9 @@ El Sistema estará integrado por:
 
 I.- Un Presidente que será el Secretario de Desarrollo Económico;
 
-II.- Un Secretario Técnico que será el Coordinador del Sistema Estatal del Empleo y Capacitación para el Trabajo; y
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
+
+II.- Un Secretario Técnico que será el Director del Sistema Estatal de Capacitación Empresarial para el Desarrollo Económico (SECDE);
 
 III.- Los Vocales con derecho a voz y voto necesarios que representen a:
 
@@ -917,7 +955,9 @@ I.- Los rangos de inversión;
 
 II.- Número de empleos generados;
 
-III.- El nivel de remuneración de los empleos a generar;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
+
+III.- El nivel de remuneración de los trabajos decentes a generar;
 
 IV.- La ubicación en regiones que sea estratégico detonar su desarrollo;
 
@@ -925,9 +965,13 @@ V.- Su grado de integración a las cadenas productivas del Estado y su aportaci�
 
 VI.- Inviertan en proyectos resultados de innovación que genere alto valor agregado con enfoque de transferencia;
 
-VII.- Contraten personas adultas mayores y/o personas productivas con capacidades diferentes;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
 
-VIII.- Inviertan en proyectos que contribuyan al mejoramiento y conservación del medio ambiente; y
+VII.- Contraten personas adultas mayores, personas productivas con alguna discapacidad, jóvenes en edad productiva y/o jóvenes en situación de primer empleo;
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
+
+VIII.- Inviertan en proyectos que contribuyan al mejoramiento y conservación del medio ambiente, a través de la generación de empleos verdes y el uso de tecnologías limpias; y
 
 IX.- Requieran apoyos ante situaciones derivadas de contingencias ambientales.
 
@@ -1037,6 +1081,8 @@ V.- Promover la realización de estudios prospectivos y de impacto regional en m
 
 La Comisión Estatal de Competitividad, es el órgano de coordinación y concertación sectorial, responsable del impulso a la competitividad y funge como auxiliar de consulta y comunicación del ejecutivo estatal en las tareas relacionadas con la planeación, control y evaluación de los programas y proyectos relacionados con la competitividad empresarial en los términos que disponga la presente Ley.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2012)</small>
+
 ###### Artículo 78.
 
 La Comisión se integra de la siguiente forma:
@@ -1051,7 +1097,7 @@ IV.- El Titular de la Secretaría Estatal de Planeación y Desarrollo Regional;
 
 V.- El Titular de la Secretaría Estatal de Hacienda;
 
-VI.- El Titular de la Secretaría Estatal de Desarrollo Rural e Indígena
+VI.- El Titular de la Secretaría Estatal de Desarrollo Rural e Indígena;
 
 VII.- El Titular de la Secretaría Estatal de Turismo;
 
@@ -1059,15 +1105,27 @@ VIII.- El Titular de la Secretaría de Educación;
 
 IX.- El Titular de la Secretaría de la Contraloría;
 
-X.- Los Presidentes Municipales;
+X.- El Titular de la Secretaría del Trabajo y Previsión Social del Estado de Quintana Roo;
 
-XI.- Un Representante Empresarial de la Zona Centro- Sur del Estado;
+XI.- El Titular del Consejo Quintanarroense de Ciencia y Tecnología;
 
-XII.- Un Representante Empresarial de la Zona Norte del Estado;
+XII.- Por invitación, un representante de la Delegación Federal de la Secretaría de Economía en el Estado;
 
-XIII.- Un Representante de las Instituciones de Educación Superior de la Zona Centro-Sur del Estado; y
+XIII.- Los Presidentes Municipales;
 
-XIV.- Un Representante de las Instituciones de Educación Superior de la Zona Norte del Estado.
+XIV.- Dos Representantes Empresariales de la Zona Centro- Sur del Estado;
+
+XV.- Dos Representantes Empresariales de la Zona Norte del Estado;
+
+XVI.- Dos Representantes de las Instituciones de Educación Superior de la Zona Centro- Sur del Estado; y
+
+XVII.- Dos Representantes de las Instituciones de Educación Superior de la Zona Norte del Estado.
+
+Por cada uno de los miembros propietarios se deberá nombrar un suplente.
+
+El Secretario Técnico suplirá las ausencias del Presidente; el suplente del Secretario Técnico asumirá las funciones de éste cuando aquél haga las veces de Presidente.
+
+El carácter de miembro de la Comisión de Estatal (sic) de Competitividad, es honorífico, por lo tanto, sus integrantes no tendrán derecho a percibir por ese concepto, remuneración alguna. Su actuación se regirá por los lineamientos establecidos en el Reglamento Interno de la Comisión Estatal de Competitividad, que para tal efecto se emita.
 
 ###### Artículo 79.
 
@@ -1107,7 +1165,9 @@ XI.- Fortalecer la comunicación con los municipios para impulsar proyectos estr
 
 XII.- Promover acciones y recomendaciones tendientes a mantener un desarrollo equilibrado y sustentable;
 
-XIII.- Proponer la entrega de reconocimientos a empresas quintanarroenses que contribuyan al desarrollo y la innovación científica tecnológica, realicen acciones para mejorar el medio ambiente, desarrollen procedimientos para incrementar la competitividad y productividad del capital humano, incorporen adultos mayores y personas con capacidades diferentes a su planta laboral, y participen activamente en el comercio exterior;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
+
+XIII.- Proponer la entrega de reconocimientos a empresas quintanarroenses que contribuyan al desarrollo y la innovación científica tecnológica, realicen acciones para mejorar el medio ambiente, desarrollen procedimientos para incrementar la competitividad y productividad de capital humano, incorporen, con visión de género a jóvenes, adultos mayores y personas con alguna discapacidad a su planta laboral, y participen activamente en el comercio exterior;
 
 XIV.- Establecer comisiones sectoriales para analizar la problemática concreta de algún sector de la economía del Estado, su solución y la forma de promover la inversión y competitividad en el mismo;
 
@@ -1273,7 +1333,7 @@ LA SECRETARIA DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
 ROSARIO ORTIZ YELADAQUI
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 12 DE DICIEMBRE DE 2008.
 
@@ -1294,3 +1354,31 @@ SÉPTIMO.- Los derechos laborales del personal que en virtud de lo dispuesto en 
 OCTAVO.- Hasta en tanto entra en funciones la Secretaría del Trabajo y Previsión Social, los asuntos que con motivo de este Decreto le fueran transferidos por la Secretaría de Gobierno y la Secretaría de Desarrollo Económico, seguirán siendo atendidos por los dependencias que en el ejercicio de sus funciones y atribuciones les correspondan en términos de la Ley Orgánica de la Administración Pública del Estado de Quintana Roo.
 
 NOVENO.- Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición; respecto de las secretarías cuyas funciones se reforman por virtud de este Decreto, se entenderán referidas a la dependencia que asuma tal función.
+
+P.O. 4 DE MAYO DE 2012.
+
+DECRETO No. 113, POR EL QUE SE REFORMAN LOS ARTÍCULOS 1, LOS INCISOS D), E) Y Ñ) DE LA FRACCIÓN II DEL ARTÍCULO 5, 41, FRACCIÓN II DEL ARTÍCULO 63, FRACCIONES III Y VIII DEL ARTÍCULO 67, 78, FRACCIÓN XIII DEL ARTÍCULO 81; Y SE DEROGAN LOS ARTÍCULOS 33 Y 34, TODOS DE LA LEY DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD PARA EL ESTADO DE QUINTANA ROO.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado deberá expedir el Reglamento Interior de la Comisión Estatal de Competitividad de Quintana Roo, en un plazo no mayor de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 4 DE MAYO DE 2012.
+
+DECRETO No. 114, POR EL QUE SE REFORMAN LOS ARTÍCULOS 3, 28 FRACCIÓN V, 31, 32 FRACCIÓN IV, 67 FRACCIÓN VII, Y SE ADICIONA UNA FRACCIÓN V AL ARTICULO 9, TODOS DE LA LEY DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD PARA EL ESTADO DE QUINTANA ROO.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente decreto.
