@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-coordinacion-metropolitana-de-yucatan-63481"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-09-22"
-last_updated: "2008-09-22"
+last_updated: "2012-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "YUC"
 ---
 # REGLAMENTO DE LA COORDINACION METROPOLITANA DE YUCATAN
 
-(NOTA: EL 18 DE AGOSTO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS DÉCIMO OCTAVO, DÉCIMO NOVENO Y VIGÉSIMO, Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 96/2008, DECLARÓ LA INVALIDEZ DEL DECRETO 119 MEDIANTE EL CUAL SE EXPIDIÓ ESTE REGLAMENTO DE FECHA VEINTIDÓS DE SEPTIEMBRE DE DOS MIL OCHO, LA CUAL SURTIÓ EFECTOS EL 18 DE AGOSTO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+REGLAMENTO DE LA COORDINACION METROPOLITANA DE YUCATÁN
 
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA COORDINACIÓN METROPOLITANA DE YUCATÁN, PUBLICADO EN EL D.O. DE 4 DE MAYO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-REGLAMENTO DE LA COORDINACION METROPOLITANA DE YUCATAN
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Diario Oficial del Estado de Yucatán, el lunes 22 de septiembre de 2008.
 
@@ -580,3 +578,11 @@ GOBERNADORA DEL ESTADO DE YUCATÁN
 C. ROLANDO RODRIGO ZAPATA BELLO
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 4 DE MAYO DE 2012.
+
+PRIMERO. Este Reglamento entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+SEGUNDO. A partir de la entrada en vigor de este Decreto, quedará abrogado el Reglamento de la Coordinación Metropolitana de Yucatán, expedido mediante Decreto 119 publicado en el Diario Oficial del Gobierno del Estado de Yucatán, el día veintidós de septiembre de dos mil ocho.
