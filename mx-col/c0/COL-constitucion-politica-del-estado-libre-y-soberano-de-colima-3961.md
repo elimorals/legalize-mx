@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2011-08-30"
+last_updated: "2012-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2012.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -701,9 +701,9 @@ V.- Mantener relaciones políticas con el gobierno federal y con los órganos de
 
 VI.- Suspender, cuando falten a sus deberes, a los empleados nombrados por él y promover conforme a la Ley la responsabilidad consiguiente.
 
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 1954)</small>
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2012)</small>
 
-VII.- Conceder licencias con goce de sueldo o sin él, y aceptar las renuncias de los funcionarios y empleados a que se refieren las fracciones IV y V de este artículo.
+VII. Conceder licencias con goce de sueldo o sin él, y aceptar las renuncias de los funcionarios y empleados a que se refiere la fracción IV de este artículo;
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2000)</small>
 
@@ -2319,7 +2319,7 @@ Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicac
 
 P.O. 18 DE JUNIO DE 1932.
 
-> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ORDENAMIENTO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.</small>
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ORDENAMIENTO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.</small>
 
 P.O. 24 DE SEPTIEMBRE, 1, 8 Y 15 DE OCTUBRE DE 1932.
 
@@ -2932,6 +2932,10 @@ P.O. 20 DE AGOSTO DE 2011.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 30 DE AGOSTO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 5 DE MAYO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
