@@ -4,7 +4,7 @@ identifier: "COL-ley-ambiental-para-el-desarrollo-sustentable-del-estado-de-2561
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-15"
-last_updated: "2012-03-03"
+last_updated: "2012-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2012.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 15 de junio de 2002.
 
@@ -949,7 +949,13 @@ Una vez evaluado el manifiesto de impacto ambiental y dentro del plazo de 30 dí
 
 I. Autorizar la realización de la obra o actividad de que se trate, en los términos solicitados;
 
-II. Autorizar de manera condicionada la obra o actividad de que se trate a la modificación del proyecto o al establecimiento de las medidas adicionales de prevención y mitigación, a fin de que se eviten, atenúen o compensen los impactos y riesgos ambientales adversos susceptibles de ser producidos en la construcción, operación normal y en caso de accidente. Cuando se trate de autorización condicionada la autoridad ambiental competente señalará los requerimientos que deban observarse para la ejecución de la obra o la realización de la actividad prevista; o
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2012)</small>
+
+II. Autorizar de manera condicionada la obra o actividad de que se trate a la modificación del proyecto o al establecimiento de las medidas de prevención, mitigación y restauración, a fin de que se eviten, atenúen o compensen los impactos y riesgos ambientales adversos susceptibles de ser producidos en la construcción, operación normal y en caso de accidente.
+
+Cuando se trate de autorización condicionada, la autoridad ambiental competente señalará los requerimientos que deban observarse, previamente, durante y posteriormente a la ejecución de la obra o, la realización de la actividad prevista.
+
+En este tipo de autorización que otorgue la autoridad ambiental competente, deberá determinar las actividades previas de compensación al impacto ambiental, relativas a la reforestación o trasplantación de árboles, entre otras, en los términos y condiciones que lo determine, o bien, establecer el otorgamiento de seguro o fianza bastante para garantizar su cumplimiento, en términos del último párrafo del presente artículo y, de no cumplir con ninguna de ellas, se estará sujeto a las sanciones que establece esta Ley; o
 
 III. Negar la autorización solicitada, cuando:
 
@@ -959,7 +965,13 @@ b) La obra o actividad de que se trate pueda afectar a una o más especies de fl
 
 c) Cuando exista falsedad en la información proporcionada por los promoventes, respecto de los impactos ambientales de la obra o actividad de que se trate.
 
-La resolución de la autoridad ambiental competente sólo se referirá a los aspectos ambientales de las obras y actividades de que se trate. Dicha autoridad podrá exigir el otorgamiento de seguro o garantías respecto del cumplimiento de las condiciones establecidas en la autorización, en aquellos casos expresamente señalados en el reglamento y cuando durante la realización de las obras puedan producir daños graves a los ecosistemas.
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2012)</small>
+
+La resolución de la autoridad ambiental competente sólo se referirá a los aspectos y consecuencias ambientales que las obras y actividades de que se trate, generen.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE MAYO DE 2012)</small>
+
+Cuando se trate del supuesto contenido en la fracción II de este artículo o que durante la realización de las obras puedan producirse daños graves a los ecosistemas, la autoridad ambiental deberá exigir, indistintamente, el otorgamiento de seguro o garantía respecto del cumplimiento de las condiciones que se establezcan expresamente en la autorización y los señalados en el Reglamento.
 
 ###### ARTÍCULO 59.
 
@@ -986,6 +998,14 @@ V. La autoridad ambiental competente agregará las observaciones presentadas por
 La Secretaría elaborará normas técnicas ambientales estatales y las propondrá al Gobernador para su expedición, las cuales tendrán por objeto establecer:
 
 I. Los requisitos, especificaciones, condiciones, parámetros y límites permisibles en el desarrollo de una actividad humana que pudiera afectar la preservación del ambiente, la protección ecológica, la salud humana o provocar daños al ambiente y los recursos naturales;
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2012)</small>
+
+En este caso, se deberá establecer un sistema compensatorio que garantice el resarcimiento del deterioro ocasionado por cualquier obra o actividad, en un elemento natural distinto al afectado cuando no se pueda restablecer la situación anterior en el mismo elemento.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2012)</small>
+
+Asimismo, se deberán establecer los lineamientos y bases bajo las cuales operará el sistema compensatorio, mismo que deberá observar lo dispuesto por el Ordenamiento Ecológico y Territorial del Estado y los Programas de Desarrollo Urbano, para que con base en ello la autoridad ambiental competente determine el modo, tiempo, lugar y forma en que se realizarán las acciones compensatorias al medio ambiente;
 
 II. Los requisitos, especificaciones, condiciones, parámetros y límites permisibles para el diseño, construcción, operación y mantenimiento de los sistemas de limpia y de la reutilización y reciclaje de residuos sólidos;
 
@@ -1313,7 +1333,9 @@ I. El desarrollo de programas de inspección y vigilancia;
 
 II. El ejercicio de las acciones judiciales y administrativas que correspondan en los casos de invasión de áreas de valor ambiental y áreas naturales protegidas de su competencia;
 
-III. La elaboración de los programas de manejo técnico de forestación, reforestación y restauración con especies nativas y adecuadas a cada ecosistema; y
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2012)</small>
+
+III. La elaboración de los programas de manejo técnico de forestación, reforestación, trasplantación y restauración con especies nativas y adecuadas a cada ecosistema; y
 
 IV. La promoción del uso de controles biológicos de plagas y enfermedades conforme a las disposiciones jurídicas aplicables.
 
@@ -1420,6 +1442,8 @@ Los programas de manejo de las áreas de valor ambiental que elabore la Secretar
 Las prohibiciones que establece la presente Ley en relación con las áreas naturales protegidas, deberán observarse para las áreas de valor ambiental, además de la prohibición para el aprovechamiento o extracción de recursos naturales, salvo en aquellos casos que se determinen en el reglamento respectivo, observando las disposiciones de la presente Ley.
 
 ### CAPÍTULO V. FLORA Y FAUNA
+
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2012)</small>
 
 ###### ARTÍCULO 99.
 
@@ -1633,7 +1657,7 @@ Los notarios y cualesquiera otros fedatarios públicos sólo podrán autorizar l
 
 ###### ARTÍCULO 118.
 
-El uso o aprovechamiento de la flora y fauna se sujetará a los criterios de sustentabilidad que permitan garantizar la subsistencia de especies o subespecies, sin ponerlas en riesgo de extinción, y su regeneración en la cantidad y calidad necesarias para los ecosistemas de manera que no se altere el equilibrio ecológico y las cadenas naturales. Los programas y actividades de forestación, reforestación, restauración o aprovechamiento de flora y fauna silvestres, procurarán la conservación y el desarrollo de las especies endémicas del Estado.
+El uso o aprovechamiento de la flora y fauna se sujetará a los criterios de sustentabilidad que permitan garantizar la subsistencia de especies o subespecies, sin ponerlas en riesgo de extinción, y su regeneración en la cantidad y calidad necesarias para los ecosistemas de manera que no se altere el equilibrio ecológico y las cadenas naturales. Los programas y actividades de forestación, reforestación, restauración, trasplantación o aprovechamiento de flora y fauna silvestres, procurarán la conservación y el desarrollo de las especies endémicas del Estado.
 
 ###### ARTÍCULO 119.
 
@@ -2834,5 +2858,9 @@ SEXTO.- El Ejecutivo del Estado expedirá el Reglamento de la presente Ley a má
 SÉPTIMO.- LA Secretaría, deberá expedir a más tardar 90 días después de la publicación, los programas que esta Ley establece.
 
 P.O. 3 DE MARZO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 5 DE MAYO DE 2012
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
