@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-seguridad-publica-del-estado-de-zacatecas-70798"
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-10"
-last_updated: "2010-07-10"
+last_updated: "2012-05-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY DE SEGURIDAD PUBLICA DEL ESTADO DE ZACATECAS
 
-LEY DE SEGURIDAD PUBLICA DEL ESTADO DE ZACATECAS
+LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE ZACATECAS, PUBLICADA EN EL P.O. 5 DE MAYO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de octubre de 2009.
 
@@ -900,3 +902,23 @@ Tercero.- El Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública co
 Cuarto.- El Instituto de Formación profesional contará con un término de 60 días naturales para la expedición de su Reglamento Interno.
 
 Quinto.- Se derogan las disposiciones que se opongan al presente instrumento.
+
+P.O. 5 DE MAYO DE 2012.
+
+Primero.- La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se abroga Ley de Seguridad Pública del Estado de Zacatecas, publicada en el Suplemento 2 al número 81 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 10 de octubre del año 2009.
+
+Tercero.- El Consejo Estatal de Seguridad Pública y el Secretariado Ejecutivo, deberán adecuar su organización y funcionamiento de conformidad con lo establecido en la presente Ley, a más tardar 60 días naturales posteriores a su entrada en vigor.
+
+Cuarto.- El Ejecutivo del Estado, contará con el plazo de 90 días naturales a partir de la entrada en vigor de esta Ley, para conformar los Sistemas y Centros a que la misma se refiere.
+
+Quinto.- El Ejecutivo del Estado, deberá expedir los Reglamentos de esta Ley, en un plazo no mayor de 120 días naturales, contados a partir de la entrada en vigor de este Decreto.
+
+Sexto.- Los Ayuntamientos del Estado, deberán homologar sus bandos y reglamentos municipales en materia de seguridad pública de conformidad con esta Ley, en un plazo no mayor de 120 días naturales contados a partir de la entrada en vigor de este Decreto.
+
+Séptimo.- En los procedimientos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de esta Ley.
+
+Octavo.- Los recursos humanos, materiales y financieros asignados, en materia de prevención del delito, a la Secretaría de Seguridad Pública, pasarán a la Dirección de Prevención del Delito y Participación Ciudadana dependiente del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
+
+Noveno.- Se derogan las disposiciones que contravengan el presente Decreto.
