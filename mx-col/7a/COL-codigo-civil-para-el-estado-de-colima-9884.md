@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2011-12-10"
+last_updated: "2012-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2012.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -2607,7 +2607,7 @@ ART. 409 C.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
 
 ART. 409 D.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 18 DE SEPTIEMBRE DE 1999)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 18 DE SEPTIEMBRE DE 1999)</small>
 
 #### SECCIÓN TERCERA. De la adopción plena
 
@@ -2691,7 +2691,7 @@ ART. 410 L.- La adopción será decretada cuando presente reales ventajas para e
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
 
-ART. 410 LL.- La adopción plena es irrevocable. No puede terminar por acuerdo entre las partes, pero puede demandarse la pérdida de la patria potestad por las mismas causales que en la filiación biológica, o pedirse su nulidad cuando los padres adoptivos hayan ocultado de mala fe que el adoptado fue víctima de cualquier delito contra la libertad personal, y que por consecuencia no había sido abandonado.
+ART. 410 LL.- La adopción plena es irrevocable. No puede terminar por acuerdo entre las partes, pero puede demandarse la pérdida de la patria potestad por las mismas causales que en !a (sic) filiación biológica, o pedirse su nulidad cuando los padres adoptivos hayan ocultado de mala fe que el adoptado fue víctima de cualquier delito contra la libertad personal, y que por consecuencia no había sido abandonado.
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
 
@@ -2727,7 +2727,7 @@ III En los demás casos previstos por la Ley.
 
 Los antecedentes serán guardados en el secreto del archivo físico y en la base de datos y cancelada el acta de nacimiento original.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 18 DE SEPTIEMBRE DE 1999)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 18 DE SEPTIEMBRE DE 1999)</small>
 
 #### SECCIÓN CUARTA. De la adopción internacional
 
@@ -5369,9 +5369,9 @@ III.- Al cónyuge supérstite cuando esté impedido de trabajar y no tenga biene
 
 IV.- A los ascendientes;
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 1975)</small>
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2012)</small>
 
-V.- A la persona con quien el testador vivió como si fuera su cónyuge durante los 5 años que precedieron inmediatamente a su muerte o con quien tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato y que el superviviente esté impedido de trabajar y no tenga bienes suficientes. Este derecho sólo subsistirá mientras la persona de que se trate no contraiga nupcias y observe buena conducta. Si fueren varias las personas con quien el testador vivió como si fueran su cónyuge, ninguna de ellas tendrá derecho a alimentos;
+V.- A la persona con quien el testador vivió como si fuera su cónyuge durante los cuatro años que precedieron inmediatamente a su muerte o con quien tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato y que el superviviente esté impedido de trabajar y no tenga bienes suficientes. Este derecho sólo subsistirá mientras la persona de que se trate no contraiga nupcias y observe buena conducta. Si fueren varias las personas con quien el testador vivió como si fueran su cónyuge, ninguna de ellas tendrá derecho a alimentos;
 
 VI.- A los hermanos y demás parientes colaterales dentro del cuarto grado, si están incapacitados o mientras que no cumplan dieciocho años, si no tienen bienes para subvenir a sus necesidades.
 
@@ -6113,9 +6113,9 @@ Al aplicar las disposiciones anteriores se tendrá en cuenta lo que ordena el ca
 
 ### CAPITULO VI. De la sucesión de la concubina
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MAYO DE 2012)</small>
 
-ART. 1526.- La mujer o el hombre con quien el autor de la herencia vivió como si fuera su esposa o esposo en calidad de concubinos durante los cinco años que precedieron inmediatamente a su muerte o con quien tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato, tiene derecho a heredar conforme a las reglas siguientes:
+ART. 1526.- La mujer o el hombre con quien el autor de la herencia vivió como si fuera su esposa o esposo en calidad de concubinos durante los cuatro años que precedieron inmediatamente a su muerte o con quien tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato, tiene derecho a heredar conforme a las reglas siguientes:
 
 I.- Si la concubina concurre con sus hijos que lo sean también del autor de la herencia, se observará lo dispuesto en los artículos 1,515 y 1,516;
 
@@ -11136,5 +11136,9 @@ P.O. 29 DE OCTUBRE DE 2011.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 10 DE DICIEMBRE DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 5 DE MAYO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
