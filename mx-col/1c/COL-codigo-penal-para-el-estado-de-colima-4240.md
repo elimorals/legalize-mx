@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2012-02-18"
+last_updated: "2012-05-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -109,7 +109,7 @@ Cuando el Agente lleve a cabo una conducta idónea para producir un resultado, �
 
 Responde también del resultado típico producido, el que omite impedirlo, si podía hacerlo de acuerdo con las circunstancias, y si debía jurídicamente evitarlo.
 
-(REFORMADO PRIMER PARRAFO, P.O. 8 DE OCTUBRE DE 2011) (F. DE E., 15 DE OCTUBRE DE 2011)
+(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2011) (F. DE E., 15 DE OCTUBRE DE 2011)
 
 ###### ARTÍCULO 10.
 
@@ -875,9 +875,13 @@ La prescripción es la pérdida de la facultad del ejercicio de la acción perse
 
 Los términos para la prescripción de la acción persecutoria se contarán desde que se cometió el delito si fuere instantáneo, desde que cesó si fuere permanente o desde el día en que se hubiese realizado el último acto de ejecución si fuere continuado o si se tratare de tentativa.
 
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 86.
 
-Para la prescripción de la acción persecutoria se tomará como base el término medio aritmético de la sanción corporal, pero en ningún caso bajará de tres años.
+Para la prescripción de la acción persecutoria se tomará como base el término medio aritmético de la pena de prisión, pero en ningún caso bajará de tres años.
+
+El término para que opere la prescripción de la acción persecutoria se incrementará hasta la pena máxima de prisión que establezca el delito de que se trate, respecto de quién se encuentre fuera del territorio nacional, si por dicha circunstancia no es posible integrar una averiguación previa o concluir un proceso.
 
 ###### ARTICULO 87.
 
@@ -895,9 +899,13 @@ En caso de concurso real, la acción persecutoria prescribirá separadamente en 
 
 Los términos para la prescripción de las sanciones principiarán a correr desde el día siguiente a aquél en que el sentenciado se sustraiga a la acción de la justicia, si fuesen privativas de libertad, y si no lo son, desde la fecha en que cause ejecutoria la sentencia.
 
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 90.
 
-La sanción privativa de libertad prescribirá en un lapso igual al fijado en la condena, pero no podrá ser inferior a tres años ni superior a quince.
+La pena de prisión prescribirá en un lapso igual al fijado en la condena, pero no podrá ser inferior a tres años, ni superior a quince, salvo lo dispuesto en el párrafo siguiente de este artículo.
+
+El término para que opere la prescripción de la pena de prisión se incrementará hasta la pena máxima de prisión que establezca el delito de que se trate, respecto de quién se encuentre fuera del territorio nacional, si por dicha circunstancia no es posible ejecutar tal pena.
 
 ###### ARTICULO 91.
 
@@ -2167,7 +2175,7 @@ Al responsable de Homicidio Calificado, se le impondrán de treinta y cinco a ci
 
 Al que prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, adoptante o adoptado, sabiendo el autor esa relación, o a quien es o fue antes del hecho cónyuge, concubina, concubinario o pareja del homicida, se le impondrán de treinta y cinco a cincuenta años de prisión.
 
-(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)(F. DE E., P.O. 18 DE ENERO DE 2003)
+(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002) (F. DE E., P.O. 18 DE ENERO DE 2003)
 
 ###### ARTICULO 172.
 
@@ -2639,7 +2647,7 @@ VI.- Que en el secuestro intervengan dos o más personas;
 
 VII.- Que la víctima sea menor de edad, mujer embarazada, o que esté dentro de los seis meses posteriores al parto, o persona mayor de sesenta años, o no tenga capacidad para comprender el significado del hecho, o quien tenga alguna discapacidad física, o que por cualquier circunstancia esté en situación de inferioridad física o mental respecto del agente;
 
-(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2002)(F. DE E., P.O. 18 DE ENERO DE 2003)
+(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2002) (F. DE E., P.O. 18 DE ENERO DE 2003)
 
 VIII.- Entre el activo y el pasivo exista vínculo de parentesco en cualquier línea hasta el cuarto grado, amistad, gratitud, trabajo o cualquier otro vínculo que produzca confianza en el pasivo;
 
@@ -3882,3 +3890,7 @@ P.O. 4 DE FEBRERO DE 2012.
 P.O. 18 DE FEBRERO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 5 DE MAYO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
