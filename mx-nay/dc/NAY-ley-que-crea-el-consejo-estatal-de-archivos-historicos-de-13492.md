@@ -4,7 +4,7 @@ identifier: "NAY-ley-que-crea-el-consejo-estatal-de-archivos-historicos-de-13492
 country: "mx"
 rank: "ley"
 publication_date: "1956-02-29"
-last_updated: "1956-02-29"
+last_updated: "2012-05-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 LEY QUE CREA EL CONSEJO ESTATAL DE ARCHIVOS HISTÓRICOS DE NAYARIT
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE ARCHIVOS DEL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 5 DE MAYO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el miércoles 29 de febrero de 1956.
 
@@ -130,3 +132,15 @@ JOSE LIMON GUZMAN.- Rúbrica.
 El Srio. Gral. de Gobierno,
 
 LIC. MIGUEL DURAN PEREZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE MAYO DE 2012.
+
+Artículo Primero.- La presente ley entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- A la entrada en vigor de la presente ley, se abrogan la Ley que crea el Consejo Estatal de Archivos Históricos de Nayarit y la Ley de Protección y Conservación de Archivos del Estado de Nayarit.
+
+Artículo Tercero.- El titular del Poder Ejecutivo Estatal, deberá emitir el reglamento de la presente Ley dentro de los ciento veinte días siguientes a su entrada en vigor.
+
+Artículo Cuarto.- El Consejo y los Comités Técnicos deberán ser instalados a más tardar ciento ochenta días después de la entrada en vigor de la presente Ley.
