@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-3379"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-08"
-last_updated: "2010-07-23"
+last_updated: "2012-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el martes 8 de enero de 1974.
 
@@ -2839,11 +2839,11 @@ IV.- Cuando las lesiones sólo fueren mortales por su número y no se pueda dete
 
 ###### Art. 275.
 
-Se impondrán de tres días a tres años de prisión al que, sorprendiendo a su cónyuge en el acto carnal o próximo a su consumación, mate o lesione a cualquiera de los culpables, o a ambos, salvo el caso de que el matador haya contribuido a la corrupción de su cónyuge. En este último caso se impondrán al homicida de cinco a diez años de prisión.
+(DEROGADO, P.O. 7 DE MAYO DE 2012)
 
 ###### Art. 276.
 
-Se impondrán de tres días a tres años de prisión, al ascendiente que mate o lesione al corruptor del descendiente que esté bajo su potestad, si lo hiciere en el momento de hallarlos en el acto carnal o en uno próximo a él, si no hubiere procurado la corrupción de su descendiente con el varón con quien lo sorprenda, ni con otro.
+(DEROGADO, P.O. 7 DE MAYO DE 2012)
 
 > <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 1994)</small>
 
@@ -2901,7 +2901,7 @@ Al autor de un homicidio calificado se le impondrán de veinte a cuarenta años 
 
 ###### Art. 286.
 
-Los casos punibles de homicidio y lesiones de que hablan los artículos 275 y 276 no se castigarán como calificados sino cuando se ejecuten con premeditación.
+(DEROGADO, P.O. 7 DE MAYO DE 2012)
 
 ###### Art. 287.
 
@@ -4080,3 +4080,7 @@ CUARTO.- La nueva Ley de Ejecución de Sanciones y Medidas de Seguridad del Esta
 Al entrar en vigor la Nueva Ley de Ejecución en cita, quedarán abrogadas la Ley de Ejecución de Sanciones y Penas Privativas de la Libertad en el Estado de Campeche del 11 de junio de 1999, y la Ley que establece las normas mínimas sobre readaptación social de sentenciados en el Estado de Campeche del 8 de enero de 1974.
 
 QUINTO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido de este Decreto.
+
+P.O. 7 DE MAYO DE 2012.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
