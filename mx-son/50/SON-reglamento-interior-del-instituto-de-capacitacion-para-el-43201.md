@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-instituto-de-capacitacion-para-el-43201
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-27"
-last_updated: "2005-01-27"
+last_updated: "2012-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACION PARA EL TRABAJO DEL ESTADO DE SONORA
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACION PARA EL TRABAJO DEL ESTADO DE SONORA
+REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE SONORA, PUBLICADO EN EL B.O. DE 7 DE MAYO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 27 de enero de 2005.
 
@@ -574,3 +576,19 @@ Se abroga el Reglamento Interior del Instituto de Capacitación para el Trabajo,
 Dado en la ciudad de Hermosillo, Sonora, a los 30 días del mes de noviembre de dos mil cuatro.
 
 (RUBRICA) POR LA JUNTA DIRECTIVA MTRO. HORACIO SORIA SALAZAR, PRESIDENTE DE LA H. JUNTA DIRECTIVA DEL ICATSON; LIC. ENRIQUE CARRIÓN CONTRERAS, DIRECTOR GENERAL DEL ICATSON.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 7 DE MAYO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Instituto de Capacitación para el Trabajo, publicado en el Boletín Oficial del Gobierno del Estado del día 27 de enero de 2005.
+
+###### ARTÍCULO TERCERO.
+
+En la primera reunión de la Junta Directiva, posterior a 60 días después de entrar en vigencia el presente Reglamento Interior, se someterá a consideración de sus integrantes la autorización del Reglamento para la organización y funcionamiento del Comité Técnico Consultivo de Vinculación y del Patronato del Instituto.
