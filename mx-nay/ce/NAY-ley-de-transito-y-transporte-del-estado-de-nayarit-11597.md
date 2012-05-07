@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-transito-y-transporte-del-estado-de-nayarit-11597"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-17"
-last_updated: "2011-08-13"
+last_updated: "2012-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11597&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE NAYARIT
 
-LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE NAYARIT
+LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2012.
 
 Ley Publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 17 de diciembre de 1997.
 
@@ -659,9 +659,13 @@ La Dirección establecerá programas y expedirá las disposiciones a que deberá
 
 Los vehículos con huellas de accidentes de tránsito no podrán circular, salvo autorización documentada por la Dirección.
 
-###### ARTICULO 60.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Quienes oferten compra y venta de vehículos usados, recabarán certificación pericial de procedencia legítima que en relación al automotor deberá emitir el Consejo Estatal de Seguridad Pública, constatado por la Dirección y la Procuraduría General de Justicia. En caso contrario, dichas personas serán corresponsables de los ilícitos que en su caso llegaren a derivarse de las operaciones fraudulentas.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2012)</small>
+
+###### Artículo 60.
+
+Quienes oferten en compra y venta, adquieran por enajenación o transmitan de cualquier forma vehículos usados, recabarán certificado pericial de procedencia legítima que en relación al automotor deberá emitir la Dirección o la Procuraduría General de Justicia. En caso contrario, dichas personas serán corresponsables de los ilícitos que en su caso llegaran a derivarse, en términos de la legislación penal aplicable.
 
 ### CAPITULO IV. DE LOS CICLISTAS Y MOTOCICLISTAS
 
@@ -1979,7 +1983,7 @@ El Secretario General de Gobierno.
 
 Lic. Sigfrido de la Torre Miramontes.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 24 DE OCTUBRE DE 2001.
 
@@ -2044,3 +2048,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Titular del Poder Ejecutivo y los Gobiernos Municipales del Estado deberán ajustar sus reglamentos en lo referente a la materia de la presente iniciativa en un término máximo de 90 días naturales, contados a partir de su publicación.
+
+P.O. 7 DE MAYO DE 2012.
+
+Artículo Primero.- El presente decreto entrará en vigor a los noventa días siguientes de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- La Dirección Estatal de Tránsito y Transporte y la Secretaría de Seguridad Pública a través de la Dirección de Prevención del Delito, implementarán programas de difusión de la reforma contenida en el presente Decreto, a partir de su publicación.
