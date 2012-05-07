@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-la-ley-de-desarrollo-urbano-regional-y-55727"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-05-02"
-last_updated: "2007-10-19"
+last_updated: "2012-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55727&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 REGLAMENTO DE LA LEY DE DESARROLLO URBANO, REGIONAL Y VIVIENDA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE OCTUBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY NÚMERO 241 DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LLAVE (SIC), PUBLICADO EN LA G.O. DE 7 DE MAYO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO.
 
 Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 2 de mayo de 2007.
 
@@ -4160,3 +4162,19 @@ G.O. 19 DE OCTUBRE DE 2007.
 Artículo primero. El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial del estado.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 7 DE MAYO DE 2012.
+
+Artículo Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado y será de observancia obligatoria para todos los actores urbanos, así como para las dependencias y entidades del Gobierno Estatal y Municipal.
+
+Artículo Segundo. Se abroga el Reglamento de la Ley de Desarrollo Urbano, Regional y Vivienda para el Estado de Veracruz, de fecha dos de mayo de dos mil siete, así como todas aquellas disposiciones que contravengan al presente Reglamento.
+
+Artículo Tercero. Se dispone la creación del Registro Estatal de Información Regional y Urbana dentro de un plazo máximo de 90 días posteriores a la entrada en vigor de este Reglamento.
+
+Artículo Cuarto. Los Programas de Desarrollo Urbano y Ordenamiento Territorial que se encuentren en proceso de formulación, actualización o modificación en la fecha de publicación de este Reglamento, se apegarán a las disposiciones que para el efecto establezca la Secretaría; mientras que para su aprobación se deberán ajustar al procedimiento aquí señalado.
+
+Artículo Quinto. Los Programas de Desarrollo Urbano y Ordenamiento Territorial que se encuentren en proceso de aprobación en la fecha de publicación de este Reglamento, se ajustarán a lo aquí dispuesto a partir del inicio de operaciones del Registro Estatal de Información Regional y Urbana.
+
+Artículo Sexto. Todos los trámites o acciones relacionados con autorizaciones de fusiones, subdivisiones, Lotificaciones, Relotificaciones y fraccionamiento de terrenos, así como las constancias de zonificación y licencias de uso del suelo que se encuentren en proceso de autorización en la fecha de publicación de este ordenamiento, se resolverán conforme al mismo en todo aquello que beneficie a los solicitantes.
+
+Artículo Séptimo. Las acciones autorizadas con anterioridad a la entrada en vigor del Presente Reglamento, se determinarán conforme a las autorizaciones que las amparan.
