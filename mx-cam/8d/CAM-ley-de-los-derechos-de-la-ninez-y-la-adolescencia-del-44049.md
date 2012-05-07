@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-los-derechos-de-la-ninez-y-la-adolescencia-del-44049"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-05"
-last_updated: "2010-06-18"
+last_updated: "2012-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE LOS DERECHOS DE LA NIÑEZ Y LA ADOLESCENCIA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2012.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el lunes 5 de julio de 2004.
 
@@ -105,11 +105,13 @@ El Gobierno Estatal, los Municipios y cualquier Entidad Pública, dispondrán lo
 
 Las autoridades estatales y municipales en el ámbito de sus respectivas atribuciones, impulsarán la prestación de servicios de guardería, así como auxilio y apoyo a los ascendientes o tutores responsables que trabajen.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2012)</small>
+
 ###### ARTÍCULO 6.
 
 Corresponden a la madre y al padre, los deberes enunciados en el artículo anterior y consecuentemente, dentro de la familia y en relación con las hijas e hijos, tendrán autoridad y consideraciones iguales.
 
-El hecho de que los padres no vivan en el mismo hogar, no impide que cumplan con las obligaciones que les impone esta ley.
+El hecho de que los padres no vivan en el mismo hogar, indistintamente de su estado civil, no los exime del cumplimiento de las obligaciones que les impone esta ley.
 
 ###### ARTÍCULO 7.
 
@@ -197,9 +199,11 @@ El Estado velará porque sólo sean separados de sus padres y de sus madres medi
 
 Se establecerán programas de apoyo a las familias para que esa falta de recursos no sea causa de separación.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2012)</small>
+
 ###### ARTÍCULO 14.
 
-Las autoridades establecerán las normas y los mecanismos necesarios a fin de que, siempre que una niña, un niño, una o un adolescente se vean privados de su familia de origen, se procure su reencuentro con ella. Asimismo, se tendrá como prioritaria la necesidad de que niñas, niños y adolescentes, cuyos padres estén separados tengan derecho a convivir o mantener relaciones personales y trato directo con ambos, salvo que de conformidad con la ley, la autoridad determine que ello es contrario al interés superior del niño.
+Las autoridades establecerán las normas y los mecanismos necesarios a fin de que, siempre que una niña, un niño, una o un adolescente se vean privados de su familia de origen, se procure su reencuentro con ella. Asimismo, se tendrá como prioritaria la necesidad de que niñas, niños y adolescentes, cuyos padres estén separados tengan derecho a convivir o mantener relaciones personales y trato directo con ambos, salvaguardando todos sus derechos, salvo que de conformidad con la ley, la autoridad determine que ello es contrario al interés superior del niño.
 
 ###### ARTÍCULO 15.
 
@@ -620,6 +624,12 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C.P. JORGE CARLOS HURTADO VALDEZ.- EL S
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 18 DE JUNIO DE 2010.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 7 DE MAYO DE 2012.
 
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
