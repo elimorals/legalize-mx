@@ -4,7 +4,7 @@ identifier: "COA-ley-reglamentaria-del-registro-publico-del-estado-de-16774"
 country: "mx"
 rank: "ley"
 publication_date: "1999-11-23"
-last_updated: "2012-02-24"
+last_updated: "2012-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY REGLAMENTARIA DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 23 de noviembre de 1999.
 
@@ -39,13 +39,11 @@ LEY REGLAMENTARIA DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 1.
 
-El Registro Público del Estado de Coahuila es una institución jurídica unitaria, dependiente del Poder Ejecutivo, que podrá administrarlo directamente o a través del organismo a que se le asigne esta función, que tiene por objeto regular la inscripción de los actos relativos a la constitución, transmisión, modificación, gravamen y extinción del derecho de propiedad y de los demás derechos reales sobre los bienes, de los actos relativos a la constitución, modificación y extinción de las personas morales; así como de los otros actos, documentos, contratos, resoluciones y diligencias judiciales a que el Código Civil y esta ley se refieren y las consecuencias inherentes a dichas inscripciones. Los efectos del Registro son declarativos y no constitutivos.
+El Registro Público del Estado de Coahuila es una institución jurídica unitaria, dependiente del poder ejecutivo, que tiene por objeto regular la inscripción de los actos relativos a la constitución, transmisión, modificación, gravamen y extinción del derecho de propiedad y de los demás derechos reales sobre los bienes, de los actos relativos a la constitución, modificación y extinción de las personas morales; así como de los otros actos, documentos, contratos, resoluciones y diligencias judiciales a que el Código Civil para el Estado de Coahuila de Zaragoza y esta ley se refieren y las consecuencias inherentes a dichas inscripciones. Los efectos del registro son declarativos y no constitutivos.
 
 Para los efectos de la presente ley cuando en la misma se aluda al Registro se entenderá por éste al Registro Público.
 
@@ -93,49 +91,125 @@ El registro de los actos mercantiles se llevará a efecto en los términos previ
 
 ### CAPITULO II. DE LA ORGANIZACION DEL REGISTRO PUBLICO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 11.
 
-(DEROGADO, P.O. 18 DE JUNIO DE 2010)
+La Dirección General del Registro Público es la Unidad de la Administración Pública del Estado a la que corresponde la organización, dirección y administración de las oficinas del registro público establecidas en la entidad y tendrá su sede en la capital del Estado. Contará con la organización y estructura orgánica que para el efecto establezca su respectivo manual de organización.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 12.
 
-Para efectos del servicio el Registro Público se contará con las oficinas necesarias en los municipios y con la circunscripción territorial que mediante disposición reglamentaria le asigne el Ejecutivo.
+Para efectos del servicio, el Registro Público estará integrado por ocho oficinas con residencia, respectivamente, en las ciudades de Saltillo, Torreón, Monclova, Piedras Negras, Sabinas, Acuña, Parras y San Pedro, las cuales tendrán las siguientes circunscripciones territoriales:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+I. Oficina de Saltillo: que comprende el Municipio del mismo nombre y los de General Cepeda, Ramos Arizpe y Arteaga;
+
+II. Oficina de Torreón: que comprende el Municipio del mismo nombre y los de Matamoros y Viesca;
+
+III. Oficina de Monclova: que comprende el Municipio del mismo nombre y los de Abasolo, Escobedo, Candela, Castaños, Cuatro Ciénegas, Frontera, Lamadrid, Nadadores, Ocampo, San Buenaventura, Sacramento y Sierra Mojada;
+
+IV. Oficina de Piedras Negras: que comprende el Municipio del mismo nombre y los de Allende, Guerrero, Hidalgo, Morelos, Nava y Villa Unión;
+
+V. Oficina de Sabinas: que comprende el Municipio del mismo nombre los de Juárez, Progreso, Múzquiz y San Juan de Sabinas;
+
+VI. Oficina de Acuña: que comprende el Municipio del mismo nombre y los de Jiménez y Zaragoza;
+
+VII. Oficina de Parras: que comprende el Municipio (sic) mismo nombre, y
+
+VIII. Oficina de San Pedro: que comprende el Municipio del mismo nombre y el de Francisco I. Madero.
+
+En las oficinas habrá el número de registradores que requieran las necesidades del servicio y la dirección general determinará el volumen de asuntos que conocerá cada registrador.
+
+El Ejecutivo del Estado queda facultado, conforme a las condiciones demográficas y económicas que se presenten, para crear otras circunscripciones que queden a cargo de los registradores respectivos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 13.
 
-(DEROGADO, P.O. 18 DE JUNIO DE 2010)
+El Registro Público estará a cargo de un Director General a quien auxiliarán los empleados que determine el Presupuesto de Egresos del Estado. El personal de cada oficina del Registro Público constará de un Director Registrador, registradores y demás servidores públicos que establezca el respectivo presupuesto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 14.
 
-(DEROGADO, P.O. 18 DE JUNIO DE 2010)
+El Director General es responsable inmediato y directo del normal funcionamiento de la institución del Registro Público y es, además, el conducto entre el Ejecutivo del Estado y los registradores de las oficinas en todos aquellos asuntos relacionados con la organización y funcionamiento del registro.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 15.
 
-(DEROGADO, P.O. 18 DE JUNIO DE 2010)
+Son atribuciones del Director General:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+I. Ser depositario de la fe pública registral, para cuyo pleno ejercicio se auxiliará de los registradores y demás servidores públicos de la institución;
+
+II. Participar en las actividades tendientes a la inscripción de inmuebles no incorporados al sistema registral e instrumentar los procedimientos que para ese fin señalen las leyes;
+
+III. Realizar visitas periódicas a las oficinas del registro a fin de constatar que marchan con arreglo a la ley, en caso contrario informar sin demora al Ejecutivo del Estado las irregularidades advertidas, proporcionando para ello los elementos de prueba.
+
+IV. Concentrar mensualmente todos los datos relativos al movimiento registral de cada una de las oficinas y remitirlos al Ejecutivo del Estado;
+
+V. Resolver los recursos de inconformidad que se interpongan en contra de los actos y resoluciones de los registradores;
+
+VI. Informar a los registradores, mediante circulares numeradas en forma progresiva, las determinaciones del Ejecutivo del Estado o del propio Director General respecto de la institución;
+
+VII. Permitir, con las limitaciones que determinen las disposiciones aplicables, la consulta de los asientos registrales y de los documentos relacionados que se encuentren en los archivos del registro público.
+
+VIII. Remitir, con la oportunidad debida, a las oficinas del registro público el equipo y material de trabajo necesarios para el cumplimiento de sus funciones;
+
+IX. Formular un inventario general de los libros que conforme a esta ley se lleven, mobiliario y enseres de las oficinas del Registro Público al asumir el cargo y, en el mes de enero de cada año, remitirlo al Ejecutivo del Estado;
+
+X. Expedir las certificaciones y constancias que le sean solicitadas;
+
+XI. Representar a la institución en aquellos casos controvertidos en la misma sea parte, auxiliándose para tal efecto, en los servidores públicos adscritos al área jurídica;
+
+XII. Llevar el registro de los sellos y firmas de los fedatarios públicos que determinen los ordenamientos legales correspondientes, y
+
+XIII. Las demás que le encomienden esta ley, el Ejecutivo del Estado y otras disposiciones aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 16.
 
-(DEROGADO, P.O. 18 DE JUNIO DE 2010)
+El Director Registrador es el servidor público que tiene a su cargo el examen y calificación de los documentos registrables, así como la autorización de los asientos en que se materializa su registro.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 17.
 
-(DEROGADO, P.O. 18 DE JUNIO DE 2010)
+Son atribuciones del Director Registrador, las siguientes:
+
+I. Realizar un estudio integral de los documentos que les sean presentados en el término de cuarenta y ocho horas, a partir del momento en que fueron recibidos, devolviéndolos debidamente razonados en un plazo de veinticuatro horas siguientes a la calificación para determinar la procedencia de su registro, según resulte de su forma y contenido y de su legalidad en función de los asientos registrales preexistentes y de los ordenamientos aplicables. Su acuerdo tendrá el carácter de positivo, suspensivo o negativo, según el caso, debidamente motivado y fundado;
+
+II. Ordenar la inscripción, previa su calificación legal y la comprobación del pago de los derechos respectivos, dentro del término de setenta y dos horas contado a partir de la fecha de presentación del documento;
+
+III. Realizar las inscripciones por riguroso turno según el orden de presentación de los documentos, previo el pago de los derechos respectivos;
+
+IV. Excusarse de ejercer la función calificadora cuando ellos, su cónyuge o parientes hasta el cuarto grado de consanguinidad o de afinidad tengan algún interés en el asunto o sobre el documento que verse a calificar. En este caso, el documento se calificará y despachará por el registrador que designe la dirección general, en el caso de que existan varios en la oficina registradora; en el supuesto contrario lo calificará el secretario de la oficina;
+
+V. Supervisar las funciones que se realicen para el eficaz cumplimiento de la función registral, con base en esta ley y demás disposiciones aplicables;
+
+VI. Inscribir preventivamente los documentos señalados por el artículo 3631 del Código Civil para el Estado de Coahuila de Zaragoza y en los términos que determina ese precepto, cuando haya sido delegada su inscripción por no reunir las formas extrínsecas que exige la ley o por no contener los datos que establece el artículo 3639 del mismo ordenamiento:
+
+VII. Supervisar la debida observancia de los lineamientos establecidos por la dirección general, mediante los cuales deberán revisarse los documentos y requisitos necesarios para llevar a cabo las inscripciones;
+
+VIII. Autorizar con su firma y sello las certificaciones relativas a los asientos registrales que obren en los archivos de la oficina;
+
+IX. Rendir los informes que les requieran las autoridades competentes, conforme a la normatividad aplicable;
+
+X. Coordinar y supervisar que se lleven a cabo las rectificaciones de errores materiales o de concepto contenidos en las inscripciones, a petición de las partes o por mandato de la autoridad judicial;
+
+XI. Rendir al Director General un informe mensual que contenga, cuando menos, el número de escrituras registradas, el valor de las operaciones respectivas, el monto de los derechos causados y el número de instrumentos calificados como negativos;
+
+XII. Recibir y contestar las demandas interpuestas en su contra, con motivo de su encargo;
+
+XIII. Establecer, con aprobación del Director General, las políticas, normas, sistemas y procedimientos para la administración de los recursos humanos adscritos a la oficina, así como las relativas al manejo de los recursos materiales y financieros que les sean asignados;
+
+XIV. Determinar y supervisar los lineamientos de operación del sistema computacional establecido en la oficina a su cargo;
+
+XV. Efectuar los trámites necesarios para solicitar los movimientos, altas y bajas, del personal de la oficina, y
+
+XVI. Las demás que les asignen esta ley, el Director General y otras disposiciones aplicables.
 
 ###### ARTICULO 18.
 
@@ -271,13 +345,11 @@ Siempre que ante un tribunal se pida la nulidad o cancelación de una inscripci�
 
 Si la sentencia acoge la pretensión de nulidad o cancelación se dejará sin efecto el asiento o asientos impugnados, cancelándose la inscripción preventiva de la demanda. Si la sentencia desestima la pretensión del actor, se cancelará la inscripción preventiva de la demanda. En el juicio de nulidad y cancelación, deberá ser oído como parte el Registrador de la Oficina del Registro en que se haya hecho la inscripción impugnada.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 36.
 
-Los asientos registrales serán autorizados por los Registradores y los Secretarios de las Oficinas del Registro.
+Los asientos registrales serán autorizados por los Directores Registradores y los Secretarios de las oficinas del registro.
 
 ###### ARTICULO 37.
 
@@ -403,11 +475,9 @@ Cuando se trate de omisiones subsanables motivadas por la falta de certificados 
 
 Hecho el registro de un documento se pondrá razón al calce del mismo de la partida, del folio, en su caso, del libro, de la sección y de la fecha en que quedó inscrito.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
-
-La nota llevará el sello de la Oficina del Registro y será autorizada con la firma del Registrador y del Secretario.
+La nota llevará el sello de la oficina del registro y será autorizada con las firmas del Director Registrador de la misma y del secretario.
 
 ###### ARTICULO 60.
 
@@ -739,13 +809,11 @@ Al consolidarse la propiedad, los demás gravámenes y limitaciones de dominio e
 
 ### CAPITULO X. DE LOS CERTIFICADOS Y CERTIFICACIONES DE CONSTANCIAS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 102.
 
-Las autoridades del Registro Público tienen obligación de expedir constancias certificadas de los asientos registrales y de los tomos de duplicados de los documentos inscritos, estando facultados para certificar copias fotostáticas, fotográficas, heliográficas o cualquiera otra que se obtenga por procedimientos técnicos, siempre que ellas se refieran a los libros y archivos del Registro.
+El Director General y el Director Registrador tienen la obligación de expedir constancias certificadas de los asientos registrales y de los tomos de duplicados de los documentos inscritos, estando facultados para certificar copias fotostáticas, fotográficas, heliográficas o cualquiera otra que se obtenga por procedimientos técnicos, siempre que ellas se refieran a los libros y archivos del registro.
 
 No se expedirán constancias de los índices que obren en las oficinas del Registro.
 
@@ -789,13 +857,11 @@ Los certificados de que un inmueble está o no inscrito a favor de determinada p
 
 De todo certificado o constancia que expida el Registrador se dejará copia autorizada, la cual se unirá al escrito que contenga la solicitud, archivándose por orden cronológico con la copia del recibo que acredita el pago de los derechos respectivos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 113.
 
-Las certificaciones que expidan las Oficinas del Registro deberán formularse en papel oficial y autorizarse con la firma del Registrador y del Secretario; así como con el sello oficial y expedirse dentro de un término que no exceda de cinco días siguientes a la presentación de la solicitud.
+Las certificaciones que expidan las oficinas del registro deberán formularse en papel oficial y autorizarse con la firma del Director Registrador y del Secretario; así como con el sello oficial y expedirse dentro de un término que no exceda de cinco días siguientes a la presentación de la solicitud.
 
 El Registro podrá enviar la certificación al solicitante por la vía fax o del medio electrónico que se disponga.
 
@@ -827,11 +893,9 @@ Los archivos que estén integrados al sistema informático serán consultados ex
 
 Cuando el usuario consulte los archivos del Registro mediante el servicio de comunicaciones, cubrirá los derechos que señale la Ley de Hacienda del Estado para esos efectos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
-
-El Registrador, previo acuerdo del Director General, determinará las áreas y horarios de acceso al Público para consulta y trámite.
+El Director Registrador, previo acuerdo del Director General, determinará las áreas y horarios de acceso al público para consulta y trámite.
 
 ###### ARTICULO 120.
 
@@ -839,39 +903,31 @@ No será obligatorio para el Registro prestar los libros cuando al solicitarse, 
 
 ### CAPITULO XII. DE LOS INDICES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 121.
 
-En las secciones I y III del Registro, así como en aquellas que se determinen conforme a las necesidades del servicio, se llevará un índice electrónico en el que por orden alfabético se asentarán los apellidos y nombres de las personas que intervengan como partes en la operación objeto del registro, la naturaleza de ésta, el número de la partida, libro, sección y la fecha de inscripción.
+En las secciones I y III del registro, así como en aquellas que determine el Director General conforme a las necesidades del servicio, se llevará un índice electrónico en el que por orden alfabético se asentarán los apellidos y nombres de las personas que intervengan como partes en la operación objeto del registro, la naturaleza de ésta, el número de la partida, libro, sección y la fecha de inscripción.
 
 ### CAPITULO XIII. DEL ARCHIVO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 122.
 
-Cada oficina del Registro organizará su archivo el cual estará a cargo del Registrador.
+Cada oficina del registro organizará su archivo el cual estará a cargo del Director Registrador.
 
 ###### ARTICULO 123.
 
 El archivo de las Oficinas del Registro será público, pero los interesados en consultar los libros deberán sujetarse a las siguientes prescripciones:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
+I. Deberá solicitarse por escrito al Director Registrador el libro o libros y la partida o partidas que se pretenda, indicando claramente las fincas o derechos cuyo Estado pretendan conocer;
 
-I. Deberá solicitarse por escrito al Registrador el libro o libros y la partida o partidas que se pretenda, indicando claramente las fincas o derechos cuyo estado pretendan conocer.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2012)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
-
-II. Sólo podrán mostrarse los libros cuando el Registrador y demás personal no lo requieran para su servicio.
+II. Sólo podrán mostrarse los libros cuando el Director Registrador y demás personal no los requieran para el servicio;
 
 III. Los particulares que consulten el Registro podrán obtener de él las notas que juzguen convenientes para su uso.
 
@@ -879,11 +935,9 @@ IV. No se podrá exigir de la Oficina otro auxilio distinto al de la manifestaci
 
 V. Los particulares son directamente responsables de los daños que sufran los libros y equipo por los tratamientos que les den.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
-
-VI. El Registrador puede negar la consulta de los libros a las personas que no cumplan con las prescripciones anteriores.
+VI. El Director Registrador puede negar la consulta de los libros a las personas que no cumplan con las prescripciones anteriores.
 
 T R A N S I T O R I O S
 
@@ -950,3 +1004,17 @@ P.O. 24 DE FEBRERO DE 2012.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Coahuila de Zaragoza.
 
 SEGUNDO.- El Registro Civil, contará con un plazo de 60 días a partir de la entrada en vigor del presente decreto para crear y operar el Registro Estatal de Deudores Alimentarios Morosos. Una vez que entre en funciones deberá dar trámite inmediato a las resoluciones judiciales que se hubieren efectuado durante el periodo existente entre la entrada en vigor de este decreto y la creación del Registro Estatal de Deudores Alimentarios Morosos.
+
+P.O. 8 DE MAYO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las facultades y obligaciones a que se refiere este decreto, que en otras leyes, reglamentos, acuerdos, convenios y demás ordenamientos jurídicos federales, estatales o municipales se atribuyan al Servicio de Administración Tributaria del Estado de Coahuila en materia fiscal, se entenderán conferidas a la Administración Fiscal General.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
