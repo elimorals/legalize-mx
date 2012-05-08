@@ -4,7 +4,7 @@ identifier: "COA-codigo-fiscal-para-el-estado-de-coahuila-de-zaragoza-37936"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-01-02"
-last_updated: "2009-12-11"
+last_updated: "2012-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37936&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # CODIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-CODIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
+CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 2 de enero de 2004.
 
@@ -93,7 +93,7 @@ Son participaciones los ingresos provenientes de contribuciones y aprovechamient
 
 Son créditos fiscales los que tenga derecho a percibir el Estado o sus organismos descentralizados que provengan de contribuciones, de aprovechamientos o de sus accesorios, incluyendo los que deriven de responsabilidades que el Estado tenga derecho a exigir de sus funcionarios o empleados o de los particulares, así como aquellos a los que las leyes les den ese carácter y el Estado tenga derecho a percibir por cuenta ajena.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -119,7 +119,7 @@ II. En cualquier otro caso dentro de los 5 días siguientes al momento de la cau
 
 En el caso de contribuciones que se deben pagar mediante retención, cuando quien deba efectuarla no la retenga, estará obligado a enterar una cantidad equivalente a la que debió haber retenido.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -165,7 +165,7 @@ Cuando las leyes fiscales establezcan que las contribuciones se calcularán por 
 
 Cuando las leyes fiscales establezcan que las contribuciones se calculen por mes, se entenderá que corresponde al mes de calendario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 13.
 
@@ -231,7 +231,7 @@ En los casos en que el Índice Nacional de Precios al Consumidor del mes anterio
 
 Cuando el resultado de la operación a que se refiere el primer párrafo de este artículo sea menor a 1, el factor de actualización que se aplicará al monto de las contribuciones, aprovechamientos y devoluciones a cargo del fisco federal, así como a los valores de bienes u operaciones de que se traten, será 1.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -243,7 +243,7 @@ Cuando de conformidad con las disposiciones fiscales se deban realizar operacion
 
 ### CAPITULO II. DE LOS MEDIOS ELECTRONICOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -261,7 +261,7 @@ Los datos de creación de las Claves de Identificación Estatal, podrán ser tra
 
 Los datos de identidad que las autoridades fiscales competentes obtengan con motivo de la comparecencia, no quedarán comprendidos dentro de lo dispuesto por el artículo 62 de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -269,7 +269,7 @@ Los datos de identidad que las autoridades fiscales competentes obtengan con mot
 
 Cuando los contribuyentes remitan un documento digital a las autoridades fiscales, recibirán el acuse de recibo que contenga la Clave de Autorización Estatal. La Clave de Autorización Estatal es el mensaje electrónico que acredita que un documento digital fue recibido por la autoridad correspondiente, y estará sujeto a la misma regulación aplicable al uso de la Clave de Identificación Estatal. En este caso, la Clave de Autorización Estatal se presumirá, salvo prueba en contrario, que el documento digital fue recibido en la hora y fecha que se consignen en el acuse de recibo mencionado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -293,7 +293,7 @@ Las autoridades fiscales podrán cancelar la Clave de Identificación Estatal tr
 
 Las solicitudes de revocación a que se refiere este artículo deberán presentarse de conformidad con las reglas de carácter general que al efecto establezcan las autoridades fiscales competentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -307,7 +307,7 @@ II. Solicitar la revocación de la Clave de Identificación Estatal ante cualqui
 
 El titular de la Clave de Identificación Estatal será responsable de las consecuencias jurídicas que deriven por no cumplir oportunamente con las obligaciones previstas en el presente artículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -317,7 +317,7 @@ Las autoridades fiscales deberán establecer mediante Reglas de Carácter Genera
 
 Las reglas que para tal efecto expidan las autoridades fiscales deberán ser publicadas en el Periódico Oficial del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -329,15 +329,15 @@ El uso de las Claves de Identificación Estatal que se establezcan para la prese
 
 ### CAPITULO UNICO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 19.
 
 Toda promoción que se presente ante las autoridades fiscales, deberá estar firmada autográficamente por el interesado o por quien esté legalmente autorizado para ello, a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella dactilar.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -359,7 +359,7 @@ Cuando no se cumplan los requisitos a que se refiere este artículo, las autorid
 
 Lo dispuesto en este artículo no es aplicable a las declaraciones, solicitudes de inscripción o avisos a que se refiere el artículo 22 de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -391,7 +391,7 @@ Quien promueva a nombre de otro deberá acreditar que la representación le fue 
 
 Los créditos fiscales y sus accesorios se causarán y pagarán en moneda nacional. De provenir su pago por situaciones pactadas en moneda extranjera, el tipo de cambio se determinará conforme al valor del día que rija de acuerdo a la determinación del tipo de cambio que publica el Banco de México, en el Diario Oficial de la Federación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -517,7 +517,7 @@ III. Suspensión o baja de obligaciones fiscales.
 
 IV. Liquidación, fusión o escisión.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -551,27 +551,27 @@ Las personas obligadas a llevar contabilidad deberán conservarlas en el lugar a
 
 Las personas que no estén obligadas a llevar contabilidad deberán conservar en su domicilio a disposición de las autoridades, toda documentación relacionada con el cumplimiento de las disposiciones fiscales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 31.
 
 Las personas que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes, declaraciones o avisos, ante las autoridades fiscales, así como de expedir constancias o documentos, lo harán en las formas que al efecto aprueben éstas, debiendo proporcionar el número de ejemplares, los datos e informes y adjuntar los documentos, que dichas formas requieran.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 Los contribuyentes podrán cumplir con la obligación a que se refiere el párrafo anterior, mediante la presentación de solicitudes, declaraciones o avisos, en documentos digitales a través de los medios y formatos electrónicos que señalen las autoridades fiscales mediante reglas de carácter general.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 En los casos en que las formas para la presentación de las declaraciones o avisos y expedición de constancias, que prevengan las disposiciones fiscales, no hubieran sido aprobadas por las autoridades fiscales, los obligados a presentarlas las formularán en escrito por cuadruplicado que contenga su nombre, domicilio y clave de registro de contribuyentes, así como el ejercicio y los datos relativos a la obligación que pretendan cumplir; en caso de que se trate de la obligación de pago, se deberá señalar además el monto del mismo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -581,7 +581,7 @@ Los contribuyentes que tengan obligación de presentar declaraciones periódicas
 
 Los representantes, sea cual fuere el nombre con que se les designe, de personas no residentes en el Estado, con cuya intervención éstas efectúen actividades por las que deban pagarse contribuciones en el Estado, están obligados a formular y presentar a nombre de sus representadas, las declaraciones, avisos y demás documentos que señalen las disposiciones fiscales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -593,7 +593,7 @@ Las oficinas a que se refiere el párrafo anterior, recibirán las declaraciones
 
 Las declaraciones que presenten los contribuyentes serán definitivas y se podrán modificar por el propio contribuyente, siempre que no se haya iniciado el ejercicio de las facultades de comprobación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -617,23 +617,17 @@ III. El Subsecretario de Ingresos de la Secretaría de Finanzas.
 
 IV. Los titulares de las unidades administrativas de la Secretaría de Finanzas con las facultades y atribuciones que les otorgue el Reglamento Interior de dicha Dependencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2012)</small>
 
-> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+V. El Titular de la Administración Fiscal General, conforme a las facultades y atribuciones que le otorga la ley de la materia, su reglamento interior y demás disposiciones aplicables.
 
-V. El Titular del Servicio de Administración Tributaria del Estado de Coahuila, conforme a las facultades y atribuciones que le otorga la Ley de la materia y el Reglamento Interior del organismo.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2012)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+VI. Los Titulares de las Unidades Administrativas de la Administración Fiscal General, conforme a las facultades y atribuciones que le otorga la ley de la materia, su reglamento interior y las demás disposiciones aplicables.
 
-> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
 
-VI. Los Titulares de las Unidades Administrativas del Servicio de Administración Tributaria del Estado de Coahuila, conforme a las facultades y atribuciones que le otorga la Ley que lo crea y el Reglamento Interior del organismo.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
-
-Para efectos de la fracción anterior, el Servicio de Administración Tributaria del Estado de Coahuila y sus Unidades Administrativas también serán considerados como autoridades fiscales para efectos de la Ley de Coordinación Fiscal y de los convenios celebrados con el Gobierno Federal al amparo de dicha Ley.
+Para efectos de la fracción anterior, la Administración Fiscal General y sus Unidades Administrativas serán consideradas como autoridades fiscales para efectos de la Ley de Coordinación Fiscal y de los convenios celebrados con el Gobierno Federal, al amparo de dicha ley
 
 ###### ARTICULO 34.
 
@@ -641,11 +635,11 @@ Las autoridades fiscales proporcionarán asistencia gratuita a los contribuyente
 
 I. Explicar las disposiciones fiscales utilizando en lo posible un lenguaje llano alejado de tecnicismos y en los casos en que sean de naturaleza compleja, elaborar y distribuir folletos a los contribuyentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
-II. Mantener oficinas en diversos lugares del Estado que se ocuparán de orientar y auxiliar a los contribuyentes en el cumplimiento de sus obligaciones. En el caso de que dicho cumplimiento se realice através de medios electrónicos, las autoridades fiscales podrán poner a su disposición el equipo para ello.
+II. Mantener oficinas en diversos lugares del Estado que se ocuparán de orientar y auxiliar a los contribuyentes en el cumplimiento de sus obligaciones. En el caso de que dicho cumplimiento se realice a través de medios electrónicos, las autoridades fiscales podrán poner a su disposición el equipo para ello.
 
 III. Elaborar los formularios de declaración en forma que puedan ser llenados fácilmente por los contribuyentes y en su caso distribuirlos con oportunidad, e informar de las fechas y lugares de presentación.
 
@@ -657,7 +651,7 @@ VI. Efectuar en distintas partes del Estado reuniones de información con los co
 
 VII. Publicar las resoluciones dictadas por las autoridades fiscales que establezcan disposiciones de carácter general, agrupándolas de manera que faciliten su conocimiento por parte de los contribuyentes; se podrán publicar aisladamente aquellas disposiciones cuyos efectos se limitan a períodos inferiores a un año.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -669,7 +663,7 @@ Las autoridades fiscales sólo están obligadas a contestar las consultas que so
 
 Las autoridades fiscales no resolverán las consultas efectuadas por los particulares cuando las mismas versen sobre la interpretación o aplicación directa de la Constitución. En estos casos, no procederá la negativa ficta a que se refiere el artículo 37 de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -699,7 +693,7 @@ Las resoluciones que conforme a este artículo se dicten, deberán señalar las 
 
 Los actos administrativos que se deban notificar deberán tener por lo menos los siguientes requisitos:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -711,7 +705,7 @@ II. Señalar la autoridad que lo emite;
 
 III. Estar fundado y motivado y expresar la resolución, objeto o propósito de que se trate;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -769,7 +763,7 @@ V. Practicar u ordenar se practique avalúo o verificación física de toda clas
 
 VI. Recabar de los funcionarios y empleados públicos y de los fedatarios, los informes y datos que posean con motivo de sus funciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -977,7 +971,7 @@ III. Señalen el nombre o domicilio de un tercero, real o ficticio, si se compru
 
 IV. Se refieran a cobros o pagos efectuados por el contribuyente o por su cuenta, por persona interpósita o ficticia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -1023,7 +1017,7 @@ Las facultades de las autoridades fiscales para investigar hechos constitutivos 
 
 Los contribuyentes, transcurridos los plazos a que se refiere este artículo, podrán solicitar se declare que se han extinguido las facultades de las autoridades fiscales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -1069,15 +1063,15 @@ II. La omisión haya sido corregida por el contribuyente después de que las aut
 
 Siempre que se omita el pago de una contribución cuya determinación corresponda a los funcionarios o empleados públicos o a los notarios o corredores titulados, los accesorios serán a cargo exclusivamente de ellos, y los contribuyentes sólo quedarán obligados a pagar las contribuciones omitidas. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los contribuyentes a quien determinó las contribuciones, los accesorios serán a cargo de los contribuyentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 67.
 
 Las autoridades fiscales podrán condonar las multas por infracción a las disposiciones fiscales, para lo cual apreciará discrecionalmente las circunstancias del caso y los motivos que tuvo la autoridad que impuso la sanción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -1123,7 +1117,7 @@ I. El 40% de las contribuciones omitidas, cuando el infractor las pague junto co
 
 II. Del 50% al 100% de las contribuciones omitidas, en los demás casos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -1183,9 +1177,9 @@ IV. No hacer los asientos correspondientes a las operaciones efectuadas; hacerlo
 
 V. No conservar la contabilidad a disposición de las autoridades por el plazo que establezcan las leyes fiscales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 73-B.
 
@@ -1277,7 +1271,7 @@ IV. De 5 a 10 días de salario mínimo vigente en la Entidad a la establecida en
 
 V. De 10 a 20 días de salario mínimo vigente en la Entidad a la establecida en la fracción V.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -1347,7 +1341,7 @@ En el caso de delito continuado, la pena podrá aumentarse hasta por una mitad m
 
 Para los efectos de este Código, el delito es continuado cuando se ejecuta con pluralidad de conductas o hechos, con unidad de intención delictuosa e identidad de disposición legal, incluso de diversa gravedad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -1355,7 +1349,7 @@ Para los efectos de este Código, el delito es continuado cuando se ejecuta con 
 
 La acción penal en los delitos fiscales perseguibles por querella del titular de las autoridades fiscales o del funcionario competente, prescribirá en tres años contados a partir del día en que se tenga conocimiento del delito y si no tiene conocimiento, en cinco años que se computarán a partir de la fecha de la comisión del delito. En los demás casos, se estará a las reglas del Código Penal del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -1397,21 +1391,21 @@ Se impondrá sanción de tres meses a tres años de prisión, al que dolosamente
 
 Igual sanción se aplicará al que dolosamente altere o destruya las máquinas registradoras de operación de caja en las oficinas recaudadoras.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 96.
 
 Se impondrá sanción de tres meses a tres años de prisión, a quien sin autorización de las autoridades fiscales:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 I. Grabe o manufacture matrices, punzones, dados, clichés o negativos, semejantes a los que las autoridades fiscales usen para imprimir, grabar o troquelar calcomanías, formas valoradas o numeradas, placas o tarjetones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -1419,7 +1413,7 @@ II. Imprima, grabe o troquele calcomanías, formas valoradas o numeradas, placas
 
 III. Utilice para beneficio propio o de terceros las calcomanías, formas valoradas o numeradas y tarjetones a que se refiere la fracción anterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -1473,9 +1467,9 @@ d) Determinen el valor de los bienes embargados a que se refiere el artículo 15
 
 Cuando un recurso se interponga ante autoridad fiscal incompetente, ésta lo turnará a la que sea competente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 103.
 
@@ -1591,7 +1585,7 @@ En el recurso de revocación se admitirá toda clase de pruebas, excepto la test
 
 Las pruebas supervenientes podrán presentarse siempre que no se haya dictado la resolución del recurso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -1649,7 +1643,7 @@ Cuando se interponga un medio de impugnación, se suspenderá el efecto de la re
 
 Las notificaciones de los actos administrativos se harán:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -1669,7 +1663,7 @@ IV. Por edictos, únicamente en el caso de que la persona a quien deba notificar
 
 V. Por instructivo, solamente en los casos y con las formalidades a que se refiere el segundo párrafo del artículo 120 de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -1697,7 +1691,7 @@ Tratándose de actos relativos al procedimiento administrativo de ejecución, el
 
 Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán los gastos de ejecución a cargo de quien incurrió en el incumplimiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -1705,7 +1699,7 @@ Si las notificaciones se refieren a requerimientos para el cumplimiento de oblig
 
 Las notificaciones por estrados se harán fijando durante cinco días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación o publicando el documento citado, durante el mismo plazo, en la página electrónica de las autoridades fiscales. La autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del sexto día siguiente a aquel en que se hubiera fijado o publicado el documento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -1727,7 +1721,7 @@ Se tendrá como fecha de notificación la de la última publicación.
 
 Los contribuyentes podrán garantizar el interés fiscal en alguna de las formas siguientes:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -1743,7 +1737,7 @@ V. Embargo en la vía administrativa.
 
 La garantía deberá comprender, además de las contribuciones adeudadas, los accesorios causados, así como de los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá actualizarse su importe cada año y ampliarse la garantía para que cubra el crédito actualizado y el importe de los recargos, incluso los correspondientes a los doce meses siguientes y así sucesivamente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -1767,7 +1761,7 @@ No se otorgará garantía respecto de gastos de ejecución.
 
 Las garantías constituidas para asegurar el interés fiscal a que se refieren las fracciones II, IV y V del artículo 123 de este Código, se harán efectivas a través del procedimiento administrativo de ejecución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -1819,15 +1813,15 @@ El término para que se consuma la prescripción se interrumpe con cada gestión
 
 Los particulares podrán solicitar a la autoridad la declaratoria de prescripción de los créditos fiscales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 129.
 
 Las autoridades fiscales podrán cancelar créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -2061,9 +2055,9 @@ Salvo los casos que este Código autoriza, toda enajenación se hará en subasta
 
 La autoridad podrá designar otro lugar para la venta u ordenar que los bienes embargados se vendan en lotes o piezas sueltas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 155.
 
@@ -2105,9 +2099,9 @@ Si el importe de la postura es menor al interés fiscal, se rematarán de contad
 
 La autoridad exactora podrá enajenar a plazos los bienes embargados. En este supuesto quedará liberado de la obligación de pago el embargado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 161.
 
@@ -2167,7 +2161,7 @@ En el caso en que los bienes rematados no puedan ser entregados al postor a cuyo
 
 En el caso en que la autoridad fiscal entregue las cantidades pagadas por la adquisición de los bienes rematados, se dejará sin efectos el remate efectuado. Si con posterioridad a la entrega de las cantidades señaladas anteriormente cesa la causa por la cual la autoridad fiscal se vio imposibilitada jurídicamente para efectuar la entrega de los bienes rematados, ésta deberá iniciar nuevamente el procedimiento establecido en esta Sección para enajenar los mismos, dentro de los quince días siguientes a aquél en que haya cesado el impedimento o se cuente con resolución firme que permita hacerlo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -2241,7 +2235,7 @@ Cuando los bienes embargados hubieren causado abandono, las Autoridades Fiscales
 
 Los bienes que pasen a propiedad del fisco estatal o municipal conforme a este Artículo, podrán ser enajenados en los términos del artículo 174 de este Código o donarse para obras o servicios públicos, o a instituciones asistenciales o de beneficencia autorizadas conforme a las Leyes de la materia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -2307,7 +2301,7 @@ EL SECRETARIO DE FINANZAS
 
 LIC. JAVIER GUERRERO GARCIA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 20 DE FEBRERO DE 2009.
 
@@ -2324,3 +2318,17 @@ El presente Decreto deberá publicarse en el Periódico Oficial del Gobierno del
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE MAYO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las facultades y obligaciones a que se refiere este decreto, que en otras leyes, reglamentos, acuerdos, convenios y demás ordenamientos jurídicos federales, estatales o municipales se atribuyan al Servicio de Administración Tributaria del Estado de Coahuila en materia fiscal, se entenderán conferidas a la Administración Fiscal General.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
