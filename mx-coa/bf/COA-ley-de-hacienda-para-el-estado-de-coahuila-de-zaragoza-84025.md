@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-84025"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-25"
-last_updated: "2011-11-25"
+last_updated: "2012-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2012.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 25 de noviembre de 2011.
 
@@ -231,11 +231,19 @@ Es objeto de este impuesto, la realización de erogaciones por concepto de salar
 
 Para los efectos del presente artículo, se asimilan a éstos, lo siguiente:
 
-I. El pago de rendimientos o utilidades, anticipos de utilidades, honorarios o percepciones de cualquier índole a miembros de consejos directivos, de vigilancia, consultivos o de cualquier otra índole, así como los honorarios a administradores, comisarios y gerentes generales, durante la vigencia de su administración.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2012)</small>
+
+I. Los honorarios a miembros del consejo directivo, a los administradores, comisarios y gerentes.
 
 II. El pago de honorarios a personas que presten servicios preponderantemente a un prestatario, siempre que los mismos se lleven a cabo en las instalaciones de este último.
 
-III. Los pagos realizados a empresas, cooperativas, sociedades de cualquier tipo o asociaciones por proporcionar personal para que realicen o presten un trabajo personal subordinado a otras personas físicas o morales, aun se trate de trabajos temporales, a destajo o en forma permanente.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2012)</small>
+
+III. Los pagos realizados a empresas, cooperativas, sociedades de cualquier tipo o asociaciones por proporcionar personal a otras personas fisicas o morales para que, dentro del territorio del Estado, realicen trabajos temporales, a destajo o en forma permanente.
+
+Quien contrate los servicios de las empresas a que se refiere esta fracción, estará obligado a retener y enterar el impuesto sobre nóminas que se cause por el personal que le sea proporcionado por dichas empresas. La retención y entero del impuesto sobre nóminas deberá realizarse en base a los contratos y la información que de los trabajadores le dé la empresa que proporcione el personal, y en caso de que no se cuente con estos contratos e información, el cálculo se hará tomando como base el pago que se erogue a la empresa que proporciona el personal.
+
+El pago del impuesto sobre nóminas, realizado en términos del párrafo anterior, lo podrá acreditar la empresa que proporcione el personal contra el impuesto que resulte a su cargo en las declaraciones que este obligada a presentar. En todo caso, el retenedor deberá entregar a la empresa la constancia de retención en las formas autorizadas por la Secretaría de Finanzas del Gobierno del Estado.
 
 SUJETO
 
@@ -535,7 +543,7 @@ TIPO CUOTA
 
 $
 
-PISTON ( HELICE) 2,115.74
+PISTON (HELICE) 2,115.74
 
 TURBOHELICE 11,710.12
 
@@ -1503,7 +1511,7 @@ III. Expedición de tarjeta de circulación para remolques accionados por vehíc
 
 IV. Expedición de placa y tarjeta de circulación con vigencia anual para motocicleta, $210.00 (DOSCIENTOS DIEZ PESOS 00/100 M.N.);
 
-V. Expedición de placa para bicicleta, $70.00 (SETENTA PESOS 00/100 M.N.);
+V. (DEROGADA, P.O. 8 DE MAYO DE 2012)
 
 VI. Dotación de placas metálicas con número identificatorio para los vehículos siguientes:
 
@@ -1931,9 +1939,13 @@ XVII. Por trámite de reconocimiento de validez oficial de estudios de educació
 
 XVIII. Por incorporación y el refrendo anual al sistema educativo estatal:
 
-1. De las escuelas particulares de educación inicial, preescolar, primaria, formación para el trabajo, y secundaria, $50.00 (CINCUENTA PESOS 00/100 M.N.) por alumno;
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
 
-2. Bachillerato, academias comerciales, técnico medio, técnico superior y educación superior $300.00 (TRESCIENTOS PESOS 00/100 M.N.) por alumno.
+1. De las escuelas particulares de educación inicial, preescolar, primaria, formación para el trabajo, y secundaria, $45.00 (CUARENTA Y CINCO PESOS 00/100 M.N.) por alumno.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2012)</small>
+
+2. Bachillerato, academias comerciales, técnico medio, técnico superior y educación superior $45.00 (CUARENTA y CINCO PESOS 00/100 M.N.) por alumno.
 
 Los derechos que establece esta fracción deberán pagarse dentro del mes de octubre de cada año.
 
@@ -2115,8 +2127,6 @@ BASE
 
 ### CAPITULO DECIMO SEGUNDO. POR SERVICIOS DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-OBJETO
-
 #### SECCION CUARTA. LOS PRESTADOS POR SUS UNIDADES ADMINISTRATIVAS
 
 ###### ARTICULO 154.
@@ -2279,15 +2289,15 @@ El pago de los servicios y gastos a que se refiere este Capítulo, deberá efect
 
 La Dependencia, al realizar la liquidación para el pago de los derechos a que se refiere éste capítulo, deberá precisar los servicios prestados, el costo de cada uno y el importe de los gastos de envío.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 164.
 
-Los servicios que presta el Poder Judicial del Estado de Coahuila de Zaragoza a través de sus unidades administrativas.
-
-SUJETO
+(DEROGADO, P.O. 8 DE MAYO DE 2012)
 
 ###### ARTICULO 165.
 
-Son sujetos de este derecho las personas físicas y morales que soliciten los servicios a que se refiere el artículo anterior.
+(DEROGADO, P.O. 8 DE MAYO DE 2012)
 
 ### CAPITULO CUARTO. CONTRIBUCION POR OBRA PUBLICA
 
@@ -2295,19 +2305,11 @@ OBJETO
 
 ###### ARTICULO 166.
 
-Los servicios a que se refiere el presente Capítulo, causarán derechos conforme a la siguiente:
-
-TARIFA
-
-I. Expedición de exhortos, $300.00 (TRESCIENTOS PESOS 00/100 M.N.).
-
-II. Expedición de copia certificada, $40.00 (CUARENTA PESOS 00/100 M.N.) por la primera hoja, y $5.00 (CINCO PESOS 00/100 M.N.) por hoja adicional.
-
-PAGO
+(DEROGADO, P.O. 8 DE MAYO DE 2012)
 
 ###### ARTICULO 167.
 
-El pago de los servicios a que se refiere este Capítulo, deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados por el Servicio de Administración Tributaria del Estado de Coahuila, previamente a la prestación del servicio.
+(DEROGADO, P.O. 8 DE MAYO DE 2012)
 
 ###### ARTICULO 168.
 
@@ -2325,21 +2327,9 @@ Los servicios a que se refiere la presente Sección, causarán derechos conforme
 
 TARIFA
 
-I. Entrada a museos:
+I. (DEROGADA, P.O. 8 DE MAYO DE 2012)
 
-1. Por persona, $5.00 (CINCO PESOS 00/100 M.N.);
-
-2. Por familia con máximo de 5 integrantes, $10.00 (DIEZ PESOS 00/100 M.N.);
-
-3. Por grupo escolar o varios $4.00 (CUATRO PESOS 00/100 M.N.) por persona.
-
-II. Abono para visitar los museos de Saltillo, Coahuila:
-
-1. Por persona, $40.00 (CUARENTA PESOS 00/100 M.N.);
-
-2. Por familia con máximo de 5 integrantes, $80.00 (OCHENTA PESOS 00/100 M.N.);
-
-3. Por grupo escolar o varios, $40.00 (CUARENTA PESOS 00/100 M.N.) por persona.
+II. (DEROGADA, P.O. 8 DE MAYO DE 2012)
 
 III. Talleres Artísticos:
 
@@ -2381,13 +2371,7 @@ Los servicios a que se refiere esta Sección, causarán derechos conforme a la s
 
 TARIFA
 
-I. Entrada a instalaciones de los parques estatales:
-
-1. Por persona, $5.00 (CINCO PESOS 00/100 M.N.);
-
-2. Por familia con máximo de 5 integrantes, $10.00 (DIEZ PESOS 00/100 M.N.);
-
-3. Por grupo escolar o varios $4.00 (CUATRO PESOS 00/100 M.N.) por persona.
+I. (DEROGADA, P.O. 8 DE MAYO DE 2012)
 
 II. Inscripción semestral al Centro Acuático Coahuila 2000, $130.00 (CIENTO TREINTA PESOS 00/100 M.N.).
 
@@ -2906,3 +2890,19 @@ EL GOBERNADOR INTERINO DEL ESTADO
 LIC. JORGE JUAN TORRES LÓPEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE MAYO DE 2012.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
