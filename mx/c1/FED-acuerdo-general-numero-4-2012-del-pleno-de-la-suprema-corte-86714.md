@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-4-2012-del-pleno-de-la-suprema-corte-867
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-03-20"
-last_updated: "2012-03-20"
+last_updated: "2012-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86714&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,15 +19,17 @@ issue_date: "2012-03-12"
 ---
 # ACUERDO GENERAL NUMERO 4/2012 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [SE DISPONE EL APLAZAMIENTO DE LA RESOLUCION DE LOS AMPAROS EN REVISION EN LOS QUE SUBSISTA EL PROBLEMA DE CONSTITUCIONALIDAD DEL ARTICULO 95, PARRAFO SEGUNDO, DE LA LEY DEL IMPUESTO SOBRE LA RENTA, PUBLICADA EL PRIMERO DE ENERO DE DOS MIL DOS]
 
-ACUERDO GENERAL NÚMERO 4/2012, DE SEIS DE MARZO DE DOS MIL DOCE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE DISPONE EL APLAZAMIENTO DE LA RESOLUCIÓN DE LOS AMPAROS EN REVISIÓN EN LOS QUE SUBSISTA EL PROBLEMA DE CONSTITUCIONALIDAD DEL ARTÍCULO 95, PÁRRAFO SEGUNDO, DE LA LEY DEL IMPUESTO SOBRE LA RENTA, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL PRIMERO DE ENERO DE DOS MIL DOS
+ACUERDO GENERAL NUMERO 4/2012, DE SEIS DE MARZO DE DOS MIL DOCE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE DISPONE EL APLAZAMIENTO DE LA RESOLUCIÓN DE LOS AMPAROS EN REVISIÓN Y DE LOS AMPAROS DIRECTOS DEL CONOCIMIENTO DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO EN LOS QUE SUBSISTA O SEA NECESARIO ABORDAR LA CONSTITUCIONALIDAD DEL ARTÍCULO 95, PÁRRAFO SEGUNDO, DE LA LEY DEL IMPUESTO SOBRE LA RENTA, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL PRIMERO DE ENERO DE DOS MIL DOS Y REFORMADO MEDIANTE DECRETO PUBLICADO EN EL MISMO MEDIO OFICIAL DEL SIETE DE DICIEMBRE DE DOS MIL NUEVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2012.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 20 de marzo de 2012.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de Justicia de la Nación.- Secretaría General de Acuerdos.
 
-ACUERDO GENERAL NUMERO 4/2012, DE SEIS DE MARZO DE DOS MIL DOCE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE DISPONE EL APLAZAMIENTO DE LA RESOLUCION DE LOS AMPAROS EN REVISION EN LOS QUE SUBSISTA EL PROBLEMA DE CONSTITUCIONALIDAD DEL ARTICULO 95, PARRAFO SEGUNDO, DE LA LEY DEL IMPUESTO SOBRE LA RENTA, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION DEL PRIMERO DE ENERO DE DOS MIL DOS.
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 8 DE MAYO DE 2012)</small>
+
+ACUERDO GENERAL NUMERO 4/2012, DE SEIS DE MARZO DE DOS MIL DOCE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE DISPONE EL APLAZAMIENTO DE LA RESOLUCION DE LOS AMPAROS EN REVISION Y DE LOS AMPAROS DIRECTOS DEL CONOCIMIENTO DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO EN LOS QUE SUBSISTA O SEA NECESARIO ABORDAR LA CONSTITUCIONALIDAD DEL ARTICULO 95, PARRAFO SEGUNDO, DE LA LEY DEL IMPUESTO SOBRE LA RENTA, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION DEL PRIMERO DE ENERO DE DOS MIL DOS Y REFORMADO MEDIANTE DECRETO PUBLICADO EN EL MISMO MEDIO OFICIAL DEL SIETE DE DICIEMBRE DE DOS MIL NUEVE.
 
 CONSIDERANDO:
 
@@ -49,9 +51,13 @@ En consecuencia, con fundamento en lo antes señalado así como en la fracción 
 
 ACUERDO:
 
-PRIMERO. En tanto la Suprema Corte de Justicia de la Nación resuelve las contradicciones de tesis 211/2011 y 222/2011, referidas en el Considerando Sexto de este Acuerdo General, y se emita el Acuerdo General Plenario que corresponda, en los amparos en revisión radicados y que se radiquen en los Tribunales Colegiados de Circuito en los que subsista el problema de constitucionalidad del artículo 95, párrafo segundo, de la Ley del Impuesto Sobre la Renta, publicada en el Diario Oficial de la Federación del primero de enero de dos mil dos, se deberá continuar el trámite hasta el estado de resolución y aplazar el dictado de ésta.
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2012)</small>
 
-SEGUNDO. Una vez resueltas las referidas contradicciones de tesis, los amparos en revisión radicados en esta Suprema Corte de Justicia de la Nación, en los que subsista el problema de constitucionalidad indicado en el Punto anterior, podrán remitirse a los Tribunales Colegiados de Circuito para su resolución.
+PRIMERO. En tanto la Suprema Corte de Justicia de la Nación resuelve las contradicciones de tesis 211/2011 y 222/2011, referidas en el Considerando Sexto de este Acuerdo General, y se emita el Acuerdo General Plenario que corresponda, en los amparos en revisión y en los amparos directos del conocimiento de los Tribunales Colegiados de Circuito en los que subsista o sea necesario abordar el problema de constitucionalidad del artículo 95, párrafo segundo, de la Ley del Impuesto Sobre la Renta, publicada en el Diario Oficial de la Federación del primero de enero de dos mil dos y reformado mediante Decreto publicado en el mismo medio oficial del siete de diciembre de dos mil nueve, se deberá continuar el trámite hasta el estado de resolución y aplazar el dictado de ésta.
+
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2012)</small>
+
+SEGUNDO. Una vez resueltas las referidas contradicciones de tesis y emitido el Acuerdo General respectivo, los asuntos mencionados en el punto anterior radicados o que se radiquen en esta Suprema Corte de Justicia de la Nación, en los que subsista o sea necesario abordar el problema de constitucionalidad indicado, podrán remitirse a los Tribunales Colegiados de Circuito para su resolución.
 
 TRANSITORIOS:
 
@@ -64,3 +70,11 @@ El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Juan N. Si
 El licenciado Rafael Coello Cetina, Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, CERTIFICA: Este ACUERDO GENERAL NUMERO 4/2012, DE SEIS DE MARZO DE DOS MIL DOCE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE DISPONE EL APLAZAMIENTO DE LA RESOLUCION DE LOS AMPAROS EN REVISION EN LOS QUE SUBSISTA EL PROBLEMA DE CONSTITUCIONALIDAD DEL ARTICULO 95, PARRAFO SEGUNDO, DE LA LEY DEL IMPUESTO SOBRE LA RENTA, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION DEL PRIMERO DE ENERO DE DOS MIL DOS, fue emitido por el Tribunal Pleno en Sesión Privada celebrada el día de hoy, por unanimidad de once votos de los señores Ministros Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, José Fernando Franco González Salas, Arturo Zaldívar Lelo de Larrea, Jorge Mario Pardo Rebolledo, Luis María Aguilar Morales, Sergio A. Valls Hernández, Olga Sánchez Cordero de García Villegas, Guillermo I. Ortiz Mayagoitia y Presidente Juan N. Silva Meza.- México, Distrito Federal, a seis de marzo de dos mil doce.- Rúbrica.
 
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia fotostática constante de nueve fojas útiles concuerda fiel y exactamente con el original del Acuerdo General Plenario 4/2012, que obra en los archivos de la sección de instrumentos normativos de esta Secretaría General de Acuerdos y se expide para su publicación en el Diario Oficial de la Federación.- México, Distrito Federal, a doce de marzo de dos mil doce.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 8 DE MAYO DE 2012.
+
+PRIMERO. El presente Instrumento Normativo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y en medios electrónicos de consulta pública en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental; sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Acuerdo General Plenario 4/2012 en dichos medios electrónicos.
