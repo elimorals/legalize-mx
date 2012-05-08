@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-instituto-electoral-y-de-75068"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-06"
-last_updated: "2011-11-19"
+last_updated: "2012-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75068&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2012.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 6 de mayo de 2010.
 
@@ -739,6 +739,8 @@ VIII. Los demás que establezca el Consejo General y el Reglamento del Servicio 
 
 De la Contraloría General.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
+
 ###### Artículo 21.
 
 1. Los Directores del Instituto, tienen las obligaciones siguientes:
@@ -1277,7 +1279,29 @@ V. Las demás establecidas en el Código, el Reglamento Interior de la Unidad de
 
 ###### Artículo 36.
 
-1. La Contraloría General tendrá las atribuciones siguientes:
+1. La Contraloría contará con la siguiente estructura orgánica:
+
+I. Contralor General;
+
+II. Subcontraloría;
+
+III. Departamento de Asuntos Jurídicos;
+
+IV. Departamento de Fiscalización;
+
+V. Departamento de Gestión y Control; y
+
+VI. El personal necesario para el desarrollo de sus actividades.
+
+2. Durante las ausencias del Contralor, los asuntos de su competencia estarán a cargo del Subcontralor y, en ausencia de éste, del titular del Departamento de Asuntos Jurídicos.
+
+3. Las ausencias de los titulares de los Departamentos de la Contraloría serán suplidas por el funcionario que designe por escrito el Contralor.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2012)</small>
+
+###### Artículo 36 Bis.
+
+1. Corresponde originalmente a su titular, el ejercicio de las atribuciones que a favor de la Contraloría prevé el Código y la Constitución. Además, tendrá las siguientes:
 
 I. Elaborar y ejecutar su programa anual de trabajo;
 
@@ -1285,9 +1309,153 @@ II. Rendir un informe anual al Congreso del Estado de Jalisco;
 
 III. Ejercer los recursos que le sean asignados por el Consejo General;
 
-IV. Vigilar que las erogaciones y adquisiciones del Instituto se ajusten a las partidas y montos autorizados; y,
+IV. Vigilar que las erogaciones y adquisiciones del Instituto se ajusten a las partidas y montos autorizados, así como a las disposiciones aplicables;
 
-V. Las demás establecidas en el Código.
+V. Notificar al servidor público probable responsable, la queja o denuncia con sus anexos, que se haya instaurado en su contra, para los efectos legales que prevé el Código;
+
+VI. Citar al probable responsable a una audiencia, en los supuestos previstos en el Código, haciéndole saber la responsabilidad que se le impute, el lugar, día y hora en que tendrá verificativo dicha audiencia, y su derecho a ofrecer pruebas y alegar en la misma lo que a su derecho convenga, por sí o por medio de un defensor;
+
+VII. Imponer la sanción que corresponda y dictar las medidas para su corrección o remedio inmediato, cuando se compruebe la existencia de la infracción motivo de la queja o denuncia en contra de un servidor público del Instituto;
+
+VIII. Solicitar a las entidades e instituciones públicas competentes, la información relacionada con los servidores públicos del Instituto, que permita verificar la evolución de su patrimonio;
+
+IX. Solicitar al Secretario Ejecutivo el apoyo necesario en los procedimientos instaurados para vigilar el correcto empleo de los recursos financieros del Instituto y, en su caso, en los procedimientos para la determinación de responsabilidades e imposición de sanciones a sus servidores públicos;
+
+X. Participar con voz pero sin voto, en las sesiones del Consejo General para aclarar aspectos técnicos relacionados con sus informes previo y anual o cuando con motivo del ejercicio de sus funciones, lo considere necesario el Consejero Presidente;
+
+XI. Determinar, en los términos previstos en el Código, la suspensión temporal del probable responsable de su cargo, empleo o comisión, cuando así convenga a la mejor conducción o continuación de las investigaciones dentro de un procedimiento sancionador;
+
+XII. Ordenar la práctica de visitas, auditorías o revisiones a las áreas del Instituto para el cumplimiento de las atribuciones de la Contraloría; designando, en su caso, a los servidores públicos que deban practicarlas;
+
+XIII. Emitir las circulares, manuales, lineamientos y demás normativa interna que se requieran para el cumplimiento de las atribuciones de la Contraloría; y
+
+XIV. Las demás establecidas en los ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2012)</small>
+
+###### Artículo 36 Ter.
+
+La Subcontraloría tendrá las atribuciones siguientes:
+
+I. Auxiliar al Contralor en el ejercicio de sus atribuciones;
+
+II. Llevar el registro de la documentación recibida y dar cuenta de ésta al Contralor;
+
+III. Recibir, analizar, sistematizar y resguardar los informes mensuales de cada uno de los Departamentos de área de la Contraloría;
+
+IV. Proponer al Contralor el programa anual de trabajo de la Contraloría, así como el informe previo y anual de gestión;
+
+V. Planear y coordinar las actividades de la Contraloría conforme a su programa anual de trabajo;
+
+VI. Dar seguimiento a las denuncias o quejas presentadas en contra de los servidores públicos del Instituto;
+
+VII. Intervenir en los procesos de entrega-recepción por inicio o conclusión de encargo de los servidores públicos del Instituto;
+
+VIII. Llevar el control y administración del archivo de la Contraloría;
+
+IX. Dar cuenta al Contralor de los acuerdos del Consejo General que se relacionen con las funciones de la Contraloría; y
+
+X. Las demás que le encomiende el Contralor.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2012)</small>
+
+###### Artículo 36 Quater.
+
+El Departamento de Asuntos Jurídicos tendrá las atribuciones siguientes:
+
+I. Sustanciar los procedimientos administrativos disciplinarios promovidos en contra de los servidores públicos del Instituto y elaborar el proyecto de su resolución, conforme a las disposiciones legales aplicables;
+
+II. Participar en las visitas de verificación a las sedes de los órganos del Instituto, para revisar el cumplimiento de las obligaciones de los servidores públicos, en el ejercido de recursos financieros; así como requerir y recabar evidencias relacionadas con la causa de las auditorías o visitas de verificación;
+
+III. Proyectar la base legal de los pliegos de observaciones en materia administrativa emitidos por la Contraloría;
+
+IV. Proponer al Contralor los formatos en los que se presentarán las declaraciones de situación patrimonial de los servidores públicos obligados; expedir los acuses de recibo que acrediten su cumplimiento; así como crear y actualizar la relación de los servidores públicos omisos;
+
+V. Recibir y resguardar las declaraciones de situación patrimonial presentadas por los servidores públicos obligados del Instituto;
+
+VI. Analizar y dar seguimiento a la evolución patrimonial de los servidores públicos del Instituto;
+
+VII. Informar al Contralor sobre los servidores públicos que hayan sido omisos en presentar su declaración de situación patrimonial;
+
+VIII. Proponer para su aprobación los lineamientos, manuales o disposiciones de carácter administrativo relacionados con las funciones de la Contraloría;
+
+IX. Informar mensualmente al Contralor sobre las actividades realizadas por el Departamento a su cargo;
+
+X. Brindar el servicio de consulta y asesoría en las materias de su competencia, a las Unidades Administrativas de la Contraloría;
+
+XI. Elaborar, revisar o proponer los convenios o acuerdos que suscriba la Contraloría con otros entes de gobierno en ejercicio de sus funciones;
+
+XII. Coadyuvar en procedimientos judiciales, administrativos y laborales que tengan relación con las funciones de la Contraloría o cualquiera de sus servidores públicos;
+
+XIII. Presentar ante el Ministerio Público denuncia o querella de los hechos que puedan constituir delito y afecten al Instituto, prestándole la colaboración requerida;
+
+XIV. Resguardar y actualizar el registro de servidores públicos sancionados y expedir las constancias de existencia o inexistencia de sanción administrativa a las personas que lo soliciten;
+
+XV. Dictaminar sobre las formalidades y requisitos que deben contener los documentos de uso oficial que se utilicen en forma reiterada en las actividades de la Contraloría;
+
+XVI. Intervenir en los procesos de entrega-recepción por inicio o conclusión de encargo de los servidores públicos del Instituto;
+
+XVII. Realizar las notificaciones derivadas del trámite de los procedimientos de responsabilidad administrativa; y
+
+XVIII. Las demás que le encomiende el Contralor.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2012)</small>
+
+Artículo 36 Quinques. El Departamento de Fiscalización tendrá las atribuciones siguientes:
+
+I. Proponer al Contralor los criterios para la realización de las auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de los recursos financieros a cargo de los órganos del Instituto;
+
+II. Proponer al Contralor las normas, procedimientos, métodos y sistemas de contabilidad y archivo, de los libros y documentos justificativos y comprobatorios del ingreso y del gasto del Instituto; así como de aquellos elementos que permitan la práctica idónea de las auditorías y revisiones en el cumplimiento de las funciones de la Contraloría en materia de fiscalización de recursos financieros;
+
+III. Evaluar los informes de avance de la gestión financiera del presupuesto de egresos aprobado al Instituto, respecto del ejercicio fiscal en curso; así como de los ejercicios anuales concluidos de la cuenta pública;
+
+IV. Practicar auditorías o visitas de verificación a las sedes de los órganos del Instituto, para revisar el cumplimiento de sus obligaciones derivadas de la aplicación de los recursos financieros; así como requerir y recabar las evidencias necesarias relacionadas con la causa de la auditaría o visita de verificación;
+
+V. Revisar a través de auditorías o visitas de verificación que las operaciones presupuestales que realice el Instituto con terceros, se apeguen a las disposiciones legales en materia de presupuesto, contabilidad y gasto público;
+
+VI. Compulsar con los proveedores, arrendadores y terceros que hubieran contratado productos, bienes o servicios con el Instituto, la información relacionada con la documentación justificativa y comprobatoria respectiva;
+
+VII. Informar al Contralor los resultados de las auditorías, visitas y revisiones realizadas y, en su caso, formular observaciones o recomendaciones en relación al ejercicio de recursos financieros;
+
+VIII. Evaluar los informes justificativos rendidos con motivo de la formulación de pliegos de observaciones y, en su caso, proponer al Contralor el dictamen de solvencia o insolvencia de las observaciones;
+
+IX. Verificar y hacer constar en actas administrativas, las circunstancias que rodean a las obras, productos o servicios, adquiridos o enajenados por el Instituto, en materia de recursos financieros;
+
+X. Actuar como enlace con la Auditoría Superior del Estado de Jalisco, en la revisión de la cuenta pública del Instituto;
+
+XI. Brindar el servicio de consulta y asesoría, en las materias de su competencia a las unidades administrativas de la Contraloría;
+
+XII. Informar mensualmente al Contralor sobre las actividades realizadas por el Departamento a su cargo;
+
+XIII. Asistir a las sesiones de la Comisión de Adquisiciones y Enajenaciones del Instituto, para verificar que los procedimientos de adquisición se ajusten a los montos establecidos; y
+
+XIV. Las demás que le encomiende el Contralor.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2012)</small>
+
+###### Artículo 36 Sexies.
+
+El Departamento de Gestión y Control tendrá las atribuciones siguientes:
+
+I. Evaluar el avance y cumplimiento de los objetivos establecidos en el programa anual de trabajo de la Contraloría;
+
+II. Proponer al Contralor los mecanismos de orientación y cursos de capacitación necesarios para que los servidores públicos del Instituto, cumplan adecuadamente con sus responsabilidades administrativas;
+
+III. Proponer al Contralor los lineamientos, políticas y manuales que deban observarse en la emisión, guarda, custodia, manejo y destrucción de la información y documentación que se genere en la Contraloría;
+
+IV. Crear y actualizar el registro de los servidores públicos del Instituto, que reciban capacitación para el desempeño de sus funciones; así como emitir las constancias que acrediten la participación en los cursos impartidos por la Contraloría;
+
+V. Proponer al Contralor normas generales de control interno para el Instituto;
+
+VI. Verificar la correcta operación de los sistemas informáticos implantados en la Contraloría;
+
+VII. Informar mensualmente al Contralor sobre las actividades realizadas en el Departamento a su cargo;
+
+VIII. Brindar el servicio de consulta y asesoría, en las materias de su competencia a las unidades administrativas de la Contraloría;
+
+IX. Actuar como enlace con los órganos correspondientes del Instituto en asuntos relacionados con la gestión pública; y
+
+X. Las demás que le encomiende el Contralor.
 
 ###### Artículo 37.
 
@@ -1896,3 +2064,7 @@ SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su public
 P.O. 19 DE NOVIEMBRE DE 2011.
 
 Único. El presente acuerdo entra en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 8 DE MAYO DE 2012.
+
+ÚNICO. El presente reglamento entra en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Jalisco".
