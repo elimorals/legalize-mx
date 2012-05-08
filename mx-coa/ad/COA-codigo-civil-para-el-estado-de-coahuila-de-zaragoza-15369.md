@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2012-02-24"
+last_updated: "2012-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 25 de junio de 1999.
 
@@ -2545,7 +2545,7 @@ La muerte de uno de los cónyuges pone fin al juicio de divorcio, y los heredero
 
 Ejecutoriada una sentencia de divorcio, el Juez de Primera Instancia remitirá copia certificada de la sentencia y los datos de identificación de las actas de nacimiento y matrimonio de los divorciados, al Oficial ante quien se celebró el matrimonio y a la Dirección Estatal del Registro Civil, para que se proceda a levantar el acta de divorcio por el primero, y a realizar las anotaciones marginales correspondientes por ambos.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2007)</small>
 
 ## TÍTULO PRIMERO BIS. DEL PACTO CIVIL DE SOLIDARIDAD
 
@@ -10701,7 +10701,7 @@ Cesa la responsabilidad a que se refiere el párrafo anterior, cuando los menore
 
 Los directores de internados, de colegios, de talleres, los maestros de aquéllos y éstos y los directores de hospitales y manicomios, son responsables de los daños y perjuicios que causen los menores o mayores incapaces, que estén bajo su cuidado y mientras dure éste.
 
-###### ARTICULO 1858.
+###### ARTÍCULO 1858.
 
 Las personas a quienes los dos artículos anteriores imponen la reparación del daño causado por incapaces a su cuidado, se liberan de esa obligación, si prueban que les fue imposible evitar el daño y que cuidaron y vigilaron diligentemente al autor de éste, quien en tal supuesto será el único deudor de la responsabilidad civil.
 
@@ -19675,9 +19675,7 @@ La disolución de la sociedad no modifica los compromisos contraídos con person
 
 ### CAPÍTULO ÚNICO. DE LA ORGANIZACIÓN DEL REGISTRO PÚBLICO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
 
 ###### ARTÍCULO 3568.
 
@@ -19777,15 +19775,15 @@ Si se conviene que la partición la haga una persona extraña a la sociedad y a 
 
 ###### ARTÍCULO 3588.
 
-El Registro Público del Estado de Coahuila es una institución jurídica unitaria, dependiente del Poder Ejecutivo, que podrá administrarlo directamente o a través del organismo a que se le asigne esta función, que tiene por objeto regular la inscripción de los actos relativos a la constitución, transmisión, modificación, gravamen y extinción del derecho de propiedad y de los demás derechos reales sobre los bienes; los actos relativos a la constitución, modificación y extinción de las personas morales; así como los otros actos, negocios, resoluciones y diligencias judiciales a que este mismo título se refiere, y a las consecuencias inherentes a dichas inscripciones.
+El Registro Público del Estado de Coahuila es una institución jurídica unitaria, dependiente del poder ejecutivo, que tiene por objeto regular la inscripción de los actos relativos a la constitución, transmisión, modificación, gravamen y extinción del derecho de propiedad y de los demás derechos reales sobre los bienes; los actos relativos a la constitución, modificación y extinción de las personas morales; así como los otros actos, negocios, resoluciones y diligencias judiciales a que este mismo título se refiere, y a las consecuencias inherentes a dichas inscripciones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
 
 ###### ARTÍCULO 3589.
 
-La Ley Reglamentaria del Registro Público fijará y nominará las Secciones de que se componga el Registro, precisará los títulos que deban inscribirse en cada una de ellas, el número de libros y sus correspondientes requisitos, y determinará el sistema y métodos mediante los cuales funcionará.
+La Ley Reglamentaria del Registro Público del Estado de Coahuila de Zaragoza organizará la institución y determinará el número de autoridades, su jerarquía, atribuciones y deberes, así como las circunscripciones territoriales en que se divida el Estado y los municipios que comprenda cada una de ellas. Igualmente fijará y nominará las secciones de que se componga el registro, precisará los títulos que deban inscribirse en cada una de ellas, el número de libros y sus correspondientes requisitos, y determinará el sistema y métodos mediante los cuales funcionará.
+
+La misma ley establecerá los requisitos necesarios para desempeñar los cargos que requiera el funcionamiento del registro.
 
 ###### ARTÍCULO 3590.
 
@@ -20013,11 +20011,15 @@ Los asientos del Registro Público, en cuanto se refieran a derechos inscribible
 
 El registro producirá sus efectos desde el día y la hora en que el documento se hubiese presentado, siempre que se cumpla con lo dispuesto por la Ley Reglamentaria del Registro Público, salvo lo dispuesto en el artículo siguiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2012)</small>
+
 ###### ARTÍCULO 3614.
 
-Cuando vaya a otorgarse una escritura en la que se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión de bienes raíces, o cualquier derecho real sobre los mismos, o que sin serlo sea inscribible, el notario o autoridad ante quien se haga el otorgamiento, deberá solicitar al Registro Público certificado sobre la existencia o inexistencia de gravámenes en relación con la misma. En dicha solicitud que surtirá efectos de aviso pre-preventivo deberá mencionar la operación y bien de que se trate, los nombres de los contratantes y el respectivo antecedente registral. El Registrador, con esta solicitud y sin cobro de derechos por este concepto, practicará inmediatamente la anotación de presentación en la partida respectiva, anotación que tendrá vigencia por un término de treinta días naturales a partir de la fecha de presentación de la solicitud. Si existe certificado de gravámenes vigente, el aviso pre-preventivo se podrá presentar en documento independiente.
+Cuando vaya a otorgarse una escritura en la que se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión de bienes raíces, o cualquier derecho real sobre los mismos, o que sin serlo sea inscribible, el notario o autoridad ante quien se haga el otorgamiento, deberá solicitar al registro público certificado sobre la existencia o inexistencia de gravámenes en relación con la misma. En dicha solicitud que surtirá efectos de aviso pre-preventivo deberá mencionar la operación y bien de que se trate, los nombres de los contratantes y el respectivo antecedente registral. El registrador, con esta solicitud practicará inmediatamente la anotación de presentación en la partida respectiva, anotación que tendrá vigencia por un término de treinta días naturales a partir de la fecha de presentación de la solicitud. Si existe certificado de gravámenes vigente, el aviso pre-preventivo se podrá presentar en documento independiente.
 
-Una vez firmada la escritura que produzca cualquiera de las consecuencias mencionadas en el párrafo precedente, el notario ante quien se otorgó dará aviso preventivo acerca de la operación de que se trate al Registro Público, dentro de las cuarenta y ocho horas siguientes y contendrá además de los datos mencionados en el párrafo anterior la fecha de la escritura y la de su firma. El Registrador, con el aviso citado y sin cobro de derecho alguno, practicará de inmediato la anotación de presentación correspondiente, la cual tendrá una vigencia de noventa días naturales a partir de la fecha de presentación del aviso. Si éste se da dentro del término de treinta días a que se contrae el párrafo primero sus efectos preventivos se retrotraerán a la fecha de presentación de la solicitud a que se refiere el mismo párrafo; en caso contrario, sólo surtirá efectos desde la fecha en que fue presentado y según el número de entrada que le corresponda.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
+
+Una vez firmada la escritura que produzca cualquiera de las consecuencias mencionadas en el párrafo precedente, el notario ante quien se otorgó dará aviso preventivo acerca de la operación de que se trate al registro público, dentro de las cuarenta y ocho horas siguientes y contendrá además de los datos mencionados en el párrafo anterior la fecha de la escritura y la de su firma. El registrador, con el aviso practicará de inmediato la ·anotación de presentación correspondiente, la cual tendrá una vigencia de noventa días naturales a partir de la fecha de presentación del aviso. Si éste se da dentro del término de treinta días a que se contrae el párrafo primero sus efectos preventivos se retrotraerán a la fecha de presentación de la solicitud a que se refiere el mismo párrafo; en caso contrario, sólo surtirá efectos desde la fecha en que fue presentado y según el número de entrada que le corresponda.
 
 Si el testimonio respectivo se presentare al Registro Público dentro de cualquiera de los dos términos que señalan los párrafos anteriores, su inscripción surtirá efectos contra terceros desde la fecha de presentación del aviso y con arreglo a su número de entrada. Si el documento se presentare fenecidos los referidos plazos su registro sólo surtirá efectos desde la fecha de presentación.
 
@@ -20069,9 +20071,7 @@ Las inscripciones que se practiquen en relación a bienes muebles y personas mor
 
 ### CAPÍTULO VII. DE LOS MEDIOS DE IMPUGNACIÓN
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
 
 ###### ARTÍCULO 3624.
 
@@ -20127,13 +20127,11 @@ VII. Cuando falte algún otro requisito que deba llenar el documento de acuerdo 
 
 En caso de que el Registrador niegue o suspenda la inscripción o anotación, devolverá el título sin registrar, expresando por escrito la causa y fundamento de su negativa, entregando la resolución al interesado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2012)</small>
 
 ###### ARTÍCULO 3631.
 
-En el caso a que se refiere el artículo anterior, el Registrador tiene la obligación de hacer una inscripción preventiva, a fin de que si el superior jerárquico ordena que se registre o anote el título rechazado, la inscripción o anotación definitivas surta sus efectos desde que por primera vez se presentó el título.
+En el caso a que se refiere el artículo anterior, el registrador tiene la obligación de hacer una inscripción preventiva, a fin de que si el Director General del registro ordena que se registre o anote el título rechazado, la inscripción o anotación definitivas surta sus efectos desde que por primera vez se presentó el título.
 
 La inscripción preventiva sólo podrá cancelarse hasta que la resolución definitiva quede firme.
 
@@ -20169,11 +20167,11 @@ En los casos de las fracciones I y II del artículo que precede, los interesados
 
 Hecho el registro, serán devueltos los documentos al que los presentó, con la nota de haber quedado registrados, la cual contendrá la fecha de presentación, la fecha de la inscripción o anotación y los demás datos de identificación de éstas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE MAYO DE 2012)</small>
 
 ###### ARTÍCULO 3637.
 
-(DEROGADO, P.O. 18 DE JUNIO DE 2010)
+La Ley Reglamentaría del Registro Público del Estado de Coahuila de Zaragoza establecerá los derechos y obligaciones de los registradores, así como las fórmulas y demás requisitos que deben llenar las inscripciones.
 
 ###### ARTÍCULO 3638.
 
@@ -20437,27 +20435,25 @@ Las inscripciones preventivas se cancelarán no solamente cuando se extinga el d
 
 ###### ARTÍCULO 3678.
 
-Contra las resoluciones y omisiones del Registrador procede el recurso de inconformidad ante el superior jerárquico.
+Contra las resoluciones y omisiones del registrador procede el recurso de inconformidad ante el Director General del Registro Público.
 
 ###### ARTÍCULO 3679.
 
 El recurso deberá interponerse por escrito, dentro del término de tres días hábiles siguientes al en que tenga conocimiento la parte afectada, expresándose los razonamientos y fundamentos legales que justifiquen la impugnación y anexando, en su caso, el instrumento rechazado y copia certificada del acto impugnado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
 
 ###### ARTÍCULO 3680.
 
-El Registrador remitirá al superior jerárquico dentro de los tres días hábiles siguientes, un informe sobre su actuación, acompañando en su caso las documentales que estime necesarias, quien resolverá lo procedente dentro del término de tres días hábiles.
+El registrador remitirá al Director General del Registro Público dentro de los tres días hábiles siguientes, un informe sobre su actuación, acompañando en su caso las documentales que estime necesarias.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+El director general resolverá lo procedente dentro del término de tres días hábiles.
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
 
 ###### ARTÍCULO 3681.
 
-Contra las resoluciones emitidas al recurso de inconformidad a que se refiere el artículo 3678 no procede recurso alguno.
+Contra las resoluciones del Director General del Registro Público no procede recurso alguno.
 
 ###### ARTÍCULO 3682.
 
@@ -20728,3 +20724,17 @@ P.O. 24 DE FEBRERO DE 2012.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Coahuila de Zaragoza.
 
 SEGUNDO.- El Registro Civil, contará con un plazo de 60 días a partir de la entrada en vigor del presente decreto para crear y operar el Registro Estatal de Deudores Alimentarios Morosos. Una vez que entre en funciones deberá dar trámite inmediato a las resoluciones judiciales que se hubieren efectuado durante el periodo existente entre la entrada en vigor de este decreto y la creación del Registro Estatal de Deudores Alimentarios Morosos.
+
+P.O. 8 DE MAYO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las facultades y obligaciones a que se refiere este decreto, que en otras leyes, reglamentos, acuerdos, convenios y demás ordenamientos jurídicos federales, estatales o municipales se atribuyan al Servicio de Administración Tributaria del Estado de Coahuila en materia fiscal, se entenderán conferidas a la Administración Fiscal General.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
