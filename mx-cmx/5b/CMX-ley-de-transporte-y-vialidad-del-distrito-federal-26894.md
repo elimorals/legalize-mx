@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transporte-y-vialidad-del-distrito-federal-26894"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-26"
-last_updated: "2011-02-04"
+last_updated: "2012-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26894&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-12"
 
 LEY DE TRANSPORTE Y VIALIDAD DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE MAYO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 26 de diciembre del 2002.
 
@@ -50,7 +50,7 @@ LEY DE TRANSPORTE Y VIALIDAD DEL DISTRITO FEDERAL
 
 ### CAPÍTULO I. GENERALIDADES
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JULIO DE 2008)</small>
 
 ###### Artículo 1.
 
@@ -326,7 +326,9 @@ XLI.- Promover la investigación y el desarrollo tecnológico en materia de vial
 
 XLII.- Coadyuvar con las instancias de la Administración Pública Local y Federal, para utilizar los servicios de transporte público de personas y de carga en caso de emergencia, desastres naturales y seguridad nacional;
 
-XLIII.- Mantener un padrón actualizado de los prestadores del servicio de transporte de pasajeros en bicicletas adaptadas de todo el Distrito Federal;
+> <small>(REFORMADA, G.O. 8 DE MAYO DE 2012)</small>
+
+XLIII. Planear, ordenar, regular, reglamentar, inspeccionar, vigilar, supervisar y controlar el servicio de transporte de pasajeros en bicicletas adaptadas; elaborar los estudios técnicos y de necesidades de esta modalidad de servicio de transporte de pasajeros; expedir el manual técnico del vehículo tipo autorizado para el Distrito Federal; otorgar los permisos correspondientes por tres años a los prestadores del servicio de transporte de pasajeros en bicicletas adaptadas de todo el Distrito Federal; así como, mantener un padrón actualizado con todos los datos que se determinen en el reglamento de esta modalidad de servicio de transporte de pasajeros;
 
 XLIV.- Llevar un registro de la capacitación impartida por la Secretaría a todas las personas involucradas o relacionadas con los servicios de transporte en el Distrito Federal, así como aquella que es impartida por los concesionarios o permisionarios con sus propios medios;
 
@@ -384,19 +386,19 @@ VII.- Instaurar, substanciar, resolver y ejecutar los procedimientos administrat
 
 VIII.- Aplicar en el ámbito de sus facultades las sanciones previstas en el presente ordenamiento, previo cumplimiento del procedimiento legal correspondiente;
 
-IX.- Previó estudio de necesidades, otorgar permisos hasta por tres años, para prestar el servicio de transporte de personas en bicicletas adaptadas dentro de su demarcación y llevar un padrón de los mismos;
+IX.- (DEROGADA, G.O. 8 DE MAYO DE 2012)
 
-X.- Realizar todas aquellas acciones tendientes a que el servicio de transporte de personas en bicicletas adaptadas, además de llevarse con eficacia y eficiencia, garanticen la seguridad de los usuarios, peatones y los derechos de los permisionarios;
+X.- (DEROGADA, G.O. 8 DE MAYO DE 2012)
 
-XI.- Actualizar permanentemente el padrón de los permisionarios de transporte de personas en bicicletas adaptadas, así como, sanciones, representantes, conductores, y los demás que sean necesarios a juicio de la Delegación;
+XI.- (DEROGADA, G.O. 8 DE MAYO DE 2012)
 
-XII.- Regular la publicidad en las bicicletas adaptadas que prestan el servicio de transporte de personas, de conformidad a la presente Ley y demás disposiciones jurídicas y administrativas aplicables;
+XII.- (DEROGADA, G.O. 8 DE MAYO DE 2012)
 
 XIII.- Crear Comités de Transporte y Vialidad, como canal de captación, seguimiento, atención de las peticiones y demandas ciudadanas, su funcionamiento y conformación se establecerá en el Reglamento correspondiente;
 
 XIV.- Emitir Visto Bueno para la aprobación de bases, sitios y lanzaderas de transporte público, en las vías secundarias de su demarcación;
 
-XV.- Realizar la inspección, verificación y vigilancia del servicio de transporte de personas en bicicletas adaptadas, imponer las sanciones establecidas en la Normatividad aplicable y substanciar y resolver los procedimientos administrativos para la prorroga, revocación, caducidad, cancelación y rescisión de los permisos, cuando proceda conforme a la Ley y disposiciones reglamentarias;
+XV.- (DEROGADA, G.O. 8 DE MAYO DE 2012)
 
 XVI.- Remitir en forma mensual a la Secretaría las actualizaciones para la integración del Padrón de Estacionamientos Públicos, con el número de Declaraciones de Apertura Presentadas y las sanciones que en su caso hayan sido aplicadas.
 
@@ -413,6 +415,18 @@ b) Trasladar a los depósitos correspondientes las cajas, remolques y vehículos
 c) Retirar de la vía publica todo tipo de objetos que obstaculicen, limiten o impidan el uso adecuado de estas vías y que hayan sido colocados sin el permiso correspondiente. Los objetos retirados se reputaran como mostrencos y su destino quedara al arbitrio de la delegación que los retiro.
 
 Para el cumplimiento de las facultades anteriores, las Delegaciones suscribirán los convenios correspondientes con la Secretaría de Seguridad Pública.
+
+> <small>(ADICIONADO, G.O. 8 DE MAYO DE 2012)</small>
+
+###### Artículo 9 Ter.
+
+Son obligaciones de las Delegaciones en materia de servicio de transporte de pasajeros en bicicletas adaptadas:
+
+I.- Emitir opinión previa sobre la viabilidad de las autorizaciones de la Secretaría a los permisionarios del servicio de transporte de pasajeros en bicicletas adaptadas, dentro de su demarcación;
+
+II.- Contribuir con todas aquellas acciones de la Secretaría tendientes a que el servicio de transporte de personas en bicicletas adaptadas, además de prestarse con eficacia y eficiencia, garanticen la seguridad de los usuarios, peatones y los derechos de los permisionarios; y,
+
+III.- Emitir opinión previa ante la Secretaría sobre la estructuración, redistribución, modificación y adecuación de los circuitos, derroteros y recorridos en los cuales se autoriza la prestación del servicio, de conformidad con las disposiciones de esta Ley, en particular, con la fracción XLIII de su Artículo 7°, los programas y normas vigentes, las necesidades y las condiciones derivadas de la oferta, la demanda y el interés público.
 
 ###### Artículo 10.
 
@@ -578,7 +592,7 @@ Los vehículos que transporten productos perecederos estarán exentos de esta di
 
 ### CAPÍTULO II. DE LAS CONCESIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 24.
 
@@ -586,9 +600,9 @@ En ejercicio de las facultades conferidas en esta Ley, la Secretaría otorgará 
 
 Para efectos de esta Ley y sus ordenamientos reglamentarios, constituye servicio público de transporte de carga, exclusivamente, el que realizan las personas físicas o morales en los sitios, lanzaderas y bases de servicio, al amparo de la concesión, y demás documentos expedidos por las autoridades competentes.
 
-> <small>(DEROGADO TERCER PARRAFO, G.O. 20 DE DICIEMBRE DE 2007)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 20 DE DICIEMBRE DE 2007)</small>
 
-> <small>(DEROGADO CUARTO PARRAFO, G.O. 20 DE DICIEMBRE DE 2007)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, G.O. 20 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 25.
 
@@ -678,7 +692,7 @@ Las unidades destinadas al servicio público de transporte de pasajeros y de car
 
 Quedan excluidos de esta disposición los vehículos eléctricos y de nueva tecnológica ecológica, los cuales se regirán por su manual de referencia.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 20 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 20 DE DICIEMBRE DE 2007)</small>
 
 ### CAPÍTULO II BIS. DEL SERVICIO DE TRANSPORTE PÚBLICO DE PASAJEROS COLECTIVO Y DE CARGA
 
@@ -710,7 +724,7 @@ V.- Las condiciones generales para la prestación del servicio de que se trate; 
 
 VI.- Las demás que señalen las disposiciones jurídicas y administrativas aplicables.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 20 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 20 DE DICIEMBRE DE 2007)</small>
 
 ### CAPÍTULO II TER. DEL SERVICIO DE TRANSPORTE PÚBLICO DE PASAJEROS INDIVIDUAL
 
@@ -740,7 +754,7 @@ VI.- Las demás que el Jefe de Gobierno estime pertinentes para la mejor prestac
 
 El Jefe de Gobierno, tomando como base los resultados del último balance realizado, determinará si subsiste la necesidad de otorgar más concesiones, o bien, si la vigencia de la declaratoria emitida ha concluido.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 20 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 20 DE DICIEMBRE DE 2007)</small>
 
 ### CAPÍTULO II QUATER. DE LA CONCESIÓN CON MEDIDAS ESPECÍFICAS PARA LA SEGURIDAD EN EL SERVICIO DE TRANSPORTE PÚBLICO DE PASAJEROS INDIVIDUAL
 
@@ -950,7 +964,7 @@ IV.- El beneficiario deberá cumplir con lo dispuesto en las fracciones III y IV
 
 La solicitud de transmisión de derechos, por alguna de las causas señaladas en la fracción II (sic) este precepto, deberá presentarse dentro de los sesenta días siguientes, al que se haya actualizado alguno de los supuestos. El no cumplir con esta obligación, será causa de preclusión.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 38.
 
@@ -968,7 +982,7 @@ III.- Que el titular propuesto reúna los requisitos establecidos en la concesi�
 
 IV.- Que el titular propuesto acepte expresamente, en su caso, las modificaciones establecidas por la Secretaría para garantizar la adecuada prestación del servicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 39.
 
@@ -976,7 +990,7 @@ La solicitud para la autorización de cesión o transmisión de derechos y oblig
 
 De aprobarse la cesión de una concesión, el nuevo titular se subrogará en los derechos y obligaciones que le son inherentes y será responsable de la prestación del servicio en los términos y condiciones en que fue inicialmente otorgada la concesión, además de las modificaciones que en su caso, hubiere realizado la Secretaría.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 40.
 
@@ -2282,7 +2296,7 @@ POR LA MESA DIRECTIVA.- DIP. MARCO ANTONIO MICHEL DÍAZ, PRESIDENTE.- SECRETARIA
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los doce días del mes de diciembre del dos mil dos.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ AGUSTÍN ORTIZ PINCHETTI.- FIRMA.- LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA, LAURA ITZEL CASTILLO JUÁREZ.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, CÉSAR BUENROSTRO HERNÁNDEZ.- FIRMA.- EL SECRETARIO DE TRANSPORTE Y VIALIDAD, FRANCISCO GARDUÑO YAÑEZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, H. MARCELO EBRARD CASAUBÓN.- FIRMA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 13 DE SEPTIEMBRE DE 2004.
 
@@ -2322,7 +2336,7 @@ Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia
 
 G.O. 13 DE SEPTIEMBRE DE 2007.
 
-DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 72, 73, 74 Y 76.
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 72, 73, 74 Y 76.
 
 PRIMERO.- El presente Decreto entrará en vigor el primero de enero del año dos mil ocho. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
@@ -2330,7 +2344,7 @@ SEGUNDO.- Se derogan todas las disposiciones contrarias a este Decreto.
 
 G.O. 13 DE SEPTIEMBRE DE 2007.
 
-DECRETO POR EL QUE SE REFORMAN LOS ARTICULOS 36, 37, 38, 39, 40 y 41
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 36, 37, 38, 39, 40 y 41
 
 Primero.- El presente Decreto entrará en vigor a los 30 días siguientes al de su publicación en la Gaceta Oficial del Distrito Federal. Para mayor difusión publíquese en el Diario Oficial de la Federación.
 
@@ -2383,3 +2397,19 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- La Secretaría contará con un plazo de 120 días, a partir de la entrada en vigor del presente Decreto, para realizar las modificaciones técnicas necesarias para la aplicación de las obligaciones que se deriven del mismo.
 
 Artículo Tercero.- En el caso de las licencias expedidas con el carácter de permanente, los conductores que cuenten con ellas, podrán manifestar su voluntad de ser donadores de órganos y tejidos, para tal efecto, la Secretaría dispondrá de las medidas para el cambio de formato, sin que implique la pérdida de los derechos adquiridos de la licencia permanente.
+
+G.O. 8 DE MAYO DE 2012.
+
+PRIMERO.- El manual técnico del vehículo tipo autorizado para el Distrito Federal, que emita la Secretaría, será publicado dentro de los noventa días naturales siguientes a la publicación de la presente reforma.
+
+SEGUNDO.- El Jefe de Gobierno del Distrito Federal publicará el Reglamento para la Prestación del Servicio de Transporte de Pasajeros en Bicicletas Adaptadas, a los ciento veinte días naturales siguientes a la publicación de la presente reforma.
+
+TERCERO.- Se abrogan todas las disposiciones que se opongan a esta reforma.
+
+CUARTO.- La verificación administrativa para este modo de transporte en bicicletas adaptadas corresponde al Instituto de Verificación Administrativa del Distrito Federal, de acuerdo con las competencias que dispone la Ley en la materia.
+
+QUINTO.- La Secretaría, la Secretaría de Seguridad Pública y las Delegaciones deberán coordinarse interinstitucionalmente para garantizar el cumplimiento de las disposiciones materia de esta reforma.
+
+SEXTO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SÉPTIMO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
