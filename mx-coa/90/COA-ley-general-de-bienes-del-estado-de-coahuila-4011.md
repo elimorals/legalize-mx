@@ -4,7 +4,7 @@ identifier: "COA-ley-general-de-bienes-del-estado-de-coahuila-4011"
 country: "mx"
 rank: "ley_general"
 publication_date: "1974-09-04"
-last_updated: "2010-06-18"
+last_updated: "2012-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY GENERAL DE BIENES DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el miércoles 4 de septiembre de 1974.
 
@@ -239,25 +239,21 @@ IX.- Cualesquiera otros adquiridos por procedimientos de derecho público.
 
 Se equiparan a los bienes especificados en el artículo anterior, los predios o edificios afectados mediante decreto a actividades de interés social a cargo de asociaciones o instituciones privadas que no persigan propósito de lucro.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 22.
 
-Los bienes a que se refiere la fracción VII del artículo 20 de esta Ley, siempre que no se trate de bienes inalienables, podrán gravarse cuando sea conveniente para el mejor financiamiento de las obras o servicios a cargo de la institución propietaria. Podrán igualmente emitirse bonos u obligaciones que se regirán por las disposiciones legales aplicables.
+Los bienes a que se refiere la fracción VII del artículo 20 de esta ley, siempre que no se trate de bienes inalienables, podrán gravarse por acuerdo del Gobernador del Estado y con autorización expresa de la Legislatura local, cuando sea conveniente para el mejor financiamiento de las obras o servicios a cargo de la institución propietaria. Podrán igualmente emitirse bonos u obligaciones que se regirán por las disposiciones aplicables, previa aprobación del Congreso del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
-
-Las operaciones que se realicen conforme a este artículo, deberán cumplir con lo establecido en la Ley de Deuda Pública para el Estado de Coahuila de Zaragoza. Los bienes quedarán sometidos de pleno derecho a las reglas del derecho común y los acreedores podrán ejercitar respecto de ellos, todas las acciones que les correspondan, sin limitación alguna. El Estado no será parte en los juicios que con este motivo se inicien.
+Otorgada la autorización a que se refiere el párrafo anterior, los bienes quedarán sometidos de pleno derecho a las reglas del derecho común y los acreedores podrán ejercitar respecto de ellos todas las acciones que les correspondan, sin limitación alguna. El Estado no será parte en los juicios que con este motivo se inicien.
 
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
 Tratándose de los bienes inmuebles que constituyan el patrimonio de entidades paramunicipales, siempre que no se trate de bienes del dominio público, podrán gravarse por acuerdo de las dos terceras partes de los miembros del ayuntamiento, conforme a lo previsto en este artículo y demás disposiciones aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
 
@@ -265,17 +261,17 @@ Tratándose de los bienes inmuebles que constituyan el patrimonio de entidades p
 
 Si una dependencia del Poder Ejecutivo estimare conveniente la adquisición de un inmueble para destinarlo a servicio público o para uso común, lo comunicará a las autoridades que tengan a su cargo la administración del patrimonio del Estado las que, previo acuerdo del C. Gobernador, hará las gestiones necesarias y el arreglo de los términos de la compra hasta ultimarlos, llegando al otorgamiento, registro y archivo de los documentos respectivos.
 
-La firma de los documentos en que se contengan adquisiciones o enajenaciones de inmuebles, corresponde a los CC. Gobernador del Estado y Secretario del Ejecutivo del Estado, sin embrago podrá delegar esta función en el organismo que tenga a su cargo la administración del patrimonio del Estado.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
+
+La firma de los documentos en que se contengan adquisiciones o enajenaciones de inmuebles, corresponde al Gobernador del Estado, mismos que estarán debidamente refrendados por los Titulares de la Secretaría de Gobierno y la Secretaría de Finanzas, sin embargo se podrá delegar esta función a la Secretaría de Finanzas.
 
 ###### ARTICULO 24.
 
 Cuando se trate de adquisiciones por vías de derecho público, se estará a lo dispuesto por la Ley de Expropiación del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
-
-La dependencia respectiva, en coordinación con el organismo que tenga a su cargo la administración del patrimonio estatal, promoverá el procedimiento expropiatorio y solicitará la ocupación temporal de los bienes. Decretada ésta y publicado el acuerdo iniciatorio en el Periódico Oficial se reputará que los bienes pasan a formar parte del patrimonio del Estado.
+La dependencia respectiva, en coordinación con la Secretaría de Finanzas, promoverá el procedimiento expropiatorio y solicitará la ocupación temporal de los bienes. Decretada ésta y publicado el acuerdo iniciatorio en el Periódico Oficial del Gobierno del Estado, se reputará que los bienes pasan a formar parte del patrimonio del Estado.
 
 ###### ARTICULO 25.
 
@@ -293,19 +289,17 @@ Para destinar un inmueble del dominio privado de los municipios a determinado se
 
 No pierden su carácter de bienes destinados a un servicio público los que, estándolo de hecho o por derecho, fueren aprovechados temporalmente en todo o en parte para otro objeto que no se pueda considerar como servicio público, mientras no se dicte la declaración correspondiente en la forma prevista por el artículo anterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 28.
 
-Los inmuebles destinados a un servicio público serán asignados a la dependencia que tenga a su cargo dicho servicio, pero siempre estarán bajo la dependencia y control del Ejecutivo del Estado o del organismo que tenga a su cargo la administración del patrimonio estatal.
+Los inmuebles destinados a un servicio público serán asignados a la dependencia que tenga a su cargo dicho servicio, pero siempre estarán bajo la dependencia y control del Ejecutivo del Estado o de la Secretaría de Finanzas.
 
 ###### ARTICULO 29.
 
 Si estuvieren alojadas en un mismo inmueble propiedad del Estado varias instituciones u oficinas de diversas dependencias, el inmueble quedará a cargo de la dependencia que nombre y expense a los empleados encargados de su cuidado, pero sólo en lo relativo al aspecto exterior del mismo y a los lugares de servicio común como patios, escaleras, corredores, pasillos, etc. y no en las partes interiores del edificio para uso de las instituciones u oficinas dependientes de otros organismos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
 
@@ -321,13 +315,11 @@ Estará a cargo de las dependencias o instituciones que tengan destinados a su s
 
 DE LOS BIENES DEL DOMINIO PRIVADO.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 31.
 
-La adquisición, posesión, conservación, administración y enajenación de los inmuebles de dominio privado del Estado y demás actos jurídicos que los afecten, incluso el conocimiento y resolución de todos los asuntos referentes a contratos u ocupaciones de que sean objeto, corresponde por regla general y a falta de prevención en contrario al Ejecutivo a al organismo que tenga a su cargo la administración del patrimonio del Estado.
+La adquisición, posesión, conservación, administración y enajenación de los inmuebles de dominio privado del Estado y demás actos jurídicos que los afecten, incluso el conocimiento y resolución de todos los asuntos referentes a contratos u ocupaciones de que sean objeto, corresponde por regla general y a falta de prevención en contrario al Ejecutivo del Estado o a la Secretaría de Finanzas.
 
 ###### ARTICULO 32.
 
@@ -377,13 +369,11 @@ La enajenación de los bienes inmuebles de dominio privado del Estado se hará e
 
 La subasta se hará sobre la base del avalúo que practique la sucursal o agencia del Banco de México, S. A. o en su defecto, cualquiera de los bancos de la localidad. En caso de que ninguna institución de crédito pueda practicar el avalúo, servirá de base el que mande practicar la Secretaría General de Gobierno.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 39.
 
-La subasta se practicará el día y hora señalados por el Ejecutivo del Estado a través del organismo encargado de la administración del patrimonio estatal y se ajustara a las disposiciones relativas a remates administrativos. Estas serán también aplicables para determinar la deducción que deba hacerse en cada almoneda, si no hubiere postores en la anterior, o si las posturas no fueren admisibles. La aprobación del remate corresponderá al Gobernador del Estado.
+La subasta se practicará el día y hora señalados por el Ejecutivo del Estado a través de la Secretaría de Finanzas y se ajustará a las disposiciones relativas a remates administrativos. Estas serán también aplicables para determinar la deducción que deba hacerse en cada almoneda, si no hubiere postores en la anterior, o sí las posturas no fueren admisibles. La aprobación del remate corresponderá al Gobernador del Estado.
 
 ###### ARTICULO 40.
 
@@ -391,9 +381,9 @@ Ninguna venta de inmuebles podrá hacerse fijando para el pago total del precio 
 
 El Congreso del Estado podrá, si a su juicio concurren circunstancias especiales que así lo ameriten, variar o suprimir los requisitos, a que se refiere este artículo, precisando la supresión o variación correspondiente al otorgar la autorización prevista en el artículo 36 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 41.
 
@@ -435,21 +425,17 @@ DE LOS MUEBLES DEL DOMINIO PUBLICO Y DEL DOMINIO PRIVADO.
 
 Pertenecen al dominio público del Estado todos los bienes muebles no consumibles por el primer uso, al servicio de las diversas dependencias de los poderes del mismo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
-
-La clasificación y sistemas de inventario tanto de los muebles del dominio público como del dominio privado; así como la estimación de su depreciación, quedarán a cargo del organismo encargado de la administración del patrimonio estatal.
+La clasificación y sistemas de inventario tanto de los muebles del dominio público como del dominio privado; así como la estimación de su depreciación, quedarán a cargo de la Secretaría de Finanzas.
 
 El Gobernador del Estado, tomando en cuenta el valor, la utilidad, la naturaleza o las demás circunstancias propias de los bienes, podrá determinar cuáles muebles no deban ser considerados del dominio público, dictando al efecto los acuerdos correspondientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 48.
 
-La adquisición y enajenación de los bienes muebles propiedad del Estado, corresponde al organismo encargado de la administración del patrimonio estatal, con las salvedades que en beneficio de la atención más oportuna de los servicios públicos procedan a juicio del C. Gobernador.
+La adquisición y enajenación de los bienes muebles propiedad del Estado, corresponde a la Secretaría de Finanzas, con las salvedades que en beneficio de la atención más oportuna de los servicios públicos procedan a juicio del Gobernador del Estado.
 
 ###### ARTICULO 49.
 
@@ -461,19 +447,17 @@ Los muebles del dominio público del Estado serán inalienables, imprescriptible
 
 Acordada la destrucción de un mueble inútil para el servicio, se desafectará del mismo, se dará de baja en el inventario y podrá donarse por acuerdo del C. Gobernador del Estado a personas indigentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 51.
 
-Cuando alguno o algunos bienes muebles propiedad del Estado no sean adecuados para prestar el servicio al que hayan sido destinados, previa autorización del C. Gobernador, el organismo que tenga a su cargo la administración del patrimonio estatal acordará cuál debe ser su mejor aprovechamiento, destino final o venta en remate. Si se trata de explosivos, armamento o bienes de manejo peligroso, su destrucción, venta o uso se hará de acuerdo con las leyes aplicables al caso.
+Cuando alguno o algunos bienes muebles propiedad del Estado no sean adecuados para prestar el servicio al que hayan sido destinados, previa autorización del C. Gobernador, la Secretaría de Finanzas acordará cuál debe ser su mejor aprovechamiento, destino final o venta en remate. Si se trata de explosivos, armamento o bienes de manejo peligroso, su destrucción, venta o uso se hará de acuerdo con las leyes aplicables al caso.
 
 ###### ARTICULO 52.
 
 El Gobierno del Estado, en casos especiales, podrá donar determinados bienes muebles de su propiedad a los municipios o a instituciones de beneficencia, educativas o culturales, previa solicitud que hagan las entidades interesadas ante el Gobernador del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(DEROGADO SEGUNDO PARRAFO, P.O. 18 DE JUNIO DE 2010)</small>
 
@@ -617,11 +601,11 @@ LIC. OSCAR VILLEGAS RICO.
 
 (Rúbrica).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE ORDENAMIENTO.</small>
 
 P.O. 8 DE ABRIL DE 1977.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -658,3 +642,17 @@ El presente Decreto deberá publicarse en el Periódico Oficial del Gobierno del
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 8 DE MAYO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las facultades y obligaciones a que se refiere este decreto, que en otras leyes, reglamentos, acuerdos, convenios y demás ordenamientos jurídicos federales, estatales o municipales se atribuyan al Servicio de Administración Tributaria del Estado de Coahuila en materia fiscal, se entenderán conferidas a la Administración Fiscal General.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
