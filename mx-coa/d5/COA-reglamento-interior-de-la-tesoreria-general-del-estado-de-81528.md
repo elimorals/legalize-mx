@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-tesoreria-general-del-estado-de-81528
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-17"
-last_updated: "2011-05-17"
+last_updated: "2012-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # REGLAMENTO INTERIOR DE LA TESORERIA GENERAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-REGLAMENTO INTERIOR DE LA TESORERIA GENERAL DEL ESTADO DE COAHUILA DE ZARAGOZA
+REGLAMENTO INTERIOR DE LA TESORERÍA GENERAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 8 DE MAYO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 17 de mayo de 2011.
 
@@ -1066,3 +1068,19 @@ EL SECRETARIO DE LA FUNCIÓN PÚBLICA
 ING. ISMAEL EUGENIO RAMOS FLORES
 
 (RÚBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 8 DE MAYO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Tesorería General del Estado, publicado en el Periódico Oficial del Gobierno del Estado en fecha 17 de mayo de 2011.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos que se refieran a actos o resoluciones que se hubieren emitido con anterioridad a la entrada en vigor del presente reglamento, se tramitarán, resolverán, defenderán y, en general, serán de la competencia de la unidad administrativa de la Secretaría que tenga para estos efectos la competencia por sujetos, entidades y materias que corresponda, conforme a este reglamento.
