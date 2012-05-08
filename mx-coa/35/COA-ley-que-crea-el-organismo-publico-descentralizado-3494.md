@@ -4,7 +4,7 @@ identifier: "COA-ley-que-crea-el-organismo-publico-descentralizado-3494"
 country: "mx"
 rank: "ley"
 publication_date: "1993-08-31"
-last_updated: "2010-12-29"
+last_updated: "2012-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3494&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "COMISIÓN ESTATAL DE AGUAS Y SANEAMIENTO DE COAHUILA"
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 31 de agosto de 1993.
 
@@ -39,11 +39,11 @@ LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "COMISION ESTATAL D
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2012)</small>
 
 ###### ARTICULO PRIMERO.
 
-Se crea el Organismo Público Descentralizado "Comisión Estatal de Aguas y Saneamiento de Coahuila", con personalidad jurídica y patrimonio propios, que en lo sucesivo se denominará "El Organismo", con domicilio en la Ciudad de Saltillo, Coahuila, sin perjuicio de que pueda establecer en otras poblaciones del Estado las delegaciones y oficinas que estime necesarias para la realización de sus actividades, y que estará sectorizado al Servicio de Administración Tributaria del Estado de Coahuila.
+Se crea el Organismo Público Descentralizado "Comisión Estatal de Aguas y Saneamiento de Coahuila", con personalidad jurídica y patrimonio propios, que en lo sucesivo se denominará "El Organismo", con domicilio en la ciudad de Saltillo, Coahuila, sin perjuicio de que pueda establecer en otras poblaciones del Estado las delegaciones y oficinas que estime necesarias para la realización de sus actividades, y que estará sectorizado a la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial.
 
 El Gobierno del Estado asignará al organismo el presupuesto suficiente para su operación.
 
@@ -111,33 +111,25 @@ La dirección y administración del Organismo estarán a cargo de un Consejo Dir
 
 El Consejo Directivo será el órgano superior de Gobierno de la Comisión y se integrará de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 8 DE MAYO DE 2012)</small>
 
 I.- Un Presidente Honorario, que será el Gobernador del Estado;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2012)</small>
 
-II.- Un Presidente Ejecutivo que será el Secretario Ejecutivo del Servicio de Administración Tributaria del Estado de Coahuila.
+II.- Un Presidente Ejecutivo que será el Secretario de Gestión Urbana, Agua y Ordenamiento Territorial;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2012)</small>
 
 III.- Cuatro vocales, que serán:
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE DICIEMBRE DE 2010)</small>
+a) El Secretario de Finanzas;
 
-a). El Tesorero General del Estado;
+b) El Secretario de Desarrollo Económico;
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE DICIEMBRE DE 2010)</small>
+c) El Secretario de Infraestructura, y
 
-b). El Secretario de Fomento Económico;
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-c). El Secretario de Obras Públicas y Transporte, y
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-d). El Secretario de Salud.
+d) El Secretario de Salud.
 
 Cada uno de los miembros del Consejo designará a un suplente.
 
@@ -295,17 +287,15 @@ El balance anual del Organismo deberá publicarse en el Periódico Oficial del G
 
 Los bienes muebles e inmuebles pertenecientes al Organismo, gozarán de las franquicias, prerrogativas y privilegios concedidos a los fondos y bienes del Estado.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
 
 ###### ARTICULO VIGESIMO SEGUNDO
 
-A.- "El Organismo", deberá radicar al día hábil siguiente, en las cuentas del Servicio de Administración Tributaria del Estado de Coahuila, los ingresos que perciba por cualquier concepto, incluso los provenientes de financiamiento, distintos de los recursos presupuéstales de operación del mismo y de los que tengan un fin o destino específico.
+A.- “El Organismo”, deberá radicar al día hábil siguiente, en las cuentas de la Secretaría de Finanzas, los ingresos que perciba por cualquier concepto, incluso los provenientes de financiamiento, distintos de los recursos presupuestales de operación del mismo y de los que tengan un fin o destino específico.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+###### ARTICULO VIGÉSIMO SEGUNDO
 
-###### ARTICULO VIGESIMO SEGUNDO
-
-B.- Para obtener financiamientos o recursos que permitan a través del Servicio de Administración Tributaria del listado de Coahuila, el logro de sus objetivos, "el Organismo" podrá utilizar y/o comprometer, total o parcialmente los ingresos que genera o que llegare a generar presentes o futuros por cualquier concepto, previo acuerdo del Consejo Directivo, como fuente de pago yo garantía de deuda pública y/o fuente de pago, previa aprobación del Consejo Directivo.
+B.- (DEROGADO, P.O. 8 DE MAYO DE 2012)
 
 ###### ARTICULO VIGESIMO TERCERO.
 
@@ -378,3 +368,17 @@ El presente Decreto deberá publicarse en el Periódico Oficial del Gobierno del
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 8 DE MAYO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las facultades y obligaciones a que se refiere este decreto, que en otras leyes, reglamentos, acuerdos, convenios y demás ordenamientos jurídicos federales, estatales o municipales se atribuyan al Servicio de Administración Tributaria del Estado de Coahuila en materia fiscal, se entenderán conferidas a la Administración Fiscal General.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
