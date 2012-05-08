@@ -4,7 +4,7 @@ identifier: "COA-ley-que-crea-el-servicio-de-administracion-tributaria-del-74633
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-23"
-last_updated: "2010-04-23"
+last_updated: "2012-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY QUE CREA EL SERVICIO DE ADMINISTRACION TRIBUTARIA DEL ESTADO DE COAHUILA
 
-LEY QUE CREA EL SERVICIO DE ADMINISTRACION TRIBUTARIA DEL ESTADO DE COAHUILA
+LEY QUE CREA EL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA DEL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY DE ADMINISTRACIÓN FISCAL GENERAL DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. 8 DE MAYO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 23 de abril de 2010.
 
@@ -832,3 +834,41 @@ EL SECRETARIO DE LA FUNCIÓN PÚBLICA
 ING. ISMAEL E. RAMOS FLORES
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE MAYO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Junta de Gobierno de la Administración Fiscal General deberá instalarse dentro del mes siguiente a la entrada en vigor del presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las facultades y obligaciones a que se refiere este decreto, que en otras leyes, reglamentos, acuerdos, convenios y demás ordenamientos jurídicos federales, estatales o municipales se atribuyan al Servicio de Administración Tributaria del Estado de Coahuila en materia fiscal, se entenderán conferidas a la Administración Fiscal General.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos en materia fiscal que actualmente se encuentren en trámite ante el Servicio de Administración Tributaria del Estado de Coahuila, deberán concluirse ante la Administración Fiscal General en el ámbito de su competencia, lo anterior previa notificación que se realice al contribuyente del cambio de autoridad.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo del Estado, a través de la Secretaría de Finanzas, dispondrá lo conducente, a partir de la entrada en vigor del presente decreto, se lleve a cabo la reasignación de los recursos humanos y de que los bienes muebles e inmuebles, tecnológicos, materiales y financieros, así como los archivos y expedientes que se encuentren en trámite, con que cuentan las unidades administrativas del Servicio de Administración Tributaria del Estado de Coahuila que realizan las funciones que esta Ley asigna a la Administración Fiscal General y pasen a formar parte del organismo.
+
+Los trabajadores al servicio del Servicio de Administración Tributaria del Estado de Coahuila que pasen a formar parte del personal de la Administración Fiscal General por reasignación o que sean reasignados a otra dependencia del Ejecutivo del Estado, conservarán su antigüedad, y los derechos adquiridos y quedarán sujetos al Estatuto Jurídico para los Trabajadores al Servicio del Estado.
+
+###### ARTÍCULO SEXTO.
+
+El Ejecutivo del Estado deberá emitir el reglamento interior de la Administración Fiscal General del Estado dentro de los sesenta días siguientes a la publicación del presente decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se abroga la Ley que crea el Servicio de Administración Tributaria del Estado de Coahuila, contenida en el Decreto No. 243 publicado en el Periódico Oficial del Gobierno del Estado en fecha 23 de abril de 2010.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
