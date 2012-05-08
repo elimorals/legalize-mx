@@ -4,7 +4,7 @@ identifier: "COA-ley-de-pensiones-y-otros-beneficios-sociales-para-los-3730"
 country: "mx"
 rank: "ley"
 publication_date: "1993-08-10"
-last_updated: "2010-06-18"
+last_updated: "2012-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3730&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 10 de agosto de 1993.
 
@@ -247,21 +247,21 @@ de 3 años 1 día a 12 años 50% 50%
 
 de 12 años 1 día a 14 años 55% 55%
 
-de 14 años 1día a 16 años 60% 60%
+de 14 años 1 día a 16 años 60% 60%
 
-de 16 años 1día a 18 años 65% 65%
+de 16 años 1 día a 18 años 65% 65%
 
-de 18 años 1día a 20 años 70% 70%
+de 18 años 1 día a 20 años 70% 70%
 
-de 20 años 1día a 22 años 75% 76%
+de 20 años 1 día a 22 años 75% 76%
 
-de 22 años 1día a 24 años 80% 82%
+de 22 años 1 día a 24 años 80% 82%
 
-de 24 años 1día a 26 años 85% 88%
+de 24 años 1 día a 26 años 85% 88%
 
-de 26 años 1día a 28 años 90% 94%
+de 26 años 1 día a 28 años 90% 94%
 
-de 28 años 1día a 30 años 95% 100%
+de 28 años 1 día a 30 años 95% 100%
 
 de 30 años un día en adelante 100% 100%
 
@@ -671,11 +671,9 @@ II.- Un Director, que será designado por el Gobernador del Estado.
 
 El Consejo Directivo se integrará de la siguiente manera:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
-
-I.- Un Presidente, que será el titular del Servicio de Administración Tributaria del Estado de Coahuila;
+I.- Un Presidente, que será el Secretario de Finanzas.
 
 > <small>(REFORMADA, P.O. 3 DE ENERO DE 1995)</small>
 
@@ -849,7 +847,7 @@ EL SECRETARIO DE PROGRAMACION Y DESARROLLO
 
 LIC. JESUS GARCIA LOPEZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 3 DE ENERO DE 1995.
 
@@ -878,3 +876,17 @@ El presente Decreto deberá publicarse en el Periódico Oficial del Gobierno del
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 8 DE MAYO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las facultades y obligaciones a que se refiere este decreto, que en otras leyes, reglamentos, acuerdos, convenios y demás ordenamientos jurídicos federales, estatales o municipales se atribuyan al Servicio de Administración Tributaria del Estado de Coahuila en materia fiscal, se entenderán conferidas a la Administración Fiscal General.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
