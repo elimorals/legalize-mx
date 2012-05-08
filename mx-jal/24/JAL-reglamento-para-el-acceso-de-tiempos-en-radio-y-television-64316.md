@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-para-el-acceso-de-tiempos-en-radio-y-television-6431
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-25"
-last_updated: "2008-10-25"
+last_updated: "2012-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64316&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO PARA EL ACCESO DE TIEMPOS EN RADIO Y TELEVISION DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO Y PARA LOS PARTIDOS POLITICOS EN EL ESTADO
 
-REGLAMENTO PARA EL ACCESO DE TIEMPOS EN RADIO Y TELEVISION DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO Y PARA LOS PARTIDOS POLITICOS EN EL ESTADO
+REGLAMENTO PARA EL ACCESO DE TIEMPOS EN RADIO Y TELEVISIÓN DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO Y PARA LOS PARTIDOS POLÍTICOS EN EL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL ACCESO DE TIEMPOS EN RADIO Y TELEVISIÓN DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 8 DE MAYO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 25 de octubre del 2008.
 
@@ -294,3 +296,11 @@ Guadalajara, Jalisco a 23 veintitrés de Octubre de 2008 dos mil ocho.
 Lic. Carlos Oscar Trejo Herrera.
 
 Encargado del Despacho de la Secretaría Ejecutiva.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE MAYO DE 2012.
+
+Primero.- El presente reglamento entra en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo.- Se abroga el Reglamento para el Acceso de Tiempos en Radio y Televisión del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco y para los partidos políticos en el Estado.
