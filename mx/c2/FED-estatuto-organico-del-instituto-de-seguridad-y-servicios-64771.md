@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-64771"
 country: "mx"
 rank: "estatuto"
 publication_date: "2008-12-31"
-last_updated: "2011-07-21"
+last_updated: "2012-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,1241 +19,95 @@ issue_date: "2008-06-26"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-CODIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO L. Y S. DE PUEBLA
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE JUNIO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-TEXTO ORIGINAL.
+ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MAYO DE 2012.
 
-GOBIERNO DEL ESTADO
+Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 2008.
 
-PODER LEGISLATIVO
+Al margen un logotipo, que dice: Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.- Secretaría de la Junta Directiva.- SJD.- 564/2008.
 
-Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- H. Congreso del Estado.- Puebla.
+ACUERDO 44.1314.2008
 
-GUILLERMO JIMENEZ MORALES, Gobernador Constitucional del Estado Libre y Soberano de Puebla, a los habitantes del mismo sabed:
+Lic. Miguel Angel Yunes Linares
 
-Que por la Secretaría del H. Congreso se me ha dirigido el siguiente:
+Director General del Instituto
 
-EL HONORABLE CUADRAGESIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA,
+Presente.
 
-CONSIDERANDO:
+En sesión celebrada por la Junta Directiva el día de hoy, al tratarse lo relativo a la aprobación del nuevo Estatuto Orgánico del ISSSTE, se tomó el siguiente:
 
-Que por oficio número 03722 de fecha 24 de septiembre de 1986, el Ciudadano Licenciado Guillermo Jiménez Morales, Gobernador del Estado, sometió a la consideración de este Honorable Cuerpo Colegiado, la Iniciativa del CODIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO DE PUEBLA.
+ACUERDO 44.1314.2008.- La Junta Directiva, con fundamento en los artículos 214, fracción VI de la Ley del ISSSTE; 58, fracción VIII de la Ley Federal de las Entidades Paraestatales; y 9, fracción V del Estatuto Orgánico, aprueba el:
 
-Que para cumplir con los trámites que establecen los Artículos 64 fracción I de la Constitución Política Local, 99, 105 y 141 fracción VI de la Ley Orgánica y Reglamentaria de este Poder Legislativo, se turnó la Iniciativa de referencia, a la Comisión de Gobernación, Legislación, Puntos Constitucionales, Justicia y Elecciones; la que en Sesión Pública celebrada en este día presentó su Dictamen, que fue aprobado en favor de dicha Iniciativa.
+"ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO.
 
-Que estando satisfechos además los requisitos de los Artículos 57 fracción I, 63 fracción I y 79 fracción VI de la Constitución Política Local; 1º, 183, 184 y 185 de la Ley Orgánica y Reglamentaria de este Poder Legislativo,
-
-DECRETA:
-
-CODIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO L. Y S. DE PUEBLA
-
-# LIBRO PRIMERO
+INDICE
 
 ## TITULO PRIMERO. Disposiciones Generales
 
 ## TITULO SEGUNDO. De los Organos de Gobierno
 
-### CAPITULO PRIMERO.- ORGANOS DE JURISDICCION Y ORGANOS DE ACUSACION
+### CAPITULO PRIMERO. De la Junta Directiva
 
-###### Artículo 1º.
+### CAPITULO SEGUNDO. Del Director General
 
-Corresponde exclusivamente a los Tribunales de Defensa Social del Estado:
+### CAPITULO TERCERO. De la Comisión Ejecutiva del Fondo de la Vivienda
 
-I.- Declarar que determinado acto u omisión constituye un delito de los comprendidos en los artículos 1º, 2º y 3º del Código de Defensa Social;
+### CAPITULO CUARTO. De la Comisión Ejecutiva del Fondo Nacional de Pensiones de los Trabajadores al Servicio del Estado
 
-II.- Declarar la responsabilidad o irresponsabilidad de las personas acusadas ante ellos;
-
-III.- Aplicar las sanciones que señalan las leyes; y
-
-IV.- Resolver, en su caso, sobre la responsabilidad civil a cargo del o de los acusados o de las personas a que se refieren los artículos 1965 a 1974 y 1976 del Código Civil.
-
-###### Artículo 2º.
-
-Corresponde exclusivamente al Ministerio Público, el ejercicio de la acción persecutoria de los delitos, la cual tiene por objeto:
-
-I.- Practicar las diligencias preparatorias de la acción persecutoria de los delitos;
-
-II.- Pedir la aplicación de las sanciones establecidas por la ley;
-
-III.- Coadyuvar con el ofendido, para exigir el pago de la responsabilidad civil proveniente del delito, al acusado o a la persona a cuyo cargo sea esa responsabilidad, según los artículos 1965 a 1974 y 1976 del Código Civil;
-
-IV.- Pedir la libertad de los procesados en la forma y términos que previene la ley.
-
-### CAPITULO SEGUNDO.- REGLAS GENERALES DEL PROCEDIMIENTO
-
-### CAPITULO TERCERO.- PROCEDIMIENTO EN MATERIA DE DEFENSA SOCIAL
-
-### CAPITULO CUARTO.- PRUEBA EN MATERIA DE DEFENSA SOCIAL
-
-### CAPITULO QUINTO.- CONFESION
-
-###### Artículo 124.
-
-La confesión es el reconocimiento de la propia responsabilidad y de la participación personal, en la comisión de un delito, en cualquiera de las formas señaladas en el artículo 21 del Código de Defensa Social.
-
-###### Artículo 125.
-
-La confesión podrá recibirse por el Ministerio Público en la averiguación previa, o por el Juez o Tribunal que conozca del proceso y, en este segundo caso, se admitirá la confesión en cualquier estado del procedimiento hasta pronunciarse sentencia irrevocable.
-
-###### Artículo 126.
-
-Son aplicables a la confesión, las siguientes disposiciones:
-
-I.- Ningún acusado podrá ser compelido a declarar, en su contra;
-
-II.- El defensor asistirá a todas las diligencias en que el reo sea interrogado, desde el momento de su detención.
+### CAPITULO QUINTO. De la Comisión de Vigilancia
 
 ## TITULO TERCERO. De las Unidades Administrativas Centrales y Desconcentradas
 
-### CAPITULO PRIMERO.- SEGUNDA FASE DE LA AVERIGUACION PREVIA
+### CAPITULO PRIMERO. Disposiciones Generales
 
-### CAPITULO SEGUNDO.- PROCESO DE DEFENSA SOCIAL
+### CAPITULO SEGUNDO. De las Unidades Administrativas Centrales
 
-#### SECCION PRIMERA.- ACCION PERSECUTORIA
+#### SECCION PRIMERA. De la Secretaría General
 
-###### Artículo 3º.
+#### SECCION SEGUNDA. De la Dirección Médica
 
-En el ejercicio de la acción persecutoria, el Ministerio Público está facultado:
+#### SECCION TERCERA. De la Dirección de Prestaciones Económicas, Sociales y Culturales
 
-I.- Para practicar él mismo, las diligencias que estime necesarias para comprobar el cuerpo del delito y preparar debidamente la acción persecutoria;
+#### SECCION CUARTA. De la Dirección de Finanzas
 
-II.- Para ordenar, en los supuestos previstos por el artículo 68 de este Código, y para pedir en los demás casos, la detención del delincuente, cuando proceda;
+#### SECCION QUINTA. De la Dirección de Administración
 
-III.- Para pedir la aplicación de la sanción correspondiente en el caso concreto de que se trate; y
+#### SECCION SEXTA. De la Dirección Jurídica
 
-IV.- Para interponer los recursos que la ley señala y seguir los incidentes que la misma admite.
+#### SECCION SEPTIMA. De la Dirección de Delegaciones
 
-###### Artículo 4º.
+#### SECCION OCTAVA. De la Dirección de Tecnología y Desarrollo Institucional
 
-El Ministerio Público deberá:
+#### SECCION NOVENA. De la Dirección de Comunicación Social
 
-I.- Dirigir a la Policía Judicial, en las diligencias que el propio Ministerio Público le encomienda y que, a juicio de éste, sean necesarias para comprobar el cuerpo del delito y preparar debidamente la acción persecutoria.
+### CAPITULO TERCERO. De las Unidades Administrativas Desconcentradas
 
-II.- Pedir la libertad del acusado:
+#### SECCION PRIMERA. Del FOVISSSTE
 
-a).- Cuando no haya existido el delito;
+#### SECCION SEGUNDA. Del PENSIONISSSTE
 
-b).- Cuando existiendo el delito no sea imputable al acusado;
+#### SECCION TERCERA. Del SuperISSSTE
 
-> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
+#### SECCION CUARTA. Del Sistema de Agencias Turísticas TURISSSTE
 
-c).- Cuando, según el Código de Defensa social, concurra en favor del acusado alguna causa excluyente de responsabilidad, absolutoria o de extinción de la acción penal.
+#### SECCION QUINTA. Del Centro Médico Nacional "20 de Noviembre" y los Hospitales Regionales
 
-#### SECCION SEGUNDA.- COMPETENCIA
+#### SECCION SEXTA. De las Delegaciones Estatales y Regionales
 
-###### Artículo 5º.
-
-En materia de Defensa Social no cabe prórroga ni renuncia de jurisdicción, excepto en los siguientes casos:
-
-I.- Cuando el Tribunal que sea competente para conocer de un proceso, se encuentre impedido de hecho o de derecho para llenar su misión en un caso particular;
-
-II.- Cuando la apertura y continuación del proceso ante ese Tribunal presente peligros para la seguridad y el orden públicos.
-
-###### Artículo 6º.
-
-En el supuesto previsto en la fracción II del artículo anterior, el Tribunal Superior podrá, de acuerdo con el Gobernador, ordenar que pase el proceso a un Juzgado diferente, de la misma jerarquía del impedido, prorrogando al efecto la jurisdicción.
-
-###### Artículo 7º.
-
-Según las atribuciones que la Ley Orgánica del Poder Judicial les confiere, son competentes, para la instrucción de los procesos y para imponer la sanción que proceda, las autoridades judiciales de la jurisdicción en que se cometieron, se comenzaren a cometer, se continuaren cometiendo o se consumaren los delitos.
-
-###### Artículo 8º.
-
-Un solo Juez de los que sean competentes conocerá de los delitos conexos, conforme a las disposiciones legales relativas.
-
-###### Artículo 9º.
-
-Cuando no conste el lugar en que se cometió el delito, se aplicarán las siguientes disposiciones:
-
-I.- Será competente:
-
-a.- El Juez de la jurisdicción en que se descubran pruebas materiales del delito;
-
-b.- El Juez de la jurisdicción donde el acusado sea aprehendido;
-
-c.- El Juez de la residencia del acusado; y
-
-d.- Cualquier Juez que tenga noticia del delito.
-
-II.- Tan luego como conste el lugar de la comisión del delito, se remitirán las actuaciones al Juez respectivo, así como a los acusados y los objetos recogidos.
-
-III.- Cuando se trate de delitos cometidos fuera del Territorio del Estado y comprendidos en los artículos 2º y 5º del Código de Defensa Social, se observarán los incisos b. c. y d. de la fracción I anterior.
-
-#### SECCION TERCERA.- AUXILIARES DE LA ADMINISTRACION DE JUSTICIA EN MATERIA DE DEFENSA SOCIAL
-
-#### SECCION CUARTA.- FORMALIDADES DEL PROCEDIMIENTO
-
-#### SECCION QUINTA.- NOTIFICACIONES, CITACIONES Y TERMINOS JUDICIALES
-
-#### SECCION PRIMERA.- PERIODOS DEL PROCEDIMIENTO
-
-#### SECCION SEGUNDA.- AVERIGUACION PREVIA
-
-#### SECCION TERCERA.- ATENCION MEDICA DE LOS LESIONADOS
-
-#### SECCION CUARTA.- COMPROBACION DEL CUERPO DEL DELITO
-
-### CAPITULO TERCERO.- SENTENCIA EJECUTORIA Y RECURSOS
-
-#### SECCION QUINTA.- CONSIGNACION ANTE LOS TRIBUNALES
-
-###### Artículo 109.
-
-Cuando en la averiguación previa se hayan llenado los requisitos que exige el artículo 16 de la Constitución Federal, para que pueda procederse a la detención de una persona, el Ministerio Público ejercitará la acción penal, promoviendo lo conducente para esclarecer los hechos que la motiven.
-
-###### Artículo 110.
-
-Si con motivo de la averiguación previa hubiere detenidos y la detención fuere justificada, el Ministerio Público hará inmediatamente la consignación al Juez que corresponda; pero si a juicio del mismo Ministerio Público, la detención fuere injustificada, ordenará que los detenidos queden en libertad.
-
-###### Artículo 111.
-
-El Ministerio Público hará la consignación a los tribunales, aunque no se reúnan los supuestos previstos en los dos artículos anteriores, si para la averiguación resulta necesaria la práctica de uno o más cateos.
-
-###### Artículo 112.
-
-En las averiguaciones previas que se practiquen por delitos no intencionales o de imprudencia, cometidos con motivo del tránsito de vehículos, cuya sanción no exceda de cinco años de prisión, el Ministerio Público podrá conceder al detenido su libertad caucional, de acuerdo con las siguientes disposiciones:
-
-I.- La libertad caucional se concederá a solicitud del detenido o de su defensor;
-
-II.- Para que se conceda la libertad caucional, el detenido deberá garantizar mediante caución suficiente, no sustraerse a la acción de la justicia, así como el pago de la reparación del daño.
-
-III.- La caución será fijada por el Ministerio Público observando, los lineamientos que señala el artículo 355 y tomando en cuenta los elementos existentes en la averiguación previa.
-
-IV.- El Ministerio Público, antes de poner en libertad al acusado, lo prevendrá a fin de que comparezca cuantas veces sea necesario para la práctica de diligencias de averiguación previa, haciéndole además en lo conducente, las prevenciones a que se refiere el artículo 366.
-
-V.- Cuando el acusado desobedeciere, sin causa justificada, las órdenes que dictare el Ministerio Público, éste podrá hacer efectiva la garantía y revocar la libertad caucional.
-
-VI.- Si se resuelve el no ejercicio de la acción penal, el Ministerio Público cancelará la garantía y, en su caso, la devolverá.
-
-VII.- Hecha la consignación, tal garantía subsistirá hasta en tanto el Juez no decida su modificación o cancelación.
-
-#### SECCION SEXTA.- DETENCION DEL ACUSADO
-
-###### Artículo 113.
-
-Fuera de los casos previstos en el artículo 67, la detención de los presuntos responsables de un delito sólo podrá efectuarse en virtud de mandamiento escrito de una autoridad judicial que funde y motive el procedimiento.
-
-###### Artículo 114.
-
-Para que un Juez pueda librar orden de detención contra una persona, se requerirá:
-
-I.- Que el Ministerio Público haya solicitado la detención; y
-
-II.- Que se reúnan los requisitos fijados por el artículo 16 de la Constitución Federal.
-
-###### Artículo 115.
-
-El mandamiento de detención contendrá una relación sucinta de los hechos que lo motiven, sus fundamentos legales y la clasificación provisional que se haga de los hechos delictuosos.
-
-###### Artículo 116.
-
-El Juez comunicará la orden de aprehensión al Ministerio Público, que intervenga en el Proceso y al Procurador General de Justicia, para que sea ejecutada.
-
-###### Artículo 117.
-
-Si la orden de aprehensión debe ejecutarse fuera del Estado de Puebla, se librará exhorto al Juez del lugar en que se encuentre la persona que deba ser detenida.
-
-###### Artículo 118.
-
-Siempre que se lleve a cabo una aprehensión, en virtud de orden judicial, el agente de la policía que la hubiere ejecutado está obligado a poner al detenido, sin demora alguna, a disposición del Juez que haya dictado la orden, informando al mismo Juez el día de la detención y la hora en que comenzó ésta.
-
-###### Artículo 119.
-
-Cuando deba aprehenderse a un empleado o funcionario público, a un militar o agente de la policía, se tomarán las medidas necesarias para que no se perjudique el servicio o comisión que estén desempeñando y se dará aviso sin demora, al superior jerárquico respectivo.
-
-###### Artículo 120.
-
-Cuando antes de cumplida una orden de aprehensión, se desvanecieren los datos que sirvieron para fundarla, el Juez, a instancia del Ministerio Público o de oficio, decretará la suspensión de la orden, sin perjuicio de que se continúe la averiguación y se solicite y dicte posteriormente la aprehensión, cuando aparecieren elementos que la justifiquen.
-
-###### Artículo 121.
-
-Cuando el delito imputado merezca sanción alternativa que incluya una no corporal, no podrá durante el proceso restringirse la libertad del acusado; pero si éste opone dificultades para la averiguación, o hubiere motivos fundados para creer que pretende eludir la acción de la justicia, a pedimento del Ministerio Público, el Juez o Tribunal podrá ordenarle que no abandone sin su permiso el lugar en que se sigue el procedimiento.
-
-#### SECCION PRIMERA.- MEDIOS DE PRUEBA
-
-> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
-
-###### Artículo 122.
-
-En el procedimiento de Defensa Social se admitirá como prueba todo aquello que se ofrezca como tal, siempre que, a juicio del funcionario, conduzca lógicamente al conocimiento de la verdad, y el propio funcionario podrá emplear cualquier medio legal, que establezca la autenticidad de la prueba.
-
-###### Artículo 123.
-
-La Ley reconoce como medios específicos de prueba:
-
-I.- La confesión judicial;
-
-II.- La inspección judicial y la reconstrucción de hechos;
-
-III.- Los dictámenes de peritos;
-
-IV.- Las declaraciones de testigos;
-
-V.- Los careos;
-
-VI.- Los documentos públicos y privados;
-
-VII.- Las presunciones;
-
-VIII.- Las visitas domiciliarias;
-
-IX.- Los cateos;
-
-X.- La confrontación, y
-
-XI.- Las fotografías, cintas magnetofónicas, registros dactiloscópicos, videocintas y, en general, todos aquellos elementos aportados por la ciencia, o por la técnica.
-
-#### SECCION PRIMERA.- INSPECCION JUDICIAL Y RECONSTRUCCION DE HECHOS
-
-###### Artículo 127.
-
-La inspección judicial puede practicarse de oficio o a petición de parte, pudiendo concurrir a ella los interesados, y hacer las observaciones que estimen oportunas.
-
-###### Artículo 128.
-
-El Juez, el Tribunal o el Ministerio Público, al practicar la inspección judicial, procurarán hacerse acompañar de los peritos que estimen necesarios.
-
-###### Artículo 129.
-
-Si el delito fuere de aquéllos que pueden dejar huellas materiales, se procederá a la inspección del lugar en que se perpetró, del instrumento y de las cosas objeto o efecto de él; y de todas las demás cosas y lugares que puedan tener importancia para la averiguación.
-
-###### Artículo 130.
-
-Se aplicarán además las siguientes disposiciones:
-
-I.- A juicio del funcionario que practique la inspección o a petición de parte, se levantarán los planos y se tomarán las fotografías que fueren convenientes.
-
-II.- De la diligencia se levantará acta circunstanciada que firmarán los que en ella hubiesen intervenido.
-
-###### Artículo 131.
-
-En caso de lesiones, al sanar el lesionado, los jueces o tribunales darán fe de las consecuencias apreciables que aquéllas hubieren dejado, practicando la inspección respectiva, de la que se levantará acta sucinta.
-
-###### Artículo 132.
-
-La inspección judicial podrá tener el carácter de reconstrucción de hechos, cuando tenga por objeto apreciar las declaraciones que se hayan rendido y los dictámenes periciales que se hayan formulado, y le son aplicables las siguientes disposiciones:
-
-I.- Se practicará la reconstrucción de hechos durante la averiguación, únicamente cuando el Ministerio Público lo estime necesario.
-
-II.- Durante la instrucción, se practicará la reconstrucción a solicitud de las partes, o antes de cerrarse la misma, si el Juez la estima necesaria.
-
-III.- Podrá practicarse la reconstrucción durante la vista del proceso, aun cuando se haya practicado con anterioridad, a petición de las partes y a Juicio del Juez o Tribunal en su caso.
-
-IV.- La reconstrucción deberá practicarse precisamente en el lugar y a la hora en que se cometió el delito, cuando estas circunstancias hayan influido en el desarrollo de los hechos que se reconstruyen; pero en caso contrario, podrá practicarse en cualquier otro lugar y a cualquiera hora.
-
-V.- La reconstrucción de hechos no se practicará sin que previamente hayan sido examinadas las personas que intervinieron en los hechos o las que los presenciaron, en cuanto fuere posible.
-
-VI.- Cuando alguna de las partes solicite la diligencia de reconstrucción, deberá precisar cuáles hechos o circunstancias desea esclarecer y expresará su petición en proposiciones concretas.
-
-###### Artículo 133.
-
-A la reconstrucción de los hechos deberán concurrir:
-
-I.- El Juez con su secretario; o en su caso los magistrados que integren la Sala y su secretario;
-
-II.- La persona que hubiere promovido la diligencia, si ésta no se decretó de oficio;
-
-III.- El acusado y su defensor;
-
-IV.- El Agente del Ministerio Público;
-
-V.- Los testigos presenciales, si residieren en el lugar;
-
-VI.- Los peritos nombrados, si el Juez o las partes lo estiman necesario; y
-
-VII.- Las demás personas que el Juez, o la Sala estimen conveniente y que mencione el mandamiento respectivo, el cual se hará saber con la debida oportunidad a las personas que han de concurrir a la diligencia.
-
-###### Artículo 134.
-
-Para la práctica de la reconstrucción de hechos, el Juez o la Sala en su caso:
-
-I.- Se trasladará al lugar de los hechos en unión de las personas que deben concurrir;
-
-II.- Practicará previamente una simple inspección ocular del lugar, si antes no se hubiere practicado;
-
-III.- Tomará a testigos y peritos la protesta de producirse con verdad;
-
-IV.- Designará a la persona o personas que substituyan a los agentes o víctimas del delito que no estén presentes;
-
-V.- Dará fe de las circunstancias y pormenores que tengan relación con el hecho delictuoso;
-
-VI.- En seguida leerá la declaración del acusado y hará que éste explique prácticamente las circunstancias de lugar, tiempo y forma en que se desarrollaron los hechos;
-
-VII.- Leerá la declaración de cada uno de los testigos presentes en la diligencia y hará que cada uno de ellos explique por separado, las circunstancias de lugar, tiempo y forma en que se desarrollaron los hechos;
-
-VIII.- Ordenará que los peritos que hubieren concurrido a la diligencia, tomen todos los datos que estimen convenientes, y que en la misma o dentro del tiempo que el Juez o Tribunal fije, emitan dictamen sobre los puntos que les formule;
-
-IX.- Ordenará se tomen fotografías del lugar, las cuales se agregarán al expediente.
-
-###### Artículo 135.
-
-Cuando hubiere versiones distintas acerca de la forma en que ocurrieron los hechos, se practicarán, si fueren conducentes al esclarecimiento de los mismos, las reconstrucciones relativas a cada una de aquéllas; y en caso de que se haga necesaria la intervención de peritos, éstos dictaminarán sobre cuál de las versiones puede acercarse más a la verdad.
-
-#### SECCION SEGUNDA.- PERITOS
-
-###### Artículo 136.
-
-Si para el examen de alguna persona o de algún objeto se requieren conocimientos especiales, se procederá con intervención de peritos.
-
-###### Artículo 137.
-
-Los peritos que dictaminen serán dos o más; pero bastará uno cuando sólo éste pueda ser habido, cuando haya peligro en el retardo o cuando el caso sea de poca importancia.
-
-(F. DE. E., P.O. 6 DE ENERO DE 1987)
-
-###### Artículo 138.
-
-El Ministerio Público, el procesado o su defensor y la parte ofendida, tendrán derecho a nombrar peritos y a los nombrados se les hará saber su designación y se les ministrarán los datos que necesiten para que emitan su opinión.
-
-###### Artículo 139.
-
-La opinión de los peritos nombrados por las partes a que se refiere el artículo anterior, incluyendo la del perito nombrado por el Ministerio Público, podrá no atenderse en las diligencias que se practiquen o en las providencias que se dicten durante la instrucción, pudiendo el Juez normar sus procedimientos por la opinión del perito o peritos nombrados por él.
-
-###### Artículo 140.
-
-Los peritos deberán tener título oficial en la ciencia o arte a que se refiera el punto sobre el cual deba dictaminarse, si esa profesión o arte estuvieren legalmente reglamentados.
-
-###### Artículo 141.
-
-Cuando la profesión o arte a que se refiere el artículo anterior, no estuvieren legalmente reglamentados, o no hubiere titulados en el lugar en que se sigue la instrucción, se nombrarán peritos prácticos, sin perjuicio de que, si el caso lo requiere, se libre oficio o exhorto al Juez o Tribunal del lugar en que haya peritos titulados para que, en vista del dictamen de aquéllos, emitan su opinión.
-
-###### Artículo 142.
-
-Los peritos deberán ser citados en la misma forma que los testigos, reunirán, además, las mismas condiciones de éstos y estarán sujetos a iguales causas de impedimento, prefiriéndose a los que hablen el idioma castellano.
-
-###### Artículo 143.
-
-Son aplicables a la prueba pericial, las siguientes disposiciones:
-
-I.- La prueba pericial se verificará bajo la dirección del funcionario que la haya decretado;
-
-II.- El funcionario judicial que decretó la prueba, hará a los peritos las preguntas que crea oportunas, les dará por escrito o de palabra, pero sin sugestión alguna, los datos que tuviere, haciéndose constar estos hechos en el acta de la diligencia;
-
-III.- Dicho funcionario podrá asistir, si lo juzga conveniente, al reconocimiento que los peritos hagan de las personas o de los objetos;
-
-IV.- El mismo funcionario fijará a los peritos el tiempo en que deberán cumplir su cometido;
-
-V.- Si transcurrido el tiempo fijado a los peritos, para cumplir su cometido, no rinden su dictamen o si legalmente citados y aceptado el cargo, no concurrieren a desempeñarlo, se hará uso de alguno de los medios de apremio;
-
-VI.- Si a pesar del primer apremio el perito o los peritos no cumplieren con las obligaciones señaladas en la fracción anterior, se hará su consignación como reos de delito de desobediencia a un mandato legítimo de la autoridad;
-
-VII.- Cuando las opiniones de los peritos nombrados discreparen, el funcionario que practique las diligencias los citará a una junta en la que se discutirán los puntos de diferencia haciéndose constar en el acta el resultado de la discusión;
-
-VIII.- Si en la junta a que se refiere la fracción anterior, los peritos no se pusieren de acuerdo, el Juez nombrará un perito tercero en discordia;
-
-IX.- Cuando el juicio pericial recaiga sobre objetos que se consumen al ser analizados, los jueces no permitirán que se verifique el primer análisis, sino cuando más sobre la mitad de las substancias, a no ser que su cantidad sea tan escasa, que los peritos no puedan emitir su opinión sin consumirlas todas, y lo cual se hará constar en el acta de la diligencia;
-
-X.- Los honorarios de los peritos que nombre el Juez o el Ministerio Público, se pagarán por el Erario del Estado;
-
-XI.- Los honorarios de los peritos que nombren las partes, se pagarán por la persona que haya hecho el nombramiento;
-
-XII.- Cuando los peritos, que tengan ese carácter por nombramiento del Ejecutivo del Estado, se separen por cualquier motivo de su empleo, después de haber sido designados para emitir su opinión sobre algún punto y siempre que ya hubieren aceptado el nombramiento, tendrán la obligación de participar aquella circunstancia al Juez, para que éste designe nuevo perito;
-
-XIII.- En el supuesto previsto en la fracción anterior, si la separación o cese del empleo se hubiere verificado después de transcurrido el término que se le señaló para emitir su dictamen, estará obligado a rendir éste sin remuneración;
-
-XIV.- Los peritos, con excepción de los médicos legistas, deberán ratificar ante el Juez o Tribunal sus dictámenes y certificados;
-
-XV.- Los peritos, inclusive los médicos legistas, deberán ampliar sus dictámenes y certificados, cuando el funcionario que conoce de la averiguación lo crea conveniente, o cuando lo soliciten las partes;
-
-XVI.- Los peritos pueden excusarse por enfermedad u otros motivos, que les impida llenar su cometido con la debida imparcialidad;
-
-XVII.- La excusa de los peritos será calificada por el Juez.
-
-###### Artículo 144.
-
-Cuando el acusado, el ofendido, o el acusador, los testigos o los peritos no hablen el idioma castellano, o fueren mudos o sordos, se aplicarán las siguientes disposiciones:
-
-I.- El Juez nombrará a uno o dos intérpretes que protestarán reproducir fielmente las preguntas y respuestas que han de transmitir.
-
-II.- Sólo cuando no pueda encontrarse un intérprete mayor de edad, podrá nombrarse a uno de quince años cumplidos cuando menos.
-
-III.- De ser posible, en semejantes casos, se escribirá la declaración original en el idioma del declarante, así como la traducción que haga el intérprete.
-
-IV.- Las partes podrán recusar al intérprete fundando la recusación, y el Juez o la Sala resolverán el incidente de plano y sin ningún recurso.
-
-V.- Los testigos no pueden ser intérpretes.
-
-#### SECCION TERCERA.- TESTIGOS
-
-###### Artículo 145.
-
-Si por las revelaciones hechas en las primeras diligencias o en la querella, o de cualquier otro modo, resultare necesario el examen de alguna persona para el esclarecimiento de un hecho delictuoso, de sus circunstancias o de quien pueda ser el delincuente, el Juez, a solicitud de las partes, procederá a dicho examen.
-
-###### Artículo 146.
-
-Durante la instrucción, el Juez no podrá dejar de examinar a los testigos presentes cuya declaración soliciten las partes.
-
-###### Artículo 147.
-
-Los testigos ausentes serán examinados por conducto del Juez del lugar de su residencia, sin que esto estorbe la marcha de la investigación, ni la facultad del Juez para declararla agotada, cuando las partes estimen reunidos los elementos necesarios para el efecto.
-
-###### Artículo 148.
-
-Toda persona, cualquiera que sea su edad, sexo, condición social o antecedentes, deberá ser examinada como testigo, siempre que pueda dar alguna luz para la averiguación del delito y alguna de las partes estime necesario su examen.
-
-###### Artículo 149.
-
-No se obligará a declarar al tutor, curador, pupilo o cónyuge del acusado, ni a sus parientes por consanguinidad o afinidad en la línea recta ascendente o descendente, sin limitación de grados y en la colateral hasta el tercero inclusive, ni a los que estén ligados con el acusado por amor, respeto o gratitud, o viva con el acusado en las circunstancias a que se refiere el artículo 297 del Código Civil.
-
-###### Artículo 150.
-
-Si las personas a que se refiere el artículo anterior, tuvieren voluntad de declarar espontáneamente, se recibirá su declaración.
-
-###### Artículo 151.
-
-No serán compelidos a declarar, las personas que están obligadas a guardar un secreto profesional acerca de los hechos que bajo él conozcan, sin previo y espontáneo consentimiento de las personas respecto de quienes tengan dicha obligación.
-
-###### Artículo 152.
-
-En el caso del artículo anterior, si no pudiere obtenerse otra prueba de los hechos objeto del proceso, el Juez o la Sala, oyendo a las partes y al mismo testigo, resolverá que es necesaria su declaración y, dictada esta resolución, podrá el testigo ser compelido a declarar.
-
-###### Artículo 153.
-
-En materia de Defensa Social, no puede oponerse tacha a los testigos; pero de oficio, o a petición de parte, el Juez hará constar, en el proceso, las circunstancias que puedan influir en el valor probatorio de los testimonios.
-
-###### Artículo 154.
-
-Antes de que los testigos declaren, se les instruirá acerca de las sanciones que el Código de Defensa Social establece para los que se producen con falsedad o se niegan a declarar; pero a los menores de dieciocho años, en vez de hacerles esta advertencia y de que otorguen la protesta de producirse con verdad, se les exhortará para que lo hagan.
-
-###### Artículo 155.
-
-Son aplicables a la diligencia de examen de los testigos, las siguientes disposiciones:
-
-I.- Los testigos deberán ser examinados separadamente, tomando todas las medidas necesarias para que no se comuniquen entre sí;
-
-II.- Sólo las partes podrán asistir a la diligencia, a menos de que el testigo sea ciego, sordo, mudo o ignore el idioma castellano;
-
-III.- Si el testigo fuere ciego, el funcionario que practique la diligencia designará a otra persona para que acompañe al testigo, la que firmará la declaración después de que ésta la haya ratificado;
-
-IV.- En los demás casos previstos por la fracción III anterior, se nombrará intérprete;
-
-V.- Después de tomarle la protesta de decir verdad, se preguntará al testigo su nombre, apellido, edad, estado civil, profesión u ocupación, lugar de nacimiento y habitación; si se halla ligado con el acusado o el ofendido por vínculos de amistad o cualesquiera otros, o si tiene motivos de odio o rencor contra alguno de ellos;
-
-VI.- Las respuestas del testigo sobre las circunstancias a que se refiere la fracción anterior, se harán constar en el acta;
-
-VII.- Los testigos declararán de viva voz, sin que les sea permitido leer respuestas que tengan escritas, aunque sí podrán consultar notas o documentos que lleven consigo, cuando esto sea pertinente, según la naturaleza del asunto y a juicio de la autoridad que practique la diligencia;
-
-VIII.- EL Ministerio Público y la defensa tendrán derecho a interrogar al testigo, pero el Juez o la Sala podrán disponer que los interrogatorios se hagan por su conducto, cuando así lo estimen necesario, tendrán facultad de desechar las preguntas que, a su juicio, sean capciosas o inconducentes y podrán, además, interrogar al testigo sobre los puntos que estimen convenientes;
-
-IX.- Los testigos darán razón de su dicho, haciéndose constar en la diligencia;
-
-X.- Se entenderá por razón de su dicho, la causa o motivo que dio ocasión a que presenciaran o conocieran el hecho sobre el cual deponen, y no la simple afirmación de que les consta lo declarado, de vista, a ciencia cierta u otra semejante;
-
-XI.- Las declaraciones se redactarán con claridad, usando hasta donde sea posible las mismas palabras empleadas por el testigo, quien podrá dictar o escribir su declaración, si quisiere hacerlo;
-
-XII.- Si la declaración se refiere a algún objeto puesto en depósito, después de interrogar al testigo sobre las señales que caractericen dicho objeto, se le pondrá a la vista para que lo reconozca y firme sobre él, si fuere posible;
-
-XIII.- Si la declaración es relativa a un hecho susceptible de dejar vestigios permanentes en algún lugar, el testigo podrá ser conducido a él para que haga las explicaciones convenientes.
-
-###### Artículo 156.
-
-Si el testigo fuere militar o empleado de algún ramo del servicio público, la citación se hará por conducto del superior jerárquico respectivo.
-
-###### Artículo 157.
-
-Cuando haya de examinarse como testigos a los Diputados al Congreso, Gobernador del Estado, Secretario de Gobernación, Procurador General de Justicia o a Magistrados del Tribunal Superior de Justicia, el Juez les pedirá su declaración por oficio.
-
-###### Artículo 158.
-
-Cuando el testigo fuere obligado a ocurrir desde un lugar distante más de veinte kilómetros del en que se practique la averiguación, tendrá derecho a indemnización que prudentemente fijará el Juez y que pagará el Erario, si la citación hubiese sido decretada a solicitud del Ministerio Público; pero si la declaración fue decretada a petición de parte, esa indemnización será pagada al testigo por la persona que solicitó la declaración.
-
-###### Artículo 159.
-
-En el supuesto último del anterior artículo, el oferente de la prueba testimonial depositará el importe de la indemnización, antes de que se proceda a citar al testigo.
-
-###### Artículo 160.
-
-Si el testigo se hallare en la misma población, pero con impedimento físico para presentarse en el juzgado, sea por causa de enfermedad, ancianidad o cualquiera otra suficiente a juicio del Juez, el personal del Juzgado se trasladará al domicilio del testigo para tomarle su declaración.
-
-###### Artículo 161.
-
-Cuando el testigo se niegue sin justa causa a comparecer o se resista a declarar, será apremiado por los medios legales.
-
-###### Artículo 162.
-
-Cuando hubiere de ausentarse alguna persona que pueda declarar acerca de un hecho delictuoso, de sus circunstancias o de la persona del acusado o del ofendido, se aplicarán las siguientes disposiciones:
-
-I.- El Juez a pedimento del Ministerio Público o de alguna de las otras partes, podrá, si lo estima necesario, decretar el arraigo del testigo por el tiempo que fuere estrictamente indispensable para que rinda su declaración.
-
-II.- Si resultare que la persona arraigada lo ha sido innecesariamente, tendrá derecho a exigir que se le indemnice de los daños y perjuicios que con la detención se le hubieren causado.
-
-III.- No procederá lo dispuesto en la fracción anterior, cuando el arraigo se hubiese decretado a instancia del Ministerio Público.
-
-#### SECCION CUARTA.- DOCUMENTOS
-
-###### Artículo 163.
-
-Son documentos públicos y privados los que señala con tal carácter el Código de Procedimientos Civiles.
-
-> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
-
-###### Artículo 164.
-
-Los documentos que presenten las partes o se relacionen con la materia del proceso, se agregarán al expediente, asentando razón en autos; pero si fuere difícil o imposible obtener otro ejemplar de los mismos o se temiere que sean sustraídos, se mantendrán en lugar seguro, agregando a los autos copia autorizada.
-
-###### Artículo 165.
-
-Cuando alguna de las partes pidiere copia o testimonio de algún documento que obre en los archivos públicos, las otras tendrán derecho a pedir, dentro de tres días, que se adicione con lo que crean conducente del mismo documento o del mismo asunto, y el Juez o la Sala resolverá de plano, si es procedente la adición solicitada.
-
-###### Artículo 166.
-
-La compulsa de documentos existentes fuera de la jurisdicción del Tribunal en que se sigue el proceso, se hará a virtud de oficio o exhorto que se dirigirá al Juez del lugar en que aquéllos se encuentren.
-
-###### Artículo 167.
-
-Los documentos privados y la correspondencia procedente de uno de los interesados, que presente el otro, se reconocerán por aquél, y para ello se le mostrarán originales y se le dejará ver todo el documento.
-
-###### Artículo 168.
-
-Cuando el Ministerio Público creyere que pueden encontrarse pruebas del delito en la correspondencia que se dirija al acusado, se aplicarán las siguientes disposiciones:
-
-I.- El Ministerio Público pedirá al Juez y éste ordenará que se recoja dicha correspondencia;
-
-II.- La correspondencia recogida será abierta por el Juez en presencia de su Secretario, del Agente del Ministerio Público y del acusado, si estuviere en el lugar;
-
-III.- El Juez leerá para sí esa correspondencia y si no tuviere relación con el hecho que se averigüe, la devolverá al acusado o a alguna persona de su familia, si aquél estuviere ausente;
-
-IV.- Si tuviere alguna relación con el hecho materia de la averiguación, el Juez comunicará su contenido al acusado y mandará agregar el documento a la averiguación;
-
-V.- El Juez ordenará a petición de parte, si lo estimare conveniente, que cualquiera oficina telegráfica facilite copia de los telegramas por ella transmitidos o recibidos, siempre que esto pueda contribuir al esclarecimiento de un delito;
-
-VI.- El auto que se dicte en los casos a que se refieren las fracciones I y V anteriores, determinará con precisión la correspondencia epistolar o telegráfica que haya de ser examinada.
-
-###### Artículo 169.
-
-Cuando a solicitud de parte interesada, el Juez mande sacar testimonio de documentos privados existentes en los libros, cuadernos o archivos de comerciantes, industriales o de cualquier otro particular, se aplicarán las siguientes disposiciones:
-
-I.- El que pida la compulsa deberá fijar con precisión la constancia que solicita;
-
-II.- EL Juez, en audiencia verbal y en vista de lo que aleguen el tenedor y las partes, resolverá de plano si debe hacer o no la exhibición.
-
-###### Artículo 170.
-
-Los documentos públicos y privados podrán presentarse en cualquier estado del proceso, hasta antes de que éste se declare visto, y no se admitirán después sino con protesta formal que haga el que los presente, de no haber tenido conocimiento de ellos anteriormente.
-
-###### Artículo 171.
-
-Cuando se niegue o ponga en duda la autenticidad de un documento, podrá pedirse y se decretará el cotejo de letras o firmas que practicarán los peritos con asistencia del funcionario que lo decretó.
-
-###### Artículo 172.
-
-El cotejo se hará con documentos indubitables o que las partes reconozcan como tales; con documentos reconocidos judicialmente y con el documento impugnado, en la parte que no hubiere sido tachada de falsa por aquél a quien perjudique la falsedad.
+#### SECCION SEPTIMA. De la Escuela de Dietética y Nutrición
 
 ## TITULO CUARTO. De los Organos Internos de Control
 
 ## TITULO QUINTO. De otros órganos institucionales
 
-### CAPITULO CUARTO.- INCIDENTES
+### CAPITULO PRIMERO. Del Consejo Asesor Científico y Médico
 
-#### SECCION PRIMERA.- PROCEDIMIENTO EN LAS CUESTIONES DE COMPETENCIA
+### CAPITULO SEGUNDO. Del Comité de Evaluación y Seguimiento de los Servicios de Salud
 
-> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
-
-###### Artículo 309.
-
-Corresponde a las Salas en Materia de Defensa Social del Tribunal Superior de Justicia, resolver en definitiva las cuestiones de competencia a que se refieren los artículos 16 a 18 de este Código.
-
-> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
-
-###### Artículo 310.
-
-En los casos a que se refiere el artículo 17, tan pronto como la Sala reciba los autos originales que le remita el Juez que se niegue a avocarse al conocimiento de la causa, proveerá auto poniendo ésta a la vista del Procurador General de Justicia para que, dentro de tres días, emita su opinión.
-
-###### Artículo 311.
-
-Evacuada la vista a que se refiere el artículo anterior, dentro de los dos días siguientes, la Sala dictará su resolución y ordenará que se remitan los autos al Juez a quien hubiere declarado competente, comunicando al otro Juez su resolución.
-
-> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
-
-###### Artículo 312.
-
-En los casos a que se refiere el artículo 18, recibido en la Sala el testimonio de las constancias que le remita el Juez que niegue su inhibición, pondrá el toca respectivo a la vista del Procurador General de Justicia y de las partes en el proceso, por el término de tres días, para que expresen lo que a sus derechos convenga.
-
-###### Artículo 313.
-
-Evacuado el trámite a que se refiere el artículo anterior, dentro de dos días, la Sala dictará la resolución que corresponda, e inmediatamente enviará el testimonio de la misma, al Juez que niegue la inhibición, para que cumpla aquélla.
-
-#### SECCION SEGUNDA.- IMPEDIMENTOS, EXCUSAS Y RECUSACIONES
-
-###### Artículo 314.
-
-El funcionario Judicial de Defensa Social, sea Magistrado o Juez, está impedido para conocer de los asuntos en que intervenga, y deberá excusarse o podrá ser recusado, en los siguientes casos:
-
-I.- En los procesos en que tengan un interés directo o indirecto, él o su cónyuge, o la persona que se halle con él en la situación prevista por el artículo 297 del Código Civil, sus parientes consanguíneos, en la línea recta sin limitación de grados, o los colaterales consanguíneo o afines, dentro del cuarto grado inclusive.
-
-II.- Cuando, al incoarse el proceso, el funcionario fuere acreedor, deudor, socio, arrendador, arrendatario, dependiente, patrón, tutor o curador del procesado o del ofendido.
-
-III.- Cuando hubiese sido abogado, procurador o perito en el negocio de que se trate, o si declaró como testigo acerca de hechos relativos al proceso.
-
-IV.- Cuando con anterioridad al proceso, el acusado o el ofendido, denunciaron un delito imputándolo al funcionario, o se querellaron en contra de éste.
-
-V.- Cuando el funcionario denunció un delito imputándolo al ofendido, al denunciante o al acusado o se querelló en contra de cualquiera de éstos.
-
-VI.- Cuando es amigo íntimo o enemigo declarado del acusado, del ofendido o de uno de sus abogados.
-
-###### Artículo 315.
-
-Toda excusa o recusación podrá hacerse valer después de dictado el auto de formal prisión, o de sujeción a proceso, hasta antes de la citación para sentencia o para la vista pública, según se tratare de jueces o de magistrados del Tribunal Superior.
-
-###### Artículo 316.
-
-Si después de la citación para sentencia o para la vista de la causa, en su caso, hubiere cambio en el personal del Juzgado o en la Sala, se hará saber el cambio por medio de notificación personal a las partes, las cuales, dentro del término improrrogable de tres días, podrán hacer valer la recusación que estimen procedente.
-
-###### Artículo 317.
-
-Son aplicables a la recusación, las siguientes disposiciones:
-
-I.- Los jueces o magistrados desecharán de plano toda recusación que no sea interpuesta en tiempo y forma;
-
-II.- Toda recusación deberá ser con causa y propuesta ante el Juez o Tribunal que conozca del proceso;
-
-III.- La recusación hecha en tiempo y forma suspende la jurisdicción del funcionario en tanto se califica y decide por quien corresponda, sin perjuicio de las diligencias urgentes;
-
-IV.- Las recusaciones que se interpongan contra los magistrados y jueces, serán sustanciadas y resueltas por la Sala correspondiente del Tribunal Superior de Justicia;
-
-V.- Interpuesta en tiempo y forma la recusación, el funcionario recusado lo hará saber inmediatamente a quien deba conocer de ella, informando a su vez sobre los hechos que el recusante señale como causa de la recusación;
-
-VI.- Recibida la recusación por quien deba calificarla, con el informe del recusado se abrirá el incidente a prueba por tres días;
-
-VII.- Transcurrido el término a que se refiere la fracción anterior o recibidas las pruebas, la Sala, dentro de un término igual decidirá sobre la recusación;
-
-VIII.- Si la recusación fuere desechada, se impondrá al recusante una multa de tres a treinta días de salario mínimo en favor del Fondo para la Reparación del Daño y para la Ayuda a las Víctimas de los Delitos;
-
-IX.- Declarada legal la recusación, se comunicara inmediatamente al Juez recusado para que remita el proceso a quien deba seguir conociendo de él; pero cuando se trate de un Magistrado, se le comunicará que queda impedido para seguir conociendo del asunto;
-
-X.- La misma multa ordenada en la fracción VIII anterior, se impondrá al recusado cuando se declare procedente la recusación, sin perjuicio de proceder en su contra si resultare cometido algún delito.
-
-###### Artículo 318.
-
-Son aplicables a las excusas las siguientes disposiciones:
-
-I.- Se consignarán en el proceso o toca con expresión de causa.
-
-II.- EL Magistrado o Juez comunicará su excusa al Tribunal Superior, remitiendo las constancias que estime procedentes.
-
-III.- La Sala, en la audiencia en que se le de cuenta, resolverá la excusa de plano, si la causa fuere notoria.
-
-IV.- Si la causa de la excusa no fuere notoria, la Sala recibirá dentro de tres días la información que estime conducente, y vencido ese término, dictará su resolución, calificando la excusa.
-
-###### Artículo 319.
-
-Lo dispuesto en los artículos 314 a 318, respecto a los jueces y magistrados, es aplicable a los secretarios, diligenciarios y peritos nombrados por la Autoridad Judicial; pero la recusación o la excusa, en estos casos será calificada por el Juez o por el Magistrado Ponente del Juzgado o Sala que conozca del negocio, en que se promueva la excusa o recusación.
-
-#### SECCION TERCERA.- SUSPENSION DEL PROCEDIMIENTO
-
-###### Artículo 320.
-
-El procedimiento judicial iniciando para la averiguación de algún delito, sólo podrá suspenderse en los casos siguientes:
-
-I.- Cuando el acusado se hubiere sustraído a la acción de la justicia;
-
-II.- Al advertirse que la infracción a que se contrae el proceso, es de aquéllas que no pueden perseguirse sin previa querella del ofendido, y que esta no ha sido presentada;
-
-III.- Cuando se advierta que no se lleno algún requisito previo que la ley exija para que pueda incoarse el procedimiento;
-
-IV.- Cuando el procesado quede afectado de enajenación mental, cualquiera que sea el estado del proceso; y,
-
-V.- Cuando iniciado un proceso, no se hubiese dictado orden de aprehensión o de comparecencia y transcurran cuatro meses, si concurren además los siguientes requisitos:
-
-a) que aunque no esté agotada la averiguación, haya imposibilidad material transitoria para practicar las diligencias que resulten indicadas en ella;
-
-b) que no haya base para decretar el sobreseimiento;
-
-c) que se desconozca quién o quiénes son los responsables de la infracción.
-
-###### Artículo 321.
-
-En el caso de la fracción I del artículo 320, se aplicarán las siguientes disposiciones:
-
-I.- No obstante la suspensión del procedimiento, se practicarán las diligencias que tiendan a comprobar la existencia del delito o la responsabilidad del prófugo, o a lograr su captura.
-
-II.- La fuga de un acusado no impedirá la continuación del proceso, respecto de los demás responsables del delito que hubieren sido aprehendidos.
-
-III.- Una vez lograda la captura del prófugo, el proceso continuará su curso, practicándose las diligencias que por la fuga no hubieren podido desahogarse, sin repetir las practicadas sino cuando el Juez lo estime necesario.
-
-###### Artículo 322.
-
-En los casos previstos por las fracciones II y III del artículo 320, se pondrá al acusado en libertad.
-
-###### Artículo 323.
-
-Cuando se haya decretado la suspensión del procedimiento en los casos a que se refieren las fracciones II, III, IV y V del artículo 320 de este Código, se continuará tan luego como desaparezcan las causas que la motivaron.
-
-###### Artículo 324.
-
-El Juez o la Sala resolverán de plano sobre la suspensión con la sola petición del Ministerio Público, fundada en cualquiera de las causas a que se refiere el artículo 320 de este Ordenamiento; pero en el caso de las fracciones II y III del mismo artículo, cuando lo solicite el acusado, se resolverá con audiencia del Ministerio Público.
-
-Cuando el Tribunal de Apelación tuviere noticia que se ha suspendido indebidamente algún procedimiento, resolverá si es de continuarse o no dicho procedimiento, previo el informe del Juez respectivo.
-
-###### Artículo 325.
-
-La resolución que se dicte a petición del acusado, en el supuesto previsto en las fracciones II y III del artículo 320, será apelable sin suspensión.
-
-#### SECCION CUARTA.- ACUMULACION DE PROCESOS
-
-###### Artículo 326.
-
-La acumulación tiene por objeto, que un mismo Juez o Sala conozca y decida, en una misma sentencia, de diversos procesos que se instruyan contra la misma persona, por diversos delitos, o contra varias personas por un mismo delito o por diversos delitos conexos.
-
-###### Artículo 327.
-
-La acumulación tendrá lugar:
-
-I.- En los procesos que se instruyan en averiguación de delitos conexos, aunque sean varios los responsables;
-
-II.- En los que se sigan contra los copartícipes de un delito;
-
-III.- En los que se sigan en averiguación de un mismo delito, aunque contra diversas personas; y,
-
-IV.- En los que se sigan contra una misma persona, aun cuando se trate de delitos dversos (sic) e inconexos.
-
-###### Artículo 328.
-
-Los delitos son conexos:
-
-I.- Cuando se cometieron por varias personas unidas;
-
-II.- Cuando se cometieron por varias personas, aunque en diversos tiempos y lugares, si hubiere precedido concierto entre ellas para ejecutarlo; y,
-
-> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
-
-III.- Cuando se cometió un delito para procurarse los medios de cometer otro, facilitar su ejecución, consumarlo o asegurarse la impunidad.
-
-###### Artículo 329.
-
-La acumulación sólo podrá decretarse cuando los procesos se encuentren en estado de instrucción.
-
-###### Artículo 330.
-
-Cuando alguno de los procesos ya no estuviere en estado de instrucción, pero tampoco estuviere concluido, o cuando no sea procedente la acumulación conforme a este Capítulo, el Juez cuya sentencia cause ejecutoria primero, remitirá copia de la misma al Juez o Sala que conozca del otro proceso, para los efectos legales de la aplicación de sanciones.
-
-###### Artículo 331.
-
-Pueden promover la acumulación el Ministerio Público, el acusado y el defensor, o el ofendido si demandó el pago de la responsabilidad civil proveniente de delito.
-
-###### Artículo 332.
-
-No obstante, si los procesos se siguen en el mismo Juzgado o Sala, la acumulación podrá decretarse de oficio sin necesidad de substanciación.
-
-###### Artículo 333.
-
-Es competente para conocer de todos los procesos que deban acumularse, si se siguen en diversos juzgados, el Juez que conociere de las diligencias más antiguas, y si éstos comenzaron en la misma fecha, el que elija el Ministerio Público.
-
-###### Artículo 334.
-
-La acumulación se promoverá ante el Juez, que conforme al artículo anterior sea competente para conocer de todos los procesos; y el incidente a que dé lugar, se substanciará por separado; y si uno de los procesos por acumular se sigue en otro Estado de la República se aplicarán las normas relativas a cuestiones de la competencia.
-
-###### Artículo 335.
-
-Promovida la acumulación, el Juez oirá en audiencia que se verificará dentro de tres días, al Ministerio Publico y a los interesados y, sin más trámite, resolverá dentro de los dos días siguientes.
-
-###### Artículo 336.
-
-La resolución en que se conceda o niegue la acumulación es apelable en el efecto devolutivo, debiéndose interponer el recurso dentro de las veinticuatro horas siguientes a la notificación.
-
-###### Artículo 337.
-
-Si se decretare la acumulación y los procesos estuvieren en diversos juzgados, el Juez que hubiere hecho la declaración, pedirá al otro las diligencias que éste hubiere practicado, por medio de oficio o exhorto en el que expresará las causas que sirvan de fundamento para la acumulación.
-
-###### Artículo 338.
-
-Recibido el oficio, se oirá a las partes en audiencia que se verificará dentro de los dos días siguientes y el Juez, dentro de igual término, resolverá lo conducente.
-
-###### Artículo 339.
-
-Si la resolución fuere favorable, el Juez requerido remitirá desde luego a los procesados que estuvieren a su disposición y el proceso al Juez requiriente; en caso contrario contestará el oficio o el exhorto exponiendo las razones que tuviere para rehusar la acumulación.
-
-###### Artículo 340.
-
-Sea que el Juez acceda o rehuse a la acumulación, su resolución será apelable, debiéndose interponer el recurso dentro de veinticuatro horas.
-
-###### Artículo 341.
-
-Si el Juez requiriente, en vista de las razones que exponga el requerido, se persuadiere de que es improcedente la acumulación, decretará su desistimiento y lo comunicará al otro Juez y a los interesados.
-
-###### Artículo 342.
-
-El auto de desistimiento es apelable en el efecto devolutivo, debiendo interponerse el recurso en el término de veinticuatro horas.
-
-###### Artículo 343.
-
-Si el Juez que solicitó la acumulación insistiere en ella, no obstante las razones que en contrario hubiere expuesto el Juez requerido, así se lo comunicará y ambos remitirán los incidentes, con testimonio de las actuaciones que crean conducentes, a la Sala que deba conocer de las competencias que entre ellos se susciten.
-
-###### Artículo 344.
-
-La remisión de que habla el artículo anterior, se verificará dentro de los tres días siguientes, a la recepción por los jueces de los respectivos oficios, y la Sala decidirá de plano la contienda.
-
-###### Artículo 345.
-
-Los jueces no suspenderán sus procedimientos con motivo del incidente sobre acumulación, aun cuando la Sala de competencia hubiere de decidirlo, pero se abstendrán de citar para la vista.
-
-###### Artículo 346.
-
-Cuando se trate de diligencias de las que sea antecedente una causa que se esté ya instruyendo o que esté ya instruida, no se necesita la formación del incidente a que se refieren los artículos anteriores, bastando que el Juez ordene en aquellas que se agreguen a ésta y esa resolución será apelable.
-
-###### Artículo 347.
-
-No procede la acumulación de los procesos que se sigan ante Tribunales o Juzgados de distinto fuero. En este caso el acusado quedará a disposición del Juez que conozca del delito más grave, sin que por esto se ponga obstáculo alguno a la formación del proceso por el delito de menor gravedad.
-
-###### Artículo 348.
-
-La Sala o el Juez que primero pronuncie sentencia ejecutoria la comunicara al otro Juez o Sala, los que al fallar tendrán presente lo dispuesto en el Código de Defensa Social para los casos de acumulación y reincidencia.
-
-#### SECCION QUINTA.- INCIDENTES NO ESPECIFICADOS
-
-###### Artículo 349.
-
-Las cuestiones que se propongan durante la tramitación de un juicio de Defensa Social y que no sean de las especificadas en los Capítulos anteriores, se resolverán en la forma que establecen las fracciones siguientes:
-
-I.- Cuando la cuestión sea de obvia resolución y las partes no solicitaren prueba, el Juez resolverá de plano.
-
-II.- Las cuestiones que, a juicio del Juez, no puedan resolverse de plano o aquéllas en que hubiere de recibirse prueba, se substanciarán por cuerda separada y del modo que expresan los artículos siguientes.
-
-III.- Hecha la promoción, se dará vista de ella a las partes, para que contesten dentro de los dos días siguientes al de la notificación.
-
-IV.- Si el Juez lo creyere conveniente o alguna de las partes lo pidiere, citará a una audiencia que se verificará dentro de los tres días siguientes.
-
-V.- Durante el término a que se refiere la fracción anterior, así como en la audiencia, se recibirán las pruebas. Concurran o no las partes, el Juez fallará desde luego el incidente, y contra el fallo que se dicte procede apelación, sin que este recurso suspenda el procedimiento.
-
-#### SECCION SEXTA.- LIBERTAD BAJO CAUCION
-
-###### Artículo 350.
-
-Todo acusado tendrá derecho a ser puesto en libertad bajo caución, si el término medio aritmético de la sanción corporal correspondiente al delito que se le impute, no exceda de cinco años.
-
-###### Artículo 351.
-
-En casos de acumulación, para la libertad caucional se deberá atender a la suma de los términos medios de la sanción correspondiente a cada delito o al máximo de la señalada al delito más grave si aquella suma excediere de este máximo.
-
-###### Artículo 352.
-
-La libertad bajo caución podrá pedirse en cualquier tiempo, mientras no se haya dictado sentencia ejecutoria, y se decretará inmediatamente que sean satisfechos los requisitos correspondientes.
-
-###### Artículo 353.
-
-Cuando la solicitud de libertad caucional se formule durante la instrucción previa, el Ministerio Público procederá como dispone el artículo 112, si se tratare de delitos de imprudencia y, en caso contrario, hará constar esa solicitud en el acta, a fin de que, al recibir el Juez la consignación, acuerde inmediatamente lo procedente sobre libertad caucional.
-
-###### Artículo 354.
-
-La naturaleza de la caución quedará a elección del acusado, quien al solicitar la libertad manifestará la forma que elige, para los efectos de que el Juez o Sala pueda fijar el monto de la caución atendiendo a la naturaleza de la ofrecida.
-
-###### Artículo 355.
-
-El monto de la caución se fijará por el Juez o la Sala, quien tomará en consideración:
-
-I.- Los antecedentes del acusado;
-
-II.- La gravedad y circunstancias del delito imputado;
-
-III.- El mayor o menor interés que pueda tener el acusado en sustraerse a la acción de la justicia;
-
-IV.- Las condiciones económicas del acusado; y
-
-V.- La naturaleza de la garantía que se ofrezca.
-
-###### Artículo 356.
-
-Si el acusado o su defensor no hacen la manifestación a que se refiere el artículo 354, el Juez o la Sala fijarán de acuerdo a sus facultades las cantidades que correspondan a cada una de las formas de caución.
-
-###### Artículo 357.
-
-El acusado o una tercera persona, excepto el defensor, hará el depósito en efectivo ante la autoridad que conceda la libertad, y dicha autoridad ordenará que se deposite legalmente.
-
-###### Artículo 358.
-
-Cuando la garantía consista en hipoteca, que podrá ser otorgada por el acusado o por tercera persona, el inmueble no deberá tener gravamen alguno y su valor fiscal será cuando menos, el de tres veces el monto de la suma fijada como caución.
-
-###### Artículo 359.
-
-Cuando se ofrezca como garantía fianza personal por cantidad que no exceda del importe de diez días de salario, quedará bajo la responsabilidad de la autoridad que conceda la libertad caucional, la apreciación que haga de la solvencia o idoneidad del fiador de acuerdo con los artículos 2719 y 2807 del Código Civil.
-
-###### Artículo 360.
-
-Cuando la fianza personal exceda del importe de diez días de salario, el fiador deberá comprobar que tiene bienes raíces libres, inscritos en el Registro Público de la Propiedad de la jurisdicción del Tribunal, cuyo valor catastral sea, cuando menos triple de la cantidad señalada como garantía, salvo cuando se trate de empresas afianzadoras legalmente constituidas y autorizadas.
-
-###### Artículo 361.
-
-Las fianzas se extenderán en la misma pieza de autos en forma de acta, o se agregarán a estos, en caso de levantarse por separado.
-
-###### Artículo 362.
-
-El fiador, excepto cuando se trate de empresas afianzadoras legalmente constituidas y autorizadas, declarará ante el Juez o Sala, bajo protesta de decir verdad, si ha otorgado con anterioridad alguna otra fianza judicial y, en su caso, la cuantía y circunstancias de las mismas para que esa declaración se tome en cuenta, al calificar su solvencia.
-
-###### Artículo 363.
-
-Si el fiador con anterioridad hubiese otorgado otras fianzas, deberá justificar su solvencia por el valor de la nueva fianza, y sin perjuicio de las anteriores.
-
-> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
-
-###### Artículo 364.
-
-En el Tribunal Superior de Justicia se llevará un índice en el que se anotarán las fianzas otorgadas ante la Sala de Defensa Social, o ante los Jueces del mismo ramo, a cuyo efecto, éstos, en el término de tres días, deberán comunicar las que hayan aceptado, así como la cancelación de las mismas, en su caso, para que también esto se anote en el índice.
-
-###### Artículo 365.
-
-Cuando lo estimen necesario, la Sala o los jueces tendrán en cuenta los datos a que se refiere el artículo anterior, para calificar la solvencia de un fiador, debiendo el Tribunal proporcionarlos sin dilación, incluso por la vía telefónica o telegráfica.
-
-###### Artículo 366.
-
-Al notificarse el acusado, el auto que le conceda su libertad caucional, se le hará saber que contrae las siguientes obligaciones:
-
-I.- Presentarse ante el Juez o Sala que conozca de su caso, los días fijos que se estime convenientes señalarle, y cuantas veces sea citado o requerido para ello;
-
-II.- Comunicar al mencionado Juez o Sala los cambios de domicilio que tuviere; y
-
-III.- No ausentarse del lugar sin permiso de la autoridad que le concedió la libertad, permiso que no podrá exceder de un mes.
-
-###### Artículo 367.
-
-Se harán saber también al acusado, las causas de revocación de la libertad caucional.
-
-###### Artículo 368.
-
-En la notificación del auto que concede la libertad se hará constar que se hicieron saber al acusado las anteriores obligaciones y las causas de revocación; pero la omisión de este requisito no lo librará de ellas ni de sus consecuencias.
-
-###### Artículo 369.
-
-Cuando un tercero haya constituido fianza o hipoteca, para garantizar la libertad de un acusado, se aplicarán las siguientes disposiciones:
-
-I.- Las órdenes para que comparezca el acusado se entenderán con éste y, además, con el tercero que constituyó la garantía;
-
-II.- Si el tercero garante no pudiera desde luego presentar al acusado, el Juez o la Sala podrá otorgarle un plazo hasta de treinta días para que lo haga, sin perjuicio de librar orden de aprehensión, si lo estima oportuno;
-
-III.- Si concluido el término concedido no se obtiene la comparecencia del acusado, se ordenará su reaprehensión y se hará efectiva la garantía;
-
-IV.- No obstante lo dispuesto en la fracción anterior, si el fiador presentare al acusado antes de que la garantía se haya hecho efectiva, el Juez o Sala podrá reducir la pérdida de la caución, hasta en un cincuenta por ciento.
-
-###### Artículo 370.
-
-Si se hace efectiva una garantía, el importe de ésta se invertirá en una Institución Nacional de Crédito y se aplicará al pago de la reparación del daño, una vez que sea líquido el importe de la indemnización; y si hubiere excedente se entregará al Fondo para el pago de la Reparación del daño y Protección de las Víctimas de los Delitos.
-
-###### Artículo 371.
-
-Cuando el acusado haya garantizado por sí mismo su libertad, ésta se revocará:
-
-I.- Cuando desobedeciere, sin causa justa y comprobada, las órdenes legítimas del Juez o Sala que conozca de su proceso;
-
-II.- Cuando faltare a las demás obligaciones que le impone el artículo 366;
-
-III.- Cuando antes de que la causa en que se le concedió la libertad esté concluida por sentencia ejecutoria, se le sujete a reclusión preventiva por nuevo delito, o se le dicte por este último auto de sujeción a proceso;
-
-IV.- Cuando amenazare a la parte ofendida o a algún testigo de los que hayan depuesto o tengan que deponer en su contra;
-
-V.- Cuando tratare de cohechar o sobornar a un testigo que hayan depuesto o tengan que deponer en su contra, a algún funcionario del Tribunal o al Agente del Ministerio Público que intervenga en el caso;
-
-VI.- Cuando lo solicite el mismo acusado y se presente al Juez o Sala que conoce de su proceso;
-
-VII.- Cuando aparezca con posterioridad que le corresponde al delito que se impute al acusado, una sanción que no permite otorgar la libertad bajo caución; y
-
-VIII.- Cuando en el proceso cause ejecutoria la sentencia dictada en primera o segunda instancia.
-
-###### Artículo 372.
-
-Cuando un tercero haya garantizado la libertad del acusado, aquélla se revocará:
-
-I.- En los casos del artículo que antecede;
-
-II.- Cuando el que dio la garantía pida que se le releve de la obligación y presente al acusado; y
-
-III.- Cuando con posterioridad se demuestre la insolvencia del fiador.
-
-###### Artículo 373.
-
-En los casos de la fracción VIII del artículo 371, se aplicarán las siguientes disposiciones:
-
-I.- No se necesita proveer auto especial que revoque la libertad caucional;
-
-II.- Para tener por revocada la libertad caucional, será bastante la sentencia ejecutoria, aunque ésta no lo disponga expresamente;
-
-III.- La autoridad a quien corresponda la ejecución de la sentencia, será la que requiera el fiador, en su caso, para que presente al sentenciado; y
-
-IV.- La misma autoridad a que se refiere la fracción anterior, ordenará que se haga efectiva la garantía de acuerdo con las disposiciones legales aplicables.
-
-###### Artículo 374.
-
-En los casos de las fracciones I y II del artículo 371, se mandará reaprehender al acusado y se hará efectiva, por el Juzgado, la caución, depositándose su importe como dispone el artículo 370.
-
-> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
-
-###### Artículo 375.
-
-En los casos de las fracciones III, IV, V, VII y VIII del artículo 371, se ordenará la reaprehensión del acusado.
-
-> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
-
-###### Artículo 376.
-
-En los casos de la fracción VI del artículo 371 y II del 372 se remitirá al acusado al establecimiento que corresponda.
-
-###### Artículo 377.
-
-El Juez o Sala ordenará la devolución del depósito o mandará cancelar la garantía:
-
-I.- Cuando se decrete el sobreseimiento en el proceso y la libertad del acusado;
-
-II.- Cuando el acusado sea absuelto; y
-
-III.- Cuando sea condenado el acusado y se presente a cumplir su condena.
-
-#### SECCION SEPTIMA.- LIBERTAD POR DESVANECIMIENTO DE DATOS
-
-###### Artículo 378.
-
-La libertad por desvanecimiento de datos, procede en los casos siguientes:
-
-I.- Cuando en cualquier estado de la instrucción y después de dictado el auto de reclusión preventiva, aparezcan plenamente desvanecidos los datos que sirvieron para comprobar el cuerpo del delito; y
-
-II.- Cuando en cualquier estado de la instrucción y sin que hubieren aparecido datos posteriores de responsabilidad, se hayan desvanecido plenamente los considerados en el auto de reclusión preventiva para tener al acusado como probable responsable.
-
-###### Artículo 379.
-
-Cuando el acusado solamente haya sido declarado sujeto a proceso, podrá solicitar, fundándose en lo dispuesto en el artículo anterior, que se declare que queda sin efecto el auto de sujeción a proceso.
-
-###### Artículo 380.
-
-Hecha la solicitud relativa a lo dispuesto en los artículos que anteceden, el Juez citará a una audiencia dentro de cinco días, a la que el Ministerio Público deberá asistir y la resolución se dictará, dentro de los tres días siguientes a la celebración de la audiencia.
-
-> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
-
-###### Artículo 381.
-
-La solicitud del Ministerio Público para que se conceda la libertad por desvanecimiento de datos o se declare sin efecto el auto de sujeción a proceso, no implicará el desistimiento de la acción; pero el Juez no podrá dejar de acceder a esta solicitud.
-
-> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
-
-###### Artículo 382.
-
-La resolución que conceda la libertad por desvanecimiento de datos para procesar deja expeditos el derecho del Ministerio Público para pedir nuevamente la aprehensión del acusado, y la posibilidad del Juez para dictar nuevo auto de reclusión preventiva, si aparecieren posteriormente datos que le sirvan de fundamento y siempre que no se varíen los hechos delictuosos motivo del procedimiento.
-
-###### Artículo 383.
-
-La resolución que conceda o niegue la libertad a que se refiere este Capítulo, será apelable en el efecto devolutivo.
-
-### CAPITULO QUINTO.- EJECUCION DE LA SENTENCIA
-
-#### SECCION PRIMERA.- DISPOSICIONES GENERALES
-
-###### Artículo 384.
-
-La ejecución de las sentencias irrevocables, en materia de Defensa Social, salvo los casos a que se refieren los dos artículos siguientes, corresponde al Poder Ejecutivo del Estado, de acuerdo con la Ley de Ejecución de Sanciones Privativas de la Libertad.
-
-###### Artículo 385.
-
-Las sentencias irrevocables que sean absolutorias o que declaren compurgadas las sanciones en ellas impuestas, deberán ser ejecutadas por el Juez que las haya pronunciado, y una vez puesta en los autos la constancia de haber quedado cumplida, ordenará que éstos se archiven.
-
-###### Artículo 386.
-
-Cuando en la sentencia se declare la falsedad de un documento público, se ordenará anotar éste y la matriz respectiva en el protocolo, archivo o registro en que se encuentre, sin perjuicio de los demás efectos que deban darse a la sentencia por la autoridad administrativa ejecutora.
-
-###### Artículo 387.
-
-Pronunciada una sentencia condenatoria irrevocable, se aplicarán las siguientes disposiciones:
-
-I.- El Tribunal que la dicte extenderá una copia certificada para remitirse dentro de tres días al Ejecutivo del Estado, con los datos de identificación del reo.
-
-II.- El inferior, en su caso, al recibir el proceso con la ejecutoria, remitirá dicha copia al Gobernador del Estado, poniendo al reo a su disposición.
-
-III.- Con la constancia de haberse cumplido lo dispuesto en el artículo anterior, y acumulado el recibo del Gobernador, el Juez mandará depositar el proceso en el archivo de la Secretaría, comunicando al representante del Ministerio Público el cumplimiento de lo prevenido en este artículo.
-
-IV.- El Gobernador del Estado, al recibir la copia a que se refiere la fracción II anterior, acusará recibo y procederá conforme a sus facultades legales a ejecutar la sentencia.
-
-V.- La multa que se haya impuesto como sanción, en la sentencia ejecutoriada, se hará efectiva por las autoridades facultadas legalmente.
-
-VI.- Efectuado el pago de la multa, en todo o en parte, la autoridad que haya hecho el cobro, pondrá dentro del término de tres días la cantidad pagada a disposición del Fondo de la Reparación del Daño y de Ayuda para las Víctimas de los Delitos.
-
-VII.- El Juez o la Sala podrán aplicar a la autoridad encargada legalmente del cobro de la multa, el medio de apremio que estimen necesario, para que cumpla la obligación impuesta en las dos fracciones anteriores.
-
-VII (SIC).- Cuando los tribunales decreten el decomiso de instrumentos u objeto del delito, los remitirán al Ejecutivo del Estado, para los efectos de los artículos 52 a 56 del Código de Defensa Social.
-
-###### Artículo 388.
-
-En las sentencias condenatorias, se prevendrá que se amoneste al reo para que no reincida, advirtiéndole de las sanciones a que se expone y extendiendo acta de la diligencia sin que la falta de ésta obste para hacer efectiva la amonestación.
-
-###### Artículo 389.
-
-En la sanción de prisión que imponga una sentencia, se computará el tiempo de la prisión preventiva.
-
-#### SECCION SEGUNDA.- REVISION EXTRAORDINARIA
-
-###### Artículo 390.
-
-El condenado en sentencia ejecutoria que se repute con derecho de obtener la absolución por inocencia que establece el artículo 115 del Código de Defensa Social, ocurrirá a cualquiera de las Salas de Defensa Social del Tribunal Superior de Justicia, alegando la causa o causas en que se funde su inocencia, acompañando los justificantes de aquellas o protestando exhibirlos oportunamente.
-
-###### Artículo 391.
-
-En el supuesto previsto en el artículo anterior, se aplicarán las siguientes disposiciones:
-
-I.- Recibida la solicitud, la Sala de Defensa Social pedirá inmediatamente el proceso al Juzgado en cuyo archivo se encuentre.
-
-II.- Recibido el proceso, y cuando conforme al artículo anterior, el solicitante hubiere protestado exhibir las pruebas, se señalará un término prudente para recibirlas, según las circunstancias.
-
-III.- Transcurrido el término a que se refiere el artículo anterior, se citará al Ministerio Público, al reo y al Defensor que hubiere nombrado o que la Sala le hubiere designado, para la celebración de una vista que tendrá lugar a más tardar dentro de los ocho días siguientes a la citación.
-
-IV.- La audiencia se celebrará, en lo conducente con las formalidades que establecen los artículos 34 a 37.
-
-V.- Dentro de los seis días siguientes a la celebración de la audiencia, la Sala de Defensa Social pronunciará la resolución correspondiente.
-
-VI.- Si la resolución fuere favorable a la solicitud, se comunicará al Ejecutivo para que el absuelto sea puesto de inmediato en libertad.
-
-###### Artículo 392.
-
-Para que se declaren extinguidas las sanciones impuestas en sentencia ejecutoria, se requiere prueba plena e indubitable de:
-
-I.- Que la sentencia se hubiere fundado exclusivamente en pruebas que posteriormente se hayan declarado falsas en sentencia irrevocable;
-
-II.- Que después de la sentencia se haya condenado irrevocablemente por el mismo hecho a otro acusado, y que las dos sentencias no puedan conciliarse;
-
-III.- Que después de una condena por homicidio se presentaren datos sobre la existencia de la pretendida víctima del homicidio, posterior a la comisión de éste;
-
-IV.- Que después de la sentencia aparecieron documentos que invaliden la prueba en que aquella descansa;
-
-V.- Que, además del solicitante, haya sido condenada otra persona por el mismo delito, y se demuestre la imposibilidad de que los dos lo hubieren cometido; y
-
-VI.- Que el reo haya sido juzgado por el mismo hecho a que la sentencia impugnada se refiere, en otro juicio anterior en que también hubiere recaído sentencia irrevocable.
-
-### CAPITULO SEXTO.- RESPONSABILIDAD CIVIL PROVENIENTE DE DELITO
-
-###### Artículo 393.
-
-El aseguramiento de bienes para garantizar el pago de la responsabilidad civil proveniente de delito y el procedimiento del juicio sobre esta responsabilidad, ante el Juez de Defensa Social, se rigen por lo dispuesto en los artículos 853 a 872 del Código de Procedimientos Civiles del Estado.
-
-###### Artículo 394.
-
-La apelación interpuesta por el ofendido o su representante en los casos establecidos en este Código de Procedimientos en Materia de Defensa Social, sólo puede versar sobre cuestiones relativas a la reparación del daño proveniente del delito.
-
-TRANSITORIOS:
-
-###### ARTICULO PRIMERO.
-
-El Presente ordenamiento entrará en vigor el día primero de Enero de 1987, previa publicación en el Periódico Oficial del Estado.
-
-###### ARTICULO SEGUNDO.
-
-Se deroga el Código de Procedimientos en Materia de Defensa Social de fecha 27 de Enero de 1943, publicado en el Periódico Oficial el día 23 de marzo del mismo año; y se derogan las demás leyes que se opongan al presente Código.
-
-###### ARTICULO TERCERO.
-
-Todos los procesos y averiguaciones que estuvieren en trámite al comenzar a regir este Código, se sujetarán a sus disposiciones.
-
-###### ARTICULO CUARTO.
-
-Los recursos interpuestos antes de la vigencia de este Código y que no se hubieren aún admitido o desechado, se admitirán siempre que en este Código o en el anterior fueren procedentes, y se substanciarán conforme a lo dispuesto en el presente, o en el anterior si el actual no concediere este recurso.
-
-> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
-
-###### ARTICULO QUINTO.
-
-Los términos que estén corriendo para interponer algún recurso al comenzar a regir este Código, se computarán conforme al mismo o al Código derogado, aplicándose las disposiciones que señalen mayor amplitud.
-
-###### ARTICULO SEXTO.
-
-La Policía Judicial que al entrar en vigor este Código esté practicando averiguaciones relativas a delitos, remitirán las diligencias respectivas al Ministerio Público y sólo practicará las diligencias que éste le encomiende y bajo la dirección del mismo Ministerio Público.
-
-EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Pueba (sic) de Zaragoza, a los 22 días del mes de Diciembre de 1986.- Diputado Presidente.- Profr. Neftalí Dante Nolasco Hernández.- Rúbrica.- Diputado Secretario.- Profr. Javier Steffanoni Dossetti.- Rúbrica.- Diputado Secretario.- Profr. Felipe Guerrero Ríos.- Rúbrica.
-
-Por tanto mando se imprima, publique y circule para sus efectos.- Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintidós días del mes de diciembre de mil novecientos ochenta y seis.- El Gobernador Constitucional del Estado.- Lic. Guillermno (sic) Jiménez Morales.- Rúbrica.- El Secretario de Gobernación.- Lic. Humberto Gutiérrez Manzano.- Rubrica.
+### CAPITULO TERCERO. Del Comité de Inversiones
 
 ### CAPITULO CUARTO. Del Comité de Información
 
@@ -1335,11 +189,11 @@ f) Delegaciones Estatales y Regionales; y,
 
 g) Escuela de Dietética y Nutrición.
 
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 5.
 
-A nivel central, el Instituto contará con un Organo Interno de Control que se regirá conforme a los artículos 85 y 86 de este Estatuto Orgánico.
-
-Las Delegaciones Estatales y Regionales del Instituto, así como el FOVISSSTE, el PENSIONISSSTE y el SuperISSSTE contarán, respectivamente, con un órgano interno de control, que se regirán conforme a los artículos 87, 88 y 89 de este Estatuto Orgánico.
+El Instituto contará con una Contraloría Interna denominada también Organo Interno de Control, que se regirá conforme a los artículos 85 y 86 de este Estatuto Orgánico.
 
 ###### ARTICULO 6.
 
@@ -1377,1693 +231,1579 @@ Los integrantes a que se refieren las fracciones II, III y IV del artículo ante
 
 Los integrantes a que se refiere la fracción V del propio artículo anterior serán suplidos por quienes designen las organizaciones de trabajadores de las cuales provengan, de acuerdo a las Bases expedidas por el Ejecutivo Federal.
 
-###### Artículo 10.
+###### ARTICULO 10.
 
-Si el acusado que deba ser juzgado en el Estado se refugiare en otro Estado de la República, Distrito Federal o en el extranjero, se solicitará su entrega conforme a las leyes federales.
+Para ser miembro de la Junta se requiere:
 
-###### Artículo 11.
+I. Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
-En el caso de la fracción III del artículo 9º, dejarán de ser competentes las autoridades judiciales del Estado si el acusado fue declarado inocente en la revisión extraordinaria o amnistiado, o si se hubiere pedido su extradición por las autoridades del lugar en que se cometió el delito.
+II. No estar desempeñando cargo alguno de elección popular; y,
 
-###### Artículo 12.
+III. Ser de reconocida competencia y honorabilidad.
 
-El que fuera del territorio del Estado cometiere alguno de los delitos que se mencionan en el artículo 143 del Código de Defensa Social, en lo que concierne al Estado, será juzgado conforme a las leyes del mismo.
+Los miembros de la Junta no podrán ser al mismo tiempo servidores públicos de confianza del Instituto, salvo el Director General.
 
-###### Artículo 13.
+###### ARTICULO 11.
 
-El Juez que, con arreglo a este Código, fuere competente para conocer de un proceso, lo será también para conocer de todos los incidentes; mas si se alegare alguna relación jurídica, meramente civil, para atenuar la responsabilidad del acusado o para agravarla, sólo se estimará dicha relación, al fallar, para el fin indicado, exclusivamente.
+Los miembros de la Junta durarán en sus cargos el tiempo que subsista su designación.
 
-###### Artículo 14.
+Los representantes de las organizaciones de trabajadores podrán recibir una remuneración por el desempeño de sus funciones, de conformidad con lo que al respecto acuerde la Junta, con base en la propuesta que formule la Dirección de Finanzas atendiendo a las disponibilidades presupuestales. Los representantes del Estado no recibirán remuneración adicional alguna por sus labores en este Organo.
 
-En los casos de acumulación, será competente el Juez que conozca el proceso, en que se hubiese dictado primeramente el auto de inicio.
+###### ARTICULO 12.
 
-###### Artículo 15.
+Las sesiones de la Junta deberán sujetarse al orden del día, que será integrado y sometido por su Presidente. Cualquiera de sus miembros podrá sugerir la inclusión de algún asunto para ser tratado en subsecuente sesión previa aprobación de la propia Junta.
 
-En los delitos comunes y oficiales cometidos por los altos funcionarios del Estado, la competencia se regirá por lo que disponen la Constitución Política del Estado y la Ley de Responsabilidades de los Servidores Públicos.
+El orden del día de las sesiones deberá contener, invariablemente, un punto sobre el cumplimiento de los acuerdos adoptados por la Junta, así como otro de asuntos generales.
 
-###### Artículo 16.
+En caso de que una sesión no se celebre o se suspenda, o algún punto del orden del día no quede debidamente resuelto, los asuntos pendientes se tratarán en sesiones subsecuentes, excepto aquellos que por acuerdo expreso de la Junta deban desahogarse por otro procedimiento.
 
-El Juez o Tribunal que se considere incompetente para conocer de una causa, enviará de oficio las actuaciones a la Autoridad que juzgue competente, después de haber practicado las diligencias más urgentes y de haber dictado auto de formal prisión, de sujeción a proceso o, en su caso, auto de libertad por falta de méritos.
+Los miembros de la Junta deberán asistir a las sesiones a las que sean convocados; en caso de impedimento lo comunicarán al Presidente de la Junta, por conducto de la Secretaría de este Organo.
 
-###### Artículo 17.
+Los acuerdos se tomarán por mayoría de votos de los miembros presentes. En caso de empate, el Presidente tendrá voto de calidad.
 
-En el supuesto previsto en el artículo anterior, si la Autoridad a quien se remitan las actuaciones estima a su vez que es incompetente, elevará las diligencias practicadas a la Sala correspondiente del Tribunal Superior de Justicia, para que ésta dicte la resolución que proceda.
+###### ARTICULO 13.
 
-###### Artículo 18.
+Son atribuciones de la Junta:
 
-Cuando las partes en el juicio estimen que no es competente el Juez que conoce del proceso, podrán pedirle que se inhiba del conocimiento, siendo aplicables, además las siguientes disposiciones:
+I. Aprobar el Estatuto Orgánico y los reglamentos necesarios para la operación del Instituto propuestos por el Director General;
 
-I.- El auto en que se acepte o niegue la inhibición es recurrible en queja, la cual no suspende el procedimiento;
+II. Conocer y, en su caso, aprobar:
 
-II.- La resolución que acepte la inhibición no tendrá el efecto de nulificar lo actuado por el Juez declarado incompetente;
+a) Los planes y programas que sean presentados por la Dirección General para las operaciones y servicios del Instituto;
 
-III.- La resolución que declare incompetente al Juez, sea por haber aceptado éste la inhibitoria, o por haberlo resuelto así el Tribunal en la queja, no tendrá el efecto de nulificar lo actuado por aquel Juez.
+b) El programa institucional y los programas operativos anuales, de acuerdo con lo establecido en la Ley de Planeación, así como los estados financieros del Instituto y los programas y presupuestos correspondientes;
 
-###### Artículo 19.
+c) El presupuesto de gastos de administración, operación y vigilancia del Instituto;
 
-Son auxiliares de la administración de justicia en materia de Defensa Social:
+d) El informe del estado que guarde la administración del Instituto; y,
 
-I.- La Policía Judicial;
+e) Las políticas de inversión del Instituto, a propuesta del Comité de Inversiones, excepto tratándose del seguro de retiro, cesantía en edad avanzada y vejez, autorizando también el programa anual de reservas actuariales y financieras que deban constituirse para asegurar el otorgamiento de los seguros, prestaciones y servicios que determina la Ley, así como el cumplimiento de sus fines.
 
-II.- La Dirección de Gobernación y Seguridad Pública del Ejecutivo del Estado;
+III. Aprobar la concertación de los préstamos para el financiamiento del Instituto con créditos internos y externos, atendiendo los lineamientos que dicten las autoridades competentes en materia de manejo de disponibilidad financiera;
 
-III.- Las autoridades municipales; y
+IV. Acordar con sujeción a las disposiciones legales relativas los donativos o pagos extraordinarios y verificar que los mismos se apliquen precisamente a los fines para los que se destinen;
 
-IV.- Los médicos legistas y demás peritos e intérpretes.
+V. Expedir las normas o bases generales con arreglo a las cuales, cuando fuere necesario, el Director General pueda disponer de los activos fijos del Instituto cuando así se amerite;
 
-###### Artículo 20.
+VI. Establecer, con sujeción a las disposiciones legales relativas, y siguiendo los procedimientos respectivos que fije el Reglamento de la Ley Federal de las Entidades Paraestatales, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que el Instituto requiera para la prestación de sus servicios, con excepción de aquellos inmuebles de organismos descentralizados que la Ley General de Bienes Nacionales considere como del dominio público de la Federación;
 
-Son aplicables a las actuaciones en materia de defensa social, las siguientes disposiciones:
+VII. Presentar al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y al Congreso de la Unión, a más tardar el 30 de junio de cada año, un informe dictaminado por auditor externo que incluya, al menos, los siguientes elementos:
 
-I.- Podrán practicarse a toda hora, aun en días feriados, sin necesidad de previa habilitación;
+a) La situación financiera de cada uno de los seguros ofrecidos por el Instituto, y actuarial de sus Reservas, aportando elementos de juicio para evaluar si las primas correspondientes son suficientes para cubrir los gastos actuales y futuros de los beneficios derivados de cada seguro;
 
-II.- Se escribirán en máquina o a mano;
+b) Los posibles riesgos, contingencias y pasivos que se están tomando en cada seguro y la capacidad financiera del Instituto para responder a ellos en función de sus ingresos y las Reservas disponibles;
 
-III.- En cada una de ellas se expresarán el día, el mes y el año en que se practiquen;
+c) Estimaciones sobre las posibles modificaciones a las Cuotas y Aportaciones de cada seguro que, en su caso, se puedan prever para mantener la viabilidad financiera del Instituto, y de las fechas estimadas en que dichas modificaciones puedan ser requeridas; y,
 
-IV.- Las fechas y cantidades se escribirán con letra y además con cifras;
+d) La situación de sus pasivos laborales y de cualquiera otra índole que comprometan su gasto por más de un ejercicio fiscal.
 
-V.- Se formarán legajos con copias de las sentencias;
+VIII. En relación con el FOVISSSTE, conocer y, en su caso, aprobar:
 
-VI.- En las actuaciones judiciales no se emplearán abreviaturas ni borraduras;
+a) El presupuesto de ingresos y egresos, así como los programas de labores y de financiamiento del Fondo de la Vivienda para el siguiente año;
 
-VII.- Las palabras o frases puestas por equivocación, se testarán con una línea delgada de manera que queden legibles, salvándose al final con toda precisión antes de las firmas;
+b) El informe de actividades de la Comisión Ejecutiva del FOVISSSTE y los estados financieros que resulten de la operación en el último ejercicio;
 
-VIII.- En la misma forma ordenada por la anterior fracción VII, se salvarán las palabras o frases que se hubieren entrerrenglonado;
+c) El presupuesto de gastos de administración, operación y vigilancia del Fondo, que no deberán exceder del 0.75 por ciento de los recursos totales que maneje;
 
-IX.- Las actuaciones terminarán con una línea de tinta a mano o en máquina, tirada de la última palabra al final del renglón;
+d) Las Reservas que deban constituirse para asegurar la operación del Fondo y el cumplimiento de los demás fines y obligaciones del mismo;
 
-X.- Las hojas del expediente deberán estar foliadas y rubricadas en el centro por el Secretario, quien cuidará de poner también el sello de la Secretaría en el fondo del cuaderno, de manera que abarque las dos caras.
+e) Las reglas para el otorgamiento de créditos;
 
-###### Artículo 21.
+f) Los programas y acciones para vigilar que los créditos y los financiamientos que se otorguen se destinen a los fines para los que fueron programados; y,
 
-Cuando en un proceso intervengan personas que no tengan el carácter de funcionarios públicos, se aplicarán las siguientes disposiciones:
+g) Las demás medidas necesarias para el cumplimiento de los fines del Fondo.
 
-I.- Desde la primera diligencia en que comparezcan, manifestarán su domicilio;
+IX. En relación con el PENSIONISSSTE, conocer y, en su caso, aprobar:
 
-II.- Deberán dar aviso al Juez o Tribunal de los cambios de domicilio y si no lo hicieren se les impondrá de plano una multa por el importe de dos días de salario mínimo;
+a) El presupuesto de ingresos y egresos, así como los programas de labores y de inversión del Fondo Nacional de Pensiones de los Trabajadores al Servicio del Estado para el siguiente año;
 
-III.- Cuando comparezcan a una diligencia, firmarán al margen y al calce del acta que se levante, y si ésta consta de varias fojas, firmarán al margen de cada una de ellas;
+b) El informe de actividades de la Comisión Ejecutiva del PENSIONISSSTE y los estados financieros que resulten de la operación en el último ejercicio;
 
-IV.- En defecto de la firma imprimirán su huella digital;
+c) La estrategia de inversión de los recursos del Fondo, a propuesta de la Comisión Ejecutiva del PENSIONISSSTE;
 
-V.- Si el compareciente no firmare ni imprimiere su huella digital se hará constar el motivo de la omisión.
+d) El programa de Reservas que deban constituirse para asegurar la operación del Fondo y el cumplimiento de los demás fines y obligaciones del mismo, a propuesta de la Comisión Ejecutiva del PENSIONISSSTE;
 
-###### Artículo 22.
+e) La constitución de sociedades de inversión especializadas de fondos para el retiro;
 
-Los expedientes de los procesos permanecerán en la Secretaría del Juzgado, donde las partes podrán acudir para imponerse de ellos.
+f) El presupuesto de gastos de administración, operación y vigilancia del PENSIONISSSTE; y,
+
+g) Las demás medidas necesarias para el cumplimiento de los fines del PENSIONISSSTE.
+
+X. Establecer o suprimir Delegaciones del Instituto en las Entidades Federativas;
+
+XI. Constituir, a propuesta del Director General, un Consejo Asesor Científico y Médico y las comisiones necesarias para su mejor operación interna;
+
+XII. Nombrar y remover, a propuesta del Director General, a los Titulares de las Unidades Administrativas Centrales y Desconcentradas del Instituto, sin perjuicio de las facultades que al efecto le delegue;
+
+XIII. Nombrar y remover, a propuesta de su Presidente, al Prosecretario de la Junta;
+
+XIV. Otorgar premios, estímulos y recompensas a los servidores públicos del Instituto, de conformidad con lo que establece la ley de la materia;
+
+XV. Conferir poderes generales o especiales de acuerdo con el Director General;
+
+XVI. Autorizar al Director General a celebrar los convenios de incorporación voluntaria al régimen de la Ley;
+
+XVII. Aprobar mecanismos de contribución solidaria entre el Instituto y sus derechohabientes;
+
+XVIII. Dictar los acuerdos que resulten necesarios para otorgar los beneficios previstos en los seguros, prestaciones y servicios establecidos en la Ley;
+
+XIX. Resolver los recursos contra las resoluciones de la propia Junta que afecten intereses particulares, a que se refiere el artículo 219 de la Ley;
+
+XX. Proponer al Ejecutivo Federal los proyectos de reformas a la Ley; y,
+
+XXI. En general, realizar todos aquellos actos y operaciones autorizados por la Ley y los que fuesen necesarios para la mejor administración y gobierno del Instituto.
+
+###### ARTICULO 14.
+
+La Junta celebrará por lo menos una sesión cada tres meses, pudiendo realizar las sesiones extraordinarias que se requieran para el debido funcionamiento de la institución.
+
+Las sesiones serán válidas con la asistencia de por lo menos diez miembros, cinco de los cuales deberán ser representantes del Estado.
+
+###### ARTICULO 15.
+
+La convocatoria para la celebración de las sesiones de la Junta la emitirá su Presidente, debiendo acompañarse del orden del día de la sesión, así como de la carpeta documental que sustente los asuntos a tratar, que se hará llegar a los miembros con una antelación no menor de cinco días hábiles a la fecha de la cita.
+
+###### ARTICULO 16.
+
+La Junta será auxiliada en sus funciones por un Secretario y un Prosecretario.
+
+###### ARTICULO 17.
+
+El Secretario General del Instituto fungirá como Secretario de la Junta. En caso de ausencia temporal de éste en las sesiones del Organo, tendrá tal carácter el servidor público del Instituto que designe el Presidente del propio Organo.
+
+El Secretario de la Junta será el fedatario en las sesiones, en las votaciones sobre deliberaciones de los asuntos planteados y en los actos, acuerdos y resoluciones de dicho órgano de gobierno. Asimismo, deberá desempeñar las siguientes funciones:
+
+I. Asistir a las sesiones con voz pero sin voto;
+
+II. Levantar las actas de las sesiones e integrarlas al registro autorizado;
+
+III. Hacer llegar a los miembros de la Junta, con la oportuna anticipación, la convocatoria, el orden del día y la carpeta documental de los asuntos que ésta deba conocer;
+
+IV. Comunicar los acuerdos que emita la Junta inmediatamente después de que ésta sesione, para su seguimiento y ejecución;
+
+V. Firmar las actas de las sesiones;
+
+VI. Fungir como asesor permanente de los Comités Técnicos de la Junta;
+
+VII. Realizar el análisis de los asuntos que se deban someter a la consideración de la Junta para verificar su presentación dentro de la normatividad aplicable;
+
+VIII. Mantener actualizado el registro de los acuerdos emitidos por la Junta y establecer un sistema de seguimiento de los mismos; y,
+
+IX. Las demás que le encomiende la Junta.
+
+###### ARTICULO 18.
+
+El Prosecretario deberá apoyar al Secretario de la Junta en el cumplimiento de las funciones que el presente Estatuto le confiere y aquéllas que por acuerdo expreso le sean encomendadas. Asimismo, brindará orientación operativa a los Comités Técnicos en el desempeño de sus funciones.
+
+###### ARTICULO 19.
+
+La Junta podrá constituir Comités Técnicos de Apoyo para el eficaz desarrollo de sus atribuciones.
+
+Los Comités Técnicos de Apoyo desarrollarán al efecto funciones de orden consultivo, analítico y preparatorio, y los integrarán:
+
+I. El Secretario de la Junta, quien fungirá como asesor permanente;
+
+II. El titular de la Unidad Administrativa competente del Instituto, quien se desempeñará como coordinador;
+
+III. Representantes del Estado; y,
+
+IV. Un representante de cada una de las organizaciones de trabajadores que conformen la Junta, de acuerdo con las Bases expedidas por el Ejecutivo Federal para su integración.
+
+El Secretario será suplido por el Prosecretario. En el caso de los integrantes que prevén las fracciones II, III y IV, se nombrará un suplente para sus ausencias temporales.
+
+###### ARTICULO 20.
+
+Los Comités Técnicos de Apoyo tendrán las funciones siguientes:
+
+I. Atender y resolver los asuntos que conforme a su competencia les haya encomendado la Junta;
+
+II. Llevar a cabo los estudios, análisis y propuestas de solución a los problemas que les hayan sido planteados por la Junta, apegándose estrictamente a la normatividad aplicable; y,
+
+III. Presentar el informe correspondiente en el término y forma que haya determinado la Junta en el acuerdo respectivo.
+
+###### ARTICULO 21.
+
+Los Comités Técnicos sesionarán a convocatoria de su coordinador o del Secretario de la Junta, en ausencia de aquél, con la continuidad que sea necesaria para resolver las tareas que les haya asignado la Junta en el Acuerdo que les dio origen.
+
+Sus integrantes tendrán los siguientes derechos y obligaciones:
+
+I. Asistir a las sesiones en los términos de la convocatoria que les haya sido notificada;
+
+II. Analizar los asuntos turnados al Comité, formulando observaciones y propuestas a efecto de lograr el cometido que se le haya asignado;
+
+III. Emitir su voto en los asuntos sometidos a su consideración; y,
+
+IV. Desempeñar las actividades que al efecto le sean asignadas por el Comité.
+
+###### ARTICULO 22.
+
+Previo acuerdo de la Junta, los Comités podrán a su vez crear Subcomités, con la integración, competencia y facultades que su propio acuerdo de constitución les asigne.
 
 ### CAPITULO SEGUNDO. Del Director General
 
-###### Artículo 23.
+###### ARTICULO 23.
 
-Sólo para formular conclusiones y siempre que, a juicio del Juez, no se entorpezca la tramitación, podrán los expedientes ser entregados al Ministerio Público.
+El Director General es el representante legal del Instituto. Tiene a su cargo la conducción y ejecución de las acciones operativas del Instituto conforme a la Ley, al presente Estatuto y a las demás disposiciones aplicables, con las atribuciones siguientes:
 
-###### Artículo 24.
+I. Convocar y presidir las sesiones de la Junta, ejecutando los acuerdos y resoluciones de la misma, así como representar al Instituto en todos los actos que requieran su intervención;
 
-Cuando se dé vista de la causa al procesado, el Juez o la Sala tomarán las precauciones que crean convenientes para evitar la destrucción del expediente y si se temiere fundadamente una destrucción o alteración, el Secretario del Juzgado leerá al acusado las constancias procesales de que éste quisiere enterarse.
+II. Someter a la Junta los proyectos de estatuto orgánico, reglamentos y normas previstos en la Ley;
 
-###### Artículo 25.
+III. Proponer a la Junta las políticas, estrategias y planes generales que deban presentársele para la conducción del Instituto;
 
-En caso de pérdida de un proceso se aplicarán las siguientes disposiciones:
+IV. Someter a la aprobación de la Junta:
 
-I.- Se repondrá a costa del responsable;
+a) El programa institucional;
 
-II.- El responsable de la pérdida deberá pagar los daños y perjuicios que se ocasionen con ella, quedando además sujeto a las disposiciones relativas del Código de Defensa Social;
+b) El programa operativo anual, de acuerdo con lo establecido en la Ley de Planeación;
 
-III.- Cuando no fuere posible reponer todas las constancias procesales, se tendrá por probada la existencia de aquéllas que apareciesen insertadas o mencionadas en el auto de detención, en el de formal prisión o en cualquier otra resolución de que hubiere constancia.
+c) El programa de administración y constitución de Reservas;
 
-###### Artículo 26.
+d) El programa anual de préstamos;
 
-El Tribunal y los jueces deberán mantener el buen orden y exigir que les sean guardadas las consideraciones debidas.
+e) Los estados financieros; y,
+
+f) El informe financiero y actuarial del Instituto.
+
+V. Presentar a la Junta un informe anual del estado que guarde la administración del Instituto;
+
+VI. Resolver bajo su inmediata y directa responsabilidad los asuntos urgentes del Instituto, a reserva de informar a la Junta sobre las acciones realizadas y los resultados obtenidos;
+
+VII. Establecer las medidas que aseguren la solidez financiera a largo plazo del Instituto;
+
+VIII. Informar bimestralmente a la Secretaría de Hacienda y Crédito Público sobre el incumplimiento en el pago de Cuotas y Aportaciones, haciendo pública la información correspondiente;
+
+IX. Presidir las sesiones de la Comisión Ejecutiva del FOVISSSTE y de la Comisión Ejecutiva del PENSIONISSSTE, facultad que podrá ser delegada en el Vocal Ejecutivo respectivo;
+
+X. Presidir las sesiones del Comité de Control y Auditoría;
+
+XI. Firmar las escrituras públicas, títulos de crédito, convenios y contratos en que el Instituto intervenga, representar al Instituto en toda gestión judicial, extrajudicial y administrativa y, en general, llevar la firma del Instituto, sin perjuicio de la delegación de facultades que para este efecto estime necesaria;
+
+XII. Ejercitar y desistirse de las acciones legales;
+
+XIII. Expedir los manuales de organización, de procedimientos, de servicios al público y de integración y funcionamiento del Instituto y de sus demás Organos de Gobierno y Unidades Administrativas internas, así como las disposiciones y lineamientos normativos distintos a los reglamentos expedidos por el Titular del Ejecutivo Federal necesarios para la operación del Instituto;
+
+XIV. Proponer a la Junta el nombramiento y, en su caso, la remoción de los Titulares de las Unidades Administrativas Centrales y Desconcentradas del Instituto, y nombrar a los trabajadores de base y de confianza de los siguientes niveles, sin perjuicio de la delegación de facultades que para este efecto estime necesaria;
+
+XV. Establecer los mecanismos de evaluación de desempeño del Instituto;
+
+XVI. Formular el calendario oficial de actividades del Instituto y conceder licencias al personal, vigilar sus labores e imponer las correcciones disciplinarias procedentes conforme a las Condiciones Generales de Trabajo, sin perjuicio de la delegación de facultades que para este efecto estime necesaria;
+
+XVII. Operar por sí mismo, o por el funcionario que designe, las relaciones internacionales, intersectoriales e interinstitucionales; y,
+
+XVIII. Las demás que le fijen las leyes o los reglamentos y aquellas que expresamente le asigne la Junta.
+
+###### ARTICULO 24.
+
+El Director General será auxiliado en el ejercicio de sus funciones por el Secretario General, por los Directores de las Unidades Administrativas Centrales, por los Vocales Ejecutivos de las Comisiones Ejecutivas del FOVISSSTE y del PENSIONISSSTE, por los Directores de Unidades Administrativas Desconcentradas, por los Delegados y por los demás servidores públicos de primer nivel que, a propuesta del mismo, nombre la Junta.
+
+###### ARTICULO 25.
+
+El Director General podrá delegar cualquiera de sus facultades en otros servidores públicos del Instituto, sin perjuicio de ejercerlas directamente, con excepción de aquellas que por disposición legal expresa o determinación de la Junta le correspondan exclusivamente.
+
+Para los efectos anteriores, podrá otorgar poderes generales y especiales con las facultades que le competan, entre ellas las que requieran autorización o cláusula especial, así como sustituirlos y revocarlos. Asimismo, podrá conferir poderes generales y especiales a terceros para llevar la representación y defensa jurídica de los intereses del Instituto.
+
+###### ARTICULO 26.
+
+En sus ausencias temporales el Director General será suplido por el servidor público de primer nivel del Instituto que designe la Junta, a propuesta del propio Director General.
 
 ### CAPITULO TERCERO. De la Comisión Ejecutiva del Fondo de la Vivienda
 
-###### Artículo 27.
+###### ARTICULO 27.
 
-Las faltas que se cometieren contra el buen orden y las consideraciones debidas a los jueces y al Tribunal, se corregirán por éstos, en el acto, con una multa cuyo importe será de tres a treinta días de salario mínimo.
+La Comisión Ejecutiva del FOVISSSTE es el órgano de gobierno del Instituto encargado de la operación del Fondo de la Vivienda. Se integra por dieciocho miembros, como a continuación se indica:
 
-###### Artículo 28.
+I. El Director General del Instituto, quien la presidirá;
 
-Cuando cambiare el personal del Tribunal o del Juzgado, no se proveerá auto alguno haciendo saber el cambio, sino que en el primero que proveyere el nuevo funcionario, se insertará su nombre completo; y en la Sala se pondrán al margen de los autos los nombres y apellidos de los funcionarios que los firman; pero cuando no tenga que dictarse resolución alguna anterior a la sentencia, sí se hará saber el cambio del personal.
+II. El Vocal Ejecutivo, el cual será nombrado por la Junta a propuesta del Director General del Instituto;
 
-###### Artículo 29.
+III. Tres vocales nombrados por la Secretaría de Hacienda y Crédito Público, y un vocal nombrado por cada una de las siguientes instituciones: la Secretaría de Desarrollo Social, la Secretaría del Trabajo y Previsión Social, la Secretaría de la Función Pública y la Comisión Nacional de Vivienda; y,
 
-Cuando esté comprobado en autos el delito que motivó el proceso, el Juez o Tribunal a solicitud del interesado o interesados, dictarán, aun antes de haberse obtenido la ejecución de la orden de aprehensión del acusado, las providencias necesarias para restituirlos en el goce del bien o derecho de que hubiesen sido privados con motivo de la infracción, previa la justificación correspondiente.
+IV. Nueve vocales de las organizaciones de trabajadores, designados conforme a las Bases expedidas por el Ejecutivo Federal.
 
-###### Artículo 30.
+###### ARTICULO 28.
 
-En las averiguaciones en que no se hubiese logrado reunir pruebas bastantes, conforme al artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, para decretar la aprehensión del acusado, no obstante haberse practicado todas las diligencias solicitadas por los interesados o decretadas por el Juez, éste, a petición del Ministerio Público, del mismo acusado, y aun sin previa solicitud, decretará la cesación del procedimiento y mandará archivar lo actuado.
+Los integrantes de la Comisión Ejecutiva del FOVISSSTE no podrán ser miembros de la Junta, con excepción del Director General del Instituto. No podrá formar parte de este órgano el Secretario General de la sección sindical que corresponda al FOVISSSTE.
 
-###### Artículo 31.
+###### ARTICULO 29.
 
-El Juez o la Sala podrán dictar en los procesos sujetos a su conocimiento, los trámites y providencias que estimen convenientes para la pronta y eficaz administración de justicia.
+Para ocupar el cargo de vocal de la Comisión Ejecutiva se requiere ser mexicano, estar en pleno goce y ejercicio de sus derechos civiles y políticos, y ser de reconocida honorabilidad y experiencia técnica y administrativa.
 
-###### Artículo 32.
+Los vocales durarán en sus funciones por todo el tiempo que subsista su designación.
 
-Cuando los jueces o tribunales tuvieren que practicar alguna diligencia fuera del lugar del juicio, se dirigirán por medio de oficio o exhorto, solicitando del funcionario correspondiente de la localidad en que dicha diligencia debe practicarse, que sea llevada a cabo.
+Los representantes de las organizaciones de trabajadores podrán recibir una remuneración por el desempeño de sus funciones, de conformidad con lo que al respecto acuerde la Junta, con base en la propuesta que formule la Dirección de Finanzas atendiendo a las disponibilidades presupuestales. Los representantes del Estado no recibirán remuneración adicional alguna por sus labores en la Comisión Ejecutiva de FOVISSSTE.
+
+Por cada vocal propietario se designará un suplente, que actuará en caso de faltas temporales del propietario. Los representantes del Estado deberán ser suplidos por un funcionario de rango inmediato inferior al del miembro propietario. Los representantes de los trabajadores serán suplidos por quienes designen las organizaciones de las cuales provengan, de acuerdo a las Bases expedidas por el Ejecutivo Federal.
+
+###### ARTICULO 30.
+
+La Comisión Ejecutiva del FOVISSSTE tendrá las atribuciones siguientes:
+
+I. Resolver sobre las operaciones del FOVISSSTE, excepto aquellas que por su importancia ameriten acuerdo expreso de la Junta;
+
+II. Someter a consideración de la Junta los asuntos a que se refiere el artículo 214, fracción XVI de la Ley; y,
+
+III. Las demás que le señalen la Ley, el presente Estatuto, el Reglamento Orgánico del Fondo de la Vivienda o la Junta.
+
+###### ARTICULO 31.
+
+La Comisión Ejecutiva del FOVISSSTE sesionará por lo menos una vez cada dos meses. Las sesiones serán válidas con la asistencia de por lo menos diez de sus miembros, de los cuales uno será el Presidente de la Comisión Ejecutiva, cuatro representantes del Estado y cinco de las organizaciones de trabajadores.
+
+Las decisiones se tomarán por mayoría de votos de los presentes y, en caso de empate, el Presidente tendrá voto de calidad.
+
+###### ARTICULO 32.
+
+La Comisión Ejecutiva del FOVISSSTE contará con un Secretario Técnico, que será designado por la propia Comisión, a propuesta del Vocal Ejecutivo.
+
+La integración y funciones de la Secretaría Técnica serán las que se establezcan en el Reglamento Orgánico del Fondo de la Vivienda.
 
 ### CAPITULO CUARTO. De la Comisión Ejecutiva del Fondo Nacional de Pensiones
 
-###### Artículo 33.
+###### ARTICULO 33.
 
-En el supuesto previsto en el artículo anterior se aplicarán, además, las siguientes disposiciones:
+La Comisión Ejecutiva del PENSIONISSSTE es el órgano de gobierno del Instituto encargado de operar el Fondo Nacional de Pensiones en los términos que dispone la Ley y la demás normatividad aplicable. Se integra por dieciocho miembros, que serán:
 
-I.- Se empleará el oficio, cuando la diligencia deba practicarse dentro del territorio del Estado y el exhorto, cuando deba practicarse fuera de este territorio.
+I. El Director General del Instituto, quien la presidirá;
 
-II.- El exhorto se enviará por conducto del Poder Ejecutivo, previa legalización de las firmas.
+II. El Vocal Ejecutivo del PENSIONISSSTE, el cual será nombrado por la Junta a propuesta del Director General del Instituto;
 
-III.- En casos urgentes se hará uso del telégrafo, expresándose con claridad la diligencia de que se trate, el fundamento de la providencia y el aviso de que se enviará a la brevedad posible el oficio o exhorto que corresponda.
+III. Tres vocales nombrados por la Secretaría de Hacienda y Crédito Público, dos vocales nombrados por el Banco de México y un vocal nombrado por cada una de las siguientes instituciones: la Secretaría del Trabajo y Previsión Social y la Secretaría de la Función Pública; y,
 
-IV.- Las diligencias que se encomienden por oficio a los jueces del Estado, o por exhorto, se ejecutarán en un término no mayor de seis días, a no ser que aquellas diligencias requieran mayor tiempo, caso en el cual se entenderá prorrogado dicho término hasta por quince días.
+IV. Nueve vocales nombrados por las organizaciones de trabajadores conforme a las Bases expedidas por el Ejecutivo Federal.
 
-V.- Cuando tratándose de jueces del Estado se demorare por más de quince días, o tratándose de jueces de los otros Estados se demorare exageradamente en relación con la distancia y con la índole de la diligencia, el cumplimiento de un exhorto, se dirigirá oficio recordatorio al exhortado.
+###### ARTICULO 34.
 
-VI.- Si a pesar del oficio recordatorio previsto en la anterior fracción, continuare la demora, el Juez exhortante pondrá el caso en conocimiento del Tribunal Superior de Justicia del Estado, para que apremie al moroso, si éste está bajo su jurisdicción o se dirija al respectivo Tribunal Superior de que dependa el Juez remiso que ejerce su jurisdicción fuera del territorio del Estado.
+Los integrantes de la Comisión Ejecutiva del PENSIONISSSTE no podrán ser miembros de la Junta del Instituto, con excepción del Director General. No podrá formar parte de este órgano el Secretario General de la sección sindical que corresponda al PENSIONISSSTE.
 
-VII.- Cuando los funcionarios del Ministerio Público se encuentren en la necesidad prevista en el artículo 32 anterior, solicitarán de la autoridad judicial respectiva, el envío del oficio o exhorto que corresponda.
+###### ARTICULO 35.
 
-###### Artículo 34.
+Para ocupar el cargo de vocal de la Comisión Ejecutiva del PENSIONISSSTE se requiere ser mexicano, estar en pleno goce y ejercicio de sus derechos civiles y políticos, gozar de reconocido prestigio en materia financiera, económica, jurídica o de seguridad social, y tener experiencia técnica y administrativa.
 
-Las audiencias de los procesos en materia de Defensa Social serán públicas, excepto en los casos de delitos contra la moral.
+Los vocales durarán en sus funciones por todo el tiempo que subsista su designación.
 
-###### Artículo 35.
+Los representantes de las organizaciones de trabajadores podrán recibir una remuneración por el desempeño de sus funciones, de conformidad con lo que al respecto acuerde la Junta, con base en la propuesta que formule la Dirección de Finanzas atendiendo a las disponibilidades presupuestales. Los representantes del Estado no recibirán remuneración adicional alguna por sus labores en la Comisión Ejecutiva de PENSIONISSSTE.
 
-En cuanto a la presencia de las partes en las audiencias, se aplicarán las siguientes disposiciones:
+Por cada vocal propietario se designará un suplente, que actuará en caso de faltas temporales del propietario. Los representantes del Estado deberán ser suplidos por un funcionario de rango inmediato inferior al del miembro propietario. Los representantes de los trabajadores serán suplidos por quienes designen las organizaciones de las cuales provengan, de acuerdo a las Bases expedidas por el Ejecutivo Federal.
 
-I.- Las audiencias se llevarán a cabo concurran o no las partes;
+###### ARTICULO 36.
 
-II.- El Ministerio Público no podrá dejar de asistir a las audiencias que celebren para la vista del proceso;
+La Comisión Ejecutiva del PENSIONISSSTE tendrá las atribuciones siguientes:
 
-III.- Será obligatoria, en la vista de la causa, la presencia del defensor, quien no podrá ausentarse de la diligencia sin autorización expresa del acusado;
+I. Resolver sobre las operaciones del PENSIONISSSTE, excepto aquéllas que por su importancia ameriten acuerdo expreso de la Junta;
 
-IV.- Si el defensor violare las prevenciones, que respecto a él contiene este artículo, se impondrá al infractor de plano una corrección disciplinaria de tres a treinta días de salario mínimo y se procederá a designar nuevo defensor en la forma que previene la ley;
+II. Someter a consideración de la Junta los asuntos a que se refiere el artículo 214, fracción XVII de la Ley;
 
-V.- Si el faltista fuere defensor de oficio, se comunicará la falta a su superior inmediato.
+III. Proponer a la Junta del Instituto la estrategia de inversión de los recursos de pensiones, observando lo establecido en el artículo 109 de la Ley;
 
-###### Artículo 36.
+IV. Determinar, a propuesta de los Comités de Inversión de las Sociedades de Inversión Especializadas de Fondos para el Retiro administradas por el PENSIONISSSTE, y previa opinión de los Comités de Riesgos Financieros de las mismas Sociedades de Inversión, el régimen de inversión de los recursos;
 
-La defensa del acusado en las audiencias se rige por los siguientes preceptos:
+V. Recibir los informes del Contralor Normativo y del Comisario de cada Sociedad de Inversión Especializada de Fondos para el Retiro administradas por el PENSIONISSSTE, así como los dictámenes de los auditores externos; y,
 
-I.- En las audiencias el acusado podrá defenderse por sí mismo o por medio del defensor que libremente designe;
+VI. Las demás que señale la Ley, el presente Estatuto, el Reglamento Orgánico del PENSIONISSSTE, la Junta o la normatividad aplicable al Sistema de Ahorro para el Retiro.
 
-II.- Si el acusado tuviere varios defensores, sólo se oirá a uno de ellos en la defensa, y al mismo o a otro en la réplica;
+###### ARTICULO 37.
 
-III.- El Ministerio Público podrá replicar cuantas veces lo estime necesario, teniendo derecho la Defensa de contestar en cada caso;
+La Comisión Ejecutiva del PENSIONISSSTE sesionará por lo menos una vez cada dos meses.
 
-IV.- Antes de cerrarse el debate, se preguntará al acusado si desea o no hacer uso de la palabra y en caso afirmativo será oído.
+Las sesiones de la Comisión Ejecutiva serán válidas con la asistencia de por lo menos diez de sus miembros, de los cuales uno será el Presidente de la Comisión Ejecutiva, cuatro representantes del Estado y cinco de las organizaciones de trabajadores.
 
-###### Artículo 37.
+Las decisiones se tomarán por mayoría de votos de los presentes y, en caso de empate, el Presidente tendrá voto de calidad.
 
-El funcionario que presida la audiencia aplicará de plano las correcciones disciplinarias que estime procedentes, pudiendo en su caso, ordenar la expulsión del transgresor; pero si éste fuere el Agente del Ministerio Público, se suspenderá la audiencia y se dará cuenta al Procurador General de Justicia.
+###### ARTICULO 38.
 
-###### Artículo 38.
+La Comisión Ejecutiva del PENSIONISSSTE contará con un Secretario Técnico, que será designado por la propia Comisión, a propuesta del Vocal Ejecutivo.
 
-Las resoluciones judiciales son sentencias o autos. Las primeras resuelven la cuestión controvertida y terminan las instancias en las que se dictan. Autos son las demás resoluciones.
+La integración y funciones de la Secretaría Técnica serán las que se establezcan en el Reglamento Orgánico del PENSIONISSSTE.
 
 ### CAPITULO QUINTO. De la Comisión de Vigilancia
 
-###### Artículo 39.
+###### ARTICULO 39.
 
-Las resoluciones judiciales expresarán la fecha y lugar en que fueron dictadas.
+La Comisión de Vigilancia es el órgano de gobierno del Instituto que tiene por objeto evaluar el desempeño general del organismo y el cumplimiento cabal de las responsabilidades y funciones de las Unidades Administrativas Centrales y Desconcentradas. Se integra por once miembros, con voz y voto, como a continuación se indica:
 
-###### Artículo 40.
+I. Dos representantes de la Secretaría de Hacienda y Crédito Público;
 
-Las sentencias contendrán los datos siguientes:
+II. Dos representantes de la Secretaría de la Función Pública;
 
-I.- Nombres y apellidos del acusado, sobrenombre si lo tuviere, lugar de nacimiento, edad, estado civil, domicilio y residencia y su oficio o profesión;
+III. Un representante de la Secretaría de Salud;
 
-II.- Un extracto breve de los hechos fundamentales consignados en el proceso;
+IV. Un representante del Instituto, designado por el Director General, que actuará como Secretario Técnico; y,
 
-III.- Las consideraciones y los fundamentos legales de la sentencia; y
+V. Cinco representantes designados por las organizaciones de trabajadores conforme a las Bases expedidas por el Ejecutivo Federal.
 
-IV.- La condenación o absolución correspondiente y los demás puntos resolutivos que procedan.
+Para el ejercicio de sus atribuciones, la Comisión de Vigilancia contará con el apoyo de un Prosecretario (sic) Secretaría Técnica, mismo que será nombrado y removido por el Director General.
 
-###### Artículo 41.
+###### ARTICULO 40.
 
-Las resoluciones serán dictadas por los magistrados o jueces y serán firmadas por ellos y por el secretario.
+Para ser miembro de la Comisión de Vigilancia se requiere ser mexicano, estar en pleno goce y ejercicio de sus derechos civiles y políticos, gozar de reconocido prestigio en materia financiera, económica, jurídica o de seguridad social, y tener experiencia técnica y administrativa.
 
-###### Artículo 42.
+Los integrantes de la Comisión durarán en sus funciones por todo el tiempo que subsista su designación.
 
-Las sentencias del Tribunal se regirán por las siguientes disposiciones:
+Los representantes de las organizaciones de trabajadores podrán recibir una remuneración por el desempeño de sus funciones, de conformidad con lo que al respecto acuerde la Junta, con base en la propuesta que formule la Dirección de Finanzas atendiendo a las disponibilidades presupuestales. Los representantes del Estado no recibirán remuneración adicional alguna por sus labores en la Comisión de Vigilancia.
 
-I.- Será necesaria la presencia de todos los miembros de la Sala, para que ésta pueda dictar sentencia.
+Por cada miembro de la Comisión de Vigilancia se nombrará un suplente, que actuará en caso de faltas temporales del titular, debiendo de tratarse de un funcionario con el rango inmediato inferior al del miembro propietario, en el caso de los representantes del Estado, y de quienes las organizaciones de trabajadores nombren con ese carácter, en lo que corresponde a su representación.
 
-II.- Para la validez de las resoluciones de la Sala se requiere el voto de la mayoría de sus miembros.
+En el caso de las ausencias temporales del Secretario Técnico, el Prosecretario de la Comisión de Vigilancia actuará como su suplente.
 
-III.- El magistrado que no estuviere conforme con la mayoría, extenderá y firmará su voto particular, que se agregará al expediente.
+###### ARTICULO 41.
 
-###### Artículo 43.
+La Junta cada doce meses designará en forma rotativa de entre los miembros representantes del Estado en la Comisión de Vigilancia a quien deba presidirla. En caso de inasistencia del Presidente y su suplente, el Secretario Técnico presidirá la sesión de trabajo.
 
-Los jueces y salas no podrán:
+###### ARTICULO 42.
 
-I.- Aplazar, demorar o negar con ningún pretexto, la resolución de las cuestiones que legalmente sean sometidas a su conocimiento.
+La Comisión de Vigilancia tendrá las siguientes atribuciones:
 
-II.- Modificar sus sentencias después de firmadas.
+I. Vigilar el cumplimiento de las disposiciones legales y reglamentarias aplicables al Instituto;
 
-###### Artículo 44.
+II. Verificar que las inversiones y los recursos del Instituto se destinen a los fines previstos en los presupuestos y programas aprobados;
 
-Las notificaciones y citaciones se harán, cuando más tarde, el día inmediato siguiente a aquél en que se dicten las providencias respectivas. Al infractor de este precepto se le impondrá de plano una multa de uno a tres días de salario mínimo.
+III. Disponer la práctica de auditorías en todos los casos en que lo estime necesario, pudiendo auxiliarse con las áreas afines del propio Instituto;
 
-###### Artículo 45.
+IV. Proponer a la Junta o al Director General, según sus respectivas atribuciones, las medidas que juzgue apropiadas para alcanzar mayor eficacia en la administración de los seguros, prestaciones y servicios;
 
-Cuando las personas que por algún motivo legal intervengan en un proceso, hubiesen omitido el señalamiento de su domicilio o cambiado éste sin participarlo al Juez o Sala, las notificaciones, citaciones, emplazamientos o requerimientos que les corresponda, surtirán sus efectos por publicación en lugar visible de la oficina.
+V. Examinar los estados financieros y la valuación financiera y actuarial del Instituto, verificando la suficiencia de las Cuotas y Aportaciones y el cumplimiento de los programas anuales de constitución de Reservas;
 
-###### Artículo 46.
+VI. Analizar la información relativa al entero de Cuotas y Aportaciones establecidas en la Ley;
 
-Son aplicables a las notificaciones, además, las siguientes disposiciones:
+VII. Designar a los auditores externos que auxilien a la Comisión en las actividades que así lo requieran;
 
-I.- Las resoluciones contra las cuales proceda el recurso de apelación, se notificarán personalmente a las partes.
+VIII. Conformar, a través de la Secretaría Técnica, los grupos de trabajo que estime necesarios para el cumplimiento de lo señalado en el artículo 224 de la Ley;
 
-II.- Las resoluciones contra las que no proceda el recurso de apelación, con excepción de los autos que ordenen aprehensiones, cateos, providencias precautorias, aseguramiento y otras diligencias análogas respecto de las cuales el Juez o Sala estime que deba guardarse sigilo para el éxito de la averiguación, se notificarán al detenido o al procesado personalmente, y a los demás interesados si acudieren a la oficina, al día siguiente de dictadas.
+IX. Elaborar su programa anual de visitas y comparecencias de los Titulares de las Unidades Administrativas Centrales y Desconcentradas del Instituto, sometiéndolo a aprobación de la Junta;
 
-III.- Las resoluciones que deban guardarse en sigilo se notificarán únicamente al Ministerio Público.
+X. Realizar visitas de supervisión a las Unidades Administrativas Desconcentradas del Instituto, con el objeto de verificar que se cumpla con las metas programadas, con parámetros de calidad, eficiencia y eficacia, emitiendo las recomendaciones que permitan la corrección de las deficiencias determinadas;
 
-> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
+XI. Citar a los Titulares de las Unidades Administrativas Centrales y Desconcentradas para que rindan informe de su gestión por lo menos una vez al año, conforme al Programa de Trabajo;
 
-IV.- Se harán por el diligenciario, y en los Juzgados en los que no hubiese diligenciario, por el empleado que corresponda conforme a la ley o por testigos de asistencia en su caso.
+XII. Participar en los órganos colegiados y grupos de trabajo en los que sea convocada; y,
 
-V.- En las notificaciones se hará constar el día y hora en que se verifiquen y, si fueren personales, se leerá la resolución y se dará copia de ella al interesado, si lo pidiere.
+XIII. Las demás que señalen la Ley, el presente Estatuto, otras disposiciones aplicables o aquellas que expresamente le asigne la Junta del Instituto.
 
-VI.- Las notificaciones serán firmadas por las personas que las hacen y por aquéllas a quienes se hacen.
+###### ARTICULO 43.
 
-VII.- Si la persona a quien se hace la notificación no quisiere o no pudiere firmar ni imprimir su huella digital, se hará constar así.
+Corresponde al Presidente de la Comisión de Vigilancia:
 
-VIII.- Toda notificación que se haga fuera del Juzgado o Sala, no encontrándose en su domicilio a la persona que deba ser notificada, se practicará, sin necesidad de nuevo mandamiento judicial, por medio de cédula que podrá ser entregada dentro de dos días, a los parientes, familiares o domésticos del interesado, o a cualquier otra persona que viva en la casa.
+I. Representar a la Comisión ante la Junta y el Director General;
 
-IX.- Si la casa estuviere cerrada o no se encontrare a ninguna de las personas señaladas en la fracción anterior, se fijará la cédula en la puerta, poniéndose de todo debida constancia en los autos.
+II. Rendir a la Junta el Informe Anual de la Comisión;
 
-X.- En la cédula de que tratan las dos fracciones anteriores, se hará constar el nombre y apellido del interesado, el Juez o Sala que manda practicar la diligencia, la resolución notificada, la fecha, hora y lugar en que se dejó la cédula y el nombre y apellido de la persona a quien se entregue.
+III. Verificar que se cumpla el programa anual de comparecencias y visitas aprobado por la Junta;
 
-XI.- Si se ignora el lugar donde reside la persona que debe ser notificada, y la Policía Judicial o Preventiva no pudiere localizarla, la notificación se hará por edictos publicados tres veces en el periódico de más circulación, a juicio del Juez o Sala, a menos que dicha persona se hubiere ausentado después de haber indicado su domicilio, pues entonces se hará fijando cédula en la puerta de la oficina.
+IV. Presidir las sesiones y firmar las actas correspondientes;
 
-XII.- Si a pesar de no haberse hecho la notificación en la forma que este Código establece, la persona que debiere ser notificada se mostrare en las diligencias, sabedora de la providencia, la notificación surtirá sus efectos.
+V. Convocar a los miembros de la Comisión a las sesiones ordinarias y extraordinarias;
 
-XIII.- Lo dispuesto en la fracción anterior no exime a quien deba hacer la notificación, de las responsabilidades en que hubiere incurrido.
+VI. Informar en cada sesión del cumplimiento de los acuerdos emitidos;
 
-XIV.- Salvo lo dispuesto en la fracción XI, las notificaciones hechas contra lo dispuesto en esta sección, serán nulas, siendo responsable de los daños y perjuicios que por la nulidad se causen, la persona que hizo la notificación, a quien se impondrá además, una multa de uno a cinco días de salario mínimo.
+VII. Resolver con su voto de calidad en los casos de empate; y,
 
-###### Artículo 47.
+VIII. Las demás que señalen otras disposiciones aplicables.
 
-Las citaciones se rigen por lo dispuesto en los siguientes preceptos:
+###### ARTICULO 44.
 
-I.- Las citaciones de testigos, peritos y demás que no estén directamente interesados en el proceso, se harán por medio de órdenes o cédulas firmadas por el Juez, que llevarán los agentes de la policía judicial o municipal, o comisarios del Juzgado o Sala en donde los hubiere, poniendo el secretario en autos la constancia respectiva.
+Corresponde al Secretario Técnico de la Comisión de Vigilancia:
 
-II.- Con excepción de los funcionarios, tanto de la Federación como del Estado, toda persona está obligada a presentarse ante los tribunales y oficinas de Policía Judicial, cuando sea citada, a menos que no pueda hacerlo por imposibilidad material.
+I. Asistir a las sesiones y visitas de supervisión;
 
-III.- Las citaciones podrán hacerse personalmente en la oficina respectiva, o en el acto de la notificación, o por cédula o por telégrafo, anotándose en cualquiera de estos casos la constancia respectiva en el expediente.
+II. Presidir las sesiones y visitas en caso de ausencia del Presidente y su suplente;
 
-IV.- El telegrama en el que se haga la citación, contendrá las mismas indicaciones exigidas para las cédulas y se enviará por duplicado a la oficina que haya de transmitirlo, la cual devolverá, con su constancia de recibo, uno de los ejemplares que se agregará al expediente.
+III. Levantar las actas de las sesiones y, en su oportunidad, integrarlas al registro autorizado;
 
-V.- También podrá citarse por teléfono a la persona que haya manifestado expresamente que se le cite por ese medio y dado el número del aparato al cual deba hablársele, sin perjuicio de que si no es hallada en ese lugar o no se considere conveniente hacerlo de esa manera, se le cite por alguno de los otros medios señalados en este Capítulo.
+IV. Hacer llegar a los miembros, con la oportuna anticipación, la convocatoria, el orden del día y la carpeta documental de apoyo a las actividades y sesiones de la Comisión;
 
-###### Artículo 48.
+V. Comunicar a quien corresponda, para su seguimiento y ejecución, los acuerdos tomados en las sesiones;
 
-Los términos judiciales establecidos en este Código son improrrogables y se contarán desde el día siguiente al en que se hubiere hecho la notificación respectiva, sin incluirse los días inhábiles, a no ser que se trate de poner al acusado a disposición de los tribunales, de tomarle su declaración preparatoria o de resolver, sobre su situación jurídica.
+VI. Conformar y apoyar el funcionamiento de los grupos de trabajo que la Comisión de Vigilancia estime necesarios;
 
-###### Artículo 49.
+VII. Firmar las actas de las sesiones;
 
-Los términos que señala este Código para los casos que prevé el artículo anterior, se contarán de momento a momento y no podrán interrumpirse por ningún motivo.
+VIII. Formular las recomendaciones y propuestas de los asuntos a tratar en el orden del día;
 
-###### Artículo 50.
+IX. Emitir su voto en los asuntos que se propongan en las sesiones;
 
-El procedimiento en materia de defensa social comprende cuatro períodos:
+X. Cumplir con las obligaciones y responsabilidades que resulten de los acuerdos tomados en las sesiones; y,
 
-I.- El de averiguación previa que, a su vez se divide en dos fases:
+XI. Las demás que le encomienden la propia Comisión y el Director General.
 
-a).- Diligencias preparatorias de la acción persecutoria del delito, que son aquéllas legalmente necesarias para que el Ministerio Público pueda resolver si ejercita o no la acción de defensa social; y,
+###### ARTICULO 45.
 
-b).- Diligencias que practica la autoridad judicial para determinar, si radica o no el proceso, si dicta o no la orden de aprehensión y si decreta dentro del término constitucional, la formal prisión o la libertad por falta de méritos o la declaración de sujeción a proceso del acusado;
+La Comisión de Vigilancia sesionará cuantas veces sea convocada por su Presidente o a petición de dos de sus miembros. El orden del día deberá contener invariablemente un reporte sobre el cumplimiento de los acuerdos adoptados.
 
-II.- El de instrucción, que comprende todas las diligencias practicadas por los tribunales con el fin de averiguar la existencia legal de los delitos, las circunstancias en que hubiesen sido cometidos y la responsabilidad o irresponsabilidad de los acusados;
+Para que sus acuerdos sean válidos, será necesario que estén presentes cuando menos tres representantes del Estado, uno de los cuales será el Presidente, y tres de las organizaciones de trabajadores.
 
-III.- El de juicio, durante el cual el Ministerio Público precisa su acusación y el acusado su defensa, a fin de que el Juez estime el valor de las pruebas y pronuncie sentencia definitiva; y
+###### ARTICULO 46.
 
-IV.- El de ejecución, que abarca desde el momento en que causa ejecutoria la sentencia dictada, hasta la extinción completa de las sanciones impuestas.
+Son obligaciones de los miembros de la Comisión de Vigilancia:
+
+I. Asistir a las sesiones en el lugar, fecha y hora señalados en la convocatoria;
+
+II. Formular las recomendaciones y propuestas de los asuntos a tratar en el orden del día;
+
+III. Emitir su voto en los asuntos que se propongan en las sesiones;
+
+IV. Cumplir con las obligaciones y responsabilidades que resulten de los acuerdos tomados en las sesiones;
+
+V. Comunicar al Presidente, por conducto del Secretario Técnico, con la oportuna anticipación, la imposibilidad para asistir a las sesiones; y,
+
+VI. Las demás que les fijen las leyes o los reglamentos y aquellas que expresamente les asigne la Comisión.
+
+###### ARTICULO 47.
+
+Para el desempeño de sus funciones, la Comisión de Vigilancia podrá procurarse la información que requiera de las Unidades Administrativas Centrales y Desconcentradas del Instituto, debiendo éstas proporcionar la documentación e informes correspondientes. Asimismo, contará con el apoyo de los Organos Internos de Control en el Instituto.
+
+###### ARTICULO 48.
+
+La Comisión de Vigilancia presentará un informe anual a la Junta sobre el ejercicio de sus atribuciones. Los integrantes de la Comisión podrán solicitar concurrir a las sesiones de la Junta para tratar asuntos urgentes relacionados con las atribuciones de la propia Comisión.
+
+###### ARTICULO 49.
+
+La Comisión de Vigilancia deberá tener a su disposición con la debida oportunidad, para su estudio y análisis, los estados financieros, sus anexos y los programas anuales de constitución de Reservas del Instituto, así como los informes trimestrales del ejercicio del presupuesto para su presentación ante la Secretaría de Hacienda y Crédito Público por la Junta.
+
+###### ARTICULO 50.
+
+Cuando la Comisión de Vigilancia encuentre alguna irregularidad en relación con las inversiones, estados financieros, estados de ingresos y egresos, operaciones o servicios, de inmediato lo hará del conocimiento de la Junta y del Director General.
 
 ## TITULO TERCERO. De las Unidades Administrativas Centrales y Desconcentradas
 
 ### CAPITULO PRIMERO. Disposiciones Generales
 
-###### Artículo 51.
+###### ARTICULO 51.
 
-El Ministerio Público durante la averiguación previa, deberá:
+Son funciones de los Titulares de las Unidades Administrativas Centrales y Desconcentradas del Instituto las siguientes:
 
-I.- Recibir las denuncias o querellas de los particulares o de las autoridades sobre hechos que puedan constituir delitos;
+I. Cumplir y hacer cumplir las normas y políticas generales del Instituto;
 
-II.- Buscar las pruebas de la existencia de los delitos y de la responsabilidad de los presuntos delincuentes; y,
+II. Planear, organizar, dirigir, controlar y evaluar las funciones encomendadas al área a su cargo, de acuerdo con los criterios, lineamientos y mecanismos generales que para tal efecto deban observar;
 
-III.- Ejercitar ante los órganos jurisdiccionales la acción persecutoria o de defensa social.
+III. Formular el anteproyecto de programa que corresponda al área de su responsabilidad y cumplirlo, una vez aprobado;
 
-###### Artículo 52.
+IV. Proponer al Director General los proyectos de reglamentos, normas, informes y demás asuntos relacionados con el ámbito de su competencia que deban someterse a consideración y aprobación de la Junta;
 
-Durante la averiguación previa la autoridad judicial practicará las diligencias que la ley señala para comprobar el cuerpo del delito y la presunta responsabilidad de los acusados, así como las que solicitaren las partes y fueren conducentes, para determinar si debe dictarse auto de formal prisión, de libertad por falta de méritos, o de sujeción a proceso.
+V. Someter a la consideración y aprobación del Director General, previa validación de la Dirección Jurídica y de la Dirección de Tecnología y Desarrollo Institucional, los proyectos de manuales de organización y procedimientos que sean necesarios para la operación del área a su cargo;
 
-###### Artículo 53.
+VI. Realizar estudios y formular proyectos de modernización administrativa, proponiendo al Director General políticas y lineamientos que impulsen la mejora de los seguros, prestaciones y servicios que administra el Instituto;
 
-Los períodos de instrucción y de juicio constituyen el proceso de defensa social dentro del cual corresponde exclusivamente a los Tribunales, resolver si un hecho es o no delito; determinar la responsabilidad o irresponsabilidad de las personas acusadas ante ellos e imponer las sanciones que procedan con arreglo a la ley.
+VII. Acordar con el Director General los asuntos cuya importancia así lo requiera y atender aquellos que correspondan al área que tengan asignada;
 
-###### Artículo 54.
+VIII. Desempeñar las comisiones que les encomiende el Director General;
 
-Dentro de los períodos de instrucción y de juicio, el Ministerio Público ejercerá las funciones que le encomienda la fracción III del artículo 51.
+IX. Proporcionar los informes y datos que les sean solicitados por los Organos de Gobierno, por otras Unidades Administrativas, la institución y por los Organos de Control Interno del Instituto;
+
+X. Coordinar sus actividades con las demás áreas del Instituto y, en su caso, con las dependencias y entidades de la Administración Pública Federal;
+
+XI. Normar, asesorar y supervisar las actividades de las Delegaciones, Subdelegaciones y unidades, en el ámbito de su competencia;
+
+XII. Administrar con eficiencia y transparencia, a través de la coordinación o unidad administrativa interna, los recursos humanos, materiales y financieros asignados al área de su responsabilidad, de conformidad con los presupuestos, programas y políticas institucionales respectivos;
+
+XIII. Cumplir con las disposiciones aplicables sobre capacitación y adiestramiento de los trabajadores del Instituto;
+
+XIV. Suscribir en representación del Instituto, de acuerdo a las facultades otorgadas por el poder notarial correspondiente, los actos jurídicos, convenios, contratos y documentos que sean necesarios con el sector público, privado y social para el cumplimiento de sus funciones;
+
+XV. Certificar los documentos y expedir las constancias que se requieran en las materias del ámbito de su competencia;
+
+XVI. Notificar a la Dirección Jurídica del Instituto, o a la unidad jurídica interna que corresponda, así como al Organo Interno de Control respectivo, las irregularidades cometidas por servidores públicos en detrimento del patrimonio institucional, debiendo iniciar, en el caso de quienes hayan cometido irregularidades, incluyendo a particulares, el proceso judicial por la vía procedente, a través de las áreas jurídicas del propio Instituto; y,
+
+XVII. Las demás que señalen otras disposiciones aplicables y las que les asignen la Junta o el Director General.
+
+###### ARTICULO 52.
+
+Los Titulares de las Unidades Administrativas Centrales y Desconcentradas del Instituto se auxiliarán por los Subdirectores de Area, Jefes de Servicios, Jefes de Departamento y Jefes de Oficina, así como por los Subdelegados, Jefes de Unidad y demás personal que autorice el presupuesto.
+
+Podrán delegar sus atribuciones en los Subdirectores del área a su cargo o, en el caso de las Delegaciones Estatales y Regionales, en los Subdelegados.
+
+###### ARTICULO 53.
+
+Las Unidades Administrativas Desconcentradas del Instituto contarán con la autonomía técnica y operativa que les concede este Estatuto. La estructura interna y las funciones específicas con que contarán cada una de estas Unidades para el cumplimiento de sus atribuciones se establecerán en su respectivo Reglamento Orgánico, en el que, de ser el caso, podrá determinarse la conformación y operación de representaciones regionales o en las Entidades Federativas que estarán adscritas a ellas.
+
+###### ARTICULO 54.
+
+Los Titulares de las Unidades Administrativas Centrales y Desconcentradas serán suplidos en sus faltas temporales por el servidor público del Instituto que designe el Director General.
 
 ### CAPITULO SEGUNDO. De las Unidades Administrativas Centrales
 
-#### SECCION QUINTA.- PRESUNCIONES
+#### SECCION PRIMERA. De la Secretaría General
 
-###### Artículo 173.
+###### ARTICULO 55.
 
-Presunción es la consecuencia que la ley o el Juez infieren de un hecho conocido para averiguar la verdad de otro desconocido. La primera se llama legal y la segunda humana.
+Son funciones de la Secretaría General las siguientes:
 
-###### Artículo 174.
+I. Planear y coordinar las acciones necesarias para apoyar las funciones de la Junta Directiva, así como la adecuada integración de los demás Organos de Gobierno del Instituto;
 
-Hay presunción legal:
+II. Atender los asuntos relativos a las sesiones y acuerdos de la Junta Directiva, así como las funciones correspondientes a la Secretaría de este órgano, levantando y certificando las actas de sus sesiones;
 
-I.- Cuando la ley la establece expresamente; y,
+III. Hacer del conocimiento de la Dirección General, de los otros Organos de Gobierno y de las Unidades Administrativas Centrales y Desconcentradas del Instituto los acuerdos de la Junta Directiva, encargándose de su difusión y de la vigilancia de su cumplimiento, así como de su adecuada archivación cronológica;
 
-II.- Cuando la consecuencia nace inmediata y directamente de la ley.
+IV. Tramitar las propuestas de los representantes del Estado y de las organizaciones de trabajadores en la Junta, previo acuerdo con el Director General;
 
-###### Artículo 175.
+V. Coordinar, orientar y apoyar la formulación e implementación de los planes y programas del Instituto y de sus Unidades Administrativas, de conformidad con las políticas nacionales y sectoriales aplicables, así como proponer los ajustes que resulten necesarios, preparando y presentando al Director General el programa institucional y los programas operativos anuales que deben someterse a la Junta;
 
-Hay presunción humana cuando de un hecho debidamente probado se infiere otro, que es consecuencia ordinaria y lógica de aquél.
+VI. Diseñar, integrar y coordinar el sistema interno de evaluación del desempeño institucional para el mejoramiento de los seguros, prestaciones y servicios, coadyuvando en el desarrollo de lineamientos relacionados con los procesos estadísticos y con los indicadores de control de las tareas del Instituto y de sus Unidades Administrativas, preparando y presentando al Director General el informe sobre el estado que guarde la administración del Instituto que debe someterse a la Junta;
 
-###### Artículo 176.
+VII. Coordinar a los cuerpos colegiados institucionales vinculados con la planeación, programación, estadística y evaluación programática, así como intervenir en los cuerpos colegiados y en los mecanismos de participación sectoriales relacionados con estas materias;
 
-El que tiene a su favor una presunción legal, sólo está obligado a probar el hecho en que se funda la presunción.
+VIII. Coordinar al Comité de Evaluación y Seguimiento de los Servicios de Salud establecido en la Ley, velando por el cumplimiento de las funciones que le señala el presente Estatuto;
 
-###### Artículo 177.
+IX. Administrar y supervisar el proceso de incorporación al régimen del ISSSTE de las dependencias y entidades previstas en la Ley, así como de afiliación de sus trabajadores, proponiendo al Director General las acciones que corresponda realizar para asegurar el cumplimiento de las obligaciones de las instituciones afiliadas;
 
-Es admisible prueba contra las presunciones, sean legales o humanas.
+X. Determinar, administrar y coordinar el proceso de vigencia de derechos de los trabajadores en activo, jubilados, pensionados y familiares derechohabientes incorporados al régimen de la Ley;
 
-###### Artículo 178.
+> <small>(ADICIONADA, D.O.F. 14 DE MARZO DE 2011)</small>
 
-Producen solamente presunción:
+XI. Determinar, administrar y coordinar la continuación voluntaria en todos o en alguno de los seguros del régimen obligatorio a los que se refieren los artículos 200, 201 y 202 de la Ley, para los trabajadores que hayan dejado de prestar sus servicios y que lo soliciten;
 
-I.- Los testigos que no convengan en lo esencial; los de oídas, y la declaración de un solo testigo;
+XII. Administrar la base de datos institucional de derechohabientes del Instituto, normando y vigilando la integración del expediente electrónico único previsto en la Ley con que deberá contar cada uno de ellos, sustentado en la información contenida en la totalidad de las bases de datos institucionales y en los registros y procesos que sean de utilidad para su conformación y mejoramiento;
 
-II.- Las declaraciones de testigos singulares que versen sobre actos sucesivos referentes a un mismo hecho, y
+> <small>(ADICIONADA, D.O.F. 14 DE MARZO DE 2011)</small>
 
-III.- La fama pública.
+XIII. Determinar el monto de los Bonos de Pensión que corresponden a los trabajadores que a la fecha de entrada en vigor de la Ley se encontraban separados del servicio y que con posterioridad reingresaran al mismo, de conformidad con lo que establece el artículo Décimo Sexto Transitorio de la Ley;
 
-###### Artículo 55.
+> <small>(ADICIONADA, D.O.F. 14 DE MARZO DE 2011)</small>
 
-En el período de ejecución, el Poder Ejecutivo del Estado, por conducto del órgano que la Ley determine, ejecutará las sentencias de los tribunales, proveyendo lo necesario para su debido cumplimiento de acuerdo con lo dispuesto en la Ley de Ejecución de Sanciones Privativas de la Libertad.
+XIV. Establecer los mecanismos para la revisión y corrección en su caso, de los Bonos de Pensión de los trabajadores de reingreso, de conformidad con las Reglas para el Ajuste de los Bonos de Pensión emitidas por la Secretaría de Hacienda y Crédito Público;
 
-#### SECCION SEXTA.- CATEOS Y VISITAS DOMICILIARIAS
+> <small>(ADICIONADA, D.O.F. 14 DE MARZO DE 2011)</small>
 
-###### Artículo 179.
+XV. Administrar el uso y destino de los Documentos de Elección a que se refiere el artículo 43 del Reglamento para el Ejercicio del Derecho de Opción que tienen los Trabajadores de conformidad con los artículos Quinto y Séptimo Transitorios del Decreto por el que se expide la Ley;
 
-El cateo sólo podrá practicarse en virtud de orden escrita, expedida por la autoridad judicial, en la que se exprese el lugar que ha de inspeccionarse, las personas que hayan de aprehenderse o los objetos que se busquen y levantándose del cateo acta circunstanciada, en presencia de dos testigos propuestos por el ocupante del lugar cateado o, en su ausencia, por la autoridad que practique la diligencia.
+XVI. Definir, operar y controlar los medios de identificación para la acreditación de los derechohabientes y para permitir y facilitar su acceso a los seguros, prestaciones y servicios que les correspondan, emitiendo y vigilando los lineamientos para su expedición y administración;
 
-###### Artículo 180.
+XVII. Emitir recomendaciones en materia de afiliación y vigencia de derechos relacionados con los convenios de portabilidad con otros institutos de seguridad social o con entidades que operen otros sistemas de seguridad social compatibles con lo previsto en la Ley, así como proponer e instrumentar las reglas de carácter general para la transferencia de derechos entre el propio Instituto, el Instituto Mexicano del Seguro Social y otros sistemas de seguridad social;
 
-Cuando el Ministerio Público actúe como investigador de delitos, podrá pedir a la autoridad judicial que practique cateos, proporcionando a ésta los datos que justifiquen su petición.
+XVIII. Establecer políticas, normas y lineamientos para el acceso y transferencia de información de las dependencias y entidades afiliadas, o de otros organismos, con la base de datos institucional de derechohabientes, así como para la coordinación que a este respecto corresponda, de acuerdo a la Ley, con la Comisión Nacional del Sistema de Ahorro para el Retiro y con las Empresas Operadoras de la Base de Datos Nacional SAR;
 
-###### Artículo 181.
+XIX Concertar y coordinar con las diversas Unidades Administrativas Centrales y Desconcentradas del Instituto, así como con la representación sindical, el diseño, aplicación, seguimiento y evaluación de programas, proyectos, modelos, incentivos y acciones que redunden en la mejora continua de los servicios que otorga el Instituto y en la calidad de la atención que brinda a su derechohabiencia;
 
-Para la práctica de un cateo, se observarán las reglas siguientes:
+XX. Establecer y operar metodologías de análisis, técnicas, procesos y herramientas para la medición de impacto, el seguimiento y la evaluación cuantitativa y cualitativa de los programas institucionales, desde la expectativa del usuario del servicio que corresponda;
 
-I.- La diligencia de cateo deberá limitarse al fin o fines expresados en la orden respectiva.
+XXI. Diseñar, desarrollar y coordinar el sistema de comunicación directa y de información y orientación telefónica a la derechohabiencia y la ciudadanía respecto de los seguros, prestaciones y servicios que ofrece el Instituto;
 
-II.- Si se trata de un delito flagrante, el Juez o funcionario que corresponda, procederá a la visita o reconocimiento, sin demora, como lo establece el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
+XXII. Planear y coordinar el sistema de quejas, reconocimientos y sugerencias para los derechohabientes del Instituto, dando seguimiento, en coordinación con las Unidades Administrativas Centrales y Desconcentradas competentes, a las acciones que se generen en estas materias con motivo del otorgamiento de los seguros, prestaciones y servicios;
 
-III.- Si no hubiere peligro de hacer ilusoria o difícil la averiguación, se citará al acusado para presenciar el acto.
+XXIII. Recibir, procesar, encauzar y dar seguimiento, hasta su solución, a las recomendaciones y conciliaciones que emita la Comisión Nacional de los Derechos Humanos respecto al otorgamiento de seguros, prestaciones y servicios del Instituto;
 
-IV.- Si el acusado estuviere libre y no se le encontrare, o si estando detenido estuviere impedido de asistir, será representado por dos testigos a quienes se llamará en el acto de la diligencia para que la presencien.
+XXIV. Fungir como enlace ante la Comisión Nacional de Arbitraje Médico para la atención y seguimiento de los asuntos relacionados con el Instituto;
 
-V.- En todo caso, el jefe de la casa o finca que deba ser cateada, aunque no sea presunto responsable del hecho que motiva la diligencia, será llamado también para presenciar el acto en el momento en que tenga lugar, o antes, si procediendo así, no se pusiere en peligro el éxito de la diligencia.
+XXV. Presidir los Comités de Quejas Médicas y Técnico para la Dictaminación de Solicitudes de Reembolso de Gastos Médicos, así como promover la adecuada atención y resolución de sus asuntos, conforme a los dictámenes administrativo, médico y jurídico que al efecto elaboren las Unidades Administrativas Centrales y Desconcentradas competentes del Instituto, sin perjuicio de la delegación de facultades que corresponda;
 
-###### Artículo 182.
+XXVI. Establecer y coordinar las funciones de enlace institucional para el acceso a la información pública gubernamental, datos personales y la corrección de los mismos, tanto con las Unidades Administrativas Centrales y Desconcentradas responsables, como con el Comité de Información y el Instituto Federal de Acceso a la Información Pública, promoviendo y difundiendo una cultura de transparencia institucional;
 
-Son aplicables a las visitas domiciliarias las siguientes disposiciones:
+XXVII. Supervisar el seguimiento a las respuestas que deban proporcionar las Unidades Administrativas Centrales y Desconcentradas del Instituto a las peticiones que los derechohabientes y la ciudadanía formulen a la Presidencia de la República;
 
-I.- Las visitas domiciliarias sólo podrán practicarse durante el día, desde las seis hasta las dieciocho horas, salvo que la diligencia sea urgente y se declare así en la orden respectiva.
+XXVIII. Planear, coordinar y evaluar proyectos y acciones de carácter afirmativo para grupos y segmentos de derechohabientes que se encuentren en situación de riesgo y/o vulnerabilidad, promoviendo para ellos atención preferencial y la organización de redes sociales de apoyo para su atención;
 
-II.- Las visitas domiciliarias se limitarán a la comprobación del hecho que las motive y de ningún modo se extenderán a indagar delitos en general.
+XXIX. Coordinar y evaluar las acciones dirigidas a promover la transversalidad de la perspectiva de género, la equidad y la igualdad en las Unidades Administrativas Centrales y Desconcentradas y en los servicios que proporciona el Instituto;
 
-III.- Si de una visita domiciliaria o de un cateo resultare casualmente el descubrimiento de un delito que no haya sido objeto directo del reconocimiento, se procederá a levantar el acta respectiva para hacer la consignación correspondiente, siempre que el delito no fuere de aquéllos en que para proceder se exija querella necesaria.
+XXX. Apoyar a la Dirección General en la promoción y conducción de las relaciones institucionales en el ámbito nacional e internacional; y,
 
-IV.- Si la inspección tuviere que efectuarse dentro de algún edificio público, se avisará al encargado de éste, por lo menos con una hora de anticipación a la visita, salvo caso de urgencia.
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2011)</small>
 
-> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
+XXXI. La (sic) demás que le confieran el presente Estatuto y la normatividad aplicable, así como las que le asigne el Director General.
 
-###### Artículo 183.
+#### SECCION SEGUNDA. De la Dirección Médica
 
-En el caso de que el representante de una casa o establecimiento, solicite la inspección de un funcionario de la Policía Judicial, o de una Autoridad Judicial, por estarse cometiendo en la misma casa un delito, o por existir allí la prueba de que aquél se cometió, o cuando se trate de un delito in fraganti, se aplicarán las siguientes disposiciones:
+###### ARTICULO 56.
 
-I.- No será necesario el auto motivado que ordene la inspección;
+La Dirección Médica tendrá las funciones siguientes:
 
-II.- Se harán constar en una acta los motivos que ocasionaron la inspección y los resultados de la misma, y
+I. Planear, coordinar, normar y evaluar, con base en las políticas nacionales y sectoriales aplicables, el sistema institucional para el otorgamiento de los servicios médicos relacionados con el seguro de salud previsto en la Ley;
 
-III.- El acta a que se refiere la fracción anterior será firmada por el denunciante y, si no lo hiciere, se expresará el motivo.
+II. Difundir los programas que determine el Ejecutivo Federal en materia de salud y la normatividad relativa, asesorando y vigilando a las unidades médicas del Instituto en su aplicación y ejecución;
 
-###### Artículo 56.
+III. Establecer y desarrollar las políticas y programas institucionales en el ámbito de la salud, dando prioridad a las acciones relacionadas con la medicina preventiva, y determinar los modelos de atención, sistemas de coordinación y procedimientos de operación a que se sujetarán todas las unidades médicas del Instituto, de manera particular las dependientes de las Delegaciones Estatales y Regionales;
 
-La averiguación de hechos delictuosos puede incoarse de oficio o por querella necesaria.
+IV. Proponer al Director General, para su presentación ante la Junta, el Reglamento Orgánico del Centro Médico Nacional “20 de Noviembre” y los Hospitales Regionales del Instituto, así como sus reformas y adiciones;
 
-#### SECCION SEPTIMA.- CONFRONTACION
+V. Coordinar, regular y vigilar, en los términos que lo disponga este Estatuto, la operación de los servicios de salud del Centro Médico Nacional “20 de Noviembre” y de los Hospitales Regionales del Instituto;
 
-###### Artículo 184.
+VI. Coordinar la integración, implementación y evaluación del Plan Rector para el Desarrollo y Mejoramiento de la Infraestructura y los Servicios de Salud previsto en la Ley, que considerará, además de lo referente a la inversión en obra, equipamiento e insumos médicos, la regionalización y escalonamiento de las unidades médicas, así como la redistribución de la cobertura poblacional para eficientar sus servicios y mejorar su funcionamiento;
 
-Toda persona que tuviere que referirse a otra en su declaración o en cualquier otro acto judicial, lo hará de modo claro y distinto, mencionando, si le fuere posible, el nombre, apellido, habitación y demás circunstancias que puedan servir para identificarla.
+VII. Elaborar los programas operativo anual y de avance físico-financiero del presupuesto central del seguro de salud establecido en la Ley, promoviendo las acciones de mejoramiento, modernización y simplificación administrativa que correspondan;
 
-###### Artículo 185.
+VIII. Determinar las necesidades de obra y equipamiento de las unidades médicas del Instituto, así como validar su ejecución y adquisición;
 
-La confrontación se practicará:
+IX. Determinar las necesidades de mantenimiento y conservación del equipo médico y electromecánico de las unidades médicas del Instituto, de acuerdo con las políticas y estrategias establecidas por la normatividad para la protección del medio ambiente y equilibrio ecológico;
 
-I.- Cuando quien declare no pueda dar noticia exacta de la persona a quien se refiera, pero exprese poder reconocerla si se la presentan.
+X. Coadyuvar en la integración y actualización del registro general de los bienes que constituyen el inventario del equipo médico propiedad del Instituto;
 
-II.- Cuando el declarante asegure conocer a una persona y haya motivos para sospechar que no la conoce.
+XI. Determinar y gestionar las necesidades de insumos médicos y servicios para la salud que requieran las unidades médicas del Instituto;
 
-###### Artículo 186.
+XII. Coadyuvar en el establecimiento e implementación de las políticas para la administración, asignación y desarrollo del personal de los servicios de salud del Instituto, definiendo en particular el perfil profesional y las normas técnicas que deberán aplicarse en los procesos de selección del personal directivo de las unidades y subdelegaciones médicas, cuya observancia deberá supervisar, en coordinación con las Unidades Administrativas competentes;
 
-En la confrontación se observarán los requisitos siguientes:
+XIII. Determinar, organizar, operar y promover, en coordinación con la Dirección de Finanzas, los programas de capacitación que, en materia de gestión administrativa, gerencial, económica y financiera, requiera el personal directivo de las unidades médicas del Instituto;
 
-I.- Que la persona que sea objeto de la confrontación no se disfrace ni se desfigure, ni borre las huellas o señales que puedan servir al que tenga que designarla;
+XIV. Planear, normar, coordinar y evaluar las acciones de formación y educación médica continua de los recursos humanos para la salud, así como el desarrollo e impacto de las acciones de investigación clínica, biomédica, epidemiológica y en servicios de salud que desarrollen las Delegaciones y unidades médicas del Instituto, promoviendo el intercambio académico y de servicios con instituciones públicas o privadas;
 
-II.- Que aquélla se presente acompañada de otros individuos vestidos con ropas semejantes y aún con las mismas señas que las del confrontado, si fuere posible; y
+XV. Coadyuvar en el diseño, implementación, administración y operación de los sistemas de información y comunicaciones con los que deberán operar las Delegaciones y unidades médicas del Instituto en la prestación de los servicios de salud que tienen a su cargo;
 
-III.- Que los individuos que acompañen a la persona que va a ser confrontada, sea de clase análoga, atendidas su educación, modales y circunstancias especiales.
+XVI. Participar en la implementación e integración del expediente electrónico único, por lo que se refiere a la historia clínica del derechohabiente;
 
-###### Artículo 187.
+XVII. Participar en la integración y actualización de los lineamientos específicos para regular la transferencia de las reservas actuariales del Instituto correspondientes al seguro de salud con el Instituto Mexicano del Seguro Social;
 
-La diligencia de confrontación se practicará conforme a las siguientes disposiciones:
+XVIII. Coadyuvar en la aplicación y difusión en las unidades médicas del Instituto del Tabulador de Servicios Médicos para Pacientes no Derechohabientes, coordinando lo que corresponda con la Dirección de Finanzas;
 
-I.- Quien deba ser confrontado puede elegir el sitio en que quiera colocarse, entre los que lo acompañan en la diligencia.
+XIX. Proponer acciones para la atención preferencial de pensionados, jubilados, discapacitados y grupos vulnerables, así como en materia de medicina del trabajo, y desarrollar programas y servicios extrahospitalarios e itinerantes de atención a la salud relacionados con estos ámbitos u otros afines;
 
-II.- Podrá pedir también quien deba ser confrontado que se excluya a cualquiera persona que le parezca sospechosa.
+XX. Coordinar la operación de la Escuela de Dietética y Nutrición y presidir su Consejo Directivo, en ausencia del Director General, proponiendo a éste para su presentación ante la Junta el Reglamento Orgánico correspondiente, así como sus reformas y adiciones;
 
-III.- Queda al prudente arbitrio de la autoridad que practique la confrontación acceder o no a las solicitudes mencionadas en las fracciones anteriores.
+XXI. Participar en el Consejo Asesor Científico y Médico del Instituto; y,
 
-IV.- La diligencia de confrontación se preparará colocando en una fila a la persona que deba ser confrontada y a las que la acompañan.
+XXII. Las demás que le confieran el presente Estatuto y la normatividad aplicable, así como las que le asigne el Director General.
 
-V.- Se tomará al declarante, si no fuere el acusado, la protesta de decir verdad y se le interrogará sobre:
+#### SECCION TERCERA. De la Dirección de Prestaciones Económicas, Sociales y Culturales
 
-a).- Si persiste en su declaración anterior;
+###### ARTICULO 57.
 
-b).- Si conocía con anterioridad a la persona a quien atribuye el hecho o la conoció en el momento de la ejecución del mismo; y
+La Dirección de Prestaciones Económicas, Sociales y Culturales, tendrá las funciones siguientes:
 
-c).- Si después de la ejecución del hecho la ha visto, en qué lugar, por qué motivo y con qué objeto;
+I. Planear, organizar, normar, coordinar, controlar y evaluar las actividades que correspondan al Instituto en materia de:
 
-VI.- Se llevará al declarante frente a las personas que formen la fila, si hubiere afirmado conocer a aquélla de cuya confrontación se trata.
+a) La concesión de pensiones derivadas de los seguros de riesgos del trabajo e invalidez y vida, y de las reguladas en los artículos Décimo y Décimo Octavo Transitorio de la Ley; y,
 
-VII.- Se permitirá al declarante mirar detenidamente a las personas de la fila y se le prevendrá que toque con la mano a la que se quiere identificar, manifestando las diferencias o semejanzas que advierta entre el estado actual y el que tenía en la época a que en su declaración se refiere.
+b) La concesión de las pensiones derivadas de las Cuentas Individuales establecidas en la Ley, en lo que no se encuentre reservado por la normatividad aplicable a PENSIONISSSTE.
 
-VIII.- Cuando sean varios los declarantes o las personas confrontadas, se verificarán tantos actos separados cuantas sean las confrontaciones que hayan de practicarse.
+II. Dictaminar, conceder, negar, suspender, modificar o revocar las pensiones previstas en la fracción anterior, y resolver las peticiones y recursos administrativos de su competencia que se presenten en relación con las mismas;
 
-###### Artículo 57.
+III. Mantener actualizados los datos del sistema de nóminas de las pensiones otorgadas al amparo de la Ley del ISSSTE cuyo pago corresponda al Gobierno Federal, y aplicar los incrementos periódicos de las mismas, así como el pago de gastos de funeral de los pensionistas, autorizando, en su caso, el pago del cien por ciento del último sueldo básico, en los casos y términos previstos por la Ley;
 
-Se prohíben, en el Estado de Puebla, en la averiguación de los delitos, los medios llamados de pesquisa general y de delación secreta o anónima.
+IV. Establecer las reglas de operación para el reintegro de las indemnizaciones globales que realice el trabajador separado del servicio que reingrese al mismo, así como dictaminar la procedencia de las solicitudes de prestaciones económicas, autorizando en su caso su pago, de acuerdo con las normas aplicables;
 
-#### SECCION OCTAVA.- CAREOS
+V. Evaluar y emitir recomendaciones sobre la situación y medidas necesarias en materia de seguridad y salud en el trabajo entre las dependencias y entidades afiliadas, promoviendo la integración y funcionamiento de una Comisión Consultiva Nacional, de Comisiones Consultivas en las Entidades Federativas y de Comisiones de Seguridad y Salud en los centros de trabajo;
 
-###### Artículo 188.
+VI. Impulsar la realización de estudios e investigaciones sobre accidentes y riesgos del trabajo, promoviendo programas y acciones de difusión y capacitación para prevenirlos y evitarlos;
 
-Cuando entre las declaraciones del procesado, de los testigos o del ofendido, apareciere discordancia o contradicción sobre puntos importantes, se procederá a los careos correspondientes.
+VII. Organizar, diseñar, operar y controlar el sistema de administración, otorgamiento y recuperación del Fondo de Préstamos Personales, proponiendo modalidades que permitan fortalecerlo y ampliar su cobertura, en beneficio de la derechohabiencia;
 
-###### Artículo 189.
+VIII. Proponer para su presentación a la Junta el programa anual de otorgamiento de préstamos personales, así como los proyectos relativos a las tasas de interés y las diversas modalidades a que estarán sujetos los mismos, instrumentando los acuerdos correspondientes;
 
-La diligencia de careos, se rige por las siguientes disposiciones:
+IX. Autorizar y otorgar, en su caso, los préstamos personales para los trabajadores o pensionados sujetos al régimen de la Ley, conforme a las disposiciones aplicables, calculando el monto y plazo de los mismos;
 
-I.- Los careos entre el acusado y los que deponen en su contra, se practicarán durante la averiguación previa, de que conoce la Autoridad Judicial.
+X. Determinar, en coordinación con las Unidades Administrativas competentes, los adeudos e intereses que se generen por concepto de préstamos personales concedidos por el Instituto, efectuando las gestiones necesarias para la aplicación oportuna de descuentos y/o recuperaciones, así como para la devolución de descuentos improcedentes;
 
-II.- Si durante la averiguación previa no puede lograrse la comparecencia de las personas que deban ser careadas, se practicarán los careos durante la instrucción.
+XI. Cancelar, en su caso, los adeudos de aquellos trabajadores que por alguno de los motivos que señala la Ley estén imposibilitados de saldar sus créditos, utilizando la reserva de garantía y promoviendo la cancelación de los registros contables correspondientes;
 
-III.- Se careará un solo testigo con otro.
+XII. Organizar, administrar y controlar el Fondo de Servicios Sociales y Culturales, operando los programas y servicios previstos en la materia por la Ley, con excepción de los que conforme a este Estatuto quedan a cargo de SuperISSSTE y del Sistema de Agencias Turísticas TURISSSTE;
 
-IV.- En una diligencia no se hará constar más de un careo.
+XIII. Preparar la propuesta que debe someterse anualmente a la Junta sobre el costo unitario a cargo de la dependencia o entidad por cada infante que haga uso del servicio de atención en las estancias para el bienestar y desarrollo infantil, estableciendo lineamientos para la subvención del servicio a las madres con hijos con discapacidad;
 
-V.- Los careos entre personas distintas de las mencionadas en la fracción I anterior, se practicarán durante la instrucción y podrán repetirse cuando el Juez lo estime oportuno, o a petición de las partes cuando surjan nuevos puntos de contradicción.
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2009)</small>
 
-VI.- Sólo concurrirán a la diligencia de careos, las personas que deban ser careadas, las partes y los intérpretes si fueren necesarios.
+XIV. Diseñar, proporcionar, difundir y operar el sistema de formación, enseñanza y capacitación que articule los programas dirigidos a los derechohabientes y usuarios de los servicios del Instituto, así como a las Dependencias y Entidades, y en coordinación con la Dirección de Administración, los destinados al desarrollo y actualización laboral de los trabajadores de la propia institución;
 
-VII.- Los careos se practicarán dando lectura en lo conducente a las declaraciones que se reputen desacordes o contradictorias y llamando la atención de los careados sobre los desacuerdos o contradicciones, a fin de que discutan entre sí y hagan las aclaraciones que estimen convenientes, para que pueda obtenerse la verdad.
+XV. Coordinar, integrar y promover los programas y acciones desarrollados por las diversas áreas del Instituto para la atención de los pensionados y jubilados, operando con carácter prioritario, en el marco de sus servicios sociales y culturales, las iniciativas y proyectos de carácter educativo, recreativo, ocupacional y deportivo que auspicien su mayor bienestar, así como, en general, de la derechohabiencia de la tercera edad;
 
-VIII.- Cuando alguno de los que deban ser careados no fuere encontrado, o residiere en otra jurisdicción, se practicará careo supletorio, leyéndose al presente la declaración del no presente y haciéndole notar las contradicciones que hubiere entre aquélla y lo declarado por él.
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2009)</small>
 
-IX.- Si los que deban ser careados estuvieren fuera de la jurisdicción del Tribunal, se librará el oficio o el exhorto correspondiente.
+XVI. Coadyuvar en el diseño, implementación, administración y operación de los sistemas de información y comunicaciones con los que deberán operar las Delegaciones del Instituto para conceder las pensiones y otorgar las prestaciones económicas, sociales y culturales, y
 
-###### Artículo 58.
+XVII. Las demás que le confieran el presente Estatuto y la normatividad aplicable, así como las que le asigne el Director General.
 
-Los funcionarios del Ministerio Público, están obligados a proceder de oficio a la investigación de los delitos de que tuvieren noticia, excepto en los casos siguientes:
+#### SECCION CUARTA. De la Dirección de Finanzas
 
-I.- Cuando se trate de delitos por los que sólo se puede proceder en virtud de querella necesaria, si ésta no ha sido presentada; y,
+###### ARTICULO 58.
 
-II.- Cuando la ley exija algún requisito previo, si éste no se ha cumplido.
+La Dirección de Finanzas tendrá las funciones siguientes:
 
-#### SECCION NOVENA.- VALOR JURIDICO DE LAS PRUEBAS
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE MAYO DE 2012)</small>
 
-###### Artículo 190.
+I. Planear, organizar, normar, coordinar, consolidar y controlar los procesos de planeación financiera, contabilidad, tesorería, inversiones, estadística y de estudios actuariales, para lo cual tendrá a su cargo los sistemas institucionales de:
 
-No podrá condenarse a un acusado sino cuando se pruebe que cometió el delito que se le imputa.
+> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2012)</small>
 
-###### Artículo 191.
+a) Control y registro contable por fondos, que produzca información financiera y de costos a través de mecanismos que, en coordinación con la Dirección de Administración, permitan su vinculación con la planeación, programación y presupuestación del Instituto;
 
-En caso de duda deberá absolverse al acusado.
+b) Control de las operaciones derivadas tanto de la captación de ingresos como de la movilización de fondos;
 
-###### Artículo 192.
+c) Recuperación de adeudos, en los términos de los artículos 21, 22 y Trigésimo Octavo Transitorio de la Ley;
 
-El que afirma está obligado a probar.
+d) Información estadística, diseñando los instrumentos operativos y los indicadores de control de las tareas del Instituto;
 
-###### Artículo 193.
+e) Control, registro, mantenimiento y actualización del inventario de activo fijo del Instituto;
 
-El que niega está obligado a probar cuando su negación es contraria a una presunción legal o envuelva la afirmación expresa de un hecho.
+f) (DEROGADO, D.O.F. 9 DE MAYO DE 2012)
 
-###### Artículo 194.
+g) Administración de riesgos y control de aseguramiento integral.
 
-La confesión produce su efecto tanto en lo que favorece como en lo que perjudica al acusado.
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2012)</small>
 
-###### Artículo 195.
+II. Representar al Instituto y a sus órganos desconcentrados ante las Secretarías de Hacienda y Crédito Público y de la Función Pública en asuntos de contabilidad, tesorería e inversiones;
 
-La confesión judicial hará prueba plena, cuando concurran las circunstancias siguientes:
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2012)</small>
 
-I.- Que esté plenamente comprobado por otros medios la existencia del delito, salvo lo dispuesto en los artículo 102 fracción I y 104;
+III. Coordinar a los cuerpos colegiados institucionales en materia de contabilidad, tesorería e inversiones, así como intervenir en los cuerpos colegiados y en los mecanismos de participación sectorial relacionados con estas materias;
 
-II.- Que se haga por persona mayor de dieciséis años, en su contra, con pleno conocimiento y sin coacción ni violencia de ninguna especie;
+IV. Recaudar y registrar los ingresos de cuotas, aportaciones y cuota social provenientes de las dependencias y entidades afiliadas, o de cualquier otro generado por la institución, así como formular, consolidar y controlar el presupuesto de ingresos del Instituto, manteniendo el buen funcionamiento del sistema de recaudación de cuotas y aportaciones que serán depositadas en las Cuentas Individuales establecidas en la Ley;
 
-III.- Que sea de hecho propio;
+V. Diseñar, proponer y operar los esquemas que permitan incrementar los ingresos del Instituto y ampliar la cobertura de los seguros, prestaciones y servicios que brindan sus Unidades Administrativas Centrales y Desconcentradas, sometiendo a la Junta las propuestas de fondeo y bursatilización que, bajo criterios de transparencia y seguridad, resulten pertinentes;
 
-IV.- Que se haga ante el Ministerio Público durante la averiguación previa o ante el Juez o la Sala de la causa; y
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2012)</small>
 
-V.- Que no existan en autos otras pruebas o presunciones que, a juicio del Juez o la Sala, la hagan inverosímil.
+VI. Integrar, en el ámbito de su competencia, en coordinación con la Dirección de Administración, la información que presente el Instituto a la Secretaría de Hacienda y Crédito Público para elaborar la Cuenta de la Hacienda Pública Federal;
 
-###### Artículo 196.
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2012)</small>
 
-Los documentos públicos harán prueba plena, salvo el derecho de las partes para redargüirlos de falsedad y para pedir su cotejo en los protocolos, o con los originales existentes en los archivos.
+VII. Normar y operar el registro contable de los ingresos, egresos y del flujo de recursos financieros que por cualquier concepto realicen las Unidades Administrativas del Instituto;
 
-###### Artículo 197.
+VIII. Planear, programar y ejecutar actos de fiscalización en materia de determinación y liquidación de aportaciones de seguridad social que se deriven del ejercicio de sus facultades de comprobación, para lo cual podrá:
 
-Los documentos privados sólo harán prueba plena contra su autor, si fueren judicialmente reconocidos por él, o no objetados, a pesar de saber que figuran en el proceso.
+a) Ordenar el inicio de actos de comprobación fiscal, de conformidad con los artículos 42 y 48 del Código Fiscal de la Federación, así como los demás actos tendientes a determinar y liquidar las aportaciones de seguridad social omitidas y sus accesorios;
 
-###### Artículo 198.
+b) Solicitar a dependencias y entidades afiliadas, o a terceros, datos, informes o documentos relativos al ejercicio de las facultades de comprobación;
 
-Los documentos privados comprobados por testigos se considerarán como prueba testimonial; y los provenientes de un tercero serán estimados como presunciones.
+c) Ordenar y facultar a representantes del Instituto para practicar las notificaciones de los actos relacionados con el ejercicio de las facultades de comprobación;
 
-###### Artículo 199.
+d) Prorrogar los plazos en que deba concluir el ejercicio de sus facultades de comprobación, adicionales a visitas domiciliarias; y,
 
-La inspección judicial, así como el resultado de los cateos o visitas domiciliarias, de la confrontación y de los careos, harán prueba plena, si se practican con los requisitos legales.
+e) Determinar y liquidar los créditos fiscales por concepto de aportaciones de seguridad social.
 
-###### Artículo 200.
+IX. Normar y coordinar los procesos y acciones desarrollados por el Instituto y sus Unidades Administrativas para la cuantificación y recuperación de adeudos al Instituto, proponiendo la gestión ante la Tesorería de la Federación, en el caso de adeudos por concepto de cuotas y aportaciones, de la correspondiente retención de transferencias y participaciones a las dependencias y entidades afiliadas que así corresponda, u otras medidas previstas en la Ley;
 
-La fuerza probatoria de todo juicio pericial, incluso el cotejo de letras y los dictámenes de los peritos, serán calificados por el Juez o Sala, según las circunstancias.
+X. Establecer los lineamientos para constituir, incrementar y consolidar las Reservas establecidas en el artículo 234 de la Ley, elaborando y presentando anualmente a la Junta el programa correspondiente;
 
-###### Artículo 201.
+XI. Diseñar y contratar las valuaciones actuariales anuales y estudios financieros para determinar la estructura de cuotas y aportaciones necesarias para cada uno de los seguros, prestaciones y servicios ofrecidos al amparo de la Ley, así como el nivel y composición de las reservas técnicas requeridas conforme a la normatividad aplicable;
 
-La valorización de la prueba testimonial queda al prudente arbitrio del Juez o Tribunal, los que no pueden con la sola prueba testimonial, considerar probados los hechos cuando no haya por lo menos dos testigos que reúnan las condiciones siguientes:
+XII. Operar la Unidad de Inversiones a que se refiere el artículo 244 de la Ley, con las siguientes funciones específicas:
 
-I.- Que por su edad, capacidad e instrucción, tengan el criterio necesario para juzgar del acto;
+a) Proponer al Comité de Inversiones las alternativas de inversión de los recursos financieros del Instituto;
 
-II.- Que por su probidad, la independencia de su posición y antecedentes personales, tengan completa imparcialidad;
+b) Realizar las operaciones de inversión de las Reservas y de los excedentes de efectivo, de acuerdo con las políticas y directrices del Comité de Inversiones del Instituto;
 
-III.- Que el hecho de que se trate sea susceptible de conocerse por medio de los sentidos, y que el testigo lo conozca por sí mismo y no por inducciones o referencias de otra persona;
+c) Aplicar las estrategias para cubrir el riesgo de inversión;
 
-IV.- Que la declaración sea clara y precisa, sin dudas ni reticencias, ya sobre la substancia del hecho, ya sobre sus circunstancias esenciales;
+d) Establecer y operar los sistemas de información para las operaciones de inversión de las Reservas y de los excedentes de efectivo y sobre los factores de riesgo de inversión;
 
-V.- Que el testigo no haya sido obligado a declarar por fuerza o miedo, ni impulsado por engaño, error o soborno. El apremio judicial, no se reputará fuerza;
+e) Elaborar y presentar al Comité de Inversiones un informe mensual pormenorizado de las operaciones y rendimientos obtenidos en la inversión de los excedentes de efectivo, y uno semestral, por las correspondientes a las reservas financieras del Instituto;
 
-VI.- Que los testigos sean uniformes, esto es, que convengan no sólo en la substancia, sino en los accidentes del hecho que refieran; o que, aun cuando no convengan en éstos, la discrepancia no modifique la esencia del hecho, a juicio del Juez o de la Sala, y
+f) Custodiar e invertir las Reservas y los recursos en general que por cualquier concepto recaude el Instituto, con excepción de los depositados en las Cuentas Individuales administradas por PENSIONISSSTE, bajo criterios de prudencia, seguridad, rendimiento, liquidez, diversificación de riesgo, transparencia y respeto a las sanas prácticas y usos del medio financiero nacional; y,
 
-VII.- Que los testigos hayan oído pronunciar las palabras o visto el hecho sobre que deponen.
+g) Las demás que le señalen los reglamentos, lineamientos y, en su caso, acuerdos de la Junta, así como las que le encomiende el Comité de Inversiones.
 
-###### Artículo 202.
+XIII. Atender y representar al Instituto ante las instituciones del sistema financiero y de seguros para evaluar, contratar, normar, aprobar y controlar la apertura de cuentas de todo tipo y objeto, autorizando el monto de las comisiones, sus importes y su forma de pago, así como, en su caso, las condiciones de reciprocidad;
 
-Si por ambas partes hubiere igual número de testigos contradictorios, la Autoridad Judicial se decidirá por el dicho de los que le merezcan mayor confianza. Si todos la merecen igual, y no hay otra prueba, se absolverá al acusado.
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2012)</small>
 
-###### Artículo 203.
+XIV. Integrar, en coordinación con la Dirección de Administración, la información estadística del Instituto, desarrollando un sistema de indicadores que permitan calificar, a las áreas prestadoras de servicios institucionales, la calidad de la prestación, la eficiencia financiera y la cobertura poblacional de cada área, operando las acciones que deriven de las evaluaciones realizadas, de acuerdo con la normatividad correspondiente;
 
-Si por una parte hubiere mayor número de testigos que por la otra, el Juez o la Sala, se decidirá por la mayoría, siempre que en todos concurran iguales motivos de confianza. En caso contrario, obrará como le dicte su conciencia.
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2012)</small>
 
-###### Artículo 204.
+XV. Diseñar, desarrollar y administrar, en coordinación con la Dirección de Administración, la función financiera de los servicios de salud en el Instituto, con base en el sistema de medición y evaluación del desempeño de las unidades médicas, determinando los requerimientos de información necesarios para planificar el adecuado financiamiento de dichos servicios;
 
-Los jueces y las Salas, según la naturaleza de los hechos, la prueba de ellos y el enlace natural, más o menos necesario que exista entre la verdad conocida y la que se busca, apreciarán en conciencia el valor de las presunciones hasta el punto de considerar su conjunto como prueba plena.
+XVI. Determinar las condiciones financieras indispensables en la compensación o subrogación de servicios médicos entre el Instituto y otras instituciones o entidades del sector salud o del sector privado, para el aprovechamiento de la capacidad médica excedente del Instituto;
 
-# LIBRO SEGUNDO
+XVII. Elaborar y celebrar acuerdos de gestión con las Unidades Administrativas Centrales y Desconcentradas del Instituto, mediante los cuales se definan, promuevan y evalúen las metas específicas a cumplir en el otorgamiento de los seguros, prestaciones y servicios del Instituto;
 
-###### Artículo 59.
+XVIII. Integrar, consolidar, coordinar, operar y administrar el programa integral de fianzas y aseguramiento institucional de personas, activos, cartera crediticia, recursos financieros y cualquier otro bien o patrimonio del Instituto y de sus Unidades Administrativas Centrales y Desconcentradas, así como de los servidores públicos del mismo y, en su caso, de sus derechohabientes;
 
-Es necesaria la querella de la parte ofendida en los casos expresamente determinados en el Código de Defensa Social.
+XIX. Administrar el pago de los montos constitutivos de los seguros de riesgos del trabajo y de invalidez y vida, estableciendo en los términos de la Ley mecanismos de coordinación y pago con las entidades aseguradoras, así como procedimientos que favorezcan que el derechohabiente pensionado elija a la aseguradora que le ofrezca las mejores condiciones, previa determinación, en coordinación con la Dirección de Prestaciones Económicas, Sociales y Culturales, de los cálculos actuariales correspondientes;
 
-#### SECCION PRIMERA.- DECLARACION PREPARATORIA DEL ACUSADO Y NOMBRAMIENTO DE DEFENSOR
+XX. Diseñar e implantar, en coordinación con la Dirección de Administración, los sistemas de registro, actualización y mantenimiento del inventario de activo fijo y de control de egresos por nómina del personal del Instituto;
 
-> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
+XXI. Integrar, para su presentación ante la Junta, con la oportunidad debida, los estados financieros y el informe financiero y actuarial del Instituto, así como el informe dictaminado a que se refiere el artículo 214, fracción XIX de la Ley; y, (sic)
 
-###### Artículo 205.
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2012)</small>
 
-Salvo en el caso del artículo 253, dentro de las cuarenta y ocho horas contadas desde que un detenido ha quedado a la disposición de la autoridad judicial competente, se procederá a tomarle su declaración en audiencia pública, a la que no deberán concurrir los testigos que deban ser examinados, con relación a los hechos que motivan la averiguación.
+XXII. Proponer, en el ámbito de su competencia, al Director General acciones de mejora y simplificación administrativa con objeto de eficientar el uso de los recursos financieros del Instituto; y
 
-###### Artículo 206.
+XXIII. Las demás que le confieran el presente Estatuto y la normatividad aplicable, así como las que le asigne el Director General.
 
-Son aplicables a la audiencia pública en la que se tome la declaración preparatoria del acusado, las siguientes disposiciones:
+#### SECCION QUINTA. De la Dirección de Administración
 
-I.- La declaración preparatoria comenzará por las generales del acusado, en las que se harán constar también los apodos que tuviere.
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE JUNIO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-II.- Se informará al acusado del motivo de su detención, leyéndosele la querella si la hubiere.
+###### ARTICULO 59.
 
-III.- Se hará saber al acusado el nombre de la persona que le impute la comisión del delito.
+La Dirección de Administración tendrá las funciones siguientes:
 
-IV.- Se examinará al acusado sobre los hechos que motiven la averiguación y sobre el conocimiento que tuviere del delito.
+I. Establecer las políticas en materia de recursos humanos e intervenir en su selección, nombramiento, formación y adscripción, así como en todas las cuestiones relacionadas con la administración y desarrollo del personal, coordinando lo que corresponda con las Unidades Administrativas Centrales y Desconcentradas del Instituto, en los términos del presente Estatuto y de la normatividad y reglamentación aplicables;
 
-V.- En el caso de que el acusado niegue su participación en el delito, se le interrogará acerca del lugar en que se encontraba el día y la hora en que aquel se cometió, y las personas que lo hubieran visto allí, así como sobre todos aquellos hechos y pormenores que puedan servir al esclarecimiento de la verdad.
+II. Coordinar y controlar el diseño y registro de estructuras laborales y ocupacionales de las Unidades Administrativas Centrales y Desconcentradas del Instituto, conforme a lo que determinen los manuales de organización autorizados, coadyuvando con la Dirección de Finanzas en las acciones correspondientes con las dependencias globalizadoras;
 
-VI.- Se permitirá que el acusado dicte su declaración si lo solicitare.
+III. Desarrollar y aplicar el sistema institucional de indicadores para la medición del desempeño del personal que labora en las áreas prestadoras de servicios del Instituto, operando las acciones que deriven de las evaluaciones realizadas, de acuerdo con la normatividad correspondiente;
 
-VII.- Si el acusado se negare a responder a las preguntas que se le hicieren, se hará constar esta circunstancia.
+IV. Coordinar y aplicar un sistema de incentivos al desempeño y a la eficiencia del personal que permita mejorar la gestión de las Unidades Administrativas Centrales y Desconcentradas del Instituto;
 
-VIII.- No podrá el Juez emplear la incomunicación ni ningún otro medio coercitivo, para lograr la declaración.
+V. Normar, controlar y coordinar la operación interna de la retención y entero de las cuotas y aportaciones correspondientes al personal del Instituto, de conformidad con la Ley y con las disposiciones que emita la Comisión Nacional del Sistema de Ahorro para el Retiro;
 
-IX.- Se hará saber en la misma diligencia al detenido la garantía de la libertad caucional, en los casos en que proceda, y el derecho que tiene para defenderse por sí mismo y para nombrar persona de su confianza que lo defienda, advirtiéndole que si no lo hiciere, el Juez le nombrará un defensor de oficio.
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2011)</small>
 
-X.- Cuando el acusado hubiere nombrado varios defensores, éstos estarán obligados a nombrar un representante común o, en su defecto, lo hará el Juez.
+VI. Planear, organizar, normar, coordinar y controlar la administración de los recursos materiales del Instituto en términos de las disposiciones aplicables y fungir como Responsable Inmobiliario en términos de lo que establece el artículo 32 de la Ley General de Bienes Nacionales;
 
-###### Artículo 207.
+VII. Proponer los lineamientos y criterios conforme a los cuales el Instituto adquirirá o arrendará los bienes muebles y contratará los servicios generales requeridos para su operación y funcionamiento;
 
-El Agente del Ministerio Público y la Defensa, tendrán derecho de interrogar al acusado, pero el Juez o la Sala podrán disponer que los interrogatorios se hagan por su conducto y tendrá facultad de desechar la pregunta que, a su juicio, fuere capciosa o inconducente.
+VIII. Coordinar las acciones relativas al control del inventario de los bienes muebles que integran el activo fijo del Instituto, en forma conjunta con la Dirección de Finanzas;
 
-###### Artículo 208.
+IX. Establecer la normatividad de operación de las áreas almacenarias del Instituto y del control de sus existencias, así como coordinar y evaluar la operación de los almacenes regionales, el almacenamiento y custodia de los bienes que ingresen a los mismos y la remisión de los bienes a los almacenes delegacionales, al Centro Médico Nacional “20 de Noviembre” y a los Hospitales Regionales y Generales del Instituto, promoviendo la incorporación de centros y sistemas modernos de distribución que permitan convertir y adecuar estos procesos para lograr mayor eficiencia y transparencia;
 
-En los casos en que el delito, por no merecer sanción corporal o por merecer sanción alternativa que incluya una no corporal, no dé lugar a detención, a pedimento del Ministerio Público, se librará orden de comparencia en contra del acusado para que rinda su declaración preparatoria, siempre que esté comprobado el cuerpo del delito y existan elementos para presumir la responsabilidad del mismo acusado.
+X. Planear, operar y controlar, atendiendo a los requerimientos que defina e integre la Dirección Médica:
 
-###### Artículo 209.
+a) La adquisición, la distribución y el abasto de medicamentos e insumos médicos para las unidades médicas del Instituto; y,
 
-Recibida la declaración preparatoria o en su caso, la manifestación del acusado de que no desea declarar, el Juez lo careará con todos los testigos que depongan en su contra, en cuanto fuere posible y se practicarán las diligencias conducentes al esclarecimiento de los hechos.
+b) Los servicios de conservación y mantenimiento del equipo médico y electromecánico y de los inmuebles del Instituto, de acuerdo con las políticas y estrategias establecidas por la normatividad para la protección del ambiente y el equilibrio ecológico.
 
-###### Artículo 210.
+XI. Elaborar, con base en la información que proporcionen las Unidades Administrativas Centrales y Desconcentradas del Instituto, el programa anual de adquisiciones, arrendamientos y servicios, de conformidad con las disposiciones legales aplicables;
 
-El Juez, bajo su más estricta responsabilidad, deberá admitir las pruebas que el acusado o el defensor de éste, ofrezcan dentro del término constitucional; y las diligencias que sean necesarias, según la naturaleza de las pruebas ofrecidas se practicarán dentro del término constitucional.
+XII. Planear, normar, coordinar y controlar la obra pública y los servicios relacionados con la misma de los bienes inmuebles del Instituto, vigilando que se realicen de acuerdo con las políticas y estrategias establecidas por la normatividad para la protección del ambiente y el equilibrio ecológico;
 
-###### Artículo 60.
+XIII. Dictaminar los aspectos técnicos para la funcionalidad de los bienes inmuebles, de acuerdo con las necesidades de las áreas proponentes;
 
-La persona que tenga conocimiento de la comisión de un delito que deba perseguirse de oficio, está obligada a denunciarlo al Ministerio Público.
+XIV. Elaborar, con base en la información que proporcionan las áreas del Instituto, el programa anual de inversión de obra pública y servicios relacionados con las mismas, registrando su avance;
 
-#### SECCION SEGUNDA.- AUTO DE FORMAL PRISION O DE LIBERTAD POR FALTA DE MERITOS
+XV. Coadyuvar con la Dirección Jurídica en la expedición de lineamientos en relación con la elaboración de dictámenes de factibilidad inmobiliaria, en lo relacionado con los aspectos técnicos para la adquisición y arrendamiento de bienes inmuebles que tengan por objeto ampliar la reserva territorial e infraestructura del Instituto, elaborando en su caso los dictámenes técnicos que le sean solicitados;
 
-###### Artículo 211.
+XVI. Normar, coordinar y controlar las funciones de administración de servicios generales, el sistema de seguridad y vigilancia y los comités de protección civil del Instituto, vigilando la observancia de las normas técnicas aplicables en cada caso;
 
-Ninguna detención podrá exceder del término de setenta y dos horas, contando desde que el acusado sea puesto a disposición del Juez, sin que se justifique con un auto de formal prisión, el cual sólo podrá decretarse cuando aparezcan llenados los requisitos siguientes:
+XVII. Con base en la normatividad aplicable, programar, convocar los procesos de contratación y suscribir los contratos y convenios de adquisiciones y abasto, arrendamiento de bienes muebles, servicios generales, obra pública, servicios relacionados con la misma, servicios de conservación y mantenimiento de equipos e inmuebles, paquetes integrales de servicios y sistemas de almacenamiento y distribución de bienes, así como aplicar las sanciones económicas que procedan en los casos establecidos;
 
-I.- Que esté comprobada la existencia del cuerpo de un delito que merezca sanción corporal;
+XVIII. Llevar a cabo los procedimientos administrativos de rescisión de los contratos que celebre, y proporcionar la información necesaria a la Dirección Jurídica para ejercer las acciones que en derecho procedan para recuperar los adeudos originados con motivo de las rescisiones o finiquitos de los contratos celebrados, cumpliendo con la normatividad vigente;
 
-II.- Que contra el detenido existan datos suficientes a juicio del Juez, para suponerlo responsable del delito;
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 9 DE MAYO DE 2012)</small>
 
-III.- Que se haya tomado declaración preparatoria al acusado, en la forma y con los requisitos establecidos en el Capítulo anterior; y
+XIX. Planear, organizar, normar, coordinar, consolidar y controlar los procesos de planeación, programación, presupuestación y evaluación del gasto del Instituto;
 
-IV.- Que no concurra en favor del acusado alguna causa excluyente de responsabilidad delictuosa o que extinga la acción persecutoria.
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 9 DE MAYO DE 2012)</small>
 
-###### Artículo 212.
+XX. Integrar el proyecto de presupuesto de egresos del Instituto;
 
-EL auto de formal prisión contendrá:
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2012)</small>
 
-I.- La fecha y hora exacta en que se dicte;
+XXI. Proponer al Director General el proyecto de presupuesto anual de egresos del Instituto para su presentación y, en su caso, aprobación de la Junta;
 
-II.- La expresión del delito imputado al acusado por el Ministerio Público;
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2012)</small>
 
-III.- El delito o delitos por los que deberá seguirse el proceso, y los medios con que se logró la comprobación de los elementos de aquél o aquéllos;
+XXII. Verificar que el ejercicio y registro del presupuesto de egresos, autorizado al Instituto, se realice de conformidad con la normativa aplicable;
 
-IV.- La expresión del lugar, tiempo y circunstancia de ejecución, en cuanto fuere posible y los demás datos que arroje la averiguación previa, y que deberán ser bastantes para tener por comprobado el cuerpo del delito y hacer probable la responsabilidad del detenido; y
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2012)</small>
 
-V.- Los nombres del Juez que dicte la determinación y del Secretario que la autorice.
+XXIII. Integrar en el ámbito de su competencia y en coordinación con la Dirección de Finanzas, la información que presente el Instituto a la Secretaría de Hacienda y Crédito Público para elaborar la Cuenta de la Hacienda Pública Federal;
 
-###### Artículo 213.
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2012)</small>
 
-En el auto de formal prisión, por delito que merezca sanción corporal, se ordenará:
+XXIV. Representar al Instituto y a sus órganos desconcentrados ante las Secretarías de Hacienda y Crédito Público y de la Función Pública en asuntos de planeación, programación, presupuestación, y evaluación financiera y presupuestal del gasto;
 
-I.- Que el acusado sea identificado por el sistema adoptado administrativamente, agregándose al expediente un ejemplar de la hoja de identificación.
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2012)</small>
 
-II. Que se pida informe al Director del Centro de Readaptación Social que corresponda, acerca de los anteriores ingresos del acusado, a dichos establecimientos.
+XXV. Coordinar a los cuerpos colegiados institucionales en materia de planeación, programación, presupuestación y evaluación del gasto, así como intervenir en los cuerpos colegiados y en los mecanismos de participación sectorial relacionados con estas materias;
 
-###### Artículo 214.
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2012)</small>
 
-Las resoluciones que pongan fin al proceso y que hayan causado ejecutoria, se notificarán a las oficinas de identificación, para que se hagan las anotaciones correspondientes.
+XXVI. Proponer al Director General acciones de mejora y simplificación administrativa con objeto de eficientar el uso de los recursos humanos, materiales y, en el ámbito de su competencia, financieros del Instituto;
 
-###### Artículo 215.
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2012)</small>
 
-El auto de formal prisión se notificará inmediatamente al acusado, si estuviere detenido, y se comunicará al Director del Centro de Readaptación Social respectivo, a quien se remitirá copia autorizada de la resolución, entregándose otra al acusado si la solicitare.
+XXVII. Coordinar el manejo, guarda, custodia y conservación de los archivos del Instituto; y
 
-###### Artículo 216.
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2012)</small>
 
-Los autos de formal prisión, de libertad por falta de méritos y de sujeción a proceso, son recurribles en apelación.
+XXVIII. Las demás que le confieran el presente Estatuto y la normatividad aplicable, así como las que le asigne el Director General.
 
-###### Artículo 217.
+#### SECCION SEXTA. De la Dirección Jurídica
 
-Cuando por tener el delito señalada únicamente sanción no corporal o alternativa que incluya una no corporal, no pueda restringirse la libertad del acusado; o cuando se trate de sujetar a proceso a una sociedad o persona jurídica, el auto de sujeción a proceso se dictará sólo para el efecto de señalar el delito o delitos por los que se seguirá aquél proceso.
+###### ARTICULO 60.
 
-###### Artículo 218.
+La Dirección Jurídica tendrá las funciones siguientes:
 
-El auto de sujeción a proceso, reglamentado en el artículo anterior y el auto de formal prisión se comunicarán, por medio de copia autorizada al superior jerárquico del acusado, cuando éste sea militar, empleado o funcionario público, y cuando se sujete a proceso a una sociedad o persona jurídica, el representante de ésta será notificado del auto de sujeción a proceso.
+I. Planear, normar, coordinar, supervisar y evaluar los servicios jurídicos y la aplicación de las disposiciones jurídicas relacionadas con el Instituto;
 
-###### Artículo 219.
+II. Representar al Instituto para su defensa jurídica en todo tipo de gestiones judiciales, extrajudiciales y administrativas, y ante todo tipo de autoridades federales, estatales y municipales, en los términos de los poderes otorgados, quedando en las Delegaciones del Instituto dicha defensa a cargo del titular de la Unidad Jurídica respectiva, sin perjuicio de que el área central lo realice cuando así lo considere conveniente;
 
-Si dentro del término legal no se reúnen los requisitos necesarios para dictar el auto de formal prisión o el de sujeción a proceso, debiendo a la falta de existencia del delito o de la presunta responsabilidad del acusado, se dictará auto de libertad por falta de méritos, o de no sujeción a proceso, sin perjuicio de que posteriormente con nuevos datos, se pueda proceder contra el acusado.
+III. Supervisar y evaluar las actividades de las áreas jurídicas de las Unidades Administrativas Desconcentradas del Instituto que cuenten con ellas;
 
-###### Artículo 61.
+IV. Asesorar jurídicamente a los Organos de Gobierno y Unidades Administrativas Centrales y Desconcentradas del Instituto;
 
-Son aplicables a las denuncias y a las querellas, las siguientes disposiciones:
+V. Interponer las demandas judiciales y denuncias penales, formular los informes previo y justificado en los juicios de amparo y promover los recursos de revisión, queja y reclamación en los casos donde el Instituto sea parte, coordinando lo que corresponda con las áreas jurídicas de las Unidades Administrativas Desconcentradas que cuenten con ellas;
 
-I.- Tanto las denuncias como las querellas pueden formularse oralmente o por escrito.
+VI. Asesorar a los servidores públicos de mando del Instituto en las instancias judiciales o extrajudiciales en las que hayan sido señalados como autoridades responsables, con la salvedad de aquellos asuntos en los que el Instituto sea la contraparte;
 
-II.- Las denuncias o las querellas formuladas oralmente, se harán constar en acta que levantará el funcionario que las reciba, y serán firmadas por su autor; si éste no supiere escribir, imprimirá su huella digital al pie de la denuncia o de la querella; y, en todo caso, manifestará sus generales, señalando con precisión su domicilio.
+VII. Establecer los mecanismos de comunicación y coordinación con las Unidades Administrativas Centrales y Desconcentradas del Instituto para apoyarlas en el cumplimiento de resoluciones judiciales o extrajudiciales;
 
-III.- En las formuladas por escrito, el denunciante o querellante, será citado para que ratifique el escrito; pero no habrá necesidad de la ratificación si el denunciante fuere funcionario público.
+VIII. Conocer de los procedimientos administrativos correspondientes a los recursos previstos en la Ley, en coordinación con las áreas sustantivas sobre las que versen los mismos;
 
-#### SECCION PRIMERA.- INSTRUCCION
+IX. Expedir copias certificadas de los documentos que obren en poder del Instituto relativos al ámbito de su competencia para ser exhibidos en asuntos judiciales y contencioso-administrativos, de documentos necesarios para trámites de operación interna, de las concesiones de pensión solicitadas a los trabajadores o sus beneficiarios que deseen retirar los recursos de la subcuenta de ahorro para el retiro y/o de la subcuenta del Fondo de la Vivienda previstas en la Ley y de versiones públicas de los documentos clasificados como reservados o confidenciales, así como de los documentos que provengan de solicitudes de acceso a la información captadas por la unidad de enlace del Instituto;
 
-###### Artículo 220.
+X. Compilar y sistematizar el marco jurídico e instrumentos normativos relacionados con las atribuciones, funcionamiento y actividades de las distintas áreas del Instituto, manteniendo actualizado su registro;
 
-Durante la instrucción, el Juez o la Sala que conozca del proceso deberá, a solicitud de las partes o por su propia iniciativa:
+XI. Establecer los lineamientos jurídicos para la formulación de manuales de organización y procedimientos, coadyuvando en su dictaminación con la Dirección de Tecnología y Desarrollo Institucional, además de gestionar los trámites para la publicación de la normatividad del Instituto en el Diario Oficial de la Federación y en la Normateca Electrónica de Disposiciones Internas Actualizadas;
 
-I.- Practicar las diligencias necesarias para el mejor esclarecimiento de los hechos, en relación con la comprobación del cuerpo del delito, si no se hubieren practicado en la averiguación previa o fuere necesario aclarar las practicadas en ésta;
+XII. Emitir opiniones y dictámenes de carácter legal sobre los criterios de interpretación y aplicación de las normas jurídicas y reglamentarias que regulan las actividades y funcionamiento del Instituto;
 
-II.- Practicar las diligencias necesarias para la plena comprobación de la responsabilidad del acusado o para comprobar, en su caso, la irresponsabilidad del mismo; y
+XIII. Realizar y revisar los estudios y proyectos de reforma a la Ley y reglamentos que integran el marco jurídico del Instituto;
 
-III.- Tomar conocimiento directo del acusado, de la víctima del delito y de las circunstancias del hecho, en la medida requerida en cada caso, allegándose datos para conocer las condiciones peculiares y los antecedentes personales y sociales del acusado, los motivos que lo impulsaron a delinquir, así como la gravedad y modalidades del delito.
+XIV. Dictaminar y registrar los convenios y contratos que suscriba el Director General del Instituto, así como los que celebren las Unidades Administrativas Centrales y Desconcentradas del Instituto que no cuenten con área jurídica y que sean necesarios para su funcionamiento;
 
-###### Artículo 221.
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2011)</small>
 
-Salvo lo dispuesto en este Código respecto al procedimiento sumario, la instrucción deberá quedar terminada, a más tardar, dentro de cuatro meses a contar de la fecha del auto de formal prisión.
+XV. Apoyar al Responsable Inmobiliario, en términos de lo establecido en la Ley General de Bienes Nacionales, en el control y registro general de los bienes inmuebles del Instituto, incluyendo los referentes a usos médicos, operando lo que corresponda con las Unidades Administrativas competentes;
 
-###### Artículo 222.
+XVI. Realizar los actos necesarios para legalizar la adquisición, destino o enajenación de los bienes inmuebles del Instituto, así como intervenir en los asuntos de los que se deriven derechos y obligaciones a cargo del mismo;
 
-Cuando se trate del delito de lesiones y el ofendido no hubiere sanado en el término señalado en el artículo anterior, se entenderá prorrogado éste, para el solo efecto de que los peritos médicos emitan su dictamen sobre el resultado seguro, o al menos probable, de dichas lesiones.
+XVII. Supervisar los actos y operaciones que requieran la formalización ante fedatario público e inscripción de los mismos ante el Registro Público de la Propiedad y del Comercio de cada Entidad Federativa, excepto los relacionados con el FOVISSSTE, así como autorizar el pago de los honorarios correspondientes a los notarios públicos;
 
-###### Artículo 223.
+XVIII. Enajenar los bienes inmuebles reserva territorial del FOVISSSTE que no tengan utilidad institucional, debiendo reintegrar al mismo el producto de la venta, cuando el bien hubiere sido adquirido o financiado con las aportaciones a que se refiere el artículo 168 de la Ley;
 
-Cuando a juicio de las partes esté agotada la averiguación por haberse practicado, en lo que fuere posible, las diligencias solicitadas por las mismas o decretadas por el Juez, éste mandará poner la causa a la vista de aquéllas para que promuevan, dentro de cinco días, las pruebas que estimen pertinentes, y que puedan practicarse en el término de quince días.
+XIX. Otorgar o revocar los poderes generales, limitados y especiales de representación del Instituto para actos de administración, pleitos y cobranzas y actos de dominio, a favor de los servidores públicos del Instituto que así lo requieran en el ámbito de sus atribuciones, cuando así lo instruya el Director General;
 
-###### Artículo 224.
+XX. Formular los convenios de incorporación, continuación voluntaria y reconocimiento de antigüedad a que se refiere la Ley;
 
-Si alguna o algunas de las pruebas ofrecidas legalmente en el primero de los términos mencionados, en el artículo que antecede, no pudiere ser concluida en el segundo, por causas ajenas a la voluntad del promovente, el Juez concederá un término supletorio hasta de treinta días, para que sean desahogadas aquéllas.
+XXI. Coadyuvar en la elaboración y autorización de los dictámenes jurídicos de incobrabilidad de las Unidades Administrativas Centrales del Instituto;
 
-###### Artículo 225.
+XXII. Presidir el Comité de Mejora Regulatoria Interna, así como promover la adecuada atención y resolución de sus asuntos, sin perjuicio de la facultad para delegar esta función; y,
 
-Transcurridos los términos a que se refiere el artículo anterior, o recibidas las pruebas ofrecidas en tiempo, o si no se hubiere promovido prueba alguna, el Juez declarará cerrada la instrucción y mandará poner la causa a la vista del Ministerio Público, para que dentro de tres días formule sus conclusiones.
+XXIII. Las demás que le confieran el presente Estatuto y la normatividad aplicable, así como las que le asigne el Director General.
 
-###### Artículo 226.
+#### SECCION SEPTIMA. De la Dirección de Delegaciones
 
-Si el expediente excediere de cincuenta fojas, por cada veinticinco de exceso o fracción, se aumentará un día al término señalado en el artículo anterior, sin que en ningún caso pueda exceder de quince días.
+###### ARTICULO 61.
 
-###### Artículo 227.
+La Dirección de Delegaciones tendrá las funciones siguientes:
 
-EL Ministerio Público al formular sus conclusiones, hará una exposición breve y metódica de los hechos conducentes, propondrá las cuestiones de derecho que de ellos surjan, citará las leyes, ejecutorias o doctrinas aplicables y terminará su pedimento en proposiciones concretas, fijando con exactitud los hechos delictuosos que se atribuyan al acusado y solicitando la aplicación de las sanciones correspondientes.
+I. Contribuir en la implantación de las políticas, estrategias y líneas de acción que establezca el Director General para el funcionamiento de las Delegaciones;
 
-###### Artículo 228.
+II. Proponer al Director General, para su presentación ante la Junta, el Reglamento Orgánico de las Delegaciones Estatales y Regionales del Instituto, así como sus reformas y adiciones;
 
-Recibidas las conclusiones acusatorias del Ministerio Público, se dará vista de ellas y de la causa a la Defensa, por el mismo tiempo que al Ministerio Público, para que, a su vez, formule las conclusiones que crea convenientes.
+III. Apoyar a las Unidades Administrativas Centrales y Desconcentradas en su relación con las Delegaciones, y dar seguimiento al cumplimiento de los compromisos de intercambio de información entre ambos niveles de administración para el mejor desarrollo de sus actividades;
 
-###### Artículo 229.
+IV. Evaluar con las Unidades Administrativas Centrales y Desconcentradas la operación administrativa, técnica y financiera de las Delegaciones, de acuerdo con las disposiciones relativas;
 
-La Defensa podrá presentar sus conclusiones por escrito o formularlas en comparecencia, sin sujeción a ninguna regla especial; y, en cualquier tiempo, hasta antes de que se declare visto el proceso, podrá modificarlas o retirarlas libremente.
+V. Auxiliar, en coordinación con la Dirección de Finanzas, a las Delegaciones en la elaboración de los anteproyectos y proyectos de sus programas de presupuesto, así como emitir opinión sobre las solicitudes de ampliación presupuestal que presenten las mismas;
 
-###### Artículo 230.
+VI. Auxiliar a las Delegaciones en la elaboración, propuesta y cumplimiento de los proyectos de gestión;
 
-Si la Defensa no formulare sus conclusiones en el término que para ello se le hubiere concedido, se tendrán por formuladas las de inculpabilidad.
+VII. Proponer y promover, previa aprobación del Director General, los criterios y lineamientos para la coordinación de las Delegaciones con las representaciones federales en las Entidades Federativas;
 
-###### Artículo 231.
+VIII. Conocer de las auditorías que efectúe el Organo Interno de Control a las Delegaciones y apoyar a éstas en la atención de las observaciones y/o recomendaciones derivadas de las mismas;
 
-Las conclusiones del Ministerio Público sólo pueden modificarse por causas supervenientes y en beneficio del acusado.
+IX. Participar en la organización de las giras de trabajo que realice el Director General a las Delegaciones, manteniéndole permanentemente informado sobre la situación operativa, los programas más relevantes y la problemática particular que corresponda;
 
-###### Artículo 232.
+X. Coordinar las reuniones de Delegados Estatales y Regionales que se efectúen, así como concertar la participación de las Unidades Administrativas Centrales y Desconcentradas del Instituto en las mismas, informando de sus resultados al Director General;
 
-Cuando el Ministerio Público no formule acusación, o al formularla no comprendan sus conclusiones algún delito que resulte probado en la instrucción, u omitiere alguna circunstancia que a virtud de algún precepto especial de la ley aumente o disminuya notablemente la penalidad, el Juez remitirá el proceso al Procurador General de Justicia, para que confirme o modifique las conclusiones; y son aplicables en este supuesto, las siguientes disposiciones:
+XI. Participar en las visitas de supervisión y evaluación que realiza la Comisión de Vigilancia a las Delegaciones del Instituto y efectuar el seguimiento a los compromisos que establezca dicho Organo;
 
-I.- Si el Procurador confirma las conclusiones de no acusación, el Juez sobreseerá la causa y ordenará la inmediata libertad del acusado, si estuviere detenido, o la cancelación de la caución que garantice su libertad provisional, archivándose el expediente.
+XII. Proponer ante las instancias correspondientes del Instituto la actualización de los instrumentos jurídico-normativos que rigen la operación de las Delegaciones;
 
-> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
+XIII. Coadyuvar con la Dirección Jurídica en la ejecución de laudos, resoluciones y sentencias derivadas de acciones en contra del Instituto, así como de las sanciones aplicadas por acciones u omisiones por parte de los servidores públicos adscritos a las Delegaciones, informando de ello al Director General; y,
 
-II.- El auto de sobreseimiento producirá los mismos efectos que una sentencia absolutoria.
+XIV. Las demás que le confieran el presente Estatuto y la normatividad aplicable, así como las que le asigne el Director General.
 
-III.- Cuando las conclusiones sean modificadas, se tomará como base de la acusación, la resolución del Procurador.
+#### SECCION OCTAVA. De la Dirección de Tecnología y Desarrollo Institucional
 
-###### Artículo 62.
+###### ARTICULO 62.
 
-Las querellas se rigen además por los siguientes preceptos:
+La Dirección de Tecnología y Desarrollo Institucional tendrá las siguientes funciones:
 
-I.- Cuando el ofendido sea menor de edad puede querellarse por sí mismo, y cuando a su nombre lo haga otra persona, surtirá sus efectos la querella, si no hay oposición del ofendido, a menos de que haya indicio de que éste se opone por presión, amenaza o engaño, en cuyo caso se tendrá por legalmente presentada la querella para iniciar la averiguación.
+I. Proponer y promover las políticas, estrategias y líneas de acción necesarias para la transformación y el desarrollo institucional, impulsando la modernización integral de los sistemas, tecnologías, estructuras y procesos del Instituto y de sus Unidades Administrativas;
 
-II.- El querellante que se hubiese desistido de su querella necesaria, no podrá renovarla sobre el mismo hecho delictuoso.
+II. Representar al Instituto y a sus Unidades Administrativas ante las dependencias globalizadoras relacionadas con el desarrollo tecnológico, la innovación gubernamental y el desarrollo institucional, coordinando los programas establecidos en esta materia dentro de la Administración Pública Federal, así como los que le sean encomendados por el Director General;
 
-III.- Sólo se admitirán las querellas por medio de apoderado, cuando éste tenga poder con cláusula especial, o instrucciones concretas de su mandante para el caso.
+III. Planear, normar, administrar e impulsar el desarrollo de las tecnologías de la información y de las comunicaciones y telecomunicaciones del Instituto, así como la provisión de estos servicios a sus Unidades Administrativas, con enfoques que auspicien la integración institucional, el enlace directo con la derechohabiencia y la mayor eficiencia de las operaciones y servicios;
 
-IV.- Cuando una persona jurídica se querelle, lo hará precisamente por medio de la persona que legítimamente la represente.
+IV. Establecer los lineamientos de coordinación y operación a que deberán sujetarse las áreas de informática y de comunicaciones de las Unidades Administrativas que cuenten con ellos, orientando y dictaminando técnicamente los proyectos de desarrollo y equipamiento que requieran;
 
-#### SECCION SEGUNDA.- JUICIO
+V. Desarrollar, operar y soportar técnicamente los sistemas de información, bases de datos, registros electrónicos y digitales, procesos de intercambio y medios de acreditación que previene la Ley, dentro del marco de un Plan Rector de Reingeniería y Automatización de Procesos que coordinará y supervisará en el Instituto y en el conjunto de sus Unidades Administrativas, consolidando los requerimientos de adquisiciones y servicios que sean necesarios en estas materias;
 
-> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
+VI. Revisar integralmente, en el Instituto y en el conjunto de sus Unidades Administrativas, la totalidad de las operaciones y procesos que se desarrollan para brindar las prestaciones, seguros y servicios a la derechohabiencia, coordinando la adecuación y reingeniería de los mismos para garantizar su idoneidad, congruencia y racionalidad, así como la simplificación y mejora de regulaciones, procedimientos y trámites;
 
-###### Artículo 233.
+VII. Participar en los órganos colegiados y programas de mejora regulatoria, sistematización normativa y desregulación del Instituto;
 
-El mismo día en que la defensa presente sus conclusiones o en que, conforme al artículo 230, se tengan por formuladas las de inculpabilidad, el Juez citará a las partes para la audiencia en que deberá verse el proceso, la cual se celebrará dentro de los cinco días siguientes al auto de citación.
+VIII. Coadyuvar en la implementación y evaluación de los programas y acciones para la mejora continua de servicios en el Instituto y de la calidad de la atención que sus Unidades Administrativas brindan a la derechohabiencia;
 
-###### Artículo 234.
+IX. Coordinar el diseño, la definición y la implementación de estándares de calidad en los procesos y acciones del Instituto, así como los programas destinados a la certificación de sus Unidades y áreas, coadyuvando con la Dirección de Finanzas y con la Dirección de Administración en la integración e implementación del sistema institucional de indicadores de desempeño, tanto para las áreas prestadoras de servicios como para el personal que labora en ellas;
 
-Son aplicables a la audiencia de vista del proceso, las siguientes disposiciones:
+X. Planear, normar, coordinar y desarrollar los estudios y acciones necesarias para modernizar y adecuar las estructuras orgánicas del Instituto y de sus Unidades Administrativas, promoviendo la racionalidad, congruencia y eficiencia de las mismas;
 
-I.- Se verificará la audiencia concurran o no las partes, salvo el Ministerio Público, que no podrá dejar de asistir a ella.
+XI. Dictaminar, en coordinación con la Dirección Jurídica, los proyectos de normatividad orgánica, manuales de organización y manuales de procedimientos del Instituto y de sus Unidades Administrativas Centrales y Desconcentradas, sometiéndolos a consideración del Director General y llevando el registro de los que sean emitidos;
 
-II.- Si el defensor fuere particular y no asistiere a la audiencia sin contar para ello con la autorización expresa del acusado, se impondrá a aquél una corrección disciplinaria.
+XII. Coordinar y dictaminar las solicitudes de estudios y proyectos de consultoría que requieran las Unidades Administrativas del Instituto para efectos del mejoramiento de servicios y el desarrollo institucional, integrando y evaluando el programa anual correspondiente; y,
 
-III.- Se nombrará al acusado un defensor de oficio, salvo lo dispuesto en la fracción siguiente.
+XIII. Las demás que le confieran el presente Estatuto y la normatividad aplicable, así como las que le asigne el Director General.
 
-IV.- Si el acusado está presente y designa a otra persona para que continúe su defensa en la propia audiencia, se tendrá a esa persona como su defensor.
+#### SECCION NOVENA. De la Dirección de Comunicación Social
 
-V.- Podrán interrogar al acusado sobre los hechos materia del proceso, el Juez, el Ministerio Público y la Defensa.
+###### ARTICULO 63.
 
-VI.- Podrán repetirse las diligencias de prueba que se hubieren practicado durante la instrucción, si fuere necesario y posible, a juicio del Juez, y las partes lo hubieren solicitado a mas tardar el día siguiente al en que se les notificó el auto de citación para la audiencia.
+La Dirección de Comunicación Social tendrá las funciones siguientes:
 
-VII.- Se leerán las constancias que las partes soliciten y que el Juez estime conducentes, incluyéndose necesariamente entre ellas, las conclusiones del Ministerio Público y del Defensor.
+I. Planear, coordinar, diseñar y evaluar las actividades de información, publicidad, difusión y relaciones públicas del Instituto;
 
-VIII.- Concluida la lectura se oirán los alegatos del Ministerio Público y del Defensor.
+II. Emitir las disposiciones normativas que en materia de comunicación social deberán observar las Unidades Administrativas del Instituto, de conformidad con las instrucciones del Director General;
 
-IX.- El ofendido o su representante legal podrán hacer uso de la palabra a continuación del Ministerio Público.
+III. Formular e integrar los programas de información, publicidad, difusión y relaciones públicas del Instituto, así como dirigir y brindar los servicios de apoyo que sus Unidades Administrativas requieran en estas materias, de conformidad con las disposiciones aplicables;
 
-X.- El acusado hablará al último, si quiere hacerlo.
+IV. Definir, producir y realizar las campañas de difusión y publicidad de interés para el Instituto, así como los medios de comunicación que se utilizarán para su ejecución;
 
-XI.- Finalmente, el Juez que presida la audiencia declarará visto el proceso, con lo que terminará la audiencia.
+V. Organizar entrevistas y conferencias con los medios de comunicación para informar acerca de las actividades institucionales, así como emitir boletines y demás materiales sobre las mismas;
 
-XII.- La declaración precitada surtirá los efectos de citación para sentencia, la cual se pronunciará en seis días.
+VI. Coordinar a las Unidades Administrativas Centrales y Desconcentradas en el diseño de campañas y en el manejo de la información institucional, vigilando que éstas se apeguen a las directrices y las disposiciones normativas en materia de comunicación emitidas por el Gobierno Federal y la Dirección General del Instituto;
 
-###### Artículo 63.
+VII. Editar y distribuir libros, revistas y demás publicaciones del Instituto en apego a la normatividad aplicable;
 
-No se admitirá la intervención de apoderado jurídico para la presentación de denuncias.
+VIII. Coadyuvar con la Dirección de Tecnología y Desarrollo Institucional en el diseño, administración y actualización del portal y la página de Internet del Instituto, difundiendo a través de ellos materiales relevantes para la derechohabiencia y los ciudadanos en general;
+
+IX. Diseñar y producir los medios y materiales de comunicación interna que sean necesarios para el enlace y la difusión de actividades entre las Unidades Administrativas del Instituto, así como síntesis informativas relativas a notas y temas relevantes publicadas en los medios de comunicación;
+
+X. Coordinar a las áreas de diseño gráfico del Instituto, ofreciendo este servicio a las Unidades Administrativas que así lo requieran; y,
+
+XI. Las demás que le confieran el presente Estatuto y la normatividad aplicable, así como las que le asigne el Director General.
 
 ### CAPITULO TERCERO. De las Unidades Administrativas Desconcentradas
 
-#### SECCION TERCERA.- PROCEDIMIENTO RELATIVO A DELITOS QUE MERECEN SANCION MENOR DE SEIS MESES DE PRISION
+#### SECCION PRIMERA. Del FOVISSSTE
 
-###### Artículo 235.
+###### ARTICULO 64.
 
-Si el delito que motive la averiguación merece como sanción, prisión que no exceda de seis meses o sólo multa, suspensión o inhabilitación, se aplicarán las siguientes disposiciones:
+El FOVISSSTE tiene por objeto administrar y operar el Fondo de la Vivienda del Instituto, de acuerdo con lo establecido en la Ley.
 
-I.- Tan pronto como el Juez reciba la consignación, practique la averiguación y dicte, si procede, el auto de formal prisión, o de sujeción a proceso, instruirá la causa en un término que no exceda de treinta días, dentro del cual, en forma sumaria, practicará las diligencias conducentes al esclarecimiento de los hechos, en relación con la comprobación del cuerpo del delito, el daño causado y la responsabilidad o irresponsabilidad del acusado.
+###### ARTICULO 65.
 
-II.- Dentro del término establecido en la fracción anterior se recibirán las pruebas que soliciten las partes.
+Son funciones del Vocal Ejecutivo del FOVISSSTE:
 
-III.- Al concluir el término a que se refiere la fracción I anterior, el Juez citará a las partes a una audiencia que se verificará dentro de tres días y a la que necesariamente concurrirán el Ministerio Público y el Defensor.
+I. Asistir a las sesiones de la Junta con voz, pero sin voto, para informar de los asuntos relacionados con el FOVISSSTE;
 
-IV.- Si el defensor no concurre a la audiencia mencionada en la fracción anterior, será substituido, por uno de oficio, sin perjuicio de aplicar a aquél la corrección disciplinaria que fuere conducente.
+II. Ejecutar los acuerdos de la Junta y de la Comisión Ejecutiva del FOVISSSTE en relación con el propio Fondo;
 
-V.- En la audiencia citada por el Juez, la Secretaría hará relación sucinta de las constancias procesales y leerá las que las partes soliciten.
+III. Convocar a las sesiones de la Comisión Ejecutiva del FOVISSSTE y presidir las mismas en ausencia del Director General;
 
-VI.- El Ministerio Público formulará en la misma audiencia sus conclusiones y el Defensor las que le correspondan.
+IV. Presentar a la Comisión Ejecutiva del FOVISSSTE, en las sesiones correspondientes, un informe bimestral sobre las actividades del propio Fondo;
 
-VII.- Se concederá la palabra a las partes para sostener sus puntos de vista, pudiendo hablar al último el mismo acusado, si hubiere concurrido a la audiencia.
+V. Presentar a la Comisión Ejecutiva del FOVISSSTE, para su consideración y, en su caso, aprobación y posterior presentación a la Junta:
 
-VIII.- A continuación, el Juez dictará en la propia audiencia, la sentencia que corresponda contra la cual no se admite recurso alguno.
+a) Los estados financieros y el informe de actividades del ejercicio anterior, en los primeros dos meses de cada año;
 
-###### Artículo 236.
+b) Los presupuestos de ingresos y egresos, el presupuesto de gastos de administración, operación y vigilancia y los programas operativos, de financiamiento y de crédito para el año siguiente, a más tardar en el mes de septiembre de cada año;
 
-Si las conclusiones del Ministerio Público fueren de no acusación, se sobreseerá la causa y se pondrá en inmediata libertad al acusado.
+c) Un programa financiero relativo a los dos años siguientes, en los dos últimos meses de cada año; y,
 
-###### Artículo 237.
+d) En coordinación con la Dirección de Finanzas del Instituto, los estudios financieros y actuariales necesarios para determinar las Reservas que deban constituirse para asegurar la operación del Fondo y el cumplimiento de su objeto, informando a la Secretaría de Hacienda y Crédito Público.
 
-En los casos a que este Capítulo se refiere, la identificación del acusado se hará sólo si la sentencia definitiva le impone sanción privativa de libertad.
+VI. Proponer al Director General, para su presentación ante la Junta, el Reglamento Orgánico del FOVISSSTE, así como sus reformas y adiciones;
 
-###### Artículo 64.
+VII. Presidir los comités u órganos técnicos colegiados del FOVISSSTE;
 
-En los casos de querella necesaria, antes de practicar las primeras diligencias, se tomarán las providencias siguientes:
+VIII. Planear, operar y controlar los sistemas de otorgamiento de crédito y de registro y recuperación de adeudos por los créditos otorgados con cargo al Fondo de la Vivienda;
 
-I.- Hacer saber al querellante las sanciones en que incurra si se produce con falsedad;
+IX. Evaluar y registrar la oferta de vivienda para ser adquirida o construida, mediante créditos otorgados a los derechohabientes;
 
-II.- Asentar los datos necesarios para la identificación del querellante, sobre los cuales se contará, en todo caso, la impresión de la huella digital al pie del escrito o al margen del acta; y,
+X. Dar trámite, dictaminar y autorizar las solicitudes de crédito para vivienda, así como calcular el monto y plazo del crédito correspondiente, conforme a lo previsto en el programa a que se refiere la fracción V de este artículo, a las reglas para el otorgamiento de créditos que expida la Junta y a las políticas de crédito que emita la Comisión Ejecutiva, sin perjuicio de delegar o encomendar mediante mandato expresamente estas facultades, informando periódicamente lo que corresponda a la Comisión Ejecutiva del FOVISSSTE;
 
-III.- Comprobar la personalidad del querellante cuando éste no sea el ofendido y comparezca en representación de otra persona.
+XI. Autorizar las solicitudes de devolución de depósitos, informando a la Comisión Ejecutiva sobre lo realizado, así como dictaminar la liberación de los acreditados o sus beneficiarios de las obligaciones crediticias con motivo de invalidez, incapacidad total permanente o muerte, conforme a lo previsto en el artículo 182 de la Ley;
 
-###### Artículo 65.
+XII. Suscribir los convenios y contratos que sean necesarios para el cumplimiento del objeto del FOVISSSTE, y cancelar los gravámenes correspondientes una vez liquidado el saldo de los créditos, sin perjuicio de otorgar los poderes necesarios para llevar a cabo dichos actos, con apego a las disposiciones y a las políticas institucionales aplicables;
 
-Tan pronto como el Ministerio Público tenga conocimiento de un delito que se persigue de oficio, levantará acta en la que se consignarán:
+XIII. Supervisar los actos y operaciones en materia de vivienda que requieran la formalización ante fedatario público e inscripción de los mismos ante el Registro Público de la Propiedad y del Comercio de la entidad federativa que corresponda, así como autorizar el pago de los honorarios respectivos a los notarios públicos;
 
-I.- El parte de policía, o en su caso, la denuncia que se haya hecho, asentando minuciosamente todos los datos proporcionados;
+XIV. Coordinar las acciones para la regularización o municipalización de los conjuntos habitacionales financiados con cargo al FOVISSSTE;
 
-II.- Las pruebas que suministren las personas que rindan el parte o hagan la denuncia, así como las que se refieran a la existencia del delito y a la responsabilidad de los que, de algún modo, participaren en la comisión del mismo; y,
+XV. Promover la constitución de regímenes de propiedad y condominio de los conjuntos habitacionales financiados con cargo al FOVISSSTE;
 
-III.- Las medidas que dictare para completar la investigación, así como todas las observaciones que se recogieren acerca del delincuente y de las modalidades empleadas al cometer el delito.
+XVI. Planear, desarrollar y operar los sistemas de administración, finanzas, contabilidad, servicios jurídicos, información, comunicaciones y demás que se requieran en los procesos y actividades del FOVISSSTE, de conformidad con el presupuesto autorizado y observando las políticas y normas que para ello establezcan las Unidades Administrativas Centrales del Instituto;
 
-> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
+XVII. Proponer y aplicar, de conformidad con la delegación de facultades que acuerde el Director General, los nombramientos y remociones del personal directivo y de los trabajadores de base y de confianza del FOVISSSTE; y,
 
-#### SECCION CUARTA.- PROCEDIMIENTO RELATIVO A LOS ENFERMOS MENTALES
+XVIII. Las demás que le confieran el presente Estatuto y la normatividad aplicable, así como las que le asigne el Director General.
 
-###### Artículo 238.
+#### SECCION SEGUNDA. Del PENSIONISSSTE
 
-Cuando se sospeche que el acusado se encuentra comprendido en lo dispuesto en el artículo 57 del Código de Defensa Social, el Juez o la Sala ordenarán sea examinado por peritos médicos, para que éstos dictaminen sobre el estado del acusado y la necesidad de su reclusión en una casa de salud.
+###### ARTICULO 66.
 
-> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
+El PENSIONISSSTE tiene por objeto administrar las cuentas individuales de los trabajadores afiliados al Instituto e invertir los recursos correspondientes a dichas cuentas, de conformidad con lo establecido en la Ley y la normatividad aplicable, a través de sus Sociedades de Inversión Especializadas de Fondos para el Retiro, excepto los del Fondo de la Vivienda, que serán invertidos por el FOVISSSTE.
 
-###### Artículo 239.
+###### ARTICULO 67.
 
-Si el dictamen pericial medico concluye que es necesario que el acusado sea internado en una casa de salud, cesará el procedimiento ordinario y se abrirá un procedimiento especial, en el que queda al recto criterio y la prudencia del Juez, la forma de investigar el delito que motiva la averiguación, la participación que en el mismo hubiere tenido el acusado y los datos relativos a la personalidad de este.
+Son funciones del Vocal Ejecutivo del PENSIONISSSTE:
 
-###### Artículo 240.
+I. Asistir a las sesiones de la Junta Directiva del Instituto con voz, pero sin voto, para informar de los asuntos relacionados con el PENSIONISSSTE;
 
-Si se comprueba la existencia del delito, y que en el tuvo participación el acusado, el Juez ordenará el Internamiento conforme a lo dispuesto por el Código de Defensa Social.
+II. Ejecutar los acuerdos de la Junta Directiva del Instituto y de la Comisión Ejecutiva del PENSIONISSSTE en relación con el propio Fondo;
 
-###### Artículo 241.
+III. Convocar a las sesiones de la Comisión Ejecutiva del PENSIONISSSTE y presidir las mismas, en ausencia del Director General;
 
-Para que el internamiento provisional pueda prolongarse por más de setenta y dos horas, deberá justificarse con un auto que se dicte cumpliendo lo dispuesto en el artículo 19 de la Constitución Política de los Estados Unidos Mexicanos.
+IV. Presentar a la Comisión Ejecutiva del PENSIONISSSTE, en las sesiones correspondientes, un informe bimestral sobre las actividades del propio Fondo;
 
-###### Artículo 242.
+V. Presentar a la Comisión Ejecutiva del PENSIONISSSTE, para su consideración y, en su caso, aprobación y posterior presentación a la Junta:
 
-EL Juez dará por terminada la reclusión, en los siguientes casos:
+a) El informe de actividades del ejercicio anterior, en los primeros dos meses de cada año;
 
-I.- Cuando no se compruebe la existencia del delito;
+b) Los estados financieros del Fondo, en los primeros cuatro meses de cada año;
 
-II.- Cuando aun estando demostrada la existencia del delito, no se compruebe que el acusado participó en el.
+c) Los presupuestos de ingresos y egresos, el presupuesto de gastos de administración, operación y vigilancia y los programas operativo y de inversión para el año siguiente, a más tardar en el mes de septiembre de cada año;
 
-###### Artículo 243.
+d) La estrategia de inversión de recursos, en los dos últimos meses de cada año;
 
-Al darse por terminada la reclusión, de acuerdo con lo dispuesto en el artículo anterior, se dará aviso a las autoridades administrativas competentes, para que dicten las medidas que procedan.
+e) La constitución de sociedades de inversión especializadas de fondos para el retiro; y,
 
-###### Artículo 244.
+f) En coordinación con la Dirección de Finanzas del Instituto, los estudios financieros y actuariales necesarios para determinar las Reservas que deban constituirse para asegurar la operación del Fondo y el cumplimiento de su objeto, informando a la Secretaría de Hacienda y Crédito Público.
 
-Durante el tiempo del internamiento, el Tribunal proveerá a la observancia de las medidas que hubiere dictado, las que podrá revocar o modificar oyendo al médico legista, al Ministerio Público y al defensor del acusado.
+VI. Proponer al Director General, para su presentación ante la Junta, el Reglamento Orgánico del PENSIONISSSTE, así como sus reformas y adiciones;
 
-###### Artículo 245.
+VII. Presidir los comités u órganos técnicos colegiados de PENSIONISSSTE y de las sociedades de inversión especializadas de fondos para el retiro administradas por éste;
 
-Cuando el Tribunal estime procedente entregar el acusado a la persona que ha de hacerse cargo de él, según la fracción I del artículo 61 del Código de Defensa Social, esta protestará el fiel desempeño de su cometido, debiendo comunicar al Juez, dentro de los tres días siguientes, cualquier alteración psíquica que sufriere el acusado, para que se tomen las medidas convenientes, con audiencia del médico legista.
+VIII. Coordinar y dirigir las actividades técnicas y operativas para la administración de las cuentas individuales de los trabajadores, así como para la inversión de los recursos depositados en éstas, conforme a la normatividad aplicable al Sistema de Ahorro para el Retiro;
 
-###### Artículo 246.
+IX. Suscribir los convenios y contratos que sean necesarios para el cumplimiento del objeto del PENSIONISSSTE, sin perjuicio de otorgar los poderes necesarios para llevar a cabo dichos actos, con apego a las disposiciones y a las políticas institucionales aplicables;
 
-Si la persona que se hace cargo del enfermo, no rinde oportunamente los informes a que se refiere el artículo anterior, el Juez le impondrá, tan pronto como advierta el incumplimiento, una multa de treinta días de salario mínimo, que se duplicará en caso de reincidencia.
+X. Planear, desarrollar y operar los sistemas de administración, finanzas, contabilidad, servicios jurídicos, información, comunicaciones y demás que se requieran en los procesos y actividades del PENSIONISSSTE, de conformidad con el presupuesto autorizado y observando las políticas y normas que para ello establezcan las Unidades Administrativas Centrales del Instituto;
 
-###### Artículo 247.
+XI. Proponer y aplicar, de conformidad con la delegación de facultades que acuerde el Director General, los nombramientos y remociones del personal directivo y de los trabajadores de base y de confianza del PENSIONISSSTE; y,
 
-Cuando en el curso del proceso el acusado sufra alguna de las incapacidades previstas en el artículo 57 del Código de Defensa Social, se decretará la suspensión del procedimiento previas las formalidades señaladas en los dos artículos que anteceden, y se remitirá el incapacitado a la casa de salud o a un departamento especial.
+XII. Las demás que le confieran el presente Estatuto y la normatividad aplicable, así como las que le asigne el Director General.
 
-###### Artículo 248.
+#### SECCION TERCERA. Del SuperISSSTE
 
-Si, en los casos a que este Capítulo se refiere, sobreviniere la curación del acusado, este será reingresado al lugar, en que se encontraba recluido, reanudándose el procedimiento respectivo.
+###### ARTICULO 68.
 
-> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
+El SuperISSSTE tiene por objeto planear, normar, dirigir y realizar los programas y servicios de apoyo para la adquisición de productos básicos y de consumo para el hogar que establece la Ley, para lo que desarrollará, en beneficio de la derechohabiencia y el público en general:
 
-###### Artículo 249.
+I. La venta de productos básicos y bienes de consumo, así como de medicamentos y materiales de curación a los mejores precios posibles en relación con las condiciones vigentes en el mercado;
 
-La vigilancia del incapacitado estará a cargo de la Autoridad Administrativa, salvo lo que dispone el artículo 61 fracción I del Código de Defensa Social.
+II. La concertación y realización de programas de comercialización y acceso a bienes y productos en condiciones y precios preferentes; y,
 
-###### Artículo 66.
+III. La organización de sistemas y mecanismos de crédito al consumo, aprovechando en primer lugar las capacidades financieras y operativas del Instituto.
 
-El Ministerio Público, o la autoridad que actuare en auxilio de éste, al iniciar sus procedimientos deberá:
+###### ARTICULO 69.
 
-> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
+Para su administración y funcionamiento, el SuperISSSTE contará con un Consejo Directivo, que se integrará conforme lo disponga el Reglamento Orgánico y será presidido por el Director General o, en sus ausencias, por el Director del SuperISSSTE, con las siguientes atribuciones:
 
-I.- Trasladarse al lugar de los hechos para dar fe de las personas y de las cosas a quienes hubiere afectado el hecho delictuoso;
+I. Definir los objetivos a los que deberá sujetarse el SuperISSSTE en cuanto a productividad, comercialización, finanzas, desarrollo tecnológico y administración en general;
 
-II.- Tomar los datos de quienes hubiesen presenciado el hecho delictuoso, procurando que declaren en el mismo lugar de los hechos, o en caso contrario, citándolos para que dentro de veinticuatro horas comparezcan a rendir su declaración.
+II. Conocer y, en su caso, aprobar, a propuesta del Director del SuperISSSTE:
 
-III.- Si no pudieren examinar a las personas a que se refiere la fracción anterior, prevenirles que concurran al Juzgado.
+a) Las políticas generales y las prioridades a que estará sujeto el desarrollo de las funciones del SuperISSSTE, vigilando que las mismas sean acordes con las políticas, prioridades y programas institucionales;
 
-###### Artículo 67.
+b) Las políticas de comercialización, inversión y administración que permitan obtener beneficios económicos y financieros con proveedores nacionales y extranjeros;
 
-El Ministerio Público y la Policía Judicial deberán, sin esperar orden judicial, proceder a la detención de los responsables de un delito:
+c) Las normas y políticas necesarias para asegurar el abasto oportuno de bienes de consumo y servicios en las unidades de venta, verificando que éstos se otorguen a los mejores precios posibles en relación con los vigentes en el mercado;
 
-I.- En caso de flagrante delito; y,
+d) El anteproyecto anual del presupuesto del SuperISSSTE y sus modificaciones, los cuales serán sometidos a la autorización de la Junta dentro del presupuesto del Instituto, quedando su ejercicio bajo la coordinación de las Direcciones de Finanzas y de Administración del Instituto;
 
-II.- En caso de notoria urgencia cuando no hubiere en el lugar autoridad judicial.
+e) Los programas anuales de compras de bienes y contratación de servicios, así como las ventas que se esperen lograr para garantizar el cumplimiento de los objetivos del SuperISSSTE durante el ejercicio fiscal de que se trate; y,
 
-#### SECCION QUINTA.- PROCEDIMIENTO SUMARIO
+f) El establecimiento, reubicación o supresión de centros de acopio, transporte y distribución, así como de unidades de venta del SuperISSSTE.
 
-###### Artículo 250.
+III. Aprobar los mecanismos de coordinación y colaboración institucionales, así como los de concertación con los sectores público, social y privado, para el cumplimiento de su objeto;
 
-El procedimiento sumario tiene por objeto la investigación y sanción de los delitos cuya pena máxima de prisión sea de cinco años.
+IV. Conocer los informes que le rinda el Director del SuperISSSTE y evaluar los resultados en materia de comercialización, operación y administración;
 
-###### Artículo 251.
+V. Aprobar la instalación de grupos de trabajo o comisiones, para apoyar las funciones del Consejo Directivo; y,
 
-Tan pronto como se ponga a disposición del Juez competente a un detenido, por un delito comprendido en lo dispuesto por el artículo anterior, el Juez le informará que puede juzgarlo:
+VI. Las demás que le confieran el presente Estatuto y la normatividad aplicable.
 
-I.- En el procedimiento relativo a delitos que merecen sanción menor de seis meses de prisión si éste es el caso, o
+###### ARTICULO 70.
 
-> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
+El Director del SuperISSSTE tendrá las funciones siguientes:
 
-II.- En el término establecido por el artículo 221, si el delito merece más de seis meses y hasta cinco años de prisión, o
+I. Asistir a las sesiones de la Junta Directiva del Instituto con voz, pero sin voto, para informar de los asuntos relacionados con el SuperISSSTE;
 
-III.- En el procedimiento sumario, reglamentado en esta sección.
+II. Planear, programar, normar, organizar y dirigir las funciones encomendadas al SuperISSSTE y las acciones necesarias para el cumplimiento de su objeto;
 
-###### Artículo 252.
+III. Proponer al Director General, para su presentación ante la Junta, el Reglamento Orgánico del SuperISSSTE, así como sus reformas y adiciones;
 
-Además de los informes a que se refiere el artículo anterior, el Juez explicará al acusado, en qué consisten cada uno de los tres procedimientos mencionados, y lo interrogará para que el propio acusado opte por uno de ellos.
+IV. Presentar al Consejo Directivo del SuperISSSTE las propuestas que conforme a este Estatuto y a la normatividad aplicable deba someterle, ejecutando sus acuerdos e informándole trimestralmente sobre su avance y cumplimiento;
 
-> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
+V. Formular y desarrollar las políticas que permitan elevar los niveles de competitividad en el desarrollo de la actividad comercial del SuperISSSTE, realizando los estudios e investigaciones necesarios para su mejoramiento;
 
-###### Artículo 253.
+VI. Coordinar la operación de las representaciones y unidades de venta de SuperISSSTE, conforme a las políticas, normas y lineamientos institucionales;
 
-Si el acusado opta por el procedimiento sumario, el Juez procederá inmediatamente a tomarle su declaración preparatoria, en la que se cumplirán las formalidades establecidas por los artículos 206 y siguientes.
+VII. Suscribir los convenios y contratos que sean necesarios para el cumplimiento del objeto del SuperISSSTE, sin perjuicio de otorgar los poderes necesarios para llevar a cabo dichos actos, con apego a las disposiciones y a las políticas institucionales aplicables;
 
-> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
+VIII. Certificar y expedir copias de los originales de los expedientes generados por faltantes en inventarios que superen la merma permitida u otros expedientes que se generen en inventarios de naturaleza diferente, atendiendo los procesos legales correspondientes;
 
-###### Artículo 254.
+IX. Planear, desarrollar y operar los sistemas de administración, finanzas, contabilidad, servicios jurídicos, información, comunicaciones y demás que se requieran en los procesos y actividades del SuperISSSTE, de conformidad con el presupuesto autorizado y observando las políticas y normas que para ello establezcan las Unidades Administrativas Centrales del Instituto;
 
-Concluida la declaración preparatoria se recibirán, a continuación, las pruebas que ofrezcan el Ministerio Público, el acusado y su defensor.
+X. Proponer y aplicar, de conformidad con la delegación de facultades que acuerde el Director General, los nombramientos y remociones del personal directivo y de los trabajadores de base y de confianza del SuperISSSTE; y,
 
-###### Artículo 255.
+XI. Las demás que le confieran el presente Estatuto y la normatividad aplicable, así como las que le asigne el Director General.
 
-Inmediatamente después de haberse desahogado las pruebas, el Juez decretará, en presencia de las partes, la formal prisión, la sujeción a proceso o en su caso libertad por falta de elementos para procesar.
+#### SECCION CUARTA. Del Sistema de Agencias Turísticas TURISSSTE
 
-> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2011)</small>
 
-###### Artículo 256.
+###### ARTICULO 71.
 
-A continuación y en la misma audiencia, se notificará a las partes el auto a que se refiere el artículo anterior y el Juez inmediatamente las requerirá, cuando dicho auto no sea de libertad, para que manifiesten si tienen alguna prueba que ofrecer.
+El Sistema de Agencias Turísticas TURISSSTE tiene por objeto planear, normar, dirigir y realizar los servicios turísticos que establece la Ley para beneficio de los derechohabientes.
 
-> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
+###### ARTICULO 72.
 
-###### Artículo 257.
+Para su administración y funcionamiento, el Sistema de Agencias Turísticas TURISSSTE contará con un Consejo Directivo, que se integrará conforme lo disponga el Reglamento Orgánico y será presidido por el Director General o, en sus ausencias, por el Director del Sistema de Agencias Turísticas TURISSSTE, con las siguientes atribuciones:
 
-Si alguna de las partes ofrece pruebas, el Juez ordenará recibir las que procedan en derecho.
+I. Definir los objetivos a los que deberá sujetarse el Sistema de Agencias Turísticas TURISSSTE en cuanto a productividad, comercialización, finanzas, desarrollo tecnológico y administración en general;
 
-###### Artículo 258.
+II. Conocer y, en su caso, aprobar, a propuesta del Director del Sistema de Agencias Turísticas TURISSSTE:
 
-Concluida la recepción de pruebas o cuando no se hubiere ofrecido ninguna, el Juez declarará cerrada la instrucción; y requerirá al Ministerio Público para que en el mismo acto formule las conclusiones que estime conducentes.
+a) Las políticas generales y las prioridades a que estará sujeto el desarrollo de las funciones del Sistema TURISSSTE, vigilando que las mismas sean acordes con las políticas, prioridades y programas institucionales;
 
-###### Artículo 259.
+b) Las normas y lineamientos para la operación de los programas en materia turística que ofrece el Instituto;
 
-Si las conclusiones del Ministerio Público son no acusatorias, se dará inmediata vista al Procurador General de Justicia para que en el perentorio término de veinticuatro horas, manifieste lo que a su presentación competa. Si el Procurador ratifica las conclusiones no acusatorias o si dentro del término indicado no contesta la vista, bajo su responsabilidad se sobreseerá el procedimiento.
+c) Los mecanismos de coordinación y colaboración institucionales, así como con los sectores públicos, social y privado, para el cumplimiento del objeto del Sistema TURISSSTE;
 
-###### Artículo 260.
+d) El anteproyecto anual de presupuesto del Sistema de Agencias Turísticas TURISSSTE y sus modificaciones, los cuales serán sometidos a la autorización de la Junta dentro del presupuesto del Instituto, quedando su ejercicio bajo la coordinación de las Direcciones de Finanzas y de Administración del Instituto;
 
-Si las conclusiones son acusatorias, el Juez requerirá a la defensa y al acusado para que manifiesten lo que a su derecho convenga y si no lo hacen se tendrán por formuladas conclusiones de inculpabilidad.
+e) El anteproyecto del programa operativo anual, que especificará los volúmenes de servicios que se pretenden otorgar, los ingresos que se obtendrán, así como las Agencias Turísticas TURISSSTE responsables de su cumplimiento, evaluando sus avances;
 
-###### Artículo 261.
+f) Las políticas de comercialización, inversión y administración que permitan obtener mejores condiciones económicas y financieras para la prestación de servicios turísticos; y,
 
-El Juez a continuación dictará sentencia, la que si es condenatoria hará al mismo tiempo la conmutación de la sanción de prisión, cuando esta proceda.
+g) El establecimiento, reubicación o supresión de Agencias Turísticas.
 
-> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
+III. Proponer estrategias tendentes al mejoramiento y solución de aspectos de orden técnico, administrativo y operacional, así como coadyuvar a su instrumentación;
 
-###### Artículo 262.
+IV. Conocer los informes que rinda el Director del Sistema de Agencias Turísticas TURISSSTE y evaluar los resultados en materia de prestación de servicios turísticos a los derechohabientes del Instituto;
 
-Contra las resoluciones dictadas en el procedimiento sumario no procede recurso alguno, sólo la sentencia definitiva será apelable y este recurso no suspende la ejecución de la sentencia apelada.
+V. Aprobar la instalación de grupos de trabajo o comisiones, para apoyar las funciones del Consejo Directivo; y,
 
-###### Artículo 263.
+VI. Las demás que le confieran el presente Estatuto y la normatividad aplicable.
 
-Todas las actuaciones en el procedimiento sumario se practicarán a continuación unas de otras; se harán constar por escrito, asentándose únicamente lo sustancial de las mismas, para lo cual se hará un extracto de ellas y el procedimiento deberá terminarse en una sola audiencia, que únicamente podrá interrumpirse o diferirse por una vez, cuando sea absolutamente necesario, o cuando el procesado lo pida para preparar, ofrecer y desahogar las pruebas de él.
+###### ARTICULO 73.
 
-###### Artículo 264.
+El Director del Sistema de Agencias Turísticas TURISSSTE tendrá las funciones siguientes:
 
-En los delitos que merezcan una pena de prisión mayor de cinco años, cuando haya formal prisión del procesado, si éste, el defensor y el Ministerio Público manifiestan que no tienen ninguna prueba que rendir y el acusado lo solicitare, se le juzgará en el procedimiento sumario.
+I. Asistir a las sesiones de la Junta Directiva del Instituto con voz, pero sin voto, para informar de los asuntos relacionados con el Sistema de Agencias Turísticas TURISSSTE;
 
-###### Artículo 265.
+II. Planear, programar, normar, organizar y dirigir las funciones encomendadas al Sistema de Agencias Turísticas TURISSSTE y las acciones necesarias para el cumplimiento de su objeto;
 
-El proceso dejará de tramitarse como sumario, tan pronto manifieste el acusado no ser su voluntad seguir sometido a él y, en este caso, se continuará aplicando las disposiciones relativas al procedimiento común.
+III. Proponer al Director General, para su presentación ante la Junta, el Reglamento Orgánico del Sistema de Agencias Turísticas TURISSSTE, así como sus reformas y adiciones;
 
-###### Artículo 68.
+IV. Presentar al Consejo Directivo del Sistema las propuestas que conforme a este Estatuto y a la normatividad aplicable deba someterle, ejecutando sus acuerdos e informándole trimestralmente sobre su avance y cumplimiento;
 
-Se entiende que el delincuente es aprehendido en flagrante delito, cuando:
+V. Formular y desarrollar las políticas que permitan elevar los niveles de competitividad en el desarrollo de la actividad del Sistema de Agencias Turísticas TURISSSTE, realizando los estudios e investigaciones necesarios para su mejoramiento;
 
-I.- Es detenido en el momento de estarlo cometiendo;
+VI. Coordinar la operación de las Agencias TURISSSTE, conforme a las políticas, normas y lineamientos institucionales;
 
-II.- Después de ejecutar el acto delictuoso, es materialmente perseguido sin interrupción hasta lograr su captura;
+VII. Suscribir los convenios y contratos que sean necesarios para el cumplimiento del objeto del Sistema de Agencias Turísticas TURISSSTE, sin perjuicio de otorgar los poderes necesarios para llevar a cabo dichos actos, con apego a las disposiciones y a las políticas institucionales aplicables;
 
-III.- En el momento de haberlo cometido, alguien lo señala como responsable del delito y se encuentra en su poder el objeto o el instrumento del mismo, o presente huellas o indicios que hagan presumir fundadamente su responsabilidad.
+VIII. Planear, desarrollar y operar los sistemas de administración, finanzas, contabilidad, servicios jurídicos, información, comunicaciones y demás que se requieran en los procesos y actividades del Sistema de Agencias Turísticas TURISSSTE, de conformidad con el presupuesto autorizado y observando las políticas y normas que para ello establezcan las Unidades Administrativas Centrales del Instituto;
 
-###### Artículo 69.
+IX. Proponer y aplicar, de conformidad con la delegación de facultades que acuerde el Director General, los nombramientos y remociones del personal directivo y de los trabajadores de base y de confianza del Sistema de Agencias Turísticas TURISSSTE; y,
 
-Se entiende que no hay autoridad judicial en el lugar y existe notoria urgencia para la aprehensión del delincuente, cuando por la hora o por la distancia del lugar donde se practique la detención, no hay ninguna autoridad judicial que pueda expedir la orden correspondiente, y exista temor fundado de que el responsable por la comisión de un delito que se persiga de oficio, se sustraiga a la acción de la justicia.
+X. Las demás que le confieran el presente Estatuto y la normatividad aplicable, así como las que le asigne el Director General.
 
-###### Artículo 70.
+#### SECCION QUINTA. Del Centro Médico Nacional "20 de Noviembre" y de los Hospitales Regionales
 
-Cuando el presunto responsable fuere aprehendido, se observarán las siguientes formalidades y se tomarán las providencias que a continuación se expresan:
+###### ARTICULO 74.
 
-I.- Se hará constar la fecha, lugar y hora de su detención y se le tomará su declaración;
+El Centro Médico Nacional “20 de Noviembre” y los Hospitales Regionales tienen por objeto, respectivamente, otorgar atención médica de alta especialidad y de tercer nivel a la derechohabiencia del Instituto, siendo las unidades médicas de más alto rango técnico, resolutivo y operativo dentro del sistema institucional de servicios de salud.
 
-II.- Se le recogerán los objetos que se relacionen con el delito y aquéllos que no deben dejársele en su poder, por temor de que se pierdan o porque se estime inconveniente que los conserve, expidiéndole un recibo en que se especificarán los objetos recogidos, y agregándose al acta un duplicado de este recibo, que deberá firmar de conformidad el detenido;
+###### ARTICULO 75.
 
-III.- Se le hará saber el derecho que tiene para nombrar defensor;
+Para su administración y funcionamiento, el Centro Médico Nacional “20 de Noviembre” y cada uno de los Hospitales Regionales contarán con un Consejo Directivo, que se integrará conforme lo señale el Reglamento Orgánico correspondiente y será presidido por el Director General, quien será suplido en sus ausencias por el Director Médico del Instituto.
 
-IV.- Si el presunto responsable nombra defensor, previa protesta otorgada ante los funcionarios del Ministerio Público o de la Policía Judicial, entrará al desempeño de su cometido, tomándose debida nota de las promociones que hiciere para que en su oportunidad, el Juez que conozca del asunto resuelva aquellas que no hubieren podido resolver los funcionarios del Ministerio Público o de la Policía Judicial, por no ser de su incumbencia;
+En los Consejos Directivos de los Hospitales Regionales participarán los Delegados del Instituto en las demarcaciones cubiertas por los servicios que, a nivel regional, brinda cada uno de ellos.
 
-V.- Si el detenido no nombra defensor, la autoridad que practique la averiguación le nombrará un defensor de oficio;
+###### ARTICULO 76.
 
-VI.- Se tomarán las generales del detenido;
+Los Consejos Directivos del Centro Médico Nacional “20 de Noviembre” y de los Hospitales Regionales tendrán respecto de dichas Unidades Administrativas Desconcentradas las siguientes atribuciones:
 
-VII.- Se permitirá que el detenido se comunique telefónica, telegráficamente o por escrito con la persona que el indique, y se le hará saber la existencia de este derecho para que pueda ejercitarlo;
+I. Alinear y aprobar las políticas generales y las prioridades a que estarán sujetos, en relación a su productividad, su desempeño, la calidad de sus servicios, la aplicación financiera y el proceso administrativo, en congruencia con el Programa Nacional de Salud y las políticas y prioridades institucionales;
 
-VIII.- El médico o practicante de guardia emitirá un dictamen provisional acerca del estado psicofisiológico del detenido;
+II. Proponer y coadyuvar al desarrollo de estrategias tendientes al mejoramiento y la resolución de aspectos de orden técnico, administrativo y operacional, considerando las propuestas que formulen sus Directores en cuanto a:
 
-IX.- Será puesto en el término de veinticuatro horas a disposición de la autoridad judicial competente, a quién se remitirá el acta levantada.
+a) Las políticas generales y las prioridades en materia asistencial, académica y de investigación;
 
-#### SECCION PRIMERA.- SENTENCIA EJECUTORIA
+b) La definición de los programas de enseñanza e investigación;
 
-###### Artículo 266.
+c) Las estrategias para el mejoramiento técnico, científico y del proceso asistencial;
 
-Son irrevocables y por tanto causan ejecutoria:
+d) El asesoramiento en asuntos de carácter científico-académico;
 
-I.- Las sentencias pronunciadas en primera instancia y demás resoluciones que hayan sido consentidas expresamente;
+e) La evaluación y desarrollo de tecnología de vanguardia que coadyuve a mejorar la calidad de la atención médica y el sistema de atención médica en general; y,
 
-II.- Las resoluciones que no fueren recurridas dentro del término legal;
+f) Las innovaciones requeridas para mejorar el modelo asistencial y el sistema de atención médica en general.
 
-III.- La sentencia de segunda instancia;
+III. Conocer y, en su caso, aprobar, a propuesta del Director de la unidad médica:
 
-IV.- Las resoluciones contra las cuales no conceda la ley ningún recurso.
+a) El correspondiente anteproyecto anual de presupuesto y sus modificaciones, mismos que se someterán a aprobación de la Junta en el presupuesto del Instituto, ejerciéndose a través de la Dirección Médica;
 
-###### Artículo 71.
+b) El correspondiente anteproyecto de programa operativo anual, así como los proyectos y programas especiales que se determinen necesarios, que deberán establecer las metas y los indicadores de desempeño necesarios para su vigilancia y evaluación, en apego a las disposiciones y políticas institucionales aplicables;
 
-Además de levantar el acta a que se refiere el artículo 65 de este Código, el Ministerio Público, la Policía Judicial o la autoridad que en auxilio de ellos se aboque al conocimiento de un hecho delictuoso, dictará las providencias que sean necesarias:
+c) Las políticas, bases y programas generales que rijan los convenios, contratos o acuerdos que se establezcan con otros organismos en materia asistencial, de enseñanza y de investigación; y,
 
-I.- Para socorrer a la persona ofendida y ponerla a cubierto de todo peligro;
+d) Los informes que rindan los respectivos Directores.
 
-II.- Para la atención médica de quienes hayan sufrido lesiones con motivo del delito;
+IV. Acordar la instalación de grupos de trabajo o comisiones para apoyar las funciones del Consejo Directivo; y,
 
-III.- Para la comprobación del cuerpo del delito;
+V. Las demás que les confieran el presente Estatuto y la normatividad aplicable.
 
-IV.- Para impedir que se pierdan, destruyan o alteren las huellas o vestigios del hecho, y los instrumentos o cosas, objeto o efecto del mismo, determinando respecto de estos dos últimos su aseguramiento, cuando lo juzgue conveniente;
+###### ARTICULO 77.
 
-V.- Para recoger y consignar en el acta todos los demás datos conducentes a establecer la probable responsabilidad de los acusados; y
+El Director del Centro Médico Nacional “20 de Noviembre” y los Directores de los Hospitales Regionales del Instituto tendrán las siguientes funciones:
 
-VI.- Para la detención de los responsables en el caso previsto en el artículo 67 de este Código.
+I. Planear, programar, normar, organizar y dirigir las funciones encomendadas a la unidad médica bajo su cargo y las acciones necesarias para el cumplimiento de su objeto;
 
-###### Artículo 72.
+II. Presentar al Consejo Directivo respectivo las propuestas que conforme a este Estatuto y a la normatividad aplicable deba someterle, ejecutando sus acuerdos e informándole trimestralmente sobre su avance y cumplimiento;
 
-Cuando la autoridad a que se refiere el artículo 66, practique diligencias en averiguación de un delito, las remitirán dentro de tres días de haberlas iniciado al Agente del Ministerio Público respectivo; pero si hubiere detenidos, la remisión se hará dentro de las veinticuatro horas siguientes a la detención.
+III. Formular y desarrollar las políticas que permitan elevar los niveles de productividad y calidad en el servicio de la correspondiente unidad médica, realizando los estudios e investigaciones necesarios para su mejoramiento;
 
-###### Artículo 73.
+IV. Coordinar la operación de las áreas y servicios de la correspondiente unidad médica, atendiendo los requerimientos, las observaciones y las quejas de la derechohabiencia;
 
-Las diligencias que practiquen el Ministerio Público tendrán pleno valor probatorio si se ajustan a las reglas relativas de este Código.
+V. Suscribir los convenios y contratos que sean necesarios para el cumplimiento del objeto de la correspondiente unidad médica, sin perjuicio de otorgar los poderes necesarios para llevar a cabo dichos actos, con apego a las disposiciones y a las políticas institucionales aplicables;
 
-#### SECCION SEGUNDA.- RECURSOS DE REVOCACION Y DE REPOSICION
+VI. Proponer y aplicar, de conformidad con la delegación de facultades que acuerde el Director General, los nombramientos y remociones del personal directivo y de los trabajadores de base y de confianza de la correspondiente unidad médica; y,
 
-###### Artículo 267.
+VII. Las demás que le confieran el presente Estatuto y la normatividad aplicable, así como las que le asigne el Director General.
 
-El recurso de revocación procede, cuando este Código no conceda el de apelación.
+#### SECCION SEXTA. De las Delegaciones Estatales y Regionales
 
-###### Artículo 268.
+###### ARTICULO 78.
 
-El recurso de revocación toma el nombre de reposición cuando se trata de autos dictados en la substanciación de la segunda instancia.
+Para la atención de los asuntos de su competencia, el Instituto contará con las Delegaciones Estatales y Regionales cuya creación acuerde la Junta, que estarán jerárquicamente subordinadas a la administración central y tendrán facultades específicas para resolver sobre las materias que se determinen, atendiendo a su competencia territorial.
 
-###### Artículo 269.
+###### ARTICULO 79.
 
-Interpuesto el recurso en el acto de la notificación o dentro de las veinticuatro horas siguientes, el Juez o Tribunal ante quien se interponga, lo admitirá o desechará de plano.
+Las Delegaciones tendrán por objeto promover, operar y vigilar el otorgamiento de los seguros, prestaciones y servicios a la derechohabiencia del Instituto en su demarcación, de acuerdo a las atribuciones que les confiera la Ley, el presente Estatuto y los Reglamentos respectivos, a fin de que las solicitudes, trámites y gestiones correspondientes se desahoguen oportuna y eficazmente.
 
-###### Artículo 270.
+###### ARTICULO 80.
 
-Si el Juez o Tribunal admite el recurso, lo resolverá dentro de los tres días siguientes; pero si estima necesario oír a las partes, las citará a una audiencia verbal que se verificará dentro de las cuarenta y ocho horas siguientes, y en la que se dictará la resolución que corresponda, la que no admitirá recurso alguno.
+Como titular de cada Delegación habrá un Delegado nombrado por la Junta, a propuesta del Director General, cuya labor y desempeño serán coordinados, apoyados y supervisados en forma directa por la Dirección de Delegaciones del Instituto.
 
-###### Artículo 74.
+Los Delegados se auxiliarán de los Subdelegados, Jefes de Unidad y demás personal que señale el Reglamento Orgánico de las Delegaciones Estatales y Regionales del Instituto, sus manuales de organización y el presupuesto autorizado, quedando su nombramiento y remoción sujeto a las disposiciones del Director General y, en su caso, a la delegación de facultades que éste acuerde.
 
-La atención médica de quienes hayan sufrido lesiones provenientes de delito, se hará en los hospitales públicos.
+###### ARTICULO 81.
 
-###### Artículo 75.
+Los Delegados del Instituto presidirán los órganos colegiados, comités y grupos de trabajo que se integren en las Delegaciones para el apoyo de las funciones institucionales.
 
-Si el lesionado no debe estar privado de libertad, la autoridad que conozca del caso podrá permitir, si lo juzga conveniente, que sea atendido en lugar distinto bajo responsiva de médico, con título legalmente reconocido o a falta de aquél, de práctico y previa la clasificación legal de las lesiones.
+En cada Delegación funcionará un Consejo Consultivo, cuyo propósito será colaborar con el Delegado en el otorgamiento y seguimiento de los seguros, prestaciones y servicios del Instituto, así como formular las propuestas correspondientes, quedando sujeta su integración a lo dispuesto en el Reglamento Orgánico respectivo.
 
-###### Artículo 76.
+#### SECCION SEPTIMA. De la Escuela de Dietética y Nutrición
 
-El permiso a que se refiere el artículo anterior se concederá sin perjuicio de que la autoridad se cerciore del estado del lesionado, cuando lo estime oportuno.
+###### ARTICULO 82.
 
-###### Artículo 77.
+La Escuela de Dietética y Nutrición tiene por objeto planear, normar, controlar y llevar a cabo las actividades relacionadas con la formación, capacitación y actualización de recursos humanos para la salud en materia de alimentación, dietética y nutrición, conforme a los lineamientos establecidos por las autoridades sanitarias y educativas competentes.
 
-En el caso del artículo 76, se aplicarán las siguientes disposiciones:
+###### ARTICULO 83.
 
-I.- El lesionado deberá informar a la autoridad que conozca del asunto, en qué lugar va a ser atendido y cualquier cambio de éste o de su domicilio.
+Para su administración y funcionamiento, la Escuela de Dietética y Nutrición contará con un Consejo Directivo, que se integrará conforme lo disponga el Reglamento Orgánico y será presidido por el Director General o, en sus ausencias, por el Director Médico del Instituto, que tendrá las siguientes atribuciones:
 
-II.- Por la falta de aviso del cambio se impondrá al lesionado una corrección disciplinaria.
+I. Proponer estrategias tendientes al mejoramiento y solución de aspectos de orden técnico, administrativo y operacional, así como coadyuvar a su implementación y desarrollo;
 
-#### SECCION TERCERA.- APELACION
+II. Conocer y, en su caso, aprobar, a propuesta del Director de la Escuela de Dietética y Nutrición:
 
-###### Artículo 271.
+a) Las políticas generales y las prioridades a que estará sujeto el desarrollo de las funciones de la Escuela, vigilando que las mismas sean acordes con las políticas, prioridades y programas institucionales;
 
-El recurso de apelación tiene por objeto que el Tribunal de Segunda Instancia confirme, revoque o modifique la resolución apelada.
+b) Los programas de educación en alimentación, nutrición y educación para la salud, previa aprobación de las autoridades sanitarias y educativas competentes;
 
-###### Artículo 272.
+c) Los programas para la asesoría y orientación a diferentes grupos de población en materia de alimentación, nutrición y educación para la salud;
 
-La segunda instancia solamente se abrirá a petición de parte y la Sala, al pronunciar su sentencia, tendrá las mismas facultades que el Juez de Primera Instancia.
+d) El anteproyecto anual del presupuesto de la Escuela y sus modificaciones, los cuales serán sometidos a la autorización de la Junta dentro del presupuesto del Instituto, ejerciéndose a través de la Dirección Médica del Instituto;
 
-###### Artículo 273.
+e) El anteproyecto del programa operativo anual, que especifique las actividades de capacitación, formación y actualización a desarrollar, las unidades responsables de su cumplimiento, los montos presupuestales a ejercer y las fuentes de financiamiento, evaluando sus avances; y,
 
-Son apelables, salvo disposición legal en contrario:
+f) Las políticas para la inscripción, reinscripción y el otorgamiento de becas a los alumnos de la Escuela de Dietética y Nutrición.
 
-I.- Las sentencias de primera instancia;
+III. Proponer la integración de normas para la planeación, organización, ejecución y control de las actividades de capacitación, formación y actualización de los recursos humanos que laboran en instituciones públicas y privadas del Sector Salud;
 
-II.- Los autos de falta de elementos para procesar;
+IV. Diseñar mecanismos de coordinación, intercambio y colaboración institucionales, así como con los sectores públicos, social y privado, en aspectos académicos, de investigación y asistenciales relacionados con su objeto;
 
-III.- Los autos en que se conceda o niegue la libertad bajo caución;
+V. Conocer los informes que le rinda el Director de la Escuela de Dietética y Nutrición y evaluar los resultados alcanzados;
 
-IV.- Los autos que concedan o nieguen la libertad por desvanecimiento de datos;
+VI. Aprobar la instalación de grupos de trabajo o comisiones para apoyar las funciones del Consejo Directivo; y,
 
-V.- Los autos que resuelvan algún incidente no especificado;
+VII. Las demás que le confieran el presente Estatuto y la normatividad aplicable.
 
-VI.- El auto en que se niegue la orden de aprehensión y el que niegue la citación para preparatoria;
+###### ARTICULO 84.
 
-VII.- Las demás resoluciones que señale la ley.
+El Director de la Escuela de Dietética y Nutrición tendrá las siguientes funciones:
 
-###### Artículo 274.
+I. Planear, programar, organizar, dirigir y normar las funciones encomendadas a la Escuela de Dietética y Nutrición;
 
-La apelación suspende la ejecución de la resolución apelada, salvo cuando ésta sea el auto de libertad por falta de méritos para procesar, de no sujeción a proceso, de libertad por desvanecimiento de datos o de sobreseimiento.
+II. Presentar al Consejo Directivo de la Escuela las propuestas que conforme a este Estatuto y a la normatividad aplicable deba someterle, ejecutando sus acuerdos e informándole trimestralmente sobre su avance y cumplimiento;
 
-###### Artículo 275.
+III. Supervisar y evaluar los programas aprobados por el Consejo Directivo, a fin de detectar desviaciones en su cumplimiento y proponer oportunamente los proyectos de mejoramiento y solución de aspectos de orden técnico, administrativo y operacional de la Escuela de Dietética y Nutrición;
 
-Pueden apelar el Ministerio Público, el acusado, el o los defensores y, en su caso, el ofendido.
+IV. Suscribir los convenios y contratos que sean necesarios para el cumplimiento del objeto de la Escuela de Dietética y Nutrición, de acuerdo a las disposiciones y las políticas institucionales aplicables;
 
-###### Artículo 276.
+V. Elaborar, revisar y autorizar, conforme a las normas establecidas por las autoridades sanitarias y educativas competentes, la documentación oficial correspondiente a la certificación de estudios que imparte la Escuela de Dietética y Nutrición;
 
-El apelante puede expresar los agravios al interponer el recurso o en cualquier momento, hasta la vista.
+VI. Promover la compilación e intercambio de información bibliográfica, documental o de otro tipo que permita profundizar el estudio de la alimentación, nutrición y educación para la salud;
 
-###### Artículo 277.
+VII. Proponer y aplicar, de conformidad con la delegación de facultades que acuerde el Director General, los nombramientos y remociones del personal directivo y de los trabajadores de base y de confianza de la Escuela de Dietética y Nutrición; y,
 
-La apelación podrá interponerse verbalmente en el momento de la notificación o por escrito, dentro de tres días de hecha si se tratare de auto y de cinco si se tratare de sentencia.
-
-###### Artículo 278.
-
-Son aplicables a la apelación las siguientes disposiciones:
-
-I.- Interpuesto el recurso en términos legales, el Juez que dictó la resolución apelada, lo admitirá o desechará de plano, previniendo en el primer caso a las partes, excepto al Ministerio Público, señalen casa para notificaciones ubicada en el lugar en que radique el Tribunal de alzada, y al acusado nombre defensor para la Segunda Instancia.
-
-II.- Si el acusado no nombra defensor o el nombrado no acepta, dentro de los tres días siguientes a la fecha en que se le haga saber su nombramiento, la Sala nombrará al Defensor de Oficio.
-
-III.- Si las partes no señalan casa para notificaciones, estas se le harán por cédula que se fijará en la puerta de la Sala.
-
-IV.- La falta de cumplimiento de las disposiciones establecidas en las tres fracciones anteriores, será corregida disciplinariamente por la Sala, imponiendo a la autoridad omisa una multa de tres a cinco días de salario mínimo.
-
-###### Artículo 279.
-
-Al notificarse al acusado la sentencia de primera instancia, se le hará saber el término que la Ley concede para interponer el recurso de apelación, lo que se hará constar en el proceso.
-
-###### Artículo 280.
-
-La omisión del requisito a que se refiere el artículo anterior, surte el efecto de tener por apelada la sentencia por parte del acusado, salvo que éste manifieste lo contrario.
-
-###### Artículo 281.
-
-Contra el auto que admita la apelación no procede recurso alguno.
-
-###### Artículo 282.
-
-Admitida la apelación, se remitirá original el proceso al Tribunal Superior de Justicia. Si fueren varios los acusados y la apelación solamente se refiere a alguno o algunos de ellos, se remitirá el duplicado autorizado de constancias o testimonio de lo que las partes designen y de lo que el Juez estime conveniente.
-
-###### Artículo 283.
-
-El original del proceso, y en su caso el duplicado o testimonio, debe remitirse dentro de tres días, y si no se cumple con esa prevención, la Sala a pedimento del apelante o de oficio, impondrá al inferior una medida disciplinaria.
-
-###### Artículo 284.
-
-Recibidas las actuaciones a que se refiere el artículo anterior, la Sala examinará la resolución recurrida y decidirá si el recurso es o no procedente. En el segundo caso lo declarará mal admitido y devolverá las actuaciones al juzgado de su origen.
-
-###### Artículo 285.
-
-Si la Sala estima bien admitido el recurso, en la misma resolución declarará, previo examen del proceso, si en éste se cometió o no, alguna violación al procedimiento que haya dejado sin defensa al acusado y, en caso afirmativo, dictará las providencias necesarias, para que dentro de un término hasta de treinta días, se reparen esas violaciones por el propio Tribunal de apelación o por el inferior a quien encomiende esas diligencias.
-
-###### Artículo 286.
-
-Enunciativamente se consideran violaciones al procedimiento en primera instancia, que dejan sin defensa al acusado, las siguientes:
-
-I.- No haberse hecho saber al acusado durante la instrucción ni al celebrarse el juicio, el motivo del procedimiento, o el nombre de las personas que le imputen la comisión del delito;
-
-II.- No haberse permitido al acusado nombrar defensor o no nombrándosele al de oficio, como señale la ley;
-
-III.- No haberse facilitado al acusado la manera de hacer saber al defensor su nombramiento;
-
-IV.- Haberse impedido al acusado comunicarse con su defensor o que éste lo asistiere en alguna de las diligencias del proceso;
-
-V.- No haberse ministrado al acusado o al defensor de éste, los datos que necesitare para la defensa y que constaren en el proceso;
-
-VI.- No haberse careado al acusado con quien hubiere depuesto en su contra, si éste se encuentra en el mismo lugar donde se sigue el proceso, estando allí también el procesado;
-
-VII.- No haberse citado al acusado para las diligencias que tuviere derecho a presenciar;
-
-VIII.- No haberse recibido al acusado injustificadamente, las pruebas que hubiere ofrecido, con arreglo a la ley;
-
-IX.- Haberse celebrado el juicio sin asistencia del funcionario que deba fallar, de su Secretario y del Ministerio Público;
-
-X.- Haberse negado al acusado los recursos procedentes; y,
-
-XI.- Haberse tenido en cuenta en la sentencia una diligencia que la ley declare expresamente que es nula.
-
-###### Artículo 287.
-
-Dentro de los tres días siguientes a la notificación del auto que tenga por radicado el recurso, las partes podrán ofrecer pruebas expresando el objeto y naturaleza de las mismas y la Sala, dentro de tres días, resolverá si se admiten o no.
-
-###### Artículo 288.
-
-Son admisibles en segunda instancia, las pruebas:
-
-I.- Que no hubieren podido desahogarse en primera instancia en todo o en parte;
-
-II.- De los hechos ocurridos con posterioridad a la resolución que puso el proceso a la vista del Ministerio Público para formular conclusiones; y
-
-III.- Documental pública.
-
-###### Artículo 289.
-
-Cuando se admitan pruebas se recibirán estas dentro del término a que se refiere el artículo 285, si se mandó reparar violaciones del procedimiento o en un término hasta de quince días, si no se mandaron reparar violaciones de esa clase.
-
-###### Artículo 290.
-
-Si la prueba hubiere de rendirse fuera de la Capital del Estado, pero dentro de éste, la Sala concederá un término hasta de diez días o de treinta si debe rendirse fuera del Estado.
-
-###### Artículo 291.
-
-Sólo se admitirá la prueba testimonial en la segunda instancia, cuando los hechos a que se refiera no hayan sido materia del examen de testigos en la primera.
-
-###### Artículo 292.
-
-La Sala podrá, hasta antes de la citación para la vista, ordenar la práctica de diligencias para mejor proveer.
-
-###### Artículo 293.
-
-Las partes podrán tomar en la Secretaría de la Sala, los apuntes que necesiten para alegar.
-
-###### Artículo 294.
-
-Concluidos los términos a que se refieren los artículos 285, 289 y 290, o antes de vencerse estos términos si ya se satisfizo el objeto de los mismos, o si no se mandaron reparar violaciones al procedimiento ni se ofrecieron pruebas, la Sala, de oficio, señalará día para la vista que se efectuará dentro de los quince días siguientes.
-
-###### Artículo 295.
-
-Para la vista serán citados el Ministerio Público, el acusado si estuviere en el lugar, el defensor y quien demandó la responsabilidad civil, en su caso.
-
-###### Artículo 296.
-
-El día señalado para la vista, las partes alegarán por escrito, sin perjuicio de que lo hagan verbalmente si quisieren hacerlo; pero en este caso en autos sólo se asentará una síntesis de lo dicho por las partes.
-
-###### Artículo 297.
-
-Declarado visto el asunto quedara cerrado el debate, y la Sala dictará sentencia dentro de los diez días siguientes.
-
-###### Artículo 298.
-
-Si solamente hubiere apelado el procesado o su defensor, no se podrá aumentar la sanción impuesta en la sentencia recurrida ni agravarse la estimación de la peligrosidad hecha por el inferior.
-
-###### Artículo 299.
-
-Si el apelante es el Ministerio Público, no se tomará en consideración ningún agravio que contraríe las conclusiones acusatorias formuladas en primera instancia o que cambien, en perjuicio del acusado, la clasificación del delito hecha en esas conclusiones.
-
-###### Artículo 300.
-
-La Sala suplirá la deficiencia o falta de los agravios del acusado o del defensor cuando estos sean los apelantes.
-
-###### Artículo 301.
-
-Si la Sala encuentra que hubo violación manifiesta del procedimiento, que haya dejado sin defensa al procesado, o que se retardó indebidamente el despacho del asunto en primera instancia, impondrá al Juez, al Defensor y al Ministerio Público una corrección disciplinaria.
-
-###### Artículo 302.
-
-Notificado el fallo a las partes, se remitirá, desde luego, la ejecutoria al Juez, devolviéndole el expediente, en su caso.
-
-###### Artículo 303.
-
-La Sala impondrá de oficio una corrección disciplinaria al Defensor por no haber cumplido éste sus deberes; y dará vista al Ministerio Público:
-
-I.- Si no interpuso los recursos que procedían en favor del acusado;
-
-II.- Si abandonó los recursos interpuestos cuando de las constancias de autos apareciere que debían prosperar;
-
-III.- Si no alegó las circunstancias probadas en el proceso y que habrían favorecido al acusado.
-
-###### Artículo 304.
-
-En los casos previstos en el artículo anterior, si el defensor fuere de oficio, la Sala deberá, además, llamarle la atención sobre su negligencia o ineptitud e informar de éstas al superior del defensor.
-
-###### Artículo 78.
-
-La responsiva a que se refiere el artículo 75, impone, a quien la otorga, los siguientes deberes y obligaciones:
-
-I.- Atender debidamente al lesionado;
-
-II.- Dar aviso a la autoridad correspondiente de cualquier accidente o complicación que sobrevenga, expresando si es consecuencia inmediata o necesaria de la lesión o si proviene de otra causa;
-
-III.- Comunicar inmediatamente a la misma autoridad todo cambio de domicilio del lesionado o del lugar donde sea atendido, y
-
-IV.- Extender certificado de sanidad o de defunción, en su caso, y los demás que le solicite la autoridad.
-
-###### Artículo 79.
-
-El incumplimiento de cualquiera de los deberes señalados en el artículo anterior, ameritará la imposición de una corrección disciplinaria, cuando no constituya delito.
-
-###### Artículo 80.
-
-Los certificados de sanidad expedidos por médicos particulares estarán sujetos a la revisión de los médicos oficiales, quienes rendirán el dictamen definitivo.
-
-###### Artículo 81.
-
-Cuando un lesionado necesite pronta curación, cualquier médico o práctico en su caso, puede atenderlo y aún trasladarlo del lugar de los hechos al sitio apropiado, sin esperar la intervención de la autoridad.
-
-#### SECCION CUARTA.- QUEJA
-
-###### Artículo 305.
-
-Se ocurrirá en queja al inmediato Superior, para corregir las infracciones de ley que cometan los Jueces Menores de Defensa Social, en los casos siguientes:
-
-I.- Detención del acusado sin auto de formal prisión, fuera del término constitucional;
-
-II.- Auto de formal prisión o de soltura por falta de méritos;
-
-III.- Negativa de abrir la causa o de ordenar la aprehensión del acusado, exclusivamente por el Ministerio Público;
-
-IV.- Violación a los artículos 8, 17, 18 y 20 de la Constitución General de la República, cometida durante la secuela;
-
-V.- En contra de las sentencias interlocutorias o definitivas,
-
-VI.- En los demás casos en que la ley no conceda recurso especial.
-
-###### Artículo 306.
-
-Son aplicables al recurso de queja, las siguientes disposiciones:
-
-I.- El recurso es procedente si se interpone ante el Superior, dentro de tres días a partir de aquél en que se conoció el acto que se reclama;
-
-II.- Al interponerse el recurso deberá expresarse el hecho que constituye la violación, las leyes que se consideren violadas y el concepto de violación;
-
-III.- Si el recurrente no cumple con los requisitos que establece la fracción anterior, se desechara de plano el recurso, salvo que el recurrente sea el ofendido, caso en el cual el superior al que corresponda resolver la queja, deberá suplir la deficiencia de los agravios o la falta de ellos;
-
-IV.- No cabe recurso contra el auto que admita o deseche la queja;
-
-V.- Admitido el recurso, en el mismo auto se ordenará al Juez responsable remita informe con justificación, acompañando testimonio de las constancias que las partes hayan señalado y de las que el Juez estime conducentes;
-
-VI.- El informe deberá rendirse dentro del término de tres días;
-
-VII.- Recibido el informe, se pondrá el expedientillo a la vista del recurrente y del Ministerio Público por el término de tres días para que aleguen lo que a su derecho convenga;
-
-VIII.- Vencido el término de tres días a que se refiere el artículo (sic) anterior, el Superior, dictará dentro de otros tres días la resolución procedente que decida el recurso;
-
-IX.- Si el caso lo amerita, a juicio del Superior y bajo su responsabilidad, podrá decretarse la suspensión del acto recurrido, excepto en el caso de formal prisión, y
-
-X.- La resolución que resuelve el recurso de queja es inatacable.
-
-#### SECCION QUINTA.- DENEGADA APELACION
-
-###### Artículo 307.
-
-Contra el auto que no admita la apelación procede el recurso de denegada apelación.
-
-###### Artículo 308.
-
-Al recurso de denegada apelación son aplicables las siguientes disposiciones:
-
-I.- Se interpondrá verbalmente, en el acto de notificarse el auto que no admite la apelación, o por escrito dentro de las veinticuatro horas siguientes;
-
-II.- El Juez, sin sustanciación alguna, expedirá, dentro de tres días, un certificado firmado por él, y en el que después de dar una idea sucinta de la materia sobre que versa el proceso, de su estado y del punto sobre que recayó el auto apelado, se insertará a la letra éste y sus notificaciones y el que lo haya declarado inapelable;
-
-III.- El certificado a que se refiere la fracción anterior, se remitirá al Tribunal Superior de Justicia, en la fecha de su libramiento;
-
-IV.- Si el Juez no cumple con lo prevenido en las fracciones anteriores, el interesado podrá ocurrir a la Sala solicitando se libre orden al Juez, para que remita el certificado respectivo;
-
-V.- Presentada la solicitud a que se refiere la fracción anterior la Sala prevendrá al Juez que, dentro del tercero (sic) día, expida el certificado de que se trata;
-
-VI.- Si no resultare justificada la procedencia del recurso, lo declarará así la Sala de Apelación, mandando archivar el toca;
-
-VII.- La Sala cuando lo estime conveniente, librará despacho al inferior para que informe, ampliando los datos del certificado, sobre los puntos que la misma le fije;
-
-> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
-
-VIII.- El informe será remitido por el inferior inmediatamente;
-
-IX.- Recibido el informe ampliatorio, la Sala resolverá dentro de tres días, previa audiencia del Ministerio Público, ordenando que se comunique la resolución al inferior, para que la mande notificar a las partes y le dé cumplimiento,
-
-X.- Si la apelación se declarare admisible, se prevendrá por oficio al Juez que cumpla lo dispuesto por el artículo 282.
-
-###### Artículo 82.
-
-En el supuesto previsto en el artículo anterior, el médico o práctico que atienda al enfermo, deberá comunicar a la autoridad, inmediatamente, después de la primera curación, los siguientes datos:
-
-I.- Nombre del lesionado;
-
-II.- Lugar preciso en que fue levantado y posición en que se encontraba;
-
-III.- Naturaleza de las lesiones que presente y causas probables que las originaron;
-
-IV.- Curaciones que se le hubieren hecho; y
-
-V.- Lugar preciso en que queda a disposición de la autoridad.
-
-###### Artículo 83.
-
-El Ministerio Público y las autoridades judiciales, deberán ante todo procurar la comprobación del cuerpo del delito como base del procedimiento de defensa social.
-
-###### Artículo 84.
-
-El cuerpo del delito se tendrá por comprobado, cuando se justifica la existencia de los elementos materiales y objetivos que constituyen el hecho delictuoso, según la determinación que del mismo exprese la disposición relativa del Código de Defensa Social, salvo las reglas especiales establecidas en ese Código para la comprobación de determinados cuerpos del delito.
+VIII. Las demás que le confieran el presente Estatuto y la normatividad aplicable, así como las que le asigne el Director General.
 
 ## TITULO CUARTO. De los Organos Internos de Control
 
-###### Artículo 85.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2011)</small>
 
-Tratándose de lesiones externas, el cuerpo del delito se comprobará, con la inspección de las lesiones por el funcionario que practique las diligencias de averiguación previa o por el Juez que conozca de la causa, y con la descripción y clasificación que de las mismas hagan los peritos médicos.
+###### ARTICULO 85.
 
-###### Artículo 86.
+El Instituto contará con una Contraloría Interna denominada también Organo Interno de Control, al frente del cual estará su Titular, quien será designado en los términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, se auxiliará en el ejercicio de sus facultades por los titulares de las áreas de auditoría, quejas y responsabilidades, designados en los mismos términos.
 
-En los casos de lesiones internas o cualquier enfermedad proveniente d delito, para la comprobación del cuerpo del mismo, se dará fe las manifestaciones externas que presente la víctima y los médicos legistas, facultativo o práctico en su caso, emitirán dictamen sobre los síntomas que presente el enfermo y la clasificación legal correspondiente; pero si no hubiere manifestaciones externas, bastará el dictamen pericial.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2011)</small>
 
-###### Artículo 87.
+###### ARTICULO 86.
 
-Tratándose de envenenamiento se aplicarán las siguientes disposiciones:
+Los servidores públicos a que se refiere el artículo anterior, ejercerán en el ámbito de sus respectivas competencias, las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo dispuesto en el Reglamento Interior de la Secretaría de la Función Pública.
 
-I.- Se recogerán cuidadosamente las vasijas y demás objetos que hubiere usado la víctima, los restos de alimentos, bebidas y medicinas que hubiere tomado y las deyecciones y vómitos que hubiere tenido, todo lo cual será conservado con las precauciones necesarias para evitar su alteración y se describirán los síntomas que presente el intoxicado.
+Las ausencias del Titular del Organo Interno de Control, así como de los titulares de las áreas de auditoría, quejas y responsabilidades serán suplidas de conformidad con lo previsto en el Reglamento Interior de la mencionada Secretaría.
 
-II.- Los peritos químicos y farmacéuticos analizarán las substancias recogidas y emitirán dictamen sobre las cualidades tóxicas que tenga y acerca de si han podido causar la enfermedad de que se trata.
+###### ARTICULO 87.
 
-III.- Cuando en el lugar en que se sigue el procedimiento no hubiere peritos que practiquen el análisis, éste se llevará a cabo en el lugar en que los haya.
+(DEROGADO, D.O.F. 21 DE JULIO DE 2011)
 
-IV.- En caso de muerte, se practicará la autopsia del cadáver.
+###### ARTICULO 88.
 
-V.- Si se estima necesario, el Ministerio Público solicitará de la Autoridad Judicial, que decrete el cateo de la casa del envenenado o la de cualquiera otra persona de quien se tenga sospecha.
+(DEROGADO, D.O.F. 21 DE JULIO DE 2011)
 
-VI.- Si al practicarse el cateo a que se refiere la fracción anterior, se encontrare alguna substancia tóxica o que parezca tal, se hará constar en el acta que se levante, expresando su cantidad, color y demás cualidades que se advirtieren.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2011)</small>
 
-VII.- La substancia encontrada se recogerá y se depositará cerrada y sellada en lugar seguro, para que los peritos químicos y farmacéuticos emitan dictamen sobre la naturaleza, composición y demás propiedades de dicha substancia, y sobre los efectos que pueda producir en el organismo humano.
+###### ARTICULO 89.
 
-###### Artículo 88.
+El FOVISSSTE, el PENSIONISSSTE y el SuperISSSTE, como Unidades Administrativas Desconcentradas del Instituto contarán con una Contraloría Interna denominada también Organo Interno de Control, al frente del cual su Titular, quien será designado en los términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, se auxiliará en el ejercicio de sus facultades por los titulares de las áreas de auditoría, quejas y responsabilidades, designados en los mismos términos.
 
-Cuando se trate de homicidio, el cuerpo del delito se comprobará:
+Los servidores públicos a que se refiere el párrafo anterior, ejercerán en el ámbito de sus respectivas competencias, las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo dispuesto en el Reglamento Interior de la Secretaría de la Función Pública.
 
-I.- Con la inspección y descripción que del cadáver, haga el funcionario que practique las diligencias;
+Las ausencias del Titular del Organo Interno de Control, así como de los titulares de las áreas de auditoría, quejas y responsabilidades serán suplidas de conformidad con lo previsto en el Reglamento Interior de la mencionada Secretaría.
 
-II.- Con la autopsia que del cadáver practiquen los médicos legistas, quienes emitirán un dictamen expresando con minuciosidad el estado del cadáver y las causas que originaron la muerte.
+###### ARTICULO 90.
 
-III.- Con la identificación del cadáver por medio de testigos.
-
-###### Artículo 89.
-
-Sólo podrá dejarse de practicar la autopsia, cuando en las diligencias apareciere claramente que la muerte no tuvo por origen un hecho delictuoso.
-
-###### Artículo 90.
-
-Los vestidos y demás prendas del occiso serán minuciosamente descritos en el expediente y conservados en depósito seguro, para que puedan ser exhibidos a los testigos de identidad y se procurará fotografiar el cadáver y las lesiones que presente, agregándose a los autos las fotografías que se tomen.
+En el supuesto de que alguna de las Unidades Administrativas Desconcentradas del Instituto mencionadas en el artículo anterior no contase temporalmente, por cualquier razón, con el Organo Interno de Control que le corresponde, o con sus servicios, las facultades respectivas se ejercerán por el Organo Interno de Control en el Instituto, a través de las diferentes áreas que lo conforman.
 
 ## TITULO QUINTO. De otros Organos Institucionales
 
 ### CAPITULO PRIMERO. Del Consejo Asesor Científico y Médico
 
-###### Artículo 91.
+###### ARTICULO 91.
 
-Cuando no se encontrare el cadáver, se aplicarán las siguientes disposiciones:
+El Consejo Asesor Científico y Médico será el órgano consultor superior del Instituto en todas las ramas y ámbitos comprendidos por las prestaciones, seguros y servicios que brinda, correspondiéndole establecer lineamientos, orientaciones y propuestas relacionadas con la articulación, profundización y actualización del sistema de seguridad social que la Constitución y la Ley establecen, así como del modelo de atención integral a la salud que le es consustancial.
 
-I.- Se comprobará la existencia del cadáver por medio de testigos, quienes harán la descripción de él y expresarán el número de lesiones o huellas exteriores de violencia que presentare, los lugares en que aparecieren situadas, sus dimensiones, y si lo supieren, el arma con que fueron causadas.
+El Consejo estará formado por nueve personalidades destacadas en el ámbito de la investigación, la docencia, la difusión, la labor social o el desarrollo de políticas públicas en materia médica, de atención a los adultos mayores, de vivienda, de prestaciones económicas, sociales y culturales u otras áreas afines, que serán seleccionadas e invitadas a integrarlo por la Junta, que designará también a su Presidente, a propuesta del Director General.
 
-II.- También se interrogará a los testigos a que se refiere la fracción anterior, sobre los hábitos y costumbres del difunto, si lo conocieron en vida, y acerca de las enfermedades que hubiere padecido.
-
-III.- Los datos que se obtengan según las dos fracciones anteriores, serán puestos en conocimiento de los peritos para que emitan su opinión sobre las causas de la muerte, bastando entonces, el dictamen de aquéllos en el sentido de que la muerte fue resultado de un delito, para que se tenga como existente el requisito que exige el artículo 313 fracción IV, del Código de Defensa Social.
+El Consejo se reunirá ordinariamente al menos una vez al año, pudiendo invitar a sus sesiones a personalidades y organizaciones de la seguridad social en el país y a nivel internacional.
 
 ### CAPITULO SEGUNDO. Del Comité de Evaluación y Seguimiento de los Servicios de Salud
 
-###### Artículo 92.
+###### ARTICULO 92.
 
-Cuando no se encontraren testigos que hubieren visto el cadáver, pero hubiere datos suficientes para suponer la comisión de un homicidio, se comprobará la existencia de la persona, sus costumbres, su carácter, si padeció alguna enfermedad, el último lugar y la fecha en que hubiere sido vista y la posibilidad de que el cadáver hubiese podido ser ocultado o destruido, expresando los testigos los motivos que tuvieren para suponer la existencia de un delito.
+En términos de lo establecido en el artículo 32 de la Ley, el Instituto contará con un Comité de Evaluación y Seguimiento de los Servicios de Salud, que se integrará de manera paritaria con tres representantes de las áreas médica, administrativa y financiera del Instituto y tres representantes de las organizaciones de trabajadores, entre los cuales uno será nombrado por la representación sindical del propio Instituto y los dos restantes por las organizaciones mayoritarias de trabajadores al servicio del Estado, aplicando los criterios contenidos en las Bases expedidas por el Ejecutivo Federal a que se refiere el artículo 225 de la Ley.
 
-###### Artículo 93.
+###### ARTICULO 93.
 
-Si después de que hubiere sido sepultado el cadáver, ocurriere algún motivo por el que se crea conveniente exhumarlo para hacer un reconocimiento más escrupuloso o para ejecutar una nueva investigación, se decretará la exhumación, comunicándose al Encargado del Registro del Estado Civil para que mande franquear la sepultura señalada, lo que se hará con las precauciones necesarias y según lo permitan las disposiciones legales sobre salud.
+El Comité de Evaluación y Seguimiento de los Servicios de Salud tendrá las siguientes atribuciones:
+
+I. Colaborar en la integración, implementación, evaluación y actualización del Plan Rector para el Desarrollo y Mejoramiento de la Infraestructura y los Servicios de Salud del Instituto, de conformidad con lo que establezca el Reglamento que para este propósito apruebe la Junta;
+
+II. Analizar las acciones y resultados de las unidades médicas del Instituto, proponiendo medidas para la óptima organización, desarrollo y prestación de sus servicios;
+
+III. Impulsar y coordinar programas de gestoría y atención a demandas específicas de la derechohabiencia en materia de servicios de salud, estableciendo mecanismos de coordinación entre las autoridades competentes del Instituto y las representaciones de las organizaciones de trabajadores;
+
+IV. Plantear recomendaciones para que las unidades prestadoras de servicios de salud tengan mejores condiciones y recursos para servir adecuadamente a la derechohabiencia, atendiendo prioritariamente a las cuestiones de equipamiento, infraestructura y recursos humanos; y,
+
+V. Proponer métodos de medición y evaluación del desempeño del personal, así como sistemas de evaluación y estímulo a la productividad y la calidad en el servicio en las unidades médicas del Instituto.
 
 ### CAPITULO TERCERO. Del Comité de Inversiones del Instituto
 
-###### Artículo 94.
+###### ARTICULO 94.
 
-Si por las observaciones que hubieren hecho los facultativos, se dedujere que el homicidio se cometió por estrangulación, deberá investigarse la manera cómo se ejecutó, examinando y anotando los accidentes y señales que se encuentren en el cadáver y en los objetos que lo rodean.
+El Comité de Inversiones tendrá como objeto analizar y hacer recomendaciones respecto de la inversión de los fondos de las Reservas que constituya el Instituto, observando las disposiciones legales y normativas aplicables.
+
+Se compondrá por cinco miembros, de los cuales cuando menos dos serán personas independientes, con experiencia mínima de cinco años en la materia.
+
+Los otros tres miembros del Comité serán designados respectivamente por la Secretaría de Hacienda y Crédito Público, por el Banco de México y por el propio Instituto, correspondiendo al Director General o a quien éste designe presidirlo.
 
 ### CAPITULO CUARTO. Del Comité de Información
 
-###### Artículo 95.
+###### ARTICULO 95.
 
-El arma o instrumento con que se ejecutó o con que probablemente se hubiere ejecutado la muerte o las lesiones, se reconocerá por peritos y se describirá en autos.
+El Comité de Información del Instituto será el órgano colegiado que se establece y regula en los artículos 29 y 30 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
 
-###### Artículo 96.
+###### ARTICULO 96.
 
-En los casos de aborto se procederá como previenen los artículos anteriores para el homicidio y se observarán, además, las siguientes disposiciones:
-
-I.- Los peritos reconocerán a la madre, describirán las lesiones que ésta presente y dictaminarán sobre la causa del aborto, y
-
-II.- Expresarán también los peritos la edad de la víctima, si nació viable y todo aquello que pueda servir para fijar la naturaleza del delito.
-
-###### Artículo 97.
-
-Tratándose de atentados al pudor, estupro o violación, se harán constar la edad y constitución física del ofensor y de la persona ofendida; la conducta anterior de ambos; las relaciones que entre ellos existían y los medios empleados para cometer la infracción.
-
-###### Artículo 98.
-
-En los supuestos previstos por el artículo anterior, la persona ofendida será reconocida exclusivamente por peritos médicos, previo su consentimiento o el de su representante legítimo, si fuere menor de edad o incapacitada.
-
-###### Artículo 99.
-
-En los casos de incendio son aplicables las siguientes disposiciones:
-
-I.- Se dispondrá que los peritos enuncien:
-
-a).- El modo, lugar y tiempo en que se efectuó;
-
-b).- La calidad de la materia incendiaria que lo produjo;
-
-c).- Las circunstancias directas o indirectas por las cuales pueda conocerse que el incendio fue intencional;
-
-d).- La posibilidad de que haya habido un peligro mayor o menor para la vida de las personas o para la propiedad; y
-
-e).- Los daños y perjuicios que se hubiesen causado.
-
-II.- El agente del Ministerio Público o el Juez, en su caso practicarán las diligencias tendientes a esclarecer si la cosa incendiada estaba asegurada, y desde cuándo, en favor de quién, por qué cantidad y la diferencia que pudiere haber entre ésta y la representada por el valor del bien o lugar incendiado, negociación, mueble o muebles destruidos o deteriorados;
-
-III.- Las autoridades mencionadas en la fracción anterior, cuidarán igualmente de comprobar el balance del activo y pasivo, el movimiento comercial de ventas, en su caso, surtido y existencia de mercancías en el año anterior al siniestro, todo ello por medio de los libros de contabilidad, manifestaciones, documentos aduanales de importación y otros documentos o libros conducentes.
-
-###### Artículo 100.
-
-Los dictámenes y certificados médicos de los legistas se rigen por las siguientes disposiciones:
-
-I.- En el Distrito Judicial de Puebla, dos médicos legistas harán los reconocimientos que sean necesarios en las causas de Defensa Social y darán los dictámenes y certificados correspondientes;
-
-II.- En los demás distritos judiciales, el médico legista respectivo, desempeñará los trabajos a que se refiere la fracción anterior; y los dictámenes y certificaciones que expida, se pasarán por conducto del Juez de Defensa Social del Distrito más cercano, al médico legista de éste, para que dentro del plazo de ocho días emita la opinión que proceda;
-
-III.- En el supuesto previsto en la fracción II anterior, si no hubiere acuerdo en los dictámenes de esos médicos legistas, se pasarán al Servicio Médico Legal para que dentro de ocho días contados desde aquél en que reciba dichos dictámenes, emita el suyo, el cual servirá de base en la causa respectiva.
-
-###### Artículo 101.
-
-En los casos de robo, el cuerpo del delito se justificará por alguno de los medios siguientes, si no fue posible hacerlo como dispone el artículo 84 de este Código:
-
-I.- Por la confesión del acusado, aun cuando se ignore quién sea el dueño de la cosa objeto el delito; o
-
-II.- Por la prueba de que el acusado, ha tenido en su poder alguna cosa que, por sus circunstancias personales, no sea verosímil que la haya adquirido legítimamente, si no justifica la procedencia de aquélla y si hay además quien le impute el robo.
-
-###### Artículo 102.
-
-Siempre que no fuere posible comprobar el cuerpo del delito de robo en alguna de las formas determinadas en el artículo anterior, se investigará:
-
-I.- La preexistencia, propiedad y falta posterior de la cosa robada; y
-
-II.- Si la persona ofendida se hallaba en situación de poseer la cosa objeto del delito y es digna de fe y crédito.
-
-###### Artículo 103.
-
-Si de la investigación de las circunstancias a que se refieren las fracciones I y II del artículo anterior, de los antecedentes morales, sociales y pecuniarios del ofendido y del acusado resultan, a juicio del Juez, indicios bastantes para tener por comprobada la existencia del robo, será esto bastante para considerar comprobado el cuerpo del delito.
-
-###### Artículo 104.
-
-El cuerpo de los delitos de abuso de confianza y fraude, si no hubiere sido posible comprobarlo conforme al artículo 84, podrá tenerse por comprobado en la forma que establece la fracción I del artículo 101.
-
-###### Artículo 105.
-
-El artículo anterior es aplicable al delito de peculado; pero es necesario además, que se demuestre por cualquier otro medio de prueba, el hecho de que el acusado estuviere encargado del servicio público en cuyo ejercicio se cometió la infracción.
-
-###### Artículo 106.
-
-Si el delito fuere de falsedad o de falsificación de documentos, además de la comprobación de los elementos materiales de la infracción, se tomarán las siguientes providencias:
-
-I.- Se hará una minuciosa descripción del documento o instrumento argüido de falso y se depositará en lugar seguro, haciendo que firmen en él, si fuere posible, las personas que depongan respecto de su falsedad; en caso contrario, se hará constar los motivos de la omisión.
-
-II.- Al proceso se agregará también una copia certificada del mismo documento.
-
-###### Artículo 107.
-
-En el delito de falsificación de acciones, documentos de crédito del Estado u otros documentos públicos, oficiales y de comercio, o bien privados, se procederá conforme a las reglas siguientes:
-
-I.- Si la falsificación se hubiere cometido respecto de sellos, las indagaciones se harán por medio de reconocimiento, examen de peritos y cotejo con los sellos no falsos;
-
-II.- Si consistiere en la suplantación de alguna escritura u otro documento, el examen deberá dirigirse al cotejo y reconocimiento de letras, así como de las personas que puedan tener algún conocimiento del hecho; y
-
-III.- Deberá fijarse el perjuicio causado por el delito.
-
-###### Artículo 108.
-
-Para la comprobación del cuerpo del delito, el Ministerio Público y los jueces, gozarán de la más amplia facultad de emplear los medios de investigación que estimen conducentes, según su criterio, aunque no sean de los que define y detalla la ley, si esos medios no están reprobados por ésta.
+El Instituto impulsará y facilitará el acceso a la información pública gubernamental, de acuerdo con la legislación de la materia y las disposiciones que al efecto emita el Instituto Federal de Acceso a la Información.
 
 ## TRANSITORIOS
 
@@ -3117,7 +1857,7 @@ Atentamente
 
 México, D.F., a 26 de junio de 2008.- El Secretario, José Enrique Ampudia Mello.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
 
 D.O.F. 14 DE MAYO DE 2009.
 
@@ -3126,3 +1866,23 @@ UNICO.- El presente acuerdo entrará en vigor al día siguiente de su publicaci�
 D.O.F. 14 DE MARZO DE 2011.
 
 UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE JULIO DE 2011.
+
+ACUERDO POR EL QUE SE REFORMA EL ARTÍCULO 71 DEL ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO.
+
+UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE JULIO DE 2011.
+
+ACUERDO POR EL QUE SE REFORMA LOS ARTÍCULOS 5, 85, 86, 87, 88 Y 89 DEL ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO.
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE MAYO DE 2012.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Para efectos de cumplir con lo previsto en los artículos 58 y 59 del Estatuto Orgánico del ISSSTE, en un plazo que no excederá de noventa días naturales a partir de la vigencia de este ordenamiento, se transferirá a la Dirección de Administración, los correspondientes recursos humanos, materiales y financieros de la Subdirección de Programación y Presupuesto de la Dirección de Finanzas, con sus respectivas Jefaturas de Servicio y de Departamento.
+
+TERCERO.- Las referencias efectuadas a la Dirección de Finanzas en materia de programación, presupuestación y evaluación presupuestal que se contengan en el Estatuto Orgánico o en la normatividad que de él se desprenda, se deberán entender aplicadas a la Dirección de Administración.
