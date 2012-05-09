@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-31536"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2011-12-26"
+last_updated: "2012-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31536&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-29"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE MAYO DE 2012.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 27 mayo de 2003.
 
@@ -188,7 +188,7 @@ Cuando un partido político que tenga grupo en la Asamblea se fusione con otro, 
 
 La constitución, fusión e integración de un nuevo Grupo Parlamentario será notificado a la Mesa Directiva o, en los recesos a la Comisión de Gobierno, dentro de los cinco días siguientes en que haya tenido lugar, para que ésta informe al Pleno.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JULIO DE 2007)</small>
 
 ###### Artículo 15.
 
@@ -270,7 +270,7 @@ III.- Un Diputado, agotado el tiempo y número de sus intervenciones continuara 
 
 #### SECCIÓN 1
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 25.
 
@@ -322,7 +322,7 @@ DE LAS COMISIONES Y COMITÉS DE LA ASAMBLEA Y DE SUS UNIDADES ADMINISTRATIVAS
 
 #### SECCIÓN 1. DE LAS COMISIONES Y COMITÉS
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 28.
 
@@ -348,7 +348,7 @@ El plazo para la entrega de los proyectos de investigación al Instituto de Inve
 
 Cada Comisión conformará un nuevo acervo sistematizado y ordenado de la información que generen para su consulta.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 29.
 
@@ -384,7 +384,7 @@ Corresponderá a la Secretaría Técnica de cada comisión brindar la informaci�
 
 Los Diputados integrantes de las Comisiones no tendrán ninguna retribución extraordinaria por el desempeño de las mismas.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 32.
 
@@ -446,7 +446,7 @@ Los presidentes de las Comisiones y Comités son responsables de los expedientes
 
 Previo al término de la Legislatura, los Presidentes de Comisión y Comité presentarán un informe de las principales actividades desarrolladas por ésta, así como una memoria de las reuniones de trabajo y los principales resolutivos o acuerdos, los cuales serán enviados a la Coordinación de Servicios Parlamentarios, en 2 ejemplares, de manera impresa y por medio electrónico, magnético, óptico u otros. Dicho informe se entregará a la Comsisón (sic) de la Legislatura entrante y al Archivo Histórico, debiendo publicarse en el sitio oficial de Internet de la Asamblea Legislativa.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 39.
 
@@ -514,7 +514,7 @@ XIII. Las demás que en el marco de la legislación vigente, acuerden el Pleno o
 
 La Comisión Jurisdiccional elaborará el dictamen conforme al procedimiento que establezca la Ley de la materia, respecto de los casos que la misma prevea.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 44.
 
@@ -572,7 +572,7 @@ Además de este reglamento las comisiones se regirán por el Reglamento Interior
 
 #### SECCIÓN 2. DE LOS COMITÉS
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 47], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 47], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 49.
 
@@ -582,7 +582,7 @@ Las disposiciones relativas a las Comisiones se observarán para los comités en
 
 La Secretaría Técnica estará bajo la dirección del Presidente del Comité, la cual deberá prestar servicio a todos los integrantes del mismo en los asuntos que a éste le atañen.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 48], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 48], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 50.
 
@@ -624,19 +624,19 @@ XIII.- Elaborar y publicar las convocatorias al concurso de oposición para los 
 
 Para la elaboración del Programa Operativo Anual y del proyecto de presupuesto que se someterán a la aprobación del Pleno de la Asamblea, el Comité de Administración remitirá sus criterios al Tesorero, quien será responsable de preparar los anteproyectos respectivos, mismos que una vez sometidos a la consideración del Comité se presentarán a la Comisión de Gobierno para los efectos del Artículo 44, fracción III de la Ley Orgánica.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 50], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 50], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 52.
 
 Para la elaboración de los criterios relacionados con el apoyo a los Grupos Parlamentarios, el Comité de Administración recabará el punto de vista de la Comisión de Gobierno, quien finalmente lo presentará al Pleno.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 51], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 51], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 53.
 
 El informe anual del ejercicio del gasto que el Comité de Administración debe presentar al Pleno, será elaborado por el Oficial Mayor y por el Tesorero de la Asamblea, en la esfera de sus respectivas competencias. Dicho informe se presentará al Pleno durante el mes de marzo siguiente a la conclusión del ejercicio respectivo.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 52], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 52], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 54.
 
@@ -668,7 +668,7 @@ IX.- Fomentar y utilizar papel reciclado en todas las publicaciones en que inter
 
 X.- Los demás asuntos inherentes al tema editorial.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 52 BIS], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 52 BIS], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 55.
 
@@ -688,7 +688,7 @@ VI.- Celebrar convenios interbibliotecarios con otros órganos legislativos e in
 
 VII.- Difundir en el interior de la Asamblea el acervo con que cuenta la Biblioteca "Francisco Zarco", así como las próximas adquisiciones."
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 53], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 53], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 56.
 
@@ -800,7 +800,7 @@ SEGUNDA PARTE
 
 DE LAS UNIDADES ADMINISTRATIVAS Y SUS FUNCIONES
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 54], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 54], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 57.
 
@@ -810,13 +810,13 @@ Las Unidades Administrativas realizarán anualmente informes por escrito sobre e
 
 El informe que al efecto elabore la Contraloría será evaluado por la Comisión de Gobierno y el Comité de Administración.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 55], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 55], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 58.
 
 Las áreas administrativas que se creen, dependerán jerárquica y funcionalmente de las Unidades Administrativas especificadas en el presente Reglamento y tendrá las funciones que les señale el manual de organización y procedimiento que al efecto expida el Comité de Administración.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 56], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 56], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 59.
 
@@ -826,7 +826,7 @@ La Comisión de Gobierno presentará al Pleno la propuesta de los Titulares de c
 
 #### SECCIÓN 1. DE LA OFICIALIA MAYOR
 
-(REUBICADO [N. DE E. ANTES ARTICULO 57], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 57], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 60.
 
@@ -860,7 +860,7 @@ X.- Ejecutar el Programa Operativo Anual aprobado por el Pleno de ésta Asamblea
 
 XI.- Las demás que señale la Ley Orgánica y el presente Reglamento.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 58], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 58], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 61.
 
@@ -878,7 +878,7 @@ IV.- No haber sido condenado por delito doloso, cualquiera que haya sido la pena
 
 #### SECCIÓN 2. DE LA TESORERÍA
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 59], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 59], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 62.
 
@@ -904,7 +904,7 @@ VII.- Intervenir en los actos y contratos en los que la Asamblea sea parte y cuy
 
 VIII.- Las demás que le confieran otras disposiciones legales o reglamentarias de la Asamblea, la Mesa Directiva y el Comité de Administración.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 60], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 60], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 63.
 
@@ -920,7 +920,7 @@ IV.- No haber sido condenado por delito doloso, cualquiera que haya sido la pena
 
 #### SECCIÓN 3. DE LA CONTRALORÍA INTERNA
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 61], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 61], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 64.
 
@@ -978,7 +978,7 @@ XXI.- Las demás que le sean atribuidas por la Ley y demás disposiciones normat
 
 El Subcontralor en la Contaduría Mayor de Hacienda de la Asamblea Legislativa en el Distrito Federal podrá ejercer, en su ámbito de competencia, todas las atribuciones listadas en el presente artículo, excepto las señaladas en las fracciones II, VII, VIII, XIII, XV, XVI y XVIII, las cuales serán ejercidas directamente por el titular de la Contraloría General de la Asamblea. No obstante, podrá ejercerlas en caso de que el Contralor General de la Asamblea se las delegue a través de un acuerdo general.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 62], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 62], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 65.
 
@@ -986,7 +986,7 @@ Al frente de la Contraloría General habrá un Contralor, a quien corresponde la
 
 En el caso de ausencia del Contralor General de la Asamblea, será suplido por los Subcontralores de Auditoría; de la Contaduría Mayor de Hacienda de la Asamblea; de Legalidad y Responsabilidades; o de Control y Evaluación, en el orden citado.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 63], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 63], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 66.
 
@@ -994,7 +994,7 @@ Cuando en las auditorías se detecten irregularidades que afecten a la hacienda 
 
 En caso de que las irregularidades detectadas puedan ser constitutivas de algún delito, la Comisión de Gobierno deberá hacerlo del conocimiento del Ministerio Público, y observar lo que establezcan las demás disposiciones normativas aplicables.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 64], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 64], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 67.
 
@@ -1010,7 +1010,7 @@ IV.- No haber sido condenado por delito doloso, cualquiera que haya sido la pena
 
 #### SECCIÓN 4. DE LA COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 65], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 65], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 68.
 
@@ -1034,13 +1034,13 @@ VII.- Publicar en la página de internet de la Asamblea Legislativa y dos diario
 
 VIII. Incluir en cualquier transmisión que se realice de las sesiones de la Asamblea, la imagen del interprete-traductor a que se refiere el artículo 35 párrafo cuarto de la Ley Orgánica, a fin de dar mayor difusión a algún tema solicitado con antelación por el diputado.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 66], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 66], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 69.
 
 Los Grupos Parlamentarios acreditarán ante la Coordinación General de Comunicación Social dos profesionales de la comunicación, quienes constituirán un Consejo Asesor presidido por el Coordinador General de Comunicación Social, para garantizar el cumplimiento de lo establecido en el artículo anterior.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 67], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 67], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 70.
 
@@ -1056,7 +1056,7 @@ IV.- No haber sido condenado por delito doloso, cualquiera que haya sido la pena
 
 #### SECCIÓN 5. DE LA COORDINACIÓN DE SERVICIOS PARLAMENTARIOS
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 68], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 68], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 71.
 
@@ -1088,7 +1088,7 @@ X.- Mandar a publicar las listas de asistencias de los Diputados en los término
 
 XI.- Las demás que señale la Ley y el presente Reglamento.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 69], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 69], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 72.
 
@@ -1104,7 +1104,7 @@ IV.- No haber sido condenado por delito doloso, cualquiera que haya sido la pena
 
 #### SECCIÓN 6. DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS
 
-(REUBICADO [N. DE E. ANTES ARTICULO 70], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 70], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 73.
 
@@ -1130,7 +1130,7 @@ VII.- Compilar leyes expedidas por la Asamblea y ponerlas a disposición de los 
 
 VIII. Recibir los proyectos de investigación de las Comisiones a que se refiere el artículo 61 de la Ley Orgánica, además de recopilarlos y ordenarlos en un acervo sistematizado.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 71], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 71], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 74.
 
@@ -1142,7 +1142,7 @@ b) Un Director General.
 
 c) Un Consejo Académico de carácter consultivo; formado de siete personalidades Académicas designadas por el Consejo Directivo.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 72], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 72], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 75.
 
@@ -1158,7 +1158,7 @@ IV.- No haber sido condenado por delito doloso, cualquiera que haya sido la pena
 
 #### SECCIÓN 6 (SIC). DE LA UNIDAD DE ESTUDIOS Y FINANZAS PUBLICAS DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-(REUBICADO [N. DE E. ANTES ARTICULO 73], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 73], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 76.
 
@@ -1168,7 +1168,7 @@ La Unidad de Estudios y Finanzas Públicas se encargará de preparar y proporcio
 
 Estará a cargo de un Director y contará con el personal administrativo que se requiera para el desempeño de sus funciones de acuerdo al Presupuesto que la Asamblea le designe.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 74], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 74], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 77.
 
@@ -1188,7 +1188,7 @@ VI.- Recopilar, ordenar y facilitar para su consulta, por parte del personal de 
 
 VII.- Diseñar, actualizar y operar el sistema de Cálculo Fiscal de la Asamblea, bajo los lineamientos que se establezcan en el Programa Estratégico.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 75], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 75], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 78.
 
@@ -1200,7 +1200,7 @@ Para el cumplimiento de sus funciones de apoyo y asesoría a las comisiones con 
 
 La información que por este motivo reciba la Unidad, le será entregada por el Presidente de la Comisión respectiva al titular de la Unidad, en copia simple y no podrá usarse para fines diferentes a los solicitados por la comisión.
 
-> <small>(REFORMADO [N. DE E. ANTES ARTICULO 76], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 76], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 79.
 
@@ -1222,15 +1222,105 @@ VII.- No haber sido empleado o funcionario de la Contaduría Mayor de Hacienda d
 
 VIII.- No haber sido postulado para cargo de elección popular en los 5 años anteriores a su designación.
 
-#### SECCIÓN 1. DE LA COMISIÓN DE GOBIERNO
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 9 DE MAYO DE 2012)</small>
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 77], G.O. 30 DE MARZO DE 2005)</small>
+#### SECCIÓN 8. DEL FONDO DE APOYO A LA EDUCACIÓN Y EL EMPLEO DE LAS Y LOS JÓVENES DEL DISTRITO FEDERAL
+
+> <small>(ADICIONADO, G.O. 9 DE MAYO DE 2012)</small>
+
+Artículo 78 Bis (sic).- El Fondo de Apoyo a la Educación y el Empleo de las y los Jóvenes del Distrito Federal estará integrado con los recursos que a continuación se señalan:
+
+I. Los recursos que anualmente le sean asignados en el Presupuesto de Egresos del Distrito Federal. La Asamblea Legislativa está obligada a destinarle al Fondo en forma anual los recursos que éste requiera para poder cumplir con sus obligaciones. Los recursos con los que se integre y opere el fondo serán diferentes de aquellos que comprenda el presupuesto que la Asamblea Legislativa apruebe anualmente para sí misma y en nada afectarán las partidas que sean autorizadas mediante dicho presupuesto;
+
+II. Los rendimientos financieros que obtenga de sus inversiones;
+
+III. Las donaciones o aportaciones hechas a su favor por terceros; y
+
+IV. Las demás que señalen las leyes y demás disposiciones legales aplicables.
+
+Los recursos que integran el Fondo sólo podrán destinarse a los fines que establece la Ley Orgánica y el presente reglamento, por lo que de manera excepcional se utilizarán dichos recursos para la adquisición de bienes muebles e inmuebles. La Oficialía Mayor, pondrá a disposición del Comité Técnico los bienes muebles e inmuebles que éste requiera para el desempeño de sus funciones.
+
+Los recursos que integren el fondo deberán ser invertidos por la institución fiduciaria en valores de renta fija del más alto rendimiento, siempre que éstos permitan la disponibilidad inmediata y suficiente de las sumas que resulten necesarias para su operación y funcionamiento.
+
+> <small>(ADICIONADO, G.O. 9 DE MAYO DE 2012)</small>
+
+Artículo 78 Ter (sic).- El Comité Técnico del fideicomiso tendrá a su cargo la vigilancia, administración, manejo y operación del Fondo conforme a las facultades que establece el presente Reglamento, el contrato de fideicomiso y demás normatividad aplicable, y estará integrado por los miembros propietarios con derecho a voz y voto, como sigue:
+
+I. El o la presidente de la Comisión de Gobierno de la Asamblea Legislativa, en calidad de presidente del Fideicomiso;
+
+II. Una diputada o diputado integrante de cada uno de los Grupos Parlamentarios con representación en la Asamblea Legislativa, en calidad de vocales;
+
+III. Un representante de las instituciones públicas de educación media superior y superior que participen en los programas del Fondo, y
+
+IV. Un representante de las instituciones privadas de educación media superior y superior que participen en los programas del Fondo.
+
+Los integrantes del Comité Técnico tendrán el carácter de honoríficos por lo que no tendrán derecho a remuneración económica, gratificación o emolumento alguno. El Comité Técnico podrá invitar a estar presentes en sus sesiones a representantes de otras instituciones públicas, organizaciones del sector social o privado y, en general, a personas de reconocido prestigio de los sectores científico y académico, público y privado, quienes concurrirán con voz pero sin voto.
+
+> <small>(ADICIONADO, G.O. 9 DE MAYO DE 2012)</small>
+
+Artículo 78 Quáter (sic).- El Comité Técnico tendrá las siguientes atribuciones:
+
+I. Establecer y aprobar las reglas de operación, lineamientos y criterios para el otorgamiento de apoyos;
+
+II. Revisar, aprobar y emitir, en su caso, las convocatorias, criterios de evaluación, selección y seguimiento de las solicitudes de apoyo;
+
+III. Analizar y, en su caso, aprobar las propuestas de asignación de apoyos; procurando en todo caso la equidad de género en su asignación;
+
+IV. Revisar y aprobar, en su caso, su manual de procedimientos y demás documentos normativos;
+
+V. Instruir a la fiduciaria respecto a la entrega de recursos que formen parte de los recursos del fideicomiso;
+
+VI. Revisar y aprobar, en su caso, la información financiera y contable del Fideicomiso, así como dictar las medidas preventivas y correctivas que sean procedentes;
+
+VII. Aprobar los programas y presupuestos de operación del fideicomiso;
+
+VIII. Autorizar la celebración de los actos y contratos de los cuales puedan derivar obligaciones a cumplir con cargo al patrimonio del fideicomiso;
+
+IX. Instruir a la fiduciaria respecto de la inversión de los fondos líquidos del fideicomiso;
+
+X. Definir los criterios y dictar las decisiones sobre el ejercicio de las acciones que procedan con motivo de la defensa del patrimonio del fideicomiso;
+
+XI. Ostentar la representación del fideicomiso o, en su caso, delegarla de conformidad con lo que se establezca en su manual de procedimientos y demás documentos normativos;
+
+XII. Establecer los sistemas de control y auditoria que considere adecuados, así como los de transparencia y rendición de cuentas;
+
+XIII. Analizar periódicamente la evaluación técnica, administrativa y financiera del desarrollo de los proyectos apoyados por el fideicomiso;
+
+XIV. Aprobar y ejercer el presupuesto anual de egresos del fondo;
+
+XV. Contratar al personal del fideicomiso exclusivamente bajo el régimen de prestación de servicios profesionales, por lo que no tendrán la calidad de servidores públicos. El presupuesto anual de gastos por administración del Fideicomiso no podrá ser superior al cinco por ciento del total anual del patrimonio del mismo;
+
+XVI. Determinar el destino y la manera en cómo habrán de aplicarse los recursos del fideicomiso en caso de extinción. Los recursos se aplicarán de manera preferente al cumplimiento de las obligaciones derivadas de los programas de apoyo que haya puesto en funcionamiento de conformidad con los fines que señala el artículo 84 BIS de la Ley Orgánica de la Asamblea Legislativa del Distrito Federal, y
+
+XVII. Las demás que establezcan la presente ley y otras disposiciones aplicables.
+
+En diciembre de cada año el Comité Técnico del fideicomiso rendirá por escrito y ante la Comisión de Gobierno de la Asamblea Legislativa un informe anual del ejercicio de sus funciones, en particular respecto del manejo de sus ingresos, los rendimientos de las inversiones y las erogaciones efectuadas.
+
+> <small>(ADICIONADO, G.O. 9 DE MAYO DE 2012)</small>
+
+Artículo 78 Quinquies (sic).- El Fondo es ente obligado en términos de la Ley de Transparencia y Acceso a la Información Pública y la Ley de Protección de Datos Personales, ambas del Distrito Federal, por lo que contará con la oficina de información pública y el portal de transparencia respectivos.
+
+El Comité Técnico pondrá a disposición del público, de manera impresa para su consulta directa y en el portal de transparencia, la siguiente información:
+
+I. Los estados financieros trimestrales que incluirán sus ingresos, rendimientos financieros, egresos, destino y saldo de sus recursos;
+
+II. Los convenios, acuerdos de colaboración o figuras análogas que se celebren, señalando el motivo, el nombre o razón social del ente, el tiempo de duración y los compromisos que adquiera;
+
+III. Las reglas de operación de los programas de subsidios, apoyos o ayudas que ponga en funcionamiento de conformidad con sus fines;
+
+IV. Los listados de quienes son parte de sus programas de subsidios, apoyos o ayudas que otorgue de conformidad con sus fines;
+
+V. Las minutas de las reuniones del Comité Técnico, así como los acuerdos adoptados;
+
+VI. El informe anual del ejercicio de sus funciones, y
+
+VII. Las demás que establezcan las leyes en materia de transparencia y demás disposiciones jurídicas aplicables.
 
 ### CAPITULO IV. DE LA ORGANIZACIÓN DE LA ASAMBLEA
 
-#### SECCIÓN 2. DE LA DIPUTACIÓN PERMANENTE
+#### SECCIÓN 1. DE LA COMISIÓN DE GOBIERNO
 
-(REUBICADO [N. DE E. ANTES ARTICULO 78], G.O. 30 DE MARZO DE 2005)
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 77], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 80.
 
@@ -1242,15 +1332,15 @@ En el supuesto de integración de la Comisión de Gobierno conforme al párrafo 
 
 En ausencia del Coordinador de algún Grupo Parlamentario, el Vicecoordinador asumirá las atribuciones correspondientes en las sesiones de la Comisión de Gobierno.
 
-#### SECCIÓN 1. DE LAS INICIATIVAS
+#### SECCIÓN 2. DE LA DIPUTACIÓN PERMANENTE
 
-(REUBICADO [N. DE E. ANTES ARTICULO 82], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 78], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 81.
 
 La Diputación Permanente es el órgano deliberativo de la Asamblea que durante los recesos de ésta, desempeña las funciones que le señala la Ley Orgánica y este Reglamento.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 79], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 79], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 82.
 
@@ -1264,7 +1354,7 @@ La Diputación Permanente se integrará de manera proporcional conforme al núme
 
 Sólo podrán participar en las sesiones de la Diputación Permanente los diputados que hayan sido designados por el Pleno como titulares o sustitutos, salvo aquellos que intervengan, únicamente con voz pero sin voto, para presentar y argumentar dictámenes de proposiciones en representación de la dictaminadora respectiva.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 80], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 80], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 83.
 
@@ -1274,7 +1364,7 @@ La Diputación Permanente sesionará los días y la hora en que el Presidente se
 
 La Diputación Permanente sesionará por lo menos una vez a la semana, salvo por caso fortuito o de fuerza mayor y siempre que así lo acuerde la mayoría de sus integrantes.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 81], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 81], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 84.
 
@@ -1284,9 +1374,9 @@ Para el desarrollo de las sesiones de la Diputación Permanente se aplicará en 
 
 ### CAPITULO I. DEL PROCEDIMIENTO LEGISLATIVO
 
-#### SECCIÓN 2. DEL ORDEN DEL DIA
+#### SECCIÓN 1. DE LAS INICIATIVAS
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 89], G.O. 30 DE MARZO DE 2005)</small>
+(REUBICADO [N. DE E. ANTES ARTÍCULO 82], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 85.
 
@@ -1298,7 +1388,7 @@ II.- Al Jefe de Gobierno, y
 
 III.- A los ciudadanos del Distrito Federal, de conformidad con la fracción IV del artículo 46 del Estatuto.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 83], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 83], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 86.
 
@@ -1340,7 +1430,7 @@ Si la Asamblea se encuentra en periodo de sesiones ordinarias y hubiere transcur
 
 Si pasados cinco días a partir de la excitativa no se hubiere producido dictamen, el Presidente enviará la iniciativa a la Comisión de Normatividad Legislativa, Estudios y Prácticas Parlamentarias para que elabore el dictamen correspondiente en un plazo que en ningún caso podrá ser mayor a treinta días naturales.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 86], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 86], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 89.
 
@@ -1352,7 +1442,7 @@ II.- El o los Diputados a quienes se les hubiera encomendado la elaboración de 
 
 III.- La totalidad de los integrantes de la Comisión.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 87], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 87], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 90.
 
@@ -1366,7 +1456,7 @@ Las iniciativas de leyes o decretos aprobados por el Pleno que se remitan al Con
 
 La Comisión de la Asamblea que haya elaborado el dictamen de que se trate, acudirá ante la Cámara correspondiente, cuando ésta así lo solicite, para explicar o fundamentar la o las iniciativas de leyes o decretos en cuestión.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 88], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 88], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 91.
 
@@ -1374,9 +1464,9 @@ Las iniciativas dictaminadas y no aprobadas por el Pleno, no podrán volver a pr
 
 A tal efecto, la Comisión elaborará un nuevo dictamen en el que deberán tenerse en cuenta las observaciones hechas por los Grupos Parlamentarios o por los Diputados, si éstas proceden.
 
-#### SECCIÓN 3. DE LAS SESIONES
+#### SECCIÓN 2. DEL ORDEN DEL DIA
 
-(REUBICADO [N. DE E. ANTES ARTICULO 93], G.O. 30 DE MARZO DE 2005)
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 89], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 92.
 
@@ -1412,7 +1502,7 @@ Los asuntos a tratar en las sesiones ordinarias se listarán en el Orden del Dí
 
 12.- Asuntos Generales.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JULIO DE 2007)</small>
 
 ###### Artículo 93.
 
@@ -1422,21 +1512,21 @@ Las iniciativas, peticiones, proposiciones o denuncias que algún Diputado desee
 
 Sólo aquellas que revistan carácter de urgente, y así lo determine el pleno, podrán presentarse sin haber sido previamente inscritas y se desahogarán con posterioridad a las previamente registradas.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 91], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 91], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 94.
 
 De las peticiones que los particulares formulen por escrito a la Asamblea, corresponderá al Presidente fijar el trámite que para su atención sea necesario, mismo del que se informará al peticionario, así como a la Comisión de Gobierno.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 92], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 92], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 95.
 
 El Presidente deberá reunirse antes de cada sesión con los integrantes de la Mesa Directiva para complementar, en su caso, el Orden del Día elaborado en consulta con la Comisión de Gobierno y para ordenar el desahogo de los asuntos en el curso de la sesión.
 
-#### SECCIÓN 4. DE LOS DEBATES
+#### SECCIÓN 3. DE LAS SESIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O.19 DE NOVIEMBRE DE 2010)</small>
+(REUBICADO [N. DE E. ANTES ARTÍCULO 93], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 96.
 
@@ -1450,7 +1540,7 @@ Durante sus recesos, la Asamblea podrá celebrar periodos de sesiones extraordin
 
 Para el desarrollo de las sesiones, permanecerá en un lugar visible en el salón de sesiones del recinto de la Asamblea, un intérprete traductor de lenguaje dactilológico, solicitado a la Oficialía Mayor, con anterioridad por lo menos con 48 horas de anticipación por algún diputado, con el fin de traducir a la ciudadanía con discapacidad auditiva el asunto tratado en la misma.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 94], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 94], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 97.
 
@@ -1464,7 +1554,7 @@ Las sesiones no podrán realizarse fuera del Distrito Federal.
 
 Las sesiones se desarrollarán de conformidad con el Orden del Día elaborado por la Mesa Directiva conjuntamente con la Comisión de Gobierno y se desahogarán, de igual manera, los asuntos que presentan los Diputados o los Grupos Parlamentarios con carácter de urgente o extraordinario y así sean aceptados por el Pleno.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 96], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 96], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 99.
 
@@ -1476,7 +1566,7 @@ En dicha sesión inaugural el Presidente declarará en voz alta:
 
 El Presidente hará igual declaratoria antes de iniciar el segundo periodo de sesiones ordinarias, a las once horas del 15 de marzo de cada año.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 97], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 97], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 100.
 
@@ -1484,7 +1574,7 @@ La primera sesión del primer periodo de sesiones ordinarias de cada año, tendr
 
 Se exceptúa de lo anterior la sesión inicial del primer periodo de sesiones de cada Legislatura, en el cual se tratarán los asuntos señalados por la Ley Orgánica de la Asamblea, debiéndose recibir el informe a que se refiere el presente artículo en la siguiente sesión del citado periodo que deberá llevarse a cabo en la misma fecha.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 98], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 98], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 101.
 
@@ -1494,7 +1584,7 @@ La Asamblea sesionará los días y a partir de la hora que el Presidente señale
 
 La Asamblea celebrará por lo menos dos sesiones a la semana y no podrá suspender sus sesiones salvo por caso fortuito, de fuerza mayor o a propuesta de la Comisión de Gobierno y siempre que así lo acuerde la mayoría de sus integrantes y se repongan las sesiones en las semanas subsecuentes.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 99], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 99], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 102.
 
@@ -1512,13 +1602,13 @@ Se tomará en cuenta la asistencia de los diputados que se encuentren presentes 
 
 Los Diputados que habiendo pasado lista de asistencia al inicio de la sesión, no se encuentren presentes en el pase de la lista de termino de la misma sin causa justificada, se harán acreedores al descuento a que se (sic) hace referencia el artículo 26 del presente Reglamento.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 100], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 100], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 103.
 
 Las sesiones podrán ser ordinarias, extraordinarias, privadas, permanentes o solemnes.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 101], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 101], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 104.
 
@@ -1528,13 +1618,13 @@ Se iniciarán, salvo disposición del Presidente y por mediar causa que lo justi
 
 En el caso de que la Asamblea acuerde citar a comparecer ante el Pleno a un Servidor Público de la Administración Pública del Distrito Federal, la Comisión de Gobierno propondrá al Pleno el formato conforme al cual se desarrollará la sesión.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 102], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 102], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 105.
 
 Son extraordinarias las sesiones que se celebren fuera del periodo de sesiones ordinarias y tendrán lugar cuando así se determine de conformidad con lo dispuesto por el presente Reglamento.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 103], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 103], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 106.
 
@@ -1542,7 +1632,7 @@ Al inicio de las sesiones, el Presidente ordenará pasar lista de presentes. Com
 
 Las sesiones ordinarias y extraordinarias se regirán por el Orden del Día que al efecto prepare la Mesa Directiva y la Comisión de Gobierno en los términos del presente Reglamento; será dado a conocer al Pleno una vez que se determine la existencia del quórum. Abierta la sesión se procederá a aprobar el Acta de la Sesión anterior.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 104], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 104], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 107.
 
@@ -1560,7 +1650,7 @@ V.- Una relación sucinta, ordenada y clara de los asuntos tratados, expresando 
 
 De la misma se entregará copia al Presidente, a los Coordinadores de los Grupos Parlamentarios, a quienes hubieren intervenido en la sesión y a los Diputados que expresamente y por escrito lo soliciten para que puedan, en su caso, pedir que se hagan las rectificaciones pertinentes.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 105], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 105], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 108.
 
@@ -1572,7 +1662,7 @@ II.- Los que apruebe el Pleno a solicitud de uno o más Diputados, y
 
 III.- Los demás que determine la Mesa Directiva.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 106], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 106], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 109.
 
@@ -1582,7 +1672,7 @@ Durante la sesión privada permanecerán en el recinto únicamente los Diputados
 
 Los concurrentes están obligados a guardar la más absoluta reserva sobre los asuntos tratados en la sesión.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 107], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 107], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 110.
 
@@ -1592,7 +1682,7 @@ Durante la sesión permanente no podrá darse cuenta ni trámite a ningún asunt
 
 La sesión permanente podrá tener los recesos que acuerde el Presidente en los términos de este Reglamento y se dará por concluida al agotarse los trabajos correspondientes.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 108], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 108], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 111.
 
@@ -1600,7 +1690,7 @@ La Asamblea puede llevar a cabo sesiones solemnes para honrar a los héroes naci
 
 Las sesiones solemnes se desarrollarán con el propósito exclusivo que se fije en la propuesta al efecto aprobada y se desahogarán conforme a las reglas expresamente fijadas por el Pleno a propuesta de la Comisión de Normatividad Legislativa, Estudios y Prácticas Parlamentarias.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 109], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 109], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 112.
 
@@ -1608,27 +1698,27 @@ Las personas que deseen asistir a las sesiones de la Asamblea tendrán acceso a 
 
 Los asistentes deberán guardar las normas de orden, respeto, silencio y compostura y no tomarán parte en los debates con ninguna clase de demostración.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 110], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 110], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 113.
 
 El acceso del público al recinto oficial será garantizado por personal administrativo de la Asamblea. No se permitirá la entrada a quienes se presenten armados; bajo el aparente influjo de alguna sustancia tóxica enervante; embozados; se nieguen a identificarse o pretendan introducir objetos extraños sin someterlos a su inspección por el personal encargado.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 111], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 111], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 114.
 
 Los asistentes que perturben el orden impidiendo el desarrollo normal de la sesión, podrán ser desalojados por disposición del Presidente. Si la falta lo amerita, quienes la cometan serán remitidos a las autoridades correspondientes.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 112], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 112], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 115.
 
 La Mesa Directiva asegurará en todo tiempo el libre acceso de los medios de comunicación a las sesiones públicas de la Asamblea, a fin de garantizar que cumplan con su función.
 
-#### SECCIÓN 5. DE LAS VOTACIONES
+#### SECCIÓN 4. DE LOS DEBATES
 
-(REUBICADO [N. DE E. ANTES ARTICULO 131], G.O. 30 DE MARZO DE 2005)
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O.19 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 116.
 
@@ -1650,13 +1740,13 @@ Finalizada la lista de hasta seis oradores, se someterá a votación del Pleno e
 
 Sólo para el caso de que no hayan existido oradores en contra o en pro, el Presidente de la Mesa Directiva autorizará a los Grupos Parlamentarios a que razonen su voto por conducto de uno de sus integrantes.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 114], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 114], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 117.
 
 Todo dictamen con proyecto de ley o decreto que conste de más de treinta artículos, podrá ser discutido y aprobado por los libros, títulos, capítulos, secciones o párrafos en los que lo dividieren sus autores o las Comisiones encargadas de su despacho, siempre que así lo acuerde el Pleno a moción de uno o más de sus miembros; pero se votará separadamente cada uno de los artículos o fracciones del artículo o de la sección que esté al debate, si lo pide algún Diputado y el Pleno aprueba la petición.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 115], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 115], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 118.
 
@@ -1666,7 +1756,7 @@ Los votos particulares que se hayan discutido en las Comisiones se deberán dist
 
 Si no se cumple con este requisito, el dictamen no podrá ser discutido en la sesión respectiva, salvo que se dispense el procedimiento por el Pleno de la Asamblea.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 116], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 116], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 119.
 
@@ -1676,7 +1766,7 @@ Intervendrán en el debate los Diputados que al efecto se hubiesen inscrito. Igu
 
 El presente artículo sólo será aplicable para la discusión de dictámenes y no se podrá invocar en la discusión de proposiciones consideradas de urgente y obvia resolución.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 117], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 117], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 120.
 
@@ -1702,7 +1792,7 @@ Esta fracción no será aplicable a los dictámenes que se refieren a proposicio
 
 La discusión en lo particular se ordenará de manera análoga a la establecida por la discusión en lo general.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JULIO DE 2007)</small>
 
 ###### Artículo 121.
 
@@ -1712,13 +1802,13 @@ Las intervenciones se pronunciarán personalmente y de viva voz, en un término 
 
 Cuando se trate de propuestas, pronunciamientos y denuncias a que se refiere el artículo 92 numeral 10 de este ordenamiento, los Diputados podrán solicitar la palabra sin estar registrados en el orden del día para hablar sobre el mismo tema hasta por diez minutos. Sólo podrá participar un Diputado por cada Grupo Parlamentario.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 119], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 119], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 122.
 
 Ningún Diputado podrá ser interrumpido cuando se encuentre en uso de la palabra, salvo por el Presidente para advertirle que se ha agotado el tiempo; exhortarlo a que se atenga el tema de discusión; llamarlo al orden cuando ofenda a la Asamblea, a alguno de sus miembros o al público, o para preguntarle si acepta contestar alguna interpelación que desee formularle otro Diputado.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 120], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 120], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 123.
 
@@ -1726,7 +1816,7 @@ Las interpelaciones que se formulen a los Diputados que estén en el uso de la p
 
 Quien solicite la interpelación lo hará desde su lugar y en forma que todos los asistentes puedan escucharle. Quedan absolutamente prohibidas las discusiones en forma de diálogo.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 121], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 121], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 124.
 
@@ -1734,7 +1824,7 @@ En cualquier estado del debate, un Diputado podrá pedir la observancia del Regl
 
 Escuchada la moción, el Presidente resolverá lo conducente.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 122], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 122], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 125.
 
@@ -1748,7 +1838,7 @@ III.- Por graves desórdenes en la Asamblea, a juicio del Presidente; y
 
 IV.- Por moción suspensiva que presente alguno o algunos de los miembros de la Asamblea y que ésta apruebe.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 123], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 123], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 126.
 
@@ -1756,7 +1846,7 @@ En el caso de presentarse una moción suspensiva, ésta deberá ser por escrito 
 
 No podrá presentarse más de una moción suspensiva en la discusión de un asunto.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 124], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 124], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 127.
 
@@ -1768,25 +1858,25 @@ En estos casos el Presidente concederá el uso de la palabra inmediatamente desp
 
 Las alusiones personales tienen preferencia sobre las alusiones de partido. No proceden las alusiones sobre alusiones.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 125], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 125], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 128.
 
 En el curso de un debate los Diputados podrán rectificar hechos al concluir el orador, haciendo uso de la palabra y por un tiempo máximo de cinco minutos.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 126], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 126], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 129.
 
 Agotada la lista de oradores dada a conocer al inicio del debate y concluidas las alusiones personales o las rectificaciones a que se refieren los dos artículos anteriores, el Presidente preguntará al Pleno si el asunto se encuentra suficientemente discutido, en cuyo caso cerrará el debate y llamará de inmediato a votación.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 127], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 127], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 130.
 
 Para que la Asamblea pueda adoptar sus acuerdos o resoluciones, deberá contar al momento de la votación, con la presencia de la mayoría de sus integrantes.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 128], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 128], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 131.
 
@@ -1798,7 +1888,7 @@ En el caso de que no exista quórum al momento de iniciar una votación, el Pres
 
 En caso de que algún Diputado objetara la existencia de quórum necesario dentro de alguno de los supuestos requeridos en el presente Reglamento, podrá solicitar al Presidente que constate el mismo, quien ordenará a la Secretaría pasar lista para verificar el número de Diputados presentes. De no existir el quórum, el Presidente levantará la sesión, procediendo a solicitar el descuento que se refiere (sic) el artículo 26 de este Reglamento.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 129], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 129], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 132.
 
@@ -1808,7 +1898,7 @@ I.- Deberá presentarse por escrito y firmada por su o sus autores al Presidente
 
 II.- El Presidente turnará a la Comisión o Comisiones correspondientes, la propuesta presentada para su análisis y dictamen.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JULIO DE 2007)</small>
 
 ###### Artículo 133.
 
@@ -1826,9 +1916,9 @@ Si durante la discusión se profirieron alusiones, éstas deberán desahogarse i
 
 Salvo la hipótesis planteada en este precepto, ninguna proposición podrá decidirse sin que primero pase a la Comisión o Comisiones correspondientes y éstas la hayan analizado y dictaminado.
 
-#### SECCIÓN 6. DE LA EXPEDICIÓN DE LAS LEYES
+#### SECCIÓN 5. DE LAS VOTACIONES
 
-(REUBICADO [N. DE E. ANTES ARTICULO 140], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 131], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 134.
 
@@ -1838,7 +1928,7 @@ Habrá tres clases de votaciones: nominal, por cédula y económicas.
 
 Todas las resoluciones se adoptarán por mayoría de votos de los Diputados presentes, excepto en aquellos casos en que las disposiciones legales aplicables señalen la aprobación por una mayoría calificada.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 132], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 132], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 135.
 
@@ -1848,13 +1938,13 @@ Igualmente podrá sujetarse a votación nominal un acuerdo o propuesta cuando lo
 
 En caso de duda en el resultado de una votación nominal, por una sola ocasión, el Presidente de la Mesa Directiva a solicitud de algún Diputado, ordenará a la Secretaría realice de nueva cuenta la votación, dando a conocer de inmediato el resultado.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 133], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 133], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 136.
 
 El Presidente podrá reservar para el final de la discusión la votación en lo general y la de las modificaciones o adiciones que en lo particular se propongan a un artículo o fracción, a fin de preservar la continuidad del debate.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 134], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 134], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 137.
 
@@ -1868,7 +1958,7 @@ III.- Concluido este acto, uno de los mismos Secretarios de la Mesa Directiva pr
 
 IV.- El Secretario hará enseguida el cómputo de los votos y dará a conocer el resultado.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 135], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 135], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 138.
 
@@ -1876,19 +1966,19 @@ Las votaciones para elegir Diputados que ocuparán algún cargo en la Mesa Direc
 
 Concluida la votación, los Secretarios sacarán las cédulas del ánfora, las clasificarán en paquetes que contengan los nombre (sic) iguales de las fórmulas votadas, harán el cómputo de los votos y lo darán a conocer al Presidente, quien hará la declaratoria correspondiente.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 136], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 136], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 139.
 
 Si hubiere empate en las votaciones, se repetirá la votación en la misma sesión; y si por segunda vez resultare empatada, se discutirá y votará de nuevo el asunto en la sesión inmediata, pudiendo inscribirse hasta cuatro oradores en pro y cuatro oradores en contra para hacer uso de la palabra por no más de quince minutos cada uno.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 137], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 137], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 140.
 
 Las votaciones para elegir Mesa Directiva de la Asamblea, se decidirán dentro de la misma sesión.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 138], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 138], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 141.
 
@@ -1896,7 +1986,7 @@ Las resoluciones de la Asamblea diversas a las reguladas en los artículos 135 y
 
 Para llevar a cabo una votación económica, la Secretaría de la Mesa Directiva preguntará: "Por instrucciones de la Presidencia se pregunta a los señores Diputados si están a favor o en contra de la propuesta sometida a su consideración"; debiéndose poner de pie los Diputados para manifestar su determinación; primeramente los que estén a favor y en seguida los que estén en contra.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 139], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 139], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 142.
 
@@ -1904,29 +1994,29 @@ Cualquier Diputado podrá solicitar la rectificación de una votación económic
 
 Cuando algún Diputado objetare por más de dos ocasiones el resultado de la votación económica, el Presidente ordenará a la Secretaría de la Mesa Directiva que la efectúe de manera nominal.
 
-#### SECCIÓN 7. DEL DIARIO DE DEBATES
+#### SECCIÓN 6. DE LA EXPEDICIÓN DE LAS LEYES
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 143], G.O. 30 DE MARZO DE 2005)</small>
+(REUBICADO [N. DE E. ANTES ARTÍCULO 140], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 143.
 
 Toda resolución de la Asamblea tendrá el carácter de ley o de decreto, será redactada con precisión y claridad, en la forma que hubiere sido aprobada, y al expedirse será autorizada por las firmas del Presidente y por lo menos un Secretario de la Asamblea.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 141], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 141], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 144.
 
 Las leyes y decretos se comunicarán al Jefe de Gobierno por el Presidente y por un Secretario de la Asamblea en esta forma: "La Asamblea Legislativa del Distrito Federal decreta": (texto de la ley o decreto)."
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 142], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 142], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 145.
 
 Las leyes y decretos que expida la Asamblea se asentarán, por orden cronológico y textualmente, en el libro que al efecto lleve un Secretario de la Asamblea.
 
-#### SECCIÓN 1. DE LA GESTIÓN SOCIAL
+#### SECCIÓN 7. DEL DIARIO DE DEBATES
 
-(REUBICADO [N. DE E. ANTES ARTICULO 148], G.O. 30 DE MARZO DE 2005)
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 143], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 146.
 
@@ -1940,7 +2030,7 @@ La Asamblea a través de las unidades administrativas competentes, garantizará 
 
 ### CAPITULO II. DE LAS COMPARECENCIAS DE SERVIDORES PÚBLICOS
 
-(REUBICADO [N. DE E. ANTES ARTICULO 144], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 144], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 147.
 
@@ -1948,13 +2038,13 @@ La Asamblea podrá citar a servidores públicos de la Administración Pública d
 
 Los servidores públicos podrán ser igualmente citados a asistir a las sesiones del Pleno o de las Comisiones en que se discutan asuntos vinculados con la dependencia a su cargo.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 145], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 145], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 148.
 
 Cuando los servidores públicos de la Administración Pública del Distrito Federal fueren llamados por la Asamblea para comparecer ante el Pleno, se les remitirá notificación respectiva, y en su caso, la documentación relativa al asunto a examinarse en la comparecencia.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 146], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 146], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 149.
 
@@ -1994,9 +2084,9 @@ Las Mesas Directivas del Pleno, de la Diputación Permanente o de las Comisiones
 
 ### CAPITULO III. SERVICIOS DE LOS DIPUTADOS A LA CIUDADANÍA
 
-#### SECCIÓN 2. DE LA CONSULTA PUBLICA
+#### SECCIÓN 1. DE LA GESTIÓN SOCIAL
 
-(REUBICADO [N. DE E. ANTES ARTICULO 152], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 148], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 153.
 
@@ -2004,7 +2094,7 @@ La gestión social es la acción a través de la cual la Asamblea, por medio del
 
 La atención, orientación y asesoría de las demandas ciudadanas, así como las gestiones correspondientes, serán gratuitas.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 149], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 149], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 154.
 
@@ -2016,7 +2106,7 @@ II.- Las peticiones o quejas se presentarán ante la Oficialía de Partes o dire
 
 Quejas Ciudadanas y los Módulos, quienes si puede satisfacerlas, las tramitarán de inmediato y haciéndoselo saber por escrito al peticionario. Cuando el Comité o los Módulos no puedan satisfacer la petición, la turnarán a la Comisión correspondiente.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 150], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 150], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 155.
 
@@ -2026,7 +2116,7 @@ La Comisión estudiará la petición o queja y, cuando la atención de la misma 
 
 La Comisión, una vez realizadas las gestiones, informará al Comité de Atención, Orientación y Quejas Ciudadanas, de las acciones que se llevaron a cabo, para su control y seguimiento.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 151], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 151], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 156.
 
@@ -2034,27 +2124,27 @@ Para la gestión de las demandas de los habitantes del Distrito Federal, los Dip
 
 Si la petición fue presentada en un Módulo, se le señalará copia para que pueda informar al interesado.
 
-#### SECCIÓN 3. LA AUDIENCIA PUBLICA
+#### SECCIÓN 2. DE LA CONSULTA PUBLICA
 
-(REUBICADO [N. DE E. ANTES ARTICULO 159], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 152], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 157.
 
 La Asamblea, por acuerdo de la mayoría de sus miembros, podrá convocar a consulta pública sobre los asuntos de su competencia, cuando a juicio de ésta se requiera conocer la opinión de los habitantes del Distrito Federal sobre determinado asunto.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 153], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 153], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 158.
 
 La consulta pública a que convoque la Asamblea podrá abarcar todo el Distrito Federal o una de sus demarcaciones, podrá comprender uno o varios sectores de la población y una o varias materias específicas que estén vinculadas, de acuerdo con los objetivos que la propia Asamblea haya fijado en la convocatoria.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 154], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 154], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 159.
 
 La Comisión correspondiente fijará las bases de la consulta pública mediante convocatoria, llevará la conducción, realizará el análisis de los resultados y presentará las conclusiones al Pleno.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 155], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 155], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 160.
 
@@ -2070,23 +2160,27 @@ IV.- Las fechas y los lugares en que habrán de celebrarse las audiencias, y
 
 V.- Las normas que regirán el desarrollo de la consulta pública.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 156], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 156], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 161.
 
 Una vez conocidas las conclusiones de la consulta pública, el Presidente ordenará publicar los resultados de la misma, por lo menos en dos diarios de cobertura nacional, para dar a conocer a la ciudadanía del Distrito Federal las acciones que con esta base llevará a cabo la propia Asamblea. Simultáneamente, se enviará a la autoridad correspondiente para que sean aplicadas en el ámbito de su competencia.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 157], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 157], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 162.
 
 En los recesos del Pleno, la Comisión de Gobierno autorizará la consulta pública, a petición escrita de alguna Comisión donde se fijen los propósitos y objetivos de la misma.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 158], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 158], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 163.
 
 La Asamblea instalará una red informática con terminales en cada Delegación Política que permita a los ciudadanos obtener información inmediata y detallada acerca del proceso legislativo, y a los Diputados conocer de manera directa las opiniones e iniciativas de los ciudadanos.
+
+#### SECCIÓN 3. LA AUDIENCIA PUBLICA
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 159], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 164.
 
@@ -2094,19 +2188,19 @@ Los Diputados deberán realizar audiencias en su distrito o circunscripción por
 
 Los Diputados de mayoría relativa celebrarán audiencias en la demarcación del distrito electoral por el que resultaron electos y los de representación proporcional en cualquier lugar del Distrito Federal.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 160], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 160], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 165.
 
 A las audiencias públicas podrán concurrir Diputados de diferentes partidos, siempre que éstos manifiesten interés en determinada problemática o atención a determinado núcleo poblacional.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 161], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 161], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 166.
 
 Los Diputados llevarán un registro de los asuntos que les sean planteados y darán a conocer al peticionario el resultado de su gestión por escrito.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 162], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 162], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 167.
 
@@ -2132,17 +2226,17 @@ V. Viajes realizados que tengan relación con su labor parlamentaria; y
 
 VI. Cualquier otra información que considere relevante con base en los principios de máxima transparencia y rendición de cuentas.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 164], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 164], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 169.
 
 Recibidos los informes por la Comisión de Gobierno, ésta los turnará al Comité de Asuntos Editoriales, a efecto de que éste programe la publicación de un informe anual consolidado de las acciones que en forma individual o colegiada se hayan realizado.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
 
 ## TÍTULO CUARTO. DE LA ENTREGA DE PRESEAS Y RECONOCIMIENTOS DE LA ASAMBLEA LEGISLATIVA
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
 
 ### CAPÍTULO I
 
@@ -2314,7 +2408,7 @@ VI.- La información documental adicional de acuerdo con la disciplina de la esp
 
 La documentación completa de las candidaturas remitidas a la Comisión correspondiente, se considerará confidencial, por lo que éstas permanecerán bajo resguardo de la Comisión respectiva, en tanto ésta emita el dictamen correspondiente.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
 
 ### CAPÍTULO II. DE LA MEDALLA AL MÉRITO CIUDADANO
 
@@ -2324,7 +2418,7 @@ La documentación completa de las candidaturas remitidas a la Comisión correspo
 
 La Medalla al Mérito Ciudadano se otorgará dos veces al año como reconocimiento público a mexicanos y mexicanas que se han destacado en la realización de actividades cuyos resultados aporten singulares beneficios en las diversas áreas del conocimiento humano.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 182.
 
@@ -2364,11 +2458,11 @@ El periodo para el registro de candidatos a recibir la Medalla al Mérito Ciudad
 
 El reconocimiento de la Medalla al Mérito Ciudadano y el Diploma respectivo serán otorgados en Sesión Solemne que deberá celebrarse dentro del mes de abril y octubre de cada año respectivamente.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
 ### CAPITULO III. DE LA DISTINCIÓN EN LAS CIENCIAS, LAS ARTES Y LA EJECUCIÓN MUSICAL Y ARTÍSTICA
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
 ### CAPÍTULO IV. DE LA MEDALLA AL MÉRITO POLICIAL
 
@@ -2432,7 +2526,7 @@ En caso de ser dos dictámenes cada presidente de la Comisión ya sea de Ciencia
 
 Para conceder los Reconocimientos, las Comisiones unidas elaborarán, durante la primera quincena del mes de octubre del año que corresponda una sola convocatoria que contemple a las Ciencias, las Artes y la Ejecución Musical y Artística.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 193.
 
@@ -2522,7 +2616,7 @@ La medalla al Mérito en Ejecución Musical se otorgará anualmente en sesión s
 
 El reconocimiento al Artista Intérprete se otorgará anualmente en sesión solemne que tendrá verificativo el 5 de diciembre del año que corresponda, en celebración del “Día del Artista Intérprete”.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
 
 ### CAPÍTULO V. DE LA MEDALLA AL MÉRITO DEPORTIVO
 
@@ -2570,7 +2664,7 @@ El reconocimiento se podrá otorgar hasta un máximo de seis elementos de los Cu
 
 La Comisión de Seguridad Pública deberá formular la convocatoria correspondiente en la primera quincena del mes de octubre del año que corresponda, publicándose en por lo menos dos diarios de circulación nacional, con sujeción a las presentes bases.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JULIO DE 2007)</small>
 
 ###### Artículo 203.
 
@@ -2586,7 +2680,7 @@ Además de los requisitos señalados en el artículo 180 se deberá tomar en cue
 
 La Sesión Solemne para entregar la Medalla al Mérito Policial se realizará en la fecha en que se conmemore el "Día del Policía" del año que corresponda.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
 
 ### CAPÍTULO VI. DE LA MEDALLA AL MÉRITO DE PROTECCIÓN CIVIL
 
@@ -2648,7 +2742,7 @@ II.- Características personales, aptitudes naturales y nivel deportivo.
 
 La Sesión Solemne para la entrega del Reconocimiento al Mérito Deportivo se celebrará dentro de la segunda quincena del mes de marzo del año que corresponda.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 19 DE JULIO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 19 DE JULIO DE 2011)</small>
 
 ### CAPÍTULO VII. DEL PROCESO DE ELECCIÓN DE CANDIDATOS
 
@@ -2698,7 +2792,7 @@ Las propuestas y la documentación correspondiente de los candidatos para ser me
 
 La Sesión Solemne para entregar la Medalla al Mérito de Protección Civil se realizará en la fecha en que se conmemore el «Día Nacional de Protección Civil» del año que corresponda.
 
-(MODIFICADO EN SU NUMERACION [N. DE E. ANTES CAPITULO VI], G.O. 19 DE JULIO DE 2011)
+(MODIFICADO EN SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO VI], G.O. 19 DE JULIO DE 2011)
 
 ###### Artículo 213.
 
@@ -2716,7 +2810,7 @@ Solamente por causa de fuerza mayor, no imputable al interesado, previa justific
 
 Se tomará en cuenta de preferencia que los candidatos al reconocimiento respectivo sean habitantes del Distrito Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 216.
 
@@ -2726,7 +2820,7 @@ Si se excusare el candidato propuesto por la Comisión dictaminadora para recibi
 
 En caso de declarar desierta el otorgamiento de la medalla, la Comisión dictaminadora deberá presentar el dictamen correspondiente ante el Pleno de la Asamblea Legislativa.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 217.
 
@@ -2766,7 +2860,7 @@ El Pleno de la Asamblea Legislativa establecerá las reglas para la Sesión Sole
 
 En la Sesión Solemne que deberá celebrarse, se invitarán como testigos de honor al Jefe de Gobierno del Distrito Federal y al Presidente del Tribunal Superior de Justicia del Distrito Federal, quienes ocuparán el lugar que le corresponde dentro de la Mesa Directiva de la Asamblea Legislativa.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
 
 ## TÍTULO QUINTO. DE LA INSCRIPCIÓN CON LETRAS DE ORO EN EL MURO DE HONOR Y DENOMINACIÓN DE SALONES DE LA ASAMBLEA LEGISLATIVA
 
@@ -2812,7 +2906,7 @@ Recinto Legislativo a 29 de abril de 2003
 
 PRESIDENTE, DIP. TOMÁS LÓPEZ GARCÍA.- SECRETARIO, DIP. ROBERTO E. LÓPEZ GRANADOS.- (Firmas).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 G.O. 23 DE SEPTIEMBRE DE 2003.
 
@@ -2965,3 +3059,15 @@ El presente Decreto entrará en vigor al día siguiente de su aprobación por el
 ###### ARTÍCULO SEGUNDO.
 
 Respecto de las reformas a la Ley Orgánica, remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 9 DE MAYO DE 2012.
+
+PRIMERO.- Remítase al Jefe de Gobierno única y exclusivamente para su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+TERCERO.- El Fondo al que se refiere la presente Ley es el que actualmente opera la Asamblea a través del contrato de Fideicomiso de Apoyo a la Educación y al Empleo de las y los Jóvenes del D.F., que suscribió el treinta y uno de marzo de dos mil once el Presidente en turno de la Mesa Directiva del Pleno de la Asamblea Legislativa del Distrito Federal, Diputado Sergio Israel Eguren Cornejo, con el Banco Mercantil del Norte S.A. Institución de Banca Múltiple, Grupo Financiero Banorte.
+
+La Comisión de Gobierno y el Comité Técnico del fideicomiso realizarán las modificaciones al contrato referido en el párrafo anterior para dar cumplimiento al presente decreto.
+
+CUARTO.- La Asamblea Legislativa del Distrito Federal garantizará que los apoyos hasta el momento otorgados por el Fideicomiso mencionado en el artículo transitorio anterior continúen hasta la conclusión del grado de estudios para el que fueron comprometidos.
