@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-organismo-publico-descentralizado-40705
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-13"
-last_updated: "2004-08-13"
+last_updated: "2012-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO INSTITUTO POBLANO DEL DEPORTE
 
-REGLAMENTO INTERIOR DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "INSTITUTO POBLANO DEL DEPORTE"
+REGLAMENTO INTERIOR DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "INSTITUTO POBLANO DEL DEPORTE"
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO SEGUNDO DEL DECRETO POR EL QUE SE SUPRIME EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "INSTITUTO POBLANO DEL DEPORTE" PUBLICADO EN EL P.O. DE 9 DE MAYO DE 2012, SE SUPRIME EL MENCIONADO ORGANISMO, TRANSFIRIENDO SUS RECURSOS, DERECHOS, OBLIGACIONES Y DEMÁS ASUNTOS A DIVERSOS ORGANISMOS DE LA ADMINISTRACIÓN PUBLICA ESTATAL EN LOS TÉRMINOS DE LOS ARTÍCULOS TRANSITORIOS DE DICHO DECRETO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2012.
 
 Reglamento publicado en la Segunda Sección, del Periódico Oficial del Estado de Puebla, el viernes 13 de agosto de 2004.
 
@@ -290,3 +292,31 @@ TRANSITORIOS (SIC)
 ÚNICO.- El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Heroica Puebla de Zaragoza, a catorce de junio de dos mil cuatro.- Integrantes de la H. Junta de Gobierno del Organismo Público Descentralizado denominado Instituto Poblano del Deporte: Presidenta Suplente.- PROFESORA MARÍA ELENA GALVÁN RODRÍGUEZ.- Rúbrica.- Secretario Suplente.- DOCTOR CÉSAR FLORES MONFIL.- Rúbrica.- Tesorera Suplente.- LICENCIADA CLAUDIA MORALES MÉNDEZ.- Rúbrica.- Vocal Suplente.- ARQUITECTO JORGE BELCHES LANDERO.- Rúbrica.- Comisario Público Suplente.- LICENCIADO RAÚL LÓPEZ ROLDÁN.- Rúbrica.- Director General.- LICENCIADO JOSÉ ENRIQUE IBARRA CASELÍN.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE MAYO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día hábil siguiente al de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Decreto del Honorable Congreso del Estado, por el cual se crea el Organismo Público Descentralizado denominado Instituto Poblano del Deporte, publicado en el Periódico Oficial del Estado con fecha siete de febrero de dos mil uno.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos humanos asignados al Instituto Poblano del Deporte que sean necesarios, serán transferidos a la Secretaría de Educación Pública. Las Secretarías de Finanzas y de Administración, en el ámbito de sus respectivas competencias, deberán realizar las acciones correspondientes para respaldar dichos movimientos.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos materiales propiedad del Instituto Poblano del Deporte y los bienes inmuebles destinados o en comodato al mismo a la entrada en vigor del presente Decreto, deberán ser transferidos al Gobierno del Estado de Puebla con destino a la Secretaría de Educación Pública de acuerdo a las disposiciones legales aplicables.
+
+###### ARTÍCULO QUINTO.
+
+Los recursos financieros con los que cuente el Instituto Poblano del Deporte a la entrada en vigor del presente Decreto, cualquiera que sea su origen, serán transferidos por la Secretaría de Finanzas a la Secretaría de Educación Pública para su ejercicio.
+
+###### ARTÍCULO SEXTO.
+
+Los servidores públicos del Instituto Poblano del Deporte, o en su caso, quienes hayan concluido su empleo, cargo o comisión y que por cualquier motivo hubieren tenido bajo su responsabilidad la captación, recaudación, manejo, administración, control, resguardo, custodia, ejercicio o aplicación de recursos públicos, deberán atender las instrucciones, requerimientos, resoluciones y solicitudes de los órganos de control y fiscalización.
