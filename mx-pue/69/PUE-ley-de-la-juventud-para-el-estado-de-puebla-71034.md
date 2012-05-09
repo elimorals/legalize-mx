@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-la-juventud-para-el-estado-de-puebla-71034"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-09"
-last_updated: "2009-11-09"
+last_updated: "2012-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LA JUVENTUD PARA EL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2012.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 9 de noviembre de 2009.
 
@@ -85,7 +85,9 @@ III.- Desarrollo integral: Todos aquellos elementos que contribuyan a replantear
 
 IV.- Ley: La Ley de la Juventud para el Estado de Puebla;
 
-V.- Instituto: Al Instituto Poblano de la Juventud;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+
+V.- Secretaría: a la Secretaría de Educación Pública;
 
 VI.- Consejo: Al Consejo Consultivo Estatal de Políticas de Juventud;
 
@@ -251,7 +253,7 @@ Para la difusión de esta Ley se incluirán contenidos que versen sobre la impor
 
 ###### Artículo 26.
 
-El Instituto creará espacios de formación de los profesores de educación secundaria, media superior y superior con perspectiva de juventud, género y ciudadanía.
+(DEROGADO, P.O. 9 DE MAYO DE 2012)
 
 ###### Artículo 27.
 
@@ -457,7 +459,9 @@ I.- Crear oportunidades de empleo dirigidas a la población joven, considerando 
 
 II.- Facilitar y promover la primera experiencia laboral, la cual permitirá a la persona joven participar en procesos de capacitación y formación laboral articulados con el proceso de educación formal, logrando que las y los jóvenes puedan adquirir conocimientos prácticos sin suspender sus estudios y consolidando su incorporación a la actividad económica, mediante una ocupación específica y formal, promoviendo su contratación en el sector público o privado;
 
-III.- En materia de jóvenes trabajadores en situación de desventaja social, el Instituto promoverá los mecanismos de colaboración y fomentará programas de protección para los adolescentes que tengan necesidad de trabajar, en términos de la legislación aplicable, promoviendo su contratación en el sector público o privado, sin suspender sus estudios;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+
+III.- En materia de jóvenes trabajadores en situación de desventaja social, la Secretaría promoverá los mecanismos de colaboración y fomentará programas de protección para los adolescentes que tengan necesidad de trabajar, en términos de la legislación aplicable, promoviendo su contratación en el sector público o privado, sin suspender sus estudios;
 
 IV.- Impulsar la creación de instancias de financiamiento para el desarrollo de proyectos productivos individuales o colectivos de la juventud estudiantil;
 
@@ -481,9 +485,11 @@ IV.- Ampliar la cobertura de los servicios de salud primarios gratuitos, la aten
 
 ### CAPÍTULO TERCERO. DEL PLAN ESTRATÉGICO PARA EL DESARROLLO DE LAS JUVENTUDES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2012)</small>
+
 ###### Artículo 60.
 
-El Plan Estratégico será formulado por el Instituto cada tres años como instrumento de política pública estatal, que deberá contar al menos con programas, proyectos y actividades en los siguientes rubros plasmados de manera enunciativa y no limitativa:
+Como instrumento de la política pública estatal, el Plan Estratégico será formulado por la Secretaría a partir de la propuesta elaborada por el Consejo; el Plan deberá contar al menos con programas, proyectos y actividades en los siguientes rubros plasmados de manera enunciativa y no limitativa:
 
 I.- La promoción, defensa y protección de los derechos de las y los jóvenes, desde una concepción de corresponsabilidad entre las instituciones del Estado, la familia y la sociedad;
 
@@ -501,11 +507,15 @@ VII.- Garantizar la calidad y cobertura de los servicios de asistencia social, d
 
 VIII.- Los sectores público, social y privado, celebrarán convenios o acuerdos de colaboración necesarios entre sí, y con las instancias estatales y federales correspondientes que realicen alguna o varias actividades que se relacionen con los objetivos establecidos en esta Ley. Dichos acuerdos se incorporarán al Plan Estratégico.
 
-El Plan Estratégico, será presentado al Consejo para su aprobación.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+
+Para el impulso, seguimiento y evaluación de los programas, proyectos y actividades a que se refiere este artículo, la Secretaría se coordinará con las Dependencias y Entidades Estatales y, en su caso, Federales competentes.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
 
 ###### Artículo 61.
 
-El Plan Estratégico debe ser elaborado a partir de la participación de las y los jóvenes, organizaciones juveniles, especialistas, instituciones académicas, organizaciones no gubernamentales, asociaciones civiles e instituciones de asistencia privada, representantes populares y demás sectores sociales, que tienen que ver con la temática juvenil para lo cual, el Instituto y el Consejo, deben llevar a cabo foros, conferencias, seminarios, reuniones de trabajo, recorridos y demás mecanismos que se consideren necesarios para cumplir con este fin. Además debe tener una perspectiva integral que permita abordar desde todas las dimensiones sociales los entornos juveniles.
+El Plan Estratégico debe ser elaborado a partir de la participación de las y los jóvenes, organizaciones juveniles, especialistas, instituciones académicas, organizaciones no gubernamentales, asociaciones civiles e instituciones de asistencia privada, representantes populares y demás sectores sociales, que tienen que ver con la temática juvenil para lo cual, la Secretaría y el Consejo, deben llevar a cabo foros, conferencias, seminarios, reuniones de trabajo, recorridos y demás mecanismos que se consideren necesarios para cumplir con este fin. Además deben tener una perspectiva integral que permita abordar desde todas las dimensiones sociales los entornos juveniles.
 
 ### CAPÍTULO CUARTO. DE LA TRANSVERSALIDAD, LA COORDINACIÓN INTERINSTITUCIONAL Y DEL FINANCIAMIENTO
 
@@ -517,71 +527,105 @@ La Política Estatal de la Juventud será transversal, por tanto, deberá inclui
 
 Los recursos presupuestales destinados a la Política Estatal de la Juventud, a los programas y acciones que de ella deriven se establecerán anualmente en la Ley de Egresos del Estado. Tales recursos se incrementarán con las aportaciones provenientes de las instituciones productivas del sector privado, de las aportaciones federales y de la cooperación internacional.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+
 ###### Artículo 64.
 
-El Instituto en coordinación con el Gobierno Estatal y los Ayuntamientos conforme a su suficiencia presupuestal, instrumentará un fondo de financiamiento para proyectos juveniles, el cual será operado por éste, con la colaboración de organizaciones no gubernamentales, asociaciones civiles e instituciones de asistencia privada.
+La Secretaría en coordinación con otras Dependencias, Entidades Estatales y los Ayuntamientos, según corresponda, instrumentará un fondo de financiamiento para proyectos juveniles con la colaboración de organizaciones no gubernamentales, asociaciones civiles e instituciones de asistencia privada, de acuerdo con la disponibilidad presupuestal con que, en su caso, cuente.
 
 ## TÍTULO CUARTO. DEL SISTEMA ESTATAL DE LA JUVENTUD
 
 ### CAPÍTULO PRIMERO. DEFINICIÓN, OBJETO E INTEGRACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2012)</small>
+
 ###### Artículo 65.
 
-El Sistema es el conjunto de instituciones, políticas públicas, programas, acciones y organismos encargados de promover los derechos de la juventud y su implementación será coordinada por el Instituto.
+El Sistema es el conjunto de instituciones, políticas públicas, programas, acciones y organismos encargados de promover los derechos de la juventud y su implementación será coordinada por la Secretaría.
 
 El Sistema funcionará como instrumento adicional a los mecanismos ya existentes en coordinación administrativa e institucional entre las dependencias, entidades, instituciones privadas, así como los organismos no gubernamentales responsables de la promoción, protección y respeto de los derechos de la población juvenil en la Entidad.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+
 ###### Artículo 66.
 
-El Sistema tiene por objeto garantizar la integridad, promoción, protección y la participación de los sectores público, social y privado respeto (sic) de las acciones en beneficio de la juventud conforme lo dispone esta Ley.
+El Sistema tiene por objeto garantizar la integridad, promoción, protección y la participación de los sectores público, social y privado, respecto de las acciones en beneficio de la juventud conforme lo dispone esta Ley.
+
+El Sistema se integrará por:
+
+a) La Secretaría;
+
+b) El Consejo Consultivo Estatal de Políticas de Juventud;
+
+c) Los Consejos Municipales de Juventud; y
+
+d) Las instituciones y organizaciones de la sociedad civil que trabajan con la juventud y en relación a las y los jóvenes.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
 
 ###### Artículo 67.
 
-El Sistema Estatal de la Juventud se integrará por:
+En el marco del Sistema, la Secretaría tendrá las atribuciones siguientes:
 
-a) El Consejo Consultivo Estatal de Políticas de Juventud;
+I.- Definir e instrumentar una política estatal de la juventud que permita incorporar plenamente a los jóvenes al desarrollo del Estado;
 
-b) El Instituto Poblano de la Juventud;
+II.- Asesorar y proponer al Ejecutivo del Estado sobre la planeación y programación de las políticas públicas y acciones relacionadas con el desarrollo de la juventud; y
 
-c) Las instituciones y organizaciones de la sociedad civil que trabajan con la juventud y en relación a las y los jóvenes; y
-
-d) Los Consejos Municipales de Juventud.
+III.- Promover coordinadamente con las Dependencias y Entidades de la Administración Pública Estatal, en el ámbito de sus respectivas competencias, las acciones destinadas a mejorar el nivel de vida de la juventud, sus expectativas sociales y culturales, así como atender su problemática.
 
 ### CAPÍTULO SEGUNDO. DEL CONSEJO CONSULTIVO ESTATAL DE POLÍTICAS DE JUVENTUD
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+
 ###### Artículo 68.
 
-El Consejo es un órgano colegiado de participación social, con carácter de órgano especializado en consultas y asesorías, coadyuvante para el diseño, planeación, programación, seguimiento y evaluación de las políticas de promoción de los derechos juveniles.
+El Consejo es un órgano colegiado de participación social y de carácter consultivo. Su función primordial es asesorar a las entidades y organismos de los sectores público, social y privado que fomenten u organicen actividades en beneficio de la juventud, además de proponer a la Secretaría las políticas y acciones que en la materia deban ejecutarse.
 
 ###### Artículo 69.
 
 Corresponde al Consejo lo siguiente:
 
-I.- Asesorar, proponer, opinar y apoyar al Instituto en la elaboración y ejecución de diagnósticos y del Plan Estratégico;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
 
-II.- Vigilar el cumplimiento de las disposiciones establecidas en la presente Ley, en términos de una efectiva ejecución del Plan Estratégico;
+I.- Asesorar, proponer, opinar y apoyar a la Secretaría en la elaboración de diagnósticos y del Plan Estratégico;
 
-III.- Participar en la formulación de políticas, planes y programas para el desarrollo integral de la juventud, considerando en las mismas los lineamientos y áreas establecidas en los ordenamientos jurídicos e instrumentos internacionales;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
 
-IV.- Promover la coordinación en la ejecución de los programas referidos a las y los jóvenes que desarrollan organizaciones no gubernamentales y gubernamentales, estatales, nacionales e internacionales;
+II.- Participar en la formulación de políticas, planes y programas para el desarrollo integral de la juventud, considerando en las mismas los lineamientos y áreas establecidas en los ordenamientos jurídicos e instrumentos internacionales;
 
-V.- Promover proyectos destinados al fomento de los derechos juveniles;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
 
-VI.- Establecer mecanismos de seguimiento, evaluación y promoción de las políticas, planes, programas y proyectos relativos a los derechos de las y los jóvenes que se desarrollen a nivel nacional, estatal y municipal;
+III.- Emitir opinión sobre las cuestiones de naturaleza técnica que la Secretaría, someta a su consideración;
 
-VII.- Promover el establecimiento y funcionamiento del Sistema y de los Consejos Municipales de la Juventud;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
 
-VIII.- Servir como órgano de análisis del Ejecutivo Estatal, en la planeación y programación de políticas y acciones relacionadas con el desarrollo integral de la juventud, de acuerdo al Plan Estatal de Desarrollo; y
+IV.- Promover proyectos destinados al fomento de los derechos juveniles;
 
-IX.- Las demás que se establezcan en la presente Ley y demás ordenamientos jurídicos y disposiciones administrativas.
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+
+V.- Servir como órgano de análisis del Ejecutivo Estatal, en la planeación y programación de políticas y acciones relacionadas con el desarrollo integral de la juventud, de acuerdo al Plan Estatal de Desarrollo; y
+
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+
+VI.- Las demás que se establezcan en la presente Ley, en los demás ordenamientos legales y disposiciones administrativas, o le encomiende el Secretario de Educación Pública.
+
+VII.- (DEROGADA, P.O. 9 DE MAYO DE 2012)
+
+VIII.- (DEROGADA, P.O. 9 DE MAYO DE 2012)
+
+IX.- (DEROGADA, P.O. 9 DE MAYO DE 2012)
 
 ###### Artículo 70.
 
 El Consejo está conformado de la siguiente manera:
 
-I.- Por el Director del Instituto;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
 
-II.- Por seis representantes de la Sociedad Civil, propuestos por las organizaciones no gubernamentales o asociaciones juveniles especialistas en juventud y desarrollo, inscritas en el registro que al efecto instrumente el Instituto, y que tengan estrecha vinculación con la problemática juvenil del Estado de Puebla;
+I.- Por el Titular del área administrativa competente en materia de juventud de la Secretaría;
+
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+
+II.- Por seis representantes de la Sociedad Civil, propuestos por las organizaciones no gubernamentales o asociaciones juveniles especialistas en juventud y desarrollo inscritas en el registro que al efecto instrumente la Secretaría, y que tengan estrecha vinculación con la problemática juvenil del Estado de Puebla;
 
 III.- Por tres representantes de instituciones académicas universitarias, públicas o privadas, que realicen investigación en el desarrollo de la juventud;
 
@@ -589,13 +633,19 @@ IV.- Por un representante del sector privado del Estado de Puebla, el cual tenga
 
 V.- Por un representante de los Comités Municipales de la Juventud, correspondientes a cada región del Estado; y
 
-VI.- A invitación del Director del Instituto podrán asistir y participar otras instancias gubernamentales y Poderes, así como especialistas en la materia con derecho a voz pero sin voto.
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
 
-El Instituto emitirá convocatoria pública para la selección de los consejeros señalados en las fracciones II, III y IV de este artículo, en la cual deberán establecerse los requisitos de elegibilidad, atendiendo a criterios de representatividad y desempeño.
+VI.- A invitación del Titular de la Secretaría podrán asistir y participar otras instancias gubernamentales y poderes, así como especialistas en la materia con derecho a voz pero sin voto.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+
+La Secretaría emitirá convocatoria pública para la selección de los consejeros señalados en las fracciones II, III y IV de este artículo, en la cual deberán establecerse los requisitos de elegibilidad, atendiendo a criterios de representatividad y desempeño.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
 
 ###### Artículo 71.
 
-El Director del Instituto presidirá y coordinará los trabajos del Consejo y proporcionará todos los elementos técnicos, administrativos humanos y financieros para el buen funcionamiento del Consejo.
+El Titular del área administrativa competente en materia de juventud de la Secretaría, presidirá y coordinará los trabajos del Consejo y proporcionará todos los elementos técnicos, administrativos y humanos para el buen funcionamiento del Consejo.
 
 ###### Artículo 72.
 
@@ -603,9 +653,11 @@ Lo relativo a la organización y funcionamiento del Consejo será regulado por e
 
 ### CAPÍTULO TERCERO. DE LOS CONSEJOS MUNICIPALES DE LA JUVENTUD
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+
 ###### Artículo 73.
 
-Los Consejos Municipales de la Juventud constituyen órganos colegiados de consulta y participación social cuyos fines son planear, coordinar y supervisar las estrategias, políticas y programas de atención hacia la juventud en el ámbito municipal y se conformarán en términos de lo dispuesto por la Ley Orgánica Municipal.
+Los Consejos Municipales de la Juventud constituyen órganos colegiados de consulta y participación social cuyos fines son planear las estrategias, políticas y programas de atención a la juventud en el ámbito municipal y se conformarán en términos de lo dispuesto por la Ley Orgánica Municipal.
 
 ###### Artículo 74.
 
@@ -631,93 +683,69 @@ La integración del Consejo Municipal, es de manera enunciativa más no limitati
 
 Los Consejos Municipales de la Juventud en el ámbito de su jurisdicción, tendrán las siguientes funciones:
 
-I.- Garantizar la promoción, protección y respeto de los derechos de las y los jóvenes y el propio desarrollo de la juventud;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
 
-II.- Vigilar el cumplimiento de las disposiciones contenidas en la presente Ley;
+I.- Promover la protección y respeto de los derechos de las y los jóvenes;
+
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+
+II.- Servir como órgano de análisis del Ayuntamiento respectivo, en la planeación y programación de políticas y acciones relacionadas con el desarrollo integral de la juventud, de acuerdo con lo establecido en el Programa Municipal de la Juventud;
 
 III.- Promover permanentemente la participación social en la toma de decisiones relacionados con el desarrollo de la juventud y la defensa de los derechos de las y los jóvenes en el Municipio respectivo;
 
-IV.- Vigilar y coordinarse con las diversas instancias del Gobierno Municipal, para el cumplimiento de los planes y programas que se implementen en relación a los objetivos y acciones materia de la presente Ley;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
 
-V.- Coadyuvar en la formulación del Programa Municipal de la Juventud; y
+IV.- Coadyuvar en la formulación del Programa Municipal de la Juventud; y
 
-VI.- Opinar ante el Ayuntamiento respectivo, en la formulación del Programa Municipal de la Juventud.
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
 
-## TÍTULO QUINTO. DEL INSTITUTO POBLANO DE LA JUVENTUD
+V.- Las demás que le encomiende el Presidente Municipal correspondiente.
+
+VI.- (DEROGADA, P.O. 9 DE MAYO DE 2012)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE MAYO DE 2012)</small>
+
+## TÍTULO QUINTO
 
 ### CAPÍTULO ÚNICO. DE LAS FINALIDADES DEL INSTITUTO
 
 ###### Artículo 76.
 
-El Instituto, será un Organismo Público Descentralizado, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Educación Pública del Estado.
+(DEROGADO, P.O. 9 DE MAYO DE 2012)
 
 ###### Artículo 77.
 
-El Instituto tendrá su domicilio en la Ciudad de Puebla, pudiendo establecer delegaciones en el interior del Estado conforme a sus requerimientos y disponibilidad presupuestal.
+(DEROGADO, P.O. 9 DE MAYO DE 2012)
 
 ###### Artículo 78.
 
-El Instituto tendrá por objeto la realización de los planes, programas y estrategias establecidos en los Planes Nacional y Estatal de Desarrollo, respecto a los jóvenes, a fin de propiciar su participación, desarrollo e integración social, de manera útil y productiva, además de:
-
-I.- Definir e instrumentar una política estatal de la juventud, que permita incorporar plenamente a los jóvenes al desarrollo del Estado;
-
-II.- Asesorar y proponer al Ejecutivo del Estado, sobre la planeación y programación de las políticas públicas y acciones relacionadas con el desarrollo de la juventud;
-
-III.- Promover coordinadamente con las Dependencias y Entidades de la Administración Pública Estatal, en el ámbito de sus respectivas competencias, las acciones destinadas a mejorar el nivel de vida de la juventud, sus expectativas sociales y culturales, así como atender su problemática;
-
-IV.- Realizar estudios de investigación relacionados con la atención de la juventud tendientes a construir nuevas estrategias y políticas públicas orientadas a la formación integral, el impulso a la organización juvenil, el fomento a la conciencia y al pensamiento crítico de los jóvenes, así como la promoción de su participación social y política de manera responsable;
-
-V.- Ser órgano de conexión entre las instituciones para la atención, promoción, defensa y desarrollo de la juventud; y
-
-VI.- Instrumentar un Registro Estatal de organismos no gubernamentales y asociaciones juveniles especialistas en juventud y desarrollo.
+(DEROGADO, P.O. 9 DE MAYO DE 2012)
 
 ###### Artículo 79.
 
-Para el cumplimiento de sus objetivos, el Instituto tendrá las siguientes atribuciones y funciones:
-
-I.- Definir e instrumentar una política estatal, con la asesoría del Consejo, encaminado a la solución de los problemas que aquejen a la juventud, propiciando la participación de ésta, en el diseño y puesta en práctica de proyectos y planes que para tal efecto implemente el Instituto;
-
-II.- Actuar como órgano de consulta, asesoría y gestoría ante las autoridades federales, estatales y municipales, respecto de la atención de las demandas que por su conducto hagan los jóvenes y, en su caso, canalizarlas a las instancias correspondientes para su apropiada atención;
-
-III.- Proponer al Ejecutivo del Estado, la revisión y adecuación de los ordenamientos legales vigentes, a efecto de lograr la igualdad jurídica de los jóvenes y el respeto de sus derechos, formulando las acciones que considere necesarias, dirigidas a eliminar toda forma de violación de los derechos de la juventud;
-
-IV.- Fungir como representante del Gobierno Estatal en los eventos convocados por las instituciones públicas y privadas, nacionales e internacionales, en las que el Ejecutivo Local solicite su participación y cuya temática se relacione con la juventud;
-
-V.- Difundir y apoyar en coordinación con las autoridades competentes, actividades dirigidas a la juventud indígena y rural en los Municipios de la Entidad, procurando rescatar y conservar su cultura e identidad;
-
-VI.- Formular, coordinar y llevar a cabo talleres, conferencias, pláticas de orientación, entre otras, principalmente en zonas marginadas o de bajos recursos, a fin de abordar las diferentes problemáticas que aquejan a la población juvenil, buscando para estos eventos, la participación de personal especializado en las diversas materias que se traten;
-
-VII.- Fomentar la participación de la juventud en la toma de decisiones en aquellas áreas que incidan en su formación;
-
-VIII.- Crear los espacios de expresión permanentes para la juventud poblana; desarrollando, estableciendo, alentando y coordinando programas que favorezcan el pleno desenvolvimiento y la libre expresión de los jóvenes;
-
-IX.- Propiciar que la juventud conozca los problemas básicos del país, para que tome conciencia de su responsabilidad social, como factor de cambio y contribuya al avance democrático de México, para lograr una sociedad más justa e igualitaria;
-
-X.- Coordinar con las Dependencias y Entidades de la Administración Pública, en el ámbito de sus respectivas competencias, acciones destinadas a mejorar el nivel de vida de la juventud, así como sus expectativas económicas, sociales y culturales;
-
-XI.- Gestionar ante las autoridades educativas el otorgamiento de becas, especialmente para los jóvenes de escasos recursos económicos, así como el establecimiento de bibliotecas;
-
-XII.- Llevar a cabo programas de prevención de delitos, alcoholismo y drogadicción y, en su caso, canalizar a las instancias adecuadas a los jóvenes para su rehabilitación;
-
-XIII.- Pugnar por que los jóvenes discapacitados, cuenten con los medios e igualdad de oportunidades, que les permitan incorporarse al desarrollo nacional; y
-
-XIV.- Ejercer todas las demás actividades inherentes a las anteriores y tendientes al eficaz cumplimiento de las mismas.
+(DEROGADO, P.O. 9 DE MAYO DE 2012)
 
 ## TÍTULO SEXTO. DEL SEGUIMIENTO, EVALUACIÓN Y SANCIÓN
 
 ### CAPÍTULO PRIMERO. SEGUIMIENTO, EVALUACIÓN Y EL SISTEMA ESTATAL DE INDICADORES SOBRE JUVENTUD
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+
 ###### Artículo 80.
 
-El cumplimento de derechos y objetivos que establece la presente Ley deben expresarse en metas estatales y plazos definidos por el Instituto en apoyo al Consejo, de tal forma que tanto la Política como el Plan Estratégico puedan ser objeto de seguimiento y se conozcan los avances logrados y los rezagos.
+El cumplimento (sic) de derechos y objetivos que establece la presente Ley deben expresarse en metas estatales y plazos definidos, de tal forma que tanto la Política como el Plan Estratégico puedan ser objeto de seguimiento y se conozcan los avances logrados y los rezagos.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
 
 ###### Artículo 81.
 
-El Instituto presentará anualmente un informe sobre los resultados de la Política Estatal de la Juventud, que incluirá los resultados de las evaluaciones, y el impacto de dicha Política en la evolución de la situación de la población joven en el ámbito estatal y municipal.
+La Secretaría presentará anualmente un informe sobre los resultados de la Política Estatal de la Juventud, que incluirá los resultados de las evaluaciones, y el impacto de dicha Política en la evolución de la situación de la población joven en el ámbito estatal y municipal.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
 
 ###### Artículo 82.
 
-Con el fin de dar cumplimiento a lo dispuesto en el artículo anterior, se creará el Sistema de Indicadores sobre Juventud, que estará a cargo del Consejo.
+Con el fin de dar cumplimiento a lo dispuesto en el artículo anterior, se creará el Sistema de Indicadores sobre Juventud, que a propuesta del Consejo autorice la Secretaría.
 
 ### CAPÍTULO SEGUNDO. DE LAS SANCIONES
 
@@ -746,3 +774,11 @@ Las erogaciones que deriven de la aplicación de esta Ley, estarán sujetas a la
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo en la Heroica Ciudad de Puebla de Zaragoza, a los quince días de (sic) mes de octubre de dos mil nueve.- Diputado Presidente.- EUGENIO EDGARDO GONZÁLEZ ESCAMILLA.- Rúbrica.- Diputada Vicepresidenta.- JOSEFINA GARCÍA HERNÁNDEZ.- Rúbrica.- Diputado Secretario.- ENRIQUE GUEVARA MONTIEL.- Rúbrica.- Diputada Secretaria.- CAROLINA O´FARRILL TAPIA.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los dieciséis días del mes de octubre de dos mil nueve.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO MARIO ALBERTO MONTERO SERRANO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE MAYO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
