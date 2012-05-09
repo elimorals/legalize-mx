@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-cultura-fisica-y-deporte-del-estado-de-chihuahua-47034"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-19"
-last_updated: "2010-09-25"
+last_updated: "2012-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE CHIHUAHUA
 
-LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE CHIHUAHUA
+LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2012.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 19 de noviembre de 2005.
 
@@ -201,7 +201,7 @@ El funcionamiento y requisitos de integración del Sistema se normará por lo di
 
 #### SECCIÓN PRIMERA. DEL INSTITUTO CHIHUAHUENSE DEL DEPORTE Y CULTURA FÍSICA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -233,7 +233,7 @@ La administración del Instituto estará a cargo de un órgano de gobierno denom
 
 La Junta Directiva a que se refiere el artículo anterior, estará integrada por los titulares de cada una de las siguientes dependencias de la administración centralizada:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -241,51 +241,51 @@ a) Un Presidente, que será el Secretario de Educación, Cultura y Deporte;
 
 b) Un Secretario Técnico, que será el Director del Instituto Chihuahuense del Deporte y Cultura Física, quien participará con voz pero sin voto;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 c) Secretario de Hacienda;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 d) Secretario de Desarrollo Urbano y Ecología;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 e) Secretario de Comunicaciones y Obras Públicas;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 f) Secretario de Economía;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 g) Secretario de Fomento Social; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 h) Secretario de Salud.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2012)</small>
 
-i) (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
+i) El Fiscal General del Estado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 j) (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 k) (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
 
@@ -395,13 +395,13 @@ XIII.- Coordinar todas las acciones administrativas y operativas del Instituto, 
 
 XIV.- Aprobar, dentro de su ámbito de atribuciones, las estrategias, metodologías, programas de investigación, contenidos, materiales, programas y planes institucionales;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
 XV.- Formular y someter a la autorización de la Junta Directiva el Programa Presupuestal y Financiero Anual del Instituto, con excepción de aquel que deberá presentarse a la Secretaría de Finanzas y Administración para integrar el Presupuesto de Egresos del Estado de Chihuahua;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
@@ -445,7 +445,7 @@ El órgano de vigilancia del Instituto estará integrado por un Comisario Públi
 
 La actuación de los Comisarios se ajustará en todo caso a lo dispuesto por la Ley de Entidades Paraestatales del Estado de Chihuahua y por las demás disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2006)</small>
 
 ###### Artículo 26.
 
@@ -1225,7 +1225,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO RODRIGUEZ MORENO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 4 DE ENERO DE 2006.
 
@@ -1346,3 +1346,9 @@ El Ejecutivo del Estado, en coordinación con la Legislatura Estatal, incorporar
 ###### ARTÍCULO VIGÉSIMO QUINTO.
 
 Se transfieren a la Secretaría de la Contraloría los archivos magnéticos conteniendo documentación, manuales de procedimientos, manuales de organización, código fuente de los programas que conforman los sistemas desarrollados por la Coordinación de Desarrollo Administrativo y Modernización que dependía de la Secretaría de Finanzas y Administración, así como los archivos de configuración de equipo de comunicaciones, telefonía, de servidores de aplicaciones y de base de datos y documentos en general que tenía asignados a su servicio, manejo y resguardo dicha unidad administrativa.
+
+P.O. 9 DE MAYO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
