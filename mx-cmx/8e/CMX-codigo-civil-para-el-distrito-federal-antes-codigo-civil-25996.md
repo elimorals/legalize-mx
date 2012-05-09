@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2011-08-18"
+last_updated: "2012-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -19,9 +19,9 @@ scjn_last_update: "2026-08-20"
 ---
 # CODIGO CIVIL PARA EL DISTRITO FEDERAL -ANTES CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL-
 
-CODIGO CIVIL PARA EL DISTRITO FEDERAL
+CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE MAYO DE 2012.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -31,7 +31,7 @@ El C. Presidente Constitucional de la República se ha servido dirigirme el decr
 
 Que en uso de la facultad que ha tenido a bien conferirme el H. Congreso de la Unión por Decretos de 7 de enero y de 6 de diciembre de 1926 y de 3 de enero de 1928, expido el siguiente:
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 25 DE MAYO DE 2000)</small>
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
@@ -43,7 +43,7 @@ Disposiciones preliminares
 
 Las disposiciones de este Código regirán en el Distrito Federal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 2008)</small>
 
@@ -303,7 +303,7 @@ Se tiene derecho de designar un domicilio convencional para el cumplimiento de d
 
 ## TITULO CUARTO BIS. De la Familia
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 25 DE MAYO DE 2000)</small>
 
 ### CAPITULO III. De las Actas de Reconocimiento
 
@@ -311,19 +311,19 @@ Se tiene derecho de designar un domicilio convencional para el cumplimiento de d
 
 En el Distrito Federal estará a cargo de los Jueces del Registro Civil autorizar los actos del estado civil y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio administrativo, y defunción de los mexicanos y extranjeros en el Distrito Federal, al realizarse el hecho o acto de que se trate, así como inscribir las ejecutorias que declaren la ausencia, la presunción de muerte, el divorcio judicial, la tutela o que se ha perdido o limitado la capacidad legal para administrar bienes y las sentencias que ordenen el levantamiento de una nueva acta por la reasignación para la concordancia sexo-genérica, previa la anotación correspondiente al acta de nacimiento primigenia, siempre y cuando se cumplan las formalidades exigidas por los ordenamientos jurídicos aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 18 DE AGOSTO DE 2011)</small>
 
 El Registro Civil tendrá a su cargo el Registro de Deudores Alimentarios Morosos del Distrito Federal, en el que se inscribirá a las personas que hayan dejado de cumplir por más de noventa días, sus obligaciones alimentarias, ordenadas por los jueces y tribunales o establecidas por convenio judicial. El registro expedirá un Certificado que informe si un deudor alimentario se encuentra inscrito en el Registro de Deudores Alimentarios Morosos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 18 DE AGOSTO DE 2011)</small>
 
 El Registro Civil, una vez hecha la inscripción a que se refiere el párrafo anterior, formulará solicitud al Registro Público de la Propiedad a efecto de que se anote el Certificado respectivo en los folios reales de que sea propietario el Deudor Alimentario Moroso. El Registro Público de la Propiedad informará al Registro Civil si fue procedente la anotación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 18 DE AGOSTO DE 2011)</small>
 
@@ -351,7 +351,7 @@ Las actas del Registro Civil, sólo se pueden asentar en las formas de que habla
 
 La infracción de esta regla producirá la nulidad del acta y se castigará con la destitución del Juez del Registro Civil.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 38.
 
@@ -491,7 +491,7 @@ Para el registro de nacimiento a domicilio deberá estarse a lo dispuesto en el 
 
 (DEROGADO, G.O. 13 DE ENERO DE 2004)
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 58.
 
@@ -605,11 +605,11 @@ Si al dar aviso de un nacimiento se comunicare también la muerte del recién na
 
 Cuando se trate de parto múltiple, se levantará un acta por cada uno de los nacidos, en la que además de los requisitos que señala el Artículo 58 se harán constar las particularidades que los distingan y el orden en que ocurrió su nacimiento, según lo señalado en el certificado de nacimiento, la constancia de parto o alumbramiento o los testigos que declaren, según sea el caso, de acuerdo a lo dispuesto por el artículo 54 de este Código y, además, se imprimirán las huellas digitales de los presentados. El Juez del Registro Civil relacionará las actas.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ### CAPITULO V. De las actas de tutela
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 77.
 
@@ -687,7 +687,7 @@ En caso de adopción, a partir del levantamiento del acta, se harán las anotaci
 
 ### CAPITULO VII. De las actas de matrimonio
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 89.
 
@@ -763,15 +763,15 @@ Este escrito deberá ser firmado por los solicitantes, y asimismo contener su hu
 
 Para el caso de matrimonios fuera de las oficinas del Registro Civil deberá observarse lo establecido en el Reglamento del Registro Civil.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 18 DE AGOSTO DE 2011)</small>
 
 El Juez del Registro Civil hará del conocimiento de los pretendientes inmediatamente después de la presentación de la solicitud, si alguno de ellos se encuentra inscrito en el Registro de Deudores Alimentarios Morosos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE OCTUBRE DE 2008)</small>
 
 ###### ARTICULO 98.
 
@@ -797,13 +797,13 @@ Si de acuerdo con lo dispuesto en el artículo 185 fuere necesario que las capit
 
 VI.- Copia del acta de defunción del cónyuge fallecido, si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 2008)</small>
 
 VII. La manifestación, por escrito y bajo protesta de decir verdad, en el caso de que alguno de los contrayentes haya concluido el proceso para la concordancia sexo-genérica, establecido en el Capítulo IV Bis del Título Séptimo del Código de Procedimientos Civiles para el Distrito Federal, misma que tendrá el carácter de reservada; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(ADICIONADA, G.O. 10 DE OCTUBRE DE 2008)</small>
 
@@ -837,7 +837,7 @@ En el lugar, día y hora designados para la celebración del matrimonio deberán
 
 Acto continuo, el Juez del Registro Civil leerá en voz alta el acta respectiva y les hará saber los derechos y obligaciones legales que contraen con el matrimonio, para posteriormente preguntar a cada uno de los pretendientes si es su voluntad unirse en matrimonio, y si están conformes, los declarará unidos en nombre de la ley y de la sociedad.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 103.
 
@@ -945,7 +945,7 @@ El Juez del Registro Civil, que sin motivo justificado, retarde la celebración 
 
 El Juez del Registro Civil que reciba una solicitud de matrimonio, exigirá de los pretendientes, bajo protesta de decir verdad, todas las declaraciones que estime convenientes a fin de asegurarse de su identidad y de su aptitud para contraer matrimonio.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 13 DE ENERO DE 2004)</small>
 
 ### CAPITULO X. De las Inscripciones de las Anotaciones que Declaran o Modifican el Estado Civil y la Capacidad Legal de las Personas
 
@@ -1061,7 +1061,7 @@ En todos los casos de muerte violenta en los establecimientos de reclusión, no 
 
 (DEROGADO, D.O.F. 3 DE ENERO DE 1979)
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 29 DE JULIO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE JULIO DE 2010)</small>
 
 ### CAPITULO UNICO
 
@@ -1083,7 +1083,7 @@ El Juez del Registro Civil hará la anotación correspondiente en las actas de n
 
 Cuando se recobre la capacidad legal para administrar, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Juez del Registro Civil por el mismo interesado o por la autoridad que corresponda para que cancele la inscripción a que se refiere el artículo anterior.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ### CAPITULO I. De los Esponsales
 
@@ -1101,7 +1101,7 @@ I.- Por falsedad, cuando se alegue que el suceso registrado no pasó;
 
 II. Por enmienda, cuando se solicite variar algún nombre u otro dato esencial que afecte el estado civil, la filiación, la nacionalidad, el sexo y la identidad de la persona.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 10 DE OCTUBRE DE 2008)</small>
 
@@ -1147,13 +1147,13 @@ La aclaración de las actas del estado civil, procede cuando en el levantamiento
 
 El Reglamento del Registro Civil, establecerá los supuestos, requisitos y procedimientos para realizar la aclaración de las actas del Estado Civil.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.O. 25 DE MAYO DE 2000)</small>
 
 ## TITULO QUINTO. Del matrimonio
 
 ### CAPITULO II. De los requisitos para contraer matrimonio
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2009)</small>
 
@@ -1267,7 +1267,7 @@ Si el que ejerce la patria potestad, o tutor que ha firmado o ratificado la soli
 
 El Juez de lo Familiar que hubiere autorizado a un menor para contraer matrimonio, no podrá revocar el consentimiento, sino por causa superveniente.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 156.
 
@@ -1351,7 +1351,7 @@ Esta prohibición comprende también al curador y a los descendientes de éste y
 
 Si el matrimonio se celebrare en contravención de lo dispuesto en el artículo anterior, el juez nombrará inmediatamente un tutor interino que reciba los bienes y los administre mientras se obtiene la dispensa.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 161.
 
@@ -1457,7 +1457,7 @@ El contrato de compra-venta sólo puede celebrarse entre los cónyuges cuando el
 
 Los cónyuges, durante el matrimonio, podrán ejercitar los derechos y acciones que tengan el uno contra el otro, pero la prescripción entre ellos no corre mientras dure el matrimonio.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 25 DE MAYO DE 2000)</small>
 
 ### CAPITULO VI. De la separación de bienes
 
@@ -1557,7 +1557,7 @@ En este caso, la alteración que se haga de las capitulaciones deberá también 
 
 La sociedad conyugal puede terminar durante el matrimonio, si así lo convienen los cónyuges; pero si éstos son menores de edad, deben intervenir tanto en la modificación, como en la disolución de la sociedad, prestando su consentimiento, las personas a que se refiere el artículo 148.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 188.
 
@@ -1859,7 +1859,7 @@ Las donaciones entre cónyuges no se revocarán por la superveniencia de hijos, 
 
 ### CAPITULO XI. Del concubinato
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2009)</small>
 
@@ -1881,7 +1881,7 @@ III.- Que se haya celebrado en contravención a lo dispuesto en los artículos 9
 
 La acción de nulidad que nace del error, sólo puede deducirse por el cónyuge engañado; pero si éste no denuncia el error dentro de los treinta días siguientes a que lo advierte, se tiene por ratificado el consentimiento y queda subsistente el matrimonio, a no ser que exista algún otro impedimento que lo anule.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2009)</small>
 
@@ -1895,7 +1895,7 @@ El matrimonio de una persona menor de edad, dejará de ser causa de nulidad cuan
 
 La nulidad por falta de consentimiento de los que ejercen la patria potestad, sólo podrá alegarse por aquel o aquellos a quienes tocaba prestar dicho consentimiento, y dentro de treinta días contados desde que tengan conocimiento del matrimonio.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 239.
 
@@ -2113,7 +2113,7 @@ Los jueces de lo familiar están obligados a suplir la deficiencia de las partes
 
 Las limitaciones formales de la prueba que rigen en la materia civil, no deben aplicarse en los casos de divorcio respecto del o los convenios propuestos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 272.
 
@@ -2303,7 +2303,7 @@ La muerte de uno de los cónyuges pone fin al juicio de divorcio, y los heredero
 
 Ejecutoriada una sentencia de divorcio, el Juez de lo Familiar, bajo su más estricta responsabilidad, remitirá copia de ella al Juez del Registro Civil ante quien se celebró el matrimonio, para que realice la anotación correspondiente en la del matrimonio disuelto.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 25 DE MAYO DE 2000)</small>
 
 ### CAPITULO II. De los alimentos
 
@@ -2333,11 +2333,11 @@ ARTICULO 291 Quintus.- Al cesar la convivencia, la concubina o el concubinario q
 
 El derecho que otorga este artículo podrá ejercitarse solo durante el año siguiente a la cesación del concubinato.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
 ## TITULO SEPTIMO. De la filiación
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 25 DE MAYO DE 2000)</small>
 
 ### CAPITULO III. De la Violencia Familiar
 
@@ -2359,7 +2359,7 @@ También se da parentesco por consanguinidad, entre el hijo producto de reproduc
 
 En el caso de la adopción, se equiparará al parentesco por consanguinidad aquél que existe entre el adoptado, el adoptante, los parientes de éste y los descendientes de aquél, como si el adoptado fuera hijo consanguíneo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2009)</small>
 
@@ -2403,7 +2403,7 @@ En la línea transversal los grados se cuentan por el número de generaciones, s
 
 ### CAPITULO IV. Del Registro de Deudores Alimentarios Morosos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 18 DE AGOSTO DE 2011)</small>
 
@@ -2421,7 +2421,7 @@ V. Órgano jurisdiccional que ordena el registro; y
 
 VI. Datos del expediente o causa jurisdiccional de la que deriva su inscripción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 18 DE AGOSTO DE 2011)</small>
 
@@ -2439,7 +2439,7 @@ V. Datos del expediente o causa jurisdiccional de la que deriva su inscripción.
 
 El Certificado a que se refiere el presente artículo, será expedido dentro de tres días hábiles contados a partir de su solicitud.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 25 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 301.
 
@@ -2459,7 +2459,7 @@ Los padres están obligados a dar alimentos a sus hijos. A falta o por imposibil
 
 Los hijos están obligados a dar alimentos a los padres. A falta o por imposibilidad de los hijos, lo están los descendientes más próximos en grado.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 305.
 
@@ -2499,19 +2499,19 @@ IV.- Por lo que hace a los adultos mayores que carezcan de capacidad económica,
 
 El obligado a proporcionar alimentos cumple su obligación, asignando una pensión al acreedor alimentista o integrándolo a la familia. En caso de conflicto para la integración, corresponde al Juez de lo Familiar fijar la manera de ministrar los alimentos, según las circunstancias.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 18 DE AGOSTO DE 2011)</small>
 
 Aquella persona que incumpla con lo señalado con el párrafo anterior por un periodo de noventa días se constituirá en deudor alimentario moroso. El Juez de lo Familiar ordenara al Registro Civil su inscripción en el Registro de Deudores Alimentarios Morosos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 18 DE AGOSTO DE 2011)</small>
 
 El deudor alimentario moroso que acredite ante el Juez que han sido pagados en su totalidad los adeudos a que se refiere el párrafo anterior, podrá solicitar al mismo la cancelación de la inscripción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 18 DE AGOSTO DE 2011)</small>
 
@@ -2609,7 +2609,7 @@ El tutor interino dará garantía por el importe anual de los alimentos. Si admi
 
 En los casos en que los que ejerzan la patria potestad gocen de la mitad del usufructo de los bienes del hijo, el importe de los alimentos se deducirá de dicha mitad, y si ésta no alcanza a cubrirlos, el exceso será de cuenta de los que ejerzan la patria potestad.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 320.
 
@@ -2661,7 +2661,7 @@ El deudor alimentario deberá informar de inmediato al Juez de lo Familiar y al 
 
 (DEROGADO, G.O. 22 DE JULIO DE 2005)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
 ### CAPITULO I. Disposiciones Generales
 
@@ -2701,9 +2701,9 @@ ARTICULO 323 Sextus.- Los integrantes de la familia que incurran en violencia fa
 
 En todas las controversias derivadas de violencia familiar, el Juez dictará las medidas a que se refiere la fracción VII del artículo 282 de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 18 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 18 DE AGOSTO DE 2011)</small>
 
 ### CAPITULO II. De las pruebas de filiación de los hijos
 
@@ -2811,7 +2811,7 @@ La ley no establece distinción alguna entre los derechos derivados de la filiac
 
 Puede haber transacción o compromiso en árbitros sobre los derechos pecuniarios que de la filiación legalmente adquirida pudieran deducirse, salvo aquellos casos en que este Código señale lo contrario.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 25 DE MAYO DE 2000)</small>
 
 ### CAPITULO IV. Del Reconocimiento de los Hijos
 
@@ -2923,7 +2923,7 @@ Pueden gozar también de ese derecho a que se refiere el artículo anterior, los
 
 Pueden gozar también de ese derecho los hijos no nacidos, si el padre declara que reconoce al hijo de la mujer que está embarazada.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 25 DE MAYO DE 2000)</small>
 
 ### CAPITULO V. De la adopción
 
@@ -2953,7 +2953,7 @@ Pueden gozar también de ese derecho los hijos no nacidos, si el padre declara q
 
 (DEROGADO, G.O. 25 DE MAYO DE 2000)
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 25 DE MAYO DE 2000)</small>
 
 ### CAPITULO I. De los efectos de la patria potestad respecto de la persona de los hijos
 
@@ -3007,7 +3007,7 @@ El tercero afectado por obligaciones derivadas del reconocimiento ilegalmente ef
 
 En ningún caso procede impugnar el reconocimiento por causa de herencia para privar de ella al menor reconocido.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 369.
 
@@ -3067,11 +3067,11 @@ Si el hijo reconocido es menor, puede reclamar contra del reconocimiento cuando 
 
 El término para deducir esta acción será de dos años, que comenzarán a correr desde que el hijo sea mayor de edad, si antes de serlo tuvo noticia del reconocimiento; y si no la tenía, desde la fecha en que la adquirió.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 9 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 378.
 
-La persona que cuida o ha cuidado de la lactancia de un niño, a quien le ha dado su nombre o permitido que lo lleve; que públicamente lo ha presentado como hijo suyo y ha proveído a su educación y subsistencia, podrá contradecir el reconocimiento que alguien haya hecho o pretenda hacer de ese niño. En este caso, no se le podrá separar de su lado, a menos que consienta en entregarlo o que fuere obligada a hacer la entrega por sentencia ejecutoriada. El término para contradecir el reconocimiento será el de sesenta días, contados desde que tuvo conocimiento de él.
+La persona que cuida o ha cuidado de la lactancia de un niño, a quien le ha dado su nombre o permitido que lo lleve, que públicamente lo ha presentado como hijo suyo y ha proveído a su educación y subsistencia podrá, contradecir el reconocimiento que alguien haya hecho o pretenda hacer de ese niño. En este caso, no se le podrá separar de su lado a menos que consienta en entregarlo o que fuere obligada a hacer la entrega por sentencia ejecutoriada. El término para contradecir el reconocimiento será de ciento veinte días contados desde que se tuvo conocimiento de él.
 
 ###### ARTICULO 379.
 
@@ -3347,7 +3347,7 @@ I. Para efectos de impedimento para contraer matrimonio; y
 
 II. Cuando el adoptado mayor de edad desee conocer sus antecedentes familiares; si fuere menor de edad se requerirá el consentimiento del o los adoptantes.
 
-(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 25 DE MAYO DE 2000) (REUBICADA, G.O. 15 DE JUNIO DE 2011)
+(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 25 DE MAYO DE 2000) (REUBICADA, G.O. 15 DE JUNIO DE 2011)
 
 #### SECCION SEGUNDA. De la Adopción Simple
 
@@ -3647,7 +3647,7 @@ Estas medidas se tomarán a instancias de las personas interesadas, del menor cu
 
 Las personas que ejerzan la patria potestad deben entregar a sus hijos, luego que éstos se emancipen o lleguen a la mayor edad, todos los bienes y frutos que les pertenecen.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 9 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 9 DE JUNIO DE 2004)</small>
 
 ### CAPITULO I BIS. De la tutela cautelar
 
@@ -3667,7 +3667,7 @@ IV. Con la adopción del hijo;
 
 V. Cuando el que ejerza la patria potestad de un menor, lo entregue a una Institución pública o privada de asistencia social legalmente constituida, para ser dado en adopción de conformidad con lo dispuesto por el artículo 901 bis del Código de Procedimientos Civiles.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 444.
 
@@ -3869,7 +3869,7 @@ Tratándose de mayores de edad a que se refiere el artículo 450, fracción II d
 
 Los tutores y curadores no pueden ser removidos de su cargo sin que previamente hayan sido oídos y vencidos en juicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE JULIO DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 464.
 
@@ -3903,7 +3903,7 @@ El Juez de lo Familiar cuidará provisionalmente de la persona y bienes del inca
 
 El juez que no cumpla las prescripciones relativas a la tutela, además de las penas en que incurra conforme a las leyes, será responsable de los daños y perjuicios que sufran los incapaces.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 15 DE MAYO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 15 DE MAYO DE 2007)</small>
 
 ### CAPITULO III. De la tutela legítima de los menores
 
@@ -4045,7 +4045,7 @@ I. Cuando no haya tutor cautelar, ni testamentario, y
 
 II. Cuando habiéndolo no pueda temporal o permanentemente ejercer el cargo y no hayan sido nombrados tutores sustitutos.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 23 DE JULIO DE 1992)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 23 DE JULIO DE 1992)</small>
 
 ### CAPITULO VI. De la tutela dativa
 
@@ -4081,7 +4081,7 @@ A falta de tutor testamentario y de persona que con arreglo a los artículos ant
 
 El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquel derecho.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 4 DE ENERO DE 2008)</small>
 
 ### CAPITULO VII. De las personas inhábiles para el desempeño de la tutela y de las que deben ser separadas de ella
 
@@ -4867,7 +4867,7 @@ II.- Cuando el incapacitado, sujeto a tutela entre a la patria potestad por reco
 
 ### CAPITULO XV. Del Consejo Local de Tutelas y de los Jueces de lo Familiar
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 607.
 
@@ -5003,7 +5003,7 @@ El curador tiene derecho a ser relevado de la curaduría, pasados diez años des
 
 En los casos en que conforme a este Código tenga que intervenir el curador, cobrará el honorario que señala el arancel a los procuradores, sin que por ningún otro motivo pueda pretender mayor retribución. Si hiciere algunos gastos en el desempeño de su cargo, se le pagarán.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 25 DE MAYO DE 2000)</small>
 
 ### CAPITULO I. De la emancipación
 
@@ -5017,7 +5017,7 @@ En cada demarcación territorial del Distrito Federal habrá un Consejo Local de
 
 Los miembros del Consejo no cesarán en sus funciones aun cuando haya transcurrido el término para el que fueron nombrados, hasta que tomen posesión las personas que hayan sido designadas para el siguiente período.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE MARZO DE 1971)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 632.
 
@@ -5501,7 +5501,7 @@ El Ministerio Público velará por los intereses del ausente, será oído en tod
 
 El patrimonio familiar es una institución de interés público, que tiene como objeto afectar uno o más bienes para proteger económicamente a la familia y sostener el hogar. El patrimonio familiar puede incluir la casa-habitación y el mobiliario de uso doméstico y cotidiano; una parcela cultivable o los giros industriales y comerciales cuya explotación se haga entre los miembros de la familia; así como los utensilios propios de su actividad, siempre y cuando no exceda su valor, de la cantidad máxima fijada por este ordenamiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2009)</small>
 
@@ -5589,7 +5589,7 @@ II.- Los terrenos que el Gobierno adquiera por expropiación, de acuerdo con el 
 
 III.- Los terrenos que el Gobierno adquiera para dedicarlos a la formación del patrimonio de las familias que cuenten con pocos recursos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 736.
 
@@ -5597,7 +5597,7 @@ El precio de los terrenos a que se refiere la fracción II del artículo anterio
 
 En los casos previstos en las fracciones I y III del artículo que precede, la autoridad vendedora fijará la forma y el plazo en que debe pagarse el precio de los bienes vendidos, teniendo en cuenta la capacidad económica del comprador.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 737.
 
@@ -5633,7 +5633,7 @@ La constitución del patrimonio de la familia no puede hacerse en fraude de los 
 
 Constituido el patrimonio familiar, ésta tiene obligación de habitar la casa, explotar el comercio y la industria y de cultivar la parcela. El Juez de lo Familiar puede, por justa causa autorizar para que se dé en arrendamiento o aparcería, hasta por un año.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 741.
 
@@ -7317,7 +7317,7 @@ ARTICULO 1,157.- La sentencia ejecutoria que declare procedente la acción de pr
 
 ## TITULO OCTAVO. De los derechos de autor
 
-> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)</small>
+> <small>(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)</small>
 
 ### CAPITULO III. De la prescripción negativa
 
@@ -7419,157 +7419,157 @@ ARTICULO 1,180.- Cuando el último día sea feriado, no se tendrá por completa 
 
 > <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)</small>
 
-### CAPITULO I. ARTICULO 1,181.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+### CAPITULO I. ARTICULO 1,181.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,182.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,182.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,183.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,183.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,184.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,184.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,185.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,185.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,186.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,186.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,187.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,187.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,188.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,188.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,189.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,189.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,190.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,190.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,191.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,191.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,192.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,192.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,193.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,193.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,194.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,194.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,195.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,195.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,196.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,196.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,197.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,197.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,198.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,198.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,199.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,199.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,200.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,200.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,201.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,201.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,202.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,202.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,203.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,203.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,204.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,204.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,205.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,205.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,206.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,206.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,207.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,207.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,208.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,208.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,209.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,209.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,210.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,210.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,211.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,211.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,212.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,212.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,213.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,213.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,214.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,214.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,215.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,215.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,216.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,216.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,217.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,217.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,218.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,218.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,219.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,219.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,220.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,220.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,221.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,221.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,222.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,222.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,223.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,223.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,224.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,224.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,225.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,225.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,226.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,226.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,227.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,227.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,228.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,228.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,229.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,229.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,230.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,230.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,231.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,231.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,232.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,232.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,233.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,233.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,234.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,234.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,235.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,235.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,236.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,236.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,237.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,237.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,238.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,238.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,239.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,239.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,240.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,240.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,241.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,241.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,242.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,242.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,243.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,243.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)</small>
+> <small>(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)</small>
 
-### CAPITULO II. ARTICULO 1,244.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+### CAPITULO II. ARTICULO 1,244.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,245.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,245.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,246.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,246.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,247.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,247.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,248.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,248.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,249.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,249.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,250.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,250.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,251.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,251.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,252.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,252.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,253.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,253.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,254.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,254.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)</small>
+> <small>(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)</small>
 
 ## TITULO PRIMERO. Disposiciones preliminares
 
@@ -7601,57 +7601,57 @@ ARTICULO 1,293.- Si dos o más coherederos quisieren hacer uso del derecho del t
 
 ARTICULO 1,294.- El derecho concedido en el artículo 1,292 cesa si la enajenación se hace a un coheredero.
 
-### CAPITULO III. ARTICULO 1,255.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+### CAPITULO III. ARTICULO 1,255.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,256.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,256.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,257.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,257.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,258.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,258.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,259.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,259.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,260.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,260.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,261.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,261.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,262.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,262.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,263.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,263.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,264.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,264.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,265.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,265.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,266.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,266.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,267.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,267.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,268.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,268.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,269.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,269.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,270.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,270.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,271.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,271.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,272.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,272.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,273.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,273.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,274.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,274.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,275.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,275.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,276.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,276.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,277.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,277.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,278.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,278.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,279.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,279.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,280.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+ARTICULO 1,280.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
 ### CAPITULO I. De los testamentos en general
 
@@ -7707,7 +7707,7 @@ ARTICULO 1,312.- Para juzgar de la capacidad del testador se atenderá especialm
 
 ### CAPITULO III. De la capacidad para heredar
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ARTICULO 1,313.- Todos los habitantes del Distrito Federal de cualquier edad que sean, tienen capacidad para heredar, y no pueden ser privados de ella de un modo absoluto; pero con relación a ciertas personas y a determinados bienes, pueden perderla por alguna de las causas siguientes:
 
@@ -7727,7 +7727,7 @@ ARTICULO 1,314.- Son incapaces de adquirir por testamento o por intestado, a cau
 
 ARTICULO 1,315.- Será, no obstante, válida la disposición hecha en favor de los hijos que nacieren de ciertas y determinadas personas durante la vida del testador.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
 ARTICULO 1,316.- Son incapaces de heredar por testamento o por intestado:
 
@@ -8377,7 +8377,7 @@ ARTICULO 1,548.- El testamento cerrado quedará sin efecto siempre que se encuen
 
 ARTICULO 1,549.- Toda persona que tuviere en su poder un testamento cerrado y no lo presente, como está prevenido en los artículos 1,508 y 1,509, o lo sustraiga dolosamente de los bienes del finado, incurrirá en la pena, si fuere heredero por intestado, de pérdida del derecho que pudiera tener, sin perjuicio de la que le corresponda conforme al Código Penal.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 6 DE ENERO DE 1994)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 6 DE ENERO DE 1994)</small>
 
 ### Capítulo III Bis. Testamento público simplificado
 
@@ -8675,7 +8675,7 @@ ARTICULO 1,634.- A falta de los llamados en los artículos anteriores, sucederá
 
 Al aplicar las disposiciones anteriores se tendrá en cuenta lo que ordena el Capítulo siguiente.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 ### CAPITULO VI. De la Sucesión de los Concubinos
 
@@ -8763,7 +8763,7 @@ ARTICULO 1,666.- Nadie puede aceptar ni repudiar sin estar cierto de la muerte d
 
 ARTICULO 1,667.- Conocida la muerte de aquel a quien se hereda, se puede renunciar la herencia dejada bajo condición, aunque ésta no se haya cumplido.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MAYO DE 2000)</small>
 
 ARTICULO 1,668.- Las personas morales capaces de adquirir pueden, por conducto de sus representantes legítimos, aceptar o repudiar herencias; pero tratándose de corporaciones de carácter oficial o de instituciones de Asistencia Privada, no pueden repudiar la herencia, las primeras, sin aprobación judicial, previa audiencia del Ministerio Público, y las segundas, sin sujetarse a las disposiciones relativas de la Ley de Instituciones de Asistencia Privada para el Distrito Federal.
 
@@ -9075,7 +9075,7 @@ ARTICULO 1,776.- Cuando todos los herederos sean mayores, y el interés del Fisc
 
 Cuando haya menores, podrán separarse, si están debidamente representados y el Ministerio Público da su conformidad. En este caso, los acuerdos que se tomen se denunciarán al juez, y éste, oyendo al Ministerio Público, dará su aprobación, si no se lesionan los derechos de los menores.
 
-> <small>N. DE E. SE MODIFICA EL TEXTO DEL PRESENTE ARTICULO EN LOS TERMINOS DEL ARTICULO 54 DE LA LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL Y TERRITORIOS, DE ACUERDO A LO DISPUESTO POR EL ARTICULO 14 DE LAS DISPOSICIONES TRANSITORIAS DE LA CITADA LEY, PUBLICADA EN EL D.O.F. 23 DE FEBRERO DE 1946.</small>
+> <small>N. DE E. SE MODIFICA EL TEXTO DEL PRESENTE ARTÍCULO EN LOS TÉRMINOS DEL ARTÍCULO 54 DE LA LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL Y TERRITORIOS, DE ACUERDO A LO DISPUESTO POR EL ARTÍCULO 14 DE LAS DISPOSICIONES TRANSITORIAS DE LA CITADA LEY, PUBLICADA EN EL D.O.F. 23 DE FEBRERO DE 1946.</small>
 
 ARTICULO 1,777.- La partición constará en escritura pública, siempre que en la herencia haya bienes cuya enajenación deba hacerse con esa formalidad.
 
@@ -9475,7 +9475,7 @@ ARTICULO 1,911.- El incapaz que cause daño debe repararlo, salvo que la respons
 
 ARTICULO 1,912.- Cuando al ejercitar un derecho se causa daño a otro, hay obligación de indemnizarlo si se demuestra que el derecho sólo se ejercitó a fin de causar el daño, sin utilidad para el titular del derecho.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.O. 13 DE MARZO DE 2008)</small>
 
@@ -9497,7 +9497,7 @@ Los créditos por indemnización cuando la víctima fuere un asalariado son intr
 
 Las anteriores disposiciones se observarán en el caso del artículo 2647 de este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ARTICULO 1,916.- Por daño moral se entiende la afectación que una persona sufre en sus sentimientos, afectos, creencias, decoro, honor, reputación, vida privada, configuración y aspectos físicos, o bien en la consideración que de sí misma tienen los demás. Se presumirá que hubo daño moral cuando se vulnere o menoscabe ilegítimamente la libertad o la integridad física o psíquica de las personas.
 
@@ -9513,9 +9513,9 @@ La acción de reparación no es transmisible a terceros por acto entre vivos y s
 
 El monto de la indemnización lo determinará el juez tomando en cuenta los derechos lesionados, el grado de responsabilidad, la situación económica del responsable, y la de la víctima, así como las demás circunstancias del caso.
 
-> <small>(DEROGADO ULTIMO PARRAFO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCION DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCIÓN DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)</small>
 
-ARTICULO 1,916 Bis.- (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCION DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)
+ARTICULO 1,916 Bis.- (DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCIÓN DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)
 
 ARTICULO 1,917.- Las personas que han causado en común un daño, son responsables solidariamente hacia la víctima por la reparación a que están obligadas de acuerdo con las disposiciones de este Capítulo.
 
@@ -9537,7 +9537,7 @@ ARTICULO 1,925.- Los jefes de casa o los dueños de hoteles o casas de hospedaje
 
 ARTICULO 1,926.- En los casos previstos por los artículos 1923, 1924 y 1925 el que sufra el daño puede exigir la reparación directamente del responsable, en los términos de este Capítulo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEPTIMO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL DISTRITO FEDERAL.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL DISTRITO FEDERAL.</small>
 
 > <small>(REFORMADO, G.O. 21 DE OCTUBRE DE 2008)</small>
 
@@ -9885,7 +9885,7 @@ ARTICULO 2,032.- La cesión de un crédito comprende la de todos los derechos ac
 
 Los intereses vencidos se presume que fueron cedidos con el crédito principal.
 
-> <small>N. DE E. SE MODIFICA EL TEXTO DEL PRESENTE ARTICULO EN LOS TERMINOS DEL ARTICULO 54 DE LA LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL Y TERRITORIOS, DE ACUERDO A LO DISPUESTO POR EL ARTICULO 14 DE LAS DISPOSICIONES TRANSITORIAS DE LA CITADA LEY, PUBLICADA EN EL D.O.F. 23 DE FEBRERO DE 1946.</small>
+> <small>N. DE E. SE MODIFICA EL TEXTO DEL PRESENTE ARTÍCULO EN LOS TÉRMINOS DEL ARTÍCULO 54 DE LA LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL Y TERRITORIOS, DE ACUERDO A LO DISPUESTO POR EL ARTÍCULO 14 DE LAS DISPOSICIONES TRANSITORIAS DE LA CITADA LEY, PUBLICADA EN EL D.O.F. 23 DE FEBRERO DE 1946.</small>
 
 ARTICULO 2,033.- La cesión de créditos civiles que no sean a la orden o al portador, puede hacerse en escrito privado que firmarán cedente, cesionario y dos testigos. Sólo cuando la ley exija que el título del crédito cedido conste en escritura pública, la cesión deberá hacerse en esta clase de documento.
 
@@ -10671,11 +10671,11 @@ ARTICULO 2,315.- En la venta de que habla el artículo 2,312, mientras que no pa
 
 ### CAPITULO VIII. De la forma del contrato de compra-venta
 
-> <small>N. DE E. SE MODIFICA EL TEXTO DEL PRESENTE ARTICULO EN LOS TERMINOS DEL ARTICULO 54 DE LA LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL Y TERRITORIOS, DE ACUERDO A LO DISPUESTO POR EL ARTICULO 14 DE LAS DISPOSICIONES TRANSITORIAS DE LA CITADA LEY, PUBLICADA EN EL D.O.F. 23 DE FEBRERO DE 1946.</small>
+> <small>N. DE E. SE MODIFICA EL TEXTO DEL PRESENTE ARTÍCULO EN LOS TÉRMINOS DEL ARTÍCULO 54 DE LA LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL Y TERRITORIOS, DE ACUERDO A LO DISPUESTO POR EL ARTÍCULO 14 DE LAS DISPOSICIONES TRANSITORIAS DE LA CITADA LEY, PUBLICADA EN EL D.O.F. 23 DE FEBRERO DE 1946.</small>
 
 ARTICULO 2,316.- El contrato de compra-venta no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE ENERO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE ENERO DE 1988)</small>
 
 ARTICULO 2,317.- Las enajenaciones de bienes inmuebles cuyo valor de avalúo no exceda al equivalente a trescientas sesenta y cinco veces el salario mínimo general diario vigente en el Distrito Federal en el momento de la operación y la constitución o trasmisión de derechos reales estimados hasta la misma cantidad o que garanticen un crédito no mayor de dicha suma, podrán otorgarse en documento privado firmado por los contratantes ante dos testigos cuyas firmas se ratifiquen ante Notario, Juez competente o Registro Público de la Propiedad.
 
@@ -10751,7 +10751,7 @@ ARTICULO 2,344.- Si el valor de los muebles excede de doscientos pesos, pero no 
 
 Si excede de cinco mil pesos, la donación se reducirá a escritura pública.
 
-> <small>N. DE E. SE MODIFICA EL TEXTO DEL PRESENTE ARTICULO EN LOS TERMINOS DEL ARTICULO 54 DE LA LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL Y TERRITORIOS, DE ACUERDO A LO DISPUESTO POR EL ARTICULO 14 DE LAS DISPOSICIONES TRANSITORIAS DE LA CITADA LEY, PUBLICADA EN EL D.O.F. 23 DE FEBRERO DE 1946.</small>
+> <small>N. DE E. SE MODIFICA EL TEXTO DEL PRESENTE ARTÍCULO EN LOS TÉRMINOS DEL ARTÍCULO 54 DE LA LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL Y TERRITORIOS, DE ACUERDO A LO DISPUESTO POR EL ARTÍCULO 14 DE LAS DISPOSICIONES TRANSITORIAS DE LA CITADA LEY, PUBLICADA EN EL D.O.F. 23 DE FEBRERO DE 1946.</small>
 
 ARTICULO 2,345.- La donación de bienes raíces se hará en la misma forma que para su venta exige la ley.
 
@@ -11103,7 +11103,7 @@ ARTICULO 2,444.- El arrendatario debe hacer las reparaciones de aquellos deterio
 
 ARTICULO 2,445.- El arrendatario que por causa de reparaciones pierda el uso total o parcial de la cosa, tiene derecho a no pagar el precio del arrendamiento, a pedir la reducción de ese precio o a la rescisión del contrato, si la pérdida del uso dura más de dos meses, en sus respectivos casos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE ENERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE ENERO DE 2003)</small>
 
 ARTICULO 2,446.- Si la misma cosa se ha dado en arrendamiento separadamente a dos o más personas y por el mismo tiempo, prevalecerá el arrendamiento primero en fecha, salvo que se tenga la posesión material; en todo caso, predominará el arrendamiento del que tiene en su poder la cosa arrendada.
 
@@ -11121,7 +11121,7 @@ ARTICULO 2,447.- En los Arrendamientos que han durado más de tres años, tiene 
 
 ### CAPITULO IV
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 7 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 7 DE FEBRERO DE 1985)</small>
 
 Del arrendamiento de fincas urbanas destinadas a la Habitación
 
@@ -11199,7 +11199,7 @@ No es aplicable lo dispuesto en el párrafo anterior a las personas que ocupen e
 
 ARTICULO 2,448 I.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE ENERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE ENERO DE 2003)</small>
 
 ARTICULO 2,448 J.- En caso de que el propietario del inmueble arrendado decida enajenarlo, el o los arrendatarios siempre que estén al corriente en el pago de sus rentas tendrán derecho a ser preferidos a cualquier tercero en los siguientes términos:
 
@@ -11255,7 +11255,7 @@ ARTICULO 2,452.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
 
 ### CAPITULO V. Del arrendamiento de fincas rústicas
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, REMITIRSE AL DECRETO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 17 DE ABRIL DE 1999.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE, REMITIRSE AL DECRETO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 17 DE ABRIL DE 1999.</small>
 
 ARTICULO 2,453.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
 
@@ -11317,7 +11317,7 @@ ARTICULO 2,476.- Si en el arrendamiento de un predio rústico se incluyere el ga
 
 ARTICULO 2,477.- Lo dispuesto en el artículo 2,465 es aplicable a los aperos de la finca arrendada.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 16 DE ENERO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 16 DE ENERO DE 2003)</small>
 
 ### CAPITULO VII. Disposiciones especiales respecto de los arrendamientos por tiempo indefinido
 
@@ -11341,7 +11341,7 @@ ARTICULO 2,482.- (DEROGADO, G.O. 16 DE ENERO DE 2003)
 
 ### CAPITULO IX. Del modo de terminar el arrendamiento
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE ENERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE ENERO DE 2003)</small>
 
 ARTICULO 2,483.- El arrendamiento puede terminar:
 
@@ -11379,7 +11379,7 @@ ARTICULO 2,487.- Si después de terminado el plazo por el que se celebró el arr
 
 ARTICULO 2,488.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE ENERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE ENERO DE 2003)</small>
 
 ARTICULO 2,489.- El arrendador puede exigir la rescisión del contrato.
 
@@ -12139,7 +12139,7 @@ ARTICULO 2,734.- Si al terminar la sociedad en que hubiere socios capitalistas e
 
 ARTICULO 2,735.- Salvo pacto en contrario, los socios industriales no responderán de las pérdidas.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 7 DE ENERO DE 1988)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 7 DE ENERO DE 1988)</small>
 
 ### CAPITULO VI. De las Personas Morales Extranjeras de Naturaleza Privada
 
@@ -12983,7 +12983,7 @@ X.- Los créditos a que se refiere el artículo 28 de la nueva Ley de Propiedad 
 
 ## TITULO SEGUNDO. Del registro publico
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ### CAPITULO IV. Acreedores de primera clase
 
@@ -13021,7 +13021,7 @@ ARTICULO 2,997.- Pagados los créditos enumerados en los capítulos que preceden
 
 ARTICULO 2,998.- Con los bienes restantes serán pagados todos los demás créditos que no estén comprendidos en las disposiciones anteriores. El pago se hará a prorrata y sin atender a las fechas, ni al origen de los créditos.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ### CAPITULO I. De su organización
 
@@ -13063,7 +13063,7 @@ V.- No expidan los certificados en el término reglamentario.
 
 ARTICULO 3,004.- Las sentencias firmes que resulten en aplicación del artículo anterior, incluirán la inhabilitación para el desempeño del cargo o empleo hasta que sea pagada la indemnización de daños y perjuicios que en su caso corresponda.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ### CAPITULO II. Disposiciones comunes de los documentos registrables
 
@@ -13315,7 +13315,7 @@ ARTICULO 3,041.- Podrá también cancelarse, total o parcialmente la hipoteca qu
 
 ### CAPITULO III. Del registro de la propiedad inmueble y de los títulos inscribibles y anotables
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE FEBRERO DE 1985) (F. DE E., D.O.F. 29 DE MARZO DE 1985)
+(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE FEBRERO DE 1985) (F. DE E., D.O.F. 29 DE MARZO DE 1985)
 
 ARTICULO 3,042.- En el Registro Público de la Propiedad Inmueble se inscribirán:
 
@@ -13335,7 +13335,7 @@ III.- Los contratos de arrendamiento de bienes inmuebles, por un período mayor 
 
 IV.- Los demás títulos que la ley ordene expresamente que sean registrados.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 21 DE JULIO DE 1993)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 21 DE JULIO DE 1993)</small>
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
@@ -13355,19 +13355,19 @@ VI.- Las fianzas legales o judiciales, de acuerdo con lo establecido en el artí
 
 VII.- El decreto de expropiación y de ocupación temporal y declaración de limitación de dominio, de bienes inmuebles;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2011)</small>
 
 VIII.- Las resoluciones judiciales en materia de amparo que ordenen la suspensión provisional o definitiva, en relación con bienes inscritos en el Registro Público;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2011)</small>
 
 IX.- Cualquier otro título que sea anotable, de acuerdo con este Código u otras Leyes, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, G.O. 18 DE AGOSTO DE 2011)</small>
 
@@ -13759,23 +13759,23 @@ Sufragio Efectivo. No Reelección.
 
 México, a 30 de agosto de 1928.- El Secretario de Estado y del Despacho de Gobernación, Emilio Portes Gil.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 D.O.F. 1 DE SEPTIEMBRE DE 1932.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 31 DE MARZO DE 1938.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 20 DE ENERO DE 1940.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 11 DE NOVIEMBRE DE 1943.
 
-DECRETO DE 24 DE SEPTIEMBRE DE 1943, QUE PRORROGA EN EL DISTRITO FEDERAL, POR EL TIEMPO QUE DURE LA GUERRA EN QUE SE ENCUENTRA EL PAIS, TODA CLASE DE CONTRATOS DE ARRENDAMIENTO DE CASAS-HABITACION VIGENTES.
+DECRETO DE 24 DE SEPTIEMBRE DE 1943, QUE PRORROGA EN EL DISTRITO FEDERAL, POR EL TIEMPO QUE DURE LA GUERRA EN QUE SE ENCUENTRA EL PAÍS, TODA CLASE DE CONTRATOS DE ARRENDAMIENTO DE CASAS-HABITACIÓN VIGENTES.
 
 ###### ARTICULO 1o.
 
@@ -13791,7 +13791,7 @@ Los términos que estuvieron corriendo de conformidad con el artículo 2478 del 
 
 D.O.F. 9 DE JUNIO DE 1944.
 
-DECRETO DE 15 DE MAYO DE 1944, QUE PRORROGA LOS CONTRATOS DE ARRENDAMIENTO DE CASA HABITACION EN LOS TERRITORIOS FEDERALES EN BENEFICIO DE LOS INQUILINOS, MIENTRAS DURE EL ESTADO DE GUERRA.
+DECRETO DE 15 DE MAYO DE 1944, QUE PRORROGA LOS CONTRATOS DE ARRENDAMIENTO DE CASA HABITACIÓN EN LOS TERRITORIOS FEDERALES EN BENEFICIO DE LOS INQUILINOS, MIENTRAS DURE EL ESTADO DE GUERRA.
 
 ###### ARTICULO 1o.
 
@@ -13807,13 +13807,13 @@ Los términos que estuvieron corriendo de conformidad con el artículo 2478 del 
 
 D.O.F. 23 DE FEBRERO DE 1946.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 14 DE ENERO DE 1948.
 
-ARTICULOS TRANSITORIOS DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR.
+ARTÍCULOS TRANSITORIOS DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ###### ARTICULO PRIMERO.
 
@@ -13825,7 +13825,7 @@ Queda derogado el Título Octavo del Libro Segundo del Código Civil vigente y t
 
 D.O.F. 27 DE FEBRERO DE 1951.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 18 DE ENERO DE 1952.
 
@@ -13855,11 +13855,11 @@ El presente decreto entrará en vigor diez días después de la fecha de su publ
 
 D.O.F. 15 DE DICIEMBRE DE 1954.
 
-EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMA CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 31 DE DICIEMBRE DE 1954.
 
-EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMA CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 30 DE DICIEMBRE DE 1966.
 
@@ -13869,13 +13869,13 @@ Segundo.- Se derogan las disposiciones legales que se opongan al presente Decret
 
 D.O.F. 17 DE ENERO DE 1970.
 
-DECRETO QUE REFORMA LOS ARTICULOS 77, 78, 79, 363, 368, 390, 391, 397 FRACCION III, 398, 403, 405 FRACCION I Y 406 FRACCIONES I Y II DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+DECRETO QUE REFORMA LOS ARTÍCULOS 77, 78, 79, 363, 368, 390, 391, 397 FRACCIÓN III, 398, 403, 405 FRACCIÓN I Y 406 FRACCIONES I Y II DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 UNICO.- Este Decreto entrará en vigor tres días después de la fecha de su publicación en el "Diario Oficial" de la Federación.
 
 D.O.F. 17 DE ENERO DE 1970.
 
-DECRETO QUE REFORMA LA FRACCION VIII DEL ARTICULO 511 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+DECRETO QUE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 511 DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 ###### ARTICULO UNICO.
 
@@ -13969,7 +13969,7 @@ Este Decreto entrará en vigor al día siguiente de su publicación en el Diario
 
 D.O.F. 27 DE DICIEMBRE DE 1983.
 
-DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL (ARTICULO 17); DEL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL, DE LA LEY ORGANICA DE LOS TRIBUNALES DE JUSTICIA DEL FUERO COMUN DEL DISTRITO FEDERAL; Y DEL CODIGO DE COMERCIO.
+DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMÚN, Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL (ARTÍCULO 17); DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL, DE LA LEY ORGÁNICA DE LOS TRIBUNALES DE JUSTICIA DEL FUERO COMÚN DEL DISTRITO FEDERAL; Y DEL CÓDIGO DE COMERCIO.
 
 ###### ARTICULO PRIMERO.
 
@@ -13977,9 +13977,9 @@ El presente ordenamiento entrará en vigor el día 1o. de octubre de 1984.
 
 D.O.F. 27 DE DICIEMBRE DE 1983.
 
-DECRETO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES CONTENIDAS EN EL CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL, Y EN EL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL.
+DECRETO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES CONTENIDAS EN EL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMÚN, Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL, Y EN EL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 ###### ARTICULO PRIMERO.
 
@@ -14003,7 +14003,7 @@ Las presentes reformas al Código Civil para el Distrito Federal en Materia Com�
 
 D.O.F. 7 DE ENERO DE 1988.
 
-DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DEL CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 ###### ARTICULO PRIMERO.
 
@@ -14029,7 +14029,7 @@ Las solicitudes de inmatriculación por resolución del Director del Registro P�
 
 D.O.F. 7 DE ENERO DE 1988.
 
-DECRETO POR EL QUE SE REFORMA Y ADICIONA EL CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+DECRETO POR EL QUE SE REFORMA Y ADICIONA EL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
@@ -14041,13 +14041,13 @@ SEGUNDO.- Las declaraciones de incapacidad o de nombramiento de tutor que actual
 
 D.O.F. 21 DE JULIO DE 1993.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE A LOS ARTICULOS DEL DECRETO PUBLICADO EN LA G.O. DE 17 DE ABRIL DE 1999.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE A LOS ARTÍCULOS DEL DECRETO PUBLICADO EN LA G.O. DE 17 DE ABRIL DE 1999.</small>
 
 > <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 1998)</small>
 
 PRIMERO.- Las disposiciones contenidas en el presente decreto entrarán en vigor el 19 de abril del año 1999, salvo lo dispuesto por los transitorios siguientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE A LOS ARTICULOS DEL DECRETO PUBLICADO EN LA G.O. DE 17 DE ABRIL DE 1999.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE A LOS ARTÍCULOS DEL DECRETO PUBLICADO EN LA G.O. DE 17 DE ABRIL DE 1999.</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 1993)</small>
 
@@ -14059,7 +14059,7 @@ II.- Se encuentren arrendados al 19 de octubre de 1993, siempre que sean para us
 
 III.- Su construcción sea nueva, siempre que el aviso de terminación sea posterior al 19 de octubre de 1993.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE A LOS ARTICULOS DEL DECRETO PUBLICADO EN LA G.O. DE 17 DE ABRIL DE 1999.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE A LOS ARTÍCULOS DEL DECRETO PUBLICADO EN LA G.O. DE 17 DE ABRIL DE 1999.</small>
 
 > <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 1998)</small>
 
@@ -14085,7 +14085,7 @@ SEXTO.- En los casos en que con anterioridad a la entrada en vigor del presente 
 
 D.O.F. 10 DE ENERO DE 1994.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 PRIMERO.- El presente decreto entrará en vigor el primero de febrero de mil novecientos noventa y cuatro.
 
@@ -14093,13 +14093,13 @@ CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 D.O.F. 24 DE MAYO DE 1996.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 CUARTO.- Las reformas previstas en el artículo quinto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 24 DE DICIEMBRE DE 1996.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo previsto en el artículo siguiente.
 
@@ -14125,7 +14125,7 @@ UNICO.- El presente Decreto entrará en vigor el mismo día de su publicación e
 
 G.O. 17 DE ABRIL DE 1999.
 
-> <small>N. DE E. MEDIANTE DECRETO DE REFORMAS PUBLICADO EN FECHA 28 DE ABRIL DE 2000, EL LEGISLADOR MODIFICA EL TEXTO DEL DECRETO DE REFORMAS DEL 17 DE ABRIL DE 1999, AMBOS PUBLICADOS EN LA GACETA OFICIAL DEL DISTRITO FEDERAL, POR LO CUAL DICHAS MODIFICACIONES DEBERAN SER CONSULTADAS DIRECTAMENTE EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DE LA FECHA CON ANTELACION CITADA, TODA VEZ QUE LAS MISMAS NO AFECTAN DIRECTAMENTE AL PRESENTE CODIGO.</small>
+> <small>N. DE E. MEDIANTE DECRETO DE REFORMAS PUBLICADO EN FECHA 28 DE ABRIL DE 2000, EL LEGISLADOR MODIFICA EL TEXTO DEL DECRETO DE REFORMAS DEL 17 DE ABRIL DE 1999, AMBOS PUBLICADOS EN LA GACETA OFICIAL DEL DISTRITO FEDERAL, POR LO CUAL DICHAS MODIFICACIONES DEBERÁN SER CONSULTADAS DIRECTAMENTE EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DE LA FECHA CON ANTELACIÓN CITADA, TODA VEZ QUE LAS MISMAS NO AFECTAN DIRECTAMENTE AL PRESENTE CÓDIGO.</small>
 
 UNICO.- El presente decreto entrará en vigor el mismo día de su publicación en la Gaceta Oficial del Distrito Federal.
 
@@ -14245,7 +14245,7 @@ Artículo Quinto.- La Asamblea Legislativa del Distrito Federal considerará una
 
 G.O. 13 DE MARZO DE 2008.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 PRIMERO.- El presente Decreto entrará en vigor el día primero de julio del año dos mil ocho.
 
@@ -14283,7 +14283,7 @@ Cuarto.- A partir de la publicación del presente Decreto, el Jefe del Gobierno 
 
 G.O. 21 DE OCTUBRE DE 2008.
 
-SE TRANSCRIBE UNICAMENTE EL TRANSITORIO QUE SE RELACIONA CON EL CODIGO.
+SE TRANSCRIBE ÚNICAMENTE EL TRANSITORIO QUE SE RELACIONA CON EL CÓDIGO.
 
 PRIMERO.- La presente ley entrará en vigor a partir del 1° de enero del año 2009.
 
@@ -14359,7 +14359,7 @@ Tercero. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor d
 
 G.O. 24 DE JUNIO DE 2011.
 
-DECRETO POR EL QUE SE REFORMA EL ARTICULO 267 FRACCION VI DEL CODIGO CIVIL PARA EL DISTRITO FEDERAL
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 267 FRACCIÓN VI DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
 Primero. El presente decreto entrará en vigor al día siguiente a su publicación en la Gaceta Oficial del Distrito Federal.
 
@@ -14367,7 +14367,7 @@ Segundo. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor d
 
 G.O. 24 DE JUNIO DE 2011.
 
-DECRETO POR EL QUE SE REFORMA Y ADICIONA UN SEGUNDO PARRAFO A LA FRACCION IV, ASI COMO LAS FRACCIONES VI, VII Y VIII DEL ARTICULO 444 DEL CODIGO CIVIL PARA EL DISTRITO FEDERAL.
+DECRETO POR EL QUE SE REFORMA Y ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN IV, ASÍ COMO LAS FRACCIONES VI, VII Y VIII DEL ARTÍCULO 444 DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL.
 
 Primero. El presente decreto entrará en vigor al día siguiente a su publicación en la Gaceta Oficial del Distrito Federal.
 
@@ -14380,3 +14380,9 @@ Primero.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor 
 Segundo.- El presente Decreto entrará en vigor a los 30 días siguientes de su publicación.
 
 Tercero.- Se concede un plazo de noventa días, a partir de la entrada en vigor del presente decreto, para que se realicen las adecuaciones necesarias al Reglamento del Registro Civil.
+
+G.O. 9 DE MAYO DE 2012.
+
+Primero.- El presente decreto entrara en vigor al día siguiente de su publicación.
+
+Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
