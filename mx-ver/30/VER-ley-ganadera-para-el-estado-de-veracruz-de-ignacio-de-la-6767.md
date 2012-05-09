@@ -4,7 +4,7 @@ identifier: "VER-ley-ganadera-para-el-estado-de-veracruz-de-ignacio-de-la-6767"
 country: "mx"
 rank: "ley"
 publication_date: "1979-05-22"
-last_updated: "2003-03-18"
+last_updated: "2012-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY GANADERA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE MAYO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz Ignacio de la Llave, el martes 22 de mayo de 1979.
 
@@ -35,19 +35,23 @@ LEY
 
 "La Honorable Quincuagésima Primera Legislatura del Estado Libre y Soberano de Veracruz-Llave, en uso de la facultad que le concede la fracción I del artículo 68 de la Constitución Política Local, y en nombre del pueblo, expide la siguiente
 
-> <small>(REFORMADA SU DENOMINACION POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 LEY GANADERA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ### CAPITULO PRIMERO. DE LA MATERIA DE ESTA LEY
 
+> <small>(REFORMADO, G.O. 9 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 1°.
 
-Se declara de interés público el fomento, organización, producción, mejoramiento, desarrollo, productividad, aprovechamiento, industrialización, comercialización y protección de la ganadería en el Estado.
+Se declara de interés público el fomento, organización, producción, mejoramiento, desarrollo, productividad, aprovechamiento, industrialización, comercialización, sanidad y protección de la ganadería en el Estado.
+
+> <small>(REFORMADO, G.O. 9 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 2°.
 
-Quedará sujeta a las disposiciones de esta Ley y a las disposiciones reglamentarias que se expidan, toda persona física o moral que se dedique a la cría, reproducción o explotación de ganado bovino, caballar, mular, asnal, lanar, caprino, porcino, aves de cualesquiera de sus especies, conejos y animales de peletería. La aparcería de ganado quedará regulada por los artículos 2,672 y 2,685 al 2,697 del Código Civil vigente en el Estado. Las actividades apícolas se regularán por la Ley correspondiente.
+Quedará sujeta a las disposiciones de esta Ley y a las disposiciones reglamentarias que se expidan, toda persona física o moral que se dedique a la cría, reproducción o explotación de ganado bovino, caballar, mular, asnal, ovino, caprino, porcino, aves de cualesquiera de sus especies, conejos y animales de peletería. La aparcería de ganado quedará regulada por los Artículos 2672, 2673 y 2685 al 2697 del Código Civil vigente en el Estado. Las actividades apícolas se regularán por la Ley correspondiente.
 
 ###### ARTICULO 3°.
 
@@ -187,9 +191,11 @@ Los ganaderos, propietarios o poseedores de potreros naturales, cultivados o art
 
 La quema de pastos, praderas o montes será sancionada de acuerdo con lo dispuesto en el Código Penal vigente en el Estado.
 
+> <small>(REFORMADO, G.O. 9 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 25.
 
-Los propietarios o poseedores de terrenos tendrán la obligación de conservar sus cercas en buen estado. Estas constarán como mínimo de tres hilos de alambre de púas o de cualquier otro tipo, debiendo emplearse de preferencia en la construcción de las mismas los árboles maderables que se consideren más útiles y mejor adaptables. La construcción o conservación de las cercas en terrenos colindantes debe costearse por partes iguales por los propietarios o poseedores.
+Los propietarios o poseedores de terrenos tendrán la obligación de cercar su propiedad y conservar sus cercas en buen estado. Éstas constarán como mínimo de tres hilos de alambre de púas o de cualquier otro tipo, debiendo emplearse de preferencia en la construcción de las mismas los árboles maderables que se consideren más útiles y mejor adaptables. La construcción o conservación de las cercas en terrenos colindantes debe costearse por partes iguales por los propietarios o poseedores, quienes además deberán abrir guardarrayas, las cuales deberán mantener limpias de pasto y maleza en un área mínima de dos metros de ancho en los linderos de sus predios.
 
 > <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
 
@@ -199,25 +205,27 @@ La desobediencia a lo ordenado en el artículo anterior se sancionará por la au
 
 ### CAPITULO QUINTO. PROPIEDAD, MARCAS Y SEÑALES DEL GANADO
 
+> <small>(REFORMADO, G.O. 9 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 27.
 
 La propiedad del ganado se acredita:
 
-a).- Con el fierro criador, marca de herrar, arete o tatuaje para el ganado mayor;
+I. Con la patente actualizada que ampare el fierro criador, marca de herrar o tatuaje para el ganado mayor;
 
-b).- Con la escritura pública o privada;
+II. Con el arete del Sistema Nacional de Identificación Ganadera;
 
-c).- Con la factura;
+III. Con la escritura pública o privada;
 
-d).- Con la señal de sangre para el ganado menor;
+IV. Con la factura expedida por la Asociación Ganadera Local;
 
-e).- Con los demás medios de prueba establecidos por la Ley.
+V. Con la señal de sangre para el ganado menor; y
 
-La factura de compra-venta o documento que ampare la propiedad, deberá ser registrado en un libro que al efecto llevará cada Ayuntamiento, cuyo Presidente Municipal expedirá en la propia factura la constancia respectiva, asentando la autenticidad del fierro marcador si se trata de primera venta, con vista en la constancia de registro que deberá exhibir el vendedor; si se trata de ulterior venta, con el documento que constituya el antecedente a plena satisfacción, debiendo la autoridad municipal recabar el visto bueno de la Asociación Ganadera Local si la hubiere. Sin la constancia de registro contenida en la factura se presumirá que ésta no es auténtica, debiendo consignarse los hechos al Ministerio Público para el inicio de la averiguación previa correspondiente. El antecedente de propiedad podrá conservarlo el propietario o la Asociación Ganadera Local.
+VI. Con los demás medios de prueba establecidos por la Ley.
 
-Cuando el antecedente de propiedad ampare más de un animal, la autoridad municipal tendrá obligación de asentar constancia en este documento y en el libro de registro, del Núm. de animales que dejen de ampararse en el documento de referencia; cuando se trate de la totalidad de los animales, dicho documento deberá cancelarse. Esta omisión se equipara al delito de abuso de autoridad, debiendo aplicarse lo dispuesto en el Código Penal.
+La factura de compra-venta o documento que ampare la propiedad deberá ser registrado en un libro que al efecto llevará cada Ayuntamiento, cuyo Presidente Municipal expedirá en la propia factura la constancia respectiva, asentando la autenticidad del fierro marcador si se trata de primera venta, con vista en la constancia de registro que deberá exhibir el vendedor; si se trata de ulterior venta, con el documento que constituya el antecedente a plena satisfacción, debiendo la autoridad municipal recabar el visto bueno de la Asociación Ganadera Local si la hubiere. En caso de negativa de parte de la autoridad municipal, será el Director de Ganadería del Estado o la autoridad estatal competente quien lo hará. Sin la constancia de registro contenida en la factura se presumirá que ésta no es auténtica, debiendo consignarse los hechos al Ministerio Público para el inicio de la Investigación Ministerial correspondiente. El antecedente de propiedad podrá conservarlo el propietario o la Asociación Ganadera Local.
 
-Las atribuciones concedidas a los Presidentes Municipales podrán ser delegadas a los Agentes Municipales en forma permanente, cuando la necesidad lo amerite por decreto de la Honorable Legislatura del Estado o de su Diputación Permanente.
+Cuando el antecedente de propiedad ampare más de un animal, la autoridad municipal tendrá obligación de asentar constancia en este documento y en el libro de registro del número de animales que dejen de ampararse en el documento de referencia; cuando se trate de la totalidad de los animales, a dicho documento deberá agregarse la palabra “AGOTADO”, pudiendo conservarlo el propietario con una copia de la guía de tránsito y certificado zoosanitario para efectos de comprobación legal y sanitaria. Esta omisión se equipara al delito de incumplimiento de un deber legal, debiendo aplicarse lo dispuesto en el Código Penal.
 
 > <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
 
@@ -259,7 +267,7 @@ Cuando el criador utilice alguna marca de fuego, además del fierro, éste deber
 
 La Dirección General de Ganadería autorizará una gráfica para el señalamiento del ganado, que figurará como apéndice de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 34.
 
@@ -271,7 +279,7 @@ Es obligación de los Inspectores de Ganadería vigilar el cumplimiento de lo di
 
 Cuando la persona deje la actividad ganadera o bien no use el fierro, marca, señal, tatuaje o arete que tenga registrada, por estar utilizando otro, promoverá la cancelación del registro de aquél, dentro del término de un mes, contado a partir de la fecha en que deje de hacer uso del mismo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 36.
 
@@ -491,7 +499,7 @@ Toda conducción de ganado deberá ampararse con un documento denominado 'Guía 
 
 Cuando para la expedición de una Guía Sanitaria se requiera certificado de sanidad animal, éste será expedido por el Médico Veterinario Zootecnista regional, a que se refiere el artículo 98 de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 71.
 
@@ -873,7 +881,7 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 
 Xalapa-Enríquez, Ver., a 21 de mayo de 1979.- LIC. RAFAEL HERNANDEZ OCHOA.- El Secretario de Gobierno, LIC. EMILIO GOMEZ VIVES.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 4 DE ABRIL DE 1992.
 
@@ -902,3 +910,11 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 9 DE MAYO DE 2012.
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del estado de Veracruz de Ignacio de la Llave.
+
+Artículo Segundo. A partir del inicio de la vigencia del presente Decreto, los ganaderos tendrán un plazo de quinientos cuarenta días naturales para la implantación y uso del arete del Sistema Nacional de Identificación Ganadera en todo el ganado bovino, caprino y ovino.
+
+Artículo Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
