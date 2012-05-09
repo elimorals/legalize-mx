@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-64771"
 country: "mx"
 rank: "estatuto"
 publication_date: "2008-12-31"
-last_updated: "2011-07-21"
+last_updated: "2012-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2008-06-26"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE JUNIO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE JULIO DE 2011.
+ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MAYO DE 2012.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 2008.
 
@@ -1001,9 +1003,13 @@ XVII. Las demás que le confieran el presente Estatuto y la normatividad aplicab
 
 La Dirección de Finanzas tendrá las funciones siguientes:
 
-I. Planear, organizar, normar, coordinar, consolidar y controlar los procesos de planeación financiera, presupuestación, contabilidad, tesorería, inversiones, estadística, estudios actuariales y programación y evaluación presupuestal, para lo cual tendrá a su cargo los sistemas institucionales de:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE MAYO DE 2012)</small>
 
-a) Control presupuestario y de registro contable por fondos, que produzca información financiera y de costos a través de mecanismos que permitan su vinculación con la planeación, programación y presupuestación del Instituto;
+I. Planear, organizar, normar, coordinar, consolidar y controlar los procesos de planeación financiera, contabilidad, tesorería, inversiones, estadística y de estudios actuariales, para lo cual tendrá a su cargo los sistemas institucionales de:
+
+> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2012)</small>
+
+a) Control y registro contable por fondos, que produzca información financiera y de costos a través de mecanismos que, en coordinación con la Dirección de Administración, permitan su vinculación con la planeación, programación y presupuestación del Instituto;
 
 b) Control de las operaciones derivadas tanto de la captación de ingresos como de la movilización de fondos;
 
@@ -1013,21 +1019,29 @@ d) Información estadística, diseñando los instrumentos operativos y los indic
 
 e) Control, registro, mantenimiento y actualización del inventario de activo fijo del Instituto;
 
-f) Control, registro, mantenimiento y actualización de los egresos para el pago de la nómina del personal del Instituto; y,
+f) (DEROGADO, D.O.F. 9 DE MAYO DE 2012)
 
 g) Administración de riesgos y control de aseguramiento integral.
 
-II. Representar al Instituto y a sus órganos desconcentrados ante las Secretarías de Hacienda y Crédito Público y de la Función Pública en asuntos de planeación, programación, presupuestación, contabilidad, tesorería, inversiones y evaluación financiera y presupuestal, manteniendo permanentemente informado del resultado de sus gestiones al Director General;
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2012)</small>
 
-III. Coordinar a los cuerpos colegiados institucionales en materia de programación presupuestal, presupuestación, contabilidad, tesorería e inversiones, así como intervenir en los cuerpos colegiados y en los mecanismos de participación sectorial relacionados con estas materias;
+II. Representar al Instituto y a sus órganos desconcentrados ante las Secretarías de Hacienda y Crédito Público y de la Función Pública en asuntos de contabilidad, tesorería e inversiones;
+
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2012)</small>
+
+III. Coordinar a los cuerpos colegiados institucionales en materia de contabilidad, tesorería e inversiones, así como intervenir en los cuerpos colegiados y en los mecanismos de participación sectorial relacionados con estas materias;
 
 IV. Recaudar y registrar los ingresos de cuotas, aportaciones y cuota social provenientes de las dependencias y entidades afiliadas, o de cualquier otro generado por la institución, así como formular, consolidar y controlar el presupuesto de ingresos del Instituto, manteniendo el buen funcionamiento del sistema de recaudación de cuotas y aportaciones que serán depositadas en las Cuentas Individuales establecidas en la Ley;
 
 V. Diseñar, proponer y operar los esquemas que permitan incrementar los ingresos del Instituto y ampliar la cobertura de los seguros, prestaciones y servicios que brindan sus Unidades Administrativas Centrales y Desconcentradas, sometiendo a la Junta las propuestas de fondeo y bursatilización que, bajo criterios de transparencia y seguridad, resulten pertinentes;
 
-VI. Proponer al Director General y a la Junta el proyecto de presupuesto anual de egresos del Instituto y su asignación, partiendo de un modelo basado en la racionalidad, austeridad y disciplina presupuestal y en la eficiencia y calidad de los servicios;
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2012)</small>
 
-VII. Normar y operar el control contable de los ingresos, egresos y flujo de recursos financieros que por cualquier concepto realicen las Unidades Administrativas del Instituto;
+VI. Integrar, en el ámbito de su competencia, en coordinación con la Dirección de Administración, la información que presente el Instituto a la Secretaría de Hacienda y Crédito Público para elaborar la Cuenta de la Hacienda Pública Federal;
+
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2012)</small>
+
+VII. Normar y operar el registro contable de los ingresos, egresos y del flujo de recursos financieros que por cualquier concepto realicen las Unidades Administrativas del Instituto;
 
 VIII. Planear, programar y ejecutar actos de fiscalización en materia de determinación y liquidación de aportaciones de seguridad social que se deriven del ejercicio de sus facultades de comprobación, para lo cual podrá:
 
@@ -1065,9 +1079,13 @@ g) Las demás que le señalen los reglamentos, lineamientos y, en su caso, acuer
 
 XIII. Atender y representar al Instituto ante las instituciones del sistema financiero y de seguros para evaluar, contratar, normar, aprobar y controlar la apertura de cuentas de todo tipo y objeto, autorizando el monto de las comisiones, sus importes y su forma de pago, así como, en su caso, las condiciones de reciprocidad;
 
-XIV. Integrar la información estadística del Instituto, desarrollando un sistema de indicadores que permitan calificar a las áreas prestadoras de servicios institucionales, la calidad de la prestación, la eficiencia financiera y la cobertura poblacional de cada área, operando las acciones que deriven de las evaluaciones realizadas, de acuerdo con la normatividad correspondiente;
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2012)</small>
 
-XV. Diseñar, desarrollar y administrar la función financiera de los servicios de salud en el Instituto, con base en el sistema de medición y evaluación del desempeño de las unidades médicas, determinando los requerimientos de información necesarios para planificar el adecuado financiamiento de dichos servicios;
+XIV. Integrar, en coordinación con la Dirección de Administración, la información estadística del Instituto, desarrollando un sistema de indicadores que permitan calificar, a las áreas prestadoras de servicios institucionales, la calidad de la prestación, la eficiencia financiera y la cobertura poblacional de cada área, operando las acciones que deriven de las evaluaciones realizadas, de acuerdo con la normatividad correspondiente;
+
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2012)</small>
+
+XV. Diseñar, desarrollar y administrar, en coordinación con la Dirección de Administración, la función financiera de los servicios de salud en el Instituto, con base en el sistema de medición y evaluación del desempeño de las unidades médicas, determinando los requerimientos de información necesarios para planificar el adecuado financiamiento de dichos servicios;
 
 XVI. Determinar las condiciones financieras indispensables en la compensación o subrogación de servicios médicos entre el Instituto y otras instituciones o entidades del sector salud o del sector privado, para el aprovechamiento de la capacidad médica excedente del Instituto;
 
@@ -1079,11 +1097,17 @@ XIX. Administrar el pago de los montos constitutivos de los seguros de riesgos d
 
 XX. Diseñar e implantar, en coordinación con la Dirección de Administración, los sistemas de registro, actualización y mantenimiento del inventario de activo fijo y de control de egresos por nómina del personal del Instituto;
 
-XXI. Integrar, para su presentación ante la Junta, con la oportunidad debida, los estados financieros y el informe financiero y actuarial del Instituto, así como el informe dictaminado a que se refiere el artículo 214, fracción XIX de la Ley; y,
+XXI. Integrar, para su presentación ante la Junta, con la oportunidad debida, los estados financieros y el informe financiero y actuarial del Instituto, así como el informe dictaminado a que se refiere el artículo 214, fracción XIX de la Ley; y, (sic)
 
-XXII. Las demás que le confieran el presente Estatuto y la normatividad aplicable, así como las que le asigne el Director General.
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2012)</small>
+
+XXII. Proponer, en el ámbito de su competencia, al Director General acciones de mejora y simplificación administrativa con objeto de eficientar el uso de los recursos financieros del Instituto; y
+
+XXIII. Las demás que le confieran el presente Estatuto y la normatividad aplicable, así como las que le asigne el Director General.
 
 #### SECCION QUINTA. De la Dirección de Administración
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE JUNIO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTICULO 59.
 
@@ -1131,9 +1155,45 @@ XVII. Con base en la normatividad aplicable, programar, convocar los procesos de
 
 XVIII. Llevar a cabo los procedimientos administrativos de rescisión de los contratos que celebre, y proporcionar la información necesaria a la Dirección Jurídica para ejercer las acciones que en derecho procedan para recuperar los adeudos originados con motivo de las rescisiones o finiquitos de los contratos celebrados, cumpliendo con la normatividad vigente;
 
-XIX. Coordinar el archivo y registro de expedientes del Instituto; y,
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 9 DE MAYO DE 2012)</small>
 
-XX. Las demás que le confieran el presente Estatuto y la normatividad aplicable, así como las que le asigne el Director General.
+XIX. Planear, organizar, normar, coordinar, consolidar y controlar los procesos de planeación, programación, presupuestación y evaluación del gasto del Instituto;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 9 DE MAYO DE 2012)</small>
+
+XX. Integrar el proyecto de presupuesto de egresos del Instituto;
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2012)</small>
+
+XXI. Proponer al Director General el proyecto de presupuesto anual de egresos del Instituto para su presentación y, en su caso, aprobación de la Junta;
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2012)</small>
+
+XXII. Verificar que el ejercicio y registro del presupuesto de egresos, autorizado al Instituto, se realice de conformidad con la normativa aplicable;
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2012)</small>
+
+XXIII. Integrar en el ámbito de su competencia y en coordinación con la Dirección de Finanzas, la información que presente el Instituto a la Secretaría de Hacienda y Crédito Público para elaborar la Cuenta de la Hacienda Pública Federal;
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2012)</small>
+
+XXIV. Representar al Instituto y a sus órganos desconcentrados ante las Secretarías de Hacienda y Crédito Público y de la Función Pública en asuntos de planeación, programación, presupuestación, y evaluación financiera y presupuestal del gasto;
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2012)</small>
+
+XXV. Coordinar a los cuerpos colegiados institucionales en materia de planeación, programación, presupuestación y evaluación del gasto, así como intervenir en los cuerpos colegiados y en los mecanismos de participación sectorial relacionados con estas materias;
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2012)</small>
+
+XXVI. Proponer al Director General acciones de mejora y simplificación administrativa con objeto de eficientar el uso de los recursos humanos, materiales y, en el ámbito de su competencia, financieros del Instituto;
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2012)</small>
+
+XXVII. Coordinar el manejo, guarda, custodia y conservación de los archivos del Instituto; y
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2012)</small>
+
+XXVIII. Las demás que le confieran el presente Estatuto y la normatividad aplicable, así como las que le asigne el Director General.
 
 #### SECCION SEXTA. De la Dirección Jurídica
 
@@ -1818,3 +1878,11 @@ D.O.F. 21 DE JULIO DE 2011.
 ACUERDO POR EL QUE SE REFORMA LOS ARTÍCULOS 5, 85, 86, 87, 88 Y 89 DEL ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO.
 
 UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE MAYO DE 2012.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Para efectos de cumplir con lo previsto en los artículos 58 y 59 del Estatuto Orgánico del ISSSTE, en un plazo que no excederá de noventa días naturales a partir de la vigencia de este ordenamiento, se transferirá a la Dirección de Administración, los correspondientes recursos humanos, materiales y financieros de la Subdirección de Programación y Presupuesto de la Dirección de Finanzas, con sus respectivas Jefaturas de Servicio y de Departamento.
+
+TERCERO.- Las referencias efectuadas a la Dirección de Finanzas en materia de programación, presupuestación y evaluación presupuestal que se contengan en el Estatuto Orgánico o en la normatividad que de él se desprenda, se deberán entender aplicadas a la Dirección de Administración.
