@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-de-la-ley-organica-del-ministerio-publico-del-17280"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-08-09"
-last_updated: "2007-07-04"
+last_updated: "2012-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17280&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE SINALOA
 
-REGLAMENTO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE SINALOA
+REGLAMENTO DE LA LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2012.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 9 de agosto de 2000.
 
@@ -115,15 +115,15 @@ D) Unidad de Vinculación y Comunicación Social;
 
 E) Coordinador de Asesores, que, a su vez, se auxiliará de la dependencia siguiente:
 
-a) Departamento de Estudios Institucionales; y
+a) Departamento de Estudios Institucionales; y (sic)
 
-F) Unidad de Control de Confianza, que, a su vez, se auxiliará de las dependencias siguientes:
+F) (DEROGADO, P.O. 9 DE MAYO DE 2012)
 
-a) Departamento de Investigación;
+a) (DEROGADO, P.O. 9 DE MAYO DE 2012)
 
-b) Departamento de Evaluación; y,
+b) (DEROGADO, P.O. 9 DE MAYO DE 2012)
 
-c) Departamento de Sistemas.
+c) (DEROGADO, P.O. 9 DE MAYO DE 2012)
 
 II. Subprocuraduría General de Justicia, la que se auxiliará de la dependencia siguiente:
 
@@ -463,67 +463,19 @@ V. Las demás que le confieran otras disposiciones legales y el Coordinador de A
 
 ###### Artículo 19.
 
-La Unidad de Control de Confianza estará a cargo de un Jefe, quien se auxiliará por un grupo interdisciplinario de psicólogos, poligrafistas, médicos, licenciados en derecho, químicos, trabajadores sociales y demás especialistas en las diversas ramas necesarias para el desempeño de los servidores públicos de la institución, quien tendrá las siguientes atribuciones:
-
-I. Practicar las investigaciones conducentes para verificar que los servidores públicos de la institución cumplan con los principios de legalidad, eficiencia, profesionalismo, honradez, imparcialidad y respeto a los derechos humanos, previstos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado, en la Ley Orgánica del Ministerio Público y en la Ley de Responsabilidades de los Servidores Públicos del Estado, así como los de lealtad, probidad y confianza para con la Institución, en todas sus actividades internas o externas mientras pertenezcan a la misma;
-
-II. Diseñar, implementar, efectuar, dirigir, dar seguimiento, coordinar y calificar los procesos de evaluación y de verificación periódica, para el control de confianza de los servidores públicos de la Institución, conforme al presente Reglamento y otras disposiciones legales aplicables;
-
-III. Promover y participar en la revisión, actualización y fijación de los perfiles requeridos en los puestos de la institución, a fin de normar la selección y evaluación del personal aspirante y en activo;
-
-IV. Participar en las actividades de evaluación de los aspirantes a ingresar a la Procuraduría a fin de que reúnan los requisitos de aptitud y capacidad, en estricto apego a las necesidades que formulen las unidades administrativas de la institución, sin perjuicio de las evaluaciones que sean competencia de otras entidades de la institución;
-
-V. Comunicar al Procurador General de Justicia los resultados de las investigaciones y evaluaciones que se practiquen, recomendando las medidas necesarias para asegurar la confiabilidad y eficiencia del personal de la institución;
-
-VI. Establecer y controlar una base de datos que contenga los resultados de los procesos de investigación y evaluación de cada una de las personas a quienes se les haya practicado, conformando un expediente personal de cada servidor público que se mantendrá en el archivo correspondiente;
-
-VII. Coordinar, ejecutar, vigilar y supervisar las actividades de seguimiento y evaluación de las conductas y desempeño del personal de la institución, controlando la estadística de este proceso y desarrollando los informes y reportes atingentes; y,
-
-VIII. Las demás que le confieran otras disposiciones legales y el Procurador General de Justicia.
-
-Los procesos de evaluación serán iniciales, permanentes, periódicos y obligatorios para todos los servidores públicos de la Procuraduría General de Justicia, así como para quienes pretendan ingresar o reingresar a la misma.
-
-Los citados procesos de evaluación consistirán, entre otros, en la aplicación de exámenes de aptitud física, médicos, toxicológicos, químicos, psicológicos, psiquiátricos, de entorno social, situación patrimonial, poligráfico y los señalados en otras disposiciones aplicables.
-
-Los servidores públicos serán citados para la práctica de las evaluaciones; en caso de inasistencia sin causa justificada, se tendrá por no acreditada la evaluación. Quienes no aprueben las evaluaciones dejarán de prestar sus servicios a la institución.
+(DEROGADO, P.O. 9 DE MAYO DE 2012)
 
 ###### Artículo 20.
 
-El Departamento de Investigación estará a cargo de un Jefe, quien tendrá las facultades y obligaciones siguientes:
-
-I. Planear, coordinar, efectuar, documentar y dar seguimiento a los procesos de investigación del personal, a fin de establecer, asegurar y mantener su confiabilidad y la congruencia con los perfiles de actuación institucional;
-
-II. Definir y sujetar los procesos de investigación de la confiabilidad del personal que la Unidad inicie a los límites estrictos que las leyes establezcan, señalando las acciones y lineamientos que deberán seguirse para dicho efecto;
-
-III. Planear, instrumentar, efectuar, documentar y dar seguimiento a las investigaciones pertinentes para obtener cualquier otra información que requiera la Unidad de Control de Confianza para cumplir con sus fines, así como organizarla, compilarla y analizarla para su correcta utilización. La información podrá solicitarla y se le deberá proporcionar dentro de sus facultades legales por los demás órganos de la institución de quienes se requiera; y,
-
-IV. Las demás que le confieran otras disposiciones legales y el Jefe de la Unidad.
+(DEROGADO, P.O. 9 DE MAYO DE 2012)
 
 ###### Artículo 21.
 
-El Departamento de Evaluación estará a cargo de un Jefe, quien tendrá las facultades y obligaciones siguientes:
-
-I. Planear, operar, certificar, supervisar y realizar el seguimiento y evaluación del perfil de confianza de los servidores públicos de la institución y de los que pretendan su ingreso o reingreso;
-
-II. Planear, instrumentar, efectuar, operar, documentar y dar seguimiento a las evaluaciones para el Control de Confianza del Personal de ingreso, reingreso o en activo, mediante el uso del polígrafo y demás medios y exámenes que sean necesarios;
-
-III. Planear, organizar, efectuar, desarrollar y documentar estudios médicos al personal de ingreso, reingreso o en activo de la institución;
-
-IV. Planear, organizar, efectuar, documentar y dar seguimiento a estudios socioeconómicos del personal de ingreso, reingreso o en activo de la institución; y,
-
-V. Las demás que le confieran otras disposiciones legales o el Jefe de la Unidad.
+(DEROGADO, P.O. 9 DE MAYO DE 2012)
 
 ###### Artículo 22.
 
-El Departamento de Sistemas estará a cargo de un Jefe, quien tendrá las facultades y obligaciones siguientes:
-
-I. Planear, organizar, diseñar, operar, mantener y actualizar los programas informáticos que sean requeridos para conformar la base de datos con la información obtenida de las actividades competenciales desempeñadas por la Unidad de Control de Confianza y la configuración de los expedientes personales de cada integrante de la institución. Asimismo, conformar el archivo respectivo, que al igual que la base de datos informática, deberá mantener plena y oportunamente actualizados;
-
-II. Ingresar a la base de datos, con inmediatez a su obtención, toda la información que sea obtenida por los demás Departamentos de la Unidad, observando las prevenciones que fije la Coordinación de Informática;
-
-III. Mantener estrecha coordinación, proporcionándoles asesoría y servicio a las demás áreas de la Unidad, así como tener íntima vinculación con la Coordinación de Informática en la obtención de información atingente que ésta obtenga a su vez y seguir las prevenciones y lineamientos que la misma prescriba en el orden informático, para la mayor eficacia y eficiencia; y,
-
-IV. Las demás que le confieran otras disposiciones legales y el Jefe de la Unidad.
+(DEROGADO, P.O. 9 DE MAYO DE 2012)
 
 ### Capítulo VIII. Del Subprocurador General de Justicia
 
@@ -1911,8 +1863,14 @@ El Procurador General de Justicia
 
 Gilberto Higuera Bernal
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 4 DE JULIO DE 2007.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 9 DE MAYO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
