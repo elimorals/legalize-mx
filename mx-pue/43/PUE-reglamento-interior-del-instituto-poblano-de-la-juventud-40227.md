@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-instituto-poblano-de-la-juventud-40227"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-02"
-last_updated: "2006-01-20"
+last_updated: "2012-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40227&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL INSTITUTO POBLANO DE LA JUVENTUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO POR EL QUE SE SUPRIME EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "INSTITUTO POBLANO DE LA JUVENTUD", PUBLICADO EN EL P.O. DE 9 DE MAYO DE 2012, SE SUPRIME EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO POBLANO DE LA JUVENTUD, CREADO MEDIANTE DECRETO DEL HONORABLE CONGRESO DEL ESTADO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO, CON FECHA TRES DE ENERO DOS MIL UNO, CORRESPONDIENDO A LA SECRETARÍA DE EDUCACIÓN PÚBLICA, LA ATENCIÓN DE LOS ASUNTOS COMPETENCIA DE DICHO INSTITUTO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2012.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el viernes 2 de julio de 2004.
 
@@ -241,11 +243,11 @@ XVII.- Proponer al Director General acciones de información y capacitación en 
 
 XVIII.- Las demás que conforme a las disposiciones legales le correspondan y sean necesarias para el adecuado ejercicio de las atribuciones señaladas.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ENERO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ENERO DE 2006)</small>
 
 ### CAPÍTULO IV. DE LA COORDINACIÓN DE COMUNICACIÓN SOCIAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2006)</small>
 
 ###### ARTÍCULO 11.
 
@@ -315,11 +317,11 @@ XIII.- Cumplir y hacer cumplir los acuerdos del Director General, y
 
 XIV.- Las demás que sean necesarias para el logro de los objetivos que tiene asignado el Instituto.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ENERO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ENERO DE 2006)</small>
 
 ### CAPÍTULO VI. DE LA SUBDIRECCIÓN DE PROGRAMAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2006)</small>
 
 ###### ARTÍCULO 13.
 
@@ -431,7 +433,7 @@ Se derogan las disposiciones que se opongan al presente Reglamento.
 
 Dado en las instalaciones de la Sala de Juntas de la Subsecretaría de Planeación y Coordinación Sectorial, de la Secretaría de Educación Pública, en esta Heroica Puebla de Zaragoza, a los dieciocho días del mes de junio del año dos mil cuatro. Delegado del Presidente Ejecutivo.- MAESTRO DARÍO CARMONA GARCÍA.- Rúbrica.- Delegado del Vicepresidente.- LICENCIADO JULIÁN RENE HERNÁNDEZ IBARRA.- Rúbrica.- Delegada del Secretario.- LICENCIADA MARÍA DOLORES TERESA RODRÍGUEZ MENESES.- Rúbrica.- Vocal Delegado.- LICENCIADO GABRIEL GONZÁLEZ SANDOVAL.- Rúbrica.- Vocal Delegada.- DOCTORA MA. DOLORES R. DÍAZ ROMERO.- Rúbrica.- Vocal Delegada.- LICENCIADA CLAUDIA MORALES MÉNDEZ.- Rúbrica.- Vocal Delegado.- LICENCIADO MIGUEL ÁNGEL AYALA LOZADA.- Rúbrica.- Vocal Delegado.- LICENCIADO DAVID A. ACEVEDO GARCÍA.- Rúbrica.- Vocal Delegada.- ANTROPÓLOGA ROSA LILIA CHÁVEZ GONZÁLEZ.- Rúbrica.- Vocal Delegado.- LICENCIADO JOSÉ MANUEL MEDEL SÁNCHEZ.- Rúbrica.- Representante del Comisario Público.- LICENCIADA ROSSANA ROSSANO FERNÁNDEZ.- Rúbrica.- Directora General del Instituto Poblano de la Juventud.- LICENCIADA ADRIANA HERRERA REYNA.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 20 DE ENERO DE 2006.
 
@@ -446,3 +448,69 @@ Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 ###### ARTÍCULO TERCERO.
 
 Las menciones o disposiciones contenidas en cualquier otro acuerdo aprobado por la Junta de Gobierno, respecto de las unidades administrativas cuyas denominaciones se modifican por virtud de este Acuerdo, se entenderán referidas a éstas.
+
+P.O. 9 DE MAYO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día hábil siguiente al de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Decreto del Honorable Congreso del Estado, por el cual se crea el Organismo Público Descentralizado denominado Instituto Poblano de la Juventud, publicado en el Periódico Oficial del Estado con fecha tres de enero de dos mil uno.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos humanos asignados al Instituto Poblano de la Juventud que sean necesarios, serán transferidos a la Secretaría de Educación Pública. Las Secretarías de Finanzas y de Administración, en el ámbito de sus respectivas competencias, deberán realizar las acciones correspondientes para respaldar dichos movimientos.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos materiales propiedad del Instituto Poblano de la Juventud y los bienes inmuebles destinados o en comodato al mismo a la entrada en vigor del presente Decreto, deberán ser transferidos al Gobierno del Estado con destino a la Secretaría de Educación Pública de acuerdo a las disposiciones legales aplicables.
+
+###### ARTÍCULO QUINTO.
+
+Los recursos financieros con los que cuente el Instituto Poblano de la Juventud a la entrada en vigor del presente Decreto, cualquiera que sea su origen, serán transferidos por la Secretaría de Finanzas a la Secretaría de Educación Pública para su ejercicio.
+
+###### ARTÍCULO SEXTO.
+
+Los servidores públicos del Instituto Poblano de la Juventud o en su caso, quienes hayan concluido su empleo, cargo o comisión y que por cualquier motivo hubieren tenido bajo su responsabilidad la captación, recaudación, manejo, administración, control, resguardo, custodia, ejercicio o aplicación de recursos públicos, deberán atender las instrucciones, requerimientos, resoluciones y solicitudes de los órganos de control y fiscalización.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Educación Pública, a través de la persona que designe, contará con la representación jurídica que se requiera para realizar los trámites correspondientes ante la Secretaría de Hacienda y Crédito Público y demás actos jurídicos que se presenten.
+
+###### ARTÍCULO OCTAVO.
+
+El Gobierno del Estado a través de la Secretaría de Educación Pública, asumirá los derechos y obligaciones que se deriven de los convenios, contratos, acuerdos y cualquier otro acto jurídico o administrativo que haya celebrado el Instituto Poblano de la Juventud, con dependencias y entidades federales, estatales y/o municipales, así como con particulares.
+
+###### ARTÍCULO NOVENO.
+
+El Director General del Instituto Poblano de la Juventud, dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, deberá realizar su respectiva entrega-recepción pormenorizada a quien designe el Secretario de Educación Pública, acciones que se realizarán tomando como base su correspondiente expediente de extinción y en coordinación con las Secretarías de Educación Pública, de Finanzas, de Administración y de la Contraloría, en el ámbito de sus respectivas competencias debiendo en todo momento cuidar que la prestación de los servicios continúe de manera ininterrumpida.
+
+En las actas que se generen con motivo del proceso de entrega-recepción, se incluirán los recursos financieros, materiales e inventarios de bienes respectivos y su situación teniendo el servidor público designado para recibir, un plazo de treinta días naturales, a partir de la firma de las actas, para formular las observaciones que correspondan.
+
+###### ARTÍCULO DÉCIMO.
+
+Los juicios, recursos, asuntos en trámite y demás procedimientos, en que sean parte el Instituto Poblano de la Juventud, seguirán tramitándose hasta su total resolución por el Gobierno del Estado a través de la Secretaría de Educación Pública.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Todo instrumento legal, jurídico o administrativo y norma en sentido formal y material, que a la entrada en vigor del presente Decreto, se refiera al Instituto Poblano de la Juventud, se entenderá atribuido a la Secretaría de Educación Pública.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Los ingresos a que se refiere el artículo 43 de la Ley de Ingresos del Estado de Puebla, para el Ejercicio Fiscal 2012, que en su caso se hubiesen autorizado por los servicios prestados por el Instituto Poblano de la Juventud, antes de la entrada en vigor del presente Decreto, serán transferidos a la Secretaría de Educación Pública.
+
+Los servicios prestados por el Instituto Poblano de la Juventud continuarán llevándose a cabo por la Secretaría de Educación Pública.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los acervos documentales y el inventario correspondiente del Instituto Poblano de la Juventud, serán transferidos al Gobierno del Estado a través de la Secretaría de Educación Pública, para su custodia, conservación y administración.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+La Secretaría de Educación Pública, en términos de la normatividad vigente, se coordinará con las Secretarías de Finanzas, de Administración y de la Contraloría, a efecto de llevar a cabo las acciones que se deriven de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Se dejan sin efecto aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
