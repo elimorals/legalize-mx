@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2012-01-26"
+last_updated: "2012-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE MAYO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -354,7 +354,7 @@ Cuando alguna dependencia requiera informes, datos o la cooperación técnica de
 
 ### CAPITULO II. De la competencia de las Secretarías, de la Oficialía Mayor, de la Contraloría General del Distrito Federal y de la Consejería Jurídica y de Servicios Legales
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 23.
 
@@ -394,13 +394,13 @@ XIII. Coadyuvar con el Órgano Judicial del Distrito Federal, en la ejecución d
 
 XIV. Vigilar, en el ámbito administrativo, el cumplimiento de los preceptos constitucionales por parte de las autoridades del Distrito Federal, especialmente en lo que se refiere a las garantías individuales y derechos humanos, así como dictar las medidas administrativas que requiera su cumplimiento;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE ENERO DE 2009)</small>
 
 XV. Sistematizar el padrón de establecimientos mercantiles que funcionen en el Distrito Federal, con base en los que para sus respectivas demarcaciones territoriales integren las delegaciones publicándolo en Internet de conformidad con las Leyes de Protección de Datos Personales y de Transparencia y Acceso a la Información Pública del Distrito Federal, sin perjuicio de que se pueda actualizar periódicamente cada uno de ellos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE ENERO DE 2009)</small>
 
@@ -474,7 +474,7 @@ XIII. Coordinar los dispositivos de apoyo para atender situaciones de emergencia
 
 XIV. Fomentar y realizar estudios, investigaciones, análisis y opiniones de carácter técnico, científico y académico, en materia de protección civil;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 26 DE ENERO DE 2009)</small>
 
@@ -482,13 +482,13 @@ XV. Practicar visitas para verificar el cumplimiento de la Ley, Reglamento, tér
 
 XVI. Ser el conducto para que el Heroico Cuerpo de Bomberos del Distrito Federal se relacione con el Jefe de Gobierno;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 26 DE ENERO DE 2009)</small>
 
 XVII. Integrar el patronato y participar en la integración de la junta de Gobierno del heroico cuerpo de Bomberos del Distrito Federal, en los términos de la ley aplicable;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 26 DE ENERO DE 2009)</small>
 
@@ -534,7 +534,7 @@ XXVII. Iniciar y resolver el procedimiento administrativo con la finalidad de re
 
 XXVIII. Las demás que la presente Ley, así como otras disposiciones le asignen.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, G.O. 26 DE ENERO DE 2009)</small>
 
@@ -756,7 +756,7 @@ XIX. Revisar y determinar los estudios de impacto urbano, y tomando como base lo
 
 XX. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 25.
 
@@ -808,13 +808,13 @@ XVII. Formular y proponer, en el marco de los programas de desrregulación (sic)
 
 XVIII. Establecer y coordinar los programas de abasto y comercialización de productos básicos, promoviendo la modernización y optimización en la materia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 26 DE ENERO DE 2009)</small>
 
 XIX. Promover la realización de ferias, exposiciones y congresos, de carácter local, nacional e internacional, vinculadas a la promoción de actividades industriales, comerciales y económicas en general;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 26 DE ENERO DE 2009)</small>
 
@@ -866,25 +866,25 @@ XVI. Realizar actividades de vigilancia y verificación ambiental, así como apl
 
 XVII. Formular, conducir y ejecutar las políticas relativas a la flora y faunas silvestres que correspondan al ámbito de competencia del Distrito Federal, en términos de lo dispuesto por las leyes federales y locales en la materia y de conformidad con los convenios que se suscriban con la federación;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 26 DE ENERO DE 2009)</small>
 
 XVIII. Administrar, coordinar y supervisar la operación y funcionamiento de los zoológicos del Distrito Federal, como centros de conservación, preservación y exhibición de flora y fauna, con fines de investigación, educación, recreación y esparcimiento para la población;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 26 DE ENERO DE 2009)</small>
 
 XIX. Auxiliar a los Centros de Educación privada en la elaboración de su Programa de Ordenamiento Vial y en su caso de Transporte Escolar, acorde a las necesidades específicas de cada centro, atendiendo a su ubicación, dimensión y población escolar, brindándoles la información necesaria en relación a la emisión de contaminantes que afectan la zona en donde se ubique dicho establecimiento mercantil, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, G.O. 26 DE ENERO DE 2009)</small>
 
 XX. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 27.
 
@@ -916,7 +916,7 @@ X. Llevar a cabo los estudios técnicos e investigaciones de ingeniería para ma
 
 XI. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE ABRIL DE 2007)</small>
 
 ###### Artículo 28.
 
@@ -1012,7 +1012,7 @@ XVI. Elaborar, coordinar y evaluar programas de enseñanza e investigación y pr
 
 XVII. Organizar congresos en materia de salud, sanidad y asistencia social;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 21 DE OCTUBRE DE 2008)</small>
 
@@ -1224,13 +1224,13 @@ I. Proponer a la Contraloría General medidas técnicas y políticas de administ
 
 II. Diseñar, coordinar e implementar en el ámbito de sus atribuciones, las normas, políticas y criterios que en materia de administración interna deben observar las dependencias, órganos desconcentrados y entidades que integran la Administración Pública del Distrito Federal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE ENERO DE 2009)</small>
 
 III. Expedir lineamientos para la expedición de credenciales de acreditación de verificadores que realicen las Dependencias, Órganos y Entidades de la Administración Pública;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE ENERO DE 2009)</small>
 
@@ -1286,7 +1286,7 @@ XXIV. Celebrar, otorgar y suscribir los contratos, convenios, escrituras públic
 
 XXV. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 34.
 
@@ -1422,9 +1422,9 @@ XLVII. Apoyar el funcionamiento del Consejo y de los Comités del Servicio Públ
 
 XLVIII. Las demás que les atribuyan expresamente las leyes y reglamentos.
 
-> <small>N. DE E. PARA SU ENTRADA EN VIGOR VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO.</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE MAYO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE MAYO DE 2006)</small>
 
 ###### Artículo 35.
 
@@ -1470,7 +1470,7 @@ XVIII. Prestar los servicios relacionados con las funciones encomendadas por las
 
 XIX. Prestar los servicios relacionados con las funciones encomendadas por las disposiciones jurídicas al Registro Público de la Propiedad y de Comercio;
 
-> <small>N. DE E. PARA SU ENTRADA EN VIGOR VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO.</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO.</small>
 
 > <small>(REFORMADA, G.O. 19 DE MAYO DE 2006)</small>
 
@@ -1510,11 +1510,21 @@ En el establecimiento y la organización de los órganos desconcentrados, se deb
 
 La Administración Pública del Distrito Federal contará con órganos político-administrativos desconcentrados en cada demarcación territorial, con autonomía funcional en acciones de gobierno, a los que genéricamente se les denominará Delegaciones del Distrito Federal y tendrán los nombres y circunscripciones que establecen los artículos 10 y 11 de esta Ley.
 
+> <small>(REFORMADO, G.O. 9 DE MAYO DE 2012)</small>
+
 ###### Artículo 38.
 
-Los titulares de los Organos Político-Administrativo de cada demarcación territorial serán elegidos en forma universal, libre, secreta y directa en los términos establecidos en la legislación aplicable y se auxiliarán para el despacho de los asuntos de su competencia de los Directores Generales, Directores de Area, Subdirectores y Jefes de Unidad Departamental, que establezca el Reglamento Interior.
+Los titulares de los Órganos Político-Administrativo de cada una de las demarcaciones territoriales serán elegidos en forma universal, libre, secreta y directa, en los términos establecidos en la legislación aplicable y se auxiliarán para el despacho de los asuntos de su competencia de los Directores Generales, Directores de Área, Subdirectores y Jefes de Unidad Departamental, que establezca el Reglamento Interior.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE DICIEMBRE DE 2010)</small>
+En lo que respecta al nombramiento de los Directores Generales de Administración de los Órganos Político Administrativos de las Demarcaciones Territoriales, los Jefes Delegacionales deberán verificar que las personas consideradas para ser designadas, cumplan, como mínimo, con el siguiente perfil:
+
+a) Ser licenciado y contar con cédula profesional respectiva para el ejercicio de la profesión en las áreas de Contaduría, Administración Pública, Administración de Empresas, Finanzas, Economía, Derecho, Ingeniería o ciencias en las áreas afines a la administración;
+
+b) Contar con una experiencia mínima de 2 años en el ejercicio de un cargo dentro de la Administración Pública Federal, Estatal, del Distrito Federal o Municipal, relacionada con las ramas de presupuesto, administración, auditoría o similares; o bien 3 años en el ejercicio de la profesión como administrador, contador, contralor o auditor en la iniciativa privada;
+
+c) De no contar con lo señalado en los incisos anteriores deberá someterse y cumplir cabalmente con lo establecido en el procedimiento de capacidad comprobada que para tal fin determinen la Secretaría de Finanzas y la Escuela de Administración Pública, ambas del Gobierno del Distrito Federal, con base a los ordenamientos que regulan la Administración Pública del Distrito Federal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 39.
 
@@ -1530,7 +1540,7 @@ IV. Expedir, en coordinación con el Registro de los Planes y Programas de Desar
 
 V. Otorgar autorizaciones para la instalación de anuncios en vía pública y en construcciones y edificaciones en los términos de las disposiciones jurídicas aplicables;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2009)</small>
 
@@ -1866,7 +1876,7 @@ El Consejo de Administración o su equivalente se reunirá con la periodicidad q
 
 ### CAPITULO IV. De los Fideicomisos Públicos
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE ENERO DE 2002)</small>
 
 ###### Artículo 61.
 
@@ -1884,7 +1894,7 @@ El Jefe de Gobierno a través de la Secretaría de Finanzas, cuidará que en los
 
 Las instituciones fiduciarias, a través del delegado fiduciario general, dentro de los seis meses siguientes a la constitución o modificación de los fideicomisos deberán someter a la consideración de la Secretaría encargada de la coordinación del sector al que pertenezcan o a la delegación que correspondan, los proyectos de estructura administrativa o las modificaciones que se requieran.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE ENERO DE 2002)</small>
 
 ###### Artículo 64.
 
@@ -2024,7 +2034,7 @@ Salón de sesiones de la Asamblea Legislativa del Distrito Federal, a diez de di
 
 En cumplimiento de lo dispuesto en el artículo 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los catorce días del mes de diciembre de mil novecientos noventa y ocho.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, CUAUHTÉMOC CÁRDENAS SOLÓRZANO.- RÚBRICA.- LA SECRETARlA DE GOBIERNO, ROSARIO ROBLES BERLANGA.- RÚBRICA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, ROBERTO EIBENSCHUTZ HARTMAN.- RÚBRICA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, FRANCISCO CANO ESCALANTE.- RÚBRICA.- EL SECRETARIO DEL MEDIO AMBIENTE, ALEJANDRO ENCINAS RODRIGUEZ.- RÚBRICA.- EL SECRETARIO DE OBRAS Y SERVICIOS, CESAR BUENROSTRO HERNÁNDEZ.- RÚBRICA.- LA SECRETARlA DE EDUCACIÓN, SALUD Y DESARROLLO SOCIAL, CLARA JUSIDMAN RAPOPORT.- RÚBRICA.- EL SECRETARIO DE FINANZAS, ANTONIO ORTIZ SALINAS.- RÚBRICA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, JORGE MARTÍNEZ Y ALMARAZ.- RÚBRICA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, ALEJANDRO GERTZ MANERO.- RÚBRICA.- EL SECRETARIO DE TURISMO, AGUSTIN ARROYO LEGASPI.- RÚBRICA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 20 DE MAYO DE 1999.
 
@@ -2034,7 +2044,7 @@ SEGUNDO. Por ser de interés general, publíquese en el Diario Oficial de la Fed
 
 G.O. 31 DE ENERO DE 2002.
 
-DECRETO POR EL QUE SE REFORMAN Y DEROGAN LOS ARTICULOS 26 Y 28 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL D.F.
+DECRETO POR EL QUE SE REFORMAN Y DEROGAN LOS ARTÍCULOS 26 Y 28 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL D.F.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
@@ -2042,7 +2052,7 @@ SEGUNDO.- La Administración Pública del Distrito Federal realizará los actos 
 
 G.O. 31 DE ENERO DE 2002.
 
-DECRETO POR EL QUE SE ADICIONAN, REFORMAN Y DEROGAN LOS ARTICULOS 15, 28 Y 32 BIS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL D.F.
+DECRETO POR EL QUE SE ADICIONAN, REFORMAN Y DEROGAN LOS ARTÍCULOS 15, 28 Y 32 BIS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL D.F.
 
 PRIMERO.- El presente decreto entrará en vigor a los noventa días naturales siguientes de su publicación en la Gaceta Oficial del Distrito Federal.
 
@@ -2054,7 +2064,7 @@ CUARTO.- Las atribuciones establecidas en otras leyes para el Instituto de Cultu
 
 G.O. 31 DE ENERO DE 2002.
 
-DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 43, 44, 46, 61 Y 63 A 66 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL D.F.
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 43, 44, 46, 61 Y 63 A 66 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL D.F.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
@@ -2184,7 +2194,7 @@ QUINTO.- Se derogan aquellas disposiciones jurídicas que se opongan a la presen
 
 G.O. 26 DE ENERO DE 2009.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO. Publíquese en el (sic) Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
@@ -2287,3 +2297,9 @@ G.O. 26 DE ENERO DE 2012.
 Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 9 DE MAYO DE 2012.
+
+PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO: Publíquese en la Gaceta Oficial del Distrito Federal.
