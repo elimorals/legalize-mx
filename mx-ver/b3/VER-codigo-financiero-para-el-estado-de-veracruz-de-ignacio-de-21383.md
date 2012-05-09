@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2012-02-15"
+last_updated: "2012-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO NÚMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE, EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO ÚNICAMENTE COMO TEMAPACHE SE ENTENDERÁN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE MAYO DE 2012.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -1358,6 +1358,20 @@ g) Colonias agrícolas y ganaderas.
 > <small>(ADICIONADA, G.O. 27 DE DICIEMBRE DE 2010)</small>
 
 III. Los pagos realizados a personas físicas por la prestación de su trabajo personal independiente, por el cual se deba pagar y en su caso retener el Impuesto al Valor Agregado.
+
+> <small>(ADICIONADA, G.O. 9 DE MAYO DE 2012)</small>
+
+IV. Al patrón que contrate a un trabajador de reciente ingreso para ocupar algún puesto de nueva creación, sin que pueda recibir este beneficio entidad o dependencia pública alguna y siendo aplicable únicamente respecto de trabajadores que perciban, diariamente, hasta seis veces el salario mínimo general vigente en la zona del Estado donde se haya dado la contratación.
+
+Para los efectos de la presente fracción, se entenderá por trabajador de reciente ingreso a la persona que preste sus servicios a un patrón y que reúna una o más de las siguientes características:
+
+a. Tener entre catorce y veintinueve años de edad, sin previamente haber causado alta ante el Instituto Mexicano del Seguro Social, con educación obligatoria terminada, salvo los casos de excepción que apruebe la autoridad correspondiente, de acuerdo a lo señalado en el artículo 22 de la Ley Federal del Trabajo, y con la autorización de sus padres o tutores a que se refiere el artículo 23 de la propia Ley;
+
+b. Ser recién egresado de una universidad, tecnológico, colegio de bachilleres u otro centro de preparación académica sin que previamente haya causado alta ante el Instituto Mexicano del Seguro Social;
+
+c. Tener más de cincuenta años de edad, y no estar jubilado o pensionado; o
+
+d. Tener alguna discapacidad.
 
 ###### Artículo 104.
 
@@ -6528,5 +6542,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 G.O. 15 DE FEBRERO DE 2012.
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 9 DE MAYO DE 2012.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
