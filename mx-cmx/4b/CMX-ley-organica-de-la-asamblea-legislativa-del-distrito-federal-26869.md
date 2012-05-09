@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2011-12-26"
+last_updated: "2012-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE MAYO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -436,7 +436,7 @@ El primer acto posterior a la declaratoria de inicio o cierre del periodo ordina
 
 La Asamblea no podrá instalarse ni abrir sus sesiones ni ejercer sus atribuciones sin la debida integración del quórum respectivo. Se considerará que existe quórum legal para que actúe la Asamblea con la concurrencia de más de la mitad del número total de sus miembros.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 29.
 
@@ -588,7 +588,7 @@ Cuando de manera sistemática el presidente no observe las prescripciones de est
 
 ### CAPITULO III. DE LA COMISIÓN DE GOBIERNO
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 41.
 
@@ -614,7 +614,7 @@ Los Diputados independientes, podrán asistir la Comisión de Gobierno, contando
 
 La Comisión de Gobierno elegirá de entre sus miembros un Presidente y un Secretario.
 
-> <small>(REFORMADO [N. DE E. DEROGADO SEGUNDO PARRAFO], G.O. 19 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. DEROGADO SEGUNDO PÁRRAFO], G.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 Corresponderá al Presidente de la Comisión de Gobierno:
 
@@ -686,7 +686,7 @@ El día de la clausura de cada período ordinario de sesiones, el pleno de la As
 
 La Diputación Permanente de la Asamblea es el órgano deliberativo que, sesionará durante los recesos de ésta y cuyas atribuciones se encuentran establecidas en los términos de la presente Ley, y del Reglamento para el Gobierno Interior de la Asamblea.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 47.
 
@@ -702,7 +702,7 @@ La Diputación Permanente será nombrada por la Asamblea en la última sesión d
 
 En la Diputación Permanente sólo podrán tener voz y voto los diputados que hayan sido designados por el Pleno de la Asamblea como titular o como sustituto. No podrá participar ningún otro diputado que los señalados en el Acuerdo de la Comisión de Gobierno que haya sido aprobado por el Pleno, salvo aquellos que intervengan, únicamente con voz pero sin voto, para presentar y argumentar dictámenes de proposiciones en representación de la dictaminadora respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTÍCULO 48.
 
@@ -860,7 +860,7 @@ XVIII.- Las demás que le otorgue la presente Ley y otras disposiciones.
 
 ### CAPITULO V. DE LAS COMISIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 22 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE OCTUBRE DE 2009)</small>
 
 ###### ARTÍCULO 59.
 
@@ -898,7 +898,7 @@ VII.- De Vigilancia y Evaluación de Políticas y Programas Sociales.
 
 Cada comisión y comité tendrá una Secretaría Técnica quienes formarán parte de la estructura de la Asamblea Legislativa, y estará bajo la dirección del Presidente de la misma, a la que corresponderá apoyar los trabajos de la comisión, en los términos que disponga el Reglamento para el Gobierno Interior y el Reglamento Interior de las Comisiones de la Asamblea Legislativa.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 61.
 
@@ -1106,7 +1106,7 @@ La Comisión de Vigilancia de la Contaduría Mayor de Hacienda de la Asamblea Le
 
 ARTÍCULO 65 BIS.- La Comisión de Vigilancia y Evaluación de Políticas y Programas Sociales, es un órgano interno de la Asamblea Legislativa encargado de la evaluación de los planes, programas, metas y acciones en materia de política social de aplicación en el Distrito Federal, conforme a la normatividad aplicable. La Comisión se regirá de conformidad con los lineamientos que al efecto expidan sus integrantes.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 66.
 
@@ -1120,7 +1120,7 @@ II.- Impulsar y realizar los estudios que versen sobre disposiciones normativas,
 
 III.- Desahogar las consultas respecto de la aplicación, interpretación e integración de esta ley, del Reglamento para el Gobierno Interior de la Asamblea y de los usos parlamentarios.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 71], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 71], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 67.
 
@@ -1130,7 +1130,7 @@ Las Comisiones podrán citar, por conducto del Presidente de la Mesa Directiva o
 
 Las Comisiones, previo acuerdo de sus miembros, podrán solicitar de la Administración Pública del Distrito Federal la información que precisen para el desarrollo de sus trabajos.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 73], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 73], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 68.
 
@@ -1148,13 +1148,13 @@ Su funcionamiento se regulará por el Reglamento Interior de las Comisiones.
 
 #### Sección Primera. De las Comisiones de Investigación
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 67], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 67], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 69.
 
 Las Comisiones de Investigación, se constituyen con carácter transitorio, funcionan en los términos de la presente Ley y del Reglamento para el Gobierno Interior y del Reglamento Interior de Comisiones, así como por las disposiciones legales de la materia y, cuando así lo acuerde la Asamblea, conocerán específicamente de los hechos que hayan motivado su integración y dejarán de existir cuando hayan cumplido el objeto para el cual fueron creadas o bien por determinación del Pleno; su constitución deberá proponerse por la Comisión de Gobierno a petición de cualquiera de los Diputados de la Asamblea.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 68], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 68], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 70.
 
@@ -1176,7 +1176,7 @@ Las reuniones de las comisiones investigadoras se atendrán a las disposiciones 
 
 #### Sección Segunda. De las Comisiones Especiales
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 70], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 70], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 73.
 
@@ -1194,7 +1194,7 @@ Las Comisiones Especiales podrán citar a través de los órganos internos compe
 
 Las reuniones de las comisiones especiales se atendrán a las disposiciones reglamentarias relativas.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
 
 #### Sección Tercera. De la Comisión Jurisdiccional
 
@@ -1216,11 +1216,11 @@ La Comisión Jurisdiccional se integrará según lo disponga la Comisión de Gob
 
 La Comisión Jurisdiccional sesionará para conocer los casos de remoción, separación, pérdida del encargo o cualquier otro análogo que prevea la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal, ésta y otras leyes.
 
-(REUBICADO, [N. DE E. ANTES CAPITULO VI], G.O. 30 DE MARZO DE 2005)
+(REUBICADO, [N. DE E. ANTES CAPÍTULO VI], G.O. 30 DE MARZO DE 2005)
 
 ### CAPITULO VII. DE LOS COMITÉS
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 74], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 74], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 79.
 
@@ -1258,35 +1258,35 @@ Los Comités son órganos auxiliares de carácter administrativo, para realizar 
 
 Cada Comité tendrá una Secretaría Técnica, que estará bajo la dirección del Presidente del mismo, a la que corresponderá apoyar los trabajos del Comité, en los términos que disponga el Reglamento para el Gobierno Interior de la Asamblea Legislativa.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 75], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 75], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 80.
 
 Los miembros integrantes de los Comités serán designados por el Pleno a propuesta de la Comisión de Gobierno. Su integración, actividad y funcionamiento se rige por lo establecido por esta ley y el Reglamento para el Gobierno Interior de la Asamblea Legislativa. Los Comités tomarán sus decisiones por mayoría de votos de sus miembros presentes.
 
-(REUBICADO [N. DE E. ANTES CAPITULO VII], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES CAPÍTULO VII], G.O. 30 DE MARZO DE 2005)
 
 ### CAPITULO VIII. DE LAS UNIDADES ADMINISTRATIVAS
 
-(REUBICADO [N. DE E. ANTES ARTICULO 76], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 76], G.O. 30 DE MARZO DE 2005)
 
 ###### ARTÍCULO 81.
 
 La Asamblea dispondrá de las unidades administrativas que sean necesarias para el mejor cumplimiento de sus atribuciones y que determine su presupuesto.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 77], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 77], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 82.
 
 El nombramiento del Oficial Mayor, Tesorero, Contralor General, Coordinador General de Comunicación Social, Director del Instituto de Investigaciones Parlamentarias, Director de la Unidad de Estudios de Finanzas, así como del titular de la Coordinación de Servicios Parlamentarios, serán propuestos por la Comisión de Gobierno y serán ratificados por el voto de la mayoría de los miembros presentes en la Sesión del Pleno respectiva. La Comisión de Gobierno establecerá los criterios que acrediten la formación profesional, experiencia y habilidades necesarias para desempeñar el cargo correspondiente.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 78], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 78], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 83.
 
 La Oficialía Mayor, la Tesorería, la Contraloría General, la Coordinación General de Comunicación Social, el Instituto de Investigaciones Parlamentarias, la unidad de Estudios de Finanzas Públicas, así como el titular de la Coordinación de Servicios Parlamentarios y las demás unidades administrativas que se creen, tendrán las atribuciones que les señale el Reglamento para el Gobierno Interior y otras disposiciones que emita la Asamblea.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 79], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 79], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 84.
 
@@ -1298,7 +1298,17 @@ Asimismo, el Instituto es el órgano compilador de las leyes vigentes en el Dist
 
 El Instituto de Investigaciones Parlamentarias de la Asamblea se regirá por la presente ley y el Reglamento para el Gobierno Interior de la misma.
 
-(REUBICADO [N. DE E. ANTES CAPITULO VIII], G.O. 30 DE MARZO DE 2005)
+> <small>(ADICIONADO, G.O. 9 DE MAYO DE 2012)</small>
+
+ARTÍCULO 84 BIS.- La Asamblea Legislativa contará dentro de su estructura administrativa con un fideicomiso asimilado en términos del segundo párrafo del artículo 12 de la Ley de Presupuesto y Gasto Eficiente del Distrito Federal.
+
+El fideicomiso se denominará “Fondo de Apoyo a la Educación y el Empleo de las y los Jóvenes del Distrito Federal” y su fin primordial será el establecimiento de un mecanismo que permita financiar los programas y convenios que implemente y suscriba la Asamblea Legislativa para apoyar a las y los jóvenes y menores de edad residentes en el Distrito Federal, a efecto de que reciban educación media y superior, ya sea en instituciones públicas o privadas, capacitación para el trabajo, formación deportiva y artística.
+
+El Fondo será administrado y operado por la institución fiduciaria que determine la Comisión de Gobierno de la Asamblea Legislativa.
+
+La Asamblea Legislativa administrará el Fondo en forma autónoma e independiente a través del Comité Técnico del fideicomiso, el cual tendrá a su cargo la vigilancia, administración, manejo y operación del fondo conforme a las facultades que establece el Reglamento para el Gobierno Interior de la Asamblea Legislativa, el contrato de fideicomiso y demás normatividad aplicable.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO VIII], G.O. 30 DE MARZO DE 2005)
 
 ### CAPITULO IX. DE LOS GRUPOS PARLAMENTARIOS
 
@@ -1336,7 +1346,7 @@ Las funciones del Coordinador, en sus ausencias, serán asumidas por el Vicecoor
 
 Los grupos parlamentarios y Coaliciones Parlamentarias tendrán para los mismos efectos del párrafo anterior, personalidad jurídica en términos de lo dispuesto por las disposiciones legales aplicables.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 82], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 82], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 87.
 
@@ -1346,7 +1356,7 @@ Los Grupos Parlamentarios deberán comunicar al Pleno, a través de la Comisión
 
 ARTÍCULO 87 BIS.- Los Grupos Parlamentarios y Coaliciones Parlamentarias podrán realizar entre ellos alianzas parlamentarias de carácter transitorio o permanente con la finalidad de establecer e impulsar agendas legislativas generales o específicas en común. Las alianzas parlamentarias transitorias serán las que se realicen para periodos ordinarios o extraordinarios específicos, mientras que las permanentes serán las que se constituyan para toda la Legislatura.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 9 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 9 DE JULIO DE 2007)</small>
 
 ### CAPITULO X. DEL ARCHIVO HISTORICO DE LA ASAMBLEA LEGISLATIVA
 
@@ -1370,7 +1380,7 @@ II. Comunicaciones, Iniciativas, Dictámenes, Propuestas, Denuncias y Efeméride
 
 Los documentos que posean las diputadas y los diputados, las Comisiones, Comités y Unidades Administrativas, estarán en su posesión para resguardo y consulta del público en general, hasta el final de cada Legislatura, cuando deberán remitirse al Archivo Histórico de la Asamblea Legislativa.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 9 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 9 DE JULIO DE 2007)</small>
 
 ### CAPITULO XI. DEL SERVICIO PARLAMENTARIO DE CARRERA DE LA ASAMBLEA LEGISLATIVA
 
@@ -1396,7 +1406,7 @@ IV. Los programas de actualización y especialización que imparta
 
 ### CAPITULO ÚNICO. DEL PROCEDIMIENTO LEGISLATIVO
 
-(REUBICADO [N. DE E. ANTES ARTICULO 83], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 83], G.O. 30 DE MARZO DE 2005)
 
 ###### ARTÍCULO 88.
 
@@ -1418,9 +1428,9 @@ d).- Regulación interna de los tribunales de justicia del fuero común del Dist
 
 e).- Las demás que señalen las leyes.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 84], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 84], G.O. 30 DE MARZO DE 2005)</small>
 
-###### ARTICULO 89.
+###### ARTÍCULO 89.
 
 Las iniciativas presentadas por los Diputados y por el Jefe de Gobierno, previo turno dado por la Presidencia de la Mesa Directiva o de la Comisión de Gobierno, pasarán de inmediato a la Comisión o a las Comisiones respectivas para que se dictamine.
 
@@ -1452,13 +1462,13 @@ III.- Por acuerdo de la Comisión de Gobierno con aprobación del Pleno de la As
 
 Las proposiciones con punto de acuerdo e iniciativas populares no pasarán a la siguiente legislatura.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 85], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 85], G.O. 30 DE MARZO DE 2005)
 
 ###### ARTÍCULO 91.
 
 Toda resolución de la Asamblea tendrá el carácter de ley o decreto. Las leyes y decretos se comunicarán al Jefe de Gobierno del Distrito Federal por el Presidente y por un Secretario de la Mesa Directiva de la Asamblea, en la siguiente forma: "La Asamblea Legislativa del Distrito Federal Decreta": (texto de la ley o decreto).
 
-(REUBICADO [N. DE E. ANTES ARTICULO 86], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 86], G.O. 30 DE MARZO DE 2005)
 
 ###### ARTÍCULO 92.
 
@@ -1466,7 +1476,7 @@ Las leyes o decretos que expida la Asamblea Legislativa se remitirán para su pr
 
 Si se aceptasen las observaciones o si fuese confirmado por las dos terceras partes del número total de votos de los Diputados presentes en la sesión, la ley o decreto se enviará en los términos aprobados, para su promulgación.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 87], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 87], G.O. 30 DE MARZO DE 2005)
 
 ###### ARTÍCULO 93.
 
@@ -1476,13 +1486,13 @@ Las leyes y decretos que expida la Asamblea para su debida aplicación y observa
 
 ### CAPITULO I. DEL NOMBRAMIENTO DEL JEFE DE GOBIERNO SUSTITUTO
 
-(REUBICADO [N. DE E. ANTES ARTICULO 88], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 88], G.O. 30 DE MARZO DE 2005)
 
 ###### ARTÍCULO 94.
 
 Compete a la Asamblea Legislativa del Distrito Federal designar, en caso de falta absoluta del Jefe de Gobierno del Distrito Federal por renuncia o por cualquier causa, un sustituto que termine el encargo.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 89], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 89], G.O. 30 DE MARZO DE 2005)
 
 ###### ARTÍCULO 95.
 
@@ -1500,25 +1510,25 @@ En caso de darse el consenso, se someterá al Pleno el dictamen con la propuesta
 
 En el supuesto de que cualquier grupo parlamentario disienta del sentido de otro, en el dictamen respectivo todas las propuestas presentadas se someterán a la decisión del Pleno.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 90], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 90], G.O. 30 DE MARZO DE 2005)
 
 ###### ARTÍCULO 96.
 
 En la sesión a que se refiere el artículo anterior, podrán inscribirse para argumentar hasta una tercera parte de los Diputados, debiendo cuidar que sean en igual número para los dos sentidos de argumentación, concediéndose el uso de la palabra de manera alternada a los oradores en contra y a los oradores en pro, de modo que pueda hacer uso de la palabra por lo menos un Diputado miembro de cada uno de los grupos parlamentarios.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 91], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 91], G.O. 30 DE MARZO DE 2005)
 
 ###### ARTÍCULO 97.
 
 Terminadas las intervenciones de los Diputados inscritos, el Presidente de la Mesa Directiva someterá a votación el nombramiento.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 92], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 92], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 98.
 
 El nombramiento del Jefe de Gobierno sustituto requerirá del voto afirmativo de la mayoría absoluta de los integrantes de la Asamblea Legislativa del Distrito Federal.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 93], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 93], G.O. 30 DE MARZO DE 2005)
 
 ###### ARTÍCULO 99.
 
@@ -1526,7 +1536,7 @@ El Jefe de Gobierno sustituto rendirá protesta, en los términos dispuestos por
 
 ### CAPITULO II. DE LAS APROBACIONES Y RATIFICACIONES DE LOS MAGISTRADOS
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 94], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 94], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 100.
 
@@ -1536,13 +1546,13 @@ Compete a la Asamblea Legislativa del Distrito Federal, resolver sobre las propu
 
 Asimismo, compete a la Asamblea Legislativa, resolver sobre las propuestas y las designaciones que haga el Tribunal Superior de Justicia del Distrito Federal de Magistrados del Tribunal Electoral del Distrito Federal, así como, ratificar dichas propuestas y designaciones, en su caso, en términos de lo dispuesto por este capítulo.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 95], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 95], G.O. 30 DE MARZO DE 2005)
 
 ###### ARTÍCULO 101.
 
 Para los efectos del artículo anterior, los procedimientos de aprobación y ratificación se regirán conforme a lo siguiente:
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JULIO DE 2007)</small>
 
 a. La Mesa Directiva hará llegar a la Comisión de Administración y Procuración de Justicia, inmediatamente que las reciba, las propuestas y nombramientos, así como la documentación correspondiente tratándose de procedimiento de ratificación, según sea cada caso, que haga llegar el Jefe de Gobierno del Distrito Federal de Magistrados del Tribunal Superior de Justicia del Distrito Federal y del Tribunal de lo Contencioso Administrativo del Distrito Federal, en el caso de los Magistrados del Tribunal Superior de Justicia del Distrito Federal, las propuestas y nombramientos, se harán llegar por el Tribunal Superior de Justicia del Distrito Federal y las mandará publicar de inmediato en por lo menos dos diarios de circulación nacional, a fin de que los interesados, dentro de los cinco días siguientes a la publicación, puedan aportar a la Comisión de Administración y Procuración de Justicia elementos de juicio.
 
@@ -1570,7 +1580,7 @@ f.- Terminadas las intervenciones de los Diputados inscritos, el Presidente de l
 
 La aprobación o ratificación de cada propuesta requerirá del voto de la mayoría de los Diputados presentes en la sesión. Tratándose de los Magistrados del Tribunal Electoral del Distrito Federal se requerirá del voto de las dos terceras partes de los miembros presentes de la Asamblea Legislativa.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 97], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 97], G.O. 30 DE MARZO DE 2005)
 
 ###### ARTÍCULO 103.
 
@@ -1582,7 +1592,7 @@ En caso de que no sea aprobada la segunda propuesta o designación en forma suce
 
 En el caso del Tribunal Electoral del Distrito Federal, si alguno o algunos de los candidatos propuestos no alcanzara la votación requerida, el Tribunal Superior de Justicia del Distrito Federal deberá presentar otra lista con nuevas propuestas para cubrir las vacantes existentes, en términos de lo dispuesto por el artículo 224 del Código Electoral del Distrito Federal.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 98], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 98], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 104.
 
@@ -1596,13 +1606,13 @@ Durante los recesos, la Diputación Permanente, previo dictamen de las Comisione
 
 ### CAPITULO III. DEL NOMBRAMIENTO DEL PRESIDENTE Y DE LOS CONSEJEROS DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 100], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 100], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 106.
 
 Compete a la Asamblea Legislativa del Distrito Federal nombrar al Presidente de la Comisión de Derechos Humanos del Distrito Federal en los términos que disponga la Ley de la Comisión de Derechos Humanos del Distrito Federal.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 101], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 101], G.O. 30 DE MARZO DE 2005)
 
 ###### ARTÍCULO 107.
 
@@ -1618,25 +1628,25 @@ d).- El Secretario de la Mesa Directiva leerá al Pleno el dictamen emitido por 
 
 e).- Terminadas las intervenciones de los Diputados inscritos, el Presidente de la Mesa Directiva someterá a votación el dictamen de la Comisión de Derechos Humanos de la Asamblea Legislativa del Distrito Federal.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 102], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 102], G.O. 30 DE MARZO DE 2005)
 
 ###### ARTÍCULO 108.
 
 El nombramiento del Presidente de la Comisión de Derechos Humanos del Distrito Federal, requerirá del voto afirmativo de las dos terceras partes de los miembros que integran la Asamblea Legislativa del Distrito Federal.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 103], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 103], G.O. 30 DE MARZO DE 2005)
 
 ###### ARTÍCULO 109.
 
 En caso de que el dictamen no fuese aprobado, se regresará a la Comisión de Derechos Humanos de la Asamblea Legislativa del Distrito Federal, para que en el término de tres días elabore un nuevo dictamen, considerando a otro de los propuestos a partir de la convocatoria y cuya aprobación se hará conforme a lo previsto por los artículos anteriores.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 104], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 104], G.O. 30 DE MARZO DE 2005)
 
 ###### ARTÍCULO 110.
 
 El Presidente de la Comisión de Derechos Humanos del Distrito Federal rendirá protesta, en los siguientes términos: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal y las leyes que de ellos emanen y desempeñar leal y patrióticamente el cargo de Presidente de la Comisión de Derechos Humanos del Distrito Federal, mirando en todo por el bien y prosperidad de la Unión y del Distrito Federal, y si así no lo hiciere, que el pueblo me lo demande".
 
-(REUBICADO [N. DE E. ANTES ARTICULO 105], G.O. 30 DE MARZO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 105], G.O. 30 DE MARZO DE 2005)
 
 ###### ARTÍCULO 111.
 
@@ -1672,7 +1682,7 @@ SEPTIMO.- Hasta en tanto la Asamblea Legislativa expida un nuevo Reglamento para
 
 Recinto de la Asamblea Legislativa del Distrito Federal, a los cinco días del mes de diciembre del año dos mil dos.- POR LA MESA DIRECTIVA.- DIP. MARCO ANTONIO MICHEL DÍAZ, PRESIDENTE.- SECRETARIA, DIP. ALICIA VIRGINIA TELLEZ SÁNCHEZ.- SECRETARIO, MARCOS MORALES TORRES. - (Firmas).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
 
 G.O. 23 DE SEPTIEMBRE DE 2003.
 
@@ -1804,7 +1814,7 @@ SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efe
 
 G.O. 14 DE DICIEMBRE DE 2010.
 
-DECRETO POR EL QUE SE REFORMA EL ARTICULO 62 DE LA LEY ORGANICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 62 DE LA LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
 PRIMERO.- Las presentes reformas entrarán en vigor al momento de su aprobación por el pleno de la Honorable Asamblea Legislativa del Distrito Federal.
 
@@ -1814,7 +1824,7 @@ TERCERO.- A partir de la entrada en vigor del presente decreto, todas aquellas d
 
 G.O. 14 DE DICIEMBRE DE 2010.
 
-DECRETO POR EL QUE SE ADICIONA EL ARTICULO 64 BIS A LA LEY ORGANICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
+DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 64 BIS A LA LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
 PRIMERO.- La presente reforma de ley entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
 
@@ -1841,3 +1851,15 @@ El presente Decreto entrará en vigor al día siguiente de su aprobación por el
 ###### ARTÍCULO SEGUNDO.
 
 Respecto de las reformas a la Ley Orgánica, remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 9 DE MAYO DE 2012.
+
+PRIMERO.- Remítase al Jefe de Gobierno única y exclusivamente para su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+TERCERO.- El Fondo al que se refiere la presente Ley es el que actualmente opera la Asamblea a través del contrato de Fideicomiso de Apoyo a la Educación y al Empleo de las y los Jóvenes del D.F., que suscribió el treinta y uno de marzo de dos mil once el Presidente en turno de la Mesa Directiva del Pleno de la Asamblea Legislativa del Distrito Federal, Diputado Sergio Israel Eguren Cornejo, con el Banco Mercantil del Norte S.A. Institución de Banca Múltiple, Grupo Financiero Banorte.
+
+La Comisión de Gobierno y el Comité Técnico del fideicomiso realizarán las modificaciones al contrato referido en el párrafo anterior para dar cumplimiento al presente decreto.
+
+CUARTO.- La Asamblea Legislativa del Distrito Federal garantizará que los apoyos hasta el momento otorgados por el Fideicomiso mencionado en el artículo transitorio anterior continúen hasta la conclusión del grado de estudios para el que fueron comprometidos.
