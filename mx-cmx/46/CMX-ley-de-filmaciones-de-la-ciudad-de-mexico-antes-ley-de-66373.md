@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-filmaciones-de-la-ciudad-de-mexico-antes-ley-de-66373"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-17"
-last_updated: "2009-02-17"
+last_updated: "2012-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66373&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-02-12"
 
 LEY DE FILMACIONES DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE MAYO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 17 de febrero de 2009.
 
@@ -452,7 +452,25 @@ I. Periodísticas, de reportaje o documental nacional e internacional.
 
 II. Las producciones estudiantiles con fines académicos, siempre que cuenten con una carta aval emitida por la institución educativa correspondiente.
 
-III. Registro en la variedad de formatos audiovisuales, para uso personal o turístico.
+> <small>(REFORMADA, G.O. 9 DE MAYO DE 2012)</small>
+
+III. Las realizadas por televisoras educativas y culturales de México.
+
+> <small>(ADICIONADA, G.O. 9 DE MAYO DE 2012)</small>
+
+IV. Registro en la variedad de formatos audiovisuales, para uso personal o turístico.
+
+> <small>(ADICIONADO, G.O. 9 DE MAYO DE 2012)</small>
+
+Las producciones antes señaladas podrán solicitar a la Comisión la expedición de una constancia, cuando lo consideren necesario.
+
+> <small>(ADICIONADO, G.O. 9 DE MAYO DE 2012)</small>
+
+Sin perjuicio de lo anterior, las producciones mencionadas deberán solicitar permiso por escrito en documento libre a los responsables del recinto o sitio donde se llevará a cabo la filmación.
+
+> <small>(ADICIONADO, G.O. 9 DE MAYO DE 2012)</small>
+
+En caso de filmaciones en espacios públicos patrimoniales y/o donde existan monumentos históricos, se deberán acatar los lineamientos de protección vigentes sean federales o locales.
 
 ###### Artículo 22.
 
@@ -498,6 +516,10 @@ Cuando por razones urgentes y justificadas el Aviso se presente de forma extempo
 
 Una vez presentado el Aviso, la Comisión deberá sellar el Formato Único de Aviso ingresado y devolverlo en forma inmediata a la persona que efectúe el trámite. Su vigencia dependerá del tipo de filmación señalada en el formato respectivo.
 
+> <small>(ADICIONADO, G.O. 9 DE MAYO DE 2012)</small>
+
+Se tendrá por no presentado el Aviso de Filmación y por lo tanto no surtirá efectos legales, cuando ocurra alguna de las causas previstas en el artículo 33, excepto la señalada en la fracción I.
+
 ### CAPÍTULO III. DE LOS PERMISOS DE FILMACIÓN EN EL DISTRITO FEDERAL
 
 ###### Artículo 29.
@@ -518,7 +540,9 @@ Las actividades relacionadas con el sector audiovisual que requieren la tramitac
 
 I. Realizar una filmación en la vía pública;
 
-II. Estacionar los vehículos de la producción, cuando se impida parcial o totalmente el tránsito vehicular;
+> <small>(REFORMADA, G.O. 9 DE MAYO DE 2012)</small>
+
+II. Estacionar los vehículos de la producción cuando se impida parcial o totalmente el tránsito vehicular, debiendo en su caso, asegurar la disponibilidad de los espacios de estacionamiento para dichos vehículos;
 
 III. Efectuar la carga y descarga permanente del equipo, accesorios y enseres del sector audiovisual de los vehículos referidos en la fracción anterior, en las vías primarias y/o secundarias de tránsito vehicular;
 
@@ -526,7 +550,9 @@ IV. Instalar en la vía pública del Distrito Federal, las herramientas, equipos
 
 V. Realizar en la vía pública, actividades relacionadas con el sector audiovisual, como escenas de acción, efectos especiales, vehículos especiales en movimiento, instrumentando las medidas necesarias de seguridad para efectuar dichas actividades;
 
-La violación de las disposiciones de tránsito y de cultura cívica atribuibles a los productores o al personal a su cargo, serán sancionadas conforme a los ordenamientos legales aplicables.
+> <small>(REFORMADO, G.O. 9 DE MAYO DE 2012)</small>
+
+La violación de las disposiciones de tránsito, del patrimonio histórico, artístico o natural y de cultura cívica atribuibles a los productores o al personal a su cargo, serán sancionadas conforme a los ordenamientos legales aplicables.
 
 ###### Artículo 32.
 
@@ -594,6 +620,12 @@ III. Cuando durante la Prórroga del Aviso o Permiso, se varíen las condiciones
 
 Lo anterior, sin perjuicio de las sanciones que procedan de conformidad otras (sic) disposiciones aplicables.
 
+> <small>(ADICIONADO, G.O. 9 DE MAYO DE 2012)</small>
+
+###### Artículo 40 Bis.
+
+En los casos previstos en el artículo anterior, la Comisión deberá ejecutar los procedimientos que determinen las autoridades competentes y podrá suspender la filmación con el apoyo de la Secretaría de Seguridad Pública.
+
 ###### Artículo 41.
 
 La revocación será dictada únicamente por la Comisión en términos de lo previsto en esta Ley y su Reglamento.
@@ -625,3 +657,13 @@ Se otorga al Jefe de Gobierno del Distrito Federal un plazo de 60 días naturale
 Recinto de la Asamblea Legislativa del Distrito Federal, a los once días del mes de diciembre del año dos mil ocho.- POR LA MESA DIRECTIVA.- DIP. HUMBERTO MORGAN COLÓN.- PRESIDENTE.- DIP. DANIEL ORDÓÑEZ HERNÁNDEZ, SECRETARIO.- DIP. CARLA ALEJANDRA SÁNCHEZARMAS GARCÍA, SECRETARIA.- (Firmas)
 
 En cumplimiento de lo dispuesto por los artículos 122, Apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49, 52 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, firmado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los doce días del mes de febrero del año dos mil nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE FINANZAS, MARIO M. DELGADO CARRILLO.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.- LA SECRETARIA DE CULTURA, ELENA CEPEDA DE LEÓN.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 9 DE MAYO DE 2012.
+
+PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para su debida publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial del la Federación.
+
+SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor el día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- En el término de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones reglamentarias que correspondan.
