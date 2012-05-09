@@ -4,7 +4,7 @@ identifier: "MOR-estatutos-del-partido-socialdemocrata-del-estado-de-morelos-831
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-09-28"
-last_updated: "2012-02-01"
+last_updated: "2012-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83132&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,7 @@ state: "MOR"
 
 ESTATUTOS DEL PARTIDO SOCIAL DEMÓCRATA DE MORELOS
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN LOS ARTÍCULOS SEGUNDO Y TERCERO DEL ACUERDO RELATIVO A LA SOLICITUD DE MODIFICACIÓN A LOS ESTATUTOS DEL PARTIDO SOCIALDEMÓCRATA DE MORELOS, PUBLICADO EN EL P.O. DE 1 DE FEBRERO DE 2012, SE ACTUALIZARON ÚNICAMENTE LOS TEXTOS DE LOS ARTÍCULOS QUE EXPRESAMENTE SE INDICAN COMO APROBADOS.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2012.
 
 Estatutos publicados en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 28 de septiembre de 2011.
 
@@ -668,29 +666,27 @@ Las sesiones requerirán en primera convocatoria de un quórum del 50% más uno 
 
 A falta de convocatoria de la Presidencia, el 33% de los integrantes del Comité podrán convocar a sesión extraordinaria, de conformidad al reglamento correspondiente.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+
 ###### Artículo 51.
 
 El Comité Ejecutivo Estatal se integra por:
 
 a) Presidencia
 
-b) Vicepresidencia
+b) Secretaría General
 
-c) Secretaría General
+c) Secretaría de Vinculación Ciudadana y Democracia Participativa
 
-d) Secretaría de Asuntos Electorales
+d) Secretaría de Organización y Asuntos Políticos
 
-e) Secretaría de Organización
+e) Secretaría Jurídica
 
-f) Secretaría de Movimientos Sociales y Participación Ciudadana
+f) Coordinación de Administración y Finanzas
 
-g) Coordinación Jurídica
+g) Coordinación de Comunicación Social
 
-h) Coordinación de Administración y Finanzas
-
-i) Coordinación de Comunicación
-
-j) Coordinación de Vinculación
+h) Coordinación de Relaciones Institucionales
 
 La Presidencia podrá proponer al Consejo Político Estatal la incorporación de hasta tres carteras temáticas adicionales a la estructura del Comité Ejecutivo Estatal.
 
@@ -760,33 +756,27 @@ j) Firmar los acuerdos del Comité Ejecutivo Estatal junto con el Secretario Gen
 
 k) Conocer los informes que rindan las Comisiones Autónomas de Conciliación y Justicia Partidaria y de Vigilancia y Rendición de Cuentas, al Consejo Político Estatal;
 
-l) Firmar con la Vicepresidencia los nombramientos de las secretarias del Comité Ejecutivo Estatal, así como las credenciales que extienda el Partido;
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
 
-m) Designar y remover a las personas de los cargos comprendidos entre los incisos g) al j) del artículo 51 de estos Estatutos.
+l) Firmar con la Secretaria General los nombramientos de las Secretarias del Comité Ejecutivo Estatal, así como las credenciales que extienda el Partido;
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+
+m) Designar y remover a las personas de los cargos comprendidos entre los incisos f) al h) del artículo 51 de estos Estatutos, así como al titular del Consejo Consultivo.
 
 n) Designar a los representantes del partido ante los diferentes órganos electorales.
 
-o) Las demás que señalen los estatutos y aquellas otras que le confiera el Consejo Político Estatal o la Asamblea Estatal.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+
+o) Analizar las relaciones, acuerdos o alianzas electorales que otras instancias del Partido propongan al Comité Ejecutivo Estatal;
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2012)</small>
+
+p) Las demás que señalen los estatutos y aquellas otras que le confiera el Consejo Político Estatal o la Asamblea Estatal.
 
 ###### Artículo 54.
 
-Son atribuciones y facultades de la Vicepresidencia del Comité Ejecutivo Estatal:
-
-a) Dar seguimiento a los acuerdos del Comité Ejecutivo Estatal;
-
-b) Elaborar, en coordinación con la Presidencia, el programa anual del Partido que ésta deberá someter a la consideración del Consejo Político Estatal, integrando para ello los programas específicos de las secretarias y demás instancias del Comité Ejecutivo Estatal;
-
-c) Coordinar con los Comités Municipales la instrumentación de las políticas y estrategias aprobadas por el Consejo Político o el Comité Ejecutivo Estatal;
-
-d) Conocer y solicitar informes a los Comités Municipales, sobre asuntos graves o de trascendencia estatal o nacional;
-
-e) Formular modelos que faciliten el desarrollo de los programas a cargo de las diversas instancias del Comité Ejecutivo Estatal;
-
-f) Firmar con la Presidencia los nombramientos de las secretarías del Comité Ejecutivo Estatal, así como las credenciales que extienda el Partido;
-
-g) Suplir las ausencias temporales de la Presidencia del Comité Ejecutivo Estatal;
-
-h) Las demás que establezcan los estatutos y aquellas otras que le confiera el Consejo Político Estatal o la Asamblea Estatal.
+(DEROGADO, P.O. 9 DE MAYO DE 2012)
 
 ###### Artículo 55.
 
@@ -794,51 +784,71 @@ Son atribuciones y facultades de la Secretaría de (sic) General:
 
 a) Dar seguimiento a los acuerdos del Comité Ejecutivo Estatal;
 
-b) Coordinar el trabajo de las secretarias y demás instancias del Comité Ejecutivo Estatal, acordando lo conducente con sus titulares;
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
 
-c) Presentar los proyectos de presupuestos anuales de ingresos y egresos al Consejo Político Estatal;
+b) Elaborar, en coordinación con la Presidencia, el programa anual del Partido que ésta deberá someter a la consideración del Consejo Político Estatal, integrando para ello los programas específicos de las secretarías y demás instancias del Comité Ejecutivo Estatal;
 
-d) Conocer y solicitar informes a los Comités Municipales, sobre asuntos graves o de trascendencia estatal o nacional;
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
 
-e) Levantar el acta correspondiente de las sesiones que realice el Comité Ejecutivo Estatal e integrar y administrar los archivos correspondientes;
+c) Coordinar el trabajo de las secretarías y demás instancias del Comité Ejecutivo Estatal, acordando lo conducente con sus titulares;
 
-f) Firmar los acuerdos del Comité Ejecutivo Estatal junto con el Presidente;
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
 
-g) Las demás que establezcan los estatutos y aquellas otras que le confiera el Consejo Político Estatal o la Asamblea Estatal.
+d) Presentar los proyectos de presupuestos anuales de ingresos y egresos al Consejo Político Estatal;
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+
+e) Coordinar con los Comités Municipales la instrumentación de las políticas y estrategias aprobadas por el Consejo Político o el Comité Ejecutivo Estatal;
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+
+f) Conocer y solicitar informes a los Comités Municipales, sobre asuntos graves o de trascendencia estatal o nacional;
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+
+g) Levantar el acta correspondiente de las sesiones que realice el Comité Ejecutivo Estatal e integrar y administrar los archivos correspondientes;
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2012)</small>
+
+h) Firmar los acuerdos del Comité Ejecutivo Estatal junto con el Presidente;
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2012)</small>
+
+i) Firmar con la Presidencia los nombramientos de las secretarías del Comité Ejecutivo Estatal, así como las credenciales que extienda el Partido;
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2012)</small>
+
+j) Suplir las ausencias temporales de la Presidencia del Comité Ejecutivo Estatal;
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2012)</small>
+
+k) Las demás que establezcan los estatutos y aquellas otras que le confiera el Consejo Político Estatal o la Asamblea Estatal.
 
 ###### Artículo 56.
 
-Son atribuciones y facultades de la Secretaría de Asuntos Electorales:
+(DEROGADO, P.O. 9 DE MAYO DE 2012)
 
-a) Analizar las relaciones, acuerdos o alianzas electorales que otras instancias del Partido propongan al Comité Ejecutivo Estatal;
-
-b) Integrar los expedientes de las candidaturas a puestos de elección popular;
-
-c) Presidir la Comisión de Asuntos Electorales;
-
-d) Proponer y diseñar al Comité Ejecutivo Estatal las estrategias de campañas electorales del partido, junto con la Coordinación de la Comunicación;
-
-e) Las demás que señalen los estatutos y los reglamentos correspondientes.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
 
 ###### Artículo 57.
 
-Son atribuciones y facultades de la Secretaría de Movimientos Sociales y Participación Ciudadana:
+Son atribuciones y facultades de la Secretaría de Vinculación Ciudadana y Democracia Participativa:
 
 a) Coordinar los proyectos y estrategias de vinculación con la sociedad y los movimientos sociales que deberá implementar el Partido a nivel estatal;
 
-b) Participar en la organización de actividades de capacitación política del Partido dirigidos a la ciudadanía;
+b) Participar en la organización de actividades de educación y capacitación política del Partido dirigidos a la ciudadanía;
 
-c) Promover la formulación y desarrollo de políticas y estrategias para erradicar la exclusión social y la promoción de los derechos humanos.
+c) Mantener actualizadas y en funcionamiento las redes ciudadanas del partido;
 
-d) Mantener actualizadas y en funcionamiento las redes ciudadanas del partido;
+d) Presidir la Comisión de Vinculación Ciudadana;
 
-e) Presidir la Comisión de Movimientos Sociales;
-
-f) Las demás que señalen los estatutos y los reglamentos correspondientes.
+e) Las demás que señalen los estatutos y los reglamentos correspondientes.
 
 ###### Artículo 58.
 
-Son atribuciones y facultades de la Secretaría de Organización:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2012)</small>
+
+Son atribuciones y facultades de la Secretaría de Organización y Asuntos Políticos:
 
 a) Diseñar y proponer al Comité Ejecutivo Estatal, modelos de operación que permitan el mejor desarrollo de las actividades del partido;
 
@@ -850,11 +860,27 @@ d) Coadyuvar con la instancia responsable para la elaboración de diagnósticos 
 
 e) Presidir la Comisión de Organización;
 
-f) Las demás que señalen los estatutos y los reglamentos correspondientes.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+
+f) Integrar los expedientes de las candidaturas a puestos de elección popular;
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2012)</small>
+
+g) Presidir la Comisión de Asuntos Políticos;
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2012)</small>
+
+h) Proponer y diseñar al Comité Ejecutivo Estatal las estrategias de campañas electorales del partido, junto con la Coordinación de Comunicación Social;
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2012)</small>
+
+i) Las demás que señalen los estatutos y los reglamentos correspondientes.
 
 ###### Artículo 59.
 
-Son atribuciones y funciones de la Coordinación de Asuntos Jurídicos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2012)</small>
+
+Son atribuciones y funciones de la Secretaría Jurídica
 
 a) Representar al Partido en todo tipo de juicios, controversias y diligencias, previa delegación de la Presidencia del Comité Ejecutivo Estatal;
 
@@ -888,7 +914,9 @@ e) Las demás que señalen los estatutos y los reglamentos correspondientes.
 
 ###### Artículo 61.
 
-Son atribuciones y facultades de la Coordinación de Comunicación:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2012)</small>
+
+Son atribuciones y facultades de la Coordinación de Comunicación Social
 
 a) Ejecutar las tareas cotidianas de comunicación del Partido;
 
@@ -904,7 +932,9 @@ f) Las demás que señalen los estatutos y los reglamentos correspondientes.
 
 ###### Artículo 62.
 
-Son atribuciones y facultades de la Coordinación de Vinculación:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2012)</small>
+
+Son atribuciones y facultades de la Coordinación de Relaciones Institucionales
 
 a) Establecer vínculos de comunicación interna entre los diferentes órganos del partido;
 
@@ -1054,23 +1084,23 @@ Las sesiones requerirán en primera convocatoria de un quórum del 50% más uno 
 
 A falta de convocatoria de la Presidencia, el 33% de los integrantes del Comité podrán convocar a sesión extraordinaria, de conformidad al reglamento correspondiente.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+
 ### Capítulo XVI. De los Órganos Autónomos
 
 ###### Artículo 78.
 
-El Comité Ejecutivo Estatal se integra por:
+El Comité Ejecutivo Municipal se integra por:
 
 a) Presidencia
 
 b) Secretario General
 
-c) Secretaría de Asuntos Electorales
+c) Secretaría de Organización y Asuntos Políticos
 
-d) Secretaría de Organización
+d) Secretaría de Participación Ciudadana
 
-e) Secretaría de Movimientos Sociales y Participación Ciudadana
-
-h) (sic) Coordinación de Finanzas
+e) Coordinación de Finanzas
 
 ### Capítulo XVII. La Comisión Autónoma de Conciliación y Justicia Partidaria
 
@@ -1164,21 +1194,15 @@ f) Las demás que señalen los estatutos y aquellas otras que le confiera el Con
 
 ###### Artículo 82.
 
-Son atribuciones y facultades de la Secretaría de Asuntos Electorales:
-
-a) Analizar las relaciones, acuerdos o alianzas electorales que otras instancias del Partido propongan al Comité Ejecutivo Municipal;
-
-b) Integrar los expedientes de las candidaturas a puestos de elección popular;
-
-c) Proponer y diseñar al Comité Ejecutivo Municipal las estrategias de campañas electorales del partido;
-
-d) Las demás que señalen los estatutos y los reglamentos correspondientes.
+(DEROGADO, P.O. 9 DE MAYO DE 2012)
 
 ### Capítulo XIX. La Comisión Autónoma para la Elección de Órganos de Dirección
 
 ###### Artículo 83.
 
-Son atribuciones y facultades de la Secretaría de Movimientos Sociales y Participación Ciudadana:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2012)</small>
+
+Son atribuciones y facultades de la Secretaría de Participación Ciudadana:
 
 a) Coordinar los proyectos y estrategias de vinculación con la sociedad y los movimientos sociales que deberá implementar el Partido a nivel estatal;
 
@@ -1188,11 +1212,15 @@ c) Promover la formulación y desarrollo de políticas y estrategias para erradi
 
 d) Mantener actualizadas y en funcionamiento las redes ciudadanas del partido en el municipio;
 
-e) Las demás que señalen los estatutos y los reglamentos correspondientes.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+
+e) Proponer y diseñar al Comité Ejecutivo Municipal las estrategias de campañas electorales del partido; (sic)
 
 ###### Artículo 84.
 
-Son atribuciones y facultades de la Secretaría de Organización:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2012)</small>
+
+Son atribuciones y facultades de la Secretaría de Organización y Asuntos Políticos:
 
 a) Diseñar y proponer al Comité Ejecutivo Municipal, modelos de operación que permitan el mejor desarrollo de las actividades del partido;
 
@@ -1202,15 +1230,29 @@ c) Coordinar el sistema de evaluación y seguimiento del partido;
 
 d) Coadyuvar con la instancia responsable para la elaboración de diagnósticos y propuestas relativas a la formación y capacitación política de los integrantes del partido;
 
-e) Las demás que señalen los estatutos y los reglamentos correspondientes.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+
+e) Analizar las relaciones, acuerdos o alianzas electorales que otras instancias del Partido propongan al Comité Ejecutivo Municipal;
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2012)</small>
+
+f) Integrar los expedientes de las candidaturas a puestos de elección popular;
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2012)</small>
+
+g) Las demás que señalen los estatutos y los reglamentos correspondientes.
 
 ###### Artículo 85.
 
-Son atribuciones y facultades de la Coordinación de Administración y Finanzas:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2012)</small>
+
+Son atribuciones y facultades de la Coordinación de Finanzas:
 
 a) Vigilar el adecuado ejercicio de los recursos humanos materiales y financieros del Partido;
 
-b) Elaborar el informe anual de actividades, así como los estados financieros correspondientes;
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+
+b) Coadyuvar con la Coordinación de Administración y Finanzas del Comité Ejecutivo Estatal en la elaboración de los informes financieros de los precandidatos y candidatos de su ámbito territorial;
 
 f) (sic) Las demás que señalen los estatutos y los reglamentos correspondientes.
 
@@ -1527,3 +1569,9 @@ P.O. 1 DE FEBRERO DE 2012.
 DEBIDO A SU IMPORTANCIA, A CONTINUACIÓN SE TRANSCRIBE EL ARTÍCULO SEGUNDO DEL ACUERDO DE REFORMA QUE SE RELACIONA CON EL ORDENAMIENTO.
 
 ., modificaciones que entrarán en vigor una vez que el presente acuerdo sea publicado en el Periódico Oficial "Tierra y Libertad" Órgano del Gobierno del Estado Libre y Soberano de Morelos;.
+
+P.O. 9 DE MAYO DE 2012.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁ APLICABLE EL ARTÍCULO SEGUNDO DEL ACUERDO QUE A CONTINUACIÓN SE CITA:
+
+.; las modificaciones entrarán en vigor una vez que el presente acuerdo sea publicado en el Periódico Oficial "Tierra y Libertad" Órgano del Gobierno del Estado Libre y Soberano de Morelos, de acuerdo a lo dispuesto en el considerando segundo del presente acuerdo.
