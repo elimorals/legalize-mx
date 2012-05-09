@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-del-deporte-11534"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-21"
-last_updated: "2001-01-05"
+last_updated: "2012-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # LEY ESTATAL DEL DEPORTE
 
-LEY ESTATAL DEL DEPORTE
+LEY ESTATAL DEL DEPORTE EN EL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2012.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el viernes 21 de febrero de 1997.
 
@@ -109,7 +109,9 @@ IV.- Deporte de alto rendimiento y talentos deportivos;
 
 V.- Deportes autóctonos y tradicionales;
 
-VI.- Deportes para personas senectas y discapacitados;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+
+VI.- Deportes para adultos mayores y personas con discapacidad;
 
 VII.- Formación, capacitación y actualización de entrenadores deportivos;
 
@@ -123,11 +125,11 @@ X.- Deporte Popular.
 
 Las actividades deportivas del orden profesional, no quedan comprendidas dentro del Sistema Estatal de Deporte, ni las actividades de promoción, organización, desarrollo o participación en materia deportiva que se realice con el ánimo de lucro.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 8.
 
-El Sistema Estatal del Deporte, estará a cargo del Ejecutivo del Estado, quien ejercerá sus atribuciones a través del Organismo Público Descentralizado denominado "Instituto Poblano del Deporte", exceptuando aquéllas que sean conferidas expresamente por las leyes de la materia a otras dependencias de la Administración Pública Federal, Estatal o Municipal.
+El Sistema Estatal del Deporte estará a cargo del Ejecutivo del Estado, quien ejercerá sus atribuciones a través de la Secretaría de Educación Pública del Estado, exceptuando aquéllas que sean conferidas expresamente por las leyes de la materia a otras Dependencias de la Administración Pública Federal, Estatal o Municipal.
 
 ###### ARTICULO 9.
 
@@ -169,27 +171,31 @@ Es de interés social la construcción, conservación y mantenimiento de las ins
 
 ### CAPITULO II. DEL CONSEJO ESTATAL DEL DEPORTE
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 12.
 
-El Consejo Estatal del Deporte, es un órgano de carácter consultivo en materia de cultura física y deporte; su función primordial consistirá en asesorar a las entidades y organismos de los sectores público, social y privado que fomenten u organicen actividades deportivas de cualquier índole, además de proponer al Instituto Poblano del Deporte, las políticas y acciones que deban ejecutarse, con el objeto de que la mayor parte de la población tenga acceso a los beneficios de dichas actividades.
+El Consejo Estatal del Deporte, es un órgano de opinión en materia de cultura física y deporte; su función primordial consistirá en asesorar a las entidades y organismos de los sectores público, social y privado que fomenten u organicen actividades deportivas de cualquier índole, además de proponer a la Secretaría de Educación Pública del Estado, las políticas y acciones que deban ejecutarse, con el objeto de que la mayor parte de la población tenga acceso a los beneficios de dichas actividades.
 
 ###### ARTICULO 13.
 
 El Consejo Estatal del Deporte estará integrado por:
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
 
-I.- Un Presidente, que será el Gobernador del Estado;
+I.- Un Presidente, que será el Secretario de Educación Pública del Estado;
 
-II.- Un Secretario Técnico, que será el Director del Instituto Poblano del Deporte y la Juventud;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+
+II.- Un Secretario Técnico, que será designado por el Presidente;
 
 III.- El Director de Educación Física de cada sistema educativo; que tendrá el carácter de vocal; y
 
 IV.- Un Consejero por cada asociación deportiva estatal debidamente constituida y acreditada ante el Registro Estatal del Deporte.
 
-El Instituto Poblano del Deporte y la Juventud ejecutará los programas y acuerdos emanados del Consejo Estatal del Deporte.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+
+Los integrantes del Consejo Estatal del Deporte, participarán en él de manera honorífica y por tanto no percibirán remuneración alguna.
 
 ###### ARTICULO 14.
 
@@ -213,15 +219,23 @@ VIII.- Promover el otorgamiento de estímulo a las personas que destaquen en alg
 
 IX.- Las demás que le otorgue esta Ley, su reglamento y demás normas reglamentarias y estatutarias, aplicables.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 15.
 
-El Consejo Estatal funcionará en pleno y celebrará sesiones ordinarias por lo menos una vez cada seis meses y extraordinarias cuando sean convocadas por el Presidente.
+El Consejo Estatal del Deporte funcionará en pleno y sesionará ordinariamente cuando menos dos veces al año y, extraordinariamente, las veces que sea necesario a convocatoria de su Presidente, sus acuerdos se tomarán por mayoría de votos y en caso de empate el Presidente tendrá voto de calidad.
+
+El Presidente podrá invitar a las sesiones del pleno a otros funcionarios o especialistas en la materia, cuya participación se considere indispensable o valiosa para el desarrollo del Sistema Estatal del Deporte.
+
+Las funciones y demás atribuciones del Consejo Estatal del Deporte, se establecerán en el Reglamento de la presente Ley.
 
 ### CAPITULO III. DEL PROGRAMA ESTATAL DEL DEPORTE
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 16.
 
-El Programa Estatal del Deporte, es el conjunto de acciones y procedimientos tendientes a planificar el desarrollo del deporte en el Estado. Será formulado por el Gobernador del Estado en coordinación con el Consejo Estatal del Deporte, siendo instrumento rector de todas las actividades no profesionales del Sistema Estatal del Deporte.
+El Programa Estatal del Deporte es el conjunto de acciones y procedimientos tendientes a planificar el desarrollo del deporte en el Estado. Será formulado por el Gobernador del Estado, en coordinación con la Secretaría de Educación Pública del Estado y el Consejo Estatal del Deporte, siendo instrumento rector de todas las actividades no profesionales del Sistema Estatal del Deporte.
 
 ###### ARTICULO 17.
 
@@ -253,15 +267,19 @@ X.- El otorgamiento de apoyos económicos o de equipamiento a las Asociaciones D
 
 XI.- La concertación con asociaciones deportivas, con el fin de que éstas se organicen debidamente;
 
-XII.- Los mecanismos necesarios para impulsar el desarrollo del deporte y la cultura física, para personas en la senectud y discapacitados, así como otorgar especial atención en estas materias, en el sector social; y
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+
+XII.- Los mecanismos necesarios para impulsar el desarrollo del deporte y la cultura física, para adultos mayores y personas con discapacidad, así como otorgar especial atención en estas materias, en el sector social;
 
 XIII.- La creación del Salón de Honor del Deportista Poblano.
 
 ### CAPITULO IV. DEL REGISTRO DEL SISTEMA ESTATAL DEL DEPORTE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 19.
 
-El Sistema Estatal del Deporte, contará con un departamento que se encargará de la inscripción de los deportistas, organismos deportivos no profesionales, instalaciones para la práctica del deporte, eventos deportivos en el Estado, y todas aquellas actividades relacionadas con el deporte. Su integración y funcionamiento será de acuerdo a los lineamientos que se establezcan en el reglamento de la presente Ley.
+El Sistema Estatal del Deporte, por conducto de la Secretaría de Educación Pública del Estado, se encargará de la inscripción de los deportistas, órganos deportivos no profesionales, instalaciones para la práctica del deporte, eventos deportivos, y todas aquellas actividades relacionadas con el deporte en el Estado.
 
 Los deportistas profesionales deberán inscribirse en el Registro Estatal del Deporte, cuando participen en competencias eliminatorias y selectivas, tendientes a obtener la representación del Estado.
 
@@ -283,9 +301,9 @@ II.- Promover y organizar en sus comunidades, actividades físico-deportivas y r
 
 III.- Coordinarse con los Organismos Deportivos Municipales, en todas sus promociones de carácter no profesional en el área del deporte y atención a la Juventud;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
 
-IV.- Facilitar la plena utilización de las instalaciones deportivas, pertenecientes al Municipio, en cuyo caso, el Instituto Poblano del Deporte, previo convenio que celebre con el Ayuntamiento de que se trate, podrá verificar el desarrollo de las actividades deportivas que se practiquen en dichas instalaciones y coadyuvar en la programación del uso de las mismas; de tal manera, de que en las instalaciones mencionadas, se presten servicios al mayor número de deportistas, aun fuera de los horarios normales de actividades;
+IV.- Facilitar la plena utilización de las instalaciones deportivas, pertenecientes al Municipio, en cuyo caso, la Secretaría de Educación Pública, previo convenio que celebre con el Ayuntamiento de que se trate, podrá verificar el desarrollo de las actividades deportivas que se practiquen en dichas instalaciones y coadyuvar en la programación del uso de las mismas; de tal manera, que en las instalaciones mencionadas, se presten servicios al mayor número de deportistas, aún fuera de los horarios normales de actividades;
 
 V.- Llevar un registro de las instalaciones deportivas de su Municipio, así como su estado de mantenimiento y conservación;
 
@@ -295,9 +313,9 @@ VII.- Vigilar el cumplimiento de la legislación en materia de reserva de espaci
 
 VIII.- Celebrar convenios con el sector social, público y privado para el cumplimiento de los fines de la presente Ley;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
 
-IX.- El Gobierno del Estado, designará de su presupuesto de egresos anual, una partida específica para apoyar a las actividades deportivas que se desarrollen en cada Municipio, la cual se sumará a los recursos que para el mismo fin programe cada Ayuntamiento; en lo concerniente a la Capital del Estado, el Gobierno Estatal, destinará un presupuesto adicional especial, el cual se empleará exclusivamente al apoyo y fomento del Programa de Deporte de Alto Rendimiento, mismo que será administrado por el Instituto Poblano del Deporte;
+IX.- El Gobierno del Estado, designará de su presupuesto de egresos anual, una partida específica para apoyar a las actividades deportivas que se desarrollen en cada Municipio, la cual se sumará a los recursos que para el mismo fin programe cada Ayuntamiento; en lo concerniente a la Capital del Estado, el Gobierno Estatal, destinará un presupuesto adicional especial, el cual se empleará exclusivamente al apoyo y fomento del Programa de Deporte de Alto Rendimiento;
 
 X.- Promover el otorgamiento de estímulos a las personas que destaquen en alguna actividad deportiva; y
 
@@ -375,9 +393,9 @@ VII.- Desempeñar cargos directivos, siempre y cuando hayan sido elegidos en asa
 
 VIII.- Recibir toda clase de estímulos, becas, premios y reconocimientos;
 
-> <small>(ADICIONADA, P.O. 5 DE ENERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
 
-IX.- En caso de distinguirse como atletas de alto rendimiento, de acuerdo a los lineamientos que establezca la Comisión Nacional del Deporte, tendrán derecho a recibir servicios médicos, previo convenio que para tal efecto celebre el Instituto Poblano del Deporte con instituciones oficiales que presten seguridad médico-social.
+IX.- En caso de distinguirse como atletas de alto rendimiento, de acuerdo a los lineamientos que establezca la Comisión Nacional del Deporte, tendrán derecho a recibir servicios médicos, previo convenio que para tal efecto celebre la Secretaría de Educación Pública del Estado, con instituciones oficiales que presten seguridad médico-social.
 
 ###### ARTICULO 28.
 
@@ -411,9 +429,9 @@ a).- Dinero o en especie;
 
 b).- Becas académicas y/o económicas;
 
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
 
-A fin de concretar lo anterior, el Gobierno del Estado a través del Instituto Poblano del Deporte, celebrará convenios con las instituciones de educación básica, media superior y superior tanto públicas como privadas, con la finalidad de otorgar becas a los atletas de alto rendimiento, así como conceder las facilidades necesarias para que dichos deportistas puedan continuar sus estudios, practicar y participar en eventos deportivos, según sus requerimientos;
+A fin de concretar lo anterior, el Gobierno del Estado a través de la Secretaría de Educación Pública del Estado, celebrará convenios con instituciones públicas y privadas, con la finalidad de otorgar becas a atletas de alto rendimiento, así como conceder las facilidades necesarias para que dichos deportistas puedan continuar sus estudios, practicar y participar en eventos deportivos, según sus requerimientos:
 
 c).- Capacitación;
 
@@ -423,9 +441,9 @@ e).- Asistencia.
 
 Los estímulos se darán con base a los requisitos que para ello establezca el reglamento de esta Ley.
 
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
 
-Las personas físicas y jurídicas cuya actividad primordial sea la enseñanza, práctica o desarrollo de cualquier rama del deporte con fin lucrativo, deberán cumplir con los requerimientos técnicos oficiales, que al efecto establezcan las federaciones y los organismos internacionales, nacionales y el Instituto Poblano del Deporte, así mismo, dichas personas deberán contar con el aval de la Asociación Deportiva respectiva; y con la acreditación oficial del Sistema de Capacitación y Certificación de Entrenadores Deportivos.
+Las personas físicas y jurídicas cuya actividad primordial sea la enseñanza, práctica o desarrollo de cualquier rama del deporte con fin lucrativo, deberán cumplir con los requerimientos técnicos oficiales, que al efecto establezcan las federaciones y los organismos internacionales, nacionales y la Secretaría de Educación Pública del Estado; así mismo, dichas personas deberán contar con el aval de la Asociación Deportiva respectiva y con la acreditación oficial del Sistema de Capacitación y Certificación de Entrenadores Deportivos.
 
 ###### ARTICULO 30.
 
@@ -509,7 +527,7 @@ c).- Suspensión temporal o definitiva de su participación en eventos deportivo
 
 ### CAPITULO UNICO. DE LAS INSTALACIONES DEPORTIVAS
 
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 33.
 
@@ -521,33 +539,33 @@ En caso de inconformidad con las resoluciones de las autoridades y organismos de
 
 Para impugnar la determinación que resuelva el Recurso de Inconformidad, procede el de Apelación, que será substanciado ante la Comisión Estatal de Apelación y Arbitraje del Deporte de Puebla. En contra del fallo que ésta pronuncie, no procederá recurso alguno.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE ENERO DE 2001)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE ENERO DE 2001)</small>
 
 ## TITULO V. DE LAS INSTALACIONES DEPORTIVAS ESTATALES
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE ENERO DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE ENERO DE 2001)</small>
 
 ###### ARTICULO 35.
 
-Se declara de interés social, la construcción, conservación y mantenimiento de instalaciones deportivas, el Gobierno del Estado a través del Instituto Poblano del Deporte, promoverá la participación de los sectores social y privado para el logro de los fines mencionados, de acuerdo a lo señalado en el Reglamento de la presente Ley.
+Se declara de interés social, la construcción, conservación y mantenimiento de instalaciones deportivas, el Gobierno del Estado a través de la Secretaría de Educación Pública del Estado, promoverá la participación de los sectores social y privado para el logro de los fines mencionados, de acuerdo a lo señalado en el Reglamento de la presente Ley.
 
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 36.
 
-El Ejecutivo del Estado, a través del Instituto Poblano del Deporte, determinará los espacios destinados a la práctica deportiva y de recreación pública, de acuerdo a lo dispuesto por la fracción IV del artículo 21 de este Ordenamiento y su Reglamento.
+El Ejecutivo Estatal, a través de la Secretaría de Educación Pública del Estado, determinará los espacios destinados a la práctica deportiva y de recreación pública, de acuerdo a lo dispuesto por la fracción IV del artículo 21 de este Ordenamiento y su Reglamento.
 
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 37.
 
-Los responsables de las instalaciones deportivas inscritas en el Registro Estatal del Deporte, deberán, así mismo, registrar su calendario anual de actividades ante el Instituto Poblano del Deporte.
+Los responsables de las instalaciones deportivas inscritas en el Registro Estatal del Deporte, deberán, así mismo, registrar su calendario anual de actividades ante la Secretaría de Educación Pública del Estado.
 
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 38.
 
-El Ejecutivo del Estado, a través del Instituto Poblano del Deporte, hará más eficiente el uso de las instalaciones deportivas de la Entidad, de acuerdo a lo dispuesto por la fracción IV del artículo 21 de la presente Ley; programando su uso de tal manera, que presten servicio al mayor número de deportistas, aún fuera del horario normal de actividades.
+El Ejecutivo del Estado, a través de la Secretaría de Educación Pública de la Entidad, hará más eficiente el uso de las instalaciones deportivas del Estado, de acuerdo a lo dispuesto por la fracción IV del artículo 21 de la presente Ley; programando su uso de tal manera, que presten servicio al mayor número de deportistas, aún fuera del horario normal de actividades.
 
 > <small>(ADICIONADO, P.O. 5 DE ENERO DE 2001)</small>
 
@@ -555,29 +573,31 @@ El Ejecutivo del Estado, a través del Instituto Poblano del Deporte, hará más
 
 En la construcción de instalaciones deportivas, deberá tomarse en cuenta las obras que sean necesarias para la práctica del deporte infantil y federado, debiendo en todo caso contar con las especificaciones técnicas señaladas en la Legislación correspondiente y que sean necesarias para su desarrollo.
 
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 40.
 
-En la reestructuración de las instalaciones deportivas ya existentes y en el acondicionamiento de las que se construyan, se deberá tomar en cuenta el deporte para discapacitados.
+En la reestructuración de las instalaciones deportivas ya existentes y en el acondicionamiento de las que se construyan, se deberá tomar en cuenta el deporte para adultos mayores y personas con discapacidad.
 
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 41.
 
-Las instalaciones deportivas públicas ubicadas dentro del Estado, deberán inscribirse en el Registro Estatal del Deporte, el cual estará a cargo del Instituto Poblano del Deporte, en concordancia con el Registro Nacional del Deporte.
+Las instalaciones deportivas públicas ubicadas dentro del Estado, deberán inscribirse en el Registro Estatal del Deporte, el cual estará a cargo de la Secretaría de Educación Pública del Estado, en concordancia con el Registro Nacional del Deporte.
 
 Las instalaciones deportivas de carácter público, deberán destinarse preferentemente a eventos deportivos; cuando sean utilizadas para fines diversos, se respetarán los programas y calendarios deportivos establecidos con anterioridad.
 
-De los ingresos derivados de las actividades señaladas en el párrafo anterior, se destinará un porcentaje al mejoramiento de las instalaciones deportivas, además el Ayuntamiento correspondiente o el Instituto Poblano del Deporte, fijará a los organizadores, una fianza que garantice la reparación de los desperfectos que en su caso se causen, conforme a lo dispuesto en el Reglamento de la presente Ley.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2001)</small>
+De los ingresos derivados de las actividades señaladas en el párrafo anterior, se destinará un porcentaje al mejoramiento de las instalaciones deportivas; además el Ayuntamiento correspondiente, o la Secretaría de Educación Pública del Estado, fijará a los organizadores una fianza que garantice la reparación de los desperfectos que en su caso se causen, conforme a lo dispuesto en el Reglamento de la presente Ley.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 42.
 
-Los responsables de las instalaciones deportivas públicas deberán tramitar su registro ante el Instituto Poblano del Deporte, misma que verificará que sean las adecuadas para la práctica del deporte, con la calidad, seguridad y requerimientos conforme a lo establecido por el Reglamento de esta Ley.
+Los responsables de las instalaciones deportivas públicas deberán tramitar su registro ante la Secretaría de Educación Pública del Estado, misma que verificará que sean las adecuadas para la práctica del deporte, con la calidad, seguridad y requerimientos conforme a lo establecido por el Reglamento de esta Ley.
 
-El Instituto Poblano del Deporte, previo convenio que celebre con el Ayuntamiento correspondiente, realizará visitas anuales y en su caso, procederá a la clausura de aquellas instalaciones deportivas que no cumplan con los requisitos establecidos.
+La Secretaría de Educación Pública del Estado, previo convenio que celebre con el Ayuntamiento correspondiente, realizará visitas anuales y en su caso, procederá a la clausura de aquellas instalaciones deportivas que no cumplan con los requisitos establecidos.
 
 ## TRANSITORIOS
 
@@ -591,7 +611,7 @@ EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Pal
 
 Por tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veinte días del mes de febrero de mil novecientos noventa y siete.- El Gobernador Constitucional del Estado.- LICENCIADO MANUEL BARTLETT DIAZ.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO MARIO P. MARIN TORRES.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 5 DE ENERO DE 2001.
 
@@ -602,3 +622,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE MAYO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
