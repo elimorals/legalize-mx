@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2012-01-02"
+last_updated: "2012-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE MAYO DE 2012.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -407,7 +407,7 @@ VIII. Vigilancia de la autoridad.
 
 ### CAPÍTULO IV. PRISIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 48.
 
@@ -683,11 +683,9 @@ Si lo decomisado consiste en sustancias nocivas o peligrosas, se destruirán a j
 
 Los objetos, incluyendo dinero o valores, que estén a disposición de las autoridades judiciales que no hayan sido ni puedan ser decomisados, y que en un lapso de un año a partir de la fecha en que fueron asegurados no sean solicitados por quien tenga derecho, se destinarán previo trámite incidental al Fondo Auxiliar para la Impartición de Justicia.
 
-(NOTA: EL 3 DE JUNIO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2008, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE JUNIO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 9 DE MAYO DE 2012)</small>
 
-> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2008)</small>
-
-LOS BIENES MUEBLES ASEGURADOS QUE ESTÉN A DISPOSICIÓN DE LA AUTORIDAD INVESTIGADORA, CUYA RETENCIÓN NO SEA NECESARIA LEGALMENTE Y QUE NO HAYAN SIDO SOLICITADOS EN EL LAPSO DE SEIS MESES POR QUIEN TENGA DERECHO, POR ACUERDO DEL AGENTE DEL MINISTERIO PÚBLICO, SE ADJUDICARÁN AL FISCO DEL ESTADO, POR CONDUCTO DE LA SECRETARÍA QUE CORRESPONDA, PARA SU ENAJENACIÓN, REMATE, DONACIÓN O DESTRUCCIÓN. EL ACUERDO DE REFERENCIA SE PUBLICARÁ POR UNA SOLA VEZ EN LA GACETA OFICIAL DEL ESTADO, PARA QUE DENTRO DEL IMPRORROGABLE TÉRMINO DE CINCO DÍAS, QUIEN TENGA ALGÚN DERECHO, LO HAGA VALER ANTE LA REPRESENTACIÓN SOCIAL; TRANSCURRIDO EL PLAZO SIN RECLAMACIÓN ALGUNA, EL ACUERDO SURTIRÁ SUS EFECTOS LEGALES.
+Los bienes muebles que en una investigación ministerial se encuentren asegurados, cuya retención no sea necesaria y que no hayan sido solicitados por quien tenga derecho a ellos, en un lapso mayor a un año a partir de su aseguramiento, previo trámite de jurisdicción voluntaria, se adjudicarán al patrimonio del Estado, con afectación de destino a la Procuraduría General de Justicia.
 
 ### CAPÍTULO XVI. APERCIBIMIENTO Y CAUCIÓN DE NO OFENDER
 
@@ -815,7 +813,7 @@ Si el beneficiado con la libertad condicional dejare de cumplir con alguna de la
 
 ### CAPÍTULO IX. SUSPENSIÓN CONDICIONAL
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 96.
 
@@ -1139,7 +1137,7 @@ Cuando en la comisión de las lesiones intervengan dos o más individuos y no co
 
 Los propietarios o poseedores de animales que causen lesiones o muerte a personas, serán responsables a título de culpa. Si fueren a consecuencia de su acción, el delito se considerará doloso.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 143.
 
@@ -1181,7 +1179,7 @@ I. Declarar al reo sujeto a la vigilancia de la autoridad; o
 
 II. Prohibirle ir a una circunscripción territorial determinada o residir en ella.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 147.
 
@@ -1257,7 +1255,7 @@ III. De no provocarse, la mujer embarazada quede en peligro de muerte a juicio d
 
 IV. A juicio de dos médicos, exista razón suficiente de que el producto padece una alteración que dé por resultado el nacimiento de un ser con trastornos físicos o mentales graves y se practique con el consentimiento de la mujer embarazada.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 2 DE ABRIL DE 2010)</small>
 
 ### CAPÍTULO I. OMISIÓN DE AUXILIO
 
@@ -1317,7 +1315,7 @@ No se impondrá pena alguna a los padres que por su ignorancia o extrema pobreza
 
 ### CAPÍTULO V. MANIPULACIÓN GENÉTICA
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 158.
 
@@ -1353,7 +1351,7 @@ Este delito se perseguirá por querella. Si el delito se realiza con violencia o
 
 Además de las penas previstas, se impondrá privación del derecho para ejercer la profesión por un tiempo igual al de la pena de prisión impuesta. Si se trata de servidores públicos, se impondrán también, en los mismos términos, la destitución y la inhabilitación para el desempeño de empleo, cargo o comisión públicos.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 2 DE ABRIL DE 2010)</small>
 
 ### CAPÍTULO I. PRIVACIÓN DE LA LIBERTAD FÍSICA
 
@@ -1419,7 +1417,7 @@ Se le impondrá de siete a veinte años de prisión y multa de cien a mil días 
 
 Si el secuestrador libera espontáneamente a la víctima dentro de las cuarenta y ocho horas siguientes a la privación de su libertad, sin causarle daño y sin haber satisfecho ninguna de las pretensiones a que se refiere el artículo 163 de este Código, se le impondrán de ocho a quince años de prisión y multa de cien a trescientos días de salario.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 165.
 
@@ -1443,7 +1441,7 @@ III. Aconseje o disuada para no presentar la denuncia del secuestro cometido o p
 
 A quien simule hallarse privado de su libertad bajo amenaza de muerte o daño a su persona, con el fin de obtener rescate, o con el propósito de que la autoridad o un particular lleve o no a cabo un acto cualquiera, se le impondrán de cuatro a ocho años de prisión y multa de cien a quinientos días de salario. Las mismas sanciones se aplicarán a quien preste ayuda para la comisión de este delito.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 2 DE ABRIL DE 2010)</small>
 
 ### CAPÍTULO V. ASALTO
 
@@ -1569,7 +1567,7 @@ Al responsable de este delito se le impondrán de seis meses a dos años de pris
 
 ## TÍTULO V. DELITOS CONTRA LA LIBERTAD Y LA SEGURIDAD SEXUAL
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE ABRIL DE 2010)</small>
 
 ### CAPÍTULO V. ACOSO SEXUAL
 
@@ -1599,7 +1597,7 @@ En estos supuestos, se impondrán al activo de doce a cuarenta años de prisión
 
 El responsable perderá, cuando la tenga, la patria potestad o la tutela de la víctima.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE ABRIL DE 2010)</small>
 
 ### CAPÍTULO I. DIFAMACIÓN
 
@@ -1637,7 +1635,7 @@ Además de las sanciones arriba señaladas, en los casos respectivos, el respons
 
 En el caso previsto en la fracción IV, además de las sanciones arriba indicadas, se impondrán destitución, en su caso, e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, o para ejercer profesión, hasta por cinco años.
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 2 DE ABRIL DE 2010)</small>
 
 ### CAPÍTULO II. CALUMNIA
 
@@ -1647,7 +1645,7 @@ En el caso previsto en la fracción IV, además de las sanciones arriba indicada
 
 ### CAPÍTULO III. DISCRIMINACIÓN DE LAS PERSONAS
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE JULIO DE 2008)</small>
 
 ###### Artículo 186.
 
@@ -1677,7 +1675,7 @@ El delito consignado en este capítulo se perseguirá por querella. Si la vícti
 
 Si quien comete este delito es servidor público o ejerce una profesión, empleo o ministerio religioso y utiliza los medios o circunstancias derivadas de ello, además se impondrán destitución, si procede, e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, o para ejercer profesión, hasta por cinco años.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE ABRIL DE 2010)</small>
 
 ### CAPÍTULO IV. DISPOSICIONES COMUNES PARA LOS DELITOS CONTRA LA DIGNIDAD
 
@@ -1715,11 +1713,11 @@ Cuando la víctima sea menor de dieciocho años, se impondrá una pena de dos a 
 
 El delito de acoso sexual se perseguirá por querella.
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.O. 10 DE AGOSTO DE 2010)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 10 DE AGOSTO DE 2010)</small>
 
 ## TÍTULO VI. DELITOS CONTRA LA DIGNIDAD
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 10 DE AGOSTO DE 2010)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 10 DE AGOSTO DE 2010)</small>
 
 ### CAPÍTULO II. ABIGEATO
 
@@ -1729,7 +1727,7 @@ El delito de acoso sexual se perseguirá por querella.
 
 ### CAPÍTULO IV. RETENCIÓN INDEBIDA DE COSA MUEBLE
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE AGOSTO DE 2004)</small>
 
 ### CAPÍTULO V. FRAUDE
 
@@ -1743,7 +1741,7 @@ INSOLVENCIA FRAUDULENTA EN PERJUICIO DE ACREEDORES.
 
 ### CAPÍTULO VIII. EXTORSIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 191.
 
@@ -1753,7 +1751,7 @@ INSOLVENCIA FRAUDULENTA EN PERJUICIO DE ACREEDORES.
 
 (DEROGADO, G.O. 10 DE AGOSTO DE 2010)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 10 DE AGOSTO DE 2010)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 10 DE AGOSTO DE 2010)</small>
 
 ### CAPÍTULO IX. USURA
 
@@ -1795,7 +1793,7 @@ Al servidor público que en ejercicio de su función, incurra en alguna de las c
 
 Este delito se perseguirá por querella.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 10 DE AGOSTO DE 2010)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 10 DE AGOSTO DE 2010)</small>
 
 ### CAPÍTULO XI. DAÑOS
 
@@ -1821,7 +1819,7 @@ Este delito se perseguirá por querella.
 
 ## TÍTULO VIII. DELITOS CONTRA LA FAMILIA
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 2 DE ABRIL DE 2010)</small>
 
 ### CAPÍTULO XI BIS. GRAFITI ILEGAL
 
@@ -1831,7 +1829,7 @@ Este delito se perseguirá por querella.
 
 A quien con ánimo de dominio, lucro o uso, se apodere de una cosa mueble, total o parcialmente ajena, sin consentimiento de quien legalmente pueda disponer de ella, se le sancionará de la siguiente manera:
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE AGOSTO DE 2004)</small>
 
 I. Si el apoderamiento fuere con ánimo de dominio o lucro, y el valor de lo robado no excediere de cien días de salario, con prisión de tres meses a cinco años y multa hasta de ciento cincuenta días de salario.
 
@@ -1917,7 +1915,7 @@ A quien adquiera o comercie mercancías o bienes procedentes del robo a que se r
 
 Cuando el sujeto activo participe en más de una ocasión en la adquisición o comercialización de esas mercancías o bienes, se le impondrán prisión de cinco a quince años y multa hasta de quinientos días de salario.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 209.
 
@@ -2163,7 +2161,7 @@ No se sancionará al presunto responsable del daño en términos del presente ar
 
 La prisión podrá aumentarse hasta diez años y la multa hasta trescientos días de salario, si el daño recae en bienes de valor científico, artístico, cultural o de utilidad pública.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 26 DE NOVIEMBRE DE 2007)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 26 DE NOVIEMBRE DE 2007)</small>
 
 ### CAPÍTULO VIII. INCESTO
 
@@ -2281,7 +2279,7 @@ Cuando en la comisión del delito no haya existido el consentimiento a que se al
 
 ###### Artículo 243 Bis.
 
-(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 875 PARA PREVENIR, ATENDER, COMBATIR, SANCIONAR Y ERRADICAR LA TRATA DE PERSONAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 5 DE NOVIEMBRE DE 2010)
+(DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 875 PARA PREVENIR, ATENDER, COMBATIR, SANCIONAR Y ERRADICAR LA TRATA DE PERSONAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 5 DE NOVIEMBRE DE 2010)
 
 ###### Artículo 244.
 
@@ -2313,7 +2311,7 @@ Las mismas sanciones se impondrán al otro contrayente, al encargado del registr
 
 ### CAPÍTULO III. CONTRA LA SEGURIDAD DEL TRÁNSITO DE VEHÍCULOS
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 247.
 
@@ -2343,7 +2341,7 @@ A quien reiteradamente haga uso de la fuerza física o moral contra una persona 
 
 ###### Artículo 250.
 
-(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 875 PARA PREVENIR, ATENDER, COMBATIR, SANCIONAR Y ERRADICAR LA TRATA DE PERSONAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 5 DE NOVIEMBRE DE 2010)
+(DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 875 PARA PREVENIR, ATENDER, COMBATIR, SANCIONAR Y ERRADICAR LA TRATA DE PERSONAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 5 DE NOVIEMBRE DE 2010)
 
 ## TÍTULO XII. DELITOS CONTRA LA SEGURIDAD DE LOS MEDIOS DE TRANSPORTE Y DE LAS VÍAS DE COMUNICACIÓN
 
@@ -2375,7 +2373,7 @@ Al defensor de oficio que incurra en alguna de las conductas previstas en el art
 
 ### CAPÍTULO II. CORRUPCIÓN DE MENORES O INCAPACES
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE ABRIL DE 2010)</small>
 
 ###### Artículo 253.
 
@@ -2423,7 +2421,7 @@ Quienes ejerzan una profesión o actividad técnica, distinta a las previstas en
 
 ### CAPÍTULO IV. LENOCINIO Y TRATA DE PERSONAS
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE ABRIL DE 2010)</small>
 
 ###### Artículo 258.
 
@@ -2733,7 +2731,7 @@ Para los efectos de este precepto se considerará como persona empleada en canti
 
 A quien tenga bajo su responsabilidad directa permitir el acceso a salas en que se exhiban películas o se ofrezcan espectáculos calificados de no aptos para menores de edad y les facilite su entrada, se le impondrán de uno a seis meses de prisión y multa hasta de diez días de salario.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE ABRIL DE 2010)</small>
 
 ### CAPÍTULO VI. PECULADO
 
@@ -2787,7 +2785,7 @@ Las penas se agravarán hasta en una mitad, si se emplea violencia física o mor
 
 ###### Artículo 293.
 
-(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 875 PARA PREVENIR, ATENDER, COMBATIR, SANCIONAR Y ERRADICAR LA TRATA DE PERSONAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 5 DE NOVIEMBRE DE 2010)
+(DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 875 PARA PREVENIR, ATENDER, COMBATIR, SANCIONAR Y ERRADICAR LA TRATA DE PERSONAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 5 DE NOVIEMBRE DE 2010)
 
 ### CAPÍTULO VIII. INTIMIDACIÓN
 
@@ -3057,7 +3055,7 @@ II. Cualquier persona que sin tener el carácter de servidor público, estando o
 
 ### CAPÍTULO I. DE LOS DELITOS ELECTORALES
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 325.
 
@@ -3247,7 +3245,7 @@ Igual sanción se aplicará al servidor público que indebidamente quebrante la 
 
 ## TÍTULO XXI. DELITOS DE VIOLENCIA DE GÉNERO
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 2 DE ABRIL DE 2010)</small>
 
 ###### Artículo 349.
 
@@ -3267,7 +3265,7 @@ Estos delitos se perseguirán por querella del particular afectado o de la autor
 
 ## TÍTULO XXII. DELITOS CONTRA LA SEGURIDAD PUBLICA
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA G.O. 27 DE AGOSTO DE 2010)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA G.O. 27 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 352.
 
@@ -3379,7 +3377,7 @@ III. Documentos públicos electorales, las actas oficiales de instalación de ca
 
 Por la comisión de cualquiera de los delitos comprendidos en el presente Título, se podrán imponer, además de la pena señalada, la inhabilitación de uno a cinco años y, en su caso, la destitución del cargo.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 2 DE ABRIL DE 2010)</small>
 
 ###### Artículo 361.
 
@@ -3387,7 +3385,7 @@ A quien de manera pública o privada ejerza violencia física o psicológica en 
 
 Si la víctima estuviere embarazada o en período de puerperio, la sanción se incrementará hasta en una mitad.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 2 DE ABRIL DE 2010)</small>
 
 ###### Artículo 362.
 
@@ -3395,7 +3393,7 @@ A quien realice actos que afecten los bienes comunes de la pareja o el patrimoni
 
 En caso de que los actos señalados en el párrafo anterior estuvieren dirigidos a privar a la mujer de los medios económicos indispensables para su subsistencia, o a impedirle satisfacer sus necesidades básicas o las de su familia, la sanción se incrementará en un tercio.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 2 DE ABRIL DE 2010)</small>
 
 ###### Artículo 363.
 
@@ -3417,7 +3415,7 @@ A quien realice las conductas señaladas en las fracciones I, II, III y IV, se l
 
 Si el sujeto activo del delito fuere servidor público, además de las penas señaladas se le impondrá destitución e inhabilitación, hasta por dos años, para ejercer otro empleo, cargo o comisión públicos.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 2 DE ABRIL DE 2010)</small>
 
 ###### Artículo 364.
 
@@ -3435,19 +3433,19 @@ V. Obligue a establecer relación de noviazgo, concubinato o matrimonio con pers
 
 VI. Limite, prohíba o condicione el acceso y uso de métodos de salud sexual y reproductiva.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 2 DE ABRIL DE 2010)</small>
 
 ###### Artículo 365.
 
 A quien en el ejercicio de la función pública dilate, obstaculice, niegue la debida atención o impida el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso a programas, acciones, recursos públicos y al disfrute de políticas públicas, se le impondrán de seis meses a dos años de prisión, multa de hasta trescientos días de salario y destitución e inhabilitación para ejercer otro empleo, cargo o comisión públicos hasta por dos años.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 2 DE ABRIL DE 2010)</small>
 
 ###### Artículo 366.
 
 A quien obstaculice o condicione el acceso de una mujer a un empleo, mediante el establecimiento de requisitos referidos a su sexo, edad, apariencia física, estado civil, condición de madre o no, sometimiento a exámenes de laboratorio o de otra índole para descartar estado de embarazo, se le impondrán de seis meses a dos años de prisión y multa de hasta trescientos días de salario.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 2 DE ABRIL DE 2010)</small>
 
 ###### Artículo 367.
 
@@ -3459,7 +3457,7 @@ II. Dañe la autoestima de las alumnas o su integridad física o psicológica; y
 
 III. Utilice lenguajes, imágenes, materiales educativos de todo tipo o prácticas discriminatorias en cualquiera de las etapas del proceso educativo.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 367 Bis.
 
@@ -3481,7 +3479,7 @@ VII. La víctima haya sido incomunicada.
 
 A quien cometa el delito de feminicidio se le impondrá una sanción de cuarenta a setenta años de prisión.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 2 DE ABRIL DE 2010)</small>
 
 ###### Artículo 368.
 
@@ -3513,7 +3511,7 @@ Al sujeto activo de los delitos considerados en este Título, se le aplicarán m
 
 Estas medidas reeducativas tienen por objeto eliminar los estereotipos de supremacía de género y los patrones de conducta machistas y misóginos, que generaron la conducta delictiva.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRA, G.O. 27 DE AGOSTO DE 2010)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA, G.O. 27 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 371.
 
@@ -3521,13 +3519,13 @@ Se impondrán de tres a quince años de prisión y multa de hasta cuatrocientos 
 
 Si el sujeto activo es un servidor público, las penas señaladas en el párrafo anterior se incrementarán hasta en una mitad y se impondrá la inhabilitación para el desempeño de empleo, cargo o comisión públicos, hasta por el término de quince años.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 8 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 8 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 372.
 
 A quien, por cualquier medio, dolosamente reporte emergencias falsas que movilicen a personal de instituciones públicas o privadas que presten servicios de emergencia, protección civil o seguridad pública, se le impondrán de seis meses a dos años de prisión y multa de diez a cien días de salario.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 20 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 20 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 373.
 
@@ -3579,7 +3577,7 @@ Segundo. Se derogan todas las disposiciones de observancia general que se oponga
 
 G.O. 15 DE AGOSTO DE 2005.
 
-DECRETO No. 258, POR EL QUE SE REFORMAN LOS ARTICULOS 140 Y 233 DEL CODIGO.
+DECRETO No. 258, POR EL QUE SE REFORMAN LOS ARTÍCULOS 140 Y 233 DEL CÓDIGO.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
@@ -3587,7 +3585,7 @@ Segundo. Se derogan todas las disposiciones legales que se opongan al presente D
 
 G.O. 15 DE AGOSTO DE 2005.
 
-DECRETO No. 274, POR EL QUE SE REFORMA EL ARTICULO 276 DEL CODIGO.
+DECRETO No. 274, POR EL QUE SE REFORMA EL ARTÍCULO 276 DEL CÓDIGO.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
@@ -3595,7 +3593,7 @@ Segundo. Se derogan todas las disposiciones legales que se opongan al presente d
 
 G.O. 15 DE AGOSTO DE 2005.
 
-DECRETO No. 279, POR EL QUE SE REFORMA EL ARTICULO 189 DEL CODIGO.
+DECRETO No. 279, POR EL QUE SE REFORMA EL ARTÍCULO 189 DEL CÓDIGO.
 
 Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial.
 
@@ -3603,7 +3601,7 @@ Segundo. Se derogan todas las disposiciones de observancia general que se oponga
 
 G.O. 15 DE AGOSTO DE 2005.
 
-DECRETO No. 284, POR EL QUE SE REFORMA EL ARTICULO 233 DEL CODIGO.
+DECRETO No. 284, POR EL QUE SE REFORMA EL ARTÍCULO 233 DEL CÓDIGO.
 
 Primero. Presente (sic) decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
@@ -3615,7 +3613,7 @@ G.O. 11 DE SEPTIEMBRE DE 2006.
 
 G.O. 3 DE ENERO DE 2007.
 
-DECRETO No. 622 POR EL QUE SE ADICIONA EL ARTICULO 163 BIS DEL CODIGO.
+DECRETO No. 622 POR EL QUE SE ADICIONA EL ARTÍCULO 163 BIS DEL CÓDIGO.
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
@@ -3623,7 +3621,7 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
 
 G.O. 3 DE ENERO DE 2007.
 
-DECRETO No. 623 POR EL QUE SE REFORMA EL ARTICULO 164 DEL CODIGO.
+DECRETO No. 623 POR EL QUE SE REFORMA EL ARTÍCULO 164 DEL CÓDIGO.
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
@@ -3637,7 +3635,7 @@ Artículo Segundo. Se derogan todas las disposiciones opuestas a este decreto.
 
 G.O. 2 DE AGOSTO DE 2007.
 
-DECRETO No. 888 POR EL QUE SE REFORMA EL SEGUNDO PARRAFO DEL ARTICULO 186 DEL CODIGO.
+DECRETO No. 888 POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 186 DEL CÓDIGO.
 
 Primero. El presente Decreto surtirá efectos al siguiente día de su publicación en la Gaceta Oficial del estado.
 
@@ -3645,7 +3643,7 @@ Segundo. A partir de la entrada en vigor del presente decreto se derogan todas l
 
 G.O. 2 DE AGOSTO DE 2007.
 
-DECRETO No. 889 POR EL QUE SE ADICIONA EL ARTICULO 243 BIS AL CODIGO.
+DECRETO No. 889 POR EL QUE SE ADICIONA EL ARTÍCULO 243 BIS AL CÓDIGO.
 
 Primero. El presente Decreto surtirá efectos al siguiente día de su publicación en la Gaceta Oficial del estado.
 
@@ -3653,7 +3651,7 @@ Segundo. A partir de la entrada en vigor del presente decreto se derogan todas l
 
 G.O. 2 DE AGOSTO DE 2007.
 
-DECRETO No. 890 POR EL QUE SE REFORMA LA FRACCION V DEL ARTICULO 292 DEL CODIGO.
+DECRETO No. 890 POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 292 DEL CÓDIGO.
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
@@ -3661,7 +3659,7 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 2 DE AGOSTO DE 2007.
 
-DECRETO No. 891 POR EL QUE SE REFORMAN LOS ARTICULOS 49 Y 96 DEL CODIGO.
+DECRETO No. 891 POR EL QUE SE REFORMAN LOS ARTÍCULOS 49 Y 96 DEL CÓDIGO.
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
@@ -3669,7 +3667,7 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 2 DE AGOSTO DE 2007.
 
-DECRETO No. 892 POR EL QUE SE REFORMA EL ARTICULO 241 DEL CODIGO.
+DECRETO No. 892 POR EL QUE SE REFORMA EL ARTÍCULO 241 DEL CÓDIGO.
 
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
@@ -3677,7 +3675,7 @@ Artículo segundo. Se derogan todas las disposiciones que se opongan al presente
 
 G.O. 2 DE AGOSTO DE 2007.
 
-DECRETO No. 893 POR EL QUE SE REFORMAN LOS ARTICULOS 288, 290 Y 291 DEL CODIGO.
+DECRETO No. 893 POR EL QUE SE REFORMAN LOS ARTÍCULOS 288, 290 Y 291 DEL CÓDIGO.
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
@@ -3685,7 +3683,7 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 2 DE AGOSTO DE 2007.
 
-DECRETO No. 894 POR EL QUE SE ADICIONA EL ARTICULO 147 BIS AL CODIGO.
+DECRETO No. 894 POR EL QUE SE ADICIONA EL ARTÍCULO 147 BIS AL CÓDIGO.
 
 Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
@@ -3823,7 +3821,7 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 29 DE AGOSTO DE 2011.
 
-DECRETO NÚMERO 292 POR EL QUE SE REFORMAN LOS ARTICULOS 56, FRACCIONES II, III(SIC) Y IV (SIC), Y 329, PARRAFOS SEGUNDO Y TERCERO; SE ADICIONAN UNA FRACCION V AL ARTICULO 56, UN PARRAFO TERCERO AL ARTICULO 93, LOS PARRAFOS SEGUNDO Y TERCERO AL ARTICULO 104, UN PARRAFO CUARTO AL ARTICULO 137, UN PARRAFO SEGUNDO AL ARTICULO 319, UN PARRAFO QUE SERA EL SEGUNDO AL ARTICULO 329, CON EL CORRIMIENTO DE LOS ACTUALES SEGUNDO Y TERCERO, UN CAPITULO VII BIS, QUE SE DENOMINARA FEMINICIDIO, AL TITULO XXI DELITOS DE VIOLENCIA DE GENERO Y UN ARTICULO 367 BIS; Y SE DEROGA EL ARTICULO 368 DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+DECRETO NÚMERO 292 POR EL QUE SE REFORMAN LOS ARTÍCULOS 56, FRACCIONES II, III(SIC) Y IV (SIC), Y 329, PÁRRAFOS SEGUNDO Y TERCERO; SE ADICIONAN UNA FRACCIÓN V AL ARTÍCULO 56, UN PÁRRAFO TERCERO AL ARTÍCULO 93, LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 104, UN PÁRRAFO CUARTO AL ARTICULO 137, UN PÁRRAFO SEGUNDO AL ARTÍCULO 319, UN PÁRRAFO QUE SERÁ EL SEGUNDO AL ARTICULO 329, CON EL CORRIMIENTO DE LOS ACTUALES SEGUNDO Y TERCERO, UN CAPÍTULO VII BIS, QUE SE DENOMINARÁ FEMINICIDIO, AL TÍTULO XXI DELITOS DE VIOLENCIA DE GÉNERO Y UN ARTÍCULO 367 BIS; Y SE DEROGA EL ARTÍCULO 368 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
@@ -3835,7 +3833,7 @@ G.O. 20 DE SEPTIEMBRE DE 2011.
 
 G.O. 14 DE DICIEMBRE DE 2011.
 
-DECRETO NUMERO 312 POR EL QUE SE REFORMA EL ARTICULO 290, FRACCIÓN V, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+DECRETO NÚMERO 312 POR EL QUE SE REFORMA EL ARTÍCULO 290, FRACCIÓN V, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
@@ -3843,7 +3841,7 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 14 DE DICIEMBRE DE 2011.
 
-DECRETO NUMERO 314 POR EL REFORMAN LOS ARTÍCULOS 183, FRACCIÓN II, Y 185, FRACCIÓN II, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+DECRETO NÚMERO 314 POR EL REFORMAN LOS ARTÍCULOS 183, FRACCIÓN II, Y 185, FRACCIÓN II, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
 Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del estado.
 
@@ -3854,3 +3852,9 @@ G.O. 2 DE ENERO DE 2012.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 9 DE MAYO DE 2012.
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
