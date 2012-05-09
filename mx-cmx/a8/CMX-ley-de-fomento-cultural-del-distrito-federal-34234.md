@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-cultural-del-distrito-federal-34234"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-14"
-last_updated: "2007-11-08"
+last_updated: "2012-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34234&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-09-26"
 
 LEY DE FOMENTO CULTURAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE NOVIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE MAYO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 14 de octubre de 2003.
 
@@ -70,7 +70,9 @@ V. Proteger la expresión artística y cultural conforme a los ordenamientos jur
 
 VI. Preservar y difundir el patrimonio cultural;
 
-VII. Vincular el desarrollo cultural al desarrollo educativo, social y económico; y
+> <small>(REFORMADA, G.O. 9 DE MAYO DE 2012)</small>
+
+VII. Vincular la cultura a la sustentabilidad, garantizando el desarrollo económico, la inclusión social, el cuidado del medio ambiente, la protección del patrimonio tangible e intangible y toda aportación relativa al bienestar social de la población; y
 
 VIII. Predominio del interés general sobre el interés particular.
 
@@ -96,7 +98,9 @@ VI. Difusión Cultural: La acción de las instituciones culturales públicas, de
 
 VII. Equipamiento o infraestructura cultural: El conjunto de inmuebles, instalaciones, construcciones, mobiliario y equipo, cuyo objeto sea prestar a la población los servicios culturales a los que esta ley se refiere.
 
-VIII. Industrias Culturales: La empresa que tenga como fin la producción, distribución y comercialización masiva de productos culturales.
+> <small>(REFORMADA, G.O. 9 DE MAYO DE 2012)</small>
+
+VIII. Industrias Culturales: las personas morales que tengan como objeto la producción, distribución y comercialización de productos culturales dentro de su objeto social.
 
 IX. Patrimonio cultural: Los productos culturales, materiales o inmateriales, tangibles o intangibles que poseen un significado y un valor especial o excepcional para un grupo social determinado o para la sociedad en su conjunto, y por lo tanto forman parte fundamental de su identidad cultural.
 
@@ -106,13 +110,23 @@ XI. Patrimonio Cultural Intangible: Todo producto cultural, tanto individual com
 
 XII. Patrimonio Cultural Tangible: Todo producto cultural, tanto individual como colectivo, que tiene un significado o valor excepcional para un grupo social determinado o para la sociedad en general y cuya característica es su expresión material.
 
+> <small>(ADICIONADA, G.O. 9 DE MAYO DE 2012)</small>
+
+XII Bis. Plan de Manejo: es un instrumento de gestión que en un horizonte de corto, mediano y largo plazo establece los valores, significados, objetivos estratégicos, programas y acciones, así como sus recursos de seguimiento y evaluación para preservar el patrimonio cultural declarado. Es un requerimiento específico para la conservación de los inmuebles, espacios o zonas declarados, con el objetivo de establecer las medidas para su mantenimiento, resguardo, conservación y, en su caso recuperación, así como las tareas que en ello correspondan a las autoridades del Gobierno Central y a las autoridades delegacionales.
+
+> <small>(ADICIONADA, G.O. 9 DE MAYO DE 2012)</small>
+
+XII Ter. Plan de Salvaguarda: es un instrumento de gestión que en un horizonte de corto, mediano y largo plazo establece los valores, significados, objetivos estratégicos, los programas y las acciones, así como sus recursos de seguimiento y evaluación para preservar el patrimonio cultural intangible declarado. Es un requerimiento específico para la conservación de las manifestaciones, tradiciones y bienes culturales declarados, con el objetivo de establecer las medidas de salvaguarda, registro, preservación y fomento, así como las tareas que en ello correspondan a las autoridades del Gobierno Central y a las autoridades delegacionales.
+
 XIII. Política cultural: El conjunto de proyectos, programas y, en general, acciones que el Gobierno del Distrito Federal realice con el fin de preservar, conservar, fomentar y desarrollar la cultura.
 
 XIV. Promoción cultural: El apoyo económico, técnico, profesional y logístico que se proporciona de manera sistemática, planificada y organizada encaminado a la realización de actividades culturales en cualquier ámbito y sector de la sociedad.
 
 XV. Promotor cultural: Toda persona física o moral cuya labor consiste en organizar, estimular y difundir las expresiones culturales de comunidades, pueblos, barrios o colonias del Distrito Federal.
 
-XVI. Redes sociales vinculadas a la cultura: El conjunto de personas cuya actividad social se relaciona con el campo del fomento y desarrollo cultural.
+> <small>(REFORMADA, G.O. 9 DE MAYO DE 2012)</small>
+
+XVI. Redes sociales vinculadas a la cultura: El conjunto de personas o colectivos cuya actividad social se relaciona con el campo del fomento y desarrollo cultural.
 
 > <small>(REFORMADA, G.O. 7 DE JUNIO DE 2006)</small>
 
@@ -126,7 +140,7 @@ XVIII.- El Consejo de la Crónica: El Consejo de la Crónica de la Ciudad de Mé
 
 ### Capítulo Único. Objetivos generales
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 5.
 
@@ -158,7 +172,9 @@ XII. Apoyar entre los habitantes del Distrito Federal, la creación artística y
 
 XIII. Impulsar programas que enaltezcan los valores cívicos y sociales en el Distrito Federal;
 
-XIV. Valorar, preservar y difundir el patrimonio cultural tangible e intangible del Distrito Federal.
+> <small>(REFORMADA, G.O. 9 DE MAYO DE 2012)</small>
+
+XIV. Instituir y operar un Centro de Información del Patrimonio Cultural del Distrito Federal, encargado de elaborar un Registro del Patrimonio de la entidad, por medio del cual sea posible valorar, preservar y difundir la riqueza cultural del Distrito Federal;
 
 XV. Dotar de recursos humanos y materiales para el funcionamiento de los espacios culturales que se encuentren bajo la jurisdicción del Gobierno del Distrito Federal;
 
@@ -170,9 +186,17 @@ XVIII. Promover entre las personas con discapacidad, adultos mayores, niños y n
 
 XIX. Difundir los bienes y servicios culturales que proporciona el Gobierno del Distrito Federal;
 
-XX. Promover el conocimiento de las diferentes expresiones de la cultura universal; y
+> <small>(REFORMADA, G.O. 9 DE MAYO DE 2012)</small>
 
-XXI. Preservar, promover, desarrollar y difundir las tradiciones, costumbres, festividades y certámenes populares, por ser de interés público.
+XX. Promover el conocimiento de las diferentes expresiones de la cultura universal;
+
+> <small>(REFORMADA, G.O. 9 DE MAYO DE 2012)</small>
+
+XXI. Preservar, promover, desarrollar y difundir las tradiciones, costumbres, festividades y certámenes populares, por ser de interés público; y
+
+> <small>(ADICIONADA, G.O. 9 DE MAYO DE 2012)</small>
+
+XXII. En lo correspondiente al desarrollo de la cinematografía en el Distrito Federal, se fomentará la actividad del sector cinematográfico a través de su Fideicomiso de Promoción y Desarrollo del Cine Mexicano en el Distrito Federal, por sus siglas PROCINEDF.
 
 > <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2007)</small>
 
@@ -200,7 +224,11 @@ V.- Promover programas específicos para garantizar la infraestructura y equipam
 
 Los apoyos y estímulos que otorgue la Administración Pública del Distrito Federal a la investigación, catalogación, conservación, recuperación, restauración y difusión de los productos del patrimonio cultural se concederán de acuerdo con criterios de concurrencia y objetividad, dentro de las previsiones presupuestarias.
 
-## TÍTULO TERCERO. Del Sistema de Fomento y Desarrollo Cultural para el Distrito Federal y la Coordinación con la Federación
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 9 DE MAYO DE 2012)</small>
+
+## TÍTULO TERCERO
+
+Del Sistema de Fomento y Desarrollo Cultural para el Distrito Federal, la Coordinación con la Federación y el Centro de Información de Patrimonio Cultural del Distrito Federal
 
 ### Capítulo I. Del Sistema
 
@@ -290,13 +318,37 @@ La Secretaría deberá gestionar los apoyos respectivos con las instancias del G
 
 La Secretaría de Cultura ratificará, actualizará o en su caso establecerá, acuerdos o los instrumentos jurídicos que se requieran de acuerdo a las normas aplicables en la materia, con cada uno de los estados de la federación para establecer acciones específicas para fomentar el conocimiento de la cultura nacional.
 
-### Capítulo I. De las Autoridades encargadas de la aplicación de esta Ley
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 9 DE MAYO DE 2012)</small>
+
+### Capítulo III. Del Centro de Información de Patrimonio Cultural del Distrito Federal
+
+> <small>(ADICIONADO, G.O. 9 DE MAYO DE 2012)</small>
+
+ARTÍCULO 17 BIS.- El Centro de Información del Patrimonio Cultural del Distrito Federal, dependiente de la Secretaría de Cultura, es el órgano encargado de elaborar un registro del Patrimonio Cultural del Distrito Federal. Dicho Centro hará público el registro en forma digital, impresa y vía Internet y también concentrará información sobre:
+
+I. Las iniciativas de declaratoria de patrimonio cultural tangible e intangible;
+
+II. Los catálogos de patrimonio cultural tangible e intangible;
+
+III. Los expedientes de las declaratorias concluidas y en proceso;
+
+IV. La legislación y reglamentación de salvaguarda del Patrimonio Cultural del Distrito Federal en los ámbitos local, federal e internacional;
+
+V. El padrón de asociaciones civiles, patronatos, fondos y fideicomisos creados con el objeto de contribuir a la salvaguarda del patrimonio cultural de la ciudad; y
+
+VI. Los catálogos de los acervos históricos documentales y fotográficos del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 9 DE MAYO DE 2012)</small>
+
+ARTÍCULO 17 TER.- El Centro de Información del Patrimonio Cultural del Distrito Federal se coordinará con los encargados de realizar una labor similar en el ámbito estatal, federal e internacional, a fin de intercambiar los datos de sus respectivas declaratorias.
+
+> <small>(ADICIONADO, G.O. 9 DE MAYO DE 2012)</small>
+
+ARTÍCULO 17 QUATER.- Toda información complementaria o diferente a la establecida en el registro o en las declaratorias y que se genere se deberá anexar a su respectivo expediente en el Centro de Información del Patrimonio Cultural del Distrito Federal.
 
 ## TÍTULO CUARTO. De las Autoridades en General
 
-### Capítulo II. Del Jefe de Gobierno del Distrito Federal
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE NOVIEMBRE DE 2007)</small>
+### Capítulo I. De las Autoridades encargadas de la aplicación de esta Ley
 
 ###### ARTÍCULO 18.
 
@@ -312,7 +364,9 @@ III. La Secretaría de Desarrollo Rural y Equidad para las Comunidades; y
 
 IV. Las delegaciones.
 
-### Capítulo III. Del Consejo de Fomento y Desarrollo Cultural del Distrito Federal
+### Capítulo II. Del Jefe de Gobierno del Distrito Federal
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 19.
 
@@ -382,7 +436,9 @@ XXI. Impulsar la creación de fundaciones, fondos, patronatos y similares orient
 
 XXII. Difundir los resultados de los distintos proyectos de investigación, promoviendo tanto publicaciones o ediciones de carácter científico como de divulgación, incluyendo materiales didácticos;
 
-XXIII. Elaborar las Declaratorias de Patrimonio Cultural intangible que expedirá el titular de la Jefatura de Gobierno del Distrito Federal; y
+> <small>(REFORMADA, G.O. 9 DE MAYO DE 2012)</small>
+
+XXIII. Elaborar las declaratorias de Patrimonio Cultural tangible y/o intangible que expedirá el titular de la Jefatura de Gobierno del Distrito Federal; y
 
 XXIV. Las demás que le otorgue esta Ley y otros ordenamientos jurídicos aplicables.
 
@@ -420,7 +476,9 @@ XI. Impulsar y proyectar las manifestaciones culturales que se llevan a cabo en 
 
 XII. Procurar la creación de bibliotecas, hemerotecas, casas de cultura delegacionales, museos, auditorios, teatros y centros culturales, así como la ampliación, mantenimiento, mejoras físicas y tecnológicas;
 
-XIII. Proporcionar a las Casas de Cultura Delegacionales los recursos materiales y humanos suficientes para su óptimo funcionamiento;
+> <small>(REFORMADA, G.O. 9 DE MAYO DE 2012)</small>
+
+XIII. Proporcionar a las Casas de Cultura Delegacionales los recursos materiales y humanos suficientes para su óptimo funcionamiento, así como normar el uso adecuado de sus espacios e instalaciones, para ofrecer bienes y servicios culturales de calidad, según las necesidades de sus usuarios;
 
 XIV. Conocer, analizar y resolver las solicitudes o peticiones que presenten personas físicas o morales dedicadas a las actividades culturales para la utilización de los espacios públicos con que cuenta la delegación;
 
@@ -432,7 +490,7 @@ XVI. Las demás que esta Ley y otros ordenamientos jurídicos le confieran.
 
 Las autoridades encargadas de la aplicación de esta Ley se coordinarán entre sí, para la elaboración de los Programas de Fomento y Desarrollo Cultural del Distrito Federal, así como para su aplicación en el ámbito respectivo, a fin de que la política cultural en la Ciudad de México sea eficiente.
 
-### Capítulo IV. De los Consejos Delegacionales de Fomento y Desarrollo Cultural del Distrito Federal
+### Capítulo III. Del Consejo de Fomento y Desarrollo Cultural del Distrito Federal
 
 ###### ARTÍCULO 23.
 
@@ -452,6 +510,10 @@ IV. Promover en materia cultural, la participación de la comunidad, los grupos 
 
 V. Sugerir las medidas adecuadas para la preservación del patrimonio cultural, así como el impulso de la cultura y las artes;
 
+> <small>(ADICIONADA, G.O. 9 DE MAYO DE 2012)</small>
+
+V Bis. Autorizar, validar y ser informador sobre la integración, aplicación y actualización de los planes de manejo y planes de salvaguarda del Patrimonio Cultural tangible e intangible;
+
 VI. Asesorar en el diseño, formulación y ejecución del Programa de Fomento y Desarrollo Cultural;
 
 VII. Formular propuestas y opiniones a las autoridades competentes, cuando se considere que estas no se apegan al ejercicio presupuestal y al de sus funciones operativas en el desarrollo de las políticas y programas y Fomento Cultural, así como a los principios y ordenamientos de la presente Ley;
@@ -462,7 +524,9 @@ IX. Aportar ideas con relación a la preservación y fortalecimiento de las dive
 
 X. Elaborar sus manuales de organización;
 
-XI. Recomendar a la Secretaría de Cultura bienes de Patrimonio Cultural intangible susceptible de Declaratoria; y
+> <small>(REFORMADA, G.O. 9 DE MAYO DE 2012)</small>
+
+XI. Recomendar a la Secretaría de Cultura bienes de Patrimonio Cultural tangible o intangible susceptibles de Declaratoria; y
 
 XII. En general, las que determine su Presidente y que sean inherentes para el cumplimiento del objeto del Consejo.
 
@@ -540,7 +604,7 @@ Los integrantes del Consejo a que se refiere la fracción VII del artículo 25, 
 
 El Consejo se reunirá de manera obligatoria cada dos meses de manera ordinaria, previa convocatoria de su Presidente y de manera extraordinaria cuando el Presidente lo estime conveniente o cuando las dos terceras partes de los integrantes del Consejo así lo consideren, con el objeto de darle seguimiento a los Programas Delegacionales de Fomento y Desarrollo Cultural.
 
-### Capítulo I. Del reconocimiento de las formas de participación social
+### Capítulo IV. De los Consejos Delegacionales de Fomento y Desarrollo Cultural del Distrito Federal
 
 ###### ARTÍCULO 33.
 
@@ -602,7 +666,7 @@ Los integrantes de los Consejos Delegacionales, a que se refiere el inciso e de 
 
 ## TITULO QUINTO. De la Participación Social
 
-### Capítulo II. De la información, difusión y vinculación social de la cultura
+### Capítulo I. Del reconocimiento de las formas de participación social
 
 ###### ARTÍCULO 41.
 
@@ -620,7 +684,7 @@ La participación social para el fomento y desarrollo cultural se expresa a part
 
 El Gobierno del Distrito Federal reconoce la existencia de individuos, instituciones de asistencia privada, instituciones académicas, asociaciones civiles y fideicomisos y la labor que históricamente realizan a favor del desarrollo cultural en el Distrito Federal.
 
-### Capitulo I. Del Programa de Fomento y Desarrollo Cultural para el Distrito Federal
+### Capítulo II. De la información, difusión y vinculación social de la cultura
 
 ###### ARTÍCULO 45.
 
@@ -636,7 +700,7 @@ La participación social que vincula a creadores, promotores, instituciones, org
 
 ## TITULO SEXTO. Del Programa y los Programas Delegacionales de Fomento y Desarrollo Cultural para el Distrito Federal
 
-### Capítulo II. De los Programas Delegacionales de Fomento y Desarrollo Cultural
+### Capitulo I. Del Programa de Fomento y Desarrollo Cultural para el Distrito Federal
 
 ###### ARTÍCULO 48.
 
@@ -676,7 +740,7 @@ IV. Metas que permitan su evaluación; y
 
 V. El Programa deberá ser emitido en un plazo no mayor a 60 días hábiles, contados a partir de la publicación del Programa General de Gobierno del Distrito Federal.
 
-### CAPÍTULO ÚNICO. De las Declaratorias
+### Capítulo II. De los Programas Delegacionales de Fomento y Desarrollo Cultural
 
 ###### ARTÍCULO 51.
 
@@ -696,39 +760,65 @@ En caso de que llegara a presentarse cambio de Jefe Delegacional, el nuevo titul
 
 ## TÍTULO SÉPTIMO. De las Declaratorias de Patrimonio Cultural Tangible e Intangible
 
-### Capítulo Único. De su funcionamiento
+### CAPÍTULO ÚNICO. De las Declaratorias
 
-> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, G.O. 9 DE MAYO DE 2012)</small>
 
 ###### ARTÍCULO 55.
 
-Las declaratorias objeto de esta Ley, que no se opongan a las establecidas en la Ley de Salvaguarda del Patrimonio Urbanístico Arquitectónico del Distrito Federal, son los instrumentos jurídicos que tendrán como fin la preservación de aquellos bienes y valores culturales considerados patrimonio tangible e intangible del Distrito Federal, cuya característica sea el reconocimiento de la diversidad cultural expresada o manifiesta en esta ciudad capital.
+Las declaratorias objeto de esta Ley, son los instrumentos jurídicos que tendrán como fin la preservación de aquellos bienes, expresiones y valores culturales considerados como Patrimonio Cultural tangible o intangible del Distrito Federal.
 
 ###### ARTÍCULO 56.
 
 El Jefe de Gobierno tendrá la facultad de emitir las declaratorias mediante el decreto respectivo.
 
+> <small>(REFORMADO, G.O. 9 DE MAYO DE 2012)</small>
+
 ###### ARTÍCULO 57.
 
-Toda declaratoria de patrimonio tangible e intangible, obligará al Gobierno del Distrito Federal a fomentar de manera particular el bien cultural declarado, teniendo como base los lineamientos de la presente Ley y las recomendaciones emitidas por el Consejo, sin que esto afecte la libertad, creatividad y forma de expresión de las personas o grupos interesados.
+Toda declaratoria de patrimonio cultural tangible o intangible, obligará al Gobierno del Distrito Federal a fomentar de manera particular el bien cultural declarado, teniendo como base los lineamientos de la presente Ley y las recomendaciones emitidas por el Consejo, sin que esto afecte la libertad, creatividad y forma de expresión de las personas o grupos interesados.
+
+> <small>(REFORMADO, G.O. 9 DE MAYO DE 2012)</small>
 
 ###### ARTÍCULO 58.
 
-El Consejo recomendará a la Secretaría de Cultura del Distrito Federal el bien cultural tangible e intangible sujeto de Declaratoria.
+El Consejo recomendará a la Secretaría de Cultura del Distrito Federal el bien cultural tangible o intangible sujeto de Declaratoria.
 
 ###### ARTÍCULO 59.
 
 Para la emisión de Declaratorias, la autoridad competente deberá apegarse en todo momento al procedimiento establecido en esta Ley, y en lo no previsto, se atenderá la Ley de Procedimiento Administrativo del Distrito Federal.
 
+> <small>(ADICIONADO, G.O. 9 DE MAYO DE 2012)</small>
+
+ARTÍCULO 59 BIS.- En el caso de las Declaratorias de Patrimonio Cultural tangible y/o intangible, el decreto respectivo deberá contemplar la integración del plan de manejo y/o de salvaguarda, cuyo seguimiento estará a cargo de la Secretaría en coordinación con las autoridades delegacionales.
+
+Los planes de manejo y planes de salvaguarda establecidos en el párrafo anterior deberán contener como mínimo lo siguiente:
+
+a) Justificación y descripción del bien objeto de la declaratoria.
+
+b) Objetivos.
+
+c) Estrategia General, en la que se deberán precisar las medidas referentes a la integridad y mantenimiento del bien, uso público, protección y vigilancia, y difusión y participación social que en su caso apliquen.
+
+d) Estrategias y acciones a corto, mediano y largo plazo.
+
+e) Obligaciones de los órganos participantes de la Administración Pública del Distrito Federal, en materia de instrumentación, seguimiento y financiamiento de las estrategias y acciones correspondientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE MAYO DE 2012)</small>
+
 ###### ARTÍCULO 60.
 
-Las Declaratorias de Patrimonio Cultural intangible a las que se refiere ésta Ley podrán ser promovidas de oficio, de acuerdo con el reglamento correspondiente o a petición de parte. En caso de que una declaratoria sea promovida a petición de parte, la misma podrá hacerla cualquier persona física o moral interesada.
+Las Declaratorias de Patrimonio Cultural tangible y/o intangible a las que se refiere esta Ley podrán ser promovidas de oficio, de acuerdo con el reglamento correspondiente o a petición de parte. En caso de que una declaratoria sea promovida a petición de parte, la misma podrá hacerla cualquier persona física o moral interesada.
 
-I. Tal petición deberá presentarse a la Secretaría de Cultura conteniendo los siguientes requisitos:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE MAYO DE 2012)</small>
+
+I. Tal petición deberá presentarse por escrito a la Secretaría de Cultura conteniendo los siguientes requisitos:
 
 a. Nombre y domicilio del promovente;
 
-b. Descripción del bien propuesto;
+> <small>(REFORMADO, G.O. 9 DE MAYO DE 2012)</small>
+
+b. Formular un proyecto que contenga un plan de manejo o plan de salvaguarda, como instrumento de gestión, con el objetivo de establecer las medidas de resguardo, conservación y en su caso recuperación, en el cual o en los cuales se deberán establecer los valores, significados, objetivos estratégicos, programas y acciones que serán utilizados para la preservación del bien cultural tangible o intangible propuesto.
 
 c. Motivos o razones que fundan su petición;
 
@@ -738,7 +828,9 @@ Dicho documento deberá contener los siguientes requisitos:
 
 a. Nombre y domicilio del promovente:
 
-b. Exposición de las razones de su afectación por causa de la promulgación de la declaratoria de patrimonio cultural intangible.
+> <small>(REFORMADO, G.O. 9 DE MAYO DE 2012)</small>
+
+b. Exposición de motivos de su afectación por causa de la promulgación de la declaratoria de patrimonio cultural intangible.
 
 III. La Secretaría de Cultura deberá comunicar al promovente del recurso de revisión, el resultado de la misma, en un plazo no mayor de de (sic) treinta días hábiles.
 
@@ -748,19 +840,31 @@ a). Para el cumplimiento de esta fracción, la Secretaría de Cultura se sujetar
 
 Las propuestas que emita el Consejo sobre declaratorias de patrimonio cultural a las que se refiere el artículo 55 de esta Ley, serán remitidas a la Secretaría para su análisis, la cual podrá someterla a la consideración y aprobación en su caso, del titular de la Jefatura de Gobierno del Distrito Federal.
 
-El proyecto de declaratoria contendrá los siguientes puntos:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE MAYO DE 2012)</small>
+
+El proyecto de declaratoria contendrá los siguientes requisitos:
 
 a. Motivación y fundamentación de la declaratoria, de acuerdo a las disposiciones legales aplicables;
 
-b. Descripción detallada del procedimiento seguido.
+> <small>(REFORMADO, G.O. 9 DE MAYO DE 2012)</small>
+
+b. Descripción detallada de sus características, antecedentes, significado y valor cultural del procedimiento seguido.
 
 c. Síntesis de la argumentación social y académica presentada en favor del bien declarado.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, G.O. 7 DE JUNIO DE 2006)</small>
+> <small>(ADICIONADO, G.O. 9 DE MAYO DE 2012)</small>
+
+d. El plan de manejo o el plan de salvaguarda debidamente autorizado por la Secretaría de Cultura.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.O. 7 DE JUNIO DE 2006)</small>
 
 ## TÍTULO OCTAVO. Del Consejo de la Crónica
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 7 DE JUNIO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 7 DE JUNIO DE 2006)</small>
+
+### Capítulo Único. De su funcionamiento
+
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2007)</small>
 
 ###### ARTÍCULO 62.
 
@@ -944,7 +1048,7 @@ POR LA MESA DIRECTIVA.- DIP. ALEJANDRO DIEZ BARROSO REPIZO, PRESIDENTE.- SECRETA
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67 fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintiséis días del mes de septiembre del dos mil tres.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, LIC. ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, RAQUEL SOSA ELÍZAGA.- FIRMA.- LA SECRETARIA DE TURISMO, JULIA RITA CAMPOS DE LA TORRE.- FIRMA.- EL SECRETARIO DE CULTURA, ENRIQUE SEMO CALEV.- FIRMA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 13 DE ENERO DE 2006.
 
@@ -998,12 +1102,20 @@ G.O. 15 DE MAYO DE 2007.
 
 G.O. 8 DE NOVIEMBRE DE 2007.
 
-DECRETO POR EL QUE SE REFORMA LOS ARTICULOS 25 Y 31.
+DECRETO POR EL QUE SE REFORMA LOS ARTÍCULOS 25 Y 31.
 
 ÚNICO: El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
 G.O. 8 DE NOVIEMBRE DE 2007.
 
-DECRETO POR EL QUE SE REFORMA LOS ARTICULOS 5 Y 19.
+DECRETO POR EL QUE SE REFORMA LOS ARTÍCULOS 5 Y 19.
 
 ÚNICO: El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 9 DE MAYO DE 2012.
+
+PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para su debida publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial del (sic) la Federación.
+
+SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor el día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- En el término de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones reglamentarias que correspondan.
