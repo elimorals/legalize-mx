@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-del-instituto-estatal-electoral-de-baja-379
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-02-19"
-last_updated: "2010-06-10"
+last_updated: "2012-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL ELECTORAL DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JUNIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE MAYO DE 2012.
 
 Reglamento publicado en el Extraordinario al Boletín Oficial del Estado de Baja California Sur, el jueves 19 de febrero de 2004.
 
@@ -827,7 +827,9 @@ XV. Ejercer las partidas presupuestales aprobadas, aplicando las políticas, nor
 
 XVI. De conformidad con la normatividad aplicable, establecer políticas, lineamientos y directrices para que los Comités organicen, administren sus recursos financieros, humanos, materiales y técnicos;
 
-XVII. Acordar lo conducente respecto a incentivos, haber por retiro, seguros de separación garantizado y demás prestaciones, en base a la disposición presupuestaria.
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 10 DE MAYO DE 2012)</small>
+
+XVII. Acordar lo conducente respecto a incentivos, haber por retiro, seguros de separación garantizado y demás prestaciones, en base a la disposición presupuestaria, y conforme al Manual de Administración de Remuneraciones que apruebe el Consejo General.
 
 Las demás que le confiera la Ley, el Consejo General y el presente Reglamento.
 
@@ -844,6 +846,106 @@ IV. Reunirse cuando lo convoque el titular de la Comisión;
 V. Tomar decisiones por consenso de sus integrantes, y en caso de empate, el Titular de la Comisión, tendrá voto de calidad;
 
 VI. Las demás que le delegue el Consejo General, la Ley o los reglamentos.
+
+> <small>(ADICIONADO, B.O. 10 DE MAYO DE 2012)</small>
+
+El Consejo General contará además con tres comisiones especiales, las cuales estarán integradas según lo determine el Consejo General mediante el Acuerdo correspondiente y estarán sujetas a las limitaciones presupuestales del Instituto Estatal Electoral de Baja California Sur, mismas que tendrán las siguientes atribuciones:
+
+G) COMISIÓN ESPECIAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN:
+
+I. Clasificar la información generada por las comisiones del Instituto y partidos políticos;
+
+II. Requerir a loa (sic) comisiones del Instituto, y a los partidos políticos, cualquier información temporalmente reservada o confidencial y, en general cualquier documentación o insumo que le permita el adecuado cumplimiento de sus atribuciones;
+
+III. Presentar al Consejo General, el anteproyecto de políticas y programas en materia de transparencia y acceso a la información;
+
+IV. Ejecutar las políticas que en materia de transparencia y acceso a la Información apruebe el Consejo General;
+
+V. Aprobar los Lineamientos en materia de archivo, clasificación y protección de datos personales y los demás necesarios para garantizar la transparencia y acceso a la información en el Instituto;
+
+VI. Recibir los informes que especifiquen los recursos humanos y materiales empleados por las Comisiones en la atención de las solicitudes de información;
+
+VII. Supervisar las tareas del Archivo Institucional, respecto al almacenamiento y resguardo de los archivos generados por el Instituto, en coordinación con la Comisión de Capacitación y Educación Cívica.
+
+VIII. Elaborar su programa anual de actividades y su informe para presentarlos al Consejo General,
+
+IX. Emitir criterios de interpretación de la normatividad de transparencia en el ámbito institucional.
+
+X Dar vista a las instancias competentes, de las posibles irregularidades en que incurran los servidores públicos del Instituto encargados de garantizar el derecho de acceso a la información;
+
+XI. Las demás que le confiera el Consejo General, este Reglamento y cualquier otra disposición aplicable contenida en la Legislación adjetiva en Baja California Sur.
+
+H) COMISIÓN ESPECIAL DE PLANEACIÓN ESTRATÉGICA
+
+I. Presentar al Titular de la Comisión de Administración la propuesta de políticas, programas generales y estrategias de trabajo de la Comisión, para el adecuado cumplimiento de sus atribuciones;
+
+II. Acordar con el Titular de la Comisión de Administración, los asuntos de su competencia;
+
+III. Proponer al Consejero Presidente para su aprobación por el Consejo General, el Modelo Integral de Planeación para el Instituto Estatal Electoral y el Plan Estratégico Institucional, así como promover las actualizaciones que correspondan, de acuerdo a las necesidades del Instituto Estatal Electoral de Baja California Sur;
+
+IV. Establecer un mecanismo de vinculación que permita coordinar acciones con las demás Comisiones, para la operación del Plan Estratégico Institucional y las estrategias aprobadas por el Consejo General;
+
+V. Coordinar la construcción de manera participativa e incluyente de la visión estratégica a largo plazo del Instituto Estatal Electoral, así como las actividades inherentes o derivadas del Plan Estratégico Institucional;
+
+VI. Proponer a (sic) Consejo General por conducto del Consejero Presidente, los lineamientos metodológicos que orienten la correcta alineación de los instrumentos de planeación del Instituto con su rumbo estratégico:
+
+VII. Brindar apoyo técnico y asesoría a las Comisiones que así lo soliciten en la formulación de sus políticas y proyectos, vinculados al Plan Estratégico;
+
+VIII. Proponer a las Comisiones la implementación de políticas, programas y proyectos de no discriminación;
+
+IX. Administrar la información que se genere acerca del cumplimiento de los planes, programas y proyectos institucionales;
+
+X. Coadyuvar con la Comisión de Administración, en el diseño e implantación de propuestas metodológicas aplicadas a la formulación del anteproyecto de presupuesto del Instituto y en la integración de la cartera institucional de proyectos;
+
+XI. Apoyar a la Comisión de Administración, en el proceso de planeación y evaluación financiera que aporte elementos sobre el rumbo estratégico del Instituto y la viabilidad de los proyectos institucionales;
+
+XII. Proponer iniciativas estratégicas que coadyuven a que el Instituto haga más eficientes, eficaces y transparentes sus procesos administrativos y organizacionales;
+
+XIII. Apoyar a las Comisiones del Instituto cuando así lo soliciten, en la capacitación para el uso de metodologías de innovación administrativa y el desarrollo de mejores prácticas;
+
+XlV. Concertar en acuerdo con el Consejero Presidente, convenios de colaboración que coadyuven en el logro de los programas y proyectos estratégicos de la Comisión Especial de Planeación Estratégica dentro de los procesos de planeación y mejoramiento de la administración;
+
+XV. Coadyuvar con las comisiones del Consejo General; y
+
+XVI. Las demás que le confiera el Consejo General, este Reglamento y cualquier otra disposición aplicable contenida en la Legislación adjetiva en Baja California Sur.
+
+I) COMISIÓN ESPECIAL DE CÓMPUTO Y SERVICIOS INFORMÁTICOS:
+
+I. Proponer al Secretario General los reglamentos y lineamientos en materia de informática y telecomunicaciones para su presentación ante el Consejo, según corresponda;
+
+II. Coadyuvar con el Secretario General en la definición y aplicación de las Políticas y Programas Generales aprobados por el Consejo, en materia de informática y telecomunicaciones;
+
+III. Elaborar y proponer al Secretario General los proyectos estratégicos en materia de informática que coadyuven al desarrollo de las actividades del Instituto, para su presentación ante el Consejo, según corresponda;
+
+IV. Administrar la Red Informática del Instituto, que interconecta a las comisiones para la transmisión de voz, datos y video;
+
+V. Determinar las políticas y procedimientos en materia de informática y telecomunicaciones para el uso racional de los recursos asociados a dicha materia;
+
+VI. Fomentar y aplicar mejores prácticas, estándares y normas a los procesos relacionados con tecnologías de la información a nivel institucional;
+
+VII. Establecer y aplicar políticas y estándares en materia de seguridad informática;
+
+VIII. Apoyar a las diversas áreas del Instituto en la optimización de sus procesos, mediante el desarrollo y/o la implementación de sistemas y servicios informáticos y de telecomunicaciones;
+
+IX. Con base al inventario de bienes informáticos, proponer planes de actualización y aprovechamiento de la infraestructura informática y de telecomunicaciones;
+
+X. Establecer los mecanismos necesarios para garantizar que la información institucional esté disponible en todo momento;
+
+XI. Brindar asesoría y soporte técnico en materia de informática a las diversas áreas del Instituto;
+
+XII. En coordinación con la Comisión de Administración, brindar capacitación en materia de informática al personal del Instituto;
+
+XIII. Investigar y analizar de manera permanente, nuevas tecnologías en materia de informática y comunicaciones que puedan ser aplicadas en las tareas del Instituto;
+
+XIV. Acordar con el Secretario General los asuntos de su competencia;
+
+XV. Colaborar con la Comisión de Administración en la operación, modernización, actualización y mantenimiento de la infraestructura informática necesaria para la administración de los recursos humanos, materiales y financieros;
+
+XVI. Rendir informes trimestrales y anuales de actividades a la Secretaría General para que los haga del conocimiento del Consejo;
+
+XVII. En su caso, coadyuvar con las Comisiones del Consejo
+
+XVIII. Las demás que le confiera el Consejo, este Reglamento y cualquier otra disposición aplicable contenida en la Legislación adjetiva en Baja California Sur.
 
 > <small>(REFORMADO, B.O. 10 DE JUNIO DE 2010)</small>
 
@@ -1001,7 +1103,7 @@ APARTADO PRIMERO
 
 DE LOS COMITÉS MUNICIPALES ELECTORALES
 
-> <small>N. DE E. EN RELACION CON LA VIGENCIA DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA VIGENCIA DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
 > <small>(REFORMADO, B.O. 10 DE JUNIO DE 2010)</small>
 
@@ -1445,7 +1547,7 @@ Instalada la sesión, serán discutidos y en su caso votados los asuntos conteni
 
 Al aprobarse el orden del día, el Consejo General o Comité, podrá decidir y a petición de alguno de sus integrantes, dispensar la lectura de los documentos que hayan sido previamente circulados.
 
-> <small>N. DE E. EN RELACION CON LA VIGENCIA DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA VIGENCIA DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
 > <small>(REFORMADO, B.O. 10 DE JUNIO DE 2010)</small>
 
@@ -1720,3 +1822,11 @@ TERCERO.- Para su debido conocimiento publíquese el presente Reglamento en el B
 CUARTO.- El presente Reglamento puede ser adicionado o reformado cuando el Consejo General lo considere necesario.
 
 QUINTO.- Durante el proceso estatal electoral 2010 - 2011, los Comités Municipales Electorales se instalarán a más tardar el 21 de agosto del año anterior al de la elección, por lo que el artículo 35 y 61 del presente Reglamento, será vigente para el proceso estatal electoral 2014-2015, de conformidad con el artículo 108 Transitorio de la Ley Electoral del Estado de Baja California Sur, vigente a partir del 13 de marzo de 2010.
+
+B.O. 10 DE MAYO DE 2012.
+
+.
+
+TERCERO: Las modificaciones al Reglamento Interior del Instituto Estatal Electoral de Baja California Sur adicionado, entrarán en vigor a partir del día siguiente de la publicación del presente Acuerdo en el Boletín Oficial del Gobierno del Estado.
+
+...
