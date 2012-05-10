@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2012-04-21"
+last_updated: "2012-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "JAL"
 ---
 # LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE MAYO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE EDUCACIÓN DEL ESTADO DE JALISCO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2012.
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 21 DE ABRIL DE 2012.</small>
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE MAYO DE 2012.</small>
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -395,8 +393,6 @@ Los ayuntamientos podrán sin perjuicio de la concurrencia de las autoridades ed
 
 Los Ayuntamientos podrán celebrar convenios entre sí y con el Ejecutivo del Estado, con el fin de coordinar o unificar sus actividades educativas y cumplir de mejor manera las responsabilidades a su cargo.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE MAYO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTICULO 19.
 
 Corresponde específicamente a los Ayuntamientos las siguientes obligaciones:
@@ -415,9 +411,9 @@ VI.- Cooperar con las autoridades escolares en la atención de los servicios de 
 
 VII.- Establecer y sostener servicios de vigilancia escolar;
 
-> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+(REFORMADA, P.O. 24 DE MARZO DE 2012) (F. DE E., P.O. 10 DE MAYO DE 2012)
 
-IX (SIC). Promover y coordinar con las autoridades competentes, con los Consejos Municipales de Participación Social en Educación y los consejos escolares, la realización de programas de educación para la salud, la prevención de accidentes y mejoramiento del ambiente, así como campañas para prevenir, combatir y erradicar la drogadicción, el alcoholismo y el tabaquismo;
+VIII. Promover y coordinar con las autoridades competentes, con los Consejos Municipales de Participación Social en Educación y los consejos escolares, la realización de programas de educación para la salud, la prevención de accidentes y mejoramiento del ambiente, así como campañas para prevenir, combatir y erradicar la drogadicción, el alcoholismo y el tabaquismo;
 
 > <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
