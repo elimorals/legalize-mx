@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2012-03-31"
+last_updated: "2012-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 10 DE MAYO Y 5 DE JUNIO DE 2012, NÚMERO 7, SECCIÓN II, PÁGINAS 3 A 4 Y 5 A 13; EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE MAYO DE 2012.</small>
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -2183,8 +2183,6 @@ XIX. Las demás que establezca esta ley y otras disposiciones legales aplicables
 
 7. Las resoluciones de las comisiones, se toman por mayoría relativa y, en caso de empate, el Presidente tiene el voto de calidad.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATA PUBLICADA EL 10 DE MAYO DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 108.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 2005)</small>
@@ -2209,7 +2207,9 @@ III. Se trate de acuerdos legislativos, que se dictaminarán dentro de los trein
 
 IV. Tratándose de las iniciativas que involucren la enajenación o actos traslativos de dominio sobre bienes inmuebles patrimonio del estado de Jalisco, derivadas de proyectos productivos de los contemplados en la Ley para el Desarrollo Económico y la Ley para Promoción a la Inversión, ambas del estado de Jalisco, las comisiones que conozcan de dichas iniciativas deberán presentar su dictamen ante la asamblea en un plazo no mayor a treinta días naturales, contados a partir de la fecha de su recepción y turno, y si a juicio de la comisión, la iniciativa o el asunto requiere de un plazo mayor, esta deberá solicitar una prórroga hasta por un máximo de diez días naturales a la Asamblea del Congreso para su dictaminación, tomando en consideración siempre los criterios de sustentabilidad y desarrollo contemplados en las leyes antes referidas para su dictaminación.
 
-Concluidos los plazos señalados en el párrafo anterior, y tratándose únicamente para casos de los ahí contemplados, la Asamblea del Congreso deberá resolver el dictamen de referencia, en un término no mayor de 15 días naturales posteriores (sic) la fecha del turno del dictamen, por parte de las comisiones dictaminadoras, al área correspondiente. Concluido el término señalado anteriormente, sin que hubiese resuelto dicho dictamen, se entenderá por aprobada la iniciativa en cuestión, bajo el concepto de la afirmativa ficta.
+> <small>(F. DE E., P.O. 10 DE MAYO DE 2012)</small>
+
+Concluidos los plazos señalados en el párrafo anterior, y tratándose únicamente para casos de los ahí contemplados, la Asamblea del Congreso deberá resolver el dictamen de referencia, en un término no mayor de 15 días naturales posteriores a la fecha del turno del dictamen, por parte de las comisiones dictaminadoras, al área correspondiente. Concluido el término señalado anteriormente, sin que hubiese resuelto dicho dictamen, se entenderá por aprobada la iniciativa en cuestión, bajo el concepto de la afirmativa ficta.
 
 > <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -2217,21 +2217,25 @@ Concluidos los plazos señalados en el párrafo anterior, y tratándose únicame
 
 3. En el supuesto que una comisión incumpla lo señalado en los párrafos anteriores, el Presidente de la Mesa Directiva turnará el asunto de inmediato a la Junta de Coordinación Política para que, a más tardar, en la sesión siguiente proponga a la Asamblea la creación de la comisión especial con carácter transitorio que debe concluir el estudio y dictamen de la iniciativa o asunto que se trate, concediendo para tal efecto, un plazo no mayor a treinta días naturales, contados a partir de la fecha en que la comisión es integrada.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATA PUBLICADA EL 10 DE MAYO DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2012)</small>
 
 ###### Artículo 108
 
-Bis. Además de las facultades concedidas en la Ley Orgánica del Poder Judicial del Estado de Jalisco, las Salas del Poder Judicial del Estado que conozcan de la materia civil y mercantil contarán con facultades para conocer de las demandas de afirmativa ficta que ante ellos haga valer el Ejecutivo del Estado, para actos de enajenación de bienes inmuebles propiedad de los organismos señalados en la Ley para el Desarrollo Económico y la Ley para la Promoción a la Inversión, ambas del Estado de Jalisco, y cuyo objeto de enajenación sea precisamente el impulso y la promoción del Desarrollo Económico y la Inversión, en los términos de lo señalado por el artículo anterior de esta Ley y las cuales se regularán conforme al siguiente procedimiento:
+Bis.
+
+Además de las facultades concedidas en la Ley Orgánica del Poder Judicial del Estado de Jalisco, las Salas del Poder Judicial del Estado que conozcan de la materia civil y mercantil contarán con facultades para conocer de las demandas de afirmativa ficta que ante ellos haga valer el Ejecutivo del Estado, para actos de enajenación de bienes inmuebles propiedad de los organismos señalados en la Ley para el Desarrollo Económico y la Ley para la Promoción a la Inversión, ambas del Estado de Jalisco, y cuyo objeto de enajenación sea precisamente el impulso y la promoción del Desarrollo Económico y la Inversión, en los términos de lo señalado por el artículo anterior de esta Ley y las cuales se regularán conforme al siguiente procedimiento:
 
 I. El Titular del Poder Ejecutivo del Estado de Jalisco, deberá presentar la solicitud de declaratoria ante cualquier Sala del Poder Judicial que conozca de la materia civil o mercantil, dentro de los cinco días naturales siguientes a que hubiese fenecido el plazo que el Congreso del Estado tiene para la resolución de las iniciativas de procedencia solicitadas para la enajenación de bienes inmuebles propiedad del Estado, para actos de promoción del desarrollo económico y la inversión;
 
-II. La Sala del Poder Judicial admitirá la solicitud y correrá traslado al Congreso del Estado dentro de los siguientes cinco días naturales de la presentación de la misma, para que en un término de cinco días naturales siguientes a la notificación, haga constar ante el (sic) Sala la existencia o no de la resolución que dio origen a la solicitud de la afirmativa ficta;
+> <small>(F. DE E., P.O. 10 DE MAYO DE 2012)</small>
 
-III. La Sala del Poder Judicial deberá resolver sobre la procedencia de la solicitud de la declaratoria dentro de los diez días naturales siguientes a la conclusión del plazo de la fracción anterior. En los casos en que el Congreso no de contestación a la notificación señalada en la fracción anterior, o en la contestación no se haga constar la resolución de improcedencia debidamente notificada en tiempo y forma al Titular del Ejecutivo del Estado, el (sic) Sala deberá resolver la procedencia de la solicitud de enajenación de bienes inmuebles; y
+II. La Sala del Poder Judicial admitirá la solicitud y correrá traslado al Congreso del Estado dentro de los siguientes cinco días naturales de la presentación de la misma, para que en un término de cinco días naturales siguientes a la notificación, haga constar ante la Sala la existencia o no de la resolución que dio origen a la solicitud de la afirmativa ficta;
+
+> <small>(F. DE E., P.O. 10 DE MAYO DE 2012)</small>
+
+III. La Sala del Poder Judicial deberá resolver sobre la procedencia de la solicitud de la declaratoria dentro de los diez días naturales siguientes a la conclusión del plazo de la fracción anterior. En los casos en que el Congreso no de contestación a la notificación señalada en la fracción anterior, o en la contestación no se haga constar la resolución de improcedencia debidamente notificada en tiempo y forma al Titular del Ejecutivo del Estado, la Sala deberá resolver la procedencia de la solicitud de enajenación de bienes inmuebles; y
 
 IV. Es supletoria de este procedimiento la Ley Orgánica del Poder Judicial del Estado de Jalisco, el Código Civil y de Procedimientos Civiles y demás Leyes aplicables.
 
@@ -4061,20 +4065,22 @@ P.O. 27 DE DICIEMBRE DE 2011.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE MAYO DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 P.O. 31 DE MARZO DE 2012.
 
 PRIMERO. El presente decreto entrará en vigor a partir del 1 de enero del año 2013, previa su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Se abroga el decreto No. 18797 de la Ley para el Fomento Económico del Estado de Jalisco y demás disposiciones legales que se opongan al presente decreto.
 
-TERCERO. El Gobernador del Estado, en acuerdo con las secretarías de Promoción Económica y de Administración y Finanzas del Gobierno del Estado, atendiendo los criterios de eficiencia administrativa y para el debido funcionamiento del organismo público creado en la Ley para la Promoción del (sic) Inversiones del Estado de Jalisco, deberá proveer la transferencia de personal y de recursos materiales que permitan el cumplimiento de sus respectivos fines y competencias establecidos en las mismas, observando en todo momento el estricto respeto a los derechos laborales de los trabajadores de la Secretaría, reconociéndoles en todo momento la antigüedad del personal que haya de ser transferido.
+> <small>(F. DE E., P.O. 10 DE MAYO DE 2012)</small>
 
-CUARTO. El Gobierno del Estado de Jalisco, contemplará dentro de su proyecto de egresos del 2013, una asignación presupuestal suficiente para la creación del organismo público descentralizado Invierte en Jalisco y la subsecuente constitución del Fondo contemplado en el artículo 6° de la Ley de Promoción a la Inversión del Estado de Jalisco.
+TERCERO. El Gobernador del Estado, en acuerdo con las secretarías de Promoción Económica y de Administración y Finanzas del Gobierno del Estado, atendiendo los criterios de eficiencia administrativa y para el debido funcionamiento del organismo público creado en la Ley para la Promoción de las Inversiones del Estado de Jalisco, deberá proveer la transferencia de personal y de recursos materiales que permitan el cumplimiento de sus respectivos fines y competencias establecidos en las mismas, observando en todo momento el estricto respeto a los derechos laborales de los trabajadores de la Secretaría, reconociéndoles en todo momento la antigüedad del personal que haya de ser transferido.
+
+CUARTO. El Gobierno del Estado de Jalisco, contemplará dentro de su proyecto de egresos del 2013, una asignación presupuestal suficiente para la creación del organismo público descentralizado Invierte (sic) en Jalisco y la subsecuente constitución del Fondo contemplado en el artículo 6° de la Ley de Promoción a la Inversión del Estado de Jalisco.
 
 QUINTO. El patrimonio con que actualmente cuenta el Consejo Estatal de Promoción Económica creado por la Ley de Fomento Económico del Estado de Jalisco, pasará a ser patrimonio del mismo Consejo señalado en la nueva Ley para el Desarrollo Económico del Estado de Jalisco. De igual manera quedarán bajo el encargo del Consejo Estatal de Promoción Económica de la nueva Ley para el Desarrollo Económico, los recursos materiales, financieros y humanos, así como todos los derechos y obligaciones que actualmente tiene del Consejo Estatal de Promoción Económica, para lo cual las secretarías de Administración y de Finanzas del Gobierno del Estado deberán prestar todas las facilidades y realizar todas las gestiones necesarias, observando en todo momento el respeto irrestricto a los derechos laborales de los trabajadores del organismo y el reconocimiento de su propia antigüedad laboral.
 
 SEXTO. Para el caso de lo contemplado en el artículo 66, párrafos primero y segundo, de la Ley para el Desarrollo Económico del Estado de Jalisco, las obligaciones ahí contenidas deberán cumplimentarse, en los términos de lo señalado por la propia Ley de Planeación correspondiente.
 
-SÉPTIMA. Las solicitudes de apoyo que presenten las personas físicas o jurídicas ante el Consejo de Promoción Económica del Estado de Jalisco, podrán hacer referencia al Expediente Único que contempla la Ley de Mejora Regulatoria del Estado de Jalisco.
+> <small>(F. DE E., P.O. 10 DE MAYO DE 2012)</small>
+
+SÉPTIMO. Las solicitudes de apoyo que presenten las personas físicas o jurídicas ante el Consejo de Promoción Económica del Estado de Jalisco, podrán hacer referencia al Expediente único que contempla la Ley de Mejora Regulatoria del Estado de Jalisco.
