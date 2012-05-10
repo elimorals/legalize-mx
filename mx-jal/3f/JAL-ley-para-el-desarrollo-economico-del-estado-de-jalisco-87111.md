@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-desarrollo-economico-del-estado-de-jalisco-87111"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-31"
-last_updated: "2012-03-31"
+last_updated: "2012-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87111&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,15 @@ state: "JAL"
 ---
 # LEY PARA EL DESARROLLO ECONOMICO DEL ESTADO DE JALISCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 10 DE MAYO Y 5 DE JUNIO DE 2012, NÚMERO 7, SECCIÓN II, PÁGINAS 3 A 4 Y 5 A 13; EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE JUNIO DE 2012; PÁGINAS 3 Y 4, EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO
 
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NÚMERO 23965/LIX/12, PUBLICADO EN LA SECCIÓN V DEL P.O. DE 31 DE MARZO DE 2012, ENTRARÁ EN VIGOR A PARTIR DEL 1 DE ENERO DEL AÑO 2013.</small>
+
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 5 DE JUNIO DE 2012, NÚMERO 7, SECCIÓN II.</small>
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 31 de marzo de 2012.
 
@@ -345,8 +349,6 @@ III. Económico: Otorgamiento de créditos con costos iguales o inferiores al me
 
 IV. De infraestructura: Realización de obra pública en comunicaciones y servicios que coadyuven directamente en el fortalecimiento de las actividades productivas.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE JUNIO DE 2012, NÚMERO 7 SECCIÓN II, PÁGINAS 5 A 13, EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 17.
 
 En el otorgamiento de los apoyos que establece esta Ley y conforme a lo establecido en el Reglamento, se aplicarán los siguientes criterios:
@@ -372,8 +374,6 @@ Para ser sujeto de los apoyos para el desarrollo económico que contempla esta L
 No son sujetos de las promociones o apoyos fiscales o económicos que se establecen en esta ley, las personas físicas o jurídicas que hayan recibido previamente apoyos de la misma o similar naturaleza, por parte del Gobierno del Estado y que hayan incumplido con los compromisos asumidos para tal fin.
 
 Tratándose de los sujetos antes mencionados y que sean sujetos de apoyos en materia de servicios, tendrán siempre para ellos un costo de recuperación.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE JUNIO DE 2012, NÚMERO 7 SECCIÓN II, PÁGINAS 5 A 13, EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### Artículo 19.
 
@@ -412,8 +412,6 @@ IV. Registro de los reportes de las visitas de verificación, así como sancione
 V. Los demás datos que señale el Reglamento o que determine la Secretaría.
 
 Los beneficiarios de promociones y apoyos deberán informar a la Secretaría sobre cualquier cambio de los datos e información de identificación personal dentro de los quince días hábiles siguientes al hecho que lo generó o del que se tenga conocimiento.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE JUNIO DE 2012, NÚMERO 7 SECCIÓN II, PÁGINAS 5 A 13, EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### Artículo 22.
 
@@ -464,8 +462,6 @@ Las dependencias de la administración pública estatal, sus organismos público
 ## Título Segundo. De las Autoridades Sujetas a esta Ley
 
 ### Capítulo I. De la Secretaria de Promoción Económica
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE JUNIO DE 2012, NÚMERO 7 SECCIÓN II, PÁGINAS 5 A 13, EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### Artículo 26.
 
@@ -651,8 +647,6 @@ En el Presupuesto de Egresos del Poder Ejecutivo del Estado se deberá establece
 
 El Consejo Estatal de Promoción Económica de Jalisco contará con una Junta de Gobierno, que será su máximo órgano de gobierno, la cual contará además con un Secretario Técnico, el cual será nombrado por el titular del Poder Ejecutivo del Estado.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE JUNIO DE 2012, NÚMERO 7 SECCIÓN II, PÁGINAS 5 A 13, EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 33.
 
 Corresponde a la Junta de Gobierno del Consejo, además de las contempladas en el artículo 29 de esta Ley, las siguientes atribuciones:
@@ -676,8 +670,6 @@ VIII. Autorizar la condonación, reducción o conmutación de las sanciones impu
 IX. Tramitar ante la Secretaría de Finanzas del Gobierno del Estado, la ejecución de fianzas, el cobro de garantías y créditos fiscales de que tenga conocimiento el Consejo, y
 
 X. Las demás aplicables en los términos de esta Ley y su Reglamento.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE JUNIO DE 2012, NÚMERO 7 SECCIÓN II, PÁGINAS 5 A 13, EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### Artículo 34.
 
@@ -758,8 +750,6 @@ Los miembros de la Junta de Gobierno, una vez designados por las instituciones c
 Los integrantes permanentes del Consejo tienen los mismos derechos.
 
 Cualquier integrante podrá hacer propuestas relativas al ejercicio de las atribuciones del Consejo.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE JUNIO DE 2012, NÚMERO 7 SECCIÓN II, PÁGINAS 5 A 13, EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### Artículo 38.
 
@@ -854,8 +844,6 @@ XIII. Las demás que señale esta Ley y su Reglamento.
 ###### Artículo 46.
 
 El Director General y los servidores públicos que determine la Junta de Gobierno, que manejen fondos y valores, deberán garantizar su caución y manejo a favor del propio organismo, por la cuantía que se acuerde por la misma Junta.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE JUNIO DE 2012, NÚMERO 7 SECCIÓN II, PÁGINAS 5 A 13, EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### Artículo 47.
 
@@ -1265,8 +1253,6 @@ Los inspectores o personas autorizadas del Consejo, tienen estrictamente prohibi
 
 ### Capítulo III. De las Infracciones y Sanciones a Beneficiarios del Consejo Estatal de Promoción Económica de Jalisco
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE JUNIO DE 2012, NÚMERO 7 SECCIÓN II, PÁGINAS 5 A 13, EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 83.
 
 Son conductas susceptibles de sanción por parte de las personas físicas o jurídicas beneficiadas por promoción o apoyo del Consejo, o representantes legales y/o autorizadas, las siguientes:
@@ -1339,13 +1325,9 @@ Las sanciones que haya impuesto el Consejo podrán ser condonadas, reducidas o c
 
 ### Capítulo IV. De las Infracciones y Sanciones a Servidores Públicos
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE JUNIO DE 2012, NÚMERO 7 SECCIÓN II, PÁGINAS 5 A 13, EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 90.
 
 La responsabilidad administrativa, las infracciones en que incurran los servidores públicos que laboren en el Consejo, se sancionarán conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco y sus Municipios, sin menoscabo de las sanciones administrativas, civiles y penales que correspondan, en su caso.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE JUNIO DE 2012, NÚMERO 7 SECCIÓN II, PÁGINAS 5 A 13, EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### Artículo 91.
 
@@ -1381,13 +1363,9 @@ La Junta de Gobierno del Consejo tendrá un plazo de cinco días hábiles, a par
 
 En contra de la resolución que resuelva el recurso de inconformidad, no procederá ningún otro recurso; sin perjuicio de que el particular ejercite las acciones y derechos que estima pertinentes ante los órganos jurisdiccionales competentes.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE JUNIO DE 2012, NÚMERO 7 SECCIÓN II, PÁGINAS 5 A 13, EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 97.
 
 Para todo lo no contemplado en los procedimientos administrativos señalados por esta Ley, se aplicará supletoriamente lo señalado por la Ley del Procedimiento Administrativo para el Estado de Jalisco y sus Municipios.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE MAYO DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 T R A N S I T O R I O S
 
@@ -1395,15 +1373,19 @@ PRIMERO. El presente decreto entrará en vigor a partir del 1 de enero del año 
 
 SEGUNDO. Se abroga el decreto No. 18797 de la Ley para el Fomento Económico del Estado de Jalisco y demás disposiciones legales que se opongan al presente decreto.
 
-TERCERO. El Gobernador del Estado, en acuerdo con las secretarías de Promoción Económica y de Administración y Finanzas del Gobierno del Estado, atendiendo los criterios de eficiencia administrativa y para el debido funcionamiento del organismo público creado en la Ley para la Promoción del (sic) Inversiones del Estado de Jalisco, deberá proveer la transferencia de personal y de recursos materiales que permitan el cumplimiento de sus respectivos fines y competencias establecidos en las mismas, observando en todo momento el estricto respeto a los derechos laborales de los trabajadores de la Secretaría, reconociéndoles en todo momento la antigüedad del personal que haya de ser transferido.
+> <small>(F. DE E., P.O. 10 DE MAYO DE 2012)</small>
 
-CUARTO. El Gobierno del Estado de Jalisco, contemplará dentro de su proyecto de egresos del 2013, una asignación presupuestal suficiente para la creación del organismo público descentralizado Invierte en Jalisco y la subsecuente constitución del Fondo contemplado en el artículo 6° de la Ley de Promoción a la Inversión del Estado de Jalisco.
+TERCERO. El Gobernador del Estado, en acuerdo con las secretarías de Promoción Económica y de Administración y Finanzas del Gobierno del Estado, atendiendo los criterios de eficiencia administrativa y para el debido funcionamiento del organismo público creado en la Ley para la Promoción de las Inversiones del Estado de Jalisco, deberá proveer la transferencia de personal y de recursos materiales que permitan el cumplimiento de sus respectivos fines y competencias establecidos en las mismas, observando en todo momento el estricto respeto a los derechos laborales de los trabajadores de la Secretaría, reconociéndoles en todo momento la antigüedad del personal que haya de ser transferido.
+
+CUARTO. El Gobierno del Estado de Jalisco, contemplará dentro de su proyecto de egresos del 2013, una asignación presupuestal suficiente para la creación del organismo público descentralizado Invierte (sic) en Jalisco y la subsecuente constitución del Fondo contemplado en el artículo 6° de la Ley de Promoción a la Inversión del Estado de Jalisco.
 
 QUINTO. El patrimonio con que actualmente cuenta el Consejo Estatal de Promoción Económica creado por la Ley de Fomento Económico del Estado de Jalisco, pasará a ser patrimonio del mismo Consejo señalado en la nueva Ley para el Desarrollo Económico del Estado de Jalisco. De igual manera quedarán bajo el encargo del Consejo Estatal de Promoción Económica de la nueva Ley para el Desarrollo Económico, los recursos materiales, financieros y humanos, así como todos los derechos y obligaciones que actualmente tiene del Consejo Estatal de Promoción Económica, para lo cual las secretarías de Administración y de Finanzas del Gobierno del Estado deberán prestar todas las facilidades y realizar todas las gestiones necesarias, observando en todo momento el respeto irrestricto a los derechos laborales de los trabajadores del organismo y el reconocimiento de su propia antigüedad laboral.
 
 SEXTO. Para el caso de lo contemplado en el artículo 66, párrafos primero y segundo, de la Ley para el Desarrollo Económico del Estado de Jalisco, las obligaciones ahí contenidas deberán cumplimentarse, en los términos de lo señalado por la propia Ley de Planeación correspondiente.
 
-SÉPTIMA. Las solicitudes de apoyo que presenten las personas físicas o jurídicas ante el Consejo de Promoción Económica del Estado de Jalisco, podrán hacer referencia al Expediente Único que contempla la Ley de Mejora Regulatoria del Estado de Jalisco.
+> <small>(F. DE E., P.O. 10 DE MAYO DE 2012)</small>
+
+SÉPTIMO. Las solicitudes de apoyo que presenten las personas físicas o jurídicas ante el Consejo de Promoción Económica del Estado de Jalisco, podrán hacer referencia al Expediente único que contempla la Ley de Mejora Regulatoria del Estado de Jalisco.
 
 SALÓN DE SESIONES DEL CONGRESO DEL ESTADO GUADALAJARA, JALISCO, 24 DE ENERO DE 2012
 
