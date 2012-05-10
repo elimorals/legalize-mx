@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-penales-para-el-estado-de-7994"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-17"
-last_updated: "2012-02-15"
+last_updated: "2012-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 17 de enero de 1987.
 
@@ -1089,9 +1089,9 @@ a) Secuestro en los casos de los artículos 391 y 391 Bis.
 
 XII.- De los delitos contra el patrimonio de las personas.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2012)</small>
 
-a) Robo previsto por el artículo 399, cuando se realice en cualquiera de las circunstancias señaladas en los artículos 405, 406, 407 fracciones I, VIII, IX, X y XVIII, 409, exceptuando de éste los casos en que por el valor de lo robado se esté en la hipótesis del artículo 402 fracción I;
+a) Robo previsto por el artículo 399, cuando se realice en cualquiera de las circunstancias señaladas en los artículos 405, 406, 407 fracciones I, VIII, IX, X, XVIII y XIX, 409, exceptuando de éste los casos en que por el valor de lo robado se esté en la hipótesis del artículo 402 fracción I;
 
 b) Robo previsto por el artículo 410, exceptuando de éste el caso previsto en su última parte, cuando el monto de lo robado no exceda del señalado por el artículo 402 fracción I, 411;
 
@@ -5016,6 +5016,12 @@ P.O. 15 DE DICIEMBRE DE 2011.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
 
 P.O. 15 DE FEBRERO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE MAYO DE 2012.
 
 ###### ARTÍCULO ÚNICO.
 
