@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-la-secretaria-de-promocion-y-83436"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-10-20"
-last_updated: "2011-10-20"
+last_updated: "2012-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCS"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE PROMOCION Y DESARROLLO ECONOMICO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE MAYO DE 2012 EN EL B.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE PROMOCIÓN Y DESARROLLO ECONÓMICO DEL ESTADO DE BAJA CALIFORNIA SUR
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 10 DE MAYO DE 2012.</small>
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el jueves 20 de octubre de 2011.
 
@@ -38,8 +38,6 @@ REGLAMENTO INTERIOR DE LA SECRETARIA DE PROMOCIÓN Y DESARROLLO ECONOMICO
 ###### ARTÍCULO 1.
 
 La Secretaría de Promoción y Desarrollo Económico, como Dependencia del Poder Ejecutivo Estatal, tiene a su cargo el desempeño de las atribuciones y facultades que le encomiendan la Ley Orgánica de la Administración Pública del Estado de Baja California Sur, así como las demás leyes, reglamentos, decretos, acuerdos y órdenes del Ejecutivo del Estado que de ellas emanen.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE MAYO DE 2012 EN EL B.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 2.
 
@@ -59,7 +57,9 @@ V. Dirección General de Administración y Finanzas.
 
 B.- Las Unidades Administrativas siguientes:
 
-I. Dirección de Estadística e Informática;
+> <small>(F. DE E., B.O. 10 DE MAYO DE 2012)</small>
+
+I. Dirección de Informática y Estadística;
 
 II. Dirección de Desarrollo Económico;
 
@@ -75,7 +75,9 @@ VII. Dirección de Desarrollo Comunitario;
 
 VIII. Dirección de Vinculación Social;
 
-IX. Dirección de Telecomunicaciones y Energía;
+> <small>(F. DE E., B.O. 10 DE MAYO DE 2012)</small>
+
+IX. Dirección de Energía y Telecomunicaciones;
 
 X. Dirección Administrativa y Financiera
 
