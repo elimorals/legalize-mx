@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2011-11-03"
+last_updated: "2012-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -237,9 +237,11 @@ El Gobierno del Estado otorgará un salario profesional para que los trabajadore
 
 Las autoridades educativas establecerán mecanismos que propicien la permanencia de los maestros frente a grupo, con la posibilidad para éstos de ir obteniendo mejores condiciones de vida y mayor reconocimiento social.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 18.
 
-Las autoridades educativas otorgarán reconocimientos, distinciones, estímulos y recompensas a los educadores que se destaquen en el ejercicio de su profesión y, en general, realizarán actividades que propicien mayor aprecio social por la labor desempeñada por el magisterio.
+Las autoridades educativas otorgarán reconocimientos, distinciones, estímulos y recompensas a los educadores que se destaquen en el ejercicio de su profesión y, en general, realizarán actividades que propicien mayor aprecio social por la labor desempeñada por el magisterio. Además, establecerán mecanismos de estímulo a la labor docente con base en la evaluación.
 
 ###### ARTICULO 19.
 
@@ -455,11 +457,15 @@ Del Proceso Educativo.
 
 De los Tipos y Modalidades de Educación.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 29.
 
-El proceso educativo se basará en los principios de libertad y responsabilidad que aseguren la armonía de relaciones entre educandos y educadores y promoverá el trabajo en grupo para asegurar la comunicación y el diálogo entre educandos, educadores, padres de familia e instituciones públicas y privadas.
+El proceso educativo se basará en los principios de libertad y responsabilidad, que aseguren la armonía de relaciones entre educandos y educadores y promoverá el trabajo en grupo para asegurar la comunicación y el diálogo entre educandos, educadores, padres de familia, e instituciones públicas y privadas. De igual manera, se fomentará el uso de todos los recursos tecnológicos y didácticos disponibles.
 
-Para su atención, la educación se integra por los tipos: Básico, Medio Superior y Superior.
+Además, estará sujeto a los fines y criterios dispuestos en los artículos, 9°, y 10 del presente Ordenamiento, para lo cual se brindará capacitación al personal docente para que éste, a su vez, transmita esa información a los educandos, así como a los padres de familia.
+
+Para su atención, la educación se integra por los tipos: básico, medio superior, y superior.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -1732,6 +1738,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 P.O. 3 DE NOVIEMBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 10 DE MAYO DE 2012.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
