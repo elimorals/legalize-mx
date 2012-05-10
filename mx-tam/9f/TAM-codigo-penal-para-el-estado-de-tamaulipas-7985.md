@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2012-02-17"
+last_updated: "2012-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -313,7 +313,7 @@ No se aplicará la pena correspondiente a la tentativa, cuando fuera absolutamen
 
 ## TITULO TERCERO. CAUSAS QUE EXCLUYEN EL DELITO Y LA RESPONSABILIDAD
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO I. AUSENCIA DE CONDUCTA Y ATIPICIDAD
 
@@ -487,7 +487,7 @@ III.- La condena anterior por delito doloso, cuando el nuevo hecho fuere culposo
 
 ### CAPITULO I. PENAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 45.
 
@@ -559,7 +559,7 @@ p).- Las demás que fijen las leyes.
 
 Las penas señaladas en los incisos b), c), y d) tienen también la naturaleza de alternativas a la de prisión y podrán decretarse conjunta o separadamente con las medidas de seguridad a que se refieren los artículos 66 a 68 y la fracción IV del 108 de este Código, según lo determine la Ley o el Juez.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 46.
 
@@ -1061,11 +1061,11 @@ Tratándose de alcohólicos, toxicómanos y personas con discapacidad intelectua
 
 Las medidas de vigilancia definidas en el segundo párrafo del artículo 68 deberán ser cumplidas estrictamente, salvo en los casos en que exista imposibilidad, y será al Juez de Ejecución de Sanciones a quien le corresponda resolver sobre la petición de no residir en determinado sitio.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE JUNIO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JUNIO DE 1999)</small>
 
 ### CAPITULO XIII. SUSTITUCION Y CONMUTACION DE SANCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 108.
 
@@ -1205,7 +1205,7 @@ VII.- La duración de las sanciones de prisión intermitente y de trabajo en fav
 
 Si el sentenciado cumple a satisfacción con la sanción sustitutiva, el Juez de Ejecución de Sanciones, al transcurrir su término y previos los informes de las instituciones públicas y privadas, declarará extinguida la sanción sustituida.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2011)</small>
 
 VIII.- El Juez de Ejecución de Sanciones, a petición del Ministerio Público, podrá dejar sin efecto la sustitución y ordenará la aprehensión o reaprehensión del sentenciado, para que se ejecute la pena de prisión impuesta, en los casos siguientes:
 
@@ -1255,7 +1255,7 @@ Los Jueces, apreciando las circunstancias personales del culpable, los móviles 
 
 Este beneficio excluye la aplicación simultánea o sucesiva de la condena condicional, salvo que la capacidad económica no le permita de ningún modo cumplir con la pena conmutada.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 110.
 
@@ -1271,13 +1271,13 @@ Para que pueda operar la conmutación, es indispensable cubrir o garantizar la r
 
 ### CAPITULO XIV. CONDENA CONDICIONAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JULIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2003)</small>
 
 ###### ARTICULO 112.
 
 La condena condicional suspende la ejecución de las sanciones impuestas por sentencias definitivas en los términos de este artículo, de acuerdo con los siguientes requisitos:
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 10 DE JULIO DE 2003)</small>
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2003)</small>
 
 I.- Deberá otorgarse, a petición de parte o de oficio, al pronunciarse sentencia definitiva, que no exceda de cinco años de prisión, si concurren los siguientes requisitos:
 
@@ -1291,13 +1291,13 @@ d).- Que otorgue fianza que fijará el Juez o Tribunal de que se presentará ant
 
 e).- Que haya reparado el daño causado o depositado el monto de la condena por este concepto.
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 10 DE JULIO DE 2003)</small>
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2003)</small>
 
 II.- Si durante un término igual al de la sanción suspendida, contado desde la fecha en que se le concedió el beneficio, el sentenciado observa buena conducta, demuestra tener modo honesto de vivir, cumple con las sanciones distintas, a la privativa de la libertad y multa, impuesta por el Juez, y no diere lugar a nuevo proceso en el que se dicte auto de formal prisión, se considerará extinguida la sanción fijada en aquella.
 
 En caso contrario, se revocará el beneficio concedido y se hará efectiva la sanción suspendida.
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 10 DE JULIO DE 2003)</small>
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2003)</small>
 
 III.- Al otorgar la suspensión, el Juez podrá imponer como condición para gozar de este beneficio, una o varias de las medidas previstas en el inciso b) de la fracción III del artículo 108 de éste Código según el caso. De esta manera, la suspensión comprenderá sólo la sanción privativa de la libertad y la multa.
 
@@ -1315,7 +1315,7 @@ VII.- Cuando el fiador tenga motivos fundados para no continuar desempeñando el
 
 ### CAPITULO UNICO. EJECUCION DE LAS SANCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 113.
 
@@ -1339,7 +1339,7 @@ La amnistía extingue tanto la acción penal como las sanciones impuestas, queda
 
 ### CAPITULO III. PERDON DEL OFENDIDO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JULIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2003)</small>
 
 ###### ARTICULO 116.
 
@@ -1367,7 +1367,7 @@ c).- Que se haya reparado el daño.
 
 El perdón otorgado beneficia a los autores, partícipes y encubridores.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JUNIO DE 1988)</small>
 
 ### CAPITULO IV. INDULTO
 
@@ -1505,7 +1505,7 @@ La prescripción de las sanciones privativas de libertad sólo se interrumpe apr
 
 La prescripción de las obligaciones económicas impuestas al reo, sólo se interrumpe por el embargo de bienes para hacerlas efectivas.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE JUNIO DE 1988)</small>
 
 ### CAPITULO VII. RECONOCIMIENTO DE LA INOCENCIA DEL SENTENCIADO
 
@@ -1631,7 +1631,7 @@ A los responsables del delito previsto en el artículo anterior se les impondrá
 
 ### CAPITULO V. ATENTADOS A LA SEGURIDAD DE LA COMUNIDAD
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 156.
 
@@ -1643,7 +1643,7 @@ A los responsables del delito de conspiración se les impondrá sanción de dos 
 
 ### CAPITULO I. ATAQUES A LOS MEDIOS DE TRANSPORTE, VIAS DE COMUNICACION Y SISTEMAS DE AUXILIO A LA POBLACION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2007)</small>
 
 ### CAPITULO II. VIOLACION DE CORRESPONDENCIA
 
@@ -1731,7 +1731,7 @@ Se aplicará de seis meses a tres años de prisión y multa de quince a cincuent
 
 Tratándose de las señaladas en la fracción II del artículo anterior, solo se sancionara cuando sean portadas en lugares o reuniones públicas y no se justifique su portación.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JUNIO DE 2011)</small>
 
 ### CAPITULO IV. DELITOS COMETIDOS CONTRA SERVIDORES PUBLICOS
 
@@ -1757,7 +1757,7 @@ Se entiende por pandilla, para los efectos de esta disposición, la reunión hab
 
 (DEROGADO, P.O. 15 DE JUNIO DE 2011)
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE MAYO DE 2011)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE MAYO DE 2011)</small>
 
 ### CAPITULO V. EXPENDIO ILICITO DE BEBIDAS ALCOHOLICAS
 
@@ -1801,7 +1801,7 @@ Las penas a las que se refiere el presente artículo, se aumentarán hasta en un
 
 ## TITULO TERCERO. DELITOS CONTRA LA SEGURIDAD DE LOS MEDIOS DE TRANSPORTE, VIAS DE COMUNICACION Y CORRESPONDENCIA
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2007)</small>
 
 ### CAPITULO I. ULTRAJES A LA MORAL PUBLICA E INCITACION A LA PROSTITUCION
 
@@ -1909,7 +1909,7 @@ Al que quebrante los sellos puestos por orden de la autoridad competente, se le 
 
 ### CAPITULO III. DEL NARCOMENUDEO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -1931,7 +1931,7 @@ VII. Suministro: La transmisión material de forma directa o indirecta, por cual
 
 VIII. Tabla: La relación de narcóticos y la orientación de dosis máximas de consumo personal e inmediato prevista en el artículo 479 de la Ley General de Salud.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -1949,7 +1949,7 @@ II. Se cometan en centros educativos, asistenciales, policiales o de reclusión,
 
 III. La conducta sea realizada por profesionistas, técnicos, auxiliares o personal relacionado con las disciplinas de la salud en cualesquiera de sus ramas y se valgan de esta situación para cometerlos. En este caso se impondrá, además, suspensión e inhabilitación de derechos o funciones para el ejercicio profesional u oficio hasta por cinco años. En caso de reincidencia podrá imponerse, además, suspensión definitiva para el ejercicio profesional, a juicio de la autoridad judicial.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -1957,7 +1957,7 @@ ARTICULO 204 QUATER.- Comete el delito de narcomenudeo en su modalidad de posesi
 
 Por la comisión de este delito se impondrá prisión de tres a seis años y sanción pecuniaria de ochenta a trescientos días de salario mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -1967,7 +1967,7 @@ Por la comisión de este delito se impondrá pena de diez meses a tres años de 
 
 No se procederá penalmente por este delito en contra de quien posea medicamentos que contengan alguno de los narcóticos previstos en la tabla, cuya venta al público se encuentre supeditada a requisitos especiales de adquisición, cuando por su naturaleza y cantidad dichos medicamentos sean los necesarios para el tratamiento de la persona que los posea o de otras personas sujetas a la custodia o asistencia de quien los tiene en su poder.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -1983,7 +1983,7 @@ El Ministerio Público hará reporte del no ejercicio de la acción penal a la a
 
 Al que cometa un delito en contra de un servidor público o agente de la autoridad en el acto de ejercer sus funciones o con motivo de ellas, se le impondrá una sanción de uno a tres años de prisión, además de la que le corresponda por, el o los delitos cometidos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 188 Bis.
 
@@ -2001,7 +2001,7 @@ b) Se utilice a niños, niñas, adolescentes o a quienes no tienen la capacidad 
 
 Al que ultraje a cualquiera de los tres Poderes del Estado, a sus representantes o a otra institución pública, se le impondrá una sanción de uno a seis meses de prisión y multa de diez a quince días salario.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE JUNIO DE 1988)</small>
 
 ### CAPITULO UNICO. REVELACION DE SECRETOS
 
@@ -2053,7 +2053,7 @@ III.- El que de modo escandaloso invite a otro al comercio carnal.
 
 Al responsable de los delitos previstos en este capítulo, se le impondrá una sanción de tres a seis años de prisión y multa de cien a quinientos días salario.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE FEBRERO DE 2008)</small>
 
 ### CAPITULO II. EJERCICIO INDEBIDO Y ABANDONO DE FUNCIONES PUBLICAS
 
@@ -2061,7 +2061,7 @@ Al responsable de los delitos previstos en este capítulo, se le impondrá una s
 
 Comete el delito de corrupción de menores e incapaces el que procure o facilite a una persona menor de dieciocho años de edad o a quien no tenga capacidad de comprender el significado del hecho, a realizar actos de exhibicionismo corporal, lascivos o sexuales, o los induzca por cualquier medio a la práctica de la mendicidad, la ebriedad, el consumo de drogas, la prostitución, el homosexualismo, a formar parte de una asociación delictuosa, o a cometer cualquier delito.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 193.
 
@@ -2073,7 +2073,7 @@ Cuando los actos de corrupción se realicen reiteradamente sobre el mismo menor 
 
 Si además de los delitos previstos en este capítulo resultare cometido otro, se aplicarán las reglas del concurso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ENERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ENERO DE 2010)</small>
 
 ###### ARTICULO 194.
 
@@ -2087,7 +2087,7 @@ Se impondrá de tres meses a un año de prisión o multa de cien a doscientos d�
 
 Para los efectos de este precepto se considerará empleado en el billar, cantina, taberna, giro mixto, bar, boliche, cabaret, centro nocturno, café cantante, cervecería, discoteca, o centro de vicio, al menor que por un salario, por la sola comida, por comisión de cualquier índole o especie, por cualquier otro estipendio, gaje o emolumento o gratuitamente preste sus servicios en tal lugar.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2008)</small>
 
 ARTICULO 194 BIS.- Comete el delito de pornografía de menores de edad e incapaces:
 
@@ -2179,7 +2179,7 @@ El delito de corrupción de menores, sólo se sancionará cuando se consumen los
 
 ### CAPITULO III. ABUSO DE AUTORIDAD
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 1993)</small>
 
 ###### ARTICULO 199.
 
@@ -2221,7 +2221,7 @@ El que sabiendo que padece un mal venéreo en período infectante o el síndrome
 
 Cuando se trate de cónyuges o concubinos, sólo podrá procederse por querella del ofendido.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 24 DE NOVIEMBRE DE 1993)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE NOVIEMBRE DE 1993)</small>
 
 ### CAPITULO VI. COHECHO
 
@@ -2229,9 +2229,9 @@ Cuando se trate de cónyuges o concubinos, sólo podrá procederse por querella 
 
 Al que sin autorización de la autoridad competente o contraviniendo las normas técnicas sanitarias, embotelle y enajene agua no purificada o fabrique hielo no purificado destinados al consumo humano, será sancionado con prisión de seis meses a tres años y con multa de quince a cincuenta días salario, sin perjuicio de la pena que corresponda si con la comisión de este delito concurre otro.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO VII. PECULADO
 
@@ -2257,7 +2257,7 @@ Al responsable del delito de revelación de secretos se le impondrá una sanció
 
 Cuando la revelación punible sea hecha por personas que presten servicios profesionales o técnicos, o cuando el secreto revelado o publicado sea de carácter industrial, la sanción será de dos a cinco años de prisión y multa de treinta a ochenta días salario.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO IX. USO INDEBIDO DE ATRIBUCIONES Y FACULTADES
 
@@ -2479,7 +2479,7 @@ II.- Cuando el monto a que asciendan las operaciones a que hace referencia este 
 
 ### CAPITULO III. FALSIFICACION Y USO DE DOCUMENTOS PUBLICOS O PRIVADOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 224.
 
@@ -2497,7 +2497,7 @@ Al responsable del delito de intimidación se le impondrá una sanción de dos a
 
 ### CAPITULO IV. FALSEDAD EN DECLARACIONES Y EN INFORMES DADOS A UNA AUTORIDAD
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 226.
 
@@ -2751,7 +2751,7 @@ Los defensores de oficio que sin motivo justificado no promuevan las pruebas con
 
 ### CAPITULO II. ESTUPRO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 244.
 
@@ -2797,7 +2797,7 @@ IV.- Al que a sabiendas hiciere uso de alguno de los objetos falsos de que habla
 
 Se impondrá sanción de uno a cinco años de prisión y multa de treinta a setenta días salario, al que en cualquier forma altere las señales o falsifique los instrumentos para imponer las señales, marcas de sangre o de fuego, o de fierro de herrar, que se utilicen para distinguir el ganado, sin autorización de la persona que las tenga legalmente registradas ante la autoridad competente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO IV. HOSTIGAMIENTO Y ACOSO SEXUAL
 
@@ -2823,7 +2823,7 @@ ARTICULO 276 QUINQUIES.- Si la persona que comete estos delitos fuere servidor p
 
 ARTICULO 276 SEXIES.- Si el sujeto pasivo del delito de hostigamiento sexual es menor de dieciocho años de edad o estuviere privado de razón o de sentido, no tuviere la capacidad de comprender el significado del hecho o que por enfermedad o cualquier otra causa no pudiere oponer resistencia a los actos que lo constituyen, se le impondrá al responsable, de tres a cinco años de prisión y multa de cien a quinientos días de salario.
 
-(REUBICADO, ANTES CAPITULO IV, P.O. 19 DE OCTUBRE DE 2010)
+(REUBICADO, ANTES CAPÍTULO IV, P.O. 19 DE OCTUBRE DE 2010)
 
 ###### ARTICULO 250.
 
@@ -3047,7 +3047,7 @@ No se procederá contra el responsable del delito de estupro, sino por queja de 
 
 Comete el delito de violación, el que por medio de la violencia física o moral, tenga cópula con una persona sin la voluntad de ésta, sea cual fuere su sexo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 274.
 
@@ -3067,7 +3067,7 @@ Se impondrá la misma sanción y se considerará como violación al que introduz
 
 Si la violación fuere precedida o acompañada de golpes o lesiones o se cometiere cualquier otro hecho delictuoso, se observarán las reglas del concurso real.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 275.
 
@@ -3085,7 +3085,7 @@ III.- Al que sin violencia introduzca por vía anal o vaginal cualquier elemento
 
 Si la violación fuere cometida con participación de dos o más personas, la sanción se agravará hasta una mitad más de la sanción a imponer.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 19 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE OCTUBRE DE 2010)</small>
 
 ### CAPITULO I. AMENAZAS
 
@@ -3121,7 +3121,7 @@ La reparación del daño en los casos de estupro y violación, comprenderá el p
 
 La reparación del daño como consecuencia de la comisión de los delitos previstos en este Título comprenderá el pago de los gastos médicos originados por el ilícito y el pago del tratamiento psicoterapéutico para el sujeto pasivo, y los familiares de éste que así lo requieran.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 279 Ter.
 
@@ -3223,7 +3223,7 @@ A los responsables del delito de exposición de menores se les impondrá una san
 
 Los parientes o tutores que entreguen en una casa de expósitos a un niño que está bajo su potestad o custodia, perderá por ese sólo hecho los derechos que tenga sobre la persona y bienes del expósito.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO V. PARRICIDIO
 
@@ -3261,7 +3261,7 @@ El delito de abandono de obligaciones alimenticias sólo se perseguirá a petici
 
 Para que el perdón concedido por el ofendido pueda extinguir la acción o la sanción impuesta aun por sentencia firme, deberá éste pagar todas las cantidades que hubiere dejado de ministrar por concepto de alimentos, y otorgar fianza u otra caución de que en lo sucesivo pagará la cantidad que le corresponda.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MAYO DE 2007)</small>
 
 ### CAPITULO VI. FILICIDIO
 
@@ -3271,7 +3271,7 @@ Cometen el delito a que se refiere este capítulo los padres que habiéndoseles 
 
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
 
-Comete este delito cualquiera de los padres que sustraiga a los hijos arbitrariamente del lugar donde habiten transitoria o permanentemente aún cuando no exista resolución judicial que dirima la custodia de los menores, pero que de hecho se encuentren bajo el resguardo de alguno de ellos.
+Comete este delito cualquiera de los padres que sustraiga a los hijos arbitrariamente del lugar donde habiten transitoria o permanentemente, aún cuando no exista resolución judicial que dirima la custodia de los menores, pero que de hecho se encuentren bajo el resguardo de alguno de ellos.
 
 Sólo se procederá contra el responsable a petición de quien ejerza la patria potestad o el derecho de custodia.
 
@@ -3427,7 +3427,7 @@ I.- Si se cometiere por conductores en estado de ebriedad o bajo el influjo de e
 
 II.- Si se cometiere por conductores de transporte de servicio público o escolar, a consecuencia de conducir con exceso de velocidad, o de acciones u omisiones graves, la sanción será de dos a ocho años de prisión, si del hecho resultan la muerte de una o más personas; de dos a seis años de prisión si del hecho resultan lesiones y de dos a cuatro años de prisión si sólo se causa daño en propiedad ajena.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE JUNIO DE 1988)</small>
 
 ### CAPITULO II. INJURIAS
 
@@ -3807,7 +3807,7 @@ Al que encuentre abandonado en cualquier sitio a un menor incapaz de cuidarse a 
 
 El automovilista, motorista, conductor de un vehículo cualquiera, ciclista o jinete, que deje en estado de abandono, sin prestar o facilitar asistencia a la persona a quien atropelló por culpa o accidente, se le impondrá una sanción de dos meses a un año de prisión.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO VII. DESPOJO DE COSAS INMUEBLES O DE AGUAS
 
@@ -3827,7 +3827,7 @@ El automovilista, motorista, conductor de un vehículo cualquiera, ciclista o ji
 
 (DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE JUNIO DE 2008)</small>
 
 ### CAPITULO IX. REGLAS COMUNES PARA LOS CAPITULOS PRECEDENTES
 
@@ -3845,7 +3845,7 @@ A quien comete el delito de violencia familiar se le impondrá de uno a cinco a�
 
 Se equipara a la violencia familiar y se sancionará con seis meses a cuatro años de prisión al que realice cualquiera de los actos señalados en el artículo anterior en contra de la persona con la que se encuentre unida fuera del matrimonio; de los parientes por consanguinidad o afinidad hasta el cuarto grado de esa persona, o de cualquier otra persona que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado de dicha persona.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 368 Quáter.
 
@@ -3935,7 +3935,7 @@ En los casos en que no se cuente con servicios psicológicos o psiquiátricos, e
 
 ### CAPITULO I. DAÑO AL MEDIO AMBIENTE
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -3961,7 +3961,7 @@ En los casos en que no se cuente con servicios psicológicos o psiquiátricos, e
 
 ### CAPITULO II. DELITO DE INCENDIOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -3989,7 +3989,7 @@ No se podrá proceder contra el responsable de los delitos de golpes y violencia
 
 ### CAPITULO III. CONTAMINACION DE AGUAS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -4015,17 +4015,17 @@ I.- Al que obligue a otro a prestarle trabajos o servicios personales sin la ret
 
 II.- Al que celebre con otro un contrato que prive a éste de la libertad, o le imponga condiciones que lo constituyan en una especie de servidumbre o se apodere de una persona y la entregue a otra con el objeto de que ésta celebre contrato.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO IV. SUBSTRACCION DEL SUELO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
 ### CAPITULO V. DISPOSICIONES COMUNES A LOS CAPITULOS PRECEDENTES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -4129,7 +4129,7 @@ La misma pena se aplicará a cualquiera que participe en la comisión de este de
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ## TITULO DECIMO NOVENO. DELITOS CONTRA EL PATRIMONIO DE LAS PERSONAS
 
@@ -4139,7 +4139,7 @@ Al que por sí o por interpósita persona adquiera, enajene, administre, custodi
 
 Las penas previstas en el párrafo anterior serán aumentadas en una mitad cuando el delito se cometa por servidores públicos; además, se impondrá a dichos servidores, destitución e inhabilitación para desempeñar empleo, cargo o comisión públicos, hasta por un tiempo igual al de la pena de prisión impuesta.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 25 DE OCTUBRE DE 1995)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE OCTUBRE DE 1995)</small>
 
 ###### ARTICULO 399.
 
@@ -4189,9 +4189,11 @@ X.- La utilización del o los vehículos robados en la comisión de otro u otros
 
 XI.- La tenencia, posesión o utilización de algún vehículo de fuerza motriz robado, sin acreditar su legal posesión.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 401.
 
-Para la aplicación de la sanción se tendrá por consumado el robo desde el momento en que el ladrón tiene en su poder la cosa robada, aun cuando la abandone o lo desapoderen de ella.
+Para la aplicación de la sanción se tendrá por consumado el robo desde el momento en que el inculpado tenga en su poder la cosa robada, aún cuando la abandone o lo desapoderen de ella.
 
 ###### ARTICULO 402.
 
@@ -4199,9 +4201,17 @@ El delito de robo simple se sancionará en la forma siguiente:
 
 I.- Cuando el valor de lo robado no exceda de cien días de salario, se impondrá una sanción de dos meses a dos años de prisión y multa de cinco a cuarenta días salario;
 
-II.- Si excede de cien, pero no de doscientos días salario, la pena será de dos a seis años de prisión y multa de cuarenta a ochenta días salario; y
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2012)</small>
 
-III.- Cuando excediere de doscientos días salario, la sanción será de seis a doce años de prisión y multa de ochenta a ciento cuarenta días salario.
+II.- Si excede de cien, pero no de doscientos días salario, la pena será de dos a seis años de prisión y multa de cuarenta a ochenta días salario;
+
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2012)</small>
+
+III.- Cuando excediere de doscientos y sea menor de quinientos días salario, la sanción será de seis a doce años de prisión y multa de ochenta a ciento cuarenta días salario; y,
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2012)</small>
+
+IV.- Cuando el valor de lo robado exceda de quinientos días salario, se impondrá una sanción de doce a quince años de prisión y multa de ciento cuarenta a ciento ochenta días salario.
 
 ###### ARTICULO 403.
 
@@ -4235,7 +4245,7 @@ I.- Cuando ésta se haga a una persona distinta de la robada, que se encuentre e
 
 II.- Cuando el agente la ejercita después de consumado el robo, para proporcionarse la fuga o retener lo robado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2003)</small>
 
 ###### ARTICULO 407.
 
@@ -4267,7 +4277,9 @@ IX.- Cuando el objeto del apoderamiento sea un vehículo en circulación o estac
 
 X.- Cuando el robo se cometa en una oficina recaudadora u otra en la que se conserven caudales, o cuando éstos sean transportados;
 
-XI.- Cuando se cometa estando la víctima en un vehículo particular o de transporte público.
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2012)</small>
+
+XI.- Cuando se cometa estando la víctima en un vehículo particular o de transporte público;
 
 XII.- (DEROGADA, P.O. 31 DE AGOSTO DE 2011)
 
@@ -4281,9 +4293,13 @@ XVI.- (DEROGADA, P.O. 31 DE AGOSTO DE 2011)
 
 XVII.- (DEROGADA, P.O. 31 DE AGOSTO DE 2011)
 
-> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2012)</small>
 
-XVIII.- Cuando el robo se cometa en perjuicio de alguna Institución Educativa.
+XVIII.- Cuando el robo se cometa en perjuicio de alguna Institución Educativa; y,
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2012)</small>
+
+XIX.- Cuando el robo se efectúe en lugar destinado a industria, comercio, almacén o bodega donde se encuentren en resguardo o se elaboren productos industriales o materias primas de origen diverso, así como durante su traslado.
 
 ###### ARTICULO 408.
 
@@ -4299,7 +4315,7 @@ Cuando el apoderamiento se cometa en despoblado recayendo sobre algún instrumen
 
 El apoderamiento de uno o más semovientes, además de lo dispuesto en las fracciones I, II y III del Artículo 402, se sancionará con prisión de tres a doce años si se realiza sobre una o más cabezas de ganado asnal, mular, caballar, o vacuno, y hasta siete años, cuando se trate de una o más cabezas de ganado caprino, ovino o porcino.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 1993)</small>
 
 ###### ARTICULO 411.
 
@@ -4521,7 +4537,7 @@ Los delitos de abuso de confianza, fraude, fraude laboral, chantaje, despojo de 
 
 ## TITULO VIGESIMO. ENCUBRIMIENTO
 
-> <small>(REFORMADA SU NUMERACION, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 439.
 
@@ -4563,11 +4579,11 @@ II.- Su cónyuge o parientes colaterales o por consanguinidad hasta el cuarto gr
 
 III.- Los que estén ligados con el acusado por respeto, gratitud, estrecha amistad o afecto íntimo.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ## TITULO VIGESIMO PRIMERO. DELITOS ELECTORALES
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE OCTUBRE DE 1995)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE OCTUBRE DE 1995)</small>
 
 ###### ARTICULO 444.
 
@@ -4701,7 +4717,7 @@ XI.- Permita o tolere que un ciudadano emita su voto a sabiendas de que no cumpl
 
 XII.- Propale, de manera pública y dolosa, noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 449.
 
@@ -4789,11 +4805,11 @@ Igual sanción se impondrá a quien publique o difunda por cualquier medio, dura
 
 Los responsables de los delitos contenidos en el presente Capítulo, por haber acordado o preparado su realización en los términos de la fracción I del Artículo 39 de este Código, no podrán gozar del beneficio de la libertad provisional.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 2008)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 2008)</small>
 
 ## TITULO VIGESIMO SEGUNDO. DE LOS DELITOS COMETIDOS CONTRA EL ORDENAMIENTO TERRITORIAL Y EL DESARROLLO URBANO
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 454.
 
@@ -4863,15 +4879,15 @@ La pena de prisión impuesta se incrementará hasta en dos años, cuando las con
 
 Los responsables de los delitos contenidos en el presente Capítulo por haber acordado o preparado su realización en los términos de la fracción I del artículo 39 de éste Código, no podrán gozar del beneficio de la libertad provisional bajo caución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
 
 ## TITULO VIGESIMO TERCERO. DELITOS CONTRA EL MEDIO AMBIENTE Y LOS RECURSOS NATURALES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 459.
 
@@ -4887,7 +4903,7 @@ IV. Tale recursos forestales, transporte, comercie o transforme sus derivados, o
 
 V. Explore, extraiga, procese, importe o exporte cualquier mineral o sustancia geológica que constituyan depósitos de naturaleza cuyo control no esté reservado a la Federación.
 
-(N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -4895,7 +4911,7 @@ V. Explore, extraiga, procese, importe o exporte cualquier mineral o sustancia g
 
 Al responsable del delito previsto en el artículo anterior, se le impondrá una sanción de seis meses a ocho años de prisión y multa de trescientos a diez mil días de salario.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -4909,9 +4925,9 @@ II. Autorice, efectúe, conceda, permita, consienta u ordene la realización de 
 
 III. Con motivo de auditorías, visitas de verificación o inspección, previstas en la legislación aplicable al caso concreto, hubiere permitido irregularidades o transgresiones a los ordenamientos jurídicos aplicables en materia de desarrollo sustentable vigente en el Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 462.
 
@@ -4925,7 +4941,7 @@ III. Un área natural protegida estatal o municipal, o un área de valor ambient
 
 IV. Al suelo de conservación en términos de lo establecido en el programa o programas de ordenamiento ecológico del territorio del Estado aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -4937,9 +4953,9 @@ Al responsable de la comisión del delito de incendios previstos en las fraccion
 
 Cuando se afecte un área igual o mayor a cinco hectáreas, o recursos forestales maderables en una cantidad igual o mayor a mil metros cúbicos rollo total árbol, las sanciones se elevarán hasta en una mitad más de la prevista para cada supuesto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 464.
 
@@ -4951,7 +4967,7 @@ II. Descargue, deposite, infiltre, autorice u ordene la descarga de aguas residu
 
 III. Descargue o deposite en cualquier estado residuos, sustancias o materiales, que causen un daño ambiental en zonas de recarga de mantos acuíferos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -4961,9 +4977,9 @@ Al responsable de la comisión del delito de contaminación de aguas previsto en
 
 Al responsable de la comisión del delito de contaminación de aguas previsto en la fracción III del artículo anterior, se le impondrá una sanción de seis meses a cinco años de prisión y multa de trescientos a cinco mil días de salario mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 466.
 
@@ -4977,15 +4993,15 @@ III. Un área verde en suelo urbano.
 
 Se aplicará la misma sanción prevista en este artículo a quien independientemente de haber obtenido el permiso o autorización respectiva, no observe los lineamientos, condicionantes o métodos de extracción o explotación previstos para tal efecto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 467.
 
 El Ministerio Público tan pronto tenga conocimiento de la comisión de algún delito previsto en el presente Titulo, inmediatamente dará vista a la autoridad ambiental estatal, a fin de determinar el daño ambiental causado y las acciones de su competencia, para evitar la propagación de daños y la mitigación del mismo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -4993,7 +5009,7 @@ El Ministerio Público tan pronto tenga conocimiento de la comisión de algún d
 
 La autoridad ambiental proporcionará, en las materias de su competencia, los dictámenes técnicos o periciales que le solicite el Ministerio Público o las autoridades judiciales, con motivo de las denuncias presentadas por delitos en contra del medio ambiente y los recursos naturales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -5001,7 +5017,7 @@ La autoridad ambiental proporcionará, en las materias de su competencia, los di
 
 Cuando una o más de las conductas descritas en el presente Capítulo resulte cometida a nombre, bajo el amparo o en beneficio de una persona, a ésta se le impondrá la consecuencia jurídica accesoria consistente en la prohibición de realizar determinados negocios u operaciones hasta por cinco años, independientemente de su responsabilidad penal en los hechos ejecutados por las personas físicas en la comisión del delito.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -5045,7 +5061,7 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 
 "Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los once días del mes de Noviembre de mil novecientos ochenta y seis.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- Dr. EMILIO MARTINEZ MANAUTOU.- EL SECRETARIO GENERAL DE GOBIERNO.- Lic. ROBERTO PERALES MELENDEZ.- Rúbricas".
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 22 DE JUNIO DE 1988.
 
@@ -5085,7 +5101,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 5 DE JUNIO DE 1999.
 
-DECRETO No. 23
+DECRETO No. 23, POR EL QUE SE REFORMAN LOS ARTÍCULOS 45, 46, 108, 109, 232 Y 233, SE ADICIONAN LOS ARTÍCULOS 46 BIS, 108 BIS Y 258 BIS, Y SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO XIII DEL TÍTULO SEXTO DEL LIBRO PRIMERO, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
 
 ###### ARTICULO PRIMERO.
 
@@ -5101,7 +5117,7 @@ Las personas que hubieren sido condenadas por sentencia ejecutoriada antes de la
 
 P.O. 5 DE JUNIO DE 1999.
 
-DECRETO No. 28
+DECRETO No. 28, POR EL QUE SE REFORMAN LOS ARTÍCULOS 47, FRACCIÓN II; 192; 193; 195; 267; 268; 270; 271; 274; 275; 327; 393; 394; 395; 396; 397, Y 398; SE ADICIONAN ARTÍCULO 274 BIS; 279 BIS; Y SEGUNDO PÁRRAFO AL ARTÍCULO 306; UN CAPÍTULO DÉCIMO AL TÍTULO DÉCIMO SEXTO; LOS ARTÍCULOS 368 BIS, 368 TER Y 368 QUATER; UN SEGUNDO PÁRRAFO AL ARTÍCULO 375 Y 391 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
 
 ###### ARTICULO UNICO.
 
@@ -5145,13 +5161,13 @@ Artículo Unico:- El presente Decreto entrará en vigor al día siguiente de su 
 
 P.O. 30 DE DICIEMBRE DE 2004.
 
-DECRETO No. LVIII -1130, POR EL QUE SE REFORMAN Y DEROGAN DIVERSOS ARTICULOS DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+DECRETO No. LVIII-1130, POR EL QUE SE REFORMAN LOS ARTÍCULOS 189 BIS; 191; 193; 194; 194 BIS, FRACCIONES I Y III, Y PÁRRAFOS TERCERO Y QUINTO; 200; 201; 270, PRIMER PÁRRAFO; 271; SEGUNDO PÁRRAFO DEL ARTÍCULO 274; 355; 422; Y 423; Y SE DEROGAN LOS ARTÍCULOS 287; 288; 289; 290; 291; 354; 372; 373; 393; 394; 395; 396; 397; Y 398, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 30 DE DICIEMBRE DE 2004.
 
-DECRETO No. LVIII -1138, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+DECRETO No. LVIII-1138, POR EL QUE SE REFORMA EL NOMBRE DEL CAPÍTULO IV, DEL TÍTULO SEGUNDO; SE REFORMA EL NOMBRE DEL CAPÍTULO II DEL TÍTULO DÉCIMO OCTAVO, CONVIRTIÉNDOSE A SU VEZ EN CAPÍTULO III; EL ARTÍCULO 391; EL ARTÍCULO 391 BIS; SE REFORMA EL NOMBRE DEL CAPÍTULO ÚNICO DEL TÍTULO VIGÉSIMO; SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 170; EL ARTÍCULO 171 BIS; 171 TER; EL ARTÍCULO 391 TER; EL ARTÍCULO 392; EL ARTÍCULO 392 BIS; EL ARTÍCULO 392 TER; EL CAPÍTULO II AL TÍTULO VIGÉSIMO; Y EL ARTÍCULO 443 BIS, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
 
 ###### ARTÍCULO UNICO.
 
@@ -5199,7 +5215,7 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 
 P.O. 4 DE JULIO DE 2007.
 
-DECRETO No. LIX-916 POR EL QUE SE REFORMA EL ARTICULO 383 Y SE DEROGAN LOS ARTICULOS 374, 375, 376, 377, 378, 379, 380, 381, 382, 384, 385, 386, 387 DEL CODIGO PENAL DEL ESTADO DE TAMAULIPAS.
+DECRETO No. LIX-916, POR EL QUE SE REFORMA EL ARTÍCULO 383 Y SE DEROGAN LOS ARTÍCULOS 374, 375, 376, 377, 378, 379, 380, 381, 382, 384, 385, 386, 387 DEL CÓDIGO PENAL DEL ESTADO DE TAMAULIPAS.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -5207,7 +5223,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 4 DE JULIO DE 2007.
 
-DECRETO No. LIX-917 POR EL QUE SE REFORMA EL PARRAFO PRIMERO DEL ARTICULO 279 TER DEL CODIGO PENAL DEL ESTADO DE TAMAULIPAS.
+DECRETO No. LIX-917, POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 279 TER DEL CÓDIGO PENAL DEL ESTADO DE TAMAULIPAS.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -5239,7 +5255,7 @@ Al entrar en vigor este ordenamiento, se decretará el sobreseimiento de los pro
 
 P.O. 22 DE AGOSTO DE 2007.
 
-DECRETO No. LIX-964
+DECRETO No. LIX-964, POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 233 Y SE ADICIONAN LAS FRACCIONES XII Y XIII AL ARTÍCULO 212 Y LAS FRACCIONES XXXIX Y XL AL ARTÍCULO 232 DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -5247,7 +5263,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 22 DE AGOSTO DE 2007.
 
-DECRETO No. LIX-965
+DECRETO No. LIX-965, POR EL QUE SE REFORMA EL INCISO A) DEL PÁRRAFO SEGUNDO DEL ARTÍCULO 116, EL ARTÍCULO 368 QUATER Y SE DEROGA, EL PÁRRAFO CUARTO DEL ARTÍCULO 368 BIS, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
 
 ###### ARTÍCULO UNICO.
 
@@ -5265,7 +5281,7 @@ UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publica
 
 P.O. 12 DE FEBRERO DE 2008.
 
-DECRETO NO. LIX-1118 POR EL QUE SE REFORMAN LA DENOMINACION DEL CAPITULO II DEL TITULO QUINTO, ASI COMO LOS ARTICULOS 192, 193, PARRAFOS PRIMERO Y SEGUNDO, 194 PARRAFOS PRIMERO Y SEGUNDO, 194 BIS PARRAFO PRIMERO Y FRACCIONES I, II, III Y V, ASI COMO LOS PARRAFOS TERCERO, CUARTO Y QUINTO DEL MISMO ARTICULO; 194 TER; Y, 196 DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+DECRETO No. LIX-1118, POR EL QUE SE REFORMAN LA DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO QUINTO, ASÍ COMO LOS ARTÍCULOS 192, 193, PÁRRAFOS PRIMERO Y SEGUNDO, 194 PÁRRAFOS PRIMERO Y SEGUNDO, 194 BIS PÁRRAFO PRIMERO Y FRACCIONES I, II, III Y V, ASÍ COMO LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO DEL MISMO ARTÍCULO; 194 TER; Y, 196 DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
 
 ###### ARTICULO UNICO.
 
@@ -5273,7 +5289,7 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 
 P.O. 12 DE FEBRERO DE 2008.
 
-DECRETO NO. LIX-1122 POR EL QUE SE REFORMAN, LA FRACCION I DEL ARTICULO 454 Y EL ARTICULO 455, SE ADICIONAN, LA FRACCION VII AL ARTICULO 454 Y LA FRACCION IV AL ARTICULO 457 Y SE DEROGA LA FRACCION VI DEL ARTICULO 454 Y LA FRACCION III DEL ARTICULO 457 DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+DECRETO No. LIX-1122, POR EL QUE SE REFORMAN, LA FRACCIÓN I DEL ARTÍCULO 454 Y EL ARTÍCULO 455, SE ADICIONAN, LA FRACCIÓN VII AL ARTÍCULO 454 Y LA FRACCIÓN IV AL ARTÍCULO 457 Y SE DEROGA LA FRACCIÓN VI DEL ARTÍCULO 454 Y LA FRACCIÓN III DEL ARTÍCULO 457 DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
 
 ###### ARTICULO UNICO.
 
@@ -5303,7 +5319,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 7 DE JULIO DE 2009.
 
-DECRETO No. LX-644, POR EL QUE SE ADICIONA EL ARTICULO 71 BIS AL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+DECRETO No. LX-644, POR EL QUE SE ADICIONA EL ARTÍCULO 71 BIS AL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
 
 ###### ARTICULO UNICO.
 
@@ -5311,7 +5327,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 7 DE JULIO DE 2009.
 
-DECRETO No. LX-693, POR EL QUE SE REFORMA EL INCISO B) DEL ARTICULO 66 DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+DECRETO No. LX-693, POR EL QUE SE REFORMA EL INCISO B) DEL ARTÍCULO 66 DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
 
 ###### ARTICULO UNICO.
 
@@ -5331,7 +5347,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 19 DE OCTUBRE DE 2010.
 
-DECRETO NUMERO LX-1134, POR EL QUE SE REFORMA EL PARRAFO SEGUNDO DEL ARTICULO 171 BIS DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+DECRETO No. LX-1134, POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 171 BIS DEL CÓDIGO DE (SIC) PENAL PARA EL ESTADO DE TAMAULIPAS.
 
 ###### ARTICULO UNICO.
 
@@ -5339,7 +5355,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 19 DE OCTUBRE DE 2010.
 
-DECRETO NUMERO LX-1135, POR EL QUE SE ADICIONA UN SEGUNDO PARRAFO AL ARTICULO 274, RECORRIENDOSE LOS ACTUALES PARA SER TERCERO, CUARTO Y QUINTO Y SE REFORMA EL PRIMER PARRAFO DEL ARTICULO 275, DEL CODIGO PENAL DEL ESTADO DE TAMAULIPAS.
+DECRETO No. LX-1135, POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 274, RECORRIÉNDOSE LOS ACTUALES PARA SER TERCERO, CUARTO Y QUINTO Y SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 275, DEL CÓDIGO PENAL DEL ESTADO DE TAMAULIPAS.
 
 ###### ARTICULO UNICO.
 
@@ -5347,7 +5363,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 19 DE OCTUBRE DE 2010.
 
-DECRETO NUMERO LX-1136, POR EL QUE SE ADICIONA EL CAPITULO IV AL TITULO DUODECIMO DENOMINADO HOSTIGAMIENTO Y ACOSO SEXUAL, COMPRENDIDO POR LOS ARTICULO 276 BIS, 276 TER, 276 QUATER, 276 QUINQUIES, 276 SEXIES, RECORRIENDOSE EL ACTUAL CAPITULO IV PARA SER CAPITULO V, DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+DECRETO No. LX-1136, POR EL QUE SE ADICIONA EL CAPÍTULO IV AL TÍTULO DUODÉCIMO DENOMINADO HOSTIGAMIENTO Y ACOSO SEXUAL, COMPRENDIDO POR LOS ARTÍCULOS 276 BIS, 276 TER, 276 QUATER, 276 QUINQUIES, 276 SEXIES, RECORRIÉNDOSE EL ACTUAL CAPÍTULO IV PARA SER CAPÍTULO V, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
 
 ###### ARTICULO UNICO.
 
@@ -5355,7 +5371,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 24 DE NOVIEMBRE DE 2010.
 
-DECRETO NUMERO LX-1482, POR EL QUE SE ADICIONA LA FRACCION XVIII AL ARTICULO 418 DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+DECRETO No. LX-1482, POR EL QUE SE ADICIONA LA FRACCIÓN XVIII AL ARTÍCULO 418 DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
 
 ###### ARTICULO UNICO.
 
@@ -5363,7 +5379,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 24 DE NOVIEMBRE DE 2010.
 
-DECRETO NUMERO LX-1484, POR EL QUE SE REFORMAN LAS FRACCIONES III Y IV, Y ADICIONA UNA V AL ARTICULO 400 DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+DECRETO No. LX-1484, POR EL QUE SE REFORMAN LAS FRACCIONES III Y IV, Y ADICIONA UNA V AL ARTÍCULO 400 DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
 
 ###### ARTICULO UNICO
 
@@ -5377,7 +5393,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 16 DE DICIEMBRE DE 2010.
 
-DECRETO NUMERO LX-1137, POR EL QUE SE ADICIONAN LOS ARTICULOS 371 BIS Y 371 TER, AL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+DECRETO No. LX-1137, POR EL QUE SE ADICIONAN LOS ARTÍCULOS 371 BIS Y 371 TER, AL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
 
 ###### ARTICULO UNICO.
 
@@ -5385,7 +5401,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 16 DE DICIEMBRE DE 2010.
 
-DECRETO NUMERO LX-1138, POR EL QUE SE DEROGAN LOS ARTICULOS 338 Y 339, DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+DECRETO No. LX-1138, POR EL QUE SE DEROGAN LOS ARTÍCULOS 338 Y 339, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
 
 ###### ARTICULO UNICO.
 
@@ -5393,7 +5409,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 16 DE DICIEMBRE DE 2010.
 
-DECRETO NUMERO LX-1562, POR EL QUE SE REFORMA EL ARTICULO 258 DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+DECRETO No. LX-1562, POR EL QUE SE REFORMA EL ARTÍCULO 258 DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
 
 ###### ARTICULO UNICO.
 
@@ -5401,7 +5417,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 16 DE DICIEMBRE DE 2010.
 
-DECRETO NUMERO LX-1563, POR EL QUE SE ADICIONAN AL LIBRO SEGUNDO, TITULO SEXTO, LOS ARTICULOS 204 BIS; 204 TER; 204 QUATER; 204 QUINTUS Y 204 SEXTUS Y EL CAPITULO TERCERO DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
+DECRETO No. LX-1563, POR EL QUE SE ADICIONAN AL LIBRO SEGUNDO, TÍTULO SEXTO, LOS ARTÍCULOS 204 BIS; 204 TER; 204 QUATER; 204 QUINTUS Y 204 SEXTUS Y EL CAPÍTULO TERCERO DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
 ###### ARTICULO PRIMERO.
 
@@ -5429,7 +5445,7 @@ En los supuestos del delito de narcomenudeo, que se adicionan en el presente Dec
 
 P.O. 31 DE MAYO DE 2011.
 
-DECRETO NUMERO LXI-43, POR EL QUE SE REFORMAN LOS ARTICULOS 12, 46 PRIMER PARRAFO, 107, 108 PARRAFO PRIMERO, LA FRACCION III INCISO A), LA FRACCION IV INCISO C) PARRAFO SEGUNDO, LA FRACCION V INCISO C) PARRAFOS SEGUNDO Y TERCERO, LA FRACCION VI INCISOS B) Y C) SEGUNDO PARRAFO, VII SEGUNDO PARRAFO Y VIII PARRAFOS PRIMERO, TERCERO Y QUINTO; 110 PARRAFO PRIMERO, 112 FRACCION VII Y 113 PARRAFO PRIMERO, DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+DECRETO No. LXI-43, POR EL QUE SE REFORMAN LOS ARTÍCULOS 12, 46 PRIMER PÁRRAFO, 107, 108 PÁRRAFO PRIMERO, LA FRACCIÓN III INCISO A), LA FRACCIÓN IV INCISO C) PÁRRAFO SEGUNDO, LA FRACCIÓN V INCISO C) PÁRRAFOS SEGUNDO Y TERCERO, LA FRACCIÓN VI INCISOS B) Y C) SEGUNDO PÁRRAFO, VII SEGUNDO PÁRRAFO Y VIII PÁRRAFOS PRIMERO, TERCERO Y QUINTO; 110 PÁRRAFO PRIMERO, 112 FRACCIÓN VII Y 113 PÁRRAFO PRIMERO, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -5441,7 +5457,7 @@ Los asuntos iniciados con las disposiciones que mediante el presente Decreto, se
 
 P.O. 31 DE MAYO DE 2011.
 
-DECRETO NUMERO LXI-44, POR EL QUE SE REFORMA EL PRIMER PARRAFO Y SE ADICIONAN LOS PARRAFOS SEGUNDO, TERCERO Y CUARTO AL ARTICULO 363 DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+DECRETO No. LXI-44, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO AL ARTÍCULO 363 DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
 
 ###### ARTÍCULO ÚNICO
 
@@ -5449,7 +5465,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 31 DE MAYO DE 2011.
 
-DECRETO NUMERO LXI-45, POR EL QUE SE ADICIONAN LOS PARRAFOS TERCERO Y CUARTO AL ARTICULO 362 DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+DECRETO No. LXI-45, POR EL QUE SE ADICIONAN LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 362 DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
 
 ###### ARTÍCULO ÚNICO
 
@@ -5486,6 +5502,12 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Para efectos de la actualización de las placas y la documentación con la que se esté prestando el servicio público de transporte, los concesionarios o prestadores del servicio público de transporte, contarán con un plazo de 90 días a partir de la entrada en vigor del presente Decreto, a fin de llevar a cabo los trámites necesarios para estar al corriente en sus obligaciones.
 
 Lo anterior, para efectos de la no aplicación de la multa señalada en la fracción XIX del artículo 119 que se adiciona mediante el presente Decreto, sin demérito del retiro de las unidades a los depósitos de guarda y custodia de vehículos infraccionados, hasta el cumplimiento sus (sic) obligaciones.
+
+P.O. 10 DE MAYO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO OCTAVO.
 
