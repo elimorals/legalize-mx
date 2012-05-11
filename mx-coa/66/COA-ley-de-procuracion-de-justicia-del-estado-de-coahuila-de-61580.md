@@ -4,7 +4,7 @@ identifier: "COA-ley-de-procuracion-de-justicia-del-estado-de-coahuila-de-61580"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-16"
-last_updated: "2012-04-08"
+last_updated: "2012-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "COA"
 ---
 # LEY DE PROCURACION DE JUSTICIA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE MAYO DE 2012 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE PROCURACIÓN DE JUSTICIA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE COAHUILA, PUBLICADA EN EL P.O. EL 12 DE MAYO DE 2009, SE DEROGAN LAS DISPOSICIONES QUE SEAN CONTRARIAS A LAS NORMAS ESTABLECIDAS EN EL CITADO ORDENAMIENTO.</small>
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 11 DE MAYO DE 2012.</small>
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 16 de mayo de 2008.
 
@@ -3471,8 +3471,6 @@ FACULTADES NORMATIVAS.- El órgano colegiado para establecer la normatividad, pl
 
 COMPETENCIA.- El Consejo Interior tendrá únicamente facultades y atribuciones deliberatorias y decisorias, en los asuntos de su competencia.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE MAYO DE 2012 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 341.
@@ -3487,13 +3485,19 @@ III. Los reglamentos propios de la dependencia.
 
 IV. Los planes, estrategias, programas y manuales.
 
-VI (SIC). La supervisión de las funciones de la Policía Investigadora del Estado y del Ministerio Público.
+> <small>(F. DE E., P.O. 11 DE MAYO DE 2012)</small>
 
-VII. El asesoramiento al (sic) Procuraduría en otras materias cuando así se requiera.
+V. La supervisión de las funciones de la Policía Investigadora del Estado y del Ministerio Público.
 
-VII (SIC). Compilar, clasificar, publicar, y distribuir la normatividad aplicable a la Procuraduría, con el auxilio de la Subprocuraduría Jurídica, de Profesionalización y de Proyectos.
+> <small>(F. DE E., P.O. 11 DE MAYO DE 2012)</small>
 
-IX (SIC). Las demás establecidas por la ley.
+VI. El asesoramiento a la Procuraduría en otras materias cuando así se requiera.
+
+VII. Compilar, clasificar, publicar, y distribuir la normatividad aplicable a la Procuraduría, con el auxilio de la Subprocuraduría Jurídica, de Profesionalización y de Proyectos.
+
+> <small>(F. DE E., P.O. 11 DE MAYO DE 2012)</small>
+
+VIII. Las demás establecidas por la ley.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE ABRIL DE 2012)</small>
 
