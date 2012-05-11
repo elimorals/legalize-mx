@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2011-10-07"
+last_updated: "2012-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2012.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -205,11 +205,11 @@ Los actos o resoluciones dictados con motivo del desarrollo de los instrumentos 
 
 La Bandera, el Himno y el Escudo Nacionales, son los símbolos obligatorios en todo el Estado, pero éste tendrá además su propio escudo. No habrá otras banderas, otros himnos ni escudos de carácter oficial. El uso de los símbolos nacionales se sujetará a lo dispuesto por los ordenamientos federales.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE MARZO DE 1992)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 1992)</small>
 
 ### CAPITULO IV.. DE LAS GARANTIAS INDIVIDUALES, SOCIALES Y DE LA PROTECCION DE LOS DERECHOS HUMANOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 7.
 
@@ -351,9 +351,13 @@ El Gobierno del Estado se divide, para su ejercicio, en tres poderes: el Legisla
 
 No pueden reunirse dos o más poderes en una sola persona o corporación ni depositarse el Legislativo en un sólo individuo.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2012)</small>
 
-Corresponde al Gobierno del Estado la rectoría del desarrollo estatal, garantizando que éste sea integral y sustentable, asegurando de manera simultánea, el crecimiento económico, la equidad y la sustentabilidad ambiental.
+Corresponde al Gobierno del Estado la rectoría del desarrollo estatal, garantizando que éste sea integral y sustentable, asegurando de manera simultánea, el crecimiento económico, la equidad, la sustentabilidad ambiental y la competitividad.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2012)</small>
+
+La competitividad es el conjunto de condiciones necesarias para generar un mayor crecimiento económico, promoviendo la inversión y la generación de empleo.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE OCTUBRE DE 2011)</small>
 
@@ -362,6 +366,14 @@ El Municipio es el orden de gobierno representativo de la voluntad de los ciudad
 > <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 7 DE OCTUBRE DE 2011)</small>
 
 Las relaciones entre el Municipio y el Gobierno del Estado, se conducirán por los principios de subsidiariedad y equidad, en los términos de esta Constitución, con el propósito de lograr el desarrollo social y humano tendientes a mejorar la calidad de vida de los habitantes del Estado.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2012)</small>
+
+Las leyes facultarán al Ejecutivo a establecer los procedimientos de participación y consulta popular en el sistema estatal de planeación del desarrollo; y los criterios para la formulación, instrumentación, control y evaluación del plan y los programas de desarrollo.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2012)</small>
+
+La planeación estatal del desarrollo es un medio para el eficiente y eficaz desempeño de la responsabilidad del Gobierno del Estado y de los Gobiernos Municipales con relación al desarrollo integral de la entidad y tenderá a alcanzar los fines y objetivos políticos, sociales, culturales y económicos contenidos en la Constitución Política de los Estados Unidos Mexicanos y en la particular del Estado de Baja California.
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
@@ -391,7 +403,7 @@ V.- En los casos en que lo acuerde o solicite la Suprema Corte de Justicia de la
 
 El ejercicio del Poder Legislativo se deposita en una Asamblea de representantes del pueblo, que se denomina Congreso del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 14.
 
@@ -419,7 +431,7 @@ b).- Haber obtenido por lo menos el cuatro por ciento de la votación estatal em
 
 c).- (DEROGADO, P.O. 7 DE OCTUBRE DE 2011)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
 II.- El Instituto Electoral y de Participación Ciudadana del Estado de Baja California una vez verificados los requisitos de la fracción anterior, asignará un Diputado a cada partido político o coalición que tenga derecho a ello, la cual corresponderá a quien ocupe el primer lugar en la lista a que se refiere el inciso c), de la fracción I de este artículo.
 
@@ -463,13 +475,13 @@ V.- La asignación de los Diputados por el principio de representación proporci
 
 Los Diputados propietarios de la Legislatura del Estado no podrán ser reelectos para el período inmediato. Los Diputados suplentes podrán ser electos para el período inmediato con el carácter de propietario, siempre que no hubieren estado en ejercicio, pero los Diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 17.
 
 Para ser electo Diputado Propietario o Suplente, se requiere:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
 I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos e hijo de madre o padre mexicanos.
 
@@ -523,7 +535,7 @@ VII.- Los ministros de cualquier culto religioso, a menos que se separen en los 
 
 El Congreso se renovará totalmente cada tres años y se instalará el día 1ro. de octubre posterior a la elección.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO 20.
 
@@ -615,7 +627,7 @@ II.- Iniciar ante el Congreso de la Unión las leyes y decretos que sean de la c
 
 III.- Facultar al Ejecutivo con las limitaciones que crea necesarias, para que por sí o por apoderado especial, represente al Estado en los casos que corresponda;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
@@ -715,7 +727,7 @@ XXX.- Designar entre los vecinos, a propuesta del Gobernador del Estado, los Con
 
 XXXI.- Legislar respecto a las relaciones de trabajo entre el Estado, los Municipios, las Dependencias paraestatales y paramunicipales y sus trabajadores, con base en lo dispuesto en el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE OCTUBRE DE 2011)</small>
 
@@ -750,6 +762,10 @@ Los funcionarios a que se refiere el párrafo anterior, estarán obligados a acu
 > <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2004)</small>
 
 XXXVIII.- Expedir todas las leyes que sean necesarias, a fin de hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución y la Constitución Política de los Estados Unidos Mexicanos, a los Poderes del Estado de Baja California.
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2012)</small>
+
+XXXIX.- Examinar y opinar el Plan de Desarrollo del Estado que le remita el Ejecutivo.
 
 ### CAPITULO III.. DE LA INICIATIVA Y LA FORMACION DE LAS LEYES Y DECRETOS
 
@@ -809,7 +825,7 @@ Desechada una iniciativa no podrá volver a presentarse en el mismo período de 
 
 En la reforma, derogación o abrogación de las leyes o decretos, se observarán los mismos trámites establecidos para su formación.
 
-(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 2011) (F. DE E., P.O. 15 DE ABRIL DE 2011)
+(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 2011) (F. DE E., P.O. 15 DE ABRIL DE 2011)
 
 ###### ARTICULO 33.
 
@@ -915,7 +931,7 @@ e).- Proponer las bases para la determinación de daños y perjuicios que afecte
 
 Los Poderes del Estado y los sujetos de fiscalización proporcionarán auxilio al Órgano de Fiscalización Superior para el ejercicio de sus funciones.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE NOVIEMBRE DE 2003)</small>
 
 ### CAPITULO V.. DE LA PLANEACION LEGISLATIVA
 
@@ -953,7 +969,7 @@ La administración de las entidades paraestatales estará a cargo del titular de
 
 Para ser Gobernador del Estado se requiere:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
 I.- Ser ciudadano mexicano por nacimiento e hijo de madre o padre mexicanos.
 
@@ -1067,7 +1083,7 @@ Son facultades y obligaciones del Gobernador:
 
 I.- Promulgar, ejecutar y hacer que se cumplan las leyes, decretos y demás disposiciones que tengan vigencia en el Estado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2011)</small>
 
@@ -1097,7 +1113,7 @@ VIII.- Visitar los Municipios del Estado cuando lo estime conveniente, proveyend
 
 IX.- Prestar a los tribunales el auxilio que éstos requieran para el ejercicio expedito de sus funciones y hacer cumplir sus fallos y sentencias;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2011)</small>
 
@@ -1145,7 +1161,11 @@ XXIII.- Nombrar libremente al Procurador General de Justicia del Estado, quien d
 
 XXIV.- Remover al Procurador General de Justicia del Estado, en los términos de la Ley de la materia;
 
-XXV.- Las demás que le señalen expresamente esta Constitución y las Leyes Federales.
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2012)</small>
+
+XXV.- Planear y conducir el desarrollo integral del Estado en la esfera de su competencia, establecer procedimientos de participación y de consulta popular en el Sistema de Planeación Democrática, coordinar la ejecución del Plan Estatal de Desarrollo, integrando a este los planes municipales que formulen los Ayuntamientos y con la participación de los grupos sociales organizados; de conformidad con las disposiciones legales que emita el Congreso del Estado, y
+
+XXVI.- Las demás que le señalen expresamente esta Constitución y las Leyes Federales.
 
 ### CAPITULO III.. DEL SECRETARIO DE GOBIERNO
 
@@ -1209,7 +1229,7 @@ La Ley desarrollará en los términos que señala esta Constitución, la carrera
 
 ### CAPITULO III.. DEL MINISTERIO PUBLICO Y DE LA DEFENSORIA DE OFICIO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -1263,7 +1283,7 @@ Los Magistrados, Jueces y Consejeros de la Judicatura, del Poder Judicial, no se
 
 Durante su encargo, los Magistrados, Jueces y Consejeros de la Judicatura, del Poder Judicial, sólo podrán ser removidos en los términos que se señalan en esta Constitución y la Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 58.
 
@@ -1373,7 +1393,7 @@ VII.- Gozar de buena reputación y buena fama en el concepto público. La Ley de
 
 VIII.- No haber ocupado cargo de elección popular, ni haber ocupado cargo de dirigencia de algún partido político, o haber sido titular de una dependencia o entidad de la administración pública federal, estatal o municipal, o Consejero de la Judicatura, durante el año previo a la fecha en que deba ser nombrado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
 
 ###### ARTICULO 61.
 
@@ -1409,7 +1429,7 @@ VII. No haber ocupado cargo de elección popular, titular de una dependencia o e
 
 Las designaciones de jueces serán hechas, preferentemente de entre aquellas personas que presten o hubieren prestado sus servicios con eficacia y probidad en la Administración de Justicia, o que, sin haber laborado en el Poder Judicial, lo merezcan por su honorabilidad, competencia y antecedentes profesionales.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PARRAFO, P.O. 27 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 63.
 
@@ -1459,13 +1479,13 @@ X.- Designar a tres Consejeros de la Judicatura en los términos de esta Constit
 
 XI.- Ejercer las demás atribuciones que les señale esta Constitución y las Leyes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
 
 ###### ARTICULO 64.
 
 Las funciones de la vigilancia, administración, supervisión y disciplina del Poder Judicial del Estado, excluyendo las facultades jurisdiccionales de Magistrados y Jueces, estará a cargo del Consejo de la Judicatura en los términos que establezcan las leyes conforme a las bases que señale esta Constitución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1485,25 +1505,25 @@ El Consejo de la Judicatura se integrará por:
 
 I.- El Presidente del Tribunal Superior de Justicia, quien lo presidirá;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2010)</small>
 
 II.- Dos Magistrados del Tribunal Superior de Justicia del Estado, designados por mayoría de los integrantes del Pleno del citado Tribunal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2010)</small>
 
 III.- Un Juez designado por mayoría de los integrantes del Pleno del Tribunal Superior de Justicia del Estado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE AGOSTO DE 2010)</small>
 
 IV.- Dos Consejeros designados por mayoría calificada del Congreso del Estado, en términos de la convocatoria que éste apruebe, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE AGOSTO DE 2010)</small>
 
@@ -1541,7 +1561,7 @@ LAS RESOLUCIONES DEL CONSEJO SERÁN DEFINITIVAS E INATACABLES Y, POR LO TANTO, N
 
 El Consejo de la Judicatura del Estado elaborará el proyecto de presupuesto global del Poder Judicial, que comprenderá el del Tribunal Superior de Justicia y del Tribunal de Justicia Electoral, de los Juzgados y demás órganos judiciales; será elaborado por grupos y partidas presupuestales, y remitido por conducto de su presidente al titular del Poder Ejecutivo del Estado para el su (sic) inclusión en el Proyecto del Presupuesto de Egresos del Estado. El proyecto del Poder Judicial no podrá ser modificado por el titular del Poder Ejecutivo, pero el Congreso del Estado sí lo podrá modificar, en los términos señalados en (sic) artículo 90 de esta Constitución. El presupuesto estará vinculado a la aplicación del Plan de Desarrollo Judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 66.
 
@@ -1585,7 +1605,7 @@ El Tribunal de Justicia Electoral, tendrá competencia para resolver, en los té
 
 El Tribunal de Justicia Electoral funcionará en Pleno y en Salas en los términos que disponga la Ley. Las sesiones de resolución del Pleno serán públicas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2008)</small>
 
 El Tribunal de Justicia Electoral resolverá en los términos de esta Constitución y de la Ley, sobre:
 
@@ -1627,7 +1647,7 @@ El Tribunal expedirá su Reglamento Interno y las disposiciones administrativas 
 
 El Ministerio Público es la Institución encargada de la investigación y persecución de los delitos, el cual se auxiliará con una policía que estará bajo su conducción y mando en el ejercicio de esta función, y tendrá las atribuciones y estructura que la Ley le establezca. Asimismo, intervendrá en todos los demás negocios que determinen esta Constitución y las leyes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -1635,7 +1655,7 @@ El Ministerio Público es la Institución encargada de la investigación y perse
 
 El Procurador General de Justicia, los Subprocuradores y Agentes del Ministerio Público que determine la Ley, ejercen y representan al Ministerio Público.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -1643,7 +1663,7 @@ El Procurador General de Justicia, los Subprocuradores y Agentes del Ministerio 
 
 El Procurador General de Justicia dirigirá al Ministerio Público, y será nombrado y removido de conformidad a esta Constitución y a la Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -1651,7 +1671,7 @@ El Procurador General de Justicia dirigirá al Ministerio Público, y será nomb
 
 Los Subprocuradores serán nombrados y removidos por el Gobernador a propuesta del Procurador, en la forma que determine la Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -1659,7 +1679,7 @@ Los Subprocuradores serán nombrados y removidos por el Gobernador a propuesta d
 
 La función de Consejero Jurídico del Ejecutivo estará a cargo de la dependencia que para tal efecto establezca la Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -1667,7 +1687,7 @@ La función de Consejero Jurídico del Ejecutivo estará a cargo de la dependenc
 
 La Defensoría Pública proporcionará una defensa técnica de calidad en materia penal, a los imputados que no tengan defensor particular y patrocinará en los asuntos civiles y administrativos a las personas que lo soliciten y acrediten no tener suficientes recursos económicos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -1739,7 +1759,7 @@ Los ayuntamientos iniciarán el ejercicio de sus funciones el día primero de di
 
 Los integrantes de los ayuntamientos durarán en su cargo tres años y no podrán ser reelectos para el período inmediato, de conformidad con lo dispuesto en el Artículo 115, fracción I, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 79.
 
@@ -2053,7 +2073,7 @@ Pertenecen al Estado, además de los bienes de dominio público, de las contribu
 
 El Congreso expedirá la Ley de Hacienda que establecerá las bases para la fijación de los impuestos, derechos y participaciones y la manera de hacerlos efectivos, y que regule la organización de las oficinas recaudadoras.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTICULO 90.
 
@@ -2077,7 +2097,7 @@ El Poder Judicial contará y administrará igualmente, con los recursos que se s
 
 ## TITULO OCTAVO
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ### CAPITULO I.. DE LAS REFORMAS A LA CONSTITUCION
 
@@ -2149,7 +2169,7 @@ La votación no podrá llevarse a cabo en la misma sesión, sino con posteriorid
 
 Las decisiones que determine en esta materia el Congreso del Estado son definitivas e inatacables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 94.
 
@@ -2251,7 +2271,7 @@ IX (sic).- La Ley fijará cuáles son los empleados de confianza y cuáles los d
 
 La Ley del Servicio Civil determinará cual es el procedimiento y el órgano competente para dirimir los conflictos que surjan entre el Gobierno del Estado de Baja California y sus trabajadores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTICULO 100.
 
@@ -2313,7 +2333,7 @@ Nadie podrá entrar en el desempeño de ningún cargo o empleo del Estado, sin p
 
 Los funcionarios que entren a ejercer su encargo después del día señalado por esta Constitución, sólo durarán en sus funciones el tiempo que les faltare para cumplir el período correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTICULO 109.
 
@@ -2543,7 +2563,7 @@ El Secretario General de Gobierno
 
 LIC. JOSE ELIAS CASTRO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.</small>
 
 P.O. 10 DE JUNIO DE 1956.
 
@@ -3045,19 +3065,19 @@ UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su public
 
 P.O. 14 DE NOVIEMBRE DE 2003.
 
-DECRETO No. 214 POR EL QUE SE APRUEBA LA REFORMA AL ARTICULO 9 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+DECRETO No. 214 POR EL QUE SE APRUEBA LA REFORMA AL ARTÍCULO 9 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
 
 UNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
 
 P.O. 14 DE NOVIEMBRE DE 2003.
 
-DECRETO No. 215 POR EL QUE SE APRUEBA LA INICIATIVA QUE ADICIONA UNA FRACCION XXXVI AL ARTICULO 27 Y MODIFICA LA DENOMINACION DEL CAPITULO IV Y REFORMA LOS ARTICULOS 38 Y 39, DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+DECRETO No. 215 POR EL QUE SE APRUEBA LA INICIATIVA QUE ADICIONA UNA FRACCIÓN XXXVI AL ARTÍCULO 27 Y MODIFICA LA DENOMINACIÓN DEL CAPÍTULO IV Y REFORMA LOS ARTÍCULOS 38 Y 39, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
 
 ÚNICO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
 
 P.O. 14 DE NOVIEMBRE DE 2003.
 
-DECRETO No. 237 POR EL QUE SE REFORMAN LOS ARTICULOS 14 Y 15 DE LA CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA.
+DECRETO No. 237 POR EL QUE SE REFORMAN LOS ARTÍCULOS 14 Y 15 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE BAJA CALIFORNIA.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3229,7 +3249,7 @@ IV. El Director General del Instituto Electoral y de Participación Ciudadana, q
 
 P.O. 19 DE SEPTIEMBRE DE 2008.
 
-DECRETO No. 122, POR EL QUE SE ADICIONA LA FRACCION XXI DEL ARTICULO 49 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+DECRETO No. 122, POR EL QUE SE ADICIONA LA FRACCIÓN XXI DEL ARTÍCULO 49 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
 
 Artículo Primero.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
 
@@ -3237,7 +3257,7 @@ Artículo Segundo.- Para los efectos de lo dispuesto en el Artículo 112 de la C
 
 P.O. 19 DE SEPTIEMBRE DE 2008.
 
-DECRETO No. 123, POR EL QUE SE REFORMA LA FRACCION XXVI DEL ARTICULO 27 Y SE ADICIONA EL ARTICULO 76 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+DECRETO No. 123, POR EL QUE SE REFORMA LA FRACCIÓN XXVI DEL ARTÍCULO 27 Y SE ADICIONA EL ARTÍCULO 76 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
 
 PRIMERO.- Túrnese el presente decreto a los ayuntamientos, de conformidad con el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
 
@@ -3313,7 +3333,7 @@ CUARTO.- La reforma al primer párrafo del artículo 17 de la Ley Orgánica del 
 
 P.O. 22 DE MAYO DE 2009.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
 
 P.O. 28 DE AGOSTO DE 2009.
 
@@ -3357,7 +3377,7 @@ La persona o personas que al momento de la publicación de este Decreto detenten
 
 P.O. 24 DE SEPTIEMBRE DE 2010.
 
-DECRETO NUMERO 429, POR EL QUE SE REFORMAN LOS ARTICULOS 58, 64 Y 109 DE LA CONSTITUCION POLITICA DE BAJA CALIFORNIA.
+DECRETO NÚMERO 429, POR EL QUE SE REFORMAN LOS ARTÍCULOS 58, 64 Y 109 DE LA CONSTITUCIÓN POLÍTICA DE BAJA CALIFORNIA.
 
 PRIMERO.- Túrnese a los Ayuntamientos del Estado para el trámite previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
 
@@ -3375,7 +3395,7 @@ SEXTO.- En caso de ser ratificados los Magistrados del Tribunal de Justicia Elec
 
 P.O. 24 DE SEPTIEMBRE DE 2010.
 
-DECRETO NUMERO 430, POR EL QUE SE REFORMAN LOS PARRAFOS SEPTIMO, OCTAVO Y NOVENO, Y SE ADICIONA UN PARRAFO DECIMO, DEL ARTICULO 7 DE LA CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA.
+DECRETO NÚMERO 430, POR EL QUE SE REFORMAN LOS PÁRRAFOS SÉPTIMO, OCTAVO Y NOVENO, Y SE ADICIONA UN PÁRRAFO DÉCIMO, DEL ARTÍCULO 7 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE BAJA CALIFORNIA.
 
 PRIMERO.- Aprobada que sea esta Iniciativa por esta Honorable Asamblea, envíese a los Ayuntamientos del Estado copia del acta de los debates que hubiere provocado, para efecto de dar cumplimiento con lo previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
 
@@ -3393,7 +3413,7 @@ SÉPTIMO.- Los sujetos obligados al cumplimiento de las disposiciones de transpa
 
 P.O. 28 DE ENERO DE 2011.
 
-DECRETO NUMERO 28, POR EL QUE SE REFORMAN Y ADICIONAN EL ARTICULO 27 FRACCION XXXVI; EL ARTICULO 33 Y EL ARTICULO 34 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+DECRETO NÚMERO 28, POR EL QUE SE REFORMAN Y ADICIONAN EL ARTÍCULO 27 FRACCIÓN XXXVI; EL ARTÍCULO 33 Y EL ARTÍCULO 34 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
 
 PRIMERO.- Aprobada que sea la presente reforma, túrnese a los Ayuntamientos del Estado de Baja California, para el trámite previsto en los términos del artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
 
@@ -3403,7 +3423,7 @@ TERCERO.- Las presentes reformas entrarán en vigor al día siguiente de su publ
 
 P.O. 28 DE ENERO DE 2011.
 
-DECRETO NUMERO 30, POR EL QUE SE REFORMA A LOS ARTICULOS 22, 27 FRACCION XXXIV Y 109 PARRAFOS TERCERO, CUARTO, QUINTO NOVENO, DECIMO Y DECIMO PRIMERO; SE DEROGA EL ARTICULO 36, TODOS DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+DECRETO NÚMERO 30, POR EL QUE SE REFORMA A LOS ARTÍCULOS 22, 27 FRACCIÓN XXXIV Y 109 PÁRRAFOS TERCERO, CUARTO, QUINTO NOVENO, DÉCIMO Y DÉCIMO PRIMERO; SE DEROGA EL ARTÍCULO 36, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
 
 PRIMERO.- Aprobada que sea esta Iniciativa por esta Honorable Asamblea, envíese a los Ayuntamientos del Estado copia del acta de los debates que hubiere provocado, para efecto de dar cumplimiento con lo previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
 
@@ -3413,7 +3433,7 @@ TERCERO.- La presente reforma entrará en vigor al día siguiente de su publicac
 
 P.O. 27 DE MAYO DE 2011.
 
-DECRETO NUMERO 454, POR EL QUE SE REFORMAN LOS ARTICULOS 17, 41 Y 80 DE LA CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA.
+DECRETO NÚMERO 454, POR EL QUE SE REFORMAN LOS ARTÍCULOS 17, 41 Y 80 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE BAJA CALIFORNIA.
 
 PRIMERO.- Túrnese el presente Decreto a los Ayuntamientos, de conformidad con el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
 
@@ -3423,7 +3443,7 @@ TERCERO.- La presente reforma entrará en vigor el día siguiente de su publicac
 
 P.O. 27 DE MAYO DE 2011.
 
-DECRETO NUMERO 56, POR EL QUE SE ADICIONA UN PARRAFO SEGUNDO RECORRIENDOSE LOS SUBSECUENTES EN SU ORDEN AL ARTICULO 7 DE LA CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA.
+DECRETO NÚMERO 56, POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO RECORRIÉNDOSE LOS SUBSECUENTES EN SU ORDEN AL ARTÍCULO 7 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE BAJA CALIFORNIA.
 
 PRIMERO.- Túrnese la presente reforma a los Ayuntamientos, de conformidad con el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
 
@@ -3435,7 +3455,7 @@ CUARTO.- La presente reforma entrará en vigor al día siguiente de su publicaci
 
 P.O. 1 DE JULIO DE 2011.
 
-DECRETO NUMERO 68, POR EL QUE SE APRUEBA LA REFORMA A LAS FRACCIONES II, III, IV Y V DEL ARTICULO 18, 42 Y 80 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+DECRETO NÚMERO 68, POR EL QUE SE APRUEBA LA REFORMA A LAS FRACCIONES II, III, IV Y V DEL ARTÍCULO 18, 42 Y 80 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
 
 PRIMERO.- Túrnese la presente reforma a los Ayuntamientos del Estado a efecto de que se emita su opinión, siguiendo con el procedimiento marcado en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
 
@@ -3443,7 +3463,7 @@ SEGUNDO.- Una vez agotado el proceso legislativo en los términos del artículo 
 
 P.O. 1 DE JULIO DE 2011.
 
-DECRETO NUMERO 69, POR EL QUE SE APRUEBA LA REFORMA A LOS ARTICULOS 22 PARRAFO QUINTO Y 27 FRACCION XI DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+DECRETO NÚMERO 69, POR EL QUE SE APRUEBA LA REFORMA A LOS ARTÍCULOS 22 PÁRRAFO QUINTO Y 27 FRACCIÓN XI DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
 
 PRIMERO.- Túrnese la presente reforma a los Ayuntamientos del Estado a efecto de que se emita su opinión, siguiendo con el procedimiento marcado en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
 
@@ -3451,7 +3471,7 @@ SEGUNDO.- Una vez agotado el proceso legislativo en los términos del artículo 
 
 P.O. 1 DE JULIO DE 2011.
 
-DECRETO NUMERO 70, POR EL QUE SE APRUEBA LA REFORMA AL ARTICULO 98 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, ADICIONANDOLE UN PARRAFO SEGUNDO.
+DECRETO NÚMERO 70, POR EL QUE SE APRUEBA LA REFORMA AL ARTÍCULO 98 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, ADICIONÁNDOLE UN PÁRRAFO SEGUNDO.
 
 PRIMERO.- Córrase traslado a los Ayuntamientos de Baja California, para dar cumplimiento a las disposiciones previstas en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
 
@@ -3482,3 +3502,17 @@ SEGUNDO.- El Congreso del Estado deberá adecuar las legislaciones secundarias, 
 TERCERO.- Un distrito electoral de los diecisiete que tenga el Estado de Baja California corresponderá al Municipio de Playas de Rosarito.
 
 CUARTO.- Las reformas a los artículos 27, fracciones III y XXXII, 49, fracciones II y X, y 93 del presente Decreto, entrarán en vigor el primero de noviembre del año dos mil trece.
+
+P.O. 11 DE MAYO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para dar cumplimiento a lo establecido en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, cuando la iniciativa de adición o reforma haya sido aprobada por acuerdo de las dos tercias partes del número total de diputados, se enviará ésta a los Ayuntamientos, con copia de las actas de los debates que hubiere provocado, para que a su vez, los Ayuntamientos remitan a este Honorable Congreso el resultado de su votación.
