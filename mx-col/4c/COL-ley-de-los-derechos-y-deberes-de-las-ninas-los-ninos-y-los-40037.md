@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-derechos-y-deberes-de-las-ninas-los-ninos-y-los-4003
 country: "mx"
 rank: "ley"
 publication_date: "2004-06-19"
-last_updated: "2011-03-05"
+last_updated: "2012-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LOS DERECHOS Y DEBERES DE LAS NIÑAS, LOS NIÑOS Y LOS ADOLESCENTES DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2012.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -247,7 +247,7 @@ El Gobierno estatal, los Ayuntamientos del Estado y la Comisión de Derechos Hum
 
 A falta de disposición expresa en la Constitución, en los tratados internacionales, en la Constitución del Estado o en esta Ley, se aplicará supletoriamente la legislación civil, y procesal civil; los principios generales que deriven de dichos ordenamientos y, a falta de éstos, a los principios generales del derecho, a lo que no se oponga al objetivo de esta ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2008)</small>
 
 ###### Artículo 8º.
 
@@ -325,7 +325,9 @@ La madre, el padre, los tutores, todas las personas que tengan a su cuidado niñ
 
 Es obligación de familiares, vecinos, médicos, maestros, trabajadores sociales, servidores públicos o cualesquiera persona, hacer del conocimiento de la Procuraduría, o del Ministerio Público de casos de las niñas, los niños o los adolescentes que estén sufriendo del abandono y la violación de los derechos consignados en esta Ley, a fin de que ésta pueda realizar la investigación correspondiente.
 
-En las escuelas o instituciones similares, los educadores o maestros serán responsables de evitar cualquier forma de maltrato, perjuicio, daño, agresión, abuso o explotación, en contra de las niñas, niños y adolescentes.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2012)</small>
+
+En las escuelas o instituciones similares, los dueños, directivos, educadores, maestros o personal administrativo serán responsables de evitar cualquier forma de maltrato, perjuicio, daño, agresión, abuso o explotación, en contra de niñas, niños o adolescentes.
 
 ###### Artículo 15.
 
@@ -1157,7 +1159,9 @@ Para la determinación de la sanción, la Procuraduría, estará a lo dispuesto 
 
 I.- La gravedad de la infracción;
 
-II.- El carácter intencional de la infracción;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2012)</small>
+
+II.- El carácter intencional de la infracción y el daño, particularmente causado a niñas, niños y adolescentes;
 
 III.- La situación de reincidencia, y
 
@@ -1233,12 +1237,16 @@ Dado en el Palacio de Gobierno, al día 18 del mes de junio del año dos mil cua
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, PROFR. GUSTAVO ALBERTO VÁZQUEZ MONTES. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, C. ARNOLDO OCHOA GONZÁLEZ. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 31 DE MAYO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL Estado de Colima".
 
 P.O. 5 DE MARZO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 12 DE MAYO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
