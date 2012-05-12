@@ -4,7 +4,7 @@ identifier: "COL-ley-de-salud-del-estado-de-colima-18943"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-23"
-last_updated: "2011-11-07"
+last_updated: "2012-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE SALUD DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2012
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 23 de diciembre de 2000.
 
@@ -369,7 +369,9 @@ III.- Ser debidamente autorizado por las autoridades que designe la Secretaría 
 
 ## TITULO SEGUNDO. SISTEMA ESTATAL DE SALUD
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 12 DE MAYO DE 2012)</small>
+
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 14.
 
@@ -517,17 +519,101 @@ IX. La realización de campañas intensivas de información y orientación en ma
 
 X. La prevención y atención médica integral de las infecciones de transmisión sexual, particularmente el VIH-SIDA.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE MAYO DE 2012)</small>
+
+### CAPITULO II. SALUD MENTAL
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2012)</small>
+
+ARTICULO 20 BIS 4.- La salud mental, se define como el bienestar psíquico que experimenta de manera consciente una persona, como resultado de su buen funcionamiento en los aspectos cognoscitivos, afectivos y conductuales, que le permiten el despliegue óptimo de sus potencialidades individuales para la convivencia, el trabajo y la recreación, de manera que pueda contribuir a su comunidad.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2012)</small>
+
+ARTICULO 20 BIS 5.- Toda persona que habite o transite en el Estado de Colima, independientemente de su edad, género, condición social, condiciones de salud, religión, identidad étnica, orientación sexual o cualquiera otro, tienen derecho a la salud mental.
+
+El Gobierno del Estado, las dependencias e instituciones públicas, sociales y privadas, en el ámbito de sus respectivas competencias, tienen la obligación de garantizar el cumplimiento de este derecho, mediante una política transversal, con respeto a los derechos humanos y con un enfoque de género.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2012)</small>
+
+ARTICULO 20 BIS 6.- El núcleo familiar desempeña una función esencial en el desarrollo de las potencialidades de las personas con trastornos mentales, para ello deberá:
+
+I.- Proporcionar apoyo, cuidados, educación, protección a la salud, alimentación suficiente y adecuada;
+
+II.- Respetar los principios de autonomía individual, independencia, igualdad, no discriminación y todos aquellos que garanticen la igualdad en el ejercicio de sus derechos;
+
+III.- Recibir apoyo por parte del Gobierno del Estado, para el desarrollo de actividades que promuevan la integración y el desarrollo de sus integrantes;
+
+IV.- Recibir capacitación y orientación por parte de las instituciones públicas, sociales y privadas; y
+
+V.- Participar en actividades culturales, recreativas, deportivas y de esparcimiento, que contribuyan al desarrollo integral de las personas con algún trastorno mental.
+
+Corresponde a la Secretaría, proporcionar a las personas que integren el núcleo familiar, debida asistencia, asesoría, orientación, capacitación y adiestramiento necesario para enfrentar dicha enfermedad.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2012)</small>
+
+ARTICULO 20 BIS 7.- Además de los derechos a que se refiere el artículo 20 Bis 5, las personas usuarias de los servicios de salud mental, tendrán derecho:
+
+I.- Al acceso oportuno y adecuado a los servicios de salud mental;
+
+II.- A la toma de decisiones relacionadas con su atención y tratamiento;
+
+III.- A la atención médica en el momento que lo solicite y, en su caso, a ser atendido en las instancias de salud del segundo y tercer nivel de atención, para completar su proceso de tratamiento y rehabilitación;
+
+IV.- A ser informado sobre las campañas, planes, programas y servicios que proporcione el Gobierno del Estado y las instituciones sociales y privadas en materia de salud mental;
+
+V.- A conservar la confidencialidad de la información personal, a una historia clínica de conformidad con lo establecido en las normas oficiales y al anonimato de los participantes en estudios;
+
+VI.- A que se informe al padre, madre, tutor o representante legal con veracidad de la condición y el posible efecto del programa, campaña o tratamiento que reciba la persona usuaria, en caso de que sea menor de edad o incapaz. Lo anterior es aplicable a toda la población, incluida aquella que se encuentra en unidades médicas de reclusorios y comunidades para adolescentes, así como a grupos vulnerables;
+
+VII.- A que se le apliquen exámenes de valoración, confiables y actualizados que consideren su entorno social o característica a estudiar y a conocer los alcances y las limitaciones de las evaluaciones realizadas;
+
+VIII.- A solicitar su diagnóstico diferencial, a recibir atención especializada, a contar con un plan o programa integral de tratamiento para la recuperación de sus funciones cerebrales, habilidades cognitivas, proceso de aprendizaje, así como a la reinserción al ámbito social y productivo, conservando su integridad psicológica, incluyendo a pacientes que hayan estado recluidos en un hospital o pabellón penitenciario psiquiátrico o establecimiento especializado en adiciones (sic);
+
+IX.- A ser ingresado a algún centro de internamiento mental por prescripción médica, incluyendo conductas o acciones que puedan causarle daño físico inmediato o inminente así mismo, a terceros o la propiedad, cuando la severidad de los síntomas y signos así lo indiquen, conforme a las mejores prácticas de la psicología, la psiquiatría y medicina;
+
+X.- A ser egresado del centro de internamiento mental, sólo cuando el médico tratante considere que puede continuar su tratamiento en forma ambulatoria y que ya no exista el riesgo que su conducta o acciones puedan causarle daño físico inmediato o inminente, así mismo, a terceros o la propiedad;
+
+XI.- A la rehabilitación que le permita la reinserción familiar, laboral y comunitaria;
+
+XII.- A la accesibilidad de familiares u otras personas, en el acompañamiento de las personas usuarias de los servicios de salud mental, salvo que medie contraindicación profesional;
+
+XIII.- A recibir un trato digno y con respeto a sus derechos humanos, por parte de sus familiares y a que estos le proporcionen alimentos y cuidados necesarios para su rehabilitación integral; y
+
+XIV.- A que no se divulgue a terceros por alguno de los medios de comunicación existentes, la atención brindada por el personal de salud mental en las diversas instituciones que presten el servicio, cuando no medie su autorización expresa, salvo disposición contraria en este y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2012)</small>
+
+ARTICULO 20 BIS 8.- El profesional de salud mental tiene la obligación de estar debidamente acreditado para ejercer sus funciones, lo que incluye al menos, tener Cédula Profesional, Título Profesional y, en su caso, certificados de especialización expedidos y registrados por las autoridades educativas competentes, con la finalidad de que el usuario corrobore que es un especialista en la materia de salud mental.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2012)</small>
+
+ARTICULO 20 BIS 9.- Corresponden a la Secretaría, en el ámbito de su competencia, sin menoscabo de las demás que se encuentren estipuladas en esta Ley y demás ordenamientos legales, las siguientes acciones:
+
+I.- Elaborar el Programa de Salud Mental para el Estado de Colima, conforme a los lineamientos establecidos en la Ley General de Salud, las Normas Oficiales Mexicanas y en esta Ley, fomentando la participación de los sectores social y privado;
+
+II.- Implementar de manera formal y sistemática, programas en materia de salud mental, con un enfoque de derechos humanos y perspectiva de género;
+
+III.- Diseñar y ejecutar de manera permanente en los medios de difusión masiva, campañas educativas para orientar, motivar e informar a la población sobre el concepto de salud mental, los estigmas imperantes en la población, los diversos trastornos mentales existentes, los síntomas que se presentan, las formas de prevención, y modos de atención, en coordinación con las dependencias e instituciones competentes;
+
+IV.- Llevar a cabo reuniones periódicas con los demás organismos centralizados, descentralizados y desconcentrados de la Administración Pública del Estado de Colima, a efecto de suscribir los instrumentos jurídicos necesarios para generar las condiciones necesarias para la rehabilitación;
+
+V.- Fijar, con pleno respeto a la autonomía municipal, los lineamientos de coordinación para que los ayuntamientos, en el ámbito de su competencia, intervengan en la promoción de la salud mental, e incentiven la participación social;
+
+VI.- Implementar estrategias de coordinación de índole institucional con los prestadores de servicios de salud mental del sector público, social y privado, con la finalidad de generar convenios y acciones de coordinación para la prevención, diagnóstico oportuno, tratamiento y rehabilitación de los problemas de salud, así como en la prestación de los servicios de salud mental;
+
+VII.- Coordinarse con la Secretaría del Trabajo y Previsión Social del Estado de Colima, a efecto de establecer acciones para que las personas con trastornos mentales, previa valoración y certificación médica emitida por la Secretaría, puedan acceder a fuentes de trabajo; y
+
+VIII.- Las demás acciones que contribuyan a la promoción fomento (sic) de la salud mental de la población.
+
 ### CAPITULO I. DISPOSICIONES COMUNES
 
 ### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
 
 ### CAPITULO III. CONSTRUCCIONES
 
-### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
-
 ## TITULO TERCERO. SALUBRIDAD LOCAL
 
-### CAPITULO V. LIMPIEZA PUBLICA
+### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
 
 ###### ARTICULO 21.
 
@@ -573,7 +659,7 @@ La Secretaría expedirá las normas técnicas a que quedará sujeto el control s
 
 La Secretaría publicará en el Periódico Oficial, las normas técnicas en materia de salubridad local y, en caso de considerarlo necesario, las resoluciones que dicte sobre la revocación de las autorizaciones sanitarias.
 
-### CAPITULO VI. RASTROS
+### CAPITULO V. LIMPIEZA PUBLICA
 
 ###### ARTICULO 27.
 
@@ -591,7 +677,7 @@ La Secretaría verificará que los mercados y centros de abasto, sean provisiona
 
 Los administradores, vendedores, locatarios y personas cuya actividad esté vinculada con los mercados y centros de abasto, estarán obligados a conservar las condiciones higiénico-sanitarias para el debido mantenimiento de sus locales y a sujetar el ejercicio de los mismos a lo que disponga esta Ley, los reglamentos respectivos, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO VII. AGUA POTABLE
+### CAPITULO VI. RASTROS
 
 ###### ARTICULO 30.
 
@@ -625,7 +711,7 @@ Cuando los edificios, locales, construcciones o terrenos presenten un peligro, p
 
 Los propietarios o poseedores de los negocios establecidos en edificios o locales, están obligados a ejecutar las obras sanitarias que se requieran para cumplir con las disposiciones de higiene que establezca esta Ley, reglamentos y demás disposiciones relativas.
 
-### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
+### CAPITULO VII. AGUA POTABLE
 
 ###### ARTICULO 38.
 
@@ -645,7 +731,7 @@ La aprobación de las solicitudes de conservación, refrigeración, exhumación 
 
 Para el traslado de cadáveres humanos se estará a lo dispuesto por la Ley General.
 
-### CAPITULO IX. ZONAS DE TOLERANCIA Y PROSTITUCION
+### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 ###### ARTICULO 41.
 
@@ -681,7 +767,7 @@ Las autoridades municipales fijarán lugares especiales para depositar la basura
 
 Los Ayuntamientos proveerán y colocarán depósitos de basura en los parques, jardines, paseos y en otros lugares de la vía pública; además, realizarán el aseo y mantenimiento de los mismos, cada vez que sea necesario.
 
-### CAPITULO X. RECLUSORIOS Y CENTROS DE READAPTACION SOCIAL
+### CAPITULO IX. ZONAS DE TOLERANCIA Y PROSTITUCION
 
 ###### ARTICULO 46.
 
@@ -729,7 +815,7 @@ Queda a cargo del municipio, en el ámbito de su competencia, las actividades de
 
 La Secretaría podrá verificar en cualquier tiempo, el cumplimiento de la presente Ley y demás disposiciones legales aplicables.
 
-### CAPITULO XI. BAÑOS PUBLICOS
+### CAPITULO X. RECLUSORIOS Y CENTROS DE READAPTACION SOCIAL
 
 ###### ARTICULO 57.
 
@@ -757,7 +843,7 @@ Queda prohibido que los desechos que conduzcan los caños sean vertidos en ríos
 
 La infracción a esta disposición se sancionará de conformidad con los ordenamientos legales aplicables.
 
-### CAPITULO XII. CENTROS DE REUNION Y ESPECTACULOS PUBLICOS
+### CAPITULO XI. BAÑOS PUBLICOS
 
 ###### ARTICULO 63.
 
@@ -785,7 +871,7 @@ Los establecimientos a que se refiere este capítulo, no podrán estar ubicados 
 
 Los establecimientos que se encuentren en el supuesto del artículo anterior, la Secretaría podrá ordenar la desocupación de los mismos siguiendo el procedimiento correspondiente.
 
-### CAPITULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS
+### CAPITULO XII. CENTROS DE REUNION Y ESPECTACULOS PUBLICOS
 
 ###### ARTICULO 67.
 
@@ -813,7 +899,7 @@ II.- A las personas que padezcan de alguna enfermedad sexualmente transmisible u
 
 La autoridad municipal determinará los lugares donde se permitirá el ejercicio de la prostitución, para lo cual podrá solicitar la opinión de la Secretaría, de conformidad con las disposiciones legales reglamentarias aplicables.
 
-### CAPITULO XIV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+### CAPITULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS
 
 ###### ARTICULO 71.
 
@@ -839,7 +925,7 @@ Tratándose de casos graves, de emergencia o cuando así lo requiera el tratamie
 
 Las personas encargadas de los servicios médicos de los reclusorios y centros de readaptación social, a partir de que tengan conocimiento de alguna enfermedad transmisible, deberán adoptar las medidas de seguridad sanitaria que procedan para evitar la propagación de la misma, así como observar el capítulo respectivo de la Ley General.
 
-### CAPITULO XV. TRANSPORTE PUBLICO
+### CAPITULO XIV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
 ###### ARTICULO 73.
 
@@ -849,7 +935,7 @@ Para los efectos de esta Ley, se entiende por baño público el establecimiento 
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas técnicas que en materia de salubridad local dicte la Secretaría.
 
-### CAPITULO XVI. GASOLINERIAS (SIC) Y ESTABLECIMIENTOS SIMILARES
+### CAPITULO XV. TRANSPORTE PUBLICO
 
 ###### ARTICULO 75.
 
@@ -859,7 +945,7 @@ Para los efectos de esta Ley, se entiende por centro de reunión y espectáculos
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas técnicas que en materia de salubridad local emita la Secretaría.
 
-### CAPITULO XVII. CENTROS ANTIRRABICOS
+### CAPITULO XVI. GASOLINERIAS (SIC) Y ESTABLECIMIENTOS SIMILARES
 
 ###### ARTICULO 77.
 
@@ -881,6 +967,8 @@ Corresponde a la autoridad sanitaria ejercer el control sanitario de los estable
 
 El funcionamiento de los establecimientos señalados en este capítulo deberá apegarse a lo establecido en esta Ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
+### CAPITULO XVII. CENTROS ANTIRRABICOS
+
 ### CAPITULO XVIII. CASAS, EDIFICIOS Y, EN GENERAL, CUALQUIER INMUEBLE DE DOMINIO PUBLICO O PRIVADO
 
 > <small>(ADICIONADO, P.O. 14 DE JULIO DE 2007)</small>
@@ -897,7 +985,25 @@ ARTICULO 92 BIS 2.- La Secretaría verificará que los establecimientos destinad
 
 En caso de incumplimiento por parte de los propietarios o poseedores de dichos establecimientos, la Secretaría, llevará a cabo las acciones sanitarias preventivas necesarias para corregir las anomalías existentes o detectadas a través del procedimiento señalado en la fracción IV del artículo 121 de esta Ley.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE MAYO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE MAYO DE 2008)</small>
+
+###### ARTICULO 81.
+
+Para los efectos de esta Ley, se entiende por establecimiento de hospedaje, el que proporcione servicio público de alojamiento y otros servicios complementarios, mediante el pago de un precio determinado.
+
+Los establecimientos de hospedaje serán: hoteles, moteles, campamentos, albergues, posadas, casa de huéspedes, casa de asistencia, de tiempo compartido, así como cualquier edificación que se destina a dar alojamiento.
+
+###### ARTICULO 82.
+
+Los establecimientos de hospedaje contarán necesariamente con los elementos para prestar los primeros auxilios, así como con los medicamentos y materiales de curación que considere necesarios la autoridad competente.
+
+###### ARTICULO 83.
+
+En caso de que estos establecimientos cuenten con servicios complementarios como restaurante, servicio de bar, peluquería, sala de belleza, baños, masaje, gimnasio, lavandería, planchaduría y tintorería, estos quedarán sujetos a las normas y requisitos que fijen los capítulos correspondientes de este ordenamiento y de sus reglamentos respectivos.
+
+###### ARTICULO 84.
+
+La autoridad sanitaria competente, de conformidad con esta Ley y otras disposiciones legales aplicables, realizará el control sanitario a dichos establecimientos.
 
 ### CAPITULO XIX. DE LOS PROGRAMAS CONTRA EL ALCOHOLISMO Y EL CONSUMO DE TABACO
 
@@ -935,26 +1041,6 @@ III. Efectos del abuso de éstas sustancias en los ámbitos familiar, social, ed
 
 IV. Los demás casos que ameriten su estudio y Análisis.
 
-###### ARTICULO 81.
-
-Para los efectos de esta Ley, se entiende por establecimiento de hospedaje, el que proporcione servicio público de alojamiento y otros servicios complementarios, mediante el pago de un precio determinado.
-
-Los establecimientos de hospedaje serán: hoteles, moteles, campamentos, albergues, posadas, casa de huéspedes, casa de asistencia, de tiempo compartido, así como cualquier edificación que se destina a dar alojamiento.
-
-###### ARTICULO 82.
-
-Los establecimientos de hospedaje contarán necesariamente con los elementos para prestar los primeros auxilios, así como con los medicamentos y materiales de curación que considere necesarios la autoridad competente.
-
-###### ARTICULO 83.
-
-En caso de que estos establecimientos cuenten con servicios complementarios como restaurante, servicio de bar, peluquería, sala de belleza, baños, masaje, gimnasio, lavandería, planchaduría y tintorería, estos quedarán sujetos a las normas y requisitos que fijen los capítulos correspondientes de este ordenamiento y de sus reglamentos respectivos.
-
-###### ARTICULO 84.
-
-La autoridad sanitaria competente, de conformidad con esta Ley y otras disposiciones legales aplicables, realizará el control sanitario a dichos establecimientos.
-
-### CAPITULO I. AUTORIZACIONES
-
 ###### ARTICULO 85.
 
 Para los efectos de esta Ley, se entiende por medio de transporte todo aquel vehículo destinado al traslado de carga, de alimentos o de pasajeros, sea cual fuere su forma de desplazamiento.
@@ -963,7 +1049,7 @@ Para los efectos de esta Ley, se entiende por medio de transporte todo aquel veh
 
 Las unidades que circulen por uno o más municipios del Estado, deberán cumplir con los requisitos sanitarios establecidos en las disposiciones reglamentarias aplicables.
 
-### CAPITULO II. REVOCACION DE LAS AUTORIZACIONES SANITARIAS
+### CAPITULO I. AUTORIZACIONES
 
 ###### ARTICULO 87.
 
@@ -973,7 +1059,7 @@ Para los efectos de esta Ley, se entiende por gasolinería (sic) y estaciones de
 
 Los establecimientos a que se refiere este capítulo deberán contar con las instalaciones higienico-sanitarias que establezcan las disposiciones legales y reglamentarias aplicables y las normas técnicas correspondientes.
 
-### CAPITULO III. CERTIFICADOS
+### CAPITULO II. REVOCACION DE LAS AUTORIZACIONES SANITARIAS
 
 ###### ARTICULO 89.
 
@@ -1007,15 +1093,15 @@ Los propietarios serán responsables de las lesiones y daños a terceros que cau
 
 Las autoridades competentes mantendrán campañas permanentes de orientación a la población, enfocadas a la vacunación y control de animales domésticos susceptibles de contraer la rabia.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O 14 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O 14 DE JULIO DE 2007)</small>
+
+### CAPITULO III. CERTIFICADOS
 
 ### CAPITULO UNICO
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
-
 ## TITULO CUARTO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTICULO 93.
 
@@ -1047,7 +1133,7 @@ Requieren de autorización sanitaria bajo la modalidad de permiso, los proyectos
 
 Las autorizaciones a que se refiere esta Ley, podrán ser revisadas por la autoridad sanitaria competente en los términos de las disposiciones generales aplicables; asimismo, se regirán por lo que determine la legislación y disposiciones correspondientes.
 
-### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 100.
 
@@ -1093,7 +1179,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La revocación surtirá efectos de clausura definitiva, prohibición de uso o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO IV. RECURSO DE INCONFORMIDAD
+### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTICULO 107.
 
@@ -1127,7 +1213,7 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ## TITULO QUINTO. VIGILANCIA SANITARIA
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO IV. RECURSO DE INCONFORMIDAD
 
 ###### ARTICULO 112.
 
@@ -1232,6 +1318,8 @@ Transcurrido este plazo sin que se haya impugnado el resultado del análisis ofi
 En el caso de los productos muestreados en procedimientos de muestreo o verificación, sólo los laboratorios autorizados o habilitados por la autoridad correspondiente, podrán determinar por medio de los análisis practicados, si éstos reúnen o no sus especificaciones sanitarias.
 
 ## TITULO SEXTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
+
+### CAPITULO V. PRESCRIPCION
 
 ###### ARTICULO 125.
 
@@ -1571,7 +1659,7 @@ Dado en Palacio de Gobierno, a los 18 días del mes de diciembre del año dos mi
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. JORGE HUMBERTO SILVA OCHOA.-
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 2 DE SEPTIEMBRE DE 2006.
 
@@ -1616,3 +1704,7 @@ TERCERO.- Los procedimientos penales que se estén substanciando a la entrada en
 CUARTO.- El Gobierno Federal deberá financiar las acciones derivadas del cumplimiento del Decreto número 211, aprobado por el Congreso de la Unión, por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 20 de agosto de 2009, con los recursos que anualmente se prevean en el Presupuesto de Egresos de la Federación, en términos del Artículo Cuarto Transitorio del citado Decreto.
 
 QUINTO.- Los Poderes Ejecutivo y Legislativo Estatales deberán prever y realizar las acciones necesarias para asegurar los recursos en el Presupuesto de Egresos del Estado, a fin de que las autoridades del fuero común puedan dar cumplimiento a la competencia y atribuciones establecidas en el Decreto número 211, referido en el artículo anterior.
+
+P.O. 12 DE MAYO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
