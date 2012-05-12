@@ -4,7 +4,7 @@ identifier: "COL-ley-de-proteccion-de-datos-personales-en-el-estado-de-colima-32
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-21"
-last_updated: "2003-06-21"
+last_updated: "2012-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY DE PROTECCION DE DATOS PERSONALES EN EL ESTADO DE COLIMA
 
-LEY DE PROTECCION DE DATOS PERSONALES DEL ESTADO DE COLIMA
+LEY DE PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2012.
 
 Ley publicada en el Periódico Oficial "El Estado de Colima", el sábado 21 de junio de 2003.
 
@@ -47,21 +47,25 @@ LEY DE PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE COLIMA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-###### Artículo 1º.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2012)</small>
 
-La presente Ley es de orden público e interés social, tiene por objeto reglamentar la fracción VI del artículo 1º de la Constitución Política del Estado Libre y Soberano de Colima, a fin de proteger y garantizar los derechos de protección de los datos de carácter personal, como uno de los derechos humanos fundamentales.
+###### Artículo 1°.
 
-###### Artículo 2º.
+La presente Ley es de orden público e interés social, tiene por objeto reglamentar las fracciones II y III del artículo 1° Bis de la Constitución Política del Estado Libre y Soberano de Colima, a fin de proteger y garantizar los derechos de protección de los datos de carácter personal en posesión de los entes públicos, como uno de los derechos humanos fundamentales.
 
-La presente Ley será aplicable a los datos de carácter personal que sean registrados en cualquier soporte físico que permita su tratamiento, tanto por parte del sector público como privado dentro del Estado.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2012)</small>
+
+###### Artículo 2°.
+
+La presente Ley será aplicable a los datos de carácter personal que sean registrados en cualquier soporte físico que permita su tratamiento, por parte de las entidades del sector público.
+
+En términos de lo dispuesto por la fracción XXIX-O, del artículo 73, de la Constitución Política de los Estados Unidos Mexicanos, la regulación del manejo y la protección de los datos personales en posesión de particulares corresponde exclusivamente al H. Congreso de la Unión.
 
 Se exceptúan de su aplicación:
 
-I. Los archivos mantenidos por personas físicas para actividades exclusivamente personales o domésticas;
+I. Los archivos que sean considerados como clasificados por la ley; y
 
-II. Los archivos que sean considerados como clasificados por la ley;
-
-III. Los archivos establecidos para investigaciones penales. En este caso, el responsable del archivo deberá comunicar la existencia del mismo a la Comisión Estatal para el Acceso a la Información Pública, indicando sus características generales y su finalidad.
+II. Los archivos establecidos para investigaciones penales. En este caso, el responsable del archivo deberá comunicar la existencia del mismo a la Comisión Estatal para el Acceso a la Información Pública, indicando sus características generales y su finalidad.
 
 ###### Artículo 3º.
 
@@ -77,13 +81,17 @@ IV. Consentimiento: la manifestación expresa, libre, inequívoca, específica e
 
 V. Datos de carácter personal: los datos relativos a personas físicas o morales que de manera directa o indirecta puedan conectarse con una persona específica. Se incluyen a manera ilustrativa, datos representados en forma de texto, imágenes, datos biométricos como la huella digital, datos sobre el DNA de las personas o cualquier otro que corresponda intrínsecamente a una persona determinada;
 
-VI. Encargado del tratamiento: la persona física o moral que realice tratamiento de datos por cuenta y con autorización del responsable del archivo;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2012)</small>
+
+VI. Encargado del tratamiento: el ente público que realice tratamiento de datos por cuenta y con autorización del responsable del archivo;
 
 VII. Interesado o afectado: la persona física o moral cuyos datos de carácter personal se incorporen al archivo;
 
 VIII. Proceso de disociación: el tratamiento de los datos personales de modo que los datos resultantes no puedan ser relacionados directamente con ninguna persona identificable;
 
-IX. Responsable del archivo: la persona física o moral, pública o privada, encargada del tratamiento de los datos del archivo;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2012)</small>
+
+IX. Responsable del archivo: la persona física o moral, pública, encargada del tratamiento de los datos del archivo;
 
 X. Tratamiento de datos: las operaciones y procesos, automatizados o manuales, relacionados con la recolección, captura, conservación, proceso, transmisión, interrelación, combinación, control y otros manejos de los datos;
 
@@ -115,7 +123,7 @@ VI. Los datos deberán obtenerse en todos los casos por medios lícitos que gara
 
 VII. Previamente a su obtención, se deberá informar al interesado de manera completa y precisa sobre la existencia del archivo, su finalidad, el carácter obligatorio u optativo de la información que proporcione, las consecuencias del suministro de los datos o la negativa a hacerlo, la posibilidad de ejercer el derecho de acceso, rectificación, cancelación y oposición, así como la identidad y dirección del responsable del archivo;
 
-VIII. Cuando se obtengan por parte de terceros, el responsable del archivo, a través de los mecanismos que defina el reglamento correspondiente, dentro de los 60 días naturales siguientes notificará al interesado después de haber dado de alta los datos, a menos que exista legislación al respecto que indique otra medida o se trate de procesos para fines históricos, estadísticos o científicos, o cuando los datos provengan de fuentes accesibles al público;
+VIII. (DEROGADA, P.O. 12 DE MAYO DE 2012)
 
 IX. Será necesario el consentimiento explícito e inequívoco del interesado para cualquier tratamiento de los datos de carácter personal. Se exceptúan los siguientes casos:
 
@@ -175,7 +183,9 @@ I. Solicitar y obtener gratuitamente información de sus datos de carácter pers
 
 II. No verse sometidas a decisiones con efectos jurídicos o que le afecte, que se hayan basado exclusivamente en datos de carácter personal destinados a evaluar determinados aspectos de su personalidad;
 
-III. Impugnar actos administrativos o decisiones privadas que solamente deriven de valoraciones de sus características y personalidad obtenidas de datos de carácter personal, en cuyo caso tendrán derecho de obtener información sobre los criterios de valoración usados. La valoración del comportamiento de un individuo basada en el tratamiento de datos de carácter personal, sólo tendrá valor probatorio a petición del interesado;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2012)</small>
+
+III. Impugnar actos administrativos que solamente deriven de valoraciones de sus características y personalidad obtenidas de datos de carácter personal, en cuyo caso tendrán derecho de obtener información sobre los criterios de valoración usados. La valoración del comportamiento de un individuo basada en el tratamiento de datos de carácter personal, sólo tendrá valor probatorio a petición del interesado;
 
 IV. Solicitar y que se realicen gratuitamente las rectificaciones o cancelaciones de los datos de carácter personal que le correspondan y que no se apeguen a la presente Ley o que resulten inexactos o incompletos. El responsable del archivo deberá hacer efectivo este derecho dentro de los diez días hábiles siguientes al en que se enteró de aquéllos, de conformidad con el reglamento correspondiente;
 
@@ -263,29 +273,11 @@ X. Cuando se niegue a un afectado el ejercicio de los derechos aquí consignados
 
 ###### Artículo 10.
 
-Los archivos de datos de carácter personal elaborados por particulares, se regirán por las disposiciones siguientes:
-
-I. Podrán crear archivos que contengan datos de carácter personal cuando sean necesarios para lograr los objetivos legítimos de la entidad titular, siempre que se respeten las disposiciones de la presente Ley;
-
-II. Toda persona que cree un archivo de datos de carácter personal deberá notificarlo previamente a la Comisión. Los cambios en la finalidad del archivo, del responsable y del domicilio correspondiente deberán ser notificados a dicha Comisión dentro de los sesenta días naturales siguientes a que se realicen;
-
-III. Cuando se trate de investigaciones sobre genealogía, estudios biográficos y otras compilaciones de datos de carácter personal, deberá observarse lo previsto en la presente Ley para los interesados que se encuentren con vida al momento de la compilación;
-
-IV. Cuando los interesados tengan más de 100 años de fallecidos, se considerará como un tratamiento de carácter histórico y queda exceptuado de la presente Ley; y
-
-V. Cuando los interesados tengan menos de 100 años de haber fallecido, podrá generarse el archivo sin autorización de sus familiares, pero se requerirá de autorización previa de la Comisión para ceder los datos correspondientes; antes de emitir la autorización, dicha Comisión se asegurará de que los datos no afectan a los descendientes de los interesados.
+(DEROGADO, P.O. 12 DE MAYO DE 2012)
 
 ###### Artículo 11.
 
-Se consideran fuentes de acceso público aquellos archivos o publicaciones que contengan listas de personas y que pertenezcan a alguna de las categorías siguientes:
-
-I. Listas de miembros de asociaciones, colegios profesionales, clubes y otras agrupaciones;
-
-II. Guías de servicios de telecomunicaciones.
-
-Las fuentes a que se refiere este artículo podrán incluir el nombre, dirección, identificadores de comunicación y otros elementos esenciales para la finalidad del archivo. La incorporación de datos adicionales requerirá del consentimiento de los interesados, quienes podrán solicitar se les excluya.
-
-Los interesados tienen derecho a solicitar gratuitamente que se indique que sus datos no pueden ser usados para fines de publicidad o prospección comercial y a que sus datos no sean divulgados si así lo desea.
+(DEROGADO, P.O. 12 DE MAYO DE 2012)
 
 ###### Artículo 12.
 
@@ -305,11 +297,7 @@ VI. El archivo solamente contendrá los datos esenciales para determinar la solv
 
 ###### Artículo 13.
 
-Quienes se dediquen a la recopilación de direcciones, reparto de documentos, publicidad, ventas a distancia, prospección comercial y otras actividades análogas, también se regirán de acuerdo con las disposiciones siguientes:
-
-I. Podrán usar datos de carácter personal que se encuentren en fuentes de acceso público o que hayan sido obtenidos con el consentimiento del interesado;
-
-II. Cuando los datos hayan sido derivados de fuentes de acceso público, el interesado podrá solicitar que se le informe gratuitamente acerca de la fuente usada. También podrá solicitar que se le excluya.
+(DEROGADO, P.O. 12 DE MAYO DE 2012)
 
 ###### Artículo 14.
 
@@ -349,7 +337,9 @@ I. No atender por motivos formales la solicitud que presente el interesado para 
 
 II. Recabar datos de carácter personal sin proporcionar la información especificada en la presente Ley;
 
-III. Crear archivos con datos de carácter personal de titularidad pública sin la publicación previa de la disposición correspondiente en el Periódico Oficial o, en el caso de los de titularidad privada, crearlos sin el registro correspondiente o con finalidad distinta a la indicada en el registro de que se trate;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2012)</small>
+
+III. Crear archivos con datos de carácter personal de titularidad pública sin la publicación previa de la disposición correspondiente en el Periódico Oficial;
 
 IV. Obtener datos sin el consentimiento expreso del interesado cuando éste es requerido;
 
@@ -401,9 +391,11 @@ VI. Los daños y perjuicios causados.
 
 En el caso de las fracciones IX a XII del artículo 17 de la presente Ley, la Comisión podrá, además, suspender o cancelar la operación del archivo cuando existan circunstancias que atenten a un grupo importante de interesados.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2012)</small>
+
 ###### Artículo 21.
 
-Las multas que imponga la Comisión tendrán el carácter de créditos fiscales, que hará exigible la Secretaría de Finanzas del Gobierno del Estado, por medio del procedimiento económico coactivo. Para tal efecto, la Comisión le turnará por oficio una copia certificada de la correspondiente resolución.
+Las multas que imponga la Comisión tendrán el carácter de créditos fiscales, que hará exigible la Secretaría de Finanzas y Administración del Gobierno del Estado, por medio del procedimiento económico coactivo. Para tal efecto, la Comisión le turnará por oficio una copia certificada de la correspondiente resolución.
 
 ###### Artículo 22.
 
@@ -434,3 +426,9 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los 16 días del mes de junio del año dos mil tres.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSÉ GILBERTO GARCÍA NAVA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE MAYO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
