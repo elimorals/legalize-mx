@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-3971"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-28"
-last_updated: "2011-10-22"
+last_updated: "2012-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3971&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2012.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 28 de mayo de 1994.
 
@@ -129,13 +129,17 @@ XV.- Propiciará las condiciones indispensables para el impulso de la investigac
 
 XVI.- Mantendrá actualizado el acervo tecnológico y científico del Estado, y para tal efecto deberá sostener una armónica relación con los sectores productivos de la Entidad, con cuya vinculación se buscará la creación y aplicación productiva de los conocimientos;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2012)</small>
 
-XVII.- Promover el valor de la justicia, de la observancia de la Ley y de la igualdad de los individuos ante ésta, así como propiciar el conocimiento de los derechos humanos y el respeto a los mismos, y
+XVII.- Promover el valor de la justicia, de la observancia de la ley y de la igualdad de los individuos ante ésta, así como propiciar el conocimiento de los derechos humanos y el respeto a los mismos;
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2012)</small>
 
-XVIII.- Promoverá y fomentará la competitividad de los educandos, entendida ésta como la capacidad del Estado para sostener y expandir su participación en la población y combatir el desempleo.
+XVIII.- Promoverá y fomentará la competitividad de los educandos, entendida ésta como la capacidad del estado para sostener y expandir su participación en la población y combatir el desempleo; y
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2012)</small>
+
+XIX.- Realizará acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad o de personas que no tengan la capacidad de comprender el significado del hecho o para resistirlo.
 
 Siendo los fines primordiales del proceso educativo la instrucción y la formación del educando, para que éste logre el desarrollo armónico de su personalidad, debe asegurársele la participación activa que le corresponde en dicho proceso, estimulando su iniciativa, su sentido de responsabilidad social y su espíritu creador.
 
@@ -458,6 +462,10 @@ VI.- Fomentar las prácticas deportivas, con la finalidad de desarrollar en form
 ###### ARTICULO 29.
 
 La disciplina escolar se obtendrá como resultado de las formas de organización que se adopten para el trabajo docente y que se establezcan en el reglamento correspondiente. En ningún caso podrán los docentes imponer castigos corporales o los que en cualquier forma atenten contra la dignidad de los educandos.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2012)</small>
+
+En caso de que las y los educadores así como las autoridades educativas, tengan conocimiento de la comisión de algún delito en agravio de las y los educandos, lo harán del conocimiento inmediato de la autoridad correspondiente.
 
 ###### ARTICULO 30.
 
@@ -837,9 +845,17 @@ II.- Participar a las autoridades de la escuela en las que estén inscritos sus 
 
 III.- Colaborar con las autoridades escolares para la superación de los educandos y en el mejoramiento de los establecimientos educativos;
 
-IV.- Formar parte de las asociaciones de padres de familia y de los consejos de participación social a que se refiere este capítulo, y
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2012)</small>
 
-V.- Opinar en los casos de la educación que impartan los particulares, en relación con las contraprestaciones que las escuelas fijen.
+IV.- Formar parte de las asociaciones de padres de familia y de los consejos de participación social a que se refiere este capítulo;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2012)</small>
+
+V.- Opinar en los casos de la educación que impartan los particulares, en relación con las contraprestaciones que las escuelas fijen; y
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2012)</small>
+
+VII (SIC).- Conocer la relación oficial del personal docente y empleados adscritos en la escuela en la que estén inscritos sus hijos o pupilos, misma que será proporcionada por la autoridad escolar.
 
 ###### ARTICULO 90.
 
@@ -847,9 +863,21 @@ Son obligaciones de quienes ejercen la patria potestad o la tutela:
 
 I.- Hacer que sus hijos o pupilos, menores de edad, reciban la educación primaria y la secundaria;
 
-II.- Apoyar el proceso educativo de sus hijos o pupilos, y
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2012)</small>
 
-III.- Colaborar con las instituciones educativas en las que estén inscritos sus hijos o pupilos, en las actividades que dichas instituciones realicen.
+II.- Apoyar el proceso educativo de sus hijos o pupilos;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2012)</small>
+
+III.- Colaborar con las instituciones educativas en las que estén inscritos sus hijos o pupilos, en las actividades que dichas instituciones realicen;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2012)</small>
+
+IV.- Informar a las autoridades educativas los cambios que se presenten en la conducta y actitud de los educandos, para que las citadas autoridades apliquen los estudios correspondientes, con el fin de determinar las posibles causas que hayan dado origen a tales cambios, y
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2012)</small>
+
+V.- Hacer del conocimiento de la autoridad educativa del plantel, las irregularidades cometidas por el personal administrativo o académico, que ocasionen perjuicios, daños o cambios emocionales en los educandos.
 
 ###### ARTICULO 91.
 
@@ -1133,7 +1161,7 @@ Por lo tanto mande se imprima, publique, circule y observe.
 
 Dado en Palacio de Gobierno, a los 20 días del mes de mayo de 1994. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. RAMON PEREZ DIAZ.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P. O. 24 DE ABRIL DE 1999.
 
@@ -1170,5 +1198,9 @@ DECRETO No. 370 POR EL QUE SE REFORMAN LAS FRACCIONES I, XVII BIS, XX, XXV, XXVI
 P.O. 22 DE OCTUBRE DE 2011.
 
 DECRETO No. 371 POR EL QUE SE REFORMA EL ARTÍCULO 13 DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 12 DE MAYO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
