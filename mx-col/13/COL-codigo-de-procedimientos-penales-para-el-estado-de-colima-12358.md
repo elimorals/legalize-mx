@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-penales-para-el-estado-de-colima-12358
 country: "mx"
 rank: "codigo"
 publication_date: "1997-08-02"
-last_updated: "2012-02-18"
+last_updated: "2012-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2012.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997.
 
@@ -94,6 +94,10 @@ Nadie puede ser juzgado penalmente dos veces por los mismos hechos, ya sea que e
 En todo proceso penal, la sentencia de primera instancia será dictada en un plazo no mayor de cuatro meses, si se trata de delitos cuya pena máxima no exceda de dos años de prisión, y antes de un año si la pena máxima excediera de ese tiempo, salvo que el imputado solicite mayor plazo para su defensa.
 
 En la segunda instancia, la sentencia será dictada en un plazo máximo de un mes, si se impugna un auto, y de dos meses si se recurre una sentencia definitiva.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2012)</small>
+
+Si en cualquier etapa del proceso penal algún menor o incapaz se ve relacionado con los hechos objeto de ellos, sea como autor o partícipe, testigo, víctima u ofendido, o con cualquier otro carácter, el Ministerio Público o el tribunal respectivo suplirán la ausencia o deficiencia de razonamientos y fundamentos que conduzcan a proteger los derechos que legítimamente puedan corresponderles, en atención del principio del interés superior de las niñas, niños y adolescentes.
 
 ## TITULO SEGUNDO. SUJETOS PROCESALES
 
@@ -3572,3 +3576,7 @@ QUINTO.- Los Poderes Ejecutivo y Legislativo Estatales deberán prever y realiza
 P.O. 18 DE FEBRERO DE 2012.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 12 DE MAYO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
