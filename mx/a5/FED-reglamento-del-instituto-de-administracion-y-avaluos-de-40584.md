@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-instituto-de-administracion-y-avaluos-de-40584"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-02"
-last_updated: "2009-08-24"
+last_updated: "2012-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40584&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2004-08-31"
 ---
 # REGLAMENTO DEL INSTITUTO DE ADMINISTRACION Y AVALUOS DE BIENES NACIONALES
 
-REGLAMENTO DEL INSTITUTO DE ADMINISTRACION Y AVALUOS DE BIENES NACIONALES
+REGLAMENTO DEL INSTITUTO DE ADMINISTRACIÓN Y AVALÚOS DE BIENES NACIONALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE AGOSTO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL INSTITUTO DE ADMINISTRACIÓN Y AVALÚOS DE BIENES NACIONALES, PUBLICADO EN EL D.O.F. DE 14 DE MAYO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Reglamento publicado en la Sección Primera del Diario Oficial de la Federación, el jueves 2 de septiembre de 2004.
 
@@ -858,3 +860,23 @@ NOVENO.- Los sistemas electrónicos con que cuenta la Secretaría seguirán sien
 D.O.F. 24 DE AGOSTO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE MAYO DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento del Instituto de Administración y Avalúos de Bienes Nacionales, publicado en el Diario Oficial de la Federación el 2 de septiembre de 2004, sus reformas y adiciones, y se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+TERCERO.- En tanto la Secretaría y el Instituto, según proceda, expidan las normas, lineamientos, políticas, procedimientos, metodologías, criterios técnicos y demás disposiciones a que se refiere este Reglamento, se continuarán aplicando las disposiciones vigentes en lo que no se opongan al presente Reglamento.
+
+CUARTO.- En tanto se expide el acuerdo por el que se determina el número, la sede y la circunscripción territorial de las delegaciones regionales del Instituto continuará vigente el diverso publicado en el Diario Oficial de la Federación el 6 de diciembre de 2011.
+
+QUINTO.- Los asuntos pendientes de resolución a la entrada en vigor de este Reglamento, continuarán su trámite y serán resueltos por la unidad administrativa del Instituto que resulte competente conforme a este Reglamento.
+
+SEXTO.- El Instituto instrumentará la modificación de los actos jurídicos por los cuales haya otorgado el uso de inmuebles a terceros, y notificará a éstos que, en lo sucesivo, los procedimientos administrativos para recuperar la posesión de inmuebles federales, serán sustanciados y resueltos por la Unidad Jurídica del propio Instituto.
+
+SÉPTIMO.- Las menciones que los reglamentos y demás disposiciones jurídicas hagan de servidores públicos o unidades administrativas cuya denominación, funciones o atribuciones se vean modificadas con motivo de la entrada en vigor del presente Reglamento, se entenderán referidas a los servidores públicos o unidades administrativas que, conforme al mismo, sean competentes en la materia de que se trate.
+
+OCTAVO.- El Instituto de Administración y Avalúos de Bienes Nacionales realizará las acciones necesarias para que la implementación del Reglamento del Instituto de Administración y Avalúos de Bienes Nacionales, se realice con los recursos aprobados a dicho Instituto, por lo que no se requerirán recursos adicionales para tales efectos y no incrementará su presupuesto regularizable, para el presente ejercicio fiscal y los subsecuentes.
+
+NOVENO.- La Dirección General de Administración y Finanzas del Instituto realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las unidades administrativas que se modifican o desaparecen, sean transferidos a las unidades administrativas que correspondan en los términos de este ordenamiento y de conformidad con las normas aplicables y disponibilidad presupuestaria.
