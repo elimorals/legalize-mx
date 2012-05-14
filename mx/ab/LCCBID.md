@@ -4,7 +4,7 @@ identifier: "LCCBID"
 country: "mx"
 rank: "ley"
 publication_date: "1959-12-19"
-last_updated: "1996-05-10"
+last_updated: "2012-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=436&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,11 @@ abbreviation: "LCCBID"
 ---
 # LEY QUE ESTABLECE BASES PARA LA EJECUCION EN MEXICO, POR EL PODER EJECUTIVO FEDERAL, DEL CONVENIO CONSTITUTIVO DEL BANCO INTERAMERICANO DE DESARROLLO
 
-LEY QUE ESTABLECE BASES PARA LA EJECUCION EN MEXICO, POR EL PODER EJECUTIVO FEDERAL, DEL CONVENIO CONSTITUTIVO DEL BANCO INTERAMERICANO DE DESARROLLO
+LEY QUE ESTABLECE BASES PARA LA EJECUCIÓN EN MÉXICO, POR EL PODER EJECUTIVO FEDERAL, DEL CONVENIO CONSTITUTIVO DEL BANCO INTERAMERICANO DE DESARROLLO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE MAYO DE 1996.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MAYO DE 2012.
 
-Ley publicada en el Diario Oficial de la Federación el sábado 19 de diciembre de 1959.
+Ley publicada en el Diario Oficial de la Federación, el sábado 19 de diciembre de 1959.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -42,17 +42,17 @@ LEY que establece bases para la ejecución en México, por el Poder Ejecutivo Fe
 
 Se aprueba el Convenio Constitutivo del Banco Interamericano de Desarrollo, para los efectos de la fracción VIII del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, conforme al texto adoptado en Washington el 8 de abril de 1959.
 
-> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 2o.
 
-Se autoriza al Gobierno Federal para que, por conducto del Banco de México, efectúe la suscripción adicional de 202,245 acciones del Banco Interamericano de Desarrollo, hasta por el equivalente a 2,022'450,000 (dos mil veintidós millones cuatrocientos cincuenta mil) dólares de los Estados Unidos de América del peso y ley en vigor al 1o. de enero de 1959.
+Se autoriza al Gobierno Federal, para que, por conducto del Banco de México, efectúe la suscripción adicional de 401,052 acciones del Banco Interamericano de Desarrollo, hasta por el equivalente a 4,838,063,683 (cuatro mil ochocientos treinta y ocho millones sesenta y tres mil seiscientos ochenta y tres) dólares de los Estados Unidos de América.
 
-> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 3o.
 
-Se autoriza al Gobierno Federal para que, por conducto del Banco de México, efectúe aportaciones adicionales hasta por el equivalente de 9'374,212 (nueve millones trescientos setenta y cuatro mil doscientos doce) dólares de los Estados Unidos de América, para cubrir la cuota de la contribución de México al Fondo para Operaciones Especiales a que se refiere el artículo IV del Convenio Constitutivo de dicho Organismo.
+Se autoriza al Gobierno Federal, para que, por conducto del Banco de México, efectúe aportaciones adicionales hasta por el equivalente de 17,434,076 (diecisiete millones cuatrocientos treinta y cuatro mil setenta y seis) dólares de los Estados Unidos de América, para cubrir la cuota de la contribución de los Estados Unidos Mexicanos al Fondo para Operaciones Especiales a que se refiere el Artículo IV del Convenio Constitutivo de dicho Organismo.
 
 > <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
 
@@ -104,13 +104,13 @@ Los funcionarios y empleados del Banco Interamericano de Desarrollo, así como l
 
 El Gobierno Federal requerirá la autorización expresa del Congreso de la Unión para aceptar modificaciones a la suscripción de México al Banco Interamericano de Desarrollo, aceptar enmiendas al Convenio respectivo, hacer préstamos a este Organismo y separarse del mismo.
 
-N. DE E.: EL DECRETO DE PROMULGACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL FEDERAL VIGENTE.
+N. DE E.: EL DECRETO DE PROMULGACIÓN, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL FEDERAL VIGENTE.
 
 Juan Sabines Gutiérrez, D. P.- Rúbrica.- Guillermo Ibarra, S. P.- Marta Andrade del Rosal, D. S.- Carlos Román Celis, S. S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido la presente Ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los diez y ocho días del mes de diciembre de mil novecientos cincuenta y nueve.- Adolfo López Mateos.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Antonio Ortiz Mena.- Rúbrica.- El Secretario de Gobernación, Gustavo Díaz Ordaz.- Rúbrica.- El Secretario de Relaciones Exteriores, Manuel Tello.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 30 DE DICIEMBRE DE 1963.
 
@@ -171,3 +171,7 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 D.O.F. 10 DE MAYO DE 1996.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE MAYO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
