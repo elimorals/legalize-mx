@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-urbano-del-estado-de-san-luis-potosi-21373"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-07"
-last_updated: "2011-12-24"
+last_updated: "2012-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de octubre de 2000.
 
@@ -561,7 +561,7 @@ II. Los Consejos Consultivos Municipales de Desarrollo Urbano o los Comités de 
 
 III. Los organismos que se constituyan para la conservación y mejoramiento de sitios y fincas, afectos al patrimonio cultural del Estado, conforme a las disposiciones de ésta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 22.
 
@@ -597,7 +597,7 @@ a) Un representante por cada ayuntamiento, quienes con voz y voto intervendrán 
 
 b) Un representante por cada uno de los consejeros y/o integrante del Comité de Planeación del Desarrollo Municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 23.
 
@@ -657,7 +657,7 @@ Los Consejos Consultivos Municipales de Desarrollo Urbano, serán instancias per
 
 ### CAPITULO I. DISPOSICIONES PRELIMINARES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 27.
 
@@ -815,7 +815,7 @@ VI. La descripción general de las acciones que se instrumenten y los plazos pre
 
 VII. La descripción general de las obligaciones que se deriven del mismo, a cargo de dependencias, organismos públicos y los particulares.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 32.
 
@@ -875,7 +875,7 @@ VIII. Mejorar la infraestructura de comunicación y definir los requerimientos d
 
 El Plan Estatal de Desarrollo Urbano contendrá además de los elementos básicos señalados en el artículo 32 de esta Ley, lo siguiente:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2002)</small>
 
 I. Descripción y análisis actualizado del estado y perspectivas de la situación urbana y ecológica de la Entidad, esto último de conformidad con lo establecido en los planes de ordenamiento ecológico aplicables, y de las condicionantes que ello genera para la planeación del territorio estatal, respecto de:
 
@@ -927,7 +927,7 @@ VII. Lineamientos generales para la elaboración de los programas y la concertac
 
 VIII. Señalamiento de los elementos básicos de congruencia de entre los planes y programas que se refiere la fracción II de éste artículo y el Plan Estatal de Desarrollo Urbano y el de Ordenamiento Ecológico.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 36.
 
@@ -963,7 +963,7 @@ Los Planes Municipales de Desarrollo Urbano, además de los elementos básicos a
 
 I. El análisis de su congruencia con el Plan Estatal de Desarrollo Urbano, así como con los Planes de Ordenamiento Ecológico, según sea el caso y, programas que se hayan expedido a nivel estatal;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2002)</small>
 
 II. Descripción y análisis actualizado del estado y tendencias de:
 
@@ -1165,7 +1165,7 @@ Los Planes Parciales que se expidan para la utilización parcial o total de la r
 
 (DEROGADO, P.O. 9 DE JULIO DE 2002)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 51.
 
@@ -1205,7 +1205,7 @@ II. La Secretaría General de Gobierno, en conjunto con la Secretaría, convocar
 
 III. El Decreto de conurbación se publicará en el Periódico Oficial del Estado;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2002)</small>
 
 IV. El propósito esencial del Plan de Ordenación de Zona Conurbada Intermunicipal, es el de establecer un sistema urbano y ecológico integrado, en el cual los requerimientos de infraestructura, equipamiento y servicios estén previstos para cada uno de los centros de población o zonas de los mismos, que conformen el sistema y en relación con la población por atender, a fin de optimizar la inversión pública, elevar al máximo el nivel de cobertura y calidad en la prestación de los servicios, así como preservar y proteger el entorno ambiental; todo lo anterior, bajo la premisa de un trabajo y administración de la planeación urbana en forma conjunta entre los municipios involucrados.
 
@@ -1223,7 +1223,7 @@ VI. La Comisión de Conurbación aprobará el Plan de Ordenación de Zona Conurb
 
 VII. El reconocimiento y delimitación formal de las zonas conurbadas intermunicipales que se contemplen en el Plan Estatal de Desarrollo Urbano, de acuerdo a lo contemplado en la fracción IV del artículo 35 de esta Ley, hará las veces del decreto a que se refiere la fracción III del presente artículo. En consecuencia, publicado que fuere dicho Plan, la Secretaría y los ayuntamientos respectivos procederán a llevar a cabo los trámites previstos en las fracciones III, V y VI de este mismo artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 55.
 
@@ -1459,7 +1459,7 @@ El procedimiento y términos para el trámite de la resolución de actualizació
 
 Si se aprueba la actualización o modificación de un plan o programa, los predios, áreas o zonas comprendidos en su jurisdicción quedarán afectados de acuerdo a las nuevas modalidades o limitaciones que impongan, o bien quedarán desafectados según sea el caso, a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 9 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 75.
 
@@ -1547,6 +1547,12 @@ d) Obras de urbanización para la expansión urbana: las acciones técnicas de a
 
 e) Obras de urbanización para la renovación urbana: las acciones técnicas de acondicionamiento del suelo en zonas comprendidas en los centros de población; y las relativas al mejoramiento, saneamiento y reposición de sus elementos, como la vialidad, redes de servicio o del paisaje urbano, pudiendo implicar, un cambio en las relaciones de propiedad y tenencia del suelo, que requerirá su reincorporación municipal,
 
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2012)</small>
+
+f) Movilidad sustentable: conjunto de procesos y acciones orientadas a conseguir como objetivo final un uso racional de los medios de transporte, por parte de los sectores públicos, los particulares, y la sociedad en general, fomentar la creación de vías peatonales, para que éstos den como resultado la disminución de, congestionamientos viales; deterioro del sistema de transporte público; los impactos al medio ambiente y a la salud pública, y mejoren calidad de vida de los habitantes.
+
+Esta política deberá promover el uso de medios de transporte no motorizado y no contaminante, así como la movilidad peatonal.
+
 VI. Las Provisiones: las áreas que serán utilizadas en la fundación de un centro de población; y las reservas son las que respectivamente se emplearán para el crecimiento de un centro de población y los destinos y usos, son los fines públicos o particulares a que respectivamente se prevea dedicar determinadas zonas o predios;
 
 VII. (DEROGADA, P.O. 9 DE JULIO DE 2002)
@@ -1589,7 +1595,7 @@ X. Los demás que se establezcan en los planes y que sean compatibles con los an
 
 La determinación de reservas contendrá la delimitación de áreas de expansión futura del centro de población, una vez que los Planes de Desarrollo Urbano sean publicados, e inscritos en el Registro Público de la Propiedad, los predios en ella comprendidos, se utilizarán por sus propietarios en forma que no presente obstáculo al futuro aprovechamiento determinado por el Plan correspondiente.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 9 DE JULIO DE 2002)</small>
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 2002)</small>
 
@@ -1763,7 +1769,7 @@ Cuando se establezca la necesidad de realizar acciones de conservación y mejora
 
 No deberá edificarse, modificarse o demolerse, restaurarse o rehabilitarse ningún monumento, inmueble, infraestructura, equipamiento o instalación que haya sido identificado como patrimonial, sin la previa autorización de las autoridades correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 99.
 
@@ -2145,7 +2151,7 @@ III. Licencia municipal para la construcción o demolición de todo tipo de obra
 
 IV. Licencia de funcionamiento para toda actividad industrial o comercial dentro de los centros de población estratégicos, e igualmente cuando la misma se vaya a ejercer en cualquiera otra parte del territorio estatal y se trate de las que generen impacto significativo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 135.
 
@@ -2611,7 +2617,7 @@ XVII. Toda construcción que se concluya requerirá de constancia de terminació
 
 ### CAPITULO II. CLASIFICACION DE FRACCIONAMIENTOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 157.
 
@@ -2629,7 +2635,7 @@ II. Subdivisión de los predios: el acto mediante el cuál, previa autorización
 
 III. Relotificación de predios: la obra por la que dos o más lotes de un fraccionamiento, se modifican en sus dimensiones y superficies o su localización originalmente establecidas en el proyecto de traza y lotificación aprobado, previa autorización expedida en los casos que contempla ésta Ley;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
 
 IV. Areas de donación: las que deben cederse gratuitamente por el fraccionador al respectivo ayuntamiento, para las correspondientes obras de equipamiento urbano y la prestación de los servicios públicos.
 
@@ -2849,7 +2855,7 @@ Sin perjuicio de los usos predominantes o exclusivos antes señalados, como cara
 
 Los fraccionamientos destinados a usos habitacionales que se encuentren cerca o colindantes con derechos de vía o restricciones federales, estatales y municipales, tales como vías férreas, acotamiento de carreteras y autopistas, canales que conduzcan aguas negras e instalaciones industriales, así como los establecimientos de venta de gasolina, estarán sujetos a las disposiciones que conforme a sus atribuciones determine la autoridad competente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 176.
 
@@ -3025,7 +3031,7 @@ La autorización de fraccionamientos será otorgada por el Ayuntamiento siempre 
 
 Toda solicitud de autorización de fraccionamiento se presentará por duplicado y deberá ser acompañada por lo menos, según lo especifiquen las respectivas disposiciones reglamentarias, de los documentos que a continuación se mencionan:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MARZO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2008)</small>
 
 I. Dictamen del diseño urbano del fraccionamiento, emitido por la Dirección de Administración Urbana o equivalente; previamente evaluado en forma colegiada por un representante de:
 
@@ -3335,7 +3341,7 @@ El Reglamento de ésta Ley señalará las características de los requisitos ref
 
 Se deberá solicitar la autorización del Ayuntamiento para la fusión de predios contiguos, cuando el inmueble en que estos se fusionen se vayan a llevar a cabo fraccionamientos, subdivisiones, condominios o construcciones de cualquier género.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 9 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 207.
 
@@ -3547,7 +3553,7 @@ Las cisternas serán completamente impermeables, tendrán registros con cierre h
 
 VII. En los edificios de habitación plurifamiliar, la altura máxima permitida será la que establezca el plan del respectivo centro de población estratégico o de centro de población municipal. En caso de que el centro de población no esté dotado de plan o en éste no se contemplara una norma de este tipo, la altura máxima permitida será la equivalente a cuatro pisos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE JULIO DE 2002)</small>
 
 ### CAPITULO I. DE LAS INSPECCIONES
 
@@ -3809,7 +3815,7 @@ LIC. JUAN CARLOS BARRON CERDA
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 9 DE JULIO DE 2002.
 
@@ -3886,3 +3892,9 @@ P.O. 24 DE DICIEMBRE DE 2011.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones, ordenamientos legales y administrativos que se opongan al presente Decreto.
+
+P.O. 15 DE MAYO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se· opongan al presente Decreto.
