@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2012-05-03"
+last_updated: "2012-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE MAYO DE 2012.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -371,9 +371,11 @@ Domicilio familiar
 
 Concepto de Registro Civil
 
+> <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
+
 ###### Artículo 3.
 
-1.- El Registro Civil es la institución de carácter público y de interés social, mediante la cual el Estado, a través del titular y sus oficiales investidos de fe pública, inscribe, registra, autoriza, certifica, da publicidad y solemnidad a los actos y hechos relativos al estado civil de las personas y expide las actas relativas al nacimiento, reconocimiento de hijos, adopción plena, matrimonio, divorcio, fallecimiento; asimismo inscribe las resoluciones que la ley autoriza, en la forma y términos que establezca el reglamento.
+1.- El Registro Civil es la institución de carácter público y de interés social, mediante la cual el Estado, a través del titular y sus Oficiales investidos de fe pública, inscribe, registra, autoriza, certifica, da publicidad y solemnidad a los actos y hechos relativos al estado civil de las personas y expide las actas relativas al nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, fallecimiento; asimismo inscribe las resoluciones que la ley autoriza, en la forma y términos que establezca el reglamento.
 
 Formalidad de las actas
 
@@ -389,9 +391,11 @@ Vicios o defectos no sustanciales de las actas
 
 Asientos en las actas
 
+> <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
+
 ###### Artículo 3.
 
-4.- No podrá asentarse en las actas, ni por vía de nota o advertencia, sino lo que deba ser declarado para el acto preciso a que ellas se refieren, excepto las prevenciones en contrario y lo que esté expresamente prevenido por la ley.
+4.- No podrá asentarse en las actas, ni por vía de nota o advertencia, sino lo que deba ser declarado para el acto preciso a que ellas se refieren, excepto las prevenciones en contrario y lo que esté expresamente prevenido por la ley. En el momento del parto, la madre podrá solicitar que se preserve el secreto de su ingreso y de su identidad.
 
 Comprobación del estado civil
 
@@ -417,6 +421,8 @@ Pedimento de testimonios de actas
 
 Personas obligadas a declarar el nacimiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 15 DE MAYO DE 2012)</small>
+
 ## TITULO SEGUNDO. De las Actas
 
 ### CAPITULO I. De las Actas de Nacimiento
@@ -425,19 +431,23 @@ Presentación de la persona para declarar su nacimiento
 
 ###### Artículo 3.
 
-9.- Tienen obligación de declarar el nacimiento, el padre y/o la madre o quien ejerza la patria potestad sobre el menor, dentro del primer año de ocurrido aquél.
+9.- Tienen obligación de declarar el nacimiento, el padre y/o la madre o quien ejerza la patria potestad sobre el menor, dentro del primer año de ocurrido aquél, a reserva de las disposiciones contenidas en el artículo 3.4.
 
 Los médicos, parteras, matronas o quien hubiere asistido el parto, tienen la obligación de extender la constancia relativa al nacimiento, de acuerdo a la legislación respectiva.
 
 Contenido del acta de nacimiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 15 DE MAYO DE 2012)</small>
+
 ###### Artículo 3.
 
-10.- El acta de nacimiento se extenderá con la asistencia de dos testigos designados por las partes interesadas; contendrá la fecha, la hora y el lugar del nacimiento, el sexo del presentado, el nombre y apellidos que se le pongan, la razón de si se ha presentado vivo o muerto; datos que no pueden omitirse. Se tomará al margen del acta la impresión digital del presentado.
+10.- El acta de nacimiento se extenderá con la asistencia de dos testigos designados por las partes interesadas; contendrá la fecha, la hora y el lugar del nacimiento, el sexo del presentado, el nombre y apellidos que se le pongan, la razón de si se ha presentado vivo o muerto; datos que no pueden omitirse. Se tomará al margen del acta la impresión digital del presentado. La mujer que solicite mantener en secreto su identidad en el momento del parto puede dar a conocer los nombres que desea que se impongan al presentado.
 
 Por ningún motivo se asentará en el acta que el presentado es adulterino o incestuoso, aún cuando así apareciere de las declaraciones.
 
-Si el presentado aparece como hijo de padres desconocidos, el oficial del Registro Civil le pondrá nombre y apellidos, sin hacer mención de esta circunstancia en el acta.
+> <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
+
+Si el presentado aparece como hijo de padres desconocidos, el Oficial del Registro Civil le pondrá nombre y apellidos, sin hacer mención de esta circunstancia en el acta, salvo las excepciones previstas en el párrafo primero de este artículo.
 
 Acta de nacimiento del hijo de matrimonio
 
@@ -457,9 +467,11 @@ Además de los datos generales de los padres, se hará constar en el acta de nac
 
 De los expósitos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 15 DE MAYO DE 2012)</small>
+
 ###### Artículo 3.
 
-13.- Toda persona que encontrare un expósito, deberá presentarlo ante el Agente del Ministerio Público, con los vestidos, valores o cualesquiera otros objetos encontrados con él, para iniciar la averiguación previa respectiva.
+13.- Toda persona que encontrare un expósito, deberá presentarlo ante el Agente del Ministerio Público, con los vestidos, valores o cualesquiera otros objetos encontrados con él, para iniciar la averiguación previa respectiva. Para los efectos del presente código, tendrán la calidad de menores entregados aquellos sobre quienes en el momento del parto, la madre ha solicitado que se preserve el secreto de su identidad y la reserva en torno al nacimiento, quedando el menor bajo la tutela inmediata (sic) Sistema para el Desarrollo Integral de la Familia del Estado de México, quien a su vez podrá enviarlos a los Sistemas Municipales de Desarrollo Integral de la Familia del Estado de México que cuenten con albergues.
 
 > <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
 
@@ -469,17 +481,25 @@ El Ministerio Público una vez iniciada ésta, enviará, de manera inmediata al 
 
 El Ministerio Público ordenará a los Sistemas para el Desarrollo Integral de la Familia del Estado de México y Municipales, para que soliciten, cuando proceda, el registro de nacimiento del menor ante el Oficial del Registro Civil, remitiéndole copia certificada de la averiguación. El Sistema para el Desarrollo Integral de la Familia del Estado de México o los municipales, en su caso, deberán informar al Ministerio Público sobre la situación jurídica definitiva.
 
+> <small>(ADICIONADO, G.G. 15 DE MAYO DE 2012)</small>
+
+El Sistema para el Desarrollo Integral de la Familia del Estado de México, deberá solicitar cuando proceda, el registro de nacimiento, para los menores sujetos a su tutela y para los que se ha reclamado la reserva sobre nacimiento, procediéndose a su custodia en términos de lo establecido por el artículo 4.243 de este Código.
+
 Otros obligados a solicitar levantamiento de acta de nacimiento
+
+> <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
 
 ###### Artículo 3.
 
-14.- La misma obligación, a que se refiere el artículo anterior, tienen los jefes, directores o administradores de los centros de prevención y de readaptación social, casas de maternidad o de hogar y hospitales, respecto de los ahí nacidos o expuestos.
+14.- La misma obligación, a que se refiere el artículo anterior, tienen los jefes, directores o administradores de los centros de prevención y de readaptación social, casas de maternidad o de hogar y hospitales, respecto de los ahí nacidos o expuestos. En el momento del parto, la madre podrá solicitar que se preserve el secreto de su ingreso y de su identidad.
 
 Contenido del acta de nacimiento de expósitos
 
+> <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
+
 ###### Artículo 3.
 
-15.- En las actas relativas a los casos de los dos artículos anteriores, se anotarán la edad del menor, su sexo y el nombre y apellidos que se le pongan.
+15.- En las actas relativas a los casos de los dos artículos anteriores, se anotarán la edad del menor, su sexo y el nombre y apellidos que se le pongan. La mujer que solicite mantener en secreto su identidad en el momento del parto puede dar a conocer los nombres que desea que se impongan al presentado.
 
 Lugar del registro del nacimiento
 
@@ -521,9 +541,11 @@ III. Si el hijo es menor de catorce años, se expresará sólo el consentimiento
 
 Otras actas de reconocimiento
 
+> <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
+
 ###### Artículo 3.
 
-21.- Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará al oficial del Registro Civil, el original o copia certificada del documento que lo compruebe. En el acta se insertará la parte relativa de dicho documento, observándose las demás prescripciones contenidas en este capítulo y en el relativo a las actas de nacimiento.
+21.- Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará al Oficial del Registro Civil, el original o copia certificada del documento que lo compruebe. En el acta se insertará la parte relativa de dicho documento, observándose las demás prescripciones contenidas en este capítulo y en el relativo a las actas de nacimiento, sin perjuicio de las disposiciones contenidas en el artículo 3.4 de este Código.
 
 Omisión de registro de reconocimiento de hijo
 
@@ -531,27 +553,35 @@ Omisión de registro de reconocimiento de hijo
 
 22.- La omisión del registro, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código.
 
-###### Artículo 3.
-
-23.- Dictada la resolución definitiva que autorice la adopción plena, el adoptante dentro del plazo de quince días, presentará al oficial del Registro Civil, copia certificada de las diligencias relativas, a fin de que se asiente el acta de nacimiento correspondiente.
-
-Contenido y efectos del acta de adopción plena
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 15 DE MAYO DE 2012)</small>
 
 ###### Artículo 3.
 
-24.- En la adopción plena se asentará el acta como si fuera de nacimiento.
+23.- Dictada la resolución definitiva que autorice la adopción, el adoptante dentro del plazo de quince días, presentará al Oficial del Registro Civil, copia certificada de las diligencias relativas, a fin de que se asiente el acta de nacimiento correspondiente.
 
-El acta de nacimiento anterior quedará reservada, con las anotaciones correspondientes a la adopción plena. No se expedirá constancia alguna que revele el origen del adoptado, ni su condición de tal, salvo mandamiento judicial.
+> <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
 
-Omisión del registro de la adopción plena
-
-### CAPITULO III. De las Actas de Adopción Plena
-
-Plazo y documentos para levantar el acta de adopción plena
+Contenido y efectos del acta de adopción
 
 ###### Artículo 3.
 
-25.- La falta de registro de la adopción plena no priva a ésta sus efectos legales.
+24.- En la adopción se asentará el acta como si fuera de nacimiento.
+
+El acta de nacimiento anterior quedará reservada, con las anotaciones correspondientes a la adopción. No se expedirá constancia alguna que revele el origen del adoptado, ni su condición de tal, con la reserva de las disposiciones contenidas en el artículo 3.4, salvo mandamiento judicial.
+
+> <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
+
+Omisión del registro de la adopción
+
+### CAPITULO III. De las Actas de Adopción
+
+> <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
+
+Plazo y documentos para levantar el acta de adopción
+
+###### Artículo 3.
+
+25.- La falta de registro de la adopción no priva a ésta sus efectos legales.
 
 ###### Artículo 3.
 
@@ -643,7 +673,7 @@ Indispensable acta de defunción para inhumación o cremación
 
 ###### Artículo 3.
 
-33.- Las autoridades que dicten resoluciones que declaren procedentes las acciones sobre la paternidad o maternidad, de divorcio, de nulidad del matrimonio, de ausencia, de presunción de muerte, de tutela, de pérdida o limitación de la capacidad legal para administrar bienes, de adopción simple, de modificación o rectificación de actas, remitirán al oficial del Registro Civil que corresponda copia certificada de la misma.
+33.- Las autoridades que dicten resoluciones que declaren procedentes las acciones sobre la paternidad o maternidad, de divorcio, de nulidad del matrimonio, de ausencia, de presunción de muerte, de tutela, de pérdida o limitación de la capacidad legal para administrar bienes, de modificación o rectificación de actas, remitirán al Oficial del Registro Civil que corresponda copia certificada de la misma.
 
 Inscripción de resoluciones y asentamiento de actas en el Registro Civil
 
@@ -653,7 +683,9 @@ Inscripción de resoluciones y asentamiento de actas en el Registro Civil
 
 I. Inscribirá las resoluciones a que alude el artículo que precede;
 
-II. Asentará el acta correspondiente al reconocimiento de paternidad o maternidad; de adopción simple; de tutela; y de divorcio.
+> <small>(REFORMADA, G.G. 15 DE MAYO DE 2012)</small>
+
+ll. Asentará el acta correspondiente al reconocimiento de paternidad o maternidad; de tutela; y de divorcio.
 
 De las resoluciones de divorcio
 
@@ -661,15 +693,19 @@ De las resoluciones de divorcio
 
 Resoluciones sobre estado civil
 
+> <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
+
 ###### Artículo 3.
 
 35.- En el acta de divorcio se anotarán el nombre, apellido, edad, ocupación y domicilio de los divorciados, los datos relativos del acta de nacimiento y matrimonio, así como la parte resolutiva de la sentencia que haya decretado el divorcio.
 
 Cancelación de acta o inscripción en el Registro Civil
 
+> <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
+
 ###### Artículo 3.
 
-36.- Cuando se recobre la capacidad o concluya la limitación legal para administrar bienes, se revoquen la adopción simple o la tutela, se declare nulo un divorcio o se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al oficial del Registro Civil por la autoridad que corresponda, para que cancele el acta o inscripción respectiva.
+36.- Cuando se recobre la capacidad o concluya la limitación legal para administrar bienes, se revoque la tutela, se declare nulo un divorcio o se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Oficial del Registro Civil por la autoridad que corresponda, para que cancele el acta o inscripción respectiva.
 
 ###### Artículo 3.
 
@@ -1735,15 +1771,15 @@ Parentesco por afinidad
 
 Parentesco civil
 
+> <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
+
 ### CAPITULO III. De los Alimentos
 
 Normas de orden público
 
 ###### Artículo 4.
 
-120.- El parentesco civil nace de la adopción y solo existe entre el adoptante y el adoptado.
-
-En la adopción plena, el parentesco se equipara al consanguíneo.
+120.- El parentesco civil nace de la adopción y se equipara al consanguíneo.
 
 Grados y líneas de parentesco
 
@@ -1827,11 +1863,9 @@ Obligación alimentaria de colaterales hasta el cuarto grado
 
 133.- Faltando los parientes a que se refieren las disposiciones anteriores, tienen obligación de ministrar alimentos los parientes colaterales más próximos hasta el cuarto grado.
 
-Obligación alimentaria en la adopción simple
-
 ###### Artículo 4.
 
-134.- En la adopción simple, el adoptante y el adoptado tienen obligación de darse alimentos, en los casos en que la tienen el padre y los hijos.
+134.- (DEROGADO, G.G. 15 DE MAYO DE 2012)
 
 Aspectos que comprenden los alimentos
 
@@ -2117,9 +2151,7 @@ Plazo del menor para impugnar el reconocimiento
 
 Reconocimiento de hijo menor cuidado por una mujer
 
-### CAPITULO II. De la Adopción Simple
-
-Límites del parentesco en la adopción simple
+### CAPITULO II
 
 ###### Artículo 4.
 
@@ -2219,11 +2251,9 @@ Requisitos para que el tutor adopte a su pupilo
 
 182.- El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de la tutela.
 
-Plazo para que el adoptado impugne su adopción
-
 ###### Artículo 4.
 
-183.- El menor o el incapacitado que hayan sido adoptados podrán impugnar la adopción simple dentro del año siguiente a la mayoría de edad o a la fecha en que haya desaparecido la incapacidad.
+183.- (DEROGADO, G.G. 15 DE MAYO DE 2012)
 
 Relación jurídica entre adoptante y adoptado
 
@@ -2239,7 +2269,9 @@ Personas que deben consentir en la adopción
 
 185.- Para que la adopción pueda tener lugar deberán consentirla en sus respectivos casos:
 
-I. El que ejerce la patria potestad sobre el menor que se trata de adoptar;
+> <small>(REFORMADA, G.G. 15 DE MAYO DE 2012)</small>
+
+I. El que ejerce la patria potestad sobre el menor que se pretende adoptar, salvo que se trate de abandonados, expósitos o entregados a instituciones públicas o de asistencia privada legalmente reconocidas;
 
 II. El tutor del que se va a adoptar;
 
@@ -2249,9 +2281,13 @@ IV. El Ministerio Público a falta de los anteriores; o cuando quien lo acogió 
 
 V. El menor que se va adoptar cuando tenga más de diez años.
 
+> <small>(ADICIONADA, G.G. 15 DE MAYO DE 2012)</small>
+
+VI. La mujer que haya solicitado mantener en secreto su ingreso y su identidad en el momento del parto; y
+
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
 
-VI. El Sistema para el Desarrollo Integral de la Familia del Estado de México y los Sistemas Municipales e instituciones de asistencia privada deberán dar seguimiento a las adopciones a fin de verificar las condiciones físicas, educativas y emocionales del menor.
+VII. El Sistema para el Desarrollo Integral de la Familia del Estado de México y los Sistemas Municipales e instituciones de asistencia privada deberán dar seguimiento a las adopciones a fin de verificar las condiciones físicas, educativas y emocionales del menor.
 
 Suplencia de consentimiento por el Juez
 
@@ -2265,51 +2301,35 @@ Continuación de la adopción
 
 187.- La adopción producirá sus efectos aunque sobrevengan hijos al adoptante.
 
+> <small>(DEROGADA SU DENOMINACIÓN, G.G. 15 DE MAYO DE 2012)</small>
+
 ## TITULO SEXTO. De la Adopción
 
-### CAPITULO III. De la Adopción Plena
+### CAPITULO III. De la Adopción
 
-Efectos de la adopción plena
+> <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
 
-###### Artículo 4.
-
-188.- Los derechos y obligaciones que nacen de la adopción simple, así como el parentesco que de ella resulte, se limitan al adoptante y al adoptado.
-
-Continuidad del parentesco natural por la adopción simple
+Efectos de la adopción
 
 ###### Artículo 4.
 
-189.- Los derechos y obligaciones que resultan del parentesco natural no se extinguen por la adopción simple, excepto la patria potestad, que se transfiere al padre adoptivo.
-
-Causas de revocación de la adopción
+188.- (DEROGADO, G.G. 15 DE MAYO DE 2012)
 
 ###### Artículo 4.
 
-190.- La adopción puede revocarse:
-
-I. Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, es necesario que consientan en la revocación las personas que prestaron su consentimiento;
-
-II. Por ingratitud del adoptado.
-
-Causas de ingratitud del adoptado
+189.- (DEROGADO, G.G. 15 DE MAYO DE 2012)
 
 ###### Artículo 4.
 
-191.- Para los efectos del último párrafo del artículo anterior, se considera ingrato al adoptado:
-
-I. Si comete algún delito intencional contra la persona, la honra o los bienes del adoptante, de su cónyuge, de sus ascendientes o descendientes;
-
-II. Si el adoptado denuncia al adoptante de algún delito grave, aunque lo pruebe, a no ser que hubiere sido cometido contra el mismo adoptado, su cónyuge, sus ascendientes o descendientes;
-
-III. Si el adoptado rehúsa dar alimentos al adoptante que ha caído en pobreza.
-
-Momento en que surte efecto la revocación del adoptado
+190.- (DEROGADO, G.G. 15 DE MAYO DE 2012)
 
 ###### Artículo 4.
 
-192.- La resolución que revoque la adopción por acuerdo de las partes, la deja sin efectos a partir de ese momento.
+191.- (DEROGADO, G.G. 15 DE MAYO DE 2012)
 
-Tiempo en que surte efectos la revocación por ingratitud
+###### Artículo 4.
+
+192.- (DEROGADO, G.G. 15 DE MAYO DE 2012)
 
 ### CAPITULO IV. De la Adopción Internacional
 
@@ -2317,13 +2337,17 @@ Concepto de la adopción internacional
 
 ###### Artículo 4.
 
-193.- En el caso de ingratitud la adopción deja de producir efectos desde que se comete el acto de ingratitud.
+193.- (DEROGADO, G.G. 15 DE MAYO DE 2012)
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 15 DE MAYO DE 2012)</small>
 
 ###### Artículo 4.
 
-194.- Por la adopción plena el adoptado adquiere la calidad de hijo consanguíneo de los adoptantes.
+194.- Por la adopción el adoptado adquiere la calidad de hijo consanguíneo de los adoptantes.
 
-Legitimación para adoptar plenamente
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 15 DE MAYO DE 2012)</small>
+
+Legitimación para adoptar
 
 > <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
 
@@ -2331,21 +2355,33 @@ Legitimación para adoptar plenamente
 
 195.- A falta de matrimonio podrán adoptar en el orden de preferencia establecido en el artículo 4.179, el hombre y la mujer que acrediten jurídicamente vivir en concubinato, y la mujer o el hombre sin descendencia.
 
-Personas que pueden adoptarse plenamente
+Personas que pueden adoptarse
+
+> <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
 
 ###### Artículo 4.
 
-196.- Sólo pueden adoptarse plenamente los abandonados, expósitos o entregados a instituciones públicas o de asistencia privada legalmente reconocidas.
+196.- Podrán ser adoptados:
 
-También podrán adoptarse plenamente, aquellos menores cuya tutela legal haya sido conferida a estas instituciones por virtud de resolución judicial.
+l. Los abandonados, expósitos o entregados para su adopción a instituciones públicas o de asistencia privada legalmente reconocidas. La mujer que solicitó mantener en secreto su identidad en el momento del parto y la reserva sobre el nacimiento, deberá entregar inmediatamente al menor al Sistema para el Desarrollo Integral de la Familia del Estado de México, para efectos de proceder a su adopción;
 
-Efectos de la adopción plena en relación al parentesco natural
+II. Aquellos cuya tutela legal haya sido conferida a las instituciones descritas en la fracción anterior por virtud de resolución judicial;
 
-###### Artículo 4.
+III. Aquéllos sobre los que no existe quien ejerza la patria potestad o existiendo, no manifiesten su voluntad para ejercerla en beneficio del interés superior del menor;
 
-197.- La adopción plena extingue la filiación existente entre el adoptado y sus progenitores y el parentesco con las familias de éstos, salvo para los impedimentos de matrimonio.
+lV. Los hijos del cónyuge o concubino.
 
-Irrevocabilidad de la adopción plena
+> <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
+
+Efectos de la adopción en relación al parentesco natural
+
+###### Articulo 4.
+
+197.- La adopción extingue la filiación existente entre el adoptado y sus progenitores y el parentesco con la familias (sic) de éstos, salvo para los impedimentos de matrimonio.
+
+> <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
+
+Irrevocabilidad de la adopción
 
 ### CAPITULO I. De los efectos de la Patria Potestad respecto de la persona
 
@@ -2353,7 +2389,7 @@ Respeto y consideración entre hijos y ascendientes
 
 ###### Artículo 4.
 
-198.- La adopción plena es irrevocable.
+198.- La adopción es irrevocable.
 
 ###### Artículo 4.
 
@@ -2417,11 +2453,9 @@ La patria potestad en caso de separación de la pareja que la ejerce
 
 Quien no tenga la custodia le asiste el derecho de visita.
 
-La patria potestad en la adopción simple
-
 ###### Artículo 4.
 
-206.- En la adopción simple la patria potestad solo la ejercen los adoptantes.
+206.- (DEROGADO, G.G. 15 DE MAYO DE 2012)
 
 ###### Artículo 4.
 
@@ -2565,7 +2599,21 @@ II. Con la emancipación derivada del matrimonio;
 
 III. Por la mayoría de edad;
 
-IV. Por la adopción simple.
+> <small>(REFORMADA, G.G. 15 DE MAYO DE 2012)</small>
+
+lV. Por la adopción;
+
+> <small>(ADICIONADA, G.G. 15 DE MAYO DE 2012)</small>
+
+V. Cuando quien ejerza la patria potestad aceptó ante la autoridad judicial la entrega del menor a las instituciones de asistencia pública o privada, legalmente reconocidas en los términos previstos por el Código Civil y de Procedimientos Civiles del Estado de México;
+
+> <small>(ADICIONADA, G.G. 15 DE MAYO DE 2012)</small>
+
+VI. Cuando los menores se encuentren albergados y abandonados por sus familiares, sin casusa (sic) justificada por más de dos meses, en las instalaciones de instituciones públicas o privadas;
+
+> <small>(ADICIONADA, G.G. 15 DE MAYO DE 2012)</small>
+
+Vll. Por la exposición que la madre o el padre hiciera de sus hijos.
 
 Pérdida de la patria potestad por sentencia
 
@@ -2587,21 +2635,15 @@ Quien haya perdido la patria potestad por el abandono de sus deberes alimentario
 
 III. Cuando quienes ejerzan la patria potestad, obliguen a los menores de edad a realizar la mendicidad, trabajo forzado o cualquier otra forma de explotación. En este caso, los menores serán enviados a los albergues de los Sistemas para el Desarrollo Integral de la Familia del Estado de México y Municipales, hasta en tanto se determine quien la ejercerá;
 
-> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+IV. (DEROGADA, G.G. 15 DE MAYO DE 2012)
 
-IV. Cuando quien ejerza la patria potestad, acepte ante la autoridad judicial la entrega del menor a las instituciones de asistencia pública o privada legalmente reconocidas, en los términos previstos por el Código Civil y de Procedimientos Civiles del Estado de México;
-
-> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
-
-V. Cuando los menores se encuentren albergados y abandonados por sus familiares, sin causa justificada por más de dos meses, en las instalaciones de instituciones públicas o privadas;
+V. (DEROGADA, G.G. 15 DE MAYO DE 2012)
 
 > <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
 
 VI. Cuando el que la ejerza sea condenado a la pérdida de ese derecho; y (sic)
 
-> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
-
-VII. Por la exposición que la madre o el padre hiciera de sus hijos;
+VII. (DEROGADA, G.G. 15 DE MAYO DE 2012)
 
 > <small>(ADICIONADA, G.G. 16 DE ENERO DE 2007)</small>
 
@@ -2839,7 +2881,7 @@ Elección de tutor legítimo por el Juez
 
 Tutela de expósitos y de abandonados
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 15 DE MAYO DE 2012)</small>
 
 ###### Artículo 4.
 
@@ -2875,7 +2917,9 @@ Tutor del incapacitado que tenga hijos menores
 
 ###### Artículo 4.
 
-261.- La Ley coloca a los expósitos y a los que sean entregados o abandonados, bajo la tutela de los Sistemas para el Desarrollo Integral de la Familia del Estado de México y Municipales que cuenten con albergues, sin perjuicio que éstos otorguen la guarda y cuidado a alguna institución de asistencia social pública o privada, legalmente reconocida.
+261.- La Ley coloca a los expósitos y a los que sean entregados o abandonados, bajo la tutela del Sistema para el Desarrollo Integral de la Familia del Estado de México y, en su caso, de los Municipales que cuenten con albergues, sin perjuicio que éstos otorguen la guarda y cuidado a alguna institución de asistencia social pública o privada, legalmente reconocida. La Mujer que solicitó mantener en secreto su identidad en el momento del parto y la reserva sobre el nacimiento, deberá entregar inmediatamente al menor al Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
 
 En los casos que los Sistemas Municipales otorguen la guarda y cuidado a instituciones de asistencia social pública o privada, deberán notificarlo al Sistema para el Desarrollo Integral de la Familia del Estado de México.
 
@@ -7031,17 +7075,13 @@ Hijos que concurren con ascendientes a la herencia
 
 152.- Concurriendo hijos con ascendientes, éstos sólo tendrán derecho a alimentos, que en ningún caso pueden exceder de la porción de uno de los hijos.
 
-Derecho del adoptado a heredar en la adopción simple
+###### Artículo 6.
+
+153.- (DEROGADO, G.G. 15 DE MAYO DE 2012)
 
 ###### Artículo 6.
 
-153.- En la adopción simple, el adoptado hereda como hijo, pero no hay derechos de sucesión entre el adoptado y los parientes del adoptante.
-
-Padres adoptantes que concurren con descendientes del adoptado
-
-###### Artículo 6.
-
-154.- Concurriendo padres adoptantes y descendientes del adoptado en forma simple, los primeros sólo tendrán derecho a alimentos.
+154.- (DEROGADO, G.G. 15 DE MAYO DE 2012)
 
 ###### Artículo 6.
 
@@ -7097,11 +7137,9 @@ División por partes iguales de la porción entre miembros de cada línea
 
 162.- Los miembros de cada línea dividirán entre sí por partes iguales la porción que les corresponda.
 
-En la adopción simple, sólo los adoptantes son herederos
-
 ###### Artículo 6.
 
-163. En la adopción simple sólo los adoptantes tienen derecho a heredar al adoptado.
+163.- (DEROGADO, G.G. 15 DE MAYO DE 2012)
 
 Concurrencia de los adoptantes y concubina o concubinario
 
@@ -17306,3 +17344,17 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Los juicios y actuaciones que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión de conformidad con las disposiciones jurídicas vigentes en ese momento.
 
 CUARTO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 15 DE MAYO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Los procedimientos de adopción simple que se encuentren radicados ante los órganos jurisdiccionales del Poder Judicial del Estado, serán concluidos de conformidad con las normas vigentes a su radicación.
+
+CUARTO.- Las adopciones simples decretadas seguirán surtiendo sus efectos legales, de conformidad con las normas que las regulaban.
+
+QUINTO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan o contradigan a lo contenido en este Decreto.
+
+SEXTO.- EI Titular del Ejecutivo del Estado, expedirá las disposiciones reglamentarias que resulten necesarias, para hacerlas acordes al presente Decreto, dentro del plazo de sesenta días a partir de su entrada en vigor.
