@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2012-05-09"
+last_updated: "2012-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MAYO DE 2012.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -9799,7 +9799,9 @@ ARTICULO 2,011.- La prestación de cosa puede consistir:
 
 I.- En la traslación de dominio de cosa cierta;
 
-II.- En la enajenación temporal del uso o goce de cosa cierta;
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2012)</small>
+
+II.- En la entrega temporal del uso y/o goce de cosa cierta;
 
 III.- En la restitución de cosa ajena o pago de cosa debida.
 
@@ -14386,3 +14388,9 @@ G.O. 9 DE MAYO DE 2012.
 Primero.- El presente decreto entrara en vigor al día siguiente de su publicación.
 
 Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 15 DE MAYO DE 2012.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación
+
+SEGUNDO.- El presente decreto entrara en vigor al día siguiente de su Publicación en la Gaceta Oficial del Distrito Federal
