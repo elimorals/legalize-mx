@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2012-05-09"
+last_updated: "2012-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MAYO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -1558,7 +1558,9 @@ XI. Intervenir en las juntas de reclutamiento, del Servicio Militar Nacional;
 
 XII. Elaborar y mantener actualizado el padrón de los giros mercantiles que funcionen en su jurisdicción y otorgar licencias y autorizaciones de funcionamiento de los giros sujetos a las leyes y reglamentos aplicables;
 
-XIII. Formular y ejecutar programas de apoyo a la participación de la mujer en los diversos ámbitos del desarrollo pudiendo coordinarse con otras instituciones, públicas o privadas, para la implementación de los mismos. Estos programas deberán ser formulados de acuerdo a las políticas generales que al efecto determine la Secretaría de Gobierno;
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2012)</small>
+
+XIII. Establecer la Unidad de Género como parte de la estructura del Órgano Político- Administrativo correspondiente; así como formular y ejecutar programas de apoyo a la participación a las mujeres en los diversos ámbitos del desarrollo pudiendo coordinarse con otras instituciones, públicas o privadas, para la implementación de los mismos. Estos programas deberán ser formulados considerando las políticas generales que al efecto determine la Secretaría de Gobierno;
 
 XIV. Formular, ejecutar y vigilar el Programa de Seguridad Pública de la Delegación en coordinación con las Dependencias competentes;
 
@@ -2303,3 +2305,11 @@ G.O. 9 DE MAYO DE 2012.
 PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO: Publíquese en la Gaceta Oficial del Distrito Federal.
+
+G.O. 15 DE MAYO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Los Titulares de cada Órgano Político-Administrativo de cada demarcación territorial, contarán con un plazo de 120 días naturales a partir de la vigencia del presente decreto para instalar la Unidad de Género respectiva.
