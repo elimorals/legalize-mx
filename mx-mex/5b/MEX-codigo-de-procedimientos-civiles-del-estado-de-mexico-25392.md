@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-civiles-del-estado-de-mexico-25392"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-01"
-last_updated: "2012-05-03"
+last_updated: "2012-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE MAYO DE 2012.
 
 Código publicado en el Gaceta del Gobierno del Estado de México, el lunes 1 de julio del 2002.
 
@@ -45,17 +45,17 @@ CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MEXICO
 
 ## TITULO PRIMERO. Jurisdicción
 
-Inicio dispositivo e impulso procesal oficioso
-
-###### Artículo 1.
-
-2.- La jurisdicción civil sólo se ejercerá mediante instancia de parte, pero mientras se mantenga en ejercicio, corresponde al Juez desarrollar el proceso de oficio, salvo los casos en que la ley exija la petición de parte.
-
 Ejercicio de la jurisdicción
 
 ###### Artículo 1.
 
 1.- Corresponde a los Tribunales del Poder Judicial, la facultad de interpretar y aplicar las leyes en los asuntos del orden civil y familiar del fuero común, lo mismo que del orden federal, en los casos en que expresamente lo ordene la ley.
+
+Inicio dispositivo e impulso procesal oficioso
+
+###### Artículo 1.
+
+2.- La jurisdicción civil sólo se ejercerá mediante instancia de parte, pero mientras se mantenga en ejercicio, corresponde al Juez desarrollar el proceso de oficio, salvo los casos en que la ley exija la petición de parte.
 
 Normas genéricas de la jurisdicción
 
@@ -917,7 +917,7 @@ Excepción a la nulidad de actuaciones
 
 99.- Cuando la ley prescriba una determinada forma para una actuación, sólo será nula, si se efectúa en una forma diversa.
 
-Actuaciones en idioma español
+Escritura de cantidades y fechas
 
 ## TITULO SEPTIMO. Actos Procesales en General
 
@@ -927,13 +927,13 @@ Forma de las actuaciones y promociones
 
 ###### Artículo 1.
 
-100.- Las actuaciones judiciales y promociones deben escribirse en idioma español. Los documentos que se presenten redactados en otro idioma o lengua, salvo los aforismos en latín que podrán ser traducidos, se acompañarán de la correspondiente traducción.
+101.- Las fechas y cantidades se escribirán con letra y número.
 
-Escritura de cantidades y fechas
+Actuaciones en idioma español
 
 ###### Artículo 1.
 
-101.- Las fechas y cantidades se escribirán con letra y número.
+100.- Las actuaciones judiciales y promociones deben escribirse en idioma español. Los documentos que se presenten redactados en otro idioma o lengua, salvo los aforismos en latín que podrán ser traducidos, se acompañarán de la correspondiente traducción.
 
 Prohibición de borrar y abreviar
 
@@ -6389,19 +6389,15 @@ La resolución es apelable con efecto suspensivo.
 
 Revocación de la adopción
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
 ###### Artículo 3.
 
-18.- Cuando el adoptante y el adoptado pidan la revocación de la adopción, el juez los citará a una audiencia, en la que resolverá conforme al Código Civil.
+18.- (DEROGADO, G.G. 15 DE MAYO DE 2012)
 
 Menor de edad adoptado
 
 ###### Artículo 3.
 
-19.- Si el adoptado fuere menor de edad, para resolver sobre la revocación se oirá a las personas que otorgaron su consentimiento, o en su caso, al Ministerio Público.
+19.- (DEROGADO, G.G. 15 DE MAYO DE 2012)
 
 ###### Artículo 3.
 
@@ -8448,3 +8444,17 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Los juicios y actuaciones que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión de conformidad con las disposiciones jurídicas vigentes en ese momento.
 
 CUARTO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 15 DE MAYO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Los procedimientos de adopción simple que se encuentren radicados ante los órganos jurisdiccionales del Poder Judicial del Estado, serán concluidos de conformidad con las normas vigentes a su radicación.
+
+CUARTO.- Las adopciones simples decretadas seguirán surtiendo sus efectos legales, de conformidad con las normas que las regulaban.
+
+QUINTO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan o contradigan a lo contenido en este Decreto.
+
+SEXTO.- El Titular del Ejecutivo del Estado, expedirá las disposiciones reglamentarias que resulten necesarias, para hacerlas acordes al presente Decreto, dentro del plazo de sesenta días a partir de su entrada en vigor.
