@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2011-11-24"
+last_updated: "2012-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-31"
 
 LEY AMBIENTAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MAYO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -84,7 +84,7 @@ III. En la conservación y control de la contaminación del suelo;
 
 IV. En la conservación, restauración y aprovechamiento sustentable de los recursos naturales de jurisdicción del Distrito Federal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -118,7 +118,7 @@ Se consideran de utilidad pública:
 
 I. El ordenamiento ecológico del territorio del Distrito Federal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -140,7 +140,7 @@ VII. La participación social encaminada al desarrollo sustentable del Distrito 
 
 VIII. La elaboración y aplicación de planes y programas que contengan políticas de desarrollo integral de la entidad bajo criterios ambientales;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -152,7 +152,7 @@ IX. La celebración de convenios o acuerdos de coordinación entre autoridades a
 
 En todo lo no previsto en la presente Ley, se aplicarán las disposiciones contenidas en otras leyes, reglamentos, normas y demás ordenamientos jurídicos relacionados con las materias que regula este ordenamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 5º.
 
@@ -436,9 +436,9 @@ XI. Expedir los ordenamientos y demás disposiciones necesarias para proveer el 
 
 XII. Las demás que conforme a esta Ley le correspondan.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### ARTÍCULO 9°.
 
@@ -484,13 +484,13 @@ XII. Establecer o en su caso proponer la creación de instrumentos económicos q
 
 XIII. Administrar, ejecutar y controlar el fondo ambiental así como informar sobre el uso de los recursos y presentar los resultados dentro del informe anual que rinda a la Asamblea;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 18 DE FEBRERO DE 2011)</small>
 
 XIV. Proponer la creación de áreas de valor ambiental y áreas naturales protegidas, así como regularlas, vigilarlas y administrarlas en los términos de esta Ley, a fin de lograr la preservación y el aprovechamiento sustentable de los recursos naturales presentes en dichas áreas; asimismo procurará crear programas de reforestación permanente en suelo de conservación y urbano para su preservación;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, G.O. 18 DE FEBRERO DE 2011)</small>
 
@@ -510,19 +510,19 @@ XVIII. Realizar y promover en forma coordinada, concertada y corresponsable, acc
 
 XIX. Coordinar la participación de las dependencias y entidades de la administración pública del Distrito Federal, y de las delegaciones en las acciones de educación ambiental, de prevención y control del deterioro ambiental, conservación, protección y restauración del ambiente en el territorio del Distrito Federal, así como celebrar con éstas y con la sociedad, los acuerdos que sean necesarios con el propósito de dar cumplimiento a la presente Ley;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
 XIX. Bis. Establecer las políticas y lineamientos de integración y operación del cuerpo de Policías Ambientales; en coordinación con la Secretaría de Seguridad Pública del Distrito Federal en las acciones de conservación, vigilancia, restauración y protección de los ecosistemas y sus elementos naturales, en suelo de conservación y urbano;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
 XIX. Bis 1. Realizar acciones de control, supervisión y vigilancia ambiental, con auxilio de la Secretaría de Seguridad Pública del Distrito Federal, en suelo de conservación y suelo urbano, tendientes a prevenir actos o hechos constitutivos de violación a esta ley, al Código Penal para el Distrito Federal, en materia de delitos ambientales y de las disposiciones que de ella emanen;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 18 DE FEBRERO DE 2011)</small>
 
@@ -536,7 +536,7 @@ XXII. Participar en coordinación con la Federación, en asuntos que afecten el 
 
 XXIII. Promover y celebrar, convenios de coordinación, concertación y colaboración con el gobierno federal, de las entidades federativas y de los municipios de la zona conurbada, así como con los particulares, para la realización conjunta y coordinada de acciones de protección ambiental;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 18 DE FEBRERO DE 2011)</small>
 
@@ -554,7 +554,7 @@ XXVIII. Hacer efectivas las obligaciones derivadas de la Ley General, esta Ley, 
 
 XXIX. Ordenar la realización de visitas de inspección para verificar el cumplimiento de los preceptos de esta ley, su reglamento, normas aplicables en materia ambiental, ordenamiento ecológico del territorio, declaratorias de áreas naturales protegidas, programas de manejo, creación e incremento de áreas verdes en suelo urbano, las condicionantes que en materia de impacto y riesgo ambiental se impongan, así como todas las disposiciones legales aplicables al suelo de conservación;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -592,7 +592,7 @@ Las personas físicas y morales responsables de fuentes contaminantes, están ob
 
 La información registrada será pública y tendrá efectos declarativos. La Secretaría permitirá el acceso a dicha información en los términos de esta Ley y demás disposiciones jurídicas aplicables y la difundirá de manera preactiva.
 
-XXXIX Establecer y operar de manera directa, o indirectamente a través de autorización, el sistema de monitoreo de la contaminación ambiental, así como los sistemas de verificación de fuentes de competencia local, y determinar las tarifas máximas aplicables por concepto de dichas verificaciones;
+XXXIX. Establecer y operar de manera directa, o indirectamente a través de autorización, el sistema de monitoreo de la contaminación ambiental, así como los sistemas de verificación de fuentes de competencia local, y determinar las tarifas máximas aplicables por concepto de dichas verificaciones;
 
 > <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2010)</small>
 
@@ -642,7 +642,7 @@ LII. Las demás que le confieren esta y otras Leyes, así como las que se derive
 
 Corresponde a cada una de las delegaciones del Distrito Federal:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 18 DE FEBRERO DE 2011)</small>
 
@@ -668,7 +668,7 @@ VI. Establecer de forma gradual en el total de mobiliario destinado al servicio 
 
 Para tal efecto, las delegaciones deberán destinar, en la medida de sus posibilidades, una parte de su presupuesto para dar exacto cumplimiento a lo anterior. La Secretaría en el ámbito de sus atribuciones, supervisará y verificará que las demarcaciones cumplan dicha disposición;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 18 DE FEBRERO DE 2011)</small>
 
@@ -681,6 +681,10 @@ VIII. Las Delegaciones deberán etiquetar un porcentaje de su presupuesto anual 
 Las Delegaciones que tengan un porcentaje mayor de 9 metros cuadrados de área verde por habitante, no deberán permitir por ningún motivo su disminución.
 
 Las Delegaciones que no cuenten con 9 metros cuadrados de área verde por habitante, deberán incrementarlo buscando alcanzar este objetivo con alternativas para la creación de nuevas áreas verdes como son: azoteas verdes, barrancas, retiro de asfalto innecesario en explanadas, camellones, áreas verdes verticales y jardineras en calles secundarias.
+
+> <small>(ADICIONADA, G.O. 15 DE MAYO DE 2012)</small>
+
+IX. Elaborar campañas de difusión para informar a los habitantes de su demarcación territorial sobre el tema de cambio climático y la importancia del cuidado al medio ambiente.
 
 ###### ARTÍCULO 11.
 
@@ -840,7 +844,7 @@ IV. Realizar todas sus actividades cotidianas bajo los criterios de ahorro y reu
 
 ### CAPÍTULO III. PLANEACIÓN DEL DESARROLLO SUSTENTABLE
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE ABRIL DE 2007)</small>
 
 ###### ARTÍCULO 24.
 
@@ -1060,7 +1064,7 @@ III. Desarrollo tecnológico y de ecotecnias; y
 
 IV. Procesos productivos y de consumo.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ### CAPÍTULO VI. EVALUACIÓN DE IMPACTO AMBIENTAL
 
@@ -1098,7 +1102,7 @@ En los casos de aquellas obras y actividades donde además de la autorización d
 
 La Secretaría y las Secretarías de Desarrollo Urbano y Vivienda y Desarrollo Rural y Equidad para las Comunidades podrán interpretar y aplicar para efectos administrativos en la esfera de sus respectivas competencias, las disposiciones de esta Ley y de los programas de ordenamiento ecológico territorial, así como, de la Ley de Desarrollo Urbano del Distrito Federal, y de los Programas de Desarrollo Urbano, respectivamente, y del Reglamento al que se refiere el párrafo anterior, emitiendo para tal efecto, de manera conjunta los dictámenes, circulares y recomendaciones en materia de impacto urbano y ambiental.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 46.
 
@@ -1160,7 +1164,7 @@ XVII. Construcción de estaciones de gas y gasolina.
 
 El reglamento de la presente Ley y, en su caso, los acuerdos administrativos correspondientes precisarán, respecto del listado anterior, los casos y modalidades para la presentación de las manifestaciones de impacto ambiental y riesgo, así como la determinación de las obras o actividades que, no obstante estar previstas en los supuestos a que se refiere este artículo, por su ubicación, dimensiones, características o alcances no produzcan impactos ambientales significativos o no causen o puedan causar riesgos, y que por lo tanto no deban sujetarse al procedimiento de evaluación del impacto ambiental previsto en este ordenamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 47.
 
@@ -1228,7 +1232,7 @@ Dicha consulta tendrá que realizarse a costa del interesado que haya presentado
 
 En estos casos, la Secretaría dictará las medidas y los mecanismos de operación que considere pertinentes para el desarrollo de la consulta pública.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 51.
 
@@ -1358,7 +1362,7 @@ VII. Medidas contempladas para la prevención o mitigación de impactos ambienta
 
 VIII. En su caso, el estudio de riesgo si se tratase de acciones que lo ameriten sin requerir una manifestación de impacto ambiental.
 
-> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 58.
 
@@ -1396,7 +1400,7 @@ Las obras o actividades antes mencionadas, quedan sujetas al cumplimiento de las
 
 El Jefe de Gobierno, mediante acuerdos o en el Reglamento correspondiente a la materia podrá establecer la posibilidad de que la Declaratoria de Cumplimiento Ambiental se presente a través de los medios de comunicación electrónica, otorgando a la firma electrónica que se autorice al mismo valor probatorio que a los presentados con firma autógrafa.
 
-> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 58 Ter.
 
@@ -1466,7 +1470,7 @@ Las autorizaciones que se otorguen en materia de impacto ambiental estarán refe
 
 Las autoridades competentes deberán acudir al lugar especificado en el informe de impacto ambiental para inspeccionar, verificar y, llegado el caso, sancionar las irregularidades que existieran de acuerdo a lo previsto en el Título VII, Capítulo II de esta Ley.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 4 DE JUNIO DE 2004)</small>
 
 ### CAPÍTULO VI BIS. LICENCIA AMBIENTAL ÚNICA PARA EL DISTRITO FEDERAL
 
@@ -1476,7 +1480,7 @@ Las autoridades competentes deberán acudir al lugar especificado en el informe 
 
 La Licencia Ambiental Única para el Distrito Federal es el instrumento de política ambiental por el que se concentran diversas obligaciones ambientales de los responsables de fuentes fijas que están sujetos a las disposiciones de esta Ley, mediante la tramitación de un solo procedimiento que ampare los permisos y autorizaciones referidos en la normatividad ambiental.
 
-> <small>(REFORMADO PARRAFO PRIMERO, G.O. 7 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PÁRRAFO PRIMERO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 61 Bis 1.
 
@@ -1578,7 +1582,7 @@ Transcurrido dicho plazo sin que la autoridad resuelva, se entenderá que la res
 
 ###### ARTÍCULO 61 Bis 4.
 
-Una vez obtenida la Licencia Ambiental Única para el Distrito Federal y de acuerdo a lo que se señale en la misma, los responsables de los establecimiento que deban llevar a cabo la actualización de la información del desempeño ambiental de su establecimiento, a través de la presentación de alguno de los anexos que se señalan en la fracción IX del artículo 61bis1, deberán presentar en el primer cuatrimestre de cada año calendario, el Anexo correspondiente acompañado de los estudios, análisis o planes de manejo que se señalen en el mismo.
+Una vez obtenida la Licencia Ambiental Única para el Distrito Federal y de acuerdo a lo que se señale en la misma, los responsables de los establecimiento que deban llevar a cabo la actualización de la información del desempeño ambiental de su establecimiento, a través de la presentación de alguno de los anexos que se señalan en la fracción IX del artículo 61 bis 1, deberán presentar en el primer cuatrimestre de cada año calendario, el Anexo correspondiente acompañado de los estudios, análisis o planes de manejo que se señalen en el mismo.
 
 > <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
@@ -1586,7 +1590,7 @@ Una vez obtenida la Licencia Ambiental Única para el Distrito Federal y de acue
 
 El listado que agrupa a los establecimientos que por su capacidad y actividad no se encuentran sujetos a tramitar la Licencia Ambiental Única para el Distrito Federal, será publicado y actualizado anualmente, en el primer bimestre de cada año calendario, en la Gaceta Oficial del Distrito Federal.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 4 DE JUNIO DE 2004)</small>
 
 ### CAPÍTULO VII. AUTORREGULACIÓN Y AUDITORÍAS
 
@@ -1630,7 +1634,7 @@ Los responsables de vehículos o flotillas podrán suscribir convenios de autorr
 
 Los convenios de autorregulación que se suscriban serán obligatorios y su incumplimiento será motivo para la cancelación de los estímulos, certificaciones y de las exenciones otorgados, independientemente de las sanciones aplicables conforme la presente Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 65.
 
@@ -1738,7 +1742,7 @@ El Presupuesto de Egresos del Distrito Federal establecerá los recursos del fon
 
 El Jefe de Gobierno emitirá un acuerdo que establezca la integración del consejo técnico del fondo ambiental, su organización y sus reglas de funcionamiento.
 
-(REUBICADO, REFORMADA SU DENOMINACION, G.O. 10 DE FEBRERO DE 2004)
+(REUBICADO, REFORMADA SU DENOMINACIÓN, G.O. 10 DE FEBRERO DE 2004)
 
 ### CAPÍTULO IX. INSTRUMENTOS ECONÓMICOS
 
@@ -1878,7 +1882,7 @@ IV. Se trate de información sobre inventarios e insumos y tecnología de proces
 
 ### CAPÍTULO XII. DENUNCIA CIUDADANA
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 80.
 
@@ -1888,7 +1892,7 @@ Si por la naturaleza de los hechos denunciados se tratare de asuntos de competen
 
 Sin perjuicio de lo anterior, los interesados podrán presentar su denuncia directamente ante la Procuraduría General de Justicia del Distrito Federal si consideran que los hechos u omisiones de que se trate pueden ser constitutivos de algún delito, en cuyo caso deberá sujetarse a lo dispuesto por el Código de Procedimientos Penales para el Distrito Federal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 18 DE FEBRERO DE 2011)</small>
 
@@ -1952,7 +1956,7 @@ VI. Se promoverá la participación de vecinos, comunidades, pueblos indígenas 
 
 Los programas y actividades de forestación, reforestación, restauración o aprovechamiento de la flora y fauna, procurarán la preservación y el desarrollo de las especies nativas del Distrito Federal. El uso o aprovechamiento de los elementos naturales se sujetarán a los criterios de sustentabilidad que permitan garantizar la subsistencia de las especies sin ponerlas en riesgo de extinción y permitiendo su regeneración en la cantidad y calidad necesarias para no alterar el equilibrio ecológico.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE ENERO DE 2002)</small>
 
 ###### ARTÍCULO 86.
 
@@ -1982,7 +1986,7 @@ VI. La formulación e instrumentación del Programa de Retribución por la Conse
 
 Compete a las delegaciones conforme a lo previsto en esta Ley y demás disposiciones legales aplicables, el ejercicio de las acciones administrativas que procedan en los casos de invasión de áreas verdes de su competencia, así como de las que corresponden a la Secretaría previa la celebración del convenio respectivo. El reglamento determinará los lineamientos para la ejecución de las acciones administrativas derivadas de la invasión de áreas verdes, áreas de valor ambiental y áreas naturales protegidas, así como en predios del dominio público y de particulares en suelo de conservación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 18 DE FEBRERO DE 2011)</small>
 
@@ -1996,7 +2000,7 @@ En caso de que el titular de la delegación no proceda conforme las atribuciones
 
 ### CAPÍTULO II BIS. ÁREAS DE VALOR AMBIENTAL
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 21 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE JUNIO DE 2006)</small>
 
 ###### ARTÍCULO 87.
 
@@ -2022,7 +2026,7 @@ VIII. Zonas de recarga de mantos acuíferos; y
 
 IX. Las demás áreas análogas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 18 DE FEBRERO DE 2011)</small>
 
@@ -2032,7 +2036,7 @@ La Secretaría solicitará a la Secretaría de Desarrollo Urbano y Vivienda el e
 
 Las delegaciones procurarán el incremento de áreas verdes de su competencia, en proporción equilibrada con los usos de suelo distintos a áreas verdes, espacios abiertos y jardinados o en suelo de conservación existentes en su demarcación territorial, e incorporarlos a los programas delegacionales de desarrollo urbano.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 18 DE FEBRERO DE 2011)</small>
 
@@ -2098,7 +2102,7 @@ Las autoridades locales del Distrito Federal, instalarán en la medida de sus po
 
 Las azoteas verdes se sujetarán a la normatividad que para tal efecto estipule la Secretaría.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 18 DE FEBRERO DE 2011)</small>
 
@@ -2130,11 +2134,11 @@ Excepcionalmente, en caso de que el daño realizado sea irreparable en términos
 
 Lo anterior, sin perjuicio de la aplicación de las medidas correctivas o sanciones adicionales que sean procedentes por infracciones a lo dispuesto en la presente ley.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 31 DE ENERO DE 2002)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 31 DE ENERO DE 2002)</small>
 
 ### CAPÍTULO III. ÁREAS NATURALES PROTEGIDAS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 18 DE FEBRERO DE 2011)</small>
 
@@ -2160,7 +2164,7 @@ Los bosques urbanos son las áreas de valor ambiental que se localizan en suelo 
 
 (DEROGADO, G.O. 21 DE JUNIO DE 2006)
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 21 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE JUNIO DE 2006)</small>
 
 ###### ARTÍCULO 90 Bis 3.
 
@@ -2250,7 +2254,7 @@ VII. Las demás que determine el Acuerdo que expida el Jefe de Gobierno.
 
 Corresponde al Jefe de Gobierno del Distrito Federal el establecimiento de las áreas naturales protegidas no reservadas a la Federación, que se requieran para la preservación, cuidado, restauración, forestación, reforestación y mejoramiento ambiental. Su establecimiento y preservación es de utilidad pública y se realizará en forma concertada y corresponsable con la sociedad, así como con los propietarios y poseedores de los predios ubicados en la zona objeto del decreto o declaratoria respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE ENERO DE 2002)</small>
 
 ###### ARTÍCULO 92.
 
@@ -2332,9 +2336,9 @@ El Gobierno del Distrito federal podrá administrar las áreas naturales protegi
 
 Para el establecimiento de las áreas naturales protegidas deberán considerarse, al menos la presencia de ecosistemas naturales representativos, la importancia biológica o ecológica del sitio, y la importancia de los servicios ambientales generados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 18 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 93 Bis 1.
 
@@ -2444,7 +2448,7 @@ Cualquier persona podrá solicitar por escrito a la Secretaría, el establecimie
 
 La Secretaría integrará el Registro de Áreas Naturales Protegidas del Distrito Federal, en el que se inscribirán los decretos mediante los cuales se declaren las áreas naturales protegidas y los instrumentos que los modifiquen, el cual podrá ser consultado por cualquier persona que así lo solicite y deberá ser integrado al sistema de información ambiental del Distrito Federal.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 21 DE JUNIO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 21 DE JUNIO DE 2006)</small>
 
 ### CAPÍTULO IV. CONSERVACIÓN Y APROVECHAMIENTO SUSTENTABLE DEL AGUA
 
@@ -2652,7 +2656,7 @@ En aquellas áreas de los suelos de conservación que presenten procesos de degr
 
 Están obligados a restaurar el suelo, subsuelo, acuífero y los demás recursos naturales afectados, quienes por cualquier causa los contaminen o deterioren, de acuerdo con la presente Ley y las normas ambientales para el Distrito Federal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 18 DE FEBRERO DE 2011)</small>
 
@@ -2748,7 +2752,7 @@ La Secretaría establecerá en los programas respectivos las medidas necesarias 
 
 La Secretaría celebrará acuerdos y convenios para el establecimiento de programas que permitan el ahorro de energía y su utilización eficiente, así como para el desarrollo de diferentes fuentes de energía, incluidas las fuentes renovables, conforme a los principios establecidos en la presente Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2010)</small>
 
@@ -2894,11 +2898,11 @@ XVIII. Fomentar la participación de la sociedad en el desarrollo de programas p
 
 Para prevenir y controlar la contaminación de la atmósfera, las Delegaciones, tomarán las medidas necesarias en coordinación con la Secretaría.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 10 DE FEBRERO DE 2004)</small>
 
 #### SECCIÓN II. CONTROL DE EMISIONES CONTAMINANTES PROVENIENTES DE FUENTES FIJAS
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 135.
 
@@ -3094,7 +3098,7 @@ Las fuentes que descarguen aguas residuales distintas a las domésticas, deberá
 
 (DEROGADO, G.O. 10 DE FEBRERO DE 2004)
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 160.
 
@@ -3190,7 +3194,7 @@ Quienes realicen obras o actividades en las que se generen residuos de construcc
 
 #### SECCIÓN I. RESIDUOS NO PELIGROSOS
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 169.
 
@@ -3230,7 +3234,7 @@ Es responsabilidad de la Secretaría elaborar programas para reducir la generaci
 
 La generación, la separación, el acopio, el almacenamiento, transporte y disposición final de los residuos sólidos, estarán sujetas al Reglamento de esta Ley y a la normatividad correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 171.
 
@@ -3250,7 +3254,7 @@ IV. Tomar las medidas preventivas necesarias para evitar contingencias ambiental
 
 Para la obtención de la autorización como generador de residuos sólidos, los interesados deberán presentar la solicitud de Licencia Ambiental Única para el Distrito Federal ante la Secretaría.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 173.
 
@@ -3294,7 +3298,7 @@ En caso de que se detecten irregularidades o violaciones en el manejo de los res
 
 #### SECCIÓN III. ACTIVIDADES RIESGOSAS
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 176.
 
@@ -3584,7 +3588,7 @@ Serán de aplicación supletoria al presente Título, en el orden que se indica,
 
 Cuando en el procedimiento correspondiente obren pruebas obtenidas por la Secretaría de Seguridad Pública del Distrito Federal con equipos y sistemas tecnológicos, se apreciarán y valorarán en términos de la Ley que regula el uso de tecnología para la Seguridad Pública del Distrito Federal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -3598,7 +3602,7 @@ La Secretaría de Seguridad Pública establecerá el cuerpo de policías ambient
 
 La Secretaría establecerá y aplicará los sistemas de capacitación y profesionalización de los policías ambientales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY</small>
 
 > <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -3652,9 +3656,9 @@ Cuando en el domicilio, lugar o zona donde se practique la diligencia de inspecc
 
 La persona con quien se entienda una visita domiciliaria o acto de inspección, estará obligada a permitir al personal autorizado el acceso al lugar o lugares donde se deba practicar la diligencia, en los términos previstos en la orden escrita correspondiente, así como a proporcionar al personal que ejecute la visita, toda clase de información que conduzca a cumplir con el objeto de la orden respectiva, con excepción de lo relativo a derechos de propiedad industrial que sean confidenciales conforme a las disposiciones jurídicas aplicables, debiendo la autoridad mantenerlos en absoluta reserva sí así lo solicita el interesado, salvo que la información sea pública en los términos de la Ley de Acceso a la Información Pública del Distrito Federal o de cualquier otro ordenamiento jurídico aplicable.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### ARTÍCULO 205.
 
@@ -4034,7 +4038,7 @@ Salón de sesiones de la Asamblea Legislativa del Distrito Federal, a 21 de dici
 
 En cumplimiento de lo dispuesto por lo dispuesto (sic) por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto promulgatorio, en la Residencia Oficial de la Jefa de Gobierno del Distrito Federal, en la Ciudad de México, a los treinta y un días del mes de diciembre de mil novecientos noventa y nueve.- LA JEFA DE GOBIERNO DEL DISTRITO FEDERAL, ROSARIO ROBLES BERNLANGA (sic).- FIRMA.- EL SECRETARIO DE GOBIERNO, LEONEL GODOY RANGEL.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, ROBERTO EIBENSCHUTZ HARTMAN.- FIRMA.- EL SECRETARIO DEL MEDIO AMBIENTE, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.
 
-N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+N. DE E.: A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
 
 G.O. 31 DE ENERO DE 2002.
 
@@ -4086,7 +4090,7 @@ SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguient
 
 G.O. 31 DE OCTUBRE DE 2008.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
@@ -4156,7 +4160,7 @@ Cuarto.- Este Decreto entrará en vigor al día siguiente de su publicación en 
 
 G.O. 3 DE MAYO DE 2011.
 
-DECRETO QUE REFORMA LA FRACCION XXIX DEL ARTICULO 9, SE REFORMA LA FRACCION IV Y SE ADICIONA LA FRACCION VIII AL ARTICULO 10; SE REFORMA LA FRACCION IV DEL ARTICULO 87 Y SE ADICIONA EL ARTICULO 88 BIS 5 DE LA LEY AMBIENTAL DEL DISTRITO FEDERAL.
+DECRETO QUE REFORMA LA FRACCIÓN XXIX DEL ARTÍCULO 9, SE REFORMA LA FRACCIÓN IV Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 10; SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 87 Y SE ADICIONA EL ARTÍCULO 88 BIS 5 DE LA LEY AMBIENTAL DEL DISTRITO FEDERAL.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
 
@@ -4164,7 +4168,7 @@ SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor 
 
 G.O. 3 DE MAYO DE 2011.
 
-DECRETO QUE ADICIONA UN QUINCUAGESIMO OCTAVO PARRAFO AL ARTICULO 5, Y SE ADICIONA LA FRACCION IV, RECORRIENDOSE LAS DEMAS DE MANERA SUBSECUENTE DEL ARTICULO 69 DE LA LEY AMBIENTAL DEL DISTRITO FEDERAL.
+DECRETO QUE ADICIONA UN QUINCUAGÉSIMO OCTAVO PÁRRAFO AL ARTÍCULO 5, Y SE ADICIONA LA FRACCIÓN IV, RECORRIÉNDOSE LAS DEMÁS DE MANERA SUBSECUENTE DEL ARTÍCULO 69 DE LA LEY AMBIENTAL DEL DISTRITO FEDERAL.
 
 PRIMERO. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
 
@@ -4175,3 +4179,9 @@ G.O. 24 DE NOVIEMBRE DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación.
+
+G.O. 15 DE MAYO DE 2012.
+
+PRIMERO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación, para su mayor difusión.
