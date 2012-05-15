@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-servicio-de-estancias-para-el-bienestar-y-52337"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-30"
-last_updated: "2006-11-30"
+last_updated: "2012-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52337&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2006-10-26"
 
 REGLAMENTO DEL SERVICIO DE ESTANCIAS PARA EL BIENESTAR Y DESARROLLO INFANTIL DEL ISSSTE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO DEL REGLAMENTO DE LOS SERVICIOS DE ATENCIÓN PARA EL BIENESTAR Y DESARROLLO INFANTIL DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, PUBLICADO EN EL D.O.F. DE 15 DE MAYO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 30 de noviembre de 2006.
 
@@ -786,3 +788,19 @@ Lo que me permito hacer de su conocimiento para los efectos legales procedentes.
 Atentamente
 
 México, D.F., a 26 de octubre de 2006.- El Secretario, Roberto Figueroa Martínez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 15 DE MAYO DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Dirección de Prestaciones deberá emitir los Lineamientos de los Servicios proporcionados a través de las Organizaciones de la Sociedad Civil dentro de los 120 días siguientes a la publicación del presente Reglamento.
+
+Para los efectos del párrafo anterior, dentro de los 15 días siguientes a la publicación de este Reglamento, la Dirección de Prestaciones integrará un grupo de trabajo para la elaboración del proyecto de Lineamientos correspondiente, en el que invitará a participar al Consejo Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad.
+
+TERCERO.- Tratándose de Niños y Niñas con discapacidad, estos se podrán incorporar al servicio correspondiente al Ciclo de Servicio que inicie en el mes de agosto siguiente a la entrada en vigor de este Reglamento, para lo cual deberán registrar su solicitud al Servicio, a más tardar, el mes de mayo siguiente a la entrada en vigor de este Reglamento.
+
+En caso de que la Estancia o Estancia Contratada no cuente con Capacidad Operativa para atender la solicitud de inscripción a que se refiere el párrafo anterior, las Personas Beneficiarias podrán optar por ser registrados en una lista de espera a la que la Delegación le dará seguimiento cronológico y cuando exista lugar se informará inmediatamente a la Persona Beneficiaria para que realice los trámites de inscripción.
+
+CUARTO.- Se abroga el Reglamento del Servicio de Estancias para el Bienestar y Desarrollo Infantil del ISSSTE, publicado en el Diario Oficial de la Federación de 30 de noviembre de 2006 y aquellas disposiciones que se opongan al presente Reglamento.
