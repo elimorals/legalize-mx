@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2011-10-07"
+last_updated: "2012-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2012.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -905,15 +905,13 @@ Los Diputados en ejercicio no podrán desempeñar ningún empleo, cargo o comisi
 
 #### SECCION SEGUNDA. DE LOS PERIODOS DE SESIONES
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-ARTICULO. 51.- El Congreso del Estado tendrá cada año tres Periodos Ordinarios de Sesiones, el primero iniciará el 25 de septiembre y concluirá a más tardar el 31 de diciembre, el segundo comenzará el 15 de febrero y concluirá a más tardar el 31 de mayo, y el tercero comenzará el 1º de agosto y concluirá a más tardar el 31 de agosto.
-
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 51.
 
-El Congreso del Estado tendrá cada año tres Periodos Ordinarios de Sesiones, el primero iniciará el 25 de septiembre y concluirá a más tardar el 31 de diciembre, el segundo comenzará el 15 de febrero y concluirá a más tardar el 31 de mayo, y el tercero comenzará el 1º de agosto y concluirá a más tardar el 31 de agosto.
+El Congreso del Estado tendrá cada año dos Periodos Ordinarios de Sesiones, el primero iniciará el 25 de septiembre y concluirá a más tardar el 31 de diciembre, el segundo comenzará el 15 de enero y concluirá a más tardar el 30 de junio.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1121,13 +1119,13 @@ XVI.- Autorizar al Ejecutivo del Estado para que ejerza cualquier acto de domini
 
 XVII.- Desafectar los bienes destinados a un servicio público o los de uso común del Estado;
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2012)</small>
 
-XVIII.- Fiscalizar la cuenta pública del Poder Ejecutivo incluyendo la de las entidades y organismos de la administración pública paraestatal, del Poder Judicial y de los organismos autónomos por Ley. Para tal efecto, el Congreso se apoyará en el Órgano de Fiscalización Superior, en los términos de la Ley Reglamentaria correspondiente;
+XVIII.- Fiscalizar la cuenta pública del Poder Ejecutivo incluyendo la de las entidades y organismos de la administración pública paraestatal, del Poder Judicial y de los organismos autónomos por Ley; de igual manera, verificar el desempeño en el cumplimiento de los objetivos de los programas. Para tal efecto, el Congreso se apoyará en el Órgano de Fiscalización Superior, en los términos de la Ley Reglamentaria correspondiente;
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2012)</small>
 
-XIX.- Fiscalizar las cuentas públicas municipales incluyendo la de las entidades y organismos de la administración pública paramunicipal. Para tal efecto, el Congreso se apoyará en el Órgano de Fiscalización, a que se refiere la fracción anterior;
+XIX.- Fiscalizar las cuentas públicas municipales incluyendo las de las entidades y organismos de la administración pública paramunicipal; de igual manera, verificar el desempeño en el cumplimiento de los objetivos de los programas. Para tal efecto, el Congreso se apoyará en el Órgano de Fiscalización Superior, a que se refiere la fracción anterior;
 
 XX.- Nombrar y remover a sus empleados. Estas facultades las tendrá la Diputación Permanente en las épocas en que el Congreso no esté en Período Ordinario de Sesiones;
 
@@ -1187,7 +1185,9 @@ Vigilar y evaluar, sin perjuicio de su autonomía técnica, de gestión y presup
 
 Remitir, en los términos de la Ley, al Órgano de Fiscalización Superior las cuentas públicas de los sujetos de fiscalización.
 
-Declarar la revisión de cuentas públicas en los términos del informe de resultados que hubiere emitido el Órgano de Fiscalización Superior y ordenar su publicación en el Periódico Oficial del Gobierno del Estado;
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2012)</small>
+
+Declarar la revisión de cuentas públicas, en los términos del informe de resultados que hubiere emitido el Órgano de Fiscalización Superior, dentro de los seis meses siguientes a la presentación de dicho informe y ordenar su publicación en el Periódico Oficial del Gobierno del Estado;
 
 XXIX.- Por acuerdo de las dos terceras partes de sus integrantes, suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por algunas de las causas graves que la Ley limitativamente prevenga, siempre y cuando los afectados hayan tenido oportunidad para rendir pruebas y hacer los alegatos que, a su juicio, convengan;
 
@@ -1243,47 +1243,93 @@ IX.- Las demás consignadas de modo expreso en esta Constitución.
 
 #### SECCION SEXTA. DE LA FISCALIZACION SUPERIOR DEL ESTADO
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 66.
 
-El Órgano de Fiscalización Superior del Congreso del Estado tendrá autonomía técnica, de gestión y presupuestaria en el cumplimiento de sus atribuciones. En el ejercicio de esta función, la objetividad, imparcialidad, independencia, transparencia, legalidad y profesionalismo serán los principios rectores.
+El Órgano de Fiscalización Superior del Congreso del Estado tendrá autonomía técnica, de gestión y presupuestaria en el cumplimiento de sus atribuciones. La función de fiscalización será ejercida conforme a los principios de posterioridad, objetividad, independencia, transparencia, legalidad, definitividad, imparcialidad, confiabilidad y profesionalismo.
 
-Son sujetos de fiscalización, las entidades señaladas en las fracciones XVIII y XIX del Artículo 63 de esta Constitución, así como el Poder Legislativo. La función fiscalizadora también comprende los recursos públicos otorgados a personas físicas o morales.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2012)</small>
+
+Son sujetos de fiscalización, las entidades señaladas en las fracciones XVIII y XIX del Artículo 63 de esta Constitución, así como el Poder Legislativo. La función fiscalizadora también comprende los recursos públicos que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica; asimismo, estas entidades deberán llevar el control y registro contable, patrimonial y presupuestario de los recursos públicos que se les hayan destinado.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2003)</small>
 
 Los organismos autónomos presentarán al Congreso del Estado su cuenta pública trimestralmente y su concentrado anual, en la forma y términos que establezca la Ley.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2003)</small>
+
 Los sujetos de fiscalización están obligados a suministrar al Congreso del Estado, por conducto de su órgano de apoyo, los datos, documentos, antecedentes o cualquier otra información que éste les solicite, relacionados con el ejercicio de la función fiscalizadora.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2003)</small>
 
 El Órgano de Fiscalización Superior tendrá las siguientes atribuciones:
 
-I.- Analizar, evaluar y comprobar las cuentas públicas, de conformidad con los programas que para el efecto se aprueben por el Órgano. Si del examen que se realice aparecieran discrepancias entre los ingresos o los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2012)</small>
 
-II.- Conocer, revisar y evaluar los resultados de la gestión financiera de los sujetos de fiscalización y comprobar si se han ajustado al presupuesto y a sus contenidos programáticos;
+I.- Analizar, evaluar y comprobar las cuentas públicas, de conformidad con los programas que para el efecto se aprueben por el Órgano. Si del examen que se realice aparecieran discrepancias entre los ingresos o los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, el Órgano de Fiscalización Superior sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la Ley;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2012)</small>
+
+II. Conocer, revisar y evaluar los resultados de la gestión financiera de los sujetos de fiscalización y comprobar si se han ajustado al presupuesto y a sus contenidos programáticos y verificar el cumplimiento de los objetivos contenidos en los programas;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
 
 III.- Investigar los actos u omisiones que puedan constituir daños o perjuicios a la hacienda o patrimonio públicos;
 
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
+
 IV.- Acordar y practicar auditorías conforme a su programa anual y ejecutar las que acuerde el Congreso del Estado en los términos de la fracción XXVIII del Artículo 63 de esta Constitución;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
 
 V.- Verificar el exacto cumplimiento y apego a la legislación y normatividad aplicable, por parte de los sujetos de fiscalización;
 
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
+
 VI.- Dictaminar los daños y perjuicios causados a la hacienda o patrimonio públicos. La Ley establecerá el procedimiento para hacer efectiva la responsabilidad resarcitoria y los medios de impugnación que procedan;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
 
 VII.- Dictaminar la probable responsabilidad y promover el fincamiento de sanciones ante las autoridades competentes, en los términos de Ley;
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2003)</small>
+
 VIII.- Informar al Congreso del Estado, en los términos de la Ley, del resultado de la revisión de la cuenta pública y demás asuntos derivados de la fiscalización, incluyendo los dictámenes, informes de resultados, comentarios y observaciones de las auditorías;
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2012)</small>
+
+El Órgano de Fiscalización Superior deberá guardar reserva de sus actuaciones hasta que se sancione el Informe de Resultados por el Congreso del Estado, de conformidad con lo establecido en la fracción XXVIII del artículo 63 de esta Constitución;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
 
 IX.- Dar seguimiento a las observaciones o recomendaciones que emita;
 
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
+
 X.- Expedir su reglamento interior y emitir las disposiciones administrativas conducentes al ejercicio de sus atribuciones; y
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
 
 XI.- Celebrar, en los términos de Ley, convenios de coordinación y colaboración con otras entidades u órganos de fiscalización.
 
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2012)</small>
+
+El Órgano de Fiscalización Superior podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la cuenta pública en revisión, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión, abarque para su ejecución y pago diversos ejercicios fiscales, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la cuenta pública del ejercicio al que pertenece la información solicitada. Las observaciones y recomendaciones que, respectivamente, el Órgano de Fiscalización Superior emita, sólo podrán referirse al ejercicio de los recursos públicos de la cuenta pública en revisión.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2003)</small>
+
 En situaciones excepcionales que determine la Ley, el Órgano de Fiscalización Superior podrá requerir a los sujetos de fiscalización que procedan a la revisión de conceptos que estime pertinentes y le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la Ley, se procederá de conformidad en lo dispuesto en las fracciones VI y VII de este Artículo. Lo anterior, sin perjuicio de que se realicen las auditorías que procedan.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2003)</small>
 
 El titular del Órgano de Fiscalización Superior, será designado por el voto de las dos terceras partes de los miembros de la Legislatura, de entre la terna que presente el órgano de gobierno interior del Congreso del Estado previa convocatoria que para tal efecto se expida. La Ley determinará el procedimiento para su designación.
 
-El titular del Órgano de Fiscalización Superior, deberá cumplir con los requisitos señalados en las fracciones I, II, V y VI del Artículo 86 de esta Constitución, además de los que disponga la Ley. Durará en su encargo cinco años y podrá ser designado nuevamente por una sola vez; durante el ejercicio de su cargo únicamente podrá ser removido por las causas graves que la Ley señale y con el voto de las dos terceras partes de los miembros de la Legislatura.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2012)</small>
+
+El titular del Órgano de Fiscalización Superior, deberá cumplir con los requisitos señalados en las fracciones I, II, V y VI del Artículo 86 de esta Constitución, además de los que disponga la Ley. Durará en su encargo siete años y podrá ser designado nuevamente por una sola vez; durante el ejercicio de su cargo únicamente podrá ser removido por las causas graves que la Ley señale y con el voto de las dos terceras partes de los miembros de la Legislatura.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -3312,3 +3358,11 @@ Artículo Cuarto. Los Poderes del Estado y los Ayuntamientos en el ámbito de su
 P.O. 7 DE OCTUBRE DE 2011.
 
 Artículo Único. El presente Decreto iniciará su vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE MAYO DE 2012.
+
+Artículo primero. El presente Decreto entrará en vigor al cuarto día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Las disposiciones contenidas en la reforma al artículo 51, comenzarán su vigencia al veinticinco de septiembre de dos mil doce.
+
+Artículo segundo. El término de siete años en el encargo del titular del Órgano de Fiscalización Superior del Congreso del Estado que señala el último párrafo del artículo 66 será aplicable a partir de la designación de un nuevo titular del Órgano de Fiscalización Superior del Congreso del Estado, a la conclusión de la designación del actual titular, o en su caso, si es el supuesto de designar un nuevo titular, por cualquiera de las cusas (sic) señaladas en esta Constitución y en la Ley de Fiscalización Superior del Estado de Guanajuato.
