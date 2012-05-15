@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2012-02-16"
+last_updated: "2012-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -217,57 +217,61 @@ XLVIII. Instrumentos de mercado: las concesiones, autorizaciones, licencias y pe
 
 XLIX. Centro de población: las áreas que se hayan establecido para la fundación del mismo; las áreas urbanas ocupadas por las viviendas e infraestructura necesarias para su vida comunitaria; las que se reserven para su expansión futura; y las constituidas por elementos naturales que cumplen una función de preservación de sus condiciones ecológicas;
 
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2010)</small>
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2012)</small>
 
-L. Disposición final: acción de depositar o confinar permanentemente residuos en sitios e instalaciones, cuyas características permitan prevenir su liberación al ambiente y las consecuentes afectaciones a la salud de la población, a los ecosistemas y sus elementos;
-
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2010)</small>
-
-LI. Estaciones de transferencia: las instalaciones para el transbordo de los residuos sólidos de los vehículos de recolección, a los vehículos de transferencia;
+L. Movilidad sustentable: conjunto de procesos y acciones orientadas a conseguir como objetivo final, el uso racional de los medios de transporte por parte de los sectores públicos, los particulares, y la sociedad en general; además, fomentar la creación de vías peatonales, para que éstos den como resultado la disminución de, congestionamientos viales; deterioro del sistema de transporte público; los impactos al medio ambiente y a la salud pública, y mejoren la calidad de vida de los habitantes;
 
 > <small>(ADICIONADA, P.O. 11 DE MAYO DE 2010)</small>
 
-LII. Plantas de selección y tratamiento: la instalación donde se lleva a cabo cualquier proceso de selección y tratamiento de los residuos sólidos urbanos para su valorización o, en su caso, disposición final;
+LI. Disposición final: acción de depositar o confinar permanentemente residuos en sitios e instalaciones, cuyas características permitan prevenir su liberación al ambiente y las consecuentes afectaciones a la salud de la población, a los ecosistemas y sus elementos;
 
 > <small>(ADICIONADA, P.O. 11 DE MAYO DE 2010)</small>
 
-LIII. Relleno sanitario: obra de infraestructura que involucra métodos y obras de ingeniería para la disposición final de los residuos sólidos urbanos y de manejo especial, con el fin de controlar, a través de la compactación e infraestructura adicionales, los impactos ambientales;
+LII. Estaciones de transferencia: las instalaciones para el transbordo de los residuos sólidos de los vehículos de recolección, a los vehículos de transferencia;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2010)</small>
+
+LIII. Plantas de selección y tratamiento: la instalación donde se lleva a cabo cualquier proceso de selección y tratamiento de los residuos sólidos urbanos para su valorización o, en su caso, disposición final;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2010)</small>
+
+LIV. Relleno sanitario: obra de infraestructura que involucra métodos y obras de ingeniería para la disposición final de los residuos sólidos urbanos y de manejo especial, con el fin de controlar, a través de la compactación e infraestructura adicionales, los impactos ambientales;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
 
-LIV. Sitios de disposición final: lugar donde se depositan los residuos sólidos urbanos y de manejo especial, en forma definitiva;
+LV. Sitios de disposición final: lugar donde se depositan los residuos sólidos urbanos y de manejo especial, en forma definitiva;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
 
-LV. Valorización: principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica;
+LVI. Valorización: principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
 
-LVI. Adaptación: medida encaminada a reducir la vulnerabilidad de los sistemas naturales y humanos, ante los efectos del cambio climático;
+LVII. Adaptación: medida encaminada a reducir la vulnerabilidad de los sistemas naturales y humanos, ante los efectos del cambio climático;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
 
-LVII. Cambio Climático: variación del clima atribuido directa o indirectamente a la actividad humana que altera la composición de la atmósfera mundial, y que se suma a la variabilidad natural del clima observada durante periodos de tiempo comparables;
+LVIII. Cambio Climático: variación del clima atribuido directa o indirectamente a la actividad humana que altera la composición de la atmósfera mundial, y que se suma a la variabilidad natural del clima observada durante periodos de tiempo comparables;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
 
-LVIII. Emisiones: liberación de gases de efecto invernadero en la atmósfera;
+LIX. Emisiones: liberación de gases de efecto invernadero en la atmósfera;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
 
-LIX. Gases de Efecto Invernadero: componentes gaseosos de la atmósfera, que absorben y remiten radiación infrarroja y que están incluidos en el Anexo A del Protocolo de Kyoto:
+LX. Gases de Efecto Invernadero: componentes gaseosos de la atmósfera, que absorben y remiten radiación infrarroja y que están incluidos en el Anexo A del Protocolo de Kyoto:
 
 a) Dióxido de carbono (CO2)
 
@@ -285,13 +289,13 @@ f) Hexafluoruro de azufre (SF);
 
 > <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
 
-LX. Mitigación: medida ambiental destinada a reducir las emisiones de gases de efecto invernadero o incrementar su captura, y
+LXI. Mitigación: medida ambiental destinada a reducir las emisiones de gases de efecto invernadero o incrementar su captura, y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
 
-LXI. Vulnerabilidad: incapacidad de un sistema climático, hidrológico o humano, para enfrentar los efectos del cambio climático en los aspectos, sociales, económicos, culturales, biológicos, sanitarios y ambientales.
+LXII. Vulnerabilidad: incapacidad de un sistema climático, hidrológico o humano, para enfrentar los efectos del cambio climático en los aspectos, sociales, económicos, culturales, biológicos, sanitarios y ambientales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2012)</small>
 
@@ -363,9 +367,9 @@ IX. La participación en emergencias y contingencias ambientales, conforme a las
 
 X. La regulación y el control de las actividades que no sean consideradas altamente riesgosas para el ambiente, en los términos previstos en la LGEEPA y en esta Ley;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2012)</small>
 
-XI. El establecimiento de requisitos y procedimientos para la prevención y control de la contaminación atmosférica generada en la Entidad por diversas actividades, tanto del sector público, como del privado; así también de las fuentes fijas que provengan de establecimientos industriales, comerciales, de servicios y de espectáculos públicos; y por toda clase de fuentes móviles que circulen en su territorio, así como para autorizar y vigilar los centros de verificación vehicular en la Entidad. Asimismo, se encargará de operar, promover, concesionar y vigilar los centros de verificación vehicular de aquellos municipios cuyos ayuntamientos determinen, sustenten y manifiesten mediante acta de cabildo, su incapacidad para llevar a cabo el establecimiento y operación de sistemas de verificación de emisiones de contaminantes a la atmósfera para los vehículos automotores que circulen por el territorio de su respectiva demarcación;
+XI. El establecimiento de requisitos y procedimientos para la movilidad sustentable, así como la prevención y control de la contaminación atmosférica generada en la Entidad por diversas actividades, tanto del sector público, como del privado, así también de las fuentes fijas que provengan de establecimientos industriales, comerciales, de servicios y de espectáculos públicos, y por toda clase de fuentes móviles que circulen en su territorio, así como para autorizar los centros de verificación vehicular en la Entidad;
 
 XII. La expedición del permiso de operación para fuentes fijas de emisiones a la atmósfera de jurisdicción estatal, así como las autorizaciones en esta materia a que se refiere la presente Ley;
 
@@ -2333,7 +2337,9 @@ El Gobierno del Estado celebrará el acuerdo de coordinación que corresponda co
 
 La Secretaría de Educación de Gobierno del Estado programará como corresponda, la educación ambiental formal y no formal que proceda impartir en los establecimientos de la Entidad, para la formación de conciencia ciudadana en relación con las multivariadas materias comprendidas en la cuestión ambiental, con la participación que corresponda a la SEGAM.
 
-El Gobierno del Estado a través de las dependencias competentes, propondrá y establecerá los mecanismos para llevar a cabo en la Entidad una educación ambiental que abarque los ámbitos rural y urbano en diferentes procesos, tales como educativo, laboral, recreativo, familiar y comunitario, entre otros; también impulsará que en los medios de comunicación masiva se traten temas ambientales que no únicamente informen, sino que ayuden y propongan alternativas para un desarrollo efectivo de la conciencia ambiental en la población.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2012)</small>
+
+El Gobierno del Estado, a través de las dependencias competentes, propondrá y establecerá los mecanismos para llevar a cabo en la Entidad una educación ambiental que abarque los ámbitos rural y urbano en diferentes procesos, tales como educativo, laboral, recreativo, familiar y comunitario, entre otros; también impulsará que en los medios de comunicación masiva se traten temas ambientales que no únicamente informen, sino que ayuden y propongan alternativas para un desarrollo efectivo de la conciencia ambiental en la población. Además, se encargará de promover la movilidad sustentable, así como difundir sus beneficios ambientales, por medio de acciones y medidas concretas para las que contará con la opinión y participación de la sociedad civil, usuarios, ayuntamientos, sector educativo, y demás autoridades competentes.
 
 ###### ARTICULO 144.
 
@@ -2828,6 +2834,12 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 16 DE FEBRERO DE 2012.
 
 DECRETO NÚMERO 917, POR EL QUE SE REFORMAN LOS ARTÍCULOS, 4° EN SU PÁRRAFO PRIMERO, 8° EN SU FRACCIÓN XXXII, 111 EN SU FRACCIÓN III, Y 179, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 15 DE MAYO DE 2012.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
