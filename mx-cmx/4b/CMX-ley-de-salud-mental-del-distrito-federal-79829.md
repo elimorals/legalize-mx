@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-mental-del-distrito-federal-79829"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-23"
-last_updated: "2011-02-23"
+last_updated: "2012-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79829&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-02-18"
 
 LEY DE SALUD MENTAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE MAYO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 23 de febrero de 2011.
 
@@ -282,6 +282,14 @@ II. Elaborar y aplicar programas relacionados con salud mental infantil para que
 
 III. Proporcionar material informativo básico en salud mental a los padres o tutor con la finalidad de identificar algún tipo de trastorno en el menor y aplicar las medidas preventivas en un primer momento.
 
+> <small>(ADICIONADA, G.O. 16 DE MAYO DE 2012)</small>
+
+IV. Proporcionar material informativo básico en salud mental a los padres o tutor con la finalidad de identificar algún tipo de trastorno en el menor y aplicar las medidas preventivas en un primer momento, y
+
+> <small>(ADICIONADA, G.O. 16 DE MAYO DE 2012)</small>
+
+V. Implementar programas de información, sobre los efectos adversos de los trastornos mentales y de las medidas para detectar, atender y prevenir aquellos factores que induzcan al suicidio.
+
 ###### Artículo 17.
 
 La Secretaría de Educación, deberá coordinarse con las instituciones de educación privada, a efecto de que se apliquen las acciones señaladas en el presente Capítulo.
@@ -306,9 +314,17 @@ IV. Fortalecer las acciones comunitarias que aseguren los factores de protecció
 
 V. Diseñar y llevar a cabo campañas que reduzcan los factores de riesgo, y colaborar en el desarrollo de las mismas, cuando sea requerido por otras instancias de gobierno o instituciones, de acuerdo con la normatividad aplicable;
 
-VI. Participar en las acciones de atención a personas afectadas en situación de emergencia o desastre en el Distrito Federal, y
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
 
-VII. Elaborar, difundir y llevar a cabo los programas de salud mental; así como contribuir en su elaboración y aplicación cuando sea requerido por otras instancias de gobierno o instituciones, de acuerdo con la normatividad aplicable.
+VI. Participar en las acciones de atención a personas afectadas en situación de emergencia o desastre en el Distrito Federal;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+
+VII. Elaborar, difundir y llevar a cabo los programas de salud mental; así como contribuir en su elaboración y aplicación cuando sea requerido por otras instancias de gobierno o instituciones, de acuerdo con la normatividad aplicable, y
+
+> <small>(ADICIONADA, G.O. 16 DE MAYO DE 2012)</small>
+
+VIII. Instrumentar acciones de participación en redes sociales de Internet y en medios masivos de comunicación con la finalidad de proporcionar información precisa, objetiva y con base en criterios científicos, enfocada a la detección, la atención y la prevención de algún tipo de trastorno mental que induzca al suicidio.
 
 ###### Artículo 20.
 
@@ -481,6 +497,10 @@ Todo prestador de servicios de salud mental público, social y privado, debe act
 ###### Artículo 41.
 
 La atención médica que proporcionen los prestadores de servicio de salud mental deberá incluir la prevención, promoción, protección y procurará restaurar al máximo posible la salud física y mental a través del tratamiento, rehabilitación o referencia a instancias especializadas, así como información de medidas médicas alternativas si el caso lo requiere y cuando sea solicitado.
+
+> <small>(ADICIONADO, G.O. 16 DE MAYO DE 2012)</small>
+
+La Secretaría establecerá mecanismos gratuitos de asesoría, orientación y atención especializada para los tipos de trastornos mentales, procurando ofrecer mecanismos remotos de recepción a través de una línea pública de atención telefónica y por medios electrónicos.
 
 ###### Artículo 42.
 
@@ -695,3 +715,9 @@ OCTAVO. Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Ofi
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veinte días del mes de diciembre del año dos mil diez.- POR LA MESA DIRECTIVA.- DIP. KAREN QUIROGA ANGUIANO, PRESIDENTA.- DIP. JUAN JOSÉ LARIOS MÉNDEZ, SECRETARIO.- DIP. JUAN CARLOS ZÁRRAGA SARMIENTO, SECRETARIO.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los dieciocho días del mes de febrero del año dos mil once.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.-EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA. EL SECRETARIO DE FINANZAS, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MARIO M. DELGADO CARRILLO.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 16 DE MAYO DE 2012.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. La Secretaría de Salud, conforme a la suficiencia presupuestal asignada por la Asamblea Legislativa, instrumentará las acciones establecidas en la (sic) presente Decreto.
