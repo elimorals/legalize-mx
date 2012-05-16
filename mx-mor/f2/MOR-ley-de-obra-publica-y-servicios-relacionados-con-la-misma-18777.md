@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-18777
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-27"
-last_updated: "2012-04-18"
+last_updated: "2012-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE MORELOS
 
-LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE MORELOS
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE JUNIO DE 2012 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2012.
+LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE MORELOS
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de diciembre de 2000.
 
@@ -413,9 +415,13 @@ La Secretaría, tomando en cuenta la opinión de la Consejería Jurídica del Go
 
 En los procesos de licitación en cualquiera de sus etapas se permitirá el acceso al público que así lo desee, teniendo estos como obligación, guardar respeto y compostura en el interior del lugar.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE JUNIO DE 2012 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2012)</small>
+
 ###### ARTÍCULO 28.
 
-Las convocatorias, que podrán referirse a una o más obras públicas y servicios relacionadas con las mismas, se publicarán, simultáneamente, en la sección especializada del órgano oficial del Estado y en un diario de mayor circulación en el Estado, y contendrán:
+Las convocatorias, que podrán referirse a una o más obras públicas y servicios relacionadas con las mismas, se publicarán, en la sección especializada del Periódico Oficial “Tierra y Libertad” órgano oficial del Estado y en un diario de mayor circulación en el Estado, asimismo la convocante pondrá a disposición de los licitantes copia del texto de la convocatoria la cual contendrá:
 
 I. El nombre de las Dependencias, Secretaría o Ayuntamientos convocantes;
 
@@ -445,11 +451,17 @@ XII. Los demás requisitos generales que deberán cumplir los interesados, segú
 
 En toda convocatoria se deberá prevenir que no podrán participar todas aquellas personas que tengan alguno de los impedimentos señalados en el artículo 52 de la presente Ley.
 
-Las Dependencias, Secretaría y Ayuntamientos podrán publicar las convocatorias y difundir la venta de bases a través de los medios electrónicos de difusión, incluida la Internet.
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2012)</small>
+
+Las Dependencias, Secretaría y Ayuntamientos publicarán, las convocatorias simultáneamente, en medios electrónicos de difusión, incluyendo Internet, siendo su obtención gratuita.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE JUNIO DE 2012 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2012)</small>
 
 ###### ARTÍCULO 29.
 
-Previamente a la venta de las bases, las Dependencias, Secretaría o Ayuntamientos deberán revisar, a fin de verificar que los interesados cumplan los requisitos de la convocatoria y, por tanto, se encuentren en aptitud de adquirir las bases que les permitan formular sus propuestas, los siguientes requisitos:
+Previamente a la adquisición de las bases, las Dependencias, Secretaría o Ayuntamientos deberán revisar, a fin de verificar que los interesados cumplan los requisitos de la convocatoria y, por tanto, se encuentren en aptitud de adquirir las bases que les permitan formular sus propuestas, los siguientes requisitos:
 
 I. Comprobación del capital contable solicitado;
 
@@ -473,11 +485,15 @@ Las Dependencias, Secretaría o Ayuntamientos analizarán y definirán la proced
 
 Todo interesado que satisfaga los requisitos de la convocatoria tendrá derecho a adquirir las bases de la licitación y a presentar su proposición. Para tal efecto, las Dependencias, Secretaría o Ayuntamientos no podrán exigir requisitos adicionales a los previstos por esta Ley. Asimismo, proporcionarán a todos los interesados igual acceso a la información relacionada con la licitación, a fin de evitar favorecer a algún participante.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE JUNIO DE 2012 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 ###### ARTÍCULO 31.
 
 Las bases que emitan las Dependencias, Secretaría o Ayuntamientos para las licitaciones públicas se pondrán a disposición de los interesados, a partir del día en que se publique la convocatoria y hasta, inclusive, el sexto día natural previo al acto de presentación y apertura de proposiciones, siendo responsabilidad exclusiva de los interesados adquirirlas oportunamente durante este período.
 
-Esas bases, podrán ser revisadas por cualquier interesado previamente al pago de las mismas a partir de la fecha de publicación de la convocatoria y las Dependencias, Secretaría o Ayuntamientos deberá tener los ejemplares suficientes para su consulta; las bases contendrán en lo aplicable, como mínimo, lo siguiente:
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2012)</small>
+
+Esas bases, podrán ser revisadas por cualquier interesado a partir de la fecha de publicación de la convocatoria y las Dependencias, Secretaría o Ayuntamientos deberá tener los ejemplares suficientes para su consulta; las bases contendrán en lo aplicable, como mínimo, lo siguiente:
 
 I. Nombre de las Dependencias, Secretaría o Ayuntamientos convocantes;
 
@@ -525,7 +541,9 @@ Tratándose de obra pública y servicios relacionados con las mismas, financiado
 
 El plazo para la presentación y apertura de proposiciones nacionales, no podrá ser inferior a quince días naturales y en el caso de internacionales mínimo serán veinte días naturales contados en ambos casos a partir de la fecha de publicación de la convocatoria, salvo que, por razones de urgencia justificada y siempre que ello no tenga por objeto limitar el número de participantes, no pueda observarse dicho plazo, en cuyo caso éste no podrá ser menor a diez días hábiles contados a partir de la fecha de publicación de la convocatoria.
 
-Para el caso de concursos reducidos en tiempo no habrá revisión previa a la venta de bases, consecuentemente en el sobre que contenga la propuesta técnica tendrá que acondicionarse la documentación, que establece el artículo 29 de la presente Ley.
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2012)</small>
+
+Para el caso de concursos reducidos en tiempo no habrá revisión previa, consecuentemente, en el sobre que contenga la propuesta técnica tendrá que adicionarse la documentación, que establece el artículo 29 de la presente Ley.
 
 ###### ARTÍCULO 32.
 
@@ -549,9 +567,13 @@ En las licitaciones públicas, la entrega de proposiciones se hará en dos sobre
 
 Todas las propuestas serán presentadas en dos tantos y, en caso de ser desechadas, el primer tanto será devuelto al oferente y el segundo tanto será conservado en el expediente relativo.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE JUNIO DE 2012 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2012)</small>
+
 ###### ARTÍCULO 34.
 
-El acto de presentación y apertura de proposiciones, en el que podrán participar los oferentes que hayan cubierto el costo de las bases de la licitación, se llevará a cabo en dos etapas, conforme a lo siguiente:
+El acto de presentación y apertura de proposiciones, en el que podrán participar los oferentes que hayan adquirido las bases de la licitación, se llevará a cabo en dos etapas, conforme a lo siguiente:
 
 I. En la primera etapa, los oferentes entregarán sus proposiciones en dos sobres cerrados de manera que, en su caso, sea evidente cualquier violación; se procederá a la apertura de la propuesta técnica exclusivamente y se desecharán las que hubieren omitido alguno de los documentos solicitados, las que serán devueltas por las Dependencias, Secretaría o Ayuntamientos, dentro de un término máximo de quince días naturales contados a partir de la fecha en que se de a conocer el fallo de la licitación;
 
@@ -1250,3 +1272,9 @@ SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Dentro de los sesenta días hábiles siguientes a la publicación del presente decreto, el Titular del Ejecutivo del Estado de Morelos, deberá armonizar aquellas disposiciones necesarias, para el cumplimiento del presente decreto.
 
 CUARTO.- Se derogan todas aquellas disposiciones que contravengan el presente decreto.
+
+P.O. 16 DE MAYO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Tierra y Libertad, órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se derogan todas las disposiciones legales análogas o similares previstas en las Leyes de Ingresos de los Municipios del Estado de Morelos vigentes y demás disposiciones administrativas y reglamentarias que se opongan al presente Decreto.
