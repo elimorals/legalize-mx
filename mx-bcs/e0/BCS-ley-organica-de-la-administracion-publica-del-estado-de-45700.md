@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-administracion-publica-del-estado-de-45700"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-07-14"
-last_updated: "2012-03-10"
+last_updated: "2012-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE MAYO DE 2012.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el jueves 14 de julio de 2005
 
@@ -587,9 +587,29 @@ e) Mantener por sí, o en coordinación con los Gobiernos Federal y Municipales,
 
 f) Proponer criterios educativos y culturales en la producción radiofónica y televisiva del Gobierno del Estado;
 
-g) Otorgar becas de conformidad con las disposiciones aplicables, sin perjuicio de las atribuciones que competan a otras dependencias o entidades; y
+g) Otorgar becas de conformidad con las disposiciones aplicables, sin perjuicio de las atribuciones que competan a otras dependencias o entidades; y (sic)
 
 h) Supervisar la celebración y cumplimiento de los convenios que en materia educativa, cultural, ciencia y tecnología, deportiva, recreativa, artística y de aprovechamiento del tiempo libre, suscriban los organismos sectorizados a esta Secretaría.
+
+> <small>(ADICIONADO, B.O. 16 DE MAYO DE 2012)</small>
+
+i) Coordinar los esfuerzos institucionales para facilitar el acceso y desarrollo de oportunidades de la educación a través de un Sistema Estatal de Becas y Apoyos Educativos que permita a los estudiantes del estado acceder, permanecer y concluir sus estudios en los diferentes tipos, niveles y modalidades de la educación;
+
+> <small>(ADICIONADO, B.O. 16 DE MAYO DE 2012)</small>
+
+j) Establecer y coordinar el Centro Estatal de Becas y Apoyos Educativos como órgano desconcentrado, en el que confluyan las diferentes instituciones, organizaciones, dependencias y representantes de la sociedad civil involucradas, mediante la articulación, difusión, promoción, generación, gestión y otorgamiento de becas educativas;
+
+> <small>(ADICIONADO, B.O. 16 DE MAYO DE 2012)</small>
+
+k) Promover y concretar acuerdos o convenios con las instancias federales, estatales y municipales para fortalecer los programas de becas en el Estado, así como integrar y difundir la información de todos los programas de becas, estímulos educativos y apoyos financieros disponibles en el Estado, incluyendo los del sector público, privado y social;
+
+> <small>(ADICIONADO, B.O. 16 DE MAYO DE 2012)</small>
+
+l) Establecer y promover esquemas de vinculación entre las dependencias, entidades e instituciones públicas, y los sectores privado y social, que operen o coordinen programas de becas y estímulos educativos en el Estado, o bien, participen de alguna manera en la tramitación u otorgamiento de becas en estos programas; y
+
+> <small>(ADICIONADO, B.O. 16 DE MAYO DE 2012)</small>
+
+m) Promover la obtención de recursos adicionales para la operación del Sistema Estatal de Becas y Apoyos Educativos través (sic) de aportaciones, subsidios y apoyos que le otorguen los Gobiernos Federal, Estatal y Municipal, los organismos del sector social y personas físicas y morales que coadyuven a su financiamiento, a través de los convenios correspondientes.
 
 II. En materia de Investigación:
 
@@ -1674,3 +1694,9 @@ El personal adscrito a la Procuraduría Fiscal que a la entrada en vigor del pre
 ###### ARTÍCULO TERCERO.
 
 El Ejecutivo del Estado, en un plazo no mayor a sesenta días naturales contados a partir de la entrada en vigor de este Decreto, deberá expedir o adecuar la reglamentación interior de las dependencias correspondientes.
+
+B.O. 16 DE MAYO DE 2012.
+
+PRIMERO: El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO: El Ejecutivo del Estado proveerá lo conducente a fin de adecuar las disposiciones reglamentarias y demás normas administrativas que en términos de lo dispuesto por el artículo 18 de la Ley Orgánica de la Administración Pública del Estado sean necesarias para la creación del Centro Estatal de Becas y Apoyos Educativos.
