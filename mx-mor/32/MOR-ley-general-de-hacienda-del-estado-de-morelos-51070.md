@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-51070"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-07-05"
-last_updated: "2012-05-02"
+last_updated: "2012-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE JUNIO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2012.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 2006.
 
@@ -669,7 +671,7 @@ V. Comisiones;
 
 VI. Indemnizaciones por despido o terminación de la relación laboral.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 SUJETO
 
@@ -687,7 +689,7 @@ Serán responsables solidarios del pago de este impuesto las personas jurídico-
 
 La Federación, el Estado, los Municipios, sus entidades paraestatales y los organismos descentralizados, fideicomisos y demás entidades paraestatales, así como los órganos constitucionales, deberán cubrir el impuesto a su cargo.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 BASE
 
@@ -697,7 +699,7 @@ BASE
 
 3.- Es base del impuesto sobre nóminas, el monto total de las erogaciones realizadas por concepto de remuneraciones al trabajo personal subordinado.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 TASA
 
@@ -707,7 +709,7 @@ TASA
 
 4.- El Impuesto Sobre Nóminas se determinará aplicando la tasa del 2% sobre el monto total de las erogaciones efectuadas por concepto de remuneraciones al trabajo personal subordinado.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 PAGO
 
@@ -721,7 +723,7 @@ Dicho pago se hará mediante declaración en las oficinas de recaudación fiscal
 
 La obligación de presentar la declaración subsistirá aún cuando no se hayan efectuado erogaciones gravadas.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 EXENCIONES
 
@@ -765,7 +767,7 @@ c) Asociaciones de trabajadores y colegios de profesionistas; y
 
 d) Empresas de nueva creación, durante el primer año calendario, contado a partir de que inicien sus operaciones en el Estado de Morelos.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 OBLIGACIONES
 
@@ -3275,7 +3277,7 @@ VIII. Indemnizaciones;
 
 IX. Administración de contribuciones federales y municipales;
 
-X. Venta de bases para licitaciones públicas;
+X. (DEROGADA, P.O. 16 DE MAYO DE 2012)
 
 XI. Aprovechamiento por concepto de viáticos; y
 
@@ -3486,3 +3488,9 @@ PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicaci
 SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo para los efectos a que se refiere el artículo 44 de la Constitución Política del Estado de Morelos.
 
 TERCERO.- El Ejecutivo Estatal deberá programar en el Presupuesto de Egresos del Gobierno del Estado de Morelos, correspondiente al ejercicio fiscal del año dos mil trece, los recursos suficientes para el pleno cumplimiento de lo ordenado, derivado de la recaudación de los impuestos afectados a través de la presente resolución durante el ejercicio fiscal 2012.
+
+P.O. 16 DE MAYO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Tierra y Libertad, órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se derogan todas las disposiciones·Iegales análogas o similares previstas en las Leyes de Ingresos de los Municipios del Estado de Morelos vigentes y demás disposiciones administrativas y reglamentarias que se opongan al presente Decreto.
