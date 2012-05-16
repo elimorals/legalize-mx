@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-responsabilidades-de-los-servidores-publicos-573
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-24"
-last_updated: "2012-04-04"
+last_updated: "2012-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 24 de octubre de 2007.
 
@@ -755,21 +755,29 @@ El acta circunstanciada se otorgará por duplicado, un tanto será para el traba
 
 ### CAPÍTULO VII. DE LA PRESCRIPCIÓN
 
-###### ARTÍCULO 71.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2012)</small>
 
-El plazo de la prescripción de las acciones que pueda ejercitar la autoridad sancionadora y de las sanciones que pueda imponer al servidor público responsable por el incumplimiento de los deberes contenidos en el artículo 27 de la presente Ley, ocurrirá:
+###### Artículo 71.
 
-I. En tres años por la infracción de los deberes a que se refieren las fracciones II, III, IV, VIII, IX, X, XI, XII, XV y XVI;
+El plazo de la prescripción de las acciones que pueda ejercitar la autoridad sancionadora y de las sanciones que pueda imponer al servidor público responsable por el incumplimiento de los deberes contenidos en el artículo 27 de la presente Ley, prescribirán en tres años.
 
-II. En un año por la infracción de los deberes contenidos por la fracciones I, V, XIII; y
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2012)</small>
 
-III. En seis meses por la infracción de los deberes contenidos en las fracciones VI, VII y XIV.
+Tratándose de infracciones graves que refiere el artículo 28 de la presente Ley, el plazo de prescripción será de cinco años.
+
+I. (DEROGADO, P.O. 16 DE MAYO DE 2012)
+
+II. (DEROGADO, P.O. 16 DE MAYO DE 2012)
+
+III. (DEROGADO, P.O. 16 DE MAYO DE 2012)
 
 ###### ARTÍCULO 72.
 
 El término de la prescripción iniciará a partir de la fecha en que se haya cometido la infracción motivo de responsabilidad si fuere realizada en un solo acto o, a partir de la fecha en que haya concluido si trata de actos continuos y, se interrumpirá por cualquier acto de gestión debidamente notificado al probable responsable que, relacionado con la conducta u omisión que se le imputa practique o realice la autoridad sancionadora.
 
-El estudio de la prescripción procederá únicamente a instancia de parte.
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2012)</small>
+
+El estudio de la prescripción procederá de oficio o a instancia de parte.
 
 ### CAPÍTULO VIII. DE LA CADUCIDAD
 
@@ -956,3 +964,11 @@ Aprobado el presente, remítase para su publicación en el Periódico Oficial "T
 ###### ARTÍCULO SEGUNDO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 16 DE MAYO DE 2012.
+
+Primero.- Aprobado que sea el presente Decreto, túrnese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+Tercero.- Los procedimientos de responsabilidad administrativa que se encuentren en trámite, así como las causas que los originaron, deberán ajustarse por lo que convenga a los servidores públicos implícitos a las nuevas reglas de la prescripción previstas por la legislación vigente hasta su conclusión definitiva.
