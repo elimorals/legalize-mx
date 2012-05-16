@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-que-crea-la-medalla-al-merito-ciudadano-monica-45758
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-05"
-last_updated: "2010-07-21"
+last_updated: "2012-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45758&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO QUE CREA LA MEDALLA AL MERITO CIUDADANO -MONICA RODRIGUEZ- DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-REGLAMENTO QUE CREA LA MEDALLA AL MERITO CIUDADANO "MONICA RODRIGUEZ" DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
+REGLAMENTO QUE CREA LA MEDALLA AL MÉRITO CIUDADANO "MÓNICA RODRÍGUEZ" DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 5 de agosto de 2005.
 
@@ -39,31 +39,31 @@ PRIMERO: Se aprueba el REGLAMENTO QUE CREA LA MEDALLA AL MÉRITO CIUDADANO "MÓN
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO P.O. 21 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2012)</small>
 
 ###### ARTÍCULO 1.
 
-Las disposiciones del presente Reglamento son de orden público y de interés social y tiene por objeto establecer la normatividad para otorgar la Medalla al Mérito Ciudadano, con la cual el Republicano Ayuntamiento, reconoce anualmente a aquellas personas originarias o residentes en el Municipio, que se hayan distinguido por su servicio a la comunidad de San Pedro Garza García, Nuevo León, en sus acciones cívicas, heroicas, culturales, educativas, deportivas, de educación, de participación ciudadana, ambientales, o de desarrollo económico, entre otras.
+Las disposiciones del presente Reglamento son de orden público y de interés social y tienen por objeto establecer la normatividad para otorgar la Medalla al Mérito Ciudadano "Mónica Rodríguez", con la cual el Republicano Ayuntamiento, reconoce anualmente a aquellas personas originarias o residentes en el Municipio, que se hayan distinguido por su servicio a la comunidad de San Pedro Garza García, Nuevo León, en sus acciones cívicas, heroicas, culturales, educativas, deportivas, de participación ciudadana, ambientales, o de desarrollo económico, entre otras.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2012)</small>
 
 ###### ARTÍCULO 2.
 
-La Medalla al Mérito Ciudadano es el máximo reconocimiento que el Municipio otorga a ciudadanos distinguidos, consistiendo esta en una Medalla de oro amarillo, bajo las características que considere pertinente el Comité de Premiación, y de acuerdo al presupuesto para la realización del mismo.
+La Medalla al Mérito Ciudadano es el máximo reconocimiento que el Municipio otorga a ciudadanos distinguidos, consistiendo esta en una Medalla de oro amarillo, bajo las características que considere pertinente el Comité de Premiación, y de acuerdo al presupuesto aprobado.
 
-Tendrá así mismo las características que resulten del diseño ganador en los términos del artículo segundo transitorio del presente Reglamento, debiendo contener como mínimo el escudo del Municipio con la leyenda Medalla al Mérito Ciudadano denominada “Mónica Rodríguez” y el año que corresponda.
+Tendrá así mismo las características que resulten del diseño, debiendo contener como mínimo el escudo del Municipio con la leyenda Medalla al Mérito Ciudadano denominada "Mónica Rodríguez" y el año al que corresponda.
 
 ###### ARTÍCULO 3.
 
 La Medalla al Mérito Ciudadano, será entregada en Sesión solemne del Republicano Ayuntamiento, durante las fiestas patrias o en el mes de Noviembre en virtud de ser el mes de la fundación del Municipio.
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2012)</small>
+
 ###### ARTÍCULO 4.
 
-Las personas físicas que sean propuestas para el otorgamiento a la Medalla al Mérito Ciudadano, deberán ser originarias del Municipio o contar con una residencia mínima de 5-cinco años en el Municipio al día en que sean propuestos.
+Las personas físicas que sean propuestas para el otorgamiento a la Medalla al Mérito Ciudadano, deberán ser originarias del Municipio o contar con una residencia mínima de 5-cinco años en el Municipio al día en que sean propuestas.
 
-Las propuestas deberán ser formuladas por escrito mediante el cual se precisen las acciones por las que se considera al ciudadano como merecedor de la presea, así como su biografía, y de ser posible presentarán los documentos que acrediten el merecimiento.
-
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2010)</small>
+Las propuestas deberán ser formuladas por escrito mediante el cual se precisen las acciones por las que se considera al ciudadano como merecedor de la presea, así como su biografía, y documentos que acrediten el merecimiento.
 
 Los candidatos podrán ser presentados por individuos, Instituciones o Consejos Ciudadanos. Los Servidores Públicos que se encuentren bajo cualquier régimen laboral, no podrán presentar propuestas ni ser propuestos.
 
@@ -97,11 +97,11 @@ e) Aquéllas, que a juicio del Comité de Premiación, sean consideradas como va
 
 ### CAPÍTULO II. DE LOS CAMPOS O ESPECIALIDADES MERECEDORES DE RECONOCIMIENTO
 
-> <small>(REFORMADO P.O. 21 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2012)</small>
 
 ###### ARTÍCULO 7.
 
-Anualmente se otorgarán hasta 3-tres medallas que serán concedidas por las acciones que hayan realizado dentro del municipio que queden comprendidas dentro de las áreas, campos o especialidades siguientes:
+Anualmente se otorgarán hasta 5-cinco medallas que serán concedidas por las acciones que se hayan realizado dentro del municipio que queden comprendidas dentro de las áreas, campos o especialidades siguientes:
 
 I.- Acciones Cívicas y Heroicas: Se otorgará a aquellas personas que se constituyan en su comunidad, como ejemplos respetables de dignidad cívica por su diligente cumplimiento con la Ley; por la firme y serena defensa de los derechos propios y de los demás; por el respeto a las Instituciones públicas y un relevante comportamiento, así como a las personas que expongan su integridad física para salvaguardar la vida de otras personas
 
@@ -119,41 +119,27 @@ VII.- Participación Ciudadana: Se otorgará a aquel ciudadano que sin fines par
 
 VIII.- Desarrollo Económico: Se otorgará a quienes contribuyan a generar empleos con el fin de promover o mantener la prosperidad o bienestar económico y social en el Municipio.
 
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2010)</small>
-
-ARTÍCULO 7 BIS.- Las acciones u obras que pueden ser premiadas con la Medalla serán las siguientes:
-
-I. Las que demuestren su lealtad, respeto y congruencia con los más altos principios y valores de nuestra patria;
-
-II. Las que contribuyan al engrandecimiento del Municipio;
-
-III. Las que destaquen por generar un beneficio para la comunidad;
-
-IV. Las que promuevan o sean una expresión de civismo, de labor social, de desarrollo comunitario, de deporte, de cultura, de educación, de participación ciudadana, de acciones heroicas y del cuidado al medio ambiente; y,
-
-V. Aquéllas, que a juicio del Comité de Premiación, sean consideradas como valiosas y dignas del máximo reconocimiento que el Municipio pueda conceder.
+ARTÍCULO 7 BIS.- (DEROGADO, P.O. 16 DE MAYO DE 2012)
 
 ### CAPÍTULO III. DEL COMITÉ DE PREMIACIÓN
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2012)</small>
+
 ###### ARTÍCULO 8.
 
-Para la integración, estudio y resolución de las propuestas recibidas para el otorgamiento de la Medalla al Mérito Ciudadano, se constituirá un comité, el cual durará en su encargo durante el tiempo que sea necesario para la determinación de la elección, el que se integrará por las siguientes personas, las cuales tendrán derecho a voz y voto:
+Para la integración, estudio y resolución de las propuestas recibidas para el otorgamiento de la Medalla al Mérito Ciudadano, se constituirá un comité, el cual durará en su encargo durante el tiempo que sea necesario para el proceso de elección.
+
+Se integrará por las siguientes personas, las cuales tendrán derecho a voz y voto:
 
 I.- 1-un integrante del Republicano Ayuntamiento, quien será el Presidente de la Comisión de Participación Ciudadana;
 
 II.- El Secretario del Republicano Ayuntamiento;
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 2010)</small>
-
 III.- El Director de Participación Ciudadana;
 
-IV.- (DEROGADA, P.O. 21 DE JULIO DE 2010)
+IV.- Hasta 7-siete ciudadanos designados por el Republicano Ayuntamiento, a propuesta del Presidente Municipal.
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 2010)</small>
-
-V.- Hasta 7-siete ciudadanos designados por el Republicano Ayuntamiento a propuesta del Presidente Municipal.
-
-Para los efectos del presente artículo, entre los ciudadanos designados, el Republicano Ayuntamiento elegirá al Presidente y Secretario del Comité, el resto de los integrantes lo conformarán como vocales. En caso de empate, el Presidente tendrá voto de calidad.
+Para los efectos del presente artículo, entre los ciudadanos designados, el Republicano Ayuntamiento elegirá al Presidente y Secretario del Comité; el resto de los integrantes lo conformarán como vocales. En caso de empate dentro del proceso de elección, el Presidente del comité de Premiación tendrá voto de calidad.
 
 > <small>(ADICIONADO, P.O. 21 DE JULIO DE 2010)</small>
 
@@ -189,7 +175,7 @@ IV. Seleccionar las que resulten mejor calificadas y;
 
 V. Emitir opiniones particulares de las propuestas analizadas.
 
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2012)</small>
 
 ARTÍCULO 8 BIS 2.- El Director de Participación Ciudadana, fungirá como instancia de apoyo y responsable ante el Comité de Premiación de las labores de recepción, registro y clasificación de las propuestas de candidatos que se presenten para lo cual, deberá seguir el siguiente procedimiento:
 
@@ -197,7 +183,7 @@ I. Una vez que se lleve a cabo el proceso de convocatoria, deberá registrar cad
 
 II. Etiquetar y clasificar, de acuerdo al área o especialidad, cada uno de los formatos de registro de convocatoria debidamente llenado y adherirlo al sobre que contiene la propuesta.
 
-III. Una vez realizado lo anterior, previo acuse de recibido, entregar al Presidente del Comité de Premiación las propuestas recibidas, ya clasificadas, adjuntando a éstas el formato de Evaluación de Propuestas de cada área o especialidad.
+III. Una vez realizado lo anterior, previo acuse de recibido, entregar al Presidente del Comité de Premiación las propuestas recibidas, ya clasificadas.
 
 > <small>(ADICIONADO, P.O. 21 DE JULIO DE 2010)</small>
 
@@ -257,29 +243,29 @@ VII. En caso de duda en la calificación de alguna propuesta, el Presidente del 
 
 VIII. En caso de empate entre varias propuestas, el Presidente del Comité tendrá voto de calidad.
 
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2012)</small>
 
-ARTÍCULO 10 BIS 1.- Concluído con el procedimiento de premiación por parte del Comité, el Presidente del mismo, solicitará al Director de Participación Ciudadana, la elaboración del escrito a través del cual se le informa al Presidente Municipal de la decisión del Comité.
+ARTÍCULO 10 BIS 1.- Concluido el procedimiento de premiación por el Comité, el Presidente del mismo, solicitará al Director de Participación Ciudadana la elaboración del oficio a través del cual se informará al C. Presidente Municipal la decisión del Comité, la cual bajo la más estricta confidencialidad será dada a conocer por éste a los integrantes del Republicano Ayuntamiento. Dicho escrito será signado por los miembros del Comité.
 
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2012)</small>
 
-ARTÍCULO 10 BIS 2.- Una vez que el escrito que contenga resultado del procedimiento de premiación sea turnado al Presidente Municipal, éste informará a los integrantes del Comité y a los ganadores del día y hora en que se llevará a cabo la sesión solemne para la entrega de la presea.
+ARTÍCULO 10 BIS 2.- Una vez que se haya informado al Presidente Municipal del resultado de la elección, el Comité de Premiación informará, por escrito, a los ganadores sobre el resultado final, así como el día, hora y lugar en que se llevará a cabo la sesión solemne del R. Ayuntamiento para entrega de las preseas.
+
+La Dirección de Participación Ciudadana podrá coadyuvar con el Comité de Premiación en este proceso.
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2012)</small>
 
 ###### ARTÍCULO 11.
 
 Corresponde al Comité el control y registro de las candidaturas presentadas y la integración, estudio, análisis y resolución de las propuestas.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2010)</small>
+El Comité tendrá la facultad de otorgar Medalla Post-Mortem a un ciudadano que se haya distinguido en alguna de las áreas descritas en el artículo 7 del presente reglamento y de acuerdo al presupuesto autorizado para tal fin.
 
-El Comité tendrá la facultad de otorgar las Medallas Post-Mortem que sean necesarias a ciudadanos que se hayan distinguido en alguna de las áreas descritas en el artículo 7 del presente reglamento.
-
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2010)</small>
-
-El Comité podrá declarar desiertas cualquiera de los campos o áreas participantes, y consecuentemente disminuir el número de medallas a otorgar, así como también podrá considerar otro campo o especialidad no contemplada dentro de las áreas descritas en el artículo 7 del presente reglamento.
+El Comité podrá declarar desiertos cualesquiera de los campos, o áreas participantes; también podrá considerar otro campo o especialidad no contemplada dentro de las áreas precisadas en el artículo 7 del presente reglamento.
 
 ###### ARTÍCULO 12.
 
-Mediante escrito signado por los miembros del Comité y dirigido al Presidente Municipal, se dará a conocer el (los) resultado (s).
+(DEROGADO, P.O. 16 DE MAYO DE 2012)
 
 ###### ARTÍCULO 13.
 
@@ -291,7 +277,7 @@ El Presidente Municipal hará entrega de la Medalla al Mérito Ciudadano a los g
 
 La Medalla al Mérito Ciudadano será entregada a las personas reconocidas o a través de un representante debidamente acreditado.
 
-(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE JULIO DE 2010))
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE JULIO DE 2010)</small>
 
 ### CAPÍTULO V. DEL RECURSO DE RECONSIDERACIÓN
 
@@ -301,11 +287,11 @@ La Medalla al Mérito Ciudadano será entregada a las personas reconocidas o a t
 
 Contra resoluciones que emita el Comité procederá el recurso de reconsideración.
 
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2012)</small>
 
 ###### ARTÍCULO 15.
 
-Corresponderá al Comité conocer y resolver los (sic) relativo al Recurso.
+Corresponderá al Comité conocer y resolver lo relativo al Recurso previsto en el artículo14 (sic) del presente Reglamento.
 
 > <small>(ADICIONADO, P.O. 21 DE JULIO DE 2010)</small>
 
@@ -368,3 +354,21 @@ PRIMERO. Se aprueba la REFORMA POR MODIFICACIÓN ADICIÓN Y DEROGACIÓN AL REGLA
 SEGUNDO. Mándese publicar el presente acuerdo en el Periódico Oficial del Estado. Hágase posteriormente su difusión a través de la Gaceta Municipal.
 
 TERCERO. Gírense las instrucciones al C. Ing. Mauricio Fernández Garza, Presidente Municipal y al C. Lic. Fernando Canales Stelzer Secretario del Republicano Ayuntamiento para el exacto cumplimiento del presente acuerdo.
+
+P.O. 16 DE MAYO DE 2012.
+
+PRIMERO.- Las reformas al presente Reglamento entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones municipales que se opongan a lo dispuesto en este Reglamento.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ACUERDO POR EL QUE SE REFORMA EL REGLAMENTO.</small>
+
+En consideración a lo anteriormente expresado y fundado además en el artículo 73 del Reglamento para el Gobierno Interior del Republicano Ayuntamiento de San Pedro Garza García, Nuevo León, se somete a consideración del pleno de este Republicano Ayuntamiento del Municipio de San Pedro Garza García, Nuevo León, el siguiente:
+
+A C U E R D O:
+
+PRIMERO. Se aprueba la REFORMA POR MODIFICACIÓN Y DEROGACIÓN AL REGLAMENTO QUE CREA LA MEDALLA AL MÉRITO CIUDADANO "MÓNICA RODRÍGUEZ" DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, en la forma y términos anteriormente señalados.
+
+SEGUNDO. Mándese publicar el presente acuerdo en el Periódico Oficial del Estado. Hágase posteriormente su difusión a través de la Gaceta Municipal, en la página de Internet del Municipio en el hipervínculo www.sanpedro.gob.mx.
+
+TERCERO. Gírense las instrucciones al C. Presidente Municipal y al C. Secretario del Republicano Ayuntamiento para el exacto cumplimiento del presente acuerdo.
