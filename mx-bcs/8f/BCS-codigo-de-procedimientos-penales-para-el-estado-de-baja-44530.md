@@ -4,7 +4,7 @@ identifier: "BCS-codigo-de-procedimientos-penales-para-el-estado-de-baja-44530"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-09-19"
-last_updated: "2012-01-10"
+last_updated: "2012-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE MAYO DE 2012.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -1059,7 +1059,13 @@ Los ancianos mayores de 75 años y las mujeres en estado de gravidez, que sean a
 
 Se califican como delitos graves, por afectar de manera importante valores fundamentales de la sociedad, los siguientes:
 
+> <small>(REFORMADA, B.O. 16 DE MAYO DE 2012)</small>
+
 I.- Homicidio doloso en cualquiera de sus formas incluyendo los grados de preterintencional y tentativa. Homicidio culposo cometido por el conductor de un vehículo automotor o tracción animal, bajo el influjo del alcohol o de las drogas, enervantes, estupefacientes, psicotrópicos o cualquier otra sustancia que produzca efectos similares.
+
+(NOTA: EL 21 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 36/2012, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I, PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+HOMICIDIO DOLOSO SI LA VÍCTIMA DEL DELITO DE SECUESTRO ES PRIVADA DE LA VIDA POR LOS AUTORES O PARTÍCIPES DEL REFERIDO DELITO;
 
 II.- Lesiones contenidas en el código penal en su artículo 261 fracción III, así mismo las lesiones que pongan en peligro la vida cualquiera que sea el término de su sanidad y que sean causadas con motivo de la conducción de vehículos bajo el efecto de bebidas alcohólicas, drogas, enervantes, estupefacientes, psicotrópicos o cualquier otra sustancia que produzca efectos similares, así como también estarán consideradas las lesiones que produzcan la pérdida de cualquier órgano o función, una enfermedad incurable o incapacidad total o permanente para trabajar;
 
@@ -1069,9 +1075,11 @@ IV.- Aborto, previsto por el artículo 249, siempre y cuando se cometa conforme 
 
 V.- Privación ilegal de la libertad, previsto y sancionado por los artículos 276, 277 y 278 del código penal;
 
-> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2005)</small>
+(NOTA: EL 21 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 36/2012, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-VI.- Secuestro previsto y sancionado por los Artículos 279, 280 y 281 del Código Penal;
+> <small>(REFORMADA, B.O. 16 DE MAYO DE 2012)</small>
+
+VI.- SECUESTRO, PREVISTO Y SANCIONADO POR LOS ARTÍCULOS 279, 280, 280 BIS, Y 281 DEL CÓDIGO PENAL;
 
 VII.- Violación en sus modalidades previstas y sancionadas en los artículos 284, 285 y 286 del Código Penal; así como en su grado de tentativa;
 
@@ -1311,7 +1319,7 @@ Los objetos que tengan efectos probatorios serán inspeccionados por el minister
 
 El ofendido o su legitimo representante, podrán solicitar al ministerio público, durante la averiguación previa, o por conducto de este al Juzgador, en el proceso, cuando esté comprobado el cuerpo del delito, que dicte las providencias necesarias para asegurar sus derechos o restituirlo en el goce de los mismos, siempre que estén legalmente justificados y se otorgue, en su caso, caución bastante para garantizar el pago de los daños y perjuicios que pudieran ocasionarse a terceros o al procesado.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE MARZO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE MARZO DE 2008)</small>
 
 ### CAPÍTULO XII. ORDENES DE PROTECCIÓN PREVENTIVAS Y DE EMERGENCIA
 
@@ -1437,7 +1445,7 @@ Las pruebas directas deben ser desahogadas personalmente por el juez o el minist
 
 Sólo serán objeto de prueba los hechos imputados que constituyan elementos del delito, sus modalidades y consecuencias; la responsabilidad penal del inculpado, así como las causas que la excluyan o extingan y los datos necesarios para la individualización de las penas, incluido el monto de los daños y perjuicios causados.
 
-Ni los hechos notorios ni el derecho requerirá de prueba, salvo que se trate de legislación extranjera.
+Ni los hechos notorios ni el derecho requerirá (sic) de prueba, salvo que se trate de legislación extranjera.
 
 ###### ARTÍCULO 195.
 
@@ -1547,7 +1555,7 @@ Exceptuando a los peritos oficiales, los especialistas que acepten el cargo tien
 
 ###### ARTÍCULO 218.
 
-El ministerio público o el juez que ordene la diligencia fijará a los peritos el plazo en que deben rendir su dictamen. Si transcurrido el mismo no presentan su peritaje o, si legalmente citados, aceptan el cargo pero no concurren a desempeñarlo, se hará uso de los medios de apremio y, si ha pesar de haber sido apremiado el perito no cumple con las obligaciones señaladas en el párrafo anterior, se procederá por el delito de desobediencia a un mandato de autoridad.
+El ministerio público o el juez que ordene la diligencia fijará a los peritos el plazo en que deben rendir su dictamen. Si transcurrido el mismo no presentan su peritaje o, si legalmente citados, aceptan el cargo pero no concurren a desempeñarlo, se hará uso de los medios de apremio y, si ha (sic) pesar de haber sido apremiado el perito no cumple con las obligaciones señaladas en el párrafo anterior, se procederá por el delito de desobediencia a un mandato de autoridad.
 
 ###### ARTÍCULO 219.
 
@@ -1625,7 +1633,7 @@ En los casos de las tres primeras fracciones, si después de ser informadas que 
 
 ###### ARTÍCULO 230.
 
-El juez debe examinar a los testigos que residan dentro de su demarcación territorial, cuya declaración soliciten las partes, citándoles para que comparezcan en la fecha y hora fijados para la diligencia, a menos que el oferente se comprometa a presentarlos.
+El juez debe examinar a los testigos que residan dentro de su demarcación territorial, cuya declaración soliciten las partes, citándoles para que comparezcan en la fecha y hora fijados (sic) para la diligencia, a menos que el oferente se comprometa a presentarlos.
 
 ###### ARTÍCULO 231.
 
@@ -2031,7 +2039,7 @@ Si el lesionado no tiene el carácter de detenido y requiere ser atendido en otr
 
 Los médicos de los hospitales públicos que atiendan al lesionado, están obligados a rendir a la autoridad investigadora, a la brevedad posible, un dictamen que describa y clasifique las lesiones que presenta, así como las complicaciones que sean consecuencia inmediata o necesaria de las mismas, además de un certificado de sanidad que contenga la historia clínica del lesionado o de defunción en su caso; sin perjuicio de los exámenes y pericias que realicen los médicos forenses oficiales.
 
-Cuando la atención del lesionado se efectúe en un establecimiento de salud privado, el ministerio público designará como responsable al médico con título legalmente registrado que atienda al ofendido, el que tendrá las mismas obligaciones mencionadas en el artículo anterior. Los dictámenes y certificados expedidos por el médico deberá ser ratificado por perito médico forense oficial.
+Cuando la atención del lesionado se efectúe en un establecimiento de salud privado, el ministerio público designará como responsable al médico con título legalmente registrado que atienda al ofendido, el que tendrá las mismas obligaciones mencionadas en el artículo anterior. Los dictámenes y certificados expedidos por el médico deberá ser ratificado (sic) por perito médico forense oficial.
 
 Cuando un lesionado requiera de atención urgente, cualquier persona puede trasladarlo a lugar adecuado, sin esperar la intervención de la autoridad, poniéndole en conocimiento de los hechos a la brevedad posible.
 
@@ -2105,7 +2113,7 @@ En los delitos patrimoniales en que la cosa u objeto material haya desaparecido,
 
 La orden de cateo que sólo la autoridad judicial puede expedir, a solicitud del ministerio público en la averiguación previa, o en cualquier fase del procedimiento judicial, legitima la apertura de cerraduras y la penetración a un domicilio o a un lugar cerrado, cuando existan indicios que hagan presumir, fundadamente, que en el lugar en que deba efectuarse la diligencia:
 
-I. Se haya oculta la persona contra la que se ha dictado orden de aprehensión;
+I. Se haya (sic) oculta la persona contra la que se ha dictado orden de aprehensión;
 
 II. Existen vestigios del delito que deban ser inspeccionados o peritados;
 
@@ -2539,7 +2547,7 @@ Cuando el defensor no presente sus conclusiones, se tendrán por formuladas las 
 
 ### CAPÍTULO I. CONCLUSIONES MINISTERIALES
 
-> <small>(REFORMADO PRIMERO PARRAFO, B.O. 19 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMERO PÁRRAFO, B.O. 19 DE SEPTIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 385.
 
@@ -3507,7 +3515,7 @@ PRIMERO. El presente Decreto entrará en vigor seis meses después de su publica
 
 SEGUNDO.- Se abroga el Código de Procedimientos Penales del Estado de Baja California Sur, aprobado en fecha 3 de diciembre de 1992, publicado mediante decreto 889 en Boletín Oficial del Gobierno del Estado extraordinario numero 58, de fecha 21 de diciembre del mismo año, así como todas las disposiciones legales que se opongan a la presente ley, a partir del día en que entre en vigor el presente decreto.
 
-> <small>(ADICIONADO, B.0. 19 DE SEPTIEMBRE DE 2005)</small>
+> <small>(ADICIONADO, B.O. 19 DE SEPTIEMBRE DE 2005)</small>
 
 TERCERO.- Para los procesos iniciados antes de que entre en vigor este código, se continuará aplicando el anterior, a menos que los acusados manifiesten su voluntad de acogerse al ordenamiento que estimen más favorable.
 
@@ -3537,7 +3545,7 @@ EL SUBSECRETARIO GENERAL DE GOBIERNO
 
 C. LIC. VÍCTOR DANIEL MADRIGAL BARBOSA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 19 DE SEPTIEMBRE DE 2005.
 
@@ -3635,7 +3643,7 @@ UNICO.- El presente Decreto entrara en vigor al día siguiente de su publicació
 
 B.O. 20 DE DICIEMBRE DE 2011.
 
-ÚNICO.- EI presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Baja California Sur.
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Baja California Sur.
 
 B.O. 10 DE ENERO DE 2012.
 
@@ -3644,3 +3652,13 @@ PRIMERO. - El presente Decreto entrara en vigor al día siguiente al de su publi
 SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de delitos previstos en el mismo se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 16 DE MAYO DE 2012.
+
+###### ARTÍCULO PRIMERO
+
+El presente Decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
