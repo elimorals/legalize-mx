@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-de-baja-california-sur-44518"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-03-20"
-last_updated: "2012-01-10"
+last_updated: "2012-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 16 DE MAYO DE 2012.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -641,7 +641,7 @@ Cuando se condene a un alcohólico o persona habituada al consumo de estupefacie
 
 De igual manera el juzgador incluirá en su sentencia la obligación a sujetarse aun (sic) programa de autoayuda para la recuperación del responsable.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE MARZO DE 2008)</small>
 
 ### CAPÍTULO XV. TRATAMIENTO PARA REOS POR DELITO DE VIOLENCIA FAMILIAR
 
@@ -971,7 +971,7 @@ La amnistía extingue la acción persecutoria y las penas o medidas de seguridad
 
 ### CAPÍTULO V. PRESCRIPCIÓN DE LA ACCIÓN PERSECUTORIA
 
-###### ARTICULO 117.
+###### ARTÍCULO 117.
 
 La acción penal prescribirá en un plazo igual al término medio aritmético de la pena privativa de libertad que corresponda al delito cometido, incluyendo los tipos agravados, plazo que nunca será menor de tres años, ni mayor de quince. Si el delito mereciera pena alternativa, se atenderá al término de prescripción de la pena privativa de libertad que corresponda.
 
@@ -981,7 +981,7 @@ El peculado, el cohecho y el enriquecimiento ilícito prescribirán en un térmi
 
 > <small>(ADICIONADO, B.O. 10 DE ENERO DE 2012)</small>
 
-ARTICULO 117 BIS.- El termino de prescripción de los delitos previstos en los artículos 214, 214 BIS, 214 TER, 214 QUATER, 215, 216, 217, 218, 233, 237, 277, 283 BIS, 284, 285, 286, y 317 de este código cometidos en contra de una víctima menor de edad, comenzara a partir de que esta cumpla la mayoría de edad.
+ARTÍCULO 117 BIS.- El termino de prescripción de los delitos previstos en los artículos 214, 214 BIS, 214 TER, 214 QUATER, 215, 216, 217, 218, 233, 237, 277, 283 BIS, 284, 285, 286, y 317 de este código cometidos en contra de una víctima menor de edad, comenzara a partir de que esta cumpla la mayoría de edad.
 
 En el caso de aquellas personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, correrá a partir del momento en que exista evidencia de la comisión de esos delitos ante el Ministerio Público.
 
@@ -1261,7 +1261,7 @@ Será castigado con prisión de uno a nueve años, el servidor público que, dir
 
 ### CAPÍTULO IX. PECULADO
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 154.
 
@@ -1495,7 +1495,7 @@ Al servidor público del Estado o del Municipio que dolosamente altere, modifiqu
 
 Cuando la alteración se produzca en forma culposa, la pena será de seis meses a dos años de prisión y multa de hasta cincuenta días de salario.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE FEBRERO DE 2011)</small>
 
 ### CAPITULO VIII. FALSEDAD EN DECLARACIONES E INFORMES DADOS A UNA AUTORIDAD
 
@@ -1803,7 +1803,7 @@ Cuando la corrupción de un menor de dieciocho años o de una persona que no ten
 
 Cuando el sujeto activo sea ascendiente consanguíneo, por afinidad o por adopción, se aumentará un tercio del mínimo y del máximo previsto en el artículo anterior y perderá, además, el derecho a la patria potestad.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 10 DE JUNIO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 10 DE JUNIO DE 2009)</small>
 
 ### CAPÍTULO III. TURISMO SEXUAL Y PROSTITUCIÓN INFANTIL
 
@@ -2053,11 +2053,11 @@ Al que contrajere nuevo matrimonio, sin hallarse legalmente disuelto el anterior
 
 Se impondrá de dos a ocho años de prisión a los ascendientes consanguíneos que tengan cópula con sus descendientes, conociendo el parentesco. La sanción aplicable a éstos últimos y a los hermanos biológicos que tenga cópula entre sí, será de uno a cuatro años de prisión.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 20 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 20 DE MARZO DE 2011)</small>
 
 ### CAPÍTULO VI. ABANDONO E INCUMPLIMIENTO DE LAS OBLIGACIONES FAMILIARES
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 238.
 
@@ -2065,7 +2065,7 @@ Al que, sin causa justificada, abandone a sus hijos o su cónyuge e incumpla sus
 
 El incumplimiento de las obligaciones alimentarias derivadas de los convenios o resoluciones judiciales en materia de divorcio, solo tendrá carácter delictivo, tratándose de los excónyuges, cuando se pruebe que el titular del derecho pudo sufrir daños en su salud por la omisión, al no tener bienes propios y estar incapacitado para trabajar.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 239.
 
@@ -2307,7 +2307,7 @@ El auxilio no puede extremarse hasta causar directamente la muerte del suicida, 
 
 Al particular que ilegalmente prive a otro de su libertad por un término inferior a tres días, se le aplicará prisión de seis meses a cuatro años y multa hasta por cien días de salario mínimo vigente.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 19 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE SEPTIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 277.
 
@@ -2331,7 +2331,7 @@ En cualquier otro caso, se considerará que existe además privación ilegal de 
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE ENERO DE 2012)</small>
 
-###### ARTICULO 279.
+###### ARTÍCULO 279.
 
 Comete el delito de secuestro y será sancionado con prisión de veinte a cuarenta años y multa de quinientos a dos mil días de salario a quien, por cualquier medio, prive de la libertad a una persona, con alguno de los siguientes propósitos:
 
@@ -2375,11 +2375,19 @@ XI.- Durante el hecho, se haga uso de narcóticos o cualquier sustancia o elemen
 
 XII.- El activo utilice instalaciones o bienes gubernamentales, frecuencias, claves o códigos oficiales.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 10 DE ENERO DE 2012)</small>
+(NOTA: EL 21 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 36/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 22 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-###### ARTÍCULO 280 Bis.
+> <small>(REFORMADO, B.O. 16 DE MAYO DE 2012)</small>
 
-Si la víctima de los delitos previstos en artículos que anteceden, es privada de la vida por los autores o partícipes de los mismos, se impondrá a éstos una pena de cuarenta a setenta años de prisión y de seis mil a doce mil días multa.
+ARTÍCULO 280 BIS.- Al que solicite u obligue al secuestrado a retirar dinero de los cajeros electrónicos y/o de cualquier cuenta bancaria a la que éste tenga acceso o que, de forma transitoria que no exceda de más de seis horas, prive de la libertad a una persona en calidad de rehén y la amenace con privarla de la vida o causarle daño, para obligado (sic) a él o a otro que realicen un acto que les cause a cualquiera de ellos daño patrimonial; o para conservar el producto de un robo o asegurar la huida después de cometido, se le impondrá de veinte a cincuenta años de prisión y de mil a dos mil días de multa de salario mínimo vigente en el Estado.
+
+Si la intimidación o la violencia se realizan por una asociación delictuosa; o por servidor público o ex servidor público; o miembro o ex miembro de algún cuerpo policial o de seguridad privada, aunque la empresa de seguridad privada no se hubiere registrado, se impondrá a cualquiera de las personas mencionadas y según proceda: La destitución del empleo, cargo o comisión y la inhabilitación para desempeñarse como servidor público.
+
+(NOTA: EL 21 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 36/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 22 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, B.O. 16 DE MAYO DE 2012)</small>
+
+ARTÍCULO 280 TER.- Si la víctima de los delitos previstos en artículos que anteceden, es privada de la vida por los autores o partícipes de los mismos, se impondrá a éstos una pena de cuarenta a setenta años de prisión y de seis mil a doce mil días multa.
 
 (NOTA: EL 21 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 36/2012, DECLARÓ LA INVALIDEZ EN VÍA DE CONSECUENCIA DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 22 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -2499,7 +2507,7 @@ Se procederá en contra de la persona estupradora por querella del o la ofendida
 
 La reparación del daño en los casos de estupro, incluirá el pago de alimentos para la mujer y los hijos, si los hubiere, observándose la forma y términos establecidos en el código civil. La declaración judicial que determine la paternidad, será inscrita en el Registro Civil por orden del Juez penal, pero el responsable no tendrá el ejercicio de la patria potestad.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE MARZO DE 2008)</small>
 
 ### CAPÍTULO IV. HOSTIGAMIENTO SEXUAL
 
@@ -2535,7 +2543,7 @@ Al que se apodere de una cosa mueble ajena, sin consentimiento de quien pueda ot
 
 Para la aplicación de la sanción, se dará por consumado el robo desde que el ladrón tiene en su poder la cosa robada, aún cuando la abandone o lo desapoderen de ella.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 296.
 
@@ -2717,7 +2725,7 @@ El delito de fraude se perseguirá a petición de parte ofendida, a excepción d
 
 ### CAPÍTULO V. DESPOJO
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 314.
 
@@ -2803,7 +2811,7 @@ Las penas anteriores se aumentarán hasta en una mitad cuando se trate de servid
 
 ### CAPÍTULO XI. DAÑOS
 
-> <small>(DEROGADO PRIMER PARRAFO [N. DE E. REFORMADO], B.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADO PRIMER PÁRRAFO [N. DE E. REFORMADO], B.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 324.
 
@@ -3023,7 +3031,7 @@ EL SUBSECRETARIO GENERAL DE GOBIERNO
 
 C. LIC. VÍCTOR DANIEL MADRIGAL BARBOSA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 19 DE SEPTIEMBRE DE 2005.
 
@@ -3055,25 +3063,25 @@ B.O. 10 DE OCTUBRE DE 2010.
 
 B.O. 31 DE DICIEMBRE DE 2010.
 
-DECRETO NUMERO 1889 POR EL SE REFORMA EL ARTICULO 285 Y SE ADICIONA UN PARRAFO A LA FRACCION VI Y SE ADICIONAN LAS FRACCIONES VII Y VIII AL ARTICULO 285; SE DEROGA EL PRIMER PARRAFO DEL ARTICULO 324 Y SE ADICIONA UN ARTICULO 324 BIS DEL CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR.
+DECRETO NÚMERO 1889, POR EL SE REFORMA EL ARTÍCULO 285 Y SE ADICIONA UN PÁRRAFO A LA FRACCIÓN VI Y SE ADICIONAN LAS FRACCIONES VII Y VIII AL ARTÍCULO 285; SE DEROGA EL PRIMER PÁRRAFO DEL ARTÍCULO 324 Y SE ADICIONA UN ARTÍCULO 324 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR.
 
 UNICO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 B.O. 31 DE DICIEMBRE DE 2010.
 
-DECRETO NUMERO 1890 POR EL QUE SE REFORMA EL ARTICULO 314 PRIMER PARRAFO Y SE ADICIONA UN ARTICULO 314 BIS AL CODIGO PENAL DEL ESTADO DE BAJA CALIFORNIA SUR.
+DECRETO NÚMERO 1890, POR EL QUE SE REFORMA EL ARTÍCULO 314 PRIMER PÁRRAFO Y SE ADICIONA UN ARTÍCULO 314 BIS AL CÓDIGO PENAL DEL ESTADO DE BAJA CALIFORNIA SUR.
 
 UNICO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 B.O. 20 DE FEBRERO DE 2011.
 
-DECRETO NUMERO 1898 POR EL QUE SE ADICIONA EL ARTICULO 280 BIS AL CODIGO PENAL DEL ESTADO DE BAJA CALIFORNIA SUR
+DECRETO NÚMERO 1898, POR EL QUE SE ADICIONA EL ARTÍCULO 280 BIS AL CÓDIGO PENAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
 ÚNICO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 B.O. 20 DE FEBRERO DE 2011.
 
-DECRETO NUMERO 1899 POR EL QUE SE REFORMA LA DENOMINACION DEL CAPITULO VIII DEL TITULO CUARTO PARA INTITULARSE "FALSEDAD EN DECLARACIONES E INFORMES DADOS A UNA AUTORIDAD" Y SE ADICIONA UN ARTICULO 189 BIS DEL CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR.
+DECRETO NÚMERO 1899, POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO VIII DEL TÍTULO CUARTO PARA INTITULARSE "FALSEDAD EN DECLARACIONES E INFORMES DADOS A UNA AUTORIDAD" Y SE ADICIONA UN ARTÍCULO 189 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR.
 
 UNICO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
@@ -3088,3 +3096,13 @@ PRIMERO. - El presente Decreto entrara en vigor al día siguiente al de su publi
 SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de delitos previstos en el mismo se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 16 DE MAYO DE 2012.
+
+###### ARTÍCULO PRIMERO
+
+El presente Decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
