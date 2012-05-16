@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-procuraduria-general-de-justicia-del-40264"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-07-30"
-last_updated: "2012-01-09"
+last_updated: "2012-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEON
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE JUNIO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 9 DE ENERO DE 2012 NO APLICA AL ARTICULADO DEL DECRETO 300 PUBLICADO EN EL P.O. DE 26 DE DICIEMBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de julio de 2004.
 
@@ -285,7 +285,9 @@ II.- Intervenir en los asuntos del orden criminal, de adolescentes infractores, 
 
 III.- Velar por la legalidad y por el respeto de los derechos humanos en la esfera de su competencia, así como procurar la pronta, completa e imparcial impartición de justicia;
 
-IV.- Proteger los derechos e intereses de los ausentes, menores e incapaces en los términos que determinen las leyes;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2012)</small>
+
+IV.- Proteger los derechos e intereses de las mujeres, de los ausentes, de los menores y de los incapaces, en los términos que determinen las leyes;
 
 V.- Proporcionar atención a las víctimas y ofendidos por delitos y facilitar su coadyuvancia;
 
@@ -363,7 +365,11 @@ XVI.- Poner a disposición de la autoridad competente a las personas detenidas e
 
 XVII.- Conceder la libertad provisional a los indiciados, conforme a los términos previstos constitucionalmente y en el Código de Procedimientos Penales vigente en el Estado;
 
-XVIII.- Solicitar al órgano jurisdiccional las medidas precautorias de arraigo y las órdenes de cateo que sean necesarias;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2012)</small>
+
+XVIII.- Solicitar al órgano jurisdiccional las medidas precautorias de arraigo y las órdenes de cateo, así como las de protección que sean necesarias;
 
 XIX.- Remitir todas las cédulas citatorias que envíen, por conducto de los citadores oficiales de la Institución, o en su caso, por medio de los elementos de la Policía Ministerial o de otras corporaciones policíacas;
 
@@ -377,7 +383,11 @@ XXIII.- Llevar el registro de existencia, distribución, control y trámite de l
 
 XXIV.- Remitir a la Dirección de Bienes Asegurados, Recuperados e Instrumentos del Delito, conforme a lo establecido en esta Ley, su Reglamento y demás disposiciones aplicables, los indicios, objetos, evidencias e instrumentos del delito allegados al Ministerio Público en el transcurso de las investigaciones ministeriales;
 
-XXV.- Restituir provisionalmente al ofendido, en el goce de sus derechos, en los términos de las disposiciones jurídicas aplicables;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2012)</small>
+
+XXV.- Restituir provisionalmente al ofendido, en el goce de sus derechos, en los términos de las disposiciones jurídicas aplicables, solicitando incluso las ordenes de protección procedentes en los términos del Código de Procedimientos Civiles del Estado de Nuevo León;
 
 XXVI.- Remitir a la Procuraduría de la Defensa del Menor y de la Familia, copia certificada de las averiguaciones previas que se relacionen con menores e incapaces que se encuentren en situación de daño, peligro o conflicto, para los efectos legales correspondientes;
 
@@ -431,15 +441,25 @@ XI.- Recibir para su ejecución, las órdenes de aprehensión, reaprehensión, c
 
 XII.- Poner a disposición de la autoridad judicial a las personas detenidas y aprehendidas dentro de los plazos legalmente establecidos;
 
-XIII.- Llevar el registro, distribución, control y trámite de las órdenes de presentación, comparecencia, aprehensión, reaprehensión, cateo, arresto y arraigo que giren los órganos jurisdiccionales, así como las de detención, presentación, comparecencia y retención que dicte el Ministerio Público en los términos legalmente establecidos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XIV.- Solicitar al órgano jurisdiccional las órdenes de arraigo para testigos durante el proceso, así como las de cateo, de aseguramiento o de embargo precautorio de bienes, las medidas precautorias de arraigo, los exhortos o la constitución de garantías para los efectos de garantizar el pago de la reparación de los daños y perjuicios conforme a las disposiciones legalmente aplicables;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2012)</small>
+
+XIII.- Llevar el registro, distribución, control y trámite de las órdenes de presentación, comparecencia, aprehensión, reaprehensión, cateo, arresto, arraigo y protección que giren los órganos jurisdiccionales, así como las de detención, presentación, comparecencia y retención que dicte el Ministerio Público en los términos legalmente establecidos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2012)</small>
+
+XIV.- Solicitar al órgano jurisdiccional las órdenes de arraigo para testigos durante el proceso, así como las de cateo, de aseguramiento o de embargo precautorio de bienes, las medidas precautorias de arraigo, medidas de protección, los exhortos o la constitución de garantías para los efectos de garantizar, el pago de la reparación de los daños y perjuicios conforme a las disposiciones legalmente aplicables;
 
 XV.- Intervenir en todos los casos que conozca dentro de los procesos en que le den vista, cuando se origine una situación de conflicto, daño o peligro para algún ausente, menor o incapaz a fin de ejercitar las acciones que en derecho procedan;
 
 XVI.- Poner en conocimiento, a la mayor brevedad posible, del Director General de Averiguaciones Previas, las conductas o delitos generados de hechos de violencia familiar y que se desprendan de expedientes en que se le de vista;
 
-XVII.- Velar por los intereses de los menores e incapaces no sujetos a patria potestad o tutela, ejercitando las acciones correspondientes en los términos de la legislación vigente;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2012)</small>
+
+XVII.- Velar por los intereses de las mujeres, así como de los menores e incapaces no sujetos a patria potestad o tutela, ejercitando las acciones correspondientes en los términos de la legislación vigente;
 
 XVIII.- Realizar las acciones necesarias para formular pedimentos de cumplimientos de mandamientos judiciales en el extranjero;
 
@@ -455,13 +475,21 @@ I.- Proporcionar asesoría jurídica a la víctima u ofendido e informarle de lo
 
 II.- Recibir todos los elementos de prueba que la víctima u ofendido le aporte en ejercicio de su derecho de coadyuvancia, para la comprobación del cuerpo del delito y la probable responsabilidad del inculpado, así como para determinar, en su caso, la procedencia y monto de la reparación del daño. Cuando el Ministerio Publico considere que no es necesario el desahogo de la diligencia, deberá fundar y motivar su negativa;
 
-III.- Otorgar las facilidades para identificar al probable responsable y, en los casos de delitos contra la libertad y delitos sexuales, o cuando así lo considere procedente, dictar todas las medidas necesarias para evitar que se ponga en peligro la integridad física y psicológica de la víctima u ofendido;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2012)</small>
+
+III.- Otorgar las facilidades para identificar al probable responsable y, en los casos de delitos contra la libertad, violencia familiar y equiparable a la violencia familiar y delitos sexuales, o cuando así lo considere procedente, solicitar ordenes de protección y dictar las medidas necesarias para evitar que se ponga en peligro la integridad física y psicológica de la víctima u ofendido;
 
 IV.- Informar a la víctima u ofendido que desee otorgar el perdón en los casos procedentes, el significado y trascendencia jurídica de dicho acto;
 
 V.- Dictar las medidas necesarias y que estén a su alcance para que la víctima u ofendido reciba atención medica y psicológica de urgencia. Cuando el Ministerio Publico lo estime necesario, tomará las medidas conducentes para que la atención médica y psicológica se haga extensiva a otras personas;
 
-VI.- Solicitar a la autoridad judicial, en los casos en que sea procedente, la reparación del daño;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2012)</small>
+
+VI.- Solicitar a la autoridad judicial, en los casos en que sean procedentes, las órdenes de protección, así como la reparación del daño;
 
 VII.- Informar a la víctima o al ofendido menor de edad, que no está obligado a carearse con el inculpado cuando se trate de los delitos de violación o secuestro. En estos casos, las declaraciones respectivas se efectuarán conforme lo establezcan las disposiciones legalmente aplicables; y
 
@@ -2330,3 +2358,11 @@ Artículo Único. El presente Decreto entrará en vigor al día siguiente de su 
 P.O. 26 DE DICIEMBRE DE 2011.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE JUNIO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+P.O. 16 DE MAYO DE 2012.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León
+
+Segundo.- Se suspende la vigencia de los Artículos 277, 323 Bis II al 323 Bis VII del Código Civil para el Estado de Nuevo León; así como los diversos 23 fracciones XVIII y XXV, 24 fracciones XIII y XIV, y 25 fracciones III y VI de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Nuevo León; exclusivamente en lo que se refiere las ordenes de protección, hasta en tanto entren en vigor las reformas correspondientes al Código de Procedimientos Civiles y al Código de Procedimientos Penales para el Estado de Nuevo León, así como las relativas a la Ley Orgánica del Poder Judicial del Estado de Nuevo León que establece las atribuciones de las autoridades jurisdiccionales en la materia.
