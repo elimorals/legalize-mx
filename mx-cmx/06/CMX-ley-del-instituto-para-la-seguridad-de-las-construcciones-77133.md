@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-instituto-para-la-seguridad-de-las-construcciones-77133
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-05"
-last_updated: "2010-11-05"
+last_updated: "2012-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77133&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-10-22"
 
 LEY DEL INSTITUTO PARA LA SEGURIDAD DE LAS CONSTRUCCIONES DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE MAYO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 5 de noviembre de 2010.
 
@@ -50,39 +50,59 @@ LEY DEL INSTITUTO PARA LA SEGURIDAD DE LAS CONSTRUCCIONES DEL DISTRITO FEDERAL
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2012)</small>
+
 ###### Artículo 1.
 
-La presente Ley tiene por objeto crear el Instituto para la Seguridad de las Construcciones en el Distrito Federal, como un organismo descentralizado de la Administración Pública del Distrito Federal, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Desarrollo Urbano y Vivienda, con atribuciones específicas en materia de seguridad en las construcciones, facultado para vigilar que los proyectos de obra y edificaciones que se plantean y ejecuten, así como los edificios existentes, cumplan con las normas y medidas de seguridad estructural, de diseño urbano y arquitectónico y en materia de instalaciones, así mismo ser el responsable de los procesos de admisión, certificación, control, supervisión y sanción de los Directores Responsables de Obra y Corresponsables.
+La presente Ley tiene por objeto crear el Instituto para la Seguridad de las Construcciones en el Distrito Federal, como un organismo descentralizado de la Administración Pública del Distrito Federal, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de Obras y Servicios con atribuciones específicas en materia de seguridad estructural.
 
 ###### Artículo 2.
 
 Para los efectos de la presente Ley, se entenderá por:
 
-I. Arancel, a las cuotas que regulan los honorarios de los Directores Responsables de Obra, Corresponsables y Revisores, que en el ejercicio de las actividades que realizan, tienen derecho a cobrar por la prestación de sus servicios;
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
 
-II. Comisión, a la Comisión de Apoyo a los Procesos de Admisión, Supervisión y Evaluación de los Directores Responsables de Obra y Corresponsables en Diseño Urbano y Arquitectónico y en instalaciones;
+I. Arancel, a las cuotas que regulen los honorarios de los Directores Responsables de Obra, Corresponsables en Seguridad Estructural y Revisores, que en el ejercicio de las actividades que realizan, tienen derecho a cobrar por la prestación de sus servicios.
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+
+II. Comisión. La Comisión de Admisión de Directores Responsables de Obra y Corresponsables (CADROC).
 
 III. Consejo Directivo, al Órgano de Gobierno del Instituto;
 
-IV. Corresponsables, a los corresponsables en Seguridad Estructural; en Diseño Urbano y Arquitectónico; y en Instalaciones;
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+
+IV. Corresponsable en Seguridad Estructural. Es el profesional auxiliar de la Administración Pública, con autorización y registro ante el Instituto con los conocimientos técnicos en materia de seguridad estructural para responder en forma conjunta con el Director Responsable de Obra, o autónoma en las obras que otorgue responsiva, en todos los aspectos técnicos relacionados al ámbito de su intervención profesional.
 
 V. Director General, al Director General del Instituto para la Seguridad de las Construcciones en el Distrito Federal;
 
-VI. DRO, al Director Responsable de Obra;
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+
+VI. Director Responsable de Obra. Es el profesional auxiliar de la Administración Pública, con autorización y registro ante el Instituto que se hace responsable de la observancia de la Ley, en el acto en que otorga su responsiva relativa al ámbito de su intervención profesional.
 
 VII. Instituto, al Instituto para la Seguridad de las Construcciones en el Distrito Federal;
 
-VIII. Propietario o poseedor, persona física o moral que tiene la propiedad o posesión jurídica de un bien inmueble, donde se pretenda realizar alguna construcción, instalar una estructura distinta a la construcción original, o en su caso la revisión de las construcciones existente;
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+
+VIII. Propietario o poseedor, a la persona física o moral que tiene la propiedad o posesión jurídica de un bien inmueble, donde se pretenda realizar alguna construcción, modificar la estructura de la construcción existente o construir una nueva estructura o, en su caso, hacer la revisión de las construcciones existentes.
 
 IX. Reglamento, al Reglamento de Construcciones para el Distrito Federal;
 
-X. Revisores, a los profesionales con conocimientos especializados en materia de seguridad estructural, diseño urbano y arquitectónico y en instalaciones, designados por el Instituto para: Revisar el diseño y la memoria estructural en los proyectos de construcción; supervisar el desempeño de los DRO y Corresponsables durante el proceso de construcción; y para revisar, en los casos que se considere necesario, la seguridad de las construcciones existentes en el Distrito Federal;
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+
+X. Revisores, a los profesionales con conocimientos especializados en materia de seguridad estructural, designados por el Instituto para: Revisar el diseño y la memoria estructural en los proyectos de construcción; supervisar el desempeño de los DRO, en materia de seguridad estructural, y Corresponsables durante el proceso de construcción; y para revisar, en los casos que se considere necesario, la seguridad de las construcciones existentes en el Distrito Federal;
 
 XI. Titular, persona física o moral a cuyo nombre se expide la licencia o permiso y en su caso, quien presenta el aviso u obtiene el registro de la manifestación de construcción;
 
-XII. Secretaría, a la Secretaría de Desarrollo Urbano y Vivienda, y
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+
+XII. Secretaria, a la Secretaria de Obras y Servicios, y (sic)
 
 XIII. Delegación, Órgano Político-Administrativo en cada una de las demarcaciones territoriales del Distrito Federal.
+
+> <small>(ADICIONADA, G.O. 16 DE MAYO DE 2012)</small>
+
+XIV. Comité, al Comité de apoyo del Instituto en los procesos de actualización, admisión y supervisión de los Directores Responsables de Obra y Corresponsables, en materia de seguridad estructural.
 
 ###### Artículo 3.
 
@@ -108,47 +128,81 @@ El instituto tiene las siguientes atribuciones:
 
 I. Establecer el Sistema para la Seguridad de las Construcciones del Distrito Federal y vigilar y evaluar su cumplimiento;
 
-II. Establecer los lineamientos y formalidades, y llevar a cabo los procesos de admisión, certificación, capacitación, evaluación de los DRO y Corresponsables;
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+
+II. Establecer los lineamientos y formalidades, y llevar a cabo los procesos de admisión, capacitación, evaluación de los Directores Responsables de Obra y Corresponsables, en la materia de Seguridad Estructural;
 
 III. Emitir lineamientos y reglas para la selección y contratación de los Revisores;
 
-IV. Controlar, supervisar y evaluar el desempeño de los DRO y Corresponsables en los proyectos, la obra, su terminación, el uso, la ocupación y en su caso aplicar las sanciones que les correspondan por ese motivo;
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
 
-V. Llevar y mantener actualizados los padrones y expedientes de los DRO y los corresponsables;
+IV. Controlar, supervisar y evaluar el desempeño de los Directores Responsables de Obra y Corresponsables, en materia de seguridad estructural, en los proyectos, la obra, su terminación, el uso, la ocupación y en su caso aplicar las sanciones que les correspondan por ese motivo;
 
-VI. Expedir el carnet y llevar un control de las responsivas que otorguen los DRO y Corresponsables;
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
 
-VII. Establecer el Arancel para el pago de los honorarios de los DRO, Corresponsables y Revisores, con la participación de los Colegios y Asociaciones de profesionistas especializados en la materia. En los casos de vivienda de interés social y popular, se establecerá un Arancel a costo menor.
+V. Llevar y mantener actualizados los padrones y expedientes de los Directores Responsables de Obra y los corresponsables, en materia de seguridad estructural;
 
-VIII. Revisar el diseño estructural, urbano y arquitectónico y las instalaciones proyectadas para las obras y emitir dictamen técnico, notificando sus observaciones a los propietarios o poseedores, así como a los titulares de las Delegaciones en las que se localicen o se proyecte edificarlas, para que se corrijan como condición previa y de procedencia del registro de las manifestaciones de construcción o de la expedición de las licencias especiales;
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
 
-IX. Ordenar la evaluación de la seguridad estructural de las construcciones existentes consideradas como de alto riesgo, e intervenir para los mismos efectos en nuevas edificaciones en los avisos de terminación de obra, dar visto bueno para las autorizaciones de uso y ocupación por parte de la Delegación, los vistos buenos de seguridad y operación, las constancias de seguridad estructural, dar el visto bueno para los registros de obra ejecutada por parte de la Delegación, dar el visto bueno de seguridad estructural de las ferias, aparatos mecánicos, circos, carpas y graderías desmontables;
+VI. Expedir el carnet y llevar un control de las responsivas que otorguen los Directores Responsables de Obra y Corresponsables, en materia de seguridad estructural;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+
+VII. Establecer el Arancel para el pago de los honorarios de los Directores Responsables de Obra, Corresponsables y Revisores, con la participación de los Colegios y Asociaciones de profesionistas especializados en la materia. En los casos de vivienda de interés social y popular, se establecerá un Arancel a costo menor;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+
+VIII. Revisar el diseño y seguridad estructural de las obras del Grupo A y del Grupo B1, aleatoriamente las del Grupo B2 que por su ubicación o sus características así lo requieran;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+
+IX. Ordenar la evaluación de la seguridad estructural de las construcciones existentes consideradas como de alto riesgo;
 
 X. Ordenar la revisión de la seguridad de las edificaciones distintas a las señaladas en la fracción anterior, que por su tipo pueden causar graves daños o pérdida de vidas humanas en caso de contingencia;
 
-XI. Revisar la seguridad de las edificaciones para las cuales se presente proyecto de cambio de uso de suelo y que se considere de riesgo, debiendo emitir el dictamen técnico correspondiente, que incluirá las medidas que obligatoriamente deberá cumplir el propietario o poseedor para garantizar la seguridad del inmueble, así como la vida y seguridad de los usuarios;
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
 
-XII. Establecer las bases generales para asegurar la libre contratación de DRO y Corresponsables;
+XI. Ordenar la revisión de las edificaciones para las cuales se presente proyecto de cambio de uso de suelo y que se consideren de alto riesgo, debiendo emitir el dictamen técnico correspondiente, que incluirá las medidas que obligatoriamente deberá cumplir el propietario o poseedor para garantizar la seguridad del inmueble, así como la vida y seguridad de los usuarios;
 
-XIII. Registrar los contratos de prestación de servicios profesionales que celebren los propietarios, poseedores o titulares con los DRO y Corresponsables;
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
 
-XIV. Controlar el número de proyectos y obras que simultáneamente tengan a su cargo los DRO y Corresponsables, para cuidar que las cargas de trabajo no rebasen su capacidad de desempeño;
+XII. Establecer las bases generales para asegurar la libre contratación de Directores Responsables de Obra y Corresponsables;
 
-XV. Realizar campañas de difusión y promoción de los servicios a cargo de los DRO y Corresponsales en las instituciones de educación superior y las organizaciones de profesionistas, para asegurar o incrementar la libre participación de los profesionales interesados, así como para conocer sus opiniones técnicas y propuestas;
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+
+XIII. Registrar los contratos de prestación de servicios profesionales que celebren los propietarios, poseedores o titulares con los Directores Responsables de Obra y Corresponsables, en materia de seguridad estructural;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+
+XIV. Controlar el número de proyectos y obras que simultáneamente tengan a su cargo los Directores Responsables de Obra y Corresponsables, en materia de seguridad estructural para cuidar que las cargas de trabajo no rebasen su capacidad de desempeño;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+
+XV. Realizar campañas de difusión y promoción de los servicios a cargo de los Directores Responsables de Obra y Corresponsales en las instituciones de educación superior y las organizaciones de profesionistas, para asegurar o incrementar la libre participación de los profesionales interesados, así como para conocer sus opiniones técnicas y propuestas;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
 
 XVI. Llevar y mantener actualizado el padrón de revisores;
 
-XVII. Asignar y contratar a los Revisores que vigilarán el desempeño de los DRO y Corresponsables, para que en los casos en que se considere necesario supervisen la seguridad estructural y de instalaciones en las edificaciones del Distrito Federal;
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+
+XVII. Contratar a Revisores para que en los casos en que se considere necesario supervisen la seguridad estructural en las edificaciones del Distrito Federal, en los términos de las fracciones IX y X del presente artículo;
 
 XVIII. Emitir dictamen técnico fundado y motivado de las revisiones, evaluaciones y supervisiones que ordene;
 
-XIX. Coordinarse con las Delegaciones para verificar las construcciones consideradas como de riesgo e instrumentar medidas de seguridad al detectarse que no fueron consideradas en el proceso constructivo las normas técnicas y disposiciones legales y administrativas aplicables;
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
 
-XX. Integrar, organizar, administrar y ser custodio del Acervo Documental de las Obras y Edificaciones Particulares del Distrito Federal, clasificadas como de alto riesgo; de las obras públicas que tengan la misma característica; de los permisos de estructura; de los dictámenes de estabilidad y seguridad estructural; de los procesos de admisión, evaluación, certificación, control y sanción de los DRO y Corresponsables;
+XIX. Solicitar a las Delegaciones la verificación de las construcciones consideradas como de riesgo y coadyuvar con las mismas, para en su caso, instrumentar medidas de seguridad al detectarse que no fueron consideradas en el proceso constructivo las normas técnicas y disposiciones legales y administrativas aplicables;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+
+XX. Integrar, organizar, administrar y ser custodio del Acervo Documental de las construcciones públicas y privadas del Distrito Federal, clasificadas como de alto riesgo; de las obras públicas que tengan la misma característica; de los permisos de estructura; de los dictámenes de estabilidad y seguridad estructural; de los procesos de admisión, evaluación, control y sanción de los Directores Responsables de Obra y Corresponsables;
 
 XXI. Llevar a cabo y fomentar la realización de investigaciones, estudios y proyectos de innovación en materia o sobre temas relacionados con la seguridad en las construcciones;
 
-XXII. Proponer reformas a leyes, reglamentos, normas técnicas y demás disposiciones administrativas, para mantener actualizado el marco normativo en materia de construcciones, seguridad estructural, diseño urbano y arquitectónico, instalaciones y otras relaciones; y
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+
+XXII. Proponer normas técnicas y demás disposiciones administrativas o reformas de las mismas, para mantener actualizado el marco normativo en la materia; y
 
 XXIII. Las demás que se determinen en otras disposiciones legales y administrativas.
 
@@ -162,9 +216,13 @@ I. Consejo Directivo que será el Órgano de Gobierno, integrado por:
 
 1) Un representante de cada una de las siguientes dependencias, con nivel de Director General o equivalente:
 
-a) Secretaría de Desarrollo Urbano y Vivienda, con carácter de presidente;
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2012)</small>
 
-b) Secretaría de Obras y Servicios;
+a) Secretaria de Obras y Servicios, con carácter de presidente;
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2012)</small>
+
+b) Secretaría de Desarrollo Urbano y Vivienda;
 
 c) Secretaría de Protección Civil;
 
@@ -182,21 +240,31 @@ II. El Director General, quien para el desempeño de sus funciones se auxiliará
 
 Son atribuciones del Consejo Directivo las siguientes:
 
-I. Aprobar las políticas, normas y lineamientos de actuación del Instituto, así como las bases y criterios para controlar el número de responsivas que simultáneamente pueden otorgar los Corresponsables en seguridad estructural;
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+
+I. Aprobar las políticas, normas y lineamientos de actuación del Instituto, así como las bases y criterios para controlar el número de responsivas que simultáneamente pueden otorgar los Directores Responsables de Obra y los Corresponsables, en materia de seguridad estructural;
 
 II. Proponer al Jefe de Gobierno al profesionista que deba ocupar el cargo de Director General del Instituto;
 
 III. Aprobar los programas y proyectos a cargo del Instituto, especialmente el relativo a la supervisión de la Seguridad Estructural en los proyectos y edificaciones de alto riesgo;
 
-IV. Proponer normas y reformas a las disposiciones que regulen la seguridad estructural las construcciones en general, la admisión, capacitación y certificación del los DRO y Corresponsables en Seguridad Estructural;
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+
+IV. Proponer normas y reformas a las disposiciones que regulen la seguridad estructural las construcciones en general, la admisión y capacitación del (sic) los Directores Responsables de Obra y Corresponsables, en materia de seguridad estructural;
 
 V. Proponer profesionales especializados con autorización y registro como Corresponsables en Seguridad Estructural para que se hagan cargo de la función de Revisor de los diseños estructurales, los procesos de construcción y las edificaciones consideradas como alto riesgo;
 
-VI. Emitir criterios y directrices generales para la elaboración, emisión y actualización del Arancel para el pago de los honorarios de los DRO, Corresponsables y Revisores;
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
 
-VII. Emitir criterios y directrices generales para la revisión, supervisión y evaluación de diseño estructural en los proyectos, la calidad y seguridad estructural en las obras en construcción y en las edificaciones construidas; para la selección, capacitación, supervisión y en su caso aplicación de sanciones, para controlar el desempeño de los Corresponsables en Seguridad Estructural;
+VI. Emitir criterios y directrices generales para la elaboración, emisión y actualización del Arancel para el pago de los honorarios de los Directores Responsables de Obra, Corresponsables y Revisores, en materia de seguridad estructural;
 
-VIII. Aprobar las Bases Generales para la contratación de los Corresponsables en Seguridad Estructural y los Revisores;
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+
+VII. Emitir criterios y directrices generales para la revisión, supervisión y evaluación de diseño estructural en los proyectos, la calidad y seguridad estructural en las obras en construcción y en las edificaciones construidas; para la selección, capacitación, supervisión y en su caso aplicación de sanciones, para controlar el desempeño de los Directores Responsables de Obra y los Corresponsables, en materia de seguridad estructural;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+
+VIII. Aprobar las Bases Generales para la contratación de los Directores Responsables de Obra, Corresponsables y Revisores, en materia de seguridad estructural;
 
 IX. Proponer las Bases Generales para la organización del Acervo Documental de las obras y edificaciones del Distrito Federal y su operación;
 
@@ -204,11 +272,13 @@ X. Las demás que le confieran las disposiciones jurídicas y administrativas ap
 
 ### CAPÍTULO CUARTO. DE LA DIRECCIÓN GENERAL
 
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2012)</small>
+
 ###### Artículo 8.
 
-El Director General será propuesto por el Jefe de Gobierno del Distrito Federal, de entre los profesionistas cuyas especialidades tengan relación con el objeto y fines del Instituto, a propuesta del Consejo Directivo.
+El Director General será designado por el Jefe de Gobierno del Distrito Federal, de entre los profesionistas cuyas especialidades tengan relación con el objeto y fines del Instituto, a propuesta del Consejo Directivo.
 
-El Director General deberá ser, además de profesional de reconocido prestigio, preferentemente en materia estructural, persona de implacable reputación, honorabilidad y con registro vigente como DRO o Corresponsable.
+El Director General deberá ser, además de profesional de reconocido prestigio, en materia de estructuras, persona de impecable reputación, honorabilidad y con registro vigente de Corresponsable en Seguridad Estructural.
 
 ###### Artículo 9.
 
@@ -222,37 +292,55 @@ III. Elaborar y proponer el anteproyecto de presupuesto del Instituto;
 
 IV. Proponer a la Contraloría General la estructura orgánica del Instituto y sus modificaciones, para su aprobación y dictamen;
 
-V. Proponer al Consejo Directivo los lineamientos, reglas y bases en materia de Seguridad Estructural y para la admisión, certificación, capacitación, actualización, control, supervisión, evaluación y en su caso, sanción de los Corresponsables en Seguridad Estructural, así como para controlar el número de responsivas que simultáneamente pueden éstos otorgar;
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
 
-VI. Proponer a la Comisión los lineamientos, reglas y bases para la realización de los procesos de admisión, certificación, capacitación, actualización, control, supervisión, evaluación y en su caso sanción de los DRO y Corresponsables en diseño urbano y arquitectónico y en instalaciones, así como para el control del número de responsivas que simultáneamente pueden éstos otorgar;
+V. Proponer al Consejo Directivo para su análisis y aprobación los lineamientos, reglas y bases en la materia de seguridad estructural y para la admisión, capacitación, actualización, control, supervisión, evaluación y en su caso, sanción de los Directores Responsables de Obra y los Corresponsables, en materia de seguridad estructural, las que serán presentadas a la Comisión, así como para controlar el número de responsivas que simultáneamente pueden éstos otorgar;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+
+VI. Proponer a la Comisión los lineamientos, reglas y bases en la materia de seguridad estructural y para la admisión, capacitación, actualización, control, supervisión, evaluación y en su caso, sanción de los Directores Responsables de Obra y los Corresponsables, en materia de seguridad estructural, así como para controlar el número de responsivas que simultáneamente pueden éstos otorgar;
 
 VII. Celebrar los contratos, convenios y demás actos jurídicos necesarios para el cumplimiento de los objetivos del Instituto;
 
 VIII. Proponer al Consejo Directivo el nombramiento y remoción de los servidores públicos del Instituto que ocupen cargos en las dos jerarquías administrativas inferiores a la suya;
 
-IX. Dirigir, con el apoyo del Consejo Directivo y en coordinación con los Colegios y Asociaciones de profesionistas especializados en la materia, los procesos de admisión, registro, certificación, capacitación y actualización de los DRO y Corresponsables en Seguridad Estructural;
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
 
-X. Dirigir, con el apoyo de la Comisión, los procesos de admisión, registro, certificación, capacitación y actualización de los DRO y Corresponsables en Diseño Urbano y Arquitectónico y en Instalaciones;
+IX. Dirigir, con el apoyo del Consejo Directivo y en coordinación con los Colegios y Asociaciones de profesionistas especializados en la materia, los procesos de admisión, registro, capacitación y actualización de los Directores Responsables de Obra y Corresponsables;
 
-XI. Controlar, supervisar y evaluar el desempeño de los DRO y Corresponsables y en su caso, aplicar las sanciones que correspondan;
+X. (DEROGADA, G.O. 16 DE MAYO DE 2012)
 
-XII. Integrar, mantener actualizaciones y difundir los padrones de DRO y Corresponsables;
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+
+XI. Controlar, supervisar y evaluar el desempeño de los Directores Responsables de Obra y Corresponsables, en materia de seguridad estructural y en su caso, aplicar las sanciones que correspondan.
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+
+XII. Coadyuvar con SEDUVI para mantener actualizado y difundir el padrón de Directores Responsables de Obra y Corresponsables en Seguridad Estructural;
 
 XIII. Llevar los procesos de selección y contratación de los Revisores;
 
 XIV. Integrar, mantener actualizado y difundir el Padrón de Revisores;
 
-XV. Fomentar la realización de estudios sobre la normativa en seguridad estructural, en diseño urbano y arquitectónico, en instalaciones y en materia de construcciones en general, así como la relativa a la formulación y actualización de los aranceles;
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+
+XV. Fomentar la realización de estudios sobre la normativa en seguridad estructural, así como la relativa a la formulación y actualización de los aranceles;
 
 XVI. Asignar a los Revisores en los diversos procesos de proyecto, construcción y supervisión de edificaciones, de acuerdo con las normas y lineamientos que para tal efecto se establezcan;
 
 XVII. Emitir los dictámenes técnicos correspondientes a los diversos procesos de revisión, supervisión y evaluación objeto del Instituto;
 
-XVIII. Emitir y difundir los aranceles oficiales para el pago de honorarios de los DRO, Corresponsables y Revisores;
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
 
-XIX. Recibir y registrar los contratos que se celebren con los DRO y Corresponsables para la prestación de sus servicios mediante el pago de los honorarios, así como los respectivos programas de pago y emitir la constancia que acredite que se ajustan al arancel;
+XVIII. Emitir y difundir los aranceles oficiales para el pago de honorarios de los Directores Responsables de Obra, Corresponsables y Revisores;
 
-XX. Asistir, con voz, a las sesiones del Consejo Directivo del Instituto con la calidad de Secretario Técnico, y a las de la Comisión, con el carácter de Presidente;
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+
+XIX. Recibir y registrar los contratos que se celebren con los Directores Responsables de Obra y Corresponsables, en materia de seguridad estructural para la prestación de sus servicios mediante el pago de los honorarios, así como los respectivos programas de pago y emitir la constancia que acredite que se ajustan al arancel;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+
+XX. Asistir, con voz y voto, a las sesiones del Consejo Directivo del Instituto con la calidad de Secretario Técnico, y a las de la Comisión, con el carácter de Suplente del Presidente;
 
 XXI. Convocar y Presidir las sesiones de la Comisión;
 
@@ -294,47 +382,75 @@ El Director General del Instituto fungirá como Secretario Técnico en las sesio
 
 El Presidente podrá invitar a las personas, profesionistas, representantes de las instituciones educativas, organizaciones empresariales y agrupaciones de profesionales relacionadas con la industria de la construcción, que estime pertinente o a propuesta de los demás miembros o del Director General, quienes asistirán a las sesiones con voz y sin derecho a voto.
 
-### CAPÍTULO SEXTO. DE LA COMISIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 16 DE MAYO DE 2012)</small>
+
+### CAPÍTULO SEXTO. DEL COMITÉ
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2012)</small>
 
 ###### Artículo 12.
 
-El Instituto contará con el apoyo de la Comisión para la realización de los procesos de admisión, supervisión y evaluación de los DRO y Corresponsables en Diseño Urbano y Arquitectónico y en Instalaciones, y para supervisar que éstos cumplan con los requisitos que establezcan el Reglamento y las demás disposiciones administrativas aplicables.
+El Instituto contará con el apoyo del Comité que coadyuvará con la Comisión para la realización de los procesos de promoción, actualización, admisión, supervisión y evaluación de los Directores Responsables de Obra y Corresponsables, en materia de seguridad estructural.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE MAYO DE 2012)</small>
 
 ###### Artículo 13.
 
-La Comisión se integrará por:
+El Comité de apoyo se integrará por:
 
 I. El Director General del Instituto, quien la presidirá;
 
 II. Los representantes de las Secretarías de: Desarrollo Urbano y Vivienda, Obras y Servicios y Protección Civil. La Contraloría General designará un representante con carácter de invitado permanente, con voz pero sin derecho a voto;
 
-III. Un profesionista que represente a las Instituciones de Educación Superior e investigación radicadas en el Distrito Federal, con carrera o especialidad en cualquiera de las siguientes materias: Diseño y Construcción de Obras; Seguridad Estructural; Instalaciones; Urbanismo; Conservación del Patrimonio Histórico, Artístico y Arqueológico y Protección Civil, a invitación del Presidente de la Comisión;
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+
+III. Un profesionista que represente a las Instituciones de Educación Superior e Investigación radicadas en el Distrito Federal, con carrera o especialidad en Ingeniería Estructural;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
 
 IV. Un profesionista que represente al colegio, sociedad o asociación que mayoritariamente agrupe a los DRO;
 
-V. Un representante del colegio, sociedad o asociación que mayoritariamente agrupe a profesionistas especializados en Diseño Urbano y Arquitectónico;
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
 
-VI. Un representante del colegio, sociedad o asociación que mayoritariamente agrupe a los profesionistas especializados en Instalaciones; y
+V. Un profesionista que represente al colegio, sociedad o asociación que mayoritariamente agrupe a los Corresponsables en Seguridad Estructural;
 
-VII. Un representante de los colegios, sociedades o asociaciones no consideradas en las fracciones IV, V y VI, de este mismo artículo.
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
 
-Los representantes de las Instituciones de Educación Superior e Institutos de Investigación, deben tener cédula profesional y/o especialización en las materias que tienen relación con los fines del Instituto. Los representantes de los Colegios Sociedades o Asociaciones deben tener registro vigente como DRO y/o Corresponsable en Seguridad Estructural, en Diseño Urbano y Arquitectónico y en Instalaciones respectivamente.
+VI. Un represente (sic) de la Sociedad Mexicana de Ingeniería Estructural;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+
+VII. Un represente (sic) de la Sociedad Mexicana de Ingeniería Sísmica;
+
+> <small>(ADICIONADA, G.O. 16 DE MAYO DE 2012)</small>
+
+VIII. Un represente (sic) de la Sociedad Mexicana de Ingeniería Geotécnica;
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2012)</small>
+
+El representante de las Instituciones de Educación Superior e Institutos de Investigación, debe tener cédula profesional y/o especialización en las materias que tienen relación con los fines del Instituto. Los representantes de los Colegios deben tener registro vigente como Corresponsable en Seguridad Estructural o como Director Responsable de Obra.
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2012)</small>
 
 ###### Artículo 14.
 
-La Comisión podrá constituir grupos de trabajo para preparar los procesos de admisión, supervisión y designación. La celebración de las sesiones de los grupos de trabajo invariablemente deberá contar con la presencia de los representantes de las Secretarías y de la Contraloría General, quienes conjuntamente con los demás integrantes suscribirán las actas en que se asienten los acuerdos alcanzados, las incidencias importantes y en el caso de que así lo soliciten los participantes, la razón por la que votan en contra o se abstienen de hacerlo. Los grupos se integraran por los representantes de las dependencias e instituciones y organizaciones que los miembros de la Comisión consideren procedente. La facultad de convocar y presidir, así como el voto de calidad corresponderá al representante del Director General.
+El Comité podrá constituir grupos de trabajo para preparar los procesos de admisión, supervisión y designación. La celebración de las sesiones de los grupos de trabajo invariablemente deberá contar con la presencia de los representantes de las Secretarías y de la Contraloría General, quienes conjuntamente con los demás integrantes suscribirán las actas en que se asienten los acuerdos alcanzados, las incidencias importantes y en el caso de que así lo soliciten los participantes, la razón por la que votan en contra o se abstienen de hacerlo. Los grupos se integraran por los representantes de las dependencias e instituciones y organizaciones que los miembros de la Comisión consideren procedente. La facultad de convocar y presidir, así como el voto de calidad corresponderá al representante del Director General.
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2012)</small>
 
 ###### Artículo 15.
 
-Para la evaluación de los profesionistas que soliciten la admisión y registro, así como el refrendo como DRO o Corresponsables en Diseño Urbano y Arquitectónico y en Instalaciones, la Comisión y en su caso los grupos de trabajo deberán observar los criterios y lineamientos que con el apoyo de las instituciones de educación superior e investigación y los colegios y asociaciones de profesionistas especializados en la materia, emita y difunda el Instituto. El resultado de las evaluaciones deberá constar en un dictamen que, con las previsiones y reservas que señalan las leyes de Transparencia y Acceso a la Información Pública y de Protección de Datos Personales, ambas del Distrito Federal se pondrá a disposición de las personas que deseen consultarlo.
+Para la evaluación de los profesionistas que soliciten la admisión y registro, así como el refrendo como Corresponsables en seguridad estructural, la Comisión y en su caso los grupos de trabajo deberán observar los criterios y lineamientos que con el apoyo de las instituciones de educación superior e investigación y los colegios y asociaciones de profesionistas especializados en la materia, emita y difunda el Instituto. El resultado de las evaluaciones deberá constar en un dictamen que, con las previsiones y reservas que señalan las leyes de Transparencia y Acceso a la Información Pública y de Protección de Datos Personales, ambas del Distrito Federal, se pondrá a disposición de las personas que deseen consultarlo.
 
 ###### Artículo 16.
 
 La comisión sesionará de manera ordinaria cada tres meses y de forma extraordinaria las veces que se requiera, a convocatoria de su Presidente y/o a solicitud de alguno de sus miembros.
 
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2012)</small>
+
 ###### Artículo 17.
 
-El Instituto, a través de su Director General, promoverá en forma permanente campañas de difusión para incrementar el número de aspirantes a desarrollar la función de DRO y Corresponsable y para participar como Revisores.
+El Instituto, a través de su Director General, promoverá en forma permanente campañas de difusión para incrementar el número de aspirantes a desarrollar la función de Director Responsable de Obra y Corresponsable en seguridad estructural para participar como Revisores.
 
 ### CAPÍTULO SÉPTIMO. DE LAS REVISIONES
 
@@ -354,47 +470,33 @@ IV. Ser miembro de alguna de las asociaciones o colegios de profesionales especi
 
 V. No estar sujeto a proceso, ni haber sido sancionado por haber cometido infracciones o incumplimiento a las disposiciones del Reglamento de Construcciones y sus normas complementarias.
 
-B. Revisor en Diseño Urbano y Arquitectónico
+B. (DEROGADO, G.O. 16 DE MAYO DE 2012)
 
-I. Ser arquitecto o ingeniero-arquitecto titulado o contar con título en alguna carrera afín, expedido por alguna institución de educación superior reconocida, con especialidad en diseño urbano y/o arquitectónico;
-
-II. Contar con una experiencia demostrable de por lo menos cinco años en el ejercicio de la profesión, específicamente en actividades relacionadas con el diseño urbano y/o arquitectónico;
-
-III. Contar preferentemente con registro como Corresponsable en Diseño Urbano y Arquitectónico;
-
-IV. Ser miembro de alguna de las asociaciones o colegios de profesionales especializados en la disciplina de que se trata; y
-
-V. No estar sujeto a proceso, ni haber sido sancionado por haber cometido infracciones o incumplimiento a las disposiciones del Reglamento de Construcciones y sus normas complementarias.
-
-C. Revisor en Instalaciones
-
-I. Ser ingeniero mecánico electricista o profesional titulado en alguna carrera afín, por cualquiera de las instituciones de educación superior reconocidas, con especialidad en instalaciones;
-
-II. Contar con una experiencia demostrable de por lo menos cinco años en el ejercicio de la profesión, específicamente en actividades relacionadas con las instalaciones;
-
-III. Contar preferentemente con registro como Corresponsable en Instalaciones;
-
-IV. Ser miembro de alguna de las asociaciones o colegios de profesionales especializados en la disciplina de que se trata; y
-
-V. No estar sujeto a proceso, ni haber sido sancionado por haber cometido infracciones o incumplimiento a las disposiciones del Reglamento de Construcciones y sus normas complementarias.
+C. (DEROGADO, G.O. 16 DE MAYO DE 2012)
 
 ###### Artículo 19.
 
 Es materia de revisión, por parte del Instituto a través de los Revisores:
 
-I. El diseño arquitectónico;
+I. (DEROGADA, G.O. 16 DE MAYO DE 2012)
 
 II. Las bases de diseño estructural de los proyectos y su congruencia con la concepción arquitectónica;
 
-III. Las Instalaciones que se proyecten;
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+
+III. Los planos y memorias de cálculos que permitan comprobar el cumplimiento de los requisitos de seguridad establecidos por las Normas Técnicas Complementarias del Reglamento para las Construcciones del Distrito Federal.
 
 IV. La ejecución del proyecto en la etapa de edificación;
 
-V. La estructura e instalaciones de los edificios;
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
 
-VI. La estructura en azoteas;
+V. Las instalaciones del edificio en cuanto a sus posibles interferencias con la estructura;
 
-VII. La estructura e instalaciones de las ferias, aparatos mecánicos, circos, carpas, graderías desmontables y otros similares;
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+
+VI. Las estructuras en azoteas, en particular las que sostienen anuncios de grandes dimensiones u otras estructuras similares;
+
+VII. (DEROGADA, G.O. 16 DE MAYO DE 2012)
 
 VIII. Las autorizaciones de uso y ocupación de las edificaciones consideradas como riesgosas;
 
@@ -408,15 +510,33 @@ XI. Los registros de obra ejecutada que se encuentran en el supuesto de las frac
 
 Los Revisores realizarán sus funciones de acuerdo a las normas, lineamientos, reglas, criterios y demás instrumentos normativos que expida el Instituto, aplicando sus conocimientos y experiencia. En cada revisión se emitirá la opinión técnica que será considerada por el Instituto para la emisión del Dictamen Técnico.
 
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2012)</small>
+
 ###### Artículo 21.
 
-Los DRO y Corresponsables que se sintieren agraviados por las determinaciones del Instituto, podrán acudir ante el Secretario de Desarrollo Urbano y Vivienda para presentar la reclamación, para lo cual deberá ingresar el escrito y las pruebas correspondientes en los tres días hábiles siguientes a la notificación. La interposición de la reclamación no suspende la aplicación de las medidas de seguridad que, en su caso, hubieren impuesto las autoridades competentes.
+Los DRO y Corresponsables que se sintieren agraviados por las determinaciones del Instituto, podrán acudir ante el Secretario de Obras y Servicios para presentar la reclamación, para lo cual deberá ingresar el escrito y las pruebas correspondientes en los tres días hábiles siguientes a la notificación. La interposición de la reclamación no suspende la aplicación de las medidas de seguridad que, en su caso, hubieren impuesto las autoridades competentes.
 
 ###### Artículo 22.
 
 El titular de la Secretaría dictará sus resoluciones dentro de los diez días hábiles siguientes y las notificará al interesado y al Instituto en los tres días hábiles posteriores.
 
 Las resoluciones del Secretario de Desarrollo Urbano y Vivienda serán definitivas.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 16 DE MAYO DE 2012)</small>
+
+### CAPÍTULO OCTAVO. DE LAS INFRACCIONES Y SANCIONES
+
+> <small>(ADICIONADO, G.O. 16 DE MAYO DE 2012)</small>
+
+###### Artículo 23.
+
+Corresponde al Director General instaurar los procedimientos para sancionar administrativamente a los Directores Responsables de Obra o los Corresponsables por el incumplimiento de las obligaciones establecidas en la Ley de Desarrollo Urbano del Distrito Federal y su Reglamento y el Reglamento de Construcciones del Distrito Federal, en los términos señalados en dichos ordenamientos.
+
+> <small>(ADICIONADO, G.O. 16 DE MAYO DE 2012)</small>
+
+###### Artículo 24.
+
+El interesado afectado por los actos y resoluciones de la autoridad, podrá interponer recurso de inconformidad de acuerdo a lo estipulado por la Ley de Procedimiento Administrativo del Distrito Federal o promover juicio de nulidad ante el Tribunal.
 
 ## TRANSITORIOS
 
@@ -441,3 +561,13 @@ NOVENO.- En lo que respecta a las revisiones estructurales en los Centros Comuni
 Recinto de la Asamblea Legislativa del Distrito Federal, a los treinta días del mes de junio del año dos mil diez..- POR LA MESA DIRECTIVA.- DIP. AXEL VÁZQUEZ BURGETTE, PRESIDENTA.- FIRMA.- DIP. MA. NATIVIDAD PATRICIA RAZO VÁZQUEZ, SECRETARIA.- DIP. JOSÉ MANUEL RENDÓN OBERHAUSER, SECRETARIO.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintidós días del mes de octubre del año dos mil diez.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE LEAL FERNÁNDEZ.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, FERNANDO JOSÉ ABOITIZ SARO.- FIRMA.- EL SECRETARIO DE FINANZAS, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, ELIAS MIGUEL MORENO BRIZUELA.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 16 DE MAYO DE 2012.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. El Instituto deberá expedir y publicar el Arancel para el pago de los honorarios de los Corresponsables y Revisores, en el término de 90 días siguientes al de la entrada en vigor de la presente Ley.
