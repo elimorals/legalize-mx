@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2012-05-03"
+last_updated: "2012-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE MAYO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -1210,13 +1210,27 @@ VII. Las demás que le reconozcan las disposiciones legales aplicables.
 
 ### Capítulo XXIII. De la Donación y Trasplantes en el Distrito Federal
 
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2012)</small>
+
 ###### Artículo 87.
 
-Todo lo relacionado a la disposición de órganos y tejidos de seres humanos con fines terapéuticos, se regirá conforme a lo establecido en la Ley General de Salud, sus disposiciones reglamentarias y las normas oficiales mexicanas correspondientes.
+Todo lo relacionado a la disposición de órganos y tejidos de seres humanos con fines terapéuticos, se regirá conforme a lo establecido en la Ley General de Salud, sus disposiciones reglamentarias y las Normas Oficiales Mexicanas en la materia, así como en los lineamientos que emitan organismos internacionales y demás instrumentos jurídicos aplicables.
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2012)</small>
 
 ###### Artículo 88.
 
-Toda persona es disponente de los órganos y tejidos de su cuerpo y podrá donarlo para los fines y con los requisitos previstos en el presente capítulo. En todo momento deberá respetarse la decisión del donante. Las autoridades garantizarán el cumplimiento de esta voluntad.
+Toda persona es disponente de los órganos y tejidos de su cuerpo y podrá donarlo para los fines y con los requisitos previstos en la Ley General de Salud y sus disposiciones reglamentarias. En todo momento deberá respetarse la decisión del donante. Las autoridades garantizarán el cumplimiento de esta voluntad.
+
+La donación se realizará mediante consentimiento expreso y consentimiento tácito.
+
+La donación por consentimiento expreso deberá constar por escrito y podrá ser amplia cuando se refiera a la disposición total del cuerpo o limitada cuando sólo se otorgue respecto de determinados componentes.
+
+El consentimiento tácito sólo aplicará para la donación de órganos y tejidos una vez que se confirme la pérdida de la vida del disponente y sólo podrán extraerse estos cuando se requieran para fines de trasplantes. Habrá consentimiento tácito del donante cuando no haya manifestado su negativa a que su cuerpo o componentes sean utilizados para trasplantes, siempre y cuando se obtenga también el consentimiento de cualquiera de las siguientes personas: el o la cónyuge, el concubinario, la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante, aplicando ese orden de prelación, en caso de que se encontrara una o más personas presentes de las señaladas.. (sic)
+
+El escrito por el que la persona exprese no ser donador, podrá ser privado o público, y deberá estar firmado por éste, o bien, la negativa expresa podrá constar en alguno de los documentos públicos que para este propósito determine la Secretaría en coordinación con las autoridades competentes.
+
+La Secretaría, a través de los órganos respectivos, hará del conocimiento a las autoridades del Registro Nacional de Trasplantes los documentos o personas que han expresado su voluntad de no ser donadores en los términos del presente Capítulo.
 
 ###### Artículo 89.
 
@@ -1226,17 +1240,53 @@ Está prohibido el comercio de órganos y tejidos de seres humanos. La donación
 
 Sólo en caso de que la pérdida de la vida del donante esté relacionada con la averiguación de un delito, se dará intervención al Ministerio Público y a la autoridad judicial, para la extracción de órganos y tejidos, de conformidad a las disposiciones legales aplicables.
 
+> <small>(ADICIONADO, G.O. 16 DE MAYO DE 2012)</small>
+
+La Secretaría coadyuvará ante las autoridades respectivas que en los trámites que se deriven del párrafo anterior se realicen de manera ágil, a efecto de que, de ser el caso, se disponga de los órganos y tejidos.
+
 ###### Artículo 91.
 
 La cultura de donación de órganos y tejidos es de interés público. El Gobierno implementará programas permanentes destinados a fomentar la donación de órganos y tejidos, en coordinación con el Centro Nacional de Transplantes.
 
+> <small>(ADICIONADO, G.O. 16 DE MAYO DE 2012)</small>
+
+La Secretaría promoverá con las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que integran la Administración Pública del Distrito Federal, así como los órganos de gobierno y autónomos, en el ámbito de sus respectivas competencias, mecanismos para impulsar el fomento a la cultura de la donación al momento de la realización de trámites públicos o la obtención de documentos oficiales.
+
+> <small>(ADICIONADO, G.O. 16 DE MAYO DE 2012)</small>
+
+El Centro de Trasplantes del Distrito Federal hará constar el mérito y altruismo del donador y su familia.
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2012)</small>
+
 ###### Artículo 92.
 
-Se crea el Consejo de Trasplantes del Distrito Federal como un órgano colegiado del Gobierno, que tiene a su cargo apoyar, coordinar, promover y consolidar las estrategias, programas y en materia de la disposición de órganos y tejidos de seres humanos con fines terapéuticos, así como vigilar la asignación de éstos de conformidad con las disposiciones legales aplicables.
+La Secretaría, en las unidades médicas del Gobierno del Distrito Federal a los que hace referencia la Ley General de Salud en su artículo 315 fracciones I y II, dispondrá coordinadores hospitalarios de donación de órganos y tejidos para trasplantes, los cuales deberán cumplir con los requisitos que para tal efecto establezcan las disposiciones jurídicas correspondientes.
+
+Corresponderá a los coordinadores a los que se refiere el presente artículo:
+
+I. Detectar, evaluar y seleccionar a los donantes potenciales;
+
+II. Solicitar el consentimiento del familiar a que se refiere este Capítulo;
+
+III. Facilitar la coordinación entre los profesionales de la salud encargados de la extracción del o de los órganos y el de los médicos que realizarán el o los trasplantes;
+
+IV. Coordinar la logística dentro del establecimiento de la donación, extracción y el trasplante;
+
+V. Fomentar al interior del establecimiento la cultura de la donación y el trasplante;
+
+VI. Las demás que les atribuya las disposiciones aplicables.
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2012)</small>
 
 ###### Artículo 93.
 
-El Consejo de Transplantes se integra por:
+Se crea el Consejo de Trasplantes del Distrito Federal como un órgano colegiado del Gobierno, que tiene a su cargo apoyar, coordinar, promover y consolidar las estrategias, programas y en materia de la disposición de órganos y tejidos de seres humanos con fines terapéuticos, así como vigilar la asignación de éstos de conformidad con las disposiciones legales aplicables.
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2012)</small>
+
+###### Artículo 94.
+
+El Consejo de Trasplantes se integra por:
 
 I. El Jefe de Gobierno del Distrito Federal, quien será el Presidente;
 
@@ -1272,7 +1322,9 @@ XVI. Un representante del Centro Nacional de Transplantes, y
 
 XVII. El titular del programa de transplantes del Distrito Federal, que fungirá como Secretario Técnico del Consejo.
 
-###### Artículo 94.
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2012)</small>
+
+###### Artículo 95.
 
 El Consejo tendrá las atribuciones siguientes:
 
@@ -1292,11 +1344,9 @@ VII. Aprobar sus normas, lineamientos y políticas internas; y
 
 VIII. Las demás que le otorgue la presente ley y otras disposiciones legales aplicables.
 
-###### Artículo 95.
+El Consejo sesionará por lo menos dos veces al año y de manera extraordinaria cuando lo convoque su Secretario Técnico. A sus sesiones podrán ser invitados especialistas, funcionarios o representantes de instituciones y organizaciones, vinculados a la donación y trasplante de órganos y tejidos.
 
-El Consejo sesionará por lo menos dos veces al año y de manera extraordinaria cuando lo convoque su Secretario Técnico.
-
-A sus sesiones podrán ser invitados especialistas, funcionarios o representantes de instituciones y organizaciones, vinculados a la donación y trasplante de órganos y tejidos.
+El Presidente del Consejo invitará a participar en sus sesiones al titular de la Comisión Nacional de Bioética, así como investigadores y organizaciones sociales relacionadas con el objeto del presente Capítulo.
 
 La organización y funcionamiento del Consejo será establecido en su reglamento interno.
 
@@ -2641,3 +2691,13 @@ Artículo Único. El presente Decreto entrará en vigor al día siguiente de su 
 G.O. 3 DE MAYO DE 2012.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. La Secretaría de Salud, conforme a la suficiencia presupuestal asignada por la Asamblea Legislativa, instrumentará las acciones establecidas en la (sic) presente Decreto.
+
+G.O. 16 DE MAYO DE 2012.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. La Secretaría de Salud, conforme a la suficiencia presupuestal asignada por la Asamblea Legislativa, instrumentará las acciones establecidas en la (sic) presente Decreto.
+
+Segundo. La Secretaría de Salud contará con un plazo de 90 días a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones necesarias a efecto de darle debido cumplimiento.
+
+Tercero. La Secretaría de Salud, a través del Centro de Trasplantes del Distrito Federal, en las unidades médicas del Gobierno del Distrito Federal a los que hace referencia la Ley General de Salud en su artículo 315 fracciones I y II, dispondrá de las medidas necesarias a efecto de que dichas unidades cuenten con los insumos necesarios para certificar que los órganos o tejidos del posible disponente son susceptibles de ser utilizados y que el estado clínico de este sea el indicado conforme al protocolo establecido para esta práctica.
+
+Cuarto. La Secretaría atenderá los lineamientos que emitan las autoridades respectivas sobre el consentimiento tácito al que hace referencias el presente Decreto.
