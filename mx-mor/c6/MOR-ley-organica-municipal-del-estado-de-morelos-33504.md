@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2011-05-25"
+last_updated: "2012-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -1869,6 +1869,24 @@ Los bienes muebles de dominio privado de los Municipios son inembargables; la ad
 
 Los Municipios serán autónomos en la administración de su hacienda, para lo cual deberán sujetarse a lo establecido en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos. La hacienda pública de los Municipios se integra de las contribuciones incluyendo las tasas adicionales que establezca la Legislación estatal sobre la propiedad inmobiliaria, su fraccionamiento, división, consolidación, traslación y mejora, y las que tengan por base el cambio de valor de los inmuebles, y con los demás ingresos ordinarios y extraordinarios, que en su favor establezca el Congreso del Estado, con las participaciones y subsidios que la Federación y el Estado les otorgue y con los rendimientos de los bienes que les pertenezcan.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2012)</small>
+
+Con el propósito de acrecentar las fuentes de empleo y los ingresos a favor de los vecinos del municipio, la autoridad fiscal estará facultada para auxiliarse de personas con discapacidad o adultos mayores, que, dentro de su misma calle o colonia, puedan fungir como Agentes Fiscales Municipales, cubriéndoles la proporción que corresponda de los ingresos efectivamente recaudados bajo su gestión o cobranza.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2012)</small>
+
+Los citados Agentes Fiscales promoverán el pago de las contribuciones municipales, y también podrán reportar las construcciones o actividades comerciales que no se hayan registrado ante la autoridad municipal. La autoridad municipal difundirá los mecanismos y requisitos para acceder a esta función.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2012)</small>
+
+De igual forma, la autoridad fiscal municipal estará facultada para establecer estímulos fiscales, subsidios o cualquier otro tratamiento fiscal favorable a los contribuyentes que en su calidad de inversionistas, empresarios o comerciantes inicien o amplíen un negocio o comercio que genere fuentes de empleo.
+
 ###### Artículo 113.
 
 Los ingresos de los Municipios se integran por:
@@ -1994,6 +2012,36 @@ Las adquisiciones y arrendamientos de todo tipo de bienes, prestación de servic
 ###### Artículo 121.
 
 Cuando las licitaciones a que se hace referencia en el artículo anterior no sean idóneas para asegurar dichas condiciones, de conformidad con las Leyes aplicables, se seguirán los procedimientos que aseguren para el Municipio las mejores condiciones en cuanto a economía, eficiencia, imparcialidad y honradez.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2012)</small>
+
+Con el propósito de preservar las fuentes de empleo, el Ayuntamiento deberá disponer, de seis a un diez por ciento como máximo, del total del presupuesto anual destinado a las adquisiciones o prestaciones de servicios, contratando para ello a micro o pequeños empresarios de la misma localidad municipal. Los recursos en ningún caso podrán involucrar aportaciones o subsidios de origen federal o estatal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2012)</small>
+
+Para los efectos de esta ley, se entenderá por micro y pequeños empresarios, a las personas físicas o morales, cuyas actividades comerciales tengan una antigüedad de seis meses, cuenten con su registro de contribuyentes, su domicilio fiscal se ubique en el municipio y se auxilien de entre uno a veinte empleados.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2012)</small>
+
+Dentro de las adquisiciones, proveedurías o servicios quedarán comprendidos, de manera enunciativa y no limitativa, los siguientes: materiales y artículos de oficina; mobiliario de todo tipo; material eléctrico; material de construcción; impresos; uniformes y otras prendas de vestir, incluyendo calzado; herramientas; refacciones; llantas; equipo y material médico, dental y veterinario; productos químicos; artículos de limpieza; servicio de alimentos; fletes; mantenimiento de oficinas, equipos, muebles e inmuebles; servicios de procesamiento de datos; pintura de inmuebles; impermeabilizaciones; entre otros.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2012)</small>
+
+La asignación de las compras o servicios, tenderá a abarcar el mayor número posible de comerciantes, proveedores o prestadores de la localidad; y consecuentemente:
+
+a) Los artículos o servicios que el municipio requiera, podrán dividirse o fraccionarse a varios micro o pequeños empresarios de la localidad; procurando que la derrama económica beneficie al mayor número de personas.
+
+b) Si el comerciante, proveedor o prestador de servicios no cuenta con la capacidad total para satisfacer el número de artículos o servicios solicitados, la autoridad municipal podrá contratarle la dotación de menos insumos o servicios.
+
+c) Los precios o el importe de los servicios que la autoridad debe considerar para la asignación o determinación de los proveedores o prestadores de servicios beneficiarios, serán los precios al menudeo prevalecientes en el municipio e inherentes al pequeño comercio.
 
 ###### Artículo 122.
 
@@ -2852,6 +2900,16 @@ SEGUNDO.- Los Ayuntamientos deberán expedir el Reglamento respectivo de la Dire
 TERCERO.- Los Ayuntamientos del Estado, en el ámbito de sus respectivas competencias, dentro de un plazo de 60 días, contados a partir de la entrada en vigor del presente Decreto, adecuarán las disposiciones reglamentarias y aplicables, así como adoptarán las medidas necesarias, acciones e implementación de programas orientados a dar cumplimiento a lo establecido en el mismo.
 
 CUARTO.- Los Ayuntamientos en el presupuesto de egresos de 2012, deberán destinar una partida para el cumplimiento de los objetivos de la Dirección de la Instancia Municipal de la Mujer.
+
+P.O. 16 DE MAYO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Este decreto entrará en vigor el 01 de enero del 2013
+
+###### ARTÍCULO SEGUNDO.
+
+Aprobado que sea el presente dictamen en términos del Artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, remítase al Poder Ejecutivo para su promulgación y publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado de Morelos.
 
 ###### ARTÍCULO CUARTO.
 
