@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-centro-de-estudios-superiores-del-70017
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-31"
-last_updated: "2009-08-31"
+last_updated: "2012-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70017&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 REGLAMENTO INTERIOR DEL CENTRO DE ESTUDIOS SUPERIORES DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 172, DEL ESTADO DE SONORA, PUBLICADO EN EL B.O. 17 DE MAYO DE 2011, SE MODIFICA EL NOMBRE EN TODOS LOS ORDENAMIENTOS JURÍDICOS QUE INDIQUEN "CENTRO DE ESTUDIOS SUPERIORES DEL ESTADO DE SONORA" POR EL DE "UNIVERSIDAD ESTATAL DE SONORA".</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE MAYO DE 2012.
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el lunes 31 de agosto de 2009.
 
@@ -704,3 +706,35 @@ Dr. Anselmo Miranda Baeza,
 Representante Académico.
 
 > <small>N. DE E. VEASE ORGANIGRAMA EN LA SECCION I DEL B. O. DE 31 DE AGOSTO DE 2009, PAGINA 23.</small>
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 17 DE MAYO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día primero de septiembre del año dos mil doce, previa su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+En todas aquellas disposiciones jurídicas en las cuales se haga referencia al Centro de Estudios Superiores del Estado de Sonora, se entenderá que se hace referencia a la Universidad Estatal de Sonora.
+
+###### ARTÍCULO TERCERO.
+
+Por virtud del presente Decreto, se transfiere la titularidad de todos aquellos actos jurídicos que en su oportunidad se otorgaron al Centro de Estudios Superiores del Estado de Sonora a la Universidad Estatal de Sonora.
+
+Asimismo, los procedimientos en los que sea parte el Centro de Estudios Superiores del Estado de Sonora y que la entrada en vigor del presente Decreto se encuentren en trámite ante alguna autoridad, los continuará tramitando hasta su total conclusión la Universidad Estatal de Sonora.
+
+De igual forma, los recursos humanos, materiales y financieros que el Centro de Estudios Superiores del Estado de Sonora tenga asignados para el ejercicio de sus atribuciones, pasarán a formar parte de la Universidad Estatal de Sonora, respetándose los derechos laborales conforme a la legislación aplicable.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de los 90 días naturales siguientes a la entrada en vigor del presente Decreto, el Consejo Directivo de la Universidad Estatal de Sonora deberá realizar las adecuaciones pertinentes a la normatividad interna de la entidad, a efecto de hacerla congruente con las disposiciones del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+A efecto de dar continuidad al desarrollo de la vida académica y administrativa de la Universidad, el actual rector continuará en el ejercicio de cargo. Lo anterior implica que al cumplirse el plazo de cuatro años a que se refiere el artículo 13 de esta Ley, el cual debe computarse a partir de la fecha en que el Ejecutivo Estatal le otorgó el nombramiento al actual rector, deberá resolverse sobre su ratificación o no continuidad en el cargo de referencia.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
