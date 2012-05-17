@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-insumos-para-la-salud-11369"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-02-04"
-last_updated: "2011-10-19"
+last_updated: "2012-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11369&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-02-03"
 
 REGLAMENTO DE INSUMOS PARA LA SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE MAYO DE 2012.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 4 de febrero de 1998.
 
@@ -47,7 +47,7 @@ I. Acondicionamiento, a las operaciones necesarias por las que un producto a gra
 
 II. Biodisponibilidad, a la proporción de fármaco que se absorbe a la circulación general después de la administración de un medicamento y el tiempo que requiere para hacerlo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
@@ -55,7 +55,7 @@ II Bis. Certificado Analítico, al documento que avala los resultados obtenidos 
 
 III. Condición Sanitaria, a las especificaciones o requisitos sanitarios que deben reunir cada uno de los Insumos, Establecimientos, actividades y servicios y que se establecen en los ordenamientos correspondientes;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
@@ -69,19 +69,19 @@ VI. Envase Primario, a los elementos del sistema de envase que están en contact
 
 VII. Envase Secundario, a los componentes que forman parte del empaque en el cual se comercializa el Insumo y no están en contacto directo con él;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
 VII Bis 1. Estudios clínicos, a las pruebas realizadas en seres humanos para demostrar la calidad, seguridad y eficacia de los medicamentos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
 VII Bis 2. Estudios de biocomparabilidad, a las pruebas, ensayos y análisis que sean indispensables para demostrar que un medicamento biotecnológico biocomparable tiene las mismas características de calidad, seguridad y eficacia de un medicamento biotecnológico de referencia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
@@ -93,7 +93,7 @@ IX. Farmacopea de los Estados Unidos Mexicanos, al documento expedido por la Sec
 
 X. Farmacopea Homeopática de los Estados Unidos Mexicanos, al documento instituido por la Ley y expedido por la Secretaría, que comprende los nombres, procedimientos, métodos y especificaciones para la identificación, preparación o análisis de sustancias y productos homeopáticos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
@@ -105,19 +105,19 @@ XII. Ley, a la Ley General de Salud;
 
 XIII. Lote, a la cantidad específica de cualquier materia prima o Insumo, que haya sido elaborada en un ciclo de producción, bajo condiciones equivalentes de operación y durante un período determinado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
 XIII Bis 1. Medicamento biotecnológico biocomparable, al medicamento biotecnológico no innovador que demuestre ser biocomparable en términos de seguridad, calidad y eficacia al medicamento biotecnológico de referencia a través de las pruebas que establezca la Ley, este Reglamento y demás disposiciones aplicables;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
 XIII Bis 2. Medicamento biotecnológico innovador, al medicamento biotecnológico que obtenga el registro sanitario en México, así reconocido por la Secretaría;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
@@ -325,7 +325,7 @@ XII. Las especificaciones del organismo vivo que se utilizó para la preparació
 
 Cuando la información se exprese en otros idiomas, desde el país de origen deberá aparecer también en idioma español, cuando menos, con el mismo tamaño y proporcionalidad tipográfica, de acuerdo con la Norma correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
@@ -389,7 +389,7 @@ El emisor de la receta prescribirá los medicamentos de conformidad con lo sigui
 
 I. Cuando se trate de Medicamentos Genéricos, deberá anotar la Denominación Genérica y si lo desea, podrá indicar la denominación distintiva de su preferencia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
@@ -401,7 +401,7 @@ II. En los demás casos podrá expresar la denominación distintiva o conjuntame
 
 Cuando en la receta se exprese la Denominación Distintiva del medicamento, su venta o suministro deberá ajustarse precisamente a esta denominación y sólo podrá sustituirse cuando lo autorice expresamente quien lo prescribe.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
@@ -743,7 +743,7 @@ XI. La clave alfanumérica del registro.
 
 La venta y suministro de los medicamentos herbolarios que no sean ni contengan estupefacientes ni psicotrópicos, podrá realizarse en Establecimientos que no sean farmacias.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F.2 DE ENERO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F.2 DE ENERO DE 2007)</small>
 
 ### Capítulo VII. Medicamentos Genéricos
 
@@ -785,13 +785,13 @@ El Consejo de Salubridad General y la Secretaría, mediante publicación en el D
 
 (DEROGADO, D.O.F. 2 DE ENERO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 19 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
 ### Capítulo VIII. Medicamentos Biotecnológicos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
@@ -813,7 +813,7 @@ IV. Ácidos nucleicos sintéticos o de plásmidos: Los ácidos nucleicos obtenid
 
 V. Los demás que, en su caso, determine mediante acuerdo la Secretaría, conforme a los avances técnicos y científicos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
@@ -1025,7 +1025,7 @@ Los Establecimientos que procesen penicilínicos, medicamentos que sean o conten
 
 Los penicilínicos, cefalosporínicos, biológicos virales o bacterianos y hemoderivados, deberán contar con áreas específicas e independientes para cada uno de ellos, a fin de que no exista contaminación cruzada con otras áreas de fabricación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
@@ -1185,7 +1185,7 @@ Los Establecimientos dedicados al proceso de fabricación, distribución y comer
 
 En el caso de los Establecimientos que comercialicen Remedios Herbolarios, el responsable podrá ser el propietario del Establecimiento, en los términos que señala el artículo 261 de la Ley.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 26 DE MAYO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 26 DE MAYO DE 2011)</small>
 
 ### Capítulo V. Establecimientos destinados a Centros de Mezcla para la preparación de mezclas parenterales nutricionales y medicamentosas
 
@@ -1223,7 +1223,7 @@ bis 4. Los Centros de Mezcla que para preparar mezclas parenterales utilicen cit
 
 ### Capítulo I. Importación
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ENERO DE 2008)</small>
 
 ###### ARTÍCULO 131.
 
@@ -1305,7 +1305,7 @@ Para la importación de productos biológicos y hemoderivados de fabricación ex
 
 Para el retiro de fajillas, acondicionamiento y toma de muestras el Establecimiento deberá solicitar a la Secretaría la presencia de un verificador sanitario. Todos estos actos deberán asentarse en el acta de verificación ante la presencia del responsable sanitario del Establecimiento. La distribución o venta de los productos a que se refiere el presente artículo podrá efectuarse una vez que se cumpla con lo establecido en los artículos 43 y 201 del presente Reglamento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
@@ -1587,7 +1587,7 @@ Sin perjuicio de lo establecido en los dos párrafos anteriores, se podrá solic
 
 La información a que se refieren los artículos 167 y 167 bis de este Reglamento que tenga el carácter de confidencial o reservada de conformidad con lo establecido en los tratados internacionales de los que México sea parte y con las demás disposiciones legales aplicables, estará protegida contra toda divulgación a otros particulares.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2008)</small>
 
@@ -1599,7 +1599,7 @@ Para ser titular del registro sanitario de un medicamento se requiere contar con
 
 Para ser titular del registro sanitario de vacunas y hemoderivados además de cumplir con todas las disposiciones aplicables para medicamentos alopáticos, deberán atenderse las Normas correspondientes a productos biológicos y hemoderivados.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ENERO DE 2008)</small>
 
 ###### ARTÍCULO 170.
 
@@ -1619,7 +1619,7 @@ La certificación de las buenas prácticas de fabricación se realizará a solic
 
 Conforme a lo previsto en el artículo 391 bis de la Ley, la Secretaría podrá expedir los certificados con base en la información, comprobación de hechos o recomendaciones técnicas que proporcionen los terceros autorizados, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 5 DE AGOSTO DE 2008)</small>
 
@@ -1743,7 +1743,7 @@ Todo cambio de fabricación nacional a extranjera de un medicamento ameritará c
 
 Para autorizar el cambio de fabricación extranjera a nacional de cualquier medicamento registrado, se presentará la solicitud en el formato oficial y se cumplirá con lo establecido en los artículos 167, 173 y 174 de este Reglamento, según el medicamento de que se trate.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
@@ -1779,7 +1779,7 @@ La Secretaría resolverá las solicitudes de registro de medicamentos biotecnol�
 
 En caso de que la Secretaría no emita la resolución respectiva en el plazo señalado, la solicitud de registro se entenderá resuelta en sentido negativo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
@@ -1791,7 +1791,7 @@ I. Cuando el medicamento se fabrique en el territorio nacional, y
 
 II. Cuando la fabricación y los estudios mencionados se hayan realizado en el extranjero y así lo determine la Secretaría, con base en la opinión del Comité de Moléculas Nuevas, previa consulta que éste realice al Subcomité de Evaluación de Productos Biotecnológicos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
@@ -1805,7 +1805,7 @@ Para efectos del párrafo anterior, la Secretaría, con base en la opinión del 
 
 Sin perjuicio de lo establecido en los párrafos anteriores, se podrá solicitar el registro de un medicamento biocomparable respecto de un medicamento biotecnológico protegido por una patente, con el fin de realizar los estudios, pruebas y producción experimental correspondientes, dentro de los ocho años anteriores al vencimiento de la patente. En cuyo caso, el registro sanitario se otorgará solamente al concluir la vigencia de la patente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
@@ -1815,7 +1815,7 @@ bis 3. El alcance de las pruebas clínicas de biocomparabilidad deberá estar su
 
 La posología, la dosis y la ruta de administración del medicamento biotecnológico biocomparable deben ser las mismas que las del medicamento biotecnológico de referencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
@@ -1871,7 +1871,7 @@ La Secretaría resolverá las solicitudes de registro de medicamentos biotecnol�
 
 En caso de que la Secretaría no emita la resolución respectiva en el plazo señalado, la solicitud de registro se entenderá resuelta en sentido negativo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
@@ -2011,6 +2011,10 @@ Cuando se trate exclusivamente de modificaciones a los textos de la información
 
 La Secretaría resolverá las solicitudes de modificaciones a las condiciones de registro de los Insumos a que se refiere el Capítulo IX del Título Segundo de este Reglamento en un plazo de veintidós días. En caso de que la Secretaría no resuelva en dicho plazo se entenderá procedente la solicitud.
 
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 2012)</small>
+
+Si el solicitante presenta solicitud de modificación a las condiciones de registro con dictamen favorable expedido por Tercero Autorizado por la Secretaría, ésta la resolverá en un plazo de quince días.
+
 ###### ARTÍCULO 189.
 
 El oficio en el que se autorice la modificación a las condiciones de registro, contendrá una leyenda en la que se señale que la Secretaría otorga al titular del registro un plazo de ciento veinte días para agotar la existencia de materiales de envase y producto terminado.
@@ -2112,6 +2116,10 @@ En caso de no contar con el original del registro deberá presentar copia de la 
 bis 6. Las solicitudes de prórroga previstas en los artículos 190 Bis 1, 190 Bis 2, 190 Bis 3 y 190 Bis 4 deberán presentarse a más tardar ciento cincuenta días naturales antes de la fecha en que concluya la vigencia del registro correspondiente.
 
 La Secretaría resolverá las solicitudes de prórroga de Insumos en un plazo máximo de ciento cincuenta días naturales siguientes a la presentación de la solicitud. Cuando el último día del plazo sea inhábil, se entenderá prorrogado hasta el día siguiente hábil. En caso de que la Secretaría no emita la resolución respectiva en los plazos señalados en este artículo, se entenderá procedente la solicitud.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 2012)</small>
+
+En el caso de las solicitudes de prórroga, si el solicitante presenta dictamen expedido por Tercero Autorizado por la Secretaría, los plazos se reducirán a la mitad.
 
 ###### ARTÍCULO 191.
 
@@ -2469,7 +2477,7 @@ SEXTO. Los formatos a que se hace referencia en el presente Reglamento, deberán
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los tres días del mes de febrero de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Salud, Juan Ramón de la Fuente.- Rúbrica.
 
-N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
 
 D.O.F. 19 DE SEPTIEMBRE DE 2003.
 
@@ -2552,3 +2560,7 @@ Primero.- El presente Decreto entra en vigor a los ciento ochenta días naturale
 Segundo.- La Secretaría de Salud, en términos de lo que establece la Ley Federal sobre Metrología y Normalización, deberá adecuar y actualizar las Normas Oficiales Mexicanas correspondientes a lo establecido por este Decreto.
 
 Tercero.- Aquellos trámites de solicitud de registro cuya resolución se encuentre pendiente al momento de la entrada en vigor del presente Decreto se resolverán conforme a la normatividad vigente al momento de su presentación.
+
+D.O.F. 17 DE MAYO DE 2012.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
