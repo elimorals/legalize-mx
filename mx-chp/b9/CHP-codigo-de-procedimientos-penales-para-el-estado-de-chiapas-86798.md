@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-procedimientos-penales-para-el-estado-de-chiapas-8679
 country: "mx"
 rank: "codigo"
 publication_date: "2012-02-09"
-last_updated: "2012-02-09"
+last_updated: "2012-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CHP"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS
 
-N. DE E EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VER ARTÍCULO PRIMERO Y TERCERO TRANSITORIOS DEL DECRETO NÚMERO 147 PUBLICADO EN EL P.O. DE 9 DE FEBRERO DE 2012, QUE ESTABLECE EL INICIO DE VIGENCIA EN FORMA GRADUAL Y PROGRESIVA SEGÚN CORRESPONDA EL MUNICIPIO.
+N. DE E EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VER ARTÍCULO PRIMERO Y TERCERO TRANSITORIOS DEL DECRETO NÚMERO 147 PUBLICADO EN EL P.O. DE 9 DE FEBRERO DE 2012, Y P.O. DE 17 DE MAYO DE 2012, QUE ESTABLECE EL INICIO DE VIGENCIA EN FORMA GRADUAL Y PROGRESIVA SEGÚN CORRESPONDA EL MUNICIPIO.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2012.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el jueves 9 de febrero de 2012.
 
@@ -45,9 +45,13 @@ Por las consideraciones antes expuestas, el Honorable Congreso del Estado de Chi
 
 ### Capítulo I. Principios del Procedimiento
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MAYO DE 2012)</small>
+
 ###### Artículo 1°.
 
-Principios generales
+Principios generales:
 
 Las disposiciones de este código son de orden público y de observancia general en todo el Estado Libre y Soberano de Chiapas. Con esa finalidad el proceso penal será acusatorio y oral.
 
@@ -55,9 +59,19 @@ Las audiencias se regirán por los principios de publicidad, contradicción, con
 
 La policía, el ministerio público y los jueces facilitarán la solución de las controversias en aplicación de los principios de alternatividad, restauración de las consecuencias del hecho delictivo y la reparación del daño causado, procurando la armonía social entre sus protagonistas y la sociedad.
 
-En caso de condena rigen los principios de proporcionalidad de las penas y/o medidas de seguridad y de reinserción social del sentenciado con la finalidad de que no vuelva a delinquir.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2012)</small>
+
+En caso de condena rigen los principios de proporcionalidad de las penas o medidas de seguridad y de reinserción social del sentenciado con la finalidad de que no vuelva a delinquir.
 
 Ningún juez podrá tratar asuntos que estén sometidos a proceso penal con cualquiera de los intervinientes sin que estén presentes los otros, respetando en todo momento el principio de contradicción, salvo las excepciones que establece este Código o las demás leyes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2012)</small>
+
+Los principios que rigen el presente ordenamiento son la igualdad, la no discriminación y el respeto a la dignidad y libertad de las personas; en ese sentido, cuando en este Código se utilice el genérico masculino por efectos gramaticales, se entenderá que se hace referencia a mujeres y a hombres por igual; en ese tenor los nombramientos que para tal efecto se expidan, deberán referirse en cuanto a su género.
 
 ###### Artículo 2°.
 
@@ -2391,27 +2405,103 @@ En el caso de flagrancia, cualquier persona podrá practicar la detención e imp
 
 El ministerio público deberá dejar sin efecto la detención cuando no pretenda solicitar prisión preventiva, sin perjuicio de que pueda fijarle una caución a fin de garantizar su comparecencia ante el juez.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2012)</small>
+
 ###### Artículo 213.
 
-Caso urgente
+Caso urgente.
 
 Existe caso urgente cuando:
 
 a) Exista sospecha fundada de que el imputado ha participado en alguno de los delitos calificados como graves en este artículo;
 
-b) Exista riesgo fundado de que el imputado pueda sustraerse de la acción de la justicia; y,
+b) Exista riesgo fundado de que el imputado pueda sustraerse de la acción de la justicia.
 
 c) Por razón de la hora, lugar o cualquier otra circunstancia, no pueda el ministerio público ocurrir ante autoridad judicial para solicitar la orden de aprehensión.
 
-Se califican como graves los delitos de homicidio doloso, violación, secuestro, delitos cometidos con medios violentos como armas y explosivos y delitos contra el libre desarrollo de la personalidad.
+Se calificarán como delitos graves, para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los previstos en:
 
-Sólo podrán considerarse delitos cometidos por medios violentos los siguientes: homicidio doloso, secuestro, desaparición forzada de personas, tortura, robo cometido con armas de fuego.
+a) El Código Penal para el Estado de Chiapas:
 
-Se considerarán delitos contra el libre desarrollo de la personalidad: trata de personas, pornografía y lenocinio de menores de edad.
+1) Homicidio por culpa grave, previsto en el artículo 89.
 
-De actualizarse los supuestos previstos en el primer párrafo, el ministerio público podrá ordenar por escrito la detención del imputado, debiendo expresar en dicha orden los antecedentes de la investigación y los indicios que motivan su proceder.
+2) Homicidio, previsto en los artículos 160, 163, 164 y 171.
 
-Los oficiales de investigación o los agentes de policía que ejecuten una orden de detención por caso urgente, deberán presentar inmediatamente al imputado ante el ministerio público que haya emitido dicha orden. El ministerio público, dentro de las cuarenta y ocho horas siguientes deberá presentarlo ante el juez y solicitar la vinculación a proceso.
+3) Feminicidio, previsto en el artículo 164 Bis.
+
+4) Procreación asistida, inseminación artificial y manipulación genética; previsto en los artículos 185,186 y 189.
+
+5) El delito previsto y sancionado en el artículo 207, párrafo primero.
+
+6) Tráfico de menores de edad y de los que no tengan capacidad para entender el significado del hecho, previsto en el artículo 208, primer párrafo.
+
+7) Privación ilegal de la libertad previsto y sancionado en los artículos 213, 215, 216, 220 exceptuándose el último párrafo y 221.
+
+8) Sustracción de menores y los que no tengan capacidad para entender el significado del hecho, previsto en los artículos 223, segundo párrafo y 224.
+
+9) Asalto, previsto en los artículos 231 y 232.
+
+10) Violación, previsto en los artículos 233, 234 y 235.
+
+11) Robo, previsto en los artículos 270, con relación al 274, 275 y 276, fracciones IV, VII, VIII, IX, X, XII, XIV, XV, XVI y XVII, 277, 278, 279, 281, 287 y 290.
+
+12) Delitos previstos y sancionados en los artículos 277, 278, 279, 281, 287 y 290.
+
+13) Abigeato, previsto y sancionado en los artículos 291 y 295.
+
+14) Extorsión, previsto y sancionado en los artículos 300 y 301.
+
+15) Fraude, previsto y sancionado en el artículo 304, fracción XVII, con excepción de su último párrafo y de las fracciones XXIII y XXIV.
+
+16) Despojo, previsto y sancionado en el artículo 305, fracción IV, y penúltimo y último párrafos de dicho numeral, 306, 307, 308 y 309.
+
+17) Delito contra la seguridad en la adquisición de inmuebles y en el ejercicio de derechos reales sobre los mismos, previsto en el artículo 317.
+
+18) Corrupción de menores e incapaces, previsto y sancionado en el artículo 327.
+
+19) Pornografía infantil, previsto y sancionado por los artículos 333, 334 y 337.
+
+20) Lenocinio, previsto en los artículos 339, 340, 341, 342 y 343.
+
+21) Delitos contra el orden constitucional y la seguridad del Estado, previstos en los artículos 344, 346, 347, 348 y 349.
+
+22) Sedición, motín y conspiración, previstos en los artículos 352, 353 y 354.
+
+23) Evasión de presos, previsto y sancionado en el artículo 357, segunda parte del primer párrafo y segundo párrafo.
+
+24) Atentados contra la paz y la integridad corporal y patrimonial de la colectividad y del Estado, previsto en el artículo 369, párrafo primero.
+
+25) Asociación delictuosa y pandillerismo, previstos y sancionados en los artículos 370, 371, 372, 373, 374, 375, 376 y 377.
+
+26) Ataques a las vías de comunicación, previsto en los artículos 379 al 382, con relación al 383.
+
+27) Abuso de autoridad y delitos cometidos en la procuración y administración de justicia previstos y sancionados en los artículos 420, fracciones VIII, IX y XI, 423, fracciones I y III, 424, fracciones VII y IX y 425.
+
+28) Intimidación, previsto y sancionado en el artículo 427.
+
+29) Revelación de secretos, previsto y sancionado en el artículo 437.
+
+30) Delitos en materia sanitaria, previstos y sancionados en los artículos 447 y 448, tercer párrafo.
+
+31) Delitos Contra el Saneamiento del Ambiente y la Ecología del Estado previstos y sancionados en los artículos 456, 457, fracción I, II, III, IV, VI, VIII, X y XI, 458, fracciones I, X y XI, y 459.
+
+32) Operaciones con recursos de procedencia ilícita, previsto y sancionado por el artículo 478.
+
+33) Usura, previsto y sancionado en los artículos 320 Bis, 320 Ter, 320 Quáter y 320 Quintus.
+
+b) El Código Penal para el Estado de Chiapas y otras disposiciones legales:
+
+1) Tortura, previsto y sancionado en el artículo 426, del Código Penal y en los artículos 4° y 5° de la Ley Estatal para Prevenir y Sancionar la Tortura.
+
+2) Desaparición forzada de personas, previsto y sancionado en la Ley para la Prevención y Sanción de la Desaparición Forzada de Personas en el Estado de Chiapas.
+
+3) Trata de personas, previsto y sancionado por la Ley para Combatir, Prevenir y Sancionar la Trata de Personas en el Estado de Chiapas.
+
+De actualizarse los supuestos previstos en el primer párrafo de este artículo, el ministerio público podrá ordenar por escrito la detención del imputado, debiendo expresar en dicha orden los antecedentes de la investigación y los indicios que motivan su proceder.
+
+Los oficiales de investigación o los agentes de policía que ejecuten una orden de detención por caso urgente, deberán presentar inmediatamente al imputado ante el Ministerio Público que haya emitido dicha orden. El Ministerio Público, dentro de las cuarenta y ocho horas siguientes deberá presentarlo ante el Juez y solicitar la vinculación a proceso.
 
 ###### Artículo 214.
 
@@ -6023,11 +6113,19 @@ Artículo Primero.- El presente Código de Procedimientos Penales para el Estado
 
 Artículo Segundo.- En cumplimiento al Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 18 de junio de 2008, se establece y declara en Chiapas, la implementación del Sistema de Justicia Penal, a través del Juicio de Corte Acusatorio.
 
-Artículo Tercero.- Para los efectos de la implementación del Sistema de Justicia Penal, a través del Juicio de Corte Acusatorio y en base a la gradualidad contemplada en la Reforma Constitucional Federal, el territorio chiapaneco se dividirá de la siguiente forma:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Región Uno.- Distrito Judicial de Tuxtla, Cintalapa y Chiapa; Región Dos.- Distrito Judicial de Tapachula, San Cristóbal de Las Casas y Comitán de Domínguez; Región Tres.- Distrito Judicial de Villaflores, Tonalá, Pichucalco, Acapetahua, Catazajá-Palenque, Ocosingo, Yajalón, Huixtla, Motozintla, Copainalá, Simojovel, Bochil, Venustiano Carranza, Salto de Agua y Benemérito de las Américas.
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2012)</small>
 
-La implementación del Sistema de Seguridad y Justicia Penal será en forma gradual y progresiva bajo el criterio de delitos en bloques y regiones, en principio el Juicio de Corte Acusatorio iniciará con la cobertura total de los delitos NO GRAVES, en la Región Uno, en el año 2012; y en las Regiones Dos y Tres, comenzará con la cobertura total de los delitos NO GRAVES entre los años de 2013, al Primer Trimestre del año 2016. Inmediatamente en el Segundo Trimestre del año 2016, la implementación del Sistema de Justicia Penal a través del Juicio de Corte Acusatorio, incluirá a la totalidad de los Delitos Graves simultáneamente en las Regiones Uno, Dos y Tres.
+Artículo Tercero.- Para los efectos de la implementación del Sistema de Justicia Penal, a través del Juicio de Corte Acusatorio y con base en la gradualidad contemplada en la Reforma Constitucional Federal, el territorio chiapaneco se dividirá de la siguiente forma:
+
+Región Uno: Municipio de Tuxtla Gutiérrez; Región Dos: Distritos Judiciales de Tuxtla- a excepción del municipio de Tuxtla Gutiérrez-, Cintalapa, Chiapa de Corzo, Tapachula, San Cristóbal de Las Casas y Comitán de Domínguez; Región Tres: Distritos Judiciales de Villaflores, Tonalá, Pichucalco, Acapetahua, Catazajá-Palenque, Ocosingo, Yajalón, Huixtla, Motozintla, Copainalá, Simojovel, Bochil, Venustiano Carranza, Salto de Agua y Benemérito de las Américas.
+
+La implementación del Sistema de Seguridad y Justicia Penal será en forma gradual y progresiva bajo el criterio de delitos en bloques y regiones, en principio el Juicio de Corte Acusatorio iniciará, con excepción de los delitos previstos en el Título Vigésimo Sexto "Delitos en Materia Electoral", del Libro Segundo, del Código Penal para el Estado de Chiapas, con la cobertura total de los delitos NO GRAVES, en la Región Uno, en el año 2012; y en las Regiones Dos y Tres, comenzará con la cobertura total de los delitos NO GRAVES entre los años de 2013, al primer trimestre del año 2016. Inmediatamente, en el Segundo Trimestre del año 2016, la implementación del Sistema de Justicia Penal a través del Juicio de Corte Acusatorio, incluirá a la totalidad de los delitos GRAVES simultáneamente en las Regiones Uno, Dos y Tres.
+
+Los delitos previstos en el Título Vigésimo Sexto "Delitos en Materia Electoral", del Libro Segundo, del Código Penal para el Estado de Chiapas, se tramitarán conforme al juicio de Corte Acusatorio, en la Región Uno, a partir del 01 de enero del año 2013, y, en las Regiones Dos y Tres conforme a la implementación gradual y progresiva prevista en el párrafo anterior.
+
+La vigencia del Código de Procedimientos Penales para el Estado de Chiapas señalada en términos del Decreto 147, de fecha 09 de febrero del año en curso, y la consecuente abrogación paulatina del texto vigente, de conformidad con la gradualidad prevista en este Decreto para la implementación del nuevo sistema de justicia penal, se modifica e iniciará el día en que entren en función el o los órganos jurisdiccionales competentes para conocer sobre el nuevo procedimiento en materia penal, en la jurisdicción que les corresponda con fundamento en el acuerdo general emitido por el Consejo de la Judicatura del Poder Judicial, el cual deberá publicarse en el Periódico Oficial.
 
 Artículo Cuarto.- La competencia de los Jueces Municipales prevista en la fracción IV del artículo 100 del Código de Organización del Poder Judicial del Estado, será trasladada a los jueces penales del nuevo sistema acusatorio, de conformidad con la gradualidad prevista en el artículo anterior. En materia penal, seguirán siendo competentes en los términos de la fracción I del mismo artículo.
 
@@ -6041,9 +6139,15 @@ Artículo Octavo.- Los delitos permanentes o continuados, que inicien su comisi�
 
 Artículo Noveno.- No procederá la acumulación de procesos sobre hechos delictuosos, cuando alguno de ellos esté sometido al presente Código y otro al Código de Procedimientos Penales, promulgado el cinco de marzo de mil novecientos treinta y ocho.
 
-Artículo Décimo.- Siempre que sea oportuno dentro del trámite procesal, deberán de aplicarse en el curso del procedimiento regido por el Código anterior las disposiciones del presente Ordenamiento que se refieran a: a) indemnización del imputado; b) Aplicación de los Criterios de Oportunidad en el ejercicio de la acción penal, salvo la que aluda a casos de delincuencia organizada; c) Imposición de Medidas Cautelares Personales; d) Acuerdos reparatorios y suspensión del proceso a prueba; e) Procedimiento abreviado; f) Pueblos o Comunidades Indígenas; g) Procedimientos para inimputables, y h) Recurso de Revisión.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2012)</small>
+
+Artículo Décimo.- Siempre que sea oportuno dentro del trámite procesal, deberán aplicarse en el curso del procedimiento regido por el Código anterior las disposiciones del presente Ordenamiento que se refieran a: a) indemnización del imputado; b) Aplicación de los Criterios de Oportunidad en el ejercicio de la acción penal, salvo la que aluda a casos de delincuencia organizada; c) Imposición de Medidas Cautelares Personales; d) Acuerdos reparatorios y suspensión del proceso a prueba; e) Procedimiento abreviado; f) Pueblos o Comunidades Indígenas; g) Procedimientos para inimputables, y h) Recurso de Revisión.
 
 Las facultades que este Código le concede al Juez de Control, serán ejercidas por el Juez de primera instancia mixto o penal según corresponda.
+
+En los supuestos en los que una vez dictado el auto de vinculación a proceso, los delitos investigados atribuidos al imputado sean determinados como delitos graves, el Juez de conocimiento deberá enviar lo actuado al Juez de Primera Instancia en Materia Penal competente para su conocimiento, quedando subsistentes las actuaciones realizadas con anterioridad.
 
 Artículo Décimo Primero.- Cuando una autoridad penal reciba por exhorto, despacho, mandamiento o comisión, una solicitud para la realización de un acto procesal, deberá seguir los procedimientos legales vigentes para la autoridad que remite la solicitud.
 
@@ -6060,3 +6164,13 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I, del artículo 44, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez; Chiapas; a los nueve días del mes de febrero del año dos mil doce.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE MAYO DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor el 21 de mayo de 2012.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Tercero.- Las averiguaciones previas, los procesos penales y los recursos iniciados o que se estén iniciando, con fundamento en las legislaciones previas a la implementación del sistema de justicia penal, a través del juicio de corte acusatorio, se tramitarán hasta su conclusión, y en su caso ejecución de sanciones, conforme a las disposiciones vigentes al momento de la comisión de los hechos.
