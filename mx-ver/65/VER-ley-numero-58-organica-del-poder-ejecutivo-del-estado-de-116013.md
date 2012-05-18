@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2011-12-30"
+last_updated: "2012-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MAYO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -179,9 +179,9 @@ VIII. Secretaría de Desarrollo Social
 
 VIII Bis. Secretaría de Medio Ambiente
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-IX. Secretaría de Desarrollo Agropecuario, Rural, Forestal y Pesca
+IX. Secretaría de Desarrollo Agropecuario, Rural y Pesca;
 
 > <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
@@ -963,9 +963,9 @@ II. Apoyar los programas de investigación tecnológica industrial y fomentar su
 
 III. Promover, fomentar y, en su caso, participar en la creación de parques, corredores y ciudades industriales así como en el desarrollo de la infraestructura portuaria y servicios conexos de competencia estatal;
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-IV. En coordinación con la Secretaría de Desarrollo Agropecuario, Rural, Forestal y Pesca participar en los programas de impulso a la industria piscícola en el Estado.
+IV. En coordinación con la Secretaría de Desarrollo Agropecuario, Rural y Pesca participar en los programas de impulso a la industria piscícola en el Estado;
 
 V. Promover y fomentar en los términos de las leyes de la materia, la inversión, las coinversiones y la instalación de empresas convenientes al Estado de Veracruz, que generen fuentes de empleo;
 
@@ -1213,11 +1213,11 @@ XXX. Coordinar y ejecutar programas especiales para la atención de los sectores
 
 De la Secretaría de Medio Ambiente
 
-> <small>(ADICIONADO, G.O. 14 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
 
 ###### Artículo 28 Bis.
 
-La Secretaría de Medio Ambiente es la dependencia responsable de coordinar las políticas de preservación y restauración del equilibrio ecológico, cambio climático y protección del medio ambiente en el Estado.
+La Secretaría de Medio Ambiente es la dependencia responsable de coordinar las políticas de preservación y restauración del equilibrio ecológico, forestal, cambio climático y protección del medio ambiente en el Estado.
 
 > <small>(ADICIONADO, G.O. 14 DE DICIEMBRE DE 2010)</small>
 
@@ -1225,15 +1225,25 @@ La Secretaría de Medio Ambiente es la dependencia responsable de coordinar las 
 
 Son atribuciones del Secretario de Medio Ambiente, conforme a la distribución de competencias que establezca su reglamento interior, las siguientes:
 
-I. Formular, conducir, instrumentar y evaluar la política estatal en materia de equilibrio ecológico, protección al ambiente y cambio climático;
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-II. Emitir disposiciones administrativas en materia de equilibrio ecológico, medio ambiente y cambio climático, dentro de su esfera de atribuciones;
+I. Formular, conducir, instrumentar y evaluar la política estatal en materia de equilibrio ecológico, forestal, protección al ambiente y cambio climático;
 
-III. Atender los asuntos relativos a la preservación, conservación y restauración del equilibrio ecológico y protección al ambiente, así como aplicar los instrumentos de política ambiental de conformidad con las leyes, normas y demás disposiciones aplicables, en el ámbito de su competencia;
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-IV. Promover el cumplimiento de las disposiciones legales en materia ambiental en coadyuvancia con los órganos encargados de la ejecución de los planes, programas y proyectos en materia de fomento y conservación del equilibrio ecológico y la protección del medio ambiente en el ámbito de su competencia;
+II. Emitir disposiciones administrativas en materia de equilibrio ecológico, forestal, medio ambiente y cambio climático, dentro de su esfera de atribuciones;
 
-V. Participar en la formulación de planes, programas y proyectos estatales y municipales evaluando su apego al marco normativo aplicable en materia de equilibrio ecológico, protección al ambiente, riesgo ambiental y cambio climático;
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
+
+III. Atender los asuntos relativos a la preservación, conservación y restauración del equilibrio ecológico, forestal y protección al ambiente, así como aplicar los instrumentos de política ambiental de conformidad con las leyes, normas y demás disposiciones aplicables, en el ámbito de su competencia;
+
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
+
+IV. Promover el cumplimiento de las disposiciones legales en materia ambiental y forestal en coadyuvancia con los órganos encargados de la ejecución de los planes, programas y proyectos en materia de fomento y conservación del equilibrio ecológico, forestal y la protección del medio ambiente en el ámbito de su competencia;
+
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
+
+V. Participar en la formulación de planes, programas y proyectos estatales y municipales evaluando su apego al marco normativo aplicable en materia de equilibrio ecológico, forestal, protección al ambiente, riesgo ambiental y cambio climático;
 
 VI. Promover, establecer, instrumentar y coordinar las acciones encaminadas a prevenir y controlar según corresponda, en el marco de su competencia, la contaminación del agua, aire y suelo, así como el registro de contaminantes y su monitoreo;
 
@@ -1277,31 +1287,105 @@ XXV. Crear los órganos necesarios para el mejor desempeño de sus funciones;
 
 XXVI. Celebrar todo tipo de contratos, convenios y acuerdos para facilitar el desempeño de sus funciones;
 
-XXVII. Aplicar las medidas de seguridad y sanciones administrativas que procedan, por infracciones a la Ley de la materia y demás disposiciones legales aplicables; y
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-XXVIII. Participar, en el ámbito de su competencia, en las acciones que realicen otras autoridades federales, estatales y municipales.
+XXVII. Aplicar las medidas de seguridad y sanciones administrativas que procedan, por infracciones a la Ley de la materia y demás disposiciones legales aplicables;
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-De la Secretaría de Desarrollo Agropecuario, Forestal y Pesca
+XXVIII. Participar, en el ámbito de su competencia, en las acciones que realicen otras autoridades federales, estatales y municipales;
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(ADICIONADA, G.O. 18 DE MAYO DE 2012)</small>
+
+XXIX. Fomentar la producción forestal así como apoyar, vigilar y, en su caso, ejecutar los programas que en esta materia deriven del Plan Veracruzano de Desarrollo;
+
+> <small>(ADICIONADA, G.O. 18 DE MAYO DE 2012)</small>
+
+XXX. Fomentar, conforme a los programas en la materia, la organización, capacitación y asistencia técnica a los productores forestales;
+
+> <small>(ADICIONADA, G.O. 18 DE MAYO DE 2012)</small>
+
+XXXI. Promover que el crédito y seguro forestal, se orienten hacia los renglones prioritarios que señale el Plan Veracruzano de Desarrollo;
+
+> <small>(ADICIONADA, G.O. 18 DE MAYO DE 2012)</small>
+
+XXXII. Formular el inventario de los recursos e infraestructura forestal existente en el Estado, promoviendo su explotación racional y eficiente;
+
+> <small>(ADICIONADA, G.O. 18 DE MAYO DE 2012)</small>
+
+XXXIII. Asesorar a los Municipios y organismos productores que lo soliciten, en materia forestal;
+
+> <small>(ADICIONADA, G.O. 18 DE MAYO DE 2012)</small>
+
+XXXIV. Promover la creación de organismos y mecanismos que permitan el control de la comercialización por parte de los productores, de los insumos y productos forestales así como fomentar la comercialización y producción de cultivos y especies con demanda internacional;
+
+> <small>(ADICIONADA, G.O. 18 DE MAYO DE 2012)</small>
+
+XXXV. Gestionar lo necesario para que los precios de garantía y de mercado de los productos forestales se fijen con equidad;
+
+> <small>(ADICIONADA, G.O. 18 DE MAYO DE 2012)</small>
+
+XXXVI. Fomentar la creación, la organización y el desarrollo de industrias relacionadas con la producción forestal que se genera en la Entidad, en coordinación con la Secretaría de Desarrollo Económico y Portuario;
+
+> <small>(ADICIONADA, G.O. 18 DE MAYO DE 2012)</small>
+
+XXXVII. Promover y apoyar la investigación básica y aplicada ligada a la problemática forestal estatal, así como fomentar la divulgación y adopción de las tecnologías y sistemas generados, que aumenten la producción y productividad del campo en esta materia;
+
+> <small>(ADICIONADA, G.O. 18 DE MAYO DE 2012)</small>
+
+XXXVIII. Fomentar la enseñanza forestal mediante la creación de campos experimentales, escuelas y centros de capacitación y demostración, así como coordinar acciones con los centros educativos de esta materia establecidos en el Estado;
+
+> <small>(ADICIONADA, G.O. 18 DE MAYO DE 2012)</small>
+
+XXXIX. Vigilar la preservación de los recursos forestales, así como la de los recursos naturales renovables factibles de utilizarse y desarrollar su potencial productivo;
+
+> <small>(ADICIONADA, G.O. 18 DE MAYO DE 2012)</small>
+
+XL. Fomentar y apoyar la conservación y preservación de áreas forestales, a través del manejo integral de cuencas hidrográficas;
+
+> <small>(ADICIONADA, G.O. 18 DE MAYO DE 2012)</small>
+
+XLI. Fomentar programas de reforestación, en coordinación con las dependencias y entidades de la administración pública federal, estatal y municipal;
+
+> <small>(ADICIONADA, G.O. 18 DE MAYO DE 2012)</small>
+
+XLII. Fomentar y controlar los servicios forestales que establezca el Estado;
+
+> <small>(ADICIONADA, G.O. 18 DE MAYO DE 2012)</small>
+
+XLIII. Fomentar la capacitación y la asistencia técnica de los productores forestales del Estado, a fin de que éstos incursionen en el avance tecnológico en sistemas de organización propicios para su desarrollo, y
+
+> <small>(ADICIONADA, G.O. 18 DE MAYO DE 2012)</small>
+
+XLIV. Las demás que expresamente señalen esta ley y demás ordenamientos legales.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE MAYO DE 2012)</small>
+
+De la Secretaría de Desarrollo Agropecuario, Rural y Pesca
+
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
 
 ###### Artículo 29.
 
-La Secretaría de Desarrollo Agropecuario, Rural, Forestal y Pesca es la dependencia responsable de coordinar las políticas públicas de desarrollo agrícola, ganadero, forestal y pesquero en la entidad.
+La Secretaría de Desarrollo Agropecuario, Rural y Pesca es la dependencia responsable de coordinar las políticas públicas de desarrollo agrícola, ganadero y pesquero en la Entidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE MAYO DE 2012)</small>
 
 ###### Artículo 30.
 
-Son atribuciones del Secretario de Desarrollo Agropecuario, Rural, Forestal y Pesca, conforme a la distribución de competencia que establezca su Reglamento Interior, las siguientes:
+Son atribuciones del Secretario de Desarrollo Agropecuario, Rural y Pesca, conforme a la distribución de competencia que establezca su Reglamento Interior, las siguientes:
 
-I. Fomentar la producción agrícola, frutícola, forestal y obras de infraestructura hidráulica, así como apoyar, vigilar y, en su caso, ejecutar los programas que en esta materia deriven del Plan Veracruzano de Desarrollo;
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-II. Fomentar, conforme a los programas en la materia, la organización, capacitación y asistencia técnica a los productores agrícolas, frutícolas y forestales;
+I. Fomentar la producción agrícola, frutícola y obras de infraestructura hidráulica, así como apoyar, vigilar y, en su caso, ejecutar los programas que en esta materia deriven del Plan Veracruzano de Desarrollo;
 
-III. Promover que el crédito y seguro agrícola, frutícola y forestal, se orienten hacia los renglones prioritarios que señale el Plan Veracruzano de Desarrollo;
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
+
+II. Fomentar, conforme a los programas en la materia, la organización, capacitación y asistencia técnica a los productores agrícolas y frutícolas;
+
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
+
+III. Promover que el crédito y seguro agrícola y frutícola se orienten hacia los renglones prioritarios que señale el Plan Veracruzano de Desarrollo;
 
 IV. Efectuar las acciones de coordinación con autoridades federales, estatales o municipales, con el objeto de que los productores cuenten, con suficiencia, calidad y oportunidad, con los insumos para la producción;
 
@@ -1309,7 +1393,9 @@ V. Estimular el establecimiento de empresas proveedoras de insumos, equipo e imp
 
 VI. Propiciar la concertación de acciones entre productores y dependencias oficiales, que permitan el fomento de patronatos de productores de semillas y material vegetativo mejorado, para cubrir las necesidades del Estado;
 
-VII. Formular el inventario de los recursos e infraestructura agrícola, frutícola, forestal e hidráulica existentes en el Estado, promoviendo su explotación racional y eficiente;
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
+
+VII. Formular el inventario de los recursos e infraestructura agrícola, frutícola e hidráulica existentes en el Estado, promoviendo su explotación racional y eficiente;
 
 VIII. Proponer, apoyar y, en su caso, ejecutar las obras de infraestructura agrícola e hidráulica en cooperación con el Gobierno Federal, los Municipios y las organizaciones de productores;
 
@@ -1323,41 +1409,45 @@ X. Fomentar la realización de proyectos de ingeniería agrícola e hidráulica,
 
 XI. Promover, apoyar y realizar en su caso, campañas para prevenir y combatir las plagas y enfermedades que atacan a las especies vegetales del Estado;
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-XII. Asesorar a los municipios y organismos productores que lo soliciten, en materia agrícola, frutícola, forestal, hidráulica y pesquera;
+XII. Asesorar a los Municipios y organismos productores que lo soliciten, en materia agrícola, frutícola, hidráulica y pesquera;
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-XIII. Promover la creación de organismos y mecanismos que permitan el control de la comercialización por parte de los productores, de los insumos y productos agrícolas, forestales y pesqueros así como fomentar la comercialización y producción de cultivos y especies con demanda internacional;
+XIII. Promover la creación de organismos y mecanismos que permitan el control de la comercialización por parte de los productores, de los insumos y productos agrícolas y pesqueros, así como fomentar la comercialización y producción de cultivos y especies con demanda internacional;
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-XIV. Gestionar lo necesario para que los precios de garantía y de mercado de los productos agrícolas, frutícolas, forestales y pesqueros se fijen con equidad;
+XIV. Gestionar lo necesario para que los precios de garantía y de mercado de los productos agrícolas, frutícolas y pesqueros se fijen con equidad;
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-XV. Fomentar la creación, la organización y el desarrollo de industrias relacionadas con la producción agrícola, frutícola, forestal y pesquera que se genera en la entidad, en coordinación con la Secretaría de Desarrollo Económico y Portuario;
+XV. Fomentar la creación, la organización y el desarrollo de industrias relacionadas con la producción agrícola, frutícola y pesquera que se genera en la Entidad, en coordinación con la Secretaría de Desarrollo Económico y Portuario;
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-XVI. Promover y apoyar la investigación básica y aplicada ligada a la problemática agrícola, frutícola, forestal, hidráulica y pesquera estatal, así como fomentar la divulgación y adopción de las tecnologías y sistemas generados, que aumenten la producción y productividad del campo;
+XVI. Promover y apoyar la investigación básica y aplicada ligada a la problemática agrícola, frutícola, hidráulica y pesquera estatal, así como fomentar la divulgación y adopción de las tecnologías y sistemas generados, que aumenten la producción y productividad del campo;
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-XVII. Fomentar la enseñanza agrícola, frutícola, forestal, pesquera e hidráulica, mediante la creación de campos experimentales, escuelas y centros de capacitación y demostración, así como coordinar acciones con los centros educativos con esta materia establecidos en el Estado;
+XVII. Fomentar la enseñanza agrícola, frutícola, pesquera e hidráulica, mediante la creación de campos experimentales, escuelas y centros de capacitación y demostración, así como coordinar acciones con los centros educativos de esta materia establecidos en el Estado;
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-XVIII. Vigilar la preservación de los recursos agrícolas, frutícolas, pesqueros y forestales, así como la de los recursos naturales renovables factibles de utilizarse y desarrollar su potencial productivo;
+XVIII. Vigilar la preservación de los recursos agrícolas, frutícolas y pesqueros,, así como la de los recursos naturales renovables factibles de utilizarse y desarrollar su potencial productivo;
 
-XIX. Fomentar y apoyar la conservación y preservación de suelos agrícolas y áreas forestales, a través del manejo integral de cuencas hidrográficas;
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2010)</small>
+XIX. Fomentar y apoyar la conservación y preservación de suelos agrícolas, a través del manejo integral de cuencas hidrográficas;
 
-XX. Fomentar programas de reforestación, en coordinación con las Secretarías de Desarrollo Social y de Medio Ambiente;
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-XXI. Fomentar y controlar los servicios agrícolas que establezca el Estado, tales como: distribución de semillas mejoradas, fertilizantes, árboles frutales y centrales de maquinaria entre otros;
+XX. Auxiliar a la Secretaría de Medio Ambiente en los programas de reforestación;
+
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
+
+XXI. Fomentar y controlar los servicios agrícolas que establezca el Estado, tales como: distribución de semillas mejoradas, fertilizantes y centrales de maquinaria entre otros;
 
 XXII. Fomentar la producción pecuaria, así como la vigilancia, apoyo y, en su caso, ejecución de las obras y servicios pecuarios en cooperación con los Gobiernos Federal y Municipales, en coordinación con los productores y con base en el Plan Veracruzano de Desarrollo;
 
@@ -1417,7 +1507,9 @@ XLIX. Contribuir con las autoridades federales y locales competentes, al fomento
 
 L. Promover y apoyar el desarrollo de la infraestructura pesquera, así como la racional explotación y consumo de los recursos pesqueros;
 
-LI. Fomentar la capacitación y la asistencia técnica de los productores agropecuarios, forestales y pesqueros del Estado, a fin de que éstos incursionen en el avance tecnológico en sistemas de organización propicios para su desarrollo; y
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
+
+LI. Fomentar la capacitación y la asistencia técnica de los productores agropecuarios y pesqueros del Estado, a fin de que éstos incursionen en el avance tecnológico en sistemas de organización propicios para su desarrollo; y
 
 LII. Promover programas tendientes a la integración de actividades económicas para el desarrollo rural del Estado, que permitan la generación de empleos eventuales y permanentes.
 
@@ -2370,3 +2462,19 @@ Artículo Quinto. La Secretaría de Gobierno, en coordinación con las Secretar�
 Artículo Sexto. A la brevedad posible, la Secretaría de Gobierno y la Secretaría de Seguridad Pública propondrán al titular del Poder Ejecutivo del Estado sus respectivos proyectos de modificación a los Reglamentos Interiores que rigen a cada dependencia.
 
 Artículo Séptimo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 18 DE MAYO DE 2012.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 554 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. El presupuesto, mobiliario, equipo, archivos y en general todos los recursos humanos, financieros y materiales que tenía asignados el área u órgano administrativo competente en materia de Desarrollo Forestal, adscritos e incorporados a la Secretaría de Desarrollo Agropecuario, Rural Forestal y Pesca, que por este decreto cambia de denominación por el de Secretaría de Desarrollo Agropecuario, Rural y Pesca, pasarán a la Secretaría de Medio Ambiente.
+
+Cuarto. El personal que por lo dispuesto en el presente Decreto cambie de adscripción conservará sus derechos laborales conforme a la ley.
+
+Quinto. Los procedimientos y recursos que se encuentren en trámite a la entrada en vigor de este decreto se substanciarán hasta su total conclusión, con arreglo a la ley, en la Secretaría del Medio Ambiente.
+
+Sexto. Las menciones en todo tipo de ordenamientos a la Secretaría de Desarrollo Agropecuario, Rural, Forestal y Pesca, como dependencia competente en materia forestal, se entenderán referidas a la Secretaría de Medio Ambiente, cuya normativa interior se reformará a la brevedad posible en términos del presente Decreto.
