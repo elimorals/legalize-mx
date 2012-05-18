@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-responsabilidades-de-los-servidores-publicos-del-69094"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-26"
-last_updated: "2009-06-26"
+last_updated: "2012-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE QUERETARO
 
-LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE QUERETARO
+LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 26 de junio de 2009.
 
@@ -80,6 +80,14 @@ V. El Tribunal Superior de Justicia del Estado y el órgano interno de control q
 VI. Los organismos constitucionales autónomos y el órgano interno de control que para tal efecto haya sido creado; y
 
 VII. Los demás órganos que determinen las leyes.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2012)</small>
+
+Para el caso de la fracción IV, las dependencias o unidades administrativas que, mediante ley o reglamento, actúen como órgano interno de control, dependerán, sin excepción, del Ayuntamiento que corresponda a cada municipio y contarán con autonomía técnica, a fin de asegurar la independencia e imparcialidad de sus actuaciones.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2012)</small>
+
+Los titulares de los órganos internos de control ejercerán de manera exclusiva el cargo, por lo que no podrán ser comisionados para realizar otras actividades de la entidad gubernamental de su adscripción.
 
 ###### Artículo 4.
 
@@ -271,7 +279,7 @@ Para la suspensión del ejercicio del servidor público denunciado, se requema l
 
 ###### Artículo 21.
 
-Recibida la acusación por el Tribunal Superior de Justicia del Estado,·se turnará a la Sección de Enjuiciamiento, la que emplazará a la Comisión Instructora de la Legislatura del Estado y al servidor público denunciado para que formulen sus alegatos, dentro del plazo de cinco días hábiles.
+Recibida la acusación por el Tribunal Superior de Justicia del Estado, se turnará a la Sección de Enjuiciamiento, la que emplazará a la Comisión Instructora de la Legislatura del Estado y al servidor público denunciado para que formulen sus alegatos, dentro del plazo de cinco días hábiles.
 
 Transcurrido el plazo anterior, la Sección de Enjuiciamiento formulará sus conclusiones en vista de las consideraciones hechas en la acusación y en los alegatos formulados, proponiendo, en su caso, la sanción que deba imponerse al denunciado, expresando los preceptos legales en que se funde para ello. La Sección de Enjuiciamiento podrá ordenar la práctica de cualquier diligencia que estime necesaria para integrar sus conclusiones.
 
@@ -407,7 +415,7 @@ Son sujetos de responsabilidad administrativa, todas aquellas personas a que se 
 
 ###### Artículo 41.
 
-Para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben ser observadas en el servicio publico, independientemente de las obligaciones específicas que correspondan al empleo, cargo o comisión, todo servidor publico, sin perjuicio de sus derechos y deberes laborales, tendrá las siguientes obligaciones de carácter general:
+Para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben ser observadas en el servicio público, independientemente de las obligaciones específicas que correspondan al empleo, cargo o comisión, todo servidor público, sin perjuicio de sus derechos y deberes laborales, tendrá las siguientes obligaciones de carácter general:
 
 I. Cumplir con la máxima diligencia el servicio que le sea encomendado y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio o implique abuso o ejercicio indebido de su empleo, cargo o comisión;
 
@@ -475,7 +483,7 @@ Se incurre en responsabilidad administrativa por el incumplimiento de cualquiera
 
 ###### Artículo 43.
 
-Será competente la Secretaria en funciones de auditoría, fiscalización, control, vigilancia o inspección, como instrumentos y mecanismos de que disponen en el ejercicio de sus atribuciones, actuando directamente o a través de los órganos interno de control de las dependencias o entidades paraestatales, para dar inicio al procedimiento resarcitorio cuando detecte faltas administrativas por actos u omisiones de servidores públicos en el manejo, aplicación, administración de fondos, valores y de recursos económicos del Estado o de aquellos concertados o convenidos con la Federación y los municipios, que se traduzcan en daños y perjuicios estimables en dinero, causados ala hacienda pública del Estado, municipal o al patrimonio de las entidades paraestatales.
+Será competente la Secretaria en funciones de auditoría, fiscalización, control, vigilancia o inspección, como instrumentos y mecanismos de que disponen en el ejercicio de sus atribuciones, actuando directamente o a través de los órganos interno de control de las dependencias o entidades paraestatales, para dar inicio al procedimiento resarcitorio cuando detecte faltas administrativas por actos u omisiones de servidores públicos en el manejo, aplicación, administración de fondos, valores y de recursos económicos del Estado o de aquellos concertados o convenidos con la Federación y los municipios, que se traduzcan en daños y perjuicios estimables en dinero, causados a la hacienda pública del Estado, municipal o al patrimonio de las entidades paraestatales.
 
 ###### Artículo 44.
 
@@ -491,7 +499,7 @@ Los responsables garantizarán con embargo precautorio, en forma individual, el 
 
 ###### Artículo 45.
 
-Las responsabilidades a que se refiere este Capitulo, tendrán por objeto reparar, indemnizar o resarcir los daños y perjuicios que se causen a la hacienda pública estatal o municipal, así como al patrimonio de las entidades paraestatales.
+Las responsabilidades a que se refiere este Capítulo, tendrán por objeto reparar, indemnizar o resarcir los daños y perjuicios que se causen a la hacienda pública estatal o municipal, así como al patrimonio de las entidades paraestatales.
 
 Una vez determinadas las cantidades a resarcir, éstas se harán efectivas mediante el procedimiento económico coactivo; para efectos de su ejecución en su carácter de créditos fiscales, tendrán la prelación que corresponda en los términos de los ordenamientos fiscales aplicables.
 
@@ -617,7 +625,7 @@ En estos casos, la Secretaría hará del conocimiento de los órganos mencionado
 
 ###### Artículo 60.
 
-Se prohíbe que los servidores públicos reciban para si, para su cónyuge o parientes consanguíneos hasta el cuarto grado, obsequios de los particulares respecto de los cuales, en razón de la función que tengan encomendada, haya tomado o deban tomar alguna decisión de trámite, despacho o resolución, con el ánimo de beneficiar indebidamente a éstos, dentro de un año anterior a la fecha del obsequio o dentro de un año posterior a la misma.
+Se prohíbe que los servidores públicos reciban para sí, para su cónyuge o parientes consanguíneos hasta el cuarto grado, obsequios de los particulares respecto de los cuales, en razón de la función que tengan encomendada, haya tomado o deban tomar alguna decisión de trámite, despacho o resolución, con el ánimo de beneficiar indebidamente a éstos, dentro de un año anterior a la fecha del obsequio o dentro de un año posterior a la misma.
 
 Los obsequios que se hagan de acuerdo con los supuestos anteriores, se entenderán cedidos al patrimonio del Estado, del Municipio o de los organismos auxiliares, en su caso, debiendo los servidores públicos hacer entrega de ellos a los órganos internos de control, dentro de los diez días siguiente a su recepción.
 
@@ -699,7 +707,7 @@ I. Para conocer de los procedimientos disciplinarios, atendiendo a la gravedad d
 
 Para calificar la gravedad de la conducta ilícita, la resolución fundada y motivada de la autoridad atenderá a la cuantía del daño patrimonial causado, al beneficio personal indebidamente obtenido o a la deficiencia en la prestación del servicio público, dolosamente causada por la acción u omisión del servidor público; y
 
-II. Para conocer de los procedimientos resarcitorios previstos en el articulo 43 de esta Ley, cuando el monto del daño o perjuicio causado no exceda de quinientas veces el salario mínimo general diario vigente en la zona.
+II. Para conocer de los procedimientos resarcitorios previstos en el artículo 43 de esta Ley, cuando el monto del daño o perjuicio causado no exceda de quinientas veces el salario mínimo general diario vigente en la zona.
 
 Cuando dicho monto sea rebasado el órgano interno de control remitirá a la Secretaría las actuaciones que haya realizado para su intervención en los términos del párrafo anterior.
 
@@ -815,7 +823,7 @@ Se levantará acta circunstanciada de todas las diligencias que se practiquen, r
 
 ###### Artículo 82.
 
-Las resoluciones y acuerdos que emitan los órganos disciplinarios durante el procedimiento al que se refiere este Capitulo, constarán por escrito.
+Las resoluciones y acuerdos que emitan los órganos disciplinarios durante el procedimiento al que se refiere este Capítulo, constarán por escrito.
 
 Las resoluciones que impongan sanciones, se inscribirán en un registro que llevará la Secretaría, particularmente las de inhabilitación, remitiéndose de forma inmediata copia certificada de la misma y la debida notificación al sancionado.
 
@@ -909,7 +917,7 @@ Artículo Tercero. Los procedimientos tanto de fincamiento de responsabilidades 
 
 Artículo Cuarto. La Secretaría de la Contraloría, en un plazo no mayor de treinta días hábiles, contados a partir de la entrada en vigor de la presente, instrumentará lo necesario para que los servidores públicos obligados a la presentación manifestación de bienes, tengan a su disposición, en los medios electrónicos, los formatos respectivos para el cumplimiento de su obligación.
 
-Articulo Quinto. Los convenios que haya celebrado la Secretaría de la Contraloría con las instituciones para la presentación de manifestación bienes por medios electrónicos, se podrán seguir aplicando, en tanto no contravengan la presente Ley.
+Artículo Quinto. Los convenios que haya celebrado la Secretaría de la Contraloría con las instituciones para la presentación de manifestación bienes por medios electrónicos, se podrán seguir aplicando, en tanto no contravengan la presente Ley.
 
 Artículo Sexto. Los Ayuntamientos del Estado de Querétaro, en uso de las facultades que les confiere el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, deberán emitir las disposiciones reglamentarias que sean exclusivas de su competencia, hasta en tanto, deberán sujetarse a las bases que señala la presente Ley.
 
@@ -950,3 +958,11 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE MAYO DE 2012.
+
+Artículo Primero. Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía.
