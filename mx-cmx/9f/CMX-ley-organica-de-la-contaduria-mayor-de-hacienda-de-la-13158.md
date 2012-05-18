@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-contaduria-mayor-de-hacienda-de-la-13158"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-27"
-last_updated: "2009-07-13"
+last_updated: "2012-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13158&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "1999-01-15"
 ---
 # LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
+LEY ORGÁNICA DE LA CONTADURÍA MAYOR DE HACIENDA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE JULIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE MAYO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal el 27 de enero de 1999 y republicada el 8 de febrero de 1999.
 
@@ -78,9 +78,9 @@ VI. Contador Mayor: El Titular de la Contaduría Mayor de Hacienda de la Asamble
 
 VII. Contraloría: Órgano de Control Interno del sujeto de fiscalización;
 
-> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-VIII. Código: Código Financiero del Distrito Federal;
+VIII. Código: Código Fiscal del Distrito Federal;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 13 DE JULIO DE 2009)</small>
 
@@ -94,7 +94,9 @@ a. La Administración Pública del Distrito Federal como se establece en el Titu
 
 b. Los órganos autónomos señalados en el Código;
 
-c. Cualquier entidad, persona física o moral, pública o privada que haya recaudado, administrado, manejado o ejercido recursos públicos del Distrito Federal; y
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
+
+c. Cualquier entidad, persona física o moral, pública o privada que hubiera contratado con los sujetos de fiscalización obras públicas, bienes o servicios mediante cualquier título legal y/o que haya recaudado, administrado, manejado o ejercido recursos públicos del Distrito Federal; y
 
 d. Los mandatarios, fiduciarios o cualquier otra figura análoga, así como el mandato o fideicomiso público o privado que administre, cuando haya recibido por cualquier título, recursos públicos;
 
@@ -108,11 +110,19 @@ XII. Ley: Ley Orgánica de la Contaduría Mayor de Hacienda de la Asamblea Legis
 
 > <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-XIII. Reglamento: Reglamento Interior de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal; y
+XIII. Reglamento: Reglamento Interior de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal; y (sic)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 13 DE JULIO DE 2009)</small>
 
 XIV. Informe de Resultados: Informe de Resultados de la Revisión de la Cuenta Pública del Distrito Federal.
+
+> <small>(ADICIONADA, G.O. 18 DE MAYO DE 2012)</small>
+
+XV. Fiscalización: Facultad de la Asamblea que ejerce a través de la Contaduría, consistente en revisar y evaluar a los Sujetos de Fiscalización, pronunciándose respecto de la aplicación de los recursos públicos, ingreso y gasto públicos y operaciones concluidas; y
+
+> <small>(ADICIONADA, G.O. 18 DE MAYO DE 2012)</small>
+
+XVI. Gestión: La actividad de los Sujetos de Fiscalización, que regulan las Leyes en materia de Contabilidad Gubernamental respecto de la administración, manejo, custodia y aplicación de los ingresos, egresos, fondos y en general, de los recursos públicos que éstos utilicen para la consecución de los objetivos contenidos en los programas aprobados, en el periodo que corresponde a una Cuenta Pública, sujeta a la revisión posterior de la Asamblea, a través de la Contaduría.
 
 > <small>(REFORMADO, G.O. 13 DE JULIO DE 2009)</small>
 
@@ -132,13 +142,13 @@ La Contaduría en el desempeño de sus atribuciones tendrá el carácter de auto
 
 La Contaduría remitirá a la Asamblea por conducto de la Comisión el resultado de la Revisión de la Cuenta Pública, de las auditorías practicadas, y en su caso, de las irregularidades administrativas, deficiencias o hallazgos producto de las mismas.
 
-> <small>(REFORMADO, G.O. 13 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
 ###### Artículo 5o.
 
-Corresponde al Contador Mayor la expedición del Reglamento Interior de la Contaduría en el que se establecerán sus atribuciones, la de las unidades administrativas, las suplencias y ausencias de sus Titulares; salvaguardando la autonomía técnica y de gestión que constitucionalmente se le confiere a la Contaduría; debiendo ser publicado el Reglamento Interior en la Gaceta Oficial del Distrito Federal.
+Corresponde al Contador Mayor la aprobación y expedición del Reglamento Interior de la Contaduría en el que se establecerán sus atribuciones, las de las unidades administrativas, las suplencias y ausencias de sus Titulares; salvaguardando la autonomía técnica y de gestión que constitucionalmente se le confiere a la Contaduría; debiendo ser publicado el Reglamento Interior en la Gaceta Oficial del Distrito Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### Artículo 6o.
 
@@ -146,9 +156,13 @@ La Asamblea establecerá la comunicación y coordinación necesarias con la Cám
 
 La Asamblea también establecerá comunicación con las legislaturas de los estados, para los mismos efectos señalados en el párrafo anterior, en relación con el cabal cumplimiento de los convenios y acuerdos de coordinación celebrados por el Distrito Federal con entidades federativas.
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
 
-La Contaduría vigilará que los sujetos de fiscalización, atiendan las observaciones y solventen las recomendaciones que se les formulen conforme al artículo 25 del Estatuto de Gobierno del Distrito Federal, sobre la correcta aplicación de los recursos provenientes del endeudamiento del Distrito Federal, que se incluirán anualmente en su informe de resultados. Para lo cual la Contaduría llevará a cabo acciones para dar seguimiento puntual sobre las recomendaciones emitidas, e informará a la Comisión sobre el avance de las acciones, así como, de la atención de las recomendaciones, presentando a la Comisión, el Programa de Atención a Recomendaciones correspondiente.
+La Contaduría, vigilará que los sujetos de fiscalización, adopten e implementen las acciones y medidas que permitan solventar las observaciones y recomendaciones que formule conforme a la Ley y formen parte del Informe de Resultados; para tal efecto, implementará el Programa de Atención y seguimiento de Recomendaciones y se coordinará para su seguimiento y cumplimiento con la Contraloría.
+
+> <small>(ADICIONADO, G.O. 18 DE MAYO DE 2012)</small>
+
+Los Sujetos de Fiscalización deberán informar y acreditar a la Contaduría, trimestralmente, las acciones que realicen con el objetivo de solventar las recomendaciones que ésta les formule; en caso de omisión, la Contaduría informará a la Contraloría, para que dentro del ámbito de su competencia determine lo conducente.
 
 > <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
 
@@ -168,7 +182,7 @@ Corresponde a la Contaduría, el ejercicio de las siguientes atribuciones:
 
 I. Revisar la Cuenta Pública;
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE ENERO DE 2004)</small>
 
 II. Verificar si, una vez que ha sido presentada la Cuenta Pública, los sujetos de fiscalización:
 
@@ -176,21 +190,23 @@ II. Verificar si, una vez que ha sido presentada la Cuenta Pública, los sujetos
 
 a) Realizaron sus operaciones, en lo general y en lo particular, con apego al Estatuto de Gobierno, al Código, a la Ley de Ingresos y al Presupuesto de Egresos del Distrito Federal; si cumplieron con las disposiciones de la Ley Orgánica de la Administración Pública del Distrito Federal y demás ordenamientos aplicables en la materia;
 
-b) Ejercieron correcta y estrictamente sus presupuestos conforme a los programas y subprogramas aprobados;
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
+
+b) Ejercieron correcta y estrictamente su presupuesto conforme a las funciones y subfunciones aprobadas, y con la periodicidad y formas establecidas por la Ley.
 
 c) Ajustaron y ejecutaron los programas de inversión en los términos y montos aprobados y de conformidad con sus partidas; y
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
 
 d) Aplicaron los recursos, conforme a la periodicidad y formas establecidas por la Ley.
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-III. Establecer las normas, sistemas, métodos y procedimientos para la revisión de la Cuenta Pública;
+III. Establecer las normas, sistemas, métodos, criterios y procedimientos para la revisión y fiscalización de la Cuenta Pública;
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-IV. Verificar que la Cuenta Pública sea presentada de conformidad con los principios de contabilidad generalmente aceptados que resulten aplicables al Sector Público;
+IV. Verificar que la Cuenta Pública sea presentada de conformidad con los ordenamientos en materia de Contabilidad y Auditoría Gubernamental, y demás ordenamientos de observancia obligatoria.
 
 > <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
 
@@ -214,9 +230,9 @@ IX. Conforme a lo dispuesto en la fracción precedente, realizar la inspección 
 
 X. Requerir a los auditores externos de los sujetos de fiscalización, copias de los informes o dictámenes de las auditorías y revisiones por ellos practicadas y las aclaraciones, que en su caso, se estimen pertinentes;
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE MAYO DE 2012)</small>
 
-XI. Establecer la coordinación con los sujetos de fiscalización para la estricta observancia y aplicación de las normas, sistemas y métodos procedimientos de contabilidad y archivo integral; así como los documentos relativos al ingreso y gasto público. También, considerar todos aquellos elementos que sustenten y justifiquen revisiones derivadas del análisis previo de la Cuenta Pública, así como de revisiones especiales que se estimen procedentes por mandato expreso del Pleno a través de la Comisión, para lo cual todas las revisiones que se determinen deberán incluirse en el Programa General de Auditorías que se sujetará a lo establecido en el manual de selección de auditorías aprobado y expedido por el Contador Mayor.
+XI. Establecer la coordinación con los sujetos de fiscalización para la estricta observancia y aplicación de las normas, sistemas y métodos procedimientos de contabilidad y archivo integral; así como los documentos relativos al ingreso y gasto público. También, considerar todos aquellos elementos que sustenten y justifiquen revisiones derivadas del análisis previo de la Cuenta Pública, así como de revisiones especiales que el Pleno de la Asamblea solicite a través de la Comisión en términos de la presente ley, para lo cual todas las revisiones que se determinen deberán incluirse en el Programa General de Auditorías que se sujetará a lo establecido en el manual de selección de auditorías aprobado y expedido por el Contador Mayor.
 
 > <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
 
@@ -230,11 +246,19 @@ XII. Solicitar, en su caso, a terceros que hubieran contratado bienes o servicio
 
 XIII. Emitir las recomendaciones, dictámenes técnicos y pliegos de observaciones procedentes, derivados de la revisión de la Cuenta Pública, así como los informes de las auditorías practicadas;
 
-XIV. Verificar el otorgamiento de cauciones o garantías, de modo que éstas se ajusten a los criterios señalados para determinar los montos y tiempos en los términos de la presente Ley;
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
+
+XIV. En la revisión de la Cuenta Pública e informes de auditorías practicadas, incluye verificar que el otorgamiento de cauciones o garantías, se ajuste a los criterios señalados para determinar los montos y tiempos en los términos de la presente Ley;
 
 XV. Interpretar esta Ley para efectos administrativos, y aclarar y resolver las consultas sobre la aplicación del Reglamento;
 
-XVI. (DEROGADA, G.O. 13 DE ENERO DE 2004)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 18 DE MAYO DE 2012)</small>
+
+XVI. Establecer las normas, procedimientos, métodos, sistemas de contabilidad y archivo, de libros, documentos justificativos y comprobatorios del ingreso y gasto público, así como todos aquellos elementos que permitan la práctica idónea de las auditorías y revisiones, de conformidad con las características propias de su operación, ajustándose a la legislación aplicable;
+
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
+
+XVII. Llevar a cabo, en forma adicional a su programa anual de trabajo, la práctica de visitas, inspecciones, evaluaciones, revisiones y auditorías especiales a los sujetos de fiscalización comprendidos en la Cuenta Pública en revisión, cuando así lo solicite el Pleno de la Asamblea, en términos de la presente ley, y exista causa justificada, viabilidad técnica y capacidad instalada para su atención; para tal efecto, la Asamblea, implementará acciones para dotar a la Contaduría de los recursos que se requieran;
 
 > <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
@@ -244,21 +268,45 @@ XVII. Llevar a cabo, en forma adicional a su programa anual de trabajo, la prác
 
 XVIII. Vigilar que los sujetos de fiscalización, atiendan las observaciones y solventen las recomendaciones que se les formulen. Para lo cual llevará a cabo acciones para dar seguimiento puntual sobre las recomendaciones emitidas e informará a la Comisión sobre el avance de las acciones, así como de la atención de las recomendaciones; para ello elaborará y presentará a la Comisión, el Programa de Atención a Recomendaciones correspondiente, y
 
-> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-XIX. Todas las demás que le correspondan de acuerdo con esta Ley, su Reglamento y las demás disposiciones de orden público y observancia obligatoria.
+XIX. Requerir a los sujetos de fiscalización y/o autoridades competentes y/o terceros la información y documentación relacionada con la revisión de la Cuenta Pública, a fin de realizar diligencias, actuaciones, compulsas y certificaciones que en cumplimiento de sus funciones corresponda;
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(ADICIONADA, G.O. 18 DE MAYO DE 2012)</small>
+
+XX. Revisar de manera concreta información y documentos relacionados con conceptos específicos de gasto correspondientes a ejercicios anteriores al de la Cuenta Pública en revisión, cuando la actividad institucional, programa o proyecto contenido en el presupuesto aprobado, abarque para su ejecución y pago diversos ejercicios fiscales; lo anterior, sin perjuicio del principio de anualidad tutelado por los artículos 74, fracción VI, 122 apartado C, Base Primera, Fracción V, inciso c), de la Constitución Política de los Estados Unidos Mexicanos y 43 del Estatuto de Gobierno del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 18 DE MAYO DE 2012)</small>
+
+XXI. Practicar auditorías al desempeño, a efecto de verificar el cumplimiento de los objetivos contenidos en los programas mediante la estimación o cálculo de los resultados obtenidos en términos cualitativos o cuantitativos, o ambos;
+
+> <small>(ADICIONADA, G.O. 18 DE MAYO DE 2012)</small>
+
+XXII. Todas las demás que le correspondan de acuerdo con esta Ley, su Reglamento y demás disposiciones de orden público y observancia obligatoria.
+
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
 
 ###### Artículo 9o.
 
-Cuando alguno de los entes sujetos de fiscalización se negare a proporcionar la información solicitada por la Contaduría, o no permitiere la revisión de los libros, registros, instrumentos, sistemas, procedimientos y documentos comprobatorios y justificativos del ingreso y del gasto público, la práctica de visitas, inspecciones, auditorias, podrá solicitar al órgano de control respectivo la aplicación de las medidas de apremio previstas en la Ley Federal de Responsabilidades de los Servidores Públicos y lo hará del conocimiento de la Asamblea por conducto de la Comisión para que resuelva lo procedente.
+Los sujetos de fiscalización deben proporcionar a la Contaduría contratos, convenios, documentos, datos libros, archivos, información y/o documentación justificativa y comprobatoria de la Cuenta Pública relativa al ingreso, gasto público y cumplimiento de los objetivos de los programas de los sujetos de fiscalización, así como la demás información que resulte necesaria para la revisión y fiscalización de la Cuenta Pública; para tal efecto se encuentran obligados a conservarla de manera ordenada y sistemática en original y/o copia certificada durante los términos que determinen las leyes y normas que regulan la conservación y preservación de archivos públicos.
 
-Si una vez aplicada la medida de apremio, la negativa a atender los requerimientos persiste, ésta podrá solicitar a la autoridad competente el inicio del procedimiento correspondiente.
+El plazo para la entrega de documentación e información a que se refiere el párrafo anterior será de un mínimo de tres días a un máximo de quince días hábiles.
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
+En los supuestos que la información y/o documentación no sea proporcionada, o no se conserve, se tendrán por no desvirtuadas las irregularidades relacionadas presumiendo su existencia, salvo prueba en contrario.
 
-El mismo procedimiento se seguirá en el caso de las instituciones o personas que hubieren recibido subsidios, transferencias, concesiones o permisos de los sujetos de fiscalización, cuando éstos hubieren incurrido en los actos u omisiones que se establecen en el primer párrafo del presente artículo.
+La Contaduría aplicará los medios de apremio que estime necesarios y solicitará a la autoridad competente el inicio del procedimiento correspondiente, cuando un servidor público y/o particular sea omiso, obstaculice, impida o se oponga a:
+
+I. La revisión de libros, registros, instrumentos, sistemas, procedimientos y documentos comprobatorios y justificativos del ingreso y gasto público;
+
+II. La práctica de visitas, inspecciones o auditorías;
+
+III. Cumplir o pretenda evadir los requerimientos que la Contaduría le formule o se abstenga de exhibir la documentación y/o información requerida;
+
+IV. Dar seguimiento y solventar las recomendaciones que la Contaduría le formule; e
+
+V. Informar a la Contaduría la atención y seguimiento de las Recomendaciones formuladas;
+
+El mismo procedimiento se seguirá en el caso de las instituciones o personas que hubieren recibido subsidios, transferencias, concesiones o permisos de los sujetos de fiscalización, cuando éstos hubieren incurrido en los actos u omisiones que se establecen en el presente artículo.
 
 > <small>(REFORMADO, G.O. DE FEBRERO DE 2007)</small>
 
@@ -308,7 +356,7 @@ En caso de renuncia o ausencia por más de treinta días del Secretario Técnico
 
 El Enlace Legislativo será designado por la Comisión de conformidad con el procedimiento señalado en el Reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 11.
 
@@ -352,7 +400,7 @@ Durante su encargo el Contador Mayor, el Subcontador Mayor, el Secretario Técni
 
 El Contador Mayor y el Subcontador Mayor el año siguiente a la terminación de su encargo, no podrán desempeñar comisiones o empleos en el Gobierno del Distrito Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 13.
 
@@ -390,7 +438,7 @@ En todos los casos las propuestas de remoción deberán estar debidamente fundad
 
 Si se presentare alguna de las causales enunciadas en las fracciones precedentes durante el receso de la Asamblea, la Comisión de Gobierno, a propuesta de las Comisiones Jurisdiccional y de Vigilancia de la Contaduría Mayor de Hacienda, podrán suspender al Contador Mayor en el ejercicio de sus funciones, para que el Pleno de la Asamblea, de conformidad con la Ley que establece el Procedimiento de Remoción de los Servidores Públicos que designa la Asamblea Legislativa del Distrito Federal y de los Titulares de los Órganos Político Administrativos del Distrito Federal, por la mayoría calificada que lo designo, apruebe su remoción en forma definitiva en el siguiente período ordinario de sesiones.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 14.
 
@@ -422,9 +470,9 @@ V. Informar trimestralmente por escrito a la Comisión el avance y resultado del
 
 VI. Asistir ante la Comisión, para la presentación del Programa General de Auditoria, del Informe de Resultados y de aquellos asuntos que previo acuerdo de la Comisión, sean considerados de carácter urgente y se tengan que desahogar de forma personal, fuera de dichos casos, todo asunto será recabado por el Enlace Legislativo, y desahogado por el equipo técnico que designe el Contador Mayor;
 
-> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-VII. Celebrar convenios de coordinación o colaboración con los Poderes de la Unión, Gobiernos estatales y municipales, así como, con los organismos internacionales que agrupen a entidades de fiscalización superior homólogas, con éstas directamente y con el sector privado;
+VII. Celebrar convenios de coordinación o colaboración con órganos públicos Federales, Estatales, Municipales y del Distrito Federal; personas físicas o morales del sector privado, Instituciones Educativas, Entidades de Fiscalización y organismos internacionales que agrupen a entidades homólogas y demás que coadyuven con los fines constitucionales y legales de la Contaduría;
 
 > <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
@@ -434,23 +482,23 @@ VIII. Comisionar auditores en términos del artículo 32 de este ordenamiento;
 
 IX. Nombrar al personal de la Contaduría;
 
-> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-X. Elaborar el Presupuesto Anual de la Contaduría y presentarlo a la Comisión;
+X. Aprobar el Proyecto de Presupuesto Anual de la Contaduría y presentarlo a la Comisión, para su conocimiento y opinión. Una vez conocido, la Comisión lo turnará a la Comisión de Gobierno para que se presente de forma consolidada en el Proyecto de Presupuesto de la Asamblea Legislativa del siguiente ejercicio fiscal;
 
 > <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
 XI. Presentar trimestral y anualmente a la Comisión, un informe sobre el origen y la aplicación del presupuesto de la Contaduría;
 
-> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-XII. Presentar trimestral y anualmente a la Asamblea, un informe de gestión del período, que se enviara por conducto de la Comisión dentro de los treinta días siguientes al término del período que se refiere;
+XII. Presentar trimestral y anualmente a la Comisión, un informe de gestión del período, dentro de los treinta días siguientes al término del período que se refiere;
 
-> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-XIII. Formular y presentar a la Comisión, en un plazo no mayor de treinta días naturales contados a partir de que la Contaduría reciba la Cuenta Pública por parte de la Comisión, el Programa General de Auditoria;
+XIII. Formular, aprobar y presentar a la Comisión, en un plazo no mayor de treinta días naturales contados a partir de que la Contaduría reciba la Cuenta Pública por parte de la Comisión, el Programa General de Auditoría;
 
-La selección de las auditorías se llevará a cabo de conformidad con el Manual que apruebe y expida el Contador Mayor;
+La selección de las auditorías se llevará a cabo de conformidad con el Manual que apruebe y expida el Contador Mayor.
 
 > <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
@@ -492,9 +540,9 @@ XIX. Adscribir unidades o áreas administrativas al Subcontador Mayor o a otras 
 
 XX. Solicitar a los Entes Públicos del Distrito Federal el auxilio que necesite para el ejercicio expedito de las funciones que la Ley y demás normas de orden público confieren a la Contaduría;
 
-> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-XXI. Aprobar el Programa General de Auditorías de la Contaduría;
+XXI. Concluida la Revisión de la Cuenta Pública del ejercicio respectivo, autorizar la difusión y publicación del Informe de Resultados y del Programa General de Auditorías;
 
 > <small>(ADICIONADA, G.O. 13 DE JULIO DE 2009)</small>
 
@@ -504,27 +552,31 @@ XXII. Administrar los bienes y recursos a cargo de la Contaduría y resolver sob
 
 XXIII. En general, todas las que deriven de esta Ley, de su Reglamento y de las disposiciones generales y acuerdos que dicte la Asamblea.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 18 DE MAYO DE 2012)</small>
+
 ###### Artículo 15.
 
-(DEROGADO, G.O. 2 DE FEBRERO DE 2007)
+Para el cumplimiento de las atribuciones que le confiere esta Ley, el Código y demás normas de orden público, la Contaduría, previo apercibimiento empleará indistintamente como medida de apremio la sanción económica de veinte a ciento ochenta días de salario mínimo general vigente en el Distrito Federal, cantidad que será duplicada en caso de reincidencia.
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
+Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que prevenga la legislación penal del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
 
 ###### Artículo 16.
 
-El Contador Mayor será auxiliado en sus funciones por el Subcontador Mayor, el Secretario Técnico, el Enlace Legislativo, los directores generales, directores de área, subdirectores, jefes de departamento, auditores, supervisores, coordinadores, asesores y trabajadores que se requieran para el cumplimiento de sus atribuciones, con las categorías que prevé el Reglamento.
+El Contador Mayor será auxiliado en sus funciones por el Subcontador Mayor, el Secretario Técnico, el Enlace Legislativo, los Directores Generales, Directores de Área, Subdirectores, Jefes de Departamento, Auditores, Supervisores, Coordinadores, Asesores y demás trabajadores que se requieran para el cumplimiento de sus atribuciones, con las categorías que prevea el Reglamento y Acuerdos que al respecto emita el Contador Mayor.
 
-Corresponde al Contador Mayor delegar en los servidores públicos a que se refiere el párrafo anterior, cualquiera de sus atribuciones, excepto aquellas que por disposición de la Ley o del Reglamento, deban ser ejercidas directamente por dichos titulares.
+El Contador Mayor podrá delegar atribuciones, a excepción de aquellas que deban ser ejercidas directamente por disposición de la Ley o del Reglamento por ser indelegables.
 
 El Subcontador Mayor, el Secretario Técnico y el Enlace Legislativo tendrán las atribuciones señaladas en el Reglamento.
 
-Los mandatos por los cuales se deleguen facultades o se adscriban unidades administrativas se publicarán para su observancia en la Gaceta Oficial del Distrito Federal, informando de ellos a la Comisión previamente a su publicación.
+Los mandatos por los cuales se deleguen facultades o se adscriban unidades administrativas se publicarán para su observancia en la Gaceta Oficial del Distrito Federal.
 
 ###### Artículo 17.
 
 El Reglamento fijará las unidades administrativas de la estructura orgánica así como las funciones y atribuciones de cada uno de los titulares de las mismas.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 13 DE ENERO DE 2004)</small>
 
 ### CAPÍTULO TERCERO. DE LA CONTRALORÍA GENERAL DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
@@ -536,7 +588,7 @@ Las funciones de control y evaluación del desempeño de la Contaduría las ejer
 
 ### CAPÍTULO CUARTO. DE LA COMISIÓN DE VIGILANCIA DE LA CONTADURÍA MAYOR DE HACIENDA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE JULIO DE 2009)</small>
 
 ###### Artículo 19.
 
@@ -546,17 +598,15 @@ I. Recibir de la Comisión de Gobierno de la Asamblea, la Cuenta Pública;
 
 II. Turnar la Cuenta Pública a la Contaduría para su revisión, así como a la Comisión de Presupuesto y Cuenta Pública, para su conocimiento;
 
-> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-III. Solicitar a la Contaduría con relación a la Cuenta Pública en revisión, cuando lo determine el Pleno de la Asamblea informes o aclaraciones respecto de actividades de los sujetos de fiscalización, para lo cual la Contaduría podrá realizar la práctica de visitas, inspecciones, evaluaciones, revisiones y auditorías a los sujetos de fiscalización, mismas que deberán estar plenamente justificadas;
+III. Solicitar a la Contaduría con relación a la Cuenta Pública en revisión, cuando lo determine el Pleno de la Asamblea en términos de la presente ley, informes o aclaraciones respecto de actividades de los sujetos de fiscalización, para lo cual la Contaduría podrá realizar la práctica de visitas, inspecciones, evaluaciones, revisiones y auditorías a los sujetos de fiscalización, mismas que deberán estar plenamente justificadas;
 
-> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
+IV. (DEROGADA, G.O. 18 DE MAYO DE 2012)
 
-IV. Presentar a la Comisión de Presupuesto y Cuenta Pública de la Asamblea, antes del 30 de septiembre siguiente de haber recibido la Cuenta Pública, el Informe Previo, cuyas principales observaciones estarán vinculadas con el Programa General de Auditoría que presente el Contador Mayor;
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
-
-V. Presentar a la Asamblea el presupuesto anual de la Contaduría, para los efectos legales conducentes;
+V. Conocer y opinar respecto del Proyecto de Presupuesto de la Contaduría y turnarlo a la Comisión de Gobierno para su presentación de forma consolidada en el Proyecto de Presupuesto de la Asamblea;
 
 > <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
@@ -574,9 +624,9 @@ VIII. Coordinar la realización de los estudios, proyectos de análisis y evalua
 
 IX. Evaluar el cumplimiento de funciones de la Contaduría en términos del Estatuto de Gobierno del Distrito Federal, del Código, de esta Ley, de su Reglamento, o de cualquier otra disposición de orden público;
 
-> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-X. Recibir de la Contaduría el Programa General de Auditorías;
+X. Conocer el Programa General de Auditorías y emitir la opinión correspondiente, dentro del plazo de 15 días naturales siguientes a su presentación. Dicha opinión se emitirá de conformidad con los principios de autonomía técnica y de gestión y revestirá la manifestación de que se tiene por conocido y presentado el Programa General de Auditoría;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 13 DE JULIO DE 2009)</small>
 
@@ -594,9 +644,9 @@ XIII. Designar al Secretario Técnico de la Contaduría de acuerdo a las tres ca
 
 XIV. Designar al Enlace Legislativo en los términos del Reglamento;
 
-> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-XV. Promover la difusión para el conocimiento ciudadano de los resultados de la Cuenta Pública;
+XV. Promover la difusión, para el conocimiento ciudadano, de los resultados de la Revisión de la Cuenta Pública y el Informe de Resultados;
 
 > <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
@@ -614,7 +664,7 @@ XVIII. (DEROGADA, G.O. 13 DE JULIO DE 2009)
 
 Las relaciones de trabajo entre la Contaduría y sus trabajadores, se regirán conforme a lo dispuesto por la fracción XIV del Apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE JULIO DE 2009)</small>
 
 ###### Artículo 21.
 
@@ -636,81 +686,89 @@ La Cuenta Pública se constituye por los estados contables, financieros, presupu
 
 La Cuenta Pública deberá presentarse a la Asamblea en forma impresa y en medios magnéticos que permitan el uso de la tecnología de la información y faciliten el procesamiento de datos.
 
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
+
 ###### Artículo 23.
 
 La Cuenta Pública que el Jefe de Gobierno del Distrito Federal presente a la Asamblea, a través de la Comisión de Gobierno, será turnada por conducto de la Comisión a la Contaduría para su revisión.
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
-
-La Contaduría deberá presentar su Programa General de Auditorías a la Comisión, en los términos del artículo 19, fracción XII de esta Ley.
-
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
 
 ###### Artículo 24.
 
-Los sujetos de fiscalización una vez presentada la Cuenta Pública, pondrán a disposición de la Contaduría, los datos, libros y documentos justificativos y comprobatorios del ingreso y del gasto público que manejen, así como los registros de los programas y subprogramas correspondientes para la evaluación de su cumplimiento.
+La Contaduría tendrá acceso a datos, libros, información, y documentación justificativa y comprobatoria relativa al ingreso y gasto público de Sujetos de Fiscalización, así como a la demás información que resulte necesaria, en consecuencia, los sujetos de fiscalización una vez presentada la Cuenta Pública, deberán poner a disposición de la Contaduría, los datos, libros y documentos justificativos y comprobatorios del ingreso y del gasto público que manejen, así como los registros de los programas y subprogramas correspondientes para la evaluación de su cumplimiento.
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+La Contaduría tendrá acceso a la información que las disposiciones legales consideren como de carácter reservado o confidencial, cuando esté relacionada directamente con el ejercicio y aplicación de los ingresos y egresos sujetos a revisión, estando obligada a mantener la misma reserva o secrecía.
+
+Los servidores públicos de la Contaduría, así como los profesionales contratados para la práctica de auditorías, están obligados a guardar la reserva que esta Ley determina respecto de la información y documentación que proporcionen los sujetos de fiscalización o terceros.
+
+En la Revisión de la Cuenta Pública, los órganos de control interno de los Sujetos de Fiscalización, deberán colaborar con la Contaduría, estableciendo la coordinación correspondiente a fin de garantizar el debido intercambio de información que al efecto se requiera, otorgando las facilidades que permitan a los auditores llevar a cabo el ejercicio de sus funciones y proporcionar la documentación que les solicite la Contaduría sobre los resultados de la fiscalización que realicen o cualquier otra que se les requiera.
+
+La información y datos que en términos del párrafo anterior se proporcionen, son de carácter reservado y confidencial, por lo que será utilizada exclusivamente para los fines que esta Ley y demás ordenamientos aplicables determinen.
+
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
 
 ###### Artículo 25.
 
-Los sujetos de fiscalización conservarán en su poder los libros y registros de contabilidad por el período fijado por la Ley, así como la información financiera correspondiente; y la Contaduría conservará el Informe de Resultados de la Revisión de la Cuenta Pública; los primeros conservarán en su poder los documentos justificativos y comprobatorios de la Cuenta Pública, mientras no prescriban las acciones derivadas de las operaciones en ellos consignadas y de esta Ley; y la Contaduría las recomendaciones y los dictámenes técnicos correctivos que formule, así como su registro y seguimiento respectivo.
+Durante el periodo fijado por las leyes en materia de conservación y preservación de archivos públicos, demás normas de orden público y observancia obligatoria:
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
+I. Los Sujetos de Fiscalización conservarán en su poder:
+
+a.- Los libros y registros de contabilidad e información financiera correspondiente; y
+
+b.- Los documentos justificativos y comprobatorios de la Cuenta Pública.
+
+II. La Contaduría conservará:
+
+a.- El Informe de Resultados y las opiniones de la Revisión de la Cuenta Pública; y
+
+b.- Las Recomendaciones, dictámenes técnicos correctivos que emita y Papeles de Trabajo de las auditorías que practique, así como su registro y seguimiento respectivo.
+
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
 
 ###### Artículo 26.
 
-La Contaduría y la Secretaría de Finanzas, determinarán de común acuerdo los documentos justificativos y comprobatorios de la Cuenta Pública que deban conservarse, microfilmarse o destruirse, para lo cual se tomará en cuenta lo que establece la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal. Sobre el acuerdo referido se hará del conocimiento de la Comisión oportunamente.
+La Contaduría y la Secretaría de Finanzas, dentro del ámbito de sus respectivas competencias, sujetándose a las disposiciones legales establecidas en la materia, determinarán los documentos justificativos y comprobatorios de la Cuenta Pública que deban conservarse, microfilmarse o destruirse, y expedirán las bases y normas de su baja, destrucción, guarda, custodia, conservación, microfilmación o procesamiento electrónico, sujetándose a las normas de orden público de la materia.
+
+Los microfilms y los archivos guardados mediante procesamiento electrónico a que se refiere el párrafo anterior, tendrán el valor que, en su caso, establezcan las disposiciones legales aplicables a las operaciones en ellos consignadas.
 
 ### CAPÍTULO SÉPTIMO. DE LA REVISIÓN DE LA CUENTA PÚBLICA DEL GOBIERNO DEL DISTRITO FEDERAL
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
 
 ###### Artículo 27.
 
-Una vez presentada la Cuenta Pública, la Contaduría en el cumplimiento de las atribuciones que le confieren los artículos 8 y 28 de esta Ley, goza de facultades para revisar toda clase de libros, registros, instrumentos, sistemas, procedimientos, documentos y objetos, practicar visitas, inspecciones, auditorías, revisiones, compulsas y, en general, recabar los elementos de información necesarios para cumplir con sus funciones.
+Presentada la Cuenta Pública, la Contaduría en el cumplimiento de las atribuciones que le confiere la presente Ley y demás normas de orden público, goza de facultades para revisar toda clase de libros, registros, instrumentos, sistemas, procedimientos, documentos y objetos, practicar visitas, inspecciones, auditorías, revisiones, compulsas, certificaciones, diligencias, levantar actas circunstanciadas y, en general, recabar los elementos de información y prueba necesarios para cumplir con sus funciones.
+
+Para tal efecto, podrá servirse y auxiliarse de cualquier medio lícito que conduzca al esclarecimiento de los hechos, así como aplicar, técnicas y procedimientos de auditoría y evaluación que estime necesarios.
+
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
 
 ###### Artículo 28.
 
-La revisión de la Cuenta Pública tendrá por objeto determinar el resultado de la gestión financiera en el ejercicio al que corresponda la Cuenta Pública y si fue congruente con el Código, la Ley de Ingresos y el Presupuesto de Egresos del Distrito Federal, así como con los programas y demás disposiciones aplicables.
+La revisión de la Cuenta Pública tendrá por objeto determinar el resultado de la gestión financiera así como verificar el cumplimiento de los objetivos contenidos en los programas, en el ejercicio al que corresponda la Cuenta Pública, y si fue congruente con el Código, la Ley de Ingresos y el Presupuesto de Egresos del Distrito Federal, así como con los programas y demás disposiciones aplicables.
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
+La revisión no sólo comprenderá la conformidad de las partidas de ingresos y egresos, sino que se extenderá a una revisión legal, de gestión, programática, económica y contable del ingreso y del gasto públicos, y verificará la exactitud y la justificación de los cobros y pagos hechos, de acuerdo con los precios y tarifas autorizados o de mercado y de las cantidades erogadas, siempre vigilando que se obtengan mejores condiciones de precio, calidad y oportunidad.
 
-La revisión no sólo comprenderá la conformidad de las partidas de ingresos y egresos, sino que se extenderá a una revisión legal, económica y contable del ingreso y del gasto públicos, y verificará la exactitud y la justificación de los cobros y pagos hechos, de acuerdo con los precios y tarifas autorizados o de mercado y de las cantidades erogadas, siempre vigilando que se obtengan mejores condiciones de precio, calidad y oportunidad.
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
 
 ###### Artículo 29.
 
-La Contaduría practicará anualmente la revisión de la Cuenta Pública para lo cual elaborará y rendirá a más tardar el 30 de septiembre siguiente a la presentación de la Cuenta Pública, el informe previo correspondiente, a la Comisión de Presupuesto y Cuenta Pública, por conducto de la Comisión. Dicho informe deberá contener:
+La Asamblea, por acuerdo de su Pleno, podrá solicitar a la Contaduría la realización de auditorías especiales, cuando se presuma alguno de los siguientes supuestos:
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+I. Un daño patrimonial que afecte la Hacienda Pública del Distrito Federal o, en su caso, al patrimonio de los entes públicos o de las entidades paraestatales, por un monto que resulte superior a cien mil veces el salario mínimo diario general vigente en el Distrito Federal;
 
-I. El cumplimiento de los principios de contabilidad y demás disposiciones contenidas en el Código;
+II. Posibles actos de corrupción;
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+III. Desvío notorio de recursos hacia fines distintos a los que están autorizados;
 
-II. Los resultados de la gestión financiera;
+IV. La afectación de áreas estratégicas o prioritarias a la infraestructura de la Ciudad; y,
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+V. El riesgo de que se paralice la prestación de servicios públicos esenciales para la comunidad.
 
-III. La comprobación de que los sujetos de fiscalización, se ajustaron a los criterios señalados en el Código, la Ley de Ingresos y Presupuesto de Egresos del Distrito Federal y en las demás disposiciones aplicables en la materia;
+Cuando la solicitud refiera en todo o en parte recursos del ejercicio fiscal en curso, la Contaduría solicitará un informe el (sic) órgano de control interno y considerará sus resultados en la integración del Programa General de Auditorías de la Cuenta Pública correspondiente.
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
-
-IV. El cumplimiento de los objetivos y metas de los principales programas y subprogramas aprobados;
-
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
-
-V. El análisis de las variaciones presupuestales;
-
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
-
-VI. Las medidas preventivas o correctivas que se deben adoptar;
-
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2007)</small>
-
-VII. El seguimiento de medidas preventivas no atendidas, contenidas en Informes Previos de Cuentas Públicas de años anteriores, así como las acciones realizadas por la Contaduría para que los sujetos de fiscalización atiendan con oportunidad tales medidas.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### Artículo 30.
 
@@ -728,71 +786,73 @@ IV. Determinar si cumplieron en la recaudación de los ingresos y en la aplicaci
 
 El Jefe de Gobierno del Distrito Federal a través de la dependencia correspondiente informará a la Contaduría en los términos de esta Ley, respecto de los datos contenidos en registros y documentos justificativos, comprobatorios del ingreso y del gasto público; así como los correspondientes a la información financiera y al resultado de los programas y subprogramas correspondientes.
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
 
 ###### Artículo 32.
 
-Las visitas, inspecciones y auditorías ordenadas por la Contaduría se efectuarán por auditores y personal expresamente comisionado para el efecto. Los auditores tendrán el carácter de representantes del Contador Mayor en lo concerniente a la comisión conferida.
+Las visitas, inspecciones y auditorías ordenadas por la Contaduría se efectuarán por auditores y personal expresamente comisionado para tal efecto o mediante la contratación de profesionales de auditoría independientes, habilitados por la misma para efectuar visitas o inspecciones, siempre y cuando no exista conflicto de intereses.
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+Los auditores y el personal habilitado tendrán el carácter de representantes del Contador Mayor en lo concerniente a la comisión conferida, para tal efecto, deberán presentar previamente el oficio de comisión respectivo e identificarse plenamente como personal actuante de la Contaduría.
+
+Durante sus actuaciones el personal comisionado o habilitado que intervenga en las revisiones, deberá levantar acta circunstanciada en presencia de dos testigos, en la que se harán constar los hechos y/o omisiones que hubieren encontrado. Las actas, declaraciones, manifestaciones, certificaciones, cotejos, compulsas o hechos en ellas contenidos harán prueba plena en los términos de ley.
+
+Los auditores y el personal habilitado para la práctica de auditorías, deberá guardar estricta reserva sobre la información y documentos que con motivo del objeto de esta Ley conozcan, así como de sus actuaciones y observaciones.
+
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
 
 ###### Artículo 33.
 
-A solicitud de la Contaduría, los sujetos de fiscalización le informarán, una vez presentada la Cuenta Pública, de los actos, convenios o contratos de los que les resulten derechos y obligaciones, con objeto de verificar si de sus términos y condiciones pudieran derivarse daños en contra de la Hacienda Pública del Distrito Federal, que afecten a la Cuenta Pública o impliquen incumplimiento de alguna disposición relacionada con la materia.
+Presentada la Cuenta Pública, los sujetos de fiscalización, dentro del término que determine la Contaduría, deberán informar los actos, convenios o contratos de los que resulten derechos y obligaciones, con objeto de verificar si de sus términos y condiciones pudieran derivarse daños en contra de la Hacienda Pública del Distrito Federal.
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
 
 ###### Artículo 34.
 
-Los sujetos de fiscalización están obligados a proporcionar la información que les sea requerida en los plazos y términos que señale la Contaduría, así como a permitir la práctica de visitas, inspecciones y auditorías necesarias para el esclarecimiento de los hechos.
+Los sujetos de fiscalización están obligados a proporcionar la información que les sea requerida en los plazos y términos que señale la Contaduría, así como a permitir la práctica de visitas, inspecciones, diligencias y auditorías necesarias para el esclarecimiento de los hechos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
 
 ###### Artículo 35.
 
-Si alguno de los sujetos de fiscalización se negare sin causa justificada a proporcionar la información solicitada por la Contaduría; o no permitiere la revisión de los libros, registros, instrumentos y documentos comprobatorios y justificativos del ingreso y del gasto público, la práctica de visitas, inspecciones y auditorías; ésta independientemente de las medidas de apremio, lo hará del conocimiento de la Asamblea, por conducto de la Comisión, para que resuelva lo procedente.
+Cuando injustificadamente los sujetos de fiscalización se nieguen a proporcionar la información solicitada por la Contaduría; o no permitan la revisión de los libros, registros, instrumentos, y documentos comprobatorios y justificativos del ingreso y del gasto público, la práctica de visitas, inspecciones, diligencias y auditorías; ésta independientemente de los medios de apremio que en términos de la presente ley le competen aplicar, lo hará del conocimiento de las autoridades competentes y tendrá por no desvirtuadas las irregularidades relacionadas presumiendo su existencia, salvo prueba en contrario.
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
+El mismo procedimiento se seguirá en el caso de las instituciones o personas que hubieren recibido subsidios, transferencias, concesiones o permisos de los sujetos de fiscalización, cuando éstos hubieren incurrido en los actos u omisiones que se establecen en la presente ley.
 
-El mismo procedimiento se seguirá en el caso de las instituciones o personas que hubieran recibido subsidios, transferencias, concesiones o permisos de los sujetos de fiscalización.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
 
 ###### Artículo 36.
 
-La Contaduría deberá iniciar la revisión de la Cuenta Pública, una vez que reciba la opinión del Programa General de Auditorías por parte de la Comisión. La Contaduría remitirá a la Comisión los informes finales de auditoría una vez aprobados por el Contador Mayor.
+La Contaduría deberá iniciar la revisión de la Cuenta Pública, una vez que reciba la opinión del Programa General de Auditorías por parte de la Comisión. Si transcurrido el periodo señalado en la fracción X del artículo 19 de la Ley, la Comisión no ha emitido la opinión correspondiente, se entenderá que lo tiene por presentado y lo conoce y la Contaduría iniciará la revisión de la Cuenta Pública.
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
+La Contaduría, dará a conocer al sujeto fiscalizado el informe de resultados de auditoría, con un mínimo de diez días de anticipación a la reunión de confronta, con el objeto de que en esta reunión aporte los elementos documentales que considere adecuados para aclarar las observaciones contenidas en los resultados del informe. La confronta solo se podrá diferir por un término no mayor de tres días, previa solicitud fundada y motivada del sujeto fiscalizado, en la que acredite su procedencia. Celebrada la confronta no se admitirá información o documentación, que en dicha diligencia no sea exhibida, anunciada o acredite haberla solicitado de manera previa.
 
-Dicha aprobación no podrá exceder de cuarenta y cinco días naturales contados a partir de la confronta con el ente auditado. La Contaduría, dará a conocer al ente auditado el informe de resultados de auditoría, con un mínimo de diez días de anticipación a la reunión de confronta, con el objeto de que en esta reunión aporte los elementos documentales que considere adecuados para aclarar las observaciones contenidas en los resultados del informe.
+La Contaduría remitirá a los sujetos fiscalizados los informes finales de auditoría una vez aprobados por el Contador Mayor, dicha aprobación no podrá exceder de cuarenta y cinco días naturales contados a partir de la confronta con el sujeto fiscalizado.
 
-> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
-
-La Contaduría deberá rendir a más tardar el 15 de julio del año siguiente a la recepción de la Cuenta Pública, el Informe de Resultados a la Asamblea, a través de la Comisión; éste se integrará con los informes finales de auditoría relativos a una misma Cuenta Pública.
-
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
+La Contaduría deberá rendir a más tardar el 15 de julio del año siguiente a la recepción de la Cuenta Pública, el Informe de Resultados a la Asamblea, a través de la Comisión; éste se integrará con los informes finales de auditoría relativos a una misma Cuenta Pública. Una vez presentado el Informe, éste se publicará en el portal de Internet de la Contaduría.
 
 Si por causas que lo justifiquen, a juicio de la Comisión, el plazo no le fuera suficiente, la Contaduría lo hará del conocimiento de la Asamblea, por conducto de la Comisión, y solicitará una prórroga para concluir la revisión o informe expresando las razones que funden y motiven su petición. En ningún caso la prórroga solicitada excederá de treinta días naturales.
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
-
 Por ningún concepto y bajo ninguna circunstancia, la Contaduría podrá expedir finiquitos sobre asunto o negocio alguno a los sujetos de fiscalización.
 
-> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
+El incumplimiento de lo anterior será sancionado conforme a la Ley de Responsabilidades de los Servidores Públicos en vigor en el Distrito Federal.
 
-El incumplimiento de lo anterior será sancionado conforme a la Ley Federal de Responsabilidades de los Servidores Públicos.
+La Contaduría, sin perjuicio del principio de anualidad, podrá solicitar y revisar, de manera casuística y concreta, información y documentación de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el Presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los programas.
+
+Las observaciones, acciones promovidas y recomendaciones que la Contaduría emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
 
 ### CAPÍTULO OCTAVO. DE LAS RESPONSABILIDADES
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE MAYO DE 2012)</small>
 
 ###### Artículo 37.
 
-Incurren en responsabilidades administrativas en los términos de esta Ley, los servidores públicos de la Administración Pública del Distrito Federal, de los Órganos Autónomos y de la Contaduría que en el ejercicio de sus funciones incumplan con las siguientes obligaciones:
+Incurren en responsabilidad administrativa en los términos de esta Ley, los servidores públicos de los Sujetos de Fiscalización y de la Contaduría que en el ejercicio de sus funciones incumplan con las siguientes obligaciones:
 
 I. Rendir oportunamente la Cuenta Pública;
 
-II. Proporcionar la información que solicite la Contaduría en los términos establecidos en la Ley;
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
+
+II. Proporcionar la información y demás elementos que solicite la Contaduría en los plazos y términos establecidos en la Ley y demás normas de orden público;
 
 III. Llevar a cabo la revisión, integración o comprobación de cuentas conforme a lo establecido por los ordenamientos aplicables;
 
@@ -804,35 +864,57 @@ VI. Remitir los informes de los estados financieros de la Hacienda Pública del 
 
 VII. Caucionar el manejo de los recursos públicos en los términos establecidos por esta Ley;
 
-VIII. Aportar todos los elementos de prueba, evidencias o indicios en el procedimiento de revisión respectivo, que acrediten la responsabilidad de los servidores públicos respecto de las irregularidades o ilícitos cometidos, y
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
+VIII. Aportar en el procedimiento de auditoría respectivo, los elementos de prueba, evidencias e indicios que acrediten la responsabilidad de los servidores públicos y demás responsables respecto de las irregularidades o ilícitos cometidos;
 
-IX. En general en caso de incumplir en cualquiera de las obligaciones que impone el Código y cuyas sanciones están establecidas en dicho ordenamiento.
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-La Contaduría podrá solicitar a la autoridad competente, a través de la Contraloría General de la Asamblea Legislativa del Distrito Federal, la suspensión temporal o la revocación definitiva del nombramiento o mandato del servidor público que corresponda; en su caso, hasta la intervención de la Tesorería respectiva, en los casos debidamente acreditados de omisión reiterada en el cumplimiento de las obligaciones previstas en las fracciones I, V y VI de este artículo.
+IX. Garantizar y afianzar el cumplimiento oportuno y eficaz de los contratos en que intervenga;
 
-El Contador Mayor, en el ámbito de su competencia, establecerá coordinación con la Contraloría General de la Asamblea Legislativa del Distrito Federal y con la Contraloría, a fin de determinar los sistemas y procedimientos necesarios que permitan a dichos órganos el cumplimiento de sus respectivas atribuciones.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 18 DE MAYO DE 2012)</small>
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+X. Cumplir con las obligaciones que la presente Ley establece a su cargo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 18 DE MAYO DE 2012)</small>
+
+XI. Realizar las acciones correspondientes para cumplir y solventar las recomendaciones y requerimientos que la Contaduría formule; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 18 DE MAYO DE 2012)</small>
+
+XII. Guardar estricta reserva sobre la información y documentos que con motivo del objeto de esta Ley conozcan, así como de sus actuaciones y observaciones.
+
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
+
+En casos de omisión reiterada en el cumplimiento de las obligaciones previstas en el presente artículo, la Contaduría podrá solicitar a los Órganos de Control Interno de los Sujetos de Fiscalización y demás autoridades competentes, la suspensión temporal o la revocación definitiva del nombramiento o mandato del servidor público que corresponda; solicitando la intervención de la Tesorería respectiva, en caso de omisión en el cumplimiento de las obligaciones previstas en las fracciones I, V y VI de este artículo.
+
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
+
+La Contaduría y la Contraloría establecerán la respectiva coordinación, a fin de definir, determinar y establecer los sistemas y procedimientos necesarios que permitan la correspondiente colaboración y cumplimiento de sus respectivas atribuciones.
+
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
 
 ###### Artículo 38.
 
-La Contaduría es el Órgano facultado por la Asamblea para proponer a la autoridad competente en la materia, la sanción que corresponda al infractor en los términos de esta Ley, de la Ley Federal de Responsabilidades de los Servidores Públicos y del Código. Es competente la Contaduría para estimar en cantidad líquida, que por concepto de reparación de daño deba pagar el servidor público que lo haya ocasionado o generado, así como los accesorios que resulten aplicables de la Comisión de la irregularidad o ilícito hasta su resarcimiento, tomando como base para su actualización los valores y el porcentaje determinado para el pago de los créditos fiscales a que se refiere la Ley de Ingresos del Distrito Federal.
+La Contaduría promoverá ante la autoridad competente el fincamiento de responsabilidades derivadas de la revisión de la Cuenta Pública, de esta Ley, el Código y demás leyes; para tal efecto propondrá la determinación en cantidad liquida del monto de los daños y perjuicios ocasionados por los sujetos responsables; así como los accesorios que resulten aplicables hasta su total resarcimiento, tomando como base para su actualización los valores y el porcentaje determinado para el pago de los créditos fiscales a que se refiere la Ley de Ingresos del Distrito Federal y demás leyes en la materia.
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE MAYO DE 2012)</small>
 
 ###### Artículo 39.
 
-Cuando en el cumplimiento de sus atribuciones la Contaduría detecte irregularidades por actos u omisiones de servidores públicos, determinará la falta, e integrará y remitirá el o los dictámenes técnicos correctivos, expedientes técnicos y pliegos de observaciones no solventadas correspondientes, a efecto de que:
+Cuando en el cumplimiento de sus atribuciones la Contaduría detecte irregularidades por actos u omisiones de servidores públicos, determinará la falta, e integrará y remitirá el o los dictámenes técnicos correctivos, expedientes técnicos y pliegos de observaciones no solventadas correspondientes, a la autoridad competente, a efecto de que:
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-I. Tratándose de faltas administrativas previstas por la Ley Federal de Responsabilidades de los Servidores Públicos, a la Contraloría y a los órganos internos de control de los Órganos Autónomos, para que en el ámbito de su competencia, apliquen la sanción que corresponda; y
+I. Tratándose de faltas administrativas previstas por la Ley de Responsabilidades de los Servidores Públicos vigente en el Distrito Federal, promoverá ante los órganos internos de control de los Sujetos de Fiscalización, dentro del ámbito de su competencia, instruyan el procedimiento sancionatorio que corresponda; y
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
 
 II. Tratándose de faltas que causen daños o perjuicios a la Hacienda Pública del Distrito Federal, promoverá ante la Procuraduría Fiscal del Distrito Federal, para que ésta inicie el procedimiento correspondiente, de acuerdo a lo establecido en el Código.
 
-La autoridad que aplique las sanciones requeridas o efectúe la gestión de cobro deberá informar a la Contaduría de su cumplimento.
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
+
+La Contraloría y/o la Procuraduría Fiscal del Distrito Federal, informarán trimestralmente a la Contaduría el estado procesal que guarden los procedimientos promovidos ante dichas instancias; la autoridad que aplique las sanciones requeridas o efectúe la gestión de cobro deberá informar a la Contaduría de su cumplimiento.
 
 ###### Artículo 40.
 
@@ -842,29 +924,31 @@ Las responsabilidades administrativas en que se incurra en los términos de esta
 
 En el caso de responsabilidad penal, el procedimiento se iniciará por denuncia de:
 
-I. La Asamblea o la Comisión de Gobierno, en su caso, en contra de los servidores públicos que sean de elección popular que se encuentren en funciones durante el período para el que fueron electos;
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-II. La Contaduría contra el o los servidores públicos que no sean de elección popular, que hayan ejecutado los actos o que incurran en las omisiones que den origen a la responsabilidad penal; y
+I. La Asamblea o la Comisión de Gobierno, en su caso, en contra de los servidores públicos que sean de elección popular o de designación que se encuentren en funciones durante el período para que fueron electos o designados;
 
-III. La Contaduría contra los servidores públicos de elección popular o de designación, que hayan dejado de fungir como tales y que por la índole de sus funciones hayan causado daños y perjuicios a la Hacienda Pública.
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 13 DE ENERO DE 2004)</small>
+II. La Contaduría, contra el o los servidores públicos que no sean de elección popular, o que hayan dejado de fungir como tales.
+
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
+
+III. La contaduría, en contra de cualquier persona física o moral distinta a los supuestos contemplados en las fracciones anteriores, cuando en el proceso de auditoría se determine su posible responsabilidad.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 13 DE ENERO DE 2004)</small>
 
 ### CAPÍTULO NOVENO. DE LA DETERMINACIÓN DE DAÑOS Y PERJUICIOS
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
 
 ###### Artículo 42.
 
-Si de la fiscalización de la Cuenta Pública, aparecieran irregularidades que permitan presumir la existencia de hechos, conductas u omisiones que hayan producido daños y perjuicios en contra de la Hacienda Pública del Distrito Federal, al patrimonio de las entidades paraestatales, o al de los entes públicos sujetos de fiscalización previstos conforme al artículo 2, Fracción VIII de esta Ley, la Contaduría procederá de inmediato a:
+Si de la fiscalización de la Cuenta Pública, aparecieran irregularidades que permitan presumir la existencia de hechos, conductas u omisiones que hayan producido daños y perjuicios en contra de la Hacienda Pública del (sic) Federal, al patrimonio de los Sujetos de Fiscalización, la Contaduría procederá de inmediato a:
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
+I. Incluir en el dictamen técnico correctivo correspondiente la determinación de los daños y perjuicios causados, debiendo reunir todos los elementos de prueba y promover ante la Procuraduría Fiscal del Distrito Federal, el procedimiento en los términos del Código, y
 
-I. Incluir en el dictamen técnico correctivo correspondiente una estimación de los daños y perjuicios causados, debiendo reunir todos los elementos de prueba y promover ante la Procuraduría Fiscal del Distrito Federal, el procedimiento en los términos del Código, y
-
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
-
-II. Solicitar al Órgano de Control correspondiente a fin de que inicie el procedimiento administrativo disciplinario establecido en la Ley Federal de Responsabilidades de los Servidores Públicos y, en su caso imponga las sanciones correspondientes debiendo acompañar a la promoción el dictamen técnico correctivo y la documentación soporte del mismo.
+II. Promover ante el Órgano de Control Interno correspondiente el inicio del procedimiento administrativo disciplinario establecido en la Ley de Responsabilidades de los Servidores Públicos vigente en el Distrito Federal y, en su caso imponga las sanciones correspondientes, debiendo acompañar a la promoción el dictamen técnico correctivo en el que se determine el monto del daño causado y la documentación soporte del mismo.
 
 > <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
 
@@ -872,17 +956,21 @@ II. Solicitar al Órgano de Control correspondiente a fin de que inicie el proce
 
 Para los efectos de esta Ley incurren en responsabilidad:
 
-I. Los servidores públicos y los particulares, personas físicas o morales, por actos u omisiones que causen daño o perjuicio estimable en dinero a la Hacienda Pública del Distrito Federal, o al patrimonio de los entes públicos y en general de los sujetos de fiscalización.
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-II. Los servidores públicos pertenecientes a sujetos de fiscalización que no rindan o dejen de rendir sus informes acerca del seguimiento o cumplimiento de las recomendaciones formuladas y remitidas por la Contaduría; y
+I. Los servidores públicos y los particulares, personas físicas o morales, por actos u omisiones que causen daño o perjuicio estimable en dinero a la Hacienda Pública del Distrito Federal, o al patrimonio de los sujetos de fiscalización.
+
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
+
+II. Los servidores públicos pertenecientes a sujetos de fiscalización que en los términos y plazos previstos en la presente ley no rindan o dejen de rendir sus informes acerca del seguimiento o cumplimiento de las recomendaciones formuladas y remitidas por la Contaduría; y
 
 III. Los servidores públicos de la Contaduría, cuando al revisar la Cuenta Pública omitan formular las observaciones sobre las situaciones irregulares que detecten.
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
 
 ###### Artículo 44.
 
-Las responsabilidades resarcitorias que estime la Contaduría Mayor de Hacienda derivadas de esta ley y que promueva ante la Procuraduría Fisca (sic), tienen por objeto resarcir a la Hacienda Pública del Distrito Federal, el monto de los daños y perjuicios estimables en dinero que se le haya causado de acuerdo a lo dispuesto por el Código.
+Las responsabilidades resarcitorias que promueva la Contaduría derivadas de esta Ley, tienen por objeto resarcir a la Hacienda Pública del Distrito Federal o al patrimonio de los sujetos de fiscalización, el monto de los daños y perjuicios estimables en dinero que se le haya causado de acuerdo a lo dispuesto por el Código.
 
 > <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
 
@@ -890,21 +978,19 @@ Las responsabilidades resarcitorias que estime la Contaduría Mayor de Hacienda 
 
 Las responsabilidades resarcitorias a que se refiere este capítulo se constituirán de acuerdo a lo establecido en el Código.
 
-> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
 
 ###### Artículo 46.
 
-La Contaduría, con base en las disposiciones de esta Ley, formulará a los entes auditados los pliegos de observaciones, derivados de la fiscalización de la cuenta pública, en caso de no ser solventados, la Contaduría estimará en cantidad líquida los daños y perjuicios así como la presunta responsabilidad resarcitoria de los infractores, la cual promoverá ante la Procuraduría Fiscal del Distrito Federal a efecto de que proceda de acuerdo a lo establecido en el Código.
+La Contaduría, con base en las disposiciones de esta Ley, formulará a los sujetos de fiscalización los pliegos de observaciones, derivados de la fiscalización de la Cuenta Pública, en caso de no ser solventados, la Contaduría determinará en cantidad líquida los daños y perjuicios, la indemnización y sanción pecuniaria, cuando estos sean procedentes, conforme a la afectación a los Programas y Presupuestos en perjuicio de la Hacienda Pública o al patrimonio de los sujetos de fiscalización; promoviendo ante la autoridad competente el fincamiento de la responsabilidad resarcitoria de los infractores.
 
-> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
 
 ###### Artículo 47.
 
-Los entes auditados dentro de un plazo de 30 días hábiles contados a partir de la fecha de recibo del pliego de observaciones, deberán presentar la documentación y argumentos que estime conducentes para solventar dichas observaciones, si transcurrido el plazo, el ente no presenta la documentación y argumentos suficientes para solventar las observaciones, la Contaduría procederá de acuerdo con el artículo 39 de esta Ley.
+Los sujetos de fiscalización dentro de un plazo de 30 días hábiles contados a partir de la fecha de recibo del pliego de observaciones, deberán presentar la documentación y argumentos que estime conducentes para solventar dichas observaciones, si transcurrido el plazo, el ente no presenta la documentación y argumentos suficientes para solventar las observaciones, la Contaduría procederá de acuerdo con el artículo 39 de esta Ley.
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
-
-El Contador Mayor podrá ampliar el plazo antes señalado hasta por un periodo más, previa solicitud que presente el ente auditado debidamente justificado.
+El Contador Mayor podrá ampliar el plazo antes señalado hasta por un periodo de treinta días, previa solicitud fundada y motivada que formule el sujeto de fiscalización, exhibiendo el soporte probatorio que acredite su procedencia.
 
 > <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
 
@@ -916,31 +1002,41 @@ Las responsabilidades resarcitorias a que se refiere la presente Ley, tendrán e
 
 ### CAPITULO DÉCIMO. DE LA PRESCRIPCIÓN
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE MAYO DE 2012)</small>
 
 ###### Artículo 49.
 
-Las responsabilidades de carácter civil, penal y administrativas a que se refiere esta Ley, que resulten por actos u omisiones derivadas del ejercicio de la misma, prescribirán de conformidad con lo establecido en las leyes aplicables en la materia.
+Las responsabilidades de carácter civil, resarcitorio, penal y administrativas a que se refiere esta Ley, prescribirán en los términos previstos en las leyes aplicables en la materia.
+
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
 
 La Contaduría deberá dar puntual seguimiento de los procesos promovidos ante las instancias correspondientes hasta su conclusión, para evitar que los actos u omisiones prescriban. Debiendo solicitar información del avance y notificar las medidas de apremio en caso de incumplimiento e informar a la Asamblea, a través de la Comisión, para que resuelva lo conducente.
 
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
+
 La Secretaría de Finanzas, la Contraloría, la Procuraduría Fiscal y la Procuraduría General de Justicia del Distrito Federal están obligadas a proporcionar la información pormenorizada del estado que guardan las acciones promovidas por la Contaduría.
+
+> <small>(ADICIONADO, G.O. 18 DE MAYO DE 2012)</small>
+
+La Información y documentación relacionada con los procedimientos promovidos por la Contaduría, es reservada y confidencial, hasta en tanto se notifique a la Contaduría que las resoluciones emitidas han quedado firmes.
 
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2009)</small>
 
 ### CAPÍTULO DÉCIMO PRIMERO. GARANTÍA PRESUPUESTAL
 
-> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
 
 ###### Artículo 50.
 
-Para satisfacer los requerimientos que implica el ejercicio de la función pública encomendada a la Contaduría, su presupuesto anual se determinará tomando como base minina el cero punto veintiséis por ciento del monto total de las asignaciones presupuestales previstas en el Decreto de Presupuesto de Egresos del Distrito Federal, del ejercicio fiscal para el que se autorizará el presupuesto de la Contaduría.
+Para satisfacer los requerimientos que implica el ejercicio de la función pública encomendada a la Contaduría, su presupuesto anual se determinará tomando como base mínima el cero punto veintiséis del monto total de las asignaciones presupuéstales previstas en el Decreto de Presupuesto de Egresos del Distrito Federal, del ejercicio fiscal para el que se autorizará el presupuesto de la Contaduría.
 
-> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2009)</small>
+La Comisión de Vigilancia turnará el Proyecto de Presupuesto de la Contaduría, a la Comisión de Gobierno para su presentación de forma consolidada en el Proyecto de Presupuesto de la Asamblea.
+
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
 
 ###### Artículo 51.
 
-Para implementar, operar y desarrollar el Servicio Civil de Carrera, la Asamblea aprobará anualmente un presupuesto adicional, como programa extraordinario, que garantice recursos suficientes para su incorporación en la estructura orgánica, mediante la definición de áreas de operación procedimientos de reclutamiento, contratación, capacitación, promoción y evaluación permanente.
+Para implementar, operar y desarrollar el Servicio Civil de Carrera, la Asamblea aprobará anualmente un presupuesto adicional que garantice recursos suficientes para su incorporación en la estructura orgánica, mediante la definición de áreas de operación procedimientos de reclutamiento, contratación, capacitación, promoción y evaluación permanente.
 
 ## TRANSITORIOS
 
@@ -968,7 +1064,7 @@ Salón de sesiones de la Asamblea Legislativa del Distrito Federal, a quince de 
 
 En cumplimiento de lo dispuesto en el artículo 122, apartado C, Base Segunda, fracción II inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los cuatro días del mes de febrero de mil novecientos noventa y nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, CUAUHTÉMOC CÁRDENAS SOLÓRZANO, FIRMA.- LA SECRETARIA DE GOBIERNO, ROSARIO ROBLES BERLANGA.- FIRMA.- EL SECRETARIO DE FINANZAS, ANTONIO ORTIZ SALINAS.- FIRMA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 30 DE MARZO DE 1999.
 
@@ -1041,3 +1137,9 @@ CUARTO.- El actual Contador Mayor, solo podrá ser removido del cargo por el vot
 QUINTO.- Se derogan todas aquellas disposiciones que contravengan lo establecido en el presente Decreto.
 
 SEXTO.- El presente Decreto da cumplimiento al Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación de 7 de mayo de 2008.
+
+G.O. 18 DE MAYO DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal. Envíese al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+SEGUNDO.- En el término de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones reglamentarias que correspondan.
