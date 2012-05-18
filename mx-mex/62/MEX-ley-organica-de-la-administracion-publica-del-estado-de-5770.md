@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2011-12-16"
+last_updated: "2012-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "MEX"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE MAYO DE 2012 EN LA G.G., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE DICIEMBRE DE 2011.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO DEL DECRETO NÚMERO 394, PUBLICADO EN LA G.G. DE 16 DE DICIEMBRE DE 2011, SE RATIFICAN EN SUS TÉRMINOS LOS ARTÍCULOS QUINTO, SEXTO, SÉPTIMO, OCTAVO, NOVENO Y DÉCIMO DEL DECRETO DE REFORMA NÚMERO 25, PUBLICADO EN LA G.G. DE 10 DE DICIEMBRE DE 2009, PARA EL EJERCICIO FISCAL DE 2011, LOS CUALES NO AFECTAN EL ARTICULADO DE ÉSTA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO.</small>
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO EL 18 DE MAYO DE 2012.</small>
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO DEL DECRETO NÚMERO 394, PUBLICADO EN LA G.G. DE 16 DE DICIEMBRE DE 2011, SE RATIFICAN EN SUS TÉRMINOS LOS ARTÍCULOS QUINTO, SEXTO, SÉPTIMO, OCTAVO, NOVENO Y DÉCIMO DEL DECRETO DE REFORMA NÚMERO 25, PUBLICADO EN LA G.G. DE 10 DE DICIEMBRE DE 2009, PARA EL EJERCICIO FISCAL DE 2012, LOS CUALES NO AFECTAN EL ARTICULADO DE ÉSTA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO.</small>
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -847,7 +847,7 @@ V. Crear y mantener las escuelas oficiales que dependan directamente del Gobiern
 
 VI. Formular los contenidos regionales de los planes y programas de estudio de educación básica
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADA, G.G. 19 DE OCTUBRE DE 1992)</small>
 
 VII. Elaborar y, en su caso, ejecutar los convenios de coordinación que en materia educativa, cultural, de bienestar social, o deportiva celebre el Estado con el Gobierno Federal y los Municipios.
 
@@ -1627,7 +1627,7 @@ G.G. 14 DE SEPTIEMBRE DE 1987.
 
 El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial "Gaceta del Gobierno " del Estado.
 
-G.G. 11 DE OCTUBRE DE 1989.
+G.G 11 DE OCTUBRE DE 1989.
 
 ###### ARTICULO PRIMERO.
 
@@ -1733,7 +1733,7 @@ TERCERO.- Los recursos humanos, materiales y financieros a cargo de la Coordinac
 
 CUARTO.- Se derogan las disposiciones de igual o menor rango que se opongan al presente Decreto.
 
-G.G. 2 DE AGOSTO DE 2002
+G.G. 2 DE AGOSTO DE 2002.
 
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
@@ -1775,13 +1775,13 @@ SEXTO.- Cuando otros ordenamientos legales, reglamentarios y disposiciones de ob
 
 SEPTIMO.- Los asuntos y procedimientos que se hayan iniciado antes del primero de enero del año dos mil tres en la Secretaría de Desarrollo Urbano y Obras Públicas, se tramitarán y resolverán, según corresponda, por la Secretaría de Desarrollo Urbano y Vivienda o por la Secretaría de Agua, Obra Pública e Infraestructura para el Desarrollo.
 
-G.G. 6 DE AGOSTO DE 2003.
+G.G. 6 DE AGOSTO DE 2003
 
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
-G.G. 31 DE OCTUBRE DE 2003
+G.G. 31 DE OCTUBRE DE 2003.
 
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
@@ -2109,7 +2109,7 @@ NOVENO.- Las referencias realizadas a reinserción social, quedarán entendidas 
 
 G.G. 26 DE OCTUBRE DE 2011.
 
-DECRETO NÚMERO 362 POR EL QUE SE REFORMA EL ARTÍCULO 21 EN SU FRACCIÓN XXII DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PUBLICA DEL ESTADO DE MÉXICO.
+DECRETO NÚMERO 362 POR EL QUE SE REFORMA EL ARTÍCULO 21 EN SU FRACCIÓN XXII DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2133,7 +2133,7 @@ El Titular del Ejecutivo del Estado y la Legislatura, expedirán las disposicion
 
 G.G. 26 DE OCTUBRE DE 2011.
 
-DECRETO NÚMERO 363 POR EL QUE SE ADICIONA LA FRACCIÓN XXIX Y SE RECORRE LA SUBSECUENTE EN SU ORDEN, DEL ARTÍCULO 26 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PUBLICA DEL ESTADO DE MÉXICO.
+DECRETO NÚMERO 363 POR EL QUE SE ADICIONA LA FRACCIÓN XXIX Y SE RECORRE LA SUBSECUENTE EN SU ORDEN, DEL ARTÍCULO 26 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
@@ -2153,11 +2153,11 @@ G.G. 16 DE DICIEMBRE DE 2011.
 
 DEBIDO A SU IMPORTANCIA, A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO DE REFORMA QUE SE RELACIONAN CON EL ORDENAMIENTO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE MAYO DE 2012 EN LA G.G., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., G.G. 18 DE MAYO DE 2012)</small>
 
 ###### ARTÍCULO TERCERO.
 
-Se ratifican en sus términos los artículos Quinto, Sexto, Séptimo, Octavo, Noveno y Décimo del Decreto Número 25, publicado en el Periódico Oficial "Gaceta del Gobierno" el día 10 de diciembre de 2009, para el ejercicio fiscal 2011.
+Se ratifican en sus términos los artículos Quinto, Sexto, Séptimo, Octavo, Noveno y Décimo del Decreto Número 25, publicado en el Periódico Oficial "Gaceta del Gobierno" el día 10 de diciembre de 2009, para el ejercicio fiscal 2012.
 
 TRANSITORIO SEGUNDO.- El presente Decreto entrará en vigor el día 1° de enero de 2012.
 
