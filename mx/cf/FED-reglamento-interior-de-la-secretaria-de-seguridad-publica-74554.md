@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-seguridad-publica-74554
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-04-28"
-last_updated: "2010-04-28"
+last_updated: "2012-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74554&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2010-04-21"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2012.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 28 de abril de 2010.
 
@@ -1405,7 +1405,7 @@ IV. Consejo de Menores, y
 
 V. Centro de Investigación y Estudios en Seguridad.
 
-El Centro de Investigación y Estudios en Seguridad tiene como función principal aportar información científica, académica y profesional en materia de seguridad pública; contribuir a la formación, capacitación y especialización de los responsables e integrantes de las corporaciones policiales; realizar estudios especializados y otorgar el reconocimiento oficial a estudios en la materia; prestar apoyo a las actividades docentes y de investigación en las instituciones de seguridad pública, así como realizar investigación académica y de derecho comparado enfocándola a la solución de problemas en seguridad pública.
+> <small>(DEROGADO SEGUNDO PÁRRAFO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL CENTRO DE INVESTIGACIÓN Y ESTUDIOS EN SEGURIDAD, D.O.F. 18 DE MAYO DE 2012)</small>
 
 Los órganos desconcentrados se sujetarán a sus ordenamientos específicos y al presente Reglamento, y estarán bajo la dirección y supervisión del Secretario o del funcionario que éste señale.
 
@@ -1460,3 +1460,15 @@ SEXTO.- Las menciones que en otras disposiciones se hagan a la Coordinación Gen
 SÉPTIMO.- En tanto se expida el Reglamento de la Ley de la Policía Federal, seguirán en vigor los esquemas de coordinación de la policía federal a que alude el artículo 6 del Reglamento Interior que se abroga.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiún días del mes de abril de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Seguridad Pública, Genaro García Luna.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 18 DE MAYO DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se deroga el párrafo segundo del artículo 39 del Reglamento Interior de la Secretaría de Seguridad Pública.
+
+TERCERO.- Dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente Reglamento, el Centro y la Dirección General de Programación, Organización y Presupuesto de la Secretaría deberán realizar los trámites necesarios ante el Consejo Nacional de Ciencia y Tecnología, para constituir el fondo a que se refiere el artículo 5 del presente Reglamento, de conformidad con lo dispuesto en la Ley de Ciencia y Tecnología.
+
+CUARTO.- La Oficialía Mayor de la Secretaría realizará las transferencias de recursos humanos, financieros y materiales que correspondan para la operación de las unidades administrativas a que se refiere este Reglamento, mediante movimientos compensados con cargo al presupuesto aprobado para dicha dependencia. Las referidas acciones deberán cumplimentarse a más tardar dentro de los sesenta días hábiles siguientes a la publicación del presente Reglamento.
