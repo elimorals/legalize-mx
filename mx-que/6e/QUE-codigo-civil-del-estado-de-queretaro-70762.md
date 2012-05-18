@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-70762"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2012-03-16"
+last_updated: "2012-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -1847,9 +1847,13 @@ Cuando por el divorcio se originen daños o perjuicios a los intereses del cóny
 
 En el caso de divorcio necesario, cuando por convenio tácito o expreso, uno de los cónyuges se hubiere dedicado íntegramente la mayor parte de su vida matrimonial al cuidado del hogar o a la atención de los hijos, si careciere de bienes propios tendrá derecho a recibir del otro cónyuge una compensación.
 
-El monto de la compensación será determinado por el juez al momento de dictar la sentencia del divorcio, tomando en cuenta la masa patrimonial formada o incrementada durante el matrimonio, así como las circunstancias especiales del caso, sin que ésta pueda exceder del cincuenta por ciento del mismo.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2012)</small>
 
-Corresponde al cónyuge que solicite la compensación, acreditar en qué medida contribuyó con su cónyuge para la formación o incremento del patrimonio de éste.
+El monto de la compensación será determinado por el juez al momento de dictar la sentencia del divorcio, tomando en cuenta la masa patrimonial formada o incrementada durante el matrimonio, así como las circunstancias especiales del caso, sin que ésta pueda ser inferior del diez por ciento o exceder el cincuenta por ciento del mismo.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2012)</small>
+
+Se presume que el cónyuge que solicite la compensación, contribuyó a la formación o incremento de la masa patrimonial, salvo prueba en contrario.
 
 ###### Artículo 269.
 
@@ -15722,3 +15726,9 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan las disposiciones que se opongan a la presente ley.
 
 Artículo Tercero. En los procesos que se encuentren en trámite o resueltos a la vigencia de la presente ley, cualquiera de los padres podrán reclamar el derecho del menor para la convivencia compartida. Corresponderá al juez que conozca de la causa valorar y determinar lo conducente.
+
+P.O. 18 DE MAYO DE 2012.
+
+Artículo Primero. La presente reforma entrará en vigor treinta días naturales después de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
