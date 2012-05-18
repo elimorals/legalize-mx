@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-31536"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2012-05-09"
+last_updated: "2012-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31536&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-29"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE MAYO DE 2012.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 27 mayo de 2003.
 
@@ -298,6 +298,10 @@ II.- El Diputado que no concurra a una sesión de Comisión o Comité, sin causa
 
 Lo anterior no aplicara cuando haya una sesión del pleno, cuando se realicen de forma simultánea reuniones de Comisión de la que el diputado forma parte o que se encuentre en el cumplimiento de alguna encomienda Oficial.
 
+> <small>(ADICIONADO, G.O. 18 DE MAYO DE 2012)</small>
+
+Se justificará la inasistencia en los términos establecidos en el artículo 24 de la Ley Orgánica de la Asamblea Legislativa del Distrito Federal.
+
 ###### Artículo 27.
 
 Tratándose de disminución de la dieta se observará lo siguiente:
@@ -384,11 +388,11 @@ Corresponderá a la Secretaría Técnica de cada comisión brindar la informaci�
 
 Los Diputados integrantes de las Comisiones no tendrán ninguna retribución extraordinaria por el desempeño de las mismas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE MAYO DE 2012)</small>
 
 ###### Artículo 32.
 
-Toda Comisión deberá presentar su dictamen en los asuntos de su competencia, dentro de los treinta días siguientes al de la fecha en que los hayan recibido. Todo dictamen estará compuesto de cuatro partes fundamentales: un preámbulo, los antecedentes, los considerandos y los resolutivos. Deberá estar debidamente fundado y motivado y contendrá las modificaciones que en su caso se hayan realizado, concluyendo con proposiciones claras y sencillas que puedan sujetarse a votación.
+Toda Comisión deberá presentar su dictamen en los asuntos de su competencia, dentro de los treinta días siguientes al de la fecha en que los hayan recibido. Todo dictamen se elaborará con perspectiva de género, se redactará en un lenguaje claro, preciso, incluyente y no sexista, y se compondrá de cuatro partes fundamentales: un preámbulo, los antecedentes, los considerandos y los resolutivos. Deberá estar debidamente fundado y motivado y contendrá las modificaciones que en su caso se hayan realizado, concluyendo con proposiciones claras y sencillas que puedan someterse a votación.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2011)</small>
 
@@ -1406,11 +1410,9 @@ Las iniciativas populares serán turnadas a una comisión especial integrada por
 
 La Comisión elaborará el dictamen respectivo para ser presentado ante el Pleno en un plazo no mayor de treinta días naturales a partir de su recepción en la Comisión, salvo prórroga debidamente fundamentada que apruebe el Pleno, o en los recesos la Comisión de Gobierno, a petición de la Comisión dictaminadora.
 
-> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
 
-Todo dictamen estará integrado por una adecuada fundamentación, motivación, antecedentes, considerandos, las modificaciones que en su caso se hayan realizado y los puntos resolutivos.
-
-La parte considerativa contendrá las modificaciones que en su caso se hayan realizado.
+Todo dictamen será elaborado con perspectiva de género, se redactará en un lenguaje claro, preciso, incluyente y no sexista, y se integrará por una adecuada fundamentación, motivación, con sus respectivos antecedentes, considerandos, las modificaciones que en su caso se hayan realizado y los puntos resolutivos. La parte considerativa contendrá las modificaciones que en su caso se hayan realizado.
 
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -1553,6 +1555,10 @@ Las sesiones no podrán realizarse fuera del Distrito Federal.
 ###### Artículo 98.
 
 Las sesiones se desarrollarán de conformidad con el Orden del Día elaborado por la Mesa Directiva conjuntamente con la Comisión de Gobierno y se desahogarán, de igual manera, los asuntos que presentan los Diputados o los Grupos Parlamentarios con carácter de urgente o extraordinario y así sean aceptados por el Pleno.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 18 DE MAYO DE 2012)</small>
+
+El orden del día, deberá publicarse en la página de lnternet de la Asamblea a más tardar a las veintiún horas del día previo a la sesión.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 96], G.O. 30 DE MARZO DE 2005)
 
@@ -1746,13 +1752,17 @@ Sólo para el caso de que no hayan existido oradores en contra o en pro, el Pres
 
 Todo dictamen con proyecto de ley o decreto que conste de más de treinta artículos, podrá ser discutido y aprobado por los libros, títulos, capítulos, secciones o párrafos en los que lo dividieren sus autores o las Comisiones encargadas de su despacho, siempre que así lo acuerde el Pleno a moción de uno o más de sus miembros; pero se votará separadamente cada uno de los artículos o fracciones del artículo o de la sección que esté al debate, si lo pide algún Diputado y el Pleno aprueba la petición.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 115], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE MAYO DE 2012)</small>
 
 ###### Artículo 118.
 
-Para la discusión de cualquier dictamen, deberá haberse procedido a la distribución de copias del mismo a todos los miembros del Pleno con una anticipación mínima de cuarenta y ocho horas a la sesión en que habrá de discutirse.
+Para la discusión de cualquier dictamen, deberá haberse procedido a la distribución de copias del mismo de manera física y correo electrónico a todos los miembros del Pleno con una anticipación mínima de cuarenta y ocho horas a la sesión en que habrá de discutirse.
+
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
 Los votos particulares que se hayan discutido en las Comisiones se deberán distribuir en los mismos términos. Con la misma anticipación deberá depositarse el dictamen ante la Secretaría de la Mesa Directiva.
+
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
 Si no se cumple con este requisito, el dictamen no podrá ser discutido en la sesión respectiva, salvo que se dispense el procedimiento por el Pleno de la Asamblea.
 
@@ -1950,6 +1960,20 @@ El Presidente podrá reservar para el final de la discusión la votación en lo 
 
 La votación nominal se efectuará de la siguiente manera:
 
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS FRACCIONES], G.O. 18 DE MAYO DE 2012)</small>
+
+a) A través del sistema electrónico de votación bajo el siguiente procedimiento:
+
+I. Cada diputado procederá a emitir su voto de manera electrónica desde el dispositivo instalado en su curul o en la mesa directiva para aquellos diputados que la integren.
+
+II. En el caso de que algún diputado no pueda votar a través del sistema electrónico, solicitará al Secretario expresar su voto en voz alta, diciendo su nombre y apellido, añadiendo la expresión en pro en contra do abstención;
+
+III. Una vez concluido el cómputo, la Mesa Directiva procederá a dar el resultado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 18 DE MAYO DE 2012)</small>
+
+b) En caso de que no pueda emitirse la votación a través del sistema electrónico se estará al siguiente procedimiento:
+
 I.- Cada miembro de la Asamblea, comenzando por el lado derecho del Presidente, dirá en voz alta su nombre y apellido, añadiendo la expresión en pro o en contra o abstención;
 
 II.- Un Secretario de la Mesa Directiva anotará a los Diputados que aprueben el dictamen correspondiente y otro a los que lo rechacen;
@@ -1996,11 +2020,11 @@ Cuando algún Diputado objetare por más de dos ocasiones el resultado de la vot
 
 #### SECCIÓN 6. DE LA EXPEDICIÓN DE LAS LEYES
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 140], G.O. 30 DE MARZO DE 2005)
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
 
 ###### Artículo 143.
 
-Toda resolución de la Asamblea tendrá el carácter de ley o de decreto, será redactada con precisión y claridad, en la forma que hubiere sido aprobada, y al expedirse será autorizada por las firmas del Presidente y por lo menos un Secretario de la Asamblea.
+Toda resolución de la Asamblea Legislativa tendrá el carácter de ley o decreto, será redactada en un lenguaje claro, preciso, incluyente y no sexista, en la forma que hubiere sido aprobada, y al expedirse será autorizada por las firmas de quien Presida y por lo menos un Secretario o Secretaria integrantes de la Mesa Directiva en turno.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 141], G.O. 30 DE MARZO DE 2005)
 
@@ -2886,6 +2910,108 @@ IV.- La inscripción deberá ser aprobada por dos terceras partes de los integra
 
 No se denominará, ni se redenominará, a los salones de la Asamblea Legislativa, sin el acuerdo de las dos terceras partes de los Diputados miembros de la Asamblea.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 18 DE MAYO DE 2012)</small>
+
+## TÍTULO SEXTO. DEL CABILDEO
+
+> <small>(ADICIONADO, G.O. 18 DE MAYO DE 2012)</small>
+
+###### Artículo 225.
+
+Por cabildeo se entenderá toda actividad que se haga ante cualquier servidor público de la Asamblea Legislativa, en lo individual o en conjunto, para obtener una resolución o acuerdo favorable a los intereses propios o de terceros.
+
+Por cabildero se identificará al individuo que a nombre propio o de terceros realice actividades en los términos del párrafo anterior y por el cual obtenga un beneficio material o económico.
+
+> <small>(ADICIONADO, G.O. 18 DE MAYO DE 2012)</small>
+
+###### Artículo 226.
+
+No se registrarán como cabilderos los siguientes:
+
+I. Las personas que acudan a solicitar orientación o gestión ciudadana, relacionada con servicios públicos;
+
+II. Los servidores públicos comprendidos en el artículo 108 de la Constitución Política de los Estados Unidos Mexicanos, durante el ejercicio de sus funciones y hasta dos años después de haber concluido el desempeño del cargo;
+
+III. Los servidores públicos que se constituyan como enlaces legislativos, acreditados por la Secretaría de Gobierno de Distrito Federal o de los órganos autónomos;
+
+IV. Cónyuges y parientes por consanguinidad y afinidad hasta el segundo grado de consanguinidad y segundo grado de afinidad de las personas comprendidas en la fracción II, sólo en relación a materias que tengan competencia funcional directa del servidor público o estén bajo su responsabilidad exclusiva de decisión en el ejercicio de su función; y
+
+V. Los extranjeros, quienes tampoco podrán participar como terceros representados.
+
+> <small>(ADICIONADO, G.O. 18 DE MAYO DE 2012)</small>
+
+###### Articulo 227.
+
+Las actividades del cabildeo se regirán por los principios de publicidad, transparencia, accesibilidad y participación.
+
+> <small>(ADICIONADO, G.O. 18 DE MAYO DE 2012)</small>
+
+###### Articulo 228.
+
+Es facultativo para todo servidor público de la Asamblea Legislativa aceptar ser contactado para fines de cabildeo.
+
+> <small>(ADICIONADO, G.O. 18 DE MAYO DE 2012)</small>
+
+###### Artículo 229.
+
+Toda persona que pretenda realizar actividades de cabildeo deberá inscribirse en forma gratuita en un registro público a cargo de la Comisión de Gobierno y que se integrará por conducto de la Oficialía Mayor, el cual se difundirá permanentemente, durante todo el tiempo que dure la legislatura, en la página electrónica de la Asamblea, debiendo mostrar los datos proporcionados por quienes se registren.
+
+Para el registro de cabilderos se emitirá convocatoria que deberá publicarse al menos en dos diarios de circulación nacional y en la página de la Asamblea, al inicio de cada Legislatura y estará abierta por todo el tiempo que ésta dure.
+
+La inscripción tendrá vigencia por el tiempo que dure la Legislatura correspondiente, a no ser que el cabildero manifieste su voluntad de cancelar su registro de manera anticipada.
+
+> <small>(ADICIONADO, G.O. 18 DE MAYO DE 2012)</small>
+
+###### Artículo 230.
+
+La solicitud de inscripción al registro de cabilderos incluirá la siguiente información:
+
+I. Nombre completo del solicitante, edad y sexo;
+
+II. Domicilio para oír y recibir notificaciones, teléfono y correo electrónico;
+
+III. Copia de identificación oficial vigente;
+
+IV. En caso de representar intereses de terceros, si se trata de personas físicas o agrupaciones sin personalidad jurídica, carta poder o representación para dichos efectos ante notario; si se tratara de personas morales, copia de su acta constitutiva;
+
+V. Carta de no inhabilitación y carta de antecedentes no penales, en este último caso sólo para efectos de comprobar si a la fecha de la solicitud no se encuentra cumpliendo una pena por haber cometido un delito doloso.
+
+VI. Relación de los diputados, comisiones o áreas de interés en las que preferentemente se desarrollarán las actividades del cabildeo.
+
+La Oficialía Mayor deberá dar respuesta a la solicitud de inscripción, en un plazo no mayor a diez días hábiles. En caso contrario, se entenderá la inscripción en sentido positivo al solicitante y se procederá a emitir su registro, para lo cual se expedirá una identificación con fotografía que deberá ser portada en los momentos en que por razones del cabildeo permanezca en los inmuebles asignados a la Asamblea.
+
+El cabildero notificará a la Oficialía Mayor cualquier cambio en la información proporcionada en la solicitud, para su inscripción en el padrón de cabilderos, en un plazo no mayor de diez días hábiles, a partir de la modificación correspondiente.
+
+> <small>(ADICIONADO, G.O. 18 DE MAYO DE 2012)</small>
+
+###### Artículo 231.
+
+Los servidores públicos de la Asamblea Legislativa se abstendrán de hacer recomendaciones que equivalgan a un cabildeo, cuando obtengan beneficio económico o en especie para sí o su cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado, o para terceros con los que tengan relaciones profesionales, laborales o de negocios.
+
+> <small>(ADICIONADO, G.O. 18 DE MAYO DE 2012)</small>
+
+###### Artículo 232.
+
+Los documentos de cabildeo relacionados con iniciativas, dictámenes, acuerdos, proyectos, decretos, y en general, cualquier acto o resolución emitida por la Asamblea serán integrados por cada diputado en lo individual y por cada Comisión de manera permanente, en un archivo de cabildeo, debiendo ser depositados al final de cada legislatura en el Archivo Histórico de la Asamblea.
+
+> <small>(ADICIONADO, G.O. 18 DE MAYO DE 2012)</small>
+
+###### Articulo 233.
+
+Los documentos de cabildeo que no impliquen prohibición en su reproducción, deberán publicarse en la página electrónica de la Asamblea para que puedan ser objeto de consulta pública. La publicación deberá de hacerse de acuerdo a la Ley de Protección de Datos Personales del Distrito Federal y la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 18 DE MAYO DE 2012)</small>
+
+###### Articulo 234.
+
+Los documentos de cabildeo, la información, opiniones, argumentaciones o cualquier otra manifestación hecha por los cabilderos no serán vinculatorias para la resolución del asunto en cuestión.
+
+> <small>(ADICIONADO, G.O. 18 DE MAYO DE 2012)</small>
+
+###### Artículo 235.
+
+La Comisión de Gobierno podrá suspender o cancelar el registro en el padrón de cabilderos durante la legislatura correspondiente, independientemente de las responsabilidades penales o administrativas que puedan imputarse, al cabildero que proporcione información falsa o cuyo origen no pueda acreditar fehacientemente a cualquiera de los sujetos ante los que se puede realizar el cabildeo.
+
 ## ARTÍCULOS TRANSITORIOS
 
 PRIMERO.- El presente Reglamento entrará en vigor al día 1ero. de mayo de 2003.
@@ -3071,3 +3197,43 @@ TERCERO.- El Fondo al que se refiere la presente Ley es el que actualmente opera
 La Comisión de Gobierno y el Comité Técnico del fideicomiso realizarán las modificaciones al contrato referido en el párrafo anterior para dar cumplimiento al presente decreto.
 
 CUARTO.- La Asamblea Legislativa del Distrito Federal garantizará que los apoyos hasta el momento otorgados por el Fideicomiso mencionado en el artículo transitorio anterior continúen hasta la conclusión del grado de estudios para el que fueron comprometidos.
+
+G.O. 18 DE MAYO DE 2012.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 32, 87 Y 143 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.
+
+###### ARTÍCULO PRIMERO.
+
+Túrnese al Jefe de Gobierno del Distrito Federal única y exclusivamente para su publicación en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su aprobación en el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+G.O. 18 DE MAYO DE 2012.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 98, 118 Y 137 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.
+
+PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal única y exclusivamente para su publicación en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su aprobación en el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+G.O. 18 DE MAYO DE 2012.
+
+DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO AL ARTÍCULO 26 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.
+
+PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal única y exclusivamente para su publicación en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su aprobación en el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+G.O. 18 DE MAYO DE 2012.
+
+DECRETO POR EL QUE SE ADICIONA EL TÍTULO SEXTO AL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
