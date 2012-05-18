@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-13-2012-del-pleno-del-consejo-de-la-87610"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-05-04"
-last_updated: "2012-05-04"
+last_updated: "2012-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87610&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2012-04-25"
 ---
 # ACUERDO GENERAL 13/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [DENOMINACION, JURISDICCION TERRITORIAL Y FECHA DE INICIO DE FUNCIONAMIENTO DEL JUZGADO NOVENO DE DISTRITO EN IRAPUATO, GUANAJUATO; MODIFICACION DE LOS DISTRITOS JUDICIALES DE GUANAJUATO, LEON Y CELAYA; CREACION DEL DISTRITO JUDICIAL DE IRAPUATO; Y LAS REGLAS DE TURNO, SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN GUANAJUATO]
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE MAYO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ACUERDO GENERAL 13/2012, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONAMIENTO DEL JUZGADO NOVENO DE DISTRITO EN EL ESTADO DE GUANAJUATO, CON RESIDENCIA EN IRAPUATO; A LA MODIFICACIÓN DE LOS DISTRITOS JUDICIALES DE GUANAJUATO, LEÓN Y CELAYA; A LA CREACIÓN DEL DISTRITO JUDICIAL DE IRAPUATO; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN EL ESTADO DE GUANAJUATO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 18 DE MAYO DE 2012.</small>
 
 Acuerdo publicado en la Cuarta Sección del Diario Oficial de la Federación, el viernes 4 de mayo de 2012.
 
@@ -53,9 +53,9 @@ SEGUNDO. El Juzgado Noveno de Distrito en el Estado de Guanajuato, tendrá resid
 
 El domicilio del órgano jurisdiccional en cita será el ubicado en Prolongación Guerrero número 3149, Fraccionamiento Las Plazas, código postal 36620, Irapuato, Guanajuato.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE PUNTO TERCERO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE MAYO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., D.O.F. 18 DE MAYO DE 2012)</small>
 
-TERCERO. El Juzgado Noveno de Distrito en el Estado de Guanajuato, con residencia en Irapuato, en términos del artículo 48 de la Ley Orgánica del Poder Judicial de la Federación, ejercerá jurisdicción territorial en los municipios de Abasolo, Allende, Cuerámaro, Huanímaro, Irapuato, Pénjamo, Pueblo Nuevo, Romita, Salamanca, Silao y Valle de Santiago.
+TERCERO. El Juzgado Noveno de Distrito en el Estado de Guanajuato, con residencia en Irapuato, en términos del artículo 48 de la Ley Orgánica del Poder Judicial de la Federación, ejercerá jurisdicción territorial en los municipios de Abasolo, Cuerámaro, Huanímaro, Irapuato, Pénjamo, Pueblo Nuevo, Romita, Salamanca, San Miguel de Allende, Silao y Valle de Santiago.
 
 CUARTO. Desde la fecha señalada en el punto segundo de este acuerdo:
 
@@ -89,8 +89,6 @@ XVI. DECIMOSEXTO CIRCUITO:
 
 3. Nueve juzgados de distrito en el Estado de Guanajuato: dos con residencia en la ciudad del mismo nombre, tres con sede en León, tres con residencia en Celaya y uno con sede en Irapuato”.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE PUNTO DÉCIMO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE MAYO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 DECIMO. Asimismo, se modifica el referido acuerdo general, en el punto CUARTO, apartado XVI. DECIMOSEXTO CIRCUITO, párrafos primero, segundo y tercero, y se adiciona un párrafo cuarto, para quedar como sigue:
 
 “CUARTO. ...
@@ -103,7 +101,9 @@ Los juzgados de Distrito en el Estado de Guanajuato, con sede en León, ejercer�
 
 Los juzgados de Distrito en el Estado de Guanajuato, con residencia en Celaya, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acámbaro, Apaseo el Alto, Apaseo el Grande, Celaya, Comonfort, Coroneo, Cortázar, Jaral del Progreso, Jerécuaro, Moroleón, Salvatierra, Santa Cruz de Juventino Rosas, Santiago Maravatío, Tarandacuao, Tarímoro, Uriangato, Villagrán y Yuriria.
 
-El Juzgado de Distrito en el Estado de Guanajuato, con residencia en Irapuato, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de Abasolo, Allende, Cuerámaro, Huanímaro, Irapuato, Pénjamo, Pueblo Nuevo, Romita, Salamanca, Silao y Valle de Santiago.
+> <small>(F. DE E., D.O.F. 18 DE MAYO DE 2012)</small>
+
+El Juzgado de Distrito en el Estado de Guanajuato, con residencia en Irapuato, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de Abasolo, Cuerámaro, Huanímaro, Irapuato, Pénjamo, Pueblo Nuevo, Romita, Salamanca, San Miguel de Allende, Silao y Valle de Santiago.
 
 DECIMOPRIMERO. Las Secretarías Ejecutivas de Finanzas; de Obra, Recursos Materiales y Servicios Generales, así como las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial, y la Coordinación de Administración Regional, se coordinarán entre sí a fin de dotar al nuevo órgano de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
 
