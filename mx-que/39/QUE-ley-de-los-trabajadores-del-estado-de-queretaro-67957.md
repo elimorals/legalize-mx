@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-los-trabajadores-del-estado-de-queretaro-67957"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-20"
-last_updated: "2012-03-02"
+last_updated: "2012-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 20 de marzo de 2009.
 
@@ -249,6 +249,14 @@ Durante el embarazo, las trabajadoras no realizarán trabajos que exijan esfuerz
 
 Durante la lactancia y hasta por un período de seis meses, contados a partir de la fecha de su reincorporación al trabajo, al concluirle período de noventa días antes mencionado, tendrán dentro de la jornada de trabajo dos descansos extraordinarios por día, de media hora cada uno para amamantar a sus hijos o hijas; dichos descansos a elección de la trabajadora, podrán ser acumulados para tomarse al inicio o conclusión de la jornada diaria y serán computados como tiempo efectivamente laborado.
 
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2012)</small>
+
+###### Artículo 33 Bis.
+
+Las trabajadoras disfrutarán de quince días naturales de descanso con goce de sueldo, cuando obtengan en adopción a un menor o incapaz, contados a partir del día de su entrega.
+
+Asimismo, los trabajadores disfrutarán de cinco días hábiles, con goce de sueldo, por el nacimiento de su hijo o hijos, o bien, cuando obtengan en adopción a un menor o incapaz, contados a partir de su entrega.
+
 ### Capítulo Tercero. De los salarios
 
 ###### Artículo 34.
@@ -353,7 +361,9 @@ Las licencias con goce de sueldo se concederán en los siguientes casos:
 
 I. Hasta tres días en tres ocasiones distintas, dentro de cada año natural, separadas cuando menos de un mes. Estas licencias podrán ser concedidas por los jefes de las respectivas Dependencias, bajo su responsabilidad, dando aviso inmediato al área de Personal correspondiente; si no lo hubiere, a la Oficialía Mayor de la Entidad Pública que corresponda, según el caso;
 
-En caso de alumbramiento de la esposa o concubina del trabajador, éste tendrá derecho a solicitar dos licencias consecutivas. Y por urgencia dependiendo del caso en particular, podrá solicitar hasta tres licencias consecutivas.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2012)</small>
+
+En caso de alumbramiento de la esposa o concubina del trabajador, sin perjuicio de lo establecido por el artículo 33 Bis de la presente Ley, éste tendrá derecho a solicitar dos licencias consecutivas. Y por urgencia dependiendo del caso en particular, podrá solicitar hasta tres licencias consecutivas.
 
 II. Para las comisiones que le sean conferidas al trabajador por el Sindicato al que pertenece, siempre que no afecte al servicio, a juicio del Titular de la Dependencia;
 
@@ -1005,6 +1015,10 @@ Los trabajadores que teniendo derecho a una jubilación o a una pensión por vej
 
 Todo trabajador que cumpla con los requisitos para obtener su jubilación o pensión por vejez, así como los beneficiarios que cumplan con los requisitos para obtener la pensión por muerte, de acuerdo al orden establecido en el artículo 144, podrán solicitar la prejubilación o prepensión al titular de recursos humanos u órgano administrativo correspondiente.
 
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2012)</small>
+
+Toda fracción de más de seis meses de servicios, se considerará como año completo para los efectos del otorgamiento de la jubilación.
+
 ###### Artículo 128.
 
 La prejubilación o prepensión se entenderá como la separación de las labores del trabajador que cumple con los requisitos para jubilarse o pensionarse, en el que se pagará el ciento por ciento del sueldo y quinquenio mensuales en el caso de jubilación o en su caso el porcentaje que corresponda tratándose de pensión.
@@ -1505,9 +1519,11 @@ Cuando el oferente no pudiera aportar directamente alguna prueba, señalará el 
 
 Los trabajadores deberán comparecer por sí o por medio de sus representantes, ante el Tribunal. Cuando sean demandados y no comparezcan en ninguna de las formas establecidas, se les tendrá por contestada la demanda en sentido afirmativo y por tanto, por presuntivamente probada la acción en su contra, salvo que comprueben su imposibilidad física para comparecer.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2012)</small>
+
 ###### Artículo 174.
 
-Los Titulares de las Entidades Públicas del Estado y municipios, podrán hacerse representar por apoderados, cuyo carácter acreditarán con simple oficio y copia autentificada del nombramiento respectivo. Si teniendo el carácter de demandada la Entidad de que se trata no contesta, no comparece a juicio o no se hace representar, se tendrá por contestada la demanda en sentido afirmativo, sin perjuicio de que en la etapa de ofrecimiento y admisión de pruebas demuestre que el actor no era trabajador o patrón, que no existió el despido o que no son ciertos los hechos afirmados en la demanda.
+Los titulares de las Entidades Públicas del Estado y municipios, podrán hacerse representar por apoderados, cuyo carácter acreditarán con simple oficio y copia autentificada del nombramiento respectivo o mediante poder otorgado ante fedatario público. Si teniendo el carácter de demandada la Entidad de que se trata no contesta, no comparece a juicio o no se hace representar, se tendrá por contestada la demanda en sentido afirmativo, sin perjuicio de que en la etapa de ofrecimiento y admisión de pruebas demuestre que el actor no era trabajador o patrón, que no existió el despido o que no son ciertos los hechos afirmados en la demanda.
 
 ###### Artículo 175.
 
@@ -1698,3 +1714,11 @@ Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicaci�
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente.
 
 Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 18 DE MAYO DE 2012.
+
+Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
