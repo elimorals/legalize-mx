@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-las-comisiones-de-la-asamblea-35288"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-30"
-last_updated: "2011-12-26"
+last_updated: "2012-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35288&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-12-18"
 
 REGLAMENTO INTERIOR DE LAS COMISIONES DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE MAYO DE 2012.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 30 de diciembre de 2003.
 
@@ -328,6 +328,18 @@ b) Elaboración de las actas de las sesiones, y
 
 c) Cuidar que las iniciativas, dictámenes o documentos que vayan a ser discutidos en las reuniones de trabajo de la Comisión se distribuyan y entreguen a los diputados integrantes con un mínimo de 48 horas anteriores a la celebración de la misma.
 
+> <small>(ADICIONADO, G.O. 18 DE MAYO DE 2012)</small>
+
+###### Artículo 19 Bis.
+
+Para ser Secretario Técnico se deberá contar con los requisitos siguientes:
+
+a) Ser licenciado con Título Profesional y contar con la cédula profesional respectiva para el ejercicio de la profesión, o bien contar con un grado académico similar, pero en todo caso en las áreas de derecho, administración pública, o en áreas afines a las funciones de la Comisión respectiva; y
+
+b) Contar con una experiencia mínima de dos años en materia legislativa o en las áreas señaladas en el inciso anterior.
+
+En caso de no contar con lo señalado en los incisos anteriores, deberá cursar una certificación cuyo programa, duración e impartición serán determinados por la Comisión de Gobierno.
+
 ## TÍTULO CUARTO
 
 DEL PROCEDIMIENTO DE TRABAJO EN LA COMISIÓN.
@@ -346,7 +358,7 @@ Las Comisiones se reunirán en sesión por lo menos una vez al mes, o en fechas 
 
 Las reuniones de trabajo de la Comisión podrán ser públicas o privadas. Las reuniones serán privadas cuando por la naturaleza de los temas a tratar, la Mesa Directiva así lo acuerde, y preferentemente no deberán sesionar los días que exista sesión del pleno, a menos que se trate de un asunto urgente.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 18 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE ABRIL DE 2011)</small>
 
 ###### Artículo 22.
 
@@ -554,9 +566,11 @@ Los dictámenes deberán ser estudios profundos y analíticos de las proposicion
 
 Todo dictamen deberá ser dirigido a la Honorable Asamblea Legislativa del Distrito Federal en hojas membretadas que contengan la leyenda de la Comisión o en su caso, la de las Comisiones Unidas de las cuales se forme parte.
 
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
+
 ###### Artículo 52.
 
-Todo dictamen estará compuesto de cuatro partes fundamentales: un preámbulo, los antecedentes, los considerandos y los puntos resolutivos. Deberá estar debidamente fundado y motivado en el que se expresen las razones en que se funde, las modificaciones que en su caso se hayan realizado, concluyendo en todo caso, con proposiciones claras y sencillas que puedan someterse a votación.
+Todo dictamen será elaborado con perspectiva de género, se redactará con un lenguaje claro, preciso, incluyente y no sexista, y se compondrá de cuatro partes fundamentales: un preámbulo, los antecedentes, los considerandos y los puntos resolutivos. Deberá estar debidamente fundado y motivado en el que se expresen las razones en que se funde, las modificaciones que en su caso se hayan realizado, concluyendo en todo caso, con proposiciones claras y sencillas que puedan someterse a votación.
 
 ###### Artículo 53.
 
@@ -605,6 +619,12 @@ Habrá quórum en Comisiones Unidas estando presentes la mitad más uno de los m
 ###### Artículo 63.
 
 El dictamen que aprueben las Comisiones Unidas deberá ser uno sólo, aprobado por el voto mayoritario de los diputados presentes. Cada diputado tendrá derecho a un voto sin importar su pertenencia a dos o más comisiones.
+
+> <small>(ADICIONADO, G.O. 18 DE MAYO DE 2012)</small>
+
+###### Artículo 63 Bis.
+
+A las sesiones de la Comisiones Unidas se le aplicarán las disposiciones de los títulos cuarto y quinto, salvo por lo dispuesto en el presente título.
 
 ## TITULO SÉPTIMO
 
@@ -658,7 +678,7 @@ SECRETARIO
 
 DIP. JUVENTINO RODRÍGUEZ RAMOS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 G.O. 30 DE MARZO DE 2005.
 
@@ -711,3 +731,23 @@ El presente Decreto entrará en vigor al día siguiente de su aprobación por el
 ###### ARTÍCULO SEGUNDO.
 
 Respecto de las reformas a la Ley Orgánica, remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 18 DE MAYO DE 2012.
+
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 52 DEL REGLAMENTO INTERIOR DE LAS COMISIONES DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.
+
+###### ARTÍCULO PRIMERO.
+
+Túrnese al Jefe de Gobierno del Distrito Federal única y exclusivamente para su publicación en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su aprobación en el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+G.O. 18 DE MAYO DE 2012.
+
+DECRETO POR EL QUE SE ADICIONAN LOS ARTÍCULOS 19 BIS Y 63 BIS DEL REGLAMENTO INTERIOR DE LAS COMISIONES DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.
+
+PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal única y exclusivamente para su publicación en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su aprobación en el Pleno de la Asamblea Legislativa del Distrito Federal.
