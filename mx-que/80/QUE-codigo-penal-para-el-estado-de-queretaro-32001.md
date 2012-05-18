@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2012-03-07"
+last_updated: "2012-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -1199,10 +1199,6 @@ V.- De dos a cuatro años de prisión si ponen en peligro la vida;
 
 VI.- De dos a cinco años de prisión si producen la pérdida de cualquier función orgánica, miembro, órgano o facultad, o causan una enfermedad cierta o probablemente incurable o deformidad incorregible;
 
-> <small>(N. DE E., ESTA FRACCIÓN SE REPITE CON EL CONTENIDO DE LA FRACCIÓN VI BAJO EL NUMERAL VII)</small>
-
-VII.- De dos a cinco años de prisión si producen la pérdida de cualquier función orgánica, miembro, órgano o facultad, o causan una enfermedad cierta o probablemente incurable o deformidad incorregible;
-
 > <small>(REFORMADA, P.O. 01 DE NOVIEMBRE DE 1990)</small>
 
 VII.- De tres a seis años de prisión si causan incapacidad por más de un mes y menos de un año para trabajar en la profesión, arte u oficio del ofendido;
@@ -1883,9 +1879,11 @@ V.- Por una o varias personas armadas o llevando cualquier instrumento peligroso
 
 VI.- En contra de una oficina recaudatoria o cualquier otra en que se conserven caudales; o en contra de las personas que las custodian, manejan, transportan, o que por cualquier motivo estén presentes, o en local abierto al público;
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VII.- Respecto de vehículo o maquinaria, estacionados en la vía pública o en otro lugar destinado a su guarda o reparación, y (sic)
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2012)</small>
+
+VII.- Respecto de vehículo o maquinaria, independientemente del lugar en que se encuentre;
 
 VIII.- Quebrantando la confianza o seguridad derivada de una relación de servicio, trabajo u hospitalidad.
 
@@ -4144,3 +4142,9 @@ P.O. 7 DE MARZO DE 2012.
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 18 DE MAYO DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o mejor jerarquía que se opongan a la presente Ley.
