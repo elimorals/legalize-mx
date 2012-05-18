@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2012-01-01"
+last_updated: "2012-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "MEX"
 ---
 # CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE MAYO DE 2012 EN LA G.G., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
 ÚLTIMA ACTUALIZACIÓN POR ACUERDO EN QUE SE DAN A CONOCER LAS CUOTAS Y TARIFAS PARA EL EJERCICIO FISCAL DE 2012: 1 DE ENERO DE 2012.
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE DICIEMBRE DE 2011.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO EL 18 DE MAYO DE 2012.</small>
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -111,7 +111,7 @@ XII. Ejercicio Fiscal. Al que comprende del primero de enero al treinta y uno de
 
 XIII. Organismos Autónomos. Aquellas Entidades que cuentan con personalidad jurídica y patrimonio propios, autonomía de gestión e independencia de los Poderes Legislativo, Ejecutivo y Judicial, tales como la Universidad Autónoma del Estado de México, Comisión de Derechos Humanos del Estado de México y órganos electorales del Estado de México.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEÁSE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -119,7 +119,7 @@ XIV. Entidades Públicas. A tribunales administrativos y organismos públicos de
 
 XV. Estado. Al Estado Libre y Soberano de México.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEÁSE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -143,7 +143,7 @@ XXII. Hacienda Pública. A la obtención, administración y aplicación de los i
 
 XXIII. IGECEM. Al Instituto de Información e Investigación Geográfica, Estadística y Catastral del Estado de México.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEÁSE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -241,13 +241,13 @@ F). Residencial alto y campestre. La que tenga al término de la construcción o
 
 En el caso que las leyes federales incrementen o disminuyan los montos estimados, se deberá estar a lo dispuesto en esas disposiciones legales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEÁSE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 XLI. Establecimiento principal. El lugar en el que se realicen actividades de administración, económicas, comerciales o de dirección, que generen obligaciones fiscales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEÁSE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -273,7 +273,7 @@ XLVI. Sello digital. Al sello electrónico en los términos de la Ley para el Us
 
 XLVII. SEITS. Al Sistema Electrónico de Información, Trámites y Servicios, en los términos de la Ley para el Uso de Medios Electrónicos del Estado de México.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEÁSE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
@@ -389,7 +389,7 @@ El Estado, los municipios y los organismos públicos descentralizados podrán ce
 
 El Gobernador, por conducto del titular de la Secretaría, podrá celebrar convenios de colaboración administrativa con otros Estados y el Distrito Federal, en las materias de verificación, determinación y recaudación de las contribuciones, así como para la notificación de créditos fiscales y aplicación del procedimiento administrativo de ejecución.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 18.
 
@@ -405,7 +405,7 @@ Las demás disposiciones fiscales se deberán aplicar mediante cualquier método
 
 Las personas físicas y jurídicas colectivas, incluidas las asociaciones en participación, están obligadas al pago de las contribuciones y aprovechamientos, conforme a las disposiciones de este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 20.
 
@@ -443,25 +443,25 @@ El pago de los créditos fiscales determinados conforme al presente artículo, n
 
 Cuando la declaración y/o pago referido en el párrafo anterior se realice con posterioridad al pago que haya efectuado del crédito fiscal determinado por la autoridad conforme a este artículo, este último pago se disminuirá del importe que tenga que pagar por la contribución a su cargo. En caso de que en la declaración y/o pago resultare una cantidad menor a la determinada por la autoridad fiscal, la diferencia únicamente podrá ser compensada en las declaraciones y/o pagos subsecuentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 20-A.
 
 Cuando las disposiciones fiscales obliguen a presentar documentos, éstos deberán ser digitales y contener una firma electrónica del autor, en los términos de la Ley de Medios Electrónicos, salvo los casos que establezcan una regla diferente. Las autoridades fiscales, mediante reglas de carácter general podrán autorizar el uso de otras firmas electrónicas.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
-> <small>(DEROGADO TERCER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
-> <small>(DEROGADO CUARTO PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 > <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 Cuando los contribuyentes remitan un documento digital a las autoridades fiscales, recibirán acuse de recibo que contenga el sello digital.
 
-> <small>(DEROGADO SEXTO PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(DEROGADO SEXTO PÁRRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 21.
 
@@ -479,37 +479,37 @@ Si como consecuencia de la presentación de la declaración complementaria, se d
 
 Los sujetos que tengan obligación de presentar declaraciones periódicas de conformidad con las disposiciones de este Código y no tengan impuestos a cargo, presentarán la declaración en ceros y sólo estarán obligados a presentar nuevamente las declaraciones hasta que exista cantidad a pagar, se presente aviso de baja o suspensión o bien se trate de un nuevo ejercicio fiscal, teniendo que presentar en su caso la declaración del primer periodo en ceros.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 22.
 
 Se considera domicilio fiscal de las personas físicas y jurídicas colectivas:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEÁSE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 I. El lugar o establecimiento donde se realicen actividades que generen obligaciones fiscales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEÁSE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 II. El lugar o establecimiento en que se realice el hecho generador de la obligación fiscal, cuando las actividades no se realicen en forma habitual.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEÁSE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 III. El lugar o establecimiento que señalen ante la autoridad fiscal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEÁSE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 IV. La residencia que identifique la autoridad fiscal, cuando exista certeza de que es el único lugar posible de localización del contribuyente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VEÁSE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -535,9 +535,9 @@ E). El contribuyente desocupe el local donde tenga su domicilio fiscal, sin pres
 
 F). Cuando se señale domicilio inexistente o falso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VEÁSE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(DEROGADO CUARTO PARRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 > <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
@@ -593,7 +593,7 @@ En el caso de que la autoridad, no reciba el acuse de recibo por parte del contr
 
 Cuando se realicen notificaciones por medios electrónicos se tendrá como fecha de notificación la que corresponda al acuse de recibo y surtirá efectos a partir del día hábil siguiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 23.
 
@@ -605,13 +605,13 @@ Están exentos del pago de impuestos, derechos y aportaciones de mejoras, el Est
 
 Lo dispuesto en el párrafo anterior no resulta aplicable para los artículos 56 y 216 I, así como a lo previsto en la Sección Segunda, del Capítulo Primero del Título Tercero de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VEÁSE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 Para efectos de la declaración de la exención a que se refiere la fracción IV del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, la calidad de bien del dominio público, deberá acreditarse fehacientemente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VEÁSE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -637,7 +637,7 @@ Cualquier estipulación privada, relativa al pago de un crédito fiscal que se o
 
 El cumplimiento o exigibilidad de la obligación fiscal, no legitimará hechos o circunstancias no apegadas a la ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEÁSE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -645,7 +645,7 @@ El cumplimiento o exigibilidad de la obligación fiscal, no legitimará hechos o
 
 La determinación de los créditos fiscales corresponde a los contribuyentes, salvo disposición expresa en contrario. En caso de que la autoridad fiscal deba realizar esta determinación, los contribuyentes, proporcionarán la información necesaria dentro de los quince días siguientes contados a partir de que surta efecto la notificación del requerimiento de la autoridad.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 26.
 
@@ -675,7 +675,7 @@ Quien pague créditos fiscales recibirá de la oficina recaudadora el recibo ofi
 
 En el pago de créditos fiscales a través de transferencia de fondos, se considerará como recibo oficial del pago, el documento impreso por el contribuyente, emitido por el sistema de cobranza automatizado reconocido por la autoridad fiscal, en el que conste el número de referencia que se asigne a la operación autorizada.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEÁSE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -683,7 +683,7 @@ En el pago de créditos fiscales a través de transferencia de fondos, se consid
 
 El pago en especie de un crédito fiscal vía dación en pago podrá hacerse en forma total o parcial y estará condicionado a la aceptación por parte de la autoridad fiscal competente, quien en su caso, lo admitirá únicamente cuando no existan bienes de más fácil realización y el deudor manifieste bajo protesta de decir verdad tal circunstancia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VEÁSE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -723,7 +723,7 @@ Los bienes muebles e inmuebles recibidos en dación en pago quedarán en custodi
 
 Para determinar las contribuciones, aprovechamientos y sus accesorios se considerarán, inclusive, las fracciones del peso. No obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de uno hasta cincuenta centavos se ajusten a la unidad inmediata anterior y las que contengan cantidades de cincuenta y uno a noventa y nueve centavos, se ajusten a la unidad inmediata superior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEÁSE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -11039,11 +11039,9 @@ El funcionamiento del Comité Técnico del fideicomiso a que se refiere el prese
 
 ### CAPITULO SEGUNDO. DE LAS PARTICIPACIONES E INCENTIVOS A LOS MUNICIPIOS DERIVADAS DEL SISTEMA NACIONAL DE COORDINACION FISCAL Y EL DE COORDINACION HACENDARIA DEL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE MAYO DE 2012 EN LA G.G., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2011) (F. DE E., G.G. 18 DE MAYO DE 2012)
 
 ###### Artículo 217.
 
@@ -11141,7 +11139,7 @@ D). El 100% de la recaudación del Impuesto sobre Erogaciones por Remuneraciones
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2011) (F. DE E., G.G. 18 DE MAYO DE 2012)
 
 Para efectos de este artículo se entenderá como ingresos, los efectivamente recibidos o recaudados por el Gobierno del Estado de México y Municipios, después de aplicar los estímulos fiscales, subsidios o devoluciones que en su caso correspondan.
 
