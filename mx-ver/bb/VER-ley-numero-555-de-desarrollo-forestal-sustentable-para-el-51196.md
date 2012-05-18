@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-555-de-desarrollo-forestal-sustentable-para-el-51196
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-14"
-last_updated: "2006-07-14"
+last_updated: "2012-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51196&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MAYO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 14 de julio de 2006.
 
@@ -99,9 +99,13 @@ VII. PLAN SECTORIAL ESTATAL FORESTAL: A los instrumentos de la planeación que d
 
 VIII. REGLAMENTO: El de la presente Ley;
 
-IX. RESIDENCIAS DE ZONA PARA LA GESTIÓN FORESTAL: A las dependencias de la Secretaría de Desarrollo Agropecuario, Rural, Forestal, Pesca y Alimentación ubicadas en las zonas forestales prioritarias en que se divida la Entidad para efectos de ordenamiento y la atención del sector;
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-X. SECRETARÍA: A la Secretaría de Desarrollo Agropecuario, Rural, Forestal y Pesca;
+IX. Residencias de zona para la gestión forestal: A las oficinas de la Secretaría de Medio Ambiente ubicadas en las zonas forestales prioritarias en que se divida la Entidad para efectos de ordenamiento y la atención del sector;
+
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
+
+X. Secretaría: A la Secretaría de Medio Ambiente;
 
 XI. SERVICIO ESTATAL FORESTAL: Al Órgano de la Administración Pública que se conforma con las dependencias y entidades de los tres órdenes de gobierno cuyas atribuciones, facultades, recursos, instrumentos, servicios y acciones de quienes lo integran, se relacionan y en consecuencia se dirigen a la atención eficiente, coordinada e integral de la conservación, protección, restauración, de los ecosistemas forestales y sus elementos, de las cuencas hidrológico forestales, así como la ejecución de obras destinadas al desarrollo sustentable de quienes viven relacionados al sector forestal; y
 
@@ -121,7 +125,9 @@ Las acciones y recursos de este organismo público deberán comprometerse median
 
 De manera enunciativa, mas no limitativa, el Servicio Estatal Forestal se conformará por las dependencias y entidades siguientes:
 
-I. Secretaría de Desarrollo Agropecuario, Rural, Forestal, Pesca y Alimentación, cuyo titular lo presidirá;
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
+
+I. Secretaría de Medio Ambiente, cuyo titular lo presidirá;
 
 II. Secretaría de Seguridad Pública;
 
@@ -157,17 +163,17 @@ El Reglamento determinará los términos para su constitución y funcionamiento,
 
 ### CAPÍTULO II. Distribución de Competencias
 
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
+
 ###### Artículo 10.
 
-Son Autoridades competentes para procurar la regulación y el fomento de las acciones del desarrollo forestal sustentable en la Entidad de acuerdo a las esferas de sus atribuciones:
+Son autoridades competentes para procurar la regulación y el fomento de las acciones del desarrollo forestal sustentable en la Entidad, de acuerdo a las esferas de sus atribuciones:
 
-I. El Ejecutivo del Estado a través de la Secretaría de Desarrollo Agropecuario, Rural, Forestal, Pesca y Alimentación;
+I. El Ejecutivo del Estado a través de la Secretaría de Medio Ambiente;
 
-II. El Gobierno Federal atendiendo lo que se dispone en la Ley General de Desarrollo Forestal Sustentable; y
+Il. El Gobierno Federal atendiendo lo que se dispone en la Ley General de Desarrollo Forestal Sustentable; y
 
 III. Las autoridades municipales.
-
-En términos de lo antes dispuesto, y con apego a la Ley Orgánica del Poder Ejecutivo del Estado, la Secretaría se coordinará y concurrirá en el ejercicio de las atribuciones que son materia de esta ley, con la Secretaría de Desarrollo Social y Medio Ambiente, en función de la competencia que a la misma le atribuye la ley orgánica invocada.
 
 #### SECCIÓN PRIMERA. Atribuciones del Ejecutivo del Estado
 
@@ -1130,3 +1136,19 @@ LICENCIADO FIDEL HERRERA BELTRÁN
 GOBERNADOR DEL ESTADO
 
 RÚBRICA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 18 DE MAYO DE 2012.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. El presupuesto, mobiliario, equipo, archivos y en general todos los recursos humanos, financieros y materiales que tenía asignados el área u órgano administrativo competente en materia de Desarrollo Forestal, adscritos e incorporados a la Secretaría de Desarrollo Agropecuario, Rural Forestal y Pesca, que por este decreto cambia de denominación por el de Secretaría de Desarrollo Agropecuario, Rural y Pesca, pasarán a la Secretaría de Medio Ambiente.
+
+Cuarto. El personal que por lo dispuesto en el presente Decreto cambie de adscripción conservará sus derechos laborales conforme a la ley.
+
+Quinto. Los procedimientos y recursos que se encuentren en trámite a la entrada en vigor de este decreto se substanciarán hasta su total conclusión, con arreglo a la ley, en la Secretaría del Medio Ambiente.
+
+Sexto. Las menciones en todo tipo de ordenamientos a la Secretaría de Desarrollo Agropecuario, Rural, Forestal y Pesca, como dependencia competente en materia forestal, se entenderán referidas a la Secretaría de Medio Ambiente, cuya normativa interior se reformará a la brevedad posible en términos del presente Decreto.
