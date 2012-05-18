@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-penales-para-el-estado-de-queretaro-75
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-06"
-last_updated: "2011-10-05"
+last_updated: "2012-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 6 de julio de 1989.
 
@@ -827,9 +827,9 @@ V.- El asalto en el supuesto señalado en el artículo 157;
 
 VI.- La violación en los supuestos de los artículos 160, 161, 162 y 163;
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2012)</small>
 
-VII.- El robo previsto en la fracción III del artículo 182 en los supuestos establecidos en los artículos 183 y 183 BIS; así como el robo previsto en las fracciones I,II y III del artículo 182 en los supuestos establecidos en el artículo 183 TER del Código Penal;
+VII.- El robo previsto en la fracción III del artículo 182 en los supuestos establecidos en los artículos 183, fracciones II, III, IV, V, VI y VIII y 183 BIS; así como el robo previsto en las fracciones I, II y III del artículo 182 en los supuestos establecidos en los artículos 183, fracciones I y VII y 183 TER del Código Penal;
 
 > <small>(REFORMADA, P.O. 15 DE JULIO DE 2011)</small>
 
@@ -2762,3 +2762,9 @@ P.O. 5 DE OCTUBRE DE 2011.
 Artículo Primero. La presente Ley entrará en vigor a los treinta días naturales siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 18 DE MAYO DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Articulo Segundo. Se derogan todas las disposiciones de igual o mejor jerarquía que se opongan a la presente Ley.
