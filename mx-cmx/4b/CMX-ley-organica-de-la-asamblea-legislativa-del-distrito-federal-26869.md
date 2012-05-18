@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2012-05-09"
+last_updated: "2012-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE MAYO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -388,7 +388,9 @@ El Diputado que no concurra a una sesión de una Comisión o Comité al que pert
 
 Sólo podrán justificarse aquellas inasistencias que se presenten por las siguientes causas:
 
-I.- Enfermedad o cualquier otra razón relacionada con la salud del diputado o sus familiares;
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
+
+I.- Enfermedad o cualquier otra razón relacionada con la salud del diputado o sus familiares, entendiendo por tales a aquél que tenga relación de matrimonio o concubinato con el diputado o diputada de que se trate o cuyo parentesco sea por consanguinidad o por afinidad, en ambos casos hasta el segundo grado colateral o en línea recta sin límite de grado, o civil.
 
 II.- Por estar en sesión de Pleno, cuando la reunión de la comisión a la que pertenece el diputado se realice de manera simultánea;
 
@@ -407,6 +409,14 @@ Sin perjuicio de lo establecido en el último párrafo del artículo 27 del Regl
 > <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
 
 El diputado que no asista a reuniones de Comisión o Comités y reúna más de tres faltas consecutivas, sin justificación alguna, causará baja de la misma, la cual, será notificada por el Presidente de la Comisión o Comité respectivo ante la Comisión de Gobierno y avalada por el Pleno de la Asamblea Legislativa.
+
+> <small>(ADICIONADO, G.O. 18 DE MAYO DE 2012)</small>
+
+Para la justificación de las inasistencias citadas en las fracciones anteriores, se requerirá que se presente en conjunto, ante el Presidente respectivo, el oficio de justificación y copia del documento que acredite cualquiera de las causas señaladas.
+
+> <small>(ADICIONADO, G.O. 18 DE MAYO DE 2012)</small>
+
+En el caso de la fracción primera, el documento idóneo será la copia de la receta médica que contenga nombre, firma y número de cédula profesional del médico que la emita.
 
 ## TITULO TERCERO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LA ASAMBLEA LEGISLATIVA
 
@@ -486,17 +496,17 @@ Durante el desarrollo de la sesiones, cualquier diputado podrá solicitar a la M
 
 Corresponde al Presidente de la Mesa Directiva:
 
-> <small>(REFORMADA, G.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-I.- Abrir y clausurar las sesiones del Pleno de la Asamblea, así como prorrogarlas, declararlas en receso, en sesión permanente, o suspenderlas por causa justificada;
+I.- Abrir, convocar y clausurar las sesiones del Pleno de la Asamblea, así como prorrogarlas, declararlas en receso, en sesión permanente, o suspenderlas por causa justificada;
 
 > <small>(REFORMADA, G.O. 9 DE JULIO DE 2007)</small>
 
 II.- Adoptar las decisiones y medidas que se requieran para la organización del trabajo de las sesiones del Pleno, de conformidad con la presente Ley, el Reglamento para el Gobierno Interior de la Asamblea Legislativa y/o la práctica parlamentaria desarrollada en la Asamblea Legislativa;
 
-> <small>(REFORMADA, G.O.19 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O.18 DE MAYO DE 2012)</small>
 
-III.- Programar, conjuntamente con la Comisión de Gobierno, el desarrollo general de las sesiones;
+III.- Programar consultando con la Comisión de Gobierno, el desarrollo general de las sesiones;
 
 > <small>(REFORMADA, G.O.19 DE NOVIEMBRE DE 2010)</small>
 
@@ -662,7 +672,9 @@ X.- Recibir, dentro de los diez primero días del mes de junio, la Cuenta Públi
 
 XI.- Acordar la celebración de sesiones públicas y elaborar la agenda de los asuntos políticos y de trámite que se tratarán en éstas;
 
-XII.- Programar, conjuntamente con el Presidente de la Mesa Directiva, los trabajos de los períodos de sesiones;
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
+
+XII.- Consultar con el Presidente de la Mesa Directiva, la programación de los trabajos de los periodos de sesiones;
 
 > <small>(REFORMADA, G.O.19 DE NOVIEMBRE DE 2010)</small>
 
@@ -1066,9 +1078,9 @@ Las Comisiones Ordinarias se integrarán por los miembros electos por el Pleno d
 
 El análisis y dictamen legislativo, así como las discusiones y votaciones en comisión, se regirán por las disposiciones del Reglamento para el Gobierno Interior de la Asamblea Legislativa y por el Reglamento Interior para Comisiones de la Asamblea.
 
-> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
 
-Todo dictamen que presenten las comisiones estará compuesto de cuatro partes fundamentales: un preámbulo, los antecedentes, los considerandos y los puntos resolutivos. Deberá estar debidamente fundado y motivado, las modificaciones que en su caso se hayan realizado y concluir con proposiciones claras y sencillas que puedan sujetarse a votación.
+Todo dictamen se elaborará con perspectiva de género y estará redactado con un lenguaje claro, preciso, incluyente y no sexista, y se compondrán de cuatro partes fundamentales: un preámbulo, los antecedentes, los considerandos y los puntos resolutivos. Deberá estar debidamente fundado y motivado, las modificaciones que en su caso se hayan realizado y concluir con proposiciones claras y sencillas que puedan sujetarse a votación.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2011)</small>
 
@@ -1863,3 +1875,31 @@ TERCERO.- El Fondo al que se refiere la presente Ley es el que actualmente opera
 La Comisión de Gobierno y el Comité Técnico del fideicomiso realizarán las modificaciones al contrato referido en el párrafo anterior para dar cumplimiento al presente decreto.
 
 CUARTO.- La Asamblea Legislativa del Distrito Federal garantizará que los apoyos hasta el momento otorgados por el Fideicomiso mencionado en el artículo transitorio anterior continúen hasta la conclusión del grado de estudios para el que fueron comprometidos.
+
+G.O. 18 DE MAYO DE 2012.
+
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 63 DE LA LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.
+
+###### ARTÍCULO PRIMERO.
+
+Túrnese al Jefe de Gobierno del Distrito Federal única y exclusivamente para su publicación en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su aprobación en el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+G.O. 18 DE MAYO DE 2012.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 36 Y 44 DE LA LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.
+
+PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal única y exclusivamente para su publicación en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su aprobación en el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+G.O. 18 DE MAYO DE 2012.
+
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 24 DE LA LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.
+
+PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal única y exclusivamente para su publicación en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su aprobación en el Pleno de la Asamblea Legislativa del Distrito Federal.
