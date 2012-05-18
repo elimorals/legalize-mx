@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-ejecutivo-del-estado-de-queretaro-65079"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-17"
-last_updated: "2012-01-18"
+last_updated: "2012-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -153,7 +153,7 @@ Como titular de cada dependencia habrá un Secretario, salvo el caso de la Ofici
 
 Los titulares de las dependencias formularán proyectos de ley, reglamentos, decretos y acuerdos de observancia general en las materias que correspondan a su competencia y las remitirán al Gobernador del Estado, a través de la Secretaría de Gobierno.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2011)</small>
 
 ###### Artículo 19.
 
@@ -379,11 +379,11 @@ XXXII. Intervenir en el otorgamiento de los subsidios que conceda el Poder Ejecu
 
 XXXIII. Prestar a los municipios, cuando así lo soliciten, la asesoría y el apoyo técnico necesario para la elaboración de sus planes y programas de desarrollo;
 
-XXXIV. Normar las acciones que en materia de informática se lleven a cabo en la administración pública estatal;
+XXXIV. (DEROGADA, P.O. 18 DE MAYO DE 2012)
 
-XXXV. Diseñar, implantar y operar, en coordinación con las dependencias y organismos, los sistemas computarizados que se requieran para su mejor funcionamiento;
+XXXV. (DEROGADA, P.O. 18 DE MAYO DE 2012)
 
-XXXVI. Prestar asesoría técnica a las entidades públicas que lo requieran y dictaminar sobre la adquisición de equipos de informática y la contratación de servicios que se relacionen;
+XXXVI. (DEROGADA, P.O. 18 DE MAYO DE 2012)
 
 XXXVII. Dar a conocer en forma periódica, mediante publicación en el Periódico Oficial del Gobierno del Estado, los criterios no vinculativos de las disposiciones fiscales. Asimismo publicar en el mismo órgano de difusión, las resoluciones dictadas por las autoridades fiscales que faciliten su conocimiento y aplicación por parte de los contribuyentes;
 
@@ -391,13 +391,13 @@ XXXVIII. Interpretar y aplicar en el ámbito de su competencia las disposiciones
 
 XXXIX. Nombrar a los titulares de las direcciones y unidades administrativas de la Secretaría, así como al Procurador Fiscal del Estado; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
 XL. Dar contestación a las solicitudes de colaboración al titular de la Procuraduría de la Defensa del Menor y la Familia del Estado, que tengan por objeto realizar las investigaciones para determinar el domicilio de quien ejerza la patria potestad de un menor puesto a disposición de aquélla o acogido por una institución de asistencia pública o privada; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -505,7 +505,9 @@ XI. Ejercer, previo acuerdo del Gobernador del Estado, las atribuciones y funcio
 
 XII. Proponer y coadyuvar en la operación, dirección y formulación de manera coordinada con la Secretaría de Desarrollo Urbano y Obras Públicas y la Comisión Estatal de Aguas, de los programas, proyectos y acciones específicas para el abastecimiento, tratamiento de aguas, prestación de los servicios de agua potable, drenaje, alcantarillado y pluvial;
 
-XIII. Vigilar el cumplimiento y aplicación de las normas en materia de preservación y restauración del equilibrio ecológico y la protección al medio ambiente para el desarrollo sustentable; y
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2012)</small>
+
+XIII. Vigilar el cumplimiento y aplicación de las normas en materia de preservación y restauración del equilibrio ecológico y la protección al medio ambiente para el desarrollo sustentable, así como fomentar el desarrollo de escuelas de nivel básico, medio y medio superior sustentables; y
 
 XIV. Las demás facultades y atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
 
@@ -1009,7 +1011,7 @@ Secretario de Gobierno
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 26 DE NOVIEMBRE DE 2010.
 
@@ -1102,3 +1104,23 @@ Artículo Sexto. Hasta en tanto se realizan las adecuaciones a la legislación q
 Artículo Séptimo. El presupuesto vigente aprobado para la Secretaría de Seguridad Ciudadana en materia de Transporte, será reasignado a la Secretaría de Gobierno, quedando autorizada la Secretaría de Planeación y Finanzas para que en términos de los artículos 68, 70, 71 y demás relativos de la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, realice las transferencias que resulten necesarias, a efecto de que la Secretaría de Gobierno cuente con los recursos suficientes para el desarrollo de los objetivos y programas en materia de Transporte, sin necesidad de tramitar la modificación al Presupuesto aprobado por la Quincuagésima Sexta Legislatura del Estado de Querétaro para el ejercicio presupuestario correspondiente.
 
 Artículo Octavo. Se derogan todas las demás disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 18 DE MAYO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+SE DEROGAN LAS FRACCIONES XXXIV, XXXV Y XXXVI DEL ARTÍCULO 22 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 18 DE MAYO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+SE REFORMA LA FRACCIÓN XIII, DEL ARTÍCULO 25 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
