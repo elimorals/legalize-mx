@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-acceso-de-las-mujeres-a-una-vida-libre-de-53416"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-02-01"
-last_updated: "2011-01-28"
+last_updated: "2012-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53416&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-01-31"
 
 LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de febrero de 2007.
 
@@ -45,7 +45,7 @@ LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ENERO DE 2009)</small>
 
 ###### ARTÍCULO 1.
 
@@ -127,7 +127,7 @@ VI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañ
 
 Violencia familiar: Es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, dentro o fuera del domicilio familiar, cuyo Agresor tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ENERO DE 2009)</small>
 
 ###### ARTÍCULO 8.
 
@@ -179,7 +179,7 @@ El hostigamiento sexual es el ejercicio del poder, en una relación de subordina
 
 El acoso sexual es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ENERO DE 2009)</small>
 
 ###### ARTÍCULO 14.
 
@@ -247,7 +247,7 @@ Para cumplir con su obligación de garantizar el derecho de las mujeres a una vi
 
 ### CAPÍTULO I. DEL SISTEMA NACIONAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ENERO DE 2009)</small>
 
 ###### ARTÍCULO 21.
 
@@ -417,13 +417,17 @@ V. La Secretaría de Educación Pública;
 
 VI. La Secretaría de Salud;
 
-VII. El Instituto Nacional de las Mujeres, quien ocupará la Secretaría Ejecutiva del Sistema;
+> <small>(ADICIONADA, D.O.F. 18 DE MAYO DE 2012)</small>
 
-VIII. El Consejo Nacional para Prevenir la Discriminación;
+VII. La Secretaría del Trabajo y Previsión Social;
 
-IX. El Sistema Nacional para el Desarrollo Integral de la Familia, y
+VIII. El Instituto Nacional de las Mujeres, quien ocupará la Secretaría Ejecutiva del Sistema;
 
-X. Los mecanismos para el adelanto de las mujeres en las entidades federativas.
+IX. El Consejo Nacional para Prevenir la Discriminación;
+
+X. El Sistema Nacional para el Desarrollo Integral de la Familia, y
+
+XI. Los mecanismos para el adelanto de las mujeres en las entidades federativas.
 
 ###### ARTÍCULO 37.
 
@@ -701,11 +705,33 @@ XIII. Celebrar convenios de cooperación, coordinación y concertación en la ma
 
 XIV. Las demás previstas para el cumplimiento de la presente ley.
 
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2012)</small>
+
+ARTÍCULO 46 BIS.- Corresponde a la Secretaría del Trabajo y Previsión Social:
+
+I. Impulsar acciones que propicien la igualdad de oportunidades y la no discriminación de mujeres y de hombres en materia de trabajo y previsión social;
+
+II. Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de la violencia laboral contra las mujeres;
+
+III. Promover la cultura de respeto a los derechos humanos de las mujeres en el ámbito laboral;
+
+IV. Diseñar y difundir materiales que promuevan la prevención, atención y erradicación de la violencia contra las mujeres en los centros de trabajo;
+
+V. Orientar a las víctimas de violencia laboral sobre las instituciones que prestan atención y protección a las mujeres;
+
+VI. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente ley;
+
+VII. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+VIII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa, y
+
+IX. Las demás previstas para el cumplimiento de la presente ley.
+
 #### Sección Octava.. Del Instituto Nacional de las Mujeres
 
 #### Sección Novena.. De las Entidades Federativas
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ENERO DE 2009)</small>
 
 #### Sección Décima.. De los Municipios
 
@@ -941,11 +967,11 @@ Para efectos del artículo anterior, el personal médico, psicológico y jurídi
 
 En ningún caso se podrá mantener a las víctimas en los refugios en contra de su voluntad.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, D.O.F. 28 DE ENERO DE 2011)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, D.O.F. 28 DE ENERO DE 2011)</small>
 
 ## TITULO IV. DE LAS RESPONSABILIDADES Y SANCIONES
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 28 DE ENERO DE 2011)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 28 DE ENERO DE 2011)</small>
 
 ###### Artículo 60.
 
@@ -989,7 +1015,7 @@ México, D.F., a 19 de diciembre de 2006.- Dip. Jorge Zermeño Infante, Presiden
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de enero de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 20 DE ENERO DE 2009.
 
@@ -998,3 +1024,9 @@ D.O.F. 20 DE ENERO DE 2009.
 D.O.F. 28 DE ENERO DE 2011.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE MAYO DE 2012.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El titular del Ejecutivo Federal, dentro de los 30 días siguientes a la entrada en vigor del presente Decreto, deberá llevar a cabo las reformas que sean necesarias al reglamento de la ley.
