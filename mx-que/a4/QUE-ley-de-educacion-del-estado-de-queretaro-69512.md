@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-educacion-del-estado-de-queretaro-69512"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-31"
-last_updated: "2012-03-09"
+last_updated: "2012-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de julio de 2009.
 
@@ -162,6 +162,10 @@ XIV. Difundir y fomentar el conocimiento y la práctica habitual, en los educand
 > <small>(ADICIONADA, P.O. 2 DE MARZO DE 2012)</small>
 
 XV. Impulsar la capacitación del educando con requerimientos de educación especial para realizarse como una persona autónoma, posibilitando su integración y participación en su medio social.
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2012)</small>
+
+XVI. Fomentar la creación y desarrollo de escuelas sustentables.
 
 ###### Artículo 12.
 
@@ -1069,7 +1073,7 @@ Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicaci�
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
-P.O. 2 DE MARZO DE 2012
+P.O. 2 DE MARZO DE 2012.
 
 LEY POR LA QUE SE ADICIONA UNA FRACCIÓN IV AL ARTÍCULO 2, SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 7, SE ADICIONA UNA FRACCIÓN XV AL ARTÍCULO 11, SE REFORMA LA FRACCIÓN II Y SE ADICIONAN LAS FRACCIONES XIII Y XIV, RECORRIÉNDOSE LAS SUBSECUENTES, DEL ARTÍCULO 13, SE ADICIONA UN ARTÍCULO 14 BIS A, SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 16, SE ADICIONA UNA NUEVA FRACCIÓN XVI Y UNA FRACCIÓN XVII, RECORRIÉNDOSE LAS SUBSECUENTES, TODAS DEL ARTÍCULO 33, SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 52, SE REFORMAN LOS ARTÍCULOS 68 Y 69, SE DEROGA EL CAPÍTULO SEGUNDO DEL TÍTULO OCTAVO Y LOS ARTÍCULOS 70, 71 Y 72 QUE LO INTEGRAN, SE REFORMAN LOS ARTÍCULOS 73, 74, 75 Y 78, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO.
 
@@ -1088,3 +1092,9 @@ P.O. 9 DE MARZO DE 2012.
 Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 18 DE MAYO DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
