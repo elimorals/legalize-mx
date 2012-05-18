@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-14-2012-del-pleno-del-consejo-de-la-87611"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-05-04"
-last_updated: "2012-05-04"
+last_updated: "2012-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87611&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2012-04-25"
 ---
 # ACUERDO GENERAL 14/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [CONCLUSION DE FUNCIONES DEL JUZGADO TERCERO DE DISTRITO AUXILIAR DE LA TERCERA REGION, CON RESIDENCIA EN GUANAJUATO, GUANAJUATO Y SU TRANSFORMACION EN JUZGADO DECIMO DE DISTRITO EN IRAPUATO, GUANAJUATO, ASI COMO FECHA DE INICIO DE FUNCIONES Y REGLAS DE TURNO, RECEPCION Y DISTRIBUCION DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN LA ENTIDAD Y RESIDENCIA INDICADAS]
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE MAYO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ACUERDO GENERAL 14/2012, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL JUZGADO TERCERO DE DISTRITO AUXILIAR DE LA TERCERA REGIÓN, CON RESIDENCIA EN GUANAJUATO, GUANAJUATO Y SU TRANSFORMACIÓN EN JUZGADO DÉCIMO DE DISTRITO EN EL ESTADO DE GUANAJUATO, CON SEDE EN IRAPUATO, ASÍ COMO A SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, FECHA DE INICIO DE FUNCIONES Y A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN LA ENTIDAD Y RESIDENCIA INDICADAS
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 18 DE MAYO DE 2012.</small>
 
 Acuerdo publicado en la Cuarta Sección del Diario Oficial de la Federación, el viernes 4 de mayo de 2012.
 
@@ -111,8 +111,6 @@ Asimismo, deberá levantar por duplicado un acta administrativa del inicio de su
 
 SEPTIMO. El órgano jurisdiccional de nueva creación deberá remitir dentro de los primero cinco días naturales de cada mes su reporte estadístico a la Dirección General de Estadística Judicial.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE PUNTO OCTAVO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE MAYO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 OCTAVO. Se modifica el Acuerdo General 11/2011 del Pleno del Consejo de la Judicatura Federal, publicado el doce de mayo de dos mil once en el Diario Oficial de la Federación, como se indica a continuación:
 
 I. Se reforma el punto QUINTO del Acuerdo General 11/2011, en su punto 3 para quedar como sigue:
@@ -149,7 +147,9 @@ XVI. DECIMOSEXTO CIRCUITO:
 
 …
 
-Los Juzgados de Distrito en el Estado de Guanajuato, con residencia en Irapuato, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de Abasolo, Allende, Cuerámaro, Huanímaro, Irapuato, Pénjamo, Pueblo Nuevo, Romita, Salamanca, Silao y Valle de Santiago”.
+> <small>(F. DE E., D.O.F. 18 DE MAYO DE 2012)</small>
+
+Los Juzgados de Distrito en el Estado de Guanajuato, con residencia en Irapuato, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de Abasolo, Cuerámaro, Huanímaro, Irapuato, Pénjamo, Pueblo Nuevo, Romita, Salamanca, San Miguel de Allende, Silao y Valle de Santiago”.
 
 NOVENO. Se modifica el punto PRIMERO. CONFORMACION, COMPETENCIA Y DENOMINACION del Acuerdo General 18/2008, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato, así como los órganos jurisdiccionales que lo integrarán, para quedar como sigue:
 
