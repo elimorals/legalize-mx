@@ -4,7 +4,7 @@ identifier: "LCPAF"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-22"
-last_updated: "2010-11-04"
+last_updated: "2012-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCPAF"
 
 LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 22 de diciembre de 1993.
 
@@ -108,7 +108,7 @@ II. Los códigos de Comercio, Civil para el Distrito Federal en materia Común, 
 
 ### CAPITULO II. JURISDICCION Y COMPETENCIA
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 5o.
 
@@ -132,7 +132,13 @@ VI. Expedir las normas oficiales mexicanas de caminos y puentes así como de veh
 
 VII. (DEROGADA, D.O.F. 4 DE ENERO DE 1999)
 
-VIII. Establecer las bases generales de regulación tarifaria; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2012)</small>
+
+VIII. Establecer las bases generales de regulación tarifaria.
+
+Las motocicletas deberán pagar el 50 por ciento del peaje que paguen los automóviles, y
 
 IX. Las demás que señalen otras disposiciones legales aplicables.
 
@@ -428,7 +434,7 @@ Todos los vehículos de autotransporte de carga, pasaje y turismo que transiten 
 
 Las empresas que cuenten con los elementos técnicos conforme a la norma oficial mexicana respectiva, podrán ellas mismas realizar la verificación técnica de sus vehículos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 36.
 
@@ -812,7 +818,7 @@ III. La reincidencia.
 
 Las sanciones que se señalan en este Título se aplicarán sin perjuicio de la responsabilidad penal que resulte, ni de que, cuando proceda, la Secretaría revoque la concesión o permiso.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 79.
 
@@ -874,7 +880,7 @@ México, D.F., a 13 de diciembre de 1993.- Dip. Cuauhtémoc López Sánchez, Pre
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los quince días del mes de diciembre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 4 DE ENERO DE 1999.
 
@@ -921,3 +927,7 @@ D.O.F. 4 DE NOVIEMBRE DE 2010.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Se derogan todas aquellas disposiciones legales y administrativas que se opongan al presente Decreto.
+
+D.O.F. 18 DE MAYO DE 2012.
+
+Único.- El presente Decreto entrará en vigor a los 180 días naturales siguientes a su publicación en el Diario Oficial de la Federación.
