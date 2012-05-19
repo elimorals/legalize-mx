@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-urbano-sostenible-del-estado-de-chihuahua-814
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-14"
-last_updated: "2011-05-14"
+last_updated: "2012-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81431&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DESARROLLO URBANO SOSTENIBLE DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2012.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de mayo de 2011.
 
@@ -2241,6 +2241,24 @@ a) Para establecimientos comerciales y de servicios, que sean de bajo impacto ur
 
 b) Para micro y pequeña industria, que sean de bajo impacto urbano y no contaminante.
 
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2012)</small>
+
+IV. Tratándose del otorgamiento de licencias de uso de suelo para estaciones de servicio denominadas gasolineras, en poblaciones que tengan 500 mil habitantes o más, además de cumplir con las normas establecidas en esta Ley y en los reglamentos municipales en la materia, en su caso, deberán reunir los siguientes requisitos:
+
+a) Los predios para el establecimiento de estaciones de servicio de las denominadas gasolineras, en las que se expenda gasolina o diesel, deberán estar localizados sobre accesos a carreteras, autopistas, libramientos, vías primarias o principales, colectoras, así como en aquellos predios cuya ubicación sea compatible y conforme al uso de suelo del Plan de Desarrollo Urbano del Municipio de que se trate.
+
+b) Las estaciones de servicio de las denominadas gasolineras, en las que se expenda gasolina o diesel, cumplirán con las disposiciones en materia de protección civil, ambiental, de seguridad Industrial y demás normas aplicables, y se ubicarán a una distancia radial mínima que será de entre 1,200 metros y 1,700 metros, una respecto de la otra, atendiendo a las condiciones de los índices de riesgo y de contaminación que determinen los reglamentos municipales.
+
+c) El predio deberá ubicarse a una distancia mínima de resguardo de 300 metros radiales de lugares de concentración de personas, tales como escuelas, hospitales, guarderías o centros de cuidado de infantes.
+
+d) El predio deberá ubicarse a una distancia mínima de resguardo de 150 metros radiales de mercados, cines, teatros, templos, auditorios o cualquier otro sitio en el que, dada su naturaleza, puedan concentrarse 100 o más personas en forma habitual o esporádica.
+
+e) El predio deberá ubicarse a una distancia mínima de resguardo de 150 metros radiales respecto de plantas de almacenamiento de gas licuado de petróleo y de aquellos centros de despacho a sistemas de carburación automotor e industrias de alto riesgo que empleen productos químicos, soldadura, fundición, fuego, entre otros, así como del comercio que emplee gas con sistema estacionario con capacidad de almacenamiento de 500 litros o más.
+
+f) El predio deberá ubicarse a una distancia mínima de resguardo de 30 metros radiales respecto de líneas eléctricas de alta tensión, de los ejes de las vías férreas, así como de los ductos que transporten cualquier derivado del petróleo.
+
+g) Las bombas expendedoras de gasolina y/o diesel y sus tanques de almacenamiento deberán quedar a una distancia mínima de 30 metros radiales de viviendas.
+
 Se entenderá como bajo impacto urbano que los usos de predios no obstruyan la vía pública, no provoquen congestionamientos viales, no arrojen al drenaje sustancias o desechos tóxicos, no emitan ruidos o humos perceptibles por los vecinos, tengan acceso directo a la vía pública, y que los procesos de comercialización sean al menudeo.
 
 En caso de controversia, tendrá preferencia el uso de suelo habitacional.
@@ -3208,3 +3226,19 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintiocho días del mes de abril del año dos mil once.
 
 El GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. LA SECRETARIA GENERAL DE GOBIERNO. LIC. GRACIELA ORTIZ GONZÁLEZ. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE MAYO DE 2012
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos deberán ajustar, en su caso, los reglamentos de la materia, teniendo presente las disposiciones de la Ley de Desarrollo Urbano Sostenible del Estado de Chihuahua.
+
+###### ARTÍCULO TERCERO.
+
+Los Ayuntamientos que cuenten con una población menor a la de 500 mil habitantes, podrán exentarse de la aplicación del inciso b) de la fracción IV, del artículo 150 de la Ley de Desarrollo Urbano Sostenible del Estado de Chihuahua, previo dictamen correspondiente aprobado por el cabildo, debidamente fundado y motivado.
