@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-5149
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-07-15"
-last_updated: "2011-11-30"
+last_updated: "2012-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51498&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2012.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 15 de julio de 2006.
 
@@ -443,9 +443,15 @@ XII. Abstenerse de intervenir en los asuntos legislativos en los que tengan un i
 
 XIII. Presentar al menos una iniciativa de ley, decreto, acuerdo o estudio legislativo dentro de cada periodo ordinario de sesiones;
 
-XIV. Entregar su declaración de situación patrimonial, conforme a las disposiciones legales aplicables; y
+XIV. Entregar su declaración de situación patrimonial, conforme a las disposiciones legales aplicables; y (sic)
 
-XV. Las demás que les señalen las leyes y disposiciones reglamentarias aplicables.
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2012)</small>
+
+XV. Presentar el soporte documental que compruebe el ejercicio de los recursos que reciban para gastos de gestión legislativa, administrativa y social, y
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2012)</small>
+
+XVI. Las demás que le confiera la Constitución Política y leyes del Estado.
 
 ### Capítulo II. De los derechos de los diputados
 
@@ -471,7 +477,9 @@ VIII. Recibir, con antelación, las copias de los dictámenes de ley o decreto, 
 
 IX. Emitir su voto en el sentido que crean conveniente, tanto en las resoluciones de la Asamblea, como de las comisiones y demás órganos que establece esta Ley y su Reglamento General;
 
-X. Contar con el apoyo económico, técnico y administrativo necesario para el desempeño de sus funciones;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2012)</small>
+
+X. De acuerdo a la previsión presupuestal anual, contar con el apoyo económico, técnico, administrativo y material necesario para el desempeño eficaz de sus funciones;
 
 XI. Participar con voz en todas las comisiones;
 
@@ -627,7 +635,7 @@ III. El jurisdiccional.
 
 ### Capítulo II. Del procedimiento legislativo
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2008)</small>
 
 ###### ARTÍCULO 43.
 
@@ -691,7 +699,7 @@ II. De decreto, cuando se trate de un proyecto de resolución por el que se otor
 
 III. De acuerdo, si se refiere a cualquier otra resolución que no sea ley o decreto. Éstas sólo podrán ser presentadas por los miembros de la Legislatura.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2008)</small>
 
 ###### ARTÍCULO 49.
 
@@ -709,7 +717,7 @@ III. Disposiciones transitorias y, en su caso, disposiciones adicionales, con ex
 
 La estructura lógico jurídica de las iniciativas de ley se integra por libros, títulos, capítulos, secciones en su caso, artículos, párrafos, fracciones e incisos, y su numeración es progresiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2008)</small>
 
 ###### ARTÍCULO 51.
 
@@ -743,7 +751,7 @@ III. Si el dictamen propone una resolución, deberá reunir las condiciones de m
 
 Ningún diputado podrá dictaminar ni votar asunto en el que tenga interés personal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2008)</small>
 
 ###### ARTÍCULO 54.
 
@@ -1273,7 +1281,7 @@ La Comisión Permanente se integra con once diputados propietarios y otros tanto
 
 La Comisión Permanente sesionará con la mayoría de sus miembros. A falta de los titulares se llamará a los suplentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2009)</small>
 
 ###### ARTÍCULO 117.
 
@@ -2665,7 +2673,7 @@ SECRETARIO
 
 DIP. JUAN FRANCISCO AMBRÍZ VALDÉZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 22 DE DICIEMBRE DE 2007.
 
@@ -2685,7 +2693,7 @@ P.O. 7 DE ENERO DE 2009.
 
 P.O. 11 DE JULIO DE 2009.
 
-DECRETO NO. 338 QUE REFORMA EL PRIMER PARRAFO DEL ARTICULO 117 DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS.
+DECRETO NO. 338 QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 117 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS.
 
 Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
@@ -2693,7 +2701,7 @@ Artículo segundo.- Se derogan todas aquellas disposiciones que contravengan est
 
 P.O. 11 DE JULIO DE 2009.
 
-DECRETO NO. 347 QUE DEROGAN Y REFORMAN LOS ARTICULOS 77, 82, 83 Y 125 DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS.
+DECRETO NO. 347 QUE DEROGAN Y REFORMAN LOS ARTÍCULOS 77, 82, 83 Y 125 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS.
 
 Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
@@ -2708,3 +2716,7 @@ Artículo segundo.- Se derogan todas las disposiciones que contravengan este Dec
 P.O. 30 DE NOVIEMBRE DE 2011.
 
 ÚNICO. El presente Decreto entrará en vigor el día 07 de septiembre de 2013 y se publicará en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 19 DE MAYO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
