@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "2012-02-23"
+last_updated: "2012-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE JUNIO DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE LOS SERVICIOS DE VIALIDAD, TRÁNSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -41,6 +43,8 @@ Ley de los Servicios de Vialidad, Tránsito y Transporte del Estado de Jalisco
 
 ### CAPITULO I. Del objeto de la Ley
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE JUNIO DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 ###### Artículo 1.
 
 La presente Ley tiene por objeto:
@@ -49,11 +53,13 @@ I. Regir el tránsito en el Estado de Jalisco para establecer el orden y control
 
 II. Establecer las bases para programar, organizar, administrar y controlar la infraestructura vial, la infraestructura carretera y el equipamiento vial;
 
-III. Determinar las bases para planear, establecer, regular, administrar, controlar y supervisar el servicio público de transporte; y
+III. Determinar las bases para planear, establecer, regular, administrar, controlar y supervisar el servicio público de transporte; y (sic)
 
 IV. Establecer la coordinación del Estado y los municipios para integrar y administrar el sistema de vialidad, tránsito y transporte, en los términos del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
-Las disposiciones de esta Ley y sus reglamentos son de orden público e interés social, debiéndose aplicar supletoriamente en lo conducente y no previsto, las disposiciones de la Ley que regule el procedimiento ante el Tribunal de lo Administrativo y las instancias que deriven del mismo.
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2012)</small>
+
+V. Establecer los esquemas de coordinación institucional, así como la delimitación de las atribuciones para el cumplimiento de los objetivos y fines de los programas de fomento a la cultura y educación vial.
 
 ###### Artículo 2.
 
@@ -313,7 +319,9 @@ V. Formular, dirigir, coordinar y controlar la ejecución de los programas relat
 
 VI. Coordinar los proyectos y programas de construcción y ampliación de las obras del sistema de transporte eléctrico; autorizarlos en el ámbito de su competencia y vigilar aquéllos que directa o indirectamente sean operados por el Estado;
 
-VII. Establecer, impartir y administrar los programas de educación vial;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2012)</small>
+
+VII. Elaborar programas para el fomento de la cultura y educación vial, mediante la coordinación con otras entidades del servicio público, así como con el sector social y/o el sector privado;
 
 VIII. Establecer, diseñar y administrar los programas de instrucción y capacitación para conductores y operadores de vehículos, así como señalar los requisitos y criterios para su evaluación;
 
@@ -421,7 +429,9 @@ V. Realizar los estudios necesarios sobre tránsito de vehículos, a fin de logr
 
 VI. Indicar las características específicas y la ubicación que deberán tener los dispositivos y señales para la regulación del tránsito, conforme a las normas generales de carácter técnico;
 
-VII. Apoyar y participar en los programas de educación vial que establezca el Estado;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2012)</small>
+
+VII. Apoyar y participar en los programas de fomento a la cultura y educación vial que elabore el Estado;
 
 VIII. Coordinarse con el Ejecutivo del Gobierno del Estado y con otros municipios de la entidad, para dar cumplimiento a las disposiciones de esta Ley;
 
@@ -3346,5 +3356,9 @@ SEGUNDO. El titular del Poder Ejecutivo estatal realizará las gestiones necesar
 TERCERO. Este decreto entrará en vigor treinta días naturales después de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 23 DE FEBRERO DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 19 DE MAYO DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
