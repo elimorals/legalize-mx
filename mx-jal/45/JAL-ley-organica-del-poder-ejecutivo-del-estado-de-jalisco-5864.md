@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-5864"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-02-28"
-last_updated: "2009-12-31"
+last_updated: "2012-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE JUNIO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de febrero de 1989.
 
@@ -1115,9 +1117,15 @@ XIX. Proponer al Gobernador del Estado las normas, políticas y medidas correspo
 
 XX. Participar en la elaboración de los programas institucionales de las entidades paraesttales (sic) cuya coordinación le corresponda, así como analizar y dictaminar sobre ellos y promover los ajustes que se requieran;
 
-XXI. Preparar, para la revisión del Secretario General de Gobierno y aprobación final del Ejecutivo, los proyectos que en esta materia deben ser sometidos a la revisión del Congreso del Estado; y,
+XXI. Preparar, para la revisión del Secretario General de Gobierno y aprobación final del Ejecutivo, los proyectos que en esta materia deben ser sometidos a la revisión del Congreso del Estado; y, (sic)
 
-XXII. Las demás atribuciones que le señalen las leyes y otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2012)</small>
+
+XXII. Promover e impulsar la cultura vial, mediante la elaboración e implementación de programas de educación vial, y
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2012)</small>
+
+XXIII. Las demás atribuciones que señalen las leyes y otras disposiciones aplicables.
 
 ###### Art. 38.
 
@@ -1375,7 +1383,7 @@ XIV. Promover entre los empleadores la equidad y la no discriminación tanto en 
 
 > <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
-XV. Vigilar el cumplimiento de la normatividad que prohibe la discriminación laboral por parte de los patrones o empleadores, motivada por la edad, el género, origen étnico, la condición social, la religión, las opiniones, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas, a menos que se trate del requerimiento propio de la idoneidad de las personas, para desempeñar una función; y
+XV. Vigilar el cumplimiento de la normatividad que prohíbe la discriminación laboral por parte de los patrones o empleadores, motivada por la edad, el género, origen étnico, la condición social, la religión, las opiniones, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas, a menos que se trate del requerimiento propio de la idoneidad de las personas, para desempeñar una función; y
 
 > <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
@@ -2024,3 +2032,7 @@ CUARTO. A partir de la entrada en vigor de este decreto, el Poder Ejecutivo debe
 P.O. 31 DE DICIEMBRE DE 2009.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 19 DE MAYO DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
