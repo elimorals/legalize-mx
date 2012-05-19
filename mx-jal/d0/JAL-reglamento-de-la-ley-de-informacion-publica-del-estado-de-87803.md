@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-de-informacion-publica-del-estado-de-87803
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-05-17"
-last_updated: "2012-05-17"
+last_updated: "2012-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87803&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO DE LA LEY DE INFORMACION PUBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE MAYO DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DE LA LEY DE INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 19 DE MAYO DE 2012.</small>
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 17 de mayo de 2012.
 
@@ -83,21 +83,27 @@ V. Los municipios podrán establecer en sus Reglamentos en materia de transparen
 
 VI. En el caso de subsidios a las personas referidas en el artículo 23 fracción XI de la Ley, éstas estarán sujetas a las reglas de operación que al efecto se expidan y a las demás disposiciones legales aplicables.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE MAYO DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 19 DE MAYO DE 2012)</small>
 
 ###### Artículo 5.
 
 Los sujetos obligados que no cuenten con la estructura suficiente para la publicación de la información fundamental en Internet o en otros medios de fácil acceso y comprensión para la población, tal y como lo señala el artículo 24 fracción VI de la Ley, deberán hacerlo del conocimiento del Instituto de manera fundada y motivada.
 
-El Instituto, una vez recibida la comunicación antes señalada, contará con veinte días hábiles para emitir un dictamen sobre la suficiencia del sujeto obligado para publicar su propia información fundamental. Dicho dictamen establecerá las medidas que deberá tomar el sujeto obligado para la publicación de su información fundamental.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE MAYO DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 19 DE MAYO DE 2012)</small>
 
 ###### Artículo 6.
 
+El Instituto, una vez recibida la comunicación antes señalada, contará con veinte días hábiles para emitir un dictamen sobre la suficiencia del sujeto obligado para publicar su propia información fundamental. Dicho dictamen establecerá las medidas que deberá tomar el sujeto obligado para la publicación de su información fundamental.
+
+> <small>(F. DE E., P.O. 19 DE MAYO DE 2012)</small>
+
+###### Artículo 7.
+
 El Instituto deberá contar con las herramientas materiales y humanas necesarias para poder albergar en su sitio oficial de Internet, la información fundamental de los sujetos obligados a los que hace mención el artículo anterior.
 
-Artículo 8 (sic). Los sujetos obligados mencionados en el artículo 5 del presente Reglamento deberán remitir la información fundamental al Instituto dentro del plazo que señalen para tal efecto los Lineamientos Generales de Publicación y Actualización de Información Fundamental.
+###### Artículo 8.
+
+Los sujetos obligados mencionados en el artículo 5 del presente Reglamento deberán remitir la información fundamental al Instituto dentro del plazo que señalen para tal efecto los Lineamientos Generales de Publicación y Actualización de Información Fundamental.
 
 ###### Artículo 9.
 
