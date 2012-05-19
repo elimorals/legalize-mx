@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-general-del-poder-legislativo-del-estado-de-52505"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-13"
-last_updated: "2011-11-30"
+last_updated: "2012-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2012.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 13 de diciembre de 2006.
 
@@ -185,15 +185,25 @@ IX. Recibir, cuando lo solicite, copias de las actas de sesiones;
 
 X. Solicitar por conducto de la Secretaría General copia de la grabación de la sesión cuando así lo requiera;
 
-XI. Solicitar licencia en los términos de la Constitución, así como permisos de acuerdo a la Ley y este Reglamento, y
+XI. Solicitar licencia en los términos de la Constitución, así como permisos de acuerdo a la Ley y este Reglamento, y (sic)
 
 XII. Proponer la celebración de convenios, para optimizar el funcionamiento de la Legislatura.
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2012)</small>
+
+XIII. Recibir los apoyos económicos para gestión legislativa, administrativa y social, por diputado, por grupo parlamentario o por comisión legislativa, en la proporción y montos que prevenga el reglamento para el control y ejercicio presupuestal del Poder Legislativo.
 
 ### Capítulo II. De las responsabilidades y de la disciplina
 
 ###### Artículo 10.
 
 Los diputados en el ejercicio de sus funciones deberán conducirse con legalidad, honradez, lealtad, imparcialidad, eficiencia y oportunidad.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2012)</small>
+
+###### Artículo 10 Bis.
+
+Comprobar, dentro de los diez días de cada bimestre concluido, con la entrega de los documentos que reúnan los requisitos que señala el reglamento para el control y ejercicio presupuestal del Poder Legislativo, los recursos que reciban para gestión legislativa, administrativa y social.
 
 ###### Artículo 11.
 
@@ -2330,3 +2340,7 @@ Artículo segundo.- Se derogan todas las disposiciones que contravengan este Dec
 P.O. 30 DE NOVIEMBRE DE 2011.
 
 ÚNICO. El presente Decreto entrará en vigor el día 07 de septiembre de 2013 y se publicará en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 19 DE MAYO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
