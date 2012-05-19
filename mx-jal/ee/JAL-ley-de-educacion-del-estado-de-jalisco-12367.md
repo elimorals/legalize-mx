@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2012-05-10"
+last_updated: "2012-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY DE EDUCACION DEL ESTADO DE JALISCO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE JUNIO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE EDUCACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE MAYO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -363,11 +363,15 @@ XXXIII. Elaborar los principios y las metodologías para fomentar la cultura edu
 
 En el caso de que una obra científica o tecnológica sea reconocida como innovadora, coadyuvar y asesorar en el registro de la invención, su procedimiento, metodología y patente, reconociendo la participación del profesor, el alumno y el plantel escolar;
 
-> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2012)</small>
 
-XXXIV. Desarrollar e implementar de manera coordinada con las autoridades competentes, instrumentos y programas de educación para la salud, la prevención de accidentes, así como para prevenir, combatir y erradicar la drogadicción, el alcoholismo y el tabaquismo, y
+XXXIV. Coordinarse con la Secretaría de Vialidad y Transporte para el fomento a la cultura vial, mediante la implementación de programas de educación vial dirigidos a los educandos y que promuevan el conocimiento, comprensión y respeto a las normas, la prevención de accidentes y la convivencia responsable entre usuarios de las vías públicas;
 
-XXXV. Las demás que con tal carácter establezcan esta ley y otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2012)</small>
+
+XXXV. Desarrollar e implementar, de manera coordinada con las autoridades competentes, instrumentos y programas de educación para la salud, la prevención de accidentes, así como para prevenir, combatir y erradicar la drogadicción, el alcoholismo y el tabaquismo, y
+
+XXXVI. Las demás que con tal carácter establezcan esta ley y otras disposiciones aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2007)</small>
 
@@ -793,7 +797,11 @@ VI.- Fortalecimiento del conocimiento de la historia y geografía del Estado;
 
 VII.- Fomento del servicio a la comunidad en una participación social comprometida, y
 
-VIII.- Las demás que tiendan al bienestar individual y social.
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2012)</small>
+
+VIII.- Programas de fomento a la cultura y educación vial, y
+
+IX.- Las demás que tiendan al bienestar individual y social.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2000)</small>
 
@@ -2266,3 +2274,7 @@ SEGUNDO. El titular del Poder Ejecutivo del Estado de Jalisco procederá a crear
 TERCERO. La Secretaría de Educación deberá emitir las reglas de conducta, previstas en el Título Noveno de este ordenamiento en un plazo no mayor de ciento veinte días a la entrada en vigor del presente decreto.
 
 CUARTO. Los centros educativos deberán emitir el reglamento interno a que se refiere este título, en un plazo no mayor a los ciento cincuenta días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 19 DE MAYO DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
