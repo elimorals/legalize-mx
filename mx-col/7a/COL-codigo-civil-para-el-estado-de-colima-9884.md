@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2012-05-05"
+last_updated: "2012-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2012.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -2691,7 +2691,7 @@ ART. 410 L.- La adopción será decretada cuando presente reales ventajas para e
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
 
-ART. 410 LL.- La adopción plena es irrevocable. No puede terminar por acuerdo entre las partes, pero puede demandarse la pérdida de la patria potestad por las mismas causales que en !a (sic) filiación biológica, o pedirse su nulidad cuando los padres adoptivos hayan ocultado de mala fe que el adoptado fue víctima de cualquier delito contra la libertad personal, y que por consecuencia no había sido abandonado.
+ART. 410 LL.- La adopción plena es irrevocable. No puede terminar por acuerdo entre las partes, pero puede demandarse la pérdida de la patria potestad por las mismas causales que en la filiación biológica, o pedirse su nulidad cuando los padres adoptivos hayan ocultado de mala fe que el adoptado fue víctima de cualquier delito contra la libertad personal, y que por consecuencia no había sido abandonado.
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
 
@@ -8461,9 +8461,13 @@ ART. 2294.- Se prohibe a los magistrados, a los jueces y cualesquiera otros empl
 
 ART. 2295.- Se prohibe a los encargados de los establecimientos públicos y a los funcionarios y empleados públicos, tomar en arrendamiento los bienes que con los expresados caracteres administren.
 
-ART. 2296.- El arrendamiento debe otorgarse por escrito cuando la renta pase de cien pesos anuales.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2012)</small>
 
-ART. 2297.- Si el predio fuere rústico y la renta pasare de tres mil pesos anuales, el contrato se otorgará en escritura pública.
+ART. 2296.- El arrendamiento debe otorgarse por escrito cuando la renta pase de 30 salarios mínimos al mes, la falta de esta formalidad se imputara al arrendador.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2012)</small>
+
+ART. 2297.- Si el predio fuere rustico y la renta pasare del monto que resulte de dos mil salarios mínimos al año, el contrato se otorgará en escritura pública.
 
 ART. 2298.- El contrato de arrendamiento no se rescinde por la muerte del arrendador ni del arrendatario, salvo convenio en otro sentido.
 
@@ -8483,7 +8487,9 @@ II.- A conservar la cosa arrendada en el mismo estado, durante el arrendamiento,
 
 III.- A no estorbar ni embarazar de manera alguna el uso de la cosa arrendada, a no ser por causa de reparaciones urgentes e indispensables;
 
-IV.- A garantizar el uso o goce pacífico de la cosa por todo el tiempo del contrato;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2012)</small>
+
+IV.- A garantizar el uso o goce pacífico y continuo de la cosa por todo el tiempo del contrato; y
 
 V.- A responder de los daños y perjuicios que sufra el arrendatario por los defectos o vicios ocultos de la cosa, anteriores al arrendamiento.
 
@@ -8531,7 +8537,9 @@ I.- A satisfacer la renta en la forma y tiempo convenidos;
 
 II.- A responder de los perjuicios que la cosa arrendada sufra por su culpa o negligencia, la de sus familiares, sirvientes o subarrendatarios;
 
-III.- A servirse de la cosa solamente para el uso convenido o conforme a la naturaleza y destino de ella.
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2012)</small>
+
+III.- A servirse de la cosa solamente para el uso convenido o conforme a la naturaleza y destino de ella, de manera continua y pacífica.
 
 ART. 2316.- El arrendatario no está obligado a pagar la renta sino desde el día en que reciba la cosa arrendada, salvo pacto en contrario.
 
@@ -8589,17 +8597,19 @@ ART. 2339.- El arrendador que no haga las obras que ordena la Oficina de los Ser
 
 ART. 2340.- El propietario no puede rehusar como fiador a una persona que reúna los requisitos exigidos por la ley para que sea fiador.
 
-Si la renta no excede de veinticinco pesos mensuales, es potestativo para el arrendatario dar fianza o substituir esa garantía con el depósito de un mes de renta.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2012)</small>
+
+Si la renta no excede de 20 salarios mínimos al mes, es potestativo para el arrendatario dar fianza o substituir esa garantía con el depósito de un mes de renta.
 
 ART. 2341.- No puede renunciarse anticipadamente el derecho de cobrar la indemnización que concede el artículo 2,339.
 
-> <small>(F. DE E., P.O. 2 DE ABRIL DE 1955)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2012)</small>
 
-ART. 2342.- La renta debe pagarse en los plazos convenidos, y a falta de convenio, por meses vencidos si la renta excede de cien pesos; por quincenas vencidas, si la renta es de sesenta a cien pesos y por semana, también vencidas, cuando la renta no llegue a sesenta pesos.
+ART. 2342.- La renta debe pagarse en los plazos convenidos y a falta de convenio, por meses vencidos.
 
 ### CAPITULO V. Del arrendamiento de fincas rústicas
 
-ART. 2343.- El propietario de un predio rústico debe cultivarlo, sin perjuicio de dejarlo descansar el tiempo que sea necesario para que no agote su fertilidad. Si no lo cultiva, tiene obligación de darlo en arrendamiento o en aparcería, de acuerdo con lo dispuesto en la Ley de Tierras Ociosas.
+ART. 2343.- (DEROGADO, P.O. 19 DE MAYO DE 2012)
 
 ART. 2344.- La renta debe pagarse en los plazos convenidos, y a falta de convenio, por semestres vencidos.
 
@@ -8695,7 +8705,13 @@ VI.- Por pérdida o destrucción total de la cosa arrendada, por caso fortuito o
 
 VII.- Por expropiación de la cosa arrendada hecha por causa de utilidad pública;
 
-VIII.- Por evicción de la cosa dada en arrendamiento.
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2012)</small>
+
+VIII.- Por evicción de la cosa dada en arrendamiento;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2012)</small>
+
+IX.- Por abandono injustificado de la cosa por un plazo mínimo de tres meses, sin previo aviso por escrito al arrendador.
 
 ART. 2374.- Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día prefijado sin necesidad de desahucio. Si no se ha señalado tiempo, se observará lo que disponen los artículos 2,368 y 2,369.
 
@@ -8717,7 +8733,9 @@ ART. 2378.- Cuando haya prórroga en el contrato de arrendamiento, y en los caso
 
 ART. 2379.- El arrendador puede exigir la rescisión del contrato:
 
-I.- Por la falta de pago de la renta en los términos prevenidos en los artículos 2,342 y 2,344;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2012)</small>
+
+I.- Por falta de pago de la renta en los términos prevenidos en los artículos 2342 y 2344, y/o por abandono de la cosa de acuerdo a la fracción IX del artículo 2373;
 
 II.- Por usarse la cosa en contravención a lo dispuesto en la fracción III del artículo 2,315;
 
@@ -11140,5 +11158,9 @@ P.O. 10 DE DICIEMBRE DE 2011.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 5 DE MAYO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 19 DE MAYO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
