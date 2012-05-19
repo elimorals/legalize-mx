@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2012-05-10"
+last_updated: "2012-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE MAYO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2012.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -347,7 +345,7 @@ III. Los programas operativos anuales serán aprobados a más tardar el día pri
 
 ###### Artículo 20.
 
-1. El 31 de enero del último año de ejercicio de la Legislatura, en sesión solemne, los diputados salientes declaran clausurada la Legislatura. El Presidente hace la declaración pronunciando las siguientes palabras: "El día de hoy, 31 de enero de (el año) se clausuran los trabajos de la (su número) Legislatura del Estado Libre y Soberano de Jalisco".
+1. El 31 de enero del último año de ejercicio de la Legislatura, en sesión solemne, los diputados salientes declaran clausurada la Legislatura. El Presidente hace la declaración pronunciando (sic) las siguientes palabras: "El día de hoy, 31 de enero de (el año) se clausuran los trabajos de la (su número) Legislatura del Estado Libre y Soberano de Jalisco".
 
 ## TÍTULO TERCERO. DIPUTADOS
 
@@ -365,7 +363,9 @@ III. Asistir a todas las reuniones de comisión y comité, de los que sean integ
 
 IV. Acatar las disposiciones y encomiendas de la Asamblea y de la Presidencia de la Mesa Directiva del Congreso del Estado que estén conformes con la presente Ley;
 
-V. Permanecer en el Recinto Oficial del Congreso del Estado durante el desarrollo de las sesiones y en las comisiones y comités durante las reuniones de trabajo debidamente convocadas conforme lo establezca el reglamento. Queda estrictamente prohibido a los diputados abandonar el Recinto Oficial sin el permiso previo de la presidencia de la Mesa Directiva;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2012)</small>
+
+V. Permanecer en el Recinto Oficial del Congreso del Estado durante el desarrollo de las sesiones y en las comisiones y comités durante las reuniones de trabajo debidamente convocadas conforme lo establezca el reglamento. Queda estrictamente prohibido a los diputados abandonar el Recinto Oficial sin el permiso previo de la presidencia de la Mesa Directiva; en caso de hacerlo se tendrá como inasistencia;
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
@@ -535,7 +535,9 @@ I. Conducir las sesiones de la Asamblea y asegurar el adecuado desarrollo de las
 
 II. Formular y cumplir el orden del día de las sesiones, conforme al calendario legislativo;
 
-III. Llevar el control de las asistencias de los diputados a las sesiones;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2012)</small>
+
+III. Llevar el control de las asistencias de los diputados, tanto al inicio como al final de las sesiones;
 
 IV. Cuidar que las iniciativas, dictámenes, acuerdos, propuestas, mociones y demás escritos que se presenten en la sesión, cumplan con los requisitos de formulación y presentación;
 
@@ -2543,7 +2545,9 @@ f) Antes de que el ciudadano Gobernador y los demás funcionarios hayan abandona
 
 1. El procedimiento legislativo ordinario es aquel que regula la creación, reforma, adición, derogación o abrogación de leyes o decretos, desde la iniciativa hasta la expresión legalmente válida de la voluntad del Poder Legislativo.
 
-2. La voluntad del Poder Legislativo se manifiesta mediante decreto legalmente aprobado por la Asamblea.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2012)</small>
+
+2. La voluntad del Poder Legislativo se manifiesta mediante ley, decreto o acuerdo legislativo relacionado con la fracción III del artículo 150 de esta ley, legalmente aprobado por la Asamblea.
 
 ###### Artículo 146.
 
@@ -4084,3 +4088,15 @@ SEXTO. Para el caso de lo contemplado en el artículo 66, párrafos primero y se
 > <small>(F. DE E., P.O. 10 DE MAYO DE 2012)</small>
 
 SÉPTIMO. Las solicitudes de apoyo que presenten las personas físicas o jurídicas ante el Consejo de Promoción Económica del Estado de Jalisco, podrán hacer referencia al Expediente único que contempla la Ley de Mejora Regulatoria del Estado de Jalisco.
+
+P.O. 19 DE MAYO DE 2012.
+
+DECRETO NÚMERO 23993/LIX/12, POR LO QUE SE REFORMAN LOS ARTÍCULOS 21 Y 35 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 19 DE MAYO DE 2012.
+
+DECRETO NÚMERO 23994/LIX/12, POR LO QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 145 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
