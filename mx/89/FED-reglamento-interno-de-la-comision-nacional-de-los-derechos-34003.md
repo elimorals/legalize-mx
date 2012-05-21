@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-los-derechos-3400
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-29"
-last_updated: "2011-10-31"
+last_updated: "2012-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34003&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2003-08-12"
 ---
 # REGLAMENTO INTERNO DE LA COMISION NACIONAL DE LOS DERECHOS HUMANOS
 
-REGLAMENTO INTERNO DE LA COMISION NACIONAL DE LOS DERECHOS HUMANOS
+REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MAYO DE 2012.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 29 de septiembre de 2003.
 
@@ -159,7 +159,7 @@ Si en un escrito de queja estuvieren involucrados tanto servidores públicos o a
 
 (Competencia de organismos especializados)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2011)</small>
 
 Los escritos de queja referentes a presuntas violaciones a los derechos humanos atribuibles a servidores públicos de organismos con facultades para atender las quejas y defender los derechos de los particulares, tales como las procuradurías Agraria, Federal del Consumidor, Federal de Protección al Ambiente, Federal de la Defensa del Trabajo o Federal de los Trabajadores al Servicio del Estado, Comisión Nacional de Arbitraje Médico, Comisión Nacional Bancaria y de Valores, Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, Consejo Nacional para Prevenir la Discriminación, Instituto Federal de Acceso a la Información Pública y Protección de Datos Personales, y los demás que cuenten con facultades similares, quedarán comprendidas dentro de la competencia de la Comisión Nacional.
 
@@ -249,9 +249,11 @@ La Secretaría Ejecutiva y la Secretaría Técnica del Consejo Consultivo auxili
 
 Durante las ausencias temporales del presidente de la Comisión Nacional, sus funciones y su representación legal serán ejercidas por el primer visitador general, en ausencia de éste por el segundo visitador general o, en su caso, el tercer, cuarto o quinto visitadores generales, en su orden.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE MAYO DE 2012)</small>
+
 ###### Artículo 21.
 
-(Unidades Administrativas)
+(Unidades administrativas)
 
 Para el despacho de los asuntos que directamente le corresponden a la presidencia de la Comisión Nacional, ésta contará con el apoyo de las unidades administrativas siguientes:
 
@@ -275,9 +277,21 @@ VII. Dirección General de Asuntos Jurídicos;
 
 VIII. Centro Nacional de Derechos Humanos;
 
-IX. Secretarías Particular y Técnica de la Presidencia de la Comisión Nacional, y
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 2012)</small>
 
-X. Las demás que se establezcan en los correspondientes acuerdos administrativos.
+IX. Dirección General de Seguimiento de Recomendaciones;
+
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 2012)</small>
+
+X. Coordinación de Asesores;
+
+> <small>(ADICIONADA, D.O.F. 21 DE MAYO DE 2012)</small>
+
+XI. Secretaría Particular de la Presidencia de la Comisión Nacional, y
+
+> <small>(ADICIONADA, D.O.F. 21 DE MAYO DE 2012)</small>
+
+XII. Las demás que se establezcan en los correspondientes acuerdos administrativos.
 
 La Comisión Nacional también contará con un órgano interno de control, el cual tendrá las atribuciones y estructura previstas en el presente Reglamento.
 
@@ -291,13 +305,13 @@ Se reserva en exclusiva al Presidente de la Comisión Nacional el nombramiento y
 
 Sin perjuicio de lo anterior, los titulares de las Visitadurías Generales, de las Secretarías Ejecutiva y Técnica del Consejo Consultivo y los titulares de las Unidades Administrativas a que hacen referencia los artículos 21 y 37 del Reglamento Interno, tendrán la facultad de nombrar y remover al personal de confianza de su adscripción, con apego a lo dispuesto en las fracciones VII y IX del apartado "B" del artículo 123 constitucional, dando el correspondiente aviso al Presidente de la Comisión.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE JUNIO DE 2006)</small>
 
 ###### Artículo 22.
 
 (De la Oficialía Mayor)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE JUNIO DE 2006)</small>
 
 La Oficialía Mayor tendrá las siguientes atribuciones, las cuales se ejercerán por sí misma o a través de las áreas previstas en su manual de organización:
 
@@ -345,13 +359,13 @@ XIX. Proponer al Presidente de la Comisión Nacional el establecimiento de norma
 
 XX. Las demás que le confieran las disposiciones legales, así como aquellas que le asigne el presidente de la Comisión Nacional.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE JUNIO DE 2006)</small>
 
 ###### Artículo 23.
 
 (Estructura de la Oficialía Mayor)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE JUNIO DE 2006)</small>
 
 Para el ejercicio de sus atribuciones la Oficialía Mayor contará con las siguientes áreas:
 
@@ -503,9 +517,21 @@ III. Las demás que le confieran las disposiciones legales, así como aquellas q
 
 Para el ejercicio de sus atribuciones, la Dirección General de Información Automatizada contará con un titular, el área de sistematización jurídica, y el personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
 
+> <small>(ADICIONADO, D.O.F. 21 DE MAYO DE 2012)</small>
+
 ###### Artículo 32.
 
-(DEROGADO, D.O.F. 3 DE ENERO DE 2005)
+(De la Dirección General de Seguimiento de Recomendaciones)
+
+La Dirección General de Seguimiento de Recomendaciones tendrá a su cargo las siguientes atribuciones:
+
+I. Analizar, evaluar e impulsar el seguimiento de las Recomendaciones emitidas por la Comisión Nacional para lograr su cumplimiento;
+
+II. Realizar las funciones previstas para la Unidad de Enlace en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y el Reglamento de Transparencia y Acceso a la Información de la Comisión Nacional, y
+
+III. Las demás que le sean encomendadas por el Presidente de la Comisión Nacional.
+
+La Dirección General de Seguimiento de Recomendaciones para el cumplimiento de las tareas encomendadas contará con personal de estructura, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
 
 ###### Artículo 33.
 
@@ -585,17 +611,21 @@ Además contará con el personal profesional, técnico y administrativo autoriza
 
 Por su naturaleza, el Centro Nacional de Derechos Humanos contará con un Reglamento Interno que deberá aprobar el Consejo Consultivo de la Comisión Nacional.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE JUNIO DE 2007)</small>
+> <small>(ADICIONADO, D.O.F. 21 DE MAYO DE 2012)</small>
+
+###### Artículo 35 Bis.
+
+(Coordinación de Asesores)
+
+La Coordinación de Asesores realizará estudios y análisis en materia de derechos humanos y las demás actividades que expresamente le encomiende el Presidente de la Comisión Nacional de los Derechos Humanos y contará con personal de estructura, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
+
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2012)</small>
 
 ###### Artículo 36.
 
-(De las Secretarías Particular y Técnica de la Presidencia)
+(De la Secretaría Particular)
 
-La Secretaría Particular y la Secretaría Técnica de la Presidencia dependerán directamente del presidente de la Comisión Nacional y para el cumplimiento de las tareas que le sean encomendadas contará cada una con un titular y el personal técnico, administrativo y de apoyo autorizado en el presupuesto de la Comisión Nacional.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 28 DE JUNIO DE 2007)</small>
-
-La Secretaría Técnica de la Presidencia de la Comisión contará con las funciones previstas para la Unidad de Enlace en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y el Reglamento de Transparencia y Acceso a la Información de la Comisión Nacional.
+La Secretaría Particular dependerá directamente del Presidente de la Comisión Nacional y para el cumplimiento de las tareas que le sean encomendadas contará con el personal técnico, administrativo y de apoyo autorizado en el presupuesto de la Comisión Nacional.
 
 ### CAPITULO III. ORGANO INTERNO DE CONTROL
 
@@ -693,7 +723,7 @@ Los lineamientos generales de actuación y las normas de carácter interno de la
 
 El presidente de la Comisión Nacional someterá a consideración de los miembros del Consejo Consultivo las propuestas de acuerdos, mismas que serán analizadas y aprobadas en la sesión correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE JUNIO DE 2006)</small>
 
 ###### Artículo 42.
 
@@ -1927,11 +1957,11 @@ f) Conclusiones.
 
 En el caso de informes especiales dirigidos a alguna autoridad, la Comisión Nacional no estará obligada a dar seguimiento; sin embargo, se hará constar en el expediente respectivo toda aquella información que se reciba sobre las medidas que se hubieren tomado y la autoridad haga del conocimiento de la Comisión Nacional.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, D.O.F. 3 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 3 DE ENERO DE 2005)</small>
 
 ## TITULO VII. DE LA EJECUCION DE SANCIONES ADMINISTRATIVAS
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 3 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 3 DE ENERO DE 2005)</small>
 
 ### CAPITULO UNICO
 
@@ -1993,7 +2023,7 @@ El Manual de Organización General de la Comisión Nacional de los Derechos Huma
 
 Ciudad de México, Distrito Federal, a doce de agosto de dos mil tres.- El Presidente de la Comisión Nacional de los Derechos Humanos y de su Consejo Consultivo, José Luis Soberanes Fernández.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 3 DE ENERO DE 2005.
 
@@ -2054,3 +2084,9 @@ D.O.F. 31 DE OCTUBRE DE 2011.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. El presente Acuerdo deberá ser publicado en la Gaceta de la Comisión Nacional de los Derechos Humanos.
+
+D.O.F. 21 DE MAYO DE 2012.
+
+PRIMERO. El presente Acuerdo deberá ser publicado en la Gaceta de la Comisión Nacional de los Derechos Humanos y en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
