@@ -4,7 +4,7 @@ identifier: "TLA-ley-de-acceso-a-la-informacion-publica-y-proteccion-de-53765"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-12"
-last_updated: "2011-04-26"
+last_updated: "2012-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53765&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TLA"
 ---
 # LEY DE ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES PARA EL ESTADO DE TLAXCALA
 
-LEY DE ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES PARA EL ESTADO DE TLAXCALA
+LEY DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES PARA EL ESTADO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ABRIL DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE TLAXCALA, PUBLICADA EN EL P.O. DE 22 DE MAYO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Número Extraordinario al Periódico Oficial del Estado de Tlaxcala, el viernes 12 de enero de 2007.
 
@@ -49,7 +51,7 @@ LEY DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES PARA 
 
 Las disposiciones de esta Ley tienen por objeto regular el Derecho de Acceso a la Información Pública y Protección de Datos Personales conforme a los principios y bases establecidos en el segundo párrafo del artículo 6° de la Constitución Política de los Estados Unidos Mexicanos; y en la fracción V del artículo 19 de la Constitución Política del Estado Libre y Soberano de Tlaxcala.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 2.
 
@@ -109,7 +111,7 @@ VI. Datos informáticos: Los datos personales tratados automatizadamente;
 
 VII. Datos personales: La información relativa a la vida privada de las personas;
 
-VlII. Datos: Un dato es la unidad o cantidad mínima de información no elaborada, sin sentido en sí misma pero que convenientemente tratada se puede utilizar en la realización de cálculos o toma de decisiones;
+VIII. Datos: Un dato es la unidad o cantidad mínima de información no elaborada, sin sentido en sí misma pero que convenientemente tratada se puede utilizar en la realización de cálculos o toma de decisiones;
 
 IX. Derecho de acceso a la información pública: La prerrogativa que tiene toda persona para acceder y obtener la información creada, administrada o en poder de las entidades públicas, en los términos de esta Ley;
 
@@ -147,7 +149,7 @@ XXV. Usuario de datos: Toda persona física, jurídica o entidad pública que tr
 
 XXVI. Versión pública: Documento en el que se testa o elimina la información como reservada o confidencial para permitir su acceso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2007)</small>
 
 ###### Artículo 5.
 
@@ -185,7 +187,7 @@ IX. En general cualquier servidor público titular de alguna oficina pública o 
 
 Los particulares que ejerzan actos de autoridad estarán obligados a entregar la información relacionada con esos actos a través del sujeto obligado que supervise estas actividades.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 6.
 
@@ -263,7 +265,7 @@ El quebranto a esta disposición se sancionará conforme a las disposiciones pen
 
 ### Capítulo I. Información Difundida de Oficio
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 15.
 
@@ -561,7 +563,7 @@ I. Máxima publicidad;
 
 II. Simplicidad y rapidez;
 
-Ill. Gratuidad del procedimiento;
+III. Gratuidad del procedimiento;
 
 IV. Costo razonable de reproducción de la información;
 
@@ -569,7 +571,7 @@ V. Suplencia de las deficiencias de las solicitudes, y
 
 VI. Auxilio y orientación a los particulares.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 33.
 
@@ -625,7 +627,7 @@ I. El titular de la entidad pública o el servidor público que ellos mismos des
 
 II. El responsable o titular de la unidad de archivo o jefe de información, y
 
-lIl. El titular del órgano de control interno.
+III. El titular del órgano de control interno.
 
 El Comité adoptará sus decisiones por mayoría de votos.
 
@@ -1011,7 +1013,7 @@ Durante el procedimiento que se siga para complementar. Rectificar, actualizar, 
 
 ### Capítulo I. Comisión de Acceso a la Información Pública y Protección de Datos Personales del Estado de Tlaxcala
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2007)</small>
 
 ###### Artículo 73.
 
@@ -1019,7 +1021,7 @@ La Comisión es un organismo público autónomo que se encargará de garantizar 
 
 Como Órgano máximo de gobierno contará con un Consejo General integrado en la forma y términos que establece esta Ley y su reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2007)</small>
 
 ###### Artículo 74.
 
@@ -1051,7 +1053,7 @@ La Comisión conforme a su disponibilidad presupuestal, contará con el personal
 
 El personal administrativo de la Comisión será de confianza.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2011)</small>
 
 ###### Artículo 75.
 
@@ -1103,7 +1105,7 @@ V. Los seis mejores resultados serán dados a conocer públicamente por el síno
 
 El resultado que de a conocer el Sínodo, será ratificado ante el Pleno en sesión pública extraordinaria, e inmediatamente se procederá a seleccionar a los comisionados mediante el voto de las dos terceras partes de los diputados que integren la Legislatura correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2007)</small>
 
 ###### Artículo 77.
 
@@ -1113,7 +1115,7 @@ Los comisionados rendirán la protesta de ley ante el Pleno del Congreso del Est
 
 El Comisionado Presidente rendirá un informe anual de manera pública, y lo entregará por escrito al Congreso del Estado. En este informe se deberá especificar, por lo menos, el uso de los recursos públicos, las acciones desarrolladas, sus indicadores de gestión y el impacto de su actuación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2007)</small>
 
 ###### Artículo 78.
 
@@ -1135,7 +1137,7 @@ Los comisionados tendrán la misma calidad entre ellos, la que se traducirá en 
 
 Los comisionados en el ejercicio de su cargo recibirán una remuneración mensual, que no debe ser superior a la que perciben los jueces de primera instancia del Honorable Tribunal Superior de Justicia del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 80.
 
@@ -1177,7 +1179,7 @@ IX. Establecer lineamientos y otorgar apoyos para la sistematización y archivo 
 
 X. Clasificar y desclasificar información, así como tener acceso en cualquier momento a la información clasificada como reservada o confidencial por los sujetos obligados para determinar su debida clasificación, desclasificación o procedencia de su acceso, y
 
-Xl. Ejercer las demás facultades previstas en esta Ley para salvaguardar el Derecho de Acceso a la Información Pública.
+XI. Ejercer las demás facultades previstas en esta Ley para salvaguardar el Derecho de Acceso a la Información Pública.
 
 Apartado B. En materia de protección de datos personales:
 
@@ -1213,7 +1215,7 @@ IX. Orientar y auxiliar a las personas para ejercer los derechos de acceso a la 
 
 X. Impulsar conjuntamente con instituciones de educación superior, la integración de centros de investigación, difusión y docencia sobre la transparencia, el derecho de acceso a la información pública y la protección de datos personales, que promuevan el conocimiento sobre estos temas y coadyuven con la Comisión en sus tareas sustantivas;
 
-Xl. Establecer políticas de creación, clasificación, tratamiento, conservación y resguardo de la información contenida en todos y cada uno de los archivos públicos e históricos;
+XI. Establecer políticas de creación, clasificación, tratamiento, conservación y resguardo de la información contenida en todos y cada uno de los archivos públicos e históricos;
 
 XII. Celebrar sesiones públicas, y
 
@@ -1289,7 +1291,7 @@ Es optativo para el particular agotar el recurso de revisión o promover los med
 
 El plazo para interponer el recurso de revisión será de quince días hábiles, contados a partir de la fecha en que surta efectos la notificación de la resolución administrativa impugnada.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 86.
 
@@ -1425,7 +1427,7 @@ AL EJECUTIVO PARA QUE LO SANCIONE Y MANDE PUBLICAR
 
 Dado en la sala de sesiones del Palacio Juárez, recinto oficial del Poder Legislativo del Estado Libre y Soberano de Tlaxcala, en la ciudad de Tlaxcala de Xicohténcatl, a los catorce días del mes de diciembre del año dos mil seis.
 
-C. JOSÉ LUIS RAMÍREZ CONDE.- DIP. PRESIDENTE.- C. SIMÓN DÍAZ FLORES.- DIP. SECRETARIO.- C. ELESBAN ZÁRATE CERVANTES.- DlP. SECRETARIO. Firmas Autógrafas.
+C. JOSÉ LUIS RAMÍREZ CONDE.- DIP. PRESIDENTE.- C. SIMÓN DÍAZ FLORES.- DIP. SECRETARIO.- C. ELESBAN ZÁRATE CERVANTES.- DIP. SECRETARIO. Firmas Autógrafas.
 
 Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
@@ -1433,7 +1435,7 @@ Dado en el Palacio del Poder Ejecutivo del Estado, en la Ciudad de Tlaxcala de X
 
 EL GOBERNADOR DEL ESTADO.- HECTOR ISRAEL ORTIZ ORTIZ.- Firma Autógrafa.- EL SECRETARIO DE GOBIERNO.- SERGIO GONZALEZ HERNANDEZ.- Firma Autógrafa.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 22 DE MAYO DE 2007.
 
@@ -1490,3 +1492,33 @@ El presente Decreto entrará en vigor el día siguiente al de su Publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 22 DE MAYO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Tlaxcala, expedida mediante decreto número 108, de fecha 14 de diciembre del año 2006 y publicada en el Periódico Oficial del Gobierno del Estado, Tomo LXXXVI, Segunda Época, Número Extraordinario, de fecha 12 de Enero de 2007.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los cuarenta y cinco días posteriores a la entrada en vigor de esta Ley, la Comisión de Acceso a la Información Pública y Protección de Datos Personales del Estado de Tlaxcala, expedirá su Reglamento Interno.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de los treinta días posteriores a la entrada en vigor de la presente Ley, las entidades públicas deberán tomar las medidas administrativas pertinentes para efecto de garantizar que los encargados de sus respectivas Áreas Responsables de la Información, cubran el perfil profesional requerido por el artículo 33 de este ordenamiento legal.
+
+###### ARTÍCULO QUINTO.
+
+Los sujetos obligados que aún no hayan integrado sus respectivos Comités de Información en términos de lo dispuesto por el artículo 29 de esta Ley, deberán cumplir con dicha obligación dentro de los quince días posteriores a la entrada en vigor de este ordenamiento legal.
+
+###### ARTÍCULO SEXTO.
+
+Dentro de los treinta días posteriores a la entrada en vigor de la presente Ley, los sujetos obligados designarán a los servidores públicos habilitados que sean necesarios, de acuerdo a lo dispuesto por el artículo 35 de este ordenamiento legal.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los recursos de revisión interpuestos ante la Comisión, con anterioridad a la entrada en vigor de la presente Ley, deberán sustanciarse conforme a lo dispuesto por la Ley de Acceso a la Información Púbica y Protección de Datos Personales para el Estado de Tlaxcala, que se abroga.
