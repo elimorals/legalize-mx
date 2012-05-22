@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-prestaciones-de-la-caja-de-prevision-para-15469"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-12-19"
-last_updated: "2008-07-15"
+last_updated: "2012-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15469&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,13 +20,13 @@ issue_date: "1988-11-25"
 ---
 # REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISION PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DE LA CIUDAD DE MEXICO -- ANTES -- REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISION PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DEL DISTRITO FEDERAL -- ANTES -- REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISION PARA TRABAJADORES A LISTA DE RAYA DEL DEPARTAMENTO DEL DISTRITO FEDERAL-
 
-REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISION PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DEL DISTRITO FEDERAL
+REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISIÓN PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE JULIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE MAYO DE 2012.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 19 de diciembre de 1988.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 13 DE ENERO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 22 DE MAYO DE 2012)</small>
 
 Reglamento de Prestaciones de la Caja de Previsión para Trabajadores a Lista de Raya del Gobierno del Distrito Federal.
 
@@ -70,15 +70,27 @@ XIV. Servicios médicos subrogados.
 
 Las disposiciones de este Reglamento son de interés social y de aplicación para:
 
-I. El Departamento del Distrito Federal;
+> <small>(REFORMADA, G.O. 22 DE MAYO DE 2012)</small>
 
-II. La Caja de Previsión para Trabajadores a Lista de Raya del Departamento del Distrito Federal.
+I. El Gobierno del Distrito Federal;
 
-III. Los trabajadores a lista de raya del Departamento y empleados de la propia Institución;
+> <small>(REFORMADA, G.O. 22 DE MAYO DE 2012)</small>
+
+II. La Caja de Previsión para Trabajadores a Lista de Raya del Gobierno del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 22 DE MAYO DE 2012)</small>
+
+III. Los trabajadores a lista de raya del Gobierno y empleados de la propia Institución;
 
 IV. Los pensionados y familiares derechohabientes de éstos y de los trabajadores en activo, y
 
 V. El Sindicato Unico de Trabajadores del Gobierno del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 22 DE MAYO DE 2012)</small>
+
+###### ARTICULO 3º.
+
+Para los efectos de este Reglamento, se entenderá como “Gobierno”, a todas las dependencias y autoridades del Gobierno del Distrito Federal; como “Institución”, a la Caja de Previsión para Trabajadores a Lista de Raya del Gobierno del Distrito Federal; como “trabajadores” a quienes prestan sus servicios de base o eventual, figurando con tal carácter en la nómina de lista de raya del Gobierno y a los servidores públicos de la propia Institución; como “sueldo básico” al determinado como sueldo base y prima quinquenal de antigüedad por la Oficialía Mayor del Gobierno; como “pensionados”, a quienes perciben alguna o algunas de las pensiones establecidas, y como “Sindicato” a los representantes del Sindicato Único de Trabajadores del Gobierno del Distrito Federal.
 
 ###### ARTICULO 3°.
 
@@ -118,9 +130,13 @@ Las pensiones tendrán como finalidad para quienes las perciban, otorgarles una 
 
 Tendrán derecho a que se les otorguen:
 
-I. Quienes hayan sido trabajadores a lista de raya del Departamento del Distrito Federal, y
+> <small>(REFORMADA, G.O. 22 DE MAYO DE 2012)</small>
 
-II. Los trabajadores en activo a lista de raya del Departamento del Distrito Federal y empleados de la Institución.
+I. Quienes hayan sido trabajadores a lista de raya del Gobierno del Distrito Federal, y
+
+> <small>(REFORMADA, G.O. 22 DE MAYO DE 2012)</small>
+
+II. Los trabajadores en activo a lista de raya del Gobierno del Distrito Federal y empleados de la Institución.
 
 El disfrute de la pensión, permitirá que el trabajador o pensionado, valorice y capte cabalmente las dimensiones de índole económica y social que el Estado, a través del sistema de seguridad social, le otorga para su bienestar y el de sus familiares.
 
@@ -138,13 +154,17 @@ El derecho al pago de las pensiones a los deudos, se iniciará el día siguiente
 
 El trabajador podrá obtener, previamente a los trámites de su pensión, la cuantificación de ésta.
 
-Las pensiones se pagarán mensualmente, a partir de la fecha en que el trabajador cause baja en el Departamento o en la Institución.
+> <small>(REFORMADO, G.O. 22 DE MAYO DE 2012)</small>
+
+Las pensiones se pagarán mensualmente, a partir de la fecha en que el trabajador cause baja en el Gobierno o en la Institución.
 
 ###### ARTICULO 12.
 
 Transcurrido el plazo máximo de 90 días, si no se hubiere otorgado la pensión exceptuándose aquellas derivadas de riesgos del trabajo, la Institución pagará los anticipos que estime convenientes al solicitante que estuviere separado definitivamente del servicio o a los beneficiarios del trabajador fallecido, pudiéndose proseguir el trámite para el otorgamiento de la pensión.
 
-Para la debida integración de los expedientes respectivos, el Departamento deberá proporcionar la información y los documentos requeridos.
+> <small>(REFORMADO, G.O. 22 DE MAYO DE 2012)</small>
+
+Para la debida integración de los expedientes respectivos, el Gobierno deberá proporcionar la información y los documentos requeridos.
 
 ###### ARTICULO 13.
 
@@ -170,7 +190,9 @@ III. Se tomaran en cuenta los periodos que haya laborado el trabajador del Servi
 
 En el supuesto de que el trabajador haya cotizado un periodo mayor en nómina 1 ó 412 al de nómina 5, será competente para conocer del trámite de las prestaciones que les correspondan por Ley, la Institución que haya recibido el mayor número de aportaciones.
 
-IV. Los trabajadores a lista de raya del Departamento que hubieren prestado servicios con anterioridad al 1°. de enero de 1962, fecha en que inició operaciones la Institución, y siempre que hayan pagado sus cuotas a partir de esa fecha, cumpliendo con los demás requisitos establecidos para disfrutar de pensión, tendrán derecho a la misma, computándoseles ese tiempo sin estar obligados a cubrir cuotas especiales. Si llegaran a fallecer, a sus familiares derechohabientes se les concederá la pensión correspondiente, reconociéndoles ese lapso sin pago alguno de cuotas.
+> <small>(REFORMADA, G.O. 22 DE MAYO DE 2012)</small>
+
+IV. Los trabajadores a lista de raya del Gobierno que hubieren prestado servicios con anterioridad al 1º de enero de 1962, fecha en que inició operaciones la Institución, y siempre que hayan pagado sus cuotas a partir de esa fecha, cumpliendo con los demás requisitos establecidos para disfrutar de pensión, tendrán derecho a la misma, computándoseles ese tiempo sin estar obligados a cubrir cuotas especiales. Si llegaran a fallecer, a sus familiares derechohabientes se les concederá la pensión correspondiente, reconociéndoles ese lapso sin pago alguno de cuotas.
 
 > <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 1997)</small>
 
@@ -210,23 +232,29 @@ Los trabajadores cubrirán a la Institución, una cuota obligatoria quincenal de
 
 La suma máxima cotizable de sueldo básico no excederá 10 veces el salario mínimo general vigente para el Distrito Federal, que establezca la Comisión Nacional de los Salarios Mínimos y esa cantidad será la cuota máxima que se podrá asignar a las pensiones.
 
+> <small>(REFORMADO, G.O. 22 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 21.
 
-Cuando, por omisión, el Departamento no efectué los descuentos correspondientes al trabajador, se encuentra obligado a cubrir a la Institución, las cantidades que adeude.
+Cuando, por omisión, el Gobierno no efectúe los descuentos correspondientes al trabajador, se encuentra obligado a cubrir a la Institución, las cantidades que adeude.
 
-Tratándose de suspensión de la relación laboral, licencia sin goce de sueldo y otras separaciones temporales, que no le hagan perder su calidad de trabajador, se encuentra obligado a cubrir a la Institución, las cantidades que adeude y, de igual manera, las que le hubieren correspondido al Departamento.
+Tratándose de suspensión de la relación laboral, licencia sin goce de sueldo y otras separaciones temporales, que no le hagan perder su calidad de trabajador, se encuentra obligado a cubrir a la Institución, las cantidades que adeude y, de igual manera, las que le hubieren correspondido al Gobierno.
 
 ###### ARTICULO 22.
 
 Los trabajadores que por cualquier causa no perciban íntegramente su sueldo, sólo podrán continuar disfrutando de los beneficios que este Reglamento les otorga, si pagan la totalidad de las cuotas que les corresponden.
 
+> <small>(REFORMADO, G.O. 22 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 23.
 
-En los casos de separación injustificada, si en cumplimiento de una resolución judicial o administrativa, el trabajador regresa a ocupar su puesto o empleo, las cuotas y las aportaciones correspondientes al tiempo de la separación, serán cubiertas íntegramente a la Institución por el Departamento del Distrito Federal.
+En los casos de separación injustificada, si en cumplimiento de una resolución judicial o administrativa, el trabajador regresa a ocupar su puesto o empleo, las cuotas y las aportaciones correspondientes al tiempo de la separación, serán cubiertas íntegramente a la Institución por el Gobierno del Distrito Federal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 24.
 
-Para la atención de las prestaciones que otorga la Institución, el Departamento aportará, calculado sobre el sueldo básico:
+Para la atención de las prestaciones que otorga la Institución, el Gobierno aportará, calculado sobre el sueldo básico:
 
 I. 0.75% para cubrir riesgos de trabajo;
 
@@ -234,9 +262,11 @@ II. 6% para cubrir las prestaciones a las que se refieren las fracciones de la I
 
 III. 5% para constituir el fondo de la vivienda.
 
+> <small>(REFORMADO, G.O. 22 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 25.
 
-El Departamento hará entregas quincenales a la Institución del monto de las cantidades estimadas por concepto de las cuotas y aportaciones a que se refieren los artículos 19 y 24 de este Ordenamiento, así como el importe total de los descuentos que a la propia Institución correspondan y que ésta solicite se hagan a los trabajadores por otros adeudos derivados de la aplicación del presente Reglamento.
+El Gobierno hará entregas quincenales a la Institución del monto de las cantidades estimadas por concepto de las cuotas y aportaciones a que se refieren los artículos 19 y 24 de este Ordenamiento, así como el importe total de los descuentos que a la propia Institución correspondan y que ésta solicite se hagan a los trabajadores por otros adeudos derivados de la aplicación del presente Reglamento.
 
 ### CAPITULO VI. De las Pensiones y de la Indemnización Global
 
@@ -260,9 +290,11 @@ VI. Pensión por muerte;
 
 VII. Indemnización global.
 
+> <small>(REFORMADO, G.O. 22 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 27.
 
-Tienen derecho a percibir las pensiones que la Institución otorga, quienes hayan prestado sus servicios como trabajadores a lista de raya del Departamento del Distrito Federal, y quienes hayan laborado como empleados al servicio directo de la Institución, siempre y cuando satisfagan los requisitos que establece este Reglamento.
+Tienen derecho a percibir las pensiones que la Institución otorga, quienes hayan prestado sus servicios como trabajadores a lista de raya del Gobierno del Distrito Federal, y quienes hayan laborado como empleados al servicio directo de la Institución, siempre y cuando satisfagan los requisitos que establece este Reglamento.
 
 ###### ARTICULO 28.
 
@@ -370,33 +402,43 @@ Cuando por motivos ajenos al interesado no hubiere cotizado a la Institución, p
 
 ### CAPITULO VII. De las Pensiones por Riesgos de Trabajo
 
+> <small>(REFORMADO, G.O. 22 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 45.
 
-Los trabajadores quedan protegidos en materia de riesgos de trabajo y consecuentemente la Institución se subrogará en la medida y términos de este Reglamento, por lo que se concierne a las obligaciones del Departamento, establecidas en la Ley Federal de los Trabajadores al Servicio de Estado y en la Ley Federal del Trabajo, por cuanto a los mismos riesgos se refieren.
+Los trabajadores quedan protegidos en materia de riesgos de trabajo y consecuentemente la Institución se subrogará en la medida y términos de este Reglamento, por lo que se concierne a las obligaciones del Gobierno, establecidas en la Ley Federal de los Trabajadores al Servicio del Estado y en la Ley Federal del Trabajo, por cuanto a los mismos riesgos se refieren.
 
 ###### ARTICULO 46.
 
 En relación con las disposiciones del presente Reglamento, serán considerados como riesgos de trabajo los que acontezcan en las circunstancias y con las características que especifica la Ley Federal del Trabajo, y por enfermedades profesionales, se entenderán las señaladas en la tabla respectiva de la propia Ley.
 
+> <small>(REFORMADO, G.O. 22 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 47.
 
-Los riesgos del trabajo serán calificados por la Comisión Mixta de Higiene y Seguridad del Departamento, o por alguna otra institución oficial. En caso de controversia, la calificación la harán quienes sean designados por los tribunales competentes.
+Los riesgos del trabajo serán calificados por la Comisión Mixta de Higiene y Seguridad del Gobierno, o por alguna otra institución oficial. En caso de controversia, la calificación la harán quienes sean designados por los tribunales competentes.
+
+> <small>(REFORMADO, G.O. 22 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 48.
 
-El Departamento deberá notificar a la Institución el accidente de trabajo, dentro de los tres días siguientes a aquel en que éste haya ocurrido, acompañando el acta administrativa correspondiente, misma que se formulará bajo su responsabilidad. El aviso, también podrá notificarlo el trabajador, sus familiares o el Sindicato.
+El Gobierno deberá notificar a la Institución el accidente de trabajo, dentro de los tres días siguientes a aquel en que éste haya ocurrido, acompañando el acta administrativa correspondiente, misma que se formulará bajo su responsabilidad. El aviso, también podrá notificarlo el trabajador, sus familiares o el Sindicato.
+
+> <small>(REFORMADO, G.O. 22 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 49.
 
-El trabajador que sufra un riesgo de trabajo, tendrá derecho a las prestaciones en especie que le otorgará el Departamento o la Institución a la cual éste haya subrogado aquéllas y que consistirán en diagnóstico, asistencia médica, quirúrgica y farmacéutica, servicio de hospitalización, aparatos de prótesis y ortopedia, y rehabilitación.
+El trabajador que sufra un riesgo de trabajo, tendrá derecho a las prestaciones en especie que le otorgará el Gobierno o la Institución a la cual éste haya subrogado aquéllas y que consistirán en diagnóstico, asistencia médica, quirúrgica y farmacéutica, servicio de hospitalización, aparatos de prótesis y ortopedia, y rehabilitación.
 
 ###### ARTICULO 50.
 
 Tratándose de riesgos de trabajo, el trabajador tendrá derecho a percibir las siguientes prestaciones en numerario:
 
-I. Licencia con goce de sueldo íntegro, si el riesgo lo incapacita para el desempeño de sus labores, y el pago será por cuenta del Departamento desde el día del inicio de la incapacidad hasta que ésta concluya o sea declarada la incapacidad permanente del trabajador.
+> <small>(REFORMADA, G.O. 22 DE MAYO DE 2012)</small>
 
-En la determinación de la incapacidad, se estará a lo dispuesto por la Ley Federal del Trabajo por lo que respecta a los exámenes trimestrales a que deberá someterse el trabajador; en la inteligencia, de que si ésta a los tres meses de iniciada dicha incapacidad, no se halla en aptitud de volver al trabajo, él mismo o el Departamento podrán solicitar, con base en los certificados médicos, que sea declarada la incapacidad permanente. No excederá de un año el plazo, contado a partir de la fecha en que la Institución tenga conocimiento del riesgo, para que se determine si el trabajador está apto para volver al servicio o procede declarar su incapacidad permanente.
+I. Licencia con goce de sueldo íntegro, si el riesgo lo incapacita para el desempeño de sus labores, y el pago será por cuenta del Gobierno desde el día del inicio de la incapacidad hasta que éste concluya o sea declarada la incapacidad permanente del trabajador.
+
+En la determinación de la incapacidad, se estará a lo dispuesto por la Ley Federal del Trabajo por lo que respecta a los exámenes trimestrales a que deberá someterse el trabajador; en la inteligencia, de que si ésta a los tres meses de iniciada dicha incapacidad, no se halla en aptitud de volver al trabajo, él mismo o el Gobierno podrán solicitar, con base en los certificados médicos, que sea declarada la incapacidad permanente. No excederá de un año el plazo, contado a partir de la fecha en que la Institución tenga conocimiento del riesgo, para que se determine si el trabajador está apto para volver al servicio o procede declarar su incapacidad permanente.
 
 II. Al ser declarada una incapacidad permanente parcial, se concederá al incapacitado una pensión calculada conforme a la tabla de valuación de incapacidades de la Ley Federal del Trabajo, atendiendo al sueldo básico que percibía el trabajador al ocurrir el riesgo y los aumentos posteriores que correspondieran al empleo que desempeñe hasta determinarse la pensión.
 
@@ -432,9 +474,11 @@ Para la distribución de la pensión entre los familiares derechohabientes del t
 
 ### CAPITULO VIII. Pensión por Jubilación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 54.
 
-Los trabajadores con 30 años o más de servicios, las trabajadoras con 28 años o más de servicios al Departamento o a la Institución e igual tiempo de contribuir a ésta, cualquiera que sea su edad, tienen derecho a la pensión por jubilación, conforme a las siguientes reglas:
+Los trabajadores con 30 años o más de servicios, las trabajadoras con 28 años o más de servicios al Gobierno o a la Institución, e igual tiempo de contribuir a ésta, cualquiera que sea su edad, tienen derecho a la pensión por jubilación, conforme a las siguientes reglas:
 
 I. A quienes hayan laborado ininterrumpidamente, se les otorgará una pensión mensual con el sueldo íntegro que vinieren percibiendo en la fecha en que causen baja definitiva, y
 
@@ -446,9 +490,11 @@ El interesado deberá presentar a la Institución el documento que acredite su b
 
 ### CAPITULO IX. Pensión de Retiro por Edad y Tiempo de Servicios
 
+> <small>(REFORMADO, G.O. 22 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 56.
 
-La pensión de retiro por edad y tiempo de servicios la percibirán los trabajadores que hayan cumplido 55 años y que tuviesen mínimo 15 años de labores en el departamento o en la Institución e igual tiempo de cotización.
+La pensión de retiro por edad y tiempo de servicios la percibirán los trabajadores que hayan cumplido 55 años y que tuviesen mínimo 15 años de labores en el Gobierno o en la Institución e igual tiempo de cotización.
 
 ###### ARTICULO 57.
 
@@ -522,7 +568,9 @@ No se concederá la pensión por invalidez:
 
 I. Cuando el estado de inhabilitación sea consecuencia cierta o fehaciente de un acto intencional del trabajador u originado por algún delito cometido por él o en convivencia con quienes resulten responsables de haberlo cometido, y
 
-II. Cuando del examen médico al que alude la fracción II del artículo precedente resulte que el estado de invalidez del trabajador sea anterior a la fecha que aparezca en su último nombramiento otorgado con motivo de su ingreso al servicio del Departamento o de la Institución.
+> <small>(REFORMADA, G.O. 22 DE MAYO DE 2012)</small>
+
+II. Cuando el examen médico al que alude la fracción II del artículo precedente resulte que el estado de invalidez del trabajador sea anterior a la fecha que aparezca en su último nombramiento otorgado con motivo de su ingreso al servicio del Gobierno o de la Institución.
 
 ###### ARTICULO 64.
 
@@ -532,11 +580,13 @@ Los trabajadores que soliciten pensión por invalidez y los pensionados por igua
 
 El pago de la pensión por invalidez o de cualquier trámite para obtenerla, se suspenderá cuando el pensionado o solicitante esté desempeñando algún trabajo remunerado sujeto a prestaciones de seguridad social, previstas en este Reglamento. Durante el tiempo que dure la suspensión, no se pagarán las cantidades que el pensionado haya dejado de percibir, siempre y cuando sea responsabilidad de él mismo.
 
+> <small>(REFORMADO, G.O. 22 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 66.
 
-La pensión por invalidez se revocará cuando el trabajador recupere su capacidad para el servicio. En tal caso, el Departamento o la Institución, según corresponda, lo reincorporará al empleo que anteriormente desempeñaba, o bien se le asignará un trabajo que pueda desarrollar con categoría y sueldo equivalente al que tenía al ocurrir la inhabilitación.
+La pensión por invalidez se revocará cuando el trabajador recupere su capacidad para el servicio. En tal caso, el Gobierno o la Institución, según corresponda, lo reincorporará al empleo que anteriormente desempeñaba, o bien se le asignará un trabajo que pueda desarrollar con categoría y sueldo equivalente al que tenía al ocurrir la inhabilitación.
 
-Si el trabajador no fuere restituido a su empleo o no se le asignare otro en los términos del párrafo anterior por causa imputable al Departamento o a la Institución, seguirá percibiendo el importe de la pensión con cargo a la entidad responsable.
+Si el trabajador no fuere restituido a su empleo o no se le asignare otro en los términos del párrafo anterior por causa imputable al Gobierno o a la Institución, seguirá percibiendo el importe de la pensión con cargo a la Entidad responsable.
 
 ###### ARTICULO 67.
 
@@ -554,7 +604,7 @@ Se otorgará pensión por cesantía en edad avanzada a los trabajadores que, hab
 
 Para la tramitación de esta pensión, los interesados deberán presentar la solicitud correspondiente y la baja o constancia de licencia prepensionaria, adjuntando copia certificada de su acta de nacimiento expedida por el Registro Civil y demás documentos exigibles.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE MAYO DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE MAYO DE 1991)</small>
 
 ###### ARTICULO 70.
 
@@ -588,9 +638,11 @@ Se aplicará a este tipo de pensión, las disposiciones generales relativas a la
 
 ### CAPITULO XII. Pensión por Muerte del Trabajador por Causas Ajenas al Servicio
 
+> <small>(REFORMADO, G.O. 22 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 74.
 
-Darán origen a las pensiones por viudez, concubinato, orfandad o ascendencia, en su caso la muerte del trabajador por causas ajenas al servicio, cualquiera que sea su edad, y siempre que hubiere laborado en el Departamento o en la Institución y cotizado a ésta, por lo menos 15 años, o si el deceso acontece cuando haya cumplido 60 o más de edad y 10 como mínimo de cotización. Igualmente, las citadas prestaciones se originan a causa del fallecimiento de un pensionado por jubilación, retiro por edad y tiempo de servicios, cesantía en edad avanzada o invalidez.
+Darán origen a las pensiones por viudez, concubinato, orfandad o ascendencia, en su caso la muerte del trabajador por causas ajenas al servicio, cualquiera que sea su edad, y siempre que hubiere laborado en el Gobierno o en la institución y cotizado a ésta, por lo menos 15 años, o si el deceso acontece cuando haya cumplido 60 o más de edad y 10 como mínimo de cotización. Igualmente, las citadas prestaciones se originaran a causa del fallecimiento de un pensionado por jubilación, retiro por edad y tiempo de servicios, cesantía en edad avanzada o invalidez.
 
 ###### ARTICULO 75.
 
@@ -694,9 +746,11 @@ II. El monto total de las cuotas señaladas en la fracción anterior, más cuare
 
 III. El monto de referencia, más noventa días de su último sueldo básico, si laboró de diez a catorce años.
 
+> <small>(REFORMADO, G.O. 22 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 95.
 
-Para el trámite de la indemnización global, los interesados deberán presentar, una solicitud anexando la baja definitiva, la hoja de servicios expedida por el Departamento del Distrito Federal o la Institución, y los documentos que le sean requeridos.
+Para el trámite de la indemnización global, los interesados deberán presentar, una solicitud anexando la baja definitiva, la hoja de servicios expedida por el Gobierno del Distrito Federal o la Institución, y los documentos que les sean requeridos.
 
 > <small>(REFORMADO, G.O. 13 DE MAYO DE 1991)</small>
 
@@ -710,9 +764,13 @@ La indemnización global podrá afectarse en los siguientes casos:
 
 I. Si el trabajador tuviera algún adeudo con la Institución, su importe le será descontado. Si fallece, el adeudo se cancelará de acuerdo a lo previsto por el artículo 133 del presente Reglamento.
 
-II. Por disposición de las autoridades competentes, cuando al trabajador se le atribuya la comisión de algún delito con motivo del desempeño de sus labores que involucre responsabilidad con el Departamento del Distrito Federal o con la Institución y siempre que así se solicite.
+> <small>(REFORMADA, G.O. 22 DE MAYO DE 2012)</small>
 
-En este supuesto, la indemnización global se retendrá hasta un tanto los tribunales dicten fallo absolutorio o bien el Departamento o la Institución, según corresponda, releven de responsabilidad al trabajador y, en circunstancias contrarias, se entregará el sobrante, si lo hubiere, después de cubrir la mencionada responsabilidad.
+II. Por disposición de las autoridades competentes, cuando al trabajador se le atribuya la comisión de algún delito con motivo del desempeño de sus labores que involucre responsabilidad con el Gobierno del Distrito Federal o con la Institución y siempre que así lo solicite.
+
+> <small>(REFORMADO, G.O. 22 DE MAYO DE 2012)</small>
+
+En este supuesto, la indemnización global se retendrá hasta en tanto los tribunales dicten fallo absolutorio o bien el Gobierno o la Institución, según corresponda, releven de responsabilidad al trabajador y, en circunstancias contrarias, se entregará el sobrante, si lo hubiere, después de cubrir la mencionada responsabilidad.
 
 ###### ARTICULO 98.
 
@@ -726,7 +784,7 @@ Si falleciere antes de ejercer este derecho o de solventar el adeudo, sus famili
 
 Son compatibles con el disfrute de otras pensiones o con el desempeño de trabajos remunerados, aquellas que se ajusten con las siguientes bases:
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE SEPTIEMBRE DE 1993)</small>
 
 I. La percepción de una pensión por jubilación, de retiro por edad y tiempo de servicios o por cesantía en edad avanzada con:
 
@@ -750,9 +808,11 @@ Fuera de los casos enunciados en este artículo, no se puede ser beneficiario de
 
 El infractor a las disposiciones anteriores, deberá reintegrar las cantidades cobradas indebidamente, en el plazo que le señale la Institución, con un interés del 9% anual y en un lapso que nunca será inferior al tiempo en que las hubiere recibido. Desaparecida la incompatibilidad y reintegradas las cantidades, el pensionado podrá volver a disfrutar la prestación respectiva. Si no hiciere el reintegro en la forma señalada, perderá todo derecho a la misma.
 
+> <small>(REFORMADO, G.O. 22 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 101.
 
-Los pensionados quedan obligados a dar aviso a la Institución cuando acepten algún nombramiento en el Departamento del Distrito Federal, que implique la incorporación al régimen del mismo. El incumplimiento a lo anterior, motivará la suspensión de la pensión hasta que se cumpla con lo establecido en el artículo precedente.
+Los pensionados quedan obligados a dar aviso a la Institución cuando acepten algún nombramiento en el Gobierno del Distrito Federal, que implique la incorporación al régimen del mismo. El incumplimiento a lo anterior, motivará la suspensión de la pensión hasta que se cumpla con lo establecido en el artículo precedente.
 
 ### CAPITULO XV. Los Servicios Prepensionarios y Postpensionarios
 
@@ -768,11 +828,11 @@ I. Prepensionarios. Consistirán en la impartición de conocimientos elementales
 
 II. Postpensionarios. Consistentes en brindar la oportunidad a los pensionados de continuar participando en su beneficio y de los familiares dependientes económicamente de ellos, a través de actividades culturales y recreativas en talleres de acabados, de manufacturas diversas, de artesanías y otros, para la producción y comercialización de artículos, promoviendo así la Institución, la incorporación del grupo de pensionistas al aparato productivo.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 17 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 17 DE NOVIEMBRE DE 1997)</small>
 
 ### CAPITULO XVI. Prestaciones Económicas de los Préstamos Personales a Corto, Mediano Plazo y Escolares
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 17 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 17 DE NOVIEMBRE DE 1997)</small>
 
 #### SECCION PRIMERA. Préstamos a Corto Plazo y Escolares
 
@@ -818,7 +878,7 @@ El monto de los préstamos a corto plazo y escolares será determinado por el Co
 
 En ningún caso el préstamo será superior a diez veces el sueldo mínimo mensual y su monto total lo constituirá el capital y los intereses calculados durante el lapso otorgado para su amortización.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 110.
 
@@ -914,9 +974,11 @@ Les será aplicables, en lo conducente, las disposiciones de este Reglamento rel
 
 ### CAPITULO XVII. De la Recuperación de los Préstamos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 125.
 
-De conformidad con lo dispuesto por este Reglamento, los préstamos que otorgue la Institución a los trabajadores, serán recuperados mediante descuentos que por nómina realice el Departamento del Distrito Federal a pedimento de aquélla.
+De conformidad con lo dispuesto por este Reglamento, los préstamos que otorgue la Institución a los trabajadores, serán recuperados mediante descuentos que por nómina realice el Gobierno del Distrito Federal a pedimento de aquella.
 
 Respecto a los pensionados, la Institución hará los descuentos correspondientes.
 
@@ -924,9 +986,11 @@ Respecto a los pensionados, la Institución hará los descuentos correspondiente
 
 El pago de los préstamos se hará mediante abonos quincenales o mensuales, ya sea que se trate de trabajadores o pensionados.
 
+> <small>(REFORMADO, G.O. 22 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 127.
 
-La Institución, formulará los estados de cuenta sobre las cantidades que deberá entregarle el Departamento del Distrito Federal, como consecuencia de los descuentos efectuados a los trabajadores por concepto de préstamos otorgados y, en su caso, hacer las aclaraciones que aquélla estime convenientes.
+La Institución formulará los estados de cuenta sobre las cantidades que deberá entregarle el Gobierno del Distrito Federal, como consecuencia de los descuentos efectuados a los trabajadores por concepto de préstamos otorgados y, en su caso, hacer las aclaraciones que aquélla estime convenientes.
 
 ###### ARTICULO 128.
 
@@ -934,7 +998,7 @@ Para el caso de mora de los trabajadores y pensionados, la Institución podrá d
 
 ### CAPITULO XVIII. Fondo de Garantía
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 129.
 
@@ -1016,7 +1080,9 @@ III. Y las otras que este Reglamento señalen.
 
 El fondo de la vivienda se integrará con:
 
-I. La aportación del 5% calculado sobre el sueldo básico de los trabajadores, que el Departamento de acuerdo a lo establecido por la fracción III del artículo 24 de este Ordenamiento debe enterar a la Institución.
+> <small>(REFORMADA, G.O. 22 DE MAYO DE 2012)</small>
+
+I. La aportación del 5% calculado sobre el sueldo básico de los trabajadores, que el Gobierno de acuerdo a lo establecido por la fracción III del artículo 24 de este Ordenamiento debe enterar a la Institución.
 
 II. Los rendimientos provenientes de las inversiones que se hagan de los recursos del fondo.
 
@@ -1066,9 +1132,11 @@ VIII. A cubrir todos los demás gastos inherentes a su finalidad.
 
 La asignación de créditos y el financiamiento con cargo al fondo que prevé el artículo 142, se hará de acuerdo a lo que disponga el Consejo Directivo de la Institución, los créditos serán hasta por el 100% del monto del avalúo del inmueble que se practique, siempre que no rebase la cantidad máxima fijada.
 
+> <small>(REFORMADO, G.O. 22 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 145.
 
-Los trabajadores a lista de raya que estén al servicio del Departamento del Distrito Federal, y los empleados de la Institución, tendrán derecho a las prestaciones que establece el artículo anterior, los pensionados también lo tendrán, pero de conformidad a los acuerdos generales que al respecto emita el Consejo Directivo con apoyo en las disposiciones del presente.
+Los trabajadores a lista de raya que estén al servicio del Gobierno del Distrito Federal, y los empleados de la Institución, tendrán derecho a las prestaciones que establece el artículo anterior, los pensionados también lo tendrán, pero de conformidad a los acuerdos generales que al respecto emita el Consejo Directivo con apoyo en las disposiciones del presente.
 
 > <small>(REFORMADO, D.O.F. 13 DE MAYO DE 1991)</small>
 
@@ -1080,7 +1148,9 @@ Las aportaciones al fondo de la vivienda se aplicarán totalmente para constitui
 
 I. En los casos de pensión o jubilación, incapacidad permanente total o de muerte, el trabajador o sus beneficiarios tendrán derecho a la entrega de un tanto más del saldo de los depósitos que se hubieran constituido a su favor, de conformidad con lo dispuesto por este Ordenamiento.
 
-II. Cuando el trabajador tenga 50 o más años de edad y deje de prestar sus servicios al Departamento del Distrito Federal, o a la Institución, sólo se le entregarán los depósitos constituidos a su favor en los términos establecidos por este Reglamento.
+> <small>(REFORMADA, G.O. 22 DE MAYO DE 2012)</small>
+
+II. Cuando el trabajador tenga 50 o más años de edad y deje de prestar sus servicios al Gobierno del Distrito Federal, o a la Institución, sólo se le entregarán los depósitos constituidos a su favor en los términos establecidos por este Reglamento.
 
 ###### ARTICULO 147.
 
@@ -1104,7 +1174,7 @@ La Institución solicitará al Registro Público de la Propiedad correspondiente
 
 La designación de beneficiario no surtirá ningún efecto cuando la vivienda financiada o el crédito hipotecario esté ya escriturado, debiendo éste o los herederos sujetarse al procedimiento sucesorio respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE SEPTIEMBRE DE 1993)</small>
 
 ###### ARTICULO 150.
 
@@ -1124,17 +1194,19 @@ VI. Los ascendientes que tampoco hayan dependido económicamente de éste.
 
 La Institución para garantizar el pago de los depósitos a que hace referencia este artículo, está obligada a constituir una reserva actuarial.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADO, G.O. 22 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 151.
 
-Para el caso a que alude la fracción II del artículo 146 de este Reglamento se entenderá que un trabajador ha dejado de prestar servicios cuando transcurra un período mínimo de doce meses sin laborar en el Departamento del Distrito Federal o en la Institución por suspensión temporal de los efectos de su nombramiento o cese, a menos que exista juicio pendiente sobre la subsistencia de su designación o nombramiento.
+Para el caso a que alude la fracción II del artículo 146 de este Reglamento se entenderá que un trabajador ha dejado de prestar servicios cuando transcurra un período mínimo de doce meses sin laborar en el Gobierno del Distrito Federal o en la Institución por suspensión temporal de los efectos de su nombramiento o cese, a menos que exista juicio pendiente sobre la subsistencia de su designación o nombramiento.
 
-Cuando un trabajador se halle en el caso que prevé el párrafo anterior y hubiere recibido un préstamo a cargo del fondo, se le otorgará una prórroga sin causa de intereses en los pagos de amortización que tenga que hacer por concepto de capital e intereses, esta prórroga tendrá un plazo máximo de doce meses y terminará anticipadamente cuando el trabajador regrese a prestar servicios en el Departamento del Distrito Federal o en la Institución; en la inteligencia de que estas Dependencias seguirán haciendo los depósitos del 5% que este Ordenamiento establece destinados al fondo de la vivienda sobre los sueldos o salarios de los trabajadores que disfruten de licencia por enfermedad y de aquellos que tengan suspensión temporal de los efectos de su nombramiento. La existencia de los supuestos a los que alude este artículo y el anterior, deberán comprobarse ante la Institución.
+Cuando un trabajador se halle en el caso que prevé el párrafo anterior y hubiere recibido un préstamo a cargo del fondo, se le otorgará una prórroga sin causa de intereses en los pagos de amortización que tenga que hacer por concepto de capital e intereses, esta prórroga tendrá un plazo máximo de doce meses y terminará anticipadamente cuando el trabajador regrese a prestar servicios en el Gobierno del Distrito Federal o en la Institución; en la inteligencia de que estas Dependencias seguirán haciendo los depósitos del 5% que este Ordenamiento establece destinados al fondo de la vivienda sobre los sueldos o salarios de los trabajadores que disfruten de licencia por enfermedad y de aquellos que tengan suspensión temporal de los efectos de su nombramiento. La existencia de los supuestos a los que alude este artículo y el anterior, deberán comprobarse ante la Institución.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 152.
 
-El trabajador que deje de laborar en el Departamento del Distrito Federal o en la Institución conforme a lo previsto en el artículo precedente y por quien dichas dependencias hayan hecho aportaciones, tiene derecho a optar por la devolución de sus depósitos o por la continuación de sus derechos y obligaciones con el fondo. En este último caso la base para las aportaciones a su cargo, será el sueldo o salario promedio que hubiere percibido en los últimos seis meses.
+El trabajador que deje de laborar en el Gobierno del Distrito Federal o en la Institución conforme a lo previsto en el artículo precedente y por quien dichas dependencias hayan hecho aportaciones, tiene derecho a optar por la devolución de sus depósitos o por la continuación de sus derechos y obligaciones con el fondo. En este último caso la base para las aportaciones a su cargo, será el sueldo o salario promedio que hubiere percibido en los últimos seis meses.
 
 El derecho a continuar dentro del régimen del fondo, se pierde si no se ejercita mediante solicitud escrita presentada de acuerdo con lo que estipula el presente Reglamento, dentro de un plazo de seis meses contados a partir de la fecha en que, conforme a lo establecido por el artículo anterior, se considera que ha dejado de existir la prestación del servicio respectivo.
 
@@ -1142,7 +1214,9 @@ El derecho a continuar dentro del régimen del fondo, se pierde si no se ejercit
 
 La continuación voluntaria de los trabajadores dentro del régimen del fondo al que se refiere el artículo anterior, concluye:
 
-I. Por la reanudación de servicios en el Departamento del Distrito Federal o en la Institución.
+> <small>(REFORMADA, G.O. 22 DE MAYO DE 2012)</small>
+
+I. Por la reanudación de servicios en el Gobierno del Distrito Federal o en la Institución.
 
 II. Por declaración de la Institución, aceptada por el trabajador, y
 
@@ -1152,7 +1226,7 @@ III. Porque deje de constituir los depósitos durante seis meses el trabajador.
 
 A los trabajadores que se jubilen o pensionen se les aplicará en lo conducente y conforme a lo que establece este Reglamento, lo dispuesto en los artículos 152 y 153. Para el caso de que opten por permanecer voluntariamente dentro del régimen del fondo, la Institución les descontará de sus pensiones las aportaciones a cargo del trabajador, jubilado o pensionado.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE MAYO DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE MAYO DE 1991)</small>
 
 ###### ARTICULO 155.
 
@@ -1168,9 +1242,11 @@ El plazo para cubrir los créditos hipotecarios será como máximo de 30 años.
 
 Los honorarios y gastos notariales por las escrituras de hipotecas y su inscripción serán cubiertas por partes iguales entre la Institución y el deudor hipotecario, por lo que éstos formarán parte del crédito. Serán por cuenta exclusiva del deudor hipotecario el pago de los impuestos, derechos registrales y todos los que con este motivo deban hacerse. También serán a su cargo las primas del seguro contratado a favor de la Institución contra daños por caso fortuito o de fuerza mayor.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 156.
 
-La Institución gestionará ante las autoridades competentes que los inmuebles adquiridos o construidos por los trabajadores para su propia habitación con cargo a los recursos del fondo de la vivienda administrados por la Institución, queden exentos a partir de la fecha de su adquisición o construcción, de todos los impuestos federales y del Departamento del Distrito Federal por el doble del crédito y hasta por la suma de diez veces el salario mínimo del Distrito Federal elevado al año, durante el plazo que el crédito permanezca insoluto.
+La Institución gestionará ante las autoridades competentes que los inmuebles adquiridos o construidos por los trabajadores para su propia habitación con cargo a los recursos del fondo de la vivienda administrados por la Institución, queden exentos a partir de la fecha de su adquisición o construcción, de todos los impuestos federales y del Gobierno del Distrito Federal por el doble del crédito y hasta por la suma de diez veces el salario mínimo del Distrito Federal elevado al año, durante el plazo que el crédito permanezca insoluto.
 
 Igualmente, que también queden exentos de impuestos los convenios, contratos o actos en que se hagan constar las correspondientes operaciones, las cuales tendrán el carácter de escritura pública para todos los efectos legales y deberán ser inscritos en el Registro Público de la Propiedad respectivo, incluyendo la constitución del Régimen de Propiedad en Condominio que haga constar la Institución, relativos a los conjuntos que financie o adquiera, sin perjuicio de que el trabajador pueda acudir ante el Notario Público de su elección en aquellas operaciones en que sea parte; en la inteligencia de que los gastos que se originen por los referidos conceptos serán cubiertos por partes iguales entre la Institución y los trabajadores, y para tal efecto el Consejo Directivo de la Institución, tomando como base el arancel que establece los honorarios notariales, determinará el porcentaje de reducción en los mismos, sin que éste pueda ser inferior al 50%. Las exenciones quedarán insubsistentes si los inmuebles fueran enajenados por los trabajadores o destinados para otros fines.
 
@@ -1204,9 +1280,11 @@ La Institución tendrá especial cuidado de que sus actividades relacionadas con
 
 El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, de la Contraloría General de la Federación y del Departamento del Distrito Federal, ejercerá el control y evaluación de la inversión de los recursos del Fondo, vigilando que los mismos sean aplicados de acuerdo con lo que establece el presente Reglamento y a las directrices del Consejo Directivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 164.
 
-Corresponde al Departamento del Distrito Federal y a la Institución, por lo que al fondo de la vivienda se refiere cumplir con lo siguiente:
+Corresponde al Gobierno del Distrito Federal y a la Institución, por lo que al fondo de la vivienda se refiere cumplir con lo siguiente:
 
 I. Inscribir a los trabajadores a lista de raya, empleados y a los beneficiarios en el fondo.
 
@@ -1214,7 +1292,9 @@ II. Cubrir las aportaciones que le corresponden de conformidad con lo que estipu
 
 III. Descontar a los trabajadores de sus sueldos y salarios, conforme a lo establecido por el artículo 25 de este Reglamento, el pago de abonos destinados a cubrir préstamos otorgados por la Institución, debiendo enterarle el importe de dichos descuentos.
 
-Las aportaciones del Departamento del Distrito Federal, así como los descuentos que le solicite se hagan a los trabajadores por concepto de adeudos derivados de créditos otorgados con recursos del fondo, deberán ser entregados quincenalmente a la Institución.
+> <small>(REFORMADO, G.O. 22 DE MAYO DE 2012)</small>
+
+Las aportaciones del Gobierno del Distrito Federal, así como los descuentos que le solicite se hagan a los trabajadores por concepto de adeudos derivados de créditos otorgados con recursos del fondo, deberán ser entregados quincenalmente a la Institución.
 
 ### CAPITULO XX. De las Prestaciones de Bienestar Social
 
@@ -1298,7 +1378,9 @@ Los pagos de las pensiones caídas, las indemnizaciones globales y cualquier otr
 
 Los créditos respecto de los cuales la Institución tenga el carácter de acreedor, cualesquiera que sea su especie, prescribirán conforme a la Ley que los regule.
 
-Las obligaciones a favor de la Institución y a cargo del Departamento del Distrito Federal, prescribirán en el lapso de 10 años contados a partir de la fecha en que sean exigibles. La prescripción se interrumpirá por cualquier gestión de cobro.
+> <small>(REFORMADO, G.O. 22 DE MAYO DE 2012)</small>
+
+Las obligaciones en favor de la Institución y a cargo del Gobierno del Distrito Federal, prescribirán en el lapso de 10 años contados a partir de la fecha en que sean exigibles. La prescripción se interrumpirá por cualquier gestión de cobro.
 
 ###### ARTICULO 177.
 
@@ -1318,7 +1400,7 @@ SEGUNDO. Se deroga el Reglamento de fecha 23 de noviembre de 1982, publicado en 
 
 Aprobado por el Consejo Directivo de la Caja de Previsión para Trabajadores a Lista de Raya, en su sesión celebrada el día 15 del mes de noviembre de 1988, en ejercicio de las facultades que le confieren el Artículo 85 Fracción V de su Reglamento, publicado el 1°. de diciembre de 1982, en la Gaceta Oficial del Departamento del Distrito Federal.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 G.O. 13 DE MAYO DE 1991.
 
@@ -1334,16 +1416,22 @@ SEGUNDO.- Publíquese en la Gaceta Oficial del Departamento del Distrito Federal
 
 G.O. 20 DE OCTUBRE DE 1997.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN, Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 G.O. 17 DE NOVIEMBRE DE 1997.
 
-DEL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+DEL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN, Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 G.O. 13 DE ENERO DE 2000.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN, Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 G.O. 15 DE JULIO DE 2008.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.
+
+G.O. 22 DE MAYO DE 2012.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su Publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal para su entrada en vigor.
