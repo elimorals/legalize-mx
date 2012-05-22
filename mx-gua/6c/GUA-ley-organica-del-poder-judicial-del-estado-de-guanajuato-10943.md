@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-judicial-del-estado-de-guanajuato-10943"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-04-01"
-last_updated: "2010-12-24"
+last_updated: "2012-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
 
-LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
+LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 22 DE MAYO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el miércoles 1 de abril de 1997.
 
@@ -277,7 +279,7 @@ De toda sesión del Pleno del Supremo Tribunal de Justicia se levantará acta qu
 
 ### CAPITULO TERCERO. DEL PRESIDENTE DEL SUPREMO TRIBUNAL DE JUSTICIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 23.
 
@@ -331,7 +333,7 @@ II.- Por renuncia aceptada por el Pleno del Supremo Tribunal de Justicia.
 
 ### CAPITULO CUARTO. DEL CONSEJO DEL PODER JUDICIAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 27.
 
@@ -563,7 +565,7 @@ V.- Proponer el nombramiento de ponentes para preparar la resolución o despacho
 
 VI.- Las demás previstas en la Ley o sus reglamentos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 37.
 
@@ -583,7 +585,7 @@ Las resoluciones del Consejo del Poder Judicial que deban notificarse, se harán
 
 El Consejo del Poder Judicial atendiendo a la naturaleza del asunto de que se trate, determinará si sus deliberaciones tendrán el carácter de públicas o reservadas, en este caso deberán sus integrantes guardar secreto de las mismas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 41.
 
@@ -629,7 +631,7 @@ IV.- De la queja contra la resolución que no de entrada a la denegada apelació
 
 V.- De los asuntos que les confieran esta Ley y otras disposiciones legales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 47.
 
@@ -897,7 +899,7 @@ VI.- El haber de retiro no se otorgará en los casos en que el magistrado sea re
 
 VII.- No podrán otorgarse préstamos, créditos o anticipos con cargo al haber de retiro.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ### CAPITULO SEPTIMO. DE LA COMISION DE EVALUACION
 
@@ -959,7 +961,7 @@ V.- Elaborar dictámenes de evaluación; y
 
 VI.- Informar anualmente al Pleno del Supremo Tribunal de Justicia, al Pleno del Consejo del Poder Judicial, al Congreso del Estado y al Poder Ejecutivo, el resultado de las evaluaciones de consejeros y magistrados atendiendo al origen de la propuesta.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN], P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ### CAPITULO OCTAVO. DE LA EVALUACION DE MAGISTRADOS, CONSEJEROS Y JUECES
 
@@ -1065,7 +1067,7 @@ IV.- Las deficiencias o faltas graves que arrojen las evaluaciones serán causa 
 
 La violación a lo dispuesto por este Capítulo, dará lugar a responsabilidad en los términos del artículo 156 fracción III de esta Ley.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN], P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ### CAPÍTULO NOVENO. DEL PROCEDIMIENTO PARA LA REELECCIÓN DE MAGISTRADOS
 
@@ -1141,11 +1143,11 @@ Si un juez de impugnación dejare de conocer de algún asunto por excusa o recus
 
 Para ser juez de impugnación deberán de cumplirse los mismos requisitos exigidos al juez de partido, además de contar con experiencia profesional de cuando menos siete años y tener especialización en la materia de adolescentes.
 
-> <small>(REFORMADO EN SU DENOMINACION, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO EN SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ### CAPÍTULO DÉCIMO PRIMERO. DE LOS JUZGADOS DE PARTIDO, DE LOS TRIBUNALES ESPECIALIZADOS PARA ADOLESCENTES Y DE LOS JUZGADOS REGIONALES DEL SISTEMA PENAL ACUSATORIO Y ORAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 56.
 
@@ -1207,7 +1209,7 @@ La administración de los juzgados que operen el sistema penal acusatorio y oral
 
 l.- Ejecutar las acciones necesarias para la implementación del sistema de gestión en apoyo al servicio de impartición de justicia, bajo los lineamientos autorizados por el Consejo del Poder judicial;
 
-II.- Dirigir los trabajos y supervisar el desempeño der personal de apoyo;
+II.- Dirigir los trabajos y supervisar el desempeño del personal de apoyo;
 
 III.- Vigilar la correcta y eficiente aplicación de los recursos asignados al sistema de gestión; y
 
@@ -1563,7 +1565,7 @@ V.- Guardar bajo su responsabilidad los expedientes y documentos de los asuntos 
 
 VI.- Las demás que le señale esta Ley y el reglamento interior del Supremo Tribunal de Justicia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 77.
 
@@ -2389,7 +2391,7 @@ II.- Suspensión hasta por sesenta días: por violación al contenido de las fra
 
 III.- Destitución: por incumplimiento de las obligaciones a que se refiere la fracción XV del artículo 151 o por incurrir en las faltas a que se refieren las fracciones IV, V, VI, VII y X del artículo 152 de esta Ley o por haber sido suspendido en dos ocasiones en el término de un año.
 
-> <small>(ADICIONADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Artículo 157.
 
@@ -2563,7 +2565,7 @@ POR AUSENCIA DEL C. SECRETARIO DE GOBIERNO, CON FUNDAMENTO EN EL ARTICULO 66 DEL
 
 ANTONIO OBREGON PADILLA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 3 DE AGOSTO DEL 2001.
 
@@ -2589,7 +2591,7 @@ Artículo Primero.- Las presentes modificaciones a la Ley Orgánica del Poder Ju
 
 Artículo Segundo.- Tan luego cobren vigencia las presentes adecuaciones, el Consejo del Poder Judicial, por esta única vez, proveerá a la designación directa de los titulares de los tribunales especializados en la impartición de justicia para adolescentes, haciendo selección entre los jueces de partido en materia penal, a los que expedirá nombramiento por el plazo que considere pertinente.
 
-> <small>N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBE EL ARTICULO UNICO TRANSITORIO DEL DECRETO NUMERO 280.</small>
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBE EL ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO NUMERO 280.</small>
 
 ###### ARTÍCULO ÚNICO.
 
@@ -2628,3 +2630,57 @@ Artículo Segundo. Las cuestiones que se presenten por la aplicación ultractiva
 Artículo Tercero. En relación con la carrera judicial y hasta antes de la entrada en vigor del sistema penal acusatorio y oral en la Región IV, el Consejo del Poder Judicial, podrá convocar a los jueces menores penales y mixtos y secretarios de sala penal para participar en los concursos de oposición para designar a los jueces que operen este sistema.
 
 Los jueces de partido y los secretarios de juzgado de partido que deseen integrar el sistema penal acusatorio y oral, deberán someterse a un proceso de selección cuyos reglas y bases se contendrán en la convocatoria respectiva.
+
+P.O. DE 22 DE MAYO DE 2012.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Abrogación de la Ley Orgánica del Poder Judicial del Estado de Guanajuato
+
+Artículo Segundo. Se abroga la Ley Orgánica del Poder Judicial del Estado de Guanajuato, expedida por la Quincuagésima Sexta Legislatura del Congreso del Estado, publicada en el Periódico Oficial del Gobierno del Estado de Guanajuato, número 26 Segunda Parte, de fecha 1 de abril de 1997.
+
+Ultractividad de los reglamentos
+
+Artículo Tercero. En tanto no se expidan las disposiciones reglamentarias de esta Ley, seguirán vigentes los reglamentos expedidos al amparo de la Ley que se abroga, en lo que no se opongan a la presente Ley.
+
+Plazo para la expedición de reglamentos
+
+Artículo Cuarto. El Poder Judicial expedirá los reglamentos a que se refiere esta Ley, en un plazo no mayor de ciento veinte días contados a partir de la entrada en vigor de la misma.
+
+Competencia de los jueces de partido en materia penal
+
+Artículo Quinto. Las cuestiones que se presenten por la aplicación ultractiva del Código de Procedimientos Penales para el Estado de Guanajuato, y por la aplicación retroactiva de la Ley del Proceso Penal para el Estado de Guanajuato, a que se refieren los artículos transitorios tercero y sexto de la Ley del Proceso Penal para el Estado de Guanajuato, serán resueltas por los jueces de partido que estén conociendo de los respectivos asuntos.
+
+Haber de retiro de magistrados supernumerarios que no provengan de carrera judicial
+
+Artículo Sexto. Los magistrados supernumerarios que en su momento fueron designados sin provenir de la carrera judicial, al término de su encargo, se hará la sumatoria correspondiente al tiempo en que se haya desempeñado como magistrado, y recibirá el haber de retiro proporcional en una sola exhibición, de acuerdo a lo establecido en la fracción II del artículo 69 de esta Ley.
+
+Aplicación de las reglas para la evaluación de jueces
+
+Artículo Séptimo. Las reglas relativas a la evaluación de jueces se aplicarán a partir de enero del año 2013, y se formalizará, en los términos del artículo 84 de esta Ley, a partir del mes de enero del año 2014.
+
+A partir de la entrada en vigencia de la Ley, el Consejo del Poder Judicial implementará la capacitación a los jueces, relativa a la evaluación de su desempeño.
+
+Concursos de oposición para integrar el sistema penal acusatorio y oral
+
+Artículo Octavo. En relación con la carrera judicial y hasta antes de la entrada en vigor del sistema penal acusatorio y oral en la Región IV, el Consejo del Poder Judicial, podrá convocar a los jueces menores penales y mixtos y secretarios de sala penal para participar en los concursos de oposición para designar a los jueces que operen este sistema.
+
+Los jueces de partido y los secretarios de juzgado de partido que deseen integrar el sistema penal acusatorio y oral, deberán someterse a un proceso de selección cuyas reglas y bases se contendrán en la convocatoria respectiva.
+
+Convocatoria para jueces que operen juicios orales civiles y mercantiles
+
+Artículo Noveno. Hasta antes de la entrada en vigor de los juicios orales civiles regulados en las reformas al Código de Procedimientos Civiles para el Estado de Guanajuato, publicadas el 27 de diciembre de 2011 en el Periódico Oficial del Gobierno del Estado, y de los juicios orales mercantiles regulados en las reformas al Código de Comercio publicadas el 9 de enero de 2012 en el Diario Oficial de la Federación, el Consejo del Poder Judicial podrá convocar a los jueces menores civiles y mixtos, y secretarios de sala civil para participar en los concursos de oposición para designar a los jueces que operen estos juicios.
+
+Los jueces de partido y secretarios de juzgado de partido que deseen participar en el sistema de juicios orales civiles y en el de juicios orales mercantiles, deberán someterse a un proceso de selección cuyas reglas y bases se contendrán en la convocatoria respectiva.
+
+Venta de bienes a disposición de juzgados
+
+Artículo Décimo. El procedimiento para la realización de la venta de los bienes que estén a disposición de los juzgados penales que no hayan sido recogidos, será el que establece el artículo 545 del Código de Procedimientos Civiles para el Estado de Guanajuato, y se llevará a cabo por el juzgado primero penal de cada partido judicial. Para ello, los juzgados penales de cada partido judicial harán un inventario de los bienes, el que remitirán al juzgado primero penal. Los bienes permanecerán en el lugar donde actualmente se encuentren. El juzgado primero penal de cada partido judicial extenderá en su caso, la constancia de venta que hará las veces de factura.
+
+El producto final de la venta ingresará al fondo auxiliar para la impartición de justicia.
+
+Procedimientos disciplinarios en trámite
+
+Artículo Decimoprimero. Los procedimientos disciplinarios que hubieren iniciado previo a la fecha de entrada en vigor de la presente Ley, continuarán tramitándose conforme a la ley vigente a la fecha de su inicio, pudiéndose aplicar las disposiciones de la presente Ley, en lo que le resulte benéfico al servidor público.
