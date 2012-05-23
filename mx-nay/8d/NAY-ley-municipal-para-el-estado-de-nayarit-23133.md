@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2011-06-04"
+last_updated: "2012-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2012.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -379,15 +379,15 @@ Estas mismas reglas se aplicarán cuando se encuentren en funciones Consejos Mun
 
 Los ciudadanos Presidentes Municipales, saliente y entrante, podrán celebrar convenio para establecer la hora en que se celebre la Sesión Solemne de Instalación, la cual deberá efectuarse el 17 de septiembre del año correspondiente entre las 10 y las 20 horas de ese día.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 42.
 
 Si a la sesión de instalación no se presentara la totalidad de los integrantes del Ayuntamiento electo, quienes hayan rendido la protesta procederán a llamar a los que no hubieren asistido para que dentro del plazo de 24 horas se incorporen al ejercicio del cargo, previa protesta de ley.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 15 DE ABRIL DE 2009)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 15 DE ABRIL DE 2009)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 43.
 
@@ -477,7 +477,7 @@ La representación política, dirección administrativa, gestión social y ejecu
 
 El Ayuntamiento funcionará en períodos de tres años, iniciando cada ejercicio el día 17 de septiembre del año de la elección respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 50.
 
@@ -511,7 +511,7 @@ V.- Asimismo, el Ayuntamiento podrá celebrar sesiones de Cabildo abierto para r
 
 Las sesiones del Ayuntamiento serán válidas con la asistencia de la mitad más uno de sus miembros, siendo presididas por el Presidente municipal y en caso de ausencia, por el regidor nombrado mediante mayoría simple al inicio de la misma; éste último tendrá voto de calidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 52.
 
@@ -563,7 +563,7 @@ El desarrollo de las sesiones del Ayuntamiento, se hará constar por el Secretar
 
 En los demás casos, bastará que los documentos relativos al asunto tratado, se agreguen al apéndice del libro o folios de actas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 59.
 
@@ -815,7 +815,7 @@ VII.- Promulgar las normas de carácter general y reglamentos aprobados por el A
 
 VIII.- Rendir mensualmente un informe al Ayuntamiento sobre el estado que guarda la administración municipal en sus aspectos más relevantes;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2008)</small>
 
 IX.- Informar por escrito dentro de los primeros diez días del mes de diciembre de cada año, al Ayuntamiento, del estado que guarda la administración pública municipal en todos sus aspectos y de las labores realizadas durante el año, con la salvedad que para el último año de ejercicio constitucional, el informe se presentará en los primeros diez días del mes de septiembre.
 
@@ -1077,13 +1077,13 @@ Cuando, por algún motivo grave, faltare uno o más miembros de alguna comisión
 
 Si uno o más integrantes de alguna comisión tuvieren interés personal o estuvieren impedidos legalmente en asuntos de su competencia, se dará cuenta al Ayuntamiento para que éste proceda a su sustitución, sólo para ese efecto.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO UNICO DEL DECRETO QUE MODIFICA LA LEY, SE REFORMA LA ESTRUCTURA DEL PRESENTE TITULO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, SE REFORMA LA ESTRUCTURA DEL PRESENTE TÍTULO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ## TÍTULO SEXTO
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE ABRIL DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ABRIL DE 2009)</small>
 
 ### CAPÍTULO ÚNICO. Prevenciones para los casos de ausencias derivadas de comisiones, licencias, faltas y suplencias de los integrantes del Ayuntamiento
 
@@ -1139,9 +1139,9 @@ Para efectos de esta ley se entenderá por licencia, la autorización a cualquie
 
 La solicitud de licencia deberá presentarse ante la Secretaría del Ayuntamiento o en su caso ante la Secretaría General del Congreso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRIMER PARRAFO DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 87.
 
@@ -1149,29 +1149,29 @@ Para el otorgamiento de licencias o reincorporación de los miembros de los Ayun
 
 I.- Cuando la licencia solicitada no excedan (sic) de veinte días naturales, se requerirá para su autorización la aprobación del Ayuntamiento por mayoría simple.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 4 DE JUNIO DE 2011)</small>
 
 II. Cuando la licencia solicitada sea mayor a veinte días naturales se requerirá para su autorización la aprobación del Ayuntamiento por mayoría absoluta, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 4 DE JUNIO DE 2011)</small>
 
 III. Para efectos de la reincorporación a sus funciones, el interesado deberá presentar solicitud por escrito ante el ayuntamiento correspondiente, quien dictaminará lo conducente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 4 DE JUNIO DE 2011)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 4 DE JUNIO DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 4 DE JUNIO DE 2011)</small>
 
 No se otorgarán licencias cuya duración exceda de un año; o que en su conjunto computen una duración equivalente al mismo término; y ninguna se concederá con goce de sueldo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRIMER PARRAFO DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 4 DE JUNIO DE 2011)</small>
 
@@ -1179,15 +1179,15 @@ No se otorgarán licencias cuya duración exceda de un año; o que en su conjunt
 
 Cuando el Ayuntamiento por causas injustificadas se negara a resolver sobre las solicitudes de licencias o reincorporaciones; el Congreso del Estado o la Diputación Permanente en su caso, conocerá y previa valoración, resolverá lo conducente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO DE ESTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2011)</small>
 
 El órgano correspondiente deberá dar respuesta a la solicitud dentro de un término que no exceda de cinco días naturales contados a partir del siguiente a la presentación de la misma; en caso contrario se tendrá por procedente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRIMER PARRAFO DEL PRESENTE ARTICULO, VEASE EL TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE EL TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 89.
 
@@ -1239,7 +1239,7 @@ En cualquier caso harán saber por escrito al Ayuntamiento, por conducto del Sec
 
 Los miembros del Ayuntamiento que no asistan a las sesiones o que incumplan sus funciones sin causa justificada dejarán de percibir la parte correspondiente a sus emolumentos.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 15 DE ABRIL DE 2009)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE ABRIL DE 2009)</small>
 
 #### SECCIÓN CUARTA. De las reglas aplicables a la suplencia de los integrantes del Ayuntamientos (sic)
 
@@ -1265,7 +1265,7 @@ II.- Si no fuera procedente realizar elecciones extraordinarias, el Ayuntamiento
 
 ARTICULO 90 E.- En el caso de faltas absolutas de algún Regidor, se llamará a su suplente o al que siga en la lista, y si por cualquier causa el suplente no asumiera el cargo, ni fuera procedente convocar a elecciones, se declarará la vacante.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE EL TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE EL TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 4 DE JUNIO DE 2011)</small>
 
@@ -1497,7 +1497,7 @@ Dos o más municipios vecinos podrán convenir en la designación de un cronista
 
 ### CAPÍTULO I. De la integración de la administración municipal
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 108.
 
@@ -1559,7 +1559,7 @@ La sustitución de los funcionarios, en las faltas que no excedan de 30 días, s
 
 Las formalidades para el nombramiento de los titulares y el demás personal de las entidades municipales se sujetarán a lo que al efecto dispongan los reglamentos municipales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 111.
 
@@ -1603,7 +1603,7 @@ I.- En los municipios de hasta 50 mil habitantes, haber concluido la educación 
 
 II.- No estar inhabilitado para ocupar cargo alguno en la administración pública.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 114.
 
@@ -1689,7 +1689,7 @@ V.- Presentar mensualmente informes de la situación financiera de la Tesorería
 
 VI.- Proponer al Ayuntamiento cuando no exista impedimento legal, la cancelación de cuentas incobrables una vez que se hayan realizado las gestiones de cobro y que indubitablemente permitan determinar la imposibilidad de hacer efectivo el cobro de los créditos a favor del Ayuntamiento. Dicha circunstancia deberá documentarse para de (sic) dejar constancia de ello;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2004)</small>
 
 VII.- Elaborar y remitir al Presidente Municipal para los efectos legales correspondientes, los siguientes documentos:
 
@@ -2317,7 +2317,7 @@ Los capitales propios excedentes de los municipios, podrán ser empleados en los
 
 Las leyes no establecerán exenciones o subsidios a favor de persona o institución alguna respecto de dichas contribuciones. Sólo estarán exentos los bienes de dominio público de la federación, de los estados o los municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 164.
 
@@ -2613,7 +2613,7 @@ c) Concesión de bienes inmuebles del dominio público y arrendamiento de bienes
 
 d) En general, en los convenios cuyos efectos jurídicos superen el período del Ayuntamiento que lo autoriza.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 190.
 
@@ -2691,51 +2691,125 @@ TÍTULO DECIMOSEGUNDO
 
 ### CAPÍTULO ÚNICO. Del Presupuesto de Egresos
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 197.
 
-Los presupuestos de egresos municipales serán aprobados por los Ayuntamientos de conformidad con sus ingresos, para regir en el año fiscal respectivo, a fin de sufragar los gastos que originen las actividades, obras y servicios públicos previstos en los planes y programas de la administración municipal. Específicamente contendrán lo siguiente:
+Los presupuestos de egresos municipales serán aprobados por los Ayuntamientos de conformidad con sus ingresos, para regir en el año fiscal respectivo, a fin de sufragar el gasto público que comprende las erogaciones por concepto de gasto corriente, incluyendo el pago de los pasivos de la deuda pública, inversión física, inversión financiera, así como de responsabilidad patrimonial que realicen las dependencias municipales. Los presupuestos de egresos de las entidades municipales serán aprobados por sus órganos de gobierno.
 
-I.- Las asignaciones presupuestales a (sic) de ramos y partidas, y la calendarización de su ejercicio;
+En su caso, los presupuestos de egresos municipales deberán prever la existencia de partidas específicas que atiendan el cumplimiento de lo dispuesto por el artículo 2, apartado B de la Constitución Política de los Estados Unidos Mexicanos.
 
-II.- La presupuestación del gasto comprenderá el desglose de las erogaciones por concepto de gasto corriente, inversión física, inversión financiera, así como pago de pasivos o deuda pública que realice la administración municipal; y
-
-III.- Los subsidios, donaciones, estímulos, transferencias y demás conceptos de gasto que programe el Ayuntamiento.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 198.
 
-Los presupuestos de egresos se formularán con apoyo en programas que señalen objetivos, metas y unidades responsables de su ejecución, especificando las asignaciones de partidas y la calendarización de su ejercicio, las estimaciones de los ingresos autorizados y la situación de la deuda pública.
+Los presupuestos de egresos se formularán con base a resultados, para lo cual deberán ponderarse los resultados y las metas obtenidas. Los presupuestos deberán contener programas, y se desagregarán en subprogramas, cuando así se requiera. Asimismo, deberán incorporar los objetivos que con cada programa se pretendan alcanzar, su temporalidad y las unidades responsables de su ejecución, especificando las asignaciones de partidas y la calendarización de su ejercicio, las estimaciones de los ingresos autorizados y la situación de la deuda pública.
+
+El Presupuesto de Egresos se presentará y aprobará, cuando menos, conforme a las siguientes clasificaciones:
+
+I.- La administrativa, la cual agrupa a las previsiones de gasto conforme a los ejecutores de gasto; mostrará el gasto neto total en términos de ramos y entidades con sus correspondientes unidades responsables;
+
+II.- La funcional y programática, la cual agrupa a las previsiones de gasto con base en las actividades que por disposición legal le corresponden a los ejecutores de gasto y de acuerdo con los resultados que se proponen alcanzar, en términos de funciones, programas, proyectos, actividades, indicadores, objetivos y metas. Permitirá conocer y evaluar la productividad y los resultados del gasto público en cada una de las etapas del proceso presupuestario. Asimismo se incluirá en el Presupuesto de Egresos una clasificación que presente los distintos programas con su respectiva asignación, que conformará el gasto programático, así como el gasto que se considerará gasto no programático, los cuales sumarán el gasto neto total;
+
+III.- La económica, la cual agrupa a las previsiones de gasto en función de su naturaleza económica y objeto, bajo los siguientes capítulos: servicios personales, materiales y suministros, servicios generales, ayudas, subsidios y transferencias, bienes muebles e inmuebles, obras públicas, inversión financiera y otras erogaciones, y deuda pública. Los capítulos señalados se dividirán en partidas que representarán las autorizaciones específicas del presupuesto y agrupados en forma de gasto, transferencias, inversión y deuda pública, y
+
+IV.- La geográfica, que agrupa a las previsiones de gasto con base en su destino geográfico, en términos de regiones.
+
+Previamente a la aplicación de recursos destinados a zonas de pobreza extrema y rezago social; el Ayuntamiento, a propuesta de su Dirección de Planeación Municipal, deberá determinar anualmente dentro de sus presupuestos de egresos, las poblaciones, colonias o áreas que se encuentren en dicha condición. Para ello deberá considerar los elementos que al efecto se prevén en la Ley de Coordinación Fiscal Federal, así como la información generada por el Instituto Nacional de Estadística y Geografía y por el Consejo Nacional de Evaluación de la Política de Desarrollo Social, así como por las dependencias estatales y municipales. La Secretaría de Planeación, Programación y Presupuesto del Gobierno del Estado, deberá proporcionar a los municipios que lo soliciten, el apoyo y la asesoría técnica que se requiera.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 199.
 
-Durante el mes de octubre de cada año, la Tesorería Municipal recibirá de las dependencias y entidades de la administración pública municipal, sus respectivos anteproyectos de presupuestos, los cuales servirán de base para el proyecto que deberá formular la Tesorería antes del diez de noviembre, fecha en que lo presentará al Presidente Municipal.
+Durante el mes de octubre de cada año, la Tesorería Municipal recibirá de las dependencias y entidades de la administración pública municipal, sus respectivos anteproyectos de presupuestos, los cuales servirán de base para el proyecto que deberá formular la Tesorería antes del diez de diciembre, fecha en que lo presentará al Presidente Municipal.
 
-> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2003)</small>
+Para la formulación de los Anteproyectos de Presupuesto, las dependencias y entidades municipales, elaborarán sus Proyectos de Presupuesto, considerando los programas a ejecutar y objetivos a cumplir y la evaluación de los avances logrados en el cumplimiento a las prioridades y objetivos propuestos que deberán ser acordes con el Plan Municipal de Desarrollo.
 
-###### Artículo 200.
+Los anteproyectos deberán sujetarse a la estructura programática aprobada por la Tesorería, la cual contendrá como mínimo:
 
-El presupuesto deberá ser aprobado por la mayoría absoluta del Ayuntamiento. En el acta que se levante se asentarán las cifras que por cada programa y ramo se hayan autorizado, y deberá publicarse en la Gaceta Municipal y en el Periódico Oficial, Órgano de Gobierno del Estado, y por otros medios que se estime pertinentes a mas tardar el 31 de diciembre del año previo al ejercicio fiscal correspondiente;
+a) Las categorías, que comprenderán la función, la subfunción, el programa, la actividad institucional, y el proyecto, y
 
-El Ayuntamiento remitirá una copia autorizada del presupuesto con todos sus anexos al Congreso del Estado, para su registro.
+b) Los elementos, que comprenderán la misión, los objetivos, las metas con base en indicadores de desempeño y la unidad responsable, en congruencia con el Plan Municipal de Desarrollo. La estructura programática facilitará la vinculación del Plan y los programas y deberá incluir indicadores de desempeño con sus correspondientes metas anuales. Deberán diferenciarse los indicadores y metas de la dependencia o entidad de los indicadores y metas de sus unidades responsables. Dichos indicadores de desempeño corresponderán a un índice, medida, cociente o fórmula que permita establecer un parámetro de medición de lo que se pretende lograr en un año expresado en términos de cobertura, eficiencia, impacto económico y social, calidad y equidad. Estos indicadores serán la base para el funcionamiento del Sistema de Evaluación del Desempeño.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2012)</small>
+
+###### ARTICULO 200.
+
+El presupuesto de egresos deberá ser aprobado por la mayoría absoluta del Ayuntamiento. En el acta que se levante se asentarán las cifras que por cada programa y ramo se hayan autorizado, y deberá publicarse en la Gaceta Municipal, en el Periódico Oficial y en la página internet del Ayuntamiento a más tardar el 31 de diciembre del año previo al ejercicio fiscal correspondiente.
+
+El Ayuntamiento remitirá una copia autorizada del presupuesto con todos sus anexos al Congreso del Estado, por conducto del Órgano de Fiscalización para su registro, en los primeros quince días del mes de enero del año de su vigencia.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 201.
 
-Para cualquier modificación al presupuesto, se deberá seguir el mismo procedimiento que para su aprobación, debiendo remitir copia certificada al Congreso del Estado, para los efectos de su competencia.
+Los Presupuestos de Egresos deberán presentar en una sección específica las erogaciones correspondientes al gasto en servicios personales, la cual se sujetará a lo siguiente:
+
+I.- El gasto de servicios personales comprende:
+
+a) Las remuneraciones de los servidores públicos y las erogaciones por concepto de obligaciones de carácter fiscal y de seguridad social inherentes a dichas remuneraciones, y
+
+b) Las previsiones salariales y económicas para cubrir los incrementos salariales, la creación de plazas y otras medidas económicas de índole laboral. Dichas previsiones serán incluidas en un capítulo específico del Presupuesto de Egresos.
+
+II.- El monto autorizado en el presupuesto de egresos deberá ser suficiente para cubrir:
+
+a) Las remuneraciones que constitucional y legalmente correspondan a los servidores públicos por concepto de percepciones ordinarias y extraordinarias;
+
+b) Las aportaciones de seguridad social;
+
+c) Las primas de los seguros que se contraten en favor de los servidores públicos y demás asignaciones autorizadas en los términos de las normas aplicables, y
+
+d) Las obligaciones fiscales que generen los pagos a que se refieren las fracciones anteriores, conforme a las disposiciones generales aplicables.
+
+IIII (SIC).- Al realizar pagos por concepto de servicios personales, deberán observar lo siguiente:
+
+a) Sujetarse a su presupuesto aprobado;
+
+b) Establecer los tabuladores desglosados de remuneraciones que deben recibir los servidores públicos municipales, sujetándose a lo dispuesto por el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y a las demás disposiciones generales aplicables;
+
+c) Sujetarse a los tabuladores de remuneraciones;
+
+d) En materia de incrementos en las percepciones, deberán sujetarse estrictamente a las previsiones salariales y económicas, aprobadas específicamente para este propósito en el Presupuesto de Egresos;
+
+e) Sujetarse, en lo que les corresponda, a lo dispuesto en las leyes laborales y las leyes que prevean el establecimiento de servicios profesionales de carrera, así como observar las demás disposiciones generales aplicables;
+
+f) En materia de percepciones extraordinarias, sujetarse a las disposiciones generales aplicables y obtener las autorizaciones correspondientes. Las percepciones extraordinarias son aquéllas que no constituyen un ingreso fijo, regular ni permanente, ya que su otorgamiento se encuentra sujeto a requisitos y condiciones variables. Dichos conceptos de pago en ningún caso podrán formar parte integrante de la base de cálculo para efectos de indemnización o liquidación o de prestaciones de seguridad social;
+
+g) Abstenerse de contraer obligaciones en materia de servicios personales que impliquen compromisos en subsecuentes ejercicios fiscales, salvo que se cuente con los recursos previamente autorizados para cubrir todos los gastos inherentes a las contrataciones, incluyendo las obligaciones por concepto de impuestos, aportaciones a seguridad social y demás pagos y prestaciones que por ley deban cubrirse. Los recursos para cubrir obligaciones inherentes a las contrataciones que tengan un impacto futuro en el gasto deberán constituirse en reservas que garanticen que dichas obligaciones estén en todo momento plenamente financiadas;
+
+h) Abstenerse de contratar trabajadores eventuales, salvo que tales contrataciones se encuentren previstas en el respectivo presupuesto destinado a servicios personales, e
+
+i) Sujetarse a las disposiciones generales aplicables para la autorización de los gastos de representación y de las erogaciones necesarias para el desempeño de comisiones oficiales.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 202.
 
 Ningún gasto podrá efectuarse sin que exista partida expresa del presupuesto que la autorice y que tenga saldo disponible para cubrirlo, a excepción de las resoluciones de la naturaleza jurisdiccional que determinen obligaciones a cargo del municipio.
 
-> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2003)</small>
+Para cualquier modificación al presupuesto, se deberá seguir el mismo procedimiento que para su aprobación, debiendo remitir copia certificada al Congreso del Estado, para los efectos de su competencia.
+
+Una vez concluida la vigencia de un Presupuesto de Egresos sólo procederá hacer pagos, con base en éste por los conceptos efectivamente devengados en el año que corresponda, siempre que se hubieren contabilizado debida y oportunamente las operaciones correspondientes y hayan estado contempladas en el Presupuesto de Egresos, así como los correspondientes al costo financiero de la deuda pública.
 
 Los beneficiarios de subsidios, aportaciones o transferencias, otorgados con cargo al Presupuesto de Egresos Municipal, deberán rendir cuenta detallada de la aplicación de los fondos relativos al Ayuntamiento, así como la información y justificación correspondientes en la forma y plazos de ley.
 
-> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2003)</small>
-
 El incumplimiento comprobado en la rendición de la cuenta, motivará, en su caso, la inmediata suspensión de las subsecuentes ministraciones de fondos que por el mismo concepto se hubieren autorizado, así como el reintegro de lo que se haya suministrado.
+
+La Tesorería realizará trimestralmente la evaluación económica de los ingresos y egresos en función de los calendarios de presupuesto de las dependencias y entidades. Las metas de los programas aprobados serán analizadas y evaluadas por las comisiones ordinarias del Ayuntamiento.
+
+Al momento del registro contable de los documentos que amparen el pago de los egresos realizados, invariablemente a éstos, se deberá imponer el sello de "operado" en donde además se establezca el programa, acción, capítulo y partida al cual corresponde. En el caso de los recursos provenientes del Ramo 33, adicionalmente se deberá señalar el fondo del cual provienen.
+
+En el caso de las operaciones amparadas mediante comprobantes electrónicos, previamente a su impresión, éstos deberán validarse de conformidad a las disposiciones fiscales, debiéndose archivar y respaldar electrónicamente.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 203.
 
-Cada Ayuntamiento organizará un sistema permanente de contabilidad que comprenda el registro de los activos, pasivos, capital o patrimonio, ingresos y egresos, asignaciones, compromisos y ejercicios que correspondan a programas y partidas de su propio presupuesto.
+Los Ayuntamientos podrán autorizar y modificar programas y proyectos de inversión vinculados al Plan Municipal de Desarrollo cuya ejecución requiera de varios ejercicios fiscales, los cuales no deberán exceder el periodo constitucional del Ayuntamiento; los gastos correspondientes deberán incluirse en los subsecuentes presupuestos de egresos.
+
+Los proyectos de inversión plurianuales requerirán para su aprobación de mayoría calificada.
+
+En todo caso, en el Presupuesto de Egresos se deberá prever, en un capítulo específico, los compromisos plurianuales de gasto, los cuales se deriven de contratos de obra pública, adquisiciones, arrendamientos y servicios. En estos casos, los compromisos excedentes no cubiertos tendrán preferencia respecto de otras previsiones de gasto, quedando sujetos a la disponibilidad presupuestaria anual.
 
 > <small>(REFORMADO, P.O. 4 DE JUNIO DE 2003)</small>
 
@@ -2771,9 +2845,17 @@ TÍTULO DECIMOCUARTO
 
 Los municipios, para el cumplimiento de sus fines y aprovechamiento de sus recursos, formularán planes y programas. El Plan de Desarrollo Municipal deberá elaborarse, aprobarse y publicarse dentro de un plazo de 90 días contados a partir de la fecha de toma de posesión de los Ayuntamientos respectivos, en los términos que dispone la Ley de Planeación del Estado de Nayarit y su vigencia no excederá del período que les corresponde.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 209.
 
-El Plan de Desarrollo Municipal deberá precisar objetivos, estrategias y prioridades; contendrá aquellas previsiones de recursos asignados para los fines que se persiguen, determinará los instrumentos y las responsabilidades de su ejecución, supervisión y evaluación, así como el conjunto de actividades económicas, sociales y culturales a que estén destinados los programas respectivos, con base en los lineamientos de los planes del Plan estatal y nacional de desarrollo.
+El Plan de Desarrollo Municipal deberá precisar objetivos, estrategias y prioridades; contendrá aquellas previsiones de recursos asignados para los fines que se persiguen, determinará los instrumentos y las responsabilidades de su ejecución, supervisión y evaluación, así como el conjunto de actividades económicas, sociales y culturales a que estén destinados los programas respectivos, con base en los lineamientos de los planes estatal y nacional de desarrollo.
+
+La planeación municipal se desarrollará en base a la metodología de la planeación estratégica, entendiéndose como tal, el conjunto de elementos metodológicos y normativos que permite la ordenación sistemática de acciones, que apoya las actividades para fijar objetivos, metas y estrategias a mediano y largo plazo, asignar recursos, responsabilidades y tiempos de ejecución, así como coordinar acciones y evaluar resultados.
+
+Los planes municipales deberán contener como mínimo, un análisis de sus fortalezas, oportunidades, debilidades y amenazas; la misión y visión institucional; los objetivos estratégicos alineados a los planes nacional y estatal de desarrollo; las acciones y proyectos; unidades responsables de su ejecución; su cronograma de ejecución, así como los indicadores de impacto o de gestión. Lo anterior, con independencia de los requisitos que se establecen en la ley.
+
+La evaluación del desempeño se realizará por la Dirección de Contraloría y Desarrollo Administrativo, para ello verificará el grado de cumplimiento de objetivos y metas, con base en indicadores estratégicos y de gestión que permitan identificar la eficiencia, economía, eficacia y calidad de la administración pública municipal, así como el impacto social del ejercicio del gasto público y, en su caso, las medidas pertinentes para alcanzar las metas y objetivos programados.
 
 ###### ARTICULO 210.
 
@@ -3065,13 +3147,13 @@ Los procedimientos y actos administrativos que dicten o ejecuten las autoridades
 
 Contra los actos y resoluciones administrativas que dicten o ejecuten las autoridades municipales, en aplicación del presente ordenamiento y los reglamentos que de él emanen, los particulares afectados tendrán la opción de interponer el recurso administrativo de inconformidad ante la propia autoridad o el juicio ante el Tribunal de Justicia Administrativa, conforme a las disposiciones de la Ley de Justicia y Procedimientos Administrativos para el Estado de Nayarit.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO UNICO DEL DECRETO QUE MODIFICA LA LEY, EL CONTENIDO DE LOS TITULOS DECIMO NOVENO Y VIGESIMO SE COMPACTAN EN EL PRESENTE TITULO, SUPRIMIENDOSE LOS ANTERIORES VIGESIMO Y VIGESIMOPRIMERO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, EL CONTENIDO DE LOS TÍTULOS DÉCIMO NOVENO Y VIGÉSIMO SE COMPACTAN EN EL PRESENTE TÍTULO, SUPRIMIÉNDOSE LOS ANTERIORES VIGÉSIMO Y VIGÉSIMOPRIMERO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 2009)</small>
 
 TÍTULO DECIMOCTAVO
 
-> <small>(REFORMADO [N. DE E. ANTES CAPITULO UNICO], P.O. 15 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO ÚNICO], P.O. 15 DE ABRIL DE 2009)</small>
 
 ### CAPÍTULO III. De los Concejos Municipales
 
@@ -3491,7 +3573,7 @@ El Secretario General de Gobierno
 
 Lic. Adán Meza Barajas
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 4 DE JUNIO DE 2003
 
@@ -3570,3 +3652,11 @@ Artículo Único.- El presente decreto entrará en vigor al día siguiente de su
 P.O. 4 DE JUNIO DE 2011.
 
 Artículo Único.- El presente decreto entrará en vigor, a los noventa días siguientes al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 23 DE MAYO DE 2012.
+
+Artículo Primero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- Las obligaciones del presente Decreto relativas a la elaboración de presupuestos de egresos con base a resultados, elaboración de programas, implementación de la metodología de la planeación estratégica y generación de indicadores de los programas que permitan medir el desempeño, serán aplicables para la elaboración de los presupuestos de egresos municipales correspondientes al ejercicio fiscal 2013.
+
+Artículo Tercero.- A partir de la publicación del presente Decreto y en un marco de colaboración institucional con los ayuntamientos de la entidad, el Poder Legislativo por conducto de la Auditoría Especial de Evaluación del Desempeño del Órgano de Fiscalización Superior, deberá implementar las acciones necesarias para la difusión, capacitación y asesoría técnica a los servidores públicos municipales que por su ámbito de competencia, se verán involucrados en la ejecución y observancia de la presente reforma.
