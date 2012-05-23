@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-notariado-para-el-estado-de-nayarit-43497"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-29"
-last_updated: "2009-12-12"
+last_updated: "2012-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43497&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 2012.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de enero de 2005.
 
@@ -1211,6 +1211,14 @@ Al expedir el informe indicado, la Dirección y el Registro Público mencionará
 
 Cuando en un testamento público abierto se otorguen cláusulas que conforme a las leyes sean irrevocables, el Notario, sin revelar el contenido de dichas cláusulas, hará mención de ello en el aviso a que se refiere el artículo 121, lo cual asentará la Dirección en el registro a que se refiere el artículo 122. La Dirección, al contestar el informe que se solicite, deberá indicar el testamento o testamentos respecto de los cuales tenga asentado que existen dichas cláusulas irrevocables.
 
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2012)</small>
+
+Artículo 124 bis.- Tratándose de la designación de tutor hecha de conformidad con lo establecido por el Capítulo VI BIS, del Titulo Noveno, del Libro Primero del Código Civil para el Estado de Nayarit, el notario dará aviso al Archivo dentro de los cinco días hábiles siguientes, en el que expresará el número de escritura así como la fecha de su otorgamiento, el nombre y demás generales del otorgante, sin indicar la identidad del designado, y recabará la constancia correspondiente.
+
+El Archivo llevará un registro especialmente destinado a asentar las inscripciones relativas al nombramiento de tutor mediante tutela autodesignada con los datos que se mencionan en el párrafo anterior y entregará informes únicamente a notarios y a jueces competentes para hacerlo.
+
+A ninguna otra autoridad, incluyendo las de jerarquía superior, se entregarán informes sobre dichos actos, ni los servidores públicos encargados podrán proporcionar datos relativos a persona alguna fuera del supuesto que se señala el párrafo anterior.
+
 ACTAS
 
 ###### Artículo 125.
@@ -1993,9 +2001,9 @@ XII. Devolver a los Notarios, en los plazos previstos por esta ley, los expedien
 
 XIII. Regularizar y autorizar en definitiva, los instrumentos que hubieren quedado pendientes de autorización por parte de un Notario;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2012)</small>
 
-XIV.- Recibir de los Notarios, los avisos de testamento para su depósito y custodia definitiva, debiendo llevar un registro de éstos y de las revocaciones. Debiendo ingresar la información al Registro Nacional de Avisos de Testamento;
+XIV. Recibir de los Notarios, los avisos de testamento, así como los de nombramiento de tutor, realizados mediante la figura de la tutela autodesignada para su depósito y custodia definitiva, debiendo llevar un registro de éstos y de las revocaciones. Debiendo ingresar la información al Registro Nacional de Avisos de Testamento;
 
 XV. Rendir información a las autoridades judiciales y administrativas competentes, y a los Notarios y a los particulares con interés jurídico justificada la defunción del testador los avisos de registro, testamento y revocaciones;
 
@@ -2192,3 +2200,7 @@ El presente decreto entrara en vigor al día siguiente de su publicación en el 
 P.O. 12 DE DICIEMBRE DE 2009.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
+
+P.O. 23 DE MAYO DE 2012.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
