@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-seguridad-integral-escolar-para-el-estado-de-nayarit-724
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-20"
-last_updated: "2010-01-20"
+last_updated: "2012-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE SEGURIDAD INTEGRAL ESCOLAR PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el miércoles 20 de enero de 2010.
 
@@ -55,27 +55,31 @@ IV. Fortalecer el ambiente social de la comunidad escolar con la participación 
 
 V. Impulsar acciones para generar un clima de seguridad integral en la comunidad escolar y su entorno, así como para fortalecer una cultura de la prevención; y
 
-VI. Establecer como obligatorias para las instituciones educativas, asociaciones de padres de familia, estudiantes y en general para los habitantes de la entidad, las actividades y programas relacionados con la seguridad integral escolar.
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2012)</small>
 
-###### ARTÍCULO 2.
+VI. Prevenir el acoso escolar en las instituciones educativas de la entidad, así como otorgar apoyo asistencial a las víctimas, con la finalidad de propiciar un ambiente de seguridad y una cultura de prevención.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2012)</small>
+
+###### Artículo 2.
 
 Para los efectos de esta ley, se entenderá por:
 
-I. Brigada: Grupo de personas que actúan con el fin de tomar las medidas preventivas de seguridad integral escolar;
+I.- Acoso Escolar: Conducta reiterada e intencional caracterizada por actos de maltrato, discriminación, intimidación o cualquier tipo de violencia física o moral, ante la ausencia de provocación por parte de la víctima, practicada por una o más personas contra otro u otros escolares.
 
-II. Comunidad escolar: Conjunto de personas que comparten espacios educativos, dentro de los cuales se consideran a alumnos, docentes, personal de apoyo y administrativo, padres de familia, vecinos y autoridades educativas;
+II.- Brigada: Grupo de personas que actúan con el fin de tomar las medidas preventivas de seguridad integral escolar;
 
-III. Consejo Estatal: Al Consejo Estatal de Seguridad Integral Escolar;
+III.- Comunidad Escolar: Conjunto de personas que comparten espacios educativos, dentro de los cuales se consideran a alumnos, docentes, personal de apoyo y administrativo, padres de familia, vecinos y autoridades educativas;
 
-IV. Dirección: La Dirección de Prevención del Delito, Participación Ciudadana y Difusión de la Procuraduría General de Justicia del Estado;
+IV.- Consejo Estatal: Al Consejo Estatal de Seguridad Integral Escolar;
 
-V. Escuela: El establecimiento público o privado, donde se imparte educación básica, media superior o superior;
+V.- Dirección: La Dirección de Prevención del Delito y Participación Ciudadana de la Secretaría de Seguridad Pública del Estado de Nayarit;
 
-VI. Secretaría: La Secretaría de Educación Básica; y
+VI.- Escuela: El establecimiento público o privado, donde se imparte educación básica, media superior o superior;
 
-VII. SEMSSICYT: La Secretaría de Educación Media Superior, Superior, Investigación Científica y Tecnológica.
+VII.- Secretaría: La Secretaría de Educación de la Entidad, y
 
-VIII. SEPEN: Servicios de Educación Pública del Estado de Nayarit.
+VIII.- SEPEN: Servicios de Educación Pública del Estado de Nayarit.
 
 ###### ARTÍCULO 3.
 
@@ -95,13 +99,17 @@ I. El Gobernador del Estado;
 
 II. El Titular de la Secretaría;
 
-III. El Secretario de la SEMSSICYT;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2012)</small>
 
-IV. El Titular de la Dirección;
+III.- El Titular de la Dirección;
 
-V. Los Ayuntamientos; y
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2012)</small>
 
-VI. Los SEPEN y los organismos públicos descentralizados, cuya coordinación administrativa sectorial corresponda a la Secretaría y/o a la SEMSSICYT.
+IV.- Los Ayuntamientos; y
+
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2012)</small>
+
+V.- Los SEPEN y los organismos públicos descentralizados, cuya coordinación administrativa sectorial corresponda a la Secretaría.
 
 ###### ARTÍCULO 6.
 
@@ -125,9 +133,15 @@ III. Llevar el registro de las brigadas en la Entidad;
 
 IV. Formular y desarrollar programas y realizar las acciones que le competan en materia de seguridad integral escolar, coordinándose, en su caso, con las demás dependencias de la administración estatal, según sus respectivas esferas de competencia, con los municipios de la Entidad y con la sociedad en general;
 
-V. Aplicar, en la esfera de su competencia, esta ley, sus reglamentos, así como vigilar su debida observancia; y
+V. Aplicar, en la esfera de su competencia, esta ley, sus reglamentos, así como vigilar su debida observancia; y (sic)
 
-VI. Las demás atribuciones que esta ley y otras disposiciones legales le encomienden.
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2012)</small>
+
+VI. Formular el Manual de Convivencia Escolar, el cual contendrá los lineamientos que reglamentarán las acciones de prevención y erradicación del acoso escolar, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE MAYO DE 2012)</small>
+
+VII. Las demás atribuciones que esta ley y otras disposiciones legales le encomienden.
 
 ###### ARTÍCULO 8.
 
@@ -371,31 +385,31 @@ VIII.- Fomentar la seguridad integral de los planteles escolares y su entorno.
 
 El Consejo Estatal de Seguridad Integral Escolar, diseñará la política de seguridad escolar en el Estado.
 
-###### ARTÍCULO 30.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2012)</small>
+
+###### Artículo 30.
 
 El Consejo Estatal estará integrado por:
 
-I.- El Secretario de Educación Básica, quien lo presidirá;
+I.- El Secretario de Educación de la Entidad, quien lo presidirá;
 
-II.- El Secretario de la SEMSSICYT, quien fungirá como Vicepresidente;
+II.- El Director de los SEPEN, quien fungirá como Vicepresidente;
 
 III.- Un Secretario Técnico designado por el Consejo a propuesta de su Presidente;
 
-IV.- El Director de los SEPEN, que fungirá como vicepresidente;
+IV.- El Secretario de Salud;
 
-V.- El Secretario de Salud;
+V.- El Director de Protección Civil de la Entidad;
 
-VI.- El Director de Protección Civil;
+VI.- El Director de Prevención del Delito y Participación Ciudadana de la Secretaría de Seguridad Pública del Estado;
 
-VII.- Por el Director de Prevención del Delito, Participación Ciudadana y Difusión de la Procuraduría General de Justicia del Estado;
+VII.- El titular del Sistema para el Desarrollo Integral de la familia en la Entidad;
 
-VIII.- Por el titular del Sistema para el Desarrollo Integral de la familia;
+VIII.- El Presidente de la Comisión de Defensa de los Derechos Humanos del Estado;
 
-IX.- El Presidente de la Comisión de Defensa de los Derechos Humanos del Estado;
+IX.- Un representante de la Sección 20 y uno de la 49 del Sindicato Nacional de los Trabajadores de la Educación; y
 
-X.- Un representante de la Sección 20 y uno de la 49 del Sindicato Nacional de los Trabajadores de la Educación; y
-
-XI.- El Presidente de la Asociación Estatal de Padres de Familia.
+X.- El Presidente de la Asociación Estatal de Padres de Familia.
 
 Los cargos de consejeros son honoríficos; y por cada miembro se deberá nombrar un suplente.
 
@@ -443,9 +457,15 @@ VII.- Establecer el manual de operación del Comité Técnico de Seguridad Integ
 
 VIII.- Dirigir la política de Seguridad Integral Escolar en el Estado y exhortar a la sociedad a participar activamente en los Comités y en los eventos que al respecto se realicen;
 
-IX.- Establecer las facultades y obligaciones del Comité Técnico; y
+IX.- Establecer las facultades y obligaciones del Comité Técnico; y (sic)
 
-X.- Las demás funciones que sean necesarias para el adecuado ejercicio de las facultades señaladas.
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2012)</small>
+
+X.- Orientar y proponer a la Secretaría las acciones tendientes a la prevención y erradicación del acoso escolar, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE MAYO DE 2012)</small>
+
+XI.- Las demás funciones que sean necesarias para el adecuado ejercicio de las facultades señaladas.
 
 ###### ARTÍCULO 37.
 
@@ -583,6 +603,216 @@ Las infracciones a la presente Ley, así como la omisión en su aplicación, se 
 
 Contra las resoluciones emitidas por la autoridad, dictadas con fundamento en las disposiciones de esta Ley y de los Reglamentos que de éstas se deriven, podrá interponerse los medios de defensa previstos por la Ley de Justicia y Procedimientos Administrativos del Estado.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2012)</small>
+
+## TITULO TERCERO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2012)</small>
+
+### CAPÍTULO I. DEL ACOSO ESCOLAR
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2012)</small>
+
+###### ARTÍCULO 47.
+
+En el Sistema Educativo de la entidad se prohíbe toda clase de acoso escolar, en cualquiera de sus modalidades.
+
+En todas las instituciones educativas del Estado se tendrá la obligación de garantizar a los niños, las niñas y a los adolescentes, el pleno respeto a su dignidad, vida, integridad física y moral dentro de la convivencia escolar, por lo que los centros donde se imparta ésta estarán obligados a:
+
+I.- Ofrecer a todos los alumnos una formación basada en el respeto y fomento de los valores de la dignidad humana, los derechos humanos, la aceptación y tolerancia hacia las diferencias entre personas;
+
+II.- Inculcar a todos los estudiantes un trato respetuoso y de consideración, especialmente hacia quienes presentan vulnerabilidad, discapacidad o capacidades sobresalientes;
+
+III.- Generar condiciones de protección contra toda forma de acoso escolar, sea como agresión física o psicológica, humillación, discriminación o burla por parte de los demás compañeros, profesores, trabajadores o directivos, y
+
+IV.- Establecer en sus reglamentos internos, disposiciones de carácter disuasivo, correctivo y reeducativo para impedir el acoso escolar.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2012)</small>
+
+###### ARTÍCULO 48.
+
+Serán considerados como actos de acoso escolar, las conductas que sucedan:
+
+I.- Dentro de las instalaciones de una institución educativa;
+
+II.- En el interior de un vehículo de transporte escolar al servicio de una institución educativa, o
+
+III.- Durante el desenvolvimiento de un programa o actividad escolar auspiciada por una institución educativa.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2012)</small>
+
+### CAPÍTULO II. DEL MANUAL DE CONVIVENCIA ESCOLAR Y LA CAPACITACIÓN DE LAS INSTITUCIONES EDUCATIVAS
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2012)</small>
+
+###### ARTÍCULO 49.
+
+La Secretaría diseñará los lineamientos necesarios para prevenir y erradicar el acoso escolar los cuales serán de observancia general en todas las instituciones educativas de la entidad.
+
+Los lineamientos deberán estar contenidos en el Manual de Convivencia Escolar, que será difundido por la Secretaría en sitios electrónicos y en lugares visibles de las instituciones educativas.
+
+Cada institución educativa deberá proporcionar una copia impresa del Manual de Convivencia Escolar a los padres de familia y a cada docente.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2012)</small>
+
+###### ARTÍCULO 50.
+
+Los lineamientos estarán diseñados para que sean aplicados en todos los grados escolares y deberán contener como mínimo, lo siguiente:
+
+I.- La definición de acoso escolar;
+
+II.- La declaratoria que prohíbe el acoso escolar dirigida hacia cualquier alumno o docente;
+
+III.- El procedimiento para instruir a estudiantes, padres de familia, docentes, administradores, directivos escolares y voluntarios en la identificación y prevención de actos de acoso escolar;
+
+IV.- La descripción de las consecuencias, acciones y sanciones que se deben contemplar por parte de los directivos escolares o autoridad educativa responsable, en contra de aquella persona que propicie acoso escolar a un alumno o docente;
+
+V.- La descripción de consecuencias y acciones en contra de aquella persona que haya presentado una acusación falsa de manera intencional;
+
+VI.- El procedimiento para la denuncia de un acto de acoso escolar por parte de la víctima o de un tercero, en el cual se contenga una provisión donde se permita la denuncia anónima;
+
+VII.- La investigación de un acto acoso de (sic) escolar para determinar si éste puede ser atendido por la institución educativa y, en caso contrario, determinar la remisión inmediata a la autoridad competente, y
+
+VIII.- Las sanciones aplicables a las instituciones educativas, directores, docentes y administradores, en caso de hacer caso omiso a denuncia, queja o conocimiento alguno de actos que constituyan acoso escolar.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2012)</small>
+
+###### ARTÍCULO 51.
+
+La Secretaría diseñará e implementará en cada una de las instituciones educativas de la Entidad, programas de prevención de actos de acoso escolar dirigidos hacia alumnos, docentes, voluntarios, trabajadores, directivos y padres de familia.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2012)</small>
+
+###### ARTÍCULO 52.
+
+Las instituciones educativas formarán grupos de prevención de acoso escolar, al igual que grupos de apoyo a víctimas de estas conductas, los cuales estarán conformados por personal administrativo, docentes, directivos escolares, estudiantes, voluntarios y padres de familia.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2012)</small>
+
+###### ARTÍCULO 53.
+
+Cada institución educativa deberá proporcionar capacitación sobre los lineamientos para la prevención del acoso escolar a los trabajadores, docentes y voluntarios que tengan contacto directo con los estudiantes.
+
+Asimismo desarrollará un programa educativo enfocado hacia los estudiantes, para que conozcan y comprendan los lineamientos establecidos por los procedimientos o protocolos para la prevención del acoso escolar y realizará evaluaciones de la capacitación proporcionada con la finalidad de establecer las deficiencias.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2012)</small>
+
+###### ARTÍCULO 54.
+
+Los lineamientos serán incluidos en el programa de capacitación de todo trabajador de la educación y docente que pertenezca a una institución educativa pública o privada.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2012)</small>
+
+### CAPÍTULO III. DE LA DENUNCIA Y DE LOS SERVICIOS DE APOYO DE ACOSO ESCOLAR
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2012)</small>
+
+###### ARTÍCULO 55.
+
+Los incidentes de acoso escolar podrán ser reportados por el estudiante afectado, por sus padres o tutores y por cualquier persona que tenga conocimiento de estos hechos.
+
+Si un trabajador, docente o directivo tiene conocimiento de actos (sic) acoso escolar dirigidos hacia uno o varios alumnos tendrá la obligación de reportarlos ante las instancias escolares correspondientes.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2012)</small>
+
+###### ARTÍCULO 56.
+
+Las denuncias deberán ser presentadas por escrito a la autoridad escolar correspondiente. Si por alguna circunstancia el denunciante no puede entregarla por escrito, la realizará de manera verbal, debiendo la autoridad escolar receptora de la denuncia, elaborar un escrito que subsane este requisito.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2012)</small>
+
+###### ARTÍCULO 57.
+
+En cada institución educativa del Estado, se designará a un responsable de la recepción de denuncias de incidentes de acoso escolar, el cuál será nombrado por el director de la institución educativa.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2012)</small>
+
+###### ARTÍCULO 58.
+
+En el área de recepción de la institución educativa correspondiente, deberá exhibirse el nombre del responsable, con el horario de atención y el número telefónico en el cual puede ser localizado.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2012)</small>
+
+###### ARTÍCULO 59.
+
+La Secretaría expedirá el formato de denuncias que será entregada (sic) a cada una de las instituciones educativas, para que sean reproducidas y puestas a disposición de quienes la soliciten, procurando que exista siempre disponibilidad al público, observando en todo momento que no se haga mal uso de dichos formatos.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2012)</small>
+
+###### ARTÍCULO 60.
+
+La denuncia deberá contener los siguientes requisitos:
+
+I.- El nombre de la víctima y del presunto agresor;
+
+II.- Nombres de testigos, si existen;
+
+III.- Descripción detallada del incidente;
+
+IV.- Ubicación del lugar en donde ocurrió el incidente;
+
+V.- Indicar si existe algún tipo de lesión física y describirla, en caso necesario, con apoyo de un médico;
+
+VI.- En su caso, el número de días que se ausentó la víctima de las actividades escolares a consecuencia del incidente, y
+
+VII.- La solicitud de canalización para el otorgamiento de servicio y tratamiento psicológico para la víctima.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2012)</small>
+
+###### ARTÍCULO 61.
+
+La información contenida en la denuncia debe ser de carácter confidencial, una vez presentada la denuncia, se citará a las partes involucradas e interesadas, garantizando su derecho de audiencia.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2012)</small>
+
+###### ARTÍCULO 62.
+
+El responsable de las denuncias en cada institución educativa deberá dar seguimiento del caso reportado para ello tendrá las siguientes funciones:
+
+I.- Celebrar reuniones periódicas con la familia de la víctima y del agresor para registrar los avances en el tratamiento;
+
+II.- Sostener reuniones informativas con los psicólogos o profesionales que estén prestando la ayuda terapéutica a las partes involucradas;
+
+III.- Evaluar las medidas adoptadas para resolver los incidentes, así como expresar observaciones u opiniones a la institución educativa para mejorar su sistema de resolución de incidentes;
+
+IV.- Proponer modificaciones a los procedimientos o protocolos, con base en criterios objetivos;
+
+V.- Conformar una base de datos en la que se encuentren registrados los incidentes suscitados en la institución educativa a la cual pertenece y el estado en el que se encuentran dichos casos, y
+
+VI. Atender las medidas contenidas en el Manual de Convivencia Escolar.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2012)</small>
+
+###### ARTÍCULO 63.
+
+Al final del ciclo escolar, cada institución educativa, remitirá la información contenida en su base de datos a la Secretaría para su análisis.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2012)</small>
+
+###### ARTÍCULO 64.
+
+La Secretaría analizará permanentemente la información que reciba de cada institución educativa, con la finalidad de obtener un diagnóstico preciso sobre su situación y perfeccionar los procedimientos o protocolos de prevención.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2012)</small>
+
+###### ARTÍCULO 65.
+
+La Secretaría deberá publicar semestralmente las estadísticas relativas al acoso escolar registrado en las instituciones educativas de la Entidad, las medidas emprendidas para su tratamiento y los resultados obtenidos.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2012)</small>
+
+###### ARTÍCULO 66.
+
+A fin de combatir los fenómenos de acoso escolar, la Secretaría deberá:
+
+I.- Promover políticas de prevención en los medios de comunicación que fomenten la reflexión colectiva sobre el fenómeno de la violencia en la convivencia escolar y estimulen a los niños, niñas y los adolescentes a identificar el acoso escolar en los establecimientos educativos y lo denuncien;
+
+II.- Adoptar planes de capacitación de profesores en la identificación, prevención, seguimiento y resolución de conflictos escolares;
+
+III.- Producir y distribuir material didácticos (sic) de sensibilización sobre el acoso escolar, con utilización de casos reales que permitan la discusión sobre los mismos entre los estudiantes, y
+
+IV.- Difusión de los lineamientos contenidos en el Manual de Convivencia Escolar.
+
 T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO.
@@ -604,3 +834,11 @@ DADO en la Sala de Sesiones "Lic. Benito Juárez García" recinto oficial del H.
 Dip. Miguel Antonio Fregozo Rivera, Presidente.- Rúbrica.- Dip. Jesús Castañeda Tejeda, Secretario.- Rúbrica.- Dip. Luis Alberto Salinas Cruz, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los diecinueve días del mes de enero del año dos mil diez.- Lic. Ney González Sánchez.- Rúbrica.- El Secretario General de Gobierno, Dr. Roberto Mejía Pérez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MAYO DE 2012.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- El titular del Poder Ejecutivo del Estado, a través de la Secretaría de Educación, deberá expedir el Manual de Convivencia Escolar previamente a la fecha de inicio del periodo escolar 2012 - 2013.
