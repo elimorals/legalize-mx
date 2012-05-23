@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2011-11-15"
+last_updated: "2012-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
+CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2012.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -53,7 +53,7 @@ El Estado de Tamaulipas es libre, soberano e independiente en cuanto a su Gobier
 
 El territorio del Estado comprende la antigua Provincia llamada Nuevo Santander, con las limitaciones que le hizo el Tratado de Guadalupe.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
 ###### Art. 3o.
 
@@ -249,7 +249,7 @@ IV. El derecho a un medio ambiente adecuado para su desarrollo y bienestar y al 
 
 V. La libertad de información y, en particular de sus ciudadanos para asuntos políticos, así como para utilizar y divulgar la información pública que reciban. El Estado garantizará el acceso a la información pública. Todo ente público estatal o municipal respetará esta libertad y pondrá a disposición del público la información con que cuente en virtud de sus actividades, salvo aquella relativa a la seguridad del Estado o la seguridad pública por la perturbación que pueda causar en el orden público, o a la intimidad, privacidad y dignidad de las personas, en los términos que señale la ley. La libertad de información comprende la protección del secreto profesional, sin demérito del derecho de réplica de toda persona ante la divulgación de información inexacta que le agravie.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MARZO DE 1986)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 1986)</small>
 
 ###### Art. 18.
 
@@ -261,13 +261,13 @@ II. A contribuir para todos los gastos públicos de la manera proporcional y equ
 
 III. A prestar auxilio a las autoridades, cuando para ello sean legalmente requeridos.
 
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 1986)</small>
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2012)</small>
 
-IV. A recibir la educación básica-preescolar, primaria y secundaria, en la forma prevenida por las leyes y conforme los planes, programas y reglamentos que se expidan por las autoridades educativas;
+IV. A recibir educación en la forma prevista por el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos y por las leyes en la materia, conforme los planes, programas y reglamentos que se expidan por las autoridades educativas.
 
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 1986)</small>
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2012)</small>
 
-V. Hacer que sus hijos, pupilos y menores que por cualquier título tengan a su cuidado, reciban la educación básica con arreglo a lo prescrito en la fracción anterior;
+V. Hacer que sus hijos, pupilos y menores que por cualquier título tengan a su cuidado, reciban la educación básica y media superior, con arreglo a lo prescrito en la fracción anterior;
 
 VI. Asistir los días y horas designados por el Ayuntamiento del Municipio en que residan, para recibir la instrucción cívica y militar que los mantenga aptos en el ejercicio de todos sus derechos de ciudadano, y diestros en el manejo de las armas y conocedores de la disciplina militar.
 
@@ -279,7 +279,7 @@ VII. Tomar las armas en defensa del pueblo en que vivan cuando éste fuere amaga
 
 VIII. A respetar y cuidar el patrimonio natural del Estado y hacer uso de los recursos naturales susceptibles de apropiación sin afectar el desarrollo sustentable del Estado en los términos que dispongan las leyes. En las mismas se preverá que ninguna persona podrá ser obligada a llevar a cabo actividades que puedan ocasionar el deterioro del medio ambiente, así como que quien realice actividades que afecten el medio ambiente está obligado a prevenir, minimizar y reparar los daños que se caucen (sic), asumiéndose con cargo a su patrimonio las erogaciones que requieran las tareas de restauración.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
 ###### Art. 19.
 
@@ -313,9 +313,9 @@ Tratándose de trabajadores no asalariados, la multa que se imponga por infracci
 
 El Ministerio Público podrá considerar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que fije la ley.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
-## TITULO II. De la Soberanía del Estado y La Función Electoral
+## TITULO II. DE LA SOBERANIA DEL ESTADO Y LA FUNCION ELECTORAL
 
 ### CAPITULO UNICO
 
@@ -489,7 +489,7 @@ La residencia de los Poderes únicamente podrá cambiarse por resolución del Co
 
 ### CAPITULO I. De la organización del Congreso
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
 ###### Art. 25.
 
@@ -563,13 +563,13 @@ IV.- Poseer suficiente instrucción.
 
 V.- Los demás señalamientos que contenga el Código Electoral para el Estado de Tamaulipas.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 29], P.O. 9 DE SEPTIEMBRE DE 1978)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 29], P.O. 9 DE SEPTIEMBRE DE 1978)
 
 ###### Art. 30.
 
 No pueden ser electos Diputados:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -687,7 +687,7 @@ El 30 de septiembre del año de la elección, en sesión solemne, los Diputados 
 
 De no asistir la Diputación Permanente o la Mesa Directiva en caso de prórroga, los diputados electos iniciarán por sí la sesión solemne; presidirá el diputado que sea primero en el orden alfabético de sus apellidos y se auxiliará por los dos miembros que libremente determine para fungir como Secretarios. El desarrollo de la sesión solemne tendrá por objeto el otorgamiento de la protesta de ley de los integrantes de la nueva Legislatura.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
 ###### Art. 43.
 
@@ -721,7 +721,7 @@ En el caso de las cuentas del Poder Ejecutivo y de los Ayuntamientos, deberá re
 
 Los poderes del Estado, los ayuntamientos, los órganos con autonomía de los poderes, las entidades estatales o municipales y todo ente público que maneje o administre fondos públicos, presentarán cuenta pública anual en términos de la ley de la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
 ###### Art. 46.
 
@@ -851,7 +851,7 @@ XI. Suprimir empleos públicos de acuerdo con las disposiciones de la Ley respec
 
 XII. Conceder permisos y decretar honores por servicios eminentes prestados a la Humanidad, a la Patria o al Estado;
 
-XIII.- Expedir leyes para la jubilación de los maestros de instrucción pública que lo merezcan en atención a la antigüedad y eficacia de sus servicios;
+XIII. Expedir leyes para la jubilación de los maestros de instrucción pública que lo merezcan en atención a la antigüedad y eficacia de sus servicios;
 
 > <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2009)</small>
 
@@ -875,7 +875,7 @@ Asimismo, conocer de las imputaciones que se hagan a los servidores públicos a 
 
 XX. Conceder ammistía (sic) por delitos cuyo conocimiento corresponde exclusivamente a los tribunales del Estado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -929,7 +929,7 @@ XXXV. Decretar, en su caso, el modo de cubrir el contingente de hombres que corr
 
 XXXVI. (DEROGADA, P.O. 10 DE JUNIO DE 1995)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -983,7 +983,7 @@ XLVIII. Dictar Leyes para organizar el sistema penal sobre la base del trabajo, 
 
 LIX (sic). Convocar a elecciones en caso de muerte del Gobernador, o cuando por haber declarado que ha lugar a formación de causa en su contra, haya sido consignado y quede acéfalo el Poder Ejecutivo y siempre que la falta obsoluta (sic) ocurra durante los tres primeros años del período;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -1123,7 +1123,7 @@ XIV.- Las demás que le confieran las leyes.
 
 Si por no haberse verificado las elecciones o por cualquiera otra causa, el Congreso no pudiera renovarse el día fijado, la Diputación Permanente continuará con tal carácter, hasta que deje instalado al nuevo Congreso conforme a las leyes, convocando a elecciones en su caso.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ### CAPITULO V
 
@@ -1237,7 +1237,7 @@ En todo caso, la formulación y desahogo de las observaciones se hará dentro de
 
 Si los términos contenidos originalmente en la Ley de Ingresos o el Presupuesto de Egresos son confirmados por las dos terceras partes de los diputados presentes, volverá al Ejecutivo para su promulgación.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADA, P.O. 03 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADA, P.O. 03 DE JUNIO DE 2003)</small>
 
 #### Sección Tercera. De las Disposiciones Comunes
 
@@ -1265,7 +1265,7 @@ Las leyes o decretos se comunicarán al Ejecutivo firmadas por el Presidente y l
 
 #### Sección Cuarta. De la Fiscalización Superior
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2009)</small>
 
 ###### Art. 76.
 
@@ -1341,9 +1341,7 @@ El Poder Ejecutivo se deposita en un ciudadano que se denominará "Gobernador Co
 
 > <small>(REFORMADO, P.O. 11 DE ENERO DE 1936)</small>
 
-###### Art. 78.
-
-Para ser Gobernador se requiere:
+ART. 78.- Para ser Gobernador se requiere:
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -1381,7 +1379,7 @@ III.- Los Militares que no se hayan separado del servicio activo por lo menos 12
 
 IV.- Los que desempeñen algún cargo o comisión de otros Estados o de la Federación, a menos que se separen de ellos 120 días antes de la elección, sean o no de elección popular;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -1503,7 +1501,7 @@ XII.- Iniciar ante el Congreso las Leyes y los Decretos que estime convenientes 
 
 XIII. Proponer a la Diputación Permanente la convocación del Congreso a sesiones extraordinarias;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -1535,7 +1533,7 @@ XX. Ejercer la superior inspección de la Hacienda Pública del Estado y velar p
 
 XXI. Celebrar, en los términos de ley, con el Ejecutivo Federal, las dependencias y entidades de la Administración Pública, las Entidades Federativas y los Municipios los convenios y acuerdos necesarios para el desarrollo económico y social de la Nación, el Estado y los Municipios. Asimismo, podrá inducir y concertar con los particulares acciones destinadas al mismo objeto;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -1647,7 +1645,7 @@ IX.- Salir del territorio del Estado por más de quince días, sin permiso del C
 
 X. Mandar personalmente en campaña la fuerza pública, sin permiso del Congreso o de la Diputación Permanente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE ENERO DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 1993)</small>
 
 ### CAPITULO II. De la Administración Pública
 
@@ -1665,7 +1663,7 @@ Para ser Secretario de Despacho del Poder Ejecutivo se requiere ser ciudadano me
 
 Durante el mes de noviembre de cada año, los titulares de las dependencias de la administración pública estatal darán cuenta al Congreso, por escrito, del estado que guarden sus respectivos ramos. A su vez, podrán ser citados por el Congreso para que brinden información cuando se discuta una ley o un asunto concerniente a los ramos de su competencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 1993)</small>
 
 ###### Art. 94.
 
@@ -1711,13 +1709,13 @@ El Secretario General de Gobierno tendrá responsabilidad solidaria con el Gober
 
 La ausencia temporal del Secretario General de Gobierno será cubierta por uno de los Subsecretarios del ramo, con las prerrogativas, obligaciones y responsabilidades que establecen los Artículos 95, 96, 97 y 98 de esta Constitución.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO DEL DECRETO No. LX-706, PUBLICADO EN EL P.O. DE 17 DE JUNIO DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE TITULO, QUEDANDO CONFORMADO DE DOS CAPITULOS; Y EN RELACION CON LA ENTRADA EN VIGOR DEL MISMO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO No. LX-706, PUBLICADO EN EL P.O. DE 17 DE JUNIO DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE TÍTULO, QUEDANDO CONFORMADO DE DOS CAPÍTULOS; Y EN RELACIÓN CON LA ENTRADA EN VIGOR DEL MISMO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
 ## TITULO VI. DEL PODER JUDICIAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -1729,25 +1727,25 @@ La ausencia temporal del Secretario General de Gobierno será cubierta por uno d
 
 El ejercicio del Poder Judicial se deposita en el Supremo Tribunal de Justicia, en el Tribunal Electoral del Poder Judicial del Estado, en los Juzgados de Primera Instancia, en los Juzgados Menores, en los Juzgados de Paz y en el Jurado Popular.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2009)</small>
 
 La administración, vigilancia y disciplina del Poder Judicial del Estado, con excepción del Pleno del Supremo Tribunal de Justicia y del Tribunal Electoral del Poder Judicial del Estado, estará a cargo del Consejo de la Judicatura del Poder Judicial del Estado, en los términos que al efecto señale esta Constitución y la ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2009)</small>
 
 El Consejo de la Judicatura es un órgano del Poder Judicial del Estado con independencia técnica, de gestión y para emitir sus resoluciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2009)</small>
 
 Las decisiones del Consejo serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno en contra de éstas, salvo las que se refieran a la adscripción y remoción de jueces, las cuales podrán ser revisadas por el Pleno del Supremo Tribunal de Justicia, para el sólo efecto de verificar si sus términos se apegaron a lo que dispone la ley orgánica respectiva.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -1763,7 +1761,7 @@ Los Jueces y Magistrados no pueden ejercer otras funciones que las expresamente 
 
 La justicia se administrará en nombre de la ley, la que determinará las formalidades para los procedimientos judiciales. Las ejecutorias y provisiones de los Tribunales, se ejecutarán por ellos mismos, en nombre del Estado, en la forma que las leyes prescriban. El juzgador que conozca de un asunto en una instancia, no podrá hacerlo en la otra.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -1771,7 +1769,7 @@ La justicia se administrará en nombre de la ley, la que determinará las formal
 
 En los términos que disponen las leyes, es obligatorio para los servidores públicos y para toda persona, cumplir las sentencias y demás resoluciones firmes del Supremo Tribunal de Justicia, de sus Salas, del Tribunal Electoral del Poder Judicial del Estado, de sus Magistrados, del Consejo de la Judicatura y de los Jueces; así como prestar la colaboración solicitada por cualquiera de esos ámbitos o titulares de función en el curso de un proceso o en la ejecución de lo resuelto. La autoridad requerida en forma para el cumplimiento de una orden judicial, deberá proporcionar de inmediato los elementos necesarios para ello, bajo pena de hacerse acreedora a las sanciones que la ley determine.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -1785,7 +1783,7 @@ Los servidores públicos del Poder Judicial del Estado deberán rendir la protes
 
 Los delitos imputables a los servidores públicos de la administración de justicia producen acción popular contra los mismos y contra sus cómplices, de acuerdo con lo dispuesto por el Título XI de esta Constitución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -1825,25 +1823,25 @@ El Consejo de la Judicatura del Estado funcionará en Pleno o en comisiones. El 
 
 III.- El Tribunal Electoral del Estado, en los términos previstos en el artículo 20 fracción IV de esta Constitución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2009)</small>
 
 ###### Art. 107.
 
 El Poder Judicial del Estado goza de autonomía presupuestal, orgánica y funcional. Para garantizar su independencia económica, el presupuesto de egresos del Poder Judicial no podrá ser inferior del 1.3 % del total del presupuesto general del Estado previsto para el año fiscal a ejercer, mismo que administrará, ejercerá y justificará en los términos que fijen las leyes respectivas, y cuya asignación por concepto de gasto corriente no podrá ser menor al aprobado por el Congreso para el ejercicio anual inmediato anterior. En caso de que al término del ejercicio existan sumas no erogadas, se enterarán a la Hacienda del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
 Los Magistrados del Poder Judicial, los consejeros de la Judicatura y los jueces percibirán remuneración adecuada e irrenunciable, determinada anualmente, la cual no podrá ser disminuida durante su encargo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
-El Poder Judicial constituirá un Fondo Auxiliar para la Administración de Justicia se integrará y funcionará en los términos previstos en la ley, del cual y sin perjuicio de las remuneraciones que correspondan de acuerdo al presupuesto, el Consejo de la Judicatura aplicará un porcentaje de los recursos económicos que lo integren para incrementar la capacitación, adquisición de equipo y mejorar las condiciones de trabajo de los servidores públicos del Poder Judicial, conforme a lo que al efecto acuerde el Pleno del propio Consejo.
+El Poder Judicial constituirá un Fondo Auxiliar para la Administración de Justicia que se integrará y funcionará en los términos previstos en la ley, del cual y sin perjuicio de las remuneraciones que correspondan de acuerdo al presupuesto, el Consejo de la Judicatura aplicará un porcentaje de los recursos económicos que lo integren para incrementar la capacitación, adquisición de equipo y mejorar las condiciones de trabajo de los servidores públicos del Poder Judicial, conforme a lo que al efecto acuerde el Pleno del propio Consejo.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2007)</small>
 
@@ -1863,9 +1861,9 @@ Los Magistrados del Supremo Tribunal de Justicia serán nombrados o ratificados 
 
 Si la vacante para la integración del Supremo Tribunal de Justicia se produce encontrándose en receso el Congreso del Estado, la Diputación Permanente lo convocará de inmediato a Sesiones Extraordinarias para conocer de dicho asunto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2009)</small>
 
 ###### Art. 110.
 
@@ -1887,7 +1885,7 @@ III.- Padecer incapacidad física o mental que los imposibilite para el desempe�
 
 IV.- Renunciar a su cargo o situarse en el supuesto que prevé el segundo párrafo del artículo 112 de esta Constitución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -1919,9 +1917,9 @@ IV.- No haber ocupado por lo menos durante el año previo al día de la designac
 
 V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2009)</small>
 
 ###### Art. 112.
 
@@ -1931,13 +1929,13 @@ No podrán formar parte del Supremo Tribunal de Justicia, del Tribunal Electoral
 
 Ningún servidor público del Poder Judicial, aun con licencia, podrá ser abogado de terceros, apoderado en negocios ajenos, asesor, árbitro de derecho o arbitrador, ni desempeñar ningún otro empleo, cargo o comisión, ya sea público o privado, por el que reciba remuneración alguna; salvo los casos de docencia, investigación, literatura o beneficencia. Quien contravenga esta disposición será separado de su encargo, de acuerdo al trámite que disponga la ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2009)</small>
 
 Las ausencias temporales o definitivas de los Magistrados o de los consejeros serán cubiertas en términos de esta Constitución y de la ley, en su caso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -1951,7 +1949,7 @@ II.- De la acción de inconstitucionalidad local, para impugnar normas generales
 
 Las sentencias dictadas para resolver los asuntos planteados conforme a las fracciones I y II de este artículo, que declaren inconstitucional una norma general, tendrán efectos generales cuando sean votados por las dos terceras partes de los integrantes del Pleno Supremo Tribunal de Justicia, a partir de la fecha en que sean publicadas en el Periódico Oficial del Estado o de la fecha posterior a la publicación que la propia resolución ordene.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -2077,7 +2075,7 @@ XXVII.- Dictar las medidas necesarias para la recepción, control y destino de l
 
 XXVIII.- Las demás facultades y obligaciones que las leyes le otorguen.
 
-> <small>(ADICIONADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2007)</small>
 
 ###### Art. 115.
 
@@ -2097,13 +2095,13 @@ El derecho para formular la querella prescribirá en un año a partir del día e
 
 En las causas que hubieren de formarse a los Magistrados en funciones, una vez que el Congreso del Estado, actuando como órgano de acusación, declare por la afirmativa, se remitirá la causa en los términos previstos por esta Constitución y la ley, al Pleno del Supremo Tribunal de Justicia, el cual emitirá la resolución que corresponda en cada caso. Deberá resolverse cada asunto por separado y el Procurador General de Justicia tendrá en ellas la intervención que le confiere la legislación aplicable.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
 ### CAPITULO II. De los Otros Órganos de Impartición de Justicia
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -2111,7 +2109,7 @@ En las causas que hubieren de formarse a los Magistrados en funciones, una vez q
 
 Para la impartición de justicia se designarán jueces de primera instancia, jueces menores y jueces de paz, conforme a la ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -2119,7 +2117,7 @@ Para la impartición de justicia se designarán jueces de primera instancia, jue
 
 Los jueces integrantes del Poder Judicial serán nombrados por el Pleno del Supremo Tribunal de Justicia, a propuesta del Consejo de la Judicatura.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -2127,13 +2125,13 @@ Los jueces integrantes del Poder Judicial serán nombrados por el Pleno del Supr
 
 Los juzgados menores funcionarán en aquellos Municipios que el Consejo de la Judicatura considere necesario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2007)</small>
 
 ###### Art. 120.
 
 La ley determinará los distritos judiciales en que se dividirá el Estado, el número de Jueces de Primera Instancia, de Jueces Menores y de Jueces de Paz, así como los requisitos para desempeñar esa función y la duración de la misma. La ley también señalará la competencia y jurisdicción de dichas autoridades judiciales, y regulará todo lo relativo a la organización de los tribunales a su cargo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -2145,7 +2143,7 @@ Para su modificación, el Consejo de la Judicatura propondrá un proyecto para q
 
 Los Juzgados de Primera Instancia, los Juzgados Menores y los Juzgados de Paz serán sostenidos por el Poder Judicial del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -2161,19 +2159,19 @@ Los jueces de primera instancia durarán en su cargo tres años y podrán ser ra
 
 Toda parte interesada puede interponer queja ante el Supremo Tribunal de Justicia, cuando a su juicio, los Magistrados o Jueces o demás servidores del Poder Judicial incurran en faltas administrativas. La ley regulará dicho procedimiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2009)</small>
 
 El Consejo de la Judicatura podrá, previa audiencia, separar de plano de su encargo a los jueces, cuando derivado del procedimiento administrativo correspondiente se determine que existe incumplimiento de sus funciones. Esta determinación podrá ser recurrida ante el Pleno del Supremo Tribunal de Justicia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 1993)</small>
 
 ## TITULO VII
 
 DE LA PROCURACION DE JUSTICIA Y PROTECCION DE LOS DERECHOS HUMANOS.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO I.. Del Ministerio Público
 
@@ -2227,7 +2225,7 @@ El nombramiento del Procurador General de Justicia se hará por el Gobernador, c
 
 ### CAPITULO II. De la Comisión de Derechos Humanos
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2002)</small>
 
 ###### Art. 126.
 
@@ -2245,13 +2243,13 @@ Una ley establecerá las bases de su organización y funcionamiento.
 
 El titular del organismo deberá entregar puntualmente los informes y las cuentas públicas relativas al cumplimiento de su encomienda, ante las instancias públicas que señale esta Constitución o la ley.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE SEPTIEMBRE DE 2008)</small>
 
 ## TITULO VIII. DE LA DEFENSORIA PUBLICA
 
 ### CAPITULO UNICO. Disposiciones generales
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 5 DE MAYO DE 2009)</small>
 
@@ -2263,7 +2261,7 @@ En materia penal y en la imputación de conductas previstas como delito por las 
 
 La defensoría pública podrá representar a quien de acuerdo a los requisitos y condiciones previstos por la ley lo solicite en asuntos de carácter familiar o civil. A su vez, podrá brindar asesoría en otras materias en los términos que prevea la ley, con base en los recursos presupuestales de que disponga.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 5 DE MAYO DE 2009)</small>
 
@@ -2273,7 +2271,7 @@ La ley dispondrá la organización del servicio de defensoría pública, tanto e
 
 El cargo de defensor público o de asesor es incompatible con cualquier otro cargo, empleo o comisión en los sectores público, social o privado, excepto en la realización de actividades docentes, de investigación, literarias o de beneficencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 5 DE MAYO DE 2009)</small>
 
@@ -2285,7 +2283,7 @@ Una ley reglamentará la organización de la defensoría pública y los requisit
 
 ### CAPITULO UNICO. Disposiciones generales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
 ###### Art. 130.
 
@@ -2425,7 +2423,7 @@ Cuando dos o más centros urbanos situados en territorios municipales de este Es
 
 Cuando un acuerdo del ayuntamiento sea violatorio de la Constitución Federal o del Estado, o de cualquier otra ley, u ostensiblemente perjudicial a los intereses municipales, el Ejecutivo dará cuenta inmediatamente al Congreso para que resuelva lo conducente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2010)</small>
 
 ###### Art. 136.
 
@@ -2443,7 +2441,7 @@ Las relaciones de trabajo entre los Municipios y sus trabajadores, se regirán p
 
 ## TITULO X. SECCION DE ADMINISTRACION GENERAL
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE MARZO DE 1986)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE MARZO DE 1986)</small>
 
 ### CAPITULO I. De la Educación Pública
 
@@ -2457,13 +2455,13 @@ La educación que impartan el Estado y los Municipios será ajena a cualquier do
 
 El proceso educativo incorporará la promoción de una actitud consciente sobre la preservación del medio ambiente y la participación de toda persona en su protección, restauración y mejoramiento como elementos para el desarrollo social y económico equilibrado de la sociedad. Así mismo, considerará la educación sexual en los planes y programas de estudio de los tipos básico y medio superior, a fin de formar una actitud responsable en los educandos respecto a todo lo relacionado con la misma.
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 1986)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2012)</small>
 
 ###### Art. 139.
 
-La educación que imparta directamente el Estado en todos sus niveles será gratuita y obligatoria la básica. Los habitantes de la Entidad tendrán las mismas oportunidades de acceso al Sistema Educativo Estatal.
+La educación que imparta directamente el Estado será gratuita en todos sus niveles, y obligatoria hasta el nivel medio superior. Los habitantes de la Entidad tendrán las mismas oportunidades de acceso al Sistema Educativo Estatal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
 ###### Art. 140.
 
@@ -2533,13 +2531,13 @@ Para el cumplimiento de las disposiciones contenidas en el Artículo 123 de la C
 
 DISPOSICIONES GENERALES.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE MARZO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MARZO DE 2004)</small>
 
 ### CAPITULO UNICO.
 
 De las responsabilidades de los Servidores Públicos y Patrimonial del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
 ###### Art. 149.
 
@@ -2577,15 +2575,15 @@ Las leyes determinarán los casos y circunstancias en los que se deba sancionar 
 
 Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante la autoridad competente respecto de las conductas a que se refiere el presente Artículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2009)</small>
 
 ###### Art. 151.
 
 Podrán ser sujetos de juicio político los Diputados al Congreso local, los Magistrados del Supremo Tribunal de Justicia y del Tribunal Electoral del Poder Judicial del Estado, los consejeros de la Judicatura, los jueces, los secretarios del Ejecutivo, el Procurador General de Justicia, el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, el Presidente de la Comisión de Derechos Humanos del Estado, los titulares de los organismos descentralizados, empresas de participación estatal y fideicomisos públicos, y los integrantes de los Ayuntamientos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -2607,9 +2605,9 @@ Conociendo la acusación el Pleno del Supremo Tribunal de Justicia, erigido en J
 
 Las declaraciones y resoluciones del Congreso y del Supremo Tribunal de Justicia son inatacables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2009)</small>
 
 ###### Art. 152.
 
@@ -2683,7 +2681,7 @@ La ley señalará los plazos de prescripción de la responsabilidad administrati
 
 ### CAPITULO I. Prevenciones generales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
 ###### Art. 156.
 
@@ -2879,11 +2877,11 @@ El Srio. Gral. de Gobierno,
 
 Lic. Luis Ilizaliturri.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.</small>
 
 P.O. 6 DE MARZO DE 1926.
 
-Este decreto comenzará a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
+TRANSITORIO. Este decreto comenzará a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
 
 P.O. 29 DE SEPTIEMBRE DE 1926.
 
@@ -2905,7 +2903,7 @@ Unico.- Este Decreto comenzará a surtir sus efectos desde la fecha de su public
 
 P.O. 16 DE JUNIO DE 1934.
 
-TRANSITORIO: Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+TRANSITORIO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 P.O. 27 DE JUNIO DE 1934.
 
@@ -2919,19 +2917,19 @@ P.O. 29 DE AGOSTO DE 1934.
 
 REPUBLICADO, P.O. 29 DE AGOSTO DE 1934.
 
-DECRETO NUM. 71.
+DECRETO NÚM. 71.
 
 TRANSITORIO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 P.O. 29 DE AGOSTO DE 1934.
 
-DECRETO NUM. 72.
+DECRETO NÚM. 72.
 
 TRANSITORIO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 P.O. 29 DE AGOSTO DE 1934.
 
-DECRETO NUM. 86.
+DECRETO NÚM. 86.
 
 TRANSITORIO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
@@ -2943,7 +2941,7 @@ Este decreto comenzará a surtir sus efectos a partir de la fecha de su publicac
 
 P.O. 8 DE DICIEMBRE DE 1934.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA LAS DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA LAS DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3º. DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
 P.O. 13 DE AGOSTO DE 1935.
 
@@ -3597,7 +3595,7 @@ DECRETO No. 175.
 
 Las reformas a que se contrae el presente Decreto entrarán en vigor a los treinta y cinco días siguientes al de su publicación.
 
-###### ARTICULO SEGUNDO.
+###### ARTÍCULO SEGUNDO.
 
 Los asuntos de naturaleza familiar que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán desahogándose en los Juzgados que sean especializados por acuerdo Plenario, los que a su vez entregarán los de índole patrimonial de que estén conociendo por los de contenido familiar con los Jueces que conserven la competencia civil patrimonial; igual procedimiento se observará en tratándose de los negocios que se encuentren en trámite en la Segunda Instancia.
 
@@ -3615,13 +3613,13 @@ Artículo Unico.- El presente Decreto entrará en vigor al día siguiente de su 
 
 P.O. 2 DE OCTUBRE DE 2003.
 
-DECRETO NO. 364 QUE REFORMA LA FRACCION III DEL ART. 27.
+DECRETO NO. 364 QUE REFORMA LA FRACCIÓN III DEL ART. 27.
 
 Artículo Único: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 2 DE OCTUBRE DE 2003.
 
-DECRETO NO. 365 QUE REFORMA LA FRACCION XXXIII DEL ARTICULO 91.
+DECRETO NO. 365 QUE REFORMA LA FRACCIÓN XXXIII DEL ARTICULO 91.
 
 Artículo Único.- El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el 1º de enero de 2004.
 
@@ -3731,7 +3729,7 @@ P.O. 12 DE DICIEMBRE DE 2007.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -3833,7 +3831,7 @@ Artículo Décimo Tercero.- El Congreso del Estado deberá tomar las previsiones
 
 P.O. 24 DE FEBRERO DE 2009.
 
-DECRETO No. LX-476, POR EL QUE SE REFORMA EL ARTICULO 58 DE LA CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS.
+DECRETO No. LX-476, POR EL QUE SE REFORMA EL ARTÍCULO 58 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS.
 
 ###### ARTICULO UNICO.
 
@@ -3841,7 +3839,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 24 DE FEBRERO DE 2009.
 
-DECRETO No. LX-477, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 58, 158 Y 161 DE LA CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS.
+DECRETO No. LX-477, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 58, 158 Y 161 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS.
 
 ###### ARTICULO UNICO.
 
@@ -3931,9 +3929,9 @@ P.O. 2 DE NOVIEMBRE DE 2010.
 
 DECRETO No. LX-1083
 
-###### ARTICULO UNICO.
+###### ARTÍCULO ÚNICO.
 
-SE REFORMA EL ARTICULO 133, CUARTO PARRAFO; SE ADICIONAN LOS PARRAFOS CUARTO, QUINTO Y SEXTO AL ARTICULO 70; Y UN SEGUNDO Y TERCER PARRAFOS Y SEIS FRACCIONES AL ARTICULO 160 DE LA CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS.
+SE REFORMA EL ARTÍCULO 133, CUARTO PÁRRAFO; SE ADICIONAN LOS PÁRRAFOS CUARTO, QUINTO Y SEXTO AL ARTÍCULO 70; Y UN SEGUNDO Y TERCER PÁRRAFOS Y SEIS FRACCIONES AL ARTÍCULO 160 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3951,9 +3949,9 @@ P.O. 2 DE NOVIEMBRE DE 2010.
 
 DECRETO No. LX-1100
 
-###### ARTICULO UNICO.
+###### ARTÍCULO ÚNICO.
 
-SE REFORMA EL SEGUNDO PARRAFO DEL ARTICULO 138 DE LA CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS.
+SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 138 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS.
 
 ###### ARTICULO UNICO.
 
@@ -3961,7 +3959,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 24 DE NOVIEMBRE DE 2010.
 
-DECRETO NUMERO LX-1480, POR EL QUE SE REFORMAN EL SEGUNDO Y TERCER PARRAFOS; Y SE ADICIONAN LOS PARRAFOS CUARTO, QUINTO, SEXTO, SEPTIMO Y OCTAVO DEL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS.
+DECRETO NUMERO LX-1480, POR EL QUE SE REFORMAN EL SEGUNDO Y TERCER PÁRRAFOS; Y SE ADICIONAN LOS PÁRRAFOS CUARTO, QUINTO, SEXTO, SÉPTIMO Y OCTAVO DEL ARTÍCULO 19 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS.
 
 ###### ARTICULO UNICO.
 
@@ -3969,7 +3967,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 24 DE NOVIEMBRE DE 2010.
 
-DECRETO NUMERO LX-1481, POR EL QUE SE ADICIONAN LOS PARRAFOS SEXTO Y SEPTIMO, RECORRIENDOSE EN SU ORDEN EL ACTUAL SEXTO PARA SER OCTAVO, DEL ARTICULO 16 DE LA CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS.
+DECRETO NUMERO LX-1481, POR EL QUE SE ADICIONAN LOS PÁRRAFOS SEXTO Y SÉPTIMO, RECORRIÉNDOSE EN SU ORDEN EL ACTUAL SEXTO PARA SER OCTAVO, DEL ARTÍCULO 16 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS.
 
 ###### ARTICULO UNICO.
 
@@ -4014,6 +4012,24 @@ P.O. 15 DE NOVIEMBRE DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE MAYO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La obligatoriedad del Estado de garantizar la educación media superior, se realizará de manera gradual y creciente a partir del ciclo escolar 2012-2013 y hasta lograr la cobertura total en sus diversas modalidades a más tardar en el ciclo escolar 2021-2022.
+
+###### ARTÍCULO TERCERO.
+
+Para dar cumplimiento al principio de obligatoriedad, en los presupuestos de egresos del Estado y de los municipios se incluirán los recursos necesarios para tal efecto; asimismo, se establecerán los mecanismos para impulsar la implementación de proyectos plurianuales que aseguren a largo plazo los recursos económicos crecientes para infraestructura de la educación media superior.
+
+###### ARTÍCULO CUARTO.
+
+En un plazo no mayor a 60 días se deberán realizar las adecuaciones a la Ley de Educación para el Estado de Tamaulipas, que deriven del presente Decreto.
 
 ###### ARTÍCULO QUINTO.
 
