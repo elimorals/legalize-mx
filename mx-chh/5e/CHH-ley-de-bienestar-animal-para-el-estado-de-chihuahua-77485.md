@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-bienestar-animal-para-el-estado-de-chihuahua-77485"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-17"
-last_updated: "2010-11-17"
+last_updated: "2012-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77485&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE BIENESTAR ANIMAL PARA EL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2012.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 17 de noviembre de 2010
 
@@ -161,7 +161,9 @@ II. Conformar y actualizar el registro estatal de personas físicas o morales de
 
 III. Expedir y, en su caso, revocar las autorizaciones, licencias y/o permisos que sean necesarios para realizar las actividades señaladas en la fracción anterior;
 
-IV. Promover campañas permanentes de difusión en materia de protección y respeto a los animales;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2012)</small>
+
+IV. Promover campañas permanentes de difusión en materia de protección y respeto a los animales, así como campañas que promuevan la reproducción responsable y esterilización de animales de compañía;
 
 V. Promover la creación de Centros de Control Animal ante los ayuntamientos del Estado;
 
@@ -175,9 +177,15 @@ IX. Vigilar el cumplimiento de las normas oficiales mexicanas expedidas por la F
 
 X. Ordenar la práctica de visitas de inspección y vigilancia, con el objeto de verificar que las condiciones en que se encuentran los animales sean las establecidas por la Ley y sus disposiciones reglamentarias;
 
-XI. Asesorar a las autoridades municipales que lo soliciten, sobre la adopción de políticas y acciones para el bienestar de los animales, y
+XI. Asesorar a las autoridades municipales que lo soliciten, sobre la adopción de políticas y acciones para el bienestar de los animales, y (sic)
 
-XII. Ejercer las demás atribuciones que determine la presente Ley y otros ordenamientos aplicables.
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2012)</small>
+
+XII. La creación de centros de esterilización que dependan del mismo, con servicio gratuito o a bajo costo, y
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2012)</small>
+
+XIII. Ejercer las demás atribuciones que determine la presente Ley y otros ordenamientos aplicables.
 
 ###### ARTÍCULO 7.
 
@@ -958,3 +966,11 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintiséis días del mes de octubre de dos mil diez.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. LA SECRETARIA GENERAL DE GOBIERNO. LIC. GRACIELA ORTIZ GONZÁLEZ. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MAYO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
