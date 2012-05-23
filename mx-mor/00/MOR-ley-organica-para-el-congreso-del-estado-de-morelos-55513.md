@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2010-09-15"
+last_updated: "2012-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY ORGANICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-LEY ORGANICA PARA EL CONGRESO DEL ESTADO DE MORELOS
+LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -209,7 +209,9 @@ IX. Contar con los recursos materiales y humanos necesarios para el cumplimiento
 
 X. Contar con la asesoría del personal técnico y profesional en función de las comisiones a las que pertenezcan;
 
-XI. En caso de fallecimiento, sus beneficiarios percibirán el equivalente a seis meses del total de la dieta. Igual prestación recibirán los beneficiarios de los diputados de las legislaturas anteriores que fallecieren y hubieren ejercido el cargo correspondiente, para lo cual se deberá hacer la designación en los términos que señale el Reglamento del Congreso del Estado; si no se designa beneficiario, ésta se pagará a la persona física que acredite ser su heredero en términos de la legislación civil vigente;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2012)</small>
+
+XI. En caso de fallecimiento, sus beneficiarios percibirán el equivalente a seis meses del total de la dieta. Quien hubiera sido parte de una anterior legislatura, tendrá derecho después de los sesenta años de edad a recibir previa su solicitud la suma de ciento ocho días del equivalente al total de la dieta vigente en la legislatura en curso, reservándose los otros setenta y dos días restantes de esa prestación a sus beneficiarios por su fallecimiento, o bien, en su defecto aquellos últimos tendrán derecho a percibir el equivalente a los ciento ochenta días del total de la dieta, para lo cual se deberá hacer la designación en los términos del Reglamento para el Congreso del Estado de Morelos; si no se designa beneficiario, ésta se pagará a la persona física que acredite ser su heredero en términos de la legislación civil vigente.
 
 XII. Gestionar ante las autoridades correspondientes la atención de las solicitudes que se presenten;
 
@@ -367,7 +369,7 @@ A los diputados que se les haya otorgado licencia, deberán informar por escrito
 
 ### CAPÍTULO I. DE LA MESA DIRECTIVA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 27.
 
@@ -385,7 +387,7 @@ Si un diputado se separa o es separado del grupo parlamentario al que pertenece,
 
 A los diputados independientes deberán guardarse las consideraciones que a todos los legisladores se les otorga para desempeñar sus funciones parlamentarias.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2009)</small>
 
 ###### Artículo 29.
 
@@ -427,7 +429,7 @@ La Mesa Directiva es dirigida y coordinada por el Presidente del Congreso y se r
 
 ### CAPÍTULO ÚNICO. DE SU DESIGNACIÓN Y ATRIBUCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2008)</small>
 
 ###### Artículo 35.
 
@@ -567,7 +569,7 @@ La Diputación Permanente estará integrada por cinco diputados, que serán los 
 
 Las sesiones de la Diputación Permanente tendrán lugar por lo menos una vez a la semana, exceptuándose en los períodos vacacionales; las sesiones serán convocadas por su Presidente o cuando así se lo solicite la mayoría de los diputados integrantes de la Conferencia para la Dirección y Programación de los Trabajos Legislativos, pudiendo ser públicas o secretas en los términos del Reglamento.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 11 DE FEBRERO DE 2009)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 11 DE FEBRERO DE 2009)</small>
 
 ## TÍTULO SÉPTIMO. DE LA ORGANIZACIÓN DEL CONGRESO DEL ESTADO
 
@@ -717,7 +719,7 @@ XlI. Revisar y aprobar de los órganos administrativos del Congreso del Estado, 
 
 XIII. Las demás que le confiera el pleno del Congreso del Estado, esta Ley y sus disposiciones reglamentarias y no sean competencia de alguna comisión o comité.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 51.
 
@@ -759,7 +761,7 @@ Son comisiones ordinarias las que se constituyan con carácter de permanentes y 
 
 Las comisiones especiales son aquellas de carácter temporal que acuerde el pleno del Congreso del Estado, para la atención de asuntos específicos; se conformarán y tendrán la duración que se establezca en el propio acuerdo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -883,7 +885,7 @@ V. Recibir de la Mesa Directiva los informes sobre las revisiones de las Cuentas
 
 VI. Recibir de la Mesa Directiva los informes sobre las revisiones de las Cuentas Públicas que haya practicado la Auditoría Superior de Fiscalización y remitir los mismos al pleno para ordenar su publicación en el Periódico Oficial “Tierra y Libertad”;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -1225,7 +1227,7 @@ V. Todos aquellos asuntos en la materia que le sean turnados.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2010)</small>
 
 ###### Artículo 84.
 
@@ -1371,7 +1373,7 @@ VII.- Participar con voz pero sin voto en las reuniones de la Junta Política y 
 
 VIII.- Las demás que esta Ley, su Reglamento y el Pleno del Congreso le confieran.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
 
 ## TÍTULO OCTAVO. DE LOS ÓRGANOS ADMINISTRATIVOS DEL CONGRESO DEL ESTADO
 
@@ -1439,7 +1441,7 @@ La Secretaría de Servicios Legislativos y Parlamentarios es el órgano profesio
 
 La Secretaría de Servicios Legislativos y Parlamentarios se coordinará con el Secretario General del Congreso y estará al servicio de la Presidencia de la Mesa Directiva y su titular será designado en los términos que establece la presente Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 93.
 
@@ -1453,7 +1455,7 @@ III. Acreditar los conocimientos, experiencia y capacidad de acuerdo al cargo y 
 
 IV. Las demás que señalen ésta ley y su Reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 94.
 
@@ -1547,11 +1549,11 @@ XIV. Tendrá a su cargo el resguardo y el manejo de la agenda de eventos en las 
 
 XV. Las demás que la presente Ley y su Reglamento le confieran.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE NOVIEMBRE DE 2008)</small>
 
 ### CAPÍTULO VI. SISTEMA MORELENSE DE RADIO Y TELEVISIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2010)</small>
 
 ###### Artículo 99.
 
@@ -1611,7 +1613,7 @@ XII. Impulsar el establecimiento de la cooperación y coordinación interinstitu
 
 XIII. Las demás que se deriven de esta Ley y las que el Reglamento le confieran.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE MAYO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE MAYO DE 2010)</small>
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -1623,7 +1625,7 @@ El Sistema Morelense de Radio y Televisión depende de la Junta Política y de G
 
 Tendrá bajo su cargo la operación y administración de las estaciones de radio y televisión a cargo del Congreso del Estado, bajo la coordinación del Comité de Radio y Televisión.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2010)</small>
 
 ###### Artículo 105.
 
@@ -1635,7 +1637,7 @@ II. No haber sido condenado en sentencia firme por delito intencional que amerit
 
 III. Acreditar los conocimientos, experiencia y capacidad en el ámbito de la comunicación y contar con título y cédula a nivel licenciatura; con una antigüedad mínima de cinco años.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2010)</small>
 
 ###### Artículo 106.
 
@@ -1693,11 +1695,11 @@ VI. Promover la capacitación permanente al personal.
 
 Las categorías de los trabajadores del Congreso del Estado, se regirán conforme a lo establecido en el catálogo correspondiente.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
 
 ## TÍTULO DÉCIMO. DE LA DESIGNACIÓN DE LOS MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
 
 ### CAPÍTULO III. DEL PROCEDIMIENTO PARA LA DESIGNACIÓN DE MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO
 
@@ -1719,7 +1721,7 @@ Los servidores públicos y aspirantes a alguno de los cargos que corresponde des
 
 El secretario técnico de la Junta Política y de Gobierno, dará fe de los actos que la misma realice. Asimismo, en todos los asuntos relacionados con este título, deberá estar presente el Director Jurídico del Congreso del Estado, quien podrá hacer uso de la palabra para asesorar y orientar a los integrantes de la Junta Política y de Gobierno.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
 
 ###### Artículo 113.
 
@@ -1773,7 +1775,7 @@ En la sesión en que sea presentado al Pleno el dictamen con la propuesta de asp
 
 En caso de que ninguno de los aspirantes propuestos reúna la votación requerida, el dictamen se regresará a la Junta Política y de Gobierno, a efecto de que en tres días hábiles presente uno nuevo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
 
 ###### Artículo 118.
 
@@ -1951,7 +1953,7 @@ LIC. SERGIO ALVAREZ MATA
 
 RUBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 16 DE JULIO DE 2008.
 
@@ -2098,3 +2100,11 @@ Publíquese en la Gaceta Legislativa del Congreso y remítase para su divulgaci�
 ###### ARTÍCULO QUINTO.
 
 Lo dispuesto en el artículo 32 párrafo segundo, iniciará su vigencia el día primero de agosto del año 2011.
+
+P.O. 23 DE MAYO DE 2012.
+
+Primero.- Aprobado que sea el presente Decreto, túrnese al Titular del Poder Ejecutivo para su publicación con un estricto propósito de divulgación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+Segundo.- El presente Decreto entrará en vigor el mismo día de su aprobación por el Pleno del Congreso del Estado de Morelos.
+
+Tercero.- En la aprobación del Presupuesto de Egresos para el Gobierno del Estado de Morelos del próximo Ejercicio Fiscal 2013, se preverá en el rubro que le corresponda al Poder Legislativo, el techo presupuestal para hacer frente a la fracción XI del artículo 18 de su Ley Orgánica.
