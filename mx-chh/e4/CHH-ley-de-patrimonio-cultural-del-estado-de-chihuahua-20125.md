@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-patrimonio-cultural-del-estado-de-chihuahua-20125"
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-28"
-last_updated: "2011-10-22"
+last_updated: "2012-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20125&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 28 de febrero del 2001.
 
@@ -125,9 +125,9 @@ XI. Centro Urbano: El núcleo de población con espacio limitado que en ocasione
 
 XII. Muebles: Los objetos asociados con un entorno natural, paleontológico, arqueológico, histórico, etnológico, artístico o de tecnología tradicional y otros asociados con un entorno, un lugar específico y un tiempo determinados;
 
-XIII. Acervos contenidos en Museos y Bibliotecas: El Conjunto de bienes muebles de relevancia histórica, artística, bibliográfica, hemerográfica, fotográfica, cinematográfica, en medios magnéticos, digitales, electrónicos y cinematográficos.
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2012)</small>
 
-Manifestaciones artísticas en todas sus variantes tanto tradicionales como contemporáneas.
+XIII. Acervos contenidos en Museos y Bibliotecas: El Conjunto de bienes muebles de relevancia histórica, artística, bibliográfica, hemerográfica, heráldica, fotográfica, cinematográfica, en medios magnéticos, digitales, electrónicos y cinematográficos. Manifestaciones artísticas en todas sus variantes tanto tradicionales como contemporáneas.
 
 > <small>(REFORMADA, P.O. 18 DE JUNIO DE 2003)</small>
 
@@ -1264,5 +1264,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 22 DE OCTUBRE DE 2011.
 
 ###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE MAYO DE 2012.
+
+###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
