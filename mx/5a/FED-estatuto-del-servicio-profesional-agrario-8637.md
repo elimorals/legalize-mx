@@ -4,7 +4,7 @@ identifier: "FED-estatuto-del-servicio-profesional-agrario-8637"
 country: "mx"
 rank: "estatuto"
 publication_date: "1994-09-14"
-last_updated: "2012-01-27"
+last_updated: "2012-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8637&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "1994-09-12"
 
 ESTATUTO DEL SERVICIO PROFESIONAL AGRARIO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE REFORMA Y ADICIONA EL REGLAMENTO INTERIOR DE LA PROCURADURÍA AGRARIA Y ABROGA EL ESTATUTO DEL SERVICIO PROFESIONAL AGRARIO, PUBLICADO EN EL D.O.F. DE 27 DE ENERO DE 2012, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO UNA VEZ QUE ENTRE EN VIGOR EL ESTATUTO DEL SERVICIO PROFESIONAL AGRARIO DE CARRERA EN LA PROCURADURÍA AGRARIA.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO DEL SERVICIO PROFESIONAL AGRARIO DE CARRERA EN LA PROCURADURÍA AGRARIA, PUBLICADO EN EL D.O.F. DE 23 DE MAYO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 14 de septiembre de 1994.
 
@@ -940,3 +940,25 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Quedará abrogado el Estatuto del Servicio Profesional Agrario, publicado en el Diario Oficial de la Federación el 14 de septiembre de 1994, una vez que entre en vigor el Estatuto del Servicio Profesional Agrario de Carrera en la Procuraduría Agraria.
 
 TERCERO.- Los procedimientos de reclutamiento, selección, nombramiento y evaluación del personal de la Procuraduría Agraria, previstos en el Estatuto del Servicio Profesional Agrario, que no estén concluidos a la entrada en vigor del Estatuto del Servicio Profesional Agrario de Carrera en la Procuraduría Agraria, se concluirán observando lo previsto en el primero de los Estatutos citados.
+
+D.O.F. 23 DE MAYO DE 2012.
+
+###### ARTICULO PRIMERO.
+
+El presente Estatuto entrará en vigor a partir del siguiente día de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Conforme a lo dispuesto en el artículo segundo Transitorio del decreto de fecha 18 de enero de 2012, publicado en el Diario Oficial de la Federación, el día 27 del propio mes y año, queda abrogado el Estatuto del Servicio Profesional Agrario, publicado en Diario Oficial de la Federación 14 (sic) de septiembre de 1994
+
+###### ARTICULO TERCERO.
+
+Los funcionarios de la Procuraduría de los niveles sujetos al Sistema que se encuentran laborando actualmente pasarán de inmediato a formar parte del mismo y para los efectos señalados en este Estatuto se les acreditarán sus años de servicio en la institución, a excepción de aquellos servidores públicos que un plazo no mayor a 15 días siguientes a la entrada en vigor de este ordenamiento manifiesten por escrito su voluntad de no incorporarse a este Sistema.
+
+###### ARTICULO CUARTO.
+
+Concluido el plazo referido en artículo que antecede, el Procurador o la persona que designe emitirá los nombramientos que acredite a los servidores públicos como miembros del Sistema de la Procuraduría.
+
+###### ARTICULO QUINTO.
+
+Los derechos, prerrogativas y obligaciones que se generen con motivo del presente Estatuto se consideraran derechos adquiridos, los cuales no serán coartados o disminuidos aún con modificaciones del presente Estatuto o emisión de uno nuevo, salvo que sea en su beneficio.
