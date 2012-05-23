@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-civiles-para-el-estado-de-nayarit-6808
 country: "mx"
 rank: "codigo"
 publication_date: "1992-11-21"
-last_updated: "2011-06-15"
+last_updated: "2012-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2012.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 21 de noviembre de 1992.
 
@@ -3883,19 +3883,25 @@ Si a la petición de declaración de minoridad se acompaña copia certificada de
 
 Presentada la solicitud de declaración de incapacidad por causa distinta a la de minoridad, el Juez proveerá auto, ordenando que dentro de los tres días siguientes sea reconocido el presunto incapaz por tres peritos médicos que nombrará, prefiriendo alienistas.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 524.
 
 Si del dictamen resultare comprobada o por lo menos duda fundada acerca de la incapacidad de la persona cuya interdicción se pide, el Tribunal dictará las siguientes medidas:
 
-I.- Nombrará tutor y curador dativo, sujetándose a las disposiciones de este capítulo, pero sin que pueda ser nombrada la persona que haya promovido la interdicción;
+I.- El juez deberá girar oficio al Archivo General de Notarias del Estado de Nayarit; a efecto de corroborar la existencia o no, de tutor nombrado mediante la figura de la tutela autodesignada; de existir éste, será llamado al juicio para ejercer sus funciones de manera provisional;
 
-II.- Mandará poner los bienes del presunto incapacitado bajo la administración del tutor dativo; los de la sociedad conyugal, si los hubiere, bajo la administración del cónyuge, a falta de éste en la del mismo tutor; y
+II.- A falta de tutor autodesignado se nombrará tutor y curador dativo, sujetándose a las disposiciones de este capítulo, pero sin que pueda ser nombrada la persona que haya promovido la interdicción;
 
-III.- Proveerá legalmente a la patria potestad o tutela de las personas que tuviere bajo su guarda el presunto incapacitado.
+III.- Mandará poner los bienes del presunto incapacitado bajo la administración del tutor; los de la sociedad conyugal, si los hubiere, bajo la administración del cónyuge, a falta de éste en la del mismo tutor, y
+
+IV.- Proveerá legalmente a la patria potestad o tutela de las personas que tuviere bajo su guarda el presunto incapacitado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 525.
 
-Una vez que cause estado la resolución que haya declarado provisionalmente la incapacidad, dentro del mismo expediente se seguirá el procedimiento contencioso, sujetándose a las siguientes normas:
+Una vez que cause estado la resolución que haya declarado provisionalmente la incapacidad, se atenderá a lo que sobre tutela autodesignada dispone el Código Civil y solo en caso de no existir nombramiento de tutor autodesignado se seguirá el procedimiento contencioso, sujetándose a las siguientes normas:
 
 I.- Durante dicho procedimiento subsistirán las medidas decretadas conforme al artículo anterior, pero podrán ser modificadas por cambio de circunstancias debidamente probadas;
 
@@ -5146,3 +5152,7 @@ Artículo Único.- El presente decreto entrará en vigor al día siguiente de su
 P.O. 15 DE JUNIO DE 2011.
 
 Artículo Único.- El presente Decreto entrará en vigor el día 22 de julio del 2011, y deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 23 DE MAYO DE 2012.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
