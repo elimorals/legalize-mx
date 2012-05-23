@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2012-03-10"
+last_updated: "2012-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2012.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -923,21 +923,21 @@ ARTICULO 36 A.- Los síndicos municipales tendrán a su cargo la vigilancia del 
 
 En el Presupuesto de Egresos de cada municipio deberán preverse recursos suficientes para que el Síndico pueda cumplir con eficacia las funciones que le corresponden.
 
-> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2012)</small>
 
-El Síndico podrá practicar revisiones a los documentos que habrán de conformar la cuenta pública. Cada cuatro meses deberá presentar al Ayuntamiento un informe de las revisiones efectuadas. La falta de cumplimiento de este precepto será causa de responsabilidad.
+El Síndico deberá practicar revisiones a los documentos que habrán de conformar la cuenta pública. Cada tres meses deberá presentar al Ayuntamiento un informe de las revisiones efectuadas. La falta de cumplimiento de este precepto será causa de responsabilidad.
 
-> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2012)</small>
 
-Para los efectos del párrafo anterior, los titulares de la Administración Municipal a que se les requiera información, deberán de proporcionarla inmediatamente.
+Para efectos del párrafo anterior, los titulares de la Administración Municipal a que se les requiera información, deberán de proporcionarla en un plazo máximo de cuatro días hábiles, contados a partir de la fecha de recibida la solicitud. En caso de no tener respuesta, el Síndico deberá de levantar acta circunstanciada, la cual formará parte del informe, para que el Ayuntamiento determine las responsabilidades.
 
 > <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
 
 Las revisiones que practique la sindicatura contendrán el análisis de las partidas de ingresos y egresos, y en los casos que así lo considere hará una revisión legal, física, numérica o contable del gasto público municipal pudiéndose extender al examen de la exactitud y justificación de los cobros y pagos hechos, cuidando que todas las cantidades estén debidamente comprobadas conforme a precios y tarifas autorizadas o de mercado según proceda.
 
-> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2012)</small>
 
-Si al hacer la revisión encontrare irregularidades de cualquier tipo, el Síndico solicitará a la dependencia que corresponda, que en un plazo de 10 días hábiles rinda ante él, las aclaraciones pertinentes, si no le son remitidas o no fueren suficientes para justificar las irregularidades, el Síndico rendirá inmediatamente al Ayuntamiento un informe detallado para que éste determine las responsabilidades administrativas, civiles o penales que correspondan.
+Si al hacer la revisión encontrare irregularidades de cualquier tipo, el Síndico solicitará por escrito al titular de la dependencia que corresponda, que en un plazo de diez días hábiles, rinda ante él, las aclaraciones pertinentes y los archivos que las sustentan; si no le son remitidas o no fueren suficientes para aclarar las irregularidades, el Síndico rendirá inmediatamente al Ayuntamiento un informe detallado para que éste determine las responsabilidades administrativas, civiles o penales que correspondan.
 
 > <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
 
@@ -955,9 +955,9 @@ III.- Revisar que el ejercicio del gasto se realice llenando todos los requisito
 
 IV.- Vigilar que las multas que impongan las autoridades municipales o cualquier otro ingreso sea enterado a la tesorería, previo certificado de ingresos;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2012)</small>
 
-V.- Asistir a las auditorías o revisiones que realice la Auditoría Superior del Estado, la Secretaría de la Contraloría del Estado o la Secretaría de la Función Pública, e informar de los resultados al Ayuntamiento;
+V. Asistir a las visitas de inspección que realicen la Auditoría Superior del Estado o de la Federación, o la Contraloría del Estado, e informar de los resultados obtenidos al Ayuntamiento;
 
 VI.- Vigilar que oportunamente se remita al Congreso la cuenta pública municipal;
 
@@ -1957,23 +1957,43 @@ XII.- Realizar las demás atribuciones que le fijen las leyes y sus reglamentos.
 
 Están obligados a presentar declaración de situación patrimonial, bajo protesta de decir verdad, los siguientes servidores públicos del Municipio:
 
-I.- El Presidente Municipal;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2012)</small>
 
-II.- Los Regidores;
+I. El Presidente Municipal;
 
-III.- El Secretario;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2012)</small>
 
-IV.- El Oficial Mayor;
+II. El Síndico;
 
-V.- El Tesorero Municipal;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2012)</small>
 
-VI.- Los Directores, Jefes de Departamento y de Oficina o puestos equivalentes; y
+III. Los Regidores;
 
-VII.- Aquellos que en el Municipio o entidades descentralizadas manejen, recauden, vigilen o administren fondos y recursos ya sea por función o comisión.
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2012)</small>
+
+IV. El Secretario;
+
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2012)</small>
+
+V. El Oficial Mayor;
+
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2012)</small>
+
+VI. El Tesorero Municipal;
+
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2012)</small>
+
+VII. Los Directores, Jefes de Departamento y de Oficina o puestos equivalentes; y
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2012)</small>
+
+VIII. Aquellos que en el municipio o entidades descentralizadas manejen, recauden, vigilen o administren fondos y/o recursos, ya sea por función o comisión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 93.
 
-Los servidores públicos municipales están obligados a presentar su declaración patrimonial ante el Presidente Municipal, de lo que se dará cuenta en sesión de Cabildo; y serán remitidas al órgano que para tal efecto, designe el Ayuntamiento. Tratándose de la declaración del Presidente Municipal y Regidores, ésta será presentada ante el Congreso del Estado para el efecto de su registro y control, de conformidad con las disposiciones aplicables.
+Los servidores públicos municipales están obligados a presentar su declaración patrimonial ante el Presidente Municipal, de lo que se dará cuenta en sesión de cabildo; y serán remitidas al órgano que para tal efecto designe el Ayuntamiento.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE ABRIL DE 1999)</small>
 
@@ -4250,3 +4270,9 @@ P.O. 10 DE MARZO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de la (sic) Estado.
+
+P.O. 23 DE MAYO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
