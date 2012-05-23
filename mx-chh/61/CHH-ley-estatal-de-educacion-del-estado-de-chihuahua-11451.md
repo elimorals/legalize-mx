@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2012-04-21"
+last_updated: "2012-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,37 +21,215 @@ state: "CHH"
 ---
 # LEY ESTATAL DE EDUCACION DEL ESTADO DE CHIHUAHUA
 
-LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2012.
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE ENERO DE 2020 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
-Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
+LEY DE TRÁNSITO DEL ESTADO DE SONORA
 
-EL CIUDADANO CONTADOR PUBLICO FRANCISCO JAVIER BARRIO TERRAZAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, A SUS HABITANTES SABED:
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2019.
 
-QUE EL HONORABLE CONGRESO DEL ESTADO SE HA SERVIDO EXPEDIR EL SIGUIENTE
+Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 27 de febrero de 1984.
 
-DECRETO:
+EL C. DR. SAMUEL OCAÑA GARCIA, Gobernador Constitucional del Estado Libre y Soberano de Sonora, a sus habitantes, sabed:
 
-DECRETO No. 823/97 I P.O.
+Que el H. Congreso del Estado, se ha servido dirigirme la siguiente LEY:
 
-LA QUINCUAGESIMAOCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, REUNIDA EN SU PRIMER PERIODO ORDINARIO DE SESIONES, DENTRO DEL TERCER AÑO DE EJERCICIO LEGAL,
+NUMERO 47
 
-DECRETA:
+EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SONORA, EN NOMBRE DEL PUEBLO, DECRETA LA SIGUIENTE
+
+LEY DE TRANSITO DEL ESTADO DE SONORA.
 
 ###### ARTICULO UNICO.
 
-Se expide la Ley Estatal de Educación para quedar en los siguientes términos:
+La presente Ley entrará en vigor a los noventa días siguientes de su publicación en el Boletín Oficial del Gobierno del Estado.
 
-> <small>(REFORMADA, P.O. DE 25 DE ABRIL DE 2007)</small>
+B.O. 15 DE JULIO DE 1993.
 
-LEY ESTATAL DE EDUCACIÓN
+## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 3 DE SEPTIEMBRE DE 1987)</small>
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPITULO I. DE LAS DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+###### ARTICULO 1o.
+
+La presente Ley es de interés público y de observancia obligatoria en el Estado de Sonora. Tiene por objeto regular y controlar el tránsito de vehículos, peatones y pasajeros, establecer las normas y lineamentos necesarios para garantizar la seguridad de los conductores, ciclistas, peatones, pasajeros y usuarios, definir criterios en el uso de vialidades, así como en la creación de infraestructura.
+
+La planeación, ejercicio y supervisión de la función pública de tránsito, son actividades de interés público prioritarias.
+
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
+
+###### ARTICULO 2o.
+
+Los municipios tendrán a su cargo el ejercicio de la función pública de tránsito municipal, de acuerdo a las bases establecidas en esta Ley y demás disposiciones aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+Las agencias encargadas de la expedición de licencias deberán estar vinculadas con las autoridades de tránsito, con el fin de llevar un mismo registro del historial de usuarios, infracciones y cancelaciones de licencias y cualquier otra información que pueda ser utilizada para el mejoramiento de sus funciones.
+
+###### ARTICULO 3o.
+
+Son autoridades competentes para aplicar la presente Ley:
+
+I.- El Ejecutivo del Estado, y
+
+II.- Los Ayuntamientos de los Municipios del Estado.
+
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
+
+###### ARTICULO 4o.
+
+Compete al Gobernador del Estado:
+
+I.- Establecer y ejecutar las políticas de vialidad en las carreteras y caminos de jurisdicción estatal.
+
+La Coordinación Estatal de Seguridad Pública y Tránsito, inspeccionará, verificará y vigilará en las carreteras de jurisdicción estatal que los vehículos destinados al servicio público o privado de transporte cumplan con las condiciones de peso, dimensiones, capacidad y otras especificaciones en los términos que establezcan las normas legales y reglamentarias respectivas.
+
+II. - Transmitir a las policías de tránsito municipales, cuando éstas realicen las funciones de policía preventiva municipal, las órdenes necesarias en aquellos casos que, bajo su responsabilidad, califique como de fuerza mayor o alteración grave del orden público, de acuerdo con lo establecido en la Ley de Seguridad Pública.
+
+III.- Celebrar convenios con los municipios del Estado y con las autoridades federales o de otras entidades federativas, para el mejor cumplimiento de los fines de esta Ley.
+
+IV.- Ordenar la ejecución de sus decisiones mediante el uso de la fuerza pública, cuando el caso lo amerite.
+
+V.- Lo demás que esta y otras disposiciones legales le señalen.
+
+###### ARTICULO 5o.
+
+Compete a los Ayuntamientos de los respectivos Municipios:
+
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 2002)</small>
+
+I.- Organizar y ejercer, en los términos de esta Ley, la función pública de tránsito.
+
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 2002)</small>
+
+II.- Aprobar, con sujeción a la presente Ley, los reglamentos, las circulares y las demás disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, en materia de tránsito.
+
+> <small>(REFORMADA B.O. 3 DE SEPTIEMBRE DE 1987)</small>
+
+III.- Emitir los manuales de organización, de procedimientos y de servicios al público de las Policías de Tránsito Municipales;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+IV.- Establecer y ejecutar las políticas de vialidad en las zonas urbanas y rurales del municipio de que se trate. Dichas políticas deberán contener la estructura vial primaria, secundaria, local, peatonal y de ciclo vías, dando prioridad a la seguridad de los usuarios peatonales y ciclistas, así como las características y normas técnicas respecto a estacionamientos, señalamientos y demás dispositivos e indicadores para el control del tránsito;
+
+V.- (DEROGADA, B.O. 8 DE JULIO DE 2002)
+
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 2002)</small>
+
+VI.- Celebrar convenios con el Estado, con autoridades de la Federación o de otras Entidades Federativas para el mejor cumplimiento de los fines que previene esta Ley.
+
+VII.- Establecer el calendario para el revisado de vehículos registrados en su Departamento de Tránsito Municipal.
+
+VIII.- Organizar los escuadrones de educación vial.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+IX.- Establecer programas permanentes para la prevención de accidentes y orientación de los conductores sobre la forma adecuada para desplazarse en las vías públicas, garantizando el tránsito seguro de peatones, ciclistas y pasajeros.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+X.- Dictar las normas conforme a las cuales se establecerán las nomenclaturas de las calzadas, boulevares, avenidas, calles y callejones de su jurisdicción.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+XI.- Resolver los recursos de inconformidad de la materia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+XII.- Ordenar la ejecución de sus decisiones mediante el uso de la fuerza pública cuando el caso lo amerite.
+
+> <small>(REFORMADA, B.O. 11 DE DICIEMBRE DE 2014)</small>
+
+XIII.- Elaborar y mantener permanentemente actualizadas las estadísticas que resulten necesarias para el mejor ejercicio de la función pública de tránsito;
+
+> <small>(REFORMADA, B.O. 11 DE DICIEMBRE DE 2014)</small>
+
+XIV.- Establecer las normas técnicas respecto a estacionamientos de bicicletas; y
+
+> <small>(ADICIONADA, B.O. 11 DE DICIEMBRE DE 2014)</small>
+
+XV.- Lo demás que esta y otras disposiciones legales le señalen.
+
+###### ARTICULO 6o.
+
+Son atribuciones de los Jefes de Tránsito Municipal:
+
+I.- Ejercer en su jurisdicción, el mando directo de la policía de tránsito municipal, coordinando sus actuaciones de manera que desarrolle sus funciones con la mayor eficacia.
+
+II.- Imponer correcciones disciplinarias a los elementos que integran la policía de tránsito a sus órdenes.
+
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+III.- Presentar, al Ayuntamiento de que dependan, informes trimestrales de las actividades realizadas por la policía de tránsito a sus órdenes, así como un inventario de los recursos humanos y materiales con que se preste el servicio.
+
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 2002)</small>
+
+IV.- Entregar un instructivo a los choferes al solicitar el revisado de sus unidades, referente al auxilio y preferencia de los ciudadanos que se identifiquen como ciegos con el bastón blanco, los sordos con el brazalete amarillo y demás personas con discapacidad que resulten de obvia observancia.
+
+V.- Cumplir y hacer cumplir esta Ley y las disposiciones que de ella emanen.
+
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
+
+###### ARTICULO 7o.
+
+Los Ayuntamientos de los municipios del Estado nombrarán, a propuesta de los Presidentes Municipales, al Jefe de la Policía de Tránsito Municipal. La facultad de remoción del mismo será competencia exclusiva del Ayuntamiento. Los Oficiales Superiores y demás personal, serán nombrados por los Presidentes Municipales.
+
+Serán oficiales superiores de las policías de tránsito municipales, los subjefes. Los cargos de jefe y subjefe de policía de tránsito municipal podrán recaer en las mismas personas que tengan, respectivamente, los cargos de jefe y subjefe de policía preventiva de un municipio.
+
+> <small>(REFORMADO, B.O. 3 DE SEPTIEMBRE DE 1987)</small>
+
+###### ARTICULO 8o.
+
+Para los efectos de la disciplina y del mando, los integrantes de las Policías de Tránsito Municipales ostentarán los siguientes grados jerárquicos:
+
+I.- JEFE;
+
+II.- SUBJEFE;
+
+III.- COMANDANTE DE UNIDAD;
+
+IV.- OFICIAL PRIMERO;
+
+V.- OFICIAL SEGUNDO;
+
+VI.- SUBOFICIAL; y
+
+VII.- AGENTE DE TRANSITO.
+
+Todo lo relativo a uniformes, insignias, divisas, manifestación, posesión y portación de armas, deberes y prohibiciones que, para los integrantes de las Policías Preventivas, señala la Ley de Seguridad Pública para el Estado de Sonora, será aplicable para los integrantes de las Policías de Tránsito Municipales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE JULIO DE 2002)</small>
+
+###### ARTICULO 9o.
+
+Los integrantes de las policías de tránsito municipales serán los encargados de hacer cumplir las determinaciones de los Ayuntamientos y los Presidentes Municipales, así como vigilar en los términos de sus comisiones o de las funciones que sean acorde con sus jerarquías, el cumplimiento del presente ordenamiento y de los reglamentos, circulares y demás disposiciones de observancia general que aprueben los ayuntamientos.
+
+Los Comisarios y los Delegados Municipales ejercerán las funciones a que se refiere el párrafo que antecede, dentro de sus respectivas jurisdicciones, cuando no existan en las mismas, elementos de la Policía de Tránsito Municipal.
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1994)</small>
+
+Los integrantes de las policías de tránsito municipales actuarán en auxilio y a solicitud expresa del Ministerio Público, en la investigación, averiguación y persecución de hechos delictuosos derivados de las actividades reguladas por esta Ley.
+
+> <small>(REFORMADO, B.O. 3 DE SEPTIEMBRE DE 1987)</small>
 
 ###### ARTÍCULO 1.
 
@@ -213,2315 +391,3003 @@ III. Contribuirá a la mejor convivencia humana y a la resolución no violenta d
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
-###### ARTÍCULO 10.
+###### ARTICULO 10.
 
-Todos los individuos del Estado de Chihuahua deberán cursar la educación preescolar, primaria y secundaria. Quienes ejerzan la patria potestad o la tutela tienen la obligación de hacer que sus hijas, hijos o pupilos concurran a las escuelas públicas o privadas para recibir la educación de estos niveles y procurando que, además, cursen la educación inicial.
+Los (sic) partes que rindan los integrantes de las Policías de Tránsito Municipales harán prueba en la averiguación o el juicio criminal correspondiente, siempre que estén certificados por dos testigos de asistencia o por el Secretario de la Corporación, si existe y se refieran a materia de tránsito.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Los integrantes de las Policías de Tránsito Municipales no podrán recoger ni exigir la entrega de licencias, tarjetas de circulación, placas y vehículos, sino en los casos expresamente previstos en esta ley, en la comisión de algún delito, o cuando el conductor, siendo procedente de otro Estado o País no garantice el cumplimiento del pago de las infracciones en que incurra.
 
-###### ARTÍCULO 11.
+Las Policías de Tránsito Municipales podrán, previo acuerdo de los Ayuntamientos, ejercer las atribuciones asignadas a las Policías Preventivas en la Ley de Seguridad Pública para el Estado de Sonora. Dicho acuerdo deberá publicarse en el Boletín Oficial del Gobierno del Estado de Sonora.
 
-Son de interés social las actividades e inversiones de cualquier tipo que en materia educativa realicen el Estado, los ayuntamientos, los organismos descentralizados y los particulares.
+###### ARTICULO 11.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Son de jurisdicción municipal, las vías públicas ubicadas dentro de los límites de las poblaciones y ciudades comprendidas en el territorio del Municipio, así como los caminos y demás vías que no atraviesen los límites de dos o más Municipalidades.
 
-### CAPÍTULO II. FACULTADES Y OBLIGACIONES EN MATERIA EDUCATIVA
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-#### SECCIÓN I. DEL TITULAR DEL PODER EJECUTIVO ESTATAL
+Los vehículos y sus conductores, los peatones y ciclistas que usen vías públicas de jurisdicción estatal o federal, estarán sujetos a la vigilancia de las autoridades y agentes de tránsito de los municipios por los que atraviesen, en cuanto no se opongan a disposiciones federales.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 1995)</small>
 
-###### ARTÍCULO 12.
+### CAPITULO II. DE LA JURISDICCION
 
-El Gobernador del Estado tiene la facultad de nombrar y remover libremente a las autoridades educativas, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución Política del Estado, en las leyes o en los reglamentos.
+#### SECCION I. DE LA CLASIFICACION DE LOS VEHICULOS
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 12.
 
-#### SECCIÓN II. DE LA AUTORIDAD EDUCATIVA ESTATAL
+Son de jurisdicción estatal las vías públicas que atraviesen los límites de dos o más municipios, las que entronquen con alguna vía de jurisdicción federal, las que en su totalidad o en su mayor parte sean construidas por el Estado con fondos estatales o mediante concesión estatal por particulares o municipios.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+#### SECCION II. DE LOS REQUISITOS PARA LA CIRCULACION DE LOS VEHICULOS
 
-###### ARTÍCULO 13.
+###### ARTICULO 13.
 
-La Autoridad Educativa Estatal tiene las siguientes facultades y obligaciones:
+En caso de duda respecto a la jurisdicción de alguna vía pública, cualquier interesado puede solicitar que el Ejecutivo del Estado haga la declaratoria correspondiente.
 
-I. Proporcionar el servicio público de educación en la Entidad, conforme a la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, la Constitución Política del Estado y la presente Ley;
+###### ARTICULO 14.
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2010)</small>
+Son vías públicas las calzadas, boulevares, avenidas, calles, callejones, callejones de acceso y sus banquetas; así como los caminos vecinales, brechas, desviaciones, veredas, senderos, sus acotamientos; los puentes que unen a las vías públicas y a las zonas de protección de ambos.
 
-II. Prestar los servicios de educación inicial, preescolar, primaria, secundaria, incluyendo la indígena, la especial, media superior y superior; además promoverá la creación de una (sic) programa orientado a educar a los alumnos, padres y madres de familia, que de manera sistemática y permanente propicie la superación personal, la convivencia familiar y la participación social. El programa atenderá a su formalización mediante la constancia correspondiente;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III. Promover el establecimiento, la organización y el sostenimiento, según las necesidades de la demanda en toda la Entidad Federativa de:
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-a. Centros de educación inicial;
+#### SECCION I. DISPOSICION PRELIMINAR
 
-b. Escuelas de educación preescolar:
+###### ARTICULO 15.
 
-c. Escuelas primarias;
+Las vías públicas destinadas al tránsito de vehículos, de peatones y de ciclistas, son bienes de dominio público. Su uso es común y no causa retribución alguna sin más limitaciones que las señaladas en esta Ley y las disposiciones de las autoridades de tránsito dictadas en estricto cumplimiento de sus facultades.
 
-d. Escuelas secundarias;
+#### SECCION II. LUCES
 
-e. Escuelas preparatorias o bachilleratos;
+### CAPITULO I. DE LAS LICENCIAS
 
-f. Escuelas normales;
+###### ARTICULO 16.
 
-g. Escuelas de educación indígena;
+Los caminos o calles que atraviesen predios o terrenos particulares, solamente podrán considerarse como vías públicas, cuando comuniquen dos o más poblaciones, o dos o más caminos o calles, no así cuando se trate de meras servidumbres de paso entre dos propiedades privadas.
 
-h. Escuelas de educación para adultos;
+El uso de estos caminos hace nacer, respecto de los usuarios, la obligación de cerrar convenientemente las puertas que encuentren en su camino, de observar los avisos que pongan sus propietarios y de no estacionarse en sus interiores.
 
-i. Escuelas de educación especial;
+En caso de duda sobre si un camino o calle deba ser o no considerado como vía pública, corresponde al Ayuntamiento respectivo resolverla, después de escuchar a los interesados y recibir sus pruebas.
 
-j. Centros de educación para y en el trabajo y la productividad;
+###### ARTICULO 17.
 
-k. Instituciones de educación superior;
+Las Leyes Fiscales respectivas, determinarán las características, vigencia y cuantía de los derechos por concepto de placas de circulación, expedición de licencias, calcomanías por revisados, permisos, estacionamientos exclusivos, estacionamientos públicos y estacionómetros.
 
-l. Centros de actualización de docentes;
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
 
-m. Escuelas de trabajo social;
+En el caso de las licencias de conducir, los ordenamientos fiscales estatales correspondientes deberán prever la contratación de una póliza de seguro de responsabilidad civil, a favor del titular de la licencia.
 
-n. Museos;
+###### ARTICULO 18.
 
-o. Centros educativos para las y los niños en situación de calle;
+Para el manejo en la vía pública de vehículos de propulsión automotriz, se requiere de las siguientes licencias:
 
-p. Bibliotecas;
+I.- Licencia de automovilista, para manejar automóviles de cualquier clase, pero sin que tal manejo constituya un oficio o empleo.
 
-q. Laboratorios, aulas de medios y talleres;
+II.- Licencia de chofer, para manejar automóviles de cualquier clase en el ejercicio de este oficio o como empleado. Los operarios de talleres, de maquinaria agrícola y de construcción, no están excluídos de cumplir con este requisito, cuando conduzcan estos vehículos o maquinaria en la vía pública.
 
-r. Equipos de cómputo e informática, suficientes para el óptimo aprendizaje y aprovechamiento de las y los alumnos;
+III.- Licencia de operador de servicio público de transporte, quien podrá manejar todo tipo de vehículos.
 
-s. Programas federales y estatales; y (sic)
+IV.- Licencia de motociclista.
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2012)</small>
+V.- Licencia provisional, expedida durante el trámite de licencias definitivas.
 
-t. Ludotecas;
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 27 DE DICIEMBRE DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2012)</small>
+VI.- Licencia provisional de chofer.
 
-u. Otras.
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
 
-IV. Extender la cobertura del nivel preescolar y otorgar a las instituciones oficiales del mismo, el apoyo económico suficiente y los materiales didácticos adecuados;
+Será facultad propia del Ejecutivo Estatal la expedición de licencias y permisos para la conducción de vehículos de propulsión automotriz.
 
-V. Asumir la administración de la educación que se imparta en todos los planteles oficiales, por conducto de la Autoridad Educativa Estatal;
+###### ARTICULO 19.
 
-VI. Conforme al artículo 23 de la Ley General de Educación, vigilar el estricto cumplimiento por parte de las empresas establecidas en el Estado de lo ordenado por la fracción XII del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en lo concerniente a la obligación de establecer y sostener escuelas y centros de capacitación;
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
-VII. Impulsar el intercambio de educandos, educadores, investigadores y científicos con otras Entidades Federativas, el Gobierno Federal y con instituciones educativas extranjeras y, promover cuanto sea necesario para el desarrollo y progreso de la tecnología, la ciencia, la cultura, las artes y la educación en general;
+###### ARTICULO 20.
 
-VIII. Promover y vigilar el consumo de productos alimenticios benéficos para el desarrollo y la salud del estudiante al interior de las instituciones escolares;
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
-IX. Establecer un sistema de reconocimientos, distinciones, estímulos y recompensas a favor de los trabajadores de la educación, que dediquen su vida profesional a la docencia e investigación o que presten servicios destacados en el ámbito educativo y cultural;
+###### ARTICULO 21.
 
-X. Instituir, conjuntamente con el Congreso del Estado, reconocimientos, distinciones y estímulos a la labor educativa desarrollada, tales como: La Medalla Chihuahua al Mérito Educativo, entre otras.
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
-XI. Promover, conjuntamente con el Congreso del Estado, la institucionalización de eventos conmemorativos referidos a hechos históricos, educativos y culturales con la finalidad de fortalecer la identidad chihuahuense, tales como: Las Jornadas Villistas, La Ruta de Juárez, entre otras;
+###### ARTICULO 22.
 
-XII. Promover y estimular la producción de obras científicas, artísticas, didácticas y material escolar;
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
-XIII. Promover el aprendizaje de una lengua extranjera, preferentemente el idioma inglés, el cual se podrá impulsar en toda la educación que se imparte en el Estado;
+###### ARTICULO 23.
 
-XIV. Editar y publicar libros, cuadernos de trabajo y materiales didácticos complementarios a los libros de texto gratuitos, que tengan por finalidad aportar conocimientos más amplios de la historia, de los valores sociales, de los bienes y de conformidad con los recursos con que cuenta la Entidad;
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
-XV. Implementar programas de formación para y en el trabajo y la productividad en función de las necesidades de cada región; así como programas de educación extraescolar, fomento cultural, artístico y recreación;
+###### ARTICULO 24.
 
-XVI. Vincular la educación con el sector productivo a efecto de que la planeación educativa responda a los requerimientos del desarrollo estatal y regional;
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2010)</small>
+### CAPITULO II. DE LA SUSPENSION Y CANCELACION DE LICENCIAS Y PERMISOS
 
-XVII. Crear y sostener un Sistema Estatal de Becas, Créditos y Estímulos Educativos, en todos sus niveles y modalidades, con base en la partida presupuestal que determine el Poder Legislativo del Estado.
+### CAPITULO III. DE LOS VEHICULOS
 
-El Sistema se regirá por la normatividad reglamentaria que al efecto se expida;
+###### ARTICULO 25.
 
-XVIII. Prestar y fortalecer los servicios de formación, actualización, capacitación y superación profesional para los docentes de los diferentes tipos, niveles y modalidades de conformidad con las disposiciones generales que la Autoridad Educativa Federal determine;
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
-XIX. Fortalecer el modelo de formación continua para profesionales de la educación básica, en donde la escuela sea su espacio principal de aprendizaje, con el fin de mejorar la calidad en la prestación del servicio educativo de cada una de las escuelas;
+###### ARTICULO 26.
 
-XX. Fortalecer el Servicio de Apoyo Técnico a las escuelas a fin de impulsar el diseño y operación de propuestas innovadoras que contribuyan a mejorar la calidad del servicio educativo, considerando las características regionales y locales específicas;
+Para conducir vehículos de tracción aniaml (sic), bicicletas, vehículos de tracción mecánica no automotriz y carro de mano, no se requiere licencia, pero no se permitirá que los manejen menores de 12 años.
 
-XXI. Promover la gestión escolar participativa y apoyar, tanto técnica como pedagógicamente, a las escuelas a partir de la formulación de proyectos;
+Tampoco se permitirá que menores de 18 años, manejen juegos o diversiones mecánicas accionadas por motores eléctricos o de combustión interna en ferias y estacionamientos destinados al público.
 
-XXII. Elaborar y mantener anualmente actualizado el padrón escolar y el inventario de los recursos y bienes destinados a la educación en la Entidad;
+###### ARTICULO 27.
 
-XXIII. Proponer a la Secretaría de Educación Pública los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de profesionales de la educación;
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
-XXIV. Ajustar calendarios y horarios de clase de acuerdo a las necesidades regionales, dependiendo del tipo y grado de educación y circunstancias de las y los educandos, cumpliendo con el número de días y horas que establece el calendario oficial;
+###### ARTICULO 28.
 
-XXV. Revalidar y otorgar equivalencias de estudios de la educación preescolar, primaria, secundaria, normal y demás para la formación de profesionales de la educación básica, de acuerdo con los lineamientos generales que la Secretaría de Educación Pública expida;
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
-XXVI. Revalidar y otorgar equivalencias de estudios distintos de los establecidos en la fracción anterior, de acuerdo a los lineamientos generales que la Secretaría de Educación Pública expida;
+###### ARTICULO 29.
 
-XXVII. Otorgar, negar o revocar autorización a los particulares para impartir la educación preescolar, primaria, secundaria, normal y demás para la formación de profesionales de la educación básica, tomando como criterio para tal efecto los lineamientos establecidos en la Ley General de Educación, la presente Ley y los reglamentos relativos;
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
-XXVIII. Otorgar, negar o revocar reconocimientos de validez oficial a los particulares que impartan educación distinta a la mencionada en la fracción anterior;
+###### ARTICULO 30.
 
-XXIX. Expedir constancias, certificados de estudio y otorgar diplomas, títulos o grados académicos de acuerdo a las disposiciones legales establecidas para tales efectos;
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
-XXX. Integrar un órgano de consulta, seguimiento y evaluación de los programas y proyectos educativos que se implementen en la Entidad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXXI. Integrar el Consejo Estatal de Participación Social en la Educación;
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-XXXII. Vigilar que el embarazo y la maternidad no constituyan impedimento para que las mujeres ingresen y permanezcan realizando sus estudios en los centros educativos del Sistema Educativo Estatal, sin importar su estado civil. Queda prohibida su expulsión por esta causa; de igual manera, la Autoridad Educativa Estatal procurará el apoyo académico a las mismas dentro de las instituciones escolares;
+###### ARTICULO 31.
 
-XXXIII. Impulsar el servicio de educación vial en el tipo básico, otorgando los apoyos necesarios para que cobre mayor importancia en las escuelas;
+Los conductores y operadores de vehículos deberán portar sus respectivas licencias vigentes al momento de conducir un vehículo o al tenerlo bajo su cuidado y responsabilidad, en caso de estar estacionado en la vía pública.
 
-XXXIV. Valorar y, en su caso, apoyar las iniciativas de particulares para complementar el servicio educativo;
+Las personas que contraten los servicios de un chofer u operador de servicio público, así como los que permitan a otro que conduzca su vehículo, deberán cerciorarse de que tienen en regla su licencia de manejar, bajo responsabilidad ante las autoridades de tránsito correspondientes, del pago de las multas que se les impongan por las infracciones en que incurran.
 
-XXXV. Fortalecer el Sistema de Asesoría Escolar en todos los niveles del Sistema Educativo Estatal, sin perjuicio de la orientación vocacional profesional;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXXVI. Profesionalizar al personal de apoyo y asistencia a la educación, a través de un proceso de formación continua;
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-XXXVII. Capacitar y profesionalizar a los funcionarios estatales del sector educativo; y (sic)
+Para efectos del párrafo anterior, la persona que autorice a otro a que conduzca un vehículo de su propiedad, podrá exigir a este último, el pago de las multas que se le impongan, siempre y cuando sean por causas imputables al conductor.
 
-XXXVIII. Invertir recursos financieros a la investigación pedagógica para la innovación y el desarrollo del sistema educativo;
+###### ARTICULO 32.
 
-XXXIX. Supervisar la Vigilancia del ejercicio profesional en el Estado;
+Las licencias para conducir expedidas por las autoridades de otros Estados o de otros Países, tendrá la misma validez que las expedidas conforme a esta Ley para conducir vehículos, siempre y cuando aparezca que se encuentran en vigor y que sus tenedores no establezcan domicilio en el Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS A LA LEY.</small>
+#### SECCION III. FRENOS
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2009)</small>
+###### ARTICULO 33.
 
-XL. Crear y sostener un sistema estatal de estímulos para estudiantes del Estado, destacados a nivel estatal, nacional e internacional, en cualesquiera de las ramas del quehacer humano, con base en la partida presupuestal que determine el Poder Legislativo del Estado;
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XLI. Promover la creación y dirigir el funcionamiento de un ente gubernamental en el Estado encargado de promover el fortalecimiento, preservación y desarrollo de las lenguas indígenas que se hablen en el territorio estatal, así como de la difusión del conocimiento y disfrute de la riqueza cultural de los grupos étnicos tarahumara, pima, tepehuano y guarojío, asentados en la Entidad, a efecto de facilitarles el acceso y permanencia a la educación en general y a la formación para la vida, el trabajo y la productividad.
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2012)</small>
+###### ARTICULO 34.
 
-XLII. Establecer los mecanismos e instrumentos debidamente reglamentados, que permitan garantizar la atención médica o psicológica al alumnado menor de edad cuando dicha necesidad sea detectada, cualquiera que haya sido su origen, y para el buen desempeño de sus actividades escolares; así como la cobertura de todos aquellos daños causados a las instalaciones, equipos y material de los centros escolares de educación básica.
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
-> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2012)</small>
+###### ARTICULO 35.
 
-XLIII. Coadyuvar en la actualización y vigilar la aplicación del Sistema de Competencias Educativas.
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### ARTÍCULO 14.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-La Autoridad Educativa Estatal procurará, en forma permanente, ampliar, mejorar y modernizar los servicios educativos que, por disposición de la Ley, queden bajo su jurisdicción y competencia, según los objetivos establecidos en el Programa Estatal de Educación, así como los que se desprendan de las distintas evaluaciones que se realicen al Sistema Educativo Estatal.
+#### SECCION IV. OTROS DISPOSITIVOS
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 36.
 
-#### SECCIÓN III. DE LOS AYUNTAMIENTOS
+Los titulares de los departamentos de tránsito municipales tendrán la facultad de solicitar, a la Secretaría de Hacienda, la cancelación de licencias o permisos de conducir, lo cual deberá notificarse al Ayuntamiento respectivo, remitiéndole las infracciones cometidas y actas levantadas. Inmediatamente después, el Ayuntamiento notificará al titular de las licencias, a fin de que dentro del término de quince días hábiles, manifieste lo que a su derecho convenga, formulando su defensa.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Vencido el término señalado en el párrafo anterior, el Ayuntamiento resolverá en definitiva y lo notificará dentro de los cinco días hábiles siguientes al titular de la licencia. Contra esta resolución no procede recurso administrativo alguno.
 
-###### ARTÍCULO 15.
+La sanción de cancelación de la licencia es independiente de las multas que por las infracciones que le dieron motivo, se hayan aplicado.
 
-Los ayuntamientos podrán, sin perjuicio de la educación que imparte el Estado, promover y prestar servicios en todos sus niveles, tipos o modalidades, ajustándose a sus propios recursos y tendrán, además, las siguientes facultades y obligaciones:
+###### ARTICULO 37.
 
-I. Formar parte del Consejo Municipal de Participación Social en la Educación, en los términos del artículo 130 de esta Ley;
+Cancelada una licencia, se hará del conocimiento de la Tesorería General del Estado, y se notificará al titular para que haga entrega de la licencia, dentro de los cinco días hábiles siguientes, procediendo a comunicar la cancelación a las autoridades de tránsito.
 
-II. Promover el mantenimiento y dotación de equipo a las escuelas públicas, destinando recursos etiquetados para tal efecto y los que acuerden con el Poder Ejecutivo Estatal a través de la Secretaría de Planeación y Evaluación en base a las recomendaciones de los Consejos Municipales de Evaluación;
+La cancelación de licencias de operadores de servicio público de transporte deberá comunicarse además a la Dirección de Transporte del Estado.
 
-III. Promover e impulsar programas de alfabetización, educación para adultos, educación para y en el trabajo y la productividad;
+En caso de que no se entregue la licencia, se hará del conocimiento del Ministerio Público denunciando la comisión del ilícito correspondiente, para los efectos legales conducentes.
 
-IV. Editar libros e introducir otros materiales didácticos, distintos a los libros de texto gratuito;
+#### SECCION I. DISPOSICIONES PRELIMINARES
 
-V. Promover permanentemente la investigación que sirva como base a la innovación educativa;
+###### ARTICULO 38.
 
-VI. Impulsar el desarrollo de la investigación científica y tecnológica;
+Cuando se recoja una licencia en los términos del Artículo 34, Fracción III de esta Ley, deberá remitirse inmediatamente al Departamento de Tránsito respectivo para que le sea entregada al conductor una vez que haya liquidado la multa y se registre la infracción para su control y efectos estadísticos.
 
-VII. Establecer y sostener los servicios de seguridad pública en el entorno de los planteles educativos, en coordinación con las autoridades escolares;
+#### SECCION II. CONDUCCION DE VEHICULOS DE MOTOR
 
-VIII. Promover y coordinar con las autoridades educativas, la realización de programas de educación para la salud y protección del medio ambiente;
+###### ARTICULO 39.
 
-IX. Otorgar estímulos y distinciones a las y los trabajadores de la educación adscritos en los planteles de su jurisdicción, que se distingan por su desempeño, preparación profesional o antigüedad;
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
-X. Otorgar becas a las y los educandos que no cuenten con los recursos económicos para continuar sus estudios, con el objeto de garantizar su permanencia dentro del Sistema Educativo Estatal;
+###### ARTICULO 40.
 
-XI. Crear, organizar y dirigir bibliotecas, hemerotecas, casas de cultura, museos y otros similares, que contribuyan al acrecentamiento del acervo cultural de las y los educandos y público en general;
+Los vehículos, para los efectos de esta Ley se clasifican:
 
-XII. Implementar programas de fomento cultural, recreación y deporte;
+I.- Por el servicio a que están destinados:
 
-XIII. Apoyar en la gestión que permita ampliar la calidad y la cobertura de los servicios educativos de su región;
+1.- Particulares, para uso exclusivo de sus propietarios, así como para el transporte de sus empleados o la carga de sus negocios.
 
-XIV. Las demás que le señalen las leyes.
+2.- Público, para uso público del servicio de transporte de pasajeros y carga, mediante concesión otorgada en los términos de ley.
 
-El Gobierno del Estado y los ayuntamientos podrán celebrar convenios para coordinar o unificar sus actividades educativas y cumplir de mejor manera las responsabilidades a su cargo.
+3.- Oficiales, para uso de dependencias públicas federales, estatales o municipales.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+4.- Comerciales, destinados a la venta al público como mercancía por negociaciones mercantiles en el ramo de automóviles.
 
-#### SECCIÓN I. DE LA EDUCACIÓN INICIAL
+5.- De emergencia, destinados exclusivamente al servicio de bomberos, hospitales y de policía federal, estatal y municipal.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+II.- Por su peso:
 
-### CAPITULO III. DE LOS SERVICIOS EDUCATIVOS
+1.- Ligeros hasta 3,500 kilogramos
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+a) Bicicletas y triciclos
 
-###### ARTÍCULO 16.
+b) Motocicletas
 
-La prestación del servicio público de educación, estará a cargo del Poder Ejecutivo por conducto de la dependencia que determine la Ley.
+c) Automóviles
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+d) Pick up
 
-###### ARTÍCULO 17.
+2.- Pesados con más de 3,500 kilogramos:
 
-El establecimiento de instituciones educativas que realice el Poder Ejecutivo Estatal por conducto de otras dependencias de la administración pública estatal, así como la formulación de planes y programas de estudio para dichas instituciones, se harán en coordinación con la Autoridad Educativa Estatal. Dichas dependencias expedirán constancias, certificados, diplomas y títulos que tendrán validez correspondiente a los estudios realizados.
+a) Autobuses, camiones de 2 o más ejes
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+b) Tractores con semirremolque
 
-###### ARTÍCULO 18.
+c) Vehículos agrícolas
 
-Es responsabilidad de la Autoridad Educativa Estatal realizar una distribución oportuna, completa, amplia y eficiente de los libros de texto gratuitos y materiales educativos complementarios que la Secretaría de Educación Pública les proporcione.
+d) Camiones con remolque
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+e) Equipo especial movible.
 
-###### ARTÍCULO 19.
+> <small>(ADICIONADO, B.O. 6 DE JULIO DE 1995)</small>
 
-Las autoridades educativas y escolares proporcionarán a los docentes los medios que les permitan realizar eficazmente su labor y que contribuyan a su constante perfeccionamiento.
+En las vías de jurisdicción estatal, los vehículos destinados al servicio público o privado de transporte, deberán cumplir con las condiciones de peso en los términos que establezca el Reglamento correspondiente.
 
-Para ejercer la docencia en instituciones establecidas por el Estado, ayuntamientos, organismos descentralizados y particulares con autorización o reconocimiento de validez oficial de estudios, los docentes deberán satisfacer los requisitos que, en su caso, señalen los ordenamientos legales.
+III.- Por su tipo:
 
-El Gobierno del Estado procurará:
+1.- Motocicletas de más de 50 centímetros cúbicos
 
-I. Otorgar un salario profesional para que los docentes de los planteles del propio Estado alcancen un nivel de vida decoroso para su familia; puedan arraigarse en las comunidades en las que trabajen y disfruten de vivienda digna; así como para que dispongan del tiempo necesario para la preparación de sus clases y para su superación profesional;
+2.- Automóviles
 
-II. Establecer y apoyar con recursos financieros que propicien la permanencia de los docentes frente a grupo, con las posibilidades para éstos de obtener mejores condiciones de vida y mayor reconocimiento social;
+a) Convertibles
 
-III. Otorgar estímulos y distinciones a los trabajadores de la educación que se destaquen en el ejercicio de su profesión y, en general, realicen actividades que propicien mayor aprecio social por la labor desempeñada.
+b) Deportivo
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+c) Sedán (2 y 4 puertas)
 
-###### ARTÍCULO 20.
+e) (sic) Vagoneta (hasta 9 plazas)
 
-Las autoridades educativas, en sus respectivas competencias, revisarán permanentemente las disposiciones, los trámites y procedimientos, con objeto de simplificarlos para reducir las cargas administrativas de los docentes con el fin de alcanzar más horas efectivas de clase y, en general, de lograr la prestación del servicio educativo con mayor pertinencia y de manera más eficiente.
+f) Panel
 
-En las actividades de supervisión las autoridades educativas darán preferencia a la asesoría técnica, didáctica y de gestión escolar para el adecuado desempeño de la función directiva y docente.
+g) Otros
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+3.- Pick up
 
-###### ARTÍCULO 21.
+a) De caja abierta
 
-Las negociaciones o empresas a que se refiere la fracción XII del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, están obligadas a establecer y sostener escuelas cuando el número de educandos que las requieran sea mayor de veinte. Estos planteles quedarán bajo la dirección administrativa de la Autoridad Educativa Estatal.
+b) De caja cerrada (furgoneta)
 
-Las escuelas que se establezcan en cumplimiento de la obligación prevista en el párrafo anterior, contarán con edificio, instalaciones y demás elementos necesarios para realizar su función, en los términos que señalen las disposiciones aplicables.
+4.- Minibuses (de 30 pasajeros en adelante)
 
-El sostenimiento de dichas escuelas comprende la obligación patronal de proporcionar las aportaciones para la remuneración del personal y las prestaciones que dispongan las leyes y reglamentos, que no serán inferiores a las que otorgue la Autoridad Educativa Estatal en igualdad de circunstancias. El Ejecutivo del Estado podrá celebrar con los patrones convenios para el cumplimiento de las obligaciones que señala el presente artículo.
+5.- Autobuses (de 44 pasajeros en adelante)
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+6.- Camiones unitarios
 
-###### ARTÍCULO 22.
+a) De caja
 
-El Gobierno del Estado procurará, de manera concurrente con la Federación, en la medida en que resulte posible:
+b) De plataforma
 
-I. Proveer, con sujeción a las correspondientes leyes de ingresos y presupuesto de egresos, la asignación de recursos presupuestales en forma creciente, procurando que en términos reales el gasto educativo crezca, se oriente racionalmente y se distribuya eficientemente;
+c) De redilas
 
-II. Asignar más recursos, en tiempo y forma, a la atención de las comunidades de aprendizaje que presenten mayor rezago educativo;
+d) Refrigerador
 
-III. Proveer recursos especiales para mejorar la eficiencia terminal y la calidad educativa;
+e) Tanque
 
-IV. Destinar los recursos federales etiquetados que reciba para la prestación de servicios educativos, exclusivamente para este fin.
+f) Tractor
 
-> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2010)</small>
+g) De volteo
 
-V. Crear los órganos de consulta de las autoridades, de conformidad a lo establecido por los artículos 10, fracción III y 11, fracción IV, de la Ley General de Educación.
+h) Otros
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+7.- Remolque y Semirremolque
 
-###### ARTÍCULO 23.
+a) Con caja
 
-El Ejecutivo Estatal gestionará, ante otros niveles de Gobierno, la ampliación de las partidas que se canalicen al Estado, tanto para enfrentar los problemas de eficiencia terminal, como para elevar la calidad o el desarrollo de investigación, evaluación, diagnóstico, planeación e innovación de los procesos educativos, así como la actualización de los trabajadores de la educación para atender la demanda educativa.
+b) De cama baja
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+c) Habitación
 
-###### ARTÍCULO 24.
+d) Jaula
 
-En cumplimiento de lo dispuesto en los artículos anteriores de este capítulo, la Autoridad Educativa Estatal tomará en cuenta el carácter prioritario de la educación pública para los fines del desarrollo nacional, estatal y regional.
+e) Plataforma
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+f) Para postes
 
-### CAPÍTULO IV. DEL SISTEMA EDUCATIVO ESTATAL
+g) Refrigerador
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+h) Tanque
 
-### CAPÍTULO V. DE LA CALIDAD, LA EQUIDAD Y LA FUNCIÓN SOCIAL DE LA EDUCACIÓN
+i) Tolva
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+j) Góndola
 
-###### ARTÍCULO 25.
+k) Otros
 
-El Sistema Educativo Estatal está constituido por los servicios educativos que en cualquier tipo, nivel y modalidad presten la Autoridad Educativa Estatal, los ayuntamientos, los organismos descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios.
+8.- Diversos
 
-Son elementos del Sistema Educativo Estatal:
+a) Ambulancias
 
-I. Los educandos, los docentes y personal de apoyo y asistencia a la educación;
+b) Carrozas
 
-II. Las autoridades educativas;
+c) Grúas
 
-III. Los planes, programas, métodos y materiales educativos;
+d) Transporte de automóviles
 
-IV. Los bienes y recursos destinados a la educación y a la investigación;
+e) Con otro equipo especial
 
-V. Las instituciones educativas dependientes del Estado, los ayuntamientos y organismos descentralizados;
+IV.- Por su agrupamiento:
 
-VI. Las instituciones de educación superior a las que la Ley otorga autonomía;
+1.- Sencillos
 
-VII. Las instituciones de los particulares con autorización o reconocimiento de validez oficial de estudios;
+2.- Combinados
 
-VIII. Las instituciones de formación para el trabajo o las de cualquier otro tipo y modalidad que se imparta de acuerdo con las necesidades educativas de la población y las características del grupo que la integra; y
+V.- Por el número de ejes:
 
-IX. Las demás formas de organización establecidas o reconocidas por esta Ley.
+1.- Unidad sencilla de 2 ejes
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+2.- Unidad sencilla de 3 ejes
 
-###### ARTÍCULO 26.
+3.- Unidad sencilla de 4 ejes
 
-El Sistema Educativo Estatal comprende:
+4.- Combinación de tractor de 2 ejes y semirremolque de 1 y 2 ejes
 
-a) Educación inicial;
+5.- Combinación de tractor de 3 ejes y semirremolque de 1 y 2 ejes
 
-b) Educación preescolar;
+6.- Combinación de camión de 2 y 3 ejes con remolque de 2 ejes
 
-c) Educación primaria;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-d) Educación secundaria;
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-e) Educación indígena;
+VI.- Por el tipo de propulsión:
 
-f) Educación especial;
+a).- De propulsión mecánica.
 
-g). Educación física;
+b).- De propulsión eléctrica.
 
-h) Educación artística;
+c).- De propulsión animal.
 
-i) Educación tecnológica;
+d).- De propulsión humana
 
-j) Educación para adultos;
+e).- Otros de propulsión sin motor.
 
-k). Educación para y en el trabajo y la productividad;
+###### ARTICULO 41.
 
-l) Educación media superior; y
+Para circular en el Estado de Sonora, todo vehículo debe reunir los siguientes requisitos:
 
-m) Educación superior.
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], B.O. 27 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+I.- Portar los elementos de identificación vehicular a que hace referencia la Ley de Control Vehicular para el Estado de Sonora.
 
-###### ARTÍCULO 27.
+a).- De los expedidos por la Secretaría de Hacienda del Estado, tratándose de vehículos de propulsión mecánica.
 
-Tipos y modalidades del Sistema Educativo Estatal:
+La Secretaría de Hacienda del Estado cuando las circunstancias lo justifiquen, podrá expedir a los propietarios de los vehículos, permisos por tiempo determinado para transitar sin los elementos de identificación vehicular.
 
-I. Del Tipo Básico: Está integrado por los niveles preescolar, primaria y secundaria los cuales son consecutivos y seriales.
+b).- De las expedidas por otros Estados de la República, siempre y cuando se encuentren vigentes.
 
-La educación básica, en sus tres niveles, tendrá las adaptaciones requeridas para responder a las características lingüísticas y culturales de los diversos pueblos y comunidades indígenas del Estado, así como de la población rural dispersa y grupos migratorios.
+c).- De las expedidas anualmente por los ayuntamientos de los municipios del Estado, a través de sus respectivas Tesorerías municipales, en el caso de vehículos de propulsión sin motor.
 
-II. Del Tipo Medio Superior: Es el que se imparte después de la secundaria y se integra por el nivel de bachillerato, sus equivalentes, así como la educación profesional que no requiere bachillerato o sus similares.
+Las tesorerías municipales estarán facultadas para expedir a los propietarios de los vehículos a que se refiere el párrafo anterior, justificadamente, permisos por tiempo determinado para transitar sin los elementos de identificación vehicular.
 
-III. Del Tipo Superior: Es el que se imparte después del bachillerato o de sus equivalentes. Está integrado por los grados académicos de licenciatura, especialización, maestría, doctorado y el posdoctorado, así como por opciones terminales previas a la conclusión de la licenciatura. Comprende la educación normal en todos sus niveles y especialidades, así como la tecnológica y universitaria.
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
-IV. En el Sistema Educativo Estatal queda comprendida la educación inicial, la educación especial, la educación para adultos, la educación indígena, la educación tecnológica y la educación física e inclusive, se podrá impartir educación con programas o contenidos particulares para atender estas necesidades de la población.
+II.- Ostentar adheridas en el cristal, las calcomanías correspondientes a la revalidación anual de placas y al revisado del vehículo.
 
-V. Toda la educación con carácter terminal que se imparta en institutos o academias, sin importar el tipo, deberá tener como antecedente inmediato la educación secundaria.
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2019)</small>
 
-VI. Los servicios educativos deberán prestarse de manera que el educando no tenga problemas de adaptación y se le garantice la continuidad de su formación y el tránsito de un nivel a otro.
+III.- Los vehículos de emergencia y oficiales, aun cuando ostenten los signos que los identifiquen plenamente como tales, están obligados a transitar al amparo de portar los elementos de identificación vehicular.
 
-La educación a la que se refieren las fracciones anteriores podrá tener las modalidades de escolarizada, no escolarizada y mixta.
+IV.- Los señalados en el Artículo 52 de esta Ley.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(ADICIONADA, B.O. 7 DE MAYO DE 1992)</small>
 
-###### ARTÍCULO 28.
+V.- Haber aprobado, en el caso de los vehículos de propulsión mecánica, el examen de verificación de emisiones contaminantes, en los términos de la ley de la materia, debiendo portar en lugar visible la calcomanía que por este efecto se expida.
 
-El personal docente y de apoyo y asistencia a la educación que labore en los diferentes tipos, niveles y modalidades educativos, deberán satisfacer los requisitos que, en su caso, señalen los ordenamientos legales en la materia.
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Los vehículos destinados al servicio público o privado de transporte para circular en vías de jurisdicción estatal, deberán cumplir con las condiciones de peso, dimensiones, capacidad y otras especificaciones en los términos que establezca el Reglamento que al efecto expedirá el Ejecutivo Estatal.
 
-###### ARTÍCULO 29.
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
 
-En todas las instituciones del tipo básico, deberán integrarse los organismos que a continuación se mencionan y funcionarán de acuerdo a la normatividad correspondiente:
+###### ARTICULO 42.
 
-I. El consejo técnico-escolar, es un órgano colegiado y consultivo de la dirección del plantel. Es responsabilidad de este consejo realizar sistemática y permanentemente funciones de evaluación y seguimiento del proceso enseñanza-aprendizaje;
+La obtención (sic) los elementos de identificación vehicular en los casos de vehículos nuevos o usados, deberá realizarse dentro de los quince días hábiles siguientes al de la fecha de adquisición o del pedimento de importación definitivo a la zona fronteriza o al interior del País o de la baja de placas.
 
-II. En las secundarias funcionarán además las academias por asignaturas;
+Tratándose de vehículos provenientes de otras entidades federativas cuyos propietarios establezcan su domicilio en el Estado de Sonora, tienen de plazo para adquirirlas hasta el 31 de enero del año siguiente al de dicho cambio.
 
-III. El consejo escolar de participación social;
+Las placas que se expidan para la circulación de vehículos tendrán el carácter de permanentes y deberán revalidarse anualmente, durante los tres primeros meses del año de calendario.
 
-IV. La asociación de padres y madres de familia; y
+###### ARTICULO 43.
 
-V. La asociación de alumnas y alumnos en los niveles de primaria y secundaria.
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2012)</small>
+###### ARTICULO 44.
 
-###### ARTÍCULO 30.
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
-En la impartición de educación para menores de edad, se tomarán medidas que aseguren a las y los educandos la protección y el cuidado necesarios para preservar su integridad física, psicológica, social y cultural sobre la base del respeto a la dignidad y a los derechos humanos.
+#### SECCIÓN III. CONDUCCIÓN DE BICICLETAS
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### ARTÍCULO 31.
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-Las y los beneficiarios por los servicios educativos de educación media superior terminal y superior, deberán prestar servicio social, en los casos y términos que señalen las disposiciones reglamentarias correspondientes. En éstas, se preverá la prestación de servicio social como requisito previo para obtener título o grado académico, el cual deberá ser remunerativo y se regirá por los principios de responsabilidad social, reciprocidad, participación ciudadana y solidaridad.
+###### ARTICULO 45.
 
-Cuando el servicio social absorba totalmente las actividades del estudiante o del profesionista, la remuneración respectiva deberá ser suficiente para satisfacer decorosamente sus necesidades.
+Los vehículos oficiales deberán ostentar, en lugar visible de sus portezuelas, leyendas que identifiquen la dependencia pública a que pertenezcan.
 
-Las instituciones educativas podrán concertar acciones y establecer convenios con el Gobierno del Estado, los municipios e iniciativa privada, para que sus estudiantes, acorde con su formación, presten servicio social en instituciones públicas o privadas en zonas urbanas, comunidades rurales, marginadas y zonas de bajo desarrollo; así como en las zonas con asentamientos indígenas de la Entidad.
+Los vehículos propiedad particular de los funcionarios y empleados públicos, no podrán ser considerados como oficiales.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 46.
 
-###### ARTÍCULO 32.
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
-Las escuelas de nueva creación llevarán el nombre que designe o elija la Autoridad Educativa Estatal, de una terna propuesta por el Consejo Técnico del plantel; tratándose de nombres de personas, sólo figurarán las ya fallecidas y que hubieran prestado destacados servicios a la sociedad.
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 47.
 
-#### SECCIÓN II. DE LA EDUCACIÓN PREESCOLAR
+Las (sic) elementos de identificación vehicular son intransferibles. Las placas de circulación permanecerán en el vehículo hasta en tanto éste se enajene, caso en el cual, deberán entregarse en la Agencia Fiscal respectiva para su baja, previo el pago de derechos correspondientes.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 48.
 
-###### ARTÍCULO 33.
+Todo vehículo que cambie de propietario, de uso o destino, debe ser dado de baja en la Agencia Fiscal de su domicilio, dentro del término de quince días, utilizando las formas oficiales que al efecto éstas proporcionen. En igual término, contado a partir de efectuada la baja, deberá ser dado de alta, acompañando además de los requisitos especiales que se señalen, copia de la baja correspondiente.
 
-La educación inicial está dirigida a la población infantil desde los cuarenta y cinco días de su nacimiento hasta menos de tres años; se imparte en centros de desarrollo infantil, estancias infantiles, albergues escolares e instituciones similares, incluye orientación a padres y madres de familia y tutores para la educación de sus hijos o pupilos. Además:
+Tratándose de vehículos destinados a la prestación del servicio público de transporte, dentro del mismo término, deberán notificarlo a la Dirección de Transporte del Estado.
 
-I. Las instalaciones deben cumplir con los requerimientos técnicos, pedagógicos, de higiene y de seguridad que la Autoridad Educativa Estatal determine.
+Al ser dado de baja el vehículo, deberá acreditarse no tener adeudo por concepto de multas de tránsito, así como derechos que se generen por la explotación del servicio público de transporte, en su caso. La certificación respectiva se asentará en el espacio destinado para ello en las formas oficiales a que se refiere el primer párrafo de este Artículo.
 
-II. El personal adscrito a este servicio deberá acreditar el perfil correspondiente de acuerdo con la función, cumpliendo con los ordenamientos legales en la materia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
-###### ARTÍCULO 34.
+Con el aviso de baja, deberán liquidarse todos los impuestos y derechos vehiculares que estuvieren pendientes de pago.
 
-Los servicios de educación inicial se sujetarán a los lineamientos generales expedidos por la Secretaría de Educación Pública.
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 49.
 
-###### ARTÍCULO 35.
+En caso de extravío de una o ambas placas de circulación, deberá darse aviso de este hecho al Departamento de Tránsito Municipal, proporcionando todos los datos que se consideren convenientes y que sirvan para acreditar el extravío o para formalizar la averiguación penal que pudiese resultar.
 
-Son propósitos de la educación inicial:
+La copia del aviso, sellada de recibido por el Departamento de Tránsito Municipal, servirá de resguardo al interesado hasta por un término de quince días, transcurrido el cual deberá dar de baja el número de placas de circulación y recabar un nuevo juego, previo el pago de los derechos de expedición.
 
-I. Promover el desarrollo integral de las niñas y de los niños, favoreciendo la salud, alimentación, higiene y protección a través de distintas situaciones y oportunidades para ampliar y consolidar su estructura básica de desarrollo personal, social, cultural, lenguaje, comunicación, exploración y conocimiento del medio;
+###### ARTICULO 50.
 
-II. Estimular, incrementar y orientar la curiosidad de las niñas y de los niños, para iniciarlos en el conocimiento, respeto y comprensión de la naturaleza y reconocimiento social de la sexualidad desde una perspectiva de género;
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
-III. Lograr que los padres, las madres de familia y los tutores participen en la educación de sus hijas, hijos o pupilos, e incrementar el capital cultural en relación con las prácticas dirigidas a la adquisición de las competencias básicas de desarrollo de las (sic) población infantil en un proceso de colaboración y complementariedad entre los centros de aprendizaje y la institución familiar;
+#### SECCION III BIS. CONDUCCIÓN DE MOTOCICLETAS
 
-IV. Brindar a la niñez los servicios médicos, sicológicos, de trabajo social, pedagógicos, de nutrición y generales a través de personal especializado con una perspectiva interdisciplinaria; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V. Desarrollar propuestas de interacción en la familia y en la comunidad basadas en el respeto a los derechos humanos, que contribuyan a eliminar el uso de castigos físicos y sicológicos hacia los niños y las niñas.
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+ARTICULO 123 BIS.- Todo conductor de motocicleta tiene los mismos derechos y está sujeto a las mismas obligaciones que para los demás conductores de vehículos de motor señala esta Ley, excepto las que por su naturaleza no le sean aplicables.
 
-#### SECCIÓN III. DE LA EDUCACIÓN PRIMARIA
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 36.
+ARTICULO 123 BIS 1.- Quien conduzca una motocicleta deberá ir debidamente sentado en un asiento sujeto a la estructura y diseñado para tal fin, viendo hacia adelante y manteniendo ambas manos sujetando el manubrio.
 
-La educación preescolar se impartirá a niños y a niñas, de tres a cinco años en jardines de niños, albergues escolares e instituciones similares, cualquiera que sea su denominación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 37.
+ARTICULO 123 BIS 2.- En las motocicletas podrán viajar únicamente el número de personas que ocupen asientos especialmente acondicionados para tal objeto.
 
-La educación preescolar es eminentemente formativa y consiste en promover el desarrollo y fortalecimiento de las competencias que cada niño posee, para enfrentar con éxito los retos en los distintos ámbitos en los que se desenvuelve.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-El inicio del trabajo sistemático para el desarrollo de competencias se inicia en el jardín de niños y continúa en los niveles subsecuentes porque constituyen los fundamentos del aprendizaje y desarrollo personal que permiten formar personas seguras de sí mismas, autónomas, creativas y participativas. Además debe considerar:
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-I. Brindar a las niñas y a los niños los servicios médicos, sicológicos, de trabajo social, de nutrición y generales;
+ARTICULO 123 BIS 3.- Ninguna persona que conduzca una motocicleta podrá llevar carga de cualquier naturaleza si ésta no es transportada en lugar especialmente acondicionado para ello y no se afecte su estabilidad ni la visibilidad del conductor.
 
-II. Promover, extracurricularmente, el aprendizaje de una lengua extranjera, preferentemente el idioma inglés;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III. Utilizar la informática y los avances científicos y tecnológicos como herramientas para facilitar el aprendizaje de las y los niños; y
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-IV. Alcanzar los propósitos que señala el programa vigente.
+ARTICULO 123 BIS 4.- Ninguna persona que conduzca una motocicleta deberá asirse o sujetarse de bicicleta, vehículo automotor o ningún otro vehículo que transite en la vía pública.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-#### SECCIÓN IV. DE LA EDUCACIÓN SECUNDARIA
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+ARTICULO 123 BIS 5.- Toda persona que conduzca una motocicleta, así como sus acompañantes, están obligados a usar casco protector que cumpla con los requerimientos de seguridad para su conducción, así como de parabrisas o anteojos protectores o algún dispositivo similar.
 
-###### ARTÍCULO 38.
+###### ARTICULO 51.
 
-Este nivel educativo deberá estimular las habilidades necesarias de las y los niños para el aprendizaje permanente, procurando que la construcción de conocimientos esté asociado con el ejercicio de habilidades intelectuales básicas para localizar, procesar y analizar información, fomentar el aprendizaje autodidacta, desarrollar competencias para la solución de problemas, toma de decisiones, y apreciar el alcance del desarrollo científico, tecnológico, artístico y humanista.
+El extravío o destrucción de la tarjeta de circulación, dá lugar a la expedición de un duplicado por parte de la Agencia Fiscal correspondiente, previo el pago de los derechos que ello cause.
 
-Tendrá las siguientes particularidades:
+###### ARTICULO 52.
 
-I. Proporcionar a las y los educandos las bases para el ejercicio de sus derechos y el cumplimiento de sus deberes con una perspectiva de género;
+Los vehículos procedentes del extranjero o de zonas libres fiscales, deberán ampararse además de sus placas y tarjeta de circulación de origen, con el permiso de las autoridades aduanales correspondientes, para que puedan circular por el Estado de Sonora.
 
-II. Se sujetará, en los diversos grados, al plan y programas de estudio de la Secretaría de Educación Pública, incorporando a ellos, previa autorización, los contenidos regionales necesarios para el mayor conocimiento del Estado;
+###### ARTICULO 53.
 
-III. Promover e impulsar el aprendizaje de una lengua extranjera, preferentemente el idioma inglés, así como la apropiación de los avances tecnológicos y científicos;
+Todo vehículo que transite por la vía pública deberá encontrarse en condiciones satisfactorias de funcionamiento y provisto de los dispositivos que exige la presente Ley y demás ordenamientos aplicables, salvo aquellos que se señalen como opcionales.
 
-IV. Proporcionar a las y los educandos las bases para el ejercicio de sus derechos y el cumplimiento de sus deberes con una perspectiva de género;
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 7 DE MAYO DE 1992)</small>
 
-V. Está dirigida a niñas y niños a partir de los seis años de edad al día treinta y uno de diciembre del año de inicio del ciclo escolar de su inscripción y que hayan acreditado la educación preescolar; y
+Así también estarán obligados a presentar los vehículos para la verificación de emisiones contaminantes en los centros que para ese efecto autorice la autoridad que corresponda, en los tiempos y formas que marque el reglamento respectivo, o dentro de los treinta días siguientes a su adquisición, cuando ésta se efectúe fuera de la fecha que le correspondiera.
 
-VI. Fomentar el conocimiento de las etnias para propiciar el respeto a su cultura, impulsar un trato de equidad y combatir su marginación;
+###### ARTICULO 54.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Faros principales delanteros:
 
-#### SECCIÓN V. DE LA EDUCACIÓN INDÍGENA
+a).- Los vehículos de motor de 4 o más ruedas deberán estar provistos cuando menos de 2 faros principales delanteros que cuando estén encendidos, emitan una luz blanca, colocados simétricamente y al mismo nivel, uno a cada lado del frente del vehículo y lo más alejado posible de la línea del centro.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Estos faros deberán estar de tal manera conectados, que el conductor pueda seleccionar con facilidad y en forma automática dos distribuciones de luz, proyectadas a elevaciones distintas y que satisfagan los siguientes requisitos:
 
-###### ARTÍCULO 39.
+Luz baja, deberá hacer una distribución de tal manera compuesta que permita ver personas y vehículos a una distancia no menor de 30 metros al frente. Ninguno de los rayos del haz luminoso, deberá incidir en los ojos de algún conductor que se acerque en sentido contrario.
 
-La educación secundaria es componente fundamental y etapa final de la educación básica obligatoria y pretende consolidar los conocimientos, las habilidades, las actitudes y valores, mediante el desarrollo de competencias básicas en los estudiantes, para seguir aprendiendo a lo largo de su vida y actuar con responsabilidad consigo mismo, con la naturaleza y con la comunidad a partir del contexto nacional pluricultural y de la especificidad de cada contexto regional, estatal y comunitario.
+Luz alta, deberá hacer una distribución de tal modo y de tal intensidad, que bajo todas las condiciones de carga permitan ver personas y vehículos a una distancia no menor de 100 metros hacia el frente.
 
-Debe articularse con los niveles de preescolar y primaria para conformar un solo ciclo formativo con propósitos rectores, prácticas pedagógicas congruentes y formas de organización que contribuyan al desarrollo de las y los educandos y a su formación integral.
+b).- Los vehículos estarán equipados con un indicador de luces que deberá prenderse siempre que esté en uso la luz alta y permanecer apagado bajo cualquiera otra circunstancia. Este indicador deberá estar de tal manera colocado en el tablero, que sea fácilmente visible por el conductor del vehículo y que no lo deslumbre.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### ARTÍCULO 40.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-En el Estado funcionarán escuelas de educación secundaria:
+###### ARTICULO 55.
 
-I. Generales.
+Los vehículos de bomberos, de policía y tránsito, ambulancias, protección civil y otros de emergencia autorizados, así como los vehículos destinados al mantenimiento de los servicios urbanos y limpieza de la vía pública, deberán estar provistos de una lámpara cuyo giro sea de 360 grados y que proyecte una luz roja visible a una distancia no menor de 150 metros, bajo la luz solar. La lámpara deberá ir montada en la parte más alta del vehículo.
 
-II. Técnicas.
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
 
-Las zonas con población distante, dispersa y en condiciones de marginación, deberán contar por lo menos con la telesecundaria; la operación de esta modalidad estará de acuerdo a la normatividad que la reglamenta.
+Los vehículos oficiales de seguridad pública, además de la luz giratoria, podrán utilizar otras lámparas de color azul, combinadas con la anterior y que serán exclusivas de esta función.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Estos dispositivos no deberán ser utilizados en ninguna otra clase de servicio.
 
-###### ARTÍCULO 41.
+###### ARTICULO 56.
 
-La educación secundaria se impartirá a quienes hayan acreditado la educación primaria.
+Lámparas posteriores y reflectantes:
 
-En los centros educativos matutinos y vespertinos se registrará a las y los alumnos que acrediten tener menos de quince años al momento de la inscripción; para los de quince años o más, la educación secundaria se impartirá fundamentalmente en turno nocturno.
+a).- Todo vehículo automotor de 4 o más ruedas, deberá estar provisto cuando menos de 2 lámparas posteriores montadas de tal manera que cuando estén encendidas emitan una luz roja claramente visible desde una distancia de 300 metros atrás. En las combinaciones de vehículos, las únicas luces posteriores que deberán ser visibles, son las del vehículo colocadas en el último lugar. Estas luces deberán ir montadas simétricamente a un mismo nivel con la mayor separación que sea posible, con respecto a la línea del centro del vehículo.
 
-La secundaria abierta se sujetará a lo dispuesto por la reglamentación correspondiente.
+b).- Una de las lámparas posteriores o un dispositivo aparte, deberá estar construído y colocado de tal manera, que ilumine con luz blanca la placa posterior de identificación y que la haga claramente visible desde una distancia de 15 metros atrás. Las lámparas rojas posteriores y la luz blanca, deberán estar conectadas de tal manera que enciendan simultáneamente con los faros principales delanteros o las luces de estacionamiento;
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2010)</small>
+c).- Todo vehículo automotor de cuatro o más ruedas, deberá estar provisto en su parte posterior de 2 o más reflectores rojos, ya sea que formen parte de las lámparas posteriores o independientemente de las mismas.
 
-Para el mejor desarrollo y continua evolución del educando con necesidades educativas especiales asociadas o no a una discapacidad, se deberá proporcionar el apoyo en coordinación con la modalidad de educación especial.
+Dichos reflectantes deberán ser visibles por la noche desde cualquier vehículo que se encuentre a una distancia comprendida entre 30 y 100 metros, y la luz alta de los faros principales de dicho vehículo se proyecten directamente sobre ellos.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+d).- Todo vehículo automotor de 4 o más ruedas deberá estar provisto de un número par de lámparas indicadoras de frenaje que emitan una luz roja o ámbar al aplicar los frenos de servicio y visible bajo la luz solar normal desde una distancia no menor de 90 metros atrás, excepto los vehículos que fueron fabricados solamente con una de éstas lámparas. En combinaciones de vehículos solamente será necesario que las luces indicadoras de frenaje sean visibles en la parte posterior del último vehículo.
 
-###### ARTÍCULO 42.
+#### SECCION IV. CONSERVACION DE DISTANCIAS Y CARRILES
 
-La telesecundaria tiene como objetivo llevar a zonas con población dispersa, en condiciones de marginación, la educación secundaria, mediante el uso de la tecnología y de acuerdo con la normatividad establecida.
+###### ARTICULO 57.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Lámparas direccionales:
 
-###### ARTÍCULO 43.
+Todo vehículo automotor de 4 o más ruedas, deberá estar provisto de lámparas direccionales en el frente y en la parte posterior del vehículo o combinación de vehículos, que, mediante luces intermitentes, indiquen la intención de dar vuelta o cualquier otro movimiento para cambiar de dirección, alcanzar o adelantar otro vehículo. Tanto en el frente como en la parte posterior dichas lámparas deberán estar montadas simétricamente a un mismo nivel y separadas lateralmente tanto como sea posible. Las lámparas delanteras deberán emitir una luz blanca o ámbar y las posteriores color rojo o ámbar. Bajo la luz solar normal, estas luces deberán ser visibles desde una distancia no menor de 100 metros y podrán estar incorporadas o no a otras lámparas del vehículo.
 
-La Autoridad Educativa Estatal y los ayuntamientos, conjuntamente con la Autoridad Educativa Federal, tendrán la obligación de asignar presupuesto y la infraestructura necesaria para el servicio de telesecundaria.
+###### ARTICULO 58.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Equipo adicional de lámparas y reflectores obligatorios para determinados vehículos.
 
-###### ARTÍCULO 44.
+Además del equipo que exigen los artículos anteriores, los vehículos que se mencionan a continuación, deberán estar equipados en la forma que aquí se especifica:
 
-La educación secundaria se sujetará al plan y programas, acuerdos y demás disposiciones legales emitidas por la Secretaría de Educación Pública.
+a) Autobuses y camiones de 2 metros o más de ancho total:
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+En el frente, 2 lámparas de gálibo una de cada lado y 3 lámparas de identificación.
 
-#### SECCIÓN VI. DE LA EDUCACIÓN ESPECIAL
+En la parte posterior, 2 lámparas de gálibo una a cada lado y 3 lámparas de identificación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2010)</small>
+A cada lado, 2 lámparas demarcadoras, una cerca del frente y otra cerca de la parte posterior.
 
-###### ARTÍCULO 45.
+A cada lado, 2 reflectores, uno cerca del frente y otro cerca de la parte posterior.
 
-Servicio educativo mediante el cual se ofrece educación inicial, preescolar, primaria y secundaria a los niños y niñas indígenas con rasgos, formas de operación propios con un enfoque intercultural y bilingüe que garantice calidad, equidad y pertinencia a sus necesidades educativas y necesidades básicas de aprendizaje. Fomentando la creación de una cultura de la no violencia, así como el respeto a las demás personas y la igualdad entre hombres y mujeres.
+En la parte posterior, 2 reflectantes de gálibo, uno a cada lado sobre la carrocería simétricamente lo más alejado posible de la línea del centro del vehículo.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+b).- Vehículos escolares:
 
-###### ARTÍCULO 46.
+Deberán estar provistos de 2 lámparas delanteras que proyecten luz ámbar intermitente y 2 lámparas posteriores que emitan luz roja intermitente, que funcionen en todo tiempo cuando el vehículo escolar se encuentre detenido para recibir o dejar escolares. Estas lámparas, deberán estar colocadas simétricamente lo más alto y alejado posible de la línea del centro del vehículo.
 
-Tendrá las siguientes particularidades:
+c).- Remolques y Semirremolques:
 
-I. En la definición de los propósitos y contenidos educativos, así como los procesos que se realicen para lograrlos, se consultará a los pueblos y comunidades indígenas promoviendo la participación real, conforme a la manera tradicional de diálogo para la toma de decisiones.
+En el frente, 2 lámparas de gálibo, una de cada lado.
 
-II. (DEROGADA, P.O. 24 DE FEBRERO DE 2010)
+En la parte posterior, 2 lámparas de gálibo, una a cada lado y 3 lámparas de identificación.
 
-III. La Autoridad Educativa Estatal, en coordinación con las instancias correspondientes de la Secretaría de Educación Pública, buscará alternativas para promover instituciones en los niveles de educación media superior y superior en las regiones indígenas, que permitan el acceso de las y los alumnos y profesionales a estos niveles, y que ofrezcan entre otras opciones, educación terminal relacionada con su desarrollo y cultura. Estas instituciones, en sus programas de estudios, velarán por la preservación de los valores culturales de los grupos indígenas y de sus regiones.
+A cada lado, 2 lámparas demarcadoras, una cerca del frente y otra cerca de la parte posterior.
 
-IV. La educación indígena debe garantizar la articulación entre la educación inicial, preescolar, primaria, secundaria y consecuentemente, la continuidad y progresión del proceso educativo.
+A cada lado, 2 reflectantes, uno cerca del frente y otro cerca de la parte posterior.
 
-V. Promover que en la selección de los contenidos de aprendizaje se consideren, tanto aquellos propios de la educación básica, así como los que emerjan de la cultura comunitaria indígena, garantizando la vinculación y complementariedad entre sus etnosaberes y los saberes regionales, nacionales y universales.
+En la parte posterior, 2 reflectantes de gálibo uno a cada lado sobre la carrocería simétricamente lo más alejado posible de la línea del centro del vehículo.
 
-VI. Se debe reconocer el valor pedagógico y didáctico que representa el uso y la enseñanza de las lenguas indígenas y del español, como portadores de los símbolos de las culturas indígenas locales, nacionales, asegurando que los recursos didácticos sean seleccionados a partir de su congruencia con los propósitos y contenidos educativos, así como su pertinencia con las características de los procesos de enseñanza y aprendizaje que en cada aula se desarrollen.
+d).- Camiones:
 
-VII. Desde la educación indígena se debe impulsar la formación de docentes, así como del personal de apoyo y asistencia a la educación como un proceso integrado, sistemático y permanente, que garantice la continuidad y progresión de las acciones de formación inicial, de actualización y de capacitación académica y superación profesional, así como generar incentivos para el arraigo a la comunidad.
+En el frente 2 lámparas de gálibo colocadas una en cada extremo de la cabina y 3 lámparas de identificación que cumplan con las especificaciones señaladas en el último párrafo de este Artículo;
 
-VIII. La condición geográfica del Estado y la dispersión de los asentamientos de las etnias, obliga a la Autoridad Educativa Estatal a establecer instituciones de formación y capacitación docente en comunidades de fácil y difícil acceso para el personal del medio indígena y en las modalidades que garanticen su formación inicial y desarrollo profesional.
+e).- Vehículos agrícolas y de la construcción:
 
-IX. La Autoridad Educativa Estatal procurará que los docentes del medio indígena conozcan la cultura, hablen, escriban y faciliten el aprendizaje de las y los alumnos en su lengua materna.
+Todo tractor agrícola, implemento de labranza auto propulsado o remolcado y maquinaria para construcción, deberán estar provistos de 2 lámparas delanteras que cumplan con los requisitos del primer párrafo del inciso a) del Artículo 54 de esta Ley y también, cuando menos de 2 lámparas posteriores que al estar encendidas emitan una luz roja que satisfaga los requisitos del inciso a) del Artículo 56 de esta Ley, igualmente deberán estar provistos en su parte posterior de 2 o más reflectantes rojos. Tales lámparas y reflectantes deberán estar colocadas de tal modo que indiquen lo más aproximadamente posible visto desde atrás, el ancho máximo de la unidad o del conjunto;
 
-X. Los albergues escolares y Centros de Integración Social, tenderán a fortalecerse o reorientarse para que las y los educandos reciban los apoyos educativos y asistenciales que posibiliten, de manera permanente y equitativa, la consolidación de oportunidades de ingreso, permanencia y logro educativo.
+f).- Vehículos de tracción animal:
 
-XI. En la educación indígena, la Autoridad Educativa Estatal procurará garantizar el uso de las tecnologías de la información y la comunicación más avanzadas, como herramientas para favorecer el aprendizaje.
+Los vehículos de tracción animal, para circular por la noche, deberán estar provistos de 2 lámparas sordas o de combustión y de 2 reflectantes color ámbar, en la parte delantera; y de 2 reflectantes color rojo, en la parte posterior visibles a una distancia no menor de 100 metros.
 
-XII. La Autoridad Educativa Estatal y los ayuntamientos tienen la obligación de crear bibliotecas, hemerotecas, centros culturales y otros espacios, depositarias de los diversos acervos culturales en lenguas indígenas.
+Las lámparas de identificación deberán estar agrupadas formando una fila horizontal con su centro espaciado a una distancia no menor de 0.15 metros ni mayor de 0.30 metros y montada en la estructura permanente del vehículo tan cerca como sea posible de la línea vertical central; sin embargo, cuando la cabina del vehículo no tenga más de un metro de ancho, se estimará que una sola lámpara de identificación situada al centro de la cabina cumple con los requisitos ordenados para las lámparas delanteras de identificación.
 
-XIII. Se fomentarán y difundirán las actividades culturales y deportes tradicionales.
+###### ARTICULO 59.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Las lámparas delanteras de gálibo, las de identificación, las lámparas demarcadoras laterales y los reflectantes montados en el frente o a los lados cerca del frente de un vehículo, deberán emitir o reflectar un color ámbar.
 
-###### ARTÍCULO 47.
+Todos los dispositivos de luces o reflectantes montados en la parte posterior de cualquier vehículo, deberán emitir o reflectar luces de color rojo, salvo la luz de alto u otro dispositivo indicador que puede ser de color rojo, ámbar o amarillo y salvo también la luz que ilumina la placa de circulación que deberá ser blanca y la luz que emita la lámpara indicadora de retroceso que será blanca o de color ámbar.
 
-Los criterios para su impartición serán los siguientes:
+Siempre que se haga transporte en combinación de vehículos de motor remolcando a otros, no habrá necesidad de llevar encendidas las luces que, debido a su emplazamiento, queden obstruidas por otro vehículo de la combinación.
 
-a) Centros de educación inicial;
+###### ARTICULO 60.
 
-b) Centros de educación preescolar;
+Equipo opcional de lámparas:
 
-c) Escuelas albergues de educación indígena;
+a).- Cualquier vehículo automotor puede ir provisto con no más de 2 faros buscadores y sólo podrán dirigirlos cuando el vehículo esté parado de tal manera que, cuando cada uno de éstos faros buscadores esté encendido, deberá orientarse de modo que ninguna parte de haz luminoso vaya a dar al parabrisas, ventanas, espejo o alguno de los ocupantes de otro vehículo en circulación.
 
-d) Centros de Integración Social;
+b).- Cualquier vehículo de motor, puede ir provisto de no más de 2 faros de niebla montados al frente. Los faros de niebla encendidos, podrán utilizarse con las luces bajas de los faros principales delanteros.
 
-e) Escuelas primarias multigrado y de organización completa; y
+c).- Cualquier vehículo de motor puede ir provisto de no más de 2 lámparas auxiliares de conducción montadas en el frente, pero en ningún momento deberán estar situadas arriba del nivel normal de los faros principales.
 
-f) Escuelas secundarias e institucionales similares y particulares, cualquiera que sea su denominación.
+d).- Cualquier vehículo de motor puede ir provisto de no más de 2 lámparas laterales delanteras colocadas simétricamente y cuya altura no sobrepase la altura de los faros principales, que emitan una luz ámbar o blanca que no deslumbre.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+e).- Cualquier vehículo de motor podrá ir provisto de no más de 1 lámpara de cortesía en el estribo a cada lado del vehículo, que emita una luz blanca o ámbar que no deslumbre.
 
-###### ARTÍCULO 48.
+f).- Cualquier vehículo de motor puede ir provisto de una o más lámparas de retroceso o reversa, ya sea separada o en combinación con otras lámparas, siempre y cuando éstas no enciendan cuando el vehículo avance hacia el frente.
 
-Dado el patrón de asentamientos dispersos y el nivel socioeconómico de las etnias, la Autoridad Educativa Estatal procurará establecer las modalidades de apoyo que garanticen el acceso, la asistencia y permanencia de la población escolar indígena en las instituciones educativas que funcionen en la Entidad.
+g).- Cualquier vehículo podrá ir provisto de lámparas que se puedan utilizar con el fin de advertir a los conductores de otros vehículos, de la presencia de un peligro para el tránsito de vehículos, que reclame o ejerza un cuidado inusitado al acercarse, alcanzar o adelantar y cuando el vehículo esté equipado de ese modo, deberá mostrar esta luz de advertencia además de cualquier otra señal requerida por esta Ley. Las lámparas que iluminen hacia el frente, deberán ir montadas a un mismo nivel y tan separadas lateralmente como sea posible y dejarán ver luces simultáneamente intermitentes, blancas o de color ámbar o cualquier tono de color entre blanco y ámbar. Las lámparas que se utilicen para advertencias hacia atrás, deberán estar montadas a un mismo nivel y tan separadas lateralmente como sea posible y deberán emitir luces simultáneamente intermitentes de color ámbar o rojo o cualquier otro tono de color entre ámbar y rojo.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Cuando las condiciones atmosféricas por la noche sean normales, éstas luces de advertencia deberán ser visibles desde una distancia no menor de 500 metros.
 
-###### ARTÍCULO 49.
+h).- Cualquier vehículo de 2 metros o menos de ancho total puede ir provisto de no más de 3 lámparas de identificación que emitan hacia adelante una luz ámbar que no deslumbre y de no más de 3 lámparas de identificación que emitan una luz roja hacia atrás que no deslumbre como se indica en el Artículo 58, inciso e) de esta Ley.
 
-El Poder Ejecutivo Estatal, a través de las instancias correspondientes, y los ayuntamientos promoverán el mejoramiento de la nutrición de las y los niños indígenas, mediante el otorgamiento de apoyos alimentarios durante el ciclo escolar.
+###### ARTICULO 61.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
+Dispositivos acústicos y ópticos en vehículos de emergencia.
 
-###### ARTÍCULO 50.
+a).- Todo vehículo de emergencia autorizado, además del equipo y dispositivos obligatorios, deberá estar provisto de una sirena y/o campana capaces de dar una señal acústica audible, a una distancia no menor de 150 metros.
 
-La Autoridad Educativa Estatal y los Ayuntamientos otorgarán becas a las y los alumnos indígenas, en todos los niveles educativos y con una cobertura integral, hasta la Educación Superior, para garantizar su ingreso, permanencia y tránsito; además, promoverán la construcción y mejoramiento de las instalaciones de los Centros Educativos con carácter asistencial, a fin de brindar mejor atención a la población escolar indígena.
+b).- Además deberá estar provisto de una torreta con lámparas giratorias a 360 grados que proyecten una luz roja visible a una distancia no menor de 150 metros bajo la luz solar normal montada sobre la línea de centro del vehículo en su posición más alta posible, o de luces integradas a la sirena que emitan una luz roja intermitente hacia adelante y hacia atrás, visibles a la misma distancia; en este caso, el montaje de la sirena deberá ajustarse a lo anotado para la torreta o bien deberá estar provisto de 2 lámparas que emitan luz roja intermitente adelante y atrás, cuya intensidad sea suficiente para que sea visible bajo las condiciones anotadas para la torreta y deberán estar montadas tan arriba y tan ampliamente separadas lateralmente como sea posible sin sobresalir del vehículo.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+c).- Estos dispositivos no los utilizarán otros vehículos que no sean los de emergencia autorizados.
 
-#### SECCIÓN VII. DE LA EDUCACIÓN FÍSICA Y ARTÍSTICA
+###### ARTICULO 62.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Equipo de lámparas en grúas y vehículos de servicio mecánico.
 
-###### ARTÍCULO 51.
+Además del equipo establecido en el presente Capítulo en su parte relativa, las grúas y los vehículos de servicio mecánico, deberán estar provistos de una torreta con lámparas giratorias a 360 grados, que emitan una luz de color ámbar visible a una distancia no menor de 150 metros, montada en la parte más alta posible del vehículo sobre la línea de centro. Además podrán instalarse 2 lámparas montadas simétricamente lo más elevado y separadas posible de la línea del centro del vehículo, sin que sobresalgan de su carrocería, que emitan luz de color ámbar hacia adelante y hacia atrás, visibles a una distancia no menor de 150 metros.
 
-La educación especial está destinada a atender y apoyar a personas que, derivado o no de una discapacidad, transitoria o definitiva, requieran para su desempeño escolar, de adecuaciones curriculares. Su cobertura será garantizada a través de la atención a las y los educandos y deberá ser acorde a sus condiciones y necesidades, con equidad social y perspectiva de género, tomando en cuenta los siguientes criterios:
+También deberán tener instalados cuando menos un faro buscador.
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2010)</small>
+#### SECCION V. CIRCULACION POR LA DERECHA
 
-I. La educación que se imparta procurará, como primera opción, su integración a cualquier plantel de educación básica; para quienes no logren la incorporación, esta educación perseguirá la satisfacción de necesidades básicas de aprendizaje y el desarrollo de actividades prelaborales y para la vida, promoviendo su propio desenvolvimiento en el entorno social y laboral. Los alumnos y alumnas con aptitudes sobresalientes y/o talentos específicos, serán atendidos en instituciones educativas de nivel medio superior y superior con las que se lleven a cabo convenios de colaboración en los términos de gratuidad establecidos por la norma constitucional, o bien, en las creadas para dicho fin;
+###### ARTICULO 63.
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+Equipo de alumbrado en motocicletas:
 
-II. La Autoridad Educativa Estatal, procurará impartir cursos de orientación a los padres, a las madres y a los tutores para la toma de decisiones que favorezcan la educación integral de sus hijos, hijas o pupilos;
+Toda motocicleta deberá estar provista del siguiente equipo de alumbrado, el cual deberá permanecer siempre encendido mientras esté en circulación.
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+En la parte delantera, un faro principal de intensidad variable "ALTA" y "BAJA", colocado al centro del vehículo.
 
-III. La Autoridad Educativa Estatal procurará impartir cursos de capacitación y actualización a los profesionales de la educación especial, a través de las instituciones formadoras de profesionales de la educación y/o la Unidad Estatal de Formación Continua de Maestros de Educación Básica;
+En la parte posterior:
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+Una o 2 lámparas que emitan luz roja.
 
-IV. La Autoridad Educativa Estatal procurará impartir cursos de capacitación a los docentes de educación básica regular para favorecer la integración educativa y la construcción de una escuela incluyente, a través de las Instituciones Formadoras de Profesionales de la Educación y/o la Unidad Estatal de Formación Continua para Maestros de Educación Básica; y
+Una reflectante de color rojo, ya sea que forme parte de la lámpara posterior, o independientemente de la misma.
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+Una lámpara indicadora de frenaje que emita luz roja o ámbar al aplicar los frenos de servicio, ya sea que forme parte de la lámpara posterior, o independientemente de la misma.
 
-V. La Autoridad Educativa Estatal, en coordinación con las Instituciones Formadoras de Profesionales de la Educación de la Entidad, ofrecerá formación inicial y el desarrollo profesional para los docentes que la educación especial requiera para atender sus necesidades correspondientes.
+Tanto en la parte delantera como en la posterior, deberán estar provistas de luces direccionales, de color ámbar en la delantera y roja en la posterior.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Cuando la motocicleta sea de 3 ruedas el equipo de alumbrado de la parte posterior deberá ajustarse, en su parte relativa a lo establecido para vehículo de 4 o más ruedas.
 
-###### ARTÍCULO 52.
+###### ARTICULO 64.
 
-La Autoridad Educativa Estatal procurará destinar recursos suficientes a fin de ampliar y mejorar la cobertura y calidad de la educación especial. Así como para la adecuación de espacios físicos en los centros educativos y dotación de recursos didácticos especiales.
+Equipo de alumbrado para bicicletas:
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Toda bicicleta deberá estar equipada con un faro delantero de una sola intensidad, que emita luz blanca, que permita ver a personas u objetos a una distancia no menor de 20 metros. Además en la parte trasera deberá llevar una lámpara que emita una luz roja, visible a una distancia no menor de 100 metros y cuando menos un reflectante de color rojo, visible por la noche desde cualquier vehículo que se encuentre a una distancia comprendida entre 30 y 100 metros, cuando la luz alta de los faros principales de dicho vehículo se proyecte directamente sobre ellos.
 
-###### ARTÍCULO 53.
+###### ARTICULO 65.
 
-Los Departamentos de Educación Especial diseñarán programas factibles de aplicar en el medio urbano marginado, rural e indígena a través de las instituciones y organismos creados para este fin, procurando la integración educativa, laboral, social, y privilegiando la calidad de vida.
+Luces de vehículos estacionados:
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Todo vehículo deberá estar provisto cuando menos de 2 lámparas delanteras de estacionamiento de las llamadas cuartos, colocadas simétricamente y lo más alejado posible de la línea de centro del vehículo, montadas a una altura no menor de 35 centímetros ni mayor de 1.60 metros, que cuando enciendan emitan una luz blanca o ámbar visibles a una distancia de 300 metros. Dichas lámparas al ser accionadas, deberán encender simultáneamente con las lámparas rojas posteriores.
 
-###### ARTÍCULO 54.
+###### ARTICULO 66.
 
-La educación especial brindará su atención basándose en el currículum de la educación regular. Sus peculiaridades consistirán en adecuaciones, adiciones, mecanismos de colaboración y trabajo corresponsable que puedan ser aplicados en el sistema educativo o en otros ámbitos, partiendo del conocimiento del individuo en interacción con su contexto y de las necesidades que presente.
+Todo vehículo automotor, remolque, semirremolque o combinación de éstos vehículos, que transiten por la vía pública, deberán estar provistos de frenos que puedan ser fácilmente accionados por el conductor del vehículo automotor desde su asiento, los cuales deben conservarse en buen estado de funcionamiento, estar ajustados de modo que actúen uniformemente en todas las ruedas y que satisfagan los siguientes requisitos:
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+a).- Vehículos automotores de 2 ejes:
 
-###### ARTÍCULO 55.
+Frenos de servicio, que permitan aminorar la marcha del vehículo e inmovilizarlo de modo seguro, rápido y eficaz, cualesquiera que sean las condiciones de carga y la pendiente ascendente o descendente de la vía por la que circula;
 
-El Gobierno del Estado, procurará por conducto de la instancia que resulte competente, promover la prestación de servicios médicos y rehabilitación (sic) gratuitos a las y los alumnos de educación especial, en los términos previstos en la Ley para Personas con Discapacidad en el Estado de Chihuahua, y los programas que para tal efecto se implementen.
+Frenos de estacionamiento, que permitan mantener al vehículo inmóvil, cualesquiera que sean las condiciones de carga y la pendiente ascendente o descendente de la vía por la que circule, quedando las superficies activas del freno en posición tal, que mediante un dispositivo de acción puramente mecánico, y una vez aplicado, seguirán actuando con la efectividad necesaria, independientemente del agotamiento de la fuente de energía o fugas de cualquier especie. Los frenos de estacionamiento deberán actuar sobre todas las ruedas, o cuando menos sobre una rueda de cada lado del plano longitudinal medio del vehículo;
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+b).- Vehículos automotores de más de 2 ejes:
 
-###### ARTÍCULO 56.
+Estos vehículos deberán satisfacer los requisitos sobre frenos, exigidos en el inciso a) de este artículo, excepto que las ruedas de uno de los ejes podrán estar exentas de la acción de los frenos de servicio.
 
-Las Autoridades Educativas, en el ámbito de sus respectivas competencias, llevarán a cabo las siguientes acciones:
+c).- Remolques y Semirremolques:
 
-I. Promover programas de capacitación laboral en talleres, instituciones o empresas, para que las personas con discapacidad y que por su edad avanzada no puedan ingresar o continuar en los servicios de educación especial, tengan acceso a una vida autónoma y productiva;
+Frenos de servicio, que deberán actuar sobre todas las ruedas del vehículo, satisfaciendo los requisitos exigidos en el inciso a) de este artículo, los que serán accionados por el mando del freno de servicio del vehículo principal.
 
-II. Fortalecer el compromiso y la colaboración interinstitucional e intersectorial para la definición y ejecución de programas y acciones destinados a la ampliación de la cobertura educativa en el medio rural y la integración laboral de personas con discapacidad;
+Frenos de estacionamiento que satisfagan los requisitos exigidos en el inciso b) de este Artículo.
 
-III. Promover el reconocimiento de la pluralidad y diversidad entre las personas, los grupos sociales, los niveles educativos, las regiones y los contextos del Estado, a través de programas de sensibilización y difusión, con la finalidad de impulsar acciones para mejorar las condiciones de vida de las personas con discapacidad del Estado de Chihuahua; y
+Cuando el remolque acoplado a un vehículo ligero, tal como automóvil, guayín, panel o pick up, no exceda en su peso bruto total del 50% del peso del vehículo remolcador, podrá no tener frenos de servicio. En ambos casos deberán estar provistos de un enganche auxiliado por cadenas o cable que limite el desplazamiento lateral del remolque e impida la caída de la barra de enganche al pavimento en caso de ruptura del dispositivo principal de acoplamiento.
 
-IV. Incrementar los recursos económicos para becas dirigidos a las y los alumnos con discapacidad, que aseguren su acceso y permanencia en el Sistema Educativo Estatal.
+d).- Conjuntos de vehículos:
 
-(REFORMADO, P.O. 25 DE ABRIL DE 2007) (F. DE E., P.O. 16 DE JUNIO DE 2007)
+Además de lo establecido en los incisos anteriores para unidades, cuando circulen acopladas deberán aplicarse a estas combinaciones las siguientes normas:
 
-#### SECCIÓN VIII. DE LA EDUCACIÓN TECNOLÓGICA
+Los dispositivos y sistemas de frenado de cada uno de los vehículos que forman la combinación deberán ser compatibles entre sí.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 2010)</small>
+La acción del freno de servicio, convenientemente sincronizada, se distribuirá en forma adecuada entre los vehículos que forman la combinación.
 
-###### ARTÍCULO 57.
+e).- Frenos especiales:
 
-La educación física y la educación artística contribuirán fundamentalmente al desarrollo integral y armónico de las y los educandos. Son obligatorias en la educación del tipo básico y normal.
+Todo vehículo que utilice aire comprimido para el funcionamiento de sus propios frenos o de los frenos de cualquier vehículo remolcado, deberá estar provisto de una señal de advertencia, que no sea un manómetro, fácilmente audible o visible por el conductor, que entrará en funcionamiento en todo momento en que la presión del depósito de aire del vehículo esté por debajo del 50% de la presión dada por el regulador del compresor. Además, deberá estar provisto de un manómetro visible por el conductor, que indique en kilogramos por centímetro cuadrado la presión para el frenado o su equivalente.
 
-En los demás tipos y niveles, serán promovidas a través de la aplicación de los programas y guías metodológicas oficiales, y con carácter extracurricular, bajo la titularidad de profesionales en la materia.
+Todo vehículo que utilice vacío para el funcionamiento de sus propios frenos o de los frenos de cualquier vehículo remolcado, deberá estar provisto de una señal de advertencia que no sea un vacuómetro, fácilmente audible o visible por el conductor que entrará en funcionamiento en todo momento en que el vacío del depósito alimentador del vehículo sea inferior a 20 milímetros de mercurio o su equivalente. Además deberá estar provisto de un vacuómetro visible por el conductor, que indique el vacío en milímetros de mercurio disponible para el frenado.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### ARTÍCULO 58.
+> <small>N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL B.O. 21 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE EL TEXTO ANTERIOR CONSTABA DE DOS INCISOS.</small>
 
-La educación física y la educación artística se promoverán en todo el Sistema Educativo Estatal; en el caso de la educación de tipo básico, la Autoridad Educativa Estatal tendrá la obligación de ampliar la cobertura y de otorgar a las instituciones públicas los recursos humanos y económicos suficientes, así como las instalaciones y materiales adecuados para la consecución de sus propósitos.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+#### SECCION VI. OBLIGACION DE CEDER EL PASO
 
-###### ARTÍCULO 59.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-La educación física, las actividades deportivas y artísticas en la educación de tipo básico promoverán principalmente una práctica de carácter recreativo y convivencial. Además, en lo referente al deporte escolar y a la educación artística, se propiciará la identificación de las y los alumnos con facultades sobresalientes para participar en el deporte competitivo o en el desarrollo de sus potencialidades dentro de las diferentes ramas del arte.
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 67.
 
-###### ARTÍCULO 60.
+Las motocicletas deberán estar provistas de 2 dispositivos de frenado, uno de los cuales deberá actuar, por lo menos, sobre la rueda o las ruedas traseras y el otro, por lo menos, sobre la rueda o de las ruedas delanteras; si se acopla un compartimento para pasajero anexo a una motocicleta no será obligatorio el frenado de la rueda de dicho compartimento anexo. Estos dispositivos de frenado deberán permitir aminorar la marcha de la motocicleta e inmovilizarla de modo seguro, rápido y eficaz, cualquiera que sean las condiciones de carga y la pendiente ascendente o descendente de la vía por la que circula.
 
-La Autoridad Educativa Estatal, en coordinación con las Instituciones Formadoras de Profesionales de la Educación, ofrecerá formación inicial y desarrollo profesional para el personal que la educación física requiere, a partir de las necesidades detectadas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 61.
+Además de los dispositivos previstos en el párrafo anterior, las motocicletas que tengan tres ruedas simétricas con relación al plano longitudinal medio del vehículo, deberán estar provistas de un freno de estacionamiento que reúna las condiciones especificadas en el supuesto final del párrafo anterior.
 
-Propiciar la formación, proyección e integración social de las y los educandos a través de la participación activa en disciplinas artísticas y de educación física, con igualdad de oportunidades y con perspectiva de género.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 62.
+ARTICULO 67 BIS.- Toda bicicleta de 2 o 3 ruedas que transite por la vía pública, deberá estar provista de frenos que actúen en forma mecánica e independiente sobre la rueda o ruedas delanteras y sobre la rueda o ruedas traseras que permitan aminorar la marcha de la bicicleta e inmovilizarla de modo seguro, rápido y eficaz. Deberán conservarse en buen estado de funcionamiento, procurando que su acción sea la más uniforme posible sobre todas las ruedas.
 
-La Autoridad Educativa Estatal fomentará la investigación en la educación física y en la educación artística, con el fin de responder a las necesidades planteadas por la dinámica social.
+###### ARTICULO 68.
 
-(REFORMADO, P.O. 25 DE ABRIL DE 2007) (F. DE E., P.O. 16 DE JUNIO DE 2007)
+Bocinas y dispositivos de advertencia.
 
-#### SECCIÓN IX. DE LA EDUCACIÓN EN VALORES
+Todo vehículo de motor deberá estar provisto de una bocina en buen estado de funcionamiento y capaz de emitir un sonido que, en circunstancias normales sea audible desde una distancia no menor de 60 metros. Pero ninguna bocina, ni ningún otro dispositivo de advertencia, emitirá ningún sonido o silbato que sea irrazonablemente fuerte o agudo.
 
-> <small>(REFORMADO, 24 DE SEPTIEMBRE DE 2011)</small>
+Está permitido, pero no es obligatorio, que cualquier vehículo esté provisto de un dispositivo de alarma contra robos dispuesto de modo que el conductor no pueda utilizarlo como señal ordinaria de advertencia.
 
-###### ARTÍCULO 63.
+Los vehículos considerados como de emergencia, además de la bocina a que alude este Artículo, podrán estar provistos de una sirena capaz de emitir una señal acústica audible a una distancia de 60 metros o más.
 
-La educación tecnológica es aquella que se orienta al desarrollo de competencias que promueven la creatividad, la iniciativa y el alto desempeño en el acceso a la investigación e innovación en el campo del uso y creación de nuevas tecnologías, para el mejoramiento, tanto de la calidad y la competitividad en el ámbito productivo, como de los niveles de bienestar y desarrollo económico y cultural de la sociedad; teniendo como base el respeto de los ecosistemas en la búsqueda de la satisfacción de los requerimientos que permitan alcanzar el desarrollo sustentable de la región, la Entidad y el país, a través de la participación activa de las y los educandos, con igualdad de oportunidades y perspectiva de género.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 64.
+Queda prohibido el uso de sirenas o luces de estroboscopio en cualquier otra clase de vehículos.
 
-La educación tecnológica se impartirá en los distintos tipos, niveles y modalidades del Sistema Educativo Estatal, conforme a los planes y programas expedidos por la Secretaría de Educación Pública y por los autorizados con reconocimiento de validez oficial.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 65.
+###### ARTICULO 69.
 
-La Autoridad Educativa Estatal procurará otorgar y promover los apoyos necesarios para que la educación tecnológica cobre mayor importancia en las escuelas públicas.
+Los automóviles deberán estar provistos de cinturones de seguridad para el conductor y cada uno de los pasajeros de acuerdo a la capacidad del modelo de fabricación. Los conductores con limitaciones físicas deberán portar una señal especialmente visible, consistente en el símbolo de la silueta de la silla de ruedas blanca con fondo azul en su vehículo para identificación.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 70.
 
-###### ARTÍCULO 66.
+Dispositivos mejoradores del ambiente especialmente obligatorios en zonas urbanas y suburbanas:
 
-La educación tecnológica es parte integrante del proceso educativo; en el tipo básico de educación se prioriza el carácter recreativo y de iniciación en el manejo de tecnologías, promoviendo la detección de talentos orientados al desarrollo de competencias referidas a la innovación y la creatividad tecnológicas.
+a).- Todo vehículo de motor deberá estar provisto permanentemente de un silenciador de escape, en buen estado de funcionamiento, para evitar ruidos excesivos y nadie deberá utilizar válvulas de escape, derivaciones y otros dispositivos similares.
 
-En el tipo medio superior se orientará al conocimiento y dominio de las nuevas tecnologías con fines laborales, así como a la iniciación de la investigación e innovación científica y tecnológica socialmente rentable.
+b).- El motor de todo vehículo deberá estar equipado y ajustado de modo tal, que impida el escape de humo en cantidad excesiva.
 
-En el tipo superior orientado al dominio y desarrollo de nuevas tecnologías a través de la investigación e innovación con la finalidad de aplicarse en la producción para impulsar el desarrollo estatal, regional y nacional, mejorando los índices de competitividad.
+c).- Queda estrictamente prohibido tirar basura en la vía pública.
 
-(REFORMADO, P.O. 25 DE ABRIL DE 2007) (F. DE E., P.O. 16 DE JUNIO DE 2007)
+Los vehículos destinados al comercio ambulante, los particulares y los de servicio público, deberán estar dotados de depósitos para basura. En los casos en que éstos depósitos no sean suficientes, o se carezca de ellos, la basura deberá conservarse en el interior del vehículo, sin que pueda arrojarse a la vía pública.
 
-#### SECCIÓN X. DE LA EDUCACIÓN MEDIA SUPERIOR
+Los conductores de vehículos particulares son responsables por las infracciones a esta prohibición que cometan los demás ocupantes.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Los conductores de vehículos de servicio público únicamente serán responsables de las infracciones cometidas por sus pasajeros, cuando no se les haya advertido la prohibición mediante rótulos o cuando sus vehículos carezcan de depósitos para basura. Los transeúntes deberán depositar la basura en los depósitos destinados al efecto y si no los hubiere, la conservarán hasta encontrar un lugar en que puedan arrojarla.
 
-###### ARTÍCULO 67.
+###### ARTICULO 71.
 
-La educación en valores es parte esencial de la formación integral de las y los educandos y coadyuva a su desarrollo armónico, promoviendo valores universales, para que ejerza plenamente sus capacidades dentro del marco de la convivencia entre los integrantes de la comunidad escolar, estimulando su iniciativa y un alto sentido de responsabilidad social.
+Espejos retrovisores:
 
-Este proceso educativo se basará en los principios de libertad, responsabilidad y equidad, de forma tal que aseguren una convivencia social fundada en el respeto a las personas y las leyes, así como libre de cualquier forma de maltrato, violencia o abuso entre escolares, y promoviendo el trabajo en grupo para asegurar la comunicación y el diálogo entre educandos, educadores, padres de familia e instituciones.
+Todo vehículo automotor deberá estar provisto de los espejos retrovisores que se requieran conforme al tipo y servicio a que están destinados.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+#### SECCION VII. REDUCCION DE VELOCIDAD Y CAMBIO DE DIRECCION
 
-###### ARTÍCULO 68.
+###### ARTICULO 72.
 
-La educación en valores se realizará en todos los niveles del Sistema Educativo Estatal y tendrá carácter eminentemente formativo. Descansará en el principio de autonomía de la voluntad de las y los educandos, respetando sus tradiciones, costumbres y principios con estricto apego a lo establecido en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Local y en las normas de los Tratados Internacionales de los Derechos Humanos.
+Cristales:
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2010)</small>
+Los parabrisas tienen que estar libres de obstrucciones y provistos de limpiadores.
 
-###### ARTÍCULO 69.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-El Estado otorgará los apoyos necesarios para que la educación en valores, fundamentada en los principios y características de la participación social, cobre mayor importancia en los centros escolares.
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Nadie conducirá ningún vehículo de motor que tenga puestos en el parabrisas, algún rótulo, cartel u otro material opaco, esto con el fin de que no se obstruya la clara visión del conductor.
 
-###### ARTÍCULO 70.
+El parabrisas de todo vehículo de motor deberá estar provisto de un dispositivo que limpie la lluvia, la nieve u otra humedad; dispositivo que deberá estar construido de modo que lo haga funcionar el conductor del vehículo, desde su interior.
 
-La implementación de programas y contenidos, en cuanto a formación de valores, deberá ser conocido, aceptado y aplicado por los diversos sectores que participan en el proceso educativo.
+Las sustancias transparentes que constituyen elementos de pared exterior del vehículo, incluido el parabrisas, o de pared interior de separación, deberán ser tales que, en caso de rotura el peligro de las lesiones corporales quede reducido en la mayor medida posible.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Los cristales del parabrisas deberán estar hechos de una sustancia cuya transparencia no se altere y deberán estar fabricados de tal manera que no deformen apreciablemente los objetos vistos a través de ellos y que, en caso de rotura, el conductor pueda seguir viendo la vía con suficiente claridad.
 
-###### ARTÍCULO 71.
+###### ARTICULO 73.
 
-La instrumentación de la formación en valores deberá hacerse bajo criterios científicos, procurando evaluar los resultados a través de su impacto social.
+Dispositivos de advertencia:
 
-Las autoridades educativas estatales procurarán establecer e implementar programas académicos en todos los tipos y niveles, que tengan por objeto la formación de adecuadas actitudes filosóficas, científicas y humanistas de los niños, de las niñas y de los jóvenes frente a las personas adultas, a fin de fortalecer los valores esenciales de la moral y de la solidaridad con este grupo social.
+a).- Nadie conducirá ningún camión, autobús de pasajeros o tractor camionero, ni tampoco vehículo que arrastre un remolque habitación, por la carretera fuera de los límites urbanos a menos que en tal vehículo se porte el equipo que se indica a continuación:
 
-> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2010)</small>
+1.- 3 linternas eléctricas rojas o tres reflectores rojos portátiles de emergencia o 3 antorchas de manera que cada uno de estos elementos sea capaz de que, durante las horas de la noche y en condiciones atmosféricas normales, se le vea o distinga a una distancia no menos de 180 metros.
 
-Así mismo, dichas autoridades establecerán e implementarán a la brevedad, programas académicos que transversalmente apoyen el marco curricular de todos los tipos, niveles y modalidades educativos, que fortalezcan el adecuado desarrollo de actitudes científicas, basadas en las necesidades del rescate y el respeto de los ecosistemas y de desarrollo sustentable de la Entidad.
+2.- 3 luces de bengala rojas, a no ser que se lleven 3 linternas eléctricas rojas o 3 reflectantes rojos portátiles de emergencia.
 
-(REFORMADO, P.O. 25 DE ABRIL DE 2007) (F. DE E., P.O. 16 DE JUNIO DE 2007)
+3.- 2 Banderolas de tela roja que no tengan menos de 30 centímetros en cuadro, con astas para sostener estas banderolas.
 
-#### SECCIÓN XI. DE LA EDUCACIÓN PARA ADULTOS
+4.- Que el autobús tenga una puerta trasera para casos de emergencia.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+b).- Los conductores de vehículos ligeros tales como automóviles, guayines, pick up, páneles, etc., deberán portar en el vehículo que conducen por carretera, cuando menos 2 banderolas que cumplan con los requisitos marcados con el punto tres del inciso a) de este Artículo y además 2 linternas que emitan una luz roja, ya sea fija o intermitente o 2 reflectantes rojos portátiles de emergencia.
 
-###### ARTÍCULO 72.
+c).- En los vehículos de motor que se empleen para el transporte de explosivos, camiones cisterna de carga que se empleen para el transporte de líquidos inflamables o gases comprimidos, o vehículos de motor que utilicen como combustible gas comprimido, no se llevarán luces de bengala, antorchas, ni señales producidas por medio de llama.
 
-La educación del tipo medio superior comprende el nivel de bachillerato y los equivalentes a éste, así como la educación profesional de nivel medio que no requiere bachillerato o sus similares.
+d).- No se utilizará ninguna antorcha, luz de bengala, linterna eléctrica o banderola de tela para fines de advertencia con objeto de cumplir con los requisitos de este Artículo, a menos que el equipo sea de un tipo que haya sido probado por la autoridad. No se empleará unidad reflectora portátil alguna con el fin de cumplir con los requisitos señalados, a menos que esté diseñada y construida de modo que incluya 2 elementos reflectantes, uno encima del otro y cada uno de los cuales sea capaz de reflejar una luz roja claramente visible por la noche en condiciones atmosféricas normales, en todas las distancias comprendidas entre 30 y 180 metros cuando se encuentre directamente frente a la luz alta de unos faros delanteros y que sea un tipo aprobado por la autoridad.
 
-El bachillerato podrá ser propedéutico, terminal o bivalente:
+###### ARTICULO 74.
 
-I. Será propedéutico, aquel que orienta hacia la preparación de la y del educando para su incorporación específica a los estudios de nivel superior;
+Equipo de llantas:
 
-II. Será terminal, el que forme técnica o profesionalmente al egresado para su integración al sector productivo en la sociedad, sin que esto sea causa excluyente para el ingreso a niveles superiores; previa acreditación académica que corresponda; y
+a).- Todo vehículo automotor, remolques, semirremolques o bicicletas, que transiten por carretera, deberán llevar llantas de tipo neumático, en condiciones tales que garanticen la seguridad del vehículo, sobre todo en lo referente a las bandas de rodamiento, las que deben proveer una adecuada adherencia sobre el pavimento, aún cuando éste se encuentre mojado.
 
-III. Será bivalente, cuando atienda ambas fracciones.
+Además deberá llevarse una llanta de refacción inflada a la presión adecuada y en condiciones tales que garantice la sustitución de otra llanta que sufra daños durante el recorrido, con excepción de bicicletas y motocicletas a condición de llevar elementos para reparación de ponchaduras.
 
-Las zonas con población distante, dispersa y en condiciones de marginación, deberán contar por lo menos con el telebachillerato; la operación de esta modalidad estará de acuerdo a la normatividad que lo reglamenta.
+b).- Queda prohibida la conducción sobre vías pavimentadas de todo vehículo que tenga llantas metálicas o llantas de hule macizo en contacto con la vía.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+c).- Ninguna llanta de un vehículo que transite por vías pavimentadas deberá tener en su periferia bloque, clavo, saliente, listón o punta alguna ni ninguna otra protuberancia de cualquier materia, que no sea caucho que sobresalga de la huella de la superficie de tracción de la llanta; exceptuando cuando se trate de empleo de cadenas para llantas, cuya (sic) proporciones sean razonables, colocada en cualquier vehículo cuando sea necesario para la seguridad debida a presencia de nieve, hielo y otras condiciones que tiendan a hacer que el vehículo patine.
 
-###### ARTÍCULO 73.
+d).- Los vehículos de servicio público de transporte no deberán de circular con llantas recubiertas en el eje delantero.
 
-La Autoridad Educativa Estatal promoverá la integración de grupos colegiados de las distintas instituciones, que planearán y promoverán, de manera sistemática, la unificación y desarrollo de este nivel, con la finalidad de satisfacer adecuadamente la demanda educativa, elevar su calidad y favorecer el tránsito interinstitucional de las y los educandos.
+###### ARTICULO 75.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+La circulación de los vehículos dentro de los perímetros urbanos, se regirá por las disposiciones de la presente Ley.
 
-###### ARTÍCULO 74.
+###### ARTICULO 76.
 
-La instancia que atienda a la educación media superior y superior será responsable de planear, coordinar, evaluar, vincular con el sector productivo, así como apoyar a los organismos públicos descentralizados e instituciones estatales, municipales y paraestatales que impartan educación de tipo medio superior en sus niveles de bachillerato y profesional.
+Todo usuario de las vías públicas está obligado a obedecer las reglas de la presente Ley.
 
-La instancia anterior tendrá como objeto lo siguiente:
+Las indicaciones de los dispositivos para el control del tránsito prevalecen sobre las reglas de circulación, excepto cuando éstas estipulen claramente que prevalecen sobre las indicaciones de tales dispositivos.
 
-I. Promover e impulsar el aprendizaje de un idioma extranjero, preferentemente el idioma inglés;
+Las indicaciones del Agente de Tránsito prevalecen sobre las de los dispositivos para el control de tránsito y sobre las demás reglas de circulación.
 
-II. Promover el aprendizaje y la investigación, así como los avances científicos y tecnológicos.
+###### ARTICULO 77.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Para la realización de eventos deportivos y tránsito de caravanas de vehículos o peatones, deberá obtenerse autorización del Jefe de Tránsito correspondiente, con un mínimo de tres días de anticipación al evento de que se trate.
 
-###### ARTÍCULO 75.
+#### SECCION VIII. EMPLEO DE LAS LUCES
 
-Se declaran de interés público la orientación profesional y la vocacional. Las instituciones educativas que ofrezcan educación media superior y que dependan del Estado o de sus organismos descentralizados, deberán apoyar al estudiante a reconocer sus aptitudes, habilidades y capacidades; además, proporcionarán información sobre la oferta de empleo, tendencias de la sociedad y demanda educativa. Los planes de desarrollo que implemente la Autoridad Educativa Estatal, deberán formar parte de la información que reciban las y los estudiantes.
+###### ARTICULO 78.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Queda prohibido a los conductores de vehículos entorpecer la marcha de columnas militares, las escolares, los desfiles cívicos o las manifestaciones permitidas y los cortejos fúnebres o cruzar las filas de éstas.
 
-###### ARTÍCULO 76.
+###### ARTICULO 79.
 
-Las y los estudiantes de educación media superior en la modalidad terminal, están obligados a realizar servicio social, de conformidad con el reglamento correspondiente.
+Se prohibe aprovisionar de combustible a un vehículo con el motor en marcha. Los vehículos de transporte colectivo de personas no deberán ser aprovisionados de combustible con pasajeros a bordo.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### ARTÍCULO 77.
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-Las instituciones y universidades públicas y privadas informarán a la Autoridad Educativa Estatal de las escuelas incorporadas que operen en el Estado de Chihuahua.
+###### ARTICULO 80.
 
-(REFORMADO, P.O. 25 DE ABRIL DE 2007) (F. DE E., P.O. 16 DE JUNIO DE 2007)
+Ningún vehículo debe llevar personas a bordo cuando sea transportado por una embarcación u otro medio. Tampoco deberá llevarlas cuando éste sea remolcado.
 
-#### SECCIÓN XII. DE LA EDUCACIÓN PARA Y EN EL TRABAJO Y LA PRODUCTIVIDAD
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 78.
+###### ARTICULO 81.
 
-La educación para los educandos estará destinada a personas con quince años o más que no hayan cursado o concluido la educación primaria o secundaria y comprenderá: Alfabetización, primaria, secundaria y la educación para y en el trabajo y la productividad.
+Se prohíbe a toda persona conducir un vehículo bajo los efectos del alcohol en límites mayores a lo establecido por este artículo o bajo la acción de drogas o sustancias que disminuyan su aptitud para conducir, aun cuando por prescripción médica esté autorizada para usarlas. Se considera que una persona se encuentra limitada en su capacidad para conducir un vehículo, cuando tenga 0.40 de gramos de alcohol/litros de contenido alcohólico en su sangre o 0.040 gramos de alcohol/210 litros de aire espirado, o las equivalencias de ambas medidas, o cuando así lo determine la práctica de un examen médico en el que se establezca la disminución o afectación de sus facultades psicomotoras, realizado por el médico competente quien podrá, para tal efecto, apoyarse en las herramientas de diagnóstico que considere necesarias.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 82.
 
-###### ARTÍCULO 79.
+Los conductores deberán tener cuidado para evitar accidentes, y cuando observen sobre el arroyo de la vía pública a cualquier persona, objeto o animal, deberán disminuir al mínimo su velocidad, y en caso necesario, parar el vehículo.
 
-Esta educación es un sistema que comprende diversos aspectos de la formación integral del adulto, en su ámbito personal, familiar, laboral y social, que tiende a cubrir tanto las necesidades inmediatas de supervivencia y rezago educativo, como a las propias del ser humano en cuanto al desarrollo de sus potencialidades personales, así como a su reincorporación al sistema educativo.
+###### ARTICULO 83.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Se prohibe el uso innecesario de bocinas y en especial, cerca de hospitales, sanatorios, escuelas y edificios públicos, debiendo utilizarse sólo para evitar accidentes.
 
-###### ARTÍCULO 80.
+###### ARTICULO 84.
 
-La Autoridad Educativa Estatal, procurará establecer mecanismos y procedimientos para la acreditación global o parcial de conocimientos adquiridos en forma autodidacta y a través de la experiencia. Así mismo, precisará los criterios mediante los cuales los adultos podrán acreditar los niveles de educación primaria y secundaria y de los elementos susceptibles de certificación de la educación para y en el trabajo y la productividad, conforme a los artículos 45 y 64 de la Ley General de Educación.
+Ningún conductor deberá seguir a un vehículo de bomberos u otros servicio (sic) de emergencia, ni detenerse, ni estacionarse a una distancia menor de ciento cincuenta metros de los hechos, salvo que se justifiquen estas operaciones.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 85.
 
-###### ARTÍCULO 81.
+Ningún vehículo deberá pasar sobre una manguera contra incendios carente de protección, sin el consentimiento del personal de bomberos.
 
-El Poder Ejecutivo del Estado es el responsable directo de la prestación de los servicios educativos para adultos, sin perjuicio de la concurrencia de los Gobiernos Federal, Municipal y de los particulares.
+###### ARTICULO 86.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Ningún conductor deberá estacionarse sobre la carretera, sin instalar señales preventivas, ni cerca de una curva, donde no sea visible a una distancia que proporcione seguridad para frenar el conductor de otro vehículo. Tampoco se estacionará en los tramos llamados "columpios".
 
-###### ARTÍCULO 82.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-La Autoridad Educativa Estatal, a través de las instancias correspondientes, operará el plan y programas de estudio, adaptándose a las particularidades de las y los educandos, así como de la población a la que se destina este servicio, como son:
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-l. La edad y las características evolutivas de la personalidad del educando, su condición social, laboral y su tiempo disponible;
+###### ARTICULO 87.
 
-II. Las necesidades individuales, grupales o comunitarias para propiciar su desarrollo; y
+Ninguna persona conducirá un vehículo por una vía pública, a velocidad mayor de la autorizada, con excepción de los vehículos de emergencia. La velocidad se determinará por medio de los dispositivos de medición, tales como radar, el marcador de velocidad de la unidad oficial o cualquier otro instrumento de precisión que sea destinado para tal efecto.
 
-III. Las necesidades de los sectores productivos, para el constante mejoramiento de su desarrollo económico, social y cultural.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 83.
+###### ARTICULO 88.
 
-La educación para adultos estará articulada a procesos de desarrollo comunitario, que propicien la participación y organización de la comunidad en proyectos que aborden la solución de su problemática.
+Los límites máximos de velocidad cuando no haya señales indicadoras serán los siguientes:
 
-El Poder Ejecutivo Estatal promoverá la participación de la sociedad en los programas de educación para adultos. Quienes participen voluntariamente en tareas relativas a esta educación, previa capacitación, tendrán derecho, en su caso, a que se les acredite como servicio social.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 84.
+I.- 60 kilómetros por hora en bulevares.
 
-Las instituciones del Sistema Educativo Estatal contribuirán a la educación para adultos, facilitando el uso de sus instalaciones.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 85.
+II.- 45 kilómetros por hora en pares viales.
 
-Para las instituciones de educación media superior, nivel terminal y superior, pertenecientes al Sistema Educativo Estatal, se considerará prioritaria la prestación del servicio social en el desarrollo de programas de educación para adultos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 86.
+III.- 30 kilómetros por hora en calles o avenidas.
 
-La Autoridad Educativa Estatal, los ayuntamientos y los organismos descentralizados, en coordinación con las dependencias competentes, deben organizar servicios permanentes de promoción de educación abierta, a distancia y asesoría para adultos y darán las facilidades necesarias a sus trabajadores para estudiar y acreditar la educación primaria, secundaria y la formación para y en el trabajo y la productividad, de conformidad con lo establecido en la Ley General de Educación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Todo trabajador que no haya concluido la educación básica, tendrá derecho a que su patrón le otorgue las facilidades necesarias para estudiar, acreditar y certificar los niveles respectivos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+IV.- 20 kilómetros por hora en zonas escolares.
 
-###### ARTÍCULO 87.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-La Autoridad Educativa Estatal, procurará implementar programas para la formación y actualización de docentes para adultos, incorporándolos a las Instituciones Formadoras de Profesionales de la Educación.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+V.- 80 kilómetros por hora en zonas fuera de los perímetros urbanos.
 
-###### ARTÍCULO 88.
+#### SECCION IX. LIMITE DE VELOCIDADES
 
-La educación para adultos que impartan las empresas se hará conforme a lo dispuesto en la Ley General de Educación, la presente Ley, y en los ordenamientos legales correspondientes.
+###### ARTICULO 89.
 
-(REFORMADO, P.O. 25 DE ABRIL DE 2007) (F. DE E., P.O. 16 DE JUNIO DE 2007)
+Cuando se transporte maquinaria y otros objetos cuyo peso excesivo pueda ocasionar lentitud en la marcha del vehículo, entorpeciendo la circulación o daños a la vía pública, previamente deberá solicitarse permiso del Departamento de Tránsito, el que señalará el horario, derrotero y condiciones a que deba sujetarse el acarreo de dichos objetos.
 
-#### SECCIÓN XIII. DE LA EDUCACIÓN SUPERIOR
+###### ARTICULO 90.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Los vehículos de uso agrícola solamente circularán por los caminos de acceso de las vías principales. A falta de éstos, para circular por las mismas, deberán recabar previamente autorización del Departamento de Tránsito.
 
-###### ARTÍCULO 89.
+###### ARTICULO 91.
 
-Se denomina educación para y en el trabajo y la productividad, al tipo de servicios para la adquisición de la información y construcción de conocimientos, habilidades, destrezas y actitudes, que permitan a quien la recibe desarrollar una actividad productiva demandada en el mercado, mediante alguna ocupación u oficio calificado, que en su ejercicio se apegue irrestrictamente a las normas y procedimientos establecidos para el logro del desarrollo sustentable de la Entidad.
+El transporte de materias líquidas inflamables deberá efectuarse en vehículos adaptados exclusivamente para el objeto, en latas, o tambores herméticamente cerrados. En todo caso, los vehículos deberán estar dotados de un extinguidor de incendio.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 92.
 
-###### ARTÍCULO 90.
+Para transportar materias altamente explosivas es obligatorio recabar previamente el permiso de la Secretaría de la Defensa Nacional, así como del Departamento de Tránsito, en los que se fijarán el horario, derrotero y demás condiciones a que habrá de sujetarse el acarreo.
 
-La Autoridad Educativa Estatal expedirá los certificados, constancias o diplomas que acrediten los estudios de los capacitandos de la educación para y en el trabajo y la productividad, que avalen los conocimientos y habilidades o destrezas adquiridos; dichas certificaciones se referirán a conclusiones intermedias o terminales, de acuerdo a lo dispuesto en el artículo 45, párrafo segundo de la Ley General de Educación.
+###### ARTICULO 93.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Los vehículos que transporten materias líquidas inflamables o altamente explosivas deberán llevar una banda roja en su parte delantera y otra en su parte posterior y, en forma ostensible, rótulos en las partes posterior y lateral que contengan la inscripción: "PELIGRO, INFLAMABLES" o "PELIGRO, EXPLOSIVOS", respectivamente.
 
-###### ARTÍCULO 91.
+###### ARTICULO 94.
 
-La Autoridad Educativa Estatal establecerá los procedimientos necesarios para recibir propuestas y opiniones de los diversos sectores productivos, para instrumentar los servicios de educación para y en el trabajo y la productividad en el Estado. Podrán certificarse dichos servicios, impartidos en forma directa por el sector productivo de la sociedad, de acuerdo a lo dispuesto en el artículo 45 de la Ley General de Educación.
+Los usuarios de la vía pública deberán abstenerse de todo acto que pueda constituir un obstáculo para la circulación de peatones y vehículos, poner en peligro a las personas o causar daños a propiedades públicas o privadas. En consecuencia, queda prohibido depositar en las vías públicas, materiales de construcción de cualquier índole, cascajo, tubería, mercancía y objetos de cualquier naturaleza. En caso de justificada necesidad, la maniobra de retiro deberá ser inmediata y de preverse que esto no sea posible, se recabará autorización del Departamento de Tránsito, quien la otorgará exclusivamente en lugares donde dicho depósito no signifique algún obstáculo de importancia a la libre circulación de peatones y vehículos, debiendo establecerse indicadores que permitan distinguir la ubicación del obstáculo.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 95.
 
-###### ARTÍCULO 92.
+Quien remueva un vehículo accidentado o dañado, deberá limpiar la superficie de la vía de cualquier basura, vidrios u otro material dañino que haya caído en la misma.
 
-Todos los estudios relacionados con la educación para y en el trabajo y la productividad serán adicionales y complementarios a la capacitación prevista en la fracción XIII del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+#### SECCION X. REBASAR
 
-Así mismo, podrán celebrarse convenios para que este tipo de servicio sea impartido por las autoridades estatales y municipales, instituciones privadas, las organizaciones sindicales, los empleados y por particulares.
+###### ARTICULO 96.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Se prohibe conducir vehículos con mayor número de personas de las que puedan ir debidamente sentados en los asientos diseñados para tal objeto. También queda prohibido llevar bultos u objetos que obstruyan la visibilidad del conductor, sea al frente, a los lados o en la parte posterior del vehículo.
 
-###### ARTÍCULO 93.
+###### ARTICULO 97.
 
-Son objetivos de la educación para y en el trabajo y la productividad:
+Los vehículos deberán circular con sus puertas cerradas y queda prohibido transportar personas en la parte exterior de la carrocería.
 
-I. Lograr una formación para el trabajo de calidad y pertinencia, a fin de incorporar a amplios sectores de la población a las distintas modalidades de capacitación, congruentes con las condiciones del mercado laboral y las expectativas del sector social;
+###### ARTICULO 98.
 
-II. Procurar la adquisición de conocimientos, habilidades, destrezas y actitudes con una perspectiva de género que permitan a quien las recibe, desarrollar relaciones de igualdad, así como una actividad productiva y demandada en el mercado laboral, de acuerdo a las expectativas sociales mediante alguna ocupación u oficio calificados;
+La carga de un vehículo deberá estar acomodada, sujeta y cubierta en tal forma que:
 
-III. Fortalecer y difundir los servicios de capacitación extraescolar que ofrecen las instituciones, ampliando su ámbito de acción hacia las necesidades empresariales y comunitarias específicas;
+I.- No ponga en peligro la integridad física de las personas ni cause daños materiales a terceros.
 
-IV. Ampliar la cobertura del servicio con la decidida y concertada participación del Gobierno Federal, los municipios y el sector productivo de bienes y servicios;
+II.- No arrastre en la vía, ni caiga sobre ésta.
 
-V. Crear un ambiente propicio para llevar a cabo actividades técnico-científicas, cívicas, sociales, culturales y deportivas, que permitan preparar integralmente al capacitando y hacer extensivos sus beneficios a la comunidad; y (sic)
+III.- No estorbe la visibilidad del conductor ni comprometa la estabilidad o la conducción del vehículo.
 
-VI. Fortalecer la actitud creativa que fomente el autoempleo y la creación de empresas para coadyuvar en la solución de la problemática regional;
+IV.- No oculte las luces, incluidas las del frenado, las direccionales, las de posición y las de gálibo, los dispositivos reflectantes, ni las placas de circulación.
 
-> <small>(ADICIONADA, P.O. 27 DE ENERO DE 2010)</small>
+###### ARTICULO 99.
 
-VII. Promover permanentemente y de manera transversal, en la currícula establecida, programas educativos que propicien la consolidación y el desarrollo de una cultura que permita participar activamente en el desarrollo sustentable de la Entidad.
+La carga de mal olor o repugnante a la vista, debe transportarse en caja cerrada o debidamente protegida.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 100.
 
-###### ARTÍCULO 94.
+Carga sobresaliente:
 
-La educación a que se refiere la presente sección tendrá las modalidades de escolarizada, no escolarizada y mixta.
+I.- Queda prohibido el tránsito de vehículos con carga que sobresalga lateralmente de la carrocería.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+II.- Sólo se permitirá carga sobresaliente por atrás a los vehículos de carga, cuando no exceda de la tercera parte de la longitud de la plataforma y a condición de que no sobrepase las dimensiones máximas reglamentarias.
 
-###### ARTÍCULO 95.
+III.- Se exceptúan de lo dispuesto en el párrafo anterior, los casos en que a juicio de la autoridad, se justifique la expedición de autorizaciones especiales señalándose en las mismas, las medidas de protección que deban adoptarse.
 
-La instancia que atienda a la educación media superior y superior coordinará las actividades formativas, las que se regirán por los lineamientos generales determinados por la Autoridad Educativa Federal y la Secretaría del Trabajo y Previsión Social, mediante acuerdo publicado en el Diario Oficial de la Federación de fecha dos de agosto de mil novecientos noventa y cinco.
+IV.- En todo caso, las cargas sobresalientes deberán ser debidamente demarcadas con banderolas rojas durante el día y lámparas rojas durante la noche.
 
-(REFORMADO, P.O. 25 DE ABRIL DE 2007) (F. DE E., P.O. 16 DE JUNIO DE 2007)
+###### ARTICULO 101.
 
-#### SECCIÓN I. DE LOS PADRES Y MADRES DE FAMILIA Y SUS ORGANIZACIONES
+Ningún vehículo deberá exceder de las siguientes dimensiones:
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Longitud 12.00 metros, excepto los articulados que podrán tener hasta 18.30 metros de longitud.
 
-###### ARTÍCULO 96.
+Anchura 2.60 metros, incluyendo la carga del vehículo.
 
-La educación de tipo superior es la que se cursa después de los estudios de bachillerato o su equivalente, integra tres funciones sustantivas: Docencia, investigación y difusión. Comprende: La licenciatura, las especialidades, maestrías, doctorados y posdoctorados.
+Altura 4.00 metros, incluyendo la carga del vehículo.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 102.
 
-###### ARTÍCULO 97.
+La carga y descarga de objetos, se efectuará directamente del vehículo al interior de la finca y viceversa.
 
-Quedan sujetas a lo dispuesto por esta Ley las instituciones privadas de nivel superior, que hayan obtenido del Estado la autorización o el reconocimiento de validez oficial de estudios.
+###### ARTICULO 103.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+En las calles de un solo sentido, la carga y descarga se hará del lado en que se encuentre ubicada la casa o almacén previo permiso del Departamento de Tránsito, debiendo procurar éste, se efectúe en las horas en que el tráfico sea menos intenso.
 
-###### ARTÍCULO 98.
+###### ARTICULO 104.
 
-Las funciones de la educación superior son:
+Para la descarga de objetos pesados se usarán planos inclinados o cualquier otro sistema de protección al pavimento. Los propietarios de los vehículos serán responsables de los daños que ocasionen por esta omisión.
 
-I. La formación de profesionistas;
+###### ARTICULO 105.
 
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 2010)</small>
+Durante la carga o descarga de un vehículo de tracción animal, es obligatorio que una persona permanezca al cuidado inmediato de los animales.
 
-II. La investigación científica, humanista, educativa y tecnológica que atienda en forma equilibrada, tanto las necesidades ambientales, el rescate de los ecosistemas y el desarrollo sustentable de la Entidad, como las de interés académico, tecnológico y cultural. Se contemplarán además, las del rescate, la preservación y el enriquecimiento de la cultura regional, nacional y universal.
+###### ARTICULO 106.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Ninguna persona deberá poner en movimiento un vehículo, sin que previamente se cerciore de que puede hacerlo con seguridad.
 
-###### ARTÍCULO 99.
+###### ARTICULO 107.
 
-La Autoridad Educativa Estatal procurará impulsar la efectividad del Sistema Estatal de Formación de Profesionales de la Educación, el cual tendrá los siguientes ámbitos de competencia:
+Ninguna persona que conduzca un vehículo deberá hacerlo negligente o temerariamente, poniendo en peligro la seguridad de las personas o de los bienes.
 
-I. La formación inicial, para obtener el grado de licenciatura de docente de educación básica, incluyendo aquellas para la atención de la educación indígena, especial, de educación física, artística, social y tecnológica;
+Se prohibe la circulación de vehículos, en la noche, a aquellos que por sus características y dimensiones ocupen mayor espacio del establecido para el carril de circulación.
 
-II. La actualización de los docentes en servicio, entendida ésta como la constante reflexión sobre la práctica propia respecto a planes de estudio, avances pedagógicos, innovaciones educativas y estrategias didácticas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III. La capacitación de los docentes, para habilitar al personal que se ha incorporado al servicio docente, sin tener las competencias profesionales correspondientes; y
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-IV. La superación de los docentes en servicio, para que logren obtener niveles académicos superiores a la licenciatura, tales como especialización, maestría, doctorado o posdoctorado.
+ARTICULO 107 BIS.- Para efectos del artículo anterior se considera:
 
-> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2010)</small>
+I. Conducción temeraria:
 
-En la formación inicial, la actualización, la capacitación y la superación de los docentes, la autoridad educativa estatal buscará fortalecer el desarrollo de la investigación científica que les permita, dentro de otros propósitos, asumir una actitud crítica y propositiva respecto al rescate y el respeto a los ecosistemas, la atención de las necesidades del medio ambiente y al desarrollo sustentable de la Entidad.
+a. Conducir a exceso de velocidad en una zona escolar.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+b. Conducir duplicando el límite de velocidad establecido.
 
-###### ARTÍCULO 100.
+c. Cometer dos o más infracciones consideradas como graves, vinculadas a un mismo acto.
 
-La Autoridad Educativa Estatal procurará la creación del Sistema Estatal de Formación de Profesionales de la Educación, mismo que tendrá las siguientes responsabilidades:
+d. Conducir un vehículo de servicio público de transporte, de carga o pasaje, presentando cualquier porcentaje de alcohol en sangre o aire espirado.
 
-I. Organizar y conducir las instancias que integran el Sistema Estatal de Formación de Profesionales de la Educación, y evaluar su desempeño.
+II. Conducción negligente:
 
-II. Consolidar y dar seguimiento al Sistema Estatal de Formación de Profesionales de la Educación, de acuerdo con la normatividad aplicable y las políticas estatales y nacionales que genere la Dirección General de Educación Superior para Profesionales de la Educación y la propia Subsecretaría de Educación Superior.
+a. Conducir de noche sin luces funcionales.
 
-III. Regular la oferta educativa de formación, actualización, capacitación y superación profesional para docentes, que responda con efectividad a los requerimientos estatales.
+b. Conducir sin luces posteriores de frenado funcionales.
 
-IV. Dirigir, sistematizar y evaluar la aplicación de programas alternativos de capacitación, actualización y superación para los docentes de educación básica, normal y educación superior.
+c. Transportar personas en la parte exterior de la carrocería.
 
-V. Fomentar el intercambio de innovaciones, servicios y recursos entre las instituciones de educación normal, las unidades de la Universidad Pedagógica Nacional, las instituciones de Posgrado, los Centros de Actualización del Magisterio y de la Escuela de Trabajo Social, entre otros.
+d. Trasportar a menores de seis años, contraviniendo lo dispuesto en el tercer párrafo del artículo 108 de la presente ley.
 
-VI. Establecer mecanismos de vinculación e intercambio profesional con instituciones de educación superior, estatales, nacionales e internacionales, con el fin de contribuir a la formación permanente de los docentes y profesionales de la educación.
+e. Conducir realizando acciones que impliquen simultáneamente la utilización de una mano y provoquen distracción visual.
 
-VII. Implementar sistemas electrónicos virtuales para la capacitación, actualización y profesionalización de los docentes en servicio, a través de las nuevas tecnologías de la información y comunicación.
+###### ARTICULO 108.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Ninguna persona conducirá un vehículo de motor sin llevar asido firmemente con ambas manos el control de dirección, ni llevará a su izquierda o entre sus brazos ninguna persona o bulto, ni permitirá que otra persona tome el control de dirección o dificulte esta maniobra.
 
-###### ARTÍCULO 101.
+> <small>(ADICIONADO, B.O. 8 DE MAYO DE 2000)</small>
 
-La Autoridad Educativa Estatal debe orientar el desarrollo de la matrícula en las licenciaturas, especialidades y posgrados en las instituciones formadoras de docentes, conforme a las necesidades regionales y del servicio.
+Es obligatorio para todo conductor, así como para sus acompañantes, utilizar el cinturón de seguridad a que se refiere el artículo 69 de esta Ley, cuando el vehículo esté en marcha.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### ARTÍCULO 102.
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-La Autoridad Educativa Estatal debe diseñar normas y establecer procedimientos que permitan evaluar los alcances y objetivos en materia de educación normal, superior, investigación y posgrado.
+Los menores de seis años de edad deberán viajar, obligatoriamente, en el asiento trasero del vehículo y en un asiento de seguridad para niños, debiendo sujetarlos con el cinturón de seguridad para adultos, siguiendo las instrucciones del fabricante del vehículo y del asiento de seguridad señaladas para ese efecto, según las posibilidades del vehículo.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### ARTÍCULO 103.
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-La educación superior promoverá la coordinación con las instituciones públicas y privadas y con los sectores productivos, con el propósito de mejorar el desarrollo y creación de posgrados, así como el de las actividades científicas y tecnológicas dentro y fuera del país.
+Queda prohibido a los conductores hacer uso de teléfonos celulares, dispositivos de comunicación, computadoras, o cualquier otro artículo que distraiga o dificulte la maniobrabilidad del vehículo.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 109.
 
-###### ARTÍCULO 104.
+Queda prohibido a los conductores de vehículos, transitar sobre las rayas longitudinales marcadas en la superficie de rodamiento, que delimiten los carriles de circulación.
 
-Las y los estudiantes de educación superior, prestarán su servicio social de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, en la Ley General de Educación, en la presente Ley y demás disposiciones legales aplicables.
+###### ARTICULO 110.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Ningún vehículo debe ser conducido a través o dentro de una isleta, sus marcas de aproximación o una zona de seguridad para peatones.
 
-###### ARTÍCULO 105.
+###### ARTICULO 111.
 
-Las Instituciones de Educación Superior deben proporcionar información, datos o la cooperación técnica que le sean requeridos por otras dependencias del Ejecutivo Estatal o por las unidades de la propia Secretaría de Educación y Cultura, de acuerdo con las disposiciones legales aplicables y las políticas establecidas al respecto.
+Los conductores deberán tener el debido cuidado para evitar atropellamientos y advertirán a los peatones del peligro, haciendo sonar la bocina cuando sea absolutamente necesario, extremando precauciones especialmente cuando se observen en la vía a un niño o cualquier persona aparentemente impedida. Iguales medidas de seguridad, observarán cuando haya niños jugando en las inmediaciones de la vía.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+### CAPITULO IV. DEL EQUIPO DE LOS VEHICULOS
 
-###### ARTÍCULO 106.
+###### ARTICULO 112.
 
-Las instituciones que impartan educación superior deberán formar parte del Consejo Estatal para la Planeación de la Educación Superior, en atención a sus funciones y requerimientos de participación a través del Plan Estatal Integral para el Desarrollo de la Educación Superior (PEIDES).
+Queda prohibido a los conductores producir con sus vehículos ruidos que molesten a otras personas.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 113.
 
-###### ARTÍCULO 107.
+Solamente se dará marcha atrás en un espacho (sic) no mayor de diez metros, cuando el movimiento pueda hacerse con seguridad y sin interferir el tránsito.
 
-Financiar y organizar, directamente o coordinar con instituciones y organismos educativos estatales y municipales, congresos, seminarios, exposiciones, eventos culturales y concursos de carácter educativo, científico, cultural y artístico.
+Queda prohibido realizar estas maniobras en las bocacalles.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### ARTÍCULO 108.
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-La Autoridad Educativa Estatal, procurará promover la firma de Convenios con Colegios, Asociaciones de Profesionistas y Empresas, que impulsen el desarrollo y la vinculación de las Instituciones de Educación Superior. Para lo anterior, se instrumentarán Programas de Educación Continua, capacitación y todas aquellas formas de aprendizaje que permitan la consolidación de conocimientos y sus aplicaciones.
+###### ARTICULO 114.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Todo conductor de bicicleta tiene los mismos derechos y está sujeto a las mismas obligaciones que para los conductores de vehículos de motor señala esta Ley, excepto las que por su naturaleza no le sean aplicables.
 
-###### ARTÍCULO 109.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-La Autoridad Educativa Estatal, por conducto de la Dirección de Profesiones, vigilará el cumplimiento de los requisitos previstos en las leyes de la materia para el ejercicio profesional.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 115.
 
-###### ARTÍCULO 110.
+Queda prohibida la conducción de bicicletas en la vía pública a menores de 12 años de edad.
 
-La Autoridad Educativa Estatal procurará desarrollar Programas de Superación Profesional orientado a los formadores de los profesionales de la educación, mediante un sistema progresivo de becas a través de convenios con instituciones estatales, nacionales o del extranjero que permitan diversificar y mejorar la calidad de la oferta educativa actual.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 111.
+Se exceptúan de lo anterior, aquellas calles, avenidas, callejones y demás vías que se encuentren dentro de cerradas residenciales, fraccionamientos o vías de circulación controlada, entendiéndose por estas últimas, aquellas cuya velocidad máxima de circulación sea de 20 kilómetros por hora, siempre que los menores se encuentren acompañados de un adulto.
 
-La Autoridad Educativa Estatal procurará incrementar la inversión económica para favorecer el desarrollo de la investigación y la difusión para la innovación de las prácticas educativas; así mismo, autorizar la diversificación de las fuentes de financiamiento y dar autonomía institucional para la utilización de los ingresos propios.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Las instituciones de enseñanza superior, mediante convenio con las Autoridades Educativas del Estado, podrán realizar entre el sector educativo tareas de promoción acerca de las ciudades del conocimiento con la finalidad de generar un ambiente propicio para una futura educación apegada a este principio.
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 116.
 
-### CAPITULO VI. DE LA EDUCACIÓN QUE IMPARTAN LOS PARTICULARES
+Toda persona que conduzca una bicicleta deberá utilizar casco de seguridad y deberá viajar sentado, viendo hacia adelante con una pierna en cada uno de los lados del vehículo y manteniendo ambas manos sujetando el manubrio.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### ARTÍCULO 112.
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-En el Estado de Chihuahua, toda educación que se imparta, promueva u ofrezca, deberá procurar la mejora continua de su calidad, integrando, entre otros, los principios de equidad, pertinencia, relevancia, eficiencia y eficacia en el marco de la diversidad y perspectiva de género en el proceso educativo.
+###### ARTICULO 117.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+En las bicicletas podrán viajar únicamente el número de personas para las cuales se encuentren diseñadas.
 
-###### ARTÍCULO 113.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Los diversos actores del Sistema Educativo Estatal realizarán acciones que los proyecten y vinculen con la comunidad de que formen parte, para elevar la calidad de la educación que impartan.
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 118.
 
-###### ARTÍCULO 114.
+Toda persona que conduzca bicicletas deberá mantenerse en el carril de la extrema derecha de la vía y procederá, con el debido cuidado, al pasar a un vehículo estacionado.
 
-Las autoridades educativas, estatal y municipal, promoverán la participación de la sociedad en los procesos educativos que tengan por objeto fortalecer y elevar la calidad de la educación que ofrezcan las instituciones públicas, así como ampliar la cobertura de los servicios educativos, de conformidad con los lineamientos que emitan las autoridades educativas, Federal y Estatal, y la presente Ley, así como su vinculación con el sector productivo y con los medios de comunicación social.
+> <small>N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL B.O. 21 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE EL TEXTO ANTERIOR CONSTABA DE TRES FRACCIONES.</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### ARTÍCULO 115.
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-Las autoridades educativas tomarán medidas tendientes a establecer condiciones que permitan el ejercicio pleno del derecho a la educación de cada persona y una mayor equidad educativa, en cuanto a oportunidades de acceso, permanencia y promoción en los servicios educativos.
+###### ARTICULO 119.
 
-Dichas medidas estarán dirigidas, de manera preferente, a las comunidades de aprendizaje con mayor rezago educativo o que enfrenten condiciones sociales de desventaja.
+Toda persona que conduzca bicicletas podrá libremente dar vuelta a la derecha para incorporarse a otra vía con la debida precaución pero cuando el conductor requiera girar a la izquierda, deberá cruzar como peatón por la demarcación correspondiente, siguiendo los señalamientos peatonales correspondientes.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### ARTÍCULO 116.
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-La Autoridad Educativa Estatal garantizará la equidad de la educación, a través de las siguientes acciones:
+### CAPITULO V. DE LAS REGLAS QUE DEBEN OBSERVAR LOS CONDUCTORES DE VEHICULOS PARA LA CIRCULACION DE LOS MISMOS
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2010)</small>
+###### ARTICULO 120.
 
-I. Implementar programas compensatorios, en coordinación con la Autoridad Educativa Federal, orientados a alcanzar la equidad con una perspectiva de género, atendiendo de manera especial a las necesidades educativas de indígenas, campesinos, obreros, migrantes, personas con necesidades educativas especiales asociadas o no a discapacidad y, en general, a la población en condiciones de marginación y exclusión de los ámbitos familiar, educativo y social. En la aplicación de estos programas tendrán prioridad las y los educandos de seis a quince años de edad.
+Ninguna persona que conduzca una bicicleta deberá asirse o sujetarse de bicicleta, vehículo automotor o ningún otro vehículo que transite en la vía pública.
 
-> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-En uso de sus facultades, y en coordinación con la Autoridad Educativa Federal en su caso, deberá aplicar procedimientos de evaluación acordes a las necesidades de las personas con discapacidad, con el fin de garantizar su incorporación y permanencia en el nivel de educación superior del sistema educativo estatal, en un marco de equidad;
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-II. Atender de manera especial a las escuelas que concentran en su población escolar a personas que provienen de grupos vulnerables, en la que es considerablemente mayor la posibilidad de marginación y exclusión, mediante la inversión de recursos económicos y humanos con preparación profesional para mejorar la calidad educativa de estos grupos;
+###### ARTICULO 121.
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2010)</small>
+Ninguna persona deberá conducir una bicicleta entre los carriles de tránsito y entre hileras adyacentes de vehículos.
 
-III. Desarrollar programas de actualización y capacitación, a través del Sistema de Formación de Profesionales de la Educación o la Unidad de Formación Continua para docentes de educación básica que realicen su labor en localidades aisladas o zonas urbanas marginadas, en centros poblacionales de fácil y difícil acceso, a fin de fomentar el arraigo en esas comunidades y mejorar la calidad educativa, así como desarrollar programas de actualización y capacitación para profesionalizar a los docentes que atiendan a personas provenientes de grupos vulnerables o con necesidades educativas especiales asociadas o no a discapacidad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(F. DE E., P.O. 16 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-IV. Establecer y garantizar, como una opción, el acceso a sistemas de educación a distancia para el tipo básico a fin de incorporar y asegurar la permanencia al Sistema Educativo Estatal a los escolares que viven en localidades dispersas y con población reducida;
+###### ARTICULO 122.
 
-V. Establecer programas de alfabetización y de educación comunitaria y profesionalizar al personal encargado de implementar acciones que tiendan a elevar los niveles culturales, sociales y de bienestar de la población;
+Ninguna persona que conduzca una bicicleta podrá llevar carga de cualquier naturaleza, a menos que el vehículo esté especialmente acondicionado para ello y no se afecte su estabilidad ni la visibilidad del conductor.
 
-VI. Destinar recursos suficientes al programa de becas y demás apoyos económicos a las y los educandos en condiciones de pobreza o marginación;
+> <small>(ADICIONADO, B.O. 11 DE DICIEMBRE DE 2014)</small>
 
-VII. Desarrollar, a través de los distintos medios de comunicación, programas educativos dirigidos a los padres y madres de familia o tutores, que los orienten sobre el desarrollo, cuidado y atención que deben dar a sus hijos, hijas o pupilos; promuevan la solución de conflictos a través del diálogo y prevengan la violencia intrafamiliar;
+ARTICULO 122 BIS.- Todo conductor de bicicleta o motocicleta tiene derecho a que los edificios públicos cuenten con la estructura adecuada para el estacionamiento de bicicletas o motocicletas.
 
-VIII. Promover mayor participación de la sociedad en la educación, así como el apoyo de los particulares u organizaciones de la sociedad civil al financiamiento y a las actividades a que se refiere el presente capítulo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IX. Promover la creación de centros de desarrollo infantil, de integración social, de educación especial, internados, albergues, de atención a grupos vulnerables, aulas hospitalarias y demás planteles que apoyen en forma continua el aprendizaje de las y los educandos;
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-X. Promover la creación de centros para atención a grupos vulnerables y aulas hospitalarias a través de convenios interinstitucionales que garanticen una intervención integral de los menores, orientada de manera prioritaria a la reintegración familiar, escolar y social;
+###### ARTICULO 123.
 
-XI. Promover la creación de reglamentos que rijan la operación de los centros de atención a grupos vulnerables y de aulas hospitalarias mediante la conformación de un equipo interdisciplinario de carácter interinstitucional;
+Cuando exista una pista especial para bicicletas, sea ésta una ciclo vía o una ciclo pista, los ciclistas estarán obligados a transitar exclusivamente por ésta.
 
-XII. Impulsar la inversión para el financiamiento de investigaciones educativas acerca de las medidas preventivas, correctivas y compensatorias en los programas de atención a las necesidades específicas de las y los educandos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XIII. Otorgar apoyos pedagógicos y sicológicos, desde educación preescolar hasta la educación superior, a través de programas de asesoría encauzados a recuperar el nivel de aprovechamiento escolar de las y los educandos;
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-XIV. Satisfacer las necesidades educativas de los pueblos indígenas y otras minorías étnicas;
+###### ARTICULO 124.
 
-XV. Vigilar que no se condicione la inscripción, asistencia y entrega de documentos oficiales a las y los educandos, cuyos padres, madres o tutores no puedan cumplir con aportaciones de cualquier tipo, que acuerden las Asociaciones de Padres de Familia;
+Todo vehículo en tránsito debe conservar su distancia, respecto al que va adelante, como a continuación se indica:
 
-XVI. Efectuar campañas educativas tendientes a elevar los niveles culturales, sociales y de bienestar de los chihuahuenses, comprendiendo programas de respeto al medio ambiente, erradicación de violencia intrafamiliar, prevención del delito y todo aquel que impulse la educación comunitaria;
+I.- Debe ir a una distancia de seguridad tal, que garantice la detención oportuna cuando el que lo precede frene intempestivamente, tomando en cuenta la velocidad, las condiciones de la vía y la del propio vehículo.
 
-XVII. Otorgar reconocimientos y apoyar a las instituciones y asociaciones civiles que realicen actividades que contribuyan a mejorar la calidad de la educación;
+II.- Debe ir a una distancia de seguridad tal, que permita que otro vehículo que intente adelantarlo puede hacerlo sin peligro, excepto cuando a su vez trate de adelantar al que lo precede.
 
-XVIII. Consolidar programas compensatorios, asistenciales, de ayuda alimenticia y de educación para la salud, para mejorar las condiciones sociales y alcanzar la equidad de la población escolar en situaciones de marginación o exclusión, entendida ésta como una efectiva equiparación de oportunidades de acceso, permanencia y logro en el sistema educativo estatal;
+III.- Los vehículos que circulen en caravana o comboy transitarán de manera que haya espacio suficiente entre ellos, para que otro pueda ocuparlo sin peligro. Se exceptúa cuando se trate de columnas militares o cortejos fúnebres.
 
-XIX. Conceder estímulos y reconocimientos a quienes contribuyan al logro de los propósitos mencionados en este capítulo; y
+IV.- Las disposiciones de las Fracciones I y II de este Artículo no se aplicarán en casos de congestionamiento de tránsito.
 
-XX. Realizar las demás actividades que permitan ampliar la calidad y la cobertura de los servicios educativos.
+###### ARTICULO 125.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+En vías de dos o más carriles en el mismo sentido, el vehículo deberá ser conducido hasta donde las circunstancias lo permitan en el mismo carril y sólo se desviará a otro, cuando el conductor se haya cerciorado de que podrá llevar a cabo esta maniobra con la necesaria seguridad.
 
-###### ARTÍCULO 117.
+###### ARTICULO 126.
 
-El Ejecutivo del Estado llevará a cabo programas compensatorios que apoyen con recursos específicos a los municipios con mayores rezagos educativos, previa celebración de convenios, en los que se concerten las proporciones de financiamiento y las acciones específicas que las autoridades educativas estatales deban realizar para reducir y superar dichos rezagos.
+Es obligatorio para los conductores que vayan a salir de una vía principal, pasar con suficiente anticipación al carril de su extrema derecha, para tomar desde su inicio el carril de desaceleración.
 
-El Poder Ejecutivo del Estado, en coordinación con la Secretaría de Educación y Cultura y los ayuntamientos, evaluarán los resultados en la calidad educativa de los programas compensatorios, así como la rendición de cuentas de los mismos.
+###### ARTICULO 127.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Los conductores que vayan a entrar a una vía principal, deberán tomar el carril de aceleración, debiendo ceder el paso a los vehículos que ya circulen por la vía principal.
 
-###### ARTÍCULO 118.
+###### ARTICULO 128.
 
-El Ejecutivo del Estado podrá celebrar convenios con el Ejecutivo Federal, los sectores público y privado con el objeto de abatir el rezago educativo. Así mismo, podrá celebrar convenios con organismos internacionales y recibir donaciones con el mismo fin o para financiamiento alternativo a la educación.
+En las vías de acceso controlados, se prohibe la entrada y salida de vehículos fuera de los lugares expresamente designados para ello.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 129.
 
-###### ARTÍCULO 119.
+Los vehículos deberán ser conducidos por la mitad derecha de la vía, salvo los siguientes casos:
 
-Los diversos programas que se implementen para conseguir la equidad en la educación deberán ser evaluados profesionalmente, y su cancelación sólo se podrá llevar a cabo previa evaluación que determine resultados insatisfactorios.
+I.- Cuando adelanten a otro vehículo.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+II.- Cuando la vía no tenga el ancho suficiente para dos carriles.
 
-### CAPITULO VII. DE LA PARTICIPACIÓN SOCIAL EN LA EDUCACIÓN
+III.- Cuando la mitad derecha estuviere obstruida y fuere necesario transitar por la izquierda del centro de la vía. En este caso los conductores deberán ceder el paso a los vehículos que se acerquen en sentido opuesto.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+IV.- Cuando la vía sea para el tránsito en un solo sentido.
 
-###### ARTÍCULO 120.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Los particulares podrán impartir educación en cualquier tipo, nivel y modalidad; por lo que concierne a la educación preescolar, la primaria, la secundaria, la normal y demás modalidades para la formación de profesionales de la educación básica deberán obtener, previamente para cada uno de ellos, la autorización expresa del Poder Ejecutivo Estatal.
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-Reconocimiento de validez oficial de estudios, es el acto mediante el cual la Autoridad Educativa Estatal, admite expresamente y en forma específica como procedente un plan y sus programas de estudios que imparten los particulares distintos del tipo básico, normal y demás para la formación de profesionales de la educación básica.
+ARTICULO 129 BIS.- Queda prohibido transitar en sentido opuesto a la circulación establecida, excepto para la realización de maniobras de rebase en los lugares permitidos para tal efecto.
 
-Autorización, es el acto mediante el cual exclusivamente la Autoridad Educativa Estatal, otorga el consentimiento a los particulares, específicamente para impartir la educación preescolar, primaria, secundaria, normal y demás para la formación de profesionales de la educación básica.
+### CAPITULO VI. PEATONES Y PASAJEROS
 
-Tanto en el caso de reconocimiento de validez oficial de estudios y en la autorización para que los particulares impartan preescolar, primaria, secundaria y normal, los particulares deberán obtener previamente a la apertura de planteles el acuerdo correspondiente.
+#### SECCION XI. ESTACIONAMIENTO
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 130.
 
-###### ARTÍCULO 121.
+Cuando un vehículo circule en una vía de 2 carriles con circulación en ambos sentidos, deberá tomar su estrema (sic) derecha al encontrar un vehículo que transite en sentido opuesto.
 
-La Autoridad Educativa Estatal podrá otorgar las autorizaciones o reconocimientos de validez oficial de estudios, y cambios de domicilio cuando los solicitantes cuenten:
+###### ARTICULO 131.
 
-I. Con personal docente que acredite la preparación profesional acorde con la educación a impartir, conforme a la normatividad aplicable;
+En vías de tres o más carriles, con circulación en ambos sentidos, ningún vehículo deberá ser conducido por el carril central, el que solamente podrá utilizarse en los siguientes casos:
 
-II. Con las instalaciones que satisfagan las condiciones funcionales, de seguridad, pedagógicas e higiénicas que exija la normatividad correspondiente, previa supervisión de las autoridades educativas. Para establecer un nuevo plantel se requerirá, según el caso, una nueva autorización o un nuevo reconocimiento;
+I.- Para adelantar a otro vehículo, siempre y cuando el carril central esté libre de vehículos en sentido opuesto en un tramo que le permita ejecutar la maniobra con seguridad.
 
-III. Con planes y programas de estudio, que la autoridad otorgante considere pertinentes para el caso de educación distinta de la preescolar, primaria, secundaria, normal y demás para la formación de docentes de educación básica;
+II.- Para dar vuelta a la izquierda.
 
-IV. Con la observancia de las normas laborales y de seguridad social previstas en la Ley Federal del Trabajo y la del Instituto Mexicano del Seguro Social; y
+El carril central se reserva para circulación de vehículos considerados como de emergencia y el carril de la extrema derecha de la vía para circulación de vehículos destinados al servicio público.
 
-V. Con el compromiso de informar a la Autoridad Educativa Estatal de la fecha de inicio de operaciones.
+###### ARTICULO 132.
 
-VI. En caso de solicitud de cambio de domicilio en la misma localidad, la misma se presentará por escrito y deberá ajustarse a lo que disponga la normatividad correspondiente en los aspectos técnicos pedagógicos y autorización del uso de suelo en lo que respecta al inmueble propuesto; la Autoridad Educativa verificará mediante visita de supervisión correspondiente, la pertinencia del cambio de domicilio solicitado.
+Cuando la superficie de rodamiento de una vía, esté dividida longitudinalmente por un espacio o una barrera, ningún vehículo transitará o cruzará por el espacio divisorio ni se estacionará en éste.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 133.
 
-###### ARTÍCULO 122.
+Para transitar en derredor de una plataforma circular, los vehículos deberán ser conducidos dejando a la izquierda el centro de la misma.
 
-La Autoridad Educativa Estatal publicará en el Periódico Oficial y en la página electrónica de Gobierno del Estado, antes del inicio de cada ciclo escolar, la relación de las instituciones a las que se haya concedido autorización o reconocimiento de validez oficial de estudios.
+###### ARTICULO 134.
 
-De la misma manera, se publicarán los nombres de las instituciones a las que se revoque o retire la autorización o reconocimiento respectivo.
+En intersecciones o zonas marcadas de paso de peatones, donde no haya semáforos ni agentes que regulen la circulación, los conductores cederán el paso a los peatones y ciclistas que se encuentren sobre la parte de la superficie de rodamiento correspondiente al sentido de circulación del vehículo. En vías de doble circulación, donde no haya refugio central para peatones o vuelta demarcada para bicicletas, también deberán ceder el paso a los que se aproximen provenientes de la parte de la superficie de rodamiento correspondiente al sentido opuesto.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+#### SECCION XII. VEHICULOS DE EMERGENCIA
 
-###### ARTÍCULO 123.
+###### ARTICULO 135.
 
-Los particulares que impartan estudios con autorización o reconocimiento oficial, deberán especificar en la documentación que expidan y en la publicidad que realicen, una leyenda que indique su calidad de incorporados, el número y fecha del acuerdo respectivo, así como la autoridad que lo otorga.
+Las intersecciones con calles transversales de calles laterales de avanidas (sic), serán consideradas independientes de las intersecciones de los carriles centrales de dichas avenidas con las mismas calles transversales, salvo que se rijan por un mismo semáforo.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+En consecuencia, las calles laterales no tendrán preferencia de paso sobre las calles transversales por el solo hecho de formar parte de una arteria más importante. Para determinar la preferencia de paso entre estas calles laterales y las transversales, se aplicarán las normas establecidas en esta Ley.
 
-###### ARTÍCULO 124.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Los particulares que impartan educación en el Estado, con autorización o reconocimiento oficial de estudios deberán:
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-I. Cumplir con lo dispuesto en el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado, en la Ley General de Educación, en la presente Ley y demás disposiciones legales;
+###### ARTICULO 136.
 
-II. Cumplir con el calendario escolar, planes y programas de estudio que las autoridades educativas competentes hayan determinado o considerado procedentes;
+El vehículo que se aproxime, en forma simultánea con otros procedentes de diferentes vías, a un crucero sin señalamiento o cuando todos tengan señalamiento de alto, deberá ceder el paso al que circule por su lado derecho.
 
-III. Proporcionar un mínimo del cinco por ciento de becas del total de la matrícula del período escolar a los alumnos que cumplan con los requisitos del reglamento respectivo;
+###### ARTICULO 137.
 
-IV. Facilitar y colaborar en las actividades de evaluación, inspección y vigilancia, que las autoridades competentes realicen u ordenen de acuerdo con la normatividad legal en la materia;
+Aunque los dispositivos para el control del tránsito lo permitan, queda prohibido avanzar sobre una intersección cuando adelante no haya espacio suficiente para que el vehículo deje libre la intersección.
 
-V. Cumplir los requisitos previstos en el artículo 121 de esta Ley;
+El conductor que se acerque a un crucero sin señalamiento, cederá el paso a aquellos vehículos que ya se encuentran ostensiblemente dentro de dicho crucero.
 
-VI. Participar en los Programas que la Autoridad Educativa Estatal promueva, para elevar la calidad de la educación que imparten los docentes y directivos en servicio.
+###### ARTICULO 138.
 
-(REFORMADO, P.O. 25 DE ABRIL DE 2007) (F. DE E., P.O. 16 DE JUNIO DE 2007)
+El conductor que tenga que cruzar la acera para entrar o salir de una cochera, estacionamiento o calle privada deberá ceder el paso a peatones y vehículos.
 
-###### ARTÍCULO 125.
+###### ARTICULO 139.
 
-Las autoridades que otorguen autorizaciones o reconocimientos de validez oficial de estudios, deberán inspeccionar y vigilar, de acuerdo con la normatividad vigente, los servicios educativos respecto de los cuales concedieron las autorizaciones o los reconocimientos.
+Tienen preferencia de paso los vehículos que se desplazan sobre rieles respecto de los demás.
 
-Para realizar una visita de inspección, deberá mostrarse la orden correspondiente expedida por la autoridad competente. La visita se realizará en el lugar, fecha y sobre los asuntos específicos señalados en dicha orden. El encargado de la visita deberá identificarse adecuadamente.
+###### ARTICULO 140.
 
-Desahogada la visita, se suscribirá el acta correspondiente por quienes hayan intervenido y deberá ser signada por dos testigos. En su caso, se hará constar en dicha acta la negativa del visitado de suscribirla, sin que esta negativa afecte su validez. Un ejemplar del acta se pondrá a disposición del visitado.
+Ningún conductor de vehículos deberá frenar bruscamente a menos que razones de seguridad le obliguen a ello.
 
-Los particulares podrán presentar a las autoridades educativas, documentación requerida y las inconformidades que a su derecho convengan relacionadas con la visita, dentro de los cinco días hábiles siguientes a la fecha de la inspección.
+#### SECCION I. DISPOSICIONES PRELIMINARES
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 141.
 
-###### ARTÍCULO 126.
+Todo conductor que pretenda detenerse, reducir considerablemente su velocidad, hacer viraje para dar vuelta o cambiar de carril, sólo iniciará la maniobra, cuando se cerciore de que puede ejecutarla con seguridad, avisando previamente al que le siga de la siguiente manera:
 
-Los particulares que impartan estudios sin reconocimiento de validez oficial, deberán especificar en la documentación correspondiente y en la publicidad que efectúen, una leyenda que indique su calidad de no incorporados.
+I.- Para hacer alto o reducir la velocidad; en defecto de la luz de freno o para reforzar esta indicación, sacará por el lado izquierdo del vehículo el brazo extendido hacia abajo.
 
-En el caso de educación inicial y de preescolar deberán, además, contar con personal que acredite la preparación adecuada para impartirla; contar con instalaciones que satisfagan las condiciones higiénicas, de seguridad y pedagógicas universalmente aceptadas; cumplir los requisitos a que alude la fracción VII del artículo 12 de la Ley General de Educación; y tomar las medidas a que se refiere el artículo 42 de la misma Ley, así como facilitar la inspección y vigilancia de las autoridades competentes.
+II.- Para hacer un viraje: deberá usar la luz direccional correspondiente; en su defecto o para reforzar esta indicación, hará alguno de los siguientes ademanes:
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Viraje a la derecha: el brazo extendido hacia arriba, formando un ángulo de 90 grados.
 
-###### ARTÍCULO 127.
+Viraje a la izquierda: el brazo extendido horizontalmente.
 
-La autorización o el reconocimiento de validez oficial, serán otorgados en forma específica para cada plan y nivel de estudios. Para impartir nuevos estudios o nuevos niveles se requerirá, según el caso, la autorización o el reconocimiento respectivo.
+III.- Queda prohibido a los conductores hacer las indicaciones anteriores cuando no vayan a efectuar la maniobra correspondiente. En todo caso, hecho el ademán deberán hacer el viraje.
 
-La autorización o el reconocimiento, incorporan a las instituciones que los obtengan al Sistema Educativo Nacional, respecto de los estudios a que la propia autorización o el reconocimiento se refieran.
+En las vías públicas que comuniquen zonas urbanas con suburbanas y rurales, todo conductor para cambiar de dirección a la izquierda, deberá abandonar el arroyo de circulación hacia la derecha, a fin de que los demás vehículos continúen su tránsito, debiendo reanudar la circulación una vez que pueda hacerlo con la seguridad debida.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 142.
 
-###### ARTÍCULO 128.
+Para dar vuelta en una intersección, los conductores lo harán con precaución, cediendo el paso a los peatones y procediendo como sigue:
 
-La Autoridad Educativa Estatal, podrá revocar la autorización o reconocimiento de validez oficial de estudios, en los siguientes casos:
+I.- Vuelta a la derecha:
 
-I. Cuando advierta que existe personal docente en funciones, sin contar con la preparación profesional o la autorización correspondiente;
+Tanto el movimiento para colocarse en posición como la propia maniobra se harán tomando el extremo derecho del carril adyacente a la acera o a la orilla de la vía;
 
-II. Cuando se incremente el monto de inscripciones y colegiaturas, sin la autorización correspondiente de las autoridades competentes para el efecto;
+II.- Vuelta a la izquierda:
 
-III. Cuando no se otorgue el porcentaje de becas que se estipula reglamentariamente;
+a).- En cualquier intersección donde el tránsito sea permitido en ambos sentidos en cada una de las vías que se cruzan:
 
-IV. Cuando no se cumpla con el plan y programas de estudio autorizados por las autoridades educativas oficiales;
+La aproximación del vehículo deberá hacerse sobre la mitad derecha de la vía, junto a la raya central y, después de entrar a la intersección cediendo el paso a los vehículos que circulen en sentido contrario por la vía que abandona, dará vuelta a la izquierda de tal manera que al salir de la intersección se coloque inmediatamente a la derecha de la raya central de la vía a la que se ha incorporado;
 
-V. Cuando no se entregue la documentación administrativa solicitada o no se atienda a las convocatorias expedidas; y
+b).- En vías con circulación en un solo sentido:
 
-VI. Cuando se realice algún acto que contravenga a la presente Ley.
+Tanto el movimiento para colocarse en posición como la vuelta, se harán tomando el extremo del carril izquierdo adyacente a la acera o a la orilla de la vía;
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+c).- De una vía de un sentido a otra de doble sentido:
 
-###### ARTÍCULO 129.
+Se hará la aproximación tomando el extremo del carril izquierdo adyacente a la acera o a la orilla de la vía y, después de entrar a la intersección, dará vuelta a la izquierda de tal manera que al salir de aquella se coloque inmediatamente a la derecha de la raya central de la vía a la que se ha incorporado;
 
-La Autoridad Educativa Estatal podrá efectuar supervisiones periódicas en lo pedagógico, en lo administrativo y a las instalaciones de las instituciones particulares, en los términos de la Ley General de Educación.
+d).- Una vía de doble sentido a otra de un solo sentido:
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+La aproximación deberá hacerse sobre la mitad derecha de la vía junto a la raya central y después de entrar a la intersección dará vuelta a (sic) izquierda de tal manera que al salir de aquella se coloque en el extremo del carril izquierdo adyacente a la acera o a la orilla de la vía a la que se ha incorporado.
 
-### CAPÍTULO VIII. DE LA PLANEACIÓN Y EVALUACIÓN DEL PROCESO EDUCATIVO
+e).- Cuando sea practicable, la vuelta a la izquierda deberá efectuarse dejando a la derecha el centro de la intersección.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+#### SECCION II. ADEMANES DE LA POLICIA
 
-#### SECCIÓN II. DE LOS CONSEJOS DE PARTICIPACIÓN SOCIAL
+###### ARTICULO 143.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Ningún conductor deberá dar vuelta en "U" para colocarse en sentido opuesto a mitad de cuadra, o cerca de una curva, o de una cima, o donde su vehículo no pueda ser avistado por otro conductor desde una distancia de seguridad, de acuerdo con la velocidad máxima permitida en la vía.
 
-###### ARTÍCULO 130.
+No se permitirá la vuelta en "U" en las arterias de tráfico intensivo.
 
-Son derechos de quienes ejercen la patria potestad o la tutela:
+###### ARTICULO 144.
 
-l. Obtener la inscripción en escuelas públicas para que sus hijas, hijos o pupilos, reciban educación preescolar, primaria y secundaria, procurando que cursen el tipo medio superior y superior;
+Durante la noche o cuando por las circunstancias que prevalezcan no haya suficiente visibilidad, todo vehículo deberá llevar encendidas sus lámparas de acuerdo con las reglas siguientes:
 
-II. Formar parte de las Asociaciones de Padres de Familia y representar o estar representados en los Consejos de Participación Social a que se refiere la Sección II de este Capítulo;
+I.- Faros principales:
 
-III. Colaborar con el personal docente que atienda a sus hijas, hijos o pupilos, en el tratamiento de los problemas de conducta o de aprendizaje; así como en el mejoramiento de los establecimientos educativos;
+a).- Todo vehículo en tránsito deberá llevar encendidos los faros principales;
 
-IV. Informar a las autoridades de la escuela en la que estén inscritos sus hijos, hijas o pupilos, cualquier problema relacionado con la educación de éstos, con la finalidad de generar alternativas de solución;
+b).- En zonas suficientemente iluminadas deberá usarse la "luz baja";
 
-V. Formar parte de las Asociaciones de Padres de Familia y los Consejos de Participación Social a que se refiere este Capítulo;
+c).- En zonas que no estén suficientemente iluminadas deberá usarse la "luz alta", comprobando que funcionan simultáneamente la luz indicadora en el tablero;
 
-VI. Participar en el análisis y toma de decisiones respecto de las contraprestaciones que se fijen en el caso de la educación que impartan los particulares;
+d).- La "luz alta" deberá ser sustituída por la "luz baja", tan pronto como se aproxime un vehículo en sentido opuesto para evitar deslumbramiento;
 
-VII. Recibir información periódica sobre el desempeño de sus hijas, hijos o pupilos;
+e).- Tampoco deberá emplearse la "luz alta" cuando se siga otro vehículo a una distancia que la haga innecesaria, para evitar deslumbrar al conductor del vehículo que le precede. Sin embargo, puede emplearse la "luz alta" alternando con la "luz baja", para anunciar la intención de adelantar, en cuyo caso el conductor del otro vehículo deberá sustituir la "luz alta" a la "luz baja" en cuanto haya sido adelantado.
 
-VIII. Participar en los Programas de Educación para Padres de Familia; y
+II.- Luces de estacionamiento:
 
-IX. Participar de manera colaborativa con el personal docente y directivo en el diseño, implementación y evaluación del proyecto escolar, con la finalidad de mejorar la calidad de los aprendizajes de las y los alumnos;
+Deberán emplearse cuando el vehículo se encuentre parado o estacionado de acuerdo con lo dispuesto en el Artículo 65 de la presente Ley;
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+III.- Luces posteriores:
 
-###### ARTÍCULO 131.
+Los conductores deberán comprobar que las luces rojas posteriores y las blancas que iluminan las placas de circulación aparecen al encender los faros principales o los de estacionamiento. Asimismo, deberán comprobar que las luces de reversa únicamente encienden cuando se está efectuando este movimiento.
 
-Son obligaciones de quienes ejercen la patria potestad o la tutela:
+IV.- Los omnibuses o camiones deberán llevar encendidas las demás lámparas reglamentarias;
 
-l. Garantizar que sus hijas, hijos o pupilos menores de edad reciban la educación preescolar, primaria y secundaria, procurando que accedan a la educación media superior y superior;
+V.- Faros buscadores:
 
-II. Apoyar de manera permanente el proceso educativo de sus hijas, hijos o pupilos;
+Su empleo sólo está permitido cuando el vehículo esté parado momentáneamente y de modo que el haz luminoso no se proyecte sobre otro vehículo en circulación;
 
-> <small>(F. DE E., P.O. 16 DE JUNIO DE 2007)</small>
+VI.- Faros de niebla:
 
-III. Colaborar con las autoridades escolares y las organizaciones de padres de familia, en las actividades que se realicen en los planteles tendientes a mejorar la calidad educativa;
+Sólo podrán encenderse cuando sea necesario por la presencia de niebla y podrá utilizarse simultáneamente con la luz baja de los faros principales;
 
-IV. Asistir a las reuniones deliberativas convocadas en la escuela;
+VII.- Los vehículos agrícolas y otros especiales deberán llevar encendidas las lámparas reglamentarias;
 
-V. Vigilar que sus hijas, hijos o pupilos cumplan con las tareas y actividades extraescolares y extracurriculares definidas por el personal docente de la escuela; y
+VIII.- Queda prohibido el empleo de luces rojas visibles por el frente del vehículo y luces blancas visibles por atrás excepto las que iluminan la placa de identificación o la de reversa.
 
-VI. Proporcionar a sus hijas, hijos o pupilos los útiles y materiales escolares necesarios para el mejor desempeño de sus actividades; (sic)
+###### ARTICULO 145.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Las luces direccionales se emplearán para indicar cambios de dirección como se establece en el Artículo 141, Fracción II de esta Ley. Cuando funcionen simultáneamente las de ambos lados, podrán emplearse como protección durante paradas o estacionamientos.
 
-###### ARTÍCULO 132.
+El empleo de luces direccionales deberá efectuarse a media cuadra antes de llegar a la intersección.
 
-En cada plantel de educación inicial, preescolar, primaria y secundaria del Sistema Educativo Estatal, habrá de formarse un (sic) asociación integrada por padres, madres de familia y tutores o por quienes ejerzan la patria potestad de las y los educandos, en el que deberá respetarse siempre la garantía de libre asociación, consagrada por el artículo 9o. de la Constitución Política de los Estados Unidos Mexicanos.
+### CAPITULO VII. INDICACIONES Y DISPOSITIVOS PARA EL CONTROL DEL TRANSITO
 
-Así mismo, en cada municipio deberá existir una asociación municipal de padres y madres de familia, integrado por representantes de las organizaciones antes mencionadas, de los diversos planteles educativos existentes en el mismo y en los que se imparta el tipo básico de educación.
+###### ARTICULO 146.
 
-En igual forma, dentro de la Entidad habrá de integrarse una asociación estatal de padres de familia, compuesto por representantes de las asociaciones municipales.
+Ninguna persona conducirá un vehículo por una vía pública a una velocidad mayor de la razonable y prudente, tomando en cuenta las condiciones del tránsito, del camino de la visibilidad, del vehículo y del propio conductor; ni superior a los límites que esta Ley establece. Tampoco conducirá un vehículo a una velocidad tan baja que entorpezca el tránsito, excepto cuando sea necesario marchar lentamente por razones de seguridad o en cumplimiento de la presente Ley o por cualquiera otra causa justificada.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Queda prohibido a los conductores entablar competencias de velocidad o de aceleración en las vías públicas.
 
-###### ARTÍCULO 133.
+#### SECCION III. SEÑALES
 
-La organización y funcionamiento de las asociaciones de padres de familia, se sujetarán a las disposiciones que emita la Autoridad Educativa Federal y Estatal.
+###### ARTICULO 147.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Los Ayuntamientos podrán modificar los límites máximos de velocidad que señala el Artículo 88 de esta Ley en las vías donde lo estimen conveniente. Al efecto instalarán las señales correspondientes.
 
-###### ARTÍCULO 134.
+###### ARTICULO 148.
 
-Las Asociaciones de Padres de Familia, deberán:
+En todo caso, cuando un vehículo sea conducido en una vía a velocidad más lenta que la normal de tránsito, deberá circular por su extrema derecha, excepto cuando esté preparándose para dar vuelta a la izquierda.
 
-I. Representar los intereses que en materia educativa sean comunes a sus representados;
+###### ARTICULO 149.
 
-II. Colaborar para una mejor integración de la comunidad escolar, así como el mejoramiento de las condiciones físicas y materiales de los planteles educativos;
+En pendiente descendiente, se deberá controlar la velocidad con el motor, evitando transitar con la caja de velocidades en punto neutral o con el pedal de embrague oprimido.
 
-III. Proponer las medidas que se estimen adecuadas para alcanzar los propósitos de la educación;
+###### ARTICULO 150.
 
-IV. Informar a la autoridad educativa inmediata, sobre cualquier irregularidad de que sean objeto las y los educandos; y (sic)
+Queda prohibido rebasar a cualquier vehículo que se haya detenido frente a una zona de paso a peatones, marcada o no, para permitir el paso a un peatón que cruce la vía.
 
-V. Abstenerse de intervenir en los aspectos pedagógicos y laborales de los establecimientos educativos.
+#### SECCION IV. MARCAS
 
-> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2012)</small>
+###### ARTICULO 151.
 
-VI. Informar anualmente en asamblea, a los integrantes de la asociación por conducto de su mesa directiva, en forma escrita, un mes antes del último día del ciclo escolar, sobre las actividades desempeñadas dentro de su gestión, incluyendo la administración de los recursos a su cargo. Además, deberá ser presentado dicho informe en el mismo plazo ante la Autoridad Educativa inmediata que corresponda.
+Queda prohibido invadir un carril de sentido opuesto a la circulación, para rebasar una hilera de vehículos.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 152.
 
-#### SECCIÓN III. DE LA PARTICIPACIÓN DE LAS Y LOS ALUMNOS
+El conductor de un vehículo que circule en el mismo sentido que otro, por una vía de 2 carriles y circulación en ambos sentidos, podrán rebasarlo por la izquierda sujetándose a las reglas siguientes:
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+I.- Deberá anunciar su intención con luz direccional y además, con señal audible durante el día y cambio de luces durante la noche; lo pasará por la izquierda a una distancia segura y tratará de volver al carril de la derecha tan pronto como le sea posible, pero hasta alcanzar una distancia razonable y sin obstruir la marcha del vehículo rebasado;
 
-###### ARTÍCULO 135.
+II.- Sin perjuicio de lo dispuesto en la Fracción anterior, todo conductor debe, antes de efectuar un rebase, cerciorarse de que ningún conductor que le siga ha iniciado la misma maniobra.
 
-Los Consejos de Participación Social en la Entidad son órganos de consulta, orientación y apoyo a la educación. Las autoridades educativas promoverán, de conformidad con los lineamientos que establezca la Autoridad Educativa Federal, la participación de la sociedad en actividades que tengan por objeto fortalecer y elevar la calidad de la educación pública, así como ampliar la cobertura de los servicios educativos. Para su operatividad, deberá constituirse un Consejo de Participación Social a nivel estatal, uno por cada municipio y uno por cada escuela.
+III.- El conductor de un vehículo que vaya a ser rebasado por la izquierda, deberá tomar su extrema derecha en favor del vehículo que lo rebasa ya sea por habérselo anunciado con señal audible, luz direccional o cambio de luces o por haber advertido su intención y no podrá aumentar la velocidad en su vehículo hasta que haya sido completamente rebasado por el vehículo que lo pasó.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2012)</small>
+Cuando la anchura insuficiente de la superficie de rodamiento, su perfil o su estado, no permitan, teniendo en cuenta la densidad de la circulación en sentido contrario, rebasar con facilidad y sin peligro de un vehículo lento, de grandes dimensiones u obligado a respetar un límite de velocidad, el conductor de este último vehículo deberá aminorar su marcha y, si fuera necesario apartarse cuanto antes para dejar paso a los vehículos que le siguen;
 
-###### ARTÍCULO 136.
+IV.- Ningún vehículo deberá ser conducido por el carril a la izquierda del centro de la vía para rebasar a otro, excepto cuando el carril de la izquierda ofrezca clara visibilidad y esté libre de tránsito proveniente del sentido opuesto, en una longitud suficiente que permita la maniobra de rebasar sin impedir la marcha normal del vehículo que pudiera venir en sentido opuesto al del vehículo que se pretenda rebasar. Bajo estas condiciones, el vehículo que rebasare a otro, deberá volver al carril de la derecha tan pronto como le sea posible, a una distancia razonable y sin obstruir la marcha del vehículo rebasado.
 
-El Consejo Estatal de Participación Socia l estará constituido por padres y madres de familia y representantes de sus asociaciones, docentes e integrantes de su organización sindical, instituciones formadoras de profesionales de la educación, autoridades educativas estatales y municipales, así como por miembros de los diferentes sectores sociales y productivos del Estado especialmente interesados en la educación, teniendo las siguientes atribuciones:
+###### ARTICULO 153.
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+Ningún vehículo podrá rebasar a otro por la izquierda del centro de la vía de 2 carriles en circulación en ambos en las condiciones siguientes:
 
-I. Promover y apoyar actividades extraescolares de carácter cívico, cultural, deportivo, de seguridad, salud, protección al ambiente y bienestar social;
+I.- Cuando el vehículo esté subiendo una pendiente o entre en una curva, donde el conductor tenga obstruída la visibilidad en una distancia que signifique un riesgo si viniere otro vehículo en sentido opuesto;
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+II.- Cuando el vehículo llegue a una distancia de cualquier intersección o de un crucero de ferrocarril, de un puente, túnel, o paso de desnivel, que signifique riesgo.
 
-II. Coadyuvar a nivel estatal en actividades de seguridad escolar, protección civil y emergencia escolar;
+###### ARTICULO 154.
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+El conductor de un vehículo podrá rebasar por la derecha a otro que transite en el mismo sentido, sólo en los siguientes casos y extremando las precauciones:
 
-III. Opinar en asuntos pedagógicos y conocer las demandas y necesidades que emanen de la participación social en la educación a través de los consejos escolares y municipales, conformando los requerimientos a nivel estatal para gestionar su apoyo y resolución ante las instancias competentes;
+I.- Cuando el vehículo alcanzado esté a punto de dar vuelta a la izquierda;
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+II.- En vías de 2 o más carriles que tengan el mismo sentido.
 
-IV. Conocer de los resultados de las evaluaciones que efectúen las autoridades educativas y colaborar con ellas en la implementación de acciones que coadyuven al mejoramiento de la calidad y cobertura de la educación; y (sic)
+###### ARTICULO 155.
 
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2012)</small>
+Queda prohibido rebasar vehículos por el acotamiento, así como por el carril del estacionamiento.
 
-V. Proponer ante la Secretaría de Educación, Cultura y Deporte, la actualización de los planes o la creación de nuevas áreas de estudio o profesiones de las diversas Instituciones educativas en el Estado, en coordinación y colaboración con los sectores productivos, a nivel estatal, para que esta Secretaría gestione su aprobación ante las autoridades federales competentes.
+###### ARTICULO 156.
 
-Para efecto de dar eficacia a la medida señalada con anterioridad, el Consejo habrá de pedir la opinión del sector productivo del ramo que se trate para delinear los perfiles técnicos o profesionales que requieran sus áreas.
+No será considerado como rebase, cuando cubiertos todos los carriles de circulación, los vehículos de una fila transiten más de prisa que los de otra.
 
-> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2012)</small>
+#### SECCION V. ISLETAS
 
-VI. Los demás asuntos que el reglamento respectivo establezca.
+###### ARTICULO 157.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Cuando se estaciona un vehículo deberán observarse las siguientes reglas:
 
-###### ARTÍCULO 137.
+I.- El vehículo deberá quedar orientado en el sentido de circulación, con las ruedas paralelas a la orilla de la vía excepto cuando se disponga el estacionamiento en ángulo.
 
-El Consejo Municipal de Participación Social en la Educación estará integrado por las autoridades municipales, padres y madres de familia y representantes de sus asociaciones, docentes distinguidos por su profesionalismo en el municipio, representantes de la organización sindical de los docentes, así como representantes de la sociedad y demás interesados en el mejoramiento de la educación.
+1.- En zonas urbanas, las ruedas contiguas a la acera deberán quedar a no más de 30 centímetros de ésta.
 
-El Consejo Municipal de Participación Social en la Educación, tendrá las siguientes atribuciones:
+2.- En zonas rurales, el vehículo deberá quedar fuera de la superficie de rodamiento.
 
-I. Gestionar ante el ayuntamiento y ante el Poder Ejecutivo Estatal el mejoramiento de los servicios educativos, la construcción y ampliación de escuelas públicas y demás proyectos de desarrollo educativo en el municipio;
+3.- Cuando el vehículo queda estacionado en pendiente, las ruedas delanteras deberán quedar dirigidas hacia la orilla de la acera.
 
-II. Conocer de los resultados de las evaluaciones que realicen las autoridades educativas para implementar acciones tendientes a mejorar la calidad del servicio y la cobertura;
+Si el vehículo pesa más de 3,500 kilogramos deberá calzarse con cuñas.
 
-III. Llevar a cabo labores de seguimiento de las actividades de las escuelas públicas de educación básica del propio municipio;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV. Estimular, promover y apoyar actividades de intercambio, colaboración y participación interescolar en aspectos académicos, culturales, cívicos, deportivos y sociales;
+> <small>(REFORMADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-V. Establecer la coordinación de escuelas con autoridades y programas de bienestar comunitario;
+II.- Cuando el conductor se retire del vehículo, apagará el encendido del motor, recogerá la llave, aplicará el freno de estacionamiento, cerrará las puertas con llave y no dejará sin supervisión de un adulto, a personas menores de 8 años de edad o personas con limitaciones en sus capacidades mentales en el interior del vehículo ni animales.
 
-VI. Realizar aportaciones relativas a las particularidades geográficas, culturales e históricas del municipio que contribuyan a la formulación de contenidos locales a ser propuestos para fortalecer los programas de estudio;
+###### ARTICULO 158.
 
-VII. Opinar en asuntos pedagógicos y conocer las demandas y necesidades de las escuelas pertenecientes al municipio para gestionar apoyos ante las instancias correspondientes;
+Todo conductor de transporte escolar, está obligado a poner en funcionamiento los dispositivos luminosos especiales cuando se detenga en la vía pública para recibir o dejar escolares y no deberá hacerlo en ninguna otra circunstancia.
 
-VIII. Coadyuvar a nivel municipal en actividades de protección civil, seguridad y emergencia escolar;
+### CAPITULO VIII. DE LOS ACCIDENTES
 
-IX. Promover actividades de orientación, capacitación y difusión dirigidas a padres, madres de familia y tutores para favorecer la interacción entre la escuela y la familia;
+###### ARTICULO 159.
 
-X. Proponer estímulos, reconocimientos y distinciones de carácter social a educandos, docentes, personal de apoyo y asistencia a la educación y a todo aquel que promueva acciones relevantes referidas a la educación y la cultura; y
+Todo conductor, al alcanzar o encontrar un vehículo de transporte escolar detenido en la vía pública para recibir o dejar escolares, detendrá el vehículo al aproximarse al transporte escolar, cuando esté funcionando en éste último la señal correspondiente y no emprenderá la marcha hasta que dicha señal deje de funcionar.
 
-XI. Los demás que el reglamento respectivo establezca.
+###### ARTICULO 160.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+El conductor que por causa de fuerza mayor tuviere que parar en la superficie de rodamiento de una carretera, lo hará procurando ocupar el mínimo posible de dicha superficie dejando una distancia de visibilidad suficiente en ambos sentidos. De inmediato colocará sobre la vía los dispositivos de advertencia reglamentarios como a continuación se indica:
 
-###### ARTÍCULO 138.
+I.- Si la vía es de un solo sentido, se colocará un dispositivo a 30.00 metros hacia atrás, en el centro del carril que ocupa el vehículo.
 
-En cada escuela pública de educación básica, operará un Consejo Escolar de Participación Social en la Educación, integrado por padres, madres de familia y tutores, así como representantes de la Asociación de Padres de Familia, docentes y representantes de su organización sindical, ex alumnos, así como aquellos miembros de la comunidad interesados en el desarrollo de la propia escuela.
+II.- Si la vía es de circulación en ambos sentidos, se colocará, además, otro dispositivo a 30.00 metros hacia adelante, en el centro del carril que ocupa el vehículo.
 
-Este Consejo Escolar de Participación Social en la Educación debe:
+III.- Si el vehículo tiene más de 2.00 metros de ancho, deberá colocarse atrás un dispositivo adicional a no menos de 3.00 metros del vehículo y a una distancia tal de la orilla derecha de la superficie de rodamiento que indique la parte que de ésta esté ocupando el vehículo.
 
-I. Coadyuvar con los docentes a la realización de las metas educativas y en el avance de las actividades escolares, conforme al calendario escolar;
+IV.- Cuando no hubiere sido posible estacionarse a más de 150.00 metros de una curva, cima o cualquiera otra obstrucción para la visibilidad, el dispositivo de advertencia hacia la curva, u obstrucción se colocará a una distancia de 30.00 a 150.00 metros del vehículo, de modo que advierta a los demás conductores del peligro.
 
-II. Conocer los resultados de las evaluaciones que realicen las autoridades educativas;
+De día deberá usarse las banderolas o su equivalente.
 
-III. Propiciar la colaboración de docentes, padres y madres de familia;
+De noche las lámparas, reflectantes o antorchas.
 
-IV. Proponer estímulos, reconocimientos y distinciones de carácter social a los educandos, docentes, personal de apoyo y asistencia a la educación, y a quien realice acciones destacadas referentes a la educación o a la cultura;
+###### ARTICULO 161.
 
-V. Estimular, promover y apoyar actividades extraescolares que complementen y respalden la formación de las y los educandos;
+Las mismas reglas señaladas en el artículo anterior deben observar los conductores de vehículos de más de 2.00 metros de ancho, que se estacionen por causa de fuerza mayor, fuera de la superficie de rodamiento y a menos de 2.00 metros de ésta, con la salvedad de que los dispositivos de advertencia serán colocados en la orilla de la superficie de rodamiento.
 
-VI. Llevar a cabo las acciones necesarias de participación, de coordinación y de difusión necesarias para la protección civil, seguridad y emergencia escolar;
+###### ARTICULO 162.
 
-VII. Podrá opinar sobre asuntos pedagógicos y desarrollar acciones que contribuyan a reducir las condiciones sociales adversas que influyan en la educación; y
+Ninguna persona estacionará un vehículo en los siguientes lugares:
 
-VIII. En general, podrá realizar actividades en beneficio del propio plantel.
+I.- Sobre la acera.
 
-En las escuelas particulares del tipo básico de educación, podrán integrarse y operar consejos similares, que cumplan con la normatividad correspondiente.
+II.- Al lado de un vehículo estacionado a la orilla de la vía.
 
-> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2011)</small>
+III.- Frente a una entrada de vehículos.
 
-Estos Consejos Escolares de Participación Social en la Educación, conforme a la normatividad expedida por la autoridad educativa competente, conformarán un Comité de Desaliento de las Prácticas que Generen Violencia entre Pares, cuyo objeto será prevenir, detectar y canalizar, ante la instancia correspondiente para su atención, al alumnado víctima y agresor del acoso escolar.
+IV.- Entre una zona de seguridad y la acera adyacente o a menos de 10.00 metros atrás o adelante de ese lugar.
 
-> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2011)</small>
+V.- A menos de 5.00 metros atrás o adelante de un hidrante.
 
-Para efectos de lo anterior, el Comité podrá celebrar convenios con instituciones educativas y oficiales relacionadas con atención psicológica.
+VI.- A menos de 5.00 metros de la entrada de una estación de bomberos o en la orilla opuesta a menos de 25.00 metros.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+VII.- A menos de 10.00 metros antes de una señal de alto o semáforo.
 
-###### ARTÍCULO 139.
+VIII.- En una zona de cruce de peatones o a menos de 5.00 metros de ella.
 
-La Autoridad Educativa Estatal, el presidente municipal y el personal en funciones directivas se responsabilizarán de que en los consejos se logre una efectiva participación social que contribuya a elevar la calidad y la cobertura de la educación.
+IX.- En una zona de parada de vehículos de servicio público de pasajeros o a menos de 5.00 metros de ella.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+X.- En una intersección o a menos de 5.00 metros de la misma.
 
-###### ARTÍCULO 140.
+XI.- Frente a una vía de acceso.
 
-Los Consejos de Participación Social en la Educación, se abstendrán de intervenir en los aspectos laborales de los planteles educativos y no deberán participar en cuestiones políticas o religiosas.
+XII.- En los lugares en los que, al estacionarse el vehículo, se impida a los usuarios la visibilidad de las señales de la carretera.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+XIII.- Junto a una excavación u obstáculo de tal modo que al hacerlo dificulte el tránsito.
 
-#### SECCIÓN IV. DE LOS MEDIOS DE COMUNICACIÓN Y DIFUSIÓN
+XIV.- Sobre cualquier puente u otra estructura elevada de una carretera o en el interior de un túnel.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+XV.- Sobre una vía férrea, o tan cerca de ella que constituya un riesgo.
 
-###### ARTÍCULO 141.
+XVI.- A menos de 5.00 metros del riel más cercano de un cruce ferroviario.
 
-Las y los educandos tienen derecho de promover la formación de sociedades de alumnos para fortalecer la cultura de participación democrática, en base a los lineamientos generales que para ello expida la Autoridad Educativa Estatal, así como por los estatutos de las propias sociedades de alumnos.
+XVII.- A menos de 50.00 metros de un vehículo estacionado en el lado opuesto de una carretera de 2 carriles con circulación de doble sentido.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+XVIII.- A menos de 150.00 metros de una curva o cima.
 
-###### ARTÍCULO 142.
+XIX.- Frente a las puertas de escuelas, hospitales, hoteles, centros de espectáculos, iglesias, zonas peligrosas y otras zonas generadoras de público.
 
-Los derechos y obligaciones de las y los educandos serán determinados por el Poder Ejecutivo Estatal, en los reglamentos que para tal efecto se expidan.
+XX.- Sobre los carriles de las vías públicas que conforme a las políticas de vialidad dictadas en los términos de la Fracción IV del Artículo 4o. de esta Ley sean consideradas como rápidas.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+XXI.- En las calles de un solo sentido, salvo cuando el Ayuntamiento, conforme a las políticas de vialidad, lo autorice.
 
-#### SECCIÓN I. DE LA PLANEACIÓN
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(ADICIONADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 143.
+XXII.- En zonas exclusivas para personas con algún tipo de discapacidad.
 
-La Autoridad Educativa Estatal y los medios de comunicación comparten una función social de interés público para acrecentar la educación y la cultura a través de la difusión de contenidos educativos a la sociedad, atendiendo a las finalidades y criterios de la educación previstos en la Ley General de Educación y en la presente Ley.
+###### ARTICULO 163.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Las vías públicas destinadas a la circulación de vehículos en las zonas urbanas y suburbanas o rurales, deberán tener las dimensiones y características que al efecto establezcan los manuales respectivos editados por la Secretaría de Desarrollo Urbano y Ecología del Gobierno Federal.
 
-###### ARTÍCULO 144.
+###### ARTICULO 164.
 
-Los medios de comunicación social en el desarrollo de sus actividades, contribuirán al logro de las finalidades previstas en el artículo 7, conforme a los criterios establecidos en el artículo 8 de la Ley General de Educación, así como a los parámetros fijados en el artículo 8 de la presente Ley.
+Ninguna persona desplazará vehículos ajenos, correctamente estacionados, a lugares prohibidos.
 
-La Autoridad Educativa Estatal debe:
+###### ARTICULO 165.
 
-I. Vigilar el cumplimiento de la normatividad vigente de los medios de comunicación social, en lo referente a destinar e incrementar espacios para la difusión de la educación y la cultura;
+Ninguna persona deberá abrir las portezuelas de un vehículo por el lado de la circulación, excepto los conductores que sólo podrán abrir la que les corresponde sin entorpecer la circulación y no la mantendrán abierta por mayor tiempo que el estrictamente necesario para su ascenso y descenso.
 
-II. Promover ante el Consejo Nacional de Radio y Televisión y las autoridades competentes, se le conceda parte del tiempo a que alude el artículo 59 de la Ley Federal de Radio y Televisión, para difundir en el Estado de Chihuahua programas de contenido educativo y cultural, acordes a los fines establecidos en el artículo 7 de la Ley General de Educación y con los objetivos señalados en el artículo 8 de la presente Ley;
+###### ARTICULO 166.
 
-III. Solicitar en forma directa, a todo tipo de medios de comunicación, tiempo y espacio para la difusión de programas educativos, así como dar a conocer a la sociedad comunicados de especial importancia en la materia;
+Para el ascenso o descenso de pasajeros, los conductores deberán detener sus vehículos junto a la acera, de tal manera que aquellos no tengan que pisar la superficie de rodamiento. En zonas rurales deberán hacerlo en los lugares destinados para el efecto y a falta de éstos, fuera de la superficie de rodamiento.
 
-IV. Solicitar, a todo medio de comunicación social, especialmente a los periódicos y revistas de circulación estatal, espacios gratuitos para su utilización con fines educativos y culturales; y
+###### ARTICULO 167.
 
-V. Promover y reconocer la participación social e individual en la difusión y enriquecimiento de la educación y la cultura.
+Todo conductor al aproximarse a un cruce de ferrocarril, deberá hacerlo a velocidad moderada y no cruzará la vía férrea hasta cerciorarse de que no se aproxima ningún vehículo que circule sobre los rieles.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+### CAPITULO I. SANCIONES
 
-###### ARTÍCULO 145.
+#### SECCION I. DISPOSICIONES GENERALES
 
-La Autoridad Educativa Estatal podrá establecer convenios de coordinación, colaboración, para la divulgación de los fines y propósitos de la educación para impulsar la participación corresponsable de la sociedad.
+#### SECCION VI. VIBRADORES
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 168.
 
-### CAPÍTULO IX. DE LA VALIDEZ OFICIAL, REVALIDACIÓN, EQUIVALENCIA DE ESTUDIOS Y CERTIFICACIÓN DE CONOCIMIENTOS
+Es obligación de parar antes de un cruce de ferrocarril; el conductor que se aproxime a un cruce ferroviario deberá, en los siguientes casos, detenerse a una distancia no menor de 5.00 metros del riel más cercano y no reanudará su marcha, hasta que pueda hacerlo con seguridad:
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+a).- Cuando haya una señal mecánica o eléctrica que dé aviso de que se acerca un tren.
 
-###### ARTÍCULO 146.
+b).- Cuando una barrera se baje o un banderero haga señal de alto.
 
-El Poder Ejecutivo Estatal planeará el desarrollo educativo del Estado, en los términos que esta Ley establece, sin menoscabo de la competencia que las leyes le otorgan a otras autoridades.
+Ningún conductor deberá franquear una barrera de cruce de ferrocarril mientras esté cerrado o en proceso de cerrarse.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+c).- Cuando un tren en marcha se encuentre aproximadamente a 500.00 metros de cruce, emita una señal audible y, a causa de su velocidad, constituya un riesgo.
 
-#### SECCIÓN II. DE LA EVALUACIÓN
+d).- Cuando haya obstrucciones que impidan ver si se aproxima un tren.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+e).- Cuando haya una señal de alto.
 
-###### ARTÍCULO 147.
+f).- Cuando el vehículo que conduzca sea de servicio público o privado de pasajeros, o cuando transporte substancias explosivas o inflamables. En este caso, deberá proseguir de modo que no tenga que hacer cambio de velocidad al cruzar los rieles.
 
-La planeación del desarrollo del Sistema Estatal de Educación se orientará a proporcionar un servicio educativo de calidad, igualdad, de no discriminación, cobertura, suficiente, eficiente, equitativo, incluyente, y con perspectiva de género, para atender las necesidades del sector y apegada a la transparencia y rendición de cuentas.
+#### SECCION VII. GUIAS Y ESCALAS PARA VADOS
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 169.
 
-###### ARTÍCULO 148.
+Ningún conductor deberá demorarse innecesariamente al cruzar la vía férrea. En caso de inmovilización forzosa de un vehículo sobre los rieles, su conductor deberá esforzarse por colocarlo fuera de ellos y, si no lo consiguiere, deberá adoptar inmediatamente todas las medidas a su alcance para que los maquinistas de los vehículos que circulen sobre rieles sean advertidos de la existencia del peligro con la suficiente antelación.
 
-Corresponde al Poder Ejecutivo Estatal, dentro del Plan Estatal de Desarrollo, generar líneas para la formulación de un Programa Estatal de Educación que deberá sujetarse a los principios establecidos en la Ley General de Educación, así como en la presente Ley.
+#### SECCION VIII. DISPOSITIVOS TRANSITORIOS CON MOTIVO DE OBRAS
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 170.
 
-###### ARTÍCULO 149.
+Para pasar un cruce de ferrocarril con un tractor de orugas, para mecánica, grúa, aplanadora, equipos o estructuras, que tenga una velocidad normal de operación menor de 15 km/h o un claro inferior de rodada menor de 22 Cms., el conductor deberá, además de tomar las precauciones a que se refiere el Artículo anterior, solicitar autorización del jefe de la Estación más próxima de ferrocarril a fin de que se tomen las medidas de protección apropiadas para el cruzamiento.
 
-El Programa Estatal de Educación será de cumplimiento obligatorio para todo el Sistema Educativo Estatal, pudiendo ser modificado en el transcurso de su aplicación, acorde a las necesidades del sector.
+> <small>(ADICIONADO, B.O. 11 DE DICIEMBRE DE 2014)</small>
 
-La planeación que realice la Autoridad Educativa Estatal considerará la coordinación de acciones con la Federación y los municipios, la concertación con los trabajadores de la educación por conducto de su organización sindical, padres, madres de familia y tutores, así como con los sectores social y privado.
+ARTICULO 170 BIS.- Es obligación de las instituciones públicas, contar con la infraestructura necesaria para el estacionamiento de bicicletas y motocicletas garantizando en su diseño, instalación y ubicación la accesibilidad y seguridad tanto para el ciclista o motociclista, como para su bicicleta o motocicleta.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 171.
 
-###### ARTÍCULO 150.
+Los conductores de vehículos de emergencia pueden hacer uso de los siguientes privilegios:
 
-El Programa Estatal de Educación es el instrumento que permite integrar los esfuerzos orientados al desarrollo de la misma dentro del respectivo Sistema Educativo, debiendo contener los siguientes elementos:
+I.- Estacionarse o detenerse en contra de las reglas de tránsito.
 
-I. Diagnóstico de la educación en el Estado;
+II.- Pasarse la luz roja de los semáforos o señales de alto, pero tomando la precaución de reducir la velocidad.
 
-II. Instrumentos de planeación;
+III.- Exceder los límites de velocidad.
 
-III. Instrumentos de evaluación permanente;
+IV.- Desatender las indicaciones relativas a las vueltas en determinada dirección.
 
-IV. Proyectos estratégicos; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V. Líneas de acción.
+> <small>(ADICIONADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+V.- Hacer uso de instrumentos de comunicación al conducir.
 
-#### SECCIÓN I. DE LAS INFRACCIONES
+###### ARTICULO 172.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Los privilegios que se conceden a un conductor de vehículo de emergencia rigen sólo cuando esté haciendo uso de señales luminosas o audibles especiales, según se establece en esta Ley.
 
-###### ARTÍCULO 151.
+###### ARTICULO 173.
 
-La evaluación es un proceso permanente y esencial que valora resultados contra metas propuestas en los diversos aspectos del proceso educativo y coadyuva en la toma de decisiones encaminadas a la mejora continua de la calidad del Sistema Educativo.
+Queda prohibido a los conductores de vehículos de emergencia hacer uso de las señales luminosas o audibles especiales cuando no viajen en emergencia.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 174.
 
-###### ARTÍCULO 152.
+Las disposiciones anteriores no relevan a los conductores de vehículos de emergencia de la obligación que tienen de manejar con la debida precaución, tendiente a proteger a las personas y a los bienes.
 
-La evaluación imprime dirección al proceso de enseñanza-aprendizaje y a la política pública educativa; así mismo, permite que el aprendizaje tenga sentido para las autoridades educativas, las escuelas y las y los educandos.
+###### ARTICULO 175.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Las disposiciones anteriores, no serán aplicables a trabajadores, vehículos y otros equipos, mientras se encuentren ejecutando un trabajo en la vía pública, pero se aplicarán cuando transiten hacia o desde el lugar de trabajo.
 
-###### ARTÍCULO 153.
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
 
-La evaluación que realice la Autoridad Educativa deberá ser viable, factible y pertinente, acorde a la realidad contextual en que se encuentra inmerso el Sistema Educativo.
+###### ARTICULO 176.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Al acercarse un vehículo de emergencia que lleve señales luminosas y audibles especiales, los conductores de otros vehículos cederán el paso al de emergencia, pasando a ocupar una posición paralela y lo más cercano posible al extremo del carril derecho o a la acera, fuera de la intersección, y se detendrá manteniéndose inmóvil hasta que haya pasado el vehículo de emergencia. Tienen preferencia de paso, por el orden en que se mencionan, los vehículos destinados a los siguientes servicios y funciones: bomberos, ambulancias, seguridad pública, policía preventiva y tránsito.
 
-###### ARTÍCULO 154.
+###### ARTICULO 177.
 
-La Autoridad Educativa Estatal debe evaluar, a través del organismo competente, en forma sistemática y permanente al Sistema Educativo Estatal, de conformidad con la ley General de Educación, la presente ley y los ordenamientos legales aplicables.
+Los peatones deberán cumplir las disposiciones de esta Ley, las indicaciones de los Agentes de la Policía y Tránsito y los dispositivos para el control del tránsito.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 178.
 
-###### ARTÍCULO 155.
+Los peatones transitarán por las aceras de las vías públicas y sobre las zonas destinadas para este objeto, evitando interrumpir u obstruir en cualquier forma la fluidez del tránsito.
 
-La Autoridad Educativa Estatal procurará fortalecer al Sistema Estatal de Evaluación en la materia para organizar todas las valoraciones que se realicen y que servirán para la planeación estatal, regional, municipal, de zona escolar, escuela y del salón de clases.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 156.
+## TITULO SEGUNDO. DE LAS REGLAS DE TRANSITO
 
-La evaluación estará sustentada en cuatro líneas principales:
+### CAPITULO II. DE LOS RECURSOS
 
-I. El desempeño de los participantes en el proceso educativo con respecto al cumplimiento de los compromisos específicos de cada uno;
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
 
-II. El proceso educativo, que implica el análisis de las contribuciones de las y los alumnos, docentes, padres y madres de familia de los diversos sectores sociales en el desarrollo educativo;
+###### ARTICULO 240.
 
-III. La operatividad, cuyo propósito es determinar la pertinencia de la estructura y funcionamiento en su conjunto para cumplir sus finalidades educativas; y
+Las sanciones establecidas en esta Ley podrán ser impugnadas mediante la interposición, ante el Juez Calificador, del recurso de revocación, para el cual se aplicarán las disposiciones procedimentales previstas por el Capítulo Tercero del Titulo Segundo, Libro Cuarto de la Ley de Seguridad Pública para el Estado de Sonora.
 
-IV. Los resultados, para establecer el impacto social del proceso educativo.
+Los interesados afectados por la resolución del Juez Calificador podrán, a su elección, interponer el recurso de inconformidad previsto en el Capítulo Quinto del Título Décimo Cuarto de la Ley de Gobierno y Administración Municipal o intentar el juicio correspondiente ante el Tribunal de lo Contencioso Administrativo del Estado.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 241.
 
-#### SECCIÓN II. DE LAS SANCIONES
+(DEROGADO, B.O. 8 DE JULIO DE 2002)
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 242.
 
-###### ARTÍCULO 157.
+(DEROGADO, B.O. 8 DE JULIO DE 2002)
 
-La Autoridad Educativa Estatal se obliga a informar a las y los educandos, docentes, padres y madres de familia y a la sociedad, de los resultados de las evaluaciones que realice.
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 243.
 
-###### ARTÍCULO 158.
+Si se trata exclusivamente de inconformarse por la imposición de la sanción de multa derivada de los supuestos establecidos en los artículos 231 al 238 de esta Ley, el recurso de revocación podrá hacerse valer por comparecencia, ante el Juez Calificador quien dictará su resolución, transcribiendo sucintamente su acuerdo al margen de la boleta de la infracción, con su rúbrica.
 
-El Sistema Estatal de Evaluación Educativa comprenderá:
+###### ARTICULO 179.
 
-l. La aplicación de una prueba anual estandarizada a las y los alumnos de las instituciones educativas. Esta prueba comprenderá la evaluación de conocimientos básicos que integran los planes y programas de estudio vigentes, y será diseñada por un equipo de profesionales en materia educativa;
+Queda prohibido jugar en las vías públicas, ya sea en la superficie de rodamiento o en las aceras, salvo en los lugares establecidos en el segundo párrafo del artículo 115 de esta ley.
 
-II. La recopilación de datos relacionados con indicadores educativos estadísticos provenientes de las instituciones del Sistema Educativo Estatal, para ser cotejada con la información sociodemográfica de sus alumnas y alumnos;
+###### ARTICULO 180.
 
-III. La construcción de categorías referidas a los niveles de desempeño escolar, mediante la aplicación de fórmulas que ponderen como mínimo los factores señalados en las fracciones anteriores, a efecto de que la autoridad pueda ubicar a las instituciones educativas, según sus resultados y considerando su conformación, región socioeconómica y características particulares; y
+Cuando existan aceras, estará prohibido a los peatones caminar por la superficie de rodamiento. Cuando no las haya, transitarán por una zona mínima de 1.50 metros paralela a la alineación de la manzana. En las zonas rurales deberán circular por el acotamiento y a falta de éste, por la orilla de la vía, dando el frente al tránsito.
 
-IV. La publicación del informe de resultados de la evaluación educativa, a través de diversos medios.
+###### ARTICULO 181.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Los peatones que empujen o que lleven objetos voluminosos, podrán utilizar la superficie de rodamiento si su circulación por la acera pudiera constituir un estorbo considerable para los demás peatones; en este caso, circularán lo más cerca posible de la orilla de la acera.
 
-### CAPÍTULO X. DE LAS INFRACCIONES, SANCIONES Y RECURSOS ADMINISTRATIVOS
+###### ARTICULO 182.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Todo peatón deberá cruzar las vías públicas en las intersecciones o en las zonas marcadas para tal efecto, excepto cuando se trate de zonas suburbanas, o rurales que podrán cruzarse por cualquier punto, debiendo siempre ceder el paso a los vehículos.
 
-###### ARTÍCULO 159.
+En los lugares donde haya pasos a desnivel para peatones éstos están obligados a usarlos.
 
-Los estudios realizados dentro del Sistema Educativo Estatal tendrán validez en todo el país, de acuerdo con lo establecido en los artículos 3o. y 121 de la Constitución Política de los Estados Unidos Mexicanos y 60 de la Ley General de Educación.
+Ningún peatón cruzará la intersección diagonalmente, excepto en los casos en que los dispositivos para el control del tránsito lo permitan.
 
-Las instituciones del Sistema Educativo Estatal expedirán certificados y otorgarán constancias, diplomas, títulos o grados académicos a las personas que hayan concluido sus estudios, de conformidad con los requisitos establecidos en los planes y programas correspondientes.
+Entre dos intersecciones contiguas controladas con semáforos, los peatones sólo cruzarán la calle en las zonas de paso marcadas para el efecto.
 
-La Autoridad Educativa Estatal validará los certificados, constancias, diplomas, títulos o grados académicos que expidan u otorguen las instituciones públicas y privadas, a quienes hayan concluido en ellas sus estudios, de conformidad con los requisitos establecidos en el plan y programas correspondientes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 160.
+###### ARTICULO 183.
 
-Los estudios realizados fuera del Sistema Educativo Nacional, podrán adquirir validez oficial, mediante revalidación, siempre y cuando sean equiparables con los que dependan de la Autoridad Educativa Estatal y de conformidad con la normatividad aplicable.
+Los peatones deberán tomar todas las precauciones al cruzar una vía y no irrumpirán, intempestivamente, la superficie de rodamiento, buscando evitar accidentes de tránsito en todo momento.
 
-La revalidación podrá concederse por niveles educativos, por grados escolares, por asignaturas u otras unidades de aprendizaje, con apego a las disposiciones relativas de la Secretaría de Educación Pública.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 161.
+Los peatones que se encuentren involucrados en un accidente de tránsito por no tomar las medidas preventivas serán responsables por los daños materiales y lesiones ocasionados.
 
-Los estudios cursados y acreditados en los planteles del Sistema Educativo Nacional, podrán declararse equivalentes entre sí por la dependencia encargada del registro y certificación, por niveles educativos, grados escolares, asignaturas u otras unidades de aprendizaje, siempre y cuando estén referidos a los planes y programas vigentes autorizados para los planes del Sistema Educativo Estatal.
+###### ARTICULO 184.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Iniciado el cruce de una vía, los peatones no deberán demorarse sin necesidad.
 
-###### ARTÍCULO 162.
+###### ARTICULO 185.
 
-La facultad de revalidar y reconocer equivalencias de estudios, corresponde:
+Los peatones deberán transitar por la mitad derecha de las zonas de cruce.
 
-I. A la Autoridad Educativa Estatal, por conducto de la dependencia encargada del registro y certificación;
+###### ARTICULO 186.
 
-II. A las instituciones de educación superior a las que el Congreso del Estado otorgue autonomía, de conformidad con lo dispuesto en los ordenamientos legales; y
+Los peatones que no se encuentren en completo uso de sus facultades y los menores de 8 años de edad, deberán ser conducidos por personas aptas al cruzar las vías, los invidentes deberán usar bastón blanco, a fin de que puedan ser distinguidos por los conductores. Los carentes de sentido del oído deberán usar brazalete amarillo.
 
-III. A las demás instituciones educativas que expresamente autorice su normatividad en términos de Ley.
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 187.
 
-###### ARTÍCULO 163.
+Las personas con discapacidad que se desplacen en sillas de ruedas u otros medios especiales, no deberán transitar en la vía pública a mayor velocidad que la de marcha normal de los peatones.
 
-La Autoridad Educativa Estatal aplicará las normas y los criterios generales que la Secretaría de Educación Pública determine para la expedición de equivalencias, revalidaciones y certificaciones de estudios, en los términos de la presente Ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 164.
+###### ARTICULO 188.
 
-Las equivalencias, revalidaciones y certificaciones de estudios expedidas por la Autoridad Educativa Estatal tendrán validez en toda la República Mexicana, conforme al artículo 63 de la Ley General de Educación.
+Ninguna persona debe ofrecer mercancías o servicios a los ocupantes de los vehículos, repartirles propaganda o solicitarles ayuda económica o solicitar transportación en vehículos que no sean de servicio público autorizado ni ofrecerse para cuidar o realizar labores de limpieza en la vía pública.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 189.
 
-###### ARTÍCULO 165.
+Se prohibe a los pasajeros obstruir la visibilidad del conductor o interferir los controles de manejo.
 
-La Autoridad Educativa Estatal, sin perjuicio de la concurrencia de la Autoridad Educativa Federal, podrá acordar procedimientos de acreditación de conocimientos adquiridos que correspondan a cualquier tipo o nivel educativo mediante los cuales se expedirán certificados, constancias, diplomas o títulos a quienes demuestren tener los estudios aprobados correspondientes.
+###### ARTICULO 190.
 
-De igual manera determinará los mecanismos para asegurar la certificación de las personas con discapacidad que aprueben la educación recibida o los programas de capacitación laboral.
+Ninguna persona deberá ocupar un remolque mientras se encuentre en movimiento, excepto cuando haya sido diseñado para transporte de personas y aprobado por la autoridad de tránsito.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 191.
 
-###### ARTÍCULO 166.
+Se prohibe a los pasajeros ascender o descender de vehículos en movimiento.
 
-La Autoridad Educativa Estatal, promoverá un órgano encargado del Sistema Estatal de Certificación de Conocimientos, responsable de la gestión para la expedición de certificados de estudios, diplomas, títulos o grados académicos, que acrediten los conocimientos adquiridos, normando sus funciones con apego a su reglamento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 167.
+###### ARTICULO 192.
 
-La Autoridad Educativa Estatal podrá instrumentar, en coordinación con instituciones educativas reconocidas en la Entidad, programas semiescolarizados, abiertos y a distancia, para profesionalizar a quienes, sin haber cursado una carrera en el sistema escolarizado, ejercen en la práctica.
+Los pasajeros deberán viajar en el interior de los vehículos, absteniéndose de hacerlo en salpicaderas, estribos, plataformas, quemacocos, techo, cofre ó cualquier parte externa de los mismos.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Tampoco lo harán de manera que alguna parte del cuerpo del pasajero sobresalga del vehículo y pueda ser lesionado.
 
-### CAPÍTULO XI. DE LA PLANEACIÓN Y EVALUACIÓN DEL PROCESO EDUCATIVO
+###### ARTICULO 193.
 
-#### SECCIÓN III. DEL PROCEDIMIENTO Y RECURSO ADMINISTRATIVO
+Las indicaciones y dispositivos a que se refiere este Capítulo deberán de sujetarse a las políticas de vialidad que conforme a los Planes de Desarrollo Urbano y Rural se establezcan en los términos de la presente Ley.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+###### ARTICULO 194.
 
-###### ARTÍCULO 168.
+Queda prohibida la colocación de placas, carteles, marcas o instalaciones que puedan confundirse con las señales o dispositivos destinados a regular la circulación o que reduzcan la visibilidad o la eficiencia de los mismos, deslumbren a los usuarios de la vía pública o distraiga su atención implicando un riesgo.
 
-Son infracciones de quienes tienen autorización o reconocimiento de validez oficial de estudios y prestan servicios educativos:
+###### ARTICULO 195.
 
-I. Incumplir las disposiciones del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la Ley General de Educación, la presente Ley y sus disposiciones reglamentarias;
+Cuando el tránsito sea dirigido por policías y sean fácilmente visibles a distancia, tanto de noche como de día, éstos lo harán a base de ademanes combinados con toques de silbato reglamentario, en la siguiente forma:
 
-II. Ostentarse como plantel incorporado sin estarlo;
+I.- El frente o la espalda del policía:
 
-III. Suspender clases en días y horas no autorizadas por el calendario escolar aplicable, sin que medie motivo justificado, caso fortuito o fuerza mayor;
+a).- Indica a los conductores que deben detenerse antes de entrar en la zona de cruce de peatones; en defecto de ésta antes de entrar en la intersección.
 
-IV. Suspender el servicio educativo sin que medie motivo justificado, caso fortuito o fuerza mayor;
+b).- Indica a los peatones que deben abstenerse de cruzar la vía.
 
-V. No utilizar los libros de texto que la Secretaría de Educación Pública determine para la educación primaria y secundaria;
+II.- Los costados del policía:
 
-VI. Expedir certificados, constancias, diplomas o títulos a quienes no cumplan los requisitos aplicables;
+a).- Indica a los conductores que pueden seguir de frente o dar vuelta a la derecha, si no existe prohibición en contrario. También indica vuelta a la izquierda en vías de un solo sentido, cuando dicha vuelta esté permitida.
 
-VII. Dar a conocer, antes de su aplicación, los exámenes o cualesquiera de los instrumentos utilizables para la admisión, acreditación o evaluación, a quienes habrán de presentarlos;
+b).- Indica a los peatones que pueden cruzar la vía.
 
-VIII. Proporcionar información que contravenga en lo dispuesto en los términos de la Ley de Transparencia y Acceso a la Información Pública.
+III.- Cuando el policía se encuentre en posición de "siga" y levante un brazo horizontalmente con la mano extendida hacia arriba del lado de donde procede la circulación, o ambos, si éste se verifica en dos sentidos:
 
-IX. Realizar o permitir que se efectúe publicidad dentro del plantel escolar que fomente el consumismo, así como la comercialización de bienes o servicios ajenos al proceso educativo, con excepción de la venta de alimentos, que será regulada por las disposiciones respectivas;
+a).- Advierte a los conductores que está a punto de hacerse el cambio de "siga" a "alto" y que deben tomar sus precauciones.
 
-X. Efectuar actividades que pongan en riesgo la salud o la seguridad de los miembros de la comunidad escolar;
+b).- Indica a los peatones que deben abstenerse de iniciar el cruce.
 
-XI. Imponer al educando medidas correctivas que contravengan lo establecido por el artículo 30 de esta Ley;
+IV.- Cuando el policía haga el ademán de "preventiva" con un brazo y de "siga" con el otro:
 
-XII. Ocultar a los padres, madres o tutores las conductas de las y los alumnos que notoriamente deban ser de su conocimiento;
+a).- Advierte a unos que deben detener la marcha y a otros que pueden continuar en el sentido que indica el ademán.
 
-XIII. Oponerse a las actividades de evaluación, supervisión y vigilancia, así como no proporcionar información veraz y oportuna;
+V.- Cuando el policía levante el brazo derecho en posición vertical:
 
-XIV. Proporcionar datos falsos con el propósito de obtener la revalidación o equivalencia de estudios realizados fuera del sistema educativo nacional o estatal;
+a) Indica a los conductores y peatones una situación de emergencia, motivada por la aproximación de vehículos de emergencia o algún otro servicio especial y que por lo tanto, deben despejar la vía e impedir su cruce.
 
-XV. Permitir la sustitución temporal de los trabajadores de la educación en contra de la normatividad establecida;
+VI.- Al hacer las señales a que se refieren las anteriores fracciones, los policías emplearán toques de silbato en la siguiente forma: ALTO, un toque corto; ADELANTE, dos toques cortos; PREVENTIVA, un toque largo; ALTO GENERAL, tres toques largos. En los casos de congestionamiento de vehículos, darán una serie de toques cortos a fin de activar el tránsito.
 
-XVI. Disponer indebidamente de los bienes y recursos destinados a la educación;
+###### ARTICULO 196.
 
-XVII. Incumplir con los planes y programas de estudio que las autoridades educativas hayan determinado;
+Cuando los policías encargados de dirigir el tránsito no sean claramente visibles a distancia, deberán portar chaleco color anaranjado fosforescente y harán los ademanes auxiliados con una linterna que emita luz roja.
 
-XVIII. Incumplir los lineamientos generales para el uso del material educativo destinado a la educación preescolar, primaria y secundaria;
+Las posiciones del policía son las indicadas en el Artículo anterior y la linterna indicará:
 
-XIX. No contar con el personal que acredite la preparación exigida para impartir educación en los tipos, niveles y modalidades que corresponden;
+a).- Con movimiento pendular por el frente del policía indica Alto a los vehículos que circulen en dirección transversal a dicho movimiento y Siga a los que circulen en la misma dirección del movimiento.
 
-XX. No contar con las instalaciones que satisfagan las condiciones de salubridad, pedagógicas y de seguridad, que la autoridad educativa determine;
+b).- La lámpara sostenida con el brazo extendido hacia ella, en posición fija es indicación preventiva.
 
-XXI. No cumplir, en los casos de educación inicial y preescolar, con los requisitos pedagógicos que para la implementación de los planes y programas de estos niveles fije la autoridad educativa competente;
+###### ARTICULO 197.
 
-XXII. Impartir educación preescolar, primaria, secundaria, normal y demás para la formación de profesionales de la educación básica en sus diversos niveles, tipos y modalidades sin contar con la autorización correspondiente;
+Las señales gráficas se clasifican en: PREVENTIVAS, RESTRICTIVAS e INFORMATIVAS.
 
-XXIII. Incumplir cualesquiera de las obligaciones previstas en el artículo 124; y
+Las señales se aplican a toda la superficie de rodamiento, no obstante, su aplicación podrá limitarse a uno o más carriles demarcados mediante rayas longitudinales o suspendiendo las señales sobre el carril en que se aplica.
 
-XXIV. Incumplir cualesquiera de los demás preceptos de esta Ley, así como las disposiciones reglamentarias que de ella se deriven.
+I.- SEÑALES PREVENTIVAS.- Tienen por objeto advertir la existencia y naturaleza de un riesgo en el camino, son tableros de forma cuadrada, colocados con una de sus diagonales verticalmente, pintados de amarillo, con símbolos, caracteres y filete en negro. Entre otras, las gráficas de la Tabla número 1.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+II.- SEÑALES RESTRICTIVAS.- Tienen por objeto indicar la existencia de ciertas limitaciones o prohibiciones que regulan el tránsito. A excepción de las de Alto y Ceda el Paso, son tableros de forma circular pintados de color blanco y letras, números y símbolos de color negro inscritos en un anillo de color rojo. Entre otras, las gráficas de la Tabla número 2.
 
-###### ARTÍCULO 169.
+Cuando indican una prohibición, la señal lleva una franja diametral, inclinada a 45 grados bajando hacia la derecha:
 
-Las infracciones enumeradas en el artículo anterior, se sancionarán según el caso con:
+a) La señal "ALTO" es de forma octagonal, pintada de rojo, con letras y filetes blancos.
 
-I. Amonestación;
+El conductor que se acerque a una señal de "ALTO", deberá detener la marcha antes de entrar en la zona de peatones; en defecto de ésta, antes de entrar a la intersección; podrá proseguir después de ceder el paso a cualquier vehículo que se acerque de modo que represente un riesgo.
 
-II. Multa hasta por el equivalente a cinco mil veces el salario mínimo general diario vigente en el área geográfica y en la fecha en que se cometa la infracción. Las multas impuestas podrán duplicarse en caso de reincidencia; y
+b) La señal de "CEDA EL PASO" tiene forma de triángulo equilátero, con un vértice hacia abajo, pintado de blanco, franja perimetral roja y leyenda negra.
 
-III. Revocación de la autorización o retiro del reconocimiento de validez oficial de estudios correspondiente, independientemente de la multa que en su caso proceda.
+El conductor que se aproxime a una señal de "CEDA EL PASO", deberá disminuir la velocidad o detenerse, si es necesario, para ceder el paso a cualquier vehículo que se acerque de modo que represente un riesgo.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### ARTÍCULO 170.
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-Cuando la autoridad educativa responsable de la prestación del servicio, o que haya otorgado la autorización o el reconocimiento de validez oficial de estudios, considere que existen causas justificadas que ameriten la imposición de sanciones, lo hará del conocimiento del presunto infractor para que, dentro de un plazo de quince días naturales, manifieste lo que a su derecho convenga y proporcione los datos y documentos que le sean requeridos.
+c) Señal indicativa de zona exclusiva para personas con algún tipo de discapacidad, consistente en señal de fondo azul y silueta blanca.
 
-La autoridad dictará resolución con base en los datos aportados por el presunto infractor y las demás constancias que obren en el expediente.
+III.- SEÑALES INFORMATIVAS.- Tienen por objeto guiar al usuario a lo largo de su ruta e informarle sobre las calles o caminos que encuentre y los nombres de poblaciones, lugares de interés y sus distancias. Entre otras, Tabla número 3. Se dividen en cuatro grupos:
 
-Para determinar la sanción se considerarán las circunstancias en que se cometió la infracción, los daños y perjuicios que se hayan producido o puedan producirse a las y los educandos, la gravedad de la infracción, las condiciones socioeconómicas del infractor, el carácter intencional o no de la infracción y si se trata de reincidencia.
+a) De identificación de la carretera.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Indican los caminos según el número que les haya sido asignado. Tienen forma de escudo, se usan flechas complementarias para indicar la dirección que sigue el camino. Su color es blanco con caracteres, símbolos y filetes negros.
 
-###### ARTÍCULO 171.
+d) (sic) De destino.
 
-La negativa o revocación de la autorización otorgada a particulares produce efectos de clausura del servicio educativo de que se trata. El retiro de reconocimiento de validez oficial se refiere a los estudios que se impartan a partir de la fecha en que se dicte la resolución. Los realizados mientras que la institución contaba con el reconocimiento, mantendrán su validez oficial.
+Indican las vías que pueden seguirse para llevar a determinados lugares y en algunos casos las distancias a que estos se encuentran. Son de forma rectangular con su mayor dimensión, horizontal de color blanco, con caracteres, símbolos y filetes negros. A excepción de las elevadas que son verdes con caracteres, símbolos y filetes blancos.
 
-La autoridad que emita la resolución, adoptará las medidas que sean necesarias para evitar perjuicios a las y los educandos.
+c) De servicio.
 
-En el caso de autorizaciones, cuando la revocación se emita durante un ejercicio lectivo, la institución podrá seguir funcionando, ajuicio y bajo la vigilancia de la autoridad, hasta que aquel concluya.
+Indican los lugares donde pueden obtenerse ciertos servicios. Tienen forma rectangular con la mayor dimensión vertical, su color azul y símbolo negro dentro de un cuadro blanco, excepto la señal "PUESTO DE SOCORRO", que lleva símbolo rojo. Además, pueden llevar caracteres o flechas; éstas son de color blanco.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+d) De información general.
 
-###### ARTÍCULO 172.
+Indican lugares, nombres de calles y avenidas, sentidos de circulación de tránsito de vehículos, límites del Municipio y Entidades, postes de kilometraje y otros.
 
-En contra de las resoluciones emitidas por el Ejecutivo Estatal, con fundamento en la Ley General de Educación, de la presente Ley y demás disposiciones que de ella emanen, podrán interponerse los recursos de reconsideración o revisión, en su caso, dentro de los quince días hábiles siguientes a la fecha de su notificación.
+Tiene forma y color igual a las de destino, excepto la de sentido de circulación de tránsito de vehículos que tienen fondo negro y flecha blanca y la de kilometraje que consiste en un poste corto.
 
-Transcurrido el plazo a que se refiere el párrafo anterior, sin que el interesado interponga el recurso, la resolución tendrá el carácter de definitiva. Así mismo podrá interponerse queja cuando la autoridad no dé respuesta en un plazo de treinta días hábiles siguientes a la presentación de la solicitud respectiva. Este medio de defensa deberá interponerse por escrito ante el superior jerárquico de quien haya incurrido en la omisión.
+###### ARTICULO 198.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Las señales a que se refiere el Artículo anterior, son las que se consignan, con una descripción del símbolo en los siguientes cuadros:
 
-###### ARTÍCULO 173.
+SEÑALES PREVENTIVAS
 
-El escrito mediante el cual se interponga el recurso deberá contener la mención del nombre y el domicilio del recurrente, la expresión de agravios, los elementos de prueba, así como las constancias que acrediten la personalidad del promovente.
+Tienen por objeto advertir la existencia y naturaleza de un riesgo en el camino, son tableros de forma cuadrada, colocados con una de sus diagonales verticalmente pintadas de amarillo, con símbolos, caracteres y filete en negro, entre otras, las gráficas de la tabla número 1.
 
-En caso de incumplimiento de los requisitos antes señalados, la autoridad declarará improcedente el recurso.
+SP-6 La señal CURVA, DERECHA ó IZQUIERDA, se utilizará para indicar curvas a la derecha ó a la izquierda con deflexión comprendida entre 10 y 45 grados de curvatura comprendido entre 4º y 20°.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+SP-7 La señal CODO, DERECHA ó IZQUIERDA, se utilizará para indicar curvas a la derecha ó a la izquierda con deflexión comprendida entre 10 y 45 grados de curvatura mayor de 20°. También se usará para indicar curvas con deflexión de más de 45 grados de curvatura mayor de 15°.
 
-###### ARTÍCULO 174.
+SP-8 La señal CURVA-INVERSA, DERECHA-IZQUIERDA ó IZQUIERDA-DERECHA, se utilizará para indicar la presencia de dos curvas de dirección contraria, separadas por una tangente de 60 m. cuando sus características (sic) las indicadas en el inciso SP-6.
 
-El recurso de revisión se interpondrá ante la autoridad inmediata superior de la que emitió la resolución recurrida.
+SP-9 La señal CODO INVERSO, DERECHO-IZQUIERDO ó IZQUIERDO-DERECHO, se utilizará para indicar la presencia de dos curvas de dirección contraria, separadas por una tangente menor de 60 m. cuando sus características geométricas sean las indicadas en el inciso SP-7.
 
-Cuando la resolución impugnada emane del Gobernador del Estado, el recurso será de reconsideración, el cual deberá interponerse ante dicho funcionario en los términos y bajo el procedimiento establecido para la revisión; cuando la resolución emane de cualquier funcionario diverso al anterior, el recurso a interponer será el de revisión.
+SP-10 La señal CAMINO SINUOSO se utilizará para indicar varias curvas sucesivas. Se usará una señal de camino sinuoso, derecho ó izquierdo, según sea la primera curva del tramo.
 
-La autoridad receptora del recurso deberá sellarlo y firmarlo de recibido, anotará la fecha y hora en que se presente y el número de anexos que le acompañen. En el mismo acto devolverá copia debidamente sellada y firmada al interesado.
+SP-11 La señal CRUCE DE CAMINOS se utilizará para indicar la intersección de dos caminos.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+SP-12 La señal INTERSECCIÓN EN T se utilizará para indicar un entronque en T de un camino con otro, aún en el caso de que dichos caminos se intersecten con un ángulo diferente de 90°.
 
-###### ARTÍCULO 175.
+SP-13 La señal INTERSECCIÓN LATERAL, DERECHA ó IZQUIERDA, se utilizará para indicar un entronque lateral con un camino, que lleva el usuario, cuando el camino lateral sea sensiblemente normal ó tenga una deflexión mayor de 90°.
 
-Al interponerse el recurso, podrá ofrecerse toda clase de pruebas, excepto la confesional, y acompañarse con los documentos relativos. Si se ofrecen pruebas que requieren desahogo, se abrirá un término probatorio de veinte días hábiles para tales efectos. Quien esté conociendo del recurso podrá allegarse de cualquier elemento de convicción que considere necesario.
+SP-14 La señal INTERSECCIÓN LATERAL OBLICUA, DERECHA O IZQUIERDA se utilizará para indicar el entronque de un camino lateral que intersecta al camino que lleva el usuario, con una deflexión sensiblemente menor de 90°.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+SP-15 La señal INTERSECCIÓN EN Y se utilizará para indicar un entronque en forma de Y. No deberá usarse en intersecciones canalizadas, excepto cuando el usuario pueda optar indistintamente por circuitos a derecha ó izquierda.
 
-###### ARTÍCULO 176.
+SP-16 La señal GLORIETA se usará para indicar al conductor la proximidad de una intersección de tipo rotatorio.
 
-La autoridad ante quien se interpuso el recurso, deberá resolver dentro de los treinta días hábiles siguientes, a partir de la fecha:
+SP-17 La señal INCORPORACIÓN DE TRANSITO se usará para advertir al usuario de la proximidad de una confluencia derecha ó izquierda por donde se le incorporará un volumen de tránsito en el mismo sentido.
 
-I. Del acuerdo de admisión del recurso, cuando no se hubiesen ofrecido pruebas o las ofrecidas no requieran plazo especial de desahogo; y
+SP-18 La señal DOBLE CIRCULACION se usará para advertir al conductor que vaya por una vía de un solo sentido, que se aproxima a un tramo con circulación en ambos sentidos.
 
-II. De la conclusión del desahogo de las pruebas o, en su caso, cuando haya transcurrido el plazo concedido para ello y no se hubieren desahogado por causas imputables al recurrente.
+SP-19 La señal SALIDA se usará para advertir la proximidad de una rampa exclusica(sic) de salida.
 
-La resolución del recurso se notificará a los interesados, a sus representantes legales, personalmente o por correo certificado con acuse de recibo.
+SP-20 La señal ESTRECHAMIENTO DEL CAMINO se usará para indicar que la anchura del camino se reduce, ya sea reduciendo el número de carriles ó simplemente las dimensiones de la sección transversal, en forma simétrica.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+SP-21 La señal ESTRECHAMIENTO ASIMETRICO se utilizará para indicar una reducción del camino por ocupación temporal de un lado de la corona, como cuando haya material acamellonado a la derecha. El símbolo invertido servirá para indicar la transición del lado izquierdo.
 
-###### ARTÍCULO 177.
+SP-22 La señal PUENTE LEVADIZO se usará para indicar la proximidad de un puente cuyo sistema de piso puede estar momentáneamente elevado.
 
-La interposición del recurso suspenderá la ejecución de la resolución impugnada en cuanto al pago de multas.
+SP-23 La señal PUENTE ANGOSTO se utilizará para indicar la proximidad de un puente cuya distancia entre guarniciones sea mayor de 6.50 m.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+SP-24 La señal ANCHURA LIBRE se utilizará para indicar la proximidad de pasos inferiores angostos u otras estructuras angostas que no permitan normalmente el paso simultaneo de dos vehículos. La distancia que marque la señal deberá indicar la anchura libre, aproximada al decímetro inferior.
 
-###### ARTÍCULO 178.
+SP-25 La señal ALTURA LIBRE se utilizará para indicar la proximidad de un paso inferior con un camino, ferrocarril ó cualquier otra estructura, cuyo espacio libre vertical sea menor de 4.50 m.
 
-Respecto de cualquiera otra clase de resoluciones administrativas y de sanciones no pecuniarias, la suspensión sólo se otorgará si concurren los requisitos siguientes:
+En la parte media de la placa se anotará la altura libre aproximada al decímetro inferior.
 
-I. Que lo solicite el recurrente;
+SP-26 La señal VADO se utilizará para indicar la proximidad de un vado ó depresión inesperada en el camino.
 
-II. Que el recurso haya sido admitido;
+SP-27 La señal TOPES se utilizará para indicar la proximidad de una irregularidad en la superficie de rodamiento. La irregularidad puede estar constituida por topes metálicos, bordos ó corrugaciones de concreto.
 
-III. Que, de otorgarse, no implique la continuación o consumación de actos u omisiones que ocasionen infracciones a esta Ley; y
+SP-28 La señal SUPERFICIE DERRAPANTE se utilizará para indicar la proximidad de un tramo con material suelto ó de un pavimento resbalosos (sic) en época de lluvias.
 
-IV. Que no se ocasionen daños o perjuicios a los educandos o terceros en los términos de esta Ley.
+SP-29 La señal PENDIENTE PELIGROSA se utilizará para indicar la proximidad de una pendiente descendente en la cual se requiera frenar constantemente, de preferencia con el motor.
 
-### CAPÍTULO XII. DE LAS INFRACCIONES, SANCIONES Y RECURSOS ADMINISTRATIVOS
+SP-30 La señal ZONA DE DERRUMBES se utilizará para indicar a los conductores de vehículos la presencia de un tramo de camino en el cual existen posibilidades de encontrar derrumbes sobre el camino.
 
-###### Artículo 179.
+SP-31 La señal OBRAS EN EL CAMINO se utilizará para marcar un tramo ocupado temporalmente por trabajadores, ó equipo dedicado a labores de conservación ó reconstrucción, ó por instalaciones que requieren invasión ó cruces en la superficie de rodamiento.
 
-La evaluación estará sustentada en cuatro líneas principales:
+SP-32 La señal PEATONES se utilizará para advertir a los conductores de vehículos la proximidad de lugares frecuentados por peatones, ó bien de un cruce especialmente destinado a ellos.
 
-I.- El desempeño de los participantes del hecho educativo con respecto al cumplimiento de los compromisos específicos de cada uno;
+SP-33 La señal ESCUELA se utilizará para indicar la proximidad de un edificio escolar ó lugares cercanos de cruce habitual de escolares.
 
-II.- El proceso educativo, que implica el análisis de las contribuciones de alumnos, docentes, padres de familia, de los diversos sectores y de la sociedad en general para el desarrollo educativo. Este permitirá impulsar innovaciones y mejoras en los elementos que intervienen en el proceso de participación social;
+SP-34 La señal GANADO se utilizará para advertir a los conductores de vehículos la posibilidad de encontrar ganado sobre el camino.
 
-III.- La operatividad, cuyo propósito es determinar la pertinencia de la estructura y funcionamiento en su conjunto para cumplir sus finalidades educativas; y
+SP-35 La señal CRUCE DE FERROCARRIL se utilizará para advertir a los conductores de vehículos la proximidad de un cruce de ferrocarril a nivel.
 
-IV.- Los resultados, para establecer el impacto social del proceso educativo.
+SP-36 La señal MAQUINARIA AGRICOLA se utilizará para advertir a los conductores de vehículos la posibilidad de encontrar maquinaria agrícola sobre el camino.
 
-###### Artículo 180.
+SP-37 La señal SEMAFORO se usará antes de las intersecciones aisladas que estén controladas por semáforos, ó cuando se entra a una zona donde no se espera encontrarlos.
 
-La autoridad educativa está obligada a informar oportunamente a educandos, educadores, padres de familia y a la sociedad en general de los resultados de las evaluaciones que realice.
+SP-38 La señal COMIENZA CAMINO DIVIDIDO se usará para advertir a los usuarios la proximidad de una faja separadora central, que divide el camino.
 
-###### Artículo 181.
+SP-39 La señal TERMINA CAMINO DIVIDIDO se usará para indicar la próxima terminación de la faja separadora central.
 
-La evaluación de los educandos estará orientada al logro de desempeños sociales y, en general, a la obtención de los propósitos establecidos en los planes y programas aplicables.
+SP-40 La señal GRAVA SUELTA se usará para indicar la proximidad de un tramo en el que existe grava suelta sobre la superficie de rodamiento.
 
-###### Artículo 182.
+SEÑALES RESTRICTIVAS
 
-Son infracciones de quienes tienen una autorización o reconocimiento de validez oficial de estudios y prestan servicios educativos:
+Tienen por objeto indicar la existencia de ciertas limitaciones ó prohibiciones que regulen el tránsito. A excepción de las de ALTO y CEDA EL PASO, son tableros de forma circular pintados de color blanco y letras, números y símbolos de color negro inscritos en un anillo de color rojo.
 
-I.- Incumplir las disposiciones del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, las disposiciones constitucionales del Estado, la presente ley y sus disposiciones reglamentarias;
+SR-6 El uso de la señal ALTO deberá determinarse siempre mediante un estudio cuidadoso de las condiciones locales del tránsito. Por ello, sólo se dan aquí algunas orientaciones de carácter general al respecto.
 
-II.- Ostentarse como plantel incorporado sin estarlo;
+Normalmente la señal ALTO podrá colocarse en los siguientes casos:
 
-III.- Suspender clases, en días y horas no autorizadas por el calendario escolar aplicable, sin que medie motivo justificado, caso fortuito o fuerza mayor;
+1) En el cruce de dos caminos principales, en donde no sea posible atenerse a la regla general del derecho de paso.
 
-IV.- Suspender el servicio educativo sin que medie motivo justificado, caso fortuito o fuerza mayor;
+2) En el entronque de un camino secundario con uno principal.
 
-V.- No utilizar los libros de texto que la Secretaría de Educación Pública determine para la educación primaria y secundaria;
+3) En el cruce a nivel de un camino con un ferrocarril siempre que se considere necesario.
 
-VI.- Expedir certificados, constancias, diplomas o títulos a quienes no cumplan los requisitos aplicables;
+4) En cualquier intersección urbana en donde la posibilidad de accidentes haga imperativo el uso de una señal ALTO.
 
-VII.- Dar a conocer a los interesados, antes de su aplicación, cualesquiera de los instrumentos utilizables para la admisión, acreditación o evaluación;
+En todos los casos, la señal se colocará sobre el camino ó calle de menor volumen de tránsito, en el lugar preciso donde deban deternerse (sic) los vehículos.
 
-VIII.- Revelar información confidencial de carácter administrativo;
+SR-7 La señal CEDA EL PASO implica que el conductor detenga ó aminore la velocidad de su vehículo, cuando sea necesario ceder el paso al tránsito que se va a cruzar ó a incorporar.
 
-IX.- Realizar o permitir que se efectúe publicidad dentro del plantel escolar que fomente el consumismo, así como la comercialización de bienes o servicios ajenos al proceso educativo, con excepción de la venta de alimentos, que será regulada por las disposiciones respectivas;
+SR-8 La señal ADUANA se utilizará para indicar que todos los vehículos deberán detenerse en el lugar que se requiera, para revisión aduanal. En la parte inferior de la señal llevará la palabra ADUANA.
 
-X.- Efectuar actividades que pongan en riesgo la salud o la seguridad de los miembros de la comunidad escolar;
+SR-9 La señal VELOCIDAD RESTRINGIDA se utilizará para indicar la limitación de velocidad que se imponga a una arteria ó tramo de camino. En la parte inferior se colocará la palabra MAXIMA, MINIMA, FIJA ó SALIDA, según sea el caso.
 
-XI.- Imponer al educando medidas correctivas que contravengan lo establecido por el artículo 33 de esta ley;
+SR-10 La señal VUELTA CONTINUA A LA DERECHA se utilizará en las intersecciones controladas por semáforo ó por agentes en las cuales está permitida la vuelta derecha en forma continua, aunque para el tránsito que siga de frente se indique el ALTO.
 
-XII.- Ocultar a los padres o tutores las conductas de los alumnos que notoriamente deban ser de su conocimiento;
+SR-11 La señal CIRCULACIÓN se usará en las intersecciones en que se desee indicar a los usuarios la obligación de circular en el sentido indicado, a fin de no invadir un carril de circulación de sentido contrario. La flecha se colocará horizontal ó inclinada indicando el sentido del tránsito.
 
-XIII.- Oponerse a las actividades de evaluación, supervisión y vigilancia, así como no proporcionar información veraz y oportuna;
+SR-12 La señal SOLO VUELTA IZQUIERDA se usará en ciertas intersecciones ó en su proximidad, donde se requiera indicar que uno ó varios carriles deberán usarse exclusivamente para ese movimiento y no deberán ser ocupados por vehículos que sigan de frente.
 
-XIV.- Proporcionar datos falsos con el propósito de obtener la revalidación o equivalencia de estudios realizados fuera del sistema educativo nacional o estatal;
+Esta señal también podrá ser de SOLO VUELTA DERECHA, aplicando el mismo concepto, previo cambio del símbolo a uno ó varios carriles que deben usarse exclusivamente para la vuelta derecha.
 
-XV.- Permitir la sustitución temporal de los trabajadores de la educación en contra de la normatividad establecida;
+SR-13 La señal CONSERVA SU DERECHA se empleará para advertir a los conductores de vehículos que deben transitar a su derecha, con objeto de dejar libre el carril ó los carriles de la izquierda, para permitir el rebase a los vehículos que circulan a mayor velocidad ó bien para facilitar movimientos de incorporación del lado izquierdo.
 
-XVI.- Disponer indebidamente de los bienes y recursos destinados a la educación;
+SR-14 La señal DOBLE CIRCULACIÓN será empleada en aquellas vías de un solo sentido cuando cambien a un tramo en el que se permita la circulación en dos sentidos.
 
-XVII.- Incumplir con los planes y programas de estudio que las autoridades educativas hayan determinado;
+SR-15 La señal ALTURA LIBRE RESTRINGIDA se utilizará cuando la altura libre de un paso inferior u otra estructura sea menor de 4.30 m., para advertir a los conductores que está limitada a la que se específica la señal.
 
-XVIII.- Incumplir los lineamientos generales para el uso del material educativo destinado a educación primaria y secundaria;
+SR-16 La señal ANCHURA LIBRE RESTRINGIDA se utilizará para advertir a los conductores que el ancho de la estructura no permite, normalmente, el paso simultaneo de dos vehículos.
 
-XIX.- No contar con el personal que acredite la preparación exigida para impartir educación en los tipos y grados que corresponden;
+SR-17 La señal PESO MAXIMO RESTRINGIDO se colocará en los puentes u otros lugares del camino donde sea necesario limitar el peso de los vehículos, ya sea por la capacidad de los puentes ó por la de la superficie de rodamiento. Dentro del círculo se marcará el peso máximo permitido en toneladas.
 
-XX.- No contar con las instalaciones que satisfagan las condiciones de salubridad, pedagógicas y de seguridad, que la autoridad educativa determine;
+SR-18 La señal PROHIBIDO REBASAR se empleará para advertir a los conductores de vehículos los tramos en que no se permita rebasar a otro vehículo, por las condiciones especiales del ancho del camino, visibilidad, etc.
 
-XXI.- No cumplir, en los casos de educación inicial y preescolar, con los requisitos pedagógicos que para planes y programas de estos niveles fije la autoridad educativa competente;
+SR-19 La señal PEATONES A SU IZQUIERDA se usará en las regiones o tramos de caminos con tránsito frecuente de peatones, para advertir a estos que para su propia seguridad deben caminar al lado izquierdo, de frente al tránsito que se aproxima.
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2004)</small>
+SR-20 La señal ESTACIONAMIENTO PROHIBIDO A CIERTAS HORAS será empleada en aquellas arterias donde no se admite el estacionamiento de vehículos a ciertas horas del día por la demanda de espacio para circulación. Aunque el ejemplo indica la prohibición de 8 a 21 horas, estos limites podrán variar según las necesidades locales.
 
-XXII.- Impartir educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica, sin contar con la autorización correspondiente;
+SR-22 La señal ESTACIONAMIENTO PERMITIDO UN CORTO PERIODO DENTRO DE UN HORARIO, se utilizará en aquellos sitios donde se desee obtener una mayor utilización del espacio disponible, beneficiando a un mayor número de usuarios en ese horario.
 
-XXIII.- Incumplir cualesquiera de las obligaciones previstas en el artículo 119; y
+SR-23 La señal PRINCIPIA PROHIBICIÓN DE ESTACIONAMIENTO se empleará al iniciarse el tramo, de un camino ó de una calle, en los que los vehículos no deben estacionarse.
 
-XXIV.- Incumplir cualesquiera de los demás preceptos de esta ley, así como las disposiciones reglamentarias que de ella se deriven.
+SR-24 La señal TERMINA PROHIBICION DE ESTACIONAMIENTO se empleará al terminar el tramo, de un camino ó de una calle, en los que los vehículos no deben estacionarse.
 
-Las infracciones que pudieran cometer las autoridades y los trabajadores de la educación, serán sancionadas conforme a los ordenamientos legales aplicables.
+SR-25 La señal PROHIBIDO ESTACIONARSE será utilizada en aquellos lugares donde esté completamente prohibido el estacionamiento de vehículos.
 
-###### Artículo 183.
+SR-26 La señal PROHIBIDO VUELTA A LA DERECHA será empleada en aquellos lugares donde no se permita la vuelta a la derecha, ya sea por tratarse de una circulación de sentido contrario, ó en casos específicos, para no interferir con otros movimientos importantes, inclusive el de peatones.
 
-Las infracciones enumeradas en el artículo anterior, se sancionarán según el caso con:
+SR-27 La señal PROHIBIDA VUELTA A LA IZQUIERDA será empleada en los mismos términos que la señal anterior, referidos al movimiento a la izquierda.
 
-I.- Amonestación;
+SR-28 La señal PROHIBIDO EL RETORNO deberá emplearse en aquellas arterias donde la vuelta "U" pueda representar un riesgo mayor o causar serios inconvenientes al tránsito de vehículos.
 
-II.- Multa hasta por el equivalente a cinco mil veces el salario mínimo general diario vigente en el área geográfica y en la fecha en que se cometa la infracción. Las multas impuestas podrán duplicarse en caso de reincidencia; y
+SR-29 La señal PROHIBIDO SEGUIR DE FRENTE se empleará al principiar un tramo en el que no se permite el tránsito de frente, especialmente por casos en que cambie el sentido de la circulación.
 
-III.- Revocación de la autorización o retiro del reconocimiento de validez oficial de estudios correspondiente, independientemente de la multa que en su caso proceda.
+SR-30 La señal PROHIBIDO EL PASO A BICICLETAS, VEHICULOS PESADOS Y MOTOCICLETAS se usará para prohibir el paso de dichos vehículos en determinado tramo del camino ó calle.
 
-###### Artículo 184.
+SR-31 La señal PROHIBIDO EL PASO DE VEHICULOS TIRADOS POR ANIMALES se usará para evitar que dichos vehículos transiten sobre el camino.
 
-Cuando la autoridad educativa responsable de la prestación del servicio, o que haya otorgado la autorización o el reconocimiento de validez oficial de estudios, considere que existen causas justificadas que ameriten la imposición de sanciones, lo hará del conocimiento del presunto infractor para que, dentro de un plazo de 15 días naturales, manifieste lo que a su derecho convenga y proporcione los datos y documentos que le sean requeridos.
+SR-32 La señal PROHIBIDO EL PASO DE MAQUINARIA AGRICOLA se utilizará para evitar que dicha maquinaria circule sobre el camino.
 
-La autoridad dictará resolución con base en los datos aportados por el presunto infractor y las demás constancias que obren en el expediente.
+SR-33 La señal PROHIBIDO EL PASO A BICICLETAS se usará en aquellos caminos ó calles donde un estudio técnico indique la necesidad de prohibir la circulación de ciclistas en bien de la seguridad general.
 
-Para determinar la sanción se considerarán las circunstancias en que se cometió la infracción, los daños y perjuicios que se hayan producido o puedan producirse a los educandos, la gravedad de la infracción, las condiciones socioeconómicas del infractor, el carácter intencional o no de la infracción y si se trata de reincidencia.
+SR-34 La señal PROHIBIDO EL PASO DE PEATONES se usará al principio de aquellos caminos ó calles en los que el tránsito de vehículos haga peligroso el paso ó cruce de peatones y éstos tengan otro lugar por donde transitar o cruzar.
 
-###### Artículo 185.
+SR-35 La señal PROHIBIDO EL PASO DE VEHICULOS PESADOS se empleará al principio de ciertos tramos de caminos ó rutas urbanas en los que no se permite el paso de vehículos pesados.
 
-La negativa o revocación de la autorización otorgada a particulares produce efectos de clausura del servicio educativo de que se trata. El retiro de reconocimiento de validez oficial se refiere a los estudios que se impartan a partir de la fecha en que se dicte la resolución.
+SR-36 La señal PROHIBIDAS LAS SEÑALES ACUSTICAS se usará para recordar a los usuarios la prohibición de sonar la bocina excepto para prevenir un accidente.
 
-El retiro del reconocimiento de validez oficial se referirá a los estudios que se impartan a partir de la fecha en que se emita la resolución. Los realizados mientras que la institución contaba con el reconocimiento, mantendrán su validez oficial.
+SEÑALES INFORMATIVAS
 
-La autoridad que emita la resolución, adoptará las medidas que sean necesarias para evitar perjuicios a los educandos.
+Tienen por objeto guiar al usuario a lo largo de su ruta e informarle sobre las calles ó caminos que encuentre y los nombres de poblaciones, lugares de interés y sus distancias.
 
-En el caso de autorizaciones, cuando la revocación se emita durante un ejercicio lectivo, la institución podrá seguir funcionando, a juicio y bajo la vigilancia de la autoridad, hasta que aquél concluya.
+SI-15 La señal CRUCE se utilizará en las intersecciones, para indicar las poblaciones importantes situadas sobre cada ruta, debiendo aquellas figurar en los mapas de caminos.
 
-###### Artículo 186.
+SI-16 La señal ENTRONQUE se utilizará en intersecciones para indicar los dos poblados importantes sobre cada ruta, que figuren en los mapas de caminos.
 
-En contra de las resoluciones emitidas por el Ejecutivo del Estado, con fundamento en la Ley General de Educación, de la presente ley y demás disposiciones que de ella emanen, podrán interponerse los recursos de reconsideración o revisión, en su caso, dentro de los 15 días hábiles siguientes a la fecha de su notificación.
+SI-17 La señal POBLADO se utilizará para indicar poblados de poca importancia, comunicados mediante un ramal de cualesquier tipo.
 
-Transcurrido el plazo a que se refiere el párrafo anterior, sin que el interesado interponga el recurso, la resolución tendrá el carácter de definitiva. Así mismo podrá interponerse queja cuando la autoridad no dé respuesta en un plazo de 30 días hábiles siguientes a la presentación de la solicitud respectiva. Este medio de defensa deberá interponerse por escrito ante el superior jerárquico de quien haya incurrido en la omisión.
+SI-18 La señal CONFORMACION podrá llevar el nombre de uno ó dos poblados, con sus respectivas distancias.
 
-###### Artículo 187.
+SI-19 La señal LUGAR se utilizará para indicar a los conductores de vehículos la población ó lugar de interés al cual van a llegar inmediatamente.
 
-El escrito mediante el cual se interponga el recurso deberá contener la mención del nombre y el domicilio del recurrente, la expresión de agravios, los elementos de prueba, así como constancia que acredite la personería del promovente.
+SI-20 La señal de MONTAJE TUBULAR se usará en zona urbana y representa un sistema diferente de montaje para combinar los tableros de destino y dirección con la numeración carretera. Tendrá el objeto de señalar la dirección a seguir para encontrar la avenida o calle indicada.
 
-En caso de incumplimiento de los requisitos antes señalados, la autoridad declarará improcedente el recurso.
+SI-21 Las SEÑALES ELEVADAS se emplearan cuando se estima que las señales laterales no son debidamente eficientes:
 
-###### Artículo 188.
+a) Cuando se desea controlar el tránsito en determinado carril.
 
-El recurso de revisión se interpondrá ante la autoridad inmediata superior de la que emitió la resolución recurrida.
+b) En arterias de dos ó más carriles en un solo sentido con alto volumen de tránsito.
 
-Cuando la resolución impugnada emane del Gobernador del Estado, el recurso será de reconsideración, el cual deberá interponerse ante dicho funcionario en los términos y bajo el procedimiento establecido para la revisión; cuando la resolución emane de cualquier funcionario diverso al anterior, el recurso a interponer será el de revisión.
+c) En vías de alta velocidad, en donde no haya espacio para el señalamiento a los lados ó bien, donde la iluminación de la zona lo hagan poco efectivo.
 
-La autoridad receptora del recurso deberá sellarlo y firmarlo de recibido, anotará la fecha y hora en que se presente y el número de anexos que se acompañen. En el mismo acto devolverá copia debidamente sellada y firmada al interesado.
+d) En las intersecciones de caminos importantes.
 
-###### Artículo 189.
+e) En autopistas, en entronques con otras carreteras.
 
-Al interponerse el recurso, podrá ofrecerse toda clase de pruebas, excepto la confesional, y acompañarse con los documentos relativos. Si se ofrecen pruebas que requieren desahogo, se abrirá un término probatorio de 20 días hábiles para tales efectos. Quien esté conociendo del recurso podrá allegarse de cualquier elemento de convicción que considere necesario.
+SI-22 Las señales NOMENCLATURA con los nombres de calles y avenidas, serán colocadas por las autoridades locales.
 
-###### Artículo 190.
+SI-23 La señal SENTIDO DEL TRANSITO se usará para advertir a los conductores que en la calle que van a cruzar, el tránsito de vehículos está permitido en una sola dirección.
 
-La autoridad ante quien se interpuso el recurso deberá resolver dentro de los treinta días hábiles siguientes, a partir de la fecha:
+SI-24 La señal LIMITE DE ESTADOS se usará en aquellos puntos del camino donde se cruza un límite de Estados.
 
-I.- Del acuerdo de admisión del recurso, cuando no se hubiesen ofrecido pruebas o las ofrecidas no requieran plazo especial de desahogo, y
+SI-25 Los POSTES DE KILOMETRAJE Y NUMERO DE CARRETERA llevaran el kilometraje de ese lugar, contando a partir del origen que determine la Secretaría de Obras Públicas y abajo el escudo con el número de carretera que le corresponda, por ambas caras.
 
-II.- De la conclusión del desahogo de las pruebas o, en su caso, cuando haya transcurrido el plazo concedido para ello y no se hubieren desahogado por causas imputables al recurrente.
+SI-26 La señal SERVICIO TELEFONICO se utilizará para informar al usuario de la existencia del servicio indicado.
 
-La resolución del recurso se notificará a los interesados, a sus representantes legales, personalmente o por correo certificado con acuse de recibo.
+SI-27 La señal SERVICIO MECANICO se utilizará para informar al usuario la existencia del servicio indicado. Podrá llevar una flecha en vez de la distancia.
 
-###### Artículo 191.
+SI-28 La señal SERVICIO DE COMBUSTIBLE se usará para informar al usuario la existencia del servicio indicado.
 
-La interposición del recurso suspenderá la ejecución de la resolución impugnada en cuanto al pago de multas.
+SI-29 La señal PRIMEROS AUXILIOS se utilizará para indicar la existencia de este servicio.
 
-###### Artículo 192.
+SI-30 La señal SERVICIO SANITARIO servirá para indicar la existencia de este servicio.
 
-Respecto de cualquiera otra clase de resoluciones administrativas y de sanciones no pecuniarias, la suspensión sólo se otorgará si concurren los requisitos siguientes:
+SI-31 La señal SERVICIO DE TRANSBORDADOR se usará para informar al usuario la existencia del servicio de chalan para cruzar algún río, brazo de mar o laguna.
 
-I.- Que lo solicite el recurrente;
+SI-32 La señal SERVICIO DE RESTAURANTE se usará para informar al usuario la existencia del servicio indicado.
 
-II.- Que el recurso haya sido admitido;
+SI-33 La señal ESTACIONAMIENTO DE CASAS RODANTES se utilizará para indicar al usuario la existencia de un lugar apropiado para el estacionamiento de éste tipo de vehículos.
 
-III.- Que, de otorgarse, no implique la continuación o consumación de actos u omisiones que ocasionen infracciones a esta ley; y
+SI-34 La señal AEROPUERTO se utilizará para informar al usuario del camino la existencia del servicio indicado.
 
-IV.- Que no se ocasionen daños o perjuicios a los educandos o terceros en los términos de esta ley.
+SI-35 La señal PARADA PERMITIDA se colocará en el lugar y servirá para informar a los operadores de vehículos del servicio público y a los usuarios el lugar preciso en que se detiene el vehículo para tomar ó dejar pasaje.
+
+SI-36 La señal ESTACIONAMIENTO PERMITIDO se utilizará para informar al usuario el lugar donde puede estacionar su vehículo.
+
+SI-37 La señal PARADA DE TREN O TROLEBUS se colocará en el lugar y servirá para informar a los operadores de ésta clase de vehículos y a los usuarios, el lugar preciso en que se detiene el vehículo para tomar ó dejar pasaje.
+
+SI-38 La señal HOTEL O MOTEL se colocará para informar al usuario la existencia del servicio indicado.
+
+SI-39 La señal RUINAS ARQUEOLOGICAS se usará para informar al usuario la existencia de estos atractivos turísticos.
+
+SI-40 La señal MONUMENTO COLONIAL se usará para informar al usuario la existencia de éste atractivo turístico.
+
+SI-41 La señal CAMPAMENTO se usará para informar a los excursionistas la existencia de éste servicio.
+
+###### ARTICULO 199.
+
+Las marcas son rayas, símbolos de color blanco, que se pintan y colocan sobre el pavimento, estructuras, guarniciones u objetos dentro o adyacentes a las vías de circulación, a fin de indicar ciertos riesgos, regular o canalizar el tránsito o complementar las indicaciones de otras señales.
+
+I.- Marcas en el pavimento.
+
+a) Rayas longitudinales. Delimitan los carriles de circulación y guía a los conductores dentro de los mismos.
+
+b) Raya longitudinal continua sencilla, no debe ser rebasada.
+
+c) Raya longitudinal discontinua sencilla, puede ser rebasada para cambiar de carril o adelantar otros vehículos si las condiciones del tráfico lo permiten.
+
+d) Rayas longitudinales dobles, una continua y otra discontinua. Conservan la significación de la más próxima al vehículo al tiempo de iniciar la maniobra. No deben ser rebasadas, si la línea continua está al lado del vehículo.
+
+En caso contrario, pueden ser rebasadas sólo durante el tiempo que dure la maniobra.
+
+e) Rayas transversales. Indican el límite de parada de los vehículos o delimitan la zona de cruce de peatones. No deben ser rebasadas mientras subsista el motivo de la detención del vehículo. En cualquier caso, los cruces de peatones protegidos por estas rayas deberán franquearse con precaución.
+
+f) Rayas oblicuas. Advierten la proximidad de un obstáculo y los conductores deben extremar sus precauciones.
+
+g) Rayas para estacionamiento. Delimitan los espacios donde es permitido el estacionamiento.
+
+II.- Marcas en guarniciones.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+a) Guarniciones pintadas de rojo: Indican estacionamiento prohibido.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+b) Guarniciones pintadas de amarillo: Indican estacionamiento exclusivo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+c) Guarniciones pintadas de blanco o sin pintar: Indican estacionamiento permitido.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+d) Guarniciones pintadas de azul: Indican estacionamiento exclusivo para personas con algún tipo de discapacidad.
+
+III.- Letras y símbolos.
+
+a) Cruce de ferrocarril el símbolo "FXC" advierte la proximidad de un cruce de ferrocarril.
+
+b) Para uso de carriles direccionales en intersecciones. Indican al conductor el carril que debe tomar al aproximarse a una intersección según la dirección que pretenda seguir. Cuando un vehículo tome ese carril, estará obligado a continuar en la dirección indicada por las marcas.
+
+IV.- Marcas en obstáculos.
+
+a) Indicadores de peligro. Advierten a los conductores la presencia de obstáculos y son tableros con franjas oblicuas de color blanco y negro alteradas. Las franjas pueden estar pintadas directamente sobre el obstáculo.
+
+b) Indicadores de alineamiento o fantasmas. Son postes cortos de color blanco y material reflectante. Delinean la orilla de los acotamientos.
+
+###### ARTICULO 200.
+
+Las isletas son superficies ubicadas en las intersecciones de las vías de circulación o en sus inmediaciones, delimitadas por guarniciones, grapas, rayas u otros materiales que sirven para canalizar el tránsito o como refugio de peatones. Los vehículos no deben invadir las isletas ni sus marcas de aproximación.
+
+###### ARTICULO 201.
+
+Los vibradores son acanalamientos transversales al eje de la vía. Advierten la proximidad de un peligro y los conductores deben disminuir la velocidad y extremar sus precauciones al cruzarlos.
+
+###### ARTICULO 202.
+
+Las guías son tubos verticales colocados a ambos lados de los vados y a todo lo largo de los mismos para delimitar su anchura. Antes de cruzarlos debe el conductor observar las escalas de profundidad, fijadas en algunas guías.
+
+###### ARTICULO 203.
+
+Los contratistas o encargados de la ejecución de obras en las vías públicas, aún tratándose de oficiales, están obligados a instalar los dispositivos transitorios para el control de tránsito, sujetándose a las especificaciones establecidas por las autoridades competentes.
+
+Consisten, desde un simple abanderamiento, señales manuales con bandera roja, barreras, conos, tambores o una serie de señales y lámparas intermitentes durante el día, hasta mecheros, linternas, reflectantes y lámparas intermitentes durante la noche.
+
+###### ARTICULO 204.
+
+Las señales manuales con bandera roja indican:
+
+a) SEÑAL DE ALTO.- La bandera sostenida en posición fija con el brazo horizontal.
+
+b) SIGA CON PRECAUCION.- La bandera sostenida en posición fija con el brazo extendido hacia abajo y moviendo el otro brazo en el sentido de la circulación.
+
+#### SECCION IX. SEMAFOROS
+
+###### ARTICULO 205.
+
+SEMAFOROS.- Tienen por objeto dirigir y regular el tránsito de vehículos y peatones por medio de lámparas eléctricas que proyectan a través de lentes y contra el sentido de la circulación, luz roja, ámbar, verde o flecha de este último color, una por una o en combinación, a excepción de los exclusivos para peatones que deben proyectar luz blanca o anaranjada.
+
+Los lentes de los semáforos estarán dispuestos verticalmente en el siguiente orden descendente: Roja, ámbar y verde; en el caso de semáforos horizontales deberán estar en el mismo orden, de izquierda a derecha.
+
+Dichas luces indican a los conductores y peatones que las observen de frente, que deben obedecerlas en los siguientes términos:
+
+I.- Luz roja fija y sola "ALTO".
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+a).- El tránsito vehicular deberá detenerse antes de entrar en la zona de peatones; en defecto de ésta, antes de entrar en la intersección. Los vehículos no deberán seguir de frente ni dar vuelta a la izquierda, a menos que una señal permita dichas maniobras.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+La vuelta a la derecha en rojo será permitida después de detener totalmente su marcha, cediendo el paso a cualquier vehículo o peatón que pueda representar un riesgo.
+
+b) Los peatones deberán abstenerse de cruzar la vía.
+
+II.- Luz ámbar fija "PREVENTIVA".
+
+a) Advierten a los conductores que está a punto de aparecer la luz roja y deben tomar las precauciones necesarias.
+
+b) Los peatones son advertidos de que no les queda tiempo suficiente para cruzar la vía, antes que aparezca la luz roja y debe abstenerse de iniciar el cruce.
+
+III.- Luz verde "SIGA".
+
+a) Los vehículos deberán seguir de frente o dar vuelta a la derecha o a la izquierda a menos que una señal prohiba dicha maniobra.
+
+b) Los peatones podrán cruzar la vía.
+
+IV.- Flecha verde sola en combinación con otra luz.
+
+a) Los vehículos deberán continuar la marcha en la dirección marcada por la flecha o hacer cualquier movimiento permitido por otras indicaciones simultáneas.
+
+b) Cuando la flecha aparezca en combinación con otra luz, los peatones obedecerán la indicación de dicha luz.
+
+c) Cuando la flecha aparezca sola y en posición vertical los peatones podrán cruzar la vía.
+
+V.- Luz roja intermitente.
+
+El tránsito vehicular frente a la luz roja intermitente deberá detenerse antes de entrar en la zona de peatones, en defecto de ésta, antes de la intersección, y podrá continuar la marcha después de cerciorarse de que no hay riesgo.
+
+VI.- Luz amarilla intermitente.
+
+Los conductores reducirán la velocidad y podrán continuar la marcha tomando las precauciones necesarias.
+
+###### ARTICULO 206.
+
+Donde haya semáforos para peatones, éstos atenderán exclusivamente sus indicaciones en la siguiente forma:
+
+I.- Pase o siga en leyenda o símbolo con luz verde fija, los peatones podrán cruzar la vía.
+
+II.- No pase o no siga en leyenda o símbolo con luz anaranjada fija o intermitente. Los peatones se abstendrán de iniciar el cruce de la vía. Los peatones se abstendrán de la indicación pase, continuarán hasta situarse en la acera o zona de seguridad inmediata.
+
+###### ARTICULO 207.
+
+Los semáforos para el control de circulación en carriles, colocados sobre el centro de cada uno de ellos indican:
+
+I.- Equis (X) mayúscula roja. Los vehículos no pueden proseguir por el carril correspondiente.
+
+II.- Flecha verde vertical. Los vehículos pueden proseguir por el carril correspondiente.
+
+###### ARTICULO 208.
+
+Los semáforos en cruceros de ferrocarril, consisten en luces rojas que se encienden y apagan alternadamente o una luz roja en el centro de un disco que oscila como péndulo en algunos casos se complementan con campanas eléctricas sincronizadas con las luces y barreras que atraviesan los carriles de circulación.
+
+Son dispositivos que al funcionar indican alto total a los conductores y peatones, ya que se aproxima o pasa un tren.
+
+#### SECCION X. SEÑALES EN VEHICULOS
+
+###### ARTICULO 209.
+
+Los automóviles de alquiler, deberán portar en la parte delantera del parabrisas o del techo, un letrero intercambiable y visible con las palabras "LIBRE" u "OCUPADO", para indicar que están disponibles para ser ocupados o no, para su uso por parte del público.
+
+Asimismo, deberán ser del color que determinará la Dirección de Transporte del Estado, debiendo, además en las portezuelas graficarse el Estado de Sonora con señalamiento expreso del Municipio donde se encuentran autorizados, el número económico y el sitio correspondiente.
+
+###### ARTICULO 210.
+
+Los vehículos destinados al transporte público de pasaje colectivo urbano, deberán ostentar en lugar visible la denominación de la ruta y el número económico así como ser del color que señale la Dirección de Transporte del Estado con el fin de orientar al público usuario.
+
+###### ARTICULO 211.
+
+Los vehículos destinados al servicio público de transporte de pasaje colectivo, en los sistemas suburbanos y foráneos, deberán ostentar el número del permiso y señalamiento de la ruta.
+
+Por lo que respecta al color de las unidades, éste deberá diferenciarse en los servicios de primera y segunda clase. Cuando la clase de servicio tenga el mismo origen y destino de ruta, las unidades deberán ser uniformes en cuanto al color, el cual se determinará por la Dirección de Transporte del Estado.
+
+###### ARTICULO 212.
+
+Cuando un vehículo de transporte público de pasaje colectivo por alguna razón que así lo obligue, no esté prestando servicio al público o transite fuera de la ruta autorizada, deberá ostentar en las condiciones señaladas con anterioridad un letrero con las palabras "SERVICIO ESPECIAL" o simplemente "ESPECIAL".
+
+###### ARTICULO 213.
+
+Los vehículos destinados al servicio particular para el transporte colectivo de personas o de carga, deberán ostentar en las portezuelas el número de permiso, la razón social y la palabra "PARTICULAR" o cualquier otra que denote que no es para servicio público.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+#### SECCION XI. DISPOSITIVOS PREVENTIVOS DE ALCOHOLEMIA
+
+> <small>(ADICIONADO, B.O. 3 DE NOVIEMBRE DE 2014)</small>
+
+ARTICULO 213 BIS.- Los Municipios que implementen operativos de alcoholimetría para determinar el grado de alcoholemia de conductores de vehículos deberán cumplir, como mínimo, con los siguientes requisitos:
+
+I.- Establecerse en lugares de máxima visibilidad y seguridad adecuada para los conductores y el personal de los operativos;
+
+II.- Contar con iluminación necesaria para mantener la seguridad para los conductores y para el personal de los operativos;
+
+III.- Contar con un área de acercamiento inicial o primer contacto;
+
+IV.- Contar con un área de prueba de alcoholimetría;
+
+V.- Contar con la presencia por lo menos de un médico legista y un juez calificador autorizado por el ayuntamiento, así como personal de Organizaciones de la Sociedad Civil y de personal autorizado por la Comisión Estatal de los Derechos Humanos;
+
+VI.- Se deberá imprimir el resultado de la prueba de alcoholemia; y
+
+VII.- Contar con todos los recursos materiales establecidos en el Programa Nacional del (sic) Alcoholimetría.
+
+###### ARTICULO 214.
+
+El conductor de cualquier vehículo implicado en un accidente con saldo de muertos o daños materiales en vehículos u otras propiedades, debe inmediatamente dejar estacionado el vehículo en el lugar del accidente y permanecer en dicho sitio, colocando las señales de protección hasta que tome conocimiento de los hechos la autoridad competente.
+
+###### ARTICULO 215.
+
+El conductor de cualquier vehículo implicado en un accidente con saldo de lesionados, debe proceder a prestar ayuda a éstos y, si es preciso, procurar por los medios a su alcance o con su propio vehículo, el traslado de los lesionados al lugar más próximo en que puedan recibir asistencia médica.
+
+En todo caso, el implicado en un accidente de tránsito que haya abandonado el sitio del siniestro en busca de auxilio para las víctimas, está obligado a regresar a dicho lugar, y ponerse a disposición de la autoridad que tome conocimiento del mismo.
+
+Los conductores de los demás vehículos que pasen por el lugar del accidente, están obligados a detenerse a la indicación que se les haga y colaborar en el auxilio de los lesionados. La misma obligación se impone a toda persona que llegue al lugar del accidente, sea conductor, pasajero o peatón.
+
+###### ARTICULO 216.
+
+El conductor de un vehículo que cause daños a otros vehículos o propiedad no vigilados, deberá detenerse, localizar y comunicar al conductor o al propietario del vehículo o de los bienes dañados, su nombre, dirección y los del propietario del vehículo que conduce. Si no lo encuentra deberá fijar en un lugar visible del vehículo o propiedad dañados, una nota con los datos mencionados.
+
+###### ARTICULO 217.
+
+Si a consecuencia de un accidente del que no resulten muertos, ni lesionados, se causan daños materiales, en bienes que no sean del dominio público, las partes pueden llegar a un acuerdo, el que se hará constar mediante convenio suscrito por los interesados, con sus nombres, domicilios y número de placas de circulación de los vehículos y una breve descripción del accidente. Los convenios celebrados ante la presencia del Jefe de Tránsito, o de quien supla sus funciones conforme a esta Ley, tendrán la calidad de documentos públicos.
+
+###### ARTICULO 218.
+
+El propietario, el conductor o los ocupantes de un vehículo implicado en un accidente de tránsito con saldo de víctimas o daños materiales en bienes de dominio público, deberán dar aviso inmediato de lo ocurrido a la Oficina de Tránsito más cercana o bien, a un representante de esa autoridad:
+
+a) Cuando el conductor esté físicamente incapacitado para dar el aviso anterior y haya otra persona ocupando el vehículo en el momento del accidente, con capacidad para hacerlo, el ocupante deberá dar aviso del accidente ocurrido.
+
+b) Cuando el propietario de un vehículo que tenga conocimiento de que éste, ha participado en un accidente, estará obligado solidariamente con su conductor a dar el aviso correspondiente.
+
+###### ARTICULO 219.
+
+Cualquier persona que proporcione a la Autoridad de Tránsito, informes orales o escritos relativos a un accidente de tránsito, que resulten evidentemente falsos, estará sujeta a las sanciones previstas por la Legislación Penal.
+
+###### ARTICULO 220.
+
+La falta de licencia hace presumir la impericia del conductor, en caso de un accidente.
+
+###### ARTICULO 221.
+
+Los Agentes de Tránsito actuarán en los términos del Artículo 223 de la presente Ley al darse cuenta o tomar conocimiento de un accidente.
+
+## TITULO TERCERO. SANCIONES Y RECURSOS
+
+###### ARTICULO 222.
+
+Las infracciones a la presente Ley se sancionarán con:
+
+I.- Multa.
+
+II.- Arresto hasta por 36 horas.
+
+III.- Detención de vehículos.
+
+IV.- Suspensión y cancelación de licencias.
+
+> <small>(ADICIONADA, B.O. 7 DE MAYO DE 1992)</small>
+
+V.- Retención de la tarjeta de circulación.
+
+Podrá también recogerse la licencia de operador de servicio público de transporte por las causas y en los términos señalados en la Ley de Transporte del Estado.
+
+> <small>(ADICIONADO, B.O. 6 DE JULIO DE 1995)</small>
+
+Las infracciones a las disposiciones que establecen condiciones de peso, dimensiones, capacidad y otras especificaciones que deberán cumplir los vehículos destinados al servicio de transporte público o privado que circulen en vías de jurisdicción estatal, serán sancionadas con multa y retiro del vehículo de la circulación, según sea el caso, por la Coordinación Estatal de Seguridad Pública y Tránsito, en los términos que establezcan las normas reglamentarias respectivas.
+
+> <small>(ADICIONADO, B.O. 8 DE JULIO DE 2002)</small>
+
+Las autoridades administrativas competentes, en la aplicación de las sanciones previstas por esta Ley, tomarán en cuenta, para la individualización de la sanción, la gravedad de la infracción, la capacidad económica, reincidencia y demás circunstancias especiales de los hechos constitutivos de la infracción, procurando que las multas no sean excesivas y se encuentren al amparo del principio de proporcionalidad establecido por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
+
+###### ARTICULO 223.
+
+Al darse cuenta o al tener conocimiento de una infracción, los Agentes de Tránsito, acudirán inmediatamente al lugar donde ocurra y tomarán las siguientes medidas según el caso:
+
+I.- Las que sean necesarias para mantener la fluidez de la circulación.
+
+II.- Las tendientes a impedir daños a personas y a las propiedades.
+
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1994)</small>
+
+III.- En caso de flagrante delito, pondrán a los detenidos a disposición de la jefatura de policía o de la autoridad inmediata, y ésta, con la misma prontitud, a la del Ministerio Público.
+
+IV.- Si hubiere lesionados, llamarán al servicio médico.
+
+V.- Si las circunstancias lo ameritan, se solicitará el auxilio de otros elementos de policía.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+VI.- Cuando la infracción sea causada por un error o una situación inevitable, siempre y cuando la conducta no sea reiterada, los agentes de tránsito podrán hacer constar, por escrito, una amonestación oficial en sus libretas de infracciones, la cual no llevará carga punitiva pero quedará constancia en el registro respectivo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+VII.- Harán constar la infracción en la boleta oficial impresa en sus libretas de infracciones.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU NUMERACIÓN, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+VIII.- Los agentes de tránsito, además de levantar la infracción, deberán impedir que el vehículo continúe transitando y remitirlo al Departamento de Tránsito exclusivamente en los siguientes casos:
+
+a) Conducir en estado de ebriedad o bajo el efecto de enervantes.
+
+b) No portar el vehículo, placas de circulación o portar placas alteradas o vencidas.
+
+c) En caso de accidente o comisión de algún delito.
+
+d) Cuando se preste un servicio público de transporte sin tener concesión o permiso.
+
+> <small>(ADICIONADO, B.O. 7 DE MAYO DE 1992)</small>
+
+e).- Cuando se aprecie en forma ostensible que las sustancias contaminantes que emiten pueden rebasar los límites máximos permisibles, determinados por las normas técnicas ecológicas aplicables. En este caso, el Departamento de Tránsito ordenará la remisión inmediata del vehículo a un centro de verificación autorizado, quien emitirá su dictamen de la revisión que efectúe.
+
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+f) Conducir sin portar su licencia o permiso de conducir, o cuando éstos se encuentren cancelados.
+
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+g) Por estacionarse en zonas prohibidas.
+
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+h) Por orden de autoridad judicial.
+
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+i) Por realizar maniobras de carga y descarga sin el permiso correspondiente o fuera del horario establecido.
+
+> <small>(ADICIONADO, B.O. 7 DE MAYO DE 1992)</small>
+
+Si el resultado del dictamen es negativo, y si portaba la calcomanía, la infracción quedará sin efecto; si la calcomanía faltaba, el centro de verificación expedirá la constancia respectiva. De ser positivo el dictamen, la autoridad que hizo el traslado retendrá la tarjeta de circulación del vehículo, y el propietario tendrá un plazo de treinta días naturales para presentar nuevamente a verificación el vehículo y subsanar las deficiencias detectadas, pudiendo circular en ese período sólo para ser conducido al taller respectivo.
+
+> <small>(ADICIONADO, B.O. 7 DE MAYO DE 1992)</small>
+
+A los conductores procedentes de entidades o municipios donde no se encuentre en vigencia el programa de verificación vehicular obligatoria, cuyos vehículos ostensiblemente contaminen, rebasando los límites permisibles para emisiones tóxicas por automotores, se les retendrá la tarjeta de circulación y les será devuelta en cuanto comprueben que no rebasaron el límite de contaminación o en cuanto paguen la multa.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+###### ARTICULO 224.
+
+Las infracciones se harán constar en los talonarios oficiales, tratándose de las levantadas por agentes de tránsito y en las actas respectivas que al efecto se formulen, cuando se refieran a las infracciones que, por su naturaleza, no puedan consignarse en las boletas oficiales. Las infracciones se levantarán a personas físicas, a las cuales se les deberá abrir un registro electrónico personal que quedará inscrito tanto en las agencias fiscales como en las respectivas bases de datos de las autoridades de tránsito y seguridad pública, las cuales deberán estar desvinculadas del vehículo; de ninguna manera se levantarán infracciones "A quien corresponda", exceptuándose los casos de zonas de estacionamiento en vía pública acondicionadas con parquímetros y zonas prohibidas, cuando por su naturaleza la infracción sea ligada directamente al vehículo, ésta se levantará a nombre del conductor pero será registrada y vinculada con las placas o número de serie del vehículo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+Las infracciones no podrán eliminarse del registro electrónico personal, a menos que sea a través de una resolución de autoridad competente.
+
+###### ARTICULO 225.
+
+Cuando el infractor, en un solo hecho viole varias disposiciones de esta ley, se aplicará la sanción que corresponda a la infracción de mayor gravedad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 225 BIS.- Se consideran infracciones graves las siguientes:
+
+I. Conducir en estado de ebriedad o bajo la acción de drogas o sustancias que disminuyan su aptitud para conducir.
+
+II. Conducir en exceso de velocidad;
+
+III. No obedecer las indicaciones de semáforos y altos;
+
+IV. No respetar la preferencia de paso de vehículos, peatones o ciclistas;
+
+V. Hacer uso de teléfonos celulares al conducir;
+
+VI. Transportar a menores de 6 años sin reunir los requisitos de seguridad establecidos en el tercer párrafo del artículo 108 de la presente ley;
+
+VII. Transportar personas en el exterior de la carrocería;
+
+VIII. No obedecer las indicaciones del personal de seguridad pública;
+
+IX. Cambiar intempestivamente de un carril a otro, cruzando la trayectoria de otro vehículo;
+
+X. Salir intempestivamente y sin precaución del lugar de estacionamiento;
+
+XI. Estacionarse en carril de circulación, cuando el vehículo no sea visible a distancia, exceptuando cuando esto se derive de una falla mecánica;
+
+XII. Detenerse en carril de circulación a consecuencia de una falla mecánica sin instalar los dispositivos de advertencia correspondientes.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Tratándose de la infracción señalada en la fracción V de este artículo, el infractor deberá llevar un curso de concientización que impartirá la autoridad municipal correspondiente o con quien haya convenido el Municipio para impartir dicho curso, en caso de que el Municipio no cuente con el recurso humano o la infraestructura para impartir el curso, o bien, no haya alguna institución pública o privada con la cual pueda convenir, el infractor realizará trabajo social.
+
+###### ARTICULO 226.
+
+Al infractor reincidente, se le aplicará el doble de la multa que corresponda a la infracción cometida. Para los efectos de esta ley, se considerará como reincidencia la infracción de una misma disposición en más de tres ocasiones diversas durante el lapso de un año, contado a partir de la primera infracción.
+
+###### ARTICULO 227.
+
+El total de las multas que se impongan, tratándose de jornaleros, obreros o trabajadores, no podrán exceder del importe a que se refiere el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos. El recaudador ante quien se haga el entero de la multa, recabará en su caso, el número de afiliación y grupo de salario a que pertenezca, con vista a los documentos justificativos expedidos por la Institución de Seguridad Social de la que sea derechohabiente y que estén vigentes.
+
+###### ARTICULO 228.
+
+El pago de la multa deberá hacerse precisamente en la caja recaudadora municipal del lugar donde se cometió la infracción, dentro del término de quince días a partir de la fecha en que se impuso la multa.
+
+El pago podrá también hacerse por correo, remitiendo la boleta de infracción con su importe en cheque o giro postal adherido en este caso. El descuento a que se refiere el Artículo 229 de la presente ley, únicamente surtirá efectos si la pieza postal es depositada en cualquier oficina de correo del País, antes de que expire el término de gracia.
+
+Las multas podrán pagarse mediante cheque personal sin necesidad de certificación.
+
+###### ARTICULO 229.
+
+El infractor que pague la multa, dentro de las veinticuatro horas siguientes a la de su imposición, gozará de un descuento del 50% de su importe.
+
+Si el pago de la multa se hace después de las veinticuatro horas, pero dentro de los tres días siguientes al de su imposición, el descuento será únicamente del 25%.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2017)</small>
+
+No se aplicarán los descuentos antes aludidos, cuando se actualice la infracción señalada en la fracción V del artículo 225 BIS de esta Ley.
+
+###### ARTICULO 230.
+
+Prescribirá en seis meses la acción de las autoridades de tránsito para determinar la responsabilidad de una infracción y para establecer la sanción que le corresponda.
+
+La acción del Fisco para hacer efectivas las sanciones señaladas en esta Ley, prescribirán en cinco años.
+
+En ambos casos, el término de la prescripción corre a partir de la fecha en que se haya cometido la infracción.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE JULIO DE 2002)</small>
+
+###### ARTICULO 231.
+
+Se impondrá multa que habrá de determinarse en las Leyes de Ingresos de los Ayuntamientos, de conformidad con las bases establecidas en esta Ley:
+
+a) Por transportar en los vehículos, explosivos o productos altamente inflamables sin el permiso correspondiente.
+
+b) Por prestar servicio público de transporte sin estar concesionado, por cada ocasión. En este caso, además se detendrá hasta por 72 horas el vehículo, impidiendo que continúe circulando y se remitirá al Departamento de Tránsito. A la vez, se comunicará tal situación a la Dirección de Transporte del Estado.
+
+c) Por prestar el servicio público de transporte con las unidades de emergencia simultáneamente con las autorizadas, independientemente de la sanción de cancelación que establece la Ley de Transporte del Estado de Sonora.
+
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
+
+d) Por no presentar los vehículos para la verificación de emisiones contaminantes en los términos del artículo 53, último párrafo, de esta Ley, así como por no portar la calcomanía correspondiente vigente o, portándola, ser evidente que el vehículo emite sustancias contaminantes que puedan rebasar los límites permisibles señalados por la normatividad aplicable. En este último caso, se estará a lo establecido por el inciso e) del artículo 223 de esta Ley.
+
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+
+En los casos en que se compruebe que el vehículo no aprobó el examen de verificación de emisiones contaminantes, y no ha sido presentado a segunda verificación en el plazo que se le haya concedido, en lugar de la multa señalada en el primer párrafo de este artículo, se impondrá una multa equivalente a veinticuatro Unidades de Medida y Actualización.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE JULIO DE 2002)</small>
+
+###### ARTICULO 232.
+
+Se impondrá multa que habrá de determinarse en las Leyes de Ingresos de los Ayuntamientos, de conformidad con las bases establecidas en esta Ley:
+
+a) Por conducir vehículos en estado de ebriedad o bajo influencia de estupefacientes y arresto hasta por 36 horas, siempre que no constituya delito, procediendo conforme al Artículo 223, Fracción VII de esta Ley.
+
+b) Por circular con un vehículo al que le falten las dos placas de circulación, con placas alteradas, vencidas o que no le correspondan, procediéndose además a impedir la circulación del vehículo y debiéndose remitir al Departamento de Tránsito.
+
+c) Por permitir el propietario o poseedor de un vehículo que lo conduzcan por personas menores de 18 años o que carezcan éstos de permiso respectivo, debiéndose además impedir la circulación del vehículo.
+
+Si el automóvil es propiedad de un menor de 18 años y éste es quien lo conduce sin permiso correspondiente, la multa se aplicará a los padres, tutores o quienes ejerzan la patria potestad.
+
+d) Por hacer sitio los automóviles de alquiler en lugar no autorizado.
+
+e) Por prestar el servicio público de pasaje fuera de la ruta o del horario autorizados.
+
+f) Por hacer terminal sobre la vía pública o en lugares no autorizados a los vehículos de servicio público de pasaje.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE JULIO DE 2002)</small>
+
+###### ARTICULO 233.
+
+Se impondrá multa que habrá de determinarse en las Leyes de Ingresos de los Ayuntamientos, de conformidad con las bases establecidas en esta Ley:
+
+a) Por hacer uso cualquier vehículo de sirenas y luces reservadas a los vehículos de emergencia, debiéndose además obligar al conductor a que retire del vehículo dichos dispositivos.
+
+b) Por causar daños a la vía pública o bienes del Estado o del Municipio, con motivo del tránsito de vehículos.
+
+c) Por falta de permiso para circular con equipo especial movible.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE JULIO DE 2002)</small>
+
+###### ARTICULO 234.
+
+Se impondrá multa que habrá de determinarse en las Leyes de Ingresos de los Ayuntamientos, de conformidad con las bases establecidas en esta Ley:
+
+a) Realizar competencias de velocidades o aceleración de vehículo, en las vías públicas.
+
+b) Circular vehículos de transporte de pasaje colectivo, en doble fila.
+
+c) No portar en lugar visible al usuario, los vehículos de servicio público de transporte de pasaje y carga, la tarifa autorizada, así como alterarla.
+
+d) Falta de colocación de banderolas en el día, o de lámparas en la noche, en caso de estacionamiento o detención de vehículos sobre el arroyo de circulación, en lugares de escasa visibilidad.
+
+e) Por circular en sentido contrario.
+
+f) Por negarse a prestar el servicio público sin causa justificada, así como abastecerse de combustible los vehículos de servicio público de transporte colectivo con pasajeros a bordo.
+
+g) Por circular los vehículos de servicio público de pasaje, sin puertas o con puertas abiertas.
+
+h) Por no respetar la preferencia de paso de los vehículos considerados como de emergencia.
+
+i) Por no respetar la preferencia de paso a otros vehículos en avenidas y vías rápidas o de mayor volumen.
+
+j) Por circular en las vías públicas a velocidades superiores a las autorizadas.
+
+k) Por no realizar la limpieza, tanto interior como exterior de vehículos de servicio público de pasaje.
+
+l) Por efectuar reparaciones que no sean de urgencia, así como lavados de vehículos en las vías públicas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE JULIO DE 2002)</small>
+
+###### ARTICULO 235.
+
+Se impondrá multa que habrá de determinarse en las Leyes de Ingresos de los Ayuntamientos, de conformidad con las bases establecidas en esta Ley:
+
+a) Por permitir el ascenso y descenso de pasaje en los vehículos de servicio público de transporte, en las vías públicas, sin tomar para ello precauciones de seguridad, así como realizarlas en las zonas o paradas no autorizadas.
+
+b) Por circular y estacionar en las aceras y zonas de seguridad.
+
+c) Por no reducir la velocidad en zonas escolares. Así como no dar preferencia de paso a los peatones en las áreas respectivas.
+
+d) Por no obedecer cuando lo indique un semáforo, otro señalamiento o indicación del Agente de Tránsito, los altos en los cruceros de ferrocarril.
+
+e) Por circular cualquier vehículo con el escape abierto, o produciendo por acondicionamiento, defecto, desperfecto o malas condiciones, humo excesivo o ruidos inmoderados, así como no tener colocado verticalmente los escapes los vehículos que consumen diesel. Además, deberá impedirse que continúe circulando y deberán remitirse al Departamento de Tránsito.
+
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 1995)</small>
+
+f) Por circular vehículos que excedan en los límites autorizados en el largo, ancho y alto de la unidad, así como transportar carga excediéndose en la altura permitida o que sobresalga la carga por la parte posterior y lateral, sin el señalamiento correspondiente.
+
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
+
+Tratándose de los vehículos de transporte de carga pesada que no cuenten con el permiso del departamento de tránsito para circular en las vías de jurisdicción de cualquier municipio, se sancionarán conforme a la multa que se determine en las Leyes de Ingresos de los Ayuntamientos.
+
+g) Por realizar sin causa justificada una frenada brusca, sin hacer la señal correspondiente, provocando con ello un accidente o connato de él.
+
+h) Por diseminar carga en la vía pública, no cubrirla con lona cuando sea susceptible de esparcirse, o se transporten objetos repugnantes a la vista o al olfato, así como arrojar basura en la vía pública, el conductor o permitir o no advertirlo a sus pasajeros.
+
+i) Por no conservar una distancia lateral de seguridad con otros vehículos o pasar tan cerca de las personas o vehículos que constituyen un riesgo.
+
+j) Por falta de herramientas, indicadores o llantas de repuesto en vehículos destinados al servicio sea de pasaje o carga tanto público como privado.
+
+k) Por circular los vehículos de servicio público de pasaje:
+
+1.- Sin el número económico en lugar visible y conforme a las dimensiones, color de la unidad e indicaciones que al efecto establezca la Dirección de Transporte del Estado.
+
+2.- Falta de identificación del tipo de servicio que se presta y cuando proceda el nombre de la ruta.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE JULIO DE 2002)</small>
+
+###### ARTICULO 236.
+
+Se impondrá multa que habrá de determinarse en las Leyes de Ingresos de los Ayuntamientos, de conformidad con las bases establecidas en esta Ley:
+
+a) Por no tomar el carril correspondiente para dar vuelta a la izquierda, o conservar el carril izquierdo entorpeciendo la circulación rápida de él, excepto para efectuar rebase.
+
+b) Cambiar intempestivamente de un carril a otro, cruzando la trayectoria de otro vehículo y provocando ya sea, un accidente, una frenada brusca o la desviación de otro vehículo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+c) No utilizar el cinturón de seguridad, transportar a menores de 6 años en los asientos delanteros sin cumplir con los requisitos de seguridad, contraviniendo lo dispuesto en el artículo 108 de esta Ley y transitar con cualquier clase de vehículos que no reúnan las condiciones mínimas de funcionamiento y los dispositivos de seguridad exigidos por esta Ley.
+
+d) No guardar la distancia conveniente con el vehículo de adelante.
+
+e) Salir intempestivamente y sin precaución del lugar de estacionamiento.
+
+f) Estacionarse en entrada de vehículos, lugares prohibidos o peligrosos, en sentido contrario o en doble fila; independientemente de que la autoridad proceda a movilizar el vehículo.
+
+g) Estacionar habitualmente por la noche los vehículos en la vía pública, siempre que perjudique o incomode ostensiblemente. Si una vez requerido el propietario o conductor del vehículo persiste, la autoridad procederá a movilizarlo.
+
+h) Entorpecer los desfiles, cortejos fúnebres y manifestaciones permitidas.
+
+i) Conducir vehículos, sin cumplir con las condiciones fijadas en las licencias.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+j) Conducir vehículos automotrices sin los limpiadores del parabrisas o estando inservibles o que el parabrisas esté deformado u obstruido, deliberada o accidentalmente, de tal manera que se reste visibilidad.
+
+k) Circular faltándole al vehículo una o varias de las luces reglamentarias o teniendo éstas deficiencias.
+
+l) Circular los vehículos con personas fuera de cabina.
+
+m) Circular con un vehículo que lleve parcialmente ocultas las placas.
+
+n) No disminuir la velocidad en intersecciones, puentes y lugares de gran afluencia de peatones.
+
+ñ) Dar vuelta a la izquierda, sin respetar el derecho de paso de los vehículos que circulen en sentido opuesto, efectuando esta maniobra sin tomar las precauciones debidas.
+
+o) Permitir el acceso de animales en vehículos de servicio público de transporte de pasaje colectivo, exceptuando los utilizados por los invidentes, así como objetos voluminosos y no manuables que obstruyan la visibilidad de los operadores.
+
+p) Por falta de protectores en las llantas traseras de camiones remolques y semirremolques que tengan por finalidad evitar que éstos arrojen pequeños objetos hacia atrás.
+
+q) Falta de aseo y cortesía de los operadores de los vehículos de servicio público de transporte de pasaje.
+
+r) Falta de aviso de baja de un vehículo que circule con placas de demostración.
+
+s) Falta de calcamonía (sic) de revisado y calcamonía (sic) de placas fuera de los calendarios para su obtención.
+
+t) Dar vuelta lateralmente o en "U" cuando esté prohibido mediante señalamiento expreso, o dar vuelta en "U" a mitad de cuadra.
+
+u) Falta de señalamiento de la razón social, nombre del propietario o de la institución en los vehículos destinados al servicio particular sea de persona o cosas.
+
+v) Circular careciendo de tarjeta de circulación o con una que no corresponda al vehículo o a sus características.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+w) Por dejar niños menores de 8 años de edad o animales, sin supervisión adulta al estacionarse.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE JULIO DE 2002)</small>
+
+###### ARTICULO 237.
+
+Se impondrá multa que habrá de determinarse en las Leyes de Ingresos de los Ayuntamientos, de conformidad con las bases establecidas en esta Ley:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+a) Viajar un mayor número de personas en las bicicletas que para el efecto fueran diseñadas; transitar en bicicleta entre los carriles de tránsito y entre hileras adyacentes; al existir ciclo vía, transitar una bicicleta en lugar distinto a ésta; o utilizar en la vía pública una bicicleta infantil.
+
+b) Circular en bicicletas o motocicletas en grupos de más de una fila, no guardando su extrema derecha o llevando carga sin la autorización respectiva o circular sobre las banquetas y zonas prohibidas o sin llenar las condiciones de seguridad exigidas para los conductores.
+
+c) Conducir vehículos que no tengan o no funcione el claxón, corneta, timbre o cualquier dispositivo similar.
+
+d) Manejar bicicletas, siendo menor de 14 años en las vías de tránsito intenso. La infracción se impondrá en este caso a los padres, tutores o quien ejerza la patria potestad, debiéndose impedir además la circulación por dichas vías.
+
+e) Falta de espejo retrovisor.
+
+f) Conducir vehículos careciendo de licencia, por olvido, sin justificación o careciendo ésta de los requisitos necesarios o que no corresponda a la clase de vehículo para la cual fue expedida.
+
+g) Falta de luces en el interior de vehículos de servicio público de transporte de pasaje colectivo.
+
+h) Uso de la luz roja en la parte delantera de los vehículos no autorizados para tal efecto.
+
+i) Conducir en zig-zag, con falta de precaución o rebasar por la derecha.
+
+j) Permitir el acceso en vehículos de servicio público de pasaje a individuos en estado de ebriedad o que por su falta de aseo o estado de salud perjudique o moleste al resto de los pasajeros.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+k).- Circular faltando la placa trasera o no colocar las placas en el lugar destinado al efecto, según el diseño del vehículo.
+
+l) Falta de timbre interior en vehículos de transporte público de pasaje colectivo.
+
+m) Circular a velocidad inferior a la obligatoria en los lugares en que así se encuentre indicado.
+
+n) Permitir el acceso a los vehículos de servicio público de transporte de servicio colectivo de vendedores de cualquier artículo o servicio o de limosneros, así como detener su circulación para que el conductor o los pasajeros sean abordados por estos.
+
+ñ) Dar vuelta a la izquierda o derecha sin hacer la señal correspondiente con la mano o con el indicador mecánico, así como indicar la maniobra y no realizarla.
+
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
+
+###### ARTICULO 238.
+
+Las sanciones a esta Ley en que incurran personas que no sean conductores de vehículos, se sancionarán conforme se determine en las Leyes de Ingresos de los Ayuntamientos, de conformidad con las bases establecidas en esta Ley:
+
+a).- Abanderamiento: por no abanderar los obstáculos o zanjas peligrosas a la circulación de vehículos y peatones, así como no colocar señales luminosas para indicar su existencia por la noche.
+
+b).- Animales: por trasladar o permitir el traslado de ganado por la vía pública sin permiso o cabalgar fuera de las calzadas o lugares autorizados para tal fin.
+
+c).- Vías públicas: utilizarlas para fines distintos a la circulación de vehículos y peatones, salvo casos de fuerza mayor o previa autorización del Departamento de Tránsito.
+
+d).- Basura: por arrojar basura en las vías públicas.
+
+e).- Carretillas: por usarlas para fines distintos al de simple auxilio en las maniobras de carga y descarga fuera de la zona autorizada en las obras de construcción.
+
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
+
+###### ARTICULO 239.
+
+Las Leyes de Ingresos de los Ayuntamientos procurarán englobar la totalidad de las conductas que ameriten sanción, de conformidad con las bases establecidas en la presente Ley.
 
 ## TRANSITORIOS
 
-###### ARTÍCULO PRIMERO.
+###### ARTICULO PRIMERO.
 
-La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
-###### ARTÍCULO SEGUNDO.
+###### ARTICULO SEGUNDO.
 
-Las disposiciones del Código Administrativo del Estado en materia educativa que no contravengan las de esta Ley o la General de Educación, continuarán vigentes, así como cualquier acuerdo o disposición de autoridad que haya generado derechos adquiridos de los trabajadores de la educación.
+Se derogan las disposiciones que en materia de tránsito contiene la Ley Número 76 de Tránsito y Transporte del Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado con fecha 8 de Marzo de 1982; así como las normas reglamentarias emanadas de las disposiciones que en materia de tránsito se derogan.
 
-###### ARTÍCULO TERCERO.
+###### ARTICULO TERCERO.
 
-El Ejecutivo del Estado de Chihuahua, está obligado a respetar íntegramente los derechos de los trabajadores de la educación, y reconocer la titularidad de las relaciones laborales colectivas al Sindicato Nacional de Trabajadores de la Educación en los términos de su registro vigente y de acuerdo con las disposiciones legales correspondientes al expedirse esta Ley.
+Se derogan todas las demás disposiciones que se opongan a la presente Ley.
+
+Comuníquese al Ejecutivo para su sanción y promulgación.
+
+SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.
+
+Hermosillo, Sonora, 7 de febrero de 1984.
+
+"1984 AÑO DE JESÚS GARCIA, HEROE DE NACOZARI"
+
+SERGIO LOPEZ LUNA,
+
+DIPUTADO PRESIDENTE.
+
+CARLOS APODACA VALENZUELA,
+
+DIPUTADO SECRETARIO.
+
+ALICIA B. DE GONZALEZ,
+
+DIPUTADO SECRETARIO.
+
+POR TANTO, mando se publique en el Boletín Oficial del Estado y se le dé el debido cumplimiento.
+
+PALACIO DE GOBIERNO, Hermosillo, Sonora, a catorce de febrero de mil novecientos ochenta y cuatro.
+
+Dr. Samuel Ocaña García.
+
+EL SECRETARIO DE GOBIERNO,
+
+Lic. Carlos Gámez Fimbres.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 26 DE DICIEMBRE DE 1986.
+
+UNICO.- La presente Ley entrará en vigor, previa su publicación en el Boletín Oficial del Gobierno del Estado, el día 1º de enero de 1987.
+
+B.O. 3 DE SEPTIEMBRE DE 1987.
 
 ###### ARTÍCULO CUARTO.
 
-Se derogan todas las disposiciones que se opongan a la presente Ley.
+Para efectos de la reforma al artículo 42 de la Ley de Tránsito para el Estado de Sonora, los propietarios de los vehículos deberán reponer las placas de circulación en el año 2014 sin costo.
 
-DADO en el salón de sesiones del Palacio del Poder Legislativo en la Ciudad de Chihuahua, Chih., a los veintidós días del mes de diciembre de Mil Novecientos Noventa y Siete.
-
-DIPUTADO PRESIDENTE
-
-MIGUEL ETZEL MALDONADO
-
-DIPUTADO SECRETARIO
-
-DAGOBERTO GONZÁLEZ URANGA
-
-DIPUTADO SECRETARIO
-
-YOLANDA BAEZA MARTÍNEZ
-
-Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
-
-En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veinticuatro días del mes de diciembre de mil novecientos noventa y siete.
-
-C.P. FRANCISCO JAVIER BARRIO TERRAZAS.
-
-EL SECRETARIO DE GOBIERNO
-
-LIC. FRANCISCO HUGO GUTIERREZ DAVILA.
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
-
-P.O. 31 DE MAYO DE 2000.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-El Poder Ejecutivo del Estado, deberá expedir el reglamento correspondiente en un término de noventa días contados apartir (sic) del siguiente día en que se publique en el Periódico Oficial del Estado.
-
-P.O. 6 DE MARZO DE 2002.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 22 DE MAYO DE 2002.
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 21 DE DICIEMBRE DE 2002.
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 5 DE NOVIEMBRE DE 2003.
-
-DECRETO No. 448-02 I P.O.
+B.O. 3 DE NOVIEMBRE DE 2014.
 
 ###### ARTICULO PRIMERO.
 
-El presente Decreto entrará en vigor el día primero de enero del año dos mil tres, previa publicación en el Periódico Oficial del Estado.
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 ###### ARTICULO SEGUNDO.
 
-Se derogan todas las disposiciones que se opongan al presente decreto.
+Se derogan todas las disposiciones que se opongan a la presente Ley.
 
-P.O. 5 DE NOVIEMBRE DE 2003.
-
-DECRETO No. 847-03 I P.O.
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 18 DE FEBRERO DE 2004.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 24 DE ABRIL DE 2004.
+B.O. 7 DE MAYO DE 1992.
 
 ###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
-P.O. 5 DE JUNIO DE 2004.
+B.O. 30 DE DICIEMBRE DE 1994.
 
-###### ARTÍCULO ÚNICO.
+PRIMERO.- La presente Ley entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO.- Las personas físicas o morales que con anterioridad a la entrada en vigor de la presente Ley, estén prestando servicios privados de seguridad, o que actualmente realicen actividades conceptualizadas como tales en este ordenamiento, deberán dentro de un plazo de tres meses contados a partir de la vigencia de esta Ley, comparecer ante la Coordinación Estatal de Seguridad Pública y Tránsito a efecto de que se les otorgue la autorización y el registro correspondiente, previa comprobación del cumplimiento de los requisitos que se establecen, en el entendido de que de no comparecer dentro del plazo señalado, la Secretaría de Gobierno podrá imponer la sanción de multa, cuyo monto será de hasta cinco mil veces el salario mínimo general vigente en la cabecera del Municipio de que se trate.
 
-P.O. 18 DE SEPTIEMBRE DE 2004.
+B.O. 6 DE JULIO DE 1995.
 
-PRIMERO.- Por lo que toca a la reforma constitucional, conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa y de los debates del Congreso a los Ayuntamientos de los sesenta y siete municipios que integran la Entidad y en su oportunidad, hágase por el Congreso del Estado, el computo de votos de los ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitucional Local realizado que sea, publíquese en el Periódico Oficial del Estado.
+###### ARTICULO PRIMERO.
 
-SEGUNDO.- La educación preescolar será obligatoria para todos en los siguientes plazos: en el tercer año de preescolar a partir del ciclo 2004-2005; el segundo año ciclo 2008-2009.
-
-En los plazos señalados, el Estado mexicano habrá de universalizar en todo el país, con calidad, la oferta de este servicio educativo.
-
-TERCERO.- Una vez aprobado (sic) la reforma constitucional, en su caso, remítase al Ejecutivo Estatal el presente Decreto para su promulgación y publicación en el Periódico Oficial.
-
-P.O. 29 DE SEPTIEMBRE DE 2004.
-
-###### ARTÍCULO PRIMERO.
-
-El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 ###### ARTICULO SEGUNDO.
 
-La educación preescolar será obligatoria para todos en los siguientes plazos: en el tercer año de preescolar a partir del ciclo 2004-2005; el segundo año de preescolar, a partir del ciclo 2005-2006; el primer año de preescolar, a partir del ciclo 2008-2009.
+Se derogan todas aquellas disposiciones que se opongan a la aplicación de la presente Ley.
 
-P.O. 25 DE ABRIL DE 2007.
+B.O. 30 DE DICIEMBRE DE 1996.
 
-###### ARTÍCULO PRIMERO.
+###### ARTICULO UNICO.
 
-La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín oficial del Gobierno del Estado de Sonora.
 
-###### ARTÍCULO SEGUNDO.
+B.O. 8 DE JULIO DE 2002.
 
-Se reforma y adiciona la Ley Estatal de Educación para el Estado de Chihuahua publicada en el Periódico Oficial del Estado No. 104, de fecha veintisiete de diciembre de mil novecientos noventa y siete.
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 17 DE DICIEMBRE DE 2007.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los actuales Jefes y Oficiales Superiores de las Policías de Tránsito Municipales, seguirán en funciones hasta en tanto los ayuntamientos actuales ejerzan las atribuciones que les otorga esta Ley.
+
+B.O. 8 DE MAYO DE 2000.
+
+###### ARTICULO PRIMERO.
+
+Las disposiciones de la presente Ley entrarán en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las sanciones previstas por los artículos 231 al 237 y el 239 de la Ley de Tránsito para el Estado de Sonora vigentes hasta la entrada en vigor de la presente reforma, continuarán aplicándose hasta que las mismas sean incorporadas en las leyes de Ingresos de los Ayuntamientos.
+
+B.O. 12 DE NOVIEMBRE DE 2007.
 
 ###### ARTÍCULO TERCERO.
 
-Las disposiciones del Código Administrativo del Estado y del Reglamento de las Condiciones Generales de Trabajo de los Servicios Educativos del Estado de Chihuahua, en materia educativa, que no contravengan las de esta Ley o la General de Educación, continuarán vigentes, así como cualquier acuerdo o disposición de autoridad que haya generado derechos adquiridos de los trabajadores de la educación.
+Para efectos del artículo 312, numeral 1, inciso b de la Ley de Hacienda del Estado de Sonora, en el ejercicio fiscal del año 2014, el pago de derechos por concepto de revalidación vehicular incluirá la reposición de placas sin costo, previa entrega de las anteriores. Lo anterior, a efecto de dar cumplimiento a las disposiciones que en materia de seguridad se establecen en la Norma Oficial Mexicana NOM-001-CT-2-2000.
 
 ###### ARTÍCULO CUARTO.
 
@@ -2549,33 +3415,27 @@ DECRETO No. 629/09, POR EL QUE SE REFORMAN LOS ARTÍCULOS 3, 41, 51 Y 116 DE LA 
 
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor el 1° de enero del 2014 previa publicación del mismo en el Boletín Oficial del Gobierno del Estado de Sonora.
 
-P.O. 13 DE ENERO DE 2010.
+B.O. 19 DE DICIEMBRE DE 2013.
 
-DECRETO No. 630/09, POR EL QUE SE REFORMAN LOS ARTÍCULOS 8 Y 22 DE LA LEY ESTATAL DE EDUCACIÓN.
+###### ARTICULO ÚNICO.
 
-###### ARTÍCULO ÚNICO.
+El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 27 DE ENERO DE 2010.
+B.O. 11 DE DICIEMBRE DE 2014.
 
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
-P.O. 24 DE FEBRERO DE 2010.
-
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 17 DE JULIO DE 2010.
+B.O. 21 DE DICIEMBRE DE 2017.
 
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
-P.O. 14 DE AGOSTO DE 2010.
+B.O. 27 DE DICIEMBRE DE 2019.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -2585,13 +3445,15 @@ P.O. 13 DE NOVIEMBRE DE 2010.
 
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+Los artículos primero y segundo del presente Decreto entrarán en vigor a partir del 10 de enero de 2008, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+El artículo tercero del presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
-El Ejecutivo del Estado deberá realizar las previsiones presupuestales correspondientes a fin de que en el proyecto de Presupuesto de Egresos de Gobierno del Estado, para el ejercicio fiscal 2011, se dé suficiencia necesaria al Sistema de Becas, Créditos y Estímulos Educativos.
+El próximo canje de placas para vehículos de propulsión mecánica deberá efectuarse en el ejercicio fiscal de 2008 y así sucesivamente en los trienios posteriores.
 
-P.O. 2 DE JULIO DE 2011.
+B.O. 21 DE NOVIEMBRE DE 2013.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -2601,13 +3463,11 @@ P.O. 24 DE SEPTIEMBRE DE 2011.
 
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor, en todo el Estado de Sonora, a partir del 1 de enero de 2014, previa su publicación en el Boletín Oficial del Gobierno del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
-Para dar pleno cumplimiento a la reforma, la Secretaría de Educación, Cultura y Deporte, reforzará aquellos programas enfocados a prevenir, detectar y atender los casos de violencia y abuso entre escolares que se presenten en las instituciones educativas del Estado.
-
-P.O. 29 DE OCTUBRE DE 2011.
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -2650,3 +3510,61 @@ P.O. 21 DE ABRIL DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+###### ARTICULO SEGUNDO.
+
+Las instituciones públicas tendrán un plazo de 90 días para realizar las adecuaciones necesarias para contar con estacionamiento para bicicletas.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 1 de enero de 2016, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTICULO TERCERO.
+
+El Ejecutivo del Estado y los Ayuntamientos dispondrán de lo necesario para la difusión, promoción y ejecución de las medidas derivadas del ordenamiento objeto de esta reforma, de manera tal que coadyuven a (sic) eficaz aplicación y conclusión de las mismas.
+
+B.O. 14 DE DICIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 1 de enero de 2018, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+B.O. 26 DE DICIEMBRE DE 2017.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 01 de enero de 2020, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Cuando se señale en el Código Fiscal del Estado, Ley de Hacienda del Estado, Ley de Tránsito del Estado y Ley que regula la operación y funcionamiento de los establecimientos destinados a la fabricación, envasamiento, distribución, almacenamiento, transportación, venta y consumo de bebidas con contenido alcohólico en el Estado de Sonora, la mención de salarios mínimos diario general vigente en el área geográfica "b", deberá entenderse como salarios mínimos diario general vigente en el área geográfica única, en virtud de la reforma al salario mínimo efectuada mediante Resolución del H. Consejo de Representantes de la Comisión Nacional de los Salarios Mínimos que revisa los salarios mínimos generales y profesionales vigentes desde el 1 de abril de 2015, publicada en el Diario Oficial de la Federación con fecha 30 de septiembre de 2015, con vigencia a partir del 1 de octubre de 2015.
+
+B.O. 3 DE AGOSTO DE 2017.
+
+###### ARTÍCULO TERCERO.
+
+Para que la Secretaría de Hacienda del Estado de Sonora, esté en posibilidades de dar cabal cumplimiento a lo dispuesto en los artículos 17, párrafo segundo de la Ley de Tránsito del Estado de Sonora y 316, párrafos tercero, cuarto y quinto de la Ley de Hacienda del Estado, deberá realizar el proceso de contratación sujetándose a lo previsto en el artículo 25 de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles de la Administración Pública Estatal. Debiendo cubrir el pago de la póliza de seguro de responsabilidad civil en el mes de enero del 2020, para que los ciudadanos obtengan el beneficio planteado en los artículos señalados de las leyes de Tránsito del Estado de Sonora y de Hacienda del Estado, a partir del primer minuto del primer día de dicho año.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 148 “QUE REFORMA DIVERSAS DISPOSICIONES DE LEY ANTICORRUPCIÓN EN CONTRATACIONES PÚBLICAS PARA EL ESTADO DE SONORA, LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA, LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SONORA, LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA, LEY DE AGUA DEL ESTADO DE SONORA, LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, LEY DE GANADERÍA PARA EL ESTADO DE SONORA, CÓDIGO FISCAL DEL ESTADO DE SONORA, LEY DE FOMENTO AL EMPLEO PARA EL ESTADO DE SONORA, LEY "5 DE JUNIO" QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE SONORA, LEY DE ALIANZAS PÚBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA, LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, LEY DE PESCA Y ACUICULTURA PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE SONORA, LEY DE PROFESIONES DEL ESTADO DE SONORA, LEY DE PROTECCIÓN DE ANIMALES PARA EL ESTADO DE SONORA, LEY DE PROTECCIÓN CIUDADANA CONTRA LOS EFECTOS NOCIVOS DEL TABACO, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA, LEY DE RECONOCIMIENTOS AL MÉRITO CÍVICO, LEY DE REGULACIÓN Y FOMENTO DE TIEMPO COMPARTIDO PARA EL ESTADO DE SONORA, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICO (SIC) DEL ESTADO Y DE LOS MUNICIPIOS, LEY DE SALUD PARA EL ESTADO DE SONORA, LEY DE TRANSPORTE PARA EL ESTADO DE SONORA, LEY DE TRÁNSITO DEL ESTADO DE SONORA, LEY DE VIVIENDA PARA EL ESTADO, LEY DEL NOTARIADO PARA EL ESTADO DE SONORA, LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL ESTADO DE SONORA, LEY QUE CREA EL REGISTRO DE AGENTES INMOBILIARIOS, LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, LEY QUE DETERMINA LAS BASES DE OPERACIÓN DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA, LEY QUE ESTABLECE EL ARANCEL PARA LOS NOTARIOS, LEY QUE ESTABLECE EL SISTEMA DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE SONORA, LEY QUE REGULA LA ADMINISTRACIÓN DE DOCUMENTOS ADMINISTRATIVOS E HISTÓRICOS, LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, LEY DE INTEGRACIÓN SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA, LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA, LEY DE LOS DERECHOS DE LOS CONTRIBUYENTES DEL ESTADO DE SONORA, LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA, LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA, LEY DE HACIENDA DEL ESTADO, LEY DE HACIENDA MUNICIPAL, CÓDIGO PENAL DEL ESTADO DE SONORA, CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA, CÓDIGO CIVIL PARA EL ESTADO DE SONORA, LEY DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE SEGURIDAD DEL ESTADO DE SONORA, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE SONORA, LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SONORA, LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN, TRATAMIENTO, REHABILITACIÓN Y CONTROL DE ADICCIONES DEL ESTADO DE SONORA, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA; LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL PARA EL ESTADO DE SONORA, LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LA TORTURA EN EL ESTADO DE SONORA, LEY QUE REGULA EL FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DONDE OPEREN MÁQUINAS ELECTRÓNICAS DE JUEGO CON SORTEO DE NÚMEROS Y APUESTA, LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACIÓN DE LOS ESTABLECIMIENTOS COMERCIALES QUE PRESTAN AL PUBLICO EL SERVICIO DE ACCESO A INTERNET EN FORMA ONEROSA EN EL ESTADO DE SONORA Y LEY QUE REGULA LA PRÁCTICA PROFESIONAL DEL BOX, LUCHA LIBRE Y ARTES MARCIALES MIXTAS EN EL ESTADO DE SONORA”.]
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 189, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES FISCALES”.]
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 187, QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE TRÁNSITO DEL ESTADO DE SONORA”.]
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 91, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL, DE LA LEY DE HACIENDA DEL ESTADO, DE LA LEY DE TRÁNSITO DEL ESTADO DE SONORA, DE LA LEY DE BIENES Y CONCESIONES, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA, DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE SONORA, DE LA LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, DE LA LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA, DE LA LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE SONORA Y DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SONORA".]
