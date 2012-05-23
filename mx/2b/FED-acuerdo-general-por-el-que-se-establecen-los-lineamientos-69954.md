@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-por-el-que-se-establecen-los-lineamientos-69954
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-09-08"
-last_updated: "2009-09-08"
+last_updated: "2012-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69954&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2009-09-01"
 ---
 # ACUERDO GENERAL POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CARRERA JUDICIAL DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION
 
-ACUERDO GENERAL POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CARRERA JUDICIAL DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION
+ACUERDO GENERAL POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CARRERA JUDICIAL DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MAYO DE 2012.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 8 de septiembre de 2009.
 
@@ -205,6 +205,12 @@ De la capacitación del personal de carrera
 
 36. Los cursos serán coordinados por el Centro de Capacitación, de conformidad con las disposiciones que le confiere el Reglamento Interno del Tribunal Electoral, el Manual de Organización del Centro de Capacitación y el Programa Académico que aprueben la Comisión de Administración y el Comité Académico y Editorial.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL ACUERDO QUE MODIFICA LOS LINEAMIENTOS.</small>
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2012)</small>
+
+Entre los cursos deberán incluirse los relacionados con la igualdad de género, que ha emitido como precedentes el Tribunal Electoral del Poder Judicial de la Federación, otros tribunales nacionales e internacionales, así como aquellos relacionados con los derechos políticos de los integrantes de minorías.
+
 37. Las personas que acrediten dichos cursos de manera destacada, también estarán acreditadas para impartirlos, lo que también se tomará en consideración para efectos de la evaluación del desempeño del personal de carrera.
 
 38. El Centro de Capacitación llevará un registro actualizado de los cursos tomados o impartidos por el personal de carrera. Los resultados de los cursos tomados deberán agregarse a los expedientes personales de los interesados.
@@ -310,3 +316,9 @@ Tercero. Los profesionistas habilitados conforme a los procesos de evaluación p
 Cuarto. Publíquese el presente Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión, en las páginas de internet y de intranet del Tribunal Electoral.
 
 EL SUSCRITO MAESTRO DIEGO GUTIERREZ MORALES, SECRETARIO DE LA COMISION DE ADMINISTRACION DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION, PREVIA AUTORIZACION DE LA PRESIDENTA DE LA COMISION DE ADMINISTRACION, CON FUNDAMENTO EN LO DISPUESTO EN EL ARTICULO 33, FRACCION VIII, DEL REGLAMENTO INTERNO DEL CITADO ORGANO JURISDICCIONAL.- CERTIFICA: Que el presente documento en 13 fojas útiles, incluyendo la presente, corresponden al Acuerdo General por el que se establecen los lineamientos generales para la carrera judicial del Tribunal Electoral del Poder Judicial de la Federación, aprobado por la Comisión de Administración del Tribunal Electoral, mediante acuerdo 269/S8(19-VIII-2009), emitido en la Octava Sesión Ordinaria de 2009, que obra en los archivos del Centro de Capacitación Judicial Electoral.- Doy Fe.- México, Distrito Federal, a 1 de septiembre de 2009.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 23 DE MAYO DE 2012.
+
+Artículo Unico. La modificación al numeral 36 del Acuerdo general por el que se establecen los lineamientos generales para la carrera judicial en el Tribunal Electoral del Poder Judicial de la Federación entrará en vigor a partir del 30 de septiembre de 2012, una vez que haya concluido el Proceso Electoral Federal.
