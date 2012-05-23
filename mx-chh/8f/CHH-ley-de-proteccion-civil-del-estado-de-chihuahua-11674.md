@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-proteccion-civil-del-estado-de-chihuahua-11674"
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-19"
-last_updated: "2010-10-02"
+last_updated: "2012-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2012.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 19 de junio de 1996.
 
@@ -787,13 +787,11 @@ e) Los demás que determinen la presente Ley, las autoridades competentes y otra
 
 Para la construcción de inmuebles destinados para uso público deberán solicitar a la Coordinación Estatal de Protección Civil, en coordinación con la Unidad Municipal de Protección Civil, la supervisión del riesgo en el inmueble.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2012)</small>
 
 ###### Artículo 38.
 
-El Sistema Educativo Estatal instrumentará, en todas las escuelas del Estado, el Programa de Seguridad y Emergencia Escolar que coordinará la Secretaría de Educación y Cultura, auxiliándose para tal efecto de la Coordinación Estatal de Protección Civil.
+El Sistema Educativo Estatal instrumentará, en todas las escuelas del Estado, un programa relativo a la seguridad y las emergencias escolares, por conducto de la Secretaría de Educación, Cultura y Deporte, auxiliándose para tal efecto de la Coordinación Estatal de Protección Civil.
 
 ###### Artículo 39.
 
@@ -1202,3 +1200,9 @@ P.O. 2 DE OCTUBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE MAYO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
