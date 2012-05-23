@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-el-congreso-del-estado-de-morelos-56679"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-25"
-last_updated: "2011-01-12"
+last_updated: "2012-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 25 de julio de 2007
 
@@ -483,7 +483,7 @@ Al término de la legislatura los coordinadores de los grupos parlamentarios ser
 
 La ocupación de los espacios de las curules en el Salón de Sesiones se hará preferentemente, de acuerdo al orden decreciente de cada grupo, del número de grupos parlamentarios conformados y las características del Salón de Sesiones, conforme lo acuerden los coordinadores de los grupos parlamentarios.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2011)</small>
 
 ### CAPÍTULO SEXTO. DEL ARCHIVO GENERAL
 
@@ -1389,7 +1389,7 @@ Surtirán los mismos efectos los decretos y acuerdos para el gobierno o administ
 
 A manera de informe, el Presidente de la Mesa Directiva del Congreso, ordenará se publique en el Periódico Oficial “Tierra y Libertad”, Órgano Oficial de Difusión del Gobierno del Estado, una lista de todas las Leyes y Decretos, así como sus reformas, adiciones, derogaciones, abrogaciones y fe de erratas, que hayan sido aprobadas por el mismo, al término de cada período legislativo, debiendo publicar al final del tercer año de ejercicio constitucional la lista global de las mismas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2009)</small>
 
 ###### ARTÍCULO 147.
 
@@ -1675,7 +1675,7 @@ VI. Promover todas aquellas acciones necesarias para desarrollar la imagen insti
 
 La página de internet aludida en la fracción IV que antecede, no debe contener propaganda, publicidad o información comercial ni de proselitismo político.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE AGOSTO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE AGOSTO DE 2009)</small>
 
 ### CAPÍTULO SÉPTIMO. DE LA DIRECCIÓN JURÍDICA
 
@@ -1769,11 +1769,9 @@ V. Coordinarse con el secretario técnico respectivo para cumplir con los trabaj
 
 VI. Participar en las reuniones de trabajo de comisiones o comités, haciendo uso de la palabra.
 
-CAPÍTULO TECERO (SIC)
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MAYO DE 2012)</small>
 
-DE LOS EX DIPUTADOS
-
-### CAPÍTULO UNICO
+### CAPÍTULO TERCERO. DE LOS DIPUTADOS DE ANTERIORES LEGISLATURAS
 
 ###### ARTÍCULO 177.
 
@@ -1791,7 +1789,7 @@ El Congreso a través de la Secretaría del Congreso, llevará un libro de regis
 
 ## TÍTULO DÉCIMO PRIMERO. DEL PÚBLICO ASISTENTE A LAS SESIONES
 
-### CAPÍTULO ÚNICO. DE SU ELABORACIÓN
+### CAPÍTULO UNICO
 
 ###### ARTÍCULO 180
 
@@ -1815,7 +1813,7 @@ Lo mismo se hará cuando las medidas adoptadas no sean suficientes para restable
 
 ## TÍTULO DÉCIMO SEGUNDO. DEL PRESUPUESTO
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO ÚNICO. DE SU ELABORACIÓN
 
 ###### ARTÍCULO 184.
 
@@ -1842,6 +1840,8 @@ La documentación que sirve como base de la comprobación de los egresos, será 
 Los servidores públicos que intervengan en el ejercicio presupuestal, serán responsables de cualquier daño o perjuicio estimable en dinero que sufra la hacienda pública de la legislatura, en los términos de la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
 ## TÍTULO DÉCIMO TERCERO. DE LAS SOLICITUDES
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 189.
 
@@ -1921,7 +1921,7 @@ LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 26 DE SEPTIEMBRE DE 2007.
 
@@ -2006,3 +2006,11 @@ Primero.- Aprobado que sea el presente decreto, túrnese al Ejecutivo para su pu
 Segundo.- Aprobado que sea el presente, remítase a la Secretaría General del Congreso del Estado para su publicación en la Gaceta Legislativa.
 
 Tercero.- El presente decreto entrará en vigor el mismo día de su aprobación por el Pleno del Congreso del Estado de Morelos.
+
+P.O. 23 DE MAYO DE 2012.
+
+Primero.- Aprobado que sea el presente Decreto, túrnese al Titular del Poder Ejecutivo para su publicación con un estricto propósito de divulgación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+Segundo.- El presente Decreto entrará en vigor el mismo día de su aprobación por el Pleno del Congreso del Estado de Morelos.
+
+Tercero.- En la aprobación del Presupuesto de Egresos para el Gobierno del Estado de Morelos del próximo Ejercicio Fiscal 2013, se preverá en el rubro que le corresponda al Poder Legislativo, el techo presupuestal para hacer frente a la fracción XI del artículo 18 de su Ley Orgánica.
