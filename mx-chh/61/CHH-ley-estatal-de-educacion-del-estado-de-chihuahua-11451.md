@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2012-04-21"
+last_updated: "2012-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2012.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -963,6 +963,10 @@ La educación física y la educación artística contribuirán fundamentalmente 
 
 En los demás tipos y niveles, serán promovidas a través de la aplicación de los programas y guías metodológicas oficiales, y con carácter extracurricular, bajo la titularidad de profesionales en la materia.
 
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2012)</small>
+
+La promoción de la práctica de estilos de vida saludables en los educandos, será uno de los objetivos prioritarios de la educación física.
+
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
 ###### ARTÍCULO 58.
@@ -1483,9 +1487,17 @@ XVII. Otorgar reconocimientos y apoyar a las instituciones y asociaciones civile
 
 XVIII. Consolidar programas compensatorios, asistenciales, de ayuda alimenticia y de educación para la salud, para mejorar las condiciones sociales y alcanzar la equidad de la población escolar en situaciones de marginación o exclusión, entendida ésta como una efectiva equiparación de oportunidades de acceso, permanencia y logro en el sistema educativo estatal;
 
-XIX. Conceder estímulos y reconocimientos a quienes contribuyan al logro de los propósitos mencionados en este capítulo; y
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2012)</small>
 
-XX. Realizar las demás actividades que permitan ampliar la calidad y la cobertura de los servicios educativos.
+XIX. Conceder estímulos y reconocimientos a quienes contribuyan al logro de los propósitos mencionados en este capítulo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE MAYO DE 2012)</small>
+
+XX. Promover, destinar y aplicar recursos presupuestales suficientes para el mejoramiento de las condiciones físicas y materiales de los planteles educativos, poniendo especial interés en aquellas instituciones que, de acuerdo al diagnóstico realizado por las instancias competentes, requieran la intervención institucional para resolver las necesidades más apremiantes de mantenimiento, rehabilitación, refuerzo, reconstrucción, reconversión y habilitación de inmuebles e instalaciones destinados al servicio de la educación pública del Estado, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XX], P.O. 23 DE MAYO DE 2012)</small>
+
+XXI. Realizar las demás actividades que permitan ampliar la calidad y la cobertura de los servicios educativos.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -2646,6 +2658,22 @@ DECRETO No. 531/2011 QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 136 Y LA FRACC
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 21 DE ABRIL DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE MAYO DE 2012.
+
+DECRETO No. 442/2011 IV P.E., POR EL QUE SE REFORMAN LAS FRACCIONES XIX Y XX, Y SE ADICIONA LA FRACCIÓN XXI DEL ARTÍCULO 116, RECORRIENDO EL CONTENIDO DE LA FRACCIÓN XX A LA XXI, DE LA LEY ESTATAL DE EDUCACIÓN.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE MAYO DE 2012.
+
+DECRETO No. 766/2012 II P.O., POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 57 DE LA LEY ESTATAL DE EDUCACIÓN.
 
 ###### ARTÍCULO ÚNICO.
 
