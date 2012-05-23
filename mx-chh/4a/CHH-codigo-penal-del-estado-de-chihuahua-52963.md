@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2012-02-22"
+last_updated: "2012-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2012.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -3847,6 +3847,22 @@ II. Si excediera de cuatro metros cúbicos, o su equivalente en producto transfo
 
 Las penas a que se hace referencia en los artículos 358 y 359 de este Código, se incrementarán hasta en tres años más de prisión y multa de hasta mil días de salario mínimo, cuando los recursos forestales maderables o no maderables provengan de un área natural protegida o una reserva ecológica.
 
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2012)</small>
+
+###### Artículo 360 Bis.
+
+A quien provoque dolosamente un incendio en un terreno forestal que cause un daño ambiental, de acuerdo a lo previsto en la ley de la materia, se impondrá una pena de dos a seis años de prisión y una multa de trescientos a tres mil días de salario mínimo.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2012)</small>
+
+###### Artículo 360 Ter.
+
+La pena prevista en el artículo anterior se aumentará hasta diez años de prisión y tres mil veces el salario mínimo, en los siguientes casos:
+
+I.- Quien cometa el delito sea funcionario o servidor público cuya obligación sea proteger el medio ambiente y que teniendo conocimiento de este ilícito, omita realizar las funciones propias de su encargo para prevenir, solucionar y sancionar al o los responsables, o
+
+II.- Se trate de un área natural protegida del Estado.
+
 > <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE OCTUBRE DE 2011)</small>
 
 ## TÍTULO VIGÉSIMO SÉPTIMO. DELITOS CONTRA EL DESARROLLO ZOOSANITARIO
@@ -4168,3 +4184,9 @@ P.O. 22 DE FEBRERO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Estado.
+
+P.O. 23 DE MAYO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
