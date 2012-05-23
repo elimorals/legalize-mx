@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-evaluacion-del-aprendizaje-de-la-universidad-7602
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-08-02"
-last_updated: "2010-08-02"
+last_updated: "2012-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "MEX"
 ---
 # REGLAMENTO DE EVALUACION DEL APRENDIZAJE DE LA UNIVERSIDAD TECNOLOGICA DEL SUR DEL ESTADO DE MEXICO
 
-REGLAMENTO DE EVALUACION DEL APRENDIZAJE DE LA UNIVERSIDAD TECNOLOGICA DEL SUR DEL ESTADO DE MEXICO
+REGLAMENTO DE EVALUACIÓN DEL APRENDIZAJE DE LA UNIVERSIDAD TECNOLÓGICA DEL SUR DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE EVALUACIÓN DEL APRENDIZAJE DE LA UNIVERSIDAD TECNOLÓGICA DEL SUR DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. 23 DE MAYO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 2 de agosto de 2010.
 
@@ -245,3 +247,13 @@ ING. JESÚS G. ARROYO GARCÍA
 RECTOR
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 23 DE MAYO DE 2012.
+
+PRIMERO. Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Reglamento entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+TERCERO. Se abroga el Reglamento de Evaluación del Aprendizaje, aprobado en sesión ordinaria de fecha 26 de noviembre de 2008 y reformas aprobadas en sesión ordinaria de fecha 24 de marzo de 2010, del H. Consejo Directivo de la Universidad Tecnológica del Sur del Estado de México, publicado en el periódico Oficial Gaceta del Gobierno de fecha 2 de agosto de 2010.
