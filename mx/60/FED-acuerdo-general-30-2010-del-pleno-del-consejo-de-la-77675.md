@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-30-2010-del-pleno-del-consejo-de-la-77675"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2010-12-15"
-last_updated: "2010-12-15"
+last_updated: "2012-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77675&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2010-12-03"
 ---
 # ACUERDO GENERAL 30/2010, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL PROCEDIMIENTO Y LINEAMIENTOS GENERALES PARA ACCEDER AL CARGO DE JUEZ DE DISTRITO, MEDIANTE CONCURSOS INTERNOS DE OPOSICION
 
-ACUERDO GENERAL 30/2010, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL PROCEDIMIENTO Y LINEAMIENTOS GENERALES PARA ACCEDER AL CARGO DE JUEZ DE DISTRITO, MEDIANTE CONCURSOS INTERNOS DE OPOSICION
+ACUERDO GENERAL 30/2010, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL PROCEDIMIENTO Y LINEAMIENTOS GENERALES PARA ACCEDER AL CARGO DE JUEZ DE DISTRITO, MEDIANTE CONCURSOS INTERNOS DE OPOSICIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MAYO DE 2012.
 
 Acuerdo publicado en la Cuarta Sección del Diario Oficial de la Federación, el miércoles 15 de diciembre de 2010.
 
@@ -125,9 +125,11 @@ XVI. “Secretaría Ejecutiva”: Secretaría Ejecutiva de Carrera Judicial, Ads
 
 XVII. “Tribunal Electoral”: Tribunal Electoral del Poder Judicial de la Federación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
+
 ###### Artículo 2.
 
-El perfil del juez se conforma por una serie de virtudes judiciales y rasgos particulares que lo caracterizan, los cuales se mencionan a continuación:
+El perfil del juez se conforma por una serie de principios y rasgos particulares que lo caracterizan, los cuales se mencionan a continuación:
 
 I. Objetividad: Aplicar e interpretar la ley al resolver los conflictos que se presenten y analizar la comprobación de los hechos contrastados por las partes, para despejar cualquier subjetividad que pueda entorpecer la función del juzgador en agravio de la impartición de justicia; que comprende las actitudes y habilidades: escuchar con atención y apertura a sus compañeros, buscar la aplicación exacta de la norma jurídica y evitar el reconocimiento de la decisión o actuación que realice en ejercicio de sus funciones;
 
@@ -147,9 +149,17 @@ Los requisitos que para ser juez de Distrito deben reunirse al momento de la ins
 
 I. Los que establecen los artículos 108 y 113, párrafo segundo, de la Ley;
 
-II. Antigüedad de cuando menos cinco años en la carrera judicial, en una o más de las categorías señaladas en las fracciones III a IX del artículo 110 de la Ley; conocimientos en materia jurídica para aplicar e interpretar la ley, con objetividad, profesionalismo e imparcialidad; y
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
 
-III. Experiencia y preparación en la función jurisdiccional.
+II. Antigüedad de cuando menos cinco años en la carrera judicial, en una o más de las categorías señaladas en las fracciones III a IX del artículo 110 de la Ley;
+
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
+
+III. Conocimientos en materia jurídica para aplicar e interpretar la ley, con objetividad, profesionalismo e imparcialidad; y
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
+
+IV. Experiencia y preparación en la función jurisdiccional.
 
 ###### Artículo 4.
 
@@ -163,31 +173,47 @@ La Especialidad en Administración de Justicia en Juzgados de Distrito, previa a
 
 Quienes aprueben ese curso y se inscriban a un concurso interno de oposición, deberán presentar la constancia que demuestre su participación y acreditación en la citada especialidad.
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
+
 ###### Artículo 6.
 
-El concurso será convocado para la designación de jueces de Distrito de competencia mixta. Sólo por necesidades del servicio, el Pleno del Consejo o la Comisión, en su caso, podrán determinar que sea para una materia específica. En la convocatoria correspondiente se deberá señalar con claridad esta circunstancia.
+El concurso será convocado para la designación de jueces de Distrito de competencia mixta. Sólo por necesidades del servicio, el Pleno del Consejo o la Comisión, en su caso, podrán establecer que sea para una especialidad determinada. En la convocatoria correspondiente se deberá señalar con claridad esta circunstancia.
 
-Cuando se trate de concurso en una materia especializada, en el cuestionario el cincuenta por ciento de las preguntas corresponderá a la materia para la que se concursa, y el cincuenta restante a materia mixta; respecto del caso práctico será de la materia de que se trate y podrá versar sobre un juicio de amparo indirecto o un proceso penal federal o juicio civil federal; tratándose del examen oral, el tema a desarrollar deberá centrarse en temas específicos relacionados con la materia a la que corresponda el concurso.
+Cuando se trate de concurso para juez especializado, en el cuestionario a aplicar en la primera etapa, el cincuenta por ciento de las preguntas corresponderá a la materia de la especialización para la que se concursa, y el cincuenta restante a las otras materias; respecto del caso práctico será de la materia de que se trate y podrá versar sobre un juicio de amparo indirecto o un proceso penal federal o juicio civil federal; tratándose del examen oral, el tema a desarrollar deberá centrarse en temas específicos relacionados con la materia a la que corresponda el concurso.
+
+Asimismo, podrán incorporarse temas relacionados con tratados e instrumentos internacionales vinculados con derechos humanos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
 
 ###### Artículo 7.
 
-En cumplimiento de las disposiciones aplicables de la Constitución y de la Ley, los concursos internos de oposición constarán de tres etapas que permitan evaluar los conocimientos de los participantes en materia jurídica y su experiencia en la función jurisdiccional, las cuales a continuación se señalan:
+En cumplimiento de las disposiciones aplicables de la Ley, los concursos internos de oposición constarán de dos etapas que permitan evaluar los conocimientos de los participantes en materia jurídica y su experiencia en la función jurisdiccional, las cuales a continuación se señalan:
 
-I. Primera etapa. Solución de un cuestionario escrito.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
 
-Consistente en resolver un cuestionario escrito cuyo contenido versará sobre materias relacionadas con la función de la plaza para la que se concursa, por medio del cual se evaluarán los conocimientos jurídicos indispensables para desempeñar el cargo de juez de Distrito. Dicho cuestionario será elaborado por el Instituto en los términos señalados en el presente acuerdo.
+1. Primera etapa. Solución de un cuestionario escrito.
 
-Se garantizará el anonimato de los participantes en esta etapa, mediante la asignación individual de un código de barras.
+Esta etapa tiene por objeto seleccionar a los participantes que acrediten contar con los conocimientos jurídicos necesarios para desempeñar el cargo de Juez.
 
-2. Segunda etapa. Solución de un caso práctico.
+Para ello, los concursantes resolverán un cuestionario escrito, elaborado por el Instituto en los términos señalados en el presente acuerdo.
 
-Consistente en la solución de un caso práctico que será el mismo para todos los participantes, mediante el cual se evaluará su capacidad para analizar y resolver problemas jurídicos como los que podrán enfrentar en el ejercicio del cargo, así como sus conocimientos prácticos de la ley y la jurisprudencia.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
 
-3. Tercera etapa. Realización de un examen oral y público.
+2. Segunda etapa.
 
-Consistente en un examen oral y público que se realizará en el lugar señalado en la convocatoria respectiva y será practicado por el jurado designado en términos del artículo 117 de la Ley, mediante las preguntas e interpelaciones que realicen sus miembros sobre toda clase de cuestiones relativas a la función de juez de Distrito.
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
 
-Los criterios para la evaluación final de los concursantes, serán los siguientes: hasta 40 puntos la calificación obtenida en la segunda etapa; hasta 40 puntos la que se obtenga en la tercera etapa, y hasta 20 puntos los factores de desempeño judicial, cuya evaluación se entregará en la fecha señalada para aplicar el examen oral.
+2.1 Solución de un caso práctico.
+
+Consistente en la solución de un caso práctico que será el mismo para todos los participantes, mediante el cual se evaluará su capacidad para analizar y resolver problemas jurídicos como los que podrán enfrentar en el ejercicio del cargo, así como sus conocimientos prácticos de la ley, la jurisprudencia, y los tratados e instrumentos internacionales relacionados con derechos humanos.
+
+> <small>(ADICIONADO [N. DE E. ANTES NUMERAL 3] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
+
+2.2 Realización de un examen oral y público.
+
+Consistente en un examen oral y público que se realizará en el lugar señalado en la convocatoria respectiva y será practicado por el jurado designado en términos del artículo 117 de la Ley, mediante las preguntas e interpelaciones que realicen sus miembros respecto a legislación nacional, jurisprudencia de la Suprema Corte de Justicia de la Nación, tratados internacionales relacionados con derechos humanos, y sobre toda clase de cuestiones relativas a la función de juez de Distrito.
+
+Los criterios para la evaluación final de los concursantes, serán los siguientes: hasta 50 puntos la calificación obtenida en el caso práctico; hasta 40 puntos la que se obtenga en el examen oral, y hasta 10 puntos los factores de desempeño judicial, cuya evaluación se entregará en la fecha señalada para aplicar el examen oral.
 
 ###### Artículo 8.
 
@@ -201,7 +227,9 @@ La celebración de los exámenes que deban realizarse en términos de la Ley, de
 
 Son atribuciones de la Comisión:
 
-I. Revisar y, en su caso, aprobar la base de datos que el Instituto elabore, de cuando menos mil preguntas, que servirá para conformar el temario que comprenderá, entre otros, temas jurídicos relacionados con las materias esenciales para el ejercicio de la función que corresponde al cargo de juez de Distrito, como son, teoría general del proceso, proceso civil federal, proceso penal federal y juicio de amparo indirecto, en términos de lo que establece el artículo 6 de este acuerdo;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
+
+I. Revisar y, en su caso, aprobar el temario que el Instituto elabore, conforme al cual se elaborará la base de datos de cuando menos mil preguntas, que comprenderá, entre otros, temas jurídicos relacionados con las materias esenciales para el ejercicio de la función que corresponde al cargo de juez de Distrito, como son, teoría general del proceso, proceso civil federal, proceso penal federal y juicio de amparo indirecto, así como tratados internacionales relacionados con derechos humanos, en términos de lo que establece el artículo 6 de este acuerdo;
 
 II. Proponer al Pleno del Consejo la integración del Comité del concurso, en términos del artículo 116 de la Ley;
 
@@ -211,9 +239,13 @@ IV. Elaborar la convocatoria respectiva, que someterá a consideración del Plen
 
 V. Proponer al Pleno del Consejo la integración del jurado encargado de calificar el caso práctico y el examen oral que se aplique a los participantes, así como de evaluar los factores del desempeño judicial de cada uno, conforme lo establecen los artículos 114, fracción III y 117 de la Ley. Asimismo, proponer a los suplentes de los integrantes del jurado;
 
-VI. Analizar y, en su caso, aprobar los formatos de evaluación y del dictamen individual del caso práctico, y de la boleta individual de evaluación del examen oral que elabore el Instituto; y
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
 
-VII. Establecer criterios para la calificación de los factores del desempeño judicial.
+VI. Analizar y, en su caso, aprobar los formatos de evaluación y del dictamen individual del caso práctico, así como los formatos de la boleta de evaluación del examen oral; y
+
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
+
+VII. Establecer criterios para determinar los factores que deben considerarse para su evaluación y calificación.
 
 ###### Artículo 11.
 
@@ -289,7 +321,9 @@ La Comisión remitirá a la Secretaría Ejecutiva los expedientes a que se refie
 
 Reunidos los documentos necesarios que integren los factores de desempeño judicial de cada participante, la Secretaría Ejecutiva los remitirá a la Comisión para que ésta, a su vez, los entregue oportunamente al jurado.
 
-La copia del concentrado de datos y elementos que integran los factores del desempeño judicial, será entregada a los participantes en la fecha señalada para realizar el caso práctico. A partir de esa fecha, contarán con un plazo de cinco días hábiles para hacer alguna aclaración ante el presidente del jurado, mediante escrito presentado por conducto de la Secretaría Ejecutiva; en el entendido de que, para que proceda alguna modificación, únicamente se tomarán en cuenta aquellas constancias que, a más tardar a la fecha de publicación de la convocatoria respectiva en el Diario Oficial de la Federación, se encuentren agregadas al expediente personal de la Dirección General de Recursos Humanos del Consejo, de la Corte o del Tribunal Electoral, o que se hubieren aportado al momento de su inscripción, en términos de lo que se establece en el artículo 13, fracción VI, inciso d), de este acuerdo.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
+
+La copia del concentrado de datos y elementos que integran los factores del desempeño judicial, será entregada a los participantes en la fecha señalada para realizar el caso práctico. A partir del día siguiente al en que reciban el concentrado de datos referido, los participantes contarán con un plazo de cinco días hábiles para hacer alguna aclaración ante el presidente del jurado, mediante escrito presentado por conducto de la Secretaría Ejecutiva; en el entendido de que, para que proceda alguna modificación, únicamente se tomarán en cuenta aquellas constancias que, a más tardar a la fecha de publicación de la convocatoria respectiva en el Diario Oficial de la Federación, se encuentren agregadas al expediente personal de la Dirección General de Recursos Humanos del Consejo, de la Corte o del Tribunal Electoral, o que se hubieren aportado al momento de su inscripción, en términos de lo que se establece en el artículo 13, fracción VI, inciso d), de este acuerdo.
 
 El resultado de la solicitud de aclaración determinado y aprobado por el jurado, se hará del conocimiento del interesado, por conducto de la propia Secretaría Ejecutiva.
 
@@ -297,27 +331,35 @@ El resultado de la solicitud de aclaración determinado y aprobado por el jurado
 
 Etapas de los Concursos en lo Particular.
 
-Primera Etapa. Solución de un cuestionario escrito.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
+
+1. Primera Etapa. Solución de un cuestionario escrito.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
 
 ###### Artículo 17.
 
-Para la elaboración del cuestionario escrito, deberán seguirse los lineamientos básicos siguientes:
+Para la elaboración del cuestionario escrito, cuya finalidad quedó establecida en el artículo 7 de este acuerdo, deberán seguirse los lineamientos básicos siguientes:
 
-I. De acuerdo con el temario elaborado, el Instituto realizará una selección de planteamientos relacionados con los problemas jurídicos abordados en la legislación federal vigente aplicable al juicio de amparo y a los procesos federales civil y penal, así como en las tesis de jurisprudencia de la Corte, funcionando en Pleno o Salas, conforme al temario que se establece en la fracción I del artículo 10 de este acuerdo;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
 
-II. Los reactivos o preguntas deberán elaborarse de tal forma que la respuesta implique la aplicación de un criterio jurídico y deberá prescindirse de cualquier planteamiento cuya solución se base, esencialmente, en la memorización de textos legales.
+I. De acuerdo con el temario aprobado por la Comisión, el Instituto realizará una selección de planteamientos relacionados con los problemas jurídicos abordados en la legislación federal vigente aplicable al juicio de amparo y a los procesos federales civil y penal, así como en las tesis de jurisprudencia de la Corte, funcionando en Pleno o Salas, y en los tratados e instrumentos internacionales relacionados con derechos humanos vigentes a la fecha de publicación de la convocatoria, conforme al temario que se establece en la fracción I del artículo 10 de este acuerdo.
+
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
+
+II. Los reactivos o preguntas, que se mantendrán en sigilo bajo la más estricta responsabilidad del Instituto, deberán elaborarse de tal forma que la respuesta implique la aplicación de un criterio jurídico y deberá prescindirse de cualquier planteamiento cuya solución se base, esencialmente, en la memorización de textos legales.
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
+
+III. Plantearse en el formato denominado de "opción múltiple", cuando menos cien reactivos o preguntas.
 
 El Comité vigilará el cumplimiento de los lineamientos detallados en el presente artículo.
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
+
 ###### Artículo 18.
 
-El cuestionario deberá:
-
-I. Referirse a la legislación federal vigente y a criterios jurisprudenciales sustentados por la Corte, funcionando en Pleno o en Salas, hasta la fecha de publicación de la convocatoria, conforme al temario;
-
-II. Plantearse en el formato denominado de “opción múltiple”, de hasta tres respuestas posibles a cada pregunta, cuidando que los distractores no puedan considerarse como respuestas jurídicamente correctas; y
-
-III. Constar cuando menos de cien reactivos o preguntas, como mínimo. Los aspirantes tendrán hasta 5 horas para contestarlas.
+Los aspirantes tendrán hasta 3 horas para contestar el cuestionario correspondiente.
 
 ###### Artículo 19.
 
@@ -325,7 +367,9 @@ El día y hora señalados en la convocatoria respectiva, los participantes admit
 
 No podrá permitirse la participación de quienes comparezcan después de la hora señalada. La hora de inicio del examen podrá ser modificada únicamente por causa de fuerza mayor, a juicio del Director General del Instituto, de quien se encuentre facultado para actuar en su nombre y representación o, en su caso, del servidor público autorizado legalmente para suplirlo en su ausencia, en términos del Acuerdo General que Reglamenta la Organización y Funcionamiento del Instituto.
 
-Los concursantes que hayan aprobado la Especialidad en Administración de Justicia en Juzgados de Distrito con un promedio mínimo de ochenta y cinco puntos, y que se inscriban a un concurso de oposición, podrán optar por presentar la primera etapa del concurso relativa a la solución de un cuestionario escrito, o pasar directamente a la segunda etapa del concurso, consistente en la solución de un caso práctico, en términos de la regulación contenida en el apartado relativo a la citada especialidad, comprendido en el presente acuerdo.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
+
+Los concursantes que hayan obtenido en la evaluación final de la Especialidad en Administración de Justicia en Juzgados de Distrito una calificación de ochenta y cinco puntos como mínimo, y que se inscriban a un concurso de oposición, podrán optar por presentar la primera etapa del concurso relativa a la solución de un cuestionario escrito, o pasar directamente a la segunda etapa del concurso, en términos de la regulación contenida en el apartado relativo a la citada especialidad, comprendido en el presente acuerdo.
 
 En este segundo supuesto se considerará como calificación de dichos participantes, en la primera etapa, la obtenida en la evaluación final de la Especialidad en Administración de Justicia en Juzgados de Distrito, que deberá ser de ochenta y cinco, como mínimo.
 
@@ -353,13 +397,17 @@ El Instituto elaborará una lista de las calificaciones obtenidas por los partic
 
 Dicha lista la hará del conocimiento de la Comisión para su análisis, la que a su vez la someterá a consideración del Pleno del Consejo, para su aprobación.
 
-Conforme a lo establecido en la fracción II, párrafo segundo, del artículo 114 de la Ley, pasarán a la siguiente etapa del concurso (caso práctico), el número de personas que por cada una de las plazas nuevas o vacantes sujetas a concurso, obtengan las más altas calificaciones aprobatorias, que no podrá ser menor a ochenta puntos.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
 
-En caso de empate, la Comisión deberá considerar, en el siguiente orden de prelación, la antigüedad en las categorías señaladas en las fracciones III a IX del artículo 110 de la Ley, la carrera judicial y los cursos de actualización y capacitación, con objeto de seleccionar al que obtenga mayor puntuación; posteriormente, el Pleno del Consejo aprobará la lista de las personas que accederán a la siguiente etapa.
+Conforme a lo establecido en la fracción II, párrafo segundo, del artículo 114 de la Ley, pasarán a la etapa de oposición, el número de personas que por cada una de las plazas nuevas o vacantes sujetas a concurso, obtengan las más altas calificaciones aprobatorias, que no podrá ser menor a ochenta y cinco puntos, asegurando que el número de los seleccionados sea mayor al de las plazas vacantes.
+
+> <small>(DEROGADO CUARTO PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
 
 ###### Artículo 23.
 
-La lista con los nombres de los participantes que pasan a la segunda etapa relativa al caso práctico, se publicará, por una sola vez en el Diario Oficial de la Federación, la que tendrá efectos de notificación para todos los concursantes, y sólo para su mayor difusión se publicará también en la página web y en los estrados de la sede central del Instituto, en los de cada una de sus extensiones y en el diario de circulación nacional en el que se publicó la convocatoria.
+La lista con los nombres de los participantes que pasan a la etapa de oposición se publicará, por una sola vez en el Diario Oficial de la Federación, la que tendrá efectos de notificación para todos los concursantes, y sólo para su mayor difusión se publicará también en la página web y en los estrados de la sede central del Instituto, en los de cada una de sus extensiones y en el diario de circulación nacional en el que se publicó la convocatoria.
 
 El participante que no esté incluido en la lista publicada en el Diario Oficial de la Federación, quedará notificado desde ese momento, de que fue eliminado del concurso.
 
@@ -369,11 +417,19 @@ En el texto de la lista de los concursantes que hayan pasado a la segunda etapa,
 
 De los escritos de observaciones u objeciones, que se tratarán de manera confidencial, se dará cuenta a la Comisión, la que los someterá a consideración del Pleno del Consejo, a fin de que determine lo conducente.
 
-Segunda Etapa. Solución de un caso práctico.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
+
+2. Segunda Etapa.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
+
+2.1 Caso Práctico
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
 
 ###### Artículo 25.
 
-Pasarán a esta segunda etapa consistente en la solución de un caso práctico, como lo establece la fracción II, párrafo segundo, del artículo 114 de la Ley, el número de participantes que por cada una de las plazas nuevas o vacantes sujetas a concurso, obtengan las más altas calificaciones aprobatorias en la solución del cuestionario escrito, ya sea el practicado en la primera etapa del concurso o el realizado para efectos de evaluación final en la Especialidad en Administración de Justicia en Juzgados de Distrito. Dicha calificación no podrá ser inferior a ochenta puntos.
+Pasarán a la segunda etapa, en sus dos fases, como lo establece la fracción II, párrafo segundo, del artículo 114 de la Ley, el número de participantes que obtengan calificaciones de ochenta y cinco puntos o más en la solución del cuestionario escrito, ya sea el practicado en la primera etapa del concurso o el realizado para efectos de evaluación final en la Especialidad en Administración de Justicia en Juzgados de Distrito.
 
 ###### Artículo 26.
 
@@ -409,7 +465,9 @@ A fin de guardar la confidencialidad del concurso, el Instituto remitirá a los 
 
 El caso práctico deberá resolverse conforme a las siguientes condiciones:
 
-I. No podrá asentarse en ninguna parte del proyecto, el nombre del concursante ni ningún otro dato o seña que lo identifique;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
+
+I. No podrá asentarse en ninguna parte del proyecto ni en el documento que contenga el caso práctico, el nombre del concursante, firma o rúbrica, ni ningún otro dato o seña que lo identifique;
 
 II. El Instituto se encargará de prestar las facilidades materiales y de consulta para el examen, destinará una mesa con espacio suficiente para que el concursante, pueda desplegar el material de consulta y el uso de la computadora que se le asigne; asimismo, debe tener acceso electrónico e impreso a leyes, códigos y jurisprudencias;
 
@@ -433,31 +491,31 @@ La calificación del caso práctico estará a cargo del jurado, cuyos integrante
 
 La puntuación del caso práctico deberá asignarse dentro de una escala de 0 a 100 puntos.
 
-Esta segunda etapa podrá alcanzar como máximo 40 puntos de la calificación final.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
+
+La calificación del caso práctico podrá alcanzar como máximo 50 puntos de la calificación final.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
 
 ###### Artículo 32.
 
-La puntuación del caso práctico se asignará atendiendo a tres rubros específicos: la estructura del proyecto de sentencia, la fundamentación y motivación invocada por cada sustentante, así como redacción de la misma. La valoración detallada de los elementos a considerar por el jurado en cada uno de esos rubros, es la siguiente:
-
-I. Estructura: 20 puntos.
-
-En este rubro se calificará el orden en la exposición de las consideraciones y la congruencia interna del proyecto, evaluándose que: los considerandos se encuentren distribuidos ordenadamente; las consideraciones tengan una secuencia lógica; se aborden de manera distinta, clara y ordenada los diferentes actos reclamados y los argumentos jurídicos hechos valer; el proyecto no contenga contradicciones entre aquéllos o entre la parte considerativa y la dispositiva.
-
-II. Fundamentación y Motivación: 60 puntos.
-
-La calificación que se asignará en este rubro corresponde a la congruencia jurídica de la solución propuesta, evaluándose globalmente que: se hayan identificado los problemas jurídicos; se aborden todos los problemas planteados (exhaustividad y congruencia); el sentido del fallo encuentre fundamento en el ordenamiento jurídico (que no sea contrario al texto expreso de la ley o de la jurisprudencia); la motivación se ajuste a las constancias y corresponda al desarrollo jurídico de la solución propuesta.
-
-III. Redacción: 20 puntos.
-
-En este apartado se evaluará la inteligibilidad del proyecto; esto es, que se pueda comprender sin dificultad. En este aspecto se evaluará fundamentalmente que el aspirante redacte sus argumentos de manera clara y precisa.
+Para asignar la puntuación del caso práctico, el Jurado tomará en consideración, entre otros, los siguientes aspectos: la comprensión, de los problemas jurídicos a resolver; la claridad e ilación en la exposición de la propuesta de solución; la congruencia entre los puntos resolutivos y la parte considerativa; la fundamentación y motivación de las consideraciones que sustenten la propuesta de solución, derivadas de la interpretación y aplicación del marco jurídico que guarde relación con los problemas planteados; el conocimiento, cita y comprensión de tesis jurisprudenciales y aisladas que puedan ser aplicables a los problemas jurídicos cuyo estudio se aborde.
 
 ###### Artículo 33.
 
 El jurado deberá evaluar los proyectos de resolución formulados por los participantes, en los términos siguientes:
 
-I. Cada integrante del jurado deberá evaluar en lo particular y en forma personalísima, los proyectos de los concursantes, asentando en el formato de evaluación la puntuación que asignen a los elementos establecidos en el artículo 32 de este acuerdo, teniendo como límite la puntuación máxima establecida en el diverso numeral 31, y en el formato de dictamen asentarán la calificación que asignen a cada participante;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
 
-II. Una vez determinadas las calificaciones de manera individual, por cada integrante del jurado, en el formato y el dictamen debidamente firmados, su presidente citará, dentro de un plazo que no exceda de 10 días hábiles contados a partir del día siguiente a aquél en que se realizó el examen, a una sesión privada, con el objeto de determinar la calificación conjunta que por promedio asignen a cada concursante.
+I. Cada uno de los integrantes del jurado evaluará en lo particular y en forma personalísima, los proyectos de los concursantes, asentando en el formato de evaluación la puntuación que asignen a los elementos establecidos en el artículo 32 de este acuerdo, teniendo como límite la puntuación máxima establecida en el diverso numeral 31, y en el formato de dictamen asentarán la calificación que asignen en lo individual a cada participante;
+
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
+
+II. Una vez determinadas las calificaciones de manera individual, el jurado obtendrá la calificación que resulte de promediar las que individualmente otorgaron cada uno de sus miembros al caso práctico.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
+
+La calificación final obtenida por el jurado, se hará constar en el formato de evaluación.
 
 ###### Artículo 34.
 
@@ -469,11 +527,15 @@ El acta y sus anexos los enviará el jurado al Instituto para que éste elabore 
 
 La lista de calificaciones obtenidas en el caso práctico, se publicará con el número de folio asignado al momento de su inscripción, en los estrados de la sede central del Instituto, en los de cada una de sus extensiones y en su página web, la que tendrá efectos de notificación.
 
-Tercera Etapa. Examen oral.
+> <small>(ADICIONADO [N. DE E. ANTES TERCERA ETAPA], POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
+
+2.2 Examen oral.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
 
 ###### Artículo 36.
 
-En la fecha señalada en la convocatoria respectiva para realizar el examen oral concerniente a la tercera etapa del concurso, los participantes deberán presentarse en el lugar y hora indicados en la propia convocatoria e identificarse en los términos señalados en el artículo 8 de este acuerdo.
+En la fecha señalada en la convocatoria respectiva para realizar el examen oral, los participantes deberán presentarse en el lugar y hora indicados en la propia convocatoria e identificarse en los términos señalados en el artículo 8 de este acuerdo.
 
 ###### Artículo 37.
 
@@ -487,9 +549,15 @@ El examen oral se celebrará conforme lo dispone la fracción III del artículo 
 
 Para esta etapa se integrará el jurado por un Consejero de la Judicatura Federal, quien lo presidirá, un miembro del Comité Académico del Instituto de la Judicatura Federal y un juez de Distrito ratificado, en términos del artículo 117 de la Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
+
 ###### Artículo 40.
 
-El examen será oral y público, se practicará por el jurado designado por el Pleno del Consejo de la Judicatura Federal, en presencia de los tres integrantes. Se desarrollará mediante la exposición que haga el concursante de un tema jurídico relacionado con el temario a que se refiere la fracción I del artículo 10 de este acuerdo, y en su caso, con la materia que el participante haya seleccionado cuando se trate de concursos para la designación de jueces especializados. El tema a desarrollar se asignará al participante aleatoriamente, quien responderá a las preguntas e interpelaciones que realicen los integrantes del jurado con relación a la materia elegida por el concursante, referentes a la competencia y función de juez de Distrito.
+El examen será oral y público, se practicará por el jurado designado por el Pleno del Consejo de la Judicatura Federal, en presencia de los tres integrantes. Se desarrollará mediante la exposición que haga el concursante de un tema jurídico relacionado con el temario a que se refiere la fracción I del artículo 10 de este acuerdo, y en su caso, con la materia que el participante haya seleccionado cuando se trate de concursos para la designación de jueces especializados.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
+
+El tema a desarrollar se asignará al participante aleatoriamente, quien concluida su exposición, responderá a las preguntas que realicen los integrantes del jurado con relación a la materia elegida por el concursante, ó referentes a la competencia y función de juez de Distrito.
 
 Todo examen oral será video grabado para efectos de que haya constancia de los términos en que se realizó.
 
@@ -515,7 +583,11 @@ III. El sustentante obtendrá por insaculación, el nombre del tema que debe exp
 
 IV. Durante 15 minutos como máximo, expondrá el tema y subtemas que le correspondan; y
 
-V. En la etapa de preguntas y respuestas, cada integrante del jurado formulará al sustentante las interpelaciones que considere, relacionadas con el temario y con la función del cargo para el que concursa.
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
+
+V. En la etapa de preguntas y respuestas, cada integrante del jurado formulará al sustentante la pregunta o las preguntas que considere necesarias, relacionadas con la función del cargo para el que se concursa.
+
+Cada uno de los integrantes del jurado formulará las preguntas que considere necesarias, con independencia del turno de cada uno y de quien de ellos esté preguntando.
 
 En concursos convocados para cubrir plazas de jueces de Distrito de competencia mixta, el tema a desarrollar deberá referirse a materia mixta; si se hubiese convocado en una materia especializada, el jurado deberá centrarse en temas específicos relacionados con la materia a la que corresponde el concurso.
 
@@ -541,93 +613,103 @@ A dicha acta se adjuntarán las boletas individuales de evaluación.
 
 La lista con las calificaciones obtenidas en el examen oral por los concursantes, se publicará en los estrados y extensiones del Instituto, así como en la página web de éste.
 
+> <small>(ADICIONADO [N. DE E. ANTES CAPÍTULO CUARTO] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
+
+2.3 De los Factores de Desempeño Judicial.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
+
 ###### Artículo 48.
 
-El jurado, con anticipación a la fecha de realización del examen oral, procederá a evaluar respecto de cada participante los factores de desempeño judicial establecidos en el párrafo segundo de la fracción III del artículo 114 de la Ley, en términos del presente acuerdo general.
+El jurado evaluará respecto de cada participante los factores de desempeño judicial a que se refiere el párrafo segundo de la fracción III del artículo 114 de la Ley, en términos del presente acuerdo general, consistentes en la antigüedad en el Poder Judicial de la Federación; los cargos desempeñados en las distintas categorías de la carrera judicial señaladas en las fracciones III a IX del artículo 110 de la propia Ley; el grado académico; y los cursos de actualización y especialización exclusivamente en el ámbito jurídico.
 
-Los criterios para la evaluación de los factores de desempeño judicial, serán los siguientes: hasta 30 puntos la antigüedad en el Poder Judicial de la Federación; hasta 40 puntos la carrera judicial, y hasta 30 puntos los cursos recibidos en el ámbito jurídico.
-
-La evaluación de los factores de desempeño judicial se medirá en una escala de 0 a 100 puntos, y podrá alcanzar como máximo 20 puntos de la calificación final.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
 
 ###### Artículo 49.
 
-Los factores de desempeño judicial consistentes en la antigüedad en el Poder Judicial de la Federación, el desempeño en las distintas categorías de la carrera judicial establecidas en las fracciones III a IX del artículo 110 de la propia Ley, los cursos de preparación que se hubiesen tomado y la experiencia profesional en general, serán evaluados por el jurado.
+La evaluación de los factores de desempeño judicial, conforme a los parámetros que más adelante se precisarán, se medirá en una escala de 0 a 100 puntos, y podrá alcanzar como máximo 10 puntos de la calificación final.
+
+> <small>(REFORMADO EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
 
 ###### Artículo 50.
 
-La evaluación de los factores de desempeño se hará conforme a los siguientes parámetros:
+La evaluación de los factores de desempeño judicial se hará conforme a los siguientes parámetros:
 
-I. La antigüedad en el Poder Judicial de la Federación, dos puntos por cada año de servicio, sin exceder el máximo de 30.
-
-Los meses y días que acredite un participante en el Poder Judicial, se valorarán en forma proporcional a la puntuación que corresponda al año de servicio, o mes, según se trate.
+I. La antigüedad en el Poder Judicial de la Federación, dos puntos por cada año de servicio, sin exceder el máximo de 25.
 
 II. La Carrera Judicial será valorada por cada año de servicio, en las categorías establecidas en las fracciones III a IX del artículo 110 de la Ley, conforme a lo siguiente:
 
-a) Actuario 2 puntos
+a) Actuario 1 punto
 
 b) Secretario de Juzgado 3 puntos
 
 c) Secretario de Tribunal de Circuito o Secretario de Estudio
 
-y Cuenta de las Salas Regionales del Tribunal Electoral 4 puntos
+y Cuenta de las Salas Regionales del Tribunal Electoral;
 
-d) Subsecretario de Acuerdos de Sala de la Corte 4 puntos
+Subsecretario de Acuerdos de Sala de la Corte; Secretario
 
-e) Secretario de Acuerdos de Sala de la Corte 4 puntos
+de Acuerdos de Sala de la Corte. 4 puntos
 
-f) Secretario de Estudio y Cuenta en cualquier modalidad,
+d) Secretario de Estudio y Cuenta en cualquier modalidad,
 
-e Instructores de la Sala Superior del Tribunal Electoral 5 puntos
+e Instructores de la Sala Superior del Tribunal Electoral;
 
-g) Subsecretario General de Acuerdos de la Corte
+Subsecretario General de Acuerdos de la Corte o de la
 
-o de la Sala Superior del Tribunal Electoral 5 puntos
+Sala Superior del Tribunal Electoral; Secretario General
 
-h) Secretario General de Acuerdos de la Corte
+de Acuerdos de la Corte o de la Sala Superior del Tribunal
 
-o de la Sala Superior del Tribunal Electoral 5 puntos
+Electoral. 5 puntos
 
-Los meses y días que acredite un participante en alguna de las categorías de carrera judicial, se valorarán en forma proporcional a la puntuación que corresponda al año de servicio, o mes, según se trate.
+La puntuación será acumulativa y no podrá exceder de 35 puntos.
 
-La puntuación anterior será acumulativa y no podrá exceder de 40 puntos.
+Para efecto de las fracciones I y II señaladas con anterioridad, los meses y días que acredite un participante se valorarán en forma íntegra y proporcional a la puntuación que corresponda al año de servicio, o mes, según se trate.
 
-III. Los cursos, exclusivamente en el ámbito jurídico, que se hayan recibido en el Instituto, en la Corte o en el Tribunal Electoral, o diversos de actualización y especialización, o en otra institución, en la forma siguiente:
+Para ello, se considerarán años calendario, en términos del artículo 292 del Código Federal de Procedimientos Civiles.
 
-a) Especialidad en Administración de Justicia
+III. El grado académico, se valorará conforme a lo siguiente:
 
-en Juzgados de Distrito impartida por el Instituto 7 puntos
+a) Doctorado con cédula o acta de examen aprobatoria 5 puntos
 
-b) Cursos de Especialización Judicial, Básico de
+b) Maestría con cédula o acta de examen aprobatoria 4 puntos
 
-Formación y Preparación de Secretarios del
+c) Especialidad con cédula 3 puntos
 
-Poder Judicial de la Federación, así como la
+La puntuación anterior será acumulativa y no podrá exceder de 20 puntos.
 
-Especialidad en Secretaría de Juzgado de Distrito o
+IV. Para evaluar la actualización y la capacitación de cada participante, se entenderá por curso la actividad académica sistematizada que tiene como objetivo adquirir o actualizar los conocimientos y habilidades en torno a un tema, durante un periodo de tiempo predeterminado y a través de diversas estrategias pedagógicas desarrolladas por algún docente, catedrático o experto, o varios de ellos. En términos de la Ley, deberán considerarse los cursos impartidos por el Instituto, la Corte o el Centro de Capacitación, y los acreditados en diversa institución educativa con reconocimiento oficial. Los estudios realizados en el extranjero se reconocerán siempre y cuando hayan sido revalidados ante las instancias correspondientes o promovidos por el propio Consejo.
 
-Tribunal de Circuito, o cursos equiparables en el
+La evaluación de mérito, se realizará en la forma siguiente:
 
-Centro de Capacitación 4 puntos
+a) Especialidad en Administración de Justicia en Juzgados de
 
-c) Otros cursos de preparación y capacitación en las
+Distrito impartida por el Instituto 7 puntos
 
-distintas categorías de la carrera judicial 2 puntos
+b) Cursos de certificación, curso de Especialización Judicial,
 
-d) Cursos especiales, diplomados y seminarios impartidos
+Básico de Formación y Preparación de Secretarios del
 
-por el Instituto, la Corte o el Centro de Capacitación 1 punto
+Poder Judicial de la Federación, así como la Especialidad en
 
-e) Doctorado con cédula o acta de examen aprobatoria 4 puntos
+Secretaría de Juzgado de Distrito o Tribunal de Circuito, o
 
-f) Maestría con cédula o acta de examen aprobatoria 3 puntos
+cursos equiparables en el Centro de Capacitación 4 puntos
 
-g) Especialidad 2 puntos
+c) Cursos de preparación y capacitación en las distintas
 
-h) Diplomados y otros cursos de actualización o
+categorías de la carrera judicial impartidos por el Instituto 2 puntos
 
-capacitación externos 1 punto
+d) Cursos de actualización o capacitación impartidos por
 
-La puntuación anterior será acumulativa y no podrá exceder de 30 puntos.
+el Instituto 1 punto
+
+e) Cursos de actualización o capacitación impartidos
+
+por diversa institución educativa 5 décimas
+
+La puntuación anterior será acumulativa y no podrá exceder de 20 puntos.
 
 ###### Artículo 51.
 
@@ -675,17 +757,23 @@ Los concursantes que no alcancen la calificación mínima de ochenta puntos o m�
 
 Elaborada la lista de la calificación final del concurso obtenida por los participantes, el jurado la remitirá al Instituto junto con los documentos anexos, dictámenes, formatos de evaluación y actas correspondientes.
 
+> <small>(REFORMADO EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
+
 ###### Artículo 56.
 
-El Instituto concentrará las calificaciones finales y elaborará una lista en orden descendente de los participantes, a la que acompañará el original de los anexos correspondientes y la remitirá a la Comisión de Carrera Judicial, para su revisión, la que a su vez la someterá a consideración del Pleno del Consejo, para su análisis y, aprobación, en su caso.
+El Instituto concentrará las calificaciones finales y elaborará una lista en orden descendente de los participantes, a la que acompañará el original de los anexos correspondientes y la remitirá a la Comisión de Carrera Judicial.
+
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO QUINTO] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
 
 ### CAPITULO CUARTO
 
-De los Factores de Desempeño Judicial.
+Designación de los Jueces.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
 
 ###### Artículo 57.
 
-Recibida en la Comisión la lista de vencedores en el concurso y la calificación final que hubieren alcanzado, procederá a su análisis y una vez autorizada, la enviará al Pleno del Consejo para que, en la sesión correspondiente, realice la declaración formal de quienes hayan resultado vencedores para ocupar el cargo de juez de Distrito.
+Recibida en la Comisión la lista de vencedores en el concurso y la calificación final que hubieren alcanzado, tomará conocimiento y la enviará al Pleno del Consejo para su análisis y aprobación en su caso, para que en la sesión correspondiente, realice la declaración formal de quienes hayan resultado vencedores para ocupar el cargo de juez de Distrito.
 
 La lista definitiva del concurso se publicará, con efectos de notificación a los interesados, en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, en los estrados de la sede central del Instituto, en sus extensiones y en su página web, así como en el periódico de circulación nacional en el que se haya publicado la convocatoria.
 
@@ -699,9 +787,9 @@ Publicada la lista definitiva, el Consejo organizará y citará a los recién de
 
 A los declarados vencedores en el concurso, se les expedirá el nombramiento de juez de Distrito conforme a las necesidades del servicio, e iniciarán funciones a partir de la fecha en que el Pleno determine que surte efectos la adscripción que se les asigne, previa la protesta constitucional.
 
-### CAPITULO QUINTO
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO SEXTO] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
 
-Designación de los Jueces.
+### CAPITULO QUINTO. Normas Complementarias
 
 ###### Artículo 60.
 
@@ -715,7 +803,9 @@ III. La omisión de datos e información necesaria o la falsedad de cualquiera d
 
 IV. No presentarse el día, lugar y hora señalados para la realización de los exámenes que integran las diversas etapas del concurso;
 
-V. La separación del Poder Judicial de la Federación por cualquier causa y en cualquier etapa del concurso; y
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
+
+V. La separación por sanción de cualquiera de los cargos de carrera judicial señalados en las fracciones III a IX del artículo 110 de la Ley, sin importar la etapa en que se encuentre el concurso; y
 
 VI. La impresión en los documentos relativos a los exámenes, mediante escritura, dibujo o adherencia, de cualquier seña, figura, signo o nombre no autorizados que pueda servir para identificar al sustentante.
 
@@ -729,21 +819,19 @@ Las circunstancias no previstas en la Ley, en este acuerdo o en la convocatoria 
 
 El Pleno del Consejo o, en su caso, la Comisión, podrán modificar la convocatoria respectiva aun cuando ya se haya publicado, sólo si existe motivo o causa fundada para ello, o cuando acontezcan situaciones extraordinarias que lo justifiquen.
 
-### CAPITULO SEPTIMO
-
-De la Especialidad en Administración de Justicia en Juzgados de Distrito.
-
 ###### Artículo 62.
 
 La Especialidad en Administración de Justicia en Juzgados de Distrito, constituye un curso de preparación que será impartido por el Instituto de la Judicatura Federal conforme a las bases establecidas en el presente acuerdo. Tendrá como objetivo esencial dotar a los servidores judiciales de una mejor preparación, tanto para la participación en los concursos de oposición para acceder al cargo de juez de Distrito, como para el desempeño, en general, de la función jurisdiccional, lo que conlleva a impulsar y favorecer el desarrollo de la carrera judicial.
 
-### CAPITULO SEXTO
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO SÉPTIMO] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
 
-Normas Complementarias.
+### CAPITULO SEXTO. De la Especialidad en Administración de Justicia en Juzgados de Distrito
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
 
 ###### Artículo 63.
 
-La Comisión de Carrera Judicial elaborará la convocatoria respectiva para la inscripción y participación en la Especialidad en Administración de Justicia en Juzgados de Distrito, la cual someterá a consideración del Pleno, para su aprobación, en su caso.
+El Instituto elaborará la convocatoria respectiva para la inscripción y participación en la Especialidad en Administración de Justicia en Juzgados de Distrito, la cual someterá a consideración de la Comisión de Carrera Judicial y ésta, a su vez, la remitirá al Pleno para su aprobación, en su caso.
 
 En dicha convocatoria se señalará el periodo para la inscripción a la especialidad, la fecha límite, el periodo de duración, el lugar de recepción de solicitudes y aquél donde se impartirá, así como el horario y demás particularidades.
 
@@ -755,19 +843,29 @@ Para inscribirse a la especialidad, se les dará derecho a participar a quienes 
 
 La inscripción y participación en la citada especialidad, será opcional para los servidores judiciales interesados en acceder al cargo de juez de Distrito.
 
-A fin de favorecer una mayor participación de los servidores públicos y su ascenso en la carrera judicial, quienes cursen la Especialidad en Administración de Justicia en Juzgados de Distrito, al concluirla serán evaluados mediante la solución de un cuestionario escrito que verse sobre las materias y función correspondientes al cargo de juez de Distrito, a fin de que si resultan con calificación aprobatoria de ochenta y cinco como mínimo y deciden inscribirse al concurso, estén en posibilidad de optar por conservar la calificación obtenida en la evaluación final de la especialidad, que se considerará correspondiente a la primera etapa, o de participar en la solución del cuestionario escrito que se aplique en el concurso de oposición.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
+
+A fin de favorecer una mayor participación de los servidores públicos y su ascenso en la carrera judicial, quienes cursen la Especialidad en Administración de Justicia en Juzgados de Distrito, al concluirla serán evaluados mediante la solución de un cuestionario escrito que verse sobre las materias y función correspondientes al cargo de juez de Distrito, a fin de que si resultan con calificación aprobatoria de ochenta y cinco como mínimo, estén en posibilidad de optar por conservar la calificación obtenida en la evaluación final de la especialidad, que se considerará correspondiente a la primera etapa, o de participar en la solución del cuestionario escrito que se aplique en el concurso de oposición.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
+
+Sólo podrán hacer efectiva esta prerrogativa en los dos concursos internos de oposición siguientes a la conclusión de la especialidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
 
 ###### Artículo 65.
 
-La participación y acreditación de la especialidad no exime a quienes determinen inscribirse en el concurso interno de oposición, de cumplir cabalmente todas las demás obligaciones que la Ley, el acuerdo aplicable y la convocatoria respectiva le señalen, ni de agotar las etapas del concurso, con excepción de la primera, que se homologa a la evaluación final que se realizará en la especialidad mediante la solución de un cuestionario escrito.
+El ejercicio de la prerrogativa a que alude el artículo anterior, no exime a los participantes de cumplir cabalmente todas las demás obligaciones que la Ley, el acuerdo aplicable y la convocatoria respectiva le señalen a quienes se inscriban a un concurso interno de oposición, ni de agotar las etapas del concurso, con excepción de la primera, que se homologa a la evaluación final que se realizará en la especialidad mediante la solución de un cuestionario escrito.
 
 Los participantes podrán ejercer la opción señalada en el artículo anterior.
 
 La acreditación de la especialidad tendrá en todo momento para quienes la hayan cursado, efectos sólo de preparación y actualización judicial, con la salvedad apuntada respecto de la homologación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
+
 ###### Artículo 66.
 
-La Especialidad en Administración de Justicia en Juzgados de Distrito tendrá una duración de por lo menos seis meses y se impartirá en el horario que la Comisión fije, en las instalaciones del propio Instituto o, en su caso, en el lugar que éste o la Comisión designe.
+La Especialidad en Administración de Justicia en Juzgados de Distrito tendrá la duración que la Comisión determine y se impartirá en el horario que el Instituto fije, aprobado por la Comisión, en las instalaciones del propio Instituto o, en su caso, en el lugar que éste o la Comisión designe.
 
 Podrán inscribirse los servidores judiciales que cumplan los requisitos para ser juez de Distrito, establecidos en los artículos 108 y 113, párrafo segundo, de la Ley, y que al inscribirse, como durante el desarrollo de la especialidad, se encuentren en activo en cualquiera de las categorías de la carrera judicial autorizadas para participar en los concursos de oposición.
 
@@ -785,7 +883,9 @@ La lista de los nombres de los aspirantes admitidos a la Especialidad en Adminis
 
 A los servidores judiciales que sean admitidos para participar en la especialidad, se les otorgará licencia con goce de sueldo en su base o cargo, por el término de duración del curso y seguirán percibiendo durante la impartición de éste, el sueldo y prestaciones que correspondan a su nombramiento.
 
-Lo anterior, sin perjuicio del derecho del titular en esos casos, para designar un sustituto con carácter de interino, por el tiempo en que el titular de la base se encuentre participando en la especialidad.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
+
+Lo anterior, sin perjuicio del derecho del titular de designar en esos casos, un sustituto con carácter de interino, por el tiempo en que el servidor público se encuentre participando en la especialidad.
 
 ###### Artículo 69.
 
@@ -795,17 +895,15 @@ Los participantes deberán reunir un noventa por ciento de asistencia y obtener 
 
 De no satisfacer cualquiera de esos requisitos, serán dados de baja de la especialidad. En ese caso, el Instituto debe comunicar esa determinación, por escrito, al interesado y, según corresponda, a los presidentes de la Corte o del Tribunal Electoral, al magistrado a cuya ponencia se encuentre adscrito el servidor público y, en su caso, al titular del órgano jurisdiccional de su adscripción, así como al Director General de Recursos Humanos respectivo, para el efecto que se reincorpore en forma inmediata en sus funciones.
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)</small>
+
 ###### Artículo 70.
 
-En caso de que los participantes que hayan acreditado la Especialidad en Administración de Justicia en Juzgados de Distrito se inscriban en un concurso interno de oposición para la designación de juez de Distrito y no resulten vencedores, recibirán una constancia de participación en la que conste su calificación.
-
-Con esa constancia podrán acreditar en los subsecuentes concursos, siempre que sea dentro de los dos años siguientes a la fecha de su expedición, que cursaron la Especialidad en Administración de Justicia en Juzgados de Distrito y podrán acceder de manera directa a la segunda etapa, sin menoscabo de su derecho a participar en la primera, si así conviene a sus intereses.
-
-La homologación valdrá en los dos concursos siguientes, esto es, aquél en el que se inscriban y otro más, sin que pueda surtir efectos en ningún otro.
+Durante la parte final de la Especialidad en Administración de Justicia en Juzgados de Distrito, podrán realizarse estancias en juzgados de Distrito, en las que los participantes se desempeñarán en la forma y en los órganos jurisdiccionales que se determinen.
 
 ###### Artículo 71.
 
-Durante la parte final de la Especialidad en Administración de Justicia en Juzgados de Distrito, podrán realizarse estancias en juzgados de Distrito, en las que los participantes se desempeñarán en la forma y en los órganos jurisdiccionales que se determinen.
+(DEROGADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 16/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MAYO DE 2012)
 
 ## TRANSITORIOS
 
@@ -818,3 +916,13 @@ TERCERO. Se abroga el Acuerdo General 57/2008 del Pleno del Consejo de la Judica
 CUARTO. Los concursos internos de oposición que a la fecha de entrada en vigor del presente acuerdo se encuentren en trámite, continuaran realizándose conforme a la convocatoria y al acuerdo aplicables al concurso de que se trate.
 
 MARIA DOLORES OMAÑA RAMIREZ, SECRETARIA EJECUTIVA DEL PLENO Y DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 30/2010, del Pleno del Consejo de la Judicatura Federal, que Establece el Procedimiento y Lineamientos Generales para Acceder al Cargo de Juez de Distrito, Mediante Concursos Internos de Oposición, fue aprobado por el Pleno del Consejo de la Judicatura Federal, en sesión ordinaria de veinte de octubre de dos mil diez, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Daniel Francisco Cabeza de Vaca Hernández, Juan Carlos Cruz Razo, César Esquinca Muñoa, César Alejandro Jáuregui Robles, Jorge Moreno Collado y Oscar Vázquez Marín.- México, Distrito Federal, a tres de diciembre de dos mil diez.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 23 DE MAYO DE 2012.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en la página web del Consejo, de la Corte y del Tribunal Electoral.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato, el texto de esta reforma, al Acuerdo General 30/2010, del Pleno del Consejo de la Judicatura Federal, que establece el procedimiento y lineamientos generales para acceder al cargo de Juez de Distrito, mediante concursos internos de oposición.
