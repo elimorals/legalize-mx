@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-titulacion-para-tecnico-superior-universitario-69
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-07-09"
-last_updated: "2009-07-09"
+last_updated: "2012-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69600&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO DE TITULACION PARA TECNICO SUPERIOR UNIVERSITARIO
 
-REGLAMENTO DE TITULACION PARA TECNICO SUPERIOR UNIVERSITARIO
+REGLAMENTO DE TITULACIÓN PARA TÉCNICO SUPERIOR UNIVERSITARIO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE TITULACIÓN DE LA UNIVERSIDAD TECNOLÓGICA DEL SUR DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 24 DE MAYO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el jueves 9 de julio de 2009.
 
@@ -142,3 +144,13 @@ M.T.I. HECTOR PEÑA CAMPUZANO
 ENCARGADO DE LA RECTORIA DE LA UNIVERSIDAD TECNOLÓGICA DEL SUR DEL ESTADO DE MÉXICO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 24 DE MAYO DE 2012.
+
+PRIMERO. Publíquense (sic) el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Reglamento entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+TERCERO. Se abroga el Reglamento de Titulación para Técnico Superior Universitario, aprobado por el H. Consejo Directivo de la Universidad Tecnológica del Sur del Estado de México, en la Sexagésima Octava Sesión Ordinaria de fecha veinte de mayo de dos mil nueve, publicado en el Periódico Oficial "Gaceta del Gobierno", en fecha nueve de julio de dos mil nueve.
