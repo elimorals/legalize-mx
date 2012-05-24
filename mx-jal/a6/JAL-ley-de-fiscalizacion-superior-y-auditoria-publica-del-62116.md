@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fiscalizacion-superior-y-auditoria-publica-del-62116"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-05"
-last_updated: "2010-11-20"
+last_updated: "2012-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY DE FISCALIZACION SUPERIOR Y AUDITORIA PUBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE MAYO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-LEY DE FISCALIZACION SUPERIOR Y AUDITORIA PUBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2010.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 2010.
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 24 DE MAYO DE 2012.</small>
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 5 de julio de 2008.
 
@@ -135,7 +135,7 @@ Este informe deberá remitirse al Congreso del Estado a más tardar el último d
 
 ###### Artículo 5°.
 
-El Poder Legislativo se coordinará con las entidades fiscalizables en el diseño del sistema de evaluación del desempeño, el cual podrán operar de manera electrónica, con el fin de que todos los entes y sujetos fiscalizados registren anualmente el grado de cumplimiento de sus metas y objetivos, de conformidad con el artículo 6.° de la Constitución Política de los Estados Unidos Mexicanos y la Ley de Planeación para el Estado de Jalisco y sus Municipios.
+El Poder Legislativo se coordinará con las entidades fiscalizables en el diseño del sistema de evaluación del desempeño, el cual podrán operar de manera electrónica, con el fin de que todos los entes y sujetos fiscalizados registren anualmente el grado de cumplimiento de sus metas y objetivos, de conformidad con el artículo 6°. de la Constitución Política de los Estados Unidos Mexicanos y la Ley de Planeación para el Estado de Jalisco y sus Municipios.
 
 El Congreso del Estado a través de sus comisiones legislativas, de conformidad con la Ley de Planeación para el Estado de Jalisco y sus Municipios, podrá analizar los planes y programas que les presente el titular del Poder Ejecutivo para emitir sus observaciones, las cuales, previa valoración, podrán ser aprobadas por la Asamblea, para que sean remitidas al Poder Ejecutivo.
 
@@ -1225,13 +1225,13 @@ Las cuentas públicas y estados financieros que en los informes finales el resul
 
 Las cuentas públicas y estados financieros que sean objeto de observaciones de carácter de probables responsabilidades administrativas y cuantificación de los daños, deberán ser dictaminadas por la comisión, para que éstas últimas se eleven a créditos fiscales en contra de los sujetos auditables responsables de los daños al erario o patrimonio público.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE MAYO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 87.
 
 La comisión podrá regresar a la Auditoría Superior, las cuentas públicas o estados financieros con observaciones, para que en un término de noventa días naturales, analice su inclusión en el informe final devuelto.
 
-En caso de que el Congreso del Estado rechace un dictamen de cuenta pública o estados financieros, el Presidente de la mesa directiva deberá ordenar expedir el finiquito correspondiente a los sujetos fiscalizables, siempre y cuando dicho dictamen proponga la constitución de un crédito fiscal.
+> <small>(F. DE E. 24 DE MAYO DE 2012)</small>
+
+En caso de que el Congreso del Estado rechace un dictamen de cuenta pública o estados financieros, el Presidente de la mesa directiva deberá ordenar expedir el finiquito correspondiente a los sujetos fiscalizables, siempre y cuando dicho dictamen no proponga la constitución de un crédito fiscal.
 
 ###### Artículo 88.
 
@@ -1295,7 +1295,7 @@ XII. La comisión de hechos que culminen por declaratoria de responsabilidad pol
 
 El acto señalado en la fracción I del artículo anterior, la sanción será la determinación final que establezca el Congreso del Estado en el caso de las entidades auditables y fiscalizables municipales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 92.
 
@@ -1307,7 +1307,7 @@ II. Multas de veinte a quinientos salarios mínimos vigentes en la Zona Metropol
 
 III. Arresto administrativo hasta por treinta y seis horas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 93.
 
@@ -1541,7 +1541,7 @@ LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 31 DE DICIEMBRE DE 2009.
 
