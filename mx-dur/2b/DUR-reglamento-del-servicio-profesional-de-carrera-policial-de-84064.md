@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-del-servicio-profesional-de-carrera-policial-de-8406
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-13"
-last_updated: "2011-11-13"
+last_updated: "2012-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84064&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DE LA POLICÍA ESTATAL DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el domingo 13 de noviembre de 2011.
 
@@ -191,7 +191,9 @@ IV. Cinco vocales, que serán:
 
 1. Subsecretario Operativo de la Secretaría;
 
-2. Subsecretario de Egresos de la Secretaría de Finanzas y de Administración;
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2012)</small>
+
+2. Director del CEACC;
 
 3. Comisario General de la Policía Estatal;
 
@@ -437,9 +439,11 @@ El CEACC, es el órgano encargado de aplicar las evaluaciones en los procesos de
 
 El CEACC, una vez que haya evaluado a los aspirantes de nuevo ingreso, notificará por escrito al Director General del Instituto los resultados de aquellos que sean aptos y reúnan el perfil correspondiente, para que en su caso, provea lo necesario y comenzar su formación o el procedimiento que corresponda, en el ámbito de su competencia.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2012)</small>
+
 ###### Artículo 32.
 
-El CEACC notificará a la Comisión de Carrera Policial los resultados de las evaluaciones que realice a los policías Estatales, como antecedentes documentales para los procesos de promoción que procedan.
+El CEACC notificará al Secretario Técnico de la Comisión de Carrera Policial los resultados de las evaluaciones que realice a los policías Estatales, como antecedentes documentales para los procesos de promoción que procedan.
 
 ###### Artículo 33.
 
@@ -563,25 +567,41 @@ b. Mujeres, sin lentes, sin maquillaje y con orejas descubiertas.
 
 En la Selección de Aspirantes, se determina si cumplen con los conocimientos, habilidades, destrezas, competencias, actitudes y aptitudes psicológicas, físicas, intelectuales y de conocimientos conforme al perfil del grado por competencia a cubrir, mediante la aplicación de diversos exámenes, así como los requerimientos de formación inicial.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2012)</small>
+
 ###### Artículo 47.
 
-El Instituto en un término no mayor de 15 días hábiles posteriores a la recepción de documentación, dará a conocer a los aspirantes los resultados del reclutamiento, a fin de determinar el grupo idóneo de aspirantes seleccionados y devolverá toda la documentación recibida a aquellos que no hubieren sido aceptados.
+El Instituto en un término no mayor de 15 días hábiles posteriores a la recepción de la documentación, dará a conocer a los aspirantes los resultados del proceso de selección, a fin de determinar el grupo idóneo de aspirantes de quienes turnará los expedientes al CEACC y devolverá toda la documentación recibida a aquellos que no hubiesen sido seleccionados.
 
-### CAPÍTULO V. DE LA FORMACIÓN INICIAL
+El CEACC, una vez que reciba la documentación de los aspirantes seleccionados por el Instituto, los citará por conducto de la propia institución e iniciará el proceso de certificación.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE MAYO DE 2012)</small>
+
+### CAPÍTULO IV Bis. DE LA CERTIFICACIÓN
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2012)</small>
+
+###### Artículo 47. Bis.
+
+La certificación es el proceso mediante el cual, los aspirantes a ingresar a la Policía Estatal, se someten a las evaluaciones establecidas por el CEACC, para acreditar el cumplimiento de los perfiles de personalidad, éticos, socioeconómicos, médicos y control de confianza, en las evaluaciones para ingreso, permanencia y promoción.
 
 ###### Artículo 48.
 
 El Instituto, una vez que reciba los resultados por parte del CEACC, hará oficialmente del conocimiento del aspirante, la procedencia o improcedencia de los exámenes correspondientes, así como la fecha de nueva aplicación de que se trate, si así procediera, por acuerdo del CEACC.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2012)</small>
+
 ###### Artículo 49.
 
-El aspirante que hubiese aprobado la evaluación a que se refiere el presente capítulo, deberá recibir el curso de formación inicial, el cual comprenderá los contenidos mínimos y las equivalencias de los planes y programas validados por la instancia correspondiente del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública y en su caso por la Secretaría de Educación del Estado de Durango.
+El aspirante que obtenga la certificación para ingreso al Instituto, deberá recibir el curso de formación inicial, el cual comprenderá los contenidos mínimos y las equivalencias de los planes y programas validados por la instancia correspondiente del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública y en su caso por la Secretaría de Educación del Estado de Durango.
 
-### CAPÍTULO VI. DEL INGRESO
+### CAPÍTULO V. DE LA FORMACIÓN INICIAL
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2012)</small>
 
 ###### Artículo 50.
 
-Quienes como resultado de la aplicación de los exámenes de selección de aspirantes, ingresen al curso de formación inicial, serán considerados como Cadetes.
+Quienes como resultado del proceso de certificación, ingresen al curso de formación inicial, serán considerados como Cadetes.
 
 ###### Artículo 51.
 
@@ -591,7 +611,7 @@ La formación inicial, permite que los Cadetes que aspiran a ingresar a la Carre
 
 Desde el momento en que se recibe la formación inicial, todos los Cadetes se sujetarán a las dispersiones (sic) aplicables a los reglamentos interior, académico, de orden y disciplina del Instituto.
 
-### CAPÍTULO VII. DE LAS JERARQUÍAS Y LOS GRADOS
+### CAPÍTULO VI. DEL INGRESO
 
 ###### Artículo 53.
 
@@ -621,7 +641,7 @@ IV. Que presenten los exámenes relativos al procedimiento de promoción del úl
 
 Para efectos de reingreso, el Policía que se hubiere separado voluntariamente del Servicio, su reingreso será en misma la (sic) categoría, grado y nivel o grado académico que hubiere obtenido durante su carrera en activo.
 
-### CAPÍTULO VIII. DE LA FORMACIÓN CONTINUA Y ESPECIALIZADA
+### CAPÍTULO VII. DE LAS JERARQUÍAS Y LOS GRADOS
 
 ###### Artículo 58.
 
@@ -707,7 +727,7 @@ V. Reunir los requisitos de antigüedad y edad máxima de permanencia de la jera
 
 La movilidad horizontal, se desarrollará dentro de la Policía Estatal y entre otras corporaciones policiales en las que se cumplan las condiciones de equivalencia y afinidad entre los cargos horizontales, en base al perfil del grado del policía. En caso de que este movimiento implique mayor complejidad, responsabilidad y riesgo en el ejercicio de su encargo, al que aspire, tanto dentro de la Policía Estatal o entre corporación policial diversa, deberá considerarse una retribución adicional.
 
-### CAPÍTULO IX. DE LA PERMANENCIA
+### CAPÍTULO VIII. DE LA FORMACIÓN CONTINUA Y ESPECIALIZADA
 
 ###### Artículo 65.
 
@@ -729,57 +749,109 @@ Dentro de la etapa de formación continua, se prevé la elevación de los nivele
 
 La Comisión de Carrera Policial, en coordinación con el Instituto, promoverá ante la Secretaría de Educación del Estado de Durango, la suscripción de convenios de colaboración, para desarrollar en la Policía Estatal, programas de educación media superior abiertos.
 
-### CAPÍTULO X. DE LA PROMOCIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE MAYO DE 2012)</small>
+
+### CAPÍTULO IX. DE LA EVALUACIÓN Y DE LA PERMANENCIA
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2012)</small>
 
 ###### Artículo 70.
 
-La Evaluación para la permanencia de los elementos de la Policía Estatal, permite evaluarlos tanto en forma individual como colectiva, los aspectos cualitativos y cuantitativos de actuación del Policía, considerando su conocimiento y cumplimiento de las funciones y metas en función de las habilidades, aptitudes, actitudes, capacidades, formación recibida e impartida, rendimiento profesional y su adecuación al puesto, evaluaciones que serán obligatorias y periódicas como requisito de permanencia en la Carrera Policial.
+La Evaluación permite examinar a los elementos de la Policía Estatal, tanto en forma individual como colectiva, en los aspectos cualitativos y cuantitativos, con objeto de ponderar su desempeño y rendimiento profesional, tomando en cuenta los resultados de la formación inicial, continua y especializada, promociones obtenidas, así mismo, se deberá acreditar que el policía ha desarrollado y mantiene actualizado el perfil del puesto y aptitudes requeridas para el desempeño de su cargo o comisión, dichas evaluaciones serán obligatorias y periódicas
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2012)</small>
 
 ###### Artículo 71.
 
-La Comisión de Carrera Policial podrá realizar la depuración de los elementos de la policía, el cual se realizara de conformidad con los siguientes criterios:
+El proceso de evaluación, está integrado por exámenes de:
 
-I. Resultados de la formación inicial, continua y especializada;
+I. Control de Confianza;
 
-II. Número de faltas de asistencia injustificadas, de incumplimiento de servicios o de órdenes de servicio;
+II. Habilidades, destrezas y conocimientos de la actuación policial, y
 
-III. Sanciones y correcciones disciplinarias impuestas;
+III. Desempeño policial.
 
-IV. Resultados de los exámenes de control de confianza (toxicológico, médico, estudio de personalidad, de conocimientos, habilidades, técnicas y conocimientos de la función policial) y cualquier otro que se les hubiere aplicado;
-
-V. Ponderación de su hoja de servicios, y
-
-VI. Edad de retiro.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2012)</small>
 
 ###### Artículo 72.
 
-La Comisión de Carrera Policial en consecuencia, acordará que el Instituto aplique una evaluación a los policías, de conformidad con el perfil de grado, con objeto de:
+La Comisión de Carrera Policial, acordará que el Instituto y el CEACC, apliquen las evaluaciones respectivas a los policías, con objeto de determinar:
 
-l. Determinar si los policías tienen derecho a conservar la categoría o grado, en los términos de la distribución previamente llevada a cabo, y
+I. Si los policías mantienen los requisitos de ingreso y permanencia exigidos por la Ley;
 
-II. Determinar si los policías tienen derecho a una promoción.
+II. El dominio de las destrezas, habilidades y conocimientos de actuación policial, y
+
+III. Su desempeño en la ejecución de su actuación policial.
 
 ###### Artículo 73.
 
 La evaluación para la permanencia, tiene por objeto ponderar el desempeño y rendimiento profesional de los Policías Estatales, tomando en cuenta los resultados de la formación inicial, continua y especializada y sus promociones obtenidas y deberá acreditar, que el Policía ha desarrollado y mantiene actualizado el perfil del puesto y aptitudes requeridas para el desempeño de sus funciones, cargo o comisión.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2012)</small>
+
 ###### Artículo 74.
 
-Los Policías, serán citados a la práctica de los exámenes que integran esta evaluación en cualquier tiempo y en caso de no presentarse sin mediar causa justificada en el lugar y hora que determine el CEACC, se les tendrá por no aprobados.
+Los Policías, serán citados a la práctica de los exámenes que integran el proceso de evaluación en cualquier tiempo y en caso de no presentarse sin mediar causa justificada en el lugar y hora que determine la instancia evaluadora, se les tendrá por no aprobados.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2012)</small>
 
 ###### Artículo 75.
 
-La evaluación para la permanencia en el servicio será requisito indispensable para la estabilidad jurídico-administrativa del Policía. En caso de obtener un resultado no apto, el CEACC lo dará a conocer la (sic) Instituto y éste lo notificará a su vez, a la Dirección de Asuntos Internos de la corporación, para que se inicie el procedimiento administrativo en forma de juicio correspondiente.
+La evaluación será requisito indispensable para conservar la relación jurídico - administrativa del Policía con la Secretaría. En caso de obtener un resultado no apto, el CEACC lo dará a conocer al Instituto y éste lo notificará a su vez a la Dirección de Asuntos Internos de la corporación para que se inicie en forma de juicio el procedimiento administrativo correspondiente.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2012)</small>
 
 ###### Artículo 76.
 
-La Evaluación para la Permanencia consistirá en los exámenes obligatorios establecidos por el CEACC, de acuerdo a los lineamientos exigidos por el Centro Nacional de Acreditación y Control de Confianza.
+La Evaluación de control de confianza, consistirá en los exámenes obligatorios establecidos por el CEACC de acuerdo a los lineamientos exigidos por el Centro Nacional de Certificación y Acreditación.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2012)</small>
 
 ###### Artículo 77.
 
-Posterior a los exámenes practicados por el CEACC, el Instituto realizará a quienes hayan resultados aptos, el examen de habilidades, destrezas y conocimientos de la función policial que comprenderán pruebas homologadas de los conocimientos mínimos que deben poseer los elementos policiales, con base en los instrumentos emitidos por el Sistema Nacional de Seguridad Pública que cumplan con los requerimientos de validez, objetividad, certeza y confiabilidad.
+Las evaluaciones de habilidades, destrezas y conocimientos de la función y desempeño policial, comprenderán pruebas homologadas de los conocimientos mínimos que deben poseer los elementos policiales, aplicados por el Instituto, con base en el programa rector de profesionalización emitidos por el Sistema Nacional de Seguridad Pública.
 
-### CAPÍTULO XI. DE LAS PROMOCIONES POR MÉRITO ESPECIAL
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2012)</small>
+
+###### Artículo 77 Bis.
+
+La permanencia, es el resultado del cumplimiento constante de los requisitos exigidos por la Ley, para continuar en el servicio activo de la Policía Estatal.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2012)</small>
+
+###### Artículo 77 Bis 1.
+
+Los requisitos de ingreso y permanencia que deben mantener los policías, dentro de la carrera policial son;
+
+I. Mantener los requisitos de ingreso vigentes, a que se refiere el reclutamiento, durante todo el servicio. En el caso de comprobarse por los medios idóneos que dichos requisitos no permanecen o que se haya presentado documentos falsos para acreditarlos, se procederá el cese inmediato del policía de que se trate, en cualquier tiempo;
+
+II. Aprobar las evaluaciones relativas a la formación inicial, continua y especializada, las de habilidades, destrezas y conocimientos de la actuación policial, así como las de desempeño policial. Cuando el policía no apruebe una evaluación, deberá presentarla nuevamente en u (sic) período no menor de sesenta días naturales ni mayor de ciento veinte días, después de que se le notifique el resultado. El Instituto deberá proporcionarle la capacitación necesaria antes de la segunda evaluación; de no aprobar la segunda evaluación, se procederá al cese del policía, de la corporación Estatal y causará baja del registro de personal de seguridad pública;
+
+III. Aprobar los exámenes periódicos y permanentes de evaluación, los cuales se realizarán en cualquier tiempo, de acuerdo con la normatividad del Instituto y del CEACC;
+
+IV. Aprobar las evaluaciones a que se refiere la etapa de promoción de éste reglamento;
+
+V. Encontrarse en el rango de edad, correspondiente a su categoría o grado, y
+
+VI. Observar las prohibiciones, los principios de actuación policial y las obligaciones a que se refiere la Ley.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2012)</small>
+
+###### Artículo 77 Bis 2.
+
+La Comisión de Carrera Policial, deberá realizar la depuración de los elementos de la policía Estatal, en cualquier tiempo, de conformidad con lo siguiente:
+
+I. Resultados no favorables en los procesos de evaluación para el ingreso, permanencia y promoción dentro de la Carrera Policial;
+
+II. Número de faltas de asistencia injustificadas, de incumplimiento de servicios o de órdenes de servicio;
+
+III. Sanciones y correcciones disciplinarias impuestas, y
+
+IV. Edad de retiro.
+
+Si el resultado de las evaluaciones para la permanencia no es favorable para permanecer en el servicio activo, se estará a lo previsto y sancionado por el Artículo 123, Apartado B, Fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos.
+
+### CAPÍTULO X. DE LA PROMOCIÓN
 
 ###### Artículo 78.
 
@@ -985,7 +1057,7 @@ A juicio de la Comisión de Carrera Policial, se valorarán y dictaminarán los 
 
 En cualquier caso se citará y escuchará previamente al Policía para que exprese lo que a sus intereses convenga.
 
-### CAPÍTULO XII. DEL ESCALAFÓN
+### CAPÍTULO XI. DE LAS PROMOCIONES POR MÉRITO ESPECIAL
 
 ###### Artículo 94.
 
@@ -995,7 +1067,7 @@ I. Que en el acto hubieren salvado la vida o vidas de personas con riesgo de la 
 
 II. Que el acto salve bienes del Municipio, Estado o de la nación, con riesgo de su vida.
 
-### CAPÍTULO XIII. DE LOS ESTÍMULOS Y RECOMPENSAS
+### CAPÍTULO XII. DEL ESCALAFÓN
 
 ###### Artículo 95.
 
@@ -1049,7 +1121,7 @@ VI. La preservación de los requisitos de permanencia a que se refiere el Proced
 
 Cuando surja una vacante por incapacidad, licencia o suspensión y ésta no exceda de seis meses, no se moverá el escalafón y el Comisario General de la Policía Estatal, podrá nombrar un encargado por tiempo determinado, a favor de cualquier Policía, para que cubra el interinato.
 
-### CAPÍTULO XIV. DE LOS ESTÍMULOS
+### CAPÍTULO XIII. DE LOS ESTÍMULOS Y RECOMPENSAS
 
 ###### Artículo 102.
 
@@ -1062,6 +1134,8 @@ Los estímulos y recompensas, tienen por objeto, fomentar la calidad, efectivida
 ###### Artículo 104.
 
 La Policía Estatal, de conformidad con el presente procedimiento y en base a los méritos en servicio, los mejores resultados en la formación inicial, continua y especializada, capacidad y acciones relevantes en el servicio, propondrá anualmente a la Comisión de Carrera Policial, nombres de policías merecedores de estímulos y recompensas, para que ésta analice la propuesta y de manera colegiada, resuelva lo procedente, de conformidad con la disponibilidad presupuestal.
+
+### CAPÍTULO XIV. DE LOS ESTÍMULOS
 
 ###### Artículo 105.
 
@@ -1099,6 +1173,62 @@ En ningún caso serán elegibles al pago de recompensas, los Policías que tenga
 
 Si un policía pierde la vida al realizar actos que merecieran el otorgamiento de algún estímulo o recompensa, mediante acuerdo, la Comisión de Carrera Policial se lo otorgará a título post-mortem a sus deudos.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 2012)</small>
+
+### CAPÍTULO XV. DE LA CONCLUSIÓN DEL SERVICIO
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2012)</small>
+
+###### Artículo 114.
+
+La conclusión del servicio, es el proceso mediante el cual se da por terminada de manera definitiva, la relación jurídico-administrativa del policía Estatal con la Secretaría.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2012)</small>
+
+###### Artículo 115.
+
+La conclusión del servicio de los policías estatales, será por causas legalmente establecidas en la ley, a fin de preservar los requisitos de permanencia en la Policía Estatal y los principios constitucionales de legalidad, objetividad, eficiencia, honradez y respeto a los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2012)</small>
+
+###### Artículo 116.
+
+Las causales de conclusión del servicio son:
+
+I. Solicitud del propio policía;
+
+II. Por incapacidad;
+
+III. Por jubilación;
+
+IV. Por muerte, y
+
+V. Por cese en los términos de ley.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2012)</small>
+
+###### Artículo 117.
+
+El policía que así lo decida, podrá solicitar al Comisario General, su conclusión del servicio en los términos establecidos en el reglamento interior de la Policía Estatal.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2012)</small>
+
+###### Artículo 118.
+
+Para efectos de la conclusión del servicio por incapacidad, se entenderá a aquella que lo imposibilite para prestar sus servicios como policía en forma continua e indefinida. En lo que se refiere a la jubilación o muerte, la conclusión del servicio será de forma directa e inmediata.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2012)</small>
+
+###### Artículo 119.
+
+El cese, procede por el incumplimiento de los requisitos de ingreso y permanencia que debe mantener en todo tiempo el policía o cuando en los procesos de promoción, concurran las siguientes circunstancias;
+
+I. Si hubiere sido convocado a tres procesos consecutivos de promoción, sin que se haya participado en los mismos o que habiendo participado en dichos procesos, no hubiese obtenido el grado inmediato superior que le correspondería, por causas imputables a él;
+
+II. Que haya alcanzado la edad máxima correspondiente a su jerarquía, de acuerdo a lo establecido en éste mismo reglamento, y
+
+III. Que del expediente del integrante, no se desprendan méritos suficientes, a juicio de la Comisión de Carrera Policial, para acredita (sic) su permanencia.
+
 T R A N S I T O R l O S
 
 Primero. El presente Reglamento, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
@@ -1122,3 +1252,11 @@ ING. HÉCTOR EDUARDO VELA VALENZUELA
 EL SECRETARIO DE SEGURIDAD PÚBLICA DEL ESTADO
 
 LIC. JESÚS ANTONIO ROSSO HOLGUÍN.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE MAYO DE 2012.
+
+Primero.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al contenido del presente decreto.
