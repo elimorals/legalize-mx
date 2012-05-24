@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-visitas-y-estadias-de-la-universidad-69622"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-07-09"
-last_updated: "2009-07-09"
+last_updated: "2012-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69622&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO DE VISITAS Y ESTADIAS DE LA UNIVERSIDAD TECNOLOGICA DEL SUR DEL ESTADO DE MEXICO
 
-REGLAMENTO DE VISITAS Y ESTADIAS
+REGLAMENTO DE VISITAS Y ESTADÍAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE VISITAS Y ESTADÍAS PROFESIONALES DE LA UNIVERSIDAD TECNOLÓGICA DEL SUR DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 24 DE MAYO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el jueves 9 de julio de 2009.
 
@@ -244,3 +246,13 @@ M.T.I. HECTOR PEÑA CAMPUZANO
 ENCARGADO DE LA RECTORIA DE LA UNIVERSIDAD TECNOLÓGICA DEL SUR DEL ESTADO DE MÉXICO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 24 DE MAYO DE 2012.
+
+PRIMERO. Publíquense (sic) el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Reglamento entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+TERCERO. Se abroga el Reglamento de Visitas y Estadías de la Universidad Tecnológica del Sur del Estado de México, aprobado en sesión ordinaria de fecha veintidós de junio de mil novecientos noventa y nueve del H. Consejo Directivo de la Universidad Tecnológica del Sur del Estado de México, publicado en el Órgano Oficial de Comunicación de la Universidad, Semblanza Universitaria, Separata, de fecha 2 de noviembre de dos mil y reformas aprobadas en sesión ordinaria de fecha veinte de mayo de dos mil nueve, del H. Consejo Directivo de la Universidad Tecnológica del Sur del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno" de fecha nueve de julio de dos mil nueve.
