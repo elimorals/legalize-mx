@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-financiera-nacional-de-desarrollo-30022
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-04-21"
-last_updated: "2012-01-18"
+last_updated: "2012-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30022&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-04-09"
 
 ESTATUTO ORGÁNICO DE LA FINANCIERA RURAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MAYO DE 2012.
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 21 de abril de 2003.
 
@@ -377,17 +377,15 @@ c). Las propuestas de acciones correctivas necesarias como resultado de una desv
 
 VIII. Coordinar la investigación y documentación de las causas que originan desviaciones a los límites establecidos de exposición al riesgo, identificar si dichas desviaciones se presentan en forma reiterada e informar de manera oportuna sus resultados al Comité de Administración Integral de Riesgos, a la Dirección General y al responsable de las funciones de auditoría interna;
 
-> <small>(REFORMADA, D.O.F. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2012)</small>
 
-IX. Recomendar a la Dirección General y al Consejo apoyado por el Comité de Administración Integral de Riesgos, disminuciones a las exposiciones observadas y/o modificaciones a los límites globales y específicos de exposición al riesgo y niveles de tolerancia según sea el caso;
+IX. Recomendar a la Dirección General y al Consejo apoyado por el Comité de Administración Integral de Riesgos, disminuciones a las exposiciones observadas y/o modificaciones a los límites globales y específicos de exposición al riesgo y niveles de tolerancia según sea el caso; y
 
-> <small>(REFORMADA, D.O.F. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2012)</small>
 
-X. Presentar al Comité de Administración Integral de Riesgos, las metodologías para la valuación, medición y control de los riesgos de nuevas operaciones, productos y servicios, así como la identificación de los riesgos implícitos que presentan; y
+X. Presentar al Comité de Administración Integral de Riesgos, las metodologías para la valuación, medición y control de los riesgos de nuevas operaciones, productos y servicios, así como la identificación de los riesgos implícitos que presentan.
 
-> <small>(ADICIONADA, D.O.F. 31 DE MAYO DE 2011)</small>
-
-XI. Dirigir y coordinar los trabajos para la calificación de la cartera crediticia e integración de la información para su presentación y autorización por parte de las instancias correspondientes.
+XI. (DEROGADA, D.O.F. 24 DE MAYO DE 2012)
 
 ###### ARTICULO 18.
 
@@ -465,7 +463,7 @@ XI. Realizar las demás funciones y/o responsabilidades que dentro del ámbito d
 
 (DEROGADO, D.O.F. 23 DE JULIO DE 2008)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 23.
 
@@ -697,7 +695,7 @@ ARTICULO 25 QUATER.- Corresponde al Prosecretario del Consejo coadyuvar con el S
 
 El Prosecretario del Consejo podrá ejercer indistintamente y en cualquier momento las atribuciones del Secretario a que hacen referencia las fracciones V y VI del artículo 15 del presente Estatuto.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 26.
 
@@ -803,7 +801,7 @@ VII. Llevar a cabo las demás actividades dentro del área de su competencia, qu
 
 ARTICULO 27 BIS.- (DEROGADO, D.O.F. 30 DE MARZO DE 2011)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE JUNIO DE 2009)</small>
 
 ARTICULO 27 TER.- Corresponde a la Subdirección Corporativa de Coordinación y Evaluación Regional:
 
@@ -925,9 +923,17 @@ XII. Coordinar el seguimiento de la atención de las peticiones de información 
 
 XIII. Dirigir la administración de los contenidos de la página de Internet e Intranet de la institución y coordinar su actualización con todas las áreas responsables de la información;
 
-XIV. Dirigir y supervisar la labor del Call Center Institucional; y
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2012)</small>
 
-XV. Las demás que le encomiende el Director General Adjunto de Planeación Estratégica y Análisis Sectorial en el ámbito de su competencia.
+XIV. Dirigir y supervisar la labor del Call Center Institucional;
+
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2012)</small>
+
+XV. Generar y actualizar un banco documental de imagen fija, video y audio, al alcance de las áreas sustantivas, sobre los proyectos e iniciativas apoyadas por la Financiera Rural, con el propósito de documentar experiencias y apoyar la producción de materiales audiovisuales de capacitación y difusión sobre el quehacer institucional, en los medios y soportes que requieran estos servicios; y
+
+> <small>(ADICIONADA, D.O.F. 24 DE MAYO DE 2012)</small>
+
+XVI. Las demás que le encomiende el Director General Adjunto de Planeación Estratégica y Análisis Sectorial en el ámbito de su competencia.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -991,13 +997,17 @@ XIII. Instrumentar las acciones de supervisión a los Almacenes Generales de Dep
 
 XIV. Instrumentar las acciones para el seguimiento al proceso de crédito;
 
-> <small>(ADICIONADA, D.O.F. 18 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2012)</small>
 
-XV. Dirigir las acciones de capacitación en materia de normatividad, procesos y análisis de crédito, de reporto y de otros financiamientos; y
+XV. Dirigir las acciones de capacitación en materia de normatividad, procesos y análisis de crédito, de reporto y de otros financiamientos;
 
-> <small>(ADICIONADA, D.O.F. 18 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2012)</small>
 
-XVI. Dictar las estrategias de recuperación, de casos particulares, en coordinación con el área jurídica.
+XVI. Dictar las estrategias de recuperación, de casos particulares, en coordinación con el área jurídica; y
+
+> <small>(ADICIONADA, D.O.F. 24 DE MAYO DE 2012)</small>
+
+XVII. Instrumentar las acciones para la calificación de la cartera crediticia.
 
 > <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
 
@@ -1061,13 +1071,17 @@ XV. Dirigir el seguimiento al proceso de crédito;
 
 XVI. Establecer la capacitación en materia de normatividad, procesos y análisis de crédito, de reporto y de otros financiamientos;
 
-> <small>(ADICIONADA, D.O.F. 18 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2012)</small>
 
-XVII. Vigilar la implementación de las estrategias de recuperación, de casos particulares, en coordinación con el área jurídica, y
+XVII. Vigilar la implementación de las estrategias de recuperación, de casos particulares, en coordinación con el área jurídica;
 
-> <small>(ADICIONADA, D.O.F. 18 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2012)</small>
 
-XVIII. Llevar a cabo las actividades dentro del área de su competencia que le encomiende el Director General Adjunto de Crédito.
+XVIII. Llevar a cabo las actividades dentro del área de su competencia que le encomiende el Director General Adjunto de Crédito; y
+
+> <small>(ADICIONADA, D.O.F. 24 DE MAYO DE 2012)</small>
+
+XIX. Dirigir el proceso de la calificación de la cartera crediticia.
 
 ###### ARTICULO 32.
 
@@ -1137,13 +1151,17 @@ VI BIS. Realizar el análisis para la resolución y otorgamiento de los crédito
 
 VII. Coordinar la agenda de asuntos sometidos a consideración del Comité de Crédito que deban ser turnados al Comité de Operación o Consejo Directivo, en materia de crédito, de reporto y de otros financiamientos;
 
-> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2012)</small>
 
-VIII. Coordinar las actividades internas y externas relacionadas con las Sociedades de Información Crediticia, y/o con las Instituciones de Banca de Desarrollo en lo relacionado a este tema; y
+VIII. Coordinar las actividades internas y externas relacionadas con las Sociedades de Información Crediticia, y/o con las Instituciones de Banca de Desarrollo en lo relacionado a este tema;
 
-> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2012)</small>
 
-IX. Llevar a cabo las actividades dentro del área de su competencia, que le encomiende el Director Ejecutivo de Análisis y Normatividad de Crédito.
+IX. Llevar a cabo las actividades dentro del área de su competencia, que le encomiende el Director Ejecutivo de Análisis y Normatividad de Crédito; y
+
+> <small>(ADICIONADA, D.O.F. 24 DE MAYO DE 2012)</small>
+
+X. Coordinar los trabajos de calificación de cartera e integración de la información para su presentación y autorización por parte de las instancias correspondientes.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -1231,7 +1249,7 @@ VIII. Coordinar las actividades de las Gerencias Regionales de Supervisión y Co
 
 IX. Llevar a cabo las actividades dentro del área de su competencia, que le encomiende el Director Ejecutivo de Análisis y Normatividad de Crédito.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 37.
 
@@ -1301,7 +1319,7 @@ XVI. Dirigir la instrumentación de productos y programas de atención a los seg
 
 XVII. (DEROGADA, D.O.F. 19 DE JUNIO DE 2009)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 38.
 
@@ -1361,7 +1379,7 @@ V. Solicitar información relacionada con el ejercicio de sus atribuciones a los
 
 VI. Coordinar las acciones previstas en los programas para la inscripción de prestadores de servicios en la Red de Prestadores de Servicios de la Financiera Rural.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 40.
 
@@ -1409,7 +1427,7 @@ ARTICULO 40 BIS.- (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2008)
 
 (DEROGADO, D.O.F. 23 DE ENERO DE 2008)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE ENERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE ENERO DE 2010)</small>
 
 ARTICULO 41 BIS.- Corresponde a la Dirección Ejecutiva de Programas y Productos:
 
@@ -1603,7 +1621,7 @@ XIV. Dirigir la instrumentación de las políticas para la conformación de arch
 
 XV. Instrumentar, resolver y ejecutar los procedimientos de rescisión administrativa, terminación anticipada y suspensión que se implementen en la Financiera Rural, derivados de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas y sus respectivos reglamentos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 45.
 
@@ -2001,7 +2019,7 @@ XIII. Llevar a cabo las demás actividades dentro del área de su competencia, q
 
 ### CAPITULO V. DE LAS COORDINACIONES REGIONALES
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 51.
 
@@ -2141,7 +2159,7 @@ VI. Llevar a cabo las demás actividades dentro del área de su competencia, que
 
 ### CAPITULO VI. NUMERO Y CIRCUNSCRIPCION DE LAS COORDINACIONES REGIONALES
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 55.
 
@@ -2177,7 +2195,7 @@ III. Sinaloa, y
 
 IV. Sonora.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 57.
 
@@ -2211,7 +2229,7 @@ IV. Tamaulipas, y
 
 V. Durango.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 58.
 
@@ -2529,11 +2547,13 @@ II. El Director General Adjunto de Crédito;
 
 III. El Titular de la Unidad para la Administración Integral de Riesgos;
 
-IV. Dos expertos independientes designados por el Consejo a propuesta del Director General;
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2012)</small>
 
-> <small>(REFORMADA, D.O.F. 31 DE MAYO DE 2011)</small>
+IV. Tres expertos independientes designados por el Consejo a propuesta del Director General;
 
-V. Como miembro del Consejo, un representante del Banco de México, y (sic)
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2012)</small>
+
+V. Un representante del Banco de México, como miembro del Consejo Directivo;
 
 VI. El Titular del Organo Interno de Control en calidad de asesor.
 
@@ -2631,7 +2651,7 @@ En cumplimiento del Acuerdo Segundo de la referida sesión, que me instruye para
 
 México, D.F., a 9 de abril de 2003.- El Director General de la Financiera Rural, José Antonio Meade Kuribreña.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
 
 D.O.F. 17 DE NOVIEMBRE DE 2003.
 
@@ -2732,3 +2752,7 @@ UNICO.- El H. Consejo Directivo de Financiera Rural, con fundamento en los artí
 D.O.F. 18 DE ENERO DE 2012.
 
 UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE MAYO DE 2012.
+
+PRIMERO (SIC).- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
