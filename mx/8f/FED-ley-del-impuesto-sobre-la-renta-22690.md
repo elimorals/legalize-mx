@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-la-renta-22690"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-01"
-last_updated: "2010-12-31"
+last_updated: "2012-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22690&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISR"
 
 LEY DEL IMPUESTO SOBRE LA RENTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE MAYO DE 2012.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 1 de enero de 2002.
 
@@ -178,7 +178,7 @@ Cuando en esta Ley se haga mención a persona moral, se entienden comprendidas, 
 
 En los casos en los que se haga referencia a acciones, se entenderán incluidos los certificados de aportación patrimonial emitidos por las sociedades nacionales de crédito, las partes sociales, las participaciones en asociaciones civiles y los certificados de participación ordinarios emitidos con base en fideicomisos sobre acciones que sean autorizados conforme a la legislación aplicable en materia de inversión extranjera; asimismo, cuando se haga referencia a accionistas, quedarán comprendidos los titulares de los certificados a que se refiere este párrafo, de las partes sociales y de las participaciones señaladas. Tratándose de sociedades cuyo capital esté representado por partes sociales, cuando en esta Ley se haga referencia al costo comprobado de adquisición de acciones, se deberá considerar la parte alícuota que representen las partes sociales en el capital social de la sociedad de que se trate.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -264,13 +264,13 @@ El valor del inventario al inicio del ejercicio será el que correspondió al in
 
 ## TÍTULO II. DE LAS PERSONAS MORALES DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 10.
 
 Las personas morales deberán calcular el impuesto sobre la renta, aplicando al resultado fiscal obtenido en el ejercicio la tasa del 28%.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
 El resultado fiscal del ejercicio se determinará como sigue:
 
@@ -286,13 +286,13 @@ El impuesto del ejercicio se pagará mediante declaración que presentarán ante
 
 Las personas morales que realicen exclusivamente actividades agrícolas, ganaderas, pesqueras o silvícolas, podrán aplicar lo dispuesto en el penúltimo párrafo del artículo 81 de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 11.
 
 Las personas morales que distribuyan dividendos o utilidades deberán calcular y enterar el impuesto que corresponda a los mismos, aplicando la tasa establecida en el artículo 10 de esta Ley. Para estos efectos, los dividendos o utilidades distribuidos se adicionarán con el impuesto sobre la renta que se deba pagar en los términos de este artículo. Para determinar el impuesto que se debe adicionar a los dividendos o utilidades, éstos se deberán multiplicar por el factor de 1.3889 y al resultado se le aplicará la tasa establecida en el citado artículo 10 de esta Ley. El impuesto correspondiente a las utilidades distribuidas a que se refiere el artículo 89 de esta Ley, se calculará en los términos de dicho precepto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -306,7 +306,7 @@ No se estará obligado al pago del impuesto a que se refiere este artículo cuan
 
 El impuesto a que se refiere este artículo, se pagará además del impuesto del ejercicio a que se refiere el artículo 10 de esta Ley, tendrá el carácter de pago definitivo y se enterará ante las oficinas autorizadas, a más tardar el día 17 del mes inmediato siguiente a aquél en el que se pagaron los dividendos o utilidades.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 Cuando los contribuyentes a que se refiere este artículo distribuyan dividendos o utilidades y como consecuencia de ello paguen el impuesto que establece este artículo, podrán acreditar dicho impuesto de acuerdo a lo siguiente:
 
@@ -326,7 +326,7 @@ Para los efectos de este artículo, no se considerarán dividendos o utilidades 
 
 Las personas morales que distribuyan los dividendos o utilidades a que se refiere el artículo 165 fracciones I y II de esta Ley, calcularán el impuesto sobre dichos dividendos o utilidades aplicando sobre los mismos la tasa establecida en el artículo 10 de esta Ley. Este impuesto tendrá el carácter de definitivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 12.
 
@@ -380,7 +380,7 @@ Tratándose del segundo ejercicio fiscal, el primer pago provisional comprender�
 
 Cuando en el último ejercicio de doce meses no resulte coeficiente de utilidad conforme a lo dispuesto en esta fracción, se aplicará el correspondiente al último ejercicio de doce meses por el que se tenga dicho coeficiente, sin que ese ejercicio sea anterior en más de cinco años a aquél por el que se deban efectuar los pagos provisionales.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 II. La utilidad fiscal para el pago provisional se determinará multiplicando el coeficiente de utilidad que corresponda conforme a la fracción anterior, por los ingresos nominales correspondientes al periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que se refiere el pago.
 
@@ -390,7 +390,7 @@ Las personas morales que distribuyan anticipos o rendimientos en los términos d
 
 A la utilidad fiscal determinada conforme a esta fracción se le restará, en su caso, la pérdida fiscal de ejercicios anteriores pendiente de aplicar contra las utilidades fiscales, sin perjuicio de disminuir dicha pérdida de la utilidad fiscal del ejercicio.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 III. Los pagos provisionales serán las cantidades que resulten de aplicar la tasa establecida en el artículo 10 de esta Ley, sobre la utilidad fiscal que se determine en los términos de la fracción que antecede, pudiendo acreditarse contra el impuesto a pagar los pagos provisionales del mismo ejercicio efectuados con anterioridad. También podrá acreditarse contra dichos pagos provisionales la retención que se le hubiera efectuado al contribuyente en el periodo, en los términos del artículo 58 de la misma.
 
@@ -540,7 +540,7 @@ XI. El ajuste anual por inflación que resulte acumulable en los términos del a
 
 XII. Las cantidades recibidas en efectivo, en moneda nacional o extranjera, por concepto de préstamos, aportaciones para futuros aumentos de capital o aumentos de capital mayores a $600,000.00, cuando no se cumpla con lo previsto en el artículo 86-A de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 21.
 
@@ -578,7 +578,7 @@ VIII. La ganancia acumulable o la pérdida deducible de las operaciones financie
 
 Las cantidades acumuladas o deducidas en los términos de esta fracción, en los ejercicios anteriores a aquél en el que venza la operación de que se trate, se disminuirán o se adicionarán, respectivamente, del resultado neto que tenga la operación en la fecha de su vencimiento; el resultado así obtenido será la ganancia acumulable o la pérdida deducible, del ejercicio en que ocurra el vencimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 IX. Tratándose de operaciones financieras derivadas por medio de las cuales una parte entregue recursos líquidos a otra y esta última, a su vez, garantice la responsabilidad de readquirir las mercancías, los títulos o las acciones, referidos en la operación, por un monto igual al entregado por la primera parte más un cargo proporcional, se considerará dicho cargo proporcional como interés a favor o a cargo, acumulable o deducible, según corresponda.
 
@@ -774,7 +774,7 @@ Las deducciones autorizadas en este Título deberán reunir los siguientes requi
 
 I. Ser estrictamente indispensables para los fines de la actividad del contribuyente, salvo que se trate de donativos no onerosos ni remunerativos, que satisfagan los requisitos previstos en esta Ley y en las reglas generales que para el efecto establezca el Servicio de Administración Tributaria y que se otorguen en los siguientes casos:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -804,7 +804,7 @@ El monto total de los donativos a que se refiere esta fracción será deducible 
 
 II. Que cuando esta Ley permita la deducción de inversiones se proceda en los términos de la Sección II de este Capítulo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE JUNIO DE 2006)</small>
 
 III. Estar amparadas con documentación que reúna los requisitos de las disposiciones fiscales y que los pagos cuyo monto exceda de $2,000.00 se efectúen mediante cheque nominativo del contribuyente, tarjeta de crédito, de débito o de servicios, o a través de los monederos electrónicos que al efecto autorice el Servicio de Administración Tributaria, excepto cuando dichos pagos se hagan por la prestación de un servicio personal subordinado.
 
@@ -818,7 +818,7 @@ Las autoridades fiscales podrán liberar de la obligación de pagar las erogacio
 
 Cuando los pagos se efectúen mediante cheque nominativo, éste deberá ser de la cuenta del contribuyente y contener su clave del Registro Federal de Contribuyentes así como, en el anverso del mismo la expresión "para abono en cuenta del beneficiario".
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -892,11 +892,11 @@ XV. Que en el caso de adquisición de mercancías de importación, se compruebe 
 
 XVI. En el caso de pérdidas por créditos incobrables, éstas se consideren realizadas en el mes en el que se consuma el plazo de prescripción, que corresponda, o antes si fuera notoria la imposibilidad práctica de cobro.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 Para los efectos de este artículo, se considera que existe notoria imposibilidad práctica de cobro, entre otros, en los siguientes casos:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
 a) Tratándose de créditos cuya suerte principal al día de su vencimiento no exceda de treinta mil unidades de inversión, cuando en el plazo de un año contado a partir de que incurra en mora, no se hubiera logrado su cobro. En este caso, se considerarán incobrables en el mes en que se cumpla un año de haber incurrido en mora.
 
@@ -1004,7 +1004,7 @@ Cuando el total o una parte de los viáticos o gastos de viaje con motivo de sem
 
 VI. Las sanciones, las indemnizaciones por daños y perjuicios o las penas convencionales. Las indemnizaciones por daños y perjuicios y las penas convencionales, podrán deducirse cuando la Ley imponga la obligación de pagarlas por provenir de riesgos creados, responsabilidad objetiva, caso fortuito, fuerza mayor o por actos de terceros, salvo que los daños y los perjuicios o la causa que dio origen a la pena convencional, se hayan originado por culpa imputable al contribuyente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 VII. Los intereses devengados por préstamos o por adquisición, de valores a cargo del Gobierno Federal inscritos en el Registro Nacional de Valores e Intermediarios, así como tratándose de títulos de crédito o de créditos de los señalados en el artículo 9o. de esta Ley, cuando el préstamo o la adquisición se hubiera efectuado de personas físicas o personas morales con fines no lucrativos.
 
@@ -1064,7 +1064,7 @@ XVIII. Los gastos que se hagan en el extranjero a prorrata con quienes no sean c
 
 XIX. Las pérdidas que se obtengan en las operaciones financieras derivadas y en las operaciones a las que se refiere el artículo 23 de esta Ley, cuando se celebren con personas físicas o morales residentes en México o en el extranjero, que sean partes relacionadas en los términos del artículo 215 de esta Ley, cuando los términos convenidos no correspondan a los que se hubieren pactado con o entre partes independientes en operaciones comparables.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 XX. El 87.5% de los consumos en restaurantes. Para que proceda la deducción de la diferencia, el pago deberá hacerse invariablemente mediante tarjeta de crédito, de débito o de servicios, o a través de los monederos electrónicos que al efecto autorice el Servicio de Administración Tributaria. Serán deducibles al 100% los consumos en restaurantes que reúnan los requisitos de la fracción V de este artículo sin que se excedan los límites establecidos en dicha fracción. En ningún caso los consumos en bares serán deducibles. Tampoco serán deducibles los gastos en comedores que por su naturaleza no estén a disposición de todos los trabajadores de la empresa y aun cuando lo estén, éstos excedan de un monto equivalente a un salario mínimo general diario del área geográfica del contribuyente por cada trabajador que haga uso de los mismos y por cada día en que se preste el servicio, adicionado con las cuotas de recuperación que pague el trabajador por este concepto.
 
@@ -1116,7 +1116,7 @@ Las reservas para fondo de pensiones o jubilaciones de personal, complementarias
 
 I. Deberán crearse y calcularse en los términos y con los requisitos que fije el Reglamento de esta Ley y repartirse uniformemente en diez ejercicios. Dicho cálculo deberá realizarse cada ejercicio en el mes en que se constituyó la reserva.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
 
 II. La reserva deberá invertirse cuando menos en un 30% en valores a cargo del Gobierno Federal inscritos en el Registro Nacional de Valores e Intermediarios o en acciones de sociedades de inversión en instrumentos de deuda. La diferencia deberá invertirse en valores aprobados por la Comisión Nacional Bancaria y de Valores, como objeto de inversión de las reservas técnicas de las instituciones de seguros, o en la adquisición o construcción y venta de casas para trabajadores del contribuyente que tengan las características de vivienda de interés social, o en préstamos para los mismos fines, de acuerdo con las disposiciones reglamentarias, o en certificados de participación emitidos por las instituciones fiduciarias respecto de los fideicomisos a que se refiere el artículo 224 de esta Ley, o bien en acciones emitidas por las sociedades a que se refiere el artículo 224-A de la misma Ley, siempre que en estos dos últimos casos la inversión total no exceda del 10% de la reserva a que se refiere esta fracción.
 
@@ -1340,7 +1340,7 @@ I. Las reparaciones, así como las adaptaciones a las instalaciones se considera
 
 En ningún caso se considerarán inversiones los gastos por concepto de conservación, mantenimiento y reparación, que se eroguen con el objeto de mantener el bien de que se trate en condiciones de operación.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 II. Las inversiones en automóviles sólo serán deducibles hasta por un monto de $175,000.00.
 
@@ -1360,7 +1360,7 @@ VI. Las construcciones, instalaciones o mejoras permanentes en activos fijos tan
 
 VII. Tratándose de regalías, se podrá efectuar la deducción en los términos de la fracción III del artículo 39 de esta Ley, únicamente cuando las mismas hayan sido efectivamente pagadas.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 43.
 
@@ -1392,7 +1392,7 @@ I. Si se opta por transferir la propiedad del bien objeto del contrato mediante 
 
 II. Si se obtiene participación por la enajenación de los bienes a terceros, deberá considerarse como deducible la diferencia entre los pagos efectuados y las cantidades ya deducidas, menos el ingreso obtenido por la participación en la enajenación a terceros.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 #### SECCIÓN III. DEL COSTO DE LO VENDIDO
 
@@ -1576,33 +1576,33 @@ Los almacenes generales de depósito harán las deducciones a que se refiere est
 
 Cuando al término de un ejercicio proceda disminuir la reserva a que se refiere este artículo en relación con las constituidas en el ejercicio inmediato anterior, la diferencia se acumulará como ingreso en el ejercicio en que proceda la disminución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 50.
 
 Las sociedades de inversión de capitales podrán optar por acumular las ganancias por enajenación de acciones, los intereses y el ajuste anual por inflación, hasta el ejercicio en el que distribuyan dividendos a sus accionistas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 Las sociedades de inversión de capitales podrán optar por acumular los conceptos señalados en el párrafo anterior, hasta el ejercicio en el que distribuyan dividendos a sus accionistas, siempre que en el ejercicio de inicio de operaciones mantengan en promedio invertido cuando menos el 20% de sus activos en acciones de empresas promovidas, que en el segundo ejercicio de operaciones mantengan en promedio invertido cuando menos el 60% de sus activos en las acciones señaladas, que en el tercer ejercicio de operaciones mantengan en promedio invertido como mínimo el 70% de los activos en las acciones referidas y que a partir del cuarto ejercicio de operaciones mantengan en promedio invertido como mínimo el 80% de los citados activos en acciones de las empresas señaladas. Las sociedades de inversión de capitales deberán actualizar las ganancias por enajenación de acciones y los intereses, desde el mes en el que los obtengan y hasta el mes en el que distribuyan dividendos a sus accionistas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 Las sociedades que ejerzan la opción mencionada en el primer párrafo de este artículo, deducirán el ajuste anual por inflación deducible, los intereses actualizados, así como las pérdidas actualizadas por enajenación de acciones, en el ejercicio en el que distribuyan dividendos. Los intereses deducibles y la pérdida por enajenación de acciones se actualizarán por el periodo comprendido desde el mes en el que los intereses se hubieren devengado o la pérdida hubiere ocurrido y hasta el último mes del ejercicio en el que se deduzcan.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 El promedio invertido a que se refiere el segundo párrafo de este artículo, en cada uno de los dos primeros ejercicios de operaciones, se obtendrá dividiendo la suma de las proporciones diarias invertidas del ejercicio, entre el número de días del ejercicio. A partir del tercer ejercicio de operaciones el promedio invertido se obtendrá dividiendo la suma de las proporciones diarias invertidas en el ejercicio de que se trate y las que correspondan al ejercicio inmediato anterior, entre el total de días que comprendan ambos ejercicios. La proporción diaria invertida se determinará dividiendo el saldo de la inversión en acciones de empresas promovidas en el día de que se trate, entre el saldo total de sus activos del mismo día.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -1678,53 +1678,53 @@ Cuando al término de un ejercicio proceda disminuir las reservas a que se refie
 
 Los contribuyentes que hubieran adquirido bienes o derechos por dación en pago o por adjudicación, que no puedan conservar en propiedad por disposición legal, no podrán deducirlos conforme al artículo 29 de esta Ley. Para determinar la ganancia obtenida o la pérdida sufrida en la enajenación que realicen de los citados bienes o derechos, restarán al ingreso que obtengan por dicha enajenación en el ejercicio en el cual se enajene el bien o derecho, el costo comprobado de adquisición, el cual se podrá ajustar multiplicándolo por el factor de actualización correspondiente al periodo comprendido desde el mes en el que el bien o derecho fue adquirido por dación en pago o por adjudicación y hasta el mes inmediato anterior a la fecha en la que dicho bien o derecho sea enajenado a un tercero, por quien lo recibió en pago o por adjudicación. Tratándose de acciones, el monto que se restará en los términos de este párrafo, será el costo promedio por acción que se determine de acuerdo con lo dispuesto por el artículo 24 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 58.
 
 Las instituciones que componen el sistema financiero que efectúen pagos por intereses, deberán calcular el impuesto sobre la renta el último día del mes de calendario de que se trate aplicando la tasa establecida en el artículo 10 de esta Ley sobre el monto de los intereses reales positivos devengados a favor del contribuyente durante dicho mes. La retención del impuesto sobre la renta se deberá efectuar el día siguiente a aquél en el que dicho impuesto se haya calculado. Esta retención se considerará como pago definitivo del impuesto sobre la renta y se enterará ante las oficinas autorizadas dentro de los tres días hábiles siguientes a aquél en el que se hubiese efectuado la misma. Las personas morales residentes en México deberán considerar la citada retención como pago provisional del impuesto sobre la renta, en tanto que los residentes en el extranjero estarán a lo dispuesto en el artículo 195 de la presente Ley por los ingresos por intereses que obtengan de fuente de riqueza ubicada en territorio nacional.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 La retención a que se refiere este artículo, se efectuará sobre los fondos líquidos disponibles que existan en las cuentas o activos financieros del contribuyente de que se trate en el mes por el que se calcula el impuesto. Cuando no existan fondos líquidos disponibles en las cuentas o activos financieros o estos fondos no sean suficientes para efectuar la retención del impuesto sobre la renta, las instituciones integrantes del sistema financiero efectuarán la retención total o parcial del impuesto pendiente de retención que corresponda de manera inmediata, en el momento en el que por cualquier motivo existan fondos líquidos disponibles en las cuentas o activos financieros del contribuyente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 El impuesto pendiente de retención se actualizará conforme a lo establecido en el artículo 58-B de esta Ley, hasta el día en el que se lleve a cabo su pago.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 Cuando se realice la cancelación, enajenación o traspaso de cuentas o activos financieros, las instituciones integrantes del sistema financiero deberán efectuar la retención del impuesto sobre la renta en el momento en el que se efectúe dicha cancelación, enajenación o traspaso, por los intereses reales positivos devengados derivados de la cantidad cancelada, enajenada o traspasada. Los títulos de crédito o valores que se traspasen se deberán valuar para efectos fiscales por la institución integrante del sistema financiero, sociedad, entidad o persona receptora de los mismos, al valor de mercado que la institución, sociedad, entidad o persona que efectuó el traspaso, valuó los citados títulos o valores.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 Previamente a la cancelación o enajenación total de las cuentas o activos financieros del contribuyente, deberá pagarse en su totalidad el impuesto a que se refiere este artículo por dichas cuentas o activos financieros. Tratándose del traspaso total de activos financieros a otra institución, sociedad, entidad o persona; la institución integrante del sistema financiero que efectúa el traspaso deberá informar el monto del impuesto pendiente de retención del contribuyente a la fecha del traspaso a la institución, sociedad, entidad o persona receptora de los activos financieros de que se trate.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 Para los efectos del párrafo anterior, en el caso del traspaso de activos financieros, la institución, sociedad, entidad o persona receptora de los activos financieros, será responsable solidaria por las omisiones en el pago del impuesto sobre la renta en el que pudiera incurrir el contribuyente por los activos traspasados. Cuando la información emitida por la institución integrante del sistema financiero que hubiese realizado el traspaso de los activos financieros sea incorrecta o incompleta, dicha institución será responsable solidaria por el monto del impuesto pendiente de retención que efectivamente se hubiese generado a la fecha del traspaso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 Las instituciones que componen el sistema financiero deberán efectuar la retención a que se refiere el primer párrafo de este artículo, si durante el mes de que se trate, el contribuyente pretende efectuar un retiro que disminuya el saldo de sus cuentas o activos financieros a una cantidad inferior al impuesto sobre la renta que se hubiese generado en ese momento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 No se efectuará la retención a que se refiere el primer párrafo de este artículo, tratándose de:
 
@@ -1762,25 +1762,25 @@ b) Que las personas morales a que se refiere esta fracción, a más tardar el 15
 
 Lo dispuesto en esta fracción no será aplicable a los intereses que se paguen a las personas morales a que se refiere la presente fracción por inversiones distintas de las que se realicen con los recursos de los fondos y cajas de ahorro de trabajadores que administren.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 VI. Intereses que se paguen a las sociedades de inversión a que se refiere el artículo 103 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 Para los efectos de este Capítulo, del Capítulo VI del Título IV y del artículo 103-A de esta Ley, se consideran cuentas, entre otras, aquéllas que deriven de depósitos a la vista, depósitos de ahorro, depósitos retirables en días preestablecidos, y depósitos a plazo o con previo aviso, así como la subcuenta de aportaciones voluntarias y la subcuenta de aportaciones complementarias de retiro, a que se refiere la Ley de los Sistemas de Ahorro para el Retiro y se consideran activos financieros, entre otros, los títulos de crédito, valores, operaciones de reporto y préstamos de valores, así como las operaciones financieras derivadas de deuda, las sociedades de inversión cuyos rendimientos de la cartera total de inversión se consideren gravados para efectos de esta Ley, los planes personales de retiro, así como el componente de ahorro de las primas de los seguros de vida y de los seguros de pensiones a que se refieren las fracciones I y II del artículo 8 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 El impuesto a que se refiere el primer párrafo de este artículo se podrá disminuir con el crédito fiscal a que se refiere el artículo 159 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -1820,7 +1820,7 @@ El Servicio de Administración Tributaria mediante reglas de carácter general p
 
 Tratándose de cuentas denominadas en moneda extranjera, la conversión de los saldos, de los depósitos y de los retiros, se efectuará considerando el tipo de cambio para solventar obligaciones en moneda extranjera pagaderas en la República Mexicana que al efecto publique en el Diario Oficial de la Federación el Banco de México, correspondiente al segundo día hábil anterior al día en el que se calculen los saldos inicial o final, se efectúen los depósitos o los retiros, se cancelen, enajenen o traspasen las cuentas o activos financieros, según se trate. Los días en los que el Banco de México no publique dicho tipo de cambio se deberá utilizar el último tipo de cambio publicado con anterioridad al segundo día hábil a aquél en el que se calculen los saldos antes referidos o se efectúen los depósitos, retiros o se cancelen, enajenen o traspasen las cuentas o los activos financieros.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -1842,7 +1842,7 @@ Por el monto pendiente de retención por concepto de impuesto sobre la renta a q
 
 Si las instituciones integrantes del sistema financiero realizan la retención del impuesto sobre la renta a que se refiere el primer párrafo del artículo 58 de esta Ley, pero no efectúan el entero de dicho impuesto, la institución de que se trate, será responsable por el pago del impuesto, debiendo pagar las actualizaciones y recargos correspondientes conforme al Código Fiscal de la Federación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -1858,7 +1858,7 @@ II. Informar mensualmente a las personas a quienes les administran sus cuentas o
 
 III. Conservar, de conformidad con lo previsto en el Código Fiscal de la Federación, la información relacionada con las constancias y los estados de cuenta, a que se refiere este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 60.
 
@@ -1878,7 +1878,7 @@ Asimismo, los intermediarios financieros deberán informar al Servicio de Admini
 
 ### CAPÍTULO V. DE LAS PÉRDIDAS
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 61.
 
@@ -1930,13 +1930,13 @@ III. Que en ningún caso más del 50% de sus acciones con derecho a voto sean pr
 
 La sociedad controladora que opte por considerar su resultado fiscal consolidado, deberá determinarlo conforme a lo previsto en el artículo 68 de esta Ley. Al resultado fiscal consolidado se le aplicará la tasa establecida en el artículo 10 de esta Ley, en su caso, para obtener el impuesto a pagar por la sociedad controladora en el ejercicio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 Una vez ejercida la opción de consolidación, la sociedad controladora deberá continuar pagando su impuesto sobre el resultado fiscal consolidado por un periodo no menor de cinco ejercicios contados a partir de aquél en el que se empezó a ejercer la opción citada, y hasta en tanto no presente ante el Servicio de Administración Tributaria aviso para dejar de consolidar, o bien, cuando la sociedad controladora deje de cumplir alguno de los requisitos establecidos en este Capítulo, o deba desconsolidar en los términos de los artículos 70, cuarto párrafo, o 71, octavo, décimo quinto y décimo sexto párrafos, de esta Ley. El plazo anterior no se reinicia con motivo de una reestructuración corporativa.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -1954,7 +1954,7 @@ La sociedad controladora y las sociedades controladas, presentarán su declaraci
 
 Para los efectos de este Capítulo, no se consideran como acciones con derecho a voto, aquellas que lo tengan limitado y las que en los términos de la legislación mercantil se denominen acciones de goce; tratándose de sociedades que no sean por acciones se considerará el valor de las partes sociales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -1976,7 +1976,7 @@ La solicitud de autorización para determinar el resultado fiscal consolidado a 
 
 En la solicitud a que se refiere el párrafo anterior, la sociedad controladora deberá manifestar todas las sociedades que tengan el carácter de controladas conforme a lo dispuesto en los artículos 66 y 67 de esta Ley. En el caso de no manifestar alguna de las sociedades controladas cuyos activos representen el 3% o más del valor total de los activos del grupo que se pretenda consolidar en la fecha en que se presente la solicitud, la autorización de consolidación no surtirá sus efectos. Lo dispuesto en este párrafo también será aplicable en el caso en que la sociedad controladora no manifieste dos o más sociedades controladas cuyos activos representen en su conjunto el 6% o más del valor total de los activos del grupo que se pretenda consolidar a la fecha en que se presente dicha solicitud. Para los efectos de este párrafo, el valor de los activos será el determinado conforme al artículo 9o-A de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -1984,7 +1984,7 @@ La autorización a que se refiere esta fracción será personal del contribuyent
 
 II. Que dictaminen sus estados financieros para efectos fiscales por contador público en los términos del Código Fiscal de la Federación, durante los ejercicios por los que opten por el régimen de consolidación. Los estados financieros que correspondan a la sociedad controladora deberán reflejar los resultados de la consolidación fiscal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -2052,13 +2052,13 @@ Las pérdidas fiscales obtenidas por la sociedad controladora o por una sociedad
 
 Las pérdidas en enajenación de acciones obtenidas por la sociedad controladora o por una sociedad controlada, que en los términos del inciso e) de la fracción I de este artículo se hubieran restado en algún ejercicio anterior para determinar la utilidad o pérdida fiscal consolidada, deberán adicionarse a la utilidad fiscal consolidada o disminuirse de la pérdida fiscal consolidada del ejercicio en que se pierda el derecho a disminuirlas conforme a lo previsto en el segundo párrafo de la fracción XVII del artículo 32 de esta Ley. El monto equivalente a las pérdidas fiscales que se adicione a la utilidad fiscal consolidada o que se disminuya de la pérdida fiscal consolidada, según sea el caso conforme a este párrafo, se actualizará por el periodo comprendido desde el mes en el que ocurrieron y hasta el último mes del ejercicio en el que se adicionen o se disminuyan.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 Lo dispuesto en los dos párrafos anteriores no procederá respecto de las pérdidas fiscales o las pérdidas en enajenación de acciones que se hayan considerado en la determinación y pago del impuesto diferido a que se refiere el artículo 70-A de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -2110,7 +2110,7 @@ En el caso en que una sociedad controladora no incorpore a la consolidación fis
 
 Para los efectos de este artículo, la sociedad controladora deberá presentar un aviso ante las autoridades fiscales, dentro de los quince días siguientes a la fecha en que adquiera directamente o por conducto de otras sociedades controladas, más del 50% de las acciones con derecho a voto de una sociedad. En el caso de sociedades controladas que se incorporen a la consolidación fiscal en el periodo que transcurra entre la fecha de presentación de la solicitud para consolidar y aquélla en que se notifique la autorización respectiva, la controladora deberá presentar el aviso de incorporación dentro de los quince días siguientes a la fecha en que se notifique la autorización por parte de las autoridades fiscales. En el caso de las sociedades que surjan con motivo de una escisión, la sociedad controladora deberá presentar el aviso dentro de los cuarenta y cinco días siguientes a la fecha en que se constituyan las sociedades escindidas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -2168,7 +2168,7 @@ Las pérdidas que provengan de la enajenación de acciones a que se refiere el i
 
 Si con motivo de la exclusión de la consolidación de una sociedad que deje de ser controlada resulta una diferencia de impuesto a cargo de la sociedad controladora, ésta deberá enterarla dentro del mes siguiente a la fecha en que se efectúe la desincorporación. Si resulta una diferencia de impuesto a favor de la sociedad controladora, ésta podrá solicitar su devolución.
 
-> <small>(DEROGADO SEXTO PARRAFO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+> <small>(DEROGADO SEXTO PÁRRAFO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -2204,7 +2204,7 @@ La sociedad controladora que no cumpla con la obligación a que se refiere el pe
 
 En caso de que con anterioridad a la desincorporación de una sociedad se hubiera efectuado una enajenación parcial de acciones de dicha sociedad, la parte de los dividendos a que se refiere el segundo párrafo de este artículo que se adicionará a la utilidad fiscal consolidada o se disminuirá de la pérdida fiscal consolidada será la que no se hubiera disminuido en la enajenación referida, en los términos del artículo 73 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -2250,49 +2250,49 @@ e) De las utilidades fiscales netas consolidadas que se integrarán con las util
 
 El saldo del registro a que se refiere este inciso que se tenga al último día de cada ejercicio, sin incluir la utilidad fiscal neta consolidada del mismo, se actualizará por el periodo comprendido desde el mes en que se efectuó la última actualización y hasta el último mes del ejercicio de que se trate.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 f) Del monto total del impuesto sobre la renta diferido por cada ejercicio fiscal, que se hubiera generado con motivo de la consolidación fiscal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 g) Del monto del impuesto sobre la renta diferido enterado en cada ejercicio fiscal, señalando el ejercicio en que éste se generó.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 h) Del saldo del impuesto sobre la renta diferido pendiente de enterar, por cada ejercicio fiscal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 i) De la cuenta de utilidad fiscal neta consolidada correspondiente al impuesto diferido, por cada ejercicio fiscal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 j) De la cuenta de utilidad fiscal neta de las sociedades controladas y de la controladora correspondiente al impuesto diferido, por cada ejercicio fiscal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 k) De las pérdidas de las sociedades controladas y de la controladora, correspondientes al impuesto diferido, por cada ejercicio fiscal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 Los registros a que se refieren los incisos f), g), h), i), j) y k) de esta fracción se deberán llevar por los ejercicios fiscales por los que se esté obligado a conservar la contabilidad. Los montos a que se refieren los mencionados incisos f) y h), deberán actualizarse desde el ejercicio en que se debió haber pagado el impuesto correspondiente al sexto ejercicio fiscal anterior de no haber consolidado y hasta el último mes del ejercicio de que se trate.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -2302,7 +2302,7 @@ Los registros señalados en esta fracción así como su documentación comprobat
 
 La sociedad controladora podrá obtener autorización del Servicio de Administración Tributaria, cada diez ejercicios, para no conservar dicha documentación comprobatoria por el periodo a que se refiere el párrafo anterior, siempre que se cumpla con los requisitos que mediante reglas de carácter general señale el propio Servicio de Administración Tributaria.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 II. Presentar declaración de consolidación dentro de los cuatro meses siguientes al cierre de su ejercicio en la que determinará el resultado fiscal consolidado y el impuesto que a éste corresponda. En esta declaración acreditará el monto de los pagos provisionales consolidados efectivamente enterados ante las oficinas autorizadas. Asimismo, deberá presentar como parte de la declaración de consolidación, toda la información que permita determinar su utilidad o pérdida fiscal como si no consolidara.
 
@@ -2318,7 +2318,7 @@ IV. (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
 V. En el caso de que una sociedad controladora celebre operaciones con una o más de sus sociedades controladas mediante las cuales enajene terrenos, inversiones, acciones y partes sociales, entre otras operaciones, deberá realizarlas conforme a lo previsto en el artículo 215 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -2396,7 +2396,7 @@ Cuando disminuya la participación accionaria en una sociedad controlada se suma
 
 Los dividendos que conforme al párrafo anterior deban adicionarse, se deberán actualizar en los términos del cuarto párrafo del artículo 71 de esta Ley, y hasta el último mes del ejercicio en que varíe la participación accionaria. Tratándose de las modificaciones a las utilidades y a las pérdidas fiscales de las sociedades controladas, éstas se actualizarán desde el último mes del ejercicio al que correspondan y hasta el último mes del ejercicio en que varíe la participación accionaria.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -2426,11 +2426,11 @@ VI. En el caso de que una sociedad controlada celebre operaciones con su socieda
 
 La sociedad controladora llevará su cuenta de utilidad fiscal neta aplicando las reglas y los procedimientos establecidos en el artículo 88 de esta Ley, como si no hubiera consolidado.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-> <small>(DEROGADO TERCER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-> <small>(DEROGADO CUARTO PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -2450,25 +2450,25 @@ Para calcular los pagos provisionales a que se refiere este artículo, no se inc
 
 Los dividendos o utilidades, en efectivo o en bienes, que las sociedades que consolidan se paguen entre sí y que no provengan de la cuenta de utilidad fiscal neta, causarán el impuesto hasta que se enajene la totalidad o parte de las acciones de la sociedad controlada que los pagó, disminuya la participación accionaria en la misma, se desincorpore dicha sociedad o se desconsolide el grupo. Dichos dividendos no incrementarán los saldos de las cuentas de las sociedades que los perciban.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 El impuesto por los dividendos o utilidades que las sociedades que consolidan se hubieran pagado entre sí en el sexto ejercicio fiscal anterior a aquél en el que se deba efectuar el pago, y que no se hubiera pagado al 31 de diciembre del ejercicio inmediato anterior a aquél en el que se deba efectuar el pago del impuesto diferido de conformidad con el artículo 70-A de esta Ley, se calculará aplicando la tasa del artículo 10 de esta Ley vigente en el ejercicio fiscal en que dichos dividendos fueron pagados o dichas utilidades fueron distribuidas conforme a la mecánica que se establece en el primer párrafo del artículo 11 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 La sociedad controladora podrá optar por calcular el pago del impuesto sobre la renta diferido por los dividendos o utilidades a que se refiere el párrafo anterior, aplicando la tasa del artículo 10 de esta Ley vigente en el ejercicio fiscal en que se deba efectuar el pago del impuesto diferido, conforme a la mecánica que se establece en el primer párrafo del artículo 11 de esta Ley. Para tal efecto, los dividendos o utilidades se actualizarán desde el mes en que se pagaron o distribuyeron y hasta el mes en que deba pagarse el impuesto diferido de conformidad con el artículo 70-A de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 La opción que se elija conforme a los dos párrafos anteriores deberá aplicarse por un plazo mínimo de cinco ejercicios fiscales, contados a partir de aquél en que se empiece a ejercer la citada opción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -2556,7 +2556,7 @@ Cuando los integrantes de las personas morales a que se refiere este Capítulo, 
 
 Los contribuyentes de este Capítulo cuyos ingresos en el ejercicio inmediato anterior no hubieran excedido de $10'000,000.00, en lugar de aplicar lo dispuesto en la Sección I del Capítulo II del Título IV de esta Ley, podrán aplicar las disposiciones de la Sección II del Capítulo II del Título IV de la misma; a la utilidad gravable así determinada se le aplicará la tasa del artículo 10 de esta Ley o la tarifa del 177 de la misma, según se trate de persona moral o persona física, respectivamente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -2622,7 +2622,7 @@ El Servicio de Administración Tributaria, mediante reglas de carácter general,
 
 Cuando las personas morales a que se refiere este Capítulo cumplan por cuenta de sus integrantes con las obligaciones señaladas en el mismo y dictaminen sus estados financieros para efectos fiscales en los términos del artículo 32-A del Código Fiscal de la Federación, sus integrantes no estarán obligados a dictaminar sus estados financieros para efectos fiscales.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 8 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 8 DE DICIEMBRE DE 2005)</small>
 
 ### CAPÍTULO VII-A. DE LAS SOCIEDADES COOPERATIVAS DE PRODUCCIÓN
 
@@ -2682,7 +2682,7 @@ V. Formular un estado de posición financiera y levantar inventario de existenci
 
 VI. Presentar declaración en la que se determine el resultado fiscal del ejercicio o la utilidad gravable del mismo y el monto del impuesto correspondiente, ante las oficinas autorizadas, dentro de los tres meses siguientes a la fecha en que termine dicho ejercicio. En dicha declaración también se determinarán la utilidad fiscal y el monto que corresponda a la participación de los trabajadores en las utilidades de la empresa.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -2694,9 +2694,9 @@ a) El saldo insoluto al 31 de diciembre del año anterior, de los préstamos que
 
 b) El tipo de financiamiento, nombre del beneficiario efectivo de los intereses, tipo de moneda, la tasa de interés aplicable y las fechas de exigibilidad del principal y de los accesorios, de cada una de las operaciones de financiamiento a que se refiere el inciso anterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 VIII. Presentarán a más tardar el día 15 de febrero de cada año la información de las operaciones efectuadas en el año de calendario inmediato anterior con clientes y proveedores mediante la forma oficial que para tal fin expidan las autoridades fiscales. Para estos efectos, los contribuyentes no se encuentran obligados a proporcionar la información de clientes y proveedores con los que en el ejercicio de que se trate hubiesen realizado operaciones por montos inferiores a $50,000.00 ni cuando emitan sus comprobantes fiscales digitales a través de la página de Internet del Servicio de Administración Tributaria.
 
@@ -2794,7 +2794,7 @@ b) Registrando las operaciones en moneda nacional o en la moneda de curso legal 
 
 II. Los libros, los registros y la documentación comprobatoria de los asientos respectivos y los comprobantes de haber cumplido con sus obligaciones fiscales, relacionados únicamente con el establecimiento en el extranjero, podrán conservarse en dicho establecimiento durante el término que para tal efecto señalan esta Ley y el Código Fiscal de la Federación, siempre que se cumplan los requisitos y condiciones que fije el Reglamento de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 88.
 
@@ -2986,7 +2986,7 @@ No se considerarán créditos respaldados las operaciones en las que se otorgue 
 
 ## TÍTULO III. DEL RÉGIMEN DE LAS PERSONAS MORALES CON FINES NO LUCRATIVOS
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 93.
 
@@ -3002,13 +3002,13 @@ Cuando la mayoría de los integrantes o accionistas de dichas personas morales s
 
 Los integrantes o accionistas de las personas morales a que se refiere este Título, no considerarán como ingresos los reembolsos que éstas les hagan de las aportaciones que hayan efectuado. Para dichos efectos, se estará a lo dispuesto en el artículo 89 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 En el caso de que las personas morales a que se refiere este Título enajenen bienes distintos de su activo fijo o presten servicios a personas distintas de sus miembros o socios, deberán determinar el impuesto que corresponda a la utilidad por los ingresos derivados de las actividades mencionadas, en los términos del Título II de esta Ley, a la tasa prevista en el artículo 10 de la misma, siempre que dichos ingresos excedan del 5% de los ingresos totales de la persona moral en el ejercicio de que se trate.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -3102,7 +3102,7 @@ XIX. Las sociedades o asociaciones civiles, organizadas sin fines de lucro que s
 
 XX. Las asociaciones y sociedades civiles, sin fines de lucro, que comprueben que se dedican exclusivamente a la reproducción de especies en protección y peligro de extinción y a la conservación de su hábitat, siempre que además de cumplir con las reglas de carácter general que emita el Servicio de Administración Tributaria, se obtenga opinión previa de la Secretaría de Medio Ambiente y Recursos Naturales. Dichas asociaciones y sociedades, deberán cumplir con los requisitos señalados en el artículo 97 de esta Ley, salvo lo dispuesto en la fracción I del mismo artículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -3118,13 +3118,13 @@ I. Destinen la totalidad de sus ingresos a los fines para los que fueron creadas
 
 II. Al momento de su liquidación destinen la totalidad de su patrimonio a entidades autorizadas para recibir donativos deducibles.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 III. Los establecidos en el artículo 97 de esta Ley, salvo lo dispuesto en la fracción I del mismo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -3140,7 +3140,7 @@ II. Que las actividades que desarrollen tengan como finalidad primordial el cump
 
 No se considera que influye en la legislación la publicación de un análisis o de una investigación que no tenga carácter proselitista o la asistencia técnica a un órgano gubernamental que lo hubiere solicitado por escrito.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -3164,7 +3164,7 @@ VII. Informar a las autoridades fiscales, en los términos que señale el Servic
 
 Los requisitos a que se refieren las fracciones III y IV de este artículo, deberán constar en la escritura constitutiva de la persona moral de que se trate con el carácter de irrevocable.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -3174,7 +3174,7 @@ En todos los casos, las donatarias autorizadas deberán cumplir con los requisit
 
 El Servicio de Administración Tributaria podrá revocar o no renovar las autorizaciones para recibir donativos deducibles en los términos de esta Ley, a las entidades que incumplan los requisitos o las obligaciones que en su carácter de donatarias autorizadas deban cumplir conforme a las disposiciones fiscales, mediante resolución notificada personalmente. Dicho órgano desconcentrado publicará los datos de tales entidades en el Diario Oficial de la Federación y en su página de Internet.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -3204,7 +3204,7 @@ El Servicio de Administración Tributaria, mediante reglas de carácter general,
 
 Los programas de escuela empresa a que se refiere este artículo, podrán obtener autorización para recibir donativos deducibles del impuesto sobre la renta, siempre que cumplan con los requisitos a que se refiere el artículo 97 de esta Ley, salvo lo dispuesto en la fracción I del mismo artículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -3254,7 +3254,7 @@ Tratándose de las declaraciones a que se refiere el artículo 143, último pár
 
 Los sindicatos obreros y los organismos que los agrupen quedan relevados de cumplir con las obligaciones establecidas en las fracciones I y II de este artículo, excepto por aquellas actividades que de realizarse por otra persona quedarían comprendidas en el artículo 16 del Código Fiscal de la Federación. Asimismo, quedan relevadas de cumplir con las obligaciones a que se refieren las fracciones III y IV de este artículo las personas señaladas en el artículo 95 de esta Ley que no determinen remanente distribuible.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -3262,13 +3262,13 @@ Las personas a que se refieren las fracciones V a XIX del artículo 95 de esta L
 
 Cuando se disuelva una persona moral de las comprendidas en este Título, las obligaciones a que se refieren las fracciones III y IV de este artículo, se deberán cumplir dentro de los tres meses siguientes a la disolución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(DEROGADO QUINTO PARRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(DEROGADO SEXTO PARRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO SEXTO PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 102.
 
@@ -3278,7 +3278,7 @@ La Federación, los Estados, los Municipios y las instituciones que por Ley est�
 
 Los organismos descentralizados que no tributen conforme al Título II de esta Ley, sólo tendrán las obligaciones a que se refiere este artículo y las que establecen los dos últimos párrafos del artículo 95 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -3292,7 +3292,7 @@ Las personas que llevan a cabo la distribución de acciones de sociedades de inv
 
 Las personas que llevan a cabo la distribución de acciones de sociedades de inversión deberán acreditar a favor de los accionistas personas físicas de las sociedades de inversión a que se refiere este artículo, el crédito fiscal que se determine conforme al artículo 159 de esta Ley, en los términos de dicha disposición.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -3312,7 +3312,7 @@ En el caso de que los accionistas de las sociedades de inversión hubiesen obten
 
 El Servicio de Administración Tributaria mediante reglas de carácter general podrá emitir un procedimiento de cálculo simplificado para que las sociedades de inversión determinen el monto de los intereses reales devengados por acción, conforme a lo dispuesto por este artículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -3338,7 +3338,7 @@ Las personas físicas y morales, deberán considerar como ingresos acumulables e
 
 La mecánica establecida en este artículo será aplicable para cualquier otro tipo de ingresos que obtengan las sociedades de inversión de deuda o las sociedades de inversión de renta variable, distintos a intereses, dividendos o ganancias por enajenación de acciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -3358,7 +3358,7 @@ Las autoridades fiscales proveerán las medidas necesarias para garantizar la co
 
 DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 106.
 
@@ -3394,7 +3394,7 @@ Se considera que dos o más personas son partes relacionadas, cuando una partici
 
 Cuando en este Título se haga referencia a Entidad Federativa, se entenderá incluido al Distrito Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE JUNIO DE 2006)</small>
 
 ###### Artículo 107.
 
@@ -3444,7 +3444,9 @@ Por el excedente de las prestaciones exceptuadas del pago del impuesto a que se 
 
 II. Las indemnizaciones por riesgos de trabajo o enfermedades, que se concedan de acuerdo con las leyes, por contratos colectivos de trabajo o por contratos Ley.
 
-III. Las jubilaciones, pensiones, haberes de retiro, así como las pensiones vitalicias u otras formas de retiro, provenientes de la subcuenta del seguro de retiro o de la subcuenta de retiro, cesantía en edad avanzada y vejez, previstas en la Ley del Seguro Social y las provenientes de la cuenta individual del sistema de ahorro para el retiro prevista en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en los casos de invalidez, incapacidad, cesantía, vejez, retiro y muerte, cuyo monto diario no exceda de nueve veces el salario mínimo general del área geográfica del contribuyente. Por el excedente se pagará el impuesto en los términos de este Título.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2012)</small>
+
+III. Las jubilaciones, pensiones, haberes de retiro, así como las pensiones vitalicias u otras formas de retiro, provenientes de la subcuenta del seguro de retiro o de la subcuenta de retiro, cesantía en edad avanzada y vejez, previstas en la Ley del Seguro Social y las provenientes de la cuenta individual del sistema de ahorro para el retiro prevista en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en los casos de invalidez, incapacidad, cesantía, vejez, retiro y muerte, cuyo monto diario no exceda de quince veces el salario mínimo general del área geográfica del contribuyente. Por el excedente se pagará el impuesto en los términos de este Título.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -3498,7 +3500,7 @@ XIV. Los que provengan de contratos de arrendamiento prorrogados por disposició
 
 XV. Los derivados de la enajenación de:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -3554,7 +3556,7 @@ XXI. Las indemnizaciones por daños que no excedan al valor de mercado del bien 
 
 XXII. Los percibidos en concepto de alimentos por las personas físicas que tengan el carácter de acreedores alimentarios en términos de la legislación civil aplicable.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -3580,7 +3582,7 @@ No se pagará el impuesto sobre la renta por los ingresos que deriven de la enaj
 
 XXVII. Los provenientes de actividades agrícolas, ganaderas, silvícolas o pesqueras, siempre que en el año de calendario los mismos no excedan de 40 veces el salario mínimo general correspondiente al área geográfica del contribuyente elevado al año. Por el excedente se pagará el impuesto en los términos de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 XXVIII. Los que se obtengan, hasta el equivalente de veinte salarios mínimos generales del área geográfica del contribuyente elevados al año, por permitir a terceros la publicación de obras escritas de su creación en libros, periódicos o revistas, o bien, la reproducción en serie de grabaciones de obras musicales de su creación, siempre que los libros, periódicos o revistas, así como los bienes en los que se contengan las grabaciones, se destinen para su enajenación al público por la persona que efectúa los pagos por estos conceptos y siempre que el creador de la obra expida por dichos ingresos el comprobante respectivo que contenga la leyenda "ingreso percibido en los términos de la fracción XXVIII, del artículo 109 de la Ley del Impuesto sobre la Renta". Por el excedente se pagará el impuesto en los términos de este Título.
 
@@ -3664,7 +3666,7 @@ II. Al total de percepciones por este concepto se restará una cantidad igual a 
 
 La tasa a que se refiere la fracción II que antecede se calculará dividiendo el impuesto señalado en la fracción I anterior entre la cantidad a la cual se le aplicó la tarifa del artículo 177 de esta Ley; el cociente así obtenido se multiplica por cien y el producto se expresa en por ciento.
 
-REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)
+REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)
 
 ###### Artículo 113.
 
@@ -3674,7 +3676,7 @@ Quienes hagan pagos por los conceptos a que se refiere este Capítulo están obl
 
 La retención se calculará aplicando a la totalidad de los ingresos obtenidos en un mes de calendario, la siguiente:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -3744,7 +3746,7 @@ El impuesto anual se determinará disminuyendo de la totalidad de los ingresos o
 
 La disminución del impuesto local a que se refiere el párrafo anterior, la deberán realizar las personas obligadas a efectuar las retenciones en los términos del artículo 113 de esta Ley, siempre que la tasa de dicho impuesto no exceda del 5%.
 
-> <small>(DEROGADO CUARTO PARRAFO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
 La diferencia que resulte a cargo del contribuyente en los términos de este artículo se enterará ante las oficinas autorizadas a más tardar en el mes de febrero siguiente al año de calendario de que se trate. La diferencia que resulte a favor del contribuyente deberá compensarse contra la retención del mes de diciembre y las retenciones sucesivas, a más tardar dentro del año de calendario posterior. El contribuyente podrá solicitar a las autoridades fiscales la devolución de las cantidades no compensadas, en los términos que señale el Servicio de Administración Tributaria mediante reglas de carácter general.
 
@@ -3802,7 +3804,7 @@ I. Efectuar las retenciones señaladas en el artículo 113 de esta Ley.
 
 II. Calcular el impuesto anual de las personas que les hubieren prestado servicios subordinados, en los términos del artículo 116 de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 III. Proporcionar a las personas que les hubieran prestado servicios personales subordinados, constancias de remuneraciones cubiertas, de retenciones efectuadas y del monto del impuesto local a los ingresos por salarios y en general por la prestación de un servicio personal subordinado que les hubieran deducido en el año de calendario de que se trate.
 
@@ -3860,7 +3862,7 @@ Se entiende que los ingresos los obtienen en su totalidad las personas que reali
 
 Para los efectos de esta Sección, se consideran ingresos acumulables por la realización de actividades empresariales o por la prestación de servicios profesionales, además de los señalados en el artículo anterior y en otros artículos de esta Ley, los siguientes:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 I. Tratándose de condonaciones, quitas o remisiones, de deudas relacionadas con la actividad empresarial o con el servicio profesional, así como de las deudas antes citadas que se dejen de pagar por prescripción de la acción del acreedor, la diferencia que resulte de restar del principal actualizado por inflación, el monto de la quita, condonación o remisión, al momento de su liquidación o reestructuración, siempre y cuando la liquidación total sea menor al principal actualizado y se trate de quitas, condonaciones o remisiones otorgadas por instituciones del sistema financiero.
 
@@ -3938,7 +3940,7 @@ VII. Los pagos efectuados por el impuesto local sobre los ingresos por actividad
 
 Tratándose de personas físicas residentes en el extranjero que tengan uno o varios establecimientos permanentes en el país, podrán efectuar las deducciones que correspondan a las actividades del establecimiento permanente, ya sean las erogadas en México o en cualquier otra parte, aun cuando se prorrateen con algún establecimiento ubicado en el extranjero, aplicando al efecto lo dispuesto en el artículo 30 de esta Ley.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 124.
 
@@ -3954,7 +3956,7 @@ Los contribuyentes a que se refiere esta Sección, que únicamente presten servi
 
 Las deducciones autorizadas en esta Sección, además de cumplir con los requisitos establecidos en otras disposiciones fiscales, deberán reunir los siguientes:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 I. Que hayan sido efectivamente erogadas en el ejercicio de que se trate. Se consideran efectivamente erogadas cuando el pago haya sido realizado en efectivo, mediante traspasos de cuentas en instituciones de crédito o casas de bolsa, en servicios o en otros bienes que no sean títulos de crédito. Tratándose de pagos con cheque, se considerará efectivamente erogado en la fecha en la que el mismo haya sido cobrado o cuando los contribuyentes transmitan los cheques a un tercero, excepto cuando dicha transmisión sea en procuración. Igualmente, se consideran efectivamente erogadas cuando el contribuyente entregue títulos de crédito suscritos por una persona distinta. También se entiende que es efectivamente erogado cuando el interés del acreedor queda satisfecho mediante cualquier forma de extinción de las obligaciones.
 
@@ -3988,7 +3990,7 @@ Para los efectos de esta sección, se estará a lo dispuesto en el artículo 31,
 
 Los contribuyentes a que se refiere esta Sección, considerarán los gastos e inversiones no deducibles del ejercicio, en los términos del artículo 32 de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 127.
 
@@ -3998,7 +4000,7 @@ Al resultado que se obtenga conforme al párrafo anterior, se le aplicará la ta
 
 Se tomará como base la tarifa del artículo 113 de esta Ley, sumando las cantidades correspondientes a las columnas relativas al límite inferior, límite superior y cuota fija, que en los términos de dicho artículo resulten para cada uno de los meses del periodo a que se refiere el pago provisional de que se trate, y que correspondan al mismo renglón identificado por el mismo por ciento para aplicarse sobre el excedente del límite inferior. Las autoridades fiscales realizarán las operaciones aritméticas previstas en este párrafo para calcular la tarifa aplicable y la publicará en el Diario Oficial de la Federación.
 
-> <small>(DEROGADO CUARTO PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
 Contra el pago provisional determinado conforme a este artículo, se acreditarán los pagos provisionales del mismo ejercicio efectuados con anterioridad.
 
@@ -4014,13 +4016,13 @@ Los contribuyentes a que se refiere el párrafo anterior, deberán presentar dec
 
 Cuando se realicen actividades empresariales a través de una copropiedad, el representante común designado determinará, en los términos de esta Sección, la utilidad fiscal o la pérdida fiscal, de dichas actividades y cumplirá por cuenta de la totalidad de los copropietarios las obligaciones señaladas en esta Ley, incluso la de efectuar pagos provisionales. Para los efectos del impuesto del ejercicio, los copropietarios considerarán la utilidad fiscal o la pérdida fiscal que se determine conforme al artículo 130 de esta Ley, en la parte proporcional que de la misma les corresponda y acreditarán, en esa misma proporción, el monto de los pagos provisionales efectuados por dicho representante.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 130.
 
 Los contribuyentes a que se refiere esta Sección, deberán calcular el impuesto del ejercicio a su cargo en los términos del artículo 177 de esta Ley. Para estos efectos, la utilidad fiscal del ejercicio se determinará disminuyendo de la totalidad de los ingresos acumulables obtenidos por las actividades empresariales o por la prestación de servicios profesionales, las deducciones autorizadas en esta Sección, ambos correspondientes al ejercicio de que se trate. A la utilidad fiscal así determinada, se le disminuirá la participación de los trabajadores en las utilidades de las empresas pagada en el ejercicio, en los términos del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y, en su caso, las pérdidas fiscales determinadas conforme a este artículo, pendientes de aplicar de ejercicios anteriores; el resultado será la utilidad gravable.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 La pérdida fiscal se obtendrá cuando los ingresos a que se refiere esta Sección obtenidos en el ejercicio sean menores a las deducciones autorizadas en el mismo. Al resultado obtenido se le adicionará la participación de los trabajadores en las utilidades pagada en el ejercicio a que se refiere el párrafo anterior. En este caso se estará a lo siguiente:
 
@@ -4058,7 +4060,7 @@ Los contribuyentes personas físicas sujetos al régimen establecido en esta Sec
 
 I. Solicitar su inscripción en el Registro Federal de Contribuyentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 II. Llevar contabilidad de conformidad con el Código Fiscal de la Federación y su Reglamento; tratándose de personas físicas que únicamente presten servicios profesionales, llevar un solo libro de ingresos, egresos y de registro de inversiones y deducciones, en lugar de la contabilidad a que se refiere el citado Código.
 
@@ -4088,7 +4090,7 @@ Tratándose de las declaraciones a que se refiere la fracción VII de este artí
 
 VII. Presentar y mantener a disposición de las autoridades fiscales la información a que se refieren las fracciones VII, VIII, IX y XIX del Artículo 86 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -4158,7 +4160,7 @@ Los pagos mensuales efectuados conforme a este artículo, también serán acredi
 
 #### SECCIÓN III. DEL RÉGIMEN DE PEQUEÑOS CONTRIBUYENTES
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 137.
 
@@ -4190,7 +4192,7 @@ Las autoridades fiscales, en el ejercicio de sus facultades de comprobación, po
 
 Cuando el autor de una sucesión haya sido contribuyente de esta Sección y en tanto no se liquide la misma, el representante legal de ésta continuará cumpliendo con lo dispuesto en esta Sección.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 138.
 
@@ -4242,7 +4244,7 @@ El Servicio de Administración Tributaria, mediante reglas de carácter general,
 
 VI. Presentar, a más tardar el día 17 del mes inmediato posterior a aquel al que corresponda el pago, declaraciones mensuales en las que se determinará y pagará el impuesto conforme a lo dispuesto en los artículos 137 y 138 de esta Ley. Los pagos mensuales a que se refiere esta fracción, tendrán el carácter de definitivos.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 Los pagos a que se refiere esta fracción, se enterarán ante las oficinas autorizadas de la Entidad Federativa en la cual el contribuyente obtenga sus ingresos, siempre que dicha Entidad Federativa tenga celebrado convenio de coordinación para administrar el impuesto a que se refiere esta Sección. En el caso de que la Entidad Federativa en donde obtenga sus ingresos el contribuyente no celebre el citado convenio o éste se dé por terminado, los pagos se enterarán ante las oficinas autorizadas por las autoridades fiscales federales.
 
@@ -4314,7 +4316,7 @@ La parte proporcional a que se refiere el párrafo que antecede, se calculará c
 
 Cuando el uso o goce temporal del bien de que se trate no se hubiese otorgado por todo el ejercicio, las deducciones a que se refieren las fracciones I a V de este artículo, se aplicarán únicamente cuando correspondan al periodo por el cual se otorgó el uso o goce temporal del bien inmueble o a los tres meses inmediatos anteriores al en que se otorgue dicho uso o goce.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE JUNIO DE 2006)</small>
 
 ###### Artículo 143.
 
@@ -4442,7 +4444,7 @@ El contribuyente podrá, siempre que cumpla con los requisitos que señale el Re
 
 En el caso de terrenos el costo de adquisición se actualizará por el periodo comprendido desde el mes en el que se realizó la adquisición y hasta el mes inmediato anterior a aquél en el que se efectúe la enajenación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -4466,13 +4468,13 @@ Los contribuyentes que obtengan ingresos por la enajenación de bienes inmuebles
 
 La tarifa aplicable para el cálculo de los pagos provisionales que se deban efectuar en los términos de este artículo, se determinará tomando como base la tarifa del artículo 113 de esta Ley, sumando las cantidades correspondientes a las columnas relativas al límite inferior, límite superior y cuota fija, que en los términos de dicho artículo resulten para cada uno de los meses del año en que se efectúe la enajenación y que correspondan al mismo renglón identificado por el por ciento para aplicarse sobre el excedente del límite inferior. Tratándose de los meses del mismo año, posteriores a aquél en que se efectúe la enajenación, la tarifa mensual que se considerará para los efectos de este párrafo, será igual a la del mes en que se efectúe la enajenación. Las autoridades fiscales mensualmente realizarán las operaciones aritméticas previstas en este párrafo para calcular la tarifa aplicable en dicho mes, la cual publicará en el Diario Oficial de la Federación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 En operaciones consignadas en escrituras públicas, el pago provisional se hará mediante declaración que se presentará dentro de los quince días siguientes a aquél en que se firme la escritura o minuta. Los notarios, corredores, jueces y demás fedatarios, que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad y lo enterarán en las oficinas autorizadas; así mismo deberán proporcionar al contribuyente que efectúe la operación correspondiente, conforme a las reglas de carácter general que emita el Servicio de Administración Tributaria, la información relativa a la determinación de dicho cálculo. Dichos fedatarios, en el mes de febrero de cada año, deberán presentar ante las oficinas autorizadas, la información que al efecto establezca el Código Fiscal de la Federación respecto de las operaciones realizadas en el ejercicio inmediato anterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -4544,7 +4546,7 @@ En operaciones consignadas en escritura pública en las que el valor del bien de
 
 ### CAPÍTULO VI. DE LOS INGRESOS POR INTERESES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -4558,7 +4560,7 @@ Para los efectos del párrafo anterior, las sociedades de inversión especializa
 
 Los inversionistas antes señalados podrán realizar retiros de la subcuenta de aportaciones voluntarias o de la subcuenta de aportaciones complementarias de retiro, sin que ello implique no cumplir con los requisitos de permanencia establecidos en la Ley de los Sistemas de Ahorro para el Retiro, siempre que dicho retiro se utilice para cubrir la totalidad del monto del impuesto sobre la renta a que se refiere el párrafo anterior y además se cumplan los requisitos que establezca la Comisión Nacional del Sistema de Ahorro para el Retiro.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -4574,7 +4576,7 @@ Cuando se cancelen, enajenen totalmente o traspasen totalmente las cuentas o los
 
 Las instituciones que componen el sistema financiero serán responsables solidarias por las omisiones en el pago de impuestos en las que pudieran incurrir las personas físicas, cuando la información contenida en las constancias a que se refiere el párrafo anterior sea incorrecta o incompleta.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -4590,7 +4592,7 @@ Tratándose de créditos o títulos valor que se consideren incobrables y por lo
 
 Se consideran créditos o títulos incobrables, cuando por éstos se consuma el plazo de prescripción que corresponda o cuando exista notoria imposibilidad práctica de cobro. Para estos efectos, se deberá considerar lo establecido en el artículo 31, fracción XVI de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -4614,7 +4616,7 @@ Cuando la persona que otorgue el premio pague por cuenta del contribuyente el im
 
 No se considerará como premio el reintegro correspondiente al billete que permitió participar en las loterías.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 163.
 
@@ -4642,7 +4644,7 @@ IV. Presentar, a más tardar el 15 de febrero de cada año, declaración en la q
 
 ### CAPÍTULO VIII. DE LOS INGRESOS POR DIVIDENDOS Y EN GENERAL POR LAS GANANCIAS DISTRIBUIDAS POR PERSONAS MORALES
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 165.
 
@@ -4724,7 +4726,7 @@ Cuando las personas no estén obligadas a presentar declaración anual, la reten
 
 XVII. Los provenientes de las regalías a que se refiere el artículo 15-B del Código Fiscal de la Federación.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 XVIII. Los ingresos provenientes de planes personales de retiro o de la subcuenta de aportaciones voluntarias a que se refiere la fracción V del artículo 176 de esta Ley, cuando se perciban sin que el contribuyente se encuentre en los supuestos de invalidez o incapacidad para realizar un trabajo remunerado, de conformidad con las Leyes de seguridad social, o sin haber llegado a la edad de 65 años, para estos efectos se considerará como ingreso el monto total de las aportaciones que hubiese realizado a dicho plan personal de retiro o a la subcuenta de aportaciones voluntarias que hubiere deducido conforme al artículo 176, fracción V de esta Ley, actualizadas, así como los intereses reales devengados durante todos los años de la inversión, actualizados. Para determinar el impuesto por estos ingresos se estará a lo siguiente:
 
@@ -4738,9 +4740,9 @@ c) Por la parte del ingreso que no se acumule conforme a la fracción anterior, 
 
 Cuando hubiesen transcurrido más de cinco ejercicios desde la fecha de apertura del plan personal de retiro o de la subcuenta de aportaciones voluntarias y la fecha en que se obtenga el ingreso, el contribuyente deberá pagar el impuesto sobre el ingreso aplicando la tasa de impuesto promedio que le correspondió al mismo en los cinco ejercicios inmediatos anteriores a aquel en el que se efectúe el cálculo. Para determinar la tasa de impuesto promedio a que se refiere este párrafo, se sumarán los resultados expresados en por ciento que se obtengan de dividir el impuesto determinado en cada ejercicio en que se haya pagado este impuesto entre el ingreso gravable del mismo ejercicio, de los cinco ejercicios anteriores y el resultado se dividirá entre cinco. El impuesto que resulte conforme a este párrafo se sumará al impuesto que corresponda al ejercicio que se trate y se pagará conjuntamente con este último.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 168.
 
@@ -4758,13 +4760,13 @@ Para los efectos de esta fracción, las autoridades fiscales podrán tomar como 
 
 II. El perdón total o parcial, del capital o de los intereses adeudados, cuando el acreedor no se reserve derechos en contra del deudor, da lugar al pago del impuesto por parte del deudor sobre el capital y los intereses perdonados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 III. Serán ingresos por intereses los percibidos en efectivo, en bienes o en servicios que provengan de créditos o de préstamos otorgados a residentes en México.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -4772,43 +4774,43 @@ IV. Serán ingresos por intereses los que provengan de depósitos efectuados en 
 
 V. Tratándose de créditos, de deudas o de operaciones que se encuentren denominados en unidades de inversión, serán acumulables tanto los intereses como el ajuste que se realice al principal por estar denominado en dichas unidades.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 El impuesto sobre la renta por los intereses percibidos en los términos de este artículo, se calculará mensualmente conforme éstos se devenguen. Para estos efectos, se consideran ingresos los intereses reales positivos devengados. El monto de los intereses reales devengados se determinará conforme al artículo 58-A de este ordenamiento, por dichos ingresos se pagará el impuesto sobre la renta de forma mensual aplicando la tasa señalada en el artículo 10 de esta Ley. Para los efectos del artículo 58-A de esta Ley, el contribuyente también considerará como retiro cualquier pago en servicios que realice el deudor del crédito o préstamo de que se trate. El impuesto a que se refiere este párrafo tendrá el carácter de pago definitivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 Cuando no se hubiese efectuado el pago del impuesto de los intereses reales positivos devengados a que se refiere el párrafo anterior, el impuesto pendiente a declarar por dichos intereses deberá cubrirse con la actualización y recargos previstos en el Código Fiscal de la Federación, hasta la fecha en la que éstos sean pagados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 El impuesto sobre la renta de los ingresos por intereses a que se refiere este artículo, se podrá disminuir con un crédito fiscal que se determinará conforme a lo establecido en el artículo 159 de esta Ley por los intereses reales negativos devengados generados conforme a este artículo, siempre que el contribuyente se encuentre al corriente con las obligaciones fiscales establecidas en el presente artículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 Tratándose de créditos o préstamos que se consideren incobrables y por los cuales se hubiese pagado el impuesto a que se refiere este artículo, el contribuyente de que se trate podrá considerar como crédito fiscal el monto del impuesto efectivamente pagado por los intereses reales positivos devengados provenientes de dichos créditos o préstamos, debiéndose sumar al crédito fiscal determinado conforme al párrafo anterior. En el caso de que el contribuyente tenga un crédito fiscal pendiente de aplicar derivado de un crédito o préstamo considerado como incobrable, no podrá aplicarse en el futuro dicho crédito contra el impuesto sobre la renta por los intereses reales positivos devengados a su favor.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 Lo dispuesto en el párrafo anterior, será también aplicable para los acreedores a que se refiere la fracción II de este artículo, considerando para estos efectos el perdón total o parcial de la deuda, según corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 Se consideran como créditos o préstamos incobrables, cuando por éstos se consuma el plazo de prescripción que corresponda o cuando exista notoria imposibilidad práctica de cobro. Para estos efectos, se deberá considerar lo establecido en el artículo 31, fracción XVI de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 169.
 
@@ -4822,7 +4824,7 @@ Los contribuyentes que obtengan en forma esporádica ingresos de los señalados 
 
 Los contribuyentes que obtengan periódicamente ingresos de los señalados en este Capítulo, salvo aquéllos a que se refieren los artículos 168 y 213 de esta Ley, efectuarán pagos provisionales mensuales a cuenta del impuesto anual, a más tardar el día 17 del mes inmediato posterior a aquél al que corresponda el pago, mediante declaración que presentarán ante las oficinas autorizadas. El pago provisional se determinará aplicando la tarifa del artículo 113 de esta Ley a los ingresos obtenidos en el mes, sin deducción alguna; contra dicho pago podrán acreditarse las cantidades retenidas en los términos del siguiente párrafo.
 
-> <small>(DEROGADO TERCER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
 Cuando los ingresos a que se refiere este Capítulo, salvo aquéllos a que se refiere el artículo 168 de esta Ley, se obtengan por pagos que efectúen las personas morales a que se refiere el Título II de esta Ley, dichas personas deberán retener como pago provisional la cantidad que resulte de aplicar la tasa del 20% sobre el monto de los mismos, sin deducción alguna, debiendo proporcionar a los contribuyentes constancia de la retención; dichas retenciones deberán enterarse, en su caso, conjuntamente con las señaladas en el artículo 113 de la propia Ley.
 
@@ -4850,13 +4852,13 @@ Cuando las regalías a que se refiere la fracción XVII del artículo 167 de est
 
 Tratándose de los ingresos a que se refiere la fracción XIV del artículo 167 de esta Ley, el interés y la ganancia o la pérdida, acumulable o deducible, en las operaciones financieras derivadas de deuda y de capital, así como en las operaciones financieras, se determinará conforme a lo dispuesto en los artículos 22 y 23 de esta Ley, respectivamente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 Las casas de bolsa o las instituciones de crédito que intervengan en las operaciones financieras derivadas de capital a que se refiere el artículo 16-A del Código Fiscal de la Federación o, en su defecto, las personas que efectúen los pagos a que se refiere este artículo, deberán retener como pago provisional el monto que se obtenga de aplicar la tasa del 25% sobre la ganancia acumulable que resulte de las operaciones efectuadas durante el mes, disminuidas de las pérdidas deducibles, en su caso, de las demás operaciones realizadas durante el mes por la persona física con la misma institución o persona. Estas instituciones o personas deberán proporcionar al contribuyente constancia de la retención efectuada y enterarán el impuesto retenido mensualmente, a más tardar el día 17 del mes siguiente a aquél en el que se efectuó la retención, de conformidad con el artículo 113 de esta Ley. Tratándose de operaciones financieras derivadas de deuda la retención del impuesto sobre la renta se deberá efectuar conforme al primer párrafo del artículo 58 de esta Ley, pudiendo acreditarse, en su caso, el crédito fiscal a que se refiere el artículo 159 de la presente Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -4866,7 +4868,7 @@ Se entiende para los efectos de este artículo, que la ganancia obtenida es aqu�
 
 Las instituciones de crédito, las casas de bolsa o las personas que intervengan en las operaciones financieras derivadas, deberán tener a disposición de las autoridades fiscales un reporte anual en donde se muestre por separado la ganancia o la pérdida obtenida, por cada operación, por cada uno de los contribuyentes personas físicas, así como el importe de la retención efectuada, el nombre, clave del Registro Federal de Contribuyentes, Clave Única de Registro de Población, de cada uno de ellos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -4884,7 +4886,7 @@ II. Que cuando esta Ley permita la deducción de inversiones se proceda en los t
 
 III. Que se resten una sola vez, aun cuando estén relacionadas con la obtención de diversos ingresos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE JUNIO DE 2006)</small>
 
 IV. Estar amparada con documentación que reúna los requisitos que señalen las disposiciones fiscales y que los pagos cuyo monto exceda de $2,000.00, se efectúen mediante cheque nominativo del contribuyente, tarjeta de crédito, débito o de servicios, o a través de los monederos electrónicos que al efecto autorice el Servicio de Administración Tributaria, excepto cuando dichos pagos se hagan por la prestación de un servicio personal subordinado.
 
@@ -4894,7 +4896,7 @@ Las autoridades fiscales podrán liberar de la obligación de pagar las erogacio
 
 Cuando los pagos se efectúen mediante cheque nominativo éste deberá ser de la cuenta del contribuyente y contener, en el anverso del mismo, la expresión "para abono en cuenta del beneficiario".
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -4914,7 +4916,7 @@ VIII. Cuando los pagos cuya deducción se pretenda, se efectúen a personas obli
 
 IX. Que al realizar las operaciones correspondientes o a más tardar el último día del ejercicio, se reúnan los requisitos que para cada deducción en lo particular establece esta Ley. Tratándose únicamente de la documentación comprobatoria a que se refiere el primer párrafo de la fracción IV de este artículo, ésta se obtenga a más tardar el día en que el contribuyente deba presentar su declaración. Tratándose de las declaraciones informativas a que se refiere el artículo 86 de esta Ley, éstas se deberán presentar en los plazos que al efecto establece dicho artículo y contar a partir de esa fecha con la documentación comprobatoria correspondiente. Además, la fecha de expedición de la documentación comprobatoria de un gasto deducible deberá corresponder al ejercicio por el que se efectúa la deducción.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 X. Que hayan sido efectivamente erogadas en el ejercicio de que se trate. Se consideran efectivamente erogadas cuando el pago haya sido realizado en efectivo, mediante traspasos de cuentas en instituciones de crédito o casas de bolsa, en servicios o en otros bienes que no sean títulos de crédito. Tratándose de pagos con cheque, se considerará efectivamente erogado en la fecha en la que el mismo haya sido cobrado o cuando los contribuyentes transmitan los cheques a un tercero, excepto cuando dicha transmisión sea en procuración. Igualmente se consideran efectivamente erogadas cuando el contribuyente entregue títulos de crédito suscritos por una persona distinta. También se entiende que es efectivamente erogado cuando el interés del acreedor queda satisfecho mediante cualquier forma de extinción de las obligaciones.
 
@@ -5024,17 +5026,17 @@ Cuando no se pueda separar del costo del inmueble, la parte que corresponda a la
 
 ### CAPÍTULO XI. DE LA DECLARACIÓN ANUAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 175.
 
 Las personas físicas que obtengan ingresos en un año de calendario, a excepción de los exentos y de aquéllos por los que se haya pagado impuesto definitivo, están obligadas a pagar su impuesto anual mediante declaración que presentarán en el mes de abril del año siguiente, ante las oficinas autorizadas. Tratándose de los contribuyentes que emitan sus comprobantes fiscales digitales a través de la página de Internet del Servicio de Administración Tributaria y se encuentren obligados a dictaminar sus estados financieros o hayan optado por hacerlo conforme a lo previsto en el cuarto párrafo del artículo 32-A del Código Fiscal de la Federación, la declaración a que se refiere este párrafo se entenderá presentada cuando presenten el dictamen correspondiente en los plazos establecidos por el citado Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 En la declaración a que se refiere el primer párrafo de este artículo, los contribuyentes que en el ejercicio que se declara hayan obtenido ingresos totales, incluyendo aquéllos por los que no se esté obligado al pago de este impuesto y por los que se pagó el impuesto definitivo, superiores a $1'500,000.00 deberán declarar la totalidad de sus ingresos, incluidos aquéllos por los que no se esté obligado al pago de este impuesto en los términos de las fracciones XIII, XV inciso a) y XVIII del artículo 109 de esta Ley y por los que se haya pagado impuesto definitivo en los términos del artículo 163 de la misma.
 
@@ -5050,7 +5052,7 @@ II. Los gastos de funerales en la parte en que no excedan del salario mínimo ge
 
 III. Los donativos no onerosos ni remunerativos, que satisfagan los requisitos previstos en esta Ley y en las reglas generales que para el efecto establezca el Servicio de Administración Tributaria y que se otorguen en los siguientes casos:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -5078,7 +5080,7 @@ Tratándose de donativos otorgados a instituciones de enseñanza serán deducibl
 
 El monto total de los donativos a que se refiere esta fracción será deducible hasta por una cantidad que no exceda del 7% de los ingresos acumulables que sirvan de base para calcular el impuesto sobre la renta a cargo del contribuyente en el ejercicio inmediato anterior a aquél en el que se efectúe la deducción, antes de aplicar las deducciones a que se refiere el presente artículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -5118,13 +5120,13 @@ Para que procedan las deducciones a que se refieren las fracciones I y II que an
 
 Los requisitos de las deducciones establecidas en el Capítulo X de este Título no son aplicables a las deducciones personales a que se refiere este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 177.
 
 Las personas físicas calcularán el impuesto del ejercicio sumando, a los ingresos obtenidos conforme a los Capítulos I, III, IV, V, VI, VIII y IX de este Título, después de efectuar las deducciones autorizadas en dichos Capítulos, la utilidad gravable determinada conforme a las Secciones I o II del Capítulo II de este Título, al resultado obtenido se le disminuirá, en su caso, las deducciones a que se refiere el artículo 176 de esta Ley. A la cantidad que se obtenga se le aplicará la siguiente:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 (REFORMADA, D.O.F. 1 DE OCTUBRE DE 2007) (REPUBLICADA, D.O.F. 7 DE DICIEMBRE DE 2009)
 
@@ -5352,7 +5354,7 @@ Tratándose de adquisiciones a título gratuito, el impuesto se determinará apl
 
 Cuando en las enajenaciones que se consignen en escritura pública se pacte que el pago se hará en parcialidades en un plazo mayor a 18 meses, el impuesto que se cause se podrá pagar en la medida en que sea exigible la contraprestación y en la proporción que a cada una corresponda, siempre que se garantice el interés fiscal. El impuesto se pagará el día 15 del mes siguiente a aquél en que sea exigible cada uno de los pagos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 190.
 
@@ -5412,7 +5414,7 @@ Asimismo, el contribuyente autorizado deberá presentar ante la autoridad compet
 
 Cuando de conformidad con los tratados celebrados por México para evitar la doble tributación, no se pueda someter a imposición la ganancia obtenida por la enajenación de acciones, como resultado de una reorganización, reestructura, fusión, escisión u operación similar, dicho beneficio se otorgará mediante la devolución en los casos en que el contribuyente residente en el extranjero no cumpla con los requisitos que establezca el Reglamento de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -5454,7 +5456,7 @@ No se pagará el impuesto sobre la renta tratándose de la ganancia obtenida en 
 
 Cuando un residente en el extranjero adquiera fuera de bolsa o de mercado reconocido de los antes señalados, títulos que contengan derechos u obligaciones de operaciones financieras derivadas de capital que sean de los colocados entre el gran público inversionista conforme a las reglas generales que al efecto expida el Servicio de Administración Tributaria, en un precio inferior en un 10% o más al promedio de las cotizaciones de inicio y cierre de operaciones del día en que se adquieran, la diferencia se considerará como ingreso para el residente en el extranjero adquirente de esos títulos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 193.
 
@@ -5462,7 +5464,7 @@ En los ingresos por dividendos o utilidades y en general por las ganancias distr
 
 Se considera dividendo o utilidad distribuido por personas morales:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 I. Las utilidades en efectivo o en bienes que envíen los establecimientos permanentes de personas morales extranjeras a la oficina central de la sociedad o a otro establecimiento permanente de ésta en el extranjero, que no provengan del saldo de la cuenta de utilidad fiscal neta o de la cuenta de remesas de capital del residente en el extranjero, respectivamente. En este caso, el establecimiento permanente deberá enterar como impuesto a su cargo el que resulte de aplicar la tasa del primer párrafo del artículo 10 de esta Ley. Para estos efectos, los dividendos o utilidades distribuidos se adicionarán con el impuesto sobre la renta que se deba pagar en los términos de este artículo. Para determinar el impuesto sobre la renta que se debe adicionar a los dividendos o utilidades distribuidos, se multiplicará el monto de dichas utilidades o remesas por el factor de 1.3889 y al resultado se le aplicará la tasa del artículo 10 de la citada Ley.
 
@@ -5488,19 +5490,19 @@ El impuesto se determinará aplicando, sobre el remanente distribuible, la tasa 
 
 Tratándose de ingresos por intereses se considerará que la fuente de riqueza se encuentra en territorio nacional cuando en el país se coloque o se invierta el capital, o cuando los intereses se paguen por un residente en el país o un residente en el extranjero con establecimiento permanente en el país.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 Se consideran intereses, cualquiera que sea el nombre con que se les designe, a los rendimientos de créditos de cualquier clase, con o sin garantía hipotecaria y con derecho o no a participar en los beneficios; los rendimientos de la deuda pública, de los bonos u obligaciones, incluyendo primas y premios asimilados a los rendimientos de tales valores, los premios pagados en el préstamo de valores, descuentos por la colocación de títulos valor, bonos, u obligaciones, de las comisiones o pagos que se efectúen con motivo de la apertura o garantía de créditos, aun cuando éstos sean contingentes, de los pagos que se realizan a un tercero con motivo de apertura o garantía de créditos aun cuando éstos sean contingentes, de los pagos que se realizan a un tercero con motivo de la aceptación de un aval, del otorgamiento de una garantía o de la responsabilidad de cualquier clase, de la ganancia que se derive de la enajenación de los títulos colocados entre el gran público inversionista a que se refiere el artículo 9o. de esta Ley, así como la ganancia en la enajenación de acciones de las sociedades de inversión en instrumentos de deuda y de las sociedades de inversión de renta variable, a que se refiere la Ley de Sociedades de Inversión, de los ajustes a los actos por los que se deriven ingresos a los que se refiere este artículo que se realicen mediante la aplicación de índices, factores o de cualquier otra forma, inclusive de los ajustes que se realicen al principal por el hecho de que los créditos u operaciones estén denominados en unidades de inversión. Asimismo, se considera interés la ganancia derivada de la enajenación efectuada por un residente en el extranjero, de créditos a cargo de un residente en México o de un residente en el extranjero con establecimiento permanente en el país, cuando sean adquiridos por un residente en México o un residente en el extranjero con establecimiento permanente en el país.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 La ganancia proveniente de la enajenación de acciones de las sociedades de inversión en instrumentos de deuda y de las sociedades de inversión de renta variable, a que se refiere el párrafo anterior, se calculará conforme se establece en el artículo 195-A de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -5592,7 +5594,7 @@ Cuando la enajenación de los títulos a que se refiere este artículo se efect�
 
 Cuando en este artículo se haga referencia a intermediario, se entenderá como tal a las instituciones de crédito y casas de bolsa del país, que intervengan en la adquisición de títulos a que hace referencia el presente artículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -5660,7 +5662,7 @@ Para los efectos de este artículo, también se considera que una operación fin
 
 Lo previsto en el segundo párrafo de este artículo, será aplicable a la ganancia derivada de la enajenación de los derechos consignados en tales operaciones, o a la cantidad inicial recibida por celebrar la operación cuando no se ejerzan los derechos mencionados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -5736,7 +5738,7 @@ Los contribuyentes que tengan representantes en el país que reúnan los requisi
 
 A los contribuyentes que perciban ingresos en los términos de este artículo no les será aplicable lo dispuesto en los artículos 180 y 183 de esta Ley por dichos ingresos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 204.
 
@@ -5744,7 +5746,7 @@ Tratándose de ingresos por mediaciones sujetos a regímenes fiscales preferente
 
 El impuesto se calculará aplicando la tasa del 40% sobre el ingreso obtenido, sin deducción alguna, debiendo efectuar la retención la persona que haga los pagos. Dicha retención deberá enterarse mediante declaración que se presentará dentro de los quince días siguientes a la fecha de la operación ante las oficinas autorizadas por las autoridades fiscales.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 205.
 
@@ -5828,11 +5830,11 @@ Lo dispuesto en las fracciones II, III y V de este artículo, también es aplica
 
 Para los efectos de lo dispuesto en los artículos 180 y 184 de esta Ley, los contribuyentes podrán garantizar el pago del impuesto sobre la renta que pudiera causarse con motivo de la realización de sus actividades en territorio nacional, mediante depósito en las cuentas a que se refiere la fracción I del artículo 141 del Código Fiscal de la Federación.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ## TÍTULO VI. DE LOS REGÍMENES FISCALES PREFERENTES Y DE LAS EMPRESAS MULTINACIONALES
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ### CAPÍTULO I. DE LOS REGÍMENES FISCALES PREFERENTES
 
@@ -6004,7 +6006,7 @@ Salvo prueba en contrario, se presume que las operaciones entre residentes en M�
 
 Para la interpretación de lo dispuesto en este Capítulo, serán aplicables las Guías sobre Precios de Transferencia para las Empresas Multinacionales y las Administraciones Fiscales, aprobadas por el Consejo de la Organización para la Cooperación y el Desarrollo Económico en 1995, o aquéllas que las sustituyan, en la medida en que las mismas sean congruentes con las disposiciones de esta Ley y de los tratados celebrados por México.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 216.
 
@@ -6064,7 +6066,7 @@ Los activos a que se refiere este inciso podrán ser considerados únicamente en
 
 i. La persona residente en el país podrá excluir del cálculo a que se refiere este inciso el valor de los activos que les hayan arrendado partes relacionadas residentes en territorio nacional o partes no relacionadas residentes en el extranjero, siempre que los bienes arrendados no hayan sido de su propiedad o de sus partes relacionadas residentes en el extranjero, excepto cuando la enajenación de los mismos hubiere sido pactada de conformidad con los artículos 215 y 216 de esta Ley.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
 > <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
@@ -6134,9 +6136,9 @@ Cuando de conformidad con lo establecido en un tratado internacional en materia 
 
 ### CAPÍTULO I. DE LAS CUENTAS PERSONALES PARA EL AHORRO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 218.
 
@@ -6146,7 +6148,7 @@ I. El importe de los depósitos, pagos o adquisiciones a que se refiere este art
 
 Las acciones de las sociedades de inversión a que se refiere este artículo quedarán en custodia de la sociedad de inversión a la que correspondan, no pudiendo ser enajenadas a terceros, reembolsadas o recompradas por dicha sociedad, antes de haber transcurrido un plazo de cinco años contado a partir de la fecha de su adquisición, salvo en el caso de fallecimiento del titular de las acciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -6160,7 +6162,7 @@ Las personas que hubieran contraído matrimonio bajo régimen de sociedad conyug
 
 Los contribuyentes que realicen pagos de primas de contratos de seguro que tengan como base planes de pensiones relacionados con la edad, jubilación o retiro y además aseguren la vida del contratante, no podrán efectuar la deducción a que se refiere el primer párrafo de este artículo por la parte de la prima que corresponda al componente de vida. La institución de seguros deberá desglosar en el contrato de seguro respectivo la parte de la prima que cubre el seguro de vida. A la cantidad que pague la institución de seguros a los beneficiarios designados o a los herederos como consecuencia del fallecimiento del asegurado se le dará el tratamiento que establece el artículo 109, fracción XVII, primer párrafo de esta Ley por la parte que corresponde al seguro de vida. Las instituciones de seguros que efectúen pagos para cubrir la prima que corresponda al componente de vida con cargo a los fondos constituidos para cubrir la pensión, jubilación o retiro del asegurado, deberán retener como pago provisional el impuesto que resulte en los términos del artículo 170 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 219.
 
@@ -6170,7 +6172,7 @@ Los contribuyentes que realicen pagos de primas de contratos de seguro que tenga
 
 ### CAPÍTULO II. DE LA DEDUCCIÓN INMEDIATA DE BIENES NUEVOS DE ACTIVO FIJO
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 220.
 
@@ -6278,7 +6280,7 @@ II. Considerarán ganancia obtenida por la enajenación de los bienes, el total 
 
 III. Cuando los bienes se enajenen, se pierdan o dejen de ser útiles, se podrá efectuar una deducción por la cantidad que resulte de aplicar, al monto original de la inversión ajustado con el factor de actualización correspondiente al periodo comprendido desde el mes en el que se adquirió el bien y hasta el último mes de la primera mitad del periodo en el que se haya efectuado la deducción señalada en el artículo 220 de esta Ley, los por cientos que resulten conforme al número de años transcurridos desde que se efectuó la deducción del artículo 220 de la Ley citada y el por ciento de deducción inmediata aplicado al bien de que se trate, conforme a la siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 Para los efectos de las fracciones I y III de este artículo, cuando sea impar el número de meses del periodo a que se refieren dichas fracciones, se considerará como último mes de la primera mitad el mes inmediato anterior al que corresponda la mitad del periodo.
 
@@ -6402,7 +6404,7 @@ Los fideicomitentes que reciban certificados de participación por su aportació
 
 XIV. Cuando los fideicomitentes aporten bienes inmuebles al fideicomiso que sean arrendados de inmediato a dichos fideicomitentes por el fiduciario, podrán diferir el pago del impuesto sobre la renta causado por la ganancia obtenida en la enajenación de los bienes hasta el momento en que termine el contrato de arrendamiento, siempre y cuando no tenga un plazo mayor a diez años, o el momento en que el fiduciario enajene los bienes inmuebles aportados, lo que suceda primero. Al terminarse el contrato de arrendamiento o enajenarse los bienes inmuebles por el fiduciario se pagará el impuesto causado por la ganancia que resulte de aplicar la tasa del 28% al monto actualizado de dicha ganancia por el periodo transcurrido desde el mes en que se aportaron los bienes al fideicomiso hasta el mes en que se termine el contrato de arrendamiento o se enajenen los bienes por el fiduciario.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 224-A.
 
@@ -6468,7 +6470,7 @@ Los contribuyentes que apliquen lo dispuesto en este artículo, lo deberán hace
 
 ### CAPÍTULO VI. DEL ESTÍMULO FISCAL A LA PRODUCCIÓN CINEMATOGRÁFICA NACIONAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -6490,7 +6492,7 @@ III. El Comité Interinstitucional publicará a más tardar el último día de f
 
 IV. Los contribuyentes deberán cumplir lo dispuesto en las reglas generales que para el otorgamiento del estímulo publique el Comité Interinstitucional.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 19 DE NOVIEMBRE DE 2010)</small>
 
@@ -6564,7 +6566,7 @@ Cuando los derechos que se cedan se hayan adquirido de terceros, el costo compro
 
 VII. Cuando no se cumpla alguno de los requisitos a que se refieren las fracciones IV y V del artículo 227 de esta Ley, los fideicomisarios causarán el impuesto a la tasa establecida en el primer párrafo del artículo 10 de esta Ley por la utilidad fiscal que derive de los ingresos que reciba la institución fiduciaria, en los términos del artículo 13 de esta misma Ley, a partir del año inmediato posterior a aquél en que ocurra el incumplimiento.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 2010)</small>
 
 ### CAPÍTULO VIII. DEL FOMENTO AL PRIMER EMPLEO
 
@@ -7644,7 +7646,7 @@ LXXXIX. A partir de la fecha en que entre en vigor la Ley del Impuesto Sobre la 
 
 XC. Para efectos del artículo 32 de la Ley del Impuesto sobre la Renta, la deducibilidad de la Participación de los Trabajadores en las Utilidades, será conciderada (sic) en el caso de que la expectativa de crecimiento en los criterios generales de política económica para el ejercicio de 2003 estimen un crecimiento superior al 3% del Producto Interno Bruto.
 
-Artículo Tercero. (DEROGADO POR ARTICULO CUARTO DE LAS DISPOSICIONES DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO SOBRE LA RENTA DEL DECRETO QUE REFORMA DIVERSAS DISPOSICIONES FISCALES, D.O.F. 31 DE DICIEMBRE DE 2003)
+Artículo Tercero. (DEROGADO POR ARTÍCULO CUARTO DE LAS DISPOSICIONES DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO SOBRE LA RENTA DEL DECRETO QUE REFORMA DIVERSAS DISPOSICIONES FISCALES, D.O.F. 31 DE DICIEMBRE DE 2003)
 
 Disposiciones Transitorias del impuesto sustitutivo del crédito al salario
 
@@ -7656,7 +7658,7 @@ México, D.F., a 31 de diciembre de 2001.- Sen. Diego Fernández de Cevallos Ram
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a primero de enero de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 30 DE DICIEMBRE DE 2002.
 
@@ -7822,23 +7824,23 @@ d) Para los efectos del penúltimo párrafo del artículo 81 de la Ley del Impue
 
 e) Para los efectos del artículo 113 de la Ley del Impuesto sobre la Renta se calculará el impuesto correspondiente conforme a las disposiciones contenidas en el artículo 113 de la Ley del Impuesto sobre la Renta vigente hasta el 31 de diciembre de 2004, aplicando la siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 f) Para los efectos del artículo 114 de la Ley del Impuesto sobre la Renta se calculará el subsidio correspondiente conforme a las disposiciones contenidas en el artículo 114 de la Ley del Impuesto sobre la Renta vigente hasta el 31 de diciembre de 2004, aplicando la siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 g) Para los efectos del artículo 115 de la Ley del Impuesto sobre la Renta se calculará el crédito al salario correspondiente conforme a las disposiciones contenidas en el artículo 115 de la Ley del Impuesto sobre la Renta vigente hasta el 31 de diciembre de 2004, aplicando la siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 h) Para los efectos del artículo 177 de la Ley del Impuesto sobre la Renta se calculará el impuesto correspondiente conforme a las disposiciones contenidas en el artículo 177 de la Ley del Impuesto sobre la Renta vigente hasta el 31 de diciembre de 2004, aplicando la siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 i) Para los efectos del artículo 178 de la Ley del Impuesto sobre la Renta se calculará el subsidio correspondiente conforme a las disposiciones contenidas en el artículo 178 de la Ley del Impuesto sobre la Renta vigente hasta el 31 de diciembre de 2004, aplicando la siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 II. Para el ejercicio fiscal de 2006, se estará a lo siguiente:
 
@@ -7850,9 +7852,9 @@ c) Cuando conforme a la Ley del Impuesto sobre la Renta se deba aplicar el facto
 
 d) Para los efectos del penúltimo párrafo del artículo 81 de la Ley del Impuesto sobre la Renta, se reducirá el impuesto determinado conforme a la fracción II del citado artículo en un 44.83%.
 
-e) (DEROGADO POR EL ARTICULO TERCERO DE LAS DISPOSICIONES DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO SOBRE LA RENTA, D.O.F. 26 DE DICIEMBRE DE 2005)
+e) (DEROGADO POR EL ARTÍCULO TERCERO DE LAS DISPOSICIONES DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO SOBRE LA RENTA, D.O.F. 26 DE DICIEMBRE DE 2005)
 
-f) (DEROGADO POR EL ARTICULO TERCERO DE LAS DISPOSICIONES DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO SOBRE LA RENTA, D.O.F. 26 DE DICIEMBRE DE 2005)
+f) (DEROGADO POR EL ARTÍCULO TERCERO DE LAS DISPOSICIONES DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO SOBRE LA RENTA, D.O.F. 26 DE DICIEMBRE DE 2005)
 
 III. Para los efectos de lo dispuesto en la fracción I, inciso a), numeral 2, del artículo 195 de la Ley del Impuesto sobre la Renta, durante el ejercicio de 2005, los intereses a que hace referencia dicha fracción podrán estar sujetos a una tasa del 4.9%, siempre que el beneficiario efectivo de los intereses mencionados en este artículo sea residente de un país con el que se encuentre en vigor un tratado para evitar la doble tributación y se cumplan los requisitos previstos en dicho tratado para aplicar las tasas que en el mismo se prevean para este tipo de intereses.
 
@@ -7888,7 +7890,7 @@ c) Tratándose de contribuyentes que tengan en sus inventarios bienes que hayan 
 
 El inventario acumulable en cada ejercicio se determinará multiplicando el valor del inventario acumulable, por el por ciento de acumulación que corresponda al índice promedio de rotación de inventarios calculado por el periodo correspondiente a los años de 2002 a 2004, o de acuerdo al que se determine cuando el contribuyente haya iniciado actividades con posterioridad a 2002, conforme a la siguiente tabla:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 Para determinar el índice promedio de rotación de inventarios del periodo comprendido por los años de 2002 a 2004, o el que corresponda cuando el contribuyente haya iniciado actividades con posterioridad a 2002, se estará a lo siguiente:
 
@@ -8182,13 +8184,13 @@ Del Subsidio para el Empleo
 
 ###### ARTÍCULO QUINTO.
 
-(DEROGADO POR EL ARTICULO TERCERO DE LAS DISPOSICIONES DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO SOBRE LA RENTA, D.O.F. 26 DE DICIEMBRE DE 2005)
+(DEROGADO POR EL ARTÍCULO TERCERO DE LAS DISPOSICIONES DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO SOBRE LA RENTA, D.O.F. 26 DE DICIEMBRE DE 2005)
 
 Del Subsidio para la Nivelación del Ingreso
 
 ###### ARTÍCULO SEXTO.
 
-(DEROGADO POR EL ARTICULO TERCERO DE LAS DISPOSICIONES DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO SOBRE LA RENTA, D.O.F. 26 DE DICIEMBRE DE 2005)
+(DEROGADO POR EL ARTÍCULO TERCERO DE LAS DISPOSICIONES DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO SOBRE LA RENTA, D.O.F. 26 DE DICIEMBRE DE 2005)
 
 ## TRANSITORIO
 
@@ -8240,19 +8242,19 @@ Artículo Segundo. Para los efectos de lo dispuesto en la Ley del Impuesto sobre
 
 I. Para los efectos del artículo 113 de la Ley del Impuesto sobre la Renta, en lugar de aplicar la tarifa contenida en dicho precepto se aplicará la siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 II. Para los efectos del artículo 114 de la Ley del Impuesto sobre la Renta, en lugar de aplicar la tabla contenida en dicho precepto se aplicará la siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 III. Para los efectos del artículo 177 de la Ley del Impuesto sobre la Renta, en lugar de aplicar la tarifa contenida en dicho precepto se aplicará la siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 IV. Para los efectos del artículo 178 de la Ley del Impuesto sobre la Renta, en lugar de aplicar la tabla contenida en dicho precepto se aplicará la siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 Artículo Tercero. Se deroga la fracción II, incisos e) y f), del Artículo Segundo de las Disposiciones de Vigencia Temporal de la Ley del Impuesto sobre la Renta, del Decreto por el que se Reforman, Adicionan, Derogan y Establecen diversas Disposiciones de la Ley del Impuesto sobre la Renta y de la Ley del Impuesto al Activo y Establece los Subsidios para el Empleo y para la Nivelación del Ingreso, publicado en el Diario Oficial de la Federación el 1 de diciembre de 2004.
 
@@ -8290,7 +8292,7 @@ D.O.F. 5 DE JULIO DE 2006.
 
 D.O.F. 18 DE JULIO DE 2006.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- Entrarán en vigor el día siguiente de la publicación de este Decreto en el Diario Oficial de la Federación:
 
@@ -8332,7 +8334,7 @@ IV. Las personas físicas o morales que hayan efectuado inversiones autorizadas 
 
 V. Lo dispuesto en los artículos 116, último párrafo, inciso b), 117, fracción III, inciso e) y 175, segundo párrafo de la Ley de Impuesto sobre la Renta, también será aplicable para la presentación de las declaraciones anuales correspondientes al ejercicio fiscal de 2006.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2007.
 
@@ -8370,7 +8372,7 @@ VIII. Para los efectos del último párrafo del artículo 177 de la Ley del Impu
 
 ...
 
-SE TRANSCRIBE EL ARTICULO OCTAVO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
+SE TRANSCRIBE EL ARTÍCULO OCTAVO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
 
 SUBSIDIO PARA EL EMPLEO
 
@@ -8760,7 +8762,7 @@ XIV. Para los efectos de lo dispuesto en el quinto párrafo del artículo 177 de
 
 XV. Los contribuyentes que, con anterioridad a la entrada en vigor del presente Decreto, hubieran sido beneficiados con el estímulo fiscal previsto en el artículo 219 de la Ley del Impuesto sobre la Renta que se deroga conforme al Artículo Primero del presente Decreto, podrán aplicar el monto pendiente de acreditar del estímulo fiscal autorizado por ejercicios anteriores, hasta agotarlo, conforme a las disposiciones vigentes al 31 de diciembre de 2009.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -8791,3 +8793,7 @@ SEGUNDO. El Capítulo VIII "Del fomento al primer empleo" de la Ley del Impuesto
 TERCERO. El monto máximo de la deducción adicional a que se refiere el artículo 230 de la Ley del Impuesto sobre la Renta se disminuirá en un 25% a partir del segundo año de vigencia del presente Decreto.
 
 CUARTO. Para los efectos del artículo 236 de la Ley del Impuesto sobre la Renta, la información que deban presentar los patrones respecto de las contrataciones de trabajadores de primer empleo realizadas en el primer mes del primer año de vigencia del Capítulo VIII del Título VII de la Ley del Impuesto sobre la Renta, se deberá efectuar el día 17 del mes inmediato posterior a dicho mes.
+
+D.O.F. 25 DE MAYO DE 2012.
+
+Artículo Único. Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
