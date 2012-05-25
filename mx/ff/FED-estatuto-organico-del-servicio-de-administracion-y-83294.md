@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-servicio-de-administracion-y-83294"
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-10-19"
-last_updated: "2011-12-26"
+last_updated: "2012-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83294&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-09-28"
 
 ESTATUTO ORGÁNICO DEL SERVICIO DE ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE MAYO DE 2012.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 19 de octubre de 2011.
 
@@ -1077,9 +1077,13 @@ XIX. Certificar copias de los documentos que obren en los respectivos archivos d
 
 XX. Formalizar y, en su caso, coordinar la formalización de los instrumentos jurídicos necesarios para llevar a cabo el proceso de desincorporación de empresas, en términos de la normativa aplicable;
 
-XXI. Cumplir y, en su caso, coordinar el cumplimiento de las obligaciones a cargo de las empresas en proceso de desincorporación establecidas en la normativa aplicable; y
+XXI. Cumplir y, en su caso, coordinar el cumplimiento de las obligaciones a cargo de las empresas en proceso de desincorporación establecidas en la normativa aplicable; y (sic)
 
-XXII. Ejercer las demás atribuciones que deriven de la normativa aplicable, así como atender y resolver los demás asuntos que le encomiende el Director General, el Director Corporativo de Empresas y Activos Financieros o el Director Ejecutivo de Liquidación de Empresas.
+> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+XXII. Incorporar en el módulo comercial del sistema informático correspondiente, los bienes muebles e inmuebles y Activos Financieros de la empresa en proceso de desincorporación, susceptibles de ser comercializados; y
+
+XXIII. Ejercer las demás atribuciones que deriven de la normativa aplicable, así como atender y resolver los demás asuntos que le encomiende el Director General, el Director Corporativo de Empresas y Activos Financieros o el Director Ejecutivo de Liquidación de Empresas.
 
 ###### ARTICULO 42.
 
@@ -2262,5 +2266,9 @@ SANDRO GARCIA ROJAS CASTILLO, Prosecretario de la Junta de Gobierno del Servicio
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
 
 D.O.F. 26 DE DICIEMBRE DE 2011.
+
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 25 DE MAYO DE 2012.
 
 UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
