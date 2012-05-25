@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-forestal-51142"
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-08-07"
-last_updated: "2010-09-27"
+last_updated: "2012-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51142&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2006-03-07"
 ---
 # ESTATUTO ORGANICO DE LA COMISION NACIONAL FORESTAL
 
-ESTATUTO ORGANICO DE LA COMISION NACIONAL FORESTAL
+ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL FORESTAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE MAYO DE 2012.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 7 de agosto de 2006.
 
@@ -111,7 +111,7 @@ X. Coordinación General de Gerencias Estatales.
 
 C. Organo Interno de Control.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 5.
 
@@ -203,6 +203,10 @@ b) Gerencia de Coordinación y Concertación, y
 
 c) Gerencia Técnica.
 
+> <small>(ADICIONADO, D.O.F. 25 DE MAYO DE 2012)</small>
+
+El Director General de la Comisión Nacional Forestal podrá delegar sus facultades en los servidores públicos adscritos a la Unidad de Asuntos Jurídicos, así como en los servidores públicos adscritos a las áreas jurídicas de las Gerencias Estatales de la Comisión Nacional Forestal.
+
 Los titulares de las unidades administrativas podrán delegar las atribuciones y funciones que consideren convenientes en los servidores públicos del nivel jerárquico inmediato inferior adscritas a su unidad.
 
 ###### ARTICULO 6.
@@ -227,7 +231,9 @@ II. Designar en las ausencias temporales de los titulares de las unidades admini
 
 III. Establecer la estructura administrativa de las Gerencias Estatales;
 
-IV. Delegar en los servidores públicos de la CONAFOR de los dos niveles jerárquicos inmediatos inferiores, las atribuciones y funciones que le corresponden, sin perjuicio de ejercerlas directamente, con excepción de aquellas que por disposición legal expresa o determinación de la Junta de Gobierno le correspondan exclusivamente;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+IV. Delegar en los servidores públicos de la CONAFOR, las atribuciones y funciones que le corresponden, sin perjuicio de ejercerlas directamente, con excepción de aquellas que por disposición legal expresa o determinación de la Junta de Gobierno le correspondan exclusivamente;
 
 V. Suscribir las condiciones generales de trabajo de la CONAFOR;
 
@@ -305,7 +311,9 @@ XVIII. Realizar la certificación y el cotejo de los documentos que obren en ori
 
 XIX. Las demás que le confiera por escrito el Director General.
 
-Las Gerencias Estatales contarán, de acuerdo con su presupuesto autorizado, con un área jurídica, la que ejercerá, en el ámbito de la circunscripción territorial correspondiente, las atribuciones mencionadas en el artículo 13 fracciones III, IV, VII, X, XIV, XVII, XIX, XX, XXI, XXII, XXIII y XXVI del presente estatuto, así como efectuar todo tipo de notificaciones que requieran los asuntos y procedimientos legales que lleve a cabo la Unidad de Asuntos Jurídicos, siguiendo los lineamientos que ésta determine.
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2012)</small>
+
+Las Gerencias Estatales contarán, de acuerdo con su presupuesto autorizado, con un Jefe de Departamento Jurídico el que ejercerá, en el ámbito de la circunscripción territorial correspondiente, las atribuciones mencionadas en el artículo 13 fracciones I, III, IV, V, VII, X, XIV, XVII, XIX, XX, XXI, XXII, XXIII y XXV del presente estatuto, así como efectuar todo tipo de notificaciones que requieran los asuntos y procedimientos legales que lleve a cabo la Unidad de Asuntos Jurídicos, siguiendo los lineamientos que ésta determine.
 
 #### SECCION II. DE LAS UNIDADES ADMINISTRATIVAS
 
@@ -391,7 +399,9 @@ XXIII. Representar legalmente a la CONAFOR y a su titular en los juicios de orde
 
 XXIV. Realizar todo tipo de actos jurídicos tendientes a la defensa de los intereses de la CONAFOR, y delegar en los servidores públicos adscritos a la Unidad de Asuntos Jurídicos las facultades que crea convenientes para ese fin;
 
-XXVI (sic). Asesorar jurídicamente en los recursos administrativos que se interpongan en contra de los actos de la CONAFOR, en los términos que dispone la Ley Federal de Procedimiento Administrativo.
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+XXV. Asesorar jurídicamente en los recursos administrativos que se interpongan en contra de los actos de la CONAFOR, en los términos que dispone la Ley Federal de Procedimiento Administrativo.
 
 ###### ARTICULO 14.
 
@@ -777,7 +787,7 @@ XXV. Representar a la CONAFOR y a su titular ante los comités, comisiones u org
 
 XXVI. Promover y fomentar una cultura de conservación y aprovechamiento sustentable de los recursos forestales entre los pueblos y comunidades indígenas, mediante programas de educación, capacitación e investigación.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 21.
 
@@ -815,19 +825,15 @@ El órgano de vigilancia de la Comisión, estará integrado por un comisario pú
 
 El comisario asistirá, con voz pero sin voto, a las sesiones de la Junta de Gobierno de la Comisión.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 23.
 
-Al frente del órgano interno de control habrá un titular designado en los términos del artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal, quien en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de auditoría interna, auditoría de control, evaluación y apoyo al buen gobierno, quejas y responsabilidades designados en los mismos términos.
+La Comisión contará con un órgano interno, su titular será designado en los términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal.
 
-El Organo Interno de Control en la CONAFOR, ejercerá las funciones y se regirá de conformidad a la normatividad aplicable y para el ejercicio de sus atribuciones contará con la estructura orgánica siguiente:
+En el ejercicio de sus facultades el Titular del Organo Interno se auxiliará por las áreas de Auditoría Interna, Auditoría para Desarrollo y Mejora de la Gestión Pública, Quejas y de Responsabilidades.
 
-I. Area de Auditoría Interna;
-
-II. Area de Auditoría de Control, Evaluación y Apoyo al Buen Gobierno;
-
-III. Area de Quejas y Responsabilidades.
-
-Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades y atribuciones de conformidad por lo dispuesto en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto en el Reglamento Interior de la Secretaría de la Función Pública.
+Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto por el Reglamento Interior de la Secretaría de la Función Pública.
 
 ###### ARTICULO 24.
 
@@ -885,7 +891,7 @@ CUARTO.- La CONAFOR, dentro de un plazo de cuatro meses contados a partir de la 
 
 El presente Estatuto Orgánico fue aprobado por la Junta de Gobierno de la Comisión Nacional Forestal, en su sesión celebrada en la Ciudad de México, Distrito Federal, a siete de marzo de dos mil seis.- El Secretario de Medio Ambiente y Recursos Naturales y Presidente de la Junta de Gobierno de la Comisión Nacional Forestal, José Luis Luege Tamargo.- Rúbrica.- El Director General de la Comisión Nacional Forestal, Manuel Agustín Reed Segovia.- Rúbrica.- El Secretario Técnico de la Junta de Gobierno de la Comisión Nacional Forestal, Jesús Becerra Pedrote.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
 
 D.O.F. 27 DE SEPTIEMBRE DE 2010.
 
@@ -894,3 +900,9 @@ PRIMERO.- Las presentes modificaciones entrarán en vigor a partir del día sigu
 SEGUNDO.- Inscríbase en el Registro Público de Organismos Descentralizados en su oportunidad.
 
 TERCERO.- La CONAFOR, dentro de un plazo de tres meses contados a partir de la entrada en vigor del presente Estatuto deberá expedir el Manual de Organización y Funcionamiento de las Unidades Administrativas.
+
+D.O.F. 25 DE MAYO DE 2012.
+
+PRIMERO.- La presente modificación entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Inscríbase en el Registro Público de Organismos Descentralizados en su oportunidad.
