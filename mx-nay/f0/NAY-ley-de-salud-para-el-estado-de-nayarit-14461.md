@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-salud-para-el-estado-de-nayarit-14461"
 country: "mx"
 rank: "ley"
 publication_date: "1994-04-30"
-last_updated: "2012-03-17"
+last_updated: "2012-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE SALUD PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2012.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 30 de abril de 1994.
 
@@ -137,9 +137,13 @@ XVIII.- Ejercer la verificación y el control sanitario de los establecimientos 
 
 XIX.- Prevención de la violencia familiar e intrafamiliar; y
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
-XX.- Las demás que establezca la Ley General de Salud y otras disposiciones jurídicas aplicables.
+XX.- La prevención del consumo de narcóticos, atención a las adicciones y aplicación de las medidas de seguridad de los delitos contra la salud, en los términos del artículo 478 de la Ley General de Salud, y
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+
+XXI.- Las demás que establezca la Ley General de Salud y otras disposiciones jurídicas aplicables.
 
 B) En materia de salubridad local;
 
@@ -255,9 +259,15 @@ XIII.- Coadyuvar a que la información y distribución de los recursos humanos p
 
 XIV.- Promover e impulsar la participación de la comunidad en el Estado en el cuidado de la salud;
 
-XV.- Impulsar la permanente actualización de las disposiciones legales en materia de salud, y
+XV.- Impulsar la permanente actualización de las disposiciones legales en materia de salud, y (sic)
 
-XVI. Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de los objetivos del sistema estatal de salud, y las que determinen las disposiciones generales aplicables.
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+
+XVI.- Coadyuvar con la Secretaría de Salud Federal en la ejecución del Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia, mismo que será obligatorio en todos los establecimientos a cargo del Sistema, en términos de los mecanismos de coordinación y colaboración, y
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+
+XVII. Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de los objetivos del sistema estatal de salud, y las que determinen las disposiciones generales aplicables.
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
@@ -1107,9 +1117,15 @@ II.- Nutrición;
 
 III.- Control de los efectos nocivos del ambiente en la salud;
 
-IV.- Salud ocupacional; y
+IV.- Salud ocupacional; y (sic)
 
-V.- Fomento sanitario.
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+
+V.- Fomento sanitario, y
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+
+VI.- Campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de alcohol, estupefacientes y psicotrópicos.
 
 ### CAPITULO III. NUTRICION
 
@@ -1189,7 +1205,23 @@ Los Servicios de Salud en Nayarit, se coordinarán con las dependencias federale
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPÍTULO VI. CAMPAÑAS PERMANENTES DE INFORMACIÓN Y SENSIBILIZACIÓN
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2012)</small>
+
+ARTICULO 105 BIS.- El Ejecutivo del Estado coadyuvará con la Secretaría de Salud Federal, en la ejecución del Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia, mismo que será obligatorio en todos los establecimientos de los sectores público, privado y social que realicen actividades preventivas, de tratamiento y de control de las adicciones y la farmacodependencia.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2012)</small>
+
+ARTICULO 105 TER.- De conformidad con el Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia, corresponde al Ejecutivo Estatal:
+
+Promover y llevar a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de estupefacientes y psicotrópicos; y
+
+Proporcionar información y brindar la atención médica y los tratamientos que se requieran a las personas que consuman estupefacientes y psicotrópicos.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2012)</small>
+
+ARTICULO 105 QUATER.- Las campañas de información y sensibilización que reciba la población, deberán estar basadas en estudios científicos y alertar de manera adecuada sobre los efectos y daños físicos y psicológicos del consumo de estupefacientes y psicotrópicos.
 
 ###### ARTICULO 104.
 
@@ -1203,11 +1235,13 @@ El Gobierno del Estado, en coordinación con las dependencias y entidades federa
 
 Para estos efectos, se vigilará que en todos los centros de trabajo, fábricas, escuelas, centros comerciales e instituciones, etc., cuenten con la estructura y funcionamiento de la Comisión Mixta de Seguridad e Higiene en el Trabajo.
 
-### CAPITULO II. ENFERMEDADES TRANSMISIBLES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE MAYO DE 2012)</small>
+
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ## TITULO OCTAVO. PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
-### CAPITULO III. ENFERMEDADES NO TRANSMISIBLES
+### CAPITULO II. ENFERMEDADES TRANSMISIBLES
 
 ###### ARTICULO 106.
 
@@ -1221,7 +1255,7 @@ II.- Apoyar en el Estado el sistema nacional de vigilancia epidemiológica, de c
 
 III.- Coadyuvar en la aplicación de programas y actividades que establezca la Secretaría de Salud para la prevención de accidentes, violencia intrafamiliar y enfermedades así como para el control de estas últimas; y (sic)
 
-### CAPITULO IV. ACCIDENTES
+### CAPITULO III. ENFERMEDADES NO TRANSMISIBLES
 
 ###### ARTICULO 107.
 
@@ -1335,7 +1369,7 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 
 Las autoridades sanitarias determinarán los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinsectación, desinfectación u otras medidas de saneamiento de lugares, edificios, vehículos y objetos.
 
-### CAPITULO UNICO
+### CAPITULO IV. ACCIDENTES
 
 ###### ARTICULO 121.
 
@@ -1359,9 +1393,7 @@ V.- Las demás que sean necesarias para la prevención, tratamiento y control de
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPITULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2011)</small>
+### CAPITULO UNICO
 
 ###### ARTICULO 124.
 
@@ -1391,9 +1423,9 @@ Dicho consejo se coordinará con el consejo nacional para la prevención de acci
 
 ## TITULO NOVENO. ASISTENCIA SOCIAL, PREVENCION DE DISCAPACIDAD Y REHABILITACION DE DISCAPACITADOS
 
-### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
+### CAPITULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
 
-> <small>(REFORMADO EL PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2011)</small>
 
 ###### ARTICULO 126.
 
@@ -1551,9 +1583,9 @@ El organismo del gobierno estatal previsto en el artículo 131 de esta ley, tend
 
 ## TITULO DECIMO. PROGRAMA CONTRA LAS ADICCIONES
 
-### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
+### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2011)</small>
+> <small>(REFORMADO EL PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 150.
 
@@ -1583,17 +1615,9 @@ III.- Hábitos de consumo de alcohol en los diferentes grupos de población, y
 
 IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
 
-### CAPITULO UNICO. PROGRAMAS DE INTEGRACION FAMILIAR CONTRA CONDUCTAS DAÑINAS
+### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
-
-ARTICULO 155 BIS.- El Gobierno del Estado, a través de los Servicios de Salud de Nayarit, y los Municipios coordinarán la ejecución de medidas contra la violencia intrafamiliar con el fin de:
-
-I.- Capacitar a sus servidores públicos para tratar a víctimas de dicha violencia; y
-
-II.- Organizar campañas educativas tendientes a erradicar la violencia intrafamiliar.
-
-> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2011)</small>
 
 ###### ARTICULO 152.
 
@@ -1621,7 +1645,17 @@ I.- La investigación de las causas del tabaquismo y de las acciones para contro
 
 II.- La educación a la familia para prevenir el consumo de tabaco por parte de niños y adolescentes.
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO UNICO. PROGRAMAS DE INTEGRACION FAMILIAR CONTRA CONDUCTAS DAÑINAS
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+ARTICULO 155 BIS.- El Gobierno del Estado, a través de los Servicios de Salud de Nayarit, y los Municipios coordinarán la ejecución de medidas contra la violencia intrafamiliar con el fin de:
+
+I.- Capacitar a sus servidores públicos para tratar a víctimas de dicha violencia; y
+
+II.- Organizar campañas educativas tendientes a erradicar la violencia intrafamiliar.
+
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 154.
 
@@ -1635,17 +1669,25 @@ II.- En colaboración con las autoridades educativas competentes realizar en los
 
 III.- La educación e instrucción de la familia y a la comunidad sobre la forma de reconocer los síntomas de la farmacodependencia y adoptar las medidas oportunas para su prevención y tratamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 155.
 
-El gobierno del Estado y los municipios para evitar y prevenir el consumo de substancias inhalantes, que produzcan efectos psicotrópicos en las personas, se ajustarán a lo siguiente:
+El gobierno del Estado y los municipios, para evitar y prevenir el consumo de estupefacientes y psicotrópicos, se ajustarán a lo siguiente:
 
-I.- Determinarán y ejercerán medios de control en el expendio de substancias inhalantes, para prevenir su consumo por parte de menores de edad e incapaces;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+
+I.- Determinarán y ejercerán medios de control en el expendio de substancias psicotrópicas e inhalantes, para prevenir su consumo por parte de menores de edad e incapaces;
 
 II.- Establecerán sistemas de vigilancia en los establecimientos destinados al expendio y uso de dichas substancias, para evitar el empleo indebido de las mismas;
 
-III.- Brindarán la atención médica que se requiera, a las personas que realicen o hayan realizado el consumo de inhalantes, y
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
-IV.- Promoverán y llevarán a cabo campanas (sic) permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de sustancias inhalantes.
+III.- Brindarán la atención médica que se requiera, a las personas que realicen o hayan realizado el consumo de narcóticos e inhalantes, y
+
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+
+IV.- Promoverán y llevarán a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de narcóticos e inhalantes.
 
 A los establecimientos que vendan o utilicen substancias inhalantes con efectos psicotrópicos que no se ajusten al control que dispongan el gobierno estatal y los municipios, así como a los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan en lo (sic) términos de esta Ley.
 
@@ -1655,11 +1697,11 @@ A los establecimientos que vendan o utilicen substancias inhalantes con efectos 
 
 > <small>(REFORMADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
-### CAPITULO II. MERCADOS Y CENTROS DE ABASTOS
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ## TITULO DECIMO SEGUNDO. SALUBRIDAD LOCAL
 
-### CAPITULO III. DE LAS CONSTRUCCIONES
+### CAPITULO II. MERCADOS Y CENTROS DE ABASTOS
 
 ###### ARTICULO 156.
 
@@ -1737,7 +1779,7 @@ Los Servicios de Nayarit, publicará en el periódico oficial órgano de gobiern
 
 Las notificaciones que conforme a esta Ley deban publicarse surtirán efectos a partir del día siguiente de su publicación.
 
-### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
+### CAPITULO III. DE LAS CONSTRUCCIONES
 
 ###### ARTICULO 162.
 
@@ -1755,7 +1797,7 @@ La autoridad sanitaria competente, verificará que los mercados y centros de aba
 
 Los vendedores, locatarios y personas que su actividad esté vinculada con los mercados y centros de abastos estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales y el ejercicio de sus actividades se sujetarán a lo que disponga esta Ley, los reglamentos respectivos, otras disposiciones legales aplicables, y las normas correspondientes.
 
-### CAPITULO V. LIMPIEZA PUBLICA
+### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
 
 ###### ARTICULO 165.
 
@@ -1793,7 +1835,7 @@ Los propietarios o poseedores de los edificios y locales, o de los negocios en e
 
 Cuando los edificios, construcciones o terrenos representen un peligro por su insalubridad o inseguridad, las autoridades sanitarias competentes, podrán ordenar la ejecución de las obras que estime de urgencia con cargo a sus propietarios, encargados o poseedores o a los dueños de las negociaciones en ellos establecidos, cuando no las realicen dentro de los plazos concedidos.
 
-### CAPITULO VI. RASTROS
+### CAPITULO V. LIMPIEZA PUBLICA
 
 ###### ARTICULO 174.
 
@@ -1825,7 +1867,7 @@ Los cementerios deberán contar con áreas verdes y zonas destinadas a reforesta
 
 La aprobación de las solicitudes de refrigeración, exhumación y cremación de cadáveres deberán ajustarse a las medidas de higiene y seguridad sanitaria que al efecto expida la autoridad sanitaria competente y las normas que dicte la Secretaría de Salud del gobierno federal.
 
-### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
+### CAPITULO VI. RASTROS
 
 ###### ARTICULO 180.
 
@@ -1865,7 +1907,7 @@ El gobierno del Estado, por conducto de sus municipios proveerá de depósitos d
 
 Para toda actividad relacionada con este capítulo, se estará a lo dispuesto por la Ley, otras disposiciones legales aplicables a las normas correspondientes.
 
-### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS APIARIOS Y ESTABLECIMIENTOS SIMILARES
+### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
 
 ###### ARTICULO 186.
 
@@ -1901,9 +1943,7 @@ Las normas correspondientes, establecerá los requisitos sanitarios y medidas de
 
 El sacrificio de animales en los rastros se efectuará en los días y horas que fijen las autoridades sanitarias y municipales, tomando en consideración las condiciones del lugar y los elementos de que dispongan dichas autoridades para realizar las verificaciones necesarias.
 
-### CAPITULO IX. PROSTITUCION
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 ###### ARTICULO 194.
 
@@ -1943,7 +1983,9 @@ Los proyectos para la implantación de sistemas de alcantarillado deberá ser es
 
 Queda prohibido que los desechos o líquidos que conduzcan los caños sean vertidos en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al uso o consumo humano, en todo caso deberán ser tratados y cumplir con las disposiciones legales en materia de contaminación.
 
-### CAPITULO X. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL
+### CAPITULO IX. PROSTITUCION
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 203.
 
@@ -1967,7 +2009,7 @@ Los establecimientos a que se refiere este capítulo, no podrán estar ubicados 
 
 Las condiciones y requisitos sanitarios que deban reunir los establecimientos a que se refiere el Artículo 209 de esta ley, serán fijados en las disposiciones reglamentarias y las normas correspondientes.
 
-### CAPITULO XI. BAÑOS PUBLICOS
+### CAPITULO X. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL
 
 ###### ARTICULO 206.
 
@@ -1997,7 +2039,7 @@ Queda prohibido el acceso de menores de edad al interior de los establecimientos
 
 La autoridad municipal, determinará los lugares en donde se permitirá el ejercicio de la prostitución de conformidad con las disposiciones legales y reglamentarias aplicables.
 
-### CAPITULO XII. CENTROS DE REUNION Y ESPECTACULOS
+### CAPITULO XI. BAÑOS PUBLICOS
 
 ###### ARTICULO 213.
 
@@ -2019,9 +2061,7 @@ Tratándose de enfermedades de emergencia, graves o cuando así lo requiera el t
 
 Las personas encargadas de los servicios médicos de los reclusorios y centros de readaptación social, deberán, a partir de que tengan conocimiento de alguna enfermedad transmisible; proceder a adoptar las medidas de seguridad sanitaria que procedan, así como observar lo dispuesto por el Artículo 108 de esta ley.
 
-### CAPITULO XIII
-
-ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA O ESTETICAS Y OTROS SIMILARES.
+### CAPITULO XII. CENTROS DE REUNION Y ESPECTACULOS
 
 ###### ARTICULO 217.
 
@@ -2037,7 +2077,9 @@ Para abrir al servicio público estos establecimientos, deberán sujetarse a las
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas en materia de salubridad local correspondientes que dicten los Servicios de Salud de Nayarit.
 
-### CAPITULO XIV. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
+### CAPITULO XIII
+
+ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA O ESTETICAS Y OTROS SIMILARES.
 
 ###### ARTICULO 220.
 
@@ -2051,7 +2093,7 @@ La autoridad sanitaria municipal, podrá en cualquier momento realizar la verifi
 
 El funcionamiento de los establecimientos a que se refiere el Artículo 220 de esta ley, deberá acatarse a lo dispuesto por las disposiciones legales aplicables y contará con los servicios de seguridad e higiene que se establezcan por los reglamentos de esta ley, otras disposiciones legales aplicables y las normas correspondientes.
 
-### CAPITULO XV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+### CAPITULO XIV. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
 
 ###### ARTICULO 223.
 
@@ -2061,7 +2103,7 @@ Para los efectos de esta ley, se entiende por peluquería, salones de belleza y 
 
 El funcionamiento y personal de los establecimientos señalados en el Artículo 223 deberán apegarse a lo dispuesto por esta ley, otras disposiciones legales aplicables, y las normas correspondientes.
 
-### CAPITULO XVI. TRANSPORTE ESTATAL Y MUNICIPAL
+### CAPITULO XV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
 ###### ARTICULO 225.
 
@@ -2077,7 +2119,7 @@ III.- Lavadero Público, el establecimiento al cual acuden los interesados para 
 
 Corresponde a la autoridad sanitaria competente ejercer la verificación sanitarias de los establecimientos a que se refiere este capítulo, conforme a las disposiciones legales aplicables.
 
-### CAPITULO XVII. GASOLINERIAS
+### CAPITULO XVI. TRANSPORTE ESTATAL Y MUNICIPAL
 
 ###### ARTICULO 227.
 
@@ -2087,7 +2129,7 @@ Para los efectos de esta ley, se entiende por establecimientos para el hospedaje
 
 La autoridad municipal, realizará la verificación sanitaria que conforme con esta ley y otras disposiciones legales aplicables que corresponda.
 
-### CAPITULO XVIII. PREVENCION Y CONTROL DE LA RABIA EN ANIMALES Y SERES HUMANOS
+### CAPITULO XVII. GASOLINERIAS
 
 ###### ARTICULO 229.
 
@@ -2097,7 +2139,7 @@ Para los efectos de esta ley, se entiende por transporte, todo aquel vehículo d
 
 Los transportes que circulen por uno o más municipios del Estado de Nayarit, no requerirán de autorización sanitaria, debiendo cumplir con los requisitos sanitarios establecidos en las disposiciones, reglamentarias aplicables y las normas que para tal efecto se emitan
 
-### CAPITULO I. AUTORIZACIONES
+### CAPITULO XVIII. PREVENCION Y CONTROL DE LA RABIA EN ANIMALES Y SERES HUMANOS
 
 ###### ARTICULO 231.
 
@@ -2107,7 +2149,7 @@ Para los efectos de esta Ley, se entiende por gasolinerías, el establecimiento 
 
 Las gasolinerías deberán contar con las instalaciones de seguridad que establezcan las disposiciones legales y reglamentarias aplicables y las normas correspondientes
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO I. AUTORIZACIONES
 
 ###### ARTICULO 233.
 
@@ -2143,13 +2185,11 @@ Las autoridades sanitarias, mantendrán campañas permanentes de orientación a 
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
-### CAPITULO III. CERTIFICADOS
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ## TITULO DECIMO TERCERO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+### CAPITULO III. CERTIFICADOS
 
 ###### ARTICULO 237.
 
@@ -2195,7 +2235,9 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la autori
 
 Los derechos a que se refiere esta Ley se regirán por lo que disponga la Legislación fiscal y los convenios de coordinación que celebren en la materia, el gobierno del Estado con el Ejecutivo Federal.
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 244.
 
@@ -2255,7 +2297,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución administrativa o de revocación en su caso, surtirá efectos, de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTICULO 252.
 
@@ -2293,9 +2335,7 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ## TITULO DECIMO CUARTO. VIGILANCIA SANITARIA
 
-### CAPITULO III. PROCEDIMIENTOS PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 257.
 
@@ -2393,9 +2433,9 @@ En el caso de los productos recogidos en procedimientos de muestreo o verificaci
 
 ## TITULO DECIMO QUINTO. MEDIDAS DE SEGURIDAD SANITARIAS Y SANCIONES
 
-### CAPITULO IV. RECURSO DE INCONFORMIDAD
+### CAPITULO III. PROCEDIMIENTOS PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 269.
 
@@ -2499,7 +2539,9 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará previa la observancia de la garantía de audiencia y del dictamen pericial, cuando a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o a la vida de las personas.
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO IV. RECURSO DE INCONFORMIDAD
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
 
 ###### ARTICULO 282.
 
@@ -2580,6 +2622,8 @@ Se sancionará con arresto hasta por treinta y seis horas;
 I.- A la persona que interfiera o se oponga al ejercicio de las funciones de la autoridad sanitaria; y
 
 II.- A la persona que en rebeldía se niegue a cumplir los requerimientos y disposiciones de la autoridad sanitaria, provocando con ello un peligro a la salud de las personas. Solo procederá esta sanción, si previamente se dictó cualquier otra de las sanciones a que se refiere este capítulo. Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
+
+### CAPITULO V. PRESCRIPCION
 
 ###### ARTICULO 294.
 
@@ -2838,3 +2882,9 @@ Artículo Único.- El presente decreto entrará en vigor el día siguiente de su
 P.O. 17 DE MARZO DE 2012.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 25 DE MAYO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
