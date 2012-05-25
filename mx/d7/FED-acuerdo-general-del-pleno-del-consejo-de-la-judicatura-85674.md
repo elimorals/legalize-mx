@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-85674"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-02-03"
-last_updated: "2012-02-03"
+last_updated: "2012-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85674&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-01-26"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE MAYO DE 2012.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de febrero de 2012.
 
@@ -51,9 +51,11 @@ ACUERDO
 
 ## TITULO PRIMERO. Disposiciones Generales
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2012)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de este ordenamiento son de observancia general en el Consejo de la Judicatura Federal, correspondiendo a su Presidente, consejeros, Oficial Mayor, Secretario General de la Presidencia, secretarios ejecutivos, coordinadores, Titular de la Unidad de Implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación, titulares de los órganos auxiliares y directores generales, velar por su debido cumplimiento; su objeto es regular la estructura orgánica y funcionamiento de la Institución, para llevar a cabo la administración, vigilancia, disciplina y carrera judicial del Poder Judicial de la Federación.
+Las disposiciones de este ordenamiento son de observancia general en el Consejo de la Judicatura Federal, correspondiendo a su Presidente, consejeros, Oficial Mayor, Secretario General de la Presidencia, secretarios ejecutivos, coordinadores, titulares de unidades y órganos auxiliares, así como directores generales, velar por su debido cumplimiento; su objeto es regular la estructura orgánica y funcionamiento de la Institución, para llevar a cabo la administración, vigilancia, disciplina y carrera judicial del Poder Judicial de la Federación.
 
 ###### Artículo 2.
 
@@ -79,7 +81,9 @@ IX. Coordinaciones: La de Administración Regional y la de Seguridad del Poder J
 
 X. Organos jurisdiccionales: Tribunales de Circuito y Juzgados de Distrito;
 
-XI. Unidades administrativas: Las ponencias de los consejeros, Oficialía Mayor, Secretaría General de la Presidencia, secretarías ejecutivas, coordinaciones, Unidad de Implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación, secretarías técnicas de comisiones, direcciones generales, así como la Unidad de Enlace y el Archivo General del Consejo; y
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+XI. Unidades administrativas: Las ponencias de los consejeros, Oficialía Mayor, Secretaría General de la Presidencia, secretarías ejecutivas, coordinaciones, Unidad de Implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación, secretarías técnicas de comisiones, direcciones generales, así como la Unidad de Enlace y el Archivo General del Consejo, y demás que sean autorizadas por el Pleno; y
 
 XII. Areas administrativas: las unidades administrativas y los órganos auxiliares.
 
@@ -163,7 +167,7 @@ El Pleno supervisará el funcionamiento administrativo de los Institutos Federal
 
 ###### Artículo 16.
 
-La Dirección General de Estadística Judicial estará adscrita al Pleno.
+(DEROGADO, D.O.F. 25 DE MAYO DE 2012)
 
 ### Capítulo II. Del Consejero Presidente
 
@@ -255,9 +259,17 @@ XIX. Someter a consideración del Pleno el proyecto de resolución por el que se
 
 XX. Someter al Pleno, por conducto de la Secretaría Ejecutiva del Pleno, iniciativas de acuerdos generales, reglamentos, manuales internos u otras disposiciones de acatamiento obligatorio, así como las propuestas para la reforma, modificación o derogación de ellos;
 
-XXI. Ordenar que les sea entregada cualquier información elaborada, recopilada, resguardada o investigada por cualquiera de las áreas administrativas; y
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
 
-XXII. Las demás que establezcan la Ley; este Acuerdo; y, los acuerdos plenarios.
+XXI. Ordenar que les sea entregada cualquier información elaborada, recopilada, resguardada o investigada por cualquiera de las áreas administrativas;
+
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+XXII. Dirigir y supervisar las funciones de la Unidad de Enlace Legislativo, en aquellos casos en que sean designados por el Pleno; y
+
+> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+XXIII. Las demás que establezcan la Ley; este Acuerdo; y los acuerdos plenarios.
 
 ### Capítulo IV. De las Comisiones y Comités
 
@@ -465,7 +477,9 @@ XIX. Nombrar al personal subalterno que fije el presupuesto;
 
 XX. Opinar sobre el diseño de la política informática y de información estadística, en el ámbito de su competencia;
 
-XXI. Autorizar la adscripción temporal de plazas de nueva creación y su prórroga, hasta por seis meses, en los órganos jurisdiccionales, así como en la Oficialía Mayor, la Secretaría General de la Presidencia, las secretarías ejecutivas, las coordinaciones, la Unidad de Implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación, órganos auxiliares y direcciones generales, en los casos en que existan circunstancias que lo justifiquen, previa solicitud de los titulares respectivos;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+XXI. Autorizar la adscripción temporal de plazas de nueva creación y su prórroga, hasta por seis meses, en los órganos jurisdiccionales y áreas administrativas, en los casos en que existan circunstancias que lo justifiquen, previa solicitud de los titulares respectivos;
 
 XXII. Administrar los bienes muebles e inmuebles del Poder Judicial de la Federación, considerando su mantenimiento, conservación y acondicionamiento;
 
@@ -491,7 +505,9 @@ XXXII. Determinar, a propuesta del Director General de Estadística Judicial, el
 
 XXXIII. Determinar el nombramiento y remoción del titular y demás empleados de las unidades de notificadores que se establezcan;
 
-XXXIV. Autorizar las ampliaciones líquidas al presupuesto, de conformidad con lo establecido en el Acuerdo General que regule el proceso presupuestario; y
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+XXXIV. Autorizar las adecuaciones al presupuesto, de conformidad con lo establecido en el Acuerdo General que regule el proceso presupuestario; y
 
 XXXV. Las demás que establezcan la Ley, el Pleno, y el presente Acuerdo.
 
@@ -731,15 +747,19 @@ El Consejo contará con los siguientes Comités integrados por consejeros, mismo
 
 I. Técnico del Fondo de Apoyo para la Administración de Justicia;
 
-II. De Acuerdos, Reglamentos e Iniciativas; Reforma Judicial e Implementación de la Reforma Penal;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+II. De Acuerdos, Reglamentos e Iniciativas;
 
 III. De Derechos Humanos, Equidad de Género y Asuntos Internacionales; y
 
 IV. Los demás que determine el Pleno.
 
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 25 DE MAYO DE 2012)</small>
+
 ### Capítulo V
 
-Del Oficial Mayor, de la Secretaría General de la Presidencia, Secretarías Ejecutivas, Coordinaciones y de la Unidad de Implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación
+De la Oficialía Mayor, Secretaría General de la Presidencia, Secretarías Ejecutivas, Coordinaciones y Unidad de Implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación
 
 Sección 1a.
 
@@ -805,9 +825,11 @@ Sección 2a.
 
 De la Oficialía Mayor
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2012)</small>
+
 ###### Artículo 56.
 
-La Oficialía Mayor programa, coordina, supervisa y evalúa los sistemas de recursos humanos, financieros, materiales, bienes muebles e inmuebles, servicios generales, arrendamientos, obra pública y servicios relacionados con ésta, bienes asegurados y decomisados, administración regional y gestión administrativa; de conformidad con la normatividad aplicable y los acuerdos del Pleno y de la Comisión de Administración.
+La Oficialía Mayor programa, coordina, supervisa y evalúa los sistemas de recursos humanos, financieros, materiales, bienes muebles e inmuebles, servicios generales, tecnologías de la información y comunicaciones, arrendamientos, obra pública y servicios relacionados con la misma, bienes asegurados y decomisados, así como administración regional, estadística judicial, y planeación, de conformidad con la normatividad aplicable y los acuerdos del Pleno y de la Comisión de Administración.
 
 El Oficial Mayor es el responsable de proponer al Pleno y la Comisión de Administración el establecimiento de los programas, sistemas y lineamientos generales para la administración eficaz, eficiente, económica, transparente y honrada de los recursos humanos, materiales y financieros a cargo del Consejo.
 
@@ -817,7 +839,9 @@ El titular de la Oficialía Mayor tendrá las siguientes atribuciones:
 
 I. Planificar, coordinar, supervisar y evaluar las actividades de las unidades administrativas de su adscripción, conforme a la normatividad aplicable;
 
-II. Proponer a la Comisión de Administración y en su caso al Pleno, las políticas, directrices, normas y criterios en materia de recursos humanos, financieros, materiales, de servicios generales, así como las acciones necesarias para su manejo eficiente, eficaz, económico, transparente y honrado;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+II. Proponer a la Comisión de Administración y, en su caso, al Pleno, las políticas, directrices, normas y criterios en materia de recursos humanos, financieros, materiales, de servicios generales, tecnologías de la información y comunicaciones, estadística judicial y planeación, así como las demás acciones necesarias para su manejo eficiente, eficaz, económico, transparente y honrado;
 
 III. Instrumentar y evaluar la operación de los sistemas para la administración de los bienes muebles e inmuebles y suministros, así como el sistema correspondiente a los bienes sujetos a desincorporación y decomisados, conforme a la normatividad aplicable;
 
@@ -825,7 +849,9 @@ IV. Conducir, coordinar, supervisar, controlar y evaluar el proceso de programac
 
 V. Proponer a la instancia competente medidas de mejora continua de la gestión, organización y funcionamiento de las áreas administrativas de su adscripción;
 
-VI. Instrumentar las políticas y directrices emitidas por el Pleno y la Comisión de Administración para la operación de sistemas administrativos en materia de recursos humanos, financieros, materiales, servicios generales, bienes asegurados y de gestión administrativa, así como los demás que resulten de su competencia;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+VI. Instrumentar las políticas y directrices emitidas por el Pleno y la Comisión de Administración para la operación de sistemas administrativos en materia de recursos humanos, financieros, materiales, servicios generales, tecnologías de la información y comunicaciones, estadística judicial, planeación, y bienes asegurados y decomisados, así como las demás que resulten de su competencia;
 
 VII. Coordinar la elaboración de manuales de organización y procedimiento interno de las unidades administrativas que le estén adscritas, conforme a la normatividad aplicable;
 
@@ -845,9 +871,41 @@ XIV. Informar a las instancias competentes sobre el avance y cumplimiento de pro
 
 XV. Representar a la unidad administrativa a su cargo;
 
-XVI. Designar al servidor público que, en su caso, deba representarlo en comités, reuniones o grupos de trabajo; y
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
 
-XVII. Las demás que establezcan la normatividad aplicable, el Pleno, y la Comisión de Administración.
+XVI. Designar al servidor público que, en su caso, lo represente en comités, reuniones y grupos de trabajo;
+
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+XVII. Coordinar la presentación a la Comisión de Administración y al Pleno del Plan Estratégico de Tecnologías de la Información y Comunicaciones y del informe trimestral respecto de la ejecución y avances del mismo;
+
+> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+XVIII. Difundir y evaluar el cumplimiento de la normativa relativa a:
+
+a) La conservación de equipos, inmuebles e instalaciones, en materia de tecnologías de la información y comunicaciones en los órganos auxiliares y en las áreas administrativas; y
+
+b) La administración, suministro, prestación y racionalización de los servicios generales, en materia de tecnologías de la información y comunicaciones en los órganos auxiliares y en las áreas administrativas.
+
+> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+XIX. Dirigir y coordinar la elaboración e implantación de las acciones de planeación estratégica, desarrollo y modernización administrativa del Consejo;
+
+> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+XX. Proponer a la Comisión de Administración las directrices, normas, procedimientos y criterios técnicos para la integración y presentación de los programas anuales de trabajo e informes de actividades a los que deban ceñirse las áreas administrativas;
+
+> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+XXI. Coordinar la integración y actualización del Manual de Organización General del Consejo y su presentación a la Comisión de Administración, así como aprobar los manuales específicos de organización y procedimientos de las áreas que lo integran;
+
+> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+XXII. Coordinar la elaboración de las políticas generales en materia de tecnologías de la información y comunicaciones, y someterlas a la consideración de la Comisión de Administración; y
+
+> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+XXIII. Las demás que establezcan la normatividad aplicable, el Pleno, y la Comisión de Administración.
 
 ###### Artículo 58.
 
@@ -861,9 +919,21 @@ III. Secretaría Ejecutiva de Finanzas;
 
 IV. Coordinación de Administración Regional;
 
-V. Dirección General de Gestión Administrativa; y
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
 
-VI. Las demás que determine el Pleno.
+V. Dirección General de Tecnologías de la Información;
+
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+VI. Dirección General de Innovación, Planeación y Desarrollo Institucional;
+
+> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+VII. Dirección General de Estadística Judicial; y
+
+> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+VIII. Las demás que determine el Pleno.
 
 Sección 3ª
 
@@ -903,21 +973,17 @@ XII. Asistir como invitado permanente a las sesiones de Comités integrados por 
 
 XIII. Coordinar a las áreas administrativas involucradas en la realización de las ceremonias de instalación de los nuevos órganos jurisdiccionales, inicio de obra e inauguración de Edificios Sede del Poder Judicial de la Federación;
 
-XIV. Coordinar la presentación a la Comisión de Administración y al Pleno del Plan Estratégico de Tecnologías de la Información y Comunicaciones y del informe trimestral respecto de la ejecución y avances del mismo;
+XIV. (DEROGADA, D.O.F. 25 DE MAYO DE 2012)
 
 XV. Coordinar la presentación de las políticas de información, difusión y comunicación social del Poder Judicial de la Federación a la Comisión de Vigilancia, Información y Evaluación, y vigilar su ejecución;
 
-XVI. Difundir y, en su caso, evaluar el cumplimiento de la normativa relativa a:
+XVI. (DEROGADA, D.O.F. 25 DE MAYO DE 2012)
 
-a) La conservación de equipos, inmuebles e instalaciones, en materia de informática, sistemas, telefonía, redes y cableado estructural en los órganos auxiliares y en las áreas administrativas; y
+XVII. (DEROGADA, D.O.F. 25 DE MAYO DE 2012)
 
-b) La administración, suministro, prestación y racionalización de los servicios generales, en materia de informática, sistemas, telefonía, redes y cableado estructural en los órganos auxiliares y en las áreas administrativas;
+XVIII. (DEROGADA, D.O.F. 25 DE MAYO DE 2012)
 
-XVII. Dirigir y coordinar la elaboración e implantación de las acciones de planeación estratégica, desarrollo y modernización administrativa del Consejo;
-
-XVIII. Proponer a la Comisión de Administración las directrices, normas, procedimientos y criterios técnicos para la integración y presentación de los programas anuales de trabajo e informes de actividades a los que habrán de ceñirse las áreas administrativas;
-
-XIX. Coordinar la integración y actualización del Manual de Organización General del Consejo y su presentación a la Comisión de Administración, así como aprobar los manuales específicos de organización y procedimientos de las áreas que lo integran;
+XIX. (DEROGADA, D.O.F. 25 DE MAYO DE 2012)
 
 XX. Formular y presentar al Pleno, el Programa Anual de Actividades de la Secretaría General de la Presidencia y de las unidades administrativas que le estén adscritas, el cual será elaborado por las mismas;
 
@@ -929,13 +995,15 @@ XXIII. Presentar ante el Pleno, el Informe Anual de Labores correspondiente a la
 
 XXIV. Coordinar la elaboración de las políticas, lineamientos y acciones específicas en materia de seguridad y someterlas a la consideración de la Comisión de Vigilancia, Información y Evaluación;
 
-XXV. Coordinar la elaboración de las políticas generales en materia de tecnologías de la información y comunicaciones, y someterlas a la consideración de la Comisión de Administración;
+XXV. (DEROGADA, D.O.F. 25 DE MAYO DE 2012)
 
 XXVI. Presidir los Comités integrados por las áreas administrativas que correspondan, conforme a la normatividad aplicable;
 
 XXVII. Coordinar la elaboración de la propuesta del programa de producción de radio y televisión del Poder Judicial de la Federación, y someterlas a la consideración de la Comisión de Vigilancia, Información y Evaluación;
 
-XXVIII. Coordinarse con el Oficial Mayor y con los Titulares de las Secretarías Ejecutivas del Pleno; Carrera Judicial, Adscripción y Creación de Nuevos Organos; Disciplina; y, de Vigilancia, Información y Evaluación, así como con las Direcciones Generales de Estadística Judicial, y de Derechos Humanos, Equidad de Género y Asuntos Internacionales, cuando sea necesario para el ejercicio de sus atribuciones; y
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+XXVIII. Coordinarse con el Oficial Mayor y con los Titulares de las Secretarías Ejecutivas del Pleno; Carrera Judicial, Adscripción y Creación de Nuevos Organos; Disciplina; y de Vigilancia, Información y Evaluación, así como con la Dirección General de Derechos Humanos, Equidad de Género y Asuntos Internacionales, cuando sea necesario para el ejercicio de sus atribuciones; y
 
 XXIX. Las demás que establezcan la normatividad aplicable, el Pleno, y las comisiones.
 
@@ -951,9 +1019,11 @@ III. Dirección General de Comunicación Social;
 
 IV. Dirección General de Imagen Institucional;
 
-V. Dirección General de Tecnologías de la Información;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
 
-VI. Dirección General de Innovación, Planeación y Desarrollo Institucional; y
+V. Dirección General de Gestión Administrativa;
+
+VI. (DEROGADA, D.O.F. 25 DE MAYO DE 2012)
 
 VII. Las demás que determine el Pleno.
 
@@ -1161,7 +1231,9 @@ II. Proponer proyectos de acuerdos y lineamientos que permitan optimizar el apro
 
 III. Dirigir la elaboración e integrar el anteproyecto de presupuesto anual de egresos del Poder Judicial de la Federación y presentarlo a la consideración del superior jerárquico;
 
-IV. Integrar el anteproyecto de la Cuenta de la Hacienda Pública anual del Consejo;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+IV. Integrar la Cuenta Pública anual del Consejo;
 
 V. Controlar el ejercicio y registro de los recursos presupuestales y no presupuestales del Consejo;
 
@@ -1411,7 +1483,9 @@ II. Mantener informado al superior jerárquico, sobre el avance y logro de los o
 
 III. Dirigir, supervisar, evaluar y apoyar la operación de las administraciones regionales y delegaciones administrativas y la atención de las necesidades administrativas de los órganos jurisdiccionales y áreas administrativas que se ubican en el interior de la República, salvo en materia de informática, sistemas, telefonía, redes y cableado estructural;
 
-IV. Proponer la designación, cambio de adscripción y renuncia de servidores públicos de las administraciones regionales y delegaciones administrativas en apego a las disposiciones legales y la normatividad aplicable;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+IV. Proponer la designación, cambio de adscripción y remoción de servidores públicos de las administraciones regionales y delegaciones administrativas en apego a las disposiciones legales y la normatividad aplicable;
 
 V. Implantar, ejecutar, dar seguimiento y evaluar los programas que en materia de recursos humanos, materiales y financieros se determinen para el ámbito regional, salvo en materia de informática, sistemas, telefonía, redes y cableado estructurado;
 
@@ -1423,9 +1497,17 @@ VIII. Operar y mantener actualizado el Programa de Vivienda para magistrados de 
 
 IX. En coordinación con las áreas administrativas competentes y los órganos jurisdiccionales, operar los mecanismos de recepción y custodia de los bienes asegurados, decomisados y asegurados no reclamados y abandonados; coadyuvando con la Secretaría Técnica del Comité Técnico del Fondo de Apoyo a la Administración de Justicia en las actividades correspondientes a su destino final;
 
-X. Presentar ante el Pleno el Informe Anual de Labores correspondiente a la unidad administrativa de su competencia con la autorización del Oficial Mayor; y
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
 
-XI. Las demás que establezcan el Pleno y las comisiones.
+X. Diseñar y gestionar la publicación de edictos, cédulas de notificación y otras que requieran los órganos jurisdiccionales que se encuentren en el interior de la República Mexicana, y que soliciten a través de las Administraciones Regionales o Delegaciones Administrativas;
+
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+XI. Presentar ante el Pleno el Informe Anual de Labores correspondiente a la unidad administrativa de su competencia con la autorización del Oficial Mayor; y
+
+> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+XII. Las demás que establezcan el Pleno y las comisiones.
 
 ###### Artículo 84.
 
@@ -1823,9 +1905,11 @@ XII. Brindar el apoyo a los Consejeros en los asuntos que éstos le encomienden;
 
 XIII. Las que establezcan el Pleno y el Comité.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2012)</small>
+
 ###### Artículo 107.
 
-La Dirección General de Gestión Administrativa será la encargada de atender los requerimientos de atención y apoyo a los Consejeros o a las personas que éstos determinen, así como fungir como enlace del Consejo ante las instancias del Congreso de la Unión.
+La Dirección General de Gestión Administrativa será la encargada de atender los requerimientos de atención y apoyo a los Consejeros o a las personas que éstos determinen.
 
 ###### Artículo 108.
 
@@ -1841,11 +1925,11 @@ IV. Proporcionar a los consejeros información, orientación, formatos e instruc
 
 V. Informar al superior jerárquico el funcionamiento de las áreas a su cargo, así como el avance y logro de los objetivos y metas programados;
 
-VI. Servir de enlace entre el Consejo y el Poder Legislativo, en las actividades legislativas de interés del Consejo;
+VI. (DEROGADA, D.O.F. 25 DE MAYO DE 2012)
 
-VII. Proponer a los consejeros el esquema de seguimiento y atención de cada una de las iniciativas relacionadas con el ámbito jurisdiccional u otras solicitadas por ellos;
+VII. (DEROGADA, D.O.F. 25 DE MAYO DE 2012)
 
-VIII. Implementar y ejecutar las acciones necesarias para darle seguimiento a los asuntos legislativos que son de interés del Consejo; y
+VIII. (DEROGADA, D.O.F. 25 DE MAYO DE 2012)
 
 IX. Las que establezcan el Pleno, y las comisiones.
 
@@ -2121,13 +2205,17 @@ XXI. Informar al superior jerárquico, respecto del funcionamiento y sobre el av
 
 XXII. Las demás que establezcan el Pleno, y las comisiones.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2012)</small>
+
 ###### Artículo 119.
 
-La Dirección General de Protección Civil y Seguridad en el Trabajo se encargará de ejecutar las acciones en materia de protección civil y seguridad en el trabajo en el Poder Judicial de la Federación.
+La Dirección General de Protección Civil y Salud en el Trabajo se encargará de ejecutar las acciones en materia de protección civil y salud en el trabajo en el Poder Judicial de la Federación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2012)</small>
 
 ###### Artículo 120.
 
-El Titular de la Dirección General de Protección Civil y Seguridad en el Trabajo tendrá las siguientes atribuciones:
+El Titular de la Dirección General de Protección Civil y Salud en el Trabajo tendrá las siguientes atribuciones:
 
 I. Participar en la elaboración y evaluación de anteproyectos de acuerdos, disposiciones, reglas, bases de carácter general, normas, lineamientos y políticas para elevar la calidad de los servicios que proporciona;
 
@@ -2169,7 +2257,9 @@ V. Elaborar el anteproyecto de presupuesto anual de egresos del Poder Judicial d
 
 VI. Auxiliar a la Secretaría Ejecutiva de Finanzas en la elaboración de la propuesta y asignación del presupuesto programático autorizado;
 
-VII. Autorizar las certificaciones de disponibilidad presupuestal para plazas de nueva creación, prestaciones especiales e inversiones y servicios generales no programados en el presupuesto autorizado y asignado;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+VII. Emitir las certificaciones de disponibilidad presupuestal;
 
 VIII. Elaborar cuando proceda las adecuaciones presupuestarias internas en los capítulos de gasto por Unidad Ejecutora de Gasto;
 
@@ -2195,7 +2285,9 @@ XVIII. Dar seguimiento a los ingresos y egresos de los Fideicomisos en operació
 
 XIX. Comunicarse y coordinarse con las otras áreas administrativas del Poder Judicial de la Federación, así como con las áreas afines de la Administración Pública Federal y del sector privado, a fin de intercambiar información en materia presupuestal;
 
-XX. Elaborar y presentar a la Comisión de Administración el anteproyecto de la cuenta pública del Consejo de conformidad con la normatividad aplicable;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+XX. Elaborar y presentar a la Comisión de Administración la cuenta pública del Consejo de conformidad con la normatividad aplicable;
 
 XXI. Cumplir con los lineamientos y normatividad aplicable para el registro de las operaciones contables del Consejo;
 
@@ -2325,11 +2417,13 @@ XX. Asesorar en los asuntos relacionados con los bienes asegurados y decomisados
 
 XXI. Intervenir en los conflictos laborales de las áreas administrativas, que se ventilen ante la Comisión Substanciadora Unica del Poder Judicial de la Federación;
 
-XXII. Recopilar, sistematizar y analizar la información que considere relevante dentro del ámbito del proceso legislativo ordinario o de modificaciones a la Constitución, en temas relacionados con el ámbito de competencia del Consejo;
+XXII. (DEROGADA, D.O.F. 25 DE MAYO DE 2012)
 
-XXIII. Emitir opinión jurídica respecto de los proyectos legislativos que se consideren relevantes y que puedan incidir en el ámbito de competencia del Poder Judicial de la Federación, y remitirla al Secretario General de la Presidencia;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
 
-XXIV. Dar seguimiento a los asuntos legislativos que determine el Pleno, el Presidente, las Comisiones o el Secretario General;
+XXIII. Emitir opinión jurídica respecto de los proyectos legislativos que le instruya cualquiera de los Consejeros encargados de la Unidad de Enlace Legislativo;
+
+XXIV. (DEROGADA, D.O.F. 25 DE MAYO DE 2012)
 
 XXV. Intervenir, en el ámbito de su competencia, en el desahogo de acciones relacionadas con la atención de asuntos internacionales que incidan en el ámbito de competencia del Consejo; y
 
@@ -2367,7 +2461,9 @@ XI. Formular, proponer, dirigir y ejecutar el programa de ediciones para difundi
 
 XII. Participar en la elaboración de las publicaciones internas que realice el Consejo, tanto en formato impreso como por cualquier otro medio, aun en coordinación con otros órganos de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del Poder Judicial de la Federación, conforme a las políticas de comunicación y difusión que se establezcan;
 
-XIII. Diseñar y gestionar la publicación de avisos, acuerdos, convocatorias, licitaciones y edictos, entre otros, en el Diario Oficial de la Federación y diversos medios impresos; y
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+XIII. Diseñar y gestionar la publicación de avisos, acuerdos, convocatorias, licitaciones y edictos, entre otros, en el Diario Oficial de la Federación y diversos medios impresos, con excepción de lo previsto en el artículo 83, fracción X, de este Acuerdo; y
 
 XIV. Las demás que establezcan el Pleno, y las comisiones.
 
@@ -2431,7 +2527,9 @@ X. Brindar asesoría a las áreas competentes en los aspectos técnicos y de con
 
 XI. Colaborar, en el ámbito de su competencia, en la automatización y puesta en funcionamiento de las oficinas de correspondencia común y realizar las acciones necesarias para detectar posibles anomalías en el sistema de turno;
 
-XII. Participar en los comités y grupos de trabajo que el Pleno, el Presidente, la Comisión de Administración o el Secretario General de la Presidencia determinen;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+XII. Participar en los comités y grupos de trabajo que el Pleno, el Presidente, la Comisión de Administración o el Oficial Mayor determinen;
 
 XIII. Asesorar a la Dirección General de Recursos Materiales y Servicios Generales, en el manejo de los inventarios;
 
@@ -2489,23 +2587,33 @@ IV. Proponer, planear y coordinar los estudios, modelos, metodologías y sistema
 
 V. Dirigir y coordinar la elaboración e implantación de los planes y programas de planeación, innovación y desarrollo institucional;
 
-VI. Previa autorización de la Secretaría General de la Presidencia proponer a la Comisión de Administración, las directrices, normas, procedimientos y criterios técnicos para la integración y presentación del Plan de Desarrollo Institucional, sus programas y subprogramas, a los que habrán de ceñirse las áreas administrativas;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+VI. Proponer al Oficial Mayor las directrices, normas, procedimientos y criterios técnicos para la integración y presentación del Plan de Desarrollo Institucional, sus programas y subprogramas;
 
 VII. Instrumentar los mecanismos para el seguimiento y la presentación de los informes de avance del Plan de Desarrollo Institucional, y de los avances mensuales, y trimestrales de los programas anuales de trabajo de las áreas administrativas;
 
 VIII. Consolidar la información recibida de las áreas administrativas correspondientes a los programas anuales de trabajo;
 
-IX. Previa autorización de la Secretaría General de la Presidencia proponer a la Comisión de Administración, los métodos y criterios técnicos para la complementación del sistema de evaluación de las áreas administrativas;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+IX. Proponer al Oficial Mayor los métodos y criterios técnicos para el sistema de evaluación de las áreas administrativas;
 
 X. Realizar cuando así se le solicite diagnósticos en materia de innovación, organización y procesos de las áreas administrativas y en su caso señalar la necesidad de modificaciones normativas;
 
-XI. Previa autorización de la Secretaría General de la Presidencia proponer a la Comisión de Administración, la integración y actualización de los manuales generales de organización y de puestos;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+XI. Proponer al Oficial Mayor la integración y actualización de los manuales generales de organización y de puestos;
 
 XII. Elaborar la propuesta de Catálogo General de Puestos del Consejo, y someterlo a consideración de la Comisión de Administración para aprobación del Pleno;
 
-XIII. Elaborar y someter a la aprobación de la Secretaria General de la Presidencia, los manuales administrativos específicos de organización y de puestos, de procesos y procedimientos, y de operación de las áreas administrativas;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
 
-XIV. Previo acuerdo con la Secretaría General de la Presidencia, validar la creación, actualización, modificación o cancelación de las estructuras orgánicas y ocupacionales de las áreas administrativas. Cuando tengan un impacto presupuestal serán sometidas a la consideración de la Comisión de Administración y aprobación del Pleno;
+XIII. Elaborar y someter a la aprobación de la Oficialía Mayor, los manuales administrativos específicos de organización y de puestos, de procesos y procedimientos, y de operación de las áreas administrativas;
+
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+XIV. Previo acuerdo con la Oficialía Mayor, validar la creación, actualización, modificación o cancelación de las estructuras orgánicas y ocupacionales de las áreas administrativas. Cuando tengan un impacto presupuestal serán sometidas a la consideración de la Comisión de Administración y aprobación del Pleno;
 
 XV. Efectuar la conciliación mensual de plazas adscritas de los órganos jurisdiccionales y áreas administrativas con las Direcciones Generales de Programación y Presupuesto y de Recursos Humanos; para la elaboración de informes y actualización de los manuales administrativos correspondientes;
 
@@ -2513,7 +2621,9 @@ XVI. Elaborar los estudios y propuestas de reestructura organizacional que requi
 
 XVII. Dictaminar la creación de puestos y niveles tabulares, así como la modificación de las estructuras orgánicas del Consejo derivada de la creación de nuevas plazas o movimientos de plazas por adscripción, cancelación, conversión, prórroga, retabulación o transferencia, así como cualquier otra circunstancia que las afecte; y someterlo a la autorización de las instancias competentes;
 
-XVIII. Participar con la Oficialía Mayor en la integración y elaboración del proyecto de tabulador general de remuneraciones del Consejo;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+XVIII. Participar en la integración y elaboración del proyecto de tabulador general de remuneraciones del Consejo;
 
 XIX. Proponer las guías técnicas para la elaboración de los documentos de apoyo administrativo del Consejo;
 
@@ -2595,7 +2705,9 @@ La Dirección General de Responsabilidades tendrá a su cargo la coordinación d
 
 El titular de la Dirección General de Responsabilidades tendrá las siguientes atribuciones:
 
-I. Representar legalmente al Contralor del Poder Judicial de la Federación en los procedimientos administrativos en los que intervenga en ejercicio de sus funciones;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+I. Asesorar y representar legalmente al Contralor del Poder Judicial de la Federación en los procedimientos administrativos en los que intervenga en ejercicio de sus funciones;
 
 II. Formular, revisar y someter a la aprobación del Contralor del Poder Judicial de la Federación los proyectos normativos que le hayan sido encargados, y proponer la normativa que se requiera para el ejercicio de sus atribuciones;
 
@@ -2607,9 +2719,13 @@ V. Elaborar los dictámenes sobre la existencia de alguna irregularidad derivada
 
 VI. Llevar el registro de los servidores públicos que hayan resultado sancionados por el Pleno y por los órganos jurisdiccionales;
 
-VII. Recibir y llevar el registro de las declaraciones patrimoniales que presenten los servidores públicos del Poder Judicial de la Federación;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
 
-VIII. Recibir y llevar el registro de las declaraciones patrimoniales que presenten los servidores públicos del Tribunal Electoral del Poder Judicial de la Federación que le competen; efectuar, previa solicitud del Contralor del Poder Judicial de la Federación, las investigaciones y las diligencias necesarias para corroborar los datos asentados en las declaraciones patrimoniales presentadas por dichos servidores públicos y elaborar los estudios de evolución patrimonial que sean requeridos, de conformidad con la normatividad aplicable;
+VII. Recibir y llevar el registro de las declaraciones patrimoniales que presenten los servidores públicos del Poder Judicial de la Federación; efectuar, previa solicitud del Contralor del Poder Judicial de la Federación, las investigaciones y las diligencias necesarias para corroborar los datos asentados en las declaraciones patrimoniales presentadas por dichos servidores públicos y elaborar los estudios de evolución patrimonial que sean requeridos, de conformidad con la normatividad aplicable;
+
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+VIII. Recibir y llevar el registro de las declaraciones patrimoniales que presenten los servidores públicos del Tribunal Electoral del Poder Judicial de la Federación que le competen; efectuar, previa solicitud del Contralor Interno del propio Tribunal, las investigaciones y las diligencias necesarias para corroborar los datos asentados en las declaraciones patrimoniales presentadas por dichos servidores públicos y elaborar los estudios de evolución patrimonial que sean requeridos, de conformidad con la normatividad aplicable;
 
 IX. Proponer al Contralor del Poder Judicial de la Federación tanto los formatos de declaración patrimonial que deban emplearse por los servidores públicos, como los manuales e instructivos para su llenado;
 
@@ -2722,6 +2838,18 @@ XII. Las demás que establezcan el Pleno y la Comisión.
 ###### Artículo 146.
 
 Las ausencias de los secretarios técnicos de las comisiones podrán ser suplidas por cualquier otro servidor público que la Comisión designe para tal efecto.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+### Capítulo X. De la Unidad de Enlace Legislativo
+
+> <small>(ADICIONADO, D.O.F. 25 DE MAYO DE 2012)</small>
+
+###### Artículo 146 Bis.
+
+La Unidad de Enlace Legislativo representará al Consejo ante el Congreso de la Unión y dará seguimiento integral a los procesos de reforma constitucional y legislativos, de interés del Poder Judicial de la Federación.
+
+La operación y funcionamiento de la Unidad de Enlace Legislativo se llevará a cabo de conformidad con los lineamientos que se emitan.
 
 ## TITULO TERCERO. De los Impedimentos
 
@@ -2901,45 +3029,45 @@ Es obligatorio el uso del Sistema Computarizado para el Registro Unico de Profes
 
 El Sistema Computarizado para el Registro Unico de Profesionales del Derecho ante los órganos jurisdiccionales es una base de datos clasificada como información confidencial, de uso interno en todos los órganos jurisdiccionales y del área administrativa responsable.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2012)</small>
+
 ###### Artículo 183.
 
-Los datos que se ingresarán al Sistema Computarizado para el Registro Unico de Profesionales del Derecho ante los órganos jurisdiccionales, son los siguientes:
+Los requisitos para el Registro Unico de Profesionales del Derecho ante los órganos jurisdiccionales, son los siguientes:
 
-I. Si se exhibe cédula profesional original:
+I. Nombre (s) y apellido (s) del abogado postulante;
 
-a) Nombre(s) y apellido(s) del abogado postulante;
+II. Domicilio particular o laboral;
 
-b) Número de cédula profesional;
+III. Comprobante de domicilio;
 
-c) Fecha de expedición de la cédula profesional; y
+IV. Credencial de elector o identificación oficial vigente con fotografía;
 
-d) Nivel o grado académico registrado ante la Secretaría de Educación Pública distinto al de licenciatura, con efectos de patente en alguna rama del Derecho en la que desempeña su actividad profesional.
+V. Número telefónico y correo electrónico;
 
-II. Si se exhibe cédula profesional, en copia certificada, adicionalmente se asentará:
+VI. Nombre de la institución que expidió el titulo profesional, número de registro y fecha de expedición;
 
-a) Nombre del notario;
+VII. Número y fecha de expedición de la cédula profesional; y
 
-b) Número de la notaría pública; y
+VIII. Nivel y grado académico registrado ante la Secretaría de Educación Pública distinto al de licenciatura, con efectos de patente en alguna rama del Derecho en la que desempeña su actividad profesional, si contare con ellos.
 
-c) Fecha de la certificación correspondiente.
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2012)</small>
 
 ###### Artículo 184.
 
-Para el registro de la información especificada en el artículo anterior, los órganos jurisdiccionales, se encargarán del siguiente procedimiento:
+Para el registro de la información especificada en el artículo anterior, los órganos jurisdiccionales realizarán el siguiente procedimiento:
 
-I. Ante la intervención de un abogado postulante en asuntos del conocimiento de los referidos órganos jurisdiccionales, se le entregará solicitud de registro a fin de que, bajo protesta de decir verdad, asiente los datos requeridos;
+I.- El abogado postulante deberá solicitar por escrito y bajo protesta de decir verdad la inscripción de su cédula profesional, en la que asiente los datos requeridos en el artículo anterior;
 
-II. A la solicitud se acompañarán dos copias fotostáticas, por ambos lados, de la cédula profesional del abogado postulante;
+II.- Con la solicitud presentará el original de la cédula profesional del abogado postulante, así como dos copias simples, tanto de la cédula como de los documentos señalados en las fracciones III y IV del artículo anterior;
 
-III. El servidor público designado para llevar a cabo el registro con su nombre de usuario y clave correspondiente deberá proceder, inmediatamente, a ingresar al sistema los datos que arroje la documentación proporcionada por el profesionista;
+III.- El servidor público para llevar a cabo el registro deberá verificar los datos contenidos en la cédula profesional en la página web correspondiente de la Dirección General de Profesiones de la Secretaría de Educación Pública y, en caso de que los datos de la cédula sean coincidentes, procederá a ingresar al sistema los datos proporcionados por el abogado postulante en la solicitud y a registrar la cédula en el sistema computarizado; el servidor público que realice el registro debe asentar su nombre, cargo y órgano jurisdiccional de adscripción;
 
-IV. Verificados y confrontados los datos de la solicitud con la cédula profesional, el secretario que lo realice asentará su nombre, cargo y órgano jurisdiccional de adscripción. Acto continuo, dará la orden al sistema para el envío de la información a la unidad administrativa responsable del Consejo;
+IV.- Se hará entrega del original de la cédula, de la identificación exhibida y del comprobante de domicilio; del acuse de recibo generado por el sistema al interesado, quien a su vez firmará de recibido y de conformidad, después de que el servidor público que realizó el registro certifique las copias simples exhibidas;
 
-V. Se hará entrega del acuse de recibo generado por el sistema al interesado, quien a su vez firmará de recibido y de conformidad;
+V.- El órgano jurisdiccional en donde se lleve a cabo el registro conservará para su resguardo un tanto de las copias certificadas y de la solicitud correspondiente, y remitirá el otro tanto a la Secretaría Ejecutiva de Vigilancia Información y Evaluación; y
 
-VI. El órgano jurisdiccional en donde se lleve a cabo el registro conservará un tanto de la solicitud correspondiente y una copia de la cédula profesional; y
-
-VII. Los tantos restantes de la solicitud y copia de la cédula profesional, deberán enviarse a la Secretaría Ejecutiva de Vigilancia, Información y Evaluación, por medio electrónico o por los sistemas de mensajería tradicionales.
+VI.- En caso de que los datos de la cédula profesional que exhiba el abogado postulante no sean coincidentes con los contenidos en la página web de la Dirección General de Profesiones, el servidor público deberá dar cuenta al titular del órgano jurisdiccional de su adscripción, levantará un acta en la que haga constar esta situación y certificará las copias que le fueron exhibidas, haciendo la devolución de los documentos al interesado. Un tanto de las copias certificadas se enviarán a la Secretaría Ejecutiva de Vigilancia, Información y Evaluación para que lleve a cabo ante la Dirección General mencionada, la validación correspondiente y de resultar que no existen antecedentes en sus registros de la cédula respectiva, la Secretaría Ejecutiva le enviará la copia certificada de los documentos para los efectos que estime pertinentes.
 
 ###### Artículo 185.
 
@@ -3020,3 +3148,23 @@ Lo mismo sucederá respecto de referencias a la Dirección General de Estadísti
 Las referencias que se hagan a la Dirección General de Administración Regional que no correspondan a otra unidad administrativa, de conformidad con el régimen transitorio antes expuesto, se entenderán hechas a la Coordinación de Administración Regional.
 
 EL MAGISTRADO J. GUADALUPE TAFOYA HERNANDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo, fue aprobado por el Pleno del Consejo, en sesión ordinaria de treinta de noviembre de dos mil once, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, Juan Carlos Cruz Razo, César Esquinca Muñoa, César Alejandro Jáuregui Robles, Jorge Moreno Collado y Oscar Vázquez Marín.- México, Distrito Federal, a veintiséis de enero de dos mil doce.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 25 DE MAYO DE 2012.
+
+###### ARTICULO PRIMERO.
+
+El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta y en el portal de Internet del Consejo.
+
+###### ARTICULO TERCERO.
+
+Los Consejeros responsables de la dirección y supervisión de la Unidad de Enlace Legislativo, serán los designados por el Pleno con antelación a la entrada en vigor del presente acuerdo.
+
+###### ARTICULO CUARTO.
+
+La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá incorporar el texto de este instrumento, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo.
