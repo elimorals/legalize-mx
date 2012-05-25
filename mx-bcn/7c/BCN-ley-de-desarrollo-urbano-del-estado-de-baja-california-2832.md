@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-urbano-del-estado-de-baja-california-2832"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2011-02-18"
+last_updated: "2012-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2012.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 24 de junio de 1994.
 
@@ -201,9 +201,13 @@ XVI. La coordinación y concertación de la inversión pública y privada con la
 
 XVII. El desarrollo y adecuación en los centros de población de la infraestructura, el equipamiento y los servicios urbanos que garanticen la seguridad y accesibilidad que requieran las personas con discapacidad.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 4.
 
-Los Planes y Programas de Desarrollo Urbano y las declaratorias sobre provisiones, usos, reservas y destinos de áreas, zonas y predios, son de orden público e interés social, por lo que el ejercicio del derecho de propiedad sobre los bienes inmuebles comprendidos en ellos estará sujeto a las normas contenidas en los mismos, de acuerdo con lo previsto en los Artículos 27 de la Constitución Política de los Estados Unidos Mexicanos y 821 del Código Civil para el Estado de Baja California.
+Los Planes y Programas de Desarrollo Urbano y las declaratorias sobre provisiones, usos, reservas y destinos de áreas, zonas y predios, son de orden público e interés social, por lo que el ejercicio del derecho de propiedad sobre los bienes inmuebles comprendidos en ellos estará sujeto a las normas contenidas en los mismos, de acuerdo con lo previsto en los artículos 27 de la Constitución Política de los Estados Unidos y 821 del Código Civil para el Estado de Baja California.
+
+Quedan prohibidos los usos de suelo y de construcción para casinos, casas, centros o cualquier establecimiento que opere juego con apuestas, apuestas remotas, salas de sorteo de números, mesas de juego, máquinas electrónicas de juego, videojuegos electrónicos susceptibles de apuestas, máquinas de videojuegos electrónicos o electromecánicas de habilidad y destreza, juegos de azar y demás similares. Los planes y programas de Desarrollo Urbano a que se refiere el artículo 24 de esta Ley, deberán establecer la prohibición de uso de suelo y de construcción para dichos establecimientos.
 
 ###### ARTICULO 5.
 
@@ -505,7 +509,7 @@ XXXVII. Tramitar y resolver los recursos administrativos previstos en esta Ley; 
 
 XXXVIII. Las demás atribuciones que le señale esta Ley, sus normas y disposiciones reglamentarias.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 12.
 
@@ -547,7 +551,7 @@ XIV. Las demás atribuciones que le señale esta ley y otras normas legales y re
 
 El titular de la Secretaría ejercerá las facultades de su competencia y podrá delegar en sus subalternos cualesquiera de éstas, salvo aquellas que expresamente sean indelegables de acuerdo con la Ley Orgánica de la Administración Pública del Estado y demás Leyes relativas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 14.
 
@@ -627,7 +631,7 @@ IX. Elaborar su propio Reglamento interno; y
 
 X. Ejercer las demás atribuciones que le correspondan conforme a esta Ley y dictaminar sobre otros asuntos que por su trascendencia le encomiende el Ejecutivo del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 21.
 
@@ -959,7 +963,7 @@ VIII. Todas aquellas que en adición a las anteriores, contribuyan a lograr los 
 
 El procedimiento para la elaboración del proyecto del Programa Regional de Desarrollo Urbano, se sujetará a las disposiciones del Artículo 35 de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 43.
 
@@ -1321,11 +1325,11 @@ En el caso de que sea de estricta necesidad demoler total o parcialmente, las ed
 
 Las obras que sean a cargo de las autoridades estatales o municipales, se ejecutarán en los términos previstos en esta Ley y demás disposiciones específicas.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
 ## TITULO TERCERO. DE LAS CONURBACIONES Y DE LAS ZONAS METROPOLITANAS
 
-> <small>(REFORMADO [N. DE E. ANTES CAPITULO UNICO], P.O. 28 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO ÚNICO], P.O. 28 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO PRIMERO. De las Conurbaciones y de las Zonas Metropolitanas
 
@@ -1659,7 +1663,7 @@ Conforme lo dispone el Artículo 47 de la Ley General de Asentamientos Humanos, 
 
 Igual derecho de preferencia tendrán el Gobierno del Estado y los Municipios para adquirir los predios comprendidos en la declaratoria de reserva, en caso de remate judicial o administrativo, al precio que se fije en remate al mejor postor, mismo que deberá ser ratificado por la Comisión Estatal de Avalúos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 128.
 
@@ -1693,7 +1697,7 @@ El derecho de preferencia a que se refiere este Capítulo, se extinguirá en aqu
 
 Cuando para la ejecución de los Planes y Programas de Desarrollo Urbano o de las Declaratorias sea necesaria o de mayor beneficio social la ocupación de la propiedad, la autoridad competente por causa de utilidad pública proveerá la expropiación de la misma de conformidad con la Ley de Expropiación del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 134.
 
@@ -1811,7 +1815,7 @@ Las personas físicas o morales, propietarias de terrenos, quienes se desempeñe
 
 El otorgamiento de permisos y autorizaciones para realizar acciones de urbanización es competencia de los ayuntamientos, salvo las condiciones y excepciones siguientes:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
 I. El Ejecutivo del Estado a través de la Secretaría, deberá extender un dictamen técnico de congruencia a solicitud de los ayuntamientos, previo a cualquier expedición de autorización cuando se trate de acciones de urbanización de alcance estatal tales como todo tipo de infraestructura que no haya sido considerada dentro de los Planes y Programas de Desarrollo Urbano Estatal, Municipal y de Centros de Población, como son:
 
@@ -2001,7 +2005,7 @@ Cuando el solicitante sea distinto al urbanizador, se le denominará "promotor i
 
 El promotor inmobiliario deberá asumir expresamente la responsabilidad de la ejecución de las obras de urbanización, en forma solidaria con los propietarios de los terrenos o de fincas y predios, según corresponda, en la solicitud de trámite correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 167.
 
@@ -2143,7 +2147,7 @@ Si transcurrido el plazo a que se refiere el párrafo anterior, el urbanizador n
 
 En tanto no se concluyan las acciones de urbanización y éstas sean recibidas por el Municipio, quedan bajo la responsabilidad del urbanizador para cumplir las obligaciones que se establecen en esta Ley y otros ordenamientos aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 189.
 
@@ -2331,7 +2335,7 @@ Las acciones de urbanización por cooperación pueden realizarse con la cooperac
 
 Las acciones de urbanización y edificación por plusvalía, son aquellas que se realizan para uno o varios destinos a fin de satisfacer intereses colectivos y que son declaradas de utilidad pública, con un beneficio general para el centro de población y que requieren, en cada caso, de las contribuciones de mejoras establecidas en la Ley de Urbanización del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 216.
 
@@ -2605,7 +2609,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 C.P. FORTUNATO ALVAREZ ENRIQUEZ.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 20 DE SEPTIEMBRE DE 1996.
 
@@ -2648,3 +2652,9 @@ PRIMERO.- Las presentes reformas entraran en vigor al día siguiente de su publi
 SEGUNDO.- En un plazo de 90 días a partir del día en que inicie su vigencia las presentes reformas, los Ayuntamientos deberán adecuar su marco jurídico reglamentario.
 
 TERCERO.- Todos los procedimientos que se hayan iniciado antes de la vigencia de las presentes reformas y que no se encuentren concluidos, se regirán conforme a las disposiciones con los que se iniciaron.
+
+P.O. 25 DE MAYO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
