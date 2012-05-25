@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-instituciones-y-procedimientos-electorales-de-baja-64597
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-19"
-last_updated: "2012-04-20"
+last_updated: "2012-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64597&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2012.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 19 de noviembre de 2008.
 
@@ -4087,6 +4087,10 @@ En la casilla se recibirá votación después de las 18:00 horas, siempre y cuan
 
 En el caso de las casillas especiales, solamente podrán cerrarse antes, si se hubiese agotado la dotación de boletas previamente acordada.
 
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2012)</small>
+
+ARTÍCULO 346 BIS.- La votación podrá realizarse mediante el uso de instrumentos electrónicos, cuyo modelo sea aprobado por el Consejo General, siempre que se garantice la efectividad y el secreto del sufragio, así como la veracidad, seguridad y certeza del instrumento propuesto.
+
 ### CAPÍTULO TERCERO. DEL ESCRUTINIO Y CÓMPUTO EN LA CASILLA
 
 ###### ARTÍCULO 347.
@@ -6000,3 +6004,13 @@ QUINTO.- A partir del 2010, en ningún caso, la dieta de los consejeros presiden
 P.O. 20 DE ABRIL DE 2012.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE MAYO DE 2012.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Consejo General del Instituto Electoral y de Participación Ciudadana de Baja California destinará para el ejercicio fiscal 2012 los recursos presupuestales necesarios para realizar un estudio y pruebas pilotos de la votación electrónica.
+
+TERCERO.- El Consejo General del Instituto Electoral y de Participación Ciudadana de Baja California tendrá un plazo de 180 días a partir de la entrada en vigor del presente decreto para expedir el Reglamento para el Uso de la Votación Electrónica en Baja California.
+
+CUARTO.- Para el proceso electoral que tendrá verificativo en el año 2013, se deberá llevar a cabo por lo menos una prueba vinculante de votación electrónica en las casillas especiales que para tal efecto determine el Consejo General, según lo dispuesto en el artículo 301 de esta Ley, para lo cual el Consejo General de (sic) Instituto Electoral y de Participación Ciudadana de Baja California preverá para el ejercicio fiscal de ese año los recursos presupuestales necesarios en la realización de este ejercicio.
