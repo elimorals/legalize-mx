@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2012-04-08"
+last_updated: "2012-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -3029,13 +3029,15 @@ EXCLUSIÓN DE SANCIONES. No se considera que obran delictuosamente los padres, t
 
 ###### ARTÍCULO 291.
 
-SANCIONES Y FIGURAS TIPICAS DE LOS DELITOS CONTRA EL MEDIO AMBIENTE. Se impondrá pena de seis meses a siete años de prisión y multa, al que realice cualquiera de las conductas siguientes:
+SANCIONES Y FIGURAS TÍPICAS DE LOS DELITOS CONTRA EL MEDIO AMBIENTE. Se impondrá pena de seis meses a siete años de prisión y multa, al que realice cualquiera de las conductas siguientes:
 
 Sin autorización de la autoridad correspondiente o en contravención a los términos en que haya sido concedida, realice en áreas de jurisdicción estatal o municipal, cualquier actividad con materiales o residuos no reservados a la Federación, que por su clase, calidad o cantidad, ocasionen o puedan ocasionar daños a la salud pública, a los recursos naturales, a la fauna, a la flora o a los ecosistemas.
 
 I. Con violación a lo establecido en las disposiciones legales aplicables, emita, despida o descargue en la atmósfera, lo autorice u ordene, gases, humos, polvos o contaminantes que ocasionen daños a la salud pública, a los recursos naturales, a la fauna, a la flora o a los ecosistemas, siempre que dichas emisiones provengan de fuentes fijas o móviles de jurisdicción estatal o municipal.
 
-II. Al que no obstante haber sido sancionado administrativamente por la autoridad competente en dos o más ocasiones, realice quemas a cielo abierto mediante la combustión de llantas, plásticos o cualquier otro material contaminante de desecho, con el propósito de generar calor o energía para uso industrial o personal, provocando degradaciones atmosféricas que puedan ocasionar daños a la salud pública, a la flora, a la fauna y a los ecosistemas.
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+
+II. Al que no obstante haber sido sancionado administrativamente por la autoridad competente, realice quemas a cielo abierto mediante la combustión de llantas, plásticos o cualquier otro material contaminante de desecho, con el propósito de generar calor o energía para uso industrial o personal, o para la extracción de alguno de sus compontes, provocando degradaciones atmosféricas que puedan ocasionar daños a la salud pública, a la flora, a la fauna y a los ecosistemas.
 
 III. En contravención a las disposiciones legales aplicables, genere emisiones de olores, ruidos, vibraciones, energía térmica o lumínica, provenientes de fuentes emisoras de jurisdicción estatal o municipal, que ocasionen daños a la salud pública, a los recursos naturales, a la flora, a la fauna o a los ecosistemas.
 
@@ -4918,3 +4920,7 @@ SEXTO.- Todas las disposiciones contenidas en esta ley que se relacionen con el 
 SÉPTIMO.- La organización y funcionamiento del Centro de Evaluación y Control de Confianza previsto en la fracción II del artículo 8 y 284 del Artículo Primero del presente decreto, se regulará por las disposiciones que para tal efecto se emitan en un plazo no mayor a sesenta días naturales contados a partir de la entrada en vigor del presente.
 
 OCTAVO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE MAYO DE 2012.
+
+ÚNICO.- El presente decreto entrara en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Estado.
