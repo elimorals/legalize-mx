@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ccno-4-2012-de-la-comision-de-creacion-de-nuevos-87499"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-04-27"
-last_updated: "2012-04-27"
+last_updated: "2012-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87499&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-04-16"
 
 ACUERDO CCNO/4/2012 DE LA COMISIÓN DE CREACIÓN DE NUEVOS ÓRGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL INICIO DE LA COMPETENCIA TEMPORAL COMPARTIDA Y TURNO REGULADO DE ASUNTOS EJECUTIVOS MERCANTILES DEL JUZGADO SEGUNDO DE DISTRITO EN MATERIA MERCANTIL, ESPECIALIZADO EN JUICIOS DE CUANTÍA MENOR, CON SEDE EN CANCÚN, QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE MAYO DE 2012.
 
 Acuerdo publicado en la Cuarta Sección del Diario Oficial de la Federación, el viernes 27 de abril de 2012.
 
@@ -49,11 +49,11 @@ En consecuencia, con fundamento en las disposiciones constitucionales y legales 
 
 ACUERDO
 
-PRIMERO. A partir del treinta de abril de dos mil doce, se establece la competencia temporal compartida del Juzgado Segundo de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en Cancún, Quintana Roo, para conocer, junto con los Juzgados de Distrito en el Estado de Quintana Roo, con sede en Cancún, de los asuntos ejecutivos mercantiles cuya cuantía sea igual a la establecida para el caso de los juicios orales mercantiles, de conformidad con lo dispuesto por el artículo 1390 bis del Código de Comercio.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO CCNO/5/2012 DE LA COMISIÓN DE CREACIÓN DE NUEVOS ÓRGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE MAYO DE 2012)</small>
 
-En consecuencia, a partir de la fecha señalada y hasta nuevo aviso, la Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de Quintana Roo, con residencia en Cancún, turnará al Juzgado Segundo de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, uno de cada cuatro asuntos ejecutivos mercantiles de la cuantía señalada que se presenten ante ésta.
+PRIMERO. A partir del veintiuno de mayo de dos mil doce, se establece la competencia temporal del Juzgado Segundo de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en Cancún, Quintana Roo, para conocer de los asuntos ejecutivos mercantiles cuya cuantía sea igual a la establecida para el caso de los juicios orales mercantiles, de conformidad con lo dispuesto por el artículo 1390 bis del Código de Comercio.
 
-Para el turno de los asuntos referidos al Juzgado Segundo de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, la citada oficina cuidará que no se trate de expedientes relacionados, en términos de lo dispuesto por el artículo 9 del Acuerdo General 13/2007.
+En consecuencia, a partir de la fecha señalada y hasta nuevo aviso, la Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de Quintana Roo, con residencia en Cancún, turnará al Juzgado Segundo de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, todos los asuntos ejecutivos mercantiles de la cuantía señalada que se presenten ante ésta.
 
 SEGUNDO. La Dirección General de Estadística Judicial y la Dirección General de Tecnologías de la Información instrumentarán de forma oportuna y coordinada las modificaciones que correspondan en la configuración del sistema de cómputo instalado en la Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de Quintana Roo, con residencia en Cancún, habilitando los campos que sean necesarios.
 
@@ -70,3 +70,15 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL MAGISTRADO EDWIN NOE GARCIA BAEZA, SECRETARIO EJECUTIVO DE CARRERA JUDICIAL, ADSCRIPCION Y CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo CCNO/4/2012, de la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal, relativo al inicio de la competencia temporal compartida y turno regulado de asuntos ejecutivos mercantiles del Juzgado Segundo de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con sede en Cancún, Quintana Roo, fue aprobado por la propia Comisión en sesión privada ordinaria celebrada el dieciséis de abril de dos mil doce, por los señores Consejeros: Presidente César Alejandro Jáuregui Robles, Daniel Francisco Cabeza de Vaca Hernández y Jorge Moreno Collado.- México, Distrito Federal, a dieciséis de abril de dos mil doce.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 25 DE MAYO DE 2012.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. La Dirección General de Estadística Judicial y la Dirección General de Tecnologías de la Información, modificarán los rubros del Sistema Integral de Seguimiento de Expedientes relativos a los asuntos que ingresen al Juzgado Segundo de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con sede en Cancún, Quintana Roo, a fin de identificar por separado los juicios orales mercantiles de los ejecutivos mercantiles.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo CCNO/4/2012 de la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal.
+
+CUARTO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
