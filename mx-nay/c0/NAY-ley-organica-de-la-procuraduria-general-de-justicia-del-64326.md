@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-procuraduria-general-de-justicia-del-64326"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-10-11"
-last_updated: "2010-06-23"
+last_updated: "2012-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64326&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE NAYARIT
 
-LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE NAYARIT
+LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el sábado 11 de octubre de 2008.
 
@@ -171,7 +171,7 @@ Los Subprocuradores, Visitadores, Coordinadores, Directores, Subdirectores, Jefe
 
 ### Capítulo III. Atribuciones y Delegación de Facultades del Procurador General de Justicia
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### Artículo 14.
 
@@ -183,7 +183,7 @@ a).- Fomentar entre los servidores públicos de la dependencia, una cultura de r
 
 b).- Atender las visitas, propuestas de conciliación y recomendaciones de la Comisión Nacional de los Derechos Humanos, y de la Comisión de Defensa de los Derechos Humanos del Estado, conforme a las normas aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2010)</small>
 
 II.- Participar en el Sistema Nacional de Seguridad Pública, de conformidad con la Ley General del Sistema Nacional de Seguridad Pública, y demás disposiciones aplicables. En el ejercicio de esta atribución el Procurador deberá:
 
@@ -281,7 +281,11 @@ Los Coordinadores, Directores y demás servidores serán suplidos en los términ
 
 Son atribuciones generales de la Institución del Ministerio Público:
 
-I.- Investigar los delitos del orden local, cometidos en el Estado de Nayarit;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+
+I.- Investigar los delitos del orden local, cometidos en el Estado de Nayarit, así como perseguir y conocer de los delitos contra la salud en su modalidad de narcomenudeo a que se refiere el capítulo VII del título XVIII de la Ley General de Salud, recibiendo su investigación, cuando se colmen los supuestos previstos en el artículo 474 de dicho ordenamiento, para que surta la competencia local.
+
+El Ministerio Público, al iniciar la investigación, dará aviso a la Secretaría de Salud del Estado cuando un farmacodependiente se encuentre inculpado de cometer un delito, a fin de que dicha autoridad intervenga en los términos de las disposiciones aplicables, sin perjuicio de lo previsto en el artículo 120 de la Ley de Ejecución de Sanciones Penales, Medidas de Seguridad y Prisión Preventiva para el Estado de Nayarit.
 
 II.- Vigilar la ejecución y cumplimiento de las sanciones que imponga en cada caso concreto la autoridad judicial;
 
@@ -345,9 +349,17 @@ II.- Investigar los delitos del orden local;
 
 III.- Practicar las diligencias necesarias para la acreditación del cuerpo del delito y la probable responsabilidad del indiciado, así como para la reparación de los daños y perjuicios causados;
 
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2012)</small>
+
+Para fines de investigación, tratándose de los delitos de narcomenudeo previstos en los artículos 475, 476 y 477 de la Ley General de Salud, el Procurador General de Justicia podrá solicitar al Titular del Ministerio Público de la Federación o al Servidor Público que éste designe, la autorización para que determinados elementos de la agencia estatal de investigación compren, adquieran o reciban la transmisión de un narcótico, a fin de lograr la detención de quienes se sospechen estén involucrados en la comercialización o suministro de narcóticos o de la posesión de los mismos con dichos fines.
+
 IV.- Ordenar la detención y, en su caso, retener a los probables responsables de la comisión de delitos, en los términos previstos por el artículo 16 de la Constitución Federal;
 
 V.- Realizar el aseguramiento de bienes de conformidad con las disposiciones aplicables;
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2012)</small>
+
+Cuando exista aseguramiento de estupefacientes o psicotrópicos, el Ministerio Público solicitará la elaboración del informe pericial correspondiente, sobre los caracteres organolépticos o químicos de la sustancia asegurada. Cuando hubiere detenido, este informe deberá ser rendido a más tardar dentro del plazo de treinta y seis horas.
 
 VI.- Restituir provisionalmente y de inmediato al ofendido en el goce de sus derechos, siempre y cuando no se afecte a terceros y esté acreditado el cuerpo del delito de que se trate; en caso necesario, ordenará que el bien se mantenga a disposición del Ministerio Público, exigiendo el otorgamiento de garantías que de ejercitarse la acción penal se pondrán a disposición del órgano jurisdiccional;
 
@@ -503,7 +515,7 @@ Los auxiliares del Ministerio Público notificarán de inmediato a éste, de tod
 
 ### Capítulo I. Disposiciones Generales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### Artículo 33.
 
@@ -645,7 +657,7 @@ XII.- Aprobar el curso de ingreso, formación inicial o básica que establezcan 
 
 XIII.- Los demás requisitos que establezca la Ley General del Sistema Nacional de Seguridad Pública, la ley del Sistema Estatal de Seguridad Pública y otras disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### Artículo 35.
 
@@ -741,7 +753,7 @@ Igualmente, deberá verificarse la autenticidad de los documentos presentados po
 
 Para el ingreso a la categoría básica de Agente del Ministerio Público, de elemento de la Agencia Estatal de Investigación y de Perito Profesional y Técnico, se realizará concurso de ingreso por oposición interna o convocatoria libre.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### Artículo 39.
 
@@ -785,7 +797,7 @@ VIII.- No incurrir en actos u omisiones que causen la pérdida de confianza o af
 
 IX.- Cumplir con las obligaciones que les impongan la Ley General del Sistema Nacional de Seguridad Pública, Ley del Sistema Estatal de Seguridad Pública y demás disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### Artículo 42.
 
@@ -885,7 +897,7 @@ Para los efectos de esta ley, se entiende por agentes de designación especial a
 
 La Agencia Estatal de Investigación y los Servicios Periciales estarán integrados por elementos y peritos de carrera, así como por elementos y peritos de designación especial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### Artículo 45.
 
@@ -1049,7 +1061,7 @@ Los Procedimientos a que se refiere esta ley, serán substanciados en la Visitad
 
 Los miembros del Servicio de Carrera de Procuración de Justicia que estén sujetos a proceso penal como probables responsables de delito doloso, o culposo calificado como grave por la ley, serán suspendidos por el Visitador General, desde que se dicte el auto de formal prisión o de sujeción a proceso y hasta que se emita sentencia ejecutoriada. En caso de que ésta fuese condenatoria serán destituidos; si por el contrario, fuese absolutoria, se les restituirá en sus derechos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JUNIO DE 2010)</small>
 
 ### Capítulo VI. Del Instituto de Capacitación Especializada en Procuración de Justicia
 
@@ -1065,7 +1077,7 @@ El Instituto de Capacitación Especializada en Procuración de Justicia, es un �
 
 El Instituto de Capacitación Especializada en Procuración de Justicia, tendrá por objeto la formación y profesionalización altamente especializada de servidores públicos de las áreas de Procuración de Justicia, la formación de investigadores, profesores, especialistas y técnicos en las diversas áreas que se relacionen con la procuración de justicia; la realización además de investigaciones sobre problemas del Estado en estas áreas, la información y difusión de los conocimientos de ellas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### Artículo 54.
 
@@ -1123,7 +1135,7 @@ XV.- En los planes de estudio para la profesionalización, se integrara el conju
 
 XVI.- La demás que determine, la Ley del Sistema Estatal de Seguridad Pública, esta Ley, su reglamento y demás disposiciones aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JUNIO DE 2010)</small>
 
 ### Capítulo VII. De los Procesos de Evaluación y Certificación de los Servidores Públicos
 
@@ -1149,11 +1161,11 @@ VI.- Evaluación del desempeño y de conocimientos, y
 
 VII.- Los demás que se determinen en la Ley General del Sistema Nacional de Seguridad Pública, Ley del Sistema Estatal de Seguridad Pública, ésta Ley, su reglamento y demás disposiciones aplicables.
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 23 DE JUNIO DE 2010)</small>
 
 Los procesos de evaluación tendrán por objeto comprobar que los servidores públicos a que se refiere el párrafo primero, dan debido cumplimiento a los principios de legalidad, eficacia, profesionalismo, honradez, lealtad, imparcialidad y de respeto a los derechos humanos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### Artículo 56.
 
@@ -1243,13 +1255,13 @@ III. Por no obtener la revalidación de su Certificado, y
 
 IV. Por las demás causas que al efecto se establezcan en otras disposiciones aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JUNIO DE 2010)</small>
 
 ## Título Sexto. De los Derechos y Obligaciones de los Agentes del Ministerio Público, Elementos de la Agencia Estatal de Investigación, Peritos y Oficiales Secretarios
 
 ### Capítulo I. De los Derechos de los Servidores Públicos
 
-> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PARRAFO, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### Artículo 60.
 
@@ -1367,13 +1379,13 @@ XXI. Los demás que establezca la Ley General del Sistema Nacional de Seguridad 
 
 El incumplimiento de estas obligaciones, dará lugar a las sanciones correspondientes.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JUNIO DE 2010)</small>
 
 ## Título Séptimo. De las Causas de Responsabilidad de los Agentes del Ministerio Público, Elementos de la Agencia Estatal Investigadora, Peritos y Oficiales Secretarios
 
 ### Capítulo I. Disposiciones Generales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### Artículo 63.
 
@@ -1449,7 +1461,7 @@ III.- Ejercer las funciones de tutor curador o albacea judicial, a no ser que te
 
 IV.- Desempeñar funciones electorales federales, estatales o municipales.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JUNIO DE 2010)</small>
 
 ### Capítulo III
 
@@ -1487,7 +1499,7 @@ La suspensión es la interrupción temporal de los efectos del nombramiento por 
 
 La sanción económica que se impondrá al infractor, será de diez a cien días de salario mínimo vigente en el estado; cuando se aplique esta sanción al servidor público, éste desempeñará sus funciones como ordinariamente las realizaba.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### Artículo 69.
 
@@ -1565,7 +1577,7 @@ El plazo de la prescripción se contará a partir del día siguiente a aquel en 
 
 La interposición de denuncia o queja ante la Visitaduría interrumpe la prescripción.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JUNIO DE 2010)</small>
 
 ### Capítulo IV. De los Procedimientos para la Imposición de Sanciones ante la Visitaduría General y ante el Consejo Técnico de la Carrera Policial
 
@@ -2095,10 +2107,16 @@ Estatal, Peritos y Oficial Secretario 32
 
 ## Título Décimo. Disposiciones Finales 40
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 23 DE JUNIO DE 2010.
 
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
 
 Segundo.- En tanto se expide el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia, el cual deberá expedirse en un plazo no mayor de noventa días naturales a partir de la entrada en vigor del presente decreto, se aplicará el Reglamento Interior, publicado el diez de enero del año dos mil cuatro, en el Periódico Oficial, órgano del Gobierno del Estado, en todo aquello que no se oponga a las disposiciones del presente decreto.
+
+P.O. 25 DE MAYO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
