@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-54-2009-del-pleno-del-consejo-de-la-70539"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-10-26"
-last_updated: "2012-01-18"
+last_updated: "2012-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70539&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-09-30"
 
 ACUERDO GENERAL 54/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO AUXILIAR DE LA DÉCIMA REGIÓN, CON RESIDENCIA EN SALTILLO, COAHUILA, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE MAYO DE 2012.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 26 de octubre de 2009.
 
@@ -55,9 +55,9 @@ En consecuencia, con fundamento en los artículos constitucionales y legales inv
 
 ACUERDO
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 41/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO POR EL PUNTO DÉCIMO DEL ACUERDO GENERAL 15/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE MAYO DE 2012)</small>
 
-PRIMERO. CONFORMACION, COMPETENCIA y DENOMINACION. Se crea el Centro Auxiliar de la Décima Región, con residencia en Saltillo, Coahuila de Zaragoza, conformado por cuatro tribunales colegiados de Circuito auxiliares y cuatro juzgados de Distrito auxiliares, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias.
+PRIMERO. CONFORMACION, COMPETENCIA y DENOMINACION. Se crea el Centro Auxiliar de la Décima Región, con residencia en Saltillo, Coahuila de Zaragoza, conformado por cuatro tribunales colegiados de Circuito auxiliares y tres juzgados de Distrito auxiliares, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias.
 
 Los tribunales colegiados se denominarán:
 
@@ -76,8 +76,6 @@ Juzgado Primero de Distrito del Centro Auxiliar de la Décima Región.
 Juzgado Segundo de Distrito del Centro Auxiliar de la Décima Región.
 
 Juzgado Tercero de Distrito del Centro Auxiliar de la Décima Región.
-
-Juzgado Cuarto de Distrito del Centro Auxiliar de la Décima Región.
 
 SEGUNDO. INICIO DE FUNCIONES Y DOMICILIO. El Pleno del Consejo de la Judicatura Federal determinará la fecha de inicio de funciones, así como la ubicación de los órganos jurisdiccionales que integrarán el Centro Auxiliar de la Décima Región, con residencia en Saltillo, Coahuila.
 
@@ -115,7 +113,7 @@ Los titulares o presidentes de los órganos jurisdiccionales comisionarán, de s
 
 SEXTO. PLANTILLAS. Las plantillas de los órganos jurisdiccionales serán las siguientes:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 SEPTIMO. ESTADISTICA E INFORMES. Los titulares de los órganos jurisdiccionales que integran el Centro Auxiliar de la Décima Región, deberán enviar dentro de los primeros cinco días de cada mes, su reporte estadístico mensual a la Dirección General de Estadística y Planeación Judicial.
 
@@ -123,7 +121,7 @@ Asimismo, los órganos jurisdiccionales auxiliares que integran el Centro Auxili
 
 ORGANO JURISDICCIONAL AUXILIADO
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 La Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos, con el reporte estadístico que remitan los órganos jurisdiccionales Auxiliares, informará a la Comisión de Creación de Nuevos Organos el estado que guardan, y ésta, lo enviará al Pleno del Consejo de la Judicatura Federal para su conocimiento.
 
@@ -159,7 +157,7 @@ TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deb
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 54/2009, del Pleno del Consejo de la Judicatura Federal, que Crea el Centro Auxiliar de la Décima Región, con Residencia en Saltillo, Coahuila, así como los Organos Jurisdiccionales que lo Integrarán, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de treinta de septiembre de dos mil nueve, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Juan Carlos Cruz Razo, César Alejandro Jáuregui Robles y Oscar Vázquez Marín.- México, Distrito Federal, a dieciséis de octubre de dos mil nueve.- Conste.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 28 DE OCTUBRE DE 2011.
 
@@ -176,3 +174,13 @@ PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, a los Acuerdos Generales 10/2008, 18/2008, 27/2008, 52/2008, 53/2008, 54/2008, 20/2009, 51/2009, 54/2009, 32/2010 y 33/2011, relativos a la Creación de cada uno de los once Centros Auxiliares Regionales.
+
+D.O.F. 25 DE MAYO DE 2012.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Dirección General de Estadística Judicial y la Dirección General de Tecnologías de la Información determinarán, en el ámbito de su competencia, lo relativo al funcionamiento de la Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de Coahuila de Zaragoza, con residencia en Monclova.
+
+CUARTO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 11/2011, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales colegiados y unitarios de Circuito y de los juzgados de Distrito. Asimismo, la reforma al Acuerdo General 54/2009, del Pleno del Consejo de la Judicatura Federal, que crea el Centro Auxiliar de la Décima Región, con residencia en Saltillo, Coahuila, así como los órganos jurisdiccionales que lo integrarán.
