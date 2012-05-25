@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-ejecutivo-del-estado-de-nayarit-23403"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-21"
-last_updated: "2011-12-17"
+last_updated: "2012-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2012.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el jueves 21 de diciembre del 2000.
 
@@ -1351,9 +1351,13 @@ XXV. Celebrar convenios de colaboración, en el ámbito de su competencia y en e
 
 XXVI. Colaborar, en el marco del Sistema Nacional y Estatal de Seguridad Pública, cuando así lo soliciten otras autoridades federales, estatales, municipales o del Distrito Federal competentes, en la protección de la integridad física de las personas y en la preservación de sus bienes, en situaciones de peligro cuando se vean amenazadas por disturbios u otras situaciones que impliquen violencia o riesgo inminente;
 
-XXVII. Auxiliar al Poder Judicial ya la Procuraduría General de Justicia, cuando así lo requieran, para el debido ejercicio de sus funciones;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
-XXVIII. Ejecutar las penas por delitos del orden común y administrar el sistema estatal penitenciario; así como organizar y dirigir las actividades de apoyo a liberados;
+XXVII. Auxiliar al Poder Judicial y a la Procuraduría General de Justicia, cuando así lo requieran, para el debido ejercicio de sus funciones, participando en la prevención y combate a las actividades de posesión, comercio o suministro de estupefacientes y psicotrópicos cuando dichas actividades se realicen en lugares públicos, actuando conforme a sus atribuciones; así como remitiendo los informes relativos a la investigación de los delitos contra la salud en su modalidad de narcomenudeo a que se refiere el capítulo VII del título XVIII de la Ley General de Salud, cuando así lo solicite el Ministerio Público de la Federación;
+
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+
+XXVIII. Administrar el sistema estatal penitenciario; así como organizar y dirigir las actividades de apoyo a liberados;
 
 XXIX. Elaborar, ejecutar y vigilar el cumplimiento de las políticas referentes a la readaptación social de los delincuentes, en los términos de las leyes de la materia;
 
@@ -1400,6 +1404,10 @@ XIV. Intervenir en auxilio de autoridades judiciales de otras entidades federati
 XV. Remitir al órgano jurisdiccional que lo haya solicitado, a las personas aprehendidas en cumplimiento de una orden de aprehensión dictada por aquel;
 
 XVI. Intervenir en auxilio o coordinar su actuación con las autoridades federales en la persecución de los delitos de competencia de aquéllas;
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2012)</small>
+
+Cuando se trate de delitos contra la salud en su modalidad de narcomenudeo, a que se refiere el capítulo VII del título XVIII de la Ley General de Salud, le corresponderá intervenir en la persecución y conocimiento de los mismos, así como recibir su investigación, cuando se colmen los supuestos del artículo 474 de dicho ordenamiento;
 
 XVII. Designar, remover o adscribir a los Agentes del Ministerio Público, así como coordinar y supervisar su actuación para que se apeguen a los procedimientos establecidos en la Constitución Política de los Estados Unidos Mexicanos, en la particular del estado y en los demás ordenamientos legales aplicables;
 
@@ -1849,7 +1857,7 @@ El Secretario General de Gobierno
 
 Lic. Fernando González Díaz.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 17 DE SEPTIEMBRE DE 2005.
 
@@ -2004,3 +2012,9 @@ CUARTO: Los asuntos que con motivo de esta reforma deban pasar de la competencia
 QUINTO: Cuando la ley haga referencia a alguna atribución conferida a la Secretaría de Educación Básica o a la Secretaría de Educación Media Superior, Superior e Investigación Científica y Tecnológica, se entenderá a favor de la Secretaría de Educación creada en el presente Decreto.
 
 SEXTO: Los servidores públicos adscritos a la Secretaría de Educación Básica y Secretaría de Educación Media Superior, Superior e Investigación Científica y Tecnológica, no resultarán afectados en sus derechos laborales adquiridos, al incorporarse a la nueva Dependencia.
+
+P.O. 25 DE MAYO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
