@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-ejecucion-de-sanciones-penales-medidas-de-seguridad-8237
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-09"
-last_updated: "2011-07-09"
+last_updated: "2012-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82377&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE EJECUCIÓN DE SANCIONES PENALES, MEDIDAS DE SEGURIDAD Y PRISIÓN PREVENTIVA PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el sábado 9 de julio de 2011.
 
@@ -605,6 +605,10 @@ El área médica efectuará valoraciones periódicas e integrará los resultados
 
 Los servicios de atención médica serán gratuitos y obligatorios para el interno, como medio para proteger, promover y restaurar su salud. Éstos contemplarán actividades de prevención, curación y rehabilitación, en estricto apego a las disposiciones legales aplicables en materia de servicios de salud.
 
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2012)</small>
+
+Los servicios de rehabilitación estarán siempre a disposición del farmacodependiente en todos los centros penitenciarios.
+
 ###### Artículo 64.
 
 En cada centro penitenciario existirá un médico general, encargado de cuidar la salud física y mental de los internos y vigilar las condiciones de higiene y salubridad. Asimismo, habrá por lo menos un auxiliar técnico-sanitario, acceso a un psicólogo y a un odontólogo.
@@ -874,6 +878,10 @@ La audiencia será registrada por cualquier medio tecnológico de reproducción 
 ###### Artículo 89.
 
 Las solicitudes de beneficios que conforme a lo dispuesto por esta ley sean notoriamente improcedentes serán desechadas de plano y notificadas al interesado.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2012)</small>
+
+Para el otorgamiento de cualquiera de los beneficios que conforme a lo dispuesto por esta ley sean procedentes, no se considerará como antecedente de mala conducta que se le haya considerado farmacodependiente al sentenciado, pero sí se exigirá en todo caso que éste se someta al tratamiento médico correspondiente para su rehabilitación debida, bajo vigilancia del juez de ejecución.
 
 ###### Artículo 90.
 
@@ -1404,3 +1412,11 @@ D A D O en la Sala de Sesiones "Lic. Benito Juárez García" recinto oficial del
 Dip. J. Dolores Salvador Galindo Flores, Presidente.- Rúbrica.- Dip. Gloria Noemí Ramírez Bucio, Secretaria.- Rúbrica.- Dip. María de Lourdes Leal Macías, Secretaria.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Articulo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los ocho días del mes de julio del año dos mil once.- Lic. Ney González Sánchez.- Rúbrica.- El Secretario General de Gobierno.- Dr. Roberto Mejía Pérez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE MAYO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
