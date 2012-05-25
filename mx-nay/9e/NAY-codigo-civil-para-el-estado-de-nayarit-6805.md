@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2012-05-23"
+last_updated: "2012-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2012.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -745,8 +745,6 @@ Para los indigentes tienen obligación de expedir gratuitamente este certificado
 
 V.- El convenio que los pretendientes deberán celebrar con relación a sus bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. Si los pretendientes son menores de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. No puede dejarse de presentar este convenio, ni aún a pretexto de que los pretendientes carecen de bienes, pues en tal caso, versará sobre los que adquieran durante el matrimonio. Al formarse el convenio se tendrá en cuenta lo que disponen los artículos 183 y 205, y el Oficial del Registro Civil deberá tener especial cuidado sobre este punto, explicando a los interesados todo lo que necesiten saber a efecto de que el convenio quede debidamente formulado. Si de acuerdo con lo dispuesto en el artículo 179 fuere necesario que las capitulaciones matrimoniales consten en escritura pública, se acompañará un testimonio de esa escritura.
 
-Si de acuerdo con lo dispuesto en el artículo 179 fuere necesario que las capitulaciones matrimoniales consten en escritura pública, se acompañará un testimonio de esa escritura;
-
 VI.- Copia del acta de defunción del cónyuge fallecido si alguno de los contrayentes es viudo, o de la parte resolutiva de la de sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente; y (sic)
 
 VII.- Copia de la dispensa de impedimentos, si los hubo;
@@ -1233,7 +1231,7 @@ De estos impedimentos sólo son dispensables la falta de acreditación de haber 
 
 ###### Artículo 154.
 
-La mujer no puede contraer nuevo matrimonio, en tanto acredite no encontrarse encinta, a no ser que se encuentre en la prohibición establecida en el artículo 282.
+La mujer puede contraer nuevo matrimonio, en tanto acredite no encontrarse encinta, a no ser que se encuentre en la prohibición establecida en el artículo 282.
 
 ###### Artículo 155.
 
@@ -1251,7 +1249,7 @@ Si el matrimonio se celebrare en contravención de lo dispuesto en el artículo 
 
 Tratándose de mexicanos que se casen en el extranjero y que se domicilien en el Estado, podrán solicitar la trascripción del acta de matrimonio en la oficialía del Registro Civil de su domicilio.
 
-Los derechos y obligaciones surgidas, se retrotraerán a la fecha de celebración del matrimonio.
+Los derechos y obligaciones surgidas, se retrotraerán a la fecha de la celebración del matrimonio.
 
 ### CAPITULO IV
 
@@ -1427,7 +1425,7 @@ Las capitulaciones matrimoniales en que se establezca la sociedad conyugal, debe
 
 I.- La lista detallada de los bienes que cada consorte lleve a la sociedad, con expresión de su valor y de los gravámenes que reporten;
 
-II.- La relación pormenorizada de las deudas que tenga cada esposo al celebrar el matrimonio, con expresión de si la sociedad ha de responder a ellas, o únicamente de las que se contraigan durante el matrimonio, ya sea por ambos consortes o por cualquiera de ellos;
+II.- La relación pormenorizada de las deudas que tenga cada esposo al celebrar el matrimonio, con expresión de si la sociedad ha de responder de ellas, o únicamente de las que se contraigan durante el matrimonio, ya sea por ambos consortes o por cualquiera de ellos;
 
 III.- Manifestación expresa de si la sociedad conyugal ha de comprender todos los bienes de cada consorte o sólo parte de ellos o sus productos, precisando en este último caso cuáles son los bienes que hayan de entrar a la sociedad;
 
@@ -2613,7 +2611,7 @@ La adopción es el acto jurídico mediante el cual una persona denominada adopta
 
 Requiere que el adoptante sea mayor de veinticinco años. En la adopción por ambos cónyuges basta que uno de ellos haya alcanzado dicha edad. En todo caso, el adoptante habrá de tener, por lo menos, diecisiete años más que el adoptado. Acreditando debidamente además:
 
-I. Estar en pleno goce de sus derechos;
+I. Estar en pleno goce de su (sic) derechos;
 
 II. Presentar certificado de idoneidad expedido por el Consejo Estatal de Adopciones;
 
@@ -3687,7 +3685,7 @@ IV.- Los que acojan a un expósito, lo alimenten y eduquen, convenientemente por
 
 ###### Artículo 512.
 
-Los comprendidos en la fracción I del artículo anterior, sólo estarán obligados a dar garantía, cuando con posterioridad a su nombramiento haya sobrevenido causa ignorada por el testador, que, a juicio del Juez y previa audiencia del curador, haya (sic) necesaria aquella.
+Los comprendidos en la fracción I del artículo anterior, sólo estarán obligados a dar garantía, cuando con posterioridad a su nombramiento haya sobrevenido causa ignorada por el testador, que, a juicio del Juez y previa audiencia del curador, haga necesaria aquella.
 
 ###### Artículo 513.
 
@@ -3937,7 +3935,7 @@ El tutor no puede aceptar para sí, a título gratuito u oneroso, la cesión de 
 
 ###### Artículo 564.
 
-El tutor no puede dar en arrendamiento los bienes del incapacitado por más de cinco año (sic), sino en caso de necesidad o utilidad, previos el consentimiento del curador y la autorización judicial, observándose, en su caso, lo dispuesto en el artículo 555.
+El tutor no puede dar en arrendamiento los bienes del incapacitado por más de cinco años, sino en caso de necesidad o utilidad, previos el consentimiento del curador y la autorización judicial, observándose, en su caso, lo dispuesto en el artículo 555.
 
 ###### Artículo 565.
 
@@ -4993,7 +4991,7 @@ Cuando por la redacción de un testamento o de un convenio se descubra que el te
 
 ###### Artículo 751.
 
-Los bienes muebles son fungibles o no fungibles. Pertenecen a la primera clase, los que pueden ser reemplazados por otros de los (sic) misma especie, calidad y cantidad.
+Los bienes muebles son fungibles o no fungibles. Pertenecen a la primera clase, los que pueden ser reemplazados por otros de la misma especie, calidad y cantidad.
 
 Los no fungibles son los que no pueden ser sustituidos por otros de la misma especie, calidad y cantidad.
 
@@ -5241,7 +5239,7 @@ Tiene derecho a que se le reembolsen los gastos necesarios.
 
 El que posee en concepto de dueño por más de un año, pacífica, continua y públicamente, aunque su posesión sea de mala fe, con tal que no sea delictuosa, tiene derecho:
 
-I.- A las dos terceras partes de los frutos industriales que haya (sic) producir a la cosa poseída, perteneciendo la otra tercera parte al propietario, si reivindica la cosa antes de que se prescriba;
+I.- A las dos terceras partes de los frutos industriales que haga producir a la cosa poseída, perteneciendo la otra tercera parte al propietario, si reivindica la cosa antes de que se prescriba;
 
 II.- A que se le abonen los gastos necesarios y a retirar las mejoras útiles, si es dable separarlas sin detrimento de la cosa mejorada.
 
@@ -8679,7 +8677,7 @@ Si el deterioro es menos grave, sólo el importe de éste se abonará al dueño 
 
 ###### Artículo 1487.
 
-El precio de la cosa será el que tendría al tiempo de ser devuelva (sic) al dueño, excepto en los casos en que la ley o el pacto señalen otra época.
+El precio de la cosa será el que tendría al tiempo de ser devuelta al dueño, excepto en los casos en que la ley o el pacto señalen otra época.
 
 ###### Artículo 1488.
 
@@ -9267,7 +9265,9 @@ El acto jurídico viciado de nulidad en parte, no es totalmente nulo, si las par
 
 La anulación del acto obliga a las partes a restituirse mutuamente lo que han recibido o percibido en virtud o por consecuencia del acto anulado.
 
-Artículo 1631 (sic).- Si el acto fuere bilateral y las obligaciones correlativas consisten ambas en sumas de dinero o en cosas productivas de frutos, no se hará la restitución respectiva de intereses o de frutos sino desde el día de la demanda de nulidad. Los intereses y los frutos percibidos hasta esa época se compensan entre sí.
+###### Artículo 1613.
+
+Si el acto fuere bilateral y las obligaciones correlativas consisten ambas en sumas de dinero o en cosas productivas de frutos, no se hará la restitución respectiva de intereses o de frutos sino desde el día de la demanda de nulidad. Los intereses y los frutos percibidos hasta esa época se compensan entre sí.
 
 ###### Artículo 1614.
 
@@ -10045,9 +10045,13 @@ Es permitido estipular interés por el mutuo, ya consista en dinero, ya en géne
 
 El interés es legal o convencional.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
+
 ###### Artículo 1767.
 
-El interés legal es el nueve por ciento anual. El interés convencional es el que fijen los contratantes, y puede ser mayor o menor que el interés legal; pero cuando el interés sea tan desproporcionado que haga fundadamente creer que se ha abusado del apuro pecuniario, de la inexperiencia o de la ignorancia del deudor, a petición de éste el juez, teniendo en cuenta las especiales circunstancias del caso, podrá reducir equitativamente el interés hasta el tipo legal.
+El interés legal es el nueve por ciento anual. El interés convencional es el que fijen los contratantes, y puede ser mayor o menor que el interés legal; pero cuando el interés sea tan desproporcionado que haga fundadamente creer que se ha abusado del apuro pecuniario, de la inexperiencia o de la ignorancia del deudor, a petición de éste, el juez, teniendo en cuenta las especiales circunstancias del caso, podrá reducir equitativamente el interés hasta el tipo legal, sin perjuicio de la responsabilidad penal en que pudiere haber incurrido el mutuante.
 
 ###### Artículo 1768.
 
@@ -13691,7 +13695,7 @@ El legatario adquiere a título particular y no tiene más cargas que las que ex
 
 ###### Artículo 2421.
 
-Cuanto (sic) toda la herencia se distribuya en legados, los legatarios serán considerados como herederos.
+Cuando toda la herencia se distribuya en legados, los legatarios serán considerados como herederos.
 
 ###### Artículo 2422.
 
@@ -15381,7 +15385,9 @@ De la aceptación y de la repudiación de la herencia.
 
 La sucesión se abre en el momento en que muere el autor de la herencia y cuando se declara la presunción de muerte de un ausente.
 
-Artículo 1764(sic).- No habiendo albacea nombrado, cada uno de los herederos puede, si no ha sido instituido heredero de bienes determinados, reclamar la totalidad de la herencia que le corresponde conjuntamente con otros, sin que el demandado pueda oponer la excepción de que la herencia no le pertenece por entero.
+###### Artículo 2764.
+
+No habiendo albacea nombrado, cada uno de los herederos puede, si no ha sido instituido heredero de bienes determinados, reclamar la totalidad de la herencia que le corresponde conjuntamente con otros, sin que el demandado pueda oponer la excepción de que la herencia no le pertenece por entero.
 
 ###### Artículo 2765.
 
@@ -16238,3 +16244,7 @@ Artículo Único.- El presente decreto entrará en vigor al día siguiente de su
 P.O. 23 DE MAYO DE 2012.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 25 DE MAYO DE 2012.
+
+ÚNICO El presente decreto entrará en vigor a los sesenta días de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
