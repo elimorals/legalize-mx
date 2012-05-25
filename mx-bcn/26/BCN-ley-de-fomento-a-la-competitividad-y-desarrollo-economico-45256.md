@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fomento-a-la-competitividad-y-desarrollo-economico-45256
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2010-08-27"
+last_updated: "2012-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONOMICO PARA EL ESTADO DE BAJA CALIFORNIA
 
-LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONOMICO PARA EL ESTADO DE BAJA CALIFORNIA
+LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONÓMICO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2012.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Baja California, el viernes 10 de junio de 2005.
 
@@ -285,9 +285,19 @@ II. Operen sistemas para el tratamiento de aguas residuales y las reutilicen tot
 
 III. Contraten Personas Adultas Mayores y/o Personas Productivas con Capacidades Diferentes.
 
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+
+IV. Implementen proyectos de consumo y uso de energías renovables no contaminantes, aplicadas al consumo de energía proveniente de fuentes renovables no contaminantes, desarrollo de auditorías de eficiencia energética, así como las demás relacionadas con este tipo de proyectos; y
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+
+V. Tengan contratados de 1 a 10 empleados.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2012)</small>
+
 ###### Artículo 11.
 
-Adicionalmente, podrán ser objeto de los Estímulos no fiscales, las Empresas que:
+Adicionalmente podrán ser objeto de los Estímulos no fiscales, las MIPYMES y Empresas que:
 
 I. Requieran orientación para realizar trámites ante los diversos órdenes de gobierno;
 
@@ -307,7 +317,9 @@ VIII. Sean identificadas con posibilidades de participar exitosamente en los mer
 
 IX. Sean identificadas como estratégicas o necesitadas de apoyos especiales, incluyendo obras de infraestructura, y
 
-X. Inviertan en proyectos que contribuyan al mejoramiento y conservación del medio ambiente.
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+
+X. Inviertan en proyectos que contribuyan al mejoramiento y conservación del medio ambiente, así como en sistemas de eficiencia energética a través de la implementación de fuentes de energía renovable no contaminante.
 
 ### CAPÍTULO V. DE LOS ESTÍMULOS FISCALES A LOS PROYECTOS DE INVERSIÓN
 
@@ -542,6 +554,32 @@ c) Por servicio de guardería 1 punto
 VIII. Empleo de Tecnología Limpia en el Proceso Productivo.
 
 Esquema 1. Por implementar programas que les permitan reciclar cuando menos el 50% de los residuos que resulten de sus procesos productivos, 2 puntos.
+
+El plazo para que la Empresa cumpla con los supuestos previstos en las fracciones I, II y III, será de 2 años, contado a partir de que se determine la procedencia de la solicitud de Estímulos fiscales.
+
+El período para tomar como referencia el promedio de los conceptos previstos en las fracciones IV, V y VI, será de un año, contado a partir de que la Empresa empiece a recibir el Estímulo fiscal.
+
+Para efectos de este artículo en ningún caso se podrá acumular la puntuación prevista en dos o más incisos de un mismo esquema.
+
+La empresa que presente un proyecto de inversión para establecerlo fuera de la cabecera municipal, obtendrá 15 puntos adicionales de los que pudiera obtener por los rubros comprendidos de la fracción I a la VI, del presente artículo.
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+
+IX. Implementación de Fuentes de Energías Renovables No Contaminantes.
+
+Esquema 1.- Por el ahorro total del consumo de energía.
+
+a).- Más del 60% en ahorro de energía. 8 Puntos
+
+b).- Entre 51 y 60% en ahorro de energía. 6 Puntos
+
+c).- Entre 31 y 50% en ahorro de energía. 4 Puntos
+
+d).- Entre 21 y 30% en ahorro de energía. 2 Puntos
+
+e).- Entre 10 y 20% en ahorro de energía. 1 Punto
+
+La Comisión Estatal de Energía, coadyuvará con la Secretaría de Desarrollo Económico en la realización de los mecanismos y protocolos de verificación por cuanto al ahorro de Energía.
 
 El plazo para que la Empresa cumpla con los supuestos previstos en las fracciones I, II y III, será de 2 años, contado a partir de que se determine la procedencia de la solicitud de Estímulos fiscales.
 
@@ -889,7 +927,7 @@ SECRETARIO GENERAL DE GOBIERNO.
 
 BERNARDO H. MARTINEZ AGUIRRE.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 31 DE AGOSTO DE 2007.
 
@@ -918,3 +956,11 @@ P.O. 27 DE AGOSTO DE 2010.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- El Ejecutivo del Estado dentro de los noventa días siguientes a la entrada en vigor de estas Reformas, deberá expedir las disposiciones reglamentarias correspondientes.
+
+P.O. 25 DE MAYO DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado en un término no mayor de 60 días contados a partir de la entrada en vigor del presente Decreto, deberá modificar el Reglamento de la Ley de Fomento a la Competitividad y Desarrollo Económico para el Estado de Baja California.
+
+TERCERO.- La Secretaría de Desarrollo Económico del Estado, así como la Comisión Estatal de Energía, adecuarán las normatividades interiores correspondientes a efecto de materializar los procedimientos objetos de esta reforma, en un plazo que no excederá de noventa días naturales siguientes a la entrada en vigor de esta reforma.
