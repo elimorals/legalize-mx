@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-penales-para-el-estado-de-nayarit-1101
 country: "mx"
 rank: "codigo"
 publication_date: "1969-11-29"
-last_updated: "2011-12-03"
+last_updated: "2012-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2012.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1969.
 
@@ -98,6 +98,46 @@ IX. Conceder o revocar cuando proceda, la libertad provisional del indiciado.
 > <small>(ADICIONADA, P.O. 12 DE JULIO DE 2000)</small>
 
 X. En caso procedente promover la conciliación de las partes.
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+
+XI. Perseguir y conocer de los delitos contra la salud en su modalidad de narcomenudeo a que se refiere el capítulo VII del título XVIII de la Ley General de Salud, así como recibir su investigación, cuando se colmen los supuestos del artículo 474 de dicho ordenamiento.
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+
+XII. Remitir al Ministerio Público de la Federación cuando éste así lo solicite, conforme a lo dispuesto en el inciso b) de la fracción IV del artículo 474 de la Ley General de Salud, la investigación correspondiente relativa a los delitos contra la salud en su modalidad de narcomenudeo previstos en el capítulo VII del título XVIII de dicho ordenamiento.
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+
+XIII. Informar oportunamente al Ministerio Público de la Federación, del inicio de las averiguaciones previas por los delitos contra la salud en su modalidad de narcomenudeo a que se refiere el capítulo VII del título XVIII de la Ley General de Salud;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+
+XIV. Remitir el expediente relativo a los delitos contra la salud en su modalidad de narcomenudeo a que se refiere el capítulo VII del título XVIII de la Ley General de Salud al Ministerio Público de la Federación o al juez federal que corresponda, dependiendo de la etapa procesal en que se encuentre, a fin de que se continúe el procedimiento, cuando de las constancias de éste se advierta su incompetencia.
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+
+XV. Comprar, adquirir, o recibir la transmisión material de algún narcótico, por conducto de su policía y para fines de investigación, a efecto de lograr la detención del probable responsable del comercio o suministro de narcóticos o de la posesión de los mismos con dichos fines y el aseguramiento correspondiente; siempre y cuando haya sido autorizado en cada caso por el Titular del Ministerio Público de la Federación, a solicitud del Procurador General de Justicia.
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+
+XVI. Señalar por escrito en la orden respectiva, los lineamientos, términos, limitaciones, modalidades y condiciones a los que deberá sujetarse el agente o agentes de la policía que la ejecuten, una vez expedida la autorización a que se refiere la fracción anterior;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+
+XVII. Realizar a la Secretaría de Salud del Estado el reporte de no ejercicio de la acción penal por el delito previsto en el artículo 477 de la Ley General de Salud, en contra de quien sea farmacodependiente o consumidor y posea alguno de los narcóticos señalados en la tabla contenida en el artículo 479 de dicha Ley, siempre y cuando sea fuera de los lugares señalados en la fracción II del artículo 475.
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+
+XVIII. Informar de inmediato y en su caso dar intervención a las autoridades sanitarias competentes, para los efectos del tratamiento que corresponda, tan pronto identifique que una persona relacionada con un procedimiento es farmacodependiente.
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+
+XIX. Informar según le corresponda, a la autoridad administrativa competente, cuando tenga conocimiento que el propietario, poseedor, arrendatario o usufructuario de un establecimiento de la naturaleza que sea lo empleare para realizar cualquiera de las conductas sancionadas en el capítulo VII del título XVIII de la Ley General de Salud.
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+
+XX. Las demás que le otorguen las disposiciones legales y reglamentarias aplicables.
 
 > <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1149,6 +1189,10 @@ Los instrumentos objetos, cosas, efectos, así como información o datos relacio
 
 Las autoridades o personas que actúen en auxilio del ministerio público, pondrán inmediatamente a disposición de éste los bienes, datos o información a que se refiere el párrafo anterior. El ministerio público, al momento de recibir los bienes, datos o información, resolverá sobre su aseguramiento.
 
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2012)</small>
+
+En lo que respecta al destino y destrucción de los narcóticos a que se refiere el capítulo VII del título XVIII de la Ley General de Salud, se estará a lo dispuesto por el Código Federal de Procedimientos Penales.
+
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2008)</small>
 
 ###### ARTICULO 145.
@@ -1371,13 +1415,19 @@ C) Que por razón de la hora, lugar o cualquier otra circunstancia, no pueda ocu
 
 La violación a esta disposición hará penalmente responsable al Ministerio Público o funcionario que decrete indebidamente la detención y el sujeto será puesto en inmediata libertad.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante bienes jurídicos fundamentales de la sociedad, los previstos en los siguientes artículos del Código Penal: homicidio por culpa grave previsto en el último párrafo del artículo 72; delitos contra el orden constitucional del estado y su integridad territorial previsto en el artículo 127; rebelión, previsto en los artículos 130 y 131; sedición previsto en el artículo 140; terrorismo previsto en el artículo 145; evasión de presos, previsto en los artículos 146 y 148; atentado contra la seguridad de la comunidad previsto en las fracciones III y IV del artículo 160 bis; ataques a las vías generales de comunicación previsto en el artículo 166 en relación con los artículos 170 y 171; el previsto en el artículo 186 bis; corrupción y prostitución de menores o incapaces previsto en el artículo 200 fracciones III y IV y penúltimo párrafo; artículo 201, artículos 202 y 202 bis; lenocinio previsto en el artículo 203, violación en relación con el artículo 206; tortura previsto en el artículo 214; violación en relación con el artículo 260; sustracción y tráfico de infantes, previsto en el artículo 265; amenazas graves, previsto en el último párrafo del artículo 276; asalto previsto en los artículos 281 y 282; secuestro previsto en el artículo 284; la desaparición forzada de personas previsto en el artículo 291 A; la trata de personas previsto en los artículos 291 B, 291 C, 291 D y 291 E; lesiones previsto en los artículos 309, 310, 314 y 315; homicidio previsto en el artículo 317 en relación con el 321, 322, 323, 330, 331 y 332; robo calificado previsto en el artículo 343 en relación al 348, fracciones I, IV, V, VI, VII, VIII y IX; abigeato previsto en el artículo 357 en relación con las fracciones II y III del artículo 358; fraude en relación a la fracción XVI del artículo 369; delito contra el desarrollo urbano; despojo previsto en el artículo 373 penúltimo párrafo; daño en propiedad ajena previsto en el artículo 375; encubrimiento previsto en el artículo 381 último párrafo; fraccionamiento ilegal de inmuebles, previsto por los artículos 393 y 394; atentados al pudor previsto en el artículo 256 sancionable como violación en los términos del artículo 260; la tentativa de los delitos de violación, homicidio intencional, terrorismo, tortura, asalto y secuestro.
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
+
+Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante bienes jurídicos fundamentales de la sociedad, los previstos en los siguientes artículos del Código Penal: homicidio por culpa grave previsto en el último párrafo del artículo 72; delitos contra el orden constitucional del estado y su integridad territorial previsto en el artículo 127; rebelión, previsto en el artículo 130 y 131; sedición previsto en el artículo 140; terrorismo previsto en el artículo 145; evasión de presos, previsto en los artículos 146 y 148; atentado contra la seguridad de la comunidad previsto en las fracciones III y IV del artículo 160 bis; ataques a las vías generales de comunicación previsto en el artículo 166 en relación con los artículos 170 y 171; el previsto en el artículo 186 bis; corrupción y prostitución de menores o incapaces previsto en el artículo 200 fracciones III y IV y penúltimo párrafo; artículo 201, artículos 202 y 202 bis; lenocinio previsto en el artículo 203, violación en relación con el artículo 206; tortura previsto en el artículo 214; violación en relación con el artículo 206; tortura previsto en el artículo 214; violación en relación con el artículo 260; sustracción y tráfico de infantes, previsto en el artículo 265; amenazas graves, previsto en el último párrafo del artículo 276; asalto previsto en los artículos 281 y 282; secuestro previsto en el artículo 284; la desaparición forzada de personas previsto en el artículo 291 A; la trata de personas previsto en los artículos 291 B, 291 C, 291 D y 291 E; lesiones previsto en los artículos 309, 310, 314 y 315; homicidio previsto en el artículo 317 en relación con el 321, 322, 323, 330, 331 y 332; robo calificado previsto en el artículo 343 en relación al 348, fracciones I, IV, V, VI, VII, VIII y IX; abigeato previsto en el artículo 357 en relación con las fracciones II y III del artículo 358; fraude en relación a la fracción XVI del artículo 369; delito contra el desarrollo urbano; usura previsto en el artículo 372; despojo previsto en el artículo 373 penúltimo párrafo; daño en propiedad ajena previsto en el artículo 375; encubrimiento previsto en el artículo 381 último párrafo; fraccionamiento ilegal de inmuebles, previsto por los artículos 393 y394 (sic); atentados al pudor previsto en el artículo 256 sancionable como violación en los términos del artículo 260; la tentativa de los delitos de violación, homicidio intencional, terrorismo, tortura, asalto y secuestro.
 
 > <small>(ADICIONADO, P.O. 12 DE JULIO DE 2000)</small>
 
 No obstante lo anterior, en el caso del robo calificado, el juez o tribunal podrá otorgar la libertad caucional al procesado, cuando el monto de lo robado no exceda de 300 veces el salario mínimo general de la zona y siempre que sea la primera vez que delinca y que no se trate de robo de vehículos automotores o robo a casa habitación.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2012)</small>
+
+Para fines del otorgamiento de la libertad provisional bajo caución, tratándose de la clasificación como graves de las conductas tipificadas como delitos contra la salud en su modalidad de narcomenudeo, a que se refiere el capítulo VII del título XVIII de la Ley General de Salud, se observarán las disposiciones del Código Federal de Procedimientos Penales.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
@@ -3668,3 +3718,19 @@ Artículo Segundo.- Los asuntos resueltos o en trámite, se seguirán rigiendo c
 P.O. 3 DE DICIEMBRE DE 2011.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 25 DE MAYO DE 2012.
+
+DECRETO, POR EL QUE SE REFORMA EL ÚLTIMO PÁRRAFO (SIC) DEL ARTÍCULO 157 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE NAYARIT.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor a los sesenta días posteriores a su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 25 DE MAYO DE 2012.
+
+DECRETO, POR EL QUE SE ADICIONAN LAS FRACCIONES XI A LA XX AL ARTÍCULO 2, UN TERCER PÁRRAFO AL ARTÍCULO 144 Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 157, TODOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE NAYARIT.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
