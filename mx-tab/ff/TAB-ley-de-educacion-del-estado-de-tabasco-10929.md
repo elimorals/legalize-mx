@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-educacion-del-estado-de-tabasco-10929"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-26"
-last_updated: "2011-12-28"
+last_updated: "2012-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE EDUCACIÓN DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 26 de febrero de 1997.
 
@@ -59,7 +59,7 @@ Artículo 3 La aplicación y vigilancia del cumplimiento de la presente Ley comp
 
 Artículo 4 Todo individuo tiene derecho a recibir educación y por lo tanto, todos los habitantes de la entidad tienen las mismas oportunidades de acceso, permanencia y promoción en el sistema educativo estatal, con sólo satisfacer los requisitos que establezcan las disposiciones aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 2009)</small>
 
@@ -97,7 +97,7 @@ VII.-Propiciar la práctica de la democracia como forma de gobierno, y la conviv
 
 VIII.- Ampliar espacios de convivencia humana a través de una educación que manifieste el respeto a la dignidad de la persona y a la integridad de la familia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEÁSE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 2009)</small>
 
@@ -213,25 +213,25 @@ XIII.- Distribuir, en forma oportuna y eficiente, los libros de texto gratuito y
 
 XIV.- Vigilar que la educación primaria, la secundaria y la normal, que proporcionen los particulares, sea conforme a los planes y programas autorizados. En cuanto a la educación inicial y preescolar, vigilar que cumplan con los requisitos técnico-pedagógicos que fije la autoridad educativa federal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 2009)</small>
 
 XV.- Disponer el uso temporal de los planteles educativos oficiales para albergue de la población, cuando por razón de siniestros naturales u otro tipo de contingencias sean requeridos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 2009)</small>
 
 XVI.- Observar en la construcción y remodelación de edificios escolares, el diseño arquitectónico que contemple los requerimientos para el tipo y nivel de servicio educativo, condición climática, así como las disposiciones legales y reglamentarias que regulan el acceso y desplazamiento de las personas con discapacidad, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 27 DE MAYO DE 2009)</small>
 
 XVII.- Las demás que establezca la Ley General de Educación, esta Ley y otros ordenamientos legales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2009)</small>
 
 Artículo 17 Adicionalmente a lo establecido en el Artículo anterior, corresponden a la autoridad educativa estatal, de manera concurrente con la autoridad educativa federal, los siguientes deberes y atribuciones:
 
@@ -245,13 +245,13 @@ III.- Revalidar y otorgar equivalencias de estudios de educación media superior
 
 IV.- Otorgar, negar o retirar el reconocimiento de validez oficial a estudios distintos de los de educación primaria, secundaria, normal y demás para la formación de docentes de educación básica que proporcionen los particulares;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 2009)</small>
 
 V.- Editar en su caso, todo tipo de libros y material didáctico de apoyo a la educación, incluyendo el especial para los alumnos con discapacidad visual, a excepción de los libros de texto gratuito proporcionados por la Federación;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 2009)</small>
 
@@ -369,13 +369,13 @@ Asimismo se establecerán mecanismos que propicien la permanencia de los docente
 
 Artículo 25 Para ejercer la docencia dentro de cada uno de los tipos y modalidades que comprende el Sistema Educativo Estatal, los interesados deberán exhibir el título profesional que acredite su preparación académica para tal efecto, así como, en los casos previstos por la legislación, la cédula profesional correspondiente, satisfacer los requisitos establecidos en esta Ley y aquéllos que señalen las autoridades educativas competentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 2009)</small>
 
 Las instituciones de educación especial, deberán ser atendidas por personal especializado y multidisciplinario, debiendo actualizarse de forma permanente para cumplir eficazmente con la incorporación educativa de las personas con discapacidad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 27 DE MAYO DE 2009)</small>
 
@@ -399,7 +399,7 @@ Artículo 29 Las autoridades educativas estatal y municipales tomarán las medid
 
 Asimismo buscarán lograr la equidad en el ámbito geográfico atendiendo todas las regiones del Estado, llevando y mejorando el servicio educativo a mayor número de poblaciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 2009)</small>
 
@@ -409,7 +409,7 @@ Esas autoridades trabajarán para asegurar la igualdad entre hombres y mujeres, 
 
 Igualmente, actuarán para lograr la equidad entre instituciones educativas públicas, superando las condiciones de las rurales y elevando su calidad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 2009)</small>
 
@@ -433,7 +433,7 @@ VII.- Desarrollar a través de los distintos medios de comunicación, programas 
 
 VIII.- Promover el apoyo de los particulares al financiamiento y a las actividades a que se refiere este capítulo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 2009)</small>
 
@@ -441,13 +441,13 @@ IX.- Conceder reconocimientos y distinciones a quienes contribuyan a la consecuc
 
 X.- Realizar actividades que permitan elevar la calidad, ampliar la cobertura de los servicios educativos y alcanzar los propósitos a que se refiere este capítulo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 27 DE MAYO DE 2009)</small>
 
 XI.- Garantizar el acceso de la población sorda a la educación pública obligatoria y bilingüe, que comprenda la .enseñanza del idioma español y la Lengua de Señas Mexicana; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 27 DE MAYO DE 2009)</small>
 
@@ -497,7 +497,7 @@ La autoridad educativa estatal decidirá la atención a la demanda escolar emerg
 
 #### Sección 2. DE LA SUPERVISIÓN
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 2009)</small>
 
@@ -519,7 +519,7 @@ Artículo 43 La autoridad educativa estatal, evaluará en forma sistemática y p
 
 Artículo 44 La autoridad educativa estatal integrará el Sistema Tabasqueño de Evaluación Educativa como punto de convergencia de todas las acciones de planeación que se realicen en el Estado, con el objeto de disponer de la información que permita racionalizar el funcionamiento del sistema oportuna y efectivamente, y orientar la política educativa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 Artículo 45 La evaluación estará sustentada en cinco líneas principales:
 
@@ -605,7 +605,7 @@ También se ofrecerán los servicios de educación inicial, especial, indígena,
 
 #### Sección I. DE LA EDUCACIÓN PREESCOLAR
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2007)</small>
 
 Artículo 59 La educación preescolar es obligatoria y tiene como finalidad que el infante logre desarrollar integral y armónicamente sus capacidades física, afectiva, intelectual y social, estableciendo las bases para que logre su identidad personal de acuerdo a su entorno social, con las adaptaciones requeridas para responder a las características lingüísticas y culturales de cada uno de los grupos indígenas del Estado, así como la de la población rural dispersa y grupos migratorios.
 
@@ -631,13 +631,15 @@ IV.- La educación preescolar, además de atender las particularidades geográfi
 
 Artículo 62 La educación primaria es obligatoria y tiene como finalidad promover el desarrollo integral y armónico de las facultades del educando, dotándolo de conocimientos y habilidades que fundamenten cualquier aprendizaje posterior que lo integre hacia una mejor convivencia social, crear el aprecio a la dignidad humana, la conciencia de la independencia, soberanía, democracia y justicia social, así como el amor a la patria, el respeto a la Constitución Federal y Local, y a los símbolos patrios nacionales.
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Artículo 63 La educación primaria fortalecerá en el educando su identidad individual y su integración plena a la familia, a la escuela y a la comunidad; fomentará en él los hábitos de la lectura, la conservación y mejoramiento de su salud personal, le proporcionará conocimientos básicos para la preservación de su entorno ecológico y el ejercicio de sus derechos y de sus deberes cívico-sociales; también motivará en él una actitud de aprendizaje permanente que lo prepare para el trabajo útil a sí mismo, a su familia y a su comunidad.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2012)</small>
+
+Artículo 63 La educación primaria fortalecerá en el educando su identidad individual y su integración plena a la familia, a la escuela y a la comunidad; fomentará en él los hábitos de la lectura, la conservación, mejoramiento de su salud personal, incrementar la actividad física e implementar una alimentación o nutrición saludable, le proporcionará conocimientos básicos para la preservación de su medio ecológico, y el ejercicio de sus derechos y de sus deberes cívico-sociales; también motivará en él una actitud de aprendizaje permanente que lo prepare para el trabajo útil asímismo, a su familia y a su comunidad.
 
 Artículo 64 La educación primaria regular estará dirigida a toda la población cuyas edades fluctúen entre los seis y catorce años.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2009)</small>
 
 Artículo 65 La educación primaria, tendrá además de las características señaladas en el Artículo 63 las siguientes:
 
@@ -667,7 +669,11 @@ Artículo 68 Este servicio educativo podrá prestarse a través de planes y prog
 
 Artículo 69 La educación secundaria tenderá a:
 
-I.- Ampliar los conocimientos adquiridos en la primaria en relación con el desarrollo integral del educando, fortaleciendo sus aptitudes y hábitos, encaminados a la conservación y el mejoramiento de su salud física, mental y del medio ambiente;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2012)</small>
+
+I.- Ampliar los conocimientos adquiridos en la primaria en relación con el desarrollo integral del educando, fortaleciendo sus aptitudes, hábitos, incrementando la actividad deportiva e implementando una alimentación o nutrición saludable, encaminados a la conservación y el mejoramiento físico, mental y del medio ambiente.
 
 II.- Contribuir a la formación del educando como futuro ciudadano mediante el conocimiento del civismo, a fin de que tenga una participación efectiva en sus derechos y obligaciones para con su familia y sociedad, ratificando los principios de solidaridad humana;
 
@@ -765,19 +771,19 @@ III.- Desarrollar actitudes de autoestima y competencia para el trabajo producti
 
 IV.- Promover la orientación y capacitación de los docentes de la educación básica regular, bajo un programa de apoyo técnico multiprofesional;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 2009)</small>
 
 V.- Desarrollar estrategias de apoyo profesional técnico y de infraestructura educativa acorde a las condiciones de discapacidad para el logro de objetivos comunes en la educación física;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 2009)</small>
 
 VI.- Promover la asistencia a talleres, instituciones o empresas para que las personas que por su edad no puedan ingresar o continuar en un centro de educación especial, reciban capacitación laboral que les permita una vida autónoma y productiva; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 27 DE MAYO DE 2009)</small>
 
@@ -799,7 +805,7 @@ IV.- Incorporar los contenidos étnicos regionales en los planes y programas de 
 
 Artículo 88 El Gobierno del Estado, podrá suscribir convenios de coordinación o concertación en materia de educación indígena con las instituciones públicas o privadas que presten servicios educativos, asistenciales o culturales a la población étnica del Estado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE ABRIL DE 2011)</small>
 
 #### Sección IX
 
@@ -867,7 +873,7 @@ Artículo 95 El Ejecutivo del Estado podrá celebrar convenios con los Ayuntamie
 
 Artículo 96 La educación a que se refiere la presente Ley tendrá las modalidades de escolarizada, no escolarizada o mixta.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 24 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
 #### Sección XII. DE LA EDUCACIÓN AMBIENTAL
 
@@ -909,6 +915,36 @@ I. Ampliando la participación de educadores y organizaciones no gubernamentales
 
 II. Fomentar con las empresas privadas, el desarrollo de programas de educación ambiental para sus trabajadores.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE MAYO DE 2012)</small>
+
+#### Sección XIII. DE LA EDUCACIÓN NUTRICIONAL
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2012)</small>
+
+Artículo 96 Quinquies La educación nutricional en el Estado, tiene los siguientes objetivos:
+
+I. Desarrollar una comprensión integral de los problemas de desnutrición y obesidad en sus diversos aspectos.
+
+II. La toma de conciencia sobre el consumo de alimentos y golosinas preparados con predominio de carbohidratos refinados y grasas vegetales, que contengan ácidos grasos hidrogenados en su forma “trans”, dentro de las escuelas de educación básica, de conformidad con lo dispuesto en la Ley de Salud del Estado de Tabasco; y
+
+III. La promoción de mejores prácticas nutricionales y hábitos saludables de alimentación en la población, particularmente en la infantil.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2012)</small>
+
+Artículo 96 Sexies La educación nutricional se incluirá en todos los planes y programas de estudio y se desarrollará como una práctica educativa integrada, continua y permanente en todos los niveles y modalidades de enseñanza escolar pública y privada, particularmente de la educación básica.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2012)</small>
+
+Artículo 96 Septies La Secretaría de Educación, en coordinación con la de Salud, elaborarán y evaluarán los planes y programas de educación nutricional, en los términos que fije el Reglamento de la presente Ley.
+
 ### Capítulo III. DE LOS PLANES Y PROGRAMAS DE ESTUDIO
 
 Artículo 97 Los contenidos de la educación serán definidos en planes y programas de estudio.
@@ -925,9 +961,11 @@ IV.- Los criterios y procedimientos de evaluación, acreditación y certificaci�
 
 V.- Sugerencias sobre métodos y actividades para alcanzar dichos propósitos.
 
-> <small>(F. DE E., P.O. 1 DE MARZO DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Artículo 98 En la elaboración y evaluación de los planes y programas de estudio se tomará en cuenta la prospectiva del proceso educativo en el marco del proyecto educativo nacional y estatal, los requerimientos del educando, así como los criterios lógicos, psicológicos, lingüísticos, culturales, sociales y de salud, inherentes o incidentes al proceso educativo.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2012)</small>
+
+Artículo 98 En la elaboración y evaluación de los planes y programas de estudio se tomará en cuenta la prospectiva del proceso educativo en el marco del proyecto educativo nacional y estatal, los requerimientos del educando, así como los criterios lógicos, psicológicos, lingüísticos, culturales, sociales, nutricionales y de salud, inherentes o incidentes al proceso educativo.
 
 > <small>(F. DE E., P.O. 1 DE MARZO DE 1997)</small>
 
@@ -1265,7 +1303,7 @@ V.- Formar parte de las asociaciones de padres de familia, así como de los Cons
 
 VI.- Opinar ante las autoridades educativas, en los casos de la educación que impartan los particulares en relación con las contraprestaciones que las escuelas fijen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2009)</small>
 
 Artículo 139 Son obligaciones de quienes ejercen la patria potestad o la tutela de los menores:
 
@@ -1441,7 +1479,7 @@ LIC. VICTOR MANUEL BARCELO RODRIGUEZ.
 
 SECRETARIO DE GOBIERNO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 19 DE DICIEMBRE DE 2007.
 
@@ -1475,13 +1513,13 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 
 P.O. 27 DE MAYO DE 2009.
 
-DECRETO 179, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 9, 65, 129 Y 138 DE LA LEY DE EDUCACION DEL ESTADO DE TABASCO.
+DECRETO 179, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 9, 65, 129 Y 138 DE LA LEY DE EDUCACIÓN DEL ESTADO DE TABASCO.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
 
 P.O. 27 DE MAYO DE 2009.
 
-DECRETO 183, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 9 Y 17 DE LA LEY DE EDUCACION DEL ESTADO DE TABASCO.
+DECRETO 183, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 9 Y 17 DE LA LEY DE EDUCACIÓN DEL ESTADO DE TABASCO.
 
 PRIMERO.- El presente Decreto entrará en vigor a los tres días de haber sido publicada en el Periódico Oficial del Estado.
 
@@ -1516,3 +1554,13 @@ P.O. 28 DE DICIEMBRE DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE MAYO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los 90 días siguientes de su publicación en el Periódico Oficial.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales que se opongan a la presente Ley.
