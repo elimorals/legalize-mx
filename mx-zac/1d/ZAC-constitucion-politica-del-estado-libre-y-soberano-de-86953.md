@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2011-06-29"
+last_updated: "2012-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2012.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -383,13 +383,17 @@ Las leyes determinarán la autoridad a la que corresponda resolver la suspensió
 
 ### CAPÍTULO ÚNICO. DE LAS GARANTÍAS INDIVIDUALES Y SOCIALES
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2012)</small>
+
 ###### Artículo 20.
 
 Tienen la calidad de extranjeros en el Estado quienes lo son conforme a lo señalado por la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 21.
 
-En el Estado de Zacatecas todo individuo gozará de las garantías que otorga la Constitución Política de los Estados Unidos Mexicanos, así como de los derechos establecidos por la Constitución Política del Estado y las leyes que de ellas emanen, cuya vigencia no podrá suspenderse ni restringirse sino en los casos y mediante los procedimientos que los respectivos ordenamientos determinen.
+En el Estado de Zacatecas todas las personas gozarán de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales de los cuales el Estado Mexicano sea parte, y los señalados en esta Constitución y las leyes que de ella emanen, así como de las garantías para su protección cuya vigencia no podrá suspenderse ni restringirse sino en los casos y mediante los procedimientos que los respectivos ordenamientos determinen.
+
+Queda prohibida toda forma de discriminación motivada por el origen étnico, nacional o regional, el género, la raza, el color de piel, las características físicas, el idioma, el estado civil, la edad, la profesión, el trabajo desempeñado, la condición social o económica, las discapacidades, las condiciones de salud, el estado de embarazo, las costumbres, las preferencias sexuales, las ideologías o creencias religiosas, la calidad migratoria o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 ###### Artículo 22.
 
@@ -2936,5 +2940,9 @@ e) Quien sea Titular de la Sindicatura Municipal, integrante del Ayuntamiento, p
 SÉPTIMO.- Dentro de los 90 días naturales posteriores a la entrada en vigor del presente Decreto, se deberán tipificar y establecer las sanciones que se impondrán, en términos de la legislación penal, administrativa y de responsabilidades, a los servidores públicos cuya conducta tenga por finalidad contravenir o eludir lo dispuesto en las presentes disposiciones.
 
 P.O. 29 DE JUNIO DE 2011.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 26 DE MAYO DE 2012.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
