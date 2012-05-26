@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-instituto-de-capacitacion-para-el-38654
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-03"
-last_updated: "2004-04-03"
+last_updated: "2012-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,9 @@ state: "SLP"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACION PARA EL TRABAJO DEL ESTADO DE SAN LUIS POTOSI
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACION PARA EL TRABAJO DEL ESTADO DE SAN LUIS POTOSI
+REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2012.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 3 de abril de 2004.
 
@@ -40,11 +40,13 @@ REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACION PARA EL TRABAJO DEL ESTADO DE 
 
 ### CAPITULO UNICO. DE LA COMPETENCIA Y ORGANIZACIÓN DEL INSTITUTO
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 1°.
 
-El Instituto de Capacitación para el Trabajo del Estado de San Luis Potosí es el Organismo Público Descentralizado que tiene a su cargo las funciones que señala su Decreto de Creación, publicado en el Periódico Oficial del Estado, el 26 de Marzo de 1997, así como otras leyes, reglamentos, decretos y demás disposiciones en la materia.
+El Instituto de Capacitación para el Trabajo del Estado de San Luis Potosí, es el Organismo Público Descentralizado con Personalidad Jurídica y Patrimonio Propios, que tiene a su cargo las funciones que señala su Decreto de Creación, así como otras leyes, reglamentos, decretos y demás disposiciones en la materia.
 
-El presente Reglamento es de observancia obligatoria para el Director General, Directores de Área, Directores de Unidades, Jefes de Área, Personal Administrativo e Instructores del Instituto de Capacitación para el Trabajo del Estado de San Luis Potosí y tiene por objeto, fijar las actividades y condiciones generales de trabajo del personal del mismo Instituto, en los términos de su Decreto de Creación y en lo que corresponda a la Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado de San Luis Potosí.
+El presente Reglamento es de observancia obligatoria para el Director General, Directores de Área, Directores de Unidades, Jefes de Área, Personal Administrativo e Instructores del Instituto de Capacitación para el Trabajo del Estado de San Luis Potosí y tiene por objeto, precisar las normas a que se sujetará la organización y el funcionamiento del Instituto de Capacitación para el Trabajo, en los términos de su Decreto de Creación y de conformidad con la Legislación Aplicable.
 
 ###### ARTICULO 2º.
 
@@ -56,15 +58,23 @@ Para los efectos de este reglamento se entenderá por:
 
 3. La Junta Directiva: A la Junta Directiva del Instituto de Capacitación para el Trabajo del Estado de San Luis Potosí, Órgano máximo de Autoridad del Instituto, según lo dispuesto por el artículo 6 del Decreto de Creación del referido Instituto.
 
-4. La Ley: a la Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado de San Luis Potosí.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2012)</small>
+
+4. La Ley: Ley Federal del Trabajo.
 
 5. Unidades: las Unidades dependientes del Instituto de Capacitación para el Trabajo del Estado de San Luis Potosí.
 
-6. Directivos: al Trabajador de Confianza.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2012)</small>
 
-7. Administrativos: al Trabajador de base.
+6. Directivos: al personal que ejerce funciones de dirección.
 
-8. Instructor: al Profesional.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2012)</small>
+
+7. Administrativos: al personal de apoyo del Instituto.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2012)</small>
+
+8. Instructor: técnico o profesionista que imparte cursos.
 
 ## TITULO SEGUNDO. DEL OBJETO, LA INTEGRACIÓN Y FUNCIONAMIENTO DEL INSTITUTO
 
@@ -98,19 +108,25 @@ I. Someter en acuerdo a la Junta Directiva los asuntos encomendados al Instituto
 
 II. Informar a la Junta Directiva la situación que guarda el despacho de los asuntos de su competencia;
 
-III. Desempeñar las condiciones especiales que el Gobernador del Estado, la Secretaria de Educación del Gobierno del Estado y la Junta Directiva le confieran e informarles oportunamente sobre el desarrollo de las mismas;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2012)</small>
+
+III. Desempeñar las comisiones especiales que el Gobernador del Estado, la Secretaría del Trabajo y Previsión Social y la Junta Directiva le confieran e informarles oportunamente sobre el desarrollo de las mismas;
 
 IV. Proponer a la Junta Directiva, los programas sectoriales, regionales y especiales que le correspondan;
 
-V. Participar en la elaboración y permanente actualización del Plan de Desarrollo Integral del Estado, en la materia de su competencia;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2012)</small>
 
-VI. Refrendar, en el ámbito de su competencia, para su validez y observancia los decretos, reglamentos acuerdos, circulares y demás disposiciones que expida el Gobernador del Estado;
+V. Participar en la elaboración y permanente actualización del Plan Estatal de Desarrollo, en la materia de su competencia.
+
+VI. (DEROGADA, P.O. 26 DE MAYO DE 2012)
 
 VII. Proponer a la Junta Directiva crear, suprimir o modificar las áreas administrativas que integran el organismo a su cargo, de conformidad con las disposiciones aplicables, las necesidades del servicio y el crecimiento del Instituto;
 
 VIII. Acordar con los titulares de las áreas administrativas que conforman el Instituto y supervisar el desempeño de sus funciones;
 
-IX. Designar a los suplentes para que actúen en su nombre, en aquellas Juntas, Comisiones o Consejos en que forma parte;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2012)</small>
+
+IX. Conferir facultades delegables a sus subalternos sin perjuicio de su ejercicio directo.
 
 X. Autorizar y expedir los manuales administrativos del Instituto, previa revisión de Autoridad competente;
 
@@ -136,15 +152,25 @@ XX. Ejecutar los acuerdos que dicte la Junta Directiva;
 
 XXI. Establecer y ejecutar las disposiciones relativas que regulen las relaciones laborales del Instituto con sus trabajadores, de conformidad con las disposiciones aplicables; y, (sic)
 
-XXII. Formular denuncias o querellas ante las autoridades judiciales o administrativas competentes por hechos u omisiones delictuosas, en las que resulte afectado el Instituto así como por los que se presuman la comisión de delitos que afecten el patrimonio del Instituto, así como aquellas en que se deriven conflictos de carácter laboral;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2012)</small>
 
-XXIII. Las demás necesarias para el cumplimiento del objeto y funciones del Instituto, las que ordene la Junta Directiva o las que señalen otras disposiciones legales aplicables.
+XXII. Formular denuncias, querellas o interponer demandas ante las autoridades administrativas o judiciales correspondientes, en defensa de los intereses del Instituto y su patrimonio.
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2012)</small>
+
+XXIII. Instrumentar los procedimientos administrativos por incumplimiento a la Ley o a este Reglamento; y
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2012)</small>
+
+XXIV. Las demás necesarias para el cumplimiento del objeto y funciones del Instituto, las que ordene la Junta Directiva o las que señalen otras disposiciones aplicables.
 
 ### CAPITULO III. DE LAS AREAS ADMINISTRATIVAS
 
-###### ARTICULO 6º.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2012)</small>
 
-El Instituto, a través de sus áreas administrativas, planeará y conducirá el ejercicio de sus funciones con apego a las políticas y prioridades del Plan de Desarrollo Integral del Estado, para el cumplimiento de las funciones a cargo de este organismo.
+###### ARTICULO 6°.
+
+El Instituto, a través de sus áreas administrativas, planeará y conducirá el ejercicio de sus funciones con apego a las políticas y prioridades del Plan Estatal de Desarrollo, para el cumplimiento de las funciones a cargo de este organismo.
 
 ###### ARTICULO 7º.
 
@@ -210,9 +236,13 @@ El titular de esta Dirección será auxiliado por el personal administrativo que
 
 La Dirección Técnico-Académica tendrá las siguientes funciones:
 
-I. Realizar investigaciones con la colaboración de los directores de las Unidades para proponer al Director General, los contenidos, planes y programas de estudio, métodos, medios materiales didácticos y normas pedagógicas para la capacitación;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2012)</small>
 
-II. Supervisar la ejecución del calendario escolar y los planes y programas de estudio vigilando su conocimiento;
+I. Realizar investigaciones con la colaboración de los directores de la Unidades para proponer al Director General, los contenidos, planes y programas de estudio, capacitación, métodos, medios materiales didácticos y normas pedagógicas para la capacitación;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2012)</small>
+
+II. Supervisar la ejecución del calendario escolar, los planes, programas de estudio y capacitación vigilando su conocimiento;
 
 III. Coordinar los servicios de asesoría académica y técnica-pedagógico (sic);
 
@@ -222,7 +252,9 @@ V. Llevar a cabo las actividades de control escolar en el Instituto de acuerdo c
 
 VI. Tramitar la certificación y acreditamiento de la capacitación formal y no formal que realizan los planteles del Instituto;
 
-VII. Tramitar las acreditaciones y certificaciones correspondientes ante la Secretaría de Educación Pública; y,
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2012)</small>
+
+VII. Tramitar para su expedición ante el Director General, por medio de la Dirección de Planeación y Evaluación del Instituto, la certificación y acreditamiento de la capacitación; y
 
 VIII. Las demás necesarias para el cumplimiento de las funciones del Instituto, las que le ordene el Director General o señalen otras disposiciones aplicables.
 
@@ -276,7 +308,9 @@ IX. Proporcionar con oportunidad y eficiencia los apoyos administrativos en mate
 
 X. Tramitar, de acuerdo con la planeación establecida y la normatividad vigente, los arrendamientos y adquisiciones de los bienes y servicios;
 
-XI. Tramitar los nombramientos acordados con el Director General, de los servidores públicos del Instituto;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2012)</small>
+
+XI. Tramitar los nombramientos autorizados por el Director General;
 
 XII. Supervisar el resguardo de los bienes, valores y archivos del Instituto, de conformidad con las disposiciones aplicables, y,
 
@@ -290,9 +324,13 @@ Los Directores de los (sic) Unidades tendrán las siguientes funciones:
 
 I. Dirigir las actividades académicas y administrativas del plantel;
 
-II. Proponer al Director General los nombramientos del personal académico y administrativo;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2012)</small>
 
-III. Levantar actuaciones que correspondan al personal que incurra en faltas administrativas y turnarlos donde correspondan para la aplicación de las sanciones a que hubiere lugar;
+II. Proponer al Director General, de acuerdo a las necesidades del área, el personal del Instituto, así como también a los instructores, de acuerdo a la disponibilidad presupuestal;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2012)</small>
+
+III. Levantar actas al personal que incurra en faltas administrativas y remitirlas al Director General, para la tramitación del procedimiento correspondiente y en su caso la aplicación de las sanciones a que hubiera lugar;
 
 IV. Vigilar la aplicación y observancia de las normas del Instituto;
 
@@ -308,21 +346,21 @@ VI. Las demás necesarias para el cumplimiento de las funciones del Instituto, l
 
 De conformidad con lo dispuesto por el artículo 6 del Decreto de Creación del Instituto, la máxima autoridad del Instituto será la Junta Directiva.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 15.
 
-El procedimiento para nombrar a los miembros que integran a la Junta Directiva distintos al Presidente y al Secretario, se efectuará de la siguiente manera:
+La Junta Directiva estará conformada por cuatro representantes del Gobierno del Estado, dos representantes del Gobierno Federal, un representante del sector social y dos representantes del sector productivo.
 
-I. El Presidente, que será el Secretario de Educación del Gobierno del Estado, a través del Secretario que será el Director del Servicio Estatal del Empleo, girará comunicado por escrito a los Organismos Empresariales mas representativos en la Entidad y que conformen el Patronato del Instituto, para que sus Titulares designen a los vocales propietarios y suplentes, quienes cada tres años serán renovados o ratificados hasta por un periodo mas.
-
-II. Los vocales, deberán contar con la cualidad de no ser familiar descendente o ascendente hasta el segundo grado con el Director General, Directores de Area y Directores de Unidades, ni tener ningún interés propio, haciendo valer solo el interés colectivo del Organismo Empresarial al que representa dentro del Patronato.
-
-III. Igualmente, el Presidente a través del Secretario, girará comunicado por escrito al Titular del Ejecutivo Estatal, para que este designe al representante y suplente del Sector Social, quienes durarán en su encargo por tres años, pudiendo ser renovados o ratificados hasta por un periodo mas.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 16.
 
-Por lo que respecta a los dos representantes del Gobierno Federal, estos serán el Representante de la Secretaría de Educación Pública en el Estado y el Coordinador Nacional de Institutos Descentralizados de Formación para el Trabajo, de la Dirección General de Centros de Formación para el Trabajo, de la Subsecretaría de Educación e Investigación Tecnológicas de la Secretaría de Educación Pública, con sus respectivos suplentes.
+El procedimiento para nombrar a los miembros que integran a la Junta Directiva distintos a los representantes de Gobierno del Estado, se efectuará de la siguiente manera:
 
-Por lo que la Junta Directiva, en atención a lo dispuesto por el artículo 6 del Decreto de Creación del Instituto, estará conformada por dos representantes del Gobierno del Estado, los cuales serán: Como Presidente, el Secretario de Educación, como Secretario, el Director del Servicio Estatal del Empleo, con su respectivo suplente; Como Vocales, dos representantes del Gobierno Federal, quienes serán: El Representante de la Secretaría de Educación Pública en el Estado y el Coordinador Nacional de Estudios Descentralizados de Formación para el Trabajo, ambos con sus respectivos suplente (sic); También como Vocales, dos Representantes del Sector Productivo, ambos con sus suplentes respectivos.
+El Presidente de la Junta Directiva, a través de su Secretario, comunicará por escrito a la Secretaría de Educación Pública de Gobierno Federal, al Ejecutivo del Gobierno del Estado y a los Organismos Empresariales más representativos en la Entidad y que conformen el Patronato del Instituto, para que sus Titulares designen a sus vocales propietarios y suplentes respectivamente, quienes durarán en su cargo tres años pudiendo ser ratificados únicamente por un periodo igual.
+
+Los vocales no deberán ser familiar descendiente o ascendiente hasta el segundo grado con el Director General, Directores de Área y Directores de Unidades, ni tener ningún interés propio, haciendo valer solo el interés colectivo del Organismo Empresarial al que representa dentro del Patronato.
 
 ## TITULO CUARTO. DEL PATRONATO DEL INSTITUTO
 
@@ -350,27 +388,29 @@ De conformidad con la convocatoria que emita la Junta Directiva, el Patronato so
 
 Cualquier asunto a tratar, deberá exclusivamente ser atendido por el Titular del Instituto a petición escrita de cualquier trabajador, siempre que se hayan agotado las instancias de orden jerárquico.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 21.
 
-De conformidad con el Artículo 8º fracciones I y III de la Ley y párrafo segundo del artículo 23 del Decreto de Creación del Instituto, serán considerados como trabajadores de confianza, el Director General, Directores de Área, Directores de Unidad y Jefes de Área de Unidades.
+Serán considerados como trabajadores de confianza de acuerdo a sus funciones, el Director General, Directores de Área, Directores y Jefes de Área de las Unidades de Capacitación y los que realicen actividades de Inspección, Vigilancia o que manejen Fondos y Valores.
 
-Los trabajadores administrativos distintos a los señalados en el párrafo anterior, se reputan de base, siempre que no desarrollen actividades que impliquen la categoría de confianza, manejo de recursos financieros, materiales y humanos, los cuales de acuerdo al nombramiento que se les otorgue, realizarán funciones que se requieran para el desarrollo administrativo y operativo del Instituto.
+Los trabajadores administrativos distintos a los señalados en el párrafo anterior, se consideran como personal de apoyo, siempre que no desarrollen actividades que impliquen la categoría de confianza, manejo de recursos financieros, materiales y humanos, los cuales realizarán sus funciones de acuerdo a las necesidades del Instituto.
 
-Los Instructores serán considerados como profesionales, mismos que serán contratados por curso y tiempo determinado, de conformidad con los criterios que establezca la Secretaría de Hacienda y Crédito Público en lo referente (sic) Honorarios asimilables a sueldos. Asimismo, serán instructores aquellos que sus actividades sean exclusivamente de capacitación para y en el trabajo, ya sea dentro de las instalaciones de las Unidades dependientes del Instituto, Acciones Móviles u otros lugares en donde se impartan cursos de capacitación auspiciados por el Instituto.
+Los Instructores serán considerados como profesionales o técnicos, mismos que serán contratados por curso y tiempo determinado. Asimismo, serán instructores aquellos que sus actividades sean exclusivamente de capacitación para y en el trabajo, ya sea dentro de las instalaciones de las Unidades dependientes del Instituto, Acciones Móviles u otros lugares en donde se impartan cursos de capacitación auspiciados por el Instituto.
 
-Por tanto, no se reputará como relación de trabajo, independientemente del nombre que se le asigne, la que se establezca entre el Instituto y los Instructores, por lo que el Instituto y los Instructores quedan constreñidos a los términos del contrato que se establezca por servicios profesionales prestados.
+Por tanto, no se reputará como relación de trabajo, independientemente del nombre que se le asigne, la que se establezca entre el Instituto y los Instructores, ya que los instructores quedarán sujetos en los términos del contrato civil celebrado para su contratación.
 
-El Director General, podrá de manera discrecional, según la disponibilidad de recursos financieros y las políticas presupuestarias, contratar personal que realice actividades de apoyo y asistencia determinadas (sic) y por tiempo determinado, los cuales serán considerados como eventuales.
+El Director General, podrá según la disponibilidad de recursos financieros y las políticas presupuestarias, celebrar contratos con personal para el desarrollo de actividades de apoyo y asistencia determinadas y por tiempo determinado.
 
 ### CAPITULO II. DE LOS NOMBRAMIENTOS
 
 ###### ARTICULO 22.
 
-El nombramiento legalmente aceptado que expida el Instituto a sus trabajadores, obliga a este y al trabajador al cumplimiento recíproco de las disposiciones contenidas en la Ley y en el Decreto, así como a las derivadas de la buena fe. Para el caso del personal Administrativo, no será necesaria la expedición de nombramientos, a juicio del Instituto.
+(DEROGADO, P.O. 26 DE MAYO DE 2012)
 
 ###### ARTICULO 23.
 
-Los trabajadores prestarán al Instituto servicios materiales, intelectuales, o de ambos géneros mediante nombramiento temporal, interino, por tiempo fijo o indefinido por obra determinada, expedido (sic) el Titular del Instituto.
+(DEROGADO, P.O. 26 DE MAYO DE 2012)
 
 ###### ARTICULO 24.
 
@@ -388,7 +428,7 @@ V. Gozar de buena reputación y no haber sido condenado por delitos graves.
 
 VI. No haber sido separado de algún empleo, cargo o comisión por motivos análogos a los que se consideran como causas de destitución, a no ser que, por el tiempo transcurrido, que no será menos de dos años a partir de su separación, el Instituto con acuerdo de la Junta Directiva, podrán estimar que son de aceptarse o no sus servicios.
 
-VII. No tener impedimento físico para el trabajo, lo que se comprobará con el examen médico en la forma prevista por este Reglamento.
+VII. (DEROGADA, P.O. 26 DE MAYO DE 2012)
 
 VIII. Tener los conocimientos necesarios para el desempeño del cargo, a juicio del Director Administrativo o sujetarse al concurso o pruebas de competencia que fije el Instituto. En caso de empleo técnico, acreditar la posesión del título profesional registrado.
 
@@ -404,27 +444,13 @@ Quedará insubsistente la relación laboral cuando el trabajador no se presente 
 
 ###### ARTICULO 27.
 
-El Instituto podrá, sin ninguna responsabilidad, remover a su arbitrio a todo trabajador de nuevo ingreso, antes de que cumpla seis meses de servicio a partir de la fecha de su ingreso.
+(DEROGADO, P.O. 26 DE MAYO DE 2012)
 
 ### CAPITULO III. DE LOS DERECHOS Y OBLIGACIONES DE LOS TRABAJADORES
 
 ###### ARTICULO 28.
 
-Son derechos de los trabajadores:
-
-I. Percibir la remuneración que les corresponda.
-
-II. Disfrutar de los descansos y vacaciones procedentes.
-
-III. Obtener, en su caso, los permisos y licencias que establece este ordenamiento.
-
-IV. No ser separado del servicio sino por causa justa.
-
-V. Obtener atención médica en la forma que fija este Reglamento.
-
-VI. Percibir las indemnizaciones legales que les corresponda.
-
-VII. Renunciar al empleo.
+(DEROGADO, P.O. 26 DE MAYO DE 2012)
 
 ###### ARTICULO 29.
 
@@ -434,13 +460,17 @@ I. Rendir protesta.
 
 II. Asistir con puntualidad al desempeño de sus labores y cumplir con las disposiciones que se dicten para comprobarla.
 
-III. En caso de enfermedad, dar aviso correspondiente al Instituto o a las Unidades dependientes de este, dentro de la hora siguiente a la reglamentaria de entrada a sus labores, precisando el lugar en que deba practicarse el examen médico.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2012)</small>
+
+III. En caso de enfermedad, dar aviso al Instituto o a las Unidades dependientes de éste, con la inmediatez posible y entregar la incapacidad correspondiente expedida por el Instituto Mexicano del Seguro Social.
 
 IV. Desempeñar el empleo o cargo en el lugar a que sean adscritos.
 
 V. Desempeñar las funciones propias de su cargo con la intensidad y calidad que este requiera.
 
-VI. Obedecer las órdenes e instrucciones que reciban de sus superiores en asuntos propios del servicio. Una vez cumplidas expresarán las objeciones que ameriten.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2012)</small>
+
+VI. Obedecer las órdenes o instrucciones que reciban de sus superiores en asuntos propios del servicio.
 
 VII. Comportarse con la discreción debida en el desempeño de su cargo.
 
@@ -466,7 +496,9 @@ c) Influencia alcohólica o uso de drogas.
 
 d) A solicitud del Instituto en cualquier otro caso.
 
-XV. Procurar la armonía entre las dependencias del Instituto y entre éstas y las demás autoridades en los asuntos oficiales.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2012)</small>
+
+XV. Procurar la armonía entre las unidades y diferentes áreas del Instituto y entre éstas y las demás autoridades en los asuntos oficiales; y
 
 XVI. Comunicar oportunamente a sus superiores cualquier irregularidad que observen en el servicio.
 
@@ -486,7 +518,9 @@ V. Prestar dinero a réditos a personas cuyos sueldos tengan que pagar, cuando s
 
 VI. Habitar en alguna de las Unidades del Instituto, salvo los casos de necesidades del servicio, a juicio del mismo o con autorización del Director General y mediante remuneración o renta a que haya lugar.
 
-VII. Y en general, ejecutar actos contrarios al desempeño de las funciones encomendadas por el Instituto.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2012)</small>
+
+VII. En general ejecutar actos contrarios al desempeño de las funciones encomendadas por el Instituto, establecidas en sus ordenamientos aplicables, así como lo dispuesto en la Ley.
 
 ### CAPITULO IV. DE LA JORNADA DE TRABAJO
 
@@ -500,19 +534,15 @@ Las jornadas mixta y diurna podrán ser trabajadas en forma continua o discontin
 
 ###### ARTICULO 33.
 
-Cuando por circunstancias especiales se aumenten las horas de jornada máxima de trabajo, con excepción hecha del aumento debido al retraso imputable al trabajador, estas serán consideradas como tiempo extraordinario, las que no podrán exceder de tres horas al día, ni de tres veces consecutivas.
-
-El tiempo extraordinario de trabajo, se pagará con un cien por ciento más del salario asignado a las horas de la jornada ordinaria y necesariamente debe mediar por escrito para su pago.
-
-Siempre y cuando exista la anuencia del Instituto y del trabajador por escrito, para la prolongación del tiempo extraordinario que exceda de nueve horas a la semana, obliga al Instituto a pagar al trabajador el tiempo excedente con un doscientos por ciento más del salario que corresponda a las horas de la jornada normal de trabajo.
+(DEROGADO, P.O. 26 DE MAYO DE 2012)
 
 ###### ARTICULO 34.
 
-En el caso de los conserjes, porteros, veladores, guardianes y otros empleados que presten servicios análogos, no será aplicable lo establecido en el artículo anterior, pues tales empleados tendrán obligación de desempeñar su trabajo aun fuera de las horas ordinarias, sin que por tal motivo se considere que trabajan tiempo extra.
+(DEROGADO, P.O. 26 DE MAYO DE 2012)
 
 ###### ARTICULO 35.
 
-Las horas extraordinarias sólo se justificarán cuando razones imperiosas del servicio que lo requieran y siempre que una situación transitoria los demande, para lo cual serán necesario que los Directores de Unidades soliciten previamente la autorización respectiva del Director Administrativo del Instituto, señalando con una exposición amplia de los motivos que la originan.
+(DEROGADO, P.O. 26 DE MAYO DE 2012)
 
 ### CAPITULO V
 
@@ -540,11 +570,13 @@ De acumular 6 retardos mayores acumulados en dos meses, se suspenderá al trabaj
 
 Si el trabajador acumula de 8 a 14 retardos menores y de 4 a 6 retardos mayores, se le suspenderá por dos días y le serán descontados los días de suspensión.
 
-Aquel trabajador que acumule mas de seis faltas injustificadas acumuladas en dos meses será de plano, dado de baja.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2012)</small>
+
+Aquel trabajador que acumule más de tres faltas de asistencia en un periodo de treinta días, sin permiso del patrón o sin causa justificada será dado de baja.
 
 ###### ARTICULO 37.
 
-Aquella persona que sea sorprendida, sustrayendo, alterando o modificando los registros de entrada o salida, propios o de algún otro trabajador, será cesado de inmediato, sin procedimiento administrativo alguno, toda vez que dicha acción se considera como falta grave de abuso de confianza y sustracción y alteración de documentos oficiales.
+(DEROGADO, P.O. 26 DE MAYO DE 2012)
 
 ###### ARTICULO 38.
 
@@ -552,9 +584,11 @@ El Director Administrativo y los Directores de las Unidades, podrán de manera d
 
 Solo serán válidas las licencias médicas por enfermedad, maternidad o riesgo de trabajo, expedidas por el Instituto Mexicano del Seguro Social y el trabajador que sufra enfermedad dictaminada por el I.M.S.S., deberá dar aviso a la Dirección Administrativa o al Director de Unidad, en un plazo máximo de 72 horas a partir de la emisión de dicho dictamen.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 39.
 
-Todo trabajador del Instituto gozará de seis permisos con goce de sueldo durante el año calendario, no pudiéndose acumular mas de dos días por cada solicitud y separados cuando menos de un mes, con la limitante de que no se soliciten antes o después de cinco días de cualquier periodo vacacional a los que tenga derecho el trabajador solicitante o entre días festivos en los que antecedan o sucedan al sábado o domingo o antes o después de gozar de las suspensiones programadas por sucesión de días inhábiles, señalados en el calendario escolar federal.
+Todo trabajador del Instituto gozará de seis permisos con goce de sueldo durante el año calendario, no pudiéndose acumular mas de dos días por cada solicitud y separados cuando menos de un mes, con la limitante de que no se soliciten antes o después de cinco días de cualquier período vacacional a los que tenga derecho el trabajador solicitante o entre días festivos en los que antecedan o sucedan al sábado o domingo o antes o después de gozar de las suspensiones programadas por sucesión de días inhábiles, establecidos en la Ley.
 
 ###### ARTICULO 40.
 
@@ -588,11 +622,17 @@ La intensidad del trabajo estará determinada por el conjunto de labores que se 
 
 El salario es la retribución al trabajador como compensación de los servicios que presta. En consecuencia, el pago de salarios sólo procede: por servicios desempeñados; vacaciones legales; licencias con goce de sueldo y días de descanso obligatorio.
 
-Los salarios nunca podrán ser inferiores al mínimo que establezca para tal efecto el tabulador y niveles correspondientes que expida Oficialía Mayor para los trabajadores al Servicio del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2012)</small>
 
-Los salarios no serán objeto de descuentos, deducciones, compensaciones, retenciones o embargo, salvo los casos que señala el artículo 41 de la Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado de San Luis Potosí.
+Los salarios nunca podrán ser inferiores al salario mínimo que determine la Comisión Nacional de Salarios Mínimos.
 
-Podrá determinarse compensaciones, bonos y demás prestaciones en efectivo y en especie, según el costo de la vida en el Estado y serán aprobadas por la Junta Directiva, sin perjuicio de las que Oficialía mayor del Gobierno del Estado, determine para los trabajadores al Servicio del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2012)</small>
+
+Los salarios mínimos no podrán ser objeto de descuento o reducción, salvo los casos que señala el artículo 97 de la Ley.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2012)</small>
+
+Podrá determinarse según disponibilidad presupuestaria, compensaciones, bonos y demás prestaciones en efectivo y en especie, según el costo de la vida en el Estado y serán aprobados por la Junta Directiva.
 
 ### CAPITULO VIII. DE LAS VACACIONES
 
@@ -608,9 +648,11 @@ Las vacaciones son irrenunciables y no podrán compensarse con una retribución,
 
 ### CAPITULO IX. DEL AGUINALDO Y LA PRIMA VACACIONAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 49.
 
-Los trabajadores de confianza y administrativos del Instituto, tendrán derecho a un aguinaldo anual conforme a las disposiciones que emita Oficialía Mayor del Gobierno del Estado, que deberá pagarse en la primera quincena de diciembre.
+Los trabajadores de Confianza y Administrativos del Instituto, tendrán derecho a un aguinaldo anual de acuerdo a lo previsto por el artículo 87 de la Ley, que deberá pagarse en la primera quincena de diciembre.
 
 El trabajador que no haya cumplido un año de servicio, tendrán (sic) derecho a la parte proporcional del aguinaldo, según el tiempo de trabajo efectivo.
 
@@ -620,25 +662,73 @@ La prima vacacional se establecerá de acuerdo a los presupuestos autorizados po
 
 ### CAPITULO X. DE LA ESTABILIDAD EN EL TRABAJO
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 51.
 
-Ningún trabajador de base podrá ser separado de sus servicios, sin que medie causa plenamente justificada y conforme a los procedimientos señalados en la Ley y los reglamentos aplicables.
+Ningún trabajador podrá ser separado de sus servicios, sin que medie causa plenamente justificada y conforme a los procedimientos establecidos en la Ley y el presente reglamento.
 
 ###### ARTICULO 52.
 
-En virtud de lo dispuesto por el artículo 11 del Decreto de Creación del Instituto, el Director General, los Directores de Area, los Directores de Unidades y los Jefes de Area de las Unidades dependientes del Instituto, al ser separados de su encargo por término de nombramiento o cualquier otra circunstancia distinta a la comisión de alguna falta de las señaladas en el numeral 55 de la Ley, inhabilitación o destitución legalmente declarada por la Autoridad Competente, tendrán derecho al pago de la indemnización a la que se refiere el artículo 61 de la Ley, mas un pago de veinte días por año laborado, como compensación al trabajo desempeñado.
+(DEROGADO, P.O. 26 DE MAYO DE 2012)
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 53.
 
-Ningún trabajador de confianza podrá gozar de ninguna prerrogativa económica ni presente ni futura al término o separación de su encargo, salvo lo dispuesto por el artículo anterior.
+Ningún trabajador de confianza podrá gozar de ninguna prerrogativa económica ni presente ni futura al término de su encargo.
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE MAYO DE 2012)</small>
 
 ### CAPITULO XI
 
-DE LAS OBLIGACIONES DEL INSTITUTO, DE LA SUSPENSIÓN, TERMINACIÓN Y CESE, DE LOS RIESGOS DE TRABAJO, DE LA JUBILACIÓN, DE LOS SINDICATOS Y DE LA HUELGA.
-
 ###### ARTICULO 54.
 
-Para lo referente a las obligaciones del Instituto de Capacitación para el Trabajo del Estado de San Luis Potosí, la suspensión, terminación y cese de las Relaciones de Trabajo, los Riesgos de Trabajo, la Jubilación, los Sindicatos y la Huelga, se observará los (sic) dispuesto por el Título Sexto, Séptimo, Octavo y Noveno de la Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado de San Luis Potosí, en concatenación con el artículo 23 párrafo tercero del Decreto de Creación del Instituto de Capacitación para el Trabajo del Estado de San Luis Potosí.
+(DEROGADO, P.O. 26 DE MAYO DE 2012)
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE MAYO DE 2012)</small>
+
+### CAPITULO XII. DE LAS SANCIONES EN GENERAL
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2012)</small>
+
+###### ARTICULO 55.
+
+Las faltas que impliquen incumplimiento a la Ley o a este reglamento serán sancionadas por el Director General, quien realizará el procedimiento administrativo correspondiente, escuchando siempre al trabajador.
+
+La omisión, falta o incumplimiento de las obligaciones que impone la Ley y el presente reglamento al personal del Instituto, se sancionará con amonestación, suspensión o rescisión de la relación laboral.
+
+Para la imposición de sanciones originadas por faltas omisiones o incumplimiento de las obligaciones del personal del Instituto, el Titular del Área que tenga conocimiento del asunto, levantará acta circunstanciada de los hechos, con la que dará cuenta al Director General, quien a su vez, iniciará el procedimiento administrativo respectivo, dando vista al personal presuntamente involucrado, para que en un término de tres días hábiles a partir de la notificación realice de manera formal las manifestaciones que considere pertinentes en su defensa y en su caso ofrezca pruebas; de ser necesario el Director General ordenará las diligencias respectivas y resolverá lo que proceda.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2012)</small>
+
+###### ARTICULO 56.
+
+De la Amonestación, Suspensión y Rescisión:
+
+I.- La Amonestación, se decretará de forma privada y formal y procederá en los siguientes casos:
+
+- Por faltar el respeto a los superiores jerárquicos o compañeros de trabajo, de hecho, por escrito o de palabra.
+
+- Por realizar actividades ajenas a sus funciones en el horario de trabajo establecido.
+
+II.- Se suspenderán temporalmente las obligaciones de los sujetos de trabajo, sin responsabilidad para el Instituto, por sanción disciplinaria hasta por el término de cinco días, impuesta por el Director General, como consecuencia directa de faltas cometidas en el desempeño del servicio, siempre que no ameriten la rescisión;
+
+III.- Son causas de rescisión de la relación de trabajo, las establecidas en el artículo 47 de la Ley.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE MAYO DE 2012)</small>
+
+### CAPITULO XIII. DE LAS SUPLENCIAS
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2012)</small>
+
+###### ARTICULO 57.
+
+Para suplir las ausencias de los miembros de la Junta Directiva, se estará a lo previsto por el artículo 6 del Decreto de Creación de (sic) Instituto.
+
+El Director General será suplido en sus ausencias no mayores a treinta días, por quien él designe de entre los Directores del Instituto. En ausencias mayores a treinta días, por quien designe la Junta Directiva a propuesta del Titular del Poder Ejecutivo.
+
+Los Directores y Jefes de Área serán suplidos en sus ausencias por quien designe el Director General.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -671,3 +761,15 @@ EL DIRECTOR GENERAL DEL INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO
 PROF. AURELIANO GAMA BAZARTE
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE MAYO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
