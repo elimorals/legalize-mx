@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-instituto-de-la-vivienda-del-estado-de-chihuahua-4723"
 country: "mx"
 rank: "ley"
 publication_date: "1987-08-08"
-last_updated: "1987-08-08"
+last_updated: "2012-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4723&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 LEY DEL INSTITUTO DE LA VIVIENDA DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE VIVIENDA DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 26 DE MAYO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de agosto de 1987.
 
@@ -250,3 +252,43 @@ LIC. FERNANDO BAEZA MELENDEZ
 EL SECRETARIO DE GOBIERNO
 
 LIC. MARTHA I. LARA ALATORRE.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE MAYO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor noventa días después de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan la Ley de Vivienda del Estado, publicada en el Periódico Oficial del Estado No. 6, del 21 de enero de 2006; así como la Ley del Instituto de la Vivienda del Estado de Chihuahua, publicada en el Periódico Oficial del Estado No. 63, del 08 de agosto de 1987.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales y reglamentarias que se opongan a lo establecido en el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los bienes muebles e inmuebles, derechos, recursos financieros y demás activos con los que opere el Instituto de la Vivienda del Estado de Chihuahua hasta el momento de la vigencia del presente Decreto, serán transferidos en este acto como patrimonio del organismo público descentralizado denominado Comisión Estatal de Vivienda, Suelo e Infraestructura de Chihuahua, en conjunto con los recursos presupuestales y financieros que la Secretaría de Hacienda le asigne.
+
+###### ARTÍCULO QUINTO.
+
+El trámite de los asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto ante el Instituto de la Vivienda del Estado de Chihuahua, serán continuados y serán resueltos por la Comisión Estatal de Vivienda, Suelo e Infraestructura de Chihuahua.
+
+###### ARTÍCULO SEXTO.
+
+Las funciones, facultades, derechos y obligaciones establecidos a cargo del Instituto de la Vivienda del Estado de Chihuahua en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado, con dependencias y entidades de la Federación y de los municipios, y con cualquier persona física o moral, serán asumidas por la Comisión Estatal de Vivienda, Suelo e Infraestructura de Chihuahua.
+
+###### ARTÍCULO SÉPTIMO.
+
+En todo caso, deberá asegurarse que de ninguna forma resulten afectados los derechos de los trabajadores del organismo que se extingue, que hayan adquirido con base en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+
+###### ARTÍCULO OCTAVO.
+
+La Junta de Gobierno de la Comisión Estatal de Vivienda, Suelo e Infraestructura de Chihuahua deberá expedir su Estatuto Orgánico, a más tardar dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO NOVENO.
+
+Por lo que corresponde al Programa Estatal de Vivienda y en vista de su carácter eminentemente técnico, el mismo habrá de emitirse dentro de los siguientes noventa días naturales posteriores a la entrada en vigor del presente Decreto.
