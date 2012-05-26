@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2012-02-04"
+last_updated: "2012-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2012.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -321,23 +321,27 @@ a).- Las constancias que los Consejos Municipales Electorales o el Consejo Gener
 
 b).- La notificación de las resoluciones firmes del Tribunal Electoral del Estado recaídas a los recursos de que haya conocido, de acuerdo con lo establecido en el Código Electoral.
 
-> <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2012)</small>
 
-II.- Entregará entre el 15 y 20 de septiembre, credenciales de identificación y acceso a los Diputados electos que integrarán la nueva Legislatura;
-
-> <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
-
-III.- Citará de manera fehaciente, a los Diputados electos, a una junta previa que tendrá verificativo a las 11:00 horas del 25 de septiembre del año de la elección;
+II.- Coordinar, planear y ejecutar un seminario de capacitación dirigido a los Diputados electos, propietarios y suplentes, que integrarán la nueva Legislatura, con el objetivo de proporcionarles la instrucción mínima necesaria para el correcto y adecuado ejercicio y desarrollo de sus funciones legislativas. Este seminario será impartido por destacados profesionales en materia legislativa, de conformidad con la temática elaborada por la Comisión Instaladora, mismo que deberá realizarse en la sede del Congreso a más tardar en la tercera semana de septiembre del año de la elección;
 
 > <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
 
-IV.- Entregará en su oportunidad y por inventario, a la Directiva Provisional de la Legislatura entrante, la totalidad de los documentos electorales a que se refiere la fracción I de este artículo, así como el inventario de los bienes muebles, situación financiera, instalaciones del Poder Legislativo y la documentación propia de las actividades legislativas pendientes.
+III.- Entregará entre el 15 y 20 de septiembre, credenciales de identificación y acceso a los Diputados electos que integrarán la nueva Legislatura;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2012)</small>
+
+IV.- Citará de manera fehaciente, a los Diputados electos, a una junta previa que tendrá verificativo a las 11:00 horas del 25 de septiembre del año de la elección; y
 
 > <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
+
+V.- Entregará en su oportunidad y por inventario, a la Directiva Provisional de la Legislatura entrante, la totalidad de los documentos electorales a que se refiere la fracción I de este artículo, así como el inventario de los bienes muebles, situación financiera, instalaciones del Poder Legislativo y la documentación propia de las actividades legislativas pendientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 29.
 
-En la fecha y hora en que fueren convocados los Diputados electos, conforme lo previsto en la fracción III del artículo anterior, presentes en el Recinto Parlamentario, la Comisión Instaladora y los Diputados electos, se procederá en la forma siguiente:
+En la fecha y hora en que fueren convocados los Diputados electos, conforme lo previsto en la fracción IV del artículo anterior, presentes en el Recinto Parlamentario, la Comisión Instaladora y los Diputados electos, se procederá en la forma siguiente:
 
 a).- La Comisión Instaladora, por conducto de uno de sus Secretarios, dará cuenta del ejercicio de las atribuciones establecidas en el artículo anterior;
 
@@ -1390,5 +1394,9 @@ P.O. 26 DE DICIEMBRE DE 2009.
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 4 DE FEBRERO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 26 DE MAYO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
