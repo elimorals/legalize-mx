@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2012-02-04"
+last_updated: "2012-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2012.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -353,9 +353,13 @@ En caso de que no se realicen elecciones municipales o se declaren nulas, el Con
 
 En el supuesto a que se refiere el párrafo anterior, el Congreso expedirá la convocatoria correspondiente y autorizará al Consejo General y al Tribunal electorales para determinar los ajustes necesarios a los plazos electorales establecidos en el código respectivo. Los comicios extraordinarios se celebrarán el último domingo de diciembre y los munícipes electos tomarán posesión el 31 de enero siguiente.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 29.
 
-El Congreso expedirá las normas para regular la oportuna transmisión del mando de los gobiernos municipales, así como el suministro adecuado y completo de información a los miembros de los ayuntamientos electos, relativos a los asuntos municipales y aquellos otros a que se refiere el artículo 33 de esta Ley, con el propósito de que cuenten con los elementos necesarios para el eficaz desempeño de la (sic) funciones que ejercerán.
+El Congreso expedirá las normas para regular la oportuna transmisión del mando de los gobiernos municipales, así como el suministro adecuado y completo de información a los miembros de los ayuntamientos electos, relativos a los asuntos municipales y aquellos otros a que se refiere el artículo 33 de esta Ley, con el propósito de que cuenten con los elementos necesarios para el eficaz desempeño de la (sic) funciones que ejercerán. Para lo cual, antes de la instalación de los ayuntamientos, los presidentes municipales electos, sus suplentes y demás integrantes del Cabildo, recibirán de parte de la Coordinación Estatal de Desarrollo Municipal, a través de su Unidad Estatal de Capacitación y Desarrollo Institucional Municipal, la instrucción mínima necesaria para la correcta administración del municipio, mediante cursos de capacitación suficientes para garantizar la eficiencia en el desarrollo de sus funciones.
+
+Antes de tomar posesión de su cargo, los presidentes municipales, podrán asistir y acreditar los cursos de capacitación y formación que instrumente e imparta el Poder Ejecutivo del Estado, por conducto de la dependencia del ramo correspondiente, esto es, una vez que el Instituto Electoral del Estado les entregue la constancia que los acredite como tales y antes de tomar posesión de su cargo. Los suplentes de los presidentes municipales, también podrán cumplir con esta actividad.
 
 ### CAPÍTULO II. DE LA INSTALACIÓN DE LOS AYUNTAMIENTOS
 
@@ -460,6 +464,10 @@ IV. Expedientes diversos:
 6. Relación de convenios suscritos con el Estado o la federación.
 
 7. Inventario de bienes ajenos en proceso administrativo de ejecución.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2012)</small>
+
+8. Avances y Certificaciones del Programa "Agenda desde lo Local", así como proyectos específicos de mejora continua.
 
 V. Expedientes fiscales:
 
@@ -1863,7 +1871,7 @@ Dado en Palacio de Gobierno, a los 30 días del mes de marzo del año dos mil un
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA, Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JORGE HUMBERTO SILVA OCHOA. Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 15 DE NOVIEMBRE DE 2003.
 
@@ -1920,5 +1928,9 @@ P.O. 18 DE JUNIO DE 2011.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 4 DE FEBRERO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 26 DE MAYO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
