@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-tribunal-electoral-del-poder-84181"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-13"
-last_updated: "2011-12-13"
+last_updated: "2012-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE MAYO DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DE (SIC) PODER JUDICIAL DEL ESTADO DE JALISCO
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2012.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE MAYO DE 2012.</small>
 
 Reglamento publicado en la Sección XLIV del Periódico Oficial del Estado de Jalisco, el martes 13 de diciembre de 2011.
 
@@ -65,8 +65,6 @@ b) El trámite y resolución de los medios procesales de impugnación en materia
 
 Para su aplicación, se atenderá al conjunto de métodos jurídicos de interpretación, prevaleciendo el gramatical, el sistemático y el funcional, en su defecto, se atenderá a los principios generales del derecho, cualquier duda sobre la interpretación o aplicación de este Reglamento, será resuelta por el Pleno del Tribunal Electoral.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE MAYO DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 2.
 
 Para los efectos de este Reglamento se entenderá por:
@@ -103,11 +101,15 @@ XV. IPS: el Instituto Prisciliano Sánchez;
 
 XVI. Secretario General: el Secretario General de Acuerdos del Tribunal Electoral;
 
-XVII. Dirección General: la Dirección General de Administración, Recursos Humanos, Materiales y Servicios Generales.
+> <small>(F. DE E., P.O. 26 DE MAYO DE 2012)</small>
+
+XVII. Dirección General: la Dirección General de Administración, Recursos Humanos, Materiales y Servicios Generales;
 
 XVIII. Instituto Electoral: el Instituto Electoral y de Participación Ciudadana del Estado de Jalisco; y
 
-XVIX (SIC). Órganos del Instituto Electoral: los previstos en el artículo 118 del Código Electoral.
+> <small>(F. DE E., P.O. 26 DE MAYO DE 2012)</small>
+
+XIX. Órganos del Instituto Electoral: los previstos en el artículo 118 del Código Electoral.
 
 ###### Artículo 3.
 
@@ -185,8 +187,6 @@ b) El Instituto, integrado por los dos Magistrados restantes que no integran la 
 
 ### CAPÍTULO II. ATRIBUCIONES DEL PLENO DEL TRIBUNAL ELECTORAL
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE MAYO DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 10.
 
 El Pleno tendrá las siguientes atribuciones:
@@ -243,9 +243,13 @@ XXV. Nombrar a los Magistrados que deberán integrar los Comités y las Comision
 
 XXVI. Emitir las bases mediante acuerdos generales, para que las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realice el Tribunal Electoral, se ajusten a los criterios contemplados en las leyes aplicables;
 
-XXVII. Nombrar a los integrantes del Comité de Clasificación de Información Pública, en observancia a lo que dispone el artículo 86 de la Ley de Transparencia e Información Pública del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2012)</small>
 
-XXVIII. Otorgar poderes especiales y nombrar representantes que se requieran para el buen funcionamiento y defensa del Tribunal Electoral;
+XXVII. Nombrar a los integrantes del Comité de Clasificación de Información Pública, en observancia a lo que dispone el artículo 27 de la Ley de Información Pública del Estado de Jalisco y sus Municipios.
+
+> <small>(F. DE E., P.O. 26 DE MAYO DE 2012)</small>
+
+XXVIII. Otorgar poderes especiales y nombrar representantes que se requieran para el buen funcionamiento y defensa del Tribunal Electoral; y
 
 XXIX. Las demás que le confieran las leyes aplicables.
 
@@ -447,11 +451,11 @@ Las sesiones en las que se pronuncien las resoluciones, deberán ser públicas y
 
 Los proyectos de resolución tendrán el carácter de reservados, los Magistrados y demás personal, incurrirán en responsabilidad, en los términos que prevé el artículo 3 del presente Reglamento, si dan a conocer el sentido de los mismos, antes de que sean sometidos a discusión y aprobación.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE MAYO DE 2012)</small>
+
 ###### Artículo 34.
 
-El Presidente junto con el Secretario General, emitirá la convocatoria a una sesión pública de resolución, misma que contendrá la lista de los asuntos a discutirse y, en su caso aprobarse, debiéndose fijar en los estrados del Tribunal Electoral con veinticuatro horas de anticipación.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE MAYO DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+El Presidente junto con el Secretario General, emitirá la convocatoria a una sesión pública de resolución, misma que contendrá la lista de los asuntos a discutirse y, en su caso aprobarse, debiéndose fijar en los estrados del Tribunal Electoral con veinticuatro horas de anticipación, o en un plazo menor cuando se trate de asuntos de urgente resolución.
 
 ###### Artículo 35.
 
@@ -479,7 +483,9 @@ X. Si la mayoría de los integrantes del Pleno o de la Sala Permanente, votaran 
 
 a) El Presidente, propondrá se returne el asunto al Magistrado que en razón de turno corresponda, para que elabore el engrose la sentencia aprobada, que contendrá las consideraciones y razonamientos jurídicos propuestos por la mayoría de los Magistrados disidentes, a partir de que concluya la sesión respectiva;
 
-b) El plazo para el engrose podrá determinarse en forma específica a propuesta del Presidente durante la misma sesión.
+> <small>(F. DE E., P.O. 26 DE MAYO DE 2012)</small>
+
+b) El plazo para el engrose podrá determinarse en forma específica a propuesta del Presidente durante la misma sesión;
 
 c) Cuando se esté en el límite del término legal de resolución, previsto en el Código Electoral, el engrose deberá realizarse durante la celebración de la sesión respectiva;
 
@@ -731,7 +737,9 @@ IV. Supervisar que los expedientes sean registrados en el Libro de Gobierno, est
 
 V. Dar trámite a los exhortos, despachos y requerimientos que se ordenen en actuaciones para la debida sustanciación de los expedientes;
 
-VI. Efectuar las certificaciones necesarias para el debido engrose de las resoluciones dictadas por el Pleno o por la Sala Permanente, en su caso;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE MAYO DE 2012)</small>
+
+VI. Efectuar las certificaciones que le sean ordenadas, así como las necesarias para el debido engrose de las resoluciones dictadas por el Pleno o por la Sala Permanente, en su caso;
 
 VII. Expedir y certificar las copias de los expedientes así como de los documentos que obren en actuaciones, que hubieran sido solicitados por las partes y autorizados por mandato judicial;
 
@@ -791,8 +799,6 @@ VI. Auxiliares de Justicia.
 
 ### CAPÍTULO II. SECRETARIO TÉCNICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE MAYO DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 52.
 
 El Secretario Técnico tendrá las atribuciones siguientes:
@@ -805,7 +811,9 @@ b) La supervisión del adecuado funcionamiento de las áreas de apoyo de la Secr
 
 c) La publicación de la convocatoria de la sesión en la que se asiente la lista de los asuntos a tratar en la misma en los estrados, y en su caso, en la página electrónica del Tribunal; asimismo en la publicación del Orden del Día de las sesiones en la referida página electrónica; y
 
-d) La entrega de la copia de la convocatoria respectiva y de los proyectos de resolución que habrán de analizarse y discutirse, así como la documentación de aquellos asuntos que habrán de someterse a votación;
+> <small>(F. DE E., P.O. 26 DE MAYO DE 2012)</small>
+
+d) La entrega de la copia de la convocatoria respectiva y de los proyectos de resolución que habrán de analizarse y discutirse, así como la documentación de aquellos asuntos que habrán de someterse a votación.
 
 II. Cubrir las ausencias del titular de la Secretaría General;
 
@@ -863,8 +871,6 @@ VIII. Las demás atribuciones que les confieran las leyes aplicables.
 
 La Oficialía de Partes deberá permanecer abierta las veinticuatro horas del día, desde el inicio del proceso electoral hasta que se resuelva el último medio de impugnación presentado ante el Tribunal Electoral. Una vez concluido el proceso electoral sea ordinario o extraordinario y hasta un día antes de que se declare el inicio del siguiente, el horario será de las nueve a las quince horas, con excepción, de la recepción de los diversos medios de impugnación en materia federal, cuyo vencimiento del plazo exceda de dicho horario.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE MAYO DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 55.
 
 El Oficial de Partes tendrá las siguientes atribuciones:
@@ -877,7 +883,9 @@ b) El número de fojas que integren el documento original;
 
 c) El número de las copias que se adjunten al original; y
 
-d) En su caso, el número de anexos que se acompañen y una breve descripción de los mismos;
+> <small>(F. DE E., P.O. 26 DE MAYO DE 2012)</small>
+
+d) En su caso, el número de anexos que se acompañen y una breve descripción de los mismos.
 
 II. Turnar la documentación conforme a las disposiciones contenidas en el manual respectivo;
 
@@ -1033,19 +1041,21 @@ V. Las demás que le sean encomendadas por el Pleno, la Sala Permanente y las di
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE MAYO DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 64.
 
 A fin de cumplir con el objetivo que le confiere la Ley Orgánica, el Instituto implementará actividades de investigación y capacitación permanentes, para coadyuvar en el desarrollo de la democracia en la Entidad, incluyendo en ellos a los diferentes sectores de la sociedad, para este efecto, estará facultado para:
 
 I. Realizar estudios e investigaciones jurídicas sobre temas relacionados con la democracia, la educación cívica y la cultura política y jurídica con un enfoque electoral;
 
-II. Llevar a cabo cursos y jornadas de divulgación del Derecho Electoral, de cultura cívico-política y fomento de los valores democráticos para todos los sectores sociales y en los niveles de educación básica, media superior y superior; y (sic)
+> <small>(F. DE E., P.O. 26 DE MAYO DE 2012)</small>
+
+II. Llevar a cabo cursos y jornadas de divulgación del Derecho Electoral, de cultura cívico-política y fomento de los valores democráticos para todos los sectores sociales y en los niveles de educación básica, media superior y superior;
 
 III. Organizar e impartir cursos, seminarios y otras actividades docentes, en las modalidades educativas que resulten adecuadas para formar y capacitar al personal en Derecho Electoral, para atender las demandas que requiera el Tribunal Electoral durante los procesos electorales ordinarios o extraordinarios; y
 
-IV. Organizar e impartir cursos, seminarios y otras actividades docentes a otras instituciones interesadas, militantes o simpatizantes de partidos y agrupaciones políticas
+> <small>(F. DE E., P.O. 26 DE MAYO DE 2012)</small>
+
+IV. Organizar e impartir cursos, seminarios y otras actividades docentes a otras instituciones interesadas, militantes o simpatizantes de partidos y agrupaciones políticas.
 
 ###### Artículo 65.
 
@@ -1163,8 +1173,6 @@ e) La forma de evaluación a los participantes del curso propedéutico.
 
 El Instituto Prisciliano Sánchez, es una Institución de Educación Superior, dependiente del Tribunal Electoral del Poder Judicial del Estado de Jalisco, con Reconocimiento de Validez Oficial de Estudios (RVOE) de Posgrado, otorgado por la Secretaría de Educación Jalisco, para impartir estudios de Maestría y Doctorado en Derecho Electoral.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE MAYO DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 75.
 
 El Instituto Prisciliano Sánchez, estará integrado por:
@@ -1181,7 +1189,9 @@ V. Un Jefe de Oficina, con estudios de posgrado, encargado de Convenios y Proyec
 
 VI. Un Jefe de Oficina, encargado de la Biblioteca “Prisciliano Sánchez”, la Hemeroteca y la Unidad Editorial; y
 
-V (SIC). El personal administrativo y académico necesario para su buen funcionamiento.
+> <small>(F. DE E., P.O. 26 DE MAYO DE 2012)</small>
+
+VII. El personal administrativo y académico necesario para su buen funcionamiento.
 
 ###### Artículo 76.
 
@@ -1257,7 +1267,9 @@ El Pleno podrá constituir otros comités y comisiones con el carácter de perma
 
 Todo comité o comisión estará integrado, cuando menos por:
 
-I. Tres Magistrados designados por el Pleno, de entre los cuales uno será designado como coordinador del comité o comisión de que se trate. Con excepción del Comité de Clasificación de Información Pública, de conformidad con el artículo 84 de la Ley de Transparencia e Información Pública del Estado de Jalisco; y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2012)</small>
+
+l. Tres Magistrados designados por el Pleno, de entre los cuales uno será designado como coordinador del comité o comisión de que se trate. Con excepción del Comité de Clasificación de Información Pública, de conformidad con el artículo 27 de la Ley de Información Pública del Estado de Jalisco y sus Municipios.
 
 II. Un Secretario, que será el titular del área auxiliar o de apoyo que corresponda a la materia a tratar, en casos extraordinarios los Magistrados integrantes de los comités o comisiones designarán a quién actuará con dicho carácter. En tratándose, de la Comisión Substanciadora o la Instructora, el cargo de Secretario, recaerá en el Secretario General.
 
@@ -1295,8 +1307,6 @@ Una vez aprobados los proyectos de acuerdo o dictámenes emitidos deberán ser s
 
 ### CAPÍTULO IV. ATRIBUCIONES DE LOS INTEGRANTES DE LOS COMITÉS Y COMISIONES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE MAYO DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 90.
 
 El Magistrado que coordine algún comité o comisión, tendrán (sic) las siguientes atribuciones:
@@ -1311,9 +1321,13 @@ IV. Elaborar el Orden del Día de las sesiones al que se adjuntará copia de los
 
 V. Moderar el desarrollo de las sesiones que realicen el comité o comisión de que se trate;
 
-VI. Verificar la existencia del quorum legal de las sesiones del comité o comisión de que se trate, y
+> <small>(F. DE E., P.O. 26 DE MAYO DE 2012)</small>
 
-VII. Presentar ante el Pleno los resultados de las tareas que le sean encomendadas con motivo del objetivo de creación del comité o comisión
+VI. Verificar la existencia del quórum legal de las sesiones del comité o comisión de que se trate;
+
+> <small>(F. DE E., P.O. 26 DE MAYO DE 2012)</small>
+
+VII. Presentar ante el Pleno los resultados de las tareas que le sean encomendadas con motivo del objetivo de creación del comité o comisión.
 
 ###### Artículo 91.
 
@@ -1326,8 +1340,6 @@ II. Participar en los acuerdos y formular proposiciones en los asuntos que se le
 III. Votar en las sesiones, salvo cuando tengan impedimento legal.
 
 Para el caso de un impedimento o excusa, se dirigirá por escrito ante el Pleno quién calificará y determinará lo conducente.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE MAYO DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### Artículo 92.
 
@@ -1355,13 +1367,13 @@ X. Informar a los integrantes sobre el cumplimiento de los acuerdos;
 
 XI. Remitir toda la documentación relativa a los comités o comisiones al archivo de la Presidencia del Tribunal Electoral; y
 
-XII. Las demás que le encomienden los integrantes del comité o comisión de que se trate
+> <small>(F. DE E., P.O. 26 DE MAYO DE 2012)</small>
+
+XII. Las demás que le encomienden los integrantes del comité o comisión de que se trate.
 
 ## TÍTULO OCTAVO. LOS ÓRGANOS AUXILIARES DEL TRIBUNAL
 
 ### CAPÍTULO I. LAS DIRECCIONES, DEPARTAMENTOS Y OFICINAS ADMINISTRATIVAS
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE MAYO DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### Artículo 93.
 
@@ -1373,23 +1385,31 @@ a) Presupuesto y Contabilidad;
 
 b) Recursos Humanos y Servicios Generales; y
 
-c) Recursos Materiales y Compras
+> <small>(F. DE E., P.O. 26 DE MAYO DE 2012)</small>
+
+c) Recursos Materiales y Compras.
 
 II. Dirección de Área de Contraloría, Auditoría Interna y Control Patrimonial, que se integra por las siguientes oficinas:
 
 a) Contraloría y Auditoría Interna; y
 
-b) Control Patrimonial
+> <small>(F. DE E., P.O. 26 DE MAYO DE 2012)</small>
+
+b) Control Patrimonial.
 
 III. Dirección de Área de Comunicación Social y Difusión, que se integra por las siguientes oficinas:
 
 a) Relaciones Públicas; y
 
-b) Difusión
+> <small>(F. DE E., P.O. 26 DE MAYO DE 2012)</small>
+
+b) Difusión.
 
 IV. Dirección de Área de Informática, que se integra por las siguientes oficinas:
 
-a) SoporteTécnico (sic); y
+> <small>(F. DE E., P.O. 26 DE MAYO DE 2012)</small>
+
+a) Soporte Técnico; y
 
 b) Operativa.
 
@@ -1427,8 +1447,6 @@ XI. Las demás que le confieran este Reglamento y las que le sean encomendadas p
 
 En el ejercicio de sus atribuciones deberá observar las disposiciones en materia financiera, contable, presupuestal, fiscal, laboral y de adquisiciones que corresponda ejercer al Tribunal Electoral, siempre en observancia de las leyes, reglamentos y demás normativas aplicables.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE MAYO DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 96.
 
 El Jefe del Departamento de Presupuesto y Contabilidad, tendrá las siguientes obligaciones:
@@ -1459,15 +1477,25 @@ XII. Realizar mensualmente, los estados de ingresos y egresos, soportados con re
 
 XIII. Ordenar cronológicamente el soporte documental de los movimientos que amparen las pólizas de ingresos, egresos y diario;
 
-XIII (SIC). Recopilar y conservar todo tipo de contratos, al terminar su vigencia; los libros mensuales de contabilidad, los estados financieros, así como toda la facturación de adquisiciones de mobiliario, equipo, vehículos, herramientas, etcétera;
+> <small>(F. DE E., P.O. 26 DE MAYO DE 2012)</small>
 
-XIV. Registrar los servicios auxiliares necesarios;
+XIV. Recopilar y conservar todo tipo de contratos, al terminar su vigencia; los libros mensuales de contabilidad, los estados financieros, así como toda la facturación de adquisiciones de mobiliario, equipo, vehículos, herramientas, etcétera;
 
-XV. Integrar la cuenta pública mensual conforme a los estados financieros;
+> <small>(F. DE E., P.O. 26 DE MAYO DE 2012)</small>
 
-XVI. Realizar las conciliaciones bancarias de los registros contables contra el soporte documental; y
+XV. Registrar los servicios auxiliares necesarios;
 
-XVII. Las demás que le indique el titular de la Dirección General, en el ámbito de su competencia
+> <small>(F. DE E., P.O. 26 DE MAYO DE 2012)</small>
+
+XVI. Integrar la cuenta pública mensual conforme a los estados financieros;
+
+> <small>(F. DE E., P.O. 26 DE MAYO DE 2012)</small>
+
+XVII. Realizar las conciliaciones bancarias de los registros contables contra el soporte documental; y
+
+> <small>(F. DE E., P.O. 26 DE MAYO DE 2012)</small>
+
+XVIII. Las demás que le indique el titular de la Dirección General, en el ámbito de su competencia.
 
 En el ejercicio de sus atribuciones deberá observar las disposiciones en materia financiera, contable, fiscal y presupuestal que corresponda ejercer al Tribunal Electoral, siempre en observancia de las leyes, reglamentos y demás normativas aplicables.
 
@@ -1661,8 +1689,6 @@ XIV. Las demás que le confieran este Reglamento y las que le sean encomendadas 
 
 En el ejercicio de sus atribuciones deberá observar las leyes, reglamentos y demás normativas aplicables.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE MAYO DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 103.
 
 El Jefe de Oficina de Difusión, tendrá las siguientes obligaciones:
@@ -1679,7 +1705,9 @@ V. Ejecutar las actividades relacionadas con el diseño gráfico, audiovisual, f
 
 VI. Llevar a cabo las estrategias de comunicación de conformidad con las políticas implementadas por la Dirección de Área; y
 
-VII. Las demás que le sean asignadas por la Dirección de área, en el ámbito de su competencia
+> <small>(F. DE E., P.O. 26 DE MAYO DE 2012)</small>
+
+VII. Las demás que le sean asignadas por la Dirección de área, en el ámbito de su competencia.
 
 En el ejercicio de sus obligaciones deberá observar las leyes, reglamentos y demás normativas aplicables.
 
@@ -1765,8 +1793,6 @@ IX. Las demás que le sean asignadas por la Dirección de Área, en el ámbito d
 
 En el ejercicio de sus obligaciones deberá observar las leyes, reglamentos y demás normativas aplicables.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE MAYO DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 107.
 
 El Jefe de la Oficina Operativa, tendrá las siguientes obligaciones:
@@ -1777,33 +1803,51 @@ II. Realizar las actividades técnicas de mantenimiento preventivo y correctivo 
 
 III. Verificar periódicamente el buen funcionamiento del cableado de red;
 
-III (SIC). Conservar y resguardar el equipo de cómputo asignado y almacenado en el área destinada para ello;
+> <small>(F. DE E., P.O. 26 DE MAYO DE 2012)</small>
 
-IV. Auxiliar en la elaboración de los dictámenes técnicos que determinen la obsolescencia del equipo de cómputo y periféricos; y
+IV. Conservar y resguardar el equipo de cómputo asignado y almacenado en el área destinada para ello;
 
-V. Las demás que le sean asignadas por la Dirección de Área, en el ámbito de su competencia
+> <small>(F. DE E., P.O. 26 DE MAYO DE 2012)</small>
+
+V. Auxiliar en la elaboración de los dictámenes técnicos que determinen la obsolescencia del equipo de cómputo y periféricos; y
+
+> <small>(F. DE E., P.O. 26 DE MAYO DE 2012)</small>
+
+VI. Las demás que le sean asignadas por la Dirección de Área, en el ámbito de su competencia
 
 En el ejercicio de sus obligaciones deberá observar las leyes, reglamentos y demás normativas aplicables.
 
-## TÍTULO NOVENO. UNIDAD DE TRANSPARENCIA E INFORMACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE MAYO DE 2012)</small>
+
+## TÍTULO NOVENO. UNIDAD DE TRANSPARENCIA
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE MAYO DE 2012)</small>
+
 ###### Artículo 108.
 
-La Unidad de Transparencia, es el área encargada de recabar, tramitar, instruir, actualizar y difundir la información pública, competencia del Tribunal Electoral, auxiliando y orientando a los peticionarios en la elaboración de solicitudes de acceso a la información. Estará integrada cuando menos por un encargado, el cual será designado por el Pleno.
+La Unidad de Transparencia, es el área encargada de recabar, tramitar, instruir, actualizar y difundir la información pública, competencia del Tribunal Electoral, auxiliando y orientando a los peticionarios en la elaboración de solicitudes de acceso a la información. Estará integrada cuando menos por un Titular y en su caso por personal designado por el Pleno.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2012)</small>
 
 ###### Artículo 109.
 
-El encargado de la Unidad de Transparencia e Información tendrá las siguientes atribuciones:
+El Titular de la Unidad de Transparencia tendrá las siguientes atribuciones:
 
-I. Recibir, dar trámite y contestación a las solicitudes de acceso a la información que se presenten;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE MAYO DE 2012)</small>
 
-II. Acudir con el Comité de Clasificación de Información, para la resolución de las solicitudes, en las que se requiera información que no haya sido clasificada previamente, de conformidad a lo dispuesto por la Ley en la materia;
+l. Recibir, dar trámite y contestación a las solicitudes de información que se presenten;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE MAYO DE 2012)</small>
+
+II. Convocar al Comité de Clasificación de Información Pública, para la resolución de las solicitudes, en las que se requiera información que no haya sido clasificada previamente, de conformidad a lo dispuesto por la Ley en la materia;
 
 III. Requerir al área que corresponda, la información que permita el desahogo en tiempo y forma de las solicitudes de acceso a la información, que así procedan;
 
-IV. Integrar el Comité de Clasificación de Información Pública;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE MAYO DE 2012)</small>
+
+IV. Formar parte del Comité de Clasificación de Información Pública;
 
 V. Recabar y vigilar la actualización de la información de carácter fundamental de conformidad con los ordenamientos en materia de transparencia;
 
@@ -1929,13 +1973,13 @@ VI. Asentar la firma autógrafa del servidor público de no saber o poder firmar
 
 En el escrito de demanda, el servidor público deberá señalar si opta por que se le indemnice con el importe de tres meses de salario más doce días por cada año laborado y las prestaciones laborales que procedan o por la reinstalación en el cargo o puesto que desempeñaba con las prestaciones inherentes a su nombramiento, en los casos que pretenda ejercer esta clase de acciones.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE MAYO DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 127.
 
 Una vez presentada la demanda el Secretario General dará cuenta al Presidente, quién en acuerdo dispondrá la convocatoria a los Magistrados que integran el Pleno, para que dentro de los tres días hábiles siguientes a la interposición de la demanda se celebre una sesión extraordinaria, en la que se ventilarán los siguientes puntos del Orden del Día:
 
-I. La designación e integración de la Comisión Substanciadora o Instructora que realizará todas las diligencias necesarias hasta poner el asunto en estado de resolución dentro del plazo legal establecido en la fracción II del artículo 100 de la Ley Orgánica;
+> <small>(F. DE E., P.O. 26 DE MAYO DE 2012)</small>
+
+I. La designación e integración de la Comisión Substanciadora o Instructora que realizará todas las diligencias necesarias hasta poner el asunto en estado de resolución dentro del plazo legal establecido en la fracción II del artículo 100 de la Ley Orgánica; y
 
 II. El turno inmediato del expediente a la Comisión Substanciadora o Instructora, para que proceda al análisis de los presupuestos procesales y dictar el acuerdo que corresponda.
 
@@ -1965,17 +2009,17 @@ Si las partes no comparecen a la celebración de la audiencia señalada en el ar
 
 La audiencia se iniciará con la etapa de conciliación, en la que se exhortará a las partes para que solucionen la controversia y de lograrse el convenio relativo, se dará por concluido el procedimiento, sin perjuicio de la ejecución de los acuerdos consignados por las partes. Convenio que deberá ser sometido a la aprobación del Pleno o de la Sala Permanente, para que surta los efectos jurídicos inherentes a un laudo.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE MAYO DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 26 DE MAYO DE 2012)</small>
 
 ###### Artículo 133.
 
-Una sola vez podrá suspenderse la audiencia, si las partes lo solicitan por encontrarse en pláticas conciliatorias, por lo que la Comisión Sustanciadora o Instructora, señalará en ese acto la continuación de la audiencia al día hábil siguiente de que se haya dado la suspensión.
+Una sola vez podrá suspenderse la audiencia, si las partes lo solicitan por encontrarse en pláticas conciliatorias, por lo que la Comisión Substanciadora o Instructora, señalará en ese acto la continuación de la audiencia al día hábil siguiente de que se haya dado la suspensión.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE MAYO DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 26 DE MAYO DE 2012)</small>
 
 ###### Artículo 134.
 
-En el caso de no lograrse el arreglo conciliatorio, la Comisión Sustanciadora o Instructora, tendrá a las partes como inconformes y concederá el uso de la palabra al actor o a su representante legal, para que ratifique o amplié su demanda, en este caso, el demandado podrá solicitar la suspensión de la audiencia, para reanudarse en un plazo que no excederá de dos días.
+En el caso de no lograrse el arreglo conciliatorio, la Comisión Substanciadora o Instructora, tendrá a las partes como inconformes y concederá el uso de la palabra al actor o a su representante legal, para que ratifique o amplié su demanda, en este caso, el demandado podrá solicitar la suspensión de la audiencia, para reanudarse en un plazo que no excederá de dos días.
 
 ###### Artículo 135.
 
@@ -1985,11 +2029,11 @@ Reanudada la audiencia o concluida la intervención de la parte actora, acto con
 
 Asimismo, en caso de que el actor necesite ofrecer pruebas relacionadas con hechos desconocidos que se desprendan de la contestación de la demanda, podrá solicitar que la audiencia se suspenda para reanudarse a los dos días hábiles siguientes, a fin de preparar dentro de este plazo las pruebas correspondientes a tales hechos, procediendo de inmediato a abrir la etapa de ofrecimiento de pruebas, en donde las partes podrán aportar todos los elementos de convicción que deseen, sin más limitaciones que las derivadas de la factibilidad para su desahogo.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE MAYO DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 26 DE MAYO DE 2012)</small>
 
 ###### Artículo 137.
 
-La Comisión Sustanciadora o Instructora, proveerá respecto a la admisión de las pruebas, de conformidad a lo dispuesto en el Título Décimo Primero del Código Electoral.
+La Comisión Substanciadora o Instructora, proveerá respecto a la admisión de las pruebas, de conformidad a lo dispuesto en el Título Décimo Primero del Código Electoral.
 
 ###### Artículo 138.
 
@@ -2045,8 +2089,6 @@ La compilación, registro, clasificación, sistematización, fijación, envío, 
 
 Los Magistrados propietarios del Tribunal Electoral que se encuentren en funciones, estarán facultados para presentar iniciativas de reformas, adiciones o supresiones al presente Reglamento, de manera individual o colegiada.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE MAYO DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 148.
 
 Las iniciativas correspondientes se sujetarán al siguiente procedimiento:
@@ -2059,7 +2101,9 @@ II. A los diez días hábiles siguientes a su presentación, el Presidente convo
 
 Una vez discutida y analizada la iniciativa se someterá a votación de los Magistrados, quienes la rechazarán o aprobarán.
 
-III. La aprobación de la iniciativa de reforma, adición o supresión al Reglamento, requerirá de votación por mayoría de los Magistrados que integran el Pleno;
+> <small>(F. DE E., P.O. 26 DE MAYO DE 2012)</small>
+
+III. La aprobación de la iniciativa de reforma, adición o supresión al Reglamento, requerirá de votación por mayoría de los Magistrados que integran el Pleno; y
 
 IV. Aprobada la iniciativa, quedará incorporada de inmediato al texto del Reglamento, para tal efecto, el Presidente deberá ordenar su publicación en el Periódico Oficial “El Estado de Jalisco” y entrarán en vigor al día siguiente de su publicación.
 
@@ -2100,3 +2144,13 @@ El suscrito MTRO. HORACIO BARBA PADILLA, SECRETARIO GENERAL DE ACUERDOS DEL TRIB
 Que las presentes fotocopias en 104 ciento cuatro fojas útiles por una sola cara, concuerdan fielmente con el original del Reglamento Interior del Tribunal Electoral del Poder Judicial del Estado de Jalisco, aprobado en Sesión Plenaria Extraordinaria de fecha 25 veinticinco de noviembre de 2011 dos mil once, mismo que obra en los archivos de esta Secretaría General de Acuerdos, de donde se compulsan y expiden para remitirse al Director de Publicaciones del Periódico Oficial "El Estado de Jalisco", para todos los efectos legales a que haya lugar.
 
 Guadalajara, Jalisco, 06 seis de diciembre de 2011 dos mil once.-
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE MAYO DE 2012.
+
+PRIMERO.
+
+QUINTO. Las presentes iniciativas de reforma, adición y fe de erratas, quedaran incorporadas de inmediato al texto del Reglamento Interior del Tribunal Electoral del Poder Judicial del Estado de Jalisco.
+
+SEXTO. Publíquese el presente acuerdo por una sola ocasión en el Periódico Oficial "El Estado de Jalisco", entrando en vigor al día siguiente de su publicación.
