@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-municipio-libre-del-estado-de-durango-14880"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-05-30"
-last_updated: "2010-09-05"
+last_updated: "2012-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14880&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
-LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
+LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 30 de mayo de 1999.
 
@@ -319,7 +319,7 @@ VI. Establecer en las disposiciones reglamentarias correspondientes el monto de 
 
 VII. Proponer ante el Congreso del Estado, iniciativas en materia de administración pública municipal;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2003)</small>
 
 VIII. Formular y aprobar el Bando de Policía y Gobierno con arreglo a las bases normativas que establezca la Legislatura del Estado o prorrogar el anterior, lo cual deberá realizarse durante el primer trimestre de su gestión, así como solicitar su publicación en el periódico oficial del gobierno del estado.
 
@@ -413,15 +413,21 @@ Al instalarse el nuevo ayuntamiento, en un término no mayor de treinta días, e
 
 En la atención y resolución de los asuntos que le corresponde, el ayuntamiento celebrará las sesiones de la siguiente manera:
 
-I. Ordinarias: Las que obligatoriamente deberán llevarse a cabo, cuando menos una vez por semana, en los municipios de Durango, Gómez Palacio y Lerdo; cuando menos una vez cada 15 días en los municipios de Canatlán, Cuencamé, Guadalupe Victoria, Nombre de Dios, Poanas, Santiago Papasquiaro, Nuevo Ideal, Nazas, San Juan del Río, Pánuco de Coronado, Tlahualilo y Vicente Guerrero; y cuando menos una vez cada treinta días en los municipios siguientes: Canelas, Coneto de Comonfort, El Oro, Guanaceví, Hidalgo, Indé, Mapimí, Mezquital, Ocampo, Otáez, Peñón Blanco, Pueblo Nuevo, Rodeo, San Bernardo, San Dimas, San Juan de Guadalupe, San Pedro del Gallo, San Luis del Cordero, Santa Clara, Gral. Simón Bolívar, Súchil, Tamazula, Tepehuanes y Topia. El día y la hora de las sesiones serán señalados por el Presidente Municipal;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2012)</small>
+
+I. Ordinarias: Las que obligatoriamente deberán llevarse a cabo, cuando menos una vez por semana, en los municipios de Durango, Gómez Palacio, Lerdo; una vez cada 15 días en los municipios de Canatlán, Cuencamé, Guadalupe Victoria, Mapimí, Mezquital, Nombre de Dios, Poanas, Pueblo Nuevo, Santiago Papasquiaro, Nuevo Ideal, Nazas, San Juan del Río, Pánuco de Coronado, Tamazula, Tlahualilo, y Vicente Guerrero; y cuando menos una vez cada tres semanas en los municipios de Canelas, Coneto de Comonfort, El Oro, Guanaceví, Hidalgo, Indé, Ocampo, Otáez, Peñón Blanco, Rodeo, San Bernardo, San Dimas, San Juan de Guadalupe, San Pedro del Gallo, San Luis del Cordero, Santa Clara, Simón Bolívar, Súchil, Tepehuanes y Topia. El día y la hora de las sesiones serán señalados por el Presidente Municipal;
 
 II. Extraordinarias: Las que se realicen cuantas veces sean necesarias y que tengan por objeto resolver situaciones de urgencia, a propuesta de una tercera parte de los integrantes del ayuntamiento. En cada sesión extraordinaria, sólo se tratará el asunto motivo de la reunión; y
 
 III. Solemnes: Las que se realicen cuando se trate de una ceremonia especial.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2012)</small>
+
 ###### Artículo 30.
 
-Para que las sesiones a que se refiere la fracción I del artículo anterior sean válidas, se requiere que sean citados por escrito o en otra forma indubitable todos los miembros del ayuntamiento con un mínimo de 48 horas de anticipación en el primer caso; de 72 horas como mínimo para el segundo caso y para el tercer caso, con un mínimo de 8 días de anticipación, además de que deberá existir el quórum legal.
+Para que las sesiones a que se refiere la fracción I del artículo anterior sean válidas, se requiere que sean citados por escrito o en otra forma indubitable todos los miembros del ayuntamiento con un mínimo de 48 horas de anticipación en el primer caso y de 72 horas como mínimo para los restantes casos, además de que deberá existir el quórum legal.
+
+En caso de que el Presidente o el Secretario, no convoquen a las sesiones a que se refiere el párrafo anterior, sin que exista causa justificada, se procederá de conformidad con lo que dispone el Titulo Tercero de la ley de Responsabilidades de los Servidores Públicos del Estado y sus Municipios.
 
 ###### Artículo 31.
 
@@ -1035,7 +1041,7 @@ Para dirimir las controversias que se susciten entre la administración municipa
 
 El titular del Juzgado deberá reunir los requisitos establecidos en el artículo 99 de la Constitución Política del Estado. Su nombramiento será propuesto por el Presidente Municipal, debiendo ser ratificado por el ayuntamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2003)</small>
 
 ###### Artículo 101.
 
@@ -1183,11 +1189,11 @@ La designación de los consejos municipales o de algunos de sus miembros, podrá
 
 ## TÍTULO SEXTO. DISPOSICIONES JURÍDICAS DEL AYUNTAMIENTO
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JUNIO DE 2003)</small>
 
 ### CAPÍTULO I. DEL BANDO DE POLICÍA Y GOBIERNO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2003)</small>
 
 ###### Artículo 121.
 
@@ -1375,7 +1381,7 @@ Cuando el ayuntamiento apruebe la expedición o modificación de un reglamento, 
 
 En la medida que se modifiquen las condiciones socioeconómicas de los Municipios, en virtud de su crecimiento demográfico, surgimiento y desarrollo de actividades productivas, modificación de las condiciones políticas y múltiples aspectos de la vida comunitaria, los ayuntamientos deberán adecuar su reglamentación municipal, con el fin de preservar su autoridad institucional y propiciar el desarrollo armónico de la sociedad.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
 ## TÍTULO SÉPTIMO. DE LA HACIENDA PÚBLICA Y EL PATRIMONIO MUNICIPAL
 
@@ -2081,7 +2087,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. ANGEL SERGIO GUERRERO MIER.
 
 EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSE MIGUEL CASTRO CARRILLO.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 13 DE FEBRERO DE 2003.
 
@@ -2126,3 +2132,9 @@ P.O. 5 DE SEPTIEMBRE DE 2010.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente Decreto.
+
+P.O. 27 DE MAYO DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se derogan todas la disposiciones legales que se opongan al presente decreto.
