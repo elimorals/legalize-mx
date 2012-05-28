@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-los-servicios-de-salud-de-hidalgo-44378"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-14"
-last_updated: "2005-03-14"
+last_updated: "2012-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44378&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2012.
 
 Reglamento publicado en el Bis del Periódico Oficial del Estado de Hidalgo, el lunes 14 de marzo de 2005.
 
@@ -93,9 +93,17 @@ b.- De Regulación y Fomento Sanitario;
 
 c.- De Atención Hospitalaria;
 
-d.- De Planeación y Desarrollo, y
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2012)</small>
 
-e.- De Administración y Finanzas.
+d.- Dirección de Primer Nivel de Atención;
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2012)</small>
+
+e.- De Planeación y Desarrollo, y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE MAYO DE 2012)</small>
+
+f.- De Administración y Finanzas.
 
 IV.- Unidades de Apoyo:
 
@@ -495,6 +503,12 @@ XXI.- Coordinar, en el ámbito de su competencia, las acciones para atención de
 
 XXII.- Las demás que le confieran el Director General y las disposiciones Legales aplicables.
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2012)</small>
+
+###### Artículo 27 Bis.
+
+Corresponde a la Dirección de Primer Nivel de Atención, todas aquellas acciones que deban realizarse en beneficio del individuo dirigidas a proteger, promover y restaurar la salud de la persona y de la colectividad, en sus vertientes de atención médica, de salud pública y de asistencia social, siendo en forma enunciativa y no limitativa aquellas que se señalan en el artículo 44 del presente reglamento. Esta Dirección podrá contar con las Direcciones Adjuntas que se requieran para la eficaz prestación de los servicios de salud con base en la suficiencia presupuestal correspondiente.
+
 ###### Artículo 28.
 
 Corresponde a la Dirección de Planeación y Desarrollo:
@@ -823,65 +837,243 @@ XI.- Hospital Integral Cinta Larga, y
 
 XII.- Villa Ocaranza.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2012)</small>
+
 ###### Artículo 44.
 
-Las Jurisdicciones Sanitarias dirigirán, Coordinarán y evaluarán en su área de influencia las acciones del Organismo en materia de atención médica y Salud Pública, mediante la atención integral por paquetes en sus modalidades de prevención, curación y rehabilitación para atender las demandas de Salud de la Población en el primer nivel de atención; Coordinar programas Institucionales, acciones intersectoriales y de participación Social; así como la vigilancia Sanitaria en materia de Salubridad Local, dentro del ámbito territorial de su competencia.
+Corresponde a las Jurisdicciones Sanitarias, en el ámbito territorial de su competencia:
+
+I. Implementar los programas de salud de atención a la población emitidos por las autoridades sanitarias;
+
+II. Coordinar y supervisar el programa de vigilancia epidemiológica;
+
+III. Coordinar las acciones del sector salud ante situaciones de desastre, de acuerdo a las resoluciones del comité estatal de protección civil;
+
+IV. Coordinar las acciones sectoriales en materia de salud;
+
+V. Integrar el diagnóstico situacional de salud del área de control de la jurisdicción;
+
+VI. Supervisar la aplicación de la normatividad establecida para la prestación, control y evaluación de los servicios en la Jurisdicción;
+
+VII. Coordinar la operación de los sistemas de información y evaluación según la normatividad;
+
+VIII. Promover y desarrollar investigación operativa que contribuya al mejoramiento de las funciones de la Jurisdicción Sanitaria;
+
+IX. Administrar los recursos humanos, materiales y financieros de la Jurisdicción, para asegurar el óptimo funcionamiento de la red de servicios;
+
+X. Coordinar las acciones de conservación y mantenimiento de la infraestructura en salud;
+
+XI. Elaborar el programa operativo anual de la jurisdicción, y
+
+XII. Las demás necesarias para el desarrollo de sus funciones de conformidad con las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2012)</small>
 
 ###### Artículo 45.
 
 Son Jurisdicciones Sanitarias adscritas al Organismo:
 
-I.- Jurisdicción Sanitaria I Pachuca, que comprende los Municipios:
+I. JURISDICCIÓN I. PACHUCA, que comprende los municipios de:
 
-a.- Pachuca de Soto, Atotonilco el Grande, Huasca de Ocampo, Mineral del Chico, Mineral del Monte, Mineral de la Reforma y Omitlán de Juárez;
+a. Epazoyucan.
 
-II.- Jurisdicción Sanitaria II Tulancingo, que comprende los Municipios:
+b. Mineral de la Reforma;
 
-a.- Tulancingo de Bravo, Acatlán, Acaxochitlán, Cuautepec de Hinojosa, Metepec, Singuilucan y Santiago Tulantepec de Lugo Guerrero;
+c. Mineral del Monte;
 
-III.- Jurisdicción Sanitaria III Tula, que comprende los Municipios:
+d. Pachuca de Soto;
 
-a.- Tula de Allende, Ajacuba, Atitalaquia, Atotonilco de Tula, Tepeji del Río de Ocampo, Tepetitlán, Tetepango, Tezontepec de Aldama, Tlahuelilpan y Tlaxcoapan;
+e. San Agustín Tlaxiaca, y
 
-IV.- Jurisdicción Sanitaria IV Huichapan, que comprende los Municipios:
+II. JURISDICCIÓN II. TULANCINGO, que comprende los municipios de:
 
-a.- Huichapan, Alfajayucan, Chapantongo, Nopala de Villagrán y Tecozautla;
+a. Cuautepec de Hinojosa;
 
-V.- Jurisdicción Sanitaria V Zimapán, que comprende los Municipios:
+b. Santiago Tulantepec;
 
-a.- Zimapán, Chapulhuacán, Jacala de Ledezma, La Misión, Pacula y Pisaflores;
+c. Singuilucan, y
 
-VI.- Jurisdicción Sanitaria VI Ixmiquilpan, que comprende los Municipios:
+d. Tulancingo de Bravo.
 
-a.- Ixmiquilpan, Cardonal, Chilcuautla, Nicolás Flores y Tasquillo;
+III. JURISDICCIÓN III. TULA, que comprende los municipios de:
 
-VII.- Jurisdicción Sanitaria VII Actopan, que comprende los Municipios:
+a. Tepetitlán;
 
-a.- Actopan, El Arenal, Francisco I. Madero, Mixquiahuala de Juárez, Progreso de Obregón, San Agustín Tlaxiaca, Santiago de Anaya y San Salvador;
+b. Tezontepec de Aldama;
 
-VIII.- Jurisdicción Sanitaria VIII Metztitlán, que comprende los Municipios:
+c. Tlahuelilpan, y
 
-a.- Metztitlán, Zacualtipán de Ángeles, Eloxochitlán, Juárez Hidalgo, San Agustín Metzquititlán y Tlahuiltepa;
+d. Tula de Allende.
 
-IX.- Jurisdicción Sanitaria IX Molango, que comprende los Municipios:
+IV. JURISDICCIÓN IV. HUICHAPAN, que comprende los municipios de:
 
-a.- Molango de Escamilla, Calnali, Huazalingo, Lolotla, Tepehuacán de Guerrero, Tianguistengo, Tlanchinol y Xochicoatlán;
+a. Chapantongo;
 
-X.- Jurisdicción Sanitaria X Huejutla, que comprende los Municipios:
+b. Huichapan;
 
-a.- Huejutla de Reyes, Atlapexco, Huautla, Jaltocán, San Felipe Orizatlán, Xochiatipan y Yahualica;
+c. Nopala de Villagrán, y
 
-XI.- Jurisdicción Sanitaria XI Apan, que comprende los Municipios:
+d. Tecozautla.
 
-a.- Apan, Emiliano Zapata, Epazoyucan, Tepeapulco, Tlanalapa, Zempoala y Almoloya;
+V. JURISDICCIÓN V. ZIMAPÁN, que comprende los municipios de:
 
-XII.- Jurisdicción Sanitaria XII Tizayuca, que comprende los Municipios:
+a. Nicolás Flores;
 
-a.- Tizayuca, Tolcayuca, Villa de Tezontepec y Zapotlán de Juárez, y
+b. Pacula;
 
-XIII.- Jurisdicción Sanitaria XIII Otomí-Tepehua, que comprende los Municipios:
+c. Tasquillo, y
 
-a.- Agua Blanca de Iturbide, Huehuetla, San Bartolo Tutotepec y Tenango de Doria.
+d. Zimapán;
+
+VI. JURISDICCIÓN VI. IXMIQUILPAN, que comprende los municipios de:
+
+a. Alfajayucan;
+
+b. Cardonal;
+
+c. Chilcuautla, y
+
+d. Ixmiquilpan.
+
+VII. JURISDICCIÓN VII. ACTOPAN, que comprende los municipios de:
+
+a. Actopan;
+
+b. El Arenal;
+
+c. Francisco I. Madero;
+
+d. Mixquiahuala de Juárez;
+
+e. Progreso de Obregón;
+
+f. San Salvador, y
+
+g. Santiago de Anaya.
+
+VIII. JURISDICCIÓN VIII. METZTITLÁN, que comprende los municipios de:
+
+a. Eloxochitlán;
+
+b. Juárez Hidalgo;
+
+c. Metztitlán;
+
+d. San Agustín Metzquititlán, y
+
+e. Tlahuiltepa.
+
+IX. JURISDICCIÓN IX. MOLANGO que comprende los municipios de:
+
+a. Caínali;
+
+b. Huazalingo;
+
+c. Lolotla;
+
+d. Molango de Escamilla;
+
+e. Tepehuacán de Guerrero, y
+
+f. Tlanchinol.
+
+X. JURISDICCIÓN X.- HUEJUTLA que comprende los municipios de:
+
+a. Atlapexco;
+
+b. Huautla;
+
+c. Huejutla de Reyes;
+
+d. Jaltocán;
+
+e. San Felipe Orizatlán;
+
+f. Xochiatipan de Castillo, y
+
+g. Yahualica.
+
+XI. JURISDICCIÓN XI. APAN, que comprende los municipios de:
+
+a. Almoloya;
+
+b. Apan;
+
+c. Emiliano Zapata;
+
+d. Tepeapulco, y
+
+e. Tlanalapa.
+
+XII. JURISDICCIÓN XII. TIZAYUCA, que comprende los municipios de:
+
+a. Tizayuca;
+
+b. Tolcayuca;
+
+c. Villa de Tezontepec;
+
+d. Zapotlán, y
+
+e. Zempoala;
+
+XIII. JURISDICCIÓN XIII. OTOMI-TEPEHUA, que comprende los municipios de:
+
+a. Acaxochitlán;
+
+b. Agua Blanca de Iturbide;
+
+c. Huehuetla;
+
+d. Metepec;
+
+e. San Bartolo Tutotepec, y
+
+f. Tenango de Doria.
+
+XIV. JURISDICCIÓN XIV. TEPEJÍ DEL RÍO, que comprende los municipios de:
+
+a. Ajacuba;
+
+b. Atitalaquia;
+
+c. Atotonilco de Tula;
+
+d. Tepeji del Rio de Ocampo;
+
+e. Tetepango, y
+
+f. Tlaxcoapan.
+
+XV. JURISDICCIÓN XV. ATOTONILCO EL GRANDE, que comprende los municipios de:
+
+a. Acatlán;
+
+b. Atotonilco el Grande;
+
+c. Huasca de Ocampo;
+
+d. Mineral del Chico, y
+
+e. Omitlán de Juárez.
+
+XVI. JURISDICCIÓN XVI. JACALA, que comprende los municipios de:
+
+a. Chapulhuacán;
+
+b. Jacala de Ledezma;
+
+c. La Misión, y
+
+d. Pisaflores.
+
+XVII. JURISDICCIÓN XVII. ZACUALTIPÁN, que comprende los municipios de:
+
+a. Tianguistengo;
+
+b. Xochicoatlán, y
+
+c. Zacualtipán de Ángeles.
 
 #### SECCION SEXTA (SIC). DE LA CONTRALORIA INTERNA
 
@@ -1030,3 +1222,13 @@ REPRESENTANTE DEL SINDICATO NACIONAL
 DE LOS TRABAJADORES DE LA SECRETARIA DE SALUD.
 
 LAS FIRMAS ASENTADAS EN ESTA FOJA CORRESPONDEN AL ACUERDO 4.14ª. (24.Sep.2004)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE MAYO DE 2012.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el
+
+Periódico Oficial del Estado.
+
+SEGUNDO.- Con base a la suficiencia presupuestal y financiera, gradualmente iniciarán funciones con autonomía técnica y operativa las unidades administrativas que han sido autorizadas.
