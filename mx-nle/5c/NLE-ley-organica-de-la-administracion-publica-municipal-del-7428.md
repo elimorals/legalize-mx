@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-administracion-publica-municipal-del-7428"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-01-28"
-last_updated: "2011-11-11"
+last_updated: "2012-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE NUEVO LEON
 
-LEY ORGANICA DE LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE NUEVO LEON
+LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 28 de enero de 1991.
 
@@ -200,6 +200,10 @@ V.- Celebrar por razones de interés común, convenios de coordinación con otro
 VI.- Rendir a la población, por conducto del Presidente Municipal, un informe anual del estado que guarda los asuntos municipales y del avance de los programas de obras y servicios.
 
 VII.- Elaborar, aprobar y actualizar los Reglamentos Municipales necesarios para el mejor funcionamiento del Ayuntamiento en beneficio general de la población de conformidad con las Bases Generales que contiene esta ley.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2012)</small>
+
+La iniciativa de Reglamentos Municipales corresponde a cualquier ciudadano del Municipio, además de los integrantes del Ayuntamiento.
 
 VIII.- Aprobar los nombramientos y remociones del Secretario del Ayuntamiento y del Tesorero Municipal propuestos por el Presidente Municipal.
 
@@ -425,7 +429,7 @@ III.- Solemnes.- Son aquellas que se revisten de un ceremonial especial.
 
 Las sesiones ordinarias y extraordinarias deben celebrarse en el recinto oficial del Ayuntamiento en Palacio Municipal, y las solemnes, en el recinto que para tal efecto acuerde el propio Ayuntamiento, mediante declaratoria oficial. En casos especiales y previo acuerdo podrán también celebrarse en otro lugar abierto o cerrado que previamente sea declarado por el propio Ayuntamiento, como lugar oficial para la celebración de la sesión.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 34.
 
@@ -989,7 +993,7 @@ Las resoluciones de terminación de concesiones de servicios públicos, deben pu
 
 Cumplido el plazo por el que se haya otorgado la concesión, y no habiendo prórroga, los bienes se revertirán en favor del Ayuntamiento.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 22 DE JULIO DE 2005)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE JULIO DE 2005)</small>
 
 ### CAPITULO SEPTIMO (SIC). DE LOS CONVENIOS DE PRESTACION DE SERVICIOS ENTRE EL MUNICIPIO Y EL ESTADO
 
@@ -1263,7 +1267,7 @@ Cuando un bien inmueble propiedad del Municipio, vaya a incorporarse al dominio 
 
 Igual declaratoria de incorporación deberá emitirse, cuando un bien, de hecho, esté destinado al uso común, a un servicio público o a alguna de las actividades que se equiparen a éstos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JULIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JULIO DE 2005)</small>
 
 ###### ARTICULO 147.
 
@@ -1301,7 +1305,7 @@ Los bienes del dominio privado de los Municipios son inembargables e imprescript
 
 A excepción de los bienes de Comodato, los Ayuntamientos podrán ejecutar sobre los bienes de dominio privado, todos los actos de administración y de dominio que regula el derecho común con las modalidades y cumpliendo los requisitos establecidos en este Capítulo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 151.
 
@@ -1471,7 +1475,7 @@ Cuando el Ayuntamiento apruebe la expedición o modificación de un reglamento, 
 
 En la medida que se modifiquen las condiciones socioeconómicas de los Municipios, en virtud de su crecimiento demográfico, surgimiento y desarrollo de actividades productivas, modificación de las condiciones políticas y múltiples aspectos de la vida comunitaria, los Ayuntamientos deberán adecuar su reglamentación municipal, con el fin de preservar su autoridad institucional y propiciar el desarrollo armónico de la Sociedad.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 22 DE JULIO DE 2005)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE JULIO DE 2005)</small>
 
 ## TITULO SEPTIMO. DEL PROCEDIMIENTO CONTENCIOSO
 
@@ -1529,17 +1533,17 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. JOSE N. GONZALEZ PARAS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 26 DE ENERO DE 1996.
 
-DECRETO No. 152, QUE REFORMA EL ARTICULO 32.
+DECRETO No. 152, QUE REFORMA EL ARTÍCULO 32.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 26 DE ENERO DE 1996.
 
-DECRETO No. 153, QUE REFORMA EL ARTICULO 26.
+DECRETO No. 153, QUE REFORMA EL ARTÍCULO 26.
 
 UNICO:- El presente decreto entrará en vigor a partir del día 1o. de Enero de 1996.
 
@@ -1567,12 +1571,18 @@ Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su
 
 P.O. 11 DE NOVIEMBRE DE 2011.
 
-DECRETO No. 248 POR EL QUE SE REFORMA LA FRACCION VI DEL INCISO C) DEL ARTICULO 26 Y EL PARRAFO PRIMERO DEL ARTICULO 151, DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE NUEVO LEON.
+DECRETO No. 248 POR EL QUE SE REFORMA LA FRACCIÓN VI DEL INCISO C) DEL ARTÍCULO 26 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 151, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE NUEVO LEÓN.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 11 DE NOVIEMBRE DE 2011.
 
-DECRETO No. 249 POR EL QUE SE ADICIONA CON UN SEGUNDO PARRAFO LA FRACCION I DEL INCISO B), DEL ARTICULO 26 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE NUEVO LEON.
+DECRETO No. 249 POR EL QUE SE ADICIONA CON UN SEGUNDO PÁRRAFO LA FRACCIÓN I DEL INCISO B), DEL ARTÍCULO 26 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE NUEVO LEÓN.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE MAYO DE 2012.
+
+Primero.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- En un término no mayor a 90 días siguientes a partir de la entrada en vigor del presente Decreto, los Municipios deberán adecuar sus reglamentos y disposiciones aplicables conforme a la presente reforma.
