@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2012-04-09"
+last_updated: "2012-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE MAYO DE 2012.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 9 DE JULIO DE 1996.
 
@@ -764,15 +764,15 @@ X.- La asistencia social a los grupos más vulnerables y, de éstos, de manera e
 
 XI. La atención médica a los adultos mayores en áreas de salud geriátrica.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 5 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 28.
 
 Para los efectos del artículo anterior, habrá un Cuadro Básico de Insumos para el primer nivel de atención médica y un Catálogo de Insumos para el segundo y tercer nivel, elaborados por el Consejo de Salubridad General a los cuales se ajustarán las instituciones públicas del Sistema Nacional de Salud, y en los que se agruparán, caracterizarán y codificarán los insumos para la salud. Para esos efectos, participarán en su elaboración: La Secretaría de Salud, las instituciones públicas de seguridad social y las demás que señale el Ejecutivo Federal.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 5 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 28 Bis.
 
@@ -790,7 +790,7 @@ Los profesionales que podrán prescribir medicamentos son:
 
 Los profesionales a que se refiere el presente artículo deberán contar con cédula profesional expedida por las autoridades educativas competentes. Los pasantes en servicio social, de cualquiera de las carreras antes mencionadas y los enfermeros podrán prescribir ajustándose a las especificaciones que determine la Secretaría.
 
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 29.
 
@@ -812,9 +812,11 @@ La Secretaría de Salud proporcionará los elementos técnicos a la Secretaría 
 
 ### CAPITULO II. Atención Médica
 
+> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 32.
 
-Se entiende por atención médica el conjunto de servicios que se proporcionan al individuo, con el fin de proteger, promover y restaurar su salud.
+Se entiende por atención médica el conjunto de servicios que se proporcionan al individuo, con el fin de proteger, promover y restaurar su salud, la cual podrá apoyarse de medios electrónicos de acuerdo con las normas oficiales mexicanas que al efecto expida la Secretaría de Salud.
 
 ###### ARTICULO 33.
 
@@ -7779,3 +7781,9 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 28 DE MAYO DE 2012.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La Secretaría de Salud contará con un año, a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, para emitir la normatividad secundaria correspondiente.
