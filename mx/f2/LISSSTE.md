@@ -4,7 +4,7 @@ identifier: "LISSSTE"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-31"
-last_updated: "2011-05-27"
+last_updated: "2012-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54892&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISSSTE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE MAYO DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de marzo de 2007.
 
@@ -156,7 +156,7 @@ X. Entidades, los organismos descentralizados, empresas de participación estata
 
 XI. Entidades Federativas, a los estados de la República y el Distrito Federal;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 2011)</small>
 
 XII. Familiares derechohabientes a:
 
@@ -1074,9 +1074,23 @@ Para efecto de las Cuotas y Aportaciones de los Pensionados por riesgos del trab
 
 Los recursos a que se refiere este artículo se depositarán en las Subcuentas de retiro, cesantía en edad avanzada y vejez.
 
-#### Sección VIII. Del PENSIONISSSTE
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 28 DE MAYO DE 2012)</small>
 
-#### Sección I. Generalidades
+#### Sección VII Bis. De los Créditos otorgados por entidades financieras con cargo a las pensiones
+
+> <small>(ADICIONADO, D.O.F. 28 DE MAYO DE 2012)</small>
+
+###### Artículo 102 Bis.
+
+Los pensionados por invalidez y vida o por riesgos de trabajo, así como aquellos que gocen de una pensión por retiro, cesantía en edad avanzada o vejez, podrán optar por que, con cargo a su pensión, se cubran los créditos, cuyo plazo para el pago no exceda de sesenta meses, que les hayan sido otorgados por las Entidades Financieras a que se refiere la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, que tengan celebrado para los efectos de este artículo un convenio con la aseguradora que le pague la pensión o con el PENSIONISSSTE o la administradora de fondos para el retiro en el caso de que la pensión se cubra mediante retiros programados.
+
+Los descuentos a la pensión que se realicen en los términos de este artículo, considerando otros descuentos que en términos de las disposiciones jurídicas resulten procedentes, no podrán exceder del treinta por ciento de la pensión ni implicar que la cuantía de la pensión se reduzca a una cantidad inferior a la pensión garantizada establecida en esta Ley. En la aplicación de los referidos descuentos se aplicará la prelación que corresponda en términos de las disposiciones jurídicas aplicables.
+
+La Comisión Nacional de los Sistemas de Ahorro para el Retiro y la Comisión Nacional de Seguros y Fianzas, en el ámbito de sus respectivas competencias, podrán emitir las reglas de carácter general que se requieran para la aplicación de lo dispuesto en este artículo. Dichas reglas deberán prever la forma y términos en que las Entidades Financieras señaladas en el primer párrafo de este artículo deberán comunicar al PENSIONISSSTE y a las aseguradoras y administradoras de fondos para el retiro con las que celebren los convenios a que se refiere este precepto, las condiciones generales del crédito, incluyendo el Costo Anual Total aplicable a los préstamos mencionados, con objeto de que éstos, de forma clara, precisa y transparente los hagan del conocimiento de los pensionados, para fines de comparación en la elección de la Entidad Financiera a la que solicitarán el préstamo.
+
+Los gastos que se generen con motivo del control, descuentos y entrega o transferencia de los importes relativos a los préstamos otorgados por las Entidades Financieras serán cubiertos por éstas al PENSIONISSSTE o la aseguradora o administradora de fondos para el retiro de que se trate, en los términos que se estipule en los convenios respectivos.
+
+#### Sección VIII. Del PENSIONISSSTE
 
 ###### Artículo 103.
 
@@ -1214,7 +1228,7 @@ IX. Las demás que le señalen esta Ley y sus disposiciones reglamentarias.
 
 ### CAPÍTULO VII. SEGURO DE INVALIDEZ Y VIDA
 
-#### Sección II. Pensión por Invalidez
+#### Sección I. Generalidades
 
 ###### Artículo 114.
 
@@ -1234,7 +1248,7 @@ El pago de la Pensión de invalidez se suspenderá durante el tiempo en que el P
 
 Si un Trabajador o sus Familiares Derechohabientes tiene derecho a cualquiera de las Pensiones de este Capítulo y también a Pensión proveniente del seguro de riesgos del trabajo, siempre y cuando se trate de una incapacidad parcial previa al estado de invalidez, percibirá ambas sin que la suma de sus cuantías exceda del cien por ciento del Sueldo Básico mayor, de los que sirvieron de base para determinar la cuantía de las Pensiones concedidas. Los ajustes para no exceder del límite señalado no afectarán la Pensión proveniente de riesgos del trabajo.
 
-#### Sección III. Pensión por Causa de Muerte
+#### Sección II. Pensión por Invalidez
 
 ###### Artículo 118.
 
@@ -1334,7 +1348,7 @@ La revocación de la Pensión se llevará a cabo en los mismos términos que se 
 
 Si el Trabajador no fuere restituido a su empleo o no se le asignara otro en los términos del párrafo primero de este artículo por causa imputable a la Dependencia o Entidad en que hubiere prestado sus servicios, seguirá percibiendo el importe de la Pensión con cargo al presupuesto de ésta. Lo anterior, sin perjuicio de la responsabilidad en que incurra el titular de la Dependencia o Entidad, el cual deberá restituir los montos erogados por concepto del pago de la Pensión.
 
-#### Sección IV. Incremento Periódico de las Pensiones
+#### Sección III. Pensión por Causa de Muerte
 
 ###### Artículo 129.
 
@@ -1418,7 +1432,7 @@ Cuando fallezca un Pensionado, la Aseguradora que viniese cubriendo la Pensión 
 
 Si no existiesen parientes o personas que se encarguen de la inhumación, el Instituto lo hará, limitado al importe del monto señalado en el párrafo anterior, mismo que le deberá ser entregado por la Aseguradora referida.
 
-#### Sección V. Régimen Financiero
+#### Sección IV. Incremento Periódico de las Pensiones
 
 ###### Artículo 139.
 
@@ -1426,7 +1440,7 @@ La cuantía de las Pensiones por invalidez será actualizada anualmente en el me
 
 Las Pensiones a los Familiares Derechohabientes del Trabajador por el seguro de invalidez y vida serán revisadas e incrementadas en la proporción que corresponda, en términos de lo dispuesto en el párrafo anterior.
 
-#### Sección I. De la Transferencia de Derechos entre el Instituto y el IMSS
+#### Sección V. Régimen Financiero
 
 ###### Artículo 140.
 
@@ -1438,7 +1452,7 @@ II. A las Dependencias y Entidades les corresponde una Aportación de cero punto
 
 ### Capítulo VIII. De la Transferencia de los Derechos
 
-#### Sección II. De la Transferencia de Derechos al Instituto provenientes de otros Institutos de Seguridad Social
+#### Sección I. De la Transferencia de Derechos entre el Instituto y el IMSS
 
 ###### Artículo 141.
 
@@ -1488,7 +1502,7 @@ Tratándose de los periodos de cotización para tener derecho a pensionarse bajo
 
 Se entenderá por periodo de cotización simultáneo aquél en el que al mismo tiempo se enteren Cuotas y Aportaciones correspondientes al Trabajador bajo el régimen obligatorio de esta ley y el de la Ley del Seguro Social.
 
-#### Sección III. De la Transferencia de Derechos entre el Instituto y el Instituto del Fondo Nacional de la Vivienda para los Trabajadores
+#### Sección II. De la Transferencia de Derechos al Instituto provenientes de otros Institutos de Seguridad Social
 
 ###### Artículo 149.
 
@@ -1522,7 +1536,7 @@ Los Trabajadores que lleguen a la edad de pensionarse bajo los supuestos del seg
 
 El Pensionado que goce de una Pensión equivalente a la de retiro, cesantía en edad avanzada y vejez bajo un régimen de seguridad social con el que se hubiere celebrado convenio de portabilidad, no podrá obtener una Pensión de igual naturaleza bajo el régimen de la presente ley, en ambos casos el Trabajador tendrá derecho a incrementar el monto de su Pensión de acuerdo con el procedimiento señalado en el artículo 146 de esta ley.
 
-#### Sección I. Préstamos Personales
+#### Sección III. De la Transferencia de Derechos entre el Instituto y el Instituto del Fondo Nacional de la Vivienda para los Trabajadores
 
 ###### Artículo 154.
 
@@ -1542,7 +1556,7 @@ A efecto de lo anterior, el Instituto y el Instituto del Fondo Nacional de la Vi
 
 ### Capítulo IX. Del Sistema Integral de Crédito
 
-#### Sección II. Del Crédito para Vivienda
+#### Sección I. Préstamos Personales
 
 ###### Artículo 157.
 
@@ -1616,7 +1630,7 @@ Cuando un Trabajador tenga adeudo con el Fondo de préstamos y solicite licencia
 
 No se concederán nuevos préstamos especiales ni para bienes de consumo duradero mientras permanezca insoluto el anterior. En el caso de los préstamos ordinarios sólo podrán renovarse cuando se haya cubierto el pago de cuando menos el cincuenta por ciento del monto del crédito que fue concedido, cubiertos los abonos para dicho periodo y el deudor pague la prima de la Reserva de garantía, cubra el saldo insoluto y la aportación de renovación con cargo al nuevo crédito.
 
-#### Sección III. Régimen Financiero
+#### Sección II. Del Crédito para Vivienda
 
 ###### Artículo 167.
 
@@ -1862,7 +1876,7 @@ Los recursos de la Subcuenta del Fondo de la Vivienda que no hubiesen sido aplic
 
 A efecto de lo anterior, el Instituto deberá transferir los recursos de la Subcuenta del Fondo de la Vivienda al PENSIONISSSTE, las Administradoras o Aseguradoras a más tardar el segundo día hábil siguiente a que le sean requeridos.
 
-#### Sección I. Servicios Sociales
+#### Sección III. Régimen Financiero
 
 ###### Artículo 193.
 
@@ -1874,7 +1888,7 @@ El Fondo de la Vivienda se constituirá con una Aportación del cinco por ciento
 
 ### CAPÍTULO X. De los Servicios Sociales y Culturales
 
-#### Sección II. Servicios Culturales
+#### Sección I. Servicios Sociales
 
 ###### Artículo 195.
 
@@ -1894,7 +1908,7 @@ IV. Servicios de atención para el bienestar y desarrollo infantil, y
 
 V. Los demás que acuerde la Junta Directiva, siempre que no se afecte la viabilidad financiera en el corto, mediano o largo plazo.
 
-#### Sección III. Régimen Financiero
+#### Sección II. Servicios Culturales
 
 ###### Artículo 197.
 
@@ -1914,7 +1928,7 @@ IV. Programas de fomento deportivo, y
 
 V. Los demás que acuerde la Junta Directiva, siempre que no se afecte la viabilidad financiera en el corto, mediano o largo plazo.
 
-#### Sección I. Generalidades
+#### Sección III. Régimen Financiero
 
 ###### Artículo 199.
 
@@ -2350,7 +2364,7 @@ En caso de que el informe financiero y actuarial que anualmente se presente a la
 
 ### CAPÍTULO V. RESERVAS E INVERSIONES
 
-#### Sección II. De las Reservas de los Seguros
+#### Sección I. Generalidades
 
 ###### Artículo 232.
 
@@ -2376,7 +2390,7 @@ IV. Reservas general financiera y actuarial.
 
 Los recursos afectos a las Reservas señaladas quedan fuera de las disposiciones de anualidad presupuestal, por lo que podrán financiar obligaciones y contingencias más allá de un solo ejercicio fiscal. Del manejo multianual que haga el Instituto de estos Fondos deberá informarse a la Secretaría de Hacienda y Crédito Público a más tardar el día veintiocho de febrero del año siguiente.
 
-#### Sección III. Del Programa Anual de Administración y Constitución de Reservas
+#### Sección II. De las Reservas de los Seguros
 
 ###### Artículo 235.
 
@@ -2432,7 +2446,7 @@ Las Reservas financieras y actuariales y la Reserva general financiera y actuari
 
 El Instituto podrá disponer de las Reservas financieras y actuariales de cada seguro y cobertura sólo para cubrir las necesidades que correspondan a cada uno de ellos, previo acuerdo de la Junta Directiva a propuesta del Director General, y sólo para enfrentar caídas en los ingresos o incrementos en los egresos derivados de problemas económicos de duración mayor a un año, así como para enfrentar fluctuaciones en la siniestralidad mayores a las estimadas en el estudio actuarial que se presente anualmente a la Junta Directiva o para el pago de beneficios futuros para los que se hubiera efectuado la provisión correspondiente.
 
-#### Sección IV. De la Inversión de las Reservas y de su Uso para la Operación
+#### Sección III. Del Programa Anual de Administración y Constitución de Reservas
 
 ###### Artículo 243.
 
@@ -2448,7 +2462,7 @@ IV. Los recursos anuales que en forma trimestral prevea afectar a la Reserva de 
 
 La Junta Directiva, a propuesta del Director General, podrá modificar en cualquier momento la asignación de recursos contenida en el programa de administración y constitución de Reservas, con excepción de los montos de incremento de las Reservas financieras y actuariales y de la Reserva general financiera y actuarial comprometidos, cuando los flujos de ingresos y gastos a lo largo del ejercicio así lo requieran. La propuesta del Director General deberá describir el impacto que esa modificación tendrá en el mediano y largo plazo.
 
-#### Sección V. De la Contabilidad
+#### Sección IV. De la Inversión de las Reservas y de su Uso para la Operación
 
 ###### Artículo 244.
 
@@ -2465,6 +2479,8 @@ La Reserva de operación y la Reserva de operación para contingencias y financi
 Las inversiones de las Reservas financieras y actuariales y la Reserva general financiera y actuarial, previstas en este Capítulo, sólo podrán invertirse en los valores, títulos de crédito y otros derechos, que se determinen por la Junta Directiva, oyendo previamente la opinión del Comité de Inversiones, conforme al reglamento correspondiente.
 
 Los intereses o rendimientos que genere cada Reserva deberán aplicarse exclusivamente a la Reserva que les dé origen.
+
+#### Sección V. De la Contabilidad
 
 ###### Artículo 247.
 
@@ -2986,6 +3002,26 @@ CUADRAGÉSIMO. Para dar cumplimiento a lo establecido en el artículo 31 de la p
 
 CUADRAGÉSIMO PRIMERO. Los Trabajadores y Pensionados que a la fecha de entrada en vigor de esta Ley, tengan derecho a la prestación de préstamos personales, continuarán gozando de dicho beneficio de acuerdo con el programa anual que autorice la Junta Directiva y de conformidad con las reglas que establezca la misma.
 
+> <small>(ADICIONADO, D.O.F. 28 DE MAYO DE 2012)</small>
+
+Los pensionados que opten por el régimen establecido en el Artículo Décimo Transitorio de este ordenamiento, podrán optar por solicitar préstamos a las Entidades Financieras a que se refiere la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, dando su consentimiento expreso para que el Instituto les descuente de su pensión los importes relativos al pago del préstamo y los entregue a la institución financiera que lo otorgó, conforme al convenio que para tal efecto deberán tener celebrado ésta y el Instituto.
+
+> <small>(ADICIONADO, D.O.F. 28 DE MAYO DE 2012)</small>
+
+El Instituto únicamente podrá celebrar los convenios a que se refiere el párrafo anterior, cuando en los mismos se estipule que el descuento mensual derivado de una o más transacciones, considerando otros descuentos que en términos de las disposiciones jurídicas resulten procedentes, en ningún caso excederá del treinta por ciento del monto de la pensión mensual, ni implique que la cuantía de la pensión se reduzca a una cantidad inferior a la pensión garantizada establecida en esta Ley, y que el plazo para el pago del préstamo no exceda de sesenta meses. En la aplicación de los referidos descuentos se aplicará la prelación que corresponda en términos de las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 28 DE MAYO DE 2012)</small>
+
+Las Entidades Financieras deberán comunicar al Instituto el Costo Anual Total aplicable a los préstamos mencionados, a fin de que éste los haga del conocimiento de los pensionados, para fines informativos y de comparación en la elección de la Entidad Financiera a la que solicitarán el préstamo.
+
+> <small>(ADICIONADO, D.O.F. 28 DE MAYO DE 2012)</small>
+
+Los gastos que se generen con motivo del control, descuentos y entrega o transferencia de los importes relativos a los préstamos otorgados por las Entidades Financieras serán cubiertos por éstas al Instituto, en los términos que se estipule en los convenios respectivos.
+
+> <small>(ADICIONADO, D.O.F. 28 DE MAYO DE 2012)</small>
+
+La Junta Directiva del Instituto podrá emitir las disposiciones de carácter administrativo necesarias para la debida observancia de lo dispuesto en este artículo.
+
 CUADRAGÉSIMO SEGUNDO. El reglamento para el otorgamiento de préstamos deberá ser expedido en un plazo máximo de un año contado a partir de la entrada en vigor de esta Ley.
 
 CUADRAGÉSIMO TERCERO. A las personas que presten sus servicios a las Dependencias o Entidades mediante contrato personal sujeto a la legislación común, que perciban sus emolumentos exclusivamente con cargo a la partida de honorarios por contrato, o que estén incluidos en las listas de raya, siempre y cuando hayan laborado una jornada completa de acuerdo con las condiciones generales de trabajo y hayan laborado por un periodo mínimo de un año, se les incorporará integralmente al régimen de seguridad social con la entrada en vigor de esta Ley.
@@ -3004,8 +3040,12 @@ México, D.F., 28 de marzo de 2007.- Dip. Jorge Zermeño Infante, Presidente.- S
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de marzo de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 27 DE MAYO DE 2011.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE MAYO DE 2012.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
