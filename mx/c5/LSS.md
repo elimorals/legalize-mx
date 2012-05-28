@@ -4,7 +4,7 @@ identifier: "LSS"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2012-04-09"
+last_updated: "2012-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE MAYO DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de diciembre de 1995.
 
@@ -324,7 +324,7 @@ La información que proporcionen los patrones para su registro podrá ser analiz
 
 En el caso anterior, el Instituto aplicará los importes pagados a resarcir sus gastos de administración y de operación, quedando a salvo los derechos del presunto trabajador para reclamar, en su caso, los importes que hayan sido depositados en la cuenta individual abierta a su nombre, en los términos de la presente Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 18.
 
@@ -394,7 +394,7 @@ Las disposiciones de esta Ley, que se refieren a los patrones y a los trabajador
 
 ### CAPITULO II. DE LAS BASES DE COTIZACION Y DE LAS CUOTAS
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE ENERO DE 2009)</small>
 
 ###### Artículo 27.
 
@@ -444,7 +444,7 @@ Para que los conceptos mencionados en este precepto se excluyan como integrantes
 
 En los conceptos previstos en las fracciones VI, VII y IX cuando el importe de estas prestaciones rebase el porcentaje establecido, solamente se integrarán los excedentes al salario base de cotización.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, CONSULTESE EL ARTICULO VIGESIMO QUINTO TRANSITORIO DE LA LEY, P.O. 21 DE DICIEMBRE DE 1995.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, CONSÚLTESE EL ARTÍCULO VIGÉSIMO QUINTO TRANSITORIO DE LA LEY, P.O. 21 DE DICIEMBRE DE 1995.</small>
 
 ###### Artículo 28.
 
@@ -676,7 +676,7 @@ También se considerará accidente de trabajo el que se produzca al trasladarse 
 
 Enfermedad de trabajo es todo estado patológico derivado de la acción continuada de una causa que tenga su origen o motivo en el trabajo, o en el medio en que el trabajador se vea obligado a prestar sus servicios. En todo caso, serán enfermedades de trabajo las consignadas en la Ley Federal del Trabajo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE JUNIO DE 2009)</small>
 
 ###### Artículo 44.
 
@@ -790,7 +790,7 @@ I. Si lo incapacita para trabajar recibirá mientras dure la inhabilitación, el
 
 El goce de este subsidio se otorgará al asegurado entre tanto no se declare que se encuentra capacitado para trabajar, o bien se declare la incapacidad permanente parcial o total, lo cual deberá realizarse dentro del término de cincuenta y dos semanas que dure la atención médica como consecuencia del accidente, sin perjuicio de que una vez determinada la incapacidad que corresponda, continúe su atención o rehabilitación conforme a lo dispuesto por el artículo 61 de la presente Ley;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 II. Al declararse la incapacidad permanente total del asegurado, éste recibirá una pensión mensual definitiva equivalente al setenta por ciento del salario en que estuviere cotizando en el momento de ocurrir el riesgo. En el caso de enfermedades de trabajo, se calculará con el promedio del salario base de cotización de las cincuenta y dos últimas semanas o las que tuviere si su aseguramiento fuese por un tiempo menor para determinar el monto de la pensión. Igualmente, el incapacitado deberá contratar un seguro de sobrevivencia para el caso de su fallecimiento, que otorgue a sus beneficiarios las pensiones y demás prestaciones económicas a que tengan derecho en los términos de esta Ley.
 
@@ -990,13 +990,13 @@ La siniestralidad se fijará conforme al reglamento de la materia.
 
 La determinación de las clases comprenderá una lista de los diversos tipos de actividades y ramas industriales, catalogándolas en razón de la mayor o menor peligrosidad a que están expuestos los trabajadores, y asignando a cada uno de los grupos que formen dicha lista, una clase determinada. Este supuesto sólo se aplicará a las empresas que se inscriben por primera vez en el Instituto o cambien de actividad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 2009)</small>
 
 Para efectos de la clasificación en el seguro de riesgos de trabajo, tratándose de los patrones a que se refiere el tercer párrafo del artículo 15-A, de esta Ley, a solicitud del patrón, el Instituto le asignará un registro patronal por cada una de las clases, que así se requiera, de las señaladas en el artículo 73 de esta Ley, con el que realizará la inscripción de sus trabajadores a nivel nacional. Los patrones o sujetos obligados que se hayan clasificado en términos de lo dispuesto en este párrafo, revisarán anualmente su siniestralidad conforme al artículo 74 de esta Ley de manera independiente por cada uno de los registros patronales asignados.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 76.
 
@@ -1338,7 +1338,7 @@ Con el propósito de proteger la salud y prevenir las enfermedades y la discapac
 
 El Instituto se coordinará con la Secretaría de Salud y con otras dependencias y organismos públicos, con objeto de realizar las campañas y programas a que se refiere el artículo anterior.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 #### SECCION SEPTIMA. DEL REGISTRO DE LAS ACTIVIDADES PARA LA SALUD A LA POBLACIÓN DERECHOHABIENTE
 
@@ -1388,11 +1388,13 @@ Cuando cualquier pensionado traslade su domicilio al extranjero, podrá continua
 
 Esta disposición será aplicable a los seguros de riesgos de trabajo, invalidez y vida, y retiro, cesantía en edad avanzada y vejez.
 
+> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 2012)</small>
+
 ###### Artículo 118.
 
-El Instituto podrá excepcionalmente otorgar préstamos cuando la situación económica del pensionado lo amerite y bajo la condición de que, considerados los descuentos, la cuantía de la pensión no se reduzca a una cantidad inferior a los mínimos establecidos por la Ley. El plazo de pago no excederá de un año.
+Los asegurados que obtengan una pensión definitiva por invalidez y vida o por riesgos de trabajo, así como aquellos que gocen de una pensión por retiro, cesantía en edad avanzada o vejez, podrán optar por que, con cargo a su pensión, se cubran los créditos que les hayan sido otorgados por las Entidades Financieras a que se refiere la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
 
-Igualmente esta disposición es aplicable tratándose de pensiones por riesgos de trabajo.
+La Comisión Nacional de los Sistemas de Ahorro para el Retiro y la Comisión Nacional de Seguros y Fianzas, en el ámbito de sus respectivas competencias, podrán emitir reglas de carácter general que se requieran para la aplicación de lo dispuesto en este artículo. Dichas reglas deberán prever la forma y términos en que las Entidades Financieras señaladas en el primer párrafo de este artículo deberán comunicar al Consejo Técnico del Instituto y a las aseguradoras y administradoras de fondos para el retiro con las que celebren los convenios a que se refiere este precepto, las condiciones generales del crédito, incluyendo el Costo Anual Total aplicable a los préstamos mencionados, con objeto de que éstos, de forma clara, precisa y transparente los hagan del conocimiento de los pensionados, para fines de comparación en la elección de la Entidad Financiera a la que solicitarán el préstamo.
 
 #### SECCION SEGUNDA. DEL RAMO DE INVALIDEZ
 
@@ -1600,7 +1602,7 @@ El Instituto concederá ayuda asistencial al pensionado por invalidez, con excep
 
 #### SECCION QUINTA. DE LA CUANTIA DE LAS PENSIONES DE INVALIDEZ Y VIDA
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 141.
 
@@ -1692,7 +1694,7 @@ Las semanas de cotización amparadas por certificados de incapacidad médica par
 
 #### SECCION SEGUNDA. DEL RAMO DE CESANTIA EN EDAD AVANZADA
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 154.
 
@@ -1810,7 +1812,7 @@ El asegurado que opte por la alternativa prevista en la fracción II podrá, en 
 
 #### SECCION CUARTA. DE LA AYUDA PARA GASTOS DE MATRIMONIO
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE MAYO DE 2009)</small>
 
 ###### Artículo 165.
 
@@ -2080,7 +2082,7 @@ El asegurado abrirá una nueva cuenta individual, en la Administradora de Fondos
 
 Las Aseguradoras y las Administradoras de Fondos para el Retiro no podrán retener, bajo ningún concepto, el pago de rentas vencidas ni de retiros programados no cobrados por el pensionado, cuyos montos en todo momento estarán a disposición de éste.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE MAYO DE 2009)</small>
 
 ###### Artículo 198.
 
@@ -2264,7 +2266,7 @@ Los beneficiados por estos servicios contribuirán con aportaciones en efectivo 
 
 ### CAPITULO VIII. DE LA CONTINUACION VOLUNTARIA EN EL REGIMEN OBLIGATORIO
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 218.
 
@@ -2398,7 +2400,7 @@ Los sujetos a que se refiere el artículo 13 de esta Ley podrán gestionar y obt
 
 La incorporación voluntaria al régimen obligatorio termina:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 I. Para los sujetos a que se refieren las fracciones I, III, IV y V del artículo 13 de esta Ley por:
 
@@ -2496,7 +2498,7 @@ Todas las familias en México tienen derecho a un seguro de salud para sus miemb
 
 Los sujetos amparados por el seguro de salud para la familia son los señalados en el artículo 84 de esta Ley y se sujetarán a los requisitos que se indican en el mismo.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
@@ -2570,13 +2572,13 @@ Las bases de la contratación de los seguros adicionales se revisarán cada vez 
 
 Los seguros adicionales se organizarán en sección especial, con contabilidad y administración de fondos separada de la correspondiente a los seguros obligatorios.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 ### CAPÍTULO I. DE LAS ATRIBUCIONES, PATRIMONIO Y ÓRGANOS DE GOBIERNO Y ADMINISTRACIÓN
 
 ## TITULO CUARTO. DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO II. DE LA ASAMBLEA GENERAL
 
@@ -2992,7 +2994,7 @@ Artículo 268 A. El Director General será auxiliado en el cumplimiento de sus f
 
 El Director General tendrá derecho de veto sobre las resoluciones del Consejo Técnico, en los casos que fije el reglamento. El efecto del veto será suspender la aplicación de la resolución del Consejo, hasta que resuelva en definitiva la Asamblea General.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO VII. DE LA CONSTITUCIÓN DE RESERVAS
 
@@ -3008,7 +3010,7 @@ El Instituto, en su carácter de organismo fiscal autónomo, se sujetará al ré
 
 En materia de recaudación y administración de las contribuciones que conforme a esta Ley le corresponden, que de conformidad con lo dispuesto por el artículo 2o., fracción II y penúltimo párrafo, del Código, tienen la naturaleza de aportaciones de seguridad social, el Instituto recaudará, administrará y, en su caso, determinará y liquidará, las cuotas correspondientes a los seguros establecidos en esta Ley, aplicando al efecto lo dispuesto en la misma y en lo no previsto expresamente en ella, el Código, contando respecto de ambas disposiciones con todas las facultades que ese Código confiere a las autoridades fiscales en él previstas, las que serán ejercidas de manera ejecutiva por el Instituto, sin la participación de ninguna otra autoridad fiscal.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE ENERO DE 2009)</small>
 
 ###### Artículo 272.
 
@@ -3158,7 +3160,7 @@ El Consejo Técnico solamente podrá crear, sustituir o contratar plazas con suj
 
 El Instituto tiene la obligación de publicar en el Diario Oficial de la Federación, a más tardar el 30 de junio del ejercicio fiscal correspondiente, el informe analítico de todas (sic) los puestos y plazas, incluyendo temporales, sustitutos, residentes y análogas; los sueldos, prestaciones y estímulos de todo tipo de sus servidores públicos, agrupados por nivel, grado y grupo de mando, y los cambios autorizados a su estructura organizacional por el Consejo Técnico, así como el número, características y remuneraciones totales de la contratación de servicios profesionales por honorarios.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE ENERO DE 2009)</small>
 
 Artículo 277 E. Sin perjuicio de lo dispuesto por la Ley Federal de Presupuesto y Responsabilidad Hacendaria, los ingresos y gastos de cada seguro se registrarán contablemente por separado. Los gastos indirectos comunes se sujetarán a las reglas de carácter general para la distribución de costos, al catálogo de cuentas y al manual de contabilización y del ejercicio del gasto que al efecto emita el Consejo Técnico a propuesta del Director General, quien deberá contar con la opinión previa de la Secretaría de Hacienda y Crédito Público.
 
@@ -3198,7 +3200,7 @@ En el anteproyecto de presupuesto a que se refieren los artículos 274 y 275 de 
 
 Lo anterior, no deberá afectar las metas de constitución o incremento de reservas que de conformidad con la presente Ley, fije anualmente al Instituto la Cámara de Diputados.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO VIII. DEL SISTEMA DE PROFESIONALIZACIÓN Y DESARROLLO
 
@@ -3252,7 +3254,7 @@ Dicho Fondo deberá registrarse en forma separada en la contabilidad del Institu
 
 El Instituto, en su carácter de patrón, no podrá destinar a este Fondo, para el financiamiento de la cuenta especial del Régimen de Jubilaciones y Pensiones, recursos provenientes de las cuotas a cargo de los patrones y trabajadores establecidos en la Ley del Seguro Social. Tampoco podrá destinar recursos para dicho fin, de las contribuciones, cuotas y aportaciones, que conforme a la Ley del Seguro Social, son a cargo del Gobierno Federal; ni de las Reservas a que se refiere el artículo 280 de esta Ley o de los productos financieros que de ellas se obtengan.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 #### SECCION PRIMERA. GENERALIDADES
 
@@ -3370,7 +3372,7 @@ IV. Los recursos anuales que en forma trimestral prevea afectar a las Reservas O
 
 El Consejo Técnico, a propuesta razonada de la Dirección General, podrá modificar en cualquier momento el Programa de Administración y Constitución de Reservas, con excepción de los montos de incremento de las Reservas Financieras y Actuariales y de la Reserva General Financiera y Actuarial comprometidos conforme a lo dispuesto en la fracción VIII, del artículo 275 de esta Ley, cuando los flujos de ingresos y gastos a lo largo del ejercicio así lo requieran. La propuesta del Director General deberá describir el impacto que esa modificación tendrá en el mediano y largo plazo, observando lo señalado en el segundo párrafo del artículo 278 de esta Ley.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 #### SECCION CUARTA. DE LA INVERSIÓN DE LAS RESERVAS Y DE SU USO PARA LA OPERACIÓN
 
@@ -3392,7 +3394,7 @@ Artículo 286 E. Las inversiones de las Reservas Financieras y Actuariales y la 
 
 Los intereses o rendimientos que genere cada reserva deberán aplicarse exclusivamente a la reserva que les dé origen.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO IX. DE LOS MEDIOS DE COMUNICACIÓN
 
@@ -3420,7 +3422,7 @@ Artículo 286 N. Cuando los documentos se presenten a través de los medios de c
 
 ## TITULO QUINTO. DE LOS PROCEDIMIENTOS, DE LA CADUCIDAD Y PRESCRIPCION
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO II. DE LOS PROCEDIMIENTOS
 
@@ -3460,7 +3462,7 @@ Cuando los trabajadores de una empresa reciban los bienes de ésta en pago de pr
 
 ### CAPITULO III. DE LA CADUCIDAD Y PRESCRIPCION
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 #### SECCION PRIMERA. PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN
 
@@ -3500,7 +3502,7 @@ b) Desde la fecha de la vigencia de la prestación, si se comprueba que el inter
 
 #### SECCION SEGUNDA. DE LOS MEDIOS DE DEFENSA
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 294.
 
@@ -3514,7 +3516,7 @@ Las resoluciones, acuerdos o liquidaciones del Instituto que no hubiesen sido im
 
 Las controversias entre los asegurados o sus beneficiarios y el Instituto sobre las prestaciones que esta Ley otorga, deberán tramitarse ante la Junta Federal de Conciliación y Arbitraje, en tanto que las que se presenten entre el Instituto y los patrones y demás sujetos obligados, se tramitarán ante el Tribunal Federal de Justicia Fiscal y Administrativa.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 296.
 
@@ -3570,7 +3572,7 @@ Es inextinguible el derecho al otorgamiento de una pensión, ayuda asistencial o
 
 El derecho del trabajador o pensionado y, en su caso, sus beneficiarios a recibir los recursos de la subcuenta de retiro, cesantía en edad avanzada y vejez prescribe en favor del Instituto a los diez años de que sean exigibles. Cualquier mensualidad de una pensión, asignación familiar o ayuda asistencial prescribirá en favor del Instituto en un año calendario.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 ## TITULO SEXTO. DE LAS RESPONSABILIDADES, INFRACCIONES, SANCIONES Y DELITOS
 
@@ -3810,7 +3812,7 @@ La acción penal en los delitos previstos en este Capítulo prescribirá en tres
 
 ## TRANSITORIOS
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE NOVIEMBRE DE 1996)</small>
 
 PRIMERO. Esta Ley entrará en vigor en toda la República el día primero de julio de mil novecientos noventa y siete.
 
@@ -3912,11 +3914,23 @@ La canalización de los fondos deberá ajustarse a la inversión en valores cuyo
 
 Las Administradoras de Fondos para el Retiro, de conformidad con las disposiciones legales aplicables, deberán contar con un procedimiento sencillo y expedito para la contratación de la renta vitalicia y el seguro de sobrevivencia, para lo anterior, se deberá divulgar dicho procedimiento en forma amplia y uniforme.
 
+> <small>(ADICIONADO, D.O.F. 28 DE MAYO DE 2012)</small>
+
+VIGESIMO NOVENO. Los pensionados que para el disfrute de cualquiera de las pensiones previstas en la Ley que se deroga, opten por acogerse al beneficio de dicha Ley en términos del Artículo Tercero Transitorio, sin perjuicio de lo dispuesto en la misma con respecto al otorgamiento de préstamos a cuenta de su pensión, podrán optar por solicitar préstamos con cualquiera de las Entidades Financieras a que se refiere la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, que tengan celebrado, para los efectos de este artículo, un convenio con el Instituto, debiendo el pensionado otorgar su consentimiento expreso para que dicho Instituto le descuente de su pensión los importes relativos al pago del préstamo y los entregue a la Entidad Financiera que lo otorgó.
+
+El Instituto únicamente podrá celebrar los convenios a que se refiere el párrafo anterior, cuando en los mismos se estipule que el descuento mensual derivado de una o más transacciones, considerando otros descuentos que en términos de las disposiciones jurídicas resulten procedentes, en ningún caso excederá del treinta por ciento del monto de la pensión mensual, ni implique que la cuantía de la pensión se reduzca a una cantidad inferior a la pensión garantizada establecida en esta Ley, y que el plazo para el pago del préstamo no exceda de sesenta meses. En la aplicación de los referidos descuentos se aplicará la prelación que corresponda en términos de las disposiciones jurídicas aplicables.
+
+Las Entidades Financieras deberán comunicar al Instituto las condiciones generales del préstamo, incluyendo el Costo Anual Total aplicable a los mismos, con objeto de que éste los haga del conocimiento de los pensionados, para fines de comparación en la elección de la Entidad Financiera a la que solicitarán el préstamo.
+
+Los gastos que se generen con motivo del control, descuentos y entrega o transferencia de los importes relativos a los préstamos otorgados por las Entidades Financieras, serán cubiertos por éstas al Instituto en los términos que se estipule en los convenios respectivos.
+
+El Consejo Técnico del Instituto podrá emitir las disposiciones de carácter administrativo necesarias para la debida observancia de lo dispuesto en este artículo.
+
 México, D.F., a 12 de diciembre de 1995.- Dip. Oscar Cantón Zetina, Presidente.- Sen. Gustavo Carvajal Moreno, Presidente.- Dip. Emilio Solórzano Solís, Secretario.- Sen. Jorge G. López Tijerina, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de diciembre de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 21 DE NOVIEMBRE DE 1996.
 
@@ -4115,3 +4129,7 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 28 DE MAYO DE 2012.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
