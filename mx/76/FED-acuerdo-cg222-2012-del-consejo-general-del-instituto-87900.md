@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-cg222-2012-del-consejo-general-del-instituto-87900"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-05-25"
-last_updated: "2012-05-25"
+last_updated: "2012-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87900&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2012-04-18"
 ---
 # ACUERDO CG222/2012 DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, RELATIVO A LAS SOLICITUDES DE SUSTITUCION DE CANDIDATURAS A SENADORES Y DIPUTADOS POR AMBOS PRINCIPIOS, PRESENTADAS POR LOS PARTIDOS POLITICOS ACCION NACIONAL, REVOLUCIONARIO INSTITUCIONAL, VERDE ECOLOGISTA DE MEXICO Y NUEVA ALIANZA, ASI COMO POR LAS COALICIONES COMPROMISO POR MEXICO Y MOVIMIENTO PROGRESISTA
 
-ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, RELATIVO A LAS SOLICITUDES DE SUSTITUCIÓN DE CANDIDATURAS A SENADORES Y DIPUTADOS POR AMBOS PRINCIPIOS, PRESENTADAS POR LOS PARTIDOS POLÍTICOS ACCIÓN NACIONAL, REVOLUCIONARIO INSTITUCIONAL, VERDE ECOLOGISTA DE MÉXICO Y NUEVA ALIANZA, ASÍ COMO POR LAS COALICIONES COMPROMISO POR MÉXICO Y MOVIMIENTO PROGRESISTA
+ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, RELATIVO A LAS SOLICITUDES DE SUSTITUCIÓN DE CANDIDATURAS A SENADORES Y DIPUTADOS POR AMBOS PRINCIPIOS, PRESENTADAS POR LOS PARTIDOS POLÍTICOS ACCIÓN NACIONAL, REVOLUCIONARIO INSTITUCIONAL, VERDE ECOLOGISTA DE MÉXICO Y NUEVA ALIANZA, ASÍ COMO POR LAS COALICIONES COMPROMISO POR MÉXICO Y MOVIMIENTO PROGRESISTA.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE MAYO DE 2012.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 25 de mayo de 2012.
 
@@ -505,7 +505,9 @@ No. de Lista Propietario
 
 SEXTO.- Expídanse las constancias de registro de los candidatos a Senadores y Diputados por ambos principios referidos en los puntos segundo al quinto del presente Acuerdo.
 
-SEPTIMO.- Se autoriza que el nombre de los candidatos enlistados en el Considerando 24 del presente Acuerdo aparezca en las boletas electorales como son conocidos públicamente, en el entendido de que será únicamente para tales efectos, puesto que en el libro de registro que lleva la Dirección Ejecutiva de Prerrogativas y Partidos Políticos, en cumplimiento a lo establecido en el artículo 129, párrafo 1, inciso i) del Código Federal de Instituciones y Procedimientos Electorales, aparecerá el nombre legal de los mismos.
+> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2012)</small>
+
+SEPTIMO.- Se autoriza que el nombre de los candidatos enlistados en el Considerando 24 del presente Acuerdo aparezca en las boletas electorales como se precisa en el Considerando 25 del mismo documento.
 
 OCTAVO.- Comuníquense vía correo electrónico las determinaciones y los registros materia del presente Acuerdo a los Consejos Locales y Distritales del Instituto Federal Electoral. Asimismo, a través del Secretario del Consejo General, remítase a los Consejos Locales copia de los expedientes de las fórmulas de mayoría relativa registradas que correspondan a su entidad, para que éstos a su vez los hagan llegar a los Consejos Distritales respectivos.
 
@@ -514,3 +516,15 @@ NOVENO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 18 de abril de dos mil doce, por votación unánime de los Consejeros Electorales, Maestro Marco Antonio Baños Martínez, Doctor Lorenzo Córdova Vianello, Doctora María Macarita Elizondo Gasperín, Maestro Alfredo Figueroa Fernández, Doctor Sergio García Ramírez, Doctor Francisco Javier Guerrero Aguirre, Doctora María Marván Laborde y el Consejero Presidente, Doctor Leonardo Valdés Zurita, no estando presente durante la votación el Consejero Electoral, Doctor Benito Nacif Hernández.
 
 El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+D.O.F. 29 DE MAYO DE 2012.
+
+ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE, EN ACATAMIENTO A LA SENTENCIA EMITIDA POR LA H. SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN EN EL RECURSO DE APELACIÓN IDENTIFICADO CON EL NÚMERO DE EXPEDIENTE SUP-RAP-188/2012, SE MODIFICAN LOS CONSIDERANDOS 24, 25 Y 26 ASÍ COMO EL PUNTO SÉPTIMO DEL ACUERDO CG222/2012.
+
+PRIMERO.- Se modifican los Considerandos 24, 25 y 26, así como el punto séptimo del "Acuerdo del Consejo General del Instituto Federal Electoral, relativo a las solicitudes de sustitución de candidaturas a Senadores y Diputados por ambos principios, presentadas por los partidos políticos Acción Nacional, Revolucionario Institucional, Verde Ecologista de México y Nueva Alianza, así como por las coaliciones Compromiso por México y Movimiento Progresista" identificado con el número CG222/2012, para quedar en los términos precisados en el Considerando 10 del presente Acuerdo.
+
+SEGUNDO.- Comuníquese vía correo electrónico la determinación materia del presente Acuerdo a los respectivos Consejos Distritales del Instituto Federal Electoral.
+
+TERCERO.- Infórmese a la H. Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, sobre el cumplimiento a la sentencia emitida en el Recurso de Apelación identificado con el número de expediente SUP-RAP-188/2012.
+
+CUARTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
