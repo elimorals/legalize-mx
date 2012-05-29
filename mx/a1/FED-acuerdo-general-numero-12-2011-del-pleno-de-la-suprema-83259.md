@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-12-2011-del-pleno-de-la-suprema-83259"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-10-18"
-last_updated: "2011-10-18"
+last_updated: "2012-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83259&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2011-10-11"
 ---
 # ACUERDO GENERAL NUMERO 12/2011 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [SE DETERMINAN LAS BASES DE LA DECIMA EPOCA DEL SEMANARIO JUDICIAL DE LA FEDERACION]
 
-ACUERDO GENERAL NUMERO 12/2011, DE DIEZ DE OCTUBRE DE DOS MIL ONCE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE DETERMINAN LAS BASES DE LA DECIMA EPOCA DEL SEMANARIO JUDICIAL DE LA FEDERACION
+ACUERDO GENERAL NÚMERO 12/2011, DE DIEZ DE OCTUBRE DE DOS MIL ONCE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE DETERMINAN LAS BASES DE LA DÉCIMA ÉPOCA DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE MAYO DE 2012.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 18 de octubre de 2011.
 
@@ -201,7 +201,9 @@ SEGUNDO. La jurisprudencia derivada de las sentencias dictadas por el Pleno y po
 
 TERCERO. Continuarán vigentes los diversos 6/2001 y 5/2003 en lo que no se opongan a lo previsto en el presente Acuerdo General.
 
-CUARTO. El presente instrumento normativo podrá ser modificado, en lo conducente, con motivo de la entrada en vigor del Decreto del Congreso de la Unión en virtud del cual se expida o modifique la legislación reglamentaria correspondiente, en la inteligencia de que, en tanto esto último no se verifique, las solicitudes de modificación de jurisprudencia se tramitarán como solicitudes de sustitución de jurisprudencia, tomando en cuenta los requisitos y demás aspectos regulados en el artículo 197, párrafo último, de la Ley de Amparo.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE MAYO DE DOS MIL DOCE, D.O.F. 29 DE MAYO DE 2012)</small>
+
+CUARTO. El presente instrumento normativo podrá ser modificado, en lo conducente, con motivo de la entrada en vigor del Decreto del Congreso de la Unión en virtud del cual se expida o modifique la legislación reglamentaria correspondiente.
 
 QUINTO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
 
@@ -210,3 +212,15 @@ El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Juan N. Si
 El licenciado Rafael Coello Cetina, Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, CERTIFICA: Este ACUERDO GENERAL NUMERO 12/2011, DE DIEZ DE OCTUBRE DE DOS MIL ONCE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE DETERMINAN LAS BASES DE LA DECIMA EPOCA DEL SEMANARIO JUDICIAL DE LA FEDERACION, fue emitido por el Tribunal Pleno en Sesión Privada celebrada el día de hoy, por unanimidad de once votos de los señores Ministros Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, José Fernando Franco González Salas, Arturo Zaldívar Lelo de Larrea, Jorge Mario Pardo Rebolledo, Luis María Aguilar Morales, Sergio A. Valls Hernández, Olga Sánchez Cordero de García Villegas, Guillermo I. Ortiz Mayagoitia y Presidente Juan N. Silva Meza.- México, Distrito Federal, a diez de octubre de dos mil once.- Rúbrica.
 
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia fotostática constante de diecinueve fojas útiles concuerda fiel y exactamente con el original del Acuerdo General Plenario 12/2011, que obra en los archivos de la sección de instrumentos normativos de esta Secretaría General de Acuerdos y se expide para su publicación en el Diario Oficial de la Federación.- México, Distrito Federal, a once de octubre de dos mil once.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 29 DE MAYO DE 2012.
+
+PRIMERO. Este Instrumento Normativo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. A partir de la entrada en vigor del presente Instrumento Normativo, las solicitudes de modificación o de sustitución de jurisprudencia se tramitarán como solicitudes de modificación de jurisprudencia.
+
+TERCERO. En tanto entra en vigor la regulación que expida el legislador ordinario sobre la figura de la sustitución de jurisprudencia, las subsecciones del Semanario Judicial de la Federación que refieren a ésta, se denominarán "Por modificación.".
+
+CUARTO. Publíquese el presente Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y en medios electrónicos de consulta pública en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental; sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Acuerdo General Plenario 12/2011 en dichos medios electrónicos.
