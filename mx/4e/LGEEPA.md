@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2012-04-24"
+last_updated: "2012-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE MAYO DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -728,7 +728,9 @@ Se consideran instrumentos económicos los mecanismos normativos y administrativ
 
 Se consideran instrumentos económicos de carácter fiscal, los estímulos fiscales que incentiven el cumplimiento de los objetivos de la política ambiental. En ningún caso, estos instrumentos se establecerán con fines exclusivamente recaudatorios.
 
-Son instrumentos financieros los créditos, las fianzas, los seguros de responsabilidad civil, los fondos y los fideicomisos, cuando sus objetivos estén dirigidos a la preservación, protección, restauración o aprovechamiento sustentable de los recursos naturales y el ambiente, así como al financiamiento de programas, proyectos, estudios e investigación científica y tecnológica para la preservación del equilibrio ecológico y protección al ambiente.
+> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2012)</small>
+
+Son instrumentos financieros los créditos, las fianzas, los seguros de responsabilidad civil, los fondos y los fideicomisos, cuando sus objetivos estén dirigidos a la preservación, protección, restauración o aprovechamiento sustentable de los recursos naturales y el ambiente, así como al financiamiento de programas, proyectos, estudios, investigación científica, desarrollo tecnológico e innovación para la preservación del equilibrio ecológico y protección al ambiente.
 
 Son instrumentos de mercado las concesiones, autorizaciones, licencias y permisos que corresponden a volúmenes preestablecidos de emisiones de contaminantes en el aire, agua o suelo, o bien, que establecen los límites de aprovechamiento de recursos naturales, o de construcción en áreas naturales protegidas o en zonas cuya preservación y protección se considere relevante desde el punto de vista ambiental.
 
@@ -738,7 +740,9 @@ Las prerrogativas derivadas de los instrumentos económicos de mercado serán tr
 
 ARTICULO 22 BIS.- Se consideran prioritarias, para efectos del otorgamiento de los estímulos fiscales que se establezcan conforme a la Ley de Ingresos de la Federación, las actividades relacionadas con:
 
-I. La investigación, incorporación o utilización de mecanismos, equipos y tecnologías que tengan por objeto evitar, reducir o controlar la contaminación o deterioro ambiental, así como el uso eficiente de recursos naturales y de energía;
+> <small>(REFORMADA, D.O.F. 29 DE MAYO DE 2012)</small>
+
+I. La investigación científica y tecnológica, incorporación, innovación o utilización de mecanismos, equipos y tecnologías que tengan por objetivo evitar, reducir o controlar la contaminación o deterioro ambiental, así como el uso eficiente de recursos naturales y de energía;
 
 II. La investigación e incorporación de sistemas de ahorro de energía y de utilización de fuentes de energía menos contaminantes;
 
@@ -778,9 +782,17 @@ VI. Las autoridades de la Federación, los Estados, el Distrito Federal y los Mu
 
 VII. El aprovechamiento del agua para usos urbanos deberá incorporar de manera equitativa los costos de su tratamiento, considerando la afectación a la calidad del recurso y la cantidad que se utilice;
 
-VIII. En la determinación de áreas para actividades altamente riesgosas, se establecerán las zonas intermedias de salvaguarda en las que no se permitirán los usos habitacionales, comerciales u otros que pongan en riesgo a la población, y
+> <small>(REFORMADA, D.O.F. 29 DE MAYO DE 2012)</small>
 
-IX. La política ecológica debe buscar la corrección de aquellos desequilibrios que deterioren la calidad de vida de la población y, a la vez, prever las tendencias de crecimiento del asentamiento humano, para mantener una relación suficiente entre la base de recursos y la población, y cuidar de los factores ecológicos y ambientales que son parte integrante de la calidad de la vida.
+VIII. En la determinación de áreas para actividades altamente riesgosas, se establecerán las zonas intermedias de salvaguarda en las que no se permitirán los usos habitacionales, comerciales u otros que pongan en riesgo a la población;
+
+> <small>(REFORMADA, D.O.F. 29 DE MAYO DE 2012)</small>
+
+IX. La política ecológica debe buscar la corrección de aquellos desequilibrios que deterioren la calidad de vida de la población y, a la vez, prever las tendencias de crecimiento del asentamiento humano, para mantener una relación suficiente entre la base de recursos y la población, y cuidar de los factores ecológicos y ambientales que son parte integrante de la calidad de la vida, y
+
+> <small>(ADICIONADA, D.O.F. 29 DE MAYO DE 2012)</small>
+
+X. Las autoridades de la Federación, los Estados, el Distrito Federal y los Municipios, en la esfera de su competencia, deberán de evitar los asentamientos humanos en zonas donde las poblaciones se expongan al riesgo de desastres por impactos adversos del cambio climático.
 
 ###### ARTICULO 24.
 
@@ -1100,11 +1112,11 @@ La Secretaría mediante diversas acciones promoverá la generación de conocimie
 
 La Secretaría del Trabajo y Previsión Social, promoverá el desarrollo de la capacitación y adiestramiento en y para el trabajo en materia de protección al ambiente, y de preservación y restauración del equilibrio ecológico, con arreglo a lo que establece esta Ley y de conformidad con los sistemas, métodos y procedimientos que prevenga la legislación especial. Asimismo, propiciará la incorporación de contenidos ecológicos en los programas de las comisiones mixtas de seguridad e higiene.
 
-> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 41.
 
-El Gobierno Federal, las entidades federativas y los municipios con arreglo a lo que dispongan las legislaturas locales, fomentarán investigaciones científicas y promoverán programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación, propiciar el aprovechamiento racional de los recursos y proteger los ecosistemas, determinar la vulnerabilidad, así como las medidas de adaptación y mitigación al cambio climático. Para ello, se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones del sector social y privado, investigadores y especialistas en la materia.
+El Gobierno Federal, las entidades federativas y los municipios con arreglo a lo que dispongan las legislaturas locales, fomentarán la investigación científica, desarrollo tecnológico e innovación, asimismo promoverán programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación, propiciar el aprovechamiento sustentable de los recursos naturales, preservar, proteger y restaurar los ecosistemas para prevenir desequilibrios ecológicos y daños ambientales, determinar la vulnerabilidad, así como las medidas de adaptación y mitigación al cambio climático. Para ello, se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones del sector social y privado, investigadores y especialistas en la materia.
 
 #### SECCION IX. Información y Vigilancia
 
@@ -2282,7 +2294,9 @@ I. Adquieran, instalen u operen equipo para el control de emisiones contaminante
 
 II. Fabriquen, instalen o proporcionen mantenimiento a equipo de filtrado, combustión, control, y en general, de tratamiento de emisiones que contaminen la atmósfera;
 
-III. Realicen investigaciones de tecnología cuya aplicación disminuya la generación de emisiones contaminantes; y
+> <small>(REFORMADA, D.O.F. 29 DE MAYO DE 2012)</small>
+
+III. Realicen investigación científica y tecnológica e innovación, cuya aplicación disminuya la generación de emisiones contaminantes, y
 
 IV. Ubiquen o relocalicen sus instalaciones para evitar emisiones contaminantes en zonas urbanas.
 
@@ -3619,3 +3633,17 @@ Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin e
 D.O.F. 24 DE ABRIL DE 2012.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE MAYO DE 2012.
+
+DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN X AL ARTÍCULO 23 DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE.
+
+Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El titular del Poder Ejecutivo Federal en un plazo no mayor de 180 días posteriores a la entrada en vigor del presente decreto, deberá publicar el Atlas Nacional de Vulnerabilidad ante el Cambio Climático, con el fin de que las autoridades de la Federación, los Estados, el Distrito Federal y los Municipios, en la esfera de su competencia lo tomen en cuenta en la elaboración, actualización e implementación de sus programas de ordenamiento ecológico.
+
+D.O.F. 29 DE MAYO DE 2012.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 22, TERCER PÁRRAFO; 22 BIS, FRACCIÓN I; 41, Y 116, FRACCIÓN III DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
