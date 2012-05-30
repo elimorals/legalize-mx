@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-de-infraestructura-del-765
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-08-04"
-last_updated: "2010-08-04"
+last_updated: "2012-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76562&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE INFRAESTRUCTURA, DEL ESTADO DE CHIAPAS
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE INFRAESTRUCTURA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE INFRAESTRUCTURA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE INFRAESTRUCTURA DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. 30 DE MAYO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 4 de agosto de 2010.
 
@@ -2334,3 +2336,23 @@ Artículo Séxto.- En cumplimiento a lo dispuesto por el Artículo 8o, de la Ley
 Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 13 días del mes de mayo, del año dos mil diez.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- José Cuauhtémoc Ordaz Gordillo, Secretario de Infraestructura.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE MAYO DE 2012.
+
+Artículo Primero.- El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga el Reglamento Interior de la Secretaría de Infraestructura, publicado en el Periódico Oficial número 246, Tomo III, de fecha 04 de agosto de 2010; así como las disposiciones que del mismo emanen y se derogan todas aquellas otras que se opongan al presente Reglamento Interior.
+
+Artículo Tercero.- En los casos no previstos en el presente Reglamento Interior, y en los que se presente controversia en cuanto a su aplicación y observancia, el Secretario resolverá lo conducente.
+
+Artículo Cuarto.- En tanto se expide el Manual de Organización respectivo, el Secretario resolverá las incidencias de operación que se originen por la aplicación de este ordenamiento legal y/o respecto al funcionamiento de los órganos administrativos de la Secretaría.
+
+Artículo Quinto.- Las fianzas y los expedientes unitarios de los contratos de obras públicas en cualquiera de sus modalidades que tengan actualmente los órganos administrativos, deberán remitirse en un término de 30 treinta días hábiles, contados a partir de la publicación del presente Reglamento Interior, a la Dirección de Concursos y Contratos, quien será la responsable de integrar, controlar y resguardar el Archivo Único de Expedientes Unitarios de Obra, que estén bajo la responsabilidad de la Secretaría.
+
+Artículo Sexto.- Al momento de entrar en vigor el presente Reglamento, el Secretario podrá determinar que uno o varios asuntos en trámite, lo continúen atendiendo los órganos administrativos que los tenían a su cargo, o bien, pasen a la atención de los que legalmente competa, según las disposiciones contenidas en el presente ordenamiento.
+
+Artículo Séptimo.- El Secretario deberá establecer dentro de su estructura orgánica, la Unidad Interna de Protección Civil, la cual adoptará las medidas encaminadas a instrumentar, en el ámbito de sus funciones, la ejecución de los programas de protección civil dentro de la Secretaría, de conformidad con la Ley de Protección Civil para el Manejo Integral de Riesgos de Desastres del Estado de Chiapas y demás disposiciones aplicables.
+
+Artículo Octavo.- En cumplimiento a lo dispuesto por el Artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento Interior en el Periódico Oficial del Estado.
