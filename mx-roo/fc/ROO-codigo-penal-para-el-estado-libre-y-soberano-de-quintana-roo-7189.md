@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2010-12-13"
+last_updated: "2012-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
+CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -303,7 +303,7 @@ Cuando se trate de penas no privativas o restrictivas de la libertad, el tratami
 
 ### CAPITULO VI. MULTA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 24.
 
@@ -315,7 +315,7 @@ La duración de la semilibertad no podrá exceder de la correspondiente a la pen
 
 ### CAPITULO VII. REPARACION DE DAÑOS Y PERJUICIOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 25.
 
@@ -553,7 +553,7 @@ La intervención consiste en la remoción de sus cargos a los administradores de
 
 Cuando se imponga la intervención, el interventor o interventores tendrán todas las facultades y obligaciones correspondientes al órgano de administración de la persona jurídica y ejercerán privativamente la administración de la misma, por todo el tiempo fijado en la sentencia y, además podrán solicitar la declaración de quiebra o concurso de la persona jurídica en los casos que proceda conforme a la Ley.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPITULO II. PUNIBILIDAD DE LOS DELITOS CULPOSOS Y PRETERINTENCIONALES
 
@@ -821,7 +821,7 @@ En los demás casos, la acción penal prescribirá en dos años.
 
 Bis.- Cuando se trate de los delitos previstos en los Artículos 127, 129, 130, 130 Bis, 130 Ter, 176, 191, 192 Bis, 192 Ter, 192 Quáter, 193 y 194 de este Código, cometidos en contra de menores de edad, la acción penal será imprescriptible.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 79.
 
@@ -895,19 +895,63 @@ Al que dolosamente prive de la vida a cualquier ascendiente o descendiente en l�
 
 A los sentenciados por el delito previsto en este artículo, no se le concederán ninguno de los beneficios comprendidos en la Ley de Normas Mínimas para la Readaptación Social de Sentenciados en el Estado de Quintana Roo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 89.
 
-Se impondrá prisión de veinticinco a cincuenta años o prisión vitalicia y de mil quinientos a tres mil días multa al responsable de homicidio calificado previsto en el artículo 106.
+Se impondrá prisión de veinticinco a cincuenta años y de mil quinientos a tres mil días multa al responsable de homicidio calificado previsto en el artículo 106.
 
-> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
-
-A quien prive de la vida a otra persona por su condición de género se le impondrá la pena del homicidio calificado.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE MAYO DE 2012)</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2010)</small>
 
 A los sentenciados por el delito previsto en este artículo, no se le concederán ninguno de los beneficios comprendidos en la Ley de Normas Mínimas para la Readaptación Social de Sentenciados en el Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2012)</small>
+
+###### ARTICULO 89
+
+BIS.- Comete delito de feminicidio, el que dolosamente prive de la vida a una mujer por razones de género. Se le impondrá prisión de veinticinco a cincuenta años y de mil quinientos a tres mil días multa.
+
+Existen razones de género cuando se presente cualquiera de los siguientes supuestos:
+
+I.- Que existan antecedentes de que el sujeto activo haya ejercido sobre la víctima violencia familiar en términos del artículo 176 bis del Código Penal;
+
+II.- Que el cuerpo de la víctima presente signos de violencia sexual de cualquier tipo;
+
+III.- Que a la víctima se le haya infligido lesiones infamantes, degradantes o mutilaciones, previa o posteriormente a la privación de la vida;
+
+IV.- Que existan antecedentes de acoso u hostigamiento sexual ejercidos por el activo contra la víctima;
+
+V.- Que el cuerpo de la víctima sea exhibido públicamente con la evidente intención de demostrar el odio que el activo tenía hacia la víctima por ser mujer;
+
+VI.- Que el activo haya obligado a la víctima a ejercer la prostitución, o haya ejercido actos de trata de personas en agravio de la víctima.
+
+Además de la sanción anterior el sujeto activo perderá todos los derechos con relación a la víctima, incluido los de carácter sucesorio.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2012)</small>
+
+###### ARTICULO 89
+
+TER.- Se impondrán de dos a cinco años de prisión, de mil a cinco mil días multa y destitución e inhabilitación del cargo o comisión de cinco a diez años, al servidor público que con motivo de sus funciones y atribuciones conozca del delito señalado en el artículo anterior y realice cualquiera de las siguientes conductas:
+
+I.- Omita realizar las diligencias y actuaciones correspondientes para integrar la carpeta de investigación, en los términos que establecen el Código Penal para el Estado Libre y Soberano de Quintana Roo y el Código Procesal Penal para el Estado Libre y Soberano de Quintana Roo, sin causa justificada;
+
+II.- Efectúe actos de discriminación, coacción e intimidación, contra el denunciante u ofendido del delito; o
+
+III.- Intencionalmente, realice prácticas dilatorias en la procuración o administración de justicia, sin causa justificada.
+
+###### Artículo 89
+
+Ter.- .
+
+I.- Omita realizar las diligencias y actuaciones correspondientes a la integración de la averiguación previa en los términos que establecen el Código Penal para el Estado Libre y Soberano de Quintana Roo y el Código de Procedimientos Penales para el Estado Libre y Soberano de Quintana Roo, sin causa justificada;
+
+II.- .
+
+III.- .
+
+SEGUNDO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 ###### ARTICULO 90.
 
@@ -1103,7 +1147,7 @@ Al que sabiendo que padece algún mal grave y transmisible ponga por cualquier m
 
 Si el peligro de contagio se da entre cónyuges o concubinos, solo se procederá por querella de la víctima o del ofendido.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2009)</small>
 
 ### CAPITULO III. RAPTO
 
@@ -1129,7 +1173,7 @@ QUÁTER.- Comete el delito de esterilidad provocada, quien sin el consentimiento
 
 Este delito se sancionará con una pena de cuatro a siete años de prisión y multa de cuarenta a ciento veinte días, más la reparación del daño.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE JUNIO DE 2009)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE JUNIO DE 2009)</small>
 
 Disposiciones comunes para los Delitos contra los Derechos Reproductivos
 
@@ -1283,7 +1327,7 @@ Si el sujeto activo fuese servidor público, docente o parte del personal admini
 
 Al que reincidiere en la comisión de este delito, se le aplicará el doble de la pena de prisión señalada en los párrafos anteriores y quinientos días de multa.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 126.
 
@@ -1291,13 +1335,13 @@ Al que sin consentimiento del que tenga derecho a otorgarlo revele un secreto qu
 
 Cuando el secreto se revele o se use en beneficio propio o ajeno por persona que preste servicios profesionales o técnicos, o por servidor público, o si el secreto fuere de carácter científico o industrial, la pena se aumentará hasta una mitad más.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ## TITULO CUARTO. DELITOS CONTRA LA LIBERTAD Y SEGURIDAD SEXUAL
 
 ### CAPITULO V. HOSTIGAMIENTO SEXUAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ARTICULO 130 TER.- A quien asedie o acose sexualmente a persona de cualquier sexo o solicite favores de naturaleza sexual, para sí o para un tercero, valiéndose de su posición jerárquica derivada de relaciones laborales, docentes, domésticas o cualquier otra que implique una posición de poder, de autoridad o ambas del activo para con el pasivo, se le impondrá de uno a dos años de prisión y de trescientos a quinientos días multa.
 
@@ -1313,7 +1357,7 @@ Al que reincidiere en la comisión de este delito, se le aplicará el doble de l
 
 Si el sujeto activo fuese servidor público, docente o parte del personal administrativo de cualquier institución educativa o de asistencia social, el delito será perseguible de oficio, y además de las penas señaladas, se le destituirá del cargo y se le inhabilitará para ocupar cualquier otro en el sector público hasta por dos años; en caso de reincidencia, la inhabilitación será definitiva.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 127.
 
@@ -1325,7 +1369,7 @@ Al que realice cópula por medio de la violencia física o moral con persona may
 
 A los sentenciados por el delito de violación previsto en este artículo no se le concederán los beneficios comprendidos en la Ley de Normas Mínimas para la Readaptación Social de Sentenciados en el Estado de Quintana Roo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 128.
 
@@ -1351,7 +1395,7 @@ IV.- Cuando la violación sea cometida aprovechando la confianza depositada en e
 
 A los sentenciados por el delito de violación previsto en este artículo no se le concederán los beneficios comprendidos en la Ley de Normas Mínimas para la Readaptación Social de Sentenciados en el Estado de Quintana Roo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE OCTUBRE DE 2006)</small>
 
 ### CAPITULO VI. APROVECHAMIENTO SEXUAL
 
@@ -1363,7 +1407,7 @@ Igual pena se aplicará al que imponga la misma condición a que se refiere el p
 
 El delito previsto en este artículo se perseguirá por querella.
 
-(REUBICADO [N. DE E. ANTES CAPITULO VI], P.O. 30 DE NOVIEMBRE DE 2010)
+(REUBICADO [N. DE E. ANTES CAPÍTULO VI], P.O. 30 DE NOVIEMBRE DE 2010)
 
 ###### ARTICULO 129.
 
@@ -1387,7 +1431,7 @@ El delito previsto en este artículo solo será perseguido por querella de parte
 
 Al que en el ejercicio de sus funciones, valiéndose de su posición jerárquica derivada de sus relaciones laborales, docentes, domésticas o cualquier otra que implique subordinación, cometa el delito de estupro, se le impondrá de cinco a diez años de prisión y de cuatrocientos a seiscientos días multa.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
 ### CAPITULO II (SIC). CALUMNIA
 
@@ -1417,7 +1461,7 @@ ARTICULO 131 TER (SIC).- Los docentes, las autoridades educativas de los centros
 
 Una vez que tenga conocimiento el Ministerio Público de los delitos señalados en los artículos 130 Bis y 130 Ter de este Código, deberá solicitar a las autoridades educativas de los Centros Escolares y del Gobierno relacionadas con la materia, realicen las acciones necesarias para evitar que el delito se siga cometiendo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ## TITULO QUINTO. DELITOS CONTRA LA DIGNIDAD DE LAS PERSONAS
 
@@ -1839,7 +1883,7 @@ Si el Juez lo creyere conveniente, además, de las penas previstas para cada uno
 
 ### CAPITULO VIII. VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ARTICULO 176 BIS.- Se entiende por violencia familiar el acto u omisión intencional realizado con el fin de dominar, someter o controlar, produciendo violencia física, psicológica, sexual, económica, patrimonial o moral a cualquiera de las personas señaladas en las fracciones del artículo 176 Ter del presente Código, dentro o fuera del domicilio familiar, independientemente de que pueda o no producir otro delito. Para los efectos de este Capítulo se entiende por:
 
@@ -1861,7 +1905,7 @@ VIOLENCIA PATRIMONIAL.- Es cualquier acto u omisión que afecta la supervivencia
 
 VIOLENCIA ECONÓMICA.- Es toda acción u omisión del agresor que afecta la supervivencia económica de la victima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 167.
 
@@ -1895,7 +1939,7 @@ En los delitos previstos por este Capítulo, solo podrá reclamarse como reparac
 
 El monto de la reparación del daño que se señale como fianza para obtener la libertad o bien la conmutación de la pena, será entregado íntegramente al pasivo o pasivos del delito por sí o través de quien legalmente los represente; esto con el fin de pagar los alimentos adecuados.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE OCTUBRE DE 2006)</small>
 
 ### CAPITULO UNICO. DELITO CONTRA EL RESPETO A LOS MUERTOS Y CONTRA LAS NORMAS DE INHUMACION
 
@@ -1915,7 +1959,7 @@ Si el agente devuelve a la persona menor de dieciocho años dentro de los cinco 
 
 Tratándose de abuelos solo procederá, cuando no existan padres que ejerzan la patria potestad y cesará toda acción para perseguirlo cuando se haga el aviso o notificación correspondiente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE JUNIO DE 2009)</small>
 
 ### CAPITULO I. PELIGRO DE DEVASTACION
 
@@ -1987,7 +2031,7 @@ A los parientes consanguíneos, sean ascendientes, descendientes o hermanos, que
 
 Si resultan hijos a consecuencia de la comisión de este delito, la reparación del daño comprenderá además, el pago de alimentos para éstos en los términos que fija el Código Civil.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPITULO I (SIC). ATAQUES A LAS VIAS DE COMUNICACION Y A LOS MEDIOS DE TRANSPORTE
 
@@ -2031,7 +2075,7 @@ VIII.- Cualquier menor de edad, incapaz, discapacitado o anciano, que esté suje
 
 IX.- La persona con la que tuvo relación conyugal, de concubinato o de pareja unida fuera del matrimonio en época anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ARTICULO 176 QUÁTER. Al que cometa el delito de violencia familiar se le impondrá de seis meses a cinco años de prisión, pérdida de la patria potestad o pérdida de la custodia, de los derechos hereditarios y de alimentos, y en su caso a juicio del juez, prohibición de ir a una circunscripción territorial determinada o de residir en ella; y si de la comisión de la violencia familiar resultare como consecuencia la comisión de otro u otros delitos tipificados por este Código, se aplicarán las reglas del concurso de que se trate.
 
@@ -2213,11 +2257,11 @@ En el caso de que se actualicen otros delitos con motivo de las conductas a que 
 
 Al que, sin serlo, se atribuya el carácter de profesionista, ofrezca públicamente sus servicios como tal, realice actividades propias de una profesión sin tener el título correspondiente exigido por la Ley, o se ostente por medio de placas, tarjetas, papel membretado, anuncios u otra forma de publicidad para ofertar dichos servicios, obtener algún beneficio o causar algún daño, se aplicará prisión de uno a cinco años y de cincuenta a doscientos días de salario.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE OCTUBRE DE 2006)</small>
 
 ## TITULO CUARTO. DELITOS CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE OCTUBRE DE 2006)</small>
 
 ### CAPITULO III. REBELION
 
@@ -2231,7 +2275,7 @@ Se aumentará la pena privativa de libertad hasta en una mitad más al que oblig
 
 (DEROGADO, P.O. 10 DE DICIEMBRE DE 2010)
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 20 DE OCTUBRE DE 2006)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE OCTUBRE DE 2006)</small>
 
 PORNOGRAFIA INFANTIL
 
@@ -2267,7 +2311,7 @@ II. Con o sin fines de lucro, elabore, reproduzca, distribuya, venda, arriende, 
 
 III. Dirija, administre o supervise cualquier tipo de banda u organización por sí o a través de terceros, con el propósito de que se realicen las conductas relacionadas con actos de exhibicionismo corporal o de pornografía mencionados en las fracciones y en el Artículo anterior.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 20 DE OCTUBRE DE 2006)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE OCTUBRE DE 2006)</small>
 
 TURISMO SEXUAL INFANTIL
 
@@ -2295,7 +2339,7 @@ Al que sin ánimo de lucro o de explotación concierte o facilite la explotació
 
 Para el delito de trata de personas, se atenderá a lo dispuesto por la Ley para Prevenir, Combatir y Sancionar la Trata de Personas del Estado de Quintana Roo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO VI. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TITULO
 
@@ -2323,7 +2367,7 @@ TER.- Se sancionará con prisión de uno a cinco años y de doscientos a trescie
 
 QUÁTER.- Se sancionará con prisión de tres a seis años e inhabilitación del cargo por un período de seis meses a tres años, si el agente que comete las conductas previstas en los Artículos 194 BIS y 194 TER, es servidor público, profesionista o auxiliar, en el ejercicio de su actividad.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE JUNIO DE 2009)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE JUNIO DE 2009)</small>
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
@@ -2609,7 +2653,7 @@ I.- Sin ser servidor público se atribuya ese carácter y ejerza alguna de las f
 
 II.- Usare uniforme, insignia, distintivo o condecoración a que no tenga derecho, con el propósito de obtener un beneficio indebido o lesionar la dignidad o respeto de la corporación o de la investidura a que correspondan aquéllos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPITULO V. INFIDELIDAD DE LA CUSTODIA DE DOCUMENTOS
 
@@ -2695,7 +2739,7 @@ Al que después de la ejecución de la conducta o hecho calificados por la Ley c
 
 La misma pena se aplicará a quien requerido por la autoridad, no dé auxilio para la investigación de los delitos o para la persecución de los delitos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 232.
 
@@ -2751,7 +2795,7 @@ V.- Pida términos para probar lo que notoriamente no puede probar o no ha de ap
 
 VI.- Como defensor sea particular o de oficio sólo se concrete a aceptar el cargo y a solicitar la libertad caucional que menciona la fracción I del Artículo 20 de la Constitución, sin promover más pruebas ni dirigir al inculpado en su defensa.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ## TITULO I (SIC). USURPACION DE FUNCIONES
 
@@ -3027,7 +3071,7 @@ III.- Destine fondos o bienes que tenga a su disposición en virtud de su cargo,
 
 Se impondrá sanción de suspensión de sus derechos políticos hasta por seis años a quienes habiendo sido electos para un puesto Estatal o Municipal, no se presenten sin causa justificada a juicio del Colegio Electoral, a desempeñar el cargo dentro del plazo señalado por la Constitución Política del Estado de Quintana Roo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 268.
 
@@ -3119,7 +3163,7 @@ EL SECRETARIO DE GOBIERNO.
 
 ING. JUAN MANUEL MERCADER RODRIGUEZ.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 29 DE DICIEMBRE DE 2000.
 
@@ -3169,13 +3213,13 @@ P.O. 1 DE DICIEMBRE DE 2008.
 
 P.O. 30 DE JUNIO DE 2009.
 
-DECRETO NUMERO 155, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 148, 148 BIS, 148 TER, 149, 149 BIS, 149 TER Y 149 QUATER, DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+DECRETO NUMERO 155, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 148, 148 BIS, 148 TER, 149, 149 BIS, 149 TER Y 149 QUÁTER, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 P.O. 30 DE JUNIO DE 2009.
 
-DECRETO NUMERO 156, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 172, 172 BIS Y TER, 194 Y 194 QUINQUIES, DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+DECRETO NUMERO 156, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 172, 172 BIS Y TER, 194 Y 194 QUINQUIES, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -3183,7 +3227,7 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 
 P.O. 30 DE JUNIO DE 2009.
 
-DECRETO NUMERO 157, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 167, 169 Y 170 DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+DECRETO NUMERO 157, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 167, 169 Y 170 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
 
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
@@ -3231,7 +3275,7 @@ TRANSITORIO:
 
 P.O. 30 DE JUNIO DE 2010.
 
-DECRETO NUMERO 291, POR EL QUE SE REFORMA EL ARTICULO 156 DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+DECRETO NUMERO 291, POR EL QUE SE REFORMA EL ARTÍCULO 156 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
@@ -3243,7 +3287,7 @@ TRANSITORIO:
 
 P.O. 30 DE JUNIO DE 2010.
 
-DECRETO NUMERO 292, POR EL QUE SE REFORMAN LOS ARTICULOS 86, 87, 88, 89, 127 Y 128 DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+DECRETO NÚMERO 292, POR EL QUE SE REFORMAN LOS ARTÍCULOS 86, 87, 88, 89, 127 Y 128 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3267,7 +3311,7 @@ T R A N S I T O R I O:
 
 P.O. 30 DE NOVIEMBRE DE 2010.
 
-DECRETO NUMERO 359, POR EL QUE SE MODIFICAN DIVERSOS ARTICULOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+DECRETO NÚMERO 359, POR EL QUE SE MODIFICAN DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
@@ -3281,7 +3325,7 @@ TRANSITORIO:
 
 P.O. 30 DE NOVIEMBRE DE 2010.
 
-DECRTO NUMERO 360, POR EL QUE SE ADICIONA EL TITULO DECIMO PRIMERO DENOMINADO DELITOS CONTRA EL DESARROLLO URBANO DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+DECRETO NÚMERO 360, POR EL QUE SE ADICIONA EL TÍTULO DÉCIMO PRIMERO DENOMINADO DELITOS CONTRA EL DESARROLLO URBANO DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
@@ -3310,3 +3354,7 @@ P.O. 13 DE DICIEMBRE DE 2010.
 T R A N SI T O R I O:
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 30 DE MAYO DE 2012.
+
+PRIMERO.- En el caso de las Averiguaciones Previas que deba iniciar la Procuraduría de Justicia del Estado, con motivo de la persecución del delito de feminicidio, antes de la vigencia del nuevo Código Procesal para el Estado Libre y Soberano de Quintana Roo, se aplicará la fracción I del Artículo 89 Ter, conforme al siguiente texto:
