@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2012-02-22"
+last_updated: "2012-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2012.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -88,6 +88,10 @@ VIII. Se establecerán sistemas electrónicos de consulta estatales y municipale
 
 Es derecho de todos los morelenses, acceder a la sociedad de la información y el conocimiento, como una política prioritaria del Estado, a fin de lograr una comunidad integrada y comunicada, en la que cada uno de los morelenses pueda tener acceso libre y universal al internet como un derecho fundamental para su pleno desarrollo, en un entorno de igualdad de oportunidades, con respeto a su diversidad, preservando su identidad cultural y orientada a su crecimiento personal, que permita un claro impacto de beneficios en la educación, la salud, la seguridad, el desarrollo económico, el turismo, la transparencia, la cultura y los trámites gubernamentales.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2012)</small>
+
+El Estado reconoce al turismo como base fundamental y prioritaria del desarrollo estatal, destinándole en el Presupuesto de Egresos recursos necesarios para el cumplimiento y desarrollo de los programas relacionados con el rubro. La ley secundaria determinará la forma y condiciones para su cumplimiento.
+
 > <small>(ADICIONADO, P.O. 20 DE JULIO DE 2005)</small>
 
 ###### Artículo 2
@@ -122,7 +126,7 @@ XI. La ley reconocerá a los integrantes de los pueblos y comunidades indígenas
 
 XII. De conformidad con el artículo 2 de la Constitución Política de los Estados Unidos Mexicanos, el Estado y los municipios, con la participación de las comunidades, establecerán las instituciones y las políticas para garantizar el desarrollo humano y social de los pueblos y comunidades indígenas. La ley incorporará las bases que la Constitución Federal y la presente Constitución refieren, así como establecerá los mecanismos y procedimientos para el cumplimiento de esta obligación en los siguientes aspectos:
 
-a) Impulsar al desarrollo regional y Local:
+a) Impulsar al desarrollo regional y Local;
 
 b) Garantizar e incrementar los niveles de escolaridad, favoreciendo la educación bilingüe e intercultural, la alfabetización, la conclusión de la educación básica, la capacitación productiva y la educación media y superior;
 
@@ -1684,9 +1688,13 @@ XXXIX.- Incluir anualmente, dentro de la iniciativa de Presupuesto de Egresos de
 
 XL.- Informar trimestralmente al Congreso, sobre el ejercicio de las partidas correspondientes a los montos y conceptos de endeudamiento autorizado y con relación a la situación de la deuda pública estatal, al rendir la cuenta pública. Incluyendo, asimismo, información detallada sobre los contratos de colaboración público privada en vigor y sobre la afectación de sus ingresos, como fuente o garantía de pago, o en cualquier otra forma, en términos de las leyes aplicables, en su caso.
 
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2012)</small>
+
+XLI.- Dirigir la política turística estatal y presidir el Consejo Estatal de Turismo, la ley establecerá los términos en que se integrará el mismo. En tal conducción de tal política, el Titular del Poder Ejecutivo observará los principios de sustentabilidad, competitividad, desarrollo social y seguridad integral a la inversión productiva.
+
 > <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-XLI.- Las demás que la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución, las leyes federales o las del Estado le atribuyan.
+XLII.- Las demás que la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución, las leyes federales o las del Estado le atribuyan.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -2328,7 +2336,7 @@ DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2008)</small>
 
-Artículo 109 BIS.- La justicia administrativa estatal se deposita en un Tribunal de lo Contencioso Administrativo, dotado de plena jurisdicción y autonomía para dictar sus fallos. Este órgano jurisdiccional conocerá y resolverá las controversias de carácter administrativo y fiscal, que se susciten entre la administración pública estatal o municipal, sus organismos auxiliares estatales o municipales y los particulares. En ningún caso el Tribunal de lo Contencioso Administrativo será competente para conocer y resolver sobre los actos y resoluciones que dicte la Auditoría Superior de Fiscalización del Congreso del Estado.
+Artículo 109 BIS.- La justicia administrativa estatal se deposita en un Tribunal de lo Contencioso Administrativo, dotado de plena jurisdicción y autonomía para dictar sus fallos. Este Órgano jurisdiccional conocerá y resolverá las controversias de carácter administrativo y fiscal, que se susciten entre la administración pública estatal o municipal, sus organismos auxiliares estatales o municipales y los particulares. En ningún caso el Tribunal de lo Contencioso Administrativo será competente para conocer y resolver sobre los actos y resoluciones que dicte la Auditoría Superior de Fiscalización del Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -2484,9 +2492,9 @@ DEL MUNICIPIO LIBRE.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO VII.
+### CAPITULO V.
 
-DE LOS REQUISITOS DE ELEGIBILIDAD.
+DE SU HACIENDA.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -2508,9 +2516,9 @@ La justicia de paz estará a cargo de los Jueces que señale la Ley Orgánica de
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO V.
+### CAPITULO VI.
 
-DE SU HACIENDA.
+DE SUS ATRIBUCIONES EN MATERIA DE USO DE SUELO.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -2536,9 +2544,9 @@ Los Presidentes Municipales, los Síndicos y los Regidores, así como los demás
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO VI.
+### CAPITULO VII.
 
-DE SUS ATRIBUCIONES EN MATERIA DE USO DE SUELO.
+DE LOS REQUISITOS DE ELEGIBILIDAD.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -2591,6 +2599,10 @@ IX.- Los demás que la ley determine, según las condiciones territoriales y soc
 Los Ayuntamientos con sujeción a la normatividad aplicable, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. En este caso y tratándose de la asociación de municipios del Estado y de otro o más Estados, deberán contar con la aprobación de las legislaturas correspondientes. Así mismo cuando a juicio del Ayuntamiento respectivo, sea necesario, podrá celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio municipio, sujetándose también a la ley o leyes respectivas.
 
 Sin perjuicio de su competencia constitucional, en el desempeño de sus funciones o la prestación de los servicios a su cargo, los Ayuntamientos observarán lo dispuesto en las leyes federales y estatales.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2012)</small>
+
+Los Ayuntamientos deberán otorgar capacitación turística a los ciudadanos residentes y avecindados en su ámbito territorial, en términos de lo señalado en el artículo 30 fracción II de la Constitución Política Federal.
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -3000,7 +3012,7 @@ Tanto la declaración del Congreso como la resolución del Tribunal Superior de 
 
 ###### Artículo 140.
 
-Si un Servidor Público de los señalados en el Artículo 136 son sentenciados encontrándolos penalmente responsables de un delito cometido en el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
+Si un Servidor Público de los señalados en el Artículo 136 son sentenciados (sic) encontrándolos penalmente responsables de un delito cometido en el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
@@ -3072,7 +3084,7 @@ Esta Constitución no perderá su fuerza y vigor aun cuando por alguna rebelión
 
 ###### Artículo 151.
 
-Para el ejercicio de la facultad que el artículo 135 de la Constitución Política de los Estados Unidos Mexicanos, confiere a la legislatura local, las minutas correspondientes de reforma o adición aprobadas por el Congreso de la Unión, deberán aprobarse mediante votación nominal de las dos terceras partes de los miembros de la Cámara presentes.
+Para el ejercicio de la facultad que el artículo 135 de la Constitución Política de los Estados Unidos Mexicanos, confiere a la Legislatura local, las minutas correspondientes de reforma o adición aprobadas por el Congreso de la Unión, deberán aprobarse mediante votación nominal de las dos terceras partes de los miembros de la Cámara presentes.
 
 T R A N S I T O R I O S.
 
@@ -3814,7 +3826,7 @@ SEGUNDO. Remítase el presente Decreto, al Titular del Poder Ejecutivo Estatal p
 
 TERCERO. Los actuales integrantes del Consejo Consultivo de la Comisión Estatal de Derechos Humanos continuarán en su encargo hasta en tanto el Congreso del Estado, elija a los nuevos integrantes que conformarán el Consejo Consultivo, en términos del artículo subsiguiente.
 
-CUARTO. En términos de la parte considerativa, en caso de que a la fecha de inicio de vigencia del presente decreto, exista Presidente de la Comisión Estatal de Derechos Humanos en funciones, éste durará en su cargo hasta en tanto el Congreso del Estado, elija al nuevo Presidente del órgano constitucional que se crea. De igual forma, para el caso de no que (sic) exista designación o ratificación de Presidente de la citada comisión en la fecha mencionada, el Congreso del Estado, hará la designación correspondiente en un término no mayor a los treinta días naturales posteriores a la publicación del presente decreto por única ocasión, para lo cual la Junta de Coordinación Política emitirá convocatoria en los principales medios de comunicación en el Estado, para el efecto de que las organizaciones no gubernamentales, asociaciones civiles, y la población en general presenten sus propuestas sustentadas documentalmente, estableciéndose en dicha convocatoria las bases sobre las cuales se desarrollará este proceso. Hecho lo anterior, emitirá dictamen para que sea sometido a consideración del Pleno de la Asamblea y se designe tanto al Presidente como a los Consejeros de la Comisión de Derechos Humanos del Estado de Morelos.
+CUARTO. En términos de la parte considerativa, en caso de que a la fecha de inicio de vigencia del presente decreto, exista Presidente de la Comisión Estatal de Derechos Humanos en funciones, éste durará en su cargo hasta en tanto el Congreso del Estado, elija al nuevo Presidente del órgano constitucional que se crea. De igual forma, para el caso de (sic) no exista designación o ratificación de Presidente de la citada comisión en la fecha mencionada, el Congreso del Estado, hará la designación correspondiente en un término no mayor a los treinta días naturales posteriores a la publicación del presente decreto por única ocasión, para lo cual la Junta de Coordinación Política emitirá convocatoria en los principales medios de comunicación en el Estado, para el efecto de que las organizaciones no gubernamentales, asociaciones civiles, y la población en general presenten sus propuestas sustentadas documentalmente, estableciéndose en dicha convocatoria las bases sobre las cuales se desarrollará este proceso. Hecho lo anterior, emitirá dictamen para que sea sometido a consideración del Pleno de la Asamblea y se designe tanto al Presidente como a los Consejeros de la Comisión de Derechos Humanos del Estado de Morelos.
 
 QUINTO. En un término máximo de sesenta días hábiles siguientes al inicio de vigencia de la presente, el Congreso del Estado deberá expedir la ley reglamentaria que regule el funcionamiento y atribuciones de la Comisión de Derechos Humanos del Estado de Morelos, mientras tanto, ésta ejercerá sus atribuciones y competencias conforme a lo dispuesto por el presente Decreto y los ordenamientos vigentes en lo que no se contravengan, hasta dicha expedición de la ley reglamentaria.
 
@@ -3848,7 +3860,7 @@ Aprobado que sea el presente dictamen por las dos terceras partes del Honorable 
 
 ###### ARTÍCULO SEGUNDO.
 
-El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "(sic) Tierra y Libertad, órgano de difusión del Gobierno del Estado.
+El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial " (sic)Tierra y Libertad, órgano de difusión del Gobierno del Estado.
 
 ###### ARTÍCULO TERCERO.
 
@@ -4177,3 +4189,21 @@ TERCERO.- Una vez entrada en vigor la presente disposición constitucional, el C
 > <small>(ADICIONADO DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO DE REFORMA NÚMERO MIL SEISCIENTOS CUARENTA Y NUEVE, P.O. 22 DE FEBRERO DE 2012)</small>
 
 QUINTO (SIC).- Una vez entrada en vigor la presente disposición constitucional, el Congreso del Estado, tendrá un plazo de 60 días naturales, para realizar las reformas correspondientes a la Ley Orgánica de la Administración Pública del Estado de Morelos, a efecto de armonizar sus disposiciones con el texto constitucional.
+
+P.O. 30 DE MAYO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Aprobado que sea el presente decreto y a efecto de dar cumplimiento a lo dispuesto en el Artículo 147, de la Constitución Política del Estado de Morelos, remítase a los Ayuntamientos del Estado, con la finalidad de que se pronuncien respecto de la reforma del artículo 2 de la Constitución Política del Estado Libre y Soberano de Morelos, junto con el dictamen y los debates que se hayan generado.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez hecho el cómputo de los votos que hayan emitido los ayuntamientos, hágase la declaratoria correspondiente con el propósito de que la reforma a la Constitución, sea parte de la misma.
+
+###### ARTÍCULO TERCERO.
+
+Aprobado el presente, remítase para su publicación en el Periódico Oficial Tierra y Libertad órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO CUARTO.
+
+La (sic) presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Morelos.
