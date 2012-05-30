@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-penales-para-el-estado-libre-y-6909"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2011-09-23"
+last_updated: "2012-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "OAX"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
+CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2006, 5 DE SEPTIEMBRE DE 2009, 2 DE MARZO DE 2010, 23 DE AGOSTO DE 2010 Y 5 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO EN LOS TERMINOS DEL TRANSITORIO PRIMERO DEL NUEVO CODIGO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2006, 5 DE SEPTIEMBRE DE 2009, 2 DE MARZO DE 2010, 23 DE AGOSTO DE 2010 Y 5 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO EN LOS TÉRMINOS DEL TRANSITORIO PRIMERO DEL NUEVO CÓDIGO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2012.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -63,7 +63,7 @@ III.- El de instrucción, que comprende las diligencias practicadas ante los Tri
 
 IV.- El de juicio, durante el cual el Ministerio Público precisa su acusación y el acusado su defensa ante los Tribunales y éstos valoran las pruebas y pronuncian sentencia definitiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2000)</small>
 
 ###### Art. 2o.
 
@@ -77,9 +77,9 @@ II.- Practicar las diligencias previas, ordenando sin demora la realización de 
 
 Procederá a acordonar el escenario del delito con auxilio de la policía ministerial, para evitar se pierdan, destruyan o alteren las huellas o vestigios del hecho, dando intervención inmediata a los peritos y procediendo a la detención del inculpado si hubiere flagrancia;
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 1995)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
 
-III.- Solicitar al órgano jurisdiccional las medidas precautorias de arraigo, aseguramiento o embargo que resulten indispensable para la averiguación previa, así como las órdenes de cateo que procedan;
+III.- Solicitar al órgano jurisdiccional las medidas precautorias de aseguramiento o embargo que resulten indispensable (sic) para la averiguación previa, así como las órdenes de cateo que procedan;
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 1995)</small>
 
@@ -205,9 +205,9 @@ Las consignaciones que se hagan por las autoridades ante el Ministerio Público,
 
 DE LA ASISTENCIA MEDICA A LESIONADOS Y ENFERMOS.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2010)</small>
 
 ###### Art. 15.
 
@@ -241,15 +241,17 @@ En los casos de los dos artículos anteriores el Ministerio Público ordenará q
 
 Los funcionarios que practiquen la averiguación previa podrán citar para que declaren sobre los hechos que se averigüen, a las personas que por cualquier concepto participen en ellos o aparezcan que tengan datos sobre los mismos. En el Acta se hará constar quién mencionó a la persona que haya de citarse o porqué motivo el Funcionario o Agente que practique las diligencias estime conveniente hacer la citación.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2012)</small>
 
 ###### Art. 19 Bis.
 
-La autoridad judicial podrá a petición del ministerio público, decretar el arraigo domiciliario o imponer la prohibición de abandonar una demarcación geográfica sin su autorización, a la persona en contra de quien se prepare el ejercicio de la acción penal, siempre y cuando exista el riesgo fundado de que se sustraiga de la acción de la justicia y se trate de delito grave. Corresponderá al Ministerio Público y a sus auxiliares vigilar que el mandato de la autoridad judicial sea debidamente cumplido.
+La autoridad judicial podrá a petición del ministerio público imponer la prohibición de abandonar una demarcación geográfica sin su autorización, a la persona en contra de quien se prepare el ejercicio de la acción penal, siempre y cuando exista el riesgo fundado de que se sustraiga de la acción de la justicia y se trate de delito grave.
 
-El arraigo domiciliario o la prohibición de abandonar una demarcación geográfica se prolongará por el tiempo estrictamente indispensable, no debiendo exceder de treinta días naturales en el caso de arraigo, y de sesenta días naturales en la prohibición de abandonar una demarcación geográfica.
+Corresponderá al Ministerio Público y a sus auxiliares vigilar que el mandato de la autoridad judicial sea debidamente cumplido.
 
-Cuando el afectado pida que el arraigo o la prohibición de abandonar una demarcación geográfica quede sin efecto, la autoridad judicial decidirá, escuchando al Ministerio Público y al afectado si deben o no mantenerse.
+La prohibición de abandonar una demarcación geográfica se prolongará por el tiempo estrictamente indispensable, no debiendo exceder de sesenta días naturales.
+
+Cuando el afectado pida que la prohibición de abandonar una demarcación geográfica quede sin efecto, la autoridad judicial decidirá, escuchando al Ministerio Público y al afectado si deben o no mantenerse.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
@@ -415,13 +417,13 @@ Habrá DELINCUENCIA ORGANIZADA en aquellos casos en los que tres o más personas
 
 Art. 23 Bis C.- En casos URGENTES o FLAGRANTES, el Juez que reciba la consignación del detenido procederá de inmediato a determinar si la detención fue apegada a la Constitución de los Estados Unidos Mexicanos o no, en el primer caso ratificará la detención y en el segundo decretará la libertad con las reservas de Ley.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE MAYO DE 2000)</small>
 
 ### CAPITULO V
 
 DE LA CONSIGNACION ANTE LOS TRIBUNALES.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2000)</small>
 
 ###### Art. 24.
 
@@ -677,7 +679,7 @@ El certificado de sanidad a que se refiere la disposición que antecede, estará
 
 El incumplimiento de cualquiera de las obligaciones señaladas en este artículo a los Médicos particulares, ameritará la imposición de una corrección disciplinaria, cuando no constituya un delito tipificado; pues, si lo fuere, el Ministerio Público que tenga conocimiento del hecho procederá de acuerdo con sus atribuciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2010)</small>
 
@@ -689,7 +691,7 @@ Las instituciones del sistema público de salud deberán contar con el personal 
 
 Cuando un lesionado necesite pronta curación, cualquier médico puede atenderlo y aún trasladarlo del lugar de los hechos a sitio apropiado, sin esperar la intervención de la autoridad, debiendo comunicar a ésta, inmediatamente después de la primera curación, los siguientes datos: nombre del lesionado, lugar preciso en que fue levantado y posición en que se encontraba; naturaleza de las lesiones que presente y causas probables que la originaron; curaciones que se le hubieren hecho y lugar preciso en que queda a disposición de la autoridad. En su caso, se estará a lo dispuesto en el párrafo final del artículo anterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2010)</small>
 
@@ -737,15 +739,25 @@ En caso de que la detención de una persona exceda los plazos señalados en el a
 
 En el pliego de consignación, el Ministerio Público hará expreso señalamiento de los datos reunidos durante la averiguación previa que, a su juicio, puedan ser considerados para los efectos previstos en el artículo 20 fracción I, de la Constitución Federal, y en los preceptos de este Código relativos a la libertad provisional bajo caución, tanto en lo referente a la determinación del cuerpo del delito como por lo que respecta a los elementos que deban tomarse en cuenta para fijar el monto de la garantía.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2012)</small>
+
+###### Artículo 64.
+
+Al recibir el Ministerio Público diligencias de averiguación previa, si hubiere detenidos y la detención fuere justificada, hará inmediatamente la consignación a los tribunales, si se cumplen los requisitos a que se refiere el párrafo primero del artículo anterior; si tales requisitos no se satisfacen, podrá retenerlos ajustándose a lo previsto en los artículos 23 Bis, 23 Bis A y 23 Bis B. Si la detención fuere injustificada, ordenará que los detenidos queden en libertad.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2012)</small>
+
+El Ministerio Público dispondrá la libertad del inculpado, en los supuestos y cumpliendo con los requisitos establecidos por el artículo 269 para los Jueces.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2012)</small>
+
+El Ministerio Público fijará la caución suficiente para garantizar que el detenido no se sustraerá a la acción de la justicia, ni al pago de la reparación de los daños y perjuicios que pudieran serle exigidos. Cuando el delito merezca pena alternativa o no privativa de libertad, se dispondrá la libertad sin necesidad de caución.
+
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
-###### Art. 64.
-
-Al recibir el Ministerio Público diligencias de averiguación previa, si hubiere detenidos y la detención fuere justificada, hará inmediatamente la consignación a los tribunales, si se cumplen los requisitos a que se refiere el párrafo primero del artículo anterior, si tales requisitos no se satisfacen, podrá retenerlos ajustándose a lo previsto en los artículos 23 Bis, 23 Bis A y 23 Bis B. Si la detención fuere injustificada, ordenará que los detenidos queden en libertad.
-
-El Ministerio Público dispondrá la libertad del inculpado, en los supuestos y cumpliendo con los requisitos establecidos por el artículo 269 para los Jueces, sin perjuicio de solicitar su arraigo en caso necesario. El Ministerio Público fijará la caución suficiente para garantizar que el detenido no se sustraerá a la acción de la justicia, ni al pago de la reparación de los daños y perjuicios que pudieran serle exigidos. Cuando el delito merezca pena alternativa o no privativa de libertad, se dispondrá la libertad sin necesidad de caución y sin perjuicio de pedir el arraigo correspondiente.
-
 Cuando el Ministerio Público deje libre al indiciado, lo prevendrá a fin de que comparezca cuantas veces sea necesario para la práctica de diligencias de averiguación previa, y, concluida ésta, ante el Juez a quien se consigne, quien ordenará su presentación y si no comparece sin causa justa y comprobada, ordenará su reaprehensión, mandando hacer efectiva la garantía otorgada.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
 La garantía se cancelará y en su caso se devolverá por el Ministerio Público cuando se resuelva el no ejercicio de la acción penal. Consignado el caso, tal garantía se considerará prorrogada tácitamente, hasta en tanto el Juez no decida su modificación o cancelación.
 
@@ -1165,7 +1177,7 @@ El sistema de auxilio a la víctima del delito dependerá de la Procuraduría Ge
 
 Las actuaciones podrán practicarse a toda hora y aún en días inhábiles, sin necesidad de previa habilitación. Todas se asentarán por escrito por cualquier instrumento idóneo en el lugar de los hechos, y en cada una de ellas se expresarán la hora, el día, mes y año en que se practiquen. Todas las fechas y cantidades se escribirán con letra.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2003)</small>
 
 ###### Art. 135.
 
@@ -1305,7 +1317,7 @@ Cuando este Código no señale término para la práctica de alguna diligencia o
 
 Los Tribunales, en todos los casos que la ley no lo prohiba o prevenga expresamente otra cosa, podrán dictar de oficio para mejor proveer los trámites, autos y providencias necesarias para que la administración de justicia sea pronta y expedita.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE JUNIO DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 1995)</small>
 
 ### CAPITULO VII
 
@@ -1573,7 +1585,7 @@ Si alguno de los interesados desea que se le haga la notificación personalmente
 
 Cuando el inculpado tenga varios defensores designará a uno de ellos para que reciba las notificaciones que correspondan a la defensa, sin perjuicio de que sean notificados alguno o algunos de los demás si se presentan en el local del Tribunal solicitándolo oportunamente. Si no se hace esta designación bastará notificar a cualquiera de los defensores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE JUNIO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 1995)</small>
 
 ###### Art. 200.
 
@@ -2091,7 +2103,7 @@ V.- En todo caso, el Ministerio Público podrá observar lo dispuesto en este ca
 
 La naturaleza de la caución quedará a elección del inculpado, quien al solicitar la libertad manifestará la forma que elige, para los efectos de la fracción V del artículo siguiente. En caso de que el inculpado, su representante o su Defensor no hagan la manifestación mencionada, el Ministerio Público, el Juez o el Tribunal, en su caso, de acuerdo también con el artículo siguiente, fijarán las cantidades que correspondan a cada una de las formas de la caución.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 1994)</small>
 
 ###### Art. 274.
 
@@ -2113,7 +2125,7 @@ V.- La naturaleza de la garantía que se ofrezca.
 
 La caución podrá consistir en depósito en efectivo, hipoteca o fianza.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2000)</small>
 
 ###### Art. 276.
 
@@ -2619,7 +2631,7 @@ La víctima o la persona ofendida podrán proporcionar las pruebas conducentes d
 
 Se entiende por victima al titular del bien jurídico tutelado y por ofendido, en caso de muerte del sujeto pasivo, al beneficiario en los términos del artículo 30 inciso b) del Código Penal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2000)</small>
 
 ###### Art. 342.
 
@@ -3055,7 +3067,7 @@ I. Los abogados respecto de los asuntos, en los cuales hubieran intervenido y te
 
 II. Los ministros de cualquier culto, con motivo de las confesiones que hubieran recibido en ejercicio del ministerio que presten;
 
-Ill. Los periodistas; respecto de los nombres o las grabaciones, registros telefónicos, apuntes, archivos documentales y digitales y todo aquello que de manera directa o indirecta pudiera llevar a la identificación de las personas que, con motivo del ejercicio de su actividad, les proporcionen como información de carácter reservada, en la cual sustenten cualquier publicación o comunicado; y
+III. Los periodistas; respecto de los nombres o las grabaciones, registros telefónicos, apuntes, archivos documentales y digitales y todo aquello que de manera directa o indirecta pudiera llevar a la identificación de las personas que, con motivo del ejercicio de su actividad, les proporcionen como información de carácter reservada, en la cual sustenten cualquier publicación o comunicado; y
 
 IV. Los médicos y psicólogos clínicos, respecto de la información concerniente a la salud de sus pacientes, que conozcan con motivo de su ejercicio profesional.
 
@@ -3169,11 +3181,11 @@ Si de lo actuado aparecieren indicios bastantes para suponer que algún testigo 
 
 CAREOS.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2003)</small>
 
 ###### Art. 432.
 
-Cuando exista contradicción sustancial en las declaraciones de dos personas o más, se practicarán entre ellas un careo que podrá repetirse cuando el juez lo estime necesario o cuando surjan nuevos puntos de contradicción, excepto en los casos en que expresamente el inculpado lo solicite que no se lleven acabo y el juez estime innecesaria su práctica.
+Cuando exista contradicción sustancial en las declaraciones de dos personas o más, se practicarán entre ellas un careo que podrá repetirse cuando el juez lo estime necesario o cuando surjan nuevos puntos de contradicción, excepto en los casos en que expresamente el inculpado lo solicite que no se lleven acabo (sic) y el juez estime innecesaria su práctica.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2003)</small>
 
@@ -3723,7 +3735,7 @@ VIII.- Las demás resoluciones que señale la ley.
 
 La apelación podrá interponerse en el acto de la notificación, o por escrito o comparecencia, dentro de los cinco días siguientes, si se tratare de sentencia; o de tres días si se interpusiere contra un auto, salvo que este fuera el de la formal prisión, pues entonces el término para apelar por el inculpado y defensores será de quince días.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE JUNIO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 1995)</small>
 
 ###### Art. 525.
 
@@ -3947,7 +3959,7 @@ Las sentencias irrevocables que sean absolutorias o que declaren compurgadas las
 
 Cuando en la sentencia se declare la falsedad de un documento público, se ordenará anotar éste y la matriz respectiva en el protocolo, archivo o registro en que se encuentre, sin perjuicio de los demás efectos que deban darse a la sentencia por la .autoridad judicial ejecutora.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2011)</small>
 
 ###### Art. 556.
 
@@ -3997,7 +4009,7 @@ Cuando un sentenciado enloquezca después de dictarse en su contra sentencia irr
 
 El Ejecutivo del Estado, por medio del órgano que designe la ley reglamentaria respectiva, determinará en su caso el lugar en que debe compurgar el sentenciado la pena privativa de libertad pudiendo ser dentro o fuera del territorio del Estado, todas las medidas que sean eficaces para la recta ejecución de aquellas medidas. El Ejecutivo podrá celebrar con los respectivos Ejecutivo Federal o de los otros Estados de la Unión, los convenios o arreglos que sean necesarios en los casos en que alguno o algunos sentenciados deban compurgar sus sanciones en el lugar de la comprensión territorial correspondiente a aquellas jurisdicciones.
 
-La autoridad judicial controlará el cumplimiento del régimen penitenciario y el respeto de las finalidades constitucionales y Iegales de las penas y medidas de seguridad. Podrá hacer comparecer ante si a los sentenciados o a los servidores públicos del sistema penitenciario con fines de vigilancia y control.
+La autoridad judicial controlará el cumplimiento del régimen penitenciario y el respeto de las finalidades constitucionales y legales de las penas y medidas de seguridad. Podrá hacer comparecer ante si a los sentenciados o a los servidores públicos del sistema penitenciario con fines de vigilancia y control.
 
 Le corresponderá especialmente:
 
@@ -4141,7 +4153,7 @@ SUFRAGIO EFECTIVO. NO REELECCION.- EL RESPETO AL DERECHO AJENO ES LA PAZ.- Oaxac
 
 Al C...
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 26 DE JULIO DE 1986.
 
@@ -4387,7 +4399,7 @@ SEXTO.- En un plazo no mayor a sesenta días, el Congreso del Estado deberá rea
 
 P.O. 23 DE SEPTIEMBRE DE 2011.
 
-DECRETO NUM. 633 POR EL QUE SE ADICIONA UN ULTIMO PARRAFO AL ARTICULO 23 BIS A DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA.
+DECRETO NÚM. 633 POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 23 BIS A DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA.
 
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -4395,6 +4407,12 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 23 DE SEPTIEMBRE DE 2011.
 
-DECRETO NUM. 643 POR EL QUE SE ADICIONA UN ULTIMO PARRAFO AL ARTICULO 23 BIS A DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA.
+DECRETO NÚM. 643 POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 23 BIS A DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE MAYO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
