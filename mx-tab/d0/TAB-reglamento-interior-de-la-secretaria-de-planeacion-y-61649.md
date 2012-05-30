@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-planeacion-y-61649"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-05-31"
-last_updated: "2008-05-31"
+last_updated: "2012-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61649&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE PLANEACION Y DESARROLLO SOCIAL - ANTES REGLAMENTO INTERIOR DE LA SECRETARIA DE PLANEACION -
 
-REGLAMENTO INTERIOR DE LA SECRETARÍA DE PLANEACIÓN
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE PLANEACIÓN Y DESARROLLO SOCIAL DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2012.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 31 de mayo de 2008.
 
@@ -33,15 +33,19 @@ CONSIDERANDO.
 
 Por lo antes expuesto he tenido a bien emitir el siguiente:
 
-REGLAMENTO INTERIOR DE LA SECRETARÍA DE PLANEACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MAYO DE 2012)</small>
+
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE PLANEACIÓN Y DESARROLLO SOCIAL
 
 ## TÍTULO PRIMERO. DE LA SECRETARÍA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2012)</small>
+
 ###### Artículo 1.
 
-Las disposiciones del presente ordenamiento, tienen por objeto normar las bases para la organización y el funcionamiento de las unidades administrativas que integran la Secretaría de Planeación.
+Las disposiciones del presente ordenamiento, tienen por objeto normar las bases para la organización y el funcionamiento de las unidades administrativas que integran la Secretaría de Planeación y Desarrollo Social.
 
 ###### Artículo 2.
 
@@ -49,9 +53,13 @@ Para los efectos del presente ordenamiento, se entenderá por:
 
 l. Gobernador: El Gobernador del Estado Libre y Soberano de Tabasco.
 
-II. Secretaría: Secretaría de Planeación.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
 
-III. Secretario: El Secretario de Planeación.
+II. Secretaría: Secretaría de Planeación y Desarrollo social
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+III. Secretario: Secretario de Planeación y Desarrollo Social
 
 IV. Unidades administrativas: Las subsecretarías, dirección general, direcciones y unidades.
 
@@ -62,6 +70,10 @@ VI. Subcomités: Los subcomités sectoriales, Regionales y especiales.
 VII. Pled: El Plan Estatal de Desarrollo.
 
 VIII. Cudem: El Convenio Único de Desarrollo Municipal.
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2012)</small>
+
+IX. Indestab El Instituto para el Desarrollo Social del Estado de Tabasco
 
 ### CAPÍTULO II. DE LA COMPETENCIA Y ORGANIZACION
 
@@ -81,55 +93,63 @@ Al Secretario le corresponde el trámite y solución de los asuntos encomendados
 
 El Secretario instruirá la elaboración y aplicación de los manuales de organización, de procedimientos y los que sean necesarios para el adecuado cumplimiento de las facultades conferidas, y definirá las políticas de coordinación y sistemas de comunicación de la Secretaria que deberán contener información sobre la estructura orgánica y la forma de realizar las actividades de sus diversas unidades administrativas, vigilando que éstos y demás instrumentos de apoyo administrativo interno se mantengan debidamente actualizados.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2012)</small>
+
 ###### Artículo 7.
 
 Para el estudio, planeación y despacho de los asuntos de su competencia, la Secretaría contará con las unidades administrativas siguientes:
 
-1. UNIDADES AUXILIARES DEL SECRETARIO.
+1. SECRETARIO.
 
-Secretaría Particular.
+1.1 Secretaría Particular.
 
-Secretaría Técnica.
+1.2. Secretaría Técnica.
 
-Dirección General de Administración.
+1.3. Dirección General de Administración.
 
-Dirección de Recursos Materiales y Financieros.
+1.3.1 Dirección de Recursos Materiales y Financieros.
 
-Dirección de Recursos Humanos.
+1.3.2 Dirección de Recursos Humanos.
 
-Dirección de Calidad e Innovación Gubernamental.
+1.3.3 Dirección de Calidad e Innovación Gubernamental.
 
-Dirección de Asuntos Jurídicos.
+1.4. Dirección de Asuntos Jurídicos.
 
-Dirección de Tecnologías de Información.
+1.5. Dirección de Tecnologías de Información.
 
-Unidad de Acceso a la Información.
+1.6. Unidad de Acceso a la Información.
 
 2. SUBSECRETARÍA DE PLANEACIÓN.
 
-Dirección de Planeación.
+2.1. Dirección de Planeación.
 
-Dirección de Organización y Gestión de la Información Gubernamental.
+2.2. Dirección de Organización y Gestión de la Información Gubernamental.
 
-Dirección de Proyectos Estratégicos y Desarrollo Regional.
+2.3. Dirección de Proyectos Estratégicos y Desarrollo Regional.
 
 3. SUBSECRETARÍA DE PROGRAMACIÓN Y PRESUPUESTO.
 
-Dirección de Enlace Sectorial y Municipal.
+3.1. Dirección de Enlace Sectorial y Municipal.
 
-Dirección de Programas Convenidos.
+3.2. Dirección de Programas Convenidos.
 
-Dirección de Programas Estatales.
+3.3. Dirección de Programas Estatales.
 
 4. UNIDAD DE PROSPECTIVA Y EVALUACIÓN.
 
-Dirección de Prospectiva.
+4.1. Dirección de Prospectiva.
 
-Dirección de Seguimiento y Evaluación.
+4.2. Dirección de Seguimiento y Evaluación.
 
-Dirección de Estadística.
+4.3. Dirección de Estadística.
 
-5. COORDINACIÓN GENERAL DEL COMITÉ.
+5. ÓRGANOS DESCONCENTRADOS
+
+5.1. Instituto para el Desarrollo Social del Estado de Tabasco.
+
+6. SECTORIZADOS
+
+6.1. Comité de Planeación para el Desarrollo del Estado de Tabasco.
 
 ###### Artículo 8.
 
@@ -139,25 +159,27 @@ Al frente de cada unidad administrativa de la Secretaría habrá un titular que 
 
 ### CAPÍTULO I. DE LAS FACULTADES DEL SECRETARIO
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2012)</small>
+
 ###### Artículo 9.
 
-Para el cumplimiento de las atribuciones que la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco le confiere a la Secretaría, corresponden al Secretario las funciones siguientes:
+Para el cumplimiento de las atribuciones que la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco le confiere a la Secretaría, corresponden al Secretario las facultades siguientes:
 
-I. Conducir, coordinar y orientar las actividades propias del Sistema Estatal de Planeación Democrática, de conformidad con las disposiciones de la Ley de Planeación del .Estado y demás ordenamientos legales aplicables, en la esfera de su competencia y en congruencia con el Sistema Nacional de Planeación Democrática; así como establecer los mecanismos para ejecutar las políticas, acuerdos, circulares y demás disposiciones a observar;
+I. Conducir y orientar las actividades propias del Sistema Estatal de Planeación, de conformidad con las disposiciones de la Ley de Planeación del Estado y demás ordenamientos legales aplicables, en la esfera de su competencia y en congruencia con el Sistema Nacional de Planeación; así como establecer los mecanismos para ejecutar las políticas, acuerdos, circulares y demás disposiciones a observar;
 
-II. Formular, conducir, normar y regular las políticas públicas que orienten la planeación del desarrollo del estado de Tabasco;
+II. Formular, conducir, normar y regular las políticas públicas que orienten la Planeación del desarrollo del estado de Tabasco;
 
 III. Proponer al Gobernador proyectos de iniciativas de leyes, reglamentos, decretos, convenios, acuerdos y demás disposiciones de orden general que se requieran, para el adecuado manejo de los asuntos competencia de la Secretaría;
 
-IV. Nombrar, adscribir, readscribir, promover; estimular, apercibir, amonestar, suspender, destituir, cesar, imponer medidas disciplinarias o remover a los servidores públicos de la Secretaría de su empleo, cargo o comisión, de conformidad con la normatividad aplicable;
+IV. Nombrar, adscribir, readscribir, promover, estimular, apercibir, amonestar, suspender, destituir, cesar, imponer medidas disciplinarias o remover a los servidores públicos de la Secretaría de su empleo, cargo o comisión, de conformidad con la normatividad aplicable;
 
-V. Coordinar la participación de la Secretaría, de manera conjunta con el Comité, en la elaboración, seguimiento y evaluación de los programas convenidos en el marco del Convenio de Coordinación para el Desarrollo Social y Humano que se suscriba entre la Administración Pública Estatal y Federal, así como de los programas convenidos a través del Cudem que se suscriba entre la administración estatal y municipal;
+V. Coordinar la participación de la Secretaría, de manera conjunta con el Comité, en la elaboración, seguimiento y evaluación de los programas convenidos en el marco del Convenio de Coordinación para el Desarrollo Social y Humano que se suscriba entre las administraciones públicas estatal y federal, así como de los programas convenidos a través del Cudem que se suscriba entre las administraciones estatal y municipal;
 
-VI. Verificar y validar la congruencia de los programas y proyectos estatales derivados del Pled con los de la Administración Pública Federal y Municipal;
+VI. Verificar y validar la congruencia de los programas y proyectos estatales derivados del Pled con los de las administraciones públicas federal y municipales;
 
-VII. Fungir como Secretario Técnico del Comité, así como participar, en su interior, en la elaboración del anteproyecto de presupuesto general de egresos del Estado, considerando la perspectiva de la congruencia del Pled y de los planes y programas sectoriales, institucionales, regionales y especiales derivados del mismo;
+VII. Fungir como Secretario Técnico del Comité, así como participar, en su Interior, en la elaboración del anteproyecto de presupuesto general de egresos del Estado, considerando la perspectiva de la congruencia del Pled y de los planes y programas sectoriales, institucionales, regionales y especiales derivados del mismo;
 
-VIII. Coordinar la elaboración e integración del Pled y los programas y proyectos de desarrollo de carácter sectorial, institucional, regional y especial en el marco de la Ley de Planeación del Estado;
+VIII. Coordinar la elaboración e integración del Pred y los programas y proyectos de desarrollo de carácter sectorial, institucional, regional y especial en el marco de la Ley de Planeación del Estado;
 
 IX. Proponer al Comité, las medidas requeridas para la mejor integración, organización y funcionamiento de los subcomités y grupos de trabajo que se determinen;
 
@@ -165,17 +187,17 @@ X. Conducir la instrumentación, operación, supervisión y actualización del m
 
 XI. Coordinar las actividades de apoyo social que el Ejecutivo Federal convenga con el Ejecutivo Estatal para la realización de las acciones coincidentes en esta materia, con la participación de los sectores social y privado;
 
-XII. Orientar la participación que la Secretaría tenga en la evaluación del ejercicio del gasto público, del presupuesto y programas operativos anuales que deriven del Pled; así como asegurar la congruencia en la instrumentación de los programas de inversión pública de las dependencias, órganos y entidades de la Administración Pública Estatal, para que se realicen conforme a los objetivos y políticas fijadas por el Gobernador y los plasmados en el Pled, en coordinación con las Secretarías de Administración y Finanzas y de Contraloría;
+XII. Orientar la participación que la Secretaría tenga en la evaluación del ejercicio del gasto público, del presupuesto y programas operativos anuales que deriven del Pled; así como asegurar la congruencia en la instrumentación de los programas de inversión pública de las dependencias, órganos y entidades de la Administración Pública Estatal, para que se realicen conforme a los objetivos y políticas fijadas por el Gobernador y los plasmados en el Pled, en coordinación con las secretarías de Administración y Finanzas y de Contraloría;
 
-XIII. Expedir, conjuntamente con la Secretaría de Administración y Finanzas, las autorizaciones para el ejercicio o modificación de los presupuestos aprobados en el Subcomité de Financiamiento Público del Comité, con base en la normatividad establecida;
+XIII. Expedir, conjuntamente con la Secretaria de Administración y Finanzas, las autorizaciones para el ejercicio o modificación de los presupuestos aprobados en el Subcomité de Financiamiento Público del Comité, con base en la normatividad establecida;
 
-XIV. Participar, conjuntamente con las Secretarías de Administración y Finanzas y de Contraloría, en el proceso de evaluación del ejercicio del presupuesto y del impacto de las políticas públicas orientadas al desarrollo estatal;
+XIV. Participar, conjuntamente con las secretarías de Administración y Finanzas y de Contraloría, en el proceso de evaluación del ejercicio del presupuesto y del impacto de las políticas públicas orientadas al desarrollo estatal;
 
 XV. Asistir a las dependencias, órganos y entidades del Poder Ejecutivo Estatal, en la instrumentación de los programas convenidos con la Administración Pública Federal o los ayuntamientos de la entidad;
 
-XVI. Brindar asesoría y apoyo técnico a los ayuntamientos, cuando así lo soliciten, en la elaboración e instrumentación de planes, programas y proyectos de inversión;
+XVI. Brindar asesoría y apoyo técnico a los ayuntamientos, cuando así lo soliciten, en la elaboración e instrumentación de planes y programas de desarrollo social y sus proyectos de inversión;
 
-XVII. Definir con base en la normatividad vigente en la materia, las directrices para el funcionamiento del Consejo Estatal de Población y del Comité Técnico Regional de Estadística y de Información Geográfica, así como participar en las actividades a que haya lugar;
+XVII. Observar con base en la normatividad vigente en la materia, las directrices para el funcionamiento del Consejo Estatal de Población y del Comité Técnico Regional de Estadística y de Información Geográfica, así como participar en las actividades a que haya lugar;
 
 XVIII. Definir, de común acuerdo con la Secretaría de Gobierno, para la aprobación del Gobernador, las políticas de población para el Estado, previendo la participación de las dependencias y entidades que corresponda, así como la coordinación de las acciones correlativas con las autoridades federales competentes;
 
@@ -185,9 +207,9 @@ XX. Instrumentar y coordinar la operación del Sistema Estatal de Información G
 
 XXI. Coordinar los trabajos que en materia de información y estadística realicen las dependencias, órganos y entidades estatales, municipales y delegaciones federales para generar la estadística oficial del Estado;
 
-XXII. Orientar, en coordinación con la Unidad de Atención Social del Estado, en la definición e instrumentación entre las dependencias, órganos y entidades de la Administración Pública Estatal, de las normas a seguir para la integración del Padrón Único de Beneficiarios de los programas sociales del estado de Tabasco; establecer y fortalecer los vínculos de coordinación con el Gobierno Federal para el intercambio de información y su inclusión a dicho padrón, así como concertar con la participación de la Secretaría de Gobierno la incorporación de la información de los programas municipales para el desarrollo social y sus beneficiarios;
+XXII. Orientar en la definición e instrumentación entre las dependencias, órganos y entidades de la Administración Pública Estatal, de las normas a seguir para la integración del Padrón Único de Beneficiarios de los programas sociales del estado de Tabasco: establecer y fortalecer los vínculos de coordinación con el Gobierno Federal para el intercambio de información y su inclusión a dicho padrón, así como concertar con la participación de la Secretaría de Gobierno la incorporación de la información de los programas municipales para el desarrollo social y sus beneficiarios;
 
-XXIII. Coordinar con las Secretarías de Administración y Finanzas y de Contraloría el registro y seguimiento de las ampliaciones, transferencias y reducciones de los recursos asignados a las dependencias, órganos y entidades de la Administración Pública Estatal en materia de Gasto de inversión;
+XXIII. Coordinar con las secretarías de Administración y Finanzas y de Contraloría el registro y seguimiento de las ampliaciones, transferencias y reducciones de recursos asignados a las dependencias, órganos y entidades de la Administración Pública Estatal en materia de gasto de inversión;
 
 XXIV. Participar en la definición y generación de estudios, análisis e indicadores sobre aspectos relacionados con la pobreza y la marginación que incidan en el desarrollo social y humano, y fortalezcan la realización de proyectos estratégicos; así como promover en el seno del Consejo Estatal de Desarrollo Social la evaluación social como herramienta de planeación del desarrollo;
 
@@ -195,9 +217,35 @@ XXV. Orientar la elaboración de escenarios prospectivos cuyos resultados apoyen
 
 XXVI. Promover la adopción del análisis de prospectiva para la formulación de programas y proyectos entre las dependencias, órganos y entidades de la Administración Pública Estatal;
 
-XXVII. Coordinar e integrar el Informe de Gobierno sobre el estado que guarda la Administración Pública Estatal, como una de las actividades propias del Sistema Estatal de Planeación Democrática; y
+XXVII. Coordinar e integrar el Informe de Gobierno sobre el estado que guarda la Administración Pública Estatal, como una de las actividades propias del Sistema Estatal de Planeación;
 
-XXVIII. las demás que le asignen otras disposiciones legales o el Gobernador.
+XXVIII. Coordinar los asuntos relacionados con el desarrollo social del Estado;
+
+XXIX. Coordinar los trabajos mediante los que se formulen, instrumenten, supervisen, ejecuten, promuevan y evalúen las políticas de desarrollo social en el estado, con los tres órdenes de gobierno;
+
+XXX. Impulsar las políticas de desarrollo social vinculándolas con el Pled y los programas que de él se deriven, por medio del INDESTAB tendientes a reducir la pobreza, y fomentado mejoras en la calidad y nivel de vida de los habitantes de Tabasco;
+
+XXXI. Conducir en el seno del Comité los trabajos para la elaboración y ejecución de los programas de desarrollo social de carácter regional o especial que indique el titular del Poder Ejecutivo Estatal en el marco del Sistema Estatal de Planeación;
+
+XXXII. Dar, a través del Indestab, la capacitación, asesoría, apoyo técnico y operativo que requieran las poblaciones indígenas y los grupos marginados en el Estado para la realización de proyectos productivos o acciones en materia de desarrollo social;
+
+XXXIII. Concertar en el seno del Comité la ejecución de los programas y acciones especiales para la atención de los sectores sociales más desprotegidos de las zonas marginadas de la entidad que lleve a cabo el Indestab;
+
+XXXIV. Coordinar en el seno del Comité, los programas de desarrollo social en el Estado, así como la programación y presupuestación de los proyectos destinados a abatir el rezago social y fomentar un mejor nivel de vida de la población del Estado;
+
+XXXV. Participar en los trabajos que se lleven a cabo con la Secretaría de Administración y Finanzas para la integración de los programas y presupuestos para el desarrollo social;
+
+XXXVI. Acordar en el seno del Comité la adecuada instrumentación de los proyectos que involucren el mejoramiento de las comunidades, así como dirigir la participación que se tenga en los acuerdos con la Federación sobre los programas y recursos presupuestales que se destinen al efecto;
+
+XXXVII. Conducir los trabajos para la definición y elaboración de propuestas sobre la organización social como eje fundamental para la determinación, ejecución y vigilancia de las acciones, obras y recursos destinados a elevar los niveles de bienestar social de la población a través del Indestab;
+
+XXXVIII. Fomentar la participación sobre las acciones tendientes a asegurar la adecuada distribución, comercialización y abastecimiento de los productos de consumo básico de la población, especialmente a los grupos indígenas y vulnerables del Estado a través del Indestab;
+
+XXXIX. Impulsar la organización, conducción y evaluación del área especializada en los asuntos de los pueblos indígenas del Estado;
+
+XL. Impulsar las acciones para el fomento de la organización de sociedades cooperativas de vivienda de interés social, así como de acopio y suministro de materiales de construcción, en coordinación con las secretarías de Gobierno, Asentamientos y Obras Públicas y Desarrollo Económico por medio del Indestab; y
+
+XLI. Las demás que le asignen otras disposiciones legales o el Gobernador.
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES DE LAS UNIDADES AUXILIARES DEL SECRETARIO
 
@@ -333,9 +381,17 @@ XVI. Conducir el proceso de modernización e innovación gubernamental de la Sec
 
 XVII. Coordinar la capacitación del capital humano para la consolidación de una cultura de servicio;
 
-XVIII. Participar en las reuniones, comisiones y grupos de trabajo interinstitucional, cuando el Secretario lo indique; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
 
-XIX. Las demás que resulten del marco legal aplicable, así como las que le encomiende el Secretario.
+XVIII. Participar en las reuniones, comisiones y grupos de trabajo interinstitucional, cuando el Secretario lo indique;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+XIX. Integrar y presidir el Subcomité de Compras y el Comité de Adquisiciones, Arrendamientos y Servicios de la Secretaría de Planeación y Desarrollo Social; y
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2012)</small>
+
+XX. Las demás que resulten del marco legal aplicable, así como las que le encomiende el Secretario.
 
 ###### Artículo 14.
 
@@ -397,9 +453,21 @@ XXII. Proporcionar a la Subsecretaría de Planeación los listados necesarios, c
 
 XXIII. Integrar y conciliar mensualmente las ministraciones de los recursos del fondo revolverte con la Secretaria de Administración y Finanzas;
 
-XXIV. Participar en las reuniones, comisiones y grupos de trabajo interinstitucional, cuando el Secretario lo indique; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
 
-XXV. Las demás que resulten del marco legal aplicable, así como las que le encomiende el Director General de Administración.
+XXIV. Participar en las reuniones, comisiones y grupos de trabajo interinstitucional, cuando el Secretario lo indique;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+XXV. Con la instrucción del Secretario, administrar, en el ámbito de su competencia y en coordinación con la Secretaría de Administración y Finanzas, en el marco del Comité, los recursos vinculados, con los fondos federales que, se transfieran al Estado para la realización de los programas de desarrollo social, de acuerdo a los compromisos adquiridos en los convenios respectivos;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2012)</small>
+
+XXVI. Cumplir con la normatividad aplicable para el ejercicio de los recursos públicos; y
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2012)</small>
+
+XXVII. Las demás que resulten del marco legal aplicable, así como las que le encomiende el Director General de Administración.
 
 ###### Artículo 16.
 
@@ -423,9 +491,21 @@ VIII. Proporcionar la información en materia de su competencia para la integrac
 
 IX. Participar, en el ámbito de su competencia, en las acciones inherentes a la integración y funcionamiento de la Subcomisión Mixta de Seguridad e Higiene de la Secretaría, de manera coordinada con la Delegación del Sindicato Único de Trabajadores al Servicio del Estado de Tabasco, conforme a las políticas emitidas en el marco del Sistema Estatal de Protección Civil;
 
-X. Participar en las reuniones, comisiones y grupos de trabajo interinstitucional, cuando el Secretario lo indique; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
 
-XI. Las demás que resulten del marco legal aplicable, así como las que le encomiende el Director General de Administración.
+X. Participar en las reuniones, comisiones y grupos de trabajo interinstitucional, cuando el Secretario lo indique;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+XI. Requerir a las diferentes unidades administrativas de la Secretaría la información o documentación necesaria para elaborar los informes justificados requeridos por la autoridad judicial competente;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2012)</small>
+
+XII. Substanciar los procedimientos administrativos correspondientes, en términos de la legislación aplicable; y
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2012)</small>
+
+XIII. Las demás que resulten del marco legal aplicable, así como las que le encomiende el Director General de Administración.
 
 ###### Artículo 17.
 
@@ -433,21 +513,29 @@ Corresponde a la Dirección de Calidad e Innovación Gubernamental el desempeño
 
 I. Promover la aplicación de los lineamientos que en materia de modernización e innovación gubernamental emita la Secretaría de Administración y Finanzas, así como realizar el programa anual de capacitación de la Secretaría;
 
-II. Elaborar, integrar y actualizar el anteproyecto de Reglamento Interior de la Secretaría;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
 
-III. Gestionar la validación del anteproyecto de Reglamento Interior de la Secretaría ante la Dirección de Asuntos Jurídicos;
+II. Coordinar la elaboración, integración y actualización del anteproyecto de reglamento interior de la Secretaría;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+III. Obtener la validación de la Dirección de Asuntos Jurídicos del anteproyecto de reglamento interior de la Secretaría;
 
 IV. Proporcionar asesoría a las unidades administrativas de la Secretaría en materia de modernización e innovación y asistirles en la instrumentación de sus manuales administrativos, asegurando la vinculación de éstos con el Reglamento Interior de la Secretaría;
 
 V. Coordinar la elaboración, integración y actualización de los manuales administrativos de la Secretaría en general, de conformidad con los lineamientos que emita la Secretaría de Administración y Finanzas en esa materia;
 
-VI. Someter a consideración del Secretario y Director General de Administración, los manuales administrativos de la Secretaría;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+VI. Someter a consideración del Director General de Administración, los manuales administrativos de la Secretaría;
 
 VII. Promover entre las unidades administrativas de la Secretaría la instrumentación de acciones específicas de simplificación de trámites y de calidad en sus actividades y los servicios que proporcionen;
 
-VIII. Organizar e instrumentar acciones de capacitación del capital humano, para la consolidación de una cultura de servicio;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
 
-IX. Fomentar la modernización de políticas, normas, estructuras y documentos básicos que optimicen la organización y funcionamiento de la Secretaría;
+VIII. Promover la modernización de las políticas, normas, estructuras y documentos básicos que optimicen la organización y funcionamiento de la Secretaría;
+
+IX. (DEROGADA, P.O. 30 DE MAYO DE 2012)
 
 X. Coordinar, con base en las disposiciones que emitan las demás dependencias normativas, la elaboración de los códigos de ética y de conducta, así como la visión, la misión, los valores y los objetivos de la Secretaria, y difundirlos al interior y exterior de la misma;
 
@@ -505,25 +593,41 @@ Corresponde a la Dirección de Tecnologías de Información el desempeño de las
 
 I. Asesorar en materia de informática al Secretario y a los servidores públicos de las unidades administrativas de la Secretaría;
 
-II. Diseñar, desarrollar, documentar e implementar el Sistema Estatal de Información Geoestadística e Informática bajo una plataforma tecnológica que permita proporcionar un servicio de calidad a sus usuarios;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
 
-III. Generar productos cartográficos y los necesarios que apoyen los trabajos de análisis, prospección, integración e interpretación del mapa de las circunstancias socioeconómicas de los núcleos poblacionales de Tabasco;
+II. Participar en el desarrollo y documentación del Sistema Estatal de Información Geoestadística e Informática, considerando los requerimientos que realice el área encargada de su operación, dentro del ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+III. Generar productos cartográficos y los necesarios que apoyen los trabajos de análisis, prospección, integración e interpretación de información georeferenciada, que realizan las distintas unidades administrativas de la Secretaría, considerando los requerimientos que estas realicen, dentro del ámbito de su competencia;
 
 IV. Adoptar los lineamientos y estándares emitidos por el Instituto Nacional de Estadística, Geografía e Informática y los organismos internacionales encargados de normar y regular el uso y generación de productos cartográficos en el país;
 
-V. Coordinar, implementar y supervisar con base en el ámbito de su competencia, las acciones necesarias para la sistematización tecnológica del mapa de las circunstancias socioeconómicas de los núcleos poblacionales del Estado;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
 
-VI. Diseñar, desarrollar, documentar e implementar los instrumentos tecnológicos para realizar las acciones de recepción, acopio y sistematización de información estratégica estatal;
+V. Diseñar, desarrollar, documentar e implementar los instrumentos tecnológicos para realizar las acciones de recepción, acopio y sistematización de información estratégica estatal;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+VI. Desarrollar, documentar e implementar los sistemas de tecnologías de la información y las comunicaciones que optimicen el desempeño funcional de las unidades administrativas de la Secretaría en el marco de la modernización e innovación administrativa;
 
 VII. Desarrollar, documentar e implementar los sistemas de tecnologías de la información y las comunicaciones que optimicen el desempeño funcional de las unidades administrativas de la Secretaría en el marco de la modernización e innovación administrativa;
 
-VIII. Participar, en coordinación con las unidades administrativas correspondientes, en el diseño, desarrollo e implementación de los mecanismos que permitan intercambiar con otras dependencias, órganos y entidades de los gobiernos Federal, Estatal y municipales, información para el fortalecimiento del Sistema de Información Geoestadística e Informática;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
 
-IX. Participar en materia de tecnologías de información y comunicación con el Comité Técnico Regional de Estadística y de Información Geográfica;
+VIII. Brindar soporte técnico a las unidades administrativas para que mantengan en condiciones de uso sus bienes informáticos;
 
-X. Colaborar en el proceso de elaboración de los lineamientos generales para la integración del Padrón Único de Beneficiarios de los programas sociales del Estado de Tabasco;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
 
-XI. Diseñar, documentar e instalar los subsistemas de captura, confronta y consulta del Padrón Único de Beneficiarios de los programas sociales del Estado de Tabasco;
+IX. Participar en las reuniones, comisiones y grupos de trabajo interinstitucional, cuando el Secretario lo indique;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+X. Normar el uso de los recursos tecnológicos informáticos y de comunicación de la Secretaría;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+XI. Proporcionar soporte para mantener en buenas condiciones la infraestructura tecnológica y de comunicaciones instalada en la Secretaría, así como realizar las auditorías y acciones necesarias para garantizar la calidad de los servicios digitales que se presten;
 
 XII. Brindar soporte técnico a las unidades administrativas para que mantengan en condiciones de uso sus bienes informáticos;
 
@@ -569,7 +673,9 @@ III. Elaborar el anteproyecto de presupuesto anual de la subsecretaría a su car
 
 IV. Someter a consideración del Secretario la creación, organización, modificación, fusión o supresión de las unidades administrativas a su cargo;
 
-V. En el desempeño de sus atribuciones auxiliarse de las unidades administrativas subalternas, pudiendo delegar en ellas sus facultades, sin perjuicio de su ejercicio directo;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+V. Auxiliarse de las unidades administrativas subalternas en el desempeño de sus atribuciones, pudiendo delegar en ellas sus facultades, sin perjuicio de su ejercicio directo;
 
 VI. Suscribir los documentos relativos al ejercicio de sus atribuciones, aquellos que le sean señalados por delegación de facultades y los que les correspondan en funciones de suplencia;
 
@@ -609,7 +715,9 @@ VIII. Recibir en acuerdo a los servidores públicos adscritos a la dirección a 
 
 IX. Participar en las reuniones, comisiones y grupos de trabajo interinstitucional, cuando el superior jerárquico o el Secretario lo indique;
 
-X. Rendir un informe mensual al superior jerárquico; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+X. Rendir un informe mensual de las actividades de la dirección a su cargo al superior jerárquico; y
 
 XI. Las demás que expresamente le atribuya este Reglamento, la normatividad aplicable o su respectivo subsecretario, así como las que les confiera el Secretario en el ejercicio de sus atribuciones.
 
@@ -621,7 +729,9 @@ XI. Las demás que expresamente le atribuya este Reglamento, la normatividad apl
 
 Corresponde a la Subsecretaría de Planeación el desempeño de las atribuciones siguientes:
 
-I. Establecer, de acuerdo con su ámbito que competencia y con base en la Ley de Planeación del Estado y demás disposiciones legales en la materia, los mecanismos necesarios que permitan conducir, coordinar y orientar las actividades propias del Sistema Estatal de Planeación Democrática, así como coordinar la instrumentación de las políticas, acuerdos, circulares y demás disposiciones expedidas;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+I. Establecer, de acuerdo con su ámbito de competencia y con base en la Ley de Planeación del Estado y demás disposiciones legales en la materia, los mecanismos necesarios que permitan conducir, coordinar y orientar las actividades propias del Sistema Estatal de Planeación, así como coordinar la instrumentación de las políticas, acuerdos, circulares y demás disposiciones expedidas;
 
 II. Coordinar, entre las unidades administrativas adscritas a la Subsecretaria, la formulación, conducción, regulación y ejecución de las políticas públicas que orienten la planeación del desarrollo del Estado;
 
@@ -663,9 +773,13 @@ XX. Apoyar la capacitación y actualización que se imparta a los servidores pú
 
 XXI. Coordinar, con base en los criterios que adopte la Secretaría en materia de evaluación social de proyectos, la elaboración de metodologías que apoyen la preparación de proyectos estratégicos;
 
-XXII. Coordinar el diseño y factibilidad de los proyectos estratégicos que elaboren las dependencias, órganos y entidades del Poder Ejecutivo del Estado; y
+XXII. Coordinar el diseño y factibilidad de los proyectos estratégicos que elaboren las dependencias, órganos y entidades del Poder Ejecutivo del Estado; y (sic)
 
 XXIII. Participar en la coordinación, en el seno del Comité, de los trabajos relativos al análisis, diseño, factibilidad e instrumentación de los proyectos estratégicos, con miras al establecimiento del Subcomité de Proyectos Estratégicos.
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2012)</small>
+
+XXII (SIC). Las demás que expresamente le atribuya este reglamento, la normatividad aplicable, así como las que le confiera el Secretario en el ejercicio de sus atribuciones.
 
 ###### Artículo 24.
 
@@ -681,13 +795,17 @@ Para el desempeño de sus atribuciones la Subsecretaría de Planeación contará
 
 Corresponde a la Dirección de Planeación el desempeño de las atribuciones siguientes:
 
-I. Participar en la coordinación de las actividades propias del Sistema Estatal de Planeación Democrática, vigilando que se mantenga congruencia con el Sistema Nacional de Planeación Democrática y auxiliar al Subsecretario en el diseño de los mecanismos para la ejecución de las políticas, acuerdos, circulares y demás disposiciones expedidas;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+I. Participar en la coordinación de las actividades propias del Sistema Estatal de Planeación, vigilando que se mantenga congruencia con el Sistema Nacional de Planeación y auxiliar al Subsecretario en el diseño de los mecanismos para la ejecución de las políticas, acuerdos, circulares y demás disposiciones expedidas;
 
 II. Colaborar en la formulación de las políticas públicas que orienten la planeación del desarrollo del estado de Tabasco;
 
 III. Brindar asesoría y realizar estudios en materia de políticas públicas para el diseño de metodologías que permitan homologar la elaboración de las mismas en las dependencias, órganos y entidades de la Administración Pública Estatal, y presentarlos al Subsecretario para su análisis y autorización;
 
-IV. Promover los mecanismos mediante los que se gestione y concerte la participación de las dependencias, órganos desconcentrados y entidades paraestatales de la Administración Pública Estatal y los ayuntamientos en la planeación estatal del desarrollo;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+IV. Promover los mecanismos mediante los que se gestione y concerte la participación de las dependencias, órganos y entidades de la Administración Pública Estatal y los ayuntamientos en la planeación estatal del desarrollo;
 
 V. Participar, cuando el subsecretario lo indique, en el establecimiento de las comisiones interinstitucionales necesarias para la atención de las actividades en materia de planeación estatal;
 
@@ -705,9 +823,13 @@ XI. Colaborar en la elaboración de mecanismos que fomenten la participación de
 
 XII. Participar, por instrucción del subsecretario, en el diseño, desarrollo y presentación de propuestas para la mejor integración, organización y funcionamiento de los subcomités y grupos de trabajo que se determinen;
 
-XIII. Asesorar a los ayuntamientos, cuando así lo soliciten, en la elaboración e instrumentación de sus planes y programas en el marco del Cudem; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
 
-XIV. Auxiliar al subsecretario en el diseño del sistema estatal para la planeación estratégica.
+XIII. Auxiliar al subsecretario en el diseño del Sistema Estatal para la Planeación Estratégica y Participativa; y
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+XIV. Las demás que expresamente le atribuya este reglamento, la normatividad aplicable o su respectivo subsecretario, así como las que le confiera el Secretario en el ejercicio de sus atribuciones.
 
 ###### Artículo 26.
 
@@ -745,9 +867,17 @@ XV. Coordinar el diseño de los lineamientos mediante los que se lleve a cabo la
 
 XVI. Diseñar los mecanismos de coordinación que deban funcionar entre las dependencias, órganos y entidades federales, estatales o municipales y la Secretaría para el intercambio y compilación de documentos relacionados con el proceso de planeación del desarrollo, y presentarlos al subsecretario para su visto bueno;
 
-XVII. Participar en las actividades de diseño, implementación y operación del sistema de información y acopio documental en materia de planeación; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
 
-XVIII. Mantener actualizado el acopio documental que en materia de planeación, se requiera para el desempeño funcional de la Subsecretaría.
+XVII. Participar en las actividades de diseño, implementación y operación del sistema de información y acopio documental en materia de planeación;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+XVIII. Mantener actualizado el acopio documental que en materia de planeación se requiera para el desempeño funcional de la subsecretaria; y
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2012)</small>
+
+XIX. Las demás que expresamente le atribuya este reglamento, la normatividad aplicable o su respectivo subsecretario, así como las que le confiera el Secretario en el ejercicio de sus atribuciones.
 
 ###### Artículo 27.
 
@@ -781,7 +911,9 @@ XIII. Participar en los trabajos para el establecimiento y operación del Subcom
 
 XIV. Elaborar análisis y emitir informes ejecutivos sobre los proyectos estratégicos de alcance regional en los que intervenga el Poder Ejecutivo del Estado; y
 
-XV. Instrumentar, operar y actualizar el Sistema de Autoevaluación del Gasto Público de la Administración Pública al interior de la Secretaría.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+XV. Las demás que expresamente le atribuya este reglamento, la normatividad aplicable o su respectivo subsecretario, así como las que le confiera el Secretario en el ejercicio de sus atribuciones.
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES DE LA SUBSECRETARÍA DE PROGRAMACIÓN Y PRESUPUESTO
 
@@ -789,7 +921,9 @@ XV. Instrumentar, operar y actualizar el Sistema de Autoevaluación del Gasto P�
 
 Corresponde a la Subsecretaría de Programación y Presupuesto el desempeño de las atribuciones siguientes:
 
-I. Participar, en el ámbito de su competencia y con base en la Ley de Planeación del Estado y demás disposiciones legales en la materia, en la conducción, coordinación y orientación de las actividades propias del Sistema Estatal de Planeación Democrática, manteniendo congruencia con el Sistema Nacional de Planeación Democrática;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+I. Participar, en el ámbito de su competencia y con base en la Ley de Planeación del Estado y demás disposiciones legales en la materia, en la conducción, coordinación y orientación de las actividades propias del Sistema Estatal de Planeación, manteniendo congruencia con el Sistema Nacional de Planeación;
 
 II. Supervisar a través de los mecanismos que corresponda y en coordinación con la Subsecretaría de Planeación y la Unidad de Prospectiva y Evaluación, la ejecución de las políticas, acuerdos, circulares y demás disposiciones emitidas;
 
@@ -823,9 +957,21 @@ XVI. Apoyar a las dependencias, órganos y entidades, en la implementación de l
 
 XVII. Coordinar el diseño, desarrollo, establecimiento y operación de mecanismos que procuren que la programación del presupuesto de inversiones, se canalice hacia los proyectos definidos con base en el Pled;
 
-XVIII. Dirigir el apoyo y la asesoría a las dependencias, órganos desconcentrados y entidades paraestatales de la Administración Pública Estatal en los procesos de programación-presupuestación y, a los ayuntamientos cuando así lo soliciten, en la elaboración e instrumentación de programas y proyectos en el marco del Cudem; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
 
-XIX. Establecer, dirigir y supervisar los instrumentos que permitan operar y registrar las modificaciones presupuestarias de los recursos asignados a las dependencias, órganos y entidades en materia de gasto de inversión.
+XVIII. Dirigir el apoyo y la asesoría a las dependencias, órganos y entidades de la Administración Pública Estatal en los procesos de programación-presupuestación y, a los ayuntamientos cuando así lo soliciten, en la elaboración e instrumentación de programas y proyectos en el marco del Cudem;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+XIX. Establecer, dirigir y supervisar los instrumentos que permitan operar y registrar las modificaciones presupuestarias de los recursos asignados a las dependencias, órganos y entidades en materia de gasto de inversión;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2012)</small>
+
+XX. Coordinar la elaboración de informes y análisis actualizados del presupuesto anual de la Secretaría; y
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2012)</small>
+
+XXI. Las demás que expresamente le atribuya este reglamento, la normatividad aplicable, así como las que le confiera el Secretario en el ejercicio de sus atribuciones.
 
 ###### Artículo 29.
 
@@ -841,7 +987,9 @@ Para el desempeño de sus atribuciones la Subsecretaría de Programación y Pres
 
 Corresponde a la Dirección de Enlace Sectorial y Municipal el desempeño de las atribuciones siguientes:
 
-I. Participar con el subsecretario en la conducción, coordinación y orientación de las actividades propias del Sistema Estatal de Planeación Democrática;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+I. Participar, en el ámbito de su competencia y con base en la Ley de Planeación del Estado y demás disposiciones legales en la materia, en la conducción, coordinación y orientación de las actividades propias del Sistema Estatal de Planeación, manteniendo congruencia con el Sistema Nacional de Planeación;
 
 II. Participar en coordinación con la Dirección de Asuntos Jurídicos de la Secretaría, en el diseño y elaboración del Cudem, que se suscriba entre las administraciones públicas estatales y municipales;
 
@@ -861,15 +1009,25 @@ IX. Asesorar a las dependencias, órganos y entidades en la instrumentación de 
 
 X. Fungir como enlace entre las áreas técnicas de la Secretaría y los ayuntamientos, en el marco del Cudem, cuando así lo soliciten, para la elaboración e instrumentación de planes, programas y proyectos de inversión, así como los elementos técnicos para la gestión del desarrollo de sus comunidades;
 
-XI. Auxiliar, en su ámbito de competencia, a las direcciones de Programas Estatales y de Programas Convenidos, en la operación de los mecanismos que permitan agilizar el proceso de programación del presupuesto de inversiones; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
 
-XII. Participar en el Comité de Planeación del Desarrollo Municipal y en los Consejos de Desarrollo Municipal como Representante de la Secretaría y del Comité.
+XI. Auxiliar, en su ámbito de competencia, a las direcciones de Programas Estatales y de Programas Convenidos, en la operación de los mecanismos que permitan agilizar el proceso de programación del presupuesto de inversiones;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+XII. Participar en el Comité de Planeación del Desarrollo Municipal y en los Consejos de Desarrollo Municipal como Representante de la Secretaría y del Comité; y
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2012)</small>
+
+XIII. Las demás que expresamente le atribuya este reglamento, la normatividad aplicable o su respectivo subsecretario, así como las que le confiera el Secretario en el ejercicio de sus atribuciones.
 
 ###### Artículo 31.
 
 Corresponde a la Dirección de Programas Convenidos el desempeño de las atribuciones siguientes:
 
-I. Participar con el subsecretario en la conducción, coordinación y orientación de las actividades propias del Sistema Estatal de Planeación Democrática;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+I. Participar con el subsecretario en la conducción, coordinación y orientación de las actividades propias del Sistema Estatal de Planeación;
 
 II. Participar en el diseño y elaboración del Convenio de Coordinación para el Desarrollo Social y Humano y del Cudem;
 
@@ -883,15 +1041,25 @@ VI. Participar con la Secretaría de Administración y Finanzas, en los procesos
 
 VII. Asesorar a las dependencias, órganos y entidades de la Administración Pública Estatal en el proceso de programación-presupuestación de los programas que se realizan con recursos federales;
 
-VIII. Analizar y dictaminar, en el seno del grupo técnico del Subcomité de Financiamiento Público, las propuestas de modificaciones y adecuaciones presupuestales que presenten las dependencias, órganos y entidades de la Administración Pública Estatal, durante el ejercicio de los recursos federales convenidos; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
 
-IX. Registrar y actualizar en el Sistema de Programación Gubernamental que integra el gasto de inversión del Presupuesto General de Egresos, los recursos federales convenidos.
+VIII. Analizar y dictaminar, en el seno del grupo técnico del Subcomité de Financiamiento Público, las propuestas de modificaciones y adecuaciones presupuestales que presenten las dependencias, órganos y entidades de la Administración Pública Estatal, durante el ejercicio de los recursos federales convenidos;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+IX. Registrar y actualizar en el Sistema de Programación Gubernamental que integra el gasto de inversión del Presupuesto General de Egresos, los recursos federales convenidos; y
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2012)</small>
+
+X. Las demás que expresamente le atribuya este reglamento, la normatividad aplicable o su respectivo subsecretario, así como las que le confiera el Secretario en el ejercicio de sus atribuciones.
 
 ###### Artículo 32.
 
 Corresponde a la Dirección de Programas Estales el desempeño de las atribuciones siguientes:
 
-I. Participar con el subsecretario en la conducción, coordinación y orientación de las actividades propias del Sistema Estatal de Planeación Democrática;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+I. Participar con el subsecretario en la conducción, coordinación y orientación de las actividades propias del Sistema Estatal de Planeación;
 
 II. Elaborar los proyectos de normas, políticas y lineamientos que permitan garantizar el cumplimiento de los compromisos derivados del Pled;
 
@@ -911,9 +1079,21 @@ IX. Requisitar la documentación de los oficios de autorización para el ejercic
 
 X. Diseñar, desarrollar, establecer y operar los mecanismos que permitan que la programación del presupuesto de inversiones, se canalice hacia los proyectos prioritarios definidos con base en el Pled;
 
-XI. Asesorar y apoyar a las dependencias, órganos desconcentrados o entidades paraestatales de la Administración Pública Estatal en los procesos de programación-presupuestación; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
 
-XII. Diseñar y proponer los mecanismos que permitan operar y registrar las adecuaciones presupuestarias de los recursos asignados a las dependencias, órganos y entidades en materia de gasto de inversión.
+XI. Asesorar y apoyar a las dependencias, órganos y entidades de la Administración Pública Estatal en los procesos de programación- presupuestación;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+XII. Diseñar y proponer los mecanismos que permitan operar y registrar las adecuaciones presupuestarias de los recursos asignados a las dependencias, órganos y entidades en materia de gasto de inversión;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2012)</small>
+
+XIII. Instrumentar, operar y actualizar el Sistema de Autoevaluación del Gasto Público de la Administración Pública al interior de la Secretaria; y
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2012)</small>
+
+XIV. Las demás que expresamente le atribuya este reglamento, la normatividad aplicable o su respectivo subsecretario, así como las que le confiera el Secretario en el ejercicio de sus atribuciones.
 
 ### CAPÍTULO III. DE LAS ATRIBUCIONES DE LA UNIDAD DE PROSPECTIVA Y EVALUACIÓN
 
@@ -921,7 +1101,9 @@ XII. Diseñar y proponer los mecanismos que permitan operar y registrar las adec
 
 Corresponde a la Unidad de Prospectiva y Evaluación el desempeño de las atribuciones siguientes:
 
-I. Participar, de acuerdo con su ámbito de competencia y con base en la Ley de Planeación del Estado y demás disposiciones legales en la materia, en la conducción, coordinación y orientación de las actividades propias del Sistema Estatal de Planeación Democrática, manteniendo congruencia con el Sistema Nacional de Planeación Democrática;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+I. Participar, de acuerdo con su ámbito de competencia y con base en la Ley de Planeación del Estado y demás disposiciones legales en la materia, en la conducción, coordinación y orientación de las actividades propias del Sistema Estatal de Planeación, manteniendo congruencia con el Sistema Nacional de Planeación;
 
 II. Establecer los mecanismos que permitan efectuar el seguimiento, la evaluación y el control entre las dependencias, órganos desconcentrados y entidades paraestatales de la Administración Pública Estatal, de la aplicación de la legislación Federal y Estatal;
 
@@ -951,7 +1133,9 @@ XIV. Participar en el proceso de seguimiento, evaluación y control del ejercici
 
 XV. Coordinar, de manera conjunta con las Secretarías de Administración y Finanzas y de Contraloría, el establecimiento, operación y vigilancia de los mecanismos convenidos que permitan el desarrollo de las tareas de evaluación del ejercicio de los recursos federales aportados, transferidos, asignados y reasignados al Estado, con base en los objetivos establecidos en los acuerdos y convenios y en general en los demás que se deriven del Sistema Nacional de Control y Evaluación Gubernamental;
 
-XVI. Coordinar la operación del proceso de evaluación del ejercicio del presupuesto de la Administración Pública Estatal, así como participar en la elaboración de los resultados y observaciones que deban presentar periódicamente al Gobernador los secretarios de Planeación, de Administración y Finanzas y de Contraloría;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+XVI. Participar en el proceso de seguimiento, evaluación y control del ejercicio del gasto público, del presupuesto y de los programas operativos anuales que deriven del Pled, en coordinación con las secretarías de Administración y Finanzas y de Controlaría (sic);
 
 XVII. Diseñar, integrar y validar el Anexo Programático Presupuestal del Informe de Gobierno;
 
@@ -999,7 +1183,9 @@ Para el desempeño de sus atribuciones, la Unidad de Prospectiva y Evaluación c
 
 Corresponde a la Dirección de Prospectiva el desempeño de las atribuciones siguientes:
 
-I. Participar en las actividades propias del Sistema Estatal de Planeación Democrática con base en la Ley de Planeación en el Estado y demás disposiciones legales en la materia;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+I. Participar en las actividades propias del Sistema Estatal de Planeación con base en la Ley de Planeación en el Estado y demás disposiciones legales en la materia;
 
 II. Elaborar la agenda de investigación prospectiva de la Secretaría y presentarla al Titular de la Unidad de Prospectiva y Evaluación para su consideración;
 
@@ -1043,13 +1229,15 @@ XXI. Participar en las reuniones, comisiones y grupos de trabajo interinstitucio
 
 XXII. Las demás que deriven del marco legal aplicable y las que le instruya el Titular de la Unidad de Prospectiva y Evaluación.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2012)</small>
+
 ###### Artículo 36.
 
 Corresponde a la Dirección de Seguimiento y Evaluación el desempeño de las atribuciones siguientes:
 
-I. Participar con el Titular de la Unidad de Prospectiva y Evaluación en las actividades propias del Sistema Estatal de Planeación Democrática con base en la Ley de Planeación del Estado y demás disposiciones legales en la materia;
+I. Participar con el Titular de la Unidad de Prospectiva y Evaluación en las actividades propias del Sistema Estatal de Planeación con base en la Ley de Planeación del Estado y demás disposiciones legales en la materia;
 
-II. Operar los mecanismos que permitan efectuar la supervisión, seguimiento, evaluación y control entre las dependencias, órganos desconcentrados y entidades paraestatales, de la aplicación de la legislación Federal y Estatal;
+II. Operar los mecanismos que permitan efectuar la supervisión, seguimiento, evaluación y control entre las dependencias, órganos y entidades, de la aplicación de la legislación federal y estatal;
 
 III. Generar la información requerida por el superior jerárquico cuando actúe como representante de la Secretaría;
 
@@ -1071,13 +1259,13 @@ XI. Participar en la elaboración de los resultados del proceso de evaluación d
 
 XII. Realizar estudios sobre métodos y técnicas para la evaluación del gasto público;
 
-XIII. Proporcionar, con el apoyo de la Dirección de Tecnologías de información, a las dependencias, órganos y entidades de la Administración Pública Estatal que así lo requieran, los sistemas informáticos que permitan integrar el Padrón Único de Beneficiarios de los programas sociales del estado de Tabasco;
+XIII. Proporcionar, con el apoyo de la Dirección de Tecnologías de Información, a las dependencias, órganos y entidades de la Administración Pública Estatal que así lo requieran, los sistemas informáticos que permitan integrar el Padrón Único de Beneficiarios de los programas sociales del estado de Tabasco;
 
 XIV. Diseñar y someter a consideración del Titular de la Unidad de Prospectiva y Evaluación, las normas para el diseño y construcción del Padrón Único de Beneficiarios de los programas sociales del estado de Tabasco;
 
 XV. Coordinar la participación de las dependencias, órganos y entidades de las administraciones públicas Federal, Estatal y municipales en la integración del Padrón Único de Beneficiarios de los programas sociales del estado de Tabasco;
 
-XVI. Establecer, operar y vigilar, de manera conjunta con las Secretarías de Administración y Finanzas y de Contraloría, los mecanismos convenidos que permitan el desarrollo de las tareas de evaluación del ejercicio de los recursos federales aportados, transferidos, asignados y reasignados al Estado;
+XVI. Establecer, operar y vigilar, de manera conjunta con las secretarías de Administración y Finanzas y de Contraloría, los mecanismos convenidos que permitan el desarrollo de las tareas de evaluación del ejercicio de los recursos federales aportados, transferidos, asignados y reasignados al Estado;
 
 XVII. Participar en las acciones a que haya lugar en el ámbito funcional del Consejo Estatal de Desarrollo Social;
 
@@ -1089,7 +1277,9 @@ XIX. Las demás que deriven del marco legal aplicable y las que le instruya el T
 
 Corresponde a la Dirección de Estadística el desempeño de las atribuciones siguientes:
 
-I. Participar, con el Titular de la Unidad de Prospectiva y Evaluación en las actividades propias del Sistema Estatal de Planeación Democrática con base en la Ley de Planeación en el Estado y demás disposiciones legales en la materia;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+I. Participar con el Titular de la Unidad de Prospectiva y Evaluación en las actividades propias del Sistema Estatal de Planeación con base en la Ley de Planeación en el Estado y demás disposiciones legales en la materia;
 
 II. Generar la información requerida por el superior jerárquico cuando actúe como representante de la Secretaría;
 
@@ -1137,61 +1327,91 @@ XXII. Las demás que deriven del marco legal aplicable y las que le instruya el 
 
 ### CAPÍTULO UNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2012)</small>
+
 ###### Artículo 38.
 
-En el marco del Sistema Estatal de Planeación Democrática, el Comité es un organismo público colegiado en el que concurren los tres órdenes de gobierno y los sectores social y privado, el cual deberá cumplir con las funciones que la Ley Estatal de Planeación y demás normatividad aplicable.
+En el marco del Sistema Estatal de Planeación, el Comité es un organismo público colegiado en el que concurren los tres órdenes de gobierno y los sectores social y privado, el cual deberá cumplir con las funciones que establece la Ley Estatal de Planeación, su acuerdo de creación y demás normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2012)</small>
 
 ###### Artículo 39.
 
-El Comité tendrá personalidad jurídica propia y contará con un Coordinador General designado por el Gobernador, fungiendo como Secretario Técnico del mismo el Secretario de conformidad con la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco.
+El Comité contará con un Coordinador General designado por el Gobernador, además tendrá un Secretario Técnico que será el Secretario de Planeación y Desarrollo Social de conformidad con la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco y su acuerdo de creación
 
 ###### Artículo 40.
 
 La Coordinación General del Comité para su operación se apoyará en su estructura administrativa de la Secretaría.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2012)</small>
+
 ###### Artículo 41.
 
-La Coordinación General del Comité se apoyará en la Dirección de Asuntos Jurídicos de la Secretaría para la revisión de los acuerdos, convenios y los documentos que de ellos se deriven, a fin de que se determine su congruencia con la planeación democrática, así como para la integración del archivo en que se resguarde la documentación relativa.
+La Coordinación General del Comité se apoyará en la Dirección de Asuntos Jurídicos de la Secretaría para la revisión de los acuerdos, convenios y los documentos que de ellos se deriven, a fin de que se determine su congruencia con la planeación estratégica, así como para la integración del archivo en que se resguarde la documentación relativa.
 
-## TÍTULO SEXTO. DE LOS SERVIDORES PUBLICOS DE LA SECRETARÍA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MAYO DE 2012)</small>
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+## TÍTULO SEXTO. DEL ÓRGANO ADMINISTRATIVO DESCONCENTRADO COORDINADO POR LA SECRETARÍA
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2012)</small>
 
 ###### Artículo 42.
 
-Los servidores públicos de base gozarán de los derechos y tendrán las obligaciones establecidas en la Ley de los Trabajadores al Servicio del Estado de Tabasco.
+Para el mejor desempeño de los asuntos que en materia de desarrollo social la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco confiere a la Secretaría, esta contará con el Instituto para el Desarrollo Social del Estado de Tabasco, órgano administrativo desconcentrado que le estará jerárquicamente subordinado, teniendo las facultades que determine su propio acuerdo de creación y su respectivo reglamento.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2012)</small>
 
 ###### Artículo 43.
 
-Para efectos del presente Reglamento, serán trabajadores de confianza el Secretario, subsecretarios, director general, directores, titulares de unidad, subdirectores, jefes de departamento, de área y de Proyecto, así como en general aquellos servidores públicos que realicen funciones de dirección, inspección, supervisión, fiscalización y los que realicen trabajos personales o exclusivos del Secretario, y que la ley les otorgue tal categoría.
+El órgano administrativo desconcentrado de la Secretaría denominado Instituto para el Desarrollo Social del Estado de Tabasco estará atento a lo dispuesto en la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco, así como en la legislación en la materia aplicable al mismo.
 
-## TÍTULO SÉPTIMO. DE LAS RELACIONES LABORALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MAYO DE 2012)</small>
 
-### CAPÍTULO II. DE LA SUPLENCIA Y REPRESENTACIÓN DE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA
+## TITULO SÉPTIMO. DE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES CAPÍTULO II], P.O. 30 DE MAYO DE 2012)</small>
+
+### CAPÍTULO ÚNICO. DE LA SUPLENCIA Y REPRESENTACIÓN DE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2012)</small>
 
 ###### Artículo 44.
 
-Las faltas administrativas de los servidores públicos en general se sancionarán en la forma prevista en la Ley de Responsabilidades de los Servidores Públicos en el Estado de Tabasco, en la ley de los Trabajadores al Servicio del Estado y en las Condiciones Generales de Trabajo, según corresponda.
+En caso de ausencia temporal del Secretario que no exceda de 15 días naturales será cubierta por el subsecretario que él designe, y cuando sea mayor a 15 días, por el servidor público que designe el Gobernador.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2012)</small>
 
 ###### Artículo 45.
 
-En caso de ausencia temporal del Secretario que no exceda de 15 días naturales será cubierta por el Subsecretario que él designe, y cuando sea mayor a 15 días, por el servidor público que designe el Gobernador.
+En caso de ausencia temporal de los subsecretarios, director general, directores y titulares de unidad, serán cubiertas por el servidor público que designe el Secretario.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2012)</small>
 
 ###### Artículo 46.
 
-En caso de ausencia temporal de los Subsecretarios, Director General, Directores y Titulares de Unidad, serán cubiertas por el servidor público que designe el Secretario.
+En los juicios de amparo en que deba intervenir el Secretario, o los servidores públicos de la Secretaría, como autoridad responsable, el Director de Asuntos Jurídicos o el representante que éste designe deberá concurrir a las audiencias, rendir pruebas, formular alegatos, presentar las promociones correspondientes y en general actuar en calidad de delegado, en los términos previstos por la Ley de Amparo.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2012)</small>
+
+## TÍTULO OCTAVO. DE LAS RELACIONES LABORALES
+
+(REUBICADO [N. DE E. ANTES EN EL TÍTULO SÉPTIMO], P.O. 30 DE MAYO DE 2012)
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2012)</small>
+
 ###### Artículo 47.
 
-En los juicios de amparo en que deba intervenir el Secretario, o los servidores públicos de la Secretaría, como autoridad responsable, el Director de Asuntos Jurídicos o el representante que éste designe deberá concurrir a las audiencias, rendir pruebas, formular alegatos, presentar las promociones correspondientes y en general actuar en calidad de delegado, en los términos previstos por la Ley de Amparo.
+Las relaciones laborales entre la Secretaría y sus trabajadores, se regularán por la Ley de los Trabajadores al Servicio del Estado de Tabasco o en las Condiciones Generales de Trabajo, según corresponda.
+
+Se consideran cargos de confianza, los de secretario, subsecretario, coordinador general, director general, titular de unidad, director, jefe de departamento, y en general los que tienen como propósito realizar funciones de dirección, inspección, supervisión, fiscalización, vigilancia y trabajos exclusivos del titular y servidores públicos de mandos altos de esta Secretaría, en términos de lo dispuesto por la Ley de los Trabajadores al Servicio del Estado de Tabasco.
 
 ###### Artículo 48.
 
-Las relaciones laborales entre la Secretaría y sus trabajadores, se regularán por la Ley de los Trabajadores al Servicio del Estado de Tabasco.
-
-Se consideran cargos de confianza, los de Director General, Director de Área, Subdirector, Jefe de Departamento, Jefe de Área, Asesor y en general los que tienen como propósito realizar funciones de dirección, inspección, supervisión, fiscalización, vigilancia y trabajos exclusivos del titular y altos servidores públicos de ésta Secretaría; en términos de lo dispuesto por la Ley de los Trabajadores al Servicio del Estado de Tabasco.
+(DEROGADO, P.O. 30 DE MAYO DE 2012)
 
 ## TRANSITORIOS
 
@@ -1220,3 +1440,13 @@ CONSEJERO JURÍDICO DEL PODER EJECUTIVO
 LIC. GUSTAVO JASSO GUTIÉRREZ
 
 SECRETARIO DE PLANEACIÓN
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE MAYO DE 2012.
+
+PRIMERO. Las presentes reformas, adiciones y derogaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. En un término no mayor a noventa días deberán hacerse las adecuaciones normativas conducentes a fin de que guarden congruencia con el presente ordenamiento.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente Reglamento.
