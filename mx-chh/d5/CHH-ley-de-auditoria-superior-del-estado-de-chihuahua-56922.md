@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-auditoria-superior-del-estado-de-chihuahua-56922"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-12"
-last_updated: "2009-08-29"
+last_updated: "2012-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY DE AUDITORIA SUPERIOR DEL ESTADO DE CHIHUAHUA
 
-LEY DE AUDITORIA SUPERIOR DEL ESTADO DE CHIHUAHUA
+LEY DE AUDITORÍA SUPERIOR DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 12 de septiembre de 2007.
 
@@ -121,7 +121,7 @@ IV. Los organismos públicos descentralizados, empresas de participación y fide
 
 V. En general, cualquier persona física o moral, pública o privada, que reciba, maneje, recaude o administre recursos públicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 5.
 
@@ -333,13 +333,21 @@ II. Un Auditor Especial de Gestión;
 
 III. Un Auditor Especial de Normatividad y Seguimiento;
 
-IV. Un Director General de Administración y Finanzas;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE MAYO DE 2012)</small>
 
-V. Además, tendrá el apoyo de Coordinadores, Directores, Jefes de Departamento, Jefes de Oficina, Supervisores, Auditores y las unidades administrativas adscritas a los mismos, así como de los Servidores Públicos que al efecto señale el Reglamento, de conformidad con el presupuesto autorizado.
+IV. Un Auditor Especial en Obra Pública;
+
+V. Un Director General de Administración y Finanzas;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA EN SU NUMERACIÓN], P.O. 30 DE MAYO DE 2012)</small>
+
+VI. Además, tendrá el apoyo de Coordinadores, Directores, Jefes de Departamento, Jefes de Oficina, Supervisores, Auditores y las unidades administrativas adscritas a los mismos, así como de los Servidores Públicos que al efecto señale el Reglamento, de conformidad con el presupuesto autorizado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2012)</small>
 
 ###### ARTÍCULO 16.
 
-Para ser titular de las áreas mencionadas en las fracciones I, II, III y IV del artículo anterior, se deberá cumplir con los requisitos siguientes:
+Para ser titular de las áreas mencionadas en las fracciones I, II, III, IV y V del artículo anterior, se deberá cumplir con los requisitos siguientes:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
@@ -424,6 +432,34 @@ XVIII. Formular y presentar al Auditor Superior los proyectos de Informes Técni
 XIX. Organizar, salvaguardar, custodiar, preservar, restaurar y administrar el archivo jurídico de la Auditoría Superior; y
 
 XX. Las demás que señalen esta Ley, el Reglamento y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2012)</small>
+
+ARTÍCULO 18 BIS.- El Auditor Especial en Obra Pública tendrá las facultades siguientes:
+
+I. Planear, conforme al Programa Anual de Auditoría, las actividades relacionadas con la revisión de la Cuenta Pública, sujetándose en los procedimientos establecidos en el reglamento.
+
+II. Designar al personal encargado de practicar las auditorías y revisiones a su cargo; así como sugerir la contratación de prestadores de servicios profesionales cuando se requiera algún conocimiento especial en la materia, o bien, la utilización de equipo con el que no se cuente en el ente fiscalizador.
+
+III. Auditar la Cuenta Pública que rindan los entes fiscalizables en el ámbito de su competencia.
+
+IV. Requerir a los entes fiscalizables la información necesaria para la práctica de la auditoría en obra pública.
+
+V. Comprobar que la planeación, programación, adjudicación, contratación y ejecución de las obras públicas se hayan hecho conforme a la normatividad aplicable.
+
+VI. Determinar si la obra pública se realizó conforme a la programación establecida en los Programas Operativos Anuales de cada ente fiscalizado.
+
+VII. Recabar e integrar la documentación necesaria para soportar el resultado de la auditoría o revisiones en materia de obra pública; así como organizarla, custodiarla, preservarla.
+
+VIII. Verificar que la ejecución de la obra pública de los entes fiscalizados se acorde con los términos establecidos en los contratos de obra pública celebrados, en cuanto a precio, cantidad, calidad y tiempo de ejecución.
+
+IX. Verificar si los conceptos de obra ejecutados son acordes a las especificaciones técnicas requeridas conforme a la naturaleza de la misma.
+
+X. Determinar si la integración de los expedientes técnicos de obra se realizó atendiendo a lo que dispone la normatividad de la materia.
+
+XI. Elaborar el proyecto de informe de auditoría, en el ámbito de su competencia, y someterlo a la consideración del Auditor Superior del Estado.
+
+XII. Las demás que le confiera esta Ley, su Reglamento y demás disposiciones aplicables.
 
 ###### ARTÍCULO 19.
 
@@ -705,7 +741,7 @@ En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los diez días del 
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JOSE REYES BAEZA TERRAZAS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO INTERINO. LIC. HECTOR H. HERNANDEZ VARELA. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 13 DE JUNIO DE 2009.
 
@@ -718,6 +754,12 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 Las disposiciones relativas a los nuevos requisitos para su designación, así como la periodicidad en el ejercicio del cargo del Auditor Superior del Estado, serán aplicables a partir de la próxima elección de dicho servidor público.
 
 P.O. 29 DE AGOSTO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE MAYO DE 2012.
 
 ###### ARTÍCULO ÚNICO.
 
