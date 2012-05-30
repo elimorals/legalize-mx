@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2012-05-23"
+last_updated: "2012-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2012.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -845,9 +845,15 @@ II.- De Hacienda;
 
 III.- De Obras y Servicios Públicos;
 
-IV.- De Seguridad Pública; y
+IV.- De Seguridad Pública; y (sic)
 
-V.- Además, aquellas otras que determine el Ayuntamiento, de acuerdo a las necesidades del Municipio.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+V.- De Educación y Cultura.
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2012)</small>
+
+VI.- Además, aquellas otras que determine el Ayuntamiento, de acuerdo a las necesidades del municipio.
 
 ###### ARTICULO 32.
 
@@ -4272,6 +4278,12 @@ P.O. 10 DE MARZO DE 2012.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de la (sic) Estado.
 
 P.O. 23 DE MAYO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE MAYO DE 2012.
 
 ###### ARTÍCULO ÚNICO.
 
