@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2011-09-23"
+last_updated: "2012-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
+CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2012.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -79,7 +79,7 @@ Cuando entre la comisión de un delito y la correspondiente extinción de la pen
 
 Del hecho típico.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ### CAPITULO I.
 
@@ -123,7 +123,7 @@ I.- Existe consumación cuando el agente con su acción u omisión, lesiona el b
 
 II. Existe tentativa, cuando la resolución de cometer un delito se exterioriza realizando en parte o totalmente los actos ejecutivos que deberían producir el resultado, u omitiendo los que deberían evitarlo si por causas ajenas al agente, no hay consumación pero si puesta en peligro del bien jurídico.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ### CAPITULO II.
 
@@ -163,7 +163,7 @@ d).- Que habiendo estado presentes en la ejecución del nuevo delito, no hubiere
 
 13.- Cuando sin acuerdo previo, varios sujetos intervengan en la comisión de un delito y no se pueda precisar el resultado que cada quien produjo, a todos se les aplicará la sanción prevista en el artículo 60.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### Artículo 19.
 
@@ -889,13 +889,13 @@ Los Poderes Legislativo y Judicial y los entes autónomos establecerán sistemas
 
 De las penas y medidas de seguridad.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ### CAPITULO I.
 
 Universo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 17.- Las penas y medidas de seguridad son las siguientes:
 
@@ -945,9 +945,7 @@ XV.- Tratamiento de inimputables, en internamiento o en libertad;
 
 XVI.- Trabajo en favor de la comunidad;
 
-> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2000)</small>
-
-XVII.- Arraigo domiciliario; y
+XVII.- (DEROGADA, P.O. 30 DE MAYO DE 2012)
 
 > <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2000)</small>
 
@@ -1065,7 +1063,7 @@ Prisión.
 
 Los procesados sujetos a prisión preventiva y los infractores políticos, serán recluidos en establecimientos o departamentos especiales.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### Artículo 51.
 
@@ -1139,7 +1137,7 @@ II.- Salida de fin de semana, con reclusión durante el resto de la semana, y
 
 III.- Salida diurna, con reclusión nocturna; o salida nocturna y reclusión diurna.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### Artículo 57.
 
@@ -1337,7 +1335,7 @@ Confinamiento y prohibición de concurrencia o residencia.
 
 22.- La prohibición de ir a determinado lugar o de residir en él se extenderá únicamente a aquellos lugares en los que el infractor haya cometido el delito o en donde residieren el ofendido o sus familiares. El Juez fijará el tiempo que debe durar la medida, teniendo en cuenta las prevenciones del artículo anterior en cuanto sean aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### Artículo 66.
 
@@ -1407,7 +1405,7 @@ Multa.
 
 23.- La multa consiste en el pago de una cantidad de dinero al Estado y se aplicará al Fondo para la Administración de Justicia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2008)</small>
 
 24.- La multa se fijará por días multa y no podrá exceder de mil quinientos días de salario.
 
@@ -1443,7 +1441,7 @@ Si el sentenciado se negare, sin causa justificada, a cubrir el importe de la mu
 
 Si no alcanza a cubrirse la multa con los bienes del sentenciado o con el producto de su trabajo, durante y con motivo del cumplimiento de la pena privativa de libertad que se hubiere impuesto, al recobrar su libertad seguirá sujeto a la obligación de pagar la parte que le falta.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### Artículo 73.
 
@@ -1527,7 +1525,7 @@ I.- En caso de homicidio, el monto será la cantidad equivalente al importe de s
 
 Tratándose de menores de dieciocho años o de incapacitados, que no contribuyan económicamente al sustento familiar, el monto será la cantidad mencionada en el párrafo anterior, calculada sobre el doble del salario mínimo vigente;
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 28 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 1998)</small>
 
 II. En caso de lesiones que dejaren secuelas, el monto se determinará con base en la tabulación de indemnizaciones que fija la Ley Federal del Trabajo, computado sobre el triple del salario mínimo vigente.
 
@@ -1901,7 +1899,7 @@ Inhabilitación, destitución o suspensión de cargos, empleos públicos o ejerc
 
 43.- La suspensión en el ejercicio de profesiones o actividades técnicas se regirá, en cuanto sea aplicable, por las disposiciones del artículo que precede.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### Artículo 91.
 
@@ -2299,7 +2297,7 @@ Sujeción a la vigilancia de la Policía.
 
 55.- Esta medida puede modificarse en su duración y podrá también revocarse cuando el sentenciado lo pide y acredite su buena conducta, o que han cesado los motivos que hicieron dictar la providencia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ### CAPITULO XV.
 
@@ -2323,7 +2321,7 @@ La autoridad judicial competente, previa solicitud de la autoridad ejecutora, re
 
 Punibilidades complementarias.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ### CAPITULO I.
 
@@ -2335,7 +2333,7 @@ Tentativa.
 
 Si el sujeto desiste espontáneamente de la ejecución o impide la consumación del delito, no se impondrá pena o medida de seguridad alguna por lo que a éste se refiere, sin perjuicio de aplicar la que corresponda a actos ejecutados u omitidos que constituyan por si mismos delitos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ### CAPITULO II.
 
@@ -2373,7 +2371,7 @@ Si el delito culposo lesionare varios bienes jurídicos, se estará a lo dispues
 
 59.- El delito culposo se perseguirá a petición del ofendido o de su legítimo representante, con excepción del homicidio y de las lesiones previstas en los Artículos 275 y 276.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ### CAPITULO III.
 
@@ -2383,7 +2381,7 @@ Auxilio y Autoría indeterminada.
 
 60.- En los casos previstos por los artículos 11, fracciones VI y VII, y 13 se impondrán de dos terceras partes del mínimo a dos terceras partes del máximo de la punibilidad correspondiente al delito de que se trate y, en su caso de acuerdo con la modalidad respectiva.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ### CAPITULO IV.
 
@@ -2395,7 +2393,7 @@ Pandilla.
 
 Se entiende por pandilla, la reunión habitual, ocasional o transitoria, de tres o más personas que sin estar organizadas con fines delictuosos, cometan en común algún delito.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ### CAPITULO V.
 
@@ -2407,7 +2405,7 @@ Imputabilidad disminuida.
 
 63.- (DEROGADO, P.O. 28 DE NOVIEMBRE DE 1998)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ### CAPITULO VI.
 
@@ -2417,7 +2415,7 @@ Error.
 
 64.- El error vencible sobre la materia: del inciso a) de la fracción VIII del artículo 14, se sancionará desde la cuarta parte del mínimo a la cuarta parte del máximo que corresponda al delito doloso de que se trate; y del inciso b) de la mencionada fracción, la punibilidad va de una tercera parte del mínimo a la tercera parte del máximo del respectivo delito doloso.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ### CAPITULO VII.
 
@@ -2427,7 +2425,7 @@ Delito continuado.
 
 65.- En caso de delito continuado, la pena correspondiente al delito cometido se aumentará con la mitad de su mínimo a la mitad de su máximo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ### CAPITULO VIII.
 
@@ -2547,13 +2545,13 @@ Cuando la ley permita sustituir la pena o la medida de seguridad por otra de men
 
 Si hubiere varias sanciones, el Juez determinará el momento a partir del cual debe correr la sanción accesoria. Para ello, indicará en la sentencia si ésta correrá al mismo tiempo que la principal y se extinguirán simultáneamente; comenzará conjuntamente con ella y la excederá durante determinado tiempo; o comenzará cuando concluya la principal.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ## TITULO QUINTO.
 
 Aplicación de sanciones.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ### CAPITULO II.
 
@@ -2659,13 +2657,13 @@ Del órgano ejecutor.
 
 93.- Corresponde a la autoridad judicial la ejecución, modificación y duración de las penas y medidas de seguridad impuestas en las sentencias definitivas, dictadas por los tribunales, en la forma y términos de la ley respectiva.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ## TITULO SEXTO.
 
 Ejecución de sentencias.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ### CAPITULO II.
 
@@ -2675,7 +2673,7 @@ De la libertad preparatoria y la preliberación.
 
 94.- La libertad preparatoria y la preliberación se concederán al sentenciado en forma y términos de ley, pero no se concederá a los reincidentes ni a los habituales.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ### CAPITULO III.
 
@@ -3479,9 +3477,9 @@ I.- Al que intencionalmente propague cualquiera otra enfermedad sean cuales fuer
 
 II.- Al que intencionalmente propague una epizootia o una plaga o parásitos o gérmenes nocivos a los cultivos agrícolas o forestales.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NO. 725, PUBLICADO EN EL P.O. DE 21 DE NOVIEMBRE DE 2008, SE DEROGAN LOS CAPITULOS I AL IV DEL PRESENTE TITULO, MODIFICANDO SU ESTRUCTURA, CONFORMANDOSE EN UN CAPITULO UNICO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NO. 725, PUBLICADO EN EL P.O. DE 21 DE NOVIEMBRE DE 2008, SE DEROGAN LOS CAPÍTULOS I AL IV DEL PRESENTE TÍTULO, MODIFICANDO SU ESTRUCTURA, CONFORMÁNDOSE EN UN CAPÍTULO ÚNICO.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE NOVIEMBRE DE 2008)</small>
 
 ### CAPITULO I.
 
@@ -3509,7 +3507,7 @@ Lenocinio.
 
 Delitos cometidos por funcionarios y empleados de la Administración Pública, Estatal y Municipal o Descentralizada.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE NOVIEMBRE DE 1982)</small>
 
 ### CAPITULO IV.
 
@@ -3595,7 +3593,7 @@ III.- Si el sujeto activo es ministro de un culto religioso.
 
 204.- Se aplicará prisión de uno a cinco años, multa de doscientos a tres mil pesos y suspensión de profesión, en su caso, de dos meses a un año, al que con perjuicio de alguien y sin consentimiento del que pueda resultar perjudicado, revele algún secreto o comunicación reservada que conoce por virtud de servicios personales o técnicos prestados, o cuando el secreto revelado o publicado sea de carácter industrial.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE NOVIEMBRE DE 1982)</small>
 
 ### CAPITULO I.
 
@@ -3813,7 +3811,7 @@ Peculado y concusión.
 
 217.- Las penas señaladas en el artículo anterior, se aplicarán también a los encargados o comisionados por un funcionario público que, con aquella investidura, cometan el delito de concusión.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE NOVIEMBRE DE 1982)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE NOVIEMBRE DE 1982)</small>
 
 ### CAPITULO V BIS.
 
@@ -3881,7 +3879,7 @@ Falsificación de sellos, llaves, cuños, troqueles y marcas.
 
 224.- Se impondrán de cuatro a nueve años de prisión y multa de cuarenta a noventa días multa, al que falsifique los sellos o marcas oficiales del Estado, de los municipios o de los notarios públicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2003)</small>
 
 225.- Se impondrán prisión de tres meses a cinco años y multa de treinta a cincuenta días multa:
 
@@ -3953,7 +3951,7 @@ Falsedad.
 
 Falsedad en declaraciones judiciales o en informes dados a una Autoridad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2003)</small>
 
 230.- Se impondrán de dos meses a dos años de prisión y multa de diez a veinte días multa:
 
@@ -3989,7 +3987,7 @@ II.- Al que para eludir la práctica de una diligencia judicial, o una notificac
 
 Usurpación de funciones públicas o de profesión y uso indebido de condecoraciones y uniformes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2003)</small>
 
 233.- Se sancionará con prisión de un mes a cuatro años y multa de seis a treinta y cinco días multa:
 
@@ -4055,7 +4053,7 @@ IV.- Los funcionarios o empleados públicos que autoricen, protejan o asistan a 
 
 Delitos contra el comercio y la industria.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 1982)</small>
 
 240.- Se aplicarán de uno a diez años de prisión y multa de mil a cincuenta mil pesos, además del decomiso de los artículos objeto de la infracción:
 
@@ -4089,13 +4087,13 @@ Al que gestione u obtenga una concesión, permiso o placas de circulación que p
 
 Las autoridades competentes, procederán al inmediato aseguramiento de los vehículos que podrían ser materia del decomiso, durante la averiguación o en el proceso.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE JUNIO DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 1995)</small>
 
 TITULO DECIMOSEGUNDO.
 
 Delitos contra la libertad, la seguridad y el normal desarrollo psicosexual.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE FEBRERO DE 1998)</small>
 
 ### CAPITULO I.
 
@@ -4105,7 +4103,7 @@ Abuso y hostigamiento sexual, estupro y violación.
 
 241.- Comete el delito de abuso sexual, quien sin consentimiento de una persona ejecute en ella o la haga ejecutar un acto sexual, que no sea la cópula, o la obligue a observar cualquier acto sexual aun a través de medios electrónicos. Al responsable de tal hecho, se le impondrá de dos a cinco años de prisión y multa de cincuenta a doscientos días de salario mínimo.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUMERO 1529, PUBLICADO EN EL P.O. DE 23 DE ENERO DE 2010, SE MODIFICO LA ESTRUCTURA DEL PRESENTE PARRAFO, PARA QUEDAR CONFORMADO POR TRES FRACCIONES.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 1529, PUBLICADO EN EL P.O. DE 23 DE ENERO DE 2010, SE MODIFICO LA ESTRUCTURA DEL PRESENTE PÁRRAFO, PARA QUEDAR CONFORMADO POR TRES FRACCIONES.</small>
 
 La pena prevista en esté delito, se aumentará en una mitad en su mínimo y en su máximo cuando:
 
@@ -4135,7 +4133,7 @@ El delito previsto en este artículo será perseguido por querella del ofendido 
 
 242.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
 
 243.- A quien tenga cópula con persona mayor de doce años y menor de dieciocho, obteniendo su consentimiento por medio del engaño, cualquiera que haya sido el medio utilizado para lograrlo, se le impondrán de tres a siete años de prisión y multa de cien a trescientos días de salario.
 
@@ -4151,7 +4149,7 @@ Cuando la persona estuprada fuere menor de quince años, se presumirá en todo c
 
 245.- La reparación del daño en los casos de estupro, además de lo que establece el artículo 27 del presente ordenamiento, comprenderá el pago de alimentos al niño nacido.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2008)</small>
 
 246.- Al que por medio de la violencia física o moral tenga cópula con una persona sin la voluntad de ésta, sea cual fuere su sexo, se le impondrá prisión de doce a dieciocho años y multa de quinientos a mil días de salario.
 
@@ -4159,7 +4157,7 @@ Cuando la persona estuprada fuere menor de quince años, se presumirá en todo c
 
 Para los efectos de este artículo, se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2008)</small>
 
 247.- Se equipara a la violación la cópula con persona menor de doce años de edad, aún cuando se hubiere obtenido su consentimiento, sea cual fuere su sexo; con persona privada de razón o sentido, o cuando por enfermedad o cualquiera otra causa no pudiere oponer resistencia. En tales casos, la pena será de trece a veinte años de prisión y multa de setecientos a mil doscientos días de salario.
 
@@ -4173,7 +4171,7 @@ Se equipara a la violación y se sanciona con la misma pena, al que introduzca p
 
 Se impondrá sanción de dieciocho a treinta años de prisión y multa de mil a mil quinientos días de salario, cuando el sujeto pasivo sea menor de 18 años de edad, mayor de sesenta años, se encuentre privado de razón o sentido, o cuando por enfermedad o por cualquier otra causa no pudiese resistir al delito.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ENERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2010)</small>
 
 248 Bis.- Las penas que corresponden a los delitos de abuso sexual previsto por el artículo 241, violación previsto por el artículo 246, violación equiparada previsto por el artículo 247 y violación tumultuaria previsto por el artículo 248, se aumentarán hasta en una mitad en su mínimo y máximo, cuando:
 
@@ -4325,7 +4323,7 @@ Asalto.
 
 Si la violencia se ejerce en despoblado o en paraje solitario se aplicara prisión de tres a seis años.
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 28 DE NOVIEMBRE DE 1998)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 1998)</small>
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2003)</small>
 
@@ -4367,7 +4365,7 @@ Los delitos previstos en este artículo se perseguirán por querella.
 
 280.- Cuando concurra una sola de las circunstancias a que se refiere el artículo 299 se aumentará en un tercio la sanción que correspondería, si la lesión fuere simple; cuando concurren dos, se aumentará la sanción en una mitad y si concurren más de dos de las circunstancias dichas se aumentará la pena en dos terceras partes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE FEBRERO DE 1998)</small>
 
 281.- Al que en ejercicio de la tutela o estando encargado de la guarda de un menor, por cualquier motivo, lo maltrate, alterando su salud física, mental o emocional, se le impondrá la pena correspondiente a las lesiones que infiera, la que se aumentará hasta tres años de prisión, con privación de la tutela, o derechos derivados de la situación generadora de la guarda del menor. En todo caso, se dictarán las medidas necesarias e inmediatas para el tratamiento psicoterapéutico del sujeto activo del delito debiendo el Juez y Agente del Ministerio Público, proveer lo conducente para que se cumpla con esta medida.
 
@@ -4591,7 +4589,7 @@ IV.- Los Jueces podrán, además, declarar a los infractores, sujetos a la vigil
 
 329.- (DEROGADO, P.O. 19 DE ABRIL DE 1997)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2009)</small>
 
 ### CAPITULO II.
 
@@ -4613,7 +4611,7 @@ Injurias y difamación.
 
 337.- (DEROGADO, P.O. 18 DE ABRIL DE 2009)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2009)</small>
 
 ### CAPITULO III.
 
@@ -4627,7 +4625,7 @@ Calumnia.
 
 341.- (DEROGADO, P.O. 18 DE ABRIL DE 2009)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2009)</small>
 
 ### CAPITULO IV.
 
@@ -4641,7 +4639,7 @@ Disposiciones comunes para los capítulos procedentes.
 
 345.- (DEROGADO, P.O. 18 DE ABRIL DE 2009)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE ABRIL DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE ABRIL DE 2002)</small>
 
 ### CAPITULO I.
 
@@ -4677,7 +4675,7 @@ SI con la conducta descrita en el primer párrafo de este artículo, concurriere
 
 Si resultare otro delito, se atenderá a la pena agravada y a las reglas del concurso de delitos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2004)</small>
 
 347 Bis B.- A quien ilegalmente prive a una persona de su libertad mediante la violencia física o moral, la seducción o el engaño con la intención de realizar un acto erótico sexual o para contraer matrimonio, se le aplicará la pena de dos a ocho años de prisión y multa de veinticinco a trescientos salarios mínimos.
 
@@ -4719,7 +4717,7 @@ Al que cometa el delito señalado en el párrafo anterior, se le impondrá la pe
 
 Si el tiempo de la privación de la libertad excediera de cinco horas se aplicará lo dispuesto en el artículo 348.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2008)</small>
 
 348 Bis A.- Cuando en el secuestro concurran algunas de las siguientes circunstancias:
 
@@ -4765,7 +4763,7 @@ Trafico de menores.
 
 348 Bis C.- (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ABRIL DE 2002)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE ABRIL DE 2002)</small>
 
 ### CAPITULO IV.
 
@@ -4785,7 +4783,7 @@ La pena de prisión podrá ser disminuida hasta en una tercera parte en benefici
 
 El Estado y los municipios serán solidariamente responsables del pago de los daños y perjuicios causados por sus servidores públicos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE NOVIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE NOVIEMBRE DE 2008)</small>
 
 ### CAPITULO V.
 
@@ -4831,7 +4829,7 @@ Robo.
 
 349.- Comete el delito de robo: el que se apodera de una cosa ajena mueble, sin derecho y sin consentimiento de la persona que pueda disponer de ella con arreglo a la Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 350.- Las penas de robo se aplicarán también:
 
@@ -4875,7 +4873,7 @@ III.- Al que, después de la ejecución del robo y sin haber participado en ést
 
 357.- Al que sin derecho y sin consentimiento de quien pueda otorgarlo, se apodere:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2008)</small>
 
 I.- De un vehículo de motor, se le aplicara de ocho a catorce años de prisión y multa de quinientos a mil días de salario.
 
@@ -4885,7 +4883,7 @@ II.- De partes de vehículos automotores o de objetos de que se encuentren en el
 
 III. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 1998)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2008)</small>
 
 357 Bis.- Se sancionará con pena de ocho a catorce años de prisión y multa de quinientos a mil días de salario mínimo:
 
@@ -4955,7 +4953,7 @@ VI.- Cuando el ladrón se finja funcionario público o suponga una orden de la a
 
 368.- Al que se le imputare el hecho de haber tomado una cosa ajena, sin consentimiento del dueño o legítimo poseedor, y acredite haberla tomado con carácter temporal y no para apropiársela o venderla, se le aplicarán de un mes a un año de prisión, siempre que justifique no haberse negado a devolverla, si se le requirió para ello. Además, pagará al ofendido como reparación del daño, el doble del alquiler, arrendamiento o interés de la cosa usada.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE JUNIO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 1995)</small>
 
 369.- Además de la pena que le corresponda, conforme a los artículos 353 a 355 y 357, se aplicarán al delincuente de tres meses a tres años de prisión, en los casos siguientes:
 
@@ -5019,7 +5017,7 @@ III.- Con prisión de siete a diez años y multa de ciento ochenta a quinientas 
 
 373 Bis.- (DEROGADO, P.O. 27 DE AGOSTO DE 1994)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 1988)</small>
 
 374.- Se equipara el Abigeato y se sancionará con prisión de dos a cuatro años y multa de diez a cincuenta salarios mínimos vigente en el momento de cometerse el delito, a quienes:
 
@@ -5213,7 +5211,7 @@ La pena será aplicable aún cuando la posesión de la cosa usurpada sea dudosa 
 
 386.- Cuando alguno de los delitos a que se refiere este Capítulo lo cometieren más de cinco individuos, se aumentará la prisión de uno a seis años.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ### CAPITULO VI.
 
@@ -5395,7 +5393,7 @@ IV.- Impida la realización de una reunión, asamblea, manifestación pública, 
 
 401.- Se impondrá multa de 500 días de salario mínimo vigente, al ministro de culto religioso que, por cualquier medio, en el desarrollo de actos propios de su ministerio, induzca al electorado a votar en favor o en contra de un candidato o partido político, o a la abstención.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
 
 ### CAPITULO II.
 
@@ -5421,7 +5419,7 @@ V.- Materiales electorales: los elementos físicos, tales como urnas, canceles o
 
 403.- Las sanciones previstas en los delitos del presente capítulo, se aplicarán sin perjuicio de las demás penas que pudieran corresponder al responsable por el concurso real de delitos.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 7 DE FEBRERO DE 1998)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE FEBRERO DE 1998)</small>
 
 ### CAPITULO I
 
@@ -5441,7 +5439,7 @@ Comete el delito de Violencia Intrafamiliar el cónyuge, concubina o concubinari
 
 406.- En todos los casos previstos en los dos artículos precedentes, el Ministerio Público, exhortará al probable responsable para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima y acordará las medidas preventivas necesarias para salvaguardar la integridad física o psíquica de la misma. En todos los casos, el Ministerio Público deberá solicitar las medidas precautorias que considere pertinentes.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
 ### CAPITULO II
 
@@ -5481,17 +5479,17 @@ III.- Impida o dificulte la averiguación de los delitos y el castigo de los cul
 
 IV.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
 
 ## TITULO VIGESIMO PRIMERO.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
 
 ## TITULO VIGESIMO SEGUNDO.
 
 Delitos contra la familia.
 
-> <small>(REFORMADO [N. DE E. ANTES CAPITULO UNICO], P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO ÚNICO], P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 1o.
 
@@ -5533,7 +5531,7 @@ SUFRAGIO EFECTIVO. NO REELECCION.- EL RESPETO AL DERECHO AJENO ES LA PAZ.- Oaxac
 
 Al C.........
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 30 DE OCTUBRE DE 1982.
 
@@ -5605,7 +5603,7 @@ TERCERO.- La exposición de motivos se publicará en el Periódico Oficial junto
 
 P.O. 28 DE NOVIEMBRE DE 1998.
 
-DECRETO NUM. 332, SE REFORMAN DIVERSOS ARTICULOS DEL CODIGO PENAL.
+DECRETO NÚM. 332, SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del gobierno del Estado; a excepción de lo dispuesto en la Fracción II del artículo 357 BIS, del Código Penal del Estado, que entrará en vigor noventa días después de su publicación.
 
@@ -5615,7 +5613,7 @@ TERCERO.- La exposición de motivos se publicará en el Periódico Oficial junto
 
 P.O. 28 DE NOVIEMBRE DE 1998.
 
-DECRETO POR EL QUE SE REFORMAN DIVERSOS ARTICULOS DEL CODIGO PENAL.
+DECRETO POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL.
 
 PRIMERO.- El presente decreto entrará en vigor diez días después de su publicación en el periódico oficial.
 
@@ -5715,7 +5713,7 @@ SEXTO.- En un plazo no mayor a sesenta días, el Congreso del Estado deberá rea
 
 P.O. 23 DE SEPTIEMBRE DE 2011.
 
-DECRETO NUM. 633 POR EL QUE SE REFORMAN LOS ARTICULOS 119, 122, 123, 217 BIS-E, 383 Y 406 DEL CODIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA.
+DECRETO NÚM. 633 POR EL QUE SE REFORMAN LOS ARTÍCULOS 119, 122, 123, 217 BIS-E, 383 Y 406 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA.
 
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -5723,9 +5721,15 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 23 DE SEPTIEMBRE DE 2011.
 
-DECRETO NUM. 643 POR EL QUE SE REFORMA LA DENOMINACION DEL CAPITULO UNICO PARA DENOMINARSE CAPITULO I Y SE ADICIONA UN CAPITULO II, INTEGRADO CON LOS ARTICULOS 407, 408, 409 Y 410 AL TITULO VIGESIMO SEGUNDO DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA.
+DECRETO NÚM. 643 POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO ÚNICO PARA DENOMINARSE CAPÍTULO I Y SE ADICIONA UN CAPÍTULO II, INTEGRADO CON LOS ARTÍCULOS 407, 408, 409 Y 410 AL TÍTULO VIGÉSIMO SEGUNDO DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE MAYO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ###### Artículo 10.
 
