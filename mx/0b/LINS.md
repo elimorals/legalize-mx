@@ -4,7 +4,7 @@ identifier: "LINS"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-26"
-last_updated: "2012-04-09"
+last_updated: "2012-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16233&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LINS"
 
 LEY DE LOS INSTITUTOS NACIONALES DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MAYO DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de mayo de 2000.
 
@@ -97,6 +97,10 @@ III. Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, par
 > <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2006)</small>
 
 IV. Instituto Nacional de Enfermedades Respiratorias Ismael Cosío Villegas, para los padecimientos del aparato respiratorio;
+
+> <small>(ADICIONADA, D.O.F. 30 DE MAYO DE 2012)</small>
+
+IV Bis. Instituto Nacional de Geriatría, para la formación de recursos humanos y la investigación del envejecimiento, de las enfermedades y cuidados del adulto mayor;
 
 V. Instituto Nacional de Neurología y Neurocirugía Manuel Velasco Suárez, para las afecciones del sistema nervioso;
 
@@ -183,6 +187,18 @@ IV. Impulsar en forma decidida la vinculación con instituciones nacionales para
 V. Fomentar la realización de proyectos de desarrollo de tecnología especializada, obteniendo con ello protocolos de innovación tecnológica en cuanto a la elaboración de medios de diagnóstico, fármaco-genómica y terapia génica, y
 
 VI. Ser el Centro Nacional de Referencia para asuntos relacionados con estudios sobre el genoma humano y sus aplicaciones.
+
+> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
+
+###### ARTÍCULO 7 Ter.
+
+El Instituto Nacional de Geriatría tendrá, además de las funciones señaladas en el artículo 6 de esta ley, las siguientes:
+
+I. Apoyar a la Secretaría, en su carácter de dependencia coordinadora de sector, para la elaboración y ejecución de los programas anuales, sectoriales, especiales y regionales de salud en el ámbito de sus funciones, así como promover la concertación de acciones con los sectores social y privado en su ámbito de competencia;
+
+II. Fomentar la realización de proyectos de desarrollo de tecnología especializada, obteniendo con ello protocolos de innovación tecnológica en cuanto a la elaboración de medios de diagnóstico y tratamiento; y
+
+III. Ser el centro nacional de referencia para asuntos relacionados con estudios sobre el envejecimiento poblacional y sus aplicaciones.
 
 ###### ARTÍCULO 8.
 
@@ -650,7 +666,7 @@ México, D.F., a 29 de abril de 2000.- Dip. Francisco José Paoli Bolio, Preside
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de mayo de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 20 DE JULIO DE 2004.
 
@@ -689,3 +705,19 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 30 DE MAYO DE 2012.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La creación del organismo público descentralizado de la Administración Pública Federal, Instituto Nacional de Geriatría, deberá sujetarse a los recursos humanos, financieros y materiales con los que cuenta actualmente el órgano desconcentrado Instituto de Geriatría.
+
+Tercero. Las relaciones entre el Instituto Nacional de Geriatría y sus trabajadores se sujetarán a lo dispuesto en el apartado B) del artículo 123 Constitucional.
+
+Cuarto. Dentro de los 90 días naturales posteriores a la publicación del presente Decreto, deberá celebrarse la sesión de instalación de la junta de gobierno, en la cual se deberá expedir su estatuto orgánico, y se podrá designar un Director General.
+
+Quinto. En tanto se haga la designación del Director General, la representación del Instituto Nacional de Geriatría recaerá en el servidor público que a la fecha de entrada en vigor del presente Decreto ocupa el cargo de Director General del órgano desconcentrado creado por el Decreto por el que se crea el Instituto de Geriatría, publicado en el Diario Oficial de la Federación del 29 de julio de 2008.
+
+Sexto. Por única vez, dos de los cuatro vocales de la Honorable Junta de Gobierno del Instituto durarán en su encargo 2 años.
+
+Séptimo. Se abroga el Decreto por el que se crea el Instituto de Geriatría, publicado en el Diario Oficial de la Federación del 29 de julio de 2008.
