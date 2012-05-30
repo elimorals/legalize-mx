@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2011-03-26"
+last_updated: "2012-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
+CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2012.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -45,7 +45,7 @@ El Estado es libre y soberano en lo que concierne a su régimen interior.
 
 El territorio del Estado es el que de hecho ha poseído y posee, y el que de derecho le corresponda.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
 
 ## TITULO II.
 
@@ -205,7 +205,7 @@ La educación de los pueblos indígenas será objeto de atención especial por p
 
 Los servicios de salud que el Estado proporcione a los pueblos indígenas se planearán en coordinación con éstos, teniendo en cuenta su idioma, usos y costumbres.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 1994)</small>
 
 ## TITULO III.
 
@@ -285,7 +285,7 @@ Son obligaciones de los vecinos, inscribirse en los padrones respectivos y manif
 
 DE LOS CHIHUAHUENSES.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2009)</small>
 
 ###### Art. 18.
 
@@ -405,7 +405,7 @@ Las leyes determinarán a qué autoridad corresponde decretar la suspensión, p�
 
 DEL PODER PUBLICO.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2009)</small>
 
 ###### Art. 27.
 
@@ -535,7 +535,7 @@ V.- Sucesivamente, el Presidente Municipal que, habiendo permanecido dentro del 
 
 La persona que asuma el Poder Ejecutivo conforme a este artículo, convocará dentro de los noventa días siguientes a elecciones de diputados al Congreso, y éste una vez instalado, nombrará Gobernador con el carácter que corresponda.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE NOVIEMBRE DE 2008)</small>
 
 ## TITULO VI.
 
@@ -561,7 +561,7 @@ La duración de las campañas en el año de elecciones para Gobernador, diputado
 
 La organización, dirección y vigilancia de las elecciones y demás procesos que requieran consulta pública en el Estado, estarán a cargo de un organismo público denominado Instituto Estatal Electoral, que gozará de autonomía en su funcionamiento e independencia en sus decisiones, con personalidad jurídica y patrimonio propios; se compondrá de un órgano central de mayor jerarquía denominado Consejo General y los órganos distritales y municipales.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO QUE MODIFICA LA CONSTITUCION, EL PRESENTE PARRAFO QUEDA INTEGRADO POR LOS ANTERIORES OCTAVO Y NOVENO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN, EL PRESENTE PÁRRAFO QUEDA INTEGRADO POR LOS ANTERIORES OCTAVO Y NOVENO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2009)</small>
 
@@ -673,7 +673,7 @@ La Ley establecerá la demarcación territorial de los distritos electorales uni
 
 LA APROBACIÓN DE LA DELIMITACIÓN DE LOS DISTRITOS ELECTORALES UNINOMINALES SE HARÁ MEDIANTE VOTACIÓN, DE POR LO MENOS LAS DOS TERCERAS PARTES DE LOS DIPUTADOS PRESENTES.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ENERO DE 1979)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 1979)</small>
 
 ###### Art. 41.
 
@@ -719,7 +719,7 @@ La infracción de esta disposición será castigada, previa audiencia del intere
 
 Se exceptúa de lo dispuesto en este artículo a quienes ejerzan, cuando menos desde dos años antes al día de la elección, actividades docentes en instituciones oficiales de educación superior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ENERO DE 1979)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 1979)</small>
 
 ###### Art. 43.
 
@@ -739,7 +739,7 @@ V.- Cuando deban hacerlo en cualquier otro caso, de acuerdo con la Ley Orgánica
 
 En los casos de las fracciones II y IV, los Suplentes funcionarán tan sólo hasta que se presente el Propietario.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 1994)</small>
 
 ### CAPITULO II.
 
@@ -885,13 +885,13 @@ En todos los casos no previstos en esta Constitución y en que de hecho desapare
 
 En caso de desaparición legal de un Congreso, el que lo substituya para concluir el correspondiente período, llevará el número de la Legislatura desaparecida.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE ENERO DE 1979)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE ENERO DE 1979)</small>
 
 ### CAPITULO III.
 
 DE LAS FACULTADES DEL CONGRESO.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ENERO DE 1979)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 1979)</small>
 
 ###### Art. 64.
 
@@ -997,7 +997,7 @@ XIII.- Disponer la resistencia a una invasión extranjera, en caso de que el pel
 
 XIV.- Asignar para sus gastos a cada Municipio, cuando lo crea conveniente, un tanto por ciento del monto de las rentas del Estado que se recauden en su respectivo territorio, y concederles subsidios extraordinarios cuando lo considere necesario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
 
 XV.- Constituido en Colegio Electoral:
 
@@ -1183,7 +1183,7 @@ II.- Despachar dentro de los términos que señale la Ley Orgánica del Congreso
 
 III.- Emitir su voto en los asuntos que se sometan a la deliberación del Congreso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
 IV.- Visitar en los recesos de la Legislatura, cuando menos una vez, el distrito por el que resultaron electos, o los de aquel en que residan quienes fueron electos por el principio de representación proporcional, para informarse:
 
@@ -1207,7 +1207,7 @@ E.- Presentar al Congreso, a más tardar en la tercera sesión posterior inmedia
 
 Para que los diputados puedan cumplir con las prevenciones contenidas en este artículo, todos los funcionarios del Estado y de los municipios les proporcionarán cuantos datos les pidieren.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Art. 66.
 
@@ -1243,7 +1243,7 @@ Los diputados son inviolables por las opiniones que manifiesten en el desempeño
 
 El Presidente del Congreso o de la Diputación Permanente, en su caso, velará por el respeto al fuero constitucional de los diputados y por la inviolabilidad del recinto donde se reúnen a sesionar.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 1994)</small>
 
 ### CAPITULO V.
 
@@ -1405,7 +1405,7 @@ XI.- Las demás que establezcan esta Constitución y las leyes.
 
 La Diputación Permanente dará cuenta al Congreso, en la segunda sesión del período ordinario siguiente, del uso que hubiere hecho de sus atribuciones, presentando al efecto una memoria escrita de sus trabajos, así como de los expedientes que hubiere formado.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE MAYO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE MAYO DE 2007)</small>
 
 ### CAPÍTULO VII
 
@@ -1493,7 +1493,7 @@ I.- En caso de falta temporal que no exceda de sesenta días, el Secretario Gene
 
 II.- En caso de falta absoluta ocurrida durante los dos primeros años del período, el Congreso, por mayoría absoluta de votos, o la Diputación Permanente en su caso, nombrará un Gobernador provisional y convocará dentro de los siguientes noventa días a elecciones, las que deberán efectuarse en un término que no exceda de tres meses. El Congreso, al entrar en sesiones, podrá modificar el nombramiento de Gobernador provisional hecho por la Diputación Permanente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 1988)</small>
 
 III.- Si la falta absoluta ocurriere durante los cuatro últimos años del período, el Congreso por mayoría absoluta de votos, nombrará un Gobernador Sustituto que desempeñe el cargo hasta la conclusión del período y, en caso de receso, la Diputación Permanente hará el nombramiento convocando desde luego a sesiones al Congreso para que éste lo ratifique o haga otro nuevo.
 
@@ -1523,13 +1523,13 @@ El Gobernador no puede separarse por tiempo alguno del ejercicio de sus funcione
 
 El Gobernador se considerará separado del Despacho, cuando saliere de los límites del Estado sin la licencia requerida por el artículo próximo anterior, salvo casos de fuerza mayor.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 1994)</small>
 
 ### CAPITULO II.
 
 DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Art. 93.
 
@@ -1681,7 +1681,7 @@ La Administración Pública será centralizada y paraestatal conforme a la Ley O
 
 Las leyes determinarán las relaciones entre las Entidades Paraestatales y el Ejecutivo del Estado, o entre estas y las dependencias centralizadas en su caso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Art. 95.
 
@@ -2119,7 +2119,7 @@ III.- De los comisarios de policía, los que residirán en los lugares de menor 
 
 Por cada miembro propietario de un Ayuntamiento o Junta Municipal y por cada Comisario de Policía, se elegirá un Suplente, para cubrir las faltas del respectivo Propietario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 126.
 
@@ -2319,7 +2319,7 @@ Los ayuntamientos autorizarán en sus Presupuestos de Egresos, las erogaciones p
 
 Presentar al Congreso la cuenta pública municipal, trimestral y anualmente, dentro del mes siguiente a la terminación del período que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2001)</small>
 
 ###### Art. 135.
 
@@ -2353,13 +2353,13 @@ Los ayuntamientos, mediante el voto de las dos terceras partes de sus miembros, 
 
 Los compromisos asumidos por los municipios en los términos del presente artículo, no se considerarán como contratación de créditos o empréstitos, por lo cual no constituyen deuda pública.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2001)</small>
 
 ###### Art. 138.
 
 La ley en materia municipal determinará los ramos que sean de la competencia del gobierno municipal, la que será ejercida por los ayuntamientos en forma exclusiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2001)</small>
 
 Los ramos a que se refiere el párrafo anterior, en forma enunciativa y no limitativa, serán los siguientes:
 
@@ -2439,6 +2439,10 @@ B.- Otorgamiento de becas; y,
 
 C.- Fomento de la educación física.
 
+> <small>(ADICIONADO P.O. 30 DE MAYO DE 2012)</small>
+
+D.- Fortalecer la participación social en la educación en todos los niveles y modalidades.
+
 > <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2009)</small>
 
 X.- En materia de salubridad, salud y asistencia social:
@@ -2511,7 +2515,7 @@ Las facultades que no estén expresamente otorgadas a los municipios se entiende
 
 DE LA ADMINISTRACION GENERAL.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 1994)</small>
 
 ### CAPITULO II.
 
@@ -2591,7 +2595,7 @@ La educación pública en el Estado estará a cargo del Ejecutivo por conducto d
 
 (DEROGADO, P.O. 1 DE OCTUBRE DE 1994)
 
-(REUBICADO Y REFORMADA SU DENOMINACION, P.O. 1 DE OCTUBRE DE 1994)
+(REUBICADO Y REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 1994)
 
 ### CAPITULO III.
 
@@ -2631,7 +2635,7 @@ El ejercicio de profesiones, especialidades, actividades técnicas y auxiliares 
 
 La Legislatura del Estado establecerá las normas sobre salud que no sean de la competencia exclusiva del Congreso de la Unión.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 1994)</small>
 
 ### CAPITULO IV.
 
@@ -2695,7 +2699,7 @@ El encargado de las finanzas del Estado y los demás funcionarios y empleados qu
 
 La ley determinará las atribuciones de la dependencia encargada de las finanzas públicas del Estado.
 
-> <small>(REFORMADA SU DENOMINACION [N. DE E. ADICIONADO], P.O. 9 DE MAYO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], P.O. 9 DE MAYO DE 2007)</small>
 
 ### CAPITULO V.
 
@@ -2729,7 +2733,7 @@ La Auditoría Superior del Estado rendirá a la Comisión de Fiscalización del 
 
 El titular de la Auditoría Superior del Estado, presentará al Pleno del Congreso en la tercera sesión del período ordinario, un informe del estado que guarda la auditoría de la cuenta pública estatal y municipal y de los estados financieros señalados en la fracción VII del artículo 64 de esta Constitución así como de las acciones de responsabilidades iniciadas y su estado.
 
-> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES CAPITULO IV], P.O. 9 DE MAYO DE 2007)</small>
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO IV], P.O. 9 DE MAYO DE 2007)</small>
 
 ### CAPITULO VI.
 
@@ -2741,7 +2745,7 @@ En el diseño de las políticas públicas, el Gobierno del Estado y los municipi
 
 Asimismo, los diversos proyectos de obra pública, en cualquiera de los órdenes de Gobierno, deberán garantizar, entre otras cosas, que el desarrollo sea integral y sustentable; que los mismos sean evaluables mediante criterios de carácter ambiental, económico y social, que tiendan a mejorar la calidad de vida y la productividad de las personas; que consideren medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras.
 
-> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES CAPITULO V], P.O. 9 DE MAYO DE 2007)</small>
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO V], P.O. 9 DE MAYO DE 2007)</small>
 
 ###### Art. 174.
 
@@ -2763,13 +2767,13 @@ La ley fijará la extensión del patrimonio de familia, así en cuanto a su obje
 
 En tiempos de carestía de los artículos de primera necesidad, el Congreso podrá decretar la apertura de establecimientos en donde aquellos se expendan al precio de costo, fijando el tiempo durante el cual deban operar los expendios, cuya organización y vigilancia se dejarán a cargo del Ejecutivo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2004)</small>
 
 ## TITULO XIII.
 
 DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS Y PATRIMONIAL DEL ESTADO.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PARRAFO, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Art. 178.
 
@@ -2859,7 +2863,7 @@ No procede el juicio político por la mera expresión de las ideas.
 
 El procedimiento de juicio político sólo podrá iniciarse durante el período en que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en el período no mayor de un año a partir de iniciado el procedimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 1988)</small>
 
 ###### Art. 183.
 
@@ -2923,7 +2927,7 @@ En las cuestiones de orden administrativo que señale la ley y con arreglo a lo 
 
 Ningún ciudadano podrá desempeñar ni conservar dos o más cargos de elección popular; pero el electo podrá optar por el que le conviniere entendiéndose renunciado uno con la aceptación del otro.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2009)</small>
 
 ###### Art. 191.
 
@@ -3049,7 +3053,7 @@ Palacio de Gobierno del Estado. Chihuahua a 16 de junio de 1950.
 
 ING. FERNANDO FOGLIO MIRAMONTES. El Srio. Gral. de Gobierno, ING.- CRISOFORO CABALLERO B.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.</small>
 
 P.O. 2 DE MAYO DE 1951.
 
@@ -3399,7 +3403,7 @@ Realizado el cómputo a que el mismo se refiere, hágase la declaración corresp
 
 P.O. 30 DE OCTUBRE DE 2004.
 
-DECRETO No. 756/03 VIII P.E., QUE MODIFICA EL TITULO XIII Y SE ADICIONA UN SEXTO PARRAFO AL ARTICULO 178 DE LA CONSTITUCION POLITICA DEL ESTADO DE CHIHUAHUA.
+DECRETO No. 756/03 VIII P.E., QUE MODIFICA EL TÍTULO XIII Y SE ADICIONA UN SEXTO PÁRRAFO AL ARTÍCULO 178 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA.
 
 PRIMERO.- El presente Decreto entrará en vigor en un plazo de ciento ochenta días, contados a partir de su publicación en el Periódico Oficial del Estado.
 
@@ -3413,7 +3417,7 @@ b) El pago de la indemnización estará sujeto a la disponibilidad presupuestal 
 
 P.O. 30 DE OCTUBRE DE 2004.
 
-DECRETO No. 1011/04 II P.O., QUE MODIFICA EL ARTICULO 93, EN SU FRACCION XXXIV, DE LA CONSTITUCION POLITICA DEL ESTADO.
+DECRETO No. 1011/04 II P.O., QUE MODIFICA EL ARTÍCULO 93, EN SU FRACCIÓN XXXIV, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
 PRIMERO. Conforme lo dispone el artículo 202 de la Constitución Política Estatal, envíese copia de la iniciativa y de los debates del Congreso a los Ayuntamientos de los sesenta y siete municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución local.
 
@@ -3545,7 +3549,7 @@ El presente Decreto, por lo que se refiere a la reforma a la Constitución Polí
 
 P.O. 15 DE NOVIEMBRE DE 2008.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3º. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
 
 P.O. 10 DE DICIEMBRE DE 2008.
 
@@ -3635,7 +3639,7 @@ SEGUNDO.- Las reformas a la Ley de Protección Civil del Estado de Chihuahua, co
 
 P.O. 28 DE JULIO DE 2010.
 
-DECRETO No. 1022/10 VII P.E., POR EL QUE SE REFORMAN LOS ARTICULOS 64 Y 109, DE LA CONSTITUCION POLITICA DEL ESTADO DE CHIHUAHUA.
+DECRETO No. 1022/10 VII P.E., POR EL QUE SE REFORMAN LOS ARTÍCULOS 64 Y 109, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA.
 
 PRIMERO.- Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Política local. Realizado que sea, publíquese en el Periódico Oficial del Estado.
 
@@ -3643,7 +3647,7 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 P.O. 28 DE JULIO DE 2010.
 
-DECRETO No. 1023/10 VII P.E., POR EL QUE SE REFORMA Y ADICIONA EL ARTICULO 96 DE LA CONSTITUCION POLITICA DEL ESTADO DE CHIHUAHUA.
+DECRETO No. 1023/10 VII P.E., POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 96 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA.
 
 PRIMERO.- Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Política local. Realizado que sea, publíquese en el Periódico Oficial del Estado.
 
@@ -3651,7 +3655,7 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 P.O. 28 DE JULIO DE 2010.
 
-DECRETO No. 1059/2010 II P.O., POR EL QUE SE REFORMA EL ARTICULO 165 DE LA CONSTITUCION POLITICA DEL ESTADO DE CHIHUAHUA.
+DECRETO No. 1059/2010 II P.O., POR EL QUE SE REFORMA EL ARTÍCULO 165 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3684,3 +3688,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO TERCERO.
 
 Las adecuaciones a la legislación secundaria deberán realizarse dentro de un periodo no mayor a un año, contado a partir del día siguiente en que surta vigencia el presente Decreto.
+
+P.O. 30 DE MAYO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
