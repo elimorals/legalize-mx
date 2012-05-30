@@ -4,7 +4,7 @@ identifier: "LGPGIR"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-10-08"
-last_updated: "2007-06-19"
+last_updated: "2012-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34141&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LGPGIR"
 ---
 # LEY GENERAL PARA LA PREVENCION Y GESTION INTEGRAL DE LOS RESIDUOS
 
-LEY GENERAL PARA LA PREVENCION Y GESTION INTEGRAL DE LOS RESIDUOS
+LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE JUNIO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MAYO DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 8 de octubre de 2003.
 
@@ -1076,9 +1076,17 @@ IX. Desarrollar guías y lineamientos para la segregación, recolección, acopio
 
 X. Organizar y promover actividades de comunicación, educación, capacitación, investigación y desarrollo tecnológico para prevenir la generación, valorizar y lograr el manejo integral de los residuos;
 
-XI. Promover la integración, operación y funcionamiento de organismos consultivos en los que participen representantes de los sectores industrial, comercial y de servicios, académico, de investigación y desarrollo tecnológico, asociaciones profesionales y de consumidores, y redes intersectoriales relacionadas con el tema, para que tomen parte en los procesos destinados a clasificar los residuos, evaluar las tecnologías para su prevención, valorización y tratamiento, planificar el desarrollo de la infraestructura para su manejo y desarrollar las propuestas técnicas de instrumentos normativos y de otra índole que ayuden a lograr los objetivos en la materia, y
+> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2012)</small>
 
-XII. Realizar las acciones necesarias para prevenir y controlar la contaminación por residuos susceptibles de provocar procesos de salinización de suelos e incrementos excesivos de carga orgánica en suelos y cuerpos de agua.
+XI. Promover la integración, operación y funcionamiento de organismos consultivos en los que participen representantes de los sectores industrial, comercial y de servicios, académico, de investigación y desarrollo tecnológico, asociaciones profesionales y de consumidores, y redes intersectoriales relacionadas con el tema, para que tomen parte en los procesos destinados a clasificar los residuos, evaluar las tecnologías para su prevención, valorización y tratamiento, planificar el desarrollo de la infraestructura para su manejo y desarrollar las propuestas técnicas de instrumentos normativos y de otra índole que ayuden a lograr los objetivos en la materia;
+
+> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2012)</small>
+
+XII. Realizar las acciones necesarias para prevenir y controlar la contaminación por residuos susceptibles de provocar procesos de salinización de suelos e incrementos excesivos de carga orgánica en suelos y cuerpos de agua, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE MAYO DE 2012)</small>
+
+XIII. Identificar los requerimientos y promover la inversión para el desarrollo de infraestructura y equipamiento, a fin de garantizar el manejo integral de los residuos.
 
 ###### Artículo 97.
 
@@ -1132,7 +1140,7 @@ Si como resultado de una visita de inspección se detecta la comisión de un del
 
 ### CAPÍTULO II. MEDIDAS DE SEGURIDAD
 
-> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 22 DE MAYO DE 2006)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, D.O.F. 22 DE MAYO DE 2006)</small>
 
 ###### Artículo 104.
 
@@ -1426,7 +1434,7 @@ México, D.F., a 28 de abril de 2003.- Sen. Enrique Jackson Ramírez, Presidente
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los tres días del mes de octubre de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 22 DE MAYO DE 2006.
 
@@ -1437,3 +1445,7 @@ D.O.F. 19 DE JUNIO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE MAYO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
