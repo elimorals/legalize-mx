@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-del-trabajo-del-estado-873
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-03-16"
-last_updated: "2012-03-16"
+last_updated: "2012-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87328&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 30 DE MAYO DE 2012.
 
 Reglamento publicado en la Gaceta de Gobierno del Estado de México, el viernes 16 de marzo de 2012.
 
@@ -231,7 +231,13 @@ XX. Elaborar y revisar los documentos jurídicos relacionados con las atribucion
 
 XXI. Estudiar y, en su caso, intervenir en las reclamaciones y litigios en que tenga interés la Secretaría.
 
-XXII. Representar a la Secretaría y al Secretario en los juicios y procedimientos en que sean parte, ante las autoridades jurisdiccionales y administrativas de competencia local y federal, contestando demandas, ofreciendo pruebas, oponiendo excepciones y defensas, interponiendo recursos y emitiendo los informes que requiera la autoridad federal en el juicio de amparo e intervenir en el cumplimiento de sus resoluciones.
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2012)</small>
+
+XXII. Representar jurídicamente a la Secretaría y contestar las demandas en las que sea parte, con motivo de la imposición de sanciones por el incumplimiento de las normas de trabajo ante el Tribunal de lo Contencioso Administrativo del Estado y ante cualquier otro, en términos de lo dispuesto por el Código de Procedimientos Administrativos y demás disposiciones jurídicas aplicables.
+
+Representar al Secretario del Trabajo y a la Secretaría en la elaboración y contestación de demandas ante las autoridades locales cualquiera que sea su competencia y ante las autoridades federales y ser parte en el juicio de amparo, coadyuvando con el Ejecutivo del Estado, como parte o tercero perjudicado.
+
+El Titular de la Dirección podrá delegar la representación jurídica de la Secretaría, en los procedimientos jurídicos, administrativos, laborales, y de cualquier índole en uno o varios servidores públicos de la Dirección o un tercero ajeno a la misma.
 
 XXIII. Colaborar con la Secretaría de la Contraloría y la Procuraduría General de Justicia del Estado, en el trámite de los asuntos que afecten a la Secretaría o en los que tenga interés jurídico, en coordinación con el área que corresponda.
 
@@ -472,3 +478,11 @@ SECRETARIO GENERAL DE GOBIERNO
 LIC. ERNESTO JAVIER NEMER ÁLVAREZ
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 30 DE MAYO DE 2012.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
