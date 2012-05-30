@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-gobierno-59888"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-01-30"
-last_updated: "2010-04-07"
+last_updated: "2012-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59888&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE TABASCO, PUBLICADO EN EL P.O. 30 DE MAYO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de enero de 2008.
 
@@ -1899,7 +1901,7 @@ LIC. MIGUEL ALBERTO ROMERO PÉREZ
 
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO
 
-N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.
+N. DE E.: A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.
 
 P.O. 24 DE ENERO DE 2009.
 
@@ -1910,3 +1912,19 @@ P.O. 7 DE ABRIL DE 2010.
 PRIMERO.- El presente acuerdo entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El personal, los activos patrimoniales constituidos por los muebles e inmuebles y en general, los pasivos y obligaciones que tuviese la Dirección General de la Policía Estatal de Caminos, se incorporarán a la Secretaría de Seguridad Pública.
+
+P.O. 30 DE MAYO DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Gobierno de fecha 29 de Diciembre de 2007, publicado en el Suplemento al Periódico Oficial del Estado número 6824 de fecha 30 de Enero de 2008.
+
+TERCERO.- Se derogan todas las disposiciones administrativas reglamentarias que se opongan al presente Reglamento.
+
+CUARTO.- Se abroga el Acuerdo de creación de la Coordinación Regional de Gobierno del Estado Zona Ríos y Jonuta, publicado en el Suplemento "E" al Periódico Oficial número 7162 de fecha 27 de abril de 2011.
+
+QUINTO.- En caso de que por razones administrativas no se pudiese crear y funcionar alguna unidad prevista en este Reglamento, se creará en cuanto sea posible, mientras tanto sus funciones serán ejercidas por el servidor público que el Secretario de Gobierno designe.
+
+SEXTO.- Los asuntos pendientes al entrar en vigor este Reglamento, que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas Unidades a las que se les haya atribuido la competencia en este Reglamento.
+
+SÉPTIMO.- Cuando en este Reglamento se dé una denominación nueva o distinta a alguna Unidad Administrativa establecida con anterioridad a la vigencia del mismo, aquella unidad atenderá los asuntos a que se refiere este ordenamiento.
