@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-instituto-de-poblacion-y-ciudades-70904
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-21"
-last_updated: "2011-09-14"
+last_updated: "2012-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE POBLACION Y CIUDADES RURALES
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE POBLACION Y CIUDADES RURALES
+REGLAMENTO INTERIOR DEL INSTITUTO DE POBLACIÓN Y CIUDADES RURALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 21 de octubre de 2009.
 
@@ -49,9 +49,11 @@ Las disposiciones de este Reglamento son de orden público, de interés social y
 
 El Instituto de Población y Ciudades Rurales, es una Dependencia del Poder Ejecutivo del Estado, que tiene a su cargo el despacho de los asuntos que le confiere la Ley Orgánica de la Administración Pública del Estado de Chiapas, la Ley de Ciudades Rurales Sustentables para el Estado de Chiapas, este Reglamento y demás disposiciones legales aplicables dentro del ámbito de su competencia.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2012)</small>
+
 ###### Artículo 3°.
 
-El Instituto de Población y Ciudades Rurales, tiene como objetivo principal combatir la dispersión y marginación de los asentamientos humanos, acercar los servicios básicos a un mayor número de personas que habitan en las zonas rurales, promover acciones específicas en materia de población, así como propiciar las condiciones que permitan el desarrollo económico sustentable y las actividades productivas propias de la región, elevar la calidad de vida y los índices de desarrollo humano contribuyendo de esta forma a disminuir el rezago social de nuestro Estado.
+El Instituto de Población y Ciudades Rurales, tiene como objetivo principal, normar y ejecutar acciones para combatir la dispersión y marginación de los asentamientos humanos, acercar los servicios básicos a un mayor número de personas que habitan en las zonas rurales, promover acciones específicas en materia de población, para propiciar las condiciones que permitan el desarrollo económico sustentable y las actividades productivas propias de la región, elevar la calidad de vida y los índices de desarrollo humano, así como establecer y desarrollar programas tendentes a la construcción de villas y ciudades rurales, contribuyendo de esta forma a disminuir el rezago social de nuestro Estado.
 
 ###### Artículo 4°.
 
@@ -67,7 +69,9 @@ II. Instituto: Al Instituto de Población y Ciudades Rurales.
 
 III. Presidente: Al Titular del Instituto de Población y Ciudades Rurales.
 
-IV. Directores: A los Titulares de las Direcciones de Población, Planeación, Concertación y Gestión Financiera y de Desarrollo Social, Económico y Territorial.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+IV. Directores: A los Titulares de las Direcciones de Población; Planeación; Concertación y Gestión Financiera; Desarrollo Social, Económico y Territorial; y, de Obra Pública.
 
 V. Órganos Administrativos: A la Presidencia, Unidades, Direcciones, Departamentos y Áreas que forman parte de la estructura orgánica del Instituto.
 
@@ -99,9 +103,15 @@ VI. Dirección de Población.
 
 VII. Dirección de Planeación.
 
-VIII. Dirección de Concertación y Gestión Financiera; y,
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+VIII. Dirección de Concertación y Gestión Financiera.
 
 IX. Dirección de Desarrollo Social, Económico y Territorial.
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2012)</small>
+
+X. Dirección de Obra Pública.
 
 ###### Artículo 8°.
 
@@ -124,6 +134,10 @@ El Instituto desarrollará sus atribuciones en forma planeada y programada, con 
 ###### Artículo 12.
 
 La representación, trámite y resolución de los asuntos competencia del Instituto, corresponden originalmente al Presidente, quien para el desempeño eficaz de sus facultades, podrá delegar atribuciones en los servidores públicos subalternos, sin perjuicio de su ejercicio directo, con excepción de las que por su naturaleza sean indelegables.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2012)</small>
+
+Los acuerdos delegatorios producirán efectos, por simple escrito emitido por el Titular que delega la atribución, cuando se trate de un asunto o acto de carácter específico hasta su total conclusión y cuando deban producir efectos generales, se requerirá su publicación en el Periódico Oficial del Estado.
 
 ###### Artículo 13.
 
@@ -175,9 +189,21 @@ XVII. Emitir o ejecutar las medidas necesarias para la suspensión o reintegro d
 
 XVIII. Fomentar la incorporación de beneficiarios al Programa de Ciudades Rurales Sustentables, observando los criterios establecidos en la Ley de Ciudades Rurales Sustentables para el Estado de Chiapas.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
 
-XIX. Las demás que en el ámbito de su competencia le asigne el Titular del Ejecutivo, las leyes, reglamentos, decretos y demás disposiciones legales y normativas que le resulten aplicables.
+XIX. Presidir en el ámbito de su competencia, el Comité de Obra Pública del Instituto de Población y Ciudades Rurales.
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2012)</small>
+
+XX. Designar por si o a través de terceros la ejecución de obra pública en la construcción y desarrollo de villas y ciudades rurales sustentables en el Estado, de conformidad con la legislación aplicable.
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2012)</small>
+
+XXI. Vigilar en el ámbito de su competencia, la ejecución de obra pública en la construcción y desarrollo de villas y ciudades rurales sustentables, conforme a las normas, especificaciones, proyectos y programas aprobados, de acuerdo a lo estipulado en los contratos de obra.
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2012)</small>
+
+XXII. Las demás que en el ámbito de su competencia le asigne el Titular del Ejecutivo, las leyes, reglamentos, decretos y demás disposiciones legales y normativas que le resulten aplicables.
 
 ###### Artículo 14.
 
@@ -599,6 +625,62 @@ XIX. Promover la incorporación de beneficiarios al Programa de Ciudades Rurales
 
 XX. Las demás que en el ámbito de su competencia le confieran las disposiciones legales aplicables, así como las que le sean asignadas.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2012)</small>
+
+###### Artículo 28 Bis.
+
+La Dirección de Obra Pública, tiene los Órganos Administrativos siguientes:
+
+a) Departamento de Licitaciones y Contratos.
+
+b) Departamento de Costos y Supervisión de Obra.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2012)</small>
+
+###### Artículo 28 Ter.
+
+El Titular de la Dirección de Obra Pública, tiene las atribuciones siguientes:
+
+I. Vigilar en el ámbito de su competencia, el cumplimiento de las normas, políticas y procedimientos de los programas Federales, Estatales y Municipales, a cargo del Instituto.
+
+II. Proponer al Presidente para su aprobación, el Programa Anual de Contratación de la Obra Pública relacionadas con la construcción de villas y ciudades rurales sustentables, a cargo del Instituto, conforme al presupuesto que le sea autorizado, de conformidad con lo establecido en la Ley de Obra Pública del Estado de Chiapas y demás disposiciones legales aplicables.
+
+III. Coordinar la integración de expedientes técnicos de obra pública en las villas y ciudades rurales sustentables, para la gestión de recursos, licitación, contratación y ejecución correspondiente.
+
+IV. Vigilar que los procedimientos de adjudicación de obra pública en sus diversas modalidades, en villas y ciudades rurales sustentables, se realicen, de conformidad con lo establecido en la Ley de Obra Pública del Estado de Chiapas y demás disposiciones legales aplicables.
+
+V. Dirigir y en su caso presidir, en el ámbito de su competencia, el Comité de Obra Pública del Instituto de Población y Ciudades Rurales.
+
+VI. Vigilar la coordinación que los procesos dé adjudicación de contratos y supervisión de obra pública en villas y ciudades rurales sustentables, en sus diversas modalidades, se realicen de conformidad con los términos y plazos establecidos en la Ley de Obra Pública del Estado de Chiapas y demás disposiciones legales aplicables.
+
+VII. Presentar al Presidente, los proyectos de convocatorias y bases para los procesos de adjudicación de obras en villas y ciudades rurales sustentables, en cualquiera de sus modalidades, previo a su autorización por parte del Comité de Obra del Instituto.
+
+VIII. Presentar las evaluaciones de las propuestas técnicas y económicas en los procesos licitatorios, para la construcción y desarrollo de las villas y ciudades rurales sustentables en el Estado, a efecto de soportar los dictámenes del resolutivo correspondiente.
+
+IX. Vigilar que la presentación y contenido de las propuestas técnicas y económicas en los procesos de adjudicación de obras en villas y ciudades rurales, en cualquiera de sus modalidades, se realice en los plazos y términos establecidos en la Ley de Obra Pública del Estado de Chiapas y demás disposiciones legales aplicables.
+
+X. Emitir el Dictamen de Análisis Detallado Cuantitativo y Evaluatorio, de conformidad con la legislación aplicable, previo al fallo de adjudicación que emita el Comité de Obra del Instituto.
+
+XI. Realizar la formalización de los contratos de adjudicación de las obras públicas de villas y ciudades rurales, en los términos y plazos establecidos, vigilar su estricto cumplimiento o proponer su modificación, de conformidad a lo dispuesto en la Ley de Obra Pública del Estado de Chiapas y demás disposiciones legales aplicables.
+
+XII. Integrar, digitalizar y resguardar los expedientes técnicos de la obra pública referente a la construcción y desarrollo de las villas y ciudades rurales sustentables realizadas por el Instituto.
+
+XIII. Aprobar la actualización de los tabuladores de precios unitarios, para la contratación de obras públicas en villas y ciudades rurales sustentables en la Entidad.
+
+XIV. Realizar la revisión y análisis de los presupuestos de las obras para el proceso de licitación en la construcción de villas y ciudades rurales sustentables en el Estado de conformidad con la legislación aplicable.
+
+XV. Participar en el procedimiento de conciliación y autorización de precios unitarios de los conceptos no previstos en el catálogo original de los contratos de obra pública en villas y ciudades rurales sustentables, así como el cálculo de ajuste de costos e importes de los gastos no recuperables, que se efectúen en términos de la legislación aplicable.
+
+XVI. Supervisar la ejecución de la obra pública y servicios relacionados con la misma, en la construcción y desarrollo de las villas y ciudades rurales sustentables en el Estado.
+
+XVII. Aprobar, previa revisión de la documentación correspondiente, las estimaciones de trabajos ejecutados de los contratos de obra pública y servicios relacionados con la misma, en la construcción y desarrollo de villas y ciudades rurales sustentables en el Estado, en términos de la legislación aplicable.
+
+XVIII. Evaluar los avances físicos-financieros y programas de obra pública y servicios relacionados con la misma, en la construcción y desarrollo de las villas y ciudades rurales sustentables en el Estado.
+
+XIX. Realizar el proceso de entrega y recepción de las obras en villas y ciudades rurales sustentables ejecutadas en el ejercicio, de conformidad con las formalidades correspondientes.
+
+XX. Las demás en el ámbito de su competencia le confieran las disposiciones legales aplicables, así como las que le sean asignadas.
+
 ## Título Cuarto. De las Suplencias de los Servidores Públicos
 
 ### Capítulo Único. De las Ausencias y el Orden de Suplencias
@@ -633,7 +715,7 @@ Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estad
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- José Antonio Malina Farro, Presidente del Instituto de Población y Ciudades Rurales.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 14 DE SEPTIEMBRE DE 2011.
 
@@ -642,3 +724,15 @@ Artículo Primero.- El Presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones que tengan similar o menor jerarquía al presente Decreto y se opongan al mismo.
 
 Artículo Tercero.- Conforme a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
+
+P.O. 30 DE MAYO DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que tengan similar o menor jerarquía al presente Decreto y que se opongan al mismo.
+
+Artículo Tercero.- El Presidente deberá establecer dentro de su estructura orgánica, la Unidad Interna de Protección Civil, la cual adoptará las medidas encaminadas a instrumentar, en el ámbito de sus funciones, la ejecución de los programas de protección civil, dentro del Instituto, de conformidad con la Ley de Protección Civil para el Manejo Integral de Riesgos de Desastres del Estado de Chiapas y demás disposiciones aplicables.
+
+Artículo Cuarto.- En tanto se actualizan los Manuales Administrativos respectivos, el Presidente resolverá las incidencias de procedimiento y operación, que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Quinto.- Conforme a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
