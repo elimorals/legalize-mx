@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-trabajadores-al-servicio-de-los-poderes-7367"
 country: "mx"
 rank: "ley"
 publication_date: "1978-06-12"
-last_updated: "2011-03-22"
+last_updated: "2012-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES LEGISLATIVO, EJECUTIVO Y JUDICIAL, DE LOS AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 12 de junio 1978.
 
@@ -287,39 +287,33 @@ Los trabajadores no están obligados a prestar sus servicios por un tiempo mayor
 
 Por cada cinco días de trabajo disfrutará el trabajador según las modalidades y necesidades de los servicios que presten, de dos días de descanso cuando menos, con goce de salario íntegro, debiendo procurarse que corresponda al sábado y domingo.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2012)</small>
+
 ###### ARTICULO 33.
 
 Serán días de descanso obligatorio:
 
-I.- El primero de enero;
+I. El 1° de enero;
 
-II.- El cinco de febrero;
+II. El primer lunes de febrero, en conmemoración del 5 de febrero;
 
-III.- El veintiuno de marzo;
+III. El tercer lunes de marzo, en conmemoración del 21 de marzo;
 
-IV.- El cinco de abril de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo del Estado;
+IV. El 1° de mayo;
 
-V.- El primero de mayo;
+V. El 12 de junio, con excepción de los trabajadores del Sistema Educativo Quintanarroense;
 
-> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 1980)</small>
+VI. El 16 de septiembre;
 
-V BIS.- El doce de junio;
+VII. El 25 de septiembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo del Estado;
 
-VI.- El dieciséis de septiembre;
+VIII. El tercer lunes de noviembre, en conmemoración del 20 de noviembre;
 
-VII.- El veinte de noviembre;
+IX. El 1° de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal;
 
-VIII.- El primero de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal; y
+X. El 25 de diciembre; y
 
-IX.- El veinticinco de diciembre.
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
-
-X.- El 12 de junio, con excepción de los trabajadores del Sistemas (sic) Educativo Quintanarroense;
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
-
-XI.- Los que se pacten en las condiciones generales de trabajo de cada Dependencia de los Tres Poderes, Ayuntamientos y Organismos Descentralizados.
+XI. Los que se pacten en las condiciones generales de trabajo de cada Dependencia de los Poderes Legislativo, Ejecutivo y Judicial; Ayuntamientos y Organismos Descentralizados.
 
 ###### ARTICULO 34.
 
@@ -727,7 +721,7 @@ Los jefes de las Dependencias, de acuerdo con los Representantes Sindicales resp
 
 Los sindicatos son las asociaciones de trabajadores constituidas para el estudio, mejoramiento y defensa de sus respectivos intereses.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 75.
 
@@ -931,7 +925,7 @@ Declaración de huelga es la manifestación de voluntad de las dos terceras part
 
 La huelga puede ser general o parcial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 106.
 
@@ -1083,7 +1077,7 @@ Para los efectos de la prescripción los meses se regularan por el número de d�
 
 El primer día se contará completo aún cuando no lo sea, y cuando sea inhábil el último, no se tendrá por completo el término para la prescripción sino cumplido el primer día hábil siguiente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 126.
 
@@ -1107,7 +1101,7 @@ El Presidente del Tribunal y de las Salas será sustituido en sus faltas tempora
 
 El Presidente del Tribunal y de las Salas durará en su cargo seis años; los Representantes del Gobierno Estatal y de los Trabajadores al Servicio del Estado, de los Ayuntamientos y del Sistema Educativo Quintanarroense, podrán ser renovados libremente por quienes los designaron.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 22 DE MARZO DE 2011)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 22 DE MARZO DE 2011)</small>
 
 ###### ARTICULO 129.
 
@@ -1435,7 +1429,7 @@ LIC. MIGUEL PEYREFITTE CUPIDO.
 
 Firmado.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 15 DE DICIEMBRE DE 1978.
 
@@ -1510,3 +1504,13 @@ P.O. 22 DE MARZO DE 2011.
 PRIMERO.-·El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se dejan sin efecto las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 30 DE MAYO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
