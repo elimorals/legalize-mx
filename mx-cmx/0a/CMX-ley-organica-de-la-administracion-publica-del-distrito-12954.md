@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2012-05-15"
+last_updated: "2012-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE MAYO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -408,7 +408,9 @@ XVI. Emitir lineamientos generales para la elaboración y actualización del pad
 
 XVII. (DEROGADA, G.O. 6 DE FEBRERO DE 2007)
 
-XVIII. Promover, apoyar y ejecutar los programas de regularización de la tenencia de la tierra;
+> <small>(REFORMADA, G.O. 30 DE MAYO DE 2012)</small>
+
+XVIII. Promover, apoyar y ejecutar los programas de regularización de la tenencia de la tierra, impulsando anualmente la realización de jornadas notariales en apoyo a personas físicas de conformidad con las bases que se emitan;
 
 XIX. Determinar los casos en que sea de utilidad pública la expropiación de bienes o la ocupación total o parcial de bienes de propiedad privada, y proponer al Jefe de Gobierno que emita la declaratoria correspondiente de expropiación u ocupación, en los términos de las disposiciones jurídicas aplicables;
 
@@ -436,7 +438,11 @@ XXVIII. Organizar los actos cívicos del Gobierno del Distrito Federal en coordi
 
 XXIX. Coordinar e implementar, en los términos que establece el Estatuto de Gobierno, las acciones necesarias para la celebración de plebiscitos, cuando así lo determine el Jefe de Gobierno;
 
-XXX. (DEROGADA, G.O. 6 DE FEBRERO DE 2007)
+> <small>(ADICIONADA, G.O. 30 DE MAYO DE 2012)</small>
+
+XXX. Realizar convenios de colaboración o coordinación con la Secretaría de Gobernación de conformidad con la Ley y Reglamento Federal que en materia de asociaciones religiosas y culto público existen.
+
+Coordinar con el titular del Órgano Político-Administrativo correspondiente respecto al aviso o autorización ingresada en su oficina de atención para la realización o celebración de actos de culto público o festividad religiosa.
 
 XXXI. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
@@ -2313,3 +2319,27 @@ PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Fede
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- Los Titulares de cada Órgano Político-Administrativo de cada demarcación territorial, contarán con un plazo de 120 días naturales a partir de la vigencia del presente decreto para instalar la Unidad de Género respectiva.
+
+G.O. 30 DE MAYO DE 2012.
+
+DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XVIII DEL ARTÍCULO 23 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese el presente decreto para su mayor difusión en dos diarios de circulación nacional.
+
+###### ARTÍCULO TERCERO.
+
+Remítase al Jefe de Gobierno del Distrito Federal, para su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 30 DE MAYO DE 2012.
+
+DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XXX AL ARTÍCULO 23 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para su publicación en la Gaceta Oficial del Distrito Federal.
