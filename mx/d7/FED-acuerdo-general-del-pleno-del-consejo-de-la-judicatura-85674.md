@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-85674"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-02-03"
-last_updated: "2012-05-25"
+last_updated: "2012-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85674&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,343 +19,267 @@ issue_date: "2012-01-26"
 ---
 # ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
+LEY ESTATAL DEL DEPORTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE MAYO DE 2012.
+TEXTO ORIGINAL.
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de febrero de 2012.
+Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 16 de julio de 1987.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
+LIC. MARIANO PALACIOS ALCOCER Gobernador Constitucional del Estado Libre y Soberano de Querétaro Arteaga, a los habitantes del mismo, sabed que:
 
-ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO.
+LA CUADRAGÉSIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 63 DE LA CONSTITUCIÓN POLÍTICA LOCAL Y... ha tenido a bien expedir la siguiente:
 
-CONSIDERANDO
-
-PRIMERO.- La administración, vigilancia, disciplina y carrera judicial del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del mismo, corresponde al Consejo de la Judicatura Federal, con fundamento en los artículos 94, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos y 68 de la Ley Orgánica del Poder Judicial de la Federación;
-
-SEGUNDO.- De conformidad con el artículo 100, primer párrafo constitucional, el Consejo de la Judicatura Federal es un órgano del Poder Judicial de la Federación con independencia técnica, de gestión y para emitir sus resoluciones;
-
-TERCERO.- Es facultad del Consejo de la Judicatura Federal emitir acuerdos generales para el adecuado ejercicio de sus funciones, de conformidad con lo previsto en los artículos 100 de la Constitución Política de los Estados Unidos Mexicanos y 81, fracción II, de la Ley Orgánica del Poder Judicial de la Federación;
-
-CUARTO.- La experiencia adquirida en el desempeño de las actividades de las diversas áreas del Consejo de la Judicatura Federal, permite adoptar medidas tendentes a optimizar y fortalecer su desempeño
-
-QUINTO.- El fortalecimiento conlleva necesariamente la adecuación de la estructura orgánica con una visión integradora y sistémica;
-
-SEXTO.- El 8 de junio de 2011 el Pleno del Consejo de la Judicatura Federal aprobó la modificación de la estructura orgánica y de la adscripción de diversas áreas administrativas del propio Consejo; y
-
-SEPTIMO.- A fin de atender con mayor eficacia y eficiencia las necesidades operativas del Consejo, resulta necesario adecuar el marco jurídico que hasta hoy ha regulado su estructura orgánica, de conformidad con el artículo 81, fracción XVIII, de la Ley Orgánica del Poder Judicial de la Federación, por lo que se abroga el Acuerdo General que reglamenta la organización y funcionamiento del propio Consejo, publicado el 3 de octubre de 2006 en el Diario Oficial de la Federación, para actualizar su contenido.
-
-Por lo antes expuesto, y con fundamento en las disposiciones constitucionales y legales antes mencionadas, el Pleno del Consejo de la Judicatura Federal, expide el siguiente
-
-ACUERDO
+LEY ESTATAL DEL DEPORTE
 
 ## TITULO PRIMERO. Disposiciones Generales
 
 > <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2012)</small>
 
-###### Artículo 1.
+###### ARTICULO 1.
 
-Las disposiciones de este ordenamiento son de observancia general en el Consejo de la Judicatura Federal, correspondiendo a su Presidente, consejeros, Oficial Mayor, Secretario General de la Presidencia, secretarios ejecutivos, coordinadores, titulares de unidades y órganos auxiliares, así como directores generales, velar por su debido cumplimiento; su objeto es regular la estructura orgánica y funcionamiento de la Institución, para llevar a cabo la administración, vigilancia, disciplina y carrera judicial del Poder Judicial de la Federación.
+Las normas de esta Ley son de orden público e interés social y tienen por objeto coadyuvar en la formación y desarrollo integrales de los habitantes del Estado de Querétaro por medio de la promoción y puesta en marcha de actividades relacionadas con la cultura física y el deporte.
 
-###### Artículo 2.
+###### ARTICULO 2.
 
-Para los efectos de este Acuerdo se entenderá por:
+En el Estado de Querétaro el deporte es una actividad prioritaria en el desarrollo integral del ser humano, y al constituir un derecho de sus habitantes, el Gobierno del Estado y los Gobiernos Municipales tienen la obligación de incluir dentro de sus planes, programas y presupuestos, acciones y recursos que propicien las prácticas deportivas.
 
-I. Poder Judicial de la Federación: A los órganos señalados en el artículo 94 de la Constitución, con excepción de la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del Poder Judicial de la Federación;
+###### ARTICULO 3.
 
-II. Constitución: Constitución Política de los Estados Unidos Mexicanos;
+Es facultad del Gobierno del Estado establecer la normatividad y los lineamientos específicos para la planeación y regulación de las prácticas deportivas que se realizan en la entidad, debiendo procurar que tales prácticas se hagan de manera organizada y que los beneficios del deporte sean de calidad y abarquen al mayor número posible de personas.
 
-III. Ley: Ley Orgánica del Poder Judicial de la Federación;
+###### ARTICULO 4.
 
-IV. Acuerdo: Acuerdo General del Pleno del Consejo de la Judicatura Federal que Reglamenta la Organización y Funcionamiento del propio Consejo;
+Para cumplir eficazmente lo dispuesto por el Artículo anterior, es competencia de la Secretaría de Cultura y Bienestar Social el fomento, coordinación, promoción y organización de la práctica del deporte no profesional en el territorio del Estado de Querétaro, dependencia estatal que será la responsable de coordinar a todas las entidades de los Sectores Público, Social y Privado que tengan relación o fomenten u organicen prácticas deportivas no profesionales.
 
-V. Consejo: Consejo de la Judicatura Federal;
-
-VI. Pleno: Pleno del Consejo de la Judicatura Federal;
-
-VII. Presidente: Consejero Presidente del Consejo de la Judicatura Federal;
-
-VIII. Consejeros: Consejeros de la Judicatura Federal;
-
-IX. Coordinaciones: La de Administración Regional y la de Seguridad del Poder Judicial de la Federación;
-
-X. Organos jurisdiccionales: Tribunales de Circuito y Juzgados de Distrito;
-
-> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
-
-XI. Unidades administrativas: Las ponencias de los consejeros, Oficialía Mayor, Secretaría General de la Presidencia, secretarías ejecutivas, coordinaciones, Unidad de Implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación, secretarías técnicas de comisiones, direcciones generales, así como la Unidad de Enlace y el Archivo General del Consejo, y demás que sean autorizadas por el Pleno; y
-
-XII. Areas administrativas: las unidades administrativas y los órganos auxiliares.
-
-###### Artículo 3.
-
-El Consejo ejercerá sus atribuciones a través de los órganos creados en la Ley, los reglamentos y las diversas disposiciones aplicables, así como en los acuerdos generales expedidos por el Pleno, los que tendrán las atribuciones que en esos ordenamientos se les señalen.
-
-###### Artículo 4.
-
-La notificación de las resoluciones del Pleno y de las comisiones se efectuará en términos de lo dispuesto por el Libro I, Título VII, Capítulo III, del Código Federal de Procedimientos Civiles, salvo en el caso de los asuntos en materia laboral, los que se regirán por la Ley Federal de los Trabajadores al Servicio del Estado.
+La Secretaría de Cultura y Bienestar Social, a través de la dependencia responsable, dictará las medidas necesarias para la mejor aplicación de esta Ley.
 
 ## TITULO SEGUNDO. De la Organización y Funcionamiento
 
-### Capítulo I. Del Pleno
+### CAPITULO I. PRINCIPIOS GENERALES
 
-###### Artículo 5.
+###### ARTICULO 5.
 
-Las sesiones del Pleno serán ordinarias o extraordinarias, y se desarrollarán conforme a lo que determine el propio Pleno a propuesta de su Presidente o a solicitud de cualquiera de los Consejeros.
+Es facultad de los Municipios del Estado, en los términos de esta Ley y de sus disposiciones reglamentarias, promover y organizar, en el territorio de sus respectivas comunidades, actividades y prácticas físicas y deportivas, buscando que éstas consigan una participación amplia y numerosa de sus habitantes para lo cual deberán coordinarse con las organizaciones y asociaciones deportivas de la localidad.
 
-El carácter público o privado de las sesiones se determinará de conformidad con lo establecido en el artículo 75 de la Ley, así como de las disposiciones aplicables de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+###### ARTICULO 6.
 
-El Presidente dirigirá la sesión, una vez debatido el asunto ordenará al Secretario Ejecutivo del Pleno tome la votación y con su resultado efectúe la declaratoria de la resolución.
+Los Municipios ejercerán las facultades derivadas de sus propias atribuciones en materia de promoción deportiva y el H. Ayuntamiento deberá destinar una partida de su presupuesto anual de egresos para este fin, en la medida de sus propias necesidades y recursos.
 
-###### Artículo 6.
+###### ARTICULO 7.
 
-El Secretario Ejecutivo del Pleno remitirá la convocatoria y los asuntos a tratar en la sesión, y tomará nota durante la misma de los acuerdos establecidos y de las observaciones formuladas para la elaboración del acta correspondiente.
+Además de las atribuciones que esta Ley otorga, los Municipios tendrán las siguientes:
 
-###### Artículo 7.
+I.- Desarrollar la Política Física Deportiva y vigilar la plena utilización de las instalaciones deportivas en su ámbito territorial.
 
-De cada sesión se deberá levantar acta, la cual contendrá las siguientes formalidades:
+II. Llevar un censo de las instalaciones deportivas de su territorio, así como su Estado de conservación, dotando a éstas del personal adecuado para su utilización y mantenimiento, dándose participación a los deportistas cuando exista interés.
 
-I. Lugar, fecha, así como hora de apertura y clausura;
+III.- Asegurar el cumplimiento de la Legislación urbanística en materia de reserva de espacios y zonas para la práctica del deporte.
 
-II. El nombre del Presidente o del Ministro que presida la sesión;
+IV.- Celebrar convenios con Organismos e Instituciones Públicas, Privadas y Sociales con el objeto de dar cumplimiento a los fines de la presente Ley.
 
-III. Una relación nominal de los consejeros presentes y de los ausentes y, en su caso, el motivo por el que no asistieron o por el que se hubiesen retirado de la sesión, así como de su reincorporación o incorporación;
+V.- Las demás que les asignen otras Leyes y Reglamentos.
 
-IV. La aprobación del acta anterior;
+###### ARTICULO 8.
 
-V. Una relación sucinta y clara de los asuntos tratados, en el orden en que se hayan presentado, y la relación de aquéllos que fueron retirados o aplazados, expresando el resultado de la votación de los acuerdos tomados, así como los votos particulares emitidos; y
+La Educación Física y el deporte son actividades obligatorias en los niveles de educación Pre-escolar, Primaria, Secundaria, Bachillerato y Profesional, así como en educación especial, de acuerdo con lo que en su parte conducente establezca la Ley de Educación Pública del Estado y demás disposiciones relativas.
 
-VI. Aquellas cuestiones que los consejeros hayan solicitado expresamente.
+###### ARTICULO 9.
 
-###### Artículo 8.
+Las entidades sociales y privadas pueden promover libremente las actividades relacionadas con la cultura física y el deporte, así como constituir asociaciones para la organización de estas actividades, siempre que no contravengan el espíritu y letra de la presente Ley y sus disposiciones reglamentarias.
 
-Cuando el proyecto presentado por un consejero sea desechado por la mayoría, será returnado a otro para que formule un nuevo proyecto, que se presentará al Pleno dentro del plazo que éste determine.
+###### ARTICULO 10.
 
-###### Artículo 9.
+La organización de las actividades físicas y deportivas de las Instituciones a las que la Ley les otorga autonomía, se regirán por lo que establezcan sus propias Legislaciones.
 
-En caso de ausencia del consejero ponente, cualquier otro consejero que se encuentre de acuerdo con el sentido del proyecto de resolución presentado, podrá hacerlo suyo.
+###### ARTICULO 11.
 
-Asimismo, cuando el ausente sea el Presidente de alguna de las comisiones, podrá dar cuenta de los asuntos que deban someterse a consideración del Pleno, cualquiera de los consejeros integrantes de la Comisión respectiva y hacer suyos los proyectos del Presidente.
+Los planes de desarrollo urbano que se aprueben para el Estado de Querétaro deberán considerar la reserva de espacios que se destinen a la práctica del deporte, estableciéndose la obligación a cargo de los fraccionadores de terrenos de reservar un espacio determinado para este mismo objeto en los términos que señale el Reglamento respectivo u otras Legislaciones aplicables.
 
-En los supuestos previstos en el presente artículo, la resolución será firmada por ambos consejeros, siempre y cuando no exista imposibilidad para ello.
+###### ARTICULO 12.
 
-###### Artículo 10.
+El Ejecutivo del Estado determinará los espacios que deban destinarse a la creación de áreas deportivas y recreativas públicas, incluso la expropiación de predios para estos fines.
 
-Los consejeros podrán abstenerse de exponer sus puntos de vista sobre el asunto sujeto a debate, pero no podrán abstenerse de votar, a menos que hubiere impedimento calificado previamente de legal o no hubieren estado presentes en la discusión del asunto.
+###### ARTICULO 13.
 
-###### Artículo 11.
+Además de las atribuciones que esta Ley determine en favor de la Secretaría de Cultura y Bienestar Social, tendrá las siguientes:
 
-Los reglamentos, acuerdos o resoluciones del Pleno que sean aprobados con modificaciones, serán remitidos al Secretario Ejecutivo del Pleno dentro de los tres días siguientes, contados a partir del día de su aprobación, para el trámite que corresponda.
+I.- Planear, programar, encauzar, promover y organizar la práctica del deporte no profesional entre los habitantes del Estado de Querétaro.
 
-Si el asunto fuere de interés general, deberá remitirse en algún medio de almacenamiento magnético o digital al Secretario Ejecutivo antes mencionado, al día siguiente de su aprobación, a fin de agilizar su publicación en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de internet del Consejo.
+II.- Expedir los lineamientos a partir de los cuales se deberá practicar el deporte en la entidad, teniendo como base la coordinación de esfuerzos y recursos de los Sectores Público, Social y Privado.
 
-###### Artículo 12.
+III.- Propiciar las condiciones para la práctica organizada del deporte profesional.
 
-Las atribuciones no delegables del Pleno, contenidas en las fracciones II, XVII, XVIII, XIX, así como en la XL, del artículo 81 de la Ley, se regirán por los lineamientos contenidos en los acuerdos generales y demás disposiciones que emita el Pleno.
+IV.- Vigilar el bien uso de las instalaciones deportivas que sean patrimonio del Estado.
 
-###### Artículo 13.
+V.- Vigilar que las organizaciones y asociaciones deportivas de la entidad cumplan con esta Ley, su reglamento y demás disposiciones reglamentarias y estatutarias, procurando el respeto a los derechos de las asociaciones.
 
-El Pleno otorgará nombramiento a los titulares a que se refiere la fracción IV del artículo 17 de este Acuerdo, por mayoría calificada de cinco votos.
+VI.- Intervenir en los conflictos que se presenten en las asociaciones u organizaciones deportivas, conciliando los distintos intereses y, en su caso, resolver lo procedente.
 
-###### Artículo 14.
+VII.- Firmar convenios con las distintas entidades Públicas, Privadas y Sociales que de manera directa o indirecta fomenten el deporte, lo practiquen o lo organicen.
 
-Los consejeros que integren la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación serán designados por el Pleno, de conformidad con el artículo 205 de la Ley.
+VIII.- Promover entre los habitantes del Estado la práctica del deporte y la cultura física, especialmente entre los escolares.
 
-###### Artículo 15.
+IX.- Contribuir al fomento de la Educación Física no escolar y del deporte a fin de que alcance la máxima difusión y mejora de su nivel técnico.
 
-El Pleno supervisará el funcionamiento administrativo de los Institutos Federales de Defensoría Pública y de Especialistas de Concursos Mercantiles, en los términos de las leyes que los regulan.
+X.- Prestar colaboración y asesoría a las asociaciones deportivas respecto de las competencias que tienen atribuidas.
 
-###### Artículo 16.
+XI.- Impulsar y asistir a las asociaciones para la formación de su personal técnico y deportivo especializado.
 
-(DEROGADO, D.O.F. 25 DE MAYO DE 2012)
+XII.- Conocer los estatutos y reglamentos de las asociaciones deportivas, los que deberán adecuarse al espíritu de esta Ley.
 
-### Capítulo II. Del Consejero Presidente
+XIII.- Conocer de los planes y programas de las Asociaciones.
 
-###### Artículo 17.
+XIV.- Conceder apoyos económicos y de equipamiento a las Asociaciones y Entidades deportivas controlando el uso adecuado de los mismos.
 
-De conformidad con las atribuciones previstas en el artículo 85 de la Ley, son facultades del consejero Presidente las siguientes:
+XV.- Realizar y promover estudios e investigaciones en materia físico deportiva para facilitar la debida asistencia técnica y asesoramiento a las asociaciones y entidades con actividad semejante.
 
-I. Representar al Consejo por sí o por medio del servidor público que se designe conforme a la normativa aplicable;
+XVI.- Autorizar y, en su caso, avalar cualquier tipo de actividad deportiva no profesional el ámbito del territorio estatal.
 
-II. Designar a un consejero ponente para que someta un asunto dudoso o trascendental a la consideración del Pleno, a fin de que éste determine lo que corresponda;
+XVII.- Cooperar en el desarrollo de la educación física y del deporte para minusválidos.
 
-III. Dirigir los debates y conservar el orden en las sesiones plenarias;
+XVIII.- Dotar al deporte de elementos para la elevación de su nivel técnico, así como para llevar la vigilancia, seguimiento y mejora de la condición física de los deportistas de alto rendimiento.
 
-IV. Proponer al Pleno dentro de los quince días siguientes a que se dé la vacante respectiva, los nombramientos de los titulares de los órganos auxiliares; secretarías ejecutivas; coordinaciones de Administración Regional y de Seguridad del Poder Judicial de la Federación; directores generales; unidades administrativas del Instituto Federal de la Defensoría Pública; así como de los vocales del Instituto Federal de Especialistas de Concursos Mercantiles; del representante del Consejo ante la Comisión Substanciadora Unica del Poder Judicial de la Federación, y de los miembros de la Junta Directiva del Instituto Federal de Defensoría Pública;
+XIX.- Coordinar y supervisar la preparación y avalar la participación de deportistas representativos del Estado en competencias y campeonatos regionales y nacionales.
 
-V. Nombrar y remover al Oficial Mayor, al Secretario General de la Presidencia, al Titular de la Unidad de Implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación, y al personal de la Oficina de la Presidencia;
+XX.- Otorgar especial atención al desarrollo del deporte y a la creación de instalaciones deportivas en los medios rurales.
 
-VI. Vigilar el funcionamiento de los órganos auxiliares;
+XXI.- Prestar atención y colaboración al deporte de masas y a los clubes, agrupaciones, entidades o sectores que lo fomenten.
 
-VII. Informar al Pleno de la Suprema Corte de Justicia de la Nación, al Senado de la República o al Presidente de la República, según corresponda, la designación, la terminación del encargo de los consejeros respectivos, con dos meses de antelación o la falta definitiva del Consejero que hubiesen designado, a efecto de que con toda oportunidad puedan hacerse los nombramientos concernientes;
+###### ARTICULO 14.
 
-VIII. Otorgar licencias que no excedan de treinta días a los magistrados de circuito, jueces de distrito, Oficial Mayor, Secretario General de la Presidencia, secretarios ejecutivos, titulares de órganos auxiliares, coordinadores, Titular de la Unidad de Implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación, directores generales y personal subalterno del Pleno; cuando éstas tengan como motivo asistir a eventos académicos nacionales o internacionales, podrá solicitar la opinión de las instancias que correspondan;
+Para el debido cumplimiento de las atribuciones anteriores, la Secretaría de Cultura y Bienestar Social contará con una área administrativa que se denominará Departamento de Fomento Deportivo, órgano que será encargado de ejecutar los acuerdos del Secretario y vigilar el exacto cumplimiento de esta Ley, su Reglamento y demás disposiciones estatutarias.
 
-IX. Firmar las resoluciones del Pleno, conjuntamente con el Secretario Ejecutivo respectivo y el ponente, así como con quien haya hecho suyo el proyecto, en su caso;
+###### ARTICULO 15.
 
-X. Admitir o desechar las quejas administrativas o denuncias que se presenten en contra de los servidores públicos del Poder Judicial de la Federación;
+El Consejo Estatal del Deporte es un órgano de carácter consultivo en materia de cultura física y deporte y su función primordial consistirá en asesorar a las entidades de los Sectores Público, Social y Privado que fomenten u organicen actividades deportivas de cualquier índole, además de proponer a la Secretaría de Cultura y Bienestar Social las políticas y acciones que deban promoverse con el objeto de que un mayor número de queretanos alcancen los beneficios de dichas actividades, y promover la calidad de las mismas.
 
-XI. Dar inicio al procedimiento de ratificación de magistrados de circuito y jueces de distrito, mediante la emisión del proveído correspondiente;
+###### ARTICULO 16.
 
-XII. Dictar el auto correspondiente a la presentación de los recursos de revisión administrativa, interpuestos en contra de las resoluciones del Consejo;
+Son facultades del Consejo Estatal del Deporte:
 
-XIII. Tomar la protesta de ley en sesión pública extraordinaria a los consejeros designados por la Suprema Corte de Justicia de la Nación, a los magistrados de circuito y jueces de distrito, a los titulares de los órganos auxiliares, a los visitadores judiciales, así como al Oficial Mayor; al Secretario General de la Presidencia, a los secretarios ejecutivos, y por escrito al resto de los empleados del Consejo;
+I.- Servir como órgano asesor en materia de deporte y cultura física.
 
-XIV. Dictar las providencias oportunas para la corrección o remedio inmediato de los hechos motivo de una queja administrativa, cuando la naturaleza de aquéllos lo permita;
+II.- Proponer a la Secretaría de Cultura y Bienestar Social las políticas deportivas a implantarse en el Estado.
 
-XV. Suscribir los nombramientos de los servidores públicos comprendidos en los niveles 2 al 9 del Catálogo General de Puestos;
+III.- Colaborar con las asociaciones deportivas en todo lo relativo a su funcionamiento interior y a la práctica deportiva de los asociados.
 
-XVI. Firmar las credenciales que acrediten al personal del Poder Judicial de la Federación, de los niveles 2 al 7 del Tabulador de Puestos; y
+IV.- Elaborar y ejecutar cursos de capacitación técnica y deportiva, sobre todo en aquellas áreas y deportes que más lo requieran, a juicio de la Secretaría de Cultura y Bienestar Social.
 
-XVII. Las demás que establezca el Pleno, mediante acuerdos generales.
+V.- Elaborar su Reglamento y someterlo a la aprobación de la Secretaría de Cultura y Bienestar Social.
 
-###### Artículo 18.
+VI.- Asesorar a las Asociaciones Deportivas en la elaboración de sus estatutos.
 
-La Presidencia del Consejo contará, para el adecuado ejercicio de sus atribuciones, con la Secretaría General de la Presidencia, la Unidad de Implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación y la Oficina de la Presidencia, sin perjuicio de que el Pleno determine alguna otra.
+VII.- Realizar y proponer estudios e investigaciones en materia deportiva.
 
-### Capítulo III. De los demás Consejeros
+VIII.- Avaluar permanentemente la práctica del deporte y la Cultura Física en el Estado, proponiendo las recomendaciones que considere adecuadas para el mejor cumplimiento de los fines de esta Ley.
 
-###### Artículo 19.
+IX.- Las demás que le otorgue esta Ley, su Reglamento y demás normas reglamentarias y estatutarias.
 
-Son atribuciones de los consejeros:
+### CAPITULO II
 
-I. Integrar el Pleno y al menos una de las comisiones permanentes del Consejo, así como las comisiones transitorias y los comités, conforme lo determine el Pleno;
+DEL CONSEJO ESTATAL DEL DEPORTE.
 
-II. Velar por el orden y la disciplina dentro y fuera de sus ponencias;
+###### ARTICULO 17.
 
-III. Velar por la autonomía de los órganos del Poder Judicial de la Federación y por la independencia e imparcialidad de sus miembros;
+El Consejo Estatal del Deporte se integrará de la siguiente manera:
 
-IV. Integrar la Comisión de Receso cuando así lo determine el Pleno;
+I.- Un presidente que será el titular del Ejecutivo del Estado o la persona que él designe.
 
-V. Despachar la correspondencia de sus oficinas;
+II.- Un secretario que será la persona que designe el Secretario de Cultura y Bienestar Social.
 
-VI. Enviar al Secretario Ejecutivo del Pleno las peticiones y promociones que los particulares presenten relacionadas con acciones de carácter jurisdiccional;
+III.- Un Consejero por cada una de las siguientes Instituciones:
 
-VII. Cumplir con aquellas comisiones que le encomiende el Pleno;
+a) 1 por cada Institución de Estudios Superiores de la Entidad.
 
-VIII. Integrar la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación, en términos del artículo 205 de la Ley;
+b) 1 por cada Organización Deportiva debidamente acreditada ante la Secretaría de Cultura y Bienestar Social;
 
-IX. Dar cuenta al Pleno con las medidas urgentes tomadas durante la Comisión de Receso;
+c) Un Presidente por cada uno de los Comités Municipales.
 
-X. Dar cuenta al Pleno con los asuntos trascendentes;
+###### ARTICULO 18.
 
-XI. Convocar a sesión extraordinaria del Pleno cuando la trascendencia del caso lo amerite;
+El Consejo Estatal del Deporte funcionará en pleno y celebrará sesiones ordinarias por lo menos una vez al año y extraordinarias cuando las convoque el Presidente.
 
-XII. Solicitar, para el adecuado desempeño de sus funciones, la cooperación de los órganos jurisdiccionales y áreas administrativas;
+### CAPITULO III
 
-XIII. Presentar los proyectos de resolución de los procedimientos administrativos de responsabilidad y de ratificación de los servidores públicos que les corresponda conforme al turno;
+DE LOS COMITES MUNICIPALES DEL DEPORTE Y RECREACION.
 
-XIV. Presidir cualquiera de las Comisiones permanentes, del Consejo, y participar, en términos de las disposiciones aplicables, en la designación del Presidente de cada una de las comisiones y comités que integren;
+###### ARTICULO 19.
 
-XV. Colaborar en caso necesario, en cualquier actividad que guarde relación directa con el propio Consejo;
+Se crean los Comités Municipales del deporte y recreación en cada uno de los Municipios de esta Entidad Federativa, cuya función principal será la de ejecutar las facultades que esta Ley determina para los Municipios, así como las demás que sean necesarias para el fomento del deporte y la Cultura Física y recreación de sus respectivos territorios.
 
-XVI. Asistir a las sesiones a las que sea convocado, salvo caso fortuito o fuerza mayor, o bien, porque le haya sido encomendada alguna comisión;
+### CAPITULO IV
 
-XVII. Nombrar y remover al personal adscrito a su ponencia, con excepción del nombramiento de los secretarios técnicos que las integren;
+DE LAS ASOCIACIONES DEPORTIVAS.
 
-XVIII. Otorgar licencias con o sin goce de sueldo, hasta por treinta días, a los servidores públicos adscritos a sus ponencias;
+###### ARTICULO 20.
 
-XIX. Someter a consideración del Pleno el proyecto de resolución por el que se dé cumplimiento a las resoluciones pronunciadas en los recursos de revisión administrativa en el plazo que fija el artículo 128 de la Ley;
+En todo caso, los Comités Municipales deberán coordinar y adecuar sus planes y programas a los generales del Estado.
 
-XX. Someter al Pleno, por conducto de la Secretaría Ejecutiva del Pleno, iniciativas de acuerdos generales, reglamentos, manuales internos u otras disposiciones de acatamiento obligatorio, así como las propuestas para la reforma, modificación o derogación de ellos;
+###### ARTICULO 21.
 
-> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
+Los Comités Municipales del deporte y recreación se integrarán de la siguiente manera:
 
-XXI. Ordenar que les sea entregada cualquier información elaborada, recopilada, resguardada o investigada por cualquiera de las áreas administrativas;
+I.- Un Presidente que será el Presidente Municipal.
 
-> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
+II.- Un Secretario que será designado por el anterior.
 
-XXII. Dirigir y supervisar las funciones de la Unidad de Enlace Legislativo, en aquellos casos en que sean designados por el Pleno; y
+III.- Cinco Vocales que serán propuestos por las Asociaciones Deportivas del Municipio.
 
-> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2012)</small>
+###### ARTICULO 22.
 
-XXIII. Las demás que establezcan la Ley; este Acuerdo; y los acuerdos plenarios.
+El Comité Municipal funcionará en pleno y celebrará sesiones ordinarias por lo menos una vez cada seis meses y extraordinarias cuando sean convocadas por el Presidente.
 
-### Capítulo IV. De las Comisiones y Comités
+Cada Comité Municipal elaborará su Reglamento y lo someterá a la aprobación a la Secretaría de Cultura y Bienestar Social.
 
-Sección 1a.
+###### ARTICULO 23.
 
-Disposiciones Generales
+Son Asociaciones Deportivas para los efectos de esta Ley las organizaciones con personalidad jurídica y cuyo exclusivo objeto sea el fomento y la práctica de actividades físicas y deportivas sin ánimo de lucro.
 
-###### Artículo 20.
+###### ARTICULO 24.
 
-El Consejo contará con comisiones permanentes y transitorias. Las comisiones permanentes son las siguientes:
+Las Asociaciones Deportivas elaborarán sus estatutos sin contravenir el espíritu y letra de esta Ley y en los términos que para tal efecto determinen los Estatutos o Reglamentos de las Federaciones o Confederaciones, Nacionales o Internacionales, a las que esten afiliadas.
 
-I. De Administración;
+###### ARTICULO 25.
 
-II. De Carrera Judicial;
+Para participar en competencias oficiales, toda Asociación Deportiva deberá estar afiliada a la Federación que rija la modalidad deportiva que corresponda.
 
-III. De Disciplina;
+###### ARTICULO 26.
 
-IV. De Creación de Nuevos Organos;
+Se crea el Registro de Asociaciones Deportivas que estará a cargo de la Dependencia competente de la Secretaría de Cultura y Bienestar Social, a efecto de que las Asociaciones Deportivas existentes y las que surjan se inscriban.
 
-V. De Adscripción;
+La Secretaría de Cultura y Bienestar Social establecerá los mecanismos administrativos necesarios para que todas las Asociaciones Deportivas obtengan su registro.
 
-VI. De Vigilancia, Información y Evaluación; y
+###### ARTICULO 27.
 
-VII. Las demás que determine el Pleno.
+El Gobierno del Estado reconocerá solo a las Asociaciones Deportivas que se ajusten al contenido del Artículo 13 de esta Ley.
 
-Las comisiones transitorias son:
+###### ARTICULO 28.
 
-I. La de Receso; y
+Las Asociaciones Deportivas reconocidas por virtud de esta Ley se sujetarán a las siguientes normas:
 
-II. Las demás que determine el Pleno.
+I.- No pueden destinarse sus bienes a fines Industriales, Comerciales, Profesionales o de Servicios, ni ejercer actividades de igual carácter si esto se hace con la finalidad de repartir beneficios entre sus socios, sus ingresos se aplicarán íntegramente a conseguir su objetivo social.
 
-###### Artículo 21.
+II.- Pueden fomentar actividades de carácter físico y deportivo dirigidas al público en general aplicando los beneficios obtenidos al desarrollo de las mismas actividades entre sus asociados.
 
-Cada Comisión permanente se formará por tres consejeros designados por el Pleno, por mayoría calificada de cinco votos, en el año en que deba renovarse. Podrá funcionar con dos consejeros; en caso de ausencia del Presidente de la Comisión respectiva, presidirá el consejero de mayor antigüedad.
+III.- En caso de disolución, su patrimonio total será liquidado en un plazo no mayor de seis meses conforme lo estipulan los Capítulos IV y V del Código Civil para el Estado.
 
-En el supuesto anterior, la votación dividida entre los dos consejeros presentes en la sesión, será resuelta por el Pleno.
+###### ARTICULO 29.
 
-Las comisiones se renovarán cada dos años. En el caso de que se designe nuevo consejero durante el periodo de funcionamiento de las comisiones, éste se integrará a las de aquél que concluyó su encargo.
+Las Asociaciones de las que habla esta Ley no tendrán limitado el número de participantes y las cuotas de sus agremiados serán exclusivamente para beneficio de sus actividades deportivas.
 
-###### Artículo 22.
+###### ARTICULO 30.
 
-Cada Comisión elegirá a su respectivo Presidente y determinará el tiempo de su encargo de acuerdo con lo dispuesto en el artículo 79 de la Ley.
+El ámbito de la potestad disciplinaria se extiende a las infracciones reglamentarias de las reglas de juego y de la conducta deportiva.
 
-Cada uno de los consejeros presidirá al menos una Comisión.
+###### ARTICULO 31.
 
-###### Artículo 23.
+La aplicación de la Reglamentación Disciplinaria corresponderá a:
 
-La integración de las comisiones será en forma rotativa.
+A).- Las Agrupaciones, Asociaciones, Clubes y Entidades Deportivas sobre sus deportistas, afiliados y técnicos, de conformidad con sus estatutos, reglamentos y disposiciones de su régimen interior.
 
-###### Artículo 24.
+B).- Las Asociaciones sobre las personas físicas y morales afiliadas sobre técnicos, jueces y árbitros, según sus normas reglamentarias y estatutarias.
 
-El Pleno podrá fijar las excepciones a los criterios contenidos en este capítulo, para el mejor desempeño de las funciones de las comisiones.
-
-###### Artículo 25.
-
-Las comisiones celebrarán sesiones ordinarias con la frecuencia y horario que determinen los consejeros que las integran. La convocatoria deberá contener el día y la hora de la sesión, y se acompañará con el orden del día de los asuntos a desahogar y la documentación relativa.
-
-Cualquiera de los consejeros integrantes de la Comisión podrá convocar a sesión extraordinaria, mediante oficio dirigido al Presidente de la propia comisión, el cual contendrá la fecha y hora de la sesión, la situación urgente o trascendente que amerite su celebración y la documentación correspondiente.
-
-###### Artículo 26.
-
-Las sesiones ordinarias y extraordinarias de las comisiones serán privadas.
-
-###### Artículo 27.
-
-Las comisiones calificarán de plano las excusas o impedimentos de sus integrantes.
-
-Si la excusa o impedimento se presenta por más de un integrante de la Comisión, serán calificados por el Pleno y, de resultar fundado más de uno de ellos, el asunto correspondiente será resuelto por el propio Pleno.
-
-###### Artículo 28.
-
-Los asuntos a tratar en las sesiones ordinarias de las comisiones, se listarán en el orden del día correspondiente y la documentación relativa se distribuirá entre los consejeros miembros, con cuarenta y ocho horas de antelación a la celebración de la sesión, excepto en el caso de la Comisión de Disciplina, en la que deberá entregarse con cinco días hábiles de anticipación.
-
-Los asuntos que presenten los integrantes de la Comisión con carácter urgente o extraordinario, serán incluidos en el capítulo de asuntos generales, el cual se insertará en todas las sesiones al final del orden del día correspondiente.
-
-###### Artículo 29.
-
-Para la discusión de los proyectos de resolución que se sometan al conocimiento de la Comisión de Disciplina, los consejeros ponentes, que no formen parte de ella, podrán asistir a la sesión correspondiente, si así lo consideran, para exponer sus puntos de vista respecto de dichos proyectos, quienes podrán, en su caso, designar al secretario técnico que haya elaborado el proyecto respectivo para que comparezca en su representación. Para tal efecto, se dará a conocer oportunamente a todos los consejeros, cuyos asuntos se incluyan en el orden del día, la lista de asuntos a tratar en la Comisión, así como la fecha y hora en que se habrá de realizar la sesión correspondiente.
-
-###### Artículo 30.
-
-Cuando no se obtenga la aprobación de un asunto en alguna Comisión, o bien, cuando el asunto sea de trascendencia a criterio de la Comisión o de alguno de sus consejeros, se someterá a consideración del Pleno para su resolución.
-
-###### Artículo 31.
-
-Las atribuciones de cada Comisión serán consultivas o propositivas respecto de las atribuciones contempladas en las fracciones I a XXI del artículo 81 de la Ley, y decisorias en el caso de las atribuciones delegadas en este Acuerdo.
+T R A N S I T O R I O S
 
 ###### Artículo 32.
 
@@ -757,13 +681,9 @@ IV. Los demás que determine el Pleno.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 25 DE MAYO DE 2012)</small>
 
-### Capítulo V
+### CAPITULO IV (SIC)
 
-De la Oficialía Mayor, Secretaría General de la Presidencia, Secretarías Ejecutivas, Coordinaciones y Unidad de Implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación
-
-Sección 1a.
-
-Generalidades
+DEL REGIMEN DISCIPLINARIO DEPORTIVO.
 
 ###### Artículo 52.
 
@@ -3097,27 +3017,45 @@ El procedimiento anterior será aplicable para la modificación o derogación de
 
 ###### ARTICULO PRIMERO.
 
-El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo previsto en el párrafo siguiente.
-
-Respecto del artículo 39, fracción II, durante el período del Presidente actual el Pleno determinará lo que corresponda, tomando en consideración los trabajos de planeación existentes en el Consejo.
+Las actuales Asociaciones Deportivas y demás entidades deportivas disponen de ocho meses a partir de la vigencia de esta Ley para solicitar a la Secretaría de Cultura y Bienestar Social aprobación de sus estatutos y la respectiva inscripción en el registro a que se refiere el Artículo 26.
 
 ###### ARTICULO SEGUNDO.
 
-Se abroga el Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta la organización y funcionamiento del propio Consejo publicado en el Diario Oficial de la Federación el 3 de octubre de 2006, así como los acuerdos generales que lo reforman o adicionan; y, se derogan todas las disposiciones que se opongan al presente Acuerdo.
+Se deroga el Decreto que crea el Consejo Estatal del Deporte del Estado de Querétaro, publicado en el Periódico Oficial de Gobierno del Estado No. 46 de fecha de 12 de noviembre de 1981.
 
 ###### ARTICULO TERCERO.
 
-Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta y en el portal de Internet del Consejo.
+En tanto se integra la estructura y los procedimientos a que esta Ley se refiere, el Secretario de Cultura y Bienestar Social tomará las decisiones y acuerdos que sean necesarios para el cumplimiento de la presente.
 
 ###### ARTICULO CUARTO.
 
-El personal de la Secretaría Ejecutiva de Obra, Recursos Materiales y Servicios Generales, y de las Direcciones Generales de Recursos Materiales y Servicios Generales; de Inmuebles y Mantenimiento; de Estadística y Planeación Judicial; de Programación y Presupuesto, así como de la Coordinación de Administración Regional; que a la entrada en vigor del presente Acuerdo desempeñan funciones relacionadas con las atribuciones que dicho instrumento jurídico confiere a las Direcciones Generales de Tecnologías de la Información y de Innovación, Planeación y Desarrollo Institucional se integrarán con su plaza a dichas Direcciones Generales, según corresponda, conservando sus derechos laborales.
+Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
 
-Asimismo, los recursos materiales y financieros relacionados con el desempeño de las atribuciones a que se refiere el párrafo anterior, con que cuenten la referida Secretaria Ejecutiva y las mencionadas Direcciones Generales se transferirán a la Dirección General de Tecnologías de la Información y a la Dirección General de Innovación, Planeación y Desarrollo Institucional, según corresponda.
+LO TENDRA ENTENDIDO EN C. GOBERNADOR CONSTITUCIONAL DEL ESTADO Y MANDARA QUE SE IMPRIMA, PUBLIQUE Y OBSERVE.
 
-Lo previsto en este artículo se deberá llevar a cabo dentro de los treinta días naturales siguientes a la entrada en vigor del presente Acuerdo, mediante la suscripción de las actas de entrega recepción respectivas y demás instrumentos necesarios.
+DADA EN EL RECINTO OFICIAL DEL PODER LEGISLATIVO DEL ESTADO A LOS DIEZ DIAS DEL MES DE JULIO DE MIL NOVECIENTOS OCHENTA Y SIETE.
 
-La Dirección General de Tecnologías de la Información y la Dirección General de Innovación, Planeación y Desarrollo Institucional deberán informar al Pleno sobre el cumplimiento de lo previsto en este artículo.
+Diputado Presidente,
+
+ING. EDGARDO ROCHA PEDRAZA.
+
+Diputado Secretario,
+
+DR. JAIME ZUÑIGA BURGOS.
+
+Diputado Secretario,
+
+RAÚL SOTO.
+
+EN CUMPLIMIENTO CON LO DISPUESTO POR LA FRACCION SEGUNDA DEL ARTICULO 93 DE LA CONSTITUCION POLITICA DE ESTA ENTIDAD Y PARA SU DEBIDA PUBLICACION Y OBSERVANCIA, EXPIDO LA PRESENTE LEY, EN LA RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO DE QUERETARO A LOS SEIS DIAS DEL MES DE JUNIO DE MIL NOVECIENTOS OCHENTA Y SIETE.
+
+El Gobernador Constitucional del Estado,
+
+LIC. MARIANO PALACIOS ALCOCER.
+
+El Secretario de Gobierno,
+
+LIC. JOSE MARIA HERNANDEZ SOLIS.
 
 ###### ARTICULO QUINTO.
 
