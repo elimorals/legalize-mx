@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-procuraduria-de-proteccion-al-64855"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-03"
-last_updated: "2008-12-03"
+last_updated: "2012-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA PROCURADURIA DE PROTECCION AL AMBIENTE DEL ESTADO DE MEXICO
 
-REGLAMENTO INTERIOR DE LA PROCURADURIA DE PROTECCION AL AMBIENTE DEL ESTADO DE MEXICO
+REGLAMENTO INTERIOR DE LA PROCURADURÍA DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA PROCURADURÍA DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 30 DE MAYO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de diciembre de 2008.
 
@@ -366,3 +368,15 @@ DR. MIGUEL ÁNGEL CONTRERAS NIETO
 PROCURADOR DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE MÉXICO Y SECRETARIO DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 30 DE MAYO DE 2012.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Reglamento entrará en vigor a los 90 días siguientes de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento Interior de la Procuraduría de Protección al Ambiente, publicado en el Periódico Oficial "Gaceta del Gobierno" el 3 de diciembre de 2008.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que sean contrarias a las contenidas en el presente Reglamento.
