@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-de-economia-70322"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-19"
-last_updated: "2009-08-19"
+last_updated: "2012-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70322&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE ECONOMÍA DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 19 de agosto de 2009.
 
@@ -131,11 +131,15 @@ Dirección de Comercio Interior y Exterior.
 
 Dirección de Promoción a la Industria de la Transformación.
 
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
 V. Subsecretaría de Micro, Pequeñas, Medianas y Grandes Empresas.
 
 Dirección de Capacitación Empresarial.
 
 Dirección de Atención Empresarial.
+
+Dirección de Atención a Mercados.
 
 ###### Artículo 8º.
 
@@ -245,7 +249,17 @@ XX. Concertar y convenir con los sectores privados, acciones para modernizar e i
 
 XXI. Realizar las actividades, programas y acciones encaminadas al fomento del comercio exterior y atraer la inversión extranjera a Chiapas.
 
-XXII. Las demás que con este carácter y en el ámbito de su competencia, le asignen las Leyes, Reglamentos, Decretos, Acuerdos y demás ordenamientos aplicables, así como, las que le confiera con esa naturaleza, el Titular del Ejecutivo.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+XXII. Establecer los mecanismos necesarios para que en coordinación con los Ayuntamientos de la Entidad, se proporcionen asesorías técnicas a comerciantes y locatarios de los mercados públicos del Estado, fomentando las actividades comerciales y empresariales del sector.
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2012)</small>
+
+XXIII. Establecer el registro y control del Padrón de Mercados Públicos en la Entidad.
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2012)</small>
+
+XXIV. Las demás que con ese carácter y en el ámbito de su competencia le sean encomendadas por el Titular del Ejecutivo, así como las que le confieren las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ## Título Tercero. De los Titulares de los Órganos Administrativos y de sus Atribuciones
 
@@ -749,6 +763,10 @@ a) Dirección de Capacitación Empresarial.
 
 b) Dirección de Atención Empresarial.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2012)</small>
+
+c) Dirección de Atención a Mercados.
+
 ###### Artículo 35.
 
 El Titular de la Subsecretaría de Micro, Pequeñas, Medianas y Grandes Empresas, tiene las siguientes atribuciones:
@@ -759,7 +777,9 @@ II. Promover el desarrollo de modelos de negocios, productos y servicios empresa
 
 III. Promover ante instancias Federales, Estatales y Municipales, así como con iniciativa privada y organismos empresariales, la participación en proyectos productivos y de desarrollo empresarial.
 
-IV. Supervisar la creación y la operación de Centros de Desarrollo Empresarial y Empleo, con el propósito de fomentar las actividades empresariales.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+IV. Vigilar la creación y operación de los Centros Chiapas Emprende en las principales regiones económicas del Estado, con el propósito de fomentar las actividades empresariales.
 
 V. Coordinar acciones encaminadas a la oferta de nuevos productos y servicios para el fortalecimiento del sector empresarial.
 
@@ -767,7 +787,9 @@ VI. Coordinar el desarrollo, la vinculación y contratación de programas de cap
 
 VII. Promover la capacitación, atención empresarial, financiamiento y todos aquellos servicios integrales para el desarrollo e impulso de la competitividad en las Micro, Pequeñas, Medianas y Grandes Empresas del Estado de Chiapas.
 
-VIII. Proporcionar apoyo y asesoría a los empresarios, en los trámites de apertura y regulación de sus negocios.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+VIII. Coordinar las acciones encaminadas a brindar atención y asesoría a los empresarios, en los trámites de apertura y regulación de sus negocios.
 
 IX. Implementar la integración y operación del banco de información empresarial de Chiapas.
 
@@ -777,7 +799,29 @@ XI. Coordinar las acciones encaminadas a la participación del Estado en la Sema
 
 XII. Mantener una red de comunicación con las Cámaras y Organismos Empresariales para fomentar el desarrollo empresarial.
 
-XIII. Las demás que en el ámbito de su competencia, le confieran las disposiciones legales aplicables, así como las que le asigne el Secretario.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+XIII. Coordinar las acciones encaminadas a brindar atención, asesoría y formación empresarial a micro, pequeñas, medianas y grandes empresas del Estado, con el fin de promover el incremento en su competitividad.
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2012)</small>
+
+XIV. Establecer los Centros Chiapas Emprende en las principales regiones económicas del Estado, con el fin de proporcionar en un solo lugar, asesoría y atención a Micro, Pequeñas, Medianas y Grandes Empresas.
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2012)</small>
+
+XV. Conocer y emitir el registro de los locales de cada uno de los centros de abasto y mercados del Estado.
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2012)</small>
+
+XVI. Coordinar y establecer el padrón de mercados, respecto a los cambios de propietarios de los locales o condóminos y del número de giros comerciales en los centros de abasto y mercados del Estado.
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2012)</small>
+
+XVII. Coadyuvar en la escrituración de los locales o condóminos de los centros de abasto y mercados.
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2012)</small>
+
+XVIII. Las demás que en el ámbito de su competencia le sean encomendadas por el Secretario, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ### Capítulo III. De la integración de las Direcciones y de las Atribuciones de sus Titulares
 
@@ -1071,7 +1115,13 @@ V. Proponer la creación de nuevos modelos de negocios, para impulsar el desarro
 
 VI. Promover la implementación de nuevos servicios para fortalecer el Sector Empresarial.
 
-VII. Las demás que en el ámbito de su competencia, le confieran las disposiciones legales aplicables, así como, las que le asigne el Subsecretario al cual se encuentre adscrita, o directamente el Secretario.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+VII. Proporcionar asesoría y formación empresarial a Micro, Pequeñas, Medianas y Grandes Empresas en el Estado, con el fin de promover el incremento de su competitividad.
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2012)</small>
+
+VIII. Las demás que en el ámbito de su competencia le sean encomendadas por el Subsecretario al cual se encuentre adscrito, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 54.
 
@@ -1083,25 +1133,49 @@ b) Departamento de Promoción de Servicios.
 
 c) Departamento de Atención a Cámaras Empresariales.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2012)</small>
+
 ###### Artículo 55.
 
 El Titular de la Dirección de Atención Empresarial, tiene las siguientes atribuciones:
 
-I. Coordinar y supervisar la atención de los Centros de Desarrollo Empresariales y Empleo, en el Estado.
+I. Coordinar y supervisar la atención de los Centros Chiapas Emprende, en el Estado.
 
-II. Coordinar la instalación y operación de los Centros de Desarrollo Empresarial y Empleo en el Estado.
+II. Coordinar la instalación y operación de los Centros Chiapas Emprende, en el Estado.
 
 III. Implementar las acciones necesarias para ofrecer de manera integral y vinculada, todos los servicios empresariales que ofrece la Secretaría.
 
-IV. Integrar un banco de información de los empresarios del Estado y de los atendidos en los Centros de Desarrollo Empresarial y Empleo.
+IV. Integrar un banco de información de los empresarios del Estado y de los atendidos en los Centros Chiapas Emprende.
 
 V. Implementar las acciones necesarias para medir y mejorar el nivel de satisfacción en la atención y servicios ofertados a los empresarios.
 
-VI. Generar estrategias para promover y difundir a la ciudadanía en general, empresarios y cámaras empresariales, los servicios que ofrecen los Centros de Desarrollo Empresarial y Empleo a las Micro, Pequeñas, Medianas y Grandes Empresas.
+VI. Generar estrategias para promover y difundir a la ciudadanía en general, empresarios y cámaras empresariales, los servicios que ofrecen los Centros Chiapas Emprende, a las Micro, Pequeñas, Medianas y Grandes Empresas.
 
 VII. Generar programas de capacitación permanente al personal encargado de la atención a empresarios.
 
-VIII. Las demás que en el ámbito de su competencia, le confieran las disposiciones legales aplicables, así como, las que le asigne el Subsecretario al cual se encuentre adscrita, o directamente el Secretario.
+VIII. Establecer los Centros Chiapas Emprende en las principales regiones económicas del Estado, con el fin de proporcionar en un solo lugar, asesoría y atención a Micro, Pequeñas, Medianas y Grandes empresas.
+
+IX. Las demás que en el ámbito de su competencia le sean encomendadas por el Subsecretario al cual se encuentre adscrito, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2012)</small>
+
+###### Artículo 55 Bis.
+
+El Titular de la Dirección de Atención a Mercados, tiene las siguientes atribuciones:
+
+l. Coordinar con las autoridades municipales, las actividades comerciales y empresariales de comerciantes y locatarios de los mercados públicos en el Estado, para el impulso y desarrollo económico, comercial y empresarial.
+
+II. Proporcionar asesoría técnica a locatarios y comerciantes de los mercados del Estado, en coordinación con las autoridades Municipales.
+
+III. Realizar, en coordinación con los Ayuntamientos Municipales, el padrón de los mercados públicos y la actualización de los mismos.
+
+IV. Implementar los mecanismos necesarios para el registro y control del padrón de mercados públicos en la Entidad.
+
+V. Promocionar y proporcionar la impartición de cursos de capacitación empresarial a comerciantes y locatarios de los mercados públicos en el Estado, previo análisis del expediente técnico que se elabore para tal efecto.
+
+VI. Establecer coordinación con los tres niveles de Gobierno, a fin de buscar los mecanismos necesarios para la modernización y actualización de la infraestructura de los mercados públicos en el Estado.
+
+VII. Las demás que en el ámbito de su competencia le sean encomendadas por el Subsecretario al cual se encuentre adscrito, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ### Capítulo IV. De las Atribuciones de los Titulares de las Delegaciones
 
@@ -1182,3 +1256,15 @@ Artículo Sexto.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley
 Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez; Chiapas; a los diez días del mes de julio de dos mil nueve.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- María del Rosario de Fátima Pariente Gavito, Secretaria de Economía.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE MAYO DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que tengan igual o menor jerarquía que el presente Decreto y se opongan al mismo.
+
+Artículo Tercero.- El Secretario deberá establecer dentro de su estructura orgánica, la Unidad Interna de Protección Civil, la cual adoptará las medidas encaminadas a instrumentar, en el ámbito de sus funciones, la ejecución de los programas de protección civil, dentro de la Secretaría, de conformidad con la Ley de Protección Civil para el Manejo Integral de Riesgos de Desastres del Estado de Chiapas y demás disposiciones aplicables.
+
+Artículo Cuarto.- Conforme a lo dispuesto por el artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
