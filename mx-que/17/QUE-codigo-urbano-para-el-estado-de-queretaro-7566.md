@@ -4,7 +4,7 @@ identifier: "QUE-codigo-urbano-para-el-estado-de-queretaro-7566"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-08-06"
-last_updated: "2008-02-29"
+last_updated: "2012-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # CODIGO URBANO PARA EL ESTADO DE QUERETARO
 
-CODIGO URBANO PARA EL ESTADO DE QUERETARO
+CÓDIGO URBANO PARA EL ESTADO DE QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE FEBRERO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO URBANO PARA EL ESTADO DE QUERÉTARO, PUBLICADO EN EL P.O. 31 DE MAYO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 6 de agosto de 1992.
 
@@ -4312,3 +4314,25 @@ La presente Ley entrará en vigor el día de su publicación en el Periódico Of
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+P.O. 31 DE MAYO DE 2012.
+
+Artículo Primero. El presente Código entrará en vigor a los treinta días naturales contados a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga el Código Urbano para el Estado de Querétaro, publicado en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", el día seis de agosto de mil novecientos noventa y dos.
+
+Artículo Tercero. Las disposiciones legales de otros cuerpos normativos que confieran atribuciones para la aplicación de normas en materia de vigilancia y protección al medio ambiente que este Código otorga a la Procuraduría Estatal de Protección al Medio Ambiente y Desarrollo Urbano, se entenderán conferidas a este Organismo, debiéndose realizar las adecuaciones a dichos cuerpos normativos, en un periodo de 60 días naturales, contados a partir de la entrada en vigor de este ordenamiento legal.
+
+Artículo Cuarto. El titular del Poder Ejecutivo del Estado emitirá las normas reglamentarias de la presente Ley.
+
+Artículo Quinto. En el ámbito de su competencia, los Ayuntamientos de los Municipios del Estado, a partir del inicio de la vigencia del presente Código, procederán a adecuar, emitir y publicar sus normas reglamentarias, que resulten necesarias para la aplicación de la presente Ley.
+
+Artículo Sexto. Aquellas solicitudes de autorización de desarrollos previstos en este ordenamiento, que se encuentren en trámite al entrar en vigor el mismo, deberán ajustarse a las disposiciones del Código entonces vigente.
+
+Artículo Séptimo. La Ley para la Regularización de los Asentamientos Humanos en el Estado de Querétaro, continuará vigente por el tiempo establecido por la Legislatura del Estado en las leyes respectivas.
+
+Artículo Octavo. En un plazo máximo de sesenta días naturales, contados a partir de la entrada en vigor del presente Código, el Poder Ejecutivo del Estado, emitirá el reglamento para la conformación y funcionamiento de la Procuraduría Estatal de Protección al Medio Ambiente y Desarrollo Urbano, así como el nombramiento de su titular.
+
+Artículo Noveno. Los organismos públicos descentralizados contemplados en el presente Código, deberán actualizar las disposiciones complementarias o, en su caso, sus instrumentos de creación que resulten necesarios, para su debida aplicación.
+
+Artículo Decimo. Se derogan todas las demás disposiciones u ordenamientos jurídicos de igual o menor jerarquía que se opongan al presente Código.
