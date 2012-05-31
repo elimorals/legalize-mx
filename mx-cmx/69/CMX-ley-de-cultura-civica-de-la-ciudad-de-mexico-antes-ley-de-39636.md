@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-cultura-civica-de-la-ciudad-de-mexico-antes-ley-de-39636
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-31"
-last_updated: "2012-03-30"
+last_updated: "2012-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39636&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-05-19"
 
 LEY DE CULTURA CÍVICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE MAYO DE 2012.
 
 Ley publicada en el Número Bis de la Gaceta Oficial del Distrito Federal, el lunes 31 de mayo de 2004.
 
@@ -378,15 +378,29 @@ XVI. Prevenir que los animales domésticos causen daño o molestia a los vecinos
 
 XVII. Cumplir las normas de seguridad y prevención contra incendios y demás en materia de protección civil relativas a la seguridad en los espacios públicos, establecimientos comerciales, y lugares de acceso público;
 
-XVIII. Ejercer sus derechos sin perturbar el orden y la tranquilidad públicos, ni afectar la continuidad del desarrollo normal de las actividades de los demás habitantes;
+> <small>(REFORMADA, G.O. 31 DE MAYO DE 2012)</small>
 
-XIX. Denunciar o dar aviso a las autoridades de la comisión de cualquier infracción a las leyes o delitos, así como de cualquier actividad o hechos que causen daño a terceros o afecten la convivencia;
+XVIII. Contribuir a generar un ambiente libre de contaminación auditiva que altere la tranquilidad o represente un posible riesgo a la salud de terceros, trátese de vivienda de interés social, popular o residencial;
 
-XX. Colaborar con las autoridades cuando éstas lo soliciten y en situaciones de emergencia;
+> <small>(REFORMADA, G.O. 31 DE MAYO DE 2012)</small>
 
-XXI. Permitir a las autoridades el ejercicio de las funciones previstas en esta Ley y, en su caso, colaborar con las mismas o requerir su actuación, y
+XIX. Ejercer sus derechos sin perturbar el orden y la tranquilidad públicos, ni afectar la continuidad del desarrollo normal de las actividades de los demás habitantes;
 
-XXII. Participar en los asuntos de interés de su colonia, barrio y Delegación, principalmente en aquellos dirigidos a procurar la seguridad ciudadana así como en la solución de los problemas comunitarios.
+> <small>(REFORMADA, G.O. 31 DE MAYO DE 2012)</small>
+
+XX. Denunciar o dar aviso a las autoridades de la comisión de cualquier infracción a las leyes o delitos, así como de cualquier actividad o hechos que causen daño a terceros o afecten la convivencia;
+
+> <small>(REFORMADA, G.O. 31 DE MAYO DE 2012)</small>
+
+XXI. Colaborar con las autoridades cuando éstas lo soliciten y en situaciones de emergencia;
+
+> <small>(REFORMADA, G.O. 31 DE MAYO DE 2012)</small>
+
+XXII. Permitir a las autoridades el ejercicio de las funciones previstas en esta Ley y, en su caso, colaborar con las mismas o requerir su actuación, y
+
+> <small>(ADICIONADA, G.O. 31 DE MAYO DE 2012)</small>
+
+XXIII. Participar en los asuntos de interés de su colonia, barrio y Delegación, principalmente en aquellos dirigidos a procurar la seguridad ciudadana así como en la solución de los problemas comunitarios.
 
 ###### Artículo 16.
 
@@ -478,7 +492,9 @@ I. Prestar algún servicio sin que le sea solicitado y coaccionar de cualquier m
 
 II. Poseer animales sin adoptar las medidas de higiene necesarias que impidan hedores o la presencia de plagas que ocasionen cualquier molestia a los vecinos;
 
-III. Producir o causar ruidos por cualquier medio que notoriamente atenten contra la tranquilidad o la salud de las personas;
+> <small>(REFORMADA, G.O. 31 DE MAYO DE 2012)</small>
+
+III. Producir o causar ruidos por cualquier medio que notoriamente atenten contra la tranquilidad o represente un posible riesgo a la salud de los vecinos;
 
 IV. Impedir el uso de los bienes del dominio público de uso común;
 
@@ -492,7 +508,9 @@ VIII. Ocupar los accesos de oficinas públicas o sus inmediaciones ofreciendo la
 
 Las infracciones establecidas en las fracciones I y II se sancionarán con multa por el equivalente de 1 a 10 días de salario mínimo o con arresto de 6 a 12 horas.
 
-Las infracciones establecidas en las fracciones III a VII se sancionarán con multa por el equivalente de 11 a 20 días de salario mínimo o con arresto de 13 a 24 horas.
+> <small>(REFORMADO, G.O. 31 DE MAYO DE 2012)</small>
+
+Las infracciones establecidas en las fracciones III a VII se sancionarán con multa por el equivalente de 10 a 40 días de salario mínimo o con arresto de 13 a 24 horas.
 
 La infracción establecida en la fracción VIII se sancionará con arresto de 20 a 36 horas.
 
@@ -1571,3 +1589,9 @@ PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO. Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a lo establecido en el presente Decreto.
+
+G.O. 31 DE MAYO DE 2012.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación, para su mayor difusión.
+
+SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
