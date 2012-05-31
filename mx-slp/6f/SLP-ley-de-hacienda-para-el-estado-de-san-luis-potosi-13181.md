@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2011-12-20"
+last_updated: "2012-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -789,7 +789,9 @@ Antigüedad
 
 2. El resultado obtenido conforme al inciso anterior, se multiplicará por el factor de actualización a que se refiere la fracción VI del artículo 36 Nonies de esta Ley.
 
-3. A este resultado a su vez, se le aplicará la tarifa siguiente al numeral 1 de la fracción I de este artículo.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2012)</small>
+
+3. A este resultado a su vez, se le aplicará la tarifa siguiente al inciso a) de la fracción I de este artículo.
 
 c) Tratándose de vehículos que siendo de servicio particular, durante un ejercicio fiscal pasen a ser de servicio público para transporte de pasajeros denominados “taxis”, para el ejercicio fiscal siguiente a aquél en que se dé esta circunstancia, el impuesto se calculará conforme al procedimiento previsto en el inciso a) de la fracción II de este artículo.
 
@@ -2848,3 +2850,7 @@ SEGUNDO. En virtud de que fue derogado el párrafo noveno del artículo 2o. de l
 TERCERO. Para efectos de la determinación del Impuesto Estatal Sobre Tenencia o Uso de Vehículos correspondiente al ejercicio fiscal 2012, cuando se haga referencia al impuesto causado en el ejercicio fiscal inmediato anterior, se entenderá el que se hubiere determinado de conformidad con la disposición legal federal abrogada.
 
 CUARTO. Por el ejercicio fiscal 2012 se concederá un subsidio equivalente al cincuenta por ciento de este impuesto, a los propietarios de vehículos con valor factura de origen hasta de $150,000.00, siempre que se encuentren al corriente hasta el ejercicio fiscal 2011 en el pago del Impuesto Sobre Tenencia o Uso de Vehículos federal, Derechos de Control Vehicular y demás obligaciones fiscales, tanto de carácter federal coordinado, como estatal a que se encontraren sujetos. Este beneficio sólo será aplicable a una unidad por propietario.
+
+P.O. 31 DE MAYO DE 2012.
+
+UNICO. Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
