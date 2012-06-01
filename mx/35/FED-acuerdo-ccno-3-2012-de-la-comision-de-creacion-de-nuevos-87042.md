@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ccno-3-2012-de-la-comision-de-creacion-de-nuevos-87042"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-04-09"
-last_updated: "2012-05-03"
+last_updated: "2012-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87042&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2012-03-26"
 
 ACUERDO CCNO/3/2012 DE LA COMISIÓN DE CREACIÓN DE NUEVOS ÓRGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL INICIO DE LA COMPETENCIA TEMPORAL COMPARTIDA Y TURNO REGULADO DE ASUNTOS EJECUTIVOS MERCANTILES DEL JUZGADO PRIMERO DE DISTRITO EN MATERIA MERCANTIL, ESPECIALIZADO EN JUICIOS DE CUANTÍA MENOR, CON SEDE EN SAN ANDRÉS CHOLULA, PUEBLA
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 3 DE MAYO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2012.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 9 de abril de 2012.
 
@@ -53,9 +51,11 @@ En consecuencia, con fundamento en las disposiciones constitucionales y legales 
 
 ACUERDO
 
-PRIMERO. A partir del nueve de abril de dos mil doce, se establece la competencia temporal compartida del Juzgado Primero de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en San Andrés Cholula, Puebla, para conocer, junto con los Juzgados de Distrito en el Estado de Puebla, de los asuntos ejecutivos mercantiles cuya cuantía sea igual a la establecida para el caso de los juicios orales mercantiles, de conformidad con lo dispuesto por el artículo 1390 bis del Código de Comercio.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO CCNO/7/2012 DE LA COMISIÓN DE CREACIÓN DE NUEVOS ÓRGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE JUNIO DE 2012)</small>
 
-En consecuencia, a partir de la fecha señalada y hasta nuevo aviso, la Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de Puebla, con residencia en San Andrés Cholula, Puebla, turnará al Juzgado Primero de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, uno de cada cinco asuntos ejecutivos mercantiles de la cuantía señalada que se presenten ante ésta.
+PRIMERO. A partir del veintiocho de mayo de dos mil doce, se establece la competencia temporal del Juzgado Primero de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en San Andrés Cholula, Puebla, para conocer de los asuntos ejecutivos mercantiles cuya cuantía sea igual a la establecida para el caso de los juicios orales mercantiles, de conformidad con lo dispuesto por el artículo 1390 bis del Código de Comercio.
+
+En consecuencia, a partir de la fecha señalada y hasta nuevo aviso, la Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de Puebla, con residencia en San Andrés Cholula, turnará al Juzgado Primero de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, dos de cada cinco asuntos ejecutivos mercantiles de la cuantía señalada que se presenten ante ésta.
 
 Para el turno de los asuntos referidos al Juzgado Primero de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, la citada oficina cuidará que no se trate de expedientes relacionados, en términos de lo dispuesto por el artículo 9 del Acuerdo General 13/2007.
 
@@ -74,3 +74,15 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL MAGISTRADO EDWIN NOE GARCIA BAEZA, SECRETARIO EJECUTIVO DE CARRERA JUDICIAL, ADSCRIPCION Y CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL CERTIFICA: Que este Acuerdo CCNO/3/2012, de la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal, relativo al inicio de la competencia temporal compartida y turno regulado de asuntos ejecutivos mercantiles del Juzgado Primero de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con sede en San Andrés Cholula, Puebla, fue aprobado por la propia Comisión en sesión privada ordinaria celebrada el veintiséis de marzo de dos mil doce, por los señores Consejeros: Presidente César Alejandro Jáuregui Robles, Daniel Francisco Cabeza de Vaca Hernández y Jorge Moreno Collado.- México, Distrito Federal, a veintiséis de marzo de dos mil doce.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 1 DE JUNIO DE 2012.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. La Dirección General de Estadística Judicial y la Dirección General de Tecnologías de la Información, modificarán los rubros del Sistema Integral de Seguimiento de Expedientes relativos a los asuntos que ingresen al Juzgado Primero de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con sede en San Andrés Cholula, Puebla, a fin de identificar por separado los juicios orales mercantiles de los ejecutivos mercantiles.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo CCNO/3/2012 de la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal.
+
+CUARTO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
