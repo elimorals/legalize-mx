@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-responsabilidades-de-los-servidores-publicos-del-33674"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-29"
-last_updated: "2011-06-10"
+last_updated: "2012-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE BAJA CALIFORNIA
+LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 29 de agosto de 2003.
 
@@ -169,7 +169,7 @@ Una vez ratificada la denuncia, ésta se turnará de inmediato con la documentac
 
 Las denuncias anónimas o no ratificadas en el plazo a que se refiere éste artículo, no producirán ningún efecto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 14.
 
@@ -423,7 +423,7 @@ XVIII. Informar por escrito al titular de la dependencia o entidad de adscripci�
 
 XIX. Las demás que establezcan las leyes, reglamentos y disposiciones administrativas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2006)</small>
 
 ###### ARTÍCULO 47.
 
@@ -625,9 +625,11 @@ I. La cantidad líquida que corresponda a la sanción económica impuesta, se di
 
 II. El resultado de la operación anterior, se multiplicará por el salario mínimo diario vigente en el Estado el día en que se vaya efectuar el pago de la sanción.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 65.
 
-Las autoridades a que se refiere el artículo 5 de la presente Ley, en los ámbitos de sus respectivas competencias, podrán abstenerse de sancionar al servidor público responsable, por una sola vez, cuando lo estimen pertinente, justificando la causa de la abstención, siempre que se trate de hechos que no constituyan delito, cuando lo ameriten los antecedentes y circunstancias del servidor público responsable y el daño causado por éste no exceda de cien veces el salario mínimo diario vigente en el Estado.
+Las autoridades a que se refiere el artículo 5 de la presente Ley, en los ámbitos de sus respectivas competencias, deberán sancionar al servidor público responsable con amonestación, siempre que se trate de hechos que no constituyan delito, cuando lo ameriten los antecedentes y circunstancias del servidor público responsable y el daño causado por éste no exceda de cien veces el salario mínimo diario vigente en el Estado.
 
 ###### ARTÍCULO 66.
 
@@ -965,7 +967,7 @@ BERNARDO H. MARTINEZ AGUIRRE
 
 RUBRICA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 26 DE MAYO DE 2006.
 
@@ -986,3 +988,7 @@ P.O. 15 DE OCTUBRE DE 2010.
 P.O. 10 DE JUNIO DE 2011.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE JUNIO DE 2012.
+
+ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
