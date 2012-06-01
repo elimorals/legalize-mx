@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "2011-10-28"
+last_updated: "2012-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2012.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -899,9 +899,9 @@ X.- Estacionamiento o guarda de vehículos.
 
 XI.- Construcción, reconstrucción, ampliación y translación de casas.
 
-> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2012)</small>
 
-XII.- Construcción incluyendo la apertura de hoyos y zanjas en la vía pública para la instalación de estructuras, equipos, instrumentos o elementos necesarios para la prestación de servicios de telefonía, televisión por cable, internet, gas y otros servicios similares prestados por empresas privadas.
+XII.- Construcción incluyendo la apertura de hoyos y zanjas en inmuebles propiedad de particulares o en inmuebles de dominio público para la instalación de estructuras y/o mástil de antenas de telefonía móvil o fija de hasta 30 metros de altura, equipos, instrumentos o elementos necesarios para la prestación de servicios de telefonía móvil y fija, incluyendo líneas ocultas o visibles, así como televisión por cable, internet, gas y otros servicios similares prestados por empresas privadas.
 
 ###### ARTICULO 78.
 
@@ -1469,7 +1469,7 @@ El plazo para cómputo de los recargos por demora en el pago de impuestos y dere
 
 La condonación total o parcial de los recargos podrá otorgarse mediante disposiciones de carácter general que apruebe el Ayuntamiento, a propuesta del Presidente Municipal, la cual deberá publicarse en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO P.O. 26 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
 Excepcionalmente, el Presidente Municipal podrá otorgar la condonación total o parcial de los recargos, cuando se trate de personas de edad avanzada o de escasos recursos económicos que la ameriten, previo estudio socioeconómico que así lo sustente.
 
@@ -2205,11 +2205,11 @@ UNICO.- Las adiciones y reformas a que se refiere el presente Decreto entrarán 
 
 P.O. 10 DE ENERO DE 1956.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
 
 P.O. 31 DE OCTUBRE DE 1958.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
 
 P.O. 31 DE DICIEMBRE DE 1958.
 
@@ -2285,11 +2285,11 @@ El presente Decreto entrará en vigor, el día siguiente al de su publicación e
 
 P.O. 2 DE MAYO DE 1997.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
 
 P.O. 26 DE DICIEMBRE DE 1997.
 
-SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA PRESENTE LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS ARTÍCULOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA PRESENTE LEY.
 
 ###### ARTICULO PRIMERO.
 
@@ -2383,7 +2383,7 @@ P.O. 15 DE OCTUBRE DE 2010.
 
 P.O. 28 DE OCTUBRE DE 2011.
 
-DECRETO No. 99 POR EL QUE SE APRUEBA LA INICIATIVA DE REFORMA A LA FRACCION VII Y ADICION DE UN PARRAFO A DICHA FRACCION DEL ARTICULO 75 BIS A DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
+DECRETO No. 99 POR EL QUE SE APRUEBA LA INICIATIVA DE REFORMA A LA FRACCIÓN VII Y ADICIÓN DE UN PÁRRAFO A DICHA FRACCIÓN DEL ARTÍCULO 75 BIS A DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -2391,8 +2391,14 @@ SEGUNDO.- Se derogan todas las demás disposiciones que se opongan a lo establec
 
 P.O. 28 DE OCTUBRE DE 2011.
 
-DECRETO No. 100 POR EL QUE SE APRUEBA LA INICIATIVA QUE REFORMA EL ARTICULO 77 DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA.
+DECRETO No. 100 POR EL QUE SE APRUEBA LA INICIATIVA QUE REFORMA EL ARTÍCULO 77 DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA.
 
 PRIMERO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Los Ayuntamientos del Estado deberán realizar las adecuaciones a sus respectivas Leyes de Ingresos, para la debida aplicación de la presente reforma.
+
+P.O. 1 DE JUNIO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los Ayuntamientos del Estado de Baja California deberán realizar las adecuaciones conducentes a sus respectivas Leyes de Ingresos, a efecto de la correcta aplicación de la presente reforma.
