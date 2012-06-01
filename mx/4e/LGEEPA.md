@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2012-05-29"
+last_updated: "2012-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -3050,9 +3050,9 @@ ARTICULO 170 BIS.- Cuando la Secretaría ordene alguna de las medidas de segurid
 
 Las violaciones a los preceptos de esta Ley, sus reglamentos y las disposiciones que de ella emanen serán sancionadas administrativamente por la Secretaría, con una o más de las siguientes sanciones:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2012)</small>
 
-I. Multa por el equivalente de veinte a cincuenta mil días de salario mínimo general vigente en el Distrito Federal al momento de imponer la sanción;
+I. Multa por el equivalente de treinta a cincuenta mil días de salario mínimo general vigente en el Distrito Federal al momento de imponer la sanción;
 
 > <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -3076,7 +3076,9 @@ V. La suspensión o revocación de las concesiones, licencias, permisos o autori
 
 Si una vez vencido el plazo concedido por la autoridad para subsanar la o las infracciones que se hubieren cometido, resultare que dicha infracción o infracciones aún subsisten, podrán imponerse multas por cada día que transcurra sin obedecer el mandato, sin que el total de las multas exceda del monto máximo permitido, conforme a la fracción I de este artículo.
 
-En el caso de reincidencia, el monto de la multa podrá ser hasta por dos veces del monto originalmente impuesto, sin exceder del doble del máximo permitido, así como la clausura definitiva.
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2012)</small>
+
+En el caso de reincidencia, el monto de la multa podrá ser hasta por tres veces del monto originalmente impuesto, así como la clausura definitiva.
 
 > <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -3647,3 +3649,9 @@ D.O.F. 29 DE MAYO DE 2012.
 DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 22, TERCER PÁRRAFO; 22 BIS, FRACCIÓN I; 41, Y 116, FRACCIÓN III DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE JUNIO DE 2012.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan y abrogan todas las disposiciones que se opongan al presente Decreto
