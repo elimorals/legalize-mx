@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-y-defensa-de-los-derechos-de-los-menores-6192
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-04"
-last_updated: "2011-10-28"
+last_updated: "2012-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61926&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DE PROTECCION Y DEFENSA DE LOS DERECHOS DE LOS MENORES Y LA FAMILIA EN EL ESTADO DE BAJA CALIFORNIA
 
-LEY DE PROTECCION Y DEFENSA DE LOS DERECHOS DE LOS MENORES Y LA FAMILIA EN EL ESTADO DE BAJA CALIFORNIA
+LEY DE PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE LOS MENORES Y LA FAMILIA EN EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 4 de julio de 2008.
 
@@ -81,7 +81,11 @@ XI.- SUBPROCURADOR: El Titular de la Subprocuraduría para la Defensa de los Men
 
 XII.- SUBPROCURADURIA: Subprocuraduría para Defensa de los Menores y la Familia.
 
-XIII.- VULNERABILIDAD: Cualquier conducta o circunstancia que afecte o ponga en riesgo la seguridad, la salud, la moralidad, la tranquilidad, el bienestar o el desarrollo armónico de los menores o personas que no tengan capacidad para comprender el significado del hecho, aún cuando esos hechos o conductas no cayeren bajo la sanción de la Ley Penal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2012)</small>
+
+XIII.- VULNERABILIDAD: Cualquier conducta o circunstancia que afecte o ponga en riesgo la seguridad, la salud, la moralidad, la tranquilidad, el bienestar o el desarrollo armónico de los menores o personas que no tengan capacidad para comprender el significado del hecho o adultos mayores de sesenta años de edad, aun cuando esos hechos o conductas no cayeren bajo la sanción de la Ley Penal.
 
 ### CAPÍTULO II. DE LOS DERECHOS MINIMOS DEL MENOR
 
@@ -159,11 +163,13 @@ Lo anterior sin perjuicio de las funciones indagatorias del Ministerio Público,
 
 La Procuraduría podrá solicitar de la autoridad judicial competente, la pérdida de la patria potestad de menores expósitos y abandonados en los términos previstos por las fracciones V y VI del artículo 441 del Código Civil para el Estado de Baja California.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 12.
 
-Toda persona, autoridad o institución que tenga conocimiento del posible estado de vulnerabilidad de un menor, inclusive, respecto de personas que no tengan la capacidad para comprender el significado del hecho y personas con capacidades diferentes, deberá de hacerlo del conocimiento de la Procuraduría, a través del procedimiento de denuncia contemplado en la presente Ley.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE OCTUBRE DE 2011)</small>
+Toda persona, autoridad o institución que tenga conocimiento del posible estado de vulnerabilidad de un menor, inclusive, respecto de personas que no tengan la capacidad para comprender el significado del hecho y personas con capacidades diferentes y adultos mayores de sesenta años de edad, que se encuentren en desamparo, marginación o sujetos a maltrato, deberá de hacerlo del conocimiento de la Procuraduría, a través del procedimiento de denuncia contemplado en la presente Ley.
 
 La Procuraduría recibirá en todo momento las denuncias referidas en el párrafo anterior, iniciando el procedimiento respectivo, en los términos de la presente Ley.
 
@@ -259,7 +265,17 @@ XIX.- Gestionar en su caso, ante el Oficial del Registro Civil de los distintos 
 
 XX.- Solicitar a otras instancias públicas o privadas ya sean federales, estatales o municipales inclusive extranjeras, diversas peticiones, documentos, estudios sociales, valoraciones psicológicas, comparecencias documentadas de personas y demás que sean necesarias para la debida integración de los expedientes administrativos a su cargo; y,
 
-XXI.- Las demás contempladas en otras disposiciones legales que sean aplicables para el cumplimiento de su objetivo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2012)</small>
+
+XXI.- Otorgar asesoría o representación jurídica a los adultos mayores de sesenta años de edad, que así lo soliciten, en la demanda de alimentos que establece el Código Civil del Estado; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JUNIO DE 2012)</small>
+
+XXII.- Las demás contempladas en otras disposiciones legales que sean aplicables para el cumplimiento de su objetivo.
 
 ### CAPÍTULO II. DE LA ESTRUCTURA
 
@@ -743,7 +759,7 @@ CARLOS ARMANDO REYNOSO NUÑO.
 
 PARA SU CONOCIMIENTO EN TÉRMINOS DEL ARTÍCULO 9, DE LA LEY ORGANICA DE LA ADMINISTRACIÓN PUBLICA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 13 DE NOVIEMBRE DE 2009.
 
@@ -752,3 +768,7 @@ P.O. 13 DE NOVIEMBRE DE 2009.
 P.O. 28 DE OCTUBRE DE 2011.
 
 ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE JUNIO DE 2012.
+
+ÚNICO.- Las presentes reformas entrarán en vigor a los sesenta días siguientes de su publicación en el Periódico Oficial del Estado de Baja California.
