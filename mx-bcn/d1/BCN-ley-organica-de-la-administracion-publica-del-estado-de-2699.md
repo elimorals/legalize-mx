@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2012-03-30"
+last_updated: "2012-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2012.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -223,11 +223,17 @@ XVII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2009)
 
 (REFORMADA, P.O. 29 DE JUNIO DE 2001) (REPUBLICADA, P.O. 28 DE OCTUBRE DE 2005)
 
-XVIII.- Dirección de Control y Evaluación Gubernamental, y
+XVIII.- Dirección de Control y Evaluación Gubernamental, y (sic)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MAYO DE 2008)</small>
 
 XIX.- Secretaría de Pesca y Acuacultura.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JUNIO DE 2012)</small>
+
+XX.- La Secretaría de Protección Civil.
 
 ### CAPITULO I
 
@@ -319,9 +325,9 @@ XVIII.- Dirigir y orientar la prevención de la delincuencia y de toda conducta 
 
 XIX.- Vigilar la marcha general de la administración pública, para asegurar el cumplimiento de las instrucciones y criterios generales que hubieren sido dictados por el titular del Ejecutivo;
 
-(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)(F. DE E., P.O. 30 DE ENERO DE 1998)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XX.- Establecer el sistema estatal de protección civil; coordinar las acciones y programas del Ejecutivo, relativos a la prevención de desastres; así como, ordenar la participación civil en eventos de emergencia, a fin de controlar y disminuir los daños materiales y humanos, y (sic)
+XX.- (DEROGADA, P.O. 1 DE JUNIO DE 2012)
 
 > <small>(REFORMADA, P.O. 3 DE ENERO DE 2003)</small>
 
@@ -1441,6 +1447,26 @@ XVII.- Impulsar la investigación acuícola y pesquera, la transferencia de tecn
 
 XVIII.- Las demás que no estén otorgadas expresamente a la Federación y a los Municipios.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2012)</small>
+
+ARTICULO 40 BIS.- La Secretaría de Protección Civil, le corresponde la atención y trámite de los siguientes asuntos:
+
+I.- Cumplir y hacer cumplir la Ley estatal de protección civil en el estado, particularmente ejerciendo las atribuciones contenidas en el artículo 13;
+
+II.- Participar en la planeación estatal en la materia de protección civil;
+
+III.- Coordinar las acciones contenidas en los programas referentes a la protección civil;
+
+IV.- Representar al ejecutivo de Estado en el sistema nacional de Emergencias;
+
+V.- Elaborar los anteproyectos de presupuesto de egresos del área;
+
+VI.- Brindar asesoría a los ayuntamientos para la formulación de los programas de protección civil y su reglamentación respectiva; y
+
+VII.- Las demás que se determinen expresamente de la Ley de la materia y sus reglamentos respectivos.
+
 ### CAPITULO I
 
 DE LOS ORGANISMOS DESCENTRALIZADOS.
@@ -2024,6 +2050,16 @@ P.O. 23 DE DICIEMBRE DE 2011.
 P.O. 30 DE MARZO DE 2012.
 
 ÚNICO: Las presentes reformas entrarán en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE JUNIO DE 2012.
+
+PRIMERO: El Ejecutivo del Estado, deberá promover las reformas a la Ley estatal de protección civil del Estado, a más tardar en un término de 90 días contados a partir de la entrada en vigor de las presentes reformas, a fin de adecuar la presente reforma por lo que hace a la transferencia de atribuciones y competencias en materia de protección civil de la dirección a la propuesta secretaría de protección civil en el Estado.
+
+SEGUNDO: Para efectos administrativos y presupuestales, la Secretaría de Protección Civil absorberá los recursos humanos y materiales de la Dirección de Protección Civil; así como las partidas presupuestales que se le asignen para el Ejercicio Fiscal correspondiente.
+
+TERCERO: El reglamento que se derive de la presente reforma deberá ser elaborado dentro de un plazo no mayor de 90 días contados a partir de la entrada en vigor de la presente reforma.
+
+CUARTO: Las presentes reformas entrarán en vigor el día primero de enero del año dos mil trece.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 279.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE TLAXCALA”.]
 
