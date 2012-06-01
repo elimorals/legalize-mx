@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-general-de-gobierno-51746"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-01"
-last_updated: "2007-11-23"
+last_updated: "2012-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO INTERNO DE LA SECRETARIA GENERAL DE GOBIERNO
 
-REGLAMENTO INTERNO DE LA SECRETARIA GENERAL DE GOBIERNO
+REGLAMENTO INTERNO DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DE LA SECRETARÍA GENERAL DE GOBIERNO, PUBLICADO EN EL P.O. DE 1 DE JUNIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 1 de septiembre de 2006.
 
@@ -1244,3 +1246,13 @@ P.O. 23 DE NOVIEMBRE DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se dejan sin efectos las disposiciones normativas expedidas por el titular del Poder Ejecutivo del Estado, que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 1 DE JUNIO DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interno de la Secretaría General de Gobierno publicado en el Periódico Oficial del Estado, en fecha 01 de septiembre de 2006 y el Decreto publicado en el Periódico Oficial del Estado, en fecha 23 de noviembre de 2007.
+
+TERCERO.- En tanto no se expidan los manuales que este Reglamento menciona, el Secretario quedará facultado para resolver las cuestiones que conforme a dichos manuales se deban regular.
+
+CUARTO.- Se derogan todas las disposiciones administrativas que se contrapongan al presente Reglamento.
