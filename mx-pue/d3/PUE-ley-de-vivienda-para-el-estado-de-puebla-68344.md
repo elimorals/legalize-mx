@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-vivienda-para-el-estado-de-puebla-68344"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-17"
-last_updated: "2009-04-17"
+last_updated: "2012-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68344&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE VIVIENDA PARA EL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2012.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el viernes 17 de abril de 2009.
 
@@ -41,9 +41,13 @@ LEY DE VIVIENDA PARA EL ESTADO DE PUEBLA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2012)</small>
+
 ###### Artículo 1.
 
-La presente Ley es reglamentaria del artículo 123 de la Constitución Política del Estado Libre y Soberano de Puebla, en materia de vivienda, sus disposiciones son de orden público e interés social y tienen por objeto establecer y regular la Política del Estado y de los Municipios en materia de vivienda, los programas, los instrumentos, los planes y apoyos y demás disposiciones legales para que toda familia o persona que habite en el Estado pueda disfrutar de una vivienda digna y decorosa, preferentemente aquellas que se encuentren en una situación de marginación, pobreza y vulnerabilidad social. Para cumplir con su objeto, tanto el Estado, como los Municipios, podrán coordinarse con la Federación en el establecimiento de sus políticas públicas en materia de vivienda.
+La presente Ley es reglamentaria del artículo 123 de la Constitución Política del Estado Libre y Soberano de Puebla, en materia de vivienda, sus disposiciones son de orden público e interés social y tienen por objeto establecer y regular la Política del Estado y de los Municipios en materia de vivienda, los programas, los instrumentos, los planes, apoyos para financiamiento, comercialización y titulación para la vivienda social y demás disposiciones legales para que toda familia o persona que habite en el Estado pueda disfrutar de una vivienda digna y decorosa, preferentemente aquellas que se encuentren en una situación de marginación, pobreza y vulnerabilidad social. Para cumplir con su objeto, tanto el Estado, como los Municipios, podrán coordinarse con la Federación en el establecimiento de sus políticas públicas en materia de vivienda.
+
+El Estado establecerá los lineamientos y mecanismos para coordinar las acciones de los sectores público, social y privado encaminados a garantizar este derecho.
 
 ###### Artículo 2.
 
@@ -69,7 +73,7 @@ III.- Estímulo.- Las medidas de carácter jurídico, administrativo, fiscal o f
 
 IV.- Habitabilidad.- Se refiere a las condiciones de las características físicas de la vivienda en cuanto a su tamaño, calidad y durabilidad de sus materiales, así como los servicios básicos y las características psicosociales de la familia como hábitos, conductas o maneras de ser adquiridas en el transcurso del tiempo;
 
-V.- Instituto.- El Instituto Poblano de la Vivienda;
+V.- (DEROGADA, P.O. 1 DE JUNIO DE 2012)
 
 VI.- Ley.- Ley de Vivienda para el Estado de Puebla;
 
@@ -79,7 +83,9 @@ VIII.- Población Vulnerable.- La constituida por los adultos mayores y personas
 
 IX.- Pobreza.- Circunstancia económica en la que una persona carece de los ingresos suficientes para acceder a una vivienda;
 
-X.- Registro.- Registro de Información Estatal;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2012)</small>
+
+X.- Registro.- Registro de Información Estatal de Vivienda;
 
 XI.- Secretaría.- Secretaría de Desarrollo Social;
 
@@ -173,13 +179,17 @@ V.- Los programas especiales, regionales o institucionales que se deriven de los
 
 La formulación, ejecución, control y evaluación de estos programas de vivienda se efectuará conforme a las disposiciones de la Ley de Planeación para el Desarrollo del Estado de Puebla, las previstas en la presente Ley, los demás ordenamientos que resulten aplicables, así como los respectivos acuerdos de coordinación entre los diferentes niveles de Gobierno.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2012)</small>
+
 ###### Artículo 10.
 
-La formulación de los programas en materia de vivienda, estarán a cargo del Gobierno del Estado o de los Municipios, en sus respectivos ámbitos de competencia. El Consejo podrá coadyuvar en la formulación de programas de vivienda que aquellos implementen en los términos y condiciones que se determinen.
+La formulación de los programas en materia de vivienda, estarán a cargo del Gobierno del Estado a través de la Secretaría o de los Municipios, en sus respectivos ámbitos de competencia. El Consejo podrá coadyuvar en la formulación de programas de vivienda que aquéllos implementen en los términos y condiciones que se determinen.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2012)</small>
 
 ###### Artículo 11.
 
-Para la programación y presupuestación anual del gasto público del Estado en materia de vivienda a través de la Secretaría y del Instituto y conforme a la disponibilidad presupuestal para el ejercicio fiscal vigente, se deberá tomar en cuenta lo siguiente:
+Para la programación y presupuestación anual del gasto público del Estado en materia de vivienda a través de la Secretaría y conforme a la disponibilidad presupuestal para el ejercicio fiscal vigente, se deberá tomar en cuenta lo siguiente:
 
 I.- Los programas, subprogramas, proyectos, acciones y actividades que las dependencias y entidades de la Administración Pública Estatal o Municipal tengan planeados realizar para dar cumplimiento a los objetivos, políticas, estrategias y metas durante un ejercicio fiscal;
 
@@ -209,7 +219,9 @@ III.- La Ley de Egresos del Estado y los Presupuestos de Egresos de los Municipi
 
 La programación y presupuestación anual de la política de vivienda en los términos señalados en esta Ley, será responsabilidad de:
 
-I.- La Secretaría, la Secretaría de Finanzas y Administración del Gobierno del Estado y el Instituto, en sus respectivos ámbitos de competencia; y
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2012)</small>
+
+I.- La Secretaría y la Secretaría de Finanzas del Gobierno del Estado, en sus respectivos ámbitos de competencia; y
 
 II.- La dependencia o entidad de la administración pública municipal competente en materia de vivienda, el Presidente Municipal y el Ayuntamiento, de conformidad con sus atribuciones específicas.
 
@@ -271,9 +283,11 @@ IV.- Promover y garantizar la participación articulada de todos los factores pr
 
 V.- Integrar la participación de los sectores público, privado y social en el cumplimiento de la política estatal de vivienda.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2012)</small>
+
 ###### Artículo 19.
 
-La Coordinación del Sistema Estatal de Vivienda, corresponde al Ejecutivo del Estado a través de la Secretaría y el Instituto con la concurrencia de la Federación, de las Dependencias y Entidades del Gobierno del Estado, de los Ayuntamientos de los Municipios, así como del sector privado; de conformidad con las leyes aplicables en la materia y en concordancia con el Sistema Nacional de Vivienda.
+La Coordinación del Sistema Estatal de Vivienda, corresponde al Ejecutivo del Estado a través de la Secretaría con la concurrencia de la Federación, de las Dependencias y Entidades del Gobierno del Estado, de los Ayuntamientos de los Municipios, así como del sector privado, de conformidad con las leyes aplicables en la materia y en concordancia con el Sistema Nacional de Vivienda.
 
 ### CAPÍTULO IV. DE LAS AUTORIDADES EN MATERIA DE VIVIENDA
 
@@ -287,7 +301,7 @@ II.- El Titular de la Secretaría;
 
 III.- Los Ayuntamientos; y
 
-IV.- El Titular del Instituto.
+IV.- (DEROGADA, P.O. 1 DE JUNIO DE 2012)
 
 ###### Artículo 21.
 
@@ -305,9 +319,37 @@ V.- Gestionar los recursos necesarios para programas de vivienda municipal, de c
 
 VI.- Proponer los ordenamientos y demás disposiciones necesarias para el cumplimiento de esta Ley;
 
-VII.- Proponer Programas de Vivienda; y
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2012)</small>
 
-VIII.- Las demás que conforme a esta Ley le correspondan.
+VII.- Proponer Programas de Vivienda;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2012)</small>
+
+VIII.- Establecer las medidas conducentes para asegurar el cumplimiento de los programas aprobados por el Titular del Ejecutivo del Estado en materia de vivienda; en particular fijar prioridades cuando fuere necesario en los aspectos no previstos en las normas generales y solicitar en consecuencia, los recursos para su asignación y/o ejecución;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2012)</small>
+
+IX.- Formular y someter a la aprobación del Titular del Ejecutivo del Estado, las normas reglamentarias que se deriven de la presente Ley, así como sus modificaciones;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2012)</small>
+
+X.- Coordinar, en el ámbito de su competencia, las decisiones que se adopten con otros organismos públicos en aspectos conexos;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2012)</small>
+
+XI.- Verificar el cumplimiento de las normas vigentes y evaluar la realización de los programas de los cuales la Secretaría sea ejecutor; a este efecto podrá:
+
+a) Requerir información a las dependencias y entidades públicas que operen en materia de vivienda; y
+
+b) Hacer observaciones a las dependencias y organismos de la Administración Pública del Estado de Puebla, sobre las normas, acciones o procedimientos en materia de vivienda para su ajuste o corrección;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2012)</small>
+
+XII.- Ejecutar y cumplir los acuerdos y resoluciones de autoridades competentes; y
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2012)</small>
+
+XIII.- Las demás que conforme a esta Ley le correspondan.
 
 ###### Artículo 22.
 
@@ -347,55 +389,21 @@ XVI.- Las demás que le señale esta Ley y otros ordenamientos jurídicos aplica
 
 ###### Artículo 23.
 
-El Instituto, tendrá además de las atribuciones comprendidas en su Decreto de Creación y en su Reglamento, las siguientes:
+(DEROGADO, P.O. 1 DE JUNIO DE 2012)
 
-I.- Establecer las medidas conducentes para asegurar el cumplimiento de los programas aprobados por el Titular del Ejecutivo del Estado en materia de vivienda; en particular fijar prioridades cuando fuere necesario en los aspectos no previstos en las normas generales y solicitar en consecuencia, los recursos para su asignación y/o ejecución;
-
-II.- Formular y someter a la aprobación del Titular del Ejecutivo del Estado, las normas reglamentarias que se deriven de la presente Ley, así como sus modificaciones;
-
-III.- Coordinar, en el ámbito de su competencia, las decisiones que se adopten con otros organismos públicos en aspectos conexos;
-
-IV.- Verificar el cumplimiento de las normas vigentes y evaluar la realización de los programas de los cuales el Instituto sea ejecutor; a este efecto podrá:
-
-a) Requerir información a las dependencias y entidades públicas que operen en materia de vivienda; y
-
-b) Hacer observaciones a las dependencias y organismos de la Administración Pública del Estado de Puebla, sobre las normas, acciones o procedimientos en materia de vivienda para su ajuste o corrección;
-
-V.- Ejecutar y cumplir los acuerdos y resoluciones de autoridades competentes;
-
-VI.- Ordenar la práctica de actos de verificación y visitas a los beneficiarios y terceros con ellos relacionados para revisar el cumplimiento de sus obligaciones previstas en esta Ley, y en su caso, en coordinación con las instancias que hayan coadyuvado en la acción de vivienda;
-
-VII.- Celebrar convenios de colaboración con los gobiernos Federal, Municipal y Organismos del Sector Público y Privado para ejecutar programas y/o acciones de vivienda;
-
-VIII.- Ordenar el resguardo de las viviendas construidas dentro de los programas relacionados con el Instituto, en los casos en que los beneficiarios no cumplan con la normatividad;
-
-IX.- Contestar las consultas y promociones que en materia de vivienda sean presentadas por los particulares;
-
-X.- Notificar los actos administrativos en materia de vivienda, debiéndose observar los requisitos siguientes;
-
-a) Constar por escrito;
-
-b) Señalar autoridad que lo emite;
-
-c) Estar fundado y motivado;
-
-d) Expresar la resolución, objeto o propósito de que se trate;
-
-e) Contener la firma del servidor público competente que la emite y en su caso, el nombre o nombres de las personas a las que vaya dirigido. Cuando se ignore el nombre de la persona a la que va dirigido, se señalarán los datos suficientes que permitan su identificación;
-
-f) Comprobar que los interesados o beneficiarios de vivienda, han cumplido con las disposiciones de esta Ley y de la normatividad aplicable a la misma; y
-
-XI.- Las demás que señale esta Ley u otros ordenamientos jurídicos aplicables.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2012)</small>
 
 ###### Artículo 24.
 
-El Estado, la Secretaría, los Ayuntamientos y el Instituto, conforme a sus respectivas atribuciones, serán los responsables de diseñar, proponer y coadyuvar a la integración, coordinación, análisis y ejecución de la política de vivienda y de los programas de vivienda del Estado.
+El Estado, la Secretaría y los Ayuntamientos, conforme a sus respectivas atribuciones, serán los responsables de diseñar, proponer y coadyuvar a la integración, coordinación, análisis y ejecución de la política de vivienda y de los programas de vivienda del Estado.
 
 ### CAPÍTULO V. DE LAS FACULTADES DE VERIFICACIÓN Y VISITAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2012)</small>
+
 ###### Artículo 25.
 
-La Secretaría, los Ayuntamientos y el Instituto, de manera conjunta o separada, conforme a su competencia respectiva podrán realizar actos de verificación y visitas a los beneficiarios para el cumplimiento de sus obligaciones previstas en esta Ley, en su Reglamento y en la normatividad aplicables y de acuerdo a los programas de vivienda, debiendo para ello facultar debidamente a los servidores públicos capacitados para ejercer dichos actos.
+La Secretaría y los Ayuntamientos, de manera conjunta o separada, conforme a su competencia respectiva podrán realizar actos de verificación y visitas a los beneficiarios para el cumplimiento de sus obligaciones previstas en esta Ley, en su Reglamento y en la normatividad aplicables y de acuerdo a los programas de vivienda, debiendo para ello facultar debidamente a los servidores públicos capacitados para ejercer dichos actos.
 
 Para tales efectos, podrán ordenar la realización de visitas, requiriendo a los particulares la exhibición de documentos que acrediten el cumplimiento de sus obligaciones respecto de la vivienda con que fueron beneficiados, así como vigilar que se cumplan con las disposiciones en materia de vivienda, levantando el acta circunstanciada correspondiente.
 
@@ -465,7 +473,9 @@ I.- El Titular del Ejecutivo Estatal, quien fungirá como Presidente Honorario;
 
 II.- El Titular de la Secretaría de Desarrollo Social en su carácter de Presidente Ejecutivo;
 
-III.- El Titular del Instituto Poblano de la Vivienda en su carácter de Secretario Técnico;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2012)</small>
+
+III.- El Subsecretario de la Secretaría de Desarrollo Social competente, en su carácter de Secretario Técnico;
 
 IV.- Los Vocales siguientes:
 
@@ -549,23 +559,29 @@ VII.- Las demás que le asigne la presente Ley, el Reglamento Interno y las dem�
 
 El Gobierno del Estado concederá a través de las instancias competentes los beneficios, estímulos y facilidades que se consignan en esta Ley, así como las contenidas en otras disposiciones legales y administrativas vigentes.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2012)</small>
+
 ###### Artículo 40.
 
-La Secretaría, los Ayuntamientos y el Instituto, de acuerdo a sus atribuciones gozarán de la exención de impuestos, derechos y aprovechamientos estatales y municipales que por adquisición, enajenación, diseño, construcción, valuación, escrituración y toda aquella actividad relacionada con los programas de vivienda, se encuentre gravada en alguna disposición legal estatal y/o municipal.
+La Secretaría y los Ayuntamientos, de acuerdo a sus atribuciones gozarán de la exención de impuestos, derechos y aprovechamientos estatales y municipales que por adquisición, enajenación, diseño, construcción, valuación, escrituración y toda aquella actividad relacionada con los programas de vivienda, se encuentre gravada en alguna disposición legal estatal y/o municipal.
 
 ###### Artículo 41.
 
 Los programas de construcción de viviendas de interés social, popular y ecológica para la venta, desarrollados por el sector privado podrán gozar de los beneficios, exenciones y facilidades administrativas que emita el Gobierno del Estado a través de sus dependencias y entidades, previa autorización de la autoridad competente.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2012)</small>
+
 ###### Artículo 42.
 
-La Secretaría y el Instituto en el Reglamento de esta Ley, así como en otras disposiciones administrativas que se dicten, establecerán y aplicarán medidas concretas de apoyo y fomento a la producción y a los desarrolladores de vivienda, así como los Ayuntamientos en la normatividad de su competencia.
+La Secretaría en el Reglamento de esta Ley, así como en otras disposiciones administrativas que se dicten, establecerá y aplicará medidas concretas de apoyo y fomento a la producción y a los desarrolladores de vivienda, así como los Ayuntamientos en la normatividad de su competencia.
 
-Además la Secretaría, los Ayuntamientos y el Instituto, promoverán la regularización de la tenencia de la tierra, de la vivienda y de los conjuntos o unidades habitacionales.
+Además la Secretaría y los Ayuntamientos, promoverán la regularización de la tenencia de la tierra, de la vivienda y de los conjuntos o unidades habitacionales.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2012)</small>
 
 ###### Artículo 43.
 
-El desarrollo de los programas de vivienda de la Secretaría, los Ayuntamientos y el Instituto que comprendan inmuebles en los que se constituya el régimen de propiedad en condominio, se ajustará a la legislación aplicable en el Estado.
+El desarrollo de los programas de vivienda de la Secretaría y los Ayuntamientos que comprendan inmuebles en los que se constituya el régimen de propiedad en condominio, se ajustara a la legislación aplicable en el Estado.
 
 ###### Artículo 44.
 
@@ -619,13 +635,17 @@ II.- No haber sido beneficiario de un crédito federal, estatal o municipal ante
 
 III.- Presentar declaración bajo protesta, en la que manifieste que habitará la vivienda y que su uso será exclusivamente habitacional, sujetándose a las sanciones correspondientes en caso de incumplimiento; y
 
-IV.- Comprobar el nivel socioeconómico o de ingresos requerido por el programa de vivienda de que se trate; estando obligado a permitir por parte de las autoridades del Instituto, la verificación de la información que proporcione.
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2012)</small>
+
+IV.- Comprobar el nivel socioeconómico o de ingresos requerido por el programa de vivienda de que se trate; estando obligado a permitir por parte de las autoridades de la Secretaría, la verificación de la información que proporcione.
 
 En caso de que el solicitante no pueda demostrar plenamente sus ingresos, la determinación de comprobación de los mismos se ajustará a lo que establezca la normatividad aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2012)</small>
+
 ###### Artículo 51.
 
-El Instituto procederá a revocar o a rescindir la asignación de la vivienda, además de la cancelación en el padrón de beneficiarios de los programas de vivienda y a recuperar la posesión de la vivienda en los siguientes casos:
+La Secretaría procederá a revocar o a rescindir la asignación de la vivienda, además de la cancelación en el padrón de beneficiarios de los programas de vivienda y a recuperar la posesión de la vivienda en los siguientes casos:
 
 a) Cuando una vez asignada la vivienda, el Beneficiario no la habite dentro de un plazo de 15 días naturales;
 
@@ -637,15 +657,21 @@ d) Cuando el beneficiario no continúe la edificación de la vivienda; y
 
 e) Las demás que señale la normatividad aplicable.
 
-### CAPÍTULO XI. DEL REGISTRO DE INFORMACIÓN ESTATAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JUNIO DE 2012)</small>
+
+### CAPÍTULO XI. DEL REGISTRO DE INFORMACIÓN ESTATAL DE VIVIENDA
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2012)</small>
 
 ###### Artículo 52.
 
-Se crea el Registro de Información Estatal de Vivienda que tendrá por objeto integrar, generar y difundir la información que se requiera para la adecuada planeación, instrumentación y seguimiento de la Política Estatal de Vivienda, así como para el fortalecimiento de la oferta articulada de vivienda en el Estado y que estará a cargo y será administrado por el Instituto.
+Se crea el Registro de Información Estatal de Vivienda que tendrá por objeto integrar, generar y difundir la información que se requiera para la adecuada planeación, instrumentación y seguimiento de la Política Estatal de Vivienda, así como para el fortalecimiento de la oferta articulada de vivienda en el Estado y que estará a cargo y será administrado por la Secretaría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2012)</small>
 
 ###### Artículo 53.
 
-La Secretaría y el Instituto establecerán las bases y mecanismos de coordinación necesarios con la Comisión Nacional de Vivienda y el Instituto Nacional de Estadística y Geografía y demás autoridades relativas, para integrar y actualizar periódicamente el Sistema Nacional de Información e Indicadores de Vivienda.
+La Secretaría establecerá las bases y mecanismos de coordinación necesarios con la Comisión Nacional de Vivienda y el Instituto Nacional de Estadística y Geografía y demás autoridades relativas, para integrar y actualizar periódicamente el Sistema Nacional de Información e Indicadores de Vivienda.
 
 Las bases y mecanismos de coordinación referidas en el párrafo anterior, tendrán como propósito compartir la información generada en el levantamiento de censos nacionales, encuestas o conteos de vivienda y suelo, económicas y sociodemográficas y de la cuenta satélite de vivienda en México, derivadas del sistema de cuentas nacionales y de otros conteos.
 
@@ -689,7 +715,9 @@ Los instrumentos y apoyos en materia de financiamiento para la ejecución de las
 
 El Estado y los Municipios fomentarán esquemas financieros que combinen recursos provenientes del crédito, ahorro, transferencias, subsidios y otras aportaciones para generar opciones adecuadas a las necesidades regionales y de los distintos sectores de la población de vivienda y suelo, preferentemente de los que se encuentren en situación de pobreza, marginación y vulnerabilidad social.
 
-La Secretaría, el Instituto y la Dependencia o Entidad de la Administración Pública Municipal competentes en la materia, incorporarán en sus Programas Operativos Anuales y en sus respectivos Presupuestos de Egresos, los esquemas y estrategias de financiamiento de las acciones y procesos habitacionales para el ejercicio fiscal que corresponda.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2012)</small>
+
+La Secretaría y la Dependencia o Entidad de la Administración Pública Municipal competentes en la materia, incorporarán en sus Programas Operativos Anuales y en sus respectivos Presupuestos de Egresos, los esquemas y estrategias de financiamiento de las acciones y procesos habitacionales para el ejercicio fiscal que corresponda.
 
 ###### Artículo 61.
 
@@ -717,7 +745,9 @@ Los Programas de Vivienda Estatal y Municipales se financiarán de acuerdo a las
 
 I.- Crédito o préstamo con garantía hipotecaria, otorgado por el sistema bancario;
 
-II.- Inversión directa del Gobierno del Estado, cuya aplicación se hará a través del Instituto;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2012)</small>
+
+II.- Inversión directa del Gobierno del Estado, cuya aplicación se hará a través de la Secretaría;
 
 III.- Inversión de otros organismos públicos federales de vivienda, que operan en el Estado;
 
@@ -727,9 +757,11 @@ V.- Atender políticas de subsidio federal y estatal cuando las hubiera; y
 
 VI.- Cualquier otro fondo destinado a la consecución del objeto de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2012)</small>
+
 ###### Artículo 65.
 
-Los recursos del Instituto, a efecto de cumplir con su finalidad, se destinarán a realizar las siguientes acciones:
+Los recursos que en materia de vivienda le sean asignados a la Secretaría, se destinarán a realizar las siguientes acciones:
 
 I.- Efectuar estudios y proyectos relativos a la vivienda;
 
@@ -759,23 +791,31 @@ Los créditos de vivienda de interés social, que se concedan a través de los p
 
 Por concepto de servicio de amortizaciones e intereses, ningún crédito de vivienda otorgado por los institutos de vivienda debe superar el treinta por ciento de los ingresos nominales mensuales del beneficiario.
 
-Si por efecto de la situación económica del País, el pago del crédito llegara a representar más del treinta por ciento de los ingresos nominales mensuales del beneficiario, el deudor tendrá derecho a acogerse a las soluciones que el Instituto establezca, con el objeto de no superar esta proporción. Esas soluciones se diseñarán por la autoridad competente.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2012)</small>
+
+Si por efecto de la situación económica del País, el pago del crédito llegara a representar más del treinta por ciento de los ingresos nominales mensuales del beneficiario, el deudor tendrá derecho a acogerse a las soluciones que la Secretaría establezca, con el objeto de no superar esta proporción. Esas soluciones se diseñaran por la autoridad competente.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2012)</small>
 
 ###### Artículo 68.
 
-En el caso de la extensión del plazo de recuperación, como solución otorgada por el Instituto de conformidad con el párrafo segundo del artículo que antecede, éste se documentará mediante acta que se inscribirá en el Registro Público de la Propiedad, sin cargo alguno para el acreditado, dándole nueva fecha a la inscripción para el cómputo de sus plazos.
+En el caso de la extensión del plazo de recuperación, como solución otorgada por la Secretaría de conformidad con el párrafo segundo del artículo que antecede, éste se documentará mediante acta que se inscribirá en el Registro Público de la Propiedad, sin cargo alguno para el acreditado, dándole nueva fecha a la inscripción para el cómputo de sus plazos.
 
 ###### Artículo 69.
 
 En los contratos de crédito otorgados por el Gobierno Estatal y Municipales, deberán contemplar seguros de vida, de desempleo, de incapacidad total y permanente y de daños a la vivienda.
 
-En caso de que el solicitante no pueda demostrar plenamente sus ingresos, la determinación de comprobación de los mismos se ajustará a lo que establezcan las reglas de operación del Instituto.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2012)</small>
+
+En caso de que el solicitante no pueda demostrar plenamente sus ingresos, la determinación de comprobación de los mismos se ajustará a lo que establezcan las reglas de operación de la Secretaría.
 
 ### CAPÍTULO XIII. DE LA DENUNCIA POPULAR
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2012)</small>
+
 ###### Artículo 70.
 
-Toda persona podrá denunciar de manera verbal o por escrito ante la Secretaría o el Instituto cualquier hecho, acto u omisión que produzca o pueda producir daños al ejercicio de los derechos establecidos en esta Ley o contravengan sus disposiciones y de los demás ordenamientos que regulen en la materia relacionada con la vivienda.
+Toda persona podrá denunciar de manera verbal o por escrito ante la Secretaría cualquier hecho, acto u omisión que produzca o pueda producir daños al ejercicio de los derechos establecidos en esta Ley o contravengan sus disposiciones y de los demás ordenamientos que regulen en la materia relacionada con la vivienda.
 
 ###### Artículo 71.
 
@@ -789,11 +829,17 @@ III.- Los datos que permitan identificar al particular o presunta autoridad infr
 
 IV.- Las pruebas que en su caso ofrezca el denunciante.
 
-Una vez recibida la denuncia, la Secretaría, el Instituto o la Contraloría Municipal, según corresponda, procederán a realizar la verificación y visita, y en su caso, imponer las medidas de seguridad o las acciones procedentes conforme a esta Ley y en un término no mayor a quince días hábiles, harán del conocimiento del denunciante, el trámite que se haya dado a la denuncia.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2012)</small>
 
-Cuando por incumplimiento a las disposiciones de esta Ley, se hubieren ocasionado daños y perjuicios al denunciante, éste podrá solicitar a la Secretaría o al Instituto, la formulación de un dictamen técnico, el cual tendrá valor de prueba.
+Una vez recibida la denuncia, la Secretaría o la Contraloría Municipal, según corresponda, procederán a realizar la verificación y visita, y en su caso, imponer las medidas de seguridad o las acciones procedentes conforme a esta Ley y en un término no mayor a quince días hábiles, harán del conocimiento del denunciante, el trámite que se haya dado a la denuncia.
 
-Este derecho se ejercerá ante la Secretaría o el Instituto, quienes oirán previamente a los interesados y en su caso a los afectados, resolviendo lo conducente.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2012)</small>
+
+Cuando por incumplimiento a las disposiciones de esta Ley, se hubieren ocasionado daños y perjuicios al denunciante, éste podrá solicitar a la Secretaría la formulación de un dictamen técnico, el cual tendrá valor de prueba.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2012)</small>
+
+Este derecho se ejercerá ante la Secretaría, quien oirá previamente a los interesados y en su caso a los afectados, resolviendo lo conducente.
 
 ### CAPÍTULO XIV. DE LAS RESPONSABILIDADES
 
@@ -801,9 +847,11 @@ Este derecho se ejercerá ante la Secretaría o el Instituto, quienes oirán pre
 
 Los servidores públicos que intervengan en los programas de vivienda que utilicen indebidamente su posición para beneficiarse de los procesos de producción y adquisición de vivienda, construcción de obras de infraestructura o en operaciones inmobiliarias, serán sancionados conforme a lo dispuesto en la Ley de Responsabilidades de Servidores Públicos del Estado de Puebla y demás disposiciones relativas.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2012)</small>
+
 ###### Artículo 73.
 
-El Instituto informará de los procedimientos y requisitos necesarios para producir y adquirir vivienda, mediante la difusión de sus programas y reglas de operación a todos los promotores y productores sociales y privados, y al público en general, de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Estado.
+La Secretaría informará de los procedimientos y requisitos necesarios para producir y adquirir vivienda, mediante la difusión de sus programas y reglas de operación a todos los promotores y productores sociales y privados, y al público en general; de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Estado.
 
 ### CAPÍTULO XV. DEL RECURSO DE REVOCACIÓN
 
@@ -811,9 +859,11 @@ El Instituto informará de los procedimientos y requisitos necesarios para produ
 
 Procede el recurso de revocación contra la resolución definitiva dictada en el procedimiento administrativo instaurado con motivo de la aplicación de esta Ley, su Reglamento y disposiciones que de ella emanen.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2012)</small>
+
 ###### Artículo 75.
 
-Para los efectos del presente Capítulo, la Secretaría y el Instituto en el ámbito de sus respectivas competencias, deberán conocer y resolver el recurso.
+Para los efectos del presente Capítulo, la Secretaría en el ámbito de su competencia, deberá conocer y resolver el recurso.
 
 ###### Artículo 76.
 
@@ -857,7 +907,9 @@ I.- Lo solicite expresamente el recurrente;
 
 II.- No se siga perjuicio al interés social o se contravengan disposiciones de orden público; y
 
-III.- En los casos en que resulte procedente la suspensión del acto que se reclama pero con ella se puedan ocasionar daños o perjuicios a terceros, la misma surtirá sus efectos si el recurrente otorga garantía bastante a favor del Gobierno del Estado a través de la Secretaría de Finanzas y Administración, que corresponda para reparar el daño e indemnizar los perjuicios que con ella se causaren si no obtiene resolución favorable, contando la autoridad receptora de los recursos con facultad discrecional para fijar el monto de la garantía a otorgar.
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2012)</small>
+
+III.- En los casos en que resulte procedente la suspensión del acto que se reclama pero con ella se puedan ocasionar daños o perjuicios a terceros, la misma surtirá sus efectos si el recurrente otorga garantía bastante a favor del Gobierno del Estado a través de la Secretaría de Finanzas, para reparar el daño e indemnizar los perjuicios que con ella se causaren si no obtiene resolución favorable, contando la autoridad receptora de los recursos con facultad discrecional para fijar el monto de la garantía a otorgar.
 
 La autoridad deberá acordar, en su caso, la suspensión o la denegación de la suspensión dentro de los tres días hábiles siguientes a su interposición.
 
@@ -924,3 +976,11 @@ Los procedimientos, gestiones o asuntos análogos que se tramiten ante el Instit
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dado en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los doce días del mes de marzo de dos mil nueve. Diputado Presidente.- JOSÉ OTHÓN BAlLLERES CARRlLES.- Rúbrica.- Diputada Vicepresidenta.- CARMEN ERIKA SUCK MENDIETA.- Rúbrica- Diputada Secretaria.- LUANA ARMIDA AMADOR VALLEJO.- Rúbrica.- Diputada Secretaria.- lRMA RAMOS GALlNDO.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los trece días del mes de marzo de dos mil nueve.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO MARIO ALBERTO MONTERO SERRANO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE JUNIO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
