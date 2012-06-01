@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2012-05-15"
+last_updated: "2012-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE JUNIO DE 2012.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -3703,11 +3703,15 @@ VI. Cuando el que la ejerza hubiera cometido contra la persona o bienes de los h
 
 > <small>(REFORMADA, G.O. 24 DE JUNIO DE 2011)</small>
 
-VII. Cuando el que la ejerza sea condenado dos o más veces por delitos graves; y
+VII. Cuando el que la ejerza sea condenado dos o más veces por delitos graves; y (sic)
 
-> <small>(ADICIONADA, G.O. 24 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, G.O. 1 DE JUNIO DE 2012)</small>
 
-VIII. Por el incumplimiento injustificado de las determinaciones judiciales que se hayan ordenado al que ejerza la patria potestad, tendientes a corregir actos de violencia familiar, cuando estos actos hayan afectado a sus descendientes.
+VIII. Por el incumplimiento injustificado de las determinaciones judiciales que se hayan ordenado al que ejerza la patria potestad, tendientes a corregir actos de violencia familiar, cuando estos actos hayan afectado a sus descendientes; y
+
+> <small>(ADICIONADA, G.O. 1 DE JUNIO DE 2012)</small>
+
+IX. Cuando el menor haya sido sustraído o retenido ilícitamente, por quien ejerza ésta.
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -3745,9 +3749,9 @@ IV.- Por sentencia condenatoria que imponga como pena esta suspensión;
 
 V.- Cuando exista la posibilidad de poner en riesgo la salud, el estado emocional o incluso su vida del o de los descendientes menores por parte de quien conserva la custodia legal, o de pariente por consaguinidad (sic) o afinidad hasta por el cuarto grado;
 
-> <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, G.O. 1 DE JUNIO DE 2012)</small>
 
-VI.- Por no permitir que se lleven a cabo las convivencias decretadas por autoridad competente o en convenio aprobado judicialmente;
+VI.- Por no permitir que se lleven a cabo las convivencias decretadas por autoridad competente o en convenio aprobado judicialmente; salvo lo dispuesto por la fracción IX del artículo 444 del presente Código.
 
 > <small>(ADICIONADA, G.O. 4 DE ENERO DE 2008)</small>
 
@@ -14394,3 +14398,9 @@ G.O. 15 DE MAYO DE 2012.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación
 
 SEGUNDO.- El presente decreto entrara en vigor al día siguiente de su Publicación en la Gaceta Oficial del Distrito Federal
+
+G.O. 1 DE JUNIO DE 2012.
+
+Primero.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
