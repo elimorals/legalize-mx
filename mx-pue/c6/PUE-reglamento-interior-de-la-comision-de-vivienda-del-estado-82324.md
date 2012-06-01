@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-comision-de-vivienda-del-estado-82324
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-27"
-last_updated: "2011-08-15"
+last_updated: "2012-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA COMISION DE VIVIENDA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE SE EXTINGUE EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "COMISIÓN DE VIVIENDA DEL ESTADO DE PUEBLA" PUBLICADO EN LA SEGUNDA SECCION DEL P.O. 1 DE JUNIO DE 2012.</small>
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE AGOSTO DE 2011.</small>
+TEXTO ORIGINAL.
 
 Reglamento publicado en la Octava Sección del Periódico Oficial del Estado de Puebla, el lunes 27 de junio de 2011.
 
@@ -446,3 +446,71 @@ TERCERO.- Las aprobaciones de la Junta de Gobierno que prevé el artículo déci
 CUARTO.- Quedan sin efecto todas aquellas disposiciones que contravengan lo dispuesto en el presente Reglamento.
 
 Dado en la sede del Poder Ejecutivo del Estado, en la Heroica Puebla de Zaragoza, a los veinticuatro días del mes de junio de dos mil once.- "Sufragio Efectivo. No Reelección".- El Gobernador Constitucional del Estado Libre y Soberano de Puebla.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.- El Comisionado de Vivienda del Estado de Puebla.- C. FELIPE DE JESÚS MOJARRO ARROYO.- Rúbrica.
+
+P.O. 1 DE JUNIO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Decreto del Honorable Congreso del Estado, por el cual se creó el Organismo Público Descentralizado denominado Comisión de Vivienda del Estado de Puebla, publicado en el Periódico Oficial del Estado el quince de febrero de mil novecientos noventa y uno, así como sus reformas y adiciones.
+
+###### ARTÍCULO TERCERO.
+
+Serán transferidos a la Secretaría de Desarrollo Social, los recursos humanos de la Comisión de Vivienda del Estado de Puebla que sean necesarios; las Secretarías de Finanzas y de Administración, en el ámbito de sus respectivas competencias, deberán realizar las acciones correspondientes para respaldar dicho movimiento.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos materiales propiedad de la Comisión de Vivienda del Estado de Puebla, a la entrada en vigor del presente Decreto, serán transferidos al Gobierno del Estado, con destino a la Secretaria de Desarrollo Social, debiendo intervenir las Secretarías de Finanzas, de Administración y de la Contraloría en el ámbito de sus atribuciones.
+
+###### ARTÍCULO QUINTO.
+
+Los recursos financieros con los que cuente la Comisión de Vivienda del Estado de Puebla a la entrada en vigor del presente Decreto, cualquiera que sea su origen, serán transferidos al Gobierno del Estado con destino a la Secretaría de Desarrollo Social, debiendo intervenir las Secretarías de Finanzas, de Administración y de la Contraloría en el ámbito de sus atribuciones.
+
+###### ARTÍCULO SEXTO.
+
+La Secretaría de Desarrollo Social, a través de la persona que designe, contará con la representación jurídica que se requiera para realizar los trámites correspondientes para la cancelación del Registro Federal de Contribuyentes ante la Secretaría de Hacienda y Crédito Público y demás actos jurídicos que en materia administrativa se presenten.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los bienes inmuebles propiedad de la Comisión de Vivienda que no estén afectados por alguna carga legal, serán transferidos al Gobierno del Estado.
+
+###### ARTÍCULO OCTAVO.
+
+Respecto de los bienes inmuebles propiedad de la Comisión de Vivienda del Estado no considerados en el artículo anterior, la Secretaría de Desarrollo Social y la Secretaría de Finanzas, realizarán las acciones que permitan regularizar lotes o construcciones cuya gestión haya sido iniciada por el Instituto Poblano de la Vivienda Popular, el Instituto Poblano de la Vivienda o por la Comisión de Vivienda del Estado de Puebla y que por cualquier circunstancia no haya sido concluida su escrituración, además podrán establecer políticas, programas de regularización, otorgamiento de subsidios, recuperación de cartera vencida y mecanismos de pago. que permitan dotarles de certeza jurídica.
+
+###### ARTÍCULO NOVENO.
+
+Los juicios, procesos y procedimientos en general en que sea parte la Comisión de Vivienda del Estado de Puebla, a partir de la fecha de entrada en vigor del presente Decreto, serán atendidos hasta su total resolución por la Secretaría de Desarrollo Social, salvo aquellos que se encuentren sujetos al objeto descrito en el artículo anterior.
+
+###### ARTÍCULO DÉCIMO.
+
+Los derechos, obligaciones, contratos, convenios y demás instrumentos jurídicos a favor o en los que se haga referencia a la Comisión de Vivienda del Estado de Puebla, se entenderán subrogados y concedidas las atribuciones a la Secretaría de Desarrollo Social.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Toda la documentación e información que corresponda a la Comisión de Vivienda del Estado de Puebla, quedará bajo la custodia, conservación y administración de la Secretaría de Desarrollo Social.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+La Secretaría de Desarrollo Social en términos de la normatividad vigente, se coordinará con las Secretarias de Finanzas, de Administración y de la Contra lo ría, a efecto de llevar a cabo las acciones que deriven de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los servidores públicos de la Comisión de Vivienda del Estado de Puebla, o en su caso quienes hayan concluido su empleo, cargo o comisión y que por cualquier motivo hubieren tenido bajo su responsabilidad la captación, recaudación, manejo, administración, control, resguardo, custodia, ejercicio o aplicación de recursos públicos, deberán atender las instrucciones, requerimientos, resoluciones y solicitudes de los órganos de control y fiscalización.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Dentro de los noventa días naturales posteriores a la publicación del presente Decreto, el responsable de la Comisión de Vivienda del Estado, llevará a cabo los actos de administración o de dominio necesarios para dar cumplimiento al mismo.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+El responsable de la Comisión de Vivienda del Estado de Puebla, dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, deberá realizar su respectiva entrega-recepción pormenorizada en términos de las disposiciones legales aplicables a la Secretaría de Desarrollo Social, debiendo en todo momento cuidar que la prestación de los servicios continúe de manera ininterrumpida.
+
+El servidor público designado para recibir, contará con un plazo de treinta días naturales, a partir de la firma de las actas correspondientes, para formular las observaciones que correspondan.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
