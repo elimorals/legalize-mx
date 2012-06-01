@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2012-04-03"
+last_updated: "2012-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE JUNIO DE 2012.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -2948,6 +2948,8 @@ Al servidor público que sin justificación abandone su empleo, cargo o comisió
 
 ### CAPÍTULO V. ULTRAJES A LA AUTORIDAD
 
+> <small>(REFORMADO, G.O. 1 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 262.
 
 Se le impondrán de uno a seis años de prisión y de cien a quinientos días multa al que en ejercicio de sus funciones o con motivo de ellas:
@@ -3190,7 +3192,7 @@ III. Se trate de obras de construcción que requiriendo dictamen de impacto urba
 
 ###### ARTÍCULO 287.
 
-Al que ultraje a una autoridad en el ejercicio de sus funciones o con motivo de ellas, se le impondrá de noventa a ciento ochenta días de semilibertad.
+Al que ultraje a una autoridad en el ejercicio de sus funciones o con motivo de ellas, se le impondrán de seis meses a dos años de prisión y multa de veinte a cien días multa.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 4 DE JUNIO DE 2004)</small>
 
@@ -4673,3 +4675,9 @@ G.O. 3 DE ABRIL DE 2012.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación.
+
+G.O. 1 DE JUNIO DE 2012.
+
+Primero.- El presente decreto entrará en vigor el día siguiente a su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal y para mayor difusión en el Diario Oficial de la Federación.
