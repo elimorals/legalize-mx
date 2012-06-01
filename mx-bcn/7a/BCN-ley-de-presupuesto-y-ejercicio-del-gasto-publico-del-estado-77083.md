@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-presupuesto-y-ejercicio-del-gasto-publico-del-estado-770
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-22"
-last_updated: "2010-10-22"
+last_updated: "2012-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PUBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PUBLICO DEL ESTADO DE BAJA CALIFORNIA
+LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2012.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 22 de octubre de 2010.
 
@@ -413,9 +413,15 @@ II. El 15 de enero del ejercicio al que corresponda, los Presupuestos de Egresos
 
 Los sujetos de esta Ley deberán cumplir con el mismo procedimiento de publicación del cierre presupuestal a más tardar el 30 de abril del ejercicio posterior al que corresponda el cierre presupuestal, el cual deberá contener el presupuesto inicial autorizado, las modificaciones presupuestales, el presupuesto modificado autorizado y el presupuesto ejercido.
 
-Cuando al primero de enero del ejercicio al que corresponda el Presupuesto de Egresos de que se trate no haya sido aprobado, se ejercerá lo previsto en el Proyecto de Presupuesto de Egresos presentado en los términos de esta Ley, ante la Autoridad de que se trate, hasta en tanto sea aprobado y publicado el Presupuesto de Egresos del ejercicio correspondiente.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 1 DE JUNIO DE 2012)</small>
 
-El Presupuesto de Egresos aprobado bajo las condiciones señaladas en el párrafo que antecede, deberá considerar los recursos ejercidos en términos del Proyecto de Presupuesto de Egresos vigente hasta su aprobación.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 1 DE JUNIO DE 2012)</small>
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2012)</small>
+
+ARTÍCULO 39 BIS.- Si al primero de enero del ejercicio al que corresponda el Proyecto de Presupuesto de Egresos presentado en los términos de esta Ley ante la Autoridad de que se trate no haya sido aprobada, en tanto sean aprobados, continuará rigiendo el Presupuesto que hubiere estado vigente el año anterior.
+
+El Presupuesto de Egresos aprobado bajo las condiciones señaladas en el párrafo que antecede, deberá considerar los recursos ejercidos en términos del Presupuesto de Egresos vigente hasta su aprobación.
 
 ###### ARTÍCULO 40.
 
@@ -845,9 +851,9 @@ b. La Conciliación de la disponibilidad en caja, bancos e inversiones al inicio
 
 c. El Catálogo de Cuentas Contable y de partidas presupuestales;
 
-d. EI archivo de la balanza de comprobación de cierre del ejercicio; y, (sic)
+d. El archivo de la balanza de comprobación de cierre del ejercicio; y, (sic)
 
-e. EI archivo de pólizas contables; y,
+e. El archivo de pólizas contables; y,
 
 f. Tratándose del Ejecutivo del Estado y los Municipios, el libramiento u orden de pago, del total de las erogaciones efectuadas en cada mes que integra el ejercicio fiscal, suscrito por los funcionarios responsables del manejo de fondos.
 
@@ -943,7 +949,7 @@ VIII.- Un representante de cada uno de los Municipios del Estado de Baja Califor
 
 IX.- Un representante del Órgano de Fiscalización Superior del Estado de Baja California; y,
 
-X.- EI Director de Control y Evaluación Gubernamental del Gobierno del Estado de Baja California.
+X.- El Director de Control y Evaluación Gubernamental del Gobierno del Estado de Baja California.
 
 El Consejo podrá nombrar a un Prosecretario a efecto de que auxilie al Secretario Técnico en sus funciones.
 
@@ -1052,3 +1058,9 @@ GOBERNADOR DEL ESTADO.
 CUAUHTÉMOC CARDONA BENAVIDES.
 
 SECRETARIO GENERAL DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE JUNIO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
