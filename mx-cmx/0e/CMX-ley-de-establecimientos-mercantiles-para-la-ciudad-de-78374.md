@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-establecimientos-mercantiles-para-la-ciudad-de-78374"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-20"
-last_updated: "2012-02-14"
+last_updated: "2012-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78374&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-01-14"
 
 LEY DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE JUNIO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 20 de enero de 2011.
 
@@ -936,9 +936,11 @@ V. Cambio de giro mercantil; y
 
 VI. Cambio de nombre o denominación comercial.
 
+> <small>(REFORMADO, G.O. 1 DE JUNIO DE 2012)</small>
+
 ###### Artículo 41.
 
-Los titulares de los centros de educación de carácter privado están obligados a evitar la aglomeración de personas o vehículos en las entradas, salidas y en las vialidades por las que se tenga acceso a dichos centros que pongan en riesgo la seguridad de los usuarios, peatones y transeúntes o que dificulten el tránsito de personas o vehículos, a efecto de contribuir en la reducción de la emisión de contaminantes atmosféricos, a cuyo efecto contarán con un Programa de Ordenamiento Vial y en su caso de Transporte Escolar, acorde a las necesidades específicas de cada centro, atendiendo a su ubicación, dimensión y población escolar.
+Los titulares de los centros de educación de carácter privado están obligados a evitar la aglomeración de personas o vehículos en las entradas, salidas y en las vialidades por las que se tenga acceso a dichos centros que pongan en riesgo la seguridad de los usuarios, peatones y transeúntes o que dificulten el tránsito de personas o vehículos, a efecto de contribuir en la reducción de la emisión de contaminantes atmosféricos, a cuyo efecto contarán con un Programa de Ordenamiento Vial y en su caso de Transporte Escolar, acorde a las necesidades específicas de cada centro, atendiendo a su ubicación, dimensión y población escolar. También deberá difundir entre los padres o tutores una vez al año el Programa de Ordenamiento Vial, en el que deberá señalar beneficios de la reducción de la emisión de contaminantes atmosféricos y sus consecuencias.
 
 ###### Artículo 42.
 
@@ -1449,3 +1451,9 @@ Primero.- El presente decreto entrará en vigor al día siguiente de su publicac
 Segundo.- De conformidad con lo señalado en artículo 8 Bis de esta Ley, el Titular de la Secretaría de Gobierno del Distrito Federal, en un plazo no mayor a treinta días naturales convocará a los integrantes del Consejo de Evaluación de Riesgos, para que establezcan los lineamientos, mecanismos de funcionamiento y de operación del Consejo de Evaluación de Riesgos, mismos que serán publicados en la Gaceta Oficial del Distrito Federal, dentro de los cinco primeros días hábiles de su aprobación.
 
 Tercero.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+G.O. 1 DE JUNIO DE 2012.
+
+PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal, para su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
