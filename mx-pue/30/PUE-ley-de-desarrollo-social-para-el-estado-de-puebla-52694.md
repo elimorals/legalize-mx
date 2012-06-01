@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-desarrollo-social-para-el-estado-de-puebla-52694"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-18"
-last_updated: "2006-12-18"
+last_updated: "2012-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2012.
 
 Ley publicada en la Cuarta Sección al Periódico Oficial del Estado de Puebla, el lunes 18 de diciembre de 2006.
 
@@ -81,7 +81,7 @@ Para los efectos de esta Ley se entiende por:
 
 I.- Beneficiarios: Aquellas personas que forman parte de la población atendida por los Programas de Desarrollo Social que cumplen los requisitos de la normatividad correspondiente;
 
-II.- Instituto: Instituto de Evaluación y Medición de Marginación y Pobreza, integrado, cuando menos, por los titulares de las Secretarías de Desarrollo Social, Salud, Educación Pública, Desarrollo Rural, Finanzas y Administración y cinco académicos de Universidades que realicen estudios de investigación en materia de Desarrollo Social, en términos de la Ley de Entidades Paraestatales del Estado de Puebla;
+II.- (DEROGADA, P.O. 1 DE JUNIO DE 2012)
 
 III.- Codesos: Comités de Desarrollo Social;
 
@@ -95,7 +95,9 @@ VII.- Ley: Ley de Desarrollo Social para el Estado de Puebla;
 
 VIII.- Organizaciones: Agrupaciones civiles y sociales, en las que participan personas o grupos sociales con el propósito de realizar actividades relacionadas con el Desarrollo Social;
 
-IX.- Padrón de Beneficiarios: Relación oficial de beneficiarios que incluye a las personas habitantes del Estado, atendidas por los Programas Estatales de Desarrollo Social, así como los Federales y Municipales convenidos, cuyo perfil socioeconómico se establece en la normatividad correspondiente;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2012)</small>
+
+IX.- Padrón Único de Beneficiarios: Relación oficial de beneficiarios que incluye a las personas habitantes del Estado, atendidas por los Programas Estatales de Desarrollo Social, así como los Federales y Municipales convenidos, cuyo perfil socioeconómico se establece en la normatividad correspondiente;
 
 X.- Programas Sociales: Políticas públicas orientadas a combatir la pobreza, la marginación y la vulnerabilidad o la inequidad social;
 
@@ -229,9 +231,13 @@ El Ejecutivo Estatal y los Ayuntamientos de los Municipios, elaborarán y harán
 
 Los Ayuntamientos de los Municipios de la Entidad, podrán coadyuvar con el Ejecutivo del Estado en la planeación regional y ejecución de los Programas de Desarrollo Social que éste implemente, en los términos y condiciones que determinen en los instrumentos de coordinación que para estos efectos suscriban los mismos, conforme a la normatividad de cada Programa, con excepción de aquellos expresamente asignados legal o administrativamente, a una Dependencia, Entidad u Organismo Federal o Estatal.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2012)</small>
+
 ###### Artículo 18.
 
-El Gobierno del Estado y los Ayuntamientos de los Municipios se coordinarán para la integración y actualización del Padrón de Beneficiarios de los Programas de Desarrollo Social, con el propósito de eficientar el gasto y evitar duplicidad de acciones sociales y beneficiarios en dichos programas.
+El Gobierno del Estado y los Ayuntamientos de los Municipios se coordinarán para la integración y actualización del Padrón Único de Beneficiarios de los Programas de Desarrollo Social, con el propósito de eficientar el gasto y evitar duplicidad de acciones sociales y beneficiarios en dichos programas.
+
+Las Dependencias y Entidades de la Administración Pública Estatal y los Ayuntamientos, contribuirán a la conformación del Padrón Único de Beneficiarios al que se refiere el párrafo anterior, proporcionando la información de los padrones de beneficiarios de los programas que en materia de desarrollo social cada uno ejecute.
 
 ###### Artículo 19.
 
@@ -279,9 +285,11 @@ Los Municipios que no cuenten con la capacidad e infraestructura administrativa 
 
 ### CAPÍTULO III. DE LAS ZONAS DE ATENCIÓN PRIORITARIA
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2012)</small>
+
 ###### Artículo 27.
 
-Se consideran zonas de atención prioritaria, las áreas o regiones de carácter predominantemente rural o urbano, cuya población registre índices de pobreza y marginación, indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos para el Desarrollo Social establecidos en esta Ley. Su determinación se orientará por los criterios de resultados que para el efecto defina el Instituto, el que deberá, en todo tiempo, promover la eficacia cuantitativa y cualitativa de los ejecutores de la Política Social.
+Se consideran zonas de atención prioritaria, las áreas o regiones de carácter predominantemente rural o urbano, cuya población registre índices de pobreza y marginación, indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos para el Desarrollo Social establecidos en esta Ley. Su determinación se orientará por los criterios de resultados que para el efecto defina la Secretaría, la que deberá, en todo tiempo, promover la eficacia cuantitativa y cualitativa de los ejecutores de la Política Social.
 
 ###### Artículo 28.
 
@@ -307,9 +315,11 @@ El Ejecutivo del Estado y los Ayuntamientos de los Municipios, podrán aportar r
 
 ### CAPÍTULO V. DE LA DEFINICIÓN Y MEDICIÓN DE LA POBREZA Y MARGINACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2012)</small>
+
 ###### Artículo 33.
 
-Se creará un Instituto, que establecerá los lineamientos y criterios para la definición, identificación y medición de la pobreza y marginación con base en la información que genere el Instituto Nacional de Estadística, Geografía e Informática (INEGI), así como el Consejo Estatal de Población (COESPO); además de otros datos que estime convenientes y deberá regirse al menos sobre los siguientes indicadores:
+Para establecer los lineamientos y criterios para la definición, identificación y medición de la pobreza y marginación, la Secretaría tomará en cuenta los datos emitidos por el Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL) y la información que genere el Instituto Nacional de Estadística y Geografía (INEGI), el Consejo Nacional de Población (CONAPO), así como por el Consejo Estatal de Población (COESPO), además de otros datos que estime convenientes, debiendo contemplar al menos los siguientes indicadores:
 
 I.- Ingreso corriente per cápita;
 
@@ -321,17 +331,27 @@ IV.- Acceso a la seguridad social;
 
 V.- Calidad y espacios de la vivienda;
 
-VI.- Acceso a los servicios básicos de la vivienda; y
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2012)</small>
 
-VII.- Acceso a la alimentación.
+VI.- Acceso a los servicios básicos de la vivienda;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2012)</small>
+
+VII.- Acceso a la alimentación; y
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2012)</small>
+
+VIII.- Grado de cohesión social.
 
 ###### Artículo 34.
 
 Los lineamientos y criterios para medir la disminución de la pobreza y marginación y el Desarrollo Social, será un instrumento público que permita planear, diseñar y evaluar el impacto de la aplicación de la Política de Desarrollo Social en el Estado de Puebla y será de aplicación obligatoria para las Dependencias y Entidades públicas que participen en la ejecución de los Programas de Desarrollo Social.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2012)</small>
+
 ###### Artículo 35.
 
-Los diagnósticos y resultados de los estudios del Instituto, que se lleven a cabo en cada Municipio, serán publicados al menos en el Periódico Oficial del Estado y hechos del conocimiento de la Secretaría de manera anual, a más tardar la última semana del mes de septiembre, a efecto de que sean tomados en cuenta en la elaboración del Presupuesto de Egresos, con la finalidad de instrumentar políticas sociales con nuevos conceptos de sustentabilidad y equidad que integren el desarrollo humano y por consiguiente el Desarrollo Social, disminuyendo con ello la pobreza y marginación en el Estado de Puebla.
+Los diagnósticos y resultados de los estudios de la Secretaría, que se lleven a cabo en cada Municipio, serán publicados al menos en el Periódico Oficial del Estado de manera anual, a más tardar la última semana del mes de septiembre, a efecto de que sean tomados en cuenta en la elaboración del Presupuesto de Egresos, con la finalidad de instrumentar políticas sociales con nuevos conceptos de sustentabilidad y equidad que integren el desarrollo humano y por consiguiente el Desarrollo Social, disminuyendo con ello la pobreza y marginación en el Estado de Puebla.
 
 ## TÍTULO CUARTO. DEL SISTEMA ESTATAL DE DESARROLLO SOCIAL
 
@@ -379,13 +399,19 @@ IV.- Convenir y operar acciones y programas sociales con la Federación, otras E
 
 V.- Concertar acciones con los sectores público, social y privado, en materia de Desarrollo Social;
 
-VI.- Fomentar la organización y participación de la sociedad, así como de las organizaciones civiles y privadas en los Programas de Desarrollo Social;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2012)</small>
+
+VI.- Fomentar la organización y participación de la sociedad, a través de la concertación y coordinación con las organizaciones sociales y la ciudadanía en general en la operación de los programas en materia de desarrollo social;
 
 VII.- Diseñar en el ámbito de su competencia, los criterios de ejecución anual de los programas sociales;
 
-VIII.- Promover y fomentar la participación de la sociedad, en la elaboración, ejecución y evaluación de las Políticas Públicas de Desarrollo Social;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2012)</small>
 
-IX.- Coordinarse con las Dependencias y Entidades Estatales competentes, sobre el intercambio de información en materia de Desarrollo Social;
+VIII.- Promover y fomentar la participación de la sociedad, en la elaboración, ejecución y evaluación de las Políticas Públicas de Desarrollo Social, a través de la creación de grupos de trabajo temáticos y regionales para la atención de asuntos específicos en la materia;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2012)</small>
+
+IX.- Coordinarse con las dependencias y entidades de la Administración Pública Estatal, con la Federación y los Estados, los Ayuntamientos de los Municipios, los sectores social y académico, así como con las organizaciones no gubernamentales que realicen actividades en materia de Desarrollo Social, para el intercambio de información y datos;
 
 X.- Realizar y mantener actualizado el diagnóstico y el pronóstico de los problemas relativos al Desarrollo Social;
 
@@ -393,7 +419,49 @@ XI.- Promover y fomentar políticas intermunicipales para fortalecer el Desarrol
 
 XII.- Concertar acciones Interinstitucionales para promover el Desarrollo Social mediante Institutos de Servicios Integrales Regionales; y
 
-XIII.- Las demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2012)</small>
+
+XIII.- Integrar el Padrón Único de Beneficiarios en materia de Desarrollo Social;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2012)</small>
+
+XIV.- Solicitar a las Dependencias y Entidades de la Administración Pública Estatal y a los Ayuntamientos, la información necesaria para la integración del Padrón Único de Beneficiarios, de los programas que ejecuten, y que incidan en el Desarrollo Social;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2012)</small>
+
+XV.- Emitir los lineamientos para la elaboración del Formulario Único de Identificación de Beneficiarios del Sector Social, que integrarán el Padrón Único de Beneficiarios en materia de Desarrollo Social de las Dependencias y Entidades de la Administración Pública Estatal;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2012)</small>
+
+XVI.- Promover ante las Dependencias de los tres órdenes de Gobierno, la implementación y ejecución de acciones y proyectos que coadyuven al Desarrollo Social;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2012)</small>
+
+XVII.- Coordinar, concertar y ejecutar programas especiales para la atención de la población más desprotegida, con la participación de los tres órdenes de Gobierno, del sector social y privado, así como organismos que incidan en el Desarrollo Social del Estado;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2012)</small>
+
+XVIII.- Evaluar y dar seguimiento a los resultados de programas y proyectos que implementen las instituciones públicas y privadas, así como organismos nacionales e internacionales, que incidan en el Desarrollo Social del Estado;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2012)</small>
+
+XIX.- Establecer esquemas alternativos para financiar los programas de Desarrollo Social, en los términos de la legislación y normatividad aplicable en la materia;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2012)</small>
+
+XX.- Promover el intercambio de experiencias en el diseño, formulación, ejecución y resultados de los programas sociales, con las Dependencias y Entidades de la Administración Pública Estatal, la Federación y los Estados, los Ayuntamientos de los Municipios, los sectores social, privado y académico, así como con las organizaciones no gubernamentales que realicen actividades en materia de Desarrollo Social;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2012)</small>
+
+XXI.- Concertar acciones de capacitación para servidores públicos estatales y municipales en aspectos relacionados con el Desarrollo Social, con las Dependencias y Entidades de la Administración Pública Estatal, la Federación y los Estados, los Ayuntamientos de los Municipios, los sectores social, privado y académico, que realicen actividades en materia de Desarrollo Social;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2012)</small>
+
+XXII.- Coordinarse con el Subcomité Sectorial de Desarrollo Social del Comité de Planeación para el Desarrollo del Estado de Puebla, en la evaluación y seguimiento de la política social del Estado; y
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2012)</small>
+
+XXIII.- Las demás que le atribuyan las leyes, reglamentos, decretos, convenios, acuerdos y otras disposiciones vigentes en el Estado.
 
 ###### Artículo 39.
 
@@ -421,29 +489,7 @@ X.- Las demás que les establezca la presente Ley y la legislación aplicable en
 
 ###### Artículo 40.
 
-Para efectos de esta Ley, corresponde al Instituto, las siguientes atribuciones:
-
-I.- Proponer políticas públicas de Desarrollo Social bajo los principios generados en esta Ley;
-
-II.- Proponer criterios para la planeación y ejecución de las políticas y Programas de Desarrollo Social en los ámbitos Estatal y Municipal;
-
-III.- Proponer Programas Estatales, Municipales y Regionales, así como acciones en el marco de los Planes Estatal y Municipales de Desarrollo y de las políticas públicas a que se refiere la fracción anterior;
-
-IV.- Analizar y proponer esquemas alternativos para financiar los Programas de Desarrollo Social, en los términos de la legislación y normatividad aplicable en la materia;
-
-V.- Promover el intercambio de experiencias en materia de Desarrollo Social, y en su caso, proponer y promover modificaciones ante las instancias competentes;
-
-VI.- Proponer la creación de grupos de trabajo temáticos y regionales para la atención de asuntos específicos en materia de Desarrollo Social;
-
-VII.- Sugerir las actividades que estime necesarias y convenientes para el funcionamiento adecuado del Sistema Estatal;
-
-VIII.- Proponer acciones de capacitación para servidores públicos estatales y municipales en aspectos relacionados con el Desarrollo Social;
-
-IX.- Coordinarse con el Subcomité Especial de Desarrollo Social del Comité de Planeación para el Desarrollo del Estado de Puebla, en la evaluación y seguimiento de la política social del Estado;
-
-X.- Las que establezca el Decreto de creación del propio Instituto; y
-
-XI.- Las demás que le señale esta Ley, la normatividad vigente y demás disposiciones aplicables.
+(DEROGADO, P.O. 1 DE JUNIO DE 2012)
 
 ###### Artículo 41.
 
@@ -455,9 +501,11 @@ Para la ejecución de los Programas Federales de Desarrollo Social, el Ejecutivo
 
 La coordinación entre Estado y Municipios en materia de Desarrollo Social, tendrá como propósito principal, estimular el desarrollo equilibrado e integral de las comunidades con base en una amplia participación social.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2012)</small>
+
 ###### Artículo 43.
 
-Las organizaciones civiles, instituciones académicas y demás que tengan como objeto impulsar el Desarrollo Social, podrán participar en las acciones relacionadas con la planeación, ejecución y evaluación de las políticas y acciones públicas en esta materia, mediante la participación organizada de la ciudadanía y a través de los Codesos.
+Las organizaciones civiles, instituciones académicas, así como organismos nacionales e internacionales, que tengan como objeto impulsar el Desarrollo Social, podrán participar en las acciones relacionadas con la planeación y evaluación de las políticas y acciones públicas en esta materia, mediante la participación organizada de la ciudadanía a través de los Codesos.
 
 ###### Artículo 44.
 
@@ -555,9 +603,11 @@ VIII.- Las demás inherentes al cumplimiento de su objeto social en los término
 
 ### CAPÍTULO V. DE LA EVALUACIÓN DE LA POLÍTICA ESTATAL DE DESARROLLO SOCIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2012)</small>
+
 ###### Artículo 54.
 
-El Instituto realizará una evaluación anual de la Política Estatal de Desarrollo Social y del funcionamiento del Sistema Estatal de Desarrollo Social, con el objeto de conocer el cumplimiento de los programas, metas y acciones en la materia, y proponer en su caso, las medidas conducentes.
+La Política Estatal de Desarrollo Social y el funcionamiento del Sistema Estatal de Desarrollo Social, deberán evaluarse anualmente, con el objeto de conocer el cumplimiento de los programas, metas y acciones en la materia.
 
 Los resultados de la evaluación deberán darse a conocer en el Periódico Oficial del Estado, así como en la página electrónica del Gobierno del Estado de Puebla.
 
@@ -567,9 +617,11 @@ Para la evaluación de la Política de Desarrollo Social, los Programas de Desar
 
 Las Dependencias o Entidades del Ejecutivo del Estado o de los Ayuntamientos de los Municipios ejecutores de los Programas de Desarrollo Social a evaluar, proporcionarán toda la información y las facilidades necesarias para la realización de estas actividades.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2012)</small>
+
 ###### Artículo 56.
 
-Para realizar la evaluación, el Instituto deberá tomar en consideración cuando menos los indicadores siguientes:
+Para realizar la evaluación, deberán tomarse en consideración cuando menos los indicadores siguientes:
 
 I.- Cobertura y número de beneficiarios;
 
@@ -577,11 +629,15 @@ II.- Calidad de los servicios;
 
 III.- Conocimiento de la población de los programas;
 
-IV.- Mejoras en la calidad de vida de las familias;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2012)</small>
+
+IV.- Mejoras en la calidad de vida de las familias en función del rezago social;
 
 V.- Oportunidades de acceso a los programas;
 
-VI.- Disminución de los índices de marginación; y
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2012)</small>
+
+VI.- Disminución de los índices de marginación y pobreza; y
 
 VII.- Opinión de los beneficiados.
 
@@ -640,3 +696,11 @@ TERCERO.- Las erogaciones que deriven de la aplicación de la presente Ley, esta
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los catorce días del mes de diciembre de dos mil seis.- Diputado Presidente.- MIGUEL ÁNGEL CEBALLOS LÓPEZ.- Rúbrica.- Diputada Vicepresidenta.- MARÍA DEL ROSARIO LETlCIA JASSO VALENCIA.- Rúbrica.- Diputada Secretaria.- AUGUSTA VALENTINA DÍAZ DE RIVERA HERNÁNDEZ.- Rúbrica.- Diputado Secretario.- MIGUEL CÁZARES GARCÍA.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los quince días del mes de diciembre de dos mil seis.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO JAVIER LÓPEZ ZAVALA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE JUNIO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
