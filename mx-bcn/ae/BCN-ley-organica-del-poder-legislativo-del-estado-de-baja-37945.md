@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2012-02-24"
+last_updated: "2012-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2012.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -1351,7 +1351,7 @@ ARTICULO 81 BIS.- (DEROGADO, P.O. 19 DE NOVIEMBRE DE 2004)
 
 ARTICULO 81 TER.- (DEROGADO, P.O. 19 DE NOVIEMBRE DE 2004)
 
-ARTICULO 81 QUARTER (SIC) (DEROGADO, P.O. 19 DE NOVIEMBRE DE 2004)
+ARTICULO 81 QUARTER (SIC).- (DEROGADO, P.O. 19 DE NOVIEMBRE DE 2004)
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
@@ -1899,21 +1899,31 @@ Todo dictamen se discutirá primero en lo general y después en lo particular, d
 
 I.- La discusión en lo general versará sobre lo establecido por las fracciones III a la V del Artículo 122 de la presente Ley, en lo relativo a los dictámenes; y,
 
-II.- La discusión en lo particular versará sobre los libros, títulos, capítulos, secciones, artículos, fracciones o incisos de una iniciativa de Ley o decreto o de los puntos resolutivos del dictamen que al inicio de esta discusión, se hayan reservado. El debate versará restrictivamente sobre el asunto reservado.
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2012)</small>
 
-Antes de cerrarse la discusión en lo general o en lo particular, podrán hablar tres Diputados en pro y en contra, además del Presidente o un miembro de la Comisión de dictamen legislativo correspondiente.
+II.- La discusión en lo particular versará restrictivamente sobre los libros, títulos, capítulos, secciones, artículos, fracciones o incisos de una iniciativa de Ley o decreto o de los puntos resolutivos del dictamen que al inicio de la discusión en lo general, se hayan reservado, para su debate y votación por separado, a petición de uno o más Diputados. Podrá ser objeto de modificación o adición la parte del asunto que se haya reservado o cualquier otra que se considere relacionada con la misma.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2012)</small>
+
+Para efectos de la discusión en lo general o en lo particular, podrán hacer uso de la voz hasta tres Diputados a favor y hasta tres en contra del asunto de que se trate, además del Presidente o un miembro de la Comisión de dictamen legislativo correspondiente. Hecho lo anterior, se declarará cerrado el debate.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2012)</small>
 
 ###### ARTICULO 132.
 
-Cuando un asunto fuera aprobado en lo general y no hubiera originado discusión en lo particular, se tendrá por aprobado sin necesidad de someterlo nuevamente a votación, previa declaración del Presidente del Congreso.
+Cuando se declare un asunto suficientemente discutido en lo general y no hubiera solicitado su discusión en lo particular, se someterá a votación y en caso de ser aprobado, se entenderá que lo es, en lo general y en lo particular, sin necesidad de someterlo nuevamente a votación, previa declaración del Presidente del Congreso.
 
 ###### ARTICULO 133.
 
 Si declarado un asunto suficientemente discutido en lo general y pasado a votación, no fuera aprobado, el Pleno resolverá en votación económica, si se regresa o no el asunto a la Comisión de dictamen legislativo correspondiente. Si la resolución fuese afirmativa, el dictamen se turnará a la Comisión de referencia, si fuese negativa se tendrá por desechado el asunto.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2012)</small>
+
 ###### ARTICULO 134.
 
-Cerrada la discusión en lo particular, de un asunto reservado de conformidad con la fracción II del Artículo 131 de esta Ley, el Presidente preguntará al Pleno si se procede a votar. En caso afirmativo, se procederá a ello y, en caso contrario se regresará el asunto reservado a la Comisión de dictamen legislativo correspondiente.
+Cerrada la discusión en lo particular, se procederá a la votación de manera individual y por separado de los libros, títulos, capítulos, secciones, artículos, fracciones o incisos de una iniciativa de ley o decreto o de un dictamen, sobre los cuales se hubiere solicitado reserva de conformidad con la fracción II del Artículo 131 de esta Ley; en caso de ser aprobados, se procederá a su incorporación a la parte del asunto que no se hubiera reservado, cuando ésta haya sido aprobada en lo general.
+
+En caso de no aprobarse la parte reservada conforme a las modificaciones propuestas se tendrá por desechada, y el pleno procederá a someter a votación el texto de la iniciativa o dictamen en los términos presentados para su aprobación en lo general.
 
 ###### ARTICULO 135.
 
@@ -2448,3 +2458,9 @@ Primero.- La presente reforma entrará en vigor al momento de su aprobación por
 Segundo.- Publíquese en la Gaceta del Poder Legislativo, Órgano Oficial de difusión del Congreso del Estado de Baja California.
 
 Tercero.- Remítase al Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE JUNIO DE 2012.
+
+PRIMERO.- La presente reforma entrará en vigor al momento de su aprobación por el Pleno del Congreso del Estado de Baja California.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Estado y en la Gaceta Parlamentaria del Congreso del Estado de Baja California.
