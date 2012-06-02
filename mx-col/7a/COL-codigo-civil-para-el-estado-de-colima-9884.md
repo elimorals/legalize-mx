@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2012-05-19"
+last_updated: "2012-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2012.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -2159,7 +2159,9 @@ ART. 329.- Las cuestiones relativas a la paternidad del hijo nacido después de 
 
 ART. 330.- En todos los casos en que el marido tenga derecho de contradecir que el nacido es hijo de su matrimonio, deberá deducir su acción dentro de sesenta días, contados desde el nacimiento, si está presente; desde el día en que llegó al lugar, si estuvo ausente; o desde el día en que descubrió el fraude, si se le ocultó el nacimiento.
 
-ART. 331.- Si el marido está bajo tutela por causa de demencia, imbecilidad u otro motivo que lo prive de inteligencia, este derecho puede ser ejecutado por su tutor. Si éste no lo ejercitare, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en que legalmente se declare haber cesado el impedimento.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2012)</small>
+
+ART. 331.- Si el marido está bajo tutela por presentar un tipo de discapacidad intelectual que le impida ejercer algún acto jurídico, ya sea temporal o permanente, que le impida tener capacidad legal, este derecho puede ser ejecutado por su tutor. Si éste no lo ejercitare, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en que legalmente se declare haber cesado el impedimento.
 
 ART. 332.- Cuando el marido, teniendo o no tutor, ha muerto sin recobrar la razón, los herederos pueden contradecir la paternidad en los casos en que podría hacerlo el padre.
 
@@ -2965,13 +2967,17 @@ ART. 462.- Ninguna tutela puede conferirse sin que previamente se declare, en lo
 
 ART. 463.- Los tutores y curadores no pueden ser removidos de su cargo sin que previamente hayan sido oídos y vencidos en juicio.
 
-ART. 464.- El menor de edad que fuere demente, idiota, imbécil, sordomudo, ebrio consuetudinario, o que habitualmente abuse de las drogas enervantes, estará sujeto a la tutela de menores, mientras no llegue a la mayor edad.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2012)</small>
+
+ART. 464.- El menor de edad que presente algún tipo de discapacidad, que sea ebrio consuetudinario, o que habitualmente abuse de las drogas enervantes, estará sujeto a la tutela de menores, mientras no llegue a la mayor edad.
 
 Si al cumplirse ésta continuare el impedimento, el incapaz se sujetará a nueva tutela, previo juicio de interdicción, en el cual serán oídos el tutor y el curador anteriores.
 
 ART. 465.- Los hijos menores de un incapacitado quedarán bajo la patria potestad del ascendiente que corresponda conforme a la ley, y no habiéndolo, se les proveerá de tutor.
 
-ART. 466.- El cargo de tutor del demente, idiota, imbécil, sordo-mudo, ebrio consuetudinario y de los que habitualmente abusen de las drogas enervantes, durará el tiempo que subsista la interdicción, cuando sea ejercitado por los descendientes o por los ascendientes. El cónyuge tendrá obligación de desempeñar ese cargo mientras conserve su carácter de cónyuge. Los extraños que desempeñen la tutela de que se trata tienen derecho de que se les releve de ella a los diez años de ejercerla.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2012)</small>
+
+ART. 466.- El cargo de tutor de la persona que padezca algún tipo de discapacidad que le impida ejercer algún acto jurídico, del ebrio consuetudinario, o de los que habitualmente abusen de las drogas enervantes, durará el tiempo que subsista la interdicción, cuando sea ejercitado por los descendientes o por los ascendientes. El cónyuge tendrá obligación de desempeñar ese cargo mientras conserve su carácter de cónyuge. Los extraños que desempeñen la tutela de que se trata tienen derecho de que se les releve de ella a los diez años de ejercerla.
 
 ART. 467.- La interdicción de que habla el artículo anterior no cesará sino por la muerte del incapacitado o por sentencia definitiva, que se pronunciará en juicio seguido conforme a las mismas reglas establecidas para el de interdicción.
 
@@ -3025,7 +3031,11 @@ ART. 484.- Si hubiere varios parientes del mismo grado, el juez elegirá entre e
 
 ART. 485.- La falta temporal del tutor legítimo se suplirá en los términos establecidos en los dos artículos anteriores.
 
-### CAPITULO IV. De la tutela legítima de los dementes, idiotas, imbéciles, sordo-mudos, ebrios y de los que habitualmente abusan de las drogas enervantes
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE JUNIO DE 2012)</small>
+
+### CAPITULO IV
+
+De la tutela legítima de las personas que padecen algún tipo de discapacidad, de los ebrios, y de los que habitualmente abusan de las drogas enervantes.
 
 ART. 486.- El marido es tutor legítimo y forzoso de su mujer, y ésta lo es de su marido.
 
@@ -3141,7 +3151,9 @@ VI.- El tutor que permanezca ausente por más de seis meses del lugar en que deb
 
 ART. 505.- No pueden ser tutores ni curadores del demente los que hayan sido causa de la demencia, ni los que la hayan fomentado directa o indirectamente.
 
-ART. 506.- Lo dispuesto en el artículo anterior se aplicará, en cuanto fuere posible, a la tutela de los idiotas, imbéciles, sordo-mudos, ebrios consuetudinarios y de los que abusan de las drogas enervantes.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2012)</small>
+
+ART. 506.- Lo dispuesto en el artículo anterior se aplicará en cuanto fuere posible, a la tutela de las personas que padezcan algún tipo de discapacidad que les impida ejercer algún acto jurídico, ebrios consuetudinarios, y de los que abusan de las drogas enervantes.
 
 ART. 507.- El Ministerio Público y los parientes del pupilo tienen derecho de promover la separación de los tutores que se encuentren en alguno de los casos previstos en el artículo 504.
 
@@ -11162,5 +11174,9 @@ P.O. 5 DE MAYO DE 2012.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 19 DE MAYO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 2 DE JUNIO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
