@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-estado-de-aguascalientes-para-el-84282"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2011-12-31"
-last_updated: "2012-01-30"
+last_updated: "2012-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84282&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "AGU"
 
 LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2012
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 30 DE ENERO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2012.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el sábado 31 de diciembre de 2011.
 
@@ -53,7 +51,9 @@ La Hacienda Pública del Estado percibirá durante el Ejercicio Fiscal del año 
 
 1. INGRESOS DE GESTIÓN
 
-1) IMPUESTOS $581,206,000
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+1) IMPUESTOS $612´706,000
 
 A) IMPUESTOS SOBRE LOS INGRESOS 13,107,000
 
@@ -61,9 +61,13 @@ a) Sobre Diversiones y Espectáculos Públicos 2,900,000
 
 b) Sobre Loterías Rifas Sorteos y Concursos 10,207,000
 
-B) IMPUESTOS SOBRE EL PATRIMONIO 209,337,000
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-a) Sobre Tenencia o Uso de Vehículos Automotores 5,000,000
+B) IMPUESTOS SOBRE EL PATRIMONIO 230´837,000
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+a) Sobre Tenencia o Uso de Vehículos 26´500,000
 
 b) Sobre Tenencia o Uso de Vehículos Nuevos
 
@@ -77,9 +81,13 @@ a) Sobre Prestación de Servicios de Hospedaje 6,114,000
 
 b) Sobre Adquisición de Vehículos Usados de Motor 25,417,000
 
-D) IMPUESTOS SOBRE NÓMINAS Y ASIMILABLES 302,835,000
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-a) Sobre Nóminas 302,835,000
+D) IMPUESTOS SOBRE NÓMINAS Y ASIMILABLES 312´835,000
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+a) Sobre Nóminas 312´835,000
 
 E) ACCESORIOS DE LOS IMPUESTOS 24,396,000
 
@@ -133,7 +141,9 @@ a) Recargos 150,000
 
 b) Gastos de ejecución 250,000
 
-3) PRODUCTOS DE TIPO CORRIENTE 26,110,000
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+3) PRODUCTOS DE TIPO CORRIENTE 42´762,000
 
 A) PRODUCTOS DERIVADOS DEL USO Y
 
@@ -155,17 +165,23 @@ b) Recargos 0
 
 c) Gastos de ejecución 0
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 D) OTROS PRODUCTOS QUE GENERAN
 
-INGRESOS CORRIENTES 20,287,000
+INGRESOS CORRIENTES 36´939,000
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 a) Rendimientos o Intereses de Capitales y
 
-Valores del Estado 16,870,000
+Valores del Estado 33´522,000
 
 b) Productos Diversos 3,417,000
 
-4) APROVECHAMIENTOS DE TIPO CORRIENTE 20,458,000
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+4) APROVECHAMIENTOS DE TIPO CORRIENTE 270´458,000
 
 A) MULTAS 9,435,000
 
@@ -179,13 +195,19 @@ a) Recargos 150,000
 
 b) Gastos de Ejecución 50,000
 
-E) OTROS APROVECHAMIENTOS 10,593,000
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+E) OTROS APROVECHAMIENTOS 260´593,000
 
 a) Fianzas hechas efectivas 615,000
 
-b) Saldo del Ejercicio Fiscal Anterior 9,978,000
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-TOTAL INGRESOS DE GESTIÓN 1,018,708,000
+b) Saldo del Ejercicio Fiscal Anterior 259,978,000
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+TOTAL DE INGRESOS DE GESTIÓN 1,316´860,000
 
 5) INGRESOS DE ORGANISMOS PÚBLICOS
 
@@ -321,25 +343,43 @@ para la Operación de la Isla San Marcos 650,000
 
 2. PARTICIPACIONES, APORTACIONES, TRANSFERENCIAS, ASIGNACIONES, SUBSIDIOS Y OTRAS AYUDAS
 
-1) PARTICIPACIONES Y APORTACIONES 11,375,270,000
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-A) PARTICIPACIONES 5,629,699,000
+1) PARTICIPACIONES Y APORTACIONES 11,453´392,000
 
-a) Fondo General de Participaciones 4,347,798,000
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-b) Fondo de Fomento Municipal 491,085,000
+A) PARTICIPACIONES 5,707´821,000
 
-c) Impuesto Especial Sobre Producción y Servicios 76,888,000
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-d) Impuesto Sobre Automóviles Nuevos 62,551,000
+a) Fondo General de participaciones 4,398´838,000
 
-e) Impuesto sobre Tenencia o Uso de Vehículos 4,461,000
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-f) Coordinación Fiscal Federal 152,088,000
+b) Fondo de Fomento Municipal 500´125,000
 
-g) Fondo de Fiscalización 231,193,000
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-h) Impuesto a la Gasolina y Diesel 263,635,000
+c) Impuesto Especial Sobre Producción y Servicios 69´113,000
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+d) Impuesto Sobre Automóviles Nuevos 77´724,000
+
+e) Impuesto sobre Tenencia o Uso de Vehículos 4´461,000
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+f) Coordinación Fiscal Federal 159´168,000
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+g) Fondo de Fiscalización 251´501,000
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+h) Impuesto a la Gasolina y Diesel 246´891,000
 
 B) APORTACIONES 5,745,571,000
 
@@ -382,6 +422,14 @@ h) Fondo de Aportaciones para el Fortalecimiento
 de las Entidades Federativas 252,528,000
 
 TOTAL DE INGRESOS ESTATALES 13,739,079,000
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+3. INGRESOS DERIVADOS DE FINANCIAMIENTOS
+
+1) FINANCIAMIENTO NETO 1,055´463,000
+
+a) Empréstito con la Banca Comercial o de Desarrollo 1,055´463,000
 
 ## TÍTULO SEGUNDO. DE LOS IMPUESTOS
 
@@ -32416,3 +32464,11 @@ Carlos Lozano de la Torre.
 EL JEFE DE GABINETE,
 
 Lic. Antonio Javier Aguilera García.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE JUNIO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
