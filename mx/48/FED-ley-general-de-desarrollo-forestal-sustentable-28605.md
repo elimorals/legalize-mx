@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-desarrollo-forestal-sustentable-28605"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-02-25"
-last_updated: "2012-04-23"
+last_updated: "2012-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28605&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDFS"
 
 LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación el martes 25 de febrero de 2003.
 
@@ -70,7 +70,9 @@ Son objetivos específicos de esta Ley:
 
 I. Definir los criterios de la política forestal, describiendo sus instrumentos de aplicación y evaluación;
 
-II. Regular la protección, conservación y restauración de los ecosistemas y recursos forestales, así como la ordenación y el manejo forestal;
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2012)</small>
+
+II. Regular la protección, conservación y restauración de los ecosistemas, recursos forestales y sus servicios ambientales; así como la ordenación y el manejo forestal;
 
 III. Desarrollar criterios e indicadores para el manejo forestal sustentable;
 
@@ -176,87 +178,97 @@ X. Conservación forestal: El mantenimiento de las condiciones que propician la 
 
 XI. Cuenca hidrológico-forestal: La unidad de espacio físico de planeación y desarrollo, que comprende el territorio donde se encuentran los ecosistemas forestales y donde el agua fluye por diversos cauces y converge en un cauce común, constituyendo el componente básico de la región forestal, que a su vez se divide en subcuencas y microcuencas;
 
-XII. Ecosistema Forestal: La unidad funcional básica de interacción de los recursos forestales entre sí y de éstos con el ambiente, en un espacio y tiempo determinados;
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2012)</small>
 
-XIII. Empresa Social Forestal: Organización productiva de comunidades o ejidos con áreas forestales permanentes y bajo programa de manejo forestal, para la producción, diversificación y transformación con capacidad agraria y empresarial;
+XII. Deforestación: Pérdida de la vegetación forestal, por causas inducidas o naturales, a cualquier otra condición;
 
-XIV. Fondo: El Fondo Forestal Mexicano;
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2012)</small>
 
-XV. Forestación: El establecimiento y desarrollo de vegetación forestal en terrenos preferentemente forestales o temporalmente forestales con propósitos de conservación, restauración o producción comercial;
+XIII. Degradación: Proceso de disminución de la capacidad de los ecosistemas forestales para brindar servicios ambientales, así como capacidad productiva;
 
-XVI. Manejo forestal: El proceso que comprende el conjunto de acciones y procedimientos que tienen por objeto la ordenación, el cultivo, la protección, la conservación, la restauración y el aprovechamiento de los recursos forestales de un ecosistema forestal, considerando los principios ecológicos respetando la integralidad funcional e interdependencia de recursos y sin que merme la capacidad productiva de los ecosistemas y recursos existentes en la misma;
+XIV. Ecosistema Forestal: La unidad funcional básica de interacción de los recursos forestales entre sí y de éstos con el ambiente, en un espacio y tiempo determinados;
 
-XVII. Materias primas forestales: Los productos del aprovechamiento de los recursos forestales que no han sufrido procesos de transformación hasta el segundo grado;
+XV. Empresa Social Forestal: Organización productiva de comunidades o ejidos con áreas forestales permanentes y bajo programa de manejo forestal, para la producción, diversificación y transformación con capacidad agraria y empresarial;
 
-XVIII. Ordenación forestal: La organización económica de un área forestal tomando en cuenta sus características silvícolas, que implica la división espacial y temporal de las actividades del manejo forestal;
+XVI. Fondo: El Fondo Forestal Mexicano;
 
-XIX. Plantación forestal comercial: El establecimiento, cultivo y manejo de vegetación forestal en terrenos temporalmente forestales o preferentemente forestales, cuyo objetivo principal es la producción de materias primas forestales destinadas a su industrialización y/o comercialización;
+XVII. Forestación: El establecimiento y desarrollo de vegetación forestal en terrenos preferentemente forestales o temporalmente forestales con propósitos de conservación, restauración o producción comercial;
 
-XX. Producto forestal maderable: El bien obtenido del resultado de un proceso de transformación de materias primas maderables, con otra denominación, nuevas características y un uso final distinto;
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2012)</small>
 
-XXI. Programa de manejo forestal: El instrumento técnico de planeación y seguimiento que describe las acciones y procedimientos de manejo forestal sustentable;
+XVIII. Manejo forestal: El proceso que comprende el conjunto de acciones y procedimientos que tienen por objeto la ordenación, el cultivo, la protección, la conservación, la restauración y el aprovechamiento de los recursos y servicios ambientales de un ecosistema forestal, considerando los principios ecológicos, respetando la integralidad funcional e interdependencia de recursos y sin que merme la capacidad productiva de los ecosistemas y recursos existentes en la misma;
 
-XXII. Programa de manejo de plantación forestal comercial: El instrumento técnico de planeación y seguimiento que describe las acciones y procedimientos de manejo forestal relativo a la plantación forestal comercial;
+XIX. Materias primas forestales: Los productos del aprovechamiento de los recursos forestales que no han sufrido procesos de transformación hasta el segundo grado;
 
-XXIII. Recursos asociados: Las especies silvestres animales y vegetales, así como el agua, que coexisten en relación de interdependencia con los recursos forestales;
+XX. Ordenación forestal: La organización económica de un área forestal tomando en cuenta sus características silvícolas, que implica la división espacial y temporal de las actividades del manejo forestal;
 
-XXIV. Recursos biológicos forestales: Comprende las especies y variedades de plantas, animales y microorganismos de los ecosistemas forestales y su biodiversidad y en especial aquéllas de interés científico, biotecnológico o comercial;
+XXI. Plantación forestal comercial: El establecimiento, cultivo y manejo de vegetación forestal en terrenos temporalmente forestales o preferentemente forestales, cuyo objetivo principal es la producción de materias primas forestales destinadas a su industrialización y/o comercialización;
 
-XXV. Recursos forestales: La vegetación de los ecosistemas forestales, sus servicios, productos y residuos, así como los suelos de los terrenos forestales y preferentemente forestales;
+XXII. Producto forestal maderable: El bien obtenido del resultado de un proceso de transformación de materias primas maderables, con otra denominación, nuevas características y un uso final distinto;
 
-XXVI. Recursos forestales maderables: Los constituidos por vegetación leñosa susceptibles de aprovechamiento o uso;
+XXIII. Programa de manejo forestal: El instrumento técnico de planeación y seguimiento que describe las acciones y procedimientos de manejo forestal sustentable;
 
-XXVII. Recursos forestales no maderables: La parte no leñosa de la vegetación de un ecosistema forestal, y son susceptibles de aprovechamiento o uso, incluyendo líquenes, musgos, hongos y resinas, así como los suelos de terrenos forestales y preferentemente forestales;
+XXIV. Programa de manejo de plantación forestal comercial: El instrumento técnico de planeación y seguimiento que describe las acciones y procedimientos de manejo forestal relativo a la plantación forestal comercial;
 
-XXVIII. Recursos genéticos forestales: Semillas y órganos de la vegetación forestal que existen en los diferentes ecosistemas y de los cuales dependen los factores hereditarios y la reproducción y que reciben el nombre genérico de germoplasma forestal;
+XXV. Recursos asociados: Las especies silvestres animales y vegetales, así como el agua, que coexisten en relación de interdependencia con los recursos forestales;
 
-XXIX. Reforestación: Establecimiento inducido de vegetación forestal en terrenos forestales;
+XXVI. Recursos biológicos forestales: Comprende las especies y variedades de plantas, animales y microorganismos de los ecosistemas forestales y su biodiversidad y en especial aquéllas de interés científico, biotecnológico o comercial;
 
-XXX. Registro: El Registro Forestal Nacional;
+XXVII. Recursos forestales: La vegetación de los ecosistemas forestales, sus servicios, productos y residuos, así como los suelos de los terrenos forestales y preferentemente forestales;
 
-XXXI. Reglamento: El Reglamento de la presente Ley;
+XXVIII. Recursos forestales maderables: Los constituidos por vegetación leñosa susceptibles de aprovechamiento o uso;
 
-XXXII. Rendimiento sostenido: La producción que puede generar un área forestal en forma persistente, sin merma de su capacidad productiva;
+XXIX. Recursos forestales no maderables: La parte no leñosa de la vegetación de un ecosistema forestal, y son susceptibles de aprovechamiento o uso, incluyendo líquenes, musgos, hongos y resinas, así como los suelos de terrenos forestales y preferentemente forestales;
 
-XXXIII. Restauración forestal: El conjunto de actividades tendentes a la rehabilitación de un ecosistema forestal degradado, para recuperar parcial o totalmente las funciones originales del mismo y mantener las condiciones que propicien su persistencia y evolución;
+XXX. Recursos genéticos forestales: Semillas y órganos de la vegetación forestal que existen en los diferentes ecosistemas y de los cuales dependen los factores hereditarios y la reproducción y que reciben el nombre genérico de germoplasma forestal;
 
-XXXIV. Saneamiento forestal: Las acciones técnicas encaminadas a combatir y controlar plagas y enfermedades forestales;
+XXXI. Reforestación: Establecimiento inducido de vegetación forestal en terrenos forestales;
 
-XXXV. Sanidad forestal: Lineamientos, medidas y restricciones para la detección, control y combate de plagas y enfermedades forestales;
+XXXII. Registro: El Registro Forestal Nacional;
 
-XXXVI. Secretaría: La Secretaría de Medio Ambiente y Recursos Naturales;
+XXXIII. Reglamento: El Reglamento de la presente Ley;
 
-XXXVII. Servicios ambientales: Los que brindan los ecosistemas forestales de manera natural o por medio del manejo sustentable de los recursos forestales, tales como: la provisión del agua en calidad y cantidad; la captura de carbono, de contaminantes y componentes naturales; la generación de oxígeno; el amortiguamiento del impacto de los fenómenos naturales; la modulación o regulación climática; la protección de la biodiversidad, de los ecosistemas y formas de vida; la protección y recuperación de suelos; el paisaje y la recreación, entre otros;
+XXXIV. Rendimiento sostenido: La producción que puede generar un área forestal en forma persistente, sin merma de su capacidad productiva;
 
-XXXVIII. Servicios técnicos forestales: Las actividades realizadas para la planificación y ejecución de la silvicultura, el manejo forestal y la asesoría y capacitación a los propietarios o poseedores de recursos forestales para su gestión;
+XXXV. Restauración forestal: El conjunto de actividades tendentes a la rehabilitación de un ecosistema forestal degradado, para recuperar parcial o totalmente las funciones originales del mismo y mantener las condiciones que propicien su persistencia y evolución;
 
-XXXIX. Silvicultura: La teoría y práctica de controlar el establecimiento, composición, constitución, crecimiento y desarrollo de los ecosistemas forestales para la continua producción de bienes y servicios;
+XXXVI. Saneamiento forestal: Las acciones técnicas encaminadas a combatir y controlar plagas y enfermedades forestales;
 
-XL. Terreno forestal: El que está cubierto por vegetación forestal;
+XXXVII. Sanidad forestal: Lineamientos, medidas y restricciones para la detección, control y combate de plagas y enfermedades forestales;
 
-XLI. Terreno preferentemente forestal: Aquel que habiendo estado, en la actualidad no se encuentra cubierto por vegetación forestal, pero por sus condiciones de clima, suelo y topografía resulte más apto para el uso forestal que para otros usos alternativos, excluyendo aquéllos ya urbanizados;
+XXXVIII. Secretaría: La Secretaría de Medio Ambiente y Recursos Naturales;
 
-XLII. Terreno temporalmente forestal: Las superficies agropecuarias que se dediquen temporalmente al cultivo forestal mediante plantaciones forestales comerciales. La consideración de terreno forestal temporal se mantendrá durante un periodo de tiempo no inferior al turno de la plantación;
+XXXIX. Servicios ambientales: Los que brindan los ecosistemas forestales de manera natural o por medio del manejo sustentable de los recursos forestales, tales como: la provisión del agua en calidad y cantidad; la captura de carbono, de contaminantes y componentes naturales; la generación de oxígeno; el amortiguamiento del impacto de los fenómenos naturales; la modulación o regulación climática; la protección de la biodiversidad, de los ecosistemas y formas de vida; la protección y recuperación de suelos; el paisaje y la recreación, entre otros;
+
+XL. Servicios técnicos forestales: Las actividades realizadas para la planificación y ejecución de la silvicultura, el manejo forestal y la asesoría y capacitación a los propietarios o poseedores de recursos forestales para su gestión;
+
+XLI. Silvicultura: La teoría y práctica de controlar el establecimiento, composición, constitución, crecimiento y desarrollo de los ecosistemas forestales para la continua producción de bienes y servicios;
+
+XLII. Terreno forestal: El que está cubierto por vegetación forestal;
+
+XLIII. Terreno preferentemente forestal: Aquel que habiendo estado, en la actualidad no se encuentra cubierto por vegetación forestal, pero por sus condiciones de clima, suelo y topografía resulte más apto para el uso forestal que para otros usos alternativos, excluyendo aquéllos ya urbanizados;
+
+XLIV. Terreno temporalmente forestal: Las superficies agropecuarias que se dediquen temporalmente al cultivo forestal mediante plantaciones forestales comerciales. La consideración de terreno forestal temporal se mantendrá durante un periodo de tiempo no inferior al turno de la plantación;
 
 > <small>(ADICIONADA, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
 
-XLIII. Turno: Periodo de regeneración de los recursos forestales que comprende desde su extracción hasta el momento en que éstos son susceptibles de nuevo aprovechamiento;
+XLV. Turno: Periodo de regeneración de los recursos forestales que comprende desde su extracción hasta el momento en que éstos son susceptibles de nuevo aprovechamiento;
 
-XLIV. Unidad de manejo forestal: Territorio cuyas condiciones físicas, ambientales, sociales y económicas guardan cierta similitud para fines de ordenación, manejo forestal sustentable y conservación de los recursos;
+XLVI. Unidad de manejo forestal: Territorio cuyas condiciones físicas, ambientales, sociales y económicas guardan cierta similitud para fines de ordenación, manejo forestal sustentable y conservación de los recursos;
 
-XLV. Uso doméstico: El aprovechamiento, sin propósitos comerciales, de los recursos forestales extraídos del medio natural en el que se encuentran, para usos rituales o satisfacer las necesidades de energía calorífica, vivienda, aperos de labranza y otros usos en la satisfacción de sus necesidades básicas en el medio rural;
+XLVII. Uso doméstico: El aprovechamiento, sin propósitos comerciales, de los recursos forestales extraídos del medio natural en el que se encuentran, para usos rituales o satisfacer las necesidades de energía calorífica, vivienda, aperos de labranza y otros usos en la satisfacción de sus necesidades básicas en el medio rural;
 
-XLVI. Vegetación forestal: El conjunto de plantas y hongos que crecen y se desarrollan en forma natural, formando bosques, selvas, zonas áridas y semiáridas, y otros ecosistemas, dando lugar al desarrollo y convivencia equilibrada de otros recursos y procesos naturales;
+XLVIII. Vegetación forestal: El conjunto de plantas y hongos que crecen y se desarrollan en forma natural, formando bosques, selvas, zonas áridas y semiáridas, y otros ecosistemas, dando lugar al desarrollo y convivencia equilibrada de otros recursos y procesos naturales;
 
-XLVII. Vegetación exótica: Conjunto de plantas arbóreas, arbustivas o crasas ajenas a los ecosistemas naturales;
+XLIX. Vegetación exótica: Conjunto de plantas arbóreas, arbustivas o crasas ajenas a los ecosistemas naturales;
 
-XLVIII. Ventanilla única: El sistema administrativo que reúne al mayor número posible de las dependencias y entidades del sector público forestal, tanto federal, estatal como municipal, para la atención integral de los distintos usuarios del sector;
+L. Ventanilla única: El sistema administrativo que reúne al mayor número posible de las dependencias y entidades del sector público forestal, tanto federal, estatal como municipal, para la atención integral de los distintos usuarios del sector;
 
-XLIX. Visita de Inspección: La supervisión que realiza el personal autorizado para verificar que el aprovechamiento, manejo, transporte, almacenamiento y transformación de recursos forestales, se ajuste a la Ley y demás disposiciones legales aplicables;
+LI. Visita de Inspección: La supervisión que realiza el personal autorizado para verificar que el aprovechamiento, manejo, transporte, almacenamiento y transformación de recursos forestales, se ajuste a la Ley y demás disposiciones legales aplicables;
 
 > <small>(ADICIONADA, D.O.F. 24 DE NOVIEMBRE DE 2008)</small>
 
-L. Vivero forestal: Sitio que cuenta con un conjunto de instalaciones, equipo, herramientas e insumos, en el cual se aplican técnicas apropiadas para la producción de plántulas forestales con talla y calidad apropiada según la especie, para su plantación en un lugar definitivo.
+LII. Vivero forestal: Sitio que cuenta con un conjunto de instalaciones, equipo, herramientas e insumos, en el cual se aplican técnicas apropiadas para la producción de plántulas forestales con talla y calidad apropiada según la especie, para su plantación en un lugar definitivo.
 
 ## TITULO SEGUNDO. DE LA ORGANIZACION Y ADMINISTRACION DEL SECTOR PUBLICO FORESTAL
 
@@ -1026,13 +1038,17 @@ I. La superficie y localización de terrenos forestales y preferentemente forest
 
 II. Los terrenos forestales temporales, su superficie y localización;
 
-III. Los tipos de vegetación forestal y de suelos, su localización, formaciones y clases, con tendencias y proyecciones que permitan clasificar y delimitar el estado actual de la degradación, así como las zonas de conservación, protección, restauración y producción forestal, en relación con las cuencas hidrológicas-forestales, las regiones ecológicas, las áreas forestales permanentes y las áreas naturales protegidas;
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2012)</small>
+
+III. Los tipos de vegetación forestal y de suelos, su localización, formaciones y clases, con tendencias y proyecciones que permitan clasificar y delimitar el estado actual de la deforestación y degradación, así como las zonas de conservación, protección, restauración y producción forestal, en relación con las cuencas hidrológicas-forestales, las regiones ecológicas, las áreas forestales permanentes y las áreas naturales protegidas;
 
 IV. La dinámica de cambio de la vegetación forestal del país, que permita conocer y evaluar las tasas de deforestación y las tasas de degradación y disturbio, registrando sus causas principales;
 
 V. La cuantificación de los recursos forestales, que incluya la valoración de los bienes y servicios ambientales que generen los ecosistemas forestales, así como los impactos que se ocasionen en los mismos;
 
-VI. Los criterios e indicadores de sustentabilidad y degradación de los ecosistemas forestales;
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2012)</small>
+
+VI. Los criterios e indicadores de sustentabilidad, deforestación y degradación de los ecosistemas forestales;
 
 > <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
 
@@ -1040,9 +1056,13 @@ VII. Los inventarios sobre la infraestructura forestal existente;
 
 > <small>(ADICIONADA, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
 
-VIII. Las áreas forestales con mayor vulnerabilidad a los efectos del cambio climático, y
+VIII. Las áreas forestales con mayor vulnerabilidad a los efectos del cambio climático, y (sic)
 
-IX. Los demás datos que señale el Reglamento de esta Ley.
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2012)</small>
+
+IX. La información, basada en el Sistema Nacional de Monitoreo, Registro y Verificación, de la reducción de emisiones derivadas de acciones de prevención y combate de la deforestación y degradación de los ecosistemas forestales, y
+
+X. Los demás datos que señale el Reglamento de esta Ley.
 
 ###### ARTICULO 46.
 
@@ -1864,13 +1884,41 @@ La Comisión, en coordinación con las dependencias y entidades de la Administra
 
 ### CAPITULO VI.. De los Servicios Ambientales Forestales
 
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2012)</small>
+
 ###### ARTICULO 133.
 
-En el marco de los tratados internacionales y disposiciones nacionales aplicables, la Secretaría promoverá el desarrollo de un mercado de bienes y servicios ambientales que retribuya los beneficios prestados por los dueños y poseedores de recursos forestales a otros sectores de la sociedad.
+En el marco de los tratados internacionales y disposiciones nacionales aplicables, la Secretaría promoverá el desarrollo de instrumentos económicos para la conservación y mejora de los bienes y servicios ambientales que retribuya beneficios de interés público, generados por el manejo forestal sustentable que realicen los propietarios y legítimos poseedores de los terrenos forestales.
+
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2012)</small>
 
 ###### ARTICULO 134.
 
-La Secretaría promoverá la formación de profesionales o técnicos, así como de empresas, los cuales estén capacitados para certificar, evaluar y monitorear los bienes y servicios ambientales, para el otorgamiento de asesoría técnica y capacitación a los titulares de los aprovechamientos forestales en la materia y para enlazarlos con los usuarios o beneficiarios de los bienes y servicios ambientales, así como a los mercados correspondientes en el ámbito nacional e internacional.
+La Secretaría promoverá la formación de profesionales o técnicos, así como de empresas, los cuales estén capacitados para certificar, evaluar y monitorear la conservación y mejora de los bienes y servicios ambientales, para el otorgamiento de asesoría técnica y capacitación a los titulares de los aprovechamientos forestales en la materia y para enlazarlos con los usuarios o beneficiarios de los bienes y servicios ambientales, así como a los instrumentos económicos correspondientes en el ámbito nacional e internacional.
+
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2012)</small>
+
+###### ARTICULO 134 Bis.
+
+Los propietarios y legítimos poseedores de terrenos forestales que, como resultado de un manejo forestal sustentable, conserven y/o mejoren los servicios ambientales, recibirán los beneficios económicos derivados de éstos.
+
+Los instrumentos legales y de política ambiental para regular y fomentar la conservación y mejora de los servicios ambientales, deben garantizar el respeto a las salvaguardas reconocidas por el derecho internacional, así como lo siguiente:
+
+I. Consentimiento libre, previo e informado de ejidos, comunidades y pueblos indígenas;
+
+II. Distribución equitativa de beneficios;
+
+III. Certidumbre y respeto a los derechos de propiedad y posesión legítima y acceso a los recursos naturales de los propietarios y legítimos poseedores de la tierra;
+
+IV. Inclusión y equidad territorial, cultural, social y de género;
+
+V. Pluralidad y participación social;
+
+VI. Transparencia, acceso a la información y rendición de cuentas;
+
+VII. Reconocimiento y respeto a las formas de organización interna, y
+
+VIII. Transversalidad, integralidad, coordinación y complementariedad entre políticas e instrumentos de los tres órdenes de gobierno.
 
 ### CAPITULO VII.. Del Riesgo y Daños Ocasionados a los Recursos Forestales, al Medio Ambiente, Ecosistemas o sus Componentes
 
@@ -2411,3 +2459,9 @@ DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 74, FRACCIÓN V; Y SE ADICIONAN LOS A
 D.O.F. 23 DE ABRIL DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE JUNIO DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El Titular del Poder Ejecutivo Federal, en un plazo no mayor a tres años posteriores a la entrada en vigor del presente Decreto, implementará un sistema nacional de monitoreo, registro y verificación, con el fin de evaluar y sistematizar la reducción de emisiones derivadas de acciones de prevención y combate de la deforestación y degradación de los ecosistemas forestales (REDD+), al que se hace referencia en la fracción IX del artículo 45 del presente Decreto.
