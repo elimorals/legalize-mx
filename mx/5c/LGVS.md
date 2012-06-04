@@ -4,7 +4,7 @@ identifier: "LGVS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2000-07-03"
-last_updated: "2011-11-16"
+last_updated: "2012-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16446&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGVS"
 
 LEY GENERAL DE VIDA SILVESTRE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2012.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 3 de julio de 2000.
 
@@ -492,7 +492,7 @@ El reglamento y las normas oficiales mexicanas sobre la materia establecerán la
 
 ### CAPÍTULO VII. CENTROS PARA LA CONSERVACIÓN E INVESTIGACIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE JUNIO DE 2006)</small>
 
 ###### Artículo 38.
 
@@ -814,7 +814,7 @@ La información relativa a los proyectos de conservación y recuperación de esp
 
 ### CAPÍTULO II. HÁBITAT CRÍTICO PARA LA CONSERVACIÓN DE LA VIDA SILVESTRE
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 63.
 
@@ -824,7 +824,7 @@ La conservación del hábitat natural de la vida silvestre es de interés públi
 
 Los hábitats críticos para la conservación de la vida silvestre son áreas específicas terrestres o acuáticas, en las que ocurren procesos biológicos, físicos y químicos esenciales, ya sea para la supervivencia de especies en categoría de riesgo, ya sea para una especie, o para una de sus poblaciones, y que por tanto requieren manejo y protección especial. Son áreas que regularmente son utilizadas para alimentación, depredación, forrajeo, descanso, crianza o reproducción, o rutas de migración.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE SEPTIEMBRE DE 2010)</small>
 
 La Secretaría podrá establecer, mediante acuerdo Secretarial, hábitats críticos para la conservación de la vida silvestre, cuando se trate de:
 
@@ -838,7 +838,7 @@ c) Áreas específicas en las que existe un ecosistema en riesgo de desaparecer,
 
 d) Áreas específicas en las que se desarrollen procesos biológicos esenciales, y existan especies sensibles a riesgos específicos, como cierto tipo de contaminación, ya sea física, química o acústica, o riesgo de colisiones con vehículos terrestres o acuáticos, que puedan llevar a afectar las poblaciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 64.
 
@@ -998,9 +998,11 @@ d) Que éste no tendrá efectos negativos sobre las poblaciones, ni existirá ma
 
 La autorización para el aprovechamiento de ejemplares, incluirá el aprovechamiento de sus partes y derivados, de conformidad con lo establecido en el reglamento y las normas oficiales mexicanas que para tal efecto se expidan.
 
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 85.
 
-Solamente se podrá autorizar el aprovechamiento de ejemplares de especies en riesgo cuando se dé prioridad a la colecta y captura para actividades de restauración, repoblamiento y reintroducción. Cualquier otro aprovechamiento, en el caso de poblaciones en peligro de extinción, estará sujeto a que se demuestre que se ha cumplido satisfactoriamente cualesquiera de las tres actividades mencionadas anteriormente y que:
+Solamente se podrá autorizar el aprovechamiento de ejemplares de especies en riesgo cuando se dé prioridad a la colecta y captura para actividades de restauración, repoblamiento, reintroducción e investigación científica. Cualquier otro aprovechamiento, en el caso de poblaciones en peligro de extinción y amenazadas, estará sujeto a que se demuestre que se ha cumplido satisfactoriamente cualesquiera de las cuatro actividades mencionadas anteriormente y que:
 
 a) Los ejemplares sean producto de la reproducción controlada, que a su vez contribuya con el desarrollo de poblaciones en programas, proyectos o acciones avalados por la Secretaría cuando éstos existan, en el caso de ejemplares en confinamiento.
 
@@ -1282,7 +1284,7 @@ VI. Existan signos evidentes de alteración de documentos o de la información c
 
 VII. Existan faltas respecto al trato digno y respetuoso, conforme a lo estipulado en la presente Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE JUNIO DE 2006)</small>
 
 ###### Artículo 120.
 
@@ -1458,7 +1460,7 @@ México, D.F., a 27 de abril de 2000.- Sen. Dionisio Pérez Jácome, Vicepreside
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiocho días del mes de junio de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 10 DE ENERO DE 2002.
 
@@ -1585,3 +1587,9 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. El Titular del Poder Ejecutivo Federal en un plazo no mayor de 180 días posteriores a la entrada en vigor del presente Decreto, deberá publicar las reformas necesarias al Reglamento de la Ley General de Vida Silvestre y el Protocolo de atención para varamiento de mamíferos marinos.
 
 TERCERO. Quedan derogadas todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 4 DE JUNIO DE 2012.
+
+Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Ejecutivo Federal, en un plazo no mayor a 120 días naturales, realizará las modificaciones correspondientes al Reglamento de la Ley General de Vida Silvestre.
