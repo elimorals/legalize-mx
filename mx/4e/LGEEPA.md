@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2012-06-01"
+last_updated: "2012-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -178,17 +178,21 @@ XXXIV. Restauración: Conjunto de actividades tendientes a la recuperación y re
 
 XXXV. Secretaría: La Secretaría de Medio Ambiente y Recursos Naturales.
 
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2012)</small>
+
+XXXVI. Servicios ambientales: los beneficios tangibles e intangibles, generados por los ecosistemas, necesarios para la supervivencia del sistema natural y biológico en su conjunto, y para que proporcionen beneficios al ser humano;
+
 > <small>(REFORMADA, D.O.F. 7 DE ENERO DE 2000)</small>
 
-XXXVI. Vocación natural: Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos, y (sic)
+XXXVII. Vocación natural: Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos, y (sic)
 
 > <small>(ADICIONADA, D.O.F. 7 DE ENERO DE 2000)</small>
 
-XXXVII. Educación Ambiental: Proceso de formación dirigido a toda la sociedad, tanto en el ámbito escolar como en el ámbito extraescolar, para facilitar la percepción integrada del ambiente a fin de lograr conductas más racionales a favor del desarrollo social y del ambiente. La educación ambiental comprende la asimilación de conocimientos, la formación de valores, el desarrollo de competencias y conductas con el propósito de garantizar la preservación de la vida;
+XXXVIII. Educación Ambiental: Proceso de formación dirigido a toda la sociedad, tanto en el ámbito escolar como en el ámbito extraescolar, para facilitar la percepción integrada del ambiente a fin de lograr conductas más racionales a favor del desarrollo social y del ambiente. La educación ambiental comprende la asimilación de conocimientos, la formación de valores, el desarrollo de competencias y conductas con el propósito de garantizar la preservación de la vida;
 
 > <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
-XXXVIII. Zonificación: El instrumento técnico de planeación que puede ser utilizado en el establecimiento de las áreas naturales protegidas, que permite ordenar su territorio en función del grado de conservación y representatividad de sus ecosistemas, la vocación natural del terreno, de su uso actual y potencial, de conformidad con los objetivos dispuestos en la misma declaratoria. Asimismo, existirá una subzonificación, la cual consiste en el instrumento técnico y dinámico de planeación, que se establecerá en el programa de manejo respectivo, y que es utilizado en el manejo de las áreas naturales protegidas, con el fin de ordenar detalladamente las zonas núcleo y de amortiguamiento, previamente establecidas mediante la declaratoria correspondiente.
+XXXIX. Zonificación: El instrumento técnico de planeación que puede ser utilizado en el establecimiento de las áreas naturales protegidas, que permite ordenar su territorio en función del grado de conservación y representatividad de sus ecosistemas, la vocación natural del terreno, de su uso actual y potencial, de conformidad con los objetivos dispuestos en la misma declaratoria. Asimismo, existirá una subzonificación, la cual consiste en el instrumento técnico y dinámico de planeación, que se establecerá en el programa de manejo respectivo, y que es utilizado en el manejo de las áreas naturales protegidas, con el fin de ordenar detalladamente las zonas núcleo y de amortiguamiento, previamente establecidas mediante la declaratoria correspondiente.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -3655,3 +3659,9 @@ D.O.F. 1 DE JUNIO DE 2012.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Se derogan y abrogan todas las disposiciones que se opongan al presente Decreto
+
+D.O.F. 4 DE JUNIO DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El Titular del Poder Ejecutivo Federal, en un plazo no mayor a tres años posteriores a la entrada en vigor del presente Decreto, implementará un sistema nacional de monitoreo, registro y verificación, con el fin de evaluar y sistematizar la reducción de emisiones derivadas de acciones de prevención y combate de la deforestación y degradación de los ecosistemas forestales (REDD+), al que se hace referencia en la fracción IX del artículo 45 del presente Decreto.
