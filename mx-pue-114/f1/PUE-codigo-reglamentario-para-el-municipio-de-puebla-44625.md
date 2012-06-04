@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2012-05-25"
+last_updated: "2012-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -2059,7 +2059,13 @@ El presente Capítulo tiene como objeto la regulación de los Juzgados Calificad
 
 Corresponde al Municipio por conducto de los Jueces Calificadores, conocer de las conductas antisociales y sancionar las faltas administrativas en el presente Capítulo.
 
-Entendiéndose para tal efecto, por conductas antisociales aquéllas que van en contra de las normas de convivencia de la sociedad, en los cuales se atenta contra el patrimonio, la vida, la salud de una persona o de la sociedad en su conjunto.
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
+
+Entendiéndose para tal efecto, por conductas antisociales aquéllas que van en contra de las normas de convivencia de la sociedad, en las cuales se atenta contra el patrimonio, la vida, la salud o cualquier otro bien jurídico protegido de una persona o de la sociedad en su conjunto.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2012)</small>
+
+En los casos en que sea admisible la aplicación de los medios alternativos de solución de controversias para resolver las situaciones generadas entre particulares por la aplicación del presente Código Reglamentario, se harán del conocimiento de los involucrados una vez que se produce la actuación de los Jueces Calificadores.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -2103,21 +2109,33 @@ Se consideran faltas o infracciones administrativas al presente Capítulo:
 
 I. CONTRA LA SEGURIDAD PÚBLICA y se sancionarán administrativamente con: 1.- Amonestación, 2.- Multa de cinco a sesenta días de salario mínimo general vigente en el Municipio de Puebla, al momento de determinarla, 3.- Arresto hasta treinta y seis horas o, 4.- Trabajo a favor de la comunidad a las personas que:
 
-a) Utilicen objetos detonantes de cualquier tipo que atenten contra la seguridad pública;
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
 
-b) Detonen cohetes o enciendan juegos pirotécnicos sin permiso de la Autoridad competente;
+a) Utilicen objetos detonantes de cualquier tipo que atenten contra la seguridad pública, el orden público o el tránsito de vehículos o peatones;
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
+
+b) Detonen cohetes o enciendan juegos pirotécnicos sin permiso de la autoridad competente; o bien, contando con éste, no se apeguen a lo establecido en el mismo;
 
 c) Formen parte de grupos que causen molestia o escándalo a las personas en lugares públicos, en sus domicilios o proximidad de los mismos;
 
-d) Organicen o participen en juegos de velocidad, arrancones, con cualquier vehículo de motor, en lugares públicos no permitidos para ello, poniendo en riesgo la integridad física de las personas y de los demás conductores o peatones;
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
+
+d) Organicen o participen en juegos de velocidad o arrancones con cualquier vehículo automotor, en lugares públicos no permitidos para ello, o dentro de los permitidos sin respetar las especificaciones de seguridad poniendo en riesgo la integridad física, la vida de las personas, de los demás conductores, peatones y los bienes particulares o del Municipio;
 
 e) Ingresen, sin autorización, en zonas o lugares de acceso prohibido en los centros de espectáculos, diversiones o de recreo;
 
-f) Soliciten por cualquier medio los servicios de la policía, de los bomberos o de instituciones médicas de emergencia, invocando hechos que resulten falsos;
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
 
-g) Obstruyan o impidan con cualquier objeto entradas o salidas de personas y/o cosas, domicilios, instalaciones o edificios públicos o privados argumentando el ejercicio de un derecho;
+f) Soliciten por cualquier medio los servicios de la Policía, de los Bomberos o de instituciones médicas de emergencia, invocando dolosamente hechos que resulten total o parcialmente falsos o inexistentes; o indicando lugar, tiempo o modo diferente a los reales;
 
-h) Realicen en plazas, jardines y demás sitios públicos, toda clase de juegos que constituyan un peligro para la comunidad o coloquen tiendas, cobertizos, techos o vehículos, que obstruyan el libre tránsito de peatones o vehículos, así como la buena imagen del lugar;
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
+
+g) Obstruyan o impidan con cualquier objeto entradas o salidas de personas y/o cosas, a domicilios, instalaciones o edificios públicos o privados, o utilicen lugares reservados para personas con discapacidad sin serlo;
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
+
+h) Realicen en plazas, jardines y demás sitios públicos, toda clase de juegos que constituyan un peligro para la comunidad o coloquen tiendas, cobertizos, techos o vehículos, que obstruyan el libre tránsito de peatones o vehículos, la correcta visibilidad, así como la buena imagen del lugar;
 
 i) Impidan, dificulten o entorpezcan el ejercicio de facultades de las Autoridades Municipales en general; así como la prestación de los servicios públicos municipales y de cualquier otra Autoridad Administrativa;
 
@@ -2133,7 +2151,9 @@ m) Provoquen derrumbes, incendios y demás hechos o actos similares, en lugares 
 
 II. CONTRA LA SALUBRIDAD Y EL MEDIO AMBIENTE y se sancionarán administrativamente con: 1.- Amonestación, 2.- Multa de cinco a sesenta días de salario mínimo general vigente en el Municipio de Puebla, al momento de determinarla, 3.- Arresto hasta treinta y seis horas, o 4.- Trabajo a favor de la comunidad a las personas que:
 
-a) Orinen o defequen en cualquier lugar público;
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
+
+a) Orinen o defequen en cualquier lugar público o privado, no autorizado para ello;
 
 b) Hagan uso irresponsable del agua en lugares públicos o desperdicien el agua potable en la vía pública, haciendo uso irresponsable de mangueras, recipientes u otros conductos;
 
@@ -2167,13 +2187,19 @@ a) Siendo propietarios o responsables de cualquier especie de animales permitan 
 
 b) Alteren el orden o la tranquilidad de las personas en lugares públicos, privados o espectáculos públicos;
 
-c) Realicen u organicen el comercio en la vía pública o en lugares públicos sin contar con la autorización previa de la Autoridad Municipal correspondiente;
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
 
-d) Promuevan, organicen, o participen en juegos de azar o apuesta en lugar público no autorizado para ello;
+c) Realicen u organicen el comercio en la vía pública o en lugares públicos sin contar con la autorización previa de la autoridad municipal correspondiente, o teniéndola, no se sujeten a las especificaciones que dicha autorización contenga;
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
+
+d) Promuevan, organicen o participen en juegos de azar o apuesta en lugar público no autorizado para ello, o aun contando con autorización, no se sujeten a las especificaciones que dicha autorización contenga;
 
 e) Vendan, ofrezcan o por cualquier medio distribuyan bebidas alcohólicas en forma clandestina o en días no permitidos por las leyes;
 
-f) Ofrezcan, fomenten o propicien la venta de boletos de espectáculos públicos sin la autorización correspondiente o a precios superiores a los autorizados;
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
+
+f) Ofrezcan, fomenten o propicien la venta de boletos de espectáculos públicos a precios superiores a los autorizados; no cuenten con la autorización previa de la autoridad municipal correspondiente para ello, o aun contando con autorización, no se sujeten a las especificaciones que la misma contenga;
 
 g) Alteren el orden, arrojen cualquier objeto o provoquen disturbios en los espectáculos públicos o en las entradas y salidas a ellos;
 
@@ -2183,9 +2209,9 @@ i) Alteren, rompan, dañen o mutilen los sellos de clausura o las boletas de inf
 
 j) Arrojen a la vía pública, lotes baldíos, ríos o barrancas, basura u objetos que puedan causar molestia a los vecinos, transeúntes o vehículos;
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
 
-k) Impidan el acceso a los perros guía que asistan a personas con discapacidad al interior de lugares públicos o privados así como al transporte público;
+k) Impidan el acceso a perros guía que asistan a invidentes, débiles visuales o personas con cualquier otra discapacidad, en los lugares públicos y privados o transporte público;
 
 l) Ejerzan actos de comercio dentro del área de cementerios, templos, monumentos, edificios públicos, en aquellos lugares que por su tradición y costumbre deberán ser respetadas, y en lugares no autorizados; a menos que cuenten con la autorización y el permiso correspondiente para tal efecto;
 
@@ -2193,13 +2219,15 @@ m) Vendan o proporcionen a los menores de edad, bebidas alcohólicas y/o tóxico
 
 n) Vendan, ofrezcan sus productos o mercancías, sin el permiso de la Autoridad competente en lugares distintos al giro comercial autorizado, independientemente de la sanción que se imponga a los establecimientos que les permitan la entrada a los mismos, en términos de las leyes y disposiciones jurídicas correspondientes; y
 
-ñ) Siendo propietarios, poseedores o arrendadores permitan o autoricen la comercialización a terceros; como responsables solidarios; independientemente de la sanción que se imponga a los establecimientos que les permitan la entrada a los mismos, en términos de las leyes y disposiciones jurídicas correspondientes;
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
 
-> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2011)</small>
+ñ) Siendo propietarios, poseedores o arrendadores permitan o autoricen la comercialización a terceros, como responsables solidarios, independientemente de la sanción que se le imponga a los establecimientos que les permitan la entrada a los mismos, en términos de las leyes y disposiciones jurídicas correspondientes; y (sic)
 
-o) Obstruyan o impidan el acceso, en lugares públicos o privados, a los cajones y/o espacios de estacionamiento destinados para las personas con discapacidad;
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
 
-> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2011)</small>
+o) Impidan u obstruyan con objetos o vehículos los accesos, usos de las rampas y demás infraestructura urbana que permite el libre tránsito a las personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2011)</small>
 
 p) impidan u obstruyan con objetos o vehículos los accesos y uso de las rampas y demás infraestructura urbana que permite el libre tránsito a las personas con discapacidad.
 
@@ -2231,11 +2259,17 @@ k) Estando encargados de la guarda o custodia de un enfermo mental, deje a éste
 
 l) Los padres, tutores o persona que legalmente tenga bajo su custodia, cuidado o responsabilidad a un menor de edad que reincida en la comisión de una falta administrativa, si habiendo sido apercibido en anterior ocasión, no demostraren que tomaron medidas preventivas y de orientación correspondiente para evitar la reincidencia del menor;
 
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2012)</small>
+
+l Bis.) Los padres, tutores o persona que legalmente tenga bajo su custodia, cuidado o responsabilidad a un menor de edad y que no acuda al programa de reinserción familiar y social que para tal efecto el Juez Calificador canalizó a alguna comisión, dependencia, institución, órgano o cualquier otra, habiendo sido apercibidos de lo anterior.
+
 m) Que permitan el acceso a centros de entretenimiento, bares, pulquerías o cualquier otro lugar a los que se refiere el artículo 611 de este Código Reglamentario, a menores de dieciocho años de edad, independientemente de la sanción que se imponga a los establecimientos que les permitan la entrada a los mismos, en términos de las leyes y disposiciones jurídicas correspondientes;
 
 n) Comercialicen, difundan o exhiban en lugares públicos en cualquier forma material visual o auditivo pornográfico u obsceno;
 
-ñ) Coloquen cables u otros objetos en la vía pública, que pongan en riesgo la integridad física de las personas que circulan por la misma, sin la autorización de la Autoridad competente;
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
+
+ñ) Coloquen cables u otros objetos en la vía pública, que pongan en riesgo la integridad física de las personas que circulan por la misma, sin la autorización de la autoridad competente, o excediendo aquélla con la que contaren;
 
 o) Se les sorprenda en posesión o custodia ilegal de cualquier especie de animal feroz, peligroso, para seguridad, guardia o protección, que pueda atentar contra la vida de las personas; o dejen que deambule sólo en la vía pública;
 
@@ -2303,6 +2337,10 @@ m) Realicen graffitis, entendiéndose por éstos los dibujos, pinturas, manchas,
 
 n) Rompan banquetas, pavimento, redes de agua potable y drenaje sin permiso de la Autoridad competente.
 
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2012)</small>
+
+En todos los casos anteriores o cualesquiera que produzca un detrimento o menoscabo en el patrimonio, el infractor además de las sanciones indicadas, deberá reparar a satisfacción del peticionario los daños causados cuando éste proceda, siempre y cuando no esté tipificado como un delito establecido en el Código de Defensa Social para el Estado Libre y Soberano de Puebla.
+
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 209 Bis.
@@ -2313,11 +2351,17 @@ I. Amonestación.- Es la reconvención, pública o privada, que el Juez haga al 
 
 II. Multa.- Es la cantidad en dinero que el infractor debe pagar y que en ningún caso podrá exceder del equivalente a 100 días de salario mínimo general vigente en el Municipio de Puebla, al momento de cometerse la infracción; exceptuándose cuando se trate del responsable solidario a quien se le impondrá una multa hasta de 500 días de salario mínimo general vigente en el Municipio de Puebla, al momento de cometerse la infracción;
 
-III. Arresto.- Es la privación de la libertad por un periodo hasta por treinta y seis horas, que se cumplirá en el lugar destinado para tal efecto; y
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
-IV. Trabajo a favor de la comunidad.- Se entiende por éste la prestación de servicios no remunerados, en la dependencia, institución, órgano o cualquier otra, que para tal efecto se establezca, a fin de lograr que el infractor resarza la afectación ocasionada por la infracción cometida, y en su caso se logre la reinserción familiar y social.
+III. Arresto.- Es la privación de la libertad por un periodo hasta por treinta y seis horas, que se cumplirá en el lugar destinado para tal efecto;
 
-Las sanciones señaladas en las fracciones II y III podrán ser conmutables por el programa social de trabajo a favor de la comunidad, siempre y cuando medie solicitud por escrito del infractor, requiriendo acogerse a esta modalidad.
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+
+IV. Trabajo a favor de la comunidad.- Se entiende por éste la prestación de servicios no remunerados, en la dependencia, institución, órgano o cualquier otra, que para tal efecto se establezca, a fin de lograr que el infractor resarza la afectación ocasionada por la infracción cometida, y en su caso, se logre la reinserción familiar y social; y
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
+
+Las sanciones señaladas en las fracciones II y III podrán ser conmutables por el programa social de trabajo a favor de la comunidad, siempre y cuando medie solicitud por escrito del infractor, requiriendo acogerse a esta modalidad o bien cuando se produzca un acuerdo a través de la utilización de los medios alternativos de solución de controversias del Municipio de Puebla.
 
 ###### Artículo 210.
 
@@ -2333,11 +2377,15 @@ Serán inconmutables:
 
 I. El vandalismo;
 
-II. La utilización, cambio, condición o explotación del uso o destino de la vía pública, sin la autorización correspondiente;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+
+II. La utilización, cambio, condición o explotación del uso o destino de la vía pública, sin la autorización correspondiente, o contando con autorización no se sujete al contenido de la misma;
 
 III. Conducir vehículos en estado de embriaguez o bajo el influjo de cualquier estupefaciente o sustancia psicotrópica;
 
-IV. Organizar o ejercer el comercio en la vía pública sin autorización; y
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+
+IV. Organizar o ejercer el comercio en la vía pública sin autorización, o contando con autorización no se sujete al contenido de la misma;
 
 V. Realizar graffitis sin la autorización correspondiente o en lugares no autorizado para ello.
 
@@ -2353,11 +2401,15 @@ A efecto de cumplir cabalmente con lo dispuesto en este artículo, se llevará u
 
 La base para cuantificar la multa a que se refiere el artículo anterior, será el salario mínimo general vigente en el Municipio de Puebla al momento de cometerse la infracción.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
 
 ###### Artículo 212.
 
-Sólo en los casos de que los responsables sean sorprendidos al momento de cometer la infracción, habrá lugar a su detención por elementos de las fuerzas de Seguridad Pública o Tránsito Municipal, en su caso, quienes deberán radicar de inmediato el asunto ante el Juez Calificador, debiendo poner al detenido a disposición de dicha Autoridad, cuando sea sorprendido en el momento de la ejecución de la falta, mediante boleta de remisión, acompañada de dictamen clínico/toxicológico. En los demás casos, el Juez Calificador ordenará la comparecencia del presunto infractor para poder substanciar el procedimiento en materia de faltas al presente Capítulo, con los apercibimientos correspondientes.
+Sólo en los casos de que los responsables sean sorprendidos al momento de cometer la infracción, o en su caso, sean perseguidos por la autoridad o un particular, habrá lugar a su detención por elementos de las fuerzas de Seguridad Pública o Tránsito Municipal, cualquier autoridad o particular, tal como lo indica el artículo 16 párrafo V de la Constitución Política de los Estados Unidos Mexicanos, quienes deberán trasladar de inmediato al infractor ante el Juez Calificador o ante la Policía según sea el caso, poniéndolo a disposición de dicha autoridad, o cuando sea perseguido luego de cometerla, mediante boleta de remisión y/o del informe policial homologado considerado en el Código de Procedimientos Penales en el Estado de Puebla, acompañada de dictamen clínico/toxicológico, registro de cadena de custodia y la demostración de la lectura de derechos realizada por el elemento que efectuó la detención cuando el ordenamiento jurídico señalado entre en vigor.
+
+En los demás casos, el Juez Calificador ordenará la comparecencia del presunto infractor para poder substanciar el procedimiento en materia de faltas al presente Capítulo, con los apercibimientos correspondientes, indicando expresamente la posibilidad de recurrir a los mecanismos alternativos de solución de controversias con los que cuenta el Ayuntamiento de Puebla.
+
+En ningún caso quien presente al presunto infractor realizará ninguna calificación jurídica de los hechos, sino que al momento de presentarlo y durante el procedimiento se expresará solamente sobre los hechos, acciones u omisiones del presentado, así como las pruebas que tuviere a disposición. El Juez Calificador será, en todo momento quien, en relación a los hechos y pruebas recibidas determinará la infracción y la sanción que le corresponda.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -2369,13 +2421,19 @@ I. Número de folio y hora de la remisión;
 
 II. Nombre, edad y domicilio del presunto infractor, en caso de que se proporcione, en caso contrario, se señalará la descripción física del infractor;
 
-III. Una relación clara de la infracción o infracciones cometidas, anotando circunstancias de modo, tiempo y lugar;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+
+III. Una relación clara de los hechos y pruebas si las hubiere de la infracción o infracciones cometidas, anotando circunstancias de modo, tiempo y lugar;
 
 IV. Descripción de todas las pertenencias del presunto infractor;
 
 V. Nombre, domicilio y firma de la parte peticionaria si la hay; y
 
 VI. Nombre, número de placa, jerarquía, número de vehículo, sector y firma de la Autoridad remitente.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2012)</small>
+
+Una vez iniciada la vigencia del Código de Procedimientos Penales en el Estado de Puebla, el informe policial homologado y el registro de cadena de custodia a la que se refiere el artículo anterior, deberán estar elaboradas sin correcciones ni tachaduras, y realizados en los formatos aprobados por la Procuraduría General de la República o el Sistema Nacional de Seguridad Pública según corresponda, y en ningún caso hará mención a la calificación jurídica de los hechos, acciones u omisiones.
 
 ###### Artículo 213.
 
@@ -2457,11 +2515,25 @@ IV. La Dirección de Juzgados Calificadores;
 
 V. Los Juzgados Calificadores
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
-VI. La Dependencia del Honorable Ayuntamiento del Municipio de Puebla, que tenga a su cargo la Seguridad Pública y Tránsito Municipal; y
+VI. La Dependencia del Honorable Ayuntamiento, que tenga a su cargo la Seguridad Pública y Tránsito Municipal;
 
-VII. La dependencia del H. Ayuntamiento del Municipio de Puebla, que tenga a su cargo el control de giros comerciales.
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+
+VII. La Dependencia del H. Ayuntamiento, que tenga a su cargo el control de giros comerciales;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+
+VIII. La Dirección de Mediación, Conciliación y Arbitraje Condominal;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+
+IX. Los mediadores y conciliadores; y
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+
+X. Los Defensores.
 
 ###### Artículo 221.
 
@@ -2469,9 +2541,9 @@ Al C. Presidente Municipal corresponde:
 
 I. La designación y remoción del Director de los Juzgados Calificadores a propuesta del Síndico Municipal; y
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
-II. La designación y remoción de los Jueces Calificadores, Secretarios, Alcaides, Supervisores y Notificadores de los Juzgados Calificadores, a propuesta del Síndico Municipal.
+II. La designación y remoción de los Jueces Calificadores, Secretarios, Alcaides, Supervisores, Notificadores, Defensores y Defensores pasantes de los Juzgados Calificadores, a propuesta del Síndico Municipal.
 
 ###### Artículo 222.
 
@@ -2501,9 +2573,9 @@ V. Diseñar los procedimientos para la supervisión, control y evaluación peri�
 
 VI. Diseñar y desarrollar los contenidos del curso propedéutico correspondiente para la capacitación de los Jueces y Secretarios e instrumentar mecanismos de actualización mediante convenios con instituciones académicas, debiendo contar con la anuencia del Presidente Municipal;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
-VII. Promover la difusión de la Justicia Municipal a través de campañas de información sobre sus objetivos y procedimientos;
+VII. Promover la difusión de la Justicia, la Mediación, Conciliación y Arbitraje Condominal, a través de campañas de información sobre sus objetivos y procedimientos;
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -2513,25 +2585,25 @@ VIII. Proponer al Presidente Municipal normas y criterios para mejorar los recur
 
 IX. Proponer y establecer Convenios de Colaboración que contribuyan al mejoramiento de los servicios de los Juzgados Calificadores, tanto en materia de profesionalización, como de coordinación con otras Instancias Públicas o Privadas, de orden Federal o Local, en beneficio de toda persona que sea presentada ante el Juzgado; así como también para la designación de los representantes que asistan a los menores, en los procedimientos que regula este Código. Dichas bases tendrán como finalidad, la canalización de menores que se encuentren en riesgo;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
-X. Integrar el Registro de Infractores;
+X. Integrar el Registro de Infractores, mismo que contará con fotografía digital y huella dactilar digitalizada para la identificación de reincidencias;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
-XI. Establecer con la Secretaria de Seguridad Pública y Tránsito Municipal, los mecanismos necesarios para el intercambio de información respecto de las remisiones de infractores, procedimientos iniciados y concluidos, sanciones aplicadas e integración del Registro de Infractores;
+XI. Establecer con la Secretaría de Seguridad Pública y Tránsito Municipal, los mecanismos necesarios para el intercambio de información respecto de las remisiones de infractores, procedimientos iniciados y concluidos, sanciones aplicadas e integración del Registro de Infractores y la capacitación y certificación de los elementos de Seguridad Pública en materia de Informe Policial Homologado, Cadena de Custodia y Sistema Acusatorio Adversarial ya que corresponde a los elementos de dicha Secretaría, realizar las acusaciones e imputaciones durante el proceso de la Justicia Municipal, como lo establece el artículo 250 del presente ordenamiento legal;
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 XII. Establecer los mecanismos para la supervisión de la realización de actividades de apoyo a la comunidad;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
-XIII. Entregar copia simple o certificada sobre hechos asentados en las actas de audiencia y los libros de registro del Juzgado Calificador;
+XIII. Entregar copia simple o certificada sobre hechos asentados en las actas de audiencia y los libros de registro del Juzgado Calificador o de las grabaciones de audio y video que correspondan; facultad que puede ser delegada al Director de Juzgados Calificadores;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
-XIV. Convocar a las Asociaciones de Abogados, Barras y Colegios de Abogados que tengan debidamente acreditada su personalidad, para realizar y formular la convocatoria para examen de oposición para Jueces Calificadores para que una vez realizado el examen se conozcan los resultados y el Síndico Municipal proponga los nombramientos al Presidente Municipal; y
+XIV. Emitir la convocatoria para examen de oposición y establecer los criterios de selección para los cargos de Juez Calificador, Secretario, Defensores o Defensores pasantes en los Juzgados Calificadores. Los cargos a que se refiere esta fracción serán propuestos al Presidente Municipal por el Síndico Municipal; y
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -2553,13 +2625,17 @@ II. Recibir para su guarda y destino correspondiente, los documentos y objetos q
 
 III. Obtener la cooperación del DIF Municipal y de las Instituciones de Asistencia Social correspondientes para las personas presentadas en los Juzgados Calificadores, cuando se trate de menores de edad, enfermos graves o contagiosos, o que padezcan enfermedades mentales, toxicómanos o alcoholizados;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
-IV. Supervisar y aprobar, en su caso, los informes diarios que determinen y rindan los Jueces Calificadores; y
+IV. Supervisar y aprobar, en su caso, los informes diarios que determinen y rindan los Jueces Calificadores;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
-V. Las demás funciones que le confiera el Código y otras disposiciones legales.
+V. Establecer los exámenes de ingreso y confianza para todo el personal a su cargo en el momento que lo considere necesario; y
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+
+VI. Las demás funciones que le confiera el presente Código y otras disposiciones legales aplicables.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -2599,11 +2675,33 @@ I. Un Juez;
 
 II. Un Secretario;
 
-III. Un Alcaide; y
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
-IV. Dos Policías Preventivos comisionados por la Secretaría de Seguridad Pública y Tránsito Municipal.
+III. Un Alcaide;
 
-El Juez Calificador se auxiliará del Médico Legista del Tribunal Superior de Justicia adscrito a cada Delegación del Ministerio Público, o en su caso del Médico Itinerante que designe el Presidente Municipal por examen de oposición.
+> <small>(REFORMADA P.O. 25 DE MAYO DE 2012)</small>
+
+IV. Dos Policías Preventivos comisionados por la Secretaría de Seguridad Pública y Tránsito Municipal;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+
+V. Un Médico Legista;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+
+VI. Un Psicólogo;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+
+VII. Un Defensor designado; y/o
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+
+VIII. Un Defensor pasante quien cumplirá su servicio social en el Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
+
+El Juez Calificador se auxiliará del Médico Legista en turno adscrito al Juzgado, o en su caso, del Médico Legista del Tribunal Superior de Justicia adscrito a cada Delegación del Ministerio Público.
 
 Asimismo el Juez Calificador se auxiliará de un notificador adscrito a la Dirección de los Juzgados Calificadores.
 
@@ -2617,11 +2715,13 @@ El Juez Calificador deberá tomar las medidas necesarias para que los asuntos de
 
 Para ser Juez Calificador se requiere:
 
-I. Ser ciudadano mexicano por nacimiento;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+I. Ser ciudadano mexicano;
 
-II. Ser Licenciado en Derecho con más de un año de ejercicio profesional o acreditar haber terminado los estudios de licenciatura en derecho y que certifique su titulación automática por la institución de nivel superior así como contar con un año de experiencia, debiendo contar con Cédula y Título Profesional;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+
+II. Ser Abogado o Licenciado en Derecho con al menos un año de experiencia profesional, debiendo contar con Cédula y Título Profesional;
 
 III. Tener una vecindad no menor de tres años en el Municipio de Puebla;
 
@@ -2631,13 +2731,17 @@ IV. No ejercer ningún otro cargo público en la administración municipal;
 
 V. No haber sido sentenciado por la comisión de un delito doloso;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
-VI. No haber sido suspendido o inhabilitado para el desempeño de un cargo público; y
+VI. No haber sido suspendido o inhabilitado para el desempeño de un cargo público;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
-VII. Aprobar los exámenes que para tal efecto establece el presente Código.
+VII. Aprobar los exámenes que para tal efecto establezca la Dirección de Juzgados Calificadores; y
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+
+VIII. Estar certificado en el procedimiento Acusatorio Adversarial y Oral por Institución independiente de cualquier orden de gobierno o educativa.
 
 ###### Artículo 227.
 
@@ -2667,9 +2771,9 @@ Entre particulares, cuando con motivo de la comisión de alguna infracción se c
 
 IV. Expedir constancia sobre hechos asentados en los libros de registro del Juzgado Calificador;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
-V. Dirigir administrativamente las labores del Juzgado Calificador e informar de manera inmediata las ausencias del personal a la Dirección de los Juzgados Calificadores;
+V. Dirigir administrativamente las labores del Juzgado Calificador e informar de manera inmediata las ausencias del personal o cualquier falta a la Dirección de los Juzgados Calificadores, en el entendido de ser el Jefe directo de su personal al que deberán obedecerle de manera expresa;
 
 VI. Solicitar el auxilio de la fuerza pública en caso de que así se requiera, para el adecuado funcionamiento del Juzgado Calificador;
 
@@ -2705,21 +2809,27 @@ XIV. La ejecución de los arrestos que impongan las Autoridades Administrativas 
 
 XV. De las conductas establecidas en el Capítulo 27 del Código Reglamentario para el Municipio de Puebla, conocerá esta Autoridad Municipal y serán sancionadas en los términos establecidos en el artículo 1920 de dicho ordenamiento legal;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
-XVI. Brindarán orientación legal a quien lo solicite y tratándose de quejas entre particulares, dejarán constancia de la orientación y los canalizarán mediante oficio, a los órganos competentes cuando proceda y mediante tres citatorios se buscará la mediación; y
+XVI. Brindarán orientación legal a quien lo solicite y tratándose de quejas entre particulares, dejarán constancia de la orientación y los canalizarán mediante oficio, a los órganos competentes cuando proceda y mediante tres citatorios se buscará la mediación;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
-XVII. Las demás atribuciones que le confieran este Reglamento y otros ordenamientos.
+XVII. En función de la competencia que corresponda, dar vista y/o poner a disposición del Agente del Ministerio Público Local o Federal, de manera directa por medio de oficio informativo a los infractores que considere han cometido delito, sea del orden estatal o federal y, en caso de que cualesquiera de ellos no acuda al aviso que se le dé, deberá poner en inmediata libertad al infractor, una vez concluido su arresto y/o pagada su multa; y
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+
+XVIII. Las demás atribuciones que le confieran este Reglamento y otros ordenamientos.
 
 ###### Artículo 230.
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2008)
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
+
 ###### Artículo 231.
 
-El Juez Calificador deberá solicitar el auxilio del Médico del Tribunal Superior de Justicia adscrito a la Delegación correspondiente, para la emisión de los dictámenes de su especialidad y la realización de las funciones acordes con su profesión.
+El Juez Calificador deberá solicitar el auxilio del Médico Legista que corresponda en turno, o en su caso, del Médico del Tribunal Superior de Justicia adscrito a la Delegación correspondiente, para la emisión de los dictámenes de su especialidad y la realización de las funciones acordes con su profesión.
 
 ###### Artículo 232.
 
@@ -2759,17 +2869,29 @@ VII. Reportar inmediatamente al servicio de Localización Telefónica de la Admi
 
 Para ser Secretario del Juzgado Calificador, se requiere:
 
-I. Ser ciudadano mexicano por nacimiento;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
-II. Contar con carta de Pasante de la Licenciatura en Derecho;
+I. Ser ciudadano mexicano;
+
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+
+II. Acreditar haber terminado la carrera de Licenciatura en Derecho con documento idóneo expedido por la institución educativa correspondiente;
 
 III. No ejercer ningún otro cargo público en la administración municipal;
 
 IV. No haber sido sentenciado por la comisión de un delito doloso;
 
-V. No haber sido suspendido o inhabilitado para el desempeño de un cargo público; y
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
-VI. Aprobar los exámenes que para tal efecto establece el Presente Código.
+V. No haber sido suspendido o inhabilitado para el desempeño de un cargo público;
+
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+
+VI. Aprobar los exámenes que para tal efecto establezca la Dirección de Juzgados Calificadores; y
+
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+
+VII. Estar certificado en el procedimiento Acusatorio Adversarial y Oral por Institución independiente de cualquier orden de gobierno o educativa.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -2777,17 +2899,29 @@ VI. Aprobar los exámenes que para tal efecto establece el Presente Código.
 
 Para ser Jefe de Departamento de Supervisión y Supervisor de Juzgados Calificadores, se requiere:
 
-I. Ser ciudadano mexicano por nacimiento;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
-II. Ser Abogado o Licenciado en Derecho, contando con título y cédula profesional, y por lo menos con un año de experiencia en el ejercicio de la profesión;
+I. Ser ciudadano mexicano;
+
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+
+II. Ser Abogado o Licenciado en Derecho con al menos un año de experiencia profesional, debiendo contar con Cédula y Título Profesional;
 
 III. No ejercer ningún otro cargo público en la administración municipal;
 
 IV. No haber sido sentenciado por la comisión de un delito doloso;
 
-V. No haber sido suspendido o inhabilitado para el desempeño de un cargo público; y
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
-VI. Aprobar los exámenes que para tal efecto establece el Presente Código.
+V. No haber sido suspendido o inhabilitado para el desempeño de un cargo público;
+
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+
+VI. Aprobar los exámenes que para tal efecto establezca la Dirección de Juzgados Calificadores; y
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+
+VII. Estar certificado en el procedimiento Acusatorio Adversarial y Oral por Institución independiente de cualquier orden de gobierno o educativa.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -2845,7 +2979,9 @@ IV. Las demás que establezca la Dirección de los Juzgados Calificadores.
 
 Para ser Notificador del Juzgado Calificador, se requiere:
 
-I. Ser ciudadano mexicano por nacimiento;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+
+I. Ser ciudadano mexicano;
 
 II. Contar con estudios de Educación Media Superior;
 
@@ -2853,9 +2989,17 @@ III. No ejercer ningún otro cargo público en la administración municipal;
 
 IV. No haber sido sentenciado por la comisión de un delito doloso;
 
-V. No haber sido suspendido o inhabilitado para el desempeño de un cargo público; y
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
-VI. Aprobar los exámenes que para tal efecto establece el presente Código.
+V. No haber sido suspendido o inhabilitado para el desempeño de un cargo público;
+
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+
+VI. Aprobar los exámenes que para tal efecto establezca la Dirección de Juzgados Calificadores; y
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+
+VII. Estar certificado en el procedimiento Acusatorio Adversarial y Oral por Institución independiente de cualquier orden de gobierno o educativa.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -2865,29 +3009,45 @@ Al Alcaide de los Juzgados Calificadores corresponderá:
 
 I. Ejecutar las órdenes de la Autoridad competente, de remisiones, custodia y vigilancia; así como la presentación de los infractores y detenidos ante éstas;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
-II. Ejecutar las órdenes del Juez Calificador;
+II. Ejecutar las órdenes del Director de Juzgados Calificadores, del Jefe de Departamento de Supervisión, de los Supervisores, del Juez Calificador y del Secretario del Juzgado;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+III. (DEROGADA, P.O. 25 DE MAYO DE 2012)
 
-III. La vigilancia sobre las celdas de la delegación, auxiliado de un elemento de la Policía Preventiva Municipal;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+IV. Vigilar las celdas y área de seguridad de los Juzgados Calificadores, así como las demás instalaciones donde se encuentren los infractores, auxiliado de un elemento de la Policía Preventiva Municipal si se cuenta con éste, de lo contrario el Alcaide se encargará de la vigilancia de las mismas;
 
-IV. La vigilancia del área de seguridad de las delegaciones, auxiliado de los elementos de la Policía Preventiva Municipal;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+V. Mantener la salubridad e higiene de las celdas y áreas de seguridad de los Juzgados Calificadores, entendiéndose por esto, realizar las actividades de limpieza en general con el material que se proporcione para ello;
 
-V. Mantener la salubridad e higiene de las celdas; y (sic)
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+VI. Revisar minuciosamente los alimentos y artículos que la autoridad competente autorice para ingresar a los detenidos, no permitiendo aquéllos que representen un peligro para los mismos;
 
-VI. Vigilar la introducción de alimentos para los infractores;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
 VII. Presentar a los infractores cuantas veces lo disponga el Juez Calificador;
 
 VIII. No permitirá la estancia de los remisos o detenidos en la sección de la Alcaldía, sino que inmediatamente de recibirlos deberá trasladarlos a la celda.
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+
+IX. Reportar al Jefe inmediato, sobre cualquier alteración perceptible del estado físico o emocional de los detenidos e infractores, con el fin de salvaguardar su integridad física y psicológica a través de la constante revisión a las áreas de seguridad;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+
+X. Auxiliar al Juez Calificador y Secretario en el desahogo de todas las audiencias que se lleven a cabo en el Juzgado Calificador;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+
+XI. Reportar constantemente al Departamento de Supervisión, sobre el deterioro, daños y mal funcionamiento del área de seguridad, las celdas y sus accesorios, que a su vez puedan representar la facilidad para la evasión de los detenidos, así como un peligro a su integridad física y del personal del Juzgado Calificador; y
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+
+XII. Retirar a los detenidos objetos de valor prohibidos o que puedan representar algún peligro para su integridad física, durante su estancia en el área de seguridad e inmediatamente ponerlos a resguardo de la autoridad que lo tiene a su disposición.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -2895,7 +3055,9 @@ VIII. No permitirá la estancia de los remisos o detenidos en la sección de la 
 
 Para ser Alcaide de los Juzgados Calificadores, se requiere:
 
-I. Ser ciudadano mexicano por nacimiento;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+
+I. Ser ciudadano mexicano;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -2903,19 +3065,73 @@ II. No ejercer ningún otro cargo público en la administración municipal;
 
 III. No haber sido sentenciado por la comisión de un delito doloso;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
-IV. Contar con escolaridad media; y
+IV. Contar con escolaridad media;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
-V. Aprobar los exámenes que para tal efecto establece el Presente Código.
+V. Aprobar los exámenes que para tal efecto establezca la Dirección de Juzgados Calificadores; y
+
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+
+VI. Aprobar los exámenes de confianza que determine la Dirección de Juzgados Calificadores.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2012)</small>
+
+###### Artículo 235 Bis.
+
+Para ser Defensor se requiere:
+
+I. Ser ciudadano mexicano;
+
+II. Ser Abogado o Licenciado en Derecho con al menos un año de experiencia profesional, debiendo contar con Cédula y Título Profesional;
+
+III. No ejercer ningún otro cargo público en la Administración Municipal;
+
+IV. No haber sido sentenciado por la comisión de un delito doloso;
+
+V. No haber sido suspendido o inhabilitado para el desempeño de un cargo público;
+
+VI. Aprobar los exámenes que para tal efecto establezca la Dirección de Juzgados Calificadores; y
+
+VII. Estar certificado en el procedimiento Acusatorio Adversarial y Oral por Institución independiente de cualquier orden de gobierno o educativa.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2012)</small>
+
+###### Artículo 235 Ter.
+
+Para ser Defensor pasante se requiere:
+
+I. Ser ciudadano mexicano;
+
+II. Ser pasante o alumno terminal, en condición de prestar servicio social de la Licenciatura en Derecho, contando con carta respectiva de la universidad con la cual debe existir convenio con el Ayuntamiento de Puebla, para los efectos de realizar el servicio social en el cumplimiento de estas funciones, y con un promedio general no inferior a 8 (ocho).
+
+III. No ejercer ningún otro cargo público en la Administración Municipal;
+
+IV. No haber sido sentenciado por la comisión de un delito doloso;
+
+V. No haber sido suspendido o inhabilitado para el desempeño de un cargo público;
+
+VI. Aprobar los exámenes que para tal efecto establezca la Dirección de Juzgados Calificadores; y
+
+VII. Estar certificado en el procedimiento Acusatorio Adversarial y Oral por Institución independiente de cualquier orden de gobierno o educativa.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2012)</small>
+
+###### Artículo 235 Quáter.
+
+Corresponde a los Defensores designados y a los Defensores pasantes, asistir a los infractores desde el momento de su presentación ante el Juez Calificador por los elementos de seguridad pública o desde su presentación en función del citatorio respectivo, independientemente del tipo de infracción de que se trate
+
+En caso de ser remitido ante el Ministerio Público, acompañarlo hasta tanto sea atendido y representado por el Defensor de Oficio o Defensor Público de la Institución respectiva o Defensor particular.
 
 DEL PROCEDIMIENTO
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
+
 ###### Artículo 236.
 
-Radicado el asunto ante el Juez Calificador, éste procederá a informar al presunto infractor el derecho que tiene a comunicarse con persona que le asista y defienda; haciéndose constar por parte del Juez Calificador en turno, dentro del procedimiento respectivo, el ejercicio por parte del infractor, del derecho que le confiere el presente artículo, señalando el medio que tuvo al alcance el infractor para ejercer el mismo.
+Radicado el asunto ante el Juez Calificador, éste procederá a informar al presunto infractor el derecho que tiene a comunicarse con persona que le asista y defienda; de no tener Defensor particular, se informará inmediatamente al Defensor designado o Defensor pasante para que lo asista durante todo el procedimiento, dejándose debida constancia.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -3041,11 +3257,11 @@ En caso de que el responsable solidario no cubriera la multa impuesta por el Jue
 
 En el caso de reincidencia de la conducta del menor a que se refiere el artículo se aplicará doble sanción a los responsables solidarios.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
 
-###### Artículo 236 Septies.
+###### Artículo 236 Sépties.
 
-Las faltas sólo se sancionarán, cuando se hubiesen consumado y la potestad para castigarlas prescribe a partir del tercer día en que se cometen.
+Las faltas sólo se sancionarán, cuando se hubiesen consumado o cuando su no consumación se deba a hechos ajenos a la voluntad del infractor y la potestad para sancionarlas prescribe a partir del tercer día en que se cometen; en los casos de infracciones continuas o continuadas, la prescripción comenzará a contarse desde que la falta deje de cometerse.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -3053,9 +3269,11 @@ Las faltas sólo se sancionarán, cuando se hubiesen consumado y la potestad par
 
 Si el probable infractor solicita tiempo para comunicarse con la persona que le asista y defienda, el Juez suspenderá el procedimiento y le facilitará los medios idóneos para su aplicación, concediéndole un plazo prudente que no excederá de dos horas para que se presente el defensor.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2012)</small>
+
 ###### Artículo 238.
 
-Cuando la persona presentada se encuentre en estado de ebriedad o bajo el influjo de estupefacientes o substancias psicotrópicas, el Juez Calificador podrá solicitar al Médico del Tribunal Superior de Justicia que previo examen, dictamine el estado físico del infractor y señale el plazo probable de recuperación, el cual se tomará como base para iniciar el procedimiento.
+Cuando la persona presentada se encuentre en estado de ebriedad o bajo el influjo de estupefacientes o substancias psicotrópicas, el Juez Calificador podrá solicitar al Médico Legista del Juzgado Calificador, o en su caso, al Médico Legista del Tribunal Superior de Justicia adscrito a cada Delegación del Ministerio Público, que previo examen, dictamine el estado físico del infractor y señale el plazo probable de recuperación, el cual se tomará como base para iniciar el procedimiento.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -3093,31 +3311,45 @@ d) Si transcurridas tres horas a partir del llamado a la Dirección de los Juzga
 
 DE LOS MENORES DE EDAD
 
-> <small>(REFORMADO Y REUBICADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2012)</small>
 
 ###### Artículo 242.
 
-Si se presenta un menor de edad y se presume que no tiene cumplidos los doce años de edad, se solicitará al médico o perito autorizado, dictamine la mayoría o minoría de edad, y al ser menor de doce años se sobreseerá el procedimiento, el Juez procurará que un familiar acuda al juzgado por el menor, si no acude en dos horas, el Juez lo remitirá (sic) alguna de las Instituciones Públicas de Asistencia Social.
+Si se presenta un menor de edad y se presume que no tiene cumplidos los doce años de edad, se solicitará al Médico Legista de turno o perito autorizado, dictamine la mayoría o minoría de edad, y al ser menor de doce años se sobreseerá el procedimiento, el Juez procurará que un familiar acuda al Juzgado por el menor, si no acude en dos horas, el Juez lo remitirá a alguna de las Instituciones Públicas de Asistencia Social.
 
-Si el menor tuviera entre doce y catorce años de edad y no acudieran sus padres al juzgado, en un término de dos horas, se remitirá a alguna de las Instituciones mencionadas en el párrafo que antecede y cuando el presentado tenga catorce años y menos de dieciocho años, se observarán las siguientes reglas:
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
+
+Si el menor tuviera entre doce y catorce años de edad y no acudieran sus padres al Juzgado, en un término de dos horas, se suspenderá la audiencia para que ellos se presenten, y de no hacerlo en un plazo de 24 horas se hará la denuncia ante el Ministerio Público por abandono. En todos los casos se remitirá al menor a alguna de las instituciones mencionadas en el párrafo que antecede, y cuando el presentado tenga catorce años y menos de dieciocho años, al igual que si tiene más de 12 (Doce) y menos de 14 (Catorce) años se observarán las siguientes reglas:
+
+> <small>(REFORMADA Y REUBICADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 I. El Juez realizará las diligencias necesarias, para lograr la comparecencia de la persona que ejerza la custodia o tutela legal o derecho del menor, para que lo asista y se encuentre presente en el procedimiento;
 
+> <small>(REFORMADA Y REUBICADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 II. En tanto acude quien custodia o tutela al menor, éste deberá permanecer en la oficina del Juzgado, en área destinada para ello;
+
+> <small>(REFORMADA Y REUBICADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 III. Si por cualquier causa no asistiera el responsable del menor en un plazo de dos horas, se otorgará una prórroga de dos horas;
 
-IV. Si al término de la prórroga no asistiera el responsable, el Juez le nombrará un representante del Gobierno Municipal, para que lo asista y defienda en su caso, será preferentemente un abogado que designe el DIF Municipal. Una vez que cuente con la asistencia legal, se sustanciará el procedimiento sumario en términos del artículo 244 de este Capítulo, si transcurridas dos horas no llegara el representante, se sobreseerá el procedimiento;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+
+IV. Si al término de la prórroga no asistiera el responsable, el Juez le nombrará un Defensor designado o Defensor pasante para que lo asista y defienda en su caso, que preferentemente será acompañado por un Abogado que designe el DIF Municipal. Una vez que cuente con la asistencia legal, se sustanciará el procedimiento sumario en términos del artículo 244 de este Capítulo, si transcurridas dos horas no llegara el representante, se sobreseerá el procedimiento;
+
+> <small>(REFORMADA Y REUBICADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 V. Si a consideración del Juez el adolescente, se encontrara en situación de riesgo o abandono por no contar con familiares, se enviará ante las Autoridades del DIF a efecto de que reciba la atención correspondiente; los Jueces Calificadores podrán solicitar por escrito o forma verbal a la Secretaría de Seguridad Pública y Tránsito Municipal, que instruya entre su personal quien deberá realizar el traslado correspondiente; y
 
+> <small>(REFORMADA Y REUBICADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 VI. No se alojará a menores acusados de la comisión de una falta administrativa en lugares destinados a la detención, reclusión o arresto de mayores de edad.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
 
 ###### Artículo 242 Bis.
 
-El procedimiento señalado en el artículo anterior, se efectuará en presencia del menor infractor a quien se le amonestará para que no reincida, facultándose al Juez Calificador, en términos de la fracción I del artículo 229 de este Código proceda su incorporación a la comisión, dependencia, institución, órgano o cualquier otra que para tal efecto se establezca, a fin de lograr su reinserción familiar y desarrollo social.
+El procedimiento señalado en el artículo anterior, se efectuará en presencia del menor infractor bajo los principios del sistema Acusatorio Adversarial y Oral, a quien se le amonestará para que no reincida, facultándose al Juez Calificador, en términos de la fracción I del artículo 229 de este Código, proceda su incorporación a la comisión, dependencia, institución, órgano o cualquier otra que para tal efecto se establezca, a fin de lograr su reinserción familiar y desarrollo social.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -3125,19 +3357,21 @@ El procedimiento señalado en el artículo anterior, se efectuará en presencia 
 
 Para la aplicación del procedimiento e imposición de sanciones, la edad de los menores, se acreditará mediante certificación o constancia de inscripción de su nacimiento en el Registro del Estado Civil de las Personas o en su defecto se determinará, por medio del dictamen médico legista o de perito autorizado.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
 
 ###### Artículo 243.
 
-El Juez Calificador dará vista al Agente del Ministerio Público Local o Federal, o al Ministerio Público especializado en Justicia para Adolescentes, respectivamente, mediante remisión de aquellos hechos que en su concepto puedan constituir delito y que tenga conocimiento de éstos durante el desarrollo del procedimiento con motivo de sus funciones independientemente de imponer la sanción que corresponda.
+El Juez Calificador dará vista y pondrá a disposición del Agente del Ministerio Público Local o Federal, o al Ministerio Público especializado en Justicia para Adolescentes, respectivamente, mediante remisión de aquellos hechos que en su concepto puedan constituir delito y que tenga conocimiento de éstos durante el desarrollo del procedimiento con motivo de sus funciones, independientemente de imponer la sanción que corresponda.
 
 DE LAS AUDIENCIAS
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
 
 ###### Artículo 244.
 
-El procedimiento en materia de faltas al presente Capítulo, de probables infractores mayores de edad, se substanciará en presencia del remitido practicando el Juez Calificador una averiguación sumaria tendiente a comprobar la falta cometida y la responsabilidad del remitido, se substanciará en una sola audiencia, levantándose acta pormenorizada que firmarán los que en ellas intervinieron. El procedimiento será oral y las audiencias públicas, levantándose constancia por escrito de lo actuado y las mismas se realizarán en forma pronta y expedita sin más formalidades que las establecidas en este Capítulo.
+El procedimiento en materia de faltas al presente Capítulo, de probables infractores mayores de edad, se substanciará en presencia del remitido bajo los principios del sistema Acusatorio Adversarial y Oral basado en la acusación que deberá formular de manera oral el elemento que realizó la detención, acompañada de boleta de remisión y/o del Informe Policial Homologado y Cadena de Custodia tendiente a comprobar la falta cometida y la responsabilidad del remitido, se substanciará en una sola audiencia, levantándose acta pormenorizada que firmarán los que en ellas intervinieron, misma que podrá ser reemplazada por las copias certificadas de Audio y Video.
+
+El procedimiento será oral y las audiencias públicas, levantándose constancia por escrito de lo actuado, o realizándose copias de Audio y Video y las mismas se realizarán en forma pronta y expedita sin más formalidades que las establecidas en este Capítulo.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -3145,19 +3379,39 @@ El procedimiento en materia de faltas al presente Capítulo, de probables infrac
 
 En la audiencia el Juez levantará inventario de los objetos o instrumentos que presente el remitido y tratándose de aquéllos que pudieran perturbar el orden o ser utilizados para delinquir se decomisarán y formarán parte del Patrimonio del Ayuntamiento, quien decidirá su destino.
 
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2012)</small>
+
+En caso de ser remitido al Ministerio Público, si estos fueran objetos prohibidos, se acompañarán de la debida Cadena de Custodia realizada por el Secretario.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2012)</small>
+
+Si los objetos o instrumentos no son de aquéllos que perturben el orden o fueron utilizados para delinquir y no fueran reclamados en un término de 30 días hábiles, o en su caso, no se acredite fehacientemente la propiedad de los mismos por el infractor, éstos pasarán de inmediato a ser propiedad del Ayuntamiento de Puebla, quien podrá disponer libremente de su destino o utilización e incluso ordenar su venta si así lo considera.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2012)</small>
+
+La decisión del destino de los bienes será exclusiva del Director de Juzgados Calificadores, estando presente en todo momento la Contraloría Municipal.
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 246.
 
 En la averiguación a que se refiere el artículo 244 se seguirá el siguiente procedimiento:
 
-I. Se escuchará al quejoso o al representante de la Autoridad que haya remitido al inculpado, acerca de los hechos materia de la causa;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
-II. Se hará saber al probable infractor la falta o faltas que motivaron su remisión y manifestará lo que a su derecho convenga;
+I. Se escuchará al quejoso o al representante de la autoridad que haya remitido al inculpado, acerca de los hechos materia de la causa; y a su defensor, previa lectura de los derechos consagrados en el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos y se le recibirán todas las pruebas que obren en su poder, debiendo el Juez Calificador por los medios a su alcance, facilitar la producción de las mismas en caso de ser necesario;
 
-III. Se recibirán las pruebas que aporte el inculpado en su defensa y se escucharán los alegatos y el Juez Calificador dictará su resolución haciendo la calificación correspondiente a la sanción impuesta, fundando y motivando su determinación, firmando el acta respectiva; y
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
-IV. Emitida la resolución, el Juez Calificador notificará personalmente al infractor y al denunciante si lo hubiere.
+II. Se hará saber al probable infractor la falta o faltas que motivaron su remisión y manifestará lo que a su derecho convenga, previo ser asistido por su defensor; acto seguido el elemento que realiza la detención o la Unidad Administrativa del H. Ayuntamiento que corresponda formulará la imputación de manera concreta. De no realizarse imputación por quienes tienen la obligación de hacerlo, el Juez ordenará de inmediato la libertad del probable infractor.
+
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+
+III. Se recibirán las pruebas que aporte el inculpado en su defensa incluyendo las copias de Audio y Video, y se escucharán los alegatos de la Unidad del Ayuntamiento que corresponda como acusador y luego los de la defensa y del propio inculpado si es que quiere hacerlo, y el Juez Calificador dictará su resolución haciendo la calificación correspondiente a la sanción impuesta, fundando y motivando su determinación, firmando el acta respectiva;
+
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+
+IV. Emitida la resolución, el Juez Calificador notificará personalmente al infractor, a su defensor y al denunciante si lo hubiere; (sic)
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -3187,11 +3441,15 @@ El recibo al que se refiere el artículo anterior, deberá contenerse en el talo
 
 En todos los procedimientos el Juez Calificador, respetará la garantía de previa audiencia, el principio de legalidad y el derecho de petición consagrados en los artículos 8, 14, 16, 17, 18, 20, 21 y 22 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2012)</small>
+
+Cuando el procedimiento lo permita, a petición de cualquiera de las partes, se podrá trasladar el mismo a los sistemas de medios alternativos de solución de controversias con los que cuenta el H. Ayuntamiento de Puebla, debiendo el Juez Calificador registrar los casos en que ello ocurra y darle seguimiento luego de la Audiencia de Conciliación.
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
 
 ###### Artículo 251.
 
-En todo lo no previsto en este Capítulo, se aplicarán las disposiciones del Código de Defensa Social para el Estado Libre y Soberano de Puebla, Código de Procedimientos en Materia de Defensa Social del Estado Libre y Soberano de Puebla y Código de Justicia para Adolescentes del Estado Libre y Soberano de Puebla.
+En todo lo no previsto en este Capítulo, se aplicarán las disposiciones del Código de Defensa Social para el Estado Libre y Soberano de Puebla, Código de Procedimientos en Materia de Defensa Social para el Estado Libre y Soberano de Puebla, Código de Procedimientos Penales del Estado Libre y Soberano de Puebla y Código de Justicia para Adolescentes del Estado Libre y Soberano de Puebla.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -3721,7 +3979,7 @@ La Secretaría de Seguridad Pública y Tránsito Municipal, por conducto de la D
 
 El proyecto e instalación de dispositivos y marcas de señalamiento, se harán con base en el Manual para el Control de Tránsito en Calles y Carreteras o en las normas oficiales de carácter técnico que lo sustituyan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 285.
 
@@ -3825,7 +4083,7 @@ La Dirección de Tránsito Municipal marcará sobre el pavimento de las calles, 
 
 A la Dirección de Tránsito Municipal le corresponde señalar las zonas o lugares de la vía pública en donde el estacionamiento esté permitido, sujeto a horarios especiales, limitado a vehículos oficiales o prohibido, mandando pintar en el primer caso una franja blanca sobre la guarnición de las banquetas y en los tres supuestos siguientes, un franja de color amarillo sin perjuicio de utilizar o autorizar otro tipo de señalizaciones con el mismo fin. En todo caso, se debe procurar que los accesos vehiculares a inmuebles de propiedad pública o privada se mantengan libres de obstáculos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 290.
 
@@ -3873,7 +4131,7 @@ Para este objeto, la Dirección de Tránsito debe tomar en cuenta las zonas come
 
 DE LOS ESTACIONAMIENTOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 293.
 
@@ -3889,7 +4147,7 @@ III. En todo caso los conductores deben observar estrictamente las disposiciones
 
 IV. Los vehículos no podrán ser estacionados fuera de los lugares permitidos para ese efecto, ni a menos de diez metros de la esquina en donde no se encuentre marcada la limitación correspondiente; tampoco podrá estacionarse en o cerca de una curva, o la cima donde el vehículo no pueda ser visto por otro a una distancia de seguridad, de acuerdo con la velocidad permitida en la vía.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 294.
 
@@ -4417,7 +4675,7 @@ V. Los demás que determinen las autoridades competentes, en los diferente (sic)
 
 La tramitación de los dictámenes a que se refiere esta Sección, se sujetará a las siguientes disposiciones:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 I. La solicitud se hará por escrito ante la Dirección de Tránsito Municipal, proporcionando los siguientes datos:
 
@@ -4459,7 +4717,7 @@ V. Prevenir y evitar que en dichos lugares se propicien o realicen actos graves,
 
 VI. Las demás que se contengan en los ordenamientos vigentes o establezcan las autoridades competentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 342.
 
@@ -4523,7 +4781,7 @@ La Secretaría de Seguridad Pública y Tránsito Municipal, por acuerdo del Pres
 
 DE LOS PROCEDIMIENTOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 348.
 
@@ -4579,7 +4837,7 @@ X. En caso de que el infractor no esté presente en el momento en que se levante
 
 XI. A la persona que conduzca en estado de ebriedad o bajo el influjo de estupefacientes, enervantes, psicotrópicos o cualquier otra sustancia que produzca efecto similar, se deberá practicar el dictamen médico y toxicológico, para determinar la sanción.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 349.
 
@@ -4625,7 +4883,7 @@ IV. En el caso de que el conductor sobrepase el límite permitido de alcohol o n
 
 V. El agente entregará un ejemplar del comprobante de los resultados de la prueba al Juez Calificador, documento que constituirá prueba fehaciente de la cantidad de alcohol o narcóticos encontrados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 350 Quinquies.
 
@@ -4707,7 +4965,7 @@ DE LAS FALTAS, MEDIDAS DE SEGURIDAD Y SANCIONES
 
 La Dirección de Tránsito Municipal, aplicará a los propietarios o conductores de vehículos, medidas de seguridad y sanciones por faltas o violaciones a cualquiera de las normas de este Capítulo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 358.
 
@@ -4745,7 +5003,7 @@ h) Dará aviso a la Autoridad competente de los hechos u omisiones para que proc
 
 Para el retiro de vehículos de la circulación, se hará uso de la grúa si fuere necesario y para la inmovilización de los mismos los medios mecánicos que se consideren pertinentes, cuidando en ambos casos no dañar los vehículos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 359.
 
@@ -4757,7 +5015,7 @@ II. Multa por el importe de 2 a 40 días de salario mínimo general vigente en e
 
 Las anteriores sanciones se aplicarán, sin perjuicio de las que procedan conforme al Código de Defensa Social del Estado de Puebla, el Capítulo de Policía y Gobierno de este Código Reglamentario o algún otro ordenamiento que resulte aplicable.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 360.
 
@@ -4765,7 +5023,7 @@ Cuando una persona infrinja por primera vez este Capítulo, de acuerdo con la ba
 
 TABULADORES DE INFRACCIONES Y SANCIONES
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ###### Artículo 361.
 
@@ -4889,13 +5147,13 @@ VII. Señalamiento en el anverso de que en contra de los actos y resoluciones re
 
 VIII. Nombre, número y firma de la gente de vialidad que levante la infracción.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 372.
 
 El conductor que pudiera ser responsable de una falta administrativa o infracción a las disposiciones del Capítulo 9 denominado "Policía y Gobierno" del presente Código, será puesto a disposición de la Autoridad Administrativa correspondiente, según sea el caso, siendo también responsable del pago de las multas impuestas conforme al presente Capítulo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Los agentes de tránsito o la Dirección de Tránsito, además de remitir en su caso los vehículos involucrados en algunos de los hechos referidos en el párrafo anterior, deben denunciar ante el Ministerio Público correspondiente, bajo su responsabilidad, a los conductores que cometan alguno de los siguientes hechos:
 
@@ -5515,7 +5773,7 @@ Las disposiciones establecidas en éste Capítulo, deberán ser observadas por l
 
 Se entiende como sitio público para los efectos de éste Capítulo, los edificios de departamentos, industriales, comercios, salas de espectáculos, hospitales, instalaciones deportivas o recreativas, laboratorios o cualquier otro semejante a los anteriores, a juicio del Ayuntamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 409.
 
@@ -5571,7 +5829,7 @@ Los sitios públicos consistentes en hoteles, hospitales, comercios, salas de es
 
 Los accionadores de alarma estarán en lugares visibles desde toda área y el número que en ellos deba instalarse, será establecido por la Unidad Operativa Municipal de Protección Civil y las pruebas a estos sistemas deberán efectuarse cuando menos cada 60 días, llevando bitácora del mismo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 415.
 
@@ -6075,7 +6333,7 @@ DE LAS AUTORIZACIONES
 
 Se requiere para la presentación de espectáculos públicos, permiso por escrito que expida la Coordinación de Fiscalización de Espectáculos Públicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 480.
 
@@ -6253,7 +6511,7 @@ Las instalaciones provisionales a que se refiere el artículo anterior, o cualqu
 
 Los promotores que presenten espectáculos en carpas o en instalaciones móviles, serán responsables del aseo, higiene, conservación del lugar en que se coloquen y de la vía pública, en la porción que ocupen.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 DE LA SEGURIDAD
 
@@ -6313,7 +6571,7 @@ El promotor de espectáculos y el personal de seguridad privada o auxiliar será
 
 La cantidad de elementos de seguridad privada o auxiliar en el interior del establecimiento, lo determinará la Coordinación de Fiscalización de Espectáculos Públicos, la Unidad Operativa Municipal de Protección Civil y la Secretaría de Seguridad Pública y Tránsito Municipal en razón de los niveles de asistencia de los espectadores y el espectáculo de que se trate.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 DE LAS OBLIGACIONES DE LOS PROMOTORES DE ESPECTACULOS
 
@@ -6383,11 +6641,11 @@ XXVIII. Colocar contenedores para el depósito de los residuos que se generen en
 
 XXIX. Especificar y proporcionar el espacio destinado para las personas con discapacidad, que corresponderá el 2% en el caso de que los aforos sean menores a cinco mil personas, 1% cuando oscilen de cinco mil a veinte mil personas, y 0.5% cuando el aforo sea mayor de veinte mil por cada área que corresponda en el inmueble.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 DE LAS PROHIBICIONES DE LOS PROMOTORES DE ESPECTACULOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 490.
 
@@ -6513,7 +6771,7 @@ IV. La cancelación del permiso concedido.
 
 Independientemente de las sanciones aplicables, la Unidad Operativa Municipal de Protección Civil, clausurará o desmontará de oficio las instalaciones de cualquier clase en las que se realicen espectáculos, cuando pongan en peligro la integridad física de las personas o su patrimonio económico, para lo cual se levantará acta circunstanciada en presencia de dos testigos, en la que se asentarán los hechos que dieron lugar a la medida de seguridad aplicada.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 492.
 
@@ -7665,7 +7923,7 @@ La venta de bebidas alcohólicas sólo podrá realizarse en los tipos de estable
 
 Los establecimientos a que se refieren las fracciones I, II, VII, XV y XVI del artículo 611 del presente Código que menciona los tipos de establecimientos, no están autorizados para permitir el consumo de bebidas alcohólicas dentro de los mismos; por lo que el consumo de éstas sólo podrá realizarse en los locales o áreas en que operan los establecimientos que señale este Capítulo en las fracciones III, IV, V, VI, VIII, IX, X, XI, XII XIII, XIV, XVII, XVIII y XIX del citado artículo.
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
@@ -7679,13 +7937,13 @@ Para la apertura y funcionamiento de establecimientos en los que se vendan, enaj
 
 Para el caso de eventos temporales que impliquen el proceso, almacenamiento, enajenación o venta de bebidas alcohólicas en botella abierta o cerrada, a solicitud del interesado y previo pago de los derechos correspondientes. La Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos, otorgará una licencia provisional.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2006)</small>
 
 ###### Artículo 606.
 
 Las licencias de funcionamiento expedidas a favor de personas físicas o morales, sólo podrán ser transferidas si se encuentran funcionando los establecimientos y cumplen con los requisitos establecidos en el presente Capítulo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 Se hará constar la transferencia a que se refiere el párrafo anterior, ante el Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos de la Tesorería Municipal, reuniendo el licenciatario los siguientes documentos:
 
@@ -7721,7 +7979,7 @@ g) Acta de Cesión de Derechos ante Notario Público; y
 
 h) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio aplicable.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 607.
 
@@ -7955,7 +8213,7 @@ VIII. Dar aviso a la Tesorería Municipal a través del Departamento de Licencia
 
 Para el cambio de domicilio y cambio de giro comercial a que se refiere la fracción anterior, deberán reunirse los siguientes requisitos:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2006)</small>
 
 A. Por cambio de domicilio del giro comercial:
 
@@ -7969,7 +8227,7 @@ c) Comprobante del pago de derechos por el Uso de Suelo; y
 
 d) Licencia de funcionamiento original expedida por la Tesorería Municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2006)</small>
 
 B. Por cambio de giro comercial:
 
@@ -8025,7 +8283,7 @@ IX. Colocar en un lugar visible del establecimiento la prohibición establecida 
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-X. Solicitar al cliente que consuma bebidas alcohólicas en los establecimientos señalados en las fracciones III, IV, V, VI, VIII, IX, X, XI, XIlI, XIV, XVII, XVIII y XIX del artículo 611, que exhiba la identificación donde demuestre claramente que es mayor de edad, debiendo ser: Credencial de Elector o en su defecto, Pasaporte vigente o Cartilla del Servicio Militar Nacional;
+X. Solicitar al cliente que consuma bebidas alcohólicas en los establecimientos señalados en las fracciones III, IV, V, VI, VIII, IX, X, XI, XIII, XIV, XVII, XVIII y XIX del artículo 611, que exhiba la identificación donde demuestre claramente que es mayor de edad, debiendo ser: Credencial de Elector o en su defecto, Pasaporte vigente o Cartilla del Servicio Militar Nacional;
 
 XI. Notificar oportunamente a la autoridad competente, de cualquier escándalo o riña que se registre en el interior o exterior de su local;
 
@@ -8119,7 +8377,7 @@ XVII. Las demás que se establecen o se desprenden de las disposiciones de este 
 
 DE LOS HORARIOS AUTORIZADOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2005)</small>
 
 ###### Artículo 616.
 
@@ -8325,7 +8583,7 @@ II. Por tercera infracción: Clausura definitiva del establecimiento, cancelaci�
 
 Los establecimientos a los que se refiere este Capítulo, en los que ocurran hechos que incidan en la seguridad de los clientes o personas que concurran al establecimiento y representen graves consecuencias, deberán ser clausurados y/o se cancelará su licencia de funcionamiento.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 27 DE MARZO DE 2006)</small>
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -8347,7 +8605,7 @@ El Presidente Municipal a través de la dependencia correspondiente implementar�
 
 Contra cualquier acto de las autoridades fiscales municipales encargadas de la aplicación del presente ordenamiento, el particular podrá interponer el Recurso de Revisión previsto en el Código Fiscal y Presupuestario para el Municipio de Puebla y su Reglamento.
 
-> <small>(REFORMADO EN SU DENOMINACION, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO EN SU DENOMINACIÓN, P.O. 27 DE MARZO DE 2006)</small>
 
 ### CAPÍTULO 16. COMERCIO AMBULANTE, SEMIFIJO Y PRESTADORES AMBULANTES DE SERVICIOS EN LA VÍA PÚBLICA DEL MUNICIPIO DE PUEBLA
 
@@ -8369,7 +8627,7 @@ NIÑAS, NIÑOS Y ADOLESCENTES
 
 Son sujetos del presente Capítulo, los siguientes establecimientos:
 
-I.- COMERCIOS COMPLEMENTARlOS:
+I.- COMERCIOS COMPLEMENTARIOS:
 
 1. AGROPECUARIO
 
@@ -8387,7 +8645,7 @@ I.- COMERCIOS COMPLEMENTARlOS:
 
 8. ANTOJITOS
 
-9. ANTOJITOS, JUGOS y LlCUADOS
+9. ANTOJITOS, JUGOS y LICUADOS
 
 10. CAFETERÍA Y FUENTE DE SODAS
 
@@ -8403,7 +8661,7 @@ I.- COMERCIOS COMPLEMENTARlOS:
 
 16. COCINA ECONÓMICA
 
-17. DlSTRIBUIDORA Y COMERCIALIZADORA DE PRODUCTOS ALIMENTICIOS
+17. DISTRIBUIDORA Y COMERCIALIZADORA DE PRODUCTOS ALIMENTICIOS
 
 18. DULCERÍA Y REGALOS
 
@@ -8421,7 +8679,7 @@ I.- COMERCIOS COMPLEMENTARlOS:
 
 25. FUENTE DE SODAS
 
-26. MARlSQUERÍA
+26. MARISQUERÍA
 
 27. MISCELÁNEA
 
@@ -8449,7 +8707,7 @@ I.- COMERCIOS COMPLEMENTARlOS:
 
 39. ROSTICERÍA
 
-40. TIENDA DE PRODUCTOS NATURlSTAS
+40. TIENDA DE PRODUCTOS NATURISTAS
 
 41. ULTRAMARINOS
 
@@ -8663,7 +8921,7 @@ I.- COMERCIOS COMPLEMENTARlOS:
 
 146. OTROS COMERCIOS
 
-147.CORSETERÍA Y LENCERÍA
+147. CORSETERÍA Y LENCERÍA
 
 148. DESHUESADERO Y PARTES USADAS
 
@@ -8683,7 +8941,7 @@ I.- COMERCIOS COMPLEMENTARlOS:
 
 156. FLORERÍA
 
-157.JARCERÍA
+157. JARCERÍA
 
 158. JUGUETERÍA y REGALOS
 
@@ -8787,7 +9045,7 @@ II. INDUSTRIAS:
 
 14. PRODUCTOS LÁCTEOS
 
-15. PURlFICADORA DE AGUA
+15. PURIFICADORA DE AGUA
 
 16. RASTRO
 
@@ -9307,7 +9565,7 @@ III. SERVICIOS:
 
 185. HORNO CREMATORIO
 
-186. GASOLlNERÍA
+186. GASOLINERÍA
 
 187. ESTACIÓN DE SERVICIO DE GAS LICUADO DE PETRÓLEO
 
@@ -9327,11 +9585,11 @@ III. SERVICIOS:
 
 195. TINTORERÍA Y PLANCHADURÍA
 
-196. TlRADERO DE BASURA
+196. TIRADERO DE BASURA
 
 DE LAS LICENCIAS DE FUNCIONAMIENTO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 #### SECCIÓN SEXTA DE LAS DIRECCIONES GENERALES ADSCRITAS A LA UNIDAD. DE ADMINISTRACIÓN Y FINANZAS
 
@@ -9391,7 +9649,7 @@ El pago de derechos que no este contemplado en el presente artículo estará suj
 
 Para el caso de los establecimientos señalados en el artículo 628 fracción III, numerales 86, 87, 88, 89, 90, 91, 92, 93, 94, 95 y 96 así como las personas físicas y demás personas morales, cuando realicen actividades previstas en las leyes relativas al Sistema Financiero, deberán presentar además de lo anterior, copia certificada de la autorización vigente para la constitución y operación, expedida por la Comisión Nacional Bancaria y de Valores o por la autoridad competente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 #### SECCIÓN PRIMERA. DE LA JUNTA DE GOBIERNO
 
@@ -9415,7 +9673,7 @@ Contra el acto que emita el Jefe del Departamento de Licencias y Padrón de Cont
 
 De no otorgarse la licencia de funcionamiento la Tesorería Municipal hará la devolución al solicitante del pago de derechos a través de las cajas a su cargo. Los licenciatarios estarán obligados al pago de los gastos de trámite de la licencia negada, pagando el 2% sobre el importe total por el concepto de la misma.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 #### SECCIÓN SEGUNDA. DE LA PERSONA TITULAR DEL ORGANISMO
 
@@ -9467,7 +9725,7 @@ e) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingreso
 
 La Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes y en su caso la Unidad de Normatividad y Regulación Comercial entregará los formatos a que se refiere el presente artículo, no pudiendo solicitar requisito adicional alguno a los expresamente mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 632.
 
@@ -9589,7 +9847,7 @@ Fecha 11 y 12 de diciembre de cada año
 
 Lugar Paseo Bravo y Seminario Palafoxiano.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 638.
 
@@ -9903,7 +10161,7 @@ DE LAS SANCIONES
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-Artículo 639 Octodecies.- Las autoridades sanitarias municipales determinarán, calificarán e impondrán a quienes infrinjan las disposiciones establecidas en el Subtítulo “De la Comercialización de Productos Cárnicos y/o Subproductos y Aves Muertas”, y los que resulten aplicables en la materia, indistintamente las sanciones señalas (sic) en el artículo 1671 de este ordenamiento.
+Artículo 639 Octodecies.- Las autoridades sanitarias municipales determinarán, calificarán e impondrán a quienes infrinjan las disposiciones establecidas en el Subtítulo "De la Comercialización de Productos Cárnicos y/o Subproductos y Aves Muertas", y los que resulten aplicables en la materia, indistintamente las sanciones señalas (sic) en el artículo 1671 de este ordenamiento.
 
 Para la aplicación de dichas sanciones se considerará como infracciones administrativas las contempladas en el artículo 1671 Bis fracciones I, II, III, IV, V y VI del presente Código. La reincidencia será sancionada con multa por el doble de las cantidades señaladas.
 
@@ -9939,7 +10197,7 @@ Artículo 639 Duovicies.- La autoridad sanitaria municipal, en caso de detectar 
 
 El presente Capítulo tiene por objeto regular la actividad Comercial de Vendedores Ambulantes, Semifijos y Prestadores Ambulantes de Servicios en la Vía Pública.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 641.
 
@@ -10043,7 +10301,7 @@ III. ZONA C.- Resto del Municipio.
 
 DE LA ORGANIZACIÓN, FUNCIONAMIENTO Y ADMINISTRACIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 645.
 
@@ -10057,7 +10315,7 @@ I. Estar inscritos por el padrón que al efecto lleve el Departamento de Concert
 
 II. Contar con el permiso vigente, expedido por el Departamento de Concertación de Espacios Públicos de la Dirección de Desarrollo Político, el cual surtirá sus efectos al momento de realizar el pago en Tesorería Municipal;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
 III. Contar con el permiso especial expedido por el Departamento de Concertación de Espacios Públicos de la Secretaría de Gobernación, el cual surtirá sus efectos al momento de realizar el pago en Tesorería Municipal, para los siguientes casos:
 
@@ -10255,7 +10513,7 @@ III. Presentar copia del pago correspondiente, en caso de existir sanción admin
 
 SANCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 652.
 
@@ -10285,11 +10543,11 @@ Contra la resolución que se emita para efectos de los párrafos que anteceden, 
 
 (DEROGADO, P.O. 27 DE MARZO DE 2006)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE OCTUBRE DE 2011)</small>
 
 # LIBRO TERCERO. ACCIONES URBANÍSTICAS Y EDIFICACIONES EN EL MUNICIPIO DE PUEBLA
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE OCTUBRE DE 2011)</small>
 
 ### CAPÍTULO 19. LIMPIA, RECOLECCIÓN Y DISPOSICIÓN FINAL DE RESIDUOS
 
@@ -10305,15 +10563,21 @@ I. Zonificación y asignación de los usos, destinos y reservas, de áreas, pred
 
 II. Precisar los procedimientos de autorización, control y vigilancia del suelo en el Municipio;
 
-III. Establecer los requisitos para el otorgamiento de licencias, constancias y factibilidades de uso del suelo, construcción, instalación, ampliación, remodelación, reparación, restauración, o demolición;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+III. Establecer los requisitos para el otorgamiento de alineamientos y números oficiales, constancias de uso de suelo, factibilidad de uso de suelo, factibilidad de lotificación y urbanización, licencia de uso de suelo, licencia de uso de suelo específico, licencia para la ejecución de obras en la vía pública y uso de la vía pública, licencia de obra mayor para lotificaciones y urbanizaciones, prórroga para las licencias de construcción, constancias de construcciones, constancias de terminación de obra, regularización de obras en general, autorización de demoliciones, permisos de preventa de los lotes o área (sic) privativas de los fraccionamientos urbanos o suburbanos y de los desarrollos en condominio, en cualquiera de sus clasificaciones, permisos de venta de los lotes o áreas privativas de los fraccionamientos urbanos o suburbanos de los desarrollos en condominio, en cualquiera de sus clasificaciones, municipalización de los fraccionamientos habitacionales urbanos y suburbanos en régimen de propiedad particular, así como de divisiones, subdivisiones, segregaciones, fusiones, lotificaciones, urbanizaciones y relotificaciones de predios en el Municipio;
 
 IV. Las disposiciones aplicables en materia de seguridad, estabilidad e higiene, y la prevención de contingencias, desastres o emergencias en construcciones, edificaciones, así como las medidas preventivas contra incendios;
 
-V. La autorización y realización de urbanizaciones, fusiones, relotificaciones y subdivisiones de áreas y predios en el Municipio;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+V. La autorización y realización de alineamientos y números oficiales, constancias de uso de suelo, factibilidad de uso de suelo, factibilidad de lotificación y urbanización, licencia de uso de suelo, licencia de uso de suelo específico, licencia para la ejecución de obras en la vía pública y uso de la vía pública, licencia de obra mayor para lotificaciones y urbanizaciones, prórroga para las licencias de construcción, constancias de construcciones, constancias de terminación de obra, regularización de obras en general, autorización de demoliciones, permisos de preventa de los lotes o área privativas de los fraccionamientos urbanos o suburbanos y de los desarrollos en condominio, en cualquiera de sus clasificaciones, permisos de venta de los lotes o áreas privativas de los fraccionamientos urbanos o suburbanos de los desarrollos en condominio, en cualquiera de sus clasificaciones, municipalización de los fraccionamientos habitacionales urbanos y suburbanos en régimen de propiedad particular, así como de divisiones, subdivisiones, segregaciones, fusiones, lotificaciones, urbanizaciones y relotificaciones de predios en el Municipio;
 
 VI. Las obras, el uso de suelo y la colocación de anuncios en las zonas de interés arqueológico, artístico, típico e histórico en la circunscripción del Municipio;
 
-VII. El control de la instalación de anuncios y mobiliario urbano dentro o fuera de la vía pública conforme a la normativa aplicable vigente;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+VII. El control de la instalación de mobiliario urbano dentro o fuera de la vía pública conforme a lo que establece la Ley de Desarrollo Urbano Sustentable del Estado de Puebla, el Manual Técnico de Accesibilidad y este Código;
 
 VIII. La instrumentación, dentro de su ámbito de competencia, de acciones tendientes a prevenir y controlar la contaminación del aire, agua, y suelo; así como la protección de los ecosistemas y el ambiente;
 
@@ -10321,11 +10585,11 @@ IX. Los procedimientos y acciones de control, supervisión e inspección de inmu
 
 X. La determinación e imposición de infracciones, medidas de seguridad y sanciones en los casos previstos por el presente Capítulo.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 656.
 
-Corresponde a la Dirección de Gestión y Desarrollo Urbano Sustentable del Municipio de Puebla, a través de las autoridades competentes adscritas a ésta, la aplicación de las disposiciones de este Capítulo.
+Corresponde a la Secretaría de Desarrollo Urbano y Obras Públicas, a través de la Dirección de Desarrollo Urbano, la aplicación de las disposiciones de este Capítulo.
 
 AUTORIDADES Y FACULTADES
 
@@ -10335,37 +10599,47 @@ Aplicación del Capítulo. Para la debida aplicación del presente Capítulo, so
 
 I. El Gobierno Federal, a través de las dependencias que conforme a las leyes previamente establecidas tienen facultades para intervenir en esta materia;
 
-II. El Ejecutivo Estatal, a través de la Secretaria de Desarrollo Urbano, Ecología y Obras Publicas; y (sic)
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+II. El Ejecutivo Estatal, a través de la Secretaría de Sustentabilidad Ambiental y Ordenamiento Territorial;
 
-III. Por el Municipio, la Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable o las autoridades administrativas competentes que ejerzan las facultades previstas en el presente Capítulo;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2008)</small>
+III. Por el Municipio, la Secretaría de Desarrollo Urbano y Obras Públicas; y
 
-IV. La Dirección de Gestión y Desarrollo Urbano Sustentable a través de las áreas adscritas a ésta o las autoridades administrativas competentes que ejerzan las facultades previstas en el presente Capítulo.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2008)</small>
+IV. La Dirección de Desarrollo Urbano a través de las áreas adscritas a ésta o las autoridades administrativas competentes que ejerzan las facultades previstas en el presente Capítulo.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 657 Bis.
 
 Para efectos del presente Capítulo se entenderá por:
 
-I. Dirección de Gestión. La Dirección de Gestión y Desarrollo Urbano Sustentable, adscrita a la Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable.
+I. Secretaría: La Secretaría de Desarrollo Urbano y Obras Públicas;
 
-II. Subdirección de Gestión. La Subdirección de Gestión Urbana, adscrita a la Dirección de Gestión y Desarrollo Urbano Sustentable.
+II. Dirección: La Dirección de Desarrollo Urbano, adscrita a la Secretaría de Desarrollo Urbano y Obras Públicas;
 
-III. Subdirección de Planeación. La Subdirección de Planeación, adscrita a la Dirección de Gestión y Desarrollo Urbano Sustentable.
+III. Subdirección del Suelo: La Subdirección del Suelo, adscrita a la Dirección de Desarrollo Urbano;
 
-IV. Subdirección de Ecología. La Subdirección de Ecología y Medio Ambiente adscrita a la Dirección de Gestión y Desarrollo Urbano Sustentable.
+IV. Subdirección de Planeación: La Subdirección de Planeación, adscrita a la Dirección de Desarrollo Urbano;
+
+V. Secretaría de Medio Ambiente: La Secretaría del Medio Ambiente y Servicios Públicos del Municipio de Puebla;
+
+VI. CAAPDROC: La Comisión de Asesoría y Admisión de Peritos Directores Responsables de Obra y Corresponsables;
+
+VII. IMPLAN: El Instituto Municipal de Planeación; y
+
+VIII. Manual Técnico de Accesibilidad: El Manual Técnico de Accesibilidad Aplicable a Construcciones en el Municipio de Puebla.
 
 FACULTADES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 658.
 
-De conformidad a lo dispuesto por el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos por la Constitución Política del Estado de Puebla y por la Ley Orgánica Municipal, la aplicación y vigilancia del cumplimiento de las disposiciones de este Capítulo, corresponderá al Municipio de Puebla, por conducto del C. Presidente Municipal, quien delega en la Dirección de Gestión, las facultades que le confiere este Capítulo, y quien actuará a través de las autoridades competentes adscritas a ésta:
+De conformidad a lo dispuesto por el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, por la Constitución Política del Estado de Puebla y por la Ley Orgánica Municipal, la aplicación y vigilancia del cumplimiento de las disposiciones de este Capítulo, corresponderá al Municipio de Puebla, por conducto del Presidente Municipal, quien delega las facultades que le confiere este Capítulo en la Secretaría, a través de la Dirección quien actuará por medio de las unidades competentes adscritas a ésta:
 
 I. Administrar la zonificación prevista en el Programa de Desarrollo Urbano;
 
@@ -10373,23 +10647,39 @@ II. Regular los usos, destinos y reservas de áreas y predios en el Municipio;
 
 III. Fijar el trazo, ejes, niveles, alineamientos y demás características de las vías públicas;
 
-IV. Determinar las normas de utilización aplicables a los usos y destinos condicionados, consignándolos en las licencias, permisos o autorizaciones que este expida;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
-V. Establecer las disposiciones tendientes a compatibilizar los usos y destinos permitidos;
+IV. Verificar el cumplimiento de las normas de utilización aplicables a los usos y destinos condicionados, consignándolos en las licencias, permisos o autorizaciones que este expida;
 
-VI. Determinar las densidades de población, así como el número e intensidad de las construcciones;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+V. Proponer al Cabildo las disposiciones complementarias tendientes a compatibilizar los usos y destinos permitidos;
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+VI. Dictaminar las solicitudes de construcción de acuerdo a las densidades de vivienda y población, así como los coeficientes de ocupación superficial e intensidad de construcción de las áreas y predios del Municipio, de conformidad con lo establecido en el Programa Municipal de Desarrollo Urbano Sustentable de Puebla;
 
 VII. Establecer las medidas de utilización de áreas y predios para proteger los derechos de vía, las zonas federales de restricción de inmuebles de propiedad pública, así como las zonas aledañas a los mismos;
 
-VIII. Vigilar que las acciones, obras y servicios que se ejecuten en el Municipio cumplan con la normatividad contenida en el Programa de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
-IX. Otorgar licencias, permisos o autorizaciones de construcción, remodelación, instalación, ampliación, demolición o uso de suelo en áreas y predios;
+VIII. Vigilar que las acciones, obras y servicios que se ejecuten en el Municipio cumplan con la normatividad contenida en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Asentamientos Humanos, la Ley de Desarrollo Urbano Sustentable del Estado de Puebla, la Ley de Fraccionamientos y Acciones Urbanísticas del Estado de Puebla, el Programa Municipal de Desarrollo Urbano Sustentable de Puebla, este Código y los ordenamientos federales, estatales y municipales aplicables;
 
-X. Determinar el tipo de construcciones que se puedan levantar en áreas y predios, en términos del presente Capítulo y los Programas de Desarrollo Urbano y ordenamientos aplicables en materia Ecológica;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
-XI. Fijar los requisitos técnicos a que deberán sujetarse las construcciones o instalaciones en predios cualquiera que sea su régimen jurídico, y vía pública de jurisdicción municipal, a fin de que se satisfagan las condiciones de seguridad, higiene, comodidad y estética;
+IX. Otorgar licencias, permisos o autorizaciones de alineamientos y números oficiales, constancias de uso de suelo, factibilidad de uso de suelo, factibilidad de lotificación y urbanización, licencia de uso de suelo, licencia de uso de suelo específico, licencia de obra menor, licencia de obra mayor, licencia de construcción específica, licencia para la ejecución de obras en la vía pública, y para uso de la vía pública, licencia de obra mayor para lotificaciones y urbanizaciones, prórroga a las licencias de construcción, constancias de construcciones, constancias de terminación de obra, regularización de construcción en general, autorización de demoliciones, permisos de preventa de los lotes o áreas privativas de los fraccionamientos urbanos o suburbanos y de los desarrollos en condominio en cualquiera de sus clasificaciones, permisos de venta de los lotes o áreas privativas de los fraccionamientos urbanos o suburbanos y de los desarrollos en condominio en cualquiera de sus clasificaciones, municipalización de los fraccionamientos habitacionales urbanos y suburbanos en régimen de propiedad particular, así como de divisiones, subdivisiones, segregaciones, fusiones, lotificaciones y urbanizaciones y relotificaciones de áreas y predios en el Municipio;
 
-XII. Llevar un registro clasificado de Directores Responsables de Obra y Corresponsables;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+X. Dictaminar las solicitudes de uso o destino que pueda realizar en áreas y predios del Municipio en los términos del presente Capítulo, y del Programa Municipal de Desarrollo Urbano Sustentable de Puebla, en relación con lo establecido en los ordenamientos ambientales aplicables;
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+XI. Fijar los requisitos técnicos a que deberán sujetarse la solicitud y expedición de licencias, permisos o autorizaciones de alineamientos y números oficiales, constancias de uso de suelo, factibilidad de uso de suelo, factibilidad de lotificación y urbanización, licencia de uso de suelo, licencia de uso de suelo específico, licencia de obra menor, licencia de obra mayor, licencia de construcción específica, licencia para la ejecución de obras en la vía pública, y para uso de la vía pública, licencia de obra mayor para lotificaciones y urbanizaciones, prórroga a las licencias de construcción, constancias de construcciones, constancias de terminación de obra, regularización de construcción en general, autorización de demoliciones, permisos de preventa de los lotes o áreas privativas de los fraccionamientos urbanos o suburbanos y de los desarrollos en condominio en cualquiera de sus clasificaciones, permisos de venta de los lotes o áreas privativas de los fraccionamientos urbanos o suburbanos y de los desarrollos en condominio en cualquiera de sus clasificaciones, municipalización de los fraccionamientos habitacionales urbanos y suburbanos en régimen de propiedad particular, así como de divisiones, subdivisiones, segregaciones, fusiones, lotificaciones y urbanizaciones y relotificaciones de áreas y predios en el Municipio, a fin de que se satisfagan las condiciones de seguridad, higiene, comodidad e integración a la imagen urbana;
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+XII. Llevar un registro clasificado de Peritos Directores Responsables de Obra y Corresponsables y precisar los requisitos para acreditar tal carácter, en forma concordante en apego al procedimiento señalado en el presente Capítulo;
 
 XIII. Realizar inspecciones a las obras en proceso de construcción o terminadas;
 
@@ -10399,97 +10689,193 @@ XV. Autorizar o negar la utilización u ocupación de una estructura, instalaci�
 
 XVI. Acordar las medidas preventivas y correctivas que fueran procedentes, en relación con construcciones, estructuras o instalaciones peligrosas o ruinosas, o con posibilidad de riesgo, emergencia o contingencia;
 
-XVII. Ejecutar las obras que se hubieren ordenado y que los propietarios o poseedores, en rebeldía, no hayan cumplido;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
-XVIII. Ordenar la suspensión temporal o definitiva y la clausura parcial o total de obras en ejecución o terminadas, por violaciones al presente Capítulo;
+XVII. Ordenar la ejecución de retiros y/o demoliciones de obras privadas que se hayan realizado en contravención a las disposiciones establecidas en la Ley de Desarrollo Urbano Sustentable del Estado de Puebla, la Ley de Fraccionamientos y Acciones Urbanísticas del Estado de Puebla, el Programa Municipal de Desarrollo Urbano Sustentable de Puebla, éste Código y los demás ordenamientos federales, estatales y municipales aplicables y que los propietarios o poseedores en desacato, no hayan cumplido;
 
-XIX. Ordenar el retiro de instalaciones o estructuras colocadas sin los permisos o autorizaciones correspondientes;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
-XX. Determinar las infracciones o violaciones a este Capítulo;
+XVIII. Ordenar la suspensión temporal o definitiva y la clausura parcial o total de obras en ejecución o terminadas, por contravenir la Ley de Desarrollo Urbano Sustentable del Estado de Puebla, la Ley de Fraccionamientos y Acciones Urbanísticas del Estado de Puebla, la Ley para la Protección del Ambiente Natural y el Desarrollo Sustentable del Estado de Puebla, el Programa Municipal de Desarrollo Urbano Sustentable de Puebla, así como violaciones a este Código y los demás ordenamientos federales, estatales y municipales aplicables;
 
-XXI. Imponer las sanciones y medidas de seguridad correspondientes por violaciones a este Capítulo;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+XIX. Ordenar el retiro de instalaciones o estructuras colocadas sin las autorizaciones correspondientes;
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+XX. Determinar las infracciones por contravenir la Ley de Desarrollo Urbano Sustentable del Estado de Puebla, la Ley de Fraccionamientos y Acciones Urbanísticas del Estado de Puebla, la Ley para la Protección del Ambiente Natural y el Desarrollo Sustentable del Estado de Puebla, el Programa Municipal de Desarrollo Urbano Sustentable de Puebla, así como violaciones a este Código y los demás ordenamientos federales, estatales y municipales aplicables;
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+XXI. Imponer las sanciones y medidas de seguridad correspondientes por contravenir la Ley de Desarrollo Urbano Sustentable del Estado de Puebla, la Ley de Fraccionamientos y Acciones Urbanísticas del Estado de Puebla, la Ley para la Protección del Ambiente Natural y el Desarrollo Sustentable del Estado de Puebla, el Programa Municipal de Desarrollo Sustentable de Puebla, así como por violaciones al presente Código y los demás ordenamientos federales, estatales y municipales aplicables;
 
 XXII. Ordenar y ejecutar demoliciones de edificaciones en proceso o terminadas en los casos que prevé el presente Capítulo;
 
 XXIII. Solicitar el uso de la fuerza pública cuando sea necesario, para hacer cumplir sus determinaciones;
 
-XXIV. Expedir y modificar, cuando lo considere necesario, los acuerdos, resoluciones, circulares y disposiciones administrativas que procedan para el debido cumplimiento del presente Capítulo; y
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
-XXV. Las demás que le confieren este Capítulo y las disposiciones legales aplicables.
+XXIV. Expedir, modificar y revocar, cuando lo considere procedente, los acuerdos, resoluciones, circulares y disposiciones administrativas aplicables para el debido cumplimiento del presente Capítulo;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+XXV. Participar en los órganos de coordinación de carácter regional y metropolitano, en materia de ordenamiento territorial de los asentamientos humanos y desarrollo urbano;
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+XXVI. Expedir la autorización de cambio de uso de suelo, de densidad y altura de edificaciones que previamente hayan sido modificados conforme al procedimiento establecido en la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+XXVII. Proponer al Presidente Municipal, la suscripción de convenios que permitan la colaboración y participación de los tres niveles de gobierno, de la sociedad civil e instituciones educativas, que fomenten el ordenamiento territorial en el Municipio;
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+XXVIII. Vigilar que las acciones programáticas establecidas en el Plan de Desarrollo Municipal a corto, mediano y largo plazo, se realicen dentro de la normativa del Programa Municipal de Desarrollo Urbano, en lo que respecta a infraestructura y servicios públicos;
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+XXIX. Participar en el reconocimiento de asentamientos humanos y la regularización de la tenencia de la tierra para su incorporación al desarrollo urbano;
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+XXX. Vigilar y supervisar las obras de lotificación y urbanización de los fraccionamientos habitacionales urbanos y suburbanos, así como de los desarrollos en condominio en cualquiera de sus clasificaciones a efecto de cerciorarse del cumplimiento de las especificaciones del proyecto definitivo autorizado y recibir las obras de urbanización mediante el procedimiento establecido, cualquiera que sea su régimen de propiedad;
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+XXXI. Proponer al IMPLAN la elaboración de los estudios técnicos y programas que permitan vigilar, controlar y ordenar el desarrollo urbano municipal;
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+XXXII. Proponer al Cabildo los criterios para la aplicación de instrumentos de planeación territorial y la autorización de los que sean necesarios para procurar la regeneración, revitalización o detonación de áreas y predios del Municipio;
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+XXXIII. Expedir la constancia de existencia de documentos y planos del archivo de la Dirección;
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+XXXIV. Revocar o dejar sin efectos las licencias, autorizaciones y permisos cuando las mismas contravengan la Ley de Desarrollo Urbano Sustentable del Estado de Puebla, la Ley de Fraccionamientos y Acciones Urbanísticas del Estado de Puebla y el Programa Municipal de Desarrollo Urbano Sustentable de Puebla;
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+XXXV. Fungir y otorgar responsiva como Perito Director Responsable de Obra o Corresponsable en su caso;
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+XXXVI. Fomentar el uso de materiales ecológicos, azoteas verdes, ecotecnologías, sistemas ahorradores de energía, energía renovable y sistemas de reciclados en los proyectos de edificación que le presenten para su autorización; y
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+XXXVII. Las demás que le confieren este Capítulo y las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 659.
 
-Para el estudio y propuesta de reformas y adiciones al presente Capítulo, específicamente; se tomarán en cuenta las opiniones de los representantes de las Comisiones de Desarrollo Urbano y Obra Pública del Ayuntamiento, los Consejos Ciudadanos de Obras y Servicios Públicos; los Consejos Ciudadanos de Desarrollo Urbano; los Colegios de Ingenieros Civiles, los Colegios de Arquitectos, Cámaras de la Construcción y de Empresas de Consultoría, la Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable; la Secretaría del H. Ayuntamiento y la Sindicatura Municipal, así como, por otras dependencias, instituciones públicas o privadas del ramo, que se considere necesaria su participación.
+Para el estudio y propuesta de reformas y adiciones al Libro Tercero del presente Código y este Capítulo y durante el proceso establecido en la Ley Orgánica Municipal y artículo 7 del presente Código, se deberán tomar en cuenta por parte de las Comisiones de Desarrollo Urbano y Obras Públicas del Ayuntamiento, las opiniones, análisis y argumentos de los representantes de los Consejos de Participación Ciudadana de Obras y Servicios Públicos, de Desarrollo Urbano y de Centro Histórico y Patrimonio Edificado, así como de los representantes de los Colegios debidamente registrados ante el Ayuntamiento, Cámaras de la Construcción, la Secretaría de Desarrollo Urbano y Obras Públicas, la Secretaría del Honorable Ayuntamiento y la Sindicatura Municipal, así como otras dependencias, instituciones públicas o privadas del ramo que se considere necesaria su participación.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
-
-Las opiniones que se emitan derivado de lo estipulado en el párrafo anterior, no obligan al C. Presidente Municipal.
+Las opiniones que se emitan derivado de lo estipulado en el párrafo anterior, serán valoradas por el Ayuntamiento, sin que sea obligatoria su inclusión en las reformas o modificaciones al Libro Tercero del presente Código y este Capítulo.
 
 ###### Artículo 660.
 
 Para la adaptación de construcciones para atender los requerimientos de personas con capacidades diferentes, se estará a lo dispuesto en las Normas Oficiales Mexicanas sobre la materia; y en el Manual Técnico de Accesibilidad, el que por su naturaleza técnica y la factibilidad de constante cambio en razón de los avances científicos y tecnológicos, se constituye como un instrumento técnico independiente que se considerará parte integral del presente Capítulo. Para el estudio y propuesta de reformas y adiciones al Manual Técnico de Accesibilidad, se seguirá el mismo procedimiento señalado en el artículo anterior.
 
-DIRECTORES RESPONSABLES DE OBRA
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+###### Artículo 660 Bis.
+
+En todo lo no previsto en este Libro, serán aplicables la Ley de Desarrollo Urbano Sustentable para el Estado de Puebla, la Ley de Fraccionamientos y Acciones Urbanísticas para el Estado Libre y Soberano de Puebla, el Código Civil y el de Procedimientos Civiles para el Estado Libre y Soberano de Puebla.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE JUNIO DE 2012)</small>
+
+PERITOS DIRECTORES RESPONSABLES DE OBRA
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 661.
 
-Director Responsable de Obra, es la persona física profesional competente que se hace responsable técnicamente de la observancia y cumplimiento de las normas técnicas de este Capítulo en las obras para las que otorgue su responsiva.
+Perito Director Responsable de Obra, es la persona física auxiliar de la Administración, con autorización y registro de la CAAPDROC, que se hace responsable de la observancia de la Ley, de este Código y demás disposiciones aplicables, en el acto en que otorga su responsiva relativa al ámbito de su intervención profesional.
 
-La calidad de Director Responsable de Obra se adquiere con el registro de la persona ante la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables del Municipio de Puebla, habiendo cumplido previamente con los requisitos establecidos en el artículo 662.
+La acreditación como Perito Director Responsable de Obra se adquiere con el registro de la persona ante la CAAPDROC del Municipio de Puebla, habiendo cumplido previamente con los requisitos establecidos en el artículo 662.
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+Los funcionarios del Ayuntamiento, de conformidad con el Reglamento Interior de cada Unidad Administrativa, que sean encargados de la aplicación y vigilancia del cumplimiento de este Capítulo, deberán tener la calidad de Perito Director Responsable de Obra o Corresponsable. En caso que no lo fuera en el momento de su nombramiento, contarán con un plazo de seis meses a partir del mismo para cumplir este requisito.
 
-Todos los funcionarios del Ayuntamiento, en especial los de la Dirección de Gestión y la Dirección de Obras, encargados de la aplicación y vigilancia del cumplimiento de este Capítulo, deberán tener la calidad de Director Responsable de Obra o Corresponsable. En caso de que no lo fuera en el momento de su nombramiento, contarán con un plazo de 6 meses a partir del mismo para cumplir este requisito.
+Los Colegios de Profesionistas del Estado registrados ante el Ayuntamiento, cuya actividad profesional esté directamente relacionada con el proceso de edificación, podrán proponer a la CAAPDROC, las listas de los peritos que hayan aprobado el curso y evaluación correspondiente.
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 662.
 
-Para obtener el registro como Director Responsable de Obra, se deberán satisfacer los siguientes requisitos:
+Para obtener el registro como Perito Director Responsable de Obra, se deberán satisfacer los siguientes requisitos:
 
-I. Presentar ante la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables del Municipio de Puebla, los siguientes documentos:
+I. Solicitar por escrito ante la CAAPDROC el otorgamiento de su registro como Perito Director Responsable de Obra, acompañando a dicha solicitud copia del título y de la cédula profesional correspondiente a alguna de las siguientes profesiones: Arquitecto, Ingeniero Arquitecto, Ingeniero Civil, Ingeniero Militar; Ingeniero Constructor o Ingeniero Municipal;
 
-a) Solicitud por escrito, para inscribirse en el Registro de Directores Responsables de Obra y Corresponsables, señalando domicilio para oír y recibir notificaciones, debidamente firmada y dirigida al Presidente de la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables del Municipio de Puebla;
+II. Acreditar ante la CAAPDROC, mediante la aprobación del curso y evaluación correspondiente, que conoce la Ley de Desarrollo Urbano Sustentable del Estado, el presente Código y sus Normas, la normativa de carácter ambiental y demás leyes y disposiciones relativas al diseño urbano, vivienda, construcción, imagen urbana, anuncios, equipamiento, mobiliario urbano y la conservación del Patrimonio Histórico, Artístico y Arqueológico de la Federación, los Programas y las Normas de Ordenamiento Territorial, para lo cual debe obtener el dictamen favorable del Comité correspondiente.
 
-b) Copia certificada reciente del acta de nacimiento;
+El curso para la obtención del registro de Perito Director Responsable de Obra, deberá contener por lo menos cinco horas para cada uno de los siguientes módulos:
 
-c) Copia certificada ante Notario Público del título y cédula profesional que acredite alguna de las siguientes profesiones: Arquitecto, Ingeniero Arquitecto, Ingeniero Civil, Ingeniero Militar, Constructor o Ingeniero Municipal, Urbanista o profesión afín;
+a) Asentamientos humanos;
 
-d) Dos fotografías tamaño infantil a color;
+b) Desarrollo urbano y ordenamiento territorial;
 
-e) Comprobante de domicilio, que acredite una antigüedad mínima de seis meses anteriores a la fecha en que solicita el registro;
+c) Programa Municipal de Desarrollo Urbano Sustentable;
 
-f) Clave Única del Registro de Población; y
+d) Obra civil;
 
-g) Pago de derechos, por la aplicación del examen de conocimientos específicos.
+e) Obra pública;
 
-II. Acreditar el examen que aplique la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables del Municipio de Puebla, en lo relativo a los aspectos correspondientes a su especialidad;
+t) Sustentabilidad ambiental;
 
-III. Acreditar un mínimo de tres años de experiencia en el ejercicio profesional en la construcción de obras a las que se refiere este Capítulo mediante Currículum Vitae debidamente sustentado y actualizado con: a) Desglose de cada una de las obras en que haya tenido intervención; b) Tipo de obra; c) Fecha o periodo de supervisión de la obra; d) Ubicación de la obra supervisada; e) Superficie construida; f) Director Responsable de Obra; g) Empresa a la que ha prestado sus servicios profesionales; debiendo acompañarlo de los convenios, contratos, facturas, actas de entrega recepción, constancias de terminación de obra y demás documentos que avalen las obras o actividades declaradas;
+g) Accesibilidad para personas con discapacidad en inmuebles y espacios públicos;
 
-V (SIC). Presentar constancia vigente de haber acreditado el curso de Directores Responsables de Obra y Corresponsables. Constancia que deberá tener como término máximo de expedición de dos años, al día en que se inicien los trámites administrativos correspondientes ante la Dirección de Gestión.
+h) Conservación del Patrimonio Histórico, Artístico y Arqueológico;
 
-La Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables del Municipio de Puebla, deberá analizar si la solicitud y los demás documentos a que se refiere este artículo se encuentran completos, y en caso contrario se notificará personalmente al solicitante, para que en el término de dos días hábiles siguientes en que surta sus efectos la notificación, acompañe la documentación requerida, en caso de no hacerlo así, se tendrá por desechada su solicitud.
+i) Protección Civil;
 
-Si la solicitud reúne los requisitos señalados, la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables del Municipio de Puebla, dentro de los tres días hábiles posteriores a la recepción de la misma, señalará lugar, día y hora para la aplicación del examen, dando a conocer al solicitante esos datos en el domicilio que haya señalado para recibir notificaciones.
+j) Fraccionamientos y propiedad en condominio; y
 
-El examen para obtener el registro de Directores Responsables de Obra y Corresponsables será elaborado y calificado por el Secretario Técnico, previa propuesta del contenido del mismo por parte de los Colegios miembros de la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables del Municipio de Puebla.
+k) Obligaciones de los Peritos Directores Responsables de Obra y Corresponsables. Alcances y objetivos de la CAAPDROC.
 
-El resultado se hará saber al solicitante, a más tardar, cinco días hábiles siguientes al examen, dicho resultado será integrado en listado público y el Colegio respectivo constatará y validará que coincida con los resultados obtenidos.
+El examen para obtener el registro de Perito Director Responsable de Obra o Corresponsable se realizará al término de cada curso y será elaborado por el comité técnico correspondiente y aprobado por la CAAPDROC.
 
-El resultado del examen podrá ser objetado ante la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables del Municipio de Puebla.
+III. Acreditar como mínimo tres años de experiencia en el ejercicio profesional en la construcción de obras a las que se refiere este Capítulo mediante currículo que deberá contener:
 
-En caso de que el examen sea aprobado, la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables del Municipio de Puebla, previo pago de derechos por la expedición de la autorización y credencial respectiva, requerirá a la Dirección de Gestión para que incorpore al solicitante al Registro de Directores Responsables de Obra y Corresponsables y lo considerará apto para hacerse responsable técnicamente de la observancia y cumplimiento de las normas técnicas de este Capítulo en las obras para las que otorgue su responsiva.
+a) Desglose de cada una de las obras en que haya intervenido;
 
-El Registro de Directores Responsables de Obra y Corresponsables será de acceso público.
+b) El tipo de obra;
 
-Dentro del mes de enero de cada ejercicio fiscal, los Directores Responsables de Obra deberán refrendar su registro ante la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables del Municipio de Puebla, previo pago de los derechos correspondientes, siempre y cuando no haya sido cancelado por causas imputables a los mismos.
+c) Fecha de supervisión de la obra;
+
+d) Ubicación de la obra;
+
+e) Superficie construida;
+
+f) Nombre y número de registro del Director Responsable de Obra; y
+
+g) Datos de la empresa en la que ha prestado sus servicios profesionales, presentando convenios, contratos, facturas, actas de entrega-recepción, constancias de terminación de obra, o en su caso, carta de la empresa y demás documentos que avalen las obras o actividades declaradas.
+
+IV. Presentar constancia vigente de haber acreditado el curso de Peritos Directores Responsables de Obra y Corresponsables. Dicha constancia deberá tener como término máximo de expedición de dos años, al día en que se inicien los trámites administrativos correspondientes ante la Dirección.
+
+La CAAPDROC deberá analizar si la solicitud y los demás documentos a que se refiere este artículo se encuentran completos y en caso contrario se notificará personalmente al solicitante, para que en el término de dos días hábiles siguientes a aquél en que surta efectos la notificación, presente la documentación requerida y en caso de no hacerlo así, se tendrá por desechada su solicitud.
+
+Si la solicitud reúne los requisitos señalados, la CAAPDROC dentro de los tres días hábiles posteriores a la recepción de la misma, notificará por escrito al solicitante el lugar, día y hora para la aplicación del examen.
+
+El resultado se hará saber al solicitante cinco días después de la aplicación del examen mediante notificación por lista que se publicará en las oficinas de la Dirección y el Colegio respectivo constatará y validará que coincida con los resultados obtenidos.
+
+El resultado del examen podrá ser objetado ante la CAAPDROC.
+
+En caso de que el examen sea aprobado, la CAAPDROC, previo el pago de derechos por la expedición de la autorización y credencial respectiva, requerirá a la Dirección su incorporación al Registro de Peritos Directores Responsables de Obra y Corresponsables y una vez que haya sido inscrito en dicho registro, se considerará apto para ser responsable técnicamente de la observancia y cumplimiento de las normas técnicas de este Capítulo en las obras para las que otorgue su responsiva.
+
+El Registro de Peritos Directores Responsables de Obra y Corresponsables será de acceso público.
+
+Dentro del mes de enero de cada ejercicio fiscal, los Peritos Directores Responsables de Obra deberán refrendar su registro ante la CAAPDROC, previo pago de los derechos correspondientes, siempre y cuando no haya sido cancelado por causas imputables a los mismos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 663.
 
-Funciones del Director Responsable de Obra.- Para los efectos de este Capítulo, se entiende que un Director Responsable de obra otorga su responsiva cuando con ese carácter:
+Funciones del Perito Director Responsable de Obra.- Para los efectos de este Capítulo, se entenderá que un Perito Director Responsable de Obra otorga su responsiva cuando con ese carácter:
 
 I. Suscriba una solicitud de licencia de construcción y los planos del proyecto correspondiente de una obra a las que hace referencia este Capítulo y cuya ejecución vaya a realizarse directamente por él o por terceras personas, sin que esto elimine la responsabilidad que adquiere al otorgar su responsiva;
 
@@ -10499,9 +10885,11 @@ III. Suscriba el dictamen de seguridad y operación de una obra y/o;
 
 IV. Suscriba un Dictamen o Constancia de estabilidad o seguridad estructural de una edificación o instalación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 664.
 
-Son obligaciones del Director Responsable de Obra:
+Son obligaciones del Perito Director Responsable de Obra:
 
 > <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
 
@@ -10509,17 +10897,25 @@ I. Dirigir y vigilar la obra, asegurándose de que tanto el proyecto, como la ej
 
 II. Contar con los Corresponsables a que se refiere el artículo 666, en los casos que en ese mismo artículo se numeran. En los casos no incluidos en dicho artículo, el Director Responsable de Obra podrá definir libremente la participación de los Corresponsables. El Director Responsable de Obra, deberá comprobar que cada uno de los Corresponsables con que cuente, según sea el caso, cumpla con las obligaciones que se indican en el Artículo 669;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
-III. Responder de cualquier violación a las disposiciones de este Capítulo, debiendo notificar por escrito cualquier modificación al proyecto o incumplimiento a este Capítulo que el propietario del inmueble pretenda realizar sin previa autorización de la Dirección de Gestión;
+III. Responder de cualquier violación a las disposiciones de este Capítulo, debiendo notificar por escrito cualquier modificación al proyecto o incumplimiento a este Capítulo que el propietario del inmueble pretenda realizar sin previa autorización de la Dirección;
 
-IV. Planear y supervisar las medidas de seguridad del personal y terceras personas en la obra, sus colindancias y en la vía pública, durante su ejecución;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
-V. Llevar en las obras un libro de bitácora foliado y encuadernado, en el cual se anotarán los siguientes datos:
+IV. Colocar en lugar visible de la obra un letrero con dimensiones mínimas de 60 x 90 cm.,
 
-a) Nombre, atribuciones y firmas del Director Responsable de Obra y de los Corresponsables si los hubiere, del residente y del propietario o representante legal.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
 
-b) Fecha de las visitas del Director Responsable de Obra y los Corresponsables, cuando menos dos veces por semana.
+V. Llevar en las obras un libro de bitácora autorizado por la Dirección, debidamente foliado y encuadernado, en el cual se anotarán los siguientes datos:
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+a) Nombre, atribuciones y firmas del Perito Director Responsable de Obra y de los Corresponsables si los hubiere, del residente y del propietario, poseedor o representante legal;
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+b) Visitas del Perito Director Responsable de Obra, las que deberán realizarse cuando menos dos veces por semana y en el caso de los Corresponsables, las que sean necesarias a petición del Perito Director Responsable de Obra;
 
 c) Materiales empleados para fines estructurales o de seguridad.
 
@@ -10533,17 +10929,21 @@ g) Fecha de iniciación de cada etapa de la obra.
 
 h) Incidentes y accidentes; y
 
-i) Observaciones e instrucciones especiales del Director Responsable de obra, de los Corresponsables y de los inspectores de la Dirección.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-VI. Colocar en lugar visible de la obra un letrero de 60 x 90 cm., con su nombre y en su caso, de los Corresponsables y sus números de registro, número de licencia de la obra y ubicación de la misma;
+i) Observaciones e instrucciones especiales del Perito Director Responsable de Obra, de los Peritos Corresponsables, del propietario, poseedor o representante legal y de los inspectores de la Secretaría.
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+VI. Colocar en lugar visible de la obra un letrero con dimensiones mínimas de 60 x 90 cm., con su nombre y en su caso, de los Corresponsables y sus números de registro, número de licencia de la obra y ubicación de la misma;
 
 VII. Coadyuvar con el propietario, para que una vez concluida la obra, cuente con los planos registrados actualizados del proyecto completo en original, el libro de bitácora, memorias de cálculo incluyendo los originales de todos los documentos de licencias y permisos, conservando el Director Responsable de Obra un juego de copias de estos documentos;
 
-VIII. Refrendar anualmente su registro de Director Responsable de obra.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+VIII. Refrendar anualmente su registro de Perito Director Responsable de Obra.
 
-En este caso, se seguirá el procedimiento indicado en el artículo 662, sin que sea necesario presentar de nuevo la documentación que ya obra en poder de la Comisión; debiendo informar a ésta sobre las licencias y dictámenes que haya suscrito, así como de todas sus intervenciones con el carácter de Director Responsable de Obra, debiendo además acreditar haber tomado durante el año un mínimo de 30 horas de cursos de actualización, los cuales deberán estar autorizados por la misma Comisión;
+En este caso deberá presentar solicitud de refrendo a la CAAPDROC y acreditar haber tomado durante el año, un mínimo de 30 horas de cursos de actualización.
 
 IX. Vigilar que el ejecutor de la obra entregue al propietario al término de ésta, los manuales de operación y mantenimiento cuyo contenido mínimo será:
 
@@ -10555,141 +10955,179 @@ c) Para mantenimiento preventivo se indicarán los procedimientos y materiales a
 
 d) Para mantenimiento correctivo se indicarán los procedimientos y materiales más frecuentes, así como las acciones que requerirán de intervención de profesionales especialistas.
 
-X. Un director Responsable de Obra no podrá llevar la dirección y supervisión de más de 10 (diez) obras en proceso de construcción al mismo tiempo; en esta disposición no se incluye:
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+X. Un Perito Director Responsable de Obra no podrá llevar la dirección y supervisión de más de 10 (diez) obras en proceso de construcción al mismo tiempo, en esta disposición no se incluye:
 
 1. Licencias menores de 50 m2 de construcción;
 
-2. Licencias para tramites bancarios; o
+2. Licencias para trámites bancarios; y
 
-3. Licencias para cambio de régimen.
+3. Licencias para cambio de régimen de propiedad.
 
-El cómputo de números de obra, se realiza con aquellas obras que se encuentran en proceso de construcción y no cuentan con las actas de terminación y ocupación de obra.
+El cómputo de números de obra, se realizará únicamente con aquellas obras que se encuentran en proceso de construcción y no se tomarán en cuenta las obras que ya tienen acta de terminación y ocupación de obra.
 
-Un Director Responsable de obra que requiera registrar una o más obras de este límite, deberá solicitar por escrito a la Dirección y esta a su vez notificar a la Comisión de Admisión justificando técnicamente que está cumpliendo en sus obras con los requerimientos que marca el Capítulo de Construcciones del presente Código Reglamentario para el Municipio de Puebla y anexar la lista de sus 10 obras en proceso de construcción, para poder registrarle las que esté solicitando de más;
+Un Perito Director Responsable de Obra que requiera registrar once o más obras, deberá solicitarlo por escrito a la CAAPDROC acreditando que está cumpliendo en sus obras con los requerimientos que marca el presente Capítulo y anexará la lista de sus 10 obras en proceso de construcción señalando el avance de cada una y la CAAPDROC informará por escrito al solicitante su resolución;
 
-XI. El Director Responsable de Obra o Corresponsable de una obra, notificará por escrito a la Dirección la renuncia voluntaria a su responsiva; para lo cual deberá de presentar la carta de motivos que justifiquen su hecho y copia de la bitácora de obra actualizada a la fecha de renuncia;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
-XII. El Director Responsable de Obra sólo podrá renunciar a su responsabilidad siempre y cuando ésta sea antes de que la Dirección expida la constancia de terminación y ocupación de obra.
+XI. El Perito Responsable de Obra o Corresponsable de una obra, notificará por escrito a la Dirección la renuncia voluntaria a su responsiva; para lo cual deberá de presentar la carta de motivos que justifiquen su hecho y copia de la bitácora de obra actualizada a la fecha de renuncia;
 
-CORRESPONSABLES
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+XII. El Perito Director Responsable de Obra sólo podrá renunciar a su responsabilidad siempre y cuando ésta sea antes de que la Dirección expida la constancia de terminación y ocupación de obra.
+
+> <small>(REFORMADA SE DENOMINACIÓN, P.O. 4 DE JUNIO DE 2012)</small>
+
+PERITOS CORRESPONSABLES
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 665.
 
-Corresponsable es la persona física con los conocimientos técnicos adecuados para responder en forma solidaria con el Director Responsable de Obra, en todos los aspectos de las obras en las que otorgue su responsiva, relativos a:
+Perito Corresponsable es la persona física auxiliar de la Administración, con autorización de la Dirección, con los conocimientos técnicos adecuados para responder en forma conjunta con el Perito Director Responsable de Obra, o autónoma en las obras en que otorgue su responsiva debiendo cumplir con lo establecido en la Ley, este Código y en las demás disposiciones aplicables, en todos los aspectos técnicos relacionados al ámbito de su intervención profesional, mismos que son relativos a:
 
-a) Seguridad estructural.
+I. Seguridad estructural;
 
-b) Diseño urbano y arquitectónico.
+II. Desarrollo urbano;
 
-c) Restauración.
+III. Diseño arquitectónico;
 
-d) Instalaciones mecánicas.
+IV. Restauración;
 
-e) Instalaciones eléctricas.
+V. Instalaciones mecánicas;
 
-f) Instalaciones hidráulicas y sanitarias.
+VI. Instalaciones eléctricas;
 
-g) Instalaciones de gas.
+VII. Instalaciones hidráulicas y sanitarias; y
 
-Debiendo cumplir con los requisitos establecidos en el Artículo 667 de este Capítulo.
+VIII. Instalaciones de gas.
+
+Los corresponsables para obtener su registro ante la Comisión deberán cumplir con los requisitos establecidos en el artículo 667 de este Capítulo.
+
+Los Colegios de Profesionistas del Estado registrados ante el Ayuntamiento, cuya actividad profesional esté directamente relacionada con el proceso de edificación, podrán proponer a la CAAPDROC, las listas de los peritos que hayan aprobado el curso y evaluación correspondiente.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 666.
 
-Se exigirá responsiva de los Corresponsables para obtener licencia de construcción en los siguientes casos:
+Se exigirá responsiva de los Peritos Corresponsables para obtener licencia de construcción en los siguientes casos:
 
-I. CORRESPONSABLES EN SEGURIDAD ESTRUCTURAL para las obras siguientes:
+1. PERITOS CORRESPONSABLES EN SEGURIDAD ESTRUCTURAL para las obras siguientes:
 
-Grupo A
+a) Grupo A
 
-Edificaciones cuya falla estructural podría causar la pérdida de vidas o pérdidas económicas o el Patrimonio Cultural.
+Edificaciones cuya falla estructural podría causar pérdidas económicas, del patrimonio cultural y pérdida de vidas.
 
 Edificaciones cuya falla estructural constituyan un peligro por contener sustancias tóxicas o explosivas.
 
 Edificaciones cuyo funcionamiento es esencial a raíz de una emergencia urbana como: hospitales, escuelas, terminales de transporte, estaciones de bomberos, centrales eléctricas y de telecomunicaciones, estadios, depósitos de sustancias inflamables o tóxicas, tanques elevados de agua, instalaciones deportivas, edificios públicos, museos o edificios que alojen archivos y registros públicos.
 
-Grupo B
+b) Grupo B
 
-Edificaciones comunes destinadas a vivienda, oficinas y locales comerciales, hoteles y construcciones comerciales e industriales no incluidas en el Grupo A, las que se subdividen en:
+Edificaciones destinadas a viviendas, oficinas, locales comerciales, hoteles, construcciones comerciales e industriales no incluidas en el Grupo A, las que se subdividen en:
 
-Sub - grupo B 1:
+c) Sub-grupo B 1:
 
-Edificaciones de más de 12 m de altura habitables o con más de 1,000 m2 de área total construida, ubicadas en la zona I y señaladas en el presente Capítulo.
+Edificaciones de más de 30 m. de altura habitables o con más de 6,000 m2 de área total construida, ubicadas en las zonas I y II, señaladas por la Dirección.
 
-Construcciones de más de 15 m de altura o 1,000 m2 de área total construida en zona II y III.
+Construcciones de más de 15 m. de altura o 3,000 m2 de área total construida en zona III, señaladas por la Dirección.
 
-En ambos casos las áreas se refieren a un solo cuerpo de edificio que cuente con medios propios de desalojo, (acceso y escaleras), incluyen las áreas de anexos como pueden ser los propios cuerpos de escaleras. El área de un cuerpo que no cuente con medios propios de desalojo, se adicionará a la de aquel otro a través del cual se desaloje.
+En ambos casos las áreas se refieren a un solo cuerpo de edificio que cuente con medios propios de desalojo (acceso y escaleras), incluyen las áreas de anexos como pueden ser los propios cuerpos de escaleras. El área de un cuerpo que no cuente con medios propios de desalojo, se adicionará a la de aquel otro a través del cual se desaloje.
 
-Templos, salas de espectáculos, edificios, edificios y obras públicas, que tengan salas de reunión que puedan alojar más de 200 personas de manera simultánea.
+Templos, salas de espectáculos, edificios y obras públicas, que tengan salas de reunión que puedan alojar más de 200 personas de manera simultánea.
 
-Sub-grupo B 2: Las demás fuera de este grupo;
+d) Sub-grupo B 2: Las demás fuera de este grupo;
 
-I. CORRESPONSABLES EN DISEÑO URBANO Y ARQUITECTÓNICO, para los siguientes casos:
+II. PERITOS CORRESPONSABLES EN DESARROLLO URBANO, cuya actividad y especialización se relacionen con los estudios de impacto urbano o impacto urbano-ambiental, estudios para constituir los polígonos de actuación y los estudios sobre transferencia de potencialidades en los siguientes casos:
+
+a) Conjuntos habitacionales, fraccionamientos, hospitales, panteones, clínicas, centros de salud, edificaciones para exhibiciones, baños públicos, estaciones y terminales de transporte terrestre, aeropuertos, estudios cinematográficos y de televisión, centros comerciales, instalaciones deportivas, templos, salas de espectáculos, edificios públicos con salas de reunión de más de 200 personas y espacios abiertos de uso público de cualquier magnitud;
+
+b) Las nuevas edificaciones ubicadas en la Zona de Monumentos y zonas arqueológicas del Municipio de Puebla; y
+
+c) El resto de las edificaciones que tengan más de 2,000 m2 construidos, o más de 20 m. de altura sobre el nivel medio de banqueta o con capacidad para más de 200 concurrentes en locales cerrados o más de 800 concurrentes en locales abiertos.
+
+Se exceptúan de lo previsto en la presente fracción las siguientes edificaciones:
+
+1.- Conjuntos habitacionales de menos de 10 viviendas.
+
+2.- Viviendas individuales independientemente de su superficie.
+
+III. PERITO CORRESPONSABLE EN DISEÑO ARQUITECTÓNICO, cuya actividad y especialización se relacionen con el diseño para los siguientes casos:
 
 a) Conjuntos habitacionales, fraccionamientos, hospitales, panteones, clínicas, centros de salud, edificaciones para exhibiciones, baños públicos, estaciones y terminales de transporte terrestre, aeropuertos, estudios cinematográficos y de televisión, centros comerciales, instalaciones deportivas, templos, salas de espectáculos, edificios públicos con salas de reunión de más de 200 personas y espacios abiertos de uso público de cualquier magnitud.
 
-b) Las edificaciones ubicadas en zonas del Centro Histórico y zonas arqueológicas del Municipio de Puebla.
+b) Las nuevas edificaciones ubicadas en la Zona de Monumentos y zonas arqueológicas del Municipio de Puebla.
 
-c) El resto de las edificaciones que tengan más de 1,000 m2 construidos, o más de 12 m de altura sobre el nivel medio de banqueta o con capacidad para más de 125 concurrentes en locales cerrados o más de 400 concurrentes en locales abiertos
+c) El resto de las edificaciones que tengan más de 2,000 m2 construidos, o más de 20 m. de altura sobre el nivel medio de banqueta o con capacidad para más de 200 concurrentes en locales cerrados o más de 800 concurrentes en locales abiertos.
 
-II. CORRESPONSABLES EN INSTALACIONES, para los siguientes casos:
+Se exceptúan de lo previsto en la presente fracción las siguientes edificaciones:
 
-a) Corresponsables en instalaciones Hidráulicas, Sanitarias y Gas en fraccionamientos, conjuntos habitacionales mayores de tres niveles o de más de diez viviendas con una sola red de distribución hidráulica y sanitaria, o gas, baños públicos, lavanderías, tintorerías, lavado y lubricación de vehículos, hospitales, clínicas y centros de salud; instalaciones para exhibiciones; crematorios, panteones, aeropuertos; centrales telegráficas y telefónicas; estaciones de radio y televisión; estudios cinematográficos, bancos, edificios públicos, iglesias, industria pesada y mediana; plantas, estaciones y subestaciones, cárcamos y bombas; circos y ferias, de cualquier magnitud e instalaciones deportivas.
+1.- Conjuntos habitacionales de menos de 10 viviendas.
 
-b) Corresponsables en Instalaciones Eléctricas. Las edificaciones que tengan más de 1,000 m2 o más de 12 m de altura sobre el nivel medio de banqueta o más de 250 concurrentes.
+2.- Viviendas individuales independientemente de su superficie.
 
-c) Corresponsables en Instalaciones Mecánicas. En toda edificación que cuente con elevadores de pasajeros, de carga, industriales, residenciales o con escaleras o rampas electromecánicas, compresores, equipos de combustión, subestaciones, condicionamiento de aire, ecosistemas, instalaciones de gas, etc.
+IV. PERITOS CORRESPONSABLES EN INSTALACIONES HIDRÁULICAS y SANITARIAS. Para fraccionamientos, conjuntos habitacionales mayores de tres niveles o de más de diez viviendas con una sola red de distribución hidráulica y sanitaria, o gas, baños públicos, lavanderías, tintorerías, lavado y lubricación de vehículos, hospitales, clínicas y centros de salud; instalaciones para exhibiciones; crematorios, panteones, aeropuertos; centrales telegráficas y telefónicas; estaciones de radio y televisión; estudios cinematográficos, bancos, edificios públicos, iglesias, industria pesada y mediana; plantas, estaciones y subestaciones, cárcamos y bombas; circos y ferias, de cualquier magnitud e instalaciones deportivas;
 
-d) Corresponsables en instalaciones de gas. En crematorios, calderas, empresas que requieren este tipo de energético para sus procesos de producción o distribución, instalaciones de gas subterráneas ya sean en vía pública o propiedad privada; y
+V. PERITOS CORRESPONSABLES EN INSTALACIONES ELÉCTRICAS. Las edificaciones que tengan más de 1,000 m2 o más de 12 m. de altura sobre el nivel medio de banqueta o más de 200 concurrentes;
 
-III. CORRESPONSABLE EN RESTAURACIÓN.- Para todas las edificaciones nuevas y existentes dentro de la zona de Monumentos, las que colinden con bienes de valor patrimonial y las Catalogadas fuera de ella, para Mantenimiento, Restauración, Aseguramiento, Reestructuración, Integración, Reintegración, Consolidación, Anastilosis, adecuación, introducción de nuevos sistemas de instalaciones y servicios, Actualización de Sitios Históricos y Revitalización. Se le considerará además como Corresponsable de bienes accesorios y bienes muebles asociados, con la licenciatura o especialidad en restauración de bienes muebles, para casos específicos determinados por la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables y del Comité Técnico correspondiente.
+VI. PERITOS CORRESPONSABLES EN INSTALACIONES MECÁNICAS. En toda edificación que cuente con elevadores de pasajeros, de carga, industriales, residenciales o con escaleras o rampas electromecánicas, compresores, equipos de combustión, subestaciones, condicionamiento de aire, ecosistemas, instalaciones de gas, etc;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ENERO DE 2010)</small>
+VII. PERITOS CORRESPONSABLES EN INSTALACIONES DE GAS. En crematorios, calderas, empresas que requieren este tipo de energético para sus procesos de producción o distribución, instalaciones de gas subterráneas ya sean en vía pública o propiedad privada; y
+
+VIII. PERITOS CORRESPONSABLE EN RESTAURACIÓN.- Para todas las edificaciones nuevas y existentes dentro de la Zona de Monumentos, las que colinden con bienes de valor patrimonial y las catalogadas fuera de ella, para mantenimiento, restauración, aseguramiento, reestructuración, integración, reintegración, consolidación, anastilosis, adecuación, introducción de nuevos sistemas de instalaciones y servicios, actualización de sitios históricos y revitalización.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 667.
 
-Para obtener el registro como Corresponsable, se requiere presentar además de los requisitos señalados en la fracción I incisos a), b), d), e), f) y g) del artículo 662 los documentos siguientes:
+Para obtener o refrendar el registro como Perito Corresponsable, se requiere:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ENERO DE 2010)</small>
+I. Acreditar que posee título y cédula profesional de licenciatura o maestría correspondiente a alguna de las siguientes profesiones:
 
-I. Presentar copia certificada del título y cédula profesional de licenciatura o maestría correspondiente a alguna de las siguientes profesiones:
+a) Seguridad Estructural: De Arquitecto, Ingeniero Arquitecto, Ingeniero Civil, Ingeniero Militar, Ingeniero Constructor e Ingeniero Municipal;
 
-a) Para Seguridad Estructural, Diseño Urbano y Arquitectónico: De Arquitecto, Ingeniero Arquitecto, Ingeniero Civil, Ingeniero Militar Constructor e Ingeniero Municipal o Diseño Urbano;
+b) Desarrollo Urbano: De Arquitecto, Ingeniero Arquitecto, Ingeniero Civil, Ingeniero Militar, Ingeniero Constructor e Ingeniero Municipal, Diseñador Urbano Ambiental y Urbanista;
 
-b) Para instalaciones:
+c) Diseño Arquitectónico: De Arquitecto, Ingeniero Arquitecto, Ingeniero Civil, Ingeniero Militar, Ingeniero Constructor e Ingeniero Municipal;
 
--Instalaciones Mecánicas: Ingenieros Mecánicos, o Mecánico Electricista.
+d) Instalaciones Mecánicas: Ingenieros Mecánicos, o Mecánico Electricista;
 
--Instalaciones Eléctricas: Ingenieros Mecánicos Electricistas, Ingeniero Electricista o Ingeniero Industrial en Electricidad.
+e) Instalaciones Eléctricas: Ingenieros Mecánicos Electricistas, Ingeniero Electricista o Ingeniero Industrial en Electricidad;
 
--Instalaciones Hidráulicas y Sanitarias: Arquitecto, Ingeniero Civil, Ingeniero Militar Constructor e Ingeniero Municipal, Ingeniero Mecánico o Mecánico Electricista.
+f) Instalaciones Hidráulicas y Sanitarias: Arquitecto, Ingeniero Civil, Ingeniero Militar, Ingeniero Constructor e Ingeniero Municipal, Ingeniero Mecánico o Mecánico Electricista;
 
--Instalaciones de Gas: Ingenieros Mecánicos, Ingeniero Mecánico Electricista, Ingeniero Químico o Ingeniero Químico Industrial.
+g) Instalaciones de Gas: Ingenieros Mecánicos, Ingeniero Mecánico Electricista, Ingeniero Químico o Ingeniero Químico Industrial, Ingenieros Civiles; y
 
-Para los Corresponsables en Restauración se requiere, además de las señaladas en el párrafo inicial de esta fracción: la especialización académica correspondiente como restaurador de sitios y monumentos, conservador de sitios y monumentos, u otras, afines a la disciplina, a consideración de la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables y del Comité Técnico correspondiente;
+h) Para los Peritos Corresponsables en Restauración se requiere, la especialización académica correspondiente como restaurador de sitios y monumentos, conservador de sitios y monumentos, u otras afines a la disciplina y experiencia en obras de restauración, o acreditar experiencia en la especialidad a consideración de la CAAPDROC y del Comité Técnico correspondiente;
 
-> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
+II. Acreditar ante la CAAPDROC, que conoce la Ley de Desarrollo Urbano Sustentable del Estado de Puebla, el presente Código y sus Normas, la normativa de carácter ambiental y demás leyes y disposiciones relativas al diseño urbano, vivienda, construcción, imagen urbana, anuncios, equipamiento, mobiliario urbano y la conservación del Patrimonio Histórico, Artístico y Arqueológico de la Federación, los Programas y las Normas de Ordenamiento Territorial, para lo cual debe obtener el dictamen favorable del Comité Técnico correspondiente;
 
-II. Acreditar el examen que aplique la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables del Municipio de Puebla, en lo relativo a los aspectos correspondientes a su especialidad;
+III. Acreditar como mínimo cinco años de experiencia en el ejercicio profesional en la especialidad mediante currículo que deberá contener:
 
-> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
+a) Desglose de cada una de las obras en que haya intervenido;
 
-III. Acreditar como mínimo cinco años en el ejercicio profesional de su especialidad, mediante currículum vitae debidamente sustentado, y actualizado con: a) Desgloce (sic) de cada una de las obras en que haya tenido intervención; b) Tipo de obra; c) Fecha o periodo de supervisión de la obra; d) Ubicación de la obra supervisada; e) Superficie construida; f) Director Responsable de Obra; g) Empresa a la que ha prestado sus servicios profesionales; debiendo acompañarlo de los convenios, contratos, facturas, actas de entrega recepción, constancias de terminación de obra y demás documentos que avalen las obras o actividades declaradas;
+b) El tipo de obra;
 
-IV. (DEROGADA, P.O. 22 DE ENERO DE 2010)
+c) Fecha de supervisión de la obra;
 
-> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
+d) Ubicación de la obra;
 
-V. Presentar constancia vigente de haber acreditado el curso de Directores Responsables de Obra y Corresponsables. Constancia que deberá tener como término máximo de expedición el de dos años, al día en que se inicien los trámites administrativos correspondientes ante la Dirección de Gestión Urbana; y
+e) Superficie construida;
 
-VI. Para obtener el refrendo como Corresponsable deberá acreditar cursos de actualización en su especialidad, cumpliendo con los requerimientos que para el caso determine la CAADROC.
+f) Nombre y número de registro del Director Responsable de Obra; y
 
-> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2010)</small>
+g) Datos de la empresa en la que ha prestado sus servicios profesionales, presentando convenios, contratos, facturas, actas de entrega-recepción, constancias de terminación de obra, carta de la empresa y demás documentos que avalen las obras o actividades declaradas.
 
-La Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables del Municipio de Puebla, resolverá sobre el examen y el registro en los términos señalados por el artículo 662 del presente Código Reglamentario.
+IV. Presentar constancia vigente de haber acreditado el curso de Peritos Directores Responsables de Obra y Corresponsables. Constancia que deberá tener como término máximo de expedición el de dos años, al día en que se inicien los trámites administrativos correspondientes ante la Dirección; y
 
-> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2010)</small>
+V. Para obtener el refrendo como Corresponsable deberá acreditar cursos de actualización en su especialidad, cumpliendo con los requerimientos que para el caso determine la CAAPDROC.
 
-Dentro del mes de enero de cada ejercicio fiscal, los Corresponsables de Obra deberán refrendar su registro ante la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables del Municipio de Puebla, previo pago de los derechos correspondientes, siempre y cuando no haya sido cancelado por causas imputables a los mismos. Debiendo informar a dicha Comisión, sobre su participación en aquellas licencias en las que haya otorgado su responsiva, así como de sus demás actuaciones con ese carácter.
+La CAAPDROC, resolverá sobre el examen y el registro en los términos señalados por el artículo 662 del presente Código Reglamentario.
+
+Dentro del mes de enero de cada ejercicio fiscal, los Peritos Corresponsables de Obra deberán refrendar su registro ante la CAAPDROC, previo pago de los derechos correspondientes, siempre y cuando no haya sido cancelado por causas imputables a los mismos.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 668.
 
@@ -10697,63 +11135,73 @@ Funciones de los Corresponsables. Los Corresponsables otorgarán su responsiva e
 
 I. CORRESPONSABLE EN SEGURIDAD ESTRUCTURAL, cuando:
 
-a) Suscriba conjuntamente con el Director Responsable de Obra una licencia de construcción.
+a) Suscriba conjuntamente con el Perito Director Responsable de Obra una licencia de construcción;
 
-b) Suscriba los planos del proyecto estructural, la memoria de diseño de la cimentación y la estructura.
+b) Suscriba los planos del proyecto estructural, la memoria de diseño de la cimentación y la estructura;
 
-c) Suscriba los procedimientos de construcción de las obras y los resultados de las pruebas de control de calidad de los materiales empleados.
+c) Suscriba los procedimientos de construcción de las obras y los resultados de las pruebas de control de calidad de los materiales empleados;
 
-d) Suscriba un dictamen técnico de estabilidad, o seguridad de una edificación o instalación, o
+d) Suscriba un dictamen técnico de estabilidad, o seguridad de una edificación o instalación; o
 
 e) Suscriba una constancia de seguridad estructural.
 
-II. CORRESPONSABLE EN DISEÑO URBANO Y ARQUITECTÓNICO, cuando:
+II. CORRESPONSABLE EN DESARROLLO URBANO, cuando:
 
-a) Suscriba conjuntamente con el Director Responsable de Obra una licencia de construcción.
+a) Suscriba conjuntamente con el Perito Director Responsable de Obra una licencia de construcción; y
 
 b) Suscriba la memoria y los planos del proyecto urbanístico y/o arquitectónico.
 
-III. CORRESPONSABLE EN INSTALACIONES HIDRÁULICAS, SANITARIAS, ELÉCTRICAS, MECÁNICAS Y DE GAS, cuando:
+III. CORRESPONSABLE EN DISEÑO ARQUITECTÓNICO, cuando:
 
-a) Suscriba conjuntamente con el Director Responsable de Obra una licencia de construcción.
+a) Suscriba conjuntamente con el Perito Director Responsable de Obra una licencia de construcción.
 
-b) Suscriba la memoria de diseño y los planos del proyecto de instalaciones.
+b) Suscriba la memoria y los planos del proyecto urbanístico y/o arquitectónico.
 
-c) Suscriba los procedimientos sobre la seguridad de las instalaciones.
+IV. CORRESPONSABLE EN INSTALACIONES HIDRÁULICAS, SANITARIAS, ELÉCTRICAS MECÁNICAS Y DE GAS, cuando:
 
-d) Suscriba constancia de la calidad de los equipos y materiales.
+a) Suscriba conjuntamente con el Perito Director Responsable de Obra una licencia de construcción;
 
-IV. CORRESPONSABLE EN RESTAURACIÓN cuando:
+b) Suscriba la memoria de diseño y los planos del proyecto de instalaciones;
 
-a) Suscriba conjuntamente con el Director Responsable de Obra una licencia o permiso para los tipos de obra mencionados en el artículo 666 fracción IV.
+c) Suscriba los procedimientos sobre la seguridad de las instalaciones; y
+
+d) Suscriba constancia de la calidad de los equipos y materiales;
+
+V. CORRESPONSABLE EN RESTAURACIÓN, cuando:
+
+a) Suscriba conjuntamente con el Perito Director Responsable de Obra una licencia o permiso para los tipos de obra mencionados en el artículo 666 fracción IV; y
 
 b) Suscriba la memoria y los planos del proyecto de intervención.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 669.
 
-Son obligaciones de los Corresponsables:
+Todos los Peritos Corresponsables deberán refrendar su registro cada año.
 
-I. CORRESPONSABLES EN SEGURIDAD ESTRUCTURAL
+Todos los Peritos deberán incluir en el letrero de la obra su nombre y número de registro.
 
-a) Suscribir, conjuntamente con el Director Responsable de Obra, la solicitud de licencia, cuando se trate de obras clasificadas como tipos A y B 1, previstas en el Artículo 666.
+Todos los Peritos Corresponsables deberán responder ante la Dirección por las violaciones a las normas técnicas aplicables, detectadas en las obras en las que hayan otorgado su responsiva.
 
-b) Verificar que en el proyecto de la cimentación y de la estructura, se hayan realizado los estudios del suelo y de las construcciones colindantes, con el objeto de constatar que el proyecto cumple con las características de seguridad necesaria, establecida en el apartado relativo al Proyecto Arquitectónico del presente Capítulo.
+Son obligaciones de los Peritos Corresponsables por cada especialidad:
 
-c) Verificar que el proyecto cumpla con las características generales para seguridad estructural establecida en el apartado relativo al Proyecto Arquitectónico del presente Capítulo.
+I. PERITO CORRESPONSABLE EN SEGURIDAD ESTRUCTURAL.
 
-d) Vigilar que la construcción, durante el proceso de la obra, se apegue estrictamente al proyecto estructural, y que tanto los procedimientos, como los materiales empleados, corresponden a los especificados y a las normas de calidad del proyecto. Tendrá especial cuidado en que la construcción de las instalaciones no afecten los elementos estructurales, en forma diferente a lo dispuesto en el proyecto.
+a) Suscribir, conjuntamente con el Perito Director Responsable de Obra, la solicitud de licencia, cuando se trate de obras clasificadas como tipos A y B 1, previstas en el apartado relativo al Diseño Estructural, Requisitos de seguridad y servicio para las estructuras;
 
-e) Notificar al Director Responsable de Obra, cualquier irregularidad durante el proceso de la obra, que pueda afectar la seguridad estructural de la misma, asentándose en el libro de bitácora. En caso de no ser atendida esta notificación, deberá comunicarlo a la Dirección para que proceda a la suspensión de los trabajos enviando copia a la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables.
+b) Verificar que en el proyecto de la cimentación y de la estructura, se hayan realizado los estudios del suelo y de las construcciones colindantes, con el objeto de constatar que el proyecto cumple con las características de seguridad necesaria, establecida en el apartado relativo al Diseño Estructural, Requisitos de seguridad y servicio para las estructuras;
 
-f) Responder de cualquier violación a las disposiciones del presente Capítulo, relativas a su especialidad.
+c) Verificar que el proyecto cumpla con las características generales para seguridad estructural establecida en el apartado relativo al Diseño Estructural, Requisitos de seguridad y servicio para las estructuras;
 
-g) Incluir en el letrero de la obra su nombre y número de registro.
+d) Vigilar que el proceso de la obra, se apegue estrictamente al proyecto estructural autorizado y que tanto los procedimientos, como los materiales empleados, cumplan con las normas de calidad del proyecto. Asimismo cuidará en que la construcción de las instalaciones no afecte los elementos estructurales, ni se realicen en forma diferente a lo dispuesto en el proyecto; y
 
-II. CORRESPONSABLE EN DISEÑO URBANO Y ARQUITECTÓNICO
+e) Notificar al Perito Director Responsable de Obra, cualquier irregularidad durante el proceso de la obra, que pueda afectar la seguridad estructural de la misma, asentándose en el libro de bitácora. En caso de no ser atendida esta notificación, deberá comunicarlo a la Dirección para que proceda a la suspensión de los trabajos enviando copia a la CAAPDROC.
 
-a) Suscribir, conjuntamente con el Director Responsable de Obra, la solicitud de licencia, cuando se trate de las obras previstas en el Artículo 666.
+II. PERITO CORRESPONSABLE EN DESARROLLO URBANO.
 
-b) Revisar el proyecto en los aspectos correspondientes a su especialidad, verificando que hayan sido realizados los estudios y se hayan cumplido las disposiciones establecidas por el presente Capítulo y el Programa de Desarrollo Urbano del Municipio de Puebla y en su caso, la Ley de Fraccionamientos y Acciones Urbanísticas del Estado de Puebla.
+a) Suscribir, conjuntamente con el Perito Director Responsable de Obra, la solicitud de licencia, cuando se trate de las obras previstas en el artículo 666 fracción II;
+
+b) Vigilar que el estudio de impacto urbano o impacto urbano-ambiental se apegue a los lineamientos técnicos establecidos en la Ley de Desarrollo Urbano Sustentable del Estado de Puebla, la Ley de Fraccionamientos y Acciones Urbanísticas del Estado de Puebla, el Programa Municipal de Desarrollo Urbano Sustentable de Puebla, el Manual Técnico de Accesibilidad y el presente Capítulo;
 
 c) Verificar que el proyecto cumple con las disposiciones relativas a:
 
@@ -10767,127 +11215,183 @@ c) Verificar que el proyecto cumple con las disposiciones relativas a:
 
 5. Las disposiciones legales y reglamentarias en materia de preservación del patrimonio, tratándose de edificios y conjuntos catalogados como monumentos o ubicados en zonas patrimoniales.
 
-d) Vigilar que la construcción, durante el proceso de la obra, se apegue estrictamente al proyecto correspondiente a su especialidad y tanto que los procedimientos, como los materiales empleados, corresponden a los especificados y a las normas de calidad del proyecto.
+d) Vigilar que la construcción durante el proceso de la obra, se apegue estrictamente al proyecto correspondiente a su especialidad y tanto que los procedimientos, como los materiales empleados, corresponden a los especificados y a las normas de calidad del proyecto; y
 
-e) Notificar al Director Responsable de Obra cualquier irregularidad durante el proceso de la obra, que pueda afectar la ejecución del proyecto, asentándose en el libro de bitácora. En caso de no ser atendida esta notificación deberá comunicarlo a la Dirección, para que se proceda a la suspensión de los trabajos, enviando copia a la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables.
+e) Notificar al Perito Director Responsable de Obra cualquier irregularidad durante el proceso de la obra, que pueda afectar la ejecución del proyecto, asentándose en el libro de bitácora. En caso de no ser atendida esta notificación deberá comunicarlo a la Dirección, para que se proceda a la suspensión de los trabajos, enviando copia a la CAAPDROC;
 
-f) Responder de cualquier violación a las disposiciones del presente Capítulo, relativas a su especialidad.
+III. PERITO CORRESPONSABLE EN DISEÑO ARQUITECTÓNICO.
 
-h) (sic) Incluir en el letrero de la obra su nombre y número de registro.
+a) Suscribir, conjuntamente con el Perito Director Responsable de Obra, la solicitud de licencia, cuando se trate de las obras previstas en el artículo 666;
 
-III CORRESPONSABLE EN INSTALACIONES HIDRÁULICAS, SANITARIAS, ELÉCTRICAS, MECÁNICAS Y DE GAS
+b) Revisar el proyecto en los aspectos correspondientes a su especialidad, verificando que hayan sido realizados los estudios y se hayan cumplido las disposiciones establecidas por el presente Capítulo, el Programa Municipal de Desarrollo Urbano Sustentable de Puebla, el Manual Técnico de Accesibilidad, la Ley de Desarrollo Urbano Sustentable para el Estado de Puebla, la Ley de Fraccionamientos y Acciones Urbanísticas del Estado de Puebla;
 
-a) Suscribir conjuntamente con el Director Responsable de Obra, la solicitud de licencia, cuando se trate de las obras previstas en el Artículo 666.
+c) Verificar que el proyecto cumple con las disposiciones relativas a:
 
-b) Revisar el proyecto en los aspectos correspondientes a su especialidad, verificando que hayan sido realizados los estudios y se hayan cumplido con las disposiciones del presente Capítulo y la legislación vigente al respecto, relativas a la seguridad, control de incendios y funcionamiento de las instalaciones.
+1. El programa parcial respectivo y las declaratorias de usos, destinos y reservas.
 
-c) Vigilar que la construcción durante el proceso de la obra, se apegue estrictamente al proyecto correspondiente a su especialidad y que tanto los procedimientos, como los materiales empleados corresponden a los especificados y a las normas de calidad del proyecto.
+2. Las condiciones que se exijan en el dictamen de uso de suelo.
 
-d) Notificar al Director Responsable de Obra cualquier irregularidad durante el proceso de la obra, que pueda afectar su ejecución, asentándolo en el libro de bitácora. En caso de no ser atendida esta notificación deberá comunicarla a la Dirección para que proceda a la suspensión de los trabajos, enviando copia a la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables.
+3. Los requerimientos de constancia de terminación de obra y ocupación de inmueble.
 
-e) Responder de cualquier violación a las disposiciones del presente Capítulo, relativas a su especialidad.
+4. La disposición que señale el Código Civil en materia de condominios para el Estado de Puebla.
 
-f) Incluir en el letrero de la obra su nombre y número de registro, y
+5. Las disposiciones legales y reglamentarias en materia de preservación del patrimonio, tratándose de edificios y conjuntos catalogados como monumentos o ubicados en zonas patrimoniales.
 
-IV. CORRESPONSABLE EN RESTAURACIÓN
+d) Vigilar que la construcción durante el proceso de la obra, se apegue estrictamente al proyecto correspondiente a su especialidad y tanto que los procedimientos, como los materiales empleados, corresponden a los especificados y a las normas de calidad del proyecto; y
 
-a) Suscribir conjuntamente con el Director Responsable de Obra, la solicitud de licencia ante el Instituto correspondiente y el Ayuntamiento, cuando se trate de las obras previstas en el Artículo 666, fracción IV.
+e) Notificar al Perito Director Responsable de Obra cualquier irregularidad durante el proceso de la obra, que pueda afectar la ejecución del proyecto, asentándose en el libro de bitácora. En caso de no ser atendida esta notificación deberá comunicarlo a la Dirección, para que se proceda a la suspensión de los trabajos, enviando copia a la CAAPDROC;
 
-b) Revisar el proyecto en los aspectos correspondientes a su especialidad, verificando que hayan sido realizados los estudios requeridos por el caso y se hayan cumplido con las disposiciones de este Capítulo y la legislación vigente al respecto, relativas restauración, conservación, mantenimiento, adecuación y demás que le competen.
+IV. PERITO CORRESPONSABLE EN INSTALACIONES MECÁNICAS.
 
-c) Vigilar que la obra durante el proceso de intervención, se apegue estrictamente al proyecto correspondiente a su especialidad y que tanto los procedimientos, como los materiales empleados concuerdan con los especificados y con las normas de calidad del proyecto de restauración, adecuación y rescate aprobado.
+a) Suscribir, conjuntamente con el Perito Director Responsable de Obra, la solicitud de licencia, cuando se trate de las obras previstas en el artículo 666;
 
-d) Notificar al Director Responsable de Obra cualquier irregularidad durante el proceso de la obra, que pueda afectar su ejecución, asentándolo en el libro de bitácora. En caso de no ser atendida esta notificación deberá comunicarla a la Dirección y al Instituto correspondiente para que proceda a la suspensión de los trabajos, enviando copia a la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables.
+b) Revisar el proyecto en los aspectos correspondientes a su especialidad, verificando que hayan sido realizados los estudios y se hayan cumplido con las disposiciones del presente Capítulo y la legislación vigente al respecto, relativas a la seguridad, control de incendios y funcionamiento de las instalaciones;
 
-e) Responder de cualquier violación a las disposiciones del presente Capítulo, relativas a su especialidad.
+c) Vigilar que la construcción durante el proceso de la obra, se apegue estrictamente al proyecto correspondiente a su especialidad y que tanto los procedimientos, como los materiales empleados corresponden a los especificados y a las normas de calidad del proyecto; y
 
-f) Incluir en el letrero de la obra su nombre y número de registro.
+d) Notificar al Perito Director Responsable de Obra cualquier irregularidad durante el proceso de la obra, que pueda afectar su ejecución, asentándolo en el libro de bitácora.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 22 DE ENERO DE 2010)</small>
+En caso de no ser atendida esta notificación deberá comunicarla a la Dirección para que proceda la suspensión de los trabajos, enviando copia a la CAAPDROC.
 
-DE LA COMISION DE ASESORIA Y ADMISIÓN DE DIRECTORES RESPONSABLES
+V. PERITO CORRESPONSABLE EN INSTALACIONES ELÉCTRICAS, HIDRÁULICAS Y SANITARIAS Y DE GAS.
 
-DE OBRA Y CORRESPONSABLES
+a) Suscribir, conjuntamente con el Perito Director Responsable de Obra, la solicitud de licencia, cuando se trate de las obras previstas en el artículo 666;
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+b) Revisar el proyecto en los aspectos correspondientes a su especialidad, verificando que hayan sido realizados los estudios y se hayan cumplido las disposiciones establecidas por el presente Capítulo, el Programa Municipal de Desarrollo Urbano Sustentable de Puebla, el Manual Técnico de Accesibilidad, la Ley de Desarrollo Urbano Sustentable para el Estado de Puebla, la Ley de Fraccionamientos y Acciones Urbanísticas del Estado de Puebla;
+
+c) Verificar que el proyecto cumple con las disposiciones relativas a:
+
+1. El programa parcial respectivo y las declaratorias de usos, destinos y reservas.
+
+2. Las condiciones que se exijan en el dictamen de uso de suelo.
+
+3. Los requerimientos de constancia de terminación de obra y ocupación de inmueble.
+
+4. La disposición que señale el Código Civil en materia de condominios para el Estado de Puebla.
+
+5. Las disposiciones legales y reglamentarias en materia de preservación del patrimonio, tratándose de edificios y conjuntos catalogados como monumentos o ubicados en zonas patrimoniales.
+
+d) Vigilar que la construcción, durante el proceso de la obra, se apegue estrictamente al proyecto correspondiente a su especialidad y tanto que los procedimientos, como los materiales empleados, corresponden a los especificados y a las normas de calidad del proyecto; y
+
+e) Notificar al Perito Director Responsable de Obra cualquier irregularidad durante el proceso de la obra, que pueda afectar la ejecución del proyecto, asentándose en el libro de bitácora. En caso de no ser atendida esta notificación deberá comunicarlo a la Dirección, para que se proceda a la suspensión de los trabajos, enviando copia a la CAAPDROC.
+
+VI. PERITO CORRESPONSABLE EN RESTAURACIÓN.
+
+a) Suscribir, conjuntamente con el Perito Director Responsable de Obra, la solicitud de licencia ante el Instituto correspondiente y el Ayuntamiento, cuando se trate de las obras previstas en el artículo 666 fracción IV;
+
+b) Revisar el proyecto en los aspectos correspondientes a su especialidad, verificando que hayan sido realizados los estudios requeridos por el caso y se hayan cumplido con las disposiciones de este Capítulo y la normativa federal y estatal relativas restauración (sic), conservación, mantenimiento, adecuación y demás que le competen;
+
+c) Vigilar que el proceso de intervención, se apegue estrictamente al proyecto autorizado y que tanto los procedimientos, como los materiales empleados cumplan con las normas de calidad del proyecto de restauración, adecuación y rescate aprobado; y
+
+d) Notificar al Perito Director Responsable de Obra cualquier irregularidad durante el proceso de la obra, que pueda afectar su ejecución, asentándolo en el libro de bitácora de obra. En caso de no ser atendida esta notificación deberá comunicarla a la Dirección y al Instituto correspondiente para que proceda a la suspensión de los trabajos, enviando copia a la CAAPDROC.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE JUNIO DE 2012)</small>
+
+DE LA COMISIÓN DE ASESORÍA Y ADMISIÓN DE PERITOS DIRECTORES RESPONSABLES DE OBRA Y CORRESPONSABLES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 670.
 
-La Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables del Municipio de Puebla, se integrará por:
+La CAAPDROC, se integrará jerárquicamente por:
 
-I. Un Presidente, con voz y voto, que será el Presidente Municipal;
+I. Un Presidente, con voz y voto que será el Presidente Municipal;
 
-II. Un Vicepresidente, con voz y voto, que será el Titular de la Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable;
+II. Un Vicepresidente Ejecutivo, con voz y voto designado por la CAAPDROC;
 
-III. Un Secretario Técnico, con voz y voto, que será el Director de Gestión y Desarrollo Urbano Sustentable;
+III. Un Secretario Técnico, que deberá cumplir con las siguientes condiciones:
 
-IV. Un Vocal, con voz y voto, que será el Director de Obras;
+a) Ser un funcionario de la Secretaría con el perfil técnico de Perito Director Responsable de Obra o Corresponsable;
 
-V. Un Vocal, con voz y voto, que será el Presidente de la Comisión de Regidores de Desarrollo Urbano y Obras Públicas;
+b) Ser designado por el Presidente de la CAAPDROC en la segunda sesión del mes de octubre;
 
-VI. Un Vocal, con voz y voto, que será el Director de la Agencia de Protección al Ambiente para el Desarrollo Sustentable del Municipio de Puebla;
+c) Tendrá una duración en su cargo por el periodo de dos años; y
 
-VII. Un Vocal, con voz y voto, de cada uno de los siguientes Colegios:
+d) Tendrá voz y voto de calidad en caso de empate.
 
-a) Colegios de Ingenieros Civiles registrados ante la Dirección de Gestión en el Municipio de Puebla;
+IV. Un vocal con voz y voto que será representante de cada uno de los siguientes organismos:
 
-b) Colegios de Arquitectos registrados ante la Dirección de Gestión en el Municipio de Puebla;
+a) Colegios de Ingenieros Civiles;
 
-c) Colegios de Ingenieros Municipales registrados ante la Dirección de Gestión en el Municipio de Puebla;
+b) Colegios de Arquitectos;
 
-d) Colegios de Ingenieros Mecánicos y Electricistas registrados ante la Dirección de Gestión en el Municipio de Puebla;
+c) Colegios de Ingenieros Municipales;
 
-e) Colegios de Restauradores registrados ante la Dirección de Gestión en el Municipio de Puebla; y
+d) Colegios de Ingenieros Mecánicos y Electricistas;
 
-f) Colegio de Urbanistas registrados ante la Dirección de Gestión en el Municipio de Puebla.
+e) Colegios de Restauradores; y
 
-VIII. Cuatro Vocales, con voz y sin voto, que serán los Presidentes de los Consejos Municipales de Participación Ciudadana siguientes:
+f) Colegios de Urbanistas.
+
+Los Colegios de Profesionistas a que se refiere esta fracción y cuya actividad profesional o especialidad se encuentre directamente relacionada con la edificación, deberán estar registrados ante la Dirección, ante quien deberán acreditar su inscripción en la Secretaría de Educación Pública Federal conforme a las normas y procedimientos de la Ley Reglamentaria del artículo 5o. Constitucional, relativo al ejercicio de las Profesiones en el Distrito Federal.
+
+V. Un vocal propietario con voz y voto que será el Regidor Presidente de cada una de las siguientes comisiones de Regidores del H. Ayuntamiento:
+
+a) De Desarrollo Urbano y Obras Públicas; y
+
+b) De Ecología y Medio Ambiente.
+
+VI. Un vocal propietario con voz pero sin voto que será representante de cada uno de los siguientes Consejos de Participación Ciudadana:
 
 a) De Desarrollo Urbano;
 
-b) De Centro Histórico y Patrimonio Edificado;
+b) Del Centro Histórico y Patrimonio Edificado;
 
-c) De Ecología; y
+c) De Obras y Servicios Públicos;
 
-d) De Obra y Servicios Públicos.
+d) De Ecología; y
 
-Todos los miembros de la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables del Municipio de Puebla, deberán nombrar un suplente que los representará en caso de ausencia.
+e) De Grupos Vulnerables.
 
-El Presidente de la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables del Municipio de Puebla, contará con voto de calidad en caso de empate en los acuerdos tomados por la misma Comisión.
+Todos los cargos de la CAAPDROC deberán ser representados además del titular, por un suplente que cumplirá con el mismo perfil profesional.
 
-Los Vocales señalados en la fracción VII, serán nombrados en Sesión Ordinaria de Cabildo de entre los Colegios registrados ante la Dirección de Gestión.
+Todos los miembros de la CAAPDROC deberán tener registro de Perito Director Responsable de Obra o Corresponsable, a excepción de los mencionados en las fracciones I, V y VI de este artículo.
 
-Los miembros de la Comisión deberán tener registro de Director Responsable de Obra o Corresponsable, a excepción de los mencionados en las fracciones I, V, VI y VIII de este articulo.
+En el mes de octubre de cada año, la CAAPDROC, a través de la Secretaría, solicitará a cada uno de los organismos participantes, los nombres de sus representantes propietarios y suplentes, quienes deberán cumplir con lo dispuesto en este artículo.
 
-En el mes de octubre de cada año, la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables del Municipio de Puebla, a través de la Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable, solicitará a cada uno de los organismos participantes, los nombres de sus representantes propietario y suplente, quienes deberán cumplir con lo dispuesto en este articulo.
+El periodo para la gestión de los representantes de Colegios será por un año y podrán ser ratificados para el periodo inmediato siguiente sin que el total de su gestión exceda de dos años.
 
-El periodo para la gestión de los representantes de Colegios será por un año y podrán ser ratificados por un máximo de dos años.
+No podrán ser electos al cargo de Secretario Técnico los integrantes mencionados en las fracciones I, II, V y VI de este artículo.
 
-Las sesiones de la Comisión serán válidas cuando asistan por lo menos el cincuenta por ciento más uno de los representantes de las instituciones mencionadas.
+Las sesiones de la CAAPDROC serán válidas cuando asistan por lo menos el cincuenta por ciento más uno de los representantes de las instituciones mencionadas, siendo obligatorias las decisiones que se tomen en dichas sesiones para los miembros ausentes debidamente convocados.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 671.
 
-La Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables tendrá las siguientes atribuciones:
+La CAAPDROC tendrá las siguientes atribuciones:
 
-I. Verificar que los aspirantes a obtener o refrendar el registro como Director Responsable de Obra o Corresponsable, cumplan con los requisitos establecidos en los artículos 662 y 667;
+I. Verificar que los aspirantes a obtener o refrendar el registro como Perito Director Responsable de Obra o Corresponsable, cumplan con los requisitos establecidos en los artículos 662 y 667;
 
-II. Otorgar el registro respectivo a las personas que hayan cumplido con lo establecido en los preceptos señalados en la fracción anterior;
+II. Validar el otorgamiento del registro respectivo a las personas que hayan cumplido con lo establecido en los preceptos señalados en la fracción anterior;
 
-III. Llevar un registro de las licencias de construcción concedidas a cada Director Responsable de Obra y Corresponsable;
+III. Conocer el registro de las licencias de construcción concedidas a cada Perito Director Responsable de Obra y Corresponsable;
 
-IV. Emitir opinión sobre la actuación de los Directores Responsables de Obra y Corresponsables, cuando les sea solicitado por el propio H. Ayuntamiento o la Dirección o sea considerado por la comisión;
+IV. Emitir opinión sobre la actuación de los Peritos Directores Responsables de Obra y Corresponsables, cuando les sea solicitado por el propio Ayuntamiento o la Secretaría;
 
-V. Vigilar, la actuación de los Directores Responsables de Obra durante el proceso de ejecución de las obras para las cuales haya sido extendida su responsiva, para lo cual se podrá auxiliar de las unidades administrativas del H. Ayuntamiento, en la materia;
+V. Vigilar la actuación de los Peritos Directores Responsables de Obra durante el proceso de ejecución de las obras para las cuales haya sido extendida su responsiva, para lo cual se podrá auxiliar de las unidades administrativas del Ayuntamiento, en la materia;
 
-VI. La Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables, podrá exponer sus consideraciones en relación a todos aquellos artículos previstos en este Capítulo;
+VI. La CAAPDROC, podrá exponer sus consideraciones en relación a todos aquellos artículos previstos en este Capítulo;
 
-> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
+VII. Fomentar la creación de Comités Técnicos, integrados por profesionales de reconocida experiencia y capacidad técnica, los cuales serán nombrados por la CAAPDROC, los cuales se establecerán de la siguiente forma:
 
-VII. Proponer el manual de funcionamiento de la misma y de los Comités que la forman, que contemplarán, entre otros aspectos, las propuestas de remoción de sus miembros, el procedimiento a seguir en los casos de renuncia o fallecimiento y el carácter rotatorio de la Presidencia de los Comités y deberán contar para ser vigentes con la aprobación de Cabildo; para lo cual los Regidores integrantes de la Comisión serán el conducto; y
+a) Un Comité Técnico de Peritos Directores Responsables de Obra, por dos especialistas en diseño y construcción de cimentaciones y estructuras, uno en desarrollo urbano y uno en diseño arquitectónico; dos en instalaciones;
 
-VIII. Emitir opinión sobre las licencias de construcción de todas aquellas obras que por sus características constructivas o de impacto publico puedan afectar la traza urbana, los usos, las costumbres o la seguridad de la ciudadanía.
+b) Cinco Comités Técnicos de Corresponsables, uno por cada una de las siguientes disciplinas: seguridad estructural, desarrollo urbano, diseño arquitectónico, restauración e instalaciones. Se formará cada cual con seis profesionales especialistas en la correspondiente disciplina;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ENERO DE 2010)</small>
+c) Los Comités evaluarán los conocimientos de los aspirantes a Perito Director Responsable de Obra y Corresponsables, debiendo emitir el dictamen correspondiente y enviarlo a la CAAPDROC, para los efectos conducentes, y
+
+d) Los miembros de los Comités durarán en sus funciones dos años.
+
+VIII. Proponer el manual de funcionamiento de la misma y de los Comités Técnicos que la forman, que contemplarán el procedimiento para la evaluación de los aspirantes para Peritos Directores Responsables de Obra y Corresponsables, las propuestas de remoción de sus miembros, el procedimiento a seguir en los casos de renuncia o fallecimiento y el carácter rotatorio de la presidencia de los Comités y deberán contar para ser vigentes con la aprobación de Cabildo; para lo cual los Regidores integrantes de la CAAPDROC serán el conducto;
+
+IX. Emitir opinión sobre las licencias de construcción de todas aquellas obras que por sus características constructivas o de impacto público puedan afectar la traza urbana, los usos, las costumbres o la seguridad de la ciudadanía; y
+
+X. Validar las listas oficiales de Peritos Directores Responsables de Obra y Corresponsables, conforme a los procedimientos establecidos en este Capítulo, en términos de lo dispuesto por la Ley Reglamentaria del artículo 5o. Constitucional, relativo al ejercicio de las Profesiones en el Distrito Federal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2010)</small>
 
 ###### Artículo 672.
 
@@ -11007,29 +11511,25 @@ Término de responsabilidad del Director Responsable de Obra.
 
 La responsabilidad administrativa de los Directores Responsable de Obra y de los Corresponsables, si los hubiere, concluye a los cinco años contados a partir de la fecha en se expida la constancia de operación y ocupación o la de terminación de obra.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 676.
 
-Suspensión del Registro de Directores Responsable de Obra.
+Son infracciones cometidas por los Peritos Directores Responsable (sic) de Obra, las siguientes:
 
-Contado con la opinión de la Comisión de admisión de Directores Responsable de Obra y Corresponsables, la Dirección podrá determinar la suspensión del registro a un Director Responsable de Obra, en los siguientes casos:
+I. Si obtiene su inscripción proporcionado datos falsos, presentando documentos apócrifos o información errónea o alterada;
 
-I. Si obtiene su inscripción proporcionado datos falsos, presentando documentos falsificados o información equivocada en la solicitud de licencia o en sus anexos;
+II. Si no cumple con las obligaciones señaladas en este Capítulo; y
 
-II. Si la Comisión de admisión de Directores Responsable (sic) de Obra y Corresponsables en el Estado que indica la falta de cumplimiento de sus obligaciones en los casos en que haya su responsiva profesional;
-
-III. Si ha reincidido en violaciones a las leyes, reglamentos, planes y demás normas aplicables;
-
-La dirección determinará la suspensión de registro por 90 días naturales, para Directores Responsable (sic) de Obra con licencia vigente que incurra en alguno de los casos mencionados. También podrá determinar pendiente de autorización la renovación anual del registro de Directores Responsable (sic) de Obra hasta que este cumpla con sus obligaciones, señaladas en el presente Capítulo, en las obras en las se haya otorgado su responsiva profesional.
-
-La dirección podrá cancelar definitivamente el registro de Directores Responsable (sic) de Obra, teniendo un dictamen suscrito por la Comisión de Asesoría y Admisión Directores Responsable (sic) de Obra y Corresponsable, situación extrema o al acumular 3 suspensiones, sin perjuicio de que el profesionista en cuestión corrija las irregularidades en que haya incurrido.
-
-El presente Artículo será aplicable, en lo que proceda, también a los Corresponsables, contando con el dictamen por escrito del Comité técnico correspondiente.
+III. Si ha reincidido en violaciones a las leyes, reglamentos, planes y demás normas aplicables.
 
 BIENES DE USO COMÚN Y VÍA PÚBLICA
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 677.
 
-BIENES DE USO COMÚN.- Son bienes de dominio público que consisten en el uso que pueden realizar todas las personas en forma directa, individual o colectivamente, por su sola condición de tales, sujetándose a la obligación de observar las disposiciones reglamentarias dictadas por la autoridad competente.
+BIENES DE USO COMÚN.- Son los bienes de dominio público, los inmuebles destinados por el Municipio a un servicio público y los equiparados a estos, conforme a lo establecido en la Ley Orgánica Municipal y el Código Fiscal y Presupuestario para el Municipio de Puebla.
 
 ###### Artículo 678.
 
@@ -11037,9 +11537,13 @@ LOS BIENES DE USO COMÚN SON:
 
 I. La vía pública;
 
-II. Las plazas, paseos y parques públicos cuya construcción o conservación esté a cargo del Gobierno Municipal;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
-III. Los monumentos artísticos e históricos y las construcciones levantadas por el; y
+II. Los monumentos artísticos e históricos, y las construcciones levantadas en lugares públicos para ornato o comodidad de quienes los visiten;
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+III. Las plazas, paseos, parques, jardines, mercados, centrales de abasto, cementerios y campos deportivos públicos cuya construcción o conservación esté a cargo del Gobierno Municipal; y
 
 IV. Los demás bienes naturales análogos y los considerados de uso común para otras leyes.
 
@@ -11063,7 +11567,9 @@ II. Servir para la aireación, iluminación, y/o asoleamiento de los edificios q
 
 III. Recibir cualquier tipo de instalación aérea o subterránea de una obra o de un servicio público; y
 
-IV. Alojar todo tipo de mobiliario urbano necesario para dar un servicio público, como unidades de servicio informativo municipal, kioscos móviles, bancas, basureros, postes, arbotantes, faroles, casetas telefónicas, casetas para espera de pasajeros, mástil urbano y demás similares.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+IV. Alojar todo tipo de mobiliario urbano necesario para dar un servicio público, como unidades de servicio informativo municipal, kioscos móviles y fijos, bancas, basureros, postes, arbotantes, faroles, casetas telefónicas, casetas para espera de pasajeros, mástil urbano y demás similares, de conformidad con lo que establece el Manual Técnico de Accesibilidad..
 
 ###### Artículo 681.
 
@@ -11113,9 +11619,11 @@ La Dirección, al otorgar licencia para las obras anteriores, señalará en cada
 
 Los solicitantes estarán obligados a efectuar las reparaciones correspondientes para restaurar o mejorar el estado original, así como a realizar el pago de su importe cuando el Ayuntamiento las realice.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 687.
 
-La ocupación de la vía pública con mobiliario urbano utilizado con fines publicitarios, se permitirá siempre y cuando el mobiliario cumpla con funciones de carácter social.
+La ocupación de la vía pública con mobiliario urbano utilizado con fines publicitarios, se permitirá siempre y cuando el mobiliario cumpla con funciones de carácter social y respeto a lo que establece el Manual Técnico de Accesibilidad.
 
 ###### Artículo 688.
 
@@ -11155,17 +11663,23 @@ OBRAS O INSTALACIONES EN LA VÍA PÚBLICA: Toda persona que ocupe con obras o in
 
 En las licencias que la Dirección expida para la ocupación o uso de la Vía Pública se indicará el plazo para retirar o trasladar las obras o las instalaciones a que se ha hecho referencia, así como el área autorizada a ocupar. Toda licencia que se expida para la ocupación y uso de la vía pública, se entenderá condicionada a la observancia de este Capítulo aunque no se exprese.
 
-Cuando las obras o instalaciones ocupen el arroyo de tránsito vehicular, los señalamientos viales preventivos necesarios deberán colocarse como mínimo 50 mts. antes del lugar, en el sentido del tránsito, siempre y cuando no sean arterias de alta velocidad.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+Cuando las obras o instalaciones ocupen el arroyo de tránsito vehicular, se deberá de estar a lo establecido en el artículo 261 de este Código.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 691.
 
-OBRAS DE EMERGENCIA EN LA VÍA PÚBLICA: En caso de fuerza mayor, las empresas de servicios públicos podrán ejecutar de inmediato las obras de emergencia que se requieran, pero estarán obligadas a dar aviso y solicitar la autorización correspondiente en un plazo de tres días previos a aquel en que se inicien dichas obras.
+OBRAS DE EMERGENCIA EN LA VÍA PÚBLICA: En caso de fuerza mayor, las empresas de servicios públicos podrán ejecutar de inmediato las obras de emergencia que se requieran, pero estarán obligadas a dar aviso y solicitar la autorización correspondiente en un plazo de veinticuatro horas posteriores a aquel en que se inicien dichas obras.
 
 Cuando la autoridad municipal tenga necesidad de remover o retirar dichas obras no estará obligada a pagar cantidad alguna y el costo del retiro será a cargo de la empresa correspondiente.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 692.
 
-RETIRO DE OBSTÁCULOS DE LA VÍA PÚBLICA: El Ayuntamiento tomará las medidas necesarias para mantener, obtener o recuperar la posesión de la vía pública, así como para remover o retirar cualquier obstáculo de éstas, en los términos que señalan las leyes y disposiciones aplicables.
+RETIRO DE OBSTÁCULOS DE LA VÍA PÚBLICA: El Ayuntamiento tomará las medidas necesarias para mantener, obtener o recuperar la posesión de la vía pública, así como para remover o retirar cualquier obstáculo de éstas, en los términos que señala la Ley de Desarrollo Urbano Sustentable del Estado de Puebla y el presente Código.
 
 ###### Artículo 693.
 
@@ -11179,17 +11693,21 @@ Los vehículos que carguen o descarguen materiales para una obra, podrán estaci
 
 OBRAS O INSTALACIONES EJECUTADAS EN LA VÍA PÚBLICA SIN AUTORIZACIÓN: El que ocupe sin autorización la vía pública con construcciones o instalaciones superficiales, aéreas o subterráneas, estará obligado a retirarlas o a demolerlas, independientemente de la sanción administrativa a que se haga acreedor.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 696.
 
-Cuándo por la ejecución de una obra, por el uso de vehículos, objetos o substancias peligrosas, o por cualquiera otra causa, se produzcan daños a cualquier servicio público, obra o instalación, pertenecientes al Gobierno del Estado o al Ayuntamiento, que exista en una vía pública o en otro inmueble de uso común o destinado al servicio público, la reparación inmediata de los daños será por cuenta del dueño de la obra, del vehículo, del objeto o de la sustancia peligrosa.
+Cuando por la ejecución de una obra, por el uso de vehículos, objetos o substancias peligrosas, o por cualquiera otra causa, se produzcan daños a cualquier servicio público, obra o instalación, pertenecientes al Gobierno del Estado o al Ayuntamiento, que exista en una vía pública o en otro inmueble de uso común o destinado al servicio público y con el objetivo de garantizar que sea de la misma calidad y materiales que aquellos que se hayan deteriorado o perdido, la Secretaría de manera inmediata llevará a cabo las obras que sean necesarias para reparar los daños ocasionados, y el costo que resulte será a cargo del dueño de la obra, del vehículo, del objeto o de la sustancia peligrosa, independientemente de la responsabilidad legal en que incurra.
 
 ###### Artículo 697.
 
 Cuando se haga necesaria la ruptura de los pavimentos de las vías públicas para la ejecución de alguna obra de interés particular o público, será requisito indispensable recabar la autorización de la Dirección previamente a la iniciación de tales trabajos, a fin de que ésta Dependencia señale las condiciones bajo las cuales se llevarán a cabo, así como el monto de las reparaciones y la forma de obligar a que estas sean hechas en el plazo y condiciones señaladas. La ruptura de pavimentos deberá ser reparada cuando menos, con el mismo material existente, pero nunca con uno de menor calidad.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 698.
 
-Es privativo del Honorable Ayuntamiento la denominación e identificación de las vías públicas, parques, plazas, jardines y demás espacios de uso común o bienes públicos, por lo que queda estrictamente prohibido y sujeto a sanción, el que los particulares alteren las placas de nomenclatura o coloquen placas con nombre no autorizados.
+Es privativo del Honorable Ayuntamiento la denominación e identificación de las vías públicas, parques, plazas, jardines y demás espacios de uso común o bienes públicos, por lo que queda estrictamente prohibido y sujeto a sanción, el que los particulares alteren, sustraigan o dañen las placas de nomenclatura o coloquen placas con nombres no autorizados.
 
 EQUIPAMIENTO URBANO
 
@@ -11197,9 +11715,11 @@ EQUIPAMIENTO URBANO
 
 EQUIPAMIENTO URBANO: Es el conjunto de inmuebles, instalaciones, construcciones y mobiliario, utilizado para prestar a la población los servicios públicos y desarrollar las actividades económicas; considerándose entre otros a los parques, escuelas, jardines, fuentes, mercados, explanadas de los inmuebles de uso público; asistenciales y de salud, mercados, plazas así como instalaciones para protección y comodidad de la ciudadanía.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 700.
 
-Las zonas, áreas o destinos afectas para equipamiento urbano estarán bajo el régimen del Municipio y sujetas a la normatividad de este Capítulo.
+Las zonas y áreas afectadas y destinadas para uso de servicios y/o equipamiento urbano, estarán bajo el régimen del Municipio y sujetas a la normatividad de este Capítulo.
 
 ALINEAMIENTO Y NÚMERO OFICIAL
 
@@ -11303,11 +11823,11 @@ En todo lo relacionado con fraccionamiento, división y subdivisión de predios,
 
 La construcción, adaptación, reconstrucción, ampliación, modificación de edificaciones o instalaciones, el uso, destino o cambio de uso en inmuebles, áreas o predios y toda obra sobre inmuebles deberá obtener, previa a la ejecución de dichas acciones, obras o utilización, la licencia de uso de suelo expedida por la Dirección, así como la manifestación de impacto ambiental, en los supuestos establecidos en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, Ley para la Protección del Ambiente Natural y el Desarrollo Sustentable del Estado de Puebla y su Reglamento.
 
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 709.
 
-PROHIBICIÓN DE CONSTRUCCIÓN EN ZONAS DE RIESGO.- Se prohíbe todo tipo de construcción en las zonas de derrumbes, de ruidos, de conflagración, inundables, de ruinas, de dunas y aquéllas indicadas en los planes y programas de desarrollo urbano, nacionales, estatales o municipales.
+PROHIBICIÓN DE CONSTRUCCIÓN EN ZONAS DE RIESGO: Se prohíbe todo tipo de construcción en las zonas de derrumbes, de ruidos, de conflagración, inundables, de ruinas, de dunas y aquellas indicadas en los planes y programas de desarrollo urbano, nacionales, estatales o municipales, para el caso de colindancias con ríos o barrancas la autoridad competente será la Comisión Nacional del Agua.
 
 LICENCIAS, PERMISOS Y AUTORIZACIONES
 
@@ -11395,39 +11915,61 @@ Será obligación de los solicitantes comparecer ante la Dirección para conocer
 
 La norma urbana contenida en la licencia de uso del suelo será la misma durante todo el tiempo que se encuentre vigente el Programa Municipal de Desarrollo Urbano Sustentable de Puebla con el que se emite, sin perjuicio de las contribuciones a que está obligado su Titular.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 717.
 
-La licencia de uso de suelo es independiente y condiciona la expedición de autorizaciones, permisos o licencias, tales como urbanizaciones, subdivisiones, fraccionamientos, fusiones, relotificaciones, construcciones, demoliciones, reconstrucciones o adaptaciones de obras.
+La Licencia de uso de suelo es independiente de la licencia de construcción menor o mayor y condiciona la expedición de autorizaciones, permisos o licencias, tales como urbanizaciones, subdivisiones, fraccionamientos, fusiones, relotificaciones, construcciones, demoliciones, reconstrucciones o adaptaciones de obras.
+
+Para la Licencia de uso de suelo se deberán cubrir los requisitos generales señalados en el artículo 711 y tratándose de los siguientes casos además se solicitará:
+
+I. Construcciones: Proyecto Arquitectónico que contenga plantas arquitectónicas;
+
+II. Inmuebles en la Zona de Monumentos, así como de los Históricos de los siglos XVI al XIX y los modelos arquitectónicos representativos de la arquitectura del siglo XX que se encuentren fuera de dicha zona: Estudio Técnico de Factibilidad emitido por la Subdirección de Planeación y el dictamen correspondiente emitido por el instituto competente, de acuerdo a lo establecido en la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos;
+
+III. Si la Licencia de uso de suelo es para una construcción nueva y si son más de 10 Unidades: Dictamen de áreas emitido por la Subdirección del Suelo; y
+
+IV. Si la Licencia de uso de suelo es para adecuación o ampliación: Comprobante de antigüedad o terminación de obra.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 718.
 
-La “licencia de uso de suelo específico para obtención de licencia de funcionamiento”, es el documento expedido por la Dirección en el que se especifica el uso permitido en un inmueble, para la operación de un giro comercial.
+La Licencia de uso de suelo específico para obtención de licencia de funcionamiento, es el documento expedido por la Dirección en el que se establece el uso permitido en un inmueble, para la operación de un giro comercial.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 719.
 
-A la solicitud de licencia de uso de suelo específico para obtención de licencia de funcionamiento en inmuebles se acompañarán:
+Para la obtención de la Licencia de Uso de Suelo Específico además de los requisitos generales señalados en el artículo 711, se deberá anexar croquis de localización del predio, y tratándose de:
 
-I. Croquis de ubicación del predio;
+I. Centro Educativo guardería, o centro de reunión: Factibilidad de uso de suelo con documentos que acrediten la solventación de las condicionantes que se señalen en la misma factibilidad;
 
-II. Documentación que ampare el domicilio comercial; y
+II. Estacionamiento: Plano Arquitectónico indicando cajones, acceso y salida del estacionamiento; y
 
-III. El alineamiento y número oficial.
+III. Centros de Verificación Vehicular: Factibilidad de uso de suelo con documentos que acrediten la solventación de las condicionantes que se señalen en la misma factibilidad.
 
-USOS DE SUELO CONDICIONADOS O ESPECIALES
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+###### Artículo 719 Bis.
+
+Los propietarios, poseedores o responsables de establecimientos comerciales que ya estén en funcionamiento deberán contar con un Programa Interno de Protección Civil, el cual deberá ser aprobado por la Unidad Operativa Municipal de Protección Civil.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE JUNIO DE 2012)</small>
+
+USOS DE SUELO CONDICIONADOS
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 720.
 
-Procederá la petición para una licencia de uso especial, cuando el uso o destino solicitado, presente las siguientes características:
+Los usos de suelo condicionados son aquellos que tienen compatibilidad limitada y se encuentran señalados en la tabla de compatibilidades del Programa Municipal de Desarrollo Urbano Sustentable vigente e invariablemente requieren un análisis para cada caso específico.
 
-I. Siempre y cuando se cumplan, realicen u obtengan durante el término de vigencia de la licencia los conceptos, obras, actividades o permisos consignados en la misma;
-
-II. Hasta que acontezca una circunstancia, determinada en la licencia, por la que deja de surtir efectos la licencia y el uso solicitado, como en el caso de afectaciones; y
-
-III. Cuando exista algún proyecto que cumpla los requisitos de normatividad para proyectos especiales contenidos en instrucciones o acuerdos de Cabildo.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 721.
 
-Los conceptos, obras, actividades, permisos o condicionantes a los que deben sujetarse los permisos de uso especial, consistirán entre otros y en los casos en que proceda:
+Los conceptos, obras, actividades, permisos o condicionantes a los que deben sujetarse las licencias de uso condicionado, consistirán entre otros y en los casos en que proceda:
 
 I. Estudio Zonal de Impacto Vial, en caso de que el uso implique concentración vehicular;
 
@@ -11459,83 +12001,51 @@ XIV. Consideración de la Comisión de Asesoría y Admisión de Directores Respo
 
 XV. Otras dependencias involucradas;
 
-XVI. Aprobación de vecinos;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
+XVI. Acuerdo por escrito de la asamblea de la mesa directiva de vecinos, con copia simple de la identificación oficial y comprobante de domicilio de cada uno de los que lo firman; y
 
-XVII. Informe de autorización otorgado por la Unidad Operativa Municipal de Protección Civil o el Departamento de Bomberos de Puebla; y
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
-XVIII. Otros que sean necesarios y que determine la Dirección con base en el Programa de Desarrollo Urbano y la Legislación, Normatividad o Reglamentación Urbano Ambiental vigente.
+XVII. Para los casos de cercanía o colindancia a ductos de PEMEX, líneas o ductos de gas, L.P. o gas natural, línea de torres de alta tensión, taludes, vados, carabas, barrancas, ríos, jagüeyes, lagunas o presas, por fallas geológicas, dictamen de delimitación de zona de riesgo o federal emitido por la Unidad Operativa Municipal de Protección Civil, Comisión Nacional del Agua, Comisión Federal de Electricidad o el organismo federal, estatal o municipal competente.
+
+XVIII. (DEROGADA, P.O. 4 DE JUNIO DE 2012)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 722.
 
-El otorgamiento de licencias de uso de suelo condicionados o especiales, quedará sujeto a la verificación o comprobación que realice la Dirección, para efectos de constatar que las condicionantes han quedado efectivamente cumplidas. En caso de que no se hayan satisfecho dichas condicionantes, y se hayan efectuado total o parcialmente las obras o utilizado el inmueble, la Dirección o el Presidente Municipal:
+El otorgamiento de licencias de uso de suelo condicionados requieren invariablemente estudio técnico de factibilidad y quedará sujeto a la verificación de que las condicionantes que se señalen en la factibilidad han quedado efectivamente cumplidas. En caso de que no se hayan satisfecho dichas condicionantes, y se hayan efectuado total o parcialmente las obras o utilizado el inmueble, la Dirección:
 
 I. Podrán ordenar su cumplimiento inmediato, suspendiendo o clausurando las obras; y
 
 II. Podrán revocar las autorizaciones o permisos otorgados.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 723.
 
-Los propietarios poseedores, responsables gerentes o administradores de los inmuebles destinados a cualquiera de las siguientes actividades, deberán presentar para obtener la licencia de uso de suelo y evaluación de impacto ambiental respectivo, un Programa Interno de Protección Civil:
+Se requerirá factibilidad de uso de suelo emitida por la Subdirección de Planeación para la obtención de la licencia de uso de suelo, en los siguientes casos:
 
-I. Teatros;
+I. Estaciones de servicio de gas y gasolina;
 
-II. Escuelas públicas y privadas;
+II. Centros comerciales;
 
-III. Cines
+III. Hoteles y moteles;
 
-IV. Hospitales, y sanatorios;
+IV. Fraccionamientos;
 
-V. Bares;
+V. Redensificación; y
 
-VI. Templos;
+VI. Industrias.
 
-VII. Discotecas;
-
-VIII. Establecimientos de hospedaje;
-
-IX. Restaurantes;
-
-X. Juegos eléctricos, electrónicos o mecánicos;
-
-XI. Restauran Bar;
-
-XII. Baños públicos;
-
-XIII. Cabaret;
-
-XIV. Panaderías;
-
-XV. Bibliotecas;
-
-XVI. Estaciones de servicio en cualquiera de sus modalidades;
-
-XVII. Centros Comerciales;
-
-XVIII. Estadios, centros deportivos y gimnasios;
-
-XIX. Establecimiento de almacenamiento y distribución de hidrocarburos;
-
-XX. Fábrica o industrias;
-
-XXI. Laboratorios de procesos industriales;
-
-XXII. Conjuntos Habitacionales o vivienda plurifamiliar;
-
-XXIII. Escuelas públicas y privadas;
-
-XXIV. Los demás que sean de alto riesgo o exista usualmente una concentración de más de 50 personas, incluyendo a los trabajadores del lugar;
-
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
-
-El Programa Interno de Protección Civil será aprobado por la Unidad Operativa Municipal de Protección Civil.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 724.
 
-Los usos que no estén expresamente contemplados en la tabla de compatibilidades solicitados en los Programas de Desarrollo Urbano se considerarán en todo caso automáticamente como condicionados, quedando sujetos a lo dispuesto por los artículos 720 y 722.
+Los usos que no estén expresamente contemplados en la tabla de compatibilidades señalados en el Programa Municipal de Desarrollo Urbano Sustentable se considerarán en todo caso automáticamente como condicionados, quedando sujetos a lo dispuesto por los artículos 720 y 722.
 
-El Cabildo podrá determinar las (sic) casos en que las condicionantes a que se refiere el Artículo 721 deberán satisfacerse previamente a la obtención de la Licencia de Uso de Suelo.
+El Cabildo podrá determinar los casos en que las condicionantes a que se refiere el artículo 721 deberán satisfacerse previamente a la obtención de la Licencia de uso de suelo.
 
 NORMAS ESPECÍFICAS
 
@@ -11553,9 +12063,23 @@ IV. Industrial.
 
 Los proyectos para edificios, construcciones o utilización de inmuebles que impliquen usos mixtos se regirán por lo dispuesto en las normas de uso de suelo y zonificación contenidas en los Programas, así como por lo dispuesto en el presente Capítulo.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 726.
 
-Las licencias de uso de suelo que expida la Dirección tendrán vigencia durante un año, a partir de la fecha de su expedición. En caso de que la obra, instalación, servicio, construcción, requisitos condicionantes, y en general, la utilización plena del predio o construcción no se hubiese iniciado durante el término de vigencia de licencia, se requerirá la tramitación de una nueva ante la Dirección; en este caso el inmueble quedará sujeto a la zonificación, nuevos requerimientos y normatividad de el Programa de Desarrollo Urbano, vigentes al momento de vencimiento de dichas licencias.
+La Licencia de uso de suelo, estará vigente en tanto no se modifique el uso conforme al Programa Municipal de Desarrollo Urbano Sustentable de Puebla o se rectifiquen la superficie, medidas o colindancias del bien inmueble.
+
+En caso de que la obra, instalación, servicio, construcción, requisitos condicionantes, y en general, la utilización plena del predio o construcción no se hubiese iniciado durante el término de vigencia de licencia, se requerirá la tramitación de una nueva ante la Dirección; en este caso el inmueble quedará sujeto a la zonificación, nuevos requerimientos y normatividad del Programa Municipal de Desarrollo Urbano Sustentable de Puebla, vigentes al momento de vencimiento de dichas licencias.
+
+La Dirección podrá negar la Licencia de uso de suelo específico cuando el proyecto no contemple los cajones de estacionamiento reglamentarios y no se garantice por escrito la contratación de cajones que sean exclusivos para el establecimiento en edificios cercanos. En el caso de que el solicitante exhiba convenio para acreditar que cumple con el número de cajones de estacionamiento, éste deberá cumplir con los siguientes requisitos:
+
+a) El inmueble que provea los cajones deberá contar con licencia de funcionamiento para estacionamiento;
+
+b) El inmueble que provea los cajones no podrá estar ubicado en una distancia mayor a un radio de cien metros del establecimiento; y
+
+c) Los cajones de estacionamiento a que se refiere el párrafo anterior deberán estar identificados con una leyenda del establecimiento que corresponda.
+
+Las construcciones nuevas destinadas para establecimiento comercial deberán contar con el número de cajones de estacionamiento establecidos en el presente Código; por lo que en este supuesto no se permitirá la exhibición de convenios para cubrir el déficit de cajones.
 
 ###### Artículo 727.
 
@@ -11569,9 +12093,11 @@ Las licencias de uso de suelo que se expidan en afectaciones, se considerarán e
 
 Restricción es el área libre de terreno, en la cual no se podrá construir, por tratarse de una vía de paso de instalaciones subterráneas, terrestres o aéreas de electricidad, gas, aguas nacionales o bienes de propiedad nacional.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 729.
 
-Los usos, reservas, provisiones y destinos; y la determinación de zonas para conservación, mejoramiento y crecimiento en el ámbito territorial del Municipio, se contendrán en el Programa de Desarrollo Urbano. Con base en dicho Programa y las disposiciones de este Capítulo se regulará el aprovechamiento y utilización de áreas y predios, y se expedirán las autorizaciones, permisos o licencias correspondientes.
+Los usos, reservas, provisiones y destinos y la determinación de zonas para conservación, mejoramiento y crecimiento en el ámbito territorial del Municipio, se determinarán en el Programa Municipal de Desarrollo Urbano Sustentable de Puebla. Con base en dicho Programa y las disposiciones de este Capítulo se regularán el aprovechamiento y utilización de áreas y predios, y se expedirán las autorizaciones, permisos o licencias correspondientes.
 
 LICENCIA DE CONSTRUCCIÓN
 
@@ -11671,19 +12197,25 @@ I. Alineamiento y número oficial vigente;
 
 II. Licencia de uso de suelo y evaluación de impacto ambiental;
 
-III. Un mínimo de tres tantos del proyecto arquitectónico de la obra en planos a escala, debidamente acotados y especificados, en los que se deberán incluir como mínimo las plantas de distribución, los cortes sanitarios, las fachadas, la localización de la construcción dentro del predio; cuadro de superficies, isométrico de instalaciones. Estos planos deberán estar firmados por el Director Responsable de Obra y Corresponsables, en su caso;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
-IV. Tres tantos de los proyectos de instalaciones necesarias para la ejecución de la obra, estructurales, en planos debidamente acotados y especificados acompañados del resumen de criterio y sistema adoptados para el cálculo; proyecto de protección a colindancias y estudio de mecánica de suelos cuando proceda. Estos documentos deberán estar firmados por el Director Responsable de Obra y Corresponsables en su caso;
+III. Un mínimo de tres tantos del proyecto arquitectónico de la obra en planos a escala, debidamente acotados y especificados, en los que se deberán incluir como mínimo las plantas de distribución, los cortes sanitarios, las fachadas, la localización de la construcción dentro del predio; cuadro de superficies, isométrico de instalaciones; estos planos deberán estar firmados por el propietario o su representante legal, el Perito Director Responsable de Obra y/o Corresponsables, así como el o los autores de los proyectos, y un disco compacto con el archivo digital que la Secretaría de Desarrollo Urbano y Obras Públicas indique;
 
-Además, la Dirección podrá exigir, cuando lo juzgue conveniente, la presentación de los cálculos completos para su revisión.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+IV. Tres tantos de los proyectos de instalaciones necesarias para la ejecución de la obra, estructurales, en planos debidamente acotados y especificados acompañados del resumen de criterio y sistema adoptados para el cálculo; proyecto de protección a colindancias y estudio de mecánica de suelos cuando proceda. Además de someterse a la revisión los proyectos de las estructuras de los Grupos A y B1; auxiliándose la autoridad para la revisión de especialistas de los organismos o asociaciones que apoyan a la autoridad. Estos documentos deberán estar firmados por el Perito Director Responsable de Obra y Corresponsables en su caso además, la Dirección podrá exigir, cuando lo juzgue conveniente, la presentación de los cálculos completos para su revisión, y deberán presentar el proyecto en un disco compacto en archivo digital en el formato que la Secretaría de Desarrollo Urbano y Obras Públicas indique;
 
 V. Cuando se trate de obras o instalaciones en monumentos catalogados o Zonas de Monumentos, la autorización que prevé el presente Capítulo;
 
 VI. Informe Preventivo o Manifestación de Impacto Ambiental, en su caso;
 
-VII. Carnet de Director Responsable de Obra y Corresponsables;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
-VIII. Estudio de riesgo, en su caso.
+VII. Carta responsiva firmada por el Perito Director Responsable de Obra; y
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+VIII. Informe técnico de autorización emitido por la Unidad Operativa Municipal de Protección Civil, sobre los proyectos para construcciones destinadas a la educación, guarderías, de reunión masiva, industria de alto riesgo, inmuebles de más de tres niveles destinados a comercios y oficinas, baños públicos, hospitales, salas de espectáculos, centros de reunión, edificios para espectáculos deportivos, templos y depósitos para explosivos.
 
 LICENCIA DE CONSTRUCCIÓN ESPECÍFICA
 
@@ -11703,6 +12235,32 @@ Las modificaciones al proyecto original de cualquier obra, se deberán acompaña
 
 Las solicitudes para este tipo de licencia se presentarán con la firma del interesado, propietario o poseedor del predio y con la responsiva de un Director Responsable de Obra y Corresponsales.
 
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+###### Artículo 740 Bis.
+
+Para el caso de obras públicas a cargo de dependencias o entidades de la Administración Pública Federal, Estatal o Municipal, se deberá presentar a la Dirección un expediente técnico que contenga:
+
+a) Constancia que acredite la propiedad o posesión del área o predio;
+
+b) Licencia de destino de suelo;
+
+c) Memoria descriptiva, normas, especificaciones técnicas de construcción y procedimiento constructivo;
+
+d) Proyecto ejecutivo de obra pública;
+
+e) Análisis y dictamen de factibilidad técnica y ambiental sobre el proyecto ejecutivo de obra pública;
+
+f) Estudio de geotecnia aplicable, cálculo y diseño de pavimento;
+
+g) Informe preventivo de impacto ambiental;
+
+h) Estudio y manifiesto de impacto ambiental;
+
+i) Responsiva del Perito Director Responsable de Obra y en su caso del Corresponsable; y
+
+j) Solicitud y autorización del banco de tiro.
+
 VIGENCIA DE LICENCIA DE CONSTRUCCIÓN
 
 ###### Artículo 741.
@@ -11713,9 +12271,13 @@ La Propia Dirección, tendrá facultad para fijar el plazo de licencia de cada c
 
 I. Tratándose de licencia de obra menor, la vigencia será de 3 meses como máximo, contados a partir de la fecha de su expedición;
 
-II. Para la construcción de obras en superficie hasta de trescientos metros cuadrados, la vigencia máxima será de nueve meses; en superficies hasta de mil metros cuadrados., de no más de doce meses, y en más de mil metros cuadrados, de un máximo de dieciocho meses; y
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
-III. Tratándose de obras o instalaciones a que se refiere el artículo anterior, se fijará el plazo de vigencia de la licencia respectiva, según la magnitud y características particulares de cada caso.
+II. Para la construcción de obras en superficie hasta de trescientos metros cuadrados, la vigencia máxima será de doce meses, en superficies de más de trescientos metros cuadrados y hasta de mil metros cuadrados, de veinticuatro meses; y
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+III. En obras de más de mil metros cuadrados, de un máximo de treinta y seis meses.
 
 ###### Artículo 742.
 
@@ -11801,15 +12363,49 @@ Con la solicitud de licencia se debe presentar un programa de demolición, en el
 
 Previo al inicio de la demolición y durante su ejecución, se deben proveer todos los acordonamientos, tapiales, puntales o elementos de protección de colindancias y vía pública que sean necesarios o que determine en cada caso la Dirección, pudiendo realizarse visita ocular para verificarse el cumplimiento de lo señalado.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 757.
 
-A la solicitud de licencia de demolición respectiva deberá anexarse:
+Para solicitar licencia para obras de demolición se deberá presentar ante la Dirección:
 
-I. Pago de impuesto predial vigente;
+I. Formato de solicitud debidamente integrado y con firma autógrafa del interesado;
 
-II. Impacto Ambiental o Informe Preventivo; y
+II. Identificación oficial con fotografía y en su caso, documento que acredite la personalidad del interesado, los cuales podrán ser cualquiera de los siguientes:
 
-III. Croquis esquemático y fotografía.
+a) En caso de ser persona física, podrá ser credencial para votar vigente, cédula profesional, pasaporte o licencia de manejo;
+
+b) En caso de ser representante legal de una persona física, podrá presentar carta poder simple, además de credencial para votar vigente, cédula profesional, pasaporte o licencia de manejo vigente;
+
+c) En caso de ser persona jurídica, podrá ser la Cédula del Registro Federal de Contribuyentes o acta constitutiva; y
+
+d) En caso de ser el administrador único, director general o representante legal de una persona jurídica, podrá presentar el instrumento público en el que conste su nombramiento, además de credencial para votar vigente, cédula profesional, pasaporte o licencia de manejo vigente;
+
+e) 4 Fotografías del interior y exterior del inmueble en su estado actual (previo a realizar la obra);
+
+f) Alineamiento y número oficial vigente, (copia por ambos lados);
+
+g) Formato de descarga para la disposición final de residuos de construcción emitido por la Secretaría del Medio Ambiente y Servicios Públicos;
+
+h) Croquis acotado o proyecto arquitectónico según sea el caso; y
+
+i) Responsiva del Perito Director Responsable de Obra con firma autógrafa del mismo, en cada uno de los documentos.
+
+III. En caso de demolición de edificaciones, obras, construcciones o instalaciones riesgosas se solicitarán las medidas de seguridad correspondientes que señalen la Unidad Operativa Municipal de Protección Civil o la Dirección.
+
+IV. En construcciones ubicadas en Zona de Monumentos se presentarán además:
+
+a) Licencia y/o factibilidad emitida por la Delegación Estatal del Instituto Nacional de Antropología e Historia con planos sellados;
+
+b) Oficio de factibilidad emitido por la Subdirección de Planeación; y
+
+c) Firma en todos los documentos, del Perito Director Responsable de Obra y Corresponsable en restauración.
+
+V. En construcciones de inmuebles constituidos en régimen de propiedad en condominio, se presentarán además:
+
+a) Reglamento de condóminos; y
+
+b) Acuerdo por escrito de la asamblea de vecinos, con copia simple de identificación oficial y comprobante de domicilio de cada uno de los que firman.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -11839,9 +12435,9 @@ Los géneros de edificios tratados en este Capítulo, se distinguen por una seri
 
 Todo lo anterior, genera especiales repercusiones sobre los problemas del desarrollo urbano del Municipio que deben tomarse en cuenta en las autorizaciones de licencias de construcción correspondientes.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-Es forzosa la observancia del Manual Técnico de Accesibilidad Aplicable a Construcciones en el Municipio de Puebla, que establece las medidas obligatorias de accesibilidad.
+Es de vital importancia considerar las normas de ayuda y facilidades para personas con discapacidad, establecidas en el Manual Técnico de Accesibilidad.
 
 Las edificaciones previstas o no en los géneros de edificios que tengan especial relevancia, deberán ser analizados por las autoridades municipales y el Comité de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables.
 
@@ -11865,11 +12461,15 @@ APROBACIÓN DE PROYECTOS: La Dirección, revisará los proyectos arquitectónico
 
 VOLADIZOS Y SALIENTES: Los elementos arquitectónicos que constituyen el perfil de una fachada, tales como columnas, pilastras, sardineles, podrán sobresalir de la misma hasta 30 centímetros y los voladizos deben estar colocados a una altura mayor de 2.50 metros con respecto al nivel de la banqueta.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 765.
 
-Los balcones abiertos y marquesinas situados a una altura de dos metros cincuenta centímetros, podrán sobresalir del alineamiento hasta el límite de la guarnición de la vialidad, pero al igual que todos los elementos arquitectónicos, deberán ajustarse a las restricciones sobre distancia a líneas de transmisión que señala el Reglamento de Obras e instalaciones Eléctricas de la SECOFI o el ordenamiento que lo sustituya.
+Los balcones abiertos y marquesinas situados a una altura de dos metros cincuenta centímetros, podrán sobresalir del alineamiento hasta el límite de la guarnición de la vialidad, pero al igual que todos los elementos arquitectónicos, deberán ajustarse a las restricciones sobre distancia a líneas de transmisión que señala el Reglamento de Obras e instalaciones eléctricas de la CFE o el ordenamiento que lo sustituya.
 
-EDIFICIOS PARA HABITACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE JUNIO DE 2012)</small>
+
+EDIFICIOS PARA CASA HABITACIÓN
 
 ###### Artículo 766.
 
@@ -11879,7 +12479,9 @@ Los patios que sirvan a piezas habitables (dormitorios, salas y comedores), tend
 
 Tratándose de patios que sirvan a piezas no habitables, la dimensión mínima del patio será de 3.00 m2, tratándose de alturas hasta 3.00 m, en caso de alturas mayores la dimensión mínima de cualquiera de sus lados, nunca será inferior a 1/3 de la altura del paramento de los muros, lo anterior tendrá una tolerancia máxima de 25% menor de la dimensión señalada, siempre que la reducción de una de las medidas se incremente en la otra un 25%.
 
-En caso de edificios de departamentos, multifamiliares o condominios habitacionales, se acondicionarán dos departamentos por cada 50 y se aplicará el 2% cuando sean más de 50 viviendas, para ser utilizados por personas con capacidades diferentes y deberán estar ubicados en planta baja. Además se adoptarán los siguientes elementos:
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+En caso de edificios de departamentos, multifamiliares o condominios habitacionales, se acondicionarán dos departamentos por cada 50 y se aplicará por lo menos el 2% cuando sean más de 50 viviendas, para ser utilizados por personas con discapacidad y deberán estar ubicados en planta baja. Además se adoptarán los siguientes elementos:
 
 a) La puerta de acceso así como las interiores tendrán un ancho no menor de 90 cm. y en caso de puertas dobles, cada hoja deberá tener esta dimensión.
 
@@ -11889,7 +12491,9 @@ c) Las perillas de las puertas y ventanas, tendrán una altura máxima sobre el 
 
 d) Los controles generales de energía eléctrica, así como los apagadores de luz, tendrán una altura máxima de 1.20 mts.
 
-e) En caso de existir elevador en la vivienda, los controles deben ser identificables para las personas con capacidades diferentes. Se deberán incluir placas de sistema Braille en el tablero de control, dentro y fuera de elevadores para señalar los pisos.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+e) En caso de existir elevador en la vivienda, los controles deben ser identificables para las personas con discapacidad. Se deberán incluir placas de sistema Braille en el tablero de control, dentro y fuera de elevadores para señalar los pisos de conformidad con el Manual Técnico de Accesibilidad.
 
 ###### Artículo 767.
 
@@ -12179,7 +12783,7 @@ Cuando se implemente el servicio de valet parking, será necesario contar con ba
 
 ## TÍTULO ÚNICO. DE LAS PRERROGATIVAS DEL TRABAJO MUNICIPAL
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 789.
 
@@ -12539,7 +13143,9 @@ fosas, capillas y criptas
 
 Panteones 1 por cada 200 m2
 
-Se destinará un cajón de estacionamiento para personas con capacidades diferentes con dimensiones de 3.60 x 6.20 mts. a razón de uno por cada veinticinco o fracción.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+Se destinará un cajón de estacionamiento para personas con discapacidad con dimensiones de 3.60 x 6.20 metros a razón de uno por cada veinticinco o fracción.
 
 EDIFICIOS PARA ESPECTÁCULOS DEPORTIVOS
 
@@ -12673,7 +13279,7 @@ i) Señalamiento: Los estacionamientos deberán tener el señalamiento vertical 
 
 ESTACIONAMIENTOS EN PREDIOS BALDÍOS: Los estacionamientos en predios baldíos, deberán estar bardeados en su perímetro, a una altura de 2.50 m. asimismo deberán cumplir con lo establecido en esta Sección y contar con pavimento en las áreas de circulación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 849.
 
@@ -12723,7 +13329,7 @@ La licencias que se conceda para levantar una construcción provisional, deberá
 
 El propietario de una construcción provisional, estará obligado a conservarla en buen estado, ya que de lo contrario, la Dirección, podrá ordenar su derribo aun sin haberse llegado al término de la licencia de uso que se hubiere otorgado, de conformidad con lo señalado en este Capítulo a costa del propietario; apoyada en un dictamen de la Unidad Operativa Municipal de Protección Civil.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE FEBRERO DE 2011)</small>
 
 PANTEONES
 
@@ -13227,7 +13833,7 @@ c). La profundidad máxima será aquella que no ofrezca dificultades constructiv
 
 ## TÍTULO ÚNICO
 
-> <small>(ADICIONADO CON LOS TITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS TÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 914.
 
@@ -13345,11 +13951,15 @@ Y sobre ellas se extenderá una capa de material granulado de 4 cm de espesor, e
 
 En los casos en que la Dirección, autorice una pavimentación de obra de interés particular con carpeta asfáltica, tendrá a su cargo la estricta vigilancia para el debido cumplimiento de las especificaciones que debe llevar la pavimentación autorizada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 931.
 
-Cuando se haga necesaria la ruptura de los pavimentos de las vías públicas para la ejecución de alguna obra, será requisito indispensable el recabar la licencia de construcción respectiva de la Dirección previamente a la iniciación de tales trabajos, a fin de que esta Dependencia señale las condiciones bajo las cuales se llevarán éstas a cabo, bajo la supervisión de un D R O y Corresponsable.
+Cuando sea necesaria la ruptura de los pavimentos de las vías públicas para la ejecución de alguna obra, será requisito indispensable el recabar la licencia de construcción respectiva de la Dirección previamente a la iniciación de tales trabajos, a fin de que esta Dependencia señale las condiciones bajo las cuales se llevarán éstas a cabo, bajo la supervisión de un Perito Director Responsable de Obra y Corresponsable.
 
-Lo anterior aplica tanto a particulares como a empresas, organismos públicos o privados o gobiernos a cualquier nivel, es decir no hay acepción.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+Lo anterior aplica sin excepción alguna tanto a particulares como a empresas, organismos públicos y privados o gobiernos a cualquier nivel.
 
 En todos los casos se deberán sanear las cepas para dar las compactaciones de proyecto, se restituirá la superficie de rodamiento cualquiera que esta sea consiguiendo uniformidad de la textura, color y junteo, así mismo deberá existir continuidad de nivel entre la superficie anterior a la nueva trabajando las juntas frías con los adhesivos correspondientes sin dejar protuberancias o depresiones que acusen la restitución e incomoden el trafico.
 
@@ -13357,9 +13967,11 @@ Quien restituya el pavimento por el motivo que fuera, se hará responsable de lo
 
 Sin perjuicio, de las sanciones pecuniarias que se impongan a los infractores del presente Capítulo, los mismos son acreedores a las sanciones establecidas por el Código de Defensa Social para el Estado de Puebla.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 932.
 
-Para el mejor control de la supervisión de los trabajos de pavimentos en sus diferentes etapas, la Dirección no autorizará la iniciación de los trabajos de una fase interior sin haber sido aprobados los de la fase previa. Se señala como laboratorio oficial para obtener el resultado de los ensayes en los trabajos de pavimentación el que la Dirección designe, con la consideración de la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables.
+Para el mejor control de la supervisión de los trabajos de pavimentos en sus diferentes etapas, la Dirección no autorizará la iniciación de los trabajos de una fase posterior sin haber sido aprobados los de la fase previa. Se señala como laboratorio oficial para obtener el resultado de los ensayes en los trabajos de pavimentación el que la Dirección designe, con la consideración de la CAAPDROC.
 
 ###### Artículo 933.
 
@@ -13607,9 +14219,11 @@ La Dirección de Servicios Públicos, tendrá a su cargo la prestación del serv
 
 Queda prohibido a cualquier persona no autorizada por el Ayuntamiento, ejecutar obra alguna que afecte las instalaciones del alumbrado público en el Municipio.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 960.
 
-Las instalaciones de alumbrado público que se pretendan realizar en el Municipio de Puebla, deberán solicitarse por el interesado, por conducto de Director Responsable de obra, a la Dirección, acompañando proyectos completos, desarrollados con claridad, que incluyan planos, cálculos, especificaciones y presupuestos, autorizados por la C.F.E. y la Dirección de Servicios Públicos, y de acuerdo a la “NOM 013 séller 1996, eficiencia energética para sistemas de alumbrado en vialidades y exteriores de edificios”.
+Las instalaciones de alumbrado público que se pretendan realizar en el Municipio de Puebla, deberán solicitarse por el interesado, por conducto de Perito Director Responsable de Obra, a la Dirección, acompañando proyectos completos, desarrollados con claridad, que incluyan planos, cálculos, especificaciones y presupuestos, autorizados por la Comisión Federal de Electricidad y la Dirección de Servicios Públicos, y de acuerdo a la NOM-013-ENER-2004 “Eficiencia energética para sistemas de alumbrado en vialidades y áreas exteriores públicas" o la norma que esté vigente al momento de la elaboración del proyecto.
 
 ###### Artículo 961.
 
@@ -13623,9 +14237,13 @@ b). Lámparas: tipo, capacidad y demás características.
 
 c). Alimentación: sitios donde pretende obtener la energía y la forma de controlar los circuitos que integran la instalación, con expresión de los reveladores maestros y secundarios o interruptores de tiempo, que serán necesarios para el control de la misma.
 
-d). Ductos que se instalarán en el cruzamiento de los arroyos de calles, que invariablemente deben ser de fierro galvanizado, así como en plazas y jardines.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-e). Trazo de los circuitos que integran la instalación con indicación clara de los cables usados con base en lo dispuesto por el Reglamento de Obras e Instalaciones Eléctricas de la Secretaría de Comercio y Fomento Industrial.
+d) Ductos que se instalarán en el cruzamiento de los arroyos de calles, que invariablemente deben ser de materiales aprobados para tal fin y de acuerdo a las normas oficiales aplicables de instalaciones eléctricas vigentes, así como en plazas y jardines;
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+e) Trazo de los circuitos que integran la instalación con indicación clara de los cables usados con base en lo dispuesto por las normas oficiales aplicables de instalaciones eléctricas vigentes;
 
 f). Cajas de intercomunicación de cables llamadas mufas, rectas y T o terminales.
 
@@ -13635,7 +14253,9 @@ h). Cuadro de cargas para alumbrado.
 
 i). Diagrama unifilar.
 
-j). Especificaciones de los materiales que se usarán con el número de registro asignados por el Departamento General de Electricidad de la Secretaria de Comercio y fomento Industrial.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+j) Especificaciones de los materiales que se usarán con el número de registro asignados por la Asociación de Normalización y Certificación A.C. (ANCE) y que podrán ser consultados en la página de Internet de la misma.
 
 En los proyectos de iluminación por ningún motivo se admitirán cantidades de luz más bajas que las mínimas que a continuación se expresan:
 
@@ -13661,9 +14281,11 @@ Grandes Avenidas 50 a más Lx
 
 La Dirección, ordenará sean hechas al proyecto las modificaciones que juzgue convenientes, previa audiencia al solicitante, quien dispondrá de un plazo no mayor de 5 días para expresar por escrito su inconformidad si la tuviese. Transcurrido este término, se pronunciará la resolución final de la propia Dirección.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 963.
 
-En materia Eléctrica; se aplicará supletoriamente el Código Nacional Eléctrico, en aquello que no se haya previsto en el presente Capítulo.
+En materia Eléctrica, se aplicará supletoriamente la Norma Oficial Mexicana NOM-001-SEDE-2005, Instalaciones Eléctricas (utilización) o la que se encuentre vigente en ese momento en aquello que no se haya previsto en el presente Capítulo.
 
 DISEÑO ESTRUCTURAL, REQUISITOS DE SEGURIDAD Y SERVICIO PARA LAS ESTRUCTURAS
 
@@ -13671,9 +14293,11 @@ DISEÑO ESTRUCTURAL, REQUISITOS DE SEGURIDAD Y SERVICIO PARA LAS ESTRUCTURAS
 
 ALCANCE: Las normas señaladas en este capítulo, relativas a los requisitos de seguridad y servicio que deben cumplir las estructuras, se aplicarán a las construcciones, reparaciones o demoliciones y modificaciones de las obras a que se refiere este Ordenamiento.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 965.
 
-PROCEDIMIENTOS ALTERNATIVOS DE DISEÑO: Se aceptarán procedimientos alternativos de diseño para la verificación de la seguridad si se demuestra que proporcionan niveles de seguridad, siempre y cuando sean previamente aprobados por la Dirección con la consideración de la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables.
+PROCEDIMIENTOS ALTERNATIVOS DE DISEÑO: Se aceptarán procedimientos alternativos de diseño para la verificación de la seguridad si se demuestra que proporcionan niveles de seguridad, siempre y cuando no sean de igual magnitud o mayores que los que se obtengan empleando los previstos en este ordenamiento, previamente aprobados por la Dirección con la consideración de la CAAPDROC.
 
 ESTADOS LÍMITE
 
@@ -13693,9 +14317,11 @@ Se considerarán de falla frágil cuando la capacidad de carga de la sección, e
 
 Los estados límite de servicio tendrán lugar, cuando la estructura llegue a estados de deformaciones, agrietamientos, vibraciones o daños que afecten su correcto funcionamiento, pero no su capacidad para soportar cargas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 968.
 
-ESTADO LÍMITE DE SERVICIO: Deberá revisarse que bajo el efecto de las combinaciones de acciones clasificadas en la categoría I del artículo 313, la respuesta de la estructura no exceda alguno de los límites fijados a continuación:
+ESTADOS LÍMITE DE SERVICIO: Deberá revisarse que bajo el efecto de las combinaciones de acciones clasificadas en la categoría I del artículo 976, la respuesta de la estructura no exceda alguno de los límites fijados a continuación:
 
 I. DEFORMACIONES: Se considerará como estado límite, cualquier deformación de la estructura que ocasione daños inaceptables a la propia construcción o a sus vecinas o que cause interferencia a instalaciones de servicio público.
 
@@ -13741,19 +14367,25 @@ I. La carga muerta, debida al peso propio de los elementos estructurales y al pe
 
 II. El empuje estático de tierras y de líquidos, de carácter permanente; y
 
-III. Las deformaciones y los desplazamientos impuestos a la estructura tales como los debidos a pre-esfuerzo a movimientos diferenciales permanentes de los apoyos.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+III. Las deformaciones y los desplazamientos impuestos a la estructura tales como los debidos a preesfuerzo y a movimientos diferenciales permanentes de los apoyos.
 
 ###### Artículo 972.
 
 ACCIONES VARIABLES: Esta categoría comprenderá:
 
-I. La carga viva, que representa las fuerzas gravitación que obran en la construcción y que no tienen carácter permanente. Su efecto se tomará en cuenta en la forma que se especifica en el apartado relativo a Cargas Vivas;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+l. La carga viva, que representa las fuerzas gravitacionales que obran en la construcción y que no tienen carácter permanente. Su efecto se tomará en cuenta en la forma que se especifica en el apartado relativo a Cargas Vivas.
 
 II. Los efectos causados en las estructuras por los cambios de temperaturas y por contracciones;
 
 III. Las deformaciones impuestas y los hundimientos diferenciales que tengan una intensidad variable con el tiempo; y
 
-IV. Los efectos de maquinaria y equipo, incluyendo, cuando sean significativas, las acciones dinámicas que el funcionamiento de máquinas induzca en las estructuras debido a vibraciones, impacto y drenaje.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+IV. Los efectos de maquinaria y equipo, incluyendo, cuando sean significativas, las acciones dinámicas que el funcionamiento de máquinas induzca en las estructuras debido a vibraciones, impacto y frenado.
 
 De acuerdo con la combinación de acciones para la cual se está diseñando, esta acción variable se tomará con tres posibles intensidades:
 
@@ -13773,15 +14405,19 @@ II. VIENTO: Las acciones estáticas y dinámicas debidas al viento, se determina
 
 III. OTRAS ACCIONES ACCIDENTALES: Estas serán explosiones, incendios y otras acciones que puedan ocurrir en casos extraordinarios. En general, no será necesario incluirlas en el diseño formal, sino únicamente tomar precauciones, en la estructuración y en los detalles constructivos, para evitar comportamiento catastrófico de la construcción en caso de ocurrir tales acciones.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 974.
 
-CRITERIO GENERAL PARA DETERMINAR LA INTENSIDAD NOMINAL DE LAS ACCIONES NO ESPECIFICADAS: Para las acciones diferentes a cargas muertas, cargas vivas, sismo y viento, y en general para los casos no incluidos expresamente en este capítulo, la intensidad nominal se determinará de manera que la probabilidad de que se excedida (sic) en el lapso del interés (según se trate la intensidad media, instantánea o máxima) sea de 2%, excepto cuando el efecto de la acción sea favorable para la estabilidad de la estructura, en cuyo caso se tomará como valor nominal aquel que tenga una probabilidad de dos por ciento de no ser excedido. En la determinación del valor nominal de la acción, deberá tomarse en cuenta la incertidumbre en la intensidad de la misma y la que se deba a la idealización del sistema de carga.
+CRITERIO GENERAL PARA DETERMINAR LA INTENSIDAD NOMINAL DE LAS ACCIONES NO ESPECIFICADAS: Para las acciones diferentes a cargas muertas, cargas vivas, sismo y viento, y en general para los casos no incluidos expresamente en este Capítulo, la intensidad nominal se determinará de manera que la probabilidad de que sea excedida en el lapso del interés (según se trate de la intensidad media, instantánea o máxima) sea de 2%, excepto cuando el efecto de la acción sea favorable para la estabilidad de la estructura, en cuyo caso se tomará como valor nominal aquél que tenga una probabilidad de dos por ciento de no ser excedido. En la determinación del valor nominal de la acción, deberá tomarse en cuenta la incertidumbre en la intensidad de la misma y la que se deba a la idealización del sistema de carga.
 
 ###### Artículo 975.
 
 DETERMINACIÓN DE LOS EFECTOS DE LAS ACCIONES: Las fuerzas internas y las deformaciones producidas por las acciones en las estructuras se determinarán mediante un análisis estructural.
 
-La Dirección, especificará procedimientos de análisis con distintos grados de aproximación, siempre que su falta de precisión en la determinación de las fuerzas internas se tome en cuenta, modificando adecuadamente los factores de carga especificados en el artículo 984 de este Ordenamiento, de manera que se obtenga una seguridad equivalente a la que alcanzaría con los métodos especificados.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+La Dirección podrá aprobar procedimientos de análisis con distintos grados de aproximación, siempre que su falta de precisión en la determinación de las fuerzas internas se tome en cuenta, modificando adecuadamente los factores de carga especificados en el artículo 984 de este Ordenamiento, de manera que se obtenga una seguridad equivalente a la que alcanzaría con los métodos especificados.
 
 ###### Artículo 976.
 
@@ -13809,19 +14445,17 @@ DEFINICIÓN: Se entenderá por resistencia, la magnitud de una acción o de una 
 
 RESISTENCIA DE DISEÑO: La revisión de seguridad contra estados límite de falla, se hará en términos de la resistencia de diseño. Para la determinación de la resistencia de diseño, deberán seguirse los procedimientos fijados por la Dirección para los materiales y sistemas constructivos más comunes.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 979.
 
-En casos no comprendidos en las disposiciones mencionadas, la resistencia de o (sic) se determinará con procedimientos analíticos basados en evidencia teórica y experimental, o con procedimientos experimentales de acuerdo con el artículo 980. En ambos casos, la resistencia de diseño se tomará igual a la resistencia nominal por factor de resistencia determinado con base en lo que fija el artículo 985 de este Código Reglamentario.
+En casos no comprendidos en las disposiciones mencionadas, la resistencia se determinará con procedimientos analíticos basados en evidencia teórica y experimental, o con procedimientos experimentales de acuerdo con el artículo 980. En ambos casos, la resistencia de diseño se tomará igual a la resistencia nominal por el factor de reducción de resistencia determinado con base en lo que fija el artículo 985 de este Código.
 
-La resistencia nominal será tal, que la probabilidad de que no sea alcanzada por la estructura, resulte de dos por ciento. En la determinación de la resistencia nominal deberá tomarse en cuenta la variabilidad en las propiedades geométricas y mecánicas de la estructura y la diferencia entre los valores especificados para estas propiedades y los que se obtienen en la estructura.
-
-También deberá considerarse el grado de aproximación en la cuantificación de la resistencia.
-
-Cuando se siga un procedimiento no estipulado en este apartado, la Dirección, podrá exigir una verificación directa en la resistencia por medio de una prueba de carga.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 980.
 
-DETERMINACIÓN DE LA RESISTENCIA POR PROCEDIMIENTOS EXPERIMENTALES: La determinación de la resistencia podrá llevarse a cabo por medio de ensayes diseñados para simular, en modelos físicos de la estructura o de porciones de ella, el efecto de las combinaciones de acciones que deban considerarse de acuerdo con el apartado relativo a los Colectores y Ramales.
+DETERMINACIÓN DE LA RESISTENCIA POR PROCEDIMIENTOS EXPERIMENTALES: La determinación de la resistencia podrá llevarse a cabo por medio de ensayes diseñados para simular, en modelos físicos de la estructura o de porciones de ella, el efecto de las combinaciones de acciones que deban considerarse de acuerdo con el artículo 976.
 
 ###### Artículo 981.
 
@@ -13833,33 +14467,41 @@ La selección de las partes de la estructura que se ensayen y del sistema de car
 
 Con base en los resultados de los ensayes, se deducirá una resistencia nominal tal que la probabilidad de que no sea alcanzada sea de dos por ciento, tomando en cuenta las posibles diferencias entre las propiedades mecánicas y geométricas medidas en los especímenes ensayados y las que puedan esperarse en las estructuras reales.
 
-El tipo de ensaye, el tamaño de la muestra y la resistencia nominal de diseño deducida, deberán ser aprobados por la Dirección, la cual podrá exigir una comprobación de la resistencia de la estructura mediante una prueba de carga. La resistencia de diseño se obtendrá a partir de la nominal, de acuerdo con el artículo 978.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+El tipo de ensaye, el tamaño de la muestra y la resistencia nominal de diseño deducida, deberán ser aprobados por la Dirección, con base en las Normas Mexicanas (NMX) aplicables, la cual podrá exigir una comprobación de la resistencia de la estructura mediante una prueba de carga. La resistencia de diseño se obtendrá a partir de la nominal, de acuerdo con el artículo 978.
 
 PROCEDIMIENTOS PARA LA EVALUACIÓN DE LA SEGURIDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 983.
 
-PROCEDIMIENTO GENERAL: Se revisará que para las distintas combinaciones de acciones especificadas en el artículo 970 y ante la aparición de cualquier estado límite de falla que pudiera presentarse, la resistencia de diseño sea mayor o igual al efecto de las acciones nominales que intervengan en la combinación de carga en estudio, multiplicado por el factor de carga correspondiente.
+PROCEDIMIENTO GENERAL: Se revisará que para las distintas combinaciones de acciones especificadas en el artículo 976 y ante la aparición de cualquier estado límite de falla que pudiera presentarse, la resistencia de diseño sea mayor o igual al efecto de las acciones nominales que intervengan en la combinación de carga en estudio, multiplicado por el factor de carga correspondiente.
 
 También se revisará que bajo el efecto de las posibles combinaciones de acciones clasificadas en la fracción I del Artículo 976, no se rebase ningún estado límite de servicio.
 
 Cuando una estructura sufra daños en sus elementos por efectos de sismo, viento, explosiones, incendios, excesos de carga vertical, asentamientos o alguna otra causa, deberá presentarse un proyecto de reparación o de refuerzo a la Dirección quien podrá dictaminar sobre las disposiciones y criterios que deban aplicarse.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 984.
 
-FACTORES DE CARGA: El factor de carga - F.C. - se determinará como sigue:
+FACTORES DE CARGA: El factor de carga FC se determinará como sigue:
 
-I. Para combinaciones que incluyan exclusivamente acciones permanentes y variables se tomará F.C.= 1.4 excepto cuando se trate de estructuras que soporten pisos en los que pueda haber normalmente aglomeración de personas tales como: centro de reunión, escuelas, salas de espectáculos, locales para espectáculos deportivos y templos, o de construcciones que contengan equipo sumamente valioso, incluyendo los museos, en cuyo caso se tomará F.C.= 1.5;
+l. Para combinaciones que incluyan exclusivamente acciones permanentes y variables se tomará FC- 1.4 excepto cuando se trate de estructuras que soporten pisos en los que pueda haber normalmente aglomeración de personas tales como: centros de reunión, escuelas, salas de espectáculos, locales para espectáculos deportivos y templos, o de construcciones que contengan equipo sumamente valioso, incluyendo los museos, en cuyo caso se tomará FC= 1.5;
 
-II. Para combinaciones de acciones que incluyan una acción accidental, además de las acciones permanentes y variables, se tomará F.C.= 1.1;
+II. Para combinaciones de acciones que incluyan una acción accidental, además de las acciones permanentes y variables, se tomará FC- 1.1;
 
-III. Para fuerzas internas, cuyo efecto sea favorable a la resistencia o estabilidad de la estructura, se tomará F.C. = 0.9; además se tomará como valor nominal de la intensidad de la acción, el valor mínimo probable de acuerdo con el artículo 974; y
+III. Para fuerzas internas, cuyo efecto sea favorable a la resistencia o estabilidad de la estructura, se tomará FC - 0.9; además se tomará como valor nominal de la intensidad de la acción, el valor mínimo probable de acuerdo con el artículo 974; y
 
-IV. Para revisión de estados límite de servicio se tomará en todos los casos F.C.= 1.
+IV. Para revisión de estados límite de servicio se tomará en todos los casos FC- 1.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 985.
 
-FACTORES DE RESISTENCIA: El factor de resistencia Fr por el cual deberá multiplicarse la resistencia nominal, será fijado por la Dirección, con base en el tipo de estado límite para los distintos materiales y sistemas estructurales.
+FACTORES DE REDUCCIÓN DE RESISTENCIA: El factor de reducción de resistencia FR por el cual deberá multiplicarse la resistencia nominal, será fijado por la Dirección, con base en el tipo de estado límite para los distintos materiales y sistemas estructurales. En casos no especificados por dicha Dirección, se obtendrá FR de la siguiente manera:
 
 En casos no especificados por dicha dirección, se obtendrá Fr de la siguiente manera:
 
@@ -13881,9 +14523,19 @@ FACTORES DE CARGA PARA CASOS ESPECIALES: Para el diseño por sismo y por viento,
 
 CARGAS MUERTAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 987.
 
-VALORES NOMINALES: Para la evaluación de las cargas muertas se emplearán los pesos unitarios especificados en la tabla siguiente: los valores mínimos señalados se emplearán de acuerdo con el artículo 974 cuando sea mas desfavorable para la estabilidad de la estructura considerar una carga muerta menor, como en el caso de flotación, lastre y succión producida por el viento. En los otros casos se emplearán los valores máximos.
+VALORES NOMINALES: Para la evaluación de las cargas muertas se emplearán los pesos unitarios especificados en la tabla siguiente: los valores mínimos señalados se emplearán de acuerdo con el artículo 974 cuando no sea conveniente, para la estabilidad de la estructura, considerar una carga muerta menor, como en el caso de flotación, lastre y succión producida por el viento. En los otros casos se emplearán los valores máximos.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+Se considerarán como cargas muertas los pesos de todos los elementos constructivos, de los acabados y de todos los elementos que ocupan una posición permanente y tienen un peso que no cambia sustancialmente con el tiempo.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+Para la evaluación de las cargas muertas se emplearán las dimensiones especificadas de los elementos constructivos y los pesos unitarios de los materiales. Para estos últimos se utilizarán valores mínimos probables cuando sea más desfavorable para la estabilidad de la estructura considerar una carga muerta menor, como en el caso de volteo, flotación, lastre y succión producida por viento. En otros casos se emplearán valores máximos probables.
 
 PESOS VOLUMÉTRICOS DE MATERIALES CONSTRUCTIVOS
 
@@ -13991,13 +14643,17 @@ Pino seco 0.65 0.45
 
 Saturado 1.00 0.80
 
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
 V.- RECUBRIMIENTOS: Pesos en Kg/m²
 
-Azulejo 15 10
+Azulejo 10 15
 
 Mosaico de pasta 35 25
 
-Granito de terrazo de 20x20 45 35
+Granito de terrazo de:
+
+20x20 45 35
 
 30x30 55 45
 
@@ -14005,17 +14661,23 @@ Granito de terrazo de 20x20 45 35
 
 Loseta asfáltica o vinílica 10 5
 
+Piso de cerámica 28 22
+
+> <small>(REFORMADO P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 988.
 
-CARGA MUERTA ADICIONAL PARA PISOS DE CONCRETO: El peso muerto calculado en losas de concreto de peso normal colocadas en el lugar se incrementará en 20 kg/m². Cuando sobre una losa colocada en el lugar o pre-colada, se coloque una capa de mortero de peso normal, el peso calculado de esta capa se incrementará también en 20 kg/m², de manera que en las losas coladas en el lugar que lleven una capa de mortero, el incremento total será de 40 kg/m².
+CARGA MUERTA ADICIONAL PARA PISOS DE CONCRETO: El peso muerto calculado en losas de concreto de peso normal colocadas en el lugar se incrementará en 20 kg/m². Cuando sobre una losa colada en el lugar o precolada, se coloque una capa de mortero de peso normal, el peso calculado de esta capa se incrementará también en 20 kg/m², de manera que en las losas coladas en el lugar que lleven una capa de mortero, el incremento total será de 40 kg/m².
 
 Tratándose de losas de capas de mortero que posean pesos volumétricos diferentes del normal, estos valores se modificarán en proporción a los pesos volumétricos.
 
 CARGAS VIVAS
 
+> <small>(REFORMADO P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 989.
 
-DEFINICIÓN.- Se consideran cargas vivas las fuerzas gravitacionales que obran en una construcción y que no tienen carácter permanente.
+DEFINICIÓN: Se consideran cargas vivas las fuerzas gravitacionales que obran en una construcción y que no tienen carácter permanente. A menos que se justifiquen técnicamente otros valores, estas cargas se tomarán iguales a las especificadas en la tabla del artículo 991.
 
 ###### Artículo 990.
 
@@ -14037,17 +14699,21 @@ W Wa Wm
 
 OBSERVACIONES
 
-a) Habitación (casas habitación
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+a) Habitación (casas habitación, 70 90 170 (1)
 
 departamentos, viviendas,
 
 dormitorios, cuartos de hotel,
 
-internados de escuela, cuarteles,
+de internados de escuela, de
 
-cárceles, correccionales, hospitales
+cuarteles, de cárceles, de
 
-y similares 70 90 170 (1)
+correccionales, de
+
+hospitales y similares).
 
 b) Oficinas, despachos y
 
@@ -14075,7 +14741,11 @@ bibliotecas, aulas, salas de juego y
 
 similares). 40 250 350 (5)
 
-f) Comercios, fábricas y bodegas. 0.8 w 0.9w w (6)
+> <small>(REFORMADO P.O. 4 DE JUNIO DE 2012)</small>
+
+f) Comercios, fábricas
+
+y bodegas. 0.8wm 0.9 wm wm (6)
 
 g) Cubiertas y azoteas con pendiente
 
@@ -14095,29 +14765,37 @@ automóviles exclusivamente) 40 100 250 (9)
 
 OBSERVACIONES A LA TABLA DE CARGAS VIVAS UNITARIAS:
 
-1. Para elementos con área tributaria mayor de 36 m², Wm podrá reducirse, tomándola igual a 100 + 420A-½ (A es el área tributaria en m2). Cuando sea más desfavorable se considerará en el lugar de Wm en carga de 500 kg, aplicada sobre un área de 50X50 cm en la posición más crítica.
+> <small>(REFORMADO P.O. 4 DE JUNIO DE 2012)</small>
 
-Para sistemas de piso ligero con cubierta rigidizante, se considerará en lugar de Wm, cuando sea más desfavorable, una carga concentrada de 250 kg para el diseño de los elementos de soporte y de 100 kg para el diseño de la cubierta, en ambos casos ubicadas en la posición más desfavorable.
+1.- Para elementos con área tributaria mayor de 36 m², Wm podrá reducirse, tomándola igual a 100 + 420 A(A es el área tributaria en m2). Cuando sea más desfavorable se considerará en el lugar de Wm en carga de 500 kg. aplicada sobre un área de 50X50 cm. en la posición más crítica.
 
-Se considerarán de sistema de piso ligero, aquellos formados por 3 o más miembros aproximadamente paralelos y separados entre sí no más de 80 cm. y unidos con una cubierta de madera contrachapada, de duelas de madera bien clavadas u otro material que proporcione una rigidez equivalente.
+Se considerarán como sistemas de piso ligero, aquellos formados por 3 o más miembros aproximadamente paralelos y separados entre sí no más de 80 cm. y unidos con una cubierta de madera contrachapada de duelas de madera bien clavadas u otro material que proporcione una rigidez equivalente.
 
-2. Para elementos con área tributaria mayor de 36 m², Wm, podrá reducirse, tomándola igual 180 420A-½ (A es el área tributaria en m²). Cuando sea más desfavorable se considerará en lugar de Wm, una carga de 1000 kg. aplicada sobre un área de 50X50 cm. en la posición más crítica.
+> <small>(REFORMADO P.O. 4 DE JUNIO DE 2012)</small>
 
-Para sistemas de piso ligeros con cubierta rigidizante, definidos como en la nota (1), se considerará en lugar de Wm, cuando sea más desfavorable, una carga concentrada de 500 kg. para el diseño de los elementos de soporte y de 150 kg. para el diseño de la cubierta, ubicadas en la posición más desfavorable.
+2.- Para elementos con área tributaria mayor de 36 m2, Wm, podrá reducirse, tomándola igual a 110 + 850 A (A es el área tributaria en m2). Cuando sea más desfavorable se considerará en lugar de Wm una carga de 1000 kg. aplicada sobre un área de 50x50 xm. en la posición más crítica.
 
-3. En áreas de comunicación de casas habitación y edificios de departamentos se considerará la misma carga viva que en el caso de a) de la tabla.
+3.- En áreas de comunicación de casas habitación y edificios de departamentos se considerará la misma carga viva que en el caso de a) de la tabla.
 
-4. En el diseño de pretiles de cubiertas, azoteas y barandales para escaleras, rampas, pasillos y balcones, se supondrá una carga viva horizontal no menor de 100 kg/m² actuando en nivel y en la dirección más desfavorable.
+> <small>(REFORMADO P.O. 4 DE JUNIO DE 2012)</small>
 
-5. En estos casos, deberá presentarse particular atención a la revisión de los estados límite de servicios relativos a vibraciones.
+4.- En el diseño de pretiles de cubiertas, azoteas y barandales para escaleras, rampas, pasillos y balcones, se supondrá una carga viva no menor de 100 kg/m actuando a nivel del pasamanos y en la dirección más desfavorable.
 
-6. Atendiendo al destino del piso, se determinará con los criterios de este Ordenamiento, la carga unitaria, Wm, que no será inferior a 350 kg/m² y deberá especificarse en los planos estructurales y en placas metálicas colocadas en (sic) fácilmente visibles de la construcción.
+> <small>(REFORMADO P.O. 4 DE JUNIO DE 2012)</small>
 
-7. Las cargas vivas especificadas para cubiertas y azoteas, no incluyen las cargas producidas por tinacos y anuncios, ni las que se deben a equipos u objetos pesados que puedan apoyarse o colocarse del techo. Estas cargas deben preverse por separado y especificarse en los planos estructurales.
+5.- En estos casos, deberá presentarse particular atención a la revisión de los estados límite de servicio relativos a vibraciones.
+
+> <small>(REFORMADO P.O. 4 DE JUNIO DE 2012)</small>
+
+6.- Atendiendo al destino del piso. se determinará con los criterios de este Código, la carga unitaria Wm que no será inferior a 350 kg/m2 y deberá especificarse en los planos estructurales y en placas metálicas colocadas en lugares fácilmente visibles de la construcción.
+
+7.- Las cargas vivas especificadas para cubiertas y azoteas, no incluyen las cargas producidas por tinacos y anuncios, ni las que se deben a equipos u objetos pesados que puedan apoyarse o colocarse del techo. Estas cargas deben preverse por separado y especificarse en los planos estructurales.
 
 Adicionalmente, los elementos de las cubiertas y azoteas, deberán revisarse con una carga concentrada de 100 kg en la posición más crítica.
 
-8. Además, en el fondo de los vasalles de techos inclinados, se considerará una carga, debida al granizo de 30 kg/m² de proyección horizontal del techo que desagüe hacia el valle. Esta carga se considerará como una acción accidental para fines de revisión de la seguridad y se le aplicarán los factores de carga correspondiente según el presente Capítulo.
+> <small>(REFORMADO P.O. 4 DE JUNIO DE 2012)</small>
+
+8.- Además, en el fondo de los valles de techos inclinados, se considerará una carga, debida al granizo de 30 kg/m2 de proyección horizontal del techo que desagüe hacia el valle. Esta carga se considerará como una acción accidental para fines de revisión de la seguridad y se le aplicarán los factores de carga correspondientes según el presente Capítulo.
 
 9. Más una concentración de 1500 kg, en el lugar más desfavorable del miembro estructural de que se trate.
 
@@ -14125,53 +14803,57 @@ Adicionalmente, los elementos de las cubiertas y azoteas, deberán revisarse con
 
 CARGAS VIVAS DURANTE LA CONSTRUCCIÓN.- Durante el proceso de construcción, deberán considerarse las cargas vivas transitorias que pueden producirse; éstas incluirán el peso de los materiales que se almacenen temporalmente, el de los vehículos y equipo, el del colado de plantas superiores que se apoyen en la planta que se analiza y del personal necesario, no siendo éste último peso menor que 150 kg/m² se considerará además una concentración de 150 kg en el lugar más desfavorable.
 
+> <small>(REFORMADO P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 993.
 
-CAMBIOS DE CARGA: El propietario será responsable de los prejuicios que ocasione el cambio de uso de una construcción, cuando produzca cargas mayores que las del diseño aprobado.
+CAMBIOS DE CARGA: El propietario o poseedor será responsable de los perjuicios que ocasione el cambio de uso de una edificación, cuando produzca cargas muertas o vivas mayores o con una distribución más desfavorable que las del diseño aprobado, haciéndose acreedor a las sanciones administrativas que la autoridad competente determine, además de las del diseño aprobado.
 
 DISEÑO POR SISMO
 
-> <small>N. DE E. VEASE FORMULAS EN P.O. DE 31 DE DICIEMBRE DE 2004, PAGINAS 207 A 208.</small>
+> <small>(REFORMADO P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 994.
 
-Notación: Cada símbolo empleado en el siguiente capítulo se definirá donde se use; los más importantes son:
+Notación: Cada símbolo empleado en los siguientes artículos se definirá donde se utilice; los más importantes son:
 
-a. ordenada (sic) del espectro de diseño
+a = Ordenada del espectro de diseño.
 
-ao. Coeficiente de aceleración del terreno
+ao = Coeficiente de aceleración del terreno.
 
-C. Coeficiente sísmico
+C = Coeficiente sísmico.
 
-g. Aceleración de la gravedad
+g = Aceleración de la gravedad.
 
-hi. Altura de la masa “i” sobre el desplante
+hi = Altura de la masa" i" sobre el desplante.
 
-Pi. Fuerza lateral de inercia sobre la masa “i”
+Pi = Fuerza lateral de inercia sobre la masa" i" .
 
-Q. Factor de comportamiento sísmico.
+Q = Factor de comportamiento sísmico.
 
-Q. Factor reductito
+Q´ = Factor reductivo.
 
-r. Exponente que depende del tipo de terreno
+r = Exponente que depende del tipo de terreno.
 
-R. Respuesta total
+R = Respuesta total.
 
-Ri. Respuesta del modo
+Ri = Respuesta del modo i.
 
-T. Periodo natural de intereses
+T = Periodo natural de interés.
 
-Ta. límite inferior de la meseta espectral
+Ta = Límite inferior de la meseta espectral.
 
-Tb. límite superior de la meseta espectral
+Tb = Límite superior de la meseta espectral.
 
-Tc. 2Ta periodo característico
+Tc= 2Ta = Periodo característico.
 
-V. Fuerza constante
+V = Fuerza cortante.
 
-Wi. peso (sic) del nivel
+Wi = Peso del nivel i.
 
-MDS. Manual de diseño por Sismo de la Comisión Federal Electoral.
+MDS = Manual de Diseño por Sismo de la Comisión Federal de Electricidad.
+
+RCDF = Reglamento de Construcciones para el Distrito Federal.
 
 ###### Artículo 995.
 
@@ -14179,213 +14861,143 @@ CLASIFICACIÓN DE LAS CONSTRUCCIONES
 
 Atendiendo a la seguridad estructura, las construcciones se clasifica según su destino como se indica a continuación:
 
-Grupo A. Estructural aconsejable para la estructura alto, las construcciones se clasifican según alto. Construcciones cuya falla estructural causaría la pérdida de un número elevado de vidas o pérdidas económicas o culturales de magnitud excepcionalmente alta, o que constituya peligro significativo por contener sustancias tóxicas o inflamables, así como construcciones cuyo funcionamiento sea esencialmente a raíz de un sismo. Tal es el caso de puentes principales, sistemas de abastecimiento de agua potable, subestaciones eléctricas, centrales telefónicas, estaciones de bombeos, archivos y registro públicos, monumentos, museos, hospitales, escuelas, estadios, templos, terminales de transporte, salas de espectáculos y hoteles que tengan áreas de reunión que puedan alojar un número elevado de personas, gasolineras, depósito de sustancias inflamables o tóxicas y locales que alojen especialmente costoso. (sic)
+> <small>(REFORMADO P.O. 4 DE JUNIO DE 2012)</small>
 
-Grupo B. Estructura en que requiere un grado de seguridad intermedio. Construcción es la falla estructural ocasionaría pérdida de magnitud intermedia o podría en peligro otras construcciones de este grupo o del A, tales como naves industriales, locales, comercios, estructuras comunes destinados a viviendo u oficinas, salas de espectáculos, hoteles, deposito y estructuras urbanos o industriales no incluido en el grupo A del presente artículo, así como muros de retención, bodegas con altura mayor de 2.5 m. (sic)
+Grupo A.- Estructuras en que se requiere un grado de seguridad alto. Construcciones cuya falla estructural causaría la pérdida de un número elevado de vidas o pérdidas económicas o culturales de magnitud excepcionalmente alta, o que constituya peligro significativo por contener sustancias tóxicas o inflamables, así como construcciones cuyo funcionamiento sea esencial a raíz de un sismo. Tal es el caso de puentes principales, sistemas de abastecimiento de agua potable, subestaciones eléctricas, centrales telefónicas, estaciones de bomberos, archivos y registros públicos, monumentos, museos, hospitales, escuelas, estadios, templos, terminales de transporte, salas de espectáculos y hoteles que tengan áreas de reunión que puedan alojar un número elevado de personas, gasolineras, depósitos de sustancias inflamables o tóxicas y locales que alojen equipo especialmente costoso.
+
+> <small>(REFORMADO P.O. 4 DE JUNIO DE 2012)</small>
+
+Grupo B.- Estructuras en que se requiere un grado de seguridad intermedio. Construcciones cuya falla estructural ocasionaría pérdida de magnitud intermedia o pondría en peligro otras construcciones de este grupo o del A, tales como naves industriales, locales, comercios, estructuras comunes destinadas a vivienda u oficinas, salas de espectáculos, hoteles, depósitos y estructuras urbanas o industriales no incluidas en el Grupo A del presente artículo, así como muros de retención, bodegas ordinarias y bardas con altura mayor de 2.5 m.
 
 Grupo C. Estructuras en que es admisible un grado de seguridad bajo. Construcciones cuya falla estructural ocasionaría pérdida de magnitud sumamente pequeña y no causaría normalmente daños a construcciones de los grupos A y B del presente artículo, ni pérdida de vidas. Se incluyen en este grupo, por ejemplo, bodegas provisionales y bardas con altura no mayor de 2.5 m.
 
-> <small>N. DE E. VEASE FORMULAS EN P.O. DE 31 DE DICIEMBRE DE 2004, PAGINAS 209 A 210.</small>
+> <small>(REFORMADO P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 996.
 
-CLASIFICACIÓN DE LOS TERRENOS DE CIMENTACIÓN.
+CLASIFICACIÓN DE LOS TERRENOS DE CIMENTACIÓN: Atendiendo a la respuesta del sitio ante excitación sísmica, los terrenos de cimentación se clasifican según la carta de microzonificación sísmica de la Fig.1 como sigue:
 
-Atendida a la respuesta del sitio ante excitación sísmica, los terrenos de cimentación se clasifica (sic) según la carta de micro zonificación sísmica de la Fig.1 como siguiente:
+> <small>N. DE E. VÉASE FÓRMULAS EN P.O. DE 4 DE JUNIO DE 2012, SEGUNDA SECCIÓN, PÁGINA 39.</small>
 
-Tipo I Roca o suelo muy compacto o duro con Ts < 0.4s,o en su defecto N, > 40.
+Todas las construcciones pertenecientes al Grupo A y las no clasificadas como ligeras o medianas requerirán de los estudios del subsuelo conducentes a determinar el tipo de terreno de cimentación. Cuando no se realicen estos estudios, se considerará que el predio de interés corresponde al tipo de terreno que conduzca a los efectos más desfavorables para la estructura que se va a construir.
 
-(Terreno firme) para suelos granulares o S, >10 ton /m2 para suelos cohesivos
+Cuando se trate de conjuntos habitacionales con más de 600 m2 de área total construida, las construcciones individuales del conjunto no podrán clasificarse como ligeras o medianas.
 
-Tipo II Formación de suelo con Ts <0.4 s y bs£350 m/s o bien 0.4 £ Ts £1.0 s y;
+Para determinar el tipo de terreno al que pertenece un predio en el que se va a construir una estructura ligera o mediana, se podrá utilizar el mapa de zonificación sísmica que se muestra en la figura 2. Los predios localizados cerca de la frontera entre dos tipos de terreno se supondrán ubicados en el más desfavorable. La clasificación del sitio se complementará con la decisión del técnico responsable de la obra, quien basará su juicio en la inspección visual del lugar y sus alrededores y en la obtención de información sobre la experiencia que exista en la zona, incluyendo estudios del subsuelo que se hayan realizado para construcciones cercanas. En particular, se indagarán aspectos como la proximidad a ríos o lagunas, la topografía local, la existencia de cavernas, rellenos o depósitos lacustres y aluviales y el afloramiento de la roca basal. Para normar el criterio de clasificación del sitio se usará la siguiente descripción del tipo de terreno. La información puede complementarse mediante la perforación de pozos a cielo abierto hasta la profundidad que el responsable de la obra juzgue suficiente.
 
-(Terreno intermedio) bs³150m/s o en su defecto 15£N, £ 40 para suelos granulares o 2.5 £ 10 ton/m2 para el suelo cohesión.
+Tipo I Roca o suelos de consistencia de muy firme a dura para limos y arcillas, o de compactos a muy compactos para materiales granulares. Suelos de origen eólico volcánico.
 
-Tipo III Formación de suelo con T,>1.0 s o bien con 0.4£ Ts£1.0s y bs <150m /s, o en su
+Tipo 2 Suelos de consistencia de firme a blanda para limos y arcillas, o depósitos arenosos de compacidad media, o bien capas intercaladas de estos materiales.
 
-(Terreno blando) de efecto Ts para suelos granulares o S,<2.5. ton/m2 para suelos cohesivos.
-
-Los parámetros Ts, bs, Ns y Ss, son valores medio del periodo dominante, la velocidad de ondas de cortante. El número de golpes de la prueba de penetración estándar y la resistencia al corte no drena, respectivamente, de la formación en el sitio. Estos parámetros se obtendrán mediante.
-
-donde:
-
-hi: Espesor del estrado de suelo "i"
-
-bi: Velocidad de ondas de cortante del estrado de suelo "i"
-
-Gi: Modulo de rigidez al corte de estrado del suelo "i"
-
-bi = G i / Pi
-
-Pi: Densidad de masa del estrado de suelo "i"
-
-Ni: Número de golpes de la prueba de penetración estándar en el estrado del
-
-suelo "i".
-
-Si: N Resistencia al corte no drenado del estrado de suelo "i".
-
-El periodo dominante del sitio se determinará como
-
-Ts = 4 H s
-
-bs
-
-Donde
-
-Hs es la profundidad de explotación del subsuelo, la cual será hasta el nivel de terreno firme pero no menor de 2.5m.
-
-Todas las construcciones pertinentes al grupo A y las no clasificadas como ligeras o medianas requieran de los estudio (sic) del suelo, se considera que el predio de interés corresponde al tipo de terreno se (sic) conduzca a los efectos más desfavorable (sic) para la estructura que se va a construir.
-
-Aquí se entiende por construcción ligera o mediana aquella que consta de menos de tres niveles y cuya área construida por nivel no excede de 300 m2.
-
-Cuando se trate de conjunto habitacionales con más de 600 m2, de área total construida, las construcciones individuales del conjunto no podrán clasificarse como ligeras o medianas.
-
-Para determinar el tipo de terreno al que pertenece un predio en el que se va a construir una estructura ligera o mediana, se podrá utilizar el mapa de zonificación sísmica. Los predios localizados cerca de la frontera entre dos tipos de terreno se supondrá ubicados en el más desfavorable. La clasificación del sitio se complementará con la decisión del técnico responsable de la obra, quien basará su juicio en la inspección visual del lugar y sus alrededores y en la obtención de información sobre la experiencia que exista en la zona, incluyendo estudios del subsuelo que se haya para construcciones cercanas. En particular, se indagarán aspectos como la proximidad a ríos o lagunas, la topografía local, la existencia de cadáveres, rellenos o depósitos lacustre y aluviales y el afloramiento de la roca basal. Para normal (sic) el criterio de clasificación del sitio se usará la siguiente descripción del tipo de terreno. La información puede complementarse mediante la perforación de pozos a cielo abierto hasta la profundidad que el responsable de la obra juzgue suficiente.
-
-Tipo 1 Roca o suelos de consideración de muy firme a dura para limos y arcillas o de compactos a muy compactos para materiales granulares. Suelos de origen eólico volcánico.
-
-Tipo 2 Suelos de consistencia de blanda a firme para limos y arcillas o depósitos arenosos de compacidad media, o bien capas intercaladas de estos materiales.
-
-Tipo 3 Suelos de consistencia de muy blanda para limos y arcillas o depósitos arenosos de compacidad.
+Tipo 3 Suelos de consistencia de blanda a muy blanda para limos y arcillas, o depósitos arenosos de compacidad suelta. Depósitos lacustres y aluviales.
 
 ###### Artículo 997.
 
 ELECCIÓN DEL TIPO DE ANALISIS
 
-I. Análisis estático y dinámico.- Todo (sic) estructura podrá analizarse mediante un método dinámico según se establece este (sic) Capítulo. Las estructuras que no pasen de 60m de alto podrán analizarse, como alternativa, mediante el método estático que se describe este (sic) Capítulo; y
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
-II. El método simplificado de análisis.- El método simplificado que se especifica en este Capítulo será aplicable al análisis de estructura que cumplan simultáneamente los siguientes requisitos:
+I. Análisis estático y dinámico.- Toda estructura podrá analizarse mediante el método dinámico que establece este Capítulo. Las estructuras que no pasen de 60 m. de alto podrán analizarse, como alternativa, mediante el método estático que se describe en este Capítulo.
 
-1. En cada planta, el menos el 75 por ciento de las cargas verticales estarán soportadas por muros ligados entre sí mediante losas monolíticas u otros sistemas de piso suficientemente resistentes rígidos al corte. Dichos muros tendrá (sic) distribución sensiblemente simétrica con respecto a dos ejes ortogonales y deberán satisfacer las condiciones que establecen las correspondientes norma técnica del RCDF para estructuras de concreto o mampostería. Será admisible de cierta asimetría en la administración de los muros cuando en todos los pisos cuando menos dos muros de carga perimetrales paralelos entre así, cada uno con longitud no menor de la mitad de la dimensión mayor en planta de la estructura. Los muros a que se refiere este párrafo podrán ser de mampostería, concreto reforzado o madera; en este último caso estarán arrostrados con diagonales.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
+
+II. El método simplificado de análisis.- Es el que se especifica en este Capítulo y será aplicable al análisis de estructuras que cumplan simultáneamente los siguientes requisitos:
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+1. En cada planta, al menos el 75 por ciento de las cargas verticales estarán soportadas por muros ligados entre sí mediante losas monolíticas u otros sistemas de piso suficientemente resistentes y rígidos al corte. Dichos muros tendrán distribución sensiblemente simétrica con respecto a dos ejes ortogonales y deberán satisfacer las condiciones que establecen las correspondientes normas técnicas del RCDF para estructuras de concreto o mampostería. Será admisible cierta asimetría en la distribución de los muros cuando existan en todos los pisos cuando menos dos muros de carga perimetrales paralelos entre sí, cada uno con longitud no menor de la mitad de la dimensión mayor en planta de la estructura. Los muros a que se refiere este párrafo podrán ser de mampostería, concreto reforzado o madera; en este último caso, estarán arriostrados con diagonales.
 
 2. La relación entra (sic) la longitud y anchura de la planta de la estructura no excederá de 2, a menos, que, para fines de análisis sísmicos, se pueda suponer divida (sic) dicha planta en tramos independientes cuya relación entre longitud y anchura esta (sic) restricción y cada tramo resistencia la fuerza cortante que le corresponde calculada como se indica.
 
 3. La relación entre la altura y la dimensión mínima de la base estructura excederá de 1.5 y la altura de la estructura no será mayor de 13 m.
 
-> <small>N. DE E. VEASE FORMULAS EN P.O. DE 31 DE DICIEMBRE DE 2004, PAGINAS 211 A 212.</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 998.
 
-ESPECTROS PARA DISEÑO SÍSMICO: La ordenada del espectro de aceleración, expresada de aceleraciones, expresada como fracción de la aceleración de la gravedad, está dada por las siguientes expresiones:
+ESPECTROS PARA DISEÑO SÍSMICO: La ordenada del espectro de aceleraciones, expresada como fracción de la aceleración de la gravedad, está dada por las siguientes expresiones:
 
-a=a° + (c-a) T/T; si T<Ta
+> <small>N. DE E. VÉASE FÓRMULAS EN EL P.O. DE 4 DE JUNIO DE 2012, SEGUNDA SECCIÓN, PÁGINAS DE LA 40 A LA 41.</small>
 
-a = c; si Ta<T<Tb.
+Tabla I. Parámetros de los espectros de diseño para estructuras del Grupo B.
 
-a = c(Tb/T)r; siT<Tb
+Los valores aquí especificados para las ordenadas espectrales de diseño son aplicables a construcciones del Grupo B. Estos valores habrán de multiplicarse por 1.5 para construcciones del Grupo A.
 
-c (Tb)r ; sí T < Tb
+Cuando se conozca el periodo dominante del sitio se permitirán reducciones en los espectros de diseño. Para ello, tratándose de terrenos tipo II y III se podrán modificar el coeficiente sísmico y los periodos característicos de la meseta espectral como se indica a continuación:
 
-T
+En terreno tipo I, no se admiten modificaciones en el espectro de diseño por efectos del periodo dominante del terreno.
 
-Tabla.- Parámetros de los espectros de diseño para estructuras del Grupo B
+> <small>N. DE E. VÉASE FÓRMULAS EN EL P.O. DE 4 DE JUNIO DE 2012, SEGUNDA SECCIÓN, PÁGINA 41.</small>
 
-Tipo de terreno ao c Ta(S) Tb(S) r
+Los espectros de diseño aquí especificados son aplicables a construcciones con 5% de amortiguamiento estructural. Cuando se justifique a satisfacción de la Dirección la adopción de valores de amortiguamiento mayores que éste, las ordenadas espectrales de diseño se podrán escalar multiplicando los valores del coeficiente sísmico dados en la tabla I, por el factor:
 
-I 0.05 0.18 0.15 0.6 ½
+> <small>N. DE E. VÉASE FÓRMULAS EN EL P.O. DE 4 DE JUNIO DE 2012, SEGUNDA SECCIÓN, PÁGINAS DE LA 41 A LA 42.</small>
 
-II 0.09 0.32 0.20 1.5 2/3
+En ninguna situación se aceptarán valores de amortiguamiento mayores de 10%, salvo cuando se adopten dispositivos especiales de disipación de energía y se demuestre a satisfacción de la Dirección tanto la eficiencia de los dispositivos como la validez de los valores del amortiguamiento propuestos.
 
-III 0.11 0.40 0.50 2.5 1
-
-Los valores aquí especificados para las ordenadas espectrales de diseño son aplicables a construcciones del Grupo B. Estos valores habrán de multiplicarse por 1.5 por construcciones del Grupo A.
-
-Cuando se conozca el periodo dominante del sitio se permitirá reducciones en los espectrales de diseño. Para ello, espectral como se indica a continuación:
-
-En terreno tipo I, no se admiten modificaciones en el espectro de diseño por efectos del periódico (sic) dominante del terreno.
-
-C= 0.18 + Ts - 0.4/T´+ 3.3
-
-Terrenos tipo II: Ta=max(0.35Ts'0.20s)
-
-Tb=max(1.25Ts'0.60s)
-
-Terreno tipo III: Ta=max(o.35Ts'0.50s
-
-Tb=max(1.25Ts'1.5s)
-
-Los espectros de diseño aquí especificados son aplicables a construcciones con 5% de amortiguamientos estructural. Cuando se justifiquen a satisfacción del Ayuntamiento la adaptación de valores del amortiguamientos mayores que este, las ordenadas espectrales de diseño se podrán escalar multiplicando los valores del coeficiente sísmico dados en la tabla I, por el factor.
-
-S = (0.05)k
-
-S
-
-Donde:
-
-S: Fracción de amortiguación de la estructura.
-
-K: 0.4, 0.5 y 0.6 para terrenos tipo I, II, III, respectivamente.
-
-En ninguna situación valores del amortiguador mayores 10%, salvo cuando se adopten dispositivos especiales de disipación de energía y se demuestre a satisfacción del Ayuntamiento tanto la eficiencia de los dispositivos como la validez de los valores del amortiguamiento propuestos.
-
-> <small>N. DE E. VEASE FORMULAS EN P.O. DE 31 DE DICIEMBRE DE 2004, PAGINAS 212 A 213.</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 999.
 
-REDUCCIÓN DE FUERZAS SÍSMICAS
+REDUCCIÓN DE FUERZAS SÍSMICAS: Con fines de diseño, las fuerzas sísmicas obtenidas empleando los métodos de análisis estático y dinámico modal que fijan estas normas se podrán reducir dividiéndolas entre el factor reductivo Q', el cual se calcula como sigue:
 
-Con fines de diseño, las fuerzas sísmicas obtenidas empleando los métodos de análisis estáticos y dinámicos modal que fijan estas normas se podrán reducir dividiendo entre el factor reductivo Q, el cual se calcula como sigue:
+> <small>N. DE E. VÉASE FÓRMULAS EN EL P.O. DE 4 DE JUNIO DE 2012, SEGUNDA SECCIÓN, PÁGINA 42.</small>
 
-; sí T < Tc
+Aquí T se tomará igual al periodo fundamental de vibración cuando se emplee el análisis estático e igual al periodo natural de vibración del modo que se considere cuando se emplee el análisis dinámico modal.
 
-Q =1 + (Q -1) Tc l
+En el diseño sísmico de las estructuras que no satisfagan las condiciones de regularidad que establece el artículo 1001, se multiplicará por 0.8 el valor del factor de comportamiento sísmico Q, que se detalla en el artículo 1000. El factor reductivo Q' no se aplica a los efectos de las aceleraciones verticales del terreno.
 
-Q = Q; sí T ³ Tc o sí se desconoce T.
+Las deformaciones laterales se calcularán multiplicando por Q' las causadas por las fuerzas reducidas cuando se empleen los métodos de análisis estático o dinámico modal que se detallan en los artículos 1003 y 1004, respectivamente.
 
-Q = Factor de comportamiento sísmico
+Cuando se adopten dispositivos especiales capaces de disipar energía por comportamiento inelástico, se podrán emplear criterios de diseño sísmico que difieran de los aquí especificados, siempre que se demuestre a satisfacción de la Dirección tanto la eficacia de los dispositivos como la validez de los valores del factor reductivo que se propongan.
 
-T: Período natural de interés
-
-Tc: 2Ta Periódico característico
-
-Aquí T se tomará igual periodo de vibración cuando se emplee el análisis estático e igual periodo natural de vibración del modo que se considere cuando se emplee el análisis dinámico modal.
-
-En el diseño sísmico de las estructuras que no satisfagan las condiciones de seguridad que establece el artículo 995, se multiplicará por 0.8 el valor del factor de comportamiento sísmico de Q, que se detalla en el artículo 994. El factor reductito Q no se aplica a los efectos de las aceleraciones verticales del terreno.
-
-Las deformaciones laterales se calcularán multiplicando por Q las causadas por las fuerzas reducidas cuando se empleen los métodos de análisis estático o dinámico modal que se detallan en artículos 997 y 998, respectivamente.
-
-Cuando no se adopten dispositivos especiales capaces de disipar energía por comportamiento inelástico, se podrán emplear criterios de diseño sísmico que difieran de los aquí especificados, siempre que se demuestren a satisfacción del ayuntamiento tanto en eficacia de los dispositivos como la validez de los valores del factor reductivo que se propongan.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1000.
 
-FACTOR DE COMPORTAMIENTO SÍSMICO
+FACTOR DE COMPORTAMIENTO SÍSMICO: Se adoptarán los siguientes valores del factor de comportamiento sísmico a que a que se refiere este Capítulo:
 
-Se adoptará los siguientes (sic) del factor de comportamiento sísmico a que a que se refiere este Capítulo:
+Se usará Q = 4 cuando se cumplan los requisitos siguientes:
 
-I. Se usará Q = 4 cuando se cumplan los requisitos siguientes:
+I. La resistencia en todos los entrepisos es suministrada exclusivamente por marcos no contraventeados de acero o concreto reforzado, o bien por marcos contraventeados o con muros de concreto reforzado en los que, en cada entrepiso, los marcos son capaces de resistir, sin contar muros ni contravientos, cuando menos 50 por ciento (sic) de la fuerza sísmica actuante.
 
-1. La resistencia en todos los entrepisos es suministrada exclusivamente por marcos no contra venteados de acero o concreto reforzado, o bien por marcos contra venteados o con muros de concreto o con muros de concreto reforzado en los que en cada entrepiso los marcos son capaces de resistir, sin contar muros ni contravientos, cuando menos 50 por ciento de la fuerza sísmica actualmente.
+II. Si hay muros ligados adecuadamente en todo su perímetro a los marcos estructurales o a castillos y dalas ligadas a los marcos, éstos se deben tener en cuenta en el análisis de la estructura, pero su contribución a la capacidad ante fuerzas laterales sólo se tomará en cuenta si estos muros son de piezas macizas, y los marcos, sean o no contraventeados, y los muros de concreto reforzado son capaces de resistir al menos 80 por ciento de las fuerzas laterales totales sin la contribución de los muros de mampostería.
 
-2. Si los muros ligados adecuadamente en todo su perímetro a los marcos estructurales o a castillado y dalas ligadas a los marcos, éstos se deben tener en cuenta en el análisis de la estructura, pero su contribución a la capacidad fuerzas laterales sólo se tomará en cuenta si estos muros son de piezas macizas, y los marcos, sean o no contra venteados, y los muros de concreto reforzados son capaces de resistir al menos 80 por ciento de las fuerzas laterales totales sin la contribución de los muros de mampostería.
+III. El mínimo cociente de la capacidad resistente de un entrepiso entre la acción de diseño no difiere en más de 35 por ciento del promedio de dichos cocientes para todos los entrepisos. Para verificar el cumplimiento de este requisito, se calculará la capacidad resistente de cada entrepiso teniendo en cuenta todos los elementos que puedan contribuir a la resistencia, en particular los muros ligados a la estructura en la forma especificada en el requisito 2.
 
-3. En el mínimo cociente de la capacidad resistente de y un entrepiso entre la acción y el diseño no diferente en más de 35 por ciento de promedio de dichos cocientes para todos los entre piso. Para verificar el cumplimiento de este requisito, se calculará la capacidad resistente de cada entrepiso teniendo en cuenta todos los elementos que puedan contribuir a la resistencia de cada entrepiso teniendo en cuenta todos los elementos que pueda contribuir a la resistencia, en particular los muros ligados a la estructura en la forma especificada en el requisito 2.
+IV. Los marcos y muros de concreto reforzado cumplen con los requisitos que fijan para marcos y muros dúctiles las normas técnicas del RCDF para estructuras de concreto.
 
-4. Los marcos y muros de concreto reforzado cumplen con los requisitos que fijan para marcos y muros dúctiles las normas técnicas del RCDF para las estructuras de concreto.
+V. Los marcos rígidos de acero satisfacen los requisitos para marcos dúctiles que fijan las normas técnicas del RCDF para las estructuras metálicas.
 
-5. Los marcos rígidos de acero satisfacen los requisitos para marcos dúctiles que fijan normas técnicas de RCDF para estructuras metálicas.
+VI. Se usará Q = 3 cuando se satisface lo dispuesto en los numerales 2, 4 y 5 de la fracción anterior y si en cualquier entrepiso dejan de satisfacerse las condiciones 1 ó 3 especificadas para el caso I, pero la resistencia en todo los (sic) entrepisos es suministrada por columnas de acero o de concreto reforzado con losas planas, por marcos rígidos de acero, por marcos de concreto reforzado, por muros de este material, por combinaciones de éstos y marcos o por diafragmas de madera contrachapada. Las estructuras con losas planas deberán además satisfacer los requisitos que sobre el particular marcan las normas técnicas del RCDF para estructuras de concreto.
 
-II. Se usarán Q = 3 cuando se satisface lo dispuesto en los numerales 2,4 y 5 de la fracción anterior y entre cualquier entrepiso dejan de satisfacerse las condiciones 1 o 3 especificadas para el paso I, pero la resistencia en todo los entrepiso (sic) es suministrada por columnas de acero o de concreto reforzado con losas plantas, por marcos regidos de acero por muros de este material, por combinaciones de estos y marcos o por diafragmas de madera contra chapada. Las estructuras con losas planas deberán además satisfacer los requisitos que sobre el particular marcan las normas técnicas del RCDF para estructuras técnicas.
+VII. Se usará Q = 2 cuando la resistencia a fuerzas laterales es suministrada por losas planas con columnas de acero o de concreto reforzado, por marcos de acero o de concreto reforzado, contraventeados o no, o por muros o columnas de concreto reforzado, que no cumplen en algún entrepiso lo especificado para los casos I y II, o por muros de mampostería de piezas macizas confinados por castillos, dalas, columnas o trabes de concreto reforzado o de acero, que satisfagan los requisitos de las normas técnicas del RCDF para estructuras de mampostería, o diafragmas construidos con duelas inclinadas o por sistemas de muros formados por duelas de madera horizontales o verticales combinados con elementos diagonales de madera maciza. También se usará Q = 2 cuando la resistencia es suministrada por elementos de concreto prefabricado o presforzado, con las excepciones que sobre el particular marcan las normas técnicas del RCDF para estructuras de concreto.
 
-III. Se usará Q = 2 cuando la resistencia a fuerzas laterales es suministrada por losas planas con columnas de acero o de concreto reforzado, por marcos de acero o de concreto reforzado, contra venteados o no, o por muros o de mampostería de piezas macizas confinados por castillos, dalas, columnas o trabes de concreto reforzado o de acero, que satisfagan los requisitos de las normas técnicas del RCDF para estructuras de mampostería, o diafragmas construidos con duelas inclinadas o por sistemas de muros formados por duelas de madera horizontales o verticales combinados con elementos diagonales de madera maciza. También se usará Q = 2 cuando la resistencia es suministrada por elementos concretos prefabricados o presforzado, con excepciones que sobre el particular marca las normas técnicas de RCDF para estructuras de concreto.
+VIII. Se usará Q = 1.5 cuando la resistencia a fuerzas laterales es suministrada en todos los entrepisos por muros de mampostería de piezas huecas, confinados o con refuerzo interior, que satisfacen los requisitos de las normas técnicas del RCDF para estructuras de mampostería, o por combinaciones de dichos muros con elementos como los descritos en las fracciones II y III, o por marcos y armaduras de madera.
 
-IV. Se usará Q = 1.5 cuando la resistencia a fuerzas laterales es suministrada en todo los entrepisos por muros de mamposterías de piezas huecas, confinados o con refuerzo interior, que se satisfacen los requisitos de las normas técnicas de RCDF para estructuras de mampostería, o por combinaciones de dichos muros con elementos como los descritos en las fracciones II y III, o por marcos y armaduras de madera; y
+IX. Se usará Q = 1 en estructuras cuya resistencia a fuerzas laterales es suministrada al menos parcialmente por elementos o materiales diferentes de los arriba señalados, a menos que se haga un estudio que demuestre a satisfacción de la Dirección que puede emplearse un valor más alto que el que aquí se especifica.
 
-V. Se usará Q = 1 en estructuras cuya resistencia a fuerzas laterales es suministrada a menos parcialmente por elementos o materiales diferentes de los arriba señalados, a menos que se hagan un estudio que demuestre a satisfacción del ayuntamiento que puede emplearse un valor más alto que el que aquí se especifica.
+En todos los casos se empleará para toda la estructura en la dirección de análisis el valor mínimo de Q que corresponde a los diversos entrepisos de la estructura en dicha dirección.
 
-En todo (sic) los casos se emplearán para todas las estructuras en la dirección de análisis el valor mínimo de Q que corresponde a los diversos entrepisos de la estructura de dicha dirección.
+El factor Q puede diferir en las dos direcciones ortogonales en que se analiza la estructura, según sean las propiedades de ésta en dichas direcciones.
 
-El factor Q puede diferir en las dos direcciones otorgándoles en que se analice la estructura, según sean las propiedades de ésta en dichas direcciones.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1001.
 
-CONDICIONES REGULARIDAD
+CONDICIONES DE REGULARIDAD.
 
-Para que construcción pueda considerarse regular debe satisfacer los siguientes requisitos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
 
-I. Su planta es sensiblemente simétrica con respecto a dos ejes otorgándoles por lo que toca a masas, así como a muros y otros elementos resistentes;
+Para que una construcción pueda considerarse regular debe satisfacer los siguientes requisitos:
 
-II. La relación de su altura a la dimensión menor de su base no pase de 2.5;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+I. Su planta es sensiblemente simétrica con respecto a dos ejes ortogonales por lo que toca a masas, así como a muros y otros elementos resistentes.
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+II. La relación de su altura a la dimensión menor de su base no excede de 2.5.
 
 III. La relación de largo a ancho de la base no excede de 2.5;
 
@@ -14393,25 +15005,43 @@ IV. En planta no tiene entrantes ni salientes cuya dimensión exceda de 20 por c
 
 V. En cada nivel tiene un sistema de techo o piso rígido y resistente;
 
-VI. No tiene aberturas en los sistemas de techo o piso cuya dimensión exceda de 20 por ciento de la dimensión de la planta medida paralelamente a la dirección que se considera de la abertura, las áreas huecas no ocasionan asimetría significativas ni difieran en posición de un piso a otro y el área total de aberturas no excede en ningún nivel de 20 por ciento de dicho piso;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
-VII. El peso de cada nivel, incluyendo la carga viva que debe considerarse para diseño sísmico, no es mayor que el del piso inminente inferior ni, excepción hecha del último nivel de la construcción, es menor que 70 por ciento de dicho peso;
+VI. No tiene aberturas en los sistemas de techo o piso cuya dimensión exceda de 20 por ciento de la dimensión de la planta medida paralelamente a la dirección que se considera de la abertura, las áreas huecas no ocasionan asimetría significativas ni difieran en posición de un piso a otro y el área total de aberturas no excede en ningún nivel de 20 por ciento del área de la planta
 
-VIII. Ningún piso tiene un área, delimitada por los baños exteriores de sus elementos resistentes verticales, mayor que la del piso inmediato inferior ni menor que 70 por ciento de ésta. Se exime de este último requisito únicamente al último piso de la construcción; y
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+VII. El peso de cada nivel, incluyendo la carga viva que debe considerarse para diseño sísmico, no es mayor que el del piso inmediato inferior ni, excepción hecha del último nivel de la construcción, es menor que 70 por ciento de dicho peso.
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+VIII. Ningún piso tiene un área, delimitada por los paños exteriores de sus elementos resistentes verticales, mayor que la del piso inmediato inferior ni menor que 70 por ciento de ésta. Se exime de este último requisito únicamente al último piso de la construcción.
 
 IX. Todas las columnas están restringidas en todos los pisos en dos direcciones ortogonales por diafragmas horizontales y por trabes o losas planas.
 
 Ningún entrepiso la excentricidad torsional calculada estáticamente, e, excede del 10 por ciento de la dimensión en planta de ese entrepiso medida paralelamente a la excentricidad mencionada.
 
-> <small>N. DE E. VEASE FORMULAS EN P.O. DE 31 DE DICIEMBRE DE 2004, PAGINA 215.</small>
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+X. La rigidez al corte de ningún entrepiso excede en más de 100 por ciento a la del entrepiso inmediato inferior.
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+XI. En ningún entrepiso la excentricidad torsional calculada estáticamente, es, excede del 10 por ciento de la dimensión en planta de ese entrepiso medida paralelamente a la excentricidad mencionada.
+
+> <small>N. DE E. VÉASE FÓRMULAS EN P.O. DE 31 DE DICIEMBRE DE 2004, PÁGINA 215.</small>
 
 ###### Artículo 1002.
 
 MÉTODO SIMPLIFICADO DE ANÁLISIS
 
-Para aplicar este método se hará caso omiso de los desplazamientos horizontales, momentos torsionantes y momentos de volteo. Se verifica únicamente que cada entrepiso la suma de las resistencias al corte de los muros de carga, proyectándose en la dirección en que se considera la aceleración, sea cuando menos igual a la fuerza cortante que obre en dicho entrepiso, calculada según especifica este Capítulo, pero empleando los coeficientes sísmicos reducidos que se consignan en la tabla 2 para construcciones del Grupo B. Estos coeficientes habrán de multiplicar por 1.5 para construcciones del Grupo A. Lo anterior se deberá verificar en dos direcciones otorgonales.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-Tabla 2. Coeficiente sísmico reducidos para el método simplificado, correspondientes a estructura del Grupo B.
+Para aplicar este método se hará caso omiso de los desplazamientos horizontales, momentos torsionantes y momentos de volteo. Se verificará únicamente que en cada entrepiso la suma de las resistencias al corte de los muros de carga, proyectadas en la dirección en que se considera la aceleración, sea cuando menos igual a la fuerza cortante total que obre en dicho entrepiso, calculada según se especifica en el artículo 1003 fracción I, pero empleando los coeficientes sísmicos reducidos que se consignan en la tabla 2 para construcciones del Grupo B. Estos coeficientes habrán de multiplicarse por 1.5 para construcciones del Grupo A. Lo anterior se deberá verificar en dos direcciones ortogonales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
+
+Tabla 2. Coeficientes sísmicos reducidos para el método simplificado, correspondientes a estructuras del Grupo B.
 
 Tipo de Muros de piezas macizas o Muros de piezas huecas o
 
@@ -14431,147 +15061,65 @@ H < 4 4 < H < 7 7 < H < 13 H < 4 4 < H < 7 7 < H < 13
 
 3 0.13 0.16 0.19 0.15 0.19 0.23
 
-Para el diseño de elementos principales de piso o techo, incluyendo voladizos, se tendrá en cuenta el efecto de la aceleración vertical del terreno como se indica el presente Capítulo.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-> <small>N. DE E. VEASE FORMULAS EN P.O. DE 31 DE DICIEMBRE DE 2004, PAGINAS 215 A 219.</small>
+Para el diseño de elementos principales de piso o techo, incluyendo voladizos, se tendrá en cuenta el efecto de la aceleración vertical del terreno como se indica en el artículo 1003 fracción VIII.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1003.
 
-ANÁLISIS ESTÁTICO
+ANÁLISIS ESTÁTICO.
 
-I. Fuerzas cortantes.- Para calcular las fuerzas cortantes a diferentes niveles de una estructura, se supondrá un conjunto de fuerzas horizontales actuando sobre actuando (sic) sobre cada uno de los puntos donde se suponga concentradas las masas. Cada una de estas fuerzas se tomará igual al peso de la masa que corresponde multiplicando por un coeficiente proporcional a la altura en cuestión sobre el desplante o nivel a partir del cual las deformaciones estructurales pueden ser apreciables. El coeficiente se tomará de tal manera que la relación V/W sea igual a c/Q pero no menor de ao, donde V es la fuerza cortante basal, W el peso de la construcción incluyendo cargas muertas vivas, Q el factor de comportamiento sísmico que se estipula en el reglamento y c el coeficiente sísmico que se consigna en la tabla 1. De acuerdo con lo anterior, la fuerza lateral que actúa en la masa del nivel i resulta ser.
+I. Fuerzas cortantes.- Para calcular las fuerzas cortantes a diferentes niveles de una estructura, se supondrá un conjunto de fuerzas horizontales actuando sobre cada uno de los puntos donde se supongan concentradas las masas. Cada una de estas fuerzas se tomará igual al peso de la masa que corresponde multiplicado por un coeficiente proporcional a la altura de la masa en cuestión sobre el desplante o nivel a partir del cual las deformaciones estructurales pueden ser apreciables. El coeficiente se tomará de tal manera que la relación V/W sea igual a c/Q pero no menor de ao. donde V es la fuerza cortante basal, W el peso de la construcción incluyendo cargas muertas y vivas, Q el factor de comportamiento sísmico que se estipula en el artículo 1000 y c el coeficiente sísmico que se consigna en la tabla 1. De acuerdo con lo anterior, la fuerza lateral que actúa en la masa del nivel i resulta ser:
 
-Esta expresión no se aplica directamente en edificios apéndices. En este caso de deberá emplear textualmente el párrafo anterior, en combinación con lo especificado en la fracción IV, de este artículo.
+> <small>N. DE E. VÉASE FÓRMULAS EN EL P.O. DE 4 DE JUNIO DE 2012, SEGUNDA SECCIÓN, PÁGINA 44.</small>
 
-Pi = Wihi (i Wi/c Q;c/Q>a)
+Esta expresión no se aplica directamente en edificios con apéndices. En este caso se deberá emplear textualmente el párrafo anterior, en combinación con lo especificado en la fracción IV de este artículo.
 
-Donde:
+II. Reducción de las fuerzas cortantes.- Podrán adoptarse fuerzas cortantes menores que las calculadas según la fracción l de este artículo, siempre que se tome en cuenta el valor aproximado del periodo fundamental de vibración de la estructura, de acuerdo con lo siguiente:
 
-Wi = Peso del nivel ¡
+> <small>N. DE E. VÉASE FÓRMULAS EN EL P.O. DE 4 DE JUNIO DE 2012, SEGUNDA SECCIÓN, PÁGINA 45.</small>
 
-h¡ = Altura del nivel ¡ sobre el desplante
+III. Péndulos Invertidos
 
-II. Reducción de las fuerzas cortantes.- Podrán adoptarse fuerzas cortantes menores que las calculadas según la fracción I de este artículo, siempre que se tome en cuenta el valor aproximado del periodo fundamental de vibraciones de la estructura, de acuerdo con lo siguiente:
+> <small>N. DE E. VÉASE FÓRMULAS EN EL P.O. DE 4 DE JUNIO DE 2012, SEGUNDA SECCIÓN, PÁGINA 45.</small>
 
-1. El periodo natural de vibraciones se tomará igual a
+IV. Apéndices.- Para valuar las fuerzas sísmicas que obran en apéndices, tanques y demás elementos cuya estructura difiera radicalmente de la del resto de la estructura principal, se supondrá actuando sobre el elemento en cuestión la fuerza sísmica que le correspondiera si se apoyara directamente sobre el terreno, multiplicada por el factor 1 + c/ ao en que c' es el coeficiente por el que se multiplica el peso del nivel de desplante del elemento en cuestión cuando se evalúan las fuerzas laterales sobre toda la construcción. Este requisito junto con la condición que establece la fracción I de este artículo para el cortante basal conducen a:
 
-T = 2 ñ g (¡W¡ 2) 1/2
-
-g (P¡ X¡)
-
-Donde:
-
-Wi: Peso del nivel i
-
-Pi: Fuerza lateral de inercia en el nivel i
-
-Xi: Desplazamiento horizontal del nivel i causada por las fuerzas sísmicas
-
-g: Aceleración de la gravedad.
-
-2. Si T es menor o igual que Tb se procederá como la fracción I de este artículo pero de la manera que la relación V/W sea igual a a/Q, calculándose a y Q como se especifica en el presente Capítulo, respectivamente. Así, la fuerza lateral que actúe en la masa del nivel resulta ser
-
-P¡ = W¡H¡(W¡ a/Q)
-
-W¡h¡ Q
-
-3. Si T es mayor que Tb, en vea (sic) de la variación línea (sic) de la aceleración con la altura se adoptará una variación cuadrática, que conduce a una fuerza lateral en la masa del nivel i de la forma
-
-P¡ = W¡(a¡h¡+a2h¡2)a/Q
-
-Donde:
-
-Los coeficientes de proporcionalidad a1 y a2 están dados por las siguientes expresiones:
-
-a¡ = (1 - r(1-q)W¡)
-
-W¡h¡
-
-a2 = 1.5r(1-q) W¡
-
-W¡h¡2
-
-Donde q= (Tb / T) r siendo r el exponente que se consigna en la tabla I. En este caso, los coeficientes a1, a2 son tales que la relación V/W es igual a a/Q cuando T es igual a y tiende a 1.25, 1.33 y 1.5 veces a/Q para terreno tipo I, II, III, respectivamente, cuando T tiende a infinitivo.
-
-III. Péndulos Invertidos.
-
-Los péndulos invertidos son estructuras en que 50 por ciento o más de su masa se halla en el extremo superior y tiene un solo elemento resistente en la dirección de análisis o una sola hilera de columnas perpendicular a esta. En el análisis estático de estas estructuras, además de la fuerza lateral estipulada se tendrá en cuenta la aceleración angular de la masa superior asociada al giro de dicha masa con respecto a un eje horizontal normal a la dirección de análisis y que pase por el punto de unión entre la masa y el elemento resistente. El efecto de dicha aceleración se tomará equivalente a un par aplicado en el extremo superior del elemento resistente, cuyo valor es igual a
-
-M = 1.5Pr2°Q/X
-
-donde r° es el radio de giro de la masa con respecto al eje en cuestión; x y f son el desplazamiento lateral y el giro, respectivamente, del extremo superior del elemento resistente bajo la acción de la fuerza lateral P que actúa sobre la masa de acuerdo con la fracción I de este artículo.
-
-IV. Apéndices
-
-Para valuar las fuerzas sísmicas obran en apéndices, tanques y demás elementos difiera radicalmente de el resto de la estructura principal, se pondrá actuando sobre el elemento en cuestión la fuerza sísmica que le correspondiera si se apoyará directamente el terreno, multiplicada por el factor 1 + c/ ao en que c es el coeficiente por el que se multiplica el peso del nivel de desplante del elemento en cuestión cuando se evalúan las fuerzas laterales sobre todo la construcción. Este requisito junto con la condición que establece la fracción I de este artículo para el cortante basal conducen a
-
-a(¡W¡h¡+a°Wa°Wa(1+ah°/a°)=W¡+wa)c/Q;c/Q>a°
-
-Donde:
-
-W i: Peso del nivel i
-
-hi = Altura del nivel i sobre el desplante
-
-ao.- Coeficiente de aceleración del terreno
-
-c.- Coeficiente sísmico
-
-Q.- Factor de comportamiento sísmico.
-
-Wo: Peso apéndice
-
-ha: Altura del apéndice
-
-a: Constante de proporcionalidad
+> <small>N. DE E. VÉASE FÓRMULAS EN EL P.O. DE 4 DE JUNIO DE 2012, SEGUNDA SECCIÓN, PÁGINA 46.</small>
 
 En este requisito se incluyen los parapetos, pretiles, anuncios, ornamentos, ventanales, muros, revestimientos y otros apéndices. Se incluyen, asimismo, los elementos sujetos a esfuerzos que dependen principalmente de su propia aceleración, no de la fuerza cortante ni del momento de volteo, como las losas que trasmiten fuerzas de inercia de las masas que soportan.
 
-V. Momento de volteo
+V. Momento de volteo.- El momento de volteo para cada marco o grupo de elementos resistentes en un nivel dado podrá reducirse, tomándolo igual al calculado multiplicado por 0.8 + 0.2z, siendo z la relación entre la altura a la que se calcula el factor reductivo por momentos de volteo y la altura total de la construcción, pero no menor que el producto de la fuerza cortante en el nivel en cuestión multiplicada por su distancia al centro de gravedad de la parte de la estructura que se encuentra por encima de dicho nivel. En péndulos invertidos no se permite reducción de momento de volteo.
 
-El momento de volteo para cada marco o grupo de elementos resistentes en un nivel dado podrá reducirse, tomándolo igual calculando multiplicando por 0.8 + 0.2=, siendo la relación entre la altura a la que se calcula el factor reductivo por momentos de volteo y la altura de la construcción, pero no menor que el producto de la fuerza constante en el nivel en cuestión multiplicada por su distancia al centro de gravedad de la parte estructura (sic) que se encuentre por encima de dicho nivel. En péndulos invertidos no se permite reducción de momento de volteó.
+VI. Efectos de torsión.- La excentricidad de rigideces calculada estáticamente en cada entrepiso es, se tomará como la distancia entre el centro de torsión del nivel correspondiente y la fuerza cortante en dicho entrepiso.
 
-VI. Efectos de torsión
+Para fines de diseño, el momento torsionante se tomará por lo menos igual a la fuerza cortante de entrepiso multiplicada por la excentricidad que para cada marco o muro resulte más desfavorable de las siguientes: 1.5es, 0.1 b ó es,- 0.1 b, en que b es la dimensión de la planta que se considera medida en la dirección de es. Además, la excentricidad de diseño en cada sentido no se tomará menor que la mitad del máximo valor de es, calculado para los entrepisos que se hallan abajo del que se considera, ni se tomará el momento torsionante de ese entrepiso menor que la mitad del máximo calculado para los entrepisos que están arriba del considerado.
 
-La excentricidad de rigideces calculada estáticamente en cada entrepiso, e, se tomará como la distancia entre el centro de torsión del nivel correspondiente y la fuerza cortante en dicho entrepiso.
+En estructuras para las que el factor de comportamiento sísmico Q especificado en el artículo 1000 sea igual a 3 ó mayor, en ningún entrepiso la excentricidad torsional calculada estáticamente deberá exceder de 0.2b. Para estas estructuras deberá tomarse en cuenta que el efecto de la torsión se puede incrementar cuando algunos de sus elementos resistentes que contribuyan significativamente a la rigidez total de entrepiso entren en el intervalo no lineal o fallen. A fin de disminuir este efecto, las resistencias de los elementos que toman la fuerza cortante de entrepiso deben ser sensiblemente proporcionales a sus rigideces y dichos elementos deben ser de la misma índole, es decir, que si en un lado la rigidez y resistencia son suministradas predominantemente por columnas, en el lado opuesto también deben serlo predominantemente por columnas, o si de un lado por muros de concreto, en el opuesto también por muros de concreto, etc.
 
-Para fines de diseño, el momento torsionante se tomará por lo menos igual a la fuerza cortante de entrepiso multiplicada por la excentricidad que para marco o muro resulte más favorable de las siguientes: 1.5e, 0.1b ó e,- 0.1b, en que b es la dimensión de la planta que se considera medida en la dirección de e, calculando para los entrepisos que hallan a bajo del (sic) que se considera, ni tomará el momento de la (sic) torsionamiento de ese entrepiso menor que la mitad del máximo calculado para los efectos para los entrepisos que están del considerado.
+VII. Efectos de segundo orden.- Deberán tenerse en cuenta explícitamente en el análisis los efectos de segundo orden, esto es, los momentos y cortantes adicionales provocados por las cargas verticales actuando en la estructura desplazada lateralmente, en toda estructura en que la diferencia en desplazamientos laterales entre dos niveles consecutivos, dividida entre la diferencia de alturas correspondientes, exceda de 0.08 V/W', siendo V la fuerza cortante en el entrepiso considerado y W', el peso de la estructura incluyendo cargas muertas y vivas que obra encima de éste, multiplicado por el factor de carga correspondiente.
 
-En estructuras para las que el factor de comportamiento sísmico Q especificado en el presente Capítulo sea igual a 3 ó mayor, en ningún entrepiso la excentricidad torsional calculada estáticamente deberá exceder de 0.2b. Para estas estructuras deberá tomarse en cuenta que el efecto de la torsión se puede incrementar cuando algunos de sus elementos resistentes que contribuyan significativamente a la rigidez total de entrepiso entre en el intervalo no lineal o fallen. A fin de disminuir este efecto, las resistencias de los elementos que toman la fuerza cortante de entrepiso deben ser sensiblemente proporcionales a sus rigideces y dichos elementos debe ser de la misma índole, es decir que si en un lado la rigidez y resistencia son suministradas predominantemente por columnas en el lado opuesto también deben serlo predominantemente por columnas, o si de un lado por muros de concreto en el opuesto también por muros de concreto, etc.
+VIII. Efectos Tridireccionales.- Las estructuras se analizarán ante la acción de dos componentes horizontales ortogonales del movimiento del terreno. Para el diseño de voladizos, vigas y losas de gran claro, columnas y muros de rigidez y los cimientos respectivos, adicionalmente se considera la acción del componente vertical que se tomará como 2/3 del mayor horizontal.
 
-VII. Efectos de segundo orden.
+Los efectos correspondientes, tales como desplazamientos y elementos mecánicos, se combinarán sumando vectorialmente los gravitacionales, los del componente del movimiento del terreno paralelo a la dirección de análisis y 0.3 ó 0.5 de los efectos de los otros componentes, con los signos que para cada efecto sísmico resulten más desfavorable; el primero de estos valores corresponde a edificios y el segundo a péndulos invertidos, tanques y chimeneas.
 
-Deberá tenerse en cuenta explícitamente en el análisis los efectos de segundo orden, esto es, los momentos y cortantes adicionales provocados por las cargas verticales actuando en la estructura desplazada lateralmente, en toda estructura en que la diferencia en desplazamiento laterales entre dos niveles consecutivos, dividida entre la diferencia de alturas correspondientes, exceda de 0.08 V/W, siendo V la fuerza cortante en el entrepiso considerando y W, el peso de la estructura incluyendo cargas muertas y vivas que obra encima de éste, multiplicando por el factor de carga correspondiente.
+IX. Revisión de estados límite.- Se verificará que la estructura no alcance ninguno de los estados límite de servicio o de falla siguientes:
 
-VIII. Efectos Tridireccionales
+1. Desplazamientos horizontales: Las diferencias entre los desplazamientos laterales de pisos consecutivos debidos a las fuerzas cortantes horizontales, calculadas con alguno de los métodos de análisis sísmico que se describen en estas normas, no excederán a 0.006 veces la diferencia de elevaciones correspondientes, salvo que los elementos incapaces de soportar deformaciones apreciables, como los muros de mampostería, estén separados de la estructura principal de manera que no sufran daños por las deformaciones de ésta. En tal caso, el límite en cuestión será de 0.012.
 
-Las estructuras se analizarán ante la acción de dos componentes horizontales ortogonales del movimiento del terreno. Para el diseño de voladizos, vigas y losas de gran claro, columnas y muros de rigidez y los cimientos respectivos, adicionalmente se considera la acción del componente vertical que se tomará como 2/3 del mayor horizontal.
+2. Rotura de vidrios: En fachadas, tanto interiores como exteriores, la colocación de los vidrios en los marcos, o la liga de éstos con la estructura, serán tales que las deformaciones de ésta no afecten a los vidrios. Para ello, se verificará que alrededor de cada tablero de vidrio o cada marco exista una holgura no menor que el desplazamiento relativo entre los extremos del tablero o marco, calculado a partir de la deformación por cortante de entrepiso y dividido entre 1 + H/B, donde B es la base del tablero o marco y H su altura.
 
-Los efectos correspondientes, tales como desplazamientos y elementos mecánicos, se combinará sumando vectorialmente los gravitacionales, lo del componente del movimiento del terreno paralelo a la dirección de análisis y 0.3 o 0.5 de los efectos de los otros componentes, con los signos que para cada efecto sísmico resulten más desfavorable; el primer de estos valores corresponde a edificios y el segundo a péndulos invertidos, tanques y chimeneas.
+3. Choques contra estructuras adyacentes: Toda construcción deberá separarse de sus linderos con los predios vecinos una distancia no menor de 5 cm. ni menor que el desplazamiento horizontal del nivel de que se trate. El desplazamiento horizontal se obtendrá como el calculado pero aumentado en 0.001, 0.003 ó 0.005 de la altura de dicho nivel sobre el desplante para los terrenos tipo I, II y III, respectivamente.
 
-IX. Revisión de estados límite
+La separación entre cuerpos de una misma estructura o entre estructuras adyacentes, será cuando menos igual a la suma de las que de acuerdo con las especificaciones corresponden a cada una.
 
-Se verificará que la estructura no alcance ningún (sic) de los estados límite de servicio o de falla siguiente:
+4. Falla de cimentación: Al revisar con respecto al estado límite de falla de la cimentación se tendrá en cuenta la fuerza de inercia horizontal que obra en el volumen de suelo que se halla bajo los cimientos y que potencialmente se desplazaría al fallar el suelo en cortante, estando dicho volumen sujeto a una aceleración horizontal igual a ao veces la aceleración de la gravedad, donde ao es el coeficiente de aceleración del terreno que se consigna en la tabla 1.
 
-1.Desplazamientos horizontales: Las diferencias entre los desplazamientos laterales de pisos consecutivos debidos (sic) a las fuerzas cortantes horizontales, calculando con alguno de los métodos de análisis sísmico que se describen en estas normas, no excederán a 0.06 veces la diferencia de elevaciones correspondientes, salvo que los elementos incapaces de soportar deformaciones apreciables, como los muros de mampostería, estén separados de la estructura principal de manera que no sufran daños por las deformaciones de ésta. En tal caso, limite en cuestión será de 0.012.
+X. Comportamiento asimétrico.- En el diseño de estructuras cuyas relaciones fuerza-deformación difieran en sentidos opuestos se dividirán los factores de reducción de resistencia correspondientes entre 1 + 2.5d Q, en que d es la diferencia en los valores de a/Q', expresados como fracción de la aceleración de la gravedad, que causarían la falla o fluencia plástica de la construcción en uno y otro sentido.
 
-El cálculo de deformaciones laterales podrá omitirse cuando se aplique el método simplificado de análisis sísmico.
-
-2. Rotura de vidrios: en fachadas, tanto interior como exteriores, la colocación de los vidrios en los marcos, o la liga de éstos con la estructura, será tales que las deformaciones de ésta no afecten a los vidrios en los marcos, o la liga de éstos con la estructura, serán tales que las deformaciones de ésta no afecten a los vidrios. Para ello, se verificará que alrededor de cada tablero de vidrios o cada excita (sic) una holgura no menor que el desplazamiento relativo entre los extremos del tablero o marco, calculando a partir de la deformación por cortante de entrepiso y dividendo entre 1+ H/B, donde B es la base de tablero o marco y H su altura.
-
-3. Choques contra estructuras adyacentes: Toda construcción deberá separarse de sus linderos con los perdidos (sic) vecinos una distancia no menor de 5 cm. ni menor que el desplazamiento horizontal del nivel de que se trate. El o desplazamiento horizontal se obtendrá como el calculado pero aumentando en 0.001, 0.003 ó 0.005 de la altura de dicho nivel sobre el desplazamiento para los terrenos tipo I, II, III, respectivamente.
-
-Si se emplea el método simplificado de análisis sísmico, la separación mencionada no será, en ningún nivel, menor de 5 cm. ni menor de la altura del nivel sobre el desplazamiento multiplicada por 0.007, 0.009 ó 0.011 para los terrenos tipo I, II ó III, respectivamente.
-
-La separación entre cuerpos de una misma estructura o entre estructuras adyacentes, será cuando menos igual a la suma de las de (sic) acuerdo con las especificaciones corresponden a cada una.
-
-4. Falta de cimentación: Al revisar con respecto al estado límite de falla de la cimentación se tendrá en cuenta la fuerza de inercia horizontal que obra en el volumen de suelo que se halla bajo los cimientos y que potencialmente se desplazaría al fallar el suelo en cortante, estando dicho volumen sujeto a una aceleración horizontal igual a ao veces la aceleración de la gravedad, donde ao es el coeficiente de aceleración del terreno que se consigna en la tabla 1.
-
-X. Comportamiento asimétrico
-
-En el diseño de estructuras cuyas relaciones fuerza deformación difiera en sentido opuesto se dividirá los factores de resistencia correspondiente entre 1+2 5d Q, en que d es la diferencia en los valores de a/Q; expresados como fracción de la aceleración de la gravedad, que causarían la falla o fluencia plástica de la construcción en uno y otro sentido.
-
-> <small>N. DE E. VEASE FORMULAS EN P.O. DE 31 DE DICIEMBRE DE 2004, PAGINAS 220 A 221.</small>
+> <small>N. DE E. VÉASE FÓRMULAS EN P.O. DE 31 DE DICIEMBRE DE 2004, PÁGINAS 220 A 221.</small>
 
 ###### Artículo 1004.
 
@@ -14581,7 +15129,9 @@ Se aceptarán como métodos de análisis dinámico el análisis modal y el cálc
 
 Análisis modal
 
-Cuando en el análisis modal se desprecie el acoplamiento entre los grados de libertad de traslación horizontal y de rotación con respecto a un eje vertical, deberá incluirse el efecto de todos los modos naturales de vibración con periodo mayor o igual a 0.4s, pero en ningún caso podrán considerarse menos que los tres primeros modos de vibrar en cada dirección de análisis; excepto para estructuras con menos de tres niveles. Efecto torsión de las excentricidades estática y accidental podrá calcularse se específica en el presente articulo.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+Cuando en el análisis modal se desprecie el acoplamiento entre los grados de libertad de traslación horizontal y de rotación con respecto a un eje vertical, deberá incluirse el efecto de todos los modos naturales de vibración con periodo mayor o igual a 0.4s, pero en ningún caso, podrán considerarse menos que los tres primeros modos de vibrar en cada dirección de análisis, excepto para estructuras con menos de tres niveles. El efecto torsional de las excentricidades estáticas y accidentales podrá calcularse como se específica en el artículo 1003 fracción VI.
 
 En cambio, si en el análisis modal se reconoce explícitamente el acoplamiento mencionado, deberá incluirse el efecto de todos los modos naturales ordenados según valores decrecientes de sus periodos de vibración, que sean necesarios para que la suma de las masas efectivamente en cada dirección de análisis sea mayor o igual a 90 % de la masa total. Las masas modales efectivamente están dadas por las siguientes expresiones:
 
@@ -14623,133 +15173,63 @@ Efectos Tridireccionales
 
 Cualquiera que sea el método dinámico de análisis que se emplee, los efectos de movimientos horizontales y verticales del terreno en direcciones ortogonales se combinarán como especifica en relación con el método estadístico de análisis sísmico. Igualmente aplicables son las demás disposiciones relativas al cálculo de fuerzas internas y desplazamiento laterales señaladas en el presente Capítulo, con las salvedades que señala el presente artículo.
 
-> <small>N. DE E. VEASE FORMULAS EN P.O. DE 31 DE DICIEMBRE DE 2004, PAGINAS 221 A 224.</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1005.
 
-INTERACIÓN (sic) SUELO ESTRUCTURA: En el diseño sísmico de construcciones ubicadas en terreno tipo II ó III se admitirá tener en cuenta los efectos de interacción suelo-estructura. Cuando así se procede, se aplicará los métodos estáticos y dinámicos de análisis sísmico estipulados en el presente Capítulo, respectivamente, junto con las disposiciones del presente artículo.
+INTERACIÓN (SIC) SUELO ESTRUCTURA: En el diseño sísmico de construcciones ubicadas en terreno tipo II ó III se admitirá tener en cuenta los efectos de interacción suelo-estructura. Cuando así se proceda, se aplicarán los métodos estáticos y dinámicos de análisis sísmico estipulados en los artículos 1003 y 1004, respectivamente, junto con las disposiciones del presente artículo.
 
 Sólo se justificará tomar en cuenta los efectos de interacción cuando se cumpla la condición.
 
-BsTe/He<20
-
-bs = Velocidad media de ondas de cortante en el sitio
-
-Tc = Periodo fundamental de estructura supuesta con base indeformable.
-
-Hc = Altura efectiva de la estructura la cual se tomará como 0.7 de su altura total, excepto para estructuras en que su peso está concentrado en un nivel donde se tomará igual a la altura de ese nivel.
-
-Cuando se conozca el modo fundamental de vibración de la estructura, la altura efectiva de está se podrá calcular como
-
-He = (W¡X¡h¡/(¡W¡X¡)
-
-Donde:
-
-W i = Peso del nivel i
-
-X i = Amplitud del desplazamiento modal en nivel i
-
-hi = Altura del nivel i sobre el desplante.
+> <small>N. DE E. VÉASE FÓRMULAS EN EL P.O. DE 4 DE JUNIO DE 2012, SEGUNDA SECCIÓN, PÁGINA 49.</small>
 
 I. Análisis estático
 
-Si se opta por el análisis estático, cortante basal de la estructura con base flexible se calculará mediante
+Si se opta por el análisis estático, el cortante basal de la estructura con base flexible se calculará mediante:
 
-V = a/Qw-(a/Q - a/Q)We
-
-Donde:
-
-W = Peso del nivel i
-
-W e = Peso efectivo de la estructura el cual se tomará como 0.7 W, excepto para estructuras en que su peso está concentrado en un solo nivel donde se tomará igual a W.
-
-Ordenada especial para la estructura con base rígida, se calcula según las ecs. 3-5 haciendo T=Te
-
-ã = Ordenada espectral para la estructura con base flexible, que se calcula según las ecs. 3-5 remplazando a c por xc y haciendo T =
-
-Q' = Factor reductito para el periodo fundamental de la estructura con base rígida
-
-= Factor reductito para el periodo efectivo de la estructura con base flexible
-
-El factor x se determina conforme a la ec. haciendo x =, donde es el amortiguamiento efecto de la estructura con base flexible. En la fracción III de este artículo se indica la forma de calcular el periodo y amortiguamiento efectivos del sistema suelo-estructura.
-
-Cualquier respuestas estructural calculada para condición de base rígida se, multiplicará por el efecto a fin de obtener la respuestas modificación por efectos de interacción; V es el cortante basal sin interacción que se obtiene aplicando las disposiciones del, presente Capítulo. Este factor en ningún caso se tomará menor que 0.8 asimismo, el valor calculo para el amortiguamiento efectivo en ninguna situación se determina mediante.
-
-Los desplazamientos laterales modificados por efectos de interacción se determinará mediante
-
-X¡ = V/V(x¡ + (h¡ + D)Mo/Kr)
-
-Donde:
-
-M o = Momento de volteo en la base de la cimentación para la estructura supuesta con base indeformable.
-
-X i = Desplazamiento lateral del nivel i de la estructura con base rígida.
-
-hi = Altura del nivel i sobre el desplante
-
-D = Profundidad de desplante de la cimentación. K r K r
-
-Kr = Rigidez en rotación de la cimentación, que se calcula según la fracción III de este artículo.
-
-Estos desplazamiento (sic) deberán ser empleados en el cálculo de los efectos de segundo orden y la revisión del estado límite por choques contra estructuras adyacentes.
+> <small>N. DE E. VÉASE FÓRMULAS EN EL P.O. DE 4 DE JUNIO DE 2012, SEGUNDA SECCIÓN, PÁGINAS 49 A 50.</small>
 
 II. Análisis dinámico
 
 Si se recurre al análisis dinámico modal, el cortante basal de la estructura con base flexible correspondiente al modo fundamental se calculará mediante.
 
-V¡ = a/Q We
-
-Donde:
-
-We = (¡W¡X¡2/¡W¡X2¡)
-
-es el peso modal efectivo de la estructura Wi el peso del nivel i y Xi la amplitud del desplazamiento modal en el nivel i.
-
-Los efectos de interacción se tendrán en cuenta sólo en el modo fundamental; la contribución de los modos superiores se determinará como en el caso de estructuras sin interacción. Para considerar estos efectos cualquier respuesta estructural calculada para la condición de base rígida se multiplicará por el efecto, donde es el cortante basal sin interacción en el modo fundamental que se obtiene aplicando las disposiciones del artículo 1004. Este factor en ningún caso se tomará menor que 0.8. Asimismo, el valor calculado para el amortiguamiento efectivo en ninguna situación se tomará menor que 0.05. Los desplazamientos laterales modificados por efectos de interacción se calcularán como se especifica en relación con el análisis estático. Las respuestas modales se combinarán con los mismos criterios que se especifican para estructuras con base indeformable a fin de obtener la respuesta total.
+> <small>N. DE E. VÉASE FÓRMULAS EN EL P.O. DE 4 DE JUNIO DE 2012, SEGUNDA SECCIÓN, PÁGINAS 50 A 51.</small>
 
 III. Periodo y amortiguamiento efectivos
 
 El periodo efectivo del sistema suelo-estructura se determinará de acuerdo con la expresión.
 
-Te = (Te2+T2h+T2r)1/2
+> <small>N. DE E. VÉASE FÓRMULAS EN EL P.O. DE 4 DE JUNIO DE 2012, SEGUNDA SECCIÓN, PÁGINA 51.</small>
 
-Donde Te es el periodo fundamental de la estructura supuesta con base indeformable, es tanto que
+Son los periodos naturales que tendría la estructura si fuera infinitamente rígida y su base sólo pudiera trasladarse o girar, respectivamente. Los parámetros Kh y Kr, representan las rigideces de la cimentación; Kh es la rigidez lateral definida como la fuerza horizontal necesaria para producir un desplazamiento unitario en la dirección de dicha fuerza, mientras que kr, es la rigidez de rotación definida como el momento necesario para producir una rotación unitaria en la dirección de dicho momento. Los valores de estos resortes elásticos pueden obtenerse utilizando las expresiones y tablas que se presentan en las recomendaciones del MDS.
 
-Th = 2g(WeKh)1/2
+> <small>N. DE E. VÉASE FÓRMULAS EN EL P.O. DE 4 DE JUNIO DE 2012, SEGUNDA SECCIÓN, PÁGINA 51.</small>
 
-Tr = 2ng(We(He+D2/Kr)1/2
+son los coeficientes de amortiguamiento del suelo en los modos de traslación y rotación, respectivamente. Los parámetros Ch y Cr representan los amortiguamientos en traslación y rotación, respectivamente. Los valores de estos amortiguamientos viscosos pueden obtenerse utilizando las expresiones y tablas que se presentan en las recomendaciones del MDS.
 
-Son los periodos naturales que tendría la estructura si fuera infinitamente rígida y su base sólo pudiera trasladarse o girar, respectivamente. Los parámetros Kh y K representante (sic) las (sic) rigidez de la cimentación; Kh es la rigidez lateral definida como la fuerza horizontal es necesaria para producir un desplazamiento unitario en la dirección de dicha fuerza, mientras que kr, es la rigidez de rotación definida como el necesario para producir una rotación unitaria en la dirección de dicho momento. Los valores de estos resortes elásticos pueden obtenerse utilizando las expresiones y tablas que se presentan en las recomendaciones del MDS.
-
-El amortiguamiento efectivo xe del sistema suelo-estructura se calculará según la expresión
-
-e = e(Te/Te)3+h/1+2h2(Th/Te)2+r/1+2r2(Tr/Te)2
-
-Donde xe es la fracción de amortiguación crítico de la estructura supuesta con base indeformable, en tanto que
-
-h = Ch/TeKh
-
-r = Cr/TeKr
-
-Son los coeficientes de amortiguamiento del suelo en los modos de trasladación y rotación, respectivamente. Los parámetros Ch y Cr representan los amortiguamientos en traslación t rotación, respectivamente. Los valores de estos amortiguadores viscosos puede obtenerse utilizando las expresiones y tablas que se presentan en las recomendaciones de MDS.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1006.
 
-OTRAS CONSTRUCCIONES NUEVAS: Estas normas sólo aplicables en su integridad a edificios. Tratándose de otras estructuras se aplicarán métodos de análisis apropiados al tipo de estructura en cuestión, siguiendo los criterios establecidos en el MDS, siempre que tales métodos respeten las disposiciones del presente artículo, sean congruentes con este cuerpo normativo y reciban la aprobación del Ayuntamiento.
+OTRAS CONSTRUCCIONES NUEVAS: Estas normas sólo son aplicables en su integridad a edificios. Tratándose de otras estructuras se aplicarán métodos de análisis apropiados al tipo de estructura en cuestión, siguiendo los criterios establecidos en el MDS, siempre que tales métodos respeten las disposiciones del presente artículo, sean congruentes con este cuerpo normativo y reciban la aprobación de la Dirección.
 
 I. Tanques y chimeneas
 
-En diseño de tanques y chimeneas las fuerzas internas debidas al movimiento del terreno en cada una de las direcciones en que se analice se combinarán como se especifica en la fracción VIII del artículo 1003 del presente Capítulo. En diseño de tanques deberán tenerse en cuenta las presiones hidrostática e hidrodinámica del líquido almacenado así como los momentos que obren en el fondo del recipiente.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+En el diseño de tanques y chimeneas las fuerzas internas debidas al movimiento del terreno en cada una de las direcciones en que se analice se combinarán como se especifica en la fracción VIII del artículo 1003. En el diseño de tanques deberán tenerse en cuenta las presiones hidrostáticas e hidrodinámicas del líquido almacenado, así como los momentos que obren en el fondo del recipiente.
 
 II. Muros de retención
 
 Los empujes que ejercen los rellenos sobre los muros de contención, debidos a la acción, de los sismos, se valuarán suponiendo que el muro y la zona de relleno por encima de la superficie crítica de deslizamiento se encuentran en equilibrio límite bajo la acción de las fuerzas debidas a carga vertical y a una aceleración horizontal igual a c/3 veces la gravedad, donde c es el coeficiente sísmico que se consigna en la tabla I.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 1007.
 
-ESTRUCTURAS EXISTENTES: En la revisión de la seguridad de un edificio existente se adoptará el valor del factor de comportamiento sísmico Q que, en los términos de lo señalado en el presente Capítulo, corresponda al caso cuyos requisitos sean esencialmente satisfechos por la estructura, a menos que se justifique a satisfacción del Ayuntamiento la adopción de un valor mayor que éste.
+ESTRUCTURAS EXISTENTES: En la revisión de la seguridad de un edificio existente se adoptará el valor del factor de comportamiento sísmico Q que, en los términos de lo señalado en el artículo 1000, corresponda al caso cuyos requisitos sean esencialmente satisfechos por la estructura, a menos que se justifique a satisfacción de la Dirección la adopción de un valor mayor que éste.
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ###### Artículo 1008.
 
@@ -14759,13 +15239,17 @@ TANQUES: En el diseño de tanques deberán tomarse en cuenta las presiones hidro
 
 MUROS DE RETENCIÓN: Los empujes que ejercen los rellenos sobre los muros de retención debidos a la acción de los sismos, se valoraran suponiendo que el muro y la zona de relleno por encima de la superficie critica de deslizamiento se encuentran en equilibrio limite bajo la acción de las fuerzas debidas a la carga vertical.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 1010.
 
-OTRAS ESTRUCTURAS.- El análisis y diseño de las estructuras que no puedan clasificarse en alguno de los tipos descritos, se hará de manera congruente con lo que marque este Capítulo.
+OTRAS ESTRUCTURAS: El análisis y diseño de las estructuras que no puedan clasificarse en alguno de los tipos descritos, se hará de manera congruente con lo que marque este Código.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1011.
 
-ESTRUCTURAS DAÑADAS.- Cuando a raíz de un sismo una construcción sufra daños en sus elementos, sean o no estructurales deberá presentarse un proyecto de reparación o de refuerzo al H. Ayuntamiento, el que podrá determinar sobre las disposiciones y criterios que deban aplicarse.
+ESTRUCTURAS DAÑADAS: Cuando a raíz de un sismo una construcción sufra daños en sus elementos, sean o no estructurales deberá presentarse un proyecto de reparación o de refuerzo a las unidades administrativas correspondientes, el que podrá determinar sobre las disposiciones y criterios que deban aplicarse.
 
 DISEÑO POR VIENTO
 
@@ -14773,15 +15257,23 @@ DISEÑO POR VIENTO
 
 GENERALIDADES: Las construcciones se analizarán suponiendo que el viento pueda actuar por lo menos en dos direcciones horizontales perpendiculares entre sí.
 
-Los factores de carga para diseño por vientos, serán los que se especifican para las acciones accidentales en el artículo 1015.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-Para verificar la estabilidad general de las construcciones en cuanto a volteamiento, se analizará esta posibilidad suprimiendo las cargas vivas que contribuyan a disminuir el efecto. Para estos fines el factor de carga se tomará igual a 1.4.
+Los factores de carga para diseño por viento, serán los que se especifican para estas acciones accidentales en el artículo 984.
 
-Deberá estudiarse el efecto local de presiones interiores. En todos los casos se revisará la estabilidad de la cubierta o de sus anclajes. Serán aplicables los criterios generales de análisis que señala el Capítulo.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+Para verificar la estabilidad general de las construcciones en cuanto a volteo, se analizará esta posibilidad suprimiendo las cargas vivas que contribuyan a disminuir el efecto. Para estos fines, el factor de carga se tomará igual a 1.4.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+Deberá estudiarse el efecto local de presiones interiores. En todos los casos se revisará la estabilidad de la cubierta o de sus anclajes. Serán aplicables los criterios generales de análisis que señala este Código.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1013.
 
-CLASIFICACIÓN DE LAS ESTRUCTURAS DE ACUERDO CON SU USO: Las construcciones se clasificarán igual que para efectos de diseño sísmico según el presente Capítulo.
+CLASIFICACIÓN DE LAS ESTRUCTURAS DE ACUERDO CON SU USO: Las construcciones se clasificarán igual que para efectos de diseño sísmico según este Código.
 
 De acuerdo con la naturaleza de los principales efectos que el viento puede ocasionar en las estructuras, éstas se clasificarán en cuatro tipos:
 
@@ -14789,13 +15281,17 @@ TIPO 1: Comprende las estructuras poco sensibles a las ráfagas y los efectos di
 
 a). Edificios de habitación u oficinas, con altura menor de 60 m o período natural menor de 2s.
 
-b). Todas las construcciones cerradas, techadas con sistemas de arcos, trabes, armaduras, losas, cascarones y otros sistemas de cubierta rígida, es decir que sean capaces de tomar las cargas debidas a viento sin que varíe esencialmente su geometría.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-Se excluyen las cubiertas flexibles, como las de tipo colgante, a menos que por la adopción de una geometría adecuada, la aplicación de pre-esfuerzo u otra medida, se logre limitar la respuesta estructural dinámica.
+b) Todas las construcciones cerradas, techadas con sistemas de arcos, trabes, armaduras, losas, cascarones y otros sistemas de cubierta rígida que sean capaces de tomar las cargas debidas a viento sin que varíe esencialmente su geometría.
+
+Se excluyen las cubiertas flexibles, como las de tipo colgante, a menos que por la adopción de una geometría adecuada, la aplicación de preesfuerzo u otra medida, se logre limitar la respuesta estructural dinámica.
 
 TIPO 2: Comprende las estructuras cuya esbeltez o dimensiones reducidas en su sección transversal las hace especialmente sensibles a las ráfagas de corta duración, y cuyos periodos naturales largos favorecen la ocurrencia de oscilaciones importantes.
 
-Se cuentan en este tipo, los edificios para habitación u oficinas con esbeltez, definida como la relación entre la altura y la mínima dimensión en plata, mayor de 5, o con periodo fundamental mayor de 2 o con altura mayor de 60 m.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+Se cuentan en este tipo, los edificios con esbeltez, definida como la relación entre la altura y la mínima dimensión en planta, mayor de 5, o con periodo fundamental mayor de 2 s con altura mayor de 60 m.
 
 Se incluyen también las torres atirantadas o en voladizos para líneas en transmisión, antenas, tanques elevados, parapetos, anuncios y en general, las estructuras que presenten una dimensión muy corta paralela a la dirección del viento. Se excluirá de este tipo las estructuras que explícitamente se mencionan como pertenecientes a los tipos 3 y 4.
 
@@ -14821,7 +15317,9 @@ Para el diseño de las estructuras Tipo 2, deberán incluirse los efectos estát
 
 Las estructuras tipo 3, deberán diseñarse de acuerdo con los criterios especificados para las de tipo 2, pero además deberá revisarse su capacidad para resistir los efectos dinámicos, de los vórtices alternantes.
 
-Para estructuras de tipo 4, los efectos del viento deberán valuarse de acuerdo con un procedimiento de análisis que tome en cuenta las características de turbulencia y sus efectos dinámicos, pero en ningún caso serán menores que los especificados para el tipo 1, los problemas de inestablidad (sic) aeroelástica ameritarán estudios especiales que deberán ser aprobados por el Ayuntamiento.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+Para estructuras de tipo 4, los efectos del viento deberán valorarse de acuerdo con un procedimiento de análisis que tome en cuenta las características de turbulencia y sus efectos dinámicos, pero en ningún caso serán menores que los especificados para el tipo 1, los problemas de inestabilidad aéreo elástica ameritarán estudios especiales que deberán ser aprobados por la Dirección.
 
 ###### Artículo 1015.
 
@@ -14841,11 +15339,15 @@ Cuando c, sea positivo, se tratará de empuje; cuando sea negativo, se tratará 
 
 En el presente Capítulo se definen valores de c, aplicables a algunas de las construcciones más usuales. Si se adoptan varios valores de c, deberán justificarse con base en resultados analíticos o experimentales sobre distribución de presiones de viento.
 
-Se considerará que la fuerza resultante de la acción del viento actúa excéntricamente con respecto al centroide del área expuesta. Se supondrá en dirección horizontal una excentricidad accidental de + (0.3 L²/8 H + 0.05 L) para relaciones L/H menores de 2, y de + L/8 para relaciones mayores, siendo H y L la altura y la base del área expuesta, respectivamente. En dirección vertical se tomará una excentricidad accidental de + 0.05 H. Deberá tomarse el signo de excentricidad que provoque la condición más desfavorable para el diseño de cada miembro, los efectos de las excentricidades deberán considerarse simultáneamente.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+Se considerará que la fuerza resultante de la acción del viento actúa excéntricamente con respecto al centroide del área expuesta. Se supondrá en dirección horizontal una excentricidad accidental de + (0.3 L²/8 H + 0.05 L) para relaciones L/H menores de 2, y de + L/8 para relaciones mayores, siendo H y L la altura y la base del área expuesta, respectivamente. En dirección vertical se tomará una excentricidad accidental de + 0.05 H. Deberá tomarse el signo de la excentricidad que provoque la condición más desfavorable para el diseño de cada miembro, los efectos de las excentricidades deberán considerarse simultáneamente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1016.
 
-VELOCIDADES DE DISEÑO: La velocidad del viento para el diseño será proporcional a la raíz cúbica de la altura sobre el terreno. Para las construcciones del grupo B, según la clasificación del artículo 995, la velocidad de 10 m de altura no se tomará menor de 85 km/h.
+VELOCIDADES DE DISEÑO: La velocidad del viento para el diseño será proporcional a la raíz cúbica de la altura sobre el terreno. Para las construcciones del Grupo B, según la clasificación del artículo 995, la velocidad a 10 m. de altura no se tomará menor de 85 km/h.
 
 Para edificios del grupo B en promontorios, se supondrá una velocidad mínima de 110 km/h, a una altura de 10 m sobre la cima del promotorio.
 
@@ -14869,31 +15371,41 @@ IV. En techos de dientes de sierra, la totalidad del área del primer diente, y 
 
 COEFICIENTES DE EMPUJE: Se aplicarán los siguientes coeficientes de empuje c:
 
-I. EN MUROS RECTANGULARES VERTICALES: Cuando el viento actúe normalmente a la superficie expuesta, se tomará c=0.75 del lado de barlovento y -0.68 del sotavento. La estabilidad de los muros aislados, tales como bardas, se analizará con la suma de los efectos de presión y succión, es decir, c= 1.43;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
-II. EN EDIFICIOS CON PLANTA Y ELEVACION RECTANGULARES: Se usarán para los muros normales a la acción del viento los valores de c que señala el párrafo anterior. En los muros paralelos a la acción del viento, así como en el techo, si este es horizontal, se distinguirán tres zonas: en la primera, que se extiende desde la arista del barlovento hasta una distancia igual a 1/3 de la altura de la construcción, c = -1.75. En la segunda, que abarca hasta una y media veces de la altura de la construcción medida desde la arista, c = -1.00; y en el resto, c= -0.040. La misma especificación regirá en cubiertas con generatrices y aristas paralelas a la acción el viento (techos inclinados o cilíndricos);
+I. EN MUROS RECTANGULARES VERTICALES: Cuando el viento actúe normalmente a la superficie expuesta, se tomará c=0.75 de lado de barlovento y -0.68 del sotavento. La estabilidad de los muros aislados, tales como bardas, se analizará con la suma de los efectos de presión y succión, es decir, c= 1.43.
 
-En estos casos se considerará como altura de la construcción la de su punto más alto.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+II. EN EDIFICIOS CON PLANTA Y ELEVACIÓN RECTANGULARES: Se usarán para los muros normales a la acción del viento los valores de c que señala el párrafo anterior. En los muros paralelos a la acción del viento, así como en el techo, si este es horizontal, se distinguirán tres zonas: en la primera, que se extiende desde la arista de barlovento hasta una distancia igual a 1/3 de la altura de la construcción, c = -1.75. En la segunda, que abarca hasta una y media veces de la altura de la construcción medida desde la arista, c = -1.00; y en el resto, c= -0.40. La misma especificación regirá en cubiertas con generatrices y aristas paralelas a la acción del viento (techos inclinados o cilíndricos). En estos casos se considerará como altura de la construcción la de su punto más alto.
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
 III. EN CUBIERTAS DE ARCO CIRCULAR: Para viento que actúe normalmente a las generatrices de las cubiertas, se distinguirán en tres zonas: La zona barlovento que se extiende hasta el punto en que la tangente al arco forma un ángulo de 45 grados respecto a la horizontal; la zona central, entre los puntos en que las tangentes forman ángulos de 45 grados y 135 grados respecto a la horizontal, y a la zona de sotavento a partir del límite de la zona central. Los coeficientes de empuje para esta condición serán los siguientes:
 
-a). Si la relación de la flecha de la cubierta a la altura de la construcción es menor de 0.3:
+a) Si la relación de la flecha de la cubierta a la altura de la construcción es menor de 0.3:
 
-Zona de barlovento c = 0.4 D/B-1.75
+Zona de barlovento c = 4 D/B-1.75
 
-Zona central c = 0.5 D/B-1
+Zona central c = -0.5 D/B-1.0
 
 Zona de sotavento c = -0.55
 
-b). Si la relación de flecha de la cubierta a la altura de la estructuración comprendidas entre 0.3 y 1 se interpolará linealmente.
+b) Si la relación de flecha de la cubierta a la altura de la construcción es igual a 1:
 
-Cuando el viento actúe paralelamente a las generatrices se supondrán las zonas y las presiones establecidas para las cubiertas horizontales. Para estos fines se tomará como altura de la construcción la de su punto más alto;
+Zona de barlovento c = 0.8 D/B
+
+Zona central c = 0.5 D/B
+
+Zona de sotavento c = -0.55 D/B
+
+c) Para relaciones de flecha de la cubierta a altura de la construcción comprendidas entre 0.3 y 1 se interpolará linealmente.
 
 IV. EN CUBIERTAS DE DOS AGUAS: Para viento con acción normal a las generatrices, se considerarán en las superficies de barlovento tres zonas iguales a las descritas para las cubiertas horizontales. Para estos fines se tomará como altura de construcción la de su punto más alto.
 
 Se emplearán los coeficientes de empuje especificados en la tabla siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 q = inclinación de la cubierta del lado de barlovento en grados
 
@@ -14901,31 +15413,41 @@ H = altura máxima de la construcción incluyendo la cubierta
 
 D = flecha de la cubierta
 
-Para valores de D/H comprendidos entre 0.3 y 1.0 interpólese linealmente.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-Cuando el viento actúe paralelamente a las generatrices, se supondrá las zonas y presiones establecidas para cubiertas horizontales. Para éstos fines se tomará como altura de la construcción de su punto más alto.
+Para valores de C/H comprendidos entre 0.3 y 1.0 interpólese linealmente. Cuando el viento actúe paralelamente a las generatrices, se supondrán las zonas y presiones establecidas para cubiertas horizontales. Para estos fines se tomará como altura de la construcción la de su punto más alto.
 
-V. EN CUBIERTAS DE UNA AGUA: Cuando el viento esté actuando normalmente a las generatrices horizontales, y la cubierta esté orientada hacia el lado de barlovento, serán aplicables los coeficientes de la tabla para cubiertas de dos aguas. Si la cubierta está orientada hacia el lado de sotavento, y su inclinación excede de 15°, se tomará c= -0.68 si su inclinación es menor de 15°, para analizar los efectos de viento actuando paralelamente a las generatrices, se supondrán las zonas y presiones establecidas para cubiertas horizontales;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+V. EN CUBIERTAS DE UN AGUA: Cuando el viento esté actuando normalmente a las generatrices horizontales, y la cubierta esté orientada hacia el lado de barlovento, serán aplicables los coeficientes de la tabla para cubiertas de dos aguas. Si la cubierta está orientada hacia el lado de sotavento, y su inclinación excede de 15°, se tomará c= -0.68 si su inclinación es menor de 15°, para analizar los efectos de viento actuando paralelamente a las generatrices, se supondrán las zonas y presiones establecidas para cubiertas horizontales.
 
 VI. EN CUBIERTAS EN FORMA DE DIENTES DE SIERRA: Los efectos de viento perpendicular a las generatrices actuando sobre el primer diente, se calcularán como se especifica para las cubiertas de una agua.
 
 Sobre los demás se tomará c = -0.68. Los empujes horizontales se evaluarán respetando la definición de área expuesta del artículo anterior;
 
-VII. EN CHIMENEAS Y TORRES: El empuje en la dirección del viento se valuará suponiendo la presión actuando sobre el área expuesta, con los coeficientes de empuje de 0.7;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+VII. EN CHIMENEAS Y TORRES: El empuje en la dirección del viento se valuará suponiendo la presión actuando sobre el área expuesta, con un coeficiente de empuje de 0.7.
 
 VIII. EN TRABES Y ARMADURAS: En las trabes y armaduras aisladas se supondrá un coeficiente de empuje de 2.0, referido al área expuesta, pero podrán emplearse valores menores base en datos de pruebas de túnel de viento. Cuando alguna trabe o armadura se encuentre protegida del lado de barlovento por una o más de características semejantes, el coeficiente de empuje podrá reducirse hasta rx, siendo x la relación entre separación y peralte de las trabes o armaduras y r un coeficiente con valor de 0.10 para trabes de alma llena y 1.5 para armaduras.
 
 Para armaduras construidas con tubos de sección circular, el coeficiente de empuje se tomará igual a 0.7.
 
-Para el diseño de estructuras continuas sobre varios apoyos, deberá suponerse en cada elemento o sección crítica la más desfavorable que provenga de considerar independientemente en cada claro un empuje comprendido entre el 75 y el 100 por ciento del valor máximo especificado. El diseño local por viento de los miembros de estructuras trianguladas se efectuará empleando las velocidades de viento que correspondan a estructuras del Tipo 2. Se incluirán los empujes paralelos a la dirección del viento y los normales a ella, empleando coeficientes de empuje longitudinal y transversal congruentes con los obtenidos en el túnel de viento.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+Para el diseño de estructuras continuas sobre varios apoyos, deberá suponerse en cada elemento o sección crítica la condición más desfavorable que provenga de considerar independientemente en cada claro un empuje comprendido entre el 75 y el 100 por ciento del valor máximo especificado. El diseño local por viento de los miembros de estructuras trianguladas se efectuará empleando las velocidades de viento que correspondan a estructuras del Tipo 2. Se incluirán los empujes paralelos a la dirección del viento y los normales a ella, empleando coeficientes de empuje longitudinal y transversal congruentes con los obtenidos en el túnel de viento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1019.
 
-PRESIONES INTERIORES: Cuando el porcentaje n de aberturas de alguna de las paredes de la construcción en el nivel que se analiza, que sea mayor del 30 por ciento de la parte del área expuesta que corresponda a dicha planta, en adición a las presiones o succiones interiores calculadas según la ecuación (a), expresada en el artículo 1015 con los valores de c iguales respectivamente a 0.8 cuando la abertura se encuentre del lado de barlovento, y a -0.6 cuando se encuentre del lado de sotavento o en costado.
+PRESIONES INTERIORES: Cuando el porcentaje n de aberturas de alguna de las paredes de la construcción en el nivel que se analiza, sea mayor del 30 por ciento de la parte del área expuesta que corresponde a dicha planta, en adición a las presiones o succiones exteriores deberán considerarse, para el diseño local todos los elementos que limitan en cualquier dirección al nivel en cuestión, presiones o succiones interiores calculadas según la ecuación (a), expresada en el artículo 1015 con los valores de c iguales respectivamente a 0.8 cuando la abertura se encuentre del lado de barlovento, y a -0.6 cuando se encuentre del lado de sotavento o en costado.
 
 Para los valores de n menores de 30% se supondrán para el cálculo de las presiones interiores los valores de c más desfavorables entre los especificados a continuación:
 
-1). Si la abertura se encuentre del lado de barlovento
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+1). Si la abertura se encuentra del lado de barlovento
 
 c= 0.8 n/30 + 0.3 (1-n/30)
 
@@ -14937,9 +15459,11 @@ c= Coeficiente de empuje (adimensional)
 
 n= Relación de aberturas, en por ciento.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 1020.
 
-FACTOR DE RAFAGA: En las construcciones pertenecientes al Tipo 2, los efectos estáticos y dinámicos debido a la turbulencia, se tomarán en cuenta multiplicando la velocidad de diseño especificada en el artículo 1016 por un factor de ráfaga igual a 1.3.
+FACTOR DE RÁFAGA: En las construcciones pertenecientes al Tipo 2, los efectos estáticos y dinámicos debidos a la turbulencia, se tomarán en cuenta multiplicando la velocidad de diseño especificada en el artículo 1016 por un factor de ráfaga igual a 1.3.
 
 ###### Artículo 1021.
 
@@ -15015,13 +15539,17 @@ velocidad 16.7 m/s
 
 CIMENTACIONES
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 1022.
 
-CIMENTACIÓN: Para solicitar la licencia de construcción se deberá contar con el proyecto estructural de la edificación, el cual deberá contener el diseño de la cimentación, entendiéndose como tal elemento o elementos que constituyen en la sub-estructura incluyendo el terreno de cimentación sobre la que ésta se desplante.
+CIMENTACIÓN: Para solicitar la licencia de construcción se deberá contar con el proyecto estructural de la edificación, el cual deberá contener el diseño de la cimentación, entendiéndose como tal el elemento o elementos que constituyen la sub-estructura incluyendo el terreno de cimentación sobre la que ésta se desplante.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1023.
 
-CLASIFICACIÓN DE LAS PAVIMENTACIONES: Las cimentaciones podrán ser de dos tipos: Superficiales y profundas, correspondiendo las primeras aquellas cuya profundidad de desplante sea menor o igual a 2 veces el ancho de la cimentación y las segundas, aquellas en las cuales las cargas de la estructura a estratos más profundos que garanticen un apoyo adecuado.
+CLASIFICACIÓN DE LAS CIMENTACIONES: Las cimentaciones podrán ser de dos tipos: Superficiales y profundas, correspondiendo a las primeras, aquellas cuya profundidad de desplante sea menor o igual a 2 veces el ancho de la cimentación y las segundas, aquellas en las cuales las cargas de la estructura a estratos más profundos que garanticen un apoyo adecuado.
 
 Dentro de las cimentaciones superficiales se encuentran las siguientes:
 
@@ -15049,7 +15577,9 @@ DISEÑO DE LA CIMENTACIÓN: Toda cimentación se deberá diseñar desde el punto
 
 El diseño estructural deberá tomar en cuenta todos los factores relativos a servicio, estados límite, resistencia, cargas, etc., contenidos en este Capítulo.
 
-El diseño en lo referente a la mecánica de suelos deberá comprender dos aspectos importantes: capacidad de carga de subsuelo y asentamiento.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+El diseño en lo referente a la mecánica de suelos deberá comprender dos aspectos importantes: capacidad de carga del subsuelo y asentamiento.
 
 ###### Artículo 1025.
 
@@ -15057,35 +15587,35 @@ CAPACIDAD DE CARGA: En todos los casos los esfuerzos producidos por la estructur
 
 FS = 3 si en el análisis se utilizan sólo cargas permanentes.
 
-FS = 2 ó 2.5 en el análisis se toman en cuenta cargas permanentes y carga viva eventual.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-FS = 1.5 si en el análisis se utilizan cargas anteriores y además se consideran efectos de sismos.
+FS = 2 ó 2.5 si en el análisis se toman en cuenta cargas permanentes y carga viva eventual.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+FS = 1.5 si en el análisis se utilizan las cargas anteriores y además se consideran efectos de sismos.
 
 ###### Artículo 1026.
 
 ASENTAMIENTOS: Todos los hundimientos o expansiones que se presenten en la cimentación, deberán estar en el rango de valores que no afecten la funcionalidad de la estructura y en ningún caso deberán ser mayores que los considerados como tolerables en el proyecto estructural.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 1027.
 
-INVESTIGACIÓN DEL TERRENO: Las características y propiedades del subsuelo que se utilicen para el diseño de la cimentación se determinarán mediante los siguientes trabajos:
+INVESTIGACIÓN DEL TERRENO: Las características y propiedades del subsuelo que deben considerarse en el diseño de la cimentación se determinarán mediante los siguientes trabajos:
 
-a) Explotación
+I. Exploración: Los trabajos de exploración podrán realizarse mediante pozo a cielo abierto y sondeo, los cuales serán excavados hasta la profundidad necesaria según las características del terreno de cimentación y las cargas de la estructura.
 
-b) Muestreo
+II. Muestreo: Todos los sondeos se realizarán con la finalidad de determinar el perfil estratigráfico del subsuelo y obtener las muestras representativas alteradas e inalteradas de los estratos encontrados, las cuales se enviarán al laboratorio.
 
-c) Ensayes de laboratorio
+III. Ensayes de laboratorio: Los ensayes de laboratorio tendrán por finalidad determinar las propiedades de los estratos del subsuelo incluyendo:
 
-Explotación: Los trabajos de explotación podrán realizarse mediante pozo a cielo abierto y sondeo, los cuales serán excavados hasta la profundidad necesaria según las características del terreno de cimentación y las cargas de la estructura.
+a) Clasificación del suelo.
 
-Muestreo: Todos los sondeos se realizarán con la finalidad de determinar el perfil estrategráfico del subsuelo y obtener las muestras representativas alteradas e inalteradas de los estratos encontrados, las cuales se enviarán al laboratorio.
+b) Propiedades mecánicas, resistencia, compresibilidad.
 
-Ensayes de laboratorio: Los ensayes de laboratorio tendrán por finalidad determinar las propiedades del los estratos del subsuelo incluyendo:
-
-1. Clasificación del suelo
-
-2. Propiedades mecánicas, resistencia, compresibilidad
-
-3. Propiedades hidráulicas, permeabilidad.
+c) Propiedades hidráulicas, permeabilidad.
 
 ###### Artículo 1028.
 
@@ -15153,9 +15683,11 @@ La consideración explícita de la consolidación regional, será particularment
 
 En el análisis de los estados límite de falla se considerará la subpresión hidrostática si ésta es desfavorable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 1037.
 
-RESISTENCIAS: La seguridad de las cimentaciones contra los estado (sic) límite de falla se valuarán en término de las capacidades de carga netas.
+RESISTENCIAS: La seguridad de las cimentaciones contra los estados límite de faIla se valuarán en término de las capacidades de carga netas.
 
 La capacidad de carga de los suelos de cimentación se calcularán por métodos analíticos o empíricos suficientemente apoyados en evidencias experimentales o se harán en pruebas de carga. La capacidad de carga de la base de cualquier cimentación, se calculará a partir de la resistencia media del estrato más débil que gobierne el mecanismo de falla más probable. Además:
 
@@ -15167,13 +15699,17 @@ b). La capacidad de carga de una pila o zapata de geometría igual a la envolven
 
 c). La suma de las capacidades de carga de los diversos grupos de pilotes o pilas en que pueda subdividirse la cimentación;
 
-En los casos a) y c) será admisible tomar en cuanta (sic) la capacidad de carga del suelo en el contacto con la subestructura, cuando esto sea compatible con las condiciones de trabajo de la cimentación, y
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+En los casos a) y c) será admisible tomar en cuenta la capacidad de carga del suelo en el contacto con la subestructura, cuando esto sea compatible con las condiciones de trabajo de la cimentación.
 
 II. Cuando en el sitio o en su vecindad existan galerías, grietas, cavernas u otras oquedades, vacías o con rellenos sueltos, éstas deberán tratarse apropiadamente, o bien tomarse en cuenta en el análisis de estabilidad de la cimentación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 1038.
 
-FACTORES DE CARGA Y DESCARGA: Los factores de carga para el diseño de cimentación serán los que se indican en el artículo 1000.
+FACTORES DE CARGA Y DESCARGA: Los factores de carga para el diseño de cimentación serán los que se indican en el artículo 984.
 
 Los factores de reducción de la capacidad de carga del suelo de cimentación, serán los siguientes para todos los estados límite de falla:
 
@@ -15203,19 +15739,21 @@ En los análisis de estabilidad, se considerarán las acciones aplicables de est
 
 Los otros factores de carga serán los indicados en el artículo 999. El factor de resistencia será de 0.7, sin embargo, si la falla de los taludes, además o fondo de la excavación no implica daños a los servicios públicos a las instalaciones o a las construcciones adyacentes, el factor de resistencia podrá tomarse igual a 0.8.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 1041.
 
-BOMBEO: Podrán usarse pozos de bombeo para reducir las filtraciones de agua hacia las excavaciones y mejorar la estabilidad de las mismas siempre que, en subsuelos arcilloso (sic), el bombeo no se inicie antes de la excavación y, en cualquier caso, se tomen las precauciones necesarias para que sus efectos queden prácticamente circunscritos al área de trabajo.
+BOMBEO: Podrán usarse pozos de bombeo para reducir las filtraciones de agua hacia las excavaciones y mejorar la estabilidad de las mismas siempre que, en subsuelos arcillosos, el bombeo no se inicie antes de la excavación y, en cualquier caso, se tomen las precauciones necesarias para que sus efectos queden prácticamente circunscritos al área de trabajo.
 
-En la evaluación de los estados límite de servicio a considerar en el diseño de la excavación, se tomarán en cuenta los movimientos del terrenos (sic) debidos al bombeo.
+En la evaluación de los estados límite de servicio a considerar en el diseño de la excavación, se tomarán en cuenta los movimientos del terreno debidos al bombeo.
 
-Cuando existan capas arenosas subyacentes al fondo de la excavación, la ejecución de ésta deberá ser controlada mediante observaciones piezométricas, con objeto de evitar falla de fondo por subpresión.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1042.
 
-RELLENOS: Los rellenos no incluirán materiales degradables ni excesivamente compresibles y deberán compactarse de modo que sus cambios volumétricos por peso propio, por saturación y por las acciones externas a que estarán sometidos, no causen daños intolerables a las instalaciones o a las estructuras alojadas en ellos o colocadas sobre los mismo (sic). Se controlarán las condiciones de compactación de campo, a fin de cumplir las especificaciones de diseño.
+RELLENOS: Los rellenos no incluirán materiales degradables ni excesivamente compresibles y deberán compactarse de modo que sus cambios volumétricos por peso propio, por saturación y por las acciones externas a que estarán sometidos, no causen daños intolerables a las instalaciones o a las estructuras alojadas en ellos o colocadas sobre los mismos. Se controlarán las condiciones de compactación de campo, a fin de cumplir las especificaciones de diseño.
 
-Los rellenos que vayan a ser contenidos por muros, deberán colocarse por procedimiento que eviten el desarrollo de empujes superiores a los considerados en el diseño. En el cálculo de los empujes, se tomarán en cuenta las acciones aplicables de los apartados relativos a Acciones y Diseño Por Viento y cualesquiera otras que actúen sobre el relleno o la estructura de retención. Se prestará especial atención a la construcción de drenes, filtros, lloraderos y demás medidas tendientes a controlar los empujes de agua.
+Los rellenos que vayan a ser contenidos por muros, deberán colocarse por procedimientos que eviten el desarrollo de empujes superiores a los considerados en el diseño. En el cálculo de los empujes, se tomarán en cuenta las acciones aplicables de los apartados relativos a Acciones y Diseño Por Viento y cualesquiera otras que actúen sobre el relleno o la estructura de retención. Se prestará especial atención a la construcción de drenes, filtros, lIoraderos y demás medidas tendientes a controlar los empujes de agua.
 
 ###### Artículo 1043.
 
@@ -15225,7 +15763,9 @@ I. Los pilotes y sus conexiones, deberán poder resistir los esfuerzos resultant
 
 II. Se verificará la verticalidad de los tramos de pilotes y en su caso, la de las perforaciones previas, antes de proceder al hincado. La desviación de la vertical no deberá de ser mayor de 3/100 de la longitud del pilote para pilotes con capacidad de carga por punta superior a 30 t y de 6/100 para los otros, y
 
-III. Cuando se usen pilas con ampliación de base (campana), ésta deberá tener un espesor mínimo de 15 cm en su parte exterior y una inclinación mínima de 60° con horizontal en su frontera superior.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+III. Cuando se usen pilas con ampliación de base (campana), ésta deberá tener un espesor mínimo de 15 cm. en su parte exterior y una inclinación mínima de 60° con respecto a la horizontal en su frontera superior.
 
 ###### Artículo 1044.
 
@@ -15233,9 +15773,11 @@ MEMORIA DE DISEÑO: La memoria de diseño debe cumplir una justificación del ti
 
 En el caso de obras que se localicen en zonas en donde existan antiguas minas subterráneas, se agregará a la memoria una descripción detallada de la configuración de las cavidades localizadas y de la forma en que éstas fueron tratadas o tomadas en cuenta en el diseño.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 1045.
 
-NIVELACIONES: En las edificaciones con un peso unitario medio w mayor de 4 t/m2. y en los que el Ayuntamiento especifique, será obligatorio realizar nivelaciones cada mes durante los primeros seis mesas y cada seis meses durante un período mínimo de cinco años para verificar el comportamiento previsto de las cimentaciones y sus alteraciones, a menos que los valores calculados de los asentamientos humanos o emersiones diferidos sean menores de 5 cm. Se entregarán copias de los requisitos de estas nivelaciones al Ayuntamiento y conservará copia el Director Responsable de Obra.
+NIVELACIONES: En las edificaciones con un peso unitario medio w mayor de 4 t/m2 y en los que la Dirección especifique, será obligatorio realizar nivelaciones cada mes durante los primeros seis meses y cada seis meses durante un período mínimo de cinco años para verificar el comportamiento previsto de las cimentaciones y sus alteraciones, a menos que los valores calculados de los asentamientos o emersiones diferidos sean menores de 5 cm. Se entregarán copias de los requisitos de estas nivelaciones a la Dirección, y conservará copia el Perito Director Responsable de Obra.
 
 INSTALACIONES PARA AGUA POTABLE Y DRENAJE EN EDIFICIOS
 
@@ -15511,23 +16053,33 @@ IV. Estación de Servicio de Gasolina para Centros Comerciales: entrarán todas 
 
 Para efectos del artículo anterior, en cuanto a la instalación de las Estaciones de Servicio, operarán las siguientes restricciones:
 
-I. Para la instalación de una Estación de Gasolina, se tomará en cuenta las gasolineras establecidas y anteriormente autorizadas a la presente normativa, por lo cual será de observancia el criterio de restricción de distancia menor de 500 metros, con respecto a otra Estación de Gasolina; la distancia entre una gasolinera y otra dependerá de las características de la zona en donde pretende instalarse la Estación de Servicio, la funcionalidad, los inmuebles contiguos, el grado de saturación o déficit en la zona, dictaminados por la Dirección de la Unidad Operativa Municipal de Protección Civil y la Dirección de Gestión y Desarrollo Urbano Sustentable del Honorable Ayuntamiento del Municipio de Puebla.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
-II. Para el caso de la Estación de Gasolina, se aplican criterios de disminución por razones de funcionamiento vial o estructural urbano, obteniendo una reducción de distancia de los 500 metros, siempre y cuando sea factible de acuerdo a los análisis y dictámenes emitidos por parte de la Dirección de la Unidad Operativa Municipal de Protección Civil y de la Dirección de Gestión y Desarrollo Urbano Sustentable del Honorable Ayuntamiento del Municipio.
+I. Para la instalación de una Estación de Servicio de gas, gasolina y diesel, se tomará en cuenta las anteriormente autorizadas a la presente normativa, por lo cual será de observancia el criterio de restricción dentro de un radio de 500 metros, con respecto a la distancia de entre una y otra Estación de Servicio; así como también dependerá de las características de la zona en donde se pretende instalarla, la funcionalidad, los inmuebles contiguos, el grado de saturación o déficit en la zona, dictaminados por la Dirección de la Unidad Operativa Municipal de Protección Civil y la Dirección.
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+II. Para el caso de la Estación de Servicio de gas, gasolina y diesel se aplican criterios de disminución por razones de funcionamiento vial o estructural urbano, obteniendo una reducción de distancia de los 500 metros, siempre y cuando sea factible de acuerdo a los análisis y dictámenes emitidos por parte de la Dirección de la Unidad Operativa Municipal de Protección Civil y de la Dirección.
 
 III. Se entenderá por Funcionamiento Vial; cuando se tenga una vialidad primaria y se pueda otorgar el servicio por ambos sentidos, sin obligar a los usuarios a realizar largos retornos y reducir la circulación vial.
 
 IV. Se entenderá por Estructural Urbano; a la relación entre los equipamientos existentes sobre los servicios complementarios sin comprometer los usos de suelo existentes y todos aquéllos que se planeen.
 
-V. En los casos señalados para: Estación de Gasolina con uso mixto, Mini Gasolinera y Estación de Servicio de Gasolina para Centros Comerciales, no aplica la restricción de distancia menor de 500 metros por no ser gasolineras en sí, sino que forman parte de diversos conjuntos de uso mixto. Sin embargo la distancia y factibilidad estará sujeta a las características de la zona, la funcionalidad, los niveles de saturación o déficit, así como los análisis y dictámenes emitidos por la Dirección de la Unidad Operativa Municipal de Protección Civil y la Dirección de Gestión y Desarrollo Urbano Sustentable del Honorable Ayuntamiento del Municipio de Puebla.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+V. En los casos señalados para: Estación de Gasolina con uso mixto, Mini gasolinera y Estación de servicio de gasolina para Centros Comerciales, no aplica la restricción de distancia menor de 500 metros por no ser gasolineras en sí, sino que forman parte de diversos conjuntos de uso mixto. Sin embargo la distancia y factibilidad estará sujeta a las características de la zona, la funcionalidad, los niveles de saturación o déficit, así como los análisis y dictámenes emitidos por la Dirección de la Unidad Operativa Municipal de Protección Civil y la Dirección.
 
 VI. Para el funcionamiento e instalación de: Estación de Gasolina con uso mixto, Mini Gasolinera y Estación de Servicio de Gasolina para "MALL", deberá regir y será obligatorio presentar un riguroso Plan de Contingencia con modelos de simulación, avalados por la Dirección de la Unidad de Protección Civil del Honorable Ayuntamiento de Puebla para garantizar la seguridad en el establecimiento y la zona en que se ubique.
 
-VII. En todos los casos es obligatorio presentar con la solicitud de factibilidad un expediente completo de acuerdo a los lineamientos establecidos en el apartado de Marco Jurídico sobre Requerimientos Estatales y Municipales, así como estudio de riesgo ante la Dirección de Gestión y Desarrollo Urbano Sustentable de este Honorable Ayuntamiento del Municipio de Puebla.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+VII. En todos los casos es obligatorio presentar con la solicitud de factibilidad un expediente completo de acuerdo a los lineamientos establecidos en el apartado de Marco Jurídico sobre Requerimientos Estatales y Municipales, así como estudio de riesgo ante la Dirección.
 
 VIII. Se deberán respetar los lineamientos establecidos en el Programa Municipal de Desarrollo Urbano Sustentable de Puebla, quedando en todos los casos sujeta a observancia de la distancia menor de 500 metros, a los análisis y estudios técnicos derivados de la documentación que ingrese el interesado, de la inspección de campo y de la valoración de la zona de acuerdo a las características urbano territoriales, incluyendo los factores de riesgo y/o peligro en donde se pretenda instalar la Estación de Servicio.
 
-IX. No se tramitará, ni se gestionará ningún tipo de licencia, o Dictamen emitido por la Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable, así como por el Titular de la Unidad Operativa Municipal de Protección Civil ambos del Honorable Ayuntamiento del Municipio de Puebla, y mucho menos quedará sujeta a observancia el otorgamiento de los mismos, así como la distancia menor de 500 metros, para los casos de instalar Estaciones de Servicio de Gas L.P., Gasolina y Diesel en el Centro Histórico de la Ciudad de Puebla.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+IX. No se autorizarán licencias para instalar Estaciones de Servicio de gas L.P., gasolina y diesel en el Centro Histórico de la Ciudad de Puebla.
 
 MATERIALES EXPLOSIVOS
 
@@ -15577,9 +16129,11 @@ MEDIDAS PREVENTIVAS CONTRA INCENDIOS EN CONSTRUCCIONES
 
 DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 1103.
 
-Todas las construcciones destinadas a edificación pública, de reunión masiva, industria de alto riesgo, inmuebles de más de 3 niveles, deberán cumplir con las medidas preventivas contra incendio en construcciones. El propósito fundamental del presente apartado es el definir las medidas preventivas con respecto a incendios, en edificaciones comerciales, industriales, deportivas, hospitalarias, públicas y, en general, de reunión masiva.
+Todas las construcciones destinadas a edificación pública, instituciones educativas, guarderías, estancias, centros de reunión masiva, hospitales, industrias de alto riesgo, inmuebles de más de tres niveles destinados a comercios y oficinas, baños públicos, salas de espectáculos, edificios para espectáculos deportivos, templos y depósitos de explosivos, deberán cumplir con las medidas preventivas contra incendio en construcciones.
 
 ###### Artículo 1104.
 
@@ -15593,19 +16147,19 @@ III. Industria de alto riesgo: Empresa en la que se realizan actividades donde e
 
 IV. Inmueble de más de 3 niveles: Construcción en la que se tiene planta baja y dos pisos o niveles adicionales; y
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
-V. UOMPROCI.- La Unidad Operativa Municipal de Protección Civil.
+V. UOMPC - Unidad Operativa Municipal de Protección Civil.
 
 ###### Artículo 1105.
 
 El cumplimiento del presente apartado, es responsabilidad de los propietarios, administradores o responsables de los inmuebles regulados en el mismo.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1106.
 
-La verificación del cumplimiento del presente apartado, corresponde a la UOMPROCI y a la Dirección.
+La verificación del cumplimiento del presente apartado corresponde a la UOMPC y la Dirección.
 
 ###### Artículo 1107.
 
@@ -15625,51 +16179,41 @@ VI. Mantenimiento y pruebas;
 
 VII. Salidas, rampas, pasillos y escaleras.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1108.
 
-La constancia de terminación de obra o construcción en inmuebles de reunión masiva requerirá la obtención previa de "Informe de autorización" expedido por la UOMPROCI según el caso, en el que se haga constar el cumplimiento de las disposiciones consignadas en este apartado.
+Durante el proceso de construcción, los trabajadores deberán contar con las medidas para combate de incendios; equipo de protección personal, como son: cascos, botas, guantes, arnés, fajas, careta de soldador, peto de soldador y guantes de soldador; señalética, botiquín móvil y las demás necesarias para la realización de su trabajo.
+
+Una vez terminada la obra o construcción de cualquiera de los inmuebles que se mencionan en el artículo 1103, el establecimiento deberá contar con un Programa Interno de Protección Civil aprobado por la UOMPC, el cual se deberá renovar anualmente.
 
 ###### Artículo 1109.
 
-Adicionalmente a lo previsto en el artículo anterior, se requiere la autorización escrita por parte del Departamento de Bomberos de Puebla para la construcción de inmuebles con las siguientes características:
-
-I. Industria de alto riesgo;
-
-II. Industria o comercio que abarque más de 1,000 m3;
-
-III. Inmueble de más de 3 niveles; y
-
-IV. Sitios públicos o centros de reunión masiva.
+(DEROGADO, P.O. 4 DE JUNIO DE 2012)
 
 ###### Artículo 1110.
 
 Las instalaciones eléctricas deberán cumplir con la autorización por parte de las Entidades verificadoras competentes.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 1111.
 
-Las instalaciones de aprovechamiento de gas L. P. y/o natural en todas sus modalidades, deberán ajustarse a las normas mexicanas en vigor, contar con los documentos y verificaciones respectivas.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+Las instalaciones de aprovechamiento de gas L.P. y/o natural en todas sus modalidades, deberán ajustarse a las normas oficiales mexicanas, así como contar con los documentos y verificaciones respectivas.
 
 ###### Artículo 1112.
 
-Los inmuebles para serles renovada su autorización deberán ser inspeccionados por la Unidad Operativa Municipal de Protección Civil, la Dirección, o Departamento de Bomberos de Puebla, en los siguientes términos:
-
-- Anualmente los inmuebles considerados en el artículo 1133.
-
-- Bianual en los demás inmuebles.
-
-Los inspectores deberán portar la correspondiente orden de visita al realizar las inspecciones.
+(DEROGADO, P.O. 4 DE JUNIO DE 2012)
 
 ###### Artículo 1113.
 
 Todo el equipo e instalaciones mencionados en este apartado, deberán ser aprobados según la Dirección General de Normas de la República Mexicana o equivalente si es de procedencia extranjera.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 1114.
 
-Se llevará bitácora respectiva de los equipos e instalaciones contra incendios de los inmuebles, las cuales serán presentadas durante las visitas e inspecciones que se realicen a los inmuebles.
+Se llevará bitácora mensual respectiva de los equipos e instalaciones contra incendios de los inmuebles mencionados en el artículo 1103, las cuales serán presentadas durante las visitas e inspecciones que se realicen a los inmuebles.
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
@@ -15689,61 +16233,129 @@ Es obligación ciudadana y de los medios de comunicación reportar directamente 
 
 NORMAS PREVENTIVAS EXTINTORES
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 1118.
 
-Para los efectos del presente apartado, los materiales combustibles se clasifican de la siguiente forma:
+Para los efectos del presente apartado, las clases de fuego se clasifican de la siguiente forma:
 
-I. Clase a: Corresponde a los materiales combustibles que estando a temperatura ambiente son sólidos, forman brasas y dejan cenizas. Ejemplos de éstos son la madera, papel, fibras naturales o sintéticas, plásticos, etc.;
+I. Fuego clase A: es aquel que se presenta en material combustible sólido, generalmente de naturaleza orgánica, y que su combustión se realiza normalmente con formación de brasas;
 
-II. Clase b: Corresponde a los materiales combustibles que estando a temperatura ambiente son líquidos. Ejemplo de éstos son la gasolina, diesel, aceites, solventes, alcoholes, etc.;
+II. Fuego clase B: es aquel que se presenta en líquidos combustibles e inflamables y gases inflamables;
 
-III. Clase c: Corresponde a equipos eléctricos o electrónicos que al estarse quemando, tienen flujo de energía eléctrica;
+III. Fuego clase C: es aquel que involucra aparatos, equipos e instalaciones eléctricas energizadas;
 
-IV. Clase d: Corresponde a materiales que al quemarse reaccionan violentamente con el agua, desprenden una gran cantidad de calor y requieren agentes extintores especiales ya que los normales no son efectivos. Ejemplos de éstos son el magnesio, circonio, fósforo, titanio, etc.
+IV. Fuego clase D: es aquel en el que intervienen metales combustibles, tales como el magnesio, titanio, circonio, sodio, litio y potasio; y
+
+V. Fuego clase K: es aquel que se presenta básicamente en instalaciones de cocina, que involucra sustancias combustibles, tales como aceites y grasas vegetales o animales. Los fuegos clase K ocurren en los depósitos de grasa semipolimerizada, y su comportamiento es distinto a otros combustibles.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1119.
 
-Para efectos de prevención contra incendios, las clases de riesgo se clasifican de la siguiente forma:
+para efectos de prevención y determinación del riesgo de incendio en el centro de trabajo se aplicará la siguiente tabla:
 
-3, de gran riesgo
+Concepto Riesgo de incendio Riesgo de incendio
 
-4, de alto riesgo
+Ordinario Alto
 
-5, de riesgo
+Superficie construida,
 
-6, de bajo riesgo
+en metros cuadrados. Menor de 3000 Igual o Mayor de 3000
 
-7, de pequeño riesgo.
+Inventario de gases
+
+inflamables, en litros Menor de 3000 Igual o Mayor de 3000
+
+Inventario de líquidos
+
+combustibles, en litros Menor de 2000 Igual o Mayor de 2000
+
+Inventario de sólidos
+
+combustibles, incluido
+
+el mobiliario del centro
+
+de trabajo, en kilogramos Menor de 15000 Igual o Mayor de 15000
+
+Materiales pirofóricos y
+
+explosivos, en
+
+kilogramos No aplica Cualquier cantidad
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1120.
 
-Las características de los extintores dependerá del riesgo del lugar a proteger y la clase del combustible presente en los siguientes términos:
+Los extintores portátiles y móviles se seleccionarán de acuerdo con las diferentes clases de fuego y de conformidad con la siguiente tabla:
 
-TABLA 1 CLASE DE RIESGO
+Agente Fuego Fuego Fuego Fuego Fuego
 
-7 6 5 4 3
+extintor clase A clase B clase C clase D clase K
 
-CLASE A A4 A6 A10 A16 A20
+Agua SI NO NO NO NO
 
-CLASE B B10 B16 B20 B60 B80
+Polvo
 
-CLASE C C10 C16 C20 C60 C80
+químico
+
+seco tipo
+
+ABC SI SI SI NO NO
+
+Polvo
+
+químico
+
+seco tipo
+
+BC NO SI SI NO NO
+
+Bióxido
+
+de carbono
+
+(C02) NO SI SI NO NO
+
+Agentes
+
+limpios SI SI SI NO NO
+
+Espuma
+
+mecánica SI Sl NO NO NO
+
+Agentes
+
+especiales NO NO NO SI NO
+
+Químico
+
+húmedo SI SI NO NO SI
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1121.
 
-La distancia máxima y área que protegerán los extintores dentro de un inmueble, corresponde a la clase de combustible que en ese lugar se encuentre:
+La instalación de los extintores portátiles y móviles en los establecimientos se realizará conforme lo siguiente:
 
-I. Combustibles clase a, 23 mts ( cubriendo 1,044 m² );
+I. Contar con extintores conforme a la clase de fuego que se pueda presentar; y
 
-II. Combustibles clase b, 15 mts (cubriendo 680 m² );
+II. Colocar al menos un extintor no excediendo las distancias máximas de recorrido que se indican en la siguiente tabla, por clase de fuego, para acceder a cualquier extintor, tomando en cuenta las vueltas y rodeos necesarios:
 
-III. Combustibles clase c, 15 mts (cubriendo 680 m² ); y
+Riesgo de incendio Distancia máxima al extintor (metros)
 
-IV. Combustibles clase d, 23 mts (cubriendo 1,044 m² ).
+Clase A, C, y D Clase B Clase K
+
+Ordinario 23 15 10
+
+Alto 23 10 10
 
 ###### Artículo 1122.
 
-La cantidad de extintores necesarios, dependerá del resultado de dividir el área total a proteger entre la superficie que cada extintor protege.
+(DEROGADO, P.O. 4 DE JUNIO DE 2012)
 
 ###### Artículo 1123.
 
@@ -15771,9 +16383,7 @@ X. A una altura máxima de 1.5 mts y mínima de 10 cmts. del suelo a la base, se
 
 ###### Artículo 1124.
 
-Las siguientes tablas contienen las características de los extintores, para efecto de su clasificación:
-
-(VEASE ARCHIVO ANEXO)
+(DEROGADO, P.O. 4 DE JUNIO DE 2012)
 
 AGUA CONTRA INCENDIO
 
@@ -15795,57 +16405,11 @@ VI. Sitios públicos o centros de reunión masiva.
 
 ###### Artículo 1126.
 
-Se calculará el gasto de agua máximo para cada emergencia que pudiera presentarse en el inmueble y el valor que se tomará como base de los cálculos es el máximo obtenido, el cual se multiplica por 45.
+(DEROGADO, P.O. 4 DE JUNIO DE 2012)
 
 ###### Artículo 1127.
 
-Se calculará el agua de almacenamiento de la siguiente forma:
-
-I. Suma total del volumen de cada nivel del inmueble (m³)
-
-II. Determinación de la clase de riesgo del inmueble
-
-3, gran riesgo
-
-4, alto riesgo
-
-5, riesgo
-
-6, bajo riesgo
-
-7, pequeño riesgo
-
-III. Determinación del tipo de construcción:
-
-0.5, a prueba de fuego
-
-0.75, resistente al fuego
-
-1.0, algunos elementos son combustibles
-
-1.5, todos los elementos son combustibles; y
-
-IV. Obtención del factor de cálculo según tabla 1:
-
-TABLA 1 CLASE DE RIESGO
-
-CONSTRUCCIÓN
-
-3 4 5 6 7
-
-tipo 0.5 6.0 8.0 10.0 12.0 14.0
-
-tipo 0.75 4.0 5.3 6.7 8.0 9.3
-
-tipo 1.0 3.0 4.0 5.0 6.0 7.0
-
-tipo 1.5 2.0 2.6 3.3 4.0 4.6
-
-Cálculo según la siguiente fórmula ( el resultado se expresa en metros cúbicos):
-
-Volumen del inmueble ( m³ )
-
-7.48 x factor de cálculo
+(DEROGADO, P.O. 4 DE JUNIO DE 2012)
 
 ###### Artículo 1128.
 
@@ -15853,15 +16417,15 @@ La cantidad de agua a almacenar corresponde al valor máximo entre gasto máximo
 
 ###### Artículo 1129.
 
-Los riesgos en materia de incendios, se clasificarán en la siguiente forma:
-
-(VEASE ARCHIVO ANEXO)
+(DEROGADO, P.O. 4 DE JUNIO DE 2012)
 
 EQUIPAMIENTO CONTRA INCENDIOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 1130.
 
-Red contra Incendio: La red contra incendio deberá reunir los siguientes requisitos:
+La red contra incendio deberá reunir los siguientes requisitos:
 
 I. En circuito cerrado;
 
@@ -15883,35 +16447,55 @@ VIII. Las tuberías serán pintadas en color rojo con primario anticorrosivo;
 
 IX. Toma siamesa a la cisterna con rosca 62.5 mm. de diámetro nsht 71/2 hilos por 25.4 mm.
 
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
 X. Toma siamesa directamente a la red con rosca 62.5 mm. de diámetro NSHT 71/2 hilos por 25.4 mm. a cada 90 mts;
 
-Las tomas siamesas con check unidireccional hacia el inmueble
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
-Las tuberías subterráneas deberán estar a por lo menos 45 cm. de profundidad y protegidas contra la corrosión; y
+XI. Las tomas siamesas deberán contar con check unidireccional hacia el inmueble;
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+XII. Las tuberías subterráneas deberán estar a por lo menos 45cm. de profundidad y protegidas contra la corrosión;
 
 XIII. Las tuberías subterráneas no deberán estar debajo de edificios o construcciones.
 
-Las válvulas de la red contra incendio, podrán ser de bola, galleta, pilón o volante en cualquier parte de la red.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+XIV. Las válvulas de la red contra incendio, podrán ser de bola, galleta, pilón o volante en cualquier parte de la red; y
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+XV. Contar con un sistema de bombeo que tenga como mínimo dos fuentes de energía, mismas que pueden ser, eléctrica diesel, tanque elevado, o una combinación de ellas; automatizadas y que mantenga la presión de 7.0 kg/cm2 en toda la red.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1131.
 
-Bomba contra Incendios: Deberán cumplir con los siguientes requisitos:
+Las bombas contra incendio deberán cumplir con los siguientes requisitos:
 
-I. Bombas eléctricas conectadas a circuito auxiliar o de emergencia;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
-II. Bomba jockey instalada y funcionando;
+I. Las bombas eléctricas deberán estar conectadas a un circuito de energía auxiliar o de emergencia;
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+II. Disponer de un sistema de bomba jockey para mantener una presión constante de al menos 7kg/cm2 en toda la red en todo momento. Esta condición deberá conservarse cuando el sistema esté funcionando, es decir, cuando estén abiertas un determinado número de mangueras o rociadores según las especificaciones del fabricante o instalador;
 
 III. Descargarán hacia un múltiple de distribución;
 
 IV. Contar con válvula de alivio descargando hacia su propia línea de alimentación;
 
-V. Las bombas con motor diesel deberán operarse manualmente;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+V. Las bombas con motor diesel deberán ser de arranque automático con sistema de arranque alterno manual;
 
 VI. Controladores y elementos del sistema de control aprobados por normas mexicanas o equivalentes extranjeras;
 
-VII. Proporcionar un gasto mínimo total de 1893 (500 GPM) o el gasto máximo para emergencias si este último es mayor;
+VII. (DEROGADA, P.O. 4 DE JUNIO DE 2012)
 
-VIII. Cada bomba no deberá dar más de 18930 (5000 GPM);
+VIII. (DEROGADA, P.O. 4 DE JUNIO DE 2012)
 
 IX. El gasto total de la red contra incendio, no deberá depender de una sola bomba;
 
@@ -15919,17 +16503,23 @@ X. Suministro de combustible para al menos 2 horas por cada bomba;
 
 XI. Las bombas tendrán check unidireccional en la descarga y hacia el múltiple de distribución;
 
-XII. La presión de descarga de las bombas será de 6.5 a 7.7 kg/cm², medida en el más lejano de los hidrantes o monitores; y
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+XII. La presión de descarga de las bombas será de mínimo 7.0 kg/cm2; y
 
 XIII. La red contra incendio tendrá línea de recirculación para las pruebas de funcionamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 1132.
 
-Hidrantes: Deberán cumplir con los siguientes requisitos:
+Los hidrantes deberán de cumplir con los siguientes requisitos:
 
-I. Instalados a una distancia entre 15 y 37 mts. del área a proteger;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
-II. Suministrarán 946.5 LPM (250 GPM) como mínimo en descarga total (una manguera de 946.5 LPM (250 GPM), dos de 473.25 LPM (125 GPM), etc;
+I. Instalarse a una distancia máxima de 30 metros del área a proteger;
+
+II. (DEROGADA, P.O. 4 DE JUNIO DE 2012)
 
 III. Hidrantes externos con rosca externa de 62.5 mm. de diámetro nsht 71/2 hilos por 25.4 mm.;
 
@@ -15943,9 +16533,11 @@ VII. Se instalarán cerca de las salidas, escaleras o pasillos principales; y
 
 VIII. Las mangueras contra incendio serán de 2 capas como mínimo con chiflón regulable desde chorro sólido hasta neblina de 180 grados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 1133.
 
-Monitores: Deberán cumplir con los siguientes requisitos:
+Los monitores deberán cumplir con los siguientes requisitos:
 
 I. Instalados a una distancia entre 15 y 37 mts. del área a proteger; y
 
@@ -15953,35 +16545,33 @@ II. Suministrar entre 946 LPM (250 GPM) y 1893 LPM (500 GPM) en caso de protecci
 
 SISTEMAS DE ALARMA Y DETECCIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 1134.
 
-Inmuebles especiales: Para los efectos del presente ordenamiento, en los inmuebles públicos, centros de reunión masiva; de más de tres niveles, industrias de alto riesgo, comercios o industrias con más de 1,000 m³, deberán tener instalado:
+Para los inmuebles que se mencionan en el artículo 1103, se deberá instalar lo siguiente:
 
 I. Sistema primario de alarma sonoro y luminoso para indicar la evacuación total del mismo;
 
 II. Sistema secundario de alarma para los casos en que falle el sistema principal (campana, silbato, magnavoz u otro similar);
 
-III. Botoneras de alarma en lugares visibles y cercanos a pasillos, salidas o escaleras. Los detectores de fuego se colocarán en posición horizontal a menos que el fabricante permita su instalación en otra posición; y
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
-IV. Los detectores de fuego no se colocarán en lugares donde las corrientes de aire lleven humos, vapores o gases generados por las condiciones normales de trabajo.
+III. Botoneras de alarma o dispositivos de accionamiento en lugares visibles y cercanos a pasillos, salidas o escaleras; y
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+IV. Los detectores de incendio no se colocarán en lugares donde las corrientes de aire lleven humos, vapores o gases generados por las condiciones normales de trabajo, y deberán ser instalados conforme a las especificaciones del fabricante.
 
 ###### Artículo 1135.
 
-Todos los inmuebles a los que se refiera este apartado, deberán tener:
+(DEROGADO, P.O. 4 DE JUNIO DE 2012)
 
-I. Equipos o sistemas detectores de fuego;
-
-II. Los detectores de fuego se colocarán en posición horizontal a menos que el fabricante permita su instalación en otra posición; y
-
-III. Los detectores de fuego no se colocarán en lugares donde las corrientes de aire lleven humos, vapores o gases generados por las condiciones normales de trabajo.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1136.
 
-Dependiendo de las condiciones particulares de los materiales combustibles que se utilicen en el inmueble, se instalarán detectores de humo, radiaciones infrarrojas, ultravioletas, temperatura u otro tipo funcionalmente válido.
-
-En áreas a prueba de explosión, los sistemas de alarma y detección, deberán cumplir con la norma respectiva.
-
-Los sistemas de detección de gases o vapores combustibles, no substituyen a los detectores de fuego.
+Dependiendo de las condiciones particulares de riesgo del inmueble, se instalarán detectores de incendio, pudiendo ser los siguientes: detectores de humo, detectores de calor, detectores de gases de combustión, detectores de flama y otros tipos de detectores que identifican algún indicador de incendio.
 
 SISTEMAS IGNÍFUGOS O RETARDANTES
 
@@ -15989,13 +16579,19 @@ SISTEMAS IGNÍFUGOS O RETARDANTES
 
 Los sistemas ignífugos o retardantes de fuego se deben aplicar en:
 
-I. Construcciones donde parte de los elementos estructurales sean de materiales combustibles;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
-II. Construcciones donde todos los elementos estructurales son combustibles;
+l. Construcciones donde parte o todos los elementos estructurales sean de materiales combustibles;
 
-III. Inmuebles con más de tres niveles; y
+II. (DEROGADA, P.O. 4 DE JUNIO DE 2012)
 
-IV. Sitios públicos o centros de reunión masiva.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+III. Inmuebles con más de tres niveles, destinados a comercios y oficinas; y
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+IV. En los inmuebles mencionados en el artículo 1103.
 
 ###### Artículo 1138.
 
@@ -16015,17 +16611,21 @@ VI. Plásticos; y
 
 VII. Materiales porosos del inmueble a proteger.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 1139.
 
-La aplicación de ignífugos o retardantes podrá aplicarse con brocha, inmersión, aspersión, rodillo cualquier otro método recomendado por el fabricante.
+La aplicación de ignífugos o retardantes deberá realizarse conforme al método recomendado por el fabricante.
 
 Independientemente del método con que funcione el ignifugante o retardante, sólo se aceptará el que cumpla con las normas oficiales mexicanas o equivalentes extranjeras.
 
 DEL MANTENIMIENTO Y PRUEBAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 1140.
 
-Bombas contra incendio: Las bombas contra incendio deberán probarse diariamente durante 5 minutos descargando por la línea de recirculación.
+Las bombas contra incendio deberán probarse por lo menos una vez al mes descargando por la línea de recirculación.
 
 Las pruebas de gasto y presión, se realizarán con todas las bombas trabajando simultáneamente
 
@@ -16035,7 +16635,9 @@ a). Presión de descarga de la bomba jockey.
 
 b). Presión de descarga de bomba eléctrica.
 
-c). Presión de descarga de bomba con motor.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+c) Presión de descarga de bomba con motor a diesel;
 
 d). Nivel de combustible.
 
@@ -16067,27 +16669,11 @@ c). Servicio de mantenimiento.
 
 d). Reparaciones o cambios realizados al sistema.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 1142.
 
-Sistemas de alarma: Los sistemas de alarma deberán ser:
-
-I. Ser probados mensualmente en todas y cada una de las botoneras o dispositivos de accionamiento; y
-
-II. La bitácora de los sistemas de alarma al menos tendrán la siguiente información:
-
-a) Número progresivo de la botonera.
-
-b). Ubicación exacta de la botonera.
-
-c). Accionamiento de la alarma al pulsar cada botonera.
-
-d). Servicio de mantenimiento.
-
-e). Reparaciones o cambios realizados al sistema.
-
-f). Observaciones generales.
-
-g). Uso del sistema de alarma desde la última inspección, especialmente por una emergencia.
+Los sistemas de alarma deberán ser visuales y sonoros, que no dependan de la energía eléctrica, deberán ser probados mensualmente en todas y cada una de las botoneras o dispositivos de accionamiento, dichas pruebas deberán ser registradas por medio de bitácoras.
 
 ###### Artículo 1143.
 
@@ -16109,31 +16695,17 @@ g). Observaciones Generales.
 
 h). Uso de los extintores desde la última inspección, especialmente por una emergencia.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 1144.
 
-Frecuencia de inspecciones: Los elementos de las redes contra incendio deben inspeccionarse con la siguiente frecuencia:
+Todos los elementos de las redes contra incendio con las que cuente el establecimiento, deberán ser inspeccionados al menos una vez al mes.
 
-Extintores mensual
-
-Hidrantes mensual
-
-Monitores mensual
-
-Rociadores mensual
-
-Gabinetes y mangueras en seco mensual
-
-Bombas contra incendio diario
-
-Válvulas de bloqueo mensual
-
-Gabinetes y mangueras con semestral
-
-agua
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1145.
 
-Cada protección contra incendio tendrá una bitácora para registrar los servicios de mantenimiento, cambios de equipo, usos y pruebas que se realicen.
+Cada equipo de protección contra incendio tendrá una bitácora para registrar los servicios de mantenimiento, cambios de equipo, usos y pruebas que se realicen.
 
 VÍAS DE EVACUACIÓN SALIDAS, RAMPAS, PASILLOS Y ESCALERAS
 
@@ -16187,23 +16759,21 @@ El personal designado para realizar las inspecciones y supervisiones, deberá es
 
 DE LAS DILIGENCIAS DE VERIFICACIÓN
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 1151.
 
-Los inspectores y supervisores designados por la Dirección al realizar las verificaciones correspondientes levantarán un reporte de lo encontrado en las obras, construcciones o instalaciones, terminadas o en proceso, con el objeto de detectar y asentar en el reporte las omisiones y anomalías cometidas por el propietario, representante, los encargados, directores responsables de obra, y/o los auxiliares de éstos, en los lugares donde se realice la verificación, entregando copia del reporte al interesado, la cual deberá ser firmada por éstos últimos, y en caso de que se negaren asentaran las razones por las que se niegan a firmar dicho reporte.
+Los inspectores designados por la Dirección al realizar las diligencias de verificación levantarán un reporte de lo encontrado en las obras, construcciones o instalaciones, terminadas o en proceso, con el objeto de detectar y asentar en el reporte las omisiones y anomalías cometidas por el propietario, poseedor, representante, los encargados, peritos directores responsables de obra, y/o los auxiliares de éstos, en los lugares donde se realice la inspección, entregando copia del reporte a la persona con quien se entiende la diligencia, la cual deberá ser firmada por el inspector, dos testigos y la persona con quien se entiende la diligencia, y en caso de que éste último se niegue se asentarán las razones por las que se niegan a firmar dicho reporte.
 
 El fin de la diligencia a que se refiere este artículo consiste en que la obra, construcción o instalación se regularice en el menor tiempo posible.
 
-La autoridad administrativa podrá practicar visitas domiciliarias únicamente para cerciorarse de que se ha cumplido el presente Capítulo de construcción y podrá exigir la exhibición de los papeles indispensables para comprobar que se han acatado las disposiciones aplicables. El inspector debe asentar la probable infracción al Capítulo.
+La autoridad administrativa podrá practicar visitas domiciliarias únicamente para cerciorarse de que se ha cumplido el presente Capítulo de Construcción y podrá exigir la exhibición de los papeles indispensables para comprobar que se han acatado las disposiciones aplicables. El inspector debe asentar en el reporte la probable infracción al Capítulo.
 
-Las formalidades para las visitas de inspección son las siguientes:
-
-a). El inspector deberá llevar una orden de inspección por escrito, en el que se expresara el lugar que ha de inspeccionarse, el nombre de la persona a la que se dirige, cuando se ignore el nombre de la persona a la que va dirigido, se señalaran los datos suficientes que permitan su identificación y los objetos que se buscan.
+El inspector deberá llevar una orden de inspección por escrito, en el que se expresará el lugar que ha de inspeccionarse, el nombre de la persona a la que se dirige, cuando se ignore el nombre de la persona a la que va dirigido, se dirigirá al propietario, poseedor o responsable de la construcción.
 
 Dicha orden deberá estar debidamente fundada y motivada por la autoridad que la expide.
 
-En caso de no encontrar al propietario o al representante legal o al director responsable de obra se dejará citatorio para que a más tardar al día siguiente en una hora hábil se pueda realizar dicha diligencia y en caso de que este no aguarde la misma se entenderá con cualquier persona que se encuentre en el lugar a inspeccionar.
-
-b). Se levantará una acta circunstanciada, en presencia de dos testigos propuestos por el ocupante del lugar visitado o, en su ausencia o negativa, por la autoridad que practique la diligencia.
+En caso de no encontrar al propietario, poseedor, representante legal o al Perito Director Responsable de Obra se dejará citatorio para que a más tardar al día siguiente en una hora hábil se pueda realizar dicha diligencia y en caso de que no aguarde la misma se entenderá con cualquier persona que se encuentre en el lugar a inspeccionar.
 
 ###### Artículo 1152.
 
@@ -16217,13 +16787,17 @@ III. Regularizar la obra correspondiente pagando las cantidades que procedan.
 
 IV. Realizar manifestaciones que a su derecho conviniere, oponer excepciones o en su caso exhibir la documentación que considere a fin de desvirtuar los hechos asentados en el acta administrativa correspondiente.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 1153.
 
-Transcurrido el término a que se refiere el artículo anterior, sin haberse corregido las omisiones, anomalías o deficiencias consignadas en el reporte, efectuando los trámites, pagado los importes o en general regularizado la obra, construcción, instalación o edificación, o en su caso sin que se hayan aportado los papeles que desvirtúen los hechos asentados en el reporte, la Dirección ordenará la inspección y supervisión de la obra, edificación, construcción o instalación, a que se refiere el artículo 1156.
+Transcurrido el término a que se refiere el artículo anterior, sin haberse corregido las omisiones, anomalías o deficiencias consignadas en el reporte, efectuando los trámites, pagado los importes o en general regularizado la obra, construcción, instalación o edificación, o en su caso sin que se hayan aportado los papeles que desvirtúen los hechos asentados en el reporte, la Dirección iniciará el procedimiento administrativo de sanción en contra del responsable de la construcción.
 
-###### Artículo 1154
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-Para la realización de las visitas de inspección y supervisión a que se refiere el artículo 1156, no es indispensable llevar a cabo previamente, la diligencia de verificación.
+###### Artículo 1154.
+
+Para la realización de las visitas de inspección a que se refiere el artículo 1156, no es indispensable llevar a cabo previamente, la diligencia de verificación o inspección.
 
 ###### Artículo 1155.
 
@@ -16231,19 +16805,29 @@ Las personas que se auto corrijan espontáneamente sin mediar requerimiento o in
 
 DE LAS VISITAS DE INSPECCIÓN Y SUPERVISIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 1156.
 
-La Dirección realizará las visitas de inspección y supervisión a través de los inspectores y supervisores de obra, debiéndose efectuar conforme a lo siguiente:
+La Dirección realizará las visitas de inspección y supervisión en cumplimiento a las disposiciones contenidas en este ordenamiento a través de los inspectores y supervisores de obra, debidamente autorizados para ello. Cuando se estén llevando a cabo construcciones, fraccionamientos, condominios, cambios de uso de suelo u otros aprovechamientos de inmuebles que violen la Ley de Desarrollo Urbano Sustentable del Estado de Puebla, los Programas de Desarrollo Urbano aplicables, el presente Código y originen un deterioro en la calidad de vida de los asentamientos humanos, en forma oficiosa la autoridad competente o los residentes del área que resulten directamente afectados tendrán derecho a pedir que se lleven a cabo las suspensiones, demoliciones o modificaciones que sean necesarias para cumplir con los citados ordenamientos debiéndose efectuar conforme a lo siguiente:
 
 I. El personal autorizado, al realizar la visita de inspección y supervisión deberá presentar orden escrita debidamente fundada y motivada, expedida por la Dirección, en la que se precisará el objeto de la visita y el alcance de ésta; el lugar o zona que habrá de inspeccionarse y las disposiciones legales o reglamentarias en que se funden;
 
 II. El personal autorizado, al iniciar la inspección y supervisión, se identificará con la persona con quien se entienda la diligencia, mediante credencial vigente con fotografía, emitida por la dirección, exhibirá la orden respectiva entregando copia con firma autógrafa de la misma, requiriéndolo para que en el acto designe dos testigos; en caso de negativa o que los designados no acepten fungir como testigos, el inspector y supervisor podrá designarlos, haciendo constar esta situación en el acta administrativa que al efecto se levante, sin que esta circunstancia invalide los efectos de la inspección;
 
-La persona con quien se entienda la diligencia, sea el propietario, representante, encargado de la obra, los directores responsables de obra, los auxiliares de estos, así como los ocupantes de los inmuebles objeto de inspección y supervisión, están obligados a permitir al personal autorizado el acceso al lugar o lugares sujetos a la visita y a proporcionar la información y documentación que les sea requerida de acuerdo con lo consignado en la orden de visita;
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-III. La Dirección y/o el personal autorizado para realizar la vista correspondiente podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección y supervisión; cuando alguna o algunas personas obstaculicen o se opongan a la práctica de la diligencia, independientemente de las sanciones a que haya lugar;
+La persona con quien se entienda la diligencia, sea el propietario, representante legal, encargado de la obra, los Peritos Directores Responsables de Obra, los auxiliares de estos, así como los ocupantes de los inmuebles objeto de inspección y supervisión, están obligados a permitir al personal autorizado el acceso al lugar o lugares sujetos a la visita y a proporcionar la información y documentación que les sea requerida de acuerdo con lo consignado en la orden de visita; en caso de no encontrarse se dejará citatorio para que espere a una hora hábil fija dentro de las veinticuatro horas siguientes para la práctica de la inspección;
 
-IV. En toda visita de inspección y supervisión, el personal autorizado levantará acta, en la que hará constar en forma circunstanciada los hechos u omisiones que se hubiesen presentado durante la diligencia; y
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+III. Cuando en el lugar designado para la práctica de la diligencia, no se encontrare persona que reciba el citatorio o encontrándose se negare a recibirlo, se dejará pegado este en lugar visible del área, zona o bien que ha de visitarse y a falta de este, con el vecino inmediato;
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+IV. Si el visitado o el representante legal, no espera en el día y hora señalado, se entenderá la diligencia con el encargado, cualquier dependiente o con la persona que ahí se encuentre; le exhibirá la orden respectiva y le entregará copia de la misma con firma autógrafa, requiriéndola para que en el acto designe dos testigos.
+
+En caso de negativa o si los designados no aceptan desempeñarse como testigos, no invalidará los efectos de inspección y el personal autorizado lo hará constar en el acta administrativa y asignará dos testigos.
 
 V. Al término de la inspección y supervisión se dará oportunidad al visitado para manifestar lo que a su derecho convenga, bajo protesta de decir verdad, en relación a los hechos asentados en el acta; a continuación se procederá a firmar el acta por el visitado, los testigos y el personal autorizado, quien entregará copia del acta a los interesados.
 
@@ -16289,17 +16873,21 @@ X. Declaración del visitado bajo protesta de decir verdad si quiere hacerla; y
 
 XI. Nombre y firma de quienes intervinieron en la diligencia, incluyendo el del personal autorizado quien llevó a cabo la diligencia.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 1158.
 
-Una vez concluida la diligencia de inspección y supervisión, el visitado, propietario o poseedor tendrán un término de tres días hábiles contados a partir del día siguiente al en que se practique la visita de inspección para que por escrito manifieste en ejercicio de la garantía de audiencia lo que a su interés convenga y en su caso ofrecer las pruebas pertinentes relacionadas con el acta de inspección tendientes a demostrar el estricto apego a la normatividad del presente Capítulo de la obra, edificación, construcción o instalación inspeccionada y supervisada. Así mismo se deberá señalar domicilio para oír y recibir notificaciones personales.
+Una vez concluida la diligencia de inspección y supervisión, el visitado, propietario o poseedor tendrá un término de cinco días hábiles contados a partir del día siguiente a aquel en el que se practique la visita de inspección para que por escrito manifieste en ejercicio de la garantía de audiencia lo que a su interés convenga y en su caso ofrecer las pruebas pertinentes relacionadas con el acta de inspección tendientes a demostrar el estricto apego a la normatividad del presente Capítulo, de la obra, edificación, construcción o instalación inspeccionada y supervisada. Así mismo se deberá señalar domicilio para oír y recibir notificaciones personales.
 
 ###### Artículo 1159.
 
 Se tendrán por consentidos los hechos y omisiones consignados en las actas de inspección y supervisión, si transcurrido el plazo mencionado a que se refiere el artículo anterior, el visitado, propietario o poseedor no presenta pruebas y documentos relacionados que desvirtúen los hechos u omisiones que se asentaron en el acta de inspección y supervisión; por lo tanto se considerará que precluyeron sus derechos y los podrá hacer valer por otra vía.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 1160.
 
-Una vez escuchado el visitado, propietario o poseedor; recibidas y desahogadas las pruebas que ofreció, o en caso de que no haya hecho dentro del plazo mencionado uso del derecho que le concede el artículo 1165, la Dirección dictará la resolución o disposición administrativa que corresponda debidamente fundada y motivada, misma que será notificada al interesado, sea en forma personal, o en los estrados de la Dirección en la hipótesis consignada en el artículo anterior.
+Una vez escuchado el visitado, propietario o poseedor; recibidas y desahogadas las pruebas que ofreció, o en caso de que no haya hecho dentro del plazo mencionado uso del derecho que le concede el artículo 1158, la Dirección dictará la resolución o disposición administrativa que corresponda debidamente fundada y motivada, misma que será notificada al interesado, sea en forma personal, o en los estrados de la misma Dirección en la hipótesis consignada en el artículo anterior.
 
 ###### Artículo 1161.
 
@@ -16309,21 +16897,21 @@ Las órdenes de visita serán ordenadas y firmadas por el funcionario legalmente
 
 DEL PROCEDIMIENTO PARA LA DETERMINACIÓN DE MEDIDAS DE SEGURIDAD
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1162.
 
-Al tener conocimiento el Ayuntamiento de que una construcción, edificación, establecimiento, uso, instalación o actividad representa posibilidad de riesgo, mergencia (sic), contingencia o peligro para personas o bienes, se ordenará por la Dirección o la UOMPROCI, en forma coordinada o independiente, se lleven a cabo las medidas de seguridad que sean necesarias, previo dictamen y diligencias de inspección, efectuadas por el personal adscrito a las mismas, tendientes a poder controlar, mitigar, o dar fin a dicha situación.
+Al tener conocimiento la Dirección de que una construcción, edificación, establecimiento, uso, instalación o actividad representa posibilidad de riesgo, emergencia, contingencia o peligro para personas o bienes, se lleven a cabo las medidas de seguridad que sean necesarias, previo dictamen y diligencias de inspección, efectuadas por el personal adscrito a las mismas, tendientes a poder controlar, mitigar, o dar fin a dicha situación.
 
-El personal de la UOMPROCI que sea designado para este tipo de inspecciones deberá tener la categoría de Director Responsable de Obra o Corresponsable.
+Para los efectos del presente capítulo, el dictamen, las diligencias de inspección y la determinación de medidas de seguridad podrán realizarse por la Dirección y la UOMPC en forma conjunta, separada o coordinada en el ámbito de sus propias atribuciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+El personal de la UOMPC que sea designado para las inspecciones deberá tener la categoría de Perito Director Responsable de Obra o Corresponsable.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1163.
 
-La Dirección o la UOMPROCI ordenarán al personal autorizado, la realización de la visita de inspección correspondiente, tendiente a valorar el grado de riesgo. Para emitir el dictamen técnico correspondiente, y así señalar las medidas de seguridad que procedan.
-
-Para tener acceso a la zona o inmueble objeto de la visita, bastará orden escrita, debidamente fundada y motivada. En caso de que no se permita el acceso al mismo, se podrá realizar con el auxilio de la fuerza pública o personal del ejército. Previo extrañamiento al poseedor, propietario o Director Responsable de Obra para el uso de la fuerza pública.
+La Dirección o la UOMPC ordenará al personal autorizado, la realización de la visita de inspección correspondiente, tendiente a valorar el grado de riesgo. Para emitir el dictamen técnico correspondiente, y así señalar las medidas de seguridad que procedan.
 
 ###### Artículo 1164.
 
@@ -16337,9 +16925,9 @@ III. Nombre, denominación o razón social del visitado, propietario o poseedor;
 
 IV. Número y fecha del oficio u orden de visita que motivó la inspección y supervisión;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
-V. Nombre del personal designado por la Dirección o UOMPROCI para realizar la visita de inspección y supervisión, así como su número de credencial o gáfete asignado por la Dirección a éstos;
+V. Nombre del personal designado por la Dirección o UOMPC para realizar la visita de inspección y supervisión, así como su número de credencial o gafete asignado por la Secretaría de Administración y Tecnologías de la Información Municipal;
 
 VI. Nombre y en su caso, cargo de la persona con quien se entendió la diligencia;
 
@@ -16359,11 +16947,11 @@ X. Nombre y firma de quienes intervinieron en la diligencia, incluyendo el del p
 
 Por el tipo de riesgo, en caso de no encontrar al propietario poseedor o Director Responsable de Obra, se dejará citatorio para el día siguiente hábil.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1165.
 
-La Dirección o la UOMPROCI, con base en los datos consignados en el acta de visita, emitirá el dictamen técnico correspondiente, donde se hará constar:
+La Dirección o la UOMPC, con base en los datos consignados en el acta de visita, emitirá el dictamen técnico correspondiente, donde se hará constar:
 
 I. Las situaciones que constituyen riesgo, emergencia, posibilidad de desastre o contingencia;
 
@@ -16377,19 +16965,21 @@ V. Los motivos por los que así se considera de acuerdo a lo establecido en la f
 
 VI. Los medios de prueba suficientes para acreditar la existencia de las situaciones previstas en la fracción I del presente artículo.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1166.
 
-En caso de inconformidad contra el dictamen a que se refiere el artículo anterior, el interesado, dentro de los 3 días siguientes al en que se emita el mismo, podrá oponerse a todas o parte de las medidas que le sean exigidas, mediante escrito técnico que para ser tomado en cuenta, deberá estar suscrito por un Director Responsable de Obra o Corresponsable, en su caso, dentro de los tres días siguientes a la presentación de la inconformidad técnica (sic) la Dirección o la UOMPROCI, resolverá en definitiva, si se ratifica, modifica o revoca el dictamen.
+En caso de inconformidad contra el dictamen a que se refiere el artículo anterior, el interesado, dentro de los 5 días hábiles siguientes al en que se emita el mismo, podrá oponerse a todas o parte de las medidas que le sean exigidas, mediante escrito técnico que para ser tomado en cuenta, deberá estar suscrito por un Perito Director Responsable de Obra o Corresponsable, en su caso, dentro de los tres días siguientes a la presentación de la inconformidad técnica, la Dirección o la UOMPC, resolverá en definitiva, si se ratifica, modifica o revoca el dictamen.
 
 ###### Artículo 1167.
 
 Transcurrido el plazo fijado para el cumplimiento de las medidas de seguridad, sin que éstas se hayan ejecutado, el Ayuntamiento podrá proceder a la ejecución de dichas obras, a costa del propietario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 1168.
 
-En caso de inminente siniestro, riesgo o contingencia, el Ayuntamiento bajo su responsabilidad, aún sin mediar previa audiencia del interesado, podrá ordenar y llevar a cabo todas las medidas de seguridad que considere convenientes, en forma urgente, para prevenir, o hacer desaparecer, de manera inmediata o momentánea el peligro.
+En caso de inminente siniestro, riesgo o contingencia, la Dirección bajo su responsabilidad, aún sin mediar previa audiencia del interesado, podrá ordenar y llevar a cabo todas las medidas de seguridad que considere convenientes, en forma urgente, para prevenir, o hacer desaparecer, de manera inmediata o momentánea el peligro.
 
 La situación prevista en este artículo no obsta para que, una vez llevadas a cabo de manera inmediata las medidas de seguridad, el interesado presente el escrito de inconformidad a que se refiere el artículo que precede, siguiéndose el procedimiento consignado en el mismo.
 
@@ -16399,11 +16989,13 @@ La situación prevista en este artículo no obsta para que, una vez llevadas a c
 
 En los casos que impliquen peligro de incendio, el Departamento de Bomberos podrá llevar a cabo las diligencias necesarias para prevenir y controlar dichas situaciones, conjunta o separadamente con la Dirección y la UOMPROCI.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1170.
 
-Se consideran como Medidas de Seguridad las disposiciones que dicte la Dirección o la Unidad Operativa Municipal de Protección Civil, encaminadas a prevenir, reducir y/o evitar la pérdida de vidas, lesiones o daños en bienes o personas que puedan causar las instalaciones, edificaciones, construcciones, obras, trabajos o acciones que ejecuten personas físicas o morales, sean públicas o privadas.
+Se consideran como Medidas de Seguridad las disposiciones que dicte la Dirección y/o la UOMPC, así como las acciones tendientes a prevenir, reducir y/o evitar la pérdida de vidas, lesiones o daños en bienes o personas que puedan causar las instalaciones, edificaciones, construcciones, obras, trabajos o acciones que ejecuten personas físicas o morales, sean públicas o privadas que se realicen en contravención a la Ley de Desarrollo Urbano Sustentable del Estado de Puebla, los Programas de Desarrollo Urbano Sustentable y este Código.
+
+Las medidas preventivas de seguridad serán de inmediata ejecución, tienen carácter temporal, preventivo o correctivo y se aplican sin perjuicio de las sanciones que en su caso correspondan.
 
 ###### Artículo 1171.
 
@@ -16425,9 +17017,9 @@ V. Prohibición de actos de utilización, en edificaciones, obras, predios, cons
 
 VI. La demolición de edificaciones, obras, construcciones o instalaciones riesgosas; y
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
-VII. Las demás medidas urgentes de seguridad que previo dictamen, señale la UOMPROCI y la Dirección en forma autónoma o coordinada.
+VII. Las demás medidas urgentes de seguridad que previo dictamen señale la UOMPC y la Dirección, en forma autónoma o coordinada con cualquier otra Dependencia o Entidad Paraestatal.
 
 DE LAS SANCIONES
 
@@ -16489,31 +17081,35 @@ De la clausura se levantará acta circunstanciada, ante dos testigos, designados
 
 El estado de clausura temporal o suspensión de trabajos, cuando proceda en términos del artículo anterior, no se levantará hasta en tanto no se realicen las correcciones técnicas ordenadas y se hayan pagado los derechos y multas derivadas de las infracciones cometidas.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 1178.
 
-Las clausuras o suspensión de trabajos, podrán abarcar la totalidad del predio, edificación, construcción, instalación o inmueble, o la parte correspondiente que infracciones (sic) las disposiciones de este Capítulo, asimismo, las clausuras y la suspensión de trabajos podrán tener carácter de temporales o definitivas.
+Las clausuras o suspensión de trabajos, podrán abarcar la totalidad del predio, edificación, construcción, instalación o inmueble, o la parte correspondiente que infrinjan las disposiciones de este Capítulo, asimismo, las clausuras y la suspensión de trabajos podrán tener carácter de temporales o definitivas.
 
 SANCIONES PECUNIARIAS
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 1179.
 
-Se impondrán sanciones por el incumplimiento a los artículos que a continuación se mencionan y según los siguientes criterios:
+Se impondrán sanciones por el incumplimiento a los artículos que a continuación se mencionan:
 
-I. Artículos 1107, 1113 y 1115, instalación del equipo necesario y multa del doble del mismo costo;
+l. Artículos 1107, 1113 y 1115, la instalación del equipo necesario y multa por el doble del mismo costo;
 
-II. Artículos 1108 y 1109, clausura de la obra hasta obtener la autorización correspondiente y multa del 3% del costo del total del inmueble;
+II. Artículos 1108 y 1109, la clausura de la obra y multa del 3% del costo del total del inmueble;
 
-III. Artículos 1110, 1111 y 1112, clausura del inmueble hasta ser renovada su autorización y multa equivalente a cien salarios mínimos vigentes en la región;
+III. Artículos 1110, 1111 y 1112, la clausura del inmueble y multa equivalente a cien salarios mínimos vigentes en la región;
 
-IV. Artículo 1113, cumplimiento inmediato y multa equivalente a diez salarios mínimos vigentes en la región; y
+IV. Artículo 1113, el cumplimiento inmediato y multa equivalente a diez salarios mínimos vigentes en la región;
 
-V. Artículo 1114, multa equivalente a 50 salarios mínimos vigentes en la región.
+V. Artículo 1114, la multa equivalente a 50 salarios mínimos vigentes en la región.
 
-El Ayuntamiento, a través de la Dirección, sancionará a los propietarios, a los Directores Responsables de Obra o Corresponsables y a quienes resulten responsables de las infracciones comprobadas, en las visitas de inspección a que se refiere este apartado, las sanciones no eximen al infractor de la obligación de corregir las irregularidades que hayan dado motivo al levantamiento de la infracción.
+La Dirección, sancionará a los propietarios, a los Peritos Directores Responsables de Obra o Corresponsables y a quienes resulten responsables de las infracciones comprobadas, en las visitas de inspección a que se refiere este apartado. Las sanciones no eximen al infractor de la obligación de corregir las irregularidades que hayan dado motivo al levantamiento de la infracción.
 
-I. SANCIONES A LOS DIRECTORES RESPONSABLE DE OBRA, A LOS PROPIETARIOS Y/O POSEEDORES: Se sancionará a los Directores Responsables de Obra, a los propietarios y/o poseedores, en los siguientes términos:
+VI. SANCIONES A LOS PERITOS DIRECTORES RESPONSABLE (SIC) DE OBRA, A LOS PROPIETARIOS Y/O POSEEDORES: Se sancionará a los Peritos Directores Responsables de Obra, a los propietarios y/o poseedores, en los siguientes términos:
 
-a). Multa de 20 a 30 veces el salario mínimo general en el Municipio:
+a) Multa de 20 a 30 veces el salario mínimo general en el Municipio:
 
 1. Cuando en una obra en proceso no muestre o no se exhiban los documentos, planos, licencia, bitácora correspondiente a solicitud del inspector supervisor de la Dirección.
 
@@ -16523,15 +17119,15 @@ a). Multa de 20 a 30 veces el salario mínimo general en el Municipio:
 
 4. Cuando no se dé aviso de terminación de las obras dentro de los 20 días naturales posteriores al vencimiento de la licencia correspondiente.
 
-b). De 60 a 80 veces el salario mínimo general en el Municipio.
+b) De 60 a 80 veces el salario mínimo general en el Municipio.
 
-1. Cuando el Director Responsable de Obra no asista, por más de 4 semanas consecutivas, a la obra, sin justificación en bitácora.
+1. Cuando el Perito Director Responsable de Obra no asista, por más de 4 semanas consecutivas, a la obra, sin justificación en bitácora.
 
-2. Por retiro de sellos de las obras clausuradas.
+2. Por retiro o violación de sellos de las obras clausuradas.
 
 3. Cuando en una obra no se respeten las previsiones contra incendios contenidas en el presente Capítulo.
 
-c). Multa de 10 a 20 tantos el importe de los derechos de la licencia:
+c) Multa de 10 a 20 tantos el importe de los derechos de la licencia:
 
 1. Cuando se estén realizando obras o instalaciones sin haber obtenido previamente la licencia respectiva.
 
@@ -16541,27 +17137,47 @@ c). Multa de 10 a 20 tantos el importe de los derechos de la licencia:
 
 4. Cuando se tiendan redes o instalaciones aéreas y/o subterráneas sin la autorización o licencia correspondiente.
 
-d). Multa de 20 a 30 tantos de los importes de la licencia:
+d) Multa de 20 a 30 tantos de los importes de la licencia:
 
 Cuando realicen excavaciones que afecten la estabilidad del propio inmueble o de las construcciones de predios vecinos o de la vía pública.
 
-e). Multa de 100 a 150 veces el salario mínimo general en el Municipio.
+e) Multa de 100 a 150 veces el salario mínimo general en el Municipio:
 
 Cuando para obtener la expedición de licencias de construcción o durante la construcción o uso del inmueble se hayan presentado documentos falsos, independientemente de la pena que por la comisión de ese delito corresponda.
 
-II. SANCIONES ESPECÍFICAS PARA DIRECTORES RESPONSABLES DE OBRA:
+VII. SANCIONES ESPECÍFICAS PARA PERITOS DIRECTORES RESPONSABLES DE OBRA:
 
-a). Multa de hasta 150 veces el salario mínimo general en el Municipio:
+a) Multa de hasta 150 veces el salario mínimo general en el Municipio:
 
-1. Cuando en la construcción o demolición de obras o para llevar a cabo excavaciones usen explosivos, sin la previa autorización de la autoridad competente y habiendo informado lo correspondiente a la Dirección con cuando menos 7 días hábiles de anticipación.
+1. Cuando en la construcción o demolición de obras o para llevar a cabo excavaciones usen explosivos, sin la previa autorización de la autoridad competente y habiendo informado lo correspondiente a la Dirección cuando menos siete días hábiles de anticipación.
 
 2. Cuando en una obra no se tomen las medidas necesarias, para proteger la vida y salud de los trabajadores y de los bienes a terceros.
 
-3. Cuando se violen sellos de clausura, colocados por la Dirección. En este caso además de la sanción pecuniaria, se impondrán al infractor de 4 meses de suspensión como Director Responsable de Obra.
+3. Cuando se violen sellos de clausura, colocados por la Dirección. En este caso además de la sanción pecuniaria, se impondrán al infractor de 4 meses de suspensión como Perito Director Responsable de Obra.
 
-III. SANCIONES EN CASO DE REINCIDENCIA: Al infractor reincidente se le aplicará el triple de la sanción que le hubiere sido impuesta originalmente.
+VIII. SANCIONES EN CASO DE REINCIDENCIA: Al infractor reincidente se le aplicará en tres tantos más la sanción que le hubiere sido impuesta por primera vez.
 
 Se considera reincidente al infractor que incurre en otra falta igual a aquella por la que hubiere sido sancionado con anterioridad, durante la ejecución de la misma obra.
+
+IX. SANCIONES PARA PERITOS DIRECTORES RESPONSABLES DE OBRA Y CORRESPONSABLES:
+
+En los supuestos establecidos en el artículo 676 de este Código Reglamentario:
+
+a) Amonestación por escrito al Perito Director Responsable de Obra o Corresponsable, cuando sin causar situaciones que pongan en peligro la vida de las personas y/o los bienes, independientemente de la reparación del daño, así como de la responsabilidad derivada de procesos de índole civil o penal;
+
+b) Suspensión temporal por dos años del registro de Perito Director Responsable de Obra o Corresponsables, según sea el caso, cuando las infracciones que cometan no pongan en peligro la vida de las personas y/o los bienes, independientemente de la reparación del daño, así como de la responsabilidad derivada de procesos de índole civil o penal, cuando:
+
+1. Se modifique la obra o instalación sin apegarse a las condiciones de la licencia de construcción, sea para obra pública o privada.
+
+2. Se acumulen dos amonestaciones en un mismo año.
+
+c) Cancelación del registro de Perito Director Responsable de Obra o Corresponsable, independientemente de la reparación del daño, así como de la responsabilidad derivada de procesos de índole civil o penal, cuando:
+
+1. No cumplan con las disposiciones del presente Capítulo y se causen situaciones que pongan en peligro la vida de las personas o bienes; y
+
+2. Hayan obtenido el registro de Peritos Directores Responsables de Obra o Corresponsables, presentando datos falsos, documentos apócrifos o información errónea o alterada.
+
+En los casos de cancelación del registro, la CAAPDROC no otorgará al infractor un nuevo registro en ninguna de las especialidades señaladas en el presente capítulo.
 
 ###### Artículo 1180.
 
@@ -16585,6 +17201,24 @@ I. Se hayan otorgado en franca contravención a las normas de zonificación cont
 
 II. Se haya dado con base en informaciones o documentos falsos o erróneos.
 
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+###### Artículo 1182 Bis.
+
+La revocación se sujetará al siguiente procedimiento:
+
+I. Cuando la Dirección tenga conocimiento de cualquiera de las causas señaladas en el artículo anterior, iniciará el procedimiento mediante acuerdo escrito, el que deberá estar fundado y motivado técnica y legalmente;
+
+II. Dicho acuerdo se notificará al propietario, poseedor o responsable de la construcción, concediéndole un plazo de cinco días hábiles contados a partir de la fecha de notificación, a efecto de que comparezca a hacer valer lo que a su interés convenga, y a ofrecer las pruebas que estime necesarias.
+
+En caso de no comparecer, se le tendrá por consentidas las causas que se le atribuyen y se resolverá en definitiva.
+
+III. Las pruebas que ofrezca el interesado deberán desahogarse, en un término que no exceda de diez días hábiles, a partir de su ofrecimiento;
+
+IV. Dentro de los cinco días hábiles siguientes de transcurrido el término probatorio, la Dirección resolverá en definitiva sobre la revocación; y
+
+V. Dicha resolución, deberá ser notificada personalmente al interesado.
+
 ###### Artículo 1183.
 
 La Dirección podrá ordenar la demolición de obras, en proceso o terminadas:
@@ -16599,11 +17233,11 @@ La interpretación del presente Capítulo corresponde al Presidente Municipal, p
 
 DE LA ZONA DE MONUMENTOS DE LA CIUDAD DE PUEBLA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1185.
 
-Para efecto de protección, mejoramiento y custodia de la Zona de Monumentos de la Ciudad de Puebla, la Dirección de Gestión deberá:
+Para efecto de protección, mejoramiento y custodia de la Zona de Monumentos de la Ciudad de Puebla, la Dirección deberá:
 
 I. Establecer y definir el conjunto de normas técnicas, funciones, procedimientos y responsabilidades del Ayuntamiento, en la conservación (protección y preservación) del patrimonio cultural; así como la conservación y mejoramiento de la imagen y fisonomía urbana y comunicación de los espacios y elementos urbanos del Centro Histórico;
 
@@ -16627,7 +17261,9 @@ IX. Normar el otorgamiento de permisos y licencias;
 
 X. Determinar las sanciones correspondientes por violaciones a este apartado; y
 
-XI. Normar la participación de los directores responsables y corresponsables de obra que intervengan en la zona.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+XI. Normar la participación de los Peritos Directores Responsables de Obra y Corresponsables que intervengan en la Zona de Monumentos.
 
 ###### Artículo 1186.
 
@@ -16705,29 +17341,29 @@ c) Inmuebles contemporáneos fuera de contexto histórico e imagen urbana.
 
 d) Las plazas, calles y jardines.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1188.
 
-El patrimonio cultural inmueble de la zona de monumentos, comprende, tanto a los monumentos catalogados como a los históricos no catalogados de los siglos XVI al XIX y los modelos arquitectónicos representativos de la arquitectura del siglo XX como son Art Nouveau, Art Decó, Neocolonial y Neocaliforniano, Funcionalista y Orgánico; en los que las intervenciones estarán determinadas por el estado de deterioro que presenten y sus posibilidades de uso, mismas que serán supervisadas y aprobadas por la Dirección de Gestión con el objeto de conservarlos o recuperarlos con propuestas de actualización. Los criterios de intervención para cada uno de los inmuebles se establecerán sobre el plano base de unidades mínimas de intervención, asignando criterios para cada uno de los inmuebles.
+El patrimonio cultural de inmuebles de la Zona de Monumentos, comprende, tanto a los monumentos catalogados como a los históricos no catalogados de los siglos XVI al XIX y los modelos arquitectónicos representativos de la arquitectura del siglo XX como son Art Nouveau, Art Decó, Neocolonial y Neocaliforniano, Funcionalista y Orgánico; en los que las intervenciones estarán determinadas por el estado de deterioro que presenten y sus posibilidades de uso, mismas que serán supervisadas y aprobadas por la Dirección con el objeto de conservarlos o recuperarlos con propuestas de actualización. Los criterios de intervención para cada uno de los inmuebles se establecerán sobre el plano base de unidades mínimas de intervención, asignando criterios para cada uno de los inmuebles.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1189.
 
-La Dirección de Gestión es la dependencia municipal coordinadora y la autoridad responsable de los procedimientos para expedir dictámenes, autorizaciones y licencias previstos en este apartado, así como para ejecutar sus resoluciones e imponer sanciones en el ámbito de su competencia.
+La Dirección es la dependencia municipal coordinadora y la autoridad responsable de los procedimientos para expedir dictámenes, autorizaciones y licencias previstos en este apartado, así como para ejecutar sus resoluciones e imponer sanciones en el ámbito de su competencia.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1190.
 
-Para la realización de cualquier tipo de obra de conservación, restauración, construcción, adecuación, excavación, cimentación, demolición o colocación de anuncios en los inmuebles y área urbana de la zona, se requerirá de la autorización y licencia correspondiente, emitidas por la Dirección de Gestión, independientemente de las que corresponda al INAH otorgar.
+Para la realización de cualquier obra de conservación, restauración, construcción, adecuación, excavación, cimentación, demolición o colocación de anuncios en los inmuebles y área urbana de la zona, se requerirá de la autorización y licencia correspondiente, emitidas por la Dirección, independientemente de las que corresponda al INAH otorgar.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1191.
 
-Para los (sic) protección, conservación y mejoramiento de la Zona de monumentos, la Dirección de Gestión tendrá las siguientes facultades:
+Para la protección, conservación y mejoramiento de la Zona de Monumentos, la Dirección tendrá las siguientes facultades:
 
 I. Fijar los requisitos técnicos a que deberán sujetarse las construcciones e instalaciones en predios y vías públicas a fin de que se satisfagan las condiciones de habitabilidad, seguridad, comodidad y buen aspecto, y se protejan los valores históricos y artísticos;
 
@@ -16739,7 +17375,9 @@ IV. Otorgar o negar licencias y permisos para la ejecución de las obras y el us
 
 V. Proporcionar asesoría a quien lo solicite;
 
-VI. Llevar un registro calificado de directores responsables de obras y corresponsables;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
+
+VI. Llevar un registro calificado de Peritos Directores Responsables de Obras y Corresponsables;
 
 VII. Realizar Inspecciones en las obras en proceso de ejecución o terminadas;
 
@@ -16759,19 +17397,21 @@ DE LAS FUSIONES Y DIVISIONES
 
 Podrá solicitar la fusión o división de predios, la persona física o moral que acredite ser su legítima propietaria, acompañando a su solicitud copias de los títulos de propiedad correspondientes.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1193.
 
-La Dirección de Gestión otorgará o negará, según sea el caso, las autorizaciones de fusión o división de los predios de (sic) considerando el objeto que se persigue con la fusión o división, así como las características del predio.
+La Dirección otorgará o negará, según sea el caso, las autorizaciones de fusión o división de los predios, considerando el objeto que se persigue con la fusión o división, así como las características del predio.
 
 ###### Artículo 1194.
 
 Cuando un inmueble ubicado en la zona de monumentos se divida, se deberá establecer el régimen de condominio como condicionante para conservar el inmueble y evitar su destrucción o pérdida de sus características.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
 ###### Artículo 1195.
 
-No se permitirá dentro de la zona la subdivisión física, sea con muros, bardas o enrejados, en dos o más partes, de los inmuebles considerados monumentos artísticos o históricos, cuando su concepción original haya sido unitaria, conservando sus características arquitectónicas y prediales originales.
+No se permitirá dentro de la Zona de Monumentos la subdivisión física, sea con muros, bardas o enrejados, en dos o más partes, de los inmuebles considerados monumentos artísticos o históricos, cuando su concepción original haya sido unitaria, conservando sus características arquitectónicas y prediales originales.
 
 ###### Artículo 1196.
 
@@ -16779,15 +17419,17 @@ En caso de que el inmueble haya sido objeto de divisiones y subdivisiones, afect
 
 DE LAS OBRAS DE CONSERVACIÓN DE LA ZONA
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1197.
 
-Las intervenciones en los inmuebles comprendidos dentro de la Zona, estarán determinadas por el estado de deterioro que presenten y sus posibilidades de uso, mismas que serán supervisadas y aprobadas por la Dirección de Gestión, dentro del ámbito de su competencia, con el objeto de conservarlos o recuperarlos con propuestas de actualización.
+Las intervenciones en los inmuebles comprendidos dentro de la Zona de Monumentos, estarán determinadas por el estado de deterioro que presenten y sus posibilidades de uso, mismas que serán supervisadas y aprobadas por la Dirección, dentro del ámbito de su competencia, con el objeto de conservarlos o recuperarlos con propuestas de actualización.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1198.
 
-En los inmuebles localizados en la zona, a los que se refiere el artículo 1200, podrán autorizarse intervenciones dentro de los siguientes parámetros:
+En los inmuebles localizados en la Zona de Monumentos, a los que se refiere el artículo 1200, podrán autorizarse intervenciones dentro de los siguientes parámetros:
 
 I. Intervención en fachadas:
 
@@ -16795,9 +17437,9 @@ a) Podrán realizarse las siguientes obras o elementos en fachadas:
 
 1. Los portones de acceso para vehículos podrán incluir una puerta proporcionada para el paso de peatones, en cualquiera de las hojas, las que serán de madera y diseño acorde.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-2. Apertura de vanos cuando se trate de restablecer huecos cegados, cuando con base a la normativa de la Dirección de Gestión, no altere la composición o la estructura de la fachada.
+2. Apertura de vanos cuando se trate de restablecer huecos cegados, cuando con base a la normativa de la Dirección, no altere la composición o la estructura de la fachada.
 
 3. Los elementos de carpintería y herrería en los vanos como son puertas, ventanas, aparadores y cualquier otro elemento similar, deberán situarse a paño de muro de fachada.
 
@@ -16849,9 +17491,9 @@ a) En las cubiertas podrán autorizarse las siguientes obras:
 
 b) No es permisible realizar las siguientes obras en cubiertas:
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-1. Construcciones o instalaciones en azoteas que sean visibles desde la calle, tales como: jardineras, terrazas o balcones, instalaciones para tanques de gas, antenas, elementos emisores y receptores de centrales de radio, televisión o teléfono, jaulas para tendederos, cuartos de servicio, bodegas o cualquier elemento que altere el perfil de las fachadas, permitiéndose sólo cuando se encuentren fuera del campo visual del conjunto urbano, previa autorización de la Dirección de Gestión.
+1. Construcciones o instalaciones en azoteas que sean visibles desde la calle, tales como: jardineras, terrazas o balcones, instalaciones para tanques de gas, antenas, elementos emisores y receptores de centrales de radio, televisión o teléfono, jaulas para tendederos, cuartos de servicio, bodegas o cualquier elemento que altere el perfil de las fachadas, permitiéndose sólo cuando se encuentren fuera del campo visual del conjunto urbano, previa autorización de la Dirección.
 
 2. Agregar otro nivel o cualquier tipo de construcciones en las azoteas, así como techar los patios con cubiertas no reversibles de manera parcial o total, o agregar entrepisos en alturas originales.
 
@@ -16859,9 +17501,9 @@ c) Podrán autorizarse las siguientes obras con relación a la proporción, rein
 
 1. Reparaciones o modificaciones tendientes a mejorar las condiciones de estabilidad, salubridad, ventilación y soleamiento existentes o tendientes a restablecer composiciones, distribuciones o estructuras arquitectónicas históricas que están deterioradas o alteradas.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-2. Construcción de un nivel adicional, en el caso de edificios de contexto urbano, excesivamente bajo con relación a las construcciones vecinas, lo cual se hará dentro de las limitaciones establecidas, según proyecto aprobado por la Dirección de Gestión.
+2. Construcción de un nivel adicional, en el caso de edificios de contexto urbano, excesivamente bajo con relación a las construcciones vecinas, lo cual se hará dentro de las limitaciones establecidas, según proyecto aprobado por la Dirección.
 
 3. Eliminación de agregados o volúmenes de construcciones recientes sin valor histórico, cuando éstos alteran la estructura o la composición del inmueble de la Zona de Monumentos.
 
@@ -16875,9 +17517,9 @@ d) No es permisible realizar Proyectos de restauración o adecuación, cuando ca
 
 e) Podrán autorizarse las siguientes obras en los elementos de paramentos, recubrimientos y pisos:
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-1. Consolidación, o la operación que la Dirección de Gestión considere adecuada, en el caso de aplanados o fragmentos dañados o desprendidos de los paramentos.
+1. Consolidación o la operación que la Dirección considere adecuada, en el caso de aplanados o fragmentos dañados o desprendidos de los paramentos.
 
 2. La limpieza de los paramentos de cantería y los elementos de recubrimiento tradicionales de la arquitectura poblana, tales como azulejo, ladrillo o estuco, con cepillo de raíz y lavado de agua y jabón neutro no iónico.
 
@@ -16885,9 +17527,11 @@ e) Podrán autorizarse las siguientes obras en los elementos de paramentos, recu
 
 4. Consolidación, o en su caso sustitución de piezas de cantería pintada, decorada, o especialmente trabajadas, previa la presentación de un estudio especial, para su autorización correspondiente.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE JUNIO DE 2012)</small>
+
 5. Consolidación o la operación que la Dirección de Desarrollo Urbano considere adecuada, en el caso de aplanados o fragmentos dañados o desprendidos de los paramentos.
 
-6.Reposición de aplanados en paños de muro, en donde existían y fueron retirados; los aplanados en sus distintas capas, deberán hacerse con mezclas de cal y arena fina, no con cemento, y deberán hacerse con llana de madera, evitando las superficies acabadas a plomo y regla, acordes a las características del contexto y fisonomía urbana.
+6. Reposición de aplanados en paños de muro, en donde existían y fueron retirados; los aplanados en sus distintas capas, deberán hacerse con mezclas de cal y arena fina, no con cemento, y deberán hacerse con llana de madera, evitando las superficies acabadas a plomo y regla, acordes a las características del contexto y fisonomía urbana.
 
 f) No se autoriza la realización de obras en los elementos de paramentos, recubrimientos y pisos, en los siguientes casos:
 
@@ -16897,7 +17541,9 @@ f) No se autoriza la realización de obras en los elementos de paramentos, recub
 
 3. Los revestimientos de materiales vidriados, metálicos, cemento, plástico, piedra laminada, ni de otros materiales incongruentes con el carácter histórico de la zona de monumentos.
 
-g) El escombro, producto de las obras que se realicen en la Zona, deberá retirarse de la vía pública en un plazo no mayor a 48 horas a partir del momento de la notificación de retiro del mismo.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+
+g) El escombro, producto de las obras que se realicen en la Zona de Monumentos, deberá retirarse de la vía pública en un plazo no mayor a 48 horas a partir del momento de la notificación de retiro del mismo.
 
 ###### Artículo 1199.
 
@@ -16913,17 +17559,17 @@ d) Dotación del equipamiento e infraestructura necesarios para lograr la recupe
 
 DE LAS NUEVAS CONSTRUCCIONES, VOLÚMENES Y ALINEAMIENTOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1200.
 
-No podrá realizarse dentro de la Zona de Monumentos ninguna obra nueva, arquitectónica o urbana sin la debida autorización del INAH y de la Dirección de Gestión, debiendo además observarse lo siguiente:
+No podrá realizarse dentro de la Zona de Monumentos ninguna obra nueva, arquitectónica o urbana sin la debida autorización del INAH y de la Dirección, debiendo además observarse lo siguiente:
 
 I. La traza urbana no debe ser alterada, por nuevas edificaciones, por nuevas vialidades, y por ningún motivo se alterará la traza original de la ciudad, salvo en los casos en que se recupere la misma. Toda obra pública o privada que incida en cualquiera de los componentes de la fisonomía urbana, deberá dejarlos en buen estado y libres de escombro; para tal efecto se observará lo siguiente:
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-a) La Dirección de Gestión, podrá requerir o autorizar que se realicen construcciones o bardas con el fin de restituir alineamientos de la traza histórica que haya sido modificada.
+a) La Dirección, podrá requerir o autorizar que se realicen construcciones o bardas con el fin de restituir alineamientos de la traza histórica que haya sido modificada.
 
 b) Se restituirá hasta donde sea posible el espacio libre destinado a patios, jardines o huertos, en el interior de los edificios y predios.
 
@@ -16943,9 +17589,9 @@ b) Los nuevos volúmenes que se construyan dentro del perímetro de la Zona de M
 
 c) La arquitectura de integración buscará una mayor armonía y diálogo formal con el conjunto, sin negar la contemporaneidad de la nueva intervención, tanto de la obra de conservación, como de la nueva arquitectura.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-d) Cuando la nueva construcción se inscriba dentro del campo visual de algún monumento, el nuevo edificio deberá someterse a la supervisión y autorización de la Dirección de Gestión. La altura de las nuevas edificaciones no deberá alterar el perfil o silueta del paisaje urbano de la Zona de Monumentos.
+d) Cuando la nueva construcción se inscriba dentro del campo visual de algún monumento, el nuevo edificio deberá someterse a la supervisión y autorización de la Dirección. La altura de las nuevas edificaciones no deberá alterar el perfil o silueta del paisaje urbano de la Zona de Monumentos.
 
 e) Las cubiertas y azoteas deberán ser planas, con una pendiente inferior al 5%, y con el pretil horizontal y recto, en el caso de cúpulas y bóvedas, la pendiente podrá ser mayor.
 
@@ -16953,15 +17599,15 @@ f) En el caso de los predios ya ocupados por alguna construcción o baldíos en 
 
 g) La relación de entrepisos entre la obra nueva y los monumentos o inmuebles del entorno deberá ser semejante.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-h) En el área de uso determinada en los planos autorizados por la Dirección de Gestión, deberá conservar al menos un 40% del área ajardinada.
+h) En el área de uso determinada en los planos autorizados por la Dirección, deberá conservar al menos un 40% del área ajardinada.
 
 i) La relación entre vanos y macizos para propuestas de obra nueva será la que predomine en las fachadas de las construcciones históricas de ésa calle, y los vanos deberán ser de proporción vertical, excluyéndose las ventanas tipo tronera con mixtilíneas.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-j) Se autorizará para el acceso de vehículo, en las nuevas construcciones, un solo portón, de no más de dos metros ochenta centímetros de ancho, y su altura deberá ser por lo menos igual a los cerramientos de las ventanas, y no deberá sobrepasar los cerramientos de los portones de los edificios históricos vecinos. Para predios de más de veinte metros de frente, podrán autorizarse dos portones separados, previa autorización del INAH y la Dirección de Gestión.
+j) Se autorizará para el acceso de los vehículos, en las nuevas construcciones, un solo portón, de no más de dos metros ochenta centímetros de ancho, y su altura deberá ser por lo menos igual a los cerramientos de las ventanas, y no deberá sobrepasar los cerramientos de los portones de los edificios históricos vecinos. Para predios de más de veinte metros de frente, podrán autorizarse dos portones separados, previa autorización del INAH y la Dirección.
 
 k) En el caso de inmuebles específicamente dedicados a estacionamientos, se podrán autorizar dos vanos para acceso y salida de vehículos, de no más de dos metros ochenta centímetros de ancho, en función de cada proyecto, en particular predominando el macizo sobre el vano.
 
@@ -16973,9 +17619,9 @@ n) Las fachadas de las nuevas edificaciones deberán ser proyectadas tomando en 
 
 o) El criterio respecto a la volumetría será el que permita una configuración urbana homogénea, en concordancia con los edificios existentes.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-p) Los edificios nuevos ya realizados, de altura superior al promedio de los existentes en la Zona de Monumentos, no justificarán la solicitud de levantar edificios de altura superior al promedio existente, sujetándose a revisión de la Dirección de Gestión.
+p) Los edificios nuevos ya realizados, de altura superior al promedio de los existentes en la Zona de Monumentos, no justificarán la solicitud de levantar edificios de altura superior al promedio existente, sujetándose a revisión de la Dirección.
 
 q) Se podrán construir niveles adicionales en edificios contemporáneos siempre y cuando la altura resultante no rebase a la de los monumentos o edificios ni la del perfil general del entorno.
 
@@ -16987,17 +17633,17 @@ t) Las cornisas, balcones y rejas de ventanas no deberán sobresalir del paño d
 
 u) Las instalaciones y los servicios deberán quedar ocultos desde cualquier ángulo visual del entorno.
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
-III. Se requerirá la autorización previa de la Dirección de Gestión, para efectuar retiro o liberaciones parciales, tanto de elementos en el interior, como en fachadas o volúmenes hacia la vía pública. También se requerirá de la autorización correspondiente, en caso de que sea necesario liberar algún elemento agregado que no sea original del inmueble histórico, y cuya liberación sea benéfica para la revalorización del mismo;
+III. Se requerirá la autorización previa de la Dirección, para efectuar retiro o liberaciones parciales, tanto de elementos en el interior, como en fachadas o volúmenes hacia la vía pública. También se requerirá de la autorización correspondiente, en caso de que sea necesario liberar algún elemento agregado que no sea original del inmueble histórico, y cuya liberación sea benéfica para la revalorización del mismo.
 
 IV. Las antenas y elementos emisores o receptores de centrales de radio, televisión y teléfono, deberán situarse fuera de la Zona de Monumentos Históricos, en puntos retirados de edificios y conjuntos históricos, y cuando ya existan estas instalaciones en el interior de dicha zona, no se permitirá su ampliación y se fomentará su reubicación fuera de la zona;
 
 V. Toda obra colindante con un monumento histórico quedará sujeta al estudio y análisis de posibles perjuicios estructurales que pudiera causarle, y
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2012)</small>
 
-VI. Un inmueble o parte del mismo se podrá demoler dentro de la Zona, previa autorización de la Dirección de Gestión con base en el dictamen que emita la Subdirección de Planeación. En el caso de monumentos históricos catalogados deberán también contar con la autorización del INAH.
+VI. Un inmueble o parte del mismo se podrá demoler dentro de la Zona de Monumentos, previa autorización de la Dirección con base en el dictamen que emita la Subdirección de Planeación. En el caso de monumentos históricos catalogados deberán también contar con la autorización del INAH.
 
 DEL TRATAMIENTO URBANO DE LA ZONA
 
@@ -17007,33 +17653,33 @@ Todo lo relacionado con el mantenimiento y conservación de la vía pública, y 
 
 a) Se privilegiará al peatón sobre los vehículos, buscando dar mayores facilidades a los primeros.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-b) La Dirección de Gestión podrá determinar las formar físicas y los diseños de la nomenclatura oficial.
+b) La Dirección podrá determinar las formas físicas y los diseños de la nomenclatura oficial.
 
 c) La nomenclatura de las calles y plazas se considera de valor patrimonial, por lo que cualquier modificación deberá ser encaminada a recuperar alguno de sus nombres anteriores, de preferencia el más significativo.
 
 d) Se procurará conservar la nomenclatura existente que contiene los nombres históricos de las calles y avenidas.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-e) Se podrán realizar o reparar los pavimentos de las banquetas, arroyo de calles o plazas, después de autorizarse los proyectos correspondientes por la Dirección de Gestión con el objeto de mantener la armonía del conjunto urbano y arquitectónico.
+e) Se podrán realizar o reparar los pavimentos de las banquetas, arroyo de calles o plazas, después de autorizarse los proyectos correspondientes por la Dirección con el objeto de mantener la armonía del conjunto urbano y arquitectónico.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-f) La colocación de pavimentos, sean éstos nuevos o de restitución, deberán realizarse sin alterar los accesos de los inmuebles; asimismo deberán acatar las disposiciones de la Dirección de Gestión, respecto de los niveles de pavimentos y banquetas y se promoverá la colocación de la pavimentación tradicional, como: piedra laja, piedra bola recortada y otros. Los escalones y rampas de acceso, en caso de ser autorizados, se construirán con el mismo material que el resto de las aceras o banquetas, y no deberán obstaculizar el tránsito de peatones, promoviendo la incorporación de elementos que faciliten el tránsito de personas con capacidades diferenciadas.
+f) La colocación de pavimentos, sean éstos nuevos o de restitución, deberán realizarse sin alterar los accesos de los inmuebles; asimismo deberán acatar las disposiciones de la Dirección, respecto de los niveles de pavimentos y banquetas y se promoverá la colocación de la pavimentación tradicional, como: piedra laja, piedra bola recortada y otros. Los escalones y rampas de acceso, en caso de ser autorizados, se construirán con el mismo material que el resto de las aceras o banquetas, y no deberán obstaculizar el tránsito de peatones, promoviendo la incorporación de elementos que faciliten el tránsito de personas con discapacidad.
 
 g) Se restaurarán los pavimentos de las plazas, calles y andadores, así como el adoquinado y carpeta asfáltica en donde sea necesario para dar la calidad adecuada al tránsito y contribuir a mejorar el ambiente.
 
 h) Se podrá permitir la instalación de elementos móviles, como mesas, sillas o sombrillas y templetes, así como la colocación temporal de puestos o instalaciones tradicionales, únicamente para los festejos cívicos del 1ro de mayo, 5 de mayo, 16 de septiembre, 12 de octubre, y 20 de noviembre, que se instalarán la víspera y el día de la celebración, y en el caso de las fiestas patronales, se aplicará la misma disposición, que en ningún momento podrán ser actividades de comercio informal que afecta o compita deslealmente con los comercios establecidos en la Zona, contando para su instalación, con el permiso temporal correspondiente de acuerdo a las disposiciones legales vigentes y emitido por la Autoridad Municipal.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-i) Los proyectos de jardinería, pavimentación, urbanización, alumbrado público, mobiliario urbano y ornato que se realicen en la Zona de Monumentos, deberán ser autorizados por la Dirección de Gestión.
+i) Los proyectos de jardinería, pavimentación, urbanización, alumbrado público, mobiliario urbano y ornato que se realicen en la Zona de Monumentos, deberán ser autorizados por la Dirección;
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-j) Las áreas verdes públicas en la Zona de Monumentos, se conservarán como tales y será necesaria la autorización de la Dirección de Gestión para modificarlas.
+j) Las áreas verdes públicas en la Zona de Monumentos, se conservarán como tales y será necesaria la autorización de la Dirección para modificarlas.
 
 k) Las plazas y áreas verdes de relevancia histórica deberán conservarse, solamente se permitirán en éstas el uso y destino que no las afecte.
 
@@ -17051,19 +17697,19 @@ q) No se permitirá dentro de las plazas públicas, la construcción de edificio
 
 r) No se autorizarán instalaciones fijas de mobiliario y equipo, que sean extensiones de edificios al exterior de los mismos, adosadas o separadas de ellos.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-s) No se permitirá la colocación de altares sobre los paramentos de las fachadas de las edificaciones, salvo autorización de la Dirección de Gestión.
+s) No se permitirá la colocación de altares sobre los paramentos de las fachadas de las edificaciones, salvo autorización de la Dirección.
 
 ###### Artículo 1202.
 
 Los propietarios y los poseedores de los inmuebles de la zona, en forma solidaria, son responsables de dar el mantenimiento necesario, rescatar y conservar dichos inmuebles.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1203.
 
-Los propietarios y los poseedores de los inmuebles ubicados dentro de la zona, al dar mantenimiento a los inmuebles, deberán pintarlos de acuerdo a la gama de colores autorizados por la Dirección de Gestión, bajo los siguientes lineamientos:
+Los propietarios y los poseedores de los inmuebles ubicados dentro de la Zona de Monumentos, al dar mantenimiento a los inmuebles, deberán pintarlos, de acuerdo a la gama de colores autorizados por la Dirección, bajo los siguientes lineamientos:
 
 a) Los colores que se utilicen, tanto en los paños de muros visibles desde el exterior, como en los enmarcamientos de vanos, carpintería, herrería, apoyos y elementos de ornato, deberán ajustarse a la gama de colores que se especifican en particular para esta zona de monumentos.
 
@@ -17089,9 +17735,9 @@ k) Los zócalos conservarán preferentemente el color del paramento en que se ub
 
 l) El color de las fachadas de los inmuebles que se construyan, se elegirá tomando en cuenta su integración con los inmuebles colindantes, y buscando la armonía en el conjunto.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-m) La pintura de murales deberá ser sometida a la aprobación de la Dirección de Gestión.
+m) La pintura de murales deberá ser sometida a la aprobación de la Dirección.
 
 n) No se autoriza la aplicación de pintura color blanco en paramentos de fachadas.
 
@@ -17101,9 +17747,9 @@ p) No se permitirá ningún dibujo, figura, alegoría, escudo, rotulación, logo
 
 q) No se autoriza la subdivisión de fachadas de edificios de valor histórico con diversos colores, ni con un solo color varias superficies compuestas por varias construcciones.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-r) Queda prohibido el uso de pintura de aceite para fachadas e interiores, salvo disposición de lo contrario, por escrito de la Dirección de Gestión.
+r) Queda prohibido el uso de pintura de aceite para fachadas e interiores, salvo disposición de lo contrario, por escrito de la Dirección.
 
 ###### Artículo 1204.
 
@@ -17113,11 +17759,11 @@ Las obras de restauración, construcción, modificación o intervención que se 
 
 Por mobiliario urbano deberá entenderse el conjunto de instalaciones muebles utilizadas para prestar servicios urbanos y poder desarrollar las diferentes actividades características de la ciudad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1206.
 
-El mobiliario urbano destinado a las vialidades, plazas, parques y jardines localizados en la Zona de Monumentos, será diseñado buscando la integración al contexto histórico y el máximo aprovechamiento funcional, entre los cuales podrá ser autorizado por la Dirección de Gestión, el siguiente mobiliario:
+El mobiliario urbano destinado a las vialidades, plazas, parques y jardines localizados en la Zona de Monumentos, será diseñado buscando la integración al contexto histórico y el máximo aprovechamiento funcional, entre los cuales podrá ser autorizado por la Dirección, el siguiente mobiliario:
 
 a) Puestos de servicio público
 
@@ -17199,11 +17845,11 @@ III. Intensidades; y
 
 IV. Usos autorizados, prohibidos y condicionados.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1211.
 
-Toda modificación al uso del suelo de la Zona, así como el otorgamiento de los permisos que marque el presente Capítulo de Construcciones, con respecto al uso de suelo de dicha zona, requerirá previamente la autorización de la Dirección de Gestión.
+Toda modificación al uso del suelo de la Zona de Monumentos, así como el otorgamiento de los permisos que marque el presente Capítulo de Construcciones, con respecto al uso de suelo de dicha zona, requerirá previamente la autorización de la Dirección.
 
 ###### Artículo 1212.
 
@@ -17219,9 +17865,9 @@ d) Construcciones que requieran grandes chimeneas, antenas o depósitos visibles
 
 e) La construcción de estacionamientos públicos en edificios catalogados.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-f) Las construcciones o edificios para estacionamientos públicos, sólo podrán ser autorizados después de presentar el proyecto correspondiente, obtener la factibilidad de uso de suelo y la aprobación de la Dirección de Gestión.
+f) Las construcciones o edificios para estacionamientos públicos, sólo podrán ser autorizados después de presentar el proyecto correspondiente, obtener la factibilidad de uso de suelo y la aprobación de la Dirección.
 
 ###### Artículo 1213.
 
@@ -17499,11 +18145,11 @@ h) No se autorizan nuevos estacionamientos en edificios catalogados.
 
 i) No se permitirá el estacionamiento de camiones de carga, mudanzas, autobuses foráneos y suburbanos en las calles o plazas; deberán tener su propio estacionamiento fuera de la Zona de Monumentos y sólo se permitirá el estacionamiento de autobuses escolares y de promoción turística, durante el ascenso y descenso del pasaje.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1229.
 
-Se complementarán las obras de recuperación, con un alumbrado público adecuado en plazas, calles y edificios; suprimiendo éstas donde sea posible, los tendidos aéreos de líneas de Comisión Federal de Electricidad, Teléfonos de México y Televisión por cable, preferentemente bajo la dirección de proyectos de iluminación para los monumentos, coordinadamente con la iluminación pública aprobados por la Dirección de Gestión, bajo los siguientes lineamientos:
+Se complementarán las obras de recuperación, con un alumbrado público adecuado en plazas, calles y edificios; suprimiendo éstas donde sea posible, los tendidos aéreos de líneas de Comisión Federal de Electricidad, Teléfonos de México y Televisión por cable, preferentemente bajo la dirección de proyectos de iluminación para los monumentos, coordinadamente con la iluminación pública aprobados por la Dirección, bajo los siguientes lineamientos:
 
 a) Se hará una revisión integral, de todas las redes, instalaciones eléctricas y cableado de la Zona de Monumentos.
 
@@ -17519,9 +18165,9 @@ d) La iluminación de los anuncios, letreros, aparadores y vitrinas que sean vis
 
 3. En caso de requerirse elementos exteriores, como cables o soportes, éstos deberán ser por su forma, color y colocación poco visibles en el día.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-4. La iluminación para eventos especiales o de temporada deberá ser coordinada por la Dirección de Gestión, para evitar que los elementos de iluminación ocasionen deterioro físico o de percepción en la imagen urbana.
+4. La iluminación para eventos especiales o de temporada deberá ser coordinada por la Dirección, para evitar que los elementos de iluminación ocasionen deterioro físico o de percepción en la imagen urbana.
 
 ###### Artículo 1230.
 
@@ -17577,15 +18223,15 @@ Se autorizará el ingreso de vehículos-cisterna a la Zona para transportar agua
 
 DE LOS TRÁMITES PARA LLEVAR A CABO PROYECTOS DE OBRA EN LA ZONA DE MONUMENTOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1240.
 
-Para el trámite de solicitud de autorización o licencia de cualquier obra regulada en este apartado, el interesado deberá cumplir ante la Dirección de Gestión, con los requisitos establecidos en el presente Capítulo de Construcciones para el Municipio de Puebla, presentado (sic) para tal efecto solicitud de acuerdo a lo siguiente.
+Para el trámite de solicitud de autorización o licencia de cualquier obra regulada en este apartado, el interesado deberá cumplir ante la Dirección, con los requisitos establecidos en el presente Capítulo, presentando para tal efecto solicitud de acuerdo a lo siguiente.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-a) Solicitud en la que se incluya nombre y domicilio del solicitante, del propietario y perito restaurador responsable de la obra, así como su aceptación para la realización de inspecciones por parte de la Dirección de Gestión.
+a) Solicitud en la que se incluya nombre y domicilio del solicitante, del propietario y perito restaurador responsable de la obra, así como su aceptación para la realización de inspecciones por parte de la Dirección.
 
 b) Planta de localización del predio en la manzana correspondiente a escala uno a quinientos, incluyendo número oficial, superficie, linderos e indicaciones de las áreas libres y construidas.
 
@@ -17597,9 +18243,9 @@ e) Fotografías del inmueble: de la fachada e interiores, así como del predio, 
 
 f) Planos del proyecto que incluya: plantas arquitectónicas, alzados, cortes generales y cortes detallados de la fachada a la vía pública, especificando acabados y colores visibles desde el exterior.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
-g) En el caso de construcciones nuevas, la Dirección de Gestión, podrá solicitar estudios de composición y armonía del edificio proyectado y su entorno, estudios de mecánica de suelo, estudios de perfiles urbanos, expresados mediante fotografías y fotomontajes, geometrales y perspectivas. Y cuando el caso lo amerite, se deberá presentar uso del suelo y estudio vial.
+g) En el caso de construcciones nuevas, la Dirección podrá solicitar estudios de composición y armonía del edificio proyectado y su entorno, estudios de mecánica de suelo, estudios de perfiles urbanos, expresados mediante fotografías y fotomontajes, geometrales y perspectivas. Y cuando el caso lo amerite, se deberá presentar uso del suelo y estudio vial.
 
 h) Autorización por parte del INAH.
 
@@ -17655,15 +18301,15 @@ El Ayuntamiento se encargará de gestionar todas aquellas autorizaciones y actos
 
 Todo proyecto de conservación y restauración promovidos por el Gobierno Municipal podrá considerar e incorporar las propuestas ciudadanas que cualquier particular u organización pueda aportar.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1248.
 
-Se concede acción popular a toda persona física para denunciar ante la Dirección de Gestión, la realización de actos que produzcan daño a alguno o varios inmuebles ubicados en la Zona de Monumentos, así como el incumplimiento de cualquiera de las disposiciones señaladas en este Capítulo.
+Se concede acción popular a toda persona física para denunciar ante la Dirección, la realización de actos que produzcan daño a alguno o varios inmuebles ubicados en la Zona de Monumentos, así como el incumplimiento de cualquiera de las disposiciones señaladas en este Capítulo.
 
-Las denuncias deberán presentarse por escrito, telefónicamente o por cualquier otro medio que el H. Ayuntamiento de Puebla establezca para tal efecto y deberán ser atendidas por la Dirección de Gestión, en un plazo no mayor a dos días contados a partir de la fecha de recepción del aviso.
+Las denuncias deberán presentarse por escrito, telefónicamente o por cualquier otro medio que el Ayuntamiento de Puebla establezca para tal efecto y deberán ser atendidas por la Dirección, en un plazo no mayor a dos días contados a partir de la fecha de recepción del aviso.
 
-La Dirección de Gestión avisará por escrito al promovente de las acciones realizadas una vez que hayan sido tomadas.
+La Dirección avisará por escrito al promovente de las acciones realizadas una vez que hayan sido tomadas.
 
 DE LAS SANCIONES
 
@@ -17685,11 +18331,11 @@ Procederá la demolición cuando el propietario o poseedor agregue o construya a
 
 Para la ejecución de cualquiera de estas sanciones, las Autoridades Municipales, podrán solicitar el auxilio de la fuerza pública.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1251.
 
-En caso de que el infractor desee evitar la imposición de la sanción derivada de la violación a cualquiera de los preceptos señalados en el presente apartado, podrá celebrar un convenio de coordinación con el Ayuntamiento, a efecto de realizar las obras que se requieran. Para tal efecto, se acordará un programa de trabajo, mismo que se ejecutará bajo la asesoría de la Dirección de Gestión.
+En caso de que el infractor desee evitar la imposición de la sanción derivada de la violación a cualquiera de los preceptos señalados en el presente apartado, podrá celebrar un convenio de coordinación con el Ayuntamiento, a efecto de realizar las obras que se requieran. Para tal efecto, se acordará un programa de trabajo, mismo que se ejecutará bajo la asesoría de la Dirección.
 
 Si el infractor demuestra fehacientemente que no cuenta con las condiciones económicas para llevar a cabo los trabajos, la autoridad podrá optar, a su entera discreción, por cualquiera de las siguientes opciones:
 
@@ -17901,7 +18547,7 @@ XLV. Zonas Publicitarias: Los Corredores Urbanos CAl (Corredor de Alto Impacto) 
 
 Los conceptos que se definen en el presente artículo se establecen en forma enunciativa, más no limitativa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 1254 Bis.
 
@@ -18009,7 +18655,7 @@ IX. Exhibir fianza expedida por institución debidamente autorizada cuando se tr
 
 > <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
 
-X. Presentar póliza de seguro de responsabilidad civil y daños causados a terceros, cuando se trate de anuncios señalados por las fracciones I, III, V, VI, VII, VIII, X, Xl y XII del artículo 1299, y el inciso e) del tercer párrafo del artículo 1320 del presente ordenamiento;
+X. Presentar póliza de seguro de responsabilidad civil y daños causados a terceros, cuando se trate de anuncios señalados por las fracciones I, III, V, VI, VII, VIII, X, XI y XII del artículo 1299, y el inciso e) del tercer párrafo del artículo 1320 del presente ordenamiento;
 
 XI. Utilizar la Licencia, Permiso y/o Permiso Publicitario otorgado por la Agencia en el (los) lugar(es) en el (los) cual(es) fue autorizado, en razón de lo anterior queda estrictamente prohibido la utilización de postes de concreto y de madera pertenecientes a entidades paraestatales, paramunicipales, sociedades o cualquier otra persona física o jurídica de derecho público o privado, árboles, marquesinas, peldaños, cercas, bardas, mobiliario urbano o cualquier otro lugar que no sea autorizado;
 
@@ -18019,7 +18665,7 @@ XIII. Regularizarse cuando se encuentren fuera del marco legal que los rige, sin
 
 XIV. Las demás que señalen los ordenamientos aplicables en la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1256.
 
@@ -18045,7 +18691,7 @@ e) Los anunciantes, quienes al contratar el espacio, deberán constatar que ést
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-f) Toda persona que tenga ingerencia para la instalación de un anuncio que no cuente con Licencia, Permiso y/o Permiso Publicitario expedido por la Agencia competente y que se encuentre en los supuestos antes señalados.
+f) Toda persona que tenga ingerencia (sic) para la instalación de un anuncio que no cuente con Licencia, Permiso y/o Permiso Publicitario expedido por la Agencia competente y que se encuentre en los supuestos antes señalados.
 
 La responsabilidad solidaria comprende el pago de los gastos y multas que determine la autoridad competente, por las infracciones cometidas al presente Capítulo.
 
@@ -18279,7 +18925,7 @@ VIII. Fachadas; y
 
 IX. Muros interiores, laterales, o de colindancia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1261.
 
@@ -18367,9 +19013,9 @@ XI. Se permitirá la colocación de un anuncio denominativo autosoportado por es
 
 XII. Los locales comerciales que cuenten con un estacionamiento con un área superior a 1,000 metros cuadrados, podrán colocar un (sic) anuncios denominativos autosoportado de hasta 12.90 metros de longitud por 7.20 metros de altura, sin rebasar la estructura total del anuncio los 20 metros de altura, medidos del nivel de banqueta a la parte superior de las carteleras, siempre que no exista un anuncio autosoportado de propaganda autorizado a una distancia menor de 200 metros.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -18439,7 +19085,7 @@ Queda estrictamente prohibida la instalación de cualquier tipo de anuncio sobre
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1266.
 
@@ -18639,7 +19285,7 @@ El Ayuntamiento, a través de la Agencia, determinará el lugar específico para
 
 Para efectos del presente Capítulo, se entenderá por anuncio espectacular, a aquella estructura destinada a la colocación de propaganda, sustentada por uno o más elementos que se encuentren apoyados o anclados directamente al piso de un predio, y en los que sus soportes, carátula o pantalla no tengan contacto con alguna edificación.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1272 Quáter.
 
@@ -18713,7 +19359,7 @@ El mobiliario urbano podrá contar con espacios para anuncios a título accesori
 
 Los espacios destinados para la publicidad en el mobiliario urbano, serán determinados de acuerdo al diseño, dimensiones y ubicación del mueble, mismos que serán analizados, evaluados y, en su caso, aprobados por el Ayuntamiento en apego a lo establecido en el presente Capítulo y demás disposiciones jurídicas, administrativas y técnicas aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 1276.
 
@@ -18889,11 +19535,11 @@ El Ayuntamiento, a través del Presidente Municipal, para fines de colocación d
 
 Para la instalación de anuncios y publicidad sobre los espacios destinados en el mobiliario urbano, distintos a los señalados en el presente Capítulo, la Agencia valorará y en su caso, aprobará dicha colocación, previo Dictamen de Factibilidad.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 DE LOS VEHÍCULOS QUE PORTEN PUBLICIDAD
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1281.
 
@@ -18929,7 +19575,7 @@ XI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
 
 XII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1282.
 
@@ -19109,7 +19755,7 @@ Para llevar a cabo la construcción, instalación, colocación, fijación, modif
 
 Las licencias para la instalación de anuncios, se sujetarán a lo que establezca el presente Capítulo; el Capítulo de Construcciones; los Programas de Desarrollo Urbano del Municipio de Puebla; y las demás disposiciones jurídicas y administrativas aplicables.
 
-REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)
+REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)
 
 ###### Artículo 1299.
 
@@ -19169,7 +19815,7 @@ VI. Memoria descriptiva de todos los elementos de la estructura, que incluya alt
 
 Recibida la solicitud de Dictamen con la información y documentación completa, la Agencia en un plazo no mayor a diez días hábiles, contados a partir del día siguiente al de la fecha de recepción de la misma, deberá expedir el Dictamen de Factibilidad correspondiente o en su caso, negar la autorización fundando y motivando su resolución.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 1300.
 
@@ -19245,7 +19891,7 @@ XVI.- (DEROGADA, P.O. 27 DE MARZO DE 2006)
 
 > <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
 
-XVII. Cuando se trate de aquellos anuncios señalados por las fracciones I, lII, V, VI, VII, VIII, X, XI y XIl del artículo 1299 del presente ordenamiento, deberá presentar además:
+XVII. Cuando se trate de aquellos anuncios señalados por las fracciones I, III, V, VI, VII, VIII, X, XI y XII del artículo 1299 del presente ordenamiento, deberá presentar además:
 
 a) Póliza de seguro de responsabilidad civil y daños causados a terceros.
 
@@ -19365,7 +20011,7 @@ En los casos en que se requiera de la responsiva de un Director Responsable de O
 
 DE LOS PERMISOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1310.
 
@@ -19405,7 +20051,7 @@ X. Anuncios a través de pegotes, bajo los supuestos señalados en el presente C
 
 XI. Banderolas con una dimensión de hasta 1.50 metros de altura, cuya carátula no rebase los 60 centímetros de ancho.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1311.
 
@@ -19417,7 +20063,7 @@ Cuando sean varios los copropietarios, quien lo deberá suscribir será el repre
 
 La solicitud del permiso del anuncio deberá contener la siguiente información:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 I. Nombre, teléfono, identificación oficial, denominación o razón social del anunciante propietario, poseedor, titular y/o responsable solidario del predio donde se instalará el anuncio; del publicista; de la persona física o jurídica que se va a publicitar y en su caso, de los representantes legales de las personas mencionadas;
 
@@ -19449,7 +20095,7 @@ e) (DEROGADO, P.O. 11 DE FEBRERO DE 2011)
 
 > <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2011)</small>
 
-f) El Dictamen de Protección Civil en el caso de los anuncios señalados en las fracciones I, IV, V, VI, VIl y VIII del artículo 1310 de este ordenamiento, sólo cuando la Agencia lo considere necesario de acuerdo a las características de (sic) anuncio;
+f) El Dictamen de Protección Civil en el caso de los anuncios señalados en las fracciones I, IV, V, VI, VII y VIII del artículo 1310 de este ordenamiento, sólo cuando la Agencia lo considere necesario de acuerdo a las características de (sic) anuncio;
 
 g) (DEROGADO, P.O. 11 DE FEBRERO DE 2011)
 
@@ -19495,11 +20141,11 @@ I. Conservar el anuncio en condiciones de seguridad, estabilidad y mantenimiento
 
 II. Pagar los gastos que haya cubierto el Ayuntamiento y que se hubieren generado con motivo del retiro de anuncios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 1316.
 
-Los Permisos para la instalación de anuncios, se sujetarán a lo que establece el presente Capítulo; su vigencia será de hasta un año y podrán ser refrendados, previo pago de derechos de conformidad con lo establecido en el Código Fiscal y Presupuestario para el Municipio de Puebla, así como la Ley de Ingresos del Municipio de Puebla vigente al momento de la solicitud y previa obtención de los dictámenes correspondientes, excepto en los casos a que se refieren las fracciones lX y X del artículo 1310 del presente ordenamiento, que tendrán una vigencia máxima de noventa días.
+Los Permisos para la instalación de anuncios, se sujetarán a lo que establece el presente Capítulo; su vigencia será de hasta un año y podrán ser refrendados, previo pago de derechos de conformidad con lo establecido en el Código Fiscal y Presupuestario para el Municipio de Puebla, así como la Ley de Ingresos del Municipio de Puebla vigente al momento de la solicitud y previa obtención de los dictámenes correspondientes, excepto en los casos a que se refieren las fracciones IX y X del artículo 1310 del presente ordenamiento, que tendrán una vigencia máxima de noventa días.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -19513,7 +20159,7 @@ En caso de no realizarlo en el término señalado se tendrá por no presentado d
 
 Recibida la solicitud con la información y documentación completa, la Agencia en un plazo de diez días hábiles contados a partir del día siguiente al de la fecha de recepción de la misma, deberá expedir el refrendo del Permiso correspondiente o en su caso, contestar de manera negativa, fundando y motivando su resolución.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 DE LOS PERMISOS PUBLICITARIOS EN VEHÍCULOS QUE PORTEN PUBLICIDAD
 
@@ -19523,7 +20169,7 @@ DE LOS PERMISOS PUBLICITARIOS EN VEHÍCULOS QUE PORTEN PUBLICIDAD
 
 Las personas físicas o jurídicas interesadas en fijar, instalar, ubicar o colocar anuncios en vehículos que porten publicidad, que no estén destinados al servicio de transporte público o mercantil, deberán presentar solicitud de Permiso Publicitario, debidamente requisitada ante la Agencia previo Dictamen de Factibilidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1318.
 
@@ -19655,7 +20301,7 @@ VIII. (DEROGADA, P.O. 11 DE FEBRERO DE 2011)
 
 La Agencia no podrá solicitar requisitos adicionales a los mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1328.
 
@@ -19695,11 +20341,11 @@ XI. Instalar anuncios con movimiento al interior o exterior del vehículo.
 
 Se presumirá que el anunciante se encuentra irregular cuando, a requerimiento de la Agencia, la Unidad de Normatividad y Regulación Comercial, la Unidad Operativa Municipal de Protección Civil y/o cualquier otra autoridad competente, haga caso omiso en proporcionar la información necesaria para efectos de control del Padrón de Anuncios.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 DE LA NULIDAD Y REVOCACIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1329.
 
@@ -19713,7 +20359,7 @@ II. Cuando el funcionario que la hubiese otorgado carezca de competencia para el
 
 III. Cuando se hubiera otorgado con violación manifiesta de un precepto a las diversas leyes aplicables en la materia y/o este Capítulo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1330.
 
@@ -19773,7 +20419,7 @@ III. La Agencia, una vez transcurrido el plazo a que se refiere el artículo ant
 
 La resolución respectiva podrá ser recurrida a través del recurso de inconformidad regulado por la Ley Orgánica Municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1332.
 
@@ -19801,7 +20447,7 @@ DE LAS MEDIDAS DE SEGURIDAD
 
 Las medidas de seguridad son acciones preventivas de ejecución inmediata, de carácter temporal, cuyo objetivo es evitar el daño a personas o bienes. En los casos en que así lo determine la autoridad, se aplicarán las sanciones previstas con cargo a los titulares de las licencias y/o permisos, y/o a los responsables solidarios. Su monto será considerado como crédito fiscal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1334.
 
@@ -19843,7 +20489,7 @@ La aplicación del presente apartado, estará a cargo de la Agencia.
 
 Serán responsables solidarios los servidores públicos que otorguen cualquier tipo de Licencia, Permiso y/o Permiso Publicitario vulnerando las disposiciones que rigen los anuncios o que cualquier forma, por acción u omisión contribuyan a evadir las disposiciones que rigen la materia de anuncios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1336 Bis.
 
@@ -19923,7 +20569,7 @@ b) Cuando la Agencia, haya determinado la clausura y el anunciante, propietario,
 
 c) Cuando se incurra en los supuestos señalados en los artículos 1329 fracciones I a IV; y 1330 fracciones III, IV y V.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 11 DE FEBRERO DE 2011)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 11 DE FEBRERO DE 2011)</small>
 
 Hay reincidencia cuando una persona ha sido sancionada por contravenir una disposición de este Capítulo y cometa nuevamente alguna infracción al mismo.
 
@@ -19931,7 +20577,7 @@ La reincidencia se sancionará con la imposición del doble de la multa impuesta
 
 Los responsables solidarios, a que se refiere el artículo 1256 de este ordenamiento, responderán por el pago de gastos y multas, que determine la autoridad competente, por las infracciones cometidas al presente Capítulo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Cualquier otra violación a las disposiciones del presente Capítulo, cuya sanción no esté expresamente prevista y que implique contravención grave al espíritu del presente Capítulo, se impondrá multa de 200 a 2,500 días de salario mínimo general vigente en el Municipio de Puebla al momento de determinarla. Se impondrá la multa señalada en el presente artículo y se procederá al retiro del anuncio con cargo al particular, cuando:
 
@@ -20039,7 +20685,7 @@ La imposición de la sanción a que se refiere el artículo anterior por la inob
 
 ## TÍTULO ÚNICO
 
-> <small>(ADICIONADO CON LOS APARTADOS Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO CON LOS APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
 
 ### CAPÍTULO 21. DE LA CENTRAL DE ABASTO DEL MUNICIPIO DE PUEBLA
 
@@ -20943,7 +21589,7 @@ DE LAS LICENCIAS
 
 Los comerciantes que operen en los Mercados Municipales y/o de Apoyo, deberán contar con su respectiva licencia de funcionamiento que ampare el giro comercial del establecimiento; en caso de no contar con la misma, la deberán solicitar a través de la Dirección de Abasto y Comercio Interior, quien analizará su procedencia tomando en consideración lo dispuesto por el artículo 1404 del presente Código. De considerarse procedente y una vez cubiertos los derechos, productos o aprovechamientos correspondientes de acuerdo a la de (sic) Ley de Ingresos vigente, deberá informarse al Departamento de Licencias y Padrón de Contribuyentes, a fin de que se realicen las anotaciones en el padrón respectivo y se emita la licencia de funcionamiento correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1419.
 
@@ -20987,7 +21633,7 @@ La Autoridad Municipal dará preferencia en el otorgamiento de licencias y/o con
 
 MERCADOS TEMPORALES
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1424.
 
@@ -21119,7 +21765,7 @@ III. Expedir las credenciales con fotografía en la que se identifique al Titula
 
 IV. Efectuar las anotaciones correspondientes en el padrón en el que se lleve el Registro de Mercado, con relación a las cesiones de derechos efectuadas entre particulares, respecto a los locales y/o plataformas de mercados municipales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1429.
 
@@ -21189,9 +21835,9 @@ XI. Refrendar los permisos, licencias y/o contratos, en los términos que señal
 
 XII. Ejercer personalmente el comercio y atendiendo directamente al consumidor; y
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-XlII. Realizar la devolución tanto material como jurídica del local a la Dirección de Abasto y Comercio Interior, quien deberá hacerlo del conocimiento al Departamento de Licencias y Padrón de Contribuyentes y/o a la Unidad de Normatividad y Regulación Comercial cuando:
+XIII. Realizar la devolución tanto material como jurídica del local a la Dirección de Abasto y Comercio Interior, quien deberá hacerlo del conocimiento al Departamento de Licencias y Padrón de Contribuyentes y/o a la Unidad de Normatividad y Regulación Comercial cuando:
 
 a) El locatario ya no desee seguir explotándolo;
 
@@ -21261,7 +21907,7 @@ La autoridad competente no podrá solicitar requisitos adicionales a los mencion
 
 Para cambio de giro, se deberá cumplir con los requisitos exigidos para la obtención de la autorización y/o concesión, otorgada por la Dirección de Abasto y Comercio Interior, tomando en cuenta que los Mercados Municipales expenden productos de temporada, debiendo notificarse al Departamento de Licencias y Padrón de Contribuyentes y a la Unidad de Normatividad y Regulación Comercial para los efectos correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1436.
 
@@ -21309,7 +21955,7 @@ DE LAS SANCIONES
 
 La autoridad municipal tendrá atribuciones para sancionar con el retiro de mercancías en caso de evidente insalubridad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1442.
 
@@ -21761,7 +22407,7 @@ III. El costo de la credencial será fijado por el Consejo;
 
 IV. La Dirección de Abasto y Comercio Interior, por acuerdo del Consejo de la Central de Abasto, podrá cancelar o negar el refrendo de alguna de las credenciales que expida a los prestadores de servicios por aplicación de las sanciones establecidas en este Capítulo, por cualquier circunstancia similar o de mayor gravedad, debiéndose contar con el voto de la mayoría de los miembros presentes de la Mesa Directiva en sesión del Consejo.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1484.
 
@@ -22277,7 +22923,7 @@ XXX. Velatorio: Al lugar destinado a la velación de los cadáveres.
 
 En el caso de capillas consideradas con valor artístico-histórico, además de las disposiciones señaladas en este ordenamiento se estará en lo conducente, a lo que establezcan las leyes federales y estatales en materia de Monumentos Artísticos e Históricos, así como en las disposiciones municipales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 1536.
 
@@ -22427,7 +23073,7 @@ III. Presentar un estudio de los niveles freáticos permisibles, autorizado prev
 
 Además de los requisitos señalados en el artículo anterior, los panteones quedarán sujetos a lo siguiente:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 I. Deberán elaborar plano que deberá ser aprobado, en su caso, por la Secretaría, donde se especifique:
 
@@ -22527,7 +23173,7 @@ Para los efectos del artículo anterior, los interesados deberán presentar soli
 
 El inmueble que se destine al servicio público de panteones deberá estar sujeto a la siguiente categorización en cuanto a la superficie:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ###### Artículo 1556.
 
@@ -22853,7 +23499,7 @@ En el caso de panteones concesionados, las inhumaciones serán a perpetuidad o s
 
 DE LAS SANCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 1611.
 
@@ -22901,7 +23547,7 @@ DE LOS RECURSOS
 
 Contra las resoluciones de la Autoridad Municipal, derivadas de la aplicación de este Capítulo, los interesados podrán interponer el recurso de inconformidad previsto en la Ley Orgánica Municipal para el Estado de Puebla.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MAYO DE 2007)</small>
 
 ### CAPÍTULO 25. DEL ARCHIVO GENERAL DEL HONORABLE AYUNTAMIENTO DE PUEBLA
 
@@ -22939,7 +23585,7 @@ III.- Desperdicios: Son la basura y los residuos que se encuentren en el rastro 
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-IV.- Esquilmos: Partes del animal no aptos para el consumo humano; son las materias residuales que resultan del sacrificio de los animales como: la sangre, óvulos, espermas, embriones, glándulas, bazo, hipófisis, el páncreas, testículos, patas, ubre, las cerdas, el pelo, el hueso calcinado, los cuernos, la piel, las pezuñas, las plumas, las hieles, el estiércol, etcétera;
+IV. Esquilmos: Partes del animal no aptos para el consumo humano; son las materias residuales que resultan del sacrificio de los animales como: la sangre, óvulos, espermas, embriones, glándulas, bazo, hipófisis, el páncreas, testículos, patas, ubre, las cerdas, el pelo, el hueso calcinado, los cuernos, la piel, las pezuñas, las plumas, las hieles, el estiércol, etcétera;
 
 V.- Evisceración: Extracción de las vísceras contenidas en la cavidad toráxica, abdominal, craneana y bucal de las especies de animales consideradas algunas aptas para el consumo humano, pudiendo o no, extraerse los riñones;
 
@@ -22955,9 +23601,9 @@ X.- Inspección: Revisión para constatar el cumplimiento de las disposiciones d
 
 XI.- Inspección antemortem: Es la que se realiza al ganado mayor o menor en los corrales, previa a su sacrificio;
 
-XlI.- Inspección postmortem: Es la que se realiza a los productos cárnicos y subproductos resultado del proceso de sacrificio;
+XII.- Inspección postmortem: Es la que se realiza a los productos cárnicos y subproductos resultado del proceso de sacrificio;
 
-XlII.- Lepóridos: Conejos y liebres;
+XIII.- Lepóridos: Conejos y liebres;
 
 XlV.- Normas Mexicanas: Normas de referencia, de observancia voluntaria, que emiten los organismos nacionales de normalización, en los términos de la Ley Federal sobre Metrología y Normalización;
 
@@ -22969,7 +23615,7 @@ XVII.- Planta de rendimiento: Instalación equipada para la industrialización d
 
 XVIII.- Producto cárnico: Es la canal, carne en piezas, carne molida, vísceras y demás estructuras y tejidos aptos para el consumo humano, sean carnes frescas, secas, saladas, sin salar, refrigeradas o congeladas;
 
-XlX.- Rastro Municipal: Establecimiento a cargo del Ayuntamiento o del concesionario, donde se brinda el servicio de recepción de ganado mayor o menor en pie, inspección sanitaria, sacrificio, faenado y refrigeración de los productos cárnicos para su comercialización;
+XIX.- Rastro Municipal: Establecimiento a cargo del Ayuntamiento o del concesionario, donde se brinda el servicio de recepción de ganado mayor o menor en pie, inspección sanitaria, sacrificio, faenado y refrigeración de los productos cárnicos para su comercialización;
 
 XX.- Sanidad animal: La que tiene por objeto preservar la salud y prevenir las enfermedades y plagas en el ganado mayor o menor, con repercusiones a la salud de la población en el Municipio;
 
@@ -23043,7 +23689,7 @@ X.- Lavado y desinfección del transporte;
 
 XI.- Servicio de anfiteatro, horno crematorio, planta de rendimiento y cualquier otro servicio análogo; y
 
-XlI.- Los demás servicios que le otorgan las leyes aplicables en la materia.
+XII.- Los demás servicios que le otorgan las leyes aplicables en la materia.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
@@ -23077,7 +23723,7 @@ El Ayuntamiento o el concesionario, podrán importar el ganado mayor o menor en 
 
 Los productos cárnicos provenientes del Rastro Municipal, o del exterior sean de origen nacional o del extranjero, que se transporten o se pretendan comercializar en el Municipio, serán sujetos de inspección sanitaria por la Autoridad Municipal.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MAYO DE 2007)</small>
 
 DE LAS AUTORIDADES COMPETENTES
 
@@ -23133,7 +23779,7 @@ IV.- Sancionar al concesionario por inobservancia a lo dispuesto en el presente 
 
 V.- Proponer al Cabildo la renovación del Título de Concesión por incumplimiento a lo pactado y dispuesto en el presente Capítulo y normatividad aplicable.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1629.
 
@@ -23175,7 +23821,7 @@ VIII.- Vigilar el cumplimiento de lo dispuesto en el presente Capítulo; y
 
 IX.- Las facultades que le confiere (sic) las leyes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1629 Bis.
 
@@ -23333,7 +23979,7 @@ V.- En su establecimiento, industrializadoras, empacadoras y frigoríficos, util
 
 VI.- Rendir bajo su responsabilidad a la Autoridad Municipal un informe mensual detallado sobre los acontecimientos suscitados en la prestación del servicio público de Rastro Municipal.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MAYO DE 2007)</small>
 
 DE LA VERIFICACIÓN E INSPECCIÓN
 
@@ -23383,7 +24029,7 @@ En caso de concesión, los inspectores internos del rastro, se coordinarán con 
 
 Toda persona física o moral, podrá denunciar vía telefónica, mediante escrito o comparecencia ante la Unidad de Normatividad y Regulación Comercial, todo acto u omisión a lo dispuesto en el presente Capítulo, procediéndose a la aplicación de las medidas conducentes y sanciones que resulten procedentes de conformidad con la normatividad aplicable.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MAYO DE 2007)</small>
 
 DE LOS LIBROS DE REGISTRO
 
@@ -23395,7 +24041,7 @@ En el rastro, están obligados a llevar los Libros de Registro del padrón de in
 
 Lo anterior, sin perjuicio de otros libros que por disposiciones fiscales u otros ordenamientos jurídicos, deban integrar a su sistema de administración interna.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MAYO DE 2007)</small>
 
 DEL SERVICIO DE CORRALES
 
@@ -23431,7 +24077,7 @@ Para la entrada de ganado mayor o menor en pie a los corrales del Rastro Municip
 
 Ningún animal en pie podrá salir de los corrales del rastro, sin que se observen las disposiciones de inspección sanitaria, comprobación de su procedencia legal, y pago de los servicios prestados.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MAYO DE 2007)</small>
 
 DEL SERVICIO DE MATANZA
 
@@ -23505,7 +24151,7 @@ Todos los productos de la matanza que procedan del rastro, deberán estar ampara
 
 Por circunstancias que provoquen el retraso o suspensión de los servicios que presta el rastro, debido a acontecimientos de la naturaleza, fallas mecánicas, falta de energía eléctrica, captación de agua y demás circunstancias no imputables al rastro, éste no será responsable de las pérdidas comerciales causadas a los introductores o usuarios.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MAYO DE 2007)</small>
 
 DE LOS ESQUILMOS
 
@@ -23533,7 +24179,7 @@ Si el servicio de rastro lo presta el concesionario dará aviso a la Tesorería 
 
 Las pieles de los animales serán entregadas a los propietarios, por el personal autorizado previa opinión del médico veterinario y pago de los servicios prestados.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MAYO DE 2007)</small>
 
 DEL ANFITEATRO, HORNO DE INCINERACIÓN Y PLANTA DE RENDIMIENTO
 
@@ -23561,7 +24207,7 @@ Los servicios de anfiteatro, horno de incineración y planta de rendimiento ser�
 
 Si los productos cárnicos, fuesen declarados por el médico veterinario, impropios para el consumo humano, no se devolverán los pagos por los servicios prestados.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MAYO DE 2007)</small>
 
 DEL SERVICIO DE REFRIGERACIÓN
 
@@ -23601,7 +24247,7 @@ Sólo el personal autorizado entregará los productos cárnicos del sistema de r
 
 Los productos cárnicos una vez entregados a sus propietarios no podrán ser reingresados a las cámaras frigoríficas del rastro.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MAYO DE 2007)</small>
 
 ÁREA DE EXHIBICIÓN Y COMERCIALIZACIÓN
 
@@ -23617,7 +24263,7 @@ Dentro de las instalaciones del Rastro Municipal operará un área de exhibició
 
 Los introductores o usuarios del rastro, podrán, previo pago de las cuotas establecidas en la Ley de Ingresos del Municipio de Puebla, solicitar al Ayuntamiento o al concesionario, autorización para hacer uso de las instalaciones destinadas a la exhibición y comercialización de los productos cárnicos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MAYO DE 2007)</small>
 
 DEL SERVICIO DE TRANSPORTE DEL PRODUCTO CÁRNICO Y SUS DERIVADOS
 
@@ -23715,7 +24361,7 @@ XI.- Abandonar productos cárnicos en las instalaciones del rastro o en el merca
 
 XII.- Infringir las disposiciones que en la materia determine el Ayuntamiento, en su caso, el concesionario.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MAYO DE 2007)</small>
 
 DE LAS INFRACCIONES Y SANCIONES
 
@@ -23785,7 +24431,7 @@ Si el incumplimiento a lo dispuesto en el presente Capítulo implica la comisió
 
 La administración del rastro podrá negar la utilización de los servicios del Rastro Municipal, cuando los introductores o usuarios no cumplan con lo dispuesto en los artículos 1634, 1667, 1668 1669 y 1670 del presente Capítulo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MAYO DE 2007)</small>
 
 DE LOS RECURSOS
 
@@ -23951,7 +24597,7 @@ g) Vigilar el adecuado funcionamiento del servicio público de estacionamiento e
 
 h) Las facultades que le confiera el presente Capítulo y disposiciones normativas aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2009)</small>
 
 IV. De la Secretaría de Gestión:
 
@@ -23987,7 +24633,7 @@ f) Las demás facultades que le confiera el presente Capítulo y disposiciones n
 
 Las dependencias y organismos municipales proporcionarán la información técnica necesaria y realizarán las acciones dentro de sus respectivos ámbitos de competencia, a fin de lograr que el Ayuntamiento pueda regular de forma óptima el servicio público de estacionamiento en el Municipio de Puebla.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MARZO DE 2009)</small>
 
 DE LAS MODALIDADES DEL SERVICIO PÚBLICO DE ESTACIONAMIENTO
 
@@ -24027,7 +24673,7 @@ La Secretaría de Gestión notificará a la SSPTM, la solicitud de licencia o mo
 
 Cuando con posterioridad a la apertura se modifiquen las características de un estacionamiento con servicio al público, el prestador del servicio deberá presentar ante la Secretaría de Gestión un escrito complementario en el que detalle los cambios realizados, a fin de aprobarlos y mantener actualizado el registro de las licencias.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2009)</small>
 
 ###### Artículo 1679 Ter.
 
@@ -24125,7 +24771,7 @@ XXII. Cumplir con las obligaciones que establece la Ley Federal de Protección a
 
 Las obligaciones enumeradas en este artículo deberán ser cumplidas por los prestadores del servicio de estacionamiento, acatando la normatividad específica que corresponda
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 30 DE MARZO DE 2009)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 30 DE MARZO DE 2009)</small>
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
@@ -24177,7 +24823,7 @@ El prestador de servicio podrá cobrar por concepto de movilización, hasta el e
 
 DEL REFRENDO Y DE LA CESIÓN DE DERECHOS
 
-(REUBICADO Y REFORMADO PRIMER PARRAFO, P.O. 30 DE MARZO DE 2009)
+(REUBICADO Y REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2009)
 
 ###### Articulo 1680 Bis.
 
@@ -24511,7 +25157,7 @@ Como órgano asesor y consultivo del Archivo Histórico fungirá el Consejo de l
 
 El Archivo General del H. Ayuntamiento de Puebla, deberá regirse por la normatividad Estatal y Nacional que sobre el tema exista.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE FEBRERO DE 2006)</small>
 
 DE LA ADMINISTRACIÓN Y ORGANIZACIÓN DEL ARCHIVO GENERAL DEL AYUNTAMIENTO DE PUEBLA
 
@@ -24723,7 +25369,7 @@ XIX.- Entregar informes mensuales de actividades al Director del Archivo; y
 
 XX.- Atender las demás funciones que asigne el Director del Archivo General Municipal.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE FEBRERO DE 2006)</small>
 
 DE LOS FUNCIONARIOS, EMPLEADOS DEL ARCHIVO GENERAL Y USUARIOS
 
@@ -25345,7 +25991,7 @@ XIII. Promover la participación en materia ambiental de las organizaciones soci
 
 XIV. Las demás que se establezcan en el presente Capítulo u otros ordenamientos legales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1718.
 
@@ -25741,7 +26387,7 @@ Los establecimientos comerciales, industriales o de servicios de competencia mun
 
 DE LA EDUCACIÓN AMBIENTAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1744.
 
@@ -25777,7 +26423,7 @@ Los desarrollos turísticos y de servicios de competencia municipal, sin menosca
 
 DE LA INFORMACIÓN OPORTUNA SOBRE LAS CONDICIONES DEL AMBIENTE
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1748.
 
@@ -25799,7 +26445,7 @@ Los solicitantes deberán identificarse indicando su nombre o razón social y do
 
 Quien reciba información ambiental de las autoridades municipales en los términos del presente capítulo, será responsable de su adecuada utilización y deberá responder por los daños y perjuicios que se ocasionen por su indebido manejo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 La Agencia podrá negar la información solicitada cuando se esté en los supuestos siguientes:
 
@@ -25893,7 +26539,7 @@ No se permitirá depositar residuos sólidos urbanos y desechos de jardinería y
 
 El H. Ayuntamiento podrá otorgar en custodia parques, jardines y parques urbanos, con la finalidad de incentivar la inversión privada en estas áreas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1761.
 
@@ -25909,7 +26555,7 @@ La Unidad Administrativa encargada de parques y jardines elaborará un padrón d
 
 Los inmuebles de propiedad municipal que sean destinados como plazas, parques, jardines, camellones, glorietas no podrán cambiar su uso, sino mediante Acuerdo de Cabildo, en el que invariablemente deberá informar la forma en que se reemplazará el área suprimida, por una superficie igual o mayor para destinarla a áreas verdes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1764.
 
@@ -25965,7 +26611,7 @@ El H. Ayuntamiento al promover la protección a la atmósfera considerara los cr
 
 Los propietarios de fuentes fijas de contaminación atmosférica de competencia municipal deberán cumplir invariablemente lo dispuesto en el artículo 115 de la Ley Estatal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1770.
 
@@ -26033,7 +26679,7 @@ Queda estrictamente prohibido realizar quemas al aire libre, de cualquier materi
 
 La Agencia se coordinará con la Secretaría de Seguridad Pública y Tránsito Municipal para garantizar el cumplimiento de las disposiciones del artículo 329 fracciones I, II y III del Capítulo de Seguridad Vial y Tránsito del presente Código Reglamentario, ya que la inaplicabilidad de estas disposiciones pueden ocasionar afectaciones a la atmósfera.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1774.
 
@@ -26069,7 +26715,7 @@ VII. Son obligaciones de los habitantes del Municipio: utilizar racionalmente el
 
 VII. Queda estrictamente prohibido el relleno, secado y uso diferente al que tienen los cuerpos de agua superficiales en el territorio municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1776.
 
@@ -26195,7 +26841,7 @@ Queda prohibido hacer mal uso de los suelos y realizar todo tipo de acciones neg
 
 DEL MANEJO DE LOS RESIDUOS SÓLIDOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1787.
 
@@ -26317,7 +26963,7 @@ II. Cuando ambas fuentes las naturales y las artificiales; son alteradas, increm
 
 III. La contaminación que es generada por los olores, ruido, vibraciones, energía térmica, electromagnética y lumínica, entre otras, debe ser regulada para evitar que excedan los límites máximos de tolerancia humana y en su caso, deberá sancionarse toda acción que contribuya a la generación de las emisiones contaminantes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1796.
 
@@ -26401,7 +27047,7 @@ DE LA DENUNCIA POPULAR
 
 Se entiende como denuncia popular, aquel instrumento jurídico por medio del cual, toda persona física, jurídica, pública u organización no gubernamental, puede hacer del conocimiento de la Agencia, los hechos que produzcan o puedan producir daños ambientales o a los recursos naturales, o contravengan las disposiciones del presente Capítulo y demás ordenamientos que regulen las materias relacionadas con la conservación y protección al ambiente, así como la restauración del equilibrio, con el fin de que la autoridad competente atienda y solucione las quejas presentadas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1808.
 
@@ -26435,7 +27081,7 @@ Asimismo, podrá formularse la denuncia por los medios que disponga la Agencia t
 
 Si el denunciante ratifica la denuncia pero solicita a la autoridad competente guardar secreto respecto de su identidad por razones de seguridad e interés particular debidamente fundadas, ésta llevará a cabo el seguimiento de la denuncia conforme a las atribuciones que la presente Ley y demás disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1810.
 
@@ -26469,7 +27115,7 @@ PROTECCION AMBIENTAL
 
 Cuando en el Municipio se presenten contingencias ambientales que pongan en peligro la salud pública o actividades que repercutan peligrosamente en los ecosistemas locales, la Agencia podrá ordenar, fundada y motivadamente, medidas de seguridad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1812.
 
@@ -26493,7 +27139,7 @@ Cuando las contingencias ambientales rebasen el ámbito de competencia del Munic
 
 DE LA INSPECCIÓN Y VIGILANCIA EN MATERIA DE PROTECCIÓN AMBIENTAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1814.
 
@@ -26505,7 +27151,7 @@ II. Realizar dentro del Municipio, las visitas de inspección que considere nece
 
 III. Citar a comparecencias, practicar las vistas, inspecciones, con el fin de comprobar la existencia de fuentes o actividades contaminantes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1815.
 
@@ -26577,7 +27223,7 @@ Si la persona con la que se entendió la diligencia, se negara a firmar el acta 
 
 El Honorable Ayuntamiento a través de la Agencia, con base en el resultado de las inspecciones, dictará las medidas necesarias para corregir las deficiencias que se hubiesen encontrado, notificándolas al interesado y dándole un plazo no mayor de quince días hábiles para su realización o pago; así como cualquiera de las sanciones administrativas a que se hubiese hecho acreedor.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1818.
 
@@ -26693,7 +27339,7 @@ II.- Quien en propiedad pública realice el derribo de uno o varios árboles se 
 
 III.- Cuando el derribo se realice para la construcción de obras, cuyas dimensiones, impliquen un fuerte impacto ambiental de la zona, para la recuperación de cobertura vegetal, la Agencia determinará la especie y número, considerándose el impacto al ambiente de la zona, independientemente de poder sancionar con clausura temporal o definitiva el lugar de la obra.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1823.
 
@@ -28727,7 +29373,7 @@ IV. Al Director General del DIF Municipal.
 
 El Honorable Ayuntamiento tendrá la obligación de salvaguardar los intereses de la población que comprende a los menores de edad a través de las campañas de educación preventiva que coordinará conjuntamente con el DIF Municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1935.
 
@@ -28789,7 +29435,7 @@ III. Las condiciones socioeconómicas del infractor; y
 
 IV. La calidad de reincidente del infractor.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1941.
 
@@ -29121,7 +29767,7 @@ Las Estaciones de servicio de Gas Licuado de Petróleo en cualquiera de sus moda
 
 TABLA NÚMERO UNO
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 # LIBRO SEXTO. DE LAS PRERROGATIVAS DEL TRABAJO MUNICIPAL
 
@@ -29331,7 +29977,7 @@ II.- Cuando el trabajador jubilado no hubiere designado beneficiarios, se entreg
 
 Es imprescriptible e irrenunciable el derecho al otorgamiento de una jubilación, siempre y cuando el trabajador satisfaga todos y cada uno de los requisitos establecidos en este Capítulo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ### CAPÍTULO 33. DEL SERVICIO PROFESIONAL DE CARRERA
 
@@ -29739,7 +30385,7 @@ Los movimientos escalafonarios, serán operados tomando en cuenta el total del s
 
 ### CAPÍTULO 34. ESPECTÁCULOS DE BOX Y LUCHA LIBRE PARA EL MUNICIPIO DE PUEBLA
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 DISPOSICIONES GENERALES
 
@@ -29943,7 +30589,7 @@ DE LOS DESCUENTOS Y PÓLIZAS
 
 ### CAPÍTULO 35. "DE LA MEJORA REGULATORIA"
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 DISPOSICIONES GENERALES
 
@@ -30261,15 +30907,15 @@ Para cubrir la vacante de un Servidor Público que haya obtenido la licencia, la
 
 Cuando por necesidades del servicio público se lleve a cabo una reestructuración o reorganización administrativa que implique supresión o modificación de áreas de las dependencias de la Administración Pública Municipal, el Servidor Público deberá ser reubicado en otra área, sin perjuicio de su Categoría Profesional y Nivel Personal, respetando la residencia de su adscripción.
 
-> <small>(ADICIONADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 # LIBRO SÉPTIMO
 
-> <small>(ADICIONADO CON LOS TITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS TÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 ### CAPÍTULO 36. DE LAS BASES PARA LA ENTREGA DE PREMIOS Y RECONOCIMIENTOS EN EL MUNICIPIO DE PUEBLA
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
 
 DISPOSICIONES GENERALES
 
@@ -30355,7 +31001,7 @@ e) Deberá contar adicionalmente con el siguiente equipo: Una campana y un conta
 
 Alrededor inmediato del cuadrilátero, se considera zona técnica y deberán instalarse en la misma las butacas que indique la Comisión.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 DE LAS LICENCIAS Y AUTORIZACIONES
 
@@ -30423,7 +31069,7 @@ Para la revalidación anual de las licencias, será suficiente cubrir los requis
 
 Para la expedición de licencias que autoricen la presentación de espectáculos o exhibiciones en que tengan lugar encuentros de Box y Lucha Libre en el Municipio, se deberán observar los requisitos que para el efecto establezca el Departamento de Espectáculos del Municipio.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 DE LA COMISIÓN MUNICIPAL DE BOX Y LUCHA LIBRE
 
@@ -30739,7 +31385,7 @@ Los periodistas y fotógrafos de prensa, podrán hacerlo después de que haya te
 
 Los empresarios podrán desempeñar simultáneamente funciones de promotores, si cuentan para ello con la licencia legalmente expedida por la Comisión, pero les está estrictamente prohibido actuar al mismo tiempo como manejadores profesionales, directa o indirectamente.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 DE LOS PROMOTORES
 
@@ -30767,7 +31413,7 @@ Los promotores de Box y Lucha Libre profesionales, serán considerados como empl
 
 Los promotores podrán desempeñar simultáneamente funciones de empresarios, si cuentan para ello con la licencia respectiva expedida por la Comisión, pero les queda estrictamente prohibido actuar al mismo tiempo, como representantes de boxeadores profesionales, directa o indirectamente.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 DE LOS OFICIALES
 
@@ -30833,7 +31479,7 @@ El Comisionado en turno nombrará, para las funciones de Box que vaya a presidir
 
 Los Oficiales a que se refiere el artículo 2140, del presente Capítulo, estarán obligados a presentarse invariablemente en todas las funciones, media hora antes de que éstas principien y solamente podrán faltar con previa autorización de la Comisión, los que vayan a intervenir en la función, serán designados por el Comisionado en turno 24 horas antes de que ésta inicie, con la excepción del Director de encuentros y del tomador de tiempo, que tendrán el rol previamente establecido por la Comisión. Los oficiales designados, deberán pasar examen médico antes de intervenir en la función.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 DEL COMISIONADO
 
@@ -30869,7 +31515,7 @@ I. En Box: en caso de fuerza mayor debidamente comprobada, si alguno de los part
 
 II. En lucha libre: cuando un luchador por causa de fuerza mayor no se haya presentado, será sustituido por otro de la misma categoría y de igual peso, comunicándole a la empresa la obligación de avisar al público asistente, el cambio realizado y si éste es de algún luchador de la "Lucha Estelar", además de anunciar el cambio autorizado, informará al público que la persona que no esté de acuerdo podrá solicitar la devolución del importe de su boleto, siempre que no haya iniciado la función.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 DEL SERVICIO MÉDICO
 
@@ -30905,7 +31551,7 @@ VII. Cuando por alguna circunstancia el Jefe del Servicio Médico, no pueda fung
 
 En caso de que sufra un accidente cualquiera de los contendientes en una pelea, podrá reanudarse la actuación cuando a juicio del Médico de Cuadrilátero el accidentado pueda recuperarse en un tiempo no mayor de quince minutos. En caso de que esto no sea posible, se dará la victoria al boxeador que tenga mayor puntuación a su favor.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 DE LOS JUECES
 
@@ -30975,7 +31621,7 @@ XII. La Comisión designará en su Sesión Ordinaria reglamentaria, al Director 
 
 El Director de Encuentros deberá presentarse en la arena con una hora antes de que dé comienzo el espectáculo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 DEL ANUNCIADOR Y TOMADOR DE TIEMPO
 
@@ -31123,7 +31769,7 @@ Los auxiliares que infrinjan las disposiciones contenidas en los artículos del 
 
 Los auxiliares no deberán protestar las decisiones de los oficiales sobre el cuadrilátero ni en parte alguna de las Arenas, deberán presentar sus protestas en la Sesión Ordinaria o Extraordinaria inmediata de la Comisión.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 DEL INSPECTOR AUTORIDAD
 
@@ -31145,7 +31791,7 @@ El Inspector Autoridad, vigilará especialmente, que el público no altere el or
 
 El Inspector Autoridad, al terminar la función informará al Comisionado en turno, de las novedades habidas durante la función en relación con el orden del espectáculo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 DE LOS REFEREES
 
@@ -31179,7 +31825,7 @@ f) No continuar luchando después de que haya terminado la caída o la lucha.
 
 III. Usar durante el desarrollo de la lucha: pantalón negro con franja blanca o blanco con franja negra, camisa blanca o camisa rayada en blanco y negro; en las luchas de campeonato usará corbata de moño.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 DE LOS REPRESENTANTES
 
@@ -31227,7 +31873,7 @@ Los representantes no deberán contratar a sus boxeadores o luchadores para actu
 
 La Comisión, no permitirá la salida de un boxeador, para actuar en un encuentro de categoría superior a la que ostente en el Municipio. Para este efecto se tomará en cuenta el récord del boxeador local y las referencias que se tengan de su rival.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 DE LOS BOXEADORES Y LUCHADORES PROFESIONALES
 
@@ -31389,7 +32035,7 @@ Cuando un boxeador o luchador profesional alegue incapacidad física para cumpli
 
 Si presentare certificado de otro médico no oficial, deberá ser ratificado y firmado previo nuevo examen médico por el titular del Servicio Médico de la Comisión. Los boxeadores o luchadores emergentes, estarán sujetos también a las mismas obligaciones.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 DEL PESO DE LOS BOXEADORES
 
@@ -31525,7 +32171,7 @@ Los boxeadores por su parte, al momento de firmar el contrato o ratificar su fir
 
 El boxeador que dolosamente o de mala fe oculte al médico que practique el reconocimiento, su mala condición física, algún padecimiento que no presente signos exteriores, o bien que haya sido "noqueado" en los últimos catorce días, a juicio de la Comisión será multado o suspendido igual que a su representante, según la gravedad del caso.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 DEL ESPECTÁCULO DE LA LUCHA LIBRE Y PESO DE LOS LUCHADORES
 
@@ -31621,7 +32267,7 @@ En las funciones cuyas luchas sean de campeonato, es obligación de los contendi
 
 Es indispensable para que se autorice una lucha de campeonato que ambos contendientes estén dentro del peso de la división correspondiente.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 BOX FEMENIL
 
@@ -31773,7 +32419,7 @@ IV. Presentar su permiso único de salida de boxeador de la Comisión a que pert
 
 Es obligación de las boxeadoras programadas estar en el día de la función autorizada, 1 hora antes de su inicio, en el inmueble o arena donde se desarrolle la función, presentación, o exhibición, para el efecto de reportarse con el Director de Encuentros, y éste dé fe de su presencia y cheque en su programación, para que esté lista para subir al cuadrilátero para su pelea.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 DE LOS CONTRATOS
 
@@ -31935,7 +32581,7 @@ Cuando por alguna causa determinada un representante no pueda firmar personalmen
 
 Un representante no podrá contratar con una empresa, a más de tres boxeadores o luchadores que represente, para actuar en un mismo programa.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 DE LOS GUANTES DE LOS BOXEADORES
 
@@ -31965,7 +32611,7 @@ Las vendas para las manos de los boxeadores profesionales serán de gasa con una
 
 El boxeador, representante o auxiliar que infrinjan las anteriores disposiciones, será sancionado en la forma que estime procedente la Comisión.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 DE LOS CAMPEONATOS ESTATALES
 
@@ -32043,7 +32689,7 @@ Las anteriores disposiciones serán aplicadas también en peleas de eliminatoria
 
 Cuando el Campeón o el retador, se nieguen a pelear, se les considerará responsables de la suspensión del encuentro y el depósito que hayan hecho ante la Comisión lo perderán ingresando a la Tesorería Municipal como multa.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 DE LAS CLASIFICACIONES Y CAMPEONATOS MUNICIPALES
 
@@ -32077,7 +32723,7 @@ El Campeón Municipal de Lucha Libre, estará obligado a exponer su título cuan
 
 En cuanto a los contratos, se aplicará de forma supletoria, para todo aquello que no se encuentre preceptuado en el presente apartado.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 DE LOS CAMPEONATOS NACIONALES Y MUNDIALES DE LUCHA LIBRE
 
@@ -32113,7 +32759,7 @@ Es indispensable que los luchadores que se disputen un titulo, se presenten con 
 
 En las funciones realizadas en el Municipio, en las cuales tenga verificativo algún Campeonato Mundial de Lucha Libre, será necesario que los luchadores cuenten con licencia legalmente expedida por la Comisión, o bien por alguna otra Comisión o Consejo de Lucha Libre Nacional o Internacional, además de hacer del conocimiento al Consejo Mundial de Lucha Libre (CMLL), para efectos de que éste tome las medidas pertinentes, siempre y cuando no se contravengan las disposiciones establecidas en el presente Capítulo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 DE LAS SANCIONES
 
@@ -32157,11 +32803,11 @@ En estos casos, la Comisión, notificará dicho acuerdo a las Comisiones o Conse
 
 No se considerará como sanción la cancelación de licencias expedidas a Boxeadores. Representantes, Auxiliares, Oficiales y Luchadores, decretados por la Comisión Municipal de Box y Lucha Libre cuando el Jefe del Servicio Médico de la misma, certifique que alguno de ellos se encuentre imposibilitado físicamente para seguir actuando.
 
-> <small>(ADICIONADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 # LIBRO OCTAVO
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 2245.
 
@@ -32209,7 +32855,7 @@ XII. Simplificación.- Al procedimiento por el cual se propicia la reducción de
 
 Para la ejecución de las acciones que en materia Regulatoria realice el Consejo, se deberán observar, además de los criterios señalados en los artículos precedentes, lo dispuesto en los acuerdos y convenios de colaboración que el Ayuntamiento haya celebrado con dependencias y entidades de los diferentes niveles de gobierno, así como con organizaciones no gubernamentales y universidades públicas y privadas.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 DEL CONSEJO DE MEJORA REGULATORIA
 
@@ -32355,7 +33001,7 @@ Para que una sesión se considere válidamente instalada, deberán concurrir por
 
 El Secretario Técnico deberá notificar, con al menos 48 horas de anticipación a todos los miembros del Consejo, el lugar y la hora en que se llevará a cabo la sesión, así como el orden del día que será tratado en la misma.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 DE LA MANIFESTACIÓN DE IMPACTO REGULATORIO
 
@@ -32427,7 +33073,7 @@ IV. Costos de salud, medio ambiente u otro de carácter social; y
 
 V. Costos administrativos que asuman las dependencias municipales, que se encargarían de instrumentar, y aplicar la regulación propuesta, como son los costos de personal, así como los derivados de inspecciones u otras actividades para asegurar el cumplimiento de las regulaciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 2264.
 
@@ -32451,7 +33097,7 @@ Si el dictamen es favorable, el Consejo remitirá un dictamen de mejora regulato
 
 Si el dictamen es desfavorable, la dependencia o entidad solicitante se sujetará a los términos que emita el Consejo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 DE LAS CÉDULAS DE REGISTRO DE TRÁMITES Y SERVICIOS
 
@@ -32507,7 +33153,7 @@ Las dependencias o entidades, bajo su responsabilidad, deberán entregar a la Se
 
 No se podrán exigir trámites, requisitos o plazos distintos a los inscritos en el Registro Municipal de Trámites y Servicios, salvo lo previsto en disposiciones jurídicas expedidas con posterioridad.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 DE LOS PROGRAMAS DE MEJORA REGULATORIA
 
@@ -32591,11 +33237,11 @@ DE LOS CONVENIOS DE COORDINACIÓN
 
 El Ayuntamiento podrá celebrar tonel Gobierno Federal, el Gobierno del Estado y con otros Municipios, organizaciones no gubernamentales y universidades públicas y privadas, convenios institucionales, con el propósito de intercambiar información y para fortalecer los procesos de mejora regulatoria.
 
-> <small>(ADICIONADO CON EL TITULO, CAPITULO, APARTADOS Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO CON EL TÍTULO, CAPÍTULO, APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
 
 # LIBRO NOVENO
 
-> <small>(ADICIONADO CON EL CAPITULO, APARTADOS Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO, APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
 
 ###### Artículo 2276.
 
@@ -32639,7 +33285,7 @@ XIII. Reconocimiento al "Mérito Laboral".
 
 XIV. Copia de la Declaración de la declaración de la UNESCO a la Ciudad de Puebla como Patrimonio Histórico de la Humanidad.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
 
 DE LA CÉDULA REAL
 
@@ -32661,7 +33307,7 @@ Esta distinción consiste en la copia fiel del pergamino original, conocido como
 
 La copia de la Cédula Real, puede ser entregada en Sesión Solemne de Cabildo o en Acto Protocolario, a elección del Presidente Municipal, siendo facultad exclusiva del C. Presidente Municipal Constitucional, determinar la persona que será merecedora a recibir dicha distinción.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
 
 DEL PREMIO AL MÉRITO CIVIL
 
@@ -32749,7 +33395,7 @@ Las propuestas deberán ser presentadas por escrito, ante la Secretaría del Hon
 
 Con base en las propuestas hechas, y de acuerdo a las fechas que para tal efecto establezca la convocatoria respectiva, la Comisión del Premio al Mérito Civil, procederá al análisis, valoración, selección y votación secreta de cada uno de los integrantes, para determinar al ganador del Premio.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
 
 DEL PREMIO ANUAL EN SALUD MUNICIPAL
 
@@ -32835,7 +33481,7 @@ El Jurado encargado de determinar quiénes son los ganadores del Premio, lo har�
 
 Una vez que se haya determinado quiénes serán los acreedores a recibir el Premio Anual en Salud Municipal, en sus dos categorías, la Comisión de Salubridad y Asistencia Pública, deberá darlos a conocer mediante publicación hecha en dos de los diarios de mayor circulación y en la página Web del Gobierno Municipal, con cinco días de anticipación, el nombre de los ganadores y la fecha de entrega del Premio, así como cualquier otro dato que considere pertinente publicar la propia Comisión.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
 
 DE LA PRESEA "PUEBLA DE ZARAGOZA"
 
@@ -33029,7 +33675,7 @@ La decisión del Consejo de Premiación, respecto de la persona o institución q
 
 El nombre del ganador, la fecha y hora para la entrega de la Presea "Puebla de Zaragoza", así como otras condiciones que considere pertinentes el Consejo de Premiación, deberán ser publicadas cinco días antes de la fecha en que se realice la entrega, en dos de los diarios de mayor circulación en el Estado de Puebla y en la página Web del Gobierno Municipal.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
 
 DEL PREMIO MUNICIPAL DE LA JUVENTUD
 
@@ -33799,7 +34445,7 @@ TERCERO.- Se Instruye al Presidente Municipal y al Secretario del Honorable Ayun
 
 P.O. 3 DE MAYO DE 2006.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL FEDERAL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL FEDERAL VIGENTE.
 
 P.O. 18 DE OCTUBRE DE 2006.
 
@@ -33869,7 +34515,7 @@ SEGUNDO.- Se derogan todas las disposiciones en contrario al presente Dictamen.
 
 P.O. 23 DE MAYO DE 2007.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.
 
 P.O. 22 DE JUNIO DE 2007.
 
@@ -33923,11 +34569,11 @@ SEGUNDO.- Las propuestas a que se refieren los artículos 222 fracción IX y 224
 
 TERCERO.- Para el caso de los Jueces Calificadores, Secretarios, Supervisores y Notificadores que forman parte de los Juzgados Calificadores y que actualmente se encuentran laborando, deberán aprobar los exámenes por oposición y cumplir con los requisitos que señala el Código Reglamentario Municipal; para tal efecto el Síndico Municipal convocará a las Asociaciones de Abogados, Barras y Colegios de Abogados que tengan debidamente acreditada su personalidad, para realizar y formular la convocatoria para el examen aludido, lo anterior para ratificar o no los nombramientos correspondientes, en un plazo no mayor a treinta días a partir de la publicación del presente Reglamento en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2011)</small>
 
 CUARTO.- Las Zonas Publicitarias que se señalan en el artículo 1254 fracción XLV del Código Reglamentario para el Municipio de Puebla, se componen por los corredores urbanos CAl (Corredor de Alto Impacto) y CUMS (Corredor de Servicios y Uso Mixto), mismos que a continuación se detallan.
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 QUINTO.- Para los efectos de los anuncios en azoteas, una vez que sea publicado este ordenamiento en el Periódico Oficial del Estado, los propietarios o titulares de las licencias deberán retirarlos a partir de la fecha de vencimiento de la licencia o refrendo correspondiente, en un término de treinta días hábiles; facultándose a la Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable, a la Agencia de Protección al Ambiente y Desarrollo Sustentable del Municipio de Puebla, una vez que entre en vigor, a la Unidad de Normatividad y Regulación Comercial y a la Unidad Operativa Municipal de Protección Civil para que de manera conjunta o separada verifiquen el retiro del anuncio citado.
 
@@ -33969,7 +34615,7 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Dictamen.
 
 P.O. 25 DE MAYO DE 2009.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL FEDERAL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.
 
 P.O. 30 DE OCTUBRE DE 2009.
 
@@ -34063,7 +34709,7 @@ SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en las ref
 
 P.O. 23 DE SEPTIEMBRE DE 2011.
 
-LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.
 
 P.O. 5 DE OCTUBRE DE 2011.
 
@@ -34074,6 +34720,20 @@ P.O. 20 DE ABRIL DE 2012.
 PRIMERO.- El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan a lo enunciado en el presente Dictamen.
+
+P.O. 25 DE MAYO DE 2012.
+
+PRIMERO.- El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a lo establecido en las reformas y adiciones contenidas en el presente Dictamen.
+
+TERCERO.- El presente Capítulo tendrá debida adecuación y aplicación, una vez que entre en vigor el Código Penal para el Estado Libre y Soberano de Puebla.
+
+P.O. 4 DE JUNIO DE 2012.
+
+PRIMERO.- Las presentes reformas, adiciones y derogaciones del Código Reglamentario para el Municipio de Puebla, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- Los efectos de la reforma del artículo 670, entrarán en vigor hasta que concluya el periodo de los representantes que integren la Comisión de Asesoría y Admisión de Peritos Directores Responsables de Obra y Corresponsables al momento de la publicación de las presentes reformas, adiciones y derogaciones del Código Reglamentario para el Municipio de Puebla, en el Periódico Oficial del Estado de Puebla.
 
 ## [N. DE E. TRANSITORIOS DE LA “MODIFICACIÓN AL ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA, PUBLICADO EL 5 DE DICIEMBRE DE 2019”.]
 
