@@ -4,7 +4,7 @@ identifier: "COA-ley-de-turismo-para-el-estado-de-coahuila-de-zaragoza-68148"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-10"
-last_updated: "2009-02-10"
+last_updated: "2012-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68148&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,819 +21,615 @@ state: "COA"
 ---
 # LEY DE TURISMO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-LEY DE INVERSIÓN EXTRANJERA
+LEY DE TURISMO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2012.
 
-Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 27 de diciembre de 1993.
+Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 10 de febrero de 2009.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+EL C. PROFR. HUMBERTO MOREIRA VALDÉS, GOBERNADOR CONSTITUCIONAL DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, A SUS HABITANTES SABED:
 
-CARLOS SALINAS DE GORTARI, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes sabed:
+QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA;
 
-Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente
+DECRETA:
 
-DECRETO
+NÚMERO 712.-
 
-"EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A:
+LEY DE TURISMO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-LEY DE INVERSION EXTRANJERA
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-## TITULO PRIMERO. DISPOSICIONES GENERALES
+###### Artículo 1.
 
-### Capítulo I. Del Objeto de la Ley
+La presente ley es de orden público e interés social y tiene por objeto regular la planeación, la promoción, el fomento y el desarrollo sustentable de las actividades turísticas en el Estado de Coahuila de Zaragoza, así como establecer las bases para la organización y funcionamiento de las dependencias competentes en la materia.
 
-###### ARTICULO 1o.
+La aplicación de esta ley corresponde al Ejecutivo del Estado, a través de la Secretaría de Turismo, a los municipios en la esfera de su competencia y demás autoridades y organismos competentes establecidos en la misma.
 
-La presente Ley es de orden público y de observancia general en toda la República. Su objeto es la determinación de reglas para canalizar la inversión extranjera hacia el país y propiciar que ésta contribuya al desarrollo nacional.
+###### Artículo 2.
 
-###### ARTICULO 2o.
+El Titular del Ejecutivo del Estado, por conducto de la Secretaría de Turismo podrá extender su relación con los municipios y demás instancias en materia de turismo, observando los principios de coordinación, cooperación, asistencia e información mutua así como al irrestricto respeto de sus ámbitos de competencia. Podrán celebrarse convenios, acuerdos, planes y programas conjuntos.
 
-Para los efectos de esta Ley, se entenderá por:
+Esta ley, su reglamento y demás disposiciones en la materia, establecerán los lineamientos y mecanismos de organización y coordinación que deberán observar los organismos, asociaciones y programas en materia de turismo, que coadyuven directamente a (sic) al desarrollo de la infraestructura, a la promoción y fomento y demás acciones en materia turística.
 
-I.- Comisión: la Comisión Nacional de Inversiones Extranjeras;
+###### Artículo 3.
 
-II.- Inversión extranjera:
+Para los efectos de la presente ley, se entenderá por:
 
-a) La participación de inversionistas extranjeros, en cualquier proporción, en el capital social de sociedades mexicanas;
+I. ACTIVIDAD TURÍSTICA. Aquella que realizan las personas físicas o morales destinada a invertir, desarrollar y comercializar los destinos y atractivos turísticos en el Estado, así como la prestación de los servicios necesarios vinculados al turismo;
 
-b) La realizada por sociedades mexicanas con mayoría de capital extranjero; y
+II. CONSEJO. El Consejo Estatal de Turismo;
 
-c) La participación de inversionistas extranjeros en las actividades y actos contemplados por esta Ley.
+III. EMPRESA TURÍSTICA. Aquella que presta servicios profesionales relacionados con la actividad turística de manera habitual, ya sea de modo permanente o por temporadas específicas, a cambio de un pago o retribución determinada;
 
-III.- Inversionista extranjero: a la persona física o moral de nacionalidad distinta a la mexicana y las entidades extranjeras sin personalidad jurídica;
+IV. ENTIDADES. Las dependencias, organismos e instituciones de carácter federal, estatal y municipal;
 
-IV.- Registro: el Registro Nacional de Inversiones Extranjeras;
+V. ESTABLECIMIENTOS TURÍSTICOS. Los locales o instalaciones abiertas al público en general en los que se presten servicios turísticos de acuerdo con las disposiciones aplicables;
 
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+VI. LEY. La Ley de Turismo para el Estado de Coahuila de Zaragoza;
 
-V.- Secretaría: la Secretaría de Economía;
+VII. LEY FEDERAL. La Ley Federal de Turismo;
 
-VI.- Zona Restringida: La faja del territorio nacional de cien kilómetros a lo largo de las fronteras y de cincuenta a lo largo de las playas, a que hace referencia la fracción I del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos; y
+VIII. MUNICIPIOS. Los municipios del Estado de Coahuila de Zaragoza;
 
-VII.- Cláusula de Exclusión de Extranjeros: El convenio o pacto expreso que forme parte integrante de los estatutos sociales, por el que se establezca que las sociedades de que se trate no admitirán directa ni indirectamente como socios o accionistas a inversionistas extranjeros, ni a sociedades con cláusula de admisión de extranjeros.
+IX. PATRIMONIO TURÍSTICO. El conjunto de bienes que generen el interés del mercado turístico por sus características y valores naturales, históricos, culturales y estéticos o simbólicos, que se deben incorporar en el mismo al disponer de la infraestructura necesaria para el adecuado desarrollo de la actividad turística y que por lo mismo requieran ser preservados, conservados y protegidos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+X. PRESTADOR DEL SERVICIO TURÍSTICO. La persona física o moral que habitualmente proporciona, intermedia o contrata con el turista la prestación de los servicios a que se refiere esta ley y demás disposiciones aplicables;
 
-> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2011)</small>
+XI. PROGRAMA. El Programa Estatal de Turismo, el cual se conforma por diversos planes y programas sectoriales de turismo;
 
-###### ARTICULO 3o.
+XII. PROMOCIÓN TURÍSTICA. La programación, divulgación y proyección de la publicidad y difusión por cualquier medio, de la información especializada, actividades, destinos, atractivos y servicios que el Estado ofrece en materia de turismo, dentro del marco de esta ley y de las disposiciones aplicables; así como las actividades de promoción derivadas de los convenios que se suscriban con el fin de incrementar la afluencia turística al Estado;
 
-Para los efectos de esta Ley se equipara a la inversión mexicana la que efectúen los extranjeros en el país con la condición de estancia de Residente Permanente, salvo aquélla realizada en las actividades contempladas en los Títulos Primero y Segundo de esta Ley.
+XIII. REGISTRO. El Registro Estatal de Prestadores de Servicios Turísticos;
 
-###### ARTICULO 4o.
+XIV. REGLAMENTO. El Reglamento de la Ley de Turismo para el Estado de Coahuila;
 
-La inversión extranjera podrá participar en cualquier proporción en el capital social de sociedades mexicanas, adquirir activos fijos, ingresar a nuevos campos de actividad económica o fabricar nuevas líneas de productos, abrir y operar establecimientos, y ampliar o relocalizar los ya existentes, salvo por lo dispuesto en esta Ley.
+XV. REGLAMENTO INTERIOR. El Reglamento Interior de la Secretaría de Turismo del Estado de Coahuila;
 
-Las reglas sobre la participación de la inversión extranjera en las actividades del sector financiero contempladas en esta Ley, se aplicarán sin perjuicio de lo que establezcan las leyes específicas para esas actividades.
+XVI. SECRETARÍA. La Secretaría de Turismo del Gobierno del Estado de Coahuila;
 
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+XVII. TITULAR DEL EJECUTIVO. El Gobernador Constitucional del Estado de Coahuila de Zaragoza;
 
-Para efectos de determinar el porcentaje de inversión extranjera en las actividades económicas sujetas a límites máximos de participación, no se computará la inversión extranjera que, de manera indirecta, sea realizada en dichas actividades a través de sociedades mexicanas con mayoría de capital mexicano, siempre que éstas últimas no se encuentren controladas por la inversión extranjera.
+XVIII. TURISMO. La actividad realizada por una o más personas, durante sus viajes y estancias en lugares distintos a los de su residencia habitual, por un período de tiempo ininterrumpido menor de un año, por esparcimiento, recreación, salud, descanso, educación, cultura u otros afines, generándose de estas actividades beneficios económicos y sociales que contribuyen al desarrollo del Estado;
 
-### Capítulo II. De las Actividades Reservadas
+XIX. TURISTA. Cualquier persona que se desplace de manera temporal fuera de su lugar de residencia habitual por un periodo consecutivo menor a un año, y que utilice alguno de los servicios turísticos a que se refiere esta ley, sin perjuicio de lo dispuesto para efectos migratorios en las leyes aplicables, y
 
-###### ARTICULO 5o.
+XX. ZONA TURÍSTICA. Las áreas desarrolladas o destinadas para llevar a cabo alguna actividad turística y la prestación de servicios turísticos, incluidas las zonas arqueológicas, paleontológicas, zonas con atractivos naturales y lugares históricos.
 
-Están reservadas de manera exclusiva al Estado las funciones que determinen las leyes en las siguientes áreas estratégicas:
+### CAPÍTULO SEGUNDO. ATRIBUCIONES EN MATERIA DE TURISMO
 
-> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+###### Artículo 4.
 
-I.- Exploración y extracción del petróleo y de los demás hidrocarburos, en términos de lo dispuesto por los artículos 27, párrafo séptimo y 28, párrafo cuarto de la Constitución Política de los Estados Unidos Mexicanos y la Ley reglamentaria respectiva;
+Son atribuciones de la Secretaria de Turismo:
 
-II.- (DEROGADA, D.O.F. 11 DE AGOSTO DE 2014)
+I. Formular y desarrollar el Programa Estatal de Turismo, de acuerdo con los principios y objetivos del Plan Estatal de Desarrollo, esta ley, su reglamento y demás disposiciones aplicables;
 
-> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+II. Crear, previa aprobación del Titular del Ejecutivo Estatal, las normas técnicas estatales en la materia y vigilar su debida observancia;
 
-III.- Planeación y control del sistema eléctrico nacional, así como el servicio público de transmisión y distribución de energía eléctrica, en términos de lo dispuesto por los artículos 27, párrafo sexto y 28, párrafo cuarto de la Constitución Política de los Estados Unidos Mexicanos y la Ley reglamentaria respectiva;
+III. Crear, con aprobación del Titular del Ejecutivo Estatal y de acuerdo al presupuesto anual, coordinaciones de carácter regional, a fin de darle apoyo y lograr la consecución de los objetivos previstos en esta ley, el reglamento, el Plan Estatal de Desarrollo y demás disposiciones aplicables;
 
-IV.- Generación de energía nuclear;
+IV. Cuidar y promover la imagen de Coahuila como destino turístico, a nivel local, regional, nacional e internacional;
 
-V.- Minerales radioactivos;
+V. Coordinar las actividades de promoción turística que realicen las áreas adscritas a la Secretaria fuera del territorio del Estado;
 
-VI.- (DEROGADA POR LA FRACCIÓN II DEL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE TELECOMUNICACIONES, D.O.F. 7 DE JUNIO DE 1995)
+VI. Elaborar el Registro y establecer la coordinación de información respecto al Registro Nacional de Turismo, para garantizar la actualización y eficacia de este instrumento de difusión;
 
-VII.- Telégrafos;
+VII. Participar en las reuniones de los comités, fideicomisos, programas y fondos que se constituyan para la promoción turística en el Estado;
 
-VIII.- Radiotelegrafía;
+VIII. Fomentar la capacitación, actualización y especialización del personal adscrito a la Secretaria, de los municipios, así como de los prestadores de servicios turísticos;
 
-IX.- Correos;
+IX. Aplicar las políticas, lineamientos, sistemas y procedimientos establecidos para la administración de los recursos humanos, materiales y financieros de la Secretaría;
 
-X.- (DEROGADA POR LA FRACCIÓN II DEL ARTÍCULO TERCERO TRANSITORIO DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO, D.O.F. 12 DE MAYO DE 1995)
+X. Proponer y someter a consideración del Titular del Ejecutivo del Estado, la organización administrativa y operativa, el proyecto de presupuesto anual y los programas, planes y acciones de trabajo de la Secretaría, así como la creación del Consejo Estatal de Turismo;
 
-XI.- Emisión de billetes;
+XI. Celebrar contratos, convenios y todos aquellos actos jurídicos que se requieran para el debido cumplimiento de las funciones y objetivos de esta ley, del Programa Estatal de Turismo y demás planes y disposiciones en la materia;
 
-XII.- Acuñación de moneda;
+XII. Proponer a la Secretaría de Turismo Federal que decrete las zonas de desarrollo turístico prioritario de aquellos destinos que, por sus características geográficas, naturales, históricas, culturales o típicas, constituyan un atractivo turístico real y potencial comprobado. Asimismo, coadyuvará en el fomento de la inversión pública y privada en las zonas referidas;
 
-XIII.- Control, supervisión y vigilancia de puertos, aeropuertos y helipuertos; y
+XIII. Proteger y conservar los recursos turísticos del Estado y apoyar a las instancias correspondientes en la protección del patrimonio natural y cultural;
 
-XIV.- Las demás que expresamente señalen las disposiciones legales aplicables.
+XIV. Participar en la revisión y colaboración respecto de las iniciativas de ley y demás temas de carácter legislativo relacionados con la materia que se presenten, así como elaborar y proponer a las autoridades competentes para su revisión y autorización, el reglamento de esta ley y demás disposiciones que, en materia de turismo, se consideren necesarias;
 
-###### ARTICULO 6o.
+XV. Promover, en coordinación con las instancias correspondientes y con los prestadores de servicios turísticos en el Estado, la educación ambiental del turista y de los residentes locales, fomentando la práctica y desarrollo de las actividades de turismo de naturaleza sustentable;
 
-Las actividades económicas y sociedades que se mencionan a continuación, están reservadas de manera exclusiva a mexicanos o a sociedades mexicanas con cláusula de exclusión de extranjeros:
+XVI. Diseñar e implementar un sistema de informática que permita dar atención a las necesidades que demanda la actividad turística en el Estado;
 
-I.- Transporte terrestre nacional de pasajeros, turismo y carga, sin incluir los servicios de mensajería y paquetería;
+XVII. Vigilar que la prestación del servicio turístico en el Estado se realice sin ejercer actos discriminatorios en razón de género, idioma, raza, nacionalidad, credo, condición económica, preferencia sexual o cualquier otra causa similar;
 
-II.- (DEROGADA, D.O.F. 11 DE AGOSTO DE 2014)
+XVIII. Brindar, en coordinación con las instancias correspondientes, el apoyo necesario a los turistas en el caso de accidentes, emergencias y demás situaciones en materia de seguridad que requieran de su atención, y
 
-III.- (DEROGADA, D.O.F. 14 DE JULIO DE 2014)
+XIX. Las demás previstas en esta ley y demás disposiciones aplicables.
 
-IV.- (DEROGADA POR EL ARTÍCULO DÉCIMO TRANSITORIO DE LA LEY DE UNIONES DE CRÉDITO, D.O.F. 20 DE AGOSTO DE 2008)
+###### Artículo 5.
 
-V.- Instituciones de banca de desarrollo, en los términos de la ley de la materia; y
+Para la mejor atención y despacho de los asuntos y atribuciones que ejerza la Secretaria, se podrán crear coordinaciones de carácter regional, a fin de darle apoyo y lograr la consecución de los objetivos previstos en esta ley, el reglamento, el Plan Estatal de Desarrollo y demás disposiciones aplicables.
 
-VI.- La prestación de los servicios profesionales y técnicos que expresamente señalen las disposiciones legales aplicables.
+Estas coordinaciones se crearán conforme a las regiones previstas por el Plan Estatal de Desarrollo, de acuerdo a las posibilidades presupuestales y tendrán las atribuciones que le sean delegadas por su superior jerárquico.
 
-La inversión extranjera no podrá participar en las actividades y sociedades mencionadas en el presente artículo directamente, ni a través de fideicomisos, convenios, pactos sociales o estatutarios, esquemas de piramidación, u otro mecanismo que les otorgue control o participación alguna, salvo por lo dispuesto en el Título Quinto de esta Ley.
+###### Artículo 6.
 
-### Capítulo III. De las Actividades y Adquisiciones con Regulación Específica
+Son atribuciones de los municipios:
 
-###### ARTICULO 7o.
+I. Proteger y conservar sus recursos turísticos, en particular el patrimonio natural y cultural, así como adoptar medidas tendientes a su efectiva utilización y conservación;
 
-En las actividades económicas y sociedades que se mencionan a continuación la inversión extranjera podrá participar en los porcentajes siguientes:
+II. Impulsar y llevar a cabo las acciones en materia de planeación, fomento, desarrollo y promoción turística en coordinación con la Secretaría y demás instancias correspondientes;
 
-I.- Hasta el 10% en:
+III. Elaborar el programa municipal de fomento al turismo, con la participación de los sectores social, público y privado;
 
-Sociedades cooperativas de producción;
+IV. Otorgar las licencias, permisos y demás autorizaciones de carácter municipal, a los prestadores de servicios, a las empresas y establecimientos turísticos que funcionen en la entidad;
 
-II.- (DEROGADA, D.O.F. 26 DE JUNIO DE 2017)
+V. Promover la realización de obras de infraestructura y urbanización para los centros turísticos, con la participación que corresponda del Estado y la Federación, así como de los particulares;
 
-a) (DEROGADO, D.O.F. 26 DE JUNIO DE 2017)
+VI. Llevar a acabo, con la colaboración de las autoridades competentes, la señalización que sea necesaria en los centros y zonas turísticas;
 
-b (DEROGADO, D.O.F. 26 DE JUNIO DE 2017)
+VII. Contribuir en la orientación, información y auxilio a los turistas, en coordinación con las autoridades competentes;
 
-c) (DEROGADO, D.O.F. 26 DE JUNIO DE 2017)
+VIII. Participar en la coordinación de eventos de carácter turístico como ferias, congresos, exposiciones, festivales culturales y demás actividades análogas;
 
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+IX. Promover la creación e integración de un consejo municipal de turismo, y
 
-III.- Hasta el 49% en:
+X. Las demás que le atribuya esta ley, su reglamento y demás disposiciones aplicables.
 
-a) (DEROGADO, D.O.F. 19 DE ENERO DE 1999)
+### CAPÍTULO TERCERO. PLANEACIÓN DE LA ACTIVIDAD TURÍSTICA
 
-b) (DEROGADO, D.O.F. 19 DE ENERO DE 1999)
+###### Artículo 7.
 
-c) (DEROGADO, D.O.F. 19 DE ENERO DE 1999)
+La Secretaría coordinará las estrategias de planeación de la actividad turística en el Estado. Se encargará de elaborar y coordinar el Programa Estatal de Turismo, el cual deberá precisar los objetivos, prioridades y políticas que regirán dicha actividad en la entidad en observancia a esta ley, el Reglamento, el Plan Estatal de Desarrollo y demás planes, programas y disposiciones establecidos en el orden federal y municipal.
 
-d) (DEROGADO, D.O.F. 19 DE ENERO DE 1999)
+La Secretaría coordinará la participación y apoyo de las demás instancias y organizaciones públicas y privadas que contribuyan a la elaboración del mismo.
 
-e) (DEROGADO, D.O.F. 10 DE ENERO DE 2014)
+La evaluación del cumplimiento de las acciones previstas en el Programa se realizará una vez por año, sin perjuicio de que, en caso de estimarse pertinente, se lleven a cabo evaluaciones periódicas, en los términos que fije el Reglamento.
 
-f) (DEROGADO, D.O.F. 10 DE ENERO DE 2014)
+###### Artículo 8.
 
-g) (DEROGADO, D.O.F. 10 DE ENERO DE 2014)
+El Programa deberá contener un diagnóstico de la situación y un pronóstico del desarrollo del turismo en el Estado y determinará los objetivos, metas, estrategias, prioridades y políticas de largo, mediano y corto plazo de esta actividad a nivel estatal, observando lo previsto en la ley, las disposiciones reglamentarias, administrativas y política económica que sean aplicables.
 
-h) (DEROGADO, D.O.F. 10 DE ENERO DE 2014)
+###### Artículo 9.
 
-i) (DEROGADO, D.O.F. 18 DE JULIO DE 2006)
+El Programa es de observancia obligatoria y deberá publicarse en el Periódico Oficial del Gobierno del Estado.
 
-j) (DEROGADO, D.O.F. 18 DE JULIO DE 2006)
+###### Artículo 10.
 
-k) (DEROGADO, D.O.F. 18 DE JULIO DE 2006)
+El Programa se constituirá de ejes rectores con diversos objetivos sectoriales y específicos que precisen el impulso al desarrollo del turismo sustentable de manera integral en el Estado.
 
-l) (DEROGADO, D.O.F. 10 DE ENERO DE 2014)
+### CAPÍTULO CUARTO. FOMENTO, DESARROLLO Y PROMOCIÓN TURÍSTICA
 
-m) (DEROGADO, D.O.F. 4 DE JUNIO DE 2001)
+###### Artículo 11.
 
-n) (DEROGADO, D.O.F. 4 DE JUNIO DE 2001)
+El fomento y desarrollo en materia turística tienen por objeto:
 
-o) (DEROGADO, D.O.F. 10 DE ENERO DE 2014)
+I. Impulsar la política de desarrollo y fomento turístico, sus objetivos, metas y estrategias, y evaluar su ejecución;
 
-p) Fabricación y comercialización de explosivos, armas de fuego, cartuchos, municiones y fuegos artificiales, sin incluir la adquisición y utilización de explosivos para actividades industriales y extractivas, ni la elaboración de mezclas explosivas para el consumo de dichas actividades;
+II. Desarrollar productos turísticos e identificar áreas de oportunidad;
 
-q) Impresión y publicación de periódicos para circulación exclusiva en territorio nacional;
+III. Innovar respecto de las estrategias que provoquen una afluencia turística mayor;
 
-r) Acciones serie "T" de sociedades que tengan en propiedad tierras agrícolas, ganaderas y forestales;
+IV. Fortalecer las acciones y costumbres hospitalarias de nuestra gente en beneficio del turista;
 
-s) Pesca en agua dulce, costera y en la zona económica exclusiva, sin incluir acuacultura;
+V. Proveer a todos los sectores del Estado, de una sólida cultura turística;
 
-t) Administración portuaria integral;
+VI. Fomentar la elaboración de programas para captación de turismo doméstico y receptivo en cualquiera de sus tipos;
 
-u) Servicios portuarios de pilotaje a las embarcaciones para realizar operaciones de navegación interior en los términos de la Ley de la materia;
+VII. Supervisar la integración y desarrollo del proyecto de los programas sectoriales de turismo que se elaboren, y la evaluación de su cumplimiento, y
 
-v) Sociedades navieras dedicadas a la explotación comercial de embarcaciones para la navegación interior y de cabotaje, con excepción de cruceros turísticos y la explotación de dragas y artefactos navales para la construcción, conservación y operación portuaria;
+VIII. Apoyar a las entidades municipales en la formulación de programas de desarrollo turístico.
 
-> <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2017)</small>
+###### Artículo 12.
 
-w) Suministro de combustibles y lubricantes para embarcaciones y aeronaves y equipo ferroviario;
+La promoción turística tiene por objeto:
 
-> <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2017)</small>
+I Planear las estrategias de difusión de la información oficial en materia de promoción turística en Coahuila;
 
-x) Radiodifusión. Dentro de este máximo de inversión extranjera se estará a la reciprocidad que exista en el país en el que se encuentre constituido el inversionista o el agente económico que controle en última instancia a éste, directa o indirectamente, y
+II. Diseñar la política de promoción y mercadotecnia turística en el Estado, sus objetivos, metas, estrategias, y evaluar su ejecución;
 
-> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2017)</small>
+III. Estudiar y evaluar las tendencias del mercado estatal, nacional e internacional, con la finalidad de crear campañas de promoción y difusión que sean más efectivas, y
 
-y) Servicio de transporte aéreo nacional regular y no regular; servicio de transporte aéreo internacional no regular en la modalidad de taxi aéreo; y, servicio de transporte aéreo especializado.
+IV. Estudiar los aspectos relacionados a la imagen actual de los municipios coahuilenses, a fin de fortalecerlos y elevar la calidad de los servicios turísticos.
 
-IV.- (DEROGADA, D.O.F. 24 DE DICIEMBRE DE 1996)
+###### Artículo 13.
 
-Los límites para la participación de inversión extranjera señalados en este artículo no podrán ser rebasados directamente, ni a través de fideicomisos, convenios, pactos sociales o estatutarios, esquemas de piramidación, o cualquier otro mecanismo que otorgue control o una participación mayor a la que se establece, salvo por lo dispuesto en el Título Quinto de esta Ley.
+El fomento, desarrollo y la promoción turística estarán coordinados por la Secretaría, la cual establecerá las bases, líneas de acción y coordinación con las entidades y dependencias federales, estatales, municipales y demás personas morales que tengan por objeto la promoción turística en el Estado, y que estén relacionadas con las demás acciones en materia de turismo.
 
-###### ARTICULO 8o.
+###### Artículo 14.
 
-Se requiere resolución favorable de la Comisión para que la inversión extranjera participe en un porcentaje mayor al 49% en las actividades económicas y sociedades que se mencionan a continuación:
+La Secretaría promoverá y coordinará, con el apoyo de las instituciones correspondientes, festivales, exposiciones, ferias turísticas, eventos deportivos, artísticos, culturales y otros relacionados con la difusión de los atractivos y destinos turísticos, así como los servicios que se presten en la materia.
 
-I.- Servicios portuarios a las embarcaciones para realizar sus operaciones de navegación interior, tales como el remolque, amarre de cabos y lanchaje;
+###### Artículo 15.
 
-II.- Sociedades navieras dedicadas a la explotación de embarcaciones exclusivamente en tráfico de altura;
+En los eventos que señala el artículo anterior, la Secretaría otorgará reconocimientos a los prestadores de servicios turísticos que se destaquen por su interés, creatividad, inversión, atención, apoyo y promoción de la actividad turística en el Estado.
 
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+### CAPÍTULO QUINTO. TURISMO DE NATURALEZA SUSTENTABLE
 
-III.- Sociedades concesionarias o permisionarias de aeródromos de servicio al público;
+###### Artículo 16.
 
-IV.- Servicios privados de educación preescolar, primaria, secundaria, media superior, superior y combinados;
+Para los efectos de esta ley, el turismo de naturaleza sustentable es aquel que se realiza en todo el Estado con base al uso, estudio y apreciación de los recursos naturales y las manifestaciones sociales y culturales que en ellos se encuentran.
 
-V.- Servicios legales;
+El turismo de naturaleza sustentable se integra por:
 
-VI.- (DEROGADA, D.O.F. 10 DE ENERO DE 2014)
+I. Ecoturismo. Se basa en que la motivación principal del turista sea la observación, el conocimiento, interacción y apreciación de la naturaleza, y de las manifestaciones culturales y tradicionales de los habitantes de las zonas rurales, lo que implica tomar conciencia con respecto al aprovechamiento, conservación y restauración de los recursos naturales y las formas de producir el menor impacto negativo sobre el ambiente y el entorno sociocultural de las comunidades, que les genera beneficios económicos ofreciendo oportunidades y alternativas de empleo;
 
-VII.- (DEROGADA, D.O.F. 10 DE ENERO DE 2014)
+II. Turismo de aventura. En ella se incluyen diferentes actividades deportivas y recreativas en armonía con el medio ambiente, respetando el patrimonio natural, cultural, turístico e histórico;
 
-VIII.- (DEROGADA, D.O.F. 10 DE ENERO DE 2014)
+III. Turismo rural. En esta categoría se promueve la participación del turista que participa en actividades propias de las comunidades, los ejidos y los pueblos indígenas con fines culturales, educativos y recreativos, promoviendo con ello la generación de ingresos adicionales a la economía rural y a la preservación de los ecosistemas en los que habitan, y
 
-IX.- (DEROGADA, D.O.F. 14 DE JULIO DE 2014)
+IV. Turismo alternativo. Es aquel que tiene como fin realizar actividades recreativas en contacto con la naturaleza y las expresiones culturales, con una actitud y compromiso de conocer, respetar, disfrutar y participar de la preservación de los elementos y recursos naturales y culturales.
 
-X.- (DEROGADA, D.O.F. 11 DE AGOSTO DE 2014)
+###### Artículo 17.
 
-XI.- (DEROGADA, D.O.F. 11 DE AGOSTO DE 2014)
+El objeto del turismo de naturaleza sustentable es la preservación, conservación, restauración y mejoramiento de los recursos naturales, garantizando la permanencia de los procesos biológicos y ecológicos, así como de las diversas expresiones históricas, artísticas y culturales tangibles e intangibles.
 
-> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+###### Artículo 18.
 
-XII.- Construcción, operación y explotación de vías férreas que sean vía general de comunicación, y prestación del servicio público de transporte ferroviario.
+La Secretaría procurará la coordinación y colaboración entre las entidades federales, estatales y municipales, a fin de que las actividades de turismo de naturaleza sustentable se desarrollen en equilibrio con la protección de los recursos naturales y las condiciones sociales, históricas y culturales del Estado.
 
-###### ARTICULO 9o.
+### CAPÍTULO SEXTO. TURISMO SOCIAL
 
-Se requiere resolución favorable de la Comisión para que en las sociedades mexicanas donde la inversión extranjera pretenda participar, directa o indirectamente, en una proporción mayor al 49% de su capital social, únicamente cuando el valor total de activos de las sociedades de que se trate, al momento de someter la solicitud de adquisición, rebase el monto que determine anualmente la propia Comisión.
+###### Artículo 19.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+El Turismo Social tiene por objeto facilitar la participación e inclusión en el turismo de los grupos de trabajadores, niños, jóvenes, estudiantes, personas con capacidades diferentes, adultos mayores y demás sectores vulnerables de la población, que por razones físicas, económicas, sociales o culturales tengan acceso limitado a disfrutar del patrimonio y los servicios turísticos, a través de los planes, proyectos y programas que instrumente la Secretaría.
 
-## TITULO SEGUNDO. DE LA ADQUISICION DE BIENES INMUEBLES, LA EXPLOTACION DE MINAS Y AGUAS, Y DE LOS FIDEICOMISOS
+###### Artículo 20.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+El Turismo Social se integra por las acciones e instrumentos que propicien la promoción y otorguen facilidades para la inclusión de los sectores a que se refiere el artículo anterior, en las actividades turísticas, recreativas, deportivas y culturales.
 
-###### ARTICULO 10.
+###### Artículo 21.
 
-De conformidad con lo dispuesto por la fracción I del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, las sociedades mexicanas con cláusula de exclusión de extranjeros o que hayan celebrado el convenio a que se refiere dicho precepto, podrán adquirir el dominio de bienes inmuebles en el territorio nacional.
+El Titular del Ejecutivo del Estado, por conducto de la Secretaría, garantizará la participación de los sectores vulnerables del Estado en el ejercicio del derecho al esparcimiento y recreación, así como a aquellas actividades afines a la misma.
 
-En el caso de las sociedades en cuyos estatutos se incluya el convenio previsto en la fracción I del artículo 27 Constitucional, se estará a lo siguiente:
+###### Artículo 22.
 
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+La Secretaría se coordinará con entidades federales, estatales y municipales, instancias y organismos de la sociedad civil, para elaborar programas de turismo social e implementar acciones de apoyo en base a las necesidades y características de cada grupo que conforman los sectores vulnerables del Estado.
 
-I.- Podrán adquirir el dominio de bienes inmuebles ubicados en la zona restringida, destinados a la realización de actividades no residenciales, debiendo dar aviso de dicha adquisición a la Secretaría de Relaciones Exteriores, dentro de los sesenta días hábiles siguientes a aquél en el que se realice la adquisición, y
+###### Artículo 23.
 
-II.- Podrán adquirir derechos sobre bienes inmuebles en la zona restringida, que sean destinados a fines residenciales, de conformidad con las disposiciones del capítulo siguiente.
+La Secretaría promoverá la creación y operación de empresas turísticas en diversos municipios y regiones del Estado, a fin de impulsar su desarrollo económico mediante la actividad turística y generar empleos.
 
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+Las entidades estatales y municipales promoverán, entre sus trabajadores, la actividad turística como un derecho al descanso y recreación.
 
-###### ARTICULO 10-A.
+Además procurarán que los sectores social y privado participen en programas que hagan posible el turismo de sus trabajadores en temporadas y condiciones convenientes.
 
-Los extranjeros que pretendan adquirir bienes inmuebles fuera de la zona restringida, u obtener concesiones para la exploración y explotación de minas y aguas en el territorio nacional, deberán presentar previamente ante la Secretaría de Relaciones Exteriores un escrito en el que convengan lo dispuesto en la fracción I del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos y obtener el permiso correspondiente de dicha dependencia.
+### CAPÍTULO SÉPTIMO. LA CAPACITACIÓN TURÍSTICA
 
-Cuando el bien inmueble que se pretenda adquirir esté en un municipio totalmente ubicado fuera de la zona restringida o cuando se pretenda obtener una concesión para la explotación de minas y aguas en territorio nacional, el permiso se entenderá otorgado si no se publica en el Diario Oficial de la Federación la negativa de la Secretaría de Relaciones Exteriores dentro de los cinco días hábiles siguientes a la fecha de la presentación de la solicitud.
+###### Artículo 24.
 
-Cuando el bien inmueble que se pretenda adquirir esté en un municipio parcialmente ubicado dentro de la zona restringida, la Secretaría de Relaciones Exteriores resolverá la petición dentro de los treinta días hábiles siguientes a la fecha de su presentación.
+La Secretaría promoverá acciones de coordinación para la elaboración de planes y programas de estudio para la capacitación turística con las instancias y entidades federales, estatales y municipales, así como con los demás organismos públicos, sociales y privados en el establecimiento de centros de educación y capacitación para la formación de profesionales en materia de turismo.
 
-El Instituto Nacional de Estadística, Geografía e Informática publicará en el Diario Oficial de la Federación y mantendrá actualizada una lista de los municipios mencionados, así como de los que estén totalmente ubicados en la zona restringida.
+###### Artículo 25.
 
-La Secretaría de Relaciones Exteriores podrá determinar, mediante acuerdos generales que se publicarán en el Diario Oficial de la Federación, supuestos en los que los extranjeros, para tener el derecho a que se refiere este artículo, sólo deberán presentar ante dicha dependencia un escrito en el que convengan lo dispuesto en la fracción I del artículo 27 constitucional, sin requerir el permiso correspondiente de dicha dependencia.
+La Secretaria considerará dentro de la elaboración de los planes y programas de estudio en materia de turismo, los siguientes aspectos:
 
-### Capítulo I. De la adquisición de bienes inmuebles y explotación de minas y aguas
+I. El mejoramiento de la calidad en los servicios que se prestan al turista;
 
-###### ARTICULO 11.
+II. La protección del patrimonio histórico y cultural del Estado;
 
-Se requiere permiso de la Secretaría de Relaciones Exteriores para que instituciones de crédito adquieran como fiduciarias, derechos sobre bienes inmuebles ubicados dentro de la zona restringida, cuando el objeto del fideicomiso sea permitir la utilización y el aprovechamiento de tales bienes sin constituir derechos reales sobre ellos, y los fideicomisarios sean:
+III. La visión de impulso y promoción de los elementos que conforman el turismo en el Estado;
 
-I.- Sociedades mexicanas sin cláusula de exclusión de extranjeros en el caso previsto en la fracción II del artículo 10 de esta Ley; y
+IV. La conservación y protección de los recursos naturales y ecosistemas del Estado, y
 
-II.- Personas físicas o morales extranjeras.
+V. Aquellos factores, elementos y demás instrumentos que tengan por objeto fomentar el turismo en equilibrio con el desarrollo urbano, social, ambiental y económico del Estado.
 
-###### ARTICULO 12.
+###### Artículo 26.
 
-Se entenderá por utilización y aprovechamiento de los bienes inmuebles ubicados en la zona restringida, los derechos al uso o goce de los mismos, incluyendo en su caso, la obtención de frutos, productos y, en general, cualquier rendimiento que resulte de la operación y explotación lucrativa, a través de terceros o de la institución fiduciaria.
+Para la correcta aplicación de lo establecido en los planes y programas que se elaboren en materia de capacitación turística, la Secretaría llevará a cabo las siguientes acciones:
 
-###### ARTICULO 13.
+I. Realizar estudios e investigaciones que permitan la innovación y viabilidad de temas turísticos;
 
-La duración de los fideicomisos a que este capítulo se refiere, será por un periodo máximo de cincuenta años, mismo que podrá prorrogarse a solicitud del interesado.
+II. Brindar asesoría, impartir cursos, pláticas y talleres relacionados con la materia a servidores públicos del Estado y municipios, prestadores de servicios turísticos, así como a estudiantes y la ciudadanía en general;
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+III. Diseñar y desarrollar mesas de trabajo y discusión con la población, a fin de promover la participación ciudadana en materia de turismo y dar espacio a la opinión;
 
-La Secretaría de Relaciones Exteriores podrá verificar en cualquier tiempo el cumplimiento de las condiciones bajo las cuales se otorguen los permisos previstos en el presente Título, así como la presentación y veracidad del contenido de los avisos dispuestos en el mismo.
+IV. Participar con las instituciones educativas en el Estado, en la revisión de sus planes de estudios relacionados con el turismo, y
 
-###### ARTICULO 14.
+V. Las demás encaminadas a fomentar la capacitación turística en el Estado.
 
-La Secretaría de Relaciones Exteriores resolverá sobre los permisos a que se refiere el presente capítulo, considerando el beneficio económico y social que la realización de estas operaciones implique para la Nación.
+###### Artículo 27.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+La Secretaría implementará un registro o base de datos de centros de enseñanza dedicados a la especialidad de turismo, reconocidos oficialmente por la Secretaría de Educación y Cultura del Gobierno del Estado y demás instancias federales competentes.
 
-Toda solicitud de permiso deberá ser resuelta por la Secretaría de Relaciones Exteriores dentro de los cinco días hábiles siguientes a la fecha de su presentación ante la unidad administrativa central competente, o dentro de los treinta días hábiles siguientes, si se presenta en las delegaciones estatales de dicha dependencia. Concluidos dichos plazos sin que se emita resolución, se entenderá aprobada la solicitud respectiva.
+###### Artículo 28.
 
-## TITULO TERCERO. DE LAS SOCIEDADES
+La Secretaría fomentará, entre los habitantes del Estado, el desarrollo de una cultura turística, para lo cual podrá llevar a cabo acciones de difusión, fomento y promoción de las actividades turísticas de la entidad, en coordinación con las entidades federales y municipales, así como también con organismos del sector.
 
-De la Constitución y Modificación de Sociedades
+### CAPÍTULO OCTAVO. LA PRESTACIÓN DE SERVICIOS TURÍSTICOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY</small>
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+###### Artículo 29.
 
-###### ARTÍCULO 15.
+La prestación de servicios turísticos en el Estado se regirá por lo convenido entre el prestador de servicios turísticos y el turista, observando las disposiciones de esta ley, su reglamento y demás disposiciones aplicables.
 
-La Secretaría de Economía autorizará el uso de las denominaciones o razones sociales con las que pretendan constituirse las sociedades. Se deberá insertar en los estatutos de las sociedades que se constituyan, la cláusula de exclusión de extranjeros o el convenio previsto en la fracción I del artículo 27 Constitucional.
+###### Artículo 30.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY</small>
+Las normas oficiales mexicanas aplicables en materia de turismo, serán las que expida la autoridad federal competente, las cuales son de observancia obligatoria en la entidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+La calidad y clasificación de los servicios turísticos serán materia exclusiva de normas oficiales mexicanas, en los términos de la legislación aplicable.
 
-### Capítulo II. De los Fideicomisos sobre Bienes Inmuebles en Zona Restringida
+#### SECCIÓN SEGUNDA. LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
-###### ARTICULO 16.
+###### Artículo 31.
 
-El procedimiento referido en el artículo anterior, se aplicará para sociedades constituidas que cambien su denominación o razón social.
+Los prestadores de servicios turísticos tendrán los siguientes derechos:
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+I. Formar parte del Registro previsto en la fracción XIII del artículo 3 de esta ley;
 
-Las sociedades que modifiquen su cláusula de exclusión de extranjeros por la de admisión, deberán notificarlo a la Secretaría de Relaciones Exteriores, dentro de los treinta días hábiles siguientes a dicha modificación.
+II. Recibir asesoría por parte de la Secretaría, con el fin de mejorar los servicios turísticos que proporcionen a los turistas y al público en general;
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+III. Participar y colaborar con la Secretaría en la impartición de cursos, pláticas, talleres y mesas de trabajo a estudiantes y a la ciudadanía en general, dentro de los programas de capacitación turística que se lleven a cabo en el Estado;
 
-Si estas sociedades son propietarias de bienes inmuebles ubicados en la zona restringida destinados a fines no residenciales, deberán dar el aviso a que se refiere la fracción I del artículo 10 de esta Ley, dentro del plazo previsto en el párrafo anterior.
+IV. Impulsar el desarrollo y ejecución de programas de cooperación pública, privada y social de interés general para el sector turístico;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY</small>
+V. Proponer la realización de estudios, investigaciones y publicaciones que contribuyan a la mejora del desarrollo de la actividad turística en el Estado;
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+VI. Proponer a la Secretaría la implementación de planes, proyectos y programas que tengan como objeto impulsar el turismo y/o los sectores relacionados con el mismo, y
 
-ARTÍCULO 16 A.- Las solicitudes a que se refieren los artículos 15 y 16 de esta ley deberán ser resueltas por la Secretaría de Economía, dentro de los dos días hábiles inmediatos siguientes al de su presentación.
+VII. Las demás que establezca esta ley, su reglamento y demás disposiciones aplicables.
 
-## TITULO CUARTO. DE LA INVERSION DE PERSONAS MORALES EXTRANJERAS
+###### Artículo 32.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+Los prestadores de servicios turísticos tendrán las obligaciones siguientes:
 
-###### ARTICULO 17.
+I. Prestar los servicios turísticos en las condiciones y términos pactados con el turista según la normativa aplicable, así como en estricta observancia a lo establecido por esta ley, su reglamento y demás disposiciones aplicables;
 
-Sin perjuicio de lo establecido en los tratados y convenios internacionales de los que México sea parte, deberán obtener autorización de la Secretaría:
+II. Cuidar y conservar el buen estado de los establecimientos e instalaciones turísticas del Estado, así como los servicios que prestan los mismos;
 
-I.- Las personas morales extranjeras que pretendan realizar habitualmente actos de comercio en la República, y
+III. Informar previamente, con objetividad y veracidad, a los turistas sobre los servicios que ofrecen, los precios y condiciones de prestación de los mismos;
 
-II.- Las personas a que se refiere el artículo 2,736 del Código Civil para el Distrito Federal en materia común, y para toda la República en materia federal, que pretendan establecerse en la República y que no estén reguladas por leyes distintas a dicho Código.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2012)</small>
 
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+IV. Proporcionar a la Secretaría y demás autoridades en materia de turismo, la información y datos que se les requiera, con motivo del desempeño de sus funciones. Así mismo, deberá proporcionar a las autoridades estatales en materia de seguridad pública y procuración de justicia la información descrita en el artículo 32 bis de esta ley;
 
-###### ARTICULO 17-A.
+V. Tener a disposición de los turistas y del público en general, hojas para sugerencias y reclamaciones en cuanto a los servicios turísticos que proveen;
 
-La autorización a que se refiere el artículo anterior, se otorgará cuando se cumplan los siguientes requisitos:
+VI. Expedir las facturas y comprobantes que amparen el cobro de los servicios prestados;
 
-a) Que dichas personas comprueben que están constituidas de acuerdo con las leyes de su país;
+VII. Colaborar y coordinarse con la Secretaria y demás autoridades en materia de turismo, en las acciones, planes, programas y proyectos que tengan por objeto promover e impulsar la actividad turística en la entidad;
 
-b) Que el contrato social y demás documentos constitutivos de dichas personas no sean contrarios a los preceptos de orden público establecidos en las leyes mexicanas, y
+VIII. Facilitar, en los términos previstos por las disposiciones aplicables, la accesibilidad de las personas con capacidades diferentes a sus establecimientos;
 
-c) En el caso de las personas a que se refiere la fracción I del artículo anterior, que se establezcan en la República o tengan en ella alguna agencia o sucursal; o, en el caso de las personas a que se refiere la fracción II del artículo anterior, que tengan representante domiciliado en el lugar donde van a operar, autorizado para responder de las obligaciones que contraigan.
+IX. Colaborar con las entidades correspondientes en la protección de los recursos naturales involucrados en las actividades y servicios turísticos que proporcionen, mediante la difusión de acciones de protección y conservación del medio ambiente a los turistas;
 
-Toda solicitud que cumpla con los requisitos mencionados, deberá otorgarse dentro de los quince días hábiles siguientes a la fecha de su presentación. Concluido dicho plazo sin que se emita resolución, se entenderá aprobada.
+X. Capacitar en materia turística y de prestación de servicios al personal con que cuente;
 
-La Secretaría deberá remitir a la Secretaría de Relaciones Exteriores una copia de las solicitudes y de las autorizaciones que otorgue con base en este artículo.
+XI. Suscribir los seguros obligatorios con las coberturas exigidas por las disposiciones aplicables y estar al corriente del pago de las primas correspondientes, y
 
-## TITULO QUINTO. DE LA INVERSION NEUTRA
+XII. Observar y cumplir con las demás disposiciones administrativas y legales previstas en esta ley, su reglamento, la ley federal y demás disposiciones aplicables.
 
-###### ARTICULO 18.
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2012)</small>
 
-La inversión neutra es aquella realizada en sociedades mexicanas o en fideicomisos autorizados conforme al presente Título y no se computará para determinar el porcentaje de inversión extranjera en el capital social de sociedades mexicanas.
+Artículo 32 bis.- Los prestadores de servicios turísticos que tengan bajo su responsabilidad la administración y manejo de un hotel, motel, casa de hospedaje o algún otro establecimiento donde se preste alojamiento mediante el pago de una retribución, deberán exigir a quienes pretendan hospedarse y éstos tendrán obligación de presentar identificación oficial al momento de su registro, y en su caso el número de identificación vehicular (placas). El prestador de servicios formara una base de datos observando lo establecido en la Ley federal de Protección de Datos Personales en Posesión de Particulares, información que proporcionara a las autoridades estatales en materia de seguridad pública y procuración de justicia, de forma inmediata cuando se les requiera.
 
-### Capítulo I. Del Concepto de Inversión Neutra
+La información que deberán proporcionar los prestadores de servicios a que a que (sic) se refiere este artículo, consiste en el nombre completo del huésped o huéspedes, en caso de ser varios en una misma habitación y el tipo y número de folio o clave de la identificación oficial así como los datos de entrada, permanencia y salida de los mismos.
 
-###### ARTICULO 19.
+Podrán requerir información en los términos de este artículo quienes sean titulares de la Secretaría de Seguridad Pública y de la Procuraduría General de Justicia del Estado, los subsecretarios o subprocuradores respectivamente, o aquellos funcionarios que sean autorizados para tal efecto por los titulares, mediante acuerdo general publicado en el Periódico Oficial del Gobierno del Estado, la información que obtengan será reservada conforme a lo dispuesto en el artículo 30 de la Ley de Acceso a la Información Pública y Protección de datos Personales para el Estado de Coahuila.
 
-La Secretaría podrá autorizar a las instituciones fiduciarias para que expidan instrumentos de inversión neutra que únicamente otorgarán, respecto de sociedades, derechos pecuniarios a sus tenedores y, en su caso, derechos corporativos limitados, sin que concedan a sus tenedores derecho de voto en sus Asambleas Generales Ordinarias.
+###### Artículo 33.
 
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+Los prestadores de servicios que cumplan con lo previsto en esta ley, su reglamento, la ley federal y demás disposiciones aplicables, podrán gozar de los estímulos y apoyos que proporcione la Secretaría, en virtud de los planes y programas que para tal efecto se implementen, en función de las posibilidades presupuestarias y de acuerdo a lo que prevea el reglamento.
 
-La Secretaría tendrá un plazo máximo de treinta y cinco días hábiles para otorgar o negar la autorización solicitada, contado a partir del día siguiente al de la presentación de la solicitud. Concluido dicho plazo sin que se emita resolución, se entenderá aprobada la solicitud respectiva.
+###### Artículo 34.
 
-###### ARTICULO 20.
+El Reglamento establecerá los requisitos, procedimientos y lineamientos que deberán cumplir los prestadores de servicios turísticos para obtener los beneficios descritos en el artículo anterior.
 
-Se considera neutra la inversión en acciones sin derecho a voto o con derechos corporativos limitados, siempre que obtengan previamente la autorización de la Secretaría y, cuando resulte aplicable, de la Comisión Nacional Bancaria y de Valores.
+#### SECCIÓN TERCERA. LOS TURISTAS
 
-La Secretaría tendrá un plazo máximo de treinta y cinco días hábiles para otorgar o negar la autorización solicitada, contado a partir del día siguiente al de la presentación de la solicitud. Concluido dicho plazo sin que se emita resolución, se entenderá aprobada la solicitud respectiva.
+###### Artículo 35.
 
-###### ARTICULO 21.
+Los turistas tendrán los siguientes derechos:
 
-(DEROGADO, D.O.F. 24 DE DICIEMBRE DE 1996)
+I. Obtener, por cualquier medio lícito, información previa, veraz, completa y objetiva sobre los diversos segmentos de la actividad turística en el Estado, así como el precio de los mismos, en su caso;
 
-###### ARTICULO 22.
+II. Recibir los servicios turísticos de calidad y de acuerdo a las condiciones contratadas, así como obtener los documentos que acrediten los términos de contratación, facturas o justificaciones de pago;
 
-La Comisión podrá resolver sobre la inversión neutra que pretendan realizar sociedades financieras internacionales para el desarrollo en el capital social de sociedades, de acuerdo a los términos y condiciones que para el efecto se establezcan en el reglamento de esta Ley.
+III. Disfrutar de la recreación y el esparcimiento sin que sea molestado por razones de edad, sexo, capacidad física, mental o intelectual, credo, preferencia política, sexual y por cualquier otra circunstancia que pudiera ser motivo de discriminación;
 
-## TITULO SEXTO. DE LA COMISION NACIONAL DE INVERSIONES EXTRANJERAS
+IV. Recibir orientación y apoyo por parte de la Secretaría y las demás instancias correspondientes, en caso de emergencias, auxilio, protección y cualquier otra acción en materia de seguridad;
 
-###### ARTICULO 23.
+V. Recibir un trato digno y humano, por parte de las entidades estatales y municipales en materia de turismo, de los prestadores de servicios turísticos, organismos públicos y privados y, en general, de cualquier otra persona con la que tenga relación con motivo de su actividad turística;
 
-La Comisión estará integrada por los Secretarios de Gobernación; de Relaciones Exteriores; de Hacienda y Crédito Público; de Desarrollo Social; de Medio Ambiente, Recursos Naturales y Pesca; de Energía; de Comercio y Fomento Industrial; de Comunicaciones y Transportes; de Trabajo y Previsión Social, así como de Turismo, quienes podrán designar a un Subsecretario como suplente. Asimismo, se podrá invitar a participar en las sesiones de la Comisión a aquellas autoridades y representantes de los sectores privado y social que tengan relación con los asuntos a tratar, quienes tendrán voz pero no voto.
+VI. Formular quejas, denuncias y reclamaciones ante las instancias correspondientes, y
 
-La Comisión se reunirá semestralmente, cuando menos, y decidirá sobre los asuntos de su competencia por mayoría de votos, teniendo su presidente voto de calidad, en caso de empate.
+VII. Los demás establecidos por esta ley, su reglamento y demás disposiciones aplicables.
 
-### Capítulo II. De la Inversión Neutra Representada por Instrumentos Emitidos por las Instituciones Fiduciarias
+###### Artículo 36.
 
-###### ARTICULO 24.
+Los turistas tendrán las siguientes obligaciones:
 
-La Comisión será presidida por el Secretario de Comercio y Fomento Industrial y para su funcionamiento contará con un Secretario Ejecutivo y un Comité de Representantes.
+I. Observar las normas de higiene, conservación y uso de los establecimientos y sitios donde se lleven a cabo actividades de carácter turístico;
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+II. Respetar y fomentar la convivencia social, así como evitar conductas que puedan ser ofensivas o discriminatorias contra cualquier persona o comunidad;
 
-###### ARTICULO 25.
+III. Respetar el patrimonio cultural, natural y turístico de la entidad, así como dar aviso a las autoridades de todo acto que atente o lo ponga en peligro;
 
-El Comité de Representantes estará integrado por el servidor público designado por cada uno de los Secretarios de Estado que integran la Comisión, se reunirá cuatrimestralmente, cuando menos, y tendrá las facultades que le delegue la propia Comisión.
+IV. Abstenerse de cometer cualquier acto contrario a lo establecido en las disposiciones legales;
 
-### Capítulo II. De las Atribuciones de la Comisión
+V. Efectuar el pago de los servicios turísticos que hubiese contratado;
 
-###### ARTICULO 26.
+VI. Contratar los seguros y medidas necesarias para llevar a cabo las actividades turísticas que así lo requieran, y
 
-La Comisión tendrá las siguientes atribuciones:
+VII. Las demás que establezca esta ley, su reglamento y demás disposiciones aplicables.
 
-I.- Dictar los lineamientos de política en materia de inversión extranjera y diseñar mecanismos para promover la inversión en México;
+### CAPÍTULO NOVENO. EL CONSEJO ESTATAL DE TURISMO
 
-II.- Resolver, a través de la Secretaría, sobre la procedencia y en su caso, sobre los términos y condiciones de la participación de la inversión extranjera de las actividades o adquisiciones con regulación específica, conforme a los artículos 8o. y 9o. de esta Ley;
+###### Artículo 37.
 
-III.- Ser órgano de consulta obligatoria en materia de inversión extranjera para las dependencias y entidades de la Administración Pública Federal;
+El Consejo Estatal de Turismo es el órgano consultivo, de apoyo y coordinación de acciones entre la Secretaría, los municipios y los sectores público y privado. El objeto del Consejo será el de impulsar y apoyar a la Secretaría y los organismos y dependencias municipales competentes, en la ejecución de acciones en la materia.
 
-IV.- Establecer los criterios para la aplicación de las disposiciones legales y reglamentarias sobre inversión extranjera, mediante la expedición de resoluciones generales; y
+La composición, organización y funcionamiento del Consejo estarán previstos en el Reglamento Interior y demás disposiciones aplicables.
 
-V.- Las demás que le correspondan conforme al presente ordenamiento.
+###### Artículo 38.
 
-###### ARTICULO 27.
+El Consejo estará integrado por:
 
-Son atribuciones del Secretario Ejecutivo de la Comisión:
+I. El titular del Ejecutivo del Estado, como presidente;
 
-I.- Representar a la Comisión;
+II. El titular de la Secretaria, como secretario (a) técnico (a);
 
-II.- Notificar las resoluciones de la Comisión, a través de la Secretaría;
+III. El titular de la Secretaria de la Función Pública, como comisario del Consejo;
 
-III.- Realizar los estudios que le encomiende la Comisión;
+IV. Vocales:
 
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+a. Titular de la Secretaria de Gobierno;
 
-IV.- Presentar al Congreso de la Unión un informe estadístico cuatrimestral sobre el comportamiento de la inversión extranjera en el país, que incluya los sectores económicos y las regiones en las que ésta se ubica; y
+b. Titular de la Secretaria de Finanzas del Estado;
 
-V.- Las demás que le correspondan conforme a esta Ley.
+c. Titular de la Secretaría de Medio Ambiente y Recursos Naturales del Estado;
 
-### Capítulo III. De la Operación de la Comisión
+d. Titular de la Secretaria de Fomento Agropecuario del Estado;
 
-###### ARTICULO 28.
+e. Titular de la Secretaria de Desarrollo Social del Estado;
 
-La Comisión deberá resolver las solicitudes sometidas a su consideración dentro de un plazo que no excederá de 45 días hábiles contados a partir de la fecha de presentación de la solicitud respectiva, en los términos establecidos en el Reglamento de la presente Ley.
+f. Titular de la Secretaria de Educación y Cultura del Estado;
 
-En caso de que la Comisión no resuelva en el plazo señalado, la solicitud se considerará aprobada en los términos presentados. A petición expresa del interesado, la Secretaría deberá expedir la autorización correspondiente.
+g. Titular del Instituto Coahuilense de Cultura;
 
-### Capítulo III. De la Inversión Neutra Representada por Series Especiales de Acciones
+h. Un representante por cada región económica del Estado, según lo previsto por el Plan Estatal de Desarrollo;
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+i. Un representante de las universidades, centros educativos y de investigación públicos y privados que impartan conocimientos en materia de turismo, y
 
-###### ARTICULO 29.
+j. Tres representantes de organizaciones sociales, públicas o privadas que tengan relación con el turismo en el Estado.
 
-Para evaluar las solicitudes que se sometan a su consideración, la Comisión atenderá a los criterios siguientes:
+###### Artículo 39.
 
-I.- El impacto sobre el empleo y la capacitación de los trabajadores;
+La organización, funcionamiento y atribuciones del Consejo estarán previstos en el Reglamento Interior y demás disposiciones aplicables.
 
-II.- La contribución tecnológica;
+###### Artículo 40.
 
-III.- El cumplimiento de las disposiciones en materia ambiental contenidas en los ordenamientos ecológicos que rigen la materia; y
+La designación de los vocales previstos en el inciso j del artículo 38 la llevará a cabo el Titular del Ejecutivo del Estado, previa convocatoria que expida para tal efecto la Secretaria, en los términos establecidos en el reglamento de esta ley.
 
-IV.- En general, la aportación para incrementar la competitividad de la planta productiva del país.
+###### Artículo 41.
 
-La Comisión, al resolver sobre la procedencia de una solicitud, sólo podrá imponer requisitos que no distorsionen el comercio internacional.
+Podrán instalarse consejos municipales de turismo que así lo soliciten ante la Secretaria, con el fin de fortalecer las acciones que impulsen las actividades turísticas propias del municipio. La composición, funcionamiento e instalación se determinará en las disposiciones reglamentarias aplicables.
 
-###### ARTICULO 30.
+### CAPÍTULO DÉCIMO. EL REGISTRO ESTATAL DE TURISMO
 
-Por razones de seguridad nacional, la Comisión podrá impedir las adquisiciones por parte de la inversión extranjera.
+###### Artículo 42.
 
-## TITULO SEPTIMO. DEL REGISTRO NACIONAL DE INVERSIONES EXTRANJERAS
+Corresponde a la Secretaria la operación del Registro, que tiene por objeto contar con los datos e información actualizada de los prestadores de servicios turísticos del Estado.
 
-###### ARTICULO 31.
+###### Artículo 43.
 
-El Registro no tendrá carácter público, y se dividirá en las secciones que establezca su reglamento, mismo que determinará su organización, así como la información que deberá proporcionarse al propio Registro.
+Para obtener la inscripción en el Registro será necesario dar aviso por escrito a la Secretaria y proporcionar los siguientes datos:
 
-###### ARTICULO 32.
+I. Nombre y domicilio de la persona física o moral que prestará el servicio;
 
-Deberán inscribirse en el Registro:
+II. Lugar y domicilio en que se prestarán los servicios;
 
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1998)</small>
+III. Fecha de la apertura del establecimiento turístico;
 
-I.- Las sociedades mexicanas en las que participen, incluso a través de fideicomiso:
+IV. Tipos de servicios que proporcionarán conforme a lo establecido por las normas oficiales mexicanas, normas técnicas estatales y, en su caso, normas internacionales, y
 
-a) La inversión extranjera;
+V. La demás información que el prestador estime necesaria para fines de difusión.
 
-b) Los mexicanos que posean o adquieran otra nacionalidad y que tengan su domicilio fuera del territorio nacional, o
+###### Artículo 44.
 
-c) La inversión neutra.
+El Registro podrá ser consultado por las entidades federales, estatales y municipales, así como por la población en general, de acuerdo a lo previsto en la legislación en materia de acceso a la información pública y protección de los datos personales.
 
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1998)</small>
+###### Artículo 45.
 
-II.- Quienes realicen habitualmente actos de comercio en la República Mexicana, siempre que se trate de:
+La Secretaría coordinará y proporcionará la información contenida en el Registro con las entidades federales, municipales y demás organismos que considere pertinente, a fin de mantener actualizados y compartir los datos de otros registros que se lleven a cabo con los mismos fines.
 
-a) Personas físicas o morales extranjeras, o
+###### Artículo 46.
 
-b) Mexicanos que posean o adquieran otra nacionalidad y que tengan su domicilio fuera del territorio nacional, y
+La Secretaría deberá publicar el Registro en los medios electrónicos y de comunicación con que cuente.
 
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1998)</small>
+###### Artículo 47.
 
-III.- Los fideicomisos de acciones o partes sociales, de bienes inmuebles o de inversión neutra, por virtud de los cuales se deriven derechos en favor de la inversión extranjera o de mexicanos que posean o adquieran otra nacionalidad y que tengan su domicilio fuera del territorio nacional.
+La inscripción en el Registro es voluntaria y gratuita. Los prestadores de servicios que se adhieran al mismo podrán contar con estímulos y apoyos por parte de la Secretaría, en los términos que establezca el reglamento y en base a la posibilidad presupuestaria.
 
-La obligación de inscripción correrá a cargo de las personas físicas o morales a que se refieren las fracciones I y II y, en el caso de la fracción III, la obligación corresponderá a las instituciones fiduciarias. La inscripción deberá realizarse dentro de los 40 días hábiles contados a partir de la fecha de constitución de la sociedad o de participación de la inversión extranjera; de formalización o protocolización de los documentos relativos de la sociedad extranjera; o de constitución del fideicomiso respectivo u otorgamiento de derechos de fideicomisario en favor de la inversión extranjera.
+### CAPÍTULO UNDÉCIMO. LA SUPERVISIÓN, VIGILANCIA Y APLICACIÓN DE SANCIONES
 
-###### ARTICULO 33.
+###### Artículo 48.
 
-El Registro expedirá las constancias de inscripción cuando en la solicitud se contengan los siguientes datos:
+Es facultad de la Secretaría supervisar a las empresas, establecimientos y prestadores de servicios turísticos, a efecto de constatar el debido cumplimiento de las obligaciones a su cargo establecidas en esta ley, su reglamento y demás disposiciones aplicables.
 
-I.- En los supuestos de las fracciones I y II:
+###### Artículo 49.
 
-a) Nombre, denominación o razón social, domicilio, fecha de constitución en su caso, y principal actividad económica a desarrollar;
+Para evitar la duplicidad de funciones en materia de supervisión, inspección y verificación a empresas, establecimientos y prestadores de servicios turísticos, la Secretaría promoverá con las entidades federales y municipales correspondientes, la realización de programas de coordinación y capacitación para la delimitación de funciones, así como para el establecimiento de las bases generales que permitan el cumplimiento de los mismos, en observancia a las disposiciones federales y estatales en la materia.
 
-b) Nombre y domicilio del representante legal;
+###### Artículo 50.
 
-c) Nombre y domicilio de las personas autorizadas para oír y recibir notificaciones;
+En el caso de que la Secretaría detecte irregularidades en el cumplimiento de obligaciones a cargo de las empresas, establecimientos, prestadores de servicios turísticos y demás sujetos obligados al cumplimiento de las disposiciones en materia de turismo y que éstas no sean de su competencia, lo hará del conocimiento de la entidad correspondiente, para los efectos legales a que haya lugar.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+###### Artículo 51.
 
-> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2011)</small>
+El incumplimiento a las obligaciones y disposiciones previstas en esta ley y demás ordenamientos que se deriven de ella, constituirán infracciones de carácter administrativo y serán sancionadas por la Secretaría, de acuerdo a lo previsto en esta ley, en la Ley del Procedimiento Administrativo para el Estado de Coahuila y demás disposiciones aplicables.
 
-d) Nombre, denominación o razón social, nacionalidad y condición de estancia en su caso, domicilio de los inversionistas extranjeros en el exterior o en el país y su porcentaje de participación;
+###### Artículo 52.
 
-e) Importe del capital social suscrito y pagado o suscrito y pagadero; y
+Las sanciones administrativas podrán consistir en:
 
-f) Fecha estimada de inicio de operaciones y monto aproximado de inversión total con su calendarización.
+I. Amonestación con apercibimiento;
 
-II.- En el supuesto de la fracción III:
+II. Multa;
 
-a) Denominación de la institución fiduciaria;
+III. Clausura total o parcial; temporal o definitiva, y/o
 
-b) Nombre, denominación o razón social, domicilio y nacionalidad de la inversión extranjera o de los inversionistas extranjeros fideicomitentes;
+IV. Las demás previstas en las disposiciones aplicables.
 
-c) Nombre, denominación o razón social, domicilio y nacionalidad de la inversión extranjera o de los inversionistas extranjeros designados fideicomisarios;
+###### Artículo 53.
 
-d) Fecha de constitución, fines y duración del fideicomiso; y
+Los actos y resoluciones emitidos con motivo de la aplicación de esta ley podrán ser impugnados por el afectado, mediante la interposición del recurso de revisión, de acuerdo a lo previsto por la Ley del Procedimiento Administrativo para el Estado de Coahuila y demás disposiciones aplicables.
 
-e) Descripción, valor, destino y en su caso, ubicación del patrimonio fideicomitido.
+T R A N S I T O R I O S
 
-Una vez expedida la constancia de inscripción y sus renovaciones, el Registro se reserva la facultad de solicitar aclaraciones con respecto a la información presentada.
+PRIMERO. La presente ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-Cualquier modificación a la información presentada en los términos de este artículo deberá ser notificada al Registro conforme a lo que establezca su reglamento.
+SEGUNDO. Se abroga la Ley de Turismo para el Estado de Coahuila publicada en el Periódico Oficial de fecha 02 de marzo de 1984.
 
-###### ARTICULO 34.
+TERCERO. Deberá emitirse el reglamento de la presente ley en un plazo de 180 días contados a partir de la entrada en vigor de esta ley.
 
-En la constitución, modificación, transformación, fusión, escisión, disolución y liquidación de sociedades mercantiles, de sociedades y asociaciones civiles y en general, en todos los actos y hechos jurídicos donde intervengan por sí o representadas, las personas obligadas a inscribirse en el Registro en los términos del artículo 32 de esta Ley, los fedatarios públicos exigirán a dichas personas o sus representantes, que les acrediten su inscripción ante el citado Registro, o en caso de estar la inscripción en trámite, que le acrediten la solicitud correspondiente. De no acreditarlo, el fedatario podrá autorizar el instrumento público de que se trate, e informará de tal omisión al Registro, dentro de los diez días hábiles siguientes a la fecha de autorización del instrumento.
+CUARTO. La instalación y funcionamiento del Consejo Estatal de Turismo, se determinará en el reglamento de la presente ley.
 
-###### ARTICULO 35.
+QUINTO. Se derogan todas las disposiciones que se opongan a la presente Ley.
 
-Los sujetos obligados a inscribirse en el Registro, deberán renovar anualmente su constancia de inscripción, para lo cual bastará presentar un cuestionario económico-financiero en los términos que fije el reglamento respectivo.
+DADO en el Salón de Sesiones del Congreso del. Estado, en la Ciudad de Saltillo, Coahuila, a los veintinueve días del mes de diciembre del año dos mil ocho.
 
-###### ARTICULO 36.
+DIPUTADO PRESIDENTE
 
-Las autoridades federales, estatales y municipales están obligadas a proporcionar a la Secretaría, los informes y las certificaciones necesarias para el cumplimiento de sus funciones de conformidad con esta Ley y sus disposiciones reglamentarias.
+FRANCISCO JAVIER Z' CRUZ SÁNCHEZ
 
-## TITULO OCTAVO. DE LAS SANCIONES
+(RÚBRICA)
 
-### Capítulo IV. De la Inversión Neutra en Sociedades Controladoras de Grupos Financieros, Instituciones de Banca Múltiple y Casas de Bolsa
+DIPUTADO SECRETARIO
 
-###### ARTICULO 37.
+GENARO EDUARDO FUANTOS SÁNCHEZ
 
-Cuando se trate de actos efectuados en contravención a las disposiciones de esta Ley, la Secretaría podrá revocar las autorizaciones otorgadas.
+(RÚBRICA)
 
-Los actos, convenios o pactos sociales y estatutarios declarados nulos por la Secretaría, por ser contrarios a lo establecido en esta Ley, no surtirán efectos legales entre las partes ni se podrán hacer valer ante terceros.
+DIPUTADO SECRETARIO
 
-###### ARTICULO 38.
+JOSÉ REFUGIO SANDOVAL RODRÍGUEZ
 
-Las infracciones a lo establecido en esta Ley y sus disposiciones reglamentarias, se sancionarán de acuerdo a lo siguiente:
+(RÚBRICA)
 
-I.- En caso de que la inversión extranjera lleve a cabo actividades, adquisiciones o cualquier otro acto que para su realización requiera resolución favorable de la Comisión, sin que ésta se haya obtenido previamente, se impondrá multa de mil a cinco mil salarios;
+IMPRÍMASE, COMUNÍQUESE Y OBSÉRVESE.
 
-II.- En caso de que personas morales extranjeras realicen habitualmente actos de comercio en la República Mexicana, sin haber obtenido previamente la autorización de la Secretaría, se impondrá multa de quinientos a mil salarios;
+Saltillo, Coahuila, 31 de Diciembre de 2008
 
-III.- En caso de realizar actos en contravención a lo establecido en esta Ley o en sus disposiciones reglamentarias en materia de inversión neutra, se impondrá multas de cien a trescientos salarios;
+EL GOBERNADOR DEL ESTADO
 
-IV.- En caso de omisión, cumplimiento extemporáneo, presentación de información incompleta o incorrecta respecto de las obligaciones de inscripción, reporte o aviso al Registro por parte de los sujetos obligados, se impondrá multa de treinta a cien salarios;
+PROFR. HUMBERTO MOREIRA VALDÉS
 
-V.- En caso de simulación de actos con el propósito de permitir el goce o la disposición de bienes inmuebles en la zona restringida a personas físicas o morales extranjeras o a sociedades mexicanas que no tengan cláusula de exclusión de extranjeros, en contravención a lo dispuesto por los Títulos Segundo y Tercero de esta Ley, se sancionará al infractor con multa hasta por el importe de la operación; y
+(RÚBRICA)
 
-VI.- En caso de las demás infracciones a esta ley o a sus disposiciones reglamentarias, se impondrá multa de cien a mil salarios.
+EL SECRETARIO DE GOBIERNO
 
-Para efectos del presente artículo, por salario se entiende el salario mínimo diario general, vigente en el Distrito Federal al momento de determinarse la infracción.
+ARMANDO LUNA CANALES
 
-Para la determinación e imposición de las sanciones se deberá oír previamente al interesado y, en el caso de sanciones pecuniarias, tomar en consideración la naturaleza y la gravedad de la infracción, la capacidad económica del infractor, el tiempo transcurrido entre la fecha en que se debió cumplir la obligación y su cumplimiento o regularización, y el valor total de la operación.
+(RÚBRICA)
 
-Corresponderá a la Secretaría la imposición de las sanciones, excepto por lo que hace a la infracción a la que se refiere la fracción V de este artículo y las demás relacionadas con los Títulos Segundo y Tercero de esta Ley, que serán aplicadas por la Secretaría de Relaciones Exteriores.
+EL SECRETARIO DE TURISMO
 
-La imposición de las sanciones a que se refiere el presente Título, será sin perjuicio de la responsabilidad civil o penal que en su caso corresponda.
+LIC. JOSÉ LUÍS MORENO AGUIRRE
 
-###### ARTICULO 39.
+(RÚBRICA)
 
-Los fedatarios públicos relacionarán, insertarán o agregarán al archivo oficial o apéndice de los instrumentos en que intervengan, los oficios en que consten las autorizaciones que deban expedirse en los términos de esta Ley. Cuando autoricen instrumentos en los que no se relacionen tales autorizaciones se harán acreedores a las sanciones que determinen las leyes del notariado correspondientes y la Ley Federal de Correduría Pública.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-## TRANSITORIOS
+P.O. 5 DE JUNIO DE 2012.
 
-PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-SEGUNDO.- Se abroga:
-
-I.- La Ley para Promover la Inversión Mexicana y Regular la Inversión Extranjera, publicada en el Diario Oficial de la Federación el 9 de marzo de 1973;
-
-II.- La Ley Orgánica de la Fracción I del Artículo 27 Constitucional, publicada en el Diario Oficial de la Federación el 21 de enero de 1926; y
-
-III.- El Decreto que establece la necesidad transitoria de obtener permiso para adquisición de bienes a extranjeros y para la constitución o modificación de sociedades mexicanas que tengan o tuvieren socios extranjeros, publicado en el Diario Oficial de la Federación el 7 de julio de 1944.
-
-TERCERO.- Se derogan:
-
-I.- Los artículos 46 y 47 de la Ley Federal de Armas de Fuego y Explosivos, publicada en el Diario Oficial de la Federación el 11 de enero de 1972; y
-
-II.- Todas las disposiciones legales, reglamentarias y administrativas de carácter general que se opongan a esta Ley.
-
-CUARTO.- En tanto se expiden los Reglamentos de esta Ley, el Reglamento de la Ley para Promover la Inversión Mexicana y Regular la Inversión Extranjera, publicado en el Diario Oficial de la Federación el 16 de mayo de 1989, seguirá vigente en todo lo que no se oponga a la misma.
-
-QUINTO.- Los inversionistas extranjeros y las sociedades con inversión extranjera, que a la fecha de publicación de esta Ley tengan concertados programas, requisitos y compromisos ante la Comisión, su Secretario Ejecutivo o la Dirección General de Inversión Extranjera de la Secretaría, podrán someter a consideración de la citada Dirección General la exención de su cumplimiento, para lo cual esa unidad administrativa deberá responder sobre lo conducente en un plazo que no excederá de 45 días hábiles, contados a partir de la presentación de la solicitud correspondiente. Aquellos inversionistas extranjeros que no se acojan a la posibilidad de la exención referida, deberán cumplir con los compromisos definidos, previamente, ante la Comisión, personas y entidades públicas señaladas.
-
-SEXTO.- Están reservadas de manera exclusiva a mexicanos o a sociedades mexicanas con cláusula de exclusión de extranjeros las actividades de transporte terrestre internacional de pasajeros, turismo y de carga entre puntos del territorio de México y el servicio de administración de centrales camioneras de pasajeros y servicios auxiliares.
-
-Sin embargo, en las actividades mencionadas la inversión extranjera podrá participar de conformidad con las disposiciones siguientes:
-
-I.- A partir del 18 de diciembre de 1995, hasta el 49% del capital social de sociedades mexicanas;
-
-II.- A partir del 1o. de enero del año 2001, hasta el 51% del capital social de sociedades mexicanas; y
-
-III.- A partir del 1o. de enero del año 2004, hasta el 100% del capital social de sociedades mexicanas sin necesidad de obtener la resolución favorable de la Comisión.
-
-SEPTIMO.- La inversión extranjera podrá participar hasta el 49% del capital social de sociedades mexicanas dedicadas a las actividades de fabricación y ensamble de partes, equipo y accesorios para la industria automotriz, sin perjuicio de lo dispuesto por el Decreto para el Fomento y Modernización de la Industria Automotriz. A partir del primero de enero de 1999, la inversión extranjera podrá participar hasta el 100% en el capital social de sociedades mexicanas, sin necesidad de recabar la resolución favorable de la Comisión.
-
-OCTAVO.- La inversión extranjera podrá participar hasta el 49% del capital social de las sociedades mexicanas dedicadas a las actividades de prestación de los servicios de videotexto y conmutación en paquete. A partir del 1 de julio de 1995 la inversión extranjera podrá participar hasta el 100% en las sociedades dedicadas a los servicios mencionados, sin necesidad de obtener la resolución favorable de la Comisión.
-
-NOVENO.- Se requiere resolución favorable de la Comisión para que la inversión extranjera participe en un porcentaje mayor al 49% del capital social de sociedades que realicen las actividades de edificación, construcción e instalación de obras. A partir del primero de enero de 1999, la inversión extranjera podrá participar hasta el 100% en el capital social de sociedades mexicanas dedicadas a las mismas, sin necesidad de recabar la resolución favorable de la Comisión.
-
-DECIMO.- Para los efectos de lo dispuesto en el artículo 9, y en tanto la Comisión fije el monto del valor total de los activos a que se hace referencia en el citado artículo, se determina la cantidad de ochenta y cinco millones de nuevos pesos.
-
-DECIMO PRIMERO.- A los inversionistas extranjeros y las sociedades mexicanas con cláusula de admisión de extranjeros que tenga (sic) fideicomitidos a su favor bienes inmuebles en zona restringida a la entrada en vigor de esta Ley, se les aplicará lo dispuesto en el Capítulo II del Título Segundo de la misma, en todo aquello que les beneficie.
-
-México, D. F., a 15 de diciembre de 1993.- Dip. Fernando Rodríguez Cerna, Presidente.- Sen. Eduardo Robledo Rincón, Presidente.- Dip. Juan Adrián Ramírez García, Secretario.- Sen. Antonio Melgar Aranda, Secretario.- Rúbricas".
-
-En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de mil noveciento (sic) noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
-
-D.O.F. 12 DE MAYO DE 1995.
-
-SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
-
-Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-Segundo.- La Secretaría dará trámite a las solicitudes a que se refieren los artículos 9, fracción I y 16, segundo párrafo, de la presente Ley, 180 días después de que la misma entre en vigor.
-
-Tercero.- Se derogan:
-
-I.
-
-II. Los artículos 5, fracción X, y 7, fracción IV, inciso s) de la Ley de Inversión Extranjera, y
-
-III. Todas las disposiciones que se opongan a la presente Ley.
-
-D.O.F. 7 DE JUNIO DE 1995.
-
-SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
-
-PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto por lo que hace a las fracciones III del apartado B y IV del apartado C del artículo 171, las cuales entrarán en vigor 180 días naturales después del inicio de vigencia de esta Ley.
-
-SEGUNDO. Se derogan:
-
-.
-
-II. La fracción VI del artículo 5o. de la Ley de Inversión Extranjera, y
-
-III. Todas aquellas disposiciones que se opongan a la presente Ley.
-
-D.O.F. 24 DE DICIEMBRE DE 1996.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo previsto en el artículo siguiente.
-
-SEGUNDO. El segundo párrafo del artículo 10-A de la Ley de Inversión Extranjera entrará en vigor a los treinta días hábiles siguientes a aquél en que se publique este Decreto en el Diario Oficial de la Federación. En este plazo deberá publicarse la lista a que se refiere dicho precepto.
-
-D.O.F. 23 DE ENERO DE 1998.
-
-UNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
-
-D.O.F. 19 DE ENERO DE 1999.
-
-SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO QUE SE RELACIONAN CON LA PRESENTE LEY.
-
-DECRETO POR EL QUE SE EXPIDE LA LEY DE PROTECCIÓN AL AHORRO BANCARIO, Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LAS LEYES DEL BANCO DE MÉXICO, DE INSTITUCIONES DE CRÉDITO, DEL MERCADO DE VALORES Y PARA REGULAR LAS AGRUPACIONES FINANCIERAS.
-
-PRIMERO.- El artículo segundo del presente Decreto entrara en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Se derogan los incisos a), b), c) y d) de la fracción III del artículo 7o. de la Ley de Inversión Extranjera.
-
-D.O.F. 4 DE JUNIO DE 2001.
-
-ARTICULOS TRANSITORIOS DE LA LEY DE SOCIEDADES DE INVERSIÓN
-
-SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO QUE SE RELACIONAN CON LA PRESENTE LEY.
-
-PRIMERO. El presente Decreto por el que se expide la Ley de Sociedades de Inversión, entrará en vigor seis meses después de la fecha de su publicación en el Diario Oficial de la Federación, con excepción de los artículos 61 y sexto transitorio, cuya vigencia iniciará a partir de la publicación respectiva, para los efectos establecidos en este último artículo.
-
-....
-
-SEGUNDO. A la entrada en vigor de este Decreto ..., y se derogan los incisos m) y n) del artículo 7 de la Ley de Inversión Extranjera.
-
-D.O.F. 18 DE JULIO DE 2006.
-
-SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
-
-DÉCIMO PRIMERO.- Los artículos Séptimo y Octavo del presente Decreto entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 20 DE AGOSTO DE 2008.
-
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo.- Se deroga el Capítulo III del Título Segundo de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, publicada en el Diario Oficial de la Federación el 14 de enero de 1985, así como toda referencia en dicha Ley a uniones de crédito.
-
-Las uniones de crédito autorizadas para operar como tales con arreglo a las disposiciones que se derogan, se reputarán autorizadas para operar en los términos del presente Decreto.
-
-Las uniones de crédito autorizadas para operar como tales antes de la entrada en vigor del presente Decreto, únicamente podrán admitir nuevos socios que cumplan con la característica establecida en el primer párrafo del artículo 21 del artículo Primero del presente Decreto. Asimismo, no podrán renovar las operaciones que hayan pactado con los socios que no acrediten la referida característica.
-
-Tercero.- En tanto la Comisión Nacional Bancaria y de Valores, emite las disposiciones de carácter general a que se refiere esta Ley, seguirán aplicándose las expedidas con anterioridad a la vigencia de la misma, en las materias correspondientes, en lo que no se opongan al presente Decreto. Al expedirse las disposiciones a que se refiere este artículo, se señalarán expresamente aquéllas a las que sustituyan o queden derogadas.
-
-Sin perjuicio de lo anterior, a la fecha de entrada en vigor del presente Decreto se deroga el Acuerdo por el que se determinan los capitales mínimos con que deberán contar los almacenes generales de depósito, arrendadoras financieras, uniones de crédito, empresas de factoraje financiero y casas de cambio para el año 2008, publicado en el Diario Oficial de la Federación el 31 de marzo de 2008, en todo lo relativo a uniones de crédito.
-
-Cuarto.- Las uniones de crédito contarán con un plazo de dos años contados a partir de la entrada en vigor del presente Decreto para ajustarse a las disposiciones a que se refieren los artículos 61 y 62 de la Ley de Uniones de Crédito.
-
-Quinto.- Las autorizaciones otorgadas a las uniones de crédito y los demás actos administrativos realizados con fundamento en la Ley General de Organizaciones y Actividades Auxiliares del Crédito, que conforme a lo dispuesto en el presente Decreto corresponda llevar a cabo a la Comisión Nacional Bancaria y de Valores, continuarán en vigor, hasta que, en su caso, sean revocadas o sus términos modificados expresamente por dicha Comisión o bien, dejen de producir sus efectos.
-
-Sexto.- Las infracciones y delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la ley vigente al momento de cometerse las citadas infracciones o delitos.
-
-En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de las disposiciones aplicables a los procedimientos administrativos previstos en el presente Decreto.
-
-Séptimo.- Las uniones de crédito contarán con un plazo de ciento ochenta días a partir de la entrada en vigor del presente Decreto para presentar a la Comisión Nacional Bancaria y de Valores, para su aprobación, sus estatutos sociales a fin de que ajusten su operación a lo previsto en el referido Decreto.
-
-Octavo.- A la entrada en vigor del presente Decreto todas las uniones de crédito que hayan sido autorizadas para operar como tales en términos de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, serán clasificadas con un nivel de operaciones I.
-
-Las uniones de crédito podrán solicitar a la Comisión Nacional Bancaria y de Valores, que les autorice el cambio de nivel de operaciones previo cumplimiento de los requisitos a que se refieren los artículos 39 y 43 del artículo Primero de este Decreto.
-
-Noveno.- Las uniones de crédito que a la entrada en vigor del presente Decreto no cumplan con el capital mínimo previsto en el artículo 18 del artículo Primero del presente Decreto para el nivel de operaciones I, contarán con un plazo de cinco años para integrar el capital mínimo referido.
-
-Transcurrido el plazo citado, las autorizaciones que haya otorgado la Comisión Nacional Bancaria y de Valores para la constitución y operación de uniones de crédito que no cuenten con un capital mínimo equivalente en moneda nacional al valor de 2,000,000 de unidades de inversión, quedarán sin efecto por ministerio de ley, por lo que las sociedades que tengan dicho carácter dejarán de ser uniones de crédito.
-
-Las sociedades señaladas en el párrafo anterior no estarán obligadas a disolverse y liquidarse por el hecho de que, conforme a lo dispuesto por el párrafo anterior, queden sin efecto las autorizaciones respectivas, aunque, para continuar operando, deberán:
-
-I. Reformar sus estatutos sociales a efecto de eliminar cualquier referencia expresa o de la cual se pueda inferir que son uniones de crédito y que se encuentran autorizadas por la Comisión Nacional Bancaria y de Valores para constituirse y funcionar con tal carácter.
-
-II. Presentar a la Comisión Nacional Bancaria y de Valores, a más tardar ciento ochenta días naturales el instrumento público en el que conste la reforma estatutaria referida en la fracción anterior, con los datos de la respectiva inscripción en el Registro Público de Comercio.
-
-Las sociedades que no cumplan con lo dispuesto por la fracción II anterior entrarán, por ministerio de ley, en estado de disolución y liquidación, sin necesidad de acuerdo de asamblea general de accionistas.
-
-La Comisión Nacional Bancaria y de Valores, publicará en el Diario Oficial de la Federación aquéllas autorizaciones que conforme a este artículo queden sin efecto.
-
-Décimo.- Se deroga la fracción IV del artículo 6 de la Ley de Inversión Extranjera.
-
-D.O.F. 25 DE MAYO DE 2011.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. Las reformas a la Ley General de Población entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto las derogaciones a las fracciones VII y VIII del artículo 3o. y a los artículos 7 a 75, que entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
-
-Las reformas a la Ley de Asociaciones Religiosas y Culto Público, a la Ley de Inversión Extranjera y la Ley General de Turismo, entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
-
-TERCERO. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Población por lo que hace a cuestiones de carácter migratorio, se entenderán referidas a la Ley de Migración.
-
-CUARTO. Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se derogan, surtirán sus plenos efectos jurídicos.
-
-D.O.F. 15 DE DICIEMBRE DE 2011.
-
-PRIMERO.- El presente Decreto entrará en vigor el primer día del mes de enero de 2012 por lo que se refiere a la Ley General de Sociedades Mercantiles, la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Derechos y la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal.
-
-SEGUNDO.- Las reformas a la Ley de Inversión Extranjera y a la Ley Federal de Procedimiento Administrativo, entrarán en vigor en un plazo de seis meses contados a partir de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 9 DE ABRIL DE 2012.
-
-Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
-
-D.O.F. 10 DE ENERO DE 2014.
-
-ARTÍCULO QUINCUAGÉSIMO.- En relación con las modificaciones a que se refieren los Artículos Cuadragésimo Primero a Cuadragésimo Noveno de este Decreto, se estará a lo siguiente:
-
-I. Artículo Cuadragésimo Tercero, el cual entrará en vigor a los treinta días naturales siguientes a la publicación del presente Decreto, y
-
-II. Artículo Cuadragésimo Séptimo, el cual entrará en vigor a los setecientos treinta días naturales siguientes a la publicación del Decreto por el que se expide la Ley de Instituciones de Seguros y de Fianzas y se reforman y adicionan diversas disposiciones de la Ley sobre el Contrato de Seguro, publicado el 4 de abril de 2013 en el citado Diario Oficial.
-
-III. Las infracciones y delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la ley vigente al momento de cometerse las citadas infracciones o delitos.
-
-En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de las disposiciones aplicables a los procedimientos administrativos que se estipulan mediante el presente Decreto.
-
-IV. La obligación de contar con la certificación a que se refiere el artículo 4, fracción X, de la Ley de la Comisión Nacional Bancaria y de Valores, entrará en vigor a partir del 1 de enero del 2015. Las disposiciones de carácter general a que se refiere dicho precepto, se emitirán por la Comisión a más tardar en el mes de septiembre de 2014.
-
-## TRANSITORIO
-
-ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
-
-D.O.F. 14 DE JULIO DE 2014.
-
-### Capítulo V. De la Inversión Neutra realizada por Sociedades Financieras Internacionales para el Desarrollo
-
-### Capítulo I. De la Estructura de la Comisión
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
