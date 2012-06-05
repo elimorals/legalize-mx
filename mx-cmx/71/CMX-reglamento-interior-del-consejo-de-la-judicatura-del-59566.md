@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-consejo-de-la-judicatura-del-59566"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-25"
-last_updated: "2012-02-29"
+last_updated: "2012-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59566&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-11-28"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE JUNIO DE 2012.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 25 de febrero de 2008.
 
@@ -536,11 +536,13 @@ La Comisión de Disciplina Judicial se integra por tantas secciones como conseje
 
 (DEROGADO, G.O. 26 DE MAYO DE 2010)
 
-> <small>(REFORMADO, G.O. 19 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 5 DE JUNIO DE 2012)</small>
 
 ###### Artículo 38.
 
-Los acuerdos y resoluciones de la Comisión de Disciplina Judicial, serán dictados por los titulares de cada una de las secciones que la integran.
+Las Secciones de la Comisión de Disciplina Judicial sólo podrán resolver los asuntos que se les presenten a través del trabajo colegiado de las mismas, encontrándose presentes la totalidad de los miembros que las integran y en caso de ausencia de alguno de ellos, la suplencia se realizará conforme al turno respectivo.
+
+> <small>(REFORMADO, G.O. 19 DE JULIO DE 2010)</small>
 
 El Pleno del Consejo calificará de plano las excusas o impedimentos de sus integrantes.
 
@@ -1372,17 +1374,29 @@ III. Las demás que establezcan la Ley Orgánica y el Pleno del Consejo.
 
 La Comisión de Disciplina Judicial para su mejor funcionamiento estará integrada por tantas secciones como Consejeros que se encuentren en activo y funcionarán de forma simultánea.
 
-> <small>(REFORMADO, G.O. 19 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, G.O. 5 DE JUNIO DE 2012)</small>
 
 ###### Artículo 113.
 
-Las secciones conocerán de los procedimientos de oficio y de queja, en su momento, les serán turnados para resolución conforme al orden alfabético del primer apellido de los titulares de cada una de ellas.
+La Comisión de Disciplina Judicial se integrará por Secciones conforme a lo que establece el artículo 34 de este Reglamento. El Pleno del Consejo determinará mediante un acuerdo plenario los siguientes aspectos:
 
-En caso de determinarse de oficio el inicio de procedimiento administrativo disciplinario se le asignará al expediente de que se trate, el número por orden progresivo que le corresponda de conformidad con el registro que para tal efecto se lleve en la Secretaría Técnica de la Comisión.
+1. El número y la forma en que se organizarán las Secciones, cuyo orden se asignará por el número consecutivo de ponencia que corresponda, mismas que deberán estar integradas por tres Consejeros cada una, con excepción del Presidente del Consejo, en los términos del artículo 202 fracción V de la Ley Orgánica;
+
+2. El procedimiento, plazos y términos para que las Secciones emitan la resolución correspondiente en los términos de la Ley Orgánica.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 5 DE JUNIO DE 2012)</small>
 
 ###### Artículo 114.
 
-(DEROGADO, G.O. 26 DE MAYO DE 2010)
+Las resoluciones que se presenten a través del trabajo colegiado en las secciones de la Comisión de Disciplina Judicial se tomarán por el sistema de votación que, según el caso, deberá quedar asentado en el acuerdo contenido en el acta respectiva que al efecto se emita, siendo el siguiente:
+
+I. Por unanimidad;
+
+II. Por mayoría de votos, en cuyo caso el Consejero disidente, presentará en un término de tres días hábiles su voto particular por escrito ante la Secretaría Técnica de de (sic) la Comisión de Disciplina Judicial, debiendo versar sobre los puntos que generan el discenso y que deberá engrosarse al cuerpo del acta de la sesión que corresponda.
+
+En caso de que el proyecto presentado por un Consejero sea desechado por la mayoría, será returnado a otro para que formule un nuevo proyecto, mismo que se presentará a la Sección de la Comisión de Disciplina Judicial correspondiente, dentro de los cinco días hábiles siguientes.
+
+El Pleno del Consejo calificará de plano las excusas o impedimentos de los miembros integrantes de la Comisión de Disciplina Judicial.
 
 > <small>(REFORMADO, G.O. 26 DE MAYO DE 2010)</small>
 
@@ -1939,3 +1953,13 @@ PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal y para su mayor difusión en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- Incorpórese el texto de este decreto y las modificaciones respectivas en la página Web del Consejo de la Judicatura del Distrito Federal.
+
+G.O. 5 DE JUNIO DE 2012.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Judicial del Distrito Federal.
+
+SEGUNDO.- En relación a los procedimientos de queja y procedimientos de oficio que hayan sido turnados a las distintas ponencias que integran el Consejo de la Judicatura del Distrito Federal, para emitir la resolución correspondiente, deberán resolverse con el procedimiento que prevalecía hasta antes de la entrada en vigor del presente acuerdo, salvo los asuntos específicos que el pleno determine.
+
+TERCERO.- Publíquese en el Boletín Judicial del Distrito Federal y para mayor difusión en la Gaceta Oficial del Distrito Federal.
+
+CUARTO.- Incorpórese el texto de este decreto y las modificaciones respectivas en la página Web del Consejo de la Judicatura del Distrito Federal".
