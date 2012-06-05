@@ -4,7 +4,7 @@ identifier: "LRPV"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-01"
-last_updated: "2004-09-01"
+last_updated: "2012-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40576&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LRPV"
 ---
 # LEY DEL REGISTRO PUBLICO VEHICULAR
 
-LEY DEL REGISTRO PUBLICO VEHICULAR
+LEY DEL REGISTRO PÚBLICO VEHICULAR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE JUNIO DE 2012.
 
 Ley publicada en la Sección Primera del Diario Oficial de la Federación, el miércoles 1° de septiembre de 2004.
 
@@ -160,9 +160,11 @@ La inscripción de un vehículo en el Registro presume la existencia del mismo, 
 
 ### CAPÍTULO II. DE LA INSCRIPCIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE JUNIO DE 2012)</small>
+
 ###### Artículo 13.
 
-Quienes fabriquen o ensamblen vehículos en el territorio nacional deberán asignar a éstos un número de identificación vehicular, que será un elemento de identificación en el Registro, el cual estará integrado de conformidad con la norma oficial mexicana respectiva.
+Quienes fabriquen, ensamblen o blinden vehículos en el territorio nacional deberán asignar a éstos un número de identificación vehicular, que será un elemento de identificación en el Registro, el cual estará integrado de conformidad con la norma oficial mexicana respectiva.
 
 Los vehículos importados deberán ser identificados conforme a lo dispuesto en el párrafo anterior o, en su caso, con el número de identificación asignado por la ensambladora o el carrocero de origen.
 
@@ -307,3 +309,11 @@ Asimismo, las ensambladoras, carroceros, distribuidoras, comercializadoras o imp
 México, D.F., a 30 de julio de 2004.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Juan de Dios Castro Lozano, Presidente.- Sen. Yolanda E. González H., Secretaria.- Dip. Marcos Morales Torres, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de agosto de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 5 DE JUNIO DE 2012.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las acciones que en su caso deba realizar el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública para dar cumplimiento al presente Decreto, se sujetarán a los recursos humanos, financieros y materiales con los que actualmente cuenta.
