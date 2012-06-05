@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-desarrollo-economico-del-estado-de-jalisco-87111"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-31"
-last_updated: "2012-05-10"
+last_updated: "2012-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87111&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,7 +21,7 @@ state: "JAL"
 ---
 # LEY PARA EL DESARROLLO ECONOMICO DEL ESTADO DE JALISCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE JUNIO DE 2012; PÁGINAS 3 Y 4, EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE JUNIO DE 2012, EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO
 
@@ -29,7 +29,7 @@ LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO
 
 TEXTO ORIGINAL.
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 5 DE JUNIO DE 2012, NÚMERO 7, SECCIÓN II.</small>
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 5 DE JUNIO DE 2012, PÁGINAS 5 A 13.</small>
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 31 de marzo de 2012.
 
@@ -365,7 +365,9 @@ V. Cuando existan solicitudes de apoyo de la misma naturaleza, del mismo sector 
 
 VI. Tratándose de solicitudes de apoyo de la misma naturaleza, del mismo sector o actividad económica y tipo de empresa u organización, con beneficio directo a una cantidad similar de personas, se preferirá a quién haya presentado primero su solicitud completa.
 
-Los criterios para la determinación del tipo, monto, plazos y condiciones para el otorgamiento de los apoyos que determine el Reglamento, y que otorgue el Consejo, a través de su Junta de Gobierno, deberán observar en todo momento, los criterios de prioridad establecidos en el artículo 12 de esta Ley, dándose siempre prioridad a los proyectos proyectivos (sic) de carácter colectivo, por sobre los de tipo individual.
+> <small>(F. DE E., P.O. 5 DE JUNIO DE 2012)</small>
+
+Los criterios para la determinación del tipo, monto, plazos y condiciones para el otorgamiento de los apoyos que determine el Reglamento, y que otorgue el Consejo, a través de su Junta de Gobierno, deberán observar en todo momento, los criterios de prioridad establecidos en el artículo 12 de esta Ley, dándose siempre prioridad a los proyectos productivos de carácter colectivo, por sobre los de tipo individual.
 
 ###### Artículo 18.
 
@@ -385,7 +387,9 @@ Los apoyos económicos podrán ser acumulables, siempre y cuando no rebasen los 
 
 La capacitación, asesoría, asistencia y gestión, se otorgará de forma directa por parte de instituciones públicas estatales o a través de becas parciales o totales, preferentemente en instituciones públicas y conforme se determine en el Reglamento.
 
-La asesoría, asistencia y gestión podrá realizarse al proyecto productivo colectivo o individual, de acuerdo a sus necesidades y características.
+> <small>(F. DE E., P.O. 5 DE JUNIO DE 2012)</small>
+
+La asesoría, asistencia y gestión podrá canalizarse al proyecto productivo colectivo o individual, de acuerdo a sus necesidades y características.
 
 La asesoría siempre incluirá orientación e información sobre apoyos que otorguen otras instancias y organismos públicos, privados o sociales, estatales, nacionales o extranjeros, que sean aplicables a las actividades económicas correspondientes.
 
@@ -415,7 +419,9 @@ Los beneficiarios de promociones y apoyos deberán informar a la Secretaría sob
 
 ###### Artículo 22.
 
-Los recursos presupuestales destinados para los apoyos para el desarrollo económico, solamente podrán utilizarse para dicho fin. Lo anterior, salvo los casos de emergencia económica señalado (sic) en esta Ley y conforme a los términos que establezca la Junta de Gobierno del Consejo, dentro del ámbito de su competencia.
+> <small>(F. DE E., P.O. 5 DE JUNIO DE 2012)</small>
+
+Los recursos presupuestales destinados para los apoyos para el desarrollo económico, solamente podrán utilizarse para dicho fin. Lo anterior, salvo los casos de emergencia económica señalados en esta Ley y conforme a los términos que establezca la Junta de Gobierno del Consejo, dentro del ámbito de su competencia.
 
 #### Sección Segunda. De los Tipos de Apoyo
 
@@ -501,7 +507,9 @@ a. Suscribir los convenios y contratos de los apoyos autorizados por la Junta de
 
 b. Salvo los casos de programas anuales de fomento, otorgar a los solicitantes que hubieran presentado su garantía, los apoyos solicitados por la Secretaría y aprobados por la Junta de Gobierno del Consejo, dentro de los treinta días hábiles siguientes a los de su aprobación y verificar la utilización y el cumplimiento de las obligaciones contraídas por los beneficiarios;
 
-c. Suspender temporalmente los apoyos y presentar la solicitud de cancelación ante el Consejo, cuando derivado de una visita de verificación se evidencie el incumplimiento de las obligaciones contraídas que, en los términos del convenio o contrato respectivo, ameriten la suspensión y cancelación de dichos (sic) los mismos;
+> <small>(F. DE E., P.O. 5 DE JUNIO DE 2012)</small>
+
+c. Suspender temporalmente los apoyos y presentar la solicitud de cancelación ante el Consejo, cuando derivado de una visita de verificación se evidencie el incumplimiento de las obligaciones contraídas que, en los términos del convenio o contrato respectivo, ameriten la suspensión y cancelación de los mismos;
 
 VII. Gestionar y administrar cualquier otro fondo o partida presupuestal para el desarrollo económico que hubiese sido creado por el Congreso del Estado o el Gobierno federal, así como otorgar los recursos para los fines establecidos en los mismos, bajo las reglas de operación que la Secretaría establezca o aquellas que correspondan a dichos fondos o partidas presupuestales;
 
@@ -653,7 +661,9 @@ Corresponde a la Junta de Gobierno del Consejo, además de las contempladas en e
 
 I. Otorgar toda clase de mandatos a la persona que considere conveniente, sin perjuicio de lo establecidos (sic) en la presente Ley;
 
-II. Aprobar la celebración y modificación, en su caso, de los convenios, contratos, acuerdos y en general, cualquier otro acto jurídico que el Consejo celebre para su (sic) cumplimiento de sus objetivos;
+> <small>(F. DE E., P.O. 5 DE JUNIO DE 2012)</small>
+
+II. Aprobar la celebración y modificación, en su caso, de los convenios, contratos, acuerdos y en general, cualquier otro acto jurídico que el Consejo celebre para cumplimiento de sus objetivos;
 
 III. Aprobar la adquisición, administración y enajenación de bienes muebles e inmuebles que así lo requiera el cumplimiento del objeto de esta Ley;
 
@@ -725,7 +735,9 @@ c. Federación Regional de Obreros y Campesinos del Estado de Jalisco, y
 
 d. Federación de Organizaciones Obreras y Campesinas CROM del Estado de Jalisco.
 
-Cuando se traten de asuntos relacionados con el resto de los municipios de la entidad, se invitará al ayuntamiento del municipio respectivo para que acrediten un representante a la sesión correspondiente y participe con voz, en la discusión de los asuntos relacionados con éste.
+> <small>(F. DE E., P.O. 5 DE JUNIO DE 2012)</small>
+
+Cuando se trate de asuntos relacionados con el resto de los municipios de la entidad, se invitará al ayuntamiento del municipio respectivo para que acrediten un representante a la sesión correspondiente y participe con voz, en la discusión de los asuntos relacionados con éste.
 
 Tratándose de los procedimientos de vocacionamiento y priorización para el desarrollo económico contemplados en esta Ley, el Reglamento establecerá los criterios para invitar a las representaciones de los ayuntamientos del interior del Estado y de la comunidad académica, a fin de que participen con voz en las deliberaciones respectivas, procurando en todo momento una representación equilibrada y equitativa de las regiones y universidades.
 
@@ -755,7 +767,9 @@ Cualquier integrante podrá hacer propuestas relativas al ejercicio de las atrib
 
 Los miembros de la Junta de Gobierno, así como los servidores públicos adscritos al Consejo, estarán obligados a manejar con estricta confidencialidad la información que conozcan como interlocutores del sector público, privado o social en desarrollo de sus atribuciones, de conformidad a la normatividad aplicable en materia de transparencia y acceso a la información pública.
 
-De igual forma, será responsabilidad del Consejo clasificar al ingreso de las solicitudes de apoyos o promociones de proyectos productivos, la información en los términos de la normatividad en materia de transparencia y acceso a la información pública establezca.
+> <small>(F. DE E., P.O. 5 DE JUNIO DE 2012)</small>
+
+De igual forma, será responsabilidad del Consejo clasificar al ingreso de las solicitudes de apoyos o promociones de proyectos productivos, la información en los términos de la normatividad que establezca en materia de transparencia y acceso a la información pública.
 
 ###### Artículo 39.
 
@@ -849,7 +863,9 @@ El Director General y los servidores públicos que determine la Junta de Gobiern
 
 Los sistemas y controles del patrimonio del Consejo deberán permitir que la Junta de Gobierno y el Director General verifiquen el cumplimiento de las disposiciones legales y administrativas, garantizando en todo momento la conservación, custodia y debida administración de sus recursos.
 
-Para los actos traslativos de dominio, la determinación la realizará la Junta de Gobierno, de conformidad (sic) lo establecido en esta Ley.
+> <small>(F. DE E., P.O. 5 DE JUNIO DE 2012)</small>
+
+Para los actos traslativos de dominio, la determinación la realizará la Junta de Gobierno, de conformidad con lo establecido en esta Ley.
 
 ### Capítulo VI. Del Consejo Estatal para la Competitividad de Jalisco
 
@@ -1259,7 +1275,9 @@ Son conductas susceptibles de sanción por parte de las personas físicas o jur�
 
 I. Aportar información falsa para tener acceso y obtener la promoción o apoyo contemplados en esta Ley;
 
-II. No cumplir con los términos y condiciones del contrato o convenio contraídas con el Consejo, con motivo de la promoción o apoyo del que fue beneficiado, o con lo (sic) que se desprenden de esta ley y su reglamento;
+> <small>(F. DE E., P.O. 5 DE JUNIO DE 2012)</small>
+
+II. No cumplir con los términos y condiciones del contrato o convenio contraídas con el Consejo, con motivo de la promoción o apoyo del que fue beneficiado, o con los que se desprenden de esta ley y su reglamento;
 
 III. Destinar las promociones o apoyos obtenidos, para fines distintos de los compromisos contraídos y señalados en la resolución que, en su oportunidad, haya emitido el Consejo;
 
@@ -1269,7 +1287,9 @@ V. Las demás señaladas por esta Ley, su Reglamento o contrato o convenio seña
 
 ###### Artículo 84.
 
-Le (sic) serán aplicables a quienes incurran en alguna de las infracciones señaladas en esta Ley, las siguientes sanciones:
+> <small>(F. DE E., P.O. 5 DE JUNIO DE 2012)</small>
+
+Les serán aplicables a quienes incurran en alguna de las infracciones señaladas en esta Ley, las siguientes sanciones:
 
 I. Amonestación con apercibimiento;
 
@@ -1327,11 +1347,15 @@ Las sanciones que haya impuesto el Consejo podrán ser condonadas, reducidas o c
 
 ###### Artículo 90.
 
-La responsabilidad administrativa, las infracciones en que incurran los servidores públicos que laboren en el Consejo, se sancionarán conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco y sus Municipios, sin menoscabo de las sanciones administrativas, civiles y penales que correspondan, en su caso.
+> <small>(F. DE E., P.O. 5 DE JUNIO DE 2012)</small>
+
+La responsabilidad administrativa, las infracciones en que incurran los servidores públicos que laboren en el Consejo, se sancionarán conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, sin menoscabo de las sanciones administrativas, civiles y penales que correspondan, en su caso.
 
 ###### Artículo 91.
 
-Los procedimientos administrativos relativos a las infracciones previstas en esta Ley se aplicarán supletoriamente (sic) lo previsto en la Ley de Procedimientos Administrativos del Estado de Jalisco y sus Municipios.
+> <small>(F. DE E., P.O. 5 DE JUNIO DE 2012)</small>
+
+Los procedimientos administrativos relativos a las infracciones previstas en esta Ley se aplicarán supletoriamente (sic) lo previsto en la Ley del Procedimiento Administrativo del Estado de Jalisco.
 
 ### Capítulo V. Del Recurso de Inconformidad
 
@@ -1365,7 +1389,9 @@ En contra de la resolución que resuelva el recurso de inconformidad, no procede
 
 ###### Artículo 97.
 
-Para todo lo no contemplado en los procedimientos administrativos señalados por esta Ley, se aplicará supletoriamente lo señalado por la Ley del Procedimiento Administrativo para el Estado de Jalisco y sus Municipios.
+> <small>(F. DE E., P.O. 5 DE JUNIO DE 2012)</small>
+
+Para todo lo no contemplado en los procedimientos administrativos señalados por esta Ley, se aplicará supletoriamente lo señalado por la Ley del Procedimiento Administrativo para el Estado de Jalisco.
 
 T R A N S I T O R I O S
 
