@@ -4,7 +4,7 @@ identifier: "LISSFAM"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-09"
-last_updated: "2012-04-03"
+last_updated: "2012-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32514&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISSFAM"
 
 LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE JUNIO DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 9 de julio de 2003.
 
@@ -344,13 +344,25 @@ XXI. Orientación social;
 
 XXII. Servicio médico integral;
 
-> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 5 DE JUNIO DE 2012)</small>
 
-XXIII. Farmacias económicas, y
+XXIII. Farmacias económicas;
 
-> <small>(ADICIONADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 5 DE JUNIO DE 2012)</small>
 
-XXIV. Vivienda.
+XXIV. Vivienda;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JUNIO DE 2012)</small>
+
+XXV. Beca de manutención;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JUNIO DE 2012)</small>
+
+XXVI. Beca escolar, y
+
+> <small>(ADICIONADA, D.O.F. 5 DE JUNIO DE 2012)</small>
+
+XXVII. Beca especial.
 
 ###### Artículo 19.
 
@@ -1634,6 +1646,24 @@ Para el efecto señalado en el párrafo anterior, el Instituto estará facultado
 
 El Instituto, en coordinación con las autoridades de la Secretaría de Educación Pública, establecerá las bases obligatorias, para resolver íntegramente el problema de los hijos de los militares en relación con el cambio de Plantel Educativo, cuando el militar sea trasladado de una localidad a otra, por razones de servicio.
 
+> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2012)</small>
+
+###### Artículo 138 Bis.
+
+El Instituto estará facultado para otorgar a los hijos de los militares en el activo becas educativas, conforme a lo siguiente:
+
+I. Beca de manutención. Tiene por objeto la asignación de una cuota mensual para los hijos de los militares en el activo que se encuentren cursando estudios a nivel medio superior y superior, en escuelas del país con registro en la Secretaría de Educación Pública.
+
+II. Beca escolar. Tiene por objeto cubrir los gastos inherentes de la educación para los hijos de los militares en el activo que se encuentren cursando estudios a nivel medio superior y superior, en escuelas del país con registro en la Secretaría de Educación Pública.
+
+III. Beca especial. Destinada para los hijos que padezcan un grado de discapacidad física o mental, transitoria o permanente del personal militar en el activo. Tiene por objeto cubrir el 100% del costo de la inscripción, colegiatura y demás gastos obligatorios inherentes de una institución de educación inclusiva, o de preferencia en algún plantel del sistema educativo nacional, en todos sus niveles.
+
+Estas becas también serán otorgadas a los hijos de los militares que hayan fallecido, desaparecido o se hayan incapacitado en 1/a. ó 2/a. categorías, con motivo de actos del servicio o a consecuencia de los mismos.
+
+Los recursos necesarios para el otorgamiento de las becas serán proporcionados con cargo a los presupuestos que anualmente se aprueben en el Presupuesto de Egresos de la Federación a las Secretarías de la Defensa Nacional y de Marina.
+
+El procedimiento y los requisitos para el otorgamiento de las becas a que se refiere este artículo, serán fijados en el reglamento respectivo.
+
 ###### Artículo 139.
 
 Se establecerán centros de capacitación, desarrollo y superación para derechohabientes de militares, en donde reciban preparación para mejorar las condiciones físicas y culturales del hogar, aumentar los índices cultural y de sociabilidad y mejorar la alimentación y el vestido.
@@ -2872,7 +2902,7 @@ México, D.F., a 30 de abril de 2003.- Dip. Armando Salinas Torre, Presidente.- 
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los siete días del mes de julio de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 8 DE MAYO DE 2006.
 
@@ -2979,3 +3009,7 @@ servicios 2012 2013 2014 2015 2016
 29 12.00% 20.00% 30.00% 44.00% 59.00%
 
 TERCERO. El porcentaje correspondiente al año 2012, será proporcionado del presupuesto de las Secretarías de la Defensa Nacional y de Marina, según corresponda.
+
+D.O.F. 5 DE JUNIO DE 2012.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
