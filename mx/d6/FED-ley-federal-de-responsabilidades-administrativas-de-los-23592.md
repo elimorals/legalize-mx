@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-responsabilidades-administrativas-de-los-23592"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2002-03-13"
-last_updated: "2009-05-28"
+last_updated: "2012-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23592&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2002-03-12"
 ---
 # LEY FEDERAL DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PUBLICOS
 
-LEY FEDERAL DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PUBLICOS
+LEY FEDERAL DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE JUNIO DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 13 de marzo de 2002.
 
@@ -231,7 +231,9 @@ IV.- Sanción económica, e
 
 V.- Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
 
-Cuando no se cause daños o perjuicios, ni exista beneficio o lucro alguno, se impondrán de seis meses a un año de inhabilitación.
+> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2012)</small>
+
+Cuando no se cause daños o perjuicios, ni exista beneficio o lucro alguno, se impondrán de tres meses a un año de inhabilitación.
 
 Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique beneficio o lucro, o cause daños o perjuicios, será de un año hasta diez años si el monto de aquéllos no excede de doscientas veces el salario mínimo general mensual vigente en el Distrito Federal, y de diez a veinte años si excede de dicho límite. Este último plazo de inhabilitación también será aplicable por conductas graves de los servidores públicos.
 
@@ -291,7 +293,7 @@ El incumplimiento a lo dispuesto en este artículo por parte del jefe inmediato,
 
 La Secretaría impondrá las sanciones correspondientes a los contralores internos y a los titulares de las áreas de auditoría, de quejas y de responsabilidades cuando se abstengan injustificadamente de investigar o sancionar a los infractores, o que al hacerlo no se ajusten a las disposiciones jurídicas o administrativas aplicables, así como cuando incurran en actos u omisiones que impliquen responsabilidad administrativa.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 28 DE MAYO DE 2009)</small>
 
@@ -451,7 +453,7 @@ En tratándose de infracciones graves el plazo de prescripción será de cinco a
 
 La prescripción se interrumpirá al iniciarse los procedimientos previstos por la Ley. Si se dejare de actuar en ellos, la prescripción empezará a correr nuevamente desde el día siguiente al en que se hubiere practicado el último acto procedimental o realizado la última promoción.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2004)</small>
 
 ## TITULO TERCERO
 
@@ -517,13 +519,17 @@ III.- Declaración de modificación patrimonial, durante el mes de mayo de cada 
 
 La Secretaría podrá solicitar a los servidores públicos una copia de la declaración del Impuesto Sobre la Renta del año que corresponda, si éstos estuvieren obligados a formularla o, en su caso, de la constancia de percepciones y descuentos que les hubieren emitido las dependencias o entidades, la cual deberá ser remitida en un plazo de tres días hábiles a partir de la fecha en que se reciba la solicitud.
 
-Si transcurrido el plazo a que hace referencia la fracción I, no se hubiese presentado la declaración correspondiente, sin causa justificada, se suspenderá al infractor de su empleo, cargo o comisión por un período de quince días naturales.
+> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2012)</small>
+
+Si transcurrido el plazo a que hace referencia la fracción I, no se hubiese presentado la declaración correspondiente, sin causa justificada, se suspenderá al infractor de su empleo, cargo o comisión por un período de quince a treinta días naturales.
 
 En caso de que la omisión en la declaración continúe por un período de treinta días naturales siguientes a la fecha en que hubiere sido suspendido el servidor público, la Secretaría declarará que el nombramiento o contrato ha quedado sin efectos, debiendo notificar lo anterior al titular de la dependencia o entidad correspondiente para los fines procedentes. Lo mismo ocurrirá cuando se omita la declaración a que alude la fracción III.
 
 El incumplimiento a lo previsto en el párrafo anterior, por parte del titular de la dependencia o entidad, será causa de responsabilidad administrativa en los términos de Ley.
 
-Para el caso de omisión, sin causa justificada, en la presentación de la declaración a que se refiere la fracción II, se inhabilitará al infractor por un año.
+> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2012)</small>
+
+Para el caso de omisión, sin causa justificada, en la presentación de la declaración a que se refiere la fracción II, se inhabilitará al infractor de 6 meses a un año.
 
 En la imposición de las sanciones a que se refiere este artículo deberá sustanciarse el procedimiento administrativo previsto en el artículo 21 de la Ley.
 
@@ -551,7 +557,7 @@ Tratándose de bienes muebles, la Secretaría determinará las características 
 
 La Secretaría llevará un registro de servidores públicos, el cual tendrá el carácter de público.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 28 DE MAYO DE 2009)</small>
 
@@ -661,7 +667,7 @@ México, D.F., a 15 de diciembre de 2001.- Dip. Beatriz Elena Paredes Rangel, Pr
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de marzo de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 31 DE DICIEMBRE DE 2004.
 
@@ -685,7 +691,7 @@ Segundo. Los Centros Públicos de Investigación contarán con un plazo de un a�
 
 D.O.F. 23 DE ENERO DE 2009.
 
-SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
+SE TRANSCRIBE ÚNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -693,10 +699,14 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 D.O.F. 28 DE MAYO DE 2009.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO. El presente Decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Diario Oficial de la Federación, salvo las disposiciones que para su aplicación requieran de las modificaciones al sistema electrónico CompraNet a que se refiere el artículo Décimo transitorio del presente Decreto.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
 
 ...
+
+D.O.F. 5 DE JUNIO DE 2012.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
