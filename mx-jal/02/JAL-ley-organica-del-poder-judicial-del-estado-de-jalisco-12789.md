@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2012-05-10"
+last_updated: "2012-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "JAL"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE JUNIO DE 2012; PÁGINAS 3 Y 4, EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE JUNIO DE 2012, EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2012.
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE MAYO DE 2012.</small>
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 5 DE JUNIO DE 2012; PÁGINAS 5 A 13, NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 23965/LIX/12, PUBLICADO EN EL P.O. DE 31 DE MARZO DE 2012.</small>
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -727,8 +727,6 @@ VIII. De las contiendas de acumulación que se susciten en materia penal entre l
 
 IX. De los demás asuntos que determinen las leyes.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE JUNIO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 48.
 
 Las salas que conozcan de la materia civil y mercantil en los asuntos de los juzgados de su jurisdicción, resolverán:
@@ -739,13 +737,15 @@ II. Sobre excusas o recusaciones interpuestas en contra de los integrantes de la
 
 III. De los conflictos de competencia que se susciten entre los juzgados de su jurisdicción;
 
-IV. De las demandas de responsabilidad civil que se planteen contra los jueces de su jurisdicción; y
+> <small>(F. DE E., P.O. 5 DE JUNIO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2012)</small>
+IV. De las demandas de responsabilidad civil que se planteen contra los jueces de su jurisdicción;
+
+(REFORMADA, P.O. 31 DE MARZO DE 2012) (F. DE E., P.O. 5 DE JUNIO DE 2012)
 
 V. De las demandas de afirmativa ficta para actos de enajenación de bienes inmuebles propiedad del Estado, susceptibles de promoción al Desarrollo Económico y la Inversión, en los términos de lo señalado por las leyes de la materia, y
 
-> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2012)</small>
+(ADICIONADA, P.O. 31 DE MARZO DE 2012) (F. DE E., P.O. 5 DE JUNIO DE 2012)
 
 VI. De los demás asuntos que fijen las leyes.
 
@@ -1639,9 +1639,7 @@ En el supuesto de que la resolución ordene dejar sin efectos la destitución de
 
 ### CAPÍTULO I. DE LA COMPETENCIA Y ORGANIZACIÓN DE LOS JUZGADOS DE PRIMERA INSTANCIA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE JUNIO DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2012) (F. DE E., P.O. 10 DE MAYO DE 2012)
+(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2012) (F. DE E., P.O. 5 DE JUNIO DE 2012)
 
 ## TÍTULO QUINTO. DE LOS JUZGADOS Y JURADO POPULAR
 
@@ -1649,17 +1647,15 @@ En el supuesto de que la resolución ordene dejar sin efectos la destitución de
 
 ###### Artículo 101.
 
-Las Salas del Poder Judicial conocerán asuntos de materia penal, civil, familiar y mercantil, según determine el pleno del Consejo General, conforme a las reglas siguientes:
+Los juzgados de la Entidad conocerán de los asuntos de materia penal, civil, familiar y mercantil, según determine el Pleno del Consejo General, conforme a las reglas siguientes:
 
 I. En materia penal, conocerán de toda clase de delitos del fuero común, sea cual fuere la pena que les corresponda;
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2012)</small>
+(NOTA: EL 20 DE OCTUBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 34/2012, DECLARÓ LA INVALIDEZ DE LA FE DE ERRATAS RELATIVA AL DECRETO 23965/LIX/12, IDENTIFICADA CON EL NÚMERO DPL-869-LIX, PUBLICADA EL CINCO DE JUNIO DE DOS MIL DOCE EN EL PERIÓDICO OFICIAL “EL ESTADO DE JALISCO”, ÚNICAMENTE POR LO QUE HACE A LA FRACCIÓN II DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 21 DE OCTUBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-ll. Los del ramo civil conocerán de:
+(REFORMADA, P.O. 31 DE MARZO DE 2012) (F. DE E., P.O. 5 DE JUNIO DE 2012)
 
-a) Las demandas de afirmativa ficta para actos de enajenación de bienes inmuebles propiedad del Estado, susceptibles de promoción al Desarrollo Económico y la Inversión, en los términos de lo señalado por el artículo 108, Bis de la Ley Orgánica del Poder Legislativo, la Ley de Desarrollo Económico y la Ley de Promoción a la Inversión, todas ellas del estado de Jalisco;
-
-b) Toda clase de juicios o trámites que determine el Consejo General dentro de sus facultades;
+II. Los del ramo civil conocerán de toda clase de juicios o trámites que determine el Consejo General dentro de sus facultades;
 
 III. En materia familiar, conocerán:
 
@@ -1679,7 +1675,11 @@ g) De los alimentos, de los depósitos de menores, de separación de los cónyug
 
 h) De las cuestiones relativas a los asuntos que afecten en sus derechos personales a los menores e incapacitados, y en general, de todas las cuestiones familiares que requieran la intervención judicial, así como de los procedimientos acumulados al juicio universal;
 
+> <small>(F. DE E., P.O. 10 DE MAYO DE 2012)</small>
+
 IV. Los juzgados de lo mercantil, conocerán de toda clase de juicios o trámites relacionados con dicha materia; y
+
+> <small>(F. DE E., P.O. 10 DE MAYO DE 2012)</small>
 
 V. Los juzgados mixtos, conocerán de toda clase de asuntos mencionados en las fracciones anteriores.
 
