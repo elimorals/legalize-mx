@@ -4,7 +4,7 @@ identifier: "COA-ley-de-turismo-para-el-estado-de-coahuila-de-zaragoza-68148"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-10"
-last_updated: "2009-02-10"
+last_updated: "2012-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68148&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE TURISMO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2012.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 10 de febrero de 2009.
 
@@ -373,7 +373,9 @@ II. Cuidar y conservar el buen estado de los establecimientos e instalaciones tu
 
 III. Informar previamente, con objetividad y veracidad, a los turistas sobre los servicios que ofrecen, los precios y condiciones de prestación de los mismos;
 
-IV. Proporcionar a la Secretaría y demás autoridades en materia de turismo, la información y datos que se les requiera, con motivo del desempeño de sus funciones;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2012)</small>
+
+IV. Proporcionar a la Secretaría y demás autoridades en materia de turismo, la información y datos que se les requiera, con motivo del desempeño de sus funciones. Así mismo, deberá proporcionar a las autoridades estatales en materia de seguridad pública y procuración de justicia la información descrita en el artículo 32 bis de esta ley;
 
 V. Tener a disposición de los turistas y del público en general, hojas para sugerencias y reclamaciones en cuanto a los servicios turísticos que proveen;
 
@@ -390,6 +392,14 @@ X. Capacitar en materia turística y de prestación de servicios al personal con
 XI. Suscribir los seguros obligatorios con las coberturas exigidas por las disposiciones aplicables y estar al corriente del pago de las primas correspondientes, y
 
 XII. Observar y cumplir con las demás disposiciones administrativas y legales previstas en esta ley, su reglamento, la ley federal y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2012)</small>
+
+Artículo 32 bis.- Los prestadores de servicios turísticos que tengan bajo su responsabilidad la administración y manejo de un hotel, motel, casa de hospedaje o algún otro establecimiento donde se preste alojamiento mediante el pago de una retribución, deberán exigir a quienes pretendan hospedarse y éstos tendrán obligación de presentar identificación oficial al momento de su registro, y en su caso el número de identificación vehicular (placas). El prestador de servicios formara una base de datos observando lo establecido en la Ley federal de Protección de Datos Personales en Posesión de Particulares, información que proporcionara a las autoridades estatales en materia de seguridad pública y procuración de justicia, de forma inmediata cuando se les requiera.
+
+La información que deberán proporcionar los prestadores de servicios a que a que (sic) se refiere este artículo, consiste en el nombre completo del huésped o huéspedes, en caso de ser varios en una misma habitación y el tipo y número de folio o clave de la identificación oficial así como los datos de entrada, permanencia y salida de los mismos.
+
+Podrán requerir información en los términos de este artículo quienes sean titulares de la Secretaría de Seguridad Pública y de la Procuraduría General de Justicia del Estado, los subsecretarios o subprocuradores respectivamente, o aquellos funcionarios que sean autorizados para tal efecto por los titulares, mediante acuerdo general publicado en el Periódico Oficial del Gobierno del Estado, la información que obtengan será reservada conforme a lo dispuesto en el artículo 30 de la Ley de Acceso a la Información Pública y Protección de datos Personales para el Estado de Coahuila.
 
 ###### Artículo 33.
 
@@ -612,3 +622,11 @@ EL SECRETARIO DE TURISMO
 LIC. JOSÉ LUÍS MORENO AGUIRRE
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE JUNIO DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
