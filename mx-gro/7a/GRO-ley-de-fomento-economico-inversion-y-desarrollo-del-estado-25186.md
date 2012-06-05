@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-fomento-economico-inversion-y-desarrollo-del-estado-2518
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-21"
-last_updated: "2002-06-21"
+last_updated: "2012-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY DE FOMENTO ECONOMICO, INVERSION Y DESARROLLO DEL ESTADO DE GUERRERO NUMERO 487
 
-LEY DE FOMENTO ECONOMICO, INVERSION Y DESARROLLO DEL ESTADO DE GUERRERO, NUMERO 487
+LEY DE FOMENTO ECONÓMICO, INVERSIÓN Y DESARROLLO DEL ESTADO DE GUERRERO, NÚMERO 487
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Guerrero, el 21 de junio de 2002.
 
@@ -169,9 +169,17 @@ XVIII.- REGISTRO UNICO DE TRAMITES ESTATALES Y MUNICIPALES: Registro de trámite
 
 XIX.- CONSEJO ESTATAL: Consejo Estatal de Fomento Económico, Inversión y Desarrollo;
 
-XX.- CONSEJO REGIONAL: Consejo Regional de Fomento Económico, Inversión y Desarrollo; y
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2012)</small>
 
-XXI.- CONSEJO MUNICIPAL: Consejo Municipal de Fomento Económico, Inversión y Desarrollo.
+XX.- CONSEJO REGIONAL: Consejo Regional del Fomento Económico, Inversión y Desarrollo;
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2012)</small>
+
+XXI.- CONSEJO MUNICIPAL: Consejo Municipal de Fomento Económico, Inversión y Desarrollo; y
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2012)</small>
+
+XXII.- TRABAJADOR DEL PRIMER EMPLEO: Es aquel trabajador que no tenga registro previo de aseguramiento en el régimen obligatorio ante el Instituto Mexicano del Seguro Social, por no haber prestado en forma permanente o eventual un servicio remunerado, personal y subordinado a un patrón.
 
 ### CAPITULO II. De los Objetivos
 
@@ -352,6 +360,10 @@ IV.- Artículos o servicios que producirá y/o prestará;
 V.- Cantidad y tipo de maquinaria que utilizará. Si con posterioridad se aumentara o substituyera la maquinaria originalmente instalada, deberá darse aviso a la Secretaría, dentro de un término de ocho días siguientes al en que concluyan los trabajos respectivos;
 
 VI.- Número aproximado de empleados y obreros que se propongan ocupar;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2012)</small>
+
+VI Bis.- Número de empleos de carácter permanente para trabajadores del primer empleo;
 
 VII.- Fecha aproximada de la apertura y funcionamiento de la nueva industria;
 
@@ -697,7 +709,9 @@ Podrán ser sujetos de los incentivos o estímulos previstos en la presente Ley,
 
 I.- Tiendan a mejorar la distribución regional de las actividades económicas, estableciéndose en las áreas geográficas y estratégicas previstas en el Plan Estatal de Desarrollo y atendiendo la estratificación de los Municipios;
 
-II.- Instalen nuevas empresas o la ampliación de las ya establecidas generen cuando menos, quince nuevos empleos permanentes. En el segundo caso, los estímulos se otorgarán en función de los montos de aplicación de las inversiones;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2012)</small>
+
+II.- Instalen nuevas empresas o la ampliación de las ya establecidas generen cuando menos, quince nuevos empleos permanentes cada año y se otorguen a trabajadores de primer empleo. En el segundo caso, los estímulos se otorgarán en función de los montos de aplicación de las inversiones;
 
 III.- Tengan posibilidades de participar exitosamente en los mercados de exportación, de acuerdo a los criterios que fije el Consejo Estatal, para generar empleos y aportar divisas al Municipio;
 
@@ -907,9 +921,17 @@ VI.- Del 25% hasta el 80% en el pago del impuesto sobre la compraventa de inmueb
 
 VII.- Del 5% adicional en el pago del impuesto sobre remuneraciones al trabajo personal, para aquellas empresas nuevas o ampliadas que dentro de su plantilla laboral contraten a un 40% de personal femenino;
 
-VIII.- Del 5% adicional en el pago sobre remuneraciones al trabajo personal, para aquellas empresas nuevas o ampliadas que contraten dentro de su plantilla laboral un 5% de personas con discapacidad; y
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2012)</small>
 
-IX.- Del 5% adicional sobre el 2% en el pago sobre remuneraciones al trabajo personal, para las empresas que contraten dentro de su plantilla laboral un 5% de personas de la tercera edad.
+VIII.- Del 5% adicional en el pago sobre remuneraciones al trabajo personal, para aquellas empresas nuevas o ampliadas que contraten dentro de su plantilla laboral un 5% de personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2012)</small>
+
+IX.- Del 5% adicional sobre el 2% en el pago sobre remuneraciones al trabajo personal, para las empresas que contraten dentro de su plantilla laboral un 5% de personas de la tercera edad; y
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2012)</small>
+
+X.- Del 5% adicional sobre el 2% en el pago sobre remuneraciones al trabajo personal, para las empresas que contraten dentro de su plantilla laboral un 5% de trabajadores de primer empleo.
 
 Los inmuebles que se construyan dentro del área de influencia de un parque industrial cuyo destino sea la instalación de casas de salud, sanatorios o escuelas, también recibirán los estímulos a que se refiere el presente artículo.
 
@@ -1220,3 +1242,15 @@ El Secretario de Desarrollo Económico.
 C. CESAR FLORES MALDONADO.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE JUNIO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo para los efectos legales conducentes.
