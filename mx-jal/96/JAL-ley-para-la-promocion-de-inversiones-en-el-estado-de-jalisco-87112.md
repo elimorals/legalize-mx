@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-promocion-de-inversiones-en-el-estado-de-jalisco-87
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-31"
-last_updated: "2012-05-10"
+last_updated: "2012-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "JAL"
 ---
 # LEY PARA LA PROMOCION DE INVERSIONES EN EL ESTADO DE JALISCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 5 DE JUNIO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE JUNIO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO
 
 TEXTO ORIGINAL.
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE MAYO DE 2012.</small>
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 5 DE JUNIO DE 2012.</small>
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 31 de marzo de 2012.
 
@@ -435,13 +435,13 @@ XVI. Integrar, en los términos de lo establecido por esta Ley y su Reglamento, 
 
 XVII. Las demás que le asignen éste u otros ordenamientos.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE JUNIO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 28.
 
 Para la ejecución de los acuerdos del Consejo Directivo y el ejercicio de las atribuciones que no están expresamente conferidas a ese órgano de gobierno, así como para la conducción de los asuntos administrativos, Invierte en Jalisco contará con un Director Ejecutivo el cual para su nombramiento deberá contar con nivel académico mínimo de licenciatura y preferentemente de maestría, reconocida experiencia de cuando menos cinco años en labores de promoción y atracción de inversión directa, dominar el idioma inglés, el cual será nombrado por el Gobernador del Estado a sugerencia del Consejo Directivo del organismo Invierte en Jalisco.
 
-La reglamentación interior del organismo determinará los demás órganos directivos y las áreas técnicas y operativas que se requieran para el cabal ejercicio de sus facultades y delimitará el ámbito de competencia específico de cado una de ellos.
+> <small>(F. DE E., P.O. 5 DE JUNIO DE 2012)</small>
+
+La reglamentación interior del organismo determinará los demás órganos directivos y las áreas técnicas y operativas que se requieran para el cabal ejercicio de sus facultades y delimitará el ámbito de competencia específico de cada uno de ellos.
 
 ###### Artículo 29.
 
@@ -581,13 +581,13 @@ XIII. Certificaciones internacionales susceptibles de ser conferidas a los produ
 
 ### Capítulo II. De los Procedimientos para la Promoción de Inversiones
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE JUNIO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 39.
 
 Corresponde al Consejo Directivo del organismo público descentralizado Invierte en Jalisco dictar los procedimientos y manuales para la formulación, aprobación, ejecución, supervisión y evaluación de las políticas, programas, proyectos y acciones tendientes a la atracción de inversiones, con base en las prioridades establecidas a través del Sistema Estatal de Planeación Democrática, y de acuerdo con los lineamientos y criterios generales definidos por el Consejo del Sistema Estatal de Promoción de Inversiones.
 
-La participación en ferias y exposiciones promocionales, la realización de campañas publicitarias en medios de comunicación y el envío de misiones y comitivas para la promoción de inversiones, cuando se realicen fuera del territorio jalisciense y sean sufragados con recursos propios de Invierte en Jalisco o por el Fondo de (sic) señalado en el artículo 6° de esta Ley, requerirán de la autorización del Consejo Directivo de Invierte en Jalisco, para lo cual se integrará un expediente en el que se consignarán la descripción detallada del evento o, en su caso, del proyecto, la erogación requerida y los beneficios que se pretende obtener con su ejecución.
+> <small>(F. DE E., P.O. 5 DE JUNIO DE 2012)</small>
+
+La participación en ferias y exposiciones promocionales, la realización de campañas publicitarias en medios de comunicación y el envío de misiones y comitivas para la promoción de inversiones, cuando se realicen fuera del territorio jalisciense y sean sufragados con recursos propios de Invierte en Jalisco o por el Fondo señalado en el artículo 6° de esta Ley, requerirán de la autorización del Consejo Directivo de Invierte en Jalisco, para lo cual se integrará un expediente en el que se consignarán la descripción detallada del evento o, en su caso, del proyecto, la erogación requerida y los beneficios que se pretende obtener con su ejecución.
 
 En el supuesto caso en que, a juicio del Director Ejecutivo de Invierte en Jalisco, se requiera efectuar un viaje que por razones de notoria urgencia no haya sido presentado previamente para su autorización ante el Consejo Directivo, éste podrá ser autorizado por el propio Director Ejecutivo, quien informará el Consejo Directivo en la siguiente· reunión ordinaria del mismo a partir de la conclusión del viaje, acerca de los motivos de su aprobación, costos y resultados del mismo.
 
@@ -617,11 +617,11 @@ El seguimiento y valoración del cumplimiento de los compromisos recíprocos adq
 
 Corresponde al Director Ejecutivo del organismo público descentralizado Invierte en Jalisco emprender todo tipo de acciones administrativas, jurisdiccionales o de justicia alternativa necesarios para asegurar el cumplimiento cabal de los contratos relativos al otorgamiento de incentivos, acordar su terminación anticipada o ejecutar las penalizaciones que deriven de su incumplimiento. En su caso y para tal fin, el Comité Técnico del Fondo señalado en el artículo 6 de esta Ley, deberá notificar al organismo Invierte en Jalisco de la existencia de tales controversias y promoverá la reversión de los derechos y bienes, que en su caso, se encuentren en controversia, para en favor del organismo Invierte en Jalisco.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE JUNIO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 5 DE JUNIO DE 2012)</small>
 
 ###### Artículo 43.
 
-El organismo público descentralizado Invierte en Jalisco, por conducto de su representante legal, podrá solicitar a la Secretaria de Finanzas la constitución de créditos a favor de la Hacienda del Estado, y su ejecución coactiva, por los adeudos que se deriven del incumplimiento de las obligaciones contraídas en los contratos que se celebren para el otorgamiento de incentivos, para exigir el reintegro de los beneficios concedidos, para cubrir las penalizaciones que fueran aplicables, para cubrir los compromisos de (sic) que deriven de convenios administrativos, judiciales o de justicia alternativa, o para resarcir los daños que se hubieren causado, previa resolución que determine su cuantía, dictada por autoridad competente.
+El organismo público descentralizado Invierte en Jalisco, por conducto de su representante legal, podrá solicitar a la Secretaria de Finanzas la constitución de créditos a favor de la Hacienda del Estado, y su ejecución coactiva, por los adeudos que se deriven del incumplimiento de las obligaciones contraídas en los contratos que se celebren para el otorgamiento de incentivos, para exigir el reintegro de los beneficios concedidos, para cubrir las penalizaciones que fueran aplicables, para cubrir los compromisos que deriven de convenios administrativos, judiciales o de justicia alternativa, o para resarcir los daños que se hubieren causado, previa resolución que determine su cuantía, dictada por autoridad competente.
 
 ### Capítulo III. Del Acceso a la Información y la Protección de Datos
 
@@ -657,19 +657,23 @@ Dicho aviso de privacidad contendrá, además, la identificación del servidor p
 
 ### Capítulo IV. De la Rendición de Cuentas
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE JUNIO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 5 DE JUNIO DE 2012)</small>
 
 ###### Artículo 48.
 
-El eje de la rendición de cuentas de la política estatal de promoción de inversiones será el cumplimiento de las metas y compromisos establecidos en cada (sic) los diversos Casos de Inversión.
+El eje de la rendición de cuentas de la política estatal de promoción de inversiones será el cumplimiento de las metas y compromisos establecidos en cada uno de los diversos Casos de Inversión.
+
+> <small>(F. DE E., P.O. 5 DE JUNIO DE 2012)</small>
+
+###### Artículo 49.
 
 Toda gestión financiera que se realice con cargo al Fondo mencionado en el artículo 6.° de esta Ley, deberán referirse a casos de inversión específicos, salvo aquellas que razonablemente se utilicen para la adecuada administración, conservación o recuperación de sus activos, en los términos que acuerde su Comité Técnico, de conformidad con los lineamientos establecidos por el Consejo del Sistema Estatal de Promoción de Inversiones.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE JUNIO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 5 DE JUNIO DE 2012)</small>
 
-Artículo 50 (SIC).
+Artículo 50
 
-Para fines de la evaluación del desempeño de la política estatal de promoción de inversiones, se realizará una ponderación objetiva del grado de cumplimiento de las metas y objetivos en materia de atracción, captación y concreción de inversiones productivas, definidas en el Plan Estatal de Desarrollo o en los instrumentos de planeación de (sic) deriven de éste, a partir de la valoración integral de los avances singulares que se observen en cada uno de los casos de inversión que se encuentren en curso, o cuya conclusión se hubiere acordado durante el período que abarque la revisión.
+Para fines de la evaluación del desempeño de la política estatal de promoción de inversiones, se realizará una ponderación objetiva del grado de cumplimiento de las metas y objetivos en materia de atracción, captación y concreción de inversiones productivas, definidas en el Plan Estatal de Desarrollo o en los instrumentos de planeación que se deriven de éste, a partir de la valoración integral de los avances singulares que se observen en cada uno de los casos de inversión que se encuentren en curso, o cuya conclusión se hubiere acordado durante el período que abarque la revisión.
 
 ###### Artículo 51.
 
@@ -685,9 +689,11 @@ Cuando alguno de los órganos competentes del Sistema Estatal de Promoción de I
 
 En estas situaciones, el Caso de Inversión no podrá darse por concluido en tanto no se hubiere finiquitado totalmente la recuperación de pasivos, se hubiere demostrado fehacientemente la imposibilidad de recuperarlos, o se hubiere expedido el correspondiente acuerdo de eximición de acciones de cobranza.
 
+> <small>(F. DE E., P.O. 5 DE JUNIO DE 2012)</small>
+
 ###### Artículo 53.
 
-En los procedimientos administrativos relativos a las infracciones previstas en esta Ley, se aplicará la Ley de Procedimientos Administrativos del Estado de Jalisco y sus Municipios.
+En los procedimientos administrativos relativos a las infracciones previstas en esta Ley, se aplicará la Ley del Procedimiento Administrativo del Estado de Jalisco.
 
 ## TRANSITORIOS
 
