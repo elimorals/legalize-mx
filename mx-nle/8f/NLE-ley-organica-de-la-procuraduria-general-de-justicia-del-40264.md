@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-procuraduria-general-de-justicia-del-40264"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-07-30"
-last_updated: "2012-05-16"
+last_updated: "2012-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEON
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE JUNIO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 6 DE JUNIO DE 2012.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de julio de 2004.
 
@@ -2359,10 +2359,10 @@ P.O. 26 DE DICIEMBRE DE 2011.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE JUNIO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 P.O. 16 DE MAYO DE 2012.
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León
 
-Segundo.- Se suspende la vigencia de los Artículos 277, 323 Bis II al 323 Bis VII del Código Civil para el Estado de Nuevo León; así como los diversos 23 fracciones XVIII y XXV, 24 fracciones XIII y XIV, y 25 fracciones III y VI de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Nuevo León; exclusivamente en lo que se refiere las ordenes de protección, hasta en tanto entren en vigor las reformas correspondientes al Código de Procedimientos Civiles y al Código de Procedimientos Penales para el Estado de Nuevo León, así como las relativas a la Ley Orgánica del Poder Judicial del Estado de Nuevo León que establece las atribuciones de las autoridades jurisdiccionales en la materia.
+> <small>(F. DE E., P.O. 6 DE JUNIO DE 2012)</small>
+
+Segundo.- Se suspende la vigencia de los Artículos 277, 323 Bis 2 al 323 Bis 7 del Código Civil para el Estado de Nuevo León; así como los diversos 23 fracciones XVIII y XXV, 24 fracciones XIII y XIV, y 25 fracciones III y VI de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Nuevo León; exclusivamente en lo que se refiere las ordenes de protección, hasta en tanto entren en vigor las reformas correspondientes al Código de Procedimientos Civiles y al Código de Procedimientos Penales para el Estado de Nuevo León, así como las relativas a la Ley Orgánica del Poder Judicial del Estado de Nuevo León que establece las atribuciones de las autoridades jurisdiccionales en la materia.
