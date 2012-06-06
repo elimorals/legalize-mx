@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-participacion-ciudadana-para-el-estado-de-zacatecas-2208
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-08"
-last_updated: "2001-09-08"
+last_updated: "2012-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2012.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 8 de septiembre de 2001.
 
@@ -741,11 +741,13 @@ IV. Proyectos de reglamentos municipales; y
 
 V. Proyectos de disposiciones o medidas administrativas conducentes a mejorar el funcionamiento de la administración pública estatal o municipal.
 
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2012)</small>
+
 ###### Artículo 62.
 
-Iniciativa popular municipal
+Iniciativa Popular Municipal
 
-1.- Los Ayuntamientos podrán convocar a sus ciudadanos para que presenten iniciativas de reglamentos municipales y propuestas para mejorar la administración y los servicios públicos.
+1.- Los Ciudadanos podrán presentar ante los Ayuntamientos iniciativas de reglamentos municipales y propuestas para mejorar la administración y los servicios públicos.
 
 ###### Artículo 63.
 
@@ -759,7 +761,9 @@ Reglas para presentar iniciativas
 
 1.- El derecho de Iniciativa Popular deberá ejercerse de la manera siguiente:
 
-I. La Iniciativa de ley, decreto, reforma, adición, derogación o abrogación de ordenamientos legales, será dirigida a la Legislatura del Estado y presentada ante la Oficialía Mayor de la propia Legislatura;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2012)</small>
+
+I. La Iniciativa de ley, decreto, reforma, adición, derogación o abrogación de ordenamientos legales, será dirigida a la Legislatura del Estado y presentada ante la Oficialía de Partes de la propia Legislatura.
 
 II. El proyecto de reglamento municipal será dirigido al ayuntamiento de que se trate, debiéndose presentar ante la secretaría del propio ayuntamiento; y
 
@@ -775,21 +779,29 @@ I. Nombre completo;
 
 II. Domicilio;
 
-III. Clave de elector con fotografía;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2012)</small>
 
-IV. Folio de credencial para votar con fotografía;
+III. Copia del anverso y reverso de la Credencial para votar con fotografía, debidamente certificada por el Instituto Federal Electoral, que haga constar que el ciudadano se encuentra inscrito en la Lista Nominal de Electores y vigente en sus derechos político-electorales.
 
-V. Sección electoral; y
+IV. (DEROGADA, P.O. 6 DE JUNIO DE 2012)
+
+V. (DEROGADA, P.O. 6 DE JUNIO DE 2012)
 
 VI. Firmas respectivas.
 
 2.- Toda iniciativa popular requerirá de un mínimo de promoventes:
 
-I. Quinientos ciudadanos inscritos en el padrón estatal, tratándose de iniciativas de ley, o disposiciones administrativas del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2012)</small>
 
-II. Cien ciudadanos inscritos en el respectivo padrón municipal, tratándose de reglamentos o disposiciones administrativas municipales, en municipios con más de veinte mil electores; o
+I. Quinientos ciudadanos inscritos en la Lista Nominal de Electores, con domicilio en el Estado de Zacatecas, tratándose de iniciativas de ley, o disposiciones administrativas del Poder Ejecutivo;
 
-III. Cincuenta ciudadanos inscritos en el respectivo padrón municipal, tratándose de reglamentos o disposiciones administrativas municipales, en municipios con menos de veinte mil electores.
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2012)</small>
+
+II. Cien ciudadanos inscritos en la Lista Nominal de Electores con domicilio en el Municipio de que se trate, tratándose de reglamentos o disposiciones administrativas municipales, en municipios con más de veinte mil electores; o
+
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2012)</small>
+
+III. Cincuenta ciudadanos inscritos en la Lista Nominal de Electores con domicilio en el Municipio de que se trate, tratándose de reglamentos o disposiciones administrativas municipales, en municipios con menos de veinte mil electores.
 
 ###### Artículo 66.
 
@@ -807,21 +819,17 @@ IV. Artículos transitorios.
 
 ###### Artículo 67.
 
-Remisión y trámite ante el Instituto
+(DEROGADO, P.O. 6 DE JUNIO DE 2012)
 
-1.- Recibida la solicitud, la autoridad turnará la lista de peticionarios al Instituto para que certifique la autenticidad de los datos de los ciudadanos que la suscriben.
-
-2.- Certificará asimismo si se cubren o no, los porcentajes de ciudadanos autores de la iniciativa.
-
-3.- El Instituto deberá contestar dentro de un término de quince días contados a partir de la fecha en que se reciba la solicitud.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2012)</small>
 
 ###### Artículo 68.
 
-Trámite ante la Legislatura
+Trámites ante la Legislatura.
 
-1.- Si la respuesta del Instituto es en el sentido de que procede la solicitud, el Oficial Mayor de la Legislatura le dará cuenta al Presidente de la Mesa Directiva, o en su caso, al de la Comisión Permanente, para que la iniciativa entre a trámite, de conformidad con las disposiciones legales y reglamentarias aplicables.
+1. Recibida la iniciativa, el Presidente de la Mesa Directiva, o en su caso, de la Comisión Permanente, después de su lectura en el Pleno la turnará al Instituto Electoral del Estado de Zacatecas, a fin de que, dentro del término de treinta días hábiles, contados a partir del día hábil siguiente al de su recepción, verifique el cumplimiento de los requisitos de los promoventes, lo que comunicará al Presidente de la Mesa Directiva.
 
-2.- En caso de improcedencia, previa autorización del Presidente de la Mesa Directiva, el Oficial Mayor dictará acuerdo de archivo de la iniciativa, notificándolo a los promoventes, sin que proceda recurso alguno.
+2. En caso de que proceda la iniciativa, el Presidente de la Mesa Directiva lo turnará a la Comisión que por materia corresponda; en caso de improcedencia de la iniciativa, ordenará su archivo como asunto concluido, notificándolo a los promoventes, sin que proceda recurso alguno.
 
 ###### Artículo 69.
 
@@ -829,11 +837,13 @@ Trámite de iniciativas municipales
 
 1.- Tratándose de un proyecto de carácter municipal, el Secretario del Ayuntamiento dará cuenta a los integrantes del mismo para que se le dé el trámite que corresponda en la siguiente sesión de cabildo.
 
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2012)</small>
+
 ###### Artículo 70.
 
-Iniciativa desechada
+Iniciativa Desechada
 
-1.- Toda Iniciativa Popular desechada, no podrá volver a presentarse sino hasta transcurrido un año posterior a la fecha en que se desechó.
+1.- Toda Iniciativa Popular desechada, no podrá volver a presentarse sino hasta transcurrido a un año posterior a la fecha en que se desechó.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -862,3 +872,11 @@ LIC. RICARDO MONREAL AVILA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ARTURO NAHLE GARCIA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE JUNIO DE 2012.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
