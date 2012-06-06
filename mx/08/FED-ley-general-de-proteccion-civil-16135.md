@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-proteccion-civil-16135"
 country: "mx"
 rank: "ley_general"
 publication_date: "2000-05-12"
-last_updated: "2006-04-24"
+last_updated: "2012-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16135&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LGPC"
 ---
 # LEY GENERAL DE PROTECCION CIVIL
 
-LEY GENERAL DE PROTECCION CIVIL
+LEY GENERAL DE PROTECCIÓN CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE ABRIL DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY GENERAL DE PROTECCIÓN CIVIL, PUBLICADA EN EL D.O.F. DE 6 DE JUNIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Ley publicada en la Sección Primera del Diario Oficial de la Federación, el viernes 12 de mayo de 2000.
 
@@ -567,3 +569,35 @@ El Ejecutivo Federal realizará las modificaciones correspondientes en las regla
 D.O.F. 24 DE ABRIL DE 2006.
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE JUNIO DE 2012.
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Ejecutivo Federal emitirá el Reglamento de esta Ley en un plazo no mayor a 180 días a partir de su publicación.
+
+Tercero. La presente Ley abroga a la Ley General de Protección Civil publicada en el Diario Oficial de la Federación el 12 de mayo de 2000 y a sus reformas de 29 de diciembre de 2001, 13 de junio de 2003, 15 de junio de 2004 y 24 de abril de 2006.
+
+Cuarto. Las disposiciones reglamentarias y administrativas de protección civil se seguirán aplicando en lo que no se opongan a esta Ley, en tanto se emite el Reglamento.
+
+Quinto. Las demás disposiciones que en materia de protección civil que se contengan en otros ordenamientos federales, serán complementarios de esta Ley, en lo que no se opongan a ella.
+
+Sexto. Los desastres y las emergencias que hayan ocurrido con anterioridad a la entrada en vigor de la Ley, se atenderán conforme a los recursos financieros y a las disposiciones administrativas vigentes a la fecha en que sucedieron.
+
+Séptimo. Los Gobernadores de los Estados, el Jefe de Gobierno del Distrito Federal, los Presidentes Municipales, y los Jefes Delegacionales del Distrito Federal, contarán con un plazo de hasta 180 días a partir de la publicación de esta Ley para dar cumplimiento a lo establecido en el artículo 18 de esta Ley.
+
+Octavo. Las autoridades locales realizarán las gestiones conducentes con el propósito de que se realicen las adecuaciones correspondientes en las Leyes y demás disposiciones locales en la materia en un plazo no mayor a 365 días a partir de la publicación de esta Ley, ajustándose en todo momento a los principios y directrices de esta Ley.
+
+Noveno. En un plazo no mayor a 90 días a partir de la publicación de esta Ley, el Ejecutivo Federal deberá rendir un informe del estado que guardan los recursos del Fideicomiso del Fondo de Desastres Naturales, y estos pasarán a formar parte de los instrumentos Financieros de Gestión de Riesgos.
+
+El Fideicomiso del Fondo de Desastres Naturales seguirá cumpliendo con los compromisos derivados de los instrumentos de transferencia de riesgos que contrató conforme a las disposiciones aplicables antes de la entrada en vigor de esta Ley, así mismo podrá contratar instrumentos de la misma naturaleza y conforme a esas disposiciones, en tanto se emiten las disposiciones administrativas a que se refiere el artículo 63 de la Ley, de manera conjunta, por la Secretaría de Gobernación y la Secretaría de Hacienda y Crédito Público.
+
+El Fideicomiso del Fondo de Desastres Naturales solo se podrá dar por terminado y liquidar hasta que se cumplan todas las obligaciones y se ejerzan los derechos derivados de los instrumentos contratados, en los términos de las disposiciones aplicables, antes de la entrada en vigor de esta Ley.
+
+Décimo. En un plazo no mayor a 90 días a partir de la publicación de esta Ley, el Ejecutivo Federal elaborará los lineamientos para que los Estados y el Distrito Federal puedan acceder a los recursos para cumplir con las obligaciones determinadas en el artículo 18 de esta Ley.
+
+Décimo Primero. Con relación al artículo 17 de esta Ley, las Entidades Federativas y el Distrito Federal, procurarán adecuar tal denominación y la estructura a más tardar en 180 días después de la entrada en vigor de la presente normativa.
+
+Décimo Segundo. Con relación al artículo 31 y en lo referente a los recursos necesarios como los inmuebles que le sirvan de sede, infraestructura, personal y demás recursos necesarios para la realización de sus objetivos, la Secretaría de Gobernación dotará de éstos para que la Coordinación realice sus objetivos y se establezca.
+
+Décimo Tercero. Respecto de la fracción VI del artículo 4, en dicha certificación de competencias deberá ser extensiva a los integrantes de aquellos organismos e instituciones que por su naturaleza estén integrados al Sistema Nacional de Protección Civil.
