@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-560
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-04-11"
-last_updated: "2011-02-19"
+last_updated: "2012-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE TABASCO
 
-REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE TABASCO
+REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TABASCO, PUBLICADO EN EL SUPLEMENTO C DEL P.O. DE 6 DE JUNIO DE 2012, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO A LOS TREINTA DÍAS SIGUIENTES AL DE LA PUBLICACIÓN DEL CITADO REGLAMENTO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2012.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 11 de abril de 2007.
 
@@ -899,7 +901,7 @@ XI.- Vigilar que los Agentes del Ministerio Público Investigadores se ajusten a
 
 XII.- Vigilar, en su caso, el exacto cumplimiento de los lineamientos emitidos por la Dirección de Consulta, Amparo e Inconformidades en los casos de improcedencia del acuerdo de consulta de no ejercicio de la acción penal;
 
-XIlI.- Vigilar que los Agentes del Ministerio Público Investigadores comuniquen oportunamente a la Dirección General de Informática y Estadística y a la Coordinación de Asesores, el inicio y trámite de las averiguaciones previas;
+XIII.- Vigilar que los Agentes del Ministerio Público Investigadores comuniquen oportunamente a la Dirección General de Informática y Estadística y a la Coordinación de Asesores, el inicio y trámite de las averiguaciones previas;
 
 XIV.- Procurar que los Agentes del Ministerio Público Investigadores practiquen todas las diligencias en las averiguaciones previas tendientes a comprobar el cuerpo del delito y la probable responsabilidad del inculpado y las remitan a la Mesa Revisora de Consignaciones o a la Dirección de Control de Procesos con todas las formalidades legales; y
 
@@ -1191,11 +1193,11 @@ C. Dirección de Recursos Financieros;
 
 I.- Las establecidas en las fracciones I, IV y IX del artículo 40 este (sic) Reglamento.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPÍTULO II. DIRECCIÓN DE ASUNTOS INTERNOS Y CONTRALORÍA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 42.
 
@@ -1281,7 +1283,7 @@ XIX.- Representar a la Procuraduría y a su Titular ante la Secretaría de Contr
 
 La Dirección de Asuntos Internos y Contraloría estará a cargo de un Director, auxiliado en el ejercicio de sus atribuciones por los Jefes de Departamento y demás personal que se requiera para satisfacer las necesidades del servicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
 ARTÍCULO 42 BIS. Compete a las Jefaturas de Departamento de la Dirección de Asuntos Internos y Contraloría, ejercer las siguientes facultades:
 
@@ -1599,7 +1601,7 @@ LIC. GUSTAVO ROSARIO TORRES.
 
 PROCURADOR GENERAL DE JUSTICIA DEL ESTADO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 28 DE JULIO DE 2007.
 
@@ -1620,3 +1622,13 @@ SEGUNDO. Todos aquellos asuntos que se encuentren en trámite o pendientes de re
 P.O. 19 DE FEBRERO DE 2011.
 
 ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+P.O. 6 DE JUNIO DE 2012.
+
+Artículo Primero.- El presente Reglamento entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga el Reglamento de la Ley publicado en el Suplemento D al Periódico Oficial 6740 de fecha 11 de abril de 2007, así como las demás disposiciones que se opongan al presente.
+
+Artículo Tercero.- La nueva estructura de la Procuraduría, se aplicará acorde a las previsiones presupuéstales.
+
+Artículo Cuarto.- El Procurador, expedirá el Manual de Organización y Procedimientos de la Procuraduría, dentro de 14 meses, contados a partir de la publicación del presente Reglamento.
