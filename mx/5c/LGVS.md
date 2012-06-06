@@ -4,7 +4,7 @@ identifier: "LGVS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2000-07-03"
-last_updated: "2012-06-04"
+last_updated: "2012-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16446&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGVS"
 
 LEY GENERAL DE VIDA SILVESTRE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE JUNIO DE 2012.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 3 de julio de 2000.
 
@@ -506,6 +506,10 @@ En dichos centros se llevará un registro de las personas físicas y morales con
 
 ### CAPÍTULO VIII. SISTEMA DE UNIDADES DE MANEJO PARA LA CONSERVACIÓN DE LA VIDA SILVESTRE
 
+> <small>(ADICIONADA, D.O.F. 6 DE JUNIO DE 2012)</small>
+
+#### SECCIÓN I. DE LAS UNIDADES DE MANEJO PARA LA CONSERVACIÓN DE VIDA SILVESTRE
+
 ###### Artículo 39.
 
 Los propietarios o legítimos poseedores de los predios o instalaciones en los que se realicen actividades de conservación de Vida Silvestre deberán dar aviso a la Secretaría, la cual procederá a su incorporación al Sistema de Unidades de Manejo para la Conservación de la Vida Silvestre. Asimismo, cuando además se realicen actividades de aprovechamiento, deberán solicitar el registro de dichos predios o instalaciones como Unidades de Manejo para la Conservación de Vida Silvestre.
@@ -564,7 +568,19 @@ Registrar estas unidades y aprobar sus planes de manejo en los términos present
 
 Condicionar el desarrollo de las actividades a la modificación del plan de manejo, en cuyo caso, se señalarán los criterios técnicos para efectuar dicha modificación.
 
-Negar el desarrollo de las actividades cuando de la ejecución del plan de manejo resulte que se contravendrán las disposiciones de esta Ley, de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, o de las que de ellas se deriven.
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2012)</small>
+
+La Secretaría sólo podrá negar el registro de Unidades de Manejo para la Conservación de Vida Silvestre, cuando:
+
+I. Se contravenga lo establecido en la Ley, el Reglamento, las normas oficiales mexicanas y demás disposiciones jurídicas aplicables;
+
+II. Se comprometa la biodiversidad o la capacidad productiva en el predio, donde se pretende establecer la Unidad de Manejo para la Conservación de Vida Silvestre;
+
+III. El responsable técnico o los poseedores del predio hayan sido sancionados por cualquier tipo de aprovechamiento ilícito de vida silvestre;
+
+IV. Se presenten conflictos de límites o sobreposición de predios, y
+
+V. El programa de manejo no sea congruente y consistente con el estudio de población presentado.
 
 ###### Artículo 42.
 
@@ -617,6 +633,92 @@ La Secretaría brindará asesoría y, en coordinación con las demás autoridade
 La Secretaría promoverá el desarrollo del Sistema Nacional de Unidades de Manejo para la Conservación de la Vida Silvestre en las zonas de influencia de las áreas naturales protegidas, con el propósito de reforzar sus zonas de amortiguamiento y dar continuidad a sus ecosistemas.
 
 Asimismo, la Secretaría promoverá que dentro de las áreas naturales protegidas, que cuenten con programa de manejo, el Sistema Nacional de Unidades de Manejo para la Conservación de la Vida Silvestre, involucre a los habitantes locales en la ejecución del programa mencionado anteriormente dentro de sus predios, dando prioridad al aprovechamiento no extractivo, cuando se trate de especies o poblaciones amenazadas o en peligro de extinción.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 6 DE JUNIO DE 2012)</small>
+
+#### SECCIÓN II. DE LAS UNIDADES DE MANEJO PARA LA CONSERVACIÓN DE FAUNA SILVESTRE
+
+> <small>(ADICIONADO, D.O.F. 6 DE JUNIO DE 2012)</small>
+
+###### Artículo 47 Bis.
+
+Las Unidades de Manejo para la Conservación de Vida Silvestre de fauna silvestre se sujetarán a las previsiones establecidas en la presente Ley.
+
+Sin perjuicio de lo anterior, la Secretaría elaborará los términos de referencia y criterios que sirvan de base para la realización de los estudios de población. Dichos estudios serán un requisito para el registro de predios o instalaciones.
+
+Tratándose de especies en peligro de extinción y amenazadas, el plan de manejo y los estudios de población se realizarán de conformidad a lo dispuesto en el último párrafo del artículo 87 de la presente Ley.
+
+La Secretaría estará facultada para corroborar la información técnica contenida en el plan de manejo y el estudio de poblaciones de la Unidad de Manejo para la Conservación de Vida Silvestre de fauna silvestre, mediante visitas técnicas que al efecto realice, previa notificación al titular de la unidad registrada.
+
+Las técnicas y métodos que se empleen para la elaboración de los estudios de población, deberán atender al tipo de ecosistema y a las características biológicas de la especie de interés. En caso de utilizar un método de transectos para la cuantificación de ejemplares, se deberá presentar un método adicional que confirme el resultado.
+
+> <small>(ADICIONADO, D.O.F. 6 DE JUNIO DE 2012)</small>
+
+###### Artículo 47 Bis 1.
+
+Los planes de manejo de las Unidades de Manejo para la Conservación de Vida Silvestre que tengan por objeto, además de la conservación, el aprovechamiento sustentable de especies de fauna silvestre se elaborarán por un responsable técnico que deberá registrarse ante la Secretaría.
+
+Los responsables técnicos deberán acreditar experiencia, conocimientos, capacitación, perfil técnico o formación profesional en materia de conservación y aprovechamiento sustentable de especies de vida silvestre y su hábitat.
+
+Se podrá acreditar la capacidad técnica u operativa mediante título o cédula profesional en materias directamente relacionadas con la fauna silvestre; constancias expedidas por institución u organismo nacional o internacional o documentación que acredite una experiencia mínima de dos años.
+
+Para la conservación de la fauna silvestre, la Secretaría promoverá la certificación y capacitación de los responsables técnicos.
+
+> <small>(ADICIONADO, D.O.F. 6 DE JUNIO DE 2012)</small>
+
+###### Artículo 47 Bis 2.
+
+Serán motivo de revocación del registro del responsable técnico de vida silvestre:
+
+I. Cuando por causas imputables a éste, se suspenda o revoque el aprovechamiento de fauna silvestre en la unidad;
+
+II. El responsable haya presentado información falsa a las autoridades, en relación con el aprovechamiento, sus tasas de aprovechamiento o duplique los estudios poblacionales;
+
+III. Incurra en actos u omisiones que contravengan la Ley, el Reglamento, o el plan de manejo de la unidad registrada, y
+
+IV. Duplique información que corresponda a otra UMA solo porque se trate de la misma especie de fauna silvestre.
+
+> <small>(ADICIONADO, D.O.F. 6 DE JUNIO DE 2012)</small>
+
+###### Artículo 47 Bis 3.
+
+La Secretaría negará la autorización de aprovechamiento, o registro de la Unidad de Manejo para la Conservación de Vida Silvestre, cuando:
+
+I. Se solicite la creación de Unidades de Manejo que involucre el aprovechamiento extractivo de especies en peligro de extinción o amenazadas dentro del polígono de áreas naturales protegidas, excepto en aquellos casos en que el plan de manejo del área natural protegida así lo permita;
+
+II. Se obstaculice por cualquier medio, el libre tránsito o movimiento de ejemplares de vida silvestre en corredores biológicos o áreas naturales protegidas;
+
+III. El responsable técnico no acredite la capacidad técnica y operativa para ejercer el cargo;
+
+IV. Exista duplicidad, inconsistencias o falsedad en los datos proporcionados sobre la especie o los estudios poblacionales;
+
+V. Se solicite autorización para traslocación de especies o subespecies a zonas que no forman parte de su distribución original, y
+
+VI. Se contravengan en la solicitud o plan de manejo las disposiciones de esta Ley, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 6 DE JUNIO DE 2012)</small>
+
+###### Artículo 47 Bis 4.
+
+Son causas de revocación de la autorización de aprovechamiento en las Unidades de Manejo para la Conservación de Vida Silvestre, de fauna silvestre:
+
+I. No se cumpla con la tasa de aprovechamiento y su temporalidad;
+
+II. Se ponga en riesgo la continuidad de las especies o poblaciones comprendidas en la tasa de aprovechamiento;
+
+III. Se detecten inconsistencias en el plan de manejo, en los estudios de población, muestreos o inventarios que presente el responsable de la unidad registrada;
+
+IV. Se detecte duplicidad en los estudios de población y en las tasas de aprovechamiento en más de una Unidad de Manejo para la Conservación de Vida Silvestre;
+
+V. Durante la visita de supervisión establecida en el artículo 43 de la Ley, se detecten acciones u omisiones violatorias a la presente Ley, su Reglamento y demás disposiciones jurídicas aplicables;
+
+VI. El Informe anual de actividades no sea presentado durante dos años consecutivos, y
+
+VII. Se omita la presentación del informe de contingencias o emergencias que ponga en riesgo a la vida silvestre, su hábitat natural o la salud de la población humana, en los términos señalados por la Ley y su Reglamento.
+
+La revocación de la autorización de aprovechamiento no implica la eliminación del registro en el Sistema.
+
+El procedimiento de revocación se sujetará al procedimiento previsto por la Ley Federal de Procedimiento Administrativo.
 
 ### CAPÍTULO IX. SUBSISTEMA NACIONAL DE INFORMACIÓN
 
@@ -1593,3 +1695,29 @@ D.O.F. 4 DE JUNIO DE 2012.
 Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. El Ejecutivo Federal, en un plazo no mayor a 120 días naturales, realizará las modificaciones correspondientes al Reglamento de la Ley General de Vida Silvestre.
+
+D.O.F. 6 DE JUNIO DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. El Ejecutivo Federal realizará las modificaciones correspondientes al Reglamento de esta Ley, dentro de los 180 días posteriores a la publicación del presente Decreto.
+
+TERCERO. Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+CUARTO. En tanto la Secretaría expide los términos de referencia a que se refiere el artículo 47 Bis del presente Decreto, los estudios de población contendrán, enunciativa y no limitativamente:
+
+I. Especie de interés;
+
+II. Tipo de manejo que se le pretende dar;
+
+III. Tratándose de especies de manejo en vida libre:
+
+a) Estimación de las tasas de natalidad y mortalidad y un muestreo;
+
+b) Resultados del muestreo más reciente realizado sobre la abundancia relativa y estructura en el marco del estudio de poblaciones, con estimaciones estadísticas de natalidad y mortalidad, y
+
+c) El sistema, metodología o técnica de identificación, monitoreo y cuantificación empleado para determinar el número de individuos, especificando la época del año en la cual se llevó a cabo la cuantificación y el período de tiempo durante el cual se realizó.
+
+IV. El control de movimientos de inventario de ejemplares (ingresos, liberaciones, canalizaciones, nacimientos y defunciones) en el que se deberá indicar la cantidad, género y especie, así como señalar el sistema de marca utilizado y los datos de identificación individual, en el caso de especies de manejo intensivo.
+
+QUINTO. El contenido y alcances de la capacitación de responsables técnicos será determinada por la Secretaría en colaboración de la Comisión Nacional de Áreas Naturales Protegidas, el Instituto Nacional de Ecología y la Comisión Nacional para el Conocimiento y Uso de la Biodiversidad.
