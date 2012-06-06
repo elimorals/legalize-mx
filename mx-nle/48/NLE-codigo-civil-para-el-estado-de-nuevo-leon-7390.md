@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2012-05-16"
+last_updated: "2012-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE JUNIO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 6 DE JUNIO DE 2012.</small>
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -3861,7 +3861,7 @@ Los hijos menores de un incapacitado quedarán bajo la patria potestad del ascen
 
 ###### Art. 466.
 
-El cargo de tutor de la persona discapacitada con ausencia de capacidad mental, con ausencia de capacidad auditiva y del habla, ebrio consuetudinario y de los que habitualmente abusen de las drogas enervantes, durará el tiempo que subsista la interdicción, cuando sea ejercitado por descendientes o por ascendientes. El cónyuge sólo tendrá obligación de desempeñar ese cargo mientras conserve su carácter de cónyuge. Los extraños que desempeñen la tutela de que se trata, tienen derecho de que se les releve de ella a los diez años de ejercerla.
+El cargo de tutor de la persona discapacitada con ausencia de capacidad mental, con ausencia de capacidad auditiva y del habla, ebrio consuetudinario y de los que habitualmente abusen de las drogas enervantes, durará el tiempo que subsista la interdicción, cuando sea ejercitado por descendientes o por ascendientes. El cónyuge solo tendrá obligación de desempeñar ese cargo mientras conserve su carácter de cónyuge. Los extraños que desempeñen la tutela de que se trata, tienen derecho de que se les releve de ella a los diez años de ejercerla.
 
 ###### Art. 467.
 
@@ -17003,13 +17003,13 @@ P.O. 15 DE FEBRERO DE 2012.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE JUNIO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 P.O. 16 DE MAYO DE 2012.
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León
 
-Segundo.- Se suspende la vigencia de los Artículos 277, 323 Bis II al 323 Bis VII del Código Civil para el Estado de Nuevo León; así como los diversos 23 fracciones XVIII y XXV, 24 fracciones XIII y XIV, y 25 fracciones III y VI de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Nuevo León; exclusivamente en lo que se refiere las ordenes de protección, hasta en tanto entren en vigor las reformas correspondientes al Código de Procedimientos Civiles y al Código de Procedimientos Penales para el Estado de Nuevo León, así como las relativas a la Ley Orgánica del Poder Judicial del Estado de Nuevo León que establece las atribuciones de las autoridades jurisdiccionales en la materia.
+> <small>(F. DE E., P.O. 6 DE JUNIO DE 2012)</small>
+
+Segundo.- Se suspende la vigencia de los Artículos 277, 323 Bis 2 al 323 Bis 7 del Código Civil para el Estado de Nuevo León; así como los diversos 23 fracciones XVIII y XXV, 24 fracciones XIII y XIV, y 25 fracciones III y VI de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Nuevo León; exclusivamente en lo que se refiere las ordenes de protección, hasta en tanto entren en vigor las reformas correspondientes al Código de Procedimientos Civiles y al Código de Procedimientos Penales para el Estado de Nuevo León, así como las relativas a la Ley Orgánica del Poder Judicial del Estado de Nuevo León que establece las atribuciones de las autoridades jurisdiccionales en la materia.
 
 ###### ARTICULO TERCERO.
 
