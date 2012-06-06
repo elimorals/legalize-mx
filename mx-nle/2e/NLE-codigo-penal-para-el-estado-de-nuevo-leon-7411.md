@@ -4,7 +4,7 @@ identifier: "NLE-codigo-penal-para-el-estado-de-nuevo-leon-7411"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-26"
-last_updated: "2012-05-16"
+last_updated: "2012-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # CODIGO PENAL PARA EL ESTADO DE NUEVO LEON
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE JUNIO DE 2012 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE JUNIO DE 2012.</small>
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de marzo de 1990.
 
@@ -4159,8 +4159,6 @@ AL RESPONSABLE DE ESTE DELITO SE LE IMPONDRA PENA DE UNO A SEIS AÑOS DE PRISION
 
 AUNADO A LA SANCION ANTERIOR, CUANDO EL SUJETO ACTIVO SEA SERVIDOR PUBLICO, LA PENA SE INCREMENTARA DE DOS MESES A DOS AÑOS DE PRISION.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE MARZO DE 2009)</small>
-
 ###### ARTICULO 176.
 
 SE IMPONDRA PRISION DE SEIS A QUINCE AÑOS Y MULTA DE DOSCIENTAS A MIL CUOTAS, AL QUE FORME PARTE DE UNA BANDA DE DOS O MAS PERSONAS, ORGANIZADA PARA DELINQUIR, POR EL SOLO HECHO DE SER MIEMBRO DE LA AGRUPACION, E INDEPENDIENTEMENTE DE LA PENA QUE LE CORRESPONDA POR EL DELITO QUE SE COMETIERE.
@@ -4226,6 +4224,8 @@ ARTICULO 177 BIS 3.- A QUIEN DIRIJA, ORGANICE, INCITE, OBLIGUE O PATROCINE DE CU
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
 
 ## TITULO TERCERO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE MARZO DE 2009)</small>
 
 ### CAPITULO I. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
 
@@ -8423,13 +8423,13 @@ P.O. 26 DE DICIEMBRE DE 2011.
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE JUNIO DE 2012 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 P.O. 16 DE MAYO DE 2012.
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León
 
-SEGUNDO.- Se suspende la vigencia de los Artículos 277, 323 Bis II al 323 Bis VII del Código Civil para el Estado de Nuevo León; así como los diversos 23 fracciones XVIII y XXV, 24 fracciones XIII y XIV, y 25 fracciones III y VI de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Nuevo León; exclusivamente en lo que se refiere las ordenes de protección, hasta en tanto entren en vigor las reformas correspondientes al Código de Procedimientos Civiles y al Código de Procedimientos Penales para el Estado de Nuevo León, así como las relativas a la Ley Orgánica del Poder Judicial del Estado de Nuevo León que establece las atribuciones de las autoridades jurisdiccionales en la materia.
+> <small>(F. DE E., P.O. 6 DE JUNIO DE 2012)</small>
+
+SEGUNDO.- Se suspende la vigencia de los Artículos 277, 323 Bis 2 al 323 Bis 7 del Código Civil para el Estado de Nuevo León; así como los diversos 23 fracciones XVIII y XXV, 24 fracciones XIII y XIV, y 25 fracciones III y VI de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Nuevo León; exclusivamente en lo que se refiere las ordenes de protección, hasta en tanto entren en vigor las reformas correspondientes al Código de Procedimientos Civiles y al Código de Procedimientos Penales para el Estado de Nuevo León, así como las relativas a la Ley Orgánica del Poder Judicial del Estado de Nuevo León que establece las atribuciones de las autoridades jurisdiccionales en la materia.
 
 ###### ARTICULO UNICO.
 
