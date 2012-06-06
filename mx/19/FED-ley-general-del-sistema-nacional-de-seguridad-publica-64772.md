@@ -4,7 +4,7 @@ identifier: "FED-ley-general-del-sistema-nacional-de-seguridad-publica-64772"
 country: "mx"
 rank: "ley_general"
 publication_date: "2009-01-02"
-last_updated: "2012-04-17"
+last_updated: "2012-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64772&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGSNSP"
 
 LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE JUNIO DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 2 de enero de 2009.
 
@@ -2102,9 +2102,11 @@ Las decisiones que en ese sentido emita el Consejo Nacional, deberán ser ejecut
 
 ## TÍTULO DÉCIMO SEGUNDO. DE LOS SERVICIOS DE SEGURIDAD PRIVADA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE JUNIO DE 2012)</small>
+
 ###### Artículo 150.
 
-Además de cumplir con las disposiciones de la Ley Federal de Armas de Fuego y Explosivos, los particulares que presten servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, de bienes o valores, incluido su traslado; deberán obtener autorización previa de la Secretaría, cuando los servicios comprendan dos o más entidades federativas; o de la autoridad administrativa que establezcan las leyes locales, cuando los servicios se presten sólo en el territorio de una entidad. En el caso de la autorización de la Secretaría, los particulares autorizados, además deberán cumplir la regulación local.
+Además de cumplir con las disposiciones de la Ley Federal de Armas de Fuego y Explosivos, los particulares que presten servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, de bienes o valores, incluido su traslado y monitoreo electrónico; deberán obtener autorización previa de la Secretaría, cuando los servicios comprendan dos o más entidades federativas; o de la autoridad administrativa que establezcan las leyes locales, cuando los servicios se presten sólo en el territorio de una entidad. En el caso de la autorización de la Secretaría, los particulares autorizados, además deberán cumplir la regulación local, misma que no excederá los requisitos establecidos en la Ley Federal de Seguridad Privada, de conformidad con lo dispuesto en el párrafo noveno, del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
 Conforme a las bases que esta ley dispone, las instancias de coordinación promoverán que dichas leyes locales prevean los requisitos y condiciones para la prestación del servicio, la denominación, los mecanismos para la supervisión y las causas y procedimientos para determinar sanciones.
 
@@ -2185,3 +2187,9 @@ D.O.F. 17 DE ABRIL DE 2012.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Artículo Segundo.- Los lineamientos a que se refiere la fracción VIII del artículo 31 de la Ley General del Sistema Nacional de Seguridad Pública, se emitirá en un plazo de 30 días a partir de la entrada en vigor del presente Decreto.
+
+D.O.F. 6 DE JUNIO DE 2012.
+
+Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. En un plazo de ciento ochenta días contados a partir de la entrada en vigor del presente decreto, las entidades federativas y el Distrito Federal, deberán realizar las adecuaciones necesarias a las disposiciones aplicables en la materia de conformidad con lo dispuesto en la Ley General del Sistema Nacional de Seguridad Pública y la Ley Federal de Seguridad Privada.
