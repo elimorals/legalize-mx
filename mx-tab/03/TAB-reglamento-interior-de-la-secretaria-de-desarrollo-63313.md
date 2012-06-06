@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-desarrollo-63313"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-28"
-last_updated: "2007-11-28"
+last_updated: "2012-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63313&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO, FORESTAL Y PESCA DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO AGROPECUARIO, FORESTAL Y PESCA DEL ESTADO DE TABASCO, PUBLICADO EN EL P.O. DE 6 DE JUNIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 28 de noviembre de 2007.
 
@@ -2498,3 +2500,17 @@ CONSEJERO JURÍDICO DEL PODER EJECUTIVO.
 ING. JOSÉ CARLOS OCAÑA BECERRA
 
 SECRETARIO DE DESARROLLO AGROPECUARIO, FORESTAL Y PESCA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE JUNIO DE 2012.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Desarrollo Agropecuario, Forestal y Pesca, publicado en el Suplemento "E" al Periódico Oficial del Estado número 6806, de fecha 28 de noviembre de 2007, y se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+TERCERO. Los asuntos que con motivo de este Reglamento deban pasar de una unidad administrativa a otra, serán resueltos por la unidad administrativa competente conforme a las disposiciones del presente Reglamento.
+
+CUARTO. Las transferencias de los recursos humanos, materiales y financieros que con motivo del presente Reglamento deban hacerse de una unidad administrativa a otra de la propia Secretaría, se sujetarán a las disposiciones aplicables, debiéndose respetar los derechos de los trabajadores.
+
+QUINTO. Para su mejor funcionamiento, las unidades administrativas u órganos deberán formular sus respectivos manuales de organización y en tanto no se expidan, en caso de duda sobre su interpretación, el Secretario resolverá lo conducente.
