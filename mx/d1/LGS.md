@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2012-05-28"
+last_updated: "2012-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2012.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 9 DE JULIO DE 1996.
 
@@ -590,7 +590,9 @@ IV. Evaluar, expedir o revocar las autorizaciones que en las materias de su comp
 
 V. Expedir certificados oficiales de condición sanitaria de procesos, productos, métodos, instalaciones, servicios o actividades relacionadas con las materias de su competencia;
 
-VI. Ejercer el control y vigilancia sanitarios de los productos señalados en la fracción II de este artículo, de las actividades relacionadas con los primeros, de su importación y exportación, así como de los establecimientos destinados al proceso de dichos productos y los establecimientos de salud;
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2012)</small>
+
+VI. Ejercer el control y vigilancia sanitarios de los productos señalados en la fracción II de este artículo, de las actividades relacionadas con los primeros, de su importación y exportación, así como de los establecimientos destinados al proceso de dichos productos y los establecimientos de salud, con independencia de las facultades que en materia de procesos y prácticas aplicables en los establecimientos dedicados al sacrificio de animales y procesamiento primario de bienes de origen animal para consumo humano, tenga la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación en términos de lo dispuesto por la Ley Federal de Sanidad Animal;
 
 VII. Ejercer el control y vigilancia sanitarios de la publicidad de las actividades, productos y servicios a los que se refiere esta Ley y sus reglamentos;
 
@@ -1064,6 +1066,8 @@ La acción popular podrá ejercitarse por cualquier persona, bastando para darle
 
 ### CAPITULO V. Atención Materno-Infantil
 
+> <small>(ADICIONADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2012)</small>
+
 ### CAPITULO VI. Servicios de Planificación Familiar
 
 > <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
@@ -1074,9 +1078,15 @@ La acción popular podrá ejercitarse por cualquier persona, bastando para darle
 
 ###### ARTICULO 61.
 
-La atención materno-infantil tiene carácter prioritario y comprende las siguientes acciones:
+El objeto del presente Capítulo es la protección materno-infantil y la promoción de la salud materna, que abarca el período que va del embarazo, parto, post-parto y puerperio, en razón de la condición de vulnerabilidad en que se encuentra la mujer y el producto.
 
-I.- La atención de la mujer durante el embarazo, el parto y el puerperio;
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. Y REUBICADO], D.O.F. 7 DE JUNIO DE 2012)</small>
+
+La atención materno-infantil tiene carácter prioritario y comprende, entre otras, las siguientes acciones:
+
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2012)</small>
+
+I.- La atención integral de la mujer durante el embarazo, el parto y el puerperio, incluyendo la atención psicológica que requiera;
 
 > <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2005)</small>
 
@@ -1091,6 +1101,10 @@ IV.- La detección temprana de la sordera y su tratamiento, en todos sus grados,
 > <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2005)</small>
 
 V.- Acciones para diagnosticar y ayudar a resolver el problema de salud visual y auditiva de los niños en las escuelas públicas y privadas.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2012)</small>
+
+ARTICULO 61 BIS.- Toda mujer embarazada, tiene derecho a obtener servicios de salud en los términos a que se refiere el Capítulo IV del Título Tercero de esta Ley y con estricto respeto de sus derechos humanos.
 
 ###### ARTICULO 62.
 
@@ -1108,9 +1122,13 @@ En la organización y operación de los servicios de salud destinados a la atenc
 
 I.- Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios;
 
-> <small>(REFORMADA, D.O.F. 31 DE MAYO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2012)</small>
 
-II.- Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil;
+II.- Acciones de orientación y vigilancia institucional, fomento para la lactancia materna, promoviendo que la leche materna sea alimento exclusivo durante los primeros seis meses de vida y complementario hasta avanzado el segundo año de vida y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil;
+
+> <small>(ADICIONADA, D.O.F. 7 DE JUNIO DE 2012)</small>
+
+II Bis.- Acciones de promoción para la creación de bancos de leche humana en los establecimientos de salud que cuenten con servicios neonatales;
 
 > <small>(REFORMADA, D.O.F. 31 DE MAYO DE 2009)</small>
 
@@ -1119,6 +1137,10 @@ III.- Acciones para controlar las enfermedades prevenibles por vacunación, los 
 > <small>(ADICIONADA, D.O.F. 31 DE MAYO DE 2009)</small>
 
 IV.- Acciones de capacitación para fortalecer la competencia técnica de las parteras tradicionales, para la atención del embarazo, parto y puerperio.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2012)</small>
+
+ARTICULO 64 BIS.- La Secretaría de Salud impulsará la participación de los sectores social y privado, así como de la sociedad en general, para el fortalecimiento de los servicios de salud en materia de atención materno-infantil. Para tal efecto, promoverá la creación de Redes de Apoyo a la Salud Materno-Infantil, tanto en el ámbito federal, como en las entidades federativas, con la finalidad de facilitar el acceso a las mujeres embarazadas a información relativa a la prestación de servicios de atención médica en esta materia, y en su caso, brindarles apoyo para el acceso a ellos.
 
 ###### ARTICULO 65.
 
@@ -2964,7 +2986,7 @@ V.- Respetar la decisión del enfermo en situación terminal en cuanto al tratam
 
 VI.- Garantizar que se brinden los cuidados básicos o tratamiento al paciente en todo momento;
 
-VII.- Procurar las medidas mínimas necesaria para preservar la calidad de vida de los enfermos en situación terminal;
+VII.- Procurar las medidas mínimas necesaria (sic) para preservar la calidad de vida de los enfermos en situación terminal;
 
 VIII.- Respetar y aplicar todas y cada una de las medidas y procedimientos para los casos que señala esta ley;
 
@@ -3406,6 +3428,10 @@ La Secretaría de Salud mantendrá permanentemente actualizada la Farmacopea de 
 
 Para los efectos de esta Ley, se entiende por proceso el conjunto de actividades relativas a la obtención, elaboración, fabricación, preparación, conservación, mezclado, acondicionamiento, envasado, manipulación, transporte, distribución, almacenamiento y expendio o suministro al público de los productos a que se refiere el artículo 194 de esta Ley.
 
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2012)</small>
+
+La Secretaría ejercerá las facultades relacionadas con el conjunto de actividades que en el ejercicio de su desempeño desarrollan los establecimientos dedicados al sacrificio de animales y procesamiento de bienes de origen animal para consumo humano, sin perjuicio de las atribuciones que correspondan a la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación conforme a lo dispuesto por la Ley Federal de Sanidad Animal.
+
 > <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 198.
@@ -3604,7 +3630,7 @@ II.- Bebida no alcohólica: cualquier líquido, natural o transformado, que prop
 
 > <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
 
-III.- Materia prima: Substancia o producto, de cualquier origen, que se use en la elaboración de alimentos y bebidas no alcohólicas y alcohólicas, y
+III.- Materia prima: Substancia o producto, de cualquier origen, que se use en la elaboración de alimentos y bebidas no alcohólicas y alcohólicas, y (sic)
 
 > <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -7787,3 +7813,25 @@ D.O.F. 28 DE MAYO DE 2012.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- La Secretaría de Salud contará con un año, a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, para emitir la normatividad secundaria correspondiente.
+
+D.O.F. 7 DE JUNIO DE 2012.
+
+DECRETO POR EL QUE SE REFORMA LA FRACCIÓN VI AL ARTÍCULO 17 BIS Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 197 DE LA LEY GENERAL DE SALUD.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de la publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Secretaría expedirá las disposiciones que deberán contener los lineamientos y requisitos para la certificación de los establecimientos donde se sacrifican animales, o procesan, envasan, empacan, refrigeran o industrializan bienes de origen animal, en seis meses a partir de la entrada en vigor del presente decreto.
+
+TERCERO.- La Secretaría difundirá en los medios impresos y electrónicos, la participación de los municipios y gobiernos de los estados y del Distrito Federal, en los programas de certificación.
+
+CUARTO.- Las legislaturas de los estados deberán adecuar en su legislación correspondiente las reformas contenidas en el presente decreto, para fomentar la certificación por parte de la secretaría de los establecimientos dedicados al sacrificio de animales o que procesan, envasan, empacan, refrigeran o industrializan bienes de origen animal de competencia municipal.
+
+QUINTO.- Las acciones que, en su caso, deban realizar las dependencias y entidades de la Administración Pública Federal para dar cumplimiento al presente Decreto, deberán cubrirse en función de los ingresos disponibles conforme a la Ley de Ingresos de la Federación, y sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+SEXTO.- Para la debida instauración del presente Decreto, el Ejecutivo Federal instruirá a las Secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, y de Salud, a efecto de que en un plazo no mayor a 90 días, suscriban las bases de coordinación que determinarán el ejercicio de las atribuciones que, en materia de inspección y vigilancia de la calidad, sanidad e inocuidad de los productos procesados en rastros y en establecimientos dedicados al procesamiento de los productos derivados del sacrificio, les confieren la Ley Federal de Sanidad Animal, la Ley General de Salud y las demás disposiciones aplicables.
+
+D.O.F. 7 DE JUNIO DE 2012.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 61 Y 64, SE ADICIONAN LOS ARTÍCULOS 61 BIS Y 64 BIS DE LA LEY GENERAL DE SALUD.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
