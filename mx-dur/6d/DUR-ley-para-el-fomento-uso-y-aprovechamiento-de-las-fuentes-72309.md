@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-el-fomento-uso-y-aprovechamiento-de-las-fuentes-72309"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-03"
-last_updated: "2010-01-03"
+last_updated: "2012-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY PARA EL FOMENTO, USO Y APROVECHAMIENTO DE LAS FUENTES RENOVABLES DE ENERGIA DEL ESTADO DE DURANGO Y SUS MUNICIPIOS
 
-LEY PARA EL FOMENTO, USO Y APROVECHAMIENTO DE LAS FUENTES RENOVABLES DE ENERGIA DEL ESTADO DE DURANGO Y SUS MUNICIPIOS
+LEY PARA EL FOMENTO, USO Y APROVECHAMIENTO DE LAS FUENTES RENOVABLES DE ENERGÍA DEL ESTADO DE DURANGO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 3 de enero de 2010.
 
@@ -45,9 +45,11 @@ LEY PARA EL FOMENTO, USO Y APROVECHAMIENTO DE LAS FUENTES RENOVABLES DE ENERGÍA
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2012)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés general y tiene por objeto establecer las bases generales para fomentar el uso racional de energía y promover el aprovechamiento, el desarrollo y la inversión de las energías renovables mediante su uso óptimo en todos los procesos y actividades, desde la explotación hasta el consumo en el Estado de Durango y sus Municipios.
+La presente Ley es de orden público e interés general, y tiene por objeto establecer las bases generales para fomentar la sustentabilidad energética y promover el aprovechamiento, el desarrollo, y la inversión de las energías renovables, mediante su uso óptimo en todos los procesos y actividades, desde la explotación hasta el consumo, con el fin de ser un instrumento para la competitividad, la mejora de la calidad de la vida, la protección y la preservación del ambiente, así como el desarrollo humano sustentable en el Estado de Durango y sus Municipios.
 
 ###### Artículo 2.
 
@@ -97,9 +99,13 @@ X. Tecnologías limpias: Aquéllas que al ser aplicadas no producen efectos secu
 
 XI. Ejecutivo Estatal: El Gobernador Constitucional del Estado de Durango, y
 
-XII. Uso racional de energía: Son las acciones, estrategias y hábitos encaminados al consumo eficiente de energía en todas sus formas y manifestaciones. Utilizando la energía de tal manera que se obtenga la mayor eficiencia energética, dentro del marco del desarrollo sostenible y respetando la normatividad vigente sobre medio ambiente y los recursos naturales renovables.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
 
-### CAPÍTULO SEGUNDO. ATRIBUCIONES DEL EJECUTIVO ESTATAL EN MATERIA DEL FOMENTO Y USO DE LAS ENERGÍAS RENOVABLES
+XII. Sustentabilidad Energética: El uso óptimo de la energía en todos los procesos y actividades para su explotación, producción, transformación, distribución y consumo, incluyendo la eficiencia energética.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2012)</small>
+
+### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES DEL EJECUTIVO ESTATAL Y DE LOS AYUNTAMIENTOS EN MATERIA DEL FOMENTO Y USO DE LAS FUENTES RENOVABLES DE ENERGÍA
 
 ###### Artículo 4.
 
@@ -167,11 +173,161 @@ El Titular del Ejecutivo podrá delegar sus atribuciones mediante la creación d
 
 Conjuntamente con la Comisión Intersecretarial para el Desarrollo de Energías Renovables, se crea el Consejo Consultivo, integrado con miembros de la sociedad, que serán vínculo y unidad de enlace entre ésta y los demás órganos o dependencias con las que deba coordinarse, cooperar y tratar, para llevar a cabo su función.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2012)</small>
+
 ###### Artículo 10.
 
-La Comisión Intersecretarial para el Desarrollo de Energías Renovables, es un órgano de consulta, coordinación, asesoría y opinión en la materia, que tiene por objeto, el ahorro y uso eficiente de la energía, así como el fomento y aprovechamiento de las fuentes renovables de energía en el Estado. El objeto principal de la Comisión, será el de fomentar el uso y aprovechamiento de las energías renovables del Estado de Durango, teniendo siempre como prioridad y enfoque, aquélla o aquéllas energías renovables que por la situación geográfica de la entidad, sea más factible explotar, producir y aprovechar.
+Corresponde a la Secretaría de Desarrollo Económico llevar a cabo las siguientes acciones:
+
+I. Elaborar programas de impulso al desarrollo de los sectores productivos, relacionados con la sustentabilidad energética y la aplicación de fuentes renovables de energía;
+
+II. Fomentar proyectos encaminados a la aplicación de la energía renovable y la eficiencia energética, en los sectores productivos;
+
+III. Elaborar un catálogo con las principales empresas relacionadas con el mercado de las fuentes renovables de energía y la sustentabilidad energética, con el propósito de promover la oferta de productos y servicios en esta materia, y
+
+IV. Las demás que sean necesarias para el cumplimiento del objeto de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2012)</small>
 
 ###### Artículo 11.
+
+Corresponde a la Secretaría de Desarrollo Social, llevar a cabo las siguientes acciones:
+
+I. Elaborar planes y programas que tengan por objeto que, en el diseño de centros de población, se consideren el uso de las fuentes renovables de energía y la sustentabilidad energética;
+
+II. Promover la aplicación de fuentes renovables de energía y eficiencia energética en la prestación de servicios públicos;
+
+III. Instrumentar programas encaminados a la aplicación de fuentes renovables de energía y su uso eficiente en comunidades rurales y espacios públicos, y
+
+IV. Las demás que sean necesarias para el cumplimiento del objeto de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2012)</small>
+
+###### Artículo 12.
+
+Corresponde a la Secretaría de Educación Pública llevar a cabo las siguientes acciones:
+
+I. Elaborar programas para el desarrollo tecnológico e innovación en el aprovechamiento de las fuentes renovables de energía y el uso sustentable de la energía;
+
+II. Impulsar la realización de investigación científica y tecnológica relacionada con la aplicación de fuentes renovables de energía y su uso eficiente;
+
+III. Fomentar la formación de recursos humanos relacionados con la aplicación de fuentes renovables de energía y su uso eficiente;
+
+IV. Promover en las instituciones educativas estudios relativos a la sustentabilidad energética y al aprovechamiento de las fuentes renovables de energía, y
+
+V. Las demás que sean necesarias para el cumplimiento del objeto de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2012)</small>
+
+###### Artículo 13.
+
+Corresponde a la Secretaría de Recursos Naturales y Medio Ambiente del Estado llevar a cabo las siguientes acciones:
+
+I. Expedir disposiciones administrativas necesarias para mitigar emisiones contaminantes y sus efectos nocivos en el ambiente, mediante la utilización de fuentes renovables de energía y la sustentabilidad energética;
+
+II. Diseñar programas para la utilización de las fuentes renovables de energía para disminuir el nivel de contaminación en los centros de población;
+
+III. Cuantificar la disminución de efectos contaminantes mediante la aplicación de las fuentes renovables de energía y la sustentabilidad energética, y
+
+IV. Las demás que sean necesarias para el cumplimiento del objeto de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2012)</small>
+
+###### Artículo 14.
+
+Corresponde a la Comisión Estatal de Suelo y Vivienda de Durango, en materia de ecotécnicas y de ingeniería ambiental aplicada a la vivienda, considerar los siguientes lineamientos:
+
+I. El aprovechamiento de la energía solar en calentadores de agua y en la generación de energía eléctrica;
+
+II. La aplicación de sistemas para racionalizar el uso y el reciclaje de agua, así como de desechos orgánicos e inorgánicos;
+
+III. Las condiciones acústicas y de radiación solar en todas sus variantes, iluminación y ventilación natural del entorno, ganancia térmica, protección solar y del viento en el diseño arquitectónico;
+
+IV. La aplicación de las normas oficiales relacionadas con la eficiencia energética y demás disposiciones aplicables, y
+
+V. La utilización de material reciclado para la construcción.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2012)</small>
+
+###### Artículo 15.
+
+Corresponde a la Secretaria de Agricultura, Ganadería y Desarrollo Rural llevar a cabo las siguientes acciones:
+
+I. Elaborar programas de impulso a la actividad agropecuaria, relacionados con la sustentabilidad energética y la aplicación de fuentes renovables de energía;
+
+II. Orientar recursos públicos destinados a financiar el desarrollo rural hacia proyectos de inversión productiva que tengan por objeto la sustitución de infraestructura en maquinaria y equipos que utilicen energía de origen fósil por energía procedente (sic) fuentes renovables;
+
+III. Formar recurso humano de asesoría a los productores agropecuarios especializados en el uso y aprovechamiento de fuentes de energía renovables;
+
+IV. Incorporar en los centros de experimentación agropecuaria de la Dependencia, con fines demostrativos y de promoción, el uso de infraestructura de equipo y maquinaria accionada con energía procedente de fuentes renovables, y
+
+V. Las demás que sean necesarias para el cumplimiento del objeto de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2012)</small>
+
+###### Artículo 16.
+
+Corresponde al Consejo de Ciencia y Tecnología del Estado de Durango:
+
+I. Impartir e impulsar en la educación técnica medio superior, y en las modalidades de bachillerato que imparte; estudios que desarrollen temas en la presente materia;
+
+II. Brindar apoyo cuando así se lo soliciten, respecto de estudios e investigaciones en la materia;
+
+III. Realizar estudios e investigación sobre, el aprovechamiento de la energía solar en calentadores de agua, en la generación de energía eléctrica, la aplicación de sistemas para racionalizar el uso y el reciclaje de agua, así como de desechos orgánicos e inorgánicos, las condiciones acústicas y de radiación solar en todas sus variantes, iluminación y ventilación natural del entorno, ganancia térmica, protección solar y del viento en el diseño arquitectónico y la utilización de material reciclado para la construcción, cuando a si le sea posible y dentro de las posibilidades académicas con que cuente, y
+
+IV. Las demás que le otorgue la presente Ley, demás disposiciones legales aplicables y aquellas que le solicita la Comisión.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2012)</small>
+
+###### Artículo 17.
+
+Corresponde a los Ayuntamientos:
+
+I. Establecer programas que promuevan la realización de actividades que tengan por objeto el fomento de las fuentes renovables de energía, así como la sustentabilidad energética, de acuerdo con los planes de desarrollo municipal;
+
+II. Fomentar la realización de actividades de divulgación, difusión, promoción y concientización de las tecnologías de energías alternativas;
+
+III. Celebrar convenios para el cumplimiento de la presente Ley;
+
+IV. Implementar mecanismos de aprovechamiento de fuentes renovables de energía y sustentabilidad energética, particularmente en la prestación de los servicios públicos municipales;
+
+V. Instrumentar programas encaminados a la aplicación de fuentes renovables de energía y su uso eficiente en comunidades rurales y espacios públicos, y
+
+VI. Las demás que le otorgue la presente Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2012)</small>
+
+###### Artículo 18.
+
+Los Ayuntamientos, en materia de uso de suelo y construcción, promoverán:
+
+I. Facilitar el acceso a aquellas zonas con alto potencial de fuentes renovables de energía y promover la compatibilidad del uso de suelo para tales fines;
+
+II. Establecer regulaciones de uso de suelo y construcción, considerando los intereses de propietarios o poseedores de terrenos para el aprovechamiento de fuentes renovables de energía;
+
+III. Simplificar los procedimientos administrativos para la obtención de permisos y licencias, para los proyectos de aprovechamiento de fuentes renovables de energía, y
+
+IV. Las demás que sean necesarias para el cumplimiento de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2012)</small>
+
+###### Artículo 19.
+
+Los Ayuntamientos deberán abstenerse de emitir permisos, licencias de obras de construcción, ampliación o uso de terrenos próximos que perjudiquen el acceso a la fuente renovable de energía, o que disminuya la calidad o continuidad del recurso objeto del aprovechamiento.
+
+### CAPÍTULO TERCERO. DE LA COMISIÓN INTERSECRETARIAL PARA EL DESARROLLO DE ENERGÍAS RENOVABLES
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 10], P.O. 7 DE JUNIO DE 2012)</small>
+
+###### Artículo 20.
+
+El Gobernador del Estado constituirá la Comisión Intersecretarial para el Desarrollo de Energías Renovables, como un órgano de consulta, coordinación, asesoría y opinión en la materia, que tendrá por objeto, el ahorro y uso eficiente de la energía, así como el fomento y aprovechamiento de las fuentes renovables de energía en el Estado. El objeto principal de la Comisión, será el de fomentar el uso y aprovechamiento de las energías renovables del Estado de Durango, teniendo siempre como prioridad y enfoque, aquélla o aquéllas energías renovables que por la situación geográfica de la entidad, sea más factible explotar, producir y aprovechar.
+
+El Gobernador del Estado designará el Secretario que presidirá dicha Comisión intersecretarial, así mismo podrá asistir a las reuniones de la misma cuando así lo estime conveniente.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 11], P.O. 7 DE JUNIO DE 2012)</small>
+
+###### Artículo 21.
 
 Para el cumplimiento de su objeto, la Comisión tendrá las siguientes funciones:
 
@@ -193,7 +349,7 @@ VIII. Diseñar estrategias de financiamiento para la realización de proyectos p
 
 IX. Proponer la aplicación de energías renovables para ahorrar energía eléctrica del servicio público, en las actividades que desarrollen las dependencias y entidades de la Administración Pública Estatal;
 
-X. Coordinar la investigación, el desarrollo y la innovación tecnológica para el ahorro y uso eficiente de la energía y el aprovechamiento de las energías renovables;
+X. Promover la creación del Centro de Investigación y Desarrollo Tecnológico en Energías Renovables del Estado de Durango, a través del cual promoverá proyectos de innovación para el ahorro y uso eficiente de la energía y el aprovechamiento de las energías renovables;
 
 XI. Aprobar el Reglamento Interior de la Comisión que presente el Secretario Técnico;
 
@@ -203,67 +359,93 @@ XIII. Integrar grupos de trabajo para la atención de asuntos específicos de la
 
 XIV. Asesorar y capacitar, cuando así lo soliciten, a municipios y a instituciones del sector público o privado en materia de ahorro y uso eficiente de la energía;
 
-XV. Crear el Sistema de Información Estatal en materia de energías renovables, y
+XV. Crear el Sistema de Información Estatal en materia de energías renovables,
 
-XVI. Las demás que le confiera la presente Ley y demás ordenamientos jurídicos aplicables.
+XVI. Instrumentar programas institucionales para construir la cultura del uso sustentable de los recursos naturales y el aprovechamiento de las fuentes renovables de energía;
 
-###### Artículo 12.
+XVII. Suscribir convenios en la materia, para el fortalecimiento en la investigación, la vinculación y en general todo aquello que sea necesario para el cumplimiento de sus objetivos, mismos que serán firmados por el Secretario que presida la Comisión, y
+
+XVII (SIC). Las demás que le confiera la presente Ley y demás ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 12], P.O. 7 DE JUNIO DE 2012)</small>
+
+###### Artículo 22.
 
 La Comisión estará integrada por:
 
-El Gobernador Constitucional del Estado de Durango, quien la presidirá;
+I. El Secretario de Recursos Naturales y Medio Ambiente;
 
-El Secretario de Recursos Naturales y Medio ambiente, quien fungirá como Vicepresidente de la Comisión;
+II. El Secretario de Desarrollo Económico;
 
-El Secretario de Desarrollo Económico;
+III. El Secretario de Educación Pública;
 
-El Secretario de Educación Pública;
+IV. El Secretario de Desarrollo Social;
 
-El Secretario de Desarrollo Social;
+V. El Secretario de Agricultura, Ganadería y Desarrollo Rural;
 
-El Secretario de Agricultura, Ganadería y Desarrollo Rural; y
+VI. El Director General de la Comisión Estatal de Suelo y Vivienda de Durango;
 
-El Coordinador General de “Transformadora Durango”, Promotora de Proyectos Estratégicos, quien fungirá como Secretario Técnico de la Comisión.
+VII. El Director General del Consejo de Ciencia y Tecnología del Estado de Durango, y
 
-Para los casos de ausencia, por cada titular, se nombrará un suplente.
+VIII. Un Subsecretario designado por el Secretario de Desarrollo Económico, quien fungirá como Secretario Técnico de la Comisión.
 
-###### Artículo 13.
+Para los casos de ausencia, cada titular, nombrará un suplente.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 13], P.O. 7 DE JUNIO DE 2012)
+
+###### Artículo 23.
 
 Los cargos de los integrantes de la Comisión serán honoríficos, por lo que no se percibirá retribución, emolumento o compensación alguna por su desempeño.
 
-###### Artículo 14.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 14], P.O. 7 DE JUNIO DE 2012)
+
+###### Artículo 24.
 
 El Presidente de la Comisión podrá invitar a participar en las sesiones a los investigadores o científicos de reconocida trayectoria o que pertenezcan a algún centro de investigación en materia de energía, así como a los organismos sociales y a las autoridades y servidores públicos federales, estatales y municipales, que derivado de las funciones que desempeñen, puedan aportar sus conocimientos y experiencias en materia de ahorro y uso eficiente de energía y aprovechamiento de energías renovables.
 
-###### Artículo 15.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 15], P.O. 7 DE JUNIO DE 2012)
+
+###### Artículo 25.
 
 La Comisión sesionará de manera ordinaria de manera trimestral y en forma extraordinaria las veces que sea necesario, cuando así lo solicite el Presidente de la Comisión o lo solicite por escrito un número no menor del diez por ciento de los integrantes de la misma.
 
-###### Artículo 16.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 16], P.O. 7 DE JUNIO DE 2012)
+
+###### Artículo 26.
 
 Las sesiones a que se refiere el artículo anterior, serán válidas cuando asistan la mayoría de sus miembros y serán presididas por el Presidente de la Comisión, y en su ausencia, por su suplente. Los acuerdos deberán ser aprobados por mayoría de votos de los miembros presente en la sesión respectiva, contando el Presidente o quien presida la sesión, con voto de calidad en caso de empate.
 
-###### Artículo 17.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 17], P.O. 7 DE JUNIO DE 2012)
+
+###### Artículo 27.
 
 De cada sesión se levantará acta circunstanciada, en donde deberán señalarse los acuerdos y decisiones tomadas al interior, llevándose un libro de sesiones ordinarias y otro de sesiones extraordinarias, con el propósito de tener una bitácora que sirva de comprobación de las acciones emprendidas por la Comisión.
 
 Los acuerdos, dictámenes y decisiones que emita la Comisión, deberán suscribirse en forma conjunta por los servidores públicos que la integran, o bien, por sus suplentes, en caso de ausencia.
 
-###### Artículo 18.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 18], P.O. 7 DE JUNIO DE 2012)
+
+###### Artículo 28.
 
 Para el logro de sus funciones, la Comisión podrá integrarse y coordinarse con los diversos organismos de naturaleza pública y privada que en materia de energías renovables, existen a nivel nacional, internacional, local y regional.
 
-###### Artículo 19.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 19], P.O. 7 DE JUNIO DE 2012)
+
+###### Artículo 29.
 
 La Comisión tendrá su domicilio en la Ciudad de Durango, Dgo.
 
-### CAPÍTULO TERCERO. DE LA COMISIÓN INTERSECRETARIAL PARA EL DESARROLLO DE ENERGÍAS RENOVABLES
+(REUBICADO [N. DE E. ANTES ARTÍCULO 20], P.O. 7 DE JUNIO DE 2012)
 
-###### Artículo 20.
+###### Artículo 30.
 
 Todo lo no previsto en esta Ley en cuanto a la organización, estructura y funcionamiento de la Comisión, se determinará en su Reglamento Interior.
 
-###### Artículo 21.
+### CAPÍTULO CUARTO. DEL CONSEJO CONSULTIVO ESTATAL
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 21], P.O. 7 DE JUNIO DE 2012)
+
+###### Artículo 31.
 
 La Comisión, para el ejercicio de sus funciones, podrá apoyarse en un Consejo Consultivo, que fungirá como órgano de consulta ciudadana en materia de aprovechamiento, uso y fomento de las energías renovables. Fomentará la participación ciudadana y se integrará por representantes de los siguientes sectores de la sociedad, quienes en su número y calidad dentro del Consejo, se determinarán en el Reglamento Interior de la Comisión y del propio Consejo:
 
@@ -281,7 +463,9 @@ VI. Ciudadanos con conocimiento en la materia.
 
 Los miembros del Consejo acudirán a las sesiones de la Comisión, a consideración y previa convocatoria del Vicepresidente de la misma.
 
-###### Artículo 22.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 22], P.O. 7 DE JUNIO DE 2012)
+
+###### Artículo 32.
 
 El Consejo tendrá las siguientes atribuciones:
 
@@ -301,11 +485,15 @@ VII. Elaborar, publicar y difundir, con la autorización de la Comisión, materi
 
 VIII. Las demás que determine esta ley y demás disposiciones aplicables.
 
-###### Artículo 23.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 23], P.O. 7 DE JUNIO DE 2012)
+
+###### Artículo 33.
 
 El Consejo tendrá su domicilio en la Ciudad de Durango, Dgo. El cargo de miembro del Consejo será honorífico, por lo que sus miembros no recibirán retribución alguna por el ejercicio de sus funciones.
 
-###### Artículo 24.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 24], P.O. 7 DE JUNIO DE 2012)
+
+###### Artículo 34.
 
 El Consejo celebrará sesiones ordinarias de manera trimestral, y extraordinarias, en cualquier tiempo que se requiera.
 
@@ -325,19 +513,29 @@ VI. Recabar las firmas en las actas correspondientes de los integrantes del Cons
 
 VII. Las demás que establezca esta Ley y demás disposiciones aplicables.
 
-###### Artículo 25.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 25], P.O. 7 DE JUNIO DE 2012)
+
+###### Artículo 35.
 
 Las sesiones del Consejo serán válidas cuando el quórum se integre con la mitad más uno de sus miembros.
 
-###### Artículo 26.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 26], P.O. 7 DE JUNIO DE 2012)
+
+###### Artículo 36.
 
 Los acuerdos del Consejo se tomarán por mayoría de votos de los miembros presentes. En caso de empate, el Secretario tendrá voto de calidad.
 
-###### Artículo 27.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 27], P.O. 7 DE JUNIO DE 2012)
+
+###### Artículo 37.
 
 Todo lo no previsto en cuanto a la organización, estructura y funcionamiento del Consejo Consultivo, se determinará en el Reglamento Interior de la Comisión.
 
-###### Artículo 28.
+### CAPÍTULO QUINTO. DE LOS TIPOS DE ENERGÍA, SU APLICACIÓN, APROVECHAMIENTO Y FOMENTO
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 28], P.O. 7 DE JUNIO DE 2012)
+
+###### Artículo 38.
 
 Con el objeto de promover el uso de las fuentes de energía renovables, el titular del Ejecutivo y los municipios, en el ámbito de sus atribuciones y competencia, llevarán a cabo las siguientes acciones:
 
@@ -371,11 +569,17 @@ IX. Promover planes y programas coordinados con las entidades públicas y privad
 
 X. Coadyuvar en la creación de una educación y cultura ambiental, en torno al uso y aprovechamiento de fuentes de energía renovables.
 
-###### Artículo 29.
+### CAPÍTULO SEXTO. DE LAS POLÍTICAS PARA EL DESARROLLO DE ENERGÍAS RENOVABLES
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 29], P.O. 7 DE JUNIO DE 2012)
+
+###### Artículo 39.
 
 Las políticas para el desarrollo de las energías renovables, deberán determinarse en el Plan Estatal de Desarrollo, buscando la concordancia en sus objetivos y metas para su continuidad y ejecución.
 
-###### Artículo 30.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 30], P.O. 7 DE JUNIO DE 2012)
+
+###### Artículo 40.
 
 Los mencionados objetivos y metas en la materia, se refieren a:
 
@@ -395,17 +599,21 @@ VII. Promover la investigación y el desarrollo tecnológico en materia de uso y
 
 VIII. Los demás que determine el Titular del Ejecutivo.
 
-### CAPÍTULO CUARTO. DEL CONSEJO CONSULTIVO ESTATAL
+(REUBICADO [N. DE E. ANTES ARTÍCULO 31], P.O. 7 DE JUNIO DE 2012)
 
-###### Artículo 31.
+###### Artículo 41.
 
 La Comisión, descrita en el artículo 8 de esta Ley, podrá solicitar el apoyo y asesoría técnica del Consejo Estatal de Ciencia y Tecnología, y/o de cualquier otra institución o dependencia, para diseñar y difundir tecnología basada en el uso de energías renovables, así como para impulsar los programas y proyectos que se elaboren en la materia.
 
-###### Artículo 32.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 32], P.O. 7 DE JUNIO DE 2012)
+
+###### Artículo 42.
 
 Las Políticas para el Desarrollo de las Energías Renovables, deberán incluirse en el Programa Estatal de Ahorro de Energía y del Uso y Aprovechamiento de Energías Renovables, mismo que deberá publicarse en el Periódico Oficial del Gobierno Constitucional del Estado, así como en los medios remotos de comunicación con que cuente la Comisión, prevista en el artículo 8 de esta Ley.
 
-###### Artículo 33.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 33], P.O. 7 DE JUNIO DE 2012)
+
+###### Artículo 43.
 
 Dentro de las políticas que por parte del Ejecutivo Estatal se implementaran, están las de celebrar convenios con los municipios y con los institutos encargados de la construcción de viviendas, a fin de que a través de sus bandos y reglamentos, se fraccionen y construyan nuevos asentamientos humanos que cuenten con la infraestructura necesaria para el uso y aprovechamiento de energías renovables.
 
@@ -453,6 +661,14 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
 
-### CAPÍTULO QUINTO. DE LOS TIPOS DE ENERGÍA, SU APLICACIÓN, APROVECHAMIENTO Y FOMENTO
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-### CAPÍTULO SEXTO. DE LAS POLÍTICAS PARA EL DESARROLLO DE ENERGÍAS RENOVABLES
+P.O. 7 DE JUNIO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial del gobierno del estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Comisión Intersecretarial para el Desarrollo de Energías Renovables se instalará en el término de treinta días hábiles, contados a partir de la publicación del presente decreto.
