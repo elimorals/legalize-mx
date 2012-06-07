@@ -4,7 +4,7 @@ identifier: "LFSA"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2007-07-25"
-last_updated: "2007-07-25"
+last_updated: "2012-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56136&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFSA"
 
 LEY FEDERAL DE SANIDAD ANIMAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 25 de julio de 2007.
 
@@ -48,25 +48,41 @@ LEY FEDERAL DE SANIDAD ANIMAL
 
 ### Capítulo I Del Objeto de la Ley
 
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2012)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de observancia general en todo el territorio nacional y tiene por objeto fijar las bases para: el diagnóstico, prevención, control y erradicación de las enfermedades y plagas que afectan a los animales; procurar el bienestar animal; regular las buenas prácticas pecuarias aplicables en la producción primaria y establecimientos Tipo Inspección Federal dedicados al sacrificio de animales y procesamiento de bienes de origen animal para consumo humano, esto último coordinadamente con la Secretaría de Salud de acuerdo al ámbito de competencia de cada Secretaría; regular los establecimientos, productos y el desarrollo de actividades de sanidad animal y prestación de servicios veterinarios; regular los productos químicos, farmacéuticos, biológicos y alimenticios para uso en animales o consumo por éstos. Sus disposiciones son de orden público e interés social.
+La presente Ley es de observancia general en todo el territorio nacional y tiene por objeto fijar las bases para: el diagnóstico, prevención, control y erradicación de las enfermedades y plagas que afectan a los animales; procurar el bienestar animal; regular las buenas prácticas pecuarias aplicables en la producción primaria, en los establecimientos dedicados al procesamiento de bienes de origen animal para consumo humano, tales como rastros y unidades de sacrificio y en los establecimientos Tipo Inspección Federal; fomentar la certificación en establecimientos dedicados al sacrificio de animales y procesamiento de bienes de origen animal para consumo humano, coordinadamente con la Secretaría de Salud de acuerdo al ámbito de competencia de cada secretaría; regular los establecimientos, productos y el desarrollo de actividades de sanidad animal y prestación de servicios veterinarios; regular los productos químicos, farmacéuticos, biológicos y alimenticios para uso en animales o consumo por éstos. Sus disposiciones son de orden público e interés social.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2012)</small>
 
 ###### Artículo 2.
 
-Las actividades de sanidad animal tienen como finalidad: diagnosticar y prevenir la introducción, permanencia y diseminación de enfermedades y plagas que afecten la salud o la vida de los animales; procurar el bienestar animal; así como establecer las buenas prácticas pecuarias en la producción primaria y en los establecimientos Tipo Inspección Federal dedicados al sacrificio de animales y procesamiento de los bienes de origen animal para consumo humano.
+Las actividades de sanidad animal tienen como finalidad: diagnosticar y prevenir la introducción, permanencia y diseminación de enfermedades y plagas que afecten la salud o la vida de los animales; procurar el bienestar animal; así como establecer las buenas prácticas pecuarias en la producción primaria y en los establecimientos Tipo Inspección Federal dedicados al sacrificio de animales y procesamiento de los bienes de origen animal para consumo humano; así como en los rastros, en las unidades de sacrificio y en los demás establecimientos dedicados al procesamiento de origen animal para consumo humano.
 
 La regulación, verificación, inspección y certificación del procesamiento de bienes de origen animal para consumo humano en establecimientos Tipo Inspección Federal se deberán llevar a cabo respecto a la atención de riesgos sanitarios por parte de la Secretaría, de conformidad con lo que establezca la Secretaría de Salud.
 
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2012)</small>
+
+La inspección, verificación y supervisión del debido cumplimiento de las disposiciones aplicables en establecimientos, dedicados al sacrificio de animales y procesamiento de bienes de origen animal de competencia municipal, estatal o del Distrito Federal, se realizará a través de la Secretaría o la Secretaría de Salud, de acuerdo a su ámbito de competencia.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2012)</small>
+
+La certificación de establecimientos, dedicados al sacrificio de animales y procesamiento de bienes de origen animal de competencia municipal, estatal o del Distrito Federal, se realizará a través de la Secretaría, a petición de los ayuntamientos, de los gobiernos del (sic) los estados y del gobierno del Distrito Federal, de conformidad con lo dispuesto en el artículo 108 de la presente ley.
+
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2012)</small>
+
 ###### Artículo 3.
 
-La Secretaría es la autoridad responsable de tutelar la sanidad y el bienestar animal, así como de las buenas prácticas pecuarias en la producción primaria; y establecimientos Tipo Inspección Federal dedicados al sacrificio de animales y procesamiento de bienes de origen animal.
+La Secretaría es la autoridad responsable de tutelar la sanidad y el bienestar animal, así como de las buenas prácticas pecuarias en la producción primaria; y establecimientos Tipo Inspección Federal, y en los demás establecimientos dedicados al sacrificio de animales y procesamiento de bienes de origen animal.
 
 ### Capítulo II Definiciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2012)</small>
+
 ###### Artículo 4.
 
-Para los efectos de la Ley se entiende por:
+Para los efectos de la ley se entiende por:
 
 Acreditación: El acto por el cual una entidad de acreditación reconoce la competencia técnica y confiabilidad de los organismos de certificación, de los laboratorios de prueba, de los laboratorios de calibración y de las unidades de verificación para la evaluación de la conformidad;
 
@@ -78,11 +94,17 @@ Aditivo: Todo ingrediente sustancia o mezcla de éstas que normalmente no se con
 
 Agentes involucrados: Las dependencias del sector oficial o las personas físicas o morales del sector privado que integran la cadena de valor de los bienes de origen animal;
 
-Análisis de riesgo: La evaluación de la probabilidad de entrada, establecimiento y difusión de enfermedades o plagas de los animales en el territorio nacional o en una zona del país, de conformidad con las medidas zoosanitarias que pudieran aplicarse, así como las posibles consecuencias biológicas, económicas y ambientales. Incluye la evaluación de los posibles efectos perjudiciales para la sanidad animal provenientes de aditivos, productos para uso o consumo animal, contaminantes físicos, químicos y biológicos, toxinas u organismos patógenos en bienes de origen animal, bebidas y forrajes, el manejo o gestión y su comunicación a los agentes involucrados directa e indirectamente;
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2007)</small>
 
-Análisis de Peligros y Control de Puntos Críticos: Sistema de reducción de riesgos de contaminación que se aplica en la producción primaria y en los establecimientos Tipo Inspección Federal dedicados al sacrificio de animales y procesamiento de bienes de origen animal, que permite identificar y prevenir peligros y riesgos de contaminación de tipo biológico, químico o físico; que pueden afectar la integridad de los bienes de origen animal;
+Análisis de Riesgo: La evaluación de la probabilidad de entrada, establecimiento y difusión de enfermedades o plagas de los animales en el territorio nacional o en una zona del país, de conformidad con las medidas zoosanitarias que pudieran aplicarse, así como las posibles consecuencias biológicas, económicas y ambientales. Incluye la evaluación de los posibles efectos perjudiciales para la sanidad animal provenientes de aditivos, productos para uso o consumo animal, contaminantes físicos, químicos y biológicos, toxinas u organismos patógenos en bienes de origen animal, bebidas y forrajes, el manejo o gestión y su comunicación a los agentes involucrados directa e indirectamente;
 
-Animales vivos: Todas las especies de animales vivos con excepción de las provenientes del medio acuático ya sea marítimo, fluvial, lacustre o de cualquier cuerpo de agua natural o artificial;
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2012)</small>
+
+Análisis de peligros y control de puntos críticos: Sistema de reducción de riesgos de contaminación que se aplica en la producción primaria, en los establecimientos tipo inspección federal dedicados al sacrifico de animales y procesamiento de bienes de origen animal y demás establecimientos dedicados al procesamiento de bienes de origen animal para consumo humano que permite identificar y prevenir peligros y riesgos de contaminación de tipo biológico, químico o físico; que pueden afectar la integridad de los bienes de origen animal y/o a la salud humana;
+
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2012)</small>
+
+Animales Vivos: Todas las especies de animales vivos con excepción de las provenientes del medio acuático ya sea marítimo, fluvial, lacustre o de cualquier cuerpo de agua natural o artificial;
 
 Aprobación: El acto mediante el cual la Secretaría aprueba a organismos de certificación, unidades de verificación y laboratorios de pruebas acreditados en términos de la Ley Federal sobre Metrología y Normalización para llevar a cabo actividades de evaluación de la conformidad en las normas oficiales mexicanas expedidas en las materias a las que se refiere esta Ley;
 
@@ -96,7 +118,9 @@ Bioequivalencia: Productos en los que no existen diferencias significativas en l
 
 Brote: Presencia de uno o más focos de la misma enfermedad, en un área geográfica determinada en el mismo periodo de tiempo y que guardan una relación epidemiológica entre sí;
 
-Buenas prácticas de Manufactura: Conjunto de procedimientos, actividades, condiciones, controles de tipo general que se aplican en los establecimientos que elaboran productos químicos, farmacéuticos, biológicos, aditivos o alimenticios para uso en animales o consumo por éstos; así como en los establecimientos Tipo Inspección Federal dedicados al sacrificio de animales, y procesamiento de bienes de origen animal para consumo humano, con el objeto de disminuir los riesgos de contaminación física, química o biológica; sin perjuicio de otras disposiciones legales aplicables en materia de Salud Pública;
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2012)</small>
+
+Buenas prácticas de manufactura: Conjunto de procedimientos, actividades, condiciones, controles de tipo general que se aplican en los establecimientos que elaboran productos químicos, farmacéuticos, biológicos, aditivos o alimenticios para uso en animales o consumo por éstos; así como en los establecimientos Tipo Inspección Federal, en los rastros y en los demás establecimientos dedicados al sacrificio de animales, y procesamiento de bienes de origen animal para consumo humano, con el objeto de disminuir los riesgos de contaminación física, química o biológica; sin perjuicio de otras disposiciones legales aplicables en materia de salud pública;
 
 Buenas Prácticas Pecuarias: Conjunto de procedimientos actividades, condiciones y controles que se aplican en las unidades de producción de animales y en los establecimientos Tipo Inspección Federal, con el objeto de disminuir los peligros asociados a agentes físicos, químicos o biológicos, así como los riesgos zoosanitarios en los bienes de origen animal para consumo animal; sin perjuicio de otras disposiciones legales aplicables en materia de Salud Pública;
 
@@ -140,7 +164,9 @@ Enfermedad o plaga exótica de los animales: Aquella de la que no existen casos,
 
 Erradicación: Eliminación total de un agente etiológico de una enfermedad o plaga en la población animal susceptible doméstica y silvestre en cautiverio y dentro de una área geográfica determinada;
 
-Establecimientos: Las instalaciones ubicadas en territorio nacional en donde se desarrollan actividades de sanidad animal o se prestan servicios veterinarios, sujetos a regulación zoosanitaria o de buenas prácticas pecuarias en términos de esta Ley y su Reglamento;
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2012)</small>
+
+Establecimientos: Las instalaciones ubicadas en territorio nacional en donde se desarrollan actividades de sanidad animal; que prestan servicios veterinarios; así como aquellas instalaciones en las que se sacrifican animales o procesan bienes de origen animal, incluidos aquellos donde se procesan, manejan, acopian, envasan, empacan, refrigeran o industrializan bienes de origen animal, sujetos a regulación zoosanitaria o de buenas prácticas pecuarias en términos de esta ley y su reglamento;
 
 Establecimientos Tipo Inspección Federal (TIF): Las instalaciones en donde se sacrifican animales o procesan, envasan, empacan, refrigeran o industrializan bienes de origen animal y están sujetas a regulación de la Secretaría en coordinación con la Secretaría de Salud de acuerdo al ámbito de competencia de cada Secretaría y cuya certificación es a petición de parte;
 
@@ -262,7 +288,9 @@ Sanidad animal: La que tiene por objeto preservar la salud, así como prevenir, 
 
 Secretaría: La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
-Sistemas de reducción de riesgos de contaminación: Medidas y procedimientos establecidos por la Secretaría para garantizar que los bienes de origen animal se obtienen durante su producción primaria y procesamiento en establecimientos Tipo Inspección Federal en óptimas condiciones zoosanitarias, y de reducción de peligros de contaminación, física, química y microbiológica a través de la aplicación de Buenas Prácticas de Producción y Buenas Prácticas de Manufactura;
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2012)</small>
+
+Sistemas de reducción de riesgos de contaminación: Medidas y procedimientos establecidos por la secretaría para garantizar que los bienes de origen animal se obtienen durante su producción primaria y procesamiento en establecimientos Tipo Inspección Federal y sacrificio en rastros y en los demás establecimientos dedicados al procesamiento de bienes de origen animal para consumo humano en óptimas condiciones zoosanitarias, y de reducción de peligros de contaminación, física, química y microbiológica a través de la aplicación de Buenas Prácticas de Producción y Buenas Prácticas de Manufactura;
 
 Tercero especialista autorizado: Persona moral o médico veterinario autorizado por la Secretaría para auxiliar a la misma o a las personas aprobadas por ésta, como coadyuvantes en la verificación y certificación de las disposiciones contenidas en esta Ley y de las que de ella deriven mediante un dictamen. Tratándose de buenas prácticas pecuarias aplicadas a la producción primaria y procesamiento de los bienes de origen animal, los terceros especialistas, también podrán ser profesionistas de carreras afines a la medicina veterinaria;
 
@@ -412,13 +440,19 @@ LIV. Establecer y difundir los procedimientos para evaluar el cumplimiento de lo
 
 LV. Determinar el perfil de los profesionales que pretendan llevar a cabo actividades en materia zoosanitaria o de buenas prácticas pecuarias de los establecimientos, servicios y bienes de origen animal regulados por esta Ley, como coadyuvantes de la Secretaría;
 
-LVI. Regular y certificar la aplicación de buenas prácticas pecuarias en unidades de producción primaria; y establecimientos TIF dedicados al sacrificio y procesamiento de bienes de origen animal;
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2012)</small>
+
+LVI. Regular y certificar la aplicación de buenas prácticas pecuarias en unidades de producción primaria; en establecimientos TIF dedicados al sacrificio y procesamiento de bienes de origen animal; en rastros y en los demás establecimientos dedicados al procesamiento de bienes de origen animal para consumo humano;
 
 LVII. Ejercer el control zoosanitario en la movilización, importación, exportación, tránsito internacional y comercialización de bienes de origen animal;
 
-LVIII. Expedir disposiciones en materia de buenas prácticas pecuarias en unidades de producción primaria y establecimientos TIF dedicados al sacrificio y procesamiento de bienes de origen animal;
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2012)</small>
 
-LIX. Certificar, verificar e inspeccionar la aplicación de las buenas prácticas pecuarias en establecimientos TIF, así como de las actividades de sanidad animal relacionadas directa o indirectamente con la producción y procesamiento de bienes de origen animal; sin perjuicio de otras disposiciones legales aplicables en materia de Salud Pública;
+LVIII. Expedir disposiciones en materia de buenas prácticas pecuarias en unidades de producción primaria en establecimientos TIF dedicados al sacrificio y procesamiento de bienes de origen animal; en rastros y en los demás establecimientos dedicados al procesamiento de bienes de origen animal para consumo humano;
+
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2012)</small>
+
+LIX. Certificar, verificar e inspeccionar la aplicación de las buenas prácticas pecuarias en establecimientos TIF; en rastros y en los demás establecimientos dedicados al procesamiento de bienes de origen animal para consumo humano, así como de las actividades de sanidad animal relacionadas directa o indirectamente con la producción y procesamiento de bienes de origen animal; sin perjuicio de otras disposiciones legales aplicables en materia de Salud Pública;
 
 LX. Proponer y evaluar los programas operativos zoosanitarios y de buenas prácticas pecuarias de los bienes de origen animal, en coordinación con los Gobiernos Estatales y organismos auxiliares de sanidad animal, así como emitir dictámenes sobre su ejecución y, en su caso, recomendar las medidas que procedan;
 
@@ -428,7 +462,9 @@ LXII. Autorizar a profesionales como terceros especialistas que coadyuven con la
 
 LXIII. Ordenar la retención, cuarentena, disposición o destrucción de bienes de origen animal en los que se detecte o sospeche violación a los términos y supuestos indicados en esta Ley, su Reglamento y las disposiciones de sanidad animal respectivas;
 
-LXIV. Certificar establecimientos Tipo Inspección Federal; de acuerdo a su ámbito de competencia, sin perjuicio de las atribuciones que en la materia tenga la Secretaría de Salud;
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2012)</small>
+
+LXIV. Certificar establecimientos Tipo Inspección Federal; rastros y demás establecimientos dedicados al procesamiento de bienes de origen animal para consumo humano de acuerdo a su ámbito de competencia, sin perjuicio de las atribuciones que en la materia tenga la Secretaría de Salud;
 
 LXV. Otorgar certificados de buenas prácticas de manufactura a establecimientos de bienes de origen animal y a establecimientos que fabriquen productos para uso o consumo animal;
 
@@ -536,9 +572,11 @@ XXI. Los demás que regule esta Ley, así como los que, conforme a la tecnologí
 
 ### Capítulo II De las Medidas en materia de buenas prácticas pecuarias en los Bienes de Origen Animal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2012)</small>
+
 ###### Artículo 17.
 
-La Secretaría, sin perjuicio de las atribuciones que correspondan a otras dependencias de la Administración Pública Federal, determinará las medidas en materia de buenas prácticas pecuarias que habrán de aplicarse en la producción primaria y procesamiento de bienes de origen animal en establecimientos TIF, para reducir los contaminantes o riesgos zoosanitarios que puedan estar presentes en éstos.
+La Secretaría, sin perjuicio de las atribuciones que correspondan a otras dependencias de la administración pública federal, determinará las medidas en materia de buenas prácticas pecuarias mediante la emisión de disposiciones, que habrán de aplicarse en la producción primaria en el procesamiento de bienes de origen animal en establecimientos TIF; en los rastros y en los demás establecimientos dedicados al procesamiento de bienes de origen animal para consumo humano, para reducir los contaminantes o riesgos zoosanitarios que puedan estar presentes en éstos.
 
 Las medidas en materia de buenas prácticas pecuarias estarán basadas en principios científicos o en recomendaciones internacionales y, en su caso, en análisis de riesgo según corresponda.
 
@@ -1198,7 +1236,9 @@ I. Aquellos en donde se concentren animales, con motivo de ferias, exposiciones 
 
 II. Unidades de producción;
 
-III. Los Tipos de Inspección Federal;
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2012)</small>
+
+III. Los Tipos de Inspección Federal, rastros y los demás dedicados al sacrificio de animales para consumo humano;
 
 IV. Los que procesen bienes de origen animal y que impliquen un riesgo zoosanitario;
 
@@ -1231,6 +1271,14 @@ Las disposiciones de sanidad animal y las relativas a las buenas prácticas pecu
 Los propietarios, el administrador único, los responsables de la administración o poseedores de los establecimientos a los que hace referencia el artículo anterior, y los médicos veterinarios responsables autorizados en su caso, serán responsables del cumplimiento de las disposiciones de sanidad animal y de buenas prácticas pecuarias que por el tipo de establecimiento les sean aplicables. Asimismo dichas personas estarán obligadas a proporcionar las facilidades necesarias a la Secretaría cuando ejerza sus atribuciones de inspección del cumplimiento de las disposiciones de sanidad animal y de buenas prácticas pecuarias de los bienes de origen animal.
 
 Dichas personas estarán obligadas a establecer las medidas de control necesarias e informar inmediata y expresamente a la Secretaría, en el supuesto de que detecten o tengan la sospecha de una enfermedad o plaga de notificación obligatoria, enfermedad o plaga exótica o una posible fuente de contaminación de los bienes de origen animal.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2012)</small>
+
+###### Artículo 106 Bis.
+
+La Secretaría determinará, en disposiciones de salud animal y de inocuidad de bienes de origen animal, aquellas buenas prácticas pecuarias, buenas prácticas de manufactura y actividades de sanidad y bienestar animal, que deberán observar los establecimientos de sacrificios de animales y de procesamiento de bienes de origen animal.
+
+Tanto los establecimientos TIF como los establecimientos dedicados al procesamiento de bienes de origen animal para consumo humano, deberán tener a su servicio durante las horas laborales, cuando menos un médico veterinario responsable autorizado para fines de control de bienestar animal, de vigilancia epidemiológica, otras medidas zoosanitarias; de buenas prácticas pecuarias y de sustancias tóxicas y/o peligrosas en términos de lo dispuesto el (sic) artículo 278 de la Ley General de Salud.
 
 ###### Artículo 107.
 
@@ -1586,6 +1634,10 @@ El procedimiento para la selección de los acreedores al premio señalado en el 
 
 La Secretaría promoverá o en su caso hará obligatorio que los establecimientos de procesamiento de bienes de origen animal, obtengan el carácter de Tipo Inspección Federal y la contraseña correspondiente de conformidad con lo señalado en el artículo 2 de esta Ley una vez que hayan cumplido con lo dispuesto en el Reglamento de esta Ley y con el procedimiento de evaluación de la conformidad por parte de la Secretaría o por un organismo de certificación aprobado sin menoscabo de las atribuciones de la Secretaría de Salud. Las instalaciones o productos provenientes de ellas podrán ostentar la contraseña Tipo Inspección Federal.
 
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2012)</small>
+
+Las autoridades locales de los estados, municipios y el Distrito Federal promoverán que los establecimientos en donde se sacrifican animales o procesan, envasan, empacan, refrigeran o industrializan bienes de origen animal, obtengan la certificación y en su caso, la contraseña correspondiente una vez que hayan cumplido con lo dispuesto en el reglamento de esta ley, sin menoscabo de las atribuciones de la Secretaría y la Secretaría de Salud.
+
 ###### Artículo 155.
 
 La Secretaría podrá establecer contraseñas de calidad zoosanitaria para la identificación de las mercancías, instalaciones, procesos o servicios que hayan cumplido con lo dispuesto en el Reglamento de esta Ley y con el procedimiento de evaluación de la conformidad por parte de la Secretaría o por organismo de certificación aprobado.
@@ -1891,3 +1943,19 @@ DÉCIMO.- Todos los procedimientos y recursos administrativos relacionados con l
 México, D.F., a 26 de abril de 2007.- Dip. Maria Elena Alvarez Bernal, Vicepresidenta.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Maria Eugenia Jimenez Valenzuela, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintidós días del mes de junio de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 7 DE JUNIO DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de la publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Secretaría expedirá las disposiciones que deberán contener los lineamientos y requisitos para la certificación de los establecimientos donde se sacrifican animales, o procesan, envasan, empacan, refrigeran o industrializan bienes de origen animal, en seis meses a partir de la entrada en vigor del presente decreto.
+
+TERCERO.- La Secretaría difundirá en los medios impresos y electrónicos, la participación de los municipios y gobiernos de los estados y del Distrito Federal, en los programas de certificación.
+
+CUARTO.- Las legislaturas de los estados deberán adecuar en su legislación correspondiente las reformas contenidas en el presente decreto, para fomentar la certificación por parte de la secretaría de los establecimientos dedicados al sacrificio de animales o que procesan, envasan, empacan, refrigeran o industrializan bienes de origen animal de competencia municipal.
+
+QUINTO.- Las acciones que, en su caso, deban realizar las dependencias y entidades de la Administración Pública Federal para dar cumplimiento al presente Decreto, deberán cubrirse en función de los ingresos disponibles conforme a la Ley de Ingresos de la Federación, y sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+SEXTO.- Para la debida instauración del presente Decreto, el Ejecutivo Federal instruirá a las Secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, y de Salud, a efecto de que en un plazo no mayor a 90 días, suscriban las bases de coordinación que determinarán el ejercicio de las atribuciones que, en materia de inspección y vigilancia de la calidad, sanidad e inocuidad de los productos procesados en rastros y en establecimientos dedicados al procesamiento de los productos derivados del sacrificio, les confieren la Ley Federal de Sanidad Animal, la Ley General de Salud y las demás disposiciones aplicables.
