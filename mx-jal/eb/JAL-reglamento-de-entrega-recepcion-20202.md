@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-entrega-recepcion-20202"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-02-15"
-last_updated: "2001-02-15"
+last_updated: "2012-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20202&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO DE ENTREGA RECEPCION
 
-REGLAMENTO DE ENTREGA RECEPCION
+REGLAMENTO DE ENTREGA RECEPCIÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DEL PROCESO DE ENTREGA-RECEPCIÓN DEL PODER EJECUTIVO DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 7 DE JUNIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección VI del Periódico Oficial del Estado de Jalisco, el jueves 15 de febrero de 2001.
 
@@ -128,3 +130,13 @@ ING. ALBERTO CÁRDENAS JIMENEZ
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 DR. MAURICIO LIMÓN AGUIRRE
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE JUNIO DE 2012.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El titular del Poder Ejecutivo podrá, mediante acuerdo, establecer la coordinación para el proceso de entrega-recepción constitucional con el Gobernador electo para el periodo 2013-2018.
+
+TERCERO. Se abroga el Reglamento de Entrega Recepción publicado en el Periódico Oficial "El Estado de Jalisco", el día 15 de febrero de 2001, y se derogan todas las disposiciones reglamentarias y administrativas que se opongan al presente Acuerdo.
