@@ -4,7 +4,7 @@ identifier: "LGPAS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-07-24"
-last_updated: "2012-05-30"
+last_updated: "2012-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56140&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPAS"
 
 LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 24 de julio de 2007.
 
@@ -138,7 +138,9 @@ XIX. Esfuerzo pesquero: El número de individuos, embarcaciones o artes de pesca
 
 XX. Guía de pesca: Es el documento que ampara el transporte por vía terrestre, marítima o aérea de productos pesqueros vivos, frescos, enhielados o congelados, provenientes de la acuacultura o de la pesca;
 
-XXI. INAPESCA: Instituto Nacional de Pesca, órgano desconcentrado de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2012)</small>
+
+XXI. INAPESCA: Instituto Nacional de Pesca, órgano público descentralizado sectorizado con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
 
 XXII. Inocuidad: Es la garantía de que el consumo de los recursos pesqueros y acuícolas no cause daño en la salud de los consumidores;
 
@@ -274,7 +276,9 @@ XXVII. Promover la organización y capacitación para el trabajo pesquero y acu�
 
 XXVIII. Promover y apoyar la investigación, la innovación y el desarrollo tecnológico de la pesca y la acuacultura, así como el fortalecimiento de las capacidades tecnológicas de la planta productiva nacional;
 
-XXIX. Establecer las bases de organización y funcionamiento del INAPESCA, como organismo coordinador de la investigación científica y tecnológica del sector pesquero y de acuacultura nacional;
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2012)</small>
+
+XXIX. La coordinación con INAPESCA, como organismo público descentralizado responsable de la investigación científica y tecnológica del sector pesquero y de acuacultura nacional;
 
 XXX. Establecer y operar el Sistema Nacional de Información Pesquera y Acuícola y el Registro Nacional de Pesca y Acuacultura, así como mantenerlos actualizados en forma permanente, de conformidad con las disposiciones legales aplicables;
 
@@ -642,9 +646,11 @@ VI. Desarrollar investigación en materia de sanidad e inocuidad acuícola y pes
 
 VII. Brindar elementos para el establecimiento de medidas encaminadas a protección de especies pesqueras sobreexplotadas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 29.
 
-El INAPESCA será el órgano administrativo del gobierno federal encargado de coordinar y orientar la investigación científica y tecnológica en materia de pesca y acuacultura, así como el desarrollo, innovación y transferencia tecnológica que requiera el sector pesquero y acuícola.
+El INAPESCA será el órgano administrativo con personalidad jurídica y patrimonio propio, encargado de dirigir, coordinar y orientar la investigación científica y tecnológica en materia de pesca y acuacultura, así como el desarrollo, innovación y transferencia tecnológica que requiera el sector pesquero y acuícola.
 
 Para el cumplimiento de su objetivo el INAPESCA contará, entre otras, con las siguientes atribuciones:
 
@@ -2039,3 +2045,15 @@ D.O.F. 30 DE MAYO DE 2012.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Para la debida instrumentación del presente Decreto, el Ejecutivo Federal instruirá a las Secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y de Salud a efecto de que, en un plazo no mayor a 90 días, suscriban las bases de coordinación que determinarán el ejercicio de las atribuciones que, en materia de inspección y vigilancia de la calidad, sanidad e inocuidad de los recursos, partes y derivados de origen pesquero y acuícola, les confieren la Ley General de Pesca y Acuacultura Sustentables; la Ley General de Salud y las demás disposiciones aplicables.
+
+D.O.F. 7 DE JUNIO DE 2012.
+
+Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las menciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición respecto al Instituto Nacional de Pesca, cuyas funciones se reforman por virtud de este decreto, se entenderán referidas a la entidad administrativa que asuma tales funciones.
+
+Tercero. La constitución del INAPESCA como organismo público descentralizado se realizará conforme a lo dispuesto en la Ley Orgánica de la Administración Pública Federal y en la Ley Federal de Entidades Paraestatales.
+
+Cuarto. Las acciones que deriven de la aplicación de las modificaciones al presente decreto se realizarán con cargo al presupuesto aprobado al Instituto de Pesca.
+
+Quinto. Se derogan las disposiciones aplicables que se opongan al presente decreto.
