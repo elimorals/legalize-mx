@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-de-administracion-78098"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-01-08"
-last_updated: "2011-01-08"
+last_updated: "2012-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE ADMINISTRACION
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE ADMINISTRACION DEL ESTADO DE JALISCO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DE: 7 JUNIO DE 2012.
 
 Reglamento publicado en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 8 de enero de 2011.
 
@@ -55,21 +55,33 @@ REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN
 
 El presente reglamento tiene por objeto normar la estructura orgánica y las funciones y atribuciones que corresponden a las áreas que integran la Secretaría de Administración, dependiente del Poder Ejecutivo del Estado de Jalisco.
 
-###### Artículo 2º.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2012)</small>
+
+###### Artículo 2°.
 
 Para efectos del presente ordenamiento, se entiende por:
 
-I. Organismos auxiliares: Los organismos auxiliares y desconcentrados del Poder Ejecutivo del Estado de Jalisco;
+I. Gobierno de TI: estructura de relaciones y procesos para dirigir y controlar los recursos tecnológicos hacia el logro de los objetivos y estrategias de la Secretaría, que soportan las operaciones y servicios del Poder Ejecutivo;
 
-II. Organismos paraestatales: Los organismos públicos descentralizados, fideicomisos públicos y las entidades y empresas de participación mayoritaria del Poder Ejecutivo del Estado;
+II. MARCO de TI: el Manual de Alineación, Regulación y Control de Tecnologías de Información, como el instrumento que define el conjunto de normas, directrices y objetivos de control aplicables a la información y tecnologías relacionadas, que conforman el marco de Gobierno de TI y, en su caso, comprenderá lo relativo a las comunicaciones;
 
-III. Reglamento: El Reglamento Interior de la Secretaría de Administración;
+III. Organismos auxiliares: los organismos auxiliares y órganos desconcentrados del Poder Ejecutivo del Estado de Jalisco;
 
-IV. Secretaría: La Secretaría de Administración;
+IV. Organismos paraestatales: los organismos públicos descentralizados, fideicomisos públicos y las empresas de participación mayoritaria del Poder Ejecutivo del Estado;
 
-V. Secretario: El Titular de la Secretaría de Administración; y
+V. Plan de direccionamiento IP: conjunto de criterios usados por la Secretaría para asignar de manera ordenada los identificadores que permitan conocer de manera unívoca cada recurso conectado a una red informática;
 
-VI. UNIRSE: Unidades Regionales de Servicios del Estado.
+VI. Reglamento: el presente Reglamento Interior de la Secretaria de Administración;
+
+VII. Secretaría: la Secretaría de Administración;
+
+VIII. Secretario: el Titular de la Secretaría de Administración;
+
+IX. TI: tecnologías de información como el conjunto de herramientas y procesos para recabar, almacenar, procesar y distribuir información, mediante el uso de sistemas informáticos y computacionales;
+
+X. UNIRSE: Unidades Regionales de Servicios del Estado; y
+
+XI. Usuarios finales: servidores públicos que utilizan los servicios de tecnologías de información en el desempeño de sus funciones.
 
 ### Capítulo II. Organización y Estructura de la Secretaría
 
@@ -169,9 +181,17 @@ XXXI. Representar al Poder Ejecutivo, respecto de su área de competencia, como 
 
 XXXII. Corresponderá al Secretario la certificación de constancias y documentos de la Secretaría que se destinen a cumplir algún requerimiento que provenga de alguna autoridad legislativa, administrativa, judicial o municipal, misma atribución de la que podrá hacer uso el Director General Jurídico;
 
-XXXIII. Aprobar o no y, en su caso, expedir el dictamen técnico relativo a la idoneidad del cambio de nomenclatura, creación, modificación, substitución y extinción de las áreas integrantes de las secretarías y dependencias del Poder Ejecutivo; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
 
-XXXIV. Las demás que le sean conferidas por el Titular del Poder Ejecutivo y se establezcan en las disposiciones legales aplicables.
+XXXIII. Aprobar y, en su caso, expedir el dictamen técnico relativo a la idoneidad del cambio de nomenclatura, creación, modificación, substitución y extinción de las áreas integrantes de las secretarías y dependencias del Poder Ejecutivo;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
+
+XXXIV. Representar legalmente a la Comisión de Adquisiciones y Enajenaciones del Gobierno del Estado, en su carácter de presidente de la misma, ante los órganos jurisdiccionales, administrativos o cualquier otra autoridad, con todas las facultades generales y especiales establecidas en la ley; y
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2012)</small>
+
+XXXV. Las demás que le sean conferidas por el titular del Poder Ejecutivo o se encuentren establecidas en las disposiciones legales aplicables.
 
 ###### Artículo 6°.
 
@@ -185,7 +205,9 @@ El Despacho del Secretario contará con las siguientes unidades administrativas:
 
 I. Secretaría Particular;
 
-II. Unidad de Comunicación y Relaciones Públicas; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
+
+II. Coordinación de Comunicación y Relaciones Públicas; y
 
 III. Dirección Financiera.
 
@@ -215,11 +237,15 @@ IX. Llevar el resguardo y archivo de expedientes correspondientes al Despacho de
 
 X. Atender los demás asuntos que le encomiende el Secretario.
 
-#### Sección II. De la Unidad de Comunicación y Relaciones Públicas
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2012)</small>
 
-###### Artículo 9º.
+#### Sección II. De la Coordinación de Comunicación y Relaciones Públicas
 
-La Unidad de Comunicación y Relaciones Públicas tendrá las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2012)</small>
+
+###### Artículo 9°.
+
+La Coordinación de Comunicación y Relaciones Públicas tendrá las siguientes atribuciones:
 
 I. Sistematizar y concentrar la información relativa a las actividades de la Secretaría, que deba hacerse del conocimiento de la población en general;
 
@@ -471,255 +497,347 @@ XI. Intercambiar opiniones con las Secretarías y dependencias del Poder Ejecuti
 
 Serán atribuciones de la Dirección General de Informática las siguientes:
 
-I. Dictar, emitir y difundir el Manual de Directrices en Materia de Tecnología para el Poder Ejecutivo del Gobierno del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
 
-II. Supervisar el cumplimiento de los lineamientos, directrices y estandarización en materia de tecnologías de información y comunicaciones del Poder Ejecutivo del Estado de Jalisco definidos en el Manual de Directrices en Materia de Tecnología para el Poder Ejecutivo del Gobierno del Estado de Jalisco;
+I. Establecer las bases para el aseguramiento de la gobernabilidad integral de las tecnologías de la información y comunicaciones en las secretarías, dependencias, organismos auxiliares y paraestatales, para la entrega eficaz y eficiente de servicios tecnológicos de información, alineados a las estrategias y requerimientos del Poder Ejecutivo del Estado de Jalisco;
 
-III. Desarrollar, modificar y mantener las tecnologías de información y comunicaciones de la Secretaría y sus organismos auxiliares, así como asesorar en la materia a las Secretarías, organismos auxiliares y paraestatales, previa autorización del Secretario;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
 
-IV. Normar y coordinar los proyectos de automatización de procesos y los referentes a tecnologías de información y comunicaciones de las Secretarías, organismos auxiliares y paraestatales, previa autorización del Secretario;
+II. Emitir y difundir el MARCO de TI;
 
-V. Asesorar y emitir dictámenes técnicos sobre las solicitudes en materia de tecnologías de información y comunicaciones a la Comisión de Adquisiciones y Enajenaciones del Gobierno del Estado de Jalisco, cuando ésta lo solicite;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
 
-VI. Establecer criterios de optimización y aplicación racional del uso de tecnologías de información y comunicaciones en el Poder Ejecutivo del Estado de Jalisco, y supervisar su cumplimiento;
+III. Supervisar el cumplimiento de los lineamientos, directrices y estandarización definidos en el MARCO de TI;
 
-VII. Coordinar, conjuntamente con la Dirección General de Administración y Desarrollo de Personal, los programas de capacitación de los recursos humanos de las Secretarías, organismos auxiliares y paraestatales, en lo que a tecnologías de información y comunicaciones se refiere;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
 
-VIII. Establecer, en coordinación con la Dirección General de Innovación y Mejora Gubernamental, la implantación de sistemas de información electrónicos para los procesos y servicios del Poder Ejecutivo del Estado de Jalisco; así como establecer vínculos de integración en materia de tecnologías de información y comunicaciones;
+IV. Desarrollar, normar y mantener las TI de la Secretaría, así como asesorar en la materia a las secretarías, dependencias, organismos auxiliares y paraestatales;
 
-IX. Normar, validar y tarificar el suministro de los servicios de telefonía, transporte de datos, radio localización, telefonía celular, y enlaces de telecomunicaciones, a excepción de radio frecuencia, del Poder Ejecutivo del Estado y establecer las condiciones para la contratación y tarificación correspondiente;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
 
-X. Controlar, supervisar y autorizar los accesos a la red estatal, tanto a las Secretarías, organismos auxiliares y paraestatales, como a cualquier otra entidad o persona externa al mismo;
+V. Normar y coordinar los proyectos de automatización de procesos y los referentes a TI de las secretarías, dependencias, organismos auxiliares y paraestatales;
 
-XI. Normar y vigilar la administración de la seguridad informática del Poder Ejecutivo del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
 
-XII. Normar y establecer la plataforma estándar de mensajería electrónica y colaboración para el Poder Ejecutivo del Estado; y administrar y validar su uso, así como el de las cuentas de acceso al mismo;
+VI. Asesorar a la Dirección General de Abastecimientos de la Secretaría respecto de las solicitudes de compra en materia de TI, y emitir los dictámenes técnicos correspondientes;
 
-XIII. Normar, validar técnicamente y actualizar las páginas de Internet que se publican en el sitio del Poder Ejecutivo del Estado de Jalisco, en coordinación con la Dirección de Comunicación Social de la Secretaría General de Gobierno;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
 
-XIV. Realizar el anteproyecto de presupuesto de egresos para cubrir los mantenimientos y servicios corporativos de la tecnología de información y comunicaciones del Poder Ejecutivo del Estado de Jalisco, así como de los servicios relacionados a implementarse;
+VII. Establecer criterios de optimización y aplicación racional del uso de TI en el Poder Ejecutivo del Estado, y supervisar su cumplimiento;
 
-XV. Administrar y calcular el importe de los contratos de mantenimiento de software, preventivos y correctivos de la infraestructura base de la red estatal relacionados con el equipo activo, conmutadores, enlaces de telecomunicaciones y servidores, los servicios corporativos de Internet y las licencias de software que adquieran las Secretarías, organismos auxiliares y paraestatales;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
 
-XVI. Validar técnicamente las recepciones de bienes de tecnologías de información y comunicaciones adquiridos por las Secretarías, organismos auxiliares y paraestatales; y
+VIII. Establecer las directrices tecnológicas para evaluar el desempeño, las competencias, la pertinencia, la funcionalidad y la seguridad de los recursos humanos y tecnológicos, que participan en las acciones y programas de tecnologías de la información y comunicaciones en el Poder Ejecutivo del Estado de Jalisco;
 
-XVII. Las demás que le confieran las disposiciones legales en la materia, así como aquellas que sean delegadas por el Secretario.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
+
+IX. Establecer y coordinar, conjuntamente con la Dirección General de Administración y Desarrollo de Personal, los programas de capacitación de los recursos humanos de las secretarias, dependencias, organismos auxiliares y paraestatales, en lo que a TI se refiere;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
+
+X. Establecer, en coordinación con la Dirección General de Innovación y Mejora Gubernamental, la implantación de sistemas de información electrónicos para automatizar los procesos y servicios del Poder Ejecutivo, así como crear vínculos de integración en materia de TI;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
+
+XI. Normar, validar, tarificar y contratar el suministro de los servicios de telefonía, transporte de datos, radio localización, telefonía celular y enlaces de telecomunicaciones, de conformidad con las disposiciones legales aplicables, a excepción del uso del espectro radioeléctrico concesionado al Poder Ejecutivo del Estado de Jalisco;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
+
+XII. Controlar, monitorear y autorizar los accesos a la Red Estatal de Voz y Datos, tanto a las secretarías, dependencias, organismos auxiliares y paraestatales, como a cualquier otra entidad o persona externa al mismo;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
+
+XIII. Normar y vigilar la administración de la seguridad informática del Poder Ejecutivo del Estado de Jalisco;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
+
+XIV. Normar y definir la plataforma estándar de mensajería electrónica y colaboración para el Poder Ejecutivo del Estado de Jalisco;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
+
+XV. Normar y validar técnicamente las páginas de Internet que se publican en el sitio del Poder Ejecutivo del Estado de Jalisco, en coordinación con la Dirección de Comunicación Social del Despacho del Gobernador;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
+
+XVI. Realizar el anteproyecto de presupuesto de egresos para cubrir los mantenimientos y servicios corporativos de la tecnología de información y comunicaciones del Poder Ejecutivo del Estado de Jalisco, así como de los servicios relacionados a implementarse;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
+
+XVII. Validar técnicamente las recepciones de bienes de tecnologías de información y comunicaciones adquiridos por las secretarías, dependencias, organismos auxiliares y paraestatales; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2012)</small>
+
+XVIII. Las demás que le confieran las leyes, reglamentos y demás disposiciones legales en la materia, así como aquellas que sean delegadas por el Secretario.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2012)</small>
 
 ###### Artículo 18.
 
-La Dirección General de Informática contará, para su funcionamiento, con las siguientes Direcciones de Área:
+La Dirección General de Informática contará, para su funcionamiento, con las siguientes direcciones de área:
 
 I. Dirección de Planeación Tecnológica;
 
-II. Dirección de Producción;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
+
+II. Dirección de Procesamiento y Transporte de Datos;
 
 III. Dirección de Ingeniería de Sistemas;
 
-IV. Dirección de Infraestructura Tecnológica; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
+
+IV. Dirección de Estándares y Regulación Tecnológica; y
 
 V. Dirección de Soporte Técnico y Servicios; (sic)
 
 #### Sección I. De la Dirección de Planeación Tecnológica
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL ACUERDO No. 021/2012 PUBLICADO EN EL P. O. DE 7 DE JUNIO DE 2012, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE VEINTE FRACCIONES A DIECIOCHO.</small>
+
 ###### Artículo 19.
 
 Serán atribuciones de la Dirección de Planeación Tecnológica, las siguientes:
 
-I. Definir la normatividad del capítulo referente a la estrategia y planeación en el Manual de Directrices en Materia de Tecnología para el Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
 
-II. Identificar el nivel tecnológico, así como las necesidades y requerimientos de las secretarías, organismos auxiliares y paraestatales;
+I. Asegurar que la tecnología habilita y soporta el logro de los objetivos de la organización a través de la integración de planes estratégicos de tecnologías de información y la alineación de los servicios tecnológicos con las operaciones de la institución para optimizar los procesos operativos;
 
-III. Determinar y sincronizar las estrategias entre las secretarías, organismos auxiliares y paraestatales tendientes a mejorar el nivel tecnológico de las mismas;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
 
-IV. Asesorar, proponer y coordinar soluciones integrales para la automatización y reingeniería oportuna y eficaz de los procesos administrativos;
+II. Identificar las necesidades y requerimientos tecnológicos de las secretarías, dependencias, organismos auxiliares y paraestatales;
 
-V. Determinar la factibilidad de las propuestas de proyectos e instrumentos tecnológicos, en atención a las necesidades y requerimientos solicitados formulados por las secretarías, organismos auxiliares y paraestatales;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
 
-VI. Evaluar el desarrollo de nuevas tecnologías para contemplar su aplicación en proyectos innovadores de tecnología de información y comunicaciones;
+III. Determinar y sincronizar las estrategias entre las secretarías, dependencias, organismos auxiliares y paraestatales, tendientes a mejorar el nivel tecnológico de las mismas;
 
-VII. Definir e implementar la metodología de administración de proyectos tecnológicos para el Gobierno del Estado;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
 
-VIII. Administrar los proyectos de tecnologías de información y comunicaciones en concordancia con una herramienta de control y generación de información estadística y estratégica;
+IV. Determinar la factibilidad de las propuestas de proyectos e instrumentos tecnológicos, según lo establecido en el Plan Estatal de Desarrollo, en atención a las necesidades y requerimientos formulados por las secretarías, dependencias, organismos auxiliares y paraestatales;
 
-IX. Definir, recabar y verificar el desarrollo de los proyectos de tecnologías de información y comunicaciones;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
 
-X. Administrar los proyectos de tecnologías de información y comunicaciones, en coordinación con otras áreas de la Secretaría y las diversas secretarías, organismos auxiliares y paraestatales;
+V. Definir e implementar la metodología de administración de proyectos tecnológicos para el Poder Ejecutivo del Estado de Jalisco;
 
-XI. Identificar los objetivos y alcances de los proyectos de tecnologías de información y comunicaciones;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
 
-XII. Recopilar, verificar y documentar la información sobre el desempeño real de los proyectos encomendados, en atención a los objetivos, alcances, funcionalidad, rendimiento y seguridad;
+VI. Definir, recabar y verificar el desarrollo de los proyectos de TI;
 
-XIII. Comparar el desempeño real del proyecto contra la solución planeada, a la vez de proponer y ejecutar las medidas correctivas con base a la estrategia previamente definida;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
 
-XIV. Identificar los estándares de calidad que son relevantes para los proyectos encomendados y determinar los objetivos por alcanzar, en coordinación con otras áreas de la Secretaría;
+VII. Identificar, evaluar, determinar y controlar los riesgos que pudieran afectar los proyectos a su cargo, en observancia de las prácticas de administración de riesgos, los planes de recuperación de desastres y de continuidad de negocios referidos en el MARCO de TI;
 
-XV. Verificar, validar y monitorear los resultados del proyecto para determinar si cumplen con los estándares de calidad previamente identificados y definidos;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
 
-XVI. Coordinar las acciones tendientes a actualizar e incorporar nuevas tecnologías en los proyectos de tecnologías de información y comunicaciones en las secretarías, organismos auxiliares y paraestatales;
+VIII. Consensuar y definir los recursos necesarios que formarán parte del equipo de trabajo, y asignar roles y responsabilidades en los proyectos asignados;
 
-XVII. Identificar, evaluar, determinar y controlar los riesgos que pudieran afectar los proyectos a su cargo, en observancia de los planes de recuperación de desastres y de continuidad de negocios que se elaboren para tal efecto;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
 
-XVIII. Definir los perfiles de los recursos humanos que formarán parte del equipo de trabajo, y asignar roles y responsabilidades en los proyectos asignados;
+IX. Planificar y definir periodos de tiempo y metodología para el flujo e intercambio de información y comunicación entre los involucrados en los proyectos de TI;
 
-XIX. Planificar y definir períodos de tiempo y metodología para el flujo e intercambio de información y comunicación entre los involucrados en los proyectos de tecnologías de información y comunicaciones; e
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
 
-XX. Informar el estatus de los proyectos de tecnologías de información y comunicaciones.
+X. Recabar la información necesaria de todos los proyectos de TI e implementar una herramienta tecnológica que difunda su estatus a las áreas de competencia;
 
-#### Sección II. De la Dirección de Producción
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
+
+XI. Apoyar a las dependencias del Poder Ejecutivo en la definición de una plataforma en infraestructura tecnológica que les permita aprovechar y optimizar sus recursos informáticos;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
+
+XII. Gestionar el licenciamiento de software de aplicaciones dentro del Poder Ejecutivo;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
+
+XIII. Elaborar los anexos técnicos necesarios para la adquisición de bienes y servicios tecnológicos, con base en los requerimientos del Poder Ejecutivo;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
+
+XIV. Validar los asuntos referentes a TI que se incluyan en el cuerpo de las bases de concurso de adquisiciones;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
+
+XV. Responder las preguntas en materia de tecnología, generadas por los participantes en los procesos de adquisición;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
+
+XVI. Participar en las juntas aclaratorias de todos los procesos de adquisición que incluyan tecnología dentro del Poder Ejecutivo del Estado de Jalisco;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
+
+XVII. Validar técnicamente el cumplimiento de las propuestas vertidas en el cuadro comparativo de las adquisiciones y emitir el dictamen correspondiente; y
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
+
+XVIII. Validar técnicamente el equipo recibido, derivado de las adquisiciones en materia de tecnología.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2012)</small>
+
+#### Sección II. De la Dirección de Procesamiento y Transporte de Datos
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2012)</small>
 
 ###### Artículo 20.
 
-Son atribuciones de la Dirección de Producción, las siguientes:
+Son atribuciones de la Dirección de Procesamiento y Transporte de Datos, las siguientes:
 
-I. Definir la normatividad respecto de la operación de la red estatal, en las directrices en materia de tecnología para el Gobierno de Jalisco;
+I. Administrar, monitorear, verificar y mantener la operación y el funcionamiento del equipamiento de TI de la red estatal, así como atender las contingencias de las mismas;
 
-II. Administrar, monitorear y verificar la operación y el funcionamiento del equipamiento de tecnologías de información y comunicaciones de la red estatal, así como atender las contingencias de las mismas;
+II. Elaborar todo tipo de respaldo de los equipos de TI, responsabilidad de la red estatal;
 
-III. Ejecutar todos los procesos de mantenimiento de equipamiento de tecnologías de información y comunicaciones, así como los datos institucionales resguardados en la red estatal, calendarizados o eventuales, cumpliendo en los tiempos y formas convenidos;
+III. Administrar, almacenar, custodiar, procesar, transportar y verificar la integridad de los datos institucionales, así como custodiar el uso autorizado de los mismos, dentro del ámbito de su competencia;
 
-IV. Elaborar todo tipo de respaldo de los equipos de tecnologías de información y comunicaciones, responsabilidad de la red estatal;
+IV. Administrar y verificar la operación de los recursos de seguridad de TI adscritos a la red estatal;
 
-V. Procesar, transportar, almacenar, custodiar, administrar y verificar la integridad de la información institucional, así como custodiar el uso autorizado de la misma;
+V. Ejecutar los procedimientos de contingencia que garanticen la continuidad de la operación, brindando apoyo al desempeño de las labores institucionales conforme a los esquemas del plan de recuperación de desastres;
 
-VI. Administrar la operación y verificación de los recursos de seguridad de tecnologías de información y comunicaciones de manera segura, ágil y oportuna;
+VI. Validar, recibir y habilitar la operación de cualquier sistema nuevo en la red estatal;
 
-VII. Ejecutar los procedimientos alternativos de contingencia que garanticen la continuidad de la operación y del desempeño de las labores institucionales conforme a los esquemas del plan de recuperación de desastres;
+VII. Controlar, monitorear y autorizar los accesos a la red estatal de voz y datos, tanto a las secretarías, dependencias, organismos auxiliares y paraestatales, como a cualquier otra entidad o persona externa al mismo;
 
-VIII. Recibir y habilitar la operación de cualquier sistema nuevo en la red estatal;
+VIII. Verificar que los estándares de las TI sean implementados en la red estatal;
 
-IX. Verificar los estándares de las tecnologías de información y comunicaciones implementados en la red estatal;
+IX. Recibir, validar y custodiar la documentación de todos los sistemas y equipos de proceso, almacenaje y transporte de datos de la red estatal;
 
-X. Recibir, validar y custodiar la documentación de todos los sistemas y equipos de proceso, almacenaje y transporte de la red estatal;
+X. Mantener, administrar y controlar el funcionamiento de las TI y su equipamiento, instalados en la red estatal;
 
-XI. Mantener, administrar y controlar el funcionamiento de las tecnologías de información y comunicaciones y su equipamiento, instalados en la red estatal;
+XI. Mantener, administrar y controlar la integridad, disponibilidad y seguridad del contenido de las bases de datos y sus aplicativos, soportados por la infraestructura de la red estatal;
 
-XII. Mantener, administrar y controlar el funcionamiento y seguridad de las publicaciones y aplicaciones web, servicios en línea, entrega y recepción de correos internos y externos soportados por la red estatal;
+XII. Mantener, administrar y controlar los servicios de telefonía en operación, disponibles y seguros, garantizando la correcta realización de llamadas internas, locales, accesos a larga distancias y a celular local y nacional, soportados por la red estatal;
 
-XIII. Mantener, administrar y controlar la integridad, disponibilidad y seguridad del contenido de las bases de datos y sus aplicativos, soportados por la infraestructura de la red estatal; y
+XIII. Asignar el plan de marcación y de direccionamiento IP, en función del control de la red estatal de voz y datos del Poder Ejecutivo del Estado;
 
-XIV. Mantener, administrar y controlar los servicios de telefonía en operación, disponibles y seguros, garantizando la correcta realización de llamadas internas, locales, accesos a larga distancias (sic) y a celular local y nacional, soportados por la red estatal.
+XIV. Brindar soporte técnico a todas las dependencias en redes y telecomunicaciones en la red estatal;
+
+XV. Definir parámetros de conexión, topología, configuraciones y estrategias, para enlazar a las dependencias a las redes de transporte de voz, datos, mensajería y video;
+
+XVI. Realizar los estudios de reingeniería de la red para la toma de decisiones en los planes de actualización, así como el análisis de crecimiento de la misma;
+
+XVII. Definir y validar la integración de nuevos centros de datos a la red estatal;
+
+XVIII. Elaborar y mantener actualizados diagramas lógicos y físicos de la red estatal; y
+
+XIX. Administrar el uso y aplicación racional de los anchos de banda asignados a las dependencias del Poder Ejecutivo del Estado.
 
 #### Sección III. De la Dirección de Ingeniería de Sistemas
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2012)</small>
 
 ###### Artículo 21.
 
 Serán atribuciones de la Dirección de Ingeniería de Sistemas, las siguientes:
 
-I. Definir la normatividad administrativa operativa para la ingeniería de sistemas y demás temas relacionados con las aplicaciones de software para el Gobierno de Jalisco;
+I. Automatizar los procesos y servicios de la Secretaría, así como asesorar a las secretarías, dependencias, organismos auxiliares y paraestatales, conforme a los procesos de ingeniería de sistemas y a los estándares definidos;
 
-II. Definir las metodologías y estándares para el desarrollo de las aplicaciones de software para el Gobierno de Jalisco;
+II. Validar que las aplicaciones de software estén orientadas a automatizar y eficientar los procesos administrativos de las secretarías, dependencias, organismos auxiliares y paraestatales;
 
-III. Automatizar los procesos y servicios que se soliciten por las secretarías, organismos auxiliares y paraestatales conforme a los procesos de ingeniería de sistemas y a los estándares definidos;
+III. Capacitar al personal responsable de dar el soporte a las aplicaciones desarrolladas por la Dirección de Ingeniería de Sistemas;
 
-IV. Validar que las aplicaciones de software estén orientadas a automatizar y eficientar los procesos administrativos de las secretarías, organismos auxiliares y paraestatales;
+IV. Coordinar, asesorar y validar técnicamente, de acuerdo al proceso de ingeniería de sistemas, los desarrollos llevados a cabo por otras secretarías, dependencias, organismos auxiliares, paraestatales o por proveedores extemos;
 
-V. Capacitar al usuario final y al personal responsable de dar el soporte a las aplicaciones desarrolladas por la Dirección de Ingeniería de Sistemas;
+V. Brindar el apoyo necesario a las áreas informáticas de las secretarías, dependencias, organismos auxiliares y paraestatales, para la creación de sitios web oficiales;
 
-VI. Coordinar y validar técnicamente, de acuerdo al proceso de ingeniería de sistemas, los desarrollos llevados a cabo por otras secretarías, organismos auxiliares, paraestatales o por proveedores externos;
+VI. Validar, en coordinación con la Dirección General de Comunicación Social del Despacho del Gobernador, la información que se incorpore en la web oficial del Gobierno del Estado de Jalisco;
 
-VII. Establecer los lineamientos y brindar el apoyo necesario a las áreas informáticas de las secretarías, organismos auxiliares y paraestatales, para la creación de sitios web oficiales;
+VII. Asesorar y dar mantenimiento a los sistemas y sitios web desarrollados, de las dependencias que así lo soliciten, realizando las verificaciones necesarias para garantizar su correcto funcionamiento, con apego a la normatividad vigente;
 
-VIII. Elaborar, en coordinación con la Dirección General de Comunicación Social del Despacho del Gobernador, la información que se incorpore en la web oficial del Gobierno del Estado de Jalisco;
+VIII. Proponer y coordinar soluciones integrales para la automatización y reingeniería oportuna y eficaz de los procesos administrativos del Poder Ejecutivo del Estado de Jalisco; y
 
-IX. Asesorar y dar mantenimiento a sistemas y sitios web desarrollados, a las dependencias que así lo soliciten, realizando las verificaciones necesarias para garantizar su correcto funcionamiento;
+IX. Recibir, validar, custodiar y, en su caso, elaborar la documentación técnica de todos los sistemas desarrollados para la red estatal de voz y datos.
 
-X. Vigilar y asegurar la homogeneidad de la infraestructura de software, definiendo normas, metodologías y estándares en lo relativo a la ingeniería de sistemas y sitios web;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2012)</small>
 
-XI. Evaluar nuevas tecnologías de software con base a las necesidades y proyectos actuales y futuros para dictaminar la viabilidad de su uso en las secretarías, organismos auxiliares y paraestatales;
+#### Sección IV. De la Dirección de Estándares y Regulación Tecnológica
 
-XII. Definir y mantener actualizado el catálogo de estándares de software con la finalidad de contar siempre con tecnología informática de punta y acorde a las necesidades; y
-
-XIII. Realizar consensos periódicamente o por evento con las áreas de informática de las secretarías, organismos auxiliares y paraestatales para revisar y actualizar los estándares de desarrollo de software.
-
-#### Sección IV. De la Dirección de Infraestructura Tecnológica
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2012)</small>
 
 ###### Artículo 22.
 
-La Dirección de Infraestructura Tecnológica tendrá las siguientes atribuciones:
+La Dirección de Estándares y Regulación Tecnológica tendrá las siguientes atribuciones:
 
-I. Definir la normatividad referente a la infraestructura tecnológica en las directrices en materia de tecnología para el Gobierno de Jalisco;
+I. Establecer la base normativa para asegurar la cadena de valor y la gobernabilidad integral de las TI en el Poder Ejecutivo del Estado, para la entrega eficaz y eficiente de servicios TI, alineados a las estrategias y requerimientos del propio Poder Ejecutivo del Estado;
 
-II. Evaluar, analizar y proponer el sistema de protección para computadoras personales y servidores de la red estatal de voz y datos;
+II. Normar la emisión de dictámenes técnicos asociados a los proyectos de TI de cada una de las dependencias, organismos y entidades del Poder Ejecutivo del Estado de Jalisco;
 
-III. Definir el sistema de protección en los equipos de telecomunicaciones que integran la red estatal de voz y datos;
+III. Elaborar, instrumentar y vigilar las políticas y lineamientos en materia de TI y mejores prácticas que deberán observar las dependencias, organismos y entidades del Poder Ejecutivo del Estado;
 
-IV. Definir e implementar normas, políticas, procesos y procedimientos, basados en estándares y en mejores prácticas, que permitan el óptimo aprovechamiento de los recursos en materia de tecnología;
+IV. Establecer las bases y directrices para evaluar el desempeño, las competencias, la funcionalidad y la seguridad de los recursos humanos y tecnológicos que participan en las acciones y programas de TI en las dependencias, organismos y entidades del Poder Ejecutivo;
 
-V. Normar y proyectar la adquisición de equipos de informática y de telecomunicaciones;
+V. Proponer el marco normativo que asegure que la tecnología cumple a satisfacción con sus objetivos en materia de distribución del valor;
 
-VI. Apoyar a las dependencias en la definición de una plataforma en infraestructura tecnológica que les permita aprovechar y optimizar los recursos informáticos en su dependencia;
+VI. Alinear la normatividad tecnológica con los estándares aplicables que identifiquen, evalúen, mitiguen, administren, comuniquen, monitoreen y prevean riesgos relacionados con TI como una parte integral del ambiente de Gobierno de TI;
 
-VII. Evaluar la infraestructura tecnológica que se pretenda adquirir relativa a cableados, conmutadores, troncales y suscripción a Internet;
+VII. Determinar las directrices para asegurar que el ambiente tecnológico cuenta con los recursos suficientes y capaces para ejecutar los objetivos estratégicos vigentes y futuros y hacer frente a las demandas institucionales para optimizar la inversión, uso y aprovechamiento de los activos tecnológicos;
 
-VIII. Asignar el plan de marcación y de direccionamiento IP en la red del Poder Ejecutivo, en función del control de la Red Global Digital;
+VIII. Establecer los objetivos y las métricas de soporte de TI hacia la Secretaría, en colaboración con las áreas que definan objetivos medibles, monitoreables y evaluables;
 
-IX. Brindar soporte técnico a todas las dependencias en cuanto a redes y telecomunicaciones de voz, datos, mensajería, video y cualquier tipo de información que fluya o se transporte en las redes;
+IX. Evaluar, analizar y proponer el sistema de protección para computadoras personales, equipos de telecomunicaciones y servidores de la red estatal de voz y datos;
 
-X. Definir parámetros de conexión, topología, configuraciones y estrategias, para enlazar las dependencias a las redes de transporte de voz, datos, mensajería y video;
+X. Normar la adquisición de equipos de informática y de telecomunicaciones;
 
-XI. Evaluar las nuevas tecnologías que puedan aplicarse en beneficio del desempeño de la Red Global Digital;
+XI. Evaluar la infraestructura tecnológica que se pretenda adquirir relativa a cableados, conmutadores, troncales y suscripción a Internet;
 
-XII. Mantener en óptimas condiciones la funcionalidad y rendimiento de la infraestructura tecnológica;
+XII. Evaluar y, en su caso, proponer el uso de nuevas tecnologías y planes de servicios de telefonía móvil y fija;
 
-XIII. Evaluar y, en su caso, proponer el uso de nuevas tecnologías y planes de servicios de telefonía móvil y fija;
+XIII. Revisar y autorizar los pagos en los servicios telefónicos, así como solicitar las bonificaciones correspondientes a las facturas de cada mes;
 
-XIV. Revisar y autorizar los pagos en los servicios telefónicos, así como solicitar las bonificaciones correspondientes a las facturas de cada mes;
+XIV. Realizar supervisiones en el gasto de los servicios telefónicos móviles y fijos, así como la solicitud de aclaración a la dependencia de dicho gasto;
 
-XV. Realizar supervisiones en el gasto de los servicios telefónicos móviles y fijos, así como la solicitud de aclaración a la dependencia de dicho gasto;
+XV. Normar las auditorías de seguridad dentro de la red para la detección de vulnerabilidades tanto físicas como lógicas para el desarrollo e implementación de los esquemas de seguridad necesarios;
 
-XVI. Realizar monitoreos constantes de la red para definir los crecimientos o disminuciones de servicios de comunicación, así como de equipamiento;
+XVI. Definir las metodologías y estándares para el desarrollo de las aplicaciones de software para el Poder Ejecutivo;
 
-XVII. Realizar los estudios y análisis de reingeniería de la red para la toma de decisiones en los planes de actualización, así como los análisis de crecimiento de la misma con el fin de reducir los costos de operación;
+XVII. Establecer los lineamientos para la creación de sitios web oficiales;
 
-XVIII. Realizar auditorías de seguridad dentro de la red para la detección de vulnerabilidades tanto físicas como lógicas para el desarrollo e implementación de los esquemas de seguridad necesarios;
+XVIII. Definir normas, metodologías y estándares en lo relativo a la estrategia tecnológica y planeación de proyectos, ingeniería de sistemas y sitios web, así como los servicios tecnológicos y operación de la red estatal;
 
-XIX. Administrar y controlar el licenciamiento de software de aplicaciones dentro del Poder Ejecutivo; y
+XIX. Evaluar nuevas tecnologías con base a las necesidades y proyectos actuales y futuros, así como dictaminar la viabilidad de su uso en las secretarías, dependencias, organismos auxiliares y paraestatales;
 
-XX. Validar técnicamente el equipo recibido en las adquisiciones en materia de tecnología.
+XX. Definir y mantener actualizado el catálogo de estándares de hardware y software, con la finalidad de contar siempre con tecnología informática de punta y acorde a las necesidades;
+
+XXI. Realizar consensos periódicamente por convocatoria con las áreas de informática de las secretarías, dependencias, organismos auxiliares y paraestatales, para revisar y actualizar los estándares de desarrollo de software;
+
+XXII. Proponer la metodología de administración de proyectos tecnológicos para el Poder Ejecutivo del Estado; e
+
+XXIII. Identificar y determinar los estándares de calidad y políticas aplicables para los proyectos encomendados, en coordinación con otras áreas de la Secretaría.
 
 #### Sección V. De la Dirección de Soporte Técnico y Servicios
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2012)</small>
 
 ###### Artículo 23.
 
 Son atribuciones de la Dirección de Soporte Técnico y Servicios, las siguientes:
 
-I. Definir la normatividad del capítulo relativo a los servicios tecnológicos en el documento de las directrices en materia de tecnología para el Gobierno de Jalisco;
+I. Establecer los servicios de soporte técnico de acuerdo a los lineamientos establecidos en el MARCO de TI;
 
-II. Establecer los servicios de soporte técnico de acuerdo a los lineamientos establecidos por la Dirección de Informática;
+II. Administrar y coordinar el escritorio de ayuda tecnológica establecido para atender a las secretarías, dependencias, organismos auxiliares y paraestatales;
 
-III. Gestionar y coordinar el Centro de Atención de Usuarios;
+III. Realizar los trámites correspondientes y el seguimiento a los servicios de garantía, asignación y baja de los equipos de cómputo de la Secretaría y de aquellas dependencias que así lo soliciten;
 
-IV. Realizar los trámites correspondientes y el seguimiento adecuado a los servicios de garantía de los equipos de cómputo;
+IV. Realizar el mantenimiento preventivo y correctivo al equipo de cómputo y telefonía de la Secretaría;
 
-V. Coordinar la recepción de equipo por adquisiciones;
+V. Orientar a usuarios finales y responsables de las áreas de tecnología de las secretarías y dependencias, en el uso racional y correcto del hardware y software aplicativo, vigilando el cumplimiento de la normatividad establecida;
 
-VI. Realizar mantenimiento preventivo y correctivo al equipo de cómputo y telefonía de la Secretaría;
+VI. Mantener actualizados los inventarios de equipos de cómputo y telefonía de la Secretaría, así como reportar periódicamente las modificaciones de inventarios a la Dirección de Control Patrimonial de la Dirección General de Logística;
 
-VII. Orientar a usuarios finales e informáticos en el uso racional y correcto del hardware y software aplicativo;
+VII. Gestionar los requerimientos de equipo de cómputo y de telefonía de usuarios de la Secretaría;
 
-VIII. Mantener actualizados los inventarios de equipos de cómputo y telefonía de la Secretaría así como reportar periódicamente las modificaciones de inventarios a la Dirección de Control Patrimonial;
+VIII. Controlar y administrar las licencias institucionales de software de las secretarías, dependencias y, en su caso, de los organismos auxiliares y paraestatales;
 
-IX. Controlar el inventario de recursos informáticos de la Secretaría;
+IX. Instalar y configurar, así como capacitar y asesorar a los usuarios finales y responsables de las áreas de tecnología de las secretarías y dependencias, acerca de los sistemas informáticos institucionales;
 
-X. Gestionar requerimientos de equipo de cómputo y de telefonía de usuarios de la Secretaría;
+X. Asesorar a los ayuntamientos que lo soliciten, en la operación del correo electrónico y su equipo de cómputo;
 
-XI. Controlar y administrar las licencias de software de secretarías, organismos auxiliares y paraestatales;
+XI. Proveer la instalación, reparación y reubicación de equipo informático y servicios tecnológicos;
 
-XII. Capacitar, instalar, configurar y asesorar a los usuarios finales e informáticos acerca de los sistemas informáticos institucionales;
+XII. Proporcionar instalaciones de cableado estructurado para adecuaciones de servicios de voz y de datos, principalmente en la Secretaría, así como en las secretarías, dependencias, organismos auxiliares y paraestatales que lo soliciten;
 
-XIII. Efectuar las instalaciones de software institucional utilizado por usuarios finales, apoyando y dando soporte en la capacitación a los usuarios;
+XIII. Realizar instalación y mantenimiento de equipos de telefonía en las dependencias del Poder Ejecutivo del Estado; y
 
-XIV. Asesorar a los ayuntamientos que lo soliciten, en la medida de las posibilidades de la Secretaría, en la operación del correo electrónico y su equipo de cómputo;
-
-XV. Capacitar, instalar, configurar y asesorar en lo relativo a las cuentas de red y de correo electrónico para usuarios finales e informáticos;
-
-XVI. Instalación, recepción, validación, reparación y reubicación de equipo informático, servicios tanto de voz como de datos, en nuevo equipamiento, cambios, actualizaciones y demás funciones;
-
-XVII. Proporcionar instalaciones de cableado estructurado, para adecuaciones de servicios de voz y de datos, principalmente en la Secretaría, así como en secretarías, organismos auxiliares y paraestatales que lo soliciten; y
-
-XVIII. Realizar instalación y mantenimiento básico de equipos multilíneas en las dependencias del Poder Ejecutivo.
+XIV. Administrar el direccionamiento IP de la Secretaría.
 
 ### Capítulo IV. De la Dirección General de Administración y Desarrollo de Personal
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2012)</small>
 
 ###### Artículo 24.
 
@@ -727,57 +845,51 @@ La Dirección General de Administración y Desarrollo de Personal, tendrá las s
 
 I. Establecer y aplicar las normas, sistemas, procedimientos y políticas para la administración y desarrollo de los recursos humanos del Poder Ejecutivo del Estado;
 
-II. Autorizar, programar y ejecutar, en coordinación con las demás Secretarías, organismos auxiliares y paraestatales, la planeación, el reclutamiento, selección, contratación, incidencias, evaluación del desempeño, capacitación, profesionalización y actualización de los servidores públicos del Poder Ejecutivo del Estado;
+II. Autorizar, programar y ejecutar, en coordinación con las demás secretarías y dependencias, la planeación, el reclutamiento, selección, contratación, incidencias, evaluación del desempeño, capacitación, profesionalización y actualización de los servidores públicos del Poder Ejecutivo del Estado;
 
-III. Evaluar y seleccionar al personal que le sea solicitado por las Secretarías, organismos auxiliares y paraestatales;
+III. Evaluar y seleccionar al personal que le sea solicitado por las secretarías y dependencias del Poder Ejecutivo;
 
-IV. Normar y homologar la metodología para el proceso de reclutamiento y selección de personal en las demás Secretarías, organismos auxiliares y paraestatales;
+IV. Normar y homologar la metodología para el proceso de reclutamiento y selección de personal en las demás secretarías y dependencias del Poder Ejecutivo;
 
-V. Determinar, en coordinación con la Dirección General de Innovación y Mejora Gubernamental, las plazas requeridas por las Secretarías, organismos auxiliares y paraestatales y planificar su aprovisionamiento;
+V. Determinar, en coordinación con la Dirección General de Innovación y Mejora Gubernamental, las plazas requeridas por las secretarías y dependencias, y planificar su aprovisionamiento;
 
-VI. Tramitar los movimientos de personal que le sean solicitados por las Secretarías, organismos auxiliares y paraestatales;
+VI. Tramitar los movimientos de personal que le sean solicitados por las secretarías y dependencias del Poder Ejecutivo;
 
 VII. Conocer y resolver sobre las compatibilidades e incompatibilidades de empleo de los servidores públicos, conforme a las disposiciones legales y reglamentarias aplicables en la materia;
 
 VIII. Representar a la Secretaría en las comisiones mixtas de escalafón, capacitación y seguridad e higiene; así como en todas aquellas en que participe relativas a las relaciones laborales con sus servidores públicos;
 
-IX. Normar, elaborar y aplicar la política salarial para el personal al servicio de las Secretarías, organismos auxiliares y paraestatales;
+IX. Normar, elaborar y aplicar la política salarial para el personal al servicio de las secretarías y dependencias del Poder Ejecutivo;
 
-X. Dictaminar sobre las propuestas y promover el otorgamiento de premios, estímulos y recompensas a que se hagan acreedores los servidores públicos del Poder Ejecutivo del Estado;
+X. Normar y administrar el "Plan Múltiple de Beneficios para los Trabajadores del Gobierno del Estado" y de los organismos descentralizados que se adhieran al mismo;
 
-XI. Normar y administrar el "Plan Múltiple de Beneficios para los Trabajadores del Gobierno del Estado" y de los organismos descentralizados que se adhieran al mismo;
+XI. Brindar consulta externa y atención complementaria a la que proporcione el Instituto Mexicano del Seguro Social, a los servidores públicos del Poder Ejecutivo del Estado de Jalisco;
 
-XII. Brindar consulta externa y atención complementaria a la que proporcione el Instituto Mexicano del Seguro Social, a los servidores públicos del Poder Ejecutivo del Estado de Jalisco;
+XII. Recibir y dar trámite a las incapacidades de los servidores públicos de las secretarías y dependencias del Poder Ejecutivo;
 
-XIII. Recibir y dar trámite a las incapacidades de los servidores públicos de las Secretarías, organismos auxiliares y paraestatales;
+XIII. Ordenar la práctica de los exámenes médicos necesarios sobre el estado de salud de los aspirantes a servidores públicos;
 
-XIV. Ordenar la práctica de los exámenes médicos necesarios y dictaminar sobre el estado de salud de los aspirantes a servidores públicos;
+XIV. Normar, autorizar y tramitar las solicitudes de inclusión al programa de gastos médicos mayores;
 
-XV. Normar, autorizar y tramitar las solicitudes de inclusión al programa de gastos médicos mayores;
+XV. Promover la capacitación y el desarrollo de los servidores públicos que laboran en las secretarías y dependencias del Poder Ejecutivo;
 
-XVI. Promover la capacitación y el desarrollo de los servidores públicos que laboran en las Secretarías, organismos auxiliares y paraestatales;
+XVI. Instaurar y vigilar la operación del esquema de profesionalización para los servidores públicos del Poder Ejecutivo del Estado;
 
-XVII. Instaurar y vigilar la operación del esquema de profesionalización para los servidores públicos del Poder Ejecutivo del Estado de Jalisco;
+XVII. Definir, en coordinación con las secretarías y dependencias del Poder Ejecutivo del Estado, las líneas de carrera de los servidores públicos;
 
-XVIII. Normar, administrar y operar el servicio profesional de carrera;
+XVIII. Normar y coordinar la actualización permanente de las descripciones y análisis de puestos en las secretarías y dependencias del Poder Ejecutivo del Estado de Jalisco;
 
-XIX. Definir, en coordinación con las Secretarías, organismos auxiliares y paraestatales, las líneas de carrera de los servidores públicos;
+XIX. Integrar y promover la bolsa de trabajo del Poder Ejecutivo del Estado de Jalisco;
 
-XX. Supervisar que las Secretarías, organismos auxiliares y paraestatales, tengan completo y vigente el Manual de Descripciones de Puestos y el Censo de Recursos Humanos;
+XX. Expedir la constancia de antigüedad al servicio de la administración pública estatal a los servidores públicos del Poder Ejecutivo;
 
-XXI. Integrar y promover la bolsa de trabajo del Poder Ejecutivo del Estado de Jalisco;
+XXI. Vigilar el cumplimiento de las condiciones generales de trabajo de la Secretaría;
 
-XXII. Expedir la constancia de antigüedad al servicio de la administración pública estatal a los servidores públicos del Poder Ejecutivo;
+XXII. Administrar los recursos humanos, plantilla interna de personal, pago oportuno y trámite de los movimientos del personal de la Secretaría;
 
-XXIII. Vigilar el cumplimiento de las condiciones generales de trabajo de la Secretaría;
+XXIII. Tramitar el pago de las prestaciones a las que tengan derecho los servidores públicos que finiquitan su relación de trabajo con las secretarias y dependencias del Poder Ejecutivo, así como el pago de todas aquellas erogaciones que sean resultado de laudos a favor de los servidores públicos de dicho Poder; y
 
-XXIV. Administrar los recursos humanos, plantilla interna de personal, pago oportuno y trámite de los movimientos del personal de la Secretaría;
-
-XXV. Tramitar las retenciones y eliminación de cuota sindical de los servidores públicos de base del Poder Ejecutivo;
-
-XXVI. Tramitar el pago de las prestaciones a las que tengan derecho los servidores públicos que finiquitan su relación de trabajo con las dependencias del Poder Ejecutivo, así como el pago de todas aquellas erogaciones que sean resultado de laudos a favor de los servidores públicos de dicho Poder; y
-
-XXVII. Las demás que le confieran las disposiciones legales en la materia, así como aquellas que sean delegadas por el Secretario.
+XXIV. Las demás que le confieran las disposiciones legales en la materia, así como aquellas que sean delegadas por el Secretario.
 
 ###### Artículo 25.
 
@@ -793,25 +905,31 @@ IV. Dirección de Formación y Capacitación.
 
 #### Sección I. De la Dirección de Administración de Sueldos
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2012)</small>
+
 ###### Artículo 26.
 
 Serán atribuciones de la Dirección de Administración de Sueldos, las siguientes:
 
-I. Definir las políticas de administración de sueldos del Poder Ejecutivo;
+I. Definir las políticas salariales del Poder Ejecutivo;
 
-II. Diseñar y actualizar el tabulador de sueldos del Poder Ejecutivo;
+II. Diseñar, analizar y actualizar los tabuladores de sueldos y prestaciones del Poder Ejecutivo;
 
-III. Elaborar y actualizar el catálogo de puestos en el Poder Ejecutivo;
+III. Elaborar y actualizar los catálogos de puestos y de centros de trabajo en el Poder Ejecutivo;
 
-IV. Dictaminar sobre propuestas y promover el otorgamiento de percepciones de periodicidad distinta a las autorizadas dentro del tabulador de sueldos, en los términos de las condiciones generales de trabajo y disposiciones legales y reglamentarias aplicables en la materia;
+IV. Dictaminar sobre propuestas de otorgamiento de percepciones de periodicidad distinta a las autorizadas dentro del tabulador de sueldos, en los términos de las condiciones generales de trabajo y disposiciones legales y reglamentarias aplicables en la materia;
 
-V. Planear las plantillas de personal que integrará el proyecto de presupuesto de egresos;
+V. Planear y elaborar las plantillas de personal que integrará el proyecto de presupuesto de egresos;
 
 VI. Normar y administrar el "Plan Múltiple de Beneficios para los Trabajadores del Gobierno del Estado";
 
-VII. Controlar las modificaciones de plantillas, conforme a las políticas presupuestales en vigor; e
+VII. Controlar las modificaciones de plantillas, conforme a las políticas presupuestales en vigor;
 
-VIII. Integrar y presidir el Comité Técnico de Valuación de Puestos.
+VIII. Integrar y presidir el Comité Interinstitucional para la valuación de puestos;
+
+IX. Dictaminar sobre actualizaciones salariales y comportamiento de plazas de ejercicios presupuestales anteriores al vigente, para el personal afiliado al régimen voluntario de Pensiones del Estado que lo requiera, dentro de la estructura de las dependencias del Poder Ejecutivo del Estado de Jalisco; y
+
+X. Dictaminar el carácter de la categoría del puesto, como de base o de confianza, según sea el caso, de las plazas de la plantilla de personal de la Secretaría.
 
 #### Sección II. De la Dirección de Control de Personal
 
@@ -825,39 +943,49 @@ II. Evaluar y emitir resoluciones de las compatibilidades de los servidores púb
 
 III. Controlar las plazas, movimientos e incidencias del personal del Poder Ejecutivo, conforme a la plantilla autorizada en el Presupuesto de Egresos;
 
-IV. Vigilar y garantizar que se efectúen los trámites de movimientos de personal requeridos por las secretarías, organismos auxiliares y paraestatales;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
 
-V. Expedir hojas de servicio, trámites de pago de quinquenio y constancias de ingreso, credenciales únicas de identificación, así como cualquier otro servicio relacionado al personal que labora en las secretarías, organismos auxiliares y paraestatales;
+IV. Vigilar y garantizar que se efectúen los trámites de movimientos de personal requeridos por las secretarías y dependencias del Poder Ejecutivo;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
+
+V. Expedir hojas de servicio, trámites de pago de quinquenio y constancias de ingreso, credenciales únicas de identificación, así como cualquier otro servicio relacionado al personal que labora en las secretarías y dependencias del Poder Ejecutivo del Estado;
 
 VI. Realizar los trámites administrativos relativos a la seguridad social y de gastos médicos mayores, mediante los cuales se garantice la prestación de los servicios médicos de los trabajadores al servicio del Poder Ejecutivo;
 
 VII. Emitir los reportes estadísticos a las autoridades nacionales y estatales integradoras de la información estadística;
 
-VIII. Administrar los recursos humanos de la Secretaría; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
 
-IX. Administrar, controlar y supervisar a los prestadores de servicio social asignados a la dependencia.
+VIII. Administrar los recursos humanos de la Secretaría;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
+
+IX. Administrar, controlar y supervisar a los prestadores de servicio social asignados a la dependencia; y
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2012)</small>
+
+X. Controlar y resguardar el expediente completo de cada uno de los servidores públicos del Poder Ejecutivo y el censo de recursos humanos.
 
 #### Sección III. De la Dirección de Planeación y Desarrollo de Recursos Humanos
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2012)</small>
 
 ###### Artículo 28.
 
 La Dirección de Planeación y Desarrollo de Recursos Humanos tendrá las siguientes atribuciones:
 
-I. Elaborar y administrar, en conjunto con las secretarías, el plan estratégico de la función de recursos humanos alineado a la misión y objetivos institucionales establecidos en el Plan Estatal de Desarrollo;
+I. Integrar y promover la bolsa de trabajo que brinde servicio a las secretarías y dependencias del Poder Ejecutivo;
 
-II. Integrar y promover la bolsa de trabajo que brinde servicio a las Secretarías del Poder Ejecutivo;
+II. Reclutar y seleccionar a candidatos para ocupar puestos vacantes dentro del Poder Ejecutivo, con excepción del personal operativo de las áreas de seguridad;
 
-III. Reclutar y seleccionar a candidatos para ocupar puestos vacantes dentro del Poder Ejecutivo, con excepción del personal operativo de las áreas de seguridad;
+III. Proponer y coordinar los esquemas de evaluación de desempeño de los servidores públicos;
 
-IV. Mantener actualizados los datos generales y currículo de los servidores públicos del Poder Ejecutivo, así como los resultados de las mediciones del desempeño que les hayan sido efectuadas y demás factores inherentes a su desarrollo;
+IV. Coordinar la actualización permanente de las descripciones y análisis de puestos, y del catálogo de puestos;
 
-V. Mantener la actualización permanente de las descripciones y análisis de puestos, y del catálogo de puestos;
+V. Proponer el marco normativo para el proceso de profesionalización de los servidores públicos del Poder Ejecutivo; e
 
-VI. Vigilar el cumplimiento de la normatividad relacionada con sus funciones, así como establecer y supervisar el funcionamiento del proceso de profesionalización del personal de carrera en el Poder Ejecutivo del Estado;
-
-VII. Integrar la documentación de las solicitudes de evaluación de los aspirantes de ingreso o promoción al proceso de profesionalización para el personal de carrera; e
-
-VIII. Implementar herramientas para la medición del desempeño del personal de Gobierno del Estado.
+VI. Implementar herramientas para la medición del desempeño del personal de Gobierno del Estado.
 
 #### Sección IV. De la Dirección de Formación y Capacitación
 
@@ -869,15 +997,21 @@ I. Impulsar y promover la capacitación de los servidores públicos del Poder Ej
 
 II. Coordinar el desarrollo y la aplicación del programa institucional de capacitación;
 
-III. Establecer políticas y lineamientos para la programación y ejecución anual de la capacitación especializada de los servidores públicos de las secretarías;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
+
+III. Establecer políticas y lineamientos para la programación y ejecución anual de la capacitación especializada de los servidores públicos de las secretarías y dependencias del Poder Ejecutivo;
 
 IV. Administrar el Centro de Capacitación del Servidor Público;
 
-V. Coordinar y validar la detección de necesidades de capacitación de las secretarías;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
+
+V. Coordinar y validar la detección de necesidades de capacitación de las secretarías y dependencias del Poder Ejecutivo del Estado;
 
 VI. Planear, programar y ejecutar el programa de profesionalización y capacitación institucional; y
 
-VII. Coadyuvar en la impartición y autorización de la capacitación especializada para las secretarías.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
+
+VII. Coadyuvar en la impartición y autorización de la capacitación especializada para las secretarías y dependencias del Poder Ejecutivo.
 
 ### Capítulo V. De la Dirección General de Abastecimientos
 
@@ -891,7 +1025,7 @@ II. Convocar y publicar en Internet los requerimientos de bienes muebles y servi
 
 III. Asignar las órdenes de adquisición de bienes muebles y servicios del Poder Ejecutivo autorizadas;
 
-IV. Adquirir los bienes muebles y servicios que requieran las secretarías, organismos auxiliares y paraestatales;
+VI. (DEROGADA, P.O. 7 DE JUNIO DE 2012)
 
 V. Actualizar y difundir el Manual de Adquisiciones y Administración de Almacenes;
 
@@ -947,9 +1081,17 @@ II. Promover la consolidación de requerimientos para la realización de compras
 
 III. Procurar las mejores condiciones para la adquisición de bienes y servicios del Poder Ejecutivo;
 
-IV. Mantener actualizada la documentación y su archivo respecto de las adquisiciones; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
 
-V. Mantener una comunicación constante con las dependencias para atender sus requerimientos y coordinar las adquisiciones de bienes y servicios.
+IV. Mantener actualizada la documentación y su archivo respecto de las adquisiciones;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
+
+V. Mantener una comunicación constante con las dependencias para atender sus requerimientos y coordinar las adquisiciones de bienes y servicios; y
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2012)</small>
+
+VI. Realizar las adquisiciones de acuerdo a la normatividad federal, cuando los recursos destinados a una dependencia, órgano desconcentrado u organismo auxiliar del Poder Ejecutivo del Estado, sean de esa índole y no exista disposición en contrario.
 
 #### Sección III. De la Dirección de Desarrollo de Proveedores
 
@@ -959,7 +1101,7 @@ Son atribuciones de la Dirección de Desarrollo de Proveedores, las siguientes:
 
 I. Planear y dirigir la generación de información estadística para la conformación de informes;
 
-II. Planear, dirigir, analizar y dar seguimiento a las auditorías practicadas a las empresas proveedoras;
+II. (DEROGADA, P.O. 7 DE JUNIO DE 2012)
 
 III. Ejercer las acciones correctivas derivadas del desempeño del proveedor y solicitar planes de mejora para evitar las incidencias;
 
@@ -977,7 +1119,9 @@ IX. Ejecutar la entrega y recepción de información y documentación derivada d
 
 X. Capacitar a los usuarios de los trámites internos;
 
-XI. Promocionar los diferentes procesos de adquisición vigentes, para obtener una mayor participación y transparencia en beneficio del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
+
+XI. Dar a conocer los procesos de adquisición vigentes, para obtener una mayor participación y transparencia en beneficio del Estado de Jalisco;
 
 XII. Realizar la capacitación y puesta en marcha de nuevos sistemas electrónicos de compras; y
 
@@ -1041,6 +1185,8 @@ XXV. Las demás que le confieran las disposiciones legales en la materia, así c
 
 Las atribuciones de la Dirección General de Logística, relativas a los bienes inmuebles del Gobierno del Estado, se ejercerán en coordinación con las demás dependencias que, conforme al marco legal, corresponda también conocer de la administración de dichos inmuebles.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2012)</small>
+
 ###### Artículo 36.
 
 La Dirección General de Logística contará para su funcionamiento, con las siguientes Direcciones de Área:
@@ -1049,11 +1195,9 @@ I. Dirección de Control Patrimonial;
 
 II. Dirección de Conservación y Racionalización;
 
-III. Dirección de Servicios Generales;
+III. Dirección de Servicios Generales; y
 
-IV. Dirección de Almacenes; y
-
-V. Dirección de Estacionamientos.
+IV. Dirección de Almacenes.
 
 #### Sección I. De la Dirección de Control Patrimonial
 
@@ -1091,7 +1235,9 @@ XIV. Dar trámite y seguimiento de los siniestros reportados por los integrantes
 
 XV. Administrar las pólizas de seguro realizando en tiempo los movimientos de altas y bajas solicitados por las secretarías, organismos auxiliares y paraestatales; y
 
-Tramitar, a favor de los organismos públicos descentralizados que soliciten sus seguros, los pagos por concepto de primas que les corresponden por la adhesión a la póliza del Gobierno del Estado y remitir los cheques correspondientes a las indemnizaciones de sus bienes.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
+
+XVI. Tramitar, a favor de los organismos públicos descentralizados que soliciten sus seguros, los pagos por concepto de primas que les corresponden por la adhesión a la póliza del Gobierno del Estado y remitir los cheques correspondientes a las indemnizaciones de sus bienes.
 
 #### Sección II. De la Dirección de Conservación y Racionalización
 
@@ -1111,9 +1257,17 @@ V. Administrar, evaluar y opinar respecto del otorgamiento de bienes inmuebles e
 
 VI. Asistir a las aperturas técnicas de obras públicas como representante de la Secretaría con voz y voto;
 
-VII. Asesorar y apoyar en el mantenimiento y conservación de bienes inmuebles de los organismos auxiliares, previa solicitud de por medio y previa valoración que al respecto se realice; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
 
-VIII. Definir los criterios para la adaptación y acondicionamiento de los bienes inmuebles de las dependencias Poder (sic) Ejecutivo del Estado.
+VII. Asesorar y apoyar en el mantenimiento y conservación de bienes inmuebles de los organismos auxiliares, previa solicitud y valoración que al respecto se realice;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
+
+VIII. Definir los criterios para la adaptación y acondicionamiento de los bienes inmuebles de las dependencias del Poder Ejecutivo del Estado; y
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2012)</small>
+
+IX. Realizar las adquisiciones de bienes y servicios conforme a los lineamientos y montos autorizados en el ámbito de su competencia, para el mantenimiento de equipos y conservación de inmuebles, de acuerdo a la normatividad federal o estatal, según corresponda.
 
 #### Sección III. De la Dirección de Servicios Generales
 
@@ -1187,15 +1341,7 @@ VI. Integrar los expedientes que sustenten las adquisiciones realizadas por las 
 
 ###### Artículo 41.
 
-Serán atribuciones de la Dirección de Estacionamientos, las siguientes:
-
-I. Aplicar normas, políticas y procedimientos que permitan optimizar los servicios que ofrecen los estacionamientos de uso público administrados por el Poder Ejecutivo;
-
-II. Administrar, controlar y depositar los ingresos obtenidos por los estacionamientos desde su recepción hasta su entrega a la Secretaría de Finanzas;
-
-III. Supervisar la limpieza y conservación de todas las áreas de los estacionamientos que estén adscritos a la dirección; y
-
-IV. Coordinar los servicios de seguridad y vigilancia que se lleven a cabo en los estacionamientos a su cargo.
+(DEROGADO, P.O. 7 DE JUNIO DE 2012)
 
 ### Capítulo VII. De la Dirección General de Innovación y Mejora Gubernamental
 
@@ -1381,7 +1527,9 @@ IX. Asesorar a los Organismos Paraestatales en cuanto a la aplicación de leyes,
 
 X. Coordinar todo lo relativo al IMSS respecto de los Organismos Paraestatales y municipios; y
 
-XI. Participar y ejecutar los acuerdos de las reuniones intersecretariales de las Secretarías de Finanzas, Administración y Contraloría del Estado.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2012)</small>
+
+XI. Participar y ejecutar los acuerdos de las reuniones intersecretariales de las Secretarías de Finanzas, Administración y la Contraloría del Estado.
 
 #### Sección II. De la Dirección de Unidades Regionales
 
@@ -1456,3 +1604,9 @@ LIC. JOSÉ RICARDO SERRANO LEYZAOLA
 Secretario de Administración
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE JUNIO DE 2012.
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco"
