@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-transparencia-y-acceso-a-la-informacion-24956"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2002-06-11"
-last_updated: "2012-04-09"
+last_updated: "2012-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24956&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-06-10"
 
 LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA GUBERNAMENTAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE JUNIO DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 11 de junio de 2002.
 
@@ -397,9 +397,11 @@ III. El titular del órgano interno de control de cada dependencia o entidad.
 
 El Comité adoptará sus decisiones por mayoría de votos.
 
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2012)</small>
+
 ###### Artículo 31.
 
-El Centro de Investigación y Seguridad Nacional; el Centro de Planeación para el Control de Drogas; la Dirección de Coordinación de Inteligencia de la Policía Federal Preventiva; la Unidad contra la Delincuencia Organizada; el Estado Mayor Presidencial, el Estado Mayor de la Defensa Nacional y el Estado Mayor General de la Armada o bien, las unidades administrativas que los sustituyan, no estarán sujetos a la autoridad de los Comités a que se refiere el Artículo 29, siendo sus funciones responsabilidad exclusiva del titular de la propia unidad administrativa.
+El Centro de Investigación y Seguridad Nacional; el Centro Nacional de Planeación, Análisis e Información para el Combate a la Delincuencia; el Centro Federal de Protección a Personas; la Dirección de Coordinación de Inteligencia de la Policía Federal Preventiva; la Subprocuraduría de Investigación Especializada en Delincuencia Organizada; el Estado Mayor Presidencial, el Estado Mayor de la Defensa Nacional y el Estado Mayor General de la Armada o bien, las unidades administrativas que los sustituyan, no estarán sujetos a la autoridad de los Comités a que se refiere el Artículo 29, siendo sus funciones responsabilidad exclusiva del titular de la propia unidad administrativa.
 
 ###### Artículo 32.
 
@@ -407,7 +409,7 @@ Corresponderá al Archivo General de la Nación elaborar, en coordinación con e
 
 Los titulares de las dependencias y entidades, de conformidad con las disposiciones aplicables, deberán asegurar el adecuado funcionamiento de los archivos. Asimismo, deberán elaborar y poner a disposición del público una guía simple de sus sistemas de clasificación y catalogación, así como de la organización del archivo.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE JULIO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 5 DE JULIO DE 2010)</small>
 
 ### Capítulo II. Del Instituto
 
@@ -769,7 +771,7 @@ México, D.F., a 30 de abril de 2002.- Dip. Beatriz Elena Paredes Rangel, Presid
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de junio de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 11 DE MAYO DE 2004.
 
@@ -790,3 +792,7 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 8 DE JUNIO DE 2012.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
