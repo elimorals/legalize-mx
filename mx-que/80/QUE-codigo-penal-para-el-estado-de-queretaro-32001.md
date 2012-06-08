@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2012-05-18"
+last_updated: "2012-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # CODIGO PENAL PARA EL ESTADO DE QUERETARO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE JULIO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -1223,15 +1225,17 @@ En el caso de la fracción anterior, se perseguirá de oficio a excepción de cu
 
 En los casos de las fracciones I, II, III y V del artículo 127 de esta Ley, el delito se perseguirá a petición del ofendido; a excepción de las lesiones descritas en la fracción V, por las cuales podrán querellarse el Ministerio Público o los representantes del ofendido cuando en razón de las lesiones inferidas no pueda manifestar su voluntad.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
 
 ###### ARTICULO 129.
 
-Cuando en las lesiones concurra alguna de las circunstancias calificativas a que se refiere el artículo 131 de este Código, se infieran en agravio de un menor o incapaz sujeto a su tutela, custodia o guarda o se originen por un conductor de vehículo de motor que preste servicio de transporte público, personal o escolar, se aumentará hasta en una mitad la pena correspondiente a la lesión inferida.
+Cuando en las lesiones concurra alguna de las circunstancias a que se refiere el artículo 131 de esta Ley o se infieran en agravio de una persona mayor de sesenta años, un menor o persona que no tiene capacidad para comprender el significado del hecho o capacidad para resistirlo, sujeto a su tutela, custodia o guarda, se aumentará, hasta en una mitad, la pena correspondiente a la lesión inferida.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
 
 ###### ARTICULO 130.
 
-Si las lesiones se infieren en agravio de un menor o incapaz sujeto a la patria potestad, tutela, custodia o guarda, se privará al agente en el ejercicio de sus derechos, independientemente de las penas que correspondan conforme a los Artículos anteriores de este Código.
+Si las lesiones se infieren en agravio de un menor o persona que no tiene capacidad para comprender el significado del hecho o capacidad para resistirlo, sujeto a la patria potestad, tutela, custodia o guarda, se privará al agente en el ejercicio de sus derechos, independientemente de las penas que correspondan conforme a los artículos anteriores.
 
 ### CAPITULO V. ABORTO
 
@@ -1291,7 +1295,9 @@ Al que instigue o ayude a otro para que se suicide se le impondrá prisión de u
 
 Si el suicidio no se consuma, se impondrá prisión de 6 meses a tres años.
 
-Si la persona a quien se instigue o ayude al suicidio fuere menor de edad o no tuviera capacidad de comprender la relevancia de su conducta o de determinarse de acuerdo a esa comprensión, se impondrá pena de 15 a 30 años de prisión.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
+
+Si la persona a quien se instigue o ayude al suicidio, fuere menor de edad o persona que no tuviera capacidad para comprender el significado del hecho o capacidad de determinarse de acuerdo a esa comprensión o tuviere discapacidad física o sensorial o sea mayor de sesenta años de edad, se impondrá pena de 15 a 30 años de prisión.
 
 ### CAPITULO II. OMISIÓN DE CUIDADO
 
@@ -1302,6 +1308,10 @@ Comete el delito de aborto el que causa la muerte al producto de la concepción 
 ###### ARTICULO 137.
 
 Al que hiciere abortar a una mujer con consentimiento de ésta se le aplicará de uno a tres años de prisión. Cuando falte el consentimiento, la prisión será de cuatro a siete años, y si mediare violencia física o moral, de siete a nueve años.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2012)</small>
+
+Las penas previstas en este artículo se incrementarán hasta en una mitad más, cuando la gestante sea menor de edad o no tenga capacidad para comprender el significado del hecho.
 
 ###### ARTICULO 138.
 
@@ -1389,7 +1399,9 @@ La pena prevista en el Artículo anterior se aumentará hasta en una mitad más 
 
 I.- Que se realice con violencia o se veje a la víctima;
 
-II.- Que la víctima sea menor de dieciséis años de edad o que por cualquier otra circunstancia esté en situación de inferioridad física respecto del agente, y (sic)
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2012)</small>
+
+II.- Que la víctima sea una persona menor de edad o mayor de sesenta años de edad o persona que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo o que por cualquier otra circunstancia se encuentre en situación de inferioridad física respecto del agente;
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 1999)</small>
 
@@ -1405,11 +1417,15 @@ IV. Que la privación de la libertad tenga el propósito de realizar un acto er�
 
 Si la víctima es puesta en libertad espontáneamente, dentro de las veinticuatro horas siguientes a la comisión del delito, sin haber causado daño, se podrá disminuir la pena hasta la mitad.
 
-> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2008)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2008)</small>
 
 ARTICULO 149 BIS.- Cuando la privación de la libertad se realice con la finalidad de obtener un lucro mediante el uso de cualquier medio bancario, electrónico o informático o para lograr la entrega o el apoderamiento de cualquier bien, por sí o por parte de un tercero activo, siempre y cuando la privación de la libertad dure el tiempo estrictamente necesario para obtener el lucro y fuera de los casos de los artículos 150 y 150 BIS de este Código, se impondrá prisión de seis a quince años y de cien a doscientos cincuenta días multa, sin perjuicio de aplicar las reglas del concurso.
 
-La pena se aumentará en una mitad cuando concurran algunas de las agravantes señaladas en este Código para el delito de secuestro, o si se vejare o se torturase a la víctima o si se lleva a cabo por dos o más personas armadas o llevando cualquier instrumento peligroso o que la víctima sea menor de edad, mayor de sesenta años, que sea mujer en estado de embarazo o que por cualquiera otra circunstancia esté en situación de inferioridad física respecto del agente.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
+
+La pena se aumentará en una mitad, cuando concurran algunas de las agravantes señaladas en este Código para el delito de secuestro o si se vejare o se torturare a la víctima o si se lleva a cabo por dos o más personas armadas o llevando cualquier instrumento peligroso o que la víctima sea menor de edad o mayor de sesenta años o que sea mujer en estado de embarazo o que sea persona que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo o que por cualquiera otra circunstancia se encuentre en situación de inferioridad física respecto del agente.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2008)</small>
 
 Cuando participen de cualquier manera en la comisión de este ilícito, personas que sean o hayan sido servidores públicos encargados de prevenir, denunciar, investigar, juzgar la comisión de delitos o ejecutar penas y medidas de seguridad o sean miembros de alguna corporación de seguridad pública o privada, la pena de prisión se aumentará en una mitad y será motivo de inhabilitación para ocupar cargos del servicio público o ser miembro de una corporación de seguridad por un tiempo igual al de la pena de prisión impuesta.
 
@@ -1437,7 +1453,9 @@ III.- Que se lleve a cabo por dos o más personas;
 
 IV.- Que se realice con violencia, se vejare o se torturase a la víctima, y (sic)
 
-V.- Que la víctima sea menor de dieciséis años de edad o que por cualquiera otra circunstancia esté en situación de inferioridad física respecto del agente.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2012)</small>
+
+V.- Que la víctima sea una persona menor de edad o mayor de sesenta años de edad o persona que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo o que por cualquier otra circunstancia se encuentre en situación de inferioridad física respecto del agente;
 
 > <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2008)</small>
 
@@ -1585,11 +1603,13 @@ A quien sin autorización conozca, obtenga, copie o utilice información conteni
 
 Al que intimide a otro con causarle daño en su persona o en sus bienes o le trate de impedir lo que tiene derecho a hacer o en la persona o bienes de un tercero con quien el ofendido tenga vínculos de amor amistad, parentesco, gratitud o cualquier otro, se le impondrá prisión de tres meses a un año o trabajo a favor de la comunidad por seis meses.
 
-> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
 
-Si la persona ofendida fuere alguno de los parientes o personas a que se refieren los artículos 217 bis y 217 ter, en este último caso, siempre y cuando habiten en el mismo domicilio, se aumentará la pena prevista en una tercera parte, sin perjuicio del concurso de delitos.
+Si la persona ofendida fuere alguno de los parientes o personas a que se refieren los artículos 217 BIS y 217 TER, en este último caso, siempre y cuando habiten en el mismo domicilio; o bien, que la persona ofendida sea un menor de edad o mayor de sesenta años de edad o persona con discapacidad mental, intelectual, física o sensorial, se aumentará la pena prevista hasta en una tercera parte, sin perjuicio del concurso de delitos.
 
-Este delito sólo se perseguirá a petición del ofendido.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
+
+Este delito se perseguirá a petición del ofendido, excepto cuando la persona ofendida fuere un menor de edad o mayor de sesenta años o persona con discapacidad mental, intelectual, física o sensorial, se perseguirá de oficio.
 
 ### CAPITULO I. VIOLACIÓN
 
@@ -1600,6 +1620,10 @@ Este delito sólo se perseguirá a petición del ofendido.
 Al que en lugar solitario o desprotegido haga uso de la violencia sobre una o más personas con el propósito de causar el mal, obtener un lucro o exigirse asentimiento para cualquier fin, se le sancionará con prisión de uno a seis años.
 
 En caso de que el asaltante logre su fin, se acumulará a la pena señalada en el párrafo anterior, la que corresponde al delito que resulte.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2012)</small>
+
+Si el delito se comete en contra de un menor de edad o mayor de sesenta años de edad o persona que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo, la pena prevista en el primer párrafo de este artículo se aumentará hasta en una mitad más.
 
 ###### ARTICULO 157.
 
@@ -1619,6 +1643,12 @@ INVIOLABILIDAD DEL DOMICILIO
 
 Al que sin consentimiento de la persona que legítimamente pueda otorgarlo, o empleando engaño se introduzca en casa habitación o sus dependencias o permanezca en ellas sin la anuencia de quien este facultado para darla, se le impondrá prisión de tres meses a tres años.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2012)</small>
+
+Cuando el sujeto pasivo sea persona mayor de sesenta años de edad o persona con discapacidad mental, intelectual, física o sensorial, las penas previstas en este artículo se incrementarán hasta en una tercera parte.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 8 DE JUNIO DE 2012)</small>
+
 Si el medio empleado fuere la violencia, la penalidad se aumentará hasta en una mitad más. Este delito se perseguirá por querella de la parte ofendida.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE ABRIL DE 2011)</small>
@@ -1637,7 +1667,9 @@ Cuando el sujeto activo sea servidor público, y utilice los medios o circunstan
 
 Cuando exista relación jerárquica entre los sujetos activo y pasivo, la pena se incrementará hasta en una tercera parte.
 
-Si el sujeto pasivo fuera menor de edad, la pena se duplicará.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
+
+Si el sujeto pasivo fuera menor de edad o mayor de sesenta años de edad o persona que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo, la pena se duplicará.
 
 Este delito se perseguirá por querella.
 
@@ -1911,7 +1943,13 @@ Si en los actos mencionados participa algún servidor público que tenga a su ca
 
 > <small>(ADICIONADA, P.O. 21 DE ENERO DE 2011)</small>
 
-ARTÍCULO 183 TER.- Se sancionará con pena de tres a quince años de prisión y. de 100 a 750 días multa, si el robo se realiza en edificio, vivienda, aposento o cuarto que estén habitados o destinados para habitación, comprendiéndose en esta denominación no sólo los que estén fijos en la tierra, sino también los móviles, sea cual fuere la materia de que estén construidos.
+ARTICULO 183 TER.- Se sancionará con pena de tres a quince años de prisión y. de 100 a 750 días multa, si el robo se realiza en edificio, vivienda, aposento o cuarto que estén habitados o destinados para habitación, comprendiéndose en esta denominación no sólo los que estén fijos en la tierra, sino también los móviles, sea cual fuere la materia de que estén construidos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA LEY QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2012)</small>
+
+ARTICULO 183 QUÁTER.- Se sancionará con pena de uno a quince años de prisión y de 100 a 750 días multa, si el robo se realiza en bodega, edificio, local comercial o cuarto que estén destinados para ejercer el comercio, comprendiéndose en esta denominación no solo los que estén fijos en la tierra, sino también los móviles, sea cual fuere la materia de la que estén construidos.
 
 ###### ARTICULO 184.
 
@@ -1979,6 +2017,10 @@ I.- Prisión de 3 meses a 4 años y hasta 180 días multa cuando el valor de lo 
 
 II.- Prisión de 4 a 10 años y de 180 a 500 días multa, cuando el valor de lo dispuesto exceda de 600 veces el salario mínimo.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2012)</small>
+
+Cuando el delito se cometa en contra de persona menor de edad o mayor de sesenta años de edad o persona con discapacidad mental, intelectual, física o sensorial, las penas que correspondan se incrementarán una tercera parte.
+
 ###### ARTICULO 192.
 
 Se le aplicarán las mismas sanciones previstas en el Artículo anterior, al que:
@@ -1996,6 +2038,10 @@ Al que engañando a alguien o aprovechándose del error en que éste se halla, s
 I.- Prisión de 3 meses a 4 años y hasta 180 días multa cuando el valor de lo defraudado no exceda de 600 veces el salario mínimo, y
 
 II.- Prisión de 4 a 10 años y de 180 hasta 500 días multa, cuando el valor de lo defraudado exceda de 600 veces el salario mínimo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2012)</small>
+
+Cuando el delito se cometa en contra de persona menor de edad, mayor de sesenta años de edad o persona con discapacidad mental, intelectual, física o sensorial, las penas que correspondan se incrementarán una tercera parte.
 
 ###### ARTICULO 194.
 
@@ -2075,11 +2121,17 @@ Si se valiese de la ignorancia, inexperiencia, miseria o necesidad, aunque esta 
 
 Se entenderá que los intereses o lucros son usurarios, cuando sean superiores a las tasas de interés bancario autorizadas en la fecha de la celebración del acto jurídico.
 
-### CAPITULO II. SUSTRACCION DE MENORES O INCAPACES
+### CAPITULO II. RETENCION Y SUSTRACCION DE PERSONAS MENORES DE EDAD O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O PARA RESISTIRLO
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
 
 ###### ARTICULO 197.
 
 Al que teniendo a su cargo la administración o el cuidado de bienes ajenos, por cualquier motivo y con ánimo de lucro perjudique al titular de éstos alterando las cuentas o condiciones de contratos, haciendo aparecer operaciones o gastos inexistentes o exagerando los reales, ocultando o reteniendo valores o empleándolos indebidamente, se le impondrán las penas previstas para el delito de fraude.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2012)</small>
+
+Cuando el delito se cometa en contra de persona menor de edad o mayor de sesenta años de edad o persona con discapacidad mental, intelectual, física o sensorial, las penas que correspondan se incrementarán hasta en una tercera parte.
 
 ### CAPITULO III. TRAFICO DE MENORES
 
@@ -2109,6 +2161,10 @@ VII. Que cualquiera de los actos relacionados con el desarrollo de la extorsión
 
 VIII. Cuando el sujeto activo del delito sea, haya sido, o se ostente sin serlo, integrante de alguna institución policial, corporación de seguridad privada, o de órganos con funciones de investigación y persecución del delito, impartición de justicia penal o ejecución de penas y medidas de seguridad. En el caso de ser servidor público el sujeto activo del delito, se le impondrá además pena de destitución.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE JUNIO DE 2012)</small>
+
+IX. Cuando el delito se cometa en contra de persona menor de edad o mayor de sesenta años o persona que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo.
+
 ### CAPITULO IV. DELITOS CONTRA LA FILIACIÓN Y ESTADO CIVIL
 
 ###### ARTICULO 199.
@@ -2127,6 +2183,10 @@ IV.- Ejerza actos de dominio que lesionen derechos legítimos del usuario de dic
 
 Si el despojo se realiza por dos o más personas o con violencia, se aumentarán hasta en una mitad las penas previstas en el Artículo anterior, pero a los autores intelectuales o a quienes dirijan el despojo se les aplicará prisión de 4 a 10 años y de 300 a 500 días multa.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2012)</small>
+
+Cuando el delito se cometa en contra de persona menor de edad o mayor de sesenta años de edad o persona con discapacidad mental, intelectual, física o sensorial, las penas que correspondan se incrementarán hasta en una tercera parte.
+
 ###### ARTICULO 201.
 
 Las penas previstas para el delito de despojo se impondrán aunque el derecho a la posesión sea dudoso o esté sujeto al litigio.
@@ -2136,6 +2196,10 @@ Las penas previstas para el delito de despojo se impondrán aunque el derecho a 
 ###### ARTICULO 202.
 
 Al que por cualquier medio destruya o deteriore una cosa ajena o propia, en perjuicio de otra se le impondrá prisión de 3 meses a 8 años y de 15 a 240 días multa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2012)</small>
+
+Cuando el ofendido sea persona menor de edad o mayor de sesenta años de edad o persona con discapacidad mental, intelectual, física o sensorial, las penas que correspondan se incrementarán hasta en una tercera parte.
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
 
@@ -2227,11 +2291,17 @@ A falta de querella del ofendido o su representante, cuando la víctima sea meno
 
 ARTICULO 211 TER.- No se impondrá pena alguna o quedarán sin efecto las que se hubieren impuesto, cuando el obligado pague todas las cantidades que hubiere dejado de ministrar por concepto de alimentos o se someta al régimen de pago que el Juez o la autoridad ejecutora, en su caso, determinen, garantizando mediante fianza u otra caución, la amortización de las cantidades que en el futuro le corresponda satisfacer, cuando menos por tres meses.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2012)</small>
+
 ### CAPITULO VIII. VIOLENCIA FAMILIAR
 
 > <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2008)</small>
 
 ARTICULO 217 BIS.- Al cónyuge, concubina o concubinario, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado o colateral hasta el cuarto grado o por afinidad hasta el segundo grado, al tutor, curador, al adoptante o al adoptado que haga uso de medios físicos o psicoemocionales, así como la omisión grave contra la integridad física o psíquica de un miembro de su familia, independientemente de que se produzcan o no lesiones, se le impondrán de uno a cuatro años de prisión y se le sujetará a tratamiento psicológico especializado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2012)</small>
+
+Cuando el delito se cometa en contra de persona menor de edad, mayor de sesenta años de edad o persona que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo, las penas previstas en este artículo se incrementarán hasta en una tercera parte.
 
 > <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2008)</small>
 
@@ -2245,17 +2315,29 @@ ARTICULO 217 QUÁTER.- En los casos previstos en este Capítulo, el Ministerio P
 
 ARTICULO 217 QUINTUS.- Los beneficios jurisdiccionales, incluyendo la suspensión a prueba del procedimiento penal y los beneficios penitenciarios a los que conforme a las leyes vigentes tenga derecho el procesado o reo, respectivamente, únicamente se concederán si además de cumplir con los requisitos establecidos acredita haber recibido de manera completa el tratamiento psicológico especializado. Dicho tratamiento se brindará por las instituciones públicas, sociales o privadas que tengan por función dar el tratamiento o esté en condiciones de hacerlo.
 
-> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
 
-ARTICULO 217 SEXTUS.- Los hechos previstos en este Capítulo se perseguirán por querella, salvo cuando el ofendido sea menor de edad o persona con capacidades diferentes o que por sus condiciones no esté en aptitud de comprender los alcances de la conducta o resistirse a ella.
+ARTICULO 217 SEXIES.- Los hechos previstos en este Capítulo se perseguirán por querella, salvo cuando el ofendido sea menor de edad o mayor de sesenta años de edad o persona con discapacidad o que por sus condiciones no esté en aptitud de comprender los alcances de la conducta o resistirse a ella.
 
 ###### ARTICULO 212.
 
-Al que sin tener relación familiar o de parentesco sustraiga a un menor de edad o a una incapaz, sin el consentimiento de quien legítimamente tenga su custodia o guarda, o lo retenga con la finalidad de violar derechos de familia, se le impondrá prisión de 2 a 6 años y de 20 a 60 días multa.
+Al que sin tener relación familiar o de parentesco con un menor de edad o con persona que no tenga capacidad para comprender el significado del hecho o para resistirlo, y sin el consentimiento de quien ejerza su custodia o guarda legítima, lo retenga con la finalidad de violar derechos de familia, se le impondrá prisión de 3 a 8 años y de 20 a 60 días de multa.
 
-Cuando el delito lo cometa un familiar del menor que no ejerza sobre él la patria potestad ni la tutela, se le impondrá prisión de 1 a 4 años.
+Si el sujeto activo es ascendiente, descendiente o tiene parentesco hasta el cuarto grado con el menor de edad o la persona que no tenga capacidad para comprender el significado del hecho o para resistirlo, se le impondrá prisión de 2 a 6 años y de 15 a 50 días de multa.
 
-Si el agente devuelve al menor o incapaz espontáneamente, dentro de los 3 días siguientes a la consumación del delito, se le aplicará hasta una mitad de las penas arriba señaladas.
+Si el agente devuelve al menor o a la persona que no tenga capacidad para comprender el significado del hecho o para resistirlo, dentro de los 3 días siguientes a la consumación del delito, se le aplicará hasta una mitad las penas arriba señaladas.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2012)</small>
+
+ARTICULO 212 BIS.- Al que sin tener relación familiar o de parentesco con un menor de edad o con persona que no tenga capacidad para comprender el significado del hecho o para resistirlo, sin el consentimiento de quien ejerza su custodia o guarda legítima, lo sustraiga con la finalidad de violar derechos de familia, se le impondrá de 5 a 10 años de prisión y de 40 a 120 veinte días de multa.
+
+Se le impondrá de 3 a 6 años de prisión y de 20 a 60 días de multa al ascendiente, descendiente o pariente hasta el cuarto grado, de un menor de edad o de persona que no tenga capacidad para comprender el significado del hecho o para resistirlo, lo sustraiga sin el consentimiento de quien ejerza su custodia o guarda legítima, cuando concurra cualquiera de las siguientes circunstancias:
+
+I. Que no ejerza sobre él la patria potestad o la haya perdido o ejerciéndola se encuentre suspendida o limitada; o
+
+II. No tenga la guarda y custodia provisional o definitiva o la tutela sobre él.
+
+Si el agente devuelve al menor o a la persona que no tenga capacidad para comprender el significado del hecho o para resistirlo, dentro de los 3 días siguientes a la consumación del delito, se le aplicará hasta una mitad las penas arriba señaladas.
 
 ### CAPITULO I. PELIGRO DE DEVASTACIÓN
 
@@ -2855,9 +2937,9 @@ ORDEN EN EL DESARROLLO URBANO
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE AGOSTO DE 2002)</small>
 
-### CAPITULO II. EJERCICIO INDEBIDO Y ABANDONO DEL SERVICIO
+### CAPITULO II. DESEMPEÑO INDEBIDO Y ABANDONO DEL SERVICIO PÚBLICO
 
-PUBLICO
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2012)</small>
 
 ## TITULO PRIMERO. DELITOS CONTRA LA
 
@@ -2887,6 +2969,8 @@ A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a o
 
 ### CAPITULO V. INTIMIDACIÓN
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
+
 ###### ARTICULO 248.
 
 A quienes para hacer uso de un derecho o pretextando su ejercicio o para evitar el cumplimiento de una Ley, se reúnan tumultuariamente y perturben el orden público con el empleo de violencia en las personas o sobre las cosas, o amenacen a la autoridad para intimidarla, u obligarla a tomar alguna determinación, se les aplicará de 6 meses a 4 años de prisión y de 3 a 30 días multa.
@@ -2894,6 +2978,8 @@ A quienes para hacer uso de un derecho o pretextando su ejercicio o para evitar 
 A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de motín se les aplicará prisión de 2 a 12 años.
 
 ### CAPITULO VI. COALICIÓN DE SERVIDORES PÚBLICOS
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
 
 ###### ARTICULO 249.
 
@@ -2935,6 +3021,8 @@ No se aplicará pena alguna por el delito de rebelión a los que depongan las ar
 
 ### CAPITULO VII. PECULADO
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
+
 ###### ARTICULO 254.
 
 Se impondrá prisión de 3 a 30 años, sin perjuicio de las penas que correspondan por los delitos que resulten, al que utilizando explosivos, sustancias tóxicas, armas de fuego o por incendio, inundación o por cualquier otro medio violento, realice actos en contra de las personas, las cosas o servicios al público, que produzcan alarma, temor, en la población o a un grupo o sector de ella para perturbar la paz pública o tratar de menoscabar la autoridad del Estado o Municipio o presionar a la autoridad para que tome una determinación.
@@ -2942,6 +3030,8 @@ Se impondrá prisión de 3 a 30 años, sin perjuicio de las penas que correspond
 Se aplicará prisión de 1 a 9 años, al que teniendo conocimiento de las actividades de un terrorista y de su identidad, no lo haga saber a las autoridades.
 
 ### CAPITULO VIII. COHECHO
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
 
 ###### ARTICULO 255.
 
@@ -2957,11 +3047,15 @@ Se aplicará prisión de 6 meses a 5 años, al que teniendo conocimiento de las 
 
 ### CAPITULO IX. CONCUSIÓN
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
+
 ###### ARTICULO 256.
 
 A quienes resuelvan de concierto (sic) cometer uno o varios delitos del presente Título y acuerden los medios de llevar a cabo su determinación, se les impondrá prisión de 1 a 5 años.
 
 ### CAPITULO X. ENRIQUECIMIENTO ILÍCITO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2012)</small>
 
 ###### ARTICULO 257.
 
@@ -2983,39 +3077,69 @@ PARTICULARES
 
 ### CAPITULO XI. NEGOCIACIONES ILÍCITAS
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
+
 ###### ARTICULO 259.
 
 Para los efectos de este Código, servidor público es toda persona que desempeña algún empleo cargo o comisión de cualquier naturaleza en la administración pública del Estado o sus Municipios, organismos descentralizados, empresas de participación estatal o municipal mayoritaria, organizaciones y sociedades asimiladas a éstas, fideicomisos públicos, o en los poderes Legislativo o Judicial del Estado de Querétaro.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
+
 ###### ARTICULO 260.
 
-Los servidores públicos que cometan alguno de los delitos previstos en el presente Título serán sancionados con las penas de prisión y multa que para cada caso se señalan y privación del cargo e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, hasta por el mismo tiempo que el señalado en las penas privativas de libertad.
+A los servidores públicos que cometan alguno de los delitos previstos en el presente Título, con excepción de los supuestos que establece el artículo 263 y causen un perjuicio económico al particular o al servicio público, se les aplicarán las siguientes penas:
+
+I. Prisión de 3 meses a 3 años y de 30 a 90 días multa, cuando el daño no exceda de 200 veces el salario mínimo;
+
+II. Prisión de 1 a 5 años y de 60 a 300 días de multa, cuando el daño no exceda de 600 veces el salario mínimo; y
+
+III. Prisión de 3 a 10 años y de 300 a 750 días multa, cuando el daño exceda 600 veces el salario mínimo.
+
+Para los delitos que no requieren que se cause un daño o perjuicio al particular o al servicio público o que habiéndolo causado no se pueda determinar el monto, se aplicará prisión de 3 meses a 6 años y de 30 a 300 días multa.
+
+Además de las penas previstas para el o los delitos cometidos, se decomisarán los productos del delito y se impondrá, a criterio del juez, la suspensión, destitución e inhabilitación por el mismo tiempo del señalado para la pena de prisión impuesta, para obtener y desempeñar un empleo, cargo o comisión de cualquier naturaleza en el servicio público.
+
+Para el caso de las conductas descritas en el artículo 263 de este ordenamiento, se aplicará la sanción penal en él consignada.
+
+Una vez que haya causado ejecutoria la sentencia, el Juez deberá notificar a la Secretaría de la Contraloría la pena impuesta al servidor público.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2012)</small>
 
 ### CAPITULO XII. TRAFICO DE INFLUENCIA
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
+
 ###### ARTICULO 261.
 
-Comete el delito de ejercicio indebido de servicio público el que:
+Comete el delito de desempeño indebido de servicio público el que:
 
-I.- Ejerza las funciones de un empleo, cargo o comisión, sin haber tomado posesión legítima o sin satisfacer todos los requisitos legales;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2012)</small>
+
+I.- Desempeñe las funciones de un empleo, cargo o comisión, sin haber tomado posesión legítima o sin satisfacer todos los requisitos que señalen las disposiciones legales aplicables;
 
 II.- Continúe ejerciendo las funciones de un empleo, cargo o comisión después de haber cesado o de haberse suspendido los efectos del acto jurídico del que derivan aquéllos o después de haber renunciado, salvo que, por disposición de la Ley, deba continuar ejerciéndolos hasta ser relevado;
 
 III.- Sin autorización legítima desempeñe funciones distintas de aquéllas para las que fue designado;
 
-IV.- Teniendo conocimiento por razón de su empleo, cargo o comisión, de que pueden resultar gravemente afectados por cualquier acto u omisión, el patrimonio o los intereses de alguna dependencia o entidad de la administración pública Estatal o Municipal, organismos descentralizados, empresas de participación estatal o municipal mayoritaria, organizaciones y sociedades asimiladas a éstas, fideicomisos públicos o de los poderes Legislativo y Judicial del Estado, no informe por escrito a su superior jerárquico o no lo evite si está dentro de sus facultades, o
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2012)</small>
 
-V.- Por sí o por interpósita persona sustraiga, destruya, oculte, utilice o inutilice ilícitamente información o documentación que se encuentre bajo su custodia o a la cual tenga acceso o de la que tenga conocimiento en virtud de su empleo, cargo o comisión.
+IV. Teniendo conocimiento por razón de su empleo, cargo o comisión, de que pueden resultar gravemente afectados por cualquier acto u omisión, el patrimonio o los intereses de alguna dependencia o entidad de la administración pública Estatal o Municipal, organismos constitucionales autónomos o fideicomisos públicos, no informe por escrito a su superior jerárquico o no lo evite si está dentro de sus facultades;
 
-Al que cometa alguno de los delitos a que refieren las fracciones I, II y III de este Artículo, se le sancionará con prisión de 3 meses a 2 años y de 10 a 150 días multa.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2012)</small>
 
-Al responsable de los delitos previstos en las fracciones IV y V se le impondrá prisión de 2 a 7 años y de 30 a 300 días multa.
+V. Por sí o por interpósita persona sustraiga, destruya, oculte, utilice o inutilice ilícitamente información que se encuentre bajo su custodia o a la cual tenga acceso o de la que tenga conocimiento en virtud de su empleo, cargo o comisión; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE JUNIO DE 2012)</small>
+
+VI. Por sí o por interpósita persona, rinda informes a su superior jerárquico en los que manifieste hechos o circunstancias falsos o niegue la verdad en todo o en parte sobre los mismos.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
 
 ### CAPITULO I. PROMOCIÓN DE CONDUCTAS ILÍCITA
 
 ###### ARTICULO 262.
 
-Al servidor público que indebidamente y en perjuicio del servicio abandone las funciones que legalmente tenga conferidas, se le aplicará prisión de 3 meses a 3 años y de 10 a 120 días multa.
+Comete el delito de abandono del servicio público, el servidor público que sin causa justificada y en perjuicio del servicio abandone las funciones que legalmente tenga conferidas.
 
 ### CAPITULO II. COHECHO COMETIDO POR PARTICULARES
 
@@ -3061,15 +3185,23 @@ RECURSOS PÚBLICOS
 
 Comete delito de abuso de autoridad, el servidor público que:
 
-I.- Para impedir la ejecución de una Ley, decreto o reglamento, el cobro de un impuesto o el cumplimiento de una resolución judicial, pida auxilio a la fuerza pública o la emplee con ese objeto;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2012)</small>
 
-II.- Ejerciendo sus funciones o con motivo de ellas haga violencia a una persona sin causa legítima o la veje o la insulte;
+I.- Para impedir la ejecución de una ley, decreto o reglamento, el cobro de un impuesto o el cumplimiento de una resolución judicial, pida auxilio a la fuerza pública o la emplee con este objeto;
 
-III.- Indebidamente retarde o niegue a los particulares la protección o servicio que tenga obligación de otorgarle o impida la presentación o el curso de una solicitud;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2012)</small>
+
+II.- Desempeñando sus funciones o con motivo de ellas haga violencia a una persona sin causa legítima o la veje o la insulte;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2012)</small>
+
+III.- Sin causa justificada, retarde o niegue a los particulares la protección o servicio que tenga obligación de otorgarle o impida la presentación o el curso de una solicitud;
 
 IV.- Encargado de una fuerza pública requerido legalmente por una autoridad competente para que le preste auxilio se niegue indebidamente a dárselo;
 
-V.- Con cualquier pretexto obtenga de un subalterno parte de los sueldos de éste, dádivas o algún servicio indebido, o
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2012)</small>
+
+V.- Con cualquier pretexto, obtenga de un subalterno parte de los sueldos de éste, dádivas o algún servicio indebido; o
 
 VI.- Haga que se le entreguen fondos, valores u otra cosa que no se le haya confiado a él y se los apropie o disponga en ellos indebidamente.
 
@@ -3079,7 +3211,7 @@ Al que cometa el delito de abuso de autoridad se le aplicará prisión de 1 a 6 
 
 ###### ARTICULO 265.
 
-Al servidor público que por si o por interpósita persona, utilizando la violencia física o moral, intimide a cualquier persona para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la comisión de un delito, se le aplicarán de 2 a 6 años de prisión y de 50 a 450 días multa.
+Comete el delito de intimidación, el servidor público que por sí o por interpósita persona, intimide a cualquier otra utilizando la violencia física o moral, para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la comisión de un delito.
 
 ### CAPITULO V. DESOBEDIENCIA Y RESISTENCIA DE
 
@@ -3087,23 +3219,19 @@ PARTICULARES
 
 ###### ARTICULO 266.
 
-A los servidores públicos que se coaliguen para tomar medidas contrarias a una ley, reglamento o disposición de carácter general, impedir su ejecución o para hacer dimisión de sus puestos con el fin de impedir o suspender la administración pública en cualquier de sus ramas, se les impondrá de 6 meses a 3 años de prisión y de 30 a 180 días multa.
+Cometen el delito de coalición de servidores públicos, los servidores públicos que de común acuerdo tomen medidas contrarias a una Ley, reglamento o disposición de carácter general, impidan su ejecución o para hacer dimisión de sus puestos con el fin de impedir o suspender la administración pública en cualquiera de sus ramas.
 
 ### CAPITULO VI. QUEBRANTAMIENTO DE SELLOS
 
 ###### ARTICULO 267.
 
-Al servidor público que para sí o para otro se apropie de dinero, valores, fincas o cualquier otra cosa perteneciente a los Poderes, dependencias o entidades de la administración pública del Estado, de un Municipio o de un particular, si por razón de su cargo lo tuviere recibido en administración, en depósito o por otra causa, se le impondrán de 1 a 5 años de prisión y de 60 a 300 días multa.
-
-Si el valor de los objetos excede de mil veces el salario, se le aplicará prisión de 3 a 10 años y de 300 a 500 días multa.
+Comete el delito de peculado el servidor público que para provecho propio o ajeno, desvíe o sustraiga dinero, valores o cualquier otro bien perteneciente a los Poderes, dependencias o entidades de la administración pública del Estado, de un Municipio o de un particular, si por razón de su cargo lo tuviere recibido en administración, en depósito, en resguardo o por concepto de fianza u otra causa.
 
 ### CAPITULO VII. DELITOS CONTRA SERVIDORES PUBLICOS EN EJERCICIO DE SUS FUNCIONES
 
 ###### ARTICULO 268.
 
-Se impondrán de 6 meses a 5 años de prisión y de 30 a 300 días multa, al servidor público que por sí o por interpósita persona solicite o reciba indebidamente para si o para otro, dinero o cualquier otra dádiva o acepte una promesa para hacer o dejar de hacer algo justo relacionado con sus funciones.
-
-Cuando la cantidad o el valor de la dádiva, promesa o prestación, exceda de mil veces el salario, se aplicarán de 3 a 10 años de prisión y de 300 a 500 días multa.
+Comete el delito de cohecho el servidor público que por sí o por interpósita persona solicite o reciba indebidamente para sí o para otro, dinero o cualquier otra dádiva o acepte una promesa, con la finalidad de que haga o deje de hacer algo justo, esté o no relacionado con sus funciones.
 
 En ningún caso se devolverán a los responsables del delito de cohecho, el dinero o dádivas que se hubiesen entregado.
 
@@ -3111,9 +3239,7 @@ En ningún caso se devolverán a los responsables del delito de cohecho, el dine
 
 ###### ARTICULO 269.
 
-Al servidor público que con ese carácter y a título de impuesto o contribución, recargo, renta, réditos, salario o emolumentos, exija por sí o por medio de otro, dinero, valores, servicios o cualquier otra cosa que sepa no ser debida o en mayor cantidad que la señalada por la Ley, se le impondrán de 6 meses a 3 años de prisión y de 30 a 180 días multa.
-
-Cuando la cantidad o el valor de lo exigido indebidamente, exceda de mil veces el salario, se aplicarán de 3 a 6 años de prisión y de 180 a 300 días multa.
+Comete el delito de concusión el servidor público que con ese carácter y a titulo de impuesto o contribución, recargo, renta, réditos, salario o emolumentos, exija por sí o por medio de otro, dinero, valores, servicios o cualquier otra cosa que sepa no ser debida o en mayor cantidad que la señalada por la Ley.
 
 ### CAPITULO IX. USO INDEBIDO DE UNIFORMES OFICIALES Y
 
@@ -3121,9 +3247,7 @@ CONDECORACIONES
 
 ###### ARTICULO 270.
 
-Al servidor público que con motivo de su empleo, cargo o comisión en el servicio público haya incurrido en enriquecimiento ilícito, se le impondrán de 1 a 5 años de prisión y de 60 a 300 días multa, pero si el monto del enriquecimiento ilícito excede de cinco mil veces el salario, se le aplicarán de 3 a 10 años de prisión y de 300 a 500 días multa.
-
-Se presumirá que existe enriquecimiento ilícito, cuando el servidor público no pudiere acreditar el legítimo aumento de patrimonio o la legítima procedencia de los bienes a su nombre o de aquéllos respecto de los cuales se conduzca como dueño, obtenidos durante su cargo en los términos de la Ley de Responsabilidades de los Servidores Públicos.
+Comete el delito de enriquecimiento ilícito el servidor público que con motivo de su empleo, cargo o comisión en el servicio público no pudiere acreditar el legítimo aumento de su patrimonio o la legítima procedencia de los bienes a su nombre o de aquéllos respecto de los cuales se conduzca como dueño, obtenidos durante su encargo, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro.
 
 Los bienes cuya legítima procedencia no se logre acreditar, serán decomisados en beneficio del Estado.
 
@@ -3133,25 +3257,13 @@ PÚBLICOS
 
 ###### ARTICULO 271.
 
-Se impondrán de 6 meses a 4 años de prisión y de 30 a 240 días multa al servidor público que:
-
-I.- En el desempeño de su empleo, cargo o comisión otorgue por sí o por interpósita persona, contratos, concesiones, permisos, licencias, autorizaciones, franquicias, exenciones o efectué compras o ventas o realice cualquier otro acto jurídico que produzca beneficios económicos al propio servidor público o a otra persona ajena a la relación;
-
-II.- Mediante la realización de los actos a que se refiere la fracción anterior, genere beneficios económicos indebidos o notoriamente desproporcionados a favor de cualquier persona ajena o no a la relación, o cause perjuicios patrimoniales a los Poderes, dependencias o entidades de la administración pública del Estado o Municipios, o
-
-III.- Valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones y que no sea del conocimiento público haga por sí o por interpósita persona, inversiones, enajenaciones, adquisiciones o cualquiera otro acto que le produzca algún beneficio económico indebido al servidor público, a su cónyuge o a sus parientes consanguíneos o por afinidad hasta el cuarto grado o a sociedades de las que el agente forme parte.
-
-Si el monto de los beneficios económicos o de los perjuicios patrimoniales causados, excede de mil veces el salario, se impondrán de 3 a 10 años de prisión y de 240 a 500 días multa.
+Comete el delito de negociaciones ilícitas el servidor público que en el desempeño de sus atribuciones y facultades otorgue por sí o por interpósita persona, contratos, concesiones, permisos, licencias, autorizaciones, franquicias, exenciones, efectúe compras o ventas o realice cualquier acto jurídico que produzca beneficios económicos al propio servidor público o a otra persona ajena a la relación que como servidor público tiene o cause perjuicios patrimoniales a los Poderes, dependencias o entidades de la administración pública del Estado o Municipios o que valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones y que no sea del conocimiento público, haga por sí o por interpósita persona, inversiones, enajenaciones, adquisiciones o cualquiera otro acto que le produzca algún beneficio económico indebido al servidor público, a su cónyuge o a sus parientes consanguíneos o por afinidad hasta el cuarto grado o a sociedades de las que el agente forme parte.
 
 ### CAPITULO II. FRAUDE PROCESAL
 
 ###### ARTICULO 272.
 
-Se impondrán de 6 meses a 6 años de prisión y hasta 30 días multa, al servidor público que por sí o por interpósita persona:
-
-I.- Promueva o gestione la tramitación o resolución ilícita de negocios públicos ajenos a las responsabilidades inherentes a su empleo, cargo o comisión, o
-
-II.- Indebidamente solicite o promueva alguna resolución o la realización de cualquier acto materia del empleo, cargo o comisión de otro servidor público, que produzca beneficios económicos para sí o para cualquiera de las personas a que se hace referencia en la fracción III del Artículo anterior.
+Comete el delito de tráfico de influencias el servidor público que por sí o por interpósita persona solicite, promueva o gestione la tramitación o resolución ilícita de negocios públicos o cualquier acto ajeno a las responsabilidades inherentes a su empleo, cargo o comisión, para obtener beneficios económicos para sí o para cualquier persona.
 
 ### CAPITULO III. IMPUTACIÓN DE HECHOS FALSOS Y SIMULACIÓN
 
@@ -4148,3 +4260,27 @@ P.O. 18 DE MAYO DE 2012.
 Artículo Primero. La presente Ley entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o mejor jerarquía que se opongan a la presente Ley.
+
+P.O. 8 DE JUNIO DE 2012.
+
+LEY QUE REFORMA LOS ARTÍCULOS 129, 130, 135, 137, 148, 149 BIS, 150, 155, 156, 158, 167 BIS, 191, 193, 197, 198, 200, 202, 212, 217 BIS Y 217 SEXIES Y LA DENOMINACIÓN DEL CAPÍTULO II, DEL TÍTULO ÚNICO, SECCIÓN SEGUNDA, PARTE ESPECIAL DEL LIBRO SEGUNDO Y SE ADICIONA EL ARTÍCULO 212 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO.
+
+Artículo Primero. La presente Ley entrara en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga"
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 8 DE JUNIO DE 2012.
+
+LEY QUE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO SEGUNDO, SECCIÓN CUARTA, PARTE ESPECIAL DEL LIBRO SEGUNDO Y REFORMA LOS ARTICULOS 260, 261, 262, 264, 265, 266, 267, 268, 269, 270, 271 Y 272 DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 8 DE JUNIO DE 2012.
+
+LEY QUE ADICIONA EL ARTÍCULO 183 QUÁTER AL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO.
+
+Artículo Primero. La presente Ley entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga."
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la misma.
