@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-70762"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2012-05-18"
+last_updated: "2012-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -1595,13 +1595,27 @@ Si ha habido mala fe de parte de ambos cónyuges, el matrimonio produce efectos 
 
 La buena fe se presume; para destruir esta presunción se requiere prueba plena.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
+
 ###### Artículo 238.
 
-Si la demanda de nulidad fuere entablada por uno solo de los cónyuges, desde luego se dictarán las medidas provisionales que correspondan.
+Si la demanda de nulidad fuere entablada por uno solo de los cónyuges, desde luego se dictarán las medidas provisionales que correspondan, contempladas en el Capítulo Décimo de este Título.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
 
 ###### Artículo 239.
 
-Luego que la sentencia sobre nulidad cause ejecutoria, el padre y la madre propondrán la forma y términos del cuidado y la custodia de los hijos y el juez resolverá a su criterio de acuerdo con las circunstancias del caso y atendiendo a lo dispuesto en el Capítulo Décimo de este Título.
+Luego que la sentencia sobre nulidad cause ejecutoria, el padre y la madre, deberán presentar ante el Juez un convenio en el que se fijen los siguientes puntos:
+
+I. Designación de la persona a quien sean confiados los hijos, para su cuidado y custodia;
+
+II. Garantizarán la convivencia de los hijos con sus padres;
+
+III. El modo de subvenir las necesidades de los hijos; y
+
+IV. La forma en que deberá garantizarse el pago por concepto de pensión alimenticia para los hijos.
+
+En caso de no ponerse de acuerdo ambos padres o no se garantice el interés de los hijos en dicho convenio, el Juez, tomando en cuenta las circunstancias del caso, garantizará el cuidado de los menores dejándolos bajo la custodia del progenitor que conforme al interés superior de los hijos sea más conveniente para éstos y resolverá todo lo relativo en cuanto a los puntos enumerados en este artículo, con la obligación del que tiene la custodia, de permitir la convivencia con el otro progenitor o progenitores, si es el caso.
 
 ###### Artículo 240.
 
@@ -1989,7 +2003,9 @@ El adoptante y el adoptado tienen el deber de darse alimentos, en los casos en q
 
 Los alimentos comprenden la comida, el vestido, la habitación, el esparcimiento y la salud.
 
-Respecto de los hijos, los alimentos comprenden, además, los gastos necesarios para su educación básica y para proporcionarle algún oficio, arte o profesión.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
+
+Respecto de los hijos, los alimentos comprenden, además, los gastos necesarios para su educación básica y para proporcionarle algún oficio, arte o profesión adecuados a sus circunstancias personales. Para el caso de los mayores de edad, la obligación de proporcionar alimentos al acreedor alimentario, subsistirá siempre y cuando éste se encuentre estudiando una carrera técnica o superior, hasta el término normal necesario para concluirla sin interrupción, siempre y cuando no sea mayor de 25 años de edad.
 
 Respecto de las personas con discapacidad, de los adultos mayores o las declaradas en estado de interdicción, los alimentos también comprenderán los gastos necesarios para el tratamiento especial que requieran.
 
@@ -2063,9 +2079,13 @@ II. Cuando el alimentista deja de necesitar los alimentos;
 
 III. En caso de injuria, falta o daños graves inferidos por el alimentista contra el que debe prestarlos, salvo que se trate de menores cuyo deudor alimentario sea el padre o la madre o quien ejerza la patria potestad;
 
-IV. Cuando la necesidad de los alimentos dependa de la conducta viciosa o de la falta de aplicación al trabajo del alimentista, mientras subsistan esas causas, salvo que se trate de menores cuyo deudor alimentario sea el padre o la madre o quien ejerza la patria potestad; y
+IV. Cuando la necesidad de los alimentos dependa de la conducta viciosa o de la falta de aplicación al trabajo del alimentista, mientras subsistan esas causas, salvo que se trate de menores cuyo deudor alimentario sea el padre o la madre o quien ejerza la patria potestad; y (sic)
 
 V. Si el alimentista, sin consentimiento del que debe dar los alimentos, abandona la casa de éste por causas injustificadas.
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2012)</small>
+
+VI. Cuando el alimentista cumpla la mayoría de edad y no se encuentre en los supuestos del párrafo segundo del artículo 293 de este Código.
 
 ###### Artículo 306.
 
@@ -15730,5 +15750,11 @@ Artículo Tercero. En los procesos que se encuentren en trámite o resueltos a l
 P.O. 18 DE MAYO DE 2012.
 
 Artículo Primero. La presente reforma entrará en vigor treinta días naturales después de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 8 DE JUNIO DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
