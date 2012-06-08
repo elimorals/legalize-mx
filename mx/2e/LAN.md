@@ -4,7 +4,7 @@ identifier: "LAN"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-01"
-last_updated: "2011-06-20"
+last_updated: "2012-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAN"
 
 LEY DE AGUAS NACIONALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE JUNIO DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 1 de diciembre de 1992.
 
@@ -150,7 +150,9 @@ XXXIX. "Organismo de Cuenca": Unidad técnica, administrativa y jurídica especi
 
 XL. "Permisos": Para los fines de la presente Ley, existen dos acepciones de permisos:
 
-a. "Permisos": Son los que otorga el Ejecutivo Federal a través de "la Comisión" o del Organismo de Cuenca que corresponda, conforme a sus respectivas competencias, para la explotación, uso o aprovechamiento de aguas nacionales, así como para la construcción de obras hidráulicas y otros de índole diversa relacionadas con el agua y los bienes nacionales a los que se refiere el Artículo 113 de la presente Ley. Estos permisos tendrán carácter provisional para el caso de la explotación, uso o aprovechamiento de aguas nacionales en tanto se expide el título respectivo;
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2012)</small>
+
+a. “Permisos”: Son los que otorga el Ejecutivo Federal a través de “la Comisión” o del Organismo de Cuenca que corresponda, conforme a sus respectivas competencias, para la construcción de obras hidráulicas y otros de índole diversa relacionadas con el agua y los bienes nacionales a los que se refiere el Artículo 113 de la presente Ley;
 
 b. "Permisos de Descarga": Título que otorga el Ejecutivo Federal a través de "la Comisión" o del Organismo de Cuenca que corresponda, conforme a sus respectivas competencias, para la descarga de aguas residuales a cuerpos receptores de propiedad nacional, a las personas físicas o morales de carácter público y privado;
 
@@ -462,7 +464,9 @@ XLVI. Mejorar y difundir permanentemente en el ámbito nacional el conocimiento 
 
 XLVII. Integrar el Sistema Nacional de Información sobre cantidad, calidad, usos y conservación del agua, con la participación de los Organismos de Cuenca, en coordinación con los gobiernos de los estados y del Distrito Federal y con los Consejos de Cuenca, y en concordancia con la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
 
-XLVIII. Resolver de manera expedita las solicitudes de prórroga de concesión, asignación y permisos de descarga, así como permisos provisionales para la explotación, uso o aprovechamiento de aguas nacionales que le sean presentadas en los plazos establecidos en la presente Ley, conforme a los casos establecidos en la fracción IX del presente Artículo;
+> <small>(REFORMADA, D.O.F. 8 DE JUNIO DE 2012)</small>
+
+XLVIII. Resolver de manera expedita las solicitudes de prórroga de concesión, asignación, permisos de descarga y de construcción que le sean presentadas en los plazos establecidos en la presente Ley.
 
 XLIX. Presentar las denuncias que correspondan ante autoridades competentes cuando, como resultado del ejercicio de sus atribuciones, tenga conocimiento de actos u omisiones que constituyan violaciones a la legislación administrativa en materia de aguas o a las leyes penales;
 
@@ -558,7 +562,9 @@ VII. Proponer al Consejo Técnico los estímulos y licencias que puedan otorgars
 
 VIII. Emitir los actos de autoridad en la materia en su ámbito de competencia;
 
-IX. Expedir los títulos de concesión, asignación, permisos de descarga, además de los permisos provisionales referidos en la presente Ley en los casos establecidos en la Fracción IX del Artículo 9 de la presente Ley;
+> <small>(REFORMADA, D.O.F. 8 DE JUNIO DE 2012)</small>
+
+IX. Expedir los títulos de concesión, asignación, permisos de descarga, además de los permisos que establece la fracción IX del Artículo 9 de la presente Ley;
 
 X. Apoyar y verificar el cumplimiento del carácter autónomo de los Organismos de Cuenca, en los términos dispuestos en la presente Ley y en sus reglamentos, conforme a los procesos de descentralización de la gestión de los recursos hídricos;
 
@@ -566,7 +572,7 @@ XI. Las señaladas en el Artículo 9 de esta Ley para la atención expresa de "l
 
 XII. Las demás que se confieran a "la Comisión" en la presente Ley y en sus reglamentos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 29 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 ### Capítulo III BIS. Organismos de Cuenca
 
@@ -598,7 +604,9 @@ III. Presentar informes que le sean solicitados por el Director General de "la C
 
 IV. Emitir los actos de autoridad en la materia en su ámbito de competencia;
 
-V. Expedir los títulos de concesión, asignación, permisos de descarga, además de los permisos provisionales referidos en la presente Ley;
+> <small>(REFORMADA, D.O.F. 8 DE JUNIO DE 2012)</small>
+
+V. Expedir los títulos de concesión, asignación y permisos de descarga;
 
 VI. Las señaladas en el Artículo 12 BIS 6 de esta Ley y no comprendidas en el Artículo 12 BIS 3 de la misma, y
 
@@ -664,7 +672,9 @@ XI. Preservar y controlar la calidad del agua, así como manejar las cuencas hid
 
 XII. Acreditar, promover y apoyar la organización de los usuarios para mejorar la explotación, uso o aprovechamiento del agua y la conservación y control de su calidad, e impulsar la participación de éstos a nivel estatal, regional, de cuenca hidrológica o de acuífero en términos de Ley;
 
-XIII. Expedir los títulos de concesión, asignación o permiso de descarga, así como los demás permisos que le competan conforme a la presente Ley, reconocer derechos y operar el Registro Público de Derechos de Agua en su ámbito geográfico de acción;
+> <small>(REFORMADA, D.O.F. 8 DE JUNIO DE 2012)</small>
+
+XIII. Expedir los títulos de concesión, asignación o permisos de descarga y de construcción, reconocer derechos y operar el Registro Público de Derechos de Agua en su ámbito geográfico de acción;
 
 XIV. Conciliar y, en su caso, fungir a petición de los usuarios, de los Consejos de Cuenca, o de los estados, como árbitro en la prevención, mitigación y solución de conflictos relacionados con el agua y su gestión, en los términos de los reglamentos de esta Ley;
 
@@ -866,7 +876,7 @@ XXV. Otras tareas que le confiera su Asamblea General, con apego a las disposici
 
 ARTICULO 13 BIS 4.- Conforme a lo dispuesto a esta Ley y sus reglamentos, "la Comisión", a través de los Organismos de Cuenca, consultará con los usuarios y con las organizaciones de la sociedad, en el ámbito de los Consejos de Cuenca, y resolverá las posibles limitaciones temporales a los derechos de agua existentes para enfrentar situaciones de emergencia, escasez extrema, desequilibrio hidrológico, sobreexplotación, reserva, contaminación y riesgo o se comprometa la sustentabilidad de los ecosistemas vitales; bajo el mismo tenor, resolverá las limitaciones que se deriven de la existencia o declaración e instrumentación de zonas reglamentadas, zonas de reserva y zonas de veda. En estos casos tendrán prioridad el uso doméstico y el público urbano.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 ### Capítulo V. Organización y Participación de los Usuarios y de la Sociedad
 
@@ -980,7 +990,7 @@ V. Solicitar ante "la Comisión" o el Organismo de Cuenca que corresponda confor
 
 VI. Las demás que señalen las disposiciones legales y reglamentarias para el cumplimiento del objeto de la presente Ley.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 ## TITULO TERCERO. POLITICA Y PROGRAMACION HIDRICAS
 
@@ -988,7 +998,7 @@ VI. Las demás que señalen las disposiciones legales y reglamentarias para el c
 
 ### Capítulo Unico
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 29 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 #### Sección Primera. Política Hídrica Nacional
 
@@ -1048,7 +1058,9 @@ ARTICULO 14 BIS 6.- Son instrumentos básicos de la política hídrica nacional:
 
 I. La planificación hídrica; incluye los ámbitos local, estatal, cuenca hidrológica, región hidrológica-administrativa y nacional;
 
-II. El régimen de concesiones, asignaciones y permisos referentes a los derechos por explotación, uso o aprovechamiento del agua, por el uso de los bienes nacionales conforme a lo dispuesto en el Artículo 113 de la presente Ley, así como los permisos de descarga;
+> <small>(REFORMADA, D.O.F. 8 DE JUNIO DE 2012)</small>
+
+II. El régimen de concesiones y asignaciones referentes a los derechos por explotación, uso o aprovechamiento del agua, por el uso de los bienes nacionales conforme a lo dispuesto en el Artículo 113 de la presente Ley, así como los permisos de descarga y construcción;
 
 III. La gestión de aguas nacionales, para racionalizar las necesidades de agua, y contribuir al mejoramiento de la economía y finanzas del agua y su gestión;
 
@@ -1104,7 +1116,7 @@ Los Gobiernos de los estados, del Distrito Federal y de los municipios conforme 
 
 "La Comisión" con apoyo en los Organismos de Cuenca, y con el concurso de los gobiernos del Distrito Federal, de los estados, y, a través de éstos, de los municipios, integrará los programas partiendo del nivel local hasta alcanzar la integración de la programación hídrica en el nivel nacional.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 ## TITULO CUARTO. DERECHOS DE EXPLOTACION, USO O APROVECHAMIENTO DE AGUAS NACIONALES
 
@@ -1130,7 +1142,7 @@ Es libre la explotación, uso y aprovechamiento de las aguas nacionales superfic
 
 No se requerirá concesión para la extracción de aguas marinas interiores y del mar territorial, para su explotación, uso o aprovechamiento, salvo aquellas que tengan como fin la desalinización, las cuales serán objeto de concesión.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 18.
 
@@ -1426,31 +1438,47 @@ IV. Obtener prórroga de los títulos por igual término y condiciones, acorde c
 
 V. Las demás que le otorguen esta Ley y disposiciones reglamentarias aplicables.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, D.O.F. 29 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 8 DE JUNIO DE 2012)</small>
 
-### Capítulo III BIS. Suspensión, Extinción, Revocación, Restricciones y Servidumbres de la Concesión, Asignación o Permiso Provisional para el Uso del Agua y de Permiso de Descarga
+### Capítulo III BIS. Suspensión, Extinción, Revocación, Restricciones y Servidumbres de la Concesión, Asignación y de Permiso de Descarga
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 29 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 #### Sección Primera. Suspensión
 
-> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE JUNIO DE 2012)</small>
 
-ARTICULO 29 BIS 2.- Se suspenderá la concesión, asignación o permiso provisional para la explotación, uso o aprovechamiento de aguas y bienes nacionales a cargo del Ejecutivo Federal, independientemente de la aplicación de las sanciones que procedan, cuando el usufructuario del título:
+ARTÍCULO 29 BIS 2.- Se suspenderá la concesión o asignación para la explotación, uso o aprovechamiento de aguas y bienes nacionales a cargo del Ejecutivo Federal, independientemente de la aplicación de las sanciones que procedan, cuando el usufructuario del título:
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 I. No cubra los pagos que conforme a la Ley debe efectuar por la explotación, uso o aprovechamiento de las aguas o por los servicios de suministro de las mismas, hasta que regularice tal situación;
 
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2004)</small>
+
 II. No cubra los créditos fiscales que sean a su cargo durante un lapso mayor a un año fiscal, con motivo de la explotación, uso o aprovechamiento de las aguas y bienes nacionales, o por los servicios de suministro o uso de las mismas, hasta que regularice tal situación;
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 III. Se oponga u obstaculice el ejercicio de las facultades de inspección, la medición o verificación sobre los recursos e infraestructura hidráulica concesionada o asignada, por parte del personal autorizado;
 
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2004)</small>
+
 IV. Descargue aguas residuales que afecten o puedan afectar fuentes de abastecimiento de agua potable o a la salud pública y así lo solicite "la Procuraduría", o "la Autoridad del Agua", y
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 V. No cumpla con las condiciones o especificaciones del título de concesión o asignación, salvo que acredite que dicho incumplimiento no le es imputable.
 
+> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2004)</small>
+
 No se aplicará la suspensión si dentro de los diez días hábiles siguientes a aquel en que la autoridad en ejercicio de sus facultades haya notificado al usufructuario del título y éste acredite haber cubierto los pagos o los créditos a que se refieren las fracciones I y II respectivamente, o demuestra que el incumplimiento que prevén las fracciones IV y V no le son imputables, casos en los que "la Autoridad del Agua" resolverá dentro de los cinco días hábiles siguientes a la presentación de pruebas por parte del concesionario o asignatario, si debe o no aplicarse la suspensión, sin perjuicio de lo establecido en esta Ley en lo relativo a prevención y control de la contaminación de las aguas y responsabilidad por el daño ambiental.
 
+> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2004)</small>
+
 En el caso que prevé la fracción III, la suspensión durará hasta que el concesionario o asignatario acredite que han cesado los actos que le dieron origen, caso en el que "la Autoridad del Agua" reiniciará sus facultades de inspección, medición y verificación.
+
+> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 La suspensión sólo subsistirá en tanto el infractor no regularice su situación administrativa o se dicte resolución por autoridad competente que decrete su levantamiento.
 
@@ -1522,45 +1550,83 @@ IX. Resoluciones firmes judiciales o administrativas que así lo determinen.
 
 #### Sección Tercera. Revocación
 
-> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE JUNIO DE 2012)</small>
 
-ARTICULO 29 BIS 4.- La concesión, asignación o permiso de descarga, así como el permiso provisional aplicable, podrá revocarse en los siguientes casos:
+ARTÍCULO 29 BIS 4.- La concesión, asignación o permiso de descarga podrán revocarse en los siguientes casos:
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 I. Disponer del agua en volúmenes mayores a una quinta parte que los autorizados, cuando por la misma causa el beneficiario haya sido suspendido en su derecho con anterioridad;
 
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2004)</small>
+
 II. Explotar, usar o aprovechar aguas nacionales sin cumplir con las Normas Oficiales Mexicanas en materia de calidad;
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 III. Descargar en forma permanente o intermitente aguas residuales en contravención a lo dispuesto en la presente Ley en cuerpos receptores que sean bienes nacionales, incluyendo aguas marinas, así como cuando se infiltren en terrenos que sean bienes nacionales o en otros terrenos cuando puedan contaminar el subsuelo o el acuífero, sin perjuicio de las sanciones que fijen las disposiciones sanitarias y de equilibrio ecológico y protección al ambiente;
 
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2004)</small>
+
 IV. Utilizar la dilución para cumplir con las Normas Oficiales Mexicanas en materia ecológica o las condiciones particulares de descarga;
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 V. Ejecutar obras para alumbrar, extraer o disponer de aguas del subsuelo en zonas reglamentadas, de veda o reservadas, sin el permiso de "la Autoridad del Agua";
 
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2004)</small>
+
 VI. Dejar de pagar oportunamente o en forma completa las contribuciones, aprovechamientos o tarifas que establezca la legislación fiscal por la explotación, uso o aprovechamiento de las aguas nacionales y bienes nacionales o por los servicios de suministro de los mismos, cuando por la misma causa el beneficiario haya sido suspendido en su derecho con anterioridad aun cuando se trate de distinto ejercicio fiscal;
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 VII. No ejecutar las obras y trabajos autorizados para el aprovechamiento de aguas, su reúso y control de su calidad en los términos y condiciones que señala esta Ley y demás legislación aplicable o los estipulados en la concesión;
 
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2004)</small>
+
 VIII. No ejecutar las obras y trabajos autorizados para el aprovechamiento de aguas y control de su calidad, en los términos y condiciones que señala esta Ley y sus reglamentos, o bien realizar obras no autorizadas por "la Autoridad del Agua";
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 IX. Dañar ecosistemas como consecuencia de la explotación, uso o aprovechamiento de aguas nacionales;
 
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2004)</small>
+
 X. Realizar descargas de aguas residuales que contengan materiales o residuos peligrosos que ocasionen o puedan ocasionar daños a la salud, recursos naturales, fauna, flora o ecosistemas;
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 XI. Transmitir los derechos del título sin permiso de "la Autoridad del Agua" o en contravención a lo dispuesto en esta Ley;
 
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2004)</small>
+
 XII. Infringir las disposiciones sobre transmisión de derechos;
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 XIII. Reincidir en cualesquiera de las infracciones previstas en el Artículo 119 de esta Ley;
 
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2004)</small>
+
 XIV. Por dar uso a las aguas distinto al autorizado, sin permiso de "la Autoridad del Agua";
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 XV. Proporcionar a terceros en forma provisional el uso total o parcial de las aguas concesionadas sin mediar el aviso previo a "la Autoridad del Agua";
 
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2004)</small>
+
 XVI. Incumplir con lo dispuesto en la Ley respecto de la explotación, uso o aprovechamiento de aguas nacionales o preservación y control de su calidad, cuando por la misma causa al infractor se le hubiere aplicado con anterioridad sanción mediante resolución que quede firme, conforme a las fracciones II y III del Artículo 120 de esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 XVII. Por incumplimiento de las medidas preventivas y correctivas que ordene "la Autoridad del Agua", y
 
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2004)</small>
+
 XVIII. Las demás previstas en esta Ley, en sus reglamentos o en las propias concesiones.
+
+> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 Al extinguirse los títulos, por término de la concesión o asignación o de su última prórroga, o cuando se haya revocado el título por incumplimiento, de acuerdo con lo que establece esta Ley, las obras e instalaciones adheridas de manera permanente a bienes nacionales deberán revertirse a "la Comisión".
 
@@ -1684,7 +1750,9 @@ En el Registro Público de Derechos de Agua se llevará igualmente el registro n
 
 Los títulos de concesión para la explotación, uso o aprovechamiento de aguas nacionales, legalmente vigentes y asentados en el Registro Público de Derechos de Agua, así como los Permisos de Descarga, podrán transmitirse en forma definitiva total o parcial, con base en las disposiciones del presente Capítulo y aquellas adicionales que prevea la Ley y sus reglamentos.
 
-Los títulos de concesión o permisos con carácter provisional para la explotación, uso o aprovechamiento de aguas nacionales, para su transmisión se sujetarán a lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE JUNIO DE 2012)</small>
+
+Los títulos de concesión para la explotación, uso o aprovechamiento de aguas nacionales, para su transmisión se sujetarán a lo siguiente:
 
 I. En el caso de cambio de titular, cuando no se modifiquen las características del título de concesión, procederá la transmisión mediante una solicitud por escrito presentada ante "la Autoridad del Agua", quien emitirá el acuerdo correspondiente de aceptación o no, así como la inscripción en el Registro Público de Derechos de Agua;
 
@@ -2264,7 +2332,7 @@ II. Decidir e instrumentar la escisión en dos o más unidades de riego, de conf
 
 III. Cambiar totalmente el uso del agua, previa autorización de "la Comisión".
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 #### Sección Quinta. Temporal Tecnificado
 
@@ -2376,7 +2444,7 @@ ARTICULO 84 BIS 1.- "La Secretaría", "la Comisión" y los Organismos de Cuenca,
 
 ARTICULO 84 BIS 2.- "La Secretaría", "la Comisión" o el Organismo de Cuenca deberán promover que en los programas dirigidos a la población infantil, los medios masivos de comunicación difundan y fomenten la cultura del agua, la conservación conjuntamente con el uso racional de los recursos naturales, así como la protección de ecosistemas vitales y del medio ambiente, en los términos dispuestos en la Ley Federal de Radio y Televisión.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 83.
 
@@ -2394,7 +2462,7 @@ Los Organismos de Cuenca apoyarán a "la Comisión", de conformidad con las leye
 
 Para el cumplimiento eficaz y oportuno de lo dispuesto en el presente Artículo, "la Comisión" actuará en lo conducente a través de los Organismos de Cuenca.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 29 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 ### Capítulo I. Prevención y Control de la Contaminación del Agua
 
@@ -2714,7 +2782,7 @@ En las zonas de riego y en aquellas zonas de contaminación extendida o dispersa
 
 "La Comisión" promoverá en el ámbito de su competencia, las normas o disposiciones que se requieran para hacer compatible el uso de los suelos con el de las aguas, con el objeto de preservar la calidad de las mismas dentro de un ecosistema, cuenca hidrológica o acuífero.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 29 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 ### Capítulo II. Participación de Inversión Privada y Social en Obras Hidráulicas Federales
 
@@ -2764,7 +2832,7 @@ En caso de que la inversión se realice total o parcialmente con recursos federa
 
 ### Capítulo IV. Cobro por Explotación, Uso o Aprovechamiento de Aguas Nacionales y Bienes Nacionales
 
-> <small>(ADICIONADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 29 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 102.
 
@@ -2884,11 +2952,31 @@ En los distritos de riego y en las unidades de riego o de temporal tecnificado, 
 
 ## TITULO OCTAVO BIS. SISTEMA FINANCIERO DEL AGUA
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 29 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 29 DE ABRIL DE 2004)</small>
 
-### Capítulo I. Infracciones y Sanciones Administrativas
+### Capítulo I. Medidas de Apremio y Seguridad
 
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADO, D.O.F. 8 DE JUNIO DE 2012)</small>
+
+ARTÍCULO 118 BIS 1.- “La Comisión” para hacer cumplir sus determinaciones podrá solicitar a las autoridades federales, estatales o municipales, el auxilio de la fuerza pública.
+
+> <small>(ADICIONADO, D.O.F. 8 DE JUNIO DE 2012)</small>
+
+ARTICULO 118 BIS 2.- En caso de existir riesgo inminente, daño, deterioro a la salud, a las aguas nacionales, a los bienes a que se refiere el artículo 113 de esta ley, a la biodiversidad o a los ecosistemas vinculados con el agua, la autoridad del agua o la Procuraduría en el ámbito de sus respectivas competencias, podrán realizar de manera inmediata alguna o algunas de las siguientes medidas:
+
+I. Clausura temporal del aprovechamiento de aguas nacionales.
+
+II. Suspensión de las actividades que dan origen al proceso generador de las descargas de aguas residuales.
+
+III. Promover ante las autoridades de protección civil y seguridad pública de los gobiernos Federal, de los estados, del Distrito Federal y de los municipios, la adopción de medidas urgentes incluidas el aseguramiento de bienes, remoción o demolición de infraestructura, con el objeto de proteger la vida y los bienes de las personas.
+
+Las medidas establecidas en las fracciones I y II se mantendrán hasta el momento en que cesen las condiciones que dieron motivo al establecimiento de las mismas.
+
+> <small>(ADICIONADO, D.O.F. 8 DE JUNIO DE 2012)</small>
+
+ARTÍCULO 118 BIS 3.- Cuando “la Autoridad del Agua” aplique las medidas de seguridad a que se refiere el artículo anterior, indicará al usuario, concesionario o asignatario, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de la medida, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de la medida de seguridad impuesta.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO I], D.O.F. 8 DE JUNIO DE 2012)
 
 ###### ARTICULO 112.
 
@@ -2914,7 +3002,7 @@ IV. Las demás que resulten aplicables, en términos de Ley.
 
 ## TITULO NOVENO. BIENES NACIONALES A CARGO DE "LA COMISION"
 
-### Capítulo II. Recurso de Revisión y Denuncia Popular
+### Capítulo II. Infracciones y Sanciones Administrativas
 
 > <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2004)</small>
 
@@ -2942,11 +3030,17 @@ En los casos de las fracciones IV, V y VII la administración de los bienes, cua
 
 ARTICULO 113 BIS.- Quedarán al cargo de "la Autoridad del Agua" los materiales pétreos localizados dentro de los cauces de las aguas nacionales y en sus bienes públicos inherentes.
 
-Será obligatorio contar con concesión para el aprovechamiento de los materiales referidos; los permisos que se expidan tendrán carácter provisional previo a la expedición del título, y deberán ser canjeados por los títulos de concesión respectivos. Estos últimos serán expedidos por "la Autoridad del Agua" en un plazo que no excederá de sesenta días a partir de la solicitud, conforme a las disposiciones de esta Ley y sus reglamentos.
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2012)</small>
 
-"La Autoridad del Agua" vigilará la explotación de dichos materiales y revisará periódicamente la vigencia y cumplimiento de las concesiones y de los permisos con carácter provisional otorgados a personas físicas y morales, con carácter público o privado.
+Será obligatorio contar con concesión para el aprovechamiento de los materiales referidos.
 
-Son causas de revocación ya sea del permiso con carácter provisional o de la concesión, lo siguiente:
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2012)</small>
+
+“La Autoridad del Agua” vigilará la explotación de dichos materiales y revisará periódicamente la vigencia y cumplimiento de las concesiones otorgadas a personas físicas y morales, con carácter público o privado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE JUNIO DE 2012)</small>
+
+Son causas de revocación de la concesión, las siguientes:
 
 I. Disponer de materiales pétreos en volúmenes mayores que los autorizados;
 
@@ -3054,7 +3148,15 @@ El incumplimiento de las disposiciones previstas en el presente Artículo será 
 
 En relación con materiales pétreos, se estará a lo dispuesto en el Artículo 113 BIS de la presente Ley.
 
-## TITULO DECIMO. INFRACCIONES, SANCIONES Y RECURSOS
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 8 DE JUNIO DE 2012)</small>
+
+## TITULO DECIMO. MEDIDAS DE APREMIO, SEGURIDAD, INFRACCIONES, SANCIONES Y RECURSOS
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 8 DE JUNIO DE 2012)</small>
+
+### Capítulo III. Recurso de Revisión y Denuncia Popular
+
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 119.
 
@@ -3074,7 +3176,9 @@ VI. No acondicionar las obras o instalaciones en los términos establecidos en l
 
 VII. No instalar, no conservar, no reparar o no sustituir, los dispositivos necesarios para el registro o medición de la cantidad y calidad de las aguas, en los términos que establece esta Ley, sus reglamentos y demás disposiciones aplicables, o modificar o alterar las instalaciones y equipos para medir los volúmenes de agua explotados, usados o aprovechados, sin permiso correspondiente, incluyendo aquellos que en ejercicio de sus facultades hubiere instalado "la Autoridad del Agua";
 
-VIII. Explotar, usar o aprovechar aguas nacionales sin el título respectivo, cuando así se requiere en los términos de la presente Ley, así como modificar o desviar los cauces, vasos o corrientes, cuando sean propiedad nacional, sin permiso respectivo o cuando se dañe o destruya una obra hidráulica de propiedad nacional;
+> <small>(REFORMADA, D.O.F. 8 DE JUNIO DE 2012)</small>
+
+VIII. Explotar, usar o aprovechar aguas nacionales sin el título respectivo, cuando así se requiere en los términos de la presente Ley;
 
 IX. Ejecutar para sí o para un tercero obras para alumbrar, extraer o disponer de aguas del subsuelo en zonas reglamentadas, de veda o reservadas, sin el permiso respectivo así como a quien hubiere ordenado la ejecución de dichas obras;
 
@@ -3096,7 +3200,9 @@ XVII. Ocasionar daños ambientales considerables o que generen desequilibrios, e
 
 XVIII. Desperdiciar el agua en contravención a lo dispuesto en la Ley y sus reglamentos;
 
-XIX. No ejecutar la destrucción de los pozos que hayan sido objeto de relocalización, reposición o cuyos derechos hayan sido transmitidos totalmente a otro predio, así como dejar de ajustar la capacidad de sus equipos de bombeo cuando se transmitan parcialmente los derechos de explotación, uso o aprovechamiento de aguas nacionales;
+> <small>(REFORMADA, D.O.F. 8 DE JUNIO DE 2012)</small>
+
+XIX. No ejecutar el cegamiento de los pozos que hayan sido objeto de relocalización, reposición o cuyos derechos hayan sido transmitidos totalmente a otro predio, así como dejar de ajustar la capacidad de sus equipos de bombeo cuando se transmitan parcialmente los derechos de explotación, uso o aprovechamiento de aguas nacionales;
 
 XX. Modificar o desviar los cauces, vasos o corrientes cuando sean propiedad nacional, sin el permiso correspondiente; cuando se dañe o destruya una obra hidráulica de propiedad nacional;
 
@@ -3104,9 +3210,13 @@ XXI. No informar a "la Autoridad del Agua", de cualquier cambio en sus procesos 
 
 XXII. Dejar de llevar y presentar los registros cronológicos a que se refiere "la Ley";
 
-XXIII. Explotar, usar o aprovechar bienes nacionales determinados en los Artículos 113 y 113 BIS de esta Ley, sin contar con concesión o permiso de carácter provisional respectivo, y
+> <small>(REFORMADA, D.O.F. 8 DE JUNIO DE 2012)</small>
 
-XXIV. Explotar, usar o aprovechar bienes nacionales determinados en los Artículos 113 y 113 BIS de la presente Ley, en cantidad superior o en forma distinta a lo establecido en el título de concesión o permiso de carácter provisional respectivo.
+XXIII. Explotar, usar o aprovechar bienes nacionales determinados en los Artículos 113 y 113 BIS de esta Ley, sin contar con título de concesión, y
+
+> <small>(REFORMADA, D.O.F. 8 DE JUNIO DE 2012)</small>
+
+XXIV. Explotar, usar o aprovechar bienes nacionales determinados en los Artículos 113 y 113 BIS de la presente Ley, en cantidad superior o en forma distinta a lo establecido en el respectivo título de concesión.
 
 > <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2004)</small>
 
@@ -3114,11 +3224,17 @@ XXIV. Explotar, usar o aprovechar bienes nacionales determinados en los Artícul
 
 Las faltas a que se refiere el Artículo anterior serán sancionadas administrativamente por "la Autoridad del Agua" con multas que serán equivalentes a los siguientes días del salario mínimo general vigente en el Distrito Federal en el momento en que se cometa la infracción, independientemente de las sanciones estipuladas en la Ley General de Equilibrio Ecológico y la Protección al Ambiente, Ley de Bienes Nacionales y Ley Federal de Metrología y Normalización y sus reglamentos, las Normas Oficiales Mexicanas, el Código Penal Federal y demás disposiciones aplicables en la materia:
 
-I. 1,000 a 1,500, en el caso de violación a las fracciones XVI y XXIV;
+> <small>(REFORMADA, D.O.F. 8 DE JUNIO DE 2012)</small>
 
-II. 1,501 a 5,000, en el caso de violaciones a las fracciones VI, X, XVIII y XXI, y
+I. 200 a 1,500, en el caso de violación a las fracciones X, XI, XVI, XXI y XXII;
 
-III. 5,001 a 20,000, en el caso de violación a las fracciones I, II, III, IV, V, VII, VIII, IX, XI, XII, XIII, XIV, XV, XVII, XIX, XX, XXII y XXIII.
+> <small>(REFORMADA, D.O.F. 8 DE JUNIO DE 2012)</small>
+
+II. 1,200 a 5,000, en el caso de violaciones a las fracciones I, VI, XII, XVIII y XIX, y
+
+> <small>(REFORMADA, D.O.F. 8 DE JUNIO DE 2012)</small>
+
+III. 1,500 a 20,000, en el caso de violación a las fracciones II, III, IV, V, VII, VIII, IX, XIII, XIV, XV, XVII, XX, XXIII y XXIV.
 
 En los casos previstos en la fracción IX del Artículo anterior, los infractores perderán en favor de la Nación las obras de alumbramiento y aprovechamiento de aguas y se retendrá o conservará en depósito o custodia la maquinaria y equipo de perforación, hasta que se reparen los daños ocasionados en los términos de Ley, sin menoscabo de otras sanciones administrativas y penales aplicables.
 
@@ -3136,7 +3252,7 @@ I. La gravedad de la falta;
 
 II. Las condiciones económicas del infractor;
 
-III. La premeditación, y
+III. (DEROGADA, D.O.F. 8 DE JUNIO DE 2012), y
 
 IV. La reincidencia.
 
@@ -3154,13 +3270,17 @@ Igualmente, "la Autoridad del Agua" impondrá la clausura en el caso de:
 
 I. Incumplimiento de la orden de suspensión de actividades o suspensión del permiso de descarga de aguas residuales a que se refiere el Artículo 92 de la presente Ley, caso en el cual procederá la clausura definitiva o temporal de la empresa o establecimiento causantes directos de la descarga, y
 
-II. Explotación, uso o aprovechamiento ilegal de aguas nacionales a través de infraestructura hidráulica sin contar con el permiso con carácter provisional, concesión o asignación que se requiera conforme a lo previsto en la presente Ley, o en el caso de pozos clandestinos o ilegales.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE JUNIO DE 2012)</small>
+
+II. Explotación, uso o aprovechamiento ilegal de aguas nacionales a través de infraestructura hidráulica sin contar con el título de concesión o asignación que se requiera conforme a lo previsto en la presente Ley, o en el caso de pozos clandestinos o ilegales.
 
 En el caso de clausura, se actuará en los términos de la Ley Federal de Procedimiento Administrativo y el Reglamento aplicable al procedimiento administrativo en materia de agua.
 
 Para ejecutar una clausura, "la Autoridad del Agua" podrá solicitar el apoyo y el auxilio de las autoridades federales, estatales o municipales, así como de los cuerpos de seguridad pública, para que intervengan en el ámbito de sus atribuciones y competencia.
 
-En el caso de ocupación de vasos, cauces, zonas federales y demás bienes nacionales inherentes a que se refiere la presente Ley, mediante la construcción de cualquier tipo de obra o infraestructura, sin contar con el título o permiso con carácter provisional correspondiente, "la Autoridad del Agua" queda facultada para remover o demoler las mismas con cargo al infractor, sin perjuicio de las sanciones que correspondan.
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2012)</small>
+
+En el caso de ocupación de vasos, cauces, zonas federales y demás bienes nacionales inherentes a que se refiere la presente Ley, mediante la construcción de cualquier tipo de obra o infraestructura, sin contar con el título correspondiente, “la Autoridad del Agua” queda facultada para remover o demoler las mismas con cargo al infractor, sin perjuicio de las sanciones que correspondan.
 
 > <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2004)</small>
 
@@ -3180,7 +3300,7 @@ ARTICULO 123 BIS.- "La Autoridad del Agua" iniciará los procedimientos ante la 
 
 ARTICULO 123 BIS 1.- En los casos en que se presuma la existencia de algún delito, "la Comisión" formulará la denuncia correspondiente ante el Ministerio Público.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE ABRIL DE 2004)</small>
+(REUBICADO [N. DE E. ANTES CAPÍTULO II], D.O.F. 8 DE JUNIO DE 2012)
 
 ###### ARTICULO 124.
 
@@ -3248,7 +3368,7 @@ ARTICULO DECIMOTERCERO.- (DEROGADO, D.O.F. 29 DE ABRIL DE 2004)
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de noviembre de mil novecientos noventa dos.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 29 DE ABRIL DE 2004.
 
@@ -3331,3 +3451,7 @@ D.O.F. 18 DE ABRIL DE 2008.
 D.O.F. 20 DE JUNIO DE 2011.
 
 Único. El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE JUNIO DE 2012.
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
