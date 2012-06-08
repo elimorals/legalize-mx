@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2011-11-25"
+last_updated: "2012-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -993,7 +993,9 @@ Corresponde a cada Grupo Legislativo establecer los mecanismos de elección y su
 
 (Recursos asignables y rendición de cuentas) Los Grupos y Fracciones Legislativas gozarán de los recursos que determine el presupuesto, en forma proporcional al número de integrantes que los constituyan.
 
-El ejercicio de los recursos por cada Grupo o Fracción Legislativa se realizará de acuerdo con el presupuesto aprobado y cada uno presentará a la Dirección de Servicios Financieros, a través de su coordinador, la comprobación semestral sobre la aplicación de los mismos. Las cantidades no comprobadas serán reintegradas a la citada dependencia y será impedimento para la liberación de los recursos subsecuentes.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
+
+El ejercicio de los recursos por cada Grupo o Fracción Legislativos se realizará de acuerdo con el presupuesto aprobado y cada uno a través de su coordinador presentará en forma mensual a la Dirección de Servicios Financieros, la comprobación sobre la aplicación de los mismos, en los términos que acuerde la Junta de Concertación Política. Las cantidades no comprobadas serán reintegradas a la citada dependencia y será impedimento para la liberación de los recursos subsecuentes.
 
 Las relaciones contractuales entre las personas que no hayan sido contratadas por la Dirección de Servicios Administrativos y que presten servicios a los Grupos o Fracciones Legislativas, son responsabilidad de éstos, por lo que no causarán, en ningún momento, perjuicio a la Legislatura.
 
@@ -1994,3 +1996,9 @@ P.O. 25 DE NOVIEMBRE DE 2011.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su aprobación por el Pleno de la Quincuagésima Sexta Legislatura del Estado de Querétaro.
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 8 DE JUNIO DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones legales (sic) igual o menor jerarquía que se opongan a la presente Ley.
