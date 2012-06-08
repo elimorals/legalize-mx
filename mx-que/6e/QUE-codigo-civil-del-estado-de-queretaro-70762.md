@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-70762"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2012-05-18"
+last_updated: "2012-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,115 +21,147 @@ state: "QUE"
 ---
 # CODIGO CIVIL DEL ESTADO DE QUERETARO
 
-CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO
+REGLAMENTO DE SERVICIO COMUNITARIO DEL MUNICIPIO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2015.
 
-Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
+Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 3 de noviembre de 2008.
 
-LIC. JOSÉ EDUARDO CALZADA ROVIROSA,
+PRESIDENCIA MUNICIPAL AGUASCALIENTES, AGS.
 
-Gobernador Constitucional del Estado de Querétaro, a los habitantes del mismo, sabed que:
+ING. FRANCISCO GABRIEL ARELLANO ESPINOSA, Presidente Municipal de Aguascalientes, en ejercicio de las facultades contenidas en los artículos 16, 38, fracciones I y ll de la Ley Municipal para el Estado de Aguascalientes; y las demás propias de su cargo, a los habitantes del Municipio de Aguascalientes hace saber que el Honorable Ayuntamiento 2008-2010, tuvo a bien aprobar el decreto mediante el cual se expide el Reglamento de Servicio Comunitario del Municipio de Aguascalientes, de conformidad con la siguiente:
 
-LA QUINCUAGÉSIMA QUINTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
+E X P O S I C I Ó N D E M O T I V O S...
 
-CONSIDERANDO.
+Derivado de la presente exposición de motivos, se propone el siguiente proyecto de:
 
-Por lo anteriormente expuesto, la Quincuagésima Quinta Legislatura del Estado de Querétaro, expide el siguiente:
+D E C R E T O
 
-CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO
+###### ARTÍCULO ÚNICO.
 
-Disposiciones preliminares
+Se expide el Reglamento de Servicio Comunitario del Municipio de Aguascalientes, en los siguientes términos:
 
-###### Artículo 1.
+REGLAMENTO DE SERVICIO COMUNITARIO DEL MUNICIPIO DE AGUASCALIENTES
 
-Las disposiciones de este Código regirán en el Estado de Querétaro en asuntos del orden común.
+###### Artículo 1°.
 
-###### Artículo 2.
+Las disposiciones del presente Reglamento tienen por objeto regular los términos de acuerdo y ejecución de los servicios comunitarios con motivo de las infracciones a las disposiciones contenidas en la normatividad municipal y demás disposiciones legales aplicables.
 
-La capacidad jurídica es igual para el hombre y para la mujer; en consecuencia, la mujer no queda sometida, por razón de su sexo, a restricción alguna en la adquisición y ejercicio de sus derechos civiles.
+###### Artículo 2°.
 
-###### Artículo 3.
+Para los efectos del presente Reglamento, se entenderá por:
 
-Las leyes, reglamentos, circulares o cualesquiera otras disposiciones de observancia general, obligan y surten sus efectos, tres días después de su publicación en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”, salvo disposición expresa diferente.
+I. Ayuntamiento: El Honorable Ayuntamiento del Municipio de Aguascalientes.
 
-###### Artículo 4.
+II. Conmutación: Cambio o sustitución de una sanción por otra, ordenada por el Juez Municipal.
 
-Si la ley, reglamento, circular o disposición de observancia general fija el día en que debe comenzar a regir, obliga desde ese día, con tal de que su publicación haya sido anterior. En caso contrario, se estará a lo dispuesto en el artículo anterior.
+III. Dependencias: Unidades administrativas de la Presidencia Municipal contempladas por el artículo 98 del Código Municipal de Aguascalientes.
 
-###### Artículo 5.
+IV. Dirección de Justicia Municipal: La Dirección de Justicia Municipal adscrita a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno.
 
-A ninguna ley, ni disposición gubernativa, se dará efecto retroactivo en perjuicio de persona alguna.
+V. Infractor: Persona que infringe o transgrede un precepto contenido en la normatividad municipal.
 
-###### Artículo 6.
+VI. Juez Municipal: Funcionario del Gobierno Municipal facultado para sancionar a infractores al Bando de Policía y Gobierno o cualquier Reglamento Municipal y, en su caso, resolver inconformidades sobre sanciones impuestas por otras autoridades municipales.
 
-La voluntad de los particulares no los exime de la observancia de la ley, ni alterarla o modificarla. Sólo pueden renunciarse los derechos privados que no afecten directamente al interés público, cuando la renuncia no perjudique derechos de terceros.
+VII. Municipio: El Municipio de Aguascalientes.
 
-###### Artículo 7.
+VIII. Reglamento: Conjunto de disposiciones jurídicas contenidas en el presente ordenamiento.
 
-La renuncia referida en el artículo anterior, no produce efecto alguno si no se hace en términos claros y precisos, de tal suerte que no quede duda del derecho al que se renuncia.
+IX. Reincidencia: Cuando una persona ha incurrido, en más de una vez, en alguna conducta que implica la infracción a un precepto contenido en la normatividad municipal.
 
-###### Artículo 8.
+X. Servicio Comunitario: Prestación de trabajos o servicios personales no remunerados de orientación, limpieza, conservación, restauración, ornamentación o afines a favor de instituciones públicas municipales, educativas o asistenciales ubicadas dentro del territorio del Municipio de Aguascalientes.
 
-Los actos ejecutados contra el tenor de las leyes prohibitivas o de interés público serán nulos, excepto en los casos en que la ley disponga lo contrario.
+###### Artículo 3°.
 
-###### Artículo 9.
+El servicio comunitario consistirá en la obligación de prestar, en forma no remunerada, cualquiera de las siguientes actividades:
 
-La ley sólo queda abrogada o derogada por otra posterior que así lo declare expresamente o que contenga disposiciones total o parcialmente incompatibles con la ley anterior.
+I. Limpieza, pintura o restauración de los bienes públicos propiedad del Municipio que hubieren sido dañados por el infractor.
+
+II. Limpieza, pintura o restauración de centros públicos, de educación, de salud, de asistencia social y/o servicios municipales.
+
+III. Realización de obras de limpieza, jardinería, reforestación u ornamentación en lugares de uso común resguardados por el Municipio, así como en aquellas instituciones o establecimientos educativos, de salud o de asistencia social, debidamente determinadas.
+
+IV. Impartición de pláticas, conferencias o talleres en beneficio de la comunidad, mismas que pueden ser relacionadas con la convivencia ciudadana, el bienestar social, salud pública, protección al ambiente, orientación familiar, psicológica, jurídica y otras análogas que correspondan a actividades propias del oficio, ocupación o profesión que realice el infractor.
+
+V. Participación en actividades de carácter artístico, cultural, deportivo, ecológico o turístico que promueva el Municipio, así como aquellas relacionadas con el desarrollo social de la población del Municipio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+VI. Participar, en vía pública en la difusión de información vial del Municipio de Aguascalientes, así como asistir a pláticas de los planes y proyectos establecidos en la educación vial impartidos por el Municipio de Aguascalientes.
+
+###### Artículo 4°.
+
+Cuando el infractor acredite, de manera fehaciente, su identidad y domicilio, el Juez Municipal podrá imponer el servicio comunitario como sanción administrativa. Asimismo, el Juez Municipal podrá determinar la conmutación de otra sanción administrativa por el servicio comunitario.
+
+La identidad deberá ser acreditada con documento oficial y vigente, que podrá consistir en la credencial de elector, el pasaporte, la cartilla militar, la matrícula consular o una credencial debidamente firmada y sellada por una institución pública municipal, estatal o federal.
+
+###### Artículo 5°.
+
+El Juez Municipal, valorando la gravedad de la infracción cometida y las circunstancias personales del infractor, tales como la edad, el estado de salud, la actividad u ocupación a que se dedique y, en su caso, la reincidencia, podrá acordar la imposición del servicio comunitario como sanción administrativa. Asimismo, en caso de que la sanción impuesta consista en una multa, podrá acordar la conmutación de ésta por servicio comunitario.
+
+Para tal efecto, el Juez Municipal, mediante un acuerdo, deberá establecer las actividades a realizar por concepto de servicio comunitario, así como los días, horas y lugares en que se llevarán a cabo dichas actividades, las cuales deberán efectuarse dentro de los treinta días naturales siguientes a la fecha del mencionado acuerdo.
+
+En el caso de que el servicio comunitario sea establecido en conmutación por una multa, el infractor deberá otorgar fianza o prenda, ante el Juez Municipal, respecto del importe de la multa para asegurar el cumplimiento del servicio comunitario.
+
+Dicho acuerdo deberá emitirse por quintuplicado, entregándose una copia al infractor y remitiéndose una copia para la Dirección de Justicia Municipal, una más para la Dependencia de la Administración Pública Municipal encargada de la ejecución del servicio comunitario y otra más para la Contraloría Municipal.
+
+###### Artículo 6°.
+
+Las actividades del servicio comunitario serán propuestas por las Dependencias de la Administración Pública Municipal, siguiendo los lineamientos y equivalencias de tiempo que la Dirección de Justicia Municipal determine.
+
+###### Artículo 7°.
+
+El Juez Municipal, al momento de determinar las actividades a realizar por concepto de servicio comunitario, podrá tomar en consideración la preparación académica y la actividad u ocupación del infractor, de tal forma que exista concordancia entre las actividades a realizar por parte del infractor y las circunstancias personales del mismo.
+
+###### Artículo 8°.
+
+La duración de las actividades del servicio comunitario, en el caso de que se determine éste como sanción o sirva de conmutación de la multa impuesta, será establecida por el propio Juez Municipal, tomando en consideración la preparación académica, actividad, ocupación, edad o sexo del infractor, así como la reincidencia, en su caso. Dicha duración no podrá exceder de treinta y seis horas.
+
+###### Artículo 9°.
+
+La sanción a que se refieren los artículos anteriores no se impondrá en el caso de infractores en estado de ebriedad o bajo los efectos de cualquier tipo de estupefaciente o sustancia tóxica, durante la ejecución de la medida de seguridad impuesta por el propio Juez Municipal.
 
 ###### Artículo 10.
 
-Contra la observancia de la ley no puede alegarse desuso, costumbre o práctica en contrario.
+Las actividades del servicio comunitario se llevarán a cabo en jornadas dentro de periodo distinto a las labores que representen la principal fuente de ingresos para la subsistencia del infractor y de su familia, sin que puedan exceder de la jornada extraordinaria determinada por la Ley Federal del Trabajo.
+
+Por ningún motivo, el servicio comunitario se desarrollará en forma que resulte degradante o humillante para el infractor, ni que implique un riesgo a la integridad física del mismo.
 
 ###### Artículo 11.
 
-Las leyes que establezcan excepción a las reglas generales, no serán aplicables a caso alguno que no esté expresamente especificado en las mismas.
+La Dependencia encargada de la ejecución y vigilancia del servicio comunitario proporcionará, al infractor, los elementos e instrumentos necesarios para la realización de las actividades, incluyendo algún distintivo que lo identifique como prestador del servicio comunitario en favor del Municipio de Aguascalientes.
 
 ###### Artículo 12.
 
-Las leyes del Estado rigen a todas las personas que se encuentren en la Entidad, así como los actos y hechos ocurridos en su territorio y aquellos que se sometan a dichas leyes, salvo cuando éstas prevean la aplicación de un derecho extranjero o de otra entidad federativa o algún ordenamiento federal o lo previsto en los tratados y convenciones en que México sea parte, siempre que se encuentren debidamente ratificados en los términos de ley.
+Las actividades del servicio comunitario se efectuarán bajo la coordinación de la Dependencia encargada de la ejecución del mismo y la supervisión de la Contraloría Municipal.
+
+El Municipio, en ningún caso, se hará responsable de algún accidente o percance que se suscite durante la ejecución de las actividades del servicio comunitario.
 
 ###### Artículo 13.
 
-La determinación del derecho aplicable, se hará conforme a las siguientes reglas:
+La Dependencia encargada de la ejecución y vigilancia del servicio comunitario deberá emitir, dentro de los cinco días hábiles siguientes a la fecha de conclusión del mismo, un reporte que acredite el estricto cumplimiento de las actividades y el número de horas de servicio comunitario ordenadas por el Juez Municipal, debiendo estar debidamente firmado por el Titular de la Dependencia receptora del servicio.
 
-I. Las situaciones jurídicamente válidas, creadas conforme a derecho, en el Estado de Querétaro, en las entidades de la República Mexicana o en un país extranjero, deberán ser reconocidas;
+Dicho reporte deberá ser validado por la Contraloría Municipal y remitido a la Dirección de Justicia Municipal, a efecto de que ésta última emita un acuerdo de liberación del servicio comunitario en favor del infractor.
 
-II. El estado y capacidad de las personas físicas, se rige por el derecho del lugar de su domicilio;
-
-III. La constitución, régimen y extinción de los derechos reales sobre inmuebles, así como los contratos de arrendamiento y de uso temporal de tales bienes, y los bienes muebles, se regirán por el derecho del lugar de su ubicación, aunque sus titulares sean extranjeros;
-
-IV. La forma de los actos jurídicos se rige por las leyes del lugar en que se celebren; sin embargo, podrán sujetarse a las formas prescritas en este Código, cuando el acto tenga efectos en la Entidad; y
-
-V. Salvo lo previsto en las fracciones anteriores, los efectos jurídicos de los actos y contratos, se regirán por el derecho del lugar en donde deban ejecutarse, a menos que las partes hubieren designado válidamente la aplicabilidad de otro derecho.
+En caso de que algún funcionario público municipal, al emitir el reporte mencionado en el presente artículo, proporcione información falsa o imprecisa, será sancionado en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, la Legislación Penal para el Estado de Aguascalientes y las demás disposiciones legales aplicables.
 
 ###### Artículo 14.
 
-En la aplicación del derecho extranjero se observará lo siguiente:
-
-I. Se aplicará como lo haría el juez extranjero respectivo, para lo cual, el juez podrá allegarse la información necesaria acerca del texto, vigencia, sentido y alcance legal de dicho derecho;
-
-II. Se aplicará el derecho sustantivo extranjero, salvo cuando, dadas las circunstancias del caso, deban tomarse en cuenta, con carácter excepcional, las normas conflictuales de ese derecho, que hagan aplicables las normas sustantivas del Estado o de un tercer Estado;
-
-III. No será impedimento para la aplicación del derecho extranjero, que el derecho del Estado no prevea instituciones o procedimientos esenciales a la institución extranjera aplicable, si existen instituciones o procedimientos análogos;
-
-IV. Las cuestiones previas, preliminares o incidentales que puedan surgir con motivo de una cuestión principal, no deberán resolverse necesariamente de acuerdo con el derecho que regule a esta última; y
-
-V. Cuando diversos aspectos de una misma relación jurídica estén regulados por distintos derechos, éstos serán aplicados armónicamente, procurando realizar las finalidades perseguidas por cada uno de ellos.
-
-Las dificultades causadas por la aplicación simultánea de tales derechos, se resolverán tomando en cuenta las exigencias de la equidad en el caso concreto.
-
-Lo dispuesto en el presente artículo, se observará cuando resultare aplicable el derecho de otra entidad federativa.
+Sólo hasta la ejecución total del servicio comunitario, se cancelará la sanción impuesta.
 
 ###### Artículo 15.
 
-No se aplicará el derecho extranjero:
+En el supuesto de que el infractor no cumpla total o parcialmente con las actividades del servicio comunitario, se procederá de la siguiente manera:
 
-I. Cuando artificiosamente se hayan evadido principios fundamentales del derecho mexicano, debiendo el juez determinar la intención fraudulenta de tal evasión; y
+I. En caso de que la sanción impuesta consistiere en una multa, la cual fue conmutada por el servicio comunitario, se hará efectivo el cumplimiento de la fianza o prenda otorgada ante el Juez Municipal. Para tal efecto, éste emitirá la orden de cumplimiento respectiva.
 
-II. Cuando las disposiciones del derecho extranjero o el resultado de su aplicación sean contrarios a principios o instituciones fundamentales del orden público mexicano.
+II. En caso de que la sanción impuesta consista en el servicio comunitario, el Juez Municipal emitirá una orden de presentación a efecto de que el infractor cumpla un arresto cuya duración será igual a las horas de servicio comunitario impuestas.
 
-Lo dispuesto en el presente artículo también se observará cuando pretenda ser aplicado el derecho de otra entidad federativa.
+En caso de que el infractor no se presente, éste será detenido y remitido ante el Juez Municipal para que se proceda al cumplimiento forzoso del arresto.
+
+T R A N S I T O R I O S
 
 ###### Artículo 16.
 
@@ -159,7 +191,7 @@ La ignorancia de las leyes no excusa su cumplimiento, pero los jueces, teniendo 
 
 ## Título Primero. De las personas físicas y morales
 
-### Capítulo Primero. De las personas físicas
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 22.
 
@@ -197,7 +229,7 @@ V. Los demás derechos que a favor de las niñas, niños y adolescentes reconozc
 
 El mayor de edad tiene la facultad de disponer libremente de su persona y de sus bienes, salvo las limitaciones que establece la ley.
 
-### Capítulo Segundo. De las personas morales
+### CAPÍTULO SEGUNDO. DEL ACUERDO
 
 ###### Artículo 25.
 
@@ -361,7 +393,7 @@ Salvo lo que dispongan las leyes sobre imprenta, la exhibición o reproducción 
 
 ## Título Quinto. Del Registro Civil
 
-### Capítulo Primero. Disposiciones generales
+### CAPÍTULO TERCERO. DE LA EJECUCIÓN
 
 ###### Artículo 48.
 
@@ -15732,3 +15764,41 @@ P.O. 18 DE MAYO DE 2012.
 Artículo Primero. La presente reforma entrará en vigor treinta días naturales después de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales que se opongan a lo establecido en el presente Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Las Dependencias de la Administración Pública Municipal determinarán e informarán a la Dirección de Justicia Municipal, en un plazo no mayor a diez días hábiles contados a partir de la publicación del presente Reglamento, las actividades propuestas para la prestación del servicio comunitario, así como los días, horas y lugares para su realización, en los términos del presente Reglamento.
+
+Lo anterior para el conocimiento de la ciudadanía.
+
+Dado en el salón de Cabildo por el Honorable Ayuntamiento del Municipio de Aguascalientes en la Sesión Extraordinaria celebrada el día quince de Octubre del año dos mil ocho.
+
+Ing. Francisco Gabriel Arellano Espinosa, Presidente Municipal de Aguascalientes; Regidores: Imelda Catalina Azcona Reynoso, Antonio Bernal Cisneros, Jorge Etien Brand Romo, Abel Hernández Palos, Jesús Armando López Velarde Campa, Enrique López Hernández, J. Jesús López Martínez, Bertha Mares Ríos, J. Refugio Muñoz de Luna, Maria Esther Pérez Pardo, José Luís Proa de Anda, Luís Armando Salazar Mora, Ma. Leticia Sígala García, Patricia Valadez Bustamante, Juan Carlos Zapata Montoya; Sindico de Hacienda, Marco Aurelio Díaz Díaz; Sindico Procurador, Félix Eloy Reyna Rendón; Lic. Adrián Ventura Dávila, Secretario del H. Ayuntamiento, rúbricas.
+
+Por lo que tiene el honor de comunicarlo, para su conocimiento y efectos legales conducentes. En tal ver, promulga y ordena se de publicidad para su debido cumplimiento. 17 de Octubre de 2008.- Ing. Francisco Gabriel Arellano Espinosa.- Rúbrica.
+
+El Subsecretario del H. Ayuntamiento y Subdirector General de Gobierno.- Lic. Alberto Gómez Velasco.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE NOVIEMBRE DE 2015.
+
+> <small>[N. DE E. TRANSITORIOS POR EL QUE “SE REFORMA EL ARTÍCULO 132 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES; SE REFORMA Y ADICIONA EL REGLAMENTO DE TRÁNSITO DEL MUNICIPIO DE AGUASCALIENTES; SE REFORMA EL REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL MUNICIPIO DE AGUASCALIENTES; SE REFORMA EL REGLAMENTO DE SERVICIOS COMUNITARIOS DEL MUNICIPIO DE AGUASCALIENTES”.]</small>
+
+PRIMERO. El presente Decreto entrará en vigor el 1° de agosto de 2016.
+
+SEGUNDO. El Ayuntamiento asignará los recursos necesarios para que se establezca el sistema de base de datos de licencias suspendidas y éste comience a funcionar a más tardar el 1 de agosto de 2016.
+
+TERCERO. El Ayuntamiento asignará los recursos necesarios para que se creen las unidades especializadas, a que se refiere el artículo 7 antes de que entre en vigor del (sic) presente dictamen.
+
+CUARTO. El Ayuntamiento asignará, en el ejercicio presupuestal siguiente, los recursos necesarios a efecto de que a los vehículos propiedad Municipal, que hayan sido adquiridos del 2010 a la fecha, se les realicen las modificaciones necesarias para que cuenten con el dispositivo de manos libres inalámbrico.
+
+QUINTO. El Municipio realizará, a partir de la publicación del presente decreto, una campaña de difusión para dar a conocer a la ciudadanía las modificaciones previstas en el presente dictamen.
