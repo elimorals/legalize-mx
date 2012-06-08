@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-manejo-de-los-recursos-publicos-del-estado-de-65029
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-13"
-last_updated: "2011-05-06"
+last_updated: "2012-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65029&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "QUE"
 ---
 # LEY PARA EL MANEJO DE LOS RECURSOS PUBLICOS DEL ESTADO DE QUERETARO
 
-LEY PARA EL MANEJO DE LOS RECURSOS PUBLICOS DEL ESTADO DE QUERETARO
+LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 6 DE MAYO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 13 de diciembre de 2008.
 
@@ -61,7 +59,7 @@ V. La rendición de la cuenta pública; y
 
 VI. La programación y ejecución de los recursos públicos durante el último año del periodo constitucional de los gobiernos estatal y municipal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -71,7 +69,7 @@ Son sujetos de la presente Ley, los Poderes Legislativo, Ejecutivo y Judicial; l
 
 La autoridad competente para verificar la correcta aplicación y cumplimiento de esta Ley es la Legislatura del Estado, a través de la Entidad Superior de Fiscalización del Estado, quien le remitirá los informes de resultados de la fiscalización superior de la cuenta pública, así como a los órganos internos de control de los Poderes, municipios, entidades paraestatales y organismos autónomos, en el ámbito de su competencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -127,15 +125,29 @@ Las Contralorías o los Órganos Internos de Control, dentro del ámbito de su c
 
 Son obligaciones de los sujetos de esta Ley:
 
-I. La aplicación de los principios de contabilidad gubernamental que se establecen en la presente Ley;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2012)</small>
 
-II. Planear, programar y presupuestar sus actividades, así como cumplir con sus programas operativos anuales, con el objeto de optimizar sus recursos;
+I. Aplicar, en todo tiempo, con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos;
 
-III. Inscribirse en el Registro Federal de Contribuyentes y llevar su contabilidad conforme a lo establecido al respecto en esta Ley;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2012)</small>
 
-IV. Cubrir las contribuciones correspondientes, con cargo a sus presupuestos y de conformidad con la legislación aplicable; y
+II. Aplicar los principios de contabilidad gubernamental que se establecen en la presente Ley;
 
-V. Coordinar, en el ámbito de su competencia, las actividades de programación, presupuestación, ejecución, control, seguimiento y evaluación del gasto público, conforme lo establece la presente y los manuales operativos que para este efecto se expidan.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2012)</small>
+
+III. Planear, programar y presupuestar sus actividades, así como cumplir con sus programas operativos anuales, con el objeto de optimizar sus recursos;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2012)</small>
+
+IV. Inscribirse en el Registro Federal de Contribuyentes y llevar su contabilidad conforme a lo establecido al respecto en esta Ley;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2012)</small>
+
+V. Cubrir las contribuciones correspondientes, con cargo a sus presupuestos y de conformidad con la legislación aplicable; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE JUNIO DE 2012)</small>
+
+VI. Coordinar, en el ámbito de su competencia, las actividades de programación, presupuestación, ejecución, control, seguimiento y evaluación del gasto público, conforme lo establece la presente Ley y los manuales operativos que al efecto se expidan.
 
 ###### Artículo 8.
 
@@ -191,7 +203,7 @@ b) Las solicitudes de autorización de endeudamiento que pretendan realizarse du
 
 IV. Cualquier otro concepto contenido en la Ley de Hacienda del Estado de Querétaro o la Ley de Hacienda de los Municipios del Estado de Querétaro; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -251,7 +263,7 @@ Los presupuestos de egresos no deberán contener partidas presupuestales secreta
 
 En el presupuesto de egresos, se incluirán las partidas necesarias para solventar obligaciones que constituyan deuda pública del Estado y las demás entidades paraestatales que cuenten con la garantía del Estado, cuando dichas obligaciones hayan sido incurridas en ejercicios fiscales anteriores y comprendan dos o más ejercicios fiscales, conforme a lo autorizado por las leyes y decretos correspondientes, así como las que se deriven de los proyectos de inversión y prestación de servicios aprobados conforme a la ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -313,7 +325,7 @@ VIII. En general, toda la información que se considere útil para sustentar la 
 
 En el presupuesto de egresos, se considerará una partida para la promoción, difusión y proyección de la imagen y productos turísticos del Estado de Querétaro, que será una cantidad equivalente al noventa por ciento de los recursos recaudados por concepto del Impuesto por la Prestación de Servicio de Hospedaje, la cual será transferida al fideicomiso que para tal efecto se establezca, dentro de los treinta días siguientes al mes en que se recaude.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -359,9 +371,11 @@ El ingreso total que resulte de la suma de todos y cualquier concepto por percep
 
 El ingreso total que resulte de la suma de todos y cualquier concepto por percepciones máximo diario que reciban por el ejercicio de sus funciones los Magistrados del Poder Judicial, será el establecido específicamente en el Decreto de Presupuesto de Egresos.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
+
 ###### Artículo 41.
 
-El ingreso total que resulte de la suma de todos y cualquier concepto por percepciones máximo diario que reciban por el ejercicio de sus funciones los Presidentes Municipales y Regidores, será el establecido específicamente en el Presupuesto de Egresos de cada Municipio.
+El ingreso total que resulte de la suma de todos y cualquier concepto por percepciones máximo diario que reciban por el ejercicio de sus funciones los Presidentes Municipales, Síndicos y Regidores, será el establecido específicamente en el Presupuesto de Egresos de cada Municipio.
 
 ###### Artículo 42.
 
@@ -543,9 +557,23 @@ La Secretaría de la Contraloría del Estado, en el ámbito de su competencia y 
 
 La misma atribución tendrán los órganos internos de control de los sujetos de esta Ley, respecto de los planes y programas de éstos.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
+
 ###### Artículo 73.
 
-Todas las obras, programas y acciones realizadas por cualquier sujeto de esta Ley, deberán contener en su publicidad o anuncio, en lugar visible y ocupando al menos una quinta parte en proporción al área o espacio en el que se anuncie la leyenda: “Esta (obra, programa o acción) es de carácter público, no es patrocinado ni promovido por partido político alguno y sus recursos provienen de los ingresos que aportan todos los contribuyentes. Está prohibido el uso de esta (obra, programa o acción) con fines políticos, electorales, de lucro y otros distintos a los establecidos. Quien haga uso indebido de los recursos de ésta (obra, programa o acción) deberá ser denunciado y sancionado de acuerdo con la ley aplicable y ante la autoridad competente”. En ningún caso esta publicidad incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público excepto para el caso de los informes anuales de labores o gestión de los servidores públicos.
+La propaganda bajo cualquier modalidad de comunicación social, que difundan los sujetos de esta ley se sujetará a lo siguiente:
+
+I. Deberá tener carácter institucional y fines informativos, educativos o de orientación social;
+
+II. En ningún caso incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público; y
+
+III. Deberá contener un anuncio, en lugar visible y ocupando al menos una quinta parte en proporción al área o espacio en el que se anuncie la leyenda: "Esta (obra, programa o acción) es de carácter público, no es patrocinado ni promovido por partido político alguno y sus recursos provienen de los ingresos que aportan todos los contribuyentes. Está prohibido el uso de esta (obra, programa o acción) con fines políticos, electorales, de lucro y otros distintos a los establecidos. Quien haga uso indebido de los recursos de ésta (obra, programa o acción) deberá ser denunciado y sancionado de acuerdo con la ley aplicable y ante la autoridad competente".
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2012)</small>
+
+###### Artículo 73 Bis.
+
+Para efectos de lo que dispone el artículo anterior, el informe anual de labores o gestión de los sujetos de esta Ley, así como la publicidad que para darlos a conocer se difundan, no serán considerados como propaganda, siempre que la misma se limite una vez al año en la entidad y no exceda de los siete días anteriores y cinco posteriores a la fecha en que se rinda el informe. En ningún caso la difusión de éstos podrá tener fines electorales ni realizarse desde el inicio de las campañas electorales y hasta la conclusión del día en que se celebren las elecciones.
 
 ### Capítulo Segundo. Del control programático y presupuestal
 
@@ -749,11 +777,11 @@ Secretario de Gobierno
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 23 DE DICIEMBRE DE 2009.
 
-LEY POR LA QUESE REFORMAN Y ADICIONAN LOS ARTICULOS 2, 2-BIS Y 25 DE LA LEY PARA EL MANEJO DE LOS RECURSOS PUBLICOS DEL ESTADO DE QUERETARO.
+LEY POR LA QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 2, 2-BIS Y 25 DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO.
 
 Artículo Primero. Las disposiciones de vigencia anual relativas a la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2010, serán las siguientes:
 
@@ -873,7 +901,7 @@ Artículo Cuarto. Publíquese en el Periódico Oficial del Gobierno del Estado "
 
 P.O. 23 DE DICIEMBRE DE 2009.
 
-LEY POR LA QUE SE REFORMA EL ARTICULO 31 DE LA LEY PARA EL MANEJO DE LOS RECURSOS PUBLICOS DEL ESTADO DE QUERETARO.
+LEY POR LA QUE SE REFORMA EL ARTÍCULO 31 DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO.
 
 Artículo Primero. La presente Ley entrará en vigor a partir del 01 de enero de 2010.
 
@@ -1004,3 +1032,9 @@ Salvo lo dispuesto en el párrafo siguiente, los procedimientos a que se refiere
 Cuando las autoridades fiscales hubieren emitido requerimientos en términos de la fracción III, del numeral 60 del Código Fiscal del Estado de Querétaro vigente hasta el 31 de diciembre de 2010, podrán imponer las multas que correspondan, de conformidad con dicha fracción.
 
 Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 8 DE JUNIO DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga"
+
+Artículo Segundo. Se derogan todas las disposiciones legales igual o menor (sic) jerarquía que se opongan a la presente Ley.
