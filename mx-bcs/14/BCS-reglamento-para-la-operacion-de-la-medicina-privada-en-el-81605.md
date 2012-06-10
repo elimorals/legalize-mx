@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-para-la-operacion-de-la-medicina-privada-en-el-81605
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-31"
-last_updated: "2011-03-31"
+last_updated: "2012-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81605&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # REGLAMENTO PARA LA OPERACION DE LA MEDICINA PRIVADA EN EL BENEMERITO HOSPITAL GENERAL CON ESPECIALIDADES "JUAN MARIA DE SALVATIERRA", BAJA CALIFORNIA SUR
 
-REGLAMENTO PARA LA OPERACION DE LA MEDICINA PRIVADA EN EL BENEMERITO HOSPITAL GENERAL CON ESPECIALIDADES "JUAN MARIA DE SALVATIERRA" DEL ESTADO DE BAJA CALIFORNIA SUR
+REGLAMENTO PARA LA OPERACIÓN DE LA MEDICINA PRIVADA EN EL BENEMÉRITO HOSPITAL GENERAL CON ESPECIALIDADES "JUAN MARÍA DE SALVATIERRA" DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO PARA LA OPERACIÓN DEL NIVEL 8 EN EL BENEMÉRITO HOSPITAL GENERAL CON ESPECIALIDADES "JUAN MARÍA DE SALVATIERRA" DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. 10 DE JUNIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el jueves 31 de marzo de 2011.
 
@@ -33,7 +35,7 @@ C O N S I D E R A N D O.
 
 d. Por lo anteriormente expuesto y fundado, ha tenido a bien expedir el siguiente:
 
-REGLAMENTO PARA LA OPERACIÓN DE LA MEDICINA PRIVADA EN EL BENEMERITO HOSPITAL GENERAL CON ESPECIALIDADES "JUAN MARIA DE SALVATIERRA".
+REGLAMENTO PARA LA OPERACIÓN DE LA MEDICINA PRIVADA EN EL BENEMÉRITO HOSPITAL GENERAL CON ESPECIALIDADES "JUAN MARÍA DE SALVATIERRA".
 
 ### CAPITULO I. GENERALIDADES
 
@@ -446,3 +448,13 @@ Dr. Román Pablo Rangel Pinedo
 Contralor General de Gobierno
 
 COMISARIO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B. O. 10 DE JUNIO DE 2012.
+
+Artículo Primero.- Se abroga el reglamento para la Medicina Privada en el Benemérito Hospital General con Especialidades "Juan María de Salvatierra" Publicado en el Boletín Oficial del Gobierno del Estado número 21 de fecha 31 de Marzo del año 2011.
+
+Artículo Segundo.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Tercero.- Se otorga un plazo de 60 días contados a partir de la firma del presente Reglamento, para la regularización de los convenios con médicos y enfermeras que participen en el Nivel 8 a que hace referencia el presente Reglamento.
