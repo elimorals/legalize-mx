@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-senalamientos-viales-para-el-estado-de-nuevo-leon-69886"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-21"
-last_updated: "2010-12-24"
+last_updated: "2012-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEÑALAMIENTOS VIALES PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de agosto de 2009.
 
@@ -93,7 +93,39 @@ g) En fajas separadoras centrales y laterales, isletas y glorietas; y
 
 h) En los accesos al Sistema de Transporte Colectivo.
 
-IX. La colocación de anuncios en puentes peatonales;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2012)</small>
+
+IX. La colocación de anuncios en puentes peatonales, salvo cuando los Ayuntamientos acuerden, por las dos terceras partes de sus integrantes, en los términos del Artículo 115, fracción II, Inciso b) de la Constitución Política de los Estados Unidos Mexicanos; la construcción e instalación de uentes (sic) peatonales sujetándolos al régimen de Asociación Pública Privada. En dicho acuerdo se deberá;
+
+a) Justificar y fundamentar la necesidad y beneficio de que dichas estructuras sean construidas con la participación del sector privado a cambio de su explotación o aprovechamiento comercial con fines publicitarios;
+
+b) Verificar que el sitio donde se pretendan ubicar sea el adecuado para ello y no representen un riesgo para la población, sus bienes y entorno.
+
+Para ello se deberán realizar previamente estudios viales y de flujo peatonal además de recabar la factibilidad de la autoridad municipal competente en materia de protección civil;
+
+c) Establecer las obligaciones a cargo de la empresa concesionaria, como mínimo las siguientes:
+
+1) Suscribir el Convenio de Asociación Público Privada con el Municipio de que se trate y publicarlo en el Periódico Oficial del Estado;
+
+2) Obtener las licencias y permisos necesarios para la construcción e instalación de los puentes y para la colocación de anuncios, el Convenio de Asociación Pública Privada deberá establecer una cláusula de recisión en caso de incumplimiento de la parte privada;
+
+3) Presentar para su aprobación a la autoridad municipal el programa de ejecución de la obra;
+
+4) Diseñar y construir el puente peatonal con rampas, iluminación y demás medidas que permitan la accesibilidad universal;
+
+5) No mezclar anuncios con señalización vial;
+
+6) La señal como el soporte, el derecho de vía del camino o el espacio frente a las señales, no deberán ser usados como anuncios comerciales;
+
+7) La publicidad que se coloque en la estructura de los puentes peatonales deberá estar fuera del cono visual del conductor y ser de un diseño y tamaño que no cause la distracción de los automovilistas;
+
+8) Pagar los servicios de energía eléctrica por el alumbrado de los puentes y de los gastos para su limpieza, conservación y mantenimiento;
+
+9) Cumplir con la Normatividad Técnica para regular el espacio público y la protección a la imagen y estética urbana, conforme a lo dispuesto en la Ley de Desarrollo Urbano del Estado de Nuevo León;
+
+10) Cumplir con las demás disposiciones legales vigentes en el Estado, en materia de protección civil, medio ambiente, o cualesquiera otras aplicables;
+
+11) Proporcionar el mantenimiento correctivo y preventivo al puente peatonal y a las estructuras y anuncios colocados en éstos, durante el tiempo que se establezca en el Convenio de la Asociación Pública Privada.
 
 X. La colocación de anuncios o denominaciones comerciales en el espacio o superficie establecida para el señalamiento, o sobre o bajo el señalamiento vertical, o en los elementos de soporte de los semáforos; y
 
@@ -306,3 +338,7 @@ JORGE CANTÚ VALDERRAMA
 P.O. 24 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE JUNIO DE 2012.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
