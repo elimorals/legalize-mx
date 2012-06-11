@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-3681
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-19"
-last_updated: "2011-12-31"
+last_updated: "2012-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 19 de diciembre de 2003.
 
@@ -177,7 +177,7 @@ V.- Pensionado, al trabajador retirado del servicio, a quien en forma específic
 
 VI.- Pensionista, a la persona que recibe el importe de una pensión originada por tener el carácter de beneficiario del trabajador, pensionado o jubilado fallecido;
 
-VII.- Derechohabiente, las personas a las que se refiere las fracciones lll, IV, V y Vl de este artículo;
+VII.- Derechohabiente, las personas a las que se refiere las fracciones III, IV, V y VI de este artículo;
 
 VIII.- Beneficiarios, a:
 
@@ -187,7 +187,9 @@ b) Los hijos del trabajador, pensionado o jubilado, menores de dieciocho años, 
 
 c) Los hijos del trabajador, pensionado o jubilado, mayores de dieciocho años y hasta la edad de veinticinco años que, además de cumplir con los requisitos establecidos en el inciso anterior, que acrediten estar cursando estudios de nivel medio superior o superior;
 
-d) Los hijos del trabajador, pensionado o jubilado, soltero que al cumplir dieciocho años de edad se encuentren inhabilitados física o mentalmente;
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2012)</small>
+
+d) Los hijos del trabajador, pensionado o jubilado, solteros con alguna discapacidad que les impida mantenerse por su propio trabajo;
 
 e) Los hijos adoptivos que se encuentren en cualquiera de los supuestos previstos en los incisos b), c) y d) cuando la adopción se haya efectuado por el trabajador, pensionado o jubilado de conformidad con lo establecido por las disposiciones civiles vigentes; y
 
@@ -1761,7 +1763,7 @@ EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Pal
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los once días del mes de diciembre del año dos mil tres.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- MAESTRO EN DERECHO CARLOS ARREDONDO CONTRETAS.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 30 DE DICIEMBRE DE 2005.
 
@@ -1827,7 +1829,7 @@ años de servicio
 
 1 3 2 o más 5
 
-lII. Para las pensiones de retiro por edad y tiempo de servicios, inhabilitación y fallecimiento, la base para el cálculo del monto de la pensión se calculará con el promedio de las percepciones que le hayan correspondido durante los últimos cinco años cotizados, anteriores a su retiro, previa actualización mediante el índice Nacional de Precios al Consumidor (INPC).
+III. Para las pensiones de retiro por edad y tiempo de servicios, inhabilitación y fallecimiento, la base para el cálculo del monto de la pensión se calculará con el promedio de las percepciones que le hayan correspondido durante los últimos cinco años cotizados, anteriores a su retiro, previa actualización mediante el índice Nacional de Precios al Consumidor (INPC).
 
 TERCERO.- Para garantizar que esta Ley beneficie a los derechohabientes, así como para asegurar el cumplimiento de sus objetivos y la viabilidad financiera, la Junta Directiva realizará estudios y análisis estadísticos y actuariales cada cuatro años, respecto de los servicios y prestaciones que proporciona el Instituto, y en su caso, realizará las adecuaciones administrativas que correspondan o promoverá ante las instancias competentes las reformas o adiciones legales necesarias.
 
@@ -1852,3 +1854,9 @@ y mediano plazo 0.50% 0.50%
 Estancias infantiles 0.50% 0.50%
 
 SÉPTIMO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE JUNIO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
