@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2012-06-06"
+last_updated: "2012-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE JUNIO DE 2012.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -1866,9 +1866,7 @@ ARTÍCULO 206 BIS. Se impondrán de tres a doce años de prisión y de dosciento
 
 Se entenderá también como tortura y se sancionará con las penas previstas en el presente artículo, la aplicación sobre una persona de métodos tendientes a anular la personalidad de la víctima o a disminuir su capacidad física o mental, aunque no cause dolor físico o angustia psicológica.
 
-Las mismas sanciones se impondrán al servidor público que, en el ejercicio de sus atribuciones o con motivo de ellas, instigue o autorice a otro a cometer tortura, o no impida a otro su comisión; así como al particular que, instigado o autorizado por un servidor público, cometa tortura.
-
-No se considerarán como tortura dolores o sufrimientos físicos que a consecuencia únicamente de sanciones legales o derivadas de un acto legal de autoridad.
+Las mismas sanciones se impondrán al servidor público que, en el ejercicio de sus atribuciones o con motivo de ellas, instigue o autorice a otro a cometer tortura, o no impida a otro su comisión; así como al particular que, instigado o autorizado por un servidor público, cometa tortura. No se considerarán como tortura dolores o sufrimientos físicos que a consecuencia únicamente de sanciones legales o derivadas de un acto legal de autoridad.
 
 > <small>(ADICIONADO, G.O. 6 DE JUNIO DE 2012)</small>
 
@@ -2378,7 +2376,9 @@ VIII. Respecto de documentos que se conserven en oficinas públicas, cuando la s
 
 IX. En contra de persona con discapacidad o de más de sesenta años de edad; o
 
-X. (DEROGADA, G.O. 15 DE MAYO DE 2003)
+> <small>(ADICIONADA, G.O. 11 DE JUNIO DE 2012)</small>
+
+X. Respecto de vales de papel, o cualquier dispositivo en forma de tarjeta plástica, emitido por personas morales utilizados para canjear bienes y servicios.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE MAYO DE 2003)</small>
 
@@ -4711,3 +4711,9 @@ G.O. 6 DE JUNIO DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación.
+
+G.O. 11 DE JUNIO DE 2012.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y publicación y para su mayor difusión publíquese en el Diario Oficial de la Federación.
