@@ -4,7 +4,7 @@ identifier: "FED-bases-generales-de-organizacion-y-funcionamiento-del-14994"
 country: "mx"
 rank: "otro"
 publication_date: "1998-11-26"
-last_updated: "2012-03-27"
+last_updated: "2012-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14994&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-11-12"
 
 BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE JUNIO DE 2012.
 
 Bases publicadas en la Primera Sección del Diario Oficial de la Federación, el jueves 26 de noviembre de 1998.
 
@@ -113,13 +113,17 @@ I. Ejecutar y vigilar la aplicación de las políticas y acciones formuladas por
 
 II. Vigilar el cumplimiento de lo previsto por estas Bases Generales;
 
-III. Expedir circulares, instructivos, manuales de organización, manuales de procedimientos, así como las disposiciones técnicas y operativas necesarias para el mejor funcionamiento del Instituto, de acuerdo con las normas legales aplicables;
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2012)</small>
+
+III. Expedir circulares, instructivos, así como las disposiciones técnicas y operativas necesarias para el mejor funcionamiento del Instituto, de acuerdo con las normas legales aplicables;
 
 IV. Proponer a las áreas correspondientes del Consejo de la Judicatura Federal, los nombramientos de los servidores públicos a ocupar cargos directivos, operativos y técnicos del Instituto;
 
 V. Proponer el nombramiento de cada defensor público y asesor jurídico interinos, en los términos que establecen las normas que regulan el servicio civil de carrera;
 
-VI. Supervisar y evaluar el desempeño de los servidores públicos del Instituto;
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2012)</small>
+
+VI. Considerar los resultados de la supervisión y evaluación que le reporten las Unidades correspondientes y, con base en ellos, adoptar las decisiones conducentes para mejorar los servicios prestados por los defensores públicos y asesores jurídicos;
 
 VII. Determinar la adscripción de cada uno de los servidores públicos del Instituto;
 
@@ -329,13 +333,15 @@ II. Coordinar la elaboración de la propuesta de anteproyecto de presupuesto anu
 
 III. Vigilar la asignación y control de los bienes muebles e inmuebles destinados al Instituto;
 
-IV. Elaborar el anteproyecto de Plan Anual de Capacitación y Estímulos del Instituto para proponerlo al Director General;
+IV. (DEROGADA, D.O.F. 11 DE JUNIO DE 2012)
 
-V. Establecer enlaces con las universidades públicas o privadas y demás instituciones de educación superior, para la prestación del servicio social de sus alumnos en el Instituto;
+V. (DEROGADA, D.O.F. 11 DE JUNIO DE 2012)
 
 VI. Tramitar la expedición de nombramientos de los servidores públicos del Instituto, así como las incidencias de personal, ante el área administrativa competente del Consejo de la Judicatura Federal;
 
-VII. Aplicar el procedimiento de selección e ingreso para ocupar las plazas vacantes de defensor público y asesor jurídico;
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2012)</small>
+
+VII. Intervenir en el procedimiento de selección e ingreso para ocupar las plazas vacantes de defensor público y asesor jurídico, según lo determine el Director General;
 
 > <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2008)</small>
 
@@ -417,9 +423,17 @@ XXIV. Las demás que determine la Dirección General.
 
 Artículo 13 quater.- El secretariado técnico contará con el personal profesional y administrativo que determine el presupuesto.
 
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2012)</small>
+
+Se integrará, al menos, con una Secretaría Técnica de Coordinación Interna y otra Externa, cuyas funciones las asignará el Director General.
+
 > <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2008)</small>
 
 Artículo 13 quintus.- Los secretarios técnicos tendrán funciones de apoyo a la Dirección General y a las Unidades Administrativas, en los términos que fijen las disposiciones técnicas y operativas que se expidan conforme al artículo 4o., fracción III, de estas Bases.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2012)</small>
+
+A la Secretaría Técnica de Coordinación Externa corresponderá presentarle al Director General el proyecto de Plan Anual de Capacitación y Estímulos, en los términos señalados en los artículos 36 de la Ley Federal de Defensoría Pública y 71 de estas Bases Generales. Igualmente, le corresponderá llevar a cabo el control de los prestadores de servicio social, atendiendo a lo dispuesto en los artículos 76, 77 y 78 de este texto legal.
 
 ## TITULO TERCERO. De los servicios del Instituto Federal de Defensoría Pública
 
@@ -619,19 +633,29 @@ I. Visita inicial.- Es la que se lleva a cabo dentro de las cuarenta y ocho hora
 
 II. Visita ordinaria.- Es la que realiza durante el arraigo o la tramitación del proceso a cada uno de sus defendidos, con la finalidad de allegarse probanzas que puedan aportarse en defensa de sus representados, preparar el ofrecimiento y desahogo de las mismas, interponer medios de impugnación y tomar decisiones junto con el arraigado o encausado para una adecuada defensa, independientemente de lo previsto por la fracción VIII del artículo 12 de la Ley.
 
-Los defensores valorarán la necesidad de las visitas a efecto de realizarlas, además de tener en cuenta que deben practicarlas, cuando menos:
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2012)</small>
 
-a) Tras la detención y durante el arraigo del defendido.
+Los defensores visitarán a sus defendidos en los siguientes momentos:
 
-b) Antes de la declaración preparatoria.
+a) Al inicio de la instrucción.
 
-c) Al inicio de la instrucción.
+b) Previamente a que se formulen las conclusiones.
 
-d) Previamente a que formulen las conclusiones.
+c) En segunda instancia, antes de expresar agravios.
 
-e) Antes y después de dictada la sentencia.
+d) Después de dictada la sentencia de primera y segunda instancia.
 
-Sin perjuicio de lo anterior, los defensores estarán atentos a entrevistarse personalmente con los defendidos, sus familiares o sus allegados, siempre y cuando ellos lo soliciten o resulte necesario para transmitirles información relevante o llevar a cabo algún acto procesal determinante para la defensa.
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2012)</small>
+
+Los defensores valorarán la necesidad de realizar más visitas y estarán atentos a entrevistarse personalmente con los defendidos, sus familiares o sus allegados, siempre y cuando ellos lo soliciten o resulte necesario para transmitirles información relevante o llevar a cabo algún acto procesal determinante para la defensa. Todo lo efectuado por los defensores deberán hacerlo constar de la manera que estimen adecuada.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2012)</small>
+
+Los defensores practicarán las visitas necesarias para realizar una defensa adecuada y de calidad.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2012)</small>
+
+Los defensores que, tras aceptar el cargo, no puedan comparecer a los actos del proceso, por encontrarse los defendidos arraigados o recluidos en un lugar distinto a donde aquéllos estén adscritos, solicitarán el auxilio de sus homólogos para que éstos realicen las visitas que ambos estimen necesarias y los actos inherentes a la defensa. Tanto los defensores, como los homólogos deberán, oportunamente, compartir la información que resulte indispensable para llevar a cabo las visitas o actos procesales.
 
 ### CAPITULO III. Del servicio de asesoría jurídica
 
@@ -1546,5 +1570,9 @@ D.O.F. 16 DE MARZO DE 2011.
 UNICO.- Las presentes reformas a las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública, deberán publicarse en el Diario Oficial de la Federación y entrarán en vigor el día siguiente de su publicación.
 
 D.O.F. 27 DE MARZO DE 2012.
+
+UNICO.- Las presentes reformas a las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública, deberán publicarse en el Diario Oficial de la Federación y entrarán en vigor el día siguiente de su publicación.
+
+D.O.F. 11 DE JUNIO DE 2012.
 
 UNICO.- Las presentes reformas a las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública, deberán publicarse en el Diario Oficial de la Federación y entrarán en vigor el día siguiente de su publicación.
