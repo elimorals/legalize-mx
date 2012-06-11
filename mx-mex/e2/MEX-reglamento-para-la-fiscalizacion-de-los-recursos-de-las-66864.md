@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-para-la-fiscalizacion-de-los-recursos-de-las-66864"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-08"
-last_updated: "2011-01-04"
+last_updated: "2012-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO PARA LA FISCALIZACION DE LOS RECURSOS DE LAS ORGANIZACIONES DE CIUDADANOS QUE PRETENDAN OBTENER SU REGISTRO COMO PARTIDO POLITICO LOCAL
 
-REGLAMENTO PARA LA FISCALIZACION DE LOS RECURSOS DE LAS ORGANIZACIONES DE CIUDADANOS QUE PRETENDAN OBTENER SU REGISTRO COMO PARTIDO POLITICO LOCAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO
+REGLAMENTO PARA LA FISCALIZACIÓN DE LOS RECURSOS DE LAS ORGANIZACIONES DE CIUDADANOS QUE PRETENDAN OBTENER SU REGISTRO COMO PARTIDO POLÍTICO LOCAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO PUNTO DEL ACUERDO QUE EXPIDE EL REGLAMENTO PARA LA FISCALIZACIÓN DE LOS RECURSOS DE LAS ORGANIZACIONES O AGRUPACIONES DE CIUDADANOS QUE PRETENDAN OBTENER SU REGISTRO COMO PARTIDO POLÍTICO LOCAL, PUBLICADO EN LA G.G. DE 11 DE JUNIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el jueves 8 de enero de 2009.
 
@@ -457,7 +459,7 @@ ING. FRANCISCO JAVIER LÓPEZ CORRAL
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.G. 4 DE ENERO DE 2011.
 
@@ -466,3 +468,11 @@ PRIMERO.- Las reformas aprobadas por el Punto Único, entrarán en vigor al día
 SEGUNDO.- Los procedimientos de fiscalización de los recursos de las organizaciones de ciudadanos que pretenden obtener su registro como partido político local, a quienes el Consejo General haya aprobado la realización de actividades políticas independiente para constituirse como tales, antes de la aprobación de las presentes reformas, se ajustarán a las disposiciones del reglamento aprobado mediante Acuerdo número CG/67/2008, referido en el Resultando I.
 
 TERCERO.- Publíquese el presente Acuerdo y su anexo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno", así como en la página electrónica del Instituto Electoral del Estado de México.
+
+G.G. 11 DE JUNIO DE 2012.
+
+PRIMERO.- El Reglamento aprobado por el Punto Primero, entrará en vigor al día siguiente de la publicación del presente Acuerdo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno".
+
+SEGUNDO.- Las organizaciones o agrupaciones de ciudadanos que hayan iniciado el procedimiento tendiente a obtener su registro como partido político local en la fecha anterior a la entrada en vigencia del Reglamento que por este Acuerdo se expide, se regirán por el Reglamento para la Fiscalización de los Recursos de las Organizaciones de Ciudadanos que pretendan obtener su registro como Partido Político Local, expedido a través del Acuerdo número CG/66/2008 de fecha veintitrés de diciembre del dos mil ocho.
+
+TERCERO.- Publíquese el presente Acuerdo y su anexo en el Periódico Oficial del Gobierno del Estado libre y Soberano de México, "Gaceta del Gobierno", así como en la página electrónica del Instituto Electoral del Estado de México.
