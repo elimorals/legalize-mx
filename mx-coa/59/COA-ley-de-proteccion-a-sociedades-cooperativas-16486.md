@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-a-sociedades-cooperativas-16486"
 country: "mx"
 rank: "ley"
 publication_date: "1934-09-12"
-last_updated: "1934-09-12"
+last_updated: "2012-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16486&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY DE PROTECCION A SOCIEDADES COOPERATIVAS
 
-LEY DE PROTECCION A SOCIEDADES COOPERATIVAS
+LEY DE PROTECCIÓN A SOCIEDADES COOPERATIVAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE FOMENTO COOPERATIVO DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 12 DE JUNIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 12 de septiembre de 1934.
 
@@ -114,3 +116,11 @@ P.A. del Srio. del Ejvo., del Estado.
 El Oficial Mayor.
 
 VICENTE DAVILA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE JUNIO DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley de Protección de Sociedades Cooperativas publicadas en el Periódico Oficial del Estado el 12 de septiembre de 1934 y se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
