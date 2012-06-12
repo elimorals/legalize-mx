@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-promocion-de-la-convivencia-libre-de-violencia-8554
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-31"
-last_updated: "2012-01-31"
+last_updated: "2012-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85541&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2012-01-25"
 
 LEY PARA LA PROMOCIÓN DE LA CONVIVENCIA LIBRE DE VIOLENCIA EN EL ENTORNO ESCOLAR DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE JUNIO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 31 de enero de 2012.
 
@@ -82,7 +82,9 @@ VI. Ley: Ley para la Promoción de la Convivencia Libre de Violencia en el Entor
 
 VII. Organizaciones de la Sociedad Civil: agrupaciones u organizaciones mexicanas que, estando legalmente constituidas, realicen alguna o algunas de las actividades de apoyo, promoción y defensa de los derechos humanos, en materia de prevención o atención de la violencia en el entorno escolar o maltrato escolar que no persigan fines de lucro ni de proselitismo partidista, político-electoral o religioso, sin menoscabo de las obligaciones señaladas en otras disposiciones legales;
 
-VIII. Persona generadora de maltrato escolar: estudiante o estudiantes, personal docente, directivos escolares, personal administrativo de las escuelas, padres y madres de familia o tutores que, individual o conjuntamente, infligen algún tipo de maltrato en cualquiera de sus tipos o modalidades contra otro integrante o integrantes de la comunidad educativa;
+> <small>(REFORMADA, G.O. 12 DE JUNIO DE 2012)</small>
+
+VIII. Personas involucradas en una dinámica de violencia en el entorno escolar: las personas que en forma individual o colectiva forman parte de una dinámica de violencia dentro del ámbito escolar y que situacionalmente pueden asumir roles de reproductores o de receptores de la misma, tanto de forma directa como indirecta. Las principales personas que pueden asumir los referidos roles son fundamentalmente: los estudiantes, los profesores, el personal administrativo de las instituciones escolares así como los familiares y tutores;
 
 IX. Persona receptora de maltrato escolar: integrante de la comunidad educativa que sufra algún tipo de maltrato en cualquiera de sus tipos o modalidades por parte de otro integrante o integrantes de la comunidad educativa;
 
@@ -296,7 +298,9 @@ V. Las demás que le señalen las disposiciones legales aplicables y el Reglamen
 
 Corresponde a la Secretaría de Seguridad Pública del Distrito Federal:
 
-I. Intervenir y, en su caso, dar parte a las autoridades correspondientes, en situaciones flagrantes de violencia en el entorno escolar que incidan de manera directa en la generación de maltrato escolar y maltrato entre escolares;
+> <small>(REFORMADA, G.O. 12 DE JUNIO DE 2012)</small>
+
+I. Participar con estricto apego a los derechos humanos de las personas y, en su caso, dar parte a las autoridades correspondientes sobre una dinámica de violencia en el entorno escolar que incidan de manera directa en la generación de maltrato escolar y maltrato entre escolares;
 
 II. Coadyuvar con las acciones en materia de prevención y atención a las que se refiere la presente Ley;
 
@@ -673,3 +677,9 @@ QUINTO.- Las autoridades de la presente Ley, conforme a la suficiencia presupues
 Recinto de la Asamblea Legislativa del Distrito Federal, a los quince días del mes de diciembre del año dos mil once.- POR LA MESA DIRECTIVA.- DIP. ALEJANDRO CARBAJAL GONZÁLEZ, PRESIDENTE.- DIP. GUILLERMO OROZCO LORETO, SECRETARIO.- DIP. GUILLERMO OCTAVIO HUERTA LING, SECRETARIO.- FIRMA.
 
 En cumplimiento a lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veinticinco días del mes de enero del año dos mil doce.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, JESÚS VALDÉS PEÑA.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE EDUCACION, MARIO M. DELGADO CARRILLO.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 12 DE JUNIO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
