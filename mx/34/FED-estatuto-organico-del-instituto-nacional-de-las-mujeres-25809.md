@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-las-mujeres-25809"
 country: "mx"
 rank: "estatuto"
 publication_date: "2002-09-17"
-last_updated: "2011-11-15"
+last_updated: "2012-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25809&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2001-10-02"
 
 ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE LAS MUJERES
 
-> <small>N. DE E. LAS REFORMAS APROBADAS POR EL INSTITUTO NACIONAL DE LAS MUJERES, MODIFICA DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL TEXTO DEL ESTATUTO DEL 17 DE SEPTIEMBRE DE 2002, DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, Y SI BIEN DIVERSOS ARTICULOS QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN EL D.O.F. DE 15 DE NOVIEMBRE DE 2011.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE JUNIO DE 2012.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 17 de septiembre de 2002.
 
@@ -133,7 +131,9 @@ XXII. Programa Integral: Programa Integral para Prevenir, Atender, Sancionar y E
 
 XXIII. Ley General de Acceso: Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
-XXIV. Unidad responsable: Unidad administrativa del Instituto Nacional de las Mujeres.
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2012)</small>
+
+XXIV. Unidad responsable: Deberá entenderse como cualquier unidad administrativa del Instituto Nacional de las Mujeres, ambos términos podrán ser usados de forma indistinta en el presente.
 
 > <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
 
@@ -201,7 +201,7 @@ XVI. Las demás que las disposiciones legales le atribuyan.
 
 ### CAPITULO II. DE LA ESTRUCTURA ORGANICA
 
-> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2012)</small>
 
 ###### Artículo 9.
 
@@ -221,7 +221,7 @@ E. Prosecretaría Técnica.
 
 2. De la Presidencia.
 
-2.1 Las Direcciones Generales:
+2.1. Las Direcciones Generales:
 
 2.1.1. Dirección General de Administración y Finanzas:
 
@@ -241,49 +241,53 @@ E. Prosecretaría Técnica.
 
 2.1.3.2 Dirección de Difusión e Imagen.
 
-2.2. De las Coordinaciones:
+2.1.4 Dirección General de Institucionalización de la Perspectiva de Género:
+
+2.1.4.1 Dirección de Cultura Institucional y Gestión Pública.
+
+2.1.4.2 Dirección de Institucionalización y Promoción de la Perspectiva de Género en Estados y Municipios.
+
+2.1.4.3 Dirección de Fortalecimiento a la Transversalidad de la Perspectiva de Género en las Entidades Federativas.
+
+2.1.4.4 Dirección de Capacitación y Profesionalización.
+
+2.1.5. Dirección General de Transversalización de la Perspectiva de Género:
+
+2.1.5.1 Dirección de Desarrollo Humano Sustentable.
+
+2.1.5.2 Dirección de Seguimiento del Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
+
+2.1.5.3 Dirección de Participación Social y Política.
+
+2.1.5.4 Dirección del Modelo de Equidad de Género.
+
+2.1.6 Dirección General de Evaluación y Desarrollo Estadístico:
+
+2.1.6.1 Dirección de Evaluación.
+
+2.1.6.2 Dirección de Documentación e Información.
+
+2.1.6.3 Dirección de Estadística.
+
+2.2 De las Coordinaciones:
 
 2.2.1 Coordinación de Asuntos Jurídicos:
 
 2.2.1.1 Subcoordinación de Asuntos Jurídicos.
 
-2.2.1.2 Asesoras y Asesores Jurídicos.
+2.2.7.1.2 (sic) Asesoras y Asesores Jurídicos.
 
 2.2.2 Coordinación de Asesores:
 
-2.2.2.1 Asesoras y Asesores.
+2.2.1.1 Asesoras y Asesores.
 
 2.2.3 Coordinación de Relaciones Institucionales.
 
 3. De la Secretaría Ejecutiva.
 
-3.1 Dirección General de Institucionalización de la Perspectiva de Género:
+3.1 Dirección de Seguimiento Interno a la Política Nacional de Igualdad.
 
-3.1.1 Dirección de Cultura Institucional y Gestión Pública.
-
-3.1.2 Dirección de Institucionalización y Promoción de la Perspectiva de Género en Estados y Municipios.
-
-3.1.3 Dirección de Fortalecimiento a la Transversalidad de la Perspectiva de Género en las Entidades Federativas.
-
-3.1.4 Dirección de Capacitación y Profesionalización.
-
-3.2 Dirección General de Transversalización de la Perspectiva de Género:
-
-3.2.1 Dirección de Desarrollo Humano Sustentable.
-
-3.2.2 Dirección de Seguimiento del Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
-
-3.2.3 Dirección de Participación Social y Política.
-
-3.2.3 Dirección del Modelo de Equidad de Género.
-
-3.3. Dirección General de Evaluación y Desarrollo Estadístico:
-
-3.3.1 Dirección de Evaluación.
-
-3.3.2 Dirección de Documentación e Información.
-
-3.3.3 Dirección de Estadística.
+3.2 Dirección de Operación Interna.
 
 4. Del Organo Interno de Control.
 
@@ -1003,115 +1007,211 @@ XXV. Las demás que con ese carácter le confieran las disposiciones legales apl
 
 ### CAPITULO II. DE LA DIRECCION GENERAL DE ADMINISTRACION Y FINANZAS Y SUS UNIDADES ADMINISTRATIVAS
 
-> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE JUNIO DE 2012)</small>
 
 ###### Artículo 45.
 
-La persona Titular de la Dirección General de Administración y Finanzas será asistida por las Direcciones de Finanzas, Administración y Recursos Humanos, así como por el personal que se requiera para satisfacer las necesidades del servicio y tendrá las siguientes atribuciones:
+La persona Titular de la Dirección General de Administración y Finanzas será asistida por las Direcciones de Finanzas, Administración y Recursos Humanos, así como por el personal que se requiera para satisfacer las necesidades del servicio y tendrá las siguientes facultades:
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
 
 I. Elaborar y vigilar la ejecución del PAR de la Dirección General;
 
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+
 II. Administrar, programar, organizar, dirigir y evaluar las actividades de las Direcciones de su adscripción, conforme a la normativa vigente y proponer las medidas para el continuo mejoramiento de su gestión;
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
 
 III. Coordinar la planeación, presupuestación, programación, ejercicio, control y evaluación, en materia de gasto, adquisiciones, obra pública, arrendamientos, servicios, tecnologías de la información y comunicaciones y en materia de recursos humanos conforme a los objetivos y plan estratégico del Instituto;
 
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+
 IV. Autorizar la viabilidad técnica y operativa de los requerimientos de las unidades administrativas del Instituto a fin de atender los requerimientos y necesidades respecto a la adquisición de bienes, servicios, recursos humanos y financieros, obra pública, servicios en materia de tecnologías de información, comunicaciones y realizar la gestión de los mismos bajo los estándares de eficacia y calidad, asegurando que se realicen en las mejores condiciones de oportunidad, calidad y costo, de conformidad con la normativa aplicable y al amparo de las medidas de racionalidad y austeridad presupuestaria, de acuerdo con las políticas señaladas al respecto en el Presupuesto de Egresos de la Federación;
 
-V. Analizar, proponer y someter a aprobación de la persona Titular de la Presidencia del Instituto la procedencia y viabilidad presupuestaria de las adecuaciones, modificaciones a la estructura orgánica-ocupacional del Instituto desde el punto de vista técnico, organizacional, operacional y efectuar los trámites correspondientes;
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2012)</small>
+
+V. Analizar, proponer y someter a aprobación de la persona Titular de la Presidencia del Instituto, las modificaciones a la estructura orgánica-ocupacional del Instituto desde el punto de vista técnico, organizacional, operacional y efectuar los trámites correspondientes;
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
 
 VI. Ejercer la representación legal del Instituto en los términos señalados en las leyes aplicables;
 
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+
 VII. Presidir los Comités de Adquisiciones, Arrendamientos y Servicios, de Bienes Muebles, de Información, Mejora Regulatoria Interna y aquellos que determine la normativa correspondiente y la persona Titular de la Presidencia del Instituto así como designar a las personas que se desempeñarán en las secretarías técnicas de los mismos;
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
 
 VIII. Certificar o cotejar los documentos que forman parte de los archivos del Instituto, para ser exhibidos ante diversas autoridades, así como los que sean solicitados por el público en general, en cumplimiento con lo dispuesto en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y su Reglamento;
 
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+
 IX. Proporcionar los elementos necesarios para que las unidades administrativas elaboren convenios para el cumplimiento de sus funciones participando con la Coordinación de Asuntos Jurídicos en el análisis y revisión de los mismos;
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
 
 X. Registrar de forma conjunta con la persona Titular de la unidad responsable solicitante ante las instancias correspondientes, los contratos de fideicomiso, mandatos y análogos y proporcionar las herramientas necesarias para que el área administrativa de seguimiento a los mismos;
 
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+
 XI. Autorizar y vigilar que se realice el pago de impuestos y cuotas al seguro social; proveedores y, verificar que se efectúen los enteros y reintegros a la Tesorería de la Federación que correspondan;
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
 
 XII. Determinar las necesidades materiales, de recursos humanos, capacitación, de tecnologías de la información y comunicaciones, obra pública y servicios generales que requieran las unidades administrativas que conforman el Instituto, para su gestión operativa y presentarlo a la persona Titular de la Presidencia del Instituto para su conocimiento y aprobación;
 
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+
 XIII. Gestionar ante SHCP los recursos financieros, supervisar, validar y autorizar la elaboración de los oficios de inversión, acuerdos de ministración y fondo rotatorio y demás trámites necesarios para lograr los objetivos y metas del Instituto, así como las solicitudes para comprometer recursos de ejercicios fiscales futuros, en los términos de las disposiciones aplicables;
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
 
 XIV. Difundir y aplicar en las unidades administrativas del Instituto las normas, lineamientos, políticas y demás disposiciones que en materia programática, presupuestaria, financiera, contable y de organización, emitan las instancias competentes;
 
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+
 XV. Aplicar las medidas de austeridad, racionalidad, disciplina y control del ejercicio presupuestario, de acuerdo con las políticas señaladas al respecto en el Decreto de Presupuesto de Egresos de la Federación y demás documentos emitidos por las autoridades competentes;
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
 
 XVI. Fungir como instancia única del Instituto para gestionar y atender las solicitudes y consultas en materia de programación, presupuesto, ejercicio, control y seguimiento del gasto público federal ante la SHCP y ante las autoridades que correspondan en materia organizacional y administración del personal;
 
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+
 XVII. Proporcionar la información financiera, administrativa y el apoyo que requieran las unidades administrativas del Instituto para programar, presupuestar, organizar y controlar el presupuesto que les fue asignado para el cumplimiento de la normativa aplicable y sus respectivas funciones, haciéndoles del conocimiento oportunamente el estado que guarda el ejercicio del gasto;
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
 
 XVIII. Coordinar y revisar la elaboración en colaboración con las áreas bajo su cargo, del anteproyecto y proyecto de presupuesto anual; calendario de gasto; el estado del ejercicio del mismo de forma mensual de las unidades administrativas del Instituto y someterlos a la consideración de la persona Titular del Instituto, así como registrar presupuestaria y contablemente el ejercicio del gasto de las mismas, con base en las disposiciones y lineamientos aplicables;
 
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+
 XIX. Validar los informes relacionados con el presupuesto del Instituto y supervisar la elaboración de los estados financieros y el registro contable de las operaciones financieras y presupuestarias que realiza el mismo;
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
 
 XX. Revisar la elaboración, registro, seguimiento y autorizar las adecuaciones, reservas y compromisos presupuestarios que las unidades administrativas soliciten;
 
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+
 XXI. Solicitar a la Tesorería de la Federación la ministración de recursos necesarios, así como registrar, contabilizar, controlar, ejercer y en su caso proponer las modificaciones pertinentes al ejercicio presupuestal del Instituto;
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
 
 XXII. Supervisar la elaboración y someter a consideración de la persona Titular de la Presidencia del Instituto, los lineamientos, políticas, directrices, criterios técnicos, administrativos y de regulación, para la contratación de adquisiciones, arrendamientos, servicios de tecnologías de la información, telecomunicaciones, de obra pública, y demás normas de control administrativo que deban instrumentarse en el Instituto para eficientar su operación, así como aplicar, difundir y vigilar el cumplimiento de las mismas.
 
-XXIII. Supervisar la elaboración y desarrollo de los programas anuales en materia de adquisiciones, arrendamientos, servicios, de tecnologías de la información, comunicaciones, capacitación para el desarrollo y operación del Instituto así como presentarlo a la persona Titular de la Presidencia del mismo para su conocimiento y aprobación;
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2012)</small>
+
+XXIII. Supervisar la elaboración y desarrollo de los programas anuales en materia de adquisiciones, arrendamientos, servicios, de tecnologías de la información, comunicaciones, capacitación del Instituto así como presentarlo a la persona Titular de la Presidencia del mismo para su conocimiento y aprobación;
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
 
 XXIV. Administrar y supervisar la prestación de servicios, obra pública, adquisiciones y arrendamientos que tenga contratados el Instituto; los ingresos de recursos financieros que pudiera tener por actividades eventuales y la adecuada enajenación de los bienes muebles e inmuebles de su propiedad o de los que bajo cualquier título tenga en su posesión;
 
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+
 XXV. Fungir como responsable inmobiliario y llevar a cabo la regularización administrativa de los bienes inmuebles del Instituto conforme a las leyes de la materia:
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
 
 XXVI. Autorizar, suscribir, terminar anticipadamente y rescindir los contratos así como cualquier documento que implique actos de administración a nombre del Instituto en los que se comprometa el presupuesto del mismo a solicitud del área interesada, en su caso;
 
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+
 XXVII. Autorizar, suscribir, terminar anticipadamente y rescindir los contratos y cualquier u otro documento celebrado en el marco de las adquisiciones, arrendamientos, servicios y obra así pública en los que se comprometa el presupuesto del Instituto; de ser contrataciones solicitadas por las demás áreas administrativas, las personas titulares de éstas los suscribirán de forma conjunta, les darán el seguimiento correspondiente y de ser el caso, solicitarán oportunamente a la DGAF de la rescisión o terminación anticipada de los mismos.
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
 
 XXVIII. Vigilar la elaboración y ejecución de los programas de levantamiento físico de los inventarios de bienes de consumo e instrumentales del Instituto;
 
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+
 XXIX. Supervisar que el mantenimiento y conservación de los bienes muebles e inmuebles del Instituto se efectúe de manera periódica conforme a las necesidades existentes, a efecto de garantizar su óptima utilización;
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
 
 XXX. Supervisar la elaboración y ejecución de los programas de baja para bienes en desuso del Instituto, vigilando el cumplimiento de las disposiciones legales y administrativas establecidas en la materia;
 
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+
 XXXI. Autorizar con racionalidad, transparencia y calidad los trámites de eventos, viáticos y pasajes nacionales e internacionales del personal adscrito al Instituto y terceros requeridos por las unidades administrativas;
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
 
 XXXII. Supervisar y evaluar el Programa Interno de Protección Civil en lo que corresponde al personal, instalaciones, bienes y tecnologías de la información del Instituto, en coordinación permanente con las autoridades responsables del Sistema Nacional de Protección Civil;
 
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+
 XXXIII. Administrar y supervisar la infraestructura tecnológica de los servicios informáticos y de telecomunicaciones, así como los mecanismos de seguridad que garanticen el buen uso y resguardo de la información institucional, de acuerdo a la normativa correspondiente;
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
 
 XXXIV. Verificar y supervisar el cumplimiento de las obligaciones fiscales del Instituto.
 
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+
 XXXV. Vigilar que se lleven a cabo los trámites administrativos de finiquitos, liquidación (sic) pago de los terceros institucionales, las altas, bajas e incidencias, así como los procesos de producción de la nómina y control de asistencia en los términos de la normativa correspondiente;
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
 
 XXXVI. Suscribir, en coordinación con la Coordinación de Asuntos Jurídicos, los contratos que regulen las relaciones laborales del personal del Instituto;
 
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+
 XXXVII. Vigilar la implementación de las prestaciones y servicios que correspondan al personal del Instituto así como la expedición de credenciales de identificación y la integración de los expedientes del personal del mismo;
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
 
 XXXVIII. Evaluar y autorizar los mecanismos de control administrativo de personal así como autorizar los programas de reclutamiento, selección, formación y desarrollo, evaluación de desempeño en materia de desarrollo humano del personal del Instituto y en coordinación con las áreas del mismo, autorizar convenios de colaboración con instituciones educativas, en materia de servicio social y prácticas profesionales;
 
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+
 XXXIX. Vigilar la aplicación de las normas relativas a las remuneraciones, gratificaciones, prestaciones, descuentos y retenciones así como otorgar los estímulos y recompensas que establezca la ley y resolver los casos de excepción a las mismas.
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
 
 XL. Revisar y validar las constancias y actas circunstanciadas o de hechos, que instrumenten las direcciones de área bajo su cargo en el ejercicio de sus atribuciones;
 
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+
 XLI. Vigilar la implementación, certificación y renovación de los programas y sistemas de gestión que se tengan implementados en el Instituto o que fijen las autoridades correspondientes y la persona Titular de la Presidencia del Instituto en el ámbito de su competencia;
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
 
 XLII. Supervisar que se promueva en el personal del Instituto, la vocación de servicio; el uso racional de los recursos; el cumplimiento de los objetivos del Instituto; una cultura de calidad al interior; e impulsar actividades de seguridad e higiene, sociales, culturales y deportivas que mejoren la calidad de vida en el mismo e implantar, en coordinación con las unidades administrativas, las medidas técnico-administrativas apropiadas para la mejor organización y funcionamiento de la entidad;
 
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+
 XLIII. Supervisar la ejecución y seguimiento de los programas de capacitación y adiestramiento que requiera el personal del Instituto;
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
 
 XLIV. Supervisar la elaboración y actualización en coordinación con las demás unidades administrativas, de los manuales de organización, sistemas y procedimientos del Instituto y someterlos en su caso a la aprobación de la persona Titular de la Presidencia del mismo.
 
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+
 XLV. Revisar, supervisar y en su caso autorizar la presentación de los informes de rendición de cuentas a las instancias o autoridades correspondientes;
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
 
 XLVI. Atender y verificar que las solicitudes de información en el ámbito de su competencia, sean entregadas en los términos y plazos establecidos por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
 
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+
 XLVII. Custodiar y cuidar la documentación e información que por razón de su empleo, cargo o comisión, tenga bajo su responsabilidad, e impedir o evitar su uso, sustracción, destrucción, ocultamiento o inutilización indebidos; y
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
 
 XLVIII. Las demás que le señalan otras disposiciones legales y las que le confiera directamente la persona Titular de la Presidencia del Instituto.
 
-> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2012)</small>
 
 ###### Artículo 46.
 
 La persona Titular de la Dirección de Finanzas tendrá las siguientes facultades:
 
-I. Elaborar, vigilar y ejecutar el PAR de la Dirección de Finanzas;
+I. Elaborar, vigilar y ejecutar el PAR de la Dirección;
 
 II. Programar, definir y evaluar las actividades de las Subdirecciones de su adscripción, conforme a la normativa vigente y proponer las medidas para el continuo mejoramiento de su gestión;
 
@@ -1145,7 +1245,7 @@ XVI. Gestionar y formular ante la Tesorería de la Federación la ministración 
 
 XVII. Elaborar y someter a consideración de la persona Titular de la Dirección General de Administración y Finanzas del Instituto, los lineamientos, políticas, directrices, criterios técnicos, administrativos y de regulación, para la planeación, presupuestación, programación, ejercicio, control y evaluación, en materia de gasto del Instituto conforme a sus objetivos;
 
-XVIII. Gestionar con racionalidad, transparencia y calidad los trámites de control, registro, ejercicio y contabilización presupuestario del Instituto;
+XVIII. Gestionar con racionalidad, transparencia y calidad los trámites de control, registro, ejercicio y contabilización presupuestario (sic) del Instituto;
 
 XIX. Atender y presentar en tiempo y forma los informes de rendición de cuentas; requerimientos de los Organos fiscalizadores; de control; supervisión y vigilancia y en general todos los requerimientos de información contable, presupuestaria y financiera;
 
@@ -1155,17 +1255,13 @@ XXI. Coordinar y supervisar la elaboración e integración de la Cuenta de la Ha
 
 XXII. Verificar y supervisar el cumplimiento de las obligaciones fiscales del Instituto en las materias presupuestaria, financiera y contable;
 
-XXIII. Atender y presentar en tiempo y forma los informes de rendición de cuentas; requerimientos de los Organos fiscalizadores; de control; supervisión y vigilancia y en general todos los requerimientos de información contable, presupuestaria y financiera del Instituto;
+XXIII. Custodiar y cuidar la documentación e información contable, presupuestaria y financiera que por razón de su empleo, cargo o comisión, tenga bajo su responsabilidad, e impedir o evitar su uso, sustracción, destrucción, ocultamiento o inutilización indebidos;
 
-XXIV. Custodiar y cuidar la documentación e información contable, presupuestaria y financiera que por razón de su empleo, cargo o comisión, tenga bajo su responsabilidad, e impedir o evitar su uso, sustracción, destrucción, ocultamiento o inutilización indebidos;
+XXIV. Participar en el Programa Interno de Protección Civil y Continuidad de Operaciones que determine su superior jerárquico en lo que corresponde al personal bajo su cargo, instalaciones y bienes;
 
-XXV. Participar en el Programa Interno de Protección Civil y Continuidad de Operaciones que determine su superior jerárquico en lo que corresponde al personal bajo su cargo, instalaciones y bienes;
+XXV. Participar en el ámbito de su competencia en la implementación, promoción, certificación y renovación de los programas y sistemas de gestión que se tengan implementados en el Instituto que fijen las autoridades correspondientes o su superior jerárquico y;
 
-XXVI. Participar en el ámbito de su competencia en la implementación, promoción, certificación y renovación de los programas y sistemas de gestión que se tengan implementados en el Instituto que fijen las autoridades correspondientes o su superior jerárquico;
-
-XXVII. Atender y verificar que las solicitudes de información presupuestaria, financiera y contable, sean entregadas en los términos y plazos establecidos por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental; y
-
-XXVIII. Las demás que le señalan otras disposiciones legales y las que le confiera directamente la persona Titular de la Dirección General de Administración y Finanzas.
+XXVI. Las demás que le señalan otras disposiciones legales y las que le confiera directamente la persona Titular de la Dirección General de Administración y Finanzas.
 
 > <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
 
@@ -1827,29 +1923,29 @@ XIII. Las demás que le asigne la Presidencia y las disposiciones legales aplica
 
 ### CAPITULO I. DE LA SECRETARIA EJECUTIVA Y SUS UNIDADES ADMINISTRATIVAS
 
-> <small>(ADICIONADO, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2012)</small>
 
 ###### Artículo 60.
 
 Son facultades de la Secretaría Ejecutiva las siguientes:
 
-I. Aprobar y supervisar la elaboración y ejecución del PAR de la Secretaría Ejecutiva y de las direcciones generales de: Institucionalización y Transversalización de la Perspectiva de Género y Evaluación y Desarrollo Estadístico, unidades administrativas de su adscripción;
+I. Aprobar y supervisar la elaboración y ejecución del PAR de la Secretaría Ejecutiva y de las direcciones de área a su cargo y generales de Institucionalización y Transversalización de la Perspectiva de Género y Evaluación y Desarrollo Estadístico;
 
-II. Dar el visto bueno y supervisar el PAR de las unidades administrativas de su adscripción, así como coordinar la elaboración de éste en colaboración con las demás áreas del Instituto; coordinar y programar los informes que deberán ser presentados a la Junta de Gobierno y aquellos que deba presentar el Instituto ante las autoridades competentes cuando resulte procedente, previa autorización de la Presidencia del Instituto;
+II. Dar el visto bueno y supervisar el PAR de las unidades administrativas del Instituto; coordinar y programar los informes que deberán ser presentados a la Junta de Gobierno y aquellos que se deban presentar ante las autoridades competentes cuando resulte procedente, previa autorización de la Presidencia del mismo;
 
 III. Auxiliar a la Presidencia del Instituto en la administración, organización, funcionamiento y operación del Instituto, así como la elaboración de la propuesta de los lineamientos de la política nacional de igualdad, presupuestos con perspectiva de género y programas institucionales;
 
-IV. Proponer a la Presidencia del Instituto las políticas generales que habrá de seguir el Instituto con las diferentes instituciones nacionales e internacionales en materia de igualdad de género, así como diseñar y someter a su consideración los programas y actividades tendentes a instaurar una cultura de equidad de género y de igualdad de oportunidades y de trato para las mujeres en la Administración Pública Federal, así como participar en su desarrollo y coordinar su seguimiento y evaluación;
+IV. Proponer a la Presidencia del Instituto las políticas generales que se habrán de seguir con las diferentes instituciones nacionales e internacionales en materia de igualdad de género, así como diseñar y someter a su consideración los programas, actividades tendentes a instaurar una cultura de equidad de género, de igualdad de oportunidades y de trato para las mujeres en la Administración Pública Federal, así como participar en su desarrollo y coordinar su seguimiento y evaluación;
 
-V. Acordar con la Presidencia del Instituto el despacho de los asuntos importantes a desarrollar por las unidades administrativas del Instituto que le estén adscritas;
+V. Acordar con la Presidencia del Instituto el despacho de los asuntos importantes a desarrollar por las unidades administrativas del mismo;
 
 VI. Coordinar el diseño, cumplimiento y evaluación de la planeación estratégica de los programas y acciones para lograr la adecuada organización y realización de las funciones del Instituto;
 
-VII. Coordinar a las direcciones generales de su adscripción, así como a las áreas del Instituto que lo requieran a fin de cumplir en todo momento el desarrollo de sus funciones y objetivos; así como planear, programar, organizar, dirigir, controlar, evaluar y mantener comunicación constante con las mismas, para garantizar la correcta ejecución de las labores encomendadas a esta oficina y para proponer estrategias y acciones a la Presidencia del Instituto para el mejor cumplimiento de los fines de la Entidad;
+VII. Coordinar a las áreas del Instituto que lo requieran a fin de cumplir en todo momento el desarrollo de sus funciones y objetivos; así como planear, programar, organizar, dirigir, controlar, evaluar y mantener comunicación constante con las mismas, para garantizar la correcta ejecución de las labores encomendadas a esta oficina y para proponer estrategias y acciones a la Presidencia del mismo para el mejor cumplimiento de sus objetivos los fines de la Entidad;
 
 VIII. Informar a las direcciones generales y coordinaciones del Instituto de los acuerdos tomados por la Junta de Gobierno y dar seguimiento al cumplimiento de los mismos;
 
-IX. Requerir a las unidades administrativas de su adscripción la información relativa a los avances y cumplimiento de los programas, acciones y metas a su cargo y verificar el contenido de las mismas;
+IX. Requerir a las unidades administrativas del Instituto la información relativa a los avances y cumplimiento de los programas, acciones y metas a su cargo y verificar el contenido de las mismas;
 
 X. Coordinar la elaboración del diseño y cumplimiento del Proigualdad y presentarlo con el visto bueno de la Presidencia del Instituto ante la Junta de Gobierno;
 
@@ -1857,29 +1953,139 @@ XI. Coadyuvar en el diseño, cumplimiento y evaluación del Programa Integral;
 
 XII. Coordinar al interior del Instituto, la ejecución de las acciones derivadas del Sistema Nacional para la Igualdad y del Sistema Nacional;
 
-XIII. Autorizar el inicio de las gestiones de los convenios a celebrarse por el Instituto que coadyuven al cumplimiento de los objetivos del mismo;
+XIII. Autorizar el inicio de las gestiones de los convenios a celebrarse por el que coadyuven al cumplimiento de los objetivos del mismo;
 
-XIV. Coordinar la elaboración de los informes que el Instituto presente a las dependencias y entidades de la Administración Pública Federal, Organismos Públicos Autónomos, al Congreso de la Unión, Organos Auxiliares del Instituto y demás a los que se encuentre obligado de conformidad con las disposiciones legales aplicables;
+XIV. Coordinar la elaboración de los informes que el Instituto presente a las dependencias y entidades de la Administración Pública Federal, Organismos Públicos Autónomos, al Congreso de la Unión, Organos Auxiliares del mismo y demás a los que se encuentre obligado de conformidad con las disposiciones legales aplicables;
 
-XV. Dar seguimiento y verificar el cumplimiento de los acuerdos de la Presidencia del Instituto con las demás unidades administrativas;
+XV. Dar seguimiento y verificar el cumplimiento de los acuerdos de la Presidencia del Instituto con las demás unidades administrativas o responsables; (sic)
 
-XVI. Instruir y vigilar a las unidades administrativas, el estricto cumplimiento de todas las disposiciones legales que les sean aplicables en los asuntos de su competencia reportando a la Presidencia de Instituto, oportunamente la actuación de éstas;
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2012)</small>
 
-XVII. Supervisar la ejecución de los proyectos operativos y especiales, para lograr la adecuada organización y cumplimiento de las funciones del Instituto, así como la toma de decisiones del equipo directivo del mismo;
+###### Artículo 60 Bis.
 
-XVIII. Emitir los dictámenes, opiniones e informes que les sean solicitados por la Presidencia del Instituto;
+A la Dirección de Seguimiento Interno a la Política Nacional de Igualdad le corresponde:
 
-XIX. Participar, en coordinación con la Dirección General de Administración y Finanzas y las demás unidades administrativas, en la integración de los programas y de los presupuestos del Instituto;
+I. Elaborar los lineamientos operativos internos que las direcciones generales de Institucionalización y Transversalización de la Perspectiva de Género y Evaluación y Desarrollo Estadístico, aplicarán para el diseño, implementación, evaluación y toma de decisiones sobre el PAR;
 
-XX. Custodiar y cuidar la documentación e información que por razón de su empleo, cargo o comisión, tenga bajo su responsabilidad, e impedir o evitar su uso, sustracción, destrucción, ocultamiento o inutilización indebidos;
+II. Implementar los procedimientos, mecanismos, sistemas y formatos para el diseño y desarrollo del PAR en sus diversas fases, tales como lineamientos, anteproyecto, proyecto y versión final que se presentará a los Consejos Consultivo y Social y a la Junta de Gobierno;
 
-XXI. Participar en el Programa Interno de Protección Civil y Continuidad de Operaciones que determine la Dirección General de Administración y Finanzas en lo que corresponde al personal bajo su cargo, instalaciones y bienes, servicios y tecnología de la información;
+III. Diseñar el PAR de las direcciones generales de Institucionalización y Transversalización de la Perspectiva de Género y Evaluación y Desarrollo Estadístico, conforme a la normativa vigente y en cumplimiento a lo publicado en el Presupuesto de Egresos de la Federación del ejercicio fiscal vigente y alineado a la misión Institucional;
 
-XXII. Participar en la implementación y asegurar en el ámbito de su competencia la promoción, certificación y renovación de los programas y sistemas de gestión que se tengan en el Instituto, que fijen las autoridades correspondientes o sus superiores jerárquicos;
+IV. Verificar que el PAR de las direcciones generales de Institucionalización y Transversalización de la Perspectiva de Género y Evaluación y Desarrollo Estadístico, incluya acciones requeridas para cumplir con los objetivos planteados en la normatividad correspondiente;
 
-XXIII. Apoyar en el cumplimiento de las obligaciones y atribuciones a la Presidencia del Instituto, y
+V. Dar seguimiento al ejercicio del Gasto de las áreas de Institucionalización y Transversalización de la Perspectiva de Género y Evaluación y Desarrollo Estadístico, a fin de que la Secretaría Ejecutiva coadyuve con la Presidencia a monitorear que las actividades establecidas en el PAR, se estén cumpliendo;
 
-XXIV. Las demás que le sean asignadas por la normatividad aplicable y las que le confiera la Presidencia del Instituto.
+VI. Establecer los lineamientos que deberán implementar los enlaces del Instituto con la Administración Pública Federal, respecto a los presupuestos etiquetados en género, para dar cumplimiento al Presupuesto de Egresos de la Federación;
+
+VII. Dar seguimiento a los presupuestos etiquetados en género del Anexo 10 del Presupuesto de Egresos de la Federación, mediante la supervisión de los programas de la Administración Pública Federal que llevan a cabo los enlaces del Instituto, a fin de lograr transversalizar la Perspectiva de Género;
+
+VIII. Participar en la elaboración de la propuesta de Lineamientos de la Política Nacional de Igualdad, Presupuestos y Programas Institucionales para el diseño de Políticas Públicas, ambos con Perspectiva de Género;
+
+IX. Participar en la elaboración de las políticas generales que habrán de regir la actuación del Instituto con las diferentes instancias nacionales e internacionales, para dar cumplimiento a objetivos y metas establecidos en la Política Nacional de Igualdad.
+
+X. Monitorear y registrar el logro de las acciones del PAR de las direcciones generales de Institucionalización y Transversalización de la Perspectiva de Género y Evaluación y Desarrollo Estadístico, así como los objetivos y líneas de acción del PROIGUALDAD, para verificar su cumplimiento;
+
+XI. Programar y supervisar el proceso establecido por la SHCP, para conocer el avance y resultado de las acciones estratégicas de la Administración Pública Federal implementadas con el recurso etiquetado en género, con el fin de contribuir a la toma de decisiones o redefinición de estrategias propuestas a la Presidencia, en cumplimiento con la Política Nacional de Igualdad;
+
+XII. Compilar la información de las unidades administrativas que corresponda, relacionada con a (sic) los avances y resultados de los programas, acciones y metas Institucionales y en su caso, revisar conjuntamente con la Dirección General de Evaluación y Desarrollo Estadístico y Coordinación de Asesores, la reorientación de estrategias y acciones;
+
+XIII. Dar seguimiento a la ejecución de los proyectos operativos y especiales a fin de dar cumplimiento a los mismos;
+
+XIV. Asegurar el resguardo del acervo documental que generen las áreas del Instituto a fin de conservar la memoria institucional en cumplimiento a la normativa aplicable;
+
+XV. Supervisar que las áreas del Instituto controlen, administren y conserven la documentación que forma parte de la memoria Institucional;
+
+XVI. Integrar los informes ejecutivos sobre el avance en el cumplimiento del PROIGUALDAD y Programa Integral que el presenta ante diversas autoridades competentes;
+
+XVII. Verificar los documentos que presentan las áreas o unidades administrativas del Instituto a los Consejos Social y Consultivo y autoridades competentes y, en su caso, emitir recomendaciones;
+
+XVIII. Integrar y revisar los informes que el Instituto presente a las dependencias y entidades de la Administración Pública Federal, Organismos Públicos Autónomos, al Congreso de la Unión y demás a los que se encuentra obligado, para dar cumplimiento a las disposiciones legales aplicables;
+
+XIX. Participar en la elaboración del diseño del PROIGUALDAD para instrumentarlo en la legislación y políticas públicas asegurando que los principios de igualdad y equidad de género sean vigentes;
+
+XX. Asistir y representar en las comisiones, comités y reuniones de trabajo constituidas para el funcionamiento del Instituto, que le sean asignadas por la persona titular de la Secretaría Ejecutiva;
+
+XXI. Dar seguimiento a la ejecución de las acciones derivadas del Sistema Nacional Para la Igualdad y del Sistema Nacional;
+
+XXII. Dar seguimiento y proponer acuerdos que contribuyan al cumplimiento de los objetivos del Sistema Nacional de Igualdad entre Mujeres y Hombres;
+
+XXIII. Supervisar el desarrollo de procedimientos para el inicio de las gestiones de los convenios a celebrarse por el Instituto, autorizados por la Secretaría Ejecutiva, para reforzar la coordinación y vinculación interinstitucional y cumplir con los objetivos establecidos;
+
+XXIV. Participar en coordinación con la Dirección General de Administración y Finanzas y las demás unidades administrativas, en la integración de los programas y de los presupuestos del Instituto;
+
+XXV. Custodiar y cuidar la documentación e información que por razón de su empleo, cargo o comisión, tenga bajo su responsabilidad, e impedir o evitar su uso, sustracción, destrucción, ocultamiento o inutilización indebidos;
+
+XXVI. Participar en el Programa Interno de Protección Civil y Continuidad de Operaciones que determine la Dirección General de Administración y Finanzas en lo que corresponde al personal bajo su cargo, instalaciones y bienes, servicios y tecnología de la información;
+
+XXVII. Participar en la implementación y asegurar en el ámbito de su competencia la promoción, certificación y renovación de los programas y sistemas de gestión que se tengan en el, que fijen las autoridades correspondientes o sus superiores jerárquicos;
+
+XXVIII. Apoyar en el cumplimiento de las obligaciones y atribuciones a la Presidencia del Instituto, y
+
+XXIX. Las demás que le sean asignadas por la normatividad aplicable y las que le confiera la Secretaria Ejecutiva.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2012)</small>
+
+###### Artículo 60 Ter.
+
+A la Dirección de Operación Interna, le corresponde:
+
+I. Vigilar a las áreas del Instituto para que en el ejercicio de sus funciones, se apeguen a las disposiciones legales aplicables;
+
+II. Participar en la realización de los eventos institucionales, publicaciones o comisiones asignadas a la Secretaria Ejecutiva para su cumplimiento conforme a lo planeado;
+
+III. Establecer mecanismos o sistemas de seguimiento y monitoreo de la planeación estratégica, para el logro de los objetivos y metas planteadas por la Secretaría Ejecutiva, a fin de conocer el grado de avance y resultados alcanzados;
+
+IV. Coordinar la elaboración, desarrollo y seguimiento de proyectos especiales del Instituto asignados a la Secretaría Ejecutiva para dar cumplimiento a los plazos establecidos en los acuerdos y normativa vigente;
+
+V. Participar con la Secretaría Ejecutiva en el seguimiento y evaluación del Sistema de Violencia para el cumplimiento conforme a lo establecido;
+
+VI. Contribuir con la Secretaría Ejecutiva en el análisis, valoración y determinación de las solicitudes de declaratoria de alerta de violencia de género contra las mujeres presentadas en los términos de Ley en la materia para que sean atendidas en tiempo y forma;
+
+VII. Colaborar en el diseño, cumplimiento, supervisión de actividades y evaluación del Programa Integral;
+
+VIII. Establecer y operar el sistema de gestión para el control y atención de los asuntos que correspondan a la Secretaría Ejecutiva, en cumplimiento a la normativa vigente y a los procedimientos del Instituto;
+
+IX. Acordar con la persona titular de la Secretaría Ejecutiva el despacho de los asuntos de su competencia y turnarlos al área o unidad administrativa responsable, a fin de dar atención a los mismos en el tiempo establecido;
+
+X. Planear y determinar los plazos, actividades y agenda de la persona titular de la Secretaría Ejecutiva para el cumplimiento de los asuntos, acuerdos, peticiones y compromisos adquiridos en cumplimiento de sus funciones;
+
+XI. Verificar las gestiones y documentación relacionada con los viáticos y actividades de las personas titulares de las direcciones generales de Institucionalización y Transversalización de la Perspectiva de Género y Evaluación y Desarrollo Estadístico, para dar continuidad a los procesos correspondientes con apego a los lineamientos administrativos y legales vigentes;
+
+XII. Dar seguimiento dentro a las direcciones generales de Institucionalización y Transversalización de la Perspectiva de Género y Evaluación y Desarrollo Estadístico, respecto a la certificación y renovación de los programas y sistemas de gestión que se tengan en el Instituto;
+
+XIII. Asegurar el cumplimiento de los acuerdos establecidos en las reuniones de la titular de la Secretaría Ejecutiva y las direcciones generales de Institucionalización y Transversalización de la Perspectiva de Género y Evaluación y Desarrollo Estadístico;
+
+XIV. Asesorar a las direcciones generales de Institucionalización y Transversalización de la Perspectiva de Género y Evaluación y Desarrollo Estadístico, sobre los procedimientos que deberán seguir para dar cumplimiento a los acuerdos que sean de su competencia, conforme a los lineamientos administrativos vigentes;
+
+XV. Informar a las direcciones generales, coordinaciones del Instituto y autoridades competentes el avance de las acciones de prevención, corrección y mejora establecidas por el Organo Interno de Control y de los sistemas de gestión establecidos en el Instituto, para que sean atendidas en tiempo y forma;
+
+XVI. Elaborar los dictámenes e informes que solicite la Presidencia del Instituto a la Secretaría Ejecutiva;
+
+XVII. Desarrollar contenidos para los informes y las presentaciones que sean competencia de la persona titular de la Secretaría Ejecutiva, para su autorización y utilización.
+
+XVIII. Revisar los documentos a utilizar y presentar por parte de la persona titular de la Secretaría Ejecutiva para verificar la calidad de los mismos;
+
+XIX. Asistir y representar en las comisiones, comités y reuniones de trabajo constituidas para el funcionamiento del Instituto, que le sean asignadas por la persona titular de la Secretaría Ejecutiva;
+
+XX. Atender las solicitudes de información de la Administración Pública Federal, los Poderes Legislativos Federal y Locales, recabando la información de las direcciones generales de Institucionalización y Transversalización de la Perspectiva de Género y Evaluación y Desarrollo Estadístico, para darles la respuesta correspondiente de acuerdo a la normativa vigente;
+
+XXI. Dar seguimiento al proceso de solicitudes de información de referencia a fin de cumplir con la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
+
+XXII. Revisar la elaboración de propuestas de asuntos que serán presentados a la Junta de Gobierno por parte de las unidades administrativas del Instituto;
+
+XXIII. Informar a las áreas administrativas o unidades responsables del Instituto, los acuerdos tomados por la Junta de Gobierno, para atención y cumplimiento;
+
+XXIV. Participar, en coordinación con la Dirección General de Administración y Finanzas y las demás unidades administrativas, en la integración de los programas y de los presupuestos del Instituto;
+
+XXV. Custodiar y cuidar la documentación e información que por razón de su empleo, cargo o comisión, tenga bajo su responsabilidad, e impedir o evitar su uso, sustracción, destrucción, ocultamiento o inutilización indebidos;
+
+XXVI. Participar en el Programa Interno de Protección Civil y Continuidad de Operaciones que determine la Dirección General de Administración y Finanzas en lo que corresponde al personal bajo su cargo, instalaciones y bienes, servicios y tecnología de la información;
+
+XXVII. Participar en la implementación y asegurar en el ámbito de su competencia la promoción, certificación y renovación de los programas y sistemas de gestión que se tengan en el Instituto, que fijen las autoridades correspondientes o sus superiores jerárquicos;
+
+XXVIII. Apoyar en el cumplimiento de las obligaciones y atribuciones a la Presidencia del Instituto, y
+
+XXIX. Las demás que le sean asignadas por la normatividad aplicable y las que le confiera la Secretaría Ejecutiva.
 
 > <small>(ADICIONADO, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
 
@@ -2179,7 +2385,9 @@ VI. Coordinar la operación de los lineamientos y metodologías de transversaliz
 
 VII. Proponer a la Secretaría Ejecutiva, la agenda legislativa en materia de violencia de género y en su caso ejecutarla;
 
-VIII. Participar en los trabajos de elaboración del Programa Integral, mediante estrategias de coordinación entre los Mecanismos y el Instituto en la implementación de los programas y modelos estatales;
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2012)</small>
+
+VIII. Proponer las actividades relacionadas y participar en los trabajos de elaboración del Programa Integral, mediante estrategias de coordinación entre los Mecanismos y el Instituto en la implementación de los programas y modelos estatales, para dar cumplimiento a la Ley de la Materia;
 
 IX. Poner en marcha los programas para el fomento de la transversalización de la perspectiva de género;
 
@@ -2275,7 +2483,7 @@ XVI. Participar en la implementación y asegurar en el ámbito de su competencia
 
 XVII. Las demás que le asignen las personas titulares de la Presidencia y Secretaría Ejecutiva del Instituto y demás disposiciones legales aplicables.
 
-> <small>(ADICIONADO, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2012)</small>
 
 ###### Artículo 68.
 
@@ -2291,39 +2499,41 @@ IV. Fomentar la vinculación con las instituciones encargadas de prevenir, atend
 
 V. Coadyuvar en los trabajos de elaboración del Programa Integral y su respectivo informe, mediante estrategias de coordinación entre los Mecanismos y el Instituto para su implementación en los programas y modelos estatales;
 
-VI. Colaborar en el cumplimiento de los acuerdos tomados por el Sistema Nacional;
+VI. Diseñar estrategias de vinculación entre las dependencias y entidades de la Administración Pública Federal, organizaciones de la sociedad civil, nacionales e internacionales, academias e iniciativa privada, orientadas al logro de los objetivos y metas establecidos en el Programa Integral;
 
-VII. Participar en el ámbito de su competencia, en el trámite de las solicitudes de investigación de la procedencia de la declaratoria de alerta de violencia de género que se presenten ante el Instituto;
+VII. Colaborar en el diseño de acciones con perspectiva de género que coadyuven a dar cumplimiento a los objetivos del Plan Integral;
 
-VIII. Promover en los tres ámbitos de gobierno la instrumentación de acciones en materia de seguridad y justicia con enfoque de género en la Administración Pública;
+VIII. Colaborar en el cumplimiento de los acuerdos tomados por el Sistema Nacional;
 
-IX. Coadyuvar en la promoción y seguimiento de las acciones encaminadas a transversalizar la perspectiva de género en el ejercicio institucional de la Administración Pública, en los tres ámbitos de gobierno, para prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
+IX. Coadyuvar en la implementación de Mecanismos de promoción y seguimiento de las instituciones que integran el Sistema Nacional;
 
-X. Coadyuvar en la implementación de Mecanismos de promoción y seguimiento de las instituciones que integran el Sistema Nacional;
+X. Coadyuvar en el ámbito de su competencia, en la difusión de los resultados de los trabajos del Sistema Nacional;
 
-XI. Planear y coordinar estrategias para que las dependencias y entidades de la Administración Pública Federal, ejecuten acciones afirmativas para atender de manera integral la violencia de género;
+XI. Participar en el ámbito de su competencia, en el trámite de las solicitudes de investigación de la procedencia de la declaratoria de alerta de violencia de género que se presenten ante el Instituto;
 
-XII. Diseñar estrategias de vinculación entre las dependencias y entidades de la Administración Pública Federal, organizaciones de la sociedad civil, nacionales e internacionales, academias e iniciativa privada, orientadas al logro de los objetivos y metas establecidos en el Programa Integral;
+XII. Planear y coordinar estrategias para que las dependencias y entidades de la Administración Pública Federal, ejecuten acciones afirmativas para atender de manera integral la violencia de género;
 
-XIII. Coadyuvar en el ámbito de su competencia, en la difusión de los resultados de los trabajos del Sistema Nacional;
+XIII. Promover en los tres ámbitos de gobierno la instrumentación de acciones en materia de seguridad y justicia con enfoque de género en la Administración Pública;
 
-XIV. Establecer los lineamientos y la metodología necesaria para impulsar los procesos de armonización legislativa en el ámbito de competencia del Instituto y darles seguimiento;
+XIV. Coadyuvar en la promoción y seguimiento de las acciones encaminadas a transversalizar la perspectiva de género en el ejercicio institucional de la Administración Pública, en los tres ámbitos de gobierno, para prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
 
-XV. Coordinar la realización de estudios y análisis de la legislación en materia de violencia de género;
+XV. Establecer los lineamientos y la metodología necesaria para impulsar los procesos de armonización legislativa en el ámbito de competencia del Instituto y darles seguimiento;
 
-XVI. Proporcionar insumos a la unidad responsable correspondiente para elaborar los informes derivados de los compromisos internacionales contraídos por el Estado Mexicano, en materia de derechos humanos de las mujeres;
+XVI. Coordinar la realización de estudios y análisis de la legislación en materia de violencia de género;
 
-XVII. Supervisar y dirigir el cumplimiento y desarrollo de los convenios, contratos, acuerdos y demás actos administrativos análogos que se requieran por la actividad sustantiva del área en el ámbito de su competencia;
+XVII. Proporcionar insumos a la unidad responsable correspondiente para elaborar los informes derivados de los compromisos internacionales contraídos por el Estado Mexicano, en materia de derechos humanos de las mujeres;
 
-XVIII. Atender con oportunidad las solicitudes de información en el ámbito de su competencia, en los términos y plazos establecidos en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
+XVIII. Supervisar y dirigir el cumplimiento y desarrollo de los convenios, contratos, acuerdos y demás actos administrativos análogos que se requieran por la actividad sustantiva del área en el ámbito de su competencia;
 
-XIX. Custodiar y cuidar la documentación e información que por razón de su empleo, cargo o comisión, tenga bajo su responsabilidad, e impedir o evitar su uso, sustracción, destrucción, ocultamiento o inutilización indebidos;
+XIX. Atender con oportunidad las solicitudes de información en el ámbito de su competencia, en los términos y plazos establecidos en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
 
-XX. Participar y asegurar en el ámbito de su competencia la implementación, promoción, certificación y renovación de los programas y sistemas de gestión que se tengan en el Instituto, que fijen las autoridades correspondientes o sus superiores jerárquicos;
+XX. Custodiar y cuidar la documentación e información que por razón de su empleo, cargo o comisión, tenga bajo su responsabilidad, e impedir o evitar su uso, sustracción, destrucción, ocultamiento o inutilización indebidos;
 
-XXI. Participar en el Programa Interno de Protección Civil y Continuidad de Operaciones que determine la Dirección General de Administración y Finanzas, en lo que corresponde al personal bajo su cargo, instalaciones, bienes, servicios y tecnología de la información;
+XXI. Participar y asegurar en el ámbito de su competencia la implementación, promoción, certificación y renovación de los programas y sistemas de gestión que se tengan en el Instituto, que fijen las autoridades correspondientes o sus superiores jerárquicos;
 
-XXII. Las demás que les asignen su superior jerárquico y las disposiciones legales aplicables.
+XXII. Participar en el Programa Interno de Protección Civil y Continuidad de Operaciones que determine la Dirección General de Administración y Finanzas, en lo que corresponde al personal bajo su cargo, instalaciones, bienes, servicios y tecnología de la información;
+
+XXIII. Las demás que les asignen su superior jerárquico y las disposiciones legales aplicables.
 
 > <small>(ADICIONADO, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
 
@@ -2759,7 +2969,7 @@ QUINTO.- Lo dispuesto en el artículo 55 fracción I, párrafo tercero de este E
 
 México, D.F., a 2 de octubre de 2001.- Con fundamento en los artículos 13 fracción XI y 16 fracción V de la Ley del Instituto Nacional de las Mujeres, se expide el presente Estatuto Orgánico: la Presidenta del Instituto Nacional de las Mujeres, Patricia Espinosa Torres.- Rúbrica.- La Secretaria Técnica de la Junta de Gobierno del Instituto, Marta Laura Carranza Aguayo.- Rúbrica.- La Prosecretaria de la Junta de Gobierno del Instituto, Ma. Teresita Aguilar Marmolejo.- Rúbrica.- Documento revisado por: el Coordinador de Asuntos Jurídicos del Instituto, Juan Pablo López Zertuche.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
 
 D.O.F. 26 DE ABRIL DE 2004.
 
@@ -2780,3 +2990,9 @@ Primero.- El presente Estatuto Orgánico entrará en vigor al día siguiente de 
 Segundo.- Se derogan las disposiciones internas de carácter administrativo que se opongan a lo previsto por este Estatuto Orgánico.
 
 Tercero.- Se abroga el Reglamento Interior del Instituto Nacional de las Mujeres.
+
+D.O.F. 12 DE JUNIO DE 2012.
+
+Primero.- Las presentes modificaciones y reformas del Estatuto Orgánico entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan las disposiciones que se opongan a lo previsto por estas modificaciones y reformas.
