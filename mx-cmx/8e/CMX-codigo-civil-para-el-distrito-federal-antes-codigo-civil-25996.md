@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2012-06-01"
+last_updated: "2012-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE JUNIO DE 2012.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -335,6 +335,14 @@ El Registro Civil celebrará convenios con las sociedades de información credit
 
 Los Jueces del Registro Civil, asentarán en formas especiales que se denominarán "Formas del Registro Civil", las actas a que se refiere el artículo anterior.
 
+> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 2012)</small>
+
+Las “Formas del Registro Civil” y la información asentada, serán en idioma español. En aquellos casos de personas pertenecientes a los pueblos indígenas nacionales, las actas deberán extenderse además, si así lo solicitaran, en la lengua indígena de la que sea hablante el solicitante, preservando en todo momento los nombres, apellidos ancestrales y tradicionales, conforme a sus sistemas normativos.
+
+> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 2012)</small>
+
+Para los efectos del párrafo anterior la Dirección General del Registro Civil del Distrito Federal, se auxiliará del Instituto Nacional de Lenguas Indígenas, para la traducción de la lengua de que se trate.
+
 > <small>(REFORMADO, G.O. 29 DE JULIO DE 2010)</small>
 
 Las inscripciones se harán a través de los soportes informáticos que se contengan y en su caso, mecanográficamente.
@@ -428,6 +436,10 @@ Toda persona puede pedir testimonios completos o en extracto de las actas del Re
 La certificación de los testimonios de las actas del Registro Civil podrá autenticarse con firma autógrafa o electrónica. Por firma electrónica se entenderá la firma, clave, código o cualquier otra forma de autenticar por medios electrónicos, la autorización del funcionario competente según el sistema que instrumente el titular del Registro Civil conforme a lo que disponga el reglamento respectivo.
 
 Las copias certificadas y las certificaciones emitidas por los servidores públicos facultados para ello y que sean autenticadas a través de firma electrónica, tendrán el mismo valor jurídico y probatorio que las suscritas en forma autógrafa.
+
+> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 2012)</small>
+
+La expedición de copias certificadas será en idioma español, en aquellos casos de personas pertenecientes a los pueblos indígenas nacionales, las copias certificadas deberán expedirse, si estas así lo solicitaran, en la lengua indígena nacional de la que sea hablante el solicitante.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
@@ -10215,7 +10227,9 @@ ARTICULO 2,147.- Si la cosa enajenada pereciere o mudare de naturaleza a consecu
 
 ARTICULO 2,148.- Si el enajenante no conocía los vicios, solamente deberá restituir el precio y abonar los gastos del contrato, en el caso de que el adquirente los haya pagado.
 
-ARTICULO 2,149.- Las acciones que nacen de lo dispuesto en los artículos del 2,142 al 2,148, se extinguen a los seis meses, contados desde la entrega de la cosa enajenada, sin perjuicio de lo dispuesto en el caso especial a que se refieren los artículos 2,138 y 2,139.
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 2012)</small>
+
+ARTICULO 2,149.- Las acciones que nacen de lo dispuesto en los artículos del 2142 al 2148, se extinguen en un plazo de un año tratándose de bienes inmuebles, y de seis meses tratándose de bienes muebles, contados desde la entrega de la cosa enajenada, sin perjuicio de lo dispuesto en el caso especial a que se refieren los artículos 2138 y 2139.
 
 ARTICULO 2,150.- Enajenándose dos o más animales juntamente, sea en un precio alzado o sea señalándolo a cada uno de ellos, el vicio de uno da sólo lugar a la acción redhibitoria, respecto de él y no respecto a los demás, a no ser que aparezca que el adquirente no habría adquirido el sano o sanos sin el vicioso (sic), o que la enajenación fuese de un rebaño y el vicio fuere contagioso.
 
@@ -14404,3 +14418,21 @@ G.O. 1 DE JUNIO DE 2012.
 Primero.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 12 DE JUNIO DE 2012.
+
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 2149 DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 12 DE JUNIO DE 2012.
+
+DECRETO POR EL QUE SE A ADICIONAN DOS PÁRRAFOS AL ARTÍCULO 36 Y UN PÁRRAFO IN FINE AL ARTÍCULO 48 DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- El Jefe de Gobierno del Distrito Federal, realizará los convenios necesarios para hacer efectiva la observancia del presente Decreto, y emitirá las modificaciones correspondientes al Reglamento del Registro Civil del Distrito Federal.
+
+Tercero.- Publíquese en la Gaceta Oficial de Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
