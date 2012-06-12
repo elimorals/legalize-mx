@@ -4,7 +4,7 @@ identifier: "SLP-ley-sobre-los-derechos-de-ninas-ninos-y-adolescentes-del-33373"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-14"
-last_updated: "2010-09-11"
+last_updated: "2012-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY SOBRE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSI
 
-LEY SOBRE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSI
+LEY SOBRE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de agosto de 2003.
 
@@ -421,9 +421,13 @@ III. El Secretario de Educación de Gobierno del Estado;
 
 IV. El Secretario de Desarrollo Social y Regional;
 
-V. El Director General de los Servicios de Salud;
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2012)</small>
 
-VI. El Procurador de la Defensa del Menor, la Mujer y la Familia, y
+V. El Procurador General de Justicia del Estado;
+
+VI. El Director General de los Servicios de Salud;
+
+VII. El Procurador de la Defensa del Menor, la Mujer y la Familia, y
 
 VIII. Tres representantes de las organizaciones de la sociedad civil relacionadas con la niñez y la adolescencia, elegidos de acuerdo a las normas aplicables.
 
@@ -453,13 +457,17 @@ VII. Propiciar la participación activa de la niñez y la adolescencia en el con
 
 VIII. Realizar campañas de difusión de los derechos contenidos en esta Ley, estableciendo convenios de coordinación con los medios de comunicación;
 
-IX. Constituir comisiones especiales para determinadas tareas, participando miembros del Comité, así como otros organismos públicos y no gubernamentales;
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2012)</small>
 
-X. Promover y apoyar la formación de comisiones de protección de los derechos de la niñez y la adolescencia a nivel municipal;
+IX. Asignar personal calificado para representar legalmente ante las autoridades competentes, a las niñas, niños y adolescentes, por delitos cometidos en contra de sus derechos, así como intervenir en su defensa ante las instancias administrativas o judiciales;
 
-XI. Formular su manual de operación, y
+X. Constituir comisiones especiales para determinadas tareas, participando miembros del Comité, así como otros organismos públicos y no gubernamentales;
 
-XII. Las demás que le encomiende el Gobernador del Estado.
+XI. Promover y apoyar la formación de comisiones de protección de los derechos de la niñez y la adolescencia a nivel municipal;
+
+XII. Formular su manual de operación, y
+
+XIII. Las demás que le encomiende el Gobernador del Estado.
 
 ###### ARTICULO 51.
 
@@ -688,3 +696,9 @@ P.O. 11 DE SEPTIEMBRE DE 2010.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE JUNIO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
