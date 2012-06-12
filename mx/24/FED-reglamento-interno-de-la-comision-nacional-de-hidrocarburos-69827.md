@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-hidrocarburos-698
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-28"
-last_updated: "2009-12-21"
+last_updated: "2012-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69827&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2009-07-30"
 ---
 # REGLAMENTO INTERNO DE LA COMISION NACIONAL DE HIDROCARBUROS
 
-REGLAMENTO INTERNO DE LA COMISION NACIONAL DE HIDROCARBUROS
+REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE HIDROCARBUROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE DICIEMBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE HIDROCARBUROS, PUBLICADO EN EL D.O.F. DE 12 DE JUNIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 28 de agosto de 2009.
 
@@ -634,3 +636,27 @@ D.O.F. 21 DE DICIEMBRE DE 2009.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. En tanto la Comisión Nacional de Hidrocarburos continúe sin los recursos presupuestarios para contratar la estructura organizacional establecida en su Reglamento Interno, el Organo de Gobierno de la Comisión redistribuirá las funciones que en éste se establecen, para cumplir con las atribuciones que la Ley le confiere a la Comisión, hasta donde sea posible.
+
+D.O.F. 12 DE JUNIO DE 2012.
+
+Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga el Reglamento Interno de la Comisión Nacional de Hidrocarburos, publicado en el Diario Oficial de la Federación el 28 de agosto de 2009 y sus modificaciones.
+
+Tercero. Queda sin efectos el Acuerdo delegatorio por el cual el Presidente delega facultades a la Secretaría Ejecutiva, publicado en el Diario Oficial de la Federación el 24 de diciembre de 2010.
+
+Cuarto. El Presidente de la Comisión expedirá el estatuto del servicio profesional de carrera dentro del año siguiente a la entrada en vigor del presente Reglamento.
+
+Quinto. Los asuntos que estén tramitándose por las distintas áreas de la Comisión a la entrada en vigor del presente Reglamento Interno, permanecerán en el último trámite que hubieran alcanzado y se continuarán atendiendo y resolverán por la nueva área o áreas de la Comisión a las que se haya otorgado la competencia conforme a este ordenamiento.
+
+Sexto. En lo que corresponda a las facultades establecidas en el presente Reglamento Interno, el Director General de Hidrocarburos, asumirá las funciones de la Dirección General de Explotación y el Director General de Operación, las correspondientes a la Dirección General de Planeación.
+
+Séptimo. En tanto se autoriza la creación de la plaza de Director General de Administración por parte de las autoridades competentes, sus funciones serán ejercidas por el Director General Adjunto de Administración, para todos los efectos legales que correspondan.
+
+Octavo. En tanto se emitan los manuales que correspondan, el Presidente de la Comisión resolverá lo conducente en aquellas cuestiones no previstas en este Reglamento Interno.
+
+Noveno. La estructura organizacional establecida en el presente Reglamento Interno se conformará paulatinamente conforme se reciba el presupuesto autorizado para el año 2012.
+
+Décimo. El Organo de Gobierno emitirá el reglamento de funcionamiento del Registro Petrolero dentro de los siguientes 6 meses a la entrada en vigor del presente Reglamento.
+
+Décimo primero. En relación con la suplencia temporal del Presidente, cuando dos o más Comisionados cumplan con los requisitos previstos en el artículo 47, se deberán tomar en cuenta los periodos de designación en los nombramientos del Ejecutivo Federal emitidos el 15 de mayo de 2009.
