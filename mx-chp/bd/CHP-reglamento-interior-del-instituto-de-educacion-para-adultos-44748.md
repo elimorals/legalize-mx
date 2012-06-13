@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-instituto-de-educacion-para-adultos-447
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-04-13"
-last_updated: "2005-04-13"
+last_updated: "2012-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE EDUCACION PARA ADULTOS
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE EDUCACION PARA ADULTOS
+REGLAMENTO INTERIOR DEL INSTITUTO DE EDUCACIÓN PARA ADULTOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO POR EL QUE SE ABROGA EL REGLAMENTO INTERIOR DEL INSTITUTO DE EDUCACIÓN PARA ADULTOS, PUBLICADO EN EL P.O. DE 13 DE JUNIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 13 de abril de 2005.
 
@@ -650,3 +652,13 @@ Segundo.- Se derogan todas aquellas disposiciones que se opongan a este Reglamen
 Dado en la residencia oficial del Poder Ejecutivo, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los dos días del mes de febrero del año dos mil cinco.
 
 Pablo Salazar Mendiguchía, Gobernador del Estado.- Rubén F. Velázquez López, Secretario de Gobierno.- Alfredo Palacios Espinosa, Secretario de Educación.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE JUNIO DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que tengan igual o menor jerarquía al presente Decreto, y que se opongan al mismo.
+
+Artículo Tercero.- En cumplimiento a lo dispuesto por el artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
