@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-18777
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-27"
-last_updated: "2012-05-16"
+last_updated: "2012-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE MORELOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE JUNIO DE 2012 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE MORELOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE JUNIO DE 2012.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de diciembre de 2000.
 
@@ -415,8 +415,6 @@ La Secretaría, tomando en cuenta la opinión de la Consejería Jurídica del Go
 
 En los procesos de licitación en cualquiera de sus etapas se permitirá el acceso al público que así lo desee, teniendo estos como obligación, guardar respeto y compostura en el interior del lugar.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE JUNIO DE 2012 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2012)</small>
 
 ###### ARTÍCULO 28.
@@ -425,7 +423,9 @@ Las convocatorias, que podrán referirse a una o más obras públicas y servicio
 
 I. El nombre de las Dependencias, Secretaría o Ayuntamientos convocantes;
 
-II. La indicación de los lugares, fechas y horarios en que los interesados podrán obtener las bases y especificaciones de la licitación y, en su caso, el costo y forma de pago de las mismas, cuando el documento que contenga las bases implique un costo, éste será fijado solo en razón de la recuperación de las erogaciones por publicación de la convocatoria y de los documentos que se entreguen;
+> <small>(F. DE E., P.O. 13 DE JUNIO DE 2012)</small>
+
+II.- La indicación de los lugares, fechas y horarios en que los interesados podrán obtener las bases y especificaciones de la licitación;
 
 III. La indicación de los lugares, fechas y horarios en que los interesados podrán entregar la documentación y requisitos solicitados;
 
@@ -451,13 +451,11 @@ XII. Los demás requisitos generales que deberán cumplir los interesados, segú
 
 En toda convocatoria se deberá prevenir que no podrán participar todas aquellas personas que tengan alguno de los impedimentos señalados en el artículo 52 de la presente Ley.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2012)</small>
+(REFORMADO, P.O. 16 DE MAYO DE 2012) (F. DE E., P.O. 13 DE JUNIO DE 2012)
 
-Las Dependencias, Secretaría y Ayuntamientos publicarán, las convocatorias simultáneamente, en medios electrónicos de difusión, incluyendo Internet, siendo su obtención gratuita.
+Las Dependencias, Secretaría y Ayuntamientos publicarán las convocatorias simultáneamente, en medios electrónicos de difusión, incluyendo Internet, siendo su obtención gratuita.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE JUNIO DE 2012 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2012)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2012) (F. DE E., P.O. 13 DE JUNIO DE 2012)
 
 ###### ARTÍCULO 29.
 
@@ -485,7 +483,7 @@ Las Dependencias, Secretaría o Ayuntamientos analizarán y definirán la proced
 
 Todo interesado que satisfaga los requisitos de la convocatoria tendrá derecho a adquirir las bases de la licitación y a presentar su proposición. Para tal efecto, las Dependencias, Secretaría o Ayuntamientos no podrán exigir requisitos adicionales a los previstos por esta Ley. Asimismo, proporcionarán a todos los interesados igual acceso a la información relacionada con la licitación, a fin de evitar favorecer a algún participante.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE JUNIO DE 2012 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 13 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 31.
 
@@ -567,9 +565,7 @@ En las licitaciones públicas, la entrega de proposiciones se hará en dos sobre
 
 Todas las propuestas serán presentadas en dos tantos y, en caso de ser desechadas, el primer tanto será devuelto al oferente y el segundo tanto será conservado en el expediente relativo.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE JUNIO DE 2012 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2012)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2012) (F. DE E., P.O. 13 DE JUNIO DE 2012)
 
 ###### ARTÍCULO 34.
 
