@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-educacion-del-estado-de-puebla-17781"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-31"
-last_updated: "2012-03-28"
+last_updated: "2012-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 31 de marzo de 2000.
 
@@ -879,6 +879,10 @@ II.- NO ESCOLARIZADA: Destinada a estudiantes que no asisten a la formación en 
 
 III.- MIXTA: Derivada de la combinación de las modalidades escolarizada y no escolarizada, se caracteriza por su flexibilidad para cursar las asignaturas o módulos que integran el plan de estudios, ya sea de manera presencial o no presencial.
 
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2012)</small>
+
+La Secretaría determinará las diferentes opciones educativas de la educación media superior, las cuales necesariamente deberán encuadrar en alguna de las ofertas citadas, considerando como criterios la educación individual o en grupo, la trayectoria curricular, la mediación docente, la mediación digital, el espacio, el tiempo y la certificación.
+
 ### CAPÍTULO III. DE LOS PLANES Y PROGRAMAS DE ESTUDIO
 
 > <small>(REFORMADO, P.O. 28 DE MARZO DE 2012)</small>
@@ -905,7 +909,9 @@ Para dar cumplimiento a los objetivos señalados anteriormente, deberá establec
 
 I.- En los planes de estudio:
 
-a).- Los propósitos de formación integral del educando y, en todos los casos, la adquisición, dominio y aplicación práctica de métodos, lenguajes y valores dentro de los cuales deben ser prioritarios la convivencia humana, la integridad de la familia, la preservación y conservación del medio ambiente, la identidad nacional y la conciencia de la solidaridad nacional e internacional para alcanzar el bien común;
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2012)</small>
+
+a).- Los propósitos de formación integral del educando y, en todos los casos, la adquisición, dominio y aplicación práctica de métodos, lenguajes, capacidades de comunicación, pensamiento matemático, razonamiento científico, comprensión de los procesos históricos, toma de decisiones y desarrollo personal, valores dentro de los cuales deben ser prioritarios la convivencia humana, la integridad de la familia, la preservación y conservación del medio ambiente, la identidad nacional y la conciencia de la solidaridad nacional e internacional para alcanzar el bien común;
 
 b).- Las estructuras requeridas para organizar los contenidos, según criterios de integración, secuencia y continuidad;
 
@@ -913,9 +919,17 @@ c).- Los parámetros y procedimientos de evaluación y acreditación de conocimi
 
 d).- Los perfiles de ingreso, promoción gradual y egreso de los educandos;
 
-e).- Los valores nacionales que determinen los modos de ser y actuar de las personas en los diversos ámbitos para la armónica convivencia; y
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2012)</small>
 
-f).- Los parámetros y procedimientos de evaluación del propio plan de estudios para su constante superación.
+e).- Los valores nacionales que determinen los modos de ser y actuar de las personas en los diversos ámbitos para la armónica convivencia;
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2012)</small>
+
+f).- Los parámetros y procedimientos de evaluación del propio plan de estudios para su constante superación; y
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2012)</small>
+
+g).- La pertinencia y relevancia personal, social y laboral.
 
 II.- En los programas de estudio:
 
@@ -927,7 +941,13 @@ c).- Las estrategias metodológico-didácticas adecuadas a la naturaleza de los 
 
 d).- Los parámetros, normas y procedimientos de evaluación del aprendizaje.
 
-En los programas que integran el plan de estudios, deberán establecerse los propósitos específicos de aprendizaje de las asignaturas, orientados al logro de competencias socio-productivas, así como los criterios y procedimientos para evaluar, acreditar y certificar su cumplimiento. Podrán incluir sugerencias sobre métodos y actividades para alcanzar dichos propósitos.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2012)</small>
+
+En los programas que integran el plan de estudios, deberán establecerse los propósitos específicos de aprendizaje de las asignaturas, orientados al logro de competencias genéricas, disciplinares y profesionales, así como los criterios y procedimientos para evaluar, acreditar y certificar su cumplimiento. Podrán incluir sugerencias sobre métodos y actividades para alcanzar dichos propósitos.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2012)</small>
+
+Los planes de estudio de todas las opciones educativas de educación media superior desarrollarán al menos el marco curricular común basado en competencias, que determine la Secretaría, por lo que los alumnos que egresen de la educación media superior deberán recibir un certificado de bachillerato que les acredite oficialmente. Adicionalmente, las instituciones podrán emitir certificaciones parciales por tipos de estudio, tales como aquéllas que correspondan a haber recibido formación para el trabajo.
 
 > <small>(REFORMADO, P.O. 28 DE MARZO DE 2012)</small>
 
@@ -979,7 +999,9 @@ Los particulares, podrán ofrecer servicios educativos en todos sus tipos y moda
 
 Las instituciones que obtengan la autorización y el reconocimiento oficiales, quedarán incorporadas al Sistema Educativo Estatal en lo que se refiere a los estudios comprendidos en dichas determinaciones.
 
-La autorización o el reconocimiento de validez oficial de estudios que otorguen otras entidades federativas a favor de instituciones educativas, no surtirán efecto en el Estado.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2012)</small>
+
+La autorización o el reconocimiento de validez oficial de estudios que otorguen otras entidades federativas a favor de instituciones educativas, no surtirán efecto en el Estado, con excepción de las de educación media superior que implemente el Sistema Nacional de Bachillerato.
 
 ###### ARTÍCULO 85.
 
@@ -1061,7 +1083,9 @@ El Grado Académico es el documento que se otorga a las personas que acrediten h
 
 Los estudios realizados fuera del Sistema Educativo Nacional o Estatal, podrán adquirir validez oficial, mediante su revalidación, siempre y cuando sean equiparables con estudios comprendidos dentro de dicho Sistema.
 
-La revalidación podrá otorgarse por niveles educativos, grados escolares o asignaturas y otras unidades de aprendizaje, según lo establezca la regulación respectiva.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2012)</small>
+
+La revalidación podrá otorgarse por niveles educativos, grados escolares, asignaturas o competencias y otras unidades de aprendizaje, según lo establezca la regulación respectiva.
 
 ###### ARTÍCULO 95.
 
@@ -1408,3 +1432,9 @@ PRIMERO.- El siguiente Decreto entrará en vigor al día siguiente de su publica
 SEGUNDO.- Las erogaciones que deban realizarse a fin de dar cumplimiento con el presente Decreto, se sujetarán a los recursos aprobados para tales fines por la Legislatura Estatal, en su respectivo presupuesto.
 
 TERCERO.- La constitución de los sistemas y registros a que hace referencia la fracción XXXI del artículo 14 se llevará a cabo con base en la disponibilidad presupuestal, de manera gradual y con la participación coordinada de las autoridades educativas de los órdenes de gobierno correspondientes.
+
+P.O. 13 DE JUNIO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
