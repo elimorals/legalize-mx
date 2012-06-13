@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-del-consejo-de-la-judicatura-del-estado-893
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-30"
-last_updated: "2011-05-30"
+last_updated: "2012-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JUNIO DE 2012.
 
 Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 30 de mayo de 2011.
 
@@ -233,7 +233,13 @@ XX. Autorizar la celebración de convenios con instituciones de educación super
 
 XXI. Aprobar las reglas de operación internas del Comité Técnico y de Administración del Fondo Auxiliar para la Administración de Justicia;
 
-XXII. Desempeñar cualquier otra función necesaria para el cumplimiento de sus atribuciones.
+> <small>(REFORMADA, G.O. 13 DE JUNIO DE 2012)</small>
+
+XXII. Determinar la aplicación de exámenes de control de confiabilidad a los servidores del Poder Judicial del Estado.
+
+> <small>(ADICIONADA, G.O. 13 DE JUNIO DE 2012)</small>
+
+XXIII. Desempeñar cualquier otra función necesaria para el cumplimiento de sus atribuciones.
 
 ### CAPÍTULO V. Del Presidente del Consejo
 
@@ -2999,6 +3005,58 @@ A los servidores públicos del Poder Judicial del Estado que incumplan los deber
 
 El presunto incumplimiento a sus deberes o las violaciones y faltas cometidas, dará lugar a que se inicie el instructivo de responsabilidad o el trámite administrativo para aplicar correcciones disciplinarias según corresponda, substanciado de acuerdo con las normas que resulten procedentes de la Ley de Responsabilidades, de la Ley Orgánica, de la Ley del Servicio Civil, de los Códigos de Procedimientos Civil y Penal y del presente Reglamento. La sanción en su caso se fundará en los preceptos legales que resulten aplicables y deberá estar motivada.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 13 DE JUNIO DE 2012)</small>
+
+### CAPÍTULO XXV. Del Control de Confianza
+
+> <small>(ADICIONADO, G.O. 13 DE JUNIO DE 2012)</small>
+
+###### Artículo 390.
+
+En los exámenes de oposición convocados por el Consejo de la Judicatura del Estado, además de los requisitos previstos en la ley de la materia, los interesados deberán sujetarse a los exámenes de confiabilidad que comprenderá:
+
+I. Evaluación Psicológica;
+
+II. Evaluación con polígrafo;
+
+III. Evaluación del entorno socioeconómico;
+
+IV. Evaluación Toxicológica; y
+
+V. Evaluación médica.
+
+El Consejo de la Judicatura, en la convocatoria respectiva establecerá los términos en que deba practicarse el referido examen de confiabilidad.
+
+> <small>(ADICIONADO, G.O. 13 DE JUNIO DE 2012)</small>
+
+###### Artículo 391.
+
+Además de lo anterior, a los Jueces, Secretarios de Acuerdos, de Estudio y Cuenta, Actuarios, Defensores de Oficio, así como las personas que ocupen cargos de Director General, Director de Área, Subdirector, Jefe de Departamento, Jefe de Oficina y los demás servidores que determine el Consejo de la Judicatura les serán aplicados exámenes en materia de toxicología cuando menos una vez por año, dependiendo de la disponibilidad presupuestal, conforme a las indicaciones de orden técnico y científico aplicables, según las necesidades del servicio público y la prestación del mismo.
+
+> <small>(ADICIONADO, G.O. 13 DE JUNIO DE 2012)</small>
+
+###### Artículo 392.
+
+El Consejo de la Judicatura celebrará los convenios de colaboración con las Instituciones de Salud Pública debidamente acreditadas para la realización de los diferentes tipos de exámenes que se refiere este capítulo.
+
+> <small>(ADICIONADO, G.O. 13 DE JUNIO DE 2012)</small>
+
+###### Artículo 393.
+
+Si como consecuencia de los exámenes médicos y toxicológicos practicados, algún servidor público de los señalados en este capítulo, resultara positivo, tal condición dará lugar, para que según sea el caso, el Consejo de la Judicatura, tomando en consideración las circunstancias personales del funcionario respectivo, sus antecedentes en el servicio público y los resultados de los exámenes; podrá tomarse las siguientes medidas:
+
+I. Previa solicitud del interesado, otorgar las facilidades para el ingreso a alguna institución de rehabilitación pública;
+
+II. Determinar la separación temporal; o
+
+III. La terminación de los efectos del nombramiento.
+
+> <small>(ADICIONADO, G.O. 13 DE JUNIO DE 2012)</small>
+
+###### Artículo 394.
+
+Se exceptúan de lo anterior los medicamentos o fármacos que se administren por prescripción de profesionales de la medicina o de profesiones afines, de conformidad con las disposiciones aplicables a la materia.
+
 T R A N S I T O R I O S
 
 PRIMERO. El presente reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
@@ -3020,3 +3078,13 @@ El Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura
 Magistrado Alberto Sosa Hernández
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 13 DE JUNIO DE 2012.
+
+Primero. El presente Acuerdo entrará en vigor al día de su publicación en la Gaceta Oficial del estado.
+
+Segundo. La Dirección de Administración realizará las proyecciones necesarias a efectos de que en el presupuesto de egresos del Poder Judicial para el ejercicio fiscal del año dos mil trece se incluyan las partidas necesarias para sufragar las erogaciones correspondientes al presente Acuerdo
+
+Tercero. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz.
