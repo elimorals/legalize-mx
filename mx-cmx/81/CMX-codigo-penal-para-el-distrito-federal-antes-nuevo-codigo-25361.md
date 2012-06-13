@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2012-06-11"
+last_updated: "2012-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE JUNIO DE 2012.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -314,9 +314,13 @@ ARTÍCULO 33 (Concepto y duración de la prisión). La prisión consiste en la p
 
 En toda pena de prisión que se imponga en una sentencia, se computará el tiempo de la detención o del arraigo.
 
-> <small>(REFORMADO, G.O. 24 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, G.O. 13 DE JUNIO DE 2012)</small>
 
-Si se trata de dos o más penas de prisión impuestas en sentencias diferentes, aquellas se cumplirán invariablemente de manera sucesiva, sin que la suma de ellas sea mayor de setenta años.
+Si se trata de dos o más penas de prisión impuestas en sentencias diferentes, aquellas se cumplirán de manera sucesiva, sin que la suma de ellas sea mayor de setenta años.
+
+> <small>(ADICIONADO, G.O. 13 DE JUNIO DE 2012)</small>
+
+En el supuesto de imposición de las penas de prisión, emanadas de hechos conexos, similares, o derivados uno del otro, se deberán computar dichas penas desde el momento en que se detuvo al sujeto, por el delito inicial.
 
 ### CAPÍTULO III. TRATAMIENTO EN LIBERTAD DE IMPUTABLES
 
@@ -4717,3 +4721,11 @@ G.O. 11 DE JUNIO DE 2012.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y publicación y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 13 DE JUNIO DE 2012.
+
+Primero. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Tercero. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
