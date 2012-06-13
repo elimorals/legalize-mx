@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-la-contraloria-del-7456
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-04-21"
-last_updated: "2012-04-04"
+last_updated: "2012-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "MOR"
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA DEL ESTADO DE MORELOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 13 DE JUNIO DE 2012.</small>
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 21 de abril de 2010.
 
@@ -359,9 +361,9 @@ IX. Analizar los dictámenes de las auditorías externas practicadas por los Aud
 
 X. Ordenar la comparecencia de los servidores públicos, ex servidores públicos implicados, así como de proveedores, contratistas y en circunstancias específicas aquellos ciudadanos relacionados con las auditorías, verificaciones y fiscalizaciones practicadas por auditores externos, o de manera directa o conjunta con la Secretaría de la Función Pública Federal;
 
-> <small>(F. DE E., P.O. 2 DE JUNIO DE 2010)</small>
+(F. DE E., P.O. 2 DE JUNIO DE 2010) (F. DE E., P.O. 13 DE JUNIO DE 2012)
 
-XI. Elaborar y someter a la aprobación del Secretario, el Programa Anual de Auditorías Externas que serán solicitadas a los despachos privados de profesionales que reúnan los requisitos señalados en el Acuerdo por el que se Establecen los Lineamientos para Elaborar el Padrón de Auditores Externos, su Contratación y Funcionamiento en las Entidades y Organismos Auxiliares que componen la Administración Pública Paraestatal del Estado Libre y Soberano de Morelos, publicado en el Periódico Oficial "Tierra y Libertad" número 4369, de fecha veintiuno de octubre de mil novecientos noventa y nueve;
+XI. Elaborar y someter a la aprobación del Secretario, el Programa Anual de Auditorías Externas que serán solicitadas a los despachos privados de profesionales que reúnan los requisitos señalados en el Acuerdo por el que se establecen los Lineamientos para Elaborar el Padrón de Auditores Externos, su Contratación y Funcionamiento en las Entidades y Organismos Auxiliares que componen la Administración Pública Paraestatal del Estado Libre y Soberano de Morelos, publicado en el Periódico Oficial "Tierra y Libertad" número 4369, de fecha veintinueve de diciembre de dos mil cuatro;
 
 XII. Verificar el cumplimiento de normas respecto al manejo, custodia o administración de fondos y valores, así como supervisar y fiscalizar los ingresos públicos propiedad o bajo resguardo del Gobierno del Estado;
 
