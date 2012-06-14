@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-penales-para-el-estado-de-san-luis-181
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2012-04-21"
+last_updated: "2012-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18105&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2012.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -2785,9 +2785,17 @@ XXXII. Tortura, previsto en el artículo 282;
 
 XXXIII. Deslealtad al empleo, cargo o comisión, o perjuicio al servicio público, a que se refiere el artículo 293 Bis;
 
-XXXIV. Ataque a las vías de comunicación y medios de transporte, a que se refieren los artículos, 298 y 299, y
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2012)</small>
 
-XXXV. Narcomenudeo, previsto en los artículos, 325 y 326.
+XXXIV. Ataque a las vías de comunicación y medios de transporte, a que se refieren los artículos, 298 y 299;
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2012)</small>
+
+XXXV. Narcomenudeo, previsto en los artículos, 325 y 326, y
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2012)</small>
+
+XXXVI. Desaparición forzada de personas, previsto en los artículos, 136 Quinque, y 136 Sexties.
 
 Tratándose de delitos cometidos con motivo del tránsito de vehículos, no se concederá la libertad bajo caución al inculpado que hubiese incurrido en delito de abandono de personas, si se encuentra en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos o de cualquier otra sustancia que produzca efectos similares.
 
@@ -3899,7 +3907,7 @@ LIC. JUAN CARLOS BARRON CERDA
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 1 DE JUNIO DE 2002.
 
@@ -4012,3 +4020,9 @@ P.O. 21 DE ABRIL DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a éste.
+
+P.O. 14 DE JUNIO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
