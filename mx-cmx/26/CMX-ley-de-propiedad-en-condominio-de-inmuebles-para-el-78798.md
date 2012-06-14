@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-propiedad-en-condominio-de-inmuebles-para-el-78798"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-27"
-last_updated: "2012-04-03"
+last_updated: "2012-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78798&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-01-20"
 
 LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE JUNIO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 27 de enero de 2011.
 
@@ -182,9 +182,9 @@ En ningún caso podrá el constituyente del Régimen de Propiedad en Condominio 
 
 Para constituir el Régimen de Propiedad en Condominio, el propietario o propietarios deberán manifestar su voluntad en Escritura Pública, en la cual se hará constar:
 
-> <small>(REFORMADA, G.O. 3 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2012)</small>
 
-I.- El título de propiedad y el registro de la manifestación de Construcción Tipo B ó C ó la Licencia de Construcción especial en su caso, con sus respectivas autorizaciones de uso y ocupación; o a falta de éstas la constancia de regularización de construcción.
+I. Que se tuvo a la vista y se agrega copia al apéndice de la escritura, la manifestación de Construcción tipo B o C y/o Licencia de construcción especial en su caso; o a falta de estás la constancia de regularización de construcción.
 
 II.- La descripción de cada unidad de propiedad privativa; número, ubicación, colindancias, medidas, áreas y espacios para estacionamiento de uso exclusivo, si los hubiera, que lo componen más el porcentaje de indiviso que le corresponde;
 
@@ -1219,3 +1219,9 @@ G.O. 3 DE ABRIL DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 14 DE JUNIO DE 2012.
+
+PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal, para su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
