@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-investigaciones-766
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-09-28"
-last_updated: "2010-09-28"
+last_updated: "2012-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76647&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2010-08-03"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE INVESTIGACIONES NUCLEARES
 
-ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE INVESTIGACIONES NUCLEARES
+ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE INVESTIGACIONES NUCLEARES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2012.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 28 de septiembre de 2010.
 
@@ -213,7 +213,9 @@ VII.- Revisar dentro del ámbito de sus atribuciones, los convenios, contratos y
 
 VIII.- Opinar conjuntamente en otras áreas del Instituto Nacional de Investigaciones Nucleares sobre los instrumentos jurídicos internacionales en materia legal, relacionados con los usos pacíficos de la energía nuclear;
 
-IX.- Para la substanciación de denuncias penales y asuntos de índole jurisdiccional, el área se asesorará de servicios profesionales externos;
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2012)</small>
+
+IX.- Administrar y contratar, en el ámbito de su competencia, terceros especializados en materia jurídica que se requieran para el adecuado cumplimiento de sus atribuciones.
 
 X.- En coordinación con la Gerencia de Garantía de Calidad, elaborar y revisar las modificaciones al Estatuto Orgánico del Instituto, conforme a las funciones aprobadas por su Consejo Directivo, y
 
@@ -1032,3 +1034,11 @@ Primero.- El presente Estatuto entrará en vigor al día siguiente de su publica
 Segundo.- El presente Estatuto Orgánico, así como las reformas y adiciones al mismo, deberán inscribirse, en su oportunidad, en el Registro Público de Organismos Descentralizados.
 
 Ocoyoacac, Estado de México, a 30 de julio de 2010.- Este estatuto fue expedido por el Consejo Directivo del Instituto Nacional de Investigaciones Nucleares, en sesión celebrada el día tres de agosto de mil novecientos noventa y nueve; firmando al calce el Director General, José Raúl Ortíz Magaña.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 14 DE JUNIO DE 2012.
+
+PRIMERO.- La presente modificación al Estatuto Orgánico del Instituto Nacional de Investigaciones Nucleares, entrará en vigor al día siguiente de su aprobación por el Consejo Directivo del Instituto Nacional de Investigaciones Nucleares.
+
+SEGUNDO.- El Instituto Nacional de Investigaciones Nucleares, a través de la Gerencia de Asuntos Jurídicos, realizará las gestiones necesarias para su publicación en el Diario Oficial de la Federación e inscripción en el Registro Público de Organismos Descentralizados.
