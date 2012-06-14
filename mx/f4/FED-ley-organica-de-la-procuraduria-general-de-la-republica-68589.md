@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-la-procuraduria-general-de-la-republica-68589"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-05-29"
-last_updated: "2009-05-29"
+last_updated: "2012-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68589&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2009-05-27"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE LA REPUBLICA
 
-LEY ORGANICA DE LA PROCURADURIA GENERAL DE LA REPUBLICA
+LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de mayo de 2009.
 
@@ -249,11 +249,45 @@ XII. Celebrar acuerdos o convenios con instituciones públicas o privadas para g
 
 XIII. Emitir disposiciones para la recolección, el levantamiento, la preservación y el traslado de indicios, huellas o vestigios del hecho delictuoso, y de los instrumentos, objetos o productos del delito, así como los procedimientos y protocolos para asegurar su integridad;
 
-XIV. Diseñar, instrumentar, operar y administrar un sistema informático de registro y análisis de perfiles genéticos de personas, vestigios biológicos, huellas y otros elementos relacionados con hechos delictuosos, que se obtengan de conformidad con las disposiciones aplicables, así como establecer criterios generales para el acceso al sistema y su uso;
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2012)</small>
 
-XV. Realizar las funciones que deriven de las disposiciones legales y reglamentarias aplicables respecto de la constitución y administración de fondos que le competan, y
+XIV. Convocar y realizar reuniones periódicas con las autoridades fiscales federales, quienes estarán obligadas a participar, cuando así se los solicite la Procuraduría en las reuniones que al efecto se programen, para formularle sugerencias respecto de sus actividades, así como, de advertir o prevenir la comisión de cualquier acto ilegal en perjuicio de una persona o grupo de personas, o de proponerles se eviten perjuicios o se reparen los daños causados a éstos con su ilegal emisión, o por cualquier causa que la justifique. A tales reuniones podrán asistir, e intervenir, en compañía del personal de la Procuraduría, los síndicos, y representantes de colegios profesionales, grupos organizados de consumidores, sindicatos, cámaras empresariales y sus confederaciones y, en general, de grupos de contribuyentes legalmente constituidos, quienes habrán de acreditarse oportunamente ante la Procuraduría;
 
-XVI. Las demás que prevean otras disposiciones legales.
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2012)</small>
+
+XV. Especializar a las y los agentes del Ministerio Público, peritos, policías federales ministeriales y en general al personal que atiende a víctimas de delitos, a través de programas y cursos permanentes en:
+
+a) Derechos humanos y género;
+
+b) La aplicación de la perspectiva de género en la debida diligencia, la conducción de averiguaciones previas y procesos judiciales relacionados con discriminación, violencia de género y feminicidios;
+
+c) Incorporación de la perspectiva de género en los servicios periciales;
+
+d) Eliminación de estereotipos sobre el rol social de las mujeres;
+
+e) Los que se consideren pertinentes para la debida investigación y persecución de los delitos que son cometidos contra niñas y mujeres;
+
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2012)</small>
+
+XVI. Crear un registro público sistemático de los delitos cometidos en contra de niñas y mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos en caso de homicidio o feminicidio, características sociodemográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia;
+
+> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2012)</small>
+
+XVII. Elaborar y aplicar protocolos de investigación de delitos con perspectiva de género, primordialmente para la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los delitos de feminicidio, contra la libertad y normal desarrollo psicosexual, la trata de personas y la discriminación.
+
+> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2012)</small>
+
+XVIII. Crear una base nacional de información genética que contenga la información personal disponible de niñas y mujeres desaparecidas a nivel nacional; la información genética y muestras celulares de los familiares de las personas desaparecidas que lo consientan; la información genética y muestras celulares provenientes de los cuerpos de cualquier mujer o niña no identificada.
+
+La información integrada en esta base deberá ser resguardada y únicamente podrá ser utilizada para la confrontación de información genética entre cuerpos no identificados y personas desaparecidas;
+
+> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2012)</small>
+
+XIX. Realizar las funciones que deriven de las disposiciones legales y reglamentarias aplicables respecto de la constitución y administración de fondos que le competan, y
+
+> <small>(ADICIONADA [N. DE E. ANTES FRACCIÓN XVI], D.O.F. 14 DE JUNIO DE 2012)</small>
+
+XX. Las demás que prevean otras disposiciones legales.
 
 ###### Artículo 6.
 
@@ -487,7 +521,7 @@ Los oficiales ministeriales auxiliarán al Ministerio Público de la Federación
 
 Para ser oficial ministerial se requiere:
 
-(NOTA: EL 14 DE ABRIL DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 48/2009, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PARRAFO SEGUNDO, INCISO A) DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE ABRIL DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 14 DE ABRIL DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 48/2009, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO, INCISO A) DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE ABRIL DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 a) Ser ciudadano mexicano POR NACIMIENTO, en pleno ejercicio de sus derechos;
 
@@ -1328,3 +1362,11 @@ DÉCIMO PRIMERO.- Los procedimientos de responsabilidad administrativa que se en
 México, D.F., a 30 de abril de 2009.- Dip. César Horacio Duarte Jáquez, Presidente.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. Maria Eugenia Jimenez Valenzuela, Secretaria.- Sen. Gabino Cue Monteagudo, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintisiete de mayo de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 14 DE JUNIO DE 2012.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las acciones que en su caso deba efectuar la Procuraduría General de la República se realizarán de conformidad a lo establecido por el artículo sexto transitorio de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y por el artículo 14 de la Ley Orgánica de la Procuraduría General de la República.
