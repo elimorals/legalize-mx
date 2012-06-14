@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-2569"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-05-26"
-last_updated: "2011-12-12"
+last_updated: "2012-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2569&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOPJF"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 26 de mayo de 1995.
 
@@ -546,7 +546,7 @@ SECCION 1a.
 
 DE SU INTEGRACION Y FUNCIONAMIENTO
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 42.
 
@@ -642,23 +642,19 @@ II. De los procedimientos de extradición, salvo lo que se disponga en los trata
 
 III. De las autorizaciones para intervenir cualquier comunicación privada.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2012)</small>
 
 ###### ARTICULO 50
 
-BIS.- En materia federal, la autorización para intervenir comunicaciones privadas será otorgada de conformidad con la Ley Federal contra la Delincuencia Organizada, la Ley de Seguridad Nacional, el Código Federal de Procedimientos Penales, la Ley de la Policía Federal o la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, según corresponda.
+BIS.- En materia federal, la autorización para intervenir comunicaciones privadas será otorgada de conformidad con la Ley Federal contra la Delincuencia Organizada, la Ley de Seguridad Nacional, el Código Federal de Procedimientos Penales, la Ley de la Policía Federal, la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro o la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, según corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JUNIO DE 2012)</small>
 
 ###### ARTICULO 50
 
-TER.- Cuando la solicitud de autorización de intervención de comunicaciones privadas, sea formulada en los términos previstos en las legislaciones locales, por el titular del Ministerio Público de alguna entidad federativa, exclusivamente se concederá si se trata de los delitos de homicidio, asalto en carreteras o caminos, robo de vehículos y privación ilegal de la libertad o secuestro, los primeros previstos en el Código Penal Federal y el último en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, o sus equivalentes en las legislaciones penales locales.
+TER.- Cuando la solicitud de autorización de intervención de comunicaciones privadas, sea formulada en los términos previstos en las legislaciones locales, por el titular del Ministerio Público de alguna entidad federativa, exclusivamente se concederá si se trata de los delitos de homicidio, asalto en carreteras o caminos, robo de vehículos, privación ilegal de la libertad, secuestro o esclavitud, trata de personas o explotación, previstos en el Código Penal Federal, en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro o la Ley General para Combatir y Erradicar los delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, respectivamente, o sus equivalentes en las legislaciones penales locales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -722,19 +718,19 @@ IV. De los asuntos civiles concernientes a miembros del cuerpo diplomático y co
 
 V. De las diligencias de jurisdicción voluntaria que se promuevan en materia federal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE AGOSTO DE 2011)</small>
 
 VI. De las controversias ordinarias en que la federación fuere parte;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE AGOSTO DE 2011)</small>
 
 VII. De las acciones colectivas a que se refiere el Libro Quinto del Código Federal de Procedimientos Civiles, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE AGOSTO DE 2011)</small>
 
@@ -1024,25 +1020,25 @@ XXXVIII. Dictar las medidas que exijan el buen servicio y la disciplina en las o
 
 XXXIX. Regular las autorizaciones para abandonar el lugar de residencia de los funcionarios judiciales a que se refiere el artículo 153 de esta ley;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE AGOSTO DE 2011)</small>
 
 XL. Dictar las disposiciones necesarias para la recepción, control y destino de los bienes asegurados y decomisados;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE AGOSTO DE 2011)</small>
 
 XLI. Designar de entre sus miembros a los comisionados que integrarán la Comisión de Administración del Tribunal Electoral, en los términos señalados en el párrafo segundo del artículo 205 de esta ley;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE AGOSTO DE 2011)</small>
 
 XLII. Realizar las funciones que se le confieren en términos de lo dispuesto por el Libro Quinto del Código Federal de Procedimientos Civiles y expedir las disposiciones necesarias para el adecuado ejercicio de aquéllas, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE AGOSTO DE 2011)</small>
 
@@ -1672,7 +1668,7 @@ Cuando el recurso de reclamación se interponga sin motivo, se impondrá al recu
 
 ## TITULO DECIMO SEGUNDO. DEL FONDO DE APOYO A LA ADMINISTRACION DE JUSTICIA
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 14 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 14 DE FEBRERO DE 2006)</small>
 
 ### CAPITULO V. DE LAS VACACIONES Y DIAS INHABILES
 
@@ -1824,7 +1820,7 @@ En los órganos del Poder Judicial de la Federación, se considerarán como día
 
 ### CAPITULO II. DE LA SALA SUPERIOR
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 SECCION 1A.
 
@@ -1906,7 +1902,7 @@ En términos de la fracción XIX del artículo 11 de esta ley, la Suprema Corte 
 
 ### CAPITULO IV. DE LAS SALAS REGIONALES
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 SECCION 1A.
 
@@ -1936,13 +1932,13 @@ Cuando los ministros se retiren sin haber cumplido quince años en el ejercicio 
 
 En caso de fallecimiento de los ministros durante el ejercicio del cargo o después de concluido, su cónyuge y sus hijos menores o incapaces tendrán derecho a una pensión equivalente al cincuenta por ciento de la remuneración mensual que en términos de los dos párrafos anteriores debía corresponder al propio ministro. El cónyuge dejará de tener derecho a este beneficio, al contraer matrimonio o al entrar en concubinato, y los menores al cumplir la mayoría de edad.
 
-> <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 TITULO DECIMOPRIMERO
 
 DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 ### CAPITULO V. DE LOS MAGISTRADOS ELECTORALES
 
@@ -1964,7 +1960,7 @@ De conformidad con el artículo 99 de la Constitución Política de los Estados 
 
 El Tribunal Electoral funcionará en forma permanente con una Sala Superior y con cinco Salas Regionales; sus sesiones de resolución jurisdiccional serán públicas.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 186.
 
@@ -2036,11 +2032,11 @@ IX.- Conducir las relaciones con otros tribunales electorales, autoridades e ins
 
 X.- Las demás que le señalen las leyes.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 ### CAPITULO VI. DEL SECRETARIO GENERAL DE ACUERDOS Y SUBSECRETARIO GENERAL DE ACUERDOS
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 SECCION 1A.
 
@@ -2070,7 +2066,7 @@ Cuando un magistrado electoral disintiere de la mayoría o su proyecto fuera rec
 
 La Sala Superior nombrará a un secretario general de acuerdos y a un subsecretario general de acuerdos, a los secretarios, a los actuarios, así como al personal administrativo y técnico que se requiera para su buen funcionamiento, conforme a los lineamientos que dicte la Comisión de Administración.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 SECCION 2A.
 
@@ -2174,7 +2170,7 @@ La determinación que emita la Sala Superior respecto de ejercer o no la faculta
 
 ### CAPITULO VII. DE LOS SECRETARIOS GENERALES DE SALA REGIONAL
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 SECCION 1A.
 
@@ -2254,11 +2250,11 @@ XXVI.- Enviar a la Suprema Corte de Justicia de la Nación los informes relativo
 
 XXVII.- Las demás que señalen las leyes, el Reglamento Interno o aquellas que sean necesarias para el correcto funcionamiento del Tribunal.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 ### CAPITULO VIII. DE LA COMISION DE ADMINISTRACION
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 SECCION 1A.
 
@@ -2292,7 +2288,7 @@ La ausencia temporal de un magistrado de Sala Regional que no exceda de treinta 
 
 Si la ausencia de un magistrado es definitiva, el Presidente de la respectiva Sala lo notificará de inmediato a la Sala Superior, la que procederá a dar aviso a la Suprema Corte de Justicia de la Nación a fin de que se haga la propuesta a la Cámara de Senadores para que se elija al magistrado que corresponda. En este caso, mientras se hace la elección respectiva, la ausencia será suplida por el secretario general o por el secretario con mayor antigüedad de la propia Sala.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 SECCION 2A.
 
@@ -2344,7 +2340,7 @@ XIV. Las que les delegue la Sala Superior y las demás que señalen las leyes.
 
 Las facultades antes establecidas se sujetarán a los acuerdos generales que emita la Sala Superior, los que en ningún caso podrán hacerlas nugatorias de manera permanente. Los acuerdos específicos que en uso de su facultad de delegación emita la Sala Superior no establecerán jurisprudencia.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 SECCION 3A.
 
@@ -2404,11 +2400,11 @@ XV.- Enviar a la Sala Superior los informes relativos a la no aplicación de ley
 
 XVI.- Las demás que sean necesarias para el correcto funcionamiento de la Sala o que establezca la ley o el Reglamento Interno.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 ### CAPITULO IX. DISPOSICIONES ESPECIALES
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 SECCION 1A.
 
@@ -2474,7 +2470,7 @@ XV.- Las demás que les señalen las leyes o el Reglamento Interno del Tribunal 
 
 Cada magistrado de la Sala Superior y de las Salas Regionales contará permanentemente con el apoyo de los secretarios instructores y de estudio y cuenta que sean necesarios para el desahogo de los asuntos de su competencia.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 ### CAPITULO I. DE LA ORGANIZACION
 
@@ -2484,7 +2480,7 @@ Cada magistrado de la Sala Superior y de las Salas Regionales contará permanent
 
 Para el ejercicio de sus funciones la Sala Superior contará con un secretario general de acuerdos y un subsecretario general de acuerdos que serán nombrados en los términos del artículo 188 de esta ley.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 SECCION 2A.
 
@@ -2530,7 +2526,7 @@ XII.- Las demás que le señalen las leyes.
 
 El subsecretario general de acuerdos auxiliará y apoyará al secretario general de acuerdos en el ejercicio de las funciones que tenga encomendadas, de conformidad con lo previsto por el Reglamento Interno del Tribunal.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 ### CAPITULO II. DE LA INTEGRACION
 
@@ -2540,7 +2536,7 @@ El subsecretario general de acuerdos auxiliará y apoyará al secretario general
 
 Para el ejercicio de sus funciones cada una de las Salas Regionales nombrará a un secretario general de acuerdos.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 SECCION 2A.
 
@@ -2580,7 +2576,7 @@ XI.- Llevar el registro de las sentencias relativas a la no aplicación de leyes
 
 XII.- Las demás que les señalen las leyes.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 ### CAPITULO III. DE LA ADMINISTRACION Y OPERACION
 
@@ -2700,7 +2696,7 @@ XXX.- Vigilar que los servidores de las Salas Regionales y de la propia Comisió
 
 XXXI.- Desempeñar cualquier otra función que la ley o el Reglamento Interno del Tribunal Electoral le encomienden.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 SECCION 3A.
 
@@ -2728,7 +2724,7 @@ VII.- Nombrar al Secretario Administrativo y a los titulares de los órganos aux
 
 VIII.- Las demás que le señalen la ley, el Reglamento Interno y los acuerdos generales.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 SECCION 4A.
 
@@ -2740,7 +2736,7 @@ DE LOS ORGANOS AUXILIARES
 
 La Comisión de Administración contará con una Secretaría Administrativa y con los órganos auxiliares necesarios para el adecuado ejercicio de las funciones que tiene encomendadas. Su estructura y funciones quedarán determinadas en el Reglamento Interno del Tribunal Electoral.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 ### CAPITULO IV. DEL DESTINO
 
@@ -2762,7 +2758,7 @@ IV.- No haber sido registrado como candidato a cargo alguno de elección popular
 
 V.- No desempeñar ni haber desempeñado cargo de dirección nacional, estatal, distrital o municipal en algún partido político en los seis años inmediatos anteriores a la designación.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 213.
 
@@ -2868,13 +2864,13 @@ El presidente del Tribunal o la Comisión de Administración, en el ámbito de s
 
 Asimismo, cuando las cargas de trabajo extraordinarias lo exijan, la Comisión de Administración podrá autorizar la contratación, con carácter de eventual, del personal jurídico y administrativo necesario para hacer frente a tal situación, sin necesidad de seguir los procedimientos ordinarios para su contratación e ingreso.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 SECCION 2A.
 
 DE LAS RESPONSABILIDADES, IMPEDIMENTOS Y EXCUSAS
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 219.
 
@@ -2914,13 +2910,13 @@ Cuando proceda la excusa presentada por un magistrado electoral, el quórum para
 
 Los magistrados electorales y los servidores de la Sala Superior, así como los coordinadores y demás servidores directamente adscritos a la presidencia del Tribunal, en los términos de la legislación aplicable, cumplirán sus obligaciones respecto a la declaración de su situación patrimonial ante la Suprema Corte de Justicia de la Nación. Todos los demás que estén obligados, lo harán ante el Consejo de la Judicatura Federal.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 SECCION 3A.
 
 DE LAS VACACIONES, DIAS INHABILES, RENUNCIAS, AUSENCIAS Y LICENCIAS
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 223.
 
@@ -2990,7 +2986,7 @@ d) Las licencias que no excedan de un mes serán autorizadas por la propia Sala 
 
 Las licencias serán otorgadas a los servidores públicos y empleados del Tribunal Electoral aplicándose, en lo conducente, los artículos 164 al 176 de esta ley y tomando en cuenta que durante los procesos electorales todos los días y horas son hábiles.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 SECCION 4A.
 
@@ -3014,7 +3010,7 @@ El Tribunal Electoral deberá conservar en su archivo jurisdiccional los expedie
 
 Una vez concluido el plazo a que se refiere el artículo anterior el Tribunal Electoral podrá remitir los expedientes al Archivo General de la Nación, y conservará copia de los que requiera, utilizando para ello cualquier método de digitalización, reproducción o reducción.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 SECCION 5A.
 
@@ -3056,7 +3052,7 @@ La jurisprudencia del Tribunal Electoral se interrumpirá y dejará de tener car
 
 La jurisprudencia del Pleno de la Suprema Corte de Justicia de la Nación será obligatoria para el Tribunal Electoral, cuando se refiera a la interpretación directa de un precepto de la Constitución Política de los Estados Unidos Mexicanos, y en los casos en que resulte exactamente aplicable.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 SECCION 6A.
 
@@ -3074,13 +3070,13 @@ De conformidad con lo previsto por el párrafo séptimo del artículo 99 de la C
 
 Las resoluciones que dicte el Pleno de la Suprema Corte de Justicia en los casos de contradicción de tesis del Tribunal Electoral, no afectarán las situaciones jurídicas concretas derivadas de los asuntos en los cuales se hubiesen emitido las sentencias que sustentaron las tesis contradictorias.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 SECCION 7A.
 
 DE LA PROTESTA CONSTITUCIONAL
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 238.
 
@@ -3104,7 +3100,7 @@ En todos los casos, la protesta se prestará en los términos señalados en el a
 
 Todos los servidores públicos y empleados del Tribunal Electoral se conducirán con imparcialidad y velarán por la aplicación irrestricta de los principios de constitucionalidad y legalidad en todas las diligencias y actuaciones en que intervengan en el desempeño de sus funciones y tendrán la obligación de guardar absoluta reserva sobre los asuntos que sean competencia del Tribunal.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 SECCION 8A.
 
@@ -3124,13 +3120,13 @@ La Comisión Sustanciadora en los conflictos laborales se integrará por un repr
 
 Los servidores del Tribunal que sean destituidos podrán apelar tal decisión ante la Sala Superior del mismo.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 14 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE FEBRERO DE 2006)</small>
 
 ###### ARTICULO 242.
 
 El Poder Judicial de la Federación se auxiliará para el mejor desempeño de sus funciones de un fondo económico para el mejoramiento de la administración de justicia y administrar los recursos financieros que integren el mismo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 14 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE FEBRERO DE 2006)</small>
 
 ###### ARTICULO 243.
 
@@ -3150,7 +3146,7 @@ IV. Los ingresos que se produzcan por la administración de valores o los depós
 
 Los recursos con los que se integre y opere el Fondo serán diferentes de aquellos que comprenda el presupuesto anual aprobado a favor del Poder Judicial de la Federación, y no afectarán las partidas que sean autorizadas mediante dicho presupuesto.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 14 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE FEBRERO DE 2006)</small>
 
 ###### ARTICULO 245.
 
@@ -3186,7 +3182,7 @@ IV. Las demás que señale el Comité.
 
 Los recursos que integren el Fondo deberán ser administrados en valores de renta fija del más alto rendimiento, siempre que éstos permitan la disponibilidad inmediata y suficiente de las sumas que resulte necesario reintegrar a los depositantes o entregar a los particulares que tengan derecho a ellas.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 14 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 249.
 
@@ -3248,7 +3244,7 @@ México, D.F., a 19 de mayo de 1995.- Sen. Germán Sierra Sánchez, Presidente.-
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinticinco días del mes de mayo de mil novecientos noventa y cinco.- El Presidente Constitucional de los Estados Unidos Mexicanos.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Esteban Moctezuma Barragán.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 7 DE NOVIEMBRE DE 1996.
 
@@ -3330,7 +3326,7 @@ SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 D.O.F. 18 DE MAYO DE 1999.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -3457,3 +3453,7 @@ SEXTO.- El Consejo de la Judicatura Federal deberá crear el Fondo a que se refi
 D.O.F. 12 DE DICIEMBRE DE 2011.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE JUNIO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
