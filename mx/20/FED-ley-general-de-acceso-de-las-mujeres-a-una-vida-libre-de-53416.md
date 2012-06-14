@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-acceso-de-las-mujeres-a-una-vida-libre-de-53416"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-02-01"
-last_updated: "2012-05-18"
+last_updated: "2012-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53416&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-01-31"
 
 LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de febrero de 2007.
 
@@ -252,6 +252,10 @@ Para cumplir con su obligación de garantizar el derecho de las mujeres a una vi
 ###### ARTÍCULO 21.
 
 Violencia Feminicida: Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado y puede culminar en homicidio y otras formas de muerte violenta de mujeres.
+
+> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 2012)</small>
+
+En los casos de feminicidio se aplicarán las sanciones previstas en el artículo 325 del Código Penal Federal.
 
 ###### ARTÍCULO 22.
 
@@ -615,9 +619,15 @@ VIII. Diseñar, con una visión transversal, la política integral con perspecti
 
 IX. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
 
-X. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2012)</small>
 
-XI. Las demás previstas para el cumplimiento de la presente ley.
+X. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2012)</small>
+
+XI. Realizar una página de Internet específica en la cual se encuentren los datos generales de las mujeres y niñas que sean reportadas como desaparecidas. La información deberá ser pública y permitir que la población en general pueda aportar información sobre el paradero de las mujeres y niñas desaparecidas. Esta página deberá actualizarse de forma permanente, y
+
+XII. Las demás previstas para el cumplimiento de la presente ley.
 
 #### Sección Sexta.. De la Secretaría de Salud
 
@@ -739,7 +749,17 @@ IX. Las demás previstas para el cumplimiento de la presente ley.
 
 Corresponde a la Procuraduría General de la República:
 
-I. Promover la formación y especialización de Agentes de la Policía Federal Investigadora, Agentes del Ministerio Público y de todo el personal encargado de la procuración de justicia en materia de derechos humanos de las mujeres;
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2012)</small>
+
+I. Especializar a las y los agentes del Ministerio Público, peritos, personal que atiende a víctimas a través de programas y cursos permanentes en:
+
+a) Derechos humanos y género;
+
+b) Perspectiva de género para la debida diligencia en la conducción de averiguaciones previas y procesos judiciales relacionados con discriminación, violencia y feminicidio;
+
+c) Incorporación de la perspectiva de género en los servicios periciales;
+
+d) Eliminación de estereotipos sobre el rol social de las mujeres, entre otros.
 
 II. Proporcionar a las víctimas orientación y asesoría para su eficaz atención y protección, de conformidad con la Ley Orgánica de la Procuraduría General de la República, su Reglamento y demás ordenamientos aplicables;
 
@@ -753,9 +773,27 @@ VI. Proporcionar a las víctimas información objetiva que les permita reconocer
 
 VII. Promover la cultura de respeto a los derechos humanos de las mujeres y garantizar la seguridad de quienes denuncian;
 
-VIII. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2012)</small>
 
-IX. Las demás previstas para el cumplimiento de la presente ley.
+VIII. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2012)</small>
+
+IX. Crear un registro público sistemático de los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características sociodemográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia;
+
+> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2012)</small>
+
+X. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual;
+
+> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2012)</small>
+
+XI. Crear una base nacional de información genética que contenga la información personal disponible de mujeres y niñas desaparecidas a nivel nacional; la información genética y muestras celulares de los familiares de las personas desaparecidas que lo consientan; la información genética y muestras celulares provenientes de los cuerpos de cualquier mujer o niña no identificada.
+
+La información integrada en esta base deberá ser resguardada y únicamente podrá ser utilizada para la confrontación de información genética entre cuerpos no identificados y personas desaparecidas, y
+
+> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2012)</small>
+
+XII. Las demás previstas para el cumplimiento de la presente ley.
 
 ###### ARTÍCULO 48.
 
@@ -829,9 +867,31 @@ XIX. Proporcionar a las instancias encargadas de realizar estadísticas, la info
 
 XX. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente ley, así como para establecer como agravantes los delitos contra la vida y la integridad cuando estos sean cometidos contra mujeres, por su condición de género;
 
-XXI. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2012)</small>
 
-XXII. Las demás aplicables a la materia, que les conceda la ley u otros ordenamientos legales.
+XXI. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2012)</small>
+
+XXII. Especializar a las y los agentes del Ministerio Público, peritos, personal que atiende a víctimas a través de programas y cursos permanentes en:
+
+a) Derechos humanos y género;
+
+b) Perspectiva de género para la debida diligencia en la conducción de averiguaciones previas y procesos judiciales relacionados con discriminación, violencia y feminicidio;
+
+c) Incorporación de la perspectiva de género en los servicios periciales; eliminación de estereotipos sobre el rol social de las mujeres, entre otros.
+
+> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2012)</small>
+
+XXIII. Crear un registro público sistemático de los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características socio demográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia;
+
+> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2012)</small>
+
+XXIV. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual, y
+
+> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2012)</small>
+
+XXV. Las demás aplicables a la materia, que les conceda la ley u otros ordenamientos legales.
 
 Las autoridades federales, harán las gestiones necesarias para propiciar que las autoridades locales reformen su legislación, para considerar como agravantes los delitos contra la vida y la integridad corporal cometidos contra mujeres.
 
@@ -1030,3 +1090,9 @@ D.O.F. 18 DE MAYO DE 2012.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. El titular del Ejecutivo Federal, dentro de los 30 días siguientes a la entrada en vigor del presente Decreto, deberá llevar a cabo las reformas que sean necesarias al reglamento de la ley.
+
+D.O.F. 14 DE JUNIO DE 2012.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las acciones que en su caso deba efectuar la Procuraduría General de la República se realizarán de conformidad a lo establecido por el artículo sexto transitorio de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y por el artículo 14 de la Ley Orgánica de la Procuraduría General de la República.
