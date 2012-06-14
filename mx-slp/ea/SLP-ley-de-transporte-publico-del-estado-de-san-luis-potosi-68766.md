@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2012-04-03"
+last_updated: "2012-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -353,7 +353,7 @@ VIII. Las demás que determinen esta Ley y su Reglamento.
 
 ###### ARTICULO 20.
 
-El servicio de transporte público en el Estado San Luis Potosí para los efectos de esta Ley, se clasifica en los siguientes sistemas:
+El servicio de transporte público en el Estado de San Luis Potosí para los efectos de esta Ley, se clasifica en los siguientes sistemas:
 
 l. Sistemas de transporte de pasajeros, y
 
@@ -677,9 +677,9 @@ El vehículo relevado invariablemente deberá ser presentado sin los rótulos de
 
 Los concesionarios y permisionarios deberán efectuar las modificaciones y adecuaciones que establezca la Secretaría en materia de seguridad, comodidad y prevención de accidentes.
 
-> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2012)</small>
 
-Los prestadores del servicio de transporte público, como medida de seguridad, instalarán cámaras de video en las unidades de transporte, para documentar los eventos que se susciten durante la prestación del servicio.
+Los prestadores del servicio de transporte público, como medida de seguridad, instalarán cámaras de video en las unidades de transporte, para documentar los eventos que se susciten durante la prestación del servicio; y las cuales estarán reguladas, operadas y vigiladas por la Secretaría, de conformidad con lo que para tales efectos disponga su reglamento respectivo.
 
 Ningún vehículo deberá portar elementos o equipos adicionales que no sean necesarios para la prestación del servicio, a menos que sean autorizados expresamente por la Secretaría.
 
@@ -1886,3 +1886,11 @@ P.O. 3 DE ABRIL DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 14 DE JUNIO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Secretaría de Comunicaciones y Transportes tendrá tres meses a partir de la vigencia del presente Decreto, para realizar las modificaciones a su reglamento, sobre la operación y vigilancia de las cámaras de video en el transporte público.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
