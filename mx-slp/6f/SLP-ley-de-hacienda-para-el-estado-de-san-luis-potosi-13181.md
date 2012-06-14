@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2012-05-31"
+last_updated: "2012-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -1073,9 +1073,11 @@ IV. Por cuarto de plana 2.1.
 
 No pagarán el derecho de publicaciones en el Periódico Oficial las ordenadas por las dependencias del Gobierno del Estado, los Municipios, el D.I.F. Estatal y las relativas a asuntos que se tramiten por las Defensorías de Oficio de los ramos civil, familiar y penal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2012)</small>
+
 ###### ARTICULO 40.
 
-La inscripción de instrumentos jurídicos en el Registro Público de la Propiedad y de Comercio causará los siguientes derechos:
+La inscripción de instrumentos jurídicos en el Registro Público de la Propiedad causará los siguientes derechos:
 
 I. Títulos de propiedad:
 
@@ -1161,9 +1163,11 @@ Tratándose de hipotecas por adquisición de vivienda de interés social o popul
 
 Por la inscripción de fianzas o por su cancelación, se aplicará la tarifa del Artículo 40, fracción I de esta Ley sobre su valor, a excepción de las otorgadas en procesos penales, en cuyo caso se causará el 50% de dicha tarifa pero nunca será inferior a 0.92 salarios mínimos.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2012)</small>
+
 ###### ARTICULO 46.
 
-Por la inscripción en el Registro Público de la Propiedad y de Comercio de anotaciones de fianzas, contrafianzas y obligaciones solidarias con el fiador, contrafiador u obligados solidarios, se pagará el 50% de la cuota señalada en el Artículo 40, fracción I de esta Ley.
+Por la inscripción en el Registro Público de la Propiedad de anotaciones de fianzas, contrafianzas y obligaciones solidarias con el fiador, contrafiador u obligados solidarios, se pagará el 50% de la cuota señalada en el artículo 40, fracción I de esta Ley.
 
 ###### ARTICULO 47.
 
@@ -1177,7 +1181,9 @@ La inscripción o reinscripción de contratos de arrendamiento financiero puro o
 
 La inscripción o reinscripción de contratos de crédito con garantías hipotecaria y/o prendaria, refaccionarios, de habilitación o avío, otorgados por sociedades de crédito, así como las operaciones a que se refiere el Artículo 44 de esta Ley, causará el 2.5 al millar sobre el monto del crédito. Su cancelación causará el equivalente de seis días de salario mínimo.
 
-Cuando la operación haya de inscribirse en las oficinas del Registro Público de la Propiedad y de Comercio del Estado y de otras entidades federativas, estos derechos se dividirán en la proporción que le corresponda a cada entidad, atendiendo al valor catastral de los bienes situados en cada entidad federativa, sin que la suma de lo que se pague en total exceda de 2.5 al millar.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2012)</small>
+
+Cuando la operación haya de inscribirse en las oficinas del Registro Público de la Propiedad del Estado y de otras entidades federativas, estos derechos se dividirán en la proporción que le corresponda a cada Entidad, atendiendo al valor catastral de los bienes situados en cada entidad federativa, sin que la suma de lo que se pague en total exceda de 2.5 al millar.
 
 Cuando se trate de contrato de crédito con refinanciamiento se calculará el monto de los derechos a pagar sobre la base de la primera disposición del crédito sin incluir el refinanciamiento, excepción hecha de los créditos relacionados con vivienda de interés social o vivienda popular, en cuyos casos la base para calcular los derechos será el monto del crédito que se ejerce de inmediato para adquirir el inmueble, aplicándose además un descuento del 50% del total que resulte a pagar.
 
@@ -1213,9 +1219,11 @@ Por la inscripción de fideicomisos o de su disolución se pagarán 1.26 salario
 
 Por la inscripción de contratos de arrendamiento se cobrarán por foja 4.61 salarios mínimos, cuando se trate de casa habitación y, 9.21 salarios mínimos, cuando el inmueble arrendado se destine a actividades comerciales, industriales o de servicios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2012)</small>
+
 ###### ARTICULO 56.
 
-Las certificaciones, búsqueda de datos y anotaciones marginales que realice el Registro Público de la Propiedad y de Comercio, causarán derechos, que se cobrarán en el equivalente en salarios mínimos, como sigue:
+Las certificaciones, búsqueda de datos y anotaciones marginales que realice el Registro Público de la Propiedad, causarán derechos que se cobrarán en el equivalente en salarios mínimos, como sigue:
 
 I. Inscripciones por depósito de testamentos en el Registro Público de la Propiedad y en el Archivo de Notarías, se cobrará de acuerdo a lo siguiente:
 
@@ -1229,29 +1237,39 @@ d) Por la expedición de certificados de existencia o no de testamentos, 1.3.
 
 II. Por expedición de certificados de gravamen o de libertad de éste, por cada predio y por gravamen 2.39. Cuando se trate de vivienda popular o de interés social se cobrará el 50% de lo estipulado en esta fracción;
 
-III. Por la búsqueda de datos diversos, con excepción de los gravámenes, realizada directamente por el personal del Registro Público de la Propiedad y de Comercio, 1.26;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2012)</small>
+
+III. Por la búsqueda de datos diversos, con excepción de los gravámenes, realizada directamente por el personal del Registro Público de la Propiedad, 1.26;
 
 IV. Por la expedición de copia certificada de inscripción, 2.39 salarios mínimos;
 
 V. Por las certificaciones relativas o constancias o documentos que obren en el archivo notarial, 2.39 por cada foja, siempre y cuando lo ordene la autoridad competente o la soliciten la o las personas que hayan intervenido en el acto notarial;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2012)</small>
 
-VI. Por cualquier anotación marginal en los libros de Registro Público de la Propiedad y de Comercio, no prevista en las disposiciones anteriores, 1.76 por foja o fracción;
+VI. Por cualquier anotación marginal en los libros de Registro Público de la Propiedad, no prevista en las disposiciones anteriores, 1.76 por foja o fracción;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA [N. DE ADICIONADA], P.O. 14 DE JUNIO DE 2012)</small>
 
-VII. Por la búsqueda de datos en este archivo, que no efectúe directamente el personal del Registro Público de la Propiedad y de Comercio, se deberá pagar 0.5, y
+VII. Por la búsqueda de datos en este archivo, que no efectúe directamente el personal del Registro Público de la Propiedad, se deberá pagar 0.5, y
 
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2012)</small>
 
-VIII. Por consultas efectuadas por los usuarios a la base de datos del Registro Público de la Propiedad y de Comercio, directamente o a través de la red de información mundial, lo siguiente:
+VIII. Por consultas efectuadas por los usuarios a la base de datos del Registro Público de la Propiedad, directamente, o a través de la red de información mundial, lo siguiente:
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2004)</small>
 
 a) Por acceso a la base de datos, 1.68 salarios mínimos;
 
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2004)</small>
+
 b) Por consulta por folio mercantil o inmobiliario, 0.5 salarios mínimos, y
 
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2004)</small>
+
 c) Por expedición de constancias simples por actos mercantiles o inmobiliario, 0.5 salarios mínimos.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2004)</small>
 
 Para efecto de que los fedatarios, corredores públicos y usuarios en general puedan efectuar sus pagos electrónicamente, la Secretaría de Finanzas deberá abrir una cuenta con las instituciones de crédito que resulten necesarias, así como poner en venta en las oficinas de recaudación, las tarjetas de prepago para dicho fin.
 
@@ -2854,3 +2872,9 @@ CUARTO. Por el ejercicio fiscal 2012 se concederá un subsidio equivalente al ci
 P.O. 31 DE MAYO DE 2012.
 
 UNICO. Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JUNIO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
