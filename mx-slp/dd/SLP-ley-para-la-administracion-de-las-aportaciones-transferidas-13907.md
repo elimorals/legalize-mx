@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-administracion-de-las-aportaciones-transferidas-139
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-16"
-last_updated: "2011-07-30"
+last_updated: "2012-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY PARA LA ADMINISTRACION DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-LEY PARA LA ADMINISTRACION DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
+LEY PARA LA ADMINISTRACIÓN DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de marzo de 1999.
 
@@ -47,7 +47,7 @@ LEY PARA LA ADMINISTRACION DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPI
 
 La presente Ley es de orden público e interés social y tiene por objeto:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2007)</small>
 
 I. Regular y coordinar las acciones relativas al ejercicio, control y evaluación de los Recursos Federales del Ramo 33, que para efectos de su operación se constituyen en Fondos Estatales, al momento de ser recibidos por el Ejecutivo del Estado; distribuyéndose de la siguiente forma: Fondo Estatal para la Educación Básica y Normal; Fondo Estatal para los Servicios de Salud; Fondo Estatal de Aportaciones Múltiples; Fondo Estatal para la Educación Tecnológica y de Adultos; Fondo Estatal para la Seguridad Pública; Fondo Estatal para la Infraestructura Social; y Fondo para el Fortalecimiento del Estado.
 
@@ -123,7 +123,7 @@ IX. Fondo para el Fortalecimiento del Estado.
 
 En el caso de los municipios, los ayuntamientos, en sus respectivas Leyes de Ingresos y Presupuestos de Egresos, reflejarán los Fondos para la Infraestructura Social Municipal y para el Fortalecimiento de los Municipios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 7°.
 
@@ -171,7 +171,7 @@ III. Supervisión y control de las obras y acciones, y
 
 IV. Gastos administrativos relacionados con la ejecución de las obras financiadas con estos Fondos.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O 12 DE JUNIO DE 2007)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 12 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 11.
 
@@ -341,7 +341,7 @@ Los recursos del Fondo Estatal para la Infraestructura Social se destinarán exc
 
 El Programa de Inversiones será elaborado por el Ejecutivo del Estado, a través de la Secretaría de Desarrollo Social y Regional, a más tardar el treinta de abril, incorporando dicha información al Sistema de Información del Desarrollo Social y Regional. El Programa de Inversiones será autorizado por la Secretaría de Finanzas de Gobierno del Estado, de acuerdo a los lineamientos que ésta determine.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 37.
 
@@ -375,7 +375,7 @@ Es responsabilidad de la entidad ejecutora desde el momento en que recibe los re
 
 En el ejercicio y comprobación de los recursos del Fondo Estatal para la Infraestructura Social, se observará lo dispuesto en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 41.
 
@@ -467,7 +467,7 @@ IV. Proporcionar a la Secretaría de Desarrollo Social y Regional y a la Secreta
 
 Asimismo, deberá proporcionar a la Contraloría General del Estado o al Organo de Control y Supervisión Interno del Gobierno Municipal en donde esté constituido, toda la información y documentación que le requiera.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 48.
 
@@ -527,7 +527,7 @@ La validación de los expedientes técnicos a que se hace referencia en el prese
 
 En materia de seguridad pública los ayuntamientos formularán los proyectos de las acciones que emprendan con cargo a este Fondo, de conformidad con las políticas y estrategias de los Sistemas Nacional y Estatal de Seguridad Pública.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O 12 DE JUNIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2007)</small>
 
 ### CAPITULO X. Del Fondo para el Fortalecimiento del Estado
 
@@ -545,7 +545,9 @@ II. Al saneamiento financiero, preferentemente a través de la amortización de 
 
 III. Para apoyar el saneamiento de pensiones y, en su caso, reformas a los sistemas de pensiones del Estado, prioritariamente a las reservas actuariales;
 
-IV. A la modernización de los registros públicos de la propiedad y del comercio del Gobierno del Estado, en el marco de la coordinación para homologar los registros públicos; así como para modernización de los catastros, con el objeto de actualizar los valores de los bienes y hacer más eficiente la recaudación de contribuciones;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2012)</small>
+
+IV. A la modernización de los registros públicos de la propiedad del Gobierno del Estado, en el marco de la coordinación para homologar los registros públicos de la propiedad; así como para modernización de los catastros, con el objeto de actualizar los valores de los bienes y hacer más eficiente la recaudación de contribuciones;
 
 V. Para modernizar el sistema de recaudación del Gobierno del Estado, y para desarrollar mecanismos impositivos que permitan ampliar la base gravable de las contribuciones locales, lo cual genere un incremento neto en la recaudación;
 
@@ -563,7 +565,7 @@ Los recursos del Fondo para el Fortalecimiento del Estado, tienen por objeto for
 
 ### CAPITULO I. Generalidades
 
-> <small>(REFORMADO, P.O 12 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 56.
 
@@ -631,7 +633,7 @@ Asimismo, se impulsará la participación social de manera intensiva y permanent
 
 ### CAPITULO III. De los Consejos de Desarrollo Social Municipal
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 66.
 
@@ -677,7 +679,7 @@ El Consejo deberá celebrar asambleas ordinarias una vez al mes y de carácter e
 
 El Titular del Ejecutivo del Estado o los funcionarios estatales que designe, podrán acudir como invitados a las asambleas ordinarias y extraordinarias de los Consejos, para evaluar y dar seguimiento a las obras y acciones en cada Municipio.
 
-> <small>(REFORMADO, P.O 12 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 71.
 
@@ -693,7 +695,7 @@ II. Promover entre los vecinos la participación social, como instrumento de des
 
 III. Recibir las propuestas de obras y acciones que planteen las comunidades, las cuales deberán ser sustentadas con el acta de asamblea comunitaria, donde se asiente y valide que las obras y acciones correspondientes fueron priorizadas por la mayoría de la población;
 
-> <small>(REFORMADA, P.O 12 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2007)</small>
 
 IV. Apoyar a los ayuntamientos en la selección de las obras y acciones a realizar, con base en el programa que se les presenten;
 
@@ -743,7 +745,7 @@ Cada Ayuntamiento podrá convenir recursos del Programa Anual de Desarrollo Inst
 
 ### CAPITULO V. Del Intercambio de Información
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 76.
 
@@ -785,11 +787,11 @@ Recibidos los recursos de los Fondos Estatales y Municipales por el Estado y los
 
 La supervisión y vigilancia no podrá implicar limitaciones, ni restricciones de cualquier índole, en la administración y ejercicio de dichos Fondos.
 
-> <small>(REFORMADO, P.O 12 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
 La revisión y fiscalización de las cuentas públicas del Estado y de los municipios, serán efectuadas por la Auditoria Superior del Estado, de conformidad a las disposiciones legales aplicables, a efecto de verificar que las dependencias del Ejecutivo del Estado y de los municipios, respectivamente, aplicaron los recursos de los Fondos Estatales y Municipales para los fines previstos en esta Ley.
 
-> <small>(DEROGADO CUARTO PARRAFO, P.O 12 DE JUNIO DE 2007)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 12 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 82.
 
@@ -885,7 +887,7 @@ LIC. JUAN CARLOS BARRON CERDA.
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 30 DE DICIEMBRE DE 2000.
 
@@ -905,7 +907,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 12 DE JUNIO DE 2007.
 
-PRIMERO.- Este Decreto entrará en vigor al dí a (sic) siguiente de su publicación en el Periódico Oficial del Estado.
+PRIMERO.- Este Decreto entrará en vigor al dí a (sic)siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
@@ -919,7 +921,7 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-TERCERO. Para efecto de dar cumplimiento a este Decreto, los consejos de Desarrollo Social que se encuentren en funciones deberán concluir su periódo al término de las presentes administraciones municipales.
+TERCERO. Para efecto de dar cumplimiento a este Decreto, los consejos de Desarrollo Social que se encuentren en funciones deberán concluir su periodo al término de las presentes administraciones municipales.
 
 P.O. 23 DE JULIO DE 2011.
 
@@ -932,3 +934,9 @@ P.O. 30 DE JULIO DE 2011.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 14 DE JUNIO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
