@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-poder-judicial-del-estado-de-durango-69276"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-02"
-last_updated: "2010-12-23"
+last_updated: "2012-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
+LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 2 de julio de 2009.
 
@@ -1519,7 +1519,9 @@ Para el mejor funcionamiento de la Dirección de Archivo, se implantarán sistem
 
 La extracción de expedientes, documentos o registros del archivo judicial, sólo podrá realizarse mediante orden escrita de la autoridad que lo haya remitido o del titular de la Dirección de Transparencia y Acceso a la Información Pública y de Comunicación Social del Poder Judicial del Estado, o de otra competente, en cuyo caso, se insertará en el oficio relativo la determinación que motiva el pedimento.
 
-El Director de Archivo y el Consejero que determine el Consejo de la Judicatura, expedirán las cartas de antecedentes penales que sean solicitadas, mediante el pago respectivo.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2012)</small>
+
+El Director de Archivo del Poder Judicial del Estado, expedirá las cartas de antecedentes penales que sean solicitadas, mediante el pago respectivo. En el caso de las personas que tengan derecho a obtener la prescripción de sus antecedentes penales, realizarán el trámite relativo a que se refiere el artículo artículo (sic) 130 bis del Código Penal para el Estado Libre y Soberano de Durango.
 
 #### SECCIÓN SÉPTIMA. DE LA DIRECCIÓN DE INFORMÁTICA
 
@@ -3364,3 +3366,11 @@ TERCERO. Una vez electos los Magistrados del Tribunal de Justicia Fiscal y Admin
 CUARTO. Dentro de los 30 días siguientes a la entrada en vigor del presente Decreto, la Comisión de Administración del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial, celebrará sesión de instalación; y dentro de los 90 días hábiles siguientes, deberá expedir el Reglamento Interno del propio Tribunal.
 
 QUINTO. Se derogan todas las disposiciones que contravengan lo previsto en el presente Decreto.
+
+P.O. 14 DE JUNIO DE 2012.
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Juez de Ejecución tendrá facultades para aplicar el trámite previsto en el presente Decreto a aquellos sentenciados de conformidad con los ordenamientos penales sustantivos anteriores al Código Penal para el Estado Libre y Soberano del Estado de Durango, contenido en el Decreto Número 459, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango Número 26, de fecha 1 de abril de 2010.
+
+TERCERO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
