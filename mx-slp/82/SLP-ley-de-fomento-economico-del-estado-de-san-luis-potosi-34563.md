@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-economico-del-estado-de-san-luis-potosi-34563"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-20"
-last_updated: "2011-04-05"
+last_updated: "2012-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE FOMENTO ECONOMICO DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE FOMENTO ECONOMICO DEL ESTADO DE SAN LUIS POTOSI
+LEY DE FOMENTO ECONÓMICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 20 de marzo de 2003.
 
@@ -489,6 +489,10 @@ II. Que el desarrollo económico e industrial del Estado, no comprometa la explo
 
 III. Que se garantice que el desarrollo económico del Estado satisfaga las necesidades del presente, sin comprometer la capacidad de las generaciones futuras para atender sus propias necesidades.
 
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2012)</small>
+
+ARTICULO 51 BIS. El Ejecutivo Estatal, por conducto de la Secretaría de Desarrollo Económico, gestionará ante las instancias de la federación correspondientes, la exención o reducción de impuestos federales de importación, a equipos de control de emisiones contaminantes a la atmósfera, así como para el manejo y disposición de residuos sólidos que contengan sustancias nocivas o peligrosas, en beneficio de las empresas que los adquieran e instalen.
+
 ### CAPITULO XII. Del Comercio Exterior
 
 ###### ARTICULO 52.
@@ -647,11 +651,11 @@ LIC. MARCO ANTONIO ARANDA MARTINEZ
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 1 DE NOVIEMBRE DE 2007.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DE LA LEY DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DE LA LEY DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO. Esta Ley entrará en vigor el tino de enero de 2008, previa publicación en el Periódico Oficial del Estado.
 
@@ -671,7 +675,7 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 
 P.O. 5 DE ABRIL DE 2011.
 
-DECRETO NUMERO 543, POR EL QUE SE REFORMA EL ARTICULO 57 EN SUS FRACCIONES IV Y V; Y ADICIONA AL MISMO ARTICULO 57 LAS FRACCIONES VI, VII Y VIII, DE Y A LA LEY DE FOMENTO ECONOMICO DEL ESTADO DE SAN LUIS POTOSI.
+DECRETO NÚMERO 543, POR EL QUE SE REFORMA EL ARTÍCULO 57 EN SUS FRACCIONES IV Y V; Y ADICIONA AL MISMO ARTÍCULO 57 LAS FRACCIONES VI, VII Y VIII, DE Y A LA LEY DE FOMENTO ECONÓMICO DEL ESTADO DE SAN LUIS POTOSÍ.
 
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -679,8 +683,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 
 P.O. 5 DE ABRIL DE 2011.
 
-DECRETO NUMERO 544, POR EL QUE SE REFORMA LOS ARTICULOS 53 Y 54 DE LA LEY DE FOMENTO ECONOMICO DEL ESTADO DE SAN LUIS POTOSI.
+DECRETO NÚMERO 544, POR EL QUE SE REFORMA LOS ARTÍCULOS 53 Y 54 DE LA LEY DE FOMENTO ECONÓMICO DEL ESTADO DE SAN LUIS POTOSÍ.
 
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 14 DE JUNIO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
