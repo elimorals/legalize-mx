@@ -4,7 +4,7 @@ identifier: "FED-ley-general-del-sistema-nacional-de-seguridad-publica-64772"
 country: "mx"
 rank: "ley_general"
 publication_date: "2009-01-02"
-last_updated: "2012-06-06"
+last_updated: "2012-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64772&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGSNSP"
 
 LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 2 de enero de 2009.
 
@@ -1888,9 +1888,13 @@ I. La comunidad, tenga o no estructura organizativa, y
 
 II. La sociedad civil organizada.
 
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2012)</small>
+
 ###### Artículo 129.
 
-El Centro Nacional de Prevención del Delito y Participación Ciudadana impulsará las acciones necesarias para que la Federación, los Estados, el Distrito Federal y los municipios, establezcan un servicio para la localización de personas y bienes.
+El Centro Nacional de Prevención del Delito y Participación Ciudadana impulsará las acciones necesarias para que la Federación, los Estados, el Distrito Federal y los municipios, establezcan un servicio para la localización de personas y bienes, que promueva la colaboración y participación ciudadana.
+
+Para el caso de la sustracción de menores, deberán implementarse sistemas de alerta y protocolos de acción inmediata para su búsqueda y localización, en el que coadyuven con los integrantes del sistema las corporaciones de emergencia, medios de comunicación, prestadores de servicios de telecomunicaciones, organizaciones no gubernamentales y ciudadanía en general.
 
 ###### Artículo 130.
 
@@ -2193,3 +2197,7 @@ D.O.F. 6 DE JUNIO DE 2012.
 Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. En un plazo de ciento ochenta días contados a partir de la entrada en vigor del presente decreto, las entidades federativas y el Distrito Federal, deberán realizar las adecuaciones necesarias a las disposiciones aplicables en la materia de conformidad con lo dispuesto en la Ley General del Sistema Nacional de Seguridad Pública y la Ley Federal de Seguridad Privada.
+
+D.O.F. 14 DE JUNIO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
