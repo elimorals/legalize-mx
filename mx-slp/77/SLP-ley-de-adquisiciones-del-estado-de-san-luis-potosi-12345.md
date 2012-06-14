@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-adquisiciones-del-estado-de-san-luis-potosi-12345"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-29"
-last_updated: "2008-12-18"
+last_updated: "2012-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el miércoles 29 de enero de 1997.
 
@@ -211,7 +211,9 @@ El gasto de las adquisiciones, arrendamientos y servicios se sujetará, en su ca
 
 Las personas físicas y morales que deseen adoptar el carácter de proveedores en relación con las instituciones, deberán solicitar, tal reconocimiento previamente por escrito ante el área administrativa que corresponda, debiendo satisfacer, según sea el caso, los siguientes requisitos:
 
-I.- Si se trata de personas morales, copia certificada del acta constitutiva de la sociedad, inscrita en el Registro Público de la Propiedad y del Comercio;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2012)</small>
+
+I.- Si se trata de personas morales, copia certificada del acta constitutiva de la sociedad, inscrita en el Registro Público de la Propiedad;
 
 II.- Si se actúa a nombre de terceros, instrumento notarial o carta poder certificada, en la que se autorice a ejercer determinados actos jurídicos en términos de esta ley;
 
@@ -706,3 +708,9 @@ DR. JESUS EDUARDO NOYOLA BERNAL.
 P.O. 18 DE DICIEMBRE DE 2008.
 
 UNICO.- Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JUNIO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
