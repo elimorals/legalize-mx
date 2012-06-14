@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2012-04-09"
+last_updated: "2012-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -630,13 +630,19 @@ XXIII. Ejecutar las penas por delitos del orden federal y administrar el sistema
 
 XXIV. Participar, conforme a los tratados respectivos, en el traslado de los reos a que se refiere el quinto párrafo del artículo 18 constitucional;
 
-XXV. Administrar el sistema federal para el tratamiento de menores infractores, en términos de la política especial correspondiente y con estricto apego a los derechos humanos; y
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2012)</small>
 
-> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2006)</small>
+XXV. Administrar el sistema federal para el tratamiento de menores infractores, en términos de la política especial correspondiente y con estricto apego a los derechos humanos;
 
-XXVI. Promover la celebración de convenios entre las autoridades federales, y de éstas, con aquéllas estatales, municipales y del Distrito Federal competentes, en aras de lograr la efectiva coordinación y funcionamiento del Sistema Nacional de Seguridad Pública y el combate a la delincuencia, y
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2012)</small>
 
-XXVII. Las demás que le atribuyan expresamente las leyes y reglamentos.
+XXVI. Promover la celebración de convenios entre las autoridades federales, y de éstas, con las estatales, municipales y del Distrito Federal competentes, en aras de lograr la efectiva coordinación y funcionamiento del Sistema Nacional de Seguridad Pública y el combate a la delincuencia;
+
+> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2012)</small>
+
+XXVII. Diseñar, actualizar y publicar una página electrónica específica en la cual se registren los datos generales de las mujeres y niñas que sean reportadas como desaparecidas en todo el país. La información deberá ser pública y permitir que la población en general pueda aportar información sobre el paradero de las mujeres y niñas desaparecidas. Esta página deberá actualizarse de forma permanente; y
+
+XXVIII. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 > <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 1992)</small>
 
@@ -810,7 +816,7 @@ XXXII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
 
 XXXIII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE FEBRERO DE 2003)</small>
 
 ARTICULO 32 BIS.- A la Secretaría de Medio Ambiente y Recursos Naturales corresponde el despacho de los siguientes asuntos:
 
@@ -1032,7 +1038,7 @@ XXIV. Iniciar, tramitar y resolver procedimientos administrativos e imponer las 
 
 XXV. Los demás que le encomienden expresamente las leyes y reglamentos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 34.
 
@@ -1062,7 +1068,7 @@ V.- Estudiar, proyectar y determinar los aranceles y fijar los precios oficiales
 
 VI.- Estudiar y determinar mediante reglas generales, conforme a los montos globales establecidos por la Secretaría de Hacienda y Crédito Público, los estímulos fiscales necesarios para el fomento industrial, el comercio interior y exterior y el abasto, incluyendo los subsidios sobre impuestos de importación, y administrar su aplicación, así como vigilar y evaluar sus resultados;
 
-> <small>N. DE E. EN RELACION CON LA PRESENTE FRACCION, SE DEROGAN EXCLUSIVAMENTE LAS FACULTADES EN MATERIA DE INSPECCION Y VIGILANCIA, DE PRECIOS O TARIFAS, ASI COMO LA DE SANCIONAR EN LOS CASOS DE INCUMPLIMIENTO, D.O.F. 4 DE ENERO DE 1989.</small>
+> <small>N. DE E. EN RELACIÓN CON LA PRESENTE FRACCIÓN, SE DEROGAN EXCLUSIVAMENTE LAS FACULTADES EN MATERIA DE INSPECCIÓN Y VIGILANCIA, DE PRECIOS O TARIFAS, ASÍ COMO LA DE SANCIONAR EN LOS CASOS DE INCUMPLIMIENTO, D.O.F. 4 DE ENERO DE 1989.</small>
 
 VII.- Establecer la política de precios, y con el auxilio y participación de las autoridades locales, vigilar su estricto cumplimiento, particularmente en lo que se refiere a artículos de consumo y uso popular, y establecer las tarifas para la prestación de aquellos servicios de interés público que considere necesarios, con la exclusión de los precios y tarifas de los bienes y servicios de la Administración Pública Federal; y definir el uso preferente que deba darse a determinadas mercancías;
 
@@ -1178,7 +1184,7 @@ XXX. Impulsar la reubicación de la industria de zonas urbanas con graves proble
 
 XXXI. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 35.
 
@@ -1382,7 +1388,7 @@ XXVI.- Promover y, en su caso, organizar la capacitación, investigación y el d
 
 XXVII.- Los demás que expresamente le fijen las leyes y reglamentos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 37.
 
@@ -1600,7 +1606,7 @@ XXX bis.- Promover la producción cinematográfica, de radio y televisión y de 
 
 XXXI.- Los demás que le fijen expresamente las leyes y reglamentos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE ENERO DE 1985)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 39.
 
@@ -1960,7 +1966,7 @@ México, D. F., a 22 de diciembre de 1976.- Hilda Anderson Nevarez de Rojas, S. 
 
 En Cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veinticuatro días del mes de diciembre de mil novecientos setenta y seis.- José López Portillo.- Rúbrica.- El Secretario de Gobernación, Jesús Reyes Heroles.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 8 DE DICIEMBRE DE 1978.
 
@@ -2092,7 +2098,7 @@ Asimismo, las atribuciones que en otras leyes y reglamentos, con anterioridad a 
 
 D.O.F. 23 DE DICIEMBRE DE 1993.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- Esta Ley entrará en vigor el 1o. de abril de 1994, con excepción del segundo párrafo de este artículo y de los artículos tercero y décimo tercero transitorios, los cuales iniciarán su vigencia al día siguiente de la publicación de la Ley en el Diario Oficial de la Federación.
 
@@ -2168,7 +2174,7 @@ TERCERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Fede
 
 D.O.F. 4 DE ENERO DE 1999.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los siguientes transitorios.
 
@@ -2180,7 +2186,7 @@ SÉPTIMO.- Se derogan todas las disposiciones legales que se opongan al presente
 
 D.O.F. 18 DE MAYO DE 1999.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -2188,7 +2194,7 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 
 D.O.F. 30 DE NOVIEMBRE DE 2000.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2240,7 +2246,7 @@ D.O.F. 25 DE FEBRERO DE 2003.
 
 Las presentes reformas entrarán en vigor el mismo día de la entrada en vigor de la Ley General de Desarrollo Forestal Sustentable.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE QUE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
 
 ...
 
@@ -2313,3 +2319,9 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 14 DE JUNIO DE 2012.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las acciones que en su caso deba efectuar la Procuraduría General de la República se realizarán de conformidad a lo establecido por el artículo sexto transitorio de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y por el artículo 14 de la Ley Orgánica de la Procuraduría General de la República.
