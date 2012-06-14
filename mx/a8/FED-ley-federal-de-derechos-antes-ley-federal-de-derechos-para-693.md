@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "2012-04-09"
+last_updated: "2012-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,6 +25,8 @@ LEY FEDERAL DE DERECHOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 14 DE JUNIO DE 2012.</small>
+
 Ley publicada en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.-Presidencia de la República.
@@ -43,7 +45,7 @@ LEY FEDERAL DE DERECHOS
 
 DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 1o.
 
@@ -57,7 +59,7 @@ Los derechos por la prestación de servicios que establece esta Ley deberán est
 
 Cuando se concesione o autorice que la prestación de un servicio que grava esta Ley, se proporcione total o parcialmente por los particulares, deberá disminuirse el cobro del derecho que se establece por el mismo en la proporción que represente el servicio concesionado o prestado por un particular respecto del servicio total.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -67,7 +69,7 @@ Las cuotas de los derechos que se establecen en esta Ley se actualizarán cuando
 
 Los derechos que se adicionen a la presente Ley o que hayan sufrido modificaciones en su cuota, se actualizarán en el mes de enero del ejercicio fiscal en que se actualicen las demás cuotas de derechos conforme al párrafo anterior, considerando solamente la parte proporcional del incremento porcentual de que se trate, para lo cual se considerará el periodo comprendido desde el mes en que entró en vigor la adición o modificación y hasta el último mes del ejercicio en el que se exceda el porcentaje citado en el párrafo anterior. Para las actualizaciones subsecuentes del mismo derecho, las cuotas de los derechos a que se refiere este párrafo, se actualizarán conforme a lo dispuesto en el párrafo anterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -161,7 +163,7 @@ Los servidores públicos encargados de la prestación de los servicios, así com
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(DEROGADO [N. DE E. ANTES PARRAFO SEXTO], D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+> <small>(DEROGADO [N. DE E. ANTES PÁRRAFO SEXTO], D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -209,19 +211,19 @@ Los derechos que deban pagarse previamente a la prestación del servicio por men
 
 En los casos de prestación de servicios en los que el derecho deba determinarse en base a la medición o duración del servicio, se pagará dentro de los 10 días siguientes a aquél en que la dependencia prestadora del servicio lo haga. En estos casos si el derecho se compone además con una cuota fija ésta se pagará previamente a la prestación del servicio. La dependencia prestadora del servicio comunicará a las autoridades fiscales la fecha en que entregó al contribuyente el documento que contiene la cuantificación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
 Cuando no se llenen los requisitos legales para la prestación de los servicios o para el otorgamiento del uso, goce o aprovechamiento de los bienes de dominio público de la Federación, o se haya establecido alguna prohibición, el pago de los derechos correspondientes no implica necesariamente la prestación u otorgamiento de los mismos, en cuyo caso los derechos que se hayan pagado serán sin perjuicio de las multas que procedan.
 
-> <small>(DEROGADO DECIMO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(DEROGADO DECIMO PRIMER PÁRRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-> <small>(DEROGADO DECIMO SEGUNDO PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(DEROGADO DECIMO SEGUNDO PÁRRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-> <small>(DEROGADO DECIMO TERCER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(DEROGADO DECIMO TERCER PÁRRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-> <small>(DEROGADO DECIMO CUARTO PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(DEROGADO DECIMO CUARTO PÁRRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -311,9 +313,9 @@ Asimismo no se pagará el derecho a que se refiere este artículo por los servic
 
 Cuando se soliciten constancias u otros documentos a alguna de las dependencias a que se refiere este artículo con motivo de la relación laboral entre el solicitante y la dependencia, no se pagarán los derechos a que se refiere este artículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 6o.
 
@@ -345,9 +347,9 @@ IV.- (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
 
 En todo caso, las autoridades fiscales podrán autorizar el pago en cualquier otra moneda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 7o.
 
@@ -553,7 +555,7 @@ estudiante $2,350.00
 
 (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 14-A.
 
@@ -581,7 +583,7 @@ desembarque y despacho,
 
 respectivamente $5,005.66 $5,006
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -629,11 +631,11 @@ salida del país $1,521.10 $1,521
 
 Tratándose de las aeronaves particulares que sin fines de lucro se utilicen para la transportación privada de pasajeros no se pagará el derecho de servicios migratorios extraordinarios a que se refiere esta fracción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+> <small>(DEROGADO ULTIMO PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 14-B.
 
@@ -685,7 +687,7 @@ Los demás ingresos que se obtengan por la recaudación de los derechos establec
 
 Los ingresos que se destinen al Fondo Nacional de Fomento al Turismo de conformidad con el primer párrafo de este artículo podrán ser utilizados para pago de adeudos generados con motivo de los financiamientos contratados para las inversiones en infraestructura a que se refiere dicho párrafo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
@@ -731,11 +733,11 @@ V.- Registro de cambio de
 
 editor responsable $2,174.34 $2,174
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 VI.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 19
 
@@ -769,7 +771,7 @@ cuota de $1,539.21 $1,539
 
 Los ingresos que se obtengan por el derecho de publicaciones a que se refiere este artículo, se destinarán al Diario Oficial de la Federación.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 19-B.
 
@@ -779,7 +781,7 @@ No se pagará el derecho de publicaciones a que se refiere el artículo anterior
 
 Los Poderes Legislativo y Judicial, así como las dependencias y entidades de la Administración Pública Federal, los Organismos Públicos Autónomos y, en su caso, los gobiernos de las entidades federativas, pagarán los derechos correspondientes cuando se trate de publicaciones de convocatorias para licitaciones públicas, edictos y cédulas de notificación, así como de los documentos cuya inserción ordenen en la sección de avisos del Diario Oficial de la Federación o de aquellos que no cumplan las características señaladas en el párrafo anterior.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 #### SECCION CUARTA. Servicios de Cinematografía, Televisión y Radio
 
@@ -853,7 +855,7 @@ IV.- (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
 (DEROGADO, D.O.F. 3 DE DICIEMBRE DE 1993)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 19-E.
 
@@ -863,7 +865,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 I.- Por el trámite y estudio y, en su caso, la autorización anual al concesionario o permisionario de un sistema de televisión abierta, por cable, de señal restringida terrestre o satelital, para transmisión o distribución en México, de programación originada, desarrollada o proveniente del extranjero:
 
@@ -895,7 +897,7 @@ comercial, que no corresponda
 
 al supuesto del inciso anterior $842.71 $843
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
@@ -961,7 +963,7 @@ capítulo $931.45 $931
 
 c) Series filmadas, por capítulo $686.67 $687
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 VII.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
@@ -1007,7 +1009,7 @@ originada, desarrollada o
 
 proveniente del extranjero $460.22 $460
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
@@ -1047,7 +1049,7 @@ extranjero $1,046.87 $1,047
 
 IV.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 #### SECCION QUINTA. Apostillamiento
 
@@ -1071,13 +1073,13 @@ documento $617.94 $618
 
 No se pagará el derecho por el apostillamiento de documentos públicos que sean solicitados por la Federación, de asuntos oficiales y de su competencia, siempre que no derive de la petición de un particular. Tampoco se pagará este derecho cuando se trate del apostillamiento de documentos para la substanciación del juicio de amparo.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 #### SECCION SEXTA. Servicios insulares
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMERO PARRAFO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMERO PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 19-H.
 
@@ -1087,7 +1089,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 I.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
@@ -1099,7 +1101,7 @@ la solicitud de concesión en
 
 territorio insular $1,426.94 $1,427
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 III.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
@@ -1109,15 +1111,15 @@ IV.- Por la expedición de la
 
 concesión en territorio insular $2,854.09 $2,854
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 V.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 1 DE ENERO DE 2002)</small>
 
 #### SECCION SEPTIMA. Servicios Privados de Seguridad y Armas de Fuego
 
@@ -1367,7 +1369,7 @@ I.- Por la renuncia de derechos
 
 Hereditarios $1,704.65 $1,705
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
 II.- Por los mandatos o poderes, así como la revocación de los mismos:
 
@@ -1487,7 +1489,7 @@ Para efectos de la presente exención, será necesario que el repatriado present
 
 No pagarán los derechos por los servicios que se establecen en esta sección, los extranjeros, en caso de reciprocidad del país del que son nacionales.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 VIII. La compulsa de documentos, para la tramitación de:
 
@@ -1565,7 +1567,7 @@ gobiernos de las Entidades
 
 Federativas o de los Municipios $5,689.09 $5,690
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -1639,7 +1641,7 @@ VII.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 2011)
 
 VIII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 IX.- (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2009)
 
@@ -1715,7 +1717,7 @@ XIV.- Los no especificados
 
 en las fracciones anteriores $387.24 $385
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 26.
 
@@ -1733,7 +1735,7 @@ I.- Por los documentos expedidos con fundamento en el artículo 30, Apartado A, 
 
 a).- Por expedición $224.94 $225
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 b).- (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
@@ -1751,11 +1753,11 @@ naturalización $3,966.81 $3,965
 
 b). (DEROGADO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 c). (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 III. En las cartas de naturalización a que se refiere la fracción II del Apartado B del artículo 30 de la Constitución Política de los Estados Unidos Mexicanos y el artículo 20, fracciones II y III de la Ley de Nacionalidad:
 
@@ -1767,7 +1769,7 @@ en su caso, expedición de cada
 
 carta de naturalización $1,398.59 $1,400
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 b).- (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
@@ -1985,7 +1987,7 @@ a que se refiere la Ley de
 
 Ahorro y Crédito Popular $19,887.27 $19,887
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
@@ -2107,7 +2109,7 @@ XXIV. Por la autorización para la constitución y operación de instituciones d
 
 XXV. Por la autorización para el inicio de operaciones de instituciones de banca múltiple: $1,793,760.00 $1,793,760
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 29-A.
 
@@ -2155,7 +2157,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 I. Inscripción inicial o ampliación de la misma:
 
@@ -2207,7 +2209,7 @@ pagar por este concepto
 
 excedan de: $2,802,750.00 $2,802,750
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 b). Tratándose de títulos de crédito o valores inscritos que otorguen a sus titulares derechos de crédito, de propiedad o de participación sobre bienes o derechos muebles o inmuebles y otros valores:
 
@@ -2247,7 +2249,7 @@ programa
 
 excedan de: $784,770.00 $784,770
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 3.- En el caso de títulos suscritos o emitidos por instituciones de crédito representativos de un pasivo a su cargo, por tipo de valor, con vigencia igual o menor a un año:
 
@@ -2269,13 +2271,13 @@ excedan de: $784,770.00 $784,770
 
 c). Tratándose de acciones de sociedades de inversión:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
 1.6 al millar respecto del monto total del capital social mínimo fijo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 d). Tratándose de títulos opcionales emitidos por sociedades anónimas incluyendo casas de bolsa, instituciones de crédito y filiales de entidades financieras del exterior del mismo tipo:
 
@@ -2323,7 +2325,7 @@ por este concepto
 
 excedan de: $2,802,750.00 $2,802,750
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 g). Tratándose de certificados, pagarés y otros valores emitidos o garantizados por el Gobierno Federal, en términos del artículo 93 de la Ley del Mercado de Valores, por tipo de valor:
 
@@ -2359,9 +2361,9 @@ por este concepto en un ejercicio
 
 excedan de: $784,770.00 $784,770
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
 i). Tratándose de emisores de valores que mantengan inscritos valores de los señalados en los incisos a), b) numeral 1, e) y f), de esta fracción, en sustitución de la cuota de inscripción inicial o ampliación señalada en los incisos b), numerales 1 y 2, e) y f), anteriores:
 
@@ -2491,7 +2493,7 @@ por este concepto
 
 excedan de: $784,770.00 $784,770
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
@@ -2525,7 +2527,7 @@ año
 
 excedan de: $784,770.00 $784,770
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
@@ -2623,19 +2625,19 @@ Valores: $11,211.00 $11,211
 
 La cuota señalada en esta fracción, se bonificará al 100% contra la cuota que corresponde a la inscripción inicial en el Registro Nacional de Valores, una vez que se sustituya la inscripción preventiva por la inicial.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
 Tratándose de ampliación de la inscripción de acciones, la base del cobro será la diferencia resultante entre el aumento del capital contable a inscribir y el monto previamente inscrito, tratándose de títulos de deuda, la base de cálculo corresponderá al monto que implica el aumento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 29-C.
 
 (DEROGADO, D.O.F. 13 DE NOVIEMBRE DE 2008)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 29-D.
 
@@ -2799,11 +2801,11 @@ La cuota que resulte, en ningún
 
 caso será inferior a $309,423.60 $309,424
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 VIII. Inmobiliarias:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
@@ -2819,7 +2821,7 @@ caso será inferior a $71,421.83 $71,422
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
@@ -2837,7 +2839,7 @@ En caso de optar por pagar la cuota equivalente al resultado de la suma de las c
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
@@ -2855,7 +2857,7 @@ En caso de optar por pagar la cuota equivalente al resultado de la suma de las c
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
@@ -2929,13 +2931,13 @@ a). Una cuota de $1,988,727.36 $1,988,727
 
 b). El resultado de multiplicar 0.240474 al millar, por el total de sus activos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
 XV. Fideicomisos Públicos:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
@@ -3023,7 +3025,7 @@ en esta fracción, en ningún caso
 
 podrá ser inferior a: $866,386.08 $866,386
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
@@ -3037,11 +3039,11 @@ a). Una cuota de $1,751,098.78 $1,751,099
 
 b). El resultado de multiplicar 0.020883 al millar, por el total de sus activos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 XXI. (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
@@ -3061,7 +3063,7 @@ ajuste ajuste
 
 I. (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -3087,7 +3089,7 @@ términos de las disposiciones
 
 aplicables, pagará la cuota $3,238,200.00 $3,238,200
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -3113,7 +3115,7 @@ de la legislación aplicable,
 
 pagará la cuota de $8,095,500.00 $8,095,500
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -3139,7 +3141,7 @@ aplicable, pagará la
 
 cuota de $2,698,500.00 $2,698,500
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -3253,7 +3255,7 @@ de la Ley del Mercado de Valores,
 
 deberá pagar: $495,126.85 $495,127
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -3337,7 +3339,7 @@ Asimismo, estarán sujetos a esta cuota los Formadores de Mercado de Futuros y O
 
 Tratándose de instituciones de crédito o casas de bolsa que actúen simultáneamente como Operadores y como Formadores del Mercado de Futuros y Opciones, únicamente estarán obligados a cubrir por una sola vez la cuota anual a que se refiere esta fracción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
@@ -3409,7 +3411,7 @@ de: $1,190,944.53 $1,190,945
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
@@ -3569,7 +3571,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 I. Por valores inscritos en el Registro Nacional de Valores:
 
@@ -3691,7 +3693,7 @@ pagar por este concepto
 
 excedan de: $336,330.00 $336,330
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 e). Títulos de crédito que representen acciones:
 
@@ -3755,7 +3757,7 @@ En el caso de las entidades financieras de nueva creación, incluyendo las filia
 
 Las entidades financieras o sociedades señaladas en los artículos 29-D y 29-E de esta Ley, no estarán obligadas al pago de derechos por concepto de inspección y vigilancia cuando por cualquier acto de la autoridad competente para ello, o por cualquier otra causa prevista en las leyes, pierdan el carácter de entidad supervisada a que se refieren los propios artículos 29-D y 29-E. Lo anterior, aplicará desde el momento en que surta efectos la notificación respectiva de la autoridad de que se trate y ésta haya quedado firme, o bien, se actualicen los supuestos previstos en las leyes correspondientes. En caso de que el acto de autoridad a que se refiere este párrafo haya quedado sin efectos por resolución de autoridad competente para ello, las entidades señaladas en los artículos 29-D y 29-E de esta Ley deberán cubrir las cuotas que hubieren dejado de pagar en términos de las disposiciones aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
@@ -3767,23 +3769,23 @@ Las Federaciones, así como el Fondo de Supervisión Auxiliar de Sociedades Coop
 
 Tratándose de centros cambiarios, transmisores de dinero o sociedades financieras de objeto múltiple no reguladas, los derechos por inspección y vigilancia se comenzarán a cubrir al día hábil siguiente a aquél en el que obtengan el registro ante la Comisión Nacional Bancaria y de Valores o informen a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros de su constitución, en términos del artículo 87-K de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, según corresponda, y se causarán proporcionalmente a partir de esta fecha y hasta la conclusión del ejercicio fiscal. Para los efectos de la determinación de dichos derechos, se estará a lo dispuesto en la fracción VII del artículo 29-E de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 29-H.
 
 En el caso de fusión de entidades financieras o de filiales de entidades financieras del exterior, el importe de los derechos por inspección y vigilancia a pagar por la entidad fusionante o la de nueva creación durante el resto del ejercicio en que se produzca este evento, será la suma de las cuotas que correspondan a las entidades participantes en la fusión, sin que en ningún caso el resultado de dicha suma exceda de la cuota máxima o fija que corresponda conforme a los artículos 29-D o 29-E de esta Ley, según sea el caso. Dichos derechos deberán ser pagados al momento de recibir la autorización correspondiente o, en su caso, a partir de que surta efectos la fusión cuando no se requiera autorización en términos de las disposiciones aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
 Cuando una entidad financiera o una filial de entidad financiera del exterior de las referidas en el artículo 29-D de esta Ley se transforme durante el ejercicio fiscal que corresponda, el importe de los derechos por inspección y vigilancia a pagar durante el resto del ejercicio será el que venía pagando en el ejercicio conforme a la fracción que le correspondía antes de su transformación, o bien, la cuota mínima correspondiente a la entidad en la cual se transformó, lo que resulte mayor.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 29-I.
 
@@ -3795,7 +3797,7 @@ Para la determinación de los montos de los derechos a pagar correspondientes a 
 
 Para la determinación de los montos de los derechos a pagar correspondientes a la fracción XI del artículo 29-D de esta Ley, incluyendo a las filiales de entidades financieras del exterior de cualquier tipo, y en caso de que las Sociedades de Inversión hayan ejercido la opción establecida en dicha fracción, se deberá utilizar el total de las operaciones registradas como ventas de activos objeto de inversión que realice la Sociedad de Inversión, o el total de las operaciones reportadas como compras de dichos activos, según sea el caso, valuadas al precio al cual hayan sido negociadas, correspondientes al periodo comprendido entre los meses de agosto del ejercicio fiscal inmediato anterior del año en que se haga el cálculo y los once meses previos a éste, utilizando la información financiera que periódicamente envían a la Comisión Nacional Bancaria y de Valores, conforme a las disposiciones aplicables o, en su caso, la información más reciente con la que cuente dicha Comisión.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
@@ -3805,7 +3807,7 @@ Por lo que se refiere a las sociedades comprendidas en la fracción VIII del art
 
 Tratándose de fusiones de entidades financieras o filiales de entidades financieras del exterior de cualquier tipo que se hubieren verificado durante el ejercicio fiscal inmediato anterior, la entidad financiera que subsista de la fusión deberá sumar las cifras resultantes de la aplicación de los factores que le correspondan, más las cifras resultantes de la aplicación de los factores relativos a la entidad fusionada, utilizando el promedio mensual, en términos de lo dispuesto en el primer párrafo de este artículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
@@ -3815,17 +3817,17 @@ En caso de que la fusión de que se trate se hubiere verificado dentro del perio
 
 En el caso de Emisoras, las cuotas a su cargo deberá (sic) determinarse conforme a lo previsto en el artículo 29-F de este Capítulo. Para efectos de lo anterior, deberá emplearse el monto en circulación de las emisiones utilizadas como base del cálculo, al 31 de octubre del ejercicio fiscal inmediato anterior a aquel en que se realice el cálculo. Tratándose de títulos o valores inscritos en el Registro Nacional de Valores durante el último bimestre del ejercicio fiscal inmediato anterior a aquel en que se calcule la cuota, deberá utilizarse como base la información al 31 de diciembre de dicho ejercicio. En el caso de acciones representativas de capital social, se tomarán como base los estados financieros dictaminados de la sociedad emisora, correspondientes al ejercicio fiscal inmediato anterior a aquel en que se efectúe el cálculo, o en su defecto, los estados financieros dictaminados del ejercicio más reciente con que se cuente, que hayan sido proporcionados a la Comisión Nacional Bancaria y de Valores.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(DEROGADO SEXTO PARRAFO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
 La Secretaría de Hacienda y Crédito Público dará a conocer a las entidades de los sectores correspondientes, como facilidad administrativa, el resultado de las operaciones aritméticas previstas en el artículo 29-D de esta Ley según la información que le sea proporcionada por la Comisión Nacional Bancaria y de Valores.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
@@ -3945,7 +3947,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 I.- El 80% del presupuesto de gastos de inspección y vigilancia se prorrateará en relación con las primas emitidas de seguro directo y de reaseguro tomado por las instituciones durante los últimos doce meses anteriores a la fecha de determinación del cálculo.
 
@@ -3953,7 +3955,7 @@ I.- El 80% del presupuesto de gastos de inspección y vigilancia se prorrateará
 
 Para tal efecto, se computarán las primas de seguro directo al 100%, y las primas de reaseguro tomado al 25%, ya sea por instituciones especializadas en reaseguro o de seguro directo que tomen reaseguro.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 II.- El 20% restante se dividirá por partes iguales entre todas las instituciones y sociedades mutualistas de seguros.
 
@@ -4253,13 +4255,13 @@ de seguros, se pagarán derechos
 
 conforme a la cuota de: $532.21 $532
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 31.
 
 Las instituciones de fianzas y los establecimientos que conforme a la Ley Federal de Instituciones de Fianzas deban estar sometidos a la inspección y vigilancia de la Comisión Nacional de Seguros y Fianzas, deberán pagar por tal concepto un derecho, de acuerdo con lo siguiente:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 I.- Las instituciones de fianzas pagarán el equivalente al 3.5% de las primas que perciban.
 
@@ -4377,7 +4379,7 @@ moral $601.02 $601
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
@@ -4469,7 +4471,7 @@ de fianza $1,216.02 $1,216
 
 2.- Los ingresos que se obtengan por los derechos a que se refieren los artículos 30, 30-A, 30-B, 30-C, 31, 31-A y 31-A-1 de esta Ley, se destinarán a la Comisión Nacional de Seguros y Fianzas.
 
-> <small>(REFORMADA SU DENOMINACION [N. DE E. ADICIONADA], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADA], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 #### SECCION SEGUNDA. De la Comisión Nacional del Sistema de Ahorro para el Retiro
 
@@ -4571,7 +4573,7 @@ El pago de derechos a que se refiere la presente fracción deberá enterarse a m
 
 Cada entidad que pertenezca al sector de sociedades controladoras de grupos financieros, entendiéndose como tales a las sociedades controladoras previstas en la Ley para Regular las Agrupaciones Financieras, pagará anualmente el derecho de inspección y vigilancia conforme a la cuota de $300,000.00
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 33.
 
@@ -4871,7 +4873,7 @@ Por la prórroga de las autorizaciones a que se refieren los incisos b), c), h),
 
 Los ingresos que se obtengan por la recaudación de los derechos establecidos en este artículo se destinarán al Servicio de Administración Tributaria, para el mejoramiento de la Administración Aduanera.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 41.
 
@@ -4881,7 +4883,7 @@ Se pagarán derechos por el almacenaje de mercancías en depósito ante la aduan
 
 I.- En mercancías de importación, dos días naturales, excepto en recintos fiscales que se encuentren en aduanas de tráfico marítimo, en cuyo caso el plazo será de cinco días naturales.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 II.- En mercancías de exportación o retorno al extranjero, quince días naturales, excepto minerales en cuyo caso el plazo será de treinta días naturales.
 
@@ -4897,13 +4899,13 @@ III.- A partir del día siguiente a aquel en que se notifique que están a dispo
 
 IV.- Diez días naturales de aquél en que queden en depósito ante la aduana, en los demás casos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
 Los plazos a que se refieren las fracciones I y II de este artículo se computarán a partir del día siguiente a aquél en que el almacén reciba las mercancías.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 42.
 
@@ -4973,7 +4975,7 @@ Para los efectos del presente artículo, los contenedores vacíos se considerar�
 
 (DEROGADO, D.O.F. 18 DE DICIEMBRE DE 1992)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 44.
 
@@ -5019,7 +5021,7 @@ Ninguna mercancía en depósito ante la aduana en un recinto fiscal será entreg
 
 En los casos de reexpedición de mercancías para despacho en una aduana interior, corresponde a ésta ajustar y cobrar todos los derechos de almacenaje.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 48.
 
@@ -5027,7 +5029,7 @@ Los interesados dispondrán de tres días hábiles para el retiro de sus mercanc
 
 Los almacenistas serán responsables de cualquier omisión en el cobro de los derechos de almacenaje, originada por la inexactitud del lugar en que los efectos hayan estado depositados, así como por la indebida entrega de mercancías que ya estén abandonadas, o no se haya pagado, parcial o totalmente el derecho de almacenaje.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 49.
 
@@ -5081,7 +5083,7 @@ IMMEX): $249.89 $250
 
 Asimismo, se pagará la cuota señalada en el párrafo anterior, por la introducción al territorio nacional de bienes distintos a los señalados en la fracción II de este artículo, bajo el régimen de elaboración, transformación o reparación en recintos fiscalizados, así como en los retornos respectivos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
 
@@ -5243,7 +5245,7 @@ Para los efectos del artículo 49 de esta Ley, Petróleos Mexicanos y sus organi
 
 (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 51.
 
