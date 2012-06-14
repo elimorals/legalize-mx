@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "2012-04-17"
+last_updated: "2012-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2012.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -2557,9 +2557,9 @@ XIV. De la Ley de Quiebras y Suspensión de Pagos, los previstos en el artículo
 
 XV. De la Ley General de Salud, los previstos en las fracciones I, II y III del artículo 464 Ter, y en los artículos 475 y 476;
 
-> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2012)</small>
 
-XVI. De la Ley para Prevenir y Sancionar la Trata de Personas, los previstos en los artículos 5 y 6;
+XVI. Los previstos en el Título Segundo de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de Estos Delitos, excepto en el caso de los artículos 32, 33 y 34 y sus respectivas tentativas punibles;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -5700,3 +5700,7 @@ D.O.F. 24 DE OCTUBRE DE 2011.
 D.O.F. 17 DE ABRIL DE 2012.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE JUNIO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
