@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-de-fomento-educativo-165
 country: "mx"
 rank: "estatuto"
 publication_date: "2000-07-28"
-last_updated: "2000-07-28"
+last_updated: "2012-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16514&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,9 +18,11 @@ scjn_last_update: "2012-06-15"
 ---
 # ESTATUTO ORGANICO DEL CONSEJO NACIONAL DE FOMENTO EDUCATIVO
 
-ESTATUTO ORGANICO DEL CONSEJO NACIONAL DE FOMENTO EDUCATIVO
+ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE FOMENTO EDUCATIVO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE FOMENTO EDUCATIVO, PUBLICADO EN EL D.O.F. DE 15 DE JUNIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Estatuto publicado en el Diario Oficial de la Federación, el viernes 28 de julio de 2000.
 
@@ -659,3 +661,11 @@ PRIMERO.- El presente Estatuto surtirá efectos al día siguiente de su aprobaci
 SEGUNDO.- Se abroga el Reglamento Interior del Consejo Nacional de Fomento Educativo, publicado en el Diario Oficial de la Federación el 10 de noviembre de 1982; así como aquellas disposiciones internas que se opongan al presente ordenamiento.
 
 El Director General del Consejo Nacional de Fomento Educativo, Carlos Márquez Pérez.- Rúbrica.- El Prosecretario Técnico de la Junta Directiva, Joaquín Jardi Alonso.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 15 DE JUNIO DE 2012.
+
+PRIMERO.- El presente Estatuto Orgánico surtirá efectos al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico del Consejo Nacional de Fomento Educativo, publicado en el Diario Oficial de la Federación el 28 de julio del 2000; así como aquellas disposiciones internas que se opongan al presente ordenamiento.
