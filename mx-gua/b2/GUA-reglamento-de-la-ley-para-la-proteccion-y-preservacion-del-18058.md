@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-para-la-proteccion-y-preservacion-del-1805
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-09-22"
-last_updated: "2000-09-22"
+last_updated: "2012-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18058&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO, EN MATERIA DE EVALUACION DEL IMPACTO AMBIENTAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY PARA LA PROTECCIÓN Y PRESERVACIÓN DEL AMBIENTE DEL ESTADO DE GUANAJUATO EN MATERIA DE EVALUACIÓN DEL IMPACTO AMBIENTAL, PUBLICADO EN EL P.O. DE 15 DE JUNIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 22 de septiembre de 2000.
 
@@ -388,3 +390,23 @@ LIC. ANTONIO OBREGÓN PADILLA
 EL SECRETARIO DE DESARROLLO URBANO Y OBRAS PÚBLICAS
 
 ING. CRISTÓBAL ASCENCIO HERNÁNDEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE JUNIO DE 2012.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Reglamento entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento vigente
+
+Artículo Segundo. Se abroga el Reglamento de la Ley para la Protección y Preservación del Ambiente del Estado de Guanajuato en materia de Evaluación del Impacto Ambiental, contenido en el Decreto Gubernativo número 178, publicado en el Periódico Oficial del Gobierno del Estado número 76, Segunda Parte, de fecha 22 de septiembre del 2000.
+
+Abrogación del Acuerdo en materia de desregulación
+
+Artículo Tercero. Se abroga el Acuerdo por el cual se expide el Proceso de Desregulación en materia de Evaluación de Impacto Ambiental de la Obra Pública Estatal y Municipal, publicado en el Periódico Oficial del Gobierno del Estado número 67, Segunda Parte, de fecha 21 de agosto del 2001.
+
+Límite eventual a la vigencia del Reglamento
+
+Artículo Cuarto. Los procedimientos que se encuentren en trámite ante el Instituto a la entrada en vigor del presente Reglamento, se substanciarán conforme a las disposiciones del ordenamiento que se abroga hasta su debida conclusión.
