@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2012-04-20"
+last_updated: "2012-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -181,9 +181,13 @@ XXIV.- La orientación médica o prevención del farmacodependiente o consumidor
 
 XXV.- El programa de prevención, atención y control del VIH/SIDA, e infecciones de transmisión sexual.
 
-> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2012)</small>
 
-XXVI.- Las demás atribuciones que se deriven de la Ley General de Salud, de la Ley Orgánica de la Administración Pública del Estado, de esta ley y demás ordenamientos aplicables.
+XXVI.- La atención médica geriátrica a las personas adultas mayores de 65 años de edad.
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2012)</small>
+
+XXVII.- Las demás atribuciones que se deriven de la Ley General de Salud, de la Ley Orgánica de la Administración Pública del Estado, de esta ley y demás ordenamientos aplicables.
 
 ###### ARTÍCULO 5.
 
@@ -459,7 +463,13 @@ IX.- La prevención y control de las enfermedades bucodentales, visuales y audit
 
 X.- La disponibilidad de medicamentos y otros insumos esenciales para la salud; y
 
-XI.- Los demás que establezca esta Ley y otros ordenamientos jurídicos.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2012)</small>
+
+XI.- La atención médica geriátrica a personas mayores de 65 años de edad, y
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2012)</small>
+
+XII.- Los demás que establezca esta Ley y otros ordenamientos jurídicos.
 
 Las Autoridades Sanitarias del Estado, de conformidad con las disposiciones legales aplicables vigilarán que las instituciones que presten servicios de salud en la Entidad, apliquen el cuadro básico de insumos del Sector Salud.
 
@@ -867,6 +877,24 @@ ARTÍCULO 50 TER 4.- El Centro estará a cargo de un Director General, mismo que
 
 ARTÍCULO 50 TER 5.- Las ausencias de los demás servidores públicos, serán cubiertas por los servidores públicos que designe el Director del Centro de Trasplantes y Procuración de Órganos y Tejidos de Baja California.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE JUNIO DE 2012)</small>
+
+#### SECCION XI. DE LOS SERVICIOS DE GERIATRIA
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
+
+ARTICULO 50 QUARTER.- Para los efectos de esta Ley, la atención geriátrica es el conjunto de actividades médicas que se proporcionarán al individuo mayor de 65 años de edad con el fin de preservar y restaurar su salud de los cambios del envejecimiento, de las diferencias de la presentación de la enfermedad dentro de las personas adultas mayores y de los aspectos psicológicos y sociales que influyen en su estado de salud, teniendo como objetivo la recuperación de la funcionalidad y la reintegración de las personas mayores de 65 años a la comunidad cuando su estado de salud ha sido afectado, además de ocuparse de la prevención de la salud a efecto de erradicar otras enfermedades.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
+
+ARTICULO 50 QUARTER 1.- Para el cumplimiento del objeto de la atención geriátrica, la Secretaría de Salud del Estado realizará las siguientes actividades:
+
+I.- Fomentar la creación y capacitación de recursos humanos especializados en materia de geriatría y en aquellas actividades complementarias y de apoyo mediante la creación e implementación de programas y cursos especializados.
+
+II.-Desarrollar e impulsar estudios e investigaciones en materia de geriatría.
+
+III.-Desarrollar las actividades necesarias para el cumplimiento de los fines en materia de atención geriátrica a pacientes mayores de 65 años de edad.
+
 #### SECCION I. DE LOS PROFESIONALES, TECNICOS Y AUXILIARES
 
 #### SECCION II. DEL SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
@@ -875,11 +903,9 @@ ARTÍCULO 50 TER 5.- Las ausencias de los demás servidores públicos, serán cu
 
 #### SECCION I. DE LAS ENFERMEDADES TRANSMISIBLES
 
-#### SECCION II. DE LAS ENFERMEDADES NO TRANSMISIBLES
-
 ### CAPITULO QUINTO. DE LOS RECURSOS HUMANOS PARA LOS SERVICIOS DE SALUD
 
-#### SECCION III. DE LOS ACCIDENTES
+#### SECCION II. DE LAS ENFERMEDADES NO TRANSMISIBLES
 
 ###### ARTÍCULO 51.
 
@@ -915,7 +941,7 @@ El número de registro deberá consignarse en los documentos y papelería utiliz
 
 La Secretaría de Salud del Estado coadyuvará con el Departamento de Profesiones de la Secretaría de Educación y Bienestar Social, en la vigilancia del ejercicio de los profesionales, técnicos y auxiliares de la salud en la prestación de los servicios respectivos.
 
-#### SECCION I. DE LOS PROGRAMAS CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
+#### SECCION III. DE LOS ACCIDENTES
 
 ###### ARTÍCULO 57.
 
@@ -939,7 +965,7 @@ La prestación del servicio social de los pasantes de las profesiones para la sa
 
 Las Autoridades Sanitarias del Estado, con la participación de las instituciones de educación superior, colegios de profesionistas de la salud o asociaciones civiles, según se requiera, elaborarán programas de servicio social para los profesionales de la salud, en beneficio de grupos vulnerables, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
 
-#### SECCION II. DEL PROGRAMA CONTRA EL TABAQUISMO
+#### SECCION I. DE LOS PROGRAMAS CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
 
 ###### ARTÍCULO 62.
 
@@ -1029,11 +1055,7 @@ De igual forma vigilarán la calidad del agua para uso y consumo humano, así co
 
 ### CAPITULO SEPTIMO. DE LA PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
-#### SECCION III. DE LA PREVENCION, ATENCION Y COMBATE A LA FARMACODEPENDENCIA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO NÚMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2010)</small>
+#### SECCION II. DEL PROGRAMA CONTRA EL TABAQUISMO
 
 ###### ARTÍCULO 73.
 
@@ -1159,27 +1181,11 @@ El Gobierno del Estado, a través de la Secretaría de Salud del Estado y las Au
 
 Las Autoridades Sanitarias del Estado mantendrán campañas permanentes a fin de orientar a la población, en la necesidad de vacunar y mantener bajo control los animales domésticos. Igualmente orientarán a la población sobre los diferentes sistemas para esterilizar a los animales domésticos, en forma voluntaria o en su caso obligatoria.
 
-#### SECCION IV. DEL PROGRAMA CONTRA ENFERMEDADES CARDIOVASCULARES, OBESIDAD Y DIABETES
+#### SECCION III. DE LA PREVENCION, ATENCION Y COMBATE A LA FARMACODEPENDENCIA
 
-> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO NÚMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ARTÍCULO 106 BIS.- Las autoridades sanitarias, promoverán en el Estado, el programa contra las enfermedades cardiovasculares, la obesidad y la diabetes que comprenderá, entre otras, las siguientes acciones:
-
-I.- La prevención de las enfermedades cardiovasculares, obesidad y diabetes, mediante la facilitación de indicadores de las medidas básicas a toda persona interesada.
-
-II.- La detección y tratamiento de las enfermedades cardiovasculares, obesidad y diabetes.
-
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
-
-ARTÍCULO 106 TER.- Las autoridades sanitarias, promoverán en el Estado, programas contra la ludopatía que comprenderá, entre otras, las siguientes acciones:
-
-I.- La detección y tratamiento de la ludopatía; y
-
-II.- La prevención de la ludopatía mediante la implementación de campañas permanentes dirigidas a los diversos sectores de la sociedad.
-
-De igual forma las autoridades sanitarias celebrarán convenios con los diversos entes de los sectores públicos y privados, para realizar conjuntamente acciones de prevención y tratamiento de la ludopatía.
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 20 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 89.
 
@@ -1202,6 +1208,50 @@ V.- Las demás que sean necesarias para la prevención, tratamiento y control de
 ###### ARTÍCULO 91.
 
 Los profesionales, técnicos y auxiliares de la salud rendirán los informes que la Autoridad Sanitaria del Estado requiera acerca de las enfermedades no transmisibles, en los términos de las disposiciones aplicables.
+
+#### SECCION IV. DEL PROGRAMA CONTRA ENFERMEDADES CARDIOVASCULARES, OBESIDAD Y DIABETES
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2009)</small>
+
+ARTÍCULO 106 BIS.- Las autoridades sanitarias, promoverán en el Estado, el programa contra las enfermedades cardiovasculares, la obesidad y la diabetes que comprenderá, entre otras, las siguientes acciones:
+
+I.- La prevención de las enfermedades cardiovasculares, obesidad y diabetes, mediante la facilitación de indicadores de las medidas básicas a toda persona interesada.
+
+II.- La detección y tratamiento de las enfermedades cardiovasculares, obesidad y diabetes.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
+
+ARTÍCULO 106 TER.- Las autoridades sanitarias, promoverán en el Estado, programas contra la ludopatía que comprenderá, entre otras, las siguientes acciones:
+
+I.- La detección y tratamiento de la ludopatía; y
+
+II.- La prevención de la ludopatía mediante la implementación de campañas permanentes dirigidas a los diversos sectores de la sociedad.
+
+De igual forma las autoridades sanitarias celebrarán convenios con los diversos entes de los sectores públicos y privados, para realizar conjuntamente acciones de prevención y tratamiento de la ludopatía.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 20 DE ABRIL DE 2012)</small>
+
+###### ARTÍCULO 92.
+
+Para los efectos de esta Ley, se entiende por accidente el hecho súbito que ocasione daños a la salud y que se produzca por la concurrencia de condiciones potencialmente previsibles.
+
+###### ARTÍCULO 93.
+
+La acción en materia de prevención y control de accidentes comprende:
+
+I.- El conocimiento de las causas más usuales que generan accidentes;
+
+II.- La adopción de medidas para prevenir accidentes;
+
+III.- El desarrollo de la investigación para la prevención de los mismos;
+
+IV.- El fomento dentro de los programas de educación para la salud, de orientación a la población para la prevención de accidentes;
+
+V.- La atención de los padecimientos que se produzcan como consecuencia de ellos; y
+
+VI.- La promoción de la participación de la comunidad en la prevención de accidentes.
+
+### CAPITULO OCTAVO. DE LA PREVENCION Y REHABILITACION DE DISCAPACITADOS
 
 #### SECCION V. DEL PROGRAMA DE PREVENCION, ATENCION Y CONTROL DEL VIH/SIDA E INFECCIONES DE TRANSMISION SEXUAL
 
@@ -1227,28 +1277,6 @@ VIII.- Desarrollar acciones para detectar y atender oportunamente los casos de V
 
 IX.- Las demás acciones, políticas y estrategias que determinen las autoridades competentes.
 
-###### ARTÍCULO 92.
-
-Para los efectos de esta Ley, se entiende por accidente el hecho súbito que ocasione daños a la salud y que se produzca por la concurrencia de condiciones potencialmente previsibles.
-
-###### ARTÍCULO 93.
-
-La acción en materia de prevención y control de accidentes comprende:
-
-I.- El conocimiento de las causas más usuales que generan accidentes;
-
-II.- La adopción de medidas para prevenir accidentes;
-
-III.- El desarrollo de la investigación para la prevención de los mismos;
-
-IV.- El fomento dentro de los programas de educación para la salud, de orientación a la población para la prevención de accidentes;
-
-V.- La atención de los padecimientos que se produzcan como consecuencia de ellos; y
-
-VI.- La promoción de la participación de la comunidad en la prevención de accidentes.
-
-### CAPITULO OCTAVO. DE LA PREVENCION Y REHABILITACION DE DISCAPACITADOS
-
 #### SECCION I. DISPOSICIONES COMUNES
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
@@ -1258,8 +1286,6 @@ VI.- La promoción de la participación de la comunidad en la prevención de acc
 #### SECCION III. DE LAS FUNERARIAS Y PANTEONES
 
 #### SECCION IV. DE LA LIMPIEZA PUBLICA
-
-#### SECCION V. DEL AGUA POTABLE PARA USO Y CONSUMO HUMANO Y ALCANTARILLADO
 
 ### CAPITULO NOVENO. DE LAS ADICCIONES Y DE LOS PROGRAMAS PERMANENTES DE SALUD
 
@@ -1303,7 +1329,7 @@ Las Autoridades Sanitarias del Estado tendrán entre sus objetivos, operar estab
 
 ### CAPITULO DECIMO. DE LA SALUBRIDAD LOCAL
 
-#### SECCION VI. DE LAS ALBERCAS Y BAÑOS PUBLICOS
+#### SECCION V. DEL AGUA POTABLE PARA USO Y CONSUMO HUMANO Y ALCANTARILLADO
 
 ###### ARTÍCULO 99.
 
@@ -1331,7 +1357,7 @@ IV.- Efectos del abuso de bebidas alcohólicas en el ambiente familiar, social, 
 
 Queda estrictamente prohibido vender bebidas alcohólicas a menores de edad, a la persona que infrinja esta norma se le sancionará en términos de lo dispuesto por la normatividad aplicable.
 
-#### SECCION VII. DE LOS CENTROS DE REUNION Y ESPECTACULOS
+#### SECCION VI. DE LAS ALBERCAS Y BAÑOS PUBLICOS
 
 ###### ARTÍCULO 102.
 
@@ -1363,7 +1389,7 @@ A quienes infrinjan lo dispuesto en este artículo, se le sancionará en términ
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-#### SECCION VIII. DE LOS ESTABLECIMIENTOS DE HOSPEDAJE
+#### SECCION VII. DE LOS CENTROS DE REUNION Y ESPECTACULOS
 
 ###### ARTÍCULO 105.
 
@@ -1391,19 +1417,15 @@ A los establecimientos, así como a los responsables de los mismos que vendan o 
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 14 DE AGOSTO DE 2009)</small>
 
+#### SECCION VIII. DE LOS ESTABLECIMIENTOS DE HOSPEDAJE
+
 #### SECCION IX. DE LOS ESTABLECIMIENTOS DEDICADOS AL EMBELLECIMIENTO FISICO Y MEDICINA ESTETICA
 
 > <small>(REFORMADO, P.O. 6 DE ENERO DE 2012)</small>
 
-#### SECCION X. DE LOS TRANSPORTES DE CARGA
-
 ### CAPITULO DECIMO PRIMERO. DE LAS AUTORIZACIONES, REVOCACIONES Y CERTIFICADOS
 
-#### SECCION XI. DE LOS CENTROS DE DESARROLLO INFANTIL Y ESTANCIAS INFANTILES FAMILIARES
-
-(NOTA: EL 10 DE FEBRERO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 86/2009, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE FEBRERO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+#### SECCION X. DE LOS TRANSPORTES DE CARGA
 
 ###### ARTÍCULO 107.
 
@@ -1425,7 +1447,9 @@ Los establecimientos y servicios a que se refiere el Artículo 5o. de esta Ley, 
 
 Todo cambio de propietario, de razón o denominación social o domicilio de un establecimiento, deberá ser comunicado a la Autoridad que otorgó la autorización sanitaria o a quien se le haya dado el aviso de funcionamiento, en un plazo no mayor de treinta días a partir de la fecha en que se hubiese realizado, sujetándose el trámite correspondiente a las disposiciones reglamentarias aplicables.
 
-#### SECCION I. DE LAS AUTORIZACIONES
+#### SECCION XI. DE LOS CENTROS DE DESARROLLO INFANTIL Y ESTANCIAS INFANTILES FAMILIARES
+
+(NOTA: EL 10 DE FEBRERO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 86/2009, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE FEBRERO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -1447,9 +1471,9 @@ V.- Establecimiento: Local donde se desarrolla una actividad comercial en la cua
 
 La regulación y control de los establecimientos dedicados al expendio o suministro al público de alimentos y bebidas no alcohólicas y los vendedores ambulantes, se dará conforme a lo que disponga esta Ley y la normatividad que les sea aplicable.
 
-#### SECCION II. DE LA REVOCACION DE LAS AUTORIZACIONES
+#### SECCION I. DE LAS AUTORIZACIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 114.
 
@@ -1513,7 +1537,9 @@ Para establecer un nuevo panteón, se necesita licencia expedida por el Ayuntami
 
 El funcionamiento de los panteones, estará sujeto a la Ley General de Salud, a lo dispuesto en esta Ley, a los Reglamentos Municipales correspondientes y a la normatividad aplicable.
 
-#### SECCION III. DE LOS CERTIFICADOS
+#### SECCION II. DE LA REVOCACION DE LAS AUTORIZACIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 120.
 
@@ -1526,6 +1552,8 @@ La basura deberá ser manejada en su destino final como relleno sanitario o dest
 ###### ARTÍCULO 122.
 
 El manejo, recolección, transporte, tratamiento y disposición final de basura se realizará en los términos que señalen la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Baja California, sus reglamentos y demás disposiciones que resulten aplicables.
+
+#### SECCION III. DE LOS CERTIFICADOS
 
 ###### ARTÍCULO 123.
 
@@ -2406,3 +2434,7 @@ DECRETO No. 187 POR EL QUE SE APRUEBA LA REFORMA AL ARTÍCULO 32 DE LA LEY DE SA
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El Ejecutivo del Estado en un término no mayor de 60 días contados a partir de la entrada en vigor del presente Decreto, deberá modificar los Reglamentos respectivos derivados de la Ley de Salud Pública del Estado de Baja California.
+
+P.O. 15 DE JUNIO DE 2012.
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
