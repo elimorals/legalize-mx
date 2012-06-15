@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-programa-de-derechos-humanos-del-distrito-federal-81491
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-30"
-last_updated: "2011-05-30"
+last_updated: "2012-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81491&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-05-26"
 
 LEY DEL PROGRAMA DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE JUNIO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 30 de mayo de 2011.
 
@@ -54,7 +54,9 @@ La presente Ley es de orden público, interés social y de observancia general e
 
 Los beneficios que se deriven de esta Ley serán aplicables a todas las personas, grupos y colectivos sociales que habiten o transiten en el Distrito Federal.
 
-La aplicación de la presente Ley corresponde, en el ámbito de su competencia, a la Administración Pública centralizada y descentralizada del Distrito Federal, así como al Tribunal Superior de Justicia del Distrito Federal, a la Asamblea Legislativa del Distrito Federal y a los órganos autónomos por ley.
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2012)</small>
+
+La aplicación de la presente Ley corresponde, en el ámbito de su competencia, a la Administración Pública centralizada y descentralizada del Distrito Federal, así como al Tribunal Superior de Justicia del Distrito Federal y a la Asamblea Legislativa del Distrito Federal.
 
 ###### Artículo 2.
 
@@ -80,7 +82,9 @@ VI. Evaluación.- Análisis de los resultados de la implementación en relación
 
 VII. Implementación.- Acciones, medidas, programas y políticas públicas generadas para la plena realización de las líneas de acción establecidas en el Programa;
 
-VIII. Instancias Ejecutoras.- La Asamblea Legislativa del Distrito Federal; el Tribunal Superior de Justicia del Distrito Federal; El Tribunal de lo Contencioso Administrativo del Distrito Federal; el Tribunal Electoral del Distrito Federal; el Instituto Electoral del Distrito Federal; la Comisión de Derechos Humanos del Distrito Federal; la Junta de Conciliación y Arbitraje del Distrito Federal; el Instituto de Acceso a la Información Pública del Distrito Federal; La Universidad Autónoma de la Ciudad de México, la Jefatura de Gobierno del Distrito Federal; las Dependencias, Órganos Desconcentrados y los Órganos Político Administrativos del Distrito Federal;
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2012)</small>
+
+VIII. Instancias Ejecutoras.- La Asamblea Legislativa del Distrito Federal; el Tribunal Superior de Justicia del Distrito Federal; El Tribunal de lo Contencioso Administrativo del Distrito Federal; la Junta de Conciliación y Arbitraje del Distrito Federal; el Instituto de Acceso a la Información Pública del Distrito Federal; La Universidad Autónoma de la Ciudad de México, la Jefatura de Gobierno del Distrito Federal; las Dependencias, Órganos Desconcentrados y los Órganos Político Administrativos del Distrito Federal;
 
 IX. Ley.- Ley del Programa de Derechos Humanos del Distrito Federal;
 
@@ -274,23 +278,15 @@ VI. A mediano plazo, realizar el Diagnóstico y actualizar el Programa.
 
 El Comité de Seguimiento y Evaluación del Programa de Derechos Humanos del Distrito Federal, será un órgano colegiado que coordinará las acciones de seguimiento y evaluación del Programa y promoverá la institucionalización del enfoque de los derechos en el quehacer público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE JUNIO DE 2012)</small>
+
 ###### Artículo 19.
 
-El Comité estará conformado por instituciones titulares y suplentes, invitados permanentes y un observador, que se reunirán periódicamente en asamblea.
+El Comité estará conformado por instituciones titulares y suplentes, invitados permanentes y dos observadores, que se reunirán periódicamente en asamblea.
 
-El Comité estará integrado por 11 representantes de las siguientes dependencias:
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2012)</small>
 
-I. Un representante del Gobierno del Distrito Federal, designado por el Jefe de Gobierno quien presidirá y convocará a las sesiones del Comité;
-
-II. Un representante de la Comisión de Derechos Humanos del Distrito Federal;
-
-III. Un representante la (sic) Asamblea Legislativa del Distrito Federal;
-
-IV. Un representante del Tribunal Superior de Justicia del Distrito Federal;
-
-V. Tres representantes de distintas instituciones académicas; y
-
-VI. Cuatro representantes de organizaciones de la sociedad civil.
+El Comité estará integrado por un representante del Gobierno del Distrito Federal designado por el Jefe de Gobierno quien presidirá y convocará a las sesiones del Comité; uno de la Asamblea Legislativa del Distrito Federal; uno del Tribunal Superior de Justicia del Distrito Federal; tres representantes de distintas instituciones académicas; y cuatro representantes de organizaciones de la sociedad civil.
 
 Cada uno de los órganos titulares tendrá derecho a voz y a voto. Para la adopción de acuerdos en la asamblea se privilegiará el consenso. En caso de que esto no sea posible, para la adopción de acuerdos se requerirá del voto favorable de siete instituciones titulares o que tengan en ese momento la facultad de ejercer el voto.
 
@@ -300,7 +296,9 @@ Para la integración de las Organizaciones de la Sociedad Civil y las Institucio
 
 Las organizaciones de la Sociedad Civil y las Instituciones Académicas que integren el Comité durarán en su encargo 3 años y podrán ser seleccionados para un nuevo periodo. El cargo que desempeñen los integrantes del Comité será honorario.
 
-La Oficina en México del Alto Comisionado de las Naciones Unidas para los Derechos Humanos podrá participar como órgano observador y tendrá derecho a voz en la asamblea.
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2012)</small>
+
+La Oficina en México del Alto Comisionado de las Naciones Unidas para los Derechos Humanos y la Comisión podrán participar como observadores y tendrán derecho a voz en la Asamblea.
 
 Serán invitados permanentes los Organismos Autónomos del Distrito Federal y las Delegaciones Políticas con derecho a voz en la asamblea.
 
@@ -446,9 +444,15 @@ La Secretaría Ejecutiva deberá presentar ante el Comité informes trimestrales
 
 En caso de que el Comité encuentre inconsistencias en la operación de los recursos asignados al Mecanismo, deberá hacerlo del conocimiento de la Contraloría General del Gobierno del Distrito Federal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE JUNIO DE 2012)</small>
+
 ###### Artículo 35.
 
-El Comité entregará al Jefe de Gobierno el informe anual de actividades y del ejercicio presupuestal. Ambos deberán ser publicados en los respectivos sitios de internet de la Jefatura de Gobierno y de la Comisión de Derechos Humanos del Distrito Federal.
+El Comité entregará al Jefe de Gobierno el informe anual de actividades y del ejercicio presupuestal. Ambos deberán ser publicados en los respectivos sitios de internet de las instancias ejecutoras.
+
+> <small>(ADICIONADO, G.O. 15 DE JUNIO DE 2012)</small>
+
+La Comisión podrá publicar los informes a que se refiere el párrafo anterior.
 
 Cada instancia ejecutora deberá publicar en cada uno de sus sitios de internet un apartado especial en el que se de cuenta de las acciones, medidas, programas y políticas públicas generadas por éstas para la plena realización de las líneas de acción de su competencia.
 
@@ -473,3 +477,11 @@ QUINTO.- Los recursos para la operación y funcionamiento del Comité del Mecani
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veinticuatro días del mes de febrero del año dos mil once.- POR LA MESA DIRECTIVA.- DIP. JOSÉ MANUEL RENDÓN OBERHAUSER, PRESIDENTE.-FIRMA.- DIP. VÍCTOR HUGO ROMO GUERRA, SECRETARIO.- DIP. JORGE PALACIOS ARROYO, ECRETARIO (SIC).- FIRMA.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintiséis días del mes de mayo del año dos mil once.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.-EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE FINANZAS, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MARIO M. DELGADO CARRILLO.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE LEAL FERNÁNDEZ.- FIRMA.-LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, RAÚL ARMANDO QUINTERO MARTÍNEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZÚA.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.- EL SECRETARIO DE TURISMO, ALEJANDRO ROJAS DÍAZ DURÁN.- FIRMA.- LA SECRETARIA DE CULTURA, ELENA CEPEDA DE LEÓN.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, FERNANDO JOSÉ ABOITIZ SARO.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO, BENITO MIRÓN LINCE.- FIRMA.- LA SECRETARÍA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, MARÍA ROSA MÁRQUEZ CABRERA.- FIRMA- EL SECRETARIO DE PROTECCIÓN CIVIL, ELÍAS MIGUEL MORENO BRIZUELA.- FIRMA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 15 DE JUNIO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación.
