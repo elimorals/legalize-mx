@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-responsabilidades-administrativas-de-los-23592"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2002-03-13"
-last_updated: "2012-06-05"
+last_updated: "2012-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23592&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-03-12"
 
 LEY FEDERAL DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JUNIO DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 13 de marzo de 2002.
 
@@ -176,6 +176,14 @@ XVIII.- Denunciar por escrito ante la Secretaría o la contraloría interna, los
 > <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2006)</small>
 
 XIX.- Proporcionar en forma oportuna y veraz, toda información y datos solicitados por la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos. En el cumplimiento de esta obligación, además, el servidor público deberá permitir, sin demora, el acceso a los recintos o instalaciones, expedientes o documentación que la institución de referencia considere necesario revisar para el eficaz desempeño de sus atribuciones y corroborar, también, el contenido de los informes y datos que se le hubiesen proporcionado;
+
+> <small>(ADICIONADA, D.O.F. 15 DE JUNIO DE 2012)</small>
+
+XIX-A.- Responder las recomendaciones que les presente la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos, y en el supuesto de que se decida no aceptar o no cumplir las recomendaciones, deberá hacer pública su negativa, fundándola y motivándola en términos de lo dispuesto por el Apartado B, del artículo 102 de la Constitución Política de los Estados Unidos Mexicanos y por el artículo 46 de la Ley de la Comisión Nacional de los Derechos Humanos;
+
+> <small>(ADICIONADA, D.O.F. 15 DE JUNIO DE 2012)</small>
+
+XIX-B.- Atender los llamados de la Cámara de Senadores o en sus recesos de la Comisión Permanente, a comparecer ante dichos órganos legislativos, a efecto de que expliquen el motivo de su negativa a aceptar o cumplir las recomendaciones de la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos, en términos del Apartado B, del artículo 102 de la Constitución Política de los Estados Unidos Mexicanos;
 
 XX.- Abstenerse, en ejercicio de sus funciones o con motivo de ellas, de celebrar o autorizar la celebración de pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra pública o de servicios relacionados con ésta, con quien desempeñe un empleo, cargo o comisión en el servicio público, o bien con las sociedades de las que dichas personas formen parte. Por ningún motivo podrá celebrarse pedido o contrato alguno con quien se encuentre inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público;
 
@@ -710,3 +718,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto por el
 D.O.F. 5 DE JUNIO DE 2012.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE JUNIO DE 2012.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
