@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-poder-judicial-del-estado-de-durango-69276"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-02"
-last_updated: "2012-06-14"
+last_updated: "2012-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 2 de julio de 2009.
 
@@ -51,7 +51,7 @@ I. El Tribunal Superior de Justicia;
 
 II. El Tribunal Electoral;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -155,7 +155,7 @@ VI. La Comisión integrará un expediente y emitirá un dictamen, los cuales rem
 
 VII. El Congreso del Estado, durante la substanciación del procedimiento de evaluación, deberá garantizar al Magistrado su derecho de audiencia, respecto de los nuevos elementos que en su caso se hayan allegado al expediente, para que manifieste lo que a su derecho convenga.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -1151,7 +1151,7 @@ V. Fijar las bases, convocar y realizar el procedimiento para que su Presidente 
 
 VI. Proponer, para su aprobación, al Pleno del Tribunal Superior de Justicia, el número de juzgados, su especialización, ubicación y los límites geográficos de los distritos judiciales en que se divida el territorio del Estado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -1519,9 +1519,13 @@ Para el mejor funcionamiento de la Dirección de Archivo, se implantarán sistem
 
 La extracción de expedientes, documentos o registros del archivo judicial, sólo podrá realizarse mediante orden escrita de la autoridad que lo haya remitido o del titular de la Dirección de Transparencia y Acceso a la Información Pública y de Comunicación Social del Poder Judicial del Estado, o de otra competente, en cuyo caso, se insertará en el oficio relativo la determinación que motiva el pedimento.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2012)</small>
 
-El Director de Archivo del Poder Judicial del Estado, expedirá las cartas de antecedentes penales que sean solicitadas, mediante el pago respectivo. En el caso de las personas que tengan derecho a obtener la prescripción de sus antecedentes penales, realizarán el trámite relativo a que se refiere el artículo artículo (sic) 130 bis del Código Penal para el Estado Libre y Soberano de Durango.
+El Director del Archivo del Poder Judicial del Estado, expedirá las cartas de existencia o no de antecedentes penales que sean solicitadas, mediante el pago respectivo. En el caso de la solicitud del documento que acredite la no existencia de los antecedentes penales por haber prescrito, previo al trámite relativo a que se refiere el artículo 130 bis del Código Penal para el Estado Libre y Soberano de Durango, donde el Juez de Ejecución le haya notificado al Director del Archivo del Poder Judicial del Estado que se obtuvo una resolución favorable para cancelar los antecedentes, se expedirá sin hacer ninguna aclaración al respecto.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
+
+Para los efectos previstos en el penúltimo párrafo del artículo 130 bis del Código Penal del Estado Libre y Soberano de Durango, el Director del Archivo del Poder Judicial del Estado, deberá llevar un registro donde deje constancia de aquellos a los que se les han cancelado los antecedentes penales.
 
 #### SECCIÓN SÉPTIMA. DE LA DIRECCIÓN DE INFORMÁTICA
 
@@ -1921,7 +1925,7 @@ Las faltas serán valoradas y, en su caso, sancionadas, en lo conducente, de con
 
 En todo caso, se considerarán como faltas graves, el incumplimiento de las obligaciones señaladas en las fracciones XI a XIII, y XV a XVII del artículo 47 de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, en las fracciones I a VI, IX, XII, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXIII del artículo 143 de esta ley y las señaladas en el artículo 125 de la Constitución Política del Estado Libre y Soberano de Durango.
 
-Tratándose de los jueces, la destitución sólo procederá en los casos a que se refiere el artículo 117 de la Constitución Política del Estado Libre y Soberano de Durango, el artículo 143 fracciones l a VI, IX, XII, XV a XXI y XXIII de esta ley, así como en las del artículo 47 fracciones XI, XIII y XV a XVII de la ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios; y cuando reincidan por lo menos en tres ocasiones en un lapso de tres años en una causa de responsabilidad, sin haber atendido a las observaciones o amonestaciones que se les hagan por faltas a la moral o a la disciplina que deben guardar, conforme a la ley y a los reglamentos respectivos.
+Tratándose de los jueces, la destitución sólo procederá en los casos a que se refiere el artículo 117 de la Constitución Política del Estado Libre y Soberano de Durango, el artículo 143 fracciones I a VI, IX, XII, XV a XXI y XXIII de esta ley, así como en las del artículo 47 fracciones XI, XIII y XV a XVII de la ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios; y cuando reincidan por lo menos en tres ocasiones en un lapso de tres años en una causa de responsabilidad, sin haber atendido a las observaciones o amonestaciones que se les hagan por faltas a la moral o a la disciplina que deben guardar, conforme a la ley y a los reglamentos respectivos.
 
 ###### ARTÍCULO 146.
 
@@ -2247,7 +2251,7 @@ Los magistrados del Tribunal Superior de Justicia rendirán la protesta de ley a
 
 El Pleno del Tribunal Superior de Justicia tomará protesta a su Secretario y a los integrantes del Consejo de la Judicatura.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -2299,13 +2303,13 @@ Las labores de los juzgados en materia penal no se interrumpirán durante las va
 
 Son empleados de confianza del Poder Judicial del Estado los siguientes: El Secretario General de Acuerdos, Consejeros, Jueces, Secretarios de Sala y de juzgados, Defensores Públicos y Asesores Jurídicos, Administradores de Sala, Actuarios Notificadores y Ejecutores, Oficiales Judiciales, Secretarios Administrativos, Directores y Jefes de Departamento y, en general, aquellas personas que por la naturaleza confidencial de sus labores o porque realicen tareas de dirección, deban ser consideradas como tales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 Los oficiales judiciales serán aquellos empleados que tendrán a su cargo labores de archivo, captura de datos, costura o formación de expedientes, foliado, préstamo de expedientes, obtención de copiado, elaboración de oficios, listado, estadísticas y demás funciones similares, pero que por la naturaleza confidencial de la información que maneja debe tener carácter de confianza.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -2819,13 +2823,13 @@ Los servidores públicos del Tribunal Electoral del Poder Judicial del Estado se
 
 Los servidores públicos y empleados del Tribunal Electoral del Poder Judicial del Estado, serán considerados como servidores públicos de confianza.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ## TÍTULO NOVENO. DEL TRIBUNAL PARA MENORES INFRACTORES DEL PODER JUDICIAL DEL ESTADO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO CON LO ARTICULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -2837,7 +2841,7 @@ Los servidores públicos y empleados del Tribunal Electoral del Poder Judicial d
 
 De conformidad con el artículo 97 de la Constitución Política del Estado Libre y Soberano de Durango, el Tribunal para Menores Infractores del Poder Judicial del Estado, será la máxima autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial del Estado competente para resolver las conductas tipificadas como delito por el Código Penal o por Leyes Estatales, en las que se encuentren implicadas personas que tengan entre doce años cumplidos y menos de dieciocho años de edad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -2853,13 +2857,13 @@ Los magistrados de menores percibirán la remuneración que corresponda a los ma
 
 Por lo que respecta a los requisitos para la designación del personal, nombramientos, carrera judicial, organización, estructura y funcionamiento del Tribunal para Menores Infractores del Poder Judicial del Estado se estará a lo dispuesto en el Código de Justicia para Menores Infractores en el Estado de Durango y esta ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ### CAPÍTULO II. DE LA COMISIÓN DE ADMINISTRACIÓN
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -2897,7 +2901,7 @@ El comisionado que disintiere de la mayoría, podrá formular por escrito voto p
 
 Las sesiones ordinarias o extraordinarias de la Comisión serán privadas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -2905,7 +2909,7 @@ Las sesiones ordinarias o extraordinarias de la Comisión serán privadas.
 
 Cuando la Comisión de Administración estime que sus reglamentos, acuerdos o resoluciones, pudieren resultar de interés general, deberá ordenar su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -2949,7 +2953,7 @@ XIV. Desempeñar cualquier otra función que la ley o el Reglamento Interno del 
 
 En caso de existir dudas con respecto a las determinaciones que expida la Comisión, el Presidente solicitará su reconsideración ante el Pleno del Tribunal Superior de Justicia, el que resolverá uniinstancialmente (sic) lo conducente. En caso de incumplimiento se procederá de igual forma.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -2973,7 +2977,7 @@ VII. Proponer para su nombramiento a la Comisión de Administración, a los titu
 
 VIII. Las demás que les señalen la ley, el Reglamento Interno y los acuerdos generales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -2993,7 +2997,7 @@ Igualmente se auxiliará del Instituto de Especialización Judicial del propio C
 
 En ambos supuestos se aplicarán las disposiciones de esta ley relativas a estos órganos, en lo conducente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3001,7 +3005,7 @@ En ambos supuestos se aplicarán las disposiciones de esta ley relativas a estos
 
 La Secretaría Administrativa tendrá a su cargo la atención, ejecución y cumplimiento de las resoluciones y acuerdos de la Comisión de Administración relativos a los recursos humanos, financieros y materiales del Tribunal para Menores Infractores, de acuerdo con las partidas autorizadas en el presupuesto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3249,7 +3253,7 @@ Derechos laborales y administrativos del personal.
 
 Esta Ley, al entrar en vigor, no afectará los derechos laborales y administrativos adquiridos y, por ende, tampoco su situación actual como servidores públicos del Poder Judicial del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3319,7 +3323,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 10 DE DICIEMBRE DE 2009.
 
@@ -3372,5 +3376,15 @@ P.O. 14 DE JUNIO DE 2012.
 PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- El Juez de Ejecución tendrá facultades para aplicar el trámite previsto en el presente Decreto a aquellos sentenciados de conformidad con los ordenamientos penales sustantivos anteriores al Código Penal para el Estado Libre y Soberano del Estado de Durango, contenido en el Decreto Número 459, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango Número 26, de fecha 1 de abril de 2010.
+
+TERCERO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
+
+P.O. 15 DE JUNIO DE 2012.
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Juez de Ejecución tendrá facultades para aplicar el trámite previsto en el presente Decreto a aquellos sentenciados de conformidad con los ordenamientos penales sustantivos anteriores al Código Penal para el Estado Libre y Soberano del Estado de Durango, contenido en el Decreto Número 459, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango Número 26, de fecha 1 de abril de 2010.
+
+Las autoridades jurisdiccionales que en cumplimiento del presente Decreto, determinen la cancelación de los antecedentes penales, deberán notificarlo al director del Archivo del Poder Judicial del Estado, para los efectos a que alude el último párrafo del artículo 112 bis de la Ley Orgánica del Poder Judicial del Estado de Durango.
 
 TERCERO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
