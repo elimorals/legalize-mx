@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2012-06-14"
+last_updated: "2012-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
 > <small>N. DE E. DE CONFORMIDAD CON LA FRACCIÓN II DEL ARTICULO SEGUNDO Y PRIMERO TRANSITORIO DEL DECRETO No. 420, POR EL QUE SE EXPIDE LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO A PARTIR DE LAS CERO HORAS DEL DÍA 14 DE DICIEMBRE DE 2009.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -1511,25 +1511,31 @@ Plazos para la prescripción de la pretensión punitiva.
 
 Si durante la ejecución de las penas o medidas de seguridad se advierte que se había extinguido la pretensión punitiva o la potestad de ejecutarlas, tales circunstancias se plantearán ante la autoridad judicial de ejecución, de conformidad con la ley de la materia.
 
-> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2012)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 15 DE JUNIO DE 2012)</small>
 
 Artículo 130 bis. Prescripción de antecedentes penales.
 
-La prescripción de los antecedentes penales procederá conforme a las siguientes reglas:
+Los antecedentes penales prescriben con todos sus efectos, conforme a las siguientes reglas:
 
-I.- Que se haya cubierto la reparación del daño y pago de la multa;
+I.- Que se haya cubierto la reparación del daño y pago de la multa, y
 
-II.- Haber transcurrido sin que el sentenciado haya cometido delito doloso alguno o se encuentre bajo proceso penal:
+II.- Que haya transcurrido a partir de la fecha de la sentencia firme sin que el sentenciado haya cometido delito doloso alguno o se encuentre bajo proceso penal:
 
-a) Un año cuando la sanción no sea privativa de libertad;
+a) Un año cuando la pena no sea privativa de libertad;
 
-b) Dos años cuando se trate de delitos culposos; o
+b) Dos años cuando se trate de penas por delitos culposos; o
 
-c) Tres años para las restantes sanciones.
+c) Tres años para las restantes penas.
 
-Quedan excluidos de la presente disposición los antecedentes penales que se deriven de delitos considerados como graves y aquellos casos de reincidencia, por lo que este beneficio únicamente se otorgara por un sólo proceso y en una sola ocasión.
+Quedan excluidos de la presente disposición los antecedentes penales que se deriven de delitos considerados como graves, el robo agravado y aquellos casos en que el solicitante haya sido sentenciado en forma ejecutoriada por delito doloso, en un proceso penal distinto al proceso de prescripción que solicita.
 
-Las personas que conforme a este artículo tengan derecho a obtener la prescripción de sus antecedentes penales, lo solicitará ante el Juez de Ejecución quien resolverá lo conducente en un plazo que no exceda de 10 días hábiles a partir de la solicitud. La resolución será notificada por el Juez de Ejecución a la Dirección del Archivo del Poder Judicial del Estado, para los efectos a que se refiere el segundo párrafo del artículo 112 de la Ley Orgánica del Poder Judicial del Estado de Durango.
+III.- Este beneficio únicamente se otorgará por un solo proceso y en una sola ocasión.
+
+Las personas que conforme a este artículo tengan derecho a obtener la prescripción de sus antecedentes penales, lo solicitaran por escrito ante el Juez de Ejecución, el cual convocará a una audiencia para decidir en forma definitiva dentro de los cinco días hábiles siguientes, citando al efecto al solicitante, a su defensor, y al titular de la Dirección de Ejecución de Penas y Medidas de Seguridad, para determinar y en su caso declarar si es procedente la prescripción del antecedente penal. El Juez de Ejecución deberá dictar la resolución respectiva sobre la prescripción de los antecedentes penales en la misma audiencia o de no ser materialmente posible, en un plazo que no exceda de cinco días hábiles a partir de la misma.
+
+La resolución de cancelación de antecedentes penales, será notificada por el Juez de Ejecución a la Dirección del Archivo del Poder Judicial del Estado, para los efectos a que se refiere el segundo párrafo del artículo 112 de la Ley Orgánica del Poder Judicial del Estado de Durango.
+
+La resolución sobre la procedencia o no de la prescripción de antecedentes penales será apelable.
 
 ### CAPÍTULO XI. SUPRESIÓN DEL TIPO PENAL
 
@@ -4614,5 +4620,15 @@ P.O. 14 DE JUNIO DE 2012.
 PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- El Juez de Ejecución tendrá facultades para aplicar el trámite previsto en el presente Decreto a aquellos sentenciados de conformidad con los ordenamientos penales sustantivos anteriores al Código Penal para el Estado Libre y Soberano del Estado de Durango, contenido en el Decreto Número 459, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango Número 26, de fecha 1 de abril de 2010.
+
+TERCERO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
+
+P.O. 15 DE JUNIO DE 2012.
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Juez de Ejecución tendrá facultades para aplicar el trámite previsto en el presente Decreto a aquellos sentenciados de conformidad con los ordenamientos penales sustantivos anteriores al Código Penal para el Estado Libre y Soberano del Estado de Durango, contenido en el Decreto Número 459, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango Número 26, de fecha 1 de abril de 2010.
+
+Las autoridades jurisdiccionales que en cumplimiento del presente Decreto, determinen la cancelación de los antecedentes penales, deberán notificarlo al director del Archivo del Poder Judicial del Estado, para los efectos a que alude el último párrafo del artículo 112 bis de la Ley Orgánica del Poder Judicial del Estado de Durango.
 
 TERCERO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
