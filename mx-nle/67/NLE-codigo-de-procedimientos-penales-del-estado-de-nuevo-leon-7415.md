@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "2011-07-05"
+last_updated: "2012-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEÓN
 
 > <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE FECHA 5 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO DEJARÁ DE SER APLICABLE EN FORMA GRADUAL Y SUCESIVA, EN LOS TÉRMINOS DEL TRANSITORIO PRIMERO, QUEDANDO ABROGADO A PARTIR DEL 1 DE ENERO DE 2016, CON LAS EXCEPCIONES ESTABLECIDAS EN LOS ARTÍCULOS DEL TERCERO AL SEXTO TRANSITORIOS.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -1157,9 +1157,101 @@ Tratándose del Juicio Oral Penal la nulidad se reclamará dentro del día sigui
 
 A los defensores públicos, cuando no se les pueda hacer la notificación personalmente, se les hará por cédula que se fijaré en lugar visible del Tribunal.
 
-### CAPITULO PRIMERO. REGLAS ESPECIALES PARA LA PRACTICA DE DILIGENCIAS Y LEVANTAMIENTO DE ACTAS DE POLICIA MINISTERIAL
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JUNIO DE 2012)</small>
+
+### CAPITULO DECIMO PRIMERO. DE LAS ORDENES DE PROTECCION
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
+
+###### ARTICULO 124 Bis.
+
+Las órdenes de protección de emergencia y preventivas a que se refiere el presente Capítulo, serán las previstas en el Capítulo V del Título Quinto del Libro Primero del Código Penal para el Estado de Nuevo León, y están orientadas a proteger a los sujetos pasivos de hechos presuntamente constitutivos del delito de Violencia Familiar, equiparable a la Violencia Familiar o de Hostigamiento Sexual, ya sea para que presenten la denuncia o querella correspondiente, el Ministerio Público ejercite la acción penal al respecto o se logre la consecución legal del juicio respectivo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
+
+###### ARTICULO 124 Bis 1.
+
+Serán principios rectores de las medidas descritas en el Artículo anterior, el carácter urgente y cautelar para su petición y otorgamiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
+
+###### ARTICULO 124 Bis 2.
+
+Las órdenes de protección podrán decretarse tanto antes como después de iniciado el procedimiento, bajo protesta de decir verdad, de manera verbal o escrita, conforme a las siguientes reglas:
+
+I.- Nombre y domicilio del solicitante, y en su caso el carácter con el cual comparece;
+
+II.- Nombre y domicilio del presunto ofensor; y
+
+III.- Exposición de los hechos que motivan la solicitud, el parentesco o relación que guarde el sujeto pasivo con el agresor, el riesgo o peligro existente, las causas por las que se teme por la seguridad de la víctima u ofendido, y demás elementos con que cuente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
+
+###### ARTICULO 124 Bis 3.
+
+Una vez hecha la solicitud, el Juez resolverá de plano atendiendo a lo expresado en la misma, no pudiendo retardar su decisión, bajo pena de responsabilidad; debiendo de resolver conforme a lo previsto en el Artículo 98 Bis 4 del Código Penal para el Estado de Nuevo León, la concesión de las órdenes que estime prudentes y necesarias, su alcance, así como el tiempo de su duración, sin que en ningún caso se pueda exceder el máximo establecido al efecto en el Artículo en cita del Código Penal para el Estado de Nuevo León; en el entendido que para fijar la duración de éstas órdenes, deberá tenerse en cuenta la necesidad y el tiempo requerido por el solicitante para presentar la denuncia o querella correspondiente, o en tratándose del Ministerio Público ejercitar la acción penal, o bien, la duración del juicio; todo ello siempre tendiente a asegurar el bienestar de las víctimas u ofendidos o de aquellos por quienes se pide.
+
+Si la solicitud fuere oscura o irregular, el Juez, en el mismo acto y de manera inmediata, deberá prevenir al solicitante, para que la aclare, corrija o la complete.
+
+En caso de que la duración de la medida preventiva o de emergencia, no llegue a exceder el plazo máximo de treinta días, esta podrá ser sujeta de prórroga, hasta completar dicho término, tomando en cuenta siempre lo dispuesto en la última parte del primer párrafo de este Artículo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
+
+###### ARTICULO 124 Bis 4.
+
+Sólo los Jueces de lo Penal, de Preparación Penal, Mixtos y de Juicio Oral Penal, en su caso, pueden decretar las medidas a que se refieren los Artículos anteriores, salvo que, por circunstancias especiales, no pueda ocurrirse al Juez competente, por lo cual el Juez del lugar donde el solicitante se encuentre, podrá decretarla, remitiendo las diligencias al competente. Por ningún motivo, podrá declinarse la competencia para conocer de las mismas, debiendo en todo caso el Juez, resolver lo conducente a la solicitud, y si no fuere competente para conocer del proceso, una vez decretadas y ejecutadas las órdenes respectivas remitirá lo actuado al Juez competente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
+
+###### ARTICULO 124 Bis 5.
+
+Una vez ejecutada la orden de protección, aquel que la obtuvo, deberá formular su denuncia o querella por los hechos presuntamente constitutivos del delito de Violencia Familiar, Equiparable a la Violencia Familiar o de Hostigamiento Sexual, o el Ministerio Público ejercitar la acción penal al respecto o bien, continuar con la consecuencia del procedimiento hasta su culminación mediante sentencia ejecutoriada; esto dentro del término otorgado para ello o de sus prorrogas, el cual no excederá el máximo previsto en el Código Penal, según corresponda. De no cumplirse con esta disposición, la orden de protección decretada quedará sin efectos, no pudiendo solicitarla nuevamente por los mismos hechos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
+
+###### ARTICULO 124 Bis 6.
+
+Decretadas las órdenes de protección o de emergencia respectivas, el Juez deberá velar por su debido cumplimiento contando para ello con todos los elementos necesarios, incluso solicitar el auxilio de la fuerza pública y en su caso ordenar el cateo; mandando notificar su determinación respecto de la concesión de dichas medidas al que se señala como presunto agresor, quien por el sólo hecho de estar notificado se le tendrá por apercibido que en caso de que llegare a violentarlas, se dará vista al Ministerio Público para los efectos de lo dispuesto en el Artículo 180 del Código Penal para el Estado de Nuevo León, sin que para ello sea necesario agotar los medios de apremio previstos en el presente Código.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
+
+###### ARTICULO 124 Bis 7.
+
+Para la aplicación y ejecución de las órdenes de protección a que se refiere el Capítulo V del Título Quinto del Libro Primero del Código Penal para el Estado de Nuevo León, se contará con el auxilio policiaco de manera inmediata, una vez hecha la solicitud. En caso de que la autoridad requerida retrase o niegue prestar el auxilio sin causa justificada, se dará vista al Ministerio Público para los efectos de lo previsto en el Artículo 209 del Código Penal para el Estado de Nuevo León.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
+
+###### ARTICULO 124 Bis 8.
+
+Para conocer y decidir en torno a las órdenes de protección solicitadas previo a un proceso, no habrá lugar a dilucidar cuestiones de competencia, en todo caso, si el Juez que conoció de las mismas, se estima incompetente, una vez ejecutadas las órdenes remitirá las actuaciones al que estime competente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
+
+###### ARTICULO 124 Bis 9.
+
+Contra las determinaciones dictadas con motivos de las solicitudes a que hace mención este Capítulo, no procederá recurso alguno.
 
 ## TITULO TERCERO. PREPARACION DE LA ACCION PENAL
 
@@ -1251,9 +1343,9 @@ La acción de la querella se considerará abandonada cuando el querellante no oc
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JULIO DE 2004)</small>
 
-### CAPITULO SEGUNDO. COMPROBACION DEL CUERPO DEL DELITO, VESTIGIOS, OBJETOS RELACIONADOS CON EL DELITO Y DE LA PROBABLE RESPONSABILIDAD DEL INCULPADO
+### CAPITULO PRIMERO. REGLAS ESPECIALES PARA LA PRACTICA DE DILIGENCIAS Y LEVANTAMIENTO DE ACTAS DE POLICIA MINISTERIAL
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 133.
 
@@ -1461,7 +1553,9 @@ El defensor podrá impugnar las preguntas que se hagan al declarante si éstas s
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JULIO DE 2004)</small>
 
-### CAPITULO TERCERO. CURACION DE HERIDOS Y ENFERMOS
+### CAPITULO SEGUNDO. COMPROBACION DEL CUERPO DEL DELITO, VESTIGIOS, OBJETOS RELACIONADOS CON EL DELITO Y DE LA PROBABLE RESPONSABILIDAD DEL INCULPADO
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 150 Bis.
 
@@ -1793,9 +1887,7 @@ Cuando no exista averiguación previa, los elementos de prueba que aporte o se d
 
 Para que operen a su favor cualquiera de los beneficios contenidos en los dos párrafos que anteceden, será necesario, en su caso, devolver el monto de lo sustraído o garantizarlo conforme a la ley.
 
-### CAPITULO CUARTO. CONSIGNACION ANTE LOS TRIBUNALES
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+### CAPITULO TERCERO. CURACION DE HERIDOS Y ENFERMOS
 
 ###### ARTICULO 183.
 
@@ -1851,9 +1943,9 @@ La autoridad revocará la concesión inmediatamente después de que el inculpado
 
 El Ministerio Público emitirá determinación de reserva de la preparación de la acción penal cuando considere que de lo actuado no resultan elementos bastantes para el ejercicio de la acción penal. Lo anterior sin perjuicio de proseguir la investigación si con posterioridad pudieren allegar medios de convicción, notificando lo anterior al denunciante o querellante.
 
-### CAPITULO PRIMERO. REGLAS GENERALES
+### CAPITULO CUARTO. CONSIGNACION ANTE LOS TRIBUNALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
 
 ###### ARTICULO 193.
 
@@ -1893,9 +1985,9 @@ La garantía se devolverá por el Ministerio Público cuando se resuelva el no e
 
 PRIMERA PARTE
 
-### CAPITULO SEGUNDO. APREHENSION DEL INCULPADO
+### CAPITULO PRIMERO. REGLAS GENERALES
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 195.
 
@@ -1911,7 +2003,9 @@ Si durante el plazo de diez días, contados a partir del día en que se haya hec
 
 Las diligencias practicadas por la Policía Ministerial y por el Ministerio Público, no tendrán que repetirse por los jueces, salvo el derecho de las partes para objetarlas. Sin embargo, las partes y el defensor podrán proponer pruebas conducentes al esclarecimiento de los hechos. El Juez está facultado para ordenar la repetición de cualquier diligencia pertinente si lo solicitan las partes. Tratándose de la prueba testimonial, se estará a lo dispuesto en el artículo 281 de este Código, en su caso.
 
-### CAPITULO TERCERO. DECLARACION PREPARATORIA
+### CAPITULO SEGUNDO. APREHENSION DEL INCULPADO
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
 
 ###### ARTICULO 197.
 
@@ -1939,9 +2033,7 @@ Si el Juez niega la orden de aprehensión, de comparecencia, de cateo, de arraig
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE OCTUBRE DE 1994)</small>
 
-### CAPITULO CUARTO. AUTO DE FORMAL PRISION, DE SUJECION A PROCESO Y LIBERTAD
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+### CAPITULO TERCERO. DECLARACION PREPARATORIA
 
 ###### ARTICULO 201.
 
@@ -2089,9 +2181,9 @@ Cuando el inculpado designe varias personas para que lo defiendan, señalarán q
 
 No pueden ser defensores los que se hallen presos ni los que estén procesados. Tampoco podrán serlo los que hayan sido condenados por alguno de los delitos señalados en el capítulo segundo, título noveno, del libro segundo del Código Penal, ni los ausentes que, por el lugar en que se encuentren, no puedan acudir ante el Tribunal dentro de las veinticuatro horas en que debe hacerse su nombramiento a todo defensor.
 
-### CAPITULO PRIMERO. PRUEBAS
+### CAPITULO CUARTO. AUTO DE FORMAL PRISION, DE SUJECION A PROCESO Y LIBERTAD
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
 
 ###### ARTICULO 212.
 
@@ -2155,9 +2247,9 @@ Cuando el auto de libertad se dicte en virtud de omisiones del Ministerio Públi
 
 SEGUNDA PARTE
 
-### CAPITULO SEGUNDO. CONFESION
+### CAPITULO PRIMERO. PRUEBAS
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 1994)</small>
 
 ###### ARTICULO 219.
 
@@ -2209,7 +2301,9 @@ Los tribunales no tienen límites temporales para ordenar la aportación de los 
 
 No podrá condenarse a un acusado sino cuando se pruebe que cometió el delito por el que se le acusa. En caso de duda debe absolverse.
 
-### CAPITULO TERCERO. DOCUMENTOS PUBLICOS Y PRIVADOS
+### CAPITULO SEGUNDO. CONFESION
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
 
 ###### ARTICULO 222.
 
@@ -2221,7 +2315,7 @@ La confesión es la declaración voluntaria hecha por el inculpado, con asistenc
 
 La confesión podrá rendirse ante el Ministerio Público que practique la averiguación previa o ante el juez o tribunal de la causa. En estos últimos casos se admitirá en cualquier estado del procedimiento y hasta antes de pronunciarse sentencia irrevocable.
 
-### CAPITULO CUARTO. PERITOS
+### CAPITULO TERCERO. DOCUMENTOS PUBLICOS Y PRIVADOS
 
 ###### ARTICULO 224.
 
@@ -2305,7 +2399,7 @@ II.- El cotejo se hará con documentos indubitables, o con los que las partes, d
 
 III.- El funcionario podrá ordenar que se repita el cotejo por otros peritos.
 
-### CAPITULO QUINTO. INSPECCION Y RECONSTRUCCION DE HECHOS
+### CAPITULO CUARTO. PERITOS
 
 ###### ARTICULO 239.
 
@@ -2405,7 +2499,7 @@ Cuando los peritos que perciban sueldo del erario sean nombrados por el Juez o a
 
 Cuando el funcionario que practique las diligencias lo crea conveniente, podrá ordenar que asistan peritos a ellas.
 
-### CAPITULO SEXTO. TESTIGOS
+### CAPITULO QUINTO. INSPECCION Y RECONSTRUCCION DE HECHOS
 
 ###### ARTICULO 258.
 
@@ -2503,7 +2597,7 @@ Los peritos emitirán su opinión en vista de las declaraciones rendidas y de lo
 
 Cuando alguna de las partes solicite la reconstrucción, deberá precisar cuales son los hechos y circunstancias que desea esclarecer, pudiéndose repetir la diligencia cuantas veces sea necesario, a juicio del Ministerio Público, del Juzgador o del Tribunal.
 
-### CAPITULO SEPTIMO. CONFRONTACION
+### CAPITULO SEXTO. TESTIGOS
 
 ###### ARTICULO 273.
 
@@ -2731,7 +2825,7 @@ Para la aplicación de lo ordenado en este artículo se deberá observar en lo c
 
 Los tribunales tendrán en todo tiempo la facultad de hacer comparecer a los testigos, cuando éstos no cumplan con las prevenciones que se les hagan.
 
-### CAPITULO OCTAVO. CAREOS
+### CAPITULO SEPTIMO. CONFRONTACION
 
 ###### ARTICULO 297.
 
@@ -2793,7 +2887,7 @@ Cuando sean varios los declarantes o las personas confrontadas, se verificarán 
 
 Tratándose del reconocimiento de una persona ausente mediante fotografías, dibujos o videos, se le mostrará a quien debiera hacer el reconocimiento junto con otras fotografías, dibujos o videos, que correspondan a individuos con apariencia semejante a aquélla, siguiéndose en lo conducente las disposiciones anteriores.
 
-### CAPITULO NOVENO. VALOR JURIDICO DE LA PRUEBA
+### CAPITULO OCTAVO. CAREOS
 
 ###### ARTICULO 305.
 
@@ -2819,7 +2913,7 @@ Cuando, por cualquier motivo, no pudiere obtenerse la comparecencia de alguno de
 
 Si los que deban carearse estuvieren fuera del Estado, se librará el exhorto correspondiente.
 
-### CAPITULO PRIMERO. PROCEDIMIENTO SUMARIO
+### CAPITULO NOVENO. VALOR JURIDICO DE LA PRUEBA
 
 ###### ARTICULO 310.
 
@@ -2953,7 +3047,7 @@ PRIMERA PARTE
 
 PROCEDIMIENTOS
 
-### CAPITULO SEGUNDO. DEL PROCEDIMIENTO ORDINARIO
+### CAPITULO PRIMERO. PROCEDIMIENTO SUMARIO
 
 ###### ARTICULO 328.
 
@@ -3009,7 +3103,7 @@ Cuando en el curso del juicio sumario apareciere que no se dan los supuestos del
 
 Las resoluciones en el juicio sumario no admiten más recurso que el de apelación, tratándose de auto de plazo constitucional, y de sentencia definitiva, en los términos contemplados en este código.
 
-### CAPITULO TERCERO. PROCEDIMIENTOS ANTE LOS ALCALDES JUDICIALES
+### CAPITULO SEGUNDO. DEL PROCEDIMIENTO ORDINARIO
 
 ###### ARTICULO 338.
 
@@ -3023,7 +3117,7 @@ Dictado el auto de plazo constitucional, se ordenará poner el proceso a la vist
 
 Transcurridos los plazos a que se refiere el artículo anterior, o si no se hubiere promovido prueba, el Juez declarará cerrada la instrucción y abrirá el período de juicio.
 
-### CAPITULO PRIMERO. CONCLUSIONES
+### CAPITULO TERCERO. PROCEDIMIENTOS ANTE LOS ALCALDES JUDICIALES
 
 ###### ARTICULO 341.
 
@@ -3031,9 +3125,7 @@ Transcurridos los plazos a que se refiere el artículo anterior, o si no se hubi
 
 ## TITULO SEXTO. JUICIO
 
-### CAPITULO SEGUNDO. AUDIENCIA DE VISTA
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+### CAPITULO PRIMERO. CONCLUSIONES
 
 ###### ARTICULO 342.
 
@@ -3099,7 +3191,9 @@ Si el Procurador confirma las conclusiones de no acusación, el juez, al recibir
 
 Si la defensa no formula conclusiones en el plazo señalado en el artículo 342 de este código, se tendrán por formuladas las de inculpabilidad.
 
-### CAPITULO TERCERO. SENTENCIA
+### CAPITULO SEGUNDO. AUDIENCIA DE VISTA
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 354.
 
@@ -3141,15 +3235,13 @@ Cuando el juez, después de la vista, creyere necesaria para ilustrar su criteri
 
 El auto que decrete diligencias para mejor proveer suspenderá el plazo para dictar sentencia y no admitirá recurso alguno.
 
-### CAPITULO CUARTO. ACLARACION DE SENTENCIA
+### CAPITULO TERCERO. SENTENCIA
 
 ###### ARTICULO 360.
 
 La sentencia se pronunciará de acuerdo con lo previsto en el artículo 104 de este código.
 
-### CAPITULO QUINTO. SOBRESEIMIENTO
-
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 1991)</small>
+### CAPITULO CUARTO. ACLARACION DE SENTENCIA
 
 ###### ARTICULO 361.
 
@@ -3185,7 +3277,9 @@ Contra la resolución que se dicte otorgando o negando la aclaración, no proced
 
 El trámite de la aclaración interrumpe el plazo señalado para interponer la apelación.
 
-### CAPITULO PRIMERO. REGLAS GENERALES
+### CAPITULO QUINTO. SOBRESEIMIENTO
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 369.
 
@@ -3253,7 +3347,7 @@ El auto de sobreseimiento surtirá efectos de una sentencia absolutoria, y una v
 
 ## TITULO SEPTIMO. RECURSOS
 
-### CAPITULO SEGUNDO. REVOCACION
+### CAPITULO PRIMERO. REGLAS GENERALES
 
 ###### ARTICULO 375.
 
@@ -3269,7 +3363,7 @@ La negativa a firmar o estampar sus huellas digitales, se entenderá como inconf
 
 No procederá ningún recurso cuando la parte se hubiere conformado expresamente con una resolución, o cuando no interponga el recurso dentro de los términos que la Ley señale.
 
-### CAPITULO TERCERO. APELACION
+### CAPITULO SEGUNDO. REVOCACION
 
 ###### ARTICULO 378.
 
@@ -3285,7 +3379,7 @@ El recurso se interpondrá en el acto de la notificación, o al día siguiente h
 
 El tribunal ante quien se interponga el recurso, lo admitirá o desechará de plano si creyere que no es necesario oír a las partes, en caso contrario, las citará a una audiencia verbal dentro de 3 días, en la que pronunciará la resolución que corresponda, contra la cual no se admite recurso alguno.
 
-### CAPITULO CUARTO. DENEGADA APELACION
+### CAPITULO TERCERO. APELACION
 
 ###### ARTICULO 381.
 
@@ -3505,7 +3599,7 @@ Cuando la sala notare que el defensor ha faltado a sus deberes, no interponiendo
 
 Si el defensor fuere público, el Magistrado además estará obligado a llamar la atención al superior de aquél, sobre la negligencia o ineptitud manifestada.
 
-### CAPITULO QUINTO. QUEJA
+### CAPITULO CUARTO. DENEGADA APELACION
 
 ###### ARTICULO 401.
 
@@ -3545,7 +3639,7 @@ Las partes podrán presentar por escrito, dentro de este plazo, sus alegatos.
 
 Si la admisión del recurso de apelación se declara procedente, la resolución respectiva, que deberá señalar también él o los efectos, se enviará al juez para su cumplimiento.
 
-### CAPITULO SEXTO. SENTENCIA EJECUTORIA
+### CAPITULO QUINTO. QUEJA
 
 ###### ARTICULO 409.
 
@@ -3557,7 +3651,7 @@ La Sala a que corresponda substanciar el recurso, en el término de 48 horas, le
 
 Transcurrido este término, con informe o sin él, se dictará la resolución que proceda y si estima fundado el recurso, la Sala requerirá al juez para que cumpla con las obligaciones determinadas en el artículo 195. La falta de informe a que se refiere el párrafo anterior, establece la presunción de ser cierta la omisión atribuida, y hará incurrir al juez en multa de 10 a 100 cuotas.
 
-### CAPITULO PRIMERO. COMPETENCIA OBJETIVA
+### CAPITULO SEXTO. SENTENCIA EJECUTORIA
 
 ###### ARTICULO 410.
 
@@ -3571,7 +3665,7 @@ III.- Las sentencias de segunda instancia.
 
 ## TITULO OCTAVO
 
-### CAPITULO SEGUNDO. COMPETENCIA SUBJETIVA
+### CAPITULO PRIMERO. COMPETENCIA OBJETIVA
 
 ###### ARTICULO 411.
 
@@ -3645,7 +3739,7 @@ Ningún tribunal podrá sostener competencia con su superior jerárquico, pero s
 
 Los conflictos de jurisdicción que se susciten entre los tribunales del Estado y los de la Federación o los de otra Entidad Federativa, se sustanciarán de acuerdo con las disposiciones relativas del Código Federal de Procedimientos Penales.
 
-### CAPITULO TERCERO. SUSPENSION DEL PROCEDIMIENTO
+### CAPITULO SEGUNDO. COMPETENCIA SUBJETIVA
 
 ###### ARTICULO 428.
 
@@ -3779,7 +3873,7 @@ Si en la sentencia fuere desechada la recusación, pagará el que la interpuso u
 
 De esta multa, será solidariamente responsable el que hubiere patrocinado al recusable.
 
-### CAPITULO PRIMERO. ACUMULACION DE PROCESOS
+### CAPITULO TERCERO. SUSPENSION DEL PROCEDIMIENTO
 
 ###### ARTICULO 449.
 
@@ -3841,7 +3935,7 @@ En el caso de la fracción II del mismo artículo, cuando lo solicite el inculpa
 
 ## TITULO NOVENO. INCIDENTES
 
-### CAPITULO SEGUNDO. SEPARACION DE PROCESOS
+### CAPITULO PRIMERO. ACUMULACION DE PROCESOS
 
 ###### ARTICULO 454.
 
@@ -3905,7 +3999,7 @@ El incidente de acumulación se substanciará por separado.
 
 Serán aplicables las disposiciones de este capítulo a las averiguaciones que se consignen a los tribunales, aún cuando no exista auto de formal prisión o de sujeción a proceso.
 
-### CAPITULO TERCERO. REPARACION DE DAÑO Y PERJUICIO EXIGIBLE A TERCERAS PERSONAS
+### CAPITULO SEGUNDO. SEPARACION DE PROCESOS
 
 ###### ARTICULO 465.
 
@@ -3937,7 +4031,7 @@ El auto en que se decrete la separación, sólo es apelable en el efecto devolut
 
 Cuando varios tribunales conocieren de procesos cuya separación se hubiere decretado, el que primero pronuncie sentencia ejecutoria la comunicará a los otros; éstos dictarán su fallo, de acuerdo con lo que dispone el código penal para la imposición de sanciones en caso de concurso y de reincidencia.
 
-### CAPITULO CUARTO. INCIDENTES NO ESPECIFICADOS
+### CAPITULO TERCERO. REPARACION DE DAÑO Y PERJUICIO EXIGIBLE A TERCERAS PERSONAS
 
 ###### ARTICULO 471.
 
@@ -3977,13 +4071,13 @@ El fallo condenatorio en este incidente será apelable en ambos efectos, pudiend
 
 La sentencia condenatoria será ejecutada por el propio juez, que deberá ajustarse a las disposiciones sobre ejecución de sentencia del Código de Procedimientos Civiles.
 
-### CAPITULO QUINTO. INCIDENTE DE LIBERTAD POR DESVANECIMIENTO DE DATOS
+### CAPITULO CUARTO. INCIDENTES NO ESPECIFICADOS
 
 ###### ARTICULO 480.
 
 Los incidentes cuya tramitación no se detalle en este código y que, a juicio del tribunal, no puedan resolverse de plano, y sean de aquellos que no deban suspender el curso del procedimiento, se sustanciarán por separado y del modo siguiente: se dará vista de la promoción del incidente a las partes, para que contesten en el acto de la notificación, o a más tardar dentro de los tres días siguientes. Si el tribunal lo creyere necesario o alguna de las partes lo pidiere, se abrirá un término de prueba que no exceda de cinco días, después de los cuales se citará para una audiencia que se verificará dentro de los tres días siguientes. Concurran o no las partes, el tribunal fallará desde luego el incidente.
 
-### CAPITULO UNICO
+### CAPITULO QUINTO. INCIDENTE DE LIBERTAD POR DESVANECIMIENTO DE DATOS
 
 ###### ARTICULO 481.
 
@@ -4019,9 +4113,7 @@ La resolución que declare procedente este incidente, tendrá los mismos efectos
 
 ## TITULO DECIMO. PROCEDIMIENTO RELATIVO A LOS ENFERMOS MENTALES Y SORDOMUDOS
 
-### CAPITULO PRIMERO. LIBERTAD PROVISIONAL BAJO CAUCION
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2006)</small>
+### CAPITULO UNICO
 
 ###### ARTICULO 487.
 
@@ -4073,7 +4165,9 @@ No procederá recurso alguno contra cualquier auto o resolución distintos a los
 
 ## TITULO DECIMO PRIMERO. DE LAS LIBERTADES
 
-### CAPITULO PRIMERO. REGLAS COMUNES
+### CAPITULO PRIMERO. LIBERTAD PROVISIONAL BAJO CAUCION
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2006)</small>
 
 ###### ARTICULO 493.
 
@@ -4305,7 +4399,7 @@ Para revocar la libertad caucional siempre se deberá oír previamente al Minist
 
 ## TITULO DECIMO SEGUNDO. EJECUCION DE SENTENCIAS
 
-### CAPITULO SEGUNDO. LIBERTAD PREPARATORIA
+### CAPITULO PRIMERO. REGLAS COMUNES
 
 ###### ARTICULO 512.
 
@@ -4367,9 +4461,7 @@ En lo no previsto a ese respecto por el presente artículo, el Juez se ajustará
 
 Las resoluciones dictadas en ejecución de sentencia para la reparación y perjuicio no admiten recurso alguno.
 
-### CAPITULO TERCERO. CONVERSION, CONMUTACION Y SUBSTITUCION DE SANCIONES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 1997)</small>
+### CAPITULO SEGUNDO. LIBERTAD PREPARATORIA
 
 ###### ARTICULO 517.
 
@@ -4407,7 +4499,9 @@ Las resoluciones dictadas en ejecución de sentencia para la reparación y perju
 
 (DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCIÓN DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
 
-### CAPITULO CUARTO. REHABILITACION
+### CAPITULO TERCERO. CONVERSION, CONMUTACION Y SUBSTITUCION DE SANCIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 1997)</small>
 
 ###### ARTICULO 526.
 
@@ -4431,7 +4525,7 @@ Lo dispuesto en el artículo anterior excluye la posibilidad de aplicar simultá
 
 Para que puedan operar la conversión, conmutación o substitución, es indispensable cubrir o garantizar previamente la reparación del daño o perjuicio.
 
-### CAPITULO QUINTO. INDULTO Y RECONOCIMIENTO DE LA INOCENCIA DEL SENTENCIADO
+### CAPITULO CUARTO. REHABILITACION
 
 ###### ARTICULO 531.
 
@@ -4481,7 +4575,7 @@ Los registros o anotaciones de cualquier clase, relativos a la sanción impuesta
 
 Tratándose de sentenciados por cualquier delito de carácter sexual, o trata de personas así como los reincidentes o habituales, transcurrido un tiempo igual a la sentencia más una cuarta parte sin que sea inferior a tres años, la autoridad correspondiente, previo dictamen favorable elaborado en los términos de la Ley que Regula la Ejecución de las Sanciones Penales, podrá otorgar carta de no antecedentes penales, quedando el registro, sólo para efectos del párrafo segundo de éste articulo.
 
-### CAPITULO UNICO. JUICIOS DE RESPONSABILIDAD
+### CAPITULO QUINTO. INDULTO Y RECONOCIMIENTO DE LA INOCENCIA DEL SENTENCIADO
 
 ###### ARTICULO 540.
 
@@ -4525,9 +4619,7 @@ En el primer caso, remitirá las diligencias originales con informe al Ejecutivo
 
 ## TITULO DECIMO TERCERO
 
-### CAPÍTULO PRIMERO. DEL PROCEDIMIENTO ORAL PENAL
-
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2005)</small>
+### CAPITULO UNICO. JUICIOS DE RESPONSABILIDAD
 
 ###### ARTICULO 548.
 
@@ -4555,9 +4647,9 @@ Fuera de los casos previstos en este título, para conocer de los delitos cometi
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE DICIEMBRE DE 2005)</small>
 
-### CAPITULO SEGUNDO. DEL PROCEDIMIENTO ABREVIADO
+### CAPÍTULO PRIMERO. DEL PROCEDIMIENTO ORAL PENAL
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 553.
 
@@ -5219,7 +5311,7 @@ La sentencia se pronunciará siempre en nombre del Estado de Nuevo León, en la 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE JULIO DE 2004)</small>
 
-### CAPITULO TERCERO. DE LA SUSPENSION DEL PROCEDIMIENTO A PRUEBA DEL PROCESADO
+### CAPITULO SEGUNDO. DEL PROCEDIMIENTO ABREVIADO
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
 
@@ -5321,7 +5413,9 @@ Las resoluciones en el Procedimiento Abreviado no admiten más recurso que el de
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE JULIO DE 2004)</small>
 
-### CAPITULO V. DE LOS PROMOVENTES
+### CAPITULO TERCERO. DE LA SUSPENSION DEL PROCEDIMIENTO A PRUEBA DEL PROCESADO
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 610.
 
@@ -5772,3 +5866,9 @@ Quinto.- Será aplicable el Código de Procedimientos Penales del Estado de Nuev
 Sexto.- los exhortos y rogatorias que se reciban en el Estado se diligenciarán según señale la autoridad exhortante de acuerdo con el sistema del Código establecido en el presente Decreto o bien de acuerdo con lo señalado en el Código de Procedimientos Penales del Estado de Nuevo León publicado en el Periódico Oficial del Estado de fecha 28 de marzo de I990 y sus reformas. En caso de que la autoridad exhortante omita hacer la referencia, el Juez se ajustará a las reglas establecidas en el presente Decreto.
 
 Séptimo.- Los epígrafes de cada Artículo de este Código son de carácter indicativo por lo que no definen, interpretan o limitan el contenido de los artículos.
+
+P.O. 15 DE JUNIO DE 2012.
+
+Primero.- Las reformas al Artículo 287 Bis 2, del Artículo Segundo del presente Decreto, entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Los Artículos 98 Bis a 98 Bis 5; así como la reforma al Artículo 287 Bis 3 señalados en el Artículo Segundo del presente Decreto; así como las demás disposiciones de los Artículos Primero, Segundo y Tercero del presente Decreto, entrarán en vigor cuando inicie la vigencia de las reformas a la Ley Orgánica del Poder Judicial del Estado de Nuevo León, que establece, las atribuciones de las autoridades jurisdiccionales en la materia.
