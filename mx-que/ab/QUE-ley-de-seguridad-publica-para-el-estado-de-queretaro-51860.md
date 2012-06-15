@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-seguridad-publica-para-el-estado-de-queretaro-51860"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-15"
-last_updated: "2008-02-29"
+last_updated: "2012-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE QUERETARO
 
-LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE QUERETARO
+LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE FEBRERO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 15 de septiembre de 2006.
 
@@ -43,9 +43,11 @@ LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE QUERÉTARO
 
 ### CAPITULO ÚNICO
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 1.
 
-Las disposiciones de la presente Ley son de orden público, interés general y observancia obligatoria en el Estado de Querétaro. Tiene por objeto regular la prestación de los servicios de seguridad pública y privada, establecer el marco de coordinación entre el Ejecutivo del Estado y los Municipios en la materia, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos.
+Las disposiciones de la presente Ley son de orden público, interés general y observancia obligatoria en el Estado de Querétaro. Tiene por objeto regular la prestación de los servicios de seguridad pública y privada, establecer el marco de coordinación en la materia, entre el Poder Ejecutivo del Estado y los Municipios, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTÍCULO 2.
 
@@ -79,31 +81,33 @@ Los policías podrán ser comisionados, por instrucciones superiores, para cumpl
 
 No podrá laborar en estas áreas personal sindicalizado.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 7.
 
-Para los efectos de la presente Ley, se entenderá por:
+Para los efectos de la presente Ley se entenderá por:
 
-I. Corporaciones de Policía o Corporación, a todas aquellas dependencias del Ejecutivo del Estado y de los municipios, que desempeñen funciones de tránsito y vialidad de su competencia y/o prevención del delito y faltas administrativas;
+I. Cargo: Puesto dentro de la estructura jerárquica que detenta algún mando; se otorga por designación directa, de acuerdo con el reglamento respectivo;
 
-II. Policía o personal operativo: a quien realice las funciones descritas en la fracción anterior y cumplan con los requisitos de ingreso y permanencia que esta Ley y los demás ordenamientos legales establecen;
+II. Categorías: Conjunto de grados establecido en la estructura orgánica;
 
-III. Cargo: Es el puesto dentro de la estructura jerárquica que detenta algún mando; se otorga por designación directa de acuerdo con el reglamento respectivo;
+III. Comisión: Encargo que se hace a una persona para realizar una actividad determinada;
 
-IV. Grado: Es el nivel escalafonario dentro de la carrera policial y sólo se otorga por concurso;
+IV. Corporaciones de Policía o Corporación: Dependencias del Poder Ejecutivo del Estado y de los Municipios, que desempeñen las funciones de tránsito y vialidad de su competencia, prevención del delito y faltas administrativas;
 
-V. Categorías. Es el Conjunto de grados establecido en la estructura orgánica;
+V. Empresas de seguridad privada: Personas físicas y morales legalmente constituidas, cuyo objeto social sea la prestación de servicios de seguridad, ya sea para la guarda o custodia de casas habitación, locales, oficinas, establecimientos bancarios, comerciales o de servicios, estacionamientos, industrias, transportación de valores, eventos socio-organizativos o custodia de personas, así como aquellas que brinden consultoría y asesoría respecto de dichos servicios;
 
-VI. Mando: Es la autoridad ejercida por un superior jerárquico de la Corporación, en servicio activo, sobre el personal que se encuentre subordinado a él en razón de su cargo o comisión
+VI. Grado: Nivel escalafonario dentro de la carrera policial, otorgado por concurso;
 
-VII. Comisión: Es el encargo que se le hace a una persona para realizar una actividad determinada;
+VII. Mando: Autoridad ejercida por un superior jerárquico de la Corporación, en servicio activo, sobre el personal que se encuentre subordinado a él, en razón de su cargo o comisión;
 
-VIII. Servicio: Actividad específica dentro del trabajo policial que es asignada a cada policía, ya sea temporal o permanentemente, dependiendo de las necesidades operativas de la Corporación;
+VIII. Servicio: Actividad específica dentro del trabajo policial, que es asignada a cada policía, ya sea temporal o permanentemente, dependiendo de las necesidades operativas de la corporación;
 
-IX. Personal sin carrera policial, son aquellas personas que son contratadas por una Corporación para realizar una función policial y no son sujetos a la carrera policial;
+IX. Personal de servicio de seguridad privada: Personas que, en forma independiente, presten servicios de seguridad personal; desempeñen la función de vigilancia en casas habitación o comercios; y los empleados de empresas comerciales y bancarias, cuya actividad principal sea la prestación del servicio de seguridad privada en las instalaciones y para los empleados de ésta;
 
-X. Empresas de seguridad privada: A las personas físicas o morales legalmente constituidas, cuyo objeto social sea la prestación de servicios de seguridad, ya sea para la guarda o custodia de casas habitación, locales, oficinas, establecimientos bancarios, comerciales o de servicios, estacionamientos, industrias, transportación de valores, eventos socio-organizativos o custodia de personas; así como aquellas que brinden consultoría y asesoría respecto de dichos servicios; y
+X. Personal sin carrera policial: Personas contratadas por una corporación para realizar una función policial, sin ser sujetos a la carrera policial; y
 
-XI. Personal de servicio de seguridad privada: A las personas que en forma independiente presten servicios de seguridad personal; aquellas que en forma independiente desempeñan la función de vigilancia en casas habitación o comercios; a los empleados de una empresa comerciales y bancarias cuya actividad principal sea la prestación del servicio de seguridad privada en las instalaciones y/o para los empleados de ésta.
+XI. Policía o personal operativo: Las personas que realicen las funciones descritas en la fracción IV de este artículo y cumplan con los requisitos de ingreso y permanencia que esta Ley y los demás ordenamientos legales establezcan.
 
 ## TITULO SEGUNDO. DE LAS AUTORIDADES EN MATERIA DE SEGURIDAD PÚBLICA Y SUS ATRIBUCIONES
 
@@ -123,7 +127,9 @@ IV. El Procurador General de Justicia;
 
 V. El Consejo Estatal de Seguridad Pública;
 
-VI. El Director de la Policía Investigadora Ministerial;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2012)</small>
+
+VI. El Director de Investigación del Delito;
 
 VII. El Director de la Policía Estatal;
 
@@ -147,7 +153,9 @@ V. Designar y remover al titular de la Secretaría de Seguridad Ciudadana;
 
 VI. Aprobar y expedir el Programa Estatal de Seguridad Pública y los, que de él deriven;
 
-VII. Celebrar con la Federación, los Estados y Municipios, con personas físicas y morales públicas o privadas, convenios y acuerdos que el interés general requiera para la mejor prestación del servicio de seguridad pública;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2012)</small>
+
+VII. Celebrar con la Federación, las Entidades Federativas y los Municipios, con personas físicas y morales, públicas o privadas, convenios y acuerdos que el interés general requiera, para la mejor prestación del servicio de seguridad pública;
 
 VIII. Coadyuvar con las autoridades federales, municipales y de otras entidades de la República, en la adopción de medidas y desarrollo de acciones tendientes a mejorar los servicios de seguridad pública; y
 
@@ -169,7 +177,9 @@ V. Instrumentar acciones de modernización en la infraestructura, equipo y recur
 
 VI. Suscribir convenios y acuerdos de colaboración en materia de seguridad pública con la federación, entidades federativas y municipios, previo acuerdo con el Gobernador del Estado, así como con particulares, para la protección de la integridad física de las personas y preservación de sus bienes en situaciones de peligro o amenazas por disturbios, violencia o riesgo inminente;
 
-VII. Fomentar en el personal de la Policía Estatal el respeto a los derecho (sic) humanos y el ejercicio de sus funciones con estricto apego a los principios de actuación de legalidad, eficiencia, profesionalismo y honradez;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2012)</small>
+
+VII. Fomentar, en el personal de la Policía Estatal, el respeto a los derechos humanos y el ejercicio de sus funciones con estricto apego a los principios de actuación de legalidad, objetividad, eficiencia, profesionalismo y honradez;
 
 VIII. Presidir, en ausencia del Gobernador del Estado, el Consejo Estatal de Seguridad Pública;
 
@@ -197,21 +207,27 @@ XIX. Apoyar a las Corporaciones de Policía para que operen sus respectivos cons
 
 XX. Las demás que le señalen las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 11.
 
-El Secretario de Gobierno tendrá, en materia de seguridad pública, las facultades derivadas de la Ley de Ejecución de Penas y Medidas de Seguridad del Estado de Querétaro, las demás señaladas en los diversos ordenamientos legales y las que resulten de los convenios de colaboración que celebre el Gobierno del Estado.
+El Secretario de Gobierno tendrá, en materia de seguridad pública, las facultades derivadas de la Ley de Ejecución de Penas y Medidas de Seguridad del Estado de Querétaro, así como las señaladas en otros ordenamientos legales y convenios de colaboración que celebre el Poder Ejecutivo del Estado, que resulten aplicables.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 12.
 
-El Procurador General de Justicia tendrá, en materia de seguridad pública, las facultades derivadas de la Ley Orgánica de la Procuraduría General de Justicia, las demás señaladas en los diversos ordenamientos legales y las que resulten de los convenios de colaboración que celebre el Gobierno del Estado.
+El Procurador General de Justicia tendrá, en materia de seguridad pública, las facultades derivadas de la Ley de la Procuraduría General de Justicia del Estado de Querétaro y las señaladas en otros ordenamientos legales y convenios de colaboración que celebre el Poder Ejecutivo del Estado, que resulten aplicables.
 
 ###### ARTÍCULO 13.
 
 Corresponden al Consejo Estatal de Seguridad Pública las facultades y obligaciones que se señalan en el artículo 39 de la presente Ley.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 14.
 
-La Policía Investigadora Ministerial tendrá, en materia de seguridad pública, las facultades, estructura y régimen interior de sus miembros derivadas de la Ley Orgánica de la Procuraduría General de Justicia, sus reglamentos y las demás señaladas en los diversos ordenamientos legales y las que resulten de los convenios de colaboración que celebre el Gobierno del Estado.
+La Dirección de Investigación del Delito tendrá, en materia de seguridad pública, las facultades, estructura y régimen interior de sus miembros, derivadas de la Ley de la Procuraduría General de Justicia del Estado de Querétaro, sus reglamentos y las señaladas en otros ordenamientos legales y convenios de colaboración que celebre el Poder Ejecutivo del Estado, que resulten aplicables.
 
 ###### ARTÍCULO 15.
 
@@ -219,7 +235,9 @@ Corresponde al Director de la Policía Estatal:
 
 I. Asumir el mando de la Policía Estatal;
 
-II. Vigilar que la actuación de los elementos sea siempre apegada a los principios de legalidad, eficiencia, profesionalismo y honradez;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2012)</small>
+
+II. Vigilar que la actuación de los elementos, sea siempre apegada a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos;
 
 III. Propiciar la participación de la sociedad en las tareas de planeación y supervisión de la Policía Estatal;
 
@@ -257,7 +275,9 @@ VI. Realizar operativos de vigilancia para detener en flagrancia a probables res
 
 VII. Prestar apoyo a los órganos jurisdiccionales, administrativos y electorales cuando así lo requieran, para el debido ejercicio de sus funciones;
 
-VIII. Observar y hacer cumplir lo dispuesto en el Programa Estatal de Seguridad Pública del Estado en el ámbito de su competencia y con estricto apego a los principios de actuación de legalidad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos; y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2012)</small>
+
+VIII. Observar y hacer cumplir lo dispuesto en el Programa Estatal de Seguridad Pública del Estado, en el ámbito de su competencia y con estricto apego a los principios de actuación, de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos; y
 
 IX. Las demás que le señale esta Ley, su reglamento interno y demás disposiciones legales aplicables.
 
@@ -283,13 +303,17 @@ VI. Las demás que determinen con ese carácter las disposiciones legales aplica
 
 Corresponde a los Presidentes Municipales:
 
-I. Ejercer el mando del cuerpo de policía preventiva de seguridad pública y tránsito, en términos de la Ley para la Organización Política y Administrativa del Municipio Libre del Estado de Querétaro, reglamentos y demás disposiciones legales aplicables a fin de salvaguardar la integridad, bienes y derechos de las personas físicas y morales y preservar las libertades, el orden y la paz públicos en el territorio del Municipio;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2012)</small>
+
+I. Ejercer el mando de la corporación de policía preventiva de seguridad pública y tránsito, en términos de la Ley Orgánica Municipal del Estado de Querétaro, reglamentos y demás disposiciones legales aplicables, a fin de salvaguardar la integridad, bienes y derechos de las personas físicas y morales, y preservar las libertades, el orden y la paz públicos en el territorio del Municipio;
 
 II. Proponer al Ayuntamiento para su aprobación el Programa de Seguridad Pública Municipal;
 
 III. Ejecutar los acuerdos y convenios en materia de seguridad pública aprobados por el Ayuntamiento;
 
-IV. Nombrar al Titular de la Corporación de Policía en el municipio;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2012)</small>
+
+IV. Nombrar al titular de la Corporación de Policía Municipal;
 
 V. Prestar auxilio a las autoridades federales y estatales de seguridad pública cuando sea requerido y resulte legalmente procedente; pudiendo igualmente auxiliar a las autoridades de otros municipios, en términos de los convenios de colaboración o coordinación que hubieran celebrado;
 
@@ -297,7 +321,9 @@ VI. Cumplir y hacer cumplir esta Ley, el bando y reglamentos municipales que se 
 
 VII. Dictar, en el ámbito de su competencia, las disposiciones administrativas para la observancia y cumplimiento de esta Ley;
 
-VIII. Celebrar con el Gobierno del Estado y los demás municipios, con personas físicas y morales, públicas o privadas, los convenios y acuerdos que el interés general requiera para la mejor prestación de la función de seguridad pública, conforme a lo dispuesto por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, esta Ley y la Ley para la Organización Política y Administrativa del Municipio Libre del Estado de Querétaro;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2012)</small>
+
+VIII. Celebrar con el Poder Ejecutivo del Estado y los demás municipios, con personas físicas y morales, públicas o privadas, los convenios y acuerdos que el interés general requiera para la prestación de la función de seguridad pública, conforme a lo dispuesto por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública, la Ley Orgánica Municipal del Estado de Querétaro y la presente Ley;
 
 IX. Expedir los nombramientos de todo el personal operativo y designar los mandos de la Corporación de Policía;
 
@@ -307,7 +333,9 @@ XI. Participar en las sesiones del Consejo Estatal de Seguridad Pública;
 
 XII. Presidir el Consejo Municipal de Seguridad Pública;
 
-XIII. Integrar y presidir el Consejo de Honor y Justicia a que se refiere esta Ley;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2012)</small>
+
+XIII. Integrar y presidir, por sí o a través de quien designe, el Consejo de Honor y Justicia a que se refiere esta Ley;
 
 XIV. Implementar las medidas necesarias en la Corporación de Policía a su cargo, para eficientar el servicio de seguridad pública, vigilando su cumplimiento, adoptando las medidas correctivas conducentes;
 
@@ -351,9 +379,13 @@ Salvo lo previsto en las disposiciones reglamentarias que emita el Ayuntamiento,
 
 I. Formular el programa de Seguridad Pública Municipal de acuerdo a lo establecido en el Plan Estatal de Desarrollo, Plan Municipal de Desarrollo y el Programa Estatal de Seguridad Pública;
 
-II. Organizar, operar, supervisar y controlar el cuerpo preventivo de seguridad pública municipal;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2012)</small>
 
-III. Aplicar las directrices que conforme a sus atribuciones expresas dicten las autoridades federales, estatales y municipales para la prestación del servicio, coordinación, funcionamiento, normatividad técnica y disciplina del cuerpo preventivo de seguridad pública;
+II. Organizar, operar, supervisar y controlar la corporación de policía preventiva de seguridad pública municipal;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2012)</small>
+
+III. Aplicar las directrices que, conforme a sus atribuciones expresas, dicten las autoridades federales, estatales y municipales, para la prestación del servicio, coordinación, funcionamiento, normatividad técnica y disciplina de la corporación de policía preventiva de seguridad pública municipal;
 
 IV. Integrar la estadística delictiva y efectuar la supervisión de las acciones de seguridad pública municipal, por sí o a través del funcionario que él designe;
 
@@ -403,9 +435,13 @@ VI. Realizar operativos de vigilancia para detener en flagrancia a probables res
 
 VII. Prestar apoyo a los órganos jurisdiccionales y administrativos cuando así lo requieran, para el debido ejercicio de sus funciones;
 
-VIII. Observar y hacer cumplir lo dispuesto en el Programa Estatal de Seguridad Pública del Estado en el ámbito de su competencia y con estricto apego a los principios de actuación de legalidad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2012)</small>
 
-IX. Observar y hacer cumplir lo dispuesto en el Programa Municipal de Seguridad Pública del Estado en el ámbito de su competencia y con estricto apego a los principios de actuación de legalidad, eficiencia, profesionalismo y honradez y respeto a los derechos humanos; y
+VIII. Observar y hacer cumplir lo dispuesto en el Programa Estatal de Seguridad Pública del Estado, en el ámbito de su competencia y con estricto apego a los principios de actuación, de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2012)</small>
+
+IX. Observar y hacer cumplir lo dispuesto en el Programa Municipal de Seguridad Pública del Estado, en el ámbito de su competencia y con estricto apego a los principios de actuación, de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos; y
 
 X. Las demás que establezcan las disposiciones legales aplicables.
 
@@ -503,7 +539,9 @@ g. El Delegado en Querétaro de la Procuraduría General de la República;
 
 h. El Representante en el Estado del Centro de la Secretaría de Comunicaciones y Transportes; e
 
-i. Hasta ocho consejeros ciudadanos, designados por el Ejecutivo Estatal;
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2012)</small>
+
+i. Hasta ocho consejeros ciudadanos, designados por el Gobernador del Estado;
 
 IV. Un Secretario Técnico; y
 
@@ -537,9 +575,11 @@ VI. No ser miembro o militante de algún partido o agrupación política; y
 
 VII. No contar con antecedentes penales, ni tener adicción a drogas o enervantes.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 37.
 
-Los consejeros ciudadanos durarán en su encargo hasta la vigencia del periodo del Ejecutivo Estatal que los nombró.
+Los consejeros ciudadanos durarán en su encargo sólo durante la vigencia del periodo del Gobernador del Estado que los nombró.
 
 ###### ARTÍCULO 38.
 
@@ -605,11 +645,13 @@ XXV. Crear un fondo para fortalecer la estructura y equipamiento de los cuerpos 
 
 XXVI. Las demás que se requieran para el cumplimiento de los objetivos del Consejo Estatal.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 40.
 
 Los miembros del Consejo podrán proponer acuerdos y resoluciones, así como vigilar su cumplimiento.
 
-También podrán evaluar periódicamente los trabajos y eficiencia del Secretario Técnico, pudiendo, en su caso, recomendar al Titular del Ejecutivo Estatal su remoción, fundando y motivando su propuesta.
+También podrán evaluar periódicamente los trabajos y eficiencia del Secretario Técnico, pudiendo, en su caso, recomendar al Gobernador del Estado su remoción, fundando y motivando su propuesta.
 
 ###### ARTÍCULO 41.
 
@@ -679,7 +721,9 @@ Corresponde al Secretario Técnico del Consejo Estatal de Seguridad Pública:
 
 I. Levantar las minutas de trabajo del Consejo Estatal de Seguridad Pública y de las comisiones que lo integran, recabando las firmas y entregarlas a cada miembro del Consejo o comisión, según sea el caso;
 
-II. Llevar el archivo de los acuerdos que se tomen en el Consejo y resoluciones del Consejo Estatal de Seguridad Pública;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2012)</small>
+
+II. Llevar el archivo de los acuerdos y resoluciones que se tomen en el Consejo Estatal de Seguridad Pública;
 
 III. Llevar el archivo de los acuerdos que se tomen en las comisiones que integran el Consejo;
 
@@ -813,7 +857,9 @@ X. las demás que le señalen las disposiciones legales aplicables.
 
 El Secretario Ejecutivo del Consejo Municipal de Seguridad Pública tendrá las siguientes atribuciones y obligaciones:
 
-I. Coadyuvar en la elaboración de la convocatoria que expida el Presidente del Consejo para la celebración de las sesiones del Consejo;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2012)</small>
+
+I. Coadyuvar en la elaboración de la convocatoria que expida el Presidente, para la celebración de las sesiones del Consejo;
 
 II. Certificar los acuerdos que se tomen en el Consejo y participar en los convenios que se suscriban por el Consejo Municipal de Seguridad Pública;
 
@@ -855,7 +901,9 @@ h. Informar al Consejo Municipal de sus actividades;
 
 i. Colaborar en la elaboración de la propuesta del contenido, políticas, lineamientos y acciones del Programa Municipal de Seguridad Pública, y someterlas a la aprobación del Consejo; y
 
-j. Las demás que le confieran las disposiciones legales aplicables y las que le asigne el Consejo, el Presidente o el Secretario Ejecutivo del Consejo.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2012)</small>
+
+j. Las demás que le confieran las disposiciones legales aplicables y las que le asigne el Consejo, el Presidente o el Secretario Ejecutivo del mismo.
 
 ###### ARTÍCULO 59.
 
@@ -927,7 +975,9 @@ Los prestadores del servicio de seguridad privada sólo podrán consultar el Reg
 
 La información a que se refiere el presente título, deberá integrarse en los registros siguientes:
 
-I. Registro Estatal de Personal;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2012)</small>
+
+I. Registro Estatal de Personal de Seguridad;
 
 II. Registro Estatal de Armamento y Municiones;
 
@@ -969,25 +1019,33 @@ VI. Presenten documentos falsos o alterados al Registro Estatal de Personal de S
 
 El servidor público que incurra en alguna de las conductas previstas en el presente artículo, será sancionado en los términos de esta ley, el reglamento de la Corporación y la legislación aplicable.
 
-#### SECCIÓN SEGUNDA. DEL REGISTRO ESTATAL DE PERSONAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JUNIO DE 2012)</small>
+
+#### SECCIÓN SEGUNDA. DEL REGISTRO ESTATAL DE PERSONAL DE SEGURIDAD
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 72.
 
-El Registro Estatal de Personal estará constituido por el conjunto de documentos y elementos técnicos, tendientes a controlar administrativamente la información personalizada de quienes laboran o han laborado en las Corporaciones de Policía estatales y municipales o como prestadores del servicio de seguridad privada, los custodios de los Centros de Readaptación Social y el personal operativo de la Policía Investigadora Ministerial.
+El Registro Estatal de Personal de Seguridad, estará constituido por el conjunto de documentos y elementos técnicos tendientes a controlar administrativamente la información personalizada de quienes laboran o han laborado en las corporaciones de policía estatales y municipales o como prestadores del servicio de seguridad privada, los custodios de los Centros de Readaptación Social y el personal operativo de la Dirección de Investigación del Delito.
 
 ###### ARTÍCULO 73.
 
 La información relativa al personal de seguridad pública o privada, sólo podrá registrarse ante el Consejo Estatal de Seguridad Pública, en los términos y lugares que se designen para tal efecto en el reglamento respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 74.
 
-La consulta al Registro Estatal de Personal será obligatoria y previa al ingreso de toda persona a cualquier institución de seguridad pública o privada, incluyendo las de formación y capacitación.
+La consulta al Registro Estatal de Personal de Seguridad será obligatoria y previa al ingreso de toda persona a cualquier institución de seguridad pública o privada, incluyendo las de formación y capacitación.
 
 Con los resultados de la consulta la autoridad procederá de conformidad con el reglamento respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 75.
 
-Realizada la consulta en el Registro Estatal de Personal, el Consejo Estatal de Seguridad Pública expedirá en forma inmediata una certificación en cualquiera de los sentidos siguientes
+Realizada la consulta en el Registro Estatal de Personal de Seguridad, el Consejo Estatal de Seguridad Pública expedirá, en forma inmediata, una certificación en cualquiera de los sentidos siguientes:
 
 I. De no inconveniente para la contratación, cuando la persona a contratar no tenga antecedentes en dependencias y Corporaciones de Policía o no cuente con antecedentes negativos;
 
@@ -1007,17 +1065,21 @@ IV. Los demás que señale esta Ley, y los que por acuerdo expreso del Consejo E
 
 Los titulares de las Corporaciones de Policía, los prestadores de servicios de seguridad privada, los Centros de Readaptación Social y la Procuraduría General de Justicia en el Estado, deberán abstenerse de contratar a las personas respecto de las que se haya emitido certificación de no contratación, en los términos de este precepto; en caso de incumplimiento, se estará a lo dispuesto por el reglamento interior del Consejo Estatal de Seguridad Pública.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 77.
 
-Cuando una persona ingrese en cualquiera de las Corporaciones de Policía o como prestador de servicios de seguridad privada, custodio de los Centros de Readaptación Socia! o personal operativo de la Policía Investigadora Ministerial, deberá ser notificado de su obligación de acudir al Consejo Estatal de Seguridad Pública, a fin de tramitar su registro y obtener su Clave Única de Identificación Policial ante el Sistema Nacional de Seguridad Pública.
+Cuando una persona ingrese en cualquiera de las corporaciones de policía o como prestador de servicios de seguridad privada, custodio de los Centros de Readaptación Social o personal operativo de la Dirección de Investigación del Delito, deberá ser notificado de su obligación de acudir al Consejo Estatal de Seguridad Pública, a fin de tramitar su registro y obtener su Clave Única de Identificación Policial, ante el Sistema Nacional de Seguridad Pública.
 
 ###### ARTÍCULO 78.
 
 La Clave a que se refiere el artículo anterior, será única y permanente, y deberá ser utilizada para los trámites oficiales del personal de manera obligatoria.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 79.
 
-En el Registro Estatal de Personal constarán los expedientes personales de quienes estén obligados a obtener registro en los términos del artículo 77 del presente ordenamiento, los cuales contendrán lo siguiente:
+En el Registro Estatal de Personal de Seguridad, constarán los expedientes personales de quienes estén obligados a obtener registro, en los términos del artículo 77 del presente ordenamiento, los cuales contendrán lo siguiente:
 
 I. Clave Única de Identificación Policial;
 
@@ -1059,9 +1121,11 @@ XIX. Datos de identificación de los procesos penales dentro de los cuales haya 
 
 XX. Las demás que señalen las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 80.
 
-Los policías están obligados a notificar, ante su superior jerárquico inmediato, cualquier cambio o modificación que se produzca en los datos que hayan aportado con anterioridad al Registro Estatal de Personal, en un plazo no mayor de tres días hábiles contados a partir de que haya ocurrido el cambio.
+Los policías están obligados a notificar, a su superior jerárquico inmediato, cualquier cambio o modificación que se produzca en los datos que hayan aportado con anterioridad al Registro Estatal de Personal de Seguridad, en un plazo no mayor de tres días hábiles contados a partir de que haya ocurrido el cambio.
 
 ###### ARTÍCULO 81.
 
@@ -1147,9 +1211,11 @@ La omisión de lo anterior será causa de responsabilidad tratándose de policí
 
 El Consejo Estatal de Seguridad Pública, vigilará el cumplimiento de esta disposición con la facultad de solicitar los informes respectivos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 98.
 
-Las autoridades judiciales y las administrativas notificarán al Consejo Estatal de Seguridad Pública, los autos de procesamiento, sentencias y sanciones administrativas, que se dicten en contra de los Policías estatales o municipales, custodios o policías investigadores, ministeriales o de los prestadores de servicio de seguridad privada, así como cualquier cambio que modifique, confirme o revoque tales resoluciones.
+Las autoridades judiciales y las administrativas, notificarán al Consejo Estatal de Seguridad Pública los autos de procesamiento, sentencias y sanciones administrativas que se dicten en contra de los policías estatales o municipales, custodios o agentes de la Dirección de Investigación del Delito o de los prestadores de servicio de seguridad privada, así como cualquier cambio que modifique, confirme o revoque tales resoluciones.
 
 Las órdenes de presentación o aprehensión, sólo se notificarán al Registro cuando sean ejecutadas, procurando lo pertinente para que no se ponga en riesgo la investigación o la causa procesal respectiva.
 
@@ -1313,9 +1379,11 @@ La Secretaría de Seguridad Ciudadana auxiliará a los Presidentes Municipales c
 
 ### CAPITULO I. DE LAS OBLIGACIONES DE LOS POLICÍAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 114.
 
-Los Policías estatales y municipales sujetarán su actuación observando los principios de legalidad, eficiencia, profesionalismo y honradez; cumpliendo en todo momento con los deberes y obligaciones siguientes:
+Los policías estatales y municipales sujetarán su actuación observando los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, cumpliendo en todo momento con los deberes y obligaciones siguientes:
 
 I. Conducirse siempre con apego al orden jurídico y con respeto a los derechos humanos;
 
@@ -1435,11 +1503,17 @@ XVI. Contar con alojamiento oficial y alimentación, cuando las necesidades del 
 
 XVII. Gozar de los beneficios de la seguridad social en los términos que determinen las disposiciones reglamentarias de esta Ley; los cuales no podrán ser menores a las que se establezcan para el personal administrativo de base del gobierno del estado o municipio según sea el caso;
 
-XVIII. Recibir gratificación anual y disfrutar de franquicias, permisos, licencias y vacaciones en los términos de las disposiciones reglamentarias respectivas, las cuales no podrán ser menores a las que se establezcan para el personal administrativo de base del gobierno del estado o municipio según sea el caso;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2012)</small>
 
-XIX. Contar con un seguro de vida, en los términos que señalen las disposiciones reglamentarias respectivas, cuya prima deberá ser mayor al que se establezca para el personal administrativo de base del gobierno del estado o municipio según sea el caso;
+XVIII. Recibir gratificación anual y disfrutar de franquicias, permisos, licencias y vacaciones en los términos de las disposiciones reglamentarias respectivas, las cuales no podrán ser menores a las que se establezcan para el personal administrativo de base del Poder Ejecutivo del Estado o de los municipios, según sea el caso;
 
-XX. Recibir el beneficio de la pensión o jubilación en los términos de las disposiciones reglamentarias, las cuales no podrán ser menores a las que se establezcan para el personal administrativo de base del gobierno del estado o municipio según sea el caso;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2012)</small>
+
+XIX. Contar con un seguro de vida, en los términos que señalen las disposiciones reglamentarias respectivas, cuya prima deberá ser mayor al que se establezca para el personal administrativo de base del Poder Ejecutivo del Estado o de los municipios, según sea el caso;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2012)</small>
+
+XX. Recibir el beneficio de la pensión o jubilación en los términos de las disposiciones reglamentarias, las cuales no podrán ser menores a las que se establezcan para el personal administrativo de base del Poder Ejecutivo del Estado o de los municipios, según sea el caso;
 
 XXI. Recibir oportuna atención médica y el tratamiento adecuado, sin costo, cuando en el ejercicio de sus funciones sufran lesiones o accidentes;
 
@@ -1447,9 +1521,11 @@ XXII. Recibir atención psicológica por efectos perjudiciales a su persona deri
 
 XXIII. Las demás que esta Ley y los otros Orgánica ordenamientos legales establezcan.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 116.
 
-El personal sin carrera policial de las Corporaciones tendrá los mismos deberes y obligaciones que los policías de carrera, excepto aquellos que tengan relación directa con la carrera policial; respecto de sus derechos y relación laboral, se regirán conforme a lo establecido en la Ley de Trabajadores al Servicio del Estado y Municipios.
+El personal sin carrera policial de las corporaciones, tendrá los mismos deberes y obligaciones que los policías de carrera, excepto aquellos que tengan relación directa con la carrera policial; respecto de sus derechos y relación laboral, se regirán conforme a lo establecido en la Ley de los Trabajadores del Estado de Querétaro.
 
 ###### ARTÍCULO 117.
 
@@ -1459,9 +1535,11 @@ Las plazas operativas sólo podrán ser ocupadas por policías de carrera, salvo
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 118.
 
-La carrera policial, es el mecanismo de carácter obligatorio y permanente que garantiza la igualdad de oportunidades en el desarrollo profesional de los policías, de manera planificada, con base en el mérito, la capacidad y la evaluación periódica y continua. Se regulará conforme a este ordenamiento, a los convenios que en la materia suscriba el Ejecutivo del Estado y los Presidentes Municipales en sus respectivos ámbitos de competencia, en el marco del Sistema Nacional de Seguridad Pública y a los reglamentos que para cada Corporación se expidan.
+La carrera policial, es el mecanismo de carácter obligatorio y permanente que garantiza la igualdad de oportunidades en el desarrollo profesional de los policías, de manera planificada, con base en el mérito, la capacidad y la evaluación periódica y continua. Se regulará conforme a este ordenamiento, a los convenios que en la materia suscriba el Poder Ejecutivo del Estado y los presidentes municipales, en sus respectivos ámbitos de competencia, en el marco del Sistema Nacional de Seguridad Pública y los reglamentos que para cada corporación se expidan.
 
 ###### ARTÍCULO 119.
 
@@ -1499,11 +1577,15 @@ El Secretario de Seguridad Ciudadana y los Ayuntamientos, en el ámbito de sus r
 
 La Comisión de Carrera Policial es el órgano colegiado responsable de planear, coordinar, dirigir y supervisar la carrera policial, mediante el conocimiento y resolución de los procedimientos comprendidos en ésta, con excepción del régimen disciplinario.
 
-En ejercicio de sus atribuciones constitucionales, cada Ayuntamiento adoptará para las Corporaciones municipales una Comisión de Carrera Policial en los términos de esta sección o la figura que decida establecer mediante las normas generales pertinentes, cuidando en todo momento cumplir con lo establecido en los artículos 23 y 24 de la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Publica.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2012)</small>
+
+En ejercicio de sus atribuciones constitucionales, cada Ayuntamiento adoptará para las corporaciones municipales una Comisión de Carrera Policial, en los términos de esta sección o la figura que decida establecer mediante las normas generales pertinentes, cuidando en todo momento cumplir con lo establecido en los artículos 23 y 24 de la Ley General del Sistema Nacional de Seguridad Pública.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 124.
 
-Cada Corporación deberá contar con una Comisión de Carrera Policial, la cual está obligada a informar de todas sus resoluciones al Consejo Estatal de Seguridad Pública, en los términos de la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública.
+Cada corporación deberá contar con una Comisión de Carrera Policial, la cual está obligada a informar de todas sus resoluciones al Consejo Estatal de Seguridad Pública, en los términos de la Ley General del Sistema Nacional de Seguridad Pública.
 
 ###### ARTÍCULO 125.
 
@@ -1555,7 +1637,9 @@ II. Un Secretario, que será designado por el Presidente del Consejo, y deberá 
 
 III. Un Vocal, que será el titular del Órgano de Control Interno;
 
-IV. Dos vocales ciudadanos, que serán designados por el Titular del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2012)</small>
+
+IV. Dos vocales ciudadanos, que serán designados por el Gobernador del Estado;
 
 V. Dos Vocales, quienes deberán ser insaculados de entre los elementos policiales que tengan por lo menos categoría de oficial o inspector y que gocen de reconocida honorabilidad y probidad. Estos Vocales durarán en su cargo un año y no serán reelectos para el año siguiente; y
 
@@ -1563,7 +1647,9 @@ VI. Los demás que se establezcan en su reglamento interno.
 
 Para cada uno de estos cargos se designará un suplente.
 
-En ejercicio de sus atribuciones, los Ayuntamientos determinarán las instancias encargadas de la disciplina interna de sus Corporaciones de Policía. En tanto no decidan lo contrario, las Corporaciones municipales contarán con su propio Consejo de Honor y Justicia, que se integrará en los mismos términos de los previsto (sic) en este precepto para el Consejo de Honor y Justicia Estatal.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2012)</small>
+
+En ejercicio de sus atribuciones, los Ayuntamientos determinarán las instancias encargadas de la disciplina interna de sus corporaciones de policía. En tanto no decidan lo contrario, las corporaciones municipales contarán con su propio Consejo de Honor y Justicia, que se integrará conforme lo establezca el Ayuntamiento respectivo, que podrá tomar como referencia el Consejo de Honor y Justicia de la Policía Estatal.
 
 ###### ARTÍCULO 130.
 
@@ -1587,9 +1673,11 @@ El Consejo de Honor y Justicia será auxiliado por la Unidad de Asuntos Internos
 
 #### SECCIÓN TERCERA. DE LOS PROCEDIMIENTOS Y RECURSOS
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 134.
 
-Por lo que se refiere a los procedimientos que deba conocer y resolver el Consejo de Honor y Justicia y la Comisión de Carrera Policial, se aplicará el procedimiento establecido en el reglamento de la presente Ley que la autoridad competente expida para cada Corporación y supletoriamente el de la Ley de Procedimientos Administrativos para el Estado y Municipios de Querétaro.
+Por lo que se refiere a los procedimientos que deba conocer y resolver el Consejo de Honor y Justicia y la Comisión de Carrera Policial, se aplicará el procedimiento establecido en el reglamento que la autoridad competente expida para cada corporación, de conformidad con la presente Ley y supletoriamente el de la Ley de Procedimientos Administrativos del Estado de Querétaro.
 
 ###### ARTÍCULO 135.
 
@@ -1703,9 +1791,11 @@ V. Nombre y firma de quien lo expide; y
 
 VI. La firma del interesado.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 147.
 
-Al recibir su nombramiento, el Policía deberá protestar su acatamiento y obediencia a la Constitución Política de los Estados Unidos Mexicanos, a la Constitución Política del Estado Libre y Soberano de Querétaro Arteaga, a las leyes que de ellas emanen y a las normas generales del municipio que corresponda.
+Al recibir su nombramiento, el policía deberá protestar su acatamiento y obediencia a la Constitución Política de los Estados Unidos Mexicanos, a la Constitución Política del Estado de Querétaro, a las leyes que de ellas emanen y a las normas generales del municipio que corresponda.
 
 ###### ARTÍCULO 148.
 
@@ -1733,9 +1823,11 @@ Para efectos de reingreso, el Policía de Carrera que se hubiere separado volunt
 
 ### CAPITULO V. DE LA CAPACITACIÓN CONTINUA Y ESPECIALIZADA
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 151.
 
-La capacitación continua y especializada, busca el desempeño profesional de los policías de carrera en todas sus categorías y grados, a través de procesos dirigidos a la actualización de sus conocimientos, al desarrollo y perfeccionamiento de sus habilidades, destrezas y actitudes necesarias para responder adecuadamente a la demanda social de preservar la seguridad pública, garantizando los principios constitucionales de legalidad, eficiencia, profesionalismo y honradez.
+La capacitación continua y especializada, busca el desempeño profesional de los policías de carrera en todas sus categorías y grados, a través de procesos dirigidos a la actualización de sus conocimientos, al desarrollo y perfeccionamiento de sus habilidades, destrezas y actitudes necesarias para responder adecuadamente a la demanda social de preservar la seguridad pública, garantizando los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
 ###### ARTÍCULO 152.
 
@@ -1807,9 +1899,11 @@ Los Policías Preventivos, serán citados para las evaluaciones respectivas en c
 
 ### CAPITULO IX. RÉGIMEN DISCIPLINARIO
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 165.
 
-El régimen disciplinario es un procedimiento que busca asegurar que la conducta de los Policías sea apegada a derecho, a los altos conceptos del honor, la justicia y la ética y a los principios de actuación de legalidad, eficiencia, profesionalismo y honradez.
+El régimen disciplinario es un procedimiento que busca asegurar que la conducta de los policías sea apegada a derecho, a los altos conceptos del honor, la justicia, la ética y a los principios de actuación, de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
 ###### ARTÍCULO 166.
 
@@ -1933,9 +2027,11 @@ Con la separación y retiro cesan los efectos del nombramiento y se da por termi
 
 Será la Comisión de Carrera Policial quien emita la constancia de separación y retiro.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 174.
 
-La separación y retiro del Policía puede ser por causas ordinarias o extraordinarias legalmente establecidas en la presente Ley, a fin de preservar los requisitos de permanencia en la Carrera Policial y los principios Constitucionales de legalidad, eficiencia, profesionalismo y honradez.
+La separación y retiro del policía puede ser por las causas ordinarias o extraordinarias legalmente establecidas en la presente Ley, a fin de preservar los requisitos de permanencia en la Carrera Policial y los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
 ###### ARTÍCULO 175.
 
@@ -1969,7 +2065,9 @@ V. Someterse y aprobar los exámenes toxicológicos y pruebas aplicables determi
 
 VI. Lograr la promoción en los tiempos máximos establecidos para cada grado en los reglamentos respectivos;
 
-VII. Cumplir los principios Constitucionales de legalidad, eficiencia, profesionalismo y honradez; y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2012)</small>
+
+VII. Cumplir los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos; y
 
 VIII. Los demás que establezcan los reglamentos respectivos.
 
@@ -2167,9 +2265,17 @@ VIII. Utilizar para la prestación de sus servicios vehículos que no cuenten co
 
 IX. Utilizar en su razón social, papelería, documentos de identificación, instalaciones, insignias, colores, vehículos, vestimenta y demás bienes del prestador de servicio, las palabras "Policía", "Agente", "Investigador" o cualquier otro vocablo, abreviatura, imagen o logotipo, que pueda provocar confusión o establecer relación con las autoridades Federales, Estatales o Municipales o con los Cuerpos Preventivos de Seguridad Pública Estatal o Municipal. El término "seguridad" solamente podrán utilizarlo acompañado del adjetivo "privada";
 
-X. Asignar a la prestación de servicios de seguridad privada a personas que no cuenten con la credencial de habilitación vigente; y
+X. Asignar a la prestación de servicios de seguridad privada a personas que no cuenten con la credencial de habilitación vigente; y (sic)
 
 XI. Establecer o fijar oficinas y centros de operación en casas habitación.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JUNIO DE 2012)</small>
+
+XII. Contratar o tener contratadas a personas que hayan sido condenadas, mediante sentencia firme, por delito doloso; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JUNIO DE 2012)</small>
+
+XIII. Contratar o tener contratadas a personas cuyos exámenes toxicológicos, aplicados por la autoridad competente, resulten positivos.
 
 #### SECCIÓN SEGUNDA. DEL PERSONAL DE LAS EMPRESAS DE SEGURIDAD PRIVADA
 
@@ -2179,11 +2285,13 @@ Queda estrictamente prohibido al personal que preste el servicio de seguridad pr
 
 I. Presentarse en estado de ebriedad o bajo el influjo de sustancias psicotrópicas al desempeño de sus funciones;
 
-II. Haber sido sentenciado por delito doloso y que la sentencia haya causado ejecutoria;
+II. (DEROGADA, P.O. 15 DE JUNIO DE 2012)
 
-III. Resultar positivo en el examen toxicológico aplicado por la autoridad competente dé resultado positivo; y (sic)
+III. (DEROGADA, P.O. 15 DE JUNIO DE 2012)
 
-IV. Utilizar en su vestimenta y demás bienes, las palabras "Policía", "Agente", "Investigador" o cualquier otro vocablo, abreviatura, imagen o logotipo, que pueda provocar confusión o establecer relación con las autoridades Federales, Estatales o Municipales o con los Cuerpos Preventivos de Seguridad Pública Estatal o Municipal, el término "seguridad" solamente podrán utilizarlo acompañado del adjetivo "privada".
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2012)</small>
+
+IV. Utilizar en su vestimenta y demás bienes, las palabras "Policía", "Agente", "Investigador" o cualquier otro vocablo, abreviatura, imagen o logotipo, que pueda provocar confusión o establecer relación con las autoridades Federales, Estatales o Municipales o con las corporaciones preventivas de seguridad pública estatal o municipal. El término "Seguridad" solamente podrán utilizarlo acompañado del adjetivo "Privada".
 
 ###### ARTÍCULO 193.
 
@@ -2335,9 +2443,11 @@ Se entiende por reincidencia, la comisión de una misma infracción por dos o m�
 
 En los casos en que la presente Ley, prevea diversas sanciones para la misma infracción, la Secretaría de Seguridad Ciudadana podrá elegir la que resulte aplicable tomando en cuenta los parámetros previstos en el artículo 196, pero por ningún motivo podrán imponerse dos o más sanciones a la misma infracción.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 223.
 
-En los actos de inspección y las sanciones a que se refieren los artículos anteriores se cumplirá con lo dispuesto por la Ley de Procedimientos Administrativos para el Estado y Municipios de Querétaro.
+En los actos de inspección y las sanciones a que se refieren los artículos anteriores, se cumplirá con lo dispuesto por la Ley de Procedimientos Administrativos del Estado de Querétaro.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -2385,7 +2495,7 @@ PRESIDENTE
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 15 DE SEPTIEMBRE DE 2006.
 
@@ -2402,3 +2512,9 @@ P.O. 29 DE FEBRERO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 Esta Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 15 DE JUNIO DE 2012.
+
+Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente.
