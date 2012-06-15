@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-republicano-ayuntamiento-de-15080"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-20"
-last_updated: "2012-04-25"
+last_updated: "2012-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL REPUBLICANO AYUNTAMIENTO DE GUADALUPE, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 20 de agosto de 1999.
 
@@ -1211,6 +1211,10 @@ En lo que respecta a las proposiciones sobre iniciativa de creación o reforma d
 
 a).- Si en el desarrollo de las actividades que les sean conferidas, alguno o algunos de los miembros del Ayuntamiento, detectara la necesidad de actualizar un reglamento existente o la promulgación de uno nuevo, se hará del conocimiento de esta situación a la Comisión de Régimen Interior de Gobierno para que se realice un dictamen, mismo que deberá ser aprobado por el Ayuntamiento para que se proceda a la formulación de propuestas ya sea de reformas o de un reglamento nuevo.
 
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
+
+La iniciativa de creación o reforma de los Reglamentos Municipales corresponde, además de los integrantes del Ayuntamiento, a cualquier ciudadano del Municipio, debiendo los ciudadanos en la presentación de sus iniciativas de sujetarse a la normatividad establecida en el presente Reglamento, y a lo señalado en las leyes, en los ordenamientos normativos y criterios técnicos aplicables.
+
 b).- Revisado el proyecto y enviado para su análisis y estudio a cada uno de los integrantes del Ayuntamiento, estos remitirán sus observaciones en sesiones de trabajo o a través del escrito dirigido a la Comisión correspondiente.
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2010)</small>
@@ -1328,3 +1332,9 @@ P.O. 25 DE ABRIL DE 2012.
 Primero.- La presente reforma al Reglamento Interior del Republicano Ayuntamiento de Guadalupe, Nuevo León, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Segundo.- Quedan sin efecto así mismo, todas las disposiciones municipales que contravengan lo establecido en la presente reforma al Reglamento Interior del Republicano Ayuntamiento de Guadalupe, Nuevo León.
+
+P.O. 15 DE JUNIO DE 2012.
+
+Primero.- La presente reforma por adición al Reglamento Interior del Republicano Ayuntamiento de Guadalupe, Nuevo León, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo león.
+
+Segundo.- Quedan sin efecto así mismo, todas las disposiciones municipales que contravengan lo establecido en la presente reforma por adición al Reglamento Interior del Republicano Ayuntamiento de Guadalupe, Nuevo León.
