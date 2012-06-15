@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2011-12-26"
+last_updated: "2012-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -1883,17 +1883,119 @@ La resolución que conceda la autorización para continuar la obra será apelabl
 
 En el mismo auto en que se decrete la suspensión de la obra, el Juez prevendrá al solicitante que dentro del término de tres días promueva su demanda sobre suspensión definitiva y demolición de lo construido; y de no hacerlo, se levantará la suspensión condenándolo al pago de los daños y perjuicios y de una multa hasta de ciento ochenta cuotas, según la importancia de la obra.
 
-### CAPITULO I
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-REGLAS GENERALES.
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JUNIO DE 2012)</small>
+
+### CAPÍTULO VI. DE LAS ÓRDENES DE PROTECCIÓN
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
+
+###### Artículo 222 Bis.
+
+Las órdenes de protección de emergencia y preventivas a que se refiere el presente Capítulo, serán las previstas en el Capítulo IV, Título Sexto del Libro Primero del Código Civil para el Estado de Nuevo León, y están orientadas a promover los actos prejudiciales relativos a separación provisional de cónyuges, así como la separación cautelar de personas y el depósito de menores, a que se refiere el presente Título.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
+
+Artículo 222 Bis I.- Serán principios rectores de las medidas descritas en el Artículo anterior, el carácter urgente y cautelar para su otorgamiento y petición, reconociéndose la presunción de necesitarlas en favor de quien las solicite.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
+
+Artículo 222 Bis II.- Las órdenes de protección podrán decretarse tanto antes como después de iniciado el procedimiento, bajo protesta de decir verdad, de manera verbal o escrita, conforme a las siguientes reglas:
+
+I.- Nombre y domicilio del solicitante, y en su caso el carácter con el cual comparece;
+
+II.- Nombre y domicilio del presunto ofensor; y
+
+III.- Exposición de los hechos que motivan la solicitud, el parentesco o relación que guarde con el agresor, el riesgo o peligro existente, las causas por las que se teme por la seguridad de la víctima, y demás elementos con que cuente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
+
+Artículo 222 Bis III.- Una vez hecha la solicitud, el Juez resolverá de plano atendiendo a lo expresado en la misma, no pudiendo retardar su decisión, bajo pena de responsabilidad; debiendo de resolver conforme a lo previsto en el Artículo 323 Bis VI del Código Civil para el Estado de Nuevo León, la concesión de las órdenes que estime prudentes y necesarias, su alcance, así como el tiempo de su duración, sin que en ningún caso se pueda exceder el máximo establecido al efecto en el Código Civil para el Estado de Nuevo León; en el entendido que para fijar la duración de éstas órdenes, deberá tenerse en cuenta la necesidad y el tiempo requerido por el solicitante para preparar el acto prejudicial definitivo tendiente a asegurar el bienestar suyo o de aquellos por quienes se pide.
+
+Si la solicitud fuere oscura o irregular, el Juez, en el mismo acto, deberá prevenir al solicitante, para que la aclare, corrija o la complete.
+
+En caso de que la duración de la medida preventiva o de emergencia, no llegue a exceder el plazo máximo de treinta días, esta podrá ser sujeta de prórroga, hasta completar dicho término, tomando en cuenta siempre lo dispuesto en la última parte del primer párrafo de este Artículo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
+
+Artículo 222 Bis IV.- Sólo los Jueces de lo Familiar, Familiar Oral o Mixtos, en su caso, pueden decretar las medidas a que se refieren los Artículos anteriores, salvo que, por circunstancias especiales, no pueda ocurrirse al Juez competente, por lo cual el Juez del lugar donde el solicitante se encuentre, podrá decretarla, remitiendo las diligencias al competente. Por ningún motivo, podrá declinarse la competencia para conocer de las mismas, debiendo en todo caso el Juez, resolver lo conducente a la solicitud, y si no fuere competente para conocer de la acción principal o del acto prejudicial que se pretenda preparar, una vez decretadas y ejecutadas las órdenes respectivas remitirá lo actuado al Juez competente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
+
+Artículo 222 Bis V.- Una vez ejecutada la orden de protección, aquel que la obtuvo, deberá intentar el acto prejudicial dentro del término otorgado para ella o de sus prorrogas, el cual no excederá el máximo previsto en el Código Civil para el Estado de Nuevo León De no cumplirse con esta disposición, la orden de protección decretada quedará sin efectos, no pudiendo solicitarla nuevamente por los mismos hechos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
+
+Artículo 222 Bis VI.- Decretadas las órdenes de protección o de emergencias respectivas, el Juez deberá velar por su debido cumplimiento contando para ello con todos los elementos necesarios, incluso solicitar el auxilio de la fuerza pública y en su caso ordenar el cateo; mandando notificar su determinación respecto de la concesión de dichas medidas al que se señala como presunto agresor, quien por el sólo hecho de estar notificado se le tendrá por apercibido que en caso de que llegare a violentarlas, se dará vista al Ministerio Público para los efectos de lo dispuesto en el Artículo 180 del Código Penal para el Estado de Nuevo León, sin que para ello sea necesario agotar las medios (sic) de apremio previstos en el presente Código.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
+
+Artículo 222 Bis VII.- Para la aplicación y ejecución de las órdenes de protección a que se refiere el Capítulo IV, Título Sexto del Libro Primero del Código Civil para el Estado de Nuevo León, se contará con el auxilio policiaco de manera inmediata, una vez hecha la solicitud. En caso de que la autoridad requerida retrase o niegue prestar el auxilio sin causa justificada, se dará vista al Ministerio Público para los efectos de lo previsto en el Artículo 209 del Código Penal para el Estado de Nuevo León.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
+
+Artículo 222 Bis VIII.- Las órdenes de protección de naturaleza civil, tendrán carácter cautelar, y tienden a la preparación de una acción principal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
+
+Artículo 222 Bis IX.- Para el caso de las órdenes de protección de naturaleza civil, a que se refiere el Artículo 323 Bis VII fracción I, del Código Civil para el Estado de Nuevo León, se estará al procedimiento previsto para las órdenes de protección de emergencia y preventivas. Debiendo en ello el juez que conozca de la solicitud de estas diligencias remitir las actuaciones, una vez decretada y ejecutada en su caso la orden de protección respectiva, a la autoridad que haya decretado el régimen de visitas o de convivencia que se suspende.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
+
+Artículo 222 Bis X.- En los supuestos previstos en el Artículo 323 Bis VII fracciones II, III, IV y V del Código Civil para el Estado de Nuevo León, las órdenes de protección se estará a las siguientes reglas:
+
+I.- Se solicitarán al Juez por escrito, debiendo acreditar el derecho para gestionarla y la necesidad de la medida mediante documentales o testigos idóneos, por lo menos dos;
+
+II.- Podrá solicitarse como acto prejudicial o durante la tramitación del juicio respectivo;
+
+III.- No se citará a la persona contra la que se solicite la medida;
+
+IV.- En caso de pedirse antes de iniciado el juicio; el que la pida deberá intentar la acción que proceda en un plazo que no deberá exceder de diez días. De no hacerlo, la orden de protección decretada quedara sin efecto; y
+
+V.- A quien quebrantara la orden decretada por el Juez, se le aplicará la sanción que corresponda en términos del Artículo 180 del Código Penal para el Estado de Nuevo León.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
+
+Artículo 222 Bis XI.- Para conocer y decidir en torno a las órdenes de protección solicitadas previo a un juicio, no habrá lugar a dilucidar cuestiones de competencia, en todo caso, si el Juez que conoció de las mismas, se estima incompetente, una vez ejecutadas las órdenes remitirá las actuaciones al que estime competente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
+
+Artículo 222 Bis XII.- Contra las determinaciones dictadas con motivos de las solicitudes a que hace mención este Capítulo, no procederá recurso alguno.
 
 ## TITULO QUINTO
 
 DE LA PRUEBA.
 
-### CAPITULO II. DEL DESAHOGO DE PRUEBAS FUERA DEL LUGAR DEL JUICIO
+### CAPITULO I
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
+REGLAS GENERALES.
 
 ###### Artículo 223.
 
@@ -2019,7 +2121,9 @@ VIII.- Presunciones.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ENERO DE 2005)</small>
 
-### CAPITULO III. DE LA CONFESION Y LA DECLARACION DE PARTE
+### CAPITULO II. DEL DESAHOGO DE PRUEBAS FUERA DEL LUGAR DEL JUICIO
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
 
 ###### Artículo 240.
 
@@ -2131,9 +2235,7 @@ Cuando la parte a quien se entregue un exhorto o despacho, para los fines que se
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ENERO DE 2005)</small>
 
-### CAPITULO IV
-
-DE LA PRUEBA INSTRUMENTAL.
+### CAPITULO III. DE LA CONFESION Y LA DECLARACION DE PARTE
 
 ###### Artículo 260.
 
@@ -2301,9 +2403,9 @@ Las preguntas podrán ser inquisitivas y podrán no referirse a hechos propios, 
 
 Artículo 286 Bis II.- En la declaración de parte, no procede la confesión ficta. El juez aplicará un arresto hasta de treinta y seis horas o una multa hasta por 30 cuotas, en caso de que el declarante se niegue a contestar las preguntas que se le formulen.
 
-### CAPITULO V
+### CAPITULO IV
 
-DE LA PRUEBA PERICIAL.
+DE LA PRUEBA INSTRUMENTAL.
 
 ###### Artículo 287.
 
@@ -2449,9 +2551,9 @@ Los telegramas se tendrán como documentos públicos o privados según que sean 
 
 Si la parte contra quien se produce la prueba negare la autenticidad del telegrama, se procederá a la comprobación, y al efecto, se pedirá el original a la oficina que lo trasmitió, en la que quedará copia del mismo telegrama autorizado por el jefe de dicha oficina.
 
-### CAPITULO VI
+### CAPITULO V
 
-DEL RECONOCIMIENTO O INSPECCION JUDICIAL.
+DE LA PRUEBA PERICIAL.
 
 ###### Artículo 309.
 
@@ -2569,9 +2671,9 @@ IV.- Si los precios de plaza o de los costos de construcción dieren un resultad
 
 V.- En todo avalúo decidirán los peritos los gastos de conservación, cultivo y reparaciones ordinarias, fijándolos por las constancias que se les suministren, y a falta de ellas, por las reglas de su arte y por las costumbres del lugar.
 
-### CAPITULO VII
+### CAPITULO VI
 
-DE LA PRUEBA TESTIMONIAL.
+DEL RECONOCIMIENTO O INSPECCION JUDICIAL.
 
 ###### Artículo 321.
 
@@ -2591,9 +2693,9 @@ Del reconocimiento se levantará un acta que firmarán todos los que a él concu
 
 Cuando fuere necesario se levantarán planos, se marcarán las señas de los objetos que hayan sido reconocidos y se tomarán fotografías o videograbaciones de los lugares en que se practique la diligencia, a solicitud de parte o a juicio del Juez.
 
-### CAPÍTULO VIII. DE LAS FOTOGRAFIAS, COPIAS FOTOSTATICAS, REGISTROS DACTILOSCOPICOS, ELECTRONICOS Y DEMAS ELEMENTOS DERIVADOS DE LOS AVANCES DE LA CIENCIA Y LA TECNOLOGIA
+### CAPITULO VII
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
+DE LA PRUEBA TESTIMONIAL.
 
 ###### Artículo 324.
 
@@ -2765,9 +2867,9 @@ El juez tendrá cuidado de calificar los interrogatorios en los términos de est
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ENERO DE 2005)</small>
 
-### CAPITULO IX
+### CAPÍTULO VIII. DE LAS FOTOGRAFIAS, COPIAS FOTOSTATICAS, REGISTROS DACTILOSCOPICOS, ELECTRONICOS Y DEMAS ELEMENTOS DERIVADOS DE LOS AVANCES DE LA CIENCIA Y LA TECNOLOGIA
 
-DE LAS PRESUNCIONES.
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
 
 ###### Artículo 352.
 
@@ -2785,9 +2887,9 @@ En el caso de los registros electrónicos, la parte oferente deberá expresar co
 
 Los escritos y notas taquigráficas pueden presentarse por vía de prueba, siempre que se acompañe la traducción de ellos, haciéndose especificación exacta del sistema taquigráfico empleado.
 
-### CAPITULO X
+### CAPITULO IX
 
-DEL VALOR DE LAS PRUEBAS.
+DE LAS PRESUNCIONES.
 
 ###### Artículo 355.
 
@@ -2813,11 +2915,9 @@ No se admite prueba contra la presunción legal cuando la ley lo prohíbe expres
 
 Es obligación del Juez tomar en cuenta las presunciones al dictar cualquier resolución, aun cuando las partes no las hubiesen ofrecido como prueba.
 
-### CAPITULO XI
+### CAPITULO X
 
-DE LAS TACHAS.
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
+DEL VALOR DE LAS PRUEBAS.
 
 ###### Artículo 360.
 
@@ -2995,7 +3095,9 @@ Los hechos notorios pueden ser invocados por el Juez o Magistrado, aunque no hay
 
 No tendrán ningún valor legal las pruebas rendidas con infracción de lo dispuesto en los capítulos anteriores de este título.
 
-### CAPITULO UNICO
+### CAPITULO XI
+
+DE LAS TACHAS.
 
 > <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
 
@@ -3047,9 +3149,9 @@ El incidente de tachas suspende el término para dictar sentencia definitiva.
 
 DE LOS ALEGATOS.
 
-### CAPITULO I
+### CAPITULO UNICO
 
-REGLAS GENERALES.
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
 
 ###### Artículo 398.
 
@@ -3065,9 +3167,9 @@ Una vez concluida la etapa de alegatos el juez dictará su sentencia dentro del 
 
 DE LAS SENTENCIAS.
 
-### CAPITULO II
+### CAPITULO I
 
-DE LA SENTENCIA EJECUTORIADA.
+REGLAS GENERALES.
 
 ###### Artículo 400.
 
@@ -3107,9 +3209,9 @@ III.- A continuación, bajo la palabra CONSIDERANDO, consignará clara y concisa
 
 IV.- Pronunciará, por último, la parte resolutiva en los términos prevenidos en los artículos anteriores haciéndose la correspondiente declaración sobre costas.
 
-### CAPITULO I
+### CAPITULO II
 
-DE LA ACLARACION.
+DE LA SENTENCIA EJECUTORIADA.
 
 ###### Artículo 406.
 
@@ -3147,9 +3249,9 @@ No será necesario hacer declaración alguna para que las resoluciones causen ej
 
 DE LOS RECURSOS.
 
-### CAPITULO II
+### CAPITULO I
 
-DE LA REVOCACION.
+DE LA ACLARACION.
 
 ###### Artículo 410.
 
@@ -3191,11 +3293,9 @@ Siempre que los jueces o tribunales resuelvan que no procede la aclaración que 
 
 La interposición del recurso de aclaración no interrumpe el término señalado para hacer uso del recurso de apelación.
 
-### CAPITULO III
+### CAPITULO II
 
-DE LA APELACION.
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
+DE LA REVOCACION.
 
 ###### Artículo 419.
 
@@ -3213,11 +3313,11 @@ La promoción se hará saber a las otras partes para que dentro de tres días co
 
 Contra el auto en que se decida si se concede o no la revocación no se admitirá recurso alguno.
 
-### CAPITULO IV
+### CAPITULO III
 
-DE LA DENEGADA APELACION.
+DE LA APELACION.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
 
 ###### Artículo 423.
 
@@ -3271,7 +3371,7 @@ Las interlocutorias y los autos son apelables cuando esta Ley lo disponga expres
 
 > <small>(REFORMADO, P.O. 2 DE MARZO DE 1981)</small>
 
-###### ARTICULO 432.
+###### Artículo 432.
 
 La apelación contra las sentencias definitivas, procederá en los negocios de la competencia de los Jueces de Primera Instancia.
 
@@ -3405,11 +3505,11 @@ Las notificaciones que se practiquen a las partes dentro del juicio en la segund
 
 La revisión de las sentencias recaídas en los casos y procedimientos señalados en el artículo 956 de este Código y sobre nulidad de matrimonio por las causas expresadas en los artículos 241, 242 y 248 a 251 del Código Civil, abre de oficio la segunda instancia con intervención del Ministerio Público. Y aunque las partes no expresaren agravios, la Sala de lo Familiar examinará la legalidad de la sentencia de primera instancia, observándose en lo conducente las formalidades previstas por el artículo 446 de este Código, quedando entre tanto sin ejecutarse aquélla.
 
-### CAPITULO I
+### CAPITULO IV
 
-DE LA EJECUCION DE LAS SENTENCIAS DICTADAS POR EL TRIBUNAL Y POR LOS JUECES DEL ESTADO.
+DE LA DENEGADA APELACION.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
 ###### Artículo 453.
 
@@ -3451,9 +3551,11 @@ Si la denegada apelación se declara improcedente, el Tribunal impondrá a la pa
 
 DE LA EJECUCION DE LAS SENTENCIAS.
 
-### CAPITULO II
+### CAPITULO I
 
-DE LA EJECUCION DE LAS SENTENCIAS Y DEMAS RESOLUCIONES DICTADAS POR LOS TRIBUNALES DE LOS ESTADOS Y DEL EXTRANJERO.
+DE LA EJECUCION DE LAS SENTENCIAS DICTADAS POR EL TRIBUNAL Y POR LOS JUECES DEL ESTADO.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 459.
 
@@ -3623,9 +3725,9 @@ Presentado el plan de partición, quedará en la secretaría a la vista de los i
 
 El juez al resolver mandará hacer las adjudicaciones y extender las hijuelas con una breve relación de los antecedentes respectivos.
 
-### CAPITULO I
+### CAPITULO II
 
-DEL SECUESTRO JUDICIAL.
+DE LA EJECUCION DE LAS SENTENCIAS Y DEMAS RESOLUCIONES DICTADAS POR LOS TRIBUNALES DE LOS ESTADOS Y DEL EXTRANJERO.
 
 ###### Artículo 486.
 
@@ -3695,9 +3797,9 @@ Ni el juez inferior ni el tribunal superior podrán examinar ni decidir sobre la
 
 DEL SECUESTRO Y DE LOS REMATES.
 
-### CAPITULO II
+### CAPITULO I
 
-DE LOS REMATES.
+DEL SECUESTRO JUDICIAL.
 
 ###### Artículo 496.
 
@@ -3953,9 +4055,9 @@ Lo dispuesto en este capítulo, es aplicable a todos los casos de secuestro judi
 
 Todos los incidentes relativos al depósito, se substanciará por cuerda separada.
 
-### CAPITULO I
+### CAPITULO II
 
-DE LOS INCIDENTES EN GENERAL.
+DE LOS REMATES.
 
 ###### Artículo 527.
 
@@ -4169,9 +4271,9 @@ VI.- En todo lo demás se estará a las disposiciones de este Capítulo.
 
 DE LOS INCIDENTES.
 
-### CAPITULO II
+### CAPITULO I
 
-DE LA ACUMULACION DE AUTOS.
+DE LOS INCIDENTES EN GENERAL.
 
 ###### Artículo 561.
 
@@ -4219,7 +4321,9 @@ La sentencia de los incidentes será apelable en los casos en que lo fuere la se
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 21 DE JULIO DE 1997)</small>
 
-### CAPITULO UNICO
+### CAPITULO II
+
+DE LA ACUMULACION DE AUTOS.
 
 ###### Artículo 568.
 
@@ -4447,9 +4551,7 @@ DIVORCIO POR MUTUO CONSENTIMIENTO.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
-### CAPITULO UNICO.
-
-REGLAS GENERALES PARA TODOS LOS JUICIOS.
+### CAPITULO UNICO
 
 ###### Artículo 603.
 
@@ -4493,9 +4595,9 @@ DE LA JURISDICCION CONTENCIOSA.
 
 ## TITULO PRIMERO
 
-### CAPITULO I
+### CAPITULO UNICO.
 
-DEL JUICIO ORDINARIO.
+REGLAS GENERALES PARA TODOS LOS JUICIOS.
 
 ###### Artículo 612.
 
@@ -4695,9 +4797,9 @@ La reconvención y la compensación, lo mismo que las excepciones opuestas con e
 
 DE LOS JUICIOS.
 
-### CAPITULO II
+### CAPITULO I
 
-DEL JUICIO EJECUTIVO.
+DEL JUICIO ORDINARIO.
 
 ###### Artículo 638.
 
@@ -4745,9 +4847,9 @@ Inmediatamente de desahogadas las pruebas, se oirán los alegatos de ambas parte
 
 Las partes alegarán, de buena prueba en los términos a que se refieren los artículos 398 y 399 y se dictará la sentencia que corresponda dentro del término legal.
 
-### CAPITULO III
+### CAPITULO II
 
-DE LOS INTERDICTOS.
+DEL JUICIO EJECUTIVO.
 
 #### SECCION PRIMERA. DE LOS TITULOS QUE MOTIVAN EJECUCION Y DE LOS
 
@@ -5005,9 +5107,9 @@ Del escrito de oposición se dará traslado por tres días al acreedor; si se pr
 
 Si se declare infundada la oposición, el opositor será condenado en las costas y al pago de una multa equivalente al cinco por ciento sobre el interés del pleito, cuya multa se aplicará por mitad, al acreedor y al Fisco del Estado.
 
-### CAPITULO IV
+### CAPITULO III
 
-DEL INTERDICTO DE OBRA PELIGROSA.
+DE LOS INTERDICTOS.
 
 ###### Artículo 692.
 
@@ -5099,27 +5201,9 @@ Sea cual fuere la sentencia, contendrá siempre la expresión de que se dicta re
 
 Los documentos que se hubieren presentado en juicio deben devolverse a las partes, quedanlo (sic) en autos razón pormenorizada de ellos.
 
-### CAPITULO IV BIS
+### CAPITULO IV
 
-CONTROVERSIAS SOBRE CONVIVENCIA Y POSESION INTERINA DE MENORES.
-
-Artículo 723 BIS.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
-
-Artículo 723 BIS I.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
-
-Artículo 723 BIS II.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
-
-Artículo 723 BIS III.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
-
-Artículo 723 BIS IV.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
-
-Artículo 723 BIS V.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
-
-Artículo 723 BIS VI.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
-
-Artículo 723 BIS VII.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
-
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+DEL INTERDICTO DE OBRA PELIGROSA.
 
 ###### Artículo 712.
 
@@ -5181,9 +5265,69 @@ En el juicio de interdicto de que trata este Capítulo, se oirá al Ministerio P
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
+### CAPITULO IV BIS
+
+CONTROVERSIAS SOBRE CONVIVENCIA Y POSESION INTERINA DE MENORES.
+
+Artículo 723 BIS.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
+
+Artículo 723 BIS I.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
+
+Artículo 723 BIS II.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
+
+Artículo 723 BIS III.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
+
+Artículo 723 BIS IV.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
+
+Artículo 723 BIS V.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
+
+Artículo 723 BIS VI.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
+
+Artículo 723 BIS VII.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
 ### CAPITULO V
 
 DEL JUICIO SUMARIO DE ALIMENTOS.
+
+###### Artículo 724.
+
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
+
+###### Artículo 725.
+
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
+
+###### Artículo 726.
+
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
+
+###### Artículo 727.
+
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
+
+###### Artículo 728.
+
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
+
+###### Artículo 729.
+
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
+
+###### Artículo 730.
+
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
+
+###### Artículo 731.
+
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
+
+###### Artículo 732.
+
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
+
+> <small>(ADICIONADO CON SUS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 1999)</small>
 
 ### CAPÍTULO V BIS
 
@@ -5227,51 +5371,7 @@ Artículo 732 BIS V.- Contra la sentencia que se dicte procede el recurso de ape
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
-###### Artículo 724.
-
-(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
-
-###### Artículo 725.
-
-(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
-
-###### Artículo 726.
-
-(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
-
-###### Artículo 727.
-
-(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
-
-###### Artículo 728.
-
-(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
-
-###### Artículo 729.
-
-(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
-
-###### Artículo 730.
-
-(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
-
-###### Artículo 731.
-
-(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
-
-###### Artículo 732.
-
-(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
-
-> <small>(ADICIONADO CON SUS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 1999)</small>
-
 ### CAPITULO V I. DEL PROCEDIMIENTO ESPECIAL DE LAS CUESTIONES DE ARRENDAMIENTO
-
-### CAPITULO VII
-
-DEL JUICIO DE MENOR CUANTIA.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 733.
 
@@ -5313,9 +5413,11 @@ DEL JUICIO DE MENOR CUANTIA.
 
 (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
-### CAPITULO I
+### CAPITULO VII
 
-REGLAS GENERALES.
+DEL JUICIO DE MENOR CUANTIA.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 743.
 
@@ -5369,9 +5471,9 @@ DE LA JURISDICCION MIXTA.
 
 DE LOS CONCURSOS.
 
-### CAPITULO II
+### CAPITULO I
 
-DE LA RECTIFICACION Y GRADUACION DE CREDITOS.
+REGLAS GENERALES.
 
 ###### Artículo 749.
 
@@ -5429,9 +5531,9 @@ En este caso y en el previsto en el artículo anterior, la revocación se tramit
 
 El concursado en el caso de concurso forzoso deberá presentar al juzgado dentro de los cinco días de la notificación del auto que lo declare, un estado detallado de su activo y pasivo, con nombres y domicilios de acreedores y deudores, privilegiados y valistas. Si no lo presentare lo hará el síndico.
 
-### CAPITULO III
+### CAPITULO II
 
-DE LA ADMINISTRACION DEL CONCURSO.
+DE LA RECTIFICACION Y GRADUACION DE CREDITOS.
 
 ###### Artículo 755.
 
@@ -5523,9 +5625,9 @@ Los acreedores listados en el estado del deudor o que presentaren sus documentos
 
 Cuando al hacerse una cesión de bienes sólo hubiere acreedores hipotecarios, se observarán las disposiciones contenidas en el Título Primero, Tercera Parte del Libro Cuarto del Código Civil, siendo forzosamente el síndico o el acreedor hipotecario primero en tiempo quien litigará en representación de los demás acreedores y se observará lo dispuesto en los artículos precedentes.
 
-### CAPITULO IV
+### CAPITULO III
 
-REGLAS COMUNES DEL DEUDOR.
+DE LA ADMINISTRACION DEL CONCURSO.
 
 ###### Artículo 771.
 
@@ -5567,11 +5669,9 @@ El síndico será removido de plano si dejare de rendir la cuenta mensual o deja
 
 Será removido mediante los trámites establecidos para los incidentes por mal desempeño de su cargo o por comprobarse alguno de los impedimentos a que se refiere el artículo 773.
 
-### CAPITULO I
+### CAPITULO IV
 
-REGLAS GENERALES.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE DICIEMBRE DE 2008)</small>
+REGLAS COMUNES DEL DEUDOR.
 
 ###### Artículo 778.
 
@@ -5583,9 +5683,11 @@ Es también parte y podrá intervenir personalmente en las cuestiones relativas 
 
 JUICIOS SUCESORIOS.
 
-### CAPITULO II
+### CAPITULO I
 
-DE LAS TESTAMENTARIAS.
+REGLAS GENERALES.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 779.
 
@@ -5787,9 +5889,9 @@ Si durante la tramitación de un intestado apareciere el testamento, se sobresee
 
 En este caso se acumularán los juicios bajo la representación del ejecutor testamentario y la liquidación y partición serán siempre comunes; los inventarios lo serán también cuando los juicios se acumularen antes de su formulación.
 
-### CAPITULO III
+### CAPITULO II
 
-DE LOS INTESTADOS.
+DE LAS TESTAMENTARIAS.
 
 ###### Artículo 808.
 
@@ -5833,9 +5935,9 @@ Si se impugnare la validez del testamento o la capacidad legal de algún hereder
 
 En la junta prevista por el artículo 808 podrán los herederos nombrar interventor conforme a la facultad que les concede al artículo 1625 del Código Civil y se nombrará precisamente en los casos previstos por el artículo 1628 del mismo Código.
 
-### CAPITULO IV
+### CAPITULO III
 
-DEL INVENTARIO Y AVALUO.
+DE LOS INTESTADOS.
 
 ###### Artículo 817.
 
@@ -5877,9 +5979,9 @@ En la misma sentencia resolverá quien es el albacea que será nombrado por el j
 
 La sentencia a que se refifere (sic) el artículo anterior será apelable en ambos efectos y la de segunda instancia causará ejecutoria para los que hubieren sido parte en el juicio.
 
-### CAPITULO V
+### CAPITULO IV
 
-DE LA ADMINISTRACION.
+DEL INVENTARIO Y AVALUO.
 
 ###### Artículo 825.
 
@@ -5961,9 +6063,9 @@ Los gastos de inventario y avalúo, son a cargo de la herencia, salvo que el tes
 
 (DEROGADO, P.O. 21 DE JULIO DE 1997)
 
-### CAPITULO VI
+### CAPITULO V
 
-DE LA LIQUIDACION Y PARTICION DE LA HERENCIA.
+DE LA ADMINISTRACION.
 
 ###### Artículo 841.
 
@@ -6071,9 +6173,9 @@ El auto que aprueba o reprueba la cuenta es apelable en ambos efectos.
 
 Concluído y aprobado el inventario el albacea procederá a la liquidación de la herencia.
 
-### CAPITULO VI BIS. DEL PROCEDIMIENTO SUCESORIO ESPECIAL
+### CAPITULO VI
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1983)</small>
+DE LA LIQUIDACION Y PARTICION DE LA HERENCIA.
 
 ###### Artículo 863.
 
@@ -6211,9 +6313,9 @@ La sentencia que apruebe o repruebe la partición es apelable en ambos efectos.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 1983)</small>
 
-### CAPITULO VII
+### CAPITULO VI BIS. DEL PROCEDIMIENTO SUCESORIO ESPECIAL
 
-DE LA TRANSMISION HEREDITARIA DEL PATRIMONIO FAMILIAR.
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 879 Bis.
 
@@ -6253,11 +6355,9 @@ La resolución que decida la oposición será apelable en ambos efectos.
 
 Cuando cause firmeza dicha resolución, se seguirá el procedimiento con sujeción a lo previsto en los párrafos anteriores.
 
-### CAPITULO VIII
+### CAPITULO VII
 
-DE LA TRAMITACION POR NOTARIOS.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+DE LA TRANSMISION HEREDITARIA DEL PATRIMONIO FAMILIAR.
 
 ###### Artículo 880.
 
@@ -6293,9 +6393,11 @@ c) Que a la solicitud de intervención dirigida al notario público se acompañe
 
 Cumplido lo anterior, el notario público expedirá la escritura pública por la que se adjudique en favor del heredero los bienes materia del patrimonio de familia. La escritura pública correspondiente se inscribirá en el Registro Público de la Propiedad.
 
-### CAPITULO IX
+### CAPITULO VIII
 
-DEL TESTAMENTO PUBLICO CERRADO.
+DE LA TRAMITACION POR NOTARIOS.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 881.
 
@@ -6343,9 +6445,9 @@ IV.- De ser procedente, el notario redactará el instrumento en el que se relaci
 
 V.- En el instrumento a que se refiere la fracción anterior, los legatarios podrán otorgar a su vez un testamento público simplificado en los términos del artículo 1446 bis del código civil del Estado.
 
-### CAPITULO X
+### CAPITULO IX
 
-DECLARACION DE SER FORMAL EL TESTAMENTO OLOGRAFO.
+DEL TESTAMENTO PUBLICO CERRADO.
 
 ###### Artículo 886.
 
@@ -6365,9 +6467,9 @@ Será preferida para la protocolización de todo testamento cerrado, la notaría
 
 Si se presentaren dos o más testamentos de una misma persona, sean de la misma fecha o de diversa, el juez procederá respecto a cada uno de ellos como se previene en este Capítulo y los hará protocolizar en un mismo oficio para los efectos a que haya lugar en los casos previstos por los artículos 1391 y 1393 del Código Civil.
 
-### CAPITULO XI
+### CAPITULO X
 
-DECLARACION DE SER FORMAL EL TESTAMENTO PRIVADO.
+DECLARACION DE SER FORMAL EL TESTAMENTO OLOGRAFO.
 
 ###### Artículo 890.
 
@@ -6381,9 +6483,9 @@ Recibido el pliego, procederá el tribunal como se dispone en el artículo 1458 
 
 Si para la debida identificación fuere necesario reconocer la firma por no existir los testigos de identificación que hubieren intervenido, o por no estimarse bastante sus declaraciones, el tribunal nombrará un perito para que confronte la firma con las indubitadas que existen del testador, y teniendo en cuenta su dictamen hará la declaración que corresponda.
 
-### CAPITULO XII
+### CAPITULO XI
 
-DEL TESTAMENTO MILITAR.
+DECLARACION DE SER FORMAL EL TESTAMENTO PRIVADO.
 
 ###### Artículo 893.
 
@@ -6411,9 +6513,9 @@ Recibidas las declaraciones, el tribunal procederá conforme al artículo 1572 d
 
 De la resolución que niegue la declaración solicitada puede apelar el promovente y cualquiera de las personas interesadas en la disposición testamentaria; de la que acuerde la declaración puede apelar el representante del Ministerio Público.
 
-### CAPITULO XIII
+### CAPITULO XII
 
-DEL TESTAMENTO MARITIMO.
+DEL TESTAMENTO MILITAR.
 
 ###### Artículo 897.
 
@@ -6425,17 +6527,17 @@ De la declaración judicial se remitirá copia autorizada al Secretario de Guerr
 
 En lo demás, se observará lo dispuesto en el Capítulo que antecede.
 
-### CAPITULO XIV
+### CAPITULO XIII
 
-EL TESTAMENTO HECHO EN PAIS EXTRANJERO.
+DEL TESTAMENTO MARITIMO.
 
 ###### Artículo 899.
 
 Hechas las publicaciones que ordena el artículo 1487 del Código Civil, podrán los interesados ocurrir al tribunal competente para que pida de la Secretaria de Relaciones Exteriores la remisión del testamento o directamente a éste que lo envíe.
 
-### CAPITULO I
+### CAPITULO XIV
 
-DISPOSICIONES GENERALES.
+EL TESTAMENTO HECHO EN PAIS EXTRANJERO.
 
 ###### Artículo 900.
 
@@ -6451,9 +6553,9 @@ DE LA JURISDICCION VOLUNTARIA.
 
 ## TITULO UNICO
 
-### CAPITULO II
+### CAPITULO I
 
-DEL NOMBRAMIENTO DE TUTORES Y CURADORES Y DISCERNIMIENTO DE ESTOS CARGOS.
+DISPOSICIONES GENERALES.
 
 ###### Artículo 902.
 
@@ -6519,11 +6621,9 @@ En los negocios de menores e incapacitados, intervendrán el juez de primera ins
 
 Los actos de jurisdicción voluntaria a que haga mención este Código se sujetarán (sic) a lo dispuesto en este capítulo y en lo conducente al procedimiento oral.
 
-### CAPITULO III
+### CAPITULO II
 
-DE LA ENAJENACION DE BIENES DE MENORES O INCAPACITADOS Y TRANSACCION ACERCA DE SUS DERECHOS.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+DEL NOMBRAMIENTO DE TUTORES Y CURADORES Y DISCERNIMIENTO DE ESTOS CARGOS.
 
 ###### Artículo 914.
 
@@ -6651,9 +6751,9 @@ Los tutores y curadores no pueden ser removidos por actos de jurisdicción volun
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
 
-### CAPITULO IV
+### CAPITULO III
 
-DE LA ADOPCION.
+DE LA ENAJENACION DE BIENES DE MENORES O INCAPACITADOS Y TRANSACCION ACERCA DE SUS DERECHOS.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -6707,11 +6807,11 @@ DE LA ADOPCION.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
 
-### CAPITULO V
+### CAPITULO IV
 
-DE LAS INFORMACIONES AD-PERPETUAM.
+DE LA ADOPCION.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1983)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 935.
 
@@ -6741,9 +6841,11 @@ DE LAS INFORMACIONES AD-PERPETUAM.
 
 (DEROGADO, P.O. 20 DE FEBRERO DE 2009)
 
-### CAPITULO VI
+### CAPITULO V
 
-APEO Y DESLINDE.
+DE LAS INFORMACIONES AD-PERPETUAM.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1983)</small>
 
 ###### Artículo 939.
 
@@ -6799,9 +6901,9 @@ Las informaciones se protocolizarán ante el Notario que designe el promovente, 
 
 En ningún caso se admitirá en jurisdicción voluntaria, la información de testigos sobre hechos que fueren materia de un juicio ya iniciado.
 
-### CAPITULO VII
+### CAPITULO VI
 
-DISPOSICIONES RELATIVAS A OTROS ACTOS DE JURISDICCIÓN VOLUNTARIA.
+APEO Y DESLINDE.
 
 ###### Artículo 944.
 
@@ -6867,11 +6969,9 @@ Siempre que alguno de los colindantes al predio objeto del apeo y deslinde expre
 
 Los gastos generales del apeo se harán por el que promueva. Los que importen la intervención de los peritos que designan y de los testigos que presenten los colindantes serán pagados por el que nombre a los unos y presente a los otros.
 
-### CAPITULO UNICO
+### CAPITULO VII
 
-ACCIONES AL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NUEVO LEON.
-
-> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2007)</small>
+DISPOSICIONES RELATIVAS A OTROS ACTOS DE JURISDICCIÓN VOLUNTARIA.
 
 ###### Artículo 950.
 
@@ -6899,11 +6999,11 @@ DE LOS ASUNTOS DEL ORDEN FAMILIAR.
 
 > <small>(ADICIONADO CON LOS, ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE AGOSTO DE 1977)</small>
 
-### CAPITULO I
+### CAPITULO UNICO
 
-DISPOSICIONES GENERALES.
+ACCIONES AL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NUEVO LEON.
 
-> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2007)</small>
 
 ###### Artículo 952.
 
@@ -6987,9 +7087,9 @@ DEL ARBITRAJE.
 
 > <small>(ADICIONADO CON SUS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
-### CAPITULO II
+### CAPITULO I
 
-DEL ACUERDO DE ARBITRAJE.
+DISPOSICIONES GENERALES.
 
 > <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -7013,9 +7113,9 @@ Para los efectos del presente Capítulo se entenderá por arbitraje, el acuerdo 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
-### CAPITULO III
+### CAPITULO II
 
-COMPOSICION DEL TRIBUNAL ARBITRAL.
+DEL ACUERDO DE ARBITRAJE.
 
 > <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -7071,9 +7171,9 @@ Puede comprometerse en árbitros la responsabilidad civil que resulte de delito.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
-### CAPITULO IV
+### CAPITULO III
 
-DE LA COMPETENCIA DEL TRIBUNAL ARBITRAL.
+COMPOSICION DEL TRIBUNAL ARBITRAL.
 
 > <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -7135,9 +7235,9 @@ Los honorarios, gastos de funcionamiento y costas de los árbitros serán fijado
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
-### CAPITULO V
+### CAPITULO IV
 
-DE LAS ACTUACIONES DEL TRIBUNAL ARBITRAL.
+DE LA COMPETENCIA DEL TRIBUNAL ARBITRAL.
 
 > <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -7151,9 +7251,9 @@ El árbitro o árbitros podrán decidir las excepciones a que se hace referencia
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
-### CAPITULO VI
+### CAPITULO V
 
-PRONUNCIAMIENTO DEL LAUDO Y TERMINACION DE LAS ACTUACIONES.
+DE LAS ACTUACIONES DEL TRIBUNAL ARBITRAL.
 
 > <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -7193,9 +7293,9 @@ Si durante las actuaciones arbitrales las partes llegaren a una transacción que
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
-### CAPITULO VII
+### CAPITULO VI
 
-IMPUGNACION DEL LAUDO.
+PRONUNCIAMIENTO DEL LAUDO Y TERMINACION DE LAS ACTUACIONES.
 
 > <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -7241,9 +7341,9 @@ III.- También podrá pedir al árbitro la corrección del laudo, el juez que co
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
-### CAPITULO VIII
+### CAPITULO VII
 
-RECONOCIMIENTO Y EJECUCION DE LOS LAUDOS.
+IMPUGNACION DEL LAUDO.
 
 > <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -7283,11 +7383,11 @@ La resolución no será objeto de recurso alguno.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
-### CAPITULO I
+### CAPITULO VIII
 
-CONFESIONAL.
+RECONOCIMIENTO Y EJECUCION DE LOS LAUDOS.
 
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Artículo 982.
 
@@ -7441,9 +7541,9 @@ PRUEBAS.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
-### CAPITULO II
+### CAPITULO I
 
-TESTIMONIAL.
+CONFESIONAL.
 
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
@@ -7459,9 +7559,9 @@ Llegado el momento para el desahogo de la prueba confesional, estando presentes 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
-### CAPITULO III
+### CAPITULO II
 
-INSTRUMENTAL.
+TESTIMONIAL.
 
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
@@ -7503,9 +7603,9 @@ Los testigos que hayan declarado podrán ser tachados en la audiencia o en un pl
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
-### CAPITULO IV
+### CAPITULO III
 
-PERICIAL.
+INSTRUMENTAL.
 
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
@@ -7521,9 +7621,9 @@ Los documentos que presenten las partes deberán ser impugnados durante la etapa
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
-### CAPITULO I
+### CAPITULO IV
 
-REGLAS GENERALES.
+PERICIAL.
 
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
@@ -7763,11 +7863,11 @@ PROCEDIMIENTO ORAL GENERAL.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
-### CAPITULO II
+### CAPITULO I
 
-REGLAS ESPECIALES.
+REGLAS GENERALES.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 1040.
 
@@ -7959,11 +8059,11 @@ En los asuntos mencionados en las fracciones II, III y V del Artículo 989 de es
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
-### CAPITULO PRIMERO
+### CAPITULO II
 
-DIVORCIO POR MUTUO CONSENTIMIENTO.
+REGLAS ESPECIALES.
 
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 #### SECCION PRIMERA
 
@@ -8133,13 +8233,11 @@ PROCEDIMIENTOS ORALES ESPECIALES.
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 20 DE FEBRERO DE 2009)</small>
 
-### CAPITULO SEGUNDO
+### CAPITULO PRIMERO
 
-DE LA JURISDICCIÓN VOLUNTARIA.
+DIVORCIO POR MUTUO CONSENTIMIENTO.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 1082.
 
@@ -8224,6 +8322,14 @@ Ejecutoriada la sentencia de divorcio, el Juez mandará remitir copia de ésta a
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+
+### CAPITULO SEGUNDO
+
+DE LA JURISDICCIÓN VOLUNTARIA.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
 
 #### SECCION PRIMERA
 
@@ -9548,3 +9654,9 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- La notificación personal electrónica a través del Tribunal Virtual no será aplicable en aquellos asuntos ya iniciados, en los cuales se hubiere presentado la solicitud de acceso al Tribunal Virtual para efectos de consulta con anterioridad a la entrada en vigor del presente Decreto. En estos casos, se podrán practicar esta clase de notificaciones sólo cuando el interesado reitere o formule nueva petición de acceso al sistema de (sic) Tribunal Virtual.
 
 Tercero.- Con la única excepción establecida en el anterior Artículo, cualquier solicitud de acceso al Tribunal Virtual que se presente o llegare a presentarse a partir de la entrada en vigor del presente Decreto, quedará sujeta a las consecuencias legales, así como a las reglas previstas para la práctica de las notificaciones personales por vía electrónica.
+
+P.O. 15 DE JUNIO DE 2012.
+
+Primero.- Las reformas al Artículo 287 Bis 2, del Artículo Segundo del presente Decreto, entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Los Artículos 98 Bis a 98 Bis 5; así como la reforma al Artículo 287 Bis 3 señalados en el Artículo Segundo del presente Decreto; así como las demás disposiciones de los Artículos Primero, Segundo y Tercero del presente Decreto, entrarán en vigor cuando inicie la vigencia de las reformas a la Ley Orgánica del Poder Judicial del Estado de Nuevo León, que establece, las atribuciones de las autoridades jurisdiccionales en la materia.
