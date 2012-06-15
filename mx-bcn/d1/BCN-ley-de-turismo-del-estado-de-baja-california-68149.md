@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-turismo-del-estado-de-baja-california-68149"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-03"
-last_updated: "2010-09-20"
+last_updated: "2012-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE TURISMO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2012.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 3 de abril de 2009.
 
@@ -129,6 +129,10 @@ XXIV.- Turismo Sustentable.- Fin del desarrollo de la actividad turística, que 
 
 XXV.- Turista.- La persona que se desplaza, temporalmente, fuera de su lugar de residencia habitual y que utiliza cualquiera de los servicios turísticos a que se refiere esta ley.
 
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2012)</small>
+
+XXVI.- Zonas de Desarrollo Turístico Sustentables: Aquellas fracciones del territorio nacional, claramente ubicadas y delimitadas geográficamente, que, por sus características naturales o culturales, constituyen un atractivo turístico. Se establecerán mediante declaratorias específicas que emitirá el Presidente de la República, a solicitud de la Secretaría Federal de Turismo, en términos de la Ley General de Turismo y la reglamentación que se expida sobre la materia.
+
 ###### ARTÍCULO 4.
 
 La Secretaría tendrá las siguientes funciones:
@@ -169,7 +173,21 @@ XVII.- Determinar la actividad turística que requiera la prestación de servici
 
 XVIII.- (DEROGADA, P.O. 20 DE SEPTIEMBRE DE 2010)
 
-XIX.- Las demás que se determinen en leyes y reglamentos.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2012)</small>
+
+XIX.- Participar, en coordinación con los Municipios, en la formulación del Programa de Ordenamiento Turístico General del Territorio en los términos de la Ley General de Turismo y demás disposiciones aplicables, así como, conjuntamente, elaborar el Programa de Ordenamiento Turístico del Territorio Estatal, bajo los lineamientos y bases que se insertan en la Sección Primera del Capítulo VIII de esta Ley.
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2012)</small>
+
+XX.- Previa la suscripción de los acuerdos de coordinación con la instancia federal que corresponda, ejecutar las ordenes de verificación del cumplimiento de la Ley General de Turismo, su reglamento y las Normas Oficiales Mexicanas en esta materia.
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2012)</small>
+
+XXI.- Imponer las sanciones por violaciones a esta Ley y la Ley General de Turismo, previa la suscripción, en su caso, de los convenios de coordinación con las autoridades federales que correspondan, y;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2012)</small>
+
+XXII.- Las demás que se determinen en leyes y reglamentos.
 
 ###### ARTÍCULO 5.
 
@@ -1057,11 +1075,53 @@ IV.- Las medidas y mecanismos prácticos para facilitar el ingreso al país de l
 
 La Secretaría privilegiará los acuerdos, convenios y mecanismos de coordinación con las dependencias y entidades públicas de la Federación, y en su caso, con los Gobiernos Municipales, con el objeto de evitar duplicidad de funciones y la invasión de facultades que para cada una establecen las leyes federales, estatales y municipales.
 
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
+
+ARTÍCULO 84 BIS.- Además de las atribuciones competenciales establecidas en la presente Ley, corresponde a los Municipios, de conformidad con lo dispuesto en la Ley General de Turismo:
+
+I.- Formular, conducir y evaluar la política turística municipal;
+
+II.- Celebrar convenios en materia turística conforme a lo previsto en la Ley General de Turismo y en esta Ley;
+
+III.- Aplicar los instrumentos de política turística que le sean atribuidos por las leyes locales, así como la planeación, programación, fomento y desarrollo de la actividad turística en bienes y áreas de competencia municipal, en las materias que no estén expresamente atribuidas al Ejecutivo Federal o al Estado;
+
+IV.- Formular, ejecutar y evaluar el Programa Municipal de Turismo, el cual considerará las directrices previstas en el Plan Nacional de Desarrollo, el Programa Sectorial de Turismo y el Plan Estatal de Desarrollo;
+
+V.- Establecer el Consejo Consultivo Municipal de Turismo, que tendrá por objeto coordinar, proponer y formular estrategias y acciones de la Administración Pública Municipal, con el fin de lograr un desarrollo integral de la actividad turística del Municipio. Será presidido por el Titular del Ayuntamiento, y estará integrado por los funcionarios que éste determine, conforme a lo que establezcan las disposiciones reglamentarias. Podrán ser invitadas las instituciones y entidades públicas, privadas y sociales que se determinen y demás personas relacionadas con el turismo en el Municipio, las cuales participarán únicamente con derecho a voz;
+
+VI.- Concertar con los sectores privados y sociales, las acciones tendientes a detonar programas a favor de la actividad turística;
+
+VII.- Participar en los programas locales de ordenamiento turístico del territorio;
+
+VIII.- Participar en el diseño, instrumentación, ejecución y evaluación de los programas locales de investigación para el desarrollo turístico;
+
+IX.- Formular y conducir la Política Municipal de información y difusión en materia turística;
+
+X.- Coadyuvar en la instrumentación de las acciones de promoción de las actividades y destinos turísticos con que cuenta;
+
+XI.- Promover el impulso de las micro, pequeñas y medianas empresas turísticas;
+
+XII.- Participar en los programas de prevención y atención de emergencias y desastres, así como en acciones para la gestión integral de los riesgos, conforme a las políticas y programas de protección civil que al efecto se establezcan;
+
+XIII.- Operar módulos de información y orientación al turista;
+
+XIV.- Recibir y canalizar las quejas de los turistas, para su atención ante la autoridad competente;
+
+XV.- Atender los demás asuntos que en materia de planeación, programación, fomento y desarrollo de la actividad turística les conceda la Ley General de Turismo, esta Ley u otros ordenamientos legales en concordancia con ella y que no estén otorgados expresamente al Ejecutivo Federal o al Estado;
+
+XVI.- Emitir su opinión ante la Secretaría, en aquellos casos en que la inversión concurra en proyectos de desarrollo turístico o en el establecimiento de servicios turísticos, dentro de su territorio, y
+
+XVII.- Las demás previstas en éste y otros ordenamientos.
+
 ### CAPÍTULO XV. DE LAS VISITAS DE VERIFICACIÓN Y DE LOS PROCEDIMIENTOS
 
 ###### ARTÍCULO 85.
 
 La Secretaría estará facultada para realizar visitas de verificación a los prestadores de servicios turísticos con el objeto de constatar el debido cumplimiento de sus obligaciones establecidas en esta Ley, su Reglamento y, en su caso, en las Normas Técnicas que expida el Ejecutivo, así como para efectuar requerimientos, que se ajustarán a los términos de la Ley del Procedimientos para los Actos de la Administración Pública del Estado de Baja California.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
+
+Asimismo y previa la suscripción de los acuerdos de coordinación con la instancia federal correspondiente, la Secretaría podrá verificar el cumplimiento de la Ley General de Turismo, su Reglamento y las Normas Oficiales Mexicanas en esta materia.
 
 ###### ARTÍCULO 86.
 
@@ -1069,7 +1129,9 @@ La Secretaría recibirá las quejas de los turistas las que, de ser posible, se 
 
 Una vez recibida la queja, la Secretaría procurará la conciliación de los involucrados, para lo cual deberá levantar acta en la que se indicará el acuerdo logrado por los interesados y el plazo en el cual se cumplirá el mismo, debiéndose firmar por las partes y el personal designado por la Secretaría.
 
-En el supuesto de que no se lograra conciliación de las partes, o bien, no se cumpliera el acuerdo descrito en el párrafo anterior, la Secretaría canalizará la queja a petición del turista a la Procuraduría Federal del Consumidor en los términos del Título V, Capítulo V de la Ley Federal de Turismo.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2012)</small>
+
+En el supuesto de que no se lograra conciliación de las partes, o bien, no se cumpliera el acuerdo descrito en el párrafo anterior, la Secretaría canalizará la queja a petición del turista a la Procuraduría Federal del Consumidor, en los términos del Título Quinto, Capítulo VII de la Ley General de Turismo.
 
 Si la queja fuese contra de (sic) servidores públicos, la Secretaría la canalizará a las oficinas competentes ya sean del orden federal, estatal o municipal, para que se proceda en consecuencia.
 
@@ -1079,11 +1141,17 @@ Si la queja fuese contra de (sic) servidores públicos, la Secretaría la canali
 
 Cuando derivado de las visitas de verificación se determine el incumplimiento, por parte del prestador de servicios turísticos, de las obligaciones establecidas en esta Ley, se le aplicarán las siguientes sanciones:
 
-I.- Las infracciones a las obligaciones consignados en las fracciones I a la VIII del Artículo 65 de la presente Ley serán sancionadas con multa hasta por la cantidad fijada en el Artículo 48 de la Ley Federal de Turismo;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2012)</small>
 
-II.- Las infracciones a lo dispuesto en los reglamentos que regulan los servicios turísticos a que se refiere el Artículo 61 de esta Ley, así como el incumplimiento a las Obligaciones consignadas en el Artículo 65, fracciones IX, X, XI, XIV, XVI, XVII y XIX del presente ordenamiento, se sancionarán con multa hasta de mil veces el salario mínimo diario al que se refiere el artículo 49 de la Ley Federal de Turismo; y,
+I.- Las infracciones a las obligaciones consignadas en las fracciones I a la VIII del Artículo 65 de la presente Ley serán sancionadas con multa hasta por el equivalente de cuatrocientas veces el salario mínimo diario vigente en la Entidad.
 
-III.- Las infracciones a las Obligaciones consignadas en las fracciones XII, XIII, XV y XVIII del Artículo 65 de este ordenamiento, se sancionarán acorde a lo previsto por el artículo 50 de la Ley Federal de Turismo.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2012)</small>
+
+II.- Las infracciones a lo dispuesto en los reglamentos que regulan los servicios turísticos a que se refiere el Artículo 61 de esta Ley, así como el incumplimiento a las obligaciones consignadas en el Artículo 65, fracciones IX, X, XI, XIV, XVI, XVII y XIX del presente ordenamiento, se sancionarán con multa hasta de mil veces el salario mínimo diario vigente en el Estado.
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2012)</small>
+
+III.- Las infracciones a las obligaciones consignadas en las fracciones XII, XIII, XV y XVIII del Artículo 65 de este ordenamiento, se sancionarán con multa hasta por el equivalente de mil veces el salario mínimo diario vigente en el Estado.
 
 ###### ARTÍCULO 88.
 
@@ -1152,3 +1220,13 @@ P.O. 20 DE SEPTIEMBRE DE 2010.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Los asuntos que se encuentren en trámite correspondientes al turismo cinematográfico, al momento de la entrada en vigor de las presentes reformas, serán resueltos conforme a las disposiciones jurídicas aplicables en el momento en que se iniciaron.
+
+P.O. 15 DE JUNIO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En un término no mayor de 90 días contados a partir de la entrada en vigor del presente Decreto, los Ayuntamientos de cada Municipio de Baja California, deberán establecer el Consejo Consultivo Municipal de Turismo.
+
+TERCERO.- En un término no mayor a 60 días contados a partir del establecimiento de los Consejos Consultivos Municipales de Turismo, los Ayuntamientos deberán crear el Reglamento de dichos Consejos.
+
+CUARTO.- Se derogan todas aquellas disposiciones que se opongan a la presente reforma.
