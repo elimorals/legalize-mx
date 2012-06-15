@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-comision-nacional-de-los-derechos-humanos-antes-101"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-29"
-last_updated: "2011-12-14"
+last_updated: "2012-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-06-25"
 
 LEY DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JUNIO DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 29 de junio de 1992.
 
@@ -37,7 +37,7 @@ DECRETO
 
 DECRETA:
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
 
 LEY DE LA COMISION NACIONAL DE LOS DERECHOS HUMANOS
 
@@ -67,9 +67,11 @@ Tratándose de presuntas violaciones a los Derechos Humanos en que los hechos se
 
 Asimismo, corresponderá conocer a la Comisión Nacional de los Derechos Humanos de las inconformidades que se presenten en relación con las recomendaciones, acuerdos u omisiones de los organismos equivalentes en las Entidades Federativas, a que se refiere el artículo 102, Apartado B, de la Constitución Política de los Estados Unidos Mexicanos; así como por la no aceptación de sus recomendaciones por parte de las autoridades, o por el deficiente cumplimiento de las mismas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE JUNIO DE 2012)</small>
+
 ###### ARTICULO 4o.
 
-Los procedimientos que se sigan ante la Comisión deberán ser breves y sencillos, y estarán sujetos sólo a las formalidades esenciales que requiera la documentación de los expedientes respectivos. Se seguirán además, de acuerdo con los principios de inmediatez, concentración y rapidez, y se procurará, en la medida de lo posible, el contacto directo con quejosos, denunciantes y autoridades, para evitar la dilación de las comunicaciones escritas.
+Para la defensa y promoción de los derechos humanos se observarán los principios de universalidad, interdependencia, indivisibilidad y progresividad. Los procedimientos de la Comisión deberán ser breves y sencillos, y estarán sujetos sólo a formalidades esenciales que requiera la documentación de los expedientes respectivos; seguirán además los principios de inmediatez, concentración y rapidez. Se procurará, en la medida de lo posible, el contacto directo con quejosos, denunciantes y autoridades, para evitar la dilación de las comunicaciones escritas.
 
 El personal de la Comisión Nacional deberá manejar de manera confidencial la información o documentación relativa a los asuntos de su competencia.
 
@@ -77,9 +79,11 @@ El personal de la Comisión Nacional deberá manejar de manera confidencial la i
 
 ### CAPITULO I. DE LA INTEGRACION Y FACULTADES DE LA COMISION NACIONAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE JUNIO DE 2012)</small>
+
 ###### ARTICULO 5o.
 
-La Comisión Nacional se integrará con un Presidente, una Secretaría Ejecutiva, hasta 5 Visitadores Generales, así como el número de visitadores adjuntos y personal profesional, técnico y administrativo necesario para la realización de sus funciones.
+La Comisión Nacional se integrará con un Presidente, una Secretaría Ejecutiva, Visitadores Generales así como el número de visitadores adjuntos y personal profesional, técnico y administrativo necesario para la realización de sus funciones.
 
 La Comisión Nacional para el mejor desempeño de sus responsabilidades contará con un Consejo.
 
@@ -127,7 +131,13 @@ XIV.- Proponer al Ejecutivo Federal, en los términos de la legislación aplicab
 
 XIV Bis.- La observancia del seguimiento, evaluación y monitoreo, en materia de igualdad entre mujeres y hombres;
 
-XV.- Las demás que le otorguen la presente ley y otros ordenamientos legales.
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 15 DE JUNIO DE 2012)</small>
+
+XV.- Investigar hechos que constituyan violaciones graves de derechos humanos, cuando así lo juzgue conveniente o lo pidiere el Ejecutivo Federal, alguna de las Cámaras del Congreso de la Unión, el Gobernador de un Estado, el Jefe de Gobierno del Distrito Federal o las legislaturas de las entidades federativas, y
+
+> <small>(ADICIONADA, D.O.F. 15 DE JUNIO DE 2012)</small>
+
+XVI.- Las demás que le otorgue la presente Ley y otros ordenamientos legales.
 
 ###### ARTICULO 7o.
 
@@ -137,7 +147,7 @@ I.- Actos y resoluciones de organismos y autoridades electorales;
 
 II.- Resoluciones de carácter jurisdiccional;
 
-III.- Conflictos de carácter laboral; y
+III.- (DEROGADA, D.O.F. 15 DE JUNIO DE 2012)
 
 IV.- Consultas formuladas por autoridades, particulares u otras entidades, sobre la interpretación de las disposiciones constitucionales y legales.
 
@@ -145,7 +155,7 @@ IV.- Consultas formuladas por autoridades, particulares u otras entidades, sobre
 
 En los términos de esta ley, sólo podrán admitirse o conocerse quejas o inconformidades contra actos u omisiones de autoridades judiciales, salvo las de carácter federal, cuando dichos actos u omisiones tengan carácter administrativo. La Comisión Nacional por ningún motivo podrá examinar cuestiones jurisdiccionales de fondo.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
 
 ### CAPITULO II. DE LA ELECCION, FACULTADES Y OBLIGACIONES DEL PRESIDENTE DE LA COMISION
 
@@ -199,7 +209,7 @@ El Presidente de la Comisión Nacional podrá ser removido de sus funciones y, e
 
 En este supuesto, el Presidente será substituido interinamente por el primer Visitador General, en tanto no se designe nuevo Presidente de la Comisión Nacional.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 15.
 
@@ -227,15 +237,27 @@ VII.- Aprobar y emitir las recomendaciones públicas y acuerdos que resulten de 
 
 VIII.- Formular las propuestas generales conducentes a una mejor protección de los derechos humanos en el país;
 
-IX.- Elaborar el anteproyecto de presupuesto de egresos de la Comisión y el respectivo informe sobre su ejercicio para presentarse al Consejo de la misma; y
+> <small>(REFORMADA, D.O.F. 15 DE JUNIO DE 2012)</small>
 
-X.- Las demás que le señalen la presente ley y otros ordenamientos.
+IX.- Elaborar el anteproyecto de presupuesto de egresos de la Comisión y el respectivo informe sobre su ejercicio para presentarse al Consejo de la misma;
+
+> <small>(ADICIONADA, D.O.F. 15 DE JUNIO DE 2012)</small>
+
+X.- Solicitar, en los términos del artículo 46 de esta Ley, a la Cámara de Senadores o en sus recesos, a la Comisión Permanente, o a las legislaturas de las entidades federativas, según corresponda se llame a comparecer a las autoridades o servidores públicos responsables, para explicar el motivo de su negativa a aceptar o cumplir las recomendaciones emitidas por la Comisión Nacional de los Derechos Humanos;
+
+> <small>(ADICIONADA, D.O.F. 15 DE JUNIO DE 2012)</small>
+
+XI.- Promover las acciones de inconstitucionalidad, en contra de leyes de carácter federal, estatal y del Distrito Federal, así como de tratados internacionales celebrados por el Ejecutivo Federal y aprobados por el Senado de la República, que vulneren los derechos humanos reconocidos en la Constitución y en los tratados internacionales de los que México sea parte, y
+
+> <small>(REFORMADA, D.O.F. 15 DE JUNIO DE 2012)</small>
+
+XII.- Las demás que le señalen la presente Ley y otros ordenamientos.
 
 ###### ARTICULO 16.
 
 Tanto el Presidente de la Comisión, como los Visitadores Generales y los visitadores adjuntos, en sus actuaciones tendrán fe pública para certificar la veracidad de los hechos en relación con las quejas o inconformidades, presentadas ante la Comisión Nacional.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
 
 ### CAPITULO III. DE LA INTEGRACION Y FACULTADES DEL CONSEJO
 
@@ -255,7 +277,7 @@ Los miembros del Consejo Consultivo serán elegidos por el voto de las dos terce
 
 La comisión correspondiente de la Cámara de Senadores, previa auscultación a los sectores sociales, propondrá a los candidatos para ocupar el cargo o, en su caso, la ratificación de los consejeros.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 19.
 
@@ -441,7 +463,7 @@ Las pruebas que se presenten, tanto por los interesados como por las autoridades
 
 Las conclusiones del expediente, que serán la base de las recomendaciones, estarán fundamentadas exclusivamente en la documentación y pruebas que obren en el propio expediente.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
 
 ### CAPITULO III. DE LAS NOTIFICACIONES Y LOS INFORMES
 
@@ -461,13 +483,25 @@ Los proyectos antes referidos serán sometidos al Presidente de la Comisión Nac
 
 En caso de que no se comprueben las violaciones de derechos humanos imputadas, la Comisión Nacional dictará acuerdo de no responsabilidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 46.
 
 La recomendación será pública y no tendrá carácter imperativo para la autoridad o servidor público a los cuales se dirigirá y, en consecuencia, no podrá por sí misma anular, modificar o dejar sin efecto las resoluciones o actos contra los cuales se hubiese presentado la queja o denuncia.
 
 En todo caso, una vez recibida, la autoridad o servidor público de que se trate informará, dentro de los quince días hábiles siguientes a su notificación, si acepta dicha Recomendación. Entregará, en su caso, en otros quince días adicionales, las pruebas correspondientes de que ha cumplido con la Recomendación. Dicho plazo podrá ser ampliado cuando la naturaleza de la Recomendación así lo amerite.
+
+> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2012)</small>
+
+Cuando las recomendaciones emitidas no sean aceptadas o cumplidas, se procederá conforme a lo siguiente:
+
+a) La autoridad o servidor público de que se trate deberá fundar, motivar y hacer pública su negativa, y atender los llamados de la Cámara de Senadores o en sus recesos la Comisión Permanente, a comparecer ante dichos órganos legislativos, a efecto de que expliquen el motivo de su negativa.
+
+b) La Comisión Nacional determinará, previa consulta con los órganos legislativos referidos en el inciso anterior, en su caso, si la fundamentación y motivación presentadas por la autoridad o servidor público que se hubiese negado a aceptar o cumplir las recomendaciones emitidas, son suficientes, y hará saber dicha circunstancia por escrito a la propia autoridad o servidor público y, en su caso, a sus superiores jerárquicos, para los efectos del siguiente inciso.
+
+c) Las autoridades o servidores públicos, a quienes se les hubiese notificado la insuficiencia de la fundamentación y motivación de la negativa, informarán dentro de los quince días hábiles siguientes a la notificación del escrito referido en el inciso que antecede, si persisten o no en la posición de no aceptar o no cumplir la recomendación.
+
+d) Si persiste la negativa, la Comisión Nacional podrá denunciar ante el Ministerio Público o la autoridad administrativa que corresponda a los servidores públicos señalados en la recomendación como responsables.
 
 ###### ARTICULO 47.
 
@@ -627,6 +661,10 @@ La Comisión Nacional podrá dar seguimiento a las actuaciones y diligencias que
 
 En caso de que algún servidor público en respuesta a un requerimiento de información formulado por la Comisión Nacional rindiera informes falsos o parcialmente verdaderos, se le sancionará en los términos que señala el artículo 214, fracción V, del Código Penal Federal.
 
+> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2012)</small>
+
+ARTICULO 73 BIS.- La Comisión Nacional podrá denunciar ante el Ministerio Público o la autoridad administrativa que corresponda la reiteración de las conductas cometidas por una misma autoridad o servidor público, que hayan sido materia de una recomendación previa que no hubiese sido aceptada o cumplida.
+
 ## TITULO V. DEL REGIMEN LABORAL
 
 ###### ARTICULO 74.
@@ -671,7 +709,7 @@ México, D. F., a 23 de junio de 1992.- Sen. Manuel Aguilera Gómez, Presidente.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinticinco días del mes de junio de mil novecientos noventa y dos.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 23 DE ENERO DE 1998.
 
@@ -712,3 +750,7 @@ D.O.F. 30 DE JUNIO DE 2006.
 D.O.F. 14 DE DICIEMBRE DE 2011.
 
 Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE JUNIO DE 2012.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
