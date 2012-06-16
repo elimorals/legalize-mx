@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-atencion-y-proteccion-a-victimas-u-ofendidos-del-52078"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-21"
-last_updated: "2010-10-02"
+last_updated: "2012-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY DE ATENCION Y PROTECCION A VICTIMAS U OFENDIDOS DEL DELITO DEL ESTADO DE CHIHUAHUA
 
-LEY DE ATENCION Y PROTECCION A VICTIMAS U OFENDIDOS DEL DELITO DEL ESTADO DE CHIHUAHUA
+LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS U OFENDIDOS DEL DELITO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 21 de octubre del 2006.
 
@@ -47,7 +47,7 @@ LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS U OFENDIDOS DEL DELITO DEL ESTADO DE 
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -65,7 +65,7 @@ II. Código Penal.- El Código Penal para el Estado de Chihuahua;
 
 III. Código de Procedimientos Penales.- El Código de Procedimientos Penales para el Estado de Chihuahua;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -75,7 +75,7 @@ V. Secretaría.- La Secretaría de Fomento Social del Estado;
 
 VI. DIF.- El Sistema para el Desarrollo Integral de la Familia en el Estado de Chihuahua;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -87,7 +87,7 @@ IX. Ofendido.- En caso de muerte de la víctima, se considerarán ofendidos, con
 
 X. Sujetos Protegidos.- Todos aquéllos que, sin ser víctimas u ofendidos, tengan relación directa o indirecta con alguno de éstos y existan indicios de que pudieran ser afectados por los responsables de la comisión de un delito o por terceros involucrados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -99,7 +99,7 @@ La Fiscalía General, para la prestación de los servicios de atención y protec
 
 La Fiscalía será la encargada de vigilar el cumplimiento de los derechos de atención y protección, así como la prevención pública regulados por este ordenamiento, incluyendo la ejecución de los acuerdos y demás determinaciones emitidas por el titular de la Fiscalía General.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -107,9 +107,11 @@ La Fiscalía será la encargada de vigilar el cumplimiento de los derechos de at
 
 Las autoridades, servidores públicos, así como organismos públicos que presten servicios médicos o del área de salud, en el ámbito de sus respectivas competencias, deberán llevar a cabo las acciones necesarias para el oportuno y eficaz cumplimiento de esta Ley.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 5.
 
-Las autoridades estatales y municipales podrán celebrar toda clase de acuerdos y convenios administrativos mediante los cuales se establezcan los mecanismos de coordinación, colaboración y concertación que permitan la participación de los sectores público, social y privado en materia de atención y protección a víctimas u ofendidos del delito.
+Las autoridades estatales y municipales podrán celebrar toda clase de acuerdos y convenios necesarios mediante los cuales se establezcan los mecanismos de coordinación, colaboración y concertación que permitan la participación de los sectores público, social y privado en materia de atención y protección a víctimas u ofendidos del delito.
 
 ###### ARTÍCULO 6.
 
@@ -217,7 +219,7 @@ V. Proponer al Titular de la Procuraduría los acuerdos generales, protocolos, l
 
 VI. Las demás que le confieren esta Ley y otras disposiciones legales aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -225,7 +227,7 @@ VI. Las demás que le confieren esta Ley y otras disposiciones legales aplicable
 
 La Fiscalía contará con el personal especializado en las materias a que se refiere la fracción I del artículo anterior, que resulte necesario para el cumplimiento de las atribuciones que le confiere la presente Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -237,7 +239,7 @@ Con el objeto de salvaguardar la integridad física y mental de las víctimas u 
 
 El DIF, sin perjuicio de las facultades y obligaciones impuestas por otros ordenamientos, prestará a las víctimas u ofendidos de delitos las medidas de atención y protección previstas por esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -253,7 +255,7 @@ Para el cumplimiento del objetó de esta ley, las instituciones de salud y asist
 
 Desde el inicio de la investigación, los Agentes del Ministerio Público darán a conocer a las víctimas u ofendidos de delitos los derechos y beneficios establecidos por la presente Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -261,7 +263,7 @@ Desde el inicio de la investigación, los Agentes del Ministerio Público darán
 
 La Fiscalía obtendrá la información necesaria para determinar si es que procede el monto de los beneficios correspondientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -269,7 +271,7 @@ La Fiscalía obtendrá la información necesaria para determinar si es que proce
 
 Cuando se otorgue atención o protección a la víctima u ofendido del delito, la Fiscalía General podrá subrogarse en los derechos a la reparación de los daños y perjuicios por el costo total de la protección otorgada.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -349,7 +351,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO RODRIGUEZ MORENO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 30 DE ENERO DE 2010.
 
@@ -400,3 +402,9 @@ P.O. 2 DE OCTUBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE JUNIO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
