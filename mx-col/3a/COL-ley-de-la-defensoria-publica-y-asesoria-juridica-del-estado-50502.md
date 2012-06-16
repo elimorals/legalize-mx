@@ -4,7 +4,7 @@ identifier: "COL-ley-de-la-defensoria-publica-y-asesoria-juridica-del-estado-505
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-15"
-last_updated: "2012-04-21"
+last_updated: "2012-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY DE LA DEFENSORÍA PÚBLICA Y ASESORÍA JURÍDICA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 16 DE JUNIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el lunes 15 de mayo de 2006.
 
@@ -660,3 +662,25 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS.-
 P.O. 21 DE ABRIL DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 16 DE JUNIO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "(sic) El Estado de Colima.
+
+SEGUNDO.- Se abroga la Ley de la Defensoría de Oficio y Asesoría Jurídica del Estado de Colima, contenida en el Decreto número 368, publicada en el Periódico Oficial "El Estado de Colima", de fecha 15 de mayo de 2006.
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+CUARTO.- Todos los recursos, instalaciones y mobiliario pertenecientes a las Defensorías de Oficio del Estado, se entregarán, previo inventario de la Dirección de Patrimonio del Gobierno del Estado, a la Dirección de Defensoría Pública.
+
+QUINTO.- Sin perjuicio de sus derechos laborales, se incorporarán a la Dirección los defensores de oficio adscritos a la Dirección de Prevención y Reinserción Social del Gobierno del Estado, a la Procuraduría General de Justicia del Estado, al Tribunal de lo Contencioso Administrativo del Estado.
+
+Todos los defensores de oficio que se encuentren asignados a la Dirección continuarán en su encargo, sin embargo para su permanencia, deberán someterse al curso de capacitación a fin de que puedan sustentar el examen de oposición a que se refieren los artículos 68 y 69 de la presente Ley.
+
+SEXTO.- Todo lo que se refiera al Nuevo Sistema de Justicia Penal Acusatorio Adversarial, entrará en vigor a partir del 03 de diciembre del 2012.
+
+En el caso de que no se dieran las condiciones necesarias para la implantación del Nuevo Sistema de Justicia Penal en el Estado, en la fecha señalada en el párrafo anterior, se hará una declaratoria de ampliación del término para la entrada en vigor del mismo.
+
+SÉPTIMO.- El Ejecutivo del Estado expedirá el Reglamento de la presente Ley, dentro de los seis meses siguientes a la entrada en vigor de la misma.
+
+OCTAVO.- Las obligaciones presupuestarias que se consignan en la presente Ley, serán obligatorias a partir del Presupuesto de Egresos correspondiente al ejercicio fiscal 2013.
