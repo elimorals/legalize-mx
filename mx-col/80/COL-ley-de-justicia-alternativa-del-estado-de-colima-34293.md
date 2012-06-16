@@ -4,7 +4,7 @@ identifier: "COL-ley-de-justicia-alternativa-del-estado-de-colima-34293"
 country: "mx"
 rank: "ley"
 publication_date: "2003-09-27"
-last_updated: "2011-08-13"
+last_updated: "2012-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34293&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2012.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 27 de septiembre de 2003.
 
@@ -75,7 +75,9 @@ VII. Establecer el régimen de responsabilidad administrativa de los servidores 
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Justicia alternativa, todo procedimiento no jurisdiccional para solucionar un conflicto de índole civil, familiar, mercantil o penal, al cual pueden recurrir voluntariamente las partes involucradas, para buscar una solución acordada que ponga fin a su controversia, por medio de técnicas específicas aplicadas por especialistas;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2012)</small>
+
+I. Justicia alternativa, todo procedimiento no jurisdiccional para solucionar un conflicto de índole civil, familiar y mercantil, al cual pueden recurrir voluntariamente las partes involucradas, para buscar una solución acordada que ponga fin a su controversia, por medio de técnicas específicas aplicadas por especialistas;
 
 II. Mediación, el procedimiento voluntario por el cual dos o más personas involucradas en un conflicto, asistidas por un tercero imparcial, llamado mediador, conjuntamente participan en dirimir una controversia y elaboran un acuerdo que le ponga fin, gracias a la comunicación que éste propicia;
 
@@ -119,7 +121,9 @@ Los particulares podrán prestar el servicio de solución de conflictos, a trav�
 
 Son susceptibles de solución a través de los medios alternativos previstos en este ordenamiento, las controversias jurídicas de naturaleza civil, familiar y mercantil, siempre y cuando no se contravengan disposiciones de orden público, no se trate de derechos irrenunciables y no se afecten derechos de terceros.
 
-En materia penal, sólo podrá recurrirse a los medios alternativos que esta Ley contempla, cuando se trate de conductas que pudieran constituir delitos en los que el perdón del ofendido extinga la acción persecutoria conforme a lo previsto en el Código Penal para el Estado.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2012)</small>
+
+En materia penal, sólo podrá recurrirse a los medios alternativos que la Ley de Justicia Penal Restaurativa del Estado de Colima contempla.
 
 ###### Artículo 8o.
 
@@ -149,15 +153,19 @@ El contenido de las conversaciones, acuerdos y convenios realizadas o suscritos 
 
 El especialista que conduzca un procedimiento alternativo de solución de conflictos, en los términos del presente ordenamiento, no podrá revelar a una de las partes la información relativa a la controversia que la otra le haya proporcionado en razón de su encargo, sin autorización de esta última.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2012)</small>
+
 ###### Artículo 13.
 
-Los especialistas que conduzcan un procedimiento alternativo de solución de conflictos en los términos de esta Ley, no podrán actuar como testigos, apoderados legales, abogados defensores o asesores en los procedimientos jurisdiccionales relacionados con dichos asuntos, en los casos en que no hayan sido resueltos en la vía alternativa o de que se incumplan los convenios respectivos, quedando legítimamente impedidos para declarar en una causa penal, cualquier dato o circunstancia que perjudique a las partes y que haya conocido por su intervención en dicho medio alternativo.
+Los especialistas que conduzcan un procedimiento alternativo de solución de conflictos en los términos de esta Ley, no podrán actuar como testigos, apoderados legales, abogados defensores o asesores en los procedimientos jurisdiccionales relacionados con dichos asuntos, en los casos en que no hayan sido resueltos en la vía alternativa o de que se incumplan los convenios respectivos, cualquier dato o circunstancia que perjudique a las partes y que haya conocido por su intervención en dicho medio alternativo.
 
 ### CAPÍTULO II. Del Centro Estdtdl y e los Centros Regiondles e Justicid Alternativd (sic)
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2012)</small>
+
 ###### Artículo 14.
 
-Se crea el Centro Estatal de Justicia Alternativa de Colima, como un órgano auxiliar del Poder Judicial, con autonomía técnica para conocer y solucionar, a través de los procedimientos no jurisdiccionales previstos en este ordenamiento las controversias jurídicas en materia civil, familiar, mercantil y penal que le planteen los particulares o le remita el órgano jurisdiccional, en los términos de esta Ley.
+Se crea el Centro Estatal de Justicia Alternativa de Colima, como un órgano auxiliar del Poder Judicial, con autonomía técnica para conocer y solucionar, a través de los procedimientos no jurisdiccionales previstos en este ordenamiento las controversias jurídicas en materia civil, familiar y mercantil que le planteen los particulares o le remita el órgano jurisdiccional, en los términos de esta Ley.
 
 ###### Artículo 15.
 
@@ -405,7 +413,9 @@ VII. Haber residido en el Estado durante los dos años anteriores al día de la 
 
 VIII. Participar y obtener resultado favorable en el concurso de oposición previsto en esta Ley.
 
-Los especialistas independientes deberán reunir los requisitos señalados en las fracciones III, IV, V y VI de este artículo, previo examen de conocimientos en derecho y en los medios alternativos de solución de controversias, tomando en cuenta su (sic) antecedentes profesionales que acrediten la honorabilidad, honestidad y probidad en su ejercicio.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2012)</small>
+
+Los especialistas independientes deberán reunir los requisitos señalados en las fracciones III, IV, V y VI de este artículo, previo examen de conocimientos en derecho y en los medios alternativos de solución de controversias, tomando en cuenta sus antecedentes profesionales que acrediten la honorabilidad, honestidad y probidad en su ejercicio.
 
 ###### Artículo 35.
 
@@ -473,7 +483,9 @@ V. Supervisar y vigilar el correcto desempeño de las personas que los auxilien 
 
 VI. Informar a las partes sobre la naturaleza y ventajas de los procedimientos alternativos de solución de conflictos previstos en esta Ley, así como de las consecuencias legales del acuerdo, convenio o transacción que celebren en su caso;
 
-VII. Conducir los procedimientos alternos a que se refiere esta Ley, en forma clara y ordenada;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2012)</small>
+
+VII. Conducir los procedimientos alternos a que se refiere esta Ley, en forma clara, transparente y ordenada;
 
 VIII. Evitar la extensión innecesaria del procedimiento que conozca;
 
@@ -523,9 +535,11 @@ Los menores de edad y las personas en estado de interdicción comparecerán por 
 
 Las solicitudes de mediación o conciliación podrán presentarse por comparecencia o por escrito de una o ambas de las partes, ante el Director del Centro Estatal o del Centro Regional de que se trate.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2012)</small>
+
 ###### Artículo 45.
 
-Cuando la petición se formule oralmente, se levantará acta, identificando al o los comparecientes, haciendo constar sus nombres y apellidos y el carácter con el cual comparecen; el domicilio que señalen para recibir notificaciones; el nombre, apellidos y domicilio de la otra parte involucrada en el conflicto; una relación de los documentos que exhiban y los datos o antecedentes que sirvan para identificar la situación que origina la controversia.
+Cuando la petición se formule oralmente, se levantará acta, identificando al o los comparecientes, haciendo constar sus nombres, apellidos, el carácter con el cual comparecen y el domicilio que señalen para recibir notificaciones; el nombre, apellidos, domicilio de la otra parte involucrada en el conflicto, una relación de los documentos que exhiban y los datos o antecedentes que sirvan para identificar la situación que origina la controversia.
 
 Cuando los peticionarios exhiban alguna documentación, el Centro Estatal o Regional deberá retener una copia simple de la misma y devolver los originales a los interesados.
 
@@ -537,21 +551,29 @@ Con la solicitud o el acta respectiva y una copia de la documentación que prese
 
 Una vez radicado el expediente, se turnará al Director General del Centro Estatal o Director del Centro Regional respectivo, para que califique el conflicto y admita o niegue, en su caso, la intervención de los especialistas.
 
-Si el Director decreta el rechazo del asunto, por no corresponder a la competencia de los tribunales del Estado o por no se (sic) susceptible de resolverse a través de la mediación o conciliación; se notificará esta resolución al solicitante del servicio, exhortándolo a la solución del conflicto.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2012)</small>
+
+Si el Director decreta el rechazo del asunto, por no corresponder a la competencia de los tribunales del Estado o por no ser susceptible de resolverse a través de la mediación o conciliación; se notificará esta resolución al solicitante del servicio, exhortándolo a la solución del conflicto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2012)</small>
 
 ###### Artículo 47.
 
-Admitido el asunto, el Director procederá a designar a uno de los especialistas del Centro Estatal o del Centro Regional correspondiente, para que se ocupe del caso, ordenando que se invite al compareciente y a la otra parte involucrada en el conflicto a una sesión, en la que dicho especialista les explicará partes la naturaleza y fines de los procedimientos alternativos, así como las bondades de solucionar el conflicto por vía de la mediación o conciliación.
+Admitido el asunto, el Director procederá a designar a uno de los especialistas del Centro Estatal o del Centro Regional correspondiente, para que se ocupe del caso, ordenando que se invite al compareciente y a la otra parte involucrada en el conflicto a una sesión, en la que dicho especialista les explicará a las partes la naturaleza y fines de los procedimientos alternativos, así como las bondades de solucionar el conflicto por vía de la mediación o conciliación.
 
 Si el invitado acepta participar en los procedimientos alternativos, ambas partes designarán el procedimiento y suscribirán el compromiso de someterse a dicho método.
 
-Si el peticionario del servicio no comparece el día y hora que se fije o retira su petición, se levantará el acta respectiva y se archivará el expediente. Lo mismo ocurrirá si la otra parte que interviene en el conflicto se niega a someter éste a los medios alternativos.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2012)</small>
+
+Si el peticionario del servicio no comparece el día y hora que se fije o retira su petición, se levantará el acta respectiva y se archivará el expediente. Lo mismo ocurrirá si la otra parte que interviene en el conflicto se niega a someterse a los medios alternativos.
 
 Se entiende que hay negativa a someterse a los procedimientos de la justicia alternativa, cuando la parte contraria al peticionario del servicio, no atiende dos citatorios consecutivos para la sesión señalada en el primer párrafo de este artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2012)</small>
+
 ###### Artículo 48.
 
-En los casos que proceda, el especialista se encargará de realizar las sesiones necesarias para que las partes puedan construir un acuerdo que ponga fin al conflicto, siguiendo los criterios y métodos aprobados por el Centro Estatal.
+En los casos que proceda, el especialista se encargará de realizar las sesiones necesarias para que las partes puedan construir un acuerdo que ponga fin al conflicto, siguiendo los criterios, métodos y técnicas aprobados por el Centro Estatal.
 
 Las fechas, horarios y duración de las sesiones serán acordadas por las partes a petición del especialista, atendiendo a las ocupaciones y posibilidades de éste y los interesados.
 
@@ -569,9 +591,11 @@ Las partes pueden asistir por sí solas a las sesiones de mediación o conciliac
 
 En el supuesto de que las partes hubieren elegido el procedimiento de mediación y no se hubiese logrado por este método la solución de la controversia, el especialista podrá sugerir a las partes que recurran al procedimiento de conciliación y, si éstas están de acuerdo, procurará resolver el conflicto por esta vía y, si tampoco la conciliación pone fin a la disputa, podrá sugerirles, cuando lo juzgue procedente, que acudan al arbitraje, informándoles sobre la naturaleza, características y alcances legales de ese medio de solución.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2012)</small>
+
 ###### Artículo 52.
 
-Los especialistas podrán solicitar, en cualquier momento, el auxilio de un asesor en sicología para que atienda el caso, cuando el conflicto emotivo impida llegar a un acuerdo, o para que sirva de especialista adjunto a fin de facilitar la comunicación de las partes.
+Los especialistas podrán solicitar, en cualquier momento, el auxilio de un asesor en Psicología para que atienda el caso, cuando el conflicto emotivo impida llegar a un acuerdo, o para que sirva de especialista adjunto a fin de facilitar la comunicación de las partes.
 
 ###### Artículo 53.
 
@@ -587,7 +611,9 @@ En el supuesto de que las partes acepten, se citará al solicitante, a la otra p
 
 En caso de que las partes no autoricen que se cite al tercero o éste no comparezca, el Director decretará la incompetencia del Centro para intervenir en la solución del conflicto.
 
-El especialista deberá dar por concluido el procedimiento si en las sesiones tiene conocimiento de que, con motivo del conflicto que se pretende solucionar, las partes o un tercero han cometido un delito que no sea de los considerados por esta Ley como susceptible de dirimirse a través de los medios alternativos de solución de controversias.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2012)</small>
+
+El especialista deberá dar por concluido el procedimiento si en las sesiones tiene conocimiento de que, con motivo del conflicto que se pretende solucionar, las partes o un tercero han cometido un delito que no sea de los considerados por la Ley Restaurativa en Materia Penal como susceptible de dirimirse a través de los mecanismos alternativos de solución de controversias; de ser susceptible, deberá informar a las partes, la posibilidad que tienen de someter el conflicto a la mediación, negociación o conciliación con la finalidad de solucionarlo, indicando los beneficios que se obtienen con este tipo de mecanismos alternos de solución de conflictos ante la Procuraduría General de Justicia en el Estado, para que las partes estén en posibilidad de acudir si así lo estiman conveniente.
 
 ###### Artículo 55.
 
@@ -603,9 +629,11 @@ Si las partes llegaran a un acuerdo y el especialista advirtiere que lo acordado
 
 Las actuaciones que se practiquen en los procedimientos alternativos de solución de conflictos previstos en esta Ley, incluyendo los testimonios o confesiones hechas por las partes, no tendrán valor probatorio, ni incidirán en los juicios que se sigan ante los tribunales por las mismas causas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2012)</small>
+
 ###### Artículo 58.
 
-Los convenios, acuerdo (sic) y transacciones contendrán:
+Los convenios, acuerdos y transacciones contendrán:
 
 I. El lugar y la fecha de su celebración;
 
@@ -653,7 +681,7 @@ Cuando la controversia haya sido remitida por la autoridad judicial, se le infor
 
 El cumplimiento de las transacciones puede ser exigible en la vía de apremio, en virtud de la calidad de cosa juzgada que les concede el Código Civil para el Estado. El juez sólo podrá negarse a ejecutarlas cuando no se ajusten a derecho.
 
-Los convenios celebrados en materia penal, producirán efectos de perdón del ofendido, pero en los que respecta a la reparación del daño, tendrán efectos de cosa juzgada.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 16 DE JUNIO DE 2012)</small>
 
 ###### Artículo 62.
 
@@ -709,7 +737,9 @@ XVII. Desempeñar sus labores en estado de embriaguez; hacer uso indebido de est
 
 XVIII. No presentar con oportunidad y veracidad, la declaración sobre su situación patrimonial, ante la autoridad correspondiente, en los términos señalados por la Ley de Responsabilidades;
 
-XIX. Proporcionar a una de las partes información relativa a los procedimientos en que intervengan, sin el consentimiento de la otra;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2012)</small>
+
+XIX. Proporcionar a una de las partes información relativa a los procedimientos en que intervengan, sin el consentimiento y autorización de la otra;
 
 XX. Revelar a terceros información confidencial, respecto a los procedimientos alternos en que intervengan, salvo los relativos a los acuerdos alcanzados, cuando lo solicite una autoridad o los mismos interesados, y
 
@@ -800,3 +830,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA. Rúbrica. E
 P.O. 13 DE AGOSTO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima.
+
+P.O. 16 DE JUNIO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
