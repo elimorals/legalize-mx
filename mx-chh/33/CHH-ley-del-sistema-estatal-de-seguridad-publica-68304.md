@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-sistema-estatal-de-seguridad-publica-68304"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-01"
-last_updated: "2011-09-07"
+last_updated: "2012-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68304&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA
 
-LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA
+LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2012.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 1 de abril de 2009.
 
@@ -65,9 +65,9 @@ La presente Ley es aplicable a los integrantes de las Instituciones Policiales d
 
 El Estado garantizará la seguridad pública, a través del diseño transversal de políticas de prevención y su implementación efectiva, que permita identificar los factores de riesgo que originan la delincuencia para erradicarlos así como participar en la creación de mecanismos para la reinserción social de los transgresores.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 3o.
 
@@ -79,7 +79,7 @@ I.- La coordinación entre el Estado y los municipios con la Federación, para h
 
 II.- Las instancias, instrumentos, políticas públicas, servicios y acciones, tendientes a cumplir los objetivos y fines de la seguridad pública;
 
-> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -117,7 +117,7 @@ La coordinación de las instituciones estatales y municipales derivada de esta L
 
 En las operaciones policiales conjuntas para el combate a la criminalidad, se cumplirán, sin excepción, los requisitos previstos en los ordenamientos constitucionales y legales aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -157,9 +157,15 @@ XII.- Proteger y vigilar las Instalaciones Estratégicas del Estado;
 
 XIII.- Prestar el auxilio necesario para hacer efectivas las resoluciones de las autoridades judiciales;
 
-XIV.- Realizar acciones y operativos conjuntos, y
+XIV.- Realizar acciones y operativos conjuntos, y (sic)
 
-XV.- Las demás que establezcan la presente Ley y otras disposiciones normativas.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2012)</small>
+
+XV.- Regular y operar el Sistema Público de Videovigilancia, a fin de facilitar la información que se genere por este medio, y
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2012)</small>
+
+XVI.- Las demás que establezcan la presente Ley y otras disposiciones normativas.
 
 ###### ARTÍCULO 10.
 
@@ -189,7 +195,7 @@ IX.- Las relacionadas con las anteriores, que sean necesarias para incrementar l
 
 Las Instituciones de Seguridad Pública, son los cuerpos de policía y las dependencias y órganos encargados de la seguridad pública en el Estado y los municipios, en los términos del artículo 3º. de la presente Ley, que serán las facultadas para ejecutar las acciones que deriven de la coordinación para el cumplimiento del Sistema Estatal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -199,7 +205,7 @@ Los programas en materia de desarrollo policial serán elaborados por la Fiscal�
 
 ### CAPÍTULO IV. DE LOS FONDOS DE APOYO ESTATAL PARA LA SEGURIDAD PÚBLICA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -207,9 +213,9 @@ Los programas en materia de desarrollo policial serán elaborados por la Fiscal�
 
 Para el adecuado funcionamiento del Sistema Estatal, se podrán establecer fondos de apoyo estatal para la seguridad pública, con la aportación que corresponda a la hacienda pública estatal; así mismo, se establecerán reglas para la distribución y la colaboración administrativa entre las diversas instancias, así como para constituir los organismos en materia de coordinación fiscal y dar las bases de su organización y funcionamiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 14.
 
@@ -217,9 +223,9 @@ Los fondos de apoyo a los municipios y a la Fiscalía General del Estado, con in
 
 En el Presupuesto de Egresos del Estado de cada ejercicio fiscal, se hará la distribución de los recursos estatales que integren estos fondos, entre los distintos rubros de gasto del Sistema Estatal de Seguridad Pública, aprobados por el Congreso del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 15.
 
@@ -237,7 +243,7 @@ V.- los recursos destinados a apoyar las acciones que en materia de la seguridad
 
 VI.- En su caso, el avance en la aplicación de la Política Estatal de Seguridad Pública en materia de desarrollo policial, equipamiento, modernización tecnológica e infraestructura.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -253,21 +259,21 @@ Estos fondos se entregarán mensualmente por la Secretaría de Finanzas y Admini
 
 Los municipios reportarán trimestralmente a la Secretaría, el ejercicio de los recursos de los fondos estatales y el avance en el cumplimiento de las metas, así como las modificaciones realizadas a los convenios de colaboración y sus anexos técnicos en la materia o el acuerdo correspondiente, así como la justificación sobre las adecuaciones a las asignaciones previamente establecidas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 17.
 
 Las aportaciones estatales que reciban la Fiscalía General del Estado y los municipios, se destinarán exclusivamente a los siguientes rubros:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 I.- Reclutamiento, formación, selección, evaluación y depuración de los recursos humanos vinculados con tareas de seguridad pública, investigación y persecución de los delitos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -275,7 +281,7 @@ II.- Otorgamiento de estímulos económicos para los Fiscales, agentes del Minis
 
 III.- Equipamiento de las policías investigadoras, peritos, ministerios públicos y policías preventivos, así como de custodia de los centros de reinserción social y de adolescentes infractores;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -285,7 +291,7 @@ V.- Construcción, mejoramiento o ampliación de las instalaciones para la procu
 
 VI.- Seguimiento y evaluación de los programas señalados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -295,7 +301,7 @@ Los recursos para el otorgamiento de estímulos económicos para los agentes del
 
 Dichos recursos deberán aplicarse conforme a los programas derivados de la Política Estatal de Seguridad Pública, acordados por la Fiscalía General del Estado y los municipios, conforme a la Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -303,9 +309,9 @@ Dichos recursos deberán aplicarse conforme a los programas derivados de la Pol�
 
 Serán materia de anexos específicos entre el Estado y los municipios, los programas de la Red Estatal de Telecomunicaciones e Informática para la Seguridad Pública, Investigación y Persecución de los Delitos y el Servicio Telefónico de Emergencia del Sistema Estatal de Información.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 20.
 
@@ -319,7 +325,7 @@ La Fiscalía General del Estado y los municipios proporcionarán al Ejecutivo la
 
 Para efectos de esta Ley, se consideran instalaciones estratégicas, a los espacios, inmuebles, construcciones, muebles, equipo y demás bienes, destinados al funcionamiento, mantenimiento y operación de las actividades consideradas como estratégicas por la Constitución Política de los Estados Unidos Mexicanos y la Ley de Seguridad Nacional, así como de aquellas que tiendan a mantener la integridad, estabilidad y permanencia del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -327,7 +333,7 @@ Para efectos de esta Ley, se consideran instalaciones estratégicas, a los espac
 
 La Fiscalía General del Estado y los municipios serán los encargados de llevar a cabo la protección, supervisión y desarrollo de las acciones necesarias para la vigilancia de dichas instalaciones y para garantizar su integridad, seguridad y operación, de acuerdo con sus posibilidades.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -349,31 +355,31 @@ El Consejo Estatal de Seguridad Pública será la máxima instancia de deliberac
 
 I.- El Gobernador del Estado, quien lo presidirá;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 II. El Fiscal General del Estado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 III. Cuatro presidentes municipales;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 IV. Un representante de las Instituciones de Seguridad Pública de la Federación, sólo con derecho a voz;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 V. El Secretario Ejecutivo del Sistema Estatal de Seguridad Pública quien fungirá como Secretario del Consejo, sólo con derecho a voz, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -383,7 +389,7 @@ Así mismo, se invitarán a las reuniones del Consejo Estatal, a dos representan
 
 El Consejo podrá invitar, por la naturaleza de los asuntos a tratar, a las personas, instituciones y representantes de la sociedad civil que puedan exponer conocimientos y experiencias para el cumplimiento de los objetivos de la seguridad pública. Dicha participación será con carácter honorífico.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -391,7 +397,7 @@ El Consejo podrá invitar, por la naturaleza de los asuntos a tratar, a las pers
 
 El Consejo Estatal de Seguridad Pública establecerá las regiones en el Estado para que se instalen los Consejos Regionales de Seguridad Pública, que se integrarán como lo determine el Consejo Estatal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -421,9 +427,9 @@ VIII.- Opinar sobre la aplicación de los fondos en materia de seguridad públic
 
 IX.- Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 28.
 
@@ -439,7 +445,7 @@ El Secretario Ejecutivo del Sistema Estatal de Seguridad Pública, quien será e
 
 I.- Ser ciudadano mexicano por nacimiento, no tener o adquirir otra nacionalidad y estar en pleno goce de sus derechos civiles y políticos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -453,7 +459,7 @@ IV.- Ser de reconocida capacidad y probidad y contar con, por lo menos, cinco a�
 
 Son funciones del Secretario Ejecutivo del Sistema Estatal:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -463,7 +469,7 @@ II.- Levantar y certificar los acuerdos que se tomen en el Consejo Estatal, llev
 
 III.- Ejecutar y dar seguimiento a acuerdos y resoluciones del Consejo Estatal y de su Presidente;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -479,7 +485,7 @@ VIII.- Promover, por conducto de las Instituciones de Seguridad Pública, la rea
 
 IX.- Tomar las medidas necesarias para hacer efectiva la coordinación y preservación de la seguridad pública;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -505,9 +511,9 @@ Son órganos e instancias auxiliares del Sistema Estatal, la Coordinación Estat
 
 Los consejos consultivos se crearán por acuerdo del Ejecutivo del Estado, con la participación de las administraciones municipales, y su integración, atribuciones y funciones serán las que determine el instrumento de su creación, el cual deberá contemplar la participación plural de las organizaciones citadas y publicarse en el Periódico Oficial del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 34.
 
@@ -533,7 +539,7 @@ Las instancias regionales podrán proponer, a los consejos consultivos, acuerdos
 
 #### SECCIÓN PRIMERA. DE SU INTEGRACIÓN
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -563,7 +569,7 @@ V.- Establecer las medidas de vinculación operativa entre el Sistema Estatal co
 
 VI.- Emitir las bases y reglas para la realización de operativos conjuntos entre corporaciones policiales estatales, municipales y federales;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -579,7 +585,7 @@ IX.- Las demás que sean necesarias para cumplir y ejecutar la Política Estatal
 
 La concurrencia de facultades entre el Estado y los municipios quedará distribuida conforme a lo siguiente:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -655,9 +661,15 @@ IX.- Coadyuvar a la integración y funcionamiento del Desarrollo Policial;
 
 X.- Proporcionar la información relativa al Desarrollo Policial y elaborar las estadísticas que integren el Sistema de Información Estatal;
 
-XI.- Participar en la ejecución de las acciones para el resguardo de las instalaciones estratégicas del Estado, y
+XI.- Participar en la ejecución de las acciones para el resguardo de las instalaciones estratégicas del Estado, y (sic)
 
-XII.- Las demás atribuciones específicas que se establezcan en las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2012)</small>
+
+XII.- Coordinar y operar el Sistema Público de Videovigilancia, a fin de garantizar el uso y resguardo de las imágenes o sonidos obtenidos por este medio, y
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2012)</small>
+
+XIII.- Las demás atribuciones específicas que se establezcan en las disposiciones legales aplicables.
 
 ## TÍTULO TERCERO. DEL DESARROLLO POLICIAL
 
@@ -679,15 +691,15 @@ El Desarrollo Policial se integra con las instancias, instrumentos, políticas, 
 
 Los integrantes serán removidos de su cargo, si no cumplen con los requisitos que las leyes vigentes señalen para permanecer en dichas instituciones, así como en el caso de que incurran en faltas que ameriten el cese, sin que proceda su reinstalación o restitución, cualquiera que sea el juicio o medio de defensa para combatir la remoción y, en su caso, sólo procederá la indemnización que no exceda del término de tres meses y los proporcionales adquiridos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 45.
 
 Para el mejor cumplimiento de los objetivos de las instituciones encargadas de la seguridad pública, éstas deberán contar, acorde a su presupuesto, cuando menos con las siguientes unidades operativas:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -787,7 +799,7 @@ II.- Cuando la causa que la motivó, se modifique o deje de existir.
 
 #### SECCIÓN PRIMERA. DEL CENTRO ESTATAL DE CONTROL DE CONFIANZA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -805,7 +817,7 @@ Dichos servidores públicos deberán cumplir con los requisitos que establezca e
 
 El Centro Estatal de Control de Confianza, aplicará evaluaciones tanto en los procesos de selección de aspirantes, como en la evaluación para la permanencia, el desarrollo y la promoción de los mismos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -833,7 +845,7 @@ VII.- Expedir y actualizar el Certificado Único Policial;
 
 VIII.- Proponer los perfiles de grado de los integrantes;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -865,7 +877,7 @@ El Centro Estatal de Control de Confianza, propondrá los criterios para la sele
 
 #### SECCIÓN SEGUNDA. DE LA ESCUELA ESTATAL DE POLICIA Y LAS ACADEMIAS DE FORMACIÓN, CAPACITACIÓN Y PROFESIONALIZACIÓN POLICIAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -873,7 +885,7 @@ El Centro Estatal de Control de Confianza, propondrá los criterios para la sele
 
 La Escuela Estatal de Policía es el órgano responsable de aplicar el Programa Rector que contendrá los aspectos de formación, capacitación, actualización y profesionalización de los aspirantes e integrantes de las Instituciones Policiales en el Estado y los municipios, así como el cumplimiento de los perfiles genéricos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -885,9 +897,9 @@ La Escuela Estatal de Policía depende de la Fiscalía General del Estado y tend
 
 El Programa Rector es el instrumento en el que se establecen los programas y contenidos mínimos de formación para cada uno de los niveles jerárquicos, unidades operativas y divisiones de las Instituciones Policiales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 62.
 
@@ -907,9 +919,9 @@ VI.- Proponer los programas de investigación académica en materia policial, y
 
 VII.- Las demás que le establezcan otras disposiciones legales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 63.
 
@@ -919,7 +931,7 @@ I.- Revalidar equivalencias de estudios de la Profesionalización en el ámbito 
 
 II.- Aplicar los procedimientos homologados del Desarrollo Policial que establezca la Secretaría de Seguridad Pública Estatal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY, PERIODICO OFICIAL.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -957,7 +969,7 @@ XVII.- Las demás que le establezcan las disposiciones legales y reglamentarias 
 
 Los Planes de Estudio de la Escuela Estatal de Policía, se integrarán por el conjunto de contenidos estructurados en unidades didácticas de enseñanza y aprendizaje, que estarán comprendidos en el Programa Rector de Profesionalización Estatal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -971,7 +983,7 @@ Las Academias Municipales se ajustarán al Programa Rector de Capacitación Poli
 
 El Estado y los municipios establecerán instancias colegiadas en las que participe un representante de los elementos policiales de las instituciones correspondientes y otro de la sociedad civil organizada. Las Comisiones serán las encargadas de conocer y resolver, en sus respectivos ámbitos de competencia, toda controversia que se suscite con relación a los procedimientos del Servicio de Carrera Policial y el Régimen Disciplinario.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -981,7 +993,7 @@ Para tal fin, la Fiscalía General del Estado y los municipios, constituirán su
 
 Las Comisiones realizarán y someterán, a las autoridades que corresponda, los estudios técnicos pertinentes para la revisión, actualización y fijación de sus tabuladores salariales y las zonas en que éstos deberán regir.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1017,7 +1029,7 @@ V.- Proveer la observancia del régimen disciplinario establecido a los integran
 
 VI.- Conocer y resolver respecto del incumplimiento de los requisitos de permanencia y de las infracciones al régimen disciplinario cometidas por los integrantes de las Instituciones Policiales;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1033,13 +1045,13 @@ VIII.- Las demás que señalen las disposiciones aplicables.
 
 El Gobernador del Estado, conforme lo señala el artículo 93 de la Constitución Política del Estado de Chihuahua, es el Jefe Supremo de las fuerzas de Seguridad Pública del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 El Fiscal General del Estado ejercerá el alto mando de la Policía Estatal Única.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1107,7 +1119,7 @@ VI. Agentes.
 
 #### SECCIÓN SEGUNDA. DEL MANDO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1123,7 +1135,7 @@ Se entenderá por mando, a la autoridad ejercida por un superior jerárquico en 
 
 La implementación del perfil del mando por la competencia, los procedimientos homologados y la equivalencia de los contenidos mínimos de planes y programas de estudio, constituirán la base fundamental para la acción estatal unificada y coordinada de los integrantes del Desarrollo Policial del Estado y municipios.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1153,7 +1165,7 @@ En caso de ausencia temporal, impedimento, excusa u otros similares del mando ti
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1161,11 +1173,13 @@ En caso de ausencia temporal, impedimento, excusa u otros similares del mando ti
 
 El Sistema de Información Estatal, del Sistema Estatal de Seguridad Pública, es un sistema de interconexiones de voz, datos y video, que proporciona la información precisa y constante en materia de seguridad pública y que genera inteligencia apta para el ejercicio de las atribuciones que tienen encomendadas las Instituciones de Seguridad y Justicia.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 78.
 
-El Estado y los municipios suministrarán, intercambiarán, sistematizarán y actualizarán, en forma periódica, veraz y oportuna en el Sistema de Información Estatal, la información sobre seguridad pública, mediante los instrumentos tecnológicos modernos que permitan el fácil y rápido acceso a los usuarios a que se refiere esta Ley.
+El Estado y los municipios suministrarán, intercambiarán, sistematizarán y actualizarán, en forma periódica, veraz y oportuna en el Sistema de Información Estatal, la información sobre seguridad pública, la operación del Sistema Público de Videovigilancia y los instrumentos tecnológicos modernos que permitan el fácil y rápido acceso a los usuarios a que se refiere esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1177,7 +1191,7 @@ La información proveniente del Sistema de Información Estatal y del Sistema Na
 
 Todo integrante de las Instituciones Policiales tiene la obligación de ejecutar cualquier orden de aprehensión de que tenga conocimiento a partir de la consulta que realice en el Sistema Único de Información Estatal, cumpliendo con los requisitos legales correspondientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1261,7 +1275,7 @@ VIII.- Mapa para la ubicación del evento.
 
 #### SECCIÓN PRIMERA. DEL SISTEMA DE INFORMACIÓN ESTATAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1269,7 +1283,7 @@ VIII.- Mapa para la ubicación del evento.
 
 La Fiscalía General del Estado, a través del Centro Estatal de Estadística Criminal, será la responsable de integrar y actualizar una base estatal de datos, con la información que generen la Policía Estatal Única y las Policías Municipales, así como la que se reciba de la Federación y los demás Estados, misma que formará parte del Sistema de Información Estatal y del Sistema Nacional de Información.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1309,7 +1323,7 @@ II.- Los estímulos, reconocimientos y sanciones a que se haya hecho acreedor el
 
 III.- Cualquier cambio de adscripción, actividad o rango del servidor público, así como las razones que lo motivaron.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1317,9 +1331,9 @@ Cuando a los integrantes de las Instituciones Policiales del Estado y los munici
 
 Las órdenes de detención o aprehensión se notificarán cuando no pongan en riesgo la investigación o el proceso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 89.
 
@@ -1341,9 +1355,13 @@ La consulta del Registro será obligatoria y previa al ingreso de toda persona a
 
 Además de cumplir con las disposiciones contenidas en otras leyes, las autoridades competentes del Estado y los municipios manifestarán y mantendrán actualizado, en la Secretaría Ejecutiva del Sistema Estatal de Seguridad Pública, el Registro Estatal de Armamento y Equipo, el cual incluirá:
 
-I.- Los vehículos que tuvieran asignados, anotándose el número de matrícula, las placas de circulación, la marca, modelo, tipo, número de serie y motor para el registro del vehículo, y
+I.- Los vehículos que tuvieran asignados, anotándose el número de matrícula, las placas de circulación, la marca, modelo, tipo, número de serie y motor para el registro del vehículo, y (sic)
 
 II.- Las armas y municiones que les hayan sido autorizadas por las dependencias competentes, aportando el número de registro, la marca, modelo, calibre, matrícula y demás elementos de identificación.
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2012)</small>
+
+III.- El registro de las videocámaras que integren el Sistema Público de Videovigilancia.
 
 ###### ARTÍCULO 93.
 
@@ -1361,13 +1379,11 @@ En el caso de que los integrantes aseguren armas y/o municiones, lo comunicarán
 
 El incumplimiento de las disposiciones contenidas en los artículos 113 y 116 de esta Ley, dará lugar a que la portación de armas se considere ilegal y sea sancionada en los términos de las normas aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
-###### ARTÍCULO 96 Bis.
-
-El Registro Estatal de Armamento y Equipo contará con un apartado en el que se inscribirán aquellas personas físicas o morales que cuenten con autorización de la Fiscalía General del Estado para fabricar, comercializar, almacenar, transportar o distribuir, dentro del territorio estatal, vestimentas o instrumentos que sirvan de identificación a los miembros de las Instituciones de Seguridad Pública.
+ARTÍCULO 96 BIS.- El Registro Estatal de Armamento y Equipo contará con un apartado en el que se inscribirán aquellas personas físicas o morales que cuenten con autorización de la Fiscalía General del Estado para fabricar, comercializar, almacenar, transportar o distribuir, dentro del territorio estatal, vestimentas o instrumentos que sirvan de identificación a los miembros de las Instituciones de Seguridad Pública.
 
 En los permisos que se expidan se deberá especificar cuáles vestimentas o instrumentos podrán ser únicamente destinados para su utilización por parte de integrantes de Instituciones de Seguridad Pública, y cuáles puestos a disposición del público en general.
 
@@ -1375,7 +1391,7 @@ La falta de dicho permiso, o su utilización para fines distintos a aquellos par
 
 #### SECCIÓN QUINTA. DE LA ESTADÍSTICA DE SEGURIDAD PÚBLICA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1387,7 +1403,7 @@ La Fiscalía General del Estado establecerá los instrumentos de acopio de datos
 
 Las normas generales para la recepción de la información serán establecidas de conformidad con la Ley del Sistema Nacional de Información Estadística y Geográfica.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1405,7 +1421,7 @@ También determinará las condiciones de seguridad sobre manejo y acceso a la in
 
 Para establecer las reglas de información se atenderá a lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1413,7 +1429,7 @@ Para establecer las reglas de información se atenderá a lo dispuesto por la Le
 
 Para el acceso a la información sobre seguridad pública, la Fiscalía General del Estado establecerá diferentes niveles de consulta, dependiendo del tipo de información, y determinará el nivel en la clasificación que corresponda a cada tipo o acceso de información y, en su caso, señalará la que podrá tener carácter público.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1569,9 +1585,9 @@ g).- Un diagrama de la escena del incidente, y
 
 h).- Los demás datos que resulten relevantes.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUMERO 1076/2010 II P.O., SE MODIFICO LA ESTRUCTURA DEL PRESENTE ARTICULO, PARA QUEDAR CONFORMADO POR DOS PARRAFOS, QUEDANDO INTEGRADOS LOS ANTERIORES PRIMERO Y SEGUNDO PARRAFOS EN UNO SOLO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 1076/2010 II P.O., SE MODIFICÓ LA ESTRUCTURA DEL PRESENTE ARTÍCULO, PARA QUEDAR CONFORMADO POR DOS PÁRRAFOS, QUEDANDO INTEGRADOS LOS ANTERIORES PRIMERO Y SEGUNDO PÁRRAFOS EN UNO SOLO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2010)</small>
 
 ###### ARTÍCULO 118.
 
@@ -1593,7 +1609,7 @@ El personal no podrá alegar obediencia de órdenes superiores, si tenía conoci
 
 ### CAPÍTULO ÚNICO. DE LOS SERVICIOS DE ATENCIÓN A LA POBLACIÓN
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1601,7 +1617,7 @@ El personal no podrá alegar obediencia de órdenes superiores, si tenía conoci
 
 La Fiscalía General del Estado y los municipios establecerán mecanismos eficaces para que la sociedad participe en la planeación, evaluación y supervisión de la seguridad pública, en los términos de esta Ley y demás ordenamientos aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1609,9 +1625,9 @@ La Fiscalía General del Estado y los municipios establecerán mecanismos eficac
 
 La Fiscalía General del Estado impulsará las acciones necesarias para que el Estado y los municipios, establezcan un servicio para la localización de personas y bienes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 123.
 
@@ -1623,7 +1639,7 @@ El servicio tendrá comunicación directa con las Instituciones de Seguridad Pú
 
 Dentro de los Comités de Seguridad Pública que prevé esta Ley, se promoverá la participación de la comunidad, para:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1639,7 +1655,7 @@ V.- Realizar denuncias o quejas sobre irregularidades, y
 
 VI.- Auxiliar a las autoridades competentes en el ejercicio de sus tareas y participar en las actividades que no sean confidenciales o pongan en riesgo el buen desempeño en la función de seguridad pública.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1663,9 +1679,9 @@ La Auditoría Superior del Estado fiscalizará los recursos estatales que se eje
 
 ### CAPÍTULO ÚNICO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 128.
 
@@ -1682,6 +1698,120 @@ Los particulares que presten este servicio estarán impedidos para ejercer las f
 ###### ARTÍCULO 130.
 
 Los particulares que se dediquen a estos servicios, así como el personal que utilicen, se regirán en lo conducente, por las normas que esta Ley y las demás aplicables establecen para las Instituciones de Seguridad Pública; incluyendo los principios de actuación y desempeño y la obligación de aportar los datos para el registro de su personal y equipo y, en general, proporcionar la información estadística y sobre la delincuencia, al Sistema Estatal.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE JUNIO DE 2012)</small>
+
+## TÍTULO NOVENO. DEL SISTEMA PÚBLICO DE VIDEOVIGILANCIA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE JUNIO DE 2012)</small>
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2012)</small>
+
+###### ARTÍCULO 131.
+
+Para los efectos de esta Ley, se considera Sistema Público de Videovigilancia al compuesto por videocámaras y equipos susceptibles de captar, grabar y almacenar imágenes o sonidos en lugares públicos o privados, utilizado por las Instituciones de Seguridad Pública Estatales, Municipales o por los particulares que cuenten con la autorización de la Fiscalía General del Estado para prestar Servicios de Seguridad Privada, a fin de favorecer a la seguridad pública en actividades de prevención, investigación y persecución de delitos, situaciones de emergencia, así como demostrar faltas e infracciones administrativas relacionadas con el uso de las vialidades y espacios públicos.
+
+La información que se obtenga por estos medios, deberá integrarse al Sistema de Información Estatal de conformidad con el artículo 102 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2012)</small>
+
+###### ARTÍCULO 132.
+
+Para la instalación y utilización de videocámaras, así como el control, almacenamiento, tratamiento y destrucción de las grabaciones, se deberán respetar las garantías individuales de las personas, garantizando la confidencialidad, seguridad, reserva y funcionalidad de la información obtenida a través de estos medios.
+
+No se considerarán intromisiones ilegítimas al derecho a la privacidad, al honor, a la propia imagen, a la intimidad personal y familiar, la utilización de las grabaciones obtenidas en cumplimiento de mandato de autoridad judicial federal o local, previamente emitida con la debida motivación y fundamentación o conforme a los requisitos de la presente ley.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2012)</small>
+
+###### ARTÍCULO 133.
+
+La ubicación e instalación fija o móvil del Sistema Público de Videovigilancia se basará en índices delictivos y estrategias de prevención en materia de seguridad pública, a fin de prevenir, inhibir y combatir conductas ilícitas, así como de procurar el orden y la tranquilidad de los ciudadanos.
+
+Queda estrictamente prohibido a la autoridad, colocar videocámaras al interior de los domicilios o aquellos lugares que sean de estricto uso particular que pretendan obtener información personal o familiar.
+
+Toda persona tiene derecho a ser informada, de manera clara y permanente, de la existencia del Sistema Público de Videovigilancia en lugares públicos o privados, así como de la autoridad o prestador del servicio que realiza dicha actividad, para lo cual se deberán colocar anuncios pictográficos que contengan la leyenda "Este lugar es videovigilado"; no será necesario señalar el lugar específico en que se ubica el equipo de grabación.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2012)</small>
+
+###### ARTÍCULO 134.
+
+Los particulares que así lo deseen, podrán solicitar al Comité Técnico de Videovigilancia, conectar sus sistemas y equipos al Sistema Público de Videovigilancia, con la finalidad de atender emergencias de manera inmediata, en el entendido que la información que se obtenga, se manejará en los términos que esta Ley establece.
+
+Para el cumplimiento de lo establecido en este artículo, la autoridad competente fijará la procedencia de dicha solicitud en base a la posibilidad técnica de realizarse.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE JUNIO DE 2012)</small>
+
+### CAPÍTULO II. DE LAS AUTORIDADES COMPETENTES
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2012)</small>
+
+###### ARTÍCULO 135.
+
+Las acciones que deriven de la operación y control del Sistema Público de Videovigilancia serán desarrolladas por las Instituciones de Seguridad Pública del Estado y los Municipios, así como por las demás autoridades que en razón de sus atribuciones, deban de contribuir directa o indirectamente con esta actividad.
+
+Los particulares que cuenten con la autorización de la Fiscalía General del Estado para prestar Servicios de Seguridad, Protección, Vigilancia o Custodia de lugares o establecimientos, fungirán como auxiliares en la aplicación de las atribuciones otorgadas en este Título.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2012)</small>
+
+###### ARTÍCULO 136.
+
+La Comisión Estatal de Seguridad Pública creará un Comité Técnico de Videovigilancia, el cual deberá sesionar por lo menos una vez al mes, mismo que estará conformado de la siguiente manera:
+
+I. Un representante del Fiscal General del Estado, quien lo presidirá.
+
+II. Un representante del Director del Centro de Control, Comando, Comunicaciones y Cómputo, como Asesor Técnico del Comité.
+
+III. Un representante del Director de Vialidad.
+
+IV. Un representante del Presidente de la Comisión de Seguridad Pública del Poder Legislativo.
+
+V. Un representante del Director de Seguridad Pública Municipal, de los municipios que cuenten con Sistema Público de Videovigilancia.
+
+VI. Un representante de la Comisión Estatal de Derechos Humanos.
+
+VII. Un representante de la Sociedad Civil.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2012)</small>
+
+###### ARTÍCULO 137.
+
+El Comité Técnico de Videovigilancia tendrá las facultades y obligaciones siguientes:
+
+I. Elaborar y verificar el proceso de grabación, clasificación, almacenamiento, tratamiento y destrucción de la información obtenida por el Sistema Público de Videovigilancia, debiendo observar la debida reserva, confidencialidad y sigilo en relación con la misma, a fin de garantizar la inviolabilidad e inalterabilidad de la información para su mejor uso y resguardo.
+
+II. Crear un registro en el que consten las autorizaciones de instalación y uso de videocámaras que haya emitido.
+
+III. Vigilar el funcionamiento óptimo de las cámaras que conforman el Sistema Público de Videovigilancia
+
+IV. Autorizar la instalación de cámaras de videovigilancia en función de las recomendaciones del Asesor Técnico del Comité.
+
+V. Conocer de las infracciones cometidas a la presente Ley, para su remisión a las autoridades competentes.
+
+VI. Las demás que se establezcan en esta Ley, normas reglamentarias y manuales que se expidan para la materialización de sus atribuciones y el cumplimiento de sus obligaciones.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2012)</small>
+
+###### ARTÍCULO 138.
+
+El Asesor Técnico del Comité tendrá las facultades y obligaciones siguientes:
+
+I. Analizar y recomendar sobre la ubicación, instalación, uso y retiro de videocámaras que integren el Sistema Público de Videovigilancia en la Entidad.
+
+II. Dar seguimiento a resoluciones con respecto de solicitudes de información de imágenes y sonidos, que sean requeridos por autoridad competente para ser utilizados en procesos de investigación de delitos, así como para documentar faltas administrativas.
+
+III. Dar seguimiento a las sesiones, llevar actas y registros, documentar los trabajos y archivos, así como las demás funciones que señale el reglamento respectivo.
+
+IV. Las demás que se establezcan en esta Ley, normas reglamentarias y manuales que se expidan para la materialización de sus atribuciones y el cumplimiento de sus obligaciones.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2012)</small>
+
+###### ARTÍCULO 139.
+
+Los municipios que cuenten con Sistema Público de Videovigilancia, deberán proporcionar las grabaciones que obtengan por este medio, para el esclarecimiento de actos delictivos cuando así lo solicite la autoridad competente, para lo cual deberán celebrarse los convenios de colaboración respectivos. Dichos acuerdos se renovarán de conformidad a los periodos administrativos.
+
+Lo mismo se observará, tratándose de grabaciones obtenidas en los Edificios Públicos o en propiedades privadas que cuenten con sistema de videovigilancia, sin necesidad de que exista el convenio señalado en el párrafo anterior.
 
 T R A N S I T O R I O S
 
@@ -1735,11 +1865,11 @@ En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los seis días del 
 
 LIC. JOSE REYES BAEZA TERRAZAS. Gobernador Constitucional del Estado. Rúbrica. LIC. SERGIO GRANADOS PINEDA. Secretario General de Gobierno. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 28 DE NOVIEMBRE DE 2009.
 
-DECRETO No. 666/09 II P.O., POR EL QUE SE ADICIONA UN ARTICULO 96 BIS A LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA.
+DECRETO No. 666/09 II P.O., POR EL QUE SE ADICIONA UN ARTÍCULO 96 BIS A LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -1749,7 +1879,7 @@ TERCERO.- Las conductas previstas en el segundo párrafo del artículo 284 del C
 
 P.O. 28 DE NOVIEMBRE DE 2009.
 
-DECRETO No. 667/09 II P.O. POR EL QUE SE ADICIONA UN SEGUNDO PARRAFO AL ARTICULO TERCERO TRANSITORIO DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA.
+DECRETO No. 667/09 II P.O. POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA.
 
 ÚNICO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 
@@ -1812,3 +1942,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo del Estado, en el término de sesenta días contados a partir de la publicación del presente Decreto, expedirá el Reglamento de la Coordinación Estatal de Seguridad Escolar, en el que se definan las atribuciones de ésta.
+
+P.O. 16 DE JUNIO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo Estatal y los Ayuntamientos del Estado, en el ámbito de sus respectivas competencias y con apego a las disposiciones contenidas en el presente ordenamiento, expedirán las normas reglamentarias y tomarán las medidas administrativas necesarias a efecto de dar cumplimiento a esta reforma.
