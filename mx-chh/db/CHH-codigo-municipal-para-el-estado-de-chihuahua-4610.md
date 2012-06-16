@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2012-05-30"
+last_updated: "2012-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2012.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -891,11 +891,19 @@ X.- Asistir y acreditar los cursos de capacitación y formación que instrumente
 
 > <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2011)</small>
 
-XI. Solicitar al Secretario del Ayuntamiento, por acuerdo de la mayoría de los regidores, se convoque a sesiones ordinarias, cuando el Presidente Municipal no lo haga sin causa justificada.
+XI.- Solicitar al Secretario del Ayuntamiento, por acuerdo de la mayoría de los regidores, se convoque a sesiones ordinarias, cuando el Presidente Municipal no lo haga sin causa justificada.
 
-> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2012)</small>
 
-XII. Las demás que les otorguen otras disposiciones aplicables a la materia.
+XII.- Elaborar y rendir un informe anual sobre las actividades desempeñadas relativas a su encargo, el cual deberá ser presentado, en forma escrita, ante el Cabildo, a más tardar en su tercera sesión ordinaria posterior a la del informe del Presidente Municipal.
+
+Tratándose del último año de su encargo, dicho informe deberá ser presentado en la última sesión ordinaria del Ayuntamiento, previa a la solemne a que se refiere el artículo 19 de este Código.
+
+Los informes deberán publicarse en el sitio de internet del Ayuntamiento, al día siguiente de su presentación.
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2012)</small>
+
+XIII.- Las demás que les otorguen otras disposiciones aplicables a la materia.
 
 > <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2011)</small>
 
@@ -4284,6 +4292,12 @@ P.O. 23 DE MAYO DE 2012.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 30 DE MAYO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE JUNIO DE 2012.
 
 ###### ARTÍCULO ÚNICO.
 
