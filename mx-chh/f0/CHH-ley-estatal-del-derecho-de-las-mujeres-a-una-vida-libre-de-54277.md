@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-del-derecho-de-las-mujeres-a-una-vida-libre-de-5427
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-24"
-last_updated: "2010-10-02"
+last_updated: "2012-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, CHIHUAHUA
 
-LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
+LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2012.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 24 de enero de 2007.
 
@@ -347,9 +347,15 @@ XI. Contribuir a la difusión de la legislación en materia de violencia contra 
 
 XII. Promover estrategias para la obtención de recursos destinados al cumplimiento de los objetivos de esta Ley;
 
-XIII. Convocar a los sectores de la sociedad para su integración al Sistema y emitir convocatoria para que representantes de organizaciones de la sociedad civil sean designados miembros del Consejo; y
+XIII. Convocar a los sectores de la sociedad para su integración al Sistema y emitir convocatoria para que representantes de organizaciones de la sociedad civil sean designados miembros del Consejo; y (sic)
 
-XIV. Las demás que le señalen esta, otras leyes aplicables y sus reglamentos.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2012)</small>
+
+XIV. Cerciorarse que los refugios para la atención a mujeres víctimas de la violencia y centros de rehabilitación para agresores, cumplan con las especificaciones que las normas nacionales e internacionales exigen para la atención especializada a mujeres víctimas de violencia y de cualquier delito, así como dar parte a las autoridades correspondientes en caso de encontrar irregularidades graves que puedan ser constitutivas de un delito; y
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2012)</small>
+
+XV. Las demás que le señalen esta, otras leyes aplicables y sus reglamentos.
 
 ###### Artículo 20.
 
@@ -902,3 +908,9 @@ P.O. 2 DE OCTUBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE JUNIO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
