@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-y-bienestar-de-los-animales-de-la-ciudad-2357
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-26"
-last_updated: "2012-03-30"
+last_updated: "2012-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23573&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-01-08"
 
 LEY DE PROTECCIÓN A LOS ANIMALES DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE JUNIO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 26 de febrero de 2002.
 
@@ -350,9 +350,17 @@ II.- Denunciar, ante las autoridades correspondientes, cualquier irregularidad o
 
 III. Promover en todas las instancias públicas y privadas la cultura y la protección, atención y buen trato de los animales.
 
-IV. Participar en las instancias de carácter social y vecinal, que cuiden, asistan y protejan a los animales.
+> <small>(REFORMADA, G.O. 18 DE JUNIO DE 2012)</small>
 
-V. Cuidar y velar por la observancia y aplicación de la presente Ley.
+IV. Promover la cultura, protección, atención y trato digno a los animales a través de los comités ciudadanos y de los consejos del pueblo electos;
+
+> <small>(REFORMADA, G.O. 18 DE JUNIO DE 2012)</small>
+
+V. Participar en las instancias de carácter social y vecinal, que cuiden, asistan y protejan a los animales.
+
+> <small>(ADICIONADA, G.O. 18 DE JUNIO DE 2012)</small>
+
+VI. Cuidar y velar por la observancia y aplicación de la presente Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -432,11 +440,17 @@ II. Expedir los ordenamientos y demás disposiciones necesarias para el cumplimi
 
 III. Celebrar convenios de coordinación con las autoridades federales para la vigilancia de las leyes y normas oficiales mexicanas relacionadas con la materia de la presente Ley;
 
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 18 DE JUNIO DE 2012)</small>
 
-IV. Crear los instrumentos económicos adecuados para incentivar las actividades de protección a los animales llevadas a cabo por asociaciones u organizaciones legalmente constituidas y registradas, y para el desarrollo de programas de educación, investigación y difusión en las materias de la presente Ley; y
+IV. Crear los instrumentos económicos adecuados para incentivar las actividades de protección a los animales llevadas a cabo por asociaciones u organizaciones legalmente constituidas y registradas, y para el desarrollo de programas de educación, investigación y difusión en las materias de la presente Ley;
 
-V. Las demás que le confiera esta Ley, su reglamento y ordenamientos jurídicos aplicables.
+> <small>(REFORMADA, G.O. 18 DE JUNIO DE 2012)</small>
+
+V. Promover la participación ciudadana a través de sus órganos de representación ciudadana e instrumentos de participación, a fin de difundir la cultura y la protección a los animales; y
+
+> <small>(ADICIONADA, G.O. 18 DE JUNIO DE 2012)</small>
+
+VI. Las demás que le confiera esta Ley, su reglamento y ordenamientos jurídicos aplicables.
 
 ###### Artículo 9º.
 
@@ -462,11 +476,17 @@ V. La creación y administración de un registro de establecimientos comerciales
 
 VI. Proponer al Jefe de Gobierno del Distrito Federal; en coordinación con la Secretaria de Salud, el reglamento y las normas ambientales;
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 18 DE JUNIO DE 2012)</small>
 
-VII. Establecer y operar el Padrón de las Asociaciones Protectoras de Animales y de Organizaciones Sociales, debidamente constituidas y registradas, dedicadas al mismo objeto; y
+VII. Establecer y operar el Padrón de las Asociaciones Protectoras de Animales y de Organizaciones Sociales, debidamente constituidas y registradas, dedicadas al mismo objeto;
 
-VIII. Las demás que esta Ley y aquellos ordenamientos jurídicos aplicables le confieran.
+> <small>(REFORMADA, G.O. 18 DE JUNIO DE 2012)</small>
+
+VIII. Promover la participación ciudadana a través de sus órganos de representación ciudadana e instrumentos de participación, a fin de difundir la cultura y la protección a los animales; y
+
+> <small>(ADICIONADA, G.O. 18 DE JUNIO DE 2012)</small>
+
+IX. Las demás que esta Ley y aquellos ordenamientos jurídicos aplicables le confieran.
 
 ###### Artículo 10º.
 
@@ -492,13 +512,17 @@ IV. Verificar cuando exista denuncia falta de higiene, hacinamiento, u olores f�
 
 V. Establecer campañas de vacunación antirrábicas, campañas sanitarias para el control y erradicación de enfermedades zoonóticas, así como de desparasitación, y de esterilización, en coordinación con las delegaciones;
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 18 DE JUNIO DE 2012)</small>
 
-VI. Implementar y administrar el registro de laboratorios, instituciones científicas y académicas, vinculados con la investigación, educación, crianza, producción y manejo de animales en el Distrito Federal; y
+VI. Implementar y administrar el registro de laboratorios, instituciones científicas y académicas, vinculados con la investigación, educación, crianza, producción y manejo de animales en el Distrito Federal;
 
-> <small>(REFORMADA Y REUBICADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 18 DE JUNIO DE 2012)</small>
 
-VII. Las demás que esta ley y otros ordenamientos jurídicos aplicables le confieran.
+VII. Promover la participación ciudadana a través de sus órganos de representación ciudadana e instrumentos de participación, a fin de difundir la cultura y la protección a los animales; y
+
+> <small>(ADICIONADA, G.O. 18 DE JUNIO DE 2012)</small>
+
+VIII. Las demás que esta ley y otros ordenamientos jurídicos aplicables le confieran.
 
 > <small>(ADICIONADO, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -532,9 +556,17 @@ h) Realizar operativos en los mercados y establecimientos que se tengan identifi
 
 III. Coadyuvar en el cumplimiento de las disposiciones de esta Ley;
 
-IV. Ordenar las medidas de seguridad relacionadas con las fracciones I y IV del artículo 59 de la presente Ley; y
+> <small>(REFORMADA, G.O. 18 DE JUNIO DE 2012)</small>
 
-V. Las demás que esta Ley y demás ordenamientos jurídicos aplicables le confieran.
+IV. Ordenar las medidas de seguridad relacionadas con las fracciones I y IV del artículo 59 de la presente Ley;
+
+> <small>(REFORMADA, G.O. 18 DE JUNIO DE 2012)</small>
+
+V. Promover la participación ciudadana a través de sus órganos de representación ciudadana e instrumentos de participación, a fin de difundir la cultura y la protección a los animales; y
+
+> <small>(ADICIONADA, G.O. 18 DE JUNIO DE 2012)</small>
+
+VI. Las demás que esta Ley y demás ordenamientos jurídicos aplicables le confieran.
 
 ###### Artículo 11.
 
@@ -548,7 +580,13 @@ II. Dar aviso a las autoridades federales competentes, cuando la tenencia de alg
 
 III. Emitir recomendaciones a las autoridades competentes en las materias derivadas de la presente Ley, con el propósito de promover el cumplimiento de sus disposiciones y sancionar cuando corresponda;
 
-IV. Las demás que esta Ley, su reglamento y demás disposiciones jurídicas aplicables le confieran.
+> <small>(REFORMADA, G.O. 18 DE JUNIO DE 2012)</small>
+
+IV. Promover la participación ciudadana a través de sus órganos de representación ciudadana e instrumentos de participación, a fin de difundir la cultura y la protección a los animales; y
+
+> <small>(ADICIONADA, G.O. 18 DE JUNIO DE 2012)</small>
+
+V. Las demás que esta Ley, su reglamento y demás disposiciones jurídicas aplicables le confieran.
 
 > <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -580,9 +618,17 @@ IX. Supervisar, verificar y sancionar en materia de la presente ley los criadero
 
 X. Impulsar campañas de concientización para la protección y el trato digno y respetuoso a los animales y la desincentivación de la compra venta de especies silvestres;
 
-XI. Establecer campañas de vacunación antirrábica, campañas sanitarias para el control y erradicación de enfermedades zoonóticas, de desparasitación, y de esterilización, en coordinación con la Secretaría de Salud; y
+> <small>(REFORMADA, G.O. 18 DE JUNIO DE 2012)</small>
 
-XII. Las demás que esta Ley y demás ordenamientos jurídicos aplicables les confieran.
+XI. Establecer campañas de vacunación antirrábica, campañas sanitarias para el control y erradicación de enfermedades zoonóticas, de desparasitación, y de esterilización, en coordinación con la Secretaría de Salud;
+
+> <small>(REFORMADA, G.O. 18 DE JUNIO DE 2012)</small>
+
+XII. Promover la participación ciudadana a través de sus órganos de representación ciudadana e instrumentos de participación, a fin de difundir la cultura y la protección a los animales; y
+
+> <small>(ADICIONADA, G.O. 18 DE JUNIO DE 2012)</small>
+
+XIII. Las demás que esta Ley y demás ordenamientos jurídicos aplicables les confieran.
 
 > <small>(ADICIONADO, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -681,6 +727,12 @@ El reglamento de la presente Ley establecerá los requisitos y las condiciones p
 ###### Artículo 16.
 
 La Secretaría de Salud y las delegaciones, según corresponda, autorizarán la presencia como observadores de hasta dos representantes de las asociaciones protectoras de animales legalmente constituidas y registradas que así lo soliciten al efectuar visitas de verificación, así como cuando se realicen actos de sacrificio humanitario de animales en las instalaciones públicas destinadas para dicho fin, y cuando estas se realicen a establecimientos que manejen animales.
+
+> <small>(ADICIONADO, G.O. 18 DE JUNIO DE 2012)</small>
+
+###### Artículo 16 Bis.
+
+La participación ciudadana de los habitantes será fundamental para difundir la cultura y protección a los animales, y esta podrá darse a través de los comités ciudadanos y consejos del pueblo electos en los términos del artículo 171 fracción IV de la Ley de Participación Ciudadana del Distrito Federal.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -1477,3 +1529,9 @@ G.O. 30 DE MARZO DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 18 DE JUNIO DE 2012.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación, para su mayor difusión.
+
+SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
