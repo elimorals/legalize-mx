@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2012-01-26"
+last_updated: "2012-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "1932-08-29"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE JUNIO DE 2012.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -8932,13 +8932,25 @@ ARTICULO 971
 
 En el juicio oral civil, se observarán especialmente los principios de oralidad, publicidad, igualdad, inmediación, contradicción, continuidad y concentración.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 ARTICULO 972
 
 Quienes no puedan hablar, oír o no hablen español, formularán sus preguntas o contestaciones por escrito o por medio de un intérprete, que se designará de entre aquellos autorizados como auxiliares de la administración de justicia o por colegios, asociaciones, barras de profesionales o instituciones públicas o privadas, relatándose sus preguntas o sus contestaciones en la audiencia y, si así lo solicitare, permanecerá a su lado durante toda la audiencia. En estos casos, a solicitud del intérprete o de la parte, se concederá el tiempo suficiente para que éste pueda hacer la traducción respectiva, cuidando, en lo posible, que no se interrumpa la fluidez del debate. Los intérpretes al iniciar su función serán advertidos de las penas en que incurren los falsos declarantes y sobre su obligación de traducir o interpretar fielmente lo dicho.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, G.O. 18 DE JUNIO DE 2012)</small>
+
+En caso de que una de las partes o ambas tengan alguna discapacidad visual o auditiva, será obligación del juez ordenar la asistencia necesaria en materia de estenografía proyectada.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, G.O. 18 DE JUNIO DE 2012)</small>
+
+Si para el desahogo de la audiencia no es posible contar con la asistencia requerida, ésta deberá suspenderse y ordenarse lo conducente para que tenga lugar en fecha posterior, a efecto de que se cumpla con tal disposición.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -10477,3 +10489,9 @@ G.O. 26 DE ENERO DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Segundo. Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 18 DE JUNIO DE 2012.
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- La presente reforma entrará en vigor una vez que se apruebe el presupuesto para la compra e instalación del equipo necesario para la estenografía proyectada.
