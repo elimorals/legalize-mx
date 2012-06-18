@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-secretaria-de-desarrollo-economico-61
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2008-07-07"
+last_updated: "2012-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61932&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO, PUBLICADO EN EL P.O. DE 18 DE JUNIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 7 de julio de 2008.
 
@@ -468,3 +470,11 @@ Dado en la residencia del Poder Ejecutivo del Estado, en la ciudad de Pachuca de
 EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO.
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE JUNIO DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría, Publicado en el Periódico Oficial del Estado de Hidalgo, el día siete de julio del año dos mil ocho.
