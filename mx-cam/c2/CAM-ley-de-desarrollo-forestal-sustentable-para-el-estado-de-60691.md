@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-60691"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-07"
-last_updated: "2008-03-07"
+last_updated: "2012-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "CAM"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2012.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el viernes 7 de marzo de 2008.
 
@@ -128,7 +128,11 @@ XVI. Registro Estatal: El Registro Estatal Forestal;
 
 XVII. Reglamento: El Reglamento de la presente Ley;
 
-XVIII. Secretaría: Secretaría de Desarrollo Rural;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2012)</small>
+
+XVIII. Secretaría: Secretaría de Medio Ambiente y Aprovechamiento Sustentable;
 
 XIX. SEMARNAT: Secretaría de Medio Ambiente y Recursos Naturales;
 
@@ -144,9 +148,13 @@ XXI. Veda Forestal: Restricción total o parcial del aprovechamiento de recursos
 
 El Estado y los Municipios ejercerán sus atribuciones y obligaciones en materia forestal de conformidad con la distribución de competencias previstas en la Ley General, en la presente Ley y las demás disposiciones legales y reglamentarias aplicables.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2012)</small>
+
 ###### Artículo 6.
 
-En materia forestal, El Estado a través de las Secretarias de Desarrollo Rural y de Ecología, ejercerá las atribuciones siguientes:
+En materia forestal, el Estado a través de las Secretarías de Desarrollo Rural y de Medio Ambiente y Aprovechamiento Sustentable, en el ámbito de sus respectivas competencias, ejercerá las atribuciones siguientes:
 
 I. La formulación y conducción de la política forestal estatal en congruencia con la Federación;
 
@@ -224,7 +232,11 @@ XXXVII. Suscribir los instrumentos jurídicos necesarios para poder llevar a cab
 
 XXXVIII. Atender los demás asuntos que en materia de desarrollo forestal sustentable les conceda esta Ley y otros ordenamientos y que no estén expresamente otorgados a la Federación o a los Municipios.
 
-El despacho de los asuntos relacionados con las atribuciones establecidas en las fracciones IX, en lo atinente al fomento de la producción de recursos forestales maderables y no maderables; X, XII, XIII, XIV, XVI, XVII, XXXIV y XXXVII estarán a cargo de la Secretaría de Desarrollo Rural; las establecidas en las fracciones III, VIII, IX, en lo que concierne a la conservación del macizo forestal; XV, XVIII, XIX, XXIII, XXIV, XXV, XXVI, XXVIII, XXIX y XXXIII, estarán a cargo de la Secretaría de Ecología y las establecidas en las fracciones I, II, IV, VI, VII, XI, XVI, XX, XXI, XXII, XXX, XXXI, XXXV y XXXVI se realizarán de manera coordinada por ambas Secretarías.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2012)</small>
+
+El despacho de los asuntos relacionados con las atribuciones establecidas en las fracciones IX, en lo atinente al fomento de la producción de recursos forestales maderables y no maderables, X, XII, XIII, XIV, XVI, XVII y XXXIV estarán a cargo de la Secretaría de Desarrollo Rural, las establecidas en las fracciones III, VIII, IX, en lo que concierne a la conservación del macizo forestal, XV, XVIII, XIX, XXIII, XXIV, XXV, XXVI, XXVIII, XXIX y XXXIII, estarán a cargo de la Secretaría de Medio Ambiente y Aprovechamiento Sustentable y las establecidas en las fracciones I, II, IV, VI, VII, XI, XVI, XX, XXI, XXII, XXX, XXXI, XXXV, XXXVI y XXXVII se realizarán de manera coordinada por ambas Secretarías.
 
 ###### Artículo 7.
 
@@ -392,9 +404,13 @@ El Ejecutivo del Estado en su informe anual que presente al Congreso, mencionar�
 
 El Sistema Estatal tendrá por objeto registrar, integrar, organizar, actualizar y difundir la información relacionada con la actividad forestal que servirá como base estratégica para la planeación y evaluación del desarrollo forestal sustentable, misma que estará disponible al público para su consulta.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2012)</small>
+
 ###### Artículo 21.
 
-Las autoridades municipales proporcionarán a la Secretaría de Ecología, en los términos que se prevean, la información que recaben en el cumplimiento de sus atribuciones, para que sea integrada al Sistema Estatal.
+Las autoridades municipales proporcionarán a la Secretaría de Medio Ambiente y Aprovechamiento Sustentable, en los términos que se prevean, la información que recaben en el cumplimiento de sus atribuciones, para que sea integrada al Sistema Estatal.
 
 ###### Artículo 22.
 
@@ -436,9 +452,13 @@ En cumplimiento a lo previsto por la Ley de Transparencia y Acceso a la Informac
 
 El Inventario Estatal, deberá relacionar de manera organizada y sistemática los datos estadísticos y contables de los bienes y servicios forestales.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2012)</small>
+
 ###### Artículo 25.
 
-Las autoridades municipales coadyuvarán con la Secretaría de Ecología, en los términos que prevea el Reglamento de esta Ley, para la realización y actualización del Inventario Estatal.
+Las autoridades municipales coadyuvarán con la Secretaría de Medio Ambiente y Aprovechamiento Sustentable, en los términos que prevea el Reglamento de esta Ley, para la realización y actualización del Inventario Estatal.
 
 El Inventario Estatal deberá comprender la siguiente información:
 
@@ -474,9 +494,13 @@ La Zonificación Forestal Estatal se realizará de acuerdo a lo establecido en l
 
 ### CAPÍTULO VII. De las Unidades de Manejo Forestal
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2012)</small>
+
 ###### Artículo 28.
 
-La Secretaría de Ecología delimitará las Unidades de Manejo Forestal en las zonas forestales maderables y no maderables, con el propósito de lograr una ordenación forestal sustentable, una planeación ordenada de las actividades de protección, conservación, restauración y en general, el manejo eficiente de los recursos forestales.
+La Secretaría de Medio Ambiente y Aprovechamiento Sustentable, delimitará las Unidades de Manejo Forestal en las zonas forestales maderables y no maderables, con el propósito de lograr una ordenación forestal sustentable una planeación ordenada de las actividades de protección, conservación, restauración y en general, el manejo eficiente de los recursos forestales.
 
 ### CAPÍTULO VIII. De la Certificación Forestal
 
@@ -542,7 +566,11 @@ III. Dar mantenimiento constante a su predio a fin de evitar que se presenten co
 
 IV. Permitir y no obstaculizar las inspecciones que se realicen sobre su predio; y
 
-V. Permitir, en caso de siniestro, el ingreso a sus terrenos del personal de la Secretaría de Desarrollo Rural, de protección civil, bomberos o de los integrantes de las brigadas de prevención y combate de incendios.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2012)</small>
+
+V. Permitir, en caso de siniestro, el ingreso a sus terrenos del personal de la Secretaría de Medio Ambiente y Aprovechamiento Sustentable, de protección civil, bomberos o de los integrantes de las brigadas de prevención y combate de incendios.
 
 ###### Artículo 37.
 
@@ -554,9 +582,13 @@ El Estado y los Municipios podrán realizar quemas preventivas, o autorizar a lo
 
 El Estado con la finalidad de mantener la superficie boscosa natural en el territorio estatal, promoverá e implementará programas que fomenten el establecimiento de plantaciones forestales comerciales.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2012)</small>
+
 ###### Artículo 39.
 
-Los productores forestales interesados en establecer plantaciones forestales comerciales, estarán obligados a emitir un aviso a la Secretaría de Ecología, para su registro en el Sistema Estatal.
+Los productores forestales interesados en establecer plantaciones forestales comerciales, estarán obligados a emitir un aviso a la Secretaría de Medio Ambiente y Aprovechamiento Sustentable, para su registro en el Sistema Estatal.
 
 El aviso deberá contener:
 
@@ -570,7 +602,11 @@ IV. Especies forestales utilizadas, año de plantación y origen de las plantas;
 
 V. Las demás que se definan en el Reglamento de la presente Ley.
 
-La Secretaría de Ecología supervisará en el campo, la información contenida en los avisos con el objeto de constatar que los árboles o masas de árboles son resultado de la intervención del hombre, resultando ser plantaciones forestales comerciales. Los criterios a observar en dichas supervisiones serán determinadas en el Reglamento de la presente Ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2012)</small>
+
+La Secretaría de Medio Ambiente y Aprovechamiento Sustentable supervisará en el campo, la información contenida en los avisos con el objeto de constatar que los árboles o masas de árboles son resultado de la intervención del hombre, resultando ser plantaciones forestales comerciales. Los criterios a observar en dichas supervisiones serán determinados en el Reglamento de la presente Ley.
 
 ###### Artículo 40.
 
@@ -598,33 +634,53 @@ La leña para uso doméstico, deberá provenir de desperdicios de cortes silvíc
 
 ### CAPÍTULO ÚNICO. De la Reforestación
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2012)</small>
+
 ###### Artículo 44.
 
-La Secretaría de Ecología podrá elaborar y aplicar programas de reforestación y forestación en terrenos forestales degradados, así como llevar a cabo acciones de mantenimiento.
+La Secretaría de Medio Ambiente y Aprovechamiento Sustentable podrá elaborar y aplicar programas de reforestación y forestación en terrenos forestales degradados, así como llevar a cabo acciones de mantenimiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2012)</small>
 
 ###### Artículo 45.
 
-La Secretaría de Ecología, con la participación de los Municipios y en coordinación con la CONAFOR, llevará a cabo la planeación y ejecución de la reforestación, forestación, y restauración de suelos, dentro de su ámbito territorial de competencia.
+La Secretaría de Medio Ambiente y Aprovechamiento Sustentable, con la participación de los Municipios y en coordinación con la CONAFOR, llevará a cabo la planeación y ejecución de la reforestación, forestación y restauración de suelos, dentro de su ámbito territorial de competencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2012)</small>
 
 ###### Artículo 46.
 
-La Secretaría de Desarrollo Rural, promoverá el desarrollo de un sistema de mejoramiento genético forestal, con la evaluación y registro de progenitores, la creación de áreas y huertos semilleros, viveros forestales de especies maderables y no maderables, y bancos de germoplasma, cuya operación podrá recaer en la propia Secretaría, en los Municipios, o en los mismos propietarios y poseedores de terrenos forestales o los titulares de autorizaciones de aprovechamiento de recursos forestales maderables y no maderables, de forestación y plantaciones comerciales, organizados en las Unidades de Manejo Forestal, dando intervención a los prestadores de servicios técnicos forestales.
+La Secretaría de Medio Ambiente y Aprovechamiento Sustentable, promoverá el desarrollo de un sistema de mejoramiento genético forestal, con la evaluación y registro de progenitores, la creación de áreas y huertos semilleros, viveros forestales de especies maderables y no maderables, y bancos de germoplasma, cuya operación podrá recaer en la propia Secretaría, en los Municipios, o en los mismos propietarios y poseedores de terrenos forestales o los titulares de autorizaciones de aprovechamiento de recursos forestales maderables y no maderables, de forestación y plantaciones comerciales, organizados en las Unidades de Manejo Forestal, dando intervención a los prestadores de servicios técnicos forestales.
 
 ## TÍTULO SEXTO. DE LA RESTAURACIÓN DE ÁREAS FORESTALES Y ZONAS SINIESTRADAS
 
 ### CAPÍTULO ÚNICO. De la Restauración Forestal
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2012)</small>
+
 ###### Artículo 47.
 
-La Secretaría de Ecología será la responsable de establecer los procedimientos de concertación interinstitucional con organismos federales, estatales, municipales y con los propios productores forestales, con la finalidad de implementar acciones para la restauración de áreas o zonas que hayan sufrido siniestros.
+La Secretaría de Medio Ambiente y Aprovechamiento Sustentable será la responsable de establecer los procedimientos de concertación interinstitucional con organismos federales, estatales, municipales y con los propios productores forestales, con la finalidad de implementar acciones para la restauración de áreas o zonas que hayan sufrido siniestros.
 
 ###### Artículo 48.
 
 Respecto de la forestación y reforestación con propósitos de conservación y restauración, se estará a lo dispuesto por la Ley General de Desarrollo Forestal Sustentable, así como a las disposiciones de la presente Ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2012)</small>
+
 ###### Artículo 49.
 
-La Secretaría de Ecología se coordinará con la Federación y los Municipios, en todas aquellas acciones tendientes a la promoción de la forestación y reforestación de zonas siniestradas del Estado, promoviendo además la participación de los sectores social y privado, así como de personas físicas y morales que tengan interés en la conservación del equilibrio del medio ambiente y rescate forestal.
+La Secretaría de Medio Ambiente y Aprovechamiento Sustentable se coordinará con la Federación y los Municipios, en todas aquellas acciones tendientes a la promoción de la forestación y reforestación de zonas siniestradas del Estado, promoviendo además la participación de los sectores social y privado, así como de personas físicas y morales que tengan interés en la conservación del equilibrio del medio ambiente y rescate forestal.
 
 ## TÍTULO SÉPTIMO. DE LAS MEDIDAS DE FOMENTO A LA ACTIVIDAD FORESTAL
 
@@ -674,9 +730,25 @@ VII. El cobro por bienes y servicios ambientales y por asistencia técnica; y
 
 VIII. Los demás recursos legítimos que se obtengan por cualquier otro concepto.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2012)</small>
+
 ###### Artículo 52.
 
-Para la operación del Fondo, el Estado constituirá un fideicomiso, cuyo Comité Técnico como máxima autoridad, para la toma de decisiones, se integrará con:
+Para la operación del Fondo, el Estado constituirá un fideicomiso, cuyo Comité Técnico como máxima autoridad, para la toma de decisiones se integrará con:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE JUNIO DE 2012)</small>
+
+Un Primer Vicepresidente, que será el Secretario de Medio Ambiente y Aprovechamiento Sustentable;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE JUNIO DE 2012)</small>
+
+Un Segundo Vicepresidente que será el Secretario de Desarrollo Rural;
 
 I. Un Presidente que será el Gobernador del Estado;
 
@@ -802,6 +874,12 @@ XI. Intervenir en todo lo referente al sector forestal que requiera de su opini�
 
 El Consejo estará integrado por:
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE JUNIO DE 2012)</small>
+
+Un Primer Vicepresidente que será el Secretario de Medio Ambiente y Aprovechamiento Sustentable;
+
 I. El Gobernador del Estado, en calidad de Presidente;
 
 II. Un Primer Vicepresidente que será el Secretario de Ecología;
@@ -836,13 +914,21 @@ En el Consejo podrán participar ocasionalmente representantes de otras dependen
 
 ### CAPÍTULO V. De la Organización de los Productores
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2012)</small>
+
 ###### Artículo 63.
 
-Para el desarrollo de las actividades forestales, se buscará la participación directa de las organizaciones sociales, por lo que la Secretaría de Desarrollo Rural promoverá la constitución de asociaciones de productores forestales, conforme a la ley de la materia, a través de las cuales se podrán ejecutar programas y acciones de fomento forestal.
+Para el desarrollo de las actividades forestales, se buscará la participación directa de las organizaciones sociales, por lo que la Secretaría de Medio Ambiente y Aprovechamiento Sustentable promoverá la constitución de asociaciones de productores forestales, conforme a la ley de la materia, a través de las cuales se podrán ejecutar programas y acciones de fomento forestal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2012)</small>
 
 ###### Artículo 64.
 
-Lo dispuesto en el artículo anterior, no limitará a dicha Secretaría para que por sí misma pueda ejercer las atribuciones que le son conferidas en esta Ley, la Ley General y sus Reglamentos.
+Lo dispuesto en el artículo anterior, no limitará a la Secretaría de Medio Ambiente y Aprovechamiento Sustentable para que por sí misma pueda ejercer las atribuciones que le son conferidas en esta Ley, en la Ley General y los respectivos Reglamentos.
 
 ### CAPÍTULO VI. De la Investigación Forestal
 
@@ -908,17 +994,25 @@ En un plazo de diez días hábiles contados a partir de la solicitud, la Secreta
 
 ### CAPÍTULO ÚNICO
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2012)</small>
+
 ###### Artículo 71.
 
-La vigilancia forestal es responsabilidad de la Secretaría de Ecología y deberá desarrollarse de conformidad con los acuerdos y convenios que el Estado celebre con la Federación.
+La vigilancia forestal es responsabilidad de la Secretaría de Medio Ambiente y Aprovechamiento Sustentable y deberá desarrollarse de conformidad con los acuerdos que el Estado celebre con la Federación.
 
 ###### Artículo 72.
 
 Todo ciudadano está obligado a denunciar ante las autoridades competentes todo hecho, acto u omisión, que atente contra el equilibrio ecológico o contra el ecosistema forestal, que cause daño a los recursos forestales o que contravengan las disposiciones legales y reglamentarias relacionadas con los ecosistemas forestales, sus recursos o bienes y servicios ambientales asociados a éstos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2012)</small>
+
 ###### Artículo 73.
 
-Con base en los acuerdos y convenios de coordinación celebrados entre la Federación y el Estado, éste podrá, a través de la Secretaría de Ecología y conforme a lo establecido en la Ley General, llevar a cabo los operativos de vigilancia, imposición de medidas de seguridad, calificación de infracciones e imposición de sanciones en materia forestal.
+Con base en los acuerdos y convenios de coordinación celebrados entre la Federación y el Estado, éste podrá, a través de la Secretaría de Medio Ambiente y Aprovechamiento Sustentable y conforme a lo establecido en la Ley General, llevar a cabo los operativos de vigilancia, imposición de medidas de seguridad, calificación de infracciones e imposición de sanciones en materia forestal.
 
 ## TRANSITORIOS
 
@@ -937,3 +1031,11 @@ C. CARLOS FELIPE ORTEGA RUBIO, DIPUTADO PRESIDENTE.- C. JOSÉ ANTONIO RODRÍGUEZ
 En cumplimiento de los dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, los sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno, en San Francisco de Campeche, Campeche, a los tres días del mes de marzo del año dos mil siete.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C.P. JORGE CALOS HURTADO VALDEZ.- EL SECRETARIO DE GOBIERNO, M. en D. RICARDO MEDINA FARFAN.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE JUNIO DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto
