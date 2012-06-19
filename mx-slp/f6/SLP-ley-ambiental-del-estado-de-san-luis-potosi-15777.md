@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2012-05-15"
+last_updated: "2012-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -97,205 +97,161 @@ IV. La autorización o negativa para la explotación de bancos de materiales par
 
 V. Las acciones en materia de prevención de la contaminación atmosférica, de los mantos freáticos y demás cuerpos de agua, así como del suelo del territorio Estatal o Municipal;
 
-VI. El establecimiento y regulación de zonas intermedias de salvaguarda, y
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2012)</small>
 
-VII. La formulación y ejecución de acciones de protección y conservación de la biodiversidad del territorio estatal.
+VI. El establecimiento y regulación de zonas intermedias de salvaguarda;
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2012)</small>
+
+VII. La formulación y ejecución de acciones de protección y conservación de la biodiversidad del territorio estatal, y
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2012)</small>
+
+VIII. La planeación y ejecución de acciones que fomenten: la educación ambiental, el fortalecimiento de la cultura ambiental, el desarrollo de tecnologías limpias, así como la prevención del cambio climático.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2012)</small>
 
 ###### ARTICULO 3o.
 
-Para los efectos de esta Ley, se entiende por:
+Para los efectos de esta Ley se entiende por:
 
-I. Aguas de Jurisdicción Estatal: Todas las que no sean de propiedad nacional ni particular conforme a la legislación federal, así como las que determine el ordenamiento local en la materia;
+I. Adaptación: medida encaminada a reducir la vulnerabilidad de los sistemas naturales y humanos, ante los efectos del cambio climático;
 
-II. Aguas Particulares: Las establecidas en el párrafo quinto del artículo 27 constitucional que no son aguas de jurisdicción federal;
+II. Aguas de Jurisdicción Estatal: todas las que no sean de propiedad nacional ni particular conforme a la legislación federal, así como las que determine el ordenamiento local en la materia;
 
-III. Aguas Residuales: Las aguas de composición variada provenientes de actividades municipales, domésticas, industriales, comerciales, agrícolas, pecuarias o de cualquier otra actividad, así como la mezcla de ellas que por el uso o aprovechamiento de que han sido objeto, contengan contaminantes que dañen, modifiquen o alteren su calidad original;
+III. Aguas Particulares: las establecidas en el párrafo quinto del artículo 27 constitucional que no son aguas de jurisdicción federal;
 
-IV. Ambiente: El conjunto de elementos naturales y artificiales o inducidos por el hombre que hacen posible la existencia y desarrollo de los seres humanos y demás organismos vivos que interactúan en un espacio y tiempo determinados;
+IV. Aguas Residuales: las aguas de composición variada provenientes de actividades municipales, domésticas, industriales, comerciales, agrícolas, pecuarias o de cualquier otra actividad, así como la mezcla de ellas que por el uso o aprovechamiento de que han sido objeto, contengan contaminantes que dañen, modifiquen o alteren su calidad original;
 
-V. Aprovechamiento Sustentable: La utilización de los elementos naturales y de aquellos donde hay o ha habido intervención humana, en forma tal que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte dichos recursos, por períodos indefinidos;
+V. Ambiente: el conjunto de elementos naturales y artificiales o inducidos por el hombre que hacen posible la existencia y desarrollo de los seres humanos y demás organismos vivos que interactúan en un espacio y tiempo determinados;
 
-VI. Biodiversidad: El número de especies existentes y su frecuencia relativa en determinados espacios y tiempos;
+VI. Aprovechamiento Sustentable: la utilización de los elementos naturales y de aquellos donde hay o ha habido intervención humana, en forma tal que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte dichos recursos, por períodos indefinidos;
 
-VII. Banco de Materiales para la Construcción: El manto, yacimiento o depósito de materiales terrosos y pétreos, susceptibles de ser extraídos de su estado natural, para ser aprovechados en la industria de la construcción;
+VII. Banco de Materiales para la Construcción: el manto, yacimiento o depósito de materiales terrosos y pétreos, susceptibles de ser extraídos de su estado natural, para ser aprovechados en la industria de la construcción;
 
-VIII. Condiciones Particulares de Descarga: Los parámetros máximos permisibles físicos, químicos y biológicos que se establecen con el propósito de controlar las descargas de aguas residuales, que de manera general deberán cumplir quienes descargan éstas a los cuerpos receptores, entre otros, a los sistemas de drenaje y alcantarillado de los centros de población;
+VIII. Biodiversidad: el número de especies existentes y su frecuencia relativa en determinados espacios y tiempos;
 
-IX. Conservación: El conjunto de políticas, métodos, estrategias y medidas para mantener dinámicamente las condiciones que propicien la evolución y continuidad de los ambientes naturales e inducidos;
+IX. Cambio Climático: variación del clima atribuido directa o indirectamente a la actividad humana que altera la composición de la atmósfera mundial, y que se suma a la variabilidad natural del clima observada durante periodos de tiempo comparables;
 
-X. Contaminación: La presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos que cause deterioro ambiental que bien puede ser natural, o bien causado por el hombre, en este último caso como resultado de la pérdida de control o por la ineficiencia de procesos inducidos;
+X. Centro de Población: las áreas que se hayan establecido para la fundación del mismo; las áreas urbanas ocupadas por las viviendas e infraestructura necesarias para su vida comunitaria; las que se reserven para su expansión futura; y las constituidas por elementos naturales que cumplen una función de preservación de sus condiciones ecologías (sic);
 
-XI. Contaminante: Toda materia o energía en cualesquiera de sus estados y formas, que al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural o inducido, altere o modifique su composición y condición natural;
+XI. Condiciones Particulares de Descarga: los parámetros máximos permisibles físicos, químicos y biológicos que se establecen con el propósito de controlar las descargas de aguas residuales, que de manera general deberán cumplir quienes descargan éstas a los cuerpos receptores, entre otros, a los sistemas de drenaje y alcantarillado de los centros de población;
 
-XII. Contingencia Ambiental: La situación de riesgo derivada de actividades humanas o fenómenos naturales, que pueden poner en peligro la integridad de uno o varios ecosistemas;
+XII. Conservación: el conjunto de políticas, métodos, estrategias y medidas para mantener dinámicamente las condiciones que propicien la evolución y continuidad de los ambientes naturales e inducidos;
 
-XIII. Control: La inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en éste y otros ordenamientos supletorios;
+XIII. Contaminación: la presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos que cause deterioro ambiental que bien puede ser natural, o bien causado por el hombre, en este último caso como resultado de la pérdida de control o por la ineficiencia de procesos inducidos;
 
-XIV. Costos Ambientales: Los valores del capital natural en recursos y patrimonio que deben evaluarse para aplicar restricciones, sanciones, medidas técnicas y de seguridad, con motivo de un cambio significativo de valor de plusvalía, antropológico y estético;
+XIV. Contaminante: toda materia o energía en cualesquiera de sus estados y formas, que al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural o inducido, altere o modifique su composición y condición natural;
 
-XV. Criterios Ecológicos: Los lineamientos obligatorios contenidos en la Ley General del Equilibrio Ecológico y la Protección al Ambiente y en esta Ley, para orientar las políticas de conservación y restauración del ambiente, el aprovechamiento sustentable de los elementos naturales e inducidos y la protección al ambiente;
+XV. Contingencia Ambiental: la situación de riesgo derivada de actividades humanas o fenómenos naturales, que pueden poner en peligro la integridad de uno o varios ecosistemas;
 
-XVI. Daño Ambiental: El perjuicio que se ocasiona o que puede provocarse u ocasionarse a futuro, a los intereses particulares o colectivos, públicos o privados, que han sido sometidos a los efectos del ambiente deteriorado o en proceso de deterioro, que afecten la calidad de vida, en sus diversas formas;
+XVI. Control: la inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en éste y otros ordenamientos supletorios;
 
-XVII. Desarrollo Sustentable: El proceso evaluable y medible mediante criterios e indicadores de carácter ambiental, económico y social, que tienda a mejorar la calidad de vida y la productividad de las personas, que se funde en medidas apropiadas de conservación y protección del ambiente y aprovechamiento de los elementos naturales e inducidos, para asegurar de las necesidades de las generaciones futuras;
+XVII. Costos Ambientales: los valores del capital natural en recursos y patrimonio que deben evaluarse para aplicar restricciones, sanciones, medidas técnicas y de seguridad, con motivo de un cambio significativo de valor de plusvalía, antropológico y estético;
 
-XVIII. Deterioro Ambiental: La alteración de las relaciones de interdependencia entre los elementos naturales e inducidos por el hombre que conforman el ambiente, que afecten negativamente la existencia, transformación y desarrollo humano y de los demás seres vivos;
+XVIII. Criterios Ecológicos: los lineamientos obligatorios contenidos en la Ley General del Equilibrio Ecológico y la Protección al Ambiente y en esta Ley, para orientar las políticas de conservación y restauración del ambiente, el aprovechamiento sustentable de los elementos naturales e inducidos y la protección al ambiente;
 
-XIX. Ecosistema: La comunidad de diferentes especies que interactúan entre sí y con los factores físicos y químicos que conforman su entorno no vivo;
+XIX. Cultura Ambiental: el conjunto de conocimientos, hábitos y actitudes, que incentivan a una sociedad a proteger el ambiente, y a actuar en armonía con la naturaleza, transmitidos a través de generaciones o adquiridos por medio de la educación ambiental;
 
-XX. Elementos Antrópicos: Todos los elementos materiales, como herramientas, construcciones y productos hechos o transformados por la actividad social y cultural;
+XX. Daño Ambiental: el perjuicio que se ocasiona o que puede provocarse u ocasionarse a futuro, a los intereses particulares o colectivos, públicos o privados, que han sido sometidos a los efectos del ambiente deteriorado o en proceso de deterioro, que afecten la calidad de vida, en sus diversas formas;
 
-XXI. Elementos Naturales: Todos aquellos elementos físicos, químicos y biológicos que se presentan en un tiempo y espacio determinado sin inducción;
+XXI. Desarrollo Sustentable: el proceso evaluable y medible mediante criterios e indicadores de carácter ambiental, económico y social, que tienda a mejorar la calidad de vida y la productividad de las personas, que se funde en medidas apropiadas de conservación y protección del ambiente y aprovechamiento de los elementos naturales e inducidos, para asegurar de las necesidades de las generaciones futuras;
 
-XXII. Fauna Silvestre: Las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones menores que se encuentren bajo control doméstico;
+XXII. Deterioro Ambiental: la alteración de las relaciones de interdependencia entre los elementos naturales e inducidos por el hombre que conforman el ambiente, que afecten negativamente la existencia, transformación y desarrollo humano y de los demás seres vivos;
 
-XXIII. Flora Silvestre: Las especies vegetales, así también los hongos, que subsisten con sujeción a los procesos de selección natural y que se desarrollan libremente, incluyendo las poblaciones o especímenes de estas especies que se encuentren bajo controles de cultivo;
+XXIII. Disposición Final: acción de depositar o confinar permanentemente residuos en sitios e instalaciones, cuyas características permitan prevenir su liberación al ambiente y las consecuentes afectaciones a la salud de la población, a los ecosistemas y sus elementos;
 
-XXIV. Impacto Ambiental: La modificación del ambiente ocasionado por la acción del hombre o de la naturaleza;
+XXIV. Ecosistema: la comunidad de diferentes especies que interactúan entre sí y con los factores físicos y químicos que conforman su entorno no vivo;
 
-> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2009)</small>
+XXV. Elementos Antrópicos: todos los elementos materiales, como herramientas, construcciones y productos hechos o transformados por la actividad social y cultural;
 
-XXIV BIS. Incineración: todo tratamiento térmico con o sin la recuperación de calor producido por la combustión, incluyendo pirolisis, gasificación, plasma y cualquier otro proceso que genere dioxinas y furanos como subproductos;
+XXVI. Elementos Naturales: todos aquellos elementos físicos, químicos y biológicos que se presentan en un tiempo y espacio determinado sin inducción;
 
-XXV. Licencia de Uso del Suelo: La autorización que otorguen los municipios o el Estado, en el ámbito de sus respectivas competencias, a las personas físicas o morales que lo soliciten, para ocupar o explotar un predio en los casos en que esta ley y otros ordenamientos lo exijan, establecen para un predio determinado en su uso general, las intensidades máximas de aprovechamiento y de ocupación del suelo, señalando asimismo restricciones federales y estatales que pudieren afectarlo;
+XXVII. Emisiones: liberación de gases de efecto invernadero en la atmósfera;
 
-XXVI. Manifestación del Impacto Ambiental: El documento mediante el cual se da a conocer con base en estudios atingentes, el impacto ambiental significativo y potencial que generaría una obra o actividad, así también la forma de evitarlo o atenuarlo en caso de que sea negativo;
+XXVIII. Estaciones de Transferencia: las instalaciones para el transbordo de los residuos sólidos de los vehículos de recolección, a los vehículos de transferencia;
 
-XXVII. Mejoramiento Ambiental: El incremento de la calidad del ambiente;
+XXIX. Fauna Silvestre: las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones menores que se encuentren bajo control doméstico;
 
-XXVIII. Material Peligroso: Los elementos, substancias, compuestos, residuos o mezclas de ellos, que independientemente de su estado físico, representen un riesgo para el ambiente, la salud o los recursos naturales, por razón de sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas;
+XXX. Flora Silvestre: las especies vegetales, así también los hongos, que subsisten con sujeción a los procesos de selección natural y que se desarrollan libremente, incluyendo las poblaciones o especímenes de estas especies que se encuentren bajo controles de cultivo;
 
-XXIX. Norma Técnica Ecológica Estatal: La regla, método o parámetro científico o tecnológico emitido por la Secretaría de Ecología y Gestión Ambiental, en que quedan establecidos los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles que deben observarse en el desarrollo de determinadas obras y actividades o el uso y destino de bienes, que causen o puedan causar deterioro ambiental y que permitan uniformar los principios, criterios y políticas en la materia;
+XXXI. Gases de Efecto Invernadero: componentes gaseosos de la atmósfera, que absorben y remiten radiación infrarroja y que están incluidos en el Anexo A del Protocolo de Kyoto:
 
-XXX. Ordenamiento Ecológico: El instrumento de política ambiental de aplicación en el territorio del Estado, cuyo objeto es regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del ambiente, la conservación y el aprovechamiento sustentable de los elementos naturales y antrópicos, a partir del análisis de las tendencias de deterioro y de las potencialidades de aprovechamiento de los mismos;
+a) Dióxido de Carbono (CO2)
 
-XXXI. Prevención Ambiental: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
+b) Hexafluoruro de azufre (SF6)
 
-XXXII. Procesos Ambientales: La relación de interdependencia entre los elementos naturales y antrópicos que conforman el ambiente, que hace posible la existencia, transformación y desarrollo de los seres vivos;
+c) Hidrofluorocarbonos (HFC)
 
-XXXIII. Protección Ambiental: El conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro;
+d) Metano (CH4)
 
-XXXIV. Recursos Naturales: Los componentes naturales como los minerales, nutrientes del suelo, las capas más profundas de la corteza terrestre y el agua, asimismo, los animales, los vegetales y otros productos de procedencia natural, susceptibles de incorporación a procesos de diversa índole;
+e) Óxido nitroso (N2O)
 
-XXXV. Recursos Naturales No Renovables: Aquellos que existen en una cantidad determinada, contenidos en diversas partes de la corteza terrestre, con posibilidad de renovación y acopio sólo por medio de procesos geológicos, físicos y químicos de tiempo inveterado y con riesgo de agotamiento por el exceso en su extracción y utilización;
+f) Perfluorocarbonos (PFC);
 
-XXXVI. Recursos Naturales Renovables: Aquellos susceptibles de duración indefinida, sin la reducción del abasto disponible, considerándose su reemplazo con mayor rapidez mediante procesos naturales, respecto a los considerados como no renovables;
+XXXII. Impacto Ambiental: la modificación del ambiente ocasionado por la acción del hombre o de la naturaleza;
 
-XXXVII. Residuo: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento, cuya degradación y deterioro no permita usarlo nuevamente en el proceso que lo generó;
+XXXIII. Incineración: todo tratamiento térmico con o sin la recuperación de calor producido por la combustión, incluyendo pirolisis, gasificación, plasma y cualquier otro proceso que genere dioxinas y furanos como subproductos;
 
-XXXVIII. Residuos Peligrosos: Todos los restos en cualquier estado físico, que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o infecciosas representen un peligro para el ambiente;
+XXXIV. Instrumentos de Carácter Fiscal: los estímulos fiscales que incentiven el cumplimiento de los objetivos de la política ambiental; las que en ningún caso, se establecerán con fines exclusivamente recaudatorios;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2010)</small>
+XXXV. Instrumentos de Mercado: las concesiones, autorizaciones, licencias y permisos que correspondan a volúmenes prestablecidos (sic) de emisiones de contaminantes en el aire, agua o suelo; o bien que establezcan límites de aprovechamiento de recursos naturales de construcción, en áreas protegidas de competencia estatal o municipal, así también, en zonas cuya conservación y protección se considere relevante desde el punto de vista ambiental;
 
-XXXIX. Residuos sólidos urbanos: los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos, o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole y cuyo manejo corresponda a los municipios;
+XXXVI. Instrumentos Económicos: los mecanismos normativos y administrativos de carácter fiscal, financiero o de mercado, mediante los cuales las personas físicas y morales asumen los beneficios y costos que generen sus actividades económicas, con el incentivo de realizar acciones que favorezcan el ambiente en la Entidad;
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2009)</small>
+XXXVII. Instrumentos Financieros: los créditos, fianzas, los seguros de responsabilidad civil, los fondos y los fideicomisos, cuando sus objetivos estén dirigidos a la conservación, protección, restauración o aprovechamiento sustentable del ambiente; así como al financiamiento de programas, proyectos, estudios de investigación científica y tecnológica para la conservación ambiental en la Entidad;
 
-XL. Residuos de manejo especial: son aquéllos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos;
+XXXVIII. Licencia de Uso del Suelo: la autorización que otorguen los municipios o el Estado, en el ámbito de sus respectivas competencias, a las personas físicas o morales que lo soliciten, para ocupar o explotar un predio en los casos en que ésta ley y otros ordenamientos lo exijan, establecen para un predio determinado en su uso general, las intensidades máximas de aprovechamiento y de ocupación del suelo, señalando asimismo restricciones federales y estatales que pudieren afectarlo;
 
-XLI. Restauración: El conjunto de acciones tendientes a la recuperación y restablecimiento de las condiciones que propicien la evolución y continuidad de los procesos naturales;
+XXXIX. Manifestación del Impacto Ambiental: el documento mediante el cual se da a conocer con base en estudios atingentes, el impacto ambiental significativo y potencial que generaría una obra o actividad, así también la forma de evitarlo o atenuarlo en caso de que sea negativo;
 
-XLII. Secretaría de Ecología y Gestión Ambiental: La autoridad administrativa dependiente del Poder Ejecutivo del Estado, encargada entre otras funciones, de formular, conducir y evaluar la política ambiental en la Entidad, según los términos previstos en la Ley Orgánica de la Administración Pública del Estado;
+XL. Material Peligroso: los elementos, substancias, compuestos, residuos o mezclas de ellos, que independientemente de su estado físico, representen un riesgo para el ambiente, la salud o los recursos naturales, por razón de sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas;
 
-XLIII. Unidad de Gestión Ambiental: La entidad natural representada por una microcuenca hidrográfica, en la que todos los aspectos y elementos naturales se encuentren relacionados entre sí y en donde pueden existir diversos ecosistemas, cuyo objetivo sea garantizar la salud y preservación de los mismos a través de la ejecución de obras, servicios y acciones concertadas entre las autoridades y los habitantes de la propia unidad. Estas microcuencas se establecerán en los términos del ordenamiento ecológico del territorio, emitido por la autoridad competente;
+XLI. Mejoramiento Ambiental: el incremento de la calidad del ambiente;
 
-XLIV. Vocación Natural: Las condiciones que presenta un ecosistema para sostener una o varias actividades, sin que se produzca deterioro ambiental;
+XLII. Mitigación: medida ambiental destinada a reducir las emisiones de gases de efecto invernadero o incrementar su captura;
 
-XLV. Instrumentos Económicos: Los mecanismos normativos y administrativos de carácter fiscal, financiero o de mercado, mediante los cuales las personas físicas y morales asumen los beneficios y costos que generen sus actividades económicas, con el incentivo de realizar acciones que favorezcan el ambiente en la Entidad;
+XLIII. Norma Técnica Ecológica Estatal: la regla, método o parámetro científico o tecnológico emitido por la Secretaría de Ecología y Gestión Ambiental, en que quedan establecidos los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles que deben observarse en el desarrollo de determinadas obras y actividades o el uso y destino de bienes, que causen o puedan causar deterioro ambiental y que permitan uniformar los principios, criterios y políticas en la materia;
 
-XLVI. Instrumentos de Carácter Fiscal: Los estímulos fiscales que incentiven el cumplimiento de los objetivos de la política ambiental; las que en ningún caso, se establecerán con fines exclusivamente recaudatorios;
+XLIV. Ordenamiento Ecológico: el instrumento de política ambiental de aplicación en el territorio del Estado, cuyo objeto es regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del ambiente, la conservación y el aprovechamiento sustentable de los elementos naturales y antrópicos, a partir del análisis de las tendencias de deterioro y de las potencialidades de aprovechamiento de los mismos;
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+XLV. Plantas de Selección y Tratamiento: la instalación donde se lleva a cabo cualquier proceso de selección y tratamiento de los residuos sólidos urbanos para su valorización o, en su caso, disposición final;
 
-XLVII. Instrumentos Financieros: Los créditos, fianzas, los seguros de responsabilidad civil, los fondos y los fideicomisos, cuando sus objetivos estén dirigidos a la conservación, protección, restauración o aprovechamiento sustentable del ambiente; así como al financiamientos de programas, proyectos, estudios de investigación científica y tecnológica para la conservación ambiental en la Entidad;
+XLVI. Prevención Ambiental: el conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2010)</small>
+XLVII. Procesos Ambientales: la relación de interdependencia entre los elementos naturales y antrópicos que conforman el ambiente, que hace posible la existencia, transformación y desarrollo de lo (sic) seres vivos;
 
-XLVIII. Instrumentos de mercado: las concesiones, autorizaciones, licencias y permisos que correspondan a volúmenes preestablecidos de emisiones de contaminantes en el aire, agua o suelo; o bien que establezcan límites de aprovechamiento de recursos naturales de construcción, en áreas protegidas de competencia estatal o municipal, así también, en zonas cuya conservación y protección se considere relevante desde el punto de vista ambiental;
+XLVIII. Protección Ambiental: el conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2010)</small>
+XLIX. Recursos Naturales: los componentes naturales como los minerales, nutrientes del suelo, las capas más profundas de la corteza terrestre y el agua, asimismo, los animales, los vegetales y otros productos de procedencia natural, susceptibles de incorporación a procesos de diversa índole;
 
-XLIX. Centro de población: las áreas que se hayan establecido para la fundación del mismo; las áreas urbanas ocupadas por las viviendas e infraestructura necesarias para su vida comunitaria; las que se reserven para su expansión futura; y las constituidas por elementos naturales que cumplen una función de preservación de sus condiciones ecológicas;
+L. Recursos Naturales no Renovables: aquéllos que existen en una cantidad determinada, contenidos en diversas partes de la corteza terrestre, con posibilidad de renovación y acopio sólo por medio de procesos geológicos, físicos y químicos de tiempo inveterado y con riesgo de agotamiento por el exceso en su extracción y utilización;
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2012)</small>
+LI. Recursos Naturales Renovables: aquéllos susceptibles de duración indefinida, sin la reducción del abasto disponible, considerándose su remplazo con mayor rapidez mediante procesos naturales, respecto a los considerados como no renovables;
 
-L. Movilidad sustentable: conjunto de procesos y acciones orientadas a conseguir como objetivo final, el uso racional de los medios de transporte por parte de los sectores públicos, los particulares, y la sociedad en general; además, fomentar la creación de vías peatonales, para que éstos den como resultado la disminución de, congestionamientos viales; deterioro del sistema de transporte público; los impactos al medio ambiente y a la salud pública, y mejoren la calidad de vida de los habitantes;
+LII. Relleno Sanitario: obra de infraestructura que involucra métodos y obras de ingeniería para la disposición final de los residuos sólidos urbanos y de manejo especial, con el fin de controlar, a través de la compactación e infraestructura adicionales, los impactos ambientales;
 
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2010)</small>
+LIII. Residuo: cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento, cuya degradación y deterioro no permita usarlo nuevamente en el proceso que lo generó;
 
-LI. Disposición final: acción de depositar o confinar permanentemente residuos en sitios e instalaciones, cuyas características permitan prevenir su liberación al ambiente y las consecuentes afectaciones a la salud de la población, a los ecosistemas y sus elementos;
+LIV. Residuos de manejo especial: son aquéllos generados en los procesos productivos que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos o que son producidos por grandes generadores de residuos sólidos urbanos;
 
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2010)</small>
+LV. Residuos Peligrosos: todos los restos en cualquier estado físico, que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o infecciosas representen un peligro para el ambiente;
 
-LII. Estaciones de transferencia: las instalaciones para el transbordo de los residuos sólidos de los vehículos de recolección, a los vehículos de transferencia;
+LVI. Residuos Sólidos Urbanos: los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos, o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole y cuya (sic) manejo corresponde a los municipios;
 
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2010)</small>
+LVII. Restauración: el conjunto de acciones tendientes a la recuperación y restablecimiento de las condiciones que propicien la evolución y continuidad de los procesos naturales;
 
-LIII. Plantas de selección y tratamiento: la instalación donde se lleva a cabo cualquier proceso de selección y tratamiento de los residuos sólidos urbanos para su valorización o, en su caso, disposición final;
+LVIII. Secretaría de Ecología y Gestión Ambiental: la autoridad administrativa dependiente del Poder Ejecutivo del Estado, encargada entre otras funciones, de formular, conducir y evaluar la política ambiental en la Entidad, según los términos previstos en la Ley Orgánica de la Administración Pública del Estado;
 
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2010)</small>
+LIX. Sitios de Disposición Final: lugar donde se depositan los residuos sólidos urbanos y de manejo especial, en forma definitiva;
 
-LIV. Relleno sanitario: obra de infraestructura que involucra métodos y obras de ingeniería para la disposición final de los residuos sólidos urbanos y de manejo especial, con el fin de controlar, a través de la compactación e infraestructura adicionales, los impactos ambientales;
+LX. Unidad de Gestión Ambiental: la entidad natural representada por una microcuenca hidrográfica, en la que todos los aspectos y elementos naturales se encuentren relacionados entre sí y en donde pueden existir diversos ecosistemas, cuyo objetivo sea garantizar la salud y preservación de los mismos a través de la ejecución de obras, servicios y acciones concertadas entre las autoridades y los habitantes de la propia unidad. Estas microcuencas se establecerán en los términos del ordenamiento ecológico del territorio, emitido por la autoridad competente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+LXI. Valorización: principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica;
 
-> <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
+LXII. Vocación Natural: las condiciones que presenta un ecosistema para sostener una o varias actividades, sin que se produzca deterioro ambiental, y
 
-LV. Sitios de disposición final: lugar donde se depositan los residuos sólidos urbanos y de manejo especial, en forma definitiva;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
-
-LVI. Valorización: principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
-
-LVII. Adaptación: medida encaminada a reducir la vulnerabilidad de los sistemas naturales y humanos, ante los efectos del cambio climático;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
-
-LVIII. Cambio Climático: variación del clima atribuido directa o indirectamente a la actividad humana que altera la composición de la atmósfera mundial, y que se suma a la variabilidad natural del clima observada durante periodos de tiempo comparables;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
-
-LIX. Emisiones: liberación de gases de efecto invernadero en la atmósfera;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
-
-LX. Gases de Efecto Invernadero: componentes gaseosos de la atmósfera, que absorben y remiten radiación infrarroja y que están incluidos en el Anexo A del Protocolo de Kyoto:
-
-a) Dióxido de carbono (CO2)
-
-b) Metano (CH)
-
-c) Óxido nitroso (N2O)
-
-d) Hidrofluorocarbonos (HFC)
-
-e) PerfluorocarbonOs (PFC)
-
-f) Hexafluoruro de azufre (SF);
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
-
-LXI. Mitigación: medida ambiental destinada a reducir las emisiones de gases de efecto invernadero o incrementar su captura, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
-
-LXII. Vulnerabilidad: incapacidad de un sistema climático, hidrológico o humano, para enfrentar los efectos del cambio climático en los aspectos, sociales, económicos, culturales, biológicos, sanitarios y ambientales.
+LXIII. Vulnerabilidad: incapacidad de un sistema climático, hidrológico o humano, para enfrentar los efectos del cambio climático en los aspectos, sociales, económicos, culturales, biológicos, sanitarios y ambientales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2012)</small>
 
@@ -2319,7 +2275,9 @@ Los que se consideren afectados por actos de las autoridades estatales, municipa
 
 Quien reciba información ambiental de las autoridades competentes en los términos del presente Capítulo, será responsable de su adecuada utilización y deberá responder por los daños y perjuicios que se ocasionen por su indebido manejo.
 
-### CAPITULO IV. DE LOS FOROS ECOLOGICOS, DEL PREMIO ESTATAL DE ECOLOGIA, DE LA INVESTIGACION Y EDUCACION AMBIENTAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JUNIO DE 2012)</small>
+
+### CAPITULO IV. DE LOS FOROS ECOLOGICOS, Y DEL PREMIO ESTATAL DE ECOLOGIA
 
 ###### ARTICULO 141.
 
@@ -2329,7 +2287,27 @@ La SEGAM y los ayuntamientos auspiciarán la realización periódica de consulta
 
 El titular del Ejecutivo del Estado, por conducto de la SEGAM, instituirá el Premio Estatal de Ecología en las áreas de desarrollo e investigación científica y tecnológica; protección del ambiente; cultura ambiental y proyectos especiales, el cual se otorgará anualmente en los términos que el respectivo acuerdo gubernamental establezca.
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE JUNIO DE 2012)</small>
+
+### CAPITULO V. DE LA CULTURA, EDUCACION E INVESTIGACION AMBIENTALES
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2012)</small>
+
+ARTICULO 142 BIS. La Secretaría de Ecología y Gestión Ambiental promoverá:
+
+I. La concientización de la sociedad para la corresponsabilidad en la protección y mejoramiento del medio ambiente en su dimensión humana, privilegiando la formación de valores y actitudes dentro de un proceso permanente de aprendizaje, mediante el cual el individuo interactúe en armonía con la naturaleza;
+
+II. La coordinación y el fomento de acciones de cultura ambiental en todo el Estado, considerando los criterios regionales pertinentes, e intensificando los esfuerzos para proteger y mejorar el estado actual del entorno, a fin de ampliar la cobertura de la educación ambiental a todos sus habitantes;
+
+III. La ejecución de investigaciones científicas y sociales, además de programas para el desarrollo de técnicas y procedimientos, que permitan prevenir, controlar y abatir la contaminación, propiciar el aprovechamiento de los recursos y proteger los ecosistemas. Para ello, se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones de los sectores social y privado, investigadores y especialistas, y
+
+IV. Actividades que modifiquen los hábitos de consumo orientados hacia la responsabilidad socio-ambiental.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2012)</small>
+
+ARTICULO 142 TER. La Secretaría y los ayuntamientos fomentarán la investigación científica y promoverán programas para la innovación y el desarrollo de tecnologías limpias, que permitan prevenir, controlar y abatir la contaminación, propiciar el aprovechamiento de los recursos y la protección del patrimonio natural.
+
+(REUBICADO, P.O. 19 DE JUNIO DE 2012)
 
 ###### ARTICULO 143.
 
@@ -2341,6 +2319,8 @@ La Secretaría de Educación de Gobierno del Estado programará como corresponda
 
 El Gobierno del Estado, a través de las dependencias competentes, propondrá y establecerá los mecanismos para llevar a cabo en la Entidad una educación ambiental que abarque los ámbitos rural y urbano en diferentes procesos, tales como educativo, laboral, recreativo, familiar y comunitario, entre otros; también impulsará que en los medios de comunicación masiva se traten temas ambientales que no únicamente informen, sino que ayuden y propongan alternativas para un desarrollo efectivo de la conciencia ambiental en la población. Además, se encargará de promover la movilidad sustentable, así como difundir sus beneficios ambientales, por medio de acciones y medidas concretas para las que contará con la opinión y participación de la sociedad civil, usuarios, ayuntamientos, sector educativo, y demás autoridades competentes.
 
+(REUBICADO, P.O. 19 DE JUNIO DE 2012)
+
 ###### ARTICULO 144.
 
 El Gobierno del Estado a través de las dependencias correspondientes, llevará a cabo las acciones necesarias a efecto de que en el territorio estatal se pueda contar con equipamientos ambientales, tales como instalaciones e infraestructura adecuadas para realizar actividades prácticas e intelectuales referentes a temas ambientales concretos, como áreas de campamento, zoológicos, parques, áreas de interpretación de la naturaleza, entre otros.
@@ -2349,7 +2329,7 @@ En la planeación y desarrollo de dichas actividades se incluirá la participaci
 
 ## TITULO DECIMO PRIMERO. DE LA AUTORREGULACION Y AUDITORIAS AMBIENTALES
 
-### CAPITULO I. DE LA INSPECCION Y VIGILANCIA
+### CAPITULO UNICO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 145.
 
@@ -2397,9 +2377,7 @@ La SEGAM podrá asimismo establecer programas operativos de supervisión y verif
 
 ## TITULO DECIMO SEGUNDO. DE LA INSPECCION Y VIGILANCIA, MEDIDAS DE SEGURIDAD Y SANCIONES
 
-### CAPITULO II. DE LAS MEDIDAS DE SEGURIDAD
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2010)</small>
+### CAPITULO I. DE LA INSPECCION Y VIGILANCIA
 
 ###### ARTICULO 149.
 
@@ -2463,7 +2441,9 @@ VI. En los casos en que el infractor realice las medidas correctivas o de urgent
 
 Cuando efectuada la inspección a una obra o actividad contaminante, en cuyo caso se desprenda alguna presunta irregularidad de competencia de la federación, la respectiva autoridad estatal, municipal u organismo operador del agua, según corresponda, establezca que existen hechos suficientes para configurar una infracción a las disposiciones normativas ambientales, pondrá de inmediato los hechos en conocimiento de la PROFEPA o de la CNA, según el caso, remitiéndole al efecto los respectivos antecedentes.
 
-### CAPITULO III. DE LAS SANCIONES
+### CAPITULO II. DE LAS MEDIDAS DE SEGURIDAD
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 156.
 
@@ -2499,7 +2479,7 @@ En los casos señalados en el párrafo anterior, los productos, equipo o maquina
 
 Dentro del más breve plazo posible, los bienes o especies animales que sean retenidos serán puestos a disposición de la delegación de la autoridad federal competente que haya de seguir el procedimiento establecido, para la aplicación de las sanciones pertinentes conforme a la legislación ambiental aplicable.
 
-### CAPITULO I. DEL RECURSO DE RECONSIDERACION
+### CAPITULO III. DE LAS SANCIONES
 
 ###### ARTICULO 159.
 
@@ -2557,7 +2537,7 @@ ARTICULO 161 BIS. En caso de que se expidan licencias, permisos, autorizaciones 
 
 ## TITULO DECIMO TERCERO. DEL RECURSO DE RECONSIDERACION Y DE LA DENUNCIA POPULAR
 
-### CAPITULO II. DE LA DENUNCIA POPULAR
+### CAPITULO I. DEL RECURSO DE RECONSIDERACION
 
 ###### ARTICULO 162.
 
@@ -2587,7 +2567,7 @@ La autoridad podrá suspender la ejecución del acto o resolución que motiva el
 
 Las pruebas se desahogarán en un plazo que no excederá de treinta días naturales contados a partir de la notificación del acuerdo que emita la autoridad respectiva, a cuyo vencimiento dictará la resolución que corresponda dentro de los treinta días naturales siguientes.
 
-### CAPITULO UNICO
+### CAPITULO II. DE LA DENUNCIA POPULAR
 
 ###### ARTICULO 165.
 
@@ -2662,6 +2642,8 @@ Sin perjuicio de las sanciones penales o administrativas que procedan, toda pers
 El término para demandar la responsabilidad ambiental será el previsto en las leyes civiles del Estado, contados a partir del momento en que se produzca el acto, hecho u omisión correspondiente.
 
 ## TITULO DECIMO CUARTO. DE LOS DELITOS AMBIENTALES DE ORDEN ESTATAL
+
+### CAPITULO UNICO
 
 ###### ARTICULO 174.
 
@@ -2840,6 +2822,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 P.O. 15 DE MAYO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 19 DE JUNIO DE 2012.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
