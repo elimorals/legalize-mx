@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-los-municipios-de-san-luis-potosi-26384"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-06"
-last_updated: "2011-02-12"
+last_updated: "2012-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSI
 
-LEY DE HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSI
+LEY DE HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2012.
 
 Ley publicada en la Sección Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 6 de noviembre de 2001.
 
@@ -191,7 +191,9 @@ d). Rústicos.
 
 El impuesto predial será anual y su pago deberá hacerse por bimestres adelantados, dentro de los primeros quince días de cada bimestre, en el lugar que al efecto señalen las autoridades fiscales. El impuesto anual nunca será inferior al equivalente a cuatro salarios mínimos diarios de la zona económica en que se ubiquen los municipios; el pago deberá hacerse en una sola exhibición dentro de los tres primeros meses del año.
 
-Independientemente de lo dispuesto en el párrafo anterior, podrá hacerse el pago del impuesto correspondiente al ejercicio de que se trate, dentro de los tres primeros meses del año, en cuyo caso, los ayuntamientos podrán someter a la consideración de la Legislatura estatal en su Iniciativa de Ley de Ingresos, el o los estímulos fiscales que consideren convenientes, sin que excedan del 15% del impuesto a pagar.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2012)</small>
+
+Cuando se trate de incentivos y estímulos fiscales a la inversión y a la generación de empleos, los ayuntamientos podrán incluir en su iniciativa de Ley de Ingresos, los descuentos e incentivos que consideren convenientes para el impulso y fortalecimiento del desarrollo económico del municipio.
 
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2007)</small>
 
@@ -751,7 +753,7 @@ LIC. JORGE DANIEL HERNANDEZ DELGADILLO
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 14 DE DICIEMBRE DE 2002.
 
@@ -776,6 +778,12 @@ P.O. 12 DE FEBRERO DE 2011.
 PRIMERO. Este Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 19 DE JUNIO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ###### ARTICULO 82.
 
