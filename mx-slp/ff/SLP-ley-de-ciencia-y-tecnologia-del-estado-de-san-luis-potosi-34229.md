@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ciencia-y-tecnologia-del-estado-de-san-luis-potosi-34229
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-30"
-last_updated: "2003-08-30"
+last_updated: "2012-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE CIENCIA Y TECNOLOGIA DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE CIENCIA Y TECNOLOGIA DEL ESTADO DE SAN LUIS POTOSI
+LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de agosto de 2003.
 
@@ -295,7 +295,9 @@ Las actividades a que se refiere el artículo anterior deberán estar orientadas
 
 I. Impulsar el aprovechamiento de los resultados de la investigación científica y tecnológica, para ampliar los horizontes de competitividad de la planta productiva;
 
-II. Promover la capacitación y actualización continua de los recursos humanos del Estado, para formar cuadros de alto nivel técnico y profesional, capaces de integrar o encabezar grupos, centros de investigación y empresas, orientados hacia las áreas que más convengan al desarrollo económico y social del Estado;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2012)</small>
+
+II. Promover la capacitación y actualización contínua de los recursos humanos del Estado, para formar cuadros de alto nivel técnico y profesional, capaces de integrar o encabezar grupos, centros de investigación y empresas, orientados hacia las áreas que más convengan al desarrollo sostenible, económico y social, del Estado;
 
 III. Definir e instrumentar mecanismos de divulgación de las actividades científicas y tecnológicas para fomentar una cultura científica, a través de productos editoriales científicos y espacios formativos, recreativos e interactivos, acordes con las prioridades del Estado, y
 
@@ -590,3 +592,11 @@ El Secretario General de Gobierno
 LIC. MARCO ANTONIO ARANDA MARTINEZ
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE JUNIO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
