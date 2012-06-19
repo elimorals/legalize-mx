@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2012-04-12"
+last_updated: "2012-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2012.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -331,7 +331,7 @@ Cuando se trate de alimentos, el cónyuge acreedor tendrá derecho preferente, s
 
 ###### ARTICULO 46.
 
-Los bienes que los cónyuges adquieren en común por donación, herencia, legado, por cualquier otro título gratuito u oneroso, o por don de (sic) la fortuna, entre tanto se hace la división, serán administrados por ambos o por uno de ellos con acuerdo del otro; pero en este caso, el que administre será considerado como mandatario del otro.
+Los bienes que los cónyuges adquieren en común por donación, herencia, legado, por cualquier otro título gratuito u oneroso, o por don de la fortuna, entre tanto se hace la división, serán administrados por ambos o por uno de ellos con acuerdo del otro; pero en este caso, el que administre será considerado como mandatario del otro.
 
 ###### ARTICULO 47.
 
@@ -725,13 +725,17 @@ II. Los nacidos dentro de los trescientos días posteriores de terminado el conc
 
 Las hijas o hijos nacidos de concubinato tendrán los mismos derechos y obligaciones como si lo fueran de matrimonio.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2012)</small>
+
 ###### ARTICULO 109.
 
-No estará obligado a contribuir económicamente la o el concubino que se encuentre imposibilitado para trabajar y careciere de bienes propios; ni tampoco el que por convenio expreso o tácito se ocupe íntegramente del cuidado del hogar o de la atención de las o los menores; en este caso la o el otro concubino responderá del sostenimiento del hogar.
+No estará obligado a contribuir económicamente la concubina o el concubinario que se encuentre imposibilitado para trabajar y careciere de bienes propios; ni tampoco el que por convenio expreso o tácito se ocupe íntegramente del cuidado del hogar o de la atención de las o los menores; en este caso la concubina o el concubinario, responderá del sostenimiento del hogar.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2012)</small>
 
 ###### ARTICULO 110.
 
-Si el concubinato se prolonga hasta la muerte de uno de sus miembros, la o el concubino que le sobrevive tendrá derecho a heredar en la misma proporción y condiciones de un cónyuge.
+Si el concubinato se prolonga hasta la muerte de uno de sus miembros, la concubina o el concubinario que le sobrevive, tendrá derecho a heredar en la misma proporción y condiciones de un cónyuge.
 
 ###### ARTICULO 111.
 
@@ -751,9 +755,13 @@ III. Por muerte de alguno de las o los concubinos.
 
 La disolución del concubinato faculta a las o los concubinos a reclamarse mutuamente alimentos.
 
-Atendiendo a las circunstancias del caso, la autoridad judicial competente tendrá facultades para fijar el tiempo en que deban otorgarse y el monto de los mismos, considerando que la concubina o concubino no tengan bienes o no estén en aptitud de trabajar. Esta acción deberá ejercerse durante los seis meses siguientes a la ruptura del concubinato.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2012)</small>
 
-En los casos de disolución del concubinato, la concubina o concubino inocente tendrá derecho a alimentos para sí o para las hijas o hijos mientras no establezca nueva relación concubinaria y viva honestamente. Sólo gozará de este derecho cuando no cuente con recursos, ni bienes propios para subsistir o esté imposibilitado para trabajar.
+Atendiendo a las circunstancias del caso, la autoridad judicial competente tendrá facultades para fijar el tiempo en que deban otorgarse y el monto de los mismos, considerando que la concubina o el concubinario no tengan bienes o no estén en aptitud de trabajar. Esta acción deberá ejercerse durante los seis meses siguientes a la ruptura del concubinato.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2012)</small>
+
+En los casos de disolución del concubinato, la concubina o el concubinario inocente, tendrá derecho a alimentos para sí o para las hijas o hijos mientras no establezca nueva relación de concubinato y viva honestamente. Sólo gozará de este derecho cuando no cuente con recursos, ni bienes propios para subsistir, o esté imposibilitado para trabajar.
 
 ## TITULO QUINTO. DEL PATRIMONIO FAMILIAR
 
@@ -1099,23 +1107,29 @@ IV. Si la hija o hijo no nació capaz de vivir.
 
 En todos los casos en que el marido tenga derecho de contradecir que el nacido es hija o hijo de su matrimonio, deberá deducir su acción dentro de sesenta días contados desde el nacimiento, si estaba presente; desde el día que llegó al lugar, si estuvo ausente; o desde el día en que descubrió el fraude, si se le ocultó el nacimiento.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2012)</small>
+
 ###### ARTICULO 174.
 
-Si la o el cónyuge o la o el concubino está bajo tutela por causa de discapacidad mental u otro motivo que lo prive de inteligencia, este derecho puede ser ejercitado por la persona que sea su tutora. Si éste no lo ejercitare, podrá hacerlo la o el cónyuge o la o el concubino después de haber salido de la tutela, pero siempre en el plazo antes designado, que se cantará desde el día en el que legalmente se declare haber cesado el impedimento.
+Si la o el cónyuge, o la concubina o el concubinario está bajo tutela por causa de discapacidad mental u otro motivo que lo prive de inteligencia, este derecho puede ser ejercitado por la persona que sea su tutora. Si éste no lo ejercitare, podrá hacerlo la o el cónyuge, o la concubina o el concubinario después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en el que legalmente se declare haber cesado el impedimento.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2012)</small>
 
 ###### ARTICULO 175.
 
-Cuando la o el cónyuge o la o el concubino, teniendo o no tutora o tutor, ha muerto sin recobrar la capacidad legal, los herederos pueden contradecir la paternidad en los casos en que podría hacerlo el padre.
+Cuando la o el cónyuge o la concubina o el concubinario teniendo o no tutora o tutor, ha muerto sin recobrar la capacidad legal, los herederos pueden contradecir la paternidad en los casos en que podría hacerlo el padre.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2012)</small>
 
 ###### ARTICULO 176.
 
-Los herederos del cónyuge o el concubino, excepto en el caso del artículo anterior, no podrán contradecir la paternidad de una hija o hijo nacido dentro de los ciento ochenta días después de la celebración del matrimonio, cuando el esposo o concubino no haya comenzado esta demanda. En los demás casos, si el cónyuge o concubino ha muerto sin hacer la reclamación dentro del término hábil, las o los herederos tendrán, para promover la demanda, sesenta días contados desde aquél en que la hija o hijo haya sido puesto en posesión de los bienes del padre, o desde que los herederos se vean afectados por la hija o el hijo en la posesión de la herencia.
+Los herederos del cónyuge o el concubinario, excepto en el caso del artículo anterior, no podrán contradecir la paternidad de una hija o hijo nacido dentro de los ciento ochenta días después de la celebración del matrimonio, cuando el esposo o el concubinario no haya comenzado esta demanda. En los demás casos, si el cónyuge o el concubinario ha muerto sin hacer la reclamación dentro del término hábil, las o los herederos tendrán, para promover la demanda, sesenta días contados desde aquél en que la hija o hijo haya sido puesto en posesión de los bienes del padre, o desde que los herederos se vean afectados por la hija o el hijo en la posesión de la herencia.
 
 ###### ARTICULO 177.
 
 Si la viuda, la divorciada o aquélla cuyo matrimonio fuere declarado nulo, y contrajera nuevas nupcias dentro los trescientos días después de la disolución del vinculo matrimonial anterior, la filiación de la hija o el hijo, que naciere después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
 
-I. Se presume que hija ó hijo es del primer matrimonio, si nace dentro de los trescientos días siguientes a la disolución del primer matrimonio y antes de ciento ochenta días de la celebración del segundo;
+I. Se presume que hija ó hijo, es del primer matrimonio, si nace dentro de los trescientos días siguientes a la disolución del primer matrimonio y antes de ciento ochenta días de la celebración del segundo;
 
 II. Se supone que la hija o hijo es del segundo marido, si nace después de ciento ochenta días de la celebración del segundo matrimonio, aunque el nacimiento tenga lugar dentro de los trescientos días posteriores a la disolución del primer matrimonio;
 
@@ -1451,7 +1465,9 @@ La filiación de las hijas o hijos nacidos fuera del matrimonio, con relación a
 
 Quien haya dado su consentimiento para la práctica de una técnica de reproducción asistida, no podrá impugnar la filiación que de ésta resulte, a no ser que la petición se base en que la hija o el hijo concebido no fue producto del tratamiento.
 
-Igualmente, el concubino que otorgó su consentimiento para la aplicación de una técnica de reproducción asistida en su concubina, está obligado a reconocer la paternidad del hijo producto del tratamiento.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2012)</small>
+
+Igualmente, el concubinario que otorgó su consentimiento para la aplicación de una técnica de reproducción asistida en su concubina, está obligado a reconocer la paternidad del hijo producto del tratamiento.
 
 La gestación de un embrión, cuya progenitora hubiese fallecido, no afectará la filiación del gestado cuando se trate de reproducción humana asistida.
 
@@ -3300,6 +3316,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 12 DE ABRIL DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE JUNIO DE 2012.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
