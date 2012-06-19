@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2012-05-10"
+last_updated: "2012-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -67,7 +67,7 @@ En el proceso educativo deberá asegurarse que la participación del educando se
 
 Todos los individuos tienen derecho a recibir educación, con las mismas oportunidades de acceso al sistema educativo estatal, con sólo satisfacer los requisitos que establezcan las disposiciones generales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 5º.
 
@@ -131,9 +131,9 @@ IX.- Estimular la educación física y la práctica del deporte, así como fomen
 
 X.- Desarrollar actitudes solidarias en los individuos, para crear conciencia sobre la preservación de la salud, el ejercicio responsable de la sexualidad, la planeación familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2012)</small>
 
-XI.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, así como de la valoración de la protección y conservación del ambiente, como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad;
+XI.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sostenible, la prevención del cambio climático, así como de la valoración de la protección y conservación del ambiente, como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad. También se proporcionarán los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representan el cambio climático y otros fenómenos naturales;
 
 > <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
 
@@ -167,7 +167,7 @@ XVIII. Difundir los derechos y deberes de niños, niñas y adolescentes, así co
 
 XIX. Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad, o de personas que no tengan la capacidad de comprender el significado del hecho o para resistirlo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 10.
 
@@ -289,7 +289,9 @@ De la Distribución Social Educativa.
 
 Corresponden de manera exclusiva a la autoridad educativa estatal, las atribuciones siguientes:
 
-I.- Elaborar y ejecutar las políticas y los programas en materia educativa, cultural, recreativa y deportiva;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2012)</small>
+
+I.- Elaborar y ejecutar las políticas y los programas en materia educativa, cultural, recreativa, deportiva, y ecológica-
 
 II.- Planear, programar, presupuestar, ejecutar y evaluar los programas educativos, culturales, recreativos y deportivos;
 
@@ -333,7 +335,9 @@ XIV.- Promover la conservación de las costumbres, tradiciones y expresiones aut
 
 XV.- Promover el establecimiento de centros de cultura, estatales, regionales y municipales;
 
-XVI.- Promover la realización de congresos, asambleas, reuniones, actividades, competencias y concursos de carácter científico, histórico, técnico, cultural, educativo, artístico y deportivo;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2012)</small>
+
+XVI.- Promover la realización de congresos, asambleas, reuniones, actividades, competencias y concursos de carácter científico, histórico, técnico, cultural, educativo, artístico, deportivo, y ambiental;
 
 XVII.- Organizar, controlar y mantener al corriente el registro de los avances educativos, científicos, tecnológicos, literarios y artísticos, que se realicen en la Entidad;
 
@@ -366,6 +370,10 @@ XXVIII.- Vigilar en los planteles educativos de la Entidad, el cumplimiento del 
 XXIX.- Vigilar el cumplimiento de esta Ley, de su reglamento y demás disposiciones aplicables;
 
 XXX.- Supervisar los servicios educativos que imparta el Gobierno del Estado, los organismos descentralizados, órganos desconcentrados y particulares con autorización o con reconocimiento de validez oficial de estudios;
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2012)</small>
+
+XXX BIS.- Proporcionar en todos los niveles del Sistema Educativo Estatal conocimientos para contribuir a la formación de hábitos, tendientes a evitar o minimizar la generación de residuos, con la finalidad de aprovechar su valor y otorgarles un manejo integral;
 
 > <small>(REFORMADA, P.O. 29 DE MARZO DE 2008)</small>
 
@@ -427,9 +435,11 @@ El Gobierno del Estado promoverá la participación directa de los ayuntamientos
 
 Del Financiamiento de la Educación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2012)</small>
+
 ###### ARTICULO 25.
 
-El Gobierno del Estado, con sujeción a las disposiciones de ingresos y gasto público que resulten aplicables, se obligará al financiamiento de los servicios educativos. Los recursos federales recibidos para este fin no serán transferibles y deberán aplicarse exclusiva y oportunamente en la prestación de servicios y demás actividades educativas.
+El Gobierno del Estado, con sujeción a las disposiciones de ingresos y gasto público que resulten aplicables, se obligará al financiamiento de la educación pública y los servicios educativos. En la asignación del presupuesto a cada uno de los niveles de educación, se deberá dar la continuidad y la concatenación entre los mismos, con el fin de que la población alcance el máximo nivel de estudios posible. Los recursos federales recibidos para este fin no serán transferibles y deberán aplicarse exclusiva y oportunamente en la prestación de servicios y demás actividades educativas.
 
 El Gobierno del Estado otorgará todas las facilidades y colaboración, para que en su caso, el Ejecutivo Federal verifique la correcta aplicación de dichos recursos.
 
@@ -467,7 +477,7 @@ Además, estará sujeto a los fines y criterios dispuestos en los artículos, 9�
 
 Para su atención, la educación se integra por los tipos: básico, medio superior, y superior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 30.
 
@@ -609,13 +619,25 @@ IV.- Criterios y procedimientos de evaluación y acreditación, para verificar q
 
 Los programas de estudio fijan los propósitos específicos de aprendizaje y determinan el orden y distribución de los contenidos educativos mínimos de cada grado, área o asignatura de un ciclo escolar, así como los criterios y procedimientos que servirán de base para su evaluación y acreditación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 43.
 
 En los niveles de educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica, serán obligatorios en esta Entidad, los planes y programas de estudio determinados por la Secretaría de Educación Pública de la Administración Pública Federal, conforme a los principios y criterios establecidos en los artículos 9°. y 10 de esta Ley. En el caso de los programas de educación normal y demás para la formación de maestros de educación básica, serán revisados y evaluados al menos cada cuatro años.
 
-La Autoridad Educativa Local, dará a conocer a la Secretaría de Educación de la Administración Pública Federal sus opiniones sobre planes y programas de estudio y propondrá para su consideración y, en su caso, para su autorización, contenidos regionales que sin mengua de carácter nacional de los planes y programas citados, permitan que los educandos adquieran un mejor conocimiento de la historia, la geografía, las costumbres, tradiciones y demás aspectos propios de la entidad y sus respectivos municipios.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2012)</small>
+
+La Autoridad Educativa Local dará a conocer a la Secretaría de Educación de la Administración Pública Federal, sus opiniones sobre planes y programas de estudio, y propondrá para su consideración y, en su caso, para su autorización, contenidos regionales que, sin mengua de carácter nacional de los planes y programas citados, permitan que los educandos adquieran un mejor conocimiento de la historia, la geografía, las costumbres, tradiciones, ecosistemas, y demás aspectos propios de la Entidad y sus municipios.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2012)</small>
+
+Sin menoscabo de las funciones establecidas para el Consejo Estatal Técnico de la Educación, la autoridad educativa local debe invitar a las siguientes entidades públicas, a fin de proponer contenidos regionales del tópico que se señala:
+
+I. Secretaría de Cultura: historia, costumbres y tradiciones;
+
+II. Instituto Nacional de Estadística y Geografía; y, Consejo Estatal de Población: geografía, y
+
+III. Secretaría de Ecología y Gestión Ambiental: aspectos relacionados con ecología, ecosistemas y cambio climático.
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2008)</small>
 
@@ -643,7 +665,7 @@ Los planes y programas de estudio destinados a la capacitación para el trabajo,
 
 Los planes y programas de estudio, aplicables y obligatorios en el Estado, de educación preescolar, primaria, secundaria, educación normal y demás para la formación de maestros de educación básica, así como sus modificaciones, deberán publicarse oportunamente en el Periódico Oficial del Estado y, previa su aplicación, se deberá capacitar a los maestros respecto de su contenido y métodos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE SEPTIEMBRE DE 2003)</small>
 
 ### Capítulo II Bis.
 
@@ -883,6 +905,10 @@ I.- Promover y apoyar programas deportivos y de recreación, para preservar la s
 
 II.- Estimular la promoción de esquemas y acciones en los programas educativos, con el objetivo de fomentar la cultura ecológica en todos los integrantes de la comunidad educativa, con especial énfasis en nuestra niñez y juventud; haciendo obligatoria la siembra de árboles y el cuidado de los mismos, a fin de lograr la preservación del medio ambiente;
 
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2012)</small>
+
+II BIS.- Contribuir para que los educandos se desarrollen a través de la práctica del deporte, en una convivencia armoniosa con el ambiente, impulsando la utilización de material de la naturaleza y reciclado, como material didáctico para el acondicionamiento físico;
+
 III.- Coadyuvar en la construcción y mantenimiento de espacios deportivos y de recreación, evitando con ello la proliferación de centros de vicio;
 
 IV.- Impulsar la participación en actividades y competencias deportivas y recreativas, nacionales e internacionales; y
@@ -1083,7 +1109,7 @@ La revalidación podrá otorgarse por niveles educativos, por grados escolares, 
 
 Los estudios realizados dentro del sistema educativo nacional, podrán, en su caso, declararse equivalentes entre sí por niveles educativos, grados escolares, créditos académicos, asignaturas u otras unidades de aprendizaje, según lo establezca la regulación respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 87.
 
@@ -1621,7 +1647,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 JUAN JOSE RODRIGUEZ.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 16 DE SEPTIEMBRE DE 2003.
 
@@ -1703,7 +1729,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
 
 P.O. 20 DE JULIO DE 2010.
 
-DECRETO 310, POR EL QUE SE REFORMA EL ARTICULO 89 EN SUS FRACCIONES III Y IV; Y ADICIONA A LOS ARTICULOS, 6°, EL PARRAFO TERCERO, 22 UNA FRACCION, ESTA COMO XXII, POR LO QUE (SIC) ACTUALES XXII A XXV, XXV BIS Y XXVI A XXXII, PASAN A SER FRACCIONES XXIII A XXXIV, Y AL 89 LA FRACCION V, DE Y A LA LEY DE EDUCACION DEL ESTADO.
+DECRETO 310, POR EL QUE SE REFORMA EL ARTÍCULO 89 EN SUS FRACCIONES III Y IV; Y ADICIONA A LOS ARTÍCULOS, 6°, EL PÁRRAFO TERCERO, 22 UNA FRACCIÓN, ESTA COMO XXII, POR LO QUE (SIC) ACTUALES XXII A XXV, XXV BIS Y XXVI A XXXII, PASAN A SER FRACCIONES XXIII A XXXIV, Y AL 89 LA FRACCIÓN V, DE Y A LA LEY DE EDUCACIÓN DEL ESTADO.
 
 PRIMERO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
 
@@ -1713,7 +1739,7 @@ TERCERO. Se derogan todas las disposiciones legales y administrativas que se opo
 
 P.O. 20 DE JULIO DE 2010.
 
-DECRETO 311 UNICO POR EL QUE SE REFORMA EL ARTICULO 49 DE LA LEY DE EDUCACION DEL ESTADO.
+DECRETO 311 ÚNICO POR EL QUE SE REFORMA EL ARTÍCULO 49 DE LA LEY DE EDUCACIÓN DEL ESTADO.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -1744,6 +1770,32 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 P.O. 10 DE MAYO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 19 DE JUNIO DE 2012.
+
+DECRETO No. 980, POR EL QUE SE REFORMA EL ARTÍCULO 25 EN SU PÁRRAFO PRIMERO, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Para dar cabal cumplimiento a lo dispuesto en el presente Decreto, las autoridades educativas, Estatal y municipales, en concurrencia con la federación, y en sus respectivos ámbitos de competencia, establecerán instrumentos y mecanismos técnico-pedagógicos y financieros, como estímulos o subvenciones, a fin de ampliar la cobertura y garantizar la permanencia, el fortalecimiento y eficacia terminal de los estudiantes del nivel medio superior de la educación pública del Estado, así como fortalecer la estructura de este nivel.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 19 DE JUNIO DE 2012.
+
+DECRETO No. 981, POR EL QUE SE REFORMA EL ARTÍCULO 43 EN SU PÁRRAFO SEGUNDO; Y ADICIONA PÁRRAFO AL MISMO ARTÍCULO 43, ÉSTE COMO TERCERO POR LO QUE ACTUAL TERCERO PASA A SER PÁRRAFO CUARTO, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 19 DE JUNIO DE 2012.
+
+DECRETO No. 983, POR EL QUE SE REFORMAN LOS ARTÍCULOS, 9°. EN SU FRACCIÓN XI, 22 EN SUS FRACCIONES I Y XVI; Y ADICIONA A LOS ARTÍCULOS, 22 LA FRACCIÓN XXX BIS, Y 67 LA FRACCIÓN II BIS, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
