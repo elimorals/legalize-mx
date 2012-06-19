@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2012-06-14"
+last_updated: "2012-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2012.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -2421,9 +2421,17 @@ XIII. Altera por cualquier medio los medidores de algún fluido o las indicacion
 
 XIV. Para hacerse de una cantidad de dinero, de un documento que importe una obligación, liberación o transmisión de derechos o de cualquier otra cosa ajena mueble, logra que se le entregue por medio de maquinaciones, engaños o artificios;
 
-XV. Por cualquier razón tenga a su cargo la administración o el cuidado de bienes ajenos y perjudica al titular de éstos, alterando las cuentas o condiciones de los convenios, contratos o actos de tipo jurídico, suponiendo operaciones o gastos inexistentes o exagerando los que pudiera haber hecho, oculta o retiene valores empleándolos indebidamente, o
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2012)</small>
 
-XVI. Por sí o por interpósita persona, causa perjuicio público o privado al fraccionar y transferir o prometer transferir la propiedad, la posesión o cualquier otro derecho sobre un terreno urbano o rústico, propio o ajeno, con o sin autorización, sin el previo permiso de las autoridades administrativas competentes o cuando, existiendo éste, no se hayan satisfecho los requisitos en él señalados o los convenidos por las partes. Este delito se sancionará aún en el caso de pago total o parcial del precio.
+XV. Por cualquier razón tenga a su cargo la administración o el cuidado de bienes ajenos y perjudica al titular de éstos, alterando las cuentas o condiciones de los convenios, contratos o actos de tipo jurídico, suponiendo operaciones o gastos inexistentes o exagerando los que pudiera haber hecho, oculta o retiene valores empleándolos indebidamente;
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2012)</small>
+
+XVI. Por sí o por interpósita persona, causa perjuicio público o privado al fraccionar y transferir o prometer transferir la propiedad, la posesión o cualquier otro derecho sobre un terreno urbano o rústico, propio o ajeno, con o sin autorización, sin el previo permiso de las autoridades administrativas competentes o cuando, existiendo éste, no se hayan satisfecho los requisitos en él señalados o los convenidos por las partes. Este delito se sancionará aún en el caso de pago total o parcial del precio, o
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2012)</small>
+
+XVII. Falte a la verdad o exhiba documentos apócrifos para simular la ausencia o desaparición de un trabajador, con el objeto de obtener el pago de la pensión o la devolución de los descuentos, a que se refieren los artículos, 72 en su segundo párrafo, y 90 en su párrafo tercero, de la Ley de Pensiones y Prestaciones Sociales para los Trabajadores al Servicio del Estado de San Luis Potosí.
 
 Para los efectos penales se entiende por fraccionar la división de terrenos en lotes.
 
@@ -4232,6 +4240,12 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto
 P.O. 14 DE JUNIO DE 2012.
 
 DECRETO 979 POR EL QUE SE ADICIONA EN LA PARTE ESPECIAL EN SU TÍTULO SEGUNDO EL CAPÍTULO IV BIS DENOMINADO DESAPARICIÓN FORZADA DE PERSONAS, Y LOS ARTÍCULOS 136 QUINQUE, Y 136 SEXTIES, AL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE JUNIO DE 2012.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
