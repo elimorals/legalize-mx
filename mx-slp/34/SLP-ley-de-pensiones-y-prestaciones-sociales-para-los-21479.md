@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-pensiones-y-prestaciones-sociales-para-los-21479"
 country: "mx"
 rank: "ley"
 publication_date: "2001-05-21"
-last_updated: "2011-11-29"
+last_updated: "2012-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21479&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 21 de mayo de 2001.
 
@@ -247,7 +247,7 @@ Cada vez que un grupo cotizador incremente sus aportaciones para el fortalecimie
 
 El descuento a los trabajadores para el fortalecimiento de cada fondo podrá ser hasta el catorce por ciento del sueldo, sin tomar en consideración su edad; por lo que se refiere a las prestaciones que comprende los diversos conceptos a cotizar, quedarán reguladas en el reglamento de cada uno de los grupos cotizadores. Los trabajadores que desempeñen dos o más empleos en la administración pública estatal, o municipal, en su caso, cubrirán el descuento establecido en este artículo sobre el total de los sueldos efectivamente percibidos.
 
-> <small>(REFORMADO PRIMER PARRAFO, PO. 13 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, PO. 13 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 23.
 
@@ -293,7 +293,7 @@ Todo acto, contrato o documento que implique obligación o derecho inmediato o e
 
 La Dirección de Pensiones dará a conocer con toda oportunidad a los grupos cotizadores, los estados mensuales de sus operaciones y sus estados financieros anuales, autorizados por la Junta Directiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, PO. 13 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, PO. 13 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 33.
 
@@ -433,7 +433,9 @@ II. Para los trabajadores que hayan dejado de prestar sus servicios al Estado, d
 
 III. Para los inhabilitados, desde el día en que hubiere ocurrido la inhabilitación;
 
-IV. Para los beneficiarios, desde el día siguiente al de la muerte de la persona que haya originado la pensión, y
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2012)</small>
+
+IV. Para los beneficiarios, desde el día siguiente al de la muerte de la persona que haya originado la pensión; o bien, una vez denunciada su desaparición ante la autoridad competente, y
 
 V. Para los trabajadores que se separen del servicio, después de haber contribuido no menos de quince años al fondo, cuando cumplan la edad pensionable. En este caso se les otorgará la pensión a que tuvieren derecho según el tiempo contribuido al fondo, siempre que hubieren dejado al separarse la totalidad de los descuentos que por razón de su cargo se les haya hecho.
 
@@ -464,6 +466,10 @@ La edad y el parentesco de los trabajadores y de sus familiares beneficiarios, s
 ###### ARTICULO 57.
 
 Cuando se descubriere que son falsos los hechos o documentos que hayan servido para conceder una pensión, la Junta Directiva procederá a realizar una revisión de los documentos y pensión otorgada; asimismo, establecerá mediante acuerdo las responsabilidades en que se haya incurrido y se formularán ante las instancias las denuncias correspondientes.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2012)</small>
+
+Serán sancionados por el Código Penal del Estado, en los términos que señala el artículo 205, los actos simulados por el derechohabiente o beneficiarios, que se realicen para obtener la pensión, devolución de descuentos o cualquier otra prestación.
 
 ###### ARTICULO 58.
 
@@ -535,9 +541,17 @@ I. Los beneficiarios del trabajador que fallezca a causa o como consecuencia de 
 
 II. Los beneficiarios del trabajador que habiendo prestado servicios por más de quince años y contribuido al fondo por el mismo período, falleciera por causas ajenas al servicio, aunque el deceso ocurriere sin que el trabajador hubiese cumplido cincuenta y cinco años de edad;
 
-III. Los beneficiarios de los trabajadores que hubieren pasado a ser pensionista por jubilación, por edad avanzada o inhabilitación en servicio, y
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2012)</small>
 
-IV. Los deudos de los trabajadores a que se refiere el artículo 52 fracción V de esta Ley, si fallecieren éstos antes de habérseles pensionado.
+III. Los beneficiarios de los trabajadores que hubieren pasado a ser pensionista por jubilación, por edad avanzada o inhabilitación en servicio;
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2012)</small>
+
+IV. Los beneficiarios del trabajador, en activo y con derecho a pensión, que hubiere desaparecido por más de un mes sin que se tengan noticias de su paradero, de acuerdo a los requisitos y condiciones establecidas en la presente Ley, y
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2012)</small>
+
+V. Los deudos de los trabajadores a que se refiere el artículo 52 fracción IV de esta Ley, si fallecieren éstos antes de habérseles pensionado.
 
 ###### ARTICULO 70.
 
@@ -555,6 +569,10 @@ b). Que el trabajador contribuyente al fondo haya vivido con el concubinario los
 
 Si al morir el trabajador tenía varias concubinas o concubinos, y éstos demuestran que se encuentran en las circunstancias señaladas en los incisos a) y b) anteriores, se estará a lo dispuesto en el Código Civil del Estado.
 
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2012)</small>
+
+Se observará lo conducente, en el caso de beneficiarios del trabajador que hubiere desaparecido de su domicilio por más de un mes sin que se tengan noticias de su paradero.
+
 ###### ARTICULO 71.
 
 Los trabajadores antes y después de ser pensionados, declararán por escrito ante la Dirección, cual será su voluntad acerca de los deudos enumerados en el artículo 70 de esta Ley, a quienes al fallecer se concederá o se transmitirá la pensión o gozarán de los beneficios que para ello se concede. No obstante este señalamiento, quien tenga derecho de alimentos de acuerdo con la ley civil, gozará de los beneficios de la pensión en la proporción que les corresponda.
@@ -566,6 +584,10 @@ Las designaciones a que este artículo se refiere, podrán en todo tiempo ser su
 ###### ARTICULO 72.
 
 Si un trabajador pensionado desapareciere de su domicilio por más de un mes sin que se tengan noticias de su paradero, quienes tuvieran derecho a la transmisión de la pensión podrán solicitar que se les transfiera con el carácter de provisional, en los términos del artículo 77 fracción VI y con solo la comprobación de la desaparición y de su parentesco, sin que sea necesario promover diligencias de declaración de ausencia. Si el pensionista llegare a presentarse tendrá derecho a recibir las diferencias entre el monto de la pensión y la parte entregada a sus beneficiarios. Si se comprueba el fallecimiento del pensionista, la transmisión tendrá el carácter de definitiva.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2012)</small>
+
+En el caso del trabajador en activo y con derecho a pensión, que hubiere desaparecido de su domicilio por más de un mes sin que se tenga noticias de su paradero, el derechohabiente de aquél podrá solicitar que se le pague con el carácter de provisional la pensión, tan pronto presente la denuncia ante el Ministerio Público, se gire la orden de pesquisas y demuestre su derecho a la pensión en los términos de la presente Ley; supuesto en el cual la Dirección de Pensiones queda relevada de responsabilidad alguna. Si el trabajador llegare a presentarse podrá recibir el pago de la pensión, descontando la parte entregada al beneficiario; o bien, de ser procedente, reintegrarse al servicio y seguir cotizando al fondo respectivo, descontándose la parte que se entregó al beneficiario. Una vez resueltas las diligencias que declaren la ausencia del trabajador o comprobado el fallecimiento del mismo, el pago del recurso tendrá el carácter de definitivo.
 
 ###### ARTICULO 73.
 
@@ -757,6 +779,10 @@ El trabajador que sin tener derecho a pensión se separe definitivamente del ser
 
 También podrán afectarse dichos descuentos cuando el interesado tenga responsabilidades con la administración pública estatal, o municipal en su caso.
 
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2012)</small>
+
+Bajo las mismas condiciones, en el caso del trabajador en activo, que haya desaparecido de su domicilio por más de un mes sin que se tenga noticias de su paradero, la devolución de los descuentos hechos para contribuir al fondo respectivo, se efectuará al beneficiario registrado, bastando solamente la presentación de la denuncia ante el Ministerio Público, se gire la orden de pesquisas y demuestre su derecho al retiro de las aportaciones en los términos de la presente Ley; supuesto en el cual la Dirección de Pensiones queda relevada de responsabilidad alguna. Esto con independencia de que en su oportunidad, el beneficiario deberá promover diligencias de declaración de ausencia y exhibir copia certificada de su resolución.
+
 ###### ARTICULO 91.
 
 Al trabajador suspendido o cesado por imputársele la comisión de algún delito en el desempeño de su cargo, que entrañe responsabilidad civil con el Estado, no se le hará la devolución de los descuentos hasta que los tribunales dicten el respectivo fallo, si es absolutorio; en caso contrario, sólo se le devolverá el sobrante, si lo hubiere, después de cubrir dicha responsabilidad.
@@ -929,11 +955,11 @@ En las resoluciones tomadas por la Junta Directiva en las que se considere que s
 
 Para lo no previsto en esta Ley, la Junta Directiva de Pensiones resolverá las dudas que surjan, con la exacta observancia a las leyes civiles vigentes en el Estado y disposiciones administrativas aplicables.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, PO. 13 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, PO. 13 DE OCTUBRE DE 2011)</small>
 
 ## TITULO OCTAVO. DE LAS PENSIONES DE LOS TRABAJADORES DEL SISTEMA EDUCATIVO ESTATAL REGULAR SINDICALIZADOS
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, PO. 13 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, PO. 13 DE OCTUBRE DE 2011)</small>
 
 ### CAPITULO I. DE LAS PENSIONES
 
@@ -1007,7 +1033,7 @@ Cuando un pensionista por incapacidad física o mental recupere sus facultades, 
 
 Se establece un seguro de salud para la familia, proporcionado por una institución de seguridad social, en favor de los jubilados y pensionados por la Dirección de Pensiones del Estado, a fin de que reciban la asistencia médica, quirúrgica, farmacéutica y hospitalaria que sea necesaria en caso de enfermedad; derecho que se hace extensivo al cónyuge, concubina, concubinario, e hijos del pensionado, de acuerdo a la normatividad vigente del Instituto Mexicano del Seguro Social. Para tal efecto, la administración pública estatal cubrirá las cuotas correspondientes.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, PO. 13 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, PO. 13 DE OCTUBRE DE 2011)</small>
 
 ### CAPITULO II. DE LAS PENSIONES A LOS FAMILIARES DE LOS TRABAJADORES
 
@@ -1085,7 +1111,7 @@ Si un pensionado desapareciere de su domicilio por más de un mes sin que se ten
 
 El importe de las pensiones concedidas a deudos será otorgado a quien designe la autoridad judicial por sentencia que haya causado ejecutoria, en caso de que el trabajador en vida no hubiere hecho la declaración establecida en el artículo 122 de este Ordenamiento.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, PO. 13 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, PO. 13 DE OCTUBRE DE 2011)</small>
 
 ### CAPITULO III. DEL COMPUTO DEL TIEMPO DE SERVICIOS
 
@@ -1107,7 +1133,7 @@ II. Cuando las licencias sean concedidas por un periodo hasta de seis meses.
 
 En todo caso, para poder ser computables tales licencias, se requerirá que el trabajador siga cubriendo al fondo correspondiente, las aportaciones que sobre su sueldo corresponda aplicar, así como las estipuladas por los artículos 22 y 23 de esta Ley, durante todo el tiempo que comprenda la licencia.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, PO. 13 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, PO. 13 DE OCTUBRE DE 2011)</small>
 
 ### CAPITULO IV. DEL MONTO DE LAS PENSIONES
 
@@ -1219,7 +1245,7 @@ Los trabajadores pensionados y jubilados tendrán derecho a una gratificación a
 
 Esta gratificación no formará parte del pago de la pensión a los derechohabientes de la misma después de la muerte del trabajador, a excepción de lo dispuesto en la fracción VI del artículo anterior.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE OCTUBRE DE 2011)</small>
 
 ### CAPITULO V. EXTINCION DE LAS PENSIONES Y PREESCRIPCION (SIC) DE LAS OBLIGACIONES
 
@@ -1331,7 +1357,7 @@ LIC. JORGE DANIEL HERNANDEZ DELGADILLO
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 13 DE OCTUBRE DE 2011.
 
@@ -1758,3 +1784,9 @@ P.O. 29 DE NOVIEMBRE DE 2011.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a éste.
+
+P.O. 19 DE JUNIO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
