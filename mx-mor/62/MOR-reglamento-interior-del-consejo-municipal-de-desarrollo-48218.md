@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-consejo-municipal-de-desarrollo-48218"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-01-18"
-last_updated: "2010-09-01"
+last_updated: "2012-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48218&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL CONSEJO MUNICIPAL DESARROLLO RURAL SUSTENTABLE, DEL MUNICIPIO DE CUERNAVACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2012.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 18 de enero de 2006.
 
@@ -57,7 +57,7 @@ El Consejo Municipal de Desarrollo Rural Sustentable es un órgano colegiado de 
 
 El Consejo Municipal de Desarrollo Rural Sustentable es una instancia consultiva, y de participación de los productores y demás agentes de la sociedad rural de la demarcación, en la definición de prioridades locales, en la planeación de los recursos que la Federación, el Gobierno del Estado y el Municipio acuerden para el apoyo de las inversiones productivas y para el desarrollo rural sustentable.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 4.
 
@@ -143,9 +143,13 @@ Serán miembros permanentes del COMUNDER:
 
 I.- El Presidente Municipal, quien lo presidirá;
 
-II.- Los regidores que integran la Comisión de Desarrollo Agropecuario del Ayuntamiento, como integrantes de la Comisión Consultiva;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2012)</small>
 
-III.- El Secretario de Turismo y Fomento Económico, quien será el Coordinador General;
+II.- Los regidores que integran la Comisión de Desarrollo Agropecuario del Ayuntamiento, el Regidor Presidente de la Comisión de Desarrollo Agropecuario, quien será el Coordinador General;
+
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2012)</small>
+
+III.- El Secretario de Turismo y Fomento Económico, quién además suplirá las ausencias del Presidente Municipal.
 
 IV.- El Director de Fomento Agropecuario, y se le designará como Coordinador Operativo;
 
@@ -279,7 +283,7 @@ XIV.- Sanidad, inocuidad y calidad agropecuaria y alimentaría, y
 
 XV.- Capacitación y asistencia técnica integral.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 14.
 
@@ -305,9 +309,9 @@ El Presidente del Consejo tendrá las siguientes funciones:
 
 I.- Representar al COMUNDER;
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2012)</small>
 
-II.- Convocar por sí o a través del Secretario de Turismo y Fomento Económico o del Director de Fomento Agropecuario, a las sesiones ordinarias y extraordinarias del COMUNDER;
+II.- Convocar por si o a través del Regidor de Desarrollo Agropecuario o del director de Fomento Agropecuario, a las sesiones ordinarias y extraordinarias del COMUNDER;
 
 III.- Someter al COMUNDER, para su aprobación, el calendario anual de sesiones mensuales ordinarias;
 
@@ -335,9 +339,11 @@ XII.- Aquellas otras que el COMUNDER determine.
 
 ### CAPÍTULO III. DE LAS FUNCIONES DEL COORDINADOR GENERAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2012)</small>
 
-Artículo. 17.- Fungirá como Coordinador General del COMUNDER el Secretario de Turismo y Fomento Económico del Ayuntamiento de Cuernavaca, quien tendrá las siguientes funciones:
+###### ARTÍCULO 17.
+
+Fungirá como Coordinador General de MOMUNDER (sic) el Regidor de Desarrollo Agropecuario del Ayuntamiento de Cuernavaca, quién tendrá las funciones siguientes:
 
 I.- Emitir las Convocatorias para las sesiones ordinarias y extraordinarias del COMUNDER, por instrucciones del Presidente;
 
@@ -353,25 +359,15 @@ V.- Realizar trámites y gestiones para el cumplimiento de los acuerdos, normas,
 
 VI.- Presidir las sesiones del COMUNDER en las ausencias del Presidente Municipal;
 
-VII.- Las demás que le sean encomendadas por el COMUNDER.
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2012)</small>
 
-###### Artículo 17.
+VII.- Gestionar con los niveles de Gobierno Federal y Estatal la asignación de recursos al Municipio para actividades agropecuarias.
 
-Fungirá como Coordinador General del COMUNDER el Regidor de Desarrollo agropecuario del Ayuntamiento de Cuernavaca, quien tendrá las siguientes funciones:
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2012)</small>
 
-I.- Emitir las Convocatorias para las sesiones ordinarias y extraordinarias del COMUNDER, por instrucciones del Presidente;
+VIII.- Realizar visitas periódicas a las áreas de producción agrícola y pecuaria del Municipio a efecto de conocer y atender las necesidades del sector;
 
-II.- Levantar un registro de los acuerdos tomados en las sesiones del COMUNDER y realizar su seguimiento;
-
-III.- Llevar un registro de las comisiones de trabajo que se integren y dar seguimiento a los avances de estas;
-
-IV.- Recibir y atender las solicitudes de información o documentación relacionadas con las funciones y actividades del COMUNDER y someter a consideración del Presidente y sus miembros aquellas propuestas que requieran del análisis y consenso del pleno;
-
-V.- Realizar trámites y gestiones para el cumplimiento de los acuerdos, normas, programas y proyectos del COMUNDER;
-
-VI.- Presidir las sesiones del COMUNDER en las ausencias del Presidente Municipal;
-
-VII.- Las demás que le sean encomendadas por el COMUNDER.
+IX.- Las demás que le sean encomendadas por el COMUNDER.
 
 ### CAPÍTULO IV. DE LAS FUNCIONES DEL COORDINADOR OPERATIVO
 
@@ -415,7 +411,7 @@ VI.- Las demás que le designe la SEDAGRO o el propio COMUNDER.
 
 ### CAPÍTULO VI. DE LAS FUNCIONES DEL COORDINADOR TÉCNICO FEDERAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 21.
 
@@ -485,7 +481,7 @@ VI.- Cada uno de los integrantes de la comisión podrá nombrar un suplente que 
 
 ### CAPÍTULO IX. DE LA CONTRALORÍA SOCIAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 26.
 
@@ -549,7 +545,7 @@ XII.- Las demás que a juicio del COMUNDER se requieran para el correcto funcion
 
 Las propuestas de las comisiones serán presentadas al COMUNDER para su aprobación, buscando que ésta se dé, preferentemente, por consenso.
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPÍTULO XI. DE LAS FUNCIONES GENÉRICAS DE LOS MIEMBROS DEL CONMUNDER (SIC)
 
@@ -617,7 +613,7 @@ El COMUNDER sesionará de forma ordinaria mensualmente de acuerdo al calendario 
 
 Se celebrarán reuniones extraordinarias por convocatoria del Presidente, del Coordinador General, o a solicitud de por lo menos el cincuenta por ciento más uno de los miembros del Consejo, cuando se considere que existen causas suficientes para tal efecto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 43.
 
@@ -629,7 +625,7 @@ La citación para sesiones extraordinaria (sic) deberá enviarse con al menos ve
 
 Las convocatorias deberán ser acompañadas del Orden del Día previsto para la sesión correspondiente, así como por los documentos relativos a los temas que se tratarán y el Coordinador Operativo deberá verificar el cumplimiento de la amplia difusión de la convocatoria.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 45.
 
@@ -701,11 +697,11 @@ III.- Tener participación de los estímulos que sean gestionados por el COMUNDE
 
 IV.- Tener participación de los reconocimientos que el pleno otorgue a los productores sobresalientes en alguna actividad especifica que brinde beneficios inmediatos al desarrollo rural sustentable del municipio.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
 
 ## TÍTULO QUINTO. DEL REGISTRO MUNICIPAL DE ORGANIZACIONES PRODUCTIVAS Y SOCIALES DEL MUNICIPIO DE CUERNAVACA
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPÍTULO ÚNICO
 
@@ -893,7 +889,7 @@ C. LIBORIO ROMÁN CRUZ MEJÍA
 
 RÚBRICAS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 1 DE SEPTIEMBRE DE 2010.
 
@@ -902,3 +898,9 @@ PRIMERO.- La presente reforma entrará en vigor el día de su publicación en el
 SEGUNDO.- La integración del COMUNDER, se realizará de acuerdo con lo establecido en el presente ordenamiento, las personas que no reúnan los requisitos aquí señalados tendrán un plazo de 30 días contados a partir de la vigencia de este reglamento para su regularización, en tanto, no se les considerará como consejeros debidamente acreditados.
 
 TERCERO.- Publíquese en la Gaceta Municipal de Cuernavaca.
+
+P.O. 20 DE JUNIO DE 2012.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el mismo día de su aprobación por Cabildo.. (sic)
+
+SEGUNDO.- Publíquese en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos, así como en la Gaceta Municipal.
