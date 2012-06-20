@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-de-baja-california-sur-44518"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-03-20"
-last_updated: "2012-05-16"
+last_updated: "2012-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 16 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JUNIO DE 2012.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -1511,17 +1511,37 @@ Cuando se otorgue valor probatorio a la falsedad y el inculpado resulte condenad
 
 Al que obligue o soborne a un traductor, perito o testigo, para que se conduzca con falsedad ante cualquier autoridad o ante notario, se le aplicarán las mismas penas previstas en este capítulo, según el caso.
 
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE JUNIO DE 2012)</small>
 
-ARTÍCULO 189 BIS.- Comete el delito de Falsedad en Informes dados a una Autoridad, aquel que haga uso indebido de los sistemas de emergencia y de denuncia en los siguientes términos:
+ARTÍCULO 189 BIS.- Comete el delito de falsedad en informes dado a una autoridad, aquel que haga uso indebido de los sistemas de emergencia y de denuncia en los siguientes términos:
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2011)</small>
 
 I.- Quien realice o consienta que desde cualquier medio de telecomunicación bajo su control o radio de acción se efectúen llamadas o mensajes a los centros de servicio de respuesta a emergencias o redes similares a esta, aludiendo un reporte para burlarse, proferir insultos o distraer dolosamente al personal a cargo del servicio sin que exista asunto que lo justifique.
 
-II.- Quien realice reportes falsos a sabiendas de tal situación, a los centros de servicio de respuesta de emergencia o redes similares, informando o alertando sobre la comisión de ilícitos, desastres o cualquier otra situación que haga necesaria la movilización y presencia de elementos de protección civil, cruz roja mexicana, bomberos, personal médico, agentes de corporaciones policiacas o de las fuerzas armadas, con el propósito de engañar a las autoridades, dificultar el ejercicio de sus funciones o causar alarma en la población.
+> <small>(REFORMADA, B.O. 20 DE JUNIO DE 2012)</small>
 
-A los responsables de las conductas señaladas en las fracciones anteriores se les impondrá de seis meses a tres años de prisión y multa de cien a quinientos días de salario.
+II.- Al que utilice medios de comunicación, como teléfono, radio, celular, internet o cualquier otro, para realizar falsos (sic) a sabiendas de tal situación a los centros de servicio de respuesta de emergencia o redes similares, informando o alertando sobre la comisión de ilícitos, desastres o cualquier otra situación que haga necesaria la movilización y presencia de elementos de Protección Civil, Cruz Roja Mexicana, Bomberos, personal médico, agentes de corporaciones policiacas, o de las fuerzas armadas, con el propósito de engañar a las autoridades, dificultar el ejercicio de sus funciones o causar alarma en la población.
 
-Cuando derivado de un reporte falso se originen daños o pérdidas en contra de personas o cosas, se aplicará a su autor una pena de uno a cuatro años de prisión y multa de 500 a 1000 días de salario, además de condenarse a la reparación de los daños ocasionados.
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 2012)</small>
+
+A los responsables de las conductas señaladas en las fracciones anteriores se les impondrá de seis meses a tres años de prisión y multa de cien a quinientos días de salario mínimo.
+
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 2012)</small>
+
+Cuando el reporte falso se refiera a la colocación de bombas o de cualquier artefacto explosivo en edificios públicos, instituciones educativas o lugares de concentración masiva, la pena que se aplicará al activo será de tres a seis años de prisión y multa de quinientos a mil quinientos días de salario mínimo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 20 DE JUNIO DE 2012)</small>
+
+Si la conducta del infractor provoca un accidente en el que se causen daños o pérdidas en contra de personas o cosas, se aplicara a su autor de uno a cuatro años de prisión y multa de quinientos a mil días de salario mínimo. Además de condenarse a la reparación de los daños ocasionados y la indemnización de perjuicios.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 20 DE JUNIO DE 2012)</small>
+
+Así mismo se deberá reparar el daño patrimonial causado a las instituciones que acudan a los llamados falsos por el detrimento en su patrimonio que se les cause por movilizarse a dichos falsos reportes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 20 DE JUNIO DE 2012)</small>
+
+El uso indebido de medios de comunicación para movilizar cuerpos de emergencia se perseguirá de oficio, por lo que la autoridad que conozca de un reporte falso deberá hacerlo de conocimiento inmediato del Ministerio Público quien deberá proveer lo necesario.
 
 ### CAPÍTULO IX. VIOLACIÓN DE GARANTÍAS E IMPEDIMENTOS
 
@@ -3106,3 +3126,9 @@ El presente Decreto entrara en vigor al día siguiente al de su publicación en 
 ###### ARTÍCULO SEGUNDO
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 20 DE JUNIO DE 2012.
+
+###### ARTÍCULO PRIMERO
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
