@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-comite-para-la-planeacion-del-24327"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-03-06"
-last_updated: "2006-04-19"
+last_updated: "2012-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DEL COMITE PARA LA PLANEACION DEL DESARROLLO DEL ESTADO DE MORELOS
 
-REGLAMENTO INTERIOR DEL COMITE PARA LA PLANEACION DEL DESARROLLO DEL ESTADO DE MORELOS
+REGLAMENTO INTERIOR DEL COMITÉ PARA LA PLANEACIÓN DEL DESARROLLO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DEL COMITÉ DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 20 DE JUNIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 6 de marzo de 2002.
 
@@ -805,8 +807,14 @@ LIC. CLAUDIA MARISCAL VEGA.
 
 RÚBRICAS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 19 DE ABRIL DE 2006.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+P.O. 20 DE JUNIO DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano Informativo del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se abroga el Reglamento Interior del Comité para la Planeación del Desarrollo del Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad", número 4173 de fecha 6 de marzo de 2002.
