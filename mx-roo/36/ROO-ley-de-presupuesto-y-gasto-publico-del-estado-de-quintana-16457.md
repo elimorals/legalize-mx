@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-presupuesto-y-gasto-publico-del-estado-de-quintana-16457
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-16"
-last_updated: "1993-12-16"
+last_updated: "2012-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16457&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE PRESUPUESTO Y GASTO PUBLICO DEL ESTADO DE QUINTANA ROO -- ANTES LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE QUINTANA ROO --
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE JULIO DE 2012 EN EL P.O. DEL ESTADO DE QUINTANA ROO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2012.
 
 Ley publicada en el Periódico Oficial el 16 de diciembre de 1993.
 
@@ -323,71 +325,37 @@ La Contraloría de Gobierno estará facultada para realizar inspecciones, audito
 
 Para la ejecución del gasto público del Estado, las entidades deberán de sujetarse a las previsioes (sic) de esta ley y observarán las disposiciones que al efecto expida la secretaría de Finanzas.
 
+> <small>(DEROGADO, P.O. 20 DE JUNIO DE 2012)</small>
+
 ### CAPITULO IV. DE LA CONTABILIDAD
 
 ###### ARTICULO 56.
 
-La contabilidad del gasto público se establecerá conforme a los sistemas que apruebe el ejecutivo del Estado por conducto de la Secretaría de Finanzas, la cual incluirá las cuentas para registrar tanto los activos, pasivos, patrimonios, ingresos, costos y gastos, así como las asignaciones, compromisos y ejercicio correspondiente a los programas y partidas de su propio presupuesto.
-
-La Secretaría de Finanzas, expedirá los catálogos de cuenta que aplicarán las dependencias del Ejecutivo y autorizará en coordinación con la Contaduría Mayor de Hacienda los catálogos de las entidades a que se refieren el artículo 6o de esta ley.
-
-Los catálogos de cuentas de los Poderes Legislativo y Judicial serán los que estos mismos se aprueben homologándolos a los del Poder Ejecutivo.
+(DEROGADO, P.O. 20 DE JUNIO DE 2012)
 
 ###### ARTICULO 57.
 
-La contabilidad de las entidades se llevará con base acumulativa para determinar costos y facilitar la formulación, ejercicio y evaluación de los presupuestos y sus programas con objetivos y metas en las unidades responsables de su ejecución.
-
-El sistema de contabilidad debe diseñar y operar en forma que facilite la fiscalización de los activos, pasivos, ingresos, costos, gastos avances en la ejecución de programas y en general de manera que permita medir la eficacia y eficiencia del gasto público del Estado.
+(DEROGADO, P.O. 20 DE JUNIO DE 2012)
 
 ###### ARTICULO 58.
 
-Los fines de la contabilidad gubernamental serán:
-
-I.- Registrar el gasto público.
-
-II.- Proporcionar información sobre la aplicación de los fondos públicos a fin de coadyuvar a la toma de decisiones.
-
-III.- Detectar desviaciones si las hubiere, a efecto de corregirlas o delimitar responsabilidades.
-
-IV.- Servir de información para la evaluación de los programas y para la planeación y programación futura.
-
-V.- Informar a la H. Legislatura del Estado del destino y manejo del gasto público.
+(DEROGADO, P.O. 20 DE JUNIO DE 2012)
 
 ###### ARTICULO 59.
 
-La Secretaría de Finanzas girará instrucciones sobre la formula y términos en que las entidades deban llevar sus registros presupuestales y contables.
+(DEROGADO, P.O. 20 DE JUNIO DE 2012)
 
 ###### ARTICULO 60.
 
-Las dependencias del Ejecutivo del Estado y las entidades de la Administración Descentralizada, suministraran a la Secretaría de Finanzas, con la periodicidad que ésta determine, la información presupuestal, contable, financiera y de otros tipos que requiera el correcto ejercicio del gasto público.
+(DEROGADO, P.O. 20 DE JUNIO DE 2012)
 
 ###### ARTICULO 61.
 
-La Secretaría de Finanzas, será la responsable de formular la cuenta anual de la Hacienda Pública del Estado y someterla a la consideración del Gobernador del Estado, para su presentación a la H. Legislatura del Estado, en los términos de las leyes respectivas vigentes.
+(DEROGADO, P.O. 20 DE JUNIO DE 2012)
 
 ###### ARTICULO 62.
 
-La cuenta anual de la Hacienda Pública del Estado comprenderán todas las operaciones efectuadas en un ejercicio presupuestal y contendrá:
-
-l.- Estado de situación financiera.
-
-II.- Estado de origen y aplicación de los recursos.
-
-III.- Estado de rectificación a resultados de ejercicios anteriores.
-
-IV.- Estado de costo por programas.
-
-V.- Situación programática.
-
-VI.- Estado analítico de ingresos.
-
-VII.- Estado analítico de egresos.
-
-VIII.- Estado de la deuda pública.
-
-IX.- Estados complementarios.
-
-La Secretaría de Finanzas, en los términos que establece la ley de la deuda pública del Estado, presentará por separado los informes especiales requeridos, que se presentarán en base a la fracción (sic) del presente artículo.
+(DEROGADO, P.O. 20 DE JUNIO DE 2012)
 
 ### CAPITULO V. EVALUACION DEL GASTO PUBLICO
 
@@ -510,3 +478,9 @@ ING. MARIO ERNESTO VILLANUEVA MADRID
 EL C. SECRETARIO DE GOBIERNO
 
 PROFRA. SARA ESTHER MUZA SIMON.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE JUNIO DE 2012.
+
+ÚNICO. Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
