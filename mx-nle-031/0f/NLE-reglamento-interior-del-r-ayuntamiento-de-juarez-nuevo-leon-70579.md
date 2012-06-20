@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-r-ayuntamiento-de-juarez-nuevo-leon-705
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-16"
-last_updated: "2009-09-16"
+last_updated: "2012-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DE JUAREZ, NUEVO LEON
 
-REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DE JUAREZ, NUEVO LEON
+REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DE JUÁREZ, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 2009.
 
@@ -142,6 +142,10 @@ En caso, de que se diera la ausencia del Secretario del Ayuntamiento en funcione
 Son atribuciones y responsabilidades del R. Ayuntamiento:
 
 I. Actualizar y difundir los Reglamentos Municipales y aprobar planes y programas de gobierno en el ámbito de sus atribuciones;
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2012)</small>
+
+La iniciativa de Reglamentos Municipales corresponde a cualquier ciudadano del Municipio, además de los integrantes del Ayuntamiento.
 
 II. Procurar que la prestación de los servicios públicos generales sea de la más alta calidad y acordes con las necesidades de los ciudadanos, dictando las medidas adecuadas para tal fin;
 
@@ -1044,3 +1048,9 @@ C. PROFESOR ISAIAS HERNANDEZ MARTINEZ
 SECRETARIO DEL R. AYUNTAMIENTO
 
 Dado en el Salón de sesiones del R. Ayuntamiento de Juárez, Nuevo León a los (28) veintiocho días del mes de Agosto del 2009.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE JUNIO DE 2012.
+
+UNICO.- La presente reforma por adición a éste Reglamento, entrarán (sic) en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
