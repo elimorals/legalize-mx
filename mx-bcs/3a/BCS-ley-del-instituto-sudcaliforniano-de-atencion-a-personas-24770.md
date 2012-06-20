@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-instituto-sudcaliforniano-de-atencion-a-personas-24770"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-07"
-last_updated: "2012-01-10"
+last_updated: "2012-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DEL INSTITUTO SUDCALIFORNIANO DE ATENCIÓN A PERSONAS CON DISCAPACIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JUNIO DE 2012.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 7 de enero de 2002.
 
@@ -613,9 +613,11 @@ A) Urbanización, fraccionamientos y construcciones que se sometan a su aprobaci
 
 B) Ampliaciones, reparaciones y reformas de edificios existentes.
 
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 71.
 
-Con el objeto de facultar la movilidad de las personas con discapacidad, se promoverá la adaptación de medidas de adecuación de los transportes públicos colectivos.
+Con el objeto de facilitar la movilidad de las personas con discapacidad, las administraciones publicas, Estatal y Municipales, en conjunto con el Instituto, deberán promover adaptación de medidas de adecuación de los transportes públicos colectivos, así mismo deberán instalar tanto en oficinas publicas, como en las aceras, destinadas al uso de los peatones, en las rampas de acceso para personas con discapacidad, pasamanos conforme a los parámetros indicados para tal efecto por la Norma Oficial Mexicana NOM-233-SSA1--2003, igualmente para el otorgamiento de permisos y autorizaciones para la construcción de centros o plazas comerciales, cines, y en general sitios de esparcimiento, deberá verificarse que cuenten con rampas de acceso con pasamanos.
 
 ### CAPÍTULO XII. DE LOS ESTIMULOS
 
@@ -755,11 +757,11 @@ Será obligatorio para las instituciones públicas, privadas y sociales, proporc
 
 Ningún ordenamiento legal podrá incluir restricciones para la educación, el trabajo, la atención a la salud y la convivencia social de las personas con discapacidad.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, B.O. 31 DE JULIO DE 2009)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE JULIO DE 2009)</small>
 
 ## TITULO CUARTO
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE JULIO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE JULIO DE 2009)</small>
 
 ### CAPÍTULO I. DE LA PROTECCION A LA ECONOMIA, DESCUENTOS, SUBSIDIOS Y PAGO DE SERVICIOS
 
@@ -781,7 +783,7 @@ El instituto promoverá la celebración de convenios con la iniciativa privada a
 
 El instituto y las diversas autoridades estatales y municipales de las administraciones públicas de Baja California Sur, de conformidad con las disposiciones jurídicas aplicables, deberán promover e instrumentar descuentos en el pago de derechos por los servicios que otorgan, cuando el usuario de los mismos sea una persona con discapacidad. Corresponde al Ejecutivo del Estado de Baja California Sur, a través de la coordinación de programas de desarrollo social, dar a conocer dentro del primer mes de cada año el monto de los descuentos y requisitos a cubrir.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE JULIO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE JULIO DE 2009)</small>
 
 ### CAPÍTULO II. DE LA ATENCION PREFERENCIAL
 
@@ -797,7 +799,7 @@ Será obligación de las Secretarias y demás dependencias que integran la admin
 
 El instituto, promoverá la celebración de convenios de concertación con la iniciativa privada, a fin de que la atención preferencial para las personas con discapacidad, también sea proporcionada en instituciones bancarias, tiendas de autoservicio y otras empresas mercantiles.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE JULIO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE JULIO DE 2009)</small>
 
 ### CAPÍTULO III. DE LA ASISTENCIA SOCIAL
 
@@ -861,7 +863,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 C. PROFR. VICTOR MANUEL LIZÁRRAGA PERAZA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 B.O. 31 DE JULIO DE 2009.
 
@@ -872,3 +874,7 @@ B.O. 10 DE ENERO DE 2012.
 PRIMERO: El presente Decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO: Las autoridades municipales deberán adecuar, en un plazo no mayor de 120 días naturales, sus reglamentos, bandos y demás normas administrativas aplicables, para el debido cumplimiento del presente decreto en lo referente a sus respectivas leyes de hacienda municipales.
+
+B.O. 20 DE JUNIO DE 2012.
+
+ÚNICO.- El presente Decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
