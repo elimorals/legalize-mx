@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2012-05-16"
+last_updated: "2012-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE JUNIO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -814,9 +814,13 @@ X. La prevención y atención médica integral de las infecciones de transmisió
 
 ### Capítulo VIII. VIH-SIDA
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 20 DE JUNIO DE 2012)</small>
+
 ###### Artículo 54.
 
-Corresponde al Gobierno, bajo la coordinación de la Secretaría, definir, impulsar y garantizar la prevención y la atención médica de los habitantes del Distrito Federal con VIH-SIDA o cualquiera otra infección de transmisión sexual, de conformidad a lo establecido en los instrumentos jurídicos aplicables.
+Corresponde al Gobierno, a través de una Dirección Ejecutiva adscrita a la Secretaría que, para efectos denominativos, se identificará como Centro para la Prevención y Atención Integral del VIH/SIDA del Distrito Federal, definir, impulsar y garantizar la prevención y la atención médica de los habitantes del Distrito Federal con VIH/SIDA o cualquiera otra infección de transmisión sexual, de conformidad a lo establecido en los instrumentos jurídicos aplicables.
 
 ###### Artículo 55.
 
@@ -826,7 +830,11 @@ Los servicios de atención médica que se ofrezcan en la materia incluirán, ent
 
 La Secretaría dispondrá la creación y funcionamiento de programas, servicios y unidades especializadas de atención médica para el cumplimiento de sus obligaciones en materia de prevención, atención médica integral y control del VIH-SIDA.
 
-El programa de VIH-SIDA del Distrito Federal a cargo de la Secretaría, privilegiará las acciones de prevención, especialmente de la población abierta, para lo cual se coordinarán con las autoridades educativas y los sectores social y privado, así como la atención médica oportuna e integral de las personas que vivan con el Virus o el Síndrome, en el marco de la existencia de un Consejo de Prevención y Atención del VIH-SIDA del Distrito Federal, el cual tendrá las atribuciones y organización que se definan en las disposiciones aplicables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 20 DE JUNIO DE 2012)</small>
+
+La Dirección Ejecutiva adscrita a la Secretaría denominada Centro para la Prevención y Atención Integral del VIH/SIDA del Distrito Federal, privilegiará las acciones de prevención, especialmente de la población abierta, para lo cual se coordinarán con las autoridades educativas y los sectores social y privado, así como la atención médica oportuna e integral de las personas que vivan con el Virus o el Síndrome, en el marco de la existencia de un Consejo de Prevención y Atención del VIH-SIDA del Distrito Federal, el cual tendrá las atribuciones y organización que se definan en las disposiciones aplicables.
 
 ###### Artículo 57.
 
@@ -2582,7 +2590,7 @@ Recinto de la Asamblea Legislativa del Distrito Federal, a los dieciocho días d
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintiséis días del mes de agosto del año dos mil nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL.- MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSE ÁNGEL ÁVILA PEREZ.- FIRMA.- EL SECRETARIO DE FINANZAS, MARIO MARTÍN DELGADO CARRILLO.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MARIO MIGUEL CARRILLO HUERTA.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 3 DE MAYO DE 2010.
 
@@ -2701,3 +2709,27 @@ Segundo. La Secretaría de Salud contará con un plazo de 90 días a partir de l
 Tercero. La Secretaría de Salud, a través del Centro de Trasplantes del Distrito Federal, en las unidades médicas del Gobierno del Distrito Federal a los que hace referencia la Ley General de Salud en su artículo 315 fracciones I y II, dispondrá de las medidas necesarias a efecto de que dichas unidades cuenten con los insumos necesarios para certificar que los órganos o tejidos del posible disponente son susceptibles de ser utilizados y que el estado clínico de este sea el indicado conforme al protocolo establecido para esta práctica.
 
 Cuarto. La Secretaría atenderá los lineamientos que emitan las autoridades respectivas sobre el consentimiento tácito al que hace referencias el presente Decreto.
+
+G.O. 20 DE JUNIO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor a los sesenta días naturales siguientes de su publicación en la Gaceta Oficial Distrito Federal.
+
+SEGUNDO.- Una vez que entre en vigor el presente Decreto, se abroga la Ley que crea el Consejo para la Prevención y la Atención Integral del VIH-SIDA del Distrito Federal.
+
+TERCERO.- El Jefe de Gobierno del Distrito Federal deberá publicar los Lineamientos de Operación del Centro para la Prevención y Atención Integral del VIH/SIDA del Distrito Federal a los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO.- El Consejo al que se refiere la Ley para la Prevención y Atención Integral del VIH-SIDA del Distrito Federal deberá instalarse a más tardar a los treinta días naturales siguientes de la designación de la persona titular de la Dirección Ejecutiva del Centro para la Prevención y Atención Integral del VIH/SIDA del Distrito Federal.
+
+Los representantes de la Asamblea Legislativa del Distrito Federal, así como de los sectores social y académico que fueron electos con fundamento en el procedimiento establecido en la Ley que crea el Consejo para la Prevención y la Atención Integral del VIH-SIDA del Distrito Federal publicada en la Gaceta Oficial del Distrito Federal el 24 de octubre de 2008, permanecerán en su encargo hasta que termine su periodo y los nuevos representantes se elegirán conforme a las disposiciones legales vigentes.
+
+QUINTO.- La persona titular de la Dirección Ejecutiva del Centro para la Prevención y Atención Integral del VIH/SIDA del Distrito Federal, deberá ser nombrada a más tardar a los sesenta días naturales siguientes de la entrada en vigor del presente Decreto.
+
+SEXTO.- El Consejo contará con un plazo de sesenta días naturales, contados a partir de la entrada en vigor del presente Decreto, para aprobar su Reglamento interno y enviarlo para su publicación a la Gaceta Oficial del Distrito Federal.
+
+SÉPTIMO.- El Jefe de Gobierno emitirá los lineamientos del Fideicomiso al que se refiere el Decreto, una vez que se destinen los recursos para su constitución. Para tal efecto, tanto la Asamblea Legislativa del Distrito Federal, como la Secretaría de Finanzas del Distrito Federal buscarán los mecanismos necesarios para el cumplimiento de esta disposición en un plazo no mayor a sesenta días naturales a la entrada en vigor del presente Decreto.
+
+OCTAVO.- La Secretaría de Finanzas del Distrito Federal deberá realizar una ampliación líquida de recursos a la Secretaría de Salud del Distrito Federal, con la finalidad de incorporar a su estructura administrativa la Dirección Ejecutiva que crea el presente Decreto a más tardar en cuarenta y cinco días naturales de su entrada en vigor.
+
+NOVENO.- Las autoridades del presente Decreto, conforme a la suficiencia presupuestal asignada por la Asamblea Legislativa, instrumentarán las acciones establecidas para dar cumplimiento a la misma.
+
+DÉCIMO.- Para la designación de las personas titulares de las unidades médicas especializadas en la atención del VIH, deberá observarse que estas cuenten con título universitario en medicina, con una expedición de al menos cinco años previos a la fecha de la designación y con experiencia clínica probada en el área de VIH e infectología.
