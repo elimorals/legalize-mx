@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-organico-de-la-administracion-publica-del-44506"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-09"
-last_updated: "2012-03-28"
+last_updated: "2012-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE JUÁREZ, ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2012.
 
 Reglamento publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 9 de febrero de 2005.
 
@@ -1391,7 +1391,9 @@ III. Secretaría Técnica
 
 IV. Secretaría de Comunicación Social
 
-V. Coordinadora de Atención Ciudadana de Zaragoza y
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2012)</small>
+
+V. Coordinadora de Atención Ciudadana del Sur-Oriente
 
 VI. Coordinación General de Planeación y Evaluación
 
@@ -1483,11 +1485,11 @@ El Secretario de Comunicación Social procurará la identificación de la activi
 
 Artículo 99 bis.- Para el mejor desempeño de sus atribuciones el Secretario de Comunicación Social, contará con la Dirección de Prensa, que se encargará de la difusión y cobertura en medios de comunicación de las actividades de la Administración Pública Municipal, así como de las demás funciones que le encomiende el Presidente Municipal y el Secretario de Comunicación Social.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2012)</small>
 
 ###### Artículo 100.
 
-El Coordinador de Atención Ciudadana de Zaragoza, atenderá directamente a los ciudadanos de la zona urbana Oriente-Zaragoza y de los poblados cercanos que forman parte del municipio, para promover su participación en los planes, programas y acciones que lleve a cabo la Administración en beneficio de esas comunidades; coordinándose para ello con las Dependencias correspondientes. Para el mejor desempeño de sus atribuciones el Coordinador de Atención Ciudadana de Zaragoza, contará con la dirección de área denominada Dirección de Desarrollo Rural y Forestal Sustentable, que tendrá las atribuciones previstas en el siguiente artículo.
+El Coordinador de Atención Ciudadana del Sur Oriente, atenderá directamente a los ciudadanos de la zona urbana ubicada en el Sur Oriente de la localidad y de los poblados cercanos que forman parte del Municipio, para promover su participación en los planes, programas y acciones que lleve a cabo la administración en beneficio de esas comunidades, coordinándose para ello con las dependencias correspondientes. Para el mejor desempeño de sus atribuciones, el Coordinador de Atención Ciudadana del Sur Oriente, contará con la dirección de área denominada Dirección de Desarrollo Rural y Forestal Sustentable, que tendrá las atribuciones previstas en el siguiente artículo.
 
 > <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2010)</small>
 
@@ -1680,3 +1682,7 @@ P.O. 16 DE JULIO DE 2011.
 P.O. 28 DE MARZO DE 2012.
 
 ÚNICO: Se autoriza a los ciudadanos Presidente Municipal y Secretario del Ayuntamiento, para que en los términos del artículo 28 fracción I segundo párrafo del Código Municipal para el Estado de Chihuahua, remitan el presente acuerdo al Ejecutivo Estatal, para su respectiva publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE JUNIO DE 2012.
+
+ÚNICO.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Chihuahua.
