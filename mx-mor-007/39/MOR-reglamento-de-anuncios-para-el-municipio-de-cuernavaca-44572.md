@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-anuncios-para-el-municipio-de-cuernavaca-44572"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-04-13"
-last_updated: "2005-04-13"
+last_updated: "2012-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44572&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "MOR"
 
 REGLAMENTO DE ANUNCIOS PARA EL MUNICIPIO DE CUERNAVACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE ANUNCIOS DEL MUNICIPIO DE CUERNAVACA, MORELOS, PUBLICADO EN EL P.O. 20 DE JUNIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 13 de abril de 2005.
 
@@ -970,3 +972,25 @@ C. LIBORIO ROMÁN CRUZ MEJÍA
 SECRETARIO DEL AYUNTAMIENTO.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE JUNIO DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se abroga el Reglamento de Anuncios publicado en el periódico oficial "Tierra y Libertad" no. 4387 de fecha 13 de abril del año dos mil cinco y se derogan las demás disposiciones que se opongan a lo establecido en el presente Reglamento.
+
+TERCERO.- Se crea la Dirección de Anuncios Comerciales dependiente de la Secretaría de Desarrollo Urbano, Obras, Servicios Públicos Municipales y Medio Ambiente del Ayuntamiento de Cuernavaca, Morelos, previa reforma al Programa Operativo Anual y al Reglamento Interno de la Secretaría de Desarrollo Urbano, Obras, Servicios Públicos Municipales y Medio Ambiente del Ayuntamiento, y demás disposiciones legales necesarias para el cumplimiento del presente artículo.
+
+En lo que se cumplimenta lo anterior, las funciones de la Dirección de Anuncios Comerciales estarán a cargo del personal que para ello designe la Secretaría de Desarrollo Urbano, Obras, Servicios Públicos Municipales y Medio Ambiente del Ayuntamiento.
+
+CUARTO.- El Ayuntamiento a través del área de comunicación social deberá realizar una campaña de difusión para dar a conocer las nuevas disposiciones en materia de imagen urbana comprendidas en el presente Reglamento.
+
+QUINTO.- Se otorga un plazo de 180 días naturales para que el Comité de Anuncios, el Consejo de la Cartelera Cultural y la Dirección de Anuncios Espectaculares elaboren su Reglamento Interior, mismo que deberá ser presentado ante el Cabildo para su aprobación.
+
+SEXTO.- Los titulares de anuncios denominativos deberán adecuar sus anuncios a las disposiciones del presente Reglamento a lo largo del dos mil doce, para poder refrendar la licencia de funcionamiento, junto con la licencia del anuncio, en el ejercicio fiscal dos mil trece.
+
+SÉPTIMO.- Los titulares de anuncios comerciales (espectaculares, autosoportados, vallas, electrónicos, MUPIS, modelados, bardas, adosados, etc.), deberán someterse a un proceso de regularización dentro de un plazo máximo de 180 días naturales a partir de la fecha de publicación del presente reglamento.
+
+OCTAVO.- Se instruye a la Secretaría del Ayuntamiento y a las demás dependencias y unidades involucradas a realizar los trámites conducentes y las modificaciones necesarias a su normatividad, para dar cumplimiento a lo dispuesto en el presente dictamen, dentro del ámbito de sus respectivas competencias.
