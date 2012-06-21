@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-la-defensoria-de-los-derechos-humanos-del-pueblo-de-8639
 country: "mx"
 rank: "ley"
 publication_date: "2012-02-14"
-last_updated: "2012-02-14"
+last_updated: "2012-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86397&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LA DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el martes 14 de febrero de 2012.
 
@@ -317,11 +317,15 @@ El mismo procedimiento se seguirá en caso de ausencias definitivas.
 
 La Defensora o el Defensor deberán reunir los siguientes requisitos:
 
-I. Ser ciudadana o ciudadano mexicano por nacimiento y estar en pleno uso de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2012)</small>
+
+I. Ser ciudadana o ciudadano mexicano y estar en pleno de (sic) uso de sus derechos civiles y políticos;
 
 II. Haber nacido en el Estado de Oaxaca o haber residido en él durante los últimos cinco años;
 
-III. No haber desempeñado cargo dentro de la administración pública federal, estatal o municipal, durante los dos últimos años anteriores al día de la designación;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2012)</small>
+
+III. No haber sido servidor público de mando superior en la administración pública federal, estatal o municipal, durante los dos últimos años anteriores al día de la designación;
 
 IV. No haber recibido condena por delito intencional;
 
@@ -1026,3 +1030,9 @@ Tlalixtac de Cabrera, Centro, Oax., a 20 de Enero del 2012.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 C. P. A. JESÚS EMILIO MARTÍNEZ ÁLVAREZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE JUNIO DE 2012.
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca, y entrará en vigencia al día siguiente al de su publicación.
