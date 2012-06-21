@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-junta-estatal-de-caminos-de-san-26750
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-11-07"
-last_updated: "2002-11-07"
+last_updated: "2012-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # REGLAMENTO INTERIOR DE LA JUNTA ESTATAL DE CAMINOS DE SAN LUIS POTOSI
 
-REGLAMENTO INTERIOR DE LA JUNTA ESTATAL DE CAMINOS DE SAN LUIS POTOSI
+REGLAMENTO INTERIOR DE LA JUNTA ESTATAL DE CAMINOS DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2012.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves de 7 de noviembre de 2002.
 
@@ -147,7 +147,17 @@ XIV. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño d
 
 XV. Asesorar técnicamente en asuntos de su competencia a los funcionarios del Organismo, y
 
-XVI. Las demás que le confiera el Decreto de Creación y el Consejo de Administración.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2012)</small>
+
+XVI. Expedir la certificación de los documentos y constancias existentes en los archivos del Organismo.
+
+Esto se entiende sin limitación alguna a la facultad potestativa de la propia Dirección General de solicitar la certificación de documentos por medio de Notario Público en todos aquellos casos en que, por las características de asunto o de los documentos a certificar, por la carga de trabajo o las propias necesidades internas de la Dirección General así lo considere necesario, sin que ello implique, en el caso de solicitudes presentadas de conformidad con lo establecido por la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí, el cargo de costo alguno para el solicitante.
+
+Esta facultad es independiente de la similar facultad con que cuenta la Dirección Administrativa de la Junta Estatal de Caminos, de tal forma que ambos órganos puedan ejercerla en forma indistinta.
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2012)</small>
+
+XVII. Las demás que le confieran el Decreto de Creación y el Consejo de Administración.
 
 ### CAPITULO III. DE LA DIRECCIÓN ADMINISTRATIVA
 
@@ -173,9 +183,19 @@ VIII. Elaborar informes mensuales de apreciación de desfasamientos de cada uno 
 
 IX. Realizar las solicitudes de modificación presupuestal ante la Dependencia correspondiente, de los programas operados por la Junta Estatal de Caminos de San Luis Potosí;
 
-X. Coordinar y supervisar las acciones y procedimientos administrativos de las oficinas centrales y foráneas, y
+X. Coordinar y supervisar las acciones y procedimientos administrativos de las oficinas centrales y foráneas, y (sic)
 
-XI. Las demás que le encomiende el Director General.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2012)</small>
+
+XI. Expedir la certificación de los documentos y constancias existentes en los archivos del Organismo.
+
+Esto se entiende sin limitación alguna a la facultad potestativa de la propia Dirección Administrativa de solicitar la certificación de documentos por medio de Notario Público en todos aquellos casos en que, por las características de asunto o de los documentos a certificar, por la carga de trabajo o las propias necesidades internas de la Dirección así lo considere necesario, sin que ello implique, en el caso de solicitudes presentadas de conformidad con lo establecido por la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí, el cargo de costo alguno para el solicitante.
+
+Esta facultad es independiente de la similar facultad con que cuenta la Dirección General de la Junta Estatal de Caminos, de tal forma que ambos órganos puedan ejercerla en forma indistinta.
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2012)</small>
+
+XII. Las demás que le encomiende el Director General.
 
 ### CAPITULO IV. DE LA DIRECCIÓN DE CONSTRUCCIÓN Y CONSERVACIÓN
 
@@ -246,3 +266,11 @@ EL DIRECTOR GENERAL DE LA JUNTA ESTATAL DE CAMINOS DE SAN LUIS POTOSI
 ING. FAUSTO CERVANTES ELIZONDO
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE JUNIO DE 2012.
+
+PRIMERO.- El presente Decreto por el cual se Reforma el Reglamento Interior de la Junta Estatal de Caminos de San Luis Potosí entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de San Luis Potosí.
+
+SEGUNDO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Decreto.
