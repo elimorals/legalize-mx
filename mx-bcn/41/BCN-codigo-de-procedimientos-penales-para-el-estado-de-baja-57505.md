@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-57505"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-19"
-last_updated: "2012-04-27"
+last_updated: "2012-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2012.
 
 Código publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2007.
 
@@ -791,7 +791,7 @@ Exigibilidad.- La reparación del daño a cargo del imputado será exigible por 
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 85.
 
@@ -1711,7 +1711,7 @@ Los agentes de policía que ejecuten una orden de detención por caso urgente, d
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO NÚMERO 440 QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 166.
 
@@ -2087,7 +2087,7 @@ Aplicación.- El embargo precautorio de bienes se regirá en lo no previsto en e
 
 ### CAPÍTULO I. JUSTICIA ALTERNATIVA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2401,7 +2401,7 @@ A partir de que tengan conocimiento de la existencia de un hecho que revista car
 
 Obligación de suministrar información.- Toda persona o servidor público está obligado a proporcionar oportunamente la información que requiera el Ministerio Público en el ejercicio de sus funciones de investigación de un hecho delictuoso concreto, los que no podrán excusarse de suministrarla, salvo en los casos expresamente previstos en la Ley. En caso de ser citados para ser entrevistados por el Ministerio Público o la policía ministerial, tienen obligación de comparecer.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2459,7 +2459,7 @@ VI. Resolver las demás solicitudes propias de esta etapa; y
 
 VII. Ejercer las demás funciones que señale la Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2485,9 +2485,9 @@ La imposición de estas medidas deberá estar debidamente fundada y motivada, y 
 
 Tratándose del Ministerio Público, resultarán aplicables en lo conducente para la solicitud y resolución de las providencias precautorias, las disposiciones normativas que para tal efecto se establecen para las órdenes de cateo. Cuando las providencias precautorias sean solicitadas directamente por la víctima u ofendido, se aplicarán en lo conducente las disposiciones normativas previstas para la solicitud en audiencia privada de las órdenes de cateo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 235.
 
@@ -2497,7 +2497,7 @@ Sí podrán ser invocadas como elementos para fundar cualquier resolución previ
 
 #### SECCIÓN 4. MEDIOS DE INVESTIGACIÓN
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2639,6 +2639,10 @@ Concluido el proceso, si no fue posible averiguar a quién corresponden, las cos
 
 Cuando se estime conveniente, se dejará constancia de los elementos restituidos o devueltos, mediante fotografías u otros medios que resulten adecuados.
 
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2012)</small>
+
+Tratándose de vehículos robados, recuperados y que ingresen a los depósitos correspondientes, previa comprobación de la propiedad del mismo con documentos oficiales de Autoridad Competente, se entregarán a la parte legitimada, y si fueron reportados dentro de las primeras 72 horas en que se tuvo conocimiento del hecho ilícito, se exentarán del pago de los gastos, derechos por maniobras de salvamento, arrastre y almacenaje del vehículo recuperado.
+
 ###### Artículo 251.
 
 Clausura Temporal.- Cuando para averiguar un hecho punible sea indispensable clausurar un local, el Ministerio Público procederá en consecuencia por el tiempo estrictamente necesario para realizar las diligencias debidas.
@@ -2709,7 +2713,7 @@ Reconstrucción de hechos.- Se podrá practicar la reconstrucción de un hecho p
 
 Nunca se obligará al imputado, ni a la víctima u ofendido, a intervenir en el acto, que deberá practicarse con la mayor reserva posible.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2953,7 +2957,7 @@ Plazo para declarar el cierre de la investigación.- Transcurrido el plazo para 
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 288.
 
@@ -4251,7 +4255,7 @@ Artículo 394 bis 15.- Aplicabilidad de las normas del proceso.- En lo no previs
 
 Reglas generales.- Las resoluciones judiciales serán recurribles sólo por los medios y en los casos expresamente establecidos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -4760,3 +4764,23 @@ P.O. 27 DE ABRIL DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE JUNIO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor en el Municipio de Mexicali al día de su publicación en el Periódico Oficial del Estado, mientras que en el resto de los Municipios será en términos de lo que disponen las fracciones I y II del artículo primero transitorio del Código de Procedimientos Penales para el Estado, publicado el 19 de octubre de 2007 en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo Estatal en términos de la fracción XVI, del artículo 49, de la Constitución Política del Estado Libre y Soberano de Baja California, así como los Ayuntamientos, deberán adecuar la reglamentación interna, dentro del plazo de 60 días naturales contados a partir de la entrada en vigor del presente Decreto de reforma de ley, en todo lo necesario para alcanzar el objetivo de la presente reforma.
+
+TRANSITORIOS DEL DECRETO
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor, al día siguiente de publicarse en el periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo Estatal en términos de la fracción XVI, del artículo 49, de la Constitución Política del Estado Libre y Soberano de Baja California, así como los Ayuntamientos deberán adecuar la reglamentación interna, dentro del plazo de 60 días naturales contados a partir de la entrada en vigor del presente Decreto de reforma de ley, en todo lo necesario para alcanzar el objetivo de la presente reforma.
