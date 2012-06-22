@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-asistencia-social-para-el-estado-de-baja-california-2661
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-25"
-last_updated: "2011-07-11"
+last_updated: "2012-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 18 de noviembre de 2005.
 
@@ -73,17 +73,19 @@ VIII.- Secretaría.- La Secretaría de Desarrollo Social.
 
 El Poder Ejecutivo del Estado en forma prioritaria proporcionará servicios de asistencia social, encaminados al desarrollo integral de la familia, entendida ésta como la célula de la sociedad que provee a sus miembros de los elementos que requieren para su pleno desarrollo, también apoyará, en su formación, subsistencia, desarrollo e integración a la sociedad a individuos y grupos vulnerables con carencias esenciales no superables en forma autónoma por ellos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 4.
 
-Para los efectos de esta Ley, se entienden como servicios básicos en materia de asistencia social, además de los previstos por la Ley General de Salud, los siguientes:
+Para los efectos de esta Ley, se entienden como servicios básicos en materia de asistencia social además de los previstos por la Ley General de Salud, los siguientes:
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 I.- La atención a personas que tengan necesidades especiales causadas por alguna discapacidad, algún trastorno del desarrollo, o indigencia, que les pudiera impedir satisfacer sus requerimientos básicos de subsistencia y desarrollo;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
 
-II.- La atención sistémica, sistemática e integral en establecimientos especializados a personas menores de edad, personas que no tengan la capacidad para comprender el significado del hecho y adultos mayores de sesenta años de edad en estado de abandono o maltrato; y en general, a la Familia, célula básica y fundamental de la sociedad;
+II.- La atención sistémica e integral en establecimientos especializados a personas menores de edad, en especial aquellos que se encuentren en situación de riesgo o afectados por desnutrición u obesidad, personas que no tengan la capacidad, para comprender el significado del hecho y adultos mayores de sesenta años de edad en estado de abandono o maltrato; y en general, a la familia, célula básica y fundamental de la sociedad.
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
@@ -133,9 +135,9 @@ XVI.- Los análogos a los anteriores que tiendan a modificar y mejorar las circu
 
 Son sujetos a la recepción de servicios de asistencia social previstos por esta Ley preferentemente los siguientes:
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
 
-I.- Personas menores de dieciocho años de edad en estado de abandono, desamparo, desnutrición, sujetos a maltrato o expuestos a ser víctimas de explotación o corrupción y los menores que realicen sus estudios en las escuelas públicas de niveles preescolar y primaria ubicadas en el territorio del Estado, para los efectos que establece la fracción X, del artículo 4 de esta Ley.
+I.- Personas menores de dieciocho años de edad en estado de abandono, desamparo, desnutrición u obesidad, sujetos a maltrato o expuestos a ser víctimas de explotación o corrupción y los menores que realicen sus estudios en las escuelas públicas de niveles preescolar y primaria ubicadas en el territorio del Estado, para los efectos que establece la fracción X, del artículo 4 de esta Ley;
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
@@ -1378,3 +1380,7 @@ P.O. 11 DE JULIO DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de publicarse en el Periódico Oficial del Estado.
 
 SEGUNDO.- El Ejecutivo Estatal deberá adecuar la reglamentación interna en términos de la fracción XVI, del Artículo 49, de la Constitución Política del Estado Libre y Soberano de Baja California, dentro del plazo de 60 días naturales contados a partir de la entrada en vigor del presente Decreto de reforma de ley, en todo lo necesario para alcanzar el objetivo de la presente Reforma.
+
+P.O. 22 DE JUNIO DE 2012.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
