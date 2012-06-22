@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-civil-del-estado-de-baja-california-21684"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-16"
-last_updated: "1998-01-16"
+last_updated: "2012-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DE PROTECCION CIVIL DEL ESTADO DE BAJA CALIFORNIA
 
-LEY DE PROTECCION CIVIL DEL ESTADO DE BAJA CALIFORNIA
+LEY DE PROTECCIÓN CIVIL DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 16 de enero de 1998.
 
@@ -239,11 +239,17 @@ XVI.- Tramitar los acuerdos emitidos por el Consejo Estatal;
 
 XVII.- Expedir los registros a que se refiere el Artículo 78 de esta Ley;
 
-XVIII.- Elaborar y mantener actualizado el Plan Estatal de Contingencia y el Atlas Estatal de Riesgos, y
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
 
-> <small>(F. DE E., P.O. 27 DE MARZO DE 1998)</small>
+XVIII.- Elaborar y mantener actualizado de manera semestral el Plan Estatal de Contingencia y el Atlas Estatal de Riesgos, informando semestralmente al Consejo;
 
-XIX.- Las demás que establezca esta Ley y su Reglamento.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+XIX.- Determinar y registrar, en el Atlas correspondiente, las zonas que no son susceptibles de habitarse por el riesgo que conlleva el entorno; y
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+XX.- Las demás que establezca esta Ley y su Reglamento.
 
 ###### ARTICULO 14.
 
@@ -1038,3 +1044,15 @@ HECTOR TERAN TERAN.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 RODOLFO VALDEZ GUTIERREZ.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE JUNIO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+TERCERO.- El Ejecutivo del Estado en un término no mayor a 60 días contados a partir de la entrada en vigor del presente Decreto, deberá modificar el Reglamento de la Ley de Protección Civil del Estado de Baja California.
+
+CUARTO.- Hasta en tanto se modifique el Reglamento, la Dirección Estatal de Protección Civil, podrá emitir las disposiciones de carácter general que consideren necesarias para la aplicación del presente Decreto.
