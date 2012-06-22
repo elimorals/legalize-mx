@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-urbano-del-estado-de-baja-california-2832"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2012-05-25"
+last_updated: "2012-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2012.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 24 de junio de 1994.
 
@@ -2049,6 +2049,10 @@ IV. Las especificaciones generales de la acción de urbanización;
 
 V. Documentación complementaria que incluya constancia de propiedad, libertad de gravámenes, memorias descriptivas y de cálculo de la acción de urbanización y otras.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE JUNIO DE 2012)</small>
+
+VI. Fianza de garantía
+
 ###### ARTICULO 173.
 
 La autoridad procederá a la revisión del proyecto auxiliándose para ello de los organismos encargados de la dotación y operación de servicios. En caso de existir alguna observación o corrección en el mismo, se procederá a dar aviso al solicitante para que haga las modificaciones requeridas.
@@ -2147,13 +2151,17 @@ Si transcurrido el plazo a que se refiere el párrafo anterior, el urbanizador n
 
 En tanto no se concluyan las acciones de urbanización y éstas sean recibidas por el Municipio, quedan bajo la responsabilidad del urbanizador para cumplir las obligaciones que se establecen en esta Ley y otros ordenamientos aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
 ###### ARTICULO 189.
 
-Terminadas las acciones de urbanización, el interesado solicitará a las dependencias que operarán las redes de servicios y sistemas, el levantamiento de actas de certificación aprobatorias de dichos trabajos, así como a la Secretaría una constancia de cumplimiento de las acciones de urbanización.
+Terminadas las acciones de urbanización, el interesado solicitará a las dependencias que operarán las redes de servicios y sistemas, para que en un plazo que no exceda de 60 días naturales, realicen el levantamiento de actas de certificación aprobatorias de dichos trabajos, así como a la Secretaría una constancia de cumplimiento de acciones de urbanización.
+
+El interesado podrá insistir ante la misma dependencia para que se resuelva sobre la autorización de su proyecto definitivo de urbanización, en un plazo perentorio de 30 días naturales; agotado el plazo adicional, se aplicará la afirmativa ficta, por lo que bastará que el solicitante exhiba los documentos que acrediten el paso el (sic) tiempo.
 
 Una vez que la acción de urbanización esté concluida y reunidos todos los requisitos y constancias aprobatorias que marca la presente Ley y su Reglamento, se procederá a la entrega de las obras a las autoridades y su correspondiente incorporación o reincorporación urbana.
+
+En caso de que la autoridad competente omita realizar el cumplimiento de acciones de urbanización, una vez que el interesado haya ejercido el derecho de ejercer la afirmativa ficta, este podrá recurrir a interponer recurso ante el Tribunal Contencioso Administrativo para los efectos legales conducentes.
 
 ###### ARTICULO 190.
 
@@ -2164,6 +2172,10 @@ I. Que se hayan ejecutado las obras y cumplido con los requisitos establecidos e
 II. Que se hayan recabado todas las constancias y acuerdos marcados en la presente Ley y su reglamento, para la terminación de las obras y acciones de urbanización; y,
 
 III. Que se hayan realizado los pagos que determinan las leyes hacendarias municipales y estatales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE JUNIO DE 2012)</small>
+
+En caso que transcurran los plazos de terminación de las acciones de urbanización sin que estas hayan sido concluidas por parte del urbanizador, y previa solicitud de los vecinos o requerimiento del Ayuntamiento, éste último esta facultado para proceder a la ejecución de las obras y en su momento informar a la Secretaría de Planeación y Finanzas del Estado o a la Tesorería Municipal respectiva, la relación de las erogaciones realizadas para ese fin, para los efectos de su cobro y liquidación correspondiente, en los términos de las leyes hacendarias; o en todo caso podrá hacer valida la fianza de garantía a que se refiere el artículo 172 de esta Ley, para que en su caso se ejecuten las obras pendientes.
 
 ###### ARTICULO 191.
 
@@ -2658,3 +2670,7 @@ P.O. 25 DE MAYO DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 22 DE JUNIO DE 2012.
+
+Primero.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
