@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-desarrollo-77622"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-19"
-last_updated: "2010-11-19"
+last_updated: "2012-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77622&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO SUSTENTABLE
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO SUSTENTABLE DEL ESTADO DE GUANAJUATO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO SUSTENTABLE PARA EL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. 22 DE JUNIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 19 de noviembre de 2010.
 
@@ -1644,3 +1646,81 @@ HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
 EL SECRETARIO DE DESARROLLO ECONÓMICO SUSTENTABLE
 
 RAMÓN ALFARO GÓMEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE JUNIO DE 2012.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo iniciará su vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento Interior vigente
+
+Artículo Segundo. Se abroga el Reglamento Interior de la Secretaría de Desarrollo Económico Sustentable, contenido en el Decreto Gubernativo número 156, publicado en el Periódico Oficial del Gobierno del Estado, número 185, Segunda Parte, de fecha 19 de noviembre del 2010.
+
+Referencia a las nuevas denominaciones de las unidades administrativas
+
+Artículo Tercero. A la entrada en vigencia del presente Decreto Gubernativo cualquier referencia que en decretos, reglamentos, convenios u otros instrumentos jurídicos se haga a las siguientes unidades administrativas, se entenderán hechas a su nueva denominación:
+
+Unidades administrativas conforme Nuevas denominaciones de las
+
+al Reglamento Interior abrogado unidades administrativas
+
+Coordinación General de Proyectos Coordinación General de Proyectos
+
+Estratégicos y Mejora Regulatoria Estratégicos
+
+Dirección de Asesoría y Capacitación Dirección de Asesoría y Soporte
+
+Legal Legal
+
+Dirección de Procesos Jurídico-Adminis- Dirección de Seguridad Jurídica
+
+trativos
+
+Direcciones de Atracción de Inversión Dirección de Atracción de
+
+Extranjera y de Atracción de Inversión Inversiones
+
+Nacional
+
+Dirección General de Servicios a la Dirección General de Servicios a
+
+Inversión la Inversión y Mejora Regulatoria
+
+Dirección de Atención a la Cadena Dirección de Atención a la Cadena
+
+Productiva Productiva
+
+Cuero-Calzado-Proveeduría Cuero-Calzado-Proveeduría
+
+y Textil- Confección
+
+Dirección de Atención a la Cadena Dirección de Atención a la Cadena
+
+Productiva Automotriz y Autopartes Productiva
+
+Automotriz y Componentes
+
+Dirección de Atención a la Cadena Dirección de Atención a la Cadena
+
+Productiva Productiva
+
+Artesanías Artesanías e Industrias en Desarrollo
+
+Dirección de Atención a la Cadena Dirección de Atención a la Cadena
+
+Productiva Productiva
+
+Construcción Minas y Construcción
+
+Dirección General de Innovación Dirección General de Innovación
+
+y Moda
+
+Dirección General de Vinculación Dirección General de
+
+Financiera Financiamiento
+
+Dirección de Fondos de Financiamiento Dirección de Asesoría Financiera
