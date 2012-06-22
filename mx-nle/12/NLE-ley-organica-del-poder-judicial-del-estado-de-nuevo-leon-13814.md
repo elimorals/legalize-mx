@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-judicial-del-estado-de-nuevo-leon-13814"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-08"
-last_updated: "2012-02-17"
+last_updated: "2012-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 8 de febrero de 1999.
 
@@ -751,21 +751,33 @@ III. De los Juicios Sucesorios y aquellos que sean atraídos por éstos;
 
 IV. De los asuntos judiciales concernientes a otras acciones relativas al estado civil y a la capacidad de las personas;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2000)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
 
-V. De los Actos Prejudiciales en todo lo relativo al derecho familiar;
+V. De las providencias precautorias en todo lo relativo a las órdenes de protección relacionadas con el derecho familiar;
 
-VI. De la diligenciación de los exhortos, suplicatorias, requisitorias y despachos relacionados con el derecho familiar;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
 
-VII. De todas las cuestiones familiares que reclamen la intervención judicial;
+VI. De los Actos Prejudiciales en todo lo relativo al derecho familiar;
 
-VIII. De la elaboración de los registros en que consten los discernimientos de los cargos de tutor y curador, los que estarán a disposición de los Consejos Locales de Tutela;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
 
-IX. De los demás asuntos que determinen las leyes y otros ordenamientos jurídicos.
+VII. De la diligenciación de los exhortos, suplicatorias, requisitorias y despachos relacionados con el derecho familiar;
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
 
-ARTÍCULO 35 BIS.- Los Jueces de Juicio Civil Oral y los Jueces de Juicio Familiar Oral conocerán de los asuntos relativos a su materia que de acuerdo con el Código de Procedimientos Civiles deban tramitarse conforme al procedimiento oral.
+VIII. De todas las cuestiones familiares que reclamen la intervención judicial;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+IX. De la elaboración de los registros en que consten los discernimientos de los cargos de tutor y curador, los que estarán a disposición de los Consejos Locales de Tutela; y
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+X. De los demás asuntos que determinen las Leyes y otros ordenamientos jurídicos.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
+ARTÍCULO 35 BIS.- Los Jueces de Juicio Civil Oral y los Jueces de Juicio Familiar Oral conocerán de los asuntos relativos a su materia que de acuerdo con el Código de Procedimientos Civiles deban tramitarse conforme al procedimiento oral. Los Jueces de lo Familiar Oral conocerán además, de las providencias precautorias en todo lo relativo a las órdenes de protección relacionadas con la materia familiar.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -791,9 +803,17 @@ I. Conocer las causas penales conforme a la competencia y a las atribuciones que
 
 II. Practicar las diligencias que les encomiende el Tribunal Superior de Justicia y cumplimentar los exhortos que les dirijan los Jueces de Primera Instancia del Estado y los demás jueces y tribunales del País;
 
-III. Visitar en la cabecera de su Distrito Judicial, cuando menos una vez al mes, los establecimientos donde se encuentren recluidos los procesados y los sentenciados que estén purgando su condena, dando informe circunstanciado al Pleno del Tribunal Superior de Justicia; y
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
 
-IV. Desempeñar las demás funciones que les encomienden las leyes y otros ordenamientos jurídicos.
+III. Visitar en la cabecera de su Distrito Judicial, cuando menos una vez al mes, los establecimientos donde se encuentren recluidos los procesados y los sentenciados que estén purgando su condena, dando informe circunstanciado al Pleno del Tribunal Superior de Justicia;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+IV.- Resolver en forma inmediata y por cualquier medio, las solicitudes de medidas cautelares, órdenes de protección precautorias de emergencia y preventivas; y
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+V. Desempeñar las demás funciones que les encomienden las Leyes y otros ordenamientos jurídicos.
 
 > <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2004)</small>
 
@@ -801,7 +821,9 @@ ARTÍCULO 36 BIS.- Corresponde a los Jueces de Preparación de lo Penal:
 
 I. Atender al Ministerio Público, en términos de ley, en la integración de las averiguaciones previas;
 
-II. Resolver sobre las medidas precautorias de arraigo de personas, aseguramiento de bienes, medidas de seguridad provisionales, embargo de bienes, que resulten indispensables para la averiguación previa y las órdenes de cateo que procedan, así como en aquellos casos en que la diligencia requerida solo pueda lograrse mediante orden judicial;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+II. Resolver, en forma inmediata, y por cualquier medio, las solicitudes de medidas cautelares, de arraigo de personas, aseguramiento de bienes, medidas de seguridad provisionales, embargo de bienes, que resulten indispensables para la averiguación previa y las órdenes de cateo que procedan, órdenes de protección precautorias de emergencia y preventivas;
 
 III. Resolver sobre la orden de aprehensión y detención, órdenes de presentación o comparecencia tratándose de delitos del conocimiento del juicio oral;
 
@@ -851,9 +873,11 @@ XVI. Ejercer las demás atribuciones que esta Ley o las demás le otorguen.
 
 Deberá existir un registro fehaciente de todas las comunicaciones entre jueces y Ministerio Público y demás autoridades competentes, en relación con las solicitudes de, medidas cautelares, providencias precautorias y técnicas de investigación de la autoridad, que requieran control judicial.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2012)</small>
 
-ARTÍCULO 36 BIS 2.- Corresponde a los Jueces del Juicio Oral Penal conocer del juicio oral penal en los casos que establezca el Código de Procedimientos Penales del Estado de Nuevo León.
+ARTÍCULO 36 BIS 2.- Corresponde a los Jueces del Juicio Oral Penal conocer del juicio oral penal en los casos que establezca el Código de Procedimientos Penales del Estado de Nuevo León. Tienen competencia además, para dictar las órdenes de protección de emergencia y preventivas a que se refiere el Código Penal para el Estado de Nuevo León.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 El Consejo de la Judicatura del Estado, mediante acuerdos generales determinará los Jueces de Juicio Oral, que funcionarán en el sistema acusatorio y que conocerán del Juicio Oral Penal en los casos que establezca el Código Procesal Penal para el Estado de Nuevo León.
 
@@ -1073,7 +1097,7 @@ Los Actuarios que funcionen en los diversos juzgados de primera instancia deber�
 
 I. Concurrir diariamente al lugar donde presten sus servicios, durante las horas que fije el titular de la oficina;
 
-II. Recibir de los Secretarios los expedientes de notificaciones personales o de diligencias que deban llevarse al cabo fuera de la oficina, firmando los comprobantes de recepción;
+II. Recibir de los Secretarios los expedientes de notificaciones personales o de diligencias que deban llevarse al (sic) cabo fuera de la oficina, firmando los comprobantes de recepción;
 
 III. Hacer las notificaciones personales y practicar las diligencias que se decreten, dentro de las horas hábiles, devolviendo los expedientes, previas las anotaciones en el libro correspondiente;
 
@@ -1283,7 +1307,7 @@ Los síndicos provisionales o auxiliares de la Impartición de Justicia, serán 
 
 ###### ARTÍCULO 59.
 
-Las listas a que se refiere el artículo anterior serán el resultado de una selección que el Tribunal Superior de Justicia del Estado llevará al cabo entre los aspirantes a las sindicaturas de que se trata y a qué se refiere el Código de Procedimientos Civiles. Formará una lista especial en la que figuren proporcionalmente los candidatos propuestos por las asociaciones profesionales debidamente constituidas y reconocidas por el Tribunal, así como los profesionistas o comerciantes que sin estar asociados, reúnan los requisitos exigidos por esta ley para ejercer las sindicaturas y cuya reputación y antecedentes de competencia y moralidad sean notorios.
+Las listas a que se refiere el artículo anterior serán el resultado de una selección que el Tribunal Superior de Justicia del Estado llevará al (sic) cabo entre los aspirantes a las sindicaturas de que se trata y a qué se refiere el Código de Procedimientos Civiles. Formará una lista especial en la que figuren proporcionalmente los candidatos propuestos por las asociaciones profesionales debidamente constituidas y reconocidas por el Tribunal, así como los profesionistas o comerciantes que sin estar asociados, reúnan los requisitos exigidos por esta ley para ejercer las sindicaturas y cuya reputación y antecedentes de competencia y moralidad sean notorios.
 
 ###### ARTÍCULO 60.
 
@@ -2382,5 +2406,17 @@ P.O. 17 DE JUNIO DE 2011.
 P.O. 17 DE FEBRERO DE 2012.
 
 Único.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León, con excepción de las disposiciones relativas a los juzgados de juicio oral mercantil, las cuales entrarán en vigor desde el momento en que inicie la vigencia de los juicios de esa naturaleza, de acuerdo a lo señalado en el Código de Comercio; así como de las correspondientes a los juzgados de ejecución familiar oral, las cuales tendrán vigencia hasta en tanto el Consejo de la Judicatura del Estado, mediante acuerdo general, determine su instalación y funcionamiento, atendiendo a su presupuesto
+
+P.O. 22 DE JUNIO DE 2012.
+
+DECRETO NÚM. 340 POR EL QUE SE REFORMAN EL ARTÍCULO 35 BIS, LA (SIC) FRACCIONES III Y IV DEL ARTÍCULO 36, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 36 BIS 2; Y SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 36, TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE NUEVO LEÓN.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 22 DE JUNIO DE 2012.
+
+DECRETO NÚM. 341 POR EL QUE SE REFORMAN LAS FRACCIONES DE LA V A LA IX DEL ARTÍCULO 35; LA FRACCIÓN II DEL ARTÍCULO 36 BIS Y SE ADICIONA UNA FRACCIÓN X AL ARTÍCULO 35, TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE NUEVO LEÓN.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 400.- SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 11 DE LA LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2026”.]
