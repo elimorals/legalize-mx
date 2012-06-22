@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-seguridad-publica-para-el-estado-de-queretaro-51860"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-15"
-last_updated: "2012-06-15"
+last_updated: "2012-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 15 de septiembre de 2006.
 
@@ -203,9 +203,13 @@ XVII. Determinar las acciones tendientes a mejorar la vigilancia en las vías de
 
 XVIII. Convenir con los Ayuntamientos las condiciones para la coordinación intermunicipal de la seguridad pública;
 
-XIX. Apoyar a las Corporaciones de Policía para que operen sus respectivos consejos de honor y justicia, con estricto respeto a las atribuciones de los titulares de las instituciones a que pertenezca dicho personal; y
+XIX. Apoyar a las Corporaciones de Policía para que operen sus respectivos consejos de honor y justicia, con estricto respeto a las atribuciones de los titulares de las instituciones a que pertenezca dicho personal; y (sic)
 
-XX. Las demás que le señalen las disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+XX. Proponer la creación y modificación de las unidades u órganos de la Secretaría, especializados en la prevención y el combate de las conductas ilícitas cometidas mediante la utilización de sistemas o equipos informáticos, así como los mecanismos de coordinación con otras autoridades responsables en la materia; y
+
+XXI. Las demás que le señalen las disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 15 DE JUNIO DE 2012)</small>
 
@@ -2518,3 +2522,9 @@ P.O. 15 DE JUNIO DE 2012.
 Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente.
+
+P.O. 22 DE JUNIO DE 2012.
+
+Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
