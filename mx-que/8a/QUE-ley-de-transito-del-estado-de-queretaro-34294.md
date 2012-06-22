@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-transito-del-estado-de-queretaro-34294"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-03"
-last_updated: "2012-03-02"
+last_updated: "2012-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE TRÁNSITO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 3 de octubre de 2003.
 
@@ -819,7 +819,9 @@ Se considera infracción el incumplimiento a las disposiciones de la presente le
 
 a) Amonestación;
 
-b) Multa de uno a treinta días de salario mínimo vigente en la zona fijado periódicamente;
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
+b) Multa de diez a ochenta días de salario mínimo vigente en la zona fijado periódicamente;
 
 c) Suspensión temporal hasta por seis meses, de los derechos que ampara la licencia de manejo o permiso de que se trate, sin perjuicio de la sanción pecuniaria correspondiente;
 
@@ -1079,6 +1081,10 @@ IX. Se coloquen, en forma temporal o permanente, boyas, topes, maceteros o cualq
 
 X. Los propietarios o usuarios de vehículos agrícolas o de maquinaria destinada o de uso para la construcción, que no los resguarden en los espacios autorizados por la autoridad competente para ese efecto o en la obra.
 
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+XI. Quien conduzca un vehículo automotor, se estacione u obstruya los espacios como ciclo vías, área de espera ciclística y bici estacionamientos.
+
 H) DE LOS ACCIDENTES DE TRANSITO
 
 I.- Quien conduzca un vehículo implicado en un accidente de tránsito en los que resulten personas lesionadas o fallecidas, no proceda conforme a lo establecido en el reglamento de tránsito;
@@ -1322,3 +1328,9 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. El titular del Ejecutivo del Estado de Querétaro y los municipios de la Entidad, deberán actualizar sus reglamentos de Tránsito, con las disposiciones de este cuerpo legal, en un plazo no mayor de 30 días naturales, contados a partir de la publicación de esta Ley.
+
+P.O. 22 DE JUNIO DE 2012.
+
+Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Remítase·al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
