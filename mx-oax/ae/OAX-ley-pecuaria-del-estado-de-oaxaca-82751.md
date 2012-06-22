@@ -4,7 +4,7 @@ identifier: "OAX-ley-pecuaria-del-estado-de-oaxaca-82751"
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-18"
-last_updated: "2011-08-18"
+last_updated: "2012-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PECUARIA DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2012.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el jueves 18 de agosto de 2011.
 
@@ -217,7 +217,9 @@ XLVI. Identificación electrónica: Elemento electromagnético que se implanta v
 
 XLVII. Inocuidad: Cualidad que tienen los productos y subproductos pecuarios de no causar daño al ser consumidos;
 
-XLVIII. Inspección: Revisión física o documental para constatar el cumplimiento de las disposiciones de esta Ley y demás ordenamientos aplicables en la materia, efectuada por personal de la SEDAFP o unidad de verificación aprobada;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+XLVIII. Inspección: Revisión física o documental para constatar el cumplimiento de las disposiciones de esta Ley y demás ordenamientos aplicables en la materia, efectuada por personal de la Secretaría o unidad de verificación aprobada;
 
 XLIX. Ley: Ley Pecuaria del Estado de Oaxaca;
 
@@ -247,7 +249,9 @@ LXI. Prevención: Conjunto de medidas zoosanitarias basadas en estudios epizooti
 
 LXII. Productos: Resultados de la producción primaria de las especies domésticas productivas;
 
-LXIII. Punto de verificación e inspección estatal: Sitio ubicado dentro del territorio del Estado, con infraestructura para verificación e inspección, autorizada por la SEDAFP;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+LXIII. Punto de verificación e inspección estatal: Sitio ubicado dentro del territorio del Estado, con infraestructura para verificación e inspección, autorizada por la Secretaría;
 
 LXIV. Punto de verificación e inspección zoosanitaria: Sitio ubicado dentro del territorio del Estado, con infraestructura de diagnóstico autorizada por la SAGARPA;
 
@@ -265,7 +269,9 @@ LXX. Salario Mínimo: El salario mínimo diario vigente en el Estado;
 
 LXXI. Sanidad pecuaria: La que tiene por objeto preservar la salud y prevenir las enfermedades y plagas en los animales;
 
-LXXII. SEDAFP: Secretaría de Desarrollo Agropecuario, Forestal y Pesca;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+LXXII. Secretaría: Secretaría de Desarrollo Agropecuario, Forestal, Pesca y Acuacultura ( SEDAFPA);
 
 LXXIII. Señal de sangre: Cortadas, incisiones o perforaciones que se hacen en las orejas o pliegues naturales del ganado;
 
@@ -285,7 +291,9 @@ LXXX. Tatuaje: La impresión de dibujos, letras o números indelebles en la orej
 
 LXXXI. Vías Pecuarias: Se entenderán los caminos de herradura, los de mano de obra, las veredas en general o rutas establecidas, que sigue el ganado para llegar a los embarcaderos o abrevaderos de uso común y, en general, los que sigan en su movilización de un municipio a otro, entre zonas de inspección ganadera o predios colindantes, así como las utilizadas por vehículos o transportes y personas dedicadas a la movilización de animales;
 
-LXXXII. Volantas: Estación de verificación itinerante autorizada por la SEDAFP, a cargo de un verificador pecuario;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+LXXXII. Volantas: Estación de verificación itinerante autorizada por la Secretaría, a cargo de un verificador pecuario;
 
 LXXXIII. Zona apícola: Es aquella región o lugar que por sus condiciones naturales o botánicas, es susceptible para desarrollar la apicultura;
 
@@ -305,7 +313,9 @@ Son autoridades competentes para aplicar esta Ley:
 
 I. El Gobernador del Estado;
 
-II. La SEDAFP;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+II. La Secretaría;
 
 III. Los Ayuntamientos del Estado;
 
@@ -347,7 +357,9 @@ IX. Los demás organismos afines.
 
 Son atribuciones del Gobernador del Estado, respecto de esta Ley:
 
-I. Definir las políticas, planes y programas relativos al fomento de las actividades pecuarias, considerando para este efecto las propuestas de los organismos representativos de los productores, el Congreso del Estado y la SEDAFP;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+I. Definir las políticas, planes y programas relativos al fomento de las actividades pecuarias, considerando para este efecto las propuestas de los organismos representativos de los productores, el Congreso del Estado y la Secretaría;
 
 II. Celebrar convenios de cooperación con organismos y organizaciones pecuarias de carácter internacional, nacional, estatal o municipal, así como con las autoridades federales, municipales y de otras entidades federativas, para el establecimiento de programas de control de la movilización y la implementación de medidas zoosanitarias, de calidad genética de las especies domésticas productivas y de inocuidad de sus productos y subproductos;
 
@@ -357,9 +369,11 @@ IV. Prever que dentro del presupuesto anual de egresos del Estado, se fortalezca
 
 V. Las demás que le otorguen la presente Ley, su reglamento y el artículo 79 de la Constitución Política del Estado Libre y Soberano de Oaxaca.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 9.
 
-Atribuciones de la SEDAFP, respecto de esta Ley:
+Atribuciones de la Secretaría, respecto de esta Ley:
 
 I. Elaborar, ejecutar, supervisar, evaluar y actualizar el Programa de Desarrollo Pecuario;
 
@@ -415,7 +429,9 @@ XXI. Auxiliar al Ministerio Público en la persecución de los delitos relaciona
 
 XXII. Coordinar con las autoridades federales, estatales o municipales, el retiro del ganado que paste o transite en el derecho de vía, sin vigilancia de sus propietarios;
 
-XXIII. Fortalecer y promover el mejoramiento genético animal a través de programas específicos de la SEDAFP y de la autoridad federal competente, así como llevar el registro genealógico de razas puras en coordinación con las organizaciones pecuarias, fomentando el establecimiento de estaciones regionales de cría, bancos de semen y de embriones de reconocida calidad genética;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+XXIII. Fortalecer y promover el mejoramiento genético animal a través de programas específicos de la Secretaría y de la autoridad federal competente, así como llevar el registro genealógico de razas puras en coordinación con las organizaciones pecuarias, fomentando el establecimiento de estaciones regionales de cría, bancos de semen y de embriones de reconocida calidad genética;
 
 XXIV. Atender, a través de los verificadores pecuarios, las denuncias por violaciones a las disposiciones de la presente Ley, su reglamento y demás normatividad aplicable en la materia, orientando al denunciante para la interposición de la misma y, en su caso, turnándola a la instancia correspondiente para su resolución;
 
@@ -441,7 +457,9 @@ XXXIV. Organizar y mantener permanentemente actualizado el Registro Estatal de V
 
 XXXV. Celebrar por delegación del Gobernador del Estado convenios y acuerdos con las entidades federativas en materia pecuaria;
 
-XXXVI. Elaborar y expedir el formato único de guía de tránsito, con base en los requisitos que establezca la SEDAFP, cobrando por los mismos el monto señalado en la Ley de Ingresos del Estado;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+XXXVI. Elaborar y expedir el formato único de guía de tránsito, con base en los requisitos que establezca la Secretaría, cobrando por los mismos el monto señalado en la Ley de Ingresos del Estado;
 
 XXXVII. Dividir el Estado en zonas y micro regiones para la mejor aplicación de los programas de gobierno que permitan mejorar la actividad pecuaria;
 
@@ -471,13 +489,17 @@ VI. Auxiliar a las autoridades estatales y al Ministerio Público en la prevenci
 
 VII. Las demás que señale esta Ley, su reglamento y otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 11.
 
-La Secretaría de Finanzas del Gobierno del Estado hará efectivas las multas impuestas por la SEDAFP por las violaciones a la presente Ley y su reglamento.
+La Secretaría de Finanzas del Gobierno del Estado hará efectivas las multas impuestas por la Secretaría por las violaciones a la presente Ley y su reglamento.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 12.
 
-La Procuraduría General de Justicia y la Secretaría de Seguridad Pública, a petición de la SEDAFP, prestarán apoyo y auxilio a los verificadores pecuarios y al personal adscrito a los puntos de verificación e inspección ubicados en el territorio estatal, proporcionando elementos de sus corporaciones policíacas en cada uno de ellos para el cumplimiento de sus objetivos y atribuciones.
+La Procuraduría General de Justicia y la Secretaría de Seguridad Pública, a petición de la Secretaría, prestarán apoyo y auxilio a los verificadores pecuarios y al personal adscrito a los puntos de verificación e inspección ubicados en el territorio estatal, proporcionando elementos de sus corporaciones policíacas en cada uno de ellos para el cumplimiento de sus objetivos y atribuciones.
 
 ###### ARTÍCULO 13.
 
@@ -493,17 +515,23 @@ IV. Las demás que señale esta Ley, su reglamento y la demás legislación apli
 
 ### CAPÍTULO V. DE LOS VERIFICADORES PECUARIOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 14.
 
-La SEDAFP, para mantener el control de la movilización, inocuidad alimentaria, certificación e inspección zoosanitaria, designará:
+La Secretaría, para mantener el control de la movilización, inocuidad alimentaria, certificación e inspección zoosanitaria, designará:
 
 I. Verificadores pecuarios estatales, y
 
-II. verificadores auxiliares nombrados por la SEDAFP o propuestos por los ayuntamientos, quienes coadyuvarán en las funciones de la movilización en su comunidad, conforme las necesidades zoosanitarias.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+II. verificadores auxiliares nombrados por la Secretaría o propuestos por los ayuntamientos, quienes coadyuvarán en las funciones de la movilización en su comunidad, conforme las necesidades zoosanitarias.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 15.
 
-La SEDAFP designará y removerá a los verificadores pecuarios y determinará su ubicación para cumplir sus funciones, cuando por efectos de restricciones presupuestales, convenios económicos y administrativos o emergencias zoosanitarias no sea posible cubrir algunos puntos con personal propio, podrá autorizar la designación de verificadores auxiliares nombrados por los ayuntamientos, asociaciones ganaderas o por el CEFPPO, quedando bajo el control y supervisión de la SEDAFP, sin que por ello se establezca una relación laboral.
+La Secretaría designará y removerá a los verificadores pecuarios y determinará su ubicación para cumplir sus funciones, cuando por efectos de restricciones presupuestales, convenios económicos y administrativos o emergencias zoosanitarias no sea posible cubrir algunos puntos con personal propio, podrá autorizar la designación de verificadores auxiliares nombrados por los ayuntamientos, asociaciones ganaderas o por el CEFPPO, quedando bajo el control y supervisión de la Secretaría, sin que por ello se establezca una relación laboral.
 
 ###### ARTÍCULO 16.
 
@@ -539,7 +567,9 @@ VI. Verificar que el sacrificio de ganado mayor y menor, se realice en rastros o
 
 VII. Inspeccionar, constatar, certificar y dejar en depósito el ganado dañero o mostrenco, dando fe de sus remates o ventas;
 
-VIII. Dar aviso a la SEDAFP o autoridades zoosanitarias competentes más cercanas de la aparición de cualquier padecimiento y condiciones que pongan en riesgo la salud de los animales en su área de influencia;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+VIII. Dar aviso a la Secretaría o autoridades zoosanitarias competentes más cercanas de la aparición de cualquier padecimiento y condiciones que pongan en riesgo la salud de los animales en su área de influencia;
 
 IX. Ejecutar y dar a conocer las medidas que sean acordadas por las autoridades competentes con el objeto de evitar el comercio ilícito de productos y subproductos pecuarios;
 
@@ -549,7 +579,9 @@ XI. Realizar la expedición de documentos oficiales relativos a la movilización
 
 XII. Realizar las inspecciones solicitadas para verificar daños en parcelas agrícolas, agostaderos, cercos e instalaciones pecuarias, causados por ganado, haciéndolo constar en el acta circunstanciada correspondiente, la cual se pondrá a disposición del interesado, sin perjuicio de la sanción administrativa que disponga esta Ley y demás ordenamientos legales aplicables;
 
-XIII. Dirigir las corridas y levantar un acta circunstanciada de conformidad con las disposiciones del reglamento de la presente Ley, misma que deberá entregar a la SEDAFP;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+XIII. Dirigir las corridas y levantar un acta circunstanciada de conformidad con las disposiciones del reglamento de la presente Ley, misma que deberá entregar a la Secretaría;
 
 XIV. Asesorar a los interesados que así lo soliciten, en el procedimiento correspondiente para llevar a cabo los realeos de ganado solicitados y autorizados en cualquier tipo de propiedad dentro de su ámbito de responsabilidad, así como estar presentes en los mismos, asentando los hechos en el acta circunstanciada que para tal efecto se levante;
 
@@ -583,9 +615,11 @@ Cuando los verificadores pecuarios incurran en cualquiera de las conductas que p
 
 ### CAPÍTULO VI. DE LOS ESTABLECIMIENTOS
 
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 20.
 
-Los establecimientos o empresas destinados a la actividad pecuaria, deberán ser registrados o renovado su registro por el productor ante la SEDAFP, ya sea de manera directa o a través del Sistema Producto, de acuerdo a los lineamientos y disposiciones que al respecto la misma establezca.
+Los establecimientos o empresas destinados a la actividad pecuaria, deberán ser registrados o renovado su registro por el productor ante la Secretaría, ya sea de manera directa o a través del Sistema Producto, de acuerdo a los lineamientos y disposiciones que al respecto la misma establezca.
 
 ###### ARTÍCULO 21.
 
@@ -615,29 +649,37 @@ En todo caso, solicitará un estudio floral de la región correspondiente.
 
 Es obligación de los apicultores instalar en el aprovechamiento de su propiedad un letrero claramente visible, con una leyenda preventiva y una ilustración sencilla que comunique la misma idea, con la finalidad de proteger a la población civil.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 26.
 
-La SEDAFP clausurará las instalaciones o establecimientos, y retirará los apiarios que se instalen en contravención a las disposiciones de esta Ley y su reglamento.
+La Secretaría clausurará las instalaciones o establecimientos, y retirará los apiarios que se instalen en contravención a las disposiciones de esta Ley y su reglamento.
 
 ### CAPÍTULO VII. LA FABRICACIÓN DE SELLOS
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 27.
 
-La fabricación de sellos oficiales, registradores, fechadores, con cualquier Leyenda y del material relacionado con esta Ley, sólo podrá ser ordenada por la SEDAFP; por lo tanto, queda prohibido a toda persona física o moral, fabricar sellos para uso oficial de las características que se indican sin la autorización correspondiente.
+La fabricación de sellos oficiales, registradores, fechadores, con cualquier Leyenda y del material relacionado con esta Ley, sólo podrá ser ordenada por la Secretaría; por lo tanto, queda prohibido a toda persona física o moral, fabricar sellos para uso oficial de las características que se indican sin la autorización correspondiente.
 
 La infracción a la prohibición contenida en el párrafo anterior, será sancionada conforme a las leyes vigentes en el Estado.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 28.
 
-Toda persona física o moral queda obligada a denunciar a las personas que les ordenen la confección de uno o más sellos de los que se indican en el artículo anterior de esta Ley, cuando no les entreguen la orden correspondiente expedida por la autoridad competente; para tal efecto, la SEDAFP girará circulares a las imprentas fabricantes de sellos, haciéndoles saber que en caso de desobediencia, serán considerados como responsables, de conformidad con las disposiciones y leyes aplicables en la materia.
+Toda persona física o moral queda obligada a denunciar a las personas que les ordenen la confección de uno o más sellos de los que se indican en el artículo anterior de esta Ley, cuando no les entreguen la orden correspondiente expedida por la autoridad competente; para tal efecto, la Secretaría girará circulares a las imprentas fabricantes de sellos, haciéndoles saber que en caso de desobediencia, serán considerados como responsables, de conformidad con las disposiciones y leyes aplicables en la materia.
 
 ## TÍTULO SEGUNDO. GANADERÍA
 
 ### CAPÍTULO I. DEL MEJORAMIENTO GENÉTICO, LA TRANSFERENCIA DE TECNOLOGÍA Y LA VINCULACIÓN ACADÉMICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 29.
 
-La SEDAFP establecerá programas asociados al aprovechamiento intensivo que conduzcan:
+La Secretaría establecerá programas asociados al aprovechamiento intensivo que conduzcan:
 
 I.- Al mejoramiento de la actividad pecuaria;
 
@@ -645,9 +687,11 @@ II.- A la alta productividad y el uso de nuevas tecnologías, y
 
 III.- A consolidar principalmente la actividad pecuaria en aquellas zonas de evidente vocación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 30.
 
-La SEDAFP promoverá, con la participación de las organizaciones ganaderas, el establecimiento de un Sistema Estatal de Cría, con las siguientes funciones:
+La Secretaría promoverá, con la participación de las organizaciones ganaderas, el establecimiento de un Sistema Estatal de Cría, con las siguientes funciones:
 
 I. Seleccionar las especies, razas, cruzas y variedades más productivas, adecuadas a la ecología regional y a los requerimientos del mercado;
 
@@ -665,35 +709,49 @@ VII. Fomentar la instalación de centros de aprovechamiento pecuario, productore
 
 VIII. Las demás que se consideren necesarias para el mejoramiento genético y de fertilidad pecuaria.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 31.
 
-La supervisión técnica zoosanitaria de las estaciones de cría y los centros productores de semen y embriones, estarán a cargo de la SEDAFP.
+La supervisión técnica zoosanitaria de las estaciones de cría y los centros productores de semen y embriones, estarán a cargo de la Secretaría.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 32.
 
-La SEDAFP llevará un registro, en el que anotará las fechas en que fueron cubiertas las hembras por sementales registrados en el sistema de mejora genética o su semen, y los datos de identificación necesarios, a fin de tener el control de cruzamientos por especies, debiendo facilitar a las asociaciones ganaderas y a sus miembros, los medios probatorios respecto a la clase y procedencia de las crías.
+La Secretaría llevará un registro, en el que anotará las fechas en que fueron cubiertas las hembras por sementales registrados en el sistema de mejora genética o su semen, y los datos de identificación necesarios, a fin de tener el control de cruzamientos por especies, debiendo facilitar a las asociaciones ganaderas y a sus miembros, los medios probatorios respecto a la clase y procedencia de las crías.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 33.
 
-Los semovientes machos registrados que se destinen al servicio de apareamiento con fines lucrativos, deberán ser reconocidos por un médico veterinario zootecnista, aprobado por SAGARPA, para certificar sus condiciones reproductivas. El reconocimiento se practicará cuando menos cada tres meses y se enviará a la SEDAFP, el certificado médico correspondiente. En caso de no presentarse los certificados de que se trata, se prohibirá que se continúe utilizando al animal para dicho fin.
+Los semovientes machos registrados que se destinen al servicio de apareamiento con fines lucrativos, deberán ser reconocidos por un médico veterinario zootecnista, aprobado por SAGARPA, para certificar sus condiciones reproductivas. El reconocimiento se practicará cuando menos cada tres meses y se enviará a la Secretaría, el certificado médico correspondiente. En caso de no presentarse los certificados de que se trata, se prohibirá que se continúe utilizando al animal para dicho fin.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 34.
 
-El Ejecutivo del Estado, a través de la SEDAFP, podrá en cualquier tiempo ordenar que se hagan visitas de inspección a los centros de transferencia genética para constatar el estado de las instalaciones y salud de los animales.
+El Ejecutivo del Estado, a través de la Secretaría, podrá en cualquier tiempo ordenar que se hagan visitas de inspección a los centros de transferencia genética para constatar el estado de las instalaciones y salud de los animales.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 35.
 
-La SEDAFP fortalecerá la vinculación entre instituciones afines al sector pecuario, con el objeto de generar investigación y desarrollo tecnológico en genética, pastizales y alimentación; industrialización y comercialización de los productos y equipamiento e infraestructura pecuaria.
+La Secretaría fortalecerá la vinculación entre instituciones afines al sector pecuario, con el objeto de generar investigación y desarrollo tecnológico en genética, pastizales y alimentación; industrialización y comercialización de los productos y equipamiento e infraestructura pecuaria.
 
 Para tales efectos realizará, entre otras acciones, el establecimiento de convenios de colaboración con instituciones y universidades nacionales e internacionales.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 36.
 
-La SEDAFP incentivará la investigación y desarrollo tecnológico, mediante el otorgamiento de becas y reconocimientos a quienes presenten un proyecto innovador en los términos establecidos por la misma y pondrá en marcha planes y programas destinados a este fin.
+La Secretaría incentivará la investigación y desarrollo tecnológico, mediante el otorgamiento de becas y reconocimientos a quienes presenten un proyecto innovador en los términos establecidos por la misma y pondrá en marcha planes y programas destinados a este fin.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 37.
 
-La SEDAFP conformará el Fondo para la Investigación y Transferencia de Tecnología Pecuaria del Estado de Oaxaca.
+La Secretaría conformará el Fondo para la Investigación y Transferencia de Tecnología Pecuaria del Estado de Oaxaca.
 
 ### CAPÍTULO II. DEL CRÉDITO PECUARIO
 
@@ -707,9 +765,11 @@ Los créditos a que se refiere el artículo anterior, se destinarán entre otros
 
 ### CAPÍTULO III. DEL SEGURO PECUARIO
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 40.
 
-Con el objeto de proteger el patrimonio y la capacidad productiva del sector, la SEDAFP fomentará el uso de los instrumentos denominados Fondos de Aseguramiento operados por la Confederación Nacional de Organizaciones Ganaderas, a través de los Sistemas Producto y las organizaciones pecuarias.
+Con el objeto de proteger el patrimonio y la capacidad productiva del sector, la Secretaría fomentará el uso de los instrumentos denominados Fondos de Aseguramiento operados por la Confederación Nacional de Organizaciones Ganaderas, a través de los Sistemas Producto y las organizaciones pecuarias.
 
 ### CAPÍTULO IV. DE LA PRODUCCIÓN PECUARIA ORGÁNICA
 
@@ -717,9 +777,11 @@ Con el objeto de proteger el patrimonio y la capacidad productiva del sector, la
 
 La producción pecuaria orgánica es el sistema de producción integrado por diversas actividades agrícolas y pecuarias basado en principios ecológicos y sustentables.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 42.
 
-La SEDAFP deberá fomentar la producción pecuaria orgánica en los términos de la presente Ley.
+La Secretaría deberá fomentar la producción pecuaria orgánica en los términos de la presente Ley.
 
 ###### ARTÍCULO 43.
 
@@ -753,9 +815,11 @@ En el Estado de Oaxaca se reconoce la personalidad jurídica de las asociaciones
 
 Todos los propietarios de ganado podrán organizarse en asociaciones pudiendo registrarse tantas asociaciones como sean requeridas por los ganaderos, de acuerdo con las especificaciones de acreditación, número y demás características que establezca la Ley Federal de Organizaciones Ganaderas y su Reglamento.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 46.
 
-Las uniones y asociaciones ganaderas, así como las asociaciones especializadas, deberán registrarse en la SEDAFP, de acuerdo a la normatividad existente, sin cuyo requisito no podrán obtener los beneficios de esta Ley.
+Las uniones y asociaciones ganaderas, así como las asociaciones especializadas, deberán registrarse en la Secretaría, de acuerdo a la normatividad existente, sin cuyo requisito no podrán obtener los beneficios de esta Ley.
 
 ###### ARTÍCULO 47.
 
@@ -789,29 +853,39 @@ XIII. Las señaladas como objeto de las organizaciones ganaderas en la Ley de Or
 
 XIV. Las demás que les confiera esta Ley.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 48.
 
-La SEDAFP establecerá los mecanismos adecuados para evaluar el desempeño de las organizaciones ganaderas, a fin de que los apoyos que la Ley establece estén siempre condicionados al cumplimiento de las funciones previstas en la misma, sin perjuicio de exigirles las responsabilidades en que incurran. Para este efecto deberá siempre oírse la opinión de la Unión Ganadera Regional, del Comité y de la sociedad afectada.
+La Secretaría establecerá los mecanismos adecuados para evaluar el desempeño de las organizaciones ganaderas, a fin de que los apoyos que la Ley establece estén siempre condicionados al cumplimiento de las funciones previstas en la misma, sin perjuicio de exigirles las responsabilidades en que incurran. Para este efecto deberá siempre oírse la opinión de la Unión Ganadera Regional, del Comité y de la sociedad afectada.
 
 ## TÍTULO CUARTO. DEL SISTEMA PRODUCTO Y DEL FOMENTO PECUARIO
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 49.
 
-La SEDAFP impulsará los sistemas producto como forma de integración de los productores con los demás sectores que participan en el proceso, desde la producción hasta el consumo, buscando lograr mayores niveles de competitividad en todas las cadenas productivas, como estrategia del fomento y desarrollo pecuario, todo ello en base al sustento legal que proporciona la Ley Federal de Desarrollo Rural Sustentable.
+La Secretaría impulsará los sistemas producto como forma de integración de los productores con los demás sectores que participan en el proceso, desde la producción hasta el consumo, buscando lograr mayores niveles de competitividad en todas las cadenas productivas, como estrategia del fomento y desarrollo pecuario, todo ello en base al sustento legal que proporciona la Ley Federal de Desarrollo Rural Sustentable.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 50.
 
-La SEDAFP asesorará, capacitará y dará asistencia técnica a las personas que pretendan dedicarse a la producción pecuaria, desde la planeación hasta la comercialización de sus productos.
+La Secretaría asesorará, capacitará y dará asistencia técnica a las personas que pretendan dedicarse a la producción pecuaria, desde la planeación hasta la comercialización de sus productos.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 51.
 
-La SEDAFP promoverá la organización de los sistemas producto, convocando a los sectores interesados, productores, industriales y comercializadores de las cadenas productivas del Estado.
+La Secretaría promoverá la organización de los sistemas producto, convocando a los sectores interesados, productores, industriales y comercializadores de las cadenas productivas del Estado.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 52.
 
-La SEDAFP establecerá un comité estatal por producto pecuario básico estratégico.
+La Secretaría establecerá un comité estatal por producto pecuario básico estratégico.
 
 ###### ARTÍCULO 53.
 
@@ -851,9 +925,11 @@ En el caso específico de los productores, se considera como estratégica la int
 
 ### CAPÍTULO I. LA PROPIEDAD DEL GANADO
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 55.
 
-La SEDAFP, en coordinación con el SINIIGA establecerá el SIPEOAX como el sistema central estatal de identificación del ganado del Estado, a través del cual se asignará una numeración única, permanente e irrepetible durante toda la vida del animal.
+La Secretaría, en coordinación con el SINIIGA establecerá el SIPEOAX como el sistema central estatal de identificación del ganado del Estado, a través del cual se asignará una numeración única, permanente e irrepetible durante toda la vida del animal.
 
 ###### ARTÍCULO 56.
 
@@ -871,9 +947,11 @@ V. Contribuir al combate del abigeato y del contrabando de animales, productos y
 
 VI. Optimizar los procesos comerciales del sector pecuario.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 57.
 
-Los propietarios de ganado tendrán la obligación de registrar los animales de su propiedad en el SIPEOAX, atendiendo los términos y requisitos que la propia SEDAFP establezca.
+Los propietarios de ganado tendrán la obligación de registrar los animales de su propiedad en el SIPEOAX, atendiendo los términos y requisitos que la propia Secretaría establezca.
 
 ###### ARTÍCULO 58.
 
@@ -917,9 +995,11 @@ En caso de haberse sacrificado en el campo, deberá acreditarse para su venta o 
 
 El apicultor que adquiera colmenas o material apícola marcado, pondrá su fierro o marca a un lado de la del vendedor, sin borrarla, y conservará las facturas que correspondan a la operación comercial para acreditar su propiedad.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 64.
 
-Están obligados a registrarse ante el ayuntamiento respectivo los comerciantes, dueños de saladeros y curtidurías, y demás personas dedicadas a la industrialización de pieles; el ayuntamiento deberá notificar a la SEDAFP la apertura de tales establecimientos.
+Están obligados a registrarse ante el ayuntamiento respectivo los comerciantes, dueños de saladeros y curtidurías, y demás personas dedicadas a la industrialización de pieles; el ayuntamiento deberá notificar a la Secretaría la apertura de tales establecimientos.
 
 ###### ARTÍCULO 65.
 
@@ -951,13 +1031,17 @@ Todos los dueños de ganado tienen la obligación de herrar, marcar, señalar, i
 
 Todo apicultor que opere dentro del Estado tiene la obligación de identificar la propiedad de sus colmenas marcándolas al frente, mediante fierro caliente u otro material, de tal forma que sea visible cuando menos a una distancia de dos metros.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 69.
 
-Las personas físicas o morales deberán registrar su fierro de herrar, señal de sangre, registro electrónico, tatuaje o arete de origen, para lo cual deberá cumplir con los requisitos establecidos por la SEDAFP.
+Las personas físicas o morales deberán registrar su fierro de herrar, señal de sangre, registro electrónico, tatuaje o arete de origen, para lo cual deberá cumplir con los requisitos establecidos por la Secretaría.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 70.
 
-La SEDAFP llevará un registro general de los fierros de herrar por orden de municipios, en el que se anotará un diseño de los mismos, incluyendo nombre, asiento de producción, domicilio de los dueños, fecha de alta y número de registro; de igual manera, en cada municipio, la autoridad competente mantendrá un registro vigente de los correspondientes a su jurisdicción.
+La Secretaría llevará un registro general de los fierros de herrar por orden de municipios, en el que se anotará un diseño de los mismos, incluyendo nombre, asiento de producción, domicilio de los dueños, fecha de alta y número de registro; de igual manera, en cada municipio, la autoridad competente mantendrá un registro vigente de los correspondientes a su jurisdicción.
 
 ###### ARTÍCULO 71.
 
@@ -973,9 +1057,11 @@ Los propietarios de registros de título de fierro de herrar o las diversas iden
 
 Queda estrictamente prohibido herrar con plancha llana, con alambre, gancho, argolla y fierro corrido, así como amputar más de la mitad de las dos orejas de ganado menor.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 74.
 
-La expedición de los títulos de fierros de herrar los realizará la SEDAFP o el Ayuntamiento donde se encuentre el principal asiento de la producción. El ayuntamiento está obligado a notificar a la SEDAFP de la expedición de cada título acompañando de las características e imagen de la marca.
+La expedición de los títulos de fierros de herrar los realizará la Secretaría o el Ayuntamiento donde se encuentre el principal asiento de la producción. El ayuntamiento está obligado a notificar a la Secretaría de la expedición de cada título acompañando de las características e imagen de la marca.
 
 ###### ARTÍCULO 75.
 
@@ -985,11 +1071,15 @@ No podrá usarse marca o señal de sangre, lo mismo que los dispositivos electr�
 
 En ningún caso se podrán registrar fierros de herrar iguales a propietarios distintos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 77.
 
-La SEDAFP y los ayuntamientos deberán tener registrado su título de fierro de herrar para los supuestos siguientes:
+La Secretaría y los ayuntamientos deberán tener registrado su título de fierro de herrar para los supuestos siguientes:
 
-I. En el caso de la SEDAFP, ésta deberá contar con el fierro con la figura de C.N. para identificar animales que únicamente serán sacrificados para Consumo Nacional, cuya determinación y solicitud proceda de autoridad competente, y
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+I. En el caso de la Secretaría, ésta deberá contar con el fierro con la figura de C.N. para identificar animales que únicamente serán sacrificados para Consumo Nacional, cuya determinación y solicitud proceda de autoridad competente, y
 
 II. En el caso de los Ayuntamientos, será para marcar los animales que se rematen en calidad de mostrencos o dañeros.
 
@@ -997,7 +1087,9 @@ II. En el caso de los Ayuntamientos, será para marcar los animales que se remat
 
 Para el registro del fierro de herrar, señal de sangre, registro electrónico, tatuaje o arete de origen, el solicitante deberá cumplir con los siguientes requisitos:
 
-I. Presentarse en la SEDAFP y requisitar los formatos que para tal efecto se destinen;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+I. Presentarse en la Secretaría y requisitar los formatos que para tal efecto se destinen;
 
 II. En caso de personas morales, la solicitud la firmará el representante legal, quien acreditará de manera satisfactoria su personalidad;
 
@@ -1009,27 +1101,35 @@ V. Realizar el pago del derecho correspondiente;
 
 VI. Acreditar la posesión o propiedad legal del lugar donde establecerá el asiento de producción pecuaria;
 
-VII. Declarar por escrito ante la SEDAFP si cuenta con registro de título o equivalente en otra entidad federativa, y los datos respectivos;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+VII. Declarar por escrito ante la Secretaría si cuenta con registro de título o equivalente en otra entidad federativa, y los datos respectivos;
 
 VIII. Presentar el diseño de la marca;
 
 IX. Que la marca satisfaga las características impuestas por el artículo 71 de esta Ley, y
 
-X. Los demás que establezca la SEDAFP.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+X. Los demás que establezca la Secretaría.
 
 ###### ARTÍCULO 79.
 
 Para los efectos de esta Ley, el ganadero podrá designar quien deba sucederle en sus derechos sobre el título de fierro de herrar y de los animales, para lo cual bastará que formule una lista de sucesión en la que consten los nombres de las personas y el orden de preferencia, conforme al cual deba hacerse la adjudicación de derechos a su fallecimiento.
 
-La lista de sucesión deberá ser depositada en la SEDAFP o formalizada ante Notario Público.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
+La lista de sucesión deberá ser depositada en la Secretaría o formalizada ante Notario Público.
 
 Con las mismas formalidades podrá ser modificada por el propio ganadero, en cuyo caso será válida a la de fecha posterior.
 
 ### CAPÍTULO III. DE LOS TÍTULOS DE FIERRO DE HERRAR
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 80.
 
-La SEDAFP dará de baja o cancelará de manera temporal o definitiva el uso de los títulos de fierro de herrar, señal de sangre o tatuaje cuando:
+La Secretaría dará de baja o cancelará de manera temporal o definitiva el uso de los títulos de fierro de herrar, señal de sangre o tatuaje cuando:
 
 I. No se revaliden luego de un período de tres años;
 
@@ -1057,11 +1157,13 @@ Se cancelará el título de fierro de herrar, señal de sangre o tatuaje más re
 
 Se cancelará coactivamente y de manera definitiva el uso y el título de fierro de herrar, señal de sangre o tatuaje cuando se incurra en los supuestos previstos en las fracciones V, VI, VII, VIII, IX y X.
 
-En el caso de cancelación de títulos por falta de revalidación, la SEDAFP no autorizará a terceras personas las marcas y señales que amparen dichos títulos durante el periodo de tres años, contados a partir de la fecha de cancelación.
+En el caso de cancelación de títulos por falta de revalidación, la Secretaría no autorizará a terceras personas las marcas y señales que amparen dichos títulos durante el periodo de tres años, contados a partir de la fecha de cancelación.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 81.
 
-Los traspasos de título de fierro de herrar que realicen los dueños de los mismos a otra persona, serán por escrito ante la SEDAFP, y el titular deberá manifestar si existe ganado herrado con ese fierro y así mismo, la situación legal que éste guardará.
+Los traspasos de título de fierro de herrar que realicen los dueños de los mismos a otra persona, serán por escrito ante la Secretaría, y el titular deberá manifestar si existe ganado herrado con ese fierro y así mismo, la situación legal que éste guardará.
 
 ###### ARTÍCULO 82.
 
@@ -1103,21 +1205,29 @@ III. Aquellos sobre los que su poseedor no pueda demostrar su legítima propieda
 
 IV. Los animales abandonados intencionalmente o perdidos cuyo dueño se ignore, y
 
-V. Aquellos que hubiesen sido declarados como tal o que ostenten medios de identificación que no se encuentren debidamente registrados ante la SEDAFP, en los términos de esta Ley y su reglamento.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+V. Aquellos que hubiesen sido declarados como tal o que ostenten medios de identificación que no se encuentren debidamente registrados ante la Secretaría, en los términos de esta Ley y su reglamento.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 89.
 
-El Ayuntamiento controlará y aprobará a los mostrenqueros, notificándolo a la SEDAFP, la cual llevará el registro en el Estado.
+El Ayuntamiento controlará y aprobará a los mostrenqueros, notificándolo a la Secretaría, la cual llevará el registro en el Estado.
 
 ### CAPÍTULO II. DESTINO DEL GANADO MOSTRENCO
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 90.
 
-La autoridad municipal competente tiene la obligación de indagar la identificación de los animales considerados como mostrencos, para lo cual, solicitará a la SEDAFP revise el libro de registro estatal; cuando sea posible identificar al dueño, le notificará que pase a recogerlo en un plazo no mayor de 5 días naturales contados a partir de aquél en que surta efecto la notificación. Si el propietario no atiende la notificación, o acudiendo ante la autoridad se niega a pagar los gastos o daños ocasionados por el mostrenco, se procederá a la venta del mismo en subasta pública con la presencia del verificador pecuario, entregándole al propietario el dinero que reste después de descontar los gastos o daños causados o provocados por el animal.
+La autoridad municipal competente tiene la obligación de indagar la identificación de los animales considerados como mostrencos, para lo cual, solicitará a la Secretaría revise el libro de registro estatal; cuando sea posible identificar al dueño, le notificará que pase a recogerlo en un plazo no mayor de 5 días naturales contados a partir de aquél en que surta efecto la notificación. Si el propietario no atiende la notificación, o acudiendo ante la autoridad se niega a pagar los gastos o daños ocasionados por el mostrenco, se procederá a la venta del mismo en subasta pública con la presencia del verificador pecuario, entregándole al propietario el dinero que reste después de descontar los gastos o daños causados o provocados por el animal.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 91.
 
-En caso de no obtenerse la identificación a que se refiere el artículo anterior, la autoridad municipal competente o la SEDAFP, darán aviso a las autoridades circunvecinas y a la institución que represente a los ganaderos, adjuntándoles la reseña de los animales, a efecto de que en un plazo no mayor de ocho días naturales, informen si pueden o no hacer la identificación; en el caso de que los mostrencos sean caballos, burros o mulas, solamente se esperará un término de tres días con el fin de reducir la sobrecarga en terrenos de pastoreo.
+En caso de no obtenerse la identificación a que se refiere el artículo anterior, la autoridad municipal competente o la Secretaría, darán aviso a las autoridades circunvecinas y a la institución que represente a los ganaderos, adjuntándoles la reseña de los animales, a efecto de que en un plazo no mayor de ocho días naturales, informen si pueden o no hacer la identificación; en el caso de que los mostrencos sean caballos, burros o mulas, solamente se esperará un término de tres días con el fin de reducir la sobrecarga en terrenos de pastoreo.
 
 ###### ARTÍCULO 92.
 
@@ -1141,9 +1251,11 @@ Si el animal encontrado fuere considerado de alto valor genético, deberá esper
 
 El pago que se realice para efectos de este capítulo, deberá ser en efectivo, efectuándose en una sola exhibición, debiendo marcar los animales con el fierro de herrar del municipio, extendiendo el ayuntamiento el documento que acredite la propiedad debidamente autorizada por el verificador pecuario.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 97.
 
-Realizada la venta, se levantará acta circunstanciada en original y tres copias, asentándose la fecha, el lugar, la hora, nombre y cargo de los participantes, compradores y reseña de los animales. El acta y las copias deberán firmarlas los asistentes con sello de la presidencia municipal y del verificador pecuario, las copias se entregarán: a la SEDAFP, a la asociación ganadera local correspondiente y al adquirente del ganado.
+Realizada la venta, se levantará acta circunstanciada en original y tres copias, asentándose la fecha, el lugar, la hora, nombre y cargo de los participantes, compradores y reseña de los animales. El acta y las copias deberán firmarlas los asistentes con sello de la presidencia municipal y del verificador pecuario, las copias se entregarán: a la Secretaría, a la asociación ganadera local correspondiente y al adquirente del ganado.
 
 ###### ARTÍCULO 98.
 
@@ -1151,13 +1263,17 @@ Queda prohibido a las autoridades estatales, municipales o sus representantes, a
 
 Toda venta hecha en contravención a lo dispuesto en este artículo, será nula de pleno derecho, sin declaración judicial. La infracción dará lugar al fincamiento de la responsabilidad correspondiente.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 99.
 
-La SEDAFP realizará periódicamente, en coordinación con las autoridades municipales correspondientes, arreos de ganado que no se encuentren custodiados por vaqueros o cuidadores en las carreteras, los cuales serán subastados públicamente en los términos que dispone este capítulo según sea el caso; la cantidad obtenida se depositará con las autoridades municipales correspondientes hasta por quince días naturales para en caso de que exista un legítimo reclamo de quien se ostente como propietario, descontando del total el importe que se genere por los gastos y daños que haya ocasionado.
+La Secretaría realizará periódicamente, en coordinación con las autoridades municipales correspondientes, arreos de ganado que no se encuentren custodiados por vaqueros o cuidadores en las carreteras, los cuales serán subastados públicamente en los términos que dispone este capítulo según sea el caso; la cantidad obtenida se depositará con las autoridades municipales correspondientes hasta por quince días naturales para en caso de que exista un legítimo reclamo de quien se ostente como propietario, descontando del total el importe que se genere por los gastos y daños que haya ocasionado.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 100.
 
-La autoridad municipal llevará un libro de registro de los animales mostrencos vendidos, en donde se asentarán los datos relativos a los semovientes, tales como: lugar donde se encontraron los animales, persona que los reportó, fecha de venta, especie, edad aproximada, sexo, color, clase, marcas y señales si los tuviese, nombre de los compradores y precio de su venta, enviando copia a la SEDAFP, quien tendrá a su cargo el registro estatal.
+La autoridad municipal llevará un libro de registro de los animales mostrencos vendidos, en donde se asentarán los datos relativos a los semovientes, tales como: lugar donde se encontraron los animales, persona que los reportó, fecha de venta, especie, edad aproximada, sexo, color, clase, marcas y señales si los tuviese, nombre de los compradores y precio de su venta, enviando copia a la Secretaría, quien tendrá a su cargo el registro estatal.
 
 ###### ARTÍCULO 101.
 
@@ -1195,7 +1311,9 @@ La inspección se practicará de conformidad con las disposiciones de la present
 
 I. Al ganado que se encuentre en el campo, estabulado; en tránsito; o en el rastro, y
 
-II. En los demás casos que señale la SEDAFP.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+II. En los demás casos que señale la Secretaría.
 
 ### CAPÍTULO II. DE LAS CORRIDAS
 
@@ -1215,11 +1333,13 @@ III. Cuando se desee recuperar el ganado proveniente de otros predios, y
 
 IV. Cuando el propietario o poseedor del predio o las asociaciones ganaderas respectivas lo soliciten.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 108.
 
-Cuando ocurra alguna de las hipótesis señaladas en el artículo anterior, la SEDAFP ordenará la realización de las corridas, para lo cual determinará su fecha de inicio, oyendo a los propietarios o poseedores del o los predios donde se llevarán a cabo, procurando que en caso de que abarque toda una zona, municipio o región, tengan una ejecución continua e ininterrumpida.
+Cuando ocurra alguna de las hipótesis señaladas en el artículo anterior, la Secretaría ordenará la realización de las corridas, para lo cual determinará su fecha de inicio, oyendo a los propietarios o poseedores del o los predios donde se llevarán a cabo, procurando que en caso de que abarque toda una zona, municipio o región, tengan una ejecución continua e ininterrumpida.
 
-Los propietarios o poseedores de predios en donde deba desarrollarse una corrida, general o especial, ordenada por la SEDAFP, deberán cooperar con la autoridad para dicho efecto, absteniéndose de ejecutar actos que de cualquier modo pueda obstruir o impedir la realización de la corrida, salvo caso fortuito o fuerza mayor. Igual obligación tendrán los colindantes del predio donde se realizará la actuación, así como los empleados y funcionarios que intervengan en ella y, en general, los terceros que por cualquier eventualidad tengan relación o interés en la misma.
+Los propietarios o poseedores de predios en donde deba desarrollarse una corrida, general o especial, ordenada por la Secretaría, deberán cooperar con la autoridad para dicho efecto, absteniéndose de ejecutar actos que de cualquier modo pueda obstruir o impedir la realización de la corrida, salvo caso fortuito o fuerza mayor. Igual obligación tendrán los colindantes del predio donde se realizará la actuación, así como los empleados y funcionarios que intervengan en ella y, en general, los terceros que por cualquier eventualidad tengan relación o interés en la misma.
 
 ###### ARTÍCULO 109.
 
@@ -1231,9 +1351,11 @@ II. Tener en buen estado sus corrales para el encierro y separación del ganado,
 
 III. Facilitar al verificador pecuario que dirija la corrida, los elementos necesarios para cumplir con el objeto de la misma y acatar las disposiciones que al efecto dicte.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 110.
 
-Salvo que la SEDAFP determine lo contrario y a petición de parte, los colindantes del predio en que se realice la corrida podrán participar en la misma.
+Salvo que la Secretaría determine lo contrario y a petición de parte, los colindantes del predio en que se realice la corrida podrán participar en la misma.
 
 ###### ARTÍCULO 111.
 
@@ -1253,13 +1375,17 @@ De las corridas se levantará un acta circunstanciada por el verificador pecuari
 
 ### CAPÍTULO I. DE LAS VÍAS PECUARIAS
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 114.
 
-Las vías pecuarias están destinadas al tránsito del ganado, se consideran de utilidad pública y su existencia implica para los predios sirvientes la carga gratuita de las servidumbres de paso correspondiente. Compete a la SEDAFP, determinar su ubicación, supresión o creación oyendo previamente a los organismos de cooperación de la región y a los interesados.
+Las vías pecuarias están destinadas al tránsito del ganado, se consideran de utilidad pública y su existencia implica para los predios sirvientes la carga gratuita de las servidumbres de paso correspondiente. Compete a la Secretaría, determinar su ubicación, supresión o creación oyendo previamente a los organismos de cooperación de la región y a los interesados.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 115.
 
-La SEDAFP arbitrará, a petición de los interesados, en los casos de controversia sobre servidumbres que ya existan o se pretendan establecer, para servir a predios ganaderos.
+La Secretaría arbitrará, a petición de los interesados, en los casos de controversia sobre servidumbres que ya existan o se pretendan establecer, para servir a predios ganaderos.
 
 ###### ARTÍCULO 116.
 
@@ -1295,9 +1421,11 @@ En lo no previsto por esta Ley, su reglamento y demás relativas, las servidumbr
 
 ### CAPÍTULO II. DE LA MOVILIZACIÓN DE ANIMALES, SUS PRODUCTOS, SUBPRODUCTOS Y ESQUILMOS
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 122.
 
-Para efectos de esta Ley, la SEDAFP deberá instalar en sitios estratégicos del territorio estatal, puntos de inspección y verificación que le permitan un mejor control en la introducción, movilización y salida de animales, sus productos, subproductos y esquilmos, en coordinación con la SAGARPA en materia de sanidad pecuaria.
+Para efectos de esta Ley, la Secretaría deberá instalar en sitios estratégicos del territorio estatal, puntos de inspección y verificación que le permitan un mejor control en la introducción, movilización y salida de animales, sus productos, subproductos y esquilmos, en coordinación con la SAGARPA en materia de sanidad pecuaria.
 
 ###### ARTÍCULO 123.
 
@@ -1309,9 +1437,11 @@ Sólo podrán internarse al territorio estatal animales, sus productos, subprodu
 
 En caso de que en las entidades o establecimientos indicados en el párrafo anterior se confirmara algún brote de enfermedades quedará automáticamente prohibido y no se permitirá la internación al Estado de animales, sus productos, subproductos y esquilmos, así como cualquier implemento de segunda mano utilizado en la actividad pecuaria, provenientes de dichas entidades o establecimientos, hasta que el problema sanitario quede debidamente resuelto por las autoridades correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 125.
 
-Toda introducción, movilización y salida de animales, sus productos, subproductos y esquilmos, deberá ampararse con un documento denominado guía de tránsito que será expedido por la SEDAFP, a través del verificador pecuario más cercano al origen, una vez que se compruebe:
+Toda introducción, movilización y salida de animales, sus productos, subproductos y esquilmos, deberá ampararse con un documento denominado guía de tránsito que será expedido por la Secretaría, a través del verificador pecuario más cercano al origen, una vez que se compruebe:
 
 I. La legal propiedad de los animales, sus productos, subproductos y esquilmos, por medio de su título de fierro de herrar vigente o por medio de la factura de compra-venta cuando se haya realizado la traslación de dominio, según sea el caso;
 
@@ -1319,7 +1449,9 @@ II. El pago de impuestos y derechos correspondientes,
 
 III. La presentación de los certificados zoosanitarios que establece la Ley Federal de Sanidad Animal,
 
-IV. En su caso, someter a los animales a la aplicación del baño garrapaticida Para los efectos de la última fracción anterior, sólo podrán realizarse en las estaciones cuarentenarias en el Estado, los puntos de verificación e inspección correspondientes y los baños de línea que determine la SEDAFP.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+IV. En su caso, someter a los animales a la aplicación del baño garrapaticida Para los efectos de la última fracción anterior, sólo podrán realizarse en las estaciones cuarentenarias en el Estado, los puntos de verificación e inspección correspondientes y los baños de línea que determine la Secretaría.
 
 Además, atendiendo los criterios, requisitos y normas sanitarias aplicables vigentes, deberá comprobar que:
 
@@ -1347,9 +1479,11 @@ La guía de tránsito expedida por el verificador pecuario correspondiente será
 
 Es obligatorio que en las guías se dibuje el fierro del propietario o poseedores y se anote el número de arete o cualquier otro medio de acreditación de la propiedad del ganado de que se trate, así como establecer la vigencia de la guía que será por el tiempo estrictamente necesario para la movilización del ganado hacia su destino.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 129.
 
-Las guías de tránsito estarán numeradas progresivamente, y serán proporcionadas por la SEDAFP a sus verificadores pecuarios; las guías se expedirán por triplicado: el original para el interesado o transportista, una copia para el verificador y otra para la SEDAFP, a quien se entregará con el informe mensual de actividades.
+Las guías de tránsito estarán numeradas progresivamente, y serán proporcionadas por la Secretaría a sus verificadores pecuarios; las guías se expedirán por triplicado: el original para el interesado o transportista, una copia para el verificador y otra para la Secretaría, a quien se entregará con el informe mensual de actividades.
 
 ###### ARTÍCULO 130.
 
@@ -1359,9 +1493,11 @@ Las guías de tránsito serán nominativas e intransferibles y, por lo tanto, lo
 
 El propietario de los animales, sus productos, subproductos y esquilmos, o quien realice la movilización del mismo, deberá cancelar la guía al llegar a su destino, previa revisión documental y física que realizará el verificador pecuario correspondiente.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 132.
 
-El ganadero cuyo asiento de producción se encuentre a distancia considerable del punto de verificación e inspección correspondiente, podrá solicitarle a la SEDAFP que le permita movilizar su ganado hasta el punto de inspección más cercano, para que en éste se le expida la guía de tránsito.
+El ganadero cuyo asiento de producción se encuentre a distancia considerable del punto de verificación e inspección correspondiente, podrá solicitarle a la Secretaría que le permita movilizar su ganado hasta el punto de inspección más cercano, para que en éste se le expida la guía de tránsito.
 
 ###### ARTÍCULO 133.
 
@@ -1383,9 +1519,11 @@ Cuando la documentación no reúna los requisitos previstos en esta Ley y no sea
 
 Toda persona, aún cuando fuere el criador, que por cualquier título transmita la propiedad de ganado, está obligada a suscribir y proporcionar el correspondiente documento que acredite la propiedad que ampare la movilización o traslado de dominio de los animales. Si no cumple con este requisito, el tercero que pretenda haber adquirido la propiedad del ganado referido no podrá ser tenido como adquirente o propietario y, en consecuencia, tampoco podrá movilizar el ganado de que se trate ni solicitar la expedición de guías de tránsito para subsecuentes movilizaciones del mismo.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 137.
 
-Si se altera la documentación o se sustituyen los animales, sus productos, subproductos y esquilmos aprobados previamente por la SEDAFP para su introducción, movilización y salida, se aplicarán las sanciones que disponga esta Ley, sin perjuicio de las que se le puedan aplicar por la responsabilidad civil o penal en que incurra.
+Si se altera la documentación o se sustituyen los animales, sus productos, subproductos y esquilmos aprobados previamente por la Secretaría para su introducción, movilización y salida, se aplicarán las sanciones que disponga esta Ley, sin perjuicio de las que se le puedan aplicar por la responsabilidad civil o penal en que incurra.
 
 ###### ARTÍCULO 138.
 
@@ -1409,9 +1547,11 @@ Queda prohibido embarcar ganado durante la noche, excepto en los casos en que se
 
 De conformidad con los convenios celebrados con la autoridad federal en materia de sanidad animal, queda prohibida la movilización de ganado que presente signos o síntomas infecto-contagiosos; cuando sea detectada esta anomalía, el conductor del ganado, el dueño de éste, los animales y los vehículos, se pondrán a disposición de las autoridades administrativas o ministeriales, locales o federales que correspondan, previa aplicación de la sanción que le correspondan de conformidad con esta Ley y su reglamento.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 143.
 
-Queda prohibido transportar despojos y cadáveres de animales que no sean utilizados para efectos de investigación o diagnóstico, para lo cual se requerirá la autorización de la SEDAFP.
+Queda prohibido transportar despojos y cadáveres de animales que no sean utilizados para efectos de investigación o diagnóstico, para lo cual se requerirá la autorización de la Secretaría.
 
 ###### ARTÍCULO 144.
 
@@ -1431,9 +1571,11 @@ Cuando el traslado se realice mediante arreos, deberá darse aviso al verificado
 
 Los baratillos y centros de venta de ganado quedarán sujetos, además de lo dispuesto en la presente Ley, a las ordenanzas municipales, y a las disposiciones estatales y federales aplicables.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 147.
 
-Para verificar que la movilización del ganado y la sanidad animal de los ejemplares que se dirijan a un baratillo o centro de venta cumplan con lo establecido en la presente Ley, la SEDAFP dispondrá de una volanta en los casos en los que no haya Puntos de Verificación.
+Para verificar que la movilización del ganado y la sanidad animal de los ejemplares que se dirijan a un baratillo o centro de venta cumplan con lo establecido en la presente Ley, la Secretaría dispondrá de una volanta en los casos en los que no haya Puntos de Verificación.
 
 ## TÍTULO DÉCIMO. DEL ABASTO PÚBLICO Y VENTA DE LOS PRODUCTOS DE ORIGEN ANIMAL
 
@@ -1449,9 +1591,11 @@ II. En corrales particulares en los lugares donde no exista rastro; en este caso
 
 III. En el campo o potreros donde se encuentren animales que representen un peligro de contagio, de ataque a humanos o que fueron gravemente lesionados y sea necesario sacrificarlos por razones humanitarias, se deberá informar a la autoridad municipal y al verificador pecuario, quienes otorgarán el permiso correspondiente.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 149.
 
-Para los efectos de la inspección y vigilancia ganadera, la SEDAFP llevará un registro de los rastros que funcionen en el Estado, para lo cual las autoridades municipales prestarán la colaboración necesaria.
+Para los efectos de la inspección y vigilancia ganadera, la Secretaría llevará un registro de los rastros que funcionen en el Estado, para lo cual las autoridades municipales prestarán la colaboración necesaria.
 
 ###### ARTÍCULO 150.
 
@@ -1467,9 +1611,11 @@ Todo rastro, sin perjuicio de lo que determinen otras disposiciones, tendrá un 
 
 ### CAPÍTULO II. LOS ESTABLECIMIENTOS DE DISTRIBUCIÓN
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 153.
 
-Es obligación de los ayuntamientos y las autoridades sanitarias estatales correspondientes informar a la SEDAFP, siempre que se realice la apertura de nuevos establecimientos de distribución de carne o la clausura de los mismos.
+Es obligación de los ayuntamientos y las autoridades sanitarias estatales correspondientes informar a la Secretaría, siempre que se realice la apertura de nuevos establecimientos de distribución de carne o la clausura de los mismos.
 
 ###### ARTÍCULO 154.
 
@@ -1485,9 +1631,11 @@ Los gobiernos federal y estatal conjuntarán acciones con las organizaciones de 
 
 Para dar cumplimiento a lo anterior, el CEFPPO elaborará oportunamente su Plan de Trabajo mismo que deberá ser puesto a consideración y aprobación de ambos órdenes de gobierno.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 156.
 
-La SEDAFP podrá otorgar los servicios de certificación de calidad y origen de los productos pecuarios oaxaqueños de conformidad con las disposiciones reglamentarias que deriven de la presente ley.
+La Secretaría podrá otorgar los servicios de certificación de calidad y origen de los productos pecuarios oaxaqueños de conformidad con las disposiciones reglamentarias que deriven de la presente ley.
 
 ###### ARTÍCULO 157.
 
@@ -1499,41 +1647,55 @@ Es obligación de los apicultores cumplir con las disposiciones legales relativa
 
 En todo caso, las autoridades correspondientes brindarán las facilidades necesarias para que los apicultores obtengan la información necesaria al respecto.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 159.
 
-Con la finalidad de establecer controles de calidad que permitan validar los análisis sobre la calidad de la miel, la SEDAFP llevará un registro de los laboratorios autorizados para la certificación de productos apícolas en el Estado.
+Con la finalidad de establecer controles de calidad que permitan validar los análisis sobre la calidad de la miel, la Secretaría llevará un registro de los laboratorios autorizados para la certificación de productos apícolas en el Estado.
 
 ## TÍTULO DÉCIMO SEGUNDO. DE LA COMERCIALIZACIÓN DE LOS PRODUCTOS PECUARIOS
 
 ### CAPÍTULO ÚNICO. LA COMERCIALIZACIÓN DE LOS PRODUCTOS Y SUBPRODUCTOS PECUARIOS
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 160.
 
-La SEDAFP, en coordinación con la Secretaría de Economía y Desarrollo Turístico, impulsará la búsqueda de mercados para la comercialización de los productos y subproductos pecuarios del Estado en los mercados nacionales e internacionales.
+La Secretaría, en coordinación con la Secretaría de Turismo y Desarrollo Económico, impulsará la búsqueda de mercados para la comercialización de los productos y subproductos pecuarios del Estado en los mercados nacionales e internacionales.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 161.
 
-La SEDAFP, en coordinación con los productores asociados, promoverá la creación de la infraestructura básica, el fomento de los negocios pecuarios, así como también la formación de grupos de interés económico de acuerdo a la transformación de los productos y conforme con la demanda del mercado local, nacional e internacional.
+La Secretaría, en coordinación con los productores asociados, promoverá la creación de la infraestructura básica, el fomento de los negocios pecuarios, así como también la formación de grupos de interés económico de acuerdo a la transformación de los productos y conforme con la demanda del mercado local, nacional e internacional.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 162.
 
-La SEDAFP proporcionará periódicamente a los productores a través de sus asociaciones o cuando lo solicite un productor, los detalles del comportamiento del precio de los productos en los diferentes mercados.
+La Secretaría proporcionará periódicamente a los productores a través de sus asociaciones o cuando lo solicite un productor, los detalles del comportamiento del precio de los productos en los diferentes mercados.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 163.
 
-La SEDAFP, con la participación de los productores, promoverá el consumo de productos y subproductos pecuarios oaxaqueños.
+La Secretaría, con la participación de los productores, promoverá el consumo de productos y subproductos pecuarios oaxaqueños.
 
 ## TÍTULO DÉCIMO TERCERO. DE LA CONSERVACIÓN Y MEJORAMIENTO DE TIERRAS PARA CRIADEROS, AGOSTADEROS Y PRADERAS ARTIFICIALES
 
 ### CAPÍTULO ÚNICO. CONSERVACIÓN Y MEJORAMIENTO DE LOS AGOSTADEROS
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 164.
 
-La SEDAFP deberá establecer Programas para la conservación, mantenimiento, mejoramiento y adaptación de terrenos para su uso como agostadero, la regeneración de pastizales y reforestación de montes aprovechables para cría de ganado y la siembra de praderas inducidas.
+La Secretaría deberá establecer Programas para la conservación, mantenimiento, mejoramiento y adaptación de terrenos para su uso como agostadero, la regeneración de pastizales y reforestación de montes aprovechables para cría de ganado y la siembra de praderas inducidas.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 165.
 
-La SEDAFP deberá establecer Programas para la conservación y uso sustentable del agua, a través de la construcción de presas, represas y bordos de abrevaderos.
+La Secretaría deberá establecer Programas para la conservación y uso sustentable del agua, a través de la construcción de presas, represas y bordos de abrevaderos.
 
 ###### ARTÍCULO 166.
 
@@ -1553,13 +1715,17 @@ El estudio de manejo del predio, determinará el coeficiente de agostadero de lo
 
 De los agostaderos sobrecargados deberá ser inmediatamente desalojado el exceso de animales en base a estudio técnico del manejo del predio.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 168.
 
-Los ganaderos, pequeños propietarios, ejidatarios, comuneros, colonos y en general todos los que se dediquen a la ganadería que tengan en aprovechamiento pastizales naturales, deberán cumplir con los coeficientes de agostaderos que establezca el estudio de manejo, que contemple buenas prácticas en el uso racional de sus agostaderos, con carga animal acorde; eliminar ganado improductivo; implementar sistemas de sanidad animal para prevenir y atacar enfermedades propias del ganado, entre otras, hasta alcanzar con los programas de apoyo al campo, la certificación del uso adecuado de su predio o bien obtener el reconocimiento a través de despachos acreditados por la SEDAFP.
+Los ganaderos, pequeños propietarios, ejidatarios, comuneros, colonos y en general todos los que se dediquen a la ganadería que tengan en aprovechamiento pastizales naturales, deberán cumplir con los coeficientes de agostaderos que establezca el estudio de manejo, que contemple buenas prácticas en el uso racional de sus agostaderos, con carga animal acorde; eliminar ganado improductivo; implementar sistemas de sanidad animal para prevenir y atacar enfermedades propias del ganado, entre otras, hasta alcanzar con los programas de apoyo al campo, la certificación del uso adecuado de su predio o bien obtener el reconocimiento a través de despachos acreditados por la Secretaría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 169.
 
-Cuando previo estudio y dictamen de un determinado predio exista sobreexplotación de los recursos naturales relacionados con la ganadería, la SEDAFP hará del conocimiento del propietario o poseedor, las condiciones en que dicho predio se encuentre, y le ordenará la aplicación de las siguientes medidas:
+Cuando previo estudio y dictamen de un determinado predio exista sobreexplotación de los recursos naturales relacionados con la ganadería, la Secretaría hará del conocimiento del propietario o poseedor, las condiciones en que dicho predio se encuentre, y le ordenará la aplicación de las siguientes medidas:
 
 I. El desalojo del ganado improductivo, entendiéndose como tal equino, mular y asnal;
 
@@ -1595,9 +1761,11 @@ III. Conservar los otros recursos naturales de su pastizal como lo son: la fauna
 
 IV. Sujetarse a las Leyes federales y estatales que resulten aplicables, para destinar los terrenos de agostadero a fines diferentes.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 174.
 
-Todo predio donde se encuentre ganado deberá estar delimitado en sus linderos mediante cercos construidos con material resistente y adecuado, conforme a las especificaciones que determine la SEDAFP de acuerdo a las necesidades de la especie de ganado de que se trate. La SEDAFP podrá proporcionar asesoría para la construcción de estos cercos.
+Todo predio donde se encuentre ganado deberá estar delimitado en sus linderos mediante cercos construidos con material resistente y adecuado, conforme a las especificaciones que determine la Secretaría de acuerdo a las necesidades de la especie de ganado de que se trate. La Secretaría podrá proporcionar asesoría para la construcción de estos cercos.
 
 ###### ARTÍCULO 175.
 
@@ -1605,9 +1773,11 @@ Los propietarios de terrenos, arrendatarios o usufructuarios de potreros natural
 
 Es obligatorio construir guardaganados en los lugares de acceso de un predio ganadero a otro agrícola o a una vía pública a fin de evitar las introducciones o salida de ganado y los daños que el mismo pudiera ocasionar.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 176.
 
-Los poseedores o propietarios de predios ganaderos colindantes entre sí, que carezcan de cercos divisorios por existir desacuerdo sobre el lindero en que deban construirse, podrán someterse al arbitraje de la SEDAFP o acudir ante las autoridades jurisdiccionales competentes para que éstas resuelvan en definitiva lo conducente.
+Los poseedores o propietarios de predios ganaderos colindantes entre sí, que carezcan de cercos divisorios por existir desacuerdo sobre el lindero en que deban construirse, podrán someterse al arbitraje de la Secretaría o acudir ante las autoridades jurisdiccionales competentes para que éstas resuelvan en definitiva lo conducente.
 
 ###### ARTÍCULO 177.
 
@@ -1705,9 +1875,11 @@ Los médicos veterinarios que lleven a cabo vacunaciones, desparasitaciones y ef
 
 ### CAPÍTULO II. DE LAS MEDIDAS DE CONTROL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 196.
 
-En los casos de aparición de una enfermedad contagiosa en los animales y cuando ésta sea estimada peligrosa por la SEDAFP notificará a la SAGARPA quien, de considerarlo procedente, hará la declaratoria de cuarentena, pudiendo la SEDAFP en ejercicio de las funciones que le confiera la SAGARPA, tomar las siguientes medidas:
+En los casos de aparición de una enfermedad contagiosa en los animales y cuando ésta sea estimada peligrosa por la SEDAFP notificará a la SAGARPA quien, de considerarlo procedente, hará la declaratoria de cuarentena, pudiendo la Secretaría en ejercicio de las funciones que le confiera la SAGARPA, tomar las siguientes medidas:
 
 I. Colocar bajo la vigilancia de sanidad y control de movilización el tránsito de los animales, sus productos, subproductos, esquilmos y despojos de éstos fuera de los límites de la propiedad, lugar o zona infectada;
 
@@ -1729,9 +1901,11 @@ IX. Las demás que de conformidad con la Ley Federal de Sanidad Animal o las dis
 
 Cuando una persona esté en contacto con animales, sus productos, subproductos, esquilmos y despojos afectados por una enfermedad infectocontagiosa será sujeto de una medida sanitaria, y el verificador pecuario dará aviso inmediato a la autoridad correspondiente.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 197.
 
-Una vez que haya sido declarado en cuarentena un hato de una región específica o de una propiedad en particular, la SEDAFP a través de los verificadores pecuarios, en coordinación con las autoridades federales y municipales competentes, deberán proceder a cuidar del cumplimiento de las disposiciones emanadas de la Ley Federal de Sanidad Animal o la demás legislación aplicable para campañas zoosanitarias.
+Una vez que haya sido declarado en cuarentena un hato de una región específica o de una propiedad en particular, la Secretaría a través de los verificadores pecuarios, en coordinación con las autoridades federales y municipales competentes, deberán proceder a cuidar del cumplimiento de las disposiciones emanadas de la Ley Federal de Sanidad Animal o la demás legislación aplicable para campañas zoosanitarias.
 
 ###### ARTÍCULO 198.
 
@@ -1755,21 +1929,27 @@ Todos los vehículos que internen animales, productos y subproductos pecuarios, 
 
 ### CAPÍTULO I. LA ORGANIZACIÓN Y PROMOCIÓN
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 207.
 
-La SEDAFP, en colaboración con la SAGARPA y en coordinación con la Secretaría de Turismo y Desarrollo Económico y las demás Dependencias y Entidades de la Administración Pública Estatal que correspondan conforme a sus facultades, y con la participación de las Uniones Ganaderas Regionales, fomentará la realización de exposiciones y concursos de ganado, regionales y estatales.
+La Secretaría, en colaboración con la SAGARPA y en coordinación con la Secretaría de Turismo y Desarrollo Económico y las demás Dependencias y Entidades de la Administración Pública Estatal que correspondan conforme a sus facultades, y con la participación de las Uniones Ganaderas Regionales, fomentará la realización de exposiciones y concursos de ganado, regionales y estatales.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 208.
 
-Los jurados que califiquen serán designados por la SEDAFP y la SAGARPA.
+Los jurados que califiquen serán designados por la Secretaría y la SAGARPA.
 
 ###### ARTÍCULO 209.
 
 Las bases a que se sujetarán los concursantes y los jurados calificadores en las exposiciones estatales y regionales, se basarán en los reglamentos de las exposiciones nacionales ganaderas, dándose a conocer en cada caso a los concursantes.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 210.
 
-Todos los animales participantes deberán ser sometidos a la revisión fenotípica correspondiente por personal de la SEDAFP y los organizadores de la misma.
+Todos los animales participantes deberán ser sometidos a la revisión fenotípica correspondiente por personal de la Secretaría y los organizadores de la misma.
 
 ### CAPÍTULO II. LA SANIDAD DE LOS ANIMALES EN EXPOSICIÓN
 
@@ -1791,13 +1971,19 @@ Son obligaciones de los apicultores:
 
 I.- Respetar el derecho de antigüedad que tengan otros apicultores cuando pretenda establecer nuevos apiarios en la zona;
 
-II.- Informar a la SEDAFP la ubicación de sus apiarios, anexando un plano o croquis de su localización;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
 
-III.- Tramitar ante la SEDAFP la licencia para el aprovechamiento de una zona apícola;
+II.- Informar a la Secretaría la ubicación de sus apiarios, anexando un plano o croquis de su localización;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+III.- Tramitar ante la Secretaría la licencia para el aprovechamiento de una zona apícola;
 
 IV.- Cumplir con las medidas de seguridad que dicten las autoridades competentes para la protección de las personas y de los animales;
 
-V.- Informar anualmente a la SEDAFP del inicio de su ciclo de actividades proporcionando datos estadísticos respecto de su aprovechamiento, de acuerdo a lo que establezca el reglamento, pero que en todo caso deberá contener el número de colmenas, tipos de productos que aprovecha para consumo o comercialización y bitácora sobre su manejo sanitario;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+V.- Informar anualmente a la Secretaría del inicio de su ciclo de actividades proporcionando datos estadísticos respecto de su aprovechamiento, de acuerdo a lo que establezca el reglamento, pero que en todo caso deberá contener el número de colmenas, tipos de productos que aprovecha para consumo o comercialización y bitácora sobre su manejo sanitario;
 
 VI.- Movilizar sus colmenas o núcleos perfectamente cubiertas con mallas o cualquier otro material con la finalidad de proteger a la población civil de una posible salida de abejas. El vehículo deberá portar una leyenda claramente visible que señale que en su interior se transportan colonias de abejas para su fácil identificación, y
 
@@ -1809,13 +1995,17 @@ VII.- Las demás que establezca esta Ley y su reglamento.
 
 Se declara de utilidad pública e interés social en el Estado, el aprovechamiento de la flora melífera.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 215.
 
-La SEDAFP levantará y actualizará periódicamente el inventario de la flora melífera en la entidad y en función de ésta, determinará las zonas apícolas que permitan el fomento de la actividad.
+La Secretaría levantará y actualizará periódicamente el inventario de la flora melífera en la entidad y en función de ésta, determinará las zonas apícolas que permitan el fomento de la actividad.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 216.
 
-Para el aprovechamiento sustentable de la flora melífera, la SEDAFP podrá otorgar las licencias a los apicultores que instalen apiarios con un mínimo de 60 colmenas.
+Para el aprovechamiento sustentable de la flora melífera, la Secretaría podrá otorgar las licencias a los apicultores que instalen apiarios con un mínimo de 60 colmenas.
 
 ###### ARTÍCULO 217.
 
@@ -1825,15 +2015,19 @@ El apicultor al obtener la licencia de aprovechamiento adquiere el derecho de ex
 
 El derecho de exclusividad y preferencia se perderá si durante dos ciclos apícolas seguidos no se aprovecha la zona que se anota en la licencia de aprovechamiento, cancelándose la vigencia de la misma.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 219.
 
-La SEDAFP cooperará con las autoridades de otras áreas productivas, principalmente agrícola, para que en épocas de quemas y desmonte se respete una distancia de 400 metros del punto de instalación de las colmenas que permita el pecoreo de las abejas.
+La Secretaría cooperará con las autoridades de otras áreas productivas, principalmente agrícola, para que en épocas de quemas y desmonte se respete una distancia de 400 metros del punto de instalación de las colmenas que permita el pecoreo de las abejas.
 
 ### CAPÍTULO III. DE LA PROTECCIÓN APÍCOLA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 220.
 
-La SEDAFP, en coordinación con el Sistema Producto Apícola, establecerán programas permanentes para la introducción y cría de reinas de razas puras europeas como medida para controlar la africanización.
+La Secretaría, en coordinación con el Sistema Producto Apícola, establecerán programas permanentes para la introducción y cría de reinas de razas puras europeas como medida para controlar la africanización.
 
 Asimismo, se promoverán programas que tiendan al cambio de colmenas rústicas a modernas.
 
@@ -1853,9 +2047,11 @@ Las colmenas que se utilicen para la producción y venta de las abejas reinas de
 
 ### CAPÍTULO IV. DE LA INSPECCIÓN APÍCOLA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 224.
 
-Con el objeto de vigilar que se cumplan las normas de sanidad e higiene y de aspectos zootécnicos la SEDAFP practicará periódicamente las inspecciones en los apiarios y centros de acopio y beneficio prestando especial interés de que los medicamentos y productos químicos que se utilizan para el manejo de las colmenas no sean catalogados como prohibidos.
+Con el objeto de vigilar que se cumplan las normas de sanidad e higiene y de aspectos zootécnicos la Secretaría practicará periódicamente las inspecciones en los apiarios y centros de acopio y beneficio prestando especial interés de que los medicamentos y productos químicos que se utilizan para el manejo de las colmenas no sean catalogados como prohibidos.
 
 En su caso, las inspecciones podrán efectuarse en el lugar de los apiarios, durante la movilización de las colmenas y sus productos, en las bodegas, plantas de extracción, sedimentación y envasado.
 
@@ -1885,7 +2081,11 @@ La instalación de las colmenas para la prestación del servicio de polinizació
 
 ### CAPÍTULO II. LAS SANCIONES Y SU APLICACIÓN
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ### CAPÍTULO III. DE LA DEFENSA DE PARTICULARES
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
 ## TÍTULO DÉCIMO OCTAVO. DE LAS RESPONSABILIDADES, SANCIONES Y DEFENSA DE PARTICULARES
 
@@ -1893,11 +2093,13 @@ La instalación de las colmenas para la prestación del servicio de polinizació
 
 Las autoridades encargadas de aplicar esta Ley, y demás servidores públicos estatales y municipales competentes en la materia, están sujetos a las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca; por lo tanto, cualquier persona podrá denunciar actos u omisiones que constituyan causa de responsabilidad de los servidores públicos.
 
-Las denuncias serán presentadas ante la SEDAFP o, en su caso, ante la Secretaría de la Contraloría y Transparencia Gubernamental del Estado.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
+Las denuncias serán presentadas ante la Secretaría o, en su caso, ante la Secretaría de la Contraloría y Transparencia Gubernamental del Estado.
 
 ###### ARTÍCULO 231.
 
-Las violaciones a las disposiciones de esta Ley y demás disposiciones que emanen de la misma, serán sancionadas administrativamente por la SEDAFP, la Secretaría de la Contraloría y Transparencia Gubernamental o las autoridades municipales competentes en su caso, sin perjuicio de las penas que se le apliquen cuando sean constitutivas de un delito y el pago de daños y perjuicios correspondientes.
+Las violaciones a las disposiciones de esta Ley y demás disposiciones que emanen de la misma, serán sancionadas administrativamente por la Secretaría, la Secretaría de la Contraloría y Transparencia Gubernamental o las autoridades municipales competentes en su caso, sin perjuicio de las penas que se le apliquen cuando sean constitutivas de un delito y el pago de daños y perjuicios correspondientes.
 
 ###### ARTÍCULO 232.
 
@@ -1935,7 +2137,9 @@ XV. A quien introduzca ganado, productos y subproductos pecuarios y esquilmos al
 
 XVI. A quien introduzca ganado de otra Entidad y lo movilice hacia un tercer Estado haciéndolo pasar como originario del Estado de Oaxaca, se le sancionará con multa equivalente de diez mil a veinte mil días de salario mínimo se dará vista al Ministerio Público;
 
-XVII. A quien una vez obtenido el visto bueno de la SEDAFP para la movilización, altere la documentación o cualquier otra identificación o sustituya el ganado, se cancelará la documentación y se le impondrá multa de siete mil a quince mil días de salario mínimo;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+XVII. A quien una vez obtenido el visto bueno de la Secretaría para la movilización, altere la documentación o cualquier otra identificación o sustituya el ganado, se cancelará la documentación y se le impondrá multa de siete mil a quince mil días de salario mínimo;
 
 XVIII. A quien incumpla con los artículos 179 y 183 de esta Ley, se hará acreedor de una multa equivalente de siete mil a quince mil días de salario mínimo;
 
@@ -2017,9 +2221,11 @@ VIII.- Vendan o utilicen en sus colmenas productos farmacéuticos no permitidos.
 
 IX.- Utilicen agroquímicos tóxicos para las abejas en contravención con lo dispuesto en el artículo 158.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 239.
 
-Las multas serán determinadas e impuestas por la SEDAFP y enviadas para hacerlas efectivas a la Secretaría de Finanzas, para su registro, control y seguimiento.
+Las multas serán determinadas e impuestas por la Secretaría y enviadas para hacerlas efectivas a la Secretaría de Finanzas, para su registro, control y seguimiento.
 
 Las multas tendrán el carácter de créditos fiscales, por lo que en caso de negativa del pago se empleará el procedimiento económico coactivo que establece el Código Fiscal del Estado y demás disposiciones aplicables.
 
@@ -2029,21 +2235,27 @@ Las sanciones serán impuestas, independientemente de las que resulten de la apl
 
 Las sanciones previstas en la presente ley, se fijarán tomando en cuenta los mínimos y máximos que se contemplan, en atención a las circunstancias en que se realizó la infracción, a la mayor o menor responsabilidad y condiciones económicas del infractor, al daño que causó o pudo causar a la actividad ganadera, a la sanidad animal o a los consumidores.
 
-La SEDAFP será la autoridad que se hará cargo de la calificación de las sanciones, fundando y motivando para tales efectos, los argumentos que tuvo para imponer la sanción atendiendo a las circunstancias que se señalan en el párrafo que antecede.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
+La Secretaría será la autoridad que se hará cargo de la calificación de las sanciones, fundando y motivando para tales efectos, los argumentos que tuvo para imponer la sanción atendiendo a las circunstancias que se señalan en el párrafo que antecede.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 241.
 
-El Gobernador del Estado, deberá decretar en su caso, que los recursos económicos recaudados por la aplicación de las sanciones que establece esta Ley, constituyan un fondo especial mediante el cual, la SEDAFP llevará a cabo las acciones para el fomento y desarrollo de la ganadería y sus actividades complementarias.
+El Gobernador del Estado, deberá decretar en su caso, que los recursos económicos recaudados por la aplicación de las sanciones que establece esta Ley, constituyan un fondo especial mediante el cual, la Secretaría llevará a cabo las acciones para el fomento y desarrollo de la ganadería y sus actividades complementarias.
 
 ###### ARTÍCULO 242.
 
 Cuando en esta Ley se faculte a la Autoridad Municipal para imponer sanciones, corresponderá al Presidente Municipal dictar el acuerdo relativo.
 
-En los casos en que esta Ley no especifique la sanción correspondiente, pero otorgue competencia a la Autoridad Municipal, ésta se limitará a aplicar multas de cincuenta a ciento cincuenta veces el salario mínimo diario, sin perjuicio de poner en conocimiento de la SEDAFP o de otra autoridad municipal o estatal competente los hechos que pudieran constituir infracción o delito y cuya sanción no sea de su competencia.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
+En los casos en que esta Ley no especifique la sanción correspondiente, pero otorgue competencia a la Autoridad Municipal, ésta se limitará a aplicar multas de cincuenta a ciento cincuenta veces el salario mínimo diario, sin perjuicio de poner en conocimiento de la Secretaría o de otra autoridad municipal o estatal competente los hechos que pudieran constituir infracción o delito y cuya sanción no sea de su competencia.
 
 ###### ARTÍCULO 243.
 
-En contra de los actos y resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, su reglamento, se podrá interponer el recurso de inconformidad, previsto en el Código de Justicia Administrativa para el Estado.
+En contra de los actos y resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, su Reglamento, se podrá interponer el recurso de inconformidad, previsto en la Ley de Justicia Administrativa para el Estado.
 
 ###### ARTÍCULO 244.
 
@@ -2102,3 +2314,9 @@ Tlalixtac de Cabrera, Centro Oax., a 16 de Agosto de 2011.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 C.P.A. JESÚS EMILIO MARTÍNEZ ÁLVAREZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE JUNIO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
