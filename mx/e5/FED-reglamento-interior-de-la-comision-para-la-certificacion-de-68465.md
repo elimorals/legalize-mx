@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-para-la-certificacion-de-684
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-19"
-last_updated: "2009-05-19"
+last_updated: "2012-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68465&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2008-09-02"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION PARA LA CERTIFICACION DE ESTABLECIMIENTOS DE ATENCION MEDICA
 
-REGLAMENTO INTERIOR DE LA COMISION PARA LA CERTIFICACION DE ESTABLECIMIENTOS DE ATENCION MEDICA
+REGLAMENTO INTERIOR DE LA COMISIÓN PARA LA CERTIFICACIÓN DE ESTABLECIMIENTOS DE ATENCIÓN MÉDICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JUNIO DE 2012.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 19 de mayo de 2009.
 
@@ -55,7 +55,9 @@ e) Cuotas de Certificación, a la cuota de recuperación que paga un establecimi
 
 La Comisión de Certificación depende del Consejo y es el órgano colegiado de dirección del SiNaCEAM, tendrá a su cargo la aprobación de sus estrategias, políticas, normas, y plan anual de trabajo, así como la supervisión y el control general de sus resultados.
 
-La Comisión de Certificación se integra por el Secretario del Consejo quien la presidirá y los representantes de: la Secretaría de Salud; la Secretaría de la Defensa Nacional, la Secretaría de Marina; la Academia Nacional de Medicina de México, A.C.; la Academia Mexicana de Cirugía, A.C.; el Instituto Mexicano del Seguro Social; el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; la Universidad Nacional Autónoma de México; los Servicios Estatales de Salud de las Zonas Noroeste, Noreste, Centro y Sureste, así como la Secretaría de Salud del Gobierno del Distrito Federal; Petróleos Mexicanos; la Sociedad Mexicana de Salud Pública; la Asociación Nacional de Hospitales Privados, A.C.; el Colegio Médico de México, A.C.; el Colegio Mexicano de Licenciados en Enfermería, A.C.; la Comisión Federal para la Protección contra Riesgos Sanitarios; la Comisión Nacional de Arbitraje Médico; la Asociación Mexicana de Facultades y Escuelas de Medicina; la Sociedad Mexicana de Calidad de la Atención a la Salud, A.C. y la Asociación Mexicana de Hospitales, A.C.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2012)</small>
+
+La Comisión de Certificación se integra por el Secretario del Consejo quien la presidirá y los representantes de: la Secretaría de Salud; la Secretaría de la Defensa Nacional, la Secretaría de Marina; la Academia Nacional de Medicina de México, A.C.; la Academia Mexicana de Cirugía, A.C.; el Instituto Mexicano del Seguro Social; el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; la Universidad Nacional Autónoma de México; los Servicios Estatales de Salud de las Zonas Noroeste, Noreste, Centro y Sureste, así como la Secretaría de Salud del Gobierno del Distrito Federal; Petróleos Mexicanos; la Sociedad Mexicana de Salud Pública; la Asociación Nacional de Hospitales Privados, A.C.; el Colegio Médico de México, A.C.; el Colegio Mexicano de Licenciados en Enfermería, A.C.; la Comisión Federal para la Protección contra Riesgos Sanitarios; la Comisión Nacional de Arbitraje Médico; la Asociación Mexicana de Facultades y Escuelas de Medicina; la Sociedad Mexicana de Calidad de la Atención a la Salud, A.C.; la Asociación Mexicana de Hospitales, A.C. y dos Institutos Nacionales de Salud.
 
 Quienes representen a las instituciones públicas deberán tener un nivel inmediato inferior al del titular y podrán designar a un suplente, el cual deberá tener conocimiento y vinculación con el SiNaCEAM.
 
@@ -237,6 +239,36 @@ De las sesiones del Pleno se levantará Acta, en la que se incorporará tipo de 
 
 Los Dictámenes de la Comisión de Certificación se comunicarán a los establecimientos de atención médica respectivos dentro de los cinco días hábiles posteriores a la a la (sic) sesión donde se haya realizado la revisión de los casos.
 
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2012)</small>
+
+En caso de que la Comisión de Certificación haya emitido el dictamen de no certificar al establecimiento de atención médica, de conformidad con el artículo 13 del presente Reglamento, el establecimiento de atención médica podrá ejercer el derecho de réplica, conforme a lo siguiente:
+
+1. El escrito de réplica deberá contener:
+
+- Lugar y fecha de emisión.
+
+- Nombre, denominación o razón social de quien o quienes promuevan la solicitud, o en su caso de su representante legal o apoderado.
+
+- Domicilio para recibir notificaciones y nombre de la persona o personas autorizadas para recibirlas.
+
+- Exposición clara y debidamente argumentada de los hechos y razones que motivan y justifican la solicitud. Se podrán anexar documentos y fotografías o cualquier otra prueba que se estime pertinente, fijando los puntos sobre los que versen y que apoyen sus argumentos.
+
+2. La réplica deberá presentarse ante el Consejo de Salubridad General dentro de los cinco días hábiles siguientes a la notificación del dictamen de la Comisión para la Certificación de Establecimientos de Atención Médica.
+
+3. El Consejo de Salubridad General acordará dentro de los tres días hábiles siguientes a la fecha de presentación, respecto de la admisibilidad de la réplica, y en su caso de las pruebas ofrecidas. Sólo podrán desecharse las pruebas propuestas por los interesados cuando no tengan relación con el fondo del asunto, sean innecesarias o contrarias a la moral y al derecho. Tal resolución se notificará al interesado debidamente fundada y motivada.
+
+4. El desahogo de las pruebas admitidas se realizará dentro de un plazo no mayor a quince días hábiles, contado a partir de su admisión. Si las pruebas ameritan su desahogo en el establecimiento de atención médica, ésta se realizará un (sic) plazo no mayor a quince días hábiles.
+
+5. La práctica de las actuaciones necesarias para el desahogo de las pruebas que hayan sido admitidas, lo notificará formalmente el Consejo de Salubridad General a los interesados, con una anticipación de tres días hábiles.
+
+6. Para tener información más detallada sobre el establecimiento de atención médica en el que se esté llevando a cabo una revisión de dictamen, el Consejo de Salubridad General podrá solicitar un informe u opinión a los miembros del equipo auditor involucrados el respectivo “Informe de Auditoría”.
+
+7. Una vez desahogadas las pruebas admitidas, se pondrán las actuaciones a disposición de los interesados, para que en su caso, formulen alegatos por escrito, en un plazo no mayor a diez días hábiles, los que serán tomados en cuenta por el Secretario del Consejo de Salubridad General al dictar la resolución.
+
+8. A partir de lo anterior, el Consejo de Salubridad General resolverá lo que corresponda, en un plazo no mayor a tres meses.
+
+El trámite y resolución de toda réplica se hará de conocimiento en Sesión Ordinaria de la Comisión para la Certificación de Establecimientos de Atención Médica.
+
 ### CAPITULO VI. DE LA MODIFICACION DEL REGLAMENTO
 
 ###### Artículo 16.
@@ -254,3 +286,11 @@ PRIMERO: El presente Reglamento entrará en vigor al día siguiente de su public
 SEGUNDO: El presente Reglamento abroga el Reglamento Interior de la Comisión para la Certificación de Establecimientos de Servicios de Salud, publicado en el Diario Oficial de la Federación el 22 de octubre de 2003.
 
 México, Distrito Federal, a los dos días del mes de septiembre de dos mil ocho.- El Presidente de la Comisión para la Certificación de Establecimientos de Atención Médica, Enrique Juan Diego Ruelas Barajas.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 22 DE JUNIO DE 2012.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La representación de los Institutos Nacionales de Salud se rotará cada dos años, en el orden que determine el Presidente del Consejo de Salubridad General, con base en las propuestas que le haga la Comisión Coordinadora del Instituto Nacional de Salud y Hospitales de Alta Especialidad.
