@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2012-05-30"
+last_updated: "2012-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2012.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -4783,41 +4783,17 @@ La pena de prisión podrá ser disminuida hasta en una tercera parte en benefici
 
 El Estado y los municipios serán solidariamente responsables del pago de los daños y perjuicios causados por sus servidores públicos.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE NOVIEMBRE DE 2008)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO CUARTO DE LA LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VICTIMAS DE ESTOS DELITOS EN EL ESTADO DE OAXACA, P.O. 22 DE JUNIO DE 2012)</small>
 
 ### CAPITULO V.
 
 Trata de personas.
 
-> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2008)</small>
+348 Bis F.- (DEROGADO POR TRANSITORIO CUARTO DE LA LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VICTIMAS DE ESTOS DELITOS EN EL ESTADO DE OAXACA, P.O. 22 DE JUNIO DE 2012)
 
-348 Bis F.- Comete el delito de trata de personas quien para sí o para un tercero, induzca, procure, promueva, capte, reclute, facilite, traslade solicite, consiga, ofrezca, mantenga, entregue o reciba a una persona recurriendo a la violencia física o moral, a la privación de la libertad, al engaño, al abuso de poder, al aprovechamiento de una situación de vulnerabilidad o a la concesión o recepción de pagos o beneficios para someterla a explotación.
+348 Bis G.- (DEROGADO POR TRANSITORIO CUARTO DE LA LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VICTIMAS DE ESTOS DELITOS EN EL ESTADO DE OAXACA, P.O. 22 DE JUNIO DE 2012)
 
-Para efectos de este artículo se entenderá por explotación el obtener provecho económico o cualquier otro beneficio para sí o para otra persona, mediante la prostitución ajena u otras formas de aprovechamiento sexual, los trabajos o servicios forzados, la esclavitud o para extraer sus órganos, tejidos o sus componentes.
-
-Cuando las conductas anteriores recaigan en una persona menor de dieciocho años de edad o persona que no tengan la capacidad de comprender el significado del hecho, se considerará como trata de personas incluso cuando no se recurra a ninguno de los medios comisivos señalados en el primer párrafo del presente artículo.
-
-> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2008)</small>
-
-348 Bis G.- El consentimiento otorgado por la víctima en cualquier modalidad del delito de trata de personas no constituirá causa que excluye el delito.
-
-> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2008)</small>
-
-348 Bis H.- A quien cometa el delito de trata de personas se le sancionará con prisión de doce a dieciocho años, y de seiscientos a mil trescientos cincuenta días multa.
-
-Se sancionará con prisión de dieciocho a veintisiete años y multa de mil doscientos a mil quinientos días multa en los siguientes casos:
-
-A) Si el delito es cometido en contra de una persona menor de dieciocho años de edad;
-
-B) Si el delito es cometido en contra de una persona mayor de sesenta años de edad;
-
-C) Si el delito es cometido en contra de quien no tenga capacidad para comprender el significado del hecho;
-
-D) Cuando el sujeto activo se valiese de su calidad de servidor público o se haya ostentado como tal, sin serlo. Además se impondrá la destitución del empleo, cargo o comisión públicos e inhabilitación para desempeñar por un tiempo igual al de la pena de prisión impuesta, que iniciará una vez haya compurgado la pena privativa de libertad;
-
-E) Cuando el sujeto activo del delito tenga parentesco por consaguinidad (sic) o afinidad hasta en el cuarto grado, o parentesco civil, o habite en el mismo domicilio con la víctima, o tenga una relación sentimental o de confianza con el sujeto pasivo. Además, .en su caso, perderá la patria potestad, tutela, guarda y custodia, régimen de visitas y convivencias, el derecho de alimentos que le correspondiere por su relación con la víctima y el derecho que pudiere tener respecto de los bienes de ésta; y
-
-F) Si el sujeto activo es ministro de un culto religioso.
+348 Bis H.- (DEROGADO POR TRANSITORIO CUARTO DE LA LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VICTIMAS DE ESTOS DELITOS EN EL ESTADO DE OAXACA, P.O. 22 DE JUNIO DE 2012)
 
 TITULO DECIMONOVENO.
 
@@ -5730,6 +5706,16 @@ P.O. 30 DE MAYO DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE JUNIO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Estado.
+
+SEGUNDO.- La Comisión se integrará en un plazo de 60 días contados a partir de la entrada en vigor de la presente Ley. La Comisión expedirá el Reglamento de la Ley en un término de 180 días hábiles posteriores a su instalación.
+
+TERCERO.- La Comisión presentará el Programa en el plazo de un año, contado a partir de la entrada en vigor de la presente ley.
+
+CUARTO.- La Presente Ley deroga los delitos objetos de la misma del Código Penal para el Estado Libre y Soberano de Oaxaca.
 
 ###### Artículo 10.
 
