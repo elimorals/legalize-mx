@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2012-02-22"
+last_updated: "2012-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -232,6 +232,10 @@ El Gobierno Estatal y los Ayuntamientos podrán celebrar convenios entre ellos o
 ###### Artículo 13.
 
 Las autoridades educativas tomarán medidas tendientes a establecer condiciones que permitan el ejercicio pleno del derecho a la educación de cada individuo, una mayor equidad educativa, el logro de la efectiva igualdad en oportunidades de acceso y permanencia en los servicios educativos, así como, a los beneficios del desarrollo.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2012)</small>
+
+La autoridad educativa implementará programas especiales, que prevengan y atiendan de forma permanente los casos de ausentismo y deserción escolar de las niñas y los niños, con el fin de lograr su reintegración inmediata al sistema estatal de educación básica, informando de ello a la Procuraduría de la Defensa del Menor y la Familia para que en ejercicio de sus atribuciones legales coadyuve a que los menores ocurran a su instrucción básica.
 
 ###### Artículo 14.
 
@@ -1446,3 +1450,7 @@ P.O. 25 DE NOVIEMBRE DE 2011.
 P.O. 22 DE FEBRERO DE 2012.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 22 DE JUNIO DE 2012.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
