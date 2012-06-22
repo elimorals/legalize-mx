@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-salud-del-estado-de-queretaro-72781"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-30"
-last_updated: "2012-03-09"
+last_updated: "2012-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE SALUD DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 30 de enero de 2010.
 
@@ -175,7 +175,9 @@ X. Servicios de baños públicos;
 
 XI. Centros de reunión y espectáculos;
 
-XII. Servicios de salones de belleza y peluquerías;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+XII. Servicios de peluquerías, salones de belleza, estéticas, centros de masajes y otros similares;
 
 XIII. Establecimientos de hospedaje;
 
@@ -457,9 +459,13 @@ X. Coordinar el proceso de programación de las actividades de salud en el Estad
 
 > <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-XI. Implementar programas en materia de nutrición, tendientes a disminuir los índices de malnutrición en la población y en particular a los menores de edad y adolescentes en el Estado de Querétaro; y
+XI. Implementar programas en materia de nutrición, tendientes a disminuir los índices de malnutrición en la población y en particular a los menores de edad y adolescentes en el Estado de Querétaro; y (sic)
 
-XII. Las demás facultades que se requieran para el cumplimiento de los objetivos del Sistema de Salud del Estado de Querétaro y las que determinen las disposiciones generales aplicables.
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+XII. Organizar, operar, supervisar y evaluar, en coordinación con la Secretaría de Salud Federal, en el ámbito de su competencia y de conformidad con las disposiciones legales aplicables, el desarrollo de la investigación en las instituciones de salud, de educación superior y centros de investigación, para la prevención y tratamiento de los problemas de salud;
+
+XIII. Las demás facultades que se requieran para el cumplimiento de los objetivos del Sistema de Salud del Estado de Querétaro y las que determinen las disposiciones generales aplicables.
 
 ###### Artículo 20.
 
@@ -975,19 +981,25 @@ III. Los convenios que al efecto suscriban el Poder Ejecutivo del Estado y el Po
 
 IV. Las disposiciones de esta Ley y demás normas jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### Artículo 80.
 
-Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, patología en sus diversas ramas y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, patología en sus diversas ramas y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales, diplomas de especialidad o grados académicos hayan sido legalmente expedidos y registrados por las autoridades competentes.
 
 Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia de lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología, embalsamamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### Artículo 81.
 
-Las autoridades educativas del Estado, podrán (sic) a disposición de las autoridades sanitarias estatales, la información relativa a los títulos, diplomas de especialidad, certificados y cédulas profesionales que en área de salud tengan registrada.
+Las autoridades educativas del Estado, pondrán a disposición de las autoridades sanitarias estatales, la información relativa a los títulos, diplomas de especialidad y cédulas profesionales que en el área de salud tengan registrada, debiendo para tal efecto, crear un padrón de datos públicos, relativos a la información de los profesionistas egresados dentro del propio Estado.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
 ###### Artículo 82.
 
-Quienes ejerzan las actividades profesionales, técnicas y auxiliares a que se refiere este Capítulo, deberán poner a la vista del público un rótulo al exterior del establecimiento que indique la institución que les expidió el título, diploma de especialidad o certificado y, en su caso, el número de su correspondiente cédula profesional. Igual mención deberá consignarse en los documentos y papelería que utilicen en el ejerció (sic) de tales actividades y en la publicidad que realicen al respecto.
+Quienes ejerzan las actividades profesionales, técnicas y auxiliares a que se refiere este Capítulo, deberán colocar dentro y fuera del establecimiento donde presten sus servicios, un rótulo que indique la institución que les expidió el título o diploma de especialidad y, en su caso, el número de su correspondiente cédula profesional. Igual mención deberá consignarse en los documentos y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que realicen al respecto.
 
 ### Capítulo Segundo. Del servicio social de profesionistas
 
@@ -1092,6 +1104,10 @@ IV. Orientar y capacitar a la población escolar en el cuidado y protección de 
 ###### Artículo 97.
 
 Las autoridades sanitarias estatales y municipales, en coordinación con las autoridades federales competentes, propondrán y desarrollarán programas de educación en materia de salud, procurando optimizar los recursos y alcanzar la cobertura total de la población.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE JUNIO DE 2012)</small>
+
+La Secretaría establecerá programas de salud bucal escolar para los niños y adolescentes del nivel básico, comprendidos en el Sistema de Salud del Estado de Querétaro, para que se implementen acciones preventivas y de detección de enfermedades bucales, de conformidad con las disposiciones legales aplicables y normas oficiales mexicanas.
 
 El Poder Ejecutivo del Estado, en coordinación con las autoridades federales competentes, promoverá programas que puedan ser difundidos en los medios masivos de comunicación social del Estado.
 
@@ -1585,23 +1601,47 @@ Corresponde a las autoridades municipales definir y autorizar las zonas en las q
 
 Esta actividad no podrá ejercerse cerca de áreas habitacionales, escuelas, oficinas públicas, centros culturales, religiosos y deportivos.
 
-### Capítulo Primero. De las tarjetas sanitarias
+### Capítulo Séptimo. De las peluquerías, salones de belleza, estéticas, centros de masajes y otros similares
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2012)</small>
 
 ###### Artículo 157.
 
 Los centros penitenciarios estarán sujetos al control sanitario del Poder Ejecutivo del Estado, de conformidad con las disposiciones que se señalan en esta Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### Artículo 158.
 
-Los centros penitenciarios deberán contar, además de lo previsto por las disposiciones legales aplicables y las normas oficiales mexicanas correspondientes, con un departamento de baños de regadera y otro de enfermería, ésta ultima para la atención de aquellos casos de enfermedad en la que no se requiera traslado a un hospital.
+Los centros penitenciarios deberán contar, además de lo previsto por las disposiciones legales aplicables y las normas oficiales mexicanas correspondientes, con un departamento de baños de regadera, de enfermería y servicio médico, para la atención de aquellos casos de enfermedad en la que no se requiera traslado a un hospital.
+
+En los centros de reclusión para mujeres, se deberá contar con las instalaciones necesarias para la atención del embarazo y el puerperio, así como para la atención de recién nacidos y establecer las medidas de protección tanto para la madre como para su hijo. El parto deberá ser atendido en un hospital.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE JUNIO DE 2012)</small>
+
+### Capítulo Primero. De las tarjetas sanitarias
+
+###### Artículo 158 Bis.
+
+Para los efectos de esta Ley, se entiende por peluquerías, salones de belleza, estéticas, centros de masajes y otros similares, los dedicados a rasurar, teñir, peinar, cortar, rizar o realizar cualquier actividad similar con el cabello de las personas; arreglo estético de uñas, manos y pies; la aplicación de tratamientos capilares de belleza o faciales, así como aquellos que se dediquen a realizar procedimientos de embellecimiento del cuerpo humano no quirúrgicos.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2012)</small>
+
+###### Artículo 158 Ter.
+
+Se consideran procedimientos de embellecimiento del cuerpo humano no quirúrgicos, aquellos que se utilizan para modificar las características externas y superficiales, mediante la aplicación de sustancias, productos o preparados de uso externo, masajes faciales o terapias fisícocorporales y similares, destinados a incrementar la belleza o a mejorar su apariencia física.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2012)</small>
+
+###### Artículo 158 Quáter.
+
+El funcionamiento y personal de los establecimientos señalados en este Capítulo, deberán apegarse a lo establecido en la presente Ley y demás disposiciones legales aplicables.
 
 Título Decimosegundo
 
 De las tarjetas sanitarias y certificaciones
 
 ### Capítulo Segundo. De la revocación de tarjetas sanitarias
-
-### Capítulo Tercero. De los certificados
 
 ###### Artículo 159.
 
@@ -1611,7 +1651,7 @@ El SESEQ podrá requerir tarjeta de control sanitario a las personas que realice
 
 Los obligados a tener tarjeta sanitaria deberán exhibirla en el momento en que la autoridad sanitaria lo requiera.
 
-### Capítulo Único. Disposiciones generales
+### Capítulo Tercero. De los certificados
 
 ###### Artículo 161.
 
@@ -1639,7 +1679,7 @@ IX. En los demás casos que determine la autoridad sanitaria.
 
 Cuando la revocación de una tarjeta sanitaria se funde en los riesgos o daños que pueda causar o cause un servicio, la autoridad sanitaria dará conocimiento de tales revocaciones a las dependencias y entidades públicas que tengan atribuciones de orientación al consumidor.
 
-### Capítulo Único. De las medidas de seguridad sanitaria
+### Capítulo Único. Disposiciones generales
 
 ###### Artículo 163.
 
@@ -1674,6 +1714,8 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 Título Decimotercero
 
 De la vigilancia sanitaria
+
+### Capítulo Único. De las medidas de seguridad sanitaria
 
 ###### Artículo 168.
 
@@ -1916,3 +1958,11 @@ P.O. 9 DE MARZO DE 2012.
 Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 22 DE JUNIO DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese la presente Ley al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
