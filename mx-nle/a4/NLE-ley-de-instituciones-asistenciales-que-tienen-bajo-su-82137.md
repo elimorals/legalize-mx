@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-instituciones-asistenciales-que-tienen-bajo-su-82137"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-05"
-last_updated: "2011-07-05"
+last_updated: "2012-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82137&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE INSTITUCIONES ASISTENCIALES QUE TIENEN BAJO SU GUARDA, CUSTODIA O AMBAS A NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2012.
 
 Ley Publicada en el Periódico Oficial del Estado de Nuevo León, el martes 5 de julio de 2011.
 
@@ -565,6 +565,16 @@ Tercero.- Las Instituciones Asistenciales que operen en el Estado de Nuevo León
 
 Excepcionalmente, y previa solicitud del interesado, la Procuraduría podrá otorgar por una sola vez prórroga hasta por otros 180-ciento ochenta días naturales a las Instituciones Asistenciales que no hubieren obtenido la licencia dentro del plazo que señala el párrafo anterior, y por motivo de alguna causa no imputable a su responsabilidad.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE JUNIO DE 2012)</small>
+
+Las Instituciones Asistenciales que venían operando antes de la entrada en vigor de este Decreto, que habiendo transcurrido los plazos señalados en los párrafos anteriores no hubieran satisfecho el requisito a que se refiere la fracción III del artículo 19 de esta Ley, pero demuestren ante la Procuraduría estar realizando o haber realizado las gestiones para el cumplimiento, podrán obtener una prórroga adicional de hasta 180 días naturales; si una vez transcurridos tales plazos o en su caso la prórroga mencionada, alguna Institución Asistencial se encuentra imposibilitada a satisfacer el requisito en cita y así lo acredita ante la Procuraduría, ésta podrá acordar el otorgamiento de la licencia de operación, debiendo motivar y fundamentar que dicha licencia se da en observancia al principio que rige el interés superior de la niñez. En todo momento deberá darse el cumplimiento a que refiere la fracción VI del articulo 19 en lo que refiere a la verificación de las condiciones generales sobre infraestructura, personal, población e higiene, que será acreditado con un dictamen de protección civil y el aviso de responsable sanitario.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2012)</small>
+
+Para efecto de garantizar el principio de máxima publicidad que rige la legislación estatal, la Procuraduría de la Defensa del Menor y la Familia, deberá publicar a través de la página de internet del Organismo Descentralizado Sistema para el Desarrollo Integral de la Familia, todos los acuerdos de otorgamiento o prórroga de las licencias de operación.
+
+(REUBICADO, P.O. 22 DE JUNIO DE 2012)
+
 Las Instituciones Asistenciales que no obtengan la licencia en cualquiera de los plazos señalados en los párrafos anteriores, según sea el caso, serán intervenidas de inmediato y sus establecimientos ocupados administrativamente por la Procuraduría en tanto se tramiten los traslados de los niños, niñas y adolescentes a otras Instituciones Asistenciales que si hubieran obtenido la licencia.
 
 Cuarto.- La Procuraduría emitirá una convocatoria dentro de los 15-quince días hábiles siguientes a la entrada en vigor de este Decreto dirigida a los Directores o Titulares de las Instituciones Asistenciales Privadas para efecto de que en ella se señale lugar y fecha para la designación de los vocales integrantes del Comité a que refiere el inciso k), fracción IV del Artículo 9 del Artículo Primero de este Decreto, y quienes serán propuestos y votados de entre la mayoría de los representantes presentes al acto.
@@ -610,3 +620,9 @@ JESÚS ZACARÍAS VILLARREAL PÉREZ
 LA C. SECRETARIA DE DESARROLLO SOCIAL
 
 JUANA AURORA CAVAZOS CAVAZOS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE JUNIO DE 2012.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
