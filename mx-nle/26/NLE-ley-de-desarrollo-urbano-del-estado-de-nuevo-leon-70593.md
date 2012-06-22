@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-desarrollo-urbano-del-estado-de-nuevo-leon-70593"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-09"
-last_updated: "2011-12-23"
+last_updated: "2012-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2012.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Nuevo León, el miércoles 9 de septiembre de 2009.
 
@@ -103,9 +103,17 @@ XVI. La regulación del mercado de los terrenos y el de la vivienda de interés 
 
 XVII. La coordinación y concertación de la inversión pública y privada con la planeación del desarrollo regional y urbano;
 
-XVIII. La participación social en la solución de los problemas que genera la convivencia en los asentamientos humanos; y
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
 
-XIX. El desarrollo y adecuación en los centros de población de la infraestructura, el equipamiento y los servicios urbanos que garanticen la seguridad, libre tránsito y accesibilidad que requieren las personas con discapacidad.
+XVIII. La participación social en la solución de los problemas que genera la convivencia en los asentamientos humanos;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+XIX. El desarrollo y adecuación en los centros de población de la infraestructura, el equipamiento y los servicios urbanos que garanticen la seguridad, libre tránsito y accesibilidad que requieren las personas con discapacidad; y
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+XX. La generación de condiciones favorables para una mayor seguridad pública.
 
 > <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
@@ -901,9 +909,17 @@ IX. La imagen urbana de la zona conurbada;
 
 X. El equipamiento urbano que sirva a la zona conurbada;
 
-XI. El suelo y las reservas territoriales de soporte a las política (sic) de desarrollo integral y funcional de los asentamientos humanos de la conurbación, que disminuyan las tendencias de crecimiento disperso y la afectación de áreas con alto valor ambiental; y
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
 
-XII. La redensificación y uso eficiente del espacio.
+XI. El suelo y las reservas territoriales de soporte a la política de desarrollo integral y funcional de los asentamientos humanos de la conurbación, que disminuyan las tendencias de crecimiento disperso y la afectación de áreas con alto valor ambiental;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+XII. La redensificación y uso eficiente del espacio; y
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+XIII. La prevención de riesgos y contingencias urbanas.
 
 ### CAPÍTULO SEGUNDO. DE LAS ZONAS METROPOLITANAS
 
@@ -1099,9 +1115,17 @@ V. Respetar el procedimiento establecido en esta Ley para su formulación, modif
 
 VI. Considerar en su estructura los criterios generales de regulación ambiental de los asentamientos humanos establecidos en los artículos 23, 28, 30, 31, 32 y 33 de la Ley General de Equilibrio Ecológico y Protección al Ambiente, y su reglamento; la Ley Ambiental del Estado de Nuevo León, y su reglamento; la Ley General de Desarrollo Forestal Sustentable; la Ley para el Desarrollo Forestal Sustentable del Estado; las Normas Oficiales Mexicanas; y demás ordenamientos en la materia;
 
-VII. Atender las necesidades, requerimientos y problemáticas que planteen los diferentes sectores de la población; y
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
 
-VIII. Incluir políticas de fomento para el desarrollo urbano sustentable.
+VII. Atender las necesidades, requerimientos y problemáticas que planteen los diferentes sectores de la población;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+VIII. Incluir políticas de fomento para el desarrollo urbano sustentable; y
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+IX. Contener acciones tendientes a generar condiciones favorables para una mayor seguridad pública y el mejoramiento urbano.
 
 > <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
@@ -2195,7 +2219,7 @@ I. De alimentos y bebidas: restaurantes, cafeterías, taquerías y similares;
 
 II. Cabaret y centros nocturnos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 III. (DEROGADA, P.O. 4 DE NOVIEMBRE DE 2011)
 
@@ -2271,7 +2295,7 @@ XXI. Servicios de comunicaciones y transportes: ciber-cafés, correos, telégraf
 
 XXII. Los demás que determinen los municipios en sus reglamentos y programas de centros de población.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
@@ -5698,3 +5722,7 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Los procedimientos iniciados antes de la entrada en vigor del presente Decreto, continuarán su trámite y conclusión conforme a las disposiciones vigentes en el momento en que se solicitaron.
 
 Tercero.- En un término que no exceda de noventa días a partir de la entrada en vigor del presente Decreto, los Ayuntamientos realizarán las adecuaciones a las disposiciones reglamentarias vinculadas con la presente reforma.
+
+P.O. 22 DE JUNIO DE 2012.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
