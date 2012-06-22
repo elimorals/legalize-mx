@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2011-12-30"
+last_updated: "2012-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
 > <small>N. DE E. EL PRESENTE ORDENAMIENTO SERA ABROGADO PROGRESIVAMENTE, SEGÚN CORRESPONDA EL PARTIDO JUDICIAL DEL ESTADO, POR LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 19 DE OCTUBRE DE 2007, 13 DE NOVIEMBRE DE 2009 Y 22 DE ENERO DE 2010.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2012.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2003,7 +2003,7 @@ a) Ordenar al activo la separación inmediata del domicilio de la víctima, ofen
 
 b) Prohibir al agresor acercarse a la víctima, ofendido o testigo.
 
-El Ministerio Público deberá dictar medidas tendientes a impedir que se pierdan, destruyan o alteren las huellas o vestigios del hecho delictuoso, los instrumentos, cosas, objetos o efectos del mismo; determinar que personas fueron testigos; evitar que el delito se siga cometiendo y, en general, impedir que se dificulte la averiguación, procediendo a la detención de los probables responsables en los casos de flagrante delito.
+El Ministerio Público deberá dictar medidas tendientes a impedir que se pierdan, destruyan o alteren las huellas o vestigios del hecho delictuoso, los instrumentos, cosas, objetos o efectos del mismo; determinar que personas fueron testigos; evitar que el delito se siga cometiendo y, en general, impedir que se dificulte la averiguación, precediendo a la detención de los probables responsables en los casos de flagrante delito.
 
 El agente del Ministerio Público al que le sean solicitadas estas medidas y no las dicte de manera inmediata, poniendo con esto en riesgo la seguridad, tranquilidad e integridad de la víctima o el ofendido, será responsable por omisión, debiéndosele imponer las sanciones previstas en los artículos 43 y 44 de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Baja California.
 
@@ -2126,6 +2126,10 @@ De todas las cosas aseguradas, se hará un inventario en el que se les describir
 ###### Artículo 250.
 
 Conservación de las cosas aseguradas.- Las cosas inventariadas conforme al artículo anterior, se quedarán en el lugar o recipiente adecuado según su naturaleza, debiéndose tomar las precauciones necesarias para asegurar su conservación e identidad.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2012)</small>
+
+Tratándose de vehículos robados, recuperados y que ingresen a los depósitos correspondientes, previa comprobación de la propiedad del mismo con documentos oficiales de Autoridad Competente, se entregarán a la parte legitimada, y si fueron reportados dentro de las primeras 72 horas en que se tuvo conocimiento del hecho ilícito, se exentarán del pago de los gastos, derechos por maniobras de salvamento, arrastre y almacenaje del vehículo recuperado.
 
 ###### Artículo 251.
 
@@ -3860,3 +3864,13 @@ P.O. 23 DE DICIEMBRE DE 2011.
 P.O. 30 DE DICIEMBRE DE 2011.
 
 ÚNICO.- Las presentes reformas entrarán en vigor el día de su publicación en el Periódico Oficial de (sic) Estado de Baja California.
+
+P.O. 22 DE JUNIO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor, al día siguiente de publicarse en el periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo Estatal en términos de la fracción XVI, del artículo 49, de la Constitución Política del Estado Libre y Soberano de Baja California, así como los Ayuntamientos deberán adecuar la reglamentación interna, dentro del plazo de 60 días naturales contados a partir de la entrada en vigor del presente Decreto de reforma de ley, en todo lo necesario para alcanzar el objetivo de la presente reforma.
