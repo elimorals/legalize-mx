@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-cg289-2012-del-consejo-general-del-instituto-87963"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-05-30"
-last_updated: "2012-05-30"
+last_updated: "2012-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87963&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-05-09"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, RELATIVO A LAS SOLICITUDES DE SUSTITUCIÓN DE CANDIDATURAS A SENADORES Y DIPUTADOS POR AMBOS PRINCIPIOS, PRESENTADAS POR LOS PARTIDOS POLÍTICOS ACCIÓN NACIONAL, REVOLUCIONARIO INSTITUCIONAL, DE LA REVOLUCIÓN DEMOCRÁTICA, DEL TRABAJO, VERDE ECOLOGISTA DE MÉXICO, MOVIMIENTO CIUDADANO Y NUEVA ALIANZA, ASÍ COMO POR LAS COALICIONES COMPROMISO POR MÉXICO Y MOVIMIENTO PROGRESISTA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JUNIO DE 2012.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 30 de mayo de 2012.
 
@@ -357,7 +357,9 @@ JULIETA BEATRIZ DALIA FERNANDA
 
 SEXTO.- Expídanse las constancias de registro de los candidatos a Senadores y Diputados por ambos principios referidos en los puntos segundo al quinto del presente Acuerdo.
 
-SEPTIMO.- Se autoriza que el nombre de los candidatos enlistados en el considerando 29 del presente Acuerdo aparezca en las boletas electorales como son conocidos públicamente, en el entendido de que será únicamente para tales efectos, puesto que en el libro de registro que lleva la Dirección Ejecutiva de Prerrogativas y Partidos Políticos, en cumplimiento a lo establecido en el artículo 129, párrafo 1, inciso i) del Código Federal de Instituciones y Procedimientos Electorales, aparecerá el nombre legal de los mismos.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO CG361/2012 DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, D.O.F. 22 DE JUNIO DE 2012)</small>
+
+SEPTIMO.- Se autoriza que en relación con los candidatos enlistados en el Considerando 29 del presente Acuerdo se incorpore en las correspondientes boletas electorales posterior al nombre y apellidos de los candidatos, el nombre o expresión como son conocidos, en los términos precisado en el Considerando 30, en el entendido de que será únicamente para tales efectos, puesto que en el libro de registro que lleva la Dirección Ejecutiva de Prerrogativas y Partidos Políticos, en cumplimiento a lo establecido en el artículo 129, párrafo 1, inciso i) del Código Federal de Instituciones y Procedimientos Electorales, aparecerá el nombre legal de los mismos.
 
 OCTAVO.- Comuníquense vía correo electrónico las determinaciones y los registros materia del presente Acuerdo a los Consejos Locales y Distritales del Instituto Federal Electoral. Asimismo, a través del Secretario del Consejo General, remítase a los Consejos Locales copia de los expedientes de las fórmulas de mayoría relativa registradas que correspondan a su entidad, para que éstos a su vez los hagan llegar a los Consejos Distritales respectivos.
 
@@ -366,3 +368,7 @@ NOVENO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 9 de mayo de dos mil doce, por votación unánime de los Consejeros Electorales, Maestro Marco Antonio Baños Martínez, Doctor Lorenzo Córdova Vianello, Doctora María Macarita Elizondo Gasperín, Maestro Alfredo Figueroa Fernández, Doctor Sergio García Ramírez, Doctor Francisco Javier Guerrero Aguirre, Doctora María Marván Laborde, Doctor Benito Nacif Hernández y el Consejero Presidente, Doctor Leonardo Valdés Zurita.
 
 El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+D.O.F. 22 DE JUNIO DE 2012.
+
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
