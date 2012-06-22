@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2012-06-15"
+last_updated: "2012-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -1833,7 +1833,7 @@ Las autorizaciones sanitarias serán expedidas cuando el solicitante hubiese sat
 
 ### CAPITULO DECIMO TERCERO. DE LAS MEDIDAS DE SEGURIDAD SANITARIA
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 151.
 
@@ -2043,7 +2043,7 @@ V.- La recolección de muestra se efectuará conforme a lo señalado en la Ley G
 
 ###### ARTÍCULO 176.
 
-Se consideran medidas de seguridad sanitaria las disposiciones que dicte la Autoridad Sanitaria de conformidad con los preceptos de la Constitución Política de los Estados Unidos Mexicanos, en sus artículos 14, 16, de esta Ley y demás disposiciones aplicables, tendientes a proteger la salud de la población. Las medidas de seguridad serán de inmediata ejecución y se aplicarán sin perjuicio de las sanciones que en su caso correspondieren.
+Se consideran medidas de seguridad sanitaria las disposiciones que dicte la Autoridad Sanitaria de conformidad con los preceptos de esta Ley, la Constitución Política de los Estados Unidos Mexicanos en sus artículos 14 y 16, y demás disposiciones aplicables, tendientes a proteger la salud de la población. Las medidas de seguridad, en casos inaplazables, en casos inminentes, próximos, graves e inmediatos riesgos sanitarios serán de inmediata ejecución y se aplicarán sin perjuicio de las sanciones que en su caso correspondieren.
 
 ###### ARTÍCULO 177.
 
@@ -2069,7 +2069,9 @@ V.- Vacunación de animales.- Se procederá a la vacunación de animales, cuando
 
 VI.- Destrucción o control de insectos u otra fauna transmisora y nociva.- Cuando se requiera ejecutar las medidas necesarias para la destrucción o control de insectos u otra fauna transmisora y nociva, cuando éstos constituyan un peligro grave para la salud de las personas, en coordinación en su caso con las Autoridades encargadas de la sanidad animal;
 
-VII.- Suspensión de trabajos o servicios.- Cuando de continuar algunos trabajos o servicios, se ponga en peligro la salud de las personas; la suspensión de trabajos o servicios será temporal, será total o parcial y se aplicará por el tiempo estrictamente necesario para corregir las irregularidades que pongan en peligro la salud de las personas.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2012)</small>
+
+VII.- Suspensión de trabajos o servicios, la que será temporal.- Cuando sea inaplazable, si de continuar algunos trabajos o servicios, se ponga en inminente, próximo y grave peligro la salud de las personas; la suspensión de trabajos o servicios será temporal, será total o parcial y se aplicará por el tiempo estrictamente necesario para corregir las graves irregularidades que pongan en peligro la salud de las personas.
 
 Se ejecutarán las acciones necesarias que permitan asegurar la referida suspensión. Ésta será levantada a instancias del interesado o por la propia Autoridad que la ordenó, cuando cese la causa por la cual fue decretada.
 
@@ -2167,11 +2169,15 @@ Impuesto el arresto, se comunicará la resolución a la Autoridad correspondient
 
 El ejercicio de las medidas de seguridad y sanciones previstas en esta Ley por parte de la Autoridad Sanitaria competente, se sujetará a los siguientes criterios:
 
-I.- Se fundará y motivará en los términos de los artículos 14 y 16 de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+I.- Invariablemente se fundará y motivará en los términos de los artículos 14 y 16 de la Constitución Política de los Estados Unidos Mexicanos;
 
 II.- Se tomarán en cuenta las necesidades sociales, municipales, estatales, y en general, los derechos e intereses de la sociedad; y
 
-III.- Se considerará la trascendencia del asunto de que se trate, los riesgos que entrañe para la salud y la conveniencia de suprimir prácticas que en cualquier forma pongan en peligro la salud de las personas.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+III.- Se considerará la trascendencia del asunto de que se trate, los riesgos que entrañe para la salud y la conveniencia de suprimir prácticas que en cualquier forma pongan en grave e inminente peligro la salud de las personas.
 
 La resolución que se adopte se hará saber por escrito al interesado dentro del plazo de cuatro meses.
 
@@ -2438,3 +2444,7 @@ SEGUNDO.- El Ejecutivo del Estado en un término no mayor de 60 días contados a
 P.O. 15 DE JUNIO DE 2012.
 
 ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE JUNIO DE 2012.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
