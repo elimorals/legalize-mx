@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-educacion-del-estado-de-queretaro-69512"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-31"
-last_updated: "2012-05-18"
+last_updated: "2012-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de julio de 2009.
 
@@ -89,13 +89,17 @@ IV. Promoverá la práctica del respeto entre la relación ser humano-sociedad-m
 
 V. Promoverá la incorporación de hábitos alimenticios sanos, la actividad física y la práctica de ejercicio, como medios para que los educandos accedan a un adecuado desarrollo físico y social.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### Artículo 5.
 
-El Estado y sus municipios están obligados a prestar servicios educativos, para que toda la población pueda cursar la educación básica.
+El Estado y sus municipios están obligados a prestar servicios educativos, para que toda la población pueda cursar la educación básica y media superior.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
 ###### Artículo 6.
 
-Es obligación de los padres y tutores lograr que sus hijas, hijos y pupilos cursen en igualdad de oportunidades, los niveles de la educación básica.
+Es obligación de los padres y tutores lograr que sus hijas, hijos y pupilos cursen, en igualdad de oportunidades, los niveles de la educación básica y media superior.
 
 ###### Artículo 7.
 
@@ -167,9 +171,11 @@ XV. Impulsar la capacitación del educando con requerimientos de educación espe
 
 XVI. Fomentar la creación y desarrollo de escuelas sustentables.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
 ###### Artículo 12.
 
-Además de impartir la educación básica, el Estado y sus municipios promoverán y atenderán, mediante sus organismos descentralizados y a través de apoyos u otros medios, todos los tipos y modalidades educativas, incluida la educación media superior y superior, necesarias para el desarrollo del Estado.
+Además de impartir la educación básica y la media superior, el Estado y sus municipios promoverán y atenderán, mediante sus organismos descentralizados y a través de apoyos u otros medios, todos los tipos y modalidades educativas, necesarias para el desarrollo del Estado.
 
 ## Título Segundo. De las atribuciones del Estado y de los municipios
 
@@ -481,7 +487,9 @@ I. Tipos:
 
 a) Básica: la compuesta por los niveles de preescolar, primaria y secundaria.
 
-b) Media superior: la que comprende el nivel de bachillerato o de los equivalentes a éste, así como la educación profesional que no requiere bachillerato o sus equivalentes.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
+b) Media Superior: la que tiene carácter propedéutico y terminal, y comprende el nivel de bachillerato o de los equivalentes a éste, así como la educación profesional que no requiere bachillerato o sus equivalentes.
 
 c) Superior: el que se imparte después del bachillerato o de sus equivalentes. Está compuesto por los técnicos superiores universitarios, la licenciatura, la especialidad, la maestría y el doctorado, así como por opciones terminales previas a la conclusión de la licenciatura. Comprende la educación normal en todos sus niveles y especialidades;
 
@@ -508,6 +516,38 @@ Tratándose de menores de edad con discapacidades, está educación propiciará 
 Esta forma de educación incluye orientación a los padres o tutores, así como a los docentes y personal de escuelas de educación básica regular que integren a alumnos con necesidades especiales de educación.
 
 e) Para el trabajo: aquella que procurará la adquisición de conocimientos, habilidades o destrezas, que permitan que las personas se puedan incorporar productivamente al mercado laboral o al autoempleo.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2012)</small>
+
+###### Artículo 34 Bis.
+
+La educación media superior propiciará en el educando la adquisición de conocimientos e instrumentos metodológicos necesarios para su formación y acceso al conocimiento científico y humanístico; desarrollará actitudes y habilidades para el autoaprendizaje; fomentará un sistema de valores, a partir de principios universales y nacionales racionalmente compartidos y estimulará la participación crítica en los problemas sociales. Además, capacitará al educando para acceder en forma creativa al mundo del trabajo, a la transformación productiva y a los estudios de nivel superior; asimismo, fomentará la práctica de actividades relacionadas con la Educación Física y el Deporte.
+
+La educación media superior reforzará los conocimientos de los educandos sobre la sexualidad, la reproducción humana, la planificación familiar, la paternidad y maternidad responsables; así como la prevención de enfermedades de transmisión sexual.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2012)</small>
+
+###### Artículo 34 Ter.
+
+Las autoridades educativas podrán celebrar convenios con la federación, los municipios y los particulares, con el objetivo de garantizar la cobertura en la enseñanza del nivel medio superior, respetando los principios de igualdad, equidad y libertad de elección.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2012)</small>
+
+###### Artículo 34 Quater.
+
+Las escuelas de educación media superior terminal o de enseñanza técnica, dependientes del Estado, normarán sus trabajos de acuerdo a los planes y programas educativos que cubran las necesidades del alumnado y de la Entidad, con el fin de preparar personal calificado.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2012)</small>
+
+###### Artículo 34 Quinquies.
+
+Los estudios de nivel medio superior podrán cursarse en las siguientes opciones curriculares: presencial, a distancia, semiescolarizada y abierta, de conformidad con los requisitos, planes, programas y calendarios aprobados.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2012)</small>
+
+###### Artículo 34 Sexies.
+
+La Secretaría de Educación del Estado desarrollará e impulsará el sistema de educación abierta en las instituciones de educación media superior que dependan de ella.
 
 ###### Artículo 35.
 
@@ -713,7 +753,9 @@ La educación que no requiera autorización o no sea susceptible de reconocimien
 
 Son derechos de quienes ejercen patria potestad o tutela, los siguientes:
 
-I. Obtener inscripción en escuelas públicas estatales para que sus hijos, hijas o pupilos en edad escolar, reciban educación preescolar, primaria y secundaria. La edad mínima para ingresar a la educación básica en el nivel preescolar es de tres años y para nivel primaria seis años, cumplidos al 31 de diciembre del año de inicio del ciclo escolar;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+I. Obtener inscripción en escuelas públicas estatales para que sus hijos, hijas o pupilos en edad escolar, reciban educación preescolar, primaria, secundaria y media superior. La edad mínima para ingresar a la educación básica en el nivel preescolar es de tres años y para nivel primaria seis años, cumplidos al 31 de diciembre del año de inicio del ciclo escolar;
 
 II. Colaborar con las autoridades escolares para la superación de los educandos y el mejoramiento de la infraestructura de los planteles educativos;
 
@@ -733,7 +775,9 @@ VIII. Los demás establecidos en las leyes y reglamentos respectivos.
 
 Son obligaciones de quienes ejercen patria potestad o tutela, las siguientes:
 
-I. Hacer que sus hijos, hijas o pupilos, reciban educación preescolar, primaria y secundaria;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+I. Hacer que sus hijos, hijas o pupilos, reciban educación preescolar, primaria, secundaria y media superior;
 
 II. Colaborar con las autoridades educativas en las actividades que realicen en beneficio de la educación de sus hijos, hijas o pupilos, tanto en la formación educativa, como en el estímulo al deporte y actividades de recreación;
 
@@ -849,7 +893,9 @@ XI. Oponerse a las actividades de evaluación, inspección y vigilancia de las a
 
 XII. Ostentarse como plantel incorporado a cualquier autoridad educativa, sin estarlo;
 
-XIII. Impartir educación preescolar, primaria, secundaria, normal y demás, para la formación de maestros de educación básica, sin contar con la autorización correspondiente; y
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+
+XIII. Impartir educación preescolar, primaria, secundaria, normal y demás, para la formación de maestros de educación básica, así como media superior, sin contar con la autorización correspondiente; y
 
 XIV. Incumplir cualquiera de los demás preceptos de esta Ley y otras disposiciones que deriven de ella.
 
@@ -1098,3 +1144,11 @@ P.O. 18 DE MAYO DE 2012.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 22 DE JUNIO DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. La obligatoriedad de la educación media superior se implementará a partir del ciclo 2012-2013, creciendo de manera gradual, hasta universalizar la obligatoriedad en todo el Estado para el ciclo 2021-2022; acorde a lo dispuesto en el Decreto por el que se declara reformado el párrafo primero, el inciso c) de la fracción II y la fracción V del artículo 3°, y la fracción I del artículo 31 de la Constitución Política de los Estados Unidos Mexicanos.
