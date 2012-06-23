@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-catastro-municipal-del-estado-de-jalisco-12360"
 country: "mx"
 rank: "ley"
 publication_date: "1997-11-18"
-last_updated: "2011-06-18"
+last_updated: "2012-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12360&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "JAL"
 
 LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 18 de noviembre de 1997.
 
-Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo.: Secretaría General de Gobierno. Estados Unidos Mexicanos.
+Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.
 
 Alberto Cárdenas Jiménez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente
 
@@ -239,7 +239,7 @@ IV. Predio edificado: aquel que tenga construcciones permanentes.
 
 Si un predio baldío es colindante de uno edificado, podrá clasificarse con las características del predio construido si su uso se destina como accesorio del segundo, previo dictamen de la autoridad catastral, que tomará en cuenta la suma de las dos superficies, en los términos del inciso d), de la fracción V de este artículo;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 1998)</small>
 
 V. Predio no edificado o baldío. Al predio que:
 
@@ -249,7 +249,7 @@ b) Teniendo construcciones, éstas sean de carácter provisional y se encuentre 
 
 c) Teniendo construcciones de carácter permanente, estén en proceso, suspendidas o en estado ruinoso y se encuentre improductivo, y
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 1998)</small>
 
 d) Siendo urbano y tenga construcciones permanentes en una área inferior al veinticinco por ciento de la superficie útil construible autorizada, o que, al practicar el avalúo de las edificaciones, éstas resulten con un valor menor al cincuenta por ciento del valor del terreno.
 
@@ -609,7 +609,9 @@ I. Un representante del Colegio de Notarios de Jalisco, que esté adscrito a dic
 
 J. Por las personas que el Consejo considere conveniente invitar a participar, por sus conocimientos y reconocida solvencia moral.
 
-II. Los Consejos Técnicos de Catastro Municipal estarán facultados para estudiar, revisar y formular recomendaciones respecto de las propuestas de valores unitarios de terrenos y construcciones, y remitirlos con fines de homologación al Consejo Técnico Catastral del Estado;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2012)</small>
+
+II. Los Consejos Técnicos de Catastro Municipal estarán facultados para estudiar, revisar y formular recomendaciones respecto de las propuestas de valores unitarios de terrenos y construcciones, y remitirlos con fines de revisión al Consejo Técnico Catastral del Estado, y
 
 > <small>(REFORMADA, P.O. 21 DE JULIO DE 2001)</small>
 
@@ -789,33 +791,39 @@ II. La nomenclatura y numeración oficial.
 
 Los urbanizadores de predios tendrán la obligación de manifestar a la autoridad catastral la celebración de actos traslativos de dominio, dentro de los dos meses siguientes a la fecha de su otorgamiento.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE JULIO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JULIO DE 2000)</small>
 
 ### CAPÍTULO VI. De las tablas de valores unitarios y de la valuación catastral
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2012)</small>
 
 ###### Artículo 54.
 
-Los valores unitarios de los terrenos y de construcciones; los coeficientes de incremento y demérito de valores y demás elementos de valuación, se elaborarán y aplicarán mediante las tablas de valores unitarios conforme las siguientes disposiciones:
+Los valores unitarios de los terrenos y de construcciones; los coeficientes de incremento y demérito de valores y demás elementos de valuación, se elaborarán y aplicarán mediante las tablas de valores unitarios conforme a las siguientes disposiciones:
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
 
 I. Cada Catastro Municipal debe elaborar los estudios de valores correspondientes conforme a lo establecido por el artículo 13, fracción IX y los artículos 55, 56 y 57 de la presente ley. Una vez elaborado el proyecto de tablas de valores unitarios del municipio, debe remitirlo al Consejo Técnico Catastral Municipal respectivo para su revisión;
 
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
+
 II. El Consejo Técnico de Catastro Municipal deberá analizar y estudiar el proyecto de tabla de valores unitarios y, en su caso, hacer las modificaciones a los valores que estimen pertinentes, sustentando en todo momento los aspectos y opiniones de carácter técnico. Una vez analizado y en su caso modificado, deberán remitir el proyecto en original y dos tantos en copias al Consejo Técnico Catastral del Estado;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2012)</small>
 
-III. El Consejo Técnico Catastral del Estado, con intervención de la Comisión de Hacienda y Presupuestos del Congreso del Estado y con el apoyo técnico de la Auditoría Superior del Estado revisarán los proyectos enviados con la finalidad de que los valores estén homologados con los demás municipios, para lo cual estarán facultados para emitir opiniones y recomendaciones, así como para proponer modificaciones a los proyectos respectivos, tomando siempre en consideración los aspectos técnicos a fin de que los valores unitarios se equiparen a los valores reales;
+III. El Consejo Técnico Catastral del Estado, con la participación de la Comisión de Hacienda y Presupuestos del Congreso del Estado o quien ésta designe en su representación, revisarán los proyectos enviados para emitir opiniones, con la finalidad de que los valores unitarios sean equiparables a los de mercado;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2012)</small>
 
-IV. En los casos en que el Consejo Técnico Catastral del Estado, con intervención de la Comisión de Hacienda y Presupuestos del Congreso del Estado y con el apoyo técnico de la Auditoría Superior del Estado determinen que no son procedentes los proyectos de los Consejos Técnicos de Catastro Municipales por no apegarse los valores unitarios a los valores reales, deberán regresar al Consejo Técnico de Catastro Municipal respectivo, por una sola ocasión, el proyecto de tabla de valores unitarios para que el Catastro Municipal vuelva a proyectar una nueva tabla de valores unitarios que se equiparen a los valores reales a fin de apegarse a la legislación vigente;
+IV. En los casos en que el Consejo Técnico Catastral del Estado, con la participación de la Comisión de Hacienda y Presupuestos del Congreso del Estado o quien ésta designe en su representación, consideren que los proyectos de los Consejos Técnicos de Catastro Municipales no son equiparables a los de mercado, emitirán las recomendaciones pertinentes, y
 
-V. Si el Catastro Municipal respectivo reincide en proyectar una tabla de valores unitarios no apegada a los valores reales o de mercado o es omiso en emitir el proyecto respectivo, el Consejo Técnico Catastral del Estado solicitará a la Dirección de Catastro del Estado, que de manera subsidiaria elabore el proyecto de tablas de valores unitarios respectivo, siguiendo él mismo el procedimiento establecido en las fracciones II y III del presente artículo;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2011)</small>
+V. Una vez que los proyectos de tablas de valores sean revisados por el Consejo Técnico Catastral del Estado en conjunción con la Comisión de Hacienda y Presupuestos del Congreso del Estado o su representante, se remitirán con las opiniones o recomendaciones que hubiere, en su caso, a los ayuntamientos para que estos las conozcan antes de aprobar la formal iniciativa.
 
-VI. Una vez que los proyectos de tablas de valores unitarios sean respaldados por el Consejo Técnico Catastral del Estado en conjunción con la Comisión de Hacienda y Presupuestos del Congreso del Estado y con el apoyo técnico de la Auditoría Superior del Estado, se remitirán a los ayuntamientos a fin de que presenten, en su caso, formal iniciativa ante el Congreso del Estado, a más tardar el 31 de agosto del año previo a su aplicación.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2012)</small>
+
+La iniciativa deberá ser presentada a más tardar el 31 de agosto del año previo a su aplicación.
 
 > <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
 
@@ -963,7 +971,7 @@ En los casos de edificaciones construidas bajo el régimen de propiedad en condo
 
 En los casos de predios no registrados en el catastro municipal, por no haber sido manifestados oportunamente por su propietario o poseedor, deberán practicarse las operaciones catastrales correspondientes de acuerdo con el estado que guardan dichos predios en la fecha de su empadronamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JULIO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JULIO DE 2000)</small>
 
 ###### Artículo 75.
 
@@ -1335,7 +1343,7 @@ El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 18 DE AGOSTO DE 1998.
 
@@ -1386,5 +1394,9 @@ P.O. 10 DE MARZO DE 2005.
 ÚNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 18 DE JUNIO DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 23 DE JUNIO DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
