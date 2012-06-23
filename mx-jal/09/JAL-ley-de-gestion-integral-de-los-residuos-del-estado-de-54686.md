@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-gestion-integral-de-los-residuos-del-estado-de-54686"
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-24"
-last_updated: "2007-02-24"
+last_updated: "2012-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY DE GESTION INTEGRAL DE LOS RESIDUOS DEL ESTADO DE JALISCO
 
-LEY DE GESTION INTEGRAL DE LOS RESIDUOS DEL ESTADO DE JALISCO
+LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2012.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 24 de febrero de 2007.
 
@@ -63,7 +63,7 @@ VII. Establecer mecanismos de coordinación entre el Estado y los Municipios;
 
 VIII. Controlar y prevenir la contaminación y remediación de áreas contaminadas;
 
-IX. Fomentar la reutilización y valoración de los materiales contenidos en los residuos que se generan en el Estado, a través de la promoción desarrollo y establecimiento de esquemas e instrumentos voluntarios y flexibles de manejo integral; y
+IX. Fomentar la reutilización y valorización de los materiales contenidos en los residuos que se generan en el Estado, a través de la promoción desarrollo y establecimiento de esquemas e instrumentos voluntarios y flexibles de manejo integral; y
 
 X. Garantizar el cumplimiento de esta ley y las disposiciones que de ella emanen;
 
@@ -77,11 +77,11 @@ Para los efectos de la presente Ley son aplicables las definiciones establecidas
 
 I. Acopio: Almacenamiento temporal de residuos provenientes de sus fuentes de generación u otras; para su posterior tratamiento aprovechamiento, incineración o disposición final;
 
-II. Almacenamiento: El depósito temporal de los residuos sólidos en contenedores a su recolección; tratamiento o disposición final;
+II. Almacenamiento: El depósito temporal de los residuos sólidos en contenedores previos a su recolección; tratamiento o disposición final;
 
-III. Biogás: El conjunto de gases generados por la descomposición microbiológica de la manera orgánica;
+III. Biogás: El conjunto de gases generados por la descomposición microbiológica de la materia orgánica;
 
-IV. Composteo: El proceso de descomposición aeróbica de la materia orgánica mediante la acción de microorganismos específicos;
+IV. Composteo: El proceso de descomposición aeróbia de la materia orgánica mediante la acción de microorganismos específicos;
 
 V. Contenedor: el recipiente destinado al depósito ambientalmente adecuado y de forma temporal de residuos sólidos urbanos o de manejo especial, durante su acopio y traslado;
 
@@ -97,7 +97,7 @@ X. Ley Ambiental: La Ley Estatal del Equilibrio Ecológico y la Protección al A
 
 XI. Ley General: La Ley General para la Prevención y Gestión Integral de los Residuos;
 
-XII. Planeta de selección y tratamiento: La instalación donde se lleva a cabo cualquier proceso de selección y tratamiento de los residuos sólidos para su valoración o, en su caso, disposición final;
+XII. Planta de selección y tratamiento: La instalación donde se lleva a cabo cualquier proceso de selección y tratamiento de los residuos sólidos para su valorización o, en su caso, disposición final;
 
 XIII. Procuraduría: La Procuraduría Estatal de Protección al Ambiente.
 
@@ -109,17 +109,17 @@ XVI. Reciclaje: El Proceso por el cual los residuos son transformados en product
 
 XVII. Relleno sanitario: Obra de infraestructura que involucra métodos y obras de ingeniería para la disposición final de los residuos sólidos urbanos y de manejo especial, con el fin de controlar a través de la compactación e infraestructura adicionales los impactos ambientales;
 
-XVIII. Residuos: Material o producto cuyo propietario o poseedor desecha y que se encuentra en estado sólido o semisólido, o es un líquido o gas contenido en recipientes o depósitos, y que puede ser susceptible de ser valorizado o requiere sujetarse a tratamiento o disposición final conforme a lo dispuesto en esta Ley y demás ordenamientos que de ella deriven;
+XVIII. Residuo: Material o producto cuyo propietario o poseedor desecha y que se encuentra en estado sólido o semisólido, o es un líquido o gas contenido en recipientes o depósitos, y que puede ser susceptible de ser valorizado o requiere sujetarse a tratamiento o disposición final conforme a lo dispuesto en esta Ley y demás ordenamientos que de ella deriven;
 
 XIX. Residuos de Manejo Especial: Son aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos;
 
-XX. Residuos Sólidos Urbanos: Los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole;
+XX. Residuos Sólidos Urbanos: Los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole;
 
 XXI. Secretaría: La Secretaría del Medio Ambiente para el Desarrollo Sustentable del Estado;
 
 XXII. Secretaría Federal: Secretaría de Medio Ambiente y Recursos Naturales;
 
-XXIII. Tratamiento: El procedimiento mecánico, físico, químico, biológico e térmico, mediante el cual se cambian las características de los residuos sólidos y se reduce su volumen o peligrosidad;
+XXIII. Tratamiento: El procedimiento mecánico, físico, químico, biológico o térmico, mediante el cual se cambian las características de los residuos sólidos y se reduce su volumen o peligrosidad;
 
 XXIV. Tratamiento Térmico: Cualquier proceso para reducir el volumen y descomponer o cambiar la composición física, química o biológica de un residuo sólido, líquido o gaseoso, mediante oxidación térmica, convirtiéndolos en gases y residuos sólidos no combustibles.
 
@@ -233,7 +233,7 @@ XXIII. Vigilar, inspeccionar y verificar el cumplimiento de los instrumentos y d
 
 XXIV. Presentar denuncias y querellas ante la autoridad competente si como resultado de una visita de inspección se detecta la comisión de un delito;
 
-XXV. Imponer las sanciones y medidas de seguridad que procedan, de acuerdo con la normatividad aplicable y lo que establezcan los convenios que se suscriban con la Federación y con los ayuntamientos; y
+XXV. Imponer las sanciones y medidas de seguridad que procedan, de acuerdo con la normatividad aplicable y lo que establezcan los convenios que se suscriban con la Federación y con los ayuntamientos; y (sic)
 
 XXVI. Regular la instalación, funcionamiento y manejo de rellenos sanitarios de carácter municipal, regional o metropolitanos;
 
@@ -941,9 +941,11 @@ La disposición de residuos sólidos urbanos o de manejo especial en rellenos sa
 
 En localidades en las cuales pueda darse un máximo aprovechamiento a los residuos sólidos urbanos orgánicos y de manejo especial, mediante la elaboración de composta, se limitará el entierro en rellenos sanitarios de este tipo de residuos, para prevenir la formación de lixiviados, salvo en los casos en los cuales se prevea la generación y aprovechamiento del biogás generado por los residuos orgánicos confinados. En este último caso, los rellenos sanitarios emplearán mecanismos para instalar sistemas de extracción de gas para su recolección y posterior uso para producir electricidad o utilizarlo como combustible alterno.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2012)</small>
+
 ###### Artículo 71.
 
-Queda prohibida la selección o pepena de los residuos en los sitios destinados para relleno sanitario.
+Es obligatorio para los dueños y operadores de rellenos sanitarios y sitios de disposición final, estatales, municipales, concesionados o privados, establecer las condiciones técnicas y humanas necesarias para evitar que la totalidad de los residuos orgánicos e inorgánicos sean depositados o cubiertos sin que previamente se hayan separado, recuperado o valorizado.
 
 ###### Artículo 72.
 
@@ -993,7 +995,7 @@ I. Caracterizar los sitios que hayan funcionado como tiraderos a cielo abierto;
 
 II. Determinar en qué casos, el riesgo provocado por la contaminación por residuos en esos sitios hace necesaria su remediación;
 
-III. Los procedimientos ambiental mente adecuados a seguir para el cierre de esos sitios; y,
+III. Los procedimientos ambientalmente adecuados a seguir para el cierre de esos sitios; y,
 
 IV. Los procedimientos para llevar a cabo su remediación, cuando sea el caso.
 
@@ -1057,7 +1059,7 @@ Las medidas de seguridad previstas en este Capítulo, se sujetarán a lo dispues
 
 ###### Artículo 86.
 
-Cuando la autoridad correspondiente imponga alguna de las medidas de seguridad previstas en esta Ley, deberá indicar al interesado' las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que, una vez cumplidas éstas, se ordene el retiro de la medida de seguridad impuesta; lo anterior, sin perjuicio de las sanciones que en derecho correspondan.
+Cuando la autoridad correspondiente imponga alguna de las medidas de seguridad previstas en esta Ley, deberá indicar al interesado las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que, una vez cumplidas éstas, se ordene el retiro de la medida de seguridad impuesta; lo anterior, sin perjuicio de las sanciones que en derecho correspondan.
 
 ### CAPÍTULO III. DE LAS INFRACCIONES
 
@@ -1195,7 +1197,7 @@ La exención de responsabilidad sólo se producirá acreditando que, a pesar de 
 
 ###### Artículo 96.
 
-La Secretaría y los Ayuntamientos, según su ámbito de competencia, serán responsables en los términos de la Ley de Responsabilidad Patrimonial del Estado de Jalisco y sus municipios, por los perjuicios ocasionados a los usuarios, y están en la obligación de actuar contra los administradores, funcionarios y concesionarios que sean responsables por dolo o culpa sin perjuicio de las sancionas penales a que haya lugar.
+La Secretaría y los Ayuntamientos, según su ámbito de competencia, serán responsables en los términos de la Ley de Responsabilidad Patrimonial del Estado de Jalisco y sus municipios, por los perjuicios ocasionados a los usuarios, y están en la obligación de actuar contra los administradores, funcionarios y concesionarios que sean responsables por dolo o culpa sin perjuicio de las sanciones penales a que haya lugar.
 
 ###### Artículo 97.
 
@@ -1262,3 +1264,9 @@ El Secretario General de Gobierno
 C.P. JOSÉ RAFAEL RÍOS MARTÍNEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE JUNIO DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
