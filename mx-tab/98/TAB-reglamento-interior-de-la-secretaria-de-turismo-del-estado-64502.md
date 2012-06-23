@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-turismo-del-estado-6450
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-29"
-last_updated: "2008-10-29"
+last_updated: "2012-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO DEL ESTADO DE TABASCO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2012.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 29 de octubre de 2008.
 
@@ -83,9 +83,9 @@ La Secretaría, para el despacho de los asuntos de su competencia, contará con 
 
 1.2 UNIDAD DE COMUNICACIÓN SOCIAL.
 
-1.3 DIRECCIÓN DE ENLACE A FIDEICOMISOS TURÍSTICOS Y SECTOR EMPRESARIAL.
+1.3 (DEROGADO, P.O. 23 DE JUNIO DE 2012)
 
-1.4 UNIDAD DE RELACIONES PÚBLICAS.
+1.4 (DEROGADO, P.O. 23 DE JUNIO DE 2012)
 
 1.5 DIRECCIÓN DE EVENTOS ESPECIALES.
 
@@ -103,15 +103,19 @@ La Secretaría, para el despacho de los asuntos de su competencia, contará con 
 
 2.2 DIRECCIÓN DE PROMOCIÓN Y MERCADOTECNIA TURÍSTICA.
 
-2.3 DIRECCIÓN DE CAPACITACIÓN Y ADIESTRAMIENTO TURÍSTICO.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2012)</small>
+
+2.3 DIRECCIÓN DE ENLACE A FIDEICOMISOS TURÍSTICOS, SECTOR EMPRESARIAL Y CAPACITACIÓN TURÍSTICA.
 
 ###### Artículo 7.
 
 Corresponde al Secretario la atención, tramitación y resolución de los asuntos de su competencia, pudiendo delegar en los servidores públicos subalternos cualquiera de sus atribuciones, excepto aquellas que por disposición de la Ley o del presente Reglamento deban ser ejercidas exclusivamente por él.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2012)</small>
+
 ###### Artículo 8.
 
-Al frente de la subsecretaría, dirección o coordinación habrá un titular que será el responsable de su correcto funcionamiento. Los titulares serán auxiliados por los subdirectores, jefes de departamento, jefes de área, jefes de proyecto y por los demás servidores públicos que correspondan y que señalen en los manuales de organización respectivos y en las disposiciones jurídicas aplicables, así como también por aquellos que se requieran por las necesidades de servicio y que figuren en el presupuesto autorizado.
+Al frente de la Subsecretaría, Dirección o Unidad, habrá un titular que será el responsable de su correcto funcionamiento. Los titulares serán auxiliados por los jefes de departamento, jefes de área, jefes de proyecto y por los demás servidores públicos que correspondan y que señalen en los manuales de organización respectivos y en las disposiciones jurídicas aplicables, así como también por aquellos que se requieran por las necesidades de servicio y que figuren en el presupuesto autorizado.
 
 ###### Artículo 9.
 
@@ -127,7 +131,9 @@ d) No ser ministro de algún culto religioso; y
 
 e) Ser preferentemente profesionista en cualquiera de las disciplinas referidas a su función.
 
-Para desempeñar los cargos de director, subdirector y jefe de departamento se requerirá tener 21 años como mínimo y los demás requisitos señalados en éste artículo.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2012)</small>
+
+Para desempeñar los cargos de Director y Jefe de Departamento, se requerirá tener 21 años como mínimo y los demás requisitos señalados en éste artículo.
 
 Para desempeñar los cargos de jefe de área y de proyecto se requerirán tener 18 años y bastará con tener conocimientos en al (sic) área.
 
@@ -213,81 +219,53 @@ VIII. Las demás que expresamente le atribuya este Reglamento, la normatividad a
 
 ### CAPÍTULO SEGUNDO. DE LA UNIDAD DE COMUNICACIÓN SOCIAL
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2012)</small>
+
 ###### Artículo 12.
 
-La Unidad de Comunicación Social contará con las siguientes atribuciones:
+la Unidad de Comunicación Social contará con las siguientes atribuciones:
 
-I. Formular sus programas de comunicación social con la intervención que corresponda a la Coordinación General de Comunicación Social y Relaciones Públicas del Gobierno del Estado;
+I. Formular los programas de comunicación social con la intervención que corresponda a la Coordinación General de Comunicación Social y Relaciones Públicas de la Gubernatura, e interactuar con la misma para el correcto ejercicio de sus atribuciones;
 
-II. Formular y desarrollar los programas de información, difusión y prensa de la Secretaria en medios de comunicación;
+II. Formular y desarrollar los programas de información, difusión y prensa de la Secretaría, en los medios de comunicación;
 
 III. Conducir las relaciones con los medios de comunicación;
 
-IV. Organizar, supervisar entrevistas y conferencias con la prensa nacional e internacional y boletines prensa;
+IV. Organizar, supervisar entrevistas y conferencias con la prensa nacional e internacional y emitir boletines de prensa;
 
 V. Coordinar las acciones de edición e impresión de las publicaciones oficiales de la Secretaría;
 
-VI. Captar, analizar y difundir la información relevante para la Secretaría y la actividad turística en general que se realice en los medíos de comunicación;
+VI. Captar, analizar y difundir la información relevante para la Secretaría y la actividad turística en general que se realice en los medios de comunicación;
 
 VII. Promover y gestionar los espacios de participación de la Secretaría en la radio y la televisión, para difundir programas en materia turística;
 
-VIII. Apoyar a las unidades administrativas de la Secretaria en sus actividades de comunicación social; y
+VIII. Apoyar a las unidades administrativas de la Secretaría en sus actividades de comunicación social;
 
-IX. Las demás que expresamente le atribuya este Reglamento, la normatividad aplicable y las que le confiera el Secretario.
+IX. Proporcionar la información en materia turística o cooperación que requieran otras dependencias del Ejecutivo;
 
-### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE ENLACE A FIDEICOMISOS TURÍSTICOS Y SECTOR
+X. Informar al Secretario de las actividades que lleve a cabo, así como de los eventos que realice o en los que participe;
 
-EMPRESARIAL
+XI. Coordinar las actividades y apoyos que se requieran en materia de relaciones públicas, en la realización de eventos turísticos que se desarrollen en el Estado, en los cuales sea directamente responsable;
+
+XII. Atender a aquellas personas que con motivo de una función pública relacionada con la Secretaría, visiten el Estado con importantes consecuencias sociales, económicas, políticas, académicas o culturales; y
+
+XIII. Las demás que expresamente le atribuya este Reglamento, la normatividad aplicable y las que les confiera el Secretario.
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE JUNIO DE 2012)</small>
+
+### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE ENLACE A FIDEICOMISOS TURÍSTICOS Y SECTOR EMPRESARIAL
 
 ###### Artículo 13.
 
-Corresponde a la Dirección de Enlace a Fideicomisos Turísticos y Sector Empresarial, el ejercicio de las siguientes atribuciones:
+(DEROGADO, P.O. 23 DE JUNIO DE 2012)
 
-I. Enlazar a la Secretaría con fuentes de financiamiento que se originen de los diversos fideicomisos que se creen para la promoción y el desarrollo turístico del Estado;
-
-II. Servir de enlace y apoyo en la realización de eventos, ferias, exposiciones, congresos y convenciones, así como cierre de eventos locales, regionales, nacionales e internacionales;
-
-III. Servir como facilitador en el otorgamiento de asesorías a grupos de operadores, prestadores de servicios y visitantes potenciales en los eventos que generen beneficios en el Estado en materia de turismo;
-
-IV. Colaborar con el objeto de mantener una búsqueda continua de alternativas para aumentar el destino turístico a través de cámaras, asociaciones, sociedades públicas y privadas, nacionales e internacionales;
-
-V. Brindar apoyo en el impulso de ventas del producto turístico al sector empresarial;
-
-VI. Organizar, evaluar y coordinar el funcionamiento y desempeño de los fideicomisos del sector;
-
-VII. Acordar con el Secretario la resolución de los asuntos relevantes y el tratamiento correspondiente;
-
-VIII. Ejercer las funciones que le sean delegadas y aquellas que le correspondan por suplencia;
-
-IX. Formular, con la colaboración de la Dirección de Planeación y la Dirección de Administración, el anteproyecto de presupuesto de su área y una vez aprobado, vigilar su correcta y oportuna ejecución;
-
-X. Mantener coordinación con los titulares de las diversas áreas de la Secretaría para el mejor despacho de los asuntos de su competencia;
-
-XI. Proponer al Secretario el ingreso, promociones, licencias y remociones del personal a su cargo;
-
-XII. Coordinar con la subsecretaría y/o unidades de la Secretaría, toda actividad administrativa interna que requiera atención propia de su área; y
-
-XIII. Las demás que expresamente le atribuya este Reglamento, la normatividad aplicable y las que le confiera el Secretario.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE JUNIO DE 2012)</small>
 
 ### CAPÍTULO CUARTO. DE LA UNIDAD DE RELACIONES PÚBLICAS
 
 ###### Artículo 14.
 
-Corresponde a la Unidad de Relaciones Públicas el ejercicio de las siguientes atribuciones:
-
-I. Proporcionar la información en materia turística o cooperación que requieran otras dependencias del Ejecutivo;
-
-II. Interactuar con la Coordinación General de Comunicación Social y Relaciones Públicas de la Gubernatura, para el correcto ejercicio de sus atribuciones;
-
-III. Informar al Secretario de las actividades que lleve a cabo, así como de los eventos que realice o en los que participe;
-
-IV. Colaborar con la Unidad de Comunicación Social en las acciones de edición e impresión de las publicaciones oficiales de la Secretaría;
-
-V. Coordinar las actividades y apoyos que se requieran en materia de relaciones públicas, en la realización de eventos turísticos que se desarrollen en el Estado, en los cuales sea directamente responsable;
-
-VI. Atender a aquellas personas que con motivo de una función pública relacionada con la Secretaría, visiten el Estado con importantes consecuencias sociales, económicas, políticas, académicas o culturales; y
-
-VII. Las demás que expresamente le atribuya este Reglamento, la normatividad aplicable y las que les confiera el Secretario.
+(DEROGADO, P.O. 23 DE JUNIO DE 2012)
 
 ### CAPÍTULO QUINTO. DE LA DIRECCIÓN DE EVENTOS ESPECIALES
 
@@ -339,7 +317,9 @@ III. Asesorar en la formalización de los presupuestos de gasto corriente e inve
 
 IV. Integrar el presupuesto de gasto corriente e inversión de la Secretaría, de acuerdo con los objetivos y metas establecidas;
 
-V. Tramitar ante la Secretaría de Administración y Finanzas y la Secretaria de Planeación, los oficios de autorización de inversión de las unidades administrativas de la Secretaría, así como las transferencias y reasignación de recursos;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2012)</small>
+
+V. Tramitar ante la Secretaría de Administración y Finanzas, y la Secretaría de Planeación y Desarrollo Social, los oficios de autorización de inversión de las unidades administrativas de la Secretaría, así como las transferencias y reasignación de recursos;
 
 VI. Coordinar y participar en las acciones para integrar el anuario estatal y estadístico, evaluaciones trimestrales, informes de avances físicos por programa, así como la información para el informe de gobierno correspondiente a la Secretaría;
 
@@ -437,7 +417,9 @@ XIV. Intervenir y constituirse como apoderado legal ante los órganos administra
 
 XV. Expedir copias certificadas de los documentos que obran en los archivos y expedientes de la Dirección a su cargo y en los de la Secretaría;
 
-XVI. Representar al Secretario, Subsecretario y demás Directores en los eventos que el Secretario le designe;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2012)</small>
+
+XVI. Representar al Secretario en los eventos de carácter legal que él mismo le designe;
 
 XVII. Revisar los aspectos legales de los asuntos internacionales competencia de la Secretaría, como brindar asesoría jurídica en la celebración, cumplimiento e interpretación de convenios bilaterales y multilaterales de cooperación turística; de igual forma, concertar acciones en la materia con otras dependencias y entidades de la Administración Pública Estatal y asesorar en la celebración de acuerdos con los Gobiernos Municipales;
 
@@ -505,93 +487,111 @@ XXI. Las demás que expresamente le atribuya este Reglamento, la normatividad ap
 
 Corresponde a la Unidad de Acceso a la Información, el ejercicio de las atribuciones que establece el artículo 39 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco.
 
-## TÍTULO CUARTO. DE LAS FACULTADES GENÉRICAS DE LAS UNIDADES OPERATIVAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JUNIO DE 2012)</small>
 
-### CAPÍTULO PRIMERO. DE LA SUBSECRETARÍA DE DESARROLLO, PROMOCIÓN Y CAPACITACIÓN TURÍSTICA
+## TITULO CUARTO. DE LAS FACULTADES GENÉRICAS
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2012)</small>
+
+### CAPÍTULO ÚNICO. DE LOS DIRECTORES
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2012)</small>
 
 ###### Artículo 20.
 
-El Subsecretario tendrá las siguientes facultades genéricas:
+Corresponde a los Directores el ejercicio de las siguientes funciones:
 
-I. Acordar con el Secretario el despacho de los asuntos que les correspondan, así como los de las unidades administrativas bajo su responsabilidad e informarle sobre el desarrollo de los programas a su cargo;
+I. Formular los dictámenes e informes que le sean solicitados por el superior jerárquico;
 
-II. Desempeñar las comisiones que el Secretario le encomiende y representar a la Secretaría, en cualquier acto que el propio Secretario determine;
+II. Acordar con el Secretario la resolución de los asuntos relevantes y el tratamiento correspondiente;
 
-III. Elaborar un anteproyecto de presupuesto anual y una vez aprobado por el Secretario, vigilar su correcta aplicación por las unidades administrativas adscritas;
+III. Ejercer las funciones que le sean delegadas y aquellas que le correspondan por suplencia;
 
-IV. Someter a consideración del Secretario la creación, organización, modificación, fusión o supresión de las unidades administrativas a su cargo;
+IV. Intervenir en la selección del personal de la dirección a su cargo y en el otorgamiento de las licencias y demás incidencias a que haya lugar;
 
-V. En el desempeño de sus atribuciones se auxiliarán de las unidades subalternas, y sin perjuicio de su responsabilidad;
+V. Mantener coordinación con los titulares de las diversas áreas de la Secretaría para el mejor despacho de los asuntos de su competencia;
 
-VI. Suscribir los documentos relativos al ejercicio de sus atribuciones, aquéllos que les sean señalados por delegación de facultades y los que les correspondan en funciones de suplencia, previo acuerdo con el Secretario;
+VI. Asesorar técnicamente en asuntos de su especialidad a los servidores públicos de la Secretaría;
 
-VII. Dirigir, controlar y evaluar la operación de las unidades administrativas a su cargo, de acuerdo con las políticas y prioridades que determine el Secretario;
+VII. Proponer al Secretario el ingreso, promociones, licencias y remociones del personal a su cargo;
 
-VIII. Vigilar el cumplimiento de las disposiciones jurídicas aplicables, de acuerdo a la normatividad, en la tramitación de los asuntos de su competencia en coordinación con la Dirección de Asuntos Jurídicos;
+VIII. Coordinar con la Subsecretaría y las unidades administrativas, toda actividad interna que requiera atención propia de su área, para el mejor funcionamiento de la Secretaría;
 
-IX. Establecer las normas y procedimientos de trabajo que regulen el funcionamiento de las unidades administrativas bajo su responsabilidad, y coordinarlas con la Dirección de Administración;
+IX. Delegar las disposiciones que le confiere éste Reglamento al personal adscrito a su dirección, sin perjuicio de su ejercicio directo;
 
-X. Someter a la aprobación del Secretario los estudios y proyectos que se elaboren por las unidades administrativas adscritas;
+X. Recibir en acuerdo a los servidores públicos adscritos a la dirección a su cargo;
 
-XI. Recibir a los servidores públicos subalternos de la Subsecretaría y conceder audiencia al público bajo los lineamientos que establezca el Secretario, e informar y dar seguimiento sobre los resultados obtenidos;
+XI. Rendir un informe mensual al superior jerárquico; y
 
-XII. Proponer la delegación en servidores públicos subalternos, de facultades que se le hayan encomendado, bajo autorización del Secretario;
+XII. Las demás que expresamente le atribuya este Reglamento, la normatividad aplicable o el superior jerárquico en el ejercicio de sus atribuciones.
 
-XIII. Participar en la integración de la cuenta pública e informe de gobierno;
-
-XIV. Actuar con calidad moral y buenas costumbres en sus funciones, por el cargo que les confiere el Estado y conforme a las leyes estatales;
-
-XV. Guardar la debida discreción sobre los asuntos de la Secretaría, toda información pública relacionada con la Secretaría la aportará para que sea debidamente publicada en el portal de transparencia; y
-
-XVI. Las demás que expresamente le atribuya este Reglamento, la normatividad aplicable y las que le confiera el Secretario.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE JUNIO DE 2012)</small>
 
 ### CAPÍTULO SEGUNDO. DE LAS FACULTADES GENÉRICAS DE LOS (SIC) DIRECCIONES
 
 ###### Artículo 21.
 
-Corresponde a los directores el ejercicio de las siguientes funciones:
+(DEROGADO, P.O. 23 DE JUNIO DE 2012)
 
-I. Formular los dictámenes e informes que le sean solicitados por el superior jerárquico;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JUNIO DE 2012)</small>
 
-II. Intervenir en la selección del personal de la dirección a su cargo y en el otorgamiento de las licencias y demás incidencias a que haya lugar;
+## TÍTULO QUINTO. DE LAS FACULTADES ESPECÍFICAS DE LA SUBSECRETARÍA Y DIRECCIONES
 
-III. Asesorar técnicamente en asuntos de su especialidad a los servidores públicos de la Secretaría;
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2012)</small>
 
-IV. Coordinarse con los titulares de otras unidades administrativas cuando así se requiera, para el mejor funcionamiento de la Secretaria;
+### CAPÍTULO ÚNICO. DE LA SUBSECRETARÍA DE DESARROLLO, PROMOCIÓN Y CAPACITACIÓN TURÍSTICA
 
-V. Delegar las disposiciones que le confiere éste Reglamento al personal adscrito a su dirección; sin perjuicio de su ejercicio directo;
-
-VI. Recibir en acuerdo a los servidores públicos adscritos a la dirección a su cargo;
-
-VII. Rendir un informe mensual al superior jerárquico; y
-
-VIII. Las demás que expresamente le atribuya este Reglamento y la normatividad aplicable, así como las que les confiera el Secretario en el ejercicio de sus atribuciones.
-
-## TÍTULO QUINTO. DE LAS FACULTADES ESPECÍFICAS DE LAS UNIDADES OPERATIVAS
-
-### CAPÍTULO PRIMERO. DE LA SUBSECRETARÍA DE DESARROLLO, PROMOCIÓN Y CAPACITACIÓN TURÍSTICA
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2012)</small>
 
 ###### Artículo 22.
 
 A la Subsecretaría de Desarrollo, Promoción y Capacitación Turística, le corresponde el ejercicio de las siguientes atribuciones:
 
-I. Establecer líneas de acción pertinentes, encaminados a informar, difundir y promover los programas Mundo Maya, Acuerdo de los Estados del Golfo de México y el Plan Puebla-Panamá a nivel internacional, nacional, regional y estatal;
+I. Acordar con el Secretario el despacho de los asuntos que les correspondan, así como los de las unidades administrativas bajo su responsabilidad e informarle sobre el desarrollo de los programas a su cargo;
 
-II. Mantener comunicación con entidades privadas, gremios, asociaciones y prestadores de servicios turísticos, para conocer su problemática e integrar soluciones;
+II. Desempeñar las comisiones que el Secretario le encomiende y representar a la Secretaría en cualquier acto que el propio Secretario determine;
 
-III. Implementar y concretar en colaboración con el Fondo Nacional de Fomento al Turismo y las dependencias correspondientes, proyectos de inversión para la promoción de actividades turísticas;
+III. Elaborar un anteproyecto de presupuesto anual y una vez aprobado por el Secretario, vigilar su correcta aplicación por las unidades administrativas adscritas;
 
-IV. Instrumentar estrategias que impulsen el desarrollo de nuevos productos turísticos orientado al segmento de turismo alternativo, cinegético, cultural, de grupos y convenciones, entre otros, que otorguen valor agregado a los diversos destinos del Estado, preferentemente en coordinación con los sectores público, social y privado;
+IV. Someter a consideración del Secretario la creación, organización, modificación, fusión o supresión de las unidades administrativas a su cargo;
 
-V. Fomentar y contribuir a la consolidación del Estado como líder del turismo, de negocios, ferias y exposiciones en el sureste mexicano;
+V. Suscribir los documentos relativos al ejercicio de sus atribuciones, aquellos que les sean señalados por delegación de facultades y los que les correspondan en funciones de suplencia previo acuerdo con el Secretario;
 
-VI. Fortalecer y consolidar los servicios en los sitios típicos y culturales del Estado, para proporcionar y ampliar la gama de los productos turísticos de cultura, entretenimiento y prolongar la estadía de los visitantes;
+VI. Dirigir, controlar y evaluar la operación de las unidades administrativas a su cargo, de acuerdo con las políticas y prioridades que determine el Secretario;
 
-VII. Fomentar el desarrollo de proyectos turísticos comunitarios promoviendo la actividad turística para el desarrollo sustentable del Estado;
+VII. Vigilar el cumplimiento de las disposiciones jurídicas aplicables en la tramitación de los asuntos de su competencia, en coordinación con la Dirección de Asuntos Jurídicos;
 
-VIII. Participar en las reuniones, foros, ferias y eventos de los programas Mundo Maya, Plan Puebla-Panamá y Acuerdos de los Estados del Golfo de México, para establecer comunicación con los representantes de los Estados y Países que integran estos programas, con la finalidad de tener una participación activa en beneficio de la actividad turística del Estado; y
+VIII. Establecer las normas y procedimientos de trabajo que regulen el funcionamiento de las unidades administrativas bajo su responsabilidad y coordinarlas con la Dirección de Administración;
 
-IX. Coordinar con la Dirección de Desarrollo de Productos y Servicios Turísticos la elaboración de estudios de las zonas factibles de desarrollo turístico en los que se presente mayor posibilidad de inversión, en las regiones que abarcan los programas Plan Puebla-Panamá y el Acuerdo de los Estados del Golfo de México y Mundo Maya.
+IX. Someter a la aprobación del Secretario los estudios y proyectos que se elaboren por las unidades administrativas adscritas;
+
+X. Recibir a los servidores públicos subalternos que integran la Subsecretaría y conceder audiencia al público bajo los lineamientos que establezca el Secretario e informar y dar seguimiento sobre los resultados obtenidos;
+
+XI. Proponer la delegación en servidores públicos subalternos, de facultades que se le hayan encomendado, bajo autorización del Secretario;
+
+XII. Participar en la integración de la cuenta pública e informe de gobierno;
+
+XIII. Aportar la información pública relacionada con la Secretaría para que sea debidamente publicada en el portal de transparencia;
+
+XIV. Establecer líneas de acción pertinentes, encaminados a informar, difundir y promover los programas Mundo Maya, Acuerdo de los Estados del Golfo de México y el Plan Puebla-Panamá a nivel internacional, nacional, regional y estatal;
+
+XV. Mantener comunicación con entidades privadas, gremios, asociaciones y prestadores de servicios turísticos, para conocer su problemática e integrar soluciones;
+
+XVI. Implementar y concretar en colaboración con el Fondo Nacional de Fomento al Turismo y las dependencias correspondientes, proyectos de inversión para la promoción de actividades turísticas;
+
+XVII. Instrumentar estrategias que impulsen el desarrollo de nuevos productos turísticos orientado al segmento de turismo alternativo, cinegético, cultural, de grupos y convenciones, entre otros, que otorguen valor agregado a los diversos destinos del Estado, preferentemente en coordinación con los sectores público, social y privado;
+
+XVIII. Fomentar y contribuir a la consolidación del Estado como líder del turismo, de negocios, ferias y exposiciones en el sureste mexicano;
+
+XIX. Fortalecer y consolidar los servicios en los sitios típicos y culturales del Estado, para proporcionar y ampliar la gama de los productos turísticos de cultura, entretenimiento y prolongar la estadía de los visitantes;
+
+XX. Fomentar el desarrollo de proyectos turísticos comunitarios promoviendo la actividad turística para el desarrollo sustentable del Estado;
+
+XXI. Participar en las reuniones, foros, ferias y eventos de los programas Mundo Maya, Plan Puebla-Panamá y Acuerdos de los Estados del Golfo de México, para establecer comunicación con los representantes de los Estados y Países que integran estos programas, con la finalidad de tener una participación activa en beneficio de la actividad turística del Estado;
+
+XXII. Coordinar con la Dirección de Desarrollo de Productos y Servicios Turísticos la elaboración de estudios de las zonas factibles de desarrollo turístico en los que se presente mayor posibilidad de inversión, en las regiones que abarcan los programas Plan Puebla-Panamá y el Acuerdo de los Estados del Golfo de México y Mundo Maya; y
+
+XXIII. Las demás que expresamente le atribuya este Reglamento, la normatividad aplicable y las que le confiera el Secretario.
 
 #### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE DESARROLLO DE PRODUCTOS Y SERVICIOS TURÍSTICOS
 
@@ -729,53 +729,71 @@ XXVI. Impulsar el posicionamiento ventajoso del destino turístico en el mercado
 
 XXVII. Concertar acciones con prestadores de servicios turísticos e instituciones públicas, sociales y privadas, para fomentar el desarrollo, promoción y comercialización de servicios, actividades, destinos y productos, atendiendo las demandas de recreación y esparcimiento del sector social a través del turismo.
 
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE CAPACITACIÓN Y ADIESTRAMIENTO TURÍSTICO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JUNIO DE 2012)</small>
+
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE ENLACE A FIDEICOMISOS TURÍSTICOS, SECTOR EMPRESARIAL Y CAPACITACIÓN TURÍSTICA
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2012)</small>
 
 ###### Artículo 25.
 
-Corresponde a la Dirección de Capacitación y Adiestramiento Turístico el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección de Enlace a Fideicomisos Turísticos, Sector Empresarial y Capacitación Turística, el ejercicio de las siguientes atribuciones:
 
-l. Propiciar el desarrollo de la cultura turística sobre base de la concertación con autoridades turísticas, educativas y laborales de los tres niveles de gobierno, así como la vinculación con los sectores empresarial, laboral y académico relacionados con el Sector Turístico;
+I. Enlazar a la Secretaría con fuentes de financiamiento que se originen de los diversos fideicomisos que se creen para la promoción y el desarrollo turístico del Estado;
 
-II. Instrumentar y proponer estrategias de concientización que contribuyan a fomentar la valoración de la actividad turística, a partir de la difusión de los conceptos, criterios y valores que conforman la cultura turística, enfocadas a diferentes segmentos y susceptibles de ser adaptadas en función de las características locales;
+II. Servir de enlace y apoyo en la realización de eventos, ferias, exposiciones, congresos y convenciones; así como cierre de eventos locales, regionales, nacionales e internacionales;
 
-III. Promover la actualización, formación, participación y modernización del personal asignado a la capacitación (agentes o instructores), para conformar un equipo altamente calificado en la cobertura de temáticas y talleres en función de los requerimientos del Sector Turístico;
+III. Servir como facilitador en el otorgamiento de asesorías a grupos de operadores, prestadores de servicios y visitantes potenciales en los eventos que generen beneficios en el Estado en materia de turismo;
 
-IV. Diseñar e instrumentar programas de capacitación, formación de recursos humanos y actualización para el turismo, en función de los requerimientos regionales, estatales y municipales;
+IV. Colaborar con el objeto de mantener una búsqueda continua de alternativas para aumentar el destino turístico a través de cámaras, asociaciones, sociedades públicas y privadas, nacionales e internacionales;
 
-V. Llevar un registro completo y actualizado de los centros de enseñanza turística y difundirlo entre los prestadores de servicios turísticos y los estudiantes;
+V. Brindar apoyo en el impulso de ventas del producto turístico al sector empresarial;
 
-VI. Promover la vinculación entre empresas y escuelas para actualizar los planes y programas educativos, acordes a las necesidades de formación en materia turística;
+VI. Organizar, evaluar y coordinar el funcionamiento y desempeño de los fideicomisos del sector;
 
-VII. Mantener contacto permanente con las instituciones educativas relacionadas con el sector, a fin de fomentar su participación en los proyectos para el desarrollo de la cultura turística;
+VII. Formular, con la colaboración de la Dirección de Planeación y la Dirección de Administración, el anteproyecto de presupuesto de su área y una vez aprobado, vigilar su correcta y oportuna ejecución;
 
-VIII. Promover el impulso de una cultura de calidad, higiene y seguridad en la distribución y preparación de alimentos en los prestadores de servicios turísticos de alimentos y bebidas, apoyando procesos de certificación de los mismos;
+VIII. Propiciar el desarrollo de la cultura turística sobre base de la concertación con autoridades turísticas, educativas y laborales de los tres niveles de gobierno, y la vinculación con los sectores empresarial, laboral y académico relacionados con el Sector Turístico;
 
-IX. Promover; en coordinación con las autoridades que correspondan, así como empresas, cámaras, asociaciones y gremios sindicales, los programas de certificación de competencias laborales;
+IX. Instrumentar y proponer estrategias de concientización que contribuyan a fomentar la valoración de la actividad turística, a partir de la difusión de los conceptos, criterios y valores que conforman la cultura turística, enfocada a diferentes segmentos y susceptible de ser adaptadas en función de las características locales;
 
-X. Fortalecer el sector a través de la capacitación y modernización de la pequeña y mediana empresa turística;
+X. Promover la actualización, formación, participación y modernización del personal asignado a la capacitación (agentes o instructores), para conformar un equipo altamente calificado en la cobertura de temáticas y talleres en función de los requerimientos del Sector Turístico;
 
-XI. Desarrollar e instrumentar los mecanismos de evaluación y seguimiento permanente de las acciones de capacitación y modernización;
+XI. Diseñar e instrumentar programas de capacitación, formación de recursos humanos y actualización para el turismo, en función de los requerimientos regionales, estatales y municipales;
 
-XII. Fomentar el desarrollo de proyectos de investigación y estudios que coadyuven al mejoramiento en la toma de decisiones en las instituciones y empresas de los sectores público, social y privado relacionadas con la actividad turística;
+XII. Llevar un registro completo y actualizado de los centros de enseñanza turística y difundirlo entre los prestadores de servicios turísticos y los estudiantes;
 
-XIII. Difundir por cualquier medio, previa autorización, los resultados de las investigaciones que realice;
+XIII. Promover la vinculación entre empresas y escuela para actualizar los planes y programas educativos, acordes a las necesidades de formación en materia turística;
 
-XIV. Impulsar la innovación y el desarrollo tecnológico de las instituciones y empresas que conforman el sector;
+XIV. Mantener contacto permanente con las instituciones educativas relacionadas con el sector, a fin de fomentar su participación en los proyectos para el desarrollo de la cultura turística;
 
-XV. Fomentar la actualización y especialización del personal de las instituciones y empresas de los sectores público, social y privado relacionado con la actividad turística, a través de las actividades de extensión;
+XV. Promover el impulso de una cultura de calidad, higiene y seguridad en la distribución y preparación de alimentos en los prestadores de servicios turísticos de alimentos y bebidas, apoyando procesos de certificación de los mismos;
 
-XVI. Procurar convenios para préstamos o intercambios de material documental, así como todos aquellos acuerdos, bases y otros instrumentos jurídicos con los sectores público, privado y social, incluso a nivel internacional para cumplir con sus funciones;
+XVI. Promover, en coordinación con las autoridades que correspondan, así como empresas, cámaras, asociaciones y gremios sindicales, los programas de certificación de competencias laborales;
 
-XVII. Crear un programa que incluya una base de datos con la información de los jóvenes prestadores de servicio social y prácticas profesionales, y proponer una bolsa de trabajo para establecer vínculos con las empresas y servidores turísticos en la generación de empleos, buscando favorecer ambos sectores;
+XVII. Fortalecer el sector a través de la capacitación y modernización de la pequeña y mediana empresa turística;
 
-XVIII. Incentivar a los prestadores de servicios turísticos en la obtención del distintivo “H”, que consiste en asegurar al turista que el establecimiento cuenta con dicha certificación, con estándares de calidad en el manejo higiénico de alimentos, lo cual se realiza mediante una capacitación que brinda el Centro de Capacitación y Adiestramiento Turístico, además de inspecciones constantes y adecuaciones al mecanismo que normalmente tienen;
+XVIII. Desarrollar e instrumentar los mecanismos de evaluación y seguimiento permanente de las acciones de capacitación y modernización;
 
-XIX. Coadyuvar con las empresas de servicios turísticos o concretizar los procesos de Certificación de Calidad, asesorándolos respecto del contenido y alcance de las Normas Oficiales Mexicanas;
+XIX. Fomentar el desarrollo de proyectos de investigación y estudios que coadyuven al mejoramiento en la toma de decisiones en las instituciones y empresas de los sectores público, social y privado relacionadas con la actividad turística;
 
-XX. Instrumentar programas relacionados con talleres de aprendizaje de dialecto, preparación y uso de medicina tradicional, talleres gastronómicos y artesanales; y
+XX. Difundir por cualquier medio, previa autorización, los resultados de las investigaciones que realice;
 
-XXI. Desarrollar un sistema de información donde se mantenga actualizada la oferta de trabajo existente en el sector, para el acceso del público en general.
+XXI. Impulsar la innovación y el desarrollo tecnológico de las instituciones y empresas que conforman el sector;
+
+XXII. Fomentar la actualización y especialización del personal de las instituciones y empresas de los sectores público, social y privado relacionado con la actividad turística, a través de las actividades de extensión;
+
+XXIII. Procurar convenios para préstamos o intercambios de material documental, así como todos aquellos acuerdos, bases y otros instrumentos jurídicos con los sectores público, privado y social, incluso a nivel internacional para cumplir con sus funciones;
+
+XXIV. Crear un programa que incluya una base de datos con la información de los jóvenes prestadores de servicio social y prácticas profesionales, y así mismo, proponer una bolsa de trabajo para establecer vínculos con las empresas y servidores turísticos en la generación de empleos, buscando favorecer ambos sectores;
+
+XXV. Incentivar a los prestadores de servicios turísticos en la obtención del distintivo “H”, que consiste en asegurar al turista que el establecimiento cuenta con dicha certificación, con estándares de calidad en el manejo higiénico de alimentos, lo cual se realiza mediante una capacitación que brinda el Centro de Capacitación y Adiestramiento Turístico, además de inspecciones constantes y adecuaciones al mecanismo que normalmente tienen;
+
+XXVI. Coadyuvar con las empresas de servicios turísticos o concretizar los procesos de Certificación de Calidad, asesorándolos respecto del contenido y alcance de las Normas Oficiales Mexicanas;
+
+XXVII. Instrumentar programas relacionados con talleres de aprendizaje de dialecto, preparación y uso de medicina tradicional, talleres gastronómicos y artesanales; y
+
+XXVIII. Desarrollar un sistema de información donde se mantenga actualizada la oferta de trabajo existente en el sector, para el acceso del público en general.
 
 ## TÍTULO SEXTO. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS
 
@@ -801,7 +819,9 @@ Los Directores, durante sus ausencias temporales que no excedan de quince días,
 
 Las relaciones de trabajo entre la Secretaría y sus trabajadores, se regularán por la Ley de los Trabajadores al Servicio del Estado.
 
-Se consideran categorías de confianza las de director general, directores de área, subdirectores, jefes de departamento, jefes de área, asesores y en general las que tienen como propósito realizar funciones de dirección, inspección, supervisión, fiscalización, vigilancia y trabajos exclusivos de los titulares o altos funcionarios de la Secretaría.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2012)</small>
+
+Se consideran categorías de confianza las de director general, directores de área, jefes de departamento, jefes de área y en general las que tienen como propósito realizar funciones de dirección, inspección, supervisión, fiscalización, vigilancia y trabajos exclusivos de los titulares o altos funcionarios de la Secretaría.
 
 ## TRANSITORIOS
 
@@ -828,3 +848,13 @@ CONSEJERO JURÍDICO DEL PODER EJECUTIVO.
 LIC. DULCE MARÍA PALOMA RIVES ROBLES
 
 SECRETARIA DE TURISMO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE JUNIO DE 2012.
+
+PRIMERO. Las presentes reformas y derogaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+TERCERO. Los asuntos pendientes al entrar en vigor este Acuerdo, que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuaran su trámite y serán resueltos por aquella o aquellas Unidades a las que se les haya atribuido competencia en este Acuerdo.
