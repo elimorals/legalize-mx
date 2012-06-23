@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2011-10-15"
+last_updated: "2012-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
+CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2012.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -81,15 +81,19 @@ A falta de acuerdo, cualquier municipio podrá acudir ante el Congreso del Estad
 
 Las resoluciones del Congreso del Estado serán definitivas e inatacables. La Sala Constitucional-Electoral del Tribunal Superior de Justicia del Estado conocerá a través de controversia constitucional, a instancia de parte interesada, de los conflictos derivados de la ejecución del correspondiente decreto emitido por el Congreso del Estado.
 
-### CAPITULO III. De los Habitantes
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JUNIO DE 2012)</small>
+
+### CAPITULO III. De los Habitantes y sus Derechos Humanos
 
 ###### Art. 6.
 
 Son habitantes del Estado, todas las personas que radiquen en su territorio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2012)</small>
+
 ###### Art. 7.
 
-El Estado garantiza a sus habitantes sea cual fuere su condición:
+El Estado tiene la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. Todos los habitantes del estado gozarán sea cual fuere su condición:
 
 I. La más estricta igualdad ante las leyes, sin otras diferencias que las que resulten de la condición natural o jurídica de las personas.
 
@@ -137,9 +141,11 @@ Los derechos sociales que esta Constitución otorga a los pueblos y comunidades 
 
 V. La libertad de trasladarse o cambiar de residencia.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2012)</small>
 
-VI. El derecho de propiedad y la libertad de disponer de ella en la forma y términos establecidos por el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos.
+VI. El derecho de propiedad y la libertad de disponer de ella en la forma, limitaciones, modalidades y términos establecidos por los artículos 22 y 27 de la Constitución Política de los Estados Unidos Mexicanos.
+
+En el caso de extinción de dominio, la ley establecerá un procedimiento jurisdiccional autónomo y especial, distinto del de carácter penal, que solamente procederá respecto de los delitos y bienes expresamente determinados por la Constitución General, en el que se incluyan los medios de defensa necesarios para el particular afectado.
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -227,9 +233,9 @@ Todo individuo tiene derecho a conocer la información genómica personal y sus 
 
 Toda investigación biomédica se orientará preferentemente a aliviar las enfermedades y mejorar la salud.
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2012)</small>
 
-XIV.- Todo individuo gozará de los derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos y en los Tratados Internacionales suscritos por el Estado Mexicano.
+XIV.- Todas las personas gozarán de los derechos humanos y de las garantías consagrados en la Constitución Política de los Estados Unidos Mexicanos, en el presente texto constitucional local, así como los contenidos en los Tratados Internacionales de los que el Estado Mexicano sea parte, cuyo ejercicio no podrá restringirse ni suspenderse, salvo los casos y bajo las condiciones previstas en la Constitución Federal.
 
 ###### Art. 8.
 
@@ -345,7 +351,7 @@ I. Las mismas que en esta Constitución se determinan a los vecinos nayaritas.
 
 II. Alistarse en la Guardia Nacional.
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO 2 DEL DECRETO NÚMERO 23, P.O. 30 DE MARZO DE 1919, SE SUPRIME UN PORCIÓN NORMATIVA A LA FRACCIÓN III DEL ARTÍCULO 18 QUE DICE: “CON LA CONDICIÓN ESTABLECIDA EN LA FRACCIÓN I DEL ARTÍCULO ANTERIOR, POR LO QUE RESPECTA A LAS ELECCIONES LOCALES”.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO 2 DEL DECRETO NÚMERO 23, P.O. 30 DE MARZO DE 1919, SE SUPRIME UNA PORCIÓN NORMATIVA A LA FRACCIÓN III DEL ARTÍCULO 18 QUE DICE: “CON LA CONDICIÓN ESTABLECIDA EN LA FRACCIÓN I DEL ARTÍCULO ANTERIOR, POR LO QUE RESPECTA A LAS ELECCIONES LOCALES”.</small>
 
 > <small>(REFORMADA, P.O. 30 DE MARZO DE 1919)</small>
 
@@ -359,7 +365,7 @@ VI. Cooperar al mantenimiento de la paz y del orden público.
 
 VII. Las demás que para los mexicanos señala el artículo 31 de la Constitución Federal.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 25 DE AGOSTO DE 1943)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 25 DE AGOSTO DE 1943)</small>
 
 ###### Art. 19.
 
@@ -435,7 +441,7 @@ El Congreso del Estado se integrará por dieciocho diputados electos por mayorí
 
 La demarcación territorial de los dieciocho distritos electorales, será aprobada por el Instituto Estatal Electoral tomando en consideración la que resulte de dividir la población total del Estado, entre el número de los distritos señalados, considerando regiones geográficas de la Entidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
 ###### Art. 27.
 
@@ -619,7 +625,7 @@ A estas sesiones extraordinarias, precederá una Junta Preparatoria.
 
 La celebración de sesiones extraordinarias no impedirá la elección del Congreso en el tiempo que deba hacerse, y el nuevo seguirá ocupándose del asunto o asuntos de que se ocupaba el saliente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2011)</small>
 
 ###### Art. 42.
 
@@ -1087,7 +1093,7 @@ III.- Iniciar ante la Legislatura, las Leyes y Decretos que juzgue convenientes 
 
 IV.- Conducir y promover el desarrollo integral del Estado, de conformidad con los objetivos, niveles de participación y prioridades del sistema de planeación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 V.- (A). Presentar a la legislatura el presupuesto de gastos del año siguiente, proponiendo arbitrios para cubrirlo, y en los términos que previene esta Constitución, remitirle la cuenta de todos los caudales del Estado.
 
@@ -1219,7 +1225,7 @@ IX. Promulgar Leyes, Decretos o Reglamentos, o expedir órdenes de pago, sin que
 
 El Gobernador del Estado durante el tiempo de sus funciones, será responsable por los delitos oficiales que cometa.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE JUNIO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JUNIO DE 1994)</small>
 
 ### CAPITULO III. De la Organización del Poder Ejecutivo
 
@@ -1463,19 +1469,19 @@ Las competencias, modo de suplir las faltas y obligaciones de los Magistrados, J
 
 Los nombramientos de los Magistrados y Jueces del Poder Judicial del Estado, serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la Administración de Justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica, de acuerdo al procedimiento establecido por esta Constitución y en la Ley Orgánica respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 ###### Art. 90.
 
 Los Magistrados del Tribunal Superior de Justicia, los Jueces y Secretarios, en ejercicio, no podrán, en ningún caso, aceptar ni desempeñar empleo o encargo de la Federación, del Estado, Municipios o de particulares, salvo en instituciones científicas, docentes, literarias o de beneficencia.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
-> <small>(DEROGADO CUARTO PARRAFO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
-> <small>(DEROGADO QUINTO PARRAFO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
@@ -1599,15 +1605,27 @@ Las facultades y obligaciones del Procurador General de Justicia y de los Agente
 
 La protección de los Derechos Humanos, se realizará por el organismo denominado Comisión de Defensa de los Derechos Humanos del Estado de Nayarit, el cual conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público de carácter estatal o municipal.
 
-El organismo a que se refiere el párrafo anterior, formulará recomendaciones públicas no vinculatorias, denuncias y quejas ante las autoridades respectivas; no tendrá competencia tratándose de asuntos electorales, laborales y jurisdiccionales.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2012)</small>
 
-La Comisión de Defensa de los Derechos Humanos del Estado de Nayarit; contará con autonomía de gestión y presupuestaria personalidad jurídica y patrimonio propio, tendrá un Consejo Consultivo integrado por el numero de consejeros que fije la ley los cuales serán elegidos por el voto de la mayoría de los miembros presentes de la Cámara de Diputados o, en sus recesos, por la Diputación Permanente, con la misma votación. La Ley determinará los procedimientos a seguir para la presentación de las propuestas por el propio Congreso.
+El organismo a que se refiere el párrafo anterior, formulará recomendaciones públicas no vinculatorias, denuncias y quejas ante las autoridades respectivas; no tendrá competencia tratándose de asuntos electorales y jurisdiccionales.
 
-El Presidente, quien lo será también del Consejo Consultivo, será elegido en los mismos términos del párrafo anterior. Durará en su encargo cinco años y no podrá ser reelecto y sólo podrá ser removido de sus funciones en los términos del Título Octavo de esta Constitución.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE JUNIO DE 2012)</small>
+
+Todo servidor público o autoridad está obligado a responder las recomendaciones que le formule el organismo. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa; además la Cámara de Diputados, o en sus recesos, la Diputación Permanente, podrán llamar a solicitud del organismo, a las autoridades o servidores públicos responsables para que comparezcan a efecto de que expliquen el motivo de su negativa, en los términos que disponga la ley.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2012)</small>
+
+La Comisión de Defensa de los Derechos Humanos del Estado de Nayarit; contará con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propio; tendrá un Consejo Consultivo integrado por el número de consejeros que fije la ley los cuales serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados o, en sus recesos, por la Diputación Permanente, con la misma votación. La integración de las propuestas por parte del Congreso para la elección de los integrantes del Consejo Consultivo, se ajustará a un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2012)</small>
+
+El Presidente, quien lo será también del Consejo Consultivo, será elegido en los mismos términos del párrafo anterior. Durará en su cargo cinco años, pudiendo ser reelecto por única vez por un período igual en los términos que disponga la ley. Solo podrá ser removido de sus funciones en los términos del Título Octavo de esta Constitución.
 
 El Presidente de la Comisión para la Defensa de los Derechos Humanos del Estado de Nayarit presentará anualmente al Congreso un informe de actividades. Al efecto comparecerá ante la Cámara en los términos que disponga la ley.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO IV. De la Defensoría de Oficio
 
@@ -1871,11 +1889,11 @@ Los bienes del dominio público municipal son inalienables, imprescriptibles e i
 
 (DEROGADO, P.O. 24 DE ENERO DE 2001)
 
-> <small>(REFORMADA SU NUMERACION, P.O. 21 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 21 DE OCTUBRE DE 2000)</small>
 
 ## TITULO SEPTIMO
 
-> <small>(REFORMADA SU NUMERACION, P.O. 21 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 21 DE OCTUBRE DE 2000)</small>
 
 ### CAPITULO PRIMERO.
 
@@ -1999,15 +2017,15 @@ VIII. Poseer, al día del nombramiento, título y cédula profesional de licenci
 
 Dicho titular, durante el ejercicio de su encargo, no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
 ## TITULO OCTAVO
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
 ### CAPITULO UNICO. De la Responsabilidad de los Servidores Públicos
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 1995)</small>
 
 ###### Art. 122.
 
@@ -2037,7 +2055,7 @@ Las Leyes determinarán casos y circunstancias en los que se deba sancionar pena
 
 Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a las que se refiere el presente artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 1995)</small>
 
 ###### Art. 124.
 
@@ -2063,7 +2081,7 @@ Para esos efectos el Congreso del Estado se constituirá separadamente en Jurado
 
 Las declaraciones y Resoluciones del Congreso del Estado son inatacables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2011)</small>
 
 ###### Art. 125.
 
@@ -2135,11 +2153,11 @@ La Ley señalará los casos de prescripción de la responsabilidad administrativ
 
 En demandas del orden civil no habrá fuero, ni inmunidad para ningún servidor público.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 9 DE ABRIL DE 1988)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 9 DE ABRIL DE 1988)</small>
 
 ## TITULO NOVENO
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO UNICO. De la Supremacía, Inviolabilidad y Reformas de esta Constitución
 
@@ -2161,13 +2179,13 @@ Esta Constitución puede ser adicionada o reformada. Las proposiciones que tenga
 
 Las proposiciones de reforma o adición, que no fueren admitidas por la Legislatura, no podrán repetirse en el mismo período de sesiones.
 
-> <small>(ADICIONADA SU NUMERACION, P.O. 9 DE ABRIL DE 1988)</small>
+> <small>(ADICIONADA SU NUMERACIÓN, P.O. 9 DE ABRIL DE 1988)</small>
 
 ## TITULO DECIMO
 
 ### CAPITULO UNICO. Prevenciones Generales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JULIO DE 2011)</small>
 
 ###### Art. 133.
 
@@ -2291,11 +2309,11 @@ La fiscalización de las finanzas de los partidos políticos con registro en el 
 
 Apartado D.- Del Sistema de Medios de Impugnación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 Al Poder Judicial le corresponde garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, en los términos que dispone esta Constitución y la ley; actuará con autonomía e independencia en sus decisiones y dará definitividad a las distintas etapas de los procesos electorales en el ámbito de su competencia. Las sesiones y resoluciones serán públicas, en los términos que disponga la ley.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 Las autoridades electorales sustentarán sus determinaciones en los principios rectores de certeza, legalidad, independencia, imparcialidad y objetividad.
 
@@ -2373,7 +2391,7 @@ EL OF. MAYOR ENCARGADO DE LA SRÍA. DE GOBNO.
 
 J.N. Muñoz Ruiz.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.</small>
 
 P.O. 30 DE MARZO DE 1919.
 
@@ -2469,7 +2487,7 @@ El artículo Segundo del presente Decreto que reforma el artículo 89 de la Cons
 
 P.O. 5 DE ENERO DE 1938.
 
-EL DECRETO QUE DA ORIGEN A LA PRESENTE LEY NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO QUE DA ORIGEN A LA PRESENTE LEY NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 P.O. 12 DE ENERO DE 1938.
 
@@ -2717,7 +2735,7 @@ La presente reforma y adición a la Constitución Política del Estado entrará 
 
 P.O. 15 DE FEBRERO DE 1989.
 
-DECRETO NUMERO 7195, QUE REFORMA ARTS. 81 AL 91.
+DECRETO NÚMERO 7195, QUE REFORMA ARTS. 81 AL 91.
 
 ###### ARTICULO PRIMERO.
 
@@ -2729,7 +2747,7 @@ Se confiere un plazo de quince días hábiles a partir de este fecha, para que l
 
 P.O. 15 DE FEBRERO DE 1989.
 
-DECRETO NUMERO 7195, QUE REFORMA ARTS. 81 AL 91.
+DECRETO NÚMERO 7195, QUE REFORMA ARTS. 81 AL 91.
 
 ###### ARTICULO PRIMERO.
 
@@ -2893,7 +2911,7 @@ Por esta única vez y para los efectos del Artículo 85 de la reforma, los Conse
 
 P.O. 18 DE NOVIEMBRE DE 1995.
 
-DECRETO 7885 QUE REFORMA ARTS 37, 38 Y 69.
+DECRETO 7885 QUE REFORMA ARTÍCULOS 37, 38 Y 69.
 
 PRIMERO.- El presente decreto de reformas entrará en vigor, previos los trámites a que se refiere el artículo 131 de la Constitución Política, el día primero de enero de mil novecientos noventa y seis.
 
@@ -2901,7 +2919,7 @@ SEGUNDO.- Remítase el expediente y la minuta del presente decreto a los ayuntam
 
 P.O. 18 DE NOVIEMBRE DE 1995.
 
-DECRETO 7886, QUE REFORMA ARTS. 26, 27, 29, 47 FR. VIII, XIX Y XXXV, 58, 60 FR. III Y VI.
+DECRETO 7886, QUE REFORMA ARTÍCULOS 26, 27, 29, 47 FR. VIII, XIX Y XXXV, 58, 60 FR. III Y VI.
 
 ###### ARTICULO PRIMERO.
 
@@ -2913,7 +2931,7 @@ Remítase la minuta aprobada a los Honorables Ayuntamientos Constitucionales del
 
 P.O. 18 DE NOVIEMBRE DE 1995.
 
-DECRETO 7887, QUE DEROGA EL SEGUNDO PARRAFO DE LA FRACCION XXVI DEL ART. 47.
+DECRETO 7887, QUE DEROGA EL SEGUNDO PÁRRAFO DE LA FRACCIÓN XXVI DEL ART. 47.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
 
@@ -3017,7 +3035,7 @@ CUARTO.- Se dará un plazo de seis meses a partir de que entre en vigor la prese
 
 P.O. 27 DE JULIO DE 2002.
 
-DECRETO NO. 8443 QUE REFORMA ARTICULOS 36 Y 40.
+DECRETO NO. 8443 QUE REFORMA ARTÍCULOS 36 Y 40.
 
 Primero.- El presente decreto entrará en vigor el primero de enero de 2003, debiendo publicarse en el Periódico Oficial, Organo del Gobierno del Estado.
 
@@ -3107,7 +3125,7 @@ Para los efectos a que alude la fracción II, apartado B del artículo 135 de la
 
 P.O. 20 DE AGOSTO DE 2008.
 
-DECRETO QUE REFORMA EL ARTICULO 47, FRACCION XXVI, 121 Y 121 BIS DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT.
+DECRETO QUE REFORMA EL ARTÍCULO 47, FRACCIÓN XXVI, 121 Y 121 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT.
 
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación el (sic) Periódico Oficial, Órgano del Gobierno del Estado, salvo lo previsto en el artículo siguiente.
 
@@ -3121,7 +3139,7 @@ Artículo Quinto.- Remítase el presente decreto a los Ayuntamientos de la entid
 
 P.O. 20 DE AGOSTO DE 2008.
 
-DECRETO QUE REFORMA LOS ARTICULOS 42 Y 112 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT.
+DECRETO QUE REFORMA LOS ARTÍCULOS 42 Y 112 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT.
 
 Artículo Primero.- La presente reforma entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano de Gobierno del Estado.
 
@@ -3215,7 +3233,7 @@ Artículo Cuarto.- Para los efectos previstos por el artículo 131 de la Constit
 
 P.O. 6 DE OCTUBRE DE 2010.
 
-> <small>N. DE E. EN VIRTUD DE LA IMPORTANCIA DEL ARTICULO SEGUNDO DEL DECRETO PUBLICADO CON FECHA 6 DE OCTUBRE DE 2010, EL MISMO SE TRANSCRIBE A CONTINUACION.</small>
+> <small>N. DE E. EN VIRTUD DE LA IMPORTANCIA DEL ARTÍCULO SEGUNDO DEL DECRETO PUBLICADO CON FECHA 6 DE OCTUBRE DE 2010, EL MISMO SE TRANSCRIBE A CONTINUACIÓN.</small>
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -3268,3 +3286,15 @@ P.O. 15 DE OCTUBRE DE 2011.
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo Segundo.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente decreto a los Ayuntamientos de la entidad.
+
+P.O. 23 DE JUNIO DE 2012.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- Para los efectos del segundo párrafo de la fracción VI del artículo 7° Constitucional, el legislador ordinario local dispondrá de un año a partir de la entrada en vigor del presente decreto, para expedir la ley reglamentaria respectiva.
+
+Artículo Tercero.- A efecto de garantizar el cumplimiento de lo dispuesto por el artículo 101 del presente decreto, dentro de un plazo que no excederá de los seis meses posteriores a su entrada en vigencia, la Legislatura procederá a realizar las adecuaciones a las leyes correspondientes.
+
+Artículo Cuarto.- Para los efectos previstos por el párrafo quinto del artículo 101 del presente decreto relativo a la expectativa de reelección del Presidente de la Comisión de Defensa de los Derechos Humanos, tendrá vigencia a partir del 1 de enero del año 2014.
+
+Artículo Quinto.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente decreto a los Ayuntamientos de la entidad.
