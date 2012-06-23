@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-3971"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-28"
-last_updated: "2012-05-12"
+last_updated: "2012-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3971&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2012.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 28 de mayo de 1994.
 
@@ -283,13 +283,17 @@ XXVII.- Promover conjuntamente con la Secretaría de Salud, programas y acciones
 
 XXVIII. De la misma forma, establecer estrategias y mecanismos con el fin de prohibir la venta de productos con alto contenido de azúcares refinados, colesterol, ácidos grasos saturados, ácidos grasos trans, sal y aditivos en los establecimientos escolares y en los espacios donde se expenden alimentos en las Instituciones Educativas de todos los niveles y modalidades del Sistema Educativo dependiente de la Secretaría de Educación del Gobierno del Estado, así como facilitar el acceso a verduras, frutas, leguminosas y cereales integrales, que son fuente de nutrimentos antioxidantes y de fibra dietética, orientando de manera acertada y efectiva a los encargados de dichos establecimientos, así como ofertar y hacer accesible el consumo de agua purificada;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2012)</small>
 
-XXIX. Llevar a cabo por parte de la Secretaría de Salud, las inspecciones necesarias a fin de vigilar el estricto cumplimiento de estas disposiciones; y
+XXIX. Llevar a cabo por parte de la Secretaría de Salud, las inspecciones necesarias a fin de vigilar el estricto cumplimiento de estas disposiciones;
 
-> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2012)</small>
 
-XXX. Fomentar entre los educandos el uso adecuado de las Tecnologías de la Información y la Comunicación, el conocimiento y la conciencia respecto a las mejores prácticas para hacer un uso adecuado del Internet y de las Redes Sociales. De igual forma, incrementará el uso de todos los recursos tecnológicos y didácticos disponibles, así como la promoción entre los estudiantes, de las bondades y riesgos en el uso de las tecnologías.
+XXX. Fomentar entre los educandos el uso adecuado de las Tecnologías de la Información y la Comunicación, el conocimiento y la conciencia respecto a las mejores prácticas para hacer un uso adecuado del Internet y de las Redes Sociales. De igual forma, incrementará el uso de todos los recursos tecnológicos y didácticos disponibles, así como la promoción entre los estudiantes, de las bondades y riesgos en el uso de las tecnologías; y
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2012)</small>
+
+XXXI.- En coordinación con historiadores locales y cronistas municipales procurará la elaboración de monografías que rescaten la historia de las escuelas del sistema educativo estatal.
 
 (REUBICADO [N. DE E. ANTES SEGUNDO PÁRRAFO DE LA FRACCIÓN XXVI], P.O. 14 DE JULIO DE 2007)
 
@@ -1202,5 +1206,9 @@ DECRETO No. 371 POR EL QUE SE REFORMA EL ARTÍCULO 13 DE LA LEY DE EDUCACIÓN DE
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 12 DE MAYO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 23 DE JUNIO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
