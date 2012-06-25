@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-organico-del-instituto-de-seguridad-y-servicios-7526
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-14"
-last_updated: "2010-06-14"
+last_updated: "2012-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75260&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # REGLAMENTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
 
-REGLAMENTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
+REGLAMENTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 14 de junio de 2010.
 
@@ -269,7 +269,9 @@ V. Las demás que le encomiende la Junta.
 
 ### CAPITULO IV. De las Unidades Administrativas
 
-### CAPITULO V. Del Órgano de Vigilancia
+### CAPITULO V. De los Órganos de Control, Vigilancia y Evaluación
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2012)</small>
 
 ### CAPITULO VI. De las Suplencias
 
@@ -653,47 +655,113 @@ VII. Generar información estratégica para la toma de decisiones, así como tod
 
 VIII. Los demás que señalen otras disposiciones aplicables.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2012)</small>
+
+#### SECCION PRIMERA. Del Comisario Público
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
+
+#### SECCIÓN SEGUNDA. De la Contraloría Interna
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2012)</small>
+
 ###### Artículo 36.
 
-El Órgano de Vigilancia del Instituto se compondrá del Comisario Público propietario y su respectivo suplente, designados por la Contraloría General del Estado.
+El Órgano de Vigilancia y Evaluación del Instituto se compondrá de un Comisario Público propietario y su respectivo suplente, designado conforme a lo establecido en la Ley para el Control de las Entidades Paraestatales y la Ley Orgánica de la Administración Pública del Estado.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
 
 ###### Artículo 37.
 
-El Órgano de Vigilancia tendrá las funciones siguientes:
+El Comisario Público evaluará el desempeño general y por funciones del Instituto, realizará estudios sobre la eficiencia con la que se ejerzan las erogaciones en los rubros de gasto corriente, prestaciones, inversiones y egresos en general, así como la solvencia actuarial de los fondos del Instituto.
 
-I. Evaluar el desempeño general del Instituto, con base en los programas operativos anuales y las funciones específicas que le asigna la Ley;
+Asimismo, solicitará la información y efectuará los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaria de Fiscalización y Rendición de Cuentas le asigne específicamente.
 
-II. Vigilar el cumplimiento de las disposiciones legales y reglamentarias aplicables al Instituto;
-
-III. Cuidar que las inversiones y los recursos del Instituto se destinen a los fines previstos en los presupuestos y programas aprobados;
-
-IV. Inspeccionar dos veces al año por lo menos, los libros, registros y demás documentos del Instituto, así como realizar arqueos de fondos y revisión de las cuentas bancarias y de inversión;
-
-V. Intervenir en la formación y revisión de los estados financieros del Instituto de fin de ejercicio, así como examinar la valuación actuarial, verificando la suficiencia de las aportaciones y el cumplimiento de los programas anuales de constitución de reservas autorizadas por la Junta Directiva;
-
-VI. Solicitar se convoque a sesiones ordinarias o extraordinarias de la Junta Directiva en caso de que lo juzgue pertinente;
-
-VII. Asistir a las sesiones de la Junta Directiva, cuando sea citado a las mismas, en las que tendrá voz pero no voto;
-
-VIII. Vigilar e informar limitadamente en cualquier tiempo las operaciones del Instituto; y
-
-IX. Las demás que le encomiende la Junta Directiva.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
 
 ###### Artículo 38.
 
-No podrán formar parte del Órgano de Vigilancia, los servidores públicos del instituto, ni los parientes consanguíneos del Director General en línea recta sin limitación de grado, los colaterales dentro del cuarto y los afines dentro del segundo.
+El Comisario Público tendrá las atribuciones y facultades siguientes:
+
+I. Solicitar al Director General todos los estados financieros que éste elabora, con sus anexos correspondientes;
+
+II. Asistir a las sesiones de la Junta Directiva, cuando sea citado a las mismas, en las que tendrá voz pero no voto;
+
+III. Proponer que se incluyan en el orden del día de las sesiones de la Junta Directiva los puntos que crea conveniente tratar;
+
+IV. Solicitar, en caso de que lo juzgue pertinente, que se convoque a sesiones extraordinarias de la Junta Directiva;
+
+V. Vigilar e informar ilimitadamente en cualquier tiempo por las operaciones del Instituto; y
+
+VI. Las demás que le encomiende la Junta Directiva.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
 
 ###### Artículo 39.
 
-Para el desempeño de sus funciones, el Órgano de Vigilancia podrá procurarse la información que requiera de las áreas del Instituto, debiendo éstas proporcionar los documentos e informes correspondientes.
+No podrán formar parte del Órgano de Vigilancia y Evaluación, los servidores públicos del Instituto, ni los parientes consanguíneos del Director General en línea recta sin limitación de grado, los colaterales dentro del cuarto y los afines dentro del segundo.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
 
 ###### Artículo 40.
 
-El Órgano de Vigilancia presentará un informe anual a la junta sobre el ejercicio de sus atribuciones.
+Para el desempeño de sus funciones, el Órgano de Vigilancia y Evaluación podrá procurarse la información que requiera de las áreas del Instituto debiendo estas proporcionar los documentos e informes correspondientes.
+
+El Comisario Público tendrá acceso ilimitado a las instalaciones del Instituto para el cumplimiento de sus funciones.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
 
 ###### Artículo 41.
 
-Cuando el Órgano de Vigilancia encuentre alguna irregularidad en relación con las inversiones, informes financieros, operaciones o servicios, de inmediato lo hará del conocimiento de la junta.
+Cuando el Órgano de Vigilancia encuentre alguna irregularidad en relación con las inversiones, informes financieros, operaciones o servicios, de inmediato lo hará del conocimiento de la Dirección General, la Secretaría de Fiscalización y Rendición de Cuentas y la Junta Directiva.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 25 DE JUNIO DE 2012)</small>
+
+###### Artículo 41 Bis.
+
+El Órgano Interno de Control del Instituto, se conformará por un Contralor Interno que será parte integrante de la estructura de la entidad paraestatal y que será designado de acuerdo a lo establecido en la Ley para el Control de las Entidades Paraestatales y la Ley Orgánica de la Administración Pública del Estado de Aguascalientes.
+
+Sus acciones tendrán por objeto apoyar la función directiva y promover el mejoramiento de gestión de la entidad, desarrollarán sus funciones conforme a los lineamientos que emita la Secretaria de Fiscalización y Rendición de Cuentas, de acuerdo con las siguientes bases:
+
+I. El control y evaluación de sus actividades dependerá del Titular de la Secretaria de Fiscalización y Rendición de Cuentas;
+
+II. Realizará sus actividades de acuerdo a reglas y bases que le permita cumplir su cometido con autosuficiencia y autonomía;
+
+III. Examinará y evaluará los sistemas, mecanismos y procedimientos de control, efectuará Revisiones y auditorías, vigilará que el manejo y aplicación de los recursos públicos se efectúe Conforme a las disposiciones aplicables, presentará al Director General, al Órgano de Gobierno y a las demás instancias internas de decisión, los informes resultantes de las auditorías, exámenes y Evaluaciones realizadas; y
+
+IV. Las demás que establece la Ley para el Control de las Entidades Paraestatales.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2012)</small>
+
+###### Artículo 41 Ter.
+
+El Contralor Interno del Instituto tendrá las atribuciones y obligaciones siguientes:
+
+I. Evaluar el desempeño general del Instituto, con base en los programas operativos anuales y las funciones especificas que le asigna la Ley;
+
+II. Requerir a las direcciones, unidades o coordinaciones del Instituto, la información, documentación y su colaboración pare (sic) el cumplimiento de sus funciones y atribuciones;
+
+III. Difundir y vigilar el cumplimiento de las normas de control, evaluación, fiscalización, contabilidad y auditoría que debe observar el Instituto y, en su caso, prestar el apoyo y asesoría que este le solicite;
+
+IV. Vigilar y supervisar que el Instituto, cumpla con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, obras públicas, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos;
+
+V. Coordinar la entrega - recepción de las diferentes áreas laborales del Instituto;
+
+VI. Conocer, investigar y resolver sobre los actos y/o omisiones de los servidores públicos que constituyan responsabilidades administrativas y resarcitorias; asimismo determinar el daño causado al Instituto, turnando el caso a la autoridad competente para su ejecución, y mediante el pliego de responsabilidades, proceder al saneamiento por medio de la sanción administrativa o denuncia judicial respectiva;
+
+VII. Recibir, atender y llevar registro de las quejas y denuncias que sean formuladas en contra de los servidores públicos del Instituto, así como practicar investigaciones sobre sus actos a fin de fincar, en su caso, las responsabilidades que haya lugar e imponer las sanciones correspondientes;
+
+VIII. Vigilar el cumplimiento de las disposiciones legales y reglamentarias aplicables al Instituto, así como aplicar oportunamente las medidas correctivas y recomendaciones derivadas de las fiscalización (sic) efectuada;
+
+IX. Cuidar que las inversiones y los recursos del Instituto se destinen de acuerdo al objeto social del Instituto y a los fines previstos en los presupuestos y programas aprobados;
+
+X. Ordenar la práctica de auditorías, revisiones, visitas de inspección y verificación a las distintas direcciones, unidades o coordinaciones del Instituto que se requiera para verificar la eficacia, economía y eficiencia de las operaciones de éstas, la contabilidad de su información financiera y operacional, así como el debido cumplimiento de las leyes, reglamentos y políticas aplicables e informar tanto a la Dirección General como la Secretaría (sic) de Fiscalización y Rendición de Cuentas sobre el resultado de éstas;
+
+XI. Inspeccionar por lo menos dos veces al año, los libros registros y demás documentos del Instituto, así como realizar arqueos de fondos y revisión de las cuentas bancarias y de inversión;
+
+XII. Intervenir en la formación y revisión de los estados financieros del Instituto de fin de ejercicio, así como examinar la valuación actuarial, verificando la suficiencia de las aportaciones y el cumplimiento de los programas anuales de constitución de reservas autorizadas por la Junta Directiva; y
+
+XIII. Certificar y, en su caso, expedir copias de los documentos que obren en los archivos de la Contraloría Interna.
 
 ###### Artículo 42.
 
@@ -722,3 +790,11 @@ Este Reglamento fue aprobado por la H. Junta Directiva del Instituto de Segurida
 EL DIRECTOR GENERAL DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
 
 ING. OSCAR ARMANDO GONZALEZ MUÑOZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE JUNIO DE 2012.
+
+PRIMERO.- La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Continuará en vigor el nombramiento del actual Contralor Interno, con las facultades que aquí se señalan.
