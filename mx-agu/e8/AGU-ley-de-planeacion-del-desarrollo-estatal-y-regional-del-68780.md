@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-planeacion-del-desarrollo-estatal-y-regional-del-68780"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-08"
-last_updated: "2009-06-08"
+last_updated: "2012-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68780&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY DE PLANEACION DEL DESARROLLO ESTATAL Y REGIONAL DEL ESTADO DE AGUASCALIENTES
 
-LEY DE PLANEACION DEL DESARROLLO ESTATAL Y REGIONAL DEL ESTADO DE AGUASCALIENTES
+LEY DE PLANEACIÓN DEL DESARROLLO ESTATAL Y REGIONAL DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2012.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 8 de junio de 2009.
 
@@ -83,7 +83,9 @@ I. COPLADE: El Comité de Planeación para el Desarrollo del Estado;
 
 II. COPLADEMUN: Las Comisiones de Planeación para el Desarrollo Municipal;
 
-III. SEPLADE: La Secretaría de Planeación y Desarrollo Regional del Estado;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2012)</small>
+
+III. Coordinación de Planeación: La Coordinación Estatal de Planeación y Proyectos;
 
 IV Dependencia Coordinadora de Sector: La dependencia o entidad designada por el Gobernador del Estado para coordinar las acciones de las demás dependencias y entidades integradas en un sector de desarrollo;
 
@@ -115,7 +117,7 @@ XVII. Evaluación Gubernamental: Es el conjunto de mecanismos sistémico derivad
 
 XVIII. Indicadores: Es una variable que establece una relación entre dos o más datos significativos de dominios semejantes o diversos y que proporciona información sobre el estado en que se encuentra una o más variables; y
 
-XIX. Indicadores Estratégicos: Son aquellos indicadores que permiten conocer el estatus de la misión y visión de la gestión pública y su impacto social; es decir, son los pilares o factores clave que sustenten su razón de ser, pero sin ser limitativa. Es un término que expresa numéricamente el desempeño institucional o de un sector respecto a una actividad especifica durante un periodo determinado.
+XIX. Indicadores Estratégicos: Son aquellos indicadores que permiten conocer el estatus de la misión y visión de la gestión pública y su impacto social; es decir, son los pilares o factores clave que sustenten su razón de ser, pero sin ser limitativa. Es un término que expresa numéricamente el desempeño institucional o de un sector respecto a una actividad específica durante un periodo determinado.
 
 ###### ARTÍCULO 6º.
 
@@ -157,25 +159,29 @@ El Comité de Planeación para el Desarrollo del Estado de Aguascalientes podrá
 
 El Sistema Estatal de Planeación Democrática se conforma por las instituciones públicas citadas en la presente norma, los planes y programas del Estado y Municipios que, organizados bajo una estructura de coordinación permanente, hacen compatibles y aplicables los instrumentos y políticas de planeación mediante la implementación de mecanismos de Planeación Participativa para lograr el desarrollo de la Entidad, en los términos de esta Ley.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 14.
 
 Son autoridades, instancias u organismos encargados de la aplicación de esta Ley, dentro de su ámbito de competencia:
 
 I. El Gobernador del Estado;
 
-II. El Congreso del Estado;
+II. El Jefe de Gabinete;
 
-III. La SEPLADE;
+III. El Congreso del Estado;
 
-IV. El COPLADE y los órganos auxiliares que de él se deriven;
+IV. La Coordinación de Planeación;
 
-V. Los Ayuntamientos de la Entidad;
+V. El COPLADE y los órganos auxiliares que de él se deriven;
 
-VI. Las COPLADEMUN;
+VI. Los Ayuntamientos de la Entidad;
 
-VII. Las Instancias de Planeación Regional; y
+VII. Las COPLADEMUN;
 
-VIII. Las demás dependencias y organismos paraestatales del Estado, en el ámbito de sus respectivas competencias.
+VIII. Las instancias de Planeación Regional; y
+
+IX. Las demás dependencias y organismos paraestatales del Estado.
 
 ###### ARTÍCULO 15.
 
@@ -183,19 +189,29 @@ El Sistema Estatal de Planeación Democrática contará con los siguientes instr
 
 I. En el ámbito estatal:
 
-A. EL PLAN DE LARGO PLAZO PARA EL DESARROLLO DEL ESTADO: Es el instrumento fundamental de la planeación del Estado, con prioridades y objetivos para el desarrollo de la Entidad por un periodo de al menos veinticinco años, es elaborado por el COPLADE con la coordinación de la SEPLADE en términos de lo dispuesto por el Artículo 26 de esta Ley, este plan deberá ser publicado al año de la entrada en vigencia de la presente Ley y será actualizado en el primer año de gestión del Poder Ejecutivo del Estado;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
 
-B. EL PLAN SEXENAL DE GOBIERNO DEL ESTADO: Es el instrumento de planeación de la gestión del Poder Ejecutivo del Estado, será elaborado por parte de las dependencias y entidades del Poder Ejecutivo del Estado, con la coordinación de la SEPLADE en términos de lo dispuesto por el Artículo 28 de esta Ley, se publicará dentro de los primeros seis meses de la gestión del Poder Ejecutivo; este plan tendrá una vigencia de seis años y deberá ser actualizado al término del tercer año de la gestión del Poder Ejecutivo del Estado;
+A. EL PLAN DE LARGO PLAZO PARA EL DESARROLLO DEL ESTADO: Es el instrumento fundamental de la planeación del Estado, con prioridades y objetivos para el desarrollo de la Entidad por un período de al menos veinticinco años, es elaborado por el COPLADE conjuntamente con la Coordinación de Planeación en términos de lo dispuesto por el Artículo 26 de la presente Ley, este plan deberá ser publicado al año de entrada en vigencia de esta Ley
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
+
+B. EL PLAN SEXENAL DE GOBIERNO DEL ESTADO: Es el instrumento de planeación de la gestión del Poder Ejecutivo del Estado, será elaborado por parte de las dependencias y entidades del Poder Ejecutivo del Estado, conjuntamente con la Coordinación de Planeación en términos de lo dispuesto por el Artículo 28 de esta Ley, se publicará dentro de los primeros seis meses de la gestión del Poder Ejecutivo; este plan tendrá una vigencia de seis años y deberá ser actualizado al término del tercer año de la gestión del Poder Ejecutivo del Estado;
 
 C. LOS PROGRAMAS SECTORIALES: Son los instrumentos de planeación estatal orientados en forma específica al desarrollo de las diversas actividades de la sociedad del Estado, serán elaborados por los Subcomités Sectoriales del COPLADE, en términos de lo dispuesto por el Artículo 30 de esta Ley, su vigencia será de seis años y actualizados al inicio del cuarto año de la gestión del Poder Ejecutivo del Estado;
 
-D. EL PROGRAMA ESTATAL DE ORDENAMIENTO ECOLÓGICO Y TERRITORIAL: Es el instrumento rector de los sistemas estatales de planeación del desarrollo urbano y ambiental para el Estado de Aguascalientes, la elaboración de este programa será coordinada por la SEPLADE, en términos de lo dispuesto por los Artículos 31, 32 y 33 de esta Ley; este programa deberá ser publicado al año de la entrada en vigencia de la presente Ley, su duración será de 6 años y se actualizará al término del tercer año de la gestión del Poder Ejecutivo del Estado;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
 
-E. LOS PROGRAMAS OPERATIVOS ANUALES: Son los instrumentos de planeación de corto plazo, con una vigencia anual que se vinculan a los presupuestos anuales autorizados; son elaborados por las dependencias y entidades del Poder Ejecutivo dentro del proceso de presentación de sus presupuestos anuales en términos de la Ley de la materia; los Programas Operativos Anuales deberán ser previamente validados por la SEPLADE y por la Secretaría de Finanzas del Estado, en lo correspondiente a la viabilidad presupuestaria.
+D. EL PROGRAMA ESTATAL DE ORDENAMIENTO ECOLÓGICO Y TERRITORIAL: Es el instrumento rector de los sistemas estatales de planeación del desarrollo urbano y ambiental para el Estado de Aguascalientes, la elaboración de este programa será coordinada por la Secretaría de Gestión Urbanística y Ordenamiento Territorial, en términos de lo dispuesto por los Artículos 31, 32 y 33 de esta Ley; este programa deberá ser publicado al año de la entrada de vigencia de la presente Ley, su duración será de 6 años y se actualizará al término del tercer año de la gestión del Poder Ejecutivo del Estado;
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
+
+E. LOS PROGRAMAS OPERATIVOS ANUALES: Son los instrumentos de planeación de corto plazo, con una vigencia anual que se vinculan a los presupuestos anuales autorizados; son elaborados por las dependencias y entidades del Poder Ejecutivo dentro del proceso de presentación de sus presupuestos anuales en términos de la Ley de la materia; los Programas Operativos Anuales deberán ser previamente validados por la Coordinación de Planeación y por la Secretaría de Finanzas del Estado, en lo correspondiente a la viabilidad presupuestaria;
 
 F. LOS PROGRAMAS DE DESARROLLO INTRAREGIONAL: Son los instrumentos de planeación para las regiones conformadas por dos o más Municipios al interior del Estado; serán elaborados por los Subcomités Intraregionales, en términos de los convenios de asociación y coordinación; y
 
-G. EL PROGRAMA DE DESARROLLO DE LA ZONA METROPOLITANA: Es el instrumento de planeación integral para los Municipios que conforman la Zona Metropolitana del Estado de Aguascalientes, en términos de los convenios de asociación y coordinación y de las determinaciones del Consejo y Fideicomiso para la Zona Metropolitana del Estado de Aguascalientes, bajo la coordinación de la SEPLADE.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
+
+G. EL PROGRAMA DE DESARROLLO DE LA ZONA METROPOLITANA: Es el instrumento de planeación regional para los Municipios que conforman la Zona Metropolitana del Estado de Aguascalientes, en términos de los convenios de asociación y coordinación y de las determinaciones del Consejo y Fideicomisos para la Zona Metropolitana del Estado de Aguascalientes, bajo la coordinación de la Secretaría de Gestión Urbanística y Ordenamiento Territorial.
 
 II. En el ámbito municipal:
 
@@ -203,9 +219,11 @@ A. LOS PLANES DE DESARROLLO MUNICIPAL: Serán elaborados en términos de lo disp
 
 B. LOS PROGRAMAS DERIVADOS DE LOS PLANES DE DESARROLLO MUNICIPAL: Serán elaborados en términos de lo dispuesto por la Ley Municipal para el Estado de Aguascalientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 16.
 
-La coordinación del Sistema Estatal de Planeación Democrática estará a cargo de la SEPLADE quien tendrá las siguientes atribuciones.
+La Coordinación del Sistema Estatal de Planeación Democrática estará a cargo de la Coordinación de Planeación quien tendrá las siguientes atribuciones:
 
 I.- Coordinar las acciones en el proceso de la planeación del desarrollo;
 
@@ -229,11 +247,15 @@ X. Someter a la aprobación del Poder Ejecutivo, la planeación y programación 
 
 XI. Coordinar y operar el Sistema Estatal de Seguimiento y Evaluación. Determinando las metodologías y procedimientos para el seguimiento y evaluación de los resultados de los planes y programas a que hace referencia esta Ley.
 
-La SEPLADE, en el ejercicio de sus atribuciones, se auxiliará del COPLADE.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
+
+La Coordinación de Planeación, en el ejercicio de sus atribuciones, se auxiliará del COPLADE;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 17.
 
-Como autoridad ejecutiva en materia de planeación, la SEPLADE contará con las siguientes atribuciones:
+Como autoridad ejecutiva en materia de planeación, la Coordinación de Planeación contará con las siguientes atribuciones:
 
 I. Validar los Programas Operativos Anuales; y
 
@@ -249,7 +271,9 @@ II. Proyectar y calcular los ingresos del Gobierno del Estado, considerando las 
 
 III. Tomar en cuenta los efectos de las políticas fiscal, financiera y crediticia y las de precios y tarifas de los servicios públicos proporcionados por el Gobierno del Estado y por los Ayuntamientos, para el logro de los objetivos y prioridades de los planes y programas a que hace referencia esta Ley;
 
-IV. Coordinar y validar las acciones de inversión y gasto corriente de la Federación en el Estado, en forma conjunta con la SEPLADE;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2012)</small>
+
+IV. Coordinar y validar las acciones de inversión y gasto corriente de la Federación en el Estado, en forma conjunta con la Coordinación de Planeación;
 
 V. Validar los Programas Operativos Anuales, en lo correspondiente a la viabilidad presupuestaria y aprobar los recursos aplicables a dichos programas; y
 
@@ -299,7 +323,9 @@ El Plan de Largo Plazo para el Desarrollo del Estado, es el instrumento fundamen
 
 Además de las precisiones y lineamientos señalados en el párrafo anterior, el Plan de Largo Plazo para el Desarrollo del Estado contendrá un análisis social, demográfico, económico y ambiental del Estado; así como el criterio para establecer a partir de una visión prospectiva, objetivos a mediano y largo plazo, un sistema de evaluación que contenga Indicadores Estratégicos que permitan dar seguimiento permanente al avance respecto de las prioridades y objetivos planteados.
 
-El Plan de Largo Plazo para el Desarrollo del Estado, será elaborado por la SEPLADE y validado por el COPLADE, para someterlo a la aprobación del Gobernador del Estado, para su posterior publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
+
+El Plan de Largo Plazo para el Desarrollo del Estado, será elaborado por la Coordinación de Planeación y validado por el COPLADE, para someterlo (sic) la aprobación del Gobernador del Estado, para su posterior publicación en el Periódico Oficial del Estado.
 
 El Plan de Largo Plazo para el Desarrollo del Estado deberá ser evaluado y actualizado en el primer año de cada gestión del Poder Ejecutivo del Estado, procurando la concordancia con el Plan Nacional de Desarrollo.
 
@@ -307,15 +333,19 @@ El Plan de Largo Plazo para el Desarrollo del Estado deberá ser evaluado y actu
 
 El Plan Sexenal de Gobierno del Estado, es el instrumento de planeación de la gestión del Poder Ejecutivo del Estado el cual deberá elaborarse a partir de una metodología de Planeación Estratégica; contendrá los objetivos, metas y estrategias que sirvan de base a las actividades del Poder Ejecutivo del Estado, de forma que aseguren el cumplimiento del Plan de Largo Plazo para el Desarrollo del Estado.
 
-El Plan Sexenal de Gobierno del Estado, deberá ser elaborado por las dependencias y entidades del Poder Ejecutivo del Estado, con la coordinación de la SEPLADE y con la participación del COPLADE para ser sometido a aprobación por el Gobernador del Estado, y su publicación dentro de los primeros seis meses de su gestión; este plan tendrá una vigencia de seis años y deberá ser actualizado al término del tercer año de la gestión del Poder Ejecutivo del Estado.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
+
+El Plan Sexenal de Gobierno del Estado, deberá ser elaborado por las dependencias y entidades del Poder Ejecutivo del Estado, la Coordinación de Planeación y con la participación del COPLADE será sometido a la aprobación del Gobernador del Estado, y remitido al H. Congreso Estatal para su análisis y opinión a más tardar el primero de abril del primer año de gestión y se publicará en el Periódico Oficial del Estado dentro de los seis primeros meses de gestión. Este plan tendrá vigencia de seis años y deberá ser actualizado al término del tercer año de la gestión
 
 ###### ARTÍCULO 29.
 
 El Plan Sexenal de Gobierno del Estado indicará los programas sectoriales que de él se derivarán.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 30.
 
-Los Programas Sectoriales, son los instrumentos de planeación estatal por un periodo de seis años, orientados en forma específica al desarrollo de las diversas actividades de la sociedad del Estado; serán elaborados por los Subcomités Sectoriales del COPLADE, con la coordinación de la SEPLADE y la intervención de las dependencias coordinadoras de sector y de los Municipios de conformidad a sus competencias y atribuciones en materia de planeación, para finalmente someterse a aprobación del Gobernador del Estado dentro del segundo semestre del primer año de gestión del Poder Ejecutivo del Estado. Los Programas Sectoriales deberán ser actualizados al inicio del cuarto año de gestión del Poder Ejecutivo del Estado y publicados en el Periódico Oficial del Estado.
+Los Programas Sectoriales, son los instrumentos de planeación estatal por un período de seis años, orientados en forma específica al desarrollo de las diversas actividades de la sociedad del Estado; serán elaborados por los Subcomités Sectoriales del COPLADE, con la coordinación de la Coordinación de Planeación y la intervención de las dependencias coordinadoras de sector y de los Municipios de conformidad a sus competencias y atribuciones en materia de planeación, para finalmente someterse a la aprobación del Gobernador del Estado dentro del segundo semestre del primer año de gestión del Poder Ejecutivo del Estado. Los programas sectoriales deberán ser actualizados al inicio del cuarto año de gestión del Poder Ejecutivo del Estado y publicados en el Periódico Oficial del Estado.
 
 Los Programas Sectoriales, se elaborarán con la misma metodología del Plan Sexenal de Gobierno del Estado y se sujetarán a los objetivos, directrices, políticas y prioridades contenidas en éste.
 
@@ -323,13 +353,19 @@ Los Programas Sectoriales, se elaborarán con la misma metodología del Plan Sex
 
 El Programa Estatal de Ordenamiento Ecológico y Territorial, es el instrumento rector de los sistemas estatales de planeación del desarrollo urbano y ambiental para el Estado de Aguascalientes; este programa se elaborará con base en el análisis, caracterización y aptitud del suelo, bajo criterios de sustentabilidad y tomando en consideración los aspectos económicos, ambientales, sociales y urbanos como líneas generales de estrategia; tendrá una duración de 6 años y se actualizará al término del tercer año de la gestión del Poder Ejecutivo del Estado; en su elaboración, los Municipios del Estado tendrán la intervención que les competa de conformidad a sus atribuciones en materia de planeación, especialmente en materia de suelo, autorizarán los usos del mismo, conforme a sus atribuciones constitucionales y de sus programas de desarrollo urbano.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 32.
 
-Los trabajos para la elaboración del Programa Estatal de Ordenamiento Ecológico y Territorial, serán coordinados por la SEPLADE utilizando para ello una metodología de Planeación Prospectiva en la que se garantice la participación ciudadana agrupada en los diferentes sectores.
+Los trabajos para la elaboración del Programa Estatal de Ordenamiento Ecológico y territorial, serán coordinados por la Secretaría de Gestión Urbanística y Ordenamiento Territorial utilizando para ello una metodología de planeación prospectiva en la que se garantice la participación ciudadana agrupada en los diferentes sectores.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 33.
 
-Una vez elaborado el Programa Estatal de Ordenamiento Ecológico y Territorial, la SEPLADE lo deberá someter a la opinión de los Ayuntamientos de la Entidad y al COPLADE para su análisis y retroalimentación, concluido lo cual, la SEPLADE enviará al Gobernador del Estado, el Programa para su aprobación y publicación en el Periódico Oficial del Estado.
+Una vez elaborado el Programa Estatal de Ordenamiento Ecológico y Territorial, la Secretaría de Gestión Urbanística y Ordenamiento Territorial lo deberá someter a la opinión de los Ayuntamientos de la Entidad y al COPLADE para su análisis y retroalimentación, concluido lo cual, la Secretaría de Gestión Urbanística y Ordenamiento Territorial enviará al Gobernador del Estado, el Programa para su aprobación y publicación en el Periódico Oficial del Estado.
+
+Secretaría de Gestión Urbanística y Ordenamiento Territorial enviará al Gobernador del Estado, el Programa para su aprobación y publicación en el Periódico Oficial del Estado. (SIC)
 
 El Plan de largo Plazo para el Desarrollo del Estado, el Plan Sexenal de Gobierno del Estado, los Programas Sectoriales y el Programa Estatal de Ordenamiento Ecológico y Territorial y sus respectivas actualizaciones deberán ser remitidos al Congreso del Estado por el Gobernador del Estado para su análisis y opinión.
 
@@ -345,9 +381,11 @@ Los instrumentos de planeación y programación estatal y municipales a que se r
 
 La zonificación secundaria de los usos y destinos del suelo en los centros de población y la delimitación de las áreas que integran los mismos, de acuerdo con el Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, el Artículo 71 de la Constitución Política del Estado de Aguascalientes, la Ley General de Asentamientos Humanos y el Código Urbano para el Estado de Aguascalientes, será determinada por los Ayuntamientos en los programas de desarrollo urbano de carácter municipal respectivos, tomando en cuenta los lineamientos generales de estrategia previstos en el Programa Estatal de Ordenamiento Ecológico y Territorial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 35.
 
-Las dependencias y entidades del Poder Ejecutivo del Estado elaborarán instrumentos de corto plazo denominados Programas Operativos Anuales, los cuales regirán las actividades de cada una de ellas en concordancia a sus presupuestos anuales autorizados. Estos programas deberán ser previamente validados por la SEPLADE y por la Secretaría de Finanzas del Estado en lo correspondiente a la viabilidad presupuestaria.
+Las dependencias y entidades del Poder Ejecutivo del Estado elaborarán instrumentos de corto plazo denominados Programas Operativos Anuales, los cuales regirán las actividades de cada una de ellas en concordancia a sus presupuestos anuales autorizados. Estos programas deberán ser previamente validados por la Coordinación de Planeación y por la Secretaría de Finanzas del Estado en lo correspondiente a la viabilidad presupuestaria.
 
 Los Programas Operativos Anuales, son instrumentos de planeación de corto plazo, que deberán estar vinculados al Plan Sexenal de Gobierno del Estado y a los programas que de éste deriven; especificarán las metas, proyectos, acciones, instrumentos y recursos proyectados para el ejercicio respectivo.
 
@@ -375,9 +413,11 @@ En su caso, en el seno del COPLADE, operarán los Subcomités Intraregionales co
 
 La organización y funcionamiento de los Subcomités Intraregionales, quedará precisada en el Reglamento de la presente ley y en los acuerdos que expida el COPLADE.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 40.
 
-La integración de los Municipios en los Subcomités Intraregionales será de manera autónoma, debiendo de ser aprobada por el Ayuntamiento del Municipio respectivo y notificado al COPLADE a través de la SEPLADE.
+La integración de los Municipios en los Subcomités Intraregionales será de manera autónoma, debiendo de ser aprobada por el Ayuntamiento del Municipio respectivo y notificado al COPLADE a través de la Coordinación de Planeación.
 
 ###### ARTÍCULO 41.
 
@@ -449,9 +489,11 @@ V. En materia de programación, los convenios establecerán las relaciones presu
 
 En la integración de los programas de incorporación de recursos materiales y patrimoniales de la Federación, del Estado y de los Municipios que incluyan la transferencia de recursos humanos, se respetarán los derechos de los trabajadores al servicio de las instituciones públicas.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 49.
 
-Las acciones de inversión y gasto corriente de la Federación en el Estado, serán coordinadas y validadas por la SEPLADE y por la Secretaría de Finanzas del Estado.
+Las acciones de inversión y gasto corriente de la Federación en el Estado, serán coordinadas y validadas por la Coordinación de Planeación y por la Secretaría de Finanzas del Estado.
 
 ###### ARTÍCULO 50.
 
@@ -469,9 +511,11 @@ IV. Proporcionar a los Ayuntamientos, en el marco de la planeación democrática
 
 V. Impulsar el Desarrollo Intraregional.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 51.
 
-El COPLADE, con la coordinación de la SEPLADE, propondrá al Gobernador del Estado, los procedimientos conforme a los cuales se sujetarán las acciones de coordinación, escuchando la opinión de los Ayuntamientos conforme a las facultades y obligaciones que a cada esfera corresponda.
+El COPLADE, en conjunto con la Coordinación de Planeación, propondrá al Gobernador del Estado, los procedimientos conforme a los cuales se sujetarán las acciones de coordinación, escuchando la opinión de los Ayuntamientos en base a las facultades y obligaciones que a cada esfera corresponda.
 
 ###### ARTÍCULO 52.
 
@@ -607,9 +651,11 @@ El Sistema Estatal de Seguimiento y Evaluación, forma parte del Sistema Estatal
 
 El Sistema Estatal de Seguimiento y Evaluación, se conformará con las actividades de verificación, medición, así como de detección y corrección de desviaciones o insuficiencias de carácter cualitativo y cuantitativo, tanto en la instrumentación como en la ejecución de los planes y los programas, centrándose en los correspondientes objetivos, metas y acciones.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 69.
 
-Corresponderá a la SEPLADE la coordinación y operación del Sistema Estatal de Seguimiento y Evaluación.
+Corresponderá a la Coordinación de Planeación la coordinación y operación del Sistema Estatal de Seguimiento y Evaluación.
 
 ###### ARTÍCULO 70.
 
@@ -657,9 +703,11 @@ D. Informes del COPLADE y sus órganos auxiliares; y
 
 E. Informes, relatorías o registros resultantes de los foros de consulta y participación social.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 71.
 
-Las metodologías y procedimientos para el seguimiento y evaluación de los resultados del Plan de Largo Plazo para el Desarrollo del Estado y del Plan Sexenal de Gobierno del Estado, así como de los Programas derivados de ambos, serán establecidas por la SEPLADE, con la participación del COPLADE y habrán de especificarse en las disposiciones reglamentarias del Sistema Estatal de Seguimiento y Evaluación; en dichas disposiciones, se garantizará la participación de la sociedad organizada en los procesos de seguimiento y evaluación.
+Las metodologías y procedimientos para el seguimiento y evaluación de los resultados del Plan de Largo Plazo para el Desarrollo del Estado y del Plan Sexenal de Gobierno del Estado, así como de los Programas derivados de ambos, serán establecidas por la Coordinación de Planeación con la participación del COPLADE y habrán de especificarse en las disposiciones reglamentarias del Sistema Estatal de Seguimiento y Evaluación; en dichas disposiciones, se garantizará la participación de la sociedad organizada en los procesos de seguimiento y evaluación.
 
 ### CAPÍTULO X. De las Responsabilidades
 
@@ -730,3 +778,11 @@ Luis Armando Reynoso Femat.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 Lic. Juan Ángel José Pérez Talamantes.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE JUNIO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
