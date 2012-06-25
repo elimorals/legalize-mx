@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-jesus-maria-aguascalientes-22849"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-24"
-last_updated: "2012-03-26"
+last_updated: "2012-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE JESÚS MARÍA, AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2012.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de diciembre de 2001.
 
@@ -128,7 +128,45 @@ IX. Administrar justicia en el ámbito de su competencia;
 
 X. Salvaguardar y garantizar dentro de su territorio la seguridad, orden público y la protección civil;
 
-XI. Promover el desarrollo de las actividades económicas, agrícolas, industriales, comerciales, artesanales, turísticas y demás que se señalan en la Ley Orgánica Municipal o que acuerde el Ayuntamiento, con participación de los sectores social y privado, en coordinación con entidades, dependencias y organismos estatales y federales;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2012)</small>
+
+XI. Promover el desarrollo de las actividades económicas, agrícolas, industriales, comerciales, artesanales, turísticas y demás que se señalan en la Ley Orgánica Municipal o que acuerde el Ayuntamiento, con participación de los sectores social y privado, en coordinación con entidades, dependencias y organismos municipales, estatales y federales.
+
+Para ello en la Cabecera Municipal de Jesús María, se llevara a cabo a través del mecanismo de Feria, la cual servirá de marco para mostrar a los visitantes los productos y servicios de nuestro Municipio, festejos cuya organización, fomento y comercialización eficientes se buscarán a través del COMITÉ DE LA FERIA DE LOS CHÍCAHUALES DE JESÚS MARÍA, actuando en apego a las directrices que a manera enunciativa más no limitativas se señalan a continuación:
+
+a) El COMITÉ DE LA FERIA DE LOS CHÍCAHUALES DE JESÚS MARÍA, en lo subsecuente denominado "EL COMITÉ", iniciara sus actividades propias en el mes de abril de cada año, siendo integrado a manera honoraria por los siguientes:
+
+Titular de la Comisión de Hacienda Presidente
+
+Titular de la Secretaría de
+
+Administración Secretario
+
+Titular de la Secretaría de Finanzas Tesorero
+
+Titular de la Secretaria del
+
+H. Ayuntamiento y Dirección
+
+General de Gobierno 1er. Vocal
+
+Titular de la Secretaria de
+
+Desarrollo Económico 2do. Vocal
+
+b) El periodo de feria será determinado por el COMITÉ, según lo que más convenga al óptimo desarrollo de los festejos.
+
+c) El COMITÉ aprobará el perímetro ferial, pudiendo apoyarse en las áreas de Planeación y Desarrollo Urbano, así como las de Seguridad correspondientes.
+
+d) El COMITÉ en el desarrollo de las actividades inherentes, por instrucción del Presidente Municipal, será apoyado por todas y cada una de las Dependencias y Entidades Municipales relacionadas, siempre conforme a sus respectivas funciones, facultades y/o competencias legales.
+
+e) El COMITÉ en el desarrollo de las actividades inherentes, en su caso y momento, cumplirá y hará cumplir la normativa correspondiente.
+
+f) El COMITÉ, rendirá al Ayuntamiento en Sesión de Cabildo, un Informe acerca de las Actividades realizadas, dentro de los 30 días hábiles posteriores al término de la Feria, con lo cual terminará sus funciones propias.
+
+g) El COMITÉ, a través de su presidente, en aras de preservar el bien común, la tranquilidad y la seguridad de los festejos, en cualquier momento durante el periodo ferial, podrá emitir a manera fundada y motivada medidas que deberán observar las personas físicas o morales, los organismos públicos o privados que participen de la Feria.
+
+h) Las cuestiones no previstas respecto a la feria, así como la interpretación de las presentes directrices le asiste al Comité, previo dictamen emitido al efecto.
 
 XII. Coadyuvar a la preservación, protección y mejoramiento del medio ambiente del Municipio;
 
@@ -14677,3 +14715,9 @@ P.O. 26 DE MARZO DE 2012.
 ...
 
 SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 25 DE JUNIO DE 2012.
+
+Primero.- La presente Reforma, entrará en vigor al día siguiente su publicación en el Periódico Oficial del Estado de Aguascalientes, gozando de efectos retroactivos a partir del mes de abril del año en curso.
+
+Segundo.- En lo no previsto por la presente reforma, a manera complementaria, en el presente ejercicio fiscal, el COMITÉ aplicará en lo conducente, lo que en materia de funciones y/o atribuciones correspondan al Patronato de la Feria de la Cabecera Municipal de Jesús Maria, denominada "De los Chicahuales", con base al Reglamento de los Patronatos de las Ferias del Municipio de Jesús Maria, así como al Reglamento Interior del Patronato de la Feria de la Cabecera Municipal de Jesús María, denominada "De Los Chicahuales", ordenamientos éstos en vigor, siempre y cuando no se contraponga disposición alguna.
