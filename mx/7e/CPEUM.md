@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2012-02-09"
+last_updated: "2012-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE JUNIO DE 2012.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1874,9 +1874,9 @@ XX.- Para expedir las leyes de organización del Cuerpo Diplomático y del Cuerp
 
 XXI. Para establecer los delitos y las faltas contra la Federación y fijar los castigos que por ellos deban imponerse; expedir leyes generales en materias de secuestro, y trata de personas, que establezcan, como mínimo, los tipos penales y sus sanciones, la distribución de competencias y las formas de coordinación entre la Federación, el Distrito Federal, los Estados y los Municipios; así como legislar en materia de delincuencia organizada.
 
-> <small>(REFORMADO, D.O.F. 3 DE JULIO DE 1996)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 25 DE JUNIO DE 2012)</small>
 
-Las autoridades federales podrán conocer también de los delitos del fuero común, cuando éstos tengan conexidad con delitos federales.
+Las autoridades federales podrán conocer también de los delitos del fuero común, cuando éstos tengan conexidad con delitos federales o delitos contra periodistas, personas o instalaciones que afecten, limiten o menoscaben el derecho a la información o las libertades de expresión o imprenta.
 
 > <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2005)</small>
 
@@ -9723,6 +9723,14 @@ Segundo. La obligatoriedad del Estado de garantizar la educación media superior
 Tercero. Para dar cumplimiento al principio de obligatoriedad, en los presupuestos federal, de las entidades federativas y de los municipios, se incluirán los recursos necesarios; asimismo, se establecerán los mecanismos para impulsar la implementación de presupuestos plurianuales que aseguren a largo plazo los recursos económicos crecientes para infraestructura de la educación media superior.
 
 Cuarto. Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, el Congreso de la Unión y las legislaturas de los estados, deberán adecuar en el ámbito de sus respectivas competencias, la Ley General de Educación y demás disposiciones legales aplicables en la materia.
+
+D.O.F. 25 DE JUNIO DE 2012.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Congreso de la Unión deberá realizar las reformas a las leyes secundarias que correspondan en un plazo máximo de hasta seis meses, contados a partir del día siguiente de la entrada en vigor del presente Decreto.
+
+Tercero. Las autoridades federales podrán ejercer la facultad de atracción a que se refiere el presente Decreto, después de la entrada en vigor de las reformas a la ley secundaria, que al efecto expida el Honorable Congreso de la Unión.
 
 ###### ARTICULO PRIMERO.
 
