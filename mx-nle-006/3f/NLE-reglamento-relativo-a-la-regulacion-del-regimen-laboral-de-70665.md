@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-relativo-a-la-regulacion-del-regimen-laboral-de-7066
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-04"
-last_updated: "2009-09-04"
+last_updated: "2012-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70665&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO RELATIVO A LA REGULACIÓN DEL RÉGIMEN LABORAL DE LOS INTEGRANTES DE LA INSTITUCIÓN POLICIAL MUNICIPAL Y DE LA PRESTACIÓN DE SEGURIDAD SOCIAL DEL MUNICIPIO DE APODACA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 4 de septiembre de 2009.
 
@@ -35,19 +35,31 @@ Que el Republicano Ayuntamiento de Apodaca, Nuevo León, en Sesión Pública Ext
 
 REGLAMENTO RELATIVO A LA REGULACIÓN DEL RÉGIMEN LABORAL DE LOS INTEGRANTES DE LA INSTITUCIÓN POLICIAL MUNICIPAL Y DE LA PRESTACIÓN DE SEGURIDAD SOCIAL DEL MUNICIPIO DE APODACA, NUEVO LEÓN.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
+
+### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
 
 ###### ARTÍCULO 1.
 
 El Presente Reglamento es de orden público e interés social y tiene por objeto establecer las normas que regulan la relación de trabajo del personal adscrito a los Cuerpos de Seguridad Municipal, determinar las prestaciones de seguridad social, sus derechos y obligaciones, estímulos y condecoraciones y sanciones.
 
-### CAPÍTULO II. DE LA JORNADA DE TRABAJO
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
+
+### CAPÍTULO SEGUNDO. DE LA JORNADA DE TRABAJO
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
 
 ###### ARTÍCULO 2.
 
-Para los efectos de este Reglamentos se entenderá por:
+Para los efectos de este Reglamento se entenderá por:
 
 CAMBIO DE ADSCRIPCIÓN: Cambio de área de prestación del servicio, respetando la jerarquía.
+
+COMISARIO: Titular de la Secretaría de Seguridad Pública y Vialidad de Apodaca, Nuevo León.
+
+ELEMENTO: Policía que forma parte de la plantilla laboral de esta Secretaría y el cual tiene una formación especializada en la materia y se encuentra asignado a cualquiera de las áreas de operación y ostenta un grado policial.
 
 ESCALA DE RANGOS POLICIALES: Relación que contiene a todos los integrantes de las Instituciones Policiales y los ordena en forma descendente de acuerdo a su categoría, jerarquía, división, servicio, antigüedad y demás elementos pertinentes.
 
@@ -57,51 +69,93 @@ LEY: Ley de Seguridad Pública para el Estado de Nuevo León.
 
 LICENCIA: Acto jurídico mediante el cual se autoriza la ausencia del personal adscrito por un periodo de hasta seis meses sin goce de sueldo.
 
+MUNICIPIO: Municipio de Apodaca, Nuevo León.
+
 PERMISO: Acto jurídico mediante el cual se autoriza la ausencia del personal adscrito por un lapso de hasta tres días con goce de sueldo.
 
-PERSONAL ADSCRITO: El personal adscrito a las áreas de policía preventiva, policía de tránsito, Grupos Tácticos de Intervención o de Reacción, áreas de reclusión y de información.
+PERSONAL ADSCRITO: El personal adscrito a las áreas de policía de proximidad y grupos tácticos de intervención o de reacción, áreas de reclusión y de información.
 
-### CAPÍTULO III. DE LAS PRESTACIONES
+POLICIA: Será el nivel jerárquico con el cual se denominará al ciudadano que ingrese como elemento de la Secretaría, a través de la Academia Estatal de Policía o asimilado, una vez que haya acreditado el curso correspondiente.
+
+POLICÍA PRIMERO: Es el que tiene mayor mando y respetabilidad y el más inmediato al Suboficial. Por lo mismo, debe vigilar con eficacia a los Policías, Policías Terceros y Segundos, haciéndolos cumplir todas las órdenes del servicio que dicte, así como las de sus Superiores.
+
+POLICÍA SEGUNDO: El Policía Segundo estará en todo subordinado al Policía Primero. Conocerá las leyes y reglamentos en la parte relativa a su empleo y sus propias obligaciones, así como las de sus inferiores y las de los superiores hasta el Oficial.
+
+POLICÍA TERCERO: Será el elemento con nivel jerárquico inmediato superior del Policía, es el primer escalafón de la jerarquía, y de su fiel y leal desempeño, dependerá su mejoramiento para lograr los grados que le siguen en la escala jerárquica.
+
+REGLAMENTO: Al Reglamento Relativo a la Regulación del Régimen Laboral de los Integrantes de la Institución Policial Municipal y de la Prestación de Seguridad Social del Municipio de Apodaca, Nuevo León.
+
+SECRETARÍA: Secretaría de Seguridad Pública y Vialidad de Apodaca, Nuevo León.
+
+SUBALTERNO: Al personal operativo inmediato inferior que se encuentre bajo las órdenes o disposiciones de un Suboficial de la Secretaría.
+
+SUBOFICIAL: Reconocerán como superior jerárquico al titular del Área Operativa Policial, y obedecerá todas las órdenes del servicio que reciban a aquellos a cuyas órdenes directas se encuentren; vigilarán que sus inferiores procedan en igual forma, manteniendo vivo en ellos la vocación a la carrera, constituyéndose en un ejemplo constante por su conducta y honorabilidad, y estricto apego al cumplimiento de su deber.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
+
+### CAPÍTULO TERCERO. DE LAS PRESTACIONES
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
 
 ###### ARTÍCULO 3.
 
 El personal adscrito tendrá derecho a disfrutar de las mismas prestaciones que en materia de seguridad social corresponden a los trabajadores al servicio del Municipio.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
+
 ###### ARTÍCULO 4.
 
 En los casos no previstos en el presente Reglamento se aplicará lo dispuesto por la Ley de Responsabilidades para los Servidores Públicos del Estado y Municipios de Nuevo León, la Ley de Seguridad Pública para el Estado de Nuevo León, el Código Civil del Estado de Nuevo León, el Código de Procedimientos Civiles del Estado de Nuevo León y los principios generales de derecho.
 
-### CAPÍTULO IV. DE LAS OBLIGACIONES
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
+
+### CAPÍTULO CUARTO. DE LAS OBLIGACIONES
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
 
 ###### ARTÍCULO 5.
 
 La jornada ordinaria de servicio se establecerá en el Contrato Individual de Trabajo y corresponderá a las necesidades del servicio y a la categoría del cargo.
 
-### CAPÍTULO V. DE LAS SANCIONES
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
+
+### CAPÍTULO QUINTO. DE LAS SANCIONES
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
 
 ###### ARTÍCULO 6.
 
 El personal adscrito tendrá la obligación de prestar el servicio en jornadas extraordinarias, por razones de emergencia o de necesidad pública.
 
-### CAPÍTULO VI. DE LAS CAUSAS DE SUSPENSIÓN DEL SERVICIO
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
+
+### CAPÍTULO SEXTO. DE LAS CAUSAS DE SUSPENSIÓN DEL SERVICIO
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
 
 ###### ARTÍCULO 7.
 
 Las horas laboradas que excedan a la jornada ordinaria se pagarán a salario doble.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
+
 ###### ARTÍCULO 8.
 
 Por cada seis días de servicio el personal adscrito disfrutará de un día de descanso.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
 
 ###### ARTÍCULO 9.
 
 El servicio prestado los séptimos días y los días festivos se pagarán a salario doble.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
+
 ###### ARTÍCULO 10.
 
 El personal adscrito gozará de las siguientes prestaciones:
 
-I. Recibir un salario acorde con la calidad y riesgo de las funciones en sus rangos y puestos respectivos, así como en las misiones que cumplan, las cuales no podrán ser disminuidas durante el ejercicio de su encargo;
+I. Recibir un salario acorde con la calidad y riesgo de las funciones en sus rangos y puestos respectivos, así como en las misiones que cumplan, las cuales no podrán ser disminuidas durante el ejercicio de su encargo.
 
 II. Quince días de vacaciones por cada seis meses de servicio;
 
@@ -115,13 +169,15 @@ b) Enfermedad grave de un familiar en primer grado en línea ascendente o descen
 
 V. Licencia sin goce de sueldo hasta por seis meses, para atender problemas familiares, contingencias o imprevistos que requieran su presencia. En ambos casos la licencia debe solicitarse por escrito;
 
-VI. Servicio médico de calidad, para si mismo, su esposa (o) o concubina (o) y sus hijos solteros menores de veinticinco años, siempre y cuando se encuentren estudiando;
+VI. Servicio médico de calidad, para sí mismo, su esposa (o) o concubina (o) y sus hijos solteros menores de veinticinco años, siempre y cuando se encuentren estudiando;
 
 VII. Servicio médico de calidad, para sus hijos solteros con capacidades diferentes sin importar la edad que les impida desempeñar una actividad laboral;
 
 VIII. Seguro de vida en caso de muerte natural y accidental a favor de las personas que designe y en su caso dando prioridad al cónyuge o concubina (o) hijos o padres. La cuantía de este seguro se determinará por el Republicano Ayuntamiento;
 
 IX. Beca para sus hijos en los términos que acuerde el Republicano Ayuntamiento, para el caso de fallecimiento en el cumplimiento de su función.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
 
 ###### ARTÍCULO 11.
 
@@ -151,9 +207,11 @@ XI. Presentarse a sus labores libre de efectos de drogas enervantes o estupefaci
 
 XII. Reportar a su superior jerárquico las violaciones a las leyes, reglamentos y disposiciones administrativas que observe;
 
-XIII. Prestar el servicio por órdenes superiores para atender emergencias o por causa de necesidad pública;
+XIII. Prestar el servicio por órdenes superiores para atender emergencias o por causa de necesidad pública.
 
 XIV. Al causar baja deberá entregar toda la información, documentación, equipo, materiales, identificaciones, valores u otros recursos que hayan sido puestos bajo su responsabilidad o custodia mediante acta de entrega recepción.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
 
 ###### ARTÍCULO 12.
 
@@ -165,11 +223,15 @@ II. El incumplimiento a la obligación contenida en la fracción II del artícul
 
 III. El incumplimiento a la obligación contenida en la fracción III del artículo 11 implicará responsabilidad por los daños que se ocasionen al equipo y al armamento;
 
-IV. Conducirse con descortesía y falta de urbanidad será causa de amonestación. La reincidencia en un plazo de quince días naturales será causa de suspensión por tres días sin goce de sueldo. Acumular tres infracciones en un plazo de treinta días naturales será causa de suspensión por treinta días sin goce de sueldo;
+IV. Conducirse con descortesía y falta de urbanidad será causa de amonestación. La reincidencia en un plazo de quince días naturales será causa de suspensión por tres días sin goce de sueldo. Acumular tres infracciones en un plazo de treinta días naturales será causa de suspensión por treinta días sin goce de sueldo.
 
 V. El incumplimiento a la obligación contenida en la fracción XII del artículo 11 será causa de amonestación. La reincidencia en un plazo de ciento ochenta días naturales será causa de suspensión.
 
-### CAPÍTULO VII. DE LAS CAUSAS DE BAJA EN EL SERVICIO
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
+
+### CAPÍTULO SÉPTIMO. DE LAS CAUSAS DE BAJA EN EL SERVICIO
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
 
 ###### ARTÍCULO 13.
 
@@ -180,6 +242,8 @@ I. La enfermedad contagiosa del personal adscrito;
 II. La incapacidad temporal ocasionada por un accidente o enfermedad que no constituya riesgo de trabajo.
 
 La incapacidad deberá ser validada por la Institución que preste los servicios de seguridad social.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
 
 ###### ARTÍCULO 14.
 
@@ -192,6 +256,8 @@ II. Estar sujeto a procedimiento de responsabilidad administrativa;
 III. El cumplimiento de los servicios y el desempeño de los cargos mencionados en el artículo 5° de la Constitución Política de los Estados Unidos Mexicanos y el de las obligaciones consignadas en el artículo 31, fracción III de la misma Constitución;
 
 IV. La falta de los documentos que exijan las leyes y reglamentos, necesarios para la prestación del servicio, cuando sea imputable al personal adscrito.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
 
 ###### ARTÍCULO 15.
 
@@ -209,17 +275,25 @@ V. En los casos de la fracción III del artículo 14, desde la fecha en que deba
 
 VI. En los casos de la fracción IV del artículo 14, desde el momento que sea requerido.
 
-### CAPÍTULO VIII. DE LA CARRERA POLICIAL Y DE LA PROFESIONALIZACIÓN
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
+
+### CAPÍTULO OCTAVO. DE LA CARRERA POLICIAL Y DE LA PROFESIONALIZACIÓN
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
 
 ###### ARTÍCULO 18.
 
 La Carrera Policial es el sistema de carácter obligatorio y permanente, conforme al cual se establecen los lineamientos que definen los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción y reconocimiento; así como la separación o baja del servicio de los integrantes de las Instituciones Policiales.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
 
 ###### ARTÍCULO 19.
 
 El personal adscrito se organizará bajo un esquema de jerarquización terciaria, cuya célula básica se compondrá invariablemente por tres elementos.
 
 Los titulares de las categorías jerárquicas estarán facultados para ejercer la autoridad y mando policial en los diversos cargos o comisiones.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
 
 ###### ARTÍCULO 20.
 
@@ -241,33 +315,63 @@ VII. Para la promoción de los integrantes de los Cuerpos de Seguridad se deber�
 
 VIII. Los integrantes podrán ser cambiados de adscripción, con base en las necesidades del servicio.
 
-###### ARTÍCULO 21.
+ARTÍCULO 21 BIS (SIC).- (DEROGADO, P.O. 25 DE JULIO DE 2012)
 
-Las jerarquías que integran la carrera policial serán las siguientes:
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2012)</small>
 
-I. Comisario
+ARTÍCULO 21 BIS.- La Secretaría adoptará una estructura de mando terciaria en el área de seguridad pública, para lo cual el presente Reglamento considerará diversas categorías, las cuales serán cubiertas, siempre y cuando el tamaño del estado de fuerza en su distribución permita cubrir en su totalidad las categorías jerárquicas siguientes:
 
-II. Inspector
+I. Comisarios.
 
-III. Subinspector
+II. Inspectores.
 
-IV. Oficial
+III. Oficiales.
 
-V. Suboficial
+IV. Escala básica
 
-VI. Policía Primero
+A) Las categorías anteriormente previstas considerarán, las siguientes jerarquías, fundamentadas en la Ley General del Sistema Nacional de Seguridad Pública y serán ocupadas por el número de elementos que en la distribución terciaria corresponda:
 
-VII. Policía Segundo
+I. Comisarios:
 
-VIII. Policía Tercero
+a) Comisario.
 
-IX. Policía Raso
+II. Inspectores:
+
+a) Inspector General.
+
+b) Inspector Jefe.
+
+c) Inspector.
+
+III. Oficiales:
+
+a) Subinspector.
+
+b) Oficial.
+
+c) Suboficial.
+
+IV. Escala Básica:
+
+a) Policía Primero.
+
+b) Policía Segundo.
+
+c) Policía Tercero.
+
+d) Policía.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2012)</small>
+
+ARTÍCULO 21 BIS 1.- Las áreas administrativas y operativas diseñaran los lineamientos de los manuales internos y de operación que se requieren para el desempeño de sus funciones.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
 
 ###### ARTÍCULO 16.
 
 El personal adscrito deberá regresar al servicio:
 
-I. En los casos de las fracciones I y II del artículo 13 a partir del día siguiente de la fecha en que termine el período fijado por la dependencia encargada de la seguridad social o antes si desaparece la incapacidad para el servicio, sin que la suspensión pueda exceder del término fijado en la Ley del Seguro Social para el tratamiento de las enfermedades que no sean consecuencia de un riesgo de trabajo;
+I. En los casos de las fracciones I y II del artículo 13 a partir del día siguiente de la fecha en que termine el periodo fijado por la dependencia encargada de la seguridad social o antes si desaparece la incapacidad para el servicio, sin que la suspensión pueda exceder del término fijado en la Ley del Seguro Social para el tratamiento de las enfermedades que no sean consecuencia de un riesgo de trabajo;
 
 II. En los casos de las fracciones I y II del artículo 13, hasta que cause ejecutoria la resolución correspondiente;
 
@@ -275,7 +379,11 @@ III. En el caso de la fracción III del artículo 13, hasta por un período de s
 
 IV. En los casos de la fracción IV del artículo 13, dentro de los quince días siguientes a la terminación de la causa de la suspensión.
 
-### CAPÍTULO IX. DE LA PERMANENCIA EN EL SERVICIO
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
+
+### CAPÍTULO NOVENO. DE LA PERMANENCIA EN EL SERVICIO
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
 
 ###### ARTÍCULO 22.
 
@@ -341,11 +449,17 @@ XIV. No ausentarse del servicio sin causa justificada, por un periodo de tres d�
 
 XV. Las demás que establezcan las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
+
 ###### ARTÍCULO 23.
 
 Las instancias responsables del Servicio de Carrera Policial fomentarán la vocación de servicio mediante la promoción y permanencia en las Instituciones Policiales para satisfacer las expectativas de desarrollo profesional de sus integrantes.
 
-### CAPÍTULO X. DE LAS PROMOCIONES
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
+
+### CAPÍTULO DÉCIMO. DE LAS PROMOCIONES
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
 
 ###### ARTÍCULO 24.
 
@@ -357,6 +471,8 @@ Al personal que sea promovido, le será ratificada su nueva categoría jerárqui
 
 Para ocupar un grado dentro de las Instituciones Policiales, se deberán reunir los requisitos establecidos por la Ley y éste Reglamento.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
+
 ###### ARTÍCULO 25.
 
 La antigüedad del personal adscrito se clasificará y computará de la siguiente forma:
@@ -367,9 +483,13 @@ II. Antigüedad en el grado, a partir de la fecha señalada en la constancia o p
 
 La antigüedad contará hasta el momento en que esta calidad deba determinarse para los efectos de la Carrera Policial.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
+
 ###### ARTÍCULO 26.
 
 El personal adscrito a los Cuerpos de Seguridad que haya alcanzado la edad límite para la permanencia, previstas en las disposiciones que los rijan, podrán ser reubicados, a consideración de las instancias, en otras áreas de los servicios de las propias instituciones.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
 
 ###### ARTÍCULO 27.
 
@@ -377,13 +497,15 @@ La certificación es el proceso mediante el cual los integrantes de los Cuerpos 
 
 El Municipio contratará únicamente al personal adscrito que cuente con el requisito de certificación expedido por su centro de control de confianza respectivo.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
+
 ###### ARTÍCULO 28.
 
 La certificación tiene por objeto:
 
-A.- Reconocer habilidades, destrezas, actitudes, conocimientos generales y específicos para desempeñar sus funciones, conforme a los perfiles aprobados por el Consejo Nacional;
+A. Reconocer habilidades, destrezas, actitudes, conocimientos generales y específicos para desempeñar sus funciones, conforme a los perfiles aprobados por el Consejo Nacional;
 
-B.- Identificar los factores de riesgo que interfieran, repercutan o pongan en peligro el desempeño de las funciones policiales, con el fin de garantizar la calidad de los servicios, enfocándose a los siguientes aspectos del personal adscrito a los Cuerpos de Seguridad:
+B. Identificar los factores de riesgo que interfieran, repercutan o pongan en peligro el desempeño de las funciones policiales, con el fin de garantizar la calidad de los servicios, enfocándose a los siguientes aspectos del personal adscrito a los Cuerpos de Seguridad:
 
 I. Cumplimiento de los requisitos de edad y el perfil físico, médico y de personalidad que exijan las disposiciones aplicables;
 
@@ -397,11 +519,15 @@ V. Notoria buena conducta, no haber sido condenado por sentencia irrevocable por
 
 VI. Cumplimiento de los deberes establecidos en la Ley y en éste Reglamento.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
+
 ###### ARTÍCULO 29.
 
 La Profesionalización es el proceso permanente y progresivo de formación que se integra por las etapas de formación inicial, actualización, promoción, especialización y alta dirección, para desarrollar al máximo las competencias, capacidades y habilidades de los integrantes de los Cuerpos de Seguridad.
 
 Los planes de estudio para la Profesionalización se integrarán por el conjunto de contenidos estructurados en unidades didácticas de enseñanza y aprendizaje que estarán comprendidos en el programa rector que se aprueben conforme a las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
 
 ###### ARTÍCULO 30.
 
@@ -417,15 +543,17 @@ b) De aptitud psicológica;
 
 c) Médico toxicológico;
 
-III. Antigüedad en la corporación;
+III. Antigüedad en la corporación.
 
-IV. Conducta;
+IV. Conducta.
 
-V. Méritos especiales;
+V. Méritos especiales.
 
 VI. Aprobar los cursos correspondientes.
 
 Para la promoción, además se deberán considerar, los resultados obtenidos en los programas de profesionalización, los méritos demostrados en el desempeño de sus funciones y sus aptitudes de mando y liderazgo; así mismo el aspirante deberá tener actualizado el Certificado Único Policial, que expedirá el Centro de Control de Confianza respectivo.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
 
 ###### ARTÍCULO 31.
 
@@ -435,6 +563,8 @@ I. Conducta Profesional: Será acreditado para los efectos de este Reglamento, c
 
 II. Conducta Ciudadana: Será acreditada a través de una investigación que se realizará con los vecinos.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
+
 ###### ARTÍCULO 32.
 
 Los exámenes de conocimientos generales de la actividad policial en materias técnico-operativos, abarcarán, entre otras áreas, las siguientes:
@@ -443,9 +573,11 @@ I. Cursos de adiestramiento y capacitación.
 
 II. Mediante examen de conocimientos, aptitudes y destrezas.
 
-III. Básico de cómputo; y
+III. Básico de cómputo.
 
 IV. Técnicas de función policial.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
 
 ###### ARTÍCULO 33.
 
@@ -454,6 +586,8 @@ El examen médico será practicado por médicos y comprenderá:
 I. Examen de salud.
 
 II. Examen toxicológico
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
 
 ###### ARTÍCULO 34.
 
@@ -467,9 +601,13 @@ III. Velocidad.
 
 IV. Fuerza.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
+
 ###### ARTÍCULO 35.
 
 El examen psicológico comprenderá psicometrías enfocadas a la personalidad, adaptabilidad al puesto e inteligencia, para determinar la capacidad y aptitud para desempeñarse en el nuevo grado.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
 
 ###### ARTÍCULO 36.
 
@@ -489,25 +627,37 @@ VI. Para ascender de Oficial a Subinspector tener como mínimo 3 años de antig�
 
 VII. Para ascender de Subinspector a Inspector tener como mínimo 5 años de antigüedad en el grado.
 
-### CAPÍTULO XI. DE LOS NOMBRAMIENTOS
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
+
+### CAPÍTULO DÉCIMO PRIMERO. DE LOS NOMBRAMIENTOS
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
 
 ###### ARTÍCULO 37.
 
 El grado que ostenten los policías será acreditado por un nombramiento que se expedirá a cada uno de los interesados.
 
-### CAPÍTULO XII. DE LOS RECONOCIMIENTOS
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
+
+### CAPÍTULO DÉCIMO SEGUNDO. DE LOS RECONOCIMIENTOS
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
 
 ###### ARTÍCULO 38.
 
 El régimen de estímulos es el mecanismo por el cual el personal adscrito recibe el reconocimiento público por actos de servicio meritorios o por su trayectoria ejemplar.
 
-Todo estímulo otorgado será acompañado de una constancia que lo acredite, la cual deberá ser integrada al kardex del personal adscrito y en su caso, con la autorización de portación de la condecoración o distintivo correspondiente.
+Todo estímulo otorgado será acompañado de una constancia que lo acredite, la cual deberá ser integrada al Kardex del personal adscrito y en su caso, con la autorización de portación de la condecoración o distintivo correspondiente.
 
-### CAPÍTULO XIII. RECURSO DE INCONFORMIDAD
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
+
+### CAPÍTULO DÉCIMO TERCERO. RECURSO DE INCONFORMIDAD
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
 
 ###### ARTÍCULO 39.
 
-El recurso de inconformidad se regulará de acuerdo a lo establecido en el Reglamento de la Administración Pública del Municipio de Apodaca, Nuevo León.
+En relación al trámite del Recurso de Inconformidad, estará sujeto a lo dispuesto en el Reglamento Especial del Procedimiento Administrativo para el Municipio de Apodaca, Nuevo León.
 
 ###### ARTÍCULO 17.
 
@@ -537,7 +687,7 @@ XI. Disparar el arma de fuego sin causa justificada;
 
 XII. Por incumplimiento de los requisitos legales señalados en la Ley;
 
-XIII. Por infringir, tolerar o permitir actos de tortura o tratos inhumanos y crueles;
+XIII. Por infringir, tolerar o permitir actos de tortura o tratos inhumanos y crueles.
 
 XIV. Por conducirse con falsedad, falta de respeto, indiscreción, y desobediencia;
 
@@ -583,6 +733,8 @@ XXXI. Por sentencia ejecutoriada que le imponga pena de prisión, que le impida 
 
 XXXII. Las análogas a las establecidas en las fracciones anteriores, de igual manera grave y de consecuencias semejantes en lo que al servicio se refiere.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
+
 ## ARTÍCULO TRANSITORIO
 
 ###### ARTÍCULO ÚNICO.
@@ -602,3 +754,11 @@ ING. JESÚS RODRIGO GARCÍA VILLARREAL
 Secretario del R. Ayuntamiento
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE JULIO DE 2012.
+
+PRIMERO.- El presente reglamento entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Nuevo león.
+
+SEGUNDO.- Se manda que se impriman, publiquen, circulen y se le dé el debido cumplimiento a las disposiciones de este reglamento, dadas en el Recinto Oficial de este Republicano Ayuntamiento ubicado en la Presidencia Municipal de Apodaca Nuevo León, a los 29 días del mes de Noviembre de 2011.
