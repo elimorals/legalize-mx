@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2012-02-27"
+last_updated: "2012-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2012.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -289,9 +289,9 @@ Los partidos políticos nacionales acreditados en el Estado tendrán como fin el
 
 La ley de la materia regulará los derechos, prerrogativas y obligaciones de los partidos políticos nacionales acreditados en el Estado, al igual que los respectivos de los ciudadanos y la población en general para la participación en la vida política del Estado y el acceso al poder. Se establecerán en dicha norma los procedimientos, requisitos y normas para el desarrollo de las elecciones ordinarias y extraordinarias estatales y municipales, así como la participación y procedimientos jurisdiccionales y medios de impugnación que darán certeza al Sistema Estatal Electoral y sus procesos.
 
-(NOTA: EL 12 DE NOVIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 52/2009 Y SU ACUMULADA 53/2009, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL APARTADO B, PÁRRAFO DÉCIMO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE NOVIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
 
-El Tribunal Estatal Electoral, será un órgano jurisdiccional, TEMPORAL, autónomo en su funcionamiento e independiente en sus decisiones. Estará integrado por tres Magistrados, adscritos al Poder Judicial del Estado. EN TIEMPO NO ELECTORAL SERÁ EL PLENO DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO QUIEN CONOZCA Y RESUELVA DE LOS RECURSOS. El Tribunal Estatal Electoral, tendrá entre sus facultades, resolver los medios de impugnación y nulidades que la ley electoral establezca, así como declarar la validez de las elecciones.
+La Sala Administrativa y Electoral, será un órgano jurisdiccional permanente, autónomo en su funcionamiento e independiente en sus decisiones, adscrito al Poder Judicial del Estado. Estará integrada por tres Magistrados, sin que formen parte del Pleno del Supremo Tribunal de Justicia. La Sala Administrativa y Electoral, tendrá entre sus facultades, dirimir las controversias de carácter administrativo y fiscal que se susciten entre las autoridades del Estado, de los Municipios y sus Organismos Descentralizados y otras personas en funciones de autoridad, con los particulares; y en materia electoral resolver los medios de impugnación y nulidades que el Código Electoral establezca, así como declarar la validez de las elecciones, y aquellas que se señalen en la Ley Orgánica del Poder Judicial y sus Reglamentos.
 
 La norma penal del Estado, determinará los delitos en materia electoral, así como las sanciones aplicables.
 
@@ -387,9 +387,9 @@ No pueden ser electos Diputados:
 
 I.- Las personas que desempeñen cargos públicos de elección popular, sean de la Federación, del Estado o Municipales.
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2012)</small>
 
-II.- Los Magistrados, tanto del Supremo Tribunal de Justicia, como del Tribunal Electoral y de la Comisión Estatal Electoral; los Jueces y Secretarios de los diversos ramos, el Procurador de Justicia y los delegados de las dependencias federales en el Estado.
+II.- Los Magistrados, tanto del Supremo Tribunal de Justicia, como de la Sala Administrativa y Electoral; los Jueces y Secretarios de los diversos ramos, el Procurador de Justicia; los Consejeros Electorales del Consejo General del Instituto Estatal Electoral y los delegados de las dependencias federales en el Estado.
 
 III.- Los individuos que hayan sido condenados por delito intencional a sufrir pena privativa de la libertad; y
 
@@ -399,7 +399,7 @@ IV.- Los que pertenezcan al estado eclesiástico o sean ministros de cualquier c
 
 Los ciudadanos comprendidos en las fracciones I y II de este artículo, podrán ser electos Diputados, si se separan de sus cargos o empleos noventa días antes de la elección.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 1994)</small>
 
 ###### Artículo 21.
 
@@ -471,7 +471,7 @@ Las contribuciones, además de ser medios para obtener los recursos necesarios p
 
 El Congreso tomará en cuenta las propuestas que hagan los Ayuntamientos relativos a las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y la tabla de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, sin dejar de establecer las tasas adicionales que se fijen sobre la propiedad inmobiliaria, su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 III.- Examinar, discutir y aprobar anualmente el Presupuesto de Egresos del Estado, en el que no podrá haber partidas secretas, tomando en cuenta la Iniciativa enviada por el titular del Poder Ejecutivo, a la cual el Congreso, en su caso, podrá hacer modificaciones.
 
@@ -497,7 +497,7 @@ Los empréstitos que solicite el Estado y los municipios sólo se autorizarán c
 
 V.- Revisar la Cuenta Pública del año anterior, que deberán presentarle a más tardar el 28 de febrero de cada año los titulares de los Poderes del Estado, los Ayuntamientos de la Entidad, las dependencias definidas como tales en la Ley Orgánica de la Administración Pública y en la Ley Municipal, los organismos paraestatales o paramunicipales, organismos autónomos, empresas de participación mayoritaria y fideicomisos pertenecientes a la Administración Pública Descentralizada de Gobierno del Estado y de los Ayuntamientos.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 31 DE OCTUBRE DE 2011)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE OCTUBRE DE 2011)</small>
 
 La revisión de la Cuenta Pública la realizará el Congreso a través de la Entidad de Fiscalización Superior del Estado, denominada Órgano Superior de Fiscalización del Estado de Aguascalientes, para tal efecto, la Cuenta Pública se turnará al Órgano Superior de Fiscalización, por conducto de la Comisión de Vigilancia, a fin de que fiscalice los resultados de la gestión financiera, compruebe que los ingresos estén de acuerdo a la Ley de Ingresos del Estado, que las partidas gastadas estén justificadas y que son conforme con las normas de ejecución de los presupuestos de egresos y el cumplimiento de los objetivos contenidos en los programas.
 
@@ -533,11 +533,15 @@ XIII.- Decidir sobre la renuncia del cargo de Gobernador;
 
 XIV.- Ratificar, con el voto de la mayoría de los integrantes del Congreso, el nombramiento de Jefe de Gabinete que otorgue el Titular del Poder Ejecutivo;
 
-XV.- Designar a los Magistrados del Supremo Tribunal de Justicia del Estado, del Tribunal de lo Contencioso Administrativo y del Tribunal Local Electoral, de la terna propuesta por el Ejecutivo; en caso de que los rechace, aceptar una nueva terna en términos del Artículo 54 de esta Constitución.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2012)</small>
 
-Los nombramientos de los Magistrados deberán recaer en aquellas personas seleccionadas por el Consejo de la Judicatura Estatal que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de su actividad jurídica.
+XV.- Designar a los Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa y Electoral, de la terna propuesta por el Ejecutivo; en caso de que los rechace, aceptar una nueva terna en términos del Artículo 54 de esta Constitución.
 
-XVI.- Conocer de las renuncias que de sus cargos presenten los Magistrados del Supremo Tribunal de Justicia del Estado, los Consejeros Ciudadanos del Consejo General del Instituto Estatal Electoral y los Magistrados del Tribunal Local Electoral y del Tribunal Contencioso Administrativo, comunicándose su aceptación a la autoridad competente, para que proceda conforme a sus facultades.
+Los nombramientos de los Magistrados deberán recaer en aquellas personas seleccionadas por el Consejo de la Judicatura Estatal; que podrán ser tanto elementos del Poder Judicial del Estado, peritos en derecho de otras dependencias del Estado y sus Municipios, o miembros del foro local que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2012)</small>
+
+XVI.- Conocer de las renuncias que de sus cargos presenten los Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa y Electoral, y los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, comunicándose su aceptación a la autoridad competente, para que proceda conforme a sus facultades.
 
 XVII.- Conceder licencia a los Diputados para separarse de sus cargos, llamando inmediatamente a los respectivos suplentes.
 
@@ -557,7 +561,7 @@ XXIV.- Investir al Gobernador de facultades extraordinarias en caso de calamidad
 
 XXV.- Premiar a las personas que hayan prestado eminentes servicios públicos al Estado; o a los hijos de éste que los haya prestado a la Patria o a la humanidad y recompensar a los buenos servidores de la Administración Pública.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 XXVI.- Expedir la Ley que regulará su estructura y funcionamiento interno, así como la Ley que regule la organización del Órgano Superior de Fiscalización del Estado, las cuales serán aprobadas por las dos terceras partes de sus integrantes.
 
@@ -607,7 +611,7 @@ XXXVI.- Expedir leyes que instituyan la justicia de lo contencioso - administrat
 
 XXXVII.- Las demás que le concede esta Constitución y la General de la República.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 8 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 #### SECCION UNICA
 
@@ -657,7 +661,7 @@ Sin perjuicio del principio de anualidad, el Órgano Superior de Fiscalización 
 
 Asimismo, sin perjuicio del principio de posterioridad, en las situaciones excepcionales que determine la Ley, derivado de denuncias, podrá requerir a las entidades fiscalizadas que procedan a la revisión, durante el ejercicio fiscal en curso, de los conceptos denunciados y le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la Ley, se impondrán las sanciones previstas en la misma. El Órgano Superior de Fiscalización del Estado rendirá un informe específico al Congreso del Estado y, en su caso, fincará las responsabilidades correspondientes o promoverá otras responsabilidades ante las autoridades competentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2011)</small>
 
 II. Entregar el informe del resultado de la revisión de las cuentas públicas al Congreso del Estado por conducto de la Comisión de Vigilancia, en los términos que establezca la Ley, el cual se someterá al Pleno del Congreso y tendrá carácter de público. Dicho informe contendrá al menos, las auditorías practicadas, los dictámenes de su revisión, el apartado correspondiente a la fiscalización del manejo de los recursos estatales o municipales, así como de las participaciones federales o estatales en su caso, por parte de las entidades fiscalizadas y verificación del desempeño en el cumplimiento de los objetivos de los programas estatales o municipales, el cumplimiento de las normas de información financiera para el sector público, los resultados de la gestión financiera, la comprobación de que las entidades se ajustaron a la Ley de Ingresos de la Entidad, según corresponda, y al Presupuesto de Egresos, el análisis de las desviaciones presupuestarias en su caso, así como también un apartado específico con las observaciones del Órgano Superior de Fiscalización del Estado que incluya las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas.
 
@@ -667,7 +671,7 @@ Para tal efecto, de manera previa a la presentación del informe del resultado, 
 
 Asimismo, para lo concerniente al proceso de Auditoria, se estará a lo dispuesto en la Ley.
 
-> <small>(DEROGADO CUARTO PARRAFO, P.O. 31 DE OCTUBRE DE 2011)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 31 DE OCTUBRE DE 2011)</small>
 
 En el caso de las recomendaciones al desempeño, las entidades fiscalizadas deberán precisar ante el Órgano Superior de Fiscalización del Estado, las mejoras realizadas o en su caso, justificar su improcedencia.
 
@@ -683,7 +687,9 @@ III. Investigar los actos u omisiones que impliquen alguna irregularidad o condu
 
 IV. Determinar los daños y perjuicios que afecten a la hacienda pública de las entidades y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades promover las acciones de responsabilidad a que se refiere el Capítulo Décimo Sexto de esta Constitución y presentar las denuncias y querellas penales, en cuyos procedimientos tendrá la intervención que señale la Ley.
 
-Las sanciones y demás resoluciones del Órgano Superior de Fiscalización del Estado, podrán ser impugnadas por las entidades fiscalizadas y en su caso, por los servidores públicos afectados adscritos a las mismas, ante el propio Órgano Superior de Fiscalización del Estado o ante el Tribunal de lo Contencioso Administrativo conforme a lo previsto en la Ley.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
+
+Las sanciones y demás resoluciones del Órgano Superior de Fiscalización del Estado, podrán ser impugnadas por las entidades fiscalizadas y en su caso, por los servidores públicos afectados adscritos a las mismas, ante el propio Órgano Superior de Fiscalización del Estado o ante la Sala Administrativa y Electoral conforme a lo previsto en la Ley.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -749,7 +755,7 @@ Toda iniciativa, pasará, sin otro trámite que su lectura, a la Comisión respe
 
 En los mismos términos se procederá respecto de las iniciativas que se refieran a los ámbitos de competencia de los Poderes Ejecutivo y Judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2003)</small>
 
 ###### Artículo 32.
 
@@ -937,7 +943,9 @@ XV.- Decretar la expropiación, por causa de utilidad pública, con los requisit
 
 XVI.- Disponer de la Policía Preventiva Municipal en los casos que juzgue como de fuerza mayor o alteración grave del orden público.
 
-XVII.- Proponer al Congreso del Estado las ternas para nombrar Magistrados del Supremo Tribunal de Justicia del Estado, en términos del Artículo 54, y de acuerdo a las disposiciones del Artículo 27 fracción XV de esta Constitución.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2012)</small>
+
+XVII.- Proponer al Congreso del Estado las ternas para nombrar Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa y Electoral, en términos del Artículo 54, y de acuerdo a las disposiciones del Artículo 27, Fracción XV de esta Constitución.
 
 XVIII.- Ejercer las facultades que en materia de Vialidad Estatal le asignen las Leyes; y
 
@@ -949,7 +957,7 @@ XIX.- Las demás que esta Constitución y la General de la República le confier
 
 El cargo de Gobernador solo es renunciable por causa grave que calificará el Congreso, ante el que se presentará la renuncia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO UNDECIMO. Del Jefe de Gabinete
 
@@ -995,19 +1003,23 @@ DEL PODER JUDICIAL.
 
 El Poder Judicial es el encargado de impartir justicia, aplicando las Leyes con plena independencia en el ejercicio de sus atribuciones jurisdiccionales y para la administración de su presupuesto.
 
-El Poder Judicial del Estado está conformado por el Supremo Tribunal de Justicia del Estado, el Tribunal de lo Contencioso Administrativo del Estado, los Juzgados de Primera Instancia y Mixtos Menores, un Tribunal Local Electoral que será la máxima autoridad jurisdiccional en la materia, y órgano especializado dentro del Poder Judicial, y el Consejo de la Judicatura Estatal, que tiene a su cargo la Carrera Judicial.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
 
-Las condiciones para el ingreso, formación y permanencia, en los diversos órganos jurisdiccionales que conforman al Poder Judicial, así como las facultades y obligaciones de éstos y de los servidores públicos que los integran, se regirán por lo dispuesto en esta Constitución y en las Leyes Orgánicas del Poder Judicial del Estado y del Tribunal de lo Contencioso Administrativo del Estado, respectivamente.
+El Poder Judicial del Estado está conformado por el Supremo Tribunal de Justicia del Estado, una Sala Administrativa y Electoral, que será un órgano especializado y la máxima autoridad jurisdiccional en las materias electoral y contencioso administrativa dentro del Poder Judicial, los Juzgados de Primera Instancia, el o los Jueces de Ejecución, Mixtos Menores, Jueces de Preparación y Especializados de adolescentes y el Consejo de la Judicatura Estatal, que tiene a su cargo la carrera judicial.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
+
+Las condiciones para el ingreso, formación y permanencia, en los diversos órganos jurisdiccionales que conforman al Poder Judicial, así como las facultades y obligaciones de éstos y de los servidores públicos que los integran, se regirán por lo dispuesto en esta Constitución, en la Ley Orgánica del Poder Judicial y en sus Reglamentos.
 
 La representación del Poder Judicial de Aguascalientes corresponde al Supremo Tribunal de Justicia del Estado, por conducto de su Presidente.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
 
 ###### Artículo 52.
 
-El Supremo Tribunal de Justicia del Estado, se integrará por siete Magistrados Numerarios Propietarios y siete Supernumerarios o suplentes, y funcionará en pleno o en salas.
+El Supremo Tribunal de Justicia del Poder Judicial del Estado estará conformado por siete Magistrados y funcionará en pleno o en sus dos distintas salas: la civil y la penal, integradas por tres Magistrados cada una.
 
-Los Magistrados Numerarios del Supremo Tribunal de Justicia del Estado, reunidos en pleno, elegirán de entre sus integrantes a su Presidente, quien ostentará el cargo cuatro años y no podrá ser reelecto para el período inmediato posterior.
+Los Magistrados del Supremo Tribunal de Justicia del Estado, reunidos en pleno, elegirán de entre sus integrantes a su Presidente, quien ostentará el cargo cuatro años y podrá ser reelecto para el período inmediato posterior.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1033,17 +1045,25 @@ IV.- No pertenecer al estado eclesiástico ni ser ministro de ningún culto.
 
 V.- No haber tenido cargo de secretario o su equivalente en el Poder Ejecutivo del Estado, Procurador de Justicia, Diputado Federal o Local o Dirigente de Partido Político durante el año previo al día de su designación.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2012)</small>
 
 ###### Artículo 54.
 
-Los Magistrados del Supremo Tribunal de Justicia del Estado y del Tribunal Local Electoral, se elegirán de la forma siguiente:
+Los Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa y Electoral, se elegirán de la forma siguiente:
 
-El Consejo de la Judicatura Estatal, encabezado por el Presidente del Supremo Tribunal de Justicia del Estado, siguiendo el procedimiento de selección que su propia Ley establezca, propondrá cinco candidatos por cada cargo a Magistrado al titular del Ejecutivo del Estado, quien de entre ellos formulará una terna la cual enviará al Congreso del Estado para que designe a un Magistrado con la aprobación de la mayoría de los asistentes al Pleno. Sólo los Magistrados del Tribunal Local Electoral serán electos por mayoría calificada y en caso de no lograrse ésta, serán seleccionados por insaculación.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
 
-Los Magistrados del Tribunal Electoral contarán con un supernumerario que se seleccionará de entre los integrantes de las ternas presentadas por el Ejecutivo que no hubieran sido designados como numerarios, en los mismos términos del párrafo anterior.
+El Consejo de la Judicatura Estatal, encabezado por el Presidente del Supremo Tribunal de Justicia del Estado, siguiendo el procedimiento de selección que su propia Ley establezca, propondrá cinco candidatos por cada cargo a Magistrado remitiendo los expedientes correspondientes al titular del Ejecutivo del Estado, quien de entre ellos formulará una terna por cada magistratura vacante, la cual enviará al Congreso del Estado para que designe a un Magistrado con la aprobación de la mayoría de los asistentes al Pleno. Sólo los Magistrados de la Sala Administrativa y Electoral, serán electos por mayoría calificada y en caso de no lograrse ésta, serán seleccionados por insaculación.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
+
+Las ausencias temporales de los Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa y Electoral se suplirán como lo establezca la Ley Orgánica del Poder Judicial del Estado de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 Si dentro del término de siete días hábiles de haber sometido la terna para Magistrado a la consideración del Congreso del Estado, éste nada resolviere, el derecho pasará al Ejecutivo del Estado, quien nombrará al Magistrado y lo comunicará al Consejo de la Judicatura Estatal.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 Si dentro del término referido el Congreso del Estado rechaza la terna propuesta por el Ejecutivo del Estado, éste propondrá una nueva terna de entre la cual el Congreso del Estado deberá elegir al Magistrado en un término de cinco días hábiles.
 
@@ -1065,29 +1085,35 @@ El Consejo estará facultado para expedir acuerdos para el adecuado ejercicio de
 
 Los Jueces de Primera Instancia deberán ser nombrados mediante un concurso de oposición, aplicado por el Consejo de la Judicatura Estatal, como se disponga en la Ley respectiva.
 
-Los Magistrados Numerarios del Supremo Tribunal de Justicia del Estado, durarán en su encargo quince años, y sólo podrán ser sustituidos cuando sobrevenga defunción, incapacidad física o mental permanente, o por mala conducta debidamente comprobada, calificada por el Consejo de la Judicatura Estatal o previo juicio de responsabilidad ante el Congreso del Estado, en cuyo caso serán destituidos.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
 
-Ninguna persona que haya sido Magistrado Numerario del Supremo Tribunal de Justicia del Estado, podrá ser nombrada para un nuevo período, salvo que hubiere ejercido el cargo con carácter de provisional o interino.
+Los Magistrados que integren el Pleno del Supremo Tribunal de Justicia del Estado, durarán en su encargo quince años, y los Magistrados de la Sala Administrativa y Electoral durarán en su encargo diez años; sólo podrán ser sustituidos cuando sobrevenga defunción, incapacidad física o mental permanente, o removidos por mala conducta debidamente comprobada, calificada por el Consejo de la Judicatura Estatal o previo juicio de responsabilidad ante el Congreso del Estado, en cuyo caso serán destituidos. Los Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa y Electoral, percibirán la remuneración que establezca el Presupuesto de Egresos del ejercicio fiscal correspondiente.
 
-Al vencimiento del período para el que fueron designados, tendrán derecho a un haber por retiro.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 25 DE JUNIO DE 2012)</small>
 
-Durante los dos años siguientes a la fecha de su retiro, las personas que hayan ocupado el cargo de Magistrados Numerarios del Supremo Tribunal de Justicia del Estado, quedarán impedidos de actuar como patronos, abogados o representantes, en todo tipo de procedimientos tramitados ante los órganos del Poder Judicial del Estado.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 25 DE JUNIO DE 2012)</small>
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
+
+Durante los dos años siguientes a la fecha de su retiro, las personas que hayan ocupado el cargo de Magistrados que integren el Pleno del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa y Electoral, quedarán impedidos de actuar como patronos, abogados o representantes, en todo tipo de procedimientos tramitados ante los órganos del Poder Judicial del Estado.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 25 DE AGOSTO DE 2003)</small>
 
 Los Jueces de Primera Instancia, salvo que sean removidos por causa de mala conducta debidamente comprobada, conforme a los lineamientos conducentes del segundo párrafo de este artículo, durarán diez años en el ejercicio de su encargo al término de los cuales, atendiendo a los procedimientos de evaluación establecidos en la Ley Orgánica del Poder Judicial, podrán ser ratificados o ascendidos en la carrera judicial.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 25 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
 
-Los Magistrados del Supremo Tribunal de Justicia del Estado, los Magistrados del Tribunal de lo Contencioso Administrativo, no podrán ser nombrados para un nuevo período; los jueces de Primera Instancia no podrán ser ratificados o ascendidos en caso de mala conducta debidamente comprobada o hayan sido removidos del cargo.
+Los Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa y Electoral, podrán ser reelectos en los términos que establezca la Ley Orgánica del Poder Judicial del Estado de Aguascalientes; los Jueces de Primera Instancia no podrán ser ratificados o ascendidos en caso de mala conducta debidamente comprobada o hayan sido removidos del cargo.
 
-Los Magistrados del Tribunal de lo Contencioso Administrativo percibirán el haber por retiro que establece la Ley Orgánica del Tribunal de lo Contencioso Administrativo del Estado.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
 
-(NOTA: EL 12 DE NOVIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 52/2009 Y SU ACUMULADA 53/2009, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PENÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE NOVIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+Los Magistrados que integren el Pleno del Supremo Tribunal de Justicia percibirán un haber por retiro al concluir el período para el que fueron designados; y los de la Sala Administrativa y Electoral tendrán el mismo derecho siempre y cuando no continúen con la carrera judicial, lo anterior conforme a lo dispuesto en la Ley Orgánica del Poder Judicial del Estado de Aguascalientes y el Presupuesto de Egresos respectivo.
 
-LOS MAGISTRADOS DEL TRIBUNAL LOCAL ELECTORAL PODRÁN SER REELECTOS POR VARIOS PERÍODOS SIEMPRE Y CUANDO NO EXCEDAN DEL PLAZO ACUMULADO DE DIEZ AÑOS Y NO PODRÁN SER NOMBRADOS PARA UN NUEVO PERÍODO, CUANDO NO SEAN RATIFICADOS O INCURRAN EN ALGUNA DE LAS HIPÓTESIS ESTABLECIDAS EN EL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO.
+> <small>(DEROGADO NOVENO PÁRRAFO, P.O. 25 DE JUNIO DE 2012)</small>
 
-Las renuncias de los Magistrados del Supremo Tribunal de Justicia del Estado y del Tribunal Local Electoral, serán sometidas al Consejo de la Judicatura Estatal, y si éste las acepta, las enviará para su aprobación al Congreso del Estado.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
+
+Las renuncias de los Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa y Electoral, serán sometidas al Consejo de la Judicatura Estatal, y si éste las acepta, las enviará para su aprobación al Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
@@ -1119,7 +1145,7 @@ VIII.- Las demás facultades que le concede esta Constitución y las que estable
 
 Los Magistrados, antes de tomar posesión de sus cargos, deberán rendir la protesta de ley, ante el Congreso o la Diputación Permanente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 CAPITULO DECIMOTERCERO
 
@@ -1579,7 +1605,7 @@ La propaganda, bajo cualquier modalidad de comunicación social, que difundan co
 
 La violación a lo establecido en el presente Artículo será sancionada en la forma y términos que señalen las leyes.
 
-> <small>(ADICIONADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 90.
 
@@ -1667,7 +1693,7 @@ El presente decreto comenzará a surtir sus efectos desde la fecha de su expedic
 
 P.O. 2 DE MAYO DE 1926.
 
-> <small>N. DE E. POR ANTICONSTITUCIONAL, SE DEROGA EL DECRETO No. 126, EXPEDIDO EL 26 DE ABRIL Y PUBLICADO EL 2 DE MAYO DE 1926, POR LO QUE LOS PRESENTES ARTICULOS QUEDAN SIN EFECTO ALGUNO P.O. 24 DE MARZO DE 1929.</small>
+> <small>N. DE E. POR ANTICONSTITUCIONAL, SE DEROGA EL DECRETO No. 126, EXPEDIDO EL 26 DE ABRIL Y PUBLICADO EL 2 DE MAYO DE 1926, POR LO QUE LOS PRESENTES ARTÍCULOS QUEDAN SIN EFECTO ALGUNO P.O. 24 DE MARZO DE 1929.</small>
 
 I.- (DEROGADA, P.O. 22 DE JULIO DE 1926)
 
@@ -1859,9 +1885,9 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 
 P.O. 5 DE ENERO DE 1975.
 
-DECRETO No. 14, POR EL QUE SE REFORMA EL ARTICULO 48 DE LA CONSTITUCION POLITICA LOCAL.
+DECRETO No. 14, POR EL QUE SE REFORMA EL ARTÍCULO 48 DE LA CONSTITUCIÓN POLÍTICA LOCAL.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 31 DE AGOSTO DE 1975.
 
@@ -2163,7 +2189,7 @@ SEGUNDO.- El primer Consejo Consultivo de la Comisión Estatal de Derechos Human
 
 P.O. 17 DE MARZO DE 2003.
 
-DECRETO NÚMERO 88, QUE REFORMA EL ARTICULO 24 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES.
+DECRETO NÚMERO 88, QUE REFORMA EL ARTÍCULO 24 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES.
 
 ###### ARTICULO UNICO.
 
@@ -2466,3 +2492,33 @@ P.O. 27 DE FEBRERO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE JUNIO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Las reformas a la Ley Orgánica del Poder Judicial del Estado y demás ordenamientos aplicables, deberán hacerse dentro de los treinta días siguientes a la entrada en vigencia del presente Decreto.
+
+En tanto no se realicen las adecuaciones normativas conducentes, toda referencia al Tribunal de lo Contencioso Administrativo o al Tribunal Electoral Local se entenderá hecha a la Sala Administrativa y Electoral.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los treinta días siguientes a la entrada en vigencia del presente Decreto, el Consejo de la Judicatura Estatal convocará a concurso de oposición para la designación de dos Magistrados de la Sala Administrativa y Electoral.
+
+En el concurso de oposición podrán participar elementos del Poder Judicial del Estado, peritos en derecho de otras dependencias del Estado y sus Municipios, o miembros del foro local que por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica lo deseen.
+
+###### ARTÍCULO CUARTO.
+
+El actual Magistrado del Tribunal de lo Contencioso Administrativo será nombrado por el Congreso del Estado como Magistrado de la Sala Administrativa y Electoral, por el tiempo que reste para concluir el período para el cual fue designado originalmente, quien continuará percibiendo la remuneración que tiene asignada y conservará los derechos adquiridos.
+
+###### ARTÍCULO QUINTO.
+
+La Sala Administrativa y Electoral iniciará sus funciones una vez que sean nombrados los Magistrados que la integrarán, y formará parte de la misma el personal que actualmente integra el Tribunal de lo Contencioso Administrativo.
+
+###### ARTÍCULO SEXTO.
+
+El Congreso del Estado deberá aprobar la partida presupuestal que permita el funcionamiento de la Sala Administrativa Electoral durante el ejercicio fiscal dos mil doce, previa solicitud de reasignación presupuestal que dentro de los treinta días siguientes a la entrada en vigencia de este Decreto, envíe el Titular del Poder Ejecutivo a esta Legislatura.
