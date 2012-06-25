@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-59467"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-02-04"
-last_updated: "2011-08-08"
+last_updated: "2012-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
+LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2012.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de febrero de 2008.
 
@@ -39,7 +39,7 @@ P R E S E N T E.
 
 Habitantes de Aguascalientes sabed:
 
-La LlX Legislatura del Estado Libre y Soberano de Aguascalientes, en virtud de su función y facultad constitucional, ha tenido a bien expedir el siguiente
+La LIX Legislatura del Estado Libre y Soberano de Aguascalientes, en virtud de su función y facultad constitucional, ha tenido a bien expedir el siguiente
 
 Decreto Número 364
 
@@ -47,7 +47,7 @@ Decreto Número 364
 
 Se aprueba la Ley Orgánica del Poder Legislativo del Estado de Aguascalientes, para quedar en los siguientes términos:
 
-LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALlENTES
+LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
 ## TÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
@@ -91,7 +91,9 @@ IV. Analizar, estudiar, modificar y aprobar el Presupuesto General Anual de Egre
 
 Sí al iniciarse el año fiscal no hubiese sido aprobado el presupuesto general correspondiente enviado por el Ejecutivo del Estado, se ejercerá el presupuesto aprobado para el ejercicio anterior hasta en tanto se apruebe el correspondiente al año que corre por parte del Congreso del Estado;
 
-V. Formular observaciones al Plan Estatal de Desarrollo, el cual será remitido por el Gobernador del Estado para su examen y aprobación.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2012)</small>
+
+V. Emitir el acuerdo que contenga las observaciones al Plan Sexenal de Gobierno del Estado, dentro de los 30 días siguientes a su recepción;
 
 VI. Recibir, analizar y en su caso aprobar los informes que le envíe el Gobernador del Estado y los ayuntamientos, sobre la ejecución y cumplimiento de los presupuestos y programas aprobados; estos informes deberán ser recibidos dentro de los treinta días siguientes a la fecha de corte del período respectivo;
 
@@ -725,7 +727,7 @@ XII. De Recursos Hidráulicos;
 
 XIII. De Salud Pública y Asistencia Social;
 
-XlV. De Seguridad Pública;
+XIV. De Seguridad Pública;
 
 XV. De Derechos Humanos;
 
@@ -803,7 +805,7 @@ VIII. La constitución del Colegio Electoral para la designación del Gobernador
 
 IX. Otros análogos, que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2010)</small>
 
 ###### ARTÍCULO 67.
 
@@ -957,7 +959,7 @@ III. Las acciones que se realicen en materia de fomento agropecuario y para la p
 
 IV. Otros análogos que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento de esta Comisión.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2010)</small>
 
 ###### ARTÍCULO 76.
 
@@ -1059,7 +1061,7 @@ III. La creación y supresión de municipios; y
 
 IV. Otros análogos, que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2009)</small>
 
 ###### ARTÍCULO 83.
 
@@ -1353,7 +1355,7 @@ La Diputación Permanente ejercerá las atribuciones que expresamente le confier
 
 En caso de empate el Presidente tendrá voto de calidad.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE JULIO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JULIO DE 2010)</small>
 
 ### CAPÍTULO IX. Del Órgano Superior de Fiscalización
 
@@ -1935,7 +1937,7 @@ Dip. Ubaldo Treviño Soledad,
 
 SEGUNDO SECRETARIO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 10 DE MARZO DE 2008.
 
@@ -1980,3 +1982,9 @@ P.O. 8 DE AGOSTO DE 2011.
 ###### ARTÍCULO ÚNICO
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 25 DE JUNIO DE 2012
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
