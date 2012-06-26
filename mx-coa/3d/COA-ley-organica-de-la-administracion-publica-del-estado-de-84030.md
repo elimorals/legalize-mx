@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-84030"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-30"
-last_updated: "2011-11-30"
+last_updated: "2012-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2012.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Coahuila, el miércoles 30 de noviembre de 2011.
 
@@ -641,7 +641,9 @@ VIII. Brindar apoyo técnico en materia de desarrollo social y humano a los muni
 
 IX. Realizar estudios e investigaciones para determinar las necesidades de desarrollo social y humano en el estado;
 
-X. Realizar las acciones necesarias para la construcción y mejoramiento de la vivienda;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2012)</small>
+
+X. Ejecutar programas tendientes al mejoramiento de la calidad de los servicios y los espacios de las viviendas de las familias coahuilenses;
 
 XI. Ejecutar los planes y convenios celebrados con otros órdenes de gobierno y grupos sociales para el desarrollo individual y colectivo que favorezca a las comunidades del estado;
 
@@ -653,7 +655,9 @@ XIV. Diseñar, coordinar y ejecutar la política de atención a la juventud aten
 
 XV. Formular, ejecutar y evaluar planes y programas en beneficio de personas adultas mayores, con discapacidad, y demás población en situación de vulnerabilidad o de marginación;
 
-XVI. Efectuar acciones tendientes a la regularización de la tenencia de la tierra en coordinación con los municipios, e
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2012)</small>
+
+XVI. Promover la certeza jurídica en la tenencia de la tierra, en coordinación con las dependencias y entidades competentes, e
 
 XVII. Integrar un padrón de beneficiarios de los programas de desarrollo social que cuente con información estructurada, actualizada y sistematizada.
 
@@ -793,7 +797,9 @@ I. Formular, ejecutar y evaluar las políticas generales de desarrollo urbano y 
 
 II. Participar con los municipios en las políticas que garanticen una mejor calidad para los asentamientos humanos y un uso del suelo eficiente y sustentable;
 
-III. Promover la creación de reservas territoriales estratégicas para la construcción de vivienda, obras públicas y vialidades; así como establecer y vigilar el cumplimiento de los programas de adquisición de las mismas en coordinación, en su caso, con los ayuntamientos;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2012)</small>
+
+III. Promover la creación de reservas territoriales estratégicas y demás acciones necesarias para la construcción de vivienda, obras públicas, vialidades y áreas verdes, así como establecer y vigilar el cumplimiento de los programas de adquisición de las mismas en coordinación, en su caso, con los ayuntamientos; el acceso a las personas, principalmente a aquellas que se encuentren en situación de vulnerabilidad, a una vivienda digna y decorosa;
 
 IV. Generar esquemas que permitan la construcción de vialidades o desarrollos urbanos mediante la participación privada o social;
 
@@ -827,7 +833,9 @@ XVIII. Instrumentar, en coordinación con las dependencias a que se refieren los
 
 XIX. Participar en la planeación de la infraestructura urbana que aliente el desarrollo, resuelva los problemas viales, reoriente el crecimiento de las poblaciones y favorezca el crecimiento económico;
 
-XX. Coordinar las funciones del catastro y la información territorial, y alentar la certeza jurídica en la tenencia de la tierra y la recaudación municipal en esta materia;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2012)</small>
+
+XX. Coordinar las funciones del catastro y la información territorial, así como las acciones tendientes a la regularización de la tenencia de la tierra en coordinación con los municipios y promover la recaudación municipal en esta materia;
 
 XXI. Promover la planeación en materia de vivienda y la inversión en ésta, el equipamiento y servicios urbanos;
 
@@ -1234,3 +1242,27 @@ EL SECRETARIO DE GOBIERNO
 LIC. DAVID AGUILLÓN ROSALES
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE JUNIO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los bienes muebles e inmuebles que formaban parte del patrimonio de la Comisión Estatal para la Regularización de la Tenencia de la Tierra Urbana y Rústica en Coahuila, así como del Instituto Estatal de la Vivienda Popular y que por disposición de los artículos SEGUNDO y SEXTO TRANSITORIOS de la Ley de Vivienda para el Estado de Coahuila de Zaragoza publicada el 17 de diciembre de 2010, fueron transferidos a la Comisión Estatal de Vivienda de la Secretaría de Desarrollo Social, serán transferidos a la Secretaría de Finanzas del Gobierno del Estado, conforme a lo dispuesto por la Ley General de Bienes del Estado para que, previo su registro, sean reasignados a la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial.
+
+Se instruye a la Secretaría de Finanzas del Estado para que realice los trámites legales correspondientes, a fin de que los bienes inmuebles y los derechos u obligaciones que recaigan sobre éstos, que integraban el patrimonio de los organismos públicos referidos, pasen a formar parte del patrimonio del Gobierno del Estado.
+
+TERCERO.- Los recursos humanos que pertenecían a la Comisión Estatal para la Regularización de la Tenencia de la Tierra Urbana y Rústica en Coahuila, así como al Instituto Estatal de la Vivienda Popular y que por disposición del artículo CUARTO TRANSITORIO de la Ley de Vivienda para el Estado de Coahuila de Zaragoza publicada el 17 de diciembre de 2010, fueron asignados a la Comisión Estatal de Vivienda de la Secretaría de Desarrollo Social, serán transferidos a la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial.
+
+Los derechos laborales de los trabajadores que con motivo de este decreto son transferidos, serán reconocidos íntegramente y respecto de los mismos se seguirá aplicando la normatividad de la materia, por lo que en ninguna forma resultarán afectados en sus derechos, facultades o atribuciones que hayan adquirido en virtud de su relación laboral.
+
+CUARTO.- Los procedimientos y asuntos que al momento de la entrada en vigor del presente decreto se encuentren pendientes de resolución, se resolverán por la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial.
+
+QUINTO.- En los casos en que otras leyes y demás disposiciones atribuyan facultades y obligaciones, otorgadas mediante este decreto, a dependencias con distinta denominación a la prevista en este ordenamiento, dichas atribuciones se entenderán concedidas a la dependencia que el presente decreto determine, en la forma y términos en que las propias leyes lo dispongan.
+
+SEXTO.- Los servicios que hasta antes de la entrada en vigor del presente decreto eran prestados por la Comisión Estatal de Vivienda de la Secretaría de Desarrollo Social, serán asumidos por la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial, en los términos previstos en el presente decreto.
+
+SÉPTIMO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+OCTAVO.- El Organismo Público desconcentrado denominado Comisión Estatal de Vivienda, deberá emitir su reglamento en un término de 6 meses a partir de la entrada en vigor del presente decreto.
