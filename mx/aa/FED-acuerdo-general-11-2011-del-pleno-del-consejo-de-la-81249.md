@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-11-2011-del-pleno-del-consejo-de-la-81249"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-05-12"
-last_updated: "2012-05-25"
+last_updated: "2012-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81249&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2011-05-03"
 
 ACUERDO GENERAL 11/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE MAYO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 17/2012, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO, PUBLICADO EN EL D.O.F. DE 26 DE JUNIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: DEROGADO.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 12 de mayo de 2011.
 
@@ -1042,3 +1044,17 @@ SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así c
 TERCERO. La Dirección General de Estadística Judicial y la Dirección General de Tecnologías de la Información determinarán, en el ámbito de su competencia, lo relativo al funcionamiento de la Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de Coahuila de Zaragoza, con residencia en Monclova.
 
 CUARTO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 11/2011, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales colegiados y unitarios de Circuito y de los juzgados de Distrito. Asimismo, la reforma al Acuerdo General 54/2009, del Pleno del Consejo de la Judicatura Federal, que crea el Centro Auxiliar de la Décima Región, con residencia en Saltillo, Coahuila, así como los órganos jurisdiccionales que lo integrarán.
+
+D.O.F. 26 DE JUNIO DE 2012.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. Se deroga el Acuerdo General 11/2011, publicado en el Diario Oficial de la Federación, de doce de mayo de dos mil once. Asimismo, quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este acuerdo.
+
+CUARTO. Los acuerdos generales que dicte el Consejo de la Judicatura Federal con posterioridad al inicio de la vigencia del presente acuerdo y que se refieran a la determinación del número, límites territoriales de los circuitos y distritos judiciales, así como respecto al número, límites territoriales y especialización por materia de los tribunales colegiados y unitarios de Circuito, de los juzgados de Distrito, se integrarán a este acuerdo general para efectos de su actualización.
+
+QUINTO. Las modificaciones en la conformación municipal que realicen los Estados de la República en el ámbito de sus respectivas competencias y que cambien la distribución contenida en el presente acuerdo general, serán analizadas por el Consejo de la Judicatura Federal y en su caso, las variaciones relativas a que haya lugar se efectuarán en acuerdos generales que se integren a este acuerdo; considerando que el nuevo municipio pertenecerá al distrito judicial del que formaba parte.
+
+SEXTO. En virtud de los ajustes de nomenclatura y residencia previstos en el presente acuerdo, las Administraciones Regionales y Delegaciones Administrativas proveerán a los órganos jurisdiccionales respectivos, de los recursos materiales necesarios (sello oficial, directorios, placa conmemorativa del órgano jurisdiccional, papelería, etc.), para que a la brevedad posible cuenten con ellos.
