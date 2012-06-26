@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-judicial-del-estado-de-guanajuato-87867"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-05-22"
-last_updated: "2012-05-22"
+last_updated: "2012-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE JUNIO DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE JUNIO DE 2012.</small>
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 22 de mayo de 2012.
 
@@ -2397,8 +2397,6 @@ Una vez recibido el expediente de la visita, el secretario general del Consejo d
 
 ### Capítulo III. Escuela de Estudios e Investigación Judicial
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE JUNIO DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Naturaleza, adscripción y objeto
 
 ###### Artículo 177.
@@ -2406,6 +2404,10 @@ Naturaleza, adscripción y objeto
 La Escuela de Estudios e Investigación Judicial es un órgano especializado de investigación y educación superior, dependerá directamente del Consejo del Poder Judicial y gozará de autonomía técnica para definir los contenidos académicos.
 
 Su objeto será la capacitación, actualización, especialización y profesionalización de los miembros del Poder Judicial, de quienes aspiren a formar parte del mismo o realicen actividades relacionadas con los servicios judiciales.
+
+> <small>(F. DE E., P.O. 26 DE JUNIO DE 2012)</small>
+
+El Consejo del Poder Judicial, en su caso, aprobará las cuotas, aranceles, ingresos y becas que correspondan por los programas, servicios y actividades académicas a cargo de la Escuela de Estudios e Investigación Judicial.
 
 El funcionamiento de la Escuela de Estudios e Investigación Judicial se contendrán en el reglamento que expida el Consejo del Poder Judicial.
 
@@ -3017,13 +3019,13 @@ VIII. El apercibimiento al servidor público para que, de no señalar domicilio 
 
 IX. El nombre del consejero instructor del procedimiento.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE JUNIO DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 26 DE JUNIO DE 2012)</small>
 
 Análisis previo de la queja o denuncia
 
 ###### Artículo 231.
 
-Presentada la queja o denuncia, el presidente del Consejo del Poder Judicial revisará si de los hechos u omisiones contenidos en la misma y de las pruebas presentadas, se desprende la probable comisión de una falta administrativa. Si notoriamente la queja o denuncia o, en su caso, la inconformidad, es infundada, acordará el no inicio del procedimiento disciplinario, sin perjuicio de que se observe lo dispuesto en el artículo 226 de esta Ley.
+Presentada la queja o denuncia, el Consejo del Poder Judicial revisará si de los hechos u omisiones contenidos en la misma y de las pruebas presentadas, se desprende la probable comisión de una falta administrativa. Si notoriamente la queja o denuncia o, en su caso, la inconformidad, es infundada, acordará el no inicio del procedimiento disciplinario, sin perjuicio de que se observe lo dispuesto en el artículo 226 de esta Ley.
 
 Medidas precautorias
 
