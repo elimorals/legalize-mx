@@ -4,7 +4,7 @@ identifier: "COA-ley-del-registro-civil-para-el-estado-de-coahuila-de-33401"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-25"
-last_updated: "2009-05-12"
+last_updated: "2012-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33401&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 25 de julio de 2003.
 
@@ -127,7 +127,11 @@ I. No celebrarán ningún acto del estado civil en que intervenga algún extranj
 
 II. Las actas de nacimiento, de reconocimiento de hijos y de defunción, deberán levantarse en los términos señalados por el Código Civil para el Estado de Coahuila y, cuando los extranjeros que intervengan no acrediten su estancia legal en el país, tomarán nota de su nombre, ocupación y domicilio y darán aviso a la dependencia competente del gobierno federal.
 
-III. Al hacer la inscripción de actas de adopción, tutela, divorcio u otros actos o anotaciones que se realicen por mandato judicial, se cerciorarán si ante la autoridad judicial correspondiente, los extranjeros comprobaron su legal estancia en el país y, en caso contrario, darán aviso a la autoridad a que se refiere la fracción anterior.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2012)</small>
+
+III. Al hacer la inscripción de actas de tutela, divorcio u otros actos o anotaciones que se realicen por mandato judicial, se cerciorarán si ante la autoridad judicial correspondiente, los extranjeros comprobaron su legal estancia en el país y, en caso contrario, darán aviso a la autoridad a que se refiere la fracción anterior.
 
 IV. En caso de emancipación por efecto de matrimonio, se cerciorarán de que el mismo se celebró con permiso de la dependencia federal competente y, en caso contrario, con los datos correspondientes se dará el mismo aviso a que se refiere la fracción primera.
 
@@ -429,7 +433,7 @@ La Dirección analizará y revisará cada solicitud, así como la documentación
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2007)</small>
 
 ###### ARTÍCULO 55.
 
@@ -441,7 +445,11 @@ I. El primero, actas de nacimiento.
 
 II. El segundo, actas de reconocimiento.
 
-III. El tercero, actas de adopción semiplena y tutela, así como, las inscripciones de las ejecutorias que declaren el estado de interdicción.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2012)</small>
+
+III. El tercero, actas de tutela, así como, las inscripciones de las ejecutorias que declaren el estado de interdicción.
 
 IV. El cuarto, actas de matrimonio.
 
@@ -461,11 +469,13 @@ VIII.- El Octavo, actas de disolución o terminación de los pactos civiles de s
 
 Toda acta deberá asentarse en los cinco ejemplares del registro y en ellos, deberán constar las firmas autógrafas, facsimilares o electrónicas del Oficial del Registro Civil y de los comparecientes, cuando así corresponda.
 
-(REFORMADO, P.O. 12 DE ENERO DE 2007) (F. DE E., P.O. 19 ENERO DE 2007)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 57.
 
-Las actas del Registro Civil sólo se asentarán en las formas siguientes: nacimiento, reconocimiento de hijos, adopción semiplena, matrimonio, defunción, divorcio, registro de pacto civil de solidaridad y terminación del mismo, de inscripción de las sentencias ejecutoriadas que declaren la ausencia, la presunción de muerte, la tutela y la pérdida o limitación de la capacidad legal para administrar bienes.
+Las actas del Registro Civil sólo se asentarán en las formas siguientes: nacimiento, reconocimiento de hijos, matrimonio, defunción, divorcio, registro de pacto civil de solidaridad y terminación del mismo, de inscripción de las sentencias ejecutoriadas que declaren la ausencia, la presunción de muerte, la tutela y la pérdida o limitación de la capacidad legal para administrar bienes.
 
 > <small>(F. DE E., P.O. 19 ENERO DE 2007)</small>
 
@@ -599,9 +609,13 @@ En el caso de los niños expósitos a que se refiere el artículo 172 bis del C�
 
 Para la expedición de las actas que el Oficial del Registro Civil levante en estos casos, deberá sujetarse a lo establecido en el artículo 174 del Código Civil del Estado de Coahuila.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 81.
 
-(DEROGADO, P.O. 28 DE DICIEMBRE DE 2007)
+En los casos de adopción plena, se cancelará el acta de nacimiento del adoptado y, en su lugar, se levantará acta de nacimiento que contendrá los datos del adoptado, de los padres adoptivos y de los ascendientes de éstos, así como de los testigos de ese acto, conservando la fecha de registro original del adoptado. A partir del levantamiento del acta de nacimiento, no se publicará ni se expedirá ninguna otra que revele el origen del adoptado ni su condición de tal, observándose, en todo caso, lo previsto en el párrafo tercero del artículo 189 del Código Civil para el Estado de Coahuila.
 
 ###### ARTÍCULO 82.
 
@@ -617,27 +631,35 @@ El Oficial del Registro Civil deberá orientar a los interesados respecto de los
 
 Si el reconocimiento se hiciere en oficina distinta de aquella en la que se levantó el acta de nacimiento, el Oficial del Registro Civil que autorice el acta de reconocimiento remitirá copia de ésta al encargado de la oficina que haya registrado el nacimiento y a la Dirección, para efecto de que se haga la anotación en el acta respectiva.
 
-### CAPÍTULO TERCERO. LOS LIBROS DE LAS ACTAS DE ADOPCIÓN Y DE TUTELA
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA DENOMINACIÓN DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE JUNIO DE 2012)</small>
+
+### CAPÍTULO TERCERO. LOS LIBROS DE LAS ACTAS DE TUTELA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 85.
 
-Las actas de adopción semiplena se asentarán con arreglo a lo dispuesto en la Sección Cuarta, Capítulo X, Título Segundo del Libro Primero del Código Civil para el Estado de Coahuila.
+(DEROGADO, P.O. 26 DE JUNIO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 86.
 
-Extendida el acta de adopción semiplena, se anotará la de nacimiento del adoptado y se archivará copia de las diligencias relativas, poniéndole el mismo número del acta de adopción y observándose en lo conducente, lo dispuesto por el artículo 84 de esta ley.
+(DEROGADO, P.O. 26 DE JUNIO DE 2012)
 
-En los casos de adopción plena, se cancelará el acta de nacimiento del adoptado, si es que existe y, en su lugar, se levantará acta de nacimiento que contendrá los datos del adoptado, de los padres adoptivos y de los ascendientes de éstos, así como de los testigos de ese acto. A partir del levantamiento del acta de nacimiento, no se publicará ni se expedirá ninguna otra que revele el origen del adoptado ni su condición de tal, observándose, en todo caso, lo previsto en el párrafo tercero del artículo 189 del Código Civil para el Estado de Coahuila.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 87.
 
-Las copias certificadas de las diligencias judiciales y demás documentos relativos pasarán a formar parte del apéndice que corresponda.
+(DEROGADO, P.O. 26 DE JUNIO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 88.
 
-El juez que resuelva que una adopción semiplena queda sin efectos, deberá remitir copia certificada por duplicado de su resolución, al Oficial de Registro Civil que corresponda, asimismo, deberá remitir una copia a la Dirección, con el fin de que se proceda a cancelar el acta de adopción y las anotaciones respectivas en los términos de esta ley.
-
-El plazo para enviar las copias a que se refiere el párrafo anterior, será de ocho días contados a partir de la fecha de la emisión correspondiente.
+(DEROGADO, P.O. 26 DE JUNIO DE 2012)
 
 ###### ARTÍCULO 89.
 
@@ -773,7 +795,7 @@ La autoridad judicial deberá enviar copia certificada por duplicado de su resol
 
 Cuando se recobre la capacidad legal para administrar bienes o se presente la persona declarada ausente o cuya muerte se presumía, la autoridad que corresponda y/o, en su caso, el mismo interesado, darán aviso al Oficial del Registro Civil y a la Dirección, para que se cancele el acta relativa y la anotación que se hubiere hecho en el acta de nacimiento respectiva.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2007)</small>
 
 ### CAPÍTULO VIII (SIC). EL LIBRO DE LAS ACTAS DE INSCRIPCIÓN DE LOS PACTOS CIVILES DE SOLIDARIDAD
 
@@ -807,7 +829,7 @@ Cuando se recobre la capacidad legal para administrar bienes o se presente la pe
 
 5.- En caso de que se declare la nulidad del pacto civil de solidaridad, el Oficial del Registro Civil tendrá la obligación de hacer la anotación correspondiente en las actas de pacto civil.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2007)</small>
 
 ### CAPÍTULO IX. EL LIBRO DE LAS TERMINACIONES DE LOS PACTOS CIVILES DE SOLIDARIDAD
 
@@ -849,21 +871,55 @@ Si concluida y firmada un acta se hubiere dejado de asentar algún dato, el Ofic
 
 La rectificación o aclaración de un acta del Registro Civil, únicamente procederá en los casos y en los términos señalados por los artículos 234 y 235 del Código Civil para el Estado de Coahuila, siempre que se cumplan las formalidades previstas en los mismos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 121.
 
-Las resoluciones que concedan o nieguen la rectificación, motivarán la anotación del acta correspondiente en los términos del artículo 238 del Código Civil para el Estado de Coahuila.
+La resolución administrativa que conceda la aclaración o rectificación administrativa de las actas del estado civil, se enviará al Oficial del Registro Civil correspondiente a efecto de que realice las anotaciones relativas.
+
+Contra la resolución administrativa que conceda o niegue la aclaración o rectificación del acta, los interesados podrán interponer el recurso de revisión previsto en la Ley de Procedimiento Administrativo para el Estado de Coahuila de Zaragoza o, cuando proceda, intentar la vía jurisdiccional que corresponda.
+
+Una vez resuelta en definitiva la aclaración o rectificación, el dato o motivo de la misma no podrá ser objeto de modificación posterior. Tampoco podrá modificarse si la misma tuvo su origen en sentencia judicial.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 122.
 
-El juez que conozca de un juicio de rectificación deberá solicitar un informe a la Dirección a efecto de que le proporcione una copia certificada del acta que se pretenda rectificar, obtenida de los libros duplicados que obren en su archivo general y manifieste si ante esa dependencia se ha registrado solicitud de rectificación.
+El juez que conozca de un juicio de rectificación deberá solicitar un informe a la Dirección a efecto de que en auxilio de las labores del juzgado, le proporcione una copia certificada del acta que se pretenda rectificar, obtenida de los libros duplicados que obren en su archivo general y manifieste si ante esa dependencia se ha registrado solicitud de rectificación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2012)</small>
+
+ARTÍCULO 122 BIS. En todo lo no previsto en este capítulo, se aplicarán supletoriamente las disposiciones conducentes del Código Procesal Civil para el Estado.
 
 #### SECCIÓN SEGUNDA. EL PROCEDIMIENTO DE ACLARACIÓN ANTE LA DIRECCIÓN DEL REGISTRO CIVIL
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 123.
 
-Procederá la solicitud de aclaración de actas ante la Dirección en los casos previstos por el artículo 235 del Código Civil para el Estado de Coahuila, siempre y cuando se fundamente en errores cuya evidencia resulte de la confrontación con los documentos en cuya virtud se ha practicado la inscripción; o bien, cuando el error quede establecido por las demás circunstancias de la inscripción, o de otra u otras inscripciones que hagan fe del acto o hecho correspondiente.
+Procederá la solicitud de aclaración de actas ante la Dirección en los casos previstos por el artículo 128 de esta ley.
 
 La Dirección podrá delegar en los Oficiales Coordinadores la instrucción del procedimiento de aclaración hasta la citación para resolución.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2012)</small>
+
+Para efectos de lo dispuesto en el párrafo anterior, los Oficiales Coordinadores remitirán dentro de los cinco días hábiles siguientes a su recepción, el expediente integrado con motivo de la solicitud para que aquélla resuelva conforme a derecho. Dictada la resolución, la Dirección devolverá el expediente a la Oficialía Coordinadora que corresponda, para que notifiquen al o los interesados y remitirá la resolución a la Oficialía del Registro Civil que corresponda para que se realicen las anotaciones correspondientes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2012)</small>
+
+En caso de que de la revisión que realice la Dirección resulten inconsistencias en la integración de la solicitud, devolverá el expediente a la Oficialía Coordinadora a fin de que las subsane o bien, le requiera los elementos faltantes al solicitante y la devuelva a la Dirección para efectos de su resolución.
 
 ###### ARTÍCULO 124.
 
@@ -891,9 +947,13 @@ V. Los documentos probatorios que demuestren el error en el asentamiento, en los
 
 VI. La firma o huella digital del solicitante.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 126.
 
-La Dirección resolverá dentro del término de ocho días hábiles, los expedientes que ante ella se sustanciaron. Dentro de los diez días hábiles contados a partir de su recepción, resolverá sobre aquellos que se instruyeron ante los Oficiales Coordinadores.
+La Dirección resolverá dentro de un término de hasta cinco días hábiles, los expedientes que ante ella se sustanciaron. Dentro de los ocho días hábiles contados a partir de su recepción, resolverá sobre aquellos que se instruyeron ante los Oficiales Coordinadores.
 
 ###### ARTÍCULO 127.
 
@@ -907,21 +967,119 @@ La Dirección, a petición de parte legítima, previa comprobación, procederá 
 
 I. Cuando se trate de meras discrepancias entre el libro duplicado y el original.
 
-II. El uso de abreviaturas o guarismos no permitidos, el empleo de idioma distinto al español, la difícil legibilidad de caracteres, el error mecanográfico u ortográfico, así como la defectuosa expresión de conceptos cuando por el contexto de la inscripción o de otras inscripciones no haya duda de su contenido.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2012)</small>
+
+II. El uso de abreviaturas o guarismos no permitidos, el empleo de idioma distinto al español, la difícil legibilidad de caracteres, el error de escritura, mecanográfico, ortográfico, tipográfico, numérico y otros meramente accidentales, así como la defectuosa expresión de conceptos cuando por el contexto de la inscripción o de otras inscripciones no haya duda de su contenido, siempre y cuando resulten obvios y no se afecte con su modificación los datos esenciales del acta.
 
 III. Cuando se trate de adicionar asientos ya extendidos y firmados de datos o circunstancias plenamente demostrados, correspondientes a los mismos y que dejaron de consignarse, al practicar el asiento, por desconocimiento de tales datos o por negligencia del Oficial del Registro Civil.
 
-IV. La indicación equivocada de sexo, cuando no haya duda sobre la identidad del nacido por las demás circunstancias de la inscripción.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V. Cuando se trate de errores cuya evidencia resulte de la confrontación con otra u otras inscripciones que hagan fe del hecho correspondiente.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2012)</small>
+
+IV. Cuando se trate de la indicación equivocada de sexo, cuando no haya duda sobre la identidad del nacido por las demás circunstancias de la inscripción y no se derive de operaciones transgénicas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2012)</small>
+
+V. Cuando haya que variarse parcialmente algún nombre de las personas que figuren en los documentos, distintas del registrado, siempre que no se afecte la filiación o parentesco de éstos o del registrado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2012)</small>
+
+VI. Cuando haya que variarse algún dato que resulte de la confrontación con los documentos en cuya virtud se ha practicado la inscripción, o bien, el error quede establecido por las demás circunstancias de la inscripción, o de otra u otras inscripciones que hagan fe del acto o hecho correspondiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2012)</small>
+
+VII. Cuando se proponga la complementación o abreviación del nombre propio o el cambio de alguna letra, tanto del nombre propio como de los apellidos. Si se trata del acta de matrimonio, la aclaración deberá ser solicitada por ambos cónyuges.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2012)</small>
+
+VIII. Cuando se trate de aclarar los demás datos de los contrayentes o de las personas que en el acta se mencionen, a excepción del régimen patrimonial; siempre y cuando los documentos que sirvan de base para acreditar el error u omisión no hayan sido modificados con posterioridad a la celebración del acto civil de que se trate;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2012)</small>
+
+IX. Cuando se proponga la complementación o variación de los datos insertos en un acta de defunción, siempre y cuando no se refieran al estado civil del finado, causas de la muerte, ni de la fecha y lugar del fallecimiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2012)</small>
+
+X. Cuando se trate de aclarar cualquier otro error, siempre que no se afecte con la modificación los datos esenciales de la misma ni se afecte la nacionalidad, filiación o parentesco del registrado o de quienes intervinieron en el acta.
 
 ###### ARTÍCULO 129.
 
 Cuando la Dirección tenga conocimiento de una duplicidad de asientos, en la misma o en diversas Oficialías en la entidad, ordenará la cancelación del asiento de más reciente fecha y, en su caso, el traslado de los asientos marginales al más antiguo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE JUNIO DE 2012)</small>
+
+#### SECCIÓN TERCERA. EL PROCEDIMIENTO DE RECTIFICACIÓN ANTE LA DIRECCIÓN ESTATAL DEL REGISTRO CIVIL
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 130.
 
-En todo lo no previsto en esta sección, se aplicarán supletoriamente las disposiciones conducentes del Código Procesal Civil para el Estado.
+Procederá la rectificación de actas prevista por el artículo 238 Bis del Código Civil para el Estado de Coahuila de Zaragoza, tratándose únicamente de la variación del nombre propio del registrado en las actas de nacimiento, de conformidad con lo que establece el artículo 59 y demás aplicables del Código Civil para el Estado de Coahuila de Zaragoza, cuando exista desacuerdo entre el asiento y la realidad, demostrando a través de documentos fehacientes, que la persona de que se trata ha sido siempre designada con un nombre distinto del que aparece en su acta de nacimiento, siempre que no se requiera prueba distinta de la documental para acreditar la petición.
+
+La rectificación administrativa se promoverá ante la Dirección personalmente por las personas legitimadas en los términos del artículo 236 del Código Civil para el Estado de Coahuila de Zaragoza.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2012)</small>
+
+ARTÍCULO 130 BIS. El procedimiento de rectificación administrativa de actas se verificará de la forma siguiente:
+
+I. Se presentará solicitud por escrito con la firma o huella del solicitante o, en su caso, de su representante legal, ante la Dirección Estatal del Registro Civil, requisito sin el cual, no se dará trámite al procedimiento;
+
+II. Cubrir el pago de los derechos que correspondan;
+
+III. Presentada la solicitud, la autoridad administrativa la analizará y admitirá en su caso, asignándole el número progresivo que corresponda;
+
+IV. En el acuerdo que da trámite a la solicitud, se señalará fecha y hora, dentro de los cinco días hábiles siguientes, para que el promovente comparezca ante la Dirección acompañado por dos testigos que identifiquen al solicitante y acrediten en su caso los datos pretendidos por aquel;
+
+V. La Dirección podrá para allegarse de los documentos probatorios que estime convenientes y solicitar mediante oficio a las dependencias y entidades correspondientes, la información que se pretenda verificar, confirmar o cotejar, haciendo mención del plazo para dar respuesta, que no excederá de tres días hábiles;
+
+VI. Integrado el expediente respectivo y desahogadas las pruebas ofrecidas, la Dirección, en un término no mayor de diez días hábiles, dictará la resolución que corresponda, y
+
+VII. Dictada la resolución que declare procedente la rectificación solicitada, se comunicará a la Oficialía del Registro Civil que corresponda para que se realicen las anotaciones marginales.
+
+Las solicitudes de rectificación, serán resueltas en un término que no exceda de diez días hábiles a partir de la recepción de la solicitud.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2012)</small>
+
+ARTÍCULO 130 BIS 1. A la solicitud de rectificación de acta, deberá adjuntarse:
+
+l. El documento oficial que presente para identificarse, con fotografía y huella;
+
+II. El documento que acredite su personalidad, cuando no se gestione a nombre propio;
+
+III. Los datos de identificación del acta que se pretende modificar;
+
+IV. La copia fotostática certificada del libro del acta asentada en la Oficialía del Registro Civil correspondiente, que se pretende corregir, siempre que no contenga alteración, tachadura, enmendadura o entrerrenglonado;
+
+V. Los documentos públicos y privados que contengan el nombre o los datos correctos con que el interesado o su representante se ostentan;
+
+VI. Los hechos en que el solicitante funde su pretensión numerándolos y narrándolos sucintamente, con claridad y precisión, y
+
+VII. Los documentos que ofrezca como pruebas, en los términos de esta ley u otras disposiciones aplicables.
+
+Cuando la solicitud de rectificación administrativa carezca de algún requisito formal o no se adjunten los documentos que se señalen, se requerirá al interesado para que, en un plazo de dos días hábiles corrija o complete la solicitud o exhiba los documentos ofrecidos, apercibiéndole de que en caso de no hacerlo, se tendrá por no presentada la solicitud o las pruebas, según el caso.
 
 ## TÍTULO QUINTO. LAS RESPONSABILIDADES Y SANCIONES
 
@@ -1081,7 +1239,7 @@ EL SECRETARIO DE GOBIERNO.
 
 LIC. JOSE JESUS RAUL SIFUENTES GUERRERO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 17 DE AGOSTO DE 2004.
 
@@ -1138,3 +1296,17 @@ Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos 
 Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE JUNIO DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor a los 30 días hábiles siguientes a su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Las adopciones que a la entrada en vigor del presente decreto se encuentren en trámite bajo la modalidad de adopción semiplena, continuarán rigiéndose hasta su resolución bajo este régimen, con todos los efectos aplicables a la misma.
+
+Lo anterior sin perjuicio de que pueda promoverse, antes de concluir el procedimiento, la conversión de adopción semiplena a plena, a solicitud de los promoventes, requiriendo además del consentimiento de quienes deban otorgarlo de conformidad con lo previsto en el Código Civil para el Estado de Coahuila de Zaragoza, el consentimiento de los padres de los adoptantes y la intervención del Ministerio Público y de la Procuraduría de la Familia. Si el menor adoptado tiene más de catorce años al momento de la solicitud de conversión, se requerirá su consentimiento otorgado libremente y por escrito, en la forma legalmente establecida.
+
+TERCERO.- Las adopciones que a la entrada en vigor del presente decreto, se encuentren resueltas bajo la modalidad de adopción semiplena, continuarán rigiéndose bajo este régimen, con todos los efectos aplicables a la misma, sin perjuicio de que, de conformidad con lo dispuesto en el Código Civil para el Estado de Coahuila de Zaragoza, se solicite su conversión a adopción plena.
+
+CUARTO.- En los juicios y procedimientos de rectificación y aclaración de actas del registro civil que se encuentren en trámite a la entrada en vigor del presente decreto, será potestativo para las partes acogerse a las reformas establecidas en el mismo o, en su caso, seguir rigiéndose por las disposiciones anteriores a su publicación, hasta en tanto hayan concluido en su totalidad.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
