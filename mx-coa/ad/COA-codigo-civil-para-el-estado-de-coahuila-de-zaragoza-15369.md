@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2012-05-08"
+last_updated: "2012-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 25 de junio de 1999.
 
@@ -403,9 +403,11 @@ I. Si al tiempo de la adopción el hijo usare ya un nombre propio, podrá seguir
 
 II. Si al tiempo de la adopción el adoptado no tuviese nombre, éste se formará con el nombre o nombres propios que le imponga el adoptante, seguido de los apellidos de éste.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 63.
 
-En los casos de revocación de la adopción, el adoptado perderá el derecho de usar el apellido del adoptante y deberá usar el que tenía antes de la adopción, o el que libremente escoja si el nombre le fue puesto por el adoptante.
+(DEROGADO, P.O. 26 DE JUNIO DE 2012)
 
 ###### ARTÍCULO 64.
 
@@ -881,11 +883,13 @@ El Registro Civil, una vez hecha la inscripción a que se refiere el segundo pá
 
 Los Oficiales del Registro Civil asentarán las actas en las formas especiales que determine la Ley del Registro Civil; la infracción de esta disposición producirá la inexistencia del acta, y la destitución del responsable. Las inscripciones se harán mecanográficamente o empleando sistemas de cómputo, por quintuplicado, debiendo firmar el Oficial y los comparecientes en los cinco ejemplares.
 
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 147.
 
-Las Actas del Registro Civil sólo se pueden asentar en las formas siguientes: nacimiento, reconocimiento de hijos, adopción semiplena, matrimonio, divorcio, pacto civil de solidaridad, defunción, terminación del pacto civil de solidaridad y de inscripción de las sentencias ejecutoriadas que declaren la ausencia, la presunción de muerte, la tutela y la pérdida o limitación de la capacidad legal para administrar bienes. En caso de adopción plena, se asentará acta de nacimiento.
+Las Actas del Registro Civil sólo se pueden asentar en las formas siguientes: nacimiento, reconocimiento de hijos, matrimonio, divorcio, pacto civil de solidaridad, defunción, terminación del pacto civil de solidaridad y de inscripción de las sentencias ejecutoriadas que declaren la ausencia, la presunción de muerte, la tutela y la pérdida o limitación de la capacidad legal para administrar bienes. En caso de adopción plena, se asentará acta de nacimiento.
 
 ###### ARTÍCULO 148.
 
@@ -1115,19 +1119,19 @@ Dictada la resolución judicial definitiva que autorice la adopción, el adoptan
 
 La falta de registro de la adopción no quita a ésta sus efectos legales; pero sujeta al responsable a la pena establecida para el caso de omisión de registro del acta de reconocimiento de hijo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 188.
 
-El acta de adopción semiplena contendrá: el nombre, apellidos, sexo, domicilio, fecha y lugar de nacimiento, así como la clave única del registro de población del adoptado; nombre, apellidos, edad, estado civil, domicilio y nacionalidad de los adoptantes; nombre, apellidos, edad, estado civil, nacionalidad y domicilio de las personas cuyo consentimiento hubiere sido necesario para la adopción; nombre y apellidos de dos testigos de asistencia. En el acta se asentarán, además, los datos esenciales de la resolución judicial que decretó la adopción, fecha en que causó ejecutoria y el Tribunal que la dictó.
+(DEROGADO, P.O. 26 DE JUNIO DE 2012)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 189.
 
-Extendida el acta de adopción semiplena, el oficial del Registro Civil que corresponda, realizará la anotación marginal respectiva en el acta de nacimiento del adoptado y se archivará la copia de las diligencias relativas poniéndole el número del acta de adopción. Únicamente para la expedición de copia certificada de acta de nacimiento, el Oficial del Registro Civil omitirá la marginación respectiva subsistiendo ésta en el asiento original. De igual forma el Oficial del Registro Civil, testará los espacios correspondientes a los ascendientes del o de los adoptantes, siempre y cuando, no coincida la relación de filiación.
-
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
-
-El Oficial del Registro Civil que corresponda en los casos de adopción plena, cancelará el acta de nacimiento del adoptado mediante una anotación marginal, si es que existe; además levantará acta de nacimiento que contendrá los datos requeridos conforme a la ley. A partir del levantamiento el acta de nacimiento no se publicará ni se expedirá alguna que revele el origen del adoptado ni de su condición de tal.
+El Oficial del Registro Civil que corresponda, cancelará el acta de nacimiento del adoptado mediante una anotación marginal, además levantará acta de nacimiento que contendrá los datos requeridos conforme a la ley, conservando la fecha de registro original del adoptado. A partir del levantamiento, el acta de nacimiento no se publicará, ni se expedirá alguna que revele el origen del adoptado ni de su condición de tal.
 
 El Registro Civil se abstendrá de proporcionar información sobre los antecedentes de la familia de origen del adoptado, a menos que exista autorización o requerimiento judiciales, en los siguientes casos:
 
@@ -1137,9 +1141,11 @@ II. Cuando el adoptado desee conocer sus antecedentes familiares, deberá contar
 
 III. En los demás casos previstos por la ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 190.
 
-El tribunal que resuelva que una adopción semiplena queda sin efecto, remitirá dentro del término de ocho días copia certificada de su resolución al Oficial del Registro Civil, para que al margen cancele el acta de adopción y anote la de nacimiento del adoptado.
+(DEROGADO, P.O. 26 DE JUNIO DE 2012)
 
 #### SECCIÓN QUINTA. DE LAS ACTAS DE TUTELA
 
@@ -1527,15 +1533,31 @@ I. Exista falsedad en los casos en que se alegue que el suceso registrado no pas
 
 II. Exista desacuerdo entre el asiento y la realidad y que se demuestre, a través de documentos fehacientes, que la persona de que se trata ha sido siempre designada con un nombre distinto del que aparece en su acta de nacimiento.
 
-III. Los errores que existan o se adviertan versen sobre el nombre del registrado, o su fecha de nacimiento o su nacionalidad o sobre los nombres, fechas y nacionalidad de las personas que hayan intervenido en el acto del asentamiento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-La rectificación de una acta del estado civil, deberá hacerse ante el Poder Judicial y en virtud de sentencia ejecutoriada, excepción hecha del reconocimiento o la adopción que se sujetarán a las prescripciones de este Código.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2003)</small>
+III. Existan errores que versen sobre la fecha de nacimiento, nacionalidad, filiación o parentesco del registrado, o de las personas que hayan intervenido en el acto de asentamiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2012)</small>
+
+IV. Existan errores en las actas de defunción sobre el estado civil del finado, causas de la muerte, o sobre la fecha y lugar del fallecimiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 26 DE JUNIO DE 2012)</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 235.
 
-Procederá la aclaración de los asientos ante la autoridad administrativa competente cuando haya de variarse algún nombre de las personas que figuren en los documentos, distintas del registrado, o cuando haya que variarse algún dato que resulte de la confrontación con los documentos en cuya virtud se ha practicado la inscripción o bien, cuando el error quede establecido por las demás circunstancias de la inscripción o de otra u otras inscripciones que hagan fe del acto o hecho correspondiente.
+Procederá la aclaración de los asientos ante la autoridad administrativa competente cuando la variación se refiera a cualquier supuesto diferente de los enumerados en el artículo precedente, de conformidad con lo previsto en la Ley del Registro Civil para el Estado de Coahuila de Zaragoza.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2003)</small>
 
 El procedimiento de aclaración se sujetará a las disposiciones que establezca la Ley del Registro Civil.
 
@@ -1547,21 +1569,51 @@ Pueden pedir la rectificación o la aclaración, según corresponda, de una acta
 
 I. Las personas de cuyo estado se trata.
 
-II. Las que se mencionan en el acta como relacionadas con el estado civil del (sic) alguno.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2012)</small>
+
+II. Las personas que se mencionan en el acta como relacionadas con el estado civil de alguno de los que intervinieron, con cualquier carácter, en el acto registrado.
 
 III. Los herederos de las personas comprendidas en las dos fracciones anteriores.
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2012)</small>
+
+IV. El tutor o, en su defecto, el Sistema para el Desarrollo Integral de la Familia, a través de la Procuraduría de la Familia en términos de las disposiciones aplicables, para los casos de aquellos menores de edad abandonados, expósitos o, que sin encontrarse en alguno de los anteriores supuestos, no estén sujetos a patria potestad, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2012)</small>
+
+V. El Ministerio Público.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 237.
 
-El juicio de rectificación se tramitará conforme al Código Procesal Civil, sólo depurará el procedimiento omitiendo la etapa de conciliación; además de citar a los interesados que fueren conocidos o que intervinieron en el acta pública, a costa de los mismos, un extracto de la demanda, por una sola vez, en el Periódico Oficial del Gobierno del Estado y en otro de los de los de mayor circulación del lugar en el que se encuentre ubicado el domicilio de los promoventes; se mandará fijar además, en un lugar visible de la Oficialía que corresponda, haciendo saber que se admitirá a contradecirla a cualquiera que, teniendo interés, se presente dentro del término que no exceda de treinta días, debiendo oírse como partes al Ministerio Público y al Oficial del Registro Civil que corresponda.
-
-En caso de que la rectificación se promueva ante la Dirección del Registro Civil, se procederá en los mismos términos del párrafo anterior, pero la notificación podrá hacerse mediante simple oficio y no será necesario oír al Ministerio Público. El procedimiento administrativo de rectificación, se sujetará a las normas que establezca la Ley del Registro Civil.
+La rectificación de un acta del estado civil deberá hacerse ante el Poder Judicial, mediante el procedimiento que en el Código Procesal Civil se establezca y en virtud de sentencia ejecutoriada, excepción hecha del reconocimiento que se sujetarán a las prescripciones de este Código.
 
 ###### ARTÍCULO 238.
 
 La sentencia que conceda o niegue la rectificación, se comunicará al Oficial del Registro Civil y a la Dirección Estatal del Registro Civil, a efecto de que se hagan las anotaciones correspondientes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2012)</small>
+
+ARTÍCULO 238 BIS. Sin perjuicio de lo dispuesto en el artículo 237 de este Código, procede la rectificación de un acta de forma administrativa en los asuntos en que haya que variarse el nombre propio del registrado en las actas de nacimiento, cuando se demuestre a través de documentos fehacientes que siempre ha sido designado con un nombre distinto del que aparece en el acta, siempre que no se altere la filiación o parentesco del registrado y mediante el procedimiento que la Ley del Registro Civil para el Estado de Coahuila de Zaragoza establezca.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2012)</small>
+
+ARTÍCULO 238 BIS 1. La tramitación o rectificación de actas del Registro Civil, realizadas de manera fraudulenta, provocará su nulidad absoluta, independientemente de la responsabilidad penal de quienes hayan intervenido dolosamente en el acto; también resultarán nulas las actas, cuando se acredite que existe otra de fecha anterior.
+
+Cualquier persona que tenga interés legítimo o, en su caso, el agente del Ministerio Público, podrá interponer la acción de nulidad a que se refiere este artículo.
 
 ## TÍTULO TERCERO. DE LAS PERSONAS MORALES
 
@@ -1763,9 +1815,13 @@ XII. El matrimonio o pacto civil de solidaridad subsistente con persona distinta
 
 De estos impedimentos sólo son dispensables la falta de edad y el parentesco por consanguinidad en línea colateral desigual. La dispensa será otorgada por el Juez de lo Familiar.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 263.
 
-El adoptante no puede contraer matrimonio con el adoptado o sus descendientes, ni éstos con los de aquél, en tanto dure el lazo jurídico resultante de la adopción.
+El adoptante no puede contraer matrimonio con el adoptado o sus descendientes, ni éstos con los de aquél.
 
 El mismo impedimento existirá entre los adoptados de un mismo adoptante, entre el adoptado y los hijos del adoptante; así como entre el adoptado y el cónyuge del adoptante, o entre éste y el cónyuge del adoptado.
 
@@ -2675,6 +2731,10 @@ Los compañeros civiles, después de celebrado el pacto civil de solidaridad pue
 
 ### CAPÍTULO I. DEL PARENTESCO
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 385
 
 12. El pacto civil de solidaridad termina:
@@ -2737,7 +2797,7 @@ La acción para exigir la responsabilidad prevista en este artículo durará un 
 
 ###### ARTÍCULO 386.
 
-La ley no reconoce más parentescos que los de consanguinidad, afinidad y el civil.
+La ley sólo reconoce los parentescos de consanguinidad y afinidad.
 
 ###### ARTÍCULO 387.
 
@@ -2749,13 +2809,13 @@ El parentesco de afinidad es el que se contrae por el matrimonio, entre el varó
 
 Disuelto el matrimonio desaparece el parentesco por afinidad en la línea colateral; pero subsiste en la línea recta en todos los casos en que la ley se refiera a tal parentesco.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 389.
 
-El parentesco civil es el que nace de la adopción semi plena y sólo existe entre el adoptante y el adoptado y sus respectivos descendientes.
-
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
-
-La adopción plena confiere una filiación que sustituya a la de origen. El adoptado deja de pertenecer a su familia natural y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, excepción hecha de los impedimentos para contraer matrimonio. El adoptado tiene en la familia del adoptante los mismos derechos y obligaciones de un hijo y los impedimentos matrimoniales se extienden a la familia del adoptante.
+La adopción plena confiere una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia natural y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, excepción hecha de los impedimentos para contraer matrimonio. El adoptado tiene en la familia del adoptante los mismos derechos y obligaciones de un hijo y los impedimentos matrimoniales se extienden a la familia del adoptante.
 
 ###### ARTÍCULO 390.
 
@@ -2867,11 +2927,13 @@ Faltando los parientes a que se refieren las disposiciones anteriores, tienen ob
 
 Los hermanos y demás parientes colaterales a que se refiere el artículo anterior, tienen obligación de dar alimentos a los menores, mientras éstos llegan a la edad de dieciocho años. También deben alimentar a sus parientes dentro del grado mencionado, que fueren incapaces.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 407.
 
-El adoptante y el adoptado y sus respectivos descendientes, tienen obligación de darse alimentos en los términos de los artículos que anteceden.
-
-En la adopción plena la obligación se extenderá a los ascendientes y descendientes de los adoptantes.
+El adoptante y el adoptado y sus respectivos descendientes, así como los ascendientes de los adoptantes, tienen obligación de darse alimentos en los términos de los artículos que anteceden.
 
 ###### ARTÍCULO 408.
 
@@ -3451,13 +3513,19 @@ DISPOSICIONES GENERALES
 
 La adopción confiere al adoptado la posesión de estado de hijo del o de los adoptantes y a éstos los deberes inherentes a la relación paterno-filial.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 493.
 
-Los mayores de edad, en pleno ejercicio de sus derechos pueden adoptar a uno o a más menores o incapacitados, aunque estos sean mayores de edad, siempre que el adoptante tenga dieciséis años más que el adoptado y que la adaptación sea benéfica para aquellos, previa valoración psicológica y estudio socioeconómico de los adoptantes, quienes deberán acreditar, además:
+Los mayores de 25 años, en pleno ejercicio de sus derechos pueden adoptar a uno o a más menores o incapacitados, aunque estos sean mayores de edad, siempre que el adoptante tenga diecisiete años más que el adoptado y que la adopción sea benéfica para aquellos, previa valoración psicológica y estudio socioeconómico de los adoptantes, quienes deberán acreditar, además:
 
-I. Que tienen medios bastantes para proveer a la subsistencia, la educación, y el cuidado de la persona que trata de adoptarse, como hijo propio, según las circunstancias de la persona que trata de adoptar.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2012)</small>
+
+I. Que tienen medios bastantes para proveer a la subsistencia, la educación, y el cuidado de la persona que trata de adoptarse, como hijo, según las circunstancias de la persona que trata de adoptar.
 
 II. Que la adopción es benéfica para la persona que trata de adoptarse, atendiendo al interés superior de la misma.
 
@@ -3505,9 +3573,13 @@ El consentimiento otorgado ante Notario Público o cualquier otro distinto de el
 
 Si el tutor, el Ministerio Público o las personas a que se refiere la fracción III del artículo anterior, sin causa justificada no consienten en la adopción, podrán suplir el consentimiento el (sic) juez, tomando en consideración el interés superior del menor que trate de adoptarse procurando su bienestar con absoluto respeto a sus derechos fundamentales.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 499.
 
-El juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente, de acuerdo con el artículo 188.
+El juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente, de acuerdo con el artículo 189.
 
 ###### ARTÍCULO 500.
 
@@ -3519,73 +3591,79 @@ El adoptado tendrá para con la persona o personas que lo adopten, los mismos de
 
 ARTÍCULO 500 BIS. El Sistema para el Desarrollo Integral de la Familia a través del Consejo Técnico de Adopciones, conocerá de las solicitudes de adopción que se presenten ante el propio organismo en relación con los menores que se encuentren institucionalizados y en aptitud legal de ser adoptados, así como de emitir opinión respecto de las adopciones promovidas ante el Poder Judicial sobre menores no institucionalizados.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SUBSECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE JUNIO DE 2012)</small>
+
 SUBSECCIÓN SEGUNDA
 
 DE LA ADOPCIÓN SEMIPLENA
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 501.
 
-Los derechos y obligaciones que nacen de la adopción semiplena, así como al parentesco que de ella resulte, se limitan al adoptante y al adoptado y sus respectivos descendientes.
+(DEROGADO, P.O. 26 DE JUNIO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 502.
 
-Los derechos y obligaciones que resultan del parentesco por consanguinidad, no se extinguen por la adopción semiplena, excepto la patria potestad que será transferida al padre adoptivo, salvo que éste contraiga matrimonio con alguno de los progenitores del adoptado, en cuyo caso la patria potestad la ejercerán ambos cónyuges.
+(DEROGADO, P.O. 26 DE JUNIO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 503.
 
-La adopción semiplena produce sus efectos aunque sobrevengan hijos al adoptante.
+(DEROGADO, P.O. 26 DE JUNIO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 504.
 
-El menor o el incapacitado que hayan sido adoptados, podrán impugnar la adopción semiplena dentro del año siguiente a la mayor edad o a la fecha en que haya desaparecido la incapacidad.
+(DEROGADO, P.O. 26 DE JUNIO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 505.
 
-La adopción semiplena puede revocarse:
+(DEROGADO, P.O. 26 DE JUNIO DE 2012)
 
-I. Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, es necesario que consientan en la revocación las personas que prestaron su consentimiento para la adopción, debiendo oírse a la Procuraduría de la Familia y al Ministerio Público.
-
-II. Por ingratitud del adoptado.
-
-III. Cuando el o los adoptantes no cumplan con los deberes que les impone la adopción.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 506.
 
-Para los efectos de la fracción II del artículo 505, se considera ingrato al adoptado:
+(DEROGADO, P.O. 26 DE JUNIO DE 2012)
 
-I. Si comete algún delito intencional contra la persona, la honra o los bienes del adoptante, de su cónyuge, de sus ascendientes o descendientes.
-
-II. Si el adoptado formula denuncia o querella contra el adoptante por algún delito, aunque se pruebe; a no ser que hubiere sido cometido contra el mismo adoptado, su cónyuge o la persona que viva con él como si lo fuere, de sus ascendientes o sus descendientes o de un incapaz de que sea tutor el adoptado, aun cuando no haya parentesco entre ellos.
-
-III. Si el adoptado rehúsa dar alimentos al adoptante, cuando los necesite.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 507.
 
-En caso de mutuo acuerdo, el juez decretará que la adopción queda revocada si convencido de la espontaneidad con que se solicitó la revocación, encuentra que ésta es conveniente para los intereses morales y materiales del adoptado.
+(DEROGADO, P.O. 26 DE JUNIO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 508.
 
-La resolución judicial que revoque la adopción deja sin efecto ésta y restituye la situación entre adoptante y adoptado al estado que guardaba antes de la adopción misma.
-
-La resolución que dicte el juez, aprobando la revocación, se comunicará al Oficial que levantó el acta de adopción y a la Dirección Estatal del Registro Civil para que al margen cancelen el acta de adopción y anoten la de nacimiento.
+(DEROGADO, P.O. 26 DE JUNIO DE 2012)
 
 SUBSECCIÓN TERCERA
 
 DE LA ADOPCIÓN PLENA
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 509.
 
-Con los mismos supuestos establecidos en el artículo 493, se instituye con efectos irrevocables la adopción plena, en los términos establecidos por este Código, a favor de los menores de edad abandonados, expósitos, o que sin encontrarse en alguno de los anteriores supuestos, no estén sujetos a patria potestad y de los que sean entregados a una institución autorizada para promover su adopción, o bien con conocimiento de los efectos legales de este tipo de adopción, los padres biológicos del menor que se pretende adoptar, expresen ante la autoridad judicial competente, su consentimiento para que sea adoptado con efectos plenos.
+La adopción plena es irrevocable.
 
-El adoptado bajo la forma de adopción plena se equipara al hijo consanguíneo para todos los efectos legales, sujetándose a las disposiciones de la patria potestad, incluyendo los impedimentos para contraer matrimonio. El adoptado deberá llevar los apellidos de quien lo adopte y en su caso, previa solicitud, podrá autorizarse el cambio del nombre propio, en atención del interés superior del adoptado.
+El adoptado se equipara al hijo consanguíneo para todos los efectos legales, sujetándose a las disposiciones de la patria potestad, incluyendo los impedimentos para contraer matrimonio. El adoptado deberá llevar los apellidos de quien lo adopte y en su caso, previa solicitud, podrá autorizarse el cambio del nombre propio, en atención del interés superior del adoptado.
 
-La adopción plena extingue la filiación preexistente entre el adoptado y sus progenitores y el parentesco con las familias de éstos, salvo para los impedimentos de matrimonio. Si uno de los adoptantes está casado con alguno de los progenitores del adoptado, y se cuenta con consentimiento expreso de adopción plena, no se extinguirán los derechos, obligaciones y demás consecuencias jurídicas que resultan de la filiación consanguínea.
+La adopción plena extingue la filiación preexistente ante el adoptado y sus progenitores y el parentesco con las familias de éstos, salvo para los impedimentos de matrimonio. Si uno de los adoptantes está casado con alguno de los progenitores del adoptado, y se cuenta con consentimiento expreso de adopción plena, no se extinguirán los derechos, obligaciones y demás consecuencias jurídicas que resultan de la filiación consanguínea.
 
 En la adopción plena el parentesco se extenderá a todos los ascendientes y descendientes de los adoptantes.
-
-No pueden adoptar mediante adopción plena, las personas que tengan vínculo de parentesco con el menor, excepto que quien deba consentir la adopción y los adoptantes, estén de acuerdo en que surta los efectos de la adopción plena atendiendo al interés superior del adoptado. En todos los demás casos la adopción será semiplena.
 
 El Sistema para el Desarrollo Integral de la Familia a través de la Procuraduría de la Familia será el único facultado para promover la adopción de los menores adoptables que se encuentren en los centros o lugares de internamientos públicos o privados.
 
@@ -3595,9 +3673,9 @@ El Sistema para el Desarrollo Integral de la Familia a través de la Procuradur�
 
 En la adopción plena, la resolución judicial que la apruebe, contendrá la orden al Oficial del Registro Civil, para que actúe en los términos del artículo 189 de este Código. Al levantar la nueva acta no se hará mención sobre la adopción.
 
-(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007) (F. DE E. P.O. 18 DE ENERO DE 2008)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ARTÍCULO 510 BIS. Podrá promoverse la conversión de adopción semiplena a plena, en vía incidental, en la que se requerirá el consentimiento de los padres de los adoptantes, con la intervención del Ministerio Público.
+ARTICULO 510 BIS. (DEROGADO, P.O. 26 DE JUNIO DE 2012)
 
 SUBSECCIÓN CUARTA
 
@@ -3607,7 +3685,11 @@ DE LA ADOPCIÓN INTERNACIONAL
 
 La adopción internacional es la promovida por ciudadanos de otro país, con residencia habitual fuera del territorio nacional, y tiene como objeto incorporar en una familia a un menor de nacionalidad mexicana, que no puede encontrar una familia en su propio país de origen.
 
-Esa adopción se regirá por los tratados internacionales suscritos y ratificados por el Estado Mexicano y en lo conducente por el Código Civil para el Distrito Federal. La adopción internacional será siempre plena.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
+
+Esa adopción se regirá por los tratados internacionales suscritos y ratificados por el Estado Mexicano y en lo conducente por el Código Civil Federal.
 
 La adopción por extranjeros es la promovida por ciudadanos de otro país, con residencia permanente en el Estado. Esta adopción se rige por lo dispuesto en el presente Código.
 
@@ -6639,13 +6721,19 @@ Si sólo quedaren descendientes de ulterior grado, la herencia se dividirá por 
 
 Concurriendo hijos con ascendientes, éstos sólo tendrán derecho a alimentos, que en ningún caso pueden exceder de la porción de uno de los hijos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 1064.
 
-El adoptado hereda como un hijo, pero en la adopción semiplena no hay derecho de sucesión entre el adoptado y los parientes del adoptante.
+El adoptado hereda como un hijo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 1065.
 
-Concurriendo padres adoptantes y descendientes del adoptado en forma semiplena, los primeros sólo tendrán derecho a alimentos.
+(DEROGADO, P.O. 26 DE JUNIO DE 2012)
 
 ### CAPÍTULO V. DE LA SUCESIÓN DEL CONYUGE
 
@@ -6671,9 +6759,11 @@ Si hubiere ascendientes por ambas líneas, se dividirá la herencia en dos parte
 
 Los miembros de cada línea dividirán entre sí por partes iguales la porción que les corresponda.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 1071.
 
-Concurriendo los adoptantes con ascendientes consanguíneos del adoptado en forma semiplena, la herencia de éste se dividirá por partes iguales entre los adoptantes y los ascendientes consanguíneos.
+(DEROGADO, P.O. 26 DE JUNIO DE 2012)
 
 ###### ARTÍCULO 1072.
 
@@ -20738,3 +20828,17 @@ Las facultades y obligaciones a que se refiere este decreto, que en otras leyes,
 ###### ARTÍCULO TERCERO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 26 DE JUNIO DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor a los 30 días hábiles siguientes a su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Las adopciones que a la entrada en vigor del presente decreto se encuentren en trámite bajo la modalidad de adopción semiplena, continuarán rigiéndose hasta su resolución bajo este régimen, con todos los efectos aplicables a la misma.
+
+Lo anterior sin perjuicio de que pueda promoverse, antes de concluir el procedimiento, la conversión de adopción semiplena a plena, a solicitud de los promoventes, requiriendo además del consentimiento de quienes deban otorgarlo de conformidad con lo previsto en el Código Civil para el Estado de Coahuila de Zaragoza, el consentimiento de los padres de los adoptantes y la intervención del Ministerio Público y de la Procuraduría de la Familia. Si el menor adoptado tiene más de catorce años al momento de la solicitud de conversión, se requerirá su consentimiento otorgado libremente y por escrito, en la forma legalmente establecida.
+
+TERCERO.- Las adopciones que a la entrada en vigor del presente decreto, se encuentren resueltas bajo la modalidad de adopción semiplena, continuarán rigiéndose bajo este régimen, con todos los efectos aplicables a la misma, sin perjuicio de que, de conformidad con lo dispuesto en el Código Civil para el Estado de Coahuila de Zaragoza, se solicite su conversión a adopción plena.
+
+CUARTO.- En los juicios y procedimientos de rectificación y aclaración de actas del registro civil que se encuentren en trámite a la entrada en vigor del presente decreto, será potestativo para las partes acogerse a las reformas establecidas en el mismo o, en su caso, seguir rigiéndose por las disposiciones anteriores a su publicación, hasta en tanto hayan concluido en su totalidad.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
