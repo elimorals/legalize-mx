@@ -4,7 +4,7 @@ identifier: "COA-ley-de-procuracion-de-justicia-del-estado-de-coahuila-de-61580"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-16"
-last_updated: "2012-05-11"
+last_updated: "2012-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ LEY DE PROCURACIÓN DE JUSTICIA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE COAHUILA, PUBLICADA EN EL P.O. EL 12 DE MAYO DE 2009, SE DEROGAN LAS DISPOSICIONES QUE SEAN CONTRARIAS A LAS NORMAS ESTABLECIDAS EN EL CITADO ORDENAMIENTO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 11 DE MAYO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2012.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 16 de mayo de 2008.
 
@@ -5041,7 +5039,9 @@ CARÁCTER DE AGENTE DEL MINISTERIO PÚBLICO.- Tendrán el carácter de agentes d
 
 REQUERIMIENTOS GENÉRICOS.- Para ser agente del Ministerio Público deberán satisfacerse los siguientes requisitos:
 
-I. Ser mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2012)</small>
+
+I. Ser mexicano en pleno ejercicio de sus derechos políticos y civiles.
 
 II. Poseer en la fecha de nombramiento, título oficial de licenciado en derecho, legalmente expedido y contar con cédula profesional que acredite su registro ante autoridad competente.
 
@@ -5217,7 +5217,9 @@ XXIII. Las demás que señalen las leyes, reglamentos y demás disposiciones apl
 
 REQUISITOS DE INGRESO.- Para ser director general de la policía investigadora se requiere:
 
-I. Ser mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles, sin tener otra nacionalidad.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2012)</small>
+
+I. Ser mexicano en pleno ejercicio de sus derechos políticos y civiles;
 
 II. En su caso, tener acreditado el Servicio Militar Nacional.
 
@@ -5337,7 +5339,9 @@ REQUISITOS DE INGRESO Y PERMANENCIA.- Son requisitos de ingreso y permanencia pa
 
 I. De ingreso:
 
-1. Ser mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles, y no adquirir otra nacionalidad.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
+
+1. Ser mexicano en pleno ejercicio de sus derechos políticos y civiles.
 
 2. Haber concluido la enseñanza a nivel bachillerato o equivalente.
 
@@ -6983,7 +6987,7 @@ LIC. JESÚS TORRES CHARLES
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
 
 P.O. 12 DE MAYO DE 2009.
 
@@ -7066,3 +7070,9 @@ SEXTO.- Todas las disposiciones contenidas en esta ley que se relacionen con el 
 SÉPTIMO.- La organización y funcionamiento del Centro de Evaluación y Control de Confianza previsto en la fracción II del artículo 8 y 284 del artículo Primero del presente decreto, se regulará por las disposiciones que para tal efecto se emitan en un plazo no mayor a sesenta días naturales contados a partir de la entrada en vigor del presente.
 
 OCTAVO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE JUNIO DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a lo previsto en este decreto.
