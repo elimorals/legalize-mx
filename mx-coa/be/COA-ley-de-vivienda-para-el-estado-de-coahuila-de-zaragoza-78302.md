@@ -4,7 +4,7 @@ identifier: "COA-ley-de-vivienda-para-el-estado-de-coahuila-de-zaragoza-78302"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-17"
-last_updated: "2010-12-17"
+last_updated: "2012-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78302&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2012.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 17 de diciembre de 2010.
 
@@ -39,9 +39,11 @@ LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 1.
 
-La presente ley es de orden público e interés social y tiene por objeto establecer las políticas, bases y lineamientos generales para promover dentro del territorio del Estado de Coahuila de Zaragoza el acceso a las personas, principalmente a aquellas que se encuentren en situación de vulnerabilidad, a una vivienda digna y decorosa; así como establecer y regular la política estatal de vivienda, los programas sectoriales que de ésta se deriven y proveer las medidas para promover la legal tenencia de la tierra y la seguridad jurídica del patrimonio familiar inmobiliario.
+La presente ley es de orden público e interés social y tiene por objeto establecer las políticas, bases y lineamientos generales para promover dentro del territorio del Estado de Coahuila de Zaragoza el acceso a las personas, principalmente a aquellas que se encuentren en situación de vulnerabilidad, a una vivienda digna y decorosa; así como establecer y regular la política estatal de vivienda, y los programas sectoriales que de ésta se deriven.
 
 ###### ARTÍCULO 2.
 
@@ -83,7 +85,9 @@ VII. Política Estatal de Vivienda. El conjunto de acciones, medidas, lineamient
 
 VIII. Reglamento. El Reglamento de la Ley de Vivienda para el Estado de Coahuila de Zaragoza;
 
-IX. Secretaría. La Secretaría de Desarrollo Social del Estado;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2012)</small>
+
+IX. Secretaría. La Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial;
 
 X. Sector vulnerable. Grupo de la población que por diversos factores de carácter económico, social, geográfico, entre otros, enfrentan riesgos o carencias para alcanzar mejores niveles de vida y el acceso a una vivienda digna y decorosa;
 
@@ -97,7 +101,9 @@ Las autoridades encargadas de la aplicación de esta ley son:
 
 I. El Titular del Ejecutivo del Estado;
 
-II. El Secretario de Desarrollo Social del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2012)</small>
+
+II. El Secretario de Gestión Urbana, Agua y Ordenamiento Territorial del Estado;
 
 III. La Comisión, y
 
@@ -179,11 +185,17 @@ XII. Formular acciones en materia de regularización de tenencia de la tierra, e
 
 XIII. Impulsar con las autoridades municipales, a solicitud de éstas y en coordinación con las instancias competentes, la planeación y organización para la ocupación y aprovechamiento de predios irregulares, considerando las formalidades y observando las disposiciones aplicables para su correcto aprovechamiento;
 
-XIV. Gestionar las acciones tendientes a solucionar los problemas que se presenten en el Estado, derivado de la tenencia irregular de la tierra;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2012)</small>
 
-XV. Elaborar estudios y proyectos tendientes a mejorar las condiciones de tenencia de la tierra en el Estado;
+XIV. Gestionar ante las instancias competentes, las acciones tendientes a solucionar los problemas que se presenten en el Estado de Coahuila de Zaragoza, derivado de la tenencia irregular de la tierra;
 
-XVI. Realizar acciones de carácter lícito que tengan por objeto brindar seguridad jurídica a las personas, respecto a su patrimonio inmobiliario.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2012)</small>
+
+XV. Promover, en coordinación con las autoridades competentes, estudios y proyectos tendientes a mejorar las condiciones de tenencia de la tierra en el Estado de Coahuila de Zaragoza;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2012)</small>
+
+XVI. Realizar, en coordinación con las autoridades competentes, acciones de carácter lícito que tengan por objeto brindar seguridad jurídica a las personas, respecto a su patrimonio inmobiliario.
 
 b) En materia Inmobiliaria y de Vivienda Popular:
 
@@ -205,21 +217,9 @@ VIII. Establecer y/o promover la instalación de plantas productoras de material
 
 IX. Propiciar, directamente o en coordinación con terceros, la regeneración de zonas o de conjuntos habitacionales, insalubres e inadecuados, mediante las obras de urbanización, comunicación y saneamiento que sean necesarias, para mejorar las condiciones de vida de sus habitantes;
 
-c) En materia de Regularización de la Tenencia de la Tierra:
+c) (DEROGADO, P.O. 26 DE JUNIO DE 2012)
 
-I. Promover la regularización de la propiedad inmueble urbana en los casos de precarismo, invasiones provocadas por la extrema necesidad o en situación de conflicto entre vendedor y adquirentes, en forma directa o en apoyo de las autoridades municipales, o estatales, evitando en lo posible la existencia de asentamientos humanos irregulares;
-
-II. Atender los problemas de asentamientos humanos en el Estado, proveyendo las medidas necesarias para concluir con la legal tenencia de la tierra;
-
-III. Instrumentar planes y programas para la regularización de la tenencia de la tierra urbana y rustica en el Estado;
-
-IV. Elaborar estudios y análisis en aspectos sociales, jurídicos y técnicos en los que se encuentren los predios, fraccionamientos, colonias y asentamientos irregulares que existen en el Estado;
-
-V. Celebrar los convenios y contratos con autoridades federales, estatales y/o municipales, así como con organismos públicos, sociales o privados necesarios para el cumplimiento de su objeto, y
-
-VI. Las demás que establezca esta ley y otras disposiciones aplicables.
-
-La Comisión establecerá un protocolo sobre las escrituras que emita, en los términos de la Ley del Notariado del Estado y demás disposiciones aplicables.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 26 DE JUNIO DE 2012)</small>
 
 #### SECCIÓN SEGUNDA. ATRIBUCIONES DE LOS MUNICIPIOS
 
@@ -267,7 +267,7 @@ IV. Establecer y apoyar programas colectivos de construcción, tratándose de vi
 
 V. Otorgar apoyo a los municipios que así lo soliciten, para la elaboración y desarrollo de programas municipales de vivienda y aprovechamiento de predios baldíos;
 
-VI. Mejorar las acciones en materia de tenencia y regularización de la tierra en el Estado, y
+VI. (DEROGADA, P.O. 26 DE JUNIO DE 2012)
 
 VII. Dar cumplimiento a las demás acciones previstas en esta ley, en la Ley Federal y otras disposiciones aplicables.
 
@@ -713,9 +713,11 @@ Cuando se trate de suelo de origen ejidal o comunal, la promoción de su incorpo
 
 ### CAPÍTULO DÉCIMO SEGUNDO. DE LA COMISIÓN ESTATAL DE VIVIENDA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 62.
 
-Se crea la Comisión Estatal de Vivienda como un organismo público desconcentrado de la Secretaria de Desarrollo Social del Gobierno del Estado y tendrá por objeto proponer, promover y aplicar las políticas y lineamientos generales que en materia de vivienda se implementen en el Estado; así como proveer las medidas para fomentar la legal tenencia de la tierra y la seguridad jurídica del patrimonio familiar inmobiliario.
+Se crea la Comisión Estatal de Vivienda como un organismo público desconcentrado de la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial y tendrá por objeto proponer, promover y aplicar las políticas y lineamientos generales que en materia de vivienda se implementen en el Estado.
 
 La Comisión tendrá su despacho central en la Ciudad de Saltillo, Coahuila, sin perjuicio de que pueda establecer en otras poblaciones del Estado las delegaciones y oficinas que se consideren necesarias para el cumplimiento de su objeto.
 
@@ -727,7 +729,7 @@ I. Solicitar al Ejecutivo del Estado la expropiación, por causa de utilidad pú
 
 II. Gestionar y obtener de las autoridades competentes en la materia, los permisos y autorizaciones que sean necesarios;
 
-III. Instrumentar programas, medidas y acciones necesarias para llevar a cabo la regularización de la tenencia de la tierra urbana y rustica en el estado;
+III. (DEROGADA, P.O. 26 DE JUNIO DE 2012)
 
 IV. Promover y suscribir convenios, acuerdos, bases de coordinación y demás instrumentos jurídicos con entidades e instituciones públicas o privadas, en el ámbito de su competencia, y
 
@@ -856,3 +858,27 @@ EL SECRETARIO DE DESARROLLO SOCIAL
 LIC. JORGE TORRES LÓPEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE JUNIO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los bienes muebles e inmuebles que formaban parte del patrimonio de la Comisión Estatal para la Regularización de la Tenencia de la Tierra Urbana y Rústica en Coahuila, así como del Instituto Estatal de la Vivienda Popular y que por disposición de los artículos SEGUNDO y SEXTO TRANSITORIOS de la Ley de Vivienda para el Estado de Coahuila de Zaragoza publicada el 17 de diciembre de 2010, fueron transferidos a la Comisión Estatal de Vivienda de la Secretaría de Desarrollo Social, serán transferidos a la Secretaría de Finanzas del Gobierno del Estado, conforme a lo dispuesto por la Ley General de Bienes del Estado para que, previo su registro, sean reasignados a la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial.
+
+Se instruye a la Secretaría de Finanzas del Estado para que realice los trámites legales correspondientes, a fin de que los bienes inmuebles y los derechos u obligaciones que recaigan sobre éstos, que integraban el patrimonio de los organismos públicos referidos, pasen a formar parte del patrimonio del Gobierno del Estado.
+
+TERCERO.- Los recursos humanos que pertenecían a la Comisión Estatal para la Regularización de la Tenencia de la Tierra Urbana y Rústica en Coahuila, así como al Instituto Estatal de la Vivienda Popular y que por disposición del artículo CUARTO TRANSITORIO de la Ley de Vivienda para el Estado de Coahuila de Zaragoza publicada el 17 de diciembre de 2010, fueron asignados a la Comisión Estatal de Vivienda de la Secretaría de Desarrollo Social, serán transferidos a la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial.
+
+Los derechos laborales de los trabajadores que con motivo de este decreto son transferidos, serán reconocidos íntegramente y respecto de los mismos se seguirá aplicando la normatividad de la materia, por lo que en ninguna forma resultarán afectados en sus derechos, facultades o atribuciones que hayan adquirido en virtud de su relación laboral.
+
+CUARTO.- Los procedimientos y asuntos que al momento de la entrada en vigor del presente decreto se encuentren pendientes de resolución, se resolverán por la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial.
+
+QUINTO.- En los casos en que otras leyes y demás disposiciones atribuyan facultades y obligaciones, otorgadas mediante este decreto, a dependencias con distinta denominación a la prevista en este ordenamiento, dichas atribuciones se entenderán concedidas a la dependencia que el presente decreto determine, en la forma y términos en que las propias leyes lo dispongan.
+
+SEXTO.- Los servicios que hasta antes de la entrada en vigor del presente decreto eran prestados por la Comisión Estatal de Vivienda de la Secretaría de Desarrollo Social, serán asumidos por la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial, en los términos previstos en el presente decreto.
+
+SÉPTIMO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+OCTAVO.- El Organismo Público desconcentrado denominado Comisión Estatal de Vivienda, deberá emitir su reglamento en un término de 6 meses a partir de la entrada en vigor del presente decreto.
