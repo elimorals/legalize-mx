@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2012-04-08"
+last_updated: "2012-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2012.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -96,9 +96,73 @@ El territorio del Estado tiene la extensión y límites que legalmente le corres
 
 Para el cumplimiento de sus funciones, el Estado se dividirá en Distritos, cualquiera que sea su denominación; Zonas de Desarrollo Económico y demás circunscripciones que se consideren necesarias, con base en la agrupación de sus Municipios. La determinación, aprobación y publicación oficial de los Distritos, Zonas de Desarrollo Económico y demás circunscripciones, se hará por los órganos de los poderes públicos competentes; pero en todos los casos los Municipios involucrados deberán ser consultados y su hacienda municipal no podrá ser afectada, a menos que cada Ayuntamiento preste su consentimiento.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE JUNIO DE 2012)</small>
+
 ### CAPITULO II.
 
-Derechos Humanos y Garantías Individuales.
+Derechos Humanos y sus Garantías.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2012)</small>
+
+###### Artículo 7°.
+
+Dentro del territorio del Estado, toda persona gozará de los derechos humanos reconocidos en esta Constitución, en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales en los que el Estado Mexicano sea parte. El ejercicio de estos derechos no podrá restringirse ni suspenderse, salvo los casos y bajo las condiciones que establece la Constitución Federal.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2012)</small>
+
+Todas las autoridades estatales y municipales, en el ámbito de su competencia, tendrán la obligación de promover, respetar, proteger y establecer los mecanismos que garanticen los derechos humanos bajo los principios de universalidad, interdependencia, indivisibilidad y progresividad. El Estado deberá de prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que determine la ley.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
+
+Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos humanos y libertades de estas personas. La ley establecerá mecanismos a favor de dichas personas, para que el goce de sus derechos de libertad, igualdad, seguridad jurídica y justicia social, sean reales, efectivos y equitativos dentro del estado humanista, social y democrático de derecho que salvaguarda esta Constitución.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+
+Toda persona tiene derecho a la intimidad. Este derecho será garantizado en el marco de la sociedad democrática.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+
+Toda persona tiene derecho a la información pública. La garantía de acceso a la información pública, se definirá a partir de los principios siguientes:
+
+I. Su fundamento reside en el estado humanista, social y democrático de derecho que establece esta Constitución.
+
+II. El acceso libre, gratuito, sencillo, antiformal (sic), eficaz, pronto y expedito a la información.
+
+III. La interpretación constitucional más favorable del principio de publicidad, salvo las excepciones que por razones de interés público establezca la ley en sentido estricto.
+
+IV. La protección de los datos personales.
+
+V. La obligación de transparencia del Poder Público o cualquier otra entidad que utilice, reciba o disponga de recursos públicos, en los términos de la ley.
+
+VI. La administración, conservación y preservación de la documentación pública a través de mecanismos confiables, eficientes y eficaces.
+
+VII. La constitución de un organismo público autónomo conforme a las bases previstas en esta Constitución y las siguientes:
+
+1. Será autoridad constitucional en la materia, independiente en sus funciones y decisiones, y profesional en su desempeño.
+
+2. Contará con autonomía política, jurídica, administrativa presupuestal, patrimonial y financiera, en los términos que establezca la ley.
+
+3. Tendrá a su cargo la rectoría de las siguientes materias:
+
+a) El acceso a la información pública.
+
+b) La cultura de transparencia informativa.
+
+c) Los datos personales.
+
+d) (DEROGADO, P.O. 27 DE MARZO DE 2007)
+
+e) La realización de estadísticas, sondeos, encuestas o cualquier instrumento de opinión pública.
+
+f) Las demás atribuciones que establezca la ley.
+
+4. Su actuación se regirá por los principios de constitucionalidad, legalidad, certeza, independencia, imparcialidad y objetividad.
+
+5. Sus integrantes serán designados por el voto de cuando menos las dos terceras partes del Congreso del Estado, en los términos y conforme al procedimiento que disponga la ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE JULIO DE 2006)</small>
+
+Las Cartas de los Derechos Fundamentales y esta Constitución, determinan los principios mínimos en los que se sustenta el ejercicio de los Derechos Humanos. Serán ley suprema en el régimen interior del Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2006)</small>
 
@@ -262,9 +326,11 @@ Son vecinos, los mexicanos que tengan seis meses de residencia continua en el Es
 
 Las personas que se encuentren accidentalmente en el Estado sin ser ciudadanos de éste o coahuilenses, se considerarán como transeúntes.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
+
 ###### Artículo 15.
 
-Son extranjeros los que no reunan la calidad de mexicanos de conformidad con el artículo 30 de la Constitución General de la República.
+Son extranjeros los que no reúnan la calidad de mexicanos de conformidad con el artículo 30 de la Constitución General de la República y gozarán de los derechos humanos y garantías que reconoce la presente Constitución.
 
 ### CAPITULO IV.
 
@@ -1112,9 +1178,13 @@ XLVII. Expedir las Leyes y Acuerdos indispensables para hacer efectivas las facu
 
 XLVIII. Designar al Auditor Superior del Estado, y
 
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2012)</small>
+
+XLIX. Ordenar la comparecencia en los términos que la ley señale, de las autoridades o servidores públicos que hayan desestimado las recomendaciones de la Comisión de los Derechos Humanos del Estado de Coahuila a fin de que funden y motiven su rechazo; y
+
 (REUBICADA, P.O. 22 DE JUNIO DE 2007)
 
-XLIX. Las demás que le confieran la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y los demás ordenamientos aplicables.
+L. Las demás que le confieran la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y los demás ordenamientos aplicables.
 
 ###### Artículo 68.
 
@@ -1332,9 +1402,7 @@ VII. Nombrar, cuando lo crea conveniente, personas de su confianza para que info
 
 VIII. Pedir a la Diputación Permanente expida convocatoria a sesiones extraordinarias del Congreso.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE NOVIEMBRE DE 1992)</small>
-
-IX. Presentar al Congreso la propuesta para la designación del Presidente y Consejeros de la Comisión de Derechos Humanos del Estado de Coahuila, en los términos que establezca la ley.
+IX. (DEROGADA, P.O. 26 DE JUNIO DE 2012)
 
 > <small>(REFORMADA, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -1880,11 +1948,11 @@ Bases Generales.
 
 La educación de los hijos es deber y derecho primario de los padres o de quienes los representen. El Estado vigilará el cumplimiento de ese deber y facilitará el ejercicio de este derecho.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
 
 ###### Artículo 117.
 
-La educación y la enseñanza será organizada como un proceso integral correlacionado con sus diversos ciclos, de modo que exista una adecuada articulación y continuidad entre todos sus grados, incluyendo el superior, y estará orientada a lograr el desarrollo armonioso de la personalidad humana, según el espíritu del artículo 3o., de la Constitución Política de los Estados Unidos Mexicanos.
+La educación y la enseñanza será organizada como un proceso integral correlacionado con sus diversos ciclos, de modo que exista una adecuada articulación y continuidad entre todos sus grados, incluyendo el superior, y estará orientada a lograr el desarrollo armonioso de la personalidad humana, el amor a la Patria y el respeto a los derechos humanos conforme a lo dispuesto por el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 1996)</small>
 
@@ -3478,13 +3546,17 @@ Esta Constitución garantiza el ejercicio libre, democrático y equitativo de lo
 
 La Comisión de Derechos Humanos del Estado de Coahuila, se constituirá conforme a lo siguiente:
 
-1. Será independiente en sus funciones y decisiones y profesional en su desempeño.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
+
+1. Será independiente en sus funciones y decisiones y profesional en su desempeño. No será competente tratándose de asuntos electorales y jurisdiccionales.
 
 2. Gozará de autonomía presupuestal y financiera en los términos que establezca la ley.
 
 3. Sesionará en forma pública a través de un Consejo, que estará integrado por seis consejeros que durarán en su encargo cuatro años.
 
-4. El Presidente de la Comisión, así como los consejeros, propietarios y suplentes, serán designados por el voto de la mayoría de los miembros del Congreso del Estado, en los términos y conforme a los procedimientos que disponga la ley.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
+
+4. El Presidente de la Comisión, así como los consejeros, propietarios y suplentes, serán designados por el voto de la mayoría de los miembros del Congreso del Estado, ajustándose a un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que disponga la ley.
 
 5. Contará en su estructura con órganos consultivos, directivos, ejecutivos, técnicos, operativos y administrativos, en los términos que la ley establezca.
 
@@ -3501,6 +3573,10 @@ La Comisión de Derechos Humanos del Estado de Coahuila, se constituirá conform
 11. Todo órgano, dependencia o entidad de los gobiernos estatal y municipal deberá colaborar con la Comisión de Derechos Humanos del Estado de Coahuila en los términos de las disposiciones aplicables, para el mejor ejercicio de sus funciones, bajo los principios de fidelidad estatal y municipal.
 
 12. La Comisión de Derechos Humanos del Estado podrá presentar iniciativas de leyes o decretos al Congreso del Estado en materia de derechos fundamentales en los términos de los artículos 59 y 60 de esta Constitución. En este caso la iniciativa se presentará por conducto del presidente, previo acuerdo del Consejo.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2012)</small>
+
+13. Formulará recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas. Todo servidor público está obligado a responder las recomendaciones que le presente este organismo. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa; además, el Congreso del Estado o en sus recesos la Comisión Permanente, podrá llamar, a solicitud de este organismo, a las autoridades o servidores públicos responsables para que comparezcan ante dichos órganos legislativos, a efecto de que expliquen el motivo de su negativa.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2005)</small>
 
@@ -3522,7 +3598,7 @@ IV. Publicación del expediente por la prensa.
 
 V. Que la adición o reforma sea aprobada por la mayoría absoluta de los Ayuntamientos del Estado.
 
-VI. Discusión del nuevo dictamen, que formará con vista del sentir de los Ayuntamientos, la Comisión que conoció de la iniciativa, pronunciándose en sentido afirmativo o negativo, según el sentir de la mayoría absoluta de los respectivos a Ayuntamientos.
+VI. Discusión del nuevo dictamen, que formará con vista del sentir de los Ayuntamientos, la Comisión que conoció de la iniciativa, pronunciándose en sentido afirmativo o negativo, según el sentir de la mayoría absoluta de los respectivos Ayuntamientos.
 
 VII. Declaración del Congreso, con vista y discusión del dictamen de la comisión.
 
@@ -4409,3 +4485,11 @@ TERCERO.- En tanto se expidan e inicien su vigencia las leyes que organicen las 
 CUARTO.- En tanto se designa a los titulares de la Procuraduría General de Justicia del Estado y de la Secretaría de Seguridad Pública, el Gobernador del Estado designará a los respectivos encargados del despacho.
 
 QUINTO.- De conformidad con la naturaleza de las funciones de cada una de las áreas que actualmente integran la Fiscalía General del Estado, deberán transferirse los recursos financieros, humanos y materiales a la Procuraduría General de Justicia o la Secretaría de Seguridad Pública, según correspondan respetando los derechos laborales de todos los trabajadores.
+
+P.O. 26 DE JUNIO DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Congreso del Estado deberá realizar las adecuaciones a la legislación ordinaria para la implementación de las disposiciones previstas en este decreto.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
