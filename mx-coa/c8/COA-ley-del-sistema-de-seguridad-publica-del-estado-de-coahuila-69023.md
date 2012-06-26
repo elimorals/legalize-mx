@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-de-seguridad-publica-del-estado-de-coahuila-690
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-19"
-last_updated: "2012-05-11"
+last_updated: "2012-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COA"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2012.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 11 DE MAYO DE 2012 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 8 DE ABRIL DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2012.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 19 de junio de 2009.
 
@@ -1751,7 +1749,9 @@ Los aspirantes a ingresar a la Institución del Ministerio Público y Servicios 
 
 I. Ministerio Público.
 
-1. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
+
+1. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
 2. Contar con titulo de licenciado en derecho expedido y registrado legalmente, con la correspondiente cédula profesional;
 
@@ -1771,7 +1771,9 @@ I. Ministerio Público.
 
 II. Peritos.
 
-1. Ser ciudadano mexicano por nacimiento y en pleno ejercicio de sus derechos;
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
+
+1. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
 2. Acreditar que ha concluido, por lo menos, los estudios correspondientes a la enseñanza media superior o equivalente;
 
@@ -2155,7 +2157,9 @@ El ingreso es el procedimiento de integración de los candidatos a la estructura
 
 Son requisitos para ingresar a la carrera policial:
 
-I. Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles, sin tener otra nacionalidad;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2012)</small>
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
 
 II. Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso o culposo grave, ni estar sujeto a proceso penal;
 
@@ -3930,3 +3934,9 @@ SEXTO.- Todas las disposiciones contenidas en esta ley que se relacionen con el 
 SÉPTIMO.- La organización y funcionamiento del Centro de Evaluación y Control de Confianza previsto en la fracción II del artículo 8 y 284 del Artículo Primero del presente decreto, se regulará por las disposiciones que para tal efecto se emitan en un plazo no mayor a sesenta días naturales contados a partir de la entrada en vigor del presente.
 
 OCTAVO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE JUNIO DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a lo previsto en este decreto.
