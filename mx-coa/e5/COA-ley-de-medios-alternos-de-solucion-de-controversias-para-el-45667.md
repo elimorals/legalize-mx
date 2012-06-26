@@ -4,7 +4,7 @@ identifier: "COA-ley-de-medios-alternos-de-solucion-de-controversias-para-el-456
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-12"
-last_updated: "2005-07-12"
+last_updated: "2012-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY DE MEDIOS ALTERNOS DE SOLUCION DE CONTROVERSIAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-LEY DE MEDIOS ALTERNOS DE SOLUCION DE CONTROVERSIAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
+LEY DE MEDIOS ALTERNOS DE SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 12 de julio de 2005.
 
@@ -119,7 +119,9 @@ El órgano facultado para operar los medios alternos. El órgano facultado para 
 
 Este órgano contará con autonomía técnica y estará vinculado administrativamente al Consejo de la Judicatura del Estado como órgano del Poder Judicial.
 
-Las instituciones públicas y/o privadas, así como los particulares que deseen prestar estos servicios, podrán hacerlo siempre que cuenten con la autorización del Centro, de conformidad con lo dispuesto en esta Ley y su Reglamento.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
+
+Las instituciones públicas o privadas estatales y municipales, las organizaciones sociales o las personas físicas que deseen prestar estos servicios, podrán hacerlo siempre que cuenten con la certificación del Centro, de conformidad con lo dispuesto en esta Ley y su Reglamento, así como en el procedimiento que para tal efecto determine el Consejo de la Judicatura del Poder Judicial del Estado.
 
 ###### Artículo 11.
 
@@ -279,9 +281,15 @@ La autenticidad de los acuerdos. Por la sola firma del facilitador, se presume q
 
 El acuerdo final podrá ser validado por la firma del director del Centro, a petición de alguna de las partes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2012)</small>
+
 ###### Artículo 28.
 
-La eficacia jurídica. Los acuerdos de mediación, conciliación y evaluación neutral, tendrán eficacia jurídica, y en caso de incumplimiento, mediante una petición por escrito al juez competente, podrán ser reconocidos y ejecutados por esta autoridad, en los términos de las disposiciones legales del Código Procesal Civil vigente en el Estado.
+La eficacia jurídica. Los acuerdos de mediación, conciliación y evaluación neutral celebrados ante facilitadores del Centro, tendrán calidad de cosa juzgada y, en caso de incumplimiento, podrán ser ejecutados por esta autoridad mediante una petición por escrito al juez competente, en los términos de las disposiciones legales del Código Procesal Civil vigente en el Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2012)</small>
+
+Los acuerdos celebrados ante instituciones públicas o privadas estatales o municipales, ante organizaciones sociales o personas físicas, deberán ser remitidos al Centro para ser validados por su director y contar así con la eficacia jurídica a que se refiere este artículo.
 
 El laudo emitido por un tribunal arbitral será reconocido como vinculante y después de transcurrido el término para la anulación del mismo por la vía incidental, será ejecutado de conformidad con las leyes de la materia.
 
@@ -1000,3 +1008,11 @@ EL SECRETARIO DE GOBIERNO.
 LIC. HORACIO DE JESÚS DEL BOSQUE DÁVILA.
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE JUNIO DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
