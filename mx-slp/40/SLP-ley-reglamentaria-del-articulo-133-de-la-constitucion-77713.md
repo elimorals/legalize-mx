@@ -4,7 +4,7 @@ identifier: "SLP-ley-reglamentaria-del-articulo-133-de-la-constitucion-77713"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-11"
-last_updated: "2010-11-11"
+last_updated: "2012-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77713&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY REGLAMENTARIA DEL ARTICULO 133 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, EN MATERIA DE REMUNERACIONES
 
-LEY REGLAMENTARIA DEL ARTICULO 133 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, EN MATERIA DE REMUNERACIONES
+LEY REGLAMENTARIA DEL ARTÍCULO 133 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, EN MATERIA DE REMUNERACIONES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2012.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el jueves 11 de noviembre de 2010.
 
@@ -41,9 +41,11 @@ LEY REGLAMENTARIA DEL ARTICULO 133 DE LA CONSTITUCION POLlTICA DEL ESTADO LIBRE 
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2012)</small>
+
 ###### ARTICULO 1°.
 
-La presente Ley es de orden público, y tiene como objeto establecer las bases para determinar las remuneraciones de los servidores públicos que presten servicios en cualquier institución pública, en cumplimiento de lo establecido por los artículos, 127 de la Constitución Política de los Estados Unidos Mexicanos; y 133 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
+La presente Ley es de orden público e interés social; y tiene como objeto establecer las bases para determinar las remuneraciones de los servidores públicos que presten servicios en cualquier institución pública, en cumplimiento de lo establecido por los artículos, 127 de la Constitución Política de los Estados Unidos Mexicanos; y 133 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
 
 La remuneración que perciban los servidores públicos en términos de los artículos, 127 de la Constitución Política de los Estados Unidos Mexicanos; y 133 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí, será determinada anual y equitativamente, de acuerdo con los tabuladores desglosados que se incluyan en los presupuestos de egresos que correspondan.
 
@@ -59,9 +61,17 @@ I. Igualdad: la remuneración de los servidores públicos se determinará, sin d
 
 II. Equidad: la remuneración de cada función pública deberá ser proporcional a la responsabilidad inherente al cargo, y al presupuesto designado para el órgano de autoridad en cuyo tabulador se incluya;
 
-III. Legalidad: las instituciones y autoridades deberán someter su actuación al mandato legal, en materia de remuneraciones, y
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2012)</small>
 
-IV. Transparencia: la remuneración de los servidores públicos deberá ser clara y deberá permitirse a los ciudadanos el acceso a la información respectiva, conforme a la ley de la materia.
+III. Legalidad: las instituciones y autoridades deberán someter su actuación al mandato legal, en materia de remuneraciones;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2012)</small>
+
+IV. Transparencia: la remuneración de los servidores públicos deberá ser clara y deberá permitirse a los ciudadanos el acceso a la información respectiva, conforme a la ley de la materia, y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2012)</small>
+
+V. Objetividad: la determinación de las remuneraciones de los cargos de los servidores públicos debe estar fundada en políticas y criterios objetivos.
 
 ###### ARTICULO 4°.
 
@@ -270,3 +280,11 @@ El Secretario General de Gobierno
 Lic. Marco Antonio Aranda Martínez
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE JUNIO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
