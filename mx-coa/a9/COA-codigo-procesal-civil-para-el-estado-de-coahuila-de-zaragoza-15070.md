@@ -4,7 +4,7 @@ identifier: "COA-codigo-procesal-civil-para-el-estado-de-coahuila-de-zaragoza-15
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-29"
-last_updated: "2011-08-19"
+last_updated: "2012-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 29 de junio de 1999.
 
@@ -2725,7 +2725,11 @@ III. La condena al demandado para que realice una conducta determinada.
 
 IV. La aplicación de las normas jurídicas encaminadas a la defensa de cualquier situación de hecho o de derecho favorable al actor, o a reparar los daños y perjuicios sufridos, o a evitar el riesgo probable de un bien jurídico propio, o respecto del cual se esté en obligación de salvaguardar, o para retener o restituir la posesión de un bien o bienes determinados a cualquiera que le pertenezca legítimamente.
 
-V. Se tutele el interés colectivo de grupos indeterminados.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2012)</small>
+
+V. Se tutele el interés colectivo de grupos determinados e indeterminados.
 
 ###### ARTÍCULO 280.
 
@@ -2810,6 +2814,20 @@ III. El juzgador dará por concluido el procedimiento, sin sentencia, si la part
 IV. En la sentencia podrán imponerse a la parte demandada, las medidas que se juzguen más eficaces y necesarias para prevenir o impedir que se sigan produciendo los daños.
 
 V. La ejecución del fallo condenatorio comprenderá la distribución equitativa del resarcimiento de los daños generados, sin perjuicio de la indemnización de los daños particulares.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2012)</small>
+
+###### ARTÍCULO 285 Bis.
+
+Acción con pretensión de protección de intereses de grupos determinados para la regularización colectiva de la tenencia de la tierra.
+
+La acción de regularización colectiva del derecho de propiedad sobre inmuebles rústicos o urbanos es de interés social y se ejerce bajo las reglas aplicables de la adquisición por usucapión tanto en juicio contradictorio como en procedimiento no contencioso.
+
+Tiene por finalidad la titulación e inscripción definitiva individualizada de predios rústicos o urbanos que constituyen asentamientos humanos irregulares, a efecto de otorgar a sus poseedores la seguridad jurídica de la legal tenencia de la tierra.
+
+Este código y las leyes en materia urbana dispondrán los entes jurídicos públicos o privados que estarán legitimados para ejercer esta acción y las condiciones de la misma.
 
 ###### ARTÍCULO 286.
 
@@ -5747,25 +5765,47 @@ La existencia del perjuicio se presumirá siempre que se acredite una violación
 
 ### CAPÍTULO TERCERO. De la rectificación y registro extemporáneo de actas del estado civil
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 560.
 
-Rectificación en juicio ordinario.
+Rectificación en juicio especial.
 
-El juicio de rectificación de actas del estado civil a que se refiere el Código Civil, se tramitará en juicio ordinario y en él se oirán al Oficial del Registro Civil que autorizó el acta cuya rectificación se pida y al Ministerio Público.
+El juicio de rectificación de actas del estado civil a que se refiere el Código Civil, se tramitará en juicio especial y en él se oirá al Oficial del Registro Civil que tenga asignada la Oficialía en que se levantó el acta de que se trate y al Ministerio Público.
 
-El juzgador, además de citar a los interesados que fueren conocidos o que intervinieron en el acta, publicará un extracto de la demanda por una sola vez, en el Periódico Oficial del Estado y en otro de los de mayor circulación del lugar en el que se encuentre ubicado el domicilio del promovente, mandándose fijar además, en un lugar visible de la oficialía que corresponda, haciendo saber que se admitirá a contradecirla a cualquiera, que teniendo interés, se presente dentro de un término que no exceda de treinta días.
+El juzgador podrá, atendiendo a las circunstancias del caso, citar a los interesados que fueren conocidos o que intervinieron en el acta. Asimismo, publicará un extracto de la demanda por una sola vez, en el Periódico Oficial del Estado y en otro de los de mayor circulación del lugar en el que se encuentre ubicado el domicilio del promovente, mandándose fijar además, en un lugar visible de la Oficialía que corresponda, haciendo saber que se admitirá a contradecirla a cualquiera, que teniendo interés, se presente dentro de un término que no exceda de diez días a partir de la fijación.
 
-La sentencia que recaiga será revisable de oficio, aunque no la recurran las partes.
+En los juicios de rectificación se observarán las reglas siguientes:
 
-Una vez ejecutoriada la sentencia, se comunicará al Oficial del Registro Civil ante quien el acta objeto de rectificación se asentó y a la Dirección Estatal del Registro Civil, para que hagan referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
+I. En los escritos de demanda y contestación, las partes deberán ofrecer las pruebas de su intención.
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2003)</small>
+II. El juzgador al admitir la demanda, ordenará que con la copia cotejada de la misma así como de sus anexos, se corra traslado al Oficial del Registro Civil demandado y al Ministerio Público a fin de que en el término de tres días manifiesten lo que a su interés convenga, ordenando se proceda a realizar las publicaciones en términos de lo dispuesto en este artículo.
+
+III. El emplazamiento al Oficial del Registro Civil que tenga asignada la Oficialía en que se levantó el acta de que se trate, se podrá realizar en el domicilio del propio Oficial o bien en la Dirección Estatal del Registro Civil, lo que resulte más cercano al domicilio en que tenga su residencia el juez que conoce del juicio. En caso de que el emplazamiento se realice en la Dirección Estatal del Registro Civil, ésta se encuentra obligada a recibirlo, debiendo poner, sin demora, en conocimiento al Oficial correspondiente de la demanda instaurada. La notificación surtirá todos sus efectos legales desde que se entregue, ya sea a la persona a quien va dirigido o al encargado de recibir la correspondencia en la Dirección Estatal del Registro Civil, de acuerdo a lo dispuesto por el artículo 217 de este Código, y si se negaren a recibirla, se tendrá por hecha la notificación y serán responsables de la falta de cumplimiento de la resolución que contenga.
+
+IV. Concluidos los plazos de vista a los terceros interesados y a las partes en juicio, sin oposición ni motivo de depuración alguno, previa la admisión de las documentales exhibidas, el juzgador procederá a dictar la sentencia que corresponda en un término de ocho días.
+
+V. En caso de oposición o cuando el juez lo considere necesario, se proveerá sobre la admisión de la totalidad de las pruebas ofrecidas, ordenando la preparación de las que correspondan, señalando además día y hora para que tenga lugar la celebración de la audiencia de depuración, pruebas y alegatos, misma que se llevara a cabo dentro de los 10 días siguientes a la conclusión de los plazos de vista otorgados a los terceros interesados y a las partes en juicio.
+
+En la audiencia señalada, se depurará el procedimiento y se desahogarán las pruebas y, una vez hecho lo anterior, las partes deberán de emitir sus alegatos de forma oral.
+
+VI. El juzgador podrá, para apoyar su resolución, requerir al interesado la presentación de documentos distintos a los que acompañan la demanda inicial.
+
+VII. La sentencia definitiva se pronunciará de manera breve y concisa, en un término que no exceda de los ocho días siguientes a la citación y será recurrible por las partes en apelación, la que procederá en el efecto suspensivo.
+
+VIII. Una vez ejecutoriada la sentencia, se comunicará al Oficial del Registro Civil que tenga asignada la Oficialía en que el acta objeto de rectificación se asentó y a la Dirección Estatal del Registro Civil, para que hagan referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación, de conformidad con lo dispuesto en el artículo 238 del Código Civil para el Estado de Coahuila de Zaragoza.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 561.
 
-Aclaración en vía no contenciosa.
+Aclaración en vía administrativa.
 
-Cuando sólo se trate de la enmienda, vía aclaración, de una acta del estado civil en los casos a que se refiere el Código Civil, se procederá, en los términos previstos por las disposiciones aplicables, ante la Dirección del Registro Civil.
+Cuando sólo se trate de la enmienda, vía aclaración, de un acta del estado civil en los casos a que se refiere el Código Civil, se procederá, en los términos previstos por las disposiciones aplicables, ante la Dirección Estatal del Registro Civil.
 
 > <small>(REFORMADO, P.O. 25 DE JULIO DE 2003)</small>
 
@@ -6347,7 +6387,11 @@ Resolución.
 
 Rendidas las justificaciones que se exige en el artículo 607, y obtenido el consentimiento de las personas que deben darlo conforme al Código Civil, el juzgador resolverá lo que corresponda, dentro del tercer día, observando en todos los casos las siguientes reglas:
 
-I. Asegurará de que las personas o instituciones cuyo consentimiento se requiere para la adopción han sido convenientemente asesoradas y debidamente informadas sobre el alcance de dicho consentimiento; en particular, en relación al mantenimiento o ruptura, en virtud de la adopción, de los vínculos jurídicos entre el menor y su familia de origen, cuando se trata de la adopción plena.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2012)</small>
+
+I. Asegurará de que las personas o instituciones cuyo consentimiento se requiere para la adopción han sido convenientemente asesoradas y debidamente informadas sobre el alcance de dicho consentimiento; en particular, en relación a la ruptura, en virtud de la adopción, de los vínculos jurídicos entre el menor y su familia de origen.
 
 II. Exigirá que el consentimiento sea dado o conste por escrito y vigilará que sea expresión libre de la voluntad, exento de vicios que puedan afectarlo y que no se haya obtenido mediante pago o compensación de clase alguna.
 
@@ -6361,7 +6405,11 @@ IV. Constatar que los futuros padre o madre o padres adoptivos, hayan sido conve
 
 V. Verificar a través del estudio socio-económico o del informe que elabore el Sistema para el Desarrollo Integral de la Familia, la identidad, capacidad jurídica, situación personal, familiar, médica, económica y social del o de los adoptantes, para establecer, sin lugar a dudas, que reúnen los requisitos previstos en la fracción V del artículo 607.
 
-El juzgador asegurará en el secreto del juzgado la información de la que disponga relativa a los orígenes de un menor, en particular la información respecto a la identidad de sus padres, cuando se trata de la adopción plena.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
+
+El juzgador asegurará en el secreto del juzgado la información de la que disponga relativa a los orígenes de un menor, en particular la información respecto a la identidad de sus padres.
 
 Si en el trámite de la adopción intervino alguna persona, organismo o institución; el juzgador autorizará los gastos erogados que le sean plenamente justificados, incluyendo los honorarios de los abogados; pero estará facultado para moderar las prestaciones que estime desproporcionadas en relación a los servicios prestados y para rechazar de plano todo beneficio material indebido que se trate de exigir como consecuencia de una intervención en un procedimiento de adopción. Sobre ello informará puntualmente al adoptante o adoptantes y lo hará constar en la pieza de autos.
 
@@ -6369,31 +6417,27 @@ Si en el trámite de la adopción intervino alguna persona, organismo o instituc
 
 El Juez de la causa ordenará a la Procuraduría de la Familia realice visitas de seguimiento periódicas durante un tiempo no menor a un año en el domicilio de los adoptantes, resultados que deberá hacer de conocimiento del juzgador para los efectos legales conducentes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 610.
 
-Revocación de la adopción.
+(DEROGADO, P.O. 26 DE JUNIO DE 2012)
 
-La adopción semiplena puede revocarse de mutuo acuerdo siempre que el adoptado sea mayor de edad. Si no lo fuere, es necesario que consientan en la revocación las personas que prestaron su consentimiento para la adopción o si (sic) oirá al Ministerio Público y a la Procuraduría de la Familia. El juzgador citará a los interesados a una audiencia dentro de los tres días siguientes al en que se haya presentado la petición y después de escuchar sus puntos de vista, revocará la adopción, si convencido de la espontaneidad con que se planteo la solicitud, encuentra que ello es conveniente para los intereses morales y materiales del adoptado.
-
-Si la revocación se pide por ingratitud del adoptado, el juzgador mandará substanciar el procedimiento en juicio ordinario, entendiéndose con éste si tuviere más de dieciocho años, o con un tutor especial que se le nombre y, además, deberá oírse al Ministerio Público y a la Procuraduría de la Familia para demostrar los hechos que constituyan la ingratitud son admisibles toda clase de pruebas. El mismo procedimiento se observará cuando la revocación de la adopción semiplena se solicita en los casos en los que el o los adoptantes no cumplen con los deberes que les impone la adopción.
-
-La resolución que se pronuncie será apelable en el efecto devolutivo, si niega la revocación de la adopción y en el efecto suspensivo si la concede, excepción hecha del caso en que la revocación haya sido solicitada de mutuo acuerdo, en el que la resolución será irrecurrible.
-
-La adopción plena es irrevocable.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 611.
 
-Impugnación de la adopción.
-
-La impugnación de la adopción en el supuesto que señala el Código Civil, se ventilarán en juicio ordinario.
-
-La sentencia que se pronuncie, será apelable en el efecto suspensivo.
+(DEROGADO, P.O. 26 DE JUNIO DE 2012)
 
 ###### ARTÍCULO 612.
 
 Inscripción de las resoluciones en el Registro Civil.
 
-Las resoluciones que dicte el juzgador aprobando o revocando la adopción, se comunicarán al Oficial del Registro Civil que corresponda y a la Dirección Estatal del Registro Civil para que el primero asiente el acta de adopción y ambos anoten la de nacimiento o, en su caso, para que al margen de aquella la cancele y tomen nota de esta circunstancia en la de nacimiento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
+
+Las resoluciones que dicte el juzgador aprobando la adopción, se comunicarán al Oficial del Registro Civil que corresponda y a la Dirección Estatal del Registro Civil para que el primero cancele el acta de nacimiento del adoptado, en caso de que exista, mediante una anotación marginal, y ambos anoten la de nacimiento.
 
 ### CAPÍTULO DÉCIMO PRIMERO. Alimentos
 
@@ -9217,7 +9261,11 @@ Cuando se tramiten apelaciones contra sentencias, sólo podrán admitirse al act
 
 Revisión de oficio de las sentencias de primera instancia.
 
-La revisión de las sentencias recaídas en los juicios sobre rectificación de actas del Registro Civil y sobre nulidad de matrimonio que tengan por causa el parentesco, el matrimonio subsistente, o el atentado contra la vida de alguno de los consortes para contraer matrimonio con el que quede libre, abre de oficio la segunda instancia con intervención del Ministerio Público. Aunque las partes no expresaren agravios ni promuevan pruebas, el tribunal examinará la legalidad de la sentencia de primera instancia, quedando en suspenso sus efectos hasta que se dicte resolución. En igual forma se procederá cuando por disposición expresa de la ley tenga lugar la revisión de oficio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
+
+La revisión de las sentencias recaídas en los juicios sobre nulidad de matrimonio que tengan por causa el parentesco, el matrimonio subsistente, o el atentado contra la vida de alguno de los consortes para contraer matrimonio con el que quede libre, abre de oficio la segunda instancia con intervención del Ministerio Público. Aunque las partes no expresaren agravios ni promuevan pruebas, el tribunal examinará la legalidad de la sentencia de primera instancia, quedando en suspenso sus efectos hasta que se dicte resolución. En igual forma se procederá cuando por disposición expresa de la ley tenga lugar la revisión de oficio.
 
 ###### ARTÍCULO 885.
 
@@ -11853,7 +11901,9 @@ El derecho a heredar por sucesión legítima debe comprobarse en la forma siguie
 
 I. Los descendientes, ascendientes y cónyuge, mediante la presentación de las copias certificadas de las actas del Registro Civil que acrediten la relación. Deben declarar además, bajo protesta de decir verdad, cuales otros parientes del autor de la sucesión existen dentro de los mismos grados. El cónyuge, si no existen descendientes o ascendientes, debe declarar, además, si existen colaterales.
 
-II. El adoptante o adoptado deben exhibir una copia del acta de adopción y hacer, además, la declaración a que se refiere la fracción anterior.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+II. (DEROGADA, P.O. 26 DE JUNIO DE 2012)
 
 III. Los colaterales acreditarán su relación con el finado con las partidas del Registro Civil correspondientes, y además, con información testimonial que ofrezcan de que no existen ascendientes o descendientes o cónyuge de aquél, o que se encuentren en alguno de los casos de herencia concurrente a que se refiere el Código Civil.
 
@@ -13236,3 +13286,17 @@ P.O. 19 DE AGOSTO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JUNIO DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor a los 30 días hábiles siguientes a su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Las adopciones que a la entrada en vigor del presente decreto se encuentren en trámite bajo la modalidad de adopción semiplena, continuarán rigiéndose hasta su resolución bajo este régimen, con todos los efectos aplicables a la misma.
+
+Lo anterior sin perjuicio de que pueda promoverse, antes de concluir el procedimiento, la conversión de adopción semiplena a plena, a solicitud de los promoventes, requiriendo además del consentimiento de quienes deban otorgarlo de conformidad con lo previsto en el Código Civil para el Estado de Coahuila de Zaragoza, el consentimiento de los padres de los adoptantes y la intervención del Ministerio Público y de la Procuraduría de la Familia. Si el menor adoptado tiene más de catorce años al momento de la solicitud de conversión, se requerirá su consentimiento otorgado libremente y por escrito, en la forma legalmente establecida.
+
+TERCERO.- Las adopciones que a la entrada en vigor del presente decreto, se encuentren resueltas bajo la modalidad de adopción semiplena, continuarán rigiéndose bajo este régimen, con todos los efectos aplicables a la misma, sin perjuicio de que, de conformidad con lo dispuesto en el Código Civil para el Estado de Coahuila de Zaragoza, se solicite su conversión a adopción plena.
+
+CUARTO.- En los juicios y procedimientos de rectificación y aclaración de actas del registro civil que se encuentren en trámite a la entrada en vigor del presente decreto, será potestativo para las partes acogerse a las reformas establecidas en el mismo o, en su caso, seguir rigiéndose por las disposiciones anteriores a su publicación, hasta en tanto hayan concluido en su totalidad.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
