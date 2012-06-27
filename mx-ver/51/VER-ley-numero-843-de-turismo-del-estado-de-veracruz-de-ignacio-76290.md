@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-843-de-turismo-del-estado-de-veracruz-de-ignacio-762
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-10"
-last_updated: "2010-08-10"
+last_updated: "2012-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 843 DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY NUMERO 843 DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY NÚMERO 843 DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE JUNIO DE 2012.
 
 Ley publicada en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el martes 10 de agosto de 2010.
 
@@ -155,9 +155,13 @@ c) Asegurar actividades económicas viables a largo plazo, que reporten a todos 
 
 XXXIII. Turista: El visitante nacional o internacional que permanece una noche, por lo menos, en un medio de alojamiento ubicado en el Estado;
 
-XXXIV. Visitante: Toda persona, ya sea turista o excursionista, que se desplaza a un lugar distinto al de su entorno habitual por una duración inferior a doce meses, y cuyo viaje no tenga como finalidad principal ejercer una actividad que se remunere en el lugar o país visitado; y
+XXXIV. Visitante: Toda persona, ya sea turista o excursionista, que se desplaza a un lugar distinto al de su entorno habitual por una duración inferior a doce meses, y cuyo viaje no tenga como finalidad principal ejercer una actividad que se remunere en el lugar o país visitado; y (sic)
 
 XXXV. Zonas de Desarrollo Turístico Sustentable: Las declaradas como tales en el Estado por el Ejecutivo Federal, las que, por sus características naturales o culturales, constituyen un atractivo turístico.
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2012)</small>
+
+XXXVI. Zonas Turísticas Culturales. Conjunto de municipios o zonas geográficas que, por sus características socioculturales, comparten una vocación turística en común.
 
 ## TÍTULO SEGUNDO. De las competencias de las autoridades
 
@@ -231,7 +235,9 @@ XXXI. Coadyuvar con la Secretaría de Seguridad Pública, en los casos en que se
 
 XXXII. Colaborar con la Secretaría de Trabajo, Previsión Social y Productividad en el desarrollo de programas de fomento al empleo turístico, así como de capacitación y profesionalización de la actividad turística, mediante criterios de inclusión y equidad;
 
-XXXIII. Promover el uso sustentable del patrimonio natural y cultural, tangible e intangible del Estado con fines turísticos;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2012)</small>
+
+XXXIII. Promover el uso sustentable del patrimonio natural y cultural, tangible e intangible del Estado, con fines turísticos, fomentando las actividades encaminadas a fortalecer el turismo cultural, gastronómico y religioso.
 
 XXXIV. Solicitar a los prestadores de servicios la información y documentación relacionada con su actividad, para fines estadísticos;
 
@@ -527,11 +533,17 @@ La misma obligación tendrán las autoridades, respecto de los espacios de refer
 
 La Secretaría y los Ayuntamientos vigilarán el cumplimiento de las disposiciones establecidas en el presente capítulo y en la Ley para la Integración de las Personas con Discapacidad del Estado de Veracruz de Ignacio de la Llave.
 
-### CAPÍTULO V. De la cultura turística y el turismo cultural
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 27 DE JUNIO DE 2012)</small>
+
+### CAPÍTULO V. De la cultura turística, el turismo cultural, gastronómico y religioso
 
 ###### Artículo 31.
 
 La Secretaría y los Ayuntamientos fomentarán el conocimiento sobre la importancia del turismo sustentable como factor para el desarrollo económico y social del Estado. Para ello, implementarán políticas públicas que promuevan el fortalecimiento de una cultura turística para la sustentabilidad e impulsarán entre los prestadores de servicios y la ciudadanía en general el cuidado del patrimonio natural y cultural, así como estándares de calidad en la recepción a los visitantes.
+
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2012)</small>
+
+Se implementarán actividades encaminadas a desarrollar, fortalecer e implementar el turismo cultural, gastronómico y religioso, fomentando la creación de acuerdos intermunicipales en los cuales se consideren a los municipios con vocaciones turísticas culturales similares, para crear zonas turísticas culturales y corredores turísticos.
 
 ###### Artículo 32.
 
@@ -542,6 +554,14 @@ En estos temas, también se diseñarán programas para su difusión entre la pob
 ###### Artículo 33.
 
 La Secretaría, en coordinación con el Instituto Veracruzano de la Cultura, difundirá entre los prestadores de servicios turísticos y los visitantes los programas que tengan como finalidad fomentar y promover las culturas del Estado. También aprovechará las diversas manifestaciones de identidad de las comunidades para la promoción del turismo cultural.
+
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2012)</small>
+
+La Secretaría y el Instituto Veracruzano de la Cultura incentivarán la promoción a productores primarios o secundarios de alimentos, la creación o fortalecimiento de festivales gastronómicos, así como de restaurantes o lugares específicos para la degustación de alimentos, que representen la diversidad cultural del Estado.
+
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2012)</small>
+
+Se publicitará, como parte del patrimonio cultural estatal, a las catedrales, monasterios, conventos, museos de arte sacro e iglesias, así como también las manifestaciones religiosas típicas en el Estado, sin distinción de religión alguna.
 
 ###### Artículo 34.
 
@@ -1246,3 +1266,11 @@ Licenciado Fidel Herrera Beltrán
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 27 DE JUNIO DE 2012.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
