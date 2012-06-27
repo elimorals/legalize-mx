@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-gestion-e-71289"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-09"
-last_updated: "2011-10-12"
+last_updated: "2012-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71289&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE GESTIÓN E INNOVACIÓN GUBERNAMENTAL DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 9 de diciembre de 2009.
 
@@ -89,13 +89,21 @@ VII. Dirección General de Mantenimiento Vehicular y Señalamiento de Inmuebles;
 
 VIII. Unidad de Asesoría Jurídica;
 
-IX. Dirección General de Tecnologías de la Información y Comunicaciones, y
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2012)</small>
 
-X. Dirección General de Coordinación y Desarrollo Administrativo.
+IX. Secretaría Técnica del Titular de la Secretaría;
+
+X. Dirección General de Tecnologías de la Información y Comunicaciones, y
+
+XI. Dirección General de Coordinación y Desarrollo Administrativo.
 
 > <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2011)</small>
 
 La Unidad de Asesoría Jurídica estará adscrita directamente a la Secretaría, y contará con nivel de Dirección General.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2012)</small>
+
+La Secretaría Técnica estará contemplada dentro de la estructura de la Oficina dela (sic) persona titular de la Secretaría y contará con nivel de Dirección General; por lo cual le resultan aplicables, en lo conducente, las atribuciones genéricas de las Direcciones Generales previstas en el artículo 9 del presente Reglamento, así como las disposiciones relativas a las ausencias temporales y a la figura del encargado de despacho previstas por los artículos 21, 22 y 23 de este Reglamento.
 
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2011)</small>
 
@@ -535,6 +543,22 @@ XI. Suscribir los documentos relativos al ejercicio de sus facultades, así como
 
 XII. Las demás que le encomiende o delegue la persona titular de la Secretaría.
 
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2012)</small>
+
+Artículo 17 TER.- A la Secretaría Técnica le corresponderá ejercer las facultades específicas siguientes:
+
+I. Coordinar la integración de análisis administrativos y técnicos, mediante notas informativas o resúmenes de las unidades administrativas y organismos adscritos a la Secretaría, con la finalidad de conocer las condiciones de las Secretarías, Dependencias y Entidades del Estado y ponerlos a disposición de la persona titular de la Secretaría;
+
+II. Asesorar a la persona titular de la Secretaría en la coordinación de la planeación integral y análisis de las áreas de oportunidad planteadas por las unidades administrativas de la Secretaría, mediante la organización técnica de actividades necesarias para proporcionar un servicio con calidad;
+
+III. Planear y determinar propuestas de mejora en la interacción de la Secretaría con otras áreas de la Administración Pública, a través de encuestas al personal del Poder Ejecutivo, con el propósito de incrementar la eficiencia y productividad;
+
+IV. Proponer proyectos estratégicos a fin de contribuir al funcionamiento, consolidación y cumplimiento de las actividades inherentes a la persona titular de la Secretaría;
+
+V. Proponer estudios y análisis en el ámbito de competencia de la Secretaría, sugiriendo estrategias de acción y políticas públicas, y
+
+VI. Las demás que le otorguen otros ordenamientos legales o le sean delegadas por el titular de la Secretaría.
+
 ### CAPÍTULO QUINTO. DE LAS COORDINACIONES ADMINISTRATIVAS Y DE LAS UTICS DE LA ADMINISTRACIÓN PÚBLICA CENTRAL
 
 ###### Artículo 18.
@@ -614,3 +638,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Los Manuales de Organización, y de Políticas y Procedimientos de la Secretaría, que por razón de este Decreto, deban ser modificados, deberán actualizarse en un plazo no mayor de sesenta días hábiles; y en tanto se expidan dichos Manuales seguirán vigentes los anteriores. En su caso, la persona titular de la Secretaría resolverá las cuestiones de procedimiento y operación que se originen por la aplicación del presente Decreto.
+
+P.O. 27 DE JUNIO DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO. Se derogan las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+TERCERO. Los Manuales de Organización y de Políticas y Procedimientos de la Secretaría que, por razón de este Decreto, deban ser modificados, deberán actualizarse en un plazo no mayor de sesenta días hábiles; y en tanto se modifiquen seguirán vigentes los anteriores.
