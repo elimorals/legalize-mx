@@ -4,7 +4,7 @@ identifier: "CHH-ley-electoral-del-estado-de-chihuahua-70314"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-12"
-last_updated: "2012-04-21"
+last_updated: "2012-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ELECTORAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2012.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 12 de septiembre de 2009.
 
@@ -59,7 +59,9 @@ a) El ejercicio de los derechos y el cumplimiento de las obligaciones político-
 
 b) La constitución, registro, organización, función y prerrogativas de los partidos políticos, el régimen aplicable a las agrupaciones políticas, así como las formas en que ambas organizaciones pueden participar en los procesos electorales del Estado de Chihuahua;
 
-c) Las autoridades electorales encargadas de organizar las elecciones de diputados, de Gobernador, de miembros de los ayuntamientos y de síndicos, así como los procedimientos plebiscitarios, de referéndum y de revocación de mandato;
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
+
+c) Las autoridades electorales encargadas de organizar las elecciones de diputados, de Gobernador, de miembros de los ayuntamientos y de síndicos, así como los procedimientos plebiscitarios y de referéndum;
 
 d) La organización, funcionamiento y atribuciones del Instituto Estatal Electoral y del Tribunal Estatal Electoral, y
 
@@ -89,7 +91,9 @@ Artículo 3
 
 Artículo 4
 
-1. Votar en las elecciones populares, constituye un derecho y una obligación del ciudadano para integrar los Poderes del Estado y los ayuntamientos, así como para participar en los procesos plebiscitarios, de referéndum y de revocación de mandato. También es su derecho la igualdad de oportunidades entre hombres y mujeres para obtener cargos de elección popular y siempre que la naturaleza del cargo lo permita, la proporción atenderá a una relación de 50% máximo para cualquiera de los sexos.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
+
+1. Votar en las elecciones populares, constituye un derecho y una obligación del ciudadano para integrar los Poderes del Estado y los ayuntamientos, así como para participar en los procesos plebiscitarios y de referéndum. También es su derecho la igualdad de oportunidades entre hombres y mujeres para obtener cargos de elección popular y siempre que la naturaleza del cargo lo permita, la proporción atenderá a una relación de 50% máximo para cualquiera de los sexos.
 
 2. El voto es universal, libre, secreto, directo, personal e intransferible.
 
@@ -149,7 +153,9 @@ V. Fijación de resultados de la votación en el exterior de la casilla, y
 
 VI. Clausura de la casilla.
 
-h) La observación ciudadana de los procesos plebiscitarios, de referéndum y de revocación de mandato se ajustarán, en su caso, y por analogía a las disposiciones anteriores, y
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
+
+h) La observación ciudadana de los procesos plebiscitarios y de referéndum se ajustarán, en su caso, y por analogía a las disposiciones anteriores, e
 
 i) Los observadores podrán presentar informe de sus actividades ante la autoridad electoral, en los términos y tiempos que fije el Instituto Estatal Electoral. En ningún caso los informes, juicios, opiniones o conclusiones de los observadores tendrán efectos jurídicos sobre el proceso electoral y sus resultados.
 
@@ -163,7 +169,9 @@ b) Estar inscritos en la lista nominal de electores federal correspondiente, y
 
 c) Contar con la credencial para votar correspondiente.
 
-2. La lista nominal de electores federal, será el instrumento electoral que servirá de base para la celebración de las elecciones estatales, los procedimientos plebiscitarios, de referéndum y de revocación de mandato. El Instituto Estatal Electoral deberá entregarla a los partidos políticos cuando menos con un mes de anticipación a la jornada electoral, proporcionándoles también copia de las cintas magnéticas que lo contengan.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
+
+2. La lista nominal de electores federal, será el instrumento electoral que servirá de base para la celebración de las elecciones estatales, los procedimientos plebiscitarios y de referéndum. El Instituto Estatal Electoral deberá entregarla a los partidos políticos cuando menos con un mes de anticipación a la jornada electoral, proporcionándoles también copia de las cintas magnéticas que lo contengan.
 
 3. En cada distrito electoral el sufragio se emitirá en la sección electoral que comprenda al domicilio del ciudadano, salvo en los casos de excepción expresamente señalados por esta Ley.
 
@@ -219,25 +227,27 @@ Artículo 13
 
 3. Por cada candidato propietario de los ayuntamientos, se elegirá un suplente.
 
-(NOTA: EL 1 DE DICIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS DÉCIMO TERCERO Y DÉCIMO NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 63/2009 Y SUS ACUMULADAS 64/2009 Y 65/2009, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 2 DE DICIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
 
 Artículo 14
 
-1. Para la elección de diputados por el principio de mayoría relativa, el territorio del Estado de Chihuahua se dividirá en veintidós distritos electorales, bajo las siguientes bases:
+1. para la elección de diputados por el principio de mayoría relativa, el territorio del Estado de Chihuahua se dividirá en veintidós distritos electorales, bajo las siguientes bases:
 
-a) La aprobación de su demarcación territorial se hará mediante votación de por lo menos las dos terceras partes de los diputados presentes acatando escrupulosamente los principios establecidos en la Constitución Política del Estado, en su artículo 40;
+a) La aprobación de su demarcación territorial se hará mediante votación de por lo menos las dos terceras partes de los integrantes del Consejo General del Instituto Estatal Electoral, acatando escrupulosamente los principios establecidos en la Constitución Política del Estado, en su artículo 40;
 
 b) La demarcación territorial se hará acatando el principio de que a cada ciudadano corresponde un voto, por lo que el rango de más menos quince puntos porcentuales que establece la Constitución Política del Estado siempre tenderá a atemperarse, procurando que los distritos sean lo más homogéneos por lo que se refiere a la cantidad de los ciudadanos que contengan;
 
 c) La demarcación territorial se hará buscando la equidad para la contienda electoral;
 
-d) El Congreso, con base en el estudio técnico que le rindan, en su caso, el Instituto Federal Electoral o el Instituto Estatal Electoral, aprobará la demarcación de los distritos electorales uninominales;
+d) ElConsejo (sic) General del Instituto Estatal Electoral, con base en el estudio técnico que realice a través de sus órganos técnicos, o que, en su caso, le rinda el Instituto Federal Electoral, aprobará la demarcación de los distritos electorales uninominales.
 
-e) El estudio técnico a que hace referencia el inciso anterior, será elaborado a petición del propio Congreso por el Instituto Federal Electoral o el Instituto Estatal Electoral. Estos órganos recibirán toda la información necesaria para el desempeño de su encargo y tendrán en cuenta los lineamientos que marca al respecto la Constitución Política del Estado y la presente Ley;
+Cuando corresponda a los órganos técnicos del Consejo General del Instituto Estatal Electoral realizar el estudio, éste podrá solicitar el apoyo al Instituto Federal Electoral;
 
-f) Siempre se optará porque sea el Instituto Federal Electoral el que proponga el dictamen técnico en primer término, y cuando esto no sea posible, independientemente de la causa, lo realizará el Instituto Estatal Electoral, y será decidido por las dos terceras partes del Consejo General mediante acuerdo, remitiéndolo de inmediato al Congreso para que lo tome como base y lo apruebe de manera definitiva, y
+e) El estudio técnico a que hace referencia el inciso anterior, será elaborado por instrucción del Consejo General del Instituto Estatal Electoral, o mediante su solicitud, cuando se determine su elaboración por parte del Instituto Federal Electoral. Quien sea responsable de su preparación recibirá toda la información necesaria para el desempeño de su encargo y tendrán en cuenta los lineamientos que marca al respecto la Constitución Política del Estado y la presente Ley;
 
-g) Para cada elección, si fuese necesario y tomando en cuenta en su caso lo que establecen los incisos b) y e) del numeral 1 de este artículo, el Congreso emitirá una resolución conteniendo la demarcación territorial de los distritos electorales uninominales que ha de regir el proceso electoral respectivo, a más tardar el primer jueves de octubre del año previo a la elección.
+f) Siempre se optará porque sea el Instituto Estatal Electoral el que proponga el dictamen técnico en primer término, y cuando esto no sea posible, independientemente de la causa, se solicitará éste al Instituto Federal Electoral, y
+
+g) Para cada elección, si fuese necesario y tomando en cuenta en su caso lo que establecen los incisos b) y e) del numeral 1 de este artículo, el Instituto Estatal Electoral emitirá una resolución conteniendo la demarcación territorial de los distritos electorales uninominales que ha de regir el proceso electoral respectivo, a más tardar el primer jueves de octubre del año previo a la elección.
 
 ### CAPÍTULO SEGUNDO. DE LA REPRESENTACIÓN PROPORCIONAL PARA LA INTEGRACIÓN DEL CONGRESO DEL ESTADO Y DE LAS FÓRMULAS DE ASIGNACIÓN
 
@@ -253,11 +263,11 @@ Artículo 15
 
 5. Para efectos de la asignación de diputados bajo el principio de representación proporcional y en los términos de los artículos 16 de esta Ley y 40, párrafos tercero, séptimo y octavo, de la Constitución Política del Estado de Chihuahua, se entiende por votación estatal válida emitida o votación estatal emitida, el total de los votos depositados en las urnas para diputados de mayoría relativa, menos los votos de candidatos no registrados, los votos nulos y los votos a favor de los partidos políticos o coaliciones que no hayan alcanzado el 2% de la votación referida en el numeral 3 de este artículo.
 
-(NOTA: EL 1 DE DICIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS DÉCIMO SÉPTIMO Y DÉCIMO NOVENO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 63/2009 Y SUS ACUMULADAS 64/2009 Y 65/2009, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE DICIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
 Artículo 16
 
-1. NINGÚN PARTIDO POLÍTICO PODRÁ CONTAR CON MÁS DE VEINTE DIPUTADOS POR AMBOS PRINCIPIOS. En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total del Congreso que exceda en ocho puntos a su porcentaje de votación estatal válida emitida, referida en el numeral 4 del artículo 15 de esta Ley.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
+
+1. Ningún partido político podrá contar con más de veintidós diputados por ambos principios. En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total del Congreso que exceda en ocho puntos a su porcentaje de votación estatal válida emitida, referida en el numeral 4 del artículo 15 de esta Ley.
 
 2. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total del Congreso, superior a la suma del porcentaje de su votación aludida en el párrafo anterior, más el ocho por ciento.
 
@@ -1167,7 +1177,9 @@ c) Asegurar a los ciudadanos el ejercicio de los derechos político-electorales 
 
 d) Garantizar la celebración periódica y pacífica de las elecciones ordinarias y extraordinarias para renovar los poderes Ejecutivo y Legislativo, así como miembros de los ayuntamientos y síndicos;
 
-e) Organizar la celebración de plebiscitos, referéndums y revocación de mandato;
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
+
+e) Organizar la celebración de plebiscitos y referéndums;
 
 f) Velar por la autenticidad y efectividad del sufragio;
 
@@ -1337,7 +1349,9 @@ Artículo 93
 
 3. Las resoluciones se tomarán por mayoría simple de votos y, en caso de empate, el Consejero Presidente tendrá voto de calidad.
 
-4. Mientras no sean designados nuevos consejeros electorales, los que hayan sido designados podrán ser convocados por el Consejero Presidente para la celebración de procedimientos de plebiscito, referéndum y de revocación de mandato, o cuando la naturaleza del asunto a tratar lo requiera.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
+
+4. Mientras no sean designados nuevos consejeros electorales, los que hayan sido designados podrán ser convocados por el Consejero Presidente para la celebración de procedimientos de plebiscito y de referéndum, o cuando la naturaleza del asunto a tratar lo requiera.
 
 Artículo 94
 
@@ -1363,7 +1377,9 @@ I. Dictar todas las resoluciones que sean necesarias a fin de hacer efectivas la
 
 II. Aprobar la creación de partidos o agrupaciones políticas estatales; así como emitir el acuerdo relativo a los partidos políticos nacionales que pierden su registro en términos de lo establecido en el artículo 23, numeral 3;
 
-III. Llevar a cabo la preparación, desarrollo y vigilancia de los procesos electorales ordinarios y extraordinarios, plebiscitarios, de referéndum y de revocación de mandato; y cuidar el correcto funcionamiento de los organismos electorales;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2012)</small>
+
+III. Llevar a cabo la preparación, desarrollo y vigilancia de los procesos electorales ordinarios y extraordinarios, plebiscitarios y de referéndum; y cuidar el correcto funcionamiento de los organismos electorales;
 
 IV. Cuidar la adecuada integración y funcionamiento de las asambleas municipales;
 
@@ -1381,7 +1397,9 @@ X. Dar el acceso a los partidos políticos y coaliciones, en forma permanente, a
 
 XI. Distribuir durante las precampañas y campañas electorales, los tiempos de radio y televisión que correspondan a los partidos políticos;
 
-XII. Conocer las quejas y denuncias que se presenten durante y fuera del proceso electoral, y en los procesos de plebiscito, referéndum y revocación de mandato, e imponer, en su caso, las sanciones que correspondan;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2012)</small>
+
+XII. Conocer las quejas y denuncias que se presenten durante y fuera del proceso electoral, y en los procesos de plebiscito y referéndum, e imponer, en su caso, las sanciones que correspondan;
 
 XIII. Solicitar al Instituto Federal Electoral el tiempo de radio y televisión que el Instituto Estatal Electoral requiera para el cumplimiento de sus fines;
 
@@ -1399,7 +1417,9 @@ XIX. Informar al Congreso del Estado sobre los puntos que le fuesen solicitados;
 
 XX. Recabar de las asambleas municipales, así como de las demás autoridades y ciudadanos, la información y certificaciones que estime conveniente para el esclarecimiento de hechos relacionados con los procedimientos administrativos sancionadores y, en general, con el proceso electoral;
 
-XXI. Gestionar, a petición de los partidos políticos y de los representantes ciudadanos en los procesos de plebiscito, referéndum o revocación de mandato, cuando fuere posible, acceso directo y rápido a la información que requieran sobre documentación en poder o bajo responsabilidad de los organismos electorales;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2012)</small>
+
+XXI. Gestionar, a petición de los partidos políticos y de los representantes ciudadanos en los procesos de plebiscito o referéndum, cuando fuere posible, acceso directo y rápido a la información que requieran sobre documentación en poder o bajo responsabilidad de los organismos electorales;
 
 XXII. En lo referente a capacitación de integrantes de mesas directivas de casilla:
 
@@ -1415,7 +1435,9 @@ XXV. Declarar la validez de las elecciones de las secciones municipales, cuando 
 
 XXVI. Aprobar el proyecto del número de casillas básicas, contiguas, extraordinarias y especiales a instalar en cada municipio, que conforme a esta Ley elabore el Consejero Presidente;
 
-XXVII. Llevar a cabo los procedimientos plebiscitarios, de referéndum y de revocación de mandato;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2012)</small>
+
+XXVII. Llevar a cabo los procedimientos plebiscitarios y de referéndum;
 
 XXVIII. Conocer, discutir y, en su caso, aprobar los presupuestos de ingresos y egresos del Instituto Estatal Electoral, así como los correspondientes informes anuales de su ejercicio;
 
@@ -1427,9 +1449,9 @@ XXXI. Integrar las coordinaciones y comisiones que se requieran para el adecuado
 
 XXXII. Determinar los lugares de uso común en que podrá colocarse o fijarse la propaganda electoral, previo acuerdo con las autoridades correspondientes;
 
-(NOTA: EL 1 DE DICIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS DÉCIMO CUARTO Y DÉCIMO NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 63/2009 Y SUS ACUMULADAS 64/2009 Y 65/2009, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XXXIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE DICIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2012)</small>
 
-XXXIII. Solicitar al Instituto Federal Electoral, PREVIA APROBACIÓN DEL CONGRESO DEL ESTADO, el estudio en el que se establezcan las condiciones, costos y plazos para que aquél asuma la organización del proceso electoral local;
+XXXIII. Solicitar al Instituto Federal Electoral el estudio en el que se establezcan las condiciones, costos y plazos para que aquél asuma la organización del proceso electoral local;
 
 XXXIV. Dictar los acuerdos generales en los que se contengan las bases a que se sujetará el Servicio Profesional Electoral;
 
@@ -1473,7 +1495,9 @@ m) Proponer al Consejo General a partir de su instalación, junto con los consej
 
 n) Convocar por escrito a los representantes de los partidos políticos para que a más tardar durante el mes de enero del año siguiente al de la elección y ante la presencia de éstos, se proceda a la destrucción del material electoral;
 
-ñ) Convocar a los consejeros electorales para la celebración de procedimientos de plebiscito, referéndum y revocación de mandato;
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
+
+ñ) Convocar a los consejeros electorales para la celebración de procedimientos de plebiscito y referéndum;
 
 o) La administración del Instituto y representarlo en juicio y fuera de él, con todas las facultades de apoderado general para pleitos y cobranzas, gozando para tales efectos de las más amplias facultades de representación y ejecución, pudiendo otorgar poderes y sustituir total o parcialmente tales facultades a terceros para efectos de la representación judicial;
 
@@ -2239,9 +2263,9 @@ Artículo 143
 
 1. Durante el tiempo que comprendan las campañas electorales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes federales, estatales, como de los municipios y cualquier otro ente público.
 
-(NOTA: EL 1 DE DICIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS DÉCIMO QUINTO Y DÉCIMO NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 63/2009 Y SUS ACUMULADAS 64/2009 Y 65/2009, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE DICIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
 
-Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos, cultural y de salud, las necesarias para la protección civil en casos de emergencia, LAS TENDIENTES A INCENTIVAR EL PAGO DE IMPUESTOS, LAS DE PROMOCIÓN TURÍSTICA, LAS RELATIVAS A LICITACIONES PÚBLICAS, O LAS DE BENEFICENCIA, siempre y cuando no se incluya ninguna referencia o logotipo del gobierno federal, del estado o ayuntamiento de que se trate. Asimismo, la publicación de informes que por mandato legal deban realizarse en los medios de comunicación social.
+Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos, cultural y de salud y las necesarias para la protección civil en casos de emergencia, siempre y cuando no se incluya ninguna referencia o logotipo del gobierno federal, del estado o ayuntamiento de que se trate. Asimismo, la publicación de informes que por mandato legal deban realizarse en los medios de comunicación social.
 
 2. Podrán permanecer en internet los portales de los entes públicos, siempre y cuando tengan carácter informativo o de medio para la realización de trámites o servicios y no se difundan en los mismos logros a su favor.
 
@@ -3159,13 +3183,9 @@ Presidente de la asamblea para atender los requerimientos que hicieren el Tribun
 
 14. El presidente del órgano electoral que corresponda, realizará en sesión plenaria la suma de los resultados consignados en el acta de cada grupo de trabajo y asentará el resultado en el acta final de escrutinio y cómputo de la elección de que se trate.
 
-(NOTA: EL 1 DE DICIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS DÉCIMO PRIMERO, DÉCIMO SEGUNDO Y DÉCIMO NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 63/2009 Y SUS ACUMULADAS 64/2009 Y 65/2009, DECLARÓ LA INVALIDEZ DEL NUMERAL 15 DE ESTE ARTÍCULO INDICADOS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE DICIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+15. (DEROGADO, P.O. 27 DE JUNIO DE 2012)
 
-15. LOS ERRORES CONTENIDOS EN LAS ACTAS ORIGINALES DE ESCRUTINIO Y CÓMPUTO QUE HAYAN SIDO CORREGIDOS CONFORME AL PROCEDIMIENTO ESTABLECIDO EN ESTE ARTÍCULO, NO PODRÁN INVOCARSE COMO CAUSA DE NULIDAD ANTE EL TRIBUNAL ESTATAL ELECTORAL.
-
-(NOTA: EL 1 DE DICIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS DÉCIMO PRIMERO, DÉCIMO SEGUNDO Y DÉCIMO NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 63/2009 Y SUS ACUMULADAS 64/2009 Y 65/2009, DECLARÓ LA INVALIDEZ DEL NUMERAL 16 DE ESTE ARTÍCULO INDICADOS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE DICIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-16. EN NINGÚN CASO PODRÁ SOLICITARSE AL TRIBUNAL ESTATAL ELECTORAL QUE REALICE RECUENTO DE VOTOS RESPECTO DE LAS CASILLAS QUE HAYAN SIDO OBJETO DE DICHO PROCEDIMIENTO ANTE EL INSTITUTO ESTATAL ELECTORAL.
+16. (DEROGADO, P.O. 27 DE JUNIO DE 2012)
 
 Artículo 211
 
@@ -3331,7 +3351,9 @@ a) Resolver en forma definitiva e inatacable:
 
 I. Los medios de impugnación o procedimientos que se presenten durante los procesos electorales ordinarios en contra de los actos o resoluciones de los órganos electorales;
 
-II. Los medios de impugnación o procedimientos que se presenten en procesos electorales extraordinarios, en plebiscitos, de referéndum y de revocación de mandato;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2012)</small>
+
+II. Los medios de impugnación o procedimientos que se presenten en procesos electorales extraordinarios, en plebiscitos y de referéndum;
 
 III. Los medios de impugnación o procedimientos que se interpongan durante el tiempo que transcurra entre dos procesos electorales ordinarios por actos o resoluciones de los órganos electorales;
 
@@ -5333,21 +5355,31 @@ Artículo 375
 
 La sustanciación y resolución de los incidentes, se sujetará a las reglas establecidas en esta Ley, el Reglamento Interior del Tribunal Estatal Electoral y los acuerdos generales que éste, en su caso, dicte.
 
-# LIBRO OCTAVO. DE LOS PROCESOS PLEBISCITARIOS, DE REFERÉNDUM Y DE REVOCACIÓN DE MANDATO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE JUNIO DE 2012)</small>
+
+# LIBRO OCTAVO. DE LOS PROCESOS PLEBISCITARIOS Y DE REFERÉNDUM
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 Artículo 376
 
-1. Este Libro tiene por objeto establecer los procedimientos correspondientes para que los ciudadanos del Estado hagan valer, ante las autoridades competentes, las figuras de plebiscito, referéndum y revocación de mandato, previstas en la Constitución Política del Estado.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
+
+1. Este Libro tiene por objeto establecer los procedimientos correspondientes para que los ciudadanos del Estado hagan valer, ante las autoridades competentes, las figuras de plebiscito y referéndum, previstas en la Constitución Política del Estado.
 
 2. Es improcedente el plebiscito, así como el referéndum, tratándose de leyes, reglamentos o acuerdos de carácter general en materia fiscal o tributaria.
 
-3. No podrán promover ni votar en los procesos de plebiscito, referéndum y revocación de mandato las personas que se encuentren en los supuestos del artículo 23 de la Constitución Política del Estado.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
 
-4. El Instituto Estatal Electoral será el órgano encargado de la organización y desarrollo de los procesos plebiscitarios, referéndum y revocación de mandato. El Instituto Estatal Electoral será la autoridad competente para ordenar su organización y desarrollo, así como para efectuar el cómputo de los resultados y dictar, en su caso, los actos jurídicos que sean necesarios, en los términos de la Constitución Política del Estado y de esta Ley, para lograr la debida observancia de la voluntad de los electores.
+3. No podrán promover ni votar en los procesos de plebiscito y referéndum las personas que se encuentren en los supuestos del artículo 23 de la Constitución Política del Estado.
 
-5. En los procesos plebiscitarios, de referéndum y revocación de mandato, el Consejo General, el Instituto Estatal Electoral y el Tribunal Estatal Electoral, aplicarán en lo conducente las disposiciones relativas a los procesos electorales ordinarios con las salvedades previstas en este Libro.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
+
+4. El Instituto Estatal Electoral será el órgano encargado de la organización y desarrollo de los procesos plebiscitarios y referéndum. El Instituto Estatal Electoral será la autoridad competente para ordenar su organización y desarrollo, así como para efectuar el cómputo de los resultados y dictar, en su caso, los actos jurídicos que sean necesarios, en los términos de la Constitución Política del Estado y de esta Ley, para lograr la debida observancia de la voluntad de los electores.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
+
+5. En los procesos plebiscitarios y de referéndum, el Consejo General, el Instituto Estatal Electoral y el Tribunal Estatal Electoral, aplicarán en lo conducente las disposiciones relativas a los procesos electorales ordinarios con las salvedades previstas en este Libro.
 
 ## TÍTULO SEGUNDO. DEL PLEBISCITO
 
@@ -5447,65 +5479,19 @@ Artículo 385
 
 3. Si el Congreso del Estado no deroga y ordena la publicación del decreto correspondiente en el término a que se refiere el numeral 1 de este artículo, el Instituto Estatal Electoral ordenará la publicación del resultado del referéndum, mismo que surtirá efectos como si lo hubiere hecho el Congreso.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JUNIO DE 2012)</small>
+
 ## TÍTULO CUARTO. DE LA REVOCACIÓN DEL MANDATO POPULAR
 
-(NOTA: EL 1 DE DICIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS DÉCIMO SEXTO Y DÉCIMO NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 63/2009 Y SUS ACUMULADAS 64/2009 Y 65/2009, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 2 DE DICIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+Artículo 386 (DEROGADO, P.O. 27 DE JUNIO DE 2012)
 
-Artículo 386
+Artículo 387 (DEROGADO, P.O. 27 DE JUNIO DE 2012)
 
-1. Se entiende por revocación del mandato de los funcionarios públicos electos mediante el voto, el procedimiento por el cual los ciudadanos del Estado, los distritos, municipios o secciones municipales, según sea el caso, manifiestan su voluntad de destituir de su cargo a un ciudadano electo popularmente.
+Artículo 388 (DEROGADO, P.O. 27 DE JUNIO DE 2012)
 
-2. Es procedente la revocación cuando haya transcurrido la tercera parte o más del periodo para el cual fue electo el funcionario.
+Artículo 389 (DEROGADO, P.O. 27 DE JUNIO DE 2012)
 
-3. La solicitud de revocación deberá estar suscrita cuando menos por el 10% de los ciudadanos del Estado, el distrito, el municipio, o la sección, según se trate de remover, respectivamente, al gobernador; los diputados; los presidentes municipales, presidentes seccionales, regidores o síndicos.
-
-(NOTA: EL 1 DE DICIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS DÉCIMO SEXTO Y DÉCIMO NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 63/2009 Y SUS ACUMULADAS 64/2009 Y 65/2009, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 2 DE DICIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-Artículo 387
-
-1. La solicitud para remover la revocación de un funcionario público electo mediante el voto, podrá presentarse tan pronto como haya transcurrido una tercera parte del periodo que para cada caso establezca la Constitución Política del Estado; y cumplir además con los siguientes requisitos:
-
-a) Dirigirse al Instituto Estatal Electoral;
-
-b) Identificar al funcionario o funcionarios de elección popular. En este caso la solicitud deberá ir firmada por los ciudadanos y acompañada de copia, de ambas caras, de su credencial de elector para votar, y
-
-c) La causa o causas por virtud de las cuales inician el proceso de revocación. Para este efecto, los iniciadores del proceso deberán invocar las causas previstas en la legislación aplicable: En el caso de Gobernador y diputados, en la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua para la procedencia de juicio político; y en los casos de presidentes municipales, síndicos y regidores, en el Código Municipal para el Estado de Chihuahua.
-
-2. Recibida la solicitud el Instituto Estatal Electoral, por medio de su Consejo General, calificará su procedencia en un término no mayor a ocho días hábiles que se contarán a partir del día siguiente de la presentación de la solicitud. Para tal efecto el Instituto Estatal Electoral analizará de oficio lo siguiente:
-
-a) Si la solicitud se ha promovido con posterioridad a que haya transcurrido una tercera parte del periodo constitucional para el cual fue electo el funcionario sujeto a remoción;
-
-b) Si el número de ciudadanos promoventes alcanza el porcentaje requerido, y
-
-c) La expresión de causas que se invocan para solicitar la revocación, requisito sin el cual se desechará de oficio.
-
-3. Si la solicitud no cumple con los requisitos señalados en este artículo, el Instituto Estatal Electoral, de oficio, la declarará improcedente. Si el Instituto Estatal Electoral no acuerda y determina su procedencia en el plazo a que se refiere el párrafo anterior, la solicitud se considerará aceptada.
-
-(NOTA: EL 1 DE DICIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS DÉCIMO SEXTO Y DÉCIMO NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 63/2009 Y SUS ACUMULADAS 64/2009 Y 65/2009, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 2 DE DICIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-Artículo 388
-
-Una vez admitida la solicitud, se ordenará la consulta de inmediato, de acuerdo a los siguientes plazos:
-
-a) Si afecta al Gobernador del Estado, dentro de los 60 días posteriores a dicha declaración.
-
-b) Si afecta a uno o más diputados, dentro de 45 días posteriores a dicha declaración.
-
-c) Si afecta a un presidente municipal, presidente seccional, regidor o síndico, dentro de los 30 días posteriores a dicha declaración.
-
-(NOTA: EL 1 DE DICIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS DÉCIMO SEXTO Y DÉCIMO NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 63/2009 Y SUS ACUMULADAS 64/2009 Y 65/2009, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 2 DE DICIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-Artículo 389
-
-1. El voto será libre, secreto y obligatorio. Votarán por un “sí” los electores cuya voluntad sea que se revoque el mandato conferido al funcionario de que se trate; y por un “no” los que estén a favor de que continúe en el cargo para el cual fue electo.
-
-2. Para que la revocación del mandato surta sus efectos de destitución, se requerirá una votación emitida superior al número de sufragios que el funcionario impugnado obtuvo para triunfar en las elecciones. En caso contrario, quedará ratificado y ya no podrá ser objeto de un nuevo procedimiento revocatorio.
-
-(NOTA: EL 1 DE DICIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS DÉCIMO SEXTO Y DÉCIMO NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 63/2009 Y SUS ACUMULADAS 64/2009 Y 65/2009, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 2 DE DICIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-Artículo 390
-
-El Instituto Estatal Electoral efectuará el cómputo del resultado y ordenará su publicación en el Periódico Oficial del Estado. Así mismo, ordenará se publique que ha procedido la revocación a efecto de que conforme a la Ley se proceda a sustituir al funcionario. Para el caso de que la revocación haya sido rechazada, igualmente se procederá a su publicación en el Periódico Oficial del Estado. Si se impugnan los resultados el Tribunal Estatal Electoral, en lo conducente, acatará lo establecido en este artículo.
+Artículo 390 (DEROGADO, P.O. 27 DE JUNIO DE 2012)
 
 > <small>(F. DE E. P.O. 3 DE OCTUBRE DE 2009)</small>
 
@@ -5558,3 +5544,13 @@ P.O. 21 DE ABRIL DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE JUNIO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de las Iniciativas, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado. Realizado que sea, envíese al Titular del Poder Ejecutivo Estatal para su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Por lo que hace a la reforma constitucional contenida en el Artículo Primero del presente Decreto, ésta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. Las reformas y derogaciones a la Ley Electoral del Estado de Chihuahua, contenidas en el Artículo Segundo del presente Decreto, surtirán vigencia un día después de que lo haga la reforma constitucional señalada.
