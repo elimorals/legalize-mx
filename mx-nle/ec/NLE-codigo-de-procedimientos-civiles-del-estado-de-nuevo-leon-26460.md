@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2012-06-15"
+last_updated: "2012-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -1681,9 +1681,13 @@ Cuando la persona a quien se impute la filiación residiere fuera del lugar del 
 
 Artículo 190 Bis III.- En el supuesto de que se acepte la filiación, previa ratificación de la misma ante la Autoridad, se ordenará mediante oficio el levantamiento del acta de reconocimiento ante el Oficial del Registro Civil en los términos de ley, dándose por concluido este acto.
 
-> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Artículo 190 Bis IV.- En caso de negativa de la filiación, se ordenará la práctica de la prueba biológica respectiva, misma que deberá realizarse ante una institución que haya sido certificada con capacidad para realizar este tipo de pruebas por la Secretaría de Salud del Estado. En el mismo proveído se señalará la fecha para su desahogo, a fin de que se tomen las muestras respectivas, previa citación de las personas que se someterán a dicha prueba, constituyéndose el juez en el lugar señalado para la práctica de la prueba, levantando acta circunstanciada de lo que acontezca. La institución designada tendrá un plazo de treinta días para rendir el dictamen, pudiéndose prorrogar dicho término a solicitud de la misma.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2012)</small>
+
+Artículo 190 Bis IV.- En caso de negativa de la filiación, se ordenará la práctica de la prueba biológica respectiva, misma que deberá realizarse ante una institución con capacidad para realizar este tipo de pruebas y que cumpla con los requisitos establecidos por la Secretaría de Salud del Estado. En el mismo proveído se señalará la fecha para su desahogo, a fin de que se tomen las muestras respectivas, previa citación de las personas que se someterán a dicha prueba, constituyéndose el juez en el lugar señalado para la práctica de la prueba, levantando acta circunstanciada de lo que acontezca. La institución designada tendrá un plazo de treinta días para rendir el dictamen, pudiéndose prorrogar dicho término a solicitud de la misma.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2003)</small>
 
 El dictamen remitido a la autoridad judicial versará únicamente sobre los datos relativos a la filiación, conservándose en la confidencialidad los demás datos o características genéticas que pudiera arrojar la misma, a fin de preservar los derechos que en cuanto a su intimidad le asisten a la persona.
 
@@ -9660,3 +9664,9 @@ P.O. 15 DE JUNIO DE 2012.
 Primero.- Las reformas al Artículo 287 Bis 2, del Artículo Segundo del presente Decreto, entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Segundo.- Los Artículos 98 Bis a 98 Bis 5; así como la reforma al Artículo 287 Bis 3 señalados en el Artículo Segundo del presente Decreto; así como las demás disposiciones de los Artículos Primero, Segundo y Tercero del presente Decreto, entrarán en vigor cuando inicie la vigencia de las reformas a la Ley Orgánica del Poder Judicial del Estado de Nuevo León, que establece, las atribuciones de las autoridades jurisdiccionales en la materia.
+
+P.O. 27 DE JUNIO DE 2012.
+
+Primero.- El presente Decreto entrará en vigor a los 30 días después de su publicación en el Periódico Oficial del Estado de Nuevo León,
+
+Segundo.- Dentro del término señalado en el Artículo anterior la Secretaría de Salud, deberá de establecer los requisitos a cumplir por las Instituciones para la realización de las pruebas de ADN.
