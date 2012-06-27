@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2012-06-06"
+last_updated: "2012-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 6 DE JUNIO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -2421,6 +2419,8 @@ La muerte de uno de los cónyuges pone fin al juicio de divorcio, y los heredero
 
 Ejecutoriada una sentencia de divorcio, el juez de Primera Instancia remitirá copia de ella al Oficial del Registro Civil ante quien se celebró el matrimonio, para que levante el acta correspondiente y, además, para que publique un extracto de la resolución, durante quince días, en las tablas destinadas al efecto.
 
+(NOTA: EL 19 DE FEBRERO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2018, "SE DECLARA LA INVALIDEZ DE LOS ARTÍCULOS 140 Y 148, EN SENDAS PORCIONES NORMATIVAS "EL HOMBRE Y LA MUJER" DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN, REFORMADO MEDIANTE DECRETO NÚMERO 317, PUBLICADO EN LA SECCIÓN TERCERA DEL PERIÓDICO OFICIAL DE DICHA ENTIDAD EL OCHO DE ENERO DE DOS MIL DIECIOCHO Y, EN VÍA DE CONSECUENCIA, LA DEL ARTÍCULO 147, EN LAS PORCIONES NORMATIVAS "UN SOLO HOMBRE Y UNA SOLA MUJER" Y "PERPETUAR LA ESPECIE", DEL REFERIDO CÓDIGO CIVIL EN LA INTELIGENCIA DE QUE, EN LA INTERPRETACIÓN Y APLICACIÓN DE LAS PORCIONES NORMATIVAS "ENTRE UN SOLO HOMBRE Y UNA SOLA MUJER" Y "COMO MARIDO Y MUJER", CONTENIDAS EN DIVERSOS PRECEPTOS DEL CÓDIGO IMPUGNADO Y EN OTROS ORDENAMIENTOS DE LA PROPIA ENTIDAD FEDERATIVA VINCULADOS TANTO CON EL MATRIMONIO COMO CON EL CONCUBINATO (COMPRENDIDO EN EL CAPÍTULO XI, TITULO QUINTO, LIBRO PRIMER, DEL CÓDIGO CIVIL LOCAL), DEBERÁN ENTENDERSE QUE ESTAS INSTITUCIONES INVOLUCRAN A DOS PERSONAS DEL MISMO O DIFERENTE SEXO.", LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO XI. DEL CONCUBINATO
@@ -3105,11 +3105,13 @@ Cuando el padre y la madre que no vivan juntos reconozcan al hijo en el mismo ac
 
 En caso de que el reconocimiento se efectúe sucesivamente por los padres que no viven juntos, ejercerá la custodia el que primero lo hubiere reconocido, salvo que se conviniere otra cosa entre los padres, y siempre que el juez no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y del Ministerio Público.
 
-> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
 
 ###### Art. 381 Bis.
 
-La paternidad y la maternidad pueden probarse por cualquiera de los medios ordinarios. Para estos efectos, la prueba del ADN, prueba biológica molecular de la caracterización del ácido desoxirribonucleico de las células, realizada por instituciones certificadas para este tipo de pruebas por la Secretaría de Salud del Estado, tendrá validez plena. Si se propusiera esta prueba y el presunto progenitor no asistiere a la práctica de la prueba o se negare a proporcionar la muestra necesaria, se presumirá la filiación, salvo prueba en contrario.
+La paternidad y la maternidad pueden probarse por cualquiera de los medios ordinarios. Para estos efectos, la prueba del ADN, prueba biológica molecular de la caracterización del ácido desoxirribonucleico de las células, realizada por instituciones que cumplan con los requisitos establecidos por la Secretaría de Salud del Estado para efectuar este tipo de pruebas, tendrá validez plena. Si se propusiera esta prueba y el presunto progenitor no asistiere a la práctica de la prueba o se negare a proporcionar la muestra necesaria, se presumirá la filiación, salvo prueba en contrario.
 
 > <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2003)</small>
 
@@ -17010,6 +17012,12 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 > <small>(F. DE E., P.O. 6 DE JUNIO DE 2012)</small>
 
 Segundo.- Se suspende la vigencia de los Artículos 277, 323 Bis 2 al 323 Bis 7 del Código Civil para el Estado de Nuevo León; así como los diversos 23 fracciones XVIII y XXV, 24 fracciones XIII y XIV, y 25 fracciones III y VI de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Nuevo León; exclusivamente en lo que se refiere las ordenes de protección, hasta en tanto entren en vigor las reformas correspondientes al Código de Procedimientos Civiles y al Código de Procedimientos Penales para el Estado de Nuevo León, así como las relativas a la Ley Orgánica del Poder Judicial del Estado de Nuevo León que establece las atribuciones de las autoridades jurisdiccionales en la materia.
+
+P.O. 27 DE JUNIO DE 2012.
+
+Primero.- El presente Decreto entrará en vigor a los 30 días después de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Dentro del término señalado en el Artículo anterior la Secretaría de Salud, deberá de establecer los requisitos a cumplir por las Instituciones para la realización de las pruebas de ADN.
 
 ###### ARTICULO TERCERO.
 
