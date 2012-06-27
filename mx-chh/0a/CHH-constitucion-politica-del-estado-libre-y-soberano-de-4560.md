@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2012-05-30"
+last_updated: "2012-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2012.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -325,9 +325,9 @@ Son ciudadanos del Estado los hombres y las mujeres que además de ser ciudadano
 
 Son derechos de los ciudadanos chihuahuenses:
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2012)</small>
 
-I.- Votar en las elecciones populares del Estado, así como participar en los procesos plebiscitarios, de referéndum y de revocación de mandato.
+I.- Votar en las elecciones populares del Estado, así como participar en los procesos plebiscitarios y de referéndum;
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -427,11 +427,7 @@ Los partidos políticos tienen como fin promover la participación del pueblo en
 
 Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen esta Constitución y las leyes.
 
-(NOTA: EL 1 DE DICIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS DÉCIMO OCTAVO Y DÉCIMO NOVENO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 63/2009 Y SUS ACUMULADAS 64/2009 Y 65/2009, DECLARÓ LA INAPLICACIÓN DEL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE DICIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2008)</small>
-
-ES REVOCABLE EL MANDATO DE LOS SERVIDORES PÚBLICOS ELECTOS MEDIANTE EL VOTO. LA SOLICITUD DE REVOCACIÓN DEL MANDATO DEBERÁ SER SUSCRITA CUANDO MENOS POR EL 10% DE LOS CIUDADANOS DEL ESTADO, MUNICIPIO O DISTRITO, SEGÚN SEA EL CASO Y PODRÁ PRESENTARSE UNA VEZ TRANSCURRIDO UNA TERCERA PARTE DEL PERÍODO PARA EL CUAL FUE ELECTO EL FUNCIONARIO, PARA ESTOS EFECTOS QUEDAN COMPRENDIDOS EN LA CATEGORÍA DE SERVIDORES PÚBLICOS REVOCABLES DE MANDATO, EL GOBERNADOR, LOS DIPUTADOS, PRESIDENTES MUNICIPALES, REGIDORES Y SÍNDICOS. LA LEY ESTABLECERÁ LAS BASES Y PROCEDIMIENTOS PARA LA REVOCACIÓN, ASÍ COMO LOS MEDIOS DE IMPUGNACIÓN.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 27 DE JUNIO DE 2012)</small>
 
 > <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2009)</small>
 
@@ -575,9 +571,9 @@ El Secretario Ejecutivo será nombrado con el voto de las dos terceras partes de
 
 El Consejero Presidente y los consejeros electorales participan con voz y voto. Aquél tendrá voto de calidad. Los restantes miembros del Consejo General participan sólo con voz, pero sin voto.
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
 
-La duración del cargo de Consejero Presidente, así como la de los demás consejeros electorales, será de seis años, y estos últimos se elegirán de forma escalonada cada tres años. En ningún caso los consejeros podrán ser reelectos. La ley regulará lo relativo al llamamiento de los consejeros electorales designados para el proceso electoral inmediato anterior, para la celebración de procesos de plebiscito, referéndum y revocación de mandato.
+La duración del cargo de Consejero Presidente, así como la de los demás consejeros electorales, será de seis años, y estos últimos se elegirán de forma escalonada cada tres años. En ningún caso los consejeros podrán ser reelectos. La ley regulará lo relativo al llamamiento de los consejeros electorales designados para el proceso electoral inmediato anterior, para la celebración de procesos de plebiscito y referéndum.
 
 Las sesiones de los órganos electorales serán públicas y sus resoluciones recurribles ante el Tribunal Estatal Electoral, conforme disponga la ley.
 
@@ -585,9 +581,9 @@ Las actividades, funciones y servicios de carácter electoral, incluidas las rel
 
 El Instituto Estatal Electoral podrá realizar convenios con el Instituto Federal Electoral, para que éste organice los procesos electorales locales.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
 
-El Instituto Estatal Electoral tendrá a su cargo, en forma integral y directa, además de las que le determine la ley, las actividades relativas a la capacitación y educación cívica, los derechos y prerrogativas de las agrupaciones y de los partidos políticos, impresión de materiales electorales, preparación de la jornada electoral, los cómputos en los términos que señale la ley, declaración de validez y otorgamiento de constancias en las elecciones de Gobernador, diputados y miembros de los ayuntamientos, así como la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales. Las sesiones de todos los órganos colegiados de dirección serán públicas en los términos que señale la ley.
+El Instituto Estatal electoral tendrá a su cargo, en forma integral y directa, además de las que le determine la ley, las actividades relativas a la capacitación y educación cívica, geografía electoral, los derechos y prerrogativas de las agrupaciones y de los partidos políticos, impresión de materiales electorales, preparación de la jornada electoral, los cómputos en los términos que señale la ley, declaración de validez y otorgamiento de constancias en las elecciones de Gobernador, diputados y miembros de los ayuntamientos, así como la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales. Las sesiones de todos los órganos colegiados de dirección serán públicas en los términos que señale la ley.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
@@ -603,17 +599,17 @@ Los Magistrados serán designados cada uno por el voto de cuando menos las dos t
 
 Los Magistrados del Tribunal Estatal Electoral durarán en su encargo seis años, pudiendo ser reelectos por una sola ocasión. Recibirán remuneración igual a la que perciben los magistrados del Supremo Tribunal de Justicia del Estado.
 
-(NOTA: EL 1 DE DICIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS DÉCIMO OCTAVO Y DÉCIMO NOVENO ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 63/2009 Y SUS ACUMULADAS 64/2009 Y 65/2009, DECLARÓ LA INAPLICACIÓN DEL PÁRRAFO CUARTO DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE DICIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2009)</small>
-
-Corresponde al Tribunal Estatal Electoral resolver en forma definitiva e inatacable. Las (sic) impugnaciones que se presenten en materia electoral, de referéndum, plebiscito y REVOCACIÓN DE MANDATO, así como las que se interpongan contra las declaraciones de validez y el otorgamiento de constancias de mayoría y de asignación.
+Corresponde al Tribunal Estatal Electoral resolver en forma definitiva e inatacable las impugnaciones que se presenten en materia electoral, de referéndum y plebiscito, así como las que se interpongan contra las declaraciones de validez y el otorgamiento de constancias de mayoría y de asignación.
 
 > <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2009)</small>
 
 En la elección de Gobernador, el Instituto Estatal Electoral dará cuenta al Congreso de la declaratoria de validez y de la constancia de mayoría que hubiere expedido, y en caso de impugnación, el Tribunal Estatal Electoral dará cuenta al Congreso de su resolución para que éste, mediante formal decreto haga la declaratoria de Gobernador electo, que a su vez turnará al Ejecutivo para su publicación en el Periódico Oficial del Estado. Si el Ejecutivo o el Congreso no cumplieren en el término que la Ley señale, el Instituto Estatal Electoral o el Tribunal Estatal Electoral, en caso de impugnación ordenarán la publicación de la mencionada declaratoria en el Periódico Oficial.
 
-El Tribunal Estatal Electoral funcionará en pleno durante los procesos electorales, los plebiscitarios, de referéndum y de revocación de mandato; podrán establecerse salas regionales. La Ley establecerá la forma de su organización y funcionamiento.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
+
+El Tribunal Estatal Electoral funcionará en pleno durante los procesos electorales, los plebiscitarios y de referéndum; podrán establecerse salas regionales. La Ley establecerá la forma de su organización y funcionamiento.
 
 Concluido cada proceso electoral, el Tribunal Estatal Electoral presentará al Congreso y hará público un informe del desempeño de sus funciones.
 
@@ -631,11 +627,11 @@ El Tribunal Estatal Electoral sólo podrá declarar la nulidad de una elección 
 
 Ningún ciudadano puede ser detenido la víspera o el día de las elecciones, sino por delito flagrante; en este caso, la autoridad tomará las providencias necesarias para la aprehensión del delincuente, después que el mismo hubiere depositado su voto. La legislación penal tipificará los delitos, faltas administrativas y sanciones en materia electoral.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
 
 ###### Art. 39.
 
-Todo acto u omisión ilegales en los procesos electorales, plebiscitarios, de referéndum y de revocación de mandato será causa de responsabilidad. La ley determinará las sanciones correspondientes.
+Todo acto u omisión ilegales en los procesos electorales, plebiscitarios o de referéndum será causa de responsabilidad. La ley determinará las sanciones correspondientes
 
 ## TITULO VII.
 
@@ -653,9 +649,9 @@ El Congreso se integrará con representantes del pueblo de Chihuahua, electos co
 
 El Congreso se compondrá de treinta y tres diputados, de los cuales veintidós serán electos en distritos electorales uninominales, según el principio de mayoría relativa, y once por el principio de representación proporcional. Los diputados de mayoría relativa y los de representación proporcional, tendrán la misma categoría e iguales derechos y obligaciones.
 
-(NOTA: EL 1 DE DICIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS DÉCIMO OCTAVO Y DÉCIMO NOVENO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 63/2009 Y SUS ACUMULADAS 64/2009 Y 65/2009, DECLARÓ LA INAPLICACIÓN DEL TERCER PÁRRAFO DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE DICIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
 
-NINGÚN PARTIDO POLÍTICO PODRÁ CONTAR CON MÁS DE 20 DIPUTADOS POR AMBOS PRINCIPIOS. En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total del Congreso que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total del Congreso, superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento.
+Ningún partido político podrá contar con más de veintidós diputados por ambos principios. En ningún caso un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total del Congreso que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total del Congreso, superior a la suma del porcentaje de su votación estatal emitida, más el ocho por ciento.
 
 Si un partido político alcanzara las 22 diputaciones por mayoría relativa, para poder adicionarse o reformarse la Constitución del Estado, se requerirá el voto de, cuando menos, 23 de los Diputados.
 
@@ -667,11 +663,17 @@ Las diputaciones de representación proporcional se distribuirán mediante ronda
 
 Las diputaciones de representación proporcional que correspondan a cada partido político se asignarán alternada y sucesivamente: en primer lugar, utilizando el sistema de listas previamente registradas por los partidos políticos para tal efecto y, en segundo lugar, atendiendo a los más altos porcentajes de votación válida obtenida en su distrito por cada uno de los candidatos del mismo partido.
 
-La Ley establecerá la demarcación territorial de los distritos electorales uninominales, atendiendo preponderantemente al factor poblacional, que resulte de dividir la población estatal entre el número de distritos, pudiendo contar con un rango de variación de más menos 15% del promedio general, que se verá complementado tomando en consideración los criterios de continuidad geográfica, vías y medios de comunicación y características geográficas de la demarcación territorial.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
 
-(NOTA: EL 1 DE DICIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS DÉCIMO OCTAVO Y DÉCIMO NOVENO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 63/2009 Y SUS ACUMULADAS 64/2009 Y 65/2009, DECLARÓ LA INAPLICACIÓN DEL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE DICIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+La demarcación territorial de los distritos electorales uninominales, atenderá preponderantemente al factor poblacional, que resulte de dividir la población estatal entre el número de distritos, pudiendo contar con un rango de variación de más menos 15% del promedio general, que se verá complementado tomando en consideración los criterios de continuidad geográfica, vías y medios de comunicación y características geográficas de la demarcación territorial.
 
-LA APROBACIÓN DE LA DELIMITACIÓN DE LOS DISTRITOS ELECTORALES UNINOMINALES SE HARÁ MEDIANTE VOTACIÓN, DE POR LO MENOS LAS DOS TERCERAS PARTES DE LOS DIPUTADOS PRESENTES.
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2012)</small>
+
+Para efectos de lo anterior, la población utilizada deberá ser la correspondiente a los resultados definitivos del Censo General de Población, publicados por el Instituto Nacional de Estadística y Geografía, o a través del Conteo de Población y Vivienda, atendiendo a la actualización que mejor corresponda.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
+
+La aprobación de la delimitación de los distritos electorales uninominales se hará mediante votación, de por lo menos las dos terceras partes de los integrantes del Consejo General del Instituto Estatal Electoral.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 1979)</small>
 
@@ -761,11 +763,13 @@ El Congreso cambiará su nomenclatura cada tres años.
 
 El Instituto Estatal Electoral declarará diputados electos al Congreso del Estado, a los candidatos que hubieren recibido constancias de mayoría y de asignación proporcional no impugnadas ante el Tribunal Estatal Electoral dentro de los plazos y con los requisitos establecidos por la ley.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2012)</small>
 
 ###### Art. 46.
 
-El Tribunal Estatal Electoral resolverá las impugnaciones que se interpongan en contra de las declaratorias de validez de elecciones y de las constancias de mayoría y de las de asignación proporcional otorgadas a los candidatos a diputados. Del mismo modo, las que se presenten en materia de referéndum, plebiscito y revocación de mandato.
+El Tribunal Estatal Electoral resolverá las impugnaciones que se interpongan en contra de las declaratorias de validez de elecciones y de las constancias de mayoría y de las de asignación proporcional otorgadas a los candidatos a diputados. Del mismo modo, las que se presenten en materia de referéndum y plebiscito.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
 Las resoluciones que dicte el Tribunal Estatal Electoral serán definitivas e inatacables.
 
@@ -977,7 +981,9 @@ F.- Para que arme y ponga en servicio la Guardia Nacional.
 
 G.- Para que de conformidad con la ley de la materia, celebre contratos sobre proyectos de inversión pública a largo plazo. Las obligaciones derivadas de los citados proyectos de inversión no constituyen deuda pública.
 
-X.- Fijar y modificar la división territorial, política, administrativa, judicial y electoral del Estado.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2012)</small>
+
+X.- Fijar y modificar la división territorial, política, administrativa y judicial del Estado.
 
 XI.- Resolver las cuestiones de límites entre los Municipios del Estado.
 
@@ -2073,11 +2079,11 @@ El territorio del Estado se divide en sesenta y siete municipios que son:
 
 1. Ahumada, 2. Aldama, 3. Allende, 4. Aquiles Serdán, 5. Ascensión, 6. Bachíniva, 7. Balleza, 8. Batopilas, 9. Bocoyna, 10. Buenaventura, 11. Camargo, 12. Carichí, 13. Casas Grandes, 14. Coronado, 15. Coyame del Sotol, 16. Cuauhtémoc, 17. Cusihuiriachi, 18. Chihuahua, 19. Chínipas, 20. Delicias, 21. Dr.Belisario Domínguez, 22. El Tule, 23. Galeana, 24. Gómez Farías, 25. Gran Morelos, 26. Guadalupe, 27. Guadalupe y Calvo, 28. Guachochi, 29. Guazapares, 30.Guerrero, 31. Hidalgo del Parral, 32. Huejotitán, 33. Ignacio Zaragoza, 34. Janos, 35. Jiménez, 36.Juárez, 37. Julimes, 38. La Cruz, 39. López, 40. Madera, 41. Maguarichi, 42. Manuel Benavides, 43. Matachí, 44. Matamoros, 45. Meoqui, 46. Morelos, 47. Moris, 48. Namiquipa, 49. Nonoava, 50. Nuevo Casas Grandes, 51. Ocampo, 52. Ojinaga, 53. Praxedis G. Guerrero, 54. Riva Palacio, 55. Rosales, 56. Rosario, 57. San Francisco de Borja, 58. San Francisco de Conchos, 59. San Francisco del Oro, 60. Santa Bárbara, 61. Santa Isabel, 62. Satevó, 63. Saucillo, 64. Temósachic, 65. Urique, 66. Uruachi, 67. Valle de Zaragoza.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2001)</small>
 
 Art.- 126. El ejercicio del Gobierno Municipal estará a cargo:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2001)</small>
 
 I.- De los Ayuntamientos, los que serán electos popular y directamente según el principio de votación mayoritaria relativa, residirán en las cabeceras de las municipalidades que gobiernen, durarán en su encargo tres años y estarán integrados por un presidente, un síndico y el número de regidores que determine la ley, con sus respectivos suplentes.
 
@@ -3698,3 +3704,13 @@ Conforme lo dispone el artículo 202 de la Constitución Política del Estado, e
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE JUNIO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de las Iniciativas, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado. Realizado que sea, envíese al Titular del Poder Ejecutivo Estatal para su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Por lo que hace a la reforma constitucional contenida en el Artículo Primero del presente Decreto, ésta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. Las reformas y derogaciones a la Ley Electoral del Estado de Chihuahua, contenidas en el Artículo Segundo del presente Decreto, surtirán vigencia un día después de que lo haga la reforma constitucional señalada.
