@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-juventud-para-el-estado-de-nuevo-leon-62363"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-28"
-last_updated: "2010-12-27"
+last_updated: "2012-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEON
 
-LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEON
+LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 28 de julio de 2008.
 
@@ -259,7 +259,7 @@ El Ejecutivo promoverá a través de las instancias correspondientes, la prácti
 
 ###### Artículo 21.
 
-Los jóvenes que se encuentren en situaciones especiales, como la pobreza, exclusión social, indigencia, de calle, discapacidad, privación de la libertad, tienen el derecho a reintegrarse plenamente con el fin de acceder a servicios y beneficios sociales que mejoren su calidad de vida.
+(DEROGADO, P.O. 27 DE JUNIO DE 2012)
 
 ###### Artículo 22.
 
@@ -305,9 +305,11 @@ El Ejecutivo promoverá a través de las instancias correspondientes una cultura
 
 Los jóvenes tienen derecho a vivir esta etapa de su vida con calidad, creatividad, vitalidad e impregnada de valores que contribuyan a su pleno desarrollo y expresión de su potencialidad y capacidad humana.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
+
 ###### Artículo 29.
 
-Los jóvenes en situaciones de desventaja social, como pobreza, indigencia, situación de calle, analfabetismo, discapacidad, privación de la libertad, exclusión social y étnica, entre otras, tiene (sic) derecho a reinsertarse e integrarse a la sociedad y a ser sujetos de derechos y oportunidades que les permitan acceder a servicios y beneficios sociales que mejoren su calidad de vida. A recibir información, orientación y apoyo para la protección de sus derechos y para ser sujetos y beneficiarios de las políticas, programas y acciones de desarrollo social y humano.
+Los jóvenes en situaciones de desventaja social, como pobreza, indigencia, situación de calle, analfabetismo, discapacidad, privación de la libertad, exclusión social y étnica, entre otras, tiene derecho a reinsertarse e integrarse plenamente a la sociedad y a ser sujetos de derechos y oportunidades que les permitan acceder a servicios y beneficios sociales que mejoren su calidad de vida.
 
 ###### Artículo 30.
 
@@ -393,7 +395,7 @@ IV. Lineamientos que promuevan la creación, conservación y protección de empl
 
 V. Acciones encaminadas, a la creación de una incubadora de empresas;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2010)</small>
 
 VI. Lineas de acción para promover la inclusión en la vida laboral y productiva de los jóvenes trabajadores de primer empleo, bajo los siguientes objetivos:
 
@@ -453,7 +455,7 @@ EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO DE NUEVO LEÓN
 
 JOSÉ NATIVIDAD GONZÁLEZ PARÁS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 30 DE MARZO DE 2010.
 
@@ -464,3 +466,7 @@ P.O. 27 DE DICIEMBRE DE 2010.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- El Ejecutivo del Estado deberá realizar las modificaciones que correspondan al Reglamento de la Ley de Fomento a la Inversión y al Empleo en el Estado de Nuevo León, en un plazo de noventa días naturales contados desde el día de la entrada en vigor del presente Decreto.
+
+P.O. 27 DE JUNIO DE 2012.
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
