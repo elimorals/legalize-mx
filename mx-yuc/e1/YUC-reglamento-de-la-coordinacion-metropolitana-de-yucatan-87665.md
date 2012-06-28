@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-coordinacion-metropolitana-de-yucatan-87665"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-05-04"
-last_updated: "2012-05-04"
+last_updated: "2012-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87665&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 REGLAMENTO DE LA COORDINACIÓN METROPOLITANA DE YUCATÁN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE SE CREA LA COORDINACIÓN METROPOLITANA DE YUCATÁN, PUBLICADO EN EL D.O. 28 DE JUNIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Diario Oficial del Estado de Yucatán, el viernes 4 de mayo de 2012.
 
@@ -692,3 +694,19 @@ SECRETARIO DE OBRAS PÚBLICAS
 C. JOSÉ LUIS PENICHE PATRÓN
 
 SECRETARIO DE LA CONTRALORÍA GENERAL
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 28 DE JUNIO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+SEGUNDO. A partir de la entrada en vigor de este Decreto, se abrogan el Decreto Número 92, por el que se crea la Coordinación Metropolitana de Yucatán, y el Decreto Número 518, por el que se expide el Reglamento de la Coordinación Metropolitana de Yucatán.
+
+TERCERO. La Junta de Gobierno deberá expedir el Estatuto Orgánico de la COMEY, en un plazo que no exceda de 180 días contados a partir del día siguiente al de la entrada en vigor de este Decreto.
+
+CUARTO. Los proyectos, convenios, acuerdos y demás instrumentos jurídicos en proceso de ejecución o aprobados antes de la entrada en vigor de este ordenamiento, continuarán realizándose a cargo del organismo público descentralizado que se crea mediante este Decreto.
+
+QUINTO. Los recursos financieros, humanos y materiales asignados, así como las obligaciones y derechos adquiridos por el organismo desconcentrado que se extingue mediante este ordenamiento, quedarán a cargo del organismo público descentralizado que se crea mediante este Decreto.
+
+SEXTO. Se derogan las disposiciones de igual o menor rango que se opongan a las contenidas en este Decreto.
