@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "2011-11-01"
+last_updated: "2012-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE JUNIO DE 2012.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -341,9 +341,7 @@ I.- Si al tiempo de la adopción el hijo usare ya el nombre que le corresponda c
 
 II.- Si al tiempo de la adopción el adoptado no usare nombre, éste se formará con el nombre o nombres propios que le imponga el adoptante, seguidos del apellido de éste.
 
-ARTICULO 51
-
-En los casos de revocación de la adopción, el adoptado perderá el derecho de usar el apellido del adoptante y deberá usar el que tenía antes de la adopción, o en el caso de la fracción II del artículo anterior, el que libremente escoja, desde la fecha en que cause ejecutoria la resolución judicial que apruebe la revocación; pero si ésta fuere por motivo de ingratitud, el adoptado perderá el derecho de usar el apellido del adoptante, desde que se cometió el acto de ingratitud.
+ARTICULO 51 (DEROGADO, G.O. 28 DE JUNIO DE 2012)
 
 ARTICULO 52
 
@@ -479,7 +477,7 @@ ARTICULO 79
 
 En ningún caso podrá ser compelido nadie a contraer matrimonio, ni será válida la estipulación que se celebre estableciendo pena alguna por no cumplir la promesa del mismo.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 28 DE SEPTIEMBRE DE 2010)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPITULO II. De la promesa de matrimonio
 
@@ -567,13 +565,11 @@ De estos impedimentos sólo son dispensables la falta de edad y el parentesco de
 
 Las dispensas serán otorgadas por el Gobierno del Estado.
 
-> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2012)</small>
 
 ARTICULO 93
 
-Bajo el régimen de adopción simple el adoptante no puede contraer matrimonio con el adoptado o sus descendientes, en tanto que dure el lazo resultante de la adopción.
-
-En la adopción plena, el adoptante no puede contraer matrimonio con el adoptado o sus descendientes y este impedimento se extiende sin limitación de grado en línea recta ascendente y descendente. En la línea colateral, igual se extiende hasta el tercer grado, salvo dispensa.
+Bajo el régimen de adopción, el adoptante no puede contraer matrimonio con el adoptado o sus descendientes y este impedimento se extiende sin limitación de grado en línea recta ascendente y descendente. En línea colateral, se extiende hasta el tercer grado, salvo dispensa.
 
 ARTICULO 94
 
@@ -901,7 +897,7 @@ Para que pueda pedirse el divorcio por causa de enajenación mental que se consi
 
 ARTICULO 146
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE OCTUBRE DE 2010)</small>
 
 Cuando ambos consortes convengan en divorciarse y sean mayores de edad, no tengan hijos, o éstos sean mayores de edad sin necesidad de alimentos, y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, se presentarán personalmente, o se harán representar por mandatario con poder otorgado en escritura pública con cláusula especial, ante el encargado del Registro Civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas que son casados y mayores de edad, y manifestarán de una manera terminante y explícita su voluntad de divorciarse.
 
@@ -1351,13 +1347,11 @@ ARTICULO 225
 
 El parentesco de afinidad es el que se contrae por el matrimonio, entre el varón y los parientes de la mujer, y entre la mujer y los parientes del varón.
 
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2012)</small>
+
 ARTICULO 226
 
-El parentesco civil es el que nace de la adopción y sólo existe entre el adoptante y el adoptado.
-
-> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 1997)</small>
-
-En el caso de la adopción plena el parentesco existe entre el adoptado y el adoptante y los familiares consanguíneos de éste. También existirá parentesco civil con los descendientes del adoptado.
+El parentesco civil es el que nace de la adopción y existe entre el adoptado y el adoptante y los familiares consanguíneos de éste. También existirá parentesco civil con los descendientes del adoptado.
 
 ARTICULO 227
 
@@ -1413,11 +1407,11 @@ ARTICULO 237
 
 Los hermanos y demás parientes colaterales a que se refiere el artículo anterior, tienen obligación de dar alimentos a los menores, mientras éstos llegan a la edad de dieciocho años. También deben alimentar a sus parientes dentro del grado mencionado, que fueren incapaces.
 
-> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2012)</small>
 
 ARTICULO 238
 
-En la adopción simple el adoptante y el adoptado tienen obligación de darse alimentos, en los casos en que la tienen los padres y los hijos. Tratándose de adopción plena se estará a lo dispuesto en los artículos 232, 234, 235 y 236 de este Código.
+En la adopción, en la obligación de darse alimentos, se estará a lo dispuesto en los artículos 232, 234, 235 y 236 de este Código.
 
 > <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1507,7 +1501,7 @@ ARTICULO 254
 
 El cónyuge que sin culpa suya se vea obligado a vivir separado del otro, podrá pedir al Juez del lugar de su residencia, que obligue al cónyuge ausente a que le ministre los alimentos que haya dejado de proporcionarle y a los cuales tenga derecho. El juez, según las circunstancias del caso, fijará la suma que deba suministrarse mensualmente, dictando en su caso las medidas necesarias para que dicha cantidad sea asegurada y se cubran los gastos erogados con tal motivo por el cónyuge acreedor alimentario.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
 
 ### CAPITULO III. De la Violencia Familiar
 
@@ -1929,19 +1923,23 @@ III.- A percibir la porción hereditaria y los alimentos que fije la ley.
 
 ### CAPITULO V. De la adopción
 
-> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2012)</small>
 
 ARTICULO 320
 
-Los mayores de veinticinco años, en pleno ejercicio de sus derechos, casados o libres de matrimonio, pueden adoptar a uno o más menores o a un incapacitado aun cuando éste sea mayor de edad, siempre que el adoptante tenga diecisiete años de edad más que el adoptado y que acredite además:
+Los mayores de veinticinco años, en pleno ejercicio de sus derechos, casados o libres de matrimonio, pueden adoptar a uno o más menores o a un incapacitado aun cuando éste sea mayor de edad, siempre que el adoptante tenga veinticinco años de edad más que el adoptado y que acredite además:
 
-I.- Que tiene medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado como si fuera hijo propio, según a las circunstancias de la persona que trata de adoptar;
+I. Tener medios bastantes para proveer a la subsistencia y educación del presunto adoptado como si fuera hijo propio, según las circunstancias de la persona que trata de adoptar;
 
-II.- Que la adopción es benéfica para la persona que trata de adoptar;
+II. Que la adopción es benéfica para la persona que se trata de adoptar;
 
-III.- Que el adoptante es persona de buenas costumbres, y
+III. Ser apto y adecuado para adoptar, de conformidad con el certificado de idoneidad que emita el DIF Estatal, por conducto del Consejo Técnico de Adopciones;
 
-IV.- La buena salud del adoptante.
+IV. Tener buena salud física y mental, lo cual se acreditará mediante certificado médico y psicológico reciente, emitido por institución pública competente;
+
+V. No tener antecedentes penales; y
+
+VI. Que no se encuentra sujeto a proceso por algún delito contra la vida o la salud personal, contra la libertad, contra la intimidad, contra la libertad o la seguridad sexuales, contra la familia o de maltrato, pues de ser así se postergará el trámite hasta que se dicte sentencia absolutoria y haya causado estado la misma.
 
 ARTICULO 321
 
@@ -1961,47 +1959,17 @@ ARTICULO 323
 
 El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de tutela.
 
-> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
+ARTICULO 324 (DEROGADO, G.O. 28 DE JUNIO DE 2012)
 
-ARTICULO 324
-
-El menor o el incapacitado que hayan sido adoptados bajo la forma de adopción simple, podrán impugnar la adopción dentro del año siguiente a la mayoría de edad o a la fecha en que haya desaparecido la incapacidad.
-
-> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
-
-ARTICULO 325
-
-El que adopta bajo el régimen de adopción simple tendrá respecto de la persona y bienes del adoptado, los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos.
-
-El adoptante deberá darle nombre y apellidos al adoptado, según la conveniencia de cada caso, haciéndose las anotaciones correspondientes en el acta de adopción.
+ARTICULO 325 (DEROGADO, G.O. 28 DE JUNIO DE 2012)
 
 ARTICULO 326
 
 El adoptado tendrá para con la persona o personas que lo adopten los mismos derechos y obligaciones que tiene un hijo.
 
-ARTICULO 327
+ARTICULO 327 (DEROGADO, G.O. 28 DE JUNIO DE 2012)
 
-Para que la adopción pueda tener lugar deberán consentir en ella, en sus respectivos casos:
-
-I.- El que ejerce la patria potestad sobre el menor que se trata de adoptar;
-
-II.- El tutor del que se va a adoptar;
-
-III.- Las personas que hayan acogido al que se pretende adoptar y lo tratan como a hijo cuando no hubiere quien ejerza la patria potestad sobre él ni tenga tutor;
-
-IV.- El Ministerio Público del lugar del domicilio del adoptado, cuando éste no tenga padres conocidos, ni tutor, ni persona que ostensiblemente le imparta su protección y lo haya acogido como hijo;
-
-> <small>(ADICIONADA, G.O. 12 DE JUNIO DE 1997)</small>
-
-V.- Las instituciones de asistencia social pública o privadas que hubieren acogido al menor o al incapacitado que se pretende adoptar.
-
-> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
-
-Si el menor o el incapacitado que se va a adoptar tiene más de catorce años, también se necesita su consentimiento para la adopción. En el caso de las personas con incapacidad será necesario su consentimiento simple y cuando fuese posible la expresión indubitable de su voluntad.
-
-ARTICULO 328
-
-Si el tutor o el Ministerio Público, sin causa justificada, no consiente en la adopción, podrá suplir el consentimiento el Presidente Municipal del lugar en que resida el incapacitado, cuando encontrare que la adopción es notoriamente conveniente para los intereses morales y materiales de éste.
+ARTICULO 328 (DEROGADO, G.O. 28 DE JUNIO DE 2012)
 
 ARTICULO 329
 
@@ -2015,109 +1983,55 @@ ARTICULO 331
 
 El juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente.
 
-> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
+ARTICULO 332 (DEROGADO, G.O. 28 DE JUNIO DE 2012)
 
-ARTICULO 332
+ARTICULO 333 (DEROGADO, G.O. 28 DE JUNIO DE 2012)
 
-Los derechos y obligaciones que nacen de la adopción simple, así como el parentesco que de ella resulte, se limitan al adoptante y al adoptado, excepto en lo relativo a los impedimentos del matrimonio, respecto de los cuales se observará lo que dispone el artículo 92 de este Código.
+ARTICULO 334 (DEROGADO, G.O. 28 DE JUNIO DE 2012)
 
-> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
+ARTICULO 335 (DEROGADO, G.O. 28 DE JUNIO DE 2012)
 
-ARTICULO 333
+ARTICULO 336 (DEROGADO, G.O. 28 DE JUNIO DE 2012)
 
-Los derechos y obligaciones que resulten del parentesco de consanguinidad no se extinguen por la adopción simple excepto la patria potestad, que será transferida al adoptante, salvo que en su caso esté casado con alguno de los progenitores de adoptado, porque entonces se ejercerá por ambos cónyuges.
+ARTICULO 337 (DEROGADO, G.O. 28 DE JUNIO DE 2012)
 
-En la adopción plena los parientes naturales ascendientes y colaterales del adoptado no conservarán ningún derecho sobre el mismo, quedando éste exento de deberes para con ellos y cancelada toda relación jurídica entre aquellos y éste.
+ARTICULO 338 (DEROGADO, G.O. 28 DE JUNIO DE 2012)
 
-> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
+ARTICULO 339 (DEROGADO, G.O. 28 DE JUNIO DE 2012)
 
-ARTICULO 334
-
-La adopción simple podrá convertirse en Plena siempre que se cumplan los requisitos aplicables a esta última, debiendo obtenerse el consentimiento del adoptado a que se refiere la fracción V del artículo 327.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE JUNIO DE 1997)</small>
-
-ARTICULO 335
-
-La adopción simple puede revocarse:
-
-I.- Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, es necesario que consientan en la revocación las personas que prestaron su consentimiento, conforme al artículo 327;
-
-II.- Por ingratitud del adoptado;
-
-> <small>(ADICIONADA, G.O. 12 DE JUNIO DE 1997)</small>
-
-III.- Por sentencia del Juez, a solicitud del Sistema Estatal para el Desarrollo Integral de la Familia cuando considere que existe causa grave y justificada que ponga en peligro al menor y aporte los elementos justificativos de su petición, mediante el Ministerio Público.
-
-ARTICULO 336
-
-Para los efectos de la fracción II del artículo anterior, se considera ingrato al adoptado:
-
-> <small>(REFORMADA, G.O. 23 DE SEPTIEMBRE DE 1980)</small>
-
-I.- Si comete algún delito doloso contra la persona, la honra o los bienes del adoptante, de su cónyuge, de sus ascendientes o descendientes;
-
-II.- Si el adoptado acusa judicialmente al adoptante de algún delito grave que pudiera ser perseguido de oficio, aunque lo pruebe, a no ser que hubiera sido cometido contra el mismo adoptado, su cónyuge, sus ascendientes o descendientes;
-
-III.- Si el adoptado rehusa dar alimentos al adoptante que ha caído en pobreza.
-
-ARTICULO 337
-
-> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
-
-ARTICULO 337
-
-El Decreto del juez deja sin efecto la adopción simple y restituye las cosas al estado que guardaban antes de efectuarse ésta.
-
-> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
-
-ARTICULO 338
-
-En el segundo caso del artículo 335, la adopción simple deja de producir efectos desde que se comete el acto de ingratitud, aunque la resolución judicial que declare revocada la adopción sea posterior.
-
-> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
-
-ARTICULO 339
-
-Las resoluciones que dicten los jueces aprobando la revocación de la adopción simple se comunicarán al Oficial del Registro Civil del lugar correspondiente para que cancele el acta de adopción.
-
-> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2012)</small>
 
 ARTICULO 339 A
 
-El adoptado bajo la forma de adopción plena adquirirá la misma condición que un hijo consanguíneo con respecto al adoptante o adoptantes y a la familia de éstos, sustituyendo los vínculos que tuvo en su familia de origen, salvo en los impedimentos de matrimonio. El adoptado tiene en la familia del o los adoptantes los mismos derechos, deberes y obligaciones del hijo consanguíneo y debe llevar los apellidos del adoptante o adoptantes.
+El adoptado adquirirá la misma condición que un hijo consanguíneo con respecto al adoptante o adoptantes y a las familias de éstos, en sustitución de los vínculos que tuvo en su familia de origen, salvo en los impedimentos de matrimonio. El adoptado tiene en la familia del o los adoptantes los mismos derechos, deberes y obligaciones del hijo consanguíneo y debe llevar los apellidos del adoptante o adoptantes.
 
-En el caso de adopción plena se requiere que los ascendientes del o los adoptantes otorguen su consentimiento ante el Juez competente.
+En la adopción se requiere que los ascendientes del o los adoptantes otorguen su consentimiento ante el Juez competente.
 
-> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2012)</small>
 
 ARTICULO 339 B
 
-Tratándose de la adopción plena el Registro Civil se abstendrá de proporcionar información sobre los antecedentes de la familia de origen del adoptado, excepto en los siguientes casos y contando con autorización judicial:
+El Registro Civil se abstendrá de proporcionar información sobre los antecedentes de la familia de origen del adoptado, excepto en los casos siguientes y previa autorización judicial:
 
-I.- Cuando deba determinarse si existe impedimento legal para contraer matrimonio;
+I. Cuando deba determinarse si existe impedimento legal para contraer matrimonio;
 
-II.- Cuando el adoptado desee conocer sus antecedentes familiares, siempre que sea mayor de edad; si fuera menor de edad se requerirá necesariamente el consentimiento del o los adoptantes; y
+II. Cuando el adoptado desee conocer sus antecedentes familiares, siempre que sea mayor de edad; si fuere menor de edad, se requerirá necesariamente el consentimiento del o los adoptantes; y
 
-III.- En los demás casos previstos por las leyes.
+III. En los demás casos previstos por las leyes.
 
-> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2012)</small>
 
 ARTICULO 339 C
 
-La adopción plena es irrevocable.
+La adopción es irrevocable.
 
-> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2012)</small>
 
 ARTICULO 339 D
 
-Puede ser adoptado de manera plena el expósito, el abandonado por más de dos meses, el entregado por el padre o la madre a una institución de asistencia social pública o privada y los hijos del cónyuge.
+Puede ser adoptado el expósito, el abandonado por más de dos meses, el entregado por el padre o la madre a una institución de asistencia social pública o privada y los hijos del cónyuge.
 
-> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 1997)</small>
-
-ARTICULO 339 E
-
-No pueden adoptar mediante adopción plena las personas que tengan vínculo de parentesco consanguíneo con el menor o incapacitado.
+ARTICULO 339 E (DEROGADO, G.O. 28 DE JUNIO DE 2012)
 
 > <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 2002)</small>
 
@@ -2177,13 +2091,11 @@ Las obligaciones, facultades y restricciones establecidas para los tutores, se a
 
 La anterior custodia podrá terminar por decisión del pariente que la realiza, por quien o quienes ejercen la patria potestad o por resolución judicial.
 
-> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2012)</small>
 
 ARTICULO 348
 
-En la adopción simple la patria potestad sobre el hijo adoptivo la ejercerán únicamente las personas que lo adopten.
-
-En la adopción plena la patria potestad se ejercerá en los términos del artículo 343.
+En la adopción, la patria potestad se ejercerá en los términos del artículo 343.
 
 > <small>(REFORMADO, G.O. 1 DE ENERO DE 1976)</small>
 
@@ -2317,7 +2229,7 @@ ARTICULO 371
 
 Las personas que ejerzan la patria potestad, deben entregar a sus hijos, luego que éstos se emancipen o lleguen a la mayor edad, todos los bienes y frutos que les pertenecen.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 12 DE JUNIO DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 12 DE JUNIO DE 1997)</small>
 
 ## TITULO OCTAVO. DE LA PATRIA POTESTAD
 
@@ -2477,7 +2389,7 @@ Los tutores y curadores no pueden ser removidos de su cargo sin que previamente 
 
 ARTICULO 393
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE ABRIL DE 2009)</small>
 
 El menor de edad con discapacidad intelectual, sordomudo, ebrio consuetudinario o que habitualmente abuse de las drogas enervantes, estará sujeto a la tutela de menores, mientras no llega a la mayoría de edad.
 
@@ -2583,7 +2495,7 @@ ARTICULO 414
 
 La falta temporal del tutor legítimo, se suplirá en los términos establecidos en los dos artículos anteriores.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 30 DE ABRIL DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 30 DE ABRIL DE 2009)</small>
 
 ### CAPITULO IV
 
@@ -3853,11 +3765,11 @@ Los volúmenes deberán usarse por orden riguroso de la numeración de actas, ye
 
 Toda acta deberá asentarse en los dos ejemplares del Registro.
 
-> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2012)</small>
 
 ARTICULO 657
 
-Los actos del estado civil que se asentarán en los formatos a que se refiere el artículo 656 son los siguientes: nacimiento, reconocimiento de hijos, adopción simple, matrimonio, divorcio, defunción e inscripción de las sentencias ejecutorias que declaren la ausencia, la presunción de muerte, la tutela, la incapacidad, la emancipación y habilitación de edad y las que signifiquen cambio, retención o modificación de nombre de personas físicas. Para la inscripción de las actas de mexicanos levantadas en el extranjero se utilizarán los mismos formatos que para las de nacimiento, defunción y matrimonio.
+Los actos del estado civil que se asentarán en los formatos a que se refiere el artículo 656 son los siguientes: nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, defunción e inscripción de las sentencias ejecutorias que declaren la ausencia, la presunción de muerte, la tutela, la incapacidad, la emancipación y habilitación de edad y las que signifiquen cambio, retención o modificación de nombre de personas físicas. Para la inscripción de las actas de mexicanos levantadas en el extranjero se utilizarán los mismos formatos que para las de nacimiento, defunción y matrimonio.
 
 > <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
 
@@ -3987,7 +3899,7 @@ Las declaraciones de nacimiento se harán presentando al niño ante el encargado
 
 ARTICULO 681
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE OCTUBRE DE 2010)</small>
 
 Tienen la obligación de declarar el nacimiento: el padre y la madre, de manera inmediata si en el hospital donde nació el menor hubiere módulo del Registro Civil, o dentro de los 180 días de ocurrido aquél.
 
@@ -4097,7 +4009,7 @@ ARTICULO 702
 
 Cuando se trate de parto múltiple se levantará un acta por cada uno de los nacidos. Las actas se relacionarán una con otra haciéndose constar las particularidades que los distingan.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 27 DE NOVIEMBRE DE 1969)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 27 DE NOVIEMBRE DE 1969)</small>
 
 ### CAPITULO III. De las actas de reconocimiento de hijos nacidos fuera de matrimonio
 
@@ -4151,39 +4063,31 @@ Si el reconocimiento se hiciere en oficina distinta de aquélla en que se levant
 
 ### CAPITULO IV. De las actas de adopción
 
-> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2012)</small>
 
 ARTICULO 710
 
-Dictada la resolución judicial definitiva que autorice la adopción simple o la adopción plena, el Juez, dentro del término de ocho días remitirá copia certificada de las diligencias al Oficial del Registro Civil que corresponda, a fin de que con la comparecencia del adoptante se levante el acta correspondiente.
+Dictada la resolución que autorice la adopción, dentro del término de ocho días el Juez remitirá copia certificada de las diligencias al Oficial del Registro Civil que corresponda, a fin de que con la comparecencia del adoptante se levante el acta correspondiente.
 
 ARTICULO 711
 
 La falta de registro de la adopción no quita a ésta sus efectos legales; pero sujeta al responsable a la pena señalada en el artículo 707.
 
-> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2012)</small>
 
 ARTICULO 712
 
-El acta de adopción simple contendrá los nombres, apellidos, edad y domicilio del adoptante y del adoptado; el nombre y demás generales de las personas cuyo consentimiento hubiere sido necesario para la adopción, y los nombres, apellidos y domicilios de las personas que intervengan como testigos. En el acta se insertarán los datos esenciales de la resolución judicial.
+En los casos de adopción se levantará el acta de nacimiento en los mismos términos de la que se expide para los hijos consanguíneos.
 
-En los casos de adopción plena se levantará el acta de nacimiento en los mismos términos de la que se expide para los hijos consanguíneos.
-
-> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2012)</small>
 
 ARTICULO 713
 
-Extendida el acta de la adopción simple, se anotará la de nacimiento del adoptado y se archivará la copia de las diligencias relativas, poniéndole el mismo número de acta de adopción.
+A partir del levantamiento del acta de adopción no se publicará ni se expedirá constancia alguna que revele el origen del adoptado ni su condición de tal, salvo providencia dictada en juicio, haciéndose las anotaciones en el acta de nacimiento cuyo original quedará reservado para los efectos del artículo 93.
 
-En el caso de adopción plena, a partir del levantamiento del acta no se publicará ni se expedirá constancia alguna que revele el origen del adoptado ni su condición de tal, salvo providencia dictada en juicio, haciéndose las anotaciones en el acta de nacimiento cuyo original queda reservado para los efectos del artículo 93.
+ARTICULO 714 (DEROGADO, G.O. 28 DE JUNIO DE 2012)
 
-> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
-
-ARTICULO 714
-
-El Juez o Tribunal que resuelva que una adopción simple queda sin efecto, remitirá dentro del término de ocho días copia certificada de su resolución al Oficial del Registro Civil para que cancele el acta de adopción y anote la de nacimiento.
-
-> <small>(REFORMADA SU DENOMINACION, G.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ### CAPITULO V. De la inscripción de sentencias ejecutorias
 
@@ -4247,13 +4151,13 @@ ARTICULO 723
 
 La omisión del registro de tutela, emancipación o la habilitación de edad, no quita a éstas sus efectos legales, pero sujeta al responsable a la pena señalada en el artículo 707.
 
-> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2012)</small>
 
 ARTICULO 724
 
-Cuando se recobre la capacidad legal para administrar, se revoquen la tutela o la adopción simple o se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Oficial del Registro Civil por el mismo interesado y por la autoridad que corresponda, para que cancele la inscripción que se hubiera hecho respecto a los actos jurídicos susodichos.
+Cuando se recobre la capacidad legal para administrar, se revoque la tutela o se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Oficial del Registro Civil por el mismo interesado y por la autoridad que corresponda, para que cancele la inscripción que se hubiere hecho respecto de los actos jurídicos susodichos.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ### CAPITULO VI. De las actas de matrimonio
 
@@ -4443,7 +4347,7 @@ ARTICULO 742
 
 La sentencia ejecutoria que decrete un divorcio se remitirá en copia al Encargado del Registro Civil para que levante el acta correspondiente.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ### CAPITULO VII. De las actas de divorcio
 
@@ -4459,7 +4363,7 @@ ARTICULO 744
 
 Extendida el acta se anotarán las de nacimiento y matrimonio de los divorciados y la copia de la sentencia mencionada se archivará con el mismo número del acta de divorcio.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ### CAPITULO VIII. De las actas de defunción
 
@@ -4563,7 +4467,7 @@ ARTICULO 758
 
 Cuando una autoridad ordene la exhumación y de ésta resulte que la causa de la muerte fue distinta a la anotada en el acta de defunción, se comunicará esta circunstancia al Oficial del Registro Civil que haya levantado el acta, para que proceda en los términos de la parte última del artículo anterior.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ### CAPITULO IX. De la rectificación de las actas del estado civil
 
@@ -5757,7 +5661,7 @@ ARTICULO 990
 
 Los acreedores de los partícipes podrán concurrir a la división de la cosa común, y oponerse a que se verifique sin su concurso. Pero no podrán impugnar la división consumada, excepto en caso de fraude o en el de haberse verificado no obstante la oposición formalmente interpuesta para impedirla, y salvo siempre los derechos del deudor para sostener la validez.
 
-> <small>(DEROGADO POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY SOBRE EL REGIMEN DE PROPIEDAD Y CONDOMINIO DE LOS EDIFICIOS DIVIDIDOS EN PISOS, DEPARTAMENTOS, VIVIENDAS O LOCALES, G.O. 22 DE NOVIEMBRE DE 1956)</small>
+> <small>(DEROGADO POR EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY SOBRE EL RÉGIMEN DE PROPIEDAD Y CONDOMINIO DE LOS EDIFICIOS DIVIDIDOS EN PISOS, DEPARTAMENTOS, VIVIENDAS O LOCALES, G.O. 22 DE NOVIEMBRE DE 1956)</small>
 
 ARTICULO 991
 
@@ -8421,19 +8325,17 @@ ARTICULO 1544
 
 Concurriendo hijos con ascendientes, éstos sólo tendrán derecho a alimentos, que en ningún caso pueden exceder de la porción de uno de los hijos.
 
-> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2012)</small>
 
 ARTICULO 1545
 
-El adoptado hereda como hijo pero en la adopción simple no hay derecho de sucesión entre el adoptado y los parientes del adoptante.
+El adoptado hereda como hijo.
 
-En caso de adopción plena el adoptado y los parientes del adoptante tendrán el tratamiento que corresponde a parientes consanguíneos.
-
-> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2012)</small>
 
 ARTICULO 1546
 
-Concurriendo padres adoptantes y descendientes del adoptado en forma simple, los primeros sólo tendrán derecho a alimentos.
+El adoptado y los parientes del adoptante tendrán el tratamiento que corresponde a parientes consanguíneos.
 
 ARTICULO 1547
 
@@ -8463,17 +8365,13 @@ ARTICULO 1552
 
 Los miembros de cada línea dividirán entre sí por partes iguales la porción que les corresponda.
 
-> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2012)</small>
 
 ARTICULO 1553
 
-Concurriendo los adoptantes con ascendientes del adoptado en forma simple, la herencia de éste se dividirá por partes iguales entre los adoptantes y ascendientes.
+En los casos de adopción, los parientes consanguíneos del adoptado no tendrán derecho a la sucesión legítima de éste.
 
-En los casos de adopción plena, los parientes consanguíneos del adoptado no tendrán derecho a la sucesión legítima.
-
-ARTICULO 1554
-
-Si concurre el cónyuge del adoptado con los adoptantes, las dos terceras partes de la herencia corresponden al cónyuge y la otra tercera parte a los que hicieren la adopción.
+ARTICULO 1554 (DEROGADO, G.O. 28 DE JUNIO DE 2012)
 
 ARTICULO 1555
 
@@ -8487,9 +8385,11 @@ Si el reconocimiento se hace después de que el descendiente haya adquirido bien
 
 ### CAPITULO IV. De la sucesión del cónyuge
 
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2012)</small>
+
 ARTICULO 1557
 
-El cónyuge que sobrevive, concurriendo con descendientes, tendrá el derecho de un hijo, si carece de bienes o los que tiene al morir el autor de la sucesión, no igualan a la porción que a cada hijo debe corresponder. Lo mismo se observará si concurre con hijos adoptivos del autor de la herencia.
+El cónyuge que sobrevive, concurriendo con descendientes, tendrá el derecho de un hijo, si carece de bienes o los que tiene, al morir el autor de la sucesión, no igualan a la porción que a cada hijo debe corresponder.
 
 ARTICULO 1558
 
@@ -9627,7 +9527,7 @@ ARTICULO 1792
 
 Las disposiciones legales sobre contratos serán aplicables a todos los convenios y a otros actos jurídicos, en lo que no se oponga a la naturaleza de éstos o a disposiciones especiales de la ley sobre los mismos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 15 DE NOVIEMBRE DE 1997)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 15 DE NOVIEMBRE DE 1997)</small>
 
 ### CAPITULO X-BIS. De la imprevisión en los contratos
 
@@ -15537,7 +15437,7 @@ En el caso a que se refiere la parte final del artículo anterior, el registrado
 
 Transcurridos tres años sin que se comunique al registrador la calificación que del título presentado haya hecho el juez, a petición de parte interesada se cancelará la inscripción preventiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 1942)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 1942)</small>
 
 ARTICULO 2948
 
@@ -15819,7 +15719,7 @@ El Secretario de Gobierno.
 
 Lic. Miguel Aguillón Guzmán.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 G.O. 6 DE DICIEMBRE DE 1932.
 
@@ -15827,7 +15727,7 @@ Esta Ley comenzará a regir, desde la fecha de su publicación en la "Gaceta Ofi
 
 G.O. 7 DE JULIO DE 1934.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE VERACRUZ-LLAVE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE VERACRUZ-LLAVE.
 
 G.O. 7 DE AGOSTO DE 1937.
 
@@ -15867,13 +15767,13 @@ UNICO.- La presente Ley surtirá efectos a partir de la fecha de su publicación
 
 G.O. 28 DE DICIEMBRE DE 1943.
 
-LEY NUMERO 151
+LEY NÚMERO 151
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2°. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE VERACRUZ-LLAVE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2°. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE VERACRUZ-LLAVE.
 
 G.O. 28 DE DICIEMBRE DE 1943.
 
-LEY NUMERO 154
+LEY NÚMERO 154
 
 Esta Ley comenzará a surtir sus efectos desde la fecha de su publicación en la "Gaceta Oficial" del Estado.
 
@@ -16213,7 +16113,7 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 7 DE OCTUBRE DE 2010.
 
-DECRETO NUMERO 863, POR EL QUE SE REFORMAN LOS ARTICULOS 256, 257, 308, 314, FRACCION IV, Y 315; Y SE ADICIONAN LOS ARTICULOS 256 BIS, 256 TER, 289 BIS Y 289 TER AL CODIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+DECRETO NÚMERO 863, POR EL QUE SE REFORMAN LOS ARTÍCULOS 256, 257, 308, 314, FRACCIÓN IV, Y 315; Y SE ADICIONAN LOS ARTÍCULOS 256 BIS, 256 TER, 289 BIS Y 289 TER AL CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
 Artículo primero. Este Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial del estado.
 
@@ -16221,7 +16121,7 @@ Artículo segundo. Se derogan todas las disposiciones que se opongan al presente
 
 G.O. 7 DE OCTUBRE DE 2010.
 
-DECRETO NUMERO 864, POR EL QUE SE REFORMAN LOS ARTICULOS 47, 48, 86, 146 PARRAFOS PRIMERO Y SEGUNDO, 168, 292, 302, 655, 656, 657, 658, 662, 676, 678, 680, 681 PARRAFOS PRIMERO Y SEGUNDO, 682, 704 FRACCIONES II Y III Y 760; Y SE DEROGAN LOS ARTICULOS 311, 312, 688 Y 689 DEL CODIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+DECRETO NÚMERO 864, POR EL QUE SE REFORMAN LOS ARTÍCULOS 47, 48, 86, 146 PÁRRAFOS PRIMERO Y SEGUNDO, 168, 292, 302, 655, 656, 657, 658, 662, 676, 678, 680, 681 PÁRRAFOS PRIMERO Y SEGUNDO, 682, 704 FRACCIONES II Y III Y 760; Y SE DEROGAN LOS ARTÍCULOS 311, 312, 688 Y 689 DEL CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
 Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del estado.
 
@@ -16232,3 +16132,9 @@ G.O. 1 DE NOVIEMBRE DE 2011.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 28 DE JUNIO DE 2012.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
