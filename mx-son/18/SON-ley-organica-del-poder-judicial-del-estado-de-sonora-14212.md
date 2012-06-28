@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-judicial-del-estado-de-sonora-14212"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-12-12"
-last_updated: "2007-09-07"
+last_updated: "2012-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE SONORA
 
-LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE SONORA
+LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE SEPTIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE JUNIO DE 2012.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 12 de diciembre de 1996.
 
@@ -61,7 +61,11 @@ IV.- Los Juzgados Locales; y
 
 V.- El Consejo del Poder Judicial.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 28 DE JUNIO DE 2012)</small>
+
+Los Tribunales del Estado estarán expeditos para administrar justicia en los términos y plazos que fijen las leyes, debiendo emitir sus resoluciones de manera pronta, completa, imparcial y gratuita.
 
 ## TITULO SEGUNDO. DEL SUPREMO TRIBUNAL DE JUSTICIA
 
@@ -157,9 +161,9 @@ V.- Conceder licencias a sus integrantes, en términos de lo dispuesto en el art
 
 VI.- Autorizar el pago de los honorarios a los Magistrados suplentes cuando entren en funciones;
 
-VlI.- Nombrar, conforme a lo que esta Ley establece respecto a la Carrera Judicial, al Secretario General de Acuerdos del Supremo Tribunal de Justicia, a los Secretarios Auxiliares y Secretarios Proyectistas, así como a los demás empleados subalternos del Supremo Tribunal de Justicia del Estado, cuya designación no corresponda a otra autoridad, y aceptarles sus renuncias;
+VII.- Nombrar, conforme a lo que esta Ley establece respecto a la Carrera Judicial, al Secretario General de Acuerdos del Supremo Tribunal de Justicia, a los Secretarios Auxiliares y Secretarios Proyectistas, así como a los demás empleados subalternos del Supremo Tribunal de Justicia del Estado, cuya designación no corresponda a otra autoridad, y aceptarles sus renuncias;
 
-VIlI.- Nombrar al Magistrado o Magistrados que deban proveer los trámites de carácter urgente, durante los periodos de receso o vacacionales del Supremo Tribunal de Justicia;
+VIII.- Nombrar al Magistrado o Magistrados que deban proveer los trámites de carácter urgente, durante los periodos de receso o vacacionales del Supremo Tribunal de Justicia;
 
 IX.- Evaluar, periódicamente, el funcionamiento de los órganos del Supremo Tribunal de Justicia y adoptar las medidas permanentes para mejorarlo;
 
@@ -301,11 +305,17 @@ Una vez aprobado el proyecto de resolución, constituye fallo definitivo y se en
 
 Las Salas del Supremo Tribunal de Justicia, por orden de recepción de los asuntos, conocerán:
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 2012)</small>
+
 I.- En materia penal:
 
-a).- De los recursos de apelación y de denegada apelación, interpuestos contra sentencias, autos e interlocutorias, dictados en procesos instruidos por delitos cuyo término medio aritmético de la pena que corresponda exceda de cinco años de prisión, excepto cuando se trate del delito de robo; y
+a) De los recursos de apelación y de denegada apelación, interpuestos contra sentencias, autos e interlocutorias, dictados en procesos instruidos por delitos cuyo término medio aritmético de la pena que corresponda exceda de cinco años de prisión, excepto cuando se trate del delito de robo;
 
-b).- De sentencias dictadas en incidentes de reparación del daño, exigible a personas distintas de los inculpados o en las de responsabilidad civil pronunciadas por los mismos juzgados que conozcan o hayan conocido de los procesos respectivos, cuando la acción se funde en la comisión de delitos cuyo término medio aritmético de la pena que corresponda sea el señalado en el inciso anterior.
+b) De sentencias dictadas en incidentes de reparación del daño, exigible a personas distintas de los inculpados o en las de responsabilidad civil pronunciadas por los mismos juzgados que conozcan o hayan conocido de los procesos respectivos, cuando la acción se funde en la comisión de delitos cuyo término medio aritmético de la pena que corresponda sea el señalado en el inciso anterior; y
+
+c) De los recursos de revisión interpuestos contra las sentencias definitivas, dictadas en procesos instruidos por delitos cuyo medio aritmético de la pena que corresponda sea el señalado en el inciso a) de esta fracción.
 
 II.- En materia civil:
 
@@ -463,19 +473,25 @@ Los Tribunales Regionales de Circuito tendrán la jurisdicción territorial que 
 
 Los Magistrados Regionales de Circuito no podrán abandonar la residencia del Tribunal al que estén adscritos sin permiso previo otorgado por el Presidente del Consejo del Poder Judicial, o bien, por el funcionario que determine el Pleno del propio Consejo, mediante acuerdo general.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 43.
 
 Corresponde conocer a los Tribunales Colegiados Regionales de Circuito:
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 2012)</small>
+
 I.- En materia penal:
 
-a).- De los recursos de apelación y denegada apelación, en los casos no previstos por el inciso a), fracción I, del artículo 22 de esta ley;
+a) De los recursos de apelación y denegada apelación, en los casos no previstos por el inciso a), fracción I, del artículo 22 de esta ley;
 
-b).- De los recursos de apelación interpuestos contra sentencias dictadas en incidentes de reparación del daño exigible a personas distintas de los inculpados o de las de responsabilidad civil pronunciadas por los mismos juzgados que conozcan o que hayan conocido de los procesos respectivos, cuando la acción se funde en la comisión de delitos cuyo término medio aritmético de la pena que corresponda no exceda de cinco años de prisión;
+b) De los recursos de apelación interpuestos contra sentencias dictadas en incidentes de reparación del daño exigible a personas distintas de los inculpados o de las de responsabilidad civil pronunciadas por los mismos juzgados que conozcan o que hayan conocido de los procesos respectivos, cuando la acción se funde en la comisión de delitos cuyo término medio aritmético de la pena que corresponda no exceda de cinco años de prisión;
 
-c).- De los demás asuntos que expresamente les señalen las leyes.
+c) De los recursos de revisión en los casos no previstos por el inciso c), fracción I, del artículo 22 de esta ley; y
+
+d) De los demás asuntos que expresamente les señalen las leyes.
 
 II.- En materia civil:
 
@@ -515,7 +531,7 @@ Las resoluciones de los Tribunales Colegiados Regionales de Circuito se tomarán
 
 El Magistrado de Tribunal Colegiado Regional de Circuito que disintiere de la mayoría podrá formular voto particular, el cual se insertará en la resolución respectiva, si fuere presentado dentro de los tres días siguientes a la fecha de la sesión.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 45.
 
@@ -557,11 +573,11 @@ Si no pudiera despacharse en la sesión todos los asuntos listados, los restante
 
 Una vez aprobados los proyectos de resolución, constituyen fallos definitivos.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO TERCERO. DE LOS PRESIDENTES DE LOS TRIBUNALES COLEGIADOS REGIONALES DE CIRCUITO
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 50.
 
@@ -659,45 +675,93 @@ XVI.- Distrito Judicial de Ures, que comprende las siguientes Municipalidades: U
 
 ### CAPITULO SEGUNDO. DISPOSICIONES GENERALES
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 28 DE JUNIO DE 2012)</small>
+
 ###### ARTICULO 56.
 
 Son Juzgados de Primera Instancia:
 
-I.- Los Juzgados de lo Civil;
+I. Los Juzgados de lo Civil;
 
-II.- Los Juzgados de lo Familiar;
+II. Los Juzgados de lo Familiar;
 
-III.- Los Juzgados de lo Mercantil;
+III. Los Juzgados de lo Mercantil;
 
-> <small>(REFORMADA, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
+IV. Los Juzgados de lo Penal;
 
-IV.- Los Juzgados de lo Penal;
+V. Los Juzgados de Control;
 
-> <small>(REFORMADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+VI. Los Juzgados Orales de lo Penal y de lo Mercantil;
 
-V.- Los Juzgados Especializados en Justicia para Adolescentes; y
+VII. Los Juzgados Especializados en Justicia para Adolescentes;
 
-> <small>(REFORMADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+VIII. Los Juzgados Mixtos; y
 
-VI.- Los Juzgados Mixtos.
+IX. Los Juzgados de Ejecución de Sanciones.
 
-> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
-
-Los Juzgados a que se refieren las fracciones I, II, IV y VI, podrán conocer de la materia de justicia especializada para adolescentes, según lo determine el Consejo del Poder Judicial, atendiendo a las necesidades de servicio.
-
-> <small>(ADICIONADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+Los Juzgados a que se refieren las fracciones I, II, IV y VIII, podrán conocer de la materia de justicia especializada para adolescentes, según lo determine el Consejo del Poder Judicial, atendiendo a las necesidades de servicio.
 
 Además, el Consejo podrá crear juzgados de primera instancia supernumerarios.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE JUNIO DE 2012)</small>
+
 ###### ARTICULO 57.
 
-Los Juzgados de Primera Instancia se compondrán de un Juez y del número de secretarios, actuarios y empleados que determine el presupuesto.
+Los Juzgados de Primera Instancia a que se refieren las fracciones I, II, III, IV, V y IX del artículo que antecede, se compondrán de un Juez y del número de secretarios, actuarios y empleados que determine el presupuesto.
 
 Los Jueces de Primera Instancia deberán actuar, en todos los casos, con Secretarios de Acuerdos o, en ausencia de éstos, con testigos de asistencia.
 
 > <small>(ADICIONADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 Los actuarios adscritos a las Centrales de Actuarios, estarán autorizados para llevar a efecto diligencias en expedientes, exhortos y requisitorias provenientes de juzgados distintos al que los nombró.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 28 DE JUNIO DE 2012)</small>
+
+ARTICULO 57 BIS.- Los Juzgados de Control, Orales de lo Penal y de Ejecución de Sanciones, se integrarán con los servidores públicos que sean necesarios para el buen funcionamiento del Juzgado, debiendo nombrarse de forma obligatoria un administrador, con las siguientes atribuciones:
+
+I. Dirigir las labores administrativas del Juzgado de su adscripción;
+
+II. Vigilar y controlar el buen desempeño de los funcionarios y empleados a su cargo en el ejercicio de las funciones encomendadas, conforme a lo dispuesto por las leyes;
+
+III. Proveer, en la esfera administrativa, la programación de las diligencias a desarrollarse en las Salas de audiencia a su cargo y, en general, todas las medidas necesarias para la buena marcha de los juzgados o tribunales;
+
+IV. Elaborar y remitir los informes estadísticos que en su momento sean requeridos;
+
+V. Vigilar la conservación y funcionalidad de los bienes muebles e inmuebles asignados, debiendo poner en inmediato conocimiento al área correspondiente sobre cualquier deterioro que sufran;
+
+VI. Custodiar los bienes y valores que se encuentren a disposición del Tribunal con motivo de la tramitación de los asuntos;
+
+VII. Entregar y recibir bajo riguroso inventario los bienes y valores a que se refieren las dos fracciones anteriores, cuando se requiera;
+
+VIII. Distribuir los asuntos entre los jueces por turno riguroso, respetando la agenda previamente establecida;
+
+IX. Cotejar las actuaciones con sus reproducciones, para fidelidad de estos documentos;
+
+X. Revisar los expedientes de las causas;
+
+XI. Auxiliar al titular de juzgado o tribunal en el trámite de los juicios de amparo; y
+
+XII. Las demás que determinen las leyes respectivas.
+
+Para el desempeño de las atribuciones a su cargo, el administrador contará con el personal auxiliar necesario que determine el Consejo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 28 DE JUNIO DE 2012)</small>
+
+ARTICULO 57 TER.- Para ser administrador se requiere:
+
+I. Ser mayor de veinticinco años;
+
+II. Ser profesionista titulado, con experiencia en la Administración Pública; y
+
+III. No haber sido condenado por la comisión de algún delito doloso.
 
 > <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
@@ -715,9 +779,75 @@ Además, los Juzgados de lo Civil conocerán, a elección del actor, de las cont
 
 Se exceptúan de lo dispuesto en este artículo, los asuntos de la competencia de los Juzgados de lo Mercantil y de lo Familiar, cuando existan éstos en el Distrito Judicial respectivo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 28 DE JUNIO DE 2012)</small>
+
 ###### ARTICULO 60.
 
-Los Juzgados de lo Penal conocerán de los delitos del orden común cometidos en el Estado, así como de aquéllos que se inicien o consumen en otro Estado de la República, en el Distrito Federal o en cualquier parte del territorio nacional, cuando produzcan o se pretenda que dichos delitos tengan efectos dentro del Estado.
+En materia penal la función jurisdiccional estará a cargo de los Juzgados de lo Penal, los Juzgados de Control, los Juzgados Orales de lo Penal y los Juzgados de Ejecución de Sanciones, quienes conforme a la etapa del procedimiento que corresponda, conocerán de los delitos del orden común cometidos en el Estado, así como de aquellos que se inicien o consumen en otro Estado de la República, en el Distrito Federal o en cualquier parte del territorio nacional, cuando produzcan o se pretenda que dichos delitos tengan efectos dentro del Estado, asimismo estarán a cargo de los delitos en los que tengan competencia concurrente con la federación, teniendo en común, los siguientes deberes:
+
+I. Resolver los asuntos sometidos a su potestad dentro de los términos previstos en la ley y con sujeción a los principios que orientan el ejercicio de la función jurisdiccional y los del procedimiento;
+
+II. Respetar, garantizar y velar por la salvaguarda de los derechos de quienes intervienen en el proceso;
+
+III. Realizar personalmente las funciones que le confiere la ley y responder por el uso de la autoridad que les haya sido otorgada en el ámbito de su competencia;
+
+IV. Guardar reserva sobre los asuntos relacionados con su función, aún después de haber cesado en el ejercicio del cargo;
+
+V. Atender oportuna y debidamente las peticiones dirigidas por los sujetos que intervienen dentro del procedimiento penal;
+
+VI. Abstenerse de presentar en público al imputado o acusado como culpable; y
+
+VII. Los demás establecidos en la presente Ley y otras disposiciones aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 28 DE JUNIO DE 2012)</small>
+
+ARTICULO 60 BIS.- Los Juzgados de control conocerán de la etapa de investigación que requiera intervención judicial y de la etapa intermedia, contando con las siguientes atribuciones:
+
+I. Otorgar las autorizaciones judiciales previas que solicite el Ministerio Público para realizar exhumación de cadáveres, órdenes de cateo, intervención de comunicaciones privadas y correspondencia, toma de muestras de fluido corporal, reconocimiento o examen físico de una persona y demás actuaciones que priven, restrinjan o perturben los derechos asegurados por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y los convenios y Tratados Internacionales vigentes en el país;
+
+II. Dirigir las audiencias judiciales de las fases de investigación, de control previo, investigación formalizada, así como resolver los incidentes que se promueven en ellas;
+
+III. Decidir sobre la libertad o prisión preventiva y demás medidas cautelares de los imputados, así como la modificación a éstas, en tanto esté conociendo del asunto respectivo;
+
+IV. Resolver sobre la vinculación a proceso de los imputados;
+
+V. Procurar la solución del conflicto a través de los mecanismos alternativos de solución de controversias, con los términos que establezca la Ley;
+
+VI. Dirigir la audiencia intermedia;
+
+VII. Dictar sentencia en el procedimiento abreviado; y
+
+VIII. Las demás que le otorgue esta Ley y otras disposiciones aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 28 DE JUNIO DE 2012)</small>
+
+ARTICULO 60 TER.- Los Juzgados Orales de lo Penal, conocerán de la etapa de juicio, contando con las siguientes atribuciones:
+
+I. Conocer y juzgar las causas penales;
+
+II. Resolver todas las cuestiones que se presentan durante el juicio;
+
+III. Dictar sentencia definitiva; y
+
+IV. Las demás que le otorgue esta Ley y otras disposiciones aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 28 DE JUNIO DE 2012)</small>
+
+ARTICULO 60 CUATER.- Los Juzgados de Ejecución de Sanciones, conocerán de la etapa de ejecución de la sentencia definitiva ejecutoriada, contando con las siguientes atribuciones:
+
+I. Resolver todo sobre la modificación y duración de las sanciones penales, de acuerdo a la ley de la materia y demás que establece el Código de Procedimientos Penales para el Estado, de los sentenciados;
+
+II. Formar expediente particular a cada sentenciado desde que se dicte sentencia ejecutoria, para darle seguimiento hasta que esté en aptitud de obtener los beneficios o tratamiento que concede la ley, integrado con la copia de la sentencia ejecutoriada que le impuso la pena privativa de libertad y demás documentos, dictámenes y datos que sean necesarios para resolver sobre aquellos; y
+
+III. Las demás que les señale la normatividad correspondiente.
 
 ###### ARTICULO 61.
 
@@ -741,9 +871,13 @@ VII.- De las cuestiones relativas a los asuntos que afecten en sus derechos de p
 
 Los Juzgados de lo Mercantil conocerán de los asuntos mercantiles relativos, cuando se actualice el supuesto previsto en el artículo 104, fracción I, de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 28 DE JUNIO DE 2012)</small>
+
 ###### ARTICULO 63.
 
-Los Juzgados Mixtos conocerán de los asuntos a que se refieren los artículos precedentes del presente capítulo.
+Los Juzgados Mixtos conocerán de los asuntos a que se refieren los artículos 59, 60, primer párrafo, 61 y 62 de la presente Ley.
 
 > <small>(ADICIONADO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
@@ -799,9 +933,13 @@ En los lugares en que no resida Juez de Distrito o cuando éste servidor no hubi
 
 El Pleno del Consejo del Poder Judicial, mediante Acuerdos Generales que deberán publicarse en el Boletín Oficial del Gobierno del Estado, determinará el número, la residencia, la especialidad por materia, la jurisdicción territorial y el conocimiento por tumos de los Tribunales Regionales de Circuito y de los Juzgados de Primera Instancia.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 28 DE JUNIO DE 2012)</small>
+
 ###### ARTICULO 67.
 
-En cada Distrito Judicial deberá existir, cuando menos, un Juzgado Mixto de Primera Instancia.
+El número de Juzgados en cada Distrito Judicial será determinado mediante acuerdo del Consejo del Poder Judicial del Estado de Sonora.
 
 ### CAPITULO QUINTO. DE LOS JUZGADOS DE PRIMERA INSTANCIA SUPERNUMERARIOS
 
@@ -867,7 +1005,7 @@ XIII.- Las demás que les señalen esta ley u otras disposiciones legales aplica
 
 Cuando un Juez de Primera Instancia falte por un término menor de treinta días al despacho del Juzgado, el primer Secretario o, en su caso, el Secretario del Ramo Civil, practicará las diligencias dictará los autos de mero trámite y las resoluciones de carácter urgente, sin perjuicio de que antes de que transcurra dicho plazo, el Pleno del Consejo del Poder Judicial designe provisionalmente a la persona que sustituya al Juez de que se trate.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 Las ausencias de los Jueces de Primera Instancia mayores de un mes y las faltas absolutas de éstos, se cubrirán con la persona que, provisionalmente, designe el Pleno del Consejo del Poder Judicial.
 
@@ -909,7 +1047,7 @@ Las ausencias temporales de los Actuarios serán cubiertas por la persona que de
 
 ### CAPITULO UNICO. DE LOS JUECES LOCALES
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 77.
 
@@ -929,7 +1067,9 @@ Corresponde a los Jueces Locales:
 
 I.- Conocer de los asuntos civiles y mercantiles en los casos de jurisdicción concurrente, cuya cuantía no exceda de veinte veces el salario mínimo general, vigente en la ciudad de Hermosillo;
 
-II.- Conocer de los delitos del orden común previstos en los artículos 139, 150, 152, 160, 163, 165, 173, 207, 249, párrafo primero, 250, primera parte, 277, y 339 del Código Penal para el Estado de Sonora;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+II.- (DEROGADA, B.O. 28 DE JUNIO DE 2012)
 
 III.- Nombrar y remover, conceder licencias y aceptar renuncias, en los términos de ley, a los empleados del Juzgado;
 
@@ -979,7 +1119,11 @@ VIII.- Expedir los reglamentos en materia administrativa, de carrera judicial, d
 
 IX.- Suspender en sus cargos a los Jueces Locales, a solicitud de la autoridad judicial que conozca del procedimiento penal que se siga en su contra. En estos casos, la resolución que se dicte deberá comunicarse a la autoridad que la hubiere solicitado;
 
-X.- Suspender en sus funciones a los Jueces Locales a quienes se libre orden de aprehensión o se les dicte auto de formal prisión por delito de carácter intencional o preterintencional, o por cualquiera de aquellos cuya pena máxima exceda de seis años de prisión;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 2012)</small>
+
+X.- Suspender en sus funciones a los Jueces Locales a quienes se libre orden de aprehensión o se les dicte auto de vinculación a proceso por delito de carácter intencional o preterintencional, o por cualquiera de aquellos cuya pena máxima exceda de seis años de prisión;
 
 XI.- Resolver sobre las quejas administrativas y sobre la responsabilidad de los servidores públicos en términos de lo que dispone esta ley, incluyendo aquellas que se refieran a la violación de los impedimentos previstos en el artículo 123 de la Constitución Política del Estado;
 
@@ -1023,7 +1167,7 @@ XXX.- Convocar periódicamente a congresos estatales o regionales de magistrados
 
 XXXI.- Investigar y determinar las responsabilidades y sanciones a los servidores públicos y empleado del propio Consejo, de los Tribunales Regionales de Circuito y Juzgados de Primera Instancia y Locales, en los términos y mediante los procedimientos establecidos en la ley, los reglamentos y acuerdos que el Consejo dicte en materia disciplinaria;
 
-XXXll.- Realizar visitas extraordinarias o integrar comités de investigación, cuando estime que se ha cometido una falta grave o cuando así lo solicite el Pleno del Supremo Tribunal de Justicia, sin perjuicio de las facultades que correspondan a la Visitaduría Judicial y Contraloría;
+XXXII.- Realizar visitas extraordinarias o integrar comités de investigación, cuando estime que se ha cometido una falta grave o cuando así lo solicite el Pleno del Supremo Tribunal de Justicia, sin perjuicio de las facultades que correspondan a la Visitaduría Judicial y Contraloría;
 
 XXXIII.- Dictar las medidas que exijan el buen servicio y la disciplina en las oficinas de los Tribunales Regionales de Circuito, Juzgados de Primera Instancia, Juzgados Locales y órganos auxiliares del Consejo.
 
@@ -1201,13 +1345,13 @@ El Pleno del Consejo calificará las excusas e impedimentos de los miembros de l
 
 Las Comisiones creadas nombrarán a su respectivo Presidente y mediante acuerdos del Pleno del Consejo se determinará el tiempo que deba permanecer en el cargo.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ## TITULO SEPTIMO. DE LOS ORGANOS AUXILIARES DEL CONSEJO DEL PODER JUDICIAL DEL ESTADO
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 97.
 
@@ -1249,11 +1393,11 @@ Los titulares de los órganos auxiliares del Consejo y de las Direcciones, Centr
 
 Los órganos auxiliares tendrán las atribuciones contenidas en la presente Ley, en los acuerdos generales y en los reglamentos internos que emita el Pleno del Consejo del Poder Judicial.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ### CAPITULO SEGUNDO. DE LA SECRETARÍA EJECUTIVA DE ADMINISTRACIÓN DEL CONSEJO DEL PODER JUDICIAL
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 98.
 
@@ -1417,7 +1561,7 @@ V.- Difundir, en coordinación con la Unidad de Apoyo y Modernización de la Fun
 
 VI.- Contribuir al desarrollo de la vocación de servicio, así como al ejercicio de los valores y principios éticos inherentes a la función judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 105.
 
@@ -1437,7 +1581,7 @@ El Comité Académico, en consulta con el titular del Instituto de la Judicatura
 
 ### CAPITULO CUARTO. DE LA VISITADURIA JUDICIAL Y CONTRALORIA
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 107.
 
@@ -1509,7 +1653,7 @@ Una copia del acta levantada por el visitador será entregada al titular del ór
 
 ### CAPITULO QUINTO. DEL ARCHIVO GENERAL DEL PODER JUDICIAL DEL ESTADO
 
-> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PARRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PÁRRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 111.
 
@@ -1559,7 +1703,7 @@ El ingreso y la promoción de los servidores públicos de carácter jurisdiccion
 
 En los procedimientos para el ingreso a la carrera judicial, el Consejo del Poder Judicial del Estado y el Instituto de la Judicatura Sonorense tendrán la facultad de verificar la información que los aspirantes proporcionen.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 120.
 
@@ -1579,7 +1723,7 @@ Para ser Secretario Proyectista y Secretario Auxiliar de Acuerdos del Supremo Tr
 
 Los servidores públicos de carácter jurisdiccional a que se refiere el presente artículo, serán nombrados y removidos de conformidad con las disposiciones que en materia de carrera judicial y responsabilidades establece esta ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 122.
 
@@ -1589,7 +1733,7 @@ Los Jueces de Primera Instancia durarán cinco años en el ejercicio de su encar
 
 Los Jueces de Primera Instancia, sin perjuicio de lo establecido en el presente artículo, podrán ser privados de sus cargos, en cualquier momento, por las causas que señala esta ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 123.
 
@@ -1655,7 +1799,7 @@ En los concursos internos de oposición para las plazas de Magistrado Regional d
 
 Los concursos internos de oposición y de oposición libre se sujetarán al siguiente procedimiento:
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 I.- El Consejo del Poder Judicial del Estado emitirá una convocatoria que deberá publicarse, por una vez, en el Boletín Oficial del Gobierno del Estado de Sonora y, cuando menos, por dos veces, en dos de los diarios de mayor circulación en el Estado, con intervalo de cinco días hábiles entre cada publicación.
 
@@ -1763,11 +1907,11 @@ IV.- Los demás que estime pertinentes, siempre que consten en acuerdos generale
 
 El Presidente de la Comisión de Carrera Judicial del Consejo del Poder Judicial, para la ratificación y readscripción de Magistrados Regionales de Circuito y Jueces de Primera Instancia, remitirá al Presidente del mencionado Consejo los expedientes de los servidores públicos relativos, debiéndose sujetar este órgano, para las ratificaciones y readscripciones del caso, en lo conducente, al procedimiento establecido en el artículo 130 de esta Ley.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ## TITULO OCTAVO BIS. DEL NOMBRAMIENTO Y DE LA RATIFICACION DE MAGISTRADOS DEL SUPREMO TRIBUNAL DE JUSTICIA
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ### CAPITULO UNICO. DEL NOMBRAMIENTO Y DE LA RATIFICACION DE MAGISTRADOS DEL SUPREMO TRIBUNAL DE JUSTICIA
 
@@ -1779,7 +1923,7 @@ Al finalizar el periodo constitucional para el que fueron designados los Magistr
 
 > <small>(ADICIONADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
-ARTICULO 139 BIS-A.- En el procedimiento de evaluación del desempeño de los Magistrados del Supremo Tribunal de Justicia, deberá integrarse un expediente individualizado con la siguiente documentación:
+ARTICULO 139 BIS A.- En el procedimiento de evaluación del desempeño de los Magistrados del Supremo Tribunal de Justicia, deberá integrarse un expediente individualizado con la siguiente documentación:
 
 I.- Las constancias y documentos con las que se comprueben los requisitos a que se refiere el artículo 114 de la Constitución Política del Estado de Sonora; y
 
@@ -1815,7 +1959,7 @@ La información referida en las fracciones II y IV deberá ser entregada por el 
 
 > <small>(ADICIONADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
-ARTICULO 139 BIS-B.- El Ejecutivo del Estado deberá emitir una resolución debidamente fundada y motivada en la que determine si procede o no la ratificación del Magistrado.
+ARTICULO 139 BIS B.- El Ejecutivo del Estado deberá emitir una resolución debidamente fundada y motivada en la que determine si procede o no la ratificación del Magistrado.
 
 Cuando la resolución del Ejecutivo fuere de no ratificación, el Magistrado terminará su encargo y el Gobernador del Estado procederá al nombramiento del nuevo Magistrado y lo someterá a la aprobación del Congreso del Estado.
 
@@ -1869,7 +2013,7 @@ Serán causas de responsabilidad para los servidores públicos que desempeñen f
 
 Se considerarán como faltas graves de los servidores públicos del Poder Judicial del Estado de Sonora, el incumplimiento de las obligaciones contenidas en las fracciones XVI a XVIII y XX a XXII del artículo 63 de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios; además, serán faltas graves de los servidores públicos del Poder Judicial del Estado que desempeñen funciones jurisdiccionales, el incumplimiento de las obligaciones señaladas en las fracciones I a IV del artículo 141 de esta ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 144.
 
@@ -1999,7 +2143,7 @@ En lo no previsto en el presente capítulo se aplicará la Ley de Responsabilida
 
 ### CAPITULO PRIMERO. DE LA PROTESTA CONSTITUCIONAL
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 159.
 
@@ -2117,7 +2261,7 @@ Las licencias mayores a tres meses se otorgarán de manera extraordinaria y por 
 
 Toda licencia deberá concederse a través de un escrito en el que se hará constar la calificación de las razones aducidas en la solicitud de la licencia respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 178.
 
@@ -2233,7 +2377,7 @@ SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Hermosillo, Sonora, a 19 de Novie
 
 POR TANTO, mando se publique en el Boletín Oficial del Estado y se le dé el debido cumplimiento.- PALACIO DE GOBIERNO, Hermosillo, Sonora, veinticinco de noviembre de mil novecientos noventa y seis.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. MANLIO FABIO BELTRONES RIVERA.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- LIC. ROBERTO SANCHEZ CEREZO.- RUBRICA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 20 DE MAYO DE 2004.
 
@@ -2279,4 +2423,12 @@ Hasta en tanto se establezca un Juzgado Especializado en Justicia para Adolescen
 
 ###### ARTICULO SEXTO.
 
-Los órganos auxiliares administrativos del Supremo Tribunal de Justicia, creados por acuerdos del Pleno de este Cuerpo Colegiado, pasarán a formar y parte bajo la dependencia del Consejo del Poder Judicial.
+Los órganos auxiliares administrativos del Supremo Tribunal de Justicia, creados por acuerdos del Pleno de este Cuerpo Colegiado, pasarán a formar parte y bajo la dependencia del Consejo del Poder Judicial.
+
+B.O. 28 DE JUNIO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor el 18 de junio de 2016, previa publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+El Congreso del Estado podrá establecer, mediante declaratorias, la entrada en vigor de la presente reforma de manera gradual, antes del 18 de junio de 2016, en las modalidades que determine, por Distrito Judicial y por tipos de delitos.
