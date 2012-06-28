@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-instituciones-y-procesos-electorales-del-estado-17614
 country: "mx"
 rank: "codigo"
 publication_date: "2000-10-02"
-last_updated: "2012-02-20"
+last_updated: "2012-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2012.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el lunes 2 de octubre de 2000.
 
@@ -213,7 +213,9 @@ III.- Código: El Código de Instituciones y Procesos Electorales del Estado de 
 
 IV.- Instituto: El Instituto Electoral del Estado;
 
-V.- Consejo General: El Consejo General del Instituto Electoral del Estado de Puebla;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2012)</small>
+
+V.- Consejo General: El Consejo General del Instituto Electoral del Estado;
 
 VI.- Consejo Distrital: El Consejo Distrital Electoral;
 
@@ -367,7 +369,9 @@ B. Los subsecuentes serán asignados conforme al sistema de listas votadas en un
 
 Por cada Diputado propietario se elegirá un suplente.
 
-El Congreso del Estado se renovará en su totalidad cada tres años e iniciará sus funciones el día quince de enero del año siguiente al de la elección.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2012)</small>
+
+El Congreso del Estado se renovará en su totalidad cada tres años e iniciará sus funciones conforme lo dispuesto en la Constitución Local.
 
 En caso de falta absoluta de algún Diputado propietario y de su respectivo suplente, electos por el principio de mayoría relativa, se convocará a elecciones extraordinarias.
 
@@ -447,175 +451,27 @@ La sección electoral es la fracción territorial en la que se divide a los muni
 
 ## TÍTULO SEGUNDO. DE LA DIVISIÓN DISTRITAL
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 27.
 
-Cada uno de los distritos electorales uninominales comprende la demarcación y los municipios siguientes:
+El Consejo General, mediante la realización de los estudios técnicos necesarios, será el encargado de definir la demarcación territorial y las cabeceras de los veintiséis distritos electorales uninominales en los que se divide el Estado.
 
-DISTRITO 1
+Los trabajos técnicos para definir la demarcación territorial y las cabeceras de los distritos electorales uninominales, así como su aprobación por parte del Consejo General, se desarrollarán en el tiempo que transcurre entre la celebración de dos procesos electorales ordinarios.
 
-Cabecera: Heroica Ciudad de Puebla de Zaragoza.
+El Secretario Ejecutivo mandará publicar en el Periódico Oficial del Estado y en los Diarios de mayor circulación de la Entidad, el Acuerdo a través del cual el Consejo General define la demarcación territorial y las cabeceras de los distritos electorales uninominales.
 
-Parte del punto de confluencia formado por la carretera a Tlaxcala y la barranca Atlacomonte, en dirección este y siguiendo los accidentes de los límites del Estado de Tlaxcala, con el municipio de Puebla, hasta la margen oeste de la barranca Xapatlaxco, dando vuelta hacia el suroeste en todos sus accidentes, hasta llegar al límite este del Rancho el Conde, hasta encontrar la carretera vía corta a Santa Ana Chiautempan, donde dobla hacia el oeste hasta llegar a la avenida Del Conde, donde dobla hacia el oeste, siguiendo el margen norte de la carretera hasta encontrar la calle de La Paz, dando vuelta hacia el noroeste y siguiendo en la misma dirección hasta la calle Madero, donde dobla al suroeste hasta la calle 5 de Mayo, doblando hacia el noroeste hasta la calle Benito Juárez, dando vuelta hacia el noreste, hasta encontrar la calle 5 de Mayo donde dobla hacia el noroeste, hasta encontrar la margen oeste de la vía del ferrocarril, donde dobla hacia el sur, para continuar en todos sus accidentes hasta llegar al Boulevard Norte Héroes del 5 de Mayo, dando vuelta hacia el oeste hasta llegar a la altura de la avenida 36 poniente, doblando hacia el sur hasta la calle 15 norte, donde dobla hacia el suroeste hasta encontrar la avenida 18 poniente, da vuelta al oeste hasta llegar a la calle 25 norte, doblando hacia el suroeste y siguiendo en esta dirección hasta la avenida 6 poniente, doblando hacia el oeste hasta la calle 27 norte, donde dobla hacia el suroeste hasta la avenida Reforma, donde dobla hacia el noroeste, continuando en esta dirección y sigue por su prolongación y por la calle Nacional hasta el límite oeste del municipio de Puebla, dando vuelta hacia el noroeste en todos sus accidentes, para concluir en el punto de partida.
+El Consejo General deberá aprobar el método para la elaboración de los estudios para definir la demarcación territorial y cabeceras de los distritos electorales uninominales, en el que deberá considerar elementos demográficos, técnicos y geográficos, en cuyas variables se contemplarán por lo menos, los siguientes criterios:
 
-Quedan incluidos los pueblos de la Libertad, Ignacio Romero Vargas, San Jerónimo Caleras, San Felipe Hueyotlipan y San Pablo Xochimehuacan.
+a) Poblacional, para determinar el número de habitantes que contendrá cada distrito electoral;
 
-DISTRITO 2
+b) Conurbación;
 
-Cabecera: Heroica Ciudad de Puebla de Zaragoza.
+c) Integridad municipal y seccional; y
 
-Parte del punto de confluencia formado por la margen oeste de la barranca Xapatlaxco, en dirección este y siguiendo los accidentes de los límites del Estado de Tlaxcala con el municipio de Puebla, hasta la convergencia de éste con los de Tepatlaxco de Hidalgo y Amozoc, continúa en las irregularidades de los límites de estos municipios hasta encontrar los límites norte del Ejido de San Miguel Espejo, y este de la Villa de La Resurrección, del municipio de Puebla, respectivamente, y siguiendo en dirección suroeste en todos sus accidentes de este último hasta llegar a la Autopista Orizaba, dando vuelta hacia el noroeste hasta encontrar la calzada Ignacio Zaragoza, doblando hacia el suroeste y continuando en esta dirección hasta encontrar la margen oeste de la vía del ferrocarril Puebla-Oaxaca, donde dobla hacia el sur, hasta la Diagonal Defensores de la República, dando vuelta hacia el este hasta el carril de la Rosa, límite este de la Unidad Habitacional La Ciénega, hasta encontrar la calle Acueducto, donde dobla hacia el suroeste hasta encontrar el Carril de la Rosa, da vuelta al suroeste en todos sus accidentes y continuando en esta dirección por la prolongación 20 oriente, y en dirección oeste sobre el Boulevard Xonaca, hasta la calle 18 norte donde dobla hacia el suroeste hasta encontrar la avenida 14 oriente, donde dobla hacia el sureste hasta la calle 20 norte, donde dobla hacia el suroeste hasta la avenida 4 oriente, da vuelta al oeste hasta la calle 18 norte, dando vuelta hacia el suroeste, hasta la avenida Juan de Palafox y Mendoza, donde dobla hacia el noroeste y continuando en esta dirección por la avenida de la Reforma, hasta encontrar la calle 27 norte, doblando hacia el noreste hasta la avenida 6 poniente, da vuelta hacia el este, hasta la calle 25 norte, dando vuelta hacia el noreste hasta la avenida 18 poniente, da vuelta al este hasta llegar a la calle 15 norte, donde dobla hacia el noreste hasta encontrar la avenida 36 poniente, da vuelta al norte hasta el Boulevard Norte Héroes del 5 de Mayo, doblando al este hasta encontrar la margen este de la vía del ferrocarril, donde dobla hacia el norte, hasta llegar a la calle 5 de Mayo, doblando hacia el sureste hasta la calle Benito Juárez, dando vuelta hacia el suroeste hasta la calle 5 de Mayo, doblando hacia el sureste hasta la calle Madero, da vuelta hacia el noreste hasta la calle de La Paz, donde dobla hacia el sureste hasta encontrar la vía corta a Santa Ana Chiautempan, siguiendo por ésta hasta encontrar la avenida del Conde, continuando hacia el noreste hasta llegar a la calle sin nombre donde dobla hacia el sureste hasta llegar a la Autopista Puebla-México, donde dobla hacia el sureste hasta llegar a la barranca Xapatlaxco, dando vuelta al noreste en todos sus accidentes, para concluir en el punto de partida.
+d) Continuidad geográfica.
 
-Quedan incluidos los pueblos de San Aparicio, La Resurrección y San Miguel Canoa.
-
-DISTRITO 3
-
-Cabecera: Heroica Ciudad de Puebla de Zaragoza.
-
-Parte del punto de confluencia formado por los límites este de la Villa de La Resurrección y oeste del pueblo de Santa María Xonacatepec, en dirección noreste y este, siguiendo en los de San Miguel Espejo hacia el noreste en todos sus accidentes hasta el límite norte del mismo y oeste del municipio de Amozoc, y continuando hacia el suroeste sobre el mismo límite de este último municipio hasta llegar a la altura del límite sur de las colonias Ciclista Club y Mármol y continuando por el límite oeste de las mismas en línea imaginaria hasta llegar a la altura del límite suroeste de la colonia El Chamizal, y siguiendo en esta dirección por la avenida Juan de Palafox y Mendoza hasta llegar a la calle 18 norte, dando vuelta hacia el este hasta la avenida 4 oriente, doblando hacia el noreste hasta la calle 20 norte, donde dobla hacia el noreste hasta encontrar la avenida 14 oriente, doblando hacia el noroeste hasta la calle 18 norte donde dobla hacia el noreste hasta encontrar el Boulevard Xonaca, da vuelta hacia el este continuando por todos sus accidentes y luego hacia el noreste por la prolongación 20 oriente y Carril de la Rosa, hasta llegar a la calle Acueducto, donde dobla hacia el noreste hasta encontrar el límite este de la Unidad Habitacional La Ciénega - privada Pez Vela donde dobla hacia el noreste hasta llegar a la Diagonal Defensores de La República, dando vuelta hacia el oeste hasta llegar a la margen este de la vía del ferrocarril Puebla - Oaxaca, donde dobla hacia el norte hasta llegar a la calzada Ignacio Zaragoza, doblando hacia el noreste y continuando en esta dirección hasta encontrar la Autopista a Orizaba, dando vuelta hacia el noreste hasta llegar al límite oeste del pueblo de Santa María Xonacatepec, y continuando hacia el noreste en todos sus accidentes, para concluir en el punto de partida.
-
-Queda incluido el pueblo de Santa María Xonacatepec.
-
-DISTRITO 4
-
-Cabecera: Heroica Ciudad de Puebla de Zaragoza.
-
-Parte del punto de confluencia formado por la calle 14 sur y la avenida Juan de Palafox y Mendoza, en dirección noreste y continúa en línea imaginaria hasta llegar al límite este del municipio de Puebla y oeste del municipio de Amozoc, doblando hacia el sureste en sus accidentes hasta encontrar el límite norte del municipio de Cuautinchán y este del municipio de Puebla, continuando su configuración hasta converger con el límite norte del municipio de Tzicatlacoyan, donde dobla hacia el este hasta el límite sur de San Baltazar Tetela, dando vuelta al norte hasta el límite oeste del mismo pueblo, siguiendo en dirección norte hasta encontrar la margen sur del lago de Valsequillo, por el cual sigue en dirección norte en sus sinuosidades hasta encontrar el límite norte del pueblo de Tecola, atravesando el lago en dirección noreste hasta encontrar el límite sur de la colonia Ejidal Resurgimiento, continuando hacia el noreste hasta el límite norte del pueblo de San Francisco Totimehuacán, continuando en esta dirección hasta encontrar la carretera a Valsequillo, donde dobla hacia el norte hasta la calle Río Lerma, dando vuelta hacia el noreste hasta llegar a la avenida San Baltazar, da vuelta hacia el este hasta el Boulevard 14 sur, doblando hacia el noreste y continuando en esta dirección para concluir en el punto de partida.
-
-Quedan incluidos los pueblos: General Ignacio Zaragoza, Santo Tomás Chautla, San Baltazar Tetela, San Pedro Zacachimalpa y San Francisco Totimehuacán.
-
-DISTRITO 5
-
-Cabecera: Heroica Ciudad de Puebla de Zaragoza.
-
-Parte del punto de confluencia formado por la calle 13 sur y avenida de la Reforma, continúa en dirección noreste sobre la misma hasta encontrar el lado noroeste de la calle 14 sur, doblando hacia el suroeste y siguiendo por este rumbo hasta encontrar la avenida San Baltazar, da vuelta hacia el oeste hasta la calle Río Lerma, dando vuelta hacia el suroeste hasta llegar al Boulevard Valsequillo, doblando hacia el sureste y siguiendo por este rumbo hasta encontrar el límite norte del pueblo de San Francisco Totimehuacán, continúa hacia el sureste hasta encontrar el límite sur de la colonia Ejidal Resurgimiento, atravesando el lago de Valsequillo en dirección suroeste hasta encontrar el límite norte del pueblo de Tecola y la margen sur del lago, por la cual sigue en sus sinuosidades hasta llegar al límite oeste del pueblo de San Baltazar Tetela, dando vuelta al sur hasta el límite sur del mismo pueblo, donde dobla al oeste hasta el límite este del municipio de Puebla, continuando su configuración hasta converger con el límite norte del municipio de Huehuetlán El Grande, así como el de Teopantlán y Ocoyucan, dando vuelta hacia el sur hasta el límite norte del lago de Valsequillo y siguiendo hacia el este en su configuración hasta el límite sur de Santa Cruz Ixtla, dando vuelta hacia el este hasta el límite este de la misma localidad, donde dobla hacia el norte hasta llegar al límite este del fraccionamiento Balcones del Sur, y siguiendo por este rumbo hasta llegar a la avenida 113 poniente, donde dobla hacia el noroeste hasta la calzada Castillotla, da vuelta hacia el noreste y continuando en esta misma dirección sobre la avenida Nacional hasta llegar a la margen sur del Río San Francisco, y siguiendo hacia el este en todos sus accidentes hasta la calle 11 sur, doblando hacia el noreste hasta la avenida 47 poniente, da vuelta hacia el noroeste hasta la calle 11 sur donde dobla hacia el noreste hasta llegar a la avenida 35 poniente, doblando hacia el noroeste hasta la calle 13 sur, dando vuelta hacia el noreste y siguiendo por esta dirección, para concluir en el punto de partida.
-
-Quedan incluidos los pueblos de: Azumiatla, Tecola y San Baltazar Campeche.
-
-DISTRITO 6
-
-Cabecera: Heroica Ciudad de Puebla de Zaragoza.
-
-Parte del punto de confluencia formado por el límite oeste del municipio de Puebla y la calle Nacional, en dirección sureste siguiendo por la prolongación de la avenida de la Reforma, hasta llegar a la calle 13 sur, donde dobla al suroeste hasta la avenida 35 poniente, dobla al sureste hasta la calle 11 sur, dando vuelta hacia el suroeste hasta la avenida 47 poniente, doblando hacia el noreste hasta la calle 11 sur, da vuelta hacia el noroeste hasta llegar a la margen norte del Río San Francisco, dando vuelta hacia el oeste y continuando por todos sus accidentes hasta llegar a la avenida Nacional, donde dobla hacia el suroeste, siguiendo por esta dirección sobre la calzada Castillotla hasta la avenida 113 poniente, doblando hacia el noreste hasta la calle Primero de Enero, donde dobla hacia el suroeste continuando sobre este rumbo en todo el límite este de la colonia Granjas Puebla, y continuando con esta dirección en todos sus accidentes hasta encontrar el límite norte de Santa Cruz Ixtla, y continuando por todo el límite este de la localidad hasta llegar al límite sur de Santa Cruz Ixtla, donde dobla hacia el oeste hasta encontrar el límite norte del lago de Valsequillo, y continuando hacia el oeste en su configuración hasta el límite oeste del municipio de Puebla y este del municipio de Ocoyucan doblando hacia el norte y siguiendo su configuración de los límites oeste del municipio de Puebla y sur del municipio de San Andrés Cholula, siguiendo sobre esta misma dirección para concluir en el punto de partida.
-
-DISTRITO 7
-
-Cabecera: San Martín Texmelucan.
-
-Comprendiendo los municipios siguientes: San Martín Texmelucan, Chiautzingo, Huejotzingo, San Felipe Teotlalcingo, San Matías Tlalancaleca, San Salvador El Verde y Tlahuapan.
-
-DISTRITO 8
-
-Cabecera: San Pedro Cholula.
-
-Comprendiendo los municipios siguientes: San Pedro Cholula, Calpan, Coronango, Cuautlancingo, Domingo Arenas, Juan C. Bonilla, San Gregorio Atzompa, San Jerónimo Tecuanipan, San Miguel Xoxtla y Tlaltenango.
-
-DISTRITO 9
-
-Cabecera: Atlixco.
-
-Comprendiendo los municipios siguientes: Atlixco, Nealtican, Ocoyucan, San Andrés Cholula, San Nicolás de los Ranchos, Santa Isabel Cholula, Tianguismanalco y Tochimilco.
-
-DISTRITO 10
-
-Cabecera: Izúcar de Matamoros.
-
-Comprendiendo los municipios siguientes: Izúcar de Matamoros, Acteopan, Ahuatlán, Atzitzihuacan, Coatzingo, Cohuecan, Epatlán, Huaquechula, San Diego La Mesa Tochimiltzingo, San Martín Totoltepec, Teopantlán, Tepemaxalco, Tepeojuma, Tepexco, Tilapa, Tlapanalá y Xochiltepec.
-
-DISTRITO 11
-
-Cabecera: Chiautla.
-
-Comprendiendo los municipios siguientes: Chiautla, Albino Zertuche, Atzala, Chietla, Chila de la Sal, Cohetzala, Huehuetlán El Chico, Ixcamilpa de Guerrero, Jolalpan, Teotlalco, Tulcingo y Xicotlán.
-
-DISTRITO 12
-
-Cabecera: Acatlán de Osorio.
-
-Comprendiendo los municipios siguientes: Acatlán, Ahuehuetitla, Axutla, Chila, Chinantla, Guadalupe, Petlalcingo, Piaxtla, San Jerónimo Xayacatlán, San Miguel Ixitlán, San Pablo Anicano, San Pedro Yeloixtlahuaca, Tecomatlán, Tehuitzingo, Totoltepec de Guerrero y Xayacatlán de Bravo.
-
-DISTRITO 13
-
-Cabecera: Tepexi de Rodríguez.
-
-Comprendiendo los municipios siguientes: Tepexi de Rodríguez, Atexcal, Atoyatempan, Coyotepec, Cuayuca de Andrade, Chigmecatitlán, Huatlatlauca, Huehuetlán El Grande, Huitziltepec, Ixcaquixtla, Juan N. Méndez, La Magdalena Tlatlauquitepec, Molcaxac, San Juan Atzompa, Santa Catarina Tlaltempan, Santa Inés Ahuatempan, Tepeyahualco de Cuauhtémoc y Zacapala.
-
-DISTRITO 14
-
-Cabecera: Tehuacán.
-
-Comprendiendo los municipios siguientes: Tehuacán, Tepanco de López, Chapulco, Santiago Miahuatlán y Nicolás Bravo.
-
-DISTRITO 15
-
-Cabecera: Ajalpan.
-
-Comprendiendo los municipios siguientes: Ajalpan, Zapotitlán, Caltepec, San Gabriel Chilac, San José Miahuatlán, Altepexi, Zinacatepec, Coxcatlán, San Antonio Cañada, Vicente Guerrero, Zoquitlán, Coyomeapan, San Sebastián Tlacotepec y Eloxochitlán.
-
-DISTRITO 16
-
-Cabecera: Tepeaca.
-
-Comprendiendo los municipios siguientes: Tepeaca, Acajete, Amozoc, Cuautinchán, Mixtla, Santo Tomás Hueyotlipan, Tecali de Herrera, Tepatlaxco de Hidalgo y Tzicatlacoyan.
-
-DISTRITO 17
-
-Cabecera: Tecamachalco.
-
-Comprendiendo los municipios siguientes: Tecamachalco, Cuapiaxtla de Madero, General Felipe Ángeles, Palmar de Bravo, Quecholac, Los Reyes de Juárez, San Salvador Huixcolotla, Tlacotepec de Benito Juárez, Tlanepantla, Tochtepec, Xochitlán Todos Santos y Yehualtepec.
-
-DISTRITO 18
-
-Cabecera: Acatzingo.
-
-Comprendiendo los municipios siguientes: Acatzingo, Mazapiltepec de Juárez, Nopalucan, Rafael Lara Grajales, San José Chiapa, San Nicolás Buenos Aires, San Salvador El Seco y Soltepec.
-
-DISTRITO 19
-
-Cabecera: Ciudad Serdán.
-
-Comprendiendo los municipios siguientes: Chalchicomula de Sesma, Aljojuca, Atzitzintla, Cañada Morelos, Chichiquila, Chilchotla, Esperanza, Guadalupe Victoria, Lafragua, Quimixtlán, San Juan Atenco y Tlachichuca.
-
-DISTRITO 20
-
-Cabecera: Tlatlauquitepec.
-
-Comprendiendo los municipios siguientes: Tlatlauquitepec, Atempan, Hueyapan, Libres, Oriental, Tepeyahualco, Teteles de Ávila Castillo, Yaonahuac y Zaragoza.
-
-DISTRITO 21
-
-Cabecera: Teziutlán.
-
-Comprendiendo los municipios siguientes: Teziutlán, Acateno, Ayotoxco de Guerrero, Chignautla, Hueytamalco, Tenampulco y Xiutetelco.
-
-DISTRITO 22
-
-Cabecera: Zacapoaxtla.
-
-Comprendiendo los municipios siguientes: Zacapoaxtla, Cuetzalan del Progreso, Cuyoaco, Jonotla, Nauzontla, Ocotepec, Tuzamapan de Galeana, Xochitlán de Vicente Suárez, Zautla y Zoquiapan.
-
-DISTRITO 23
-
-Cabecera: Tetela de Ocampo.
-
-Comprendiendo los municipios siguientes: Tetela de Ocampo, Aquixtla, Cuautempan, Chignahuapan, Huitzilan de Serdán, Ixtacamaxtitlán, Xochiapulco, Zapotitlán de Méndez y Zongozotla.
-
-DISTRITO 24
-
-Cabecera: Zacatlán.
-
-Comprendiendo los municipios siguientes: Zacatlán, Ahuacatlán, Amixtlán, Camocuautla, Caxhuacan, Coatepec, Hermenegildo Galeana, Huehuetla, Hueytlalpan, Atlequizayan, Ixtepec, Jopala, Olintla, San Felipe Tepatlán, Tepango de Rodríguez, Tepetzintla y Tlapacoya.
-
-DISTRITO 25
-
-Cabecera: Huauchinango.
-
-Comprendiendo los municipios siguientes: Huauchinango, Ahuazotepec, Chiconcuautla, Honey, Juan Galindo, Naupan, Pahuatlán y Tlaola.
-
-DISTRITO 26
-
-Cabecera: Xicotepec.
-
-Comprendiendo los municipios siguientes: Xicotepec, Francisco Z. Mena, Jalpan, Pantepec, Tlacuilotepec, Tlaxco, Venustiano Carranza y Zihuateutla.
+Los representantes de los partidos políticos acreditados ante el Consejo General participarán invariablemente en los trabajos para la definición de la demarcación territorial y cabeceras de los distritos electorales uninominales; para tales efectos, el Consejo General integrará la Comisión Especial correspondiente.
 
 # LIBRO TERCERO. DE LOS PARTIDOS POLÍTICOS
 
@@ -991,11 +847,11 @@ VI.- Los ministros de culto y las asociaciones religiosas; y
 
 VII.- Las empresas mexicanas de carácter mercantil, así como aquéllas cuyo objeto social sea la realización de juegos de azar.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 50.
 
-Se prohíbe que los partidos políticos acepten aportaciones anónimas. Igualmente queda prohibido a los partidos políticos contratar créditos de la Banca de Desarrollo para el financiamiento de sus actividades.
+Se prohíbe que los partidos políticos acepten aportaciones anónimas. Igualmente queda prohibido a los partidos políticos contratar créditos de la Banca de Desarrollo para el financiamiento de sus actividades, con excepción de lo previsto en el artículo 48 fracción II inciso b) de este Código.
 
 ### CAPÍTULO V. DE LA REVISIÓN Y VIGILANCIA DEL FINANCIAMIENTO DE LOS PARTIDOS POLÍTICOS
 
@@ -1013,7 +869,9 @@ Dicho órgano se constituirá en los términos, características y modalidades q
 
 El Instituto contará con una Unidad de Fiscalización a cargo de un Titular nombrado por la mayoría del Consejo General a propuesta del Consejero Presidente. La Unidad tendrá facultades para auditar, fiscalizar y requerir a los propios partidos políticos, los informes justificatorios que presenten sobre el origen y uso de todos sus recursos anuales, de precampaña y campaña, según corresponda, con el sustento documental correspondiente, así como las aclaraciones, documentos e información que considere, para la legal administración de los recursos; además hará del conocimiento del Consejo General de los casos en que los partidos políticos hayan excedido los topes a los gastos de precampaña y campaña que se establezcan para cada elección.
 
-La Unidad gozará de autonomía técnica y de gestión y estará adscrita al Consejero Presidente.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2012)</small>
+
+La Unidad gozará de autonomía técnica y de gestión y estará adscrita al Consejo General.
 
 El Titular de la Unidad de Fiscalización deberá contar con experiencia previa de tres años en las materias de auditoría, contabilidad, finanzas u otras similares, además de no haber sido miembro de órgano directivo de partido político o agrupación política a cualquier nivel en los últimos cuatro años previos a su designación por el Consejo General.
 
@@ -1333,9 +1191,9 @@ III.- La resolución del Consejo General que determine que haya incumplido de ma
 
 IV.- La declaración de haber sido disuelto por acuerdo de sus miembros y de conformidad a lo dispuesto por sus estatutos; y
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2012)</small>
 
-V.- Celebrar convenio de fusión con otro partido político, de conformidad con las disposiciones electorales federales correspondientes.
+V.- Celebrar convenio de fusión con otro partido político de conformidad con las disposiciones electorales correspondientes.
 
 > <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2009)</small>
 
@@ -1567,9 +1425,9 @@ IV.- Elegir al Secretario Ejecutivo, al Titular de la Contraloría Interna del I
 
 V.- Aprobar la estructura central del Instituto y la de los Consejos Distritales y Municipales;
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2012)</small>
 
-VI.- Nombrar a los Directores de la Junta Ejecutiva, de entre las propuestas que en terna presente el Consejero Presidente;
+VI.- Nombrar a los Directores de la Junta Ejecutiva, de entre las propuestas que en terna presente el Secretario Ejecutivo, a través del Consejero Presidente;
 
 VII.- Convocar a elecciones para Diputados, Gobernador y miembros de los Ayuntamientos, fijando los términos en que habrán de realizarse;
 
@@ -1581,7 +1439,9 @@ X.- Publicar en el Periódico Oficial del Estado la integración y domicilio leg
 
 XI.- Determinar, de conformidad con lo que establecen la Constitución Local y este Código, el monto del financiamiento público que corresponda a los partidos políticos;
 
-XII.- Proponer al Congreso del Estado, por los conductos legalmente establecidos y previa realización de los estudios técnicos necesarios por el órgano competente, la modificación de la conformación de los distritos electorales existentes;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2012)</small>
+
+XII.- Definir, previa realización de los estudios técnicos necesarios, la demarcación territorial y cabeceras de los distritos electorales uninominales, y en su caso, su modificación;
 
 > <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
@@ -1697,9 +1557,9 @@ LIV.- Establecer lineamientos y formatos para la presentación de informes de ga
 
 LV.- Negar o cancelar el registro, en su caso, al Precandidato o Candidato a quien se le haya sentenciado por autoridad competente, dentro de los plazos del proceso electoral respectivo, por su participación en la comisión del delito de delincuencia organizada, en caso de que la responsabilidad sea imputable exclusivamente a aquéllos; y (sic)
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2012)</small>
 
-LVI.- Autorizar al Presidente y al Secretario Ejecutivo, de ser el caso, a celebrar convenio con el Instituto Federal Electoral con el objeto de utilizar las mismas (sic) ubicación de casillas, integración de mesas directivas de casilla y representantes de los partidos políticos que funcionen en el Proceso Electoral Federal, de conformidad con las disposiciones relativas del Código Federal de Instituciones y Procedimientos Electorales; y
+LVI.- Autorizar al Presidente y al Secretario Ejecutivo, de ser el caso, a celebrar convenio con el Instituto Federal Electoral con el objeto de utilizar la misma ubicación de casillas, integración de mesas directivas de casilla y representantes de los partidos políticos que funcionen en el Proceso Electoral Federal, de conformidad con las disposiciones relativas del Código Federal de Instituciones y Procedimientos Electorales; y
 
 > <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
@@ -1755,11 +1615,13 @@ V.- Presidir y conducir las sesiones de la Junta Ejecutiva y convocarlas;
 
 VI.- Someter al conocimiento y, en su caso, a la aprobación del Consejo General, los asuntos de su competencia;
 
-VII.- Vigilar el cumplimiento de los acuerdos del propio Consejo General;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2012)</small>
+VII.- Vigilar el cumplimiento de los acuerdos del propio Consejo General y rendir el informe de su cumplimiento en la siguiente Sesión Ordinaria;
 
-VIII.- Proponer al Consejo General, en terna, el nombramiento del Secretario Ejecutivo, de los Directores, así como de los Titulares de las Unidades de Fiscalización y de la Contraloría Interna;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2012)</small>
+
+VIII.- Proponer al Consejo General, en terna, el nombramiento del Secretario Ejecutivo, de los Titulares de la Unidad de Fiscalización y de la Contraloría Interna; así como presentar las propuestas a que se refieren los artículos 89 fracción VI y 101 de este Código;
 
 IX.- Presentar al Consejo General, de entre la lista que al efecto elabore, las propuestas para la designación de los Consejeros Electorales y Secretarios de los Consejos Distritales y Consejos Municipales;
 
@@ -1799,21 +1661,13 @@ XXIII.- Firmar junto con el Secretario Ejecutivo las boletas electorales;
 
 XXIV.- Velar por el buen uso del patrimonio del Instituto, vigilando que las auditorías que realice la Contraloría Interna se lleven a cabo conforme a la normatividad aplicable, asimismo deberá informar anualmente de dichas auditorías y de sus resultados a los integrantes del Consejo General, una vez concluidos dichos procesos de revisión, así como también de aquellas otras auditorías que específicamente le ordene realizar el Consejo General;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
+XXV.- (DEROGADA, P.O. 28 DE JUNIO DE 2012)
 
-XXV.- Plantear y ejecutar la política de comunicación social del Instituto;
+XXVI.- (DEROGADA, P.O. 28 DE JUNIO DE 2012)
 
-> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
+XXVII.- (DEROGADA, P.O. 28 DE JUNIO DE 2012)
 
-XXVI.- Elaborar el proyecto del diseño de la imagen institucional del Instituto y proponerlo al Consejo General para su aprobación;
-
-> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
-
-XXVII.- Instaurar los mecanismos para el contacto institucional del organismo con los medios de comunicación;
-
-> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
-
-XXVIII.- Exponer, implementar y ejecutar la campaña de difusión del voto y promoción de la participación ciudadana, durante la organización del proceso electoral; y
+XXVIII.- (DEROGADA, P.O. 28 DE JUNIO DE 2012)
 
 > <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
@@ -1851,11 +1705,13 @@ IX.- No ser ni haber sido Ministro de culto religioso alguno.
 
 El Secretario Ejecutivo tendrá las atribuciones siguientes:
 
-I.- Auxiliar al Consejero Presidente en el ejercicio de sus atribuciones;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2012)</small>
+
+I.- Asesorar al Consejero Presidente en el ejercicio de sus atribuciones;
 
 II.- Someter a consideración del Consejo General el orden del día de las sesiones; declarar la existencia del quórum; dar fe de lo actuado en las sesiones; levantar el acta circunstanciada correspondiente y someterla a la aprobación del Consejo General;
 
-III.- Informar sobre el cumplimiento de los acuerdos del Consejo General;
+III.- (DEROGADA, P.O. 28 DE JUNIO DE 2012)
 
 IV.- Dar cuenta de los proyectos de dictamen de las Comisiones Permanentes y Especiales;
 
@@ -1875,9 +1731,9 @@ XI.- Dar fe de las actuaciones del Consejo General y de las de los órganos cent
 
 XII.- Coordinar las acciones de los Consejos Distritales y Municipales del Instituto, informando permanentemente al Consejero Presidente del Consejo General;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2012)</small>
 
-XIII.- Recabar de los Consejos Distritales y Municipales copia de las actas circunstanciadas de sus sesiones, por conducto del Director General;
+XIII.- Recabar de los Consejos Distritales y Municipales, copia de las actas circunstanciadas de sus sesiones, por conducto de la Dirección de Organización Electoral;
 
 XIV.- Recibir las solicitudes de registro para participar como partido político estatal;
 
@@ -1921,9 +1777,9 @@ XXIV.- Vigilar el cumplimiento permanente del Principio de Legalidad en las actu
 
 XXV.- Formular los proyectos de acuerdos y resoluciones;
 
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2012)</small>
 
-XXVI.- Recibir las solicitudes de registro para participar como partido político estatal;
+XXVI.- Expedir las certificaciones de documentos que sean solicitadas por los órganos centrales del Instituto, las autoridades federales, estatales y municipales, pudiendo en cada caso, delegar esta atribución en los Directores del Organismo, en lo que concierne a las documentales que obren en sus archivos;
 
 > <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
@@ -1977,13 +1833,29 @@ XXXVIII.- Supervisar la instalación y funcionamiento de los Consejos Distritale
 
 XXXIX.- Expedir los documentos de identificación correspondientes al personal del Instituto;
 
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2012)</small>
 
-XL.- Conducir la operación técnica y administrativa del Instituto y supervisar el desarrollo funcional de las actividades de sus Direcciones; y
+XL.- Conducir la operación técnica y administrativa del Instituto y supervisar el desarrollo funcional de las actividades de sus Direcciones;
 
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2012)</small>
 
-XLI.- Las demás que le confieran este Código, el Consejo General, el Consejero Presidente y las disposiciones relativas.
+XLI.- Plantear y ejecutar la política de comunicación social del Instituto;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2012)</small>
+
+XLII.- Elaborar el proyecto del diseño de la imagen institucional del Instituto y proponerlo al Consejo General para su aprobación;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2012)</small>
+
+XLIII.- Instaurar los mecanismos para el contacto institucional del organismo con los medios de comunicación;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2012)</small>
+
+XLIV.- Exponer, implementar y ejecutar la campaña de difusión del voto y promoción de la participación ciudadana, durante la organización del proceso electoral; y
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2012)</small>
+
+XLV.- Las demás que le confieran este Código, el Consejo General, el Consejero Presidente y las disposiciones relativas.
 
 ### CAPÍTULO V. DEL DIRECTOR GENERAL
 
@@ -2017,6 +1889,8 @@ VIII.- Las que le confiera el Consejo General, el Consejero Presidente conforme 
 
 ### CAPÍTULO VI. DE LAS DIRECCIONES
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 96.
 
 (DEROGADO, P.O. 20 DE FEBRERO DE 2012)
@@ -2035,7 +1909,7 @@ VIII.- Las que le confiera el Consejo General, el Consejero Presidente conforme 
 
 ###### ARTÍCULO 99.
 
-La operación técnica y administrativa del Instituto se dividirá para su funcionamiento en Direcciones, que dependerán orgánicamente del Director General y contarán con el personal necesario para el cumplimiento de sus atribuciones.
+La operación técnica y administrativa del Instituto se dividirá para su funcionamiento en Direcciones, que dependerán orgánicamente del Secretario Ejecutivo y contarán con el personal necesario para el cumplimiento de sus atribuciones.
 
 ###### ARTÍCULO 100.
 
@@ -2047,19 +1921,21 @@ II.- Capacitación Electoral y Educación Cívica;
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
-III.- Prerrogativas, Partidos Políticos y Medios de Comunicación; y
+III.- Prerrogativas, Partidos Políticos y Medios de Comunicación; y (sic)
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
 IV.- Administrativa.
 
-V.- (DEROGADA, P.O. 5 DE DICIEMBRE DE 2003)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JUNIO DE 2012)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2012)</small>
+V.- Jurídica.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 101.
 
-Al frente de cada una de las Direcciones del Instituto habrá un Director, que será nombrado por el Consejo General, a propuesta en terna del Consejero Presidente.
+Al frente de cada una de las Direcciones del Instituto habrá un Director, que será nombrado por el Consejo General, a propuesta en terna del Secretario Ejecutivo, presentada a través del Consejero Presidente.
 
 Los Directores del Instituto deberán acreditar:
 
@@ -2099,7 +1975,7 @@ III.- Apoyar al Secretario Ejecutivo en la prestación de servicios de asesoría
 
 IV.- Auxiliar a la Secretaría Ejecutiva en el trámite, substanciación y seguimiento de los medios de impugnación electorales y las quejas administrativas;
 
-V.- Cerciorarse, previo a la sesión correspondiente del Consejo General, que las solicitudes de sustitución de candidatos presentadas por los partidos o coaliciones, no impliquen un cambio en la modalidad de postulación registrada;
+V.- (DEROGADA, P.O. 28 DE JUNIO DE 2012)
 
 VI.- Elaborar o en su caso, revisar los proyectos de manuales de organización, reglamentos, lineamientos y demás ordenamientos internos, necesarios para el buen funcionamiento del Instituto;
 
@@ -2111,11 +1987,13 @@ IX.- Acordar con el Secretario Ejecutivo los asuntos de su competencia; y
 
 X.- Las demás que le confiera el Consejo General, el Consejero Presidente, el Secretario Ejecutivo y la Junta Ejecutiva conforme a este Código y disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 102.
 
-El Consejero Presidente someterá al Consejo General, las propuestas para la creación de nuevas Direcciones para el mejor funcionamiento del Instituto, de acuerdo con las necesidades de operación y con la disponibilidad presupuestal.
+El Secretario Ejecutivo someterá al Consejo General, las propuestas para la creación de nuevas Direcciones para el mejor funcionamiento del Instituto, de acuerdo con las necesidades de operación y con la disponibilidad presupuestal.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2012)</small>
 
 Asimismo, una vez concluido el proceso electoral y hasta antes del inicio del siguiente, el Secretario Ejecutivo propondrá al Consejo General, por conducto de su Presidente, la permanencia del personal técnico y administrativo mínimo necesario para cumplir con los fines del Instituto, a excepción de lo que establezca el Estatuto del Servicio Electoral Profesional.
 
@@ -2151,9 +2029,9 @@ IX.- Informar al Secretario Ejecutivo sobre el desarrollo de sus actividades, pa
 
 X.- Solicitar, por conducto del Consejero Presidente del Consejo Distrital respectivo, el apoyo en el desarrollo de sus atribuciones del Coordinador de Organización Electoral; y
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2012)</small>
 
-XI.- Las demás que le confiera el Consejo General, el Consejero Presidente, el Secretario Ejecutivo y la Junta Ejecutiva conforme a este Código y disposiciones aplicables.
+XI.- Las demás que le confiera el Consejo General, la Junta Ejecutiva y el Secretario Ejecutivo, conforme a este Código y demás disposiciones aplicables.
 
 ###### ARTÍCULO 104.
 
@@ -2181,9 +2059,9 @@ VII.- Informar al Secretario Ejecutivo sobre el desarrollo de sus actividades, p
 
 VIII.- Solicitar, por conducto del Consejero Presidente del Consejo Distrital respectivo, el apoyo en el desarrollo de sus atribuciones del Coordinador de Capacitación Electoral; y
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2012)</small>
 
-IX.- Las demás que le confiera el Consejo General, el Consejero Presidente, el Secretario Ejecutivo y la Junta Ejecutiva conforme a este Código y disposiciones aplicables.
+IX.- Las demás que le confiera el Consejo General, la Junta Ejecutiva y el Secretario Ejecutivo, conforme a este Código y demás disposiciones aplicables.
 
 ###### ARTÍCULO 105.
 
@@ -2197,7 +2075,9 @@ II.- (DEROGADA, P.O. 20 DE FEBRERO DE 2012)
 
 III.- Inscribir en el libro respectivo el registro de partidos políticos, así como los convenios de coaliciones y fusiones;
 
-IV.- Coordinar la entrega a los partidos políticos nacionales o estatales con registro, del financiamiento público al que tienen derecho y recibir de ellos los informes justificatorios y comprobantes de su aplicación;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2012)</small>
+
+IV.- Coordinar la entrega a los partidos políticos nacionales o estatales con registro, del financiamiento público al que tienen derecho;
 
 V.- Llevar a cabo los trámites necesarios para que los partidos políticos nacionales o estatales con registro puedan disponer o hacer efectivas las prerrogativas a las que tienen derecho;
 
@@ -2219,17 +2099,15 @@ X.- Informar al Secretario Ejecutivo sobre el desarrollo de sus actividades, par
 
 XI.- Proponer al Consejo General los lineamientos para el monitoreo en los medios de comunicación de las campañas electorales de los partidos políticos, para garantizar el acceso equitativo a los mismos;
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
+XII.- (DEROGADA, P.O. 28 DE JUNIO DE 2012)
 
-XII.- Instrumentar y responsabilizarse de los procedimientos de liquidación de los partidos políticos que pierdan su registro o acreditación, de conformidad con lo previsto en el artículo 70 bis;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2012)</small>
 
-> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2009)</small>
+XIII.- Cerciorarse, previo a la sesión correspondiente del Consejo General, que las solicitudes de sustitución de candidatos presentadas por los partidos o coaliciones, cumplan con los requisitos previstos en el Código; y
 
-XIII.- Realizar los trámites correspondientes para dar cumplimiento a los convenios de coordinación celebrados con el Instituto Federal Electoral en materia de fiscalización; y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2012)</small>
-
-XIV.- Las demás que le confiera el Consejo General, el Consejero Presidente, el Secretario Ejecutivo y la Junta Ejecutiva conforme a este Código y disposiciones aplicables.
+XIV.- Las demás que le confiera el Consejo General, la Junta Ejecutiva y el Secretario Ejecutivo, conforme a este Código y demás disposiciones aplicables.
 
 > <small>(REFORMADO PRIMERO PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
@@ -2281,23 +2159,33 @@ XVIII.- (DEROGADA, P.O. 5 DE DICIEMBRE DE 2003)
 
 XIX.- Informar al Secretario Ejecutivo sobre el desarrollo de sus actividades, para que éste lo haga del conocimiento del Consejo General; y
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2012)</small>
 
-XX.- Las demás que le confiera el Consejo General, el Consejero Presidente, el Secretario Ejecutivo y la Junta Ejecutiva conforme a este Código y disposiciones aplicables.
+XX.- Las demás que le confiera el Consejo General, la Junta Ejecutiva y el Secretario Ejecutivo, conforme a este Código y demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 107.
 
-El Instituto contará además con una Unidad del Servicio Electoral Profesional, adscrita al Consejo General que, en el desempeño de sus atribuciones, deberá observar invariablemente los principios rectores de legalidad, imparcialidad, objetividad, certeza e independencia.
+El Instituto contará además con una Unidad del Servicio Electoral Profesional, adscrita al Secretario Ejecutivo que, en el desempeño de sus atribuciones, deberá observar invariablemente los principios rectores de legalidad, imparcialidad, objetividad, certeza e independencia.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
 El titular de esta unidad deberá acreditar los mismos requisitos que para ser Director exige el artículo 101 de este Código.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2003)</small>
+
 La Unidad del Servicio Electoral profesional tendrá las atribuciones siguientes:
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
 I.- Elaborar el proyecto de manual de organización y el catálogo de cargos y puestos del Instituto;
 
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
+
 II.- Llevar a cabo los programas de reclutamiento, selección, formación y desarrollo del personal del Servicio Electoral Profesional;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
 III.- Formular el anteproyecto de Estatuto que regirá a los integrantes del Servicio Electoral Profesional, así como las modificaciones que el mismo deba sufrir;
 
@@ -2313,9 +2201,13 @@ V.- Realizar estudios y análisis electorales con el objeto de coadyuvar con los
 
 VI.- Realizar investigación científica y académica, que aporte elementos críticos y analíticos respecto de la materia electoral; y
 
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2012)</small>
 
-VII.- Las demás que le confiera el Consejo General, el Consejero Presidente, el Secretario Ejecutivo y la Junta Ejecutiva conforme a este Código y disposiciones aplicables.
+VII.- Las demás que le confiera el Consejo General, la Junta Ejecutiva y el Secretario Ejecutivo, conforme a este Código y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2012)</small>
+
+El Titular de la Unidad del Servicio Electoral Profesional será convocado a las sesiones de la Junta Ejecutiva.
 
 ###### ARTÍCULO 108.
 
@@ -2417,69 +2309,133 @@ VIII.- Proponer reformas o modificaciones al Reglamento del Instituto Electoral 
 
 IX.- Las demás que le confiera el Consejo General, el Consejero Presidente y el Secretario Ejecutivo conforme a este Código y disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2012)</small>
 
-ARTÍCULO 109 TER.- El Instituto contará con una Unidad de Fiscalización adscrita al Consejero Presidente, cuya finalidad será auditar, fiscalizar y requerir a los propios partidos políticos, los informes justificatorios que presenten sobre el origen y uso de todos sus recursos anuales, de precampaña y campaña, según corresponda.
+###### ARTÍCULO 109 Ter.
+
+El Instituto contará con una Unidad de Fiscalización adscrita al Consejo General, cuya finalidad será auditar, fiscalizar y requerir a los propios partidos políticos, los informes justificatorios que presenten sobre el origen y uso de todos sus recursos anuales, de precampaña y campaña, según corresponda.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
 
 A. El Titular de la Unidad deberá acreditar:
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
 I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
 II.- Ser originario o residente en el Estado cuando menos con cinco años anteriores a la fecha de su designación;
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
 III.- Estar inscrito en el Registro Federal de Electores y contar con credencial para votar con fotografía;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
 IV.- Tener más de veinticinco años de edad al día de su designación;
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
 V.- Contar con título profesional;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
 VI.- Contar con los conocimientos y experiencia previa de tres años en las materias de auditoría, contabilidad, finanzas u otras similares que le permitan el adecuado desempeño de sus funciones;
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
 VII.- No haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
 VIII.- No tener ni haber tenido cargo alguno de elección popular, en los cuatro años anteriores a la designación;
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
 IX.- No desempeñar ni haber desempeñado cargo de órgano directivo de partido político o agrupación política a cualquier nivel en los últimos cuatro años previos a su designación por el Consejo General, ni ser militante de alguno de ellos; y
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
 X.- No ser ni haber sido Ministro de culto religioso.
 
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
+
 B. La Unidad tendrá las atribuciones siguientes:
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
 I.- Presentar al Consejo General para su aprobación el proyecto de Reglamento de la Materia, y los demás acuerdos, para regular el registro contable de los ingresos y egresos de los partidos políticos, las características de la documentación comprobatoria sobre el manejo de sus recursos y establecer los requisitos que deberán satisfacer los informes de ingresos y egresos que le presenten, de conformidad a lo establecido en este Código;
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
 II.- Emitir las normas generales de contabilidad y registro de operaciones aplicables a los partidos políticos;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
 III.- Vigilar que los recursos de los partidos tengan origen lícito y se apliquen estricta e invariablemente a las actividades señaladas en la normatividad aplicable;
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
 IV.- Recibir los informes trimestrales y anuales, así como de gastos de precampaña y campaña, de los partidos políticos y sus candidatos, así como los demás informes de ingresos y gastos establecidos por la normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
 V.- Revisar los informes señalados en el (sic) la fracción anterior;
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
 VI.- Requerir información complementaria respecto de los diversos apartados de los informes de ingresos y egresos o documentación comprobatoria de cualquier otro aspecto vinculado a los mismos;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
 VII.- Ordenar la práctica de auditorías, directamente o a través de terceros, a las finanzas de los partidos políticos;
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
 VIII.- Ordenar visitas de verificación a los partidos políticos con el fin de corroborar el cumplimiento de sus obligaciones y la veracidad de sus informes;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
 IX.- Presentar al Consejo General los informes de resultados y proyectos de resolución sobre las auditorías y verificaciones practicadas a los partidos políticos. Los informes especificarán las irregularidades en que hubiesen incurrido los partidos políticos en el manejo de sus recursos; el incumplimiento de su obligación de informar sobre la aplicación de los mismos y, en su caso, propondrán las sanciones que procedan conforme a la normatividad aplicable;
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
 X.- Proporcionar a los partidos políticos la orientación, asesoría y capacitación necesarias para el cumplimiento de sus obligaciones;
 
-XI.- Ser responsable de los procedimientos de liquidación de los partidos políticos estatales que pierdan su registro;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2012)</small>
+
+XI.- Instrumentar y responsabilizarse de los procedimientos de liquidación de los partidos políticos que pierdan su registro o acreditación, de conformidad con lo previsto por el artículo 70 Bis de este Código;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
 XII.- Presentar al Consejo General para su aprobación el proyecto de Reglamento para el desahogo de los procedimientos administrativos respecto de las quejas que se presenten en materia de fiscalización y vigilancia de los recursos de los partidos políticos; dichas quejas deberán ser presentadas ante la Unidad;
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
 XIII.- Instruir los procedimientos administrativos a que haya lugar respecto de las quejas a que se refiere la fracción anterior y proponer a la consideración del Consejo General la imposición de las sanciones que procedan. Los quejosos podrán desistirse, en cuyo caso el procedimiento será sobreseído;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
 XIV.- Celebrar convenios de coordinación con las autoridades competentes en materia de fiscalización de los recursos de los partidos políticos en las entidades federativas, con la aprobación del Consejo General;
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
 XV.- Prestar y recibir los apoyos establecidos en los convenios a que se refiere la fracción anterior;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
 XVI.- Ser conducto para que las autoridades federales y estatales competentes, auxilien en la superación de las limitaciones de los secretos bancario, fiduciario o fiscal;
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
 XVII.- Requerir de las personas, físicas o morales, públicas o privadas, en relación con las operaciones que realicen con partidos políticos, la información necesaria para el cumplimiento de sus tareas, respetando en todo momento las garantías del requerido. Quienes se nieguen a proporcionar la información que les sea requerida, o no la proporcionen, sin causa justificada, dentro de los plazos que se señalen, se harán acreedores a las sanciones establecidas en este Código; y
 
-XVIII.- Las demás que le confiera (sic) las disposiciones aplicables y el Consejero Presidente o el Consejo General conforme a este Código.
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2012)</small>
+
+XVIII.- Las demás que le confiera el Consejo General, conforme a este Código y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
 
 En el ejercicio de sus facultades, la Unidad deberá garantizar el derecho de audiencia de los partidos políticos y en general de toda persona requerida con motivo de los procesos de fiscalización a que se refiere el presente Capítulo. Los partidos tendrán derecho a la confronta de los documentos comprobatorios de sus ingresos y gastos, o de sus estados contables, contra los obtenidos o elaborados por la Unidad sobre las mismas operaciones, a fin de aclarar las discrepancias entre unos y otros.
 
@@ -3293,7 +3249,9 @@ Si no se reuniera el quórum a que se refiere el párrafo anterior, los presente
 
 Si alguno de los Consejeros Electorales no asiste o abandona la sesión una vez que ésta se hubiere iniciado, se entenderá que vota en el mismo sentido que el de la mayoría y por lo tanto, se sumará al total de votos a computar.
 
-Salvo los casos establecidos en el presente Código, toda resolución se tomará por mayoría de votos de los Consejeros Electorales que asistan a la sesión correspondiente. En caso de empate el Consejero Presidente tendrá voto de calidad.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2012)</small>
+
+Salvo los casos establecidos en el presente Código, toda resolución se tomará por mayoría de votos de los Consejeros Electorales que asistan a la sesión correspondiente. En caso de empate se procederá a una segunda votación, de continuar en el mismo sentido el Consejero Presidente retirará el asunto de la sesión de que se trate y lo listará para discusión, y en su caso, aprobación en la siguiente sesión ordinaria.
 
 ###### ARTÍCULO 161.
 
@@ -3518,6 +3476,18 @@ El Secretario Ejecutivo recibirá la solicitud de remoción que deberán suscrib
 ###### ARTÍCULO 176.
 
 Para dar cumplimiento a las disposiciones constitucionales relativas y para dar vigencia y asegurar el desempeño profesional de las actividades del Instituto Electoral del Estado, se organizará y desarrollará el Servicio Electoral Profesional.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2012)</small>
+
+El Servicio Electoral Profesional se regirá bajo los valores y principios de igualdad de oportunidades, reconocimiento al mérito en el desempeño de las labores encomendadas, estabilidad en el empleo e identificación del interés institucional con el de los miembros del servicio y evaluación.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2012)</small>
+
+La Unidad del Servicio Electoral Profesional será la responsable de formar a los miembros del servicio y al personal del Instituto, inculcándoles los valores y principios a que se refiere el párrafo anterior, con independencia de la preparación técnica que les brinde para el mejor desempeño de su labor.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2012)</small>
+
+La evaluación del Servicio Electoral Profesional tendrá por objeto medir el aprovechamiento de sus integrantes, tanto en el ámbito formativo como en el de la capacitación técnica.
 
 ###### ARTÍCULO 177.
 
@@ -3954,6 +3924,10 @@ Durante los ocho días previos a la jornada electoral, en la fecha de la elecci�
 ###### ARTÍCULO 224.
 
 En la elección de Gobernador, el Consejo General organizará por lo menos dos debates públicos que se llevarán a cabo previo acuerdo de los partidos políticos y candidatos, por conducto de sus representantes acreditados, debiendo propiciar la existencia de condiciones para su realización; así como acordar lineamientos y plazos que regirán los mismos.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2012)</small>
+
+En los términos del párrafo anterior, se organizará un sólo debate entre los candidatos a Diputados por el principio de mayoría relativa, en cada uno de los Distritos Uninominales.
 
 ###### ARTÍCULO 225.
 
@@ -5337,9 +5311,17 @@ VI.- Nombrar al Secretario General de Acuerdos, a los Secretarios Instructores y
 
 VII.- Solicitar al Congreso del Estado designe a los Magistrados que habrán de suplir las ausencias temporales o definitivas de los Magistrados del Tribunal con los suplentes respectivos;
 
-VIII.- Aprobar su Reglamento Interior; y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2012)</small>
 
-IX.- Conocer, resolver y sancionar en caso de denuncias por faltas administrativas previstas por este Código.
+VIII.- Aprobar su Reglamento Interior;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2012)</small>
+
+IX.- Implementar el Servicio Profesional de Carrera para su personal, bajo los principios de igualdad de oportunidades, reconocimiento al mérito en el desempeño de las labores encomendadas, estabilidad en el empleo e identificación del interés institucional con el de los miembros del servicio; y
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2012)</small>
+
+X.- Conocer, resolver y sancionar en caso de denuncias por faltas administrativas previstas por este Código.
 
 ## TÍTULO CUARTO. DE LOS RECURSOS, NULIDADES Y SANCIONES ADMINISTRATIVAS
 
@@ -5465,6 +5447,10 @@ El Secretario General de Acuerdos, los Secretarios Instructores y demás persona
 
 Los recursos son los medios de impugnación que se interponen por los partidos políticos o la coalición, en su caso, a través de su representante, para combatir los actos o resoluciones de los órganos electorales o aquéllos que produzcan efectos similares. Su presentación no tendrá efectos suspensivos.
 
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2012)</small>
+
+El Tribunal, al emitir sus resoluciones analizará y observará en todo caso la constitucionalidad de los actos que se reclamen, con la finalidad de garantizar que este Código y la actuación de la Autoridad Administrativa Electoral, se ajusten a los principios constitucionales en materia electoral.
+
 ###### ARTÍCULO 348.
 
 Los recursos que podrán interponerse son:
@@ -5499,9 +5485,19 @@ Todas las controversias relacionadas con los asuntos internos de los partidos po
 
 El plazo para interponerlo será de tres días, contados a partir del día siguiente a aquél en se tenga conocimiento del acto que se recurre.
 
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2012)</small>
+
+El Tribunal tiene que garantizar la tutela jurisdiccional de los derechos político-electorales de los ciudadanos que participen en los procesos electorales que se celebren en el Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2012)</small>
+
+En el caso de que se acredite, que agotar los medios partidistas de defensa, pueda causar un perjuicio de imposible reparación en el goce de esos derechos, no será necesario agotar el principio de definitividad previsto en este artículo.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 351.
 
-La inconformidad es el recurso jurisdiccional a través del cual se combaten los resultados consignados en las actas de cómputo municipal o distrital, para hacer valer presuntas causas de nulidad, con el objeto de obtener la declaratoria de nulidad de la elección en un distrito, en un municipio o de la votación emitida en una o varias Casillas. El término para interponer el recurso, será de tres días contados a partir del día siguiente de que concluya la práctica del cómputo correspondiente.
+La inconformidad es el recurso jurisdiccional a través del cual se combaten los resultados consignados en las actas de cómputo municipal o distrital, para hacer valer presuntas causas de nulidad, con el objeto de obtener la declaratoria de nulidad de la elección en un distrito, en un municipio, de la elección de Gobernador del Estado o de la votación emitida en una o varias casillas. El término para interponer el recurso, será de tres días contados a partir del día siguiente de que concluya la práctica del cómputo correspondiente.
 
 ###### ARTÍCULO 352.
 
@@ -5727,7 +5723,9 @@ II.- El recurso jurisdiccional de apelación, dentro de los diez días siguiente
 
 III.- El recurso jurisdiccional de inconformidad, en su totalidad:
 
-a) En contra de la elección de Gobernador, a más tardar el diez de diciembre del año de la elección; y
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2012)</small>
+
+a) En contra de la elección de Gobernador, a más tardar el diez de octubre del año de la elección; y
 
 b) En contra de la elección de Diputados y miembros de Ayuntamientos por ambos principios, a más tardar diez días antes de la fecha indicada para la instalación del Congreso y de la toma de posesión de los Ayuntamientos.
 
@@ -5821,9 +5819,9 @@ b) La recepción de la votación en fecha distinta a la señalada para la celebr
 
 c) La recepción de la votación por personas u órganos distintos a los facultados por este Código.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 28 DE JUNIO DE 2012)</small>
 
-Sólo podrá ser declarada nula una elección, cuando las causas que se invoquen hayan sido plenamente acreditadas y sean determinantes para el resultado de la elección.
+Sólo podrá ser declarada nula una elección, cuando las causas que se invoquen estén expresamente contempladas en este Código, hayan sido plenamente acreditadas y sean determinantes para el resultado de la elección.
 
 ###### ARTÍCULO 379.
 
@@ -5903,7 +5901,9 @@ En caso de que el Consejo General tenga conocimiento de que los Ministros de cul
 
 El Consejo General conocerá y resolverá, en su caso, de las infracciones o violaciones que a las disposiciones de este Código o acuerdos de los órganos electorales cometan los partidos políticos, candidatos, precandidatos o aspirantes.
 
-Los partidos políticos podrán ser sancionados con amonestación pública, multa de trescientos a cinco mil veces el salario mínimo general vigente en el Estado, con reducción de financiamiento público mensual hasta alcanzar determinado monto, con la suspensión o con la pérdida del registro para efectos de elecciones locales.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2012)</small>
+
+Los partidos políticos podrán ser sancionados con amonestación pública, multa de trescientos a cinco mil veces el salario mínimo general vigente en el Estado, con la suspensión o con la pérdida del registro para efectos de elecciones locales.
 
 Los candidatos, precandidatos o aspirantes podrán ser sancionados con amonestación pública o multa de hasta quinientos salarios mínimos vigentes en el Estado. Asimismo, podrá suspenderse su registro en caso de responsabilidad directa por violaciones a los normas sobre financiamiento y topes de campaña detectadas en los informes, o en las quejas de fiscalización, o por actos anticipados de campaña para los candidatos y precandidatos postulados, o de precampaña para los aspirantes que se inscriban a un proceso interno de selección de candidatos.
 
@@ -6028,3 +6028,125 @@ SEXTO.- El Consejo General del Instituto nombrará al Secretario Ejecutivo, al T
 Los Servidores Públicos que a la fecha de publicación de este Decreto realicen las funciones de Secretario General, de Director General y de Titular de la Unidad Jurídica del Instituto, en un plazo no mayor a cinco días hábiles a partir de la entrada en vigor del presente, deberán hacer entrega a la instancia que determine el Consejo General del Instituto, de todos los recursos patrimoniales que hayan tenido a su disposición, así como los documentos y asuntos relacionados con sus funciones. Para tal efecto, el Consejero Presidente del Consejo General instrumentará las medidas necesarias respectivas conforme a la legislación aplicable.
 
 SÉPTIMO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE JUNIO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Hasta en tanto el Consejo General del Instituto Electoral del Estado apruebe una nueva demarcación territorial y las cabeceras de los distritos electorales uninominales, se continuará aplicando la señalada en el artículo 27 que se reforma, que comprende la demarcación y los Municipios siguientes:
+
+DISTRITO 1 Cabecera: Heroica Ciudad de Puebla de Zaragoza.
+
+Parte del punto de confluencia formado por la carretera a Tlaxcala y la barranca Atlacomonte, en dirección este y siguiendo los accidentes de los límites del Estado de Tlaxcala, con el Municipio de Puebla, hasta la margen oeste de la barranca Apatlaxco, dando vuelta hacia el suroeste en todos sus accidentes, hasta llegar al límite este del Rancho el Conde, hasta encontrar la carretera vía corta a Santa Ana Chiautempan, donde dobla hacia el oeste hasta llegar a la avenida Del Conde, donde dobla hacia el oeste, siguiendo el margen norte de la carretera hasta encontrar la calle de La Paz, dando vuelta hacia el noroeste y siguiendo en la misma dirección hasta la calle Madero, donde dobla al suroeste hasta la calle 5 de Mayo, doblando hacia el noroeste hasta la calle Benito Juárez, dando vuelta hacía el noreste, hasta encontrar la calle 5 de Mayo donde dobla hacia el noroeste, hasta encontrar la margen oeste de la vía del ferrocarril, donde dobla hacia el sur, para continuar en todos sus accidentes hasta llegar al Boulevard Norte Héroes del 5 de Mayo, dando vuelta hacia el oeste hasta llegar a la altura de la avenida 36 poniente, doblando hacia el sur hasta la calle 15 norte, donde dobla hacia el suroeste hasta encontrar la avenida 18 poniente, da vuelta al oeste hasta llegar a la calle 25 norte, doblando hacia el suroeste y siguiendo en esta dirección hasta la avenida 6 poniente, doblando hacia el oeste hasta la calle 27 norte, donde dobla hacia el suroeste hasta la avenida Reforma, donde dobla hacia el noroeste, continuando en esta dirección y sigue por su prolongación y por la calle Nacional hasta el límite oeste del Municipio de Puebla, dando vuelta hacia el noroeste en todos sus accidentes, para concluir en el punto de partida.
+
+Quedan incluidos los pueblos de la Libertad, Ignacio Romero Vargas, San Jerónimo Caleras, San Felipe Hueyotlipan y San Pablo Xochimehuacan.
+
+DISTRITO 2 Cabecera: Heroica Ciudad de Puebla de Zaragoza.
+
+Parte del punto de confluencia formado por la margen oeste de la barranca Xapatlaxco, en dirección este y siguiendo los accidentes de los límites del Estado de Tlaxcala con el Municipio de Puebla, hasta la convergencia de éste con los de Tepatlaxco de Hidalgo y Amozoc, continúa en las irregularidades de los límites de estos municipios hasta encontrar los límites norte del Ejido de San Miguel Espejo, y este de la Villa de La Resurrección, del Municipio de Puebla, respectivamente, y siguiendo en dirección suroeste en todos sus accidentes de este último hasta llegar a la Autopista Orizaba, dando vuelta hacia el noroeste hasta encontrar la calzada Ignacio Zaragoza, doblando hacia el suroeste y continuando en esta dirección hasta encontrar la margen oeste de la vía del ferrocarril Puebla-Oaxaca, donde dobla hacia el sur, hasta la diagonal Defensores de la República, dando vuelta hacia el este hasta el carril de la Rosa, límite este de la Unidad Habitacional La Ciénaga, hasta encontrar la calle Acueducto, donde dobla hacia el suroeste hasta encontrar el Carril de la Rosa, da vuelta al suroeste en todos sus accidentes y continuando en esta dirección por la prolongación 20 oriente, y en dirección oeste sobre el Boulevard Xonaca, hasta la calle 18 norte donde dobla hacia el suroeste hasta encontrar la avenida 14 oriente, donde dobla hacia el sureste hasta la calle 20 norte, donde dobla hacia el suroeste hasta la avenida 4 oriente, da vuelta al oeste hasta la calle 18 norte, dando vuelta hacia el suroeste, hasta la avenida Juan de Palafox y Mendoza, donde dobla hacia el noroeste y continuando en esta dirección por la avenida de la Reforma, hasta encontrar la calle 27 norte, doblando hacia el noreste hasta la avenida 6 poniente, da vuelta hacia el este, hasta la calle 25 norte, dando vuelta hacia el noreste hasta la avenida 18 poniente, da vuelta al este hasta llegar a la calle 15 norte, donde dobla hacia el noreste hasta encontrar la avenida 36 poniente, da vuelta al norte hasta el Boulevard Norte Héroes del 5 de Mayo, doblando al este hasta encontrar la margen este de la vía del ferrocarril, donde dobla hacia el norte, hasta llegar a la calle 5 de Mayo, doblando hacia el sureste hasta la calle Benito Juárez, dando vuelta hacia el suroeste hasta la calle 5 de Mayo, doblando hacia el sureste hasta la calle Madero, da vuelta hacia el noreste hasta la calle de la Paz, donde dobla hacia el sureste hasta encontrar la vía corta a Santa Ana Chiautempan, siguiendo por ésta hasta encontrar la avenida Del Conde, continuando hacia el noreste hasta llegar a la calle sin nombre donde dobla hacia el sureste hasta llegar a la autopista Puebla-México, donde dobla hacia el sureste hasta llegar a la barranca Xapatlaxco, dando vuelta al noreste en todos sus accidentes, para concluir en el punto de partida.
+
+Quedan incluidos los pueblos de San Aparicio, La Resurrección y San Miguel Canoa.
+
+DISTRITO 3 Cabecera: Heroica Ciudad de Puebla de Zaragoza.
+
+Parte del punto de confluencia formado por los límites este de la Villa de La Resurrección y oeste del pueblo de Santa María Xonacatepec, en dirección noreste y este, siguiendo en los de San Miguel Espejo hacia el noreste en todos sus accidentes hasta el límite norte del mismo y oeste del Municipio de Amozoc, y continuando hacia el suroeste sobre el mismo límite de este último Municipio hasta llegar a la altura del límite sur de las colonias Ciclista Club y Mármol y continuando por el límite oeste de las mismas en línea imaginaria hasta llegar a la altura del límite suroeste de la colonia El Chamizal, y siguiendo en esta dirección por la avenida Juan de Palafox y Mendoza hasta llegar a la calle 18 norte, dando vuelta hacia el este hasta la avenida 4 oriente, doblando hacia el noreste hasta la calle 20 norte, donde dobla hacia el noreste hasta encontrar la avenida 14 oriente, doblando hacia el noroeste hasta la calle 18 norte, donde dobla hacia el noreste hasta encontrar el Boulevard Xonaca, da vuelta hacia el este continuando por todos sus accidentes y luego hacia el noreste por la prolongación 20 oriente y Carril de la Rosa, hasta llegar a la calle Acueducto, donde dobla hacia el noreste hasta encontrar el límite este de la Unidad Habitacional La Cienega - privada Pez Vela donde dobla hacia el noreste hasta llegar a la Diagonal Defensores de La República, dando vuelta hacia el oeste hasta llegar a la margen este de la vía del ferrocarril Puebla-Oaxaca, donde dobla hacia el norte hasta llegar a la calzada Ignacio Zaragoza, doblando hacia el noreste y continuando en esta dirección hasta encontrar la Autopista a Orizaba, dando vuelta hacia el noreste hasta llegar al límite oeste del pueblo de Santa María Xonacatepec, y continuando hacia el noreste en todos sus accidentes, para concluir en el punto de partida.
+
+Queda incluido el pueblo de Santa María Xonacatepec.
+
+DISTRITO 4 Cabecera: Heroica Ciudad de Puebla de Zaragoza.
+
+Parte del punto de confluencia formado por la calle 14 sur y la avenida Juan de Palafox y Mendoza, en dirección noreste y continúa en línea imaginaria hasta llegar al límite este del Municipio de Puebla y oeste del Municipio de Amozoc, doblando hacia el sureste en sus accidentes hasta encontrar el límite norte del Municipio de Cuautinchán y este del Municipio de Puebla, continuando su configuración hasta converger con el límite norte del Municipio de Tzicatlacoyan, donde dobla hacia el este hasta el límite sur de San Baltazar Tetela, dando vuelta al norte hasta el límite oeste del mismo pueblo, siguiendo en dirección norte hasta encontrar la margen sur del lago de Valsequillo, por el cual sigue en dirección norte en sus sinuosidades hasta encontrar el límite norte del pueblo de Tecola, atravesando el lago en dirección noreste hasta encontrar el límite sur de la colonia Ejidal Resurgimiento, continuando hacia el noreste hasta el límite norte del pueblo de San Francisco Totimehuacán, continuando en esta dirección hasta encontrar la carretera a Valsequillo, donde dobla hacia el norte hasta la calle Río Lerma, dando vuelta hacia el noreste hasta llegar a la avenida San Baltazar, da vuelta hacia el este hasta el Boulevard 14 sur, doblando hacia el noreste y continuando en esta dirección para concluir en el punto de partida.
+
+Quedan incluidos los pueblos: General Ignacio Zaragoza, Santo Tomás Chautla, San Baltazar Tetela, San Pedro Zacachimalpa y San Francisco Totimehuacán.
+
+DISTRITO 5 Cabecera: Heroica Ciudad de Puebla de Zaragoza.
+
+Parte del punto de confluencia formado por la calle 13 sur y avenida de la Reforma, continua en dirección noreste sobre la misma hasta encontrar el lado noroeste de la calle 14 sur, doblando hacia el suroeste y siguiendo por este rumbo hasta encontrar la avenida San Baltazar, da vuelta hacia el oeste hasta la calle Río Lerma, dando vuelta hacia el suroeste hasta llegar al Boulevard Valsequillo, doblando hacia el sureste y siguiendo por este rumbo hasta encontrar el límite norte del pueblo de San Francisco Totimehuacán, continua hacia el sureste hasta encontrar el límite sur de la colonia Ejidal Resurgimiento, atravesando el lago de Valsequillo en dirección suroeste hasta encontrar el límite norte del pueblo de Tecola y la margen sur del lago, por la cual sigue en sus sinuosidades hasta llegar al límite oeste del pueblo de San Baltazar Tetela, dando vuelta al sur hasta el límite sur del mismo pueblo, donde dobla al oeste hasta el límite este del Municipio de Puebla, continuando su configuración hasta converger con el límite norte del Municipio de Huehuetlán El Grande, así como el de Teopantlán y Ocoyucan, dando vuelta hacia el sur hasta el límite norte del lago de Valsequillo y siguiendo hacia el este en su configuración hasta el límite sur de Santa Cruz Ixtla, dando vuelta hacia el este hasta el límite este de la misma localidad, donde dobla hacia el norte hasta llegar al límite este del fraccionamiento Balcones del Sur, y siguiendo por este rumbo hasta llegar a la avenida 113 poniente, donde dobla hacia el noroeste hasta la calzada Castillotla, da vuelta hacia el noreste y continuando en esta misma dirección sobre la avenida Nacional hasta llegar a la margen sur del Río San Francisco, y siguiendo hacia el este en todos sus accidentes hasta la calle 11 sur, doblando hacia el noreste hasta la avenida 47 poniente, da vuelta hacia el noroeste hasta la calle 11 sur donde dobla hacia el noreste hasta llegar a la avenida 35 poniente, doblando hacia el noroeste hasta la calle 13 sur, dando vuelta hacia el noreste y siguiendo por esta dirección, para concluir en el punto de partida.
+
+Quedan incluidos los pueblos de: Azumiatla, Tecola y San Baltasar Campeche.
+
+DISTRITO 6 Cabecera: Heroica Ciudad de Puebla de Zaragoza.
+
+Parte del punto de confluencia formado por el límite oeste del Municipio de Puebla y la calle Nacional, en dirección sureste siguiendo por la prolongación de la avenida de La Reforma, hasta llegar a la calle 13 sur, donde dobla al suroeste hasta la avenida 35 poniente, dobla al sureste hasta la calle 11 sur, dando vuelta hacia el suroeste hasta la avenida 47 poniente, doblando hacia el noreste hasta la calle 11 sur, da vuelta hacia el noroeste hasta llegar a la margen norte del río San Francisco, dando vuelta hacia el oeste y continuando por todos sus accidentes hasta llegar a la avenida Nacional, donde dobla hacia el suroeste, siguiendo por esta dirección sobre la calzada Castillotla hasta la avenida 113 poniente, doblando hacia el noreste hasta la calle Primero de Enero, donde dobla hacia el suroeste continuando sobre este rumbo en todo el límite este de la colonia Granjas Puebla, y continuando con esta dirección en todos sus accidentes hasta encontrar el límite norte de Santa Cruz Ixtla, y continuando por todo el límite este de la localidad hasta llegar al límite sur de Santa Cruz Ixtla, donde dobla hacia el oeste hasta encontrar el límite norte del lago de Valsequillo, y continuando hacia el oeste en su configuración hasta el límite oeste del Municipio de Puebla y este del Municipio de Ocoyucan doblando hacia el norte y siguiendo su configuración de los límites oeste del Municipio de Puebla y sur del Municipio de San Andrés Cholula, siguiendo sobre esta misma dirección para concluir en el punto de partida.
+
+DISTRITO 7 Cabecera: San Martín Texmelucan.
+
+Comprendiendo los municipios siguientes: San Martín Texmelucan, Chiautzingo, Huejotzingo, San Felipe Teotlalcingo, San Matías Tlalancaleca, San Salvador El Verde y Tlahuapan.
+
+DISTRITO 8 Cabecera: San Pedro Cholula.
+
+Comprendiendo los municipios siguientes: San Pedro Cholula, Calpan, Coronango, Cuautlancingo, Domingo Arenas, Juan C. Bonilla, San Gregorio Atzompa, San Jerónimo Tecuanipan, San Miguel Xoxtla y Tlaltenango.
+
+DISTRITO 9 Cabecera: Atlixco.
+
+Comprendiendo los municipios siguientes: Atlixco, Nealtican, Ocoyucan, San Andrés Cholula, San Nicolás de los Ranchos, Santa Isabel Cholula, Tianguismanalco y Tochimilco.
+
+DISTRITO 10 Cabecera: Izúcar de Matamoros.
+
+Comprendiendo los municipios siguientes: Izúcar de Matamoros, Acteopan, Ahuatlán, Atzitzihuacan, Coatzingo, Cohuecan, Epatlán, Huaquechula, San Diego La Mesa Tochimiltzingo, San Martín Totoltepec, Teopantlán, Tepemaxalco, Tepeojuma, Tepexco, Tilapa, Tlapanalá y Xochiltepec.
+
+DISTRITO 11 Cabecera: Chiautla.
+
+Comprendiendo los municipios siguientes: Chiautla, Albino Zertuche, Atzala, Chietla, Chila de la Sal, Cohetzala, Huehuetlán El Chico, Ixcamilpa de Guerrero, Jolalpan, Teotlalco, Tulcingo y Xicotlán.
+
+DISTRITO 12 Cabecera: Acatlán de Osorio.
+
+Comprendiendo los municipios siguientes: Acatlán, Ahuehuetitla, Axutla, Chila, Chinantla, Guadalupe, Petlalcingo, Piaxtla, San Jerónimo Xayacatlán, San Miguel Ixitlán, San Pablo Anicano, San Pedro Yeloixtlahuaca, Tecomatlán, Tehuitzingo, Totoltepec de Guerrero y Xayacatlán de Bravo.
+
+DISTRITO 13 Cabecera: Tepexi de Rodríguez.
+
+Comprendiendo los municipios siguientes: Tepexi de Rodríguez, Atexcal, Atoyatempan, Coyotepec, Cuayuca de Andrade, Chigmecatitlán, Huatlatlauca, Huehuetlan El Grande, Huitziltepec, Ixcaquixtla, Juan N. Méndez, La Magdalena Tlatlauquitepec, Molcaxac, San Juan Atzompa, Santa Catarina Tlaltempan, Santa Inés Ahuatempan, Tepeyahualco de Cuauhtémoc y Zacapala.
+
+DISTRITO 14 Cabecera: Tehuacán.
+
+Comprendiendo los municipios siguientes: Tehuacán, Tepanco de López, Chapulco, Santiago Miahuatlán y Nicolás Bravo.
+
+DISTRITO 15 Cabecera: Ajalpan.
+
+Comprendiendo los municipios siguientes: Ajalpan, Zapotitlán, Caltepec, San Gabriel Chilac, San José Miahuatlán, Altepexi, Zinacatepec, Coxcatlán, San Antonio Cañada, Vicente Guerrero, Zoquitlán, Coyomeapan, San Sebastián T1acotepec y Eloxochitlán.
+
+DISTRITO 16 Cabecera: Tepeaca.
+
+Comprendiendo los municipios siguientes: Tepeaca, Acajete, Amozoc, Cuautinchán, Mixtla, Santo Tomás Hueyotlipan, Tecali de Herrera, Tepatlaxco de Hidalgo y Tzicatlacoyan.
+
+DISTRITO 17 Cabecera: Tecamachalco.
+
+Comprendiendo los municipios siguientes: Tecamachalco, Cuapiaxtla de Madero, General Felipe Ángeles, Palmar de Bravo, Quecholac, Los Reyes de Juárez, San Salvador Huixcolotla, Tlacotepec de Benito Juárez, Tlanepantla, Tochtepec, Xochitlán Todos Santos y Yehualtepec.
+
+DISTRITO 18 Cabecera: Acatzingo.
+
+Comprendiendo los municipios siguientes: Acatzingo, Mazapiltepec de Juárez, Nopalucan, Rafael Lara Grajales, San José Chiapa, San Nicolás Buenos Aires, San Salvador El Seco y Soltepec.
+
+DISTRITO 19 Cabecera: Ciudad Serdán.
+
+Comprendiendo los municipios siguientes: Chalchicomula de Sesma, Aljojuca, Atzitzintla, Cañada Morelos, Chichiquila, Chilchotla, Esperanza, Guadalupe Victoria, Lafragua, Quimixtlán, San Juan Atenco y Tlachichuca.
+
+DISTRITO 20 Cabecera: Tlatlauquitepec.
+
+Comprendiendo los municipios siguientes: Tlatlauquitepec, Atempan, Hueyapan, Libres, Oriental, Tepeyahualco, Teteles de Avila Castillo, Yaonahuac y Zaragoza.
+
+DISTRITO 21 Cabecera: Teziutlán.
+
+Comprendiendo los municipios siguientes: Teziutlán, Acateno, Ayotoxco de Guerrero, Chignautla, Hueytamalco, Tenampulco y Xiutetelco.
+
+DISTRITO 22 Cabecera: Zacapoaxtla.
+
+Comprendiendo los municipios siguientes: Zacapoaxtla, Cuetzalan del Progreso, Cuyoaco, Jonotla, Nauzontla, Ocotepec, Tuzamapan de Galeana, Xochitlán de Vicente Suárez, Zautla y Zoquiapan.
+
+DISTRITO 23 Cabecera: Tetela de Ocampo.
+
+Comprendiendo los municipios siguientes: Tetela de Ocampo, Aquixtla, Cuautempan, Chignahuapan, Huitzilan de Serdán, Ixtacamaxtitlán, Xochiapulco, Zapotitlán de Méndez y Zongozotla.
+
+DISTRITO 24 Cabecera: Zacatlán.
+
+Comprendiendo los municipios siguientes: Zacatlán, Ahuacatlán, Amixtlán, Camocuautla, Caxhuacan, Coatepec, Hermenegildo Galeana, Huehuetla, Hueytlalpan, Atlequizayán, Ixtepec, Jopala, Olintla, San Felipe Tepatlán, Tepango de Rodríguez, Tepetzintla y Tlapacoya.
+
+DISTRITO 25 Cabecera: Huauchinango.
+
+Comprendiendo los municipios siguientes: Huauchinango, Ahuazotepec, Chiconcuautla, Honey, Juan Galindo, Naupan, Pahuatlán y Tlaola.
+
+DISTRITO 26 Cabecera: Xicotepec.
+
+Comprendiendo los municipios siguientes: Xicotepec, Francisco Z. Mena, Jalpan, Pantepec, Tlacuilotepec, Tlaxco, Venustiano Carranza y Zihuateutla.
