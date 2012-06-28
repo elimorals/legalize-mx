@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-iv-2005-del-comite-de-49882"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-05-09"
-last_updated: "2005-05-09"
+last_updated: "2012-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49882&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2005-05-09"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION IV/2005 DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [GASTOS DE TRASLADO DE SERVIDORES PUB. Y DOCENTES QUE PARTICIPEN DETERMINADAS CONFERENCIAS]
 
-ACUERDO GENERAL DE ADMINISTRACION IV/2005, DEL NUEVE DE MAYO DE DOS MIL CINCO, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE REGULAN LOS GASTOS EN QUE INCURRA ESTE ALTO TRIBUNAL CON MOTIVO DEL TRASLADO DE LOS SERVIDORES PUBLICOS Y DOCENTES EXTERNOS QUE PARTICIPEN EN LOS PROGRAMAS DE DIFUSION Y PROMOCION DE LA CULTURA JURIDICA Y JURISDICCIONAL, ASI COMO LAS CONDICIONES PARA SU EROGACION
+ACUERDO GENERAL DE ADMINISTRACIÓN IV/2005, DEL NUEVE DE MAYO DE DOS MIL CINCO, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULAN LOS GASTOS EN QUE INCURRA ESTE ALTO TRIBUNAL CON MOTIVO DEL TRASLADO DE LOS SERVIDORES PÚBLICOS Y DOCENTES EXTERNOS QUE PARTICIPEN EN LOS PROGRAMAS DE DIFUSIÓN Y PROMOCIÓN DE LA CULTURA JURÍDICA Y JURISDICCIONAL, ASÍ COMO LAS CONDICIONES PARA SU EROGACIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACION Y SU GACETA: TOMO XXII, JULIO DE 2005, PAGINA 1583.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN I/2012 DEL CATORCE DE JUNIO DE DOS MIL DOCE DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN POR EL QUE SE REGULAN LOS PROCESOS DE PLANEACIÓN, PROGRAMACIÓN, PRESUPUESTACIÓN, EJERCICIO Y CONTABILIDAD DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. DE 28 DE JUNIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XXI, Mayo de 2005, página 1611.
 
@@ -119,10 +121,6 @@ SÉPTIMO. Los gastos inherentes a la difusión se realizarán con base en los re
 
 ### CAPÍTULO TERCERO. DE LA SOLICITUD PARA LA EROGACIÓN DE GASTOS
 
-NOVENO. Para la transportación de los disertantes al lugar donde deba realizarse el evento correspondiente se tomarán en cuenta los medios de transporte idóneos para arribar al lugar de destino.
-
-Cuando existan vuelos comerciales se preferirá la transportación aérea, para la cual se pagará tarifa de clase turista. La transportación terrestre se pagará en clase de lujo cuando exista, en caso contrario, de primera clase.
-
 OCTAVO. Una vez autorizado el respectivo programa de difusión y, en su caso, celebrado el convenio correspondiente, el área encargada del programa presentará la solicitud de erogación correspondiente a:
 
 I. Los gastos de transportación aérea y hospedaje (incluyendo desayuno y cena) se solicitarán y comprobarán oportunamente ante la Tesorería de este Alto Tribunal, la cual deberá realizar los trámites necesarios para contratar esos servicios, así como informar y entregar la documentación correspondiente al área encargada del programa; y,
@@ -130,6 +128,10 @@ I. Los gastos de transportación aérea y hospedaje (incluyendo desayuno y cena)
 II. Los gastos relacionados con los programas de difusión: transportación terrestre (autobús, combustible y peaje), comida de los disertantes, los de representación, la publicidad y, en su caso, los honorarios, se solicitarán y comprobarán oportunamente ante la Dirección General de Presupuesto y Contabilidad.
 
 Toda solicitud de erogación deberá estar autorizada por los órganos facultados para ello en el punto cuarto de este acuerdo y presentarse, cuando menos, cinco días hábiles antes de la realización del evento correspondiente.
+
+NOVENO. Para la transportación de los disertantes al lugar donde deba realizarse el evento correspondiente se tomarán en cuenta los medios de transporte idóneos para arribar al lugar de destino.
+
+Cuando existan vuelos comerciales se preferirá la transportación aérea, para la cual se pagará tarifa de clase turista. La transportación terrestre se pagará en clase de lujo cuando exista, en caso contrario, de primera clase.
 
 DÉCIMO. En el caso de que el transporte no se pueda contratar directamente por la Suprema Corte, se pagará vía reembolso contra la entrega de la documentación comprobatoria que expida la empresa de servicios de transporte a la Dirección General de Presupuesto y Contabilidad; y, en el caso de que el disertante decida trasladarse en un vehículo particular, tendrá derecho al pago de peaje y gasolina, este último hasta de dos pesos por kilómetro que deba recorrer.
 
@@ -202,3 +204,29 @@ SEGUNDO. Se abroga el Acuerdo General de Administración IX/2004, del veintisiet
 TERCERO. Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
 
 Así lo acordaron y firman los señores Ministros Mariano Azuela Güitrón, Sergio Salvador Aguirre Anguiano y José de Jesús Gudiño Pelayo, integrantes del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación.
+
+D.O.F. 28 DE JUNIO DE 2012.
+
+PRIMERO. Este Acuerdo General entrará en vigor el día primero de julio de dos mil doce.
+
+SEGUNDO. Se abrogan los Acuerdos Generales de Administración 23/99, del primero de junio de mil novecientos noventa y nueve, por el que se determinan los lineamientos para la inversión de los recursos presupuestales de la Suprema Corte de Justicia de la Nación; 24/99, del primero del mes de junio de mil novecientos noventa y nueve, por el que se determinan las políticas, normas y lineamientos para el ejercicio del presupuesto de egresos de la Suprema Corte de Justicia de la Nación; XII/2003, del nueve de septiembre de dos mil tres, por el que se establece el sistema de contratación y pago de hospedaje, transporte y otorgamiento de viáticos para las comisiones asignadas a los servidores públicos de este Alto Tribunal; VIII/2004, del veintisiete de septiembre de dos mil cuatro, por el que se regula el mecanismo para designar a los miembros de los comités técnicos de los fideicomisos de inversión y administración en los que funge como fideicomitente este Alto Tribunal, y IV/2005, del nueve de mayo de dos mil cinco, del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, por el que se regulan los gastos en que incurra este alto Tribunal con motivo del traslado de los servidores públicos y docentes externos que participen en los programas de difusión y promoción de la cultura jurídica y jurisdiccional, y el Acuerdo Administrativo del once de mayo de dos mil siete, relativo a los requisitos para presentar puntos de Acuerdo al Comité de Gobierno y Administración para la ejecución de obras, adquisición o contratación de bienes y servicios no presupuestados de carácter restringido; los Lineamientos del cuatro de diciembre de dos mil ocho, de la Suprema Corte de Justicia de la Nación, para la administración del Fondo Revolvente; los Lineamientos del veinticinco de octubre de dos mil siete por los que se rige el otorgamiento de donativos con cargo al Presupuesto de Egresos de la Suprema Corte de Justicia de la Nación, y cualquier otra disposición que se oponga al contenido del presente Acuerdo.
+
+En tanto se emite la normativa relacionada con el manejo, aplicación y operación de los programas de difusión y promoción de la cultura jurídica y jurisdiccional, se seguirá aplicando en lo que no se oponga al presente, el Acuerdo General de Administración IV/2005, por lo que no se aplicarán los artículos primero, segundo, tercero, octavo, noveno, décimo, décimo primero, décimo segundo, décimo tercero, décimo cuarto y décimo séptimo, en lo concerniente a los gastos relacionados con hospedaje, alimentación, de representación, del acompañante, y de transportación de todo tipo para los disertantes.
+
+Las tarifas para el otorgamiento de viáticos contenidas en el Acuerdo General de Administración XII/2003, seguirán aplicándose hasta en tanto el Presidente o el Comité de Gobierno autoriza las tarifas actualizadas en los lineamientos correspondientes.
+
+TERCERO. Todos los procedimientos de aplicación presupuestal iniciados antes de la vigencia del presente Acuerdo General que se encuentren pendientes de conclusión, así como los actos de ejecución derivados de los mismos, se continuarán tramitando hasta su conclusión, conforme a las disposiciones aplicables vigentes al momento de su inicio, incluidos aquellos que se verán modificados hasta el momento en que Tecnologías de la Información libere las adecuaciones al SIA que implican las disposiciones del presente Acuerdo.
+
+CUARTO. Los lineamientos que se deriven del presente acuerdo, serán elaborados por las áreas competentes dentro de los 90 días siguientes a la fecha de entrada en vigor del presente acuerdo y sometidos a la aprobación del Comité de Gobierno por conducto de la Oficialía Mayor.
+
+En tanto estos lineamientos son emitidos, seguirán rigiéndose, en lo que no se oponga al presente Acuerdo, la normatividad vigente.
+
+Anualmente, la Oficialía Mayor con apoyo de las Unidades Responsables respectivas, revisará el contenido de los lineamientos a que se refiere este artículo transitorio y de ser el caso propondrá al Comité de Gobierno las modificaciones correspondientes.
+
+QUINTO. Tecnologías de la Información con apoyo de las Unidades Responsables, llevarán a cabo las acciones necesarias para implementar la solución tecnológica que permita integrar y controlar de manera simultánea y alineada los Programas Anuales de Trabajo y los Programas Anuales de Necesidades con el Proyecto de Presupuesto, de tal manera que éstos tengan su origen y vinculación en el SIA. Dicha solución permitirá una conciliación permanente entre el presupuesto y los requerimientos contenidos en cada uno de los programas de ejecución correspondientes, así como con cada uno de los proyectos establecidos.
+
+SEXTO. Tecnologías de la Información con apoyo de las Unidades Responsables, llevarán a cabo las acciones necesarias para implementar la solución tecnológica que permita a las Casas de la Cultura realizar las actividades inherentes al ejercicio de su presupuesto autorizado. Hasta en tanto se realicen las modificaciones a los sistemas informáticos correspondientes, las Unidades Responsables Integradoras continuarán brindando el apoyo que requieran para ese efecto.
+
+SEPTIMO. Presupuesto y Contabilidad, con la participación que corresponda a las Unidades Responsables Integradoras y a la Dirección General de Casas, dentro de los 90 días naturales siguientes a la entrada en vigor del presente Acuerdo General, determinará las partidas presupuestarias que ejercerán las Casas de la Cultura, atendiendo a su dinámica y al principio de desconcentración administrativa.
+
+OCTAVO. Publíquese este Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos, en términos de lo dispuesto en el artículo 7°, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
