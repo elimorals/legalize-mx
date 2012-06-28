@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-numero-24-99-de-la-40853"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1999-06-01"
-last_updated: "1999-06-01"
+last_updated: "2012-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1999-06-01"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION NUMERO 24/99 DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [POLITICAS, NORMAS Y LINEAMIENTOS PARA EL EJERCICIO DEL PRESUPUESTO DE EGRESOS]
 
-ACUERDO GENERAL DE ADMINISTRACION 24/99 POR EL QUE SE DETERMINAN LAS POLITICAS, NORMAS Y LINEAMIENTOS PARA EL EJERCICIO DEL PRESUPUESTO DE EGRESOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION
+ACUERDO GENERAL DE ADMINISTRACIÓN 24/99 POR EL QUE SE DETERMINAN LAS POLÍTICAS, NORMAS Y LINEAMIENTOS PARA EL EJERCICIO DEL PRESUPUESTO DE EGRESOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN I/2012 DEL CATORCE DE JUNIO DE DOS MIL DOCE DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN POR EL QUE SE REGULAN LOS PROCESOS DE PLANEACIÓN, PROGRAMACIÓN, PRESUPUESTACIÓN, EJERCICIO Y CONTABILIDAD DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. DE 28 DE JUNIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Acuerdo publicado en el Semanario Judicial de la Federación, Tomo XII, Agosto de 2000, página 1301.
 
@@ -190,3 +192,31 @@ SEGUNDO. Se deroga el Acuerdo General de Administración 6/98 de la Presidencia 
 TERCERO. Publíquese el presente acuerdo en el Semanario Judicial de la Federación y su Gaceta, para su conocimiento y efectos legales.
 
 Así lo acordó y firma el Ministro Presidente de la Suprema Corte de Justicia de la Nación el día primero del mes de junio de mil novecientos noventa y nueve ante el secretario de la Contraloría y de Gestión Administrativa, que da fe.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 28 DE JUNIO DE 2012.
+
+PRIMERO. Este Acuerdo General entrará en vigor el día primero de julio de dos mil doce.
+
+SEGUNDO. Se abrogan los Acuerdos Generales de Administración 23/99, del primero de junio de mil novecientos noventa y nueve, por el que se determinan los lineamientos para la inversión de los recursos presupuestales de la Suprema Corte de Justicia de la Nación; 24/99, del primero del mes de junio de mil novecientos noventa y nueve, por el que se determinan las políticas, normas y lineamientos para el ejercicio del presupuesto de egresos de la Suprema Corte de Justicia de la Nación; XII/2003, del nueve de septiembre de dos mil tres, por el que se establece el sistema de contratación y pago de hospedaje, transporte y otorgamiento de viáticos para las comisiones asignadas a los servidores públicos de este Alto Tribunal; VIII/2004, del veintisiete de septiembre de dos mil cuatro, por el que se regula el mecanismo para designar a los miembros de los comités técnicos de los fideicomisos de inversión y administración en los que funge como fideicomitente este Alto Tribunal, y IV/2005, del nueve de mayo de dos mil cinco, del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, por el que se regulan los gastos en que incurra este alto Tribunal con motivo del traslado de los servidores públicos y docentes externos que participen en los programas de difusión y promoción de la cultura jurídica y jurisdiccional, y el Acuerdo Administrativo del once de mayo de dos mil siete, relativo a los requisitos para presentar puntos de Acuerdo al Comité de Gobierno y Administración para la ejecución de obras, adquisición o contratación de bienes y servicios no presupuestados de carácter restringido; los Lineamientos del cuatro de diciembre de dos mil ocho, de la Suprema Corte de Justicia de la Nación, para la administración del Fondo Revolvente; los Lineamientos del veinticinco de octubre de dos mil siete por los que se rige el otorgamiento de donativos con cargo al Presupuesto de Egresos de la Suprema Corte de Justicia de la Nación, y cualquier otra disposición que se oponga al contenido del presente Acuerdo.
+
+En tanto se emite la normativa relacionada con el manejo, aplicación y operación de los programas de difusión y promoción de la cultura jurídica y jurisdiccional, se seguirá aplicando en lo que no se oponga al presente, el Acuerdo General de Administración IV/2005, por lo que no se aplicarán los artículos primero, segundo, tercero, octavo, noveno, décimo, décimo primero, décimo segundo, décimo tercero, décimo cuarto y décimo séptimo, en lo concerniente a los gastos relacionados con hospedaje, alimentación, de representación, del acompañante, y de transportación de todo tipo para los disertantes.
+
+Las tarifas para el otorgamiento de viáticos contenidas en el Acuerdo General de Administración XII/2003, seguirán aplicándose hasta en tanto el Presidente o el Comité de Gobierno autoriza las tarifas actualizadas en los lineamientos correspondientes.
+
+TERCERO. Todos los procedimientos de aplicación presupuestal iniciados antes de la vigencia del presente Acuerdo General que se encuentren pendientes de conclusión, así como los actos de ejecución derivados de los mismos, se continuarán tramitando hasta su conclusión, conforme a las disposiciones aplicables vigentes al momento de su inicio, incluidos aquellos que se verán modificados hasta el momento en que Tecnologías de la Información libere las adecuaciones al SIA que implican las disposiciones del presente Acuerdo.
+
+CUARTO. Los lineamientos que se deriven del presente acuerdo, serán elaborados por las áreas competentes dentro de los 90 días siguientes a la fecha de entrada en vigor del presente acuerdo y sometidos a la aprobación del Comité de Gobierno por conducto de la Oficialía Mayor.
+
+En tanto estos lineamientos son emitidos, seguirán rigiéndose, en lo que no se oponga al presente Acuerdo, la normatividad vigente.
+
+Anualmente, la Oficialía Mayor con apoyo de las Unidades Responsables respectivas, revisará el contenido de los lineamientos a que se refiere este artículo transitorio y de ser el caso propondrá al Comité de Gobierno las modificaciones correspondientes.
+
+QUINTO. Tecnologías de la Información con apoyo de las Unidades Responsables, llevarán a cabo las acciones necesarias para implementar la solución tecnológica que permita integrar y controlar de manera simultánea y alineada los Programas Anuales de Trabajo y los Programas Anuales de Necesidades con el Proyecto de Presupuesto, de tal manera que éstos tengan su origen y vinculación en el SIA. Dicha solución permitirá una conciliación permanente entre el presupuesto y los requerimientos contenidos en cada uno de los programas de ejecución correspondientes, así como con cada uno de los proyectos establecidos.
+
+SEXTO. Tecnologías de la Información con apoyo de las Unidades Responsables, llevarán a cabo las acciones necesarias para implementar la solución tecnológica que permita a las Casas de la Cultura realizar las actividades inherentes al ejercicio de su presupuesto autorizado. Hasta en tanto se realicen las modificaciones a los sistemas informáticos correspondientes, las Unidades Responsables Integradoras continuarán brindando el apoyo que requieran para ese efecto.
+
+SEPTIMO. Presupuesto y Contabilidad, con la participación que corresponda a las Unidades Responsables Integradoras y a la Dirección General de Casas, dentro de los 90 días naturales siguientes a la entrada en vigor del presente Acuerdo General, determinará las partidas presupuestarias que ejercerán las Casas de la Cultura, atendiendo a su dinámica y al principio de desconcentración administrativa.
+
+OCTAVO. Publíquese este Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos, en términos de lo dispuesto en el artículo 7°, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
