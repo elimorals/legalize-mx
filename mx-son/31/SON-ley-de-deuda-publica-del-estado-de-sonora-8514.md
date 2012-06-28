@@ -4,7 +4,7 @@ identifier: "SON-ley-de-deuda-publica-del-estado-de-sonora-8514"
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-06"
-last_updated: "2008-07-14"
+last_updated: "2012-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8514&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY DE DEUDA PUBLICA DEL ESTADO DE SONORA
 
-LEY DE DEUDA PUBLICA DEL ESTADO DE SONORA
+LEY DE DEUDA PÚBLICA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE JULIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE JUNIO DE 2012.
 
 Ley publicada en la Sección Cuarta del Boletín Oficial del Estado de Sonora, el jueves 6 de julio de 1995.
 
@@ -165,9 +165,21 @@ I. Autorizar los montos máximos de endeudamiento neto del Estado, de las entida
 
 II. Autorizar en la correspondiente Ley de Ingresos los montos máximos por endeudamiento del Estado como avalista o deudor solidario o subsidiario de los municipios y de las entidades paraestatales y paramunicipales;
 
-III. Autorizar en las correspondientes Leyes de Ingresos los montos máximos por endeudamiento de los municipios como avalistas o deudores solidarios o subsidiarios de las entidades paramunicipales; y
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 2012)</small>
 
-IV. Autorizar, en la correspondiente Ley de Ingresos o mediante decretos, la afectación como garantía o fuente de pago, tanto de las participaciones en ingresos federales que corresponden al Estado y los municipios, como las estatales en el caso de los municipios, así como la afectación como garantía o fuente de pago de cualquier otro ingreso derivado de contribuciones, productos, aprovechamientos, accesorios o por cualquier otro concepto que sea susceptible de afectación. Tales afectaciones podrán también autorizarse con respecto a otras obligaciones que deriven de contratos que celebren los entes públicos dentro de sus respectivos ámbitos de competencia.
+III. Autorizar en las correspondientes Leyes de Ingresos los montos máximos por endeudamiento de los municipios como avalistas o deudores solidarios o subsidiarios de las entidades paramunicipales;
+
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 2012)</small>
+
+IV. Autorizar en las correspondientes Leyes de Ingresos o mediante decretos, la afectación como garantía o fuente de pago, tanto de las participaciones en ingresos federales que corresponden al Estado y municipios, como las estatales en el caso de los municipios, y de las aportaciones federales susceptibles de ser afectadas en los términos de la legislación aplicable, así como la afectación como garantía o fuente de pago de cualquier otro ingreso derivado de contribuciones, productos, aprovechamientos, accesorios o por cualquier otro concepto que sea susceptible de afectación. Tales afectaciones podrán también autorizarse con respecto a otras obligaciones que deriven de contratos que celebren los entes públicos dentro de sus respectivos ámbitos de competencia;
+
+> <small>(ADICIONADA, B.O. 28 DE JUNIO DE 2012)</small>
+
+V.- Autorizar al Ejecutivo Estatal o Ayuntamientos, a través de la reforma o adición de la Ley de Ingresos correspondiente o mediante decreto específico, de conformidad con las disposiciones de la presente Ley, los montos de endeudamiento adicionales necesarios, cuando se presenten circunstancias extraordinarias que así lo ameriten y/o cuenten con los recursos suficientes para el cumplimiento de las obligaciones que contraigan, incluida la afectación de participaciones y/o de aportaciones federales susceptibles de ser afectadas, para destinarlas como fuente y/o garantía de pago; autorizaciones a las cuales se podrán adherir los municipios que así lo estimen conveniente; y
+
+> <small>(ADICIONADA, B.O. 28 DE JUNIO DE 2012)</small>
+
+VI.- Autorizar la celebración de los mecanismos legales que, bajo cualquier modalidad o forma, se propongan instrumentar los entes públicos, a efecto de garantizar y/o realizar el pago de financiamientos, incluidos mandatos y fideicomisos de administración y pago que no se organicen de manera análoga a los organismos descentralizados o empresas de participación estatal o municipal mayoritaria, según sea el caso, en términos de la legislación aplicable, mismos que podrán servir como mecanismo de captación y distribución de la totalidad de las aportaciones federales susceptibles de afectarse, a los cuales se podrán adherir los entes públicos a los que así les resulte conveniente, conforme a la legislación aplicable.
 
 ###### ARTICULO 7o.
 
@@ -181,9 +193,21 @@ I.- Presentar al Congreso del Estado, las iniciativas de ley de ingresos y presu
 
 II.- (DEROGADA, B.O. 8 DE JULIO DE 2004)
 
-III.- Informar al Congreso del Estado de la situación de la deuda al rendir la cuanta pública anual y al remitir las iniciativas de ley de ingresos y presupuesto de egresos; y
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 2012)</small>
 
-IV.- Informar trimestralmente al Congreso del Estado, sobre la situación de la deuda pública, debiendo publicarla en el Boletín Oficial del Gobierno del Estado.
+III.- Informar al Congreso del Estado de la situación de la deuda al rendir la cuenta pública anual y al remitir las iniciativas de ley de ingresos y presupuesto de egresos;
+
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 2012)</small>
+
+IV.- Informar trimestralmente al Congreso del Estado, sobre la situación de la deuda pública, debiendo publicarla, en el Boletín Oficial del Gobierno del Estado;
+
+> <small>(ADICIONADA, B.O. 28 DE JUNIO DE 2012)</small>
+
+V.- Contratar montos por endeudamientos adicionales, en los términos de la presente Ley, cuando se presenten circunstancias extraordinarias que así lo ameriten y/o cuenten con los recursos suficientes para el cumplimiento de las obligaciones que contraiga; y
+
+> <small>(ADICIONADA, B.O. 28 DE JUNIO DE 2012)</small>
+
+VI.- Asesorar a los municipios en todo lo relativo a la obtención de recursos crediticios, la contratación de empréstitos, créditos y otras operaciones financieras para sí o para sus organismos descentralizados, fideicomisos y empresas de participación municipal mayoritaria, incluyendo en su caso, el apoyo a los municipios cuando dos o más de ellos se lo soliciten, para que concurran conjuntamente ante el Congreso del Estado para la obtención de autorizaciones globales, a las cuales se podrán adherir los demás municipios que lo estimen conveniente, en términos de lo establecido en la presente Ley.
 
 ###### ARTICULO 9o.
 
@@ -195,13 +219,17 @@ IV.- Informar trimestralmente al Congreso del Estado, sobre la situación de la 
 
 Corresponde al Ejecutivo del Estado, por conducto de la Secretaría, efectuar oportunamente los pagos de amortizaciones, intereses y lo que haya lugar, derivados de empréstitos a cargo del Estado. Asimismo:
 
-I.- Celebrar los contratos y convenios para la obtención de empréstitos, créditos y demás operaciones financieros de deuda pública, suscribiendo los documentos y títulos de crédito requeridos para tales efectos;
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 2012)</small>
+
+I.- Celebrar los contratos y convenios para la obtención de empréstitos, créditos y demás operaciones financieras de deuda pública, suscribiendo los documentos y títulos de crédito requeridos para tales efectos, incluyendo los mecanismos de afectación necesarios para otorgar garantías y/o fuentes de pago, de las operaciones de financiamiento a su cargo, en términos de la legislación aplicable;
 
 > <small>(REFORMADA, B.O. 8 DE JULIO DE 2004)</small>
 
 II. Reestructurar los créditos adquiridos como deudor en operaciones de pasivos directos y contingentes;
 
-III.- Afectar en garantía de pago de las obligaciones contraídas por el Estado, directamente o como avalista, las participaciones que en ingresos le correspondan, previa autorización del Congreso del Estado;
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 2012)</small>
+
+III.- Afectar en garantía y/o fuente de pago de las obligaciones contraídas por el Estado, directamente o como avalista, las participaciones y/o aportaciones federales que sean susceptibles de afectación conforme a la legislación aplicable, previa autorización del Congreso del Estado;
 
 > <small>(REFORMADA, B.O. 8 DE JULIO DE 2004)</small>
 
@@ -215,13 +243,17 @@ V. Autorizar a las entidades paraestatales para gestionar y contratar financiami
 
 VI. Asesorar a los municipios en todo lo relativo a la obtención de recursos crediticios, concertación de empréstitos y otras operaciones financieras para sí o para sus entidades paramunicipales;
 
-> <small>(ADICIONADA, B.O. 8 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 2012)</small>
 
-VII. Vigilar que la capacidad de pago de los entes públicos respecto de las cuales el Estado esté obligado, en cualquier forma, de conformidad con cualquier financiamiento contratado por dichos entes públicos, sea suficiente para cubrir puntualmente los compromisos que contraigan. Para tal efecto, deberá evaluar y supervisar el cumplimiento de las disposiciones en materia de deuda pública y la adecuada estructura financiera de los entes públicos obligados; y
+VII.- Vigilar que la capacidad de pago de los entes públicos respecto de los cuales el Estado esté obligado, en cualquier forma, de conformidad con cualquier financiamiento contratado por dichos entes públicos, sea suficiente para cubrir puntualmente los compromisos que contraigan. Para tal efecto, deberá evaluar y supervisar el cumplimiento de las disposiciones en materia de deuda pública y la adecuada estructura financiera de los entes públicos obligados;
 
-> <small>(ADICIONADA, B.O. 8 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 2012)</small>
 
-VIII. Llevar el Registro en los términos de la presente Ley.
+VIII.- Llevar el Registro en los términos de la presente Ley; y
+
+> <small>(ADICIONADA, B.O. 28 DE JUNIO DE 2012)</small>
+
+IX.- Previa autorización del Congreso del Estado, negociar y formalizar los instrumentos necesarios para la obtención de los financiamientos que celebre directamente el Estado y para aquellos en los que funja como garante, avalista o deudor solidario; así como para instrumentar las garantías y/o fuentes de pago para los demás entes públicos previstos en el artículo 2° de esta Ley, a los cuales se puedan adherir los municipios y/o sus organismos con el fin de afectar como garantía y/o fuente de pago de sus obligaciones inscritas en el Registro a que se refiere esta Ley, las participaciones y/o aportaciones federales o cualquier otro ingreso que les correspondan, según sea el caso.
 
 ###### ARTICULO 11.
 
@@ -231,21 +263,35 @@ Corresponde a los Ayuntamientos:
 
 I. Incluir en su proyecto de Ley de Ingresos correspondiente todas las operaciones de deuda pública a que se refiere esta Ley, y las obligaciones derivadas de los avales otorgados a sus entidades paramunicipales;
 
-II.- Celebrar contratos y convenios para la obtención de empréstitos, créditos y demás operaciones de deuda pública, suscribiendo los títulos de crédito u otros instrumentos requeridos para el efecto;
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 2012)</small>
+
+II. Solicitar al Congreso del Estado la reforma o adición de las leyes de ingresos municipales, para incluir montos y conceptos de endeudamiento no previstos o adicionales a los autorizados, que sean necesarios para el financiamiento de los municipios y en su caso, de las entidades de la administración pública paramunicipal a su cargo, cuando se presenten circunstancias extraordinarias que así lo ameriten y/o cuenten con los recursos suficientes para el cumplimiento de las obligaciones que contraigan, pudiendo efectuar la solicitud para la obtención de autorizaciones particulares o globales por dos o más municipios, incluso, con el apoyo del Ejecutivo del Estado, a fin de que se expida el decreto correspondiente, en el cual se podrá autorizar el o los montos adicionales de endeudamiento para cada municipio, la garantía y/o fuente de pago, y el mecanismo para su instrumentación, a la que se podrán adherir los municipios que así lo estimen conveniente;
 
 > <small>(REFORMADA, B.O. 8 DE JULIO DE 2004)</small>
 
 III. Reestructurar créditos adquiridos y celebrar los convenios y contratos que de esas acciones se deriven;
 
-IV.- Proporcionar la información que les solicite el Ejecutivo del Estado, así como informar trimestralmente al Congreso del Estado sobre sus operaciones de Deuda Pública;
+IV. Proporcionar la información que les solicite el Ejecutivo del Estado, así como informar trimestralmente al Congreso del Estado sobre sus operaciones de Deuda Pública;
 
-V.- Autorizar la afectación de las participaciones que les correspondan, cuando sirvan de garantía en las obligaciones que contraigan, previa autorización del Congreso del Estado;
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 2012)</small>
 
-> <small>(DEROGADO SEGUNDO PARRAFO, B.O. 8 DE JULIO DE 2004)</small>
+V. Sin perjuicio de la autorización que en su caso se le otorgue por el Congreso del Estado, autorizar en fuente y/o garantía de pago de las obligaciones que contraiga, la afectación de sus participaciones y/o aportaciones federales susceptibles de afectar conforme a la legislación aplicable;
 
-VI.- Prever en el presupuesto de egresos las partidas destinadas al pago de servicio de la deuda; y
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 2012)</small>
 
-VII.- Inscribir en el registro de deuda pública municipal sus operaciones crediticias, así como en el registro general de deuda pública consolidada.
+VI. Prever en el presupuesto de egresos las partidas destinadas al pago del servicio de la deuda;
+
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 2012)</small>
+
+VII.- Inscribir en el registro de deuda pública municipal sus operaciones crediticias, así como en el registro general de deuda pública consolidada;
+
+> <small>(ADICIONADA, B.O. 28 DE JUNIO DE 2012)</small>
+
+VIII. Previa autorización del Congreso del Estado, negociar los términos y condiciones, y celebrar los actos jurídicos que formalicen los mecanismos legales de garantía y/o fuente de pago de los financiamientos que celebren directamente o de aquellos en los que funjan como garantes, avalistas o deudores solidarios. El Ayuntamiento podrá constituir directamente los mecanismos a que se refiere esta fracción o, en su caso, podrá adherirse a los que hubiera constituido el Poder Ejecutivo del Estado; y
+
+> <small>(ADICIONADA, B.O. 28 DE JUNIO DE 2012)</small>
+
+IX. Autorizar al Poder Ejecutivo del Estado para que directamente o a través de mecanismos de garantía y/o pago, por cuenta y orden del municipio, realice pagos con cargo a las participaciones y/o aportaciones federales que le correspondan y de las que puedan disponer para tales efectos en términos de la legislación aplicable.
 
 ###### ARTICULO 12.
 
@@ -255,7 +301,7 @@ Las atribuciones a que se refiere el artículo anterior serán ejercidas, en lo 
 
 La Tesorería Municipal llevará el registro de deuda pública municipal, sin perjuicio de lo dispuesto en el artículo 13 de esta Ley.
 
-> <small>(REFORMADO SU DENOMINACION, B.O. 8 DE JULIO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACION, B.O. 8 DE JULIO DE 2004)</small>
 
 ### CAPITULO III. DEL REGISTRO ESTATAL DE DEUDA PUBLICA
 
@@ -277,6 +323,10 @@ II.- Copia certificada del acta en la que conste el acuerdo del Ayuntamiento en 
 
 III.- Declaración del ente público de que la operación de que se trate cumple con los requisitos previstos en el artículo 19 o el 19 Bis de esta Ley, según sea el caso, describiendo los elementos correspondientes.
 
+> <small>(ADICIONADO, B.O. 28 DE JUNIO DE 2012)</small>
+
+Las operaciones que involucren la afectación de aportaciones federales deberán inscribirse en el Registro y en el registro correspondiente a cargo de la Secretaría de Hacienda y Crédito Público, en términos de la legislación federal aplicable.
+
 > <small>(REFORMADO, B.O. 8 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 14.
@@ -285,9 +335,13 @@ En el Registro se anotará la fecha de inscripción de cada operación y los ele
 
 La Secretaría permitirá el acceso libre a la consulta del Registro y expedirá a quienes acrediten su interés jurídico las certificaciones que soliciten respecto de las operaciones inscritas.
 
-Conforme a la fecha y hora de inscripción en el Registro, se dará preferencia a los acreedores con respecto a afectaciones como garantía o fuente de pago de participaciones derivadas de la coordinación fiscal u otro tipo de ingresos.
+> <small>(REFORMADO, B.O. 28 DE JUNIO DE 2012)</small>
 
-A solicitud del Municipio o de la entidad paraestatal correspondiente, la Secretaria podrá asumir el compromiso de hacer pagos con cargo a las participaciones del Municipio o los ingresos de la entidad paraestatal afectados como garantía o fuente de pago, conforme a la disponibilidad de recursos, directamente a favor del acreedor.
+Conforme a la fecha y hora de inscripción en el Registro, se dará preferencia a los acreedores con respecto a las afectaciones como garantía y/o fuente de pago, de participaciones y/o aportaciones derivadas de la coordinación fiscal u otro tipo de ingresos.
+
+> <small>(REFORMADO, B.O. 28 DE JUNIO DE 2012)</small>
+
+A solicitud del Municipio o de la entidad paraestatal correspondiente, la Secretaría podrá asumir el compromiso de hacer pagos con cargo a las participaciones y/o aportaciones federales, del Municipio o los ingresos de la entidad paraestatal afectados de conformidad con la legislación aplicable, como garantía y/o fuente de pago, conforme a la disponibilidad de recursos, directamente a favor del acreedor.
 
 > <small>(REFORMADO, B.O. 8 DE JULIO DE 2004)</small>
 
@@ -347,7 +401,7 @@ ARTICULO 19 TER.- Los entes públicos podrán afectar en fideicomiso sus bienes,
 
 Los bienes afectados a los fiduciarios de los Fideicomisos de Presupuestación Multianual para Inversión se considerarán desincorporados temporalmente del patrimonio del ente público respectivo, y durante todo el tiempo que permanezcan en vigor dichos fideicomisos, los mismos formarán parte de su patrimonio destinados exclusivamente al cumplimiento de sus fines. Mientras dure la desincorporación a que se refiere este párrafo, a menos que se establezca otra cosa en el contrato respectivo, no se otorgarán estímulos fiscales ni se cancelarán créditos fiscales respecto de los bienes que hayan sido fideicomitidos.
 
-En los Fideicomisos de Presupuestación Mulitanual (sic) para Inversión que prevean la emisión de valores yen los cuales no se establezcan obligaciones directas o contingentes para los entes públicos respecto del pago de los mismos, el riesgo de que los bienes fideicomitidos no fuesen suficientes para efectuar dicho pago, correrá exclusivamente a cargo de los tenedores de dichos valores o los terceros que hayan asumido el riesgo respectivo. La emisión de los valores respectivos se regirá por las normas aplicables de derecho civil, mercantil, financiero y bursátil que correspondan.
+En los Fideicomisos de Presupuestación Mulitanual (sic) para Inversión que prevean la emisión de valores y en los cuales no se establezcan obligaciones directas o contingentes para los entes públicos respecto del pago de los mismos, el riesgo de que los bienes fideicomitidos no fuesen suficientes para efectuar dicho pago, correrá exclusivamente a cargo de los tenedores de dichos valores o los terceros que hayan asumido el riesgo respectivo. La emisión de los valores respectivos se regirá por las normas aplicables de derecho civil, mercantil, financiero y bursátil que correspondan.
 
 Las decisiones fundamentales sobre la disposición del patrimonio del Fideicomiso de Presupuestación Multianual para Inversión se regirán por el contrato constitutivo en tanto no contravengan la ley aplicable.
 
@@ -378,6 +432,40 @@ Cuando los municipios y sus entidades paramunicipales, requieran la garantía de
 ###### ARTICULO 22.
 
 Cuando los municipios, entidades paraestatales o entidades paramunicipales requieran de la garantía del Estado, deberán formular la solicitud correspondiente, acompañando la información que determine la Secretaría, presentando además en la forma en que dicha dependencia lo requiera, información que permita determinar su capacidad de pago y la necesidad debidamente razonada del tipo de gasto que se pretende financiar con los recursos del crédito. El Estado solamente garantizará obligaciones a cargo de una entidad paramunicipal si el Municipio correspondiente las garantiza.
+
+> <small>(ADICIONADO, B.O. 28 DE JUNIO DE 2012)</small>
+
+ARTICULO 22 BIS.- En los casos en que el Estado y los municipios pretendan afectar como garantía o fuente de pago de las obligaciones correspondientes, las aportaciones federales susceptibles de ser afectadas en los términos de la legislación aplicable, estos no podrán destinar para el servicio de dichas obligaciones, más del veinticinco por ciento de los recursos que anualmente les correspondan por concepto de los Fondos de Aportaciones para la Infraestructura Social y de Aportaciones Federales para el Fortalecimiento de las Entidades Federativas, en términos de lo dispuesto por la Ley de Coordinación Fiscal.
+
+Cuando se pretenda afectar recursos del Fondo de Aportaciones para la Infraestructura Social del Estado o los Municipios, los recursos que se obtengan se destinarán exclusivamente al financiamiento de obras, acciones sociales básicas y a inversiones que beneficien directamente a sectores de su población que se encuentren en condiciones de rezago social y pobreza extrema en los siguientes rubros:
+
+I- Fondo de Aportaciones para la Infraestructura Social Municipal: agua potable, alcantarillado, drenaje y letrinas, urbanización municipal, electrificación rural y de colonias pobres, infraestructura básica de salud, infraestructura básica educativa, mejoramiento de vivienda, caminos rurales, e infraestructura productiva rural, y
+
+II.- Fondo de Infraestructura Social Estatal: obras y acciones de alcance o ámbito de beneficio regional o intermunicipal.
+
+Adicionalmente, deberán observarse las disposiciones del artículo 33, párrafos segundo y tercero de la Ley de Coordinación Fiscal del orden federal.
+
+A su vez, cuando se pretenda afectar recursos del Fondo de Aportaciones para el Fortalecimiento de las Entidades Federativas se destinarán:
+
+I.- A la inversión en infraestructura física, incluyendo la construcción, reconstrucción, ampliación, mantenimiento y conservación de infraestructura; así como la adquisición de bienes para el equipamiento de las obras generadas o adquiridas; infraestructura hidroagrícola, y hasta un 3 por ciento del costo del programa o proyecto programado en el ejercicio fiscal correspondiente, para gastos indirectos por concepto de realización de estudios, elaboración y evaluación de proyectos, supervisión y control de estas obras de infraestructura;
+
+II.- Al saneamiento financiero, preferentemente a través de la amortización de deuda pública, expresada como una reducción al saldo registrado al 31 de diciembre del año inmediato anterior. Asimismo, podrán realizarse otras acciones de saneamiento financiero, siempre y cuando se acredite un impacto favorable en la fortaleza de las finanzas públicas locales;
+
+III.- Para apoyar el saneamiento de pensiones y, en su caso, reformas a los sistemas de pensiones de los Estados y del Distrito Federal, prioritariamente a las reservas actuariales;
+
+IV.- A la modernización de los registros públicos de la propiedad y del comercio locales, en el marco de la coordinación para homologar los registros públicos; así como para modernización de los catastros, con el objeto de actualizar los valores de los bienes y hacer más eficiente la recaudación de contribuciones;
+
+V.- Para modernizar los sistemas de recaudación locales y para desarrollar mecanismos impositivos que permitan ampliar la base gravable de las contribuciones locales, lo cual genere un incremento neto en la recaudación;
+
+VI.- Al fortalecimiento de los proyectos de investigación científica y desarrollo tecnológico, siempre y cuando las aportaciones federales destinadas a este rubro sean adicionales a los recursos de naturaleza local aprobados por las legislaturas locales en dicha materia;
+
+VII.- Para los sistemas de protección civil en los Estados y el Distrito Federal, siempre y cuando las aportaciones federales destinadas a este rubro sean adicionales a los recursos de naturaleza local aprobados por las legislaturas locales en dicha materia;
+
+VIII.- Para apoyar la educación pública, siempre y cuando las aportaciones federales destinadas a este rubro sean adicionales a los recursos de naturaleza local aprobados por las legislaturas locales para dicha materia y que el monto de los recursos locales se incremente en términos reales respecto al presupuestado en el año inmediato anterior, y
+
+IX.- Para destinarlas a fondos constituidos por los Estados y el Distrito Federal para apoyar proyectos de infraestructura concesionada o aquéllos donde se combinen recursos públicos y privados; al pago de obras públicas de infraestructura que sean susceptibles de complementarse con inversión privada, en forma inmediata o futura, así como a estudios, proyectos, supervisión, liberación del derecho de vía, y otros bienes y servicios relacionados con las mismas.
+
+Las solicitudes para afectar los fondos señalados en el presente artículo deberán acompañarse de la información financiera pertinente para que el Congreso del Estado proceda a emitir la autorización correspondiente.
 
 ### CAPITULO V. DE LAS OBLIGACIONES DERIVADAS DE LAS OPERACIONES DE ENDEUDAMIENTO
 
@@ -470,6 +558,12 @@ En los fideicomisos, mandatos o contratos análogos constituidos previamente a l
 En un plazo no mayor a 60 días, contados a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado deberá realizar las adecuaciones necesarias a las disposiciones reglamentarias correspondientes.
 
 B.O. 14 DE JULIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 28 DE JUNIO DE 2012.
 
 ###### ARTÍCULO ÚNICO.
 
