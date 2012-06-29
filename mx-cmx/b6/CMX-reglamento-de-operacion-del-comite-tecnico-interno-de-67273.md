@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-operacion-del-comite-tecnico-interno-de-67273"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-10"
-last_updated: "2010-06-23"
+last_updated: "2012-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67273&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2009-02-19"
 ---
 # REGLAMENTO DE OPERACION DEL COMITE TECNICO INTERNO DE ADMINISTRACION DE DOCUMENTOS DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-REGLAMENTO DE OPERACION DEL COMITE TECNICO INTERNO DE ADMINISTRACION DE DOCUMENTOS DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
+REGLAMENTO DE OPERACIÓN DEL COMITÉ TÉCNICO INTERNO DE ADMINISTRACIÓN DE DOCUMENTOS DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE JUNIO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO DE OPERACIÓN DEL COMITÉ TÉCNICO INTERNO DE ADMINISTRACIÓN DE DOCUMENTOS DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 29 DE JUNIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 10 de marzo de 2009.
 
@@ -393,3 +395,11 @@ Primero. La reforma al presente Reglamento entrará en vigor al día siguiente d
 Segundo. Publíquese en la Gaceta Oficial del Distrito Federal, así como en los estrados y en el sitio de Internet del Tribunal.
 
 Tercero. Se derogan todas aquellas disposiciones que se opongan a las contenidas en la normatividad que se reforma.
+
+G.O. 29 DE JUNIO DE 2012.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en los estrados del Tribunal.
+
+SEGUNDO. Se abroga el Reglamento de Operación del Comité Técnico Institucional de Administración de Documentos del Tribunal Electoral del Distrito Federal, aprobado por el Pleno mediante acuerdo 010/2009 de 17 de febrero de 2009 y reformado mediante acuerdos 021/2010 y 035/2010 de 25 de mayo y 17 de agosto, ambos de 2010, respectivamente.
+
+TERCERO. Publíquese en la Gaceta Oficial del Distrito Federal, así como en los estrados y en el sitio de Internet del Tribunal.
