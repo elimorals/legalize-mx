@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-organo-de-fiscalizacion-superior-45459"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-07-08"
-last_updated: "2011-03-25"
+last_updated: "2012-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45459&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO INTERIOR DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE BAJA CALIFORNIA
 
-REGLAMENTO INTERIOR DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE BAJA CALIFORNIA
+REGLAMENTO INTERIOR DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. LAS REFORMAS APROBADAS, MODIFICAN DE MANERA SUSTANCIAL EL CONTENIDO DEL PRESENTE ORDENAMIENTO DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, Y SI BIEN DIVERSOS ARTICULOS QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR SE PRESENTA EL TEXTO APROBADO Y PUBLICADO EN EL P.O. DE 25 DE MARZO DE 2011.</small>
+> <small>N. DE E. LAS REFORMAS APROBADAS, MODIFICAN DE MANERA SUSTANCIAL EL CONTENIDO DEL PRESENTE ORDENAMIENTO DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, Y SI BIEN DIVERSOS ARTÍCULOS QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR SE PRESENTA EL TEXTO APROBADO Y PUBLICADO EN EL P.O. DE 29 DE JUNIO DE 2012.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 8 de julio de 2005.
 
@@ -43,7 +43,7 @@ El presente Reglamento tiene por objeto precisar la estructura orgánica y funci
 
 El Órgano de Fiscalización Superior del Estado, es el órgano técnico de Fiscalización del Congreso del Estado, con las atribuciones que expresamente le confieren la Constitución Política del Estado Libre y Soberano de Baja California, la Ley de Fiscalización Superior de los Recursos Públicos para el Estado de Baja California y sus Municipios, la Ley Orgánica del Poder Legislativo del Estado de Baja California, este Reglamento Interior y cualquier otro ordenamiento legal que le sea aplicable.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2010)</small>
 
 ###### ARTÍCULO 3.
 
@@ -81,53 +81,57 @@ VII. Auditor Superior.- El Auditor Superior de Fiscalización del Estado;
 
 VIII. Subauditor Superior.- El Subauditor Superior de Fiscalización del Estado;
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
 
-IX. Direcciones de Auditoría.- La Dirección de Auditoría Mexicali, Dirección de Auditoría Tijuana a Entidades Estatales y Autónomos, Dirección de Auditoría Tijuana a Entidades Municipales y la Dirección de Auditoría Ensenada;
+IX. Direcciones Generales.- La Dirección General de Planeación de Auditoría y la Dirección General de Planeación de Auditoría a Obra Pública.
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
 
-X. Unidades de Auditoría.- La Unidad de Planeación de Auditoría y la Unidad de Planeación de Auditoría a Obra Pública;
+X. Direcciones de Auditoría.- La Dirección de Auditoría Mexicali a Entidades Estatales y Autónomos, la Dirección de Auditoría Mexicali a Entidades Municipales, Dirección de Auditoría Tijuana a Entidades Estatales y Autónomos, Dirección de Auditoría Tijuana a Entidades Municipales y la Dirección de Auditoría Ensenada.
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
 
-XI. Dirección de Auditoría Mexicali.- Es la Dirección de Auditoría que tiene como ámbito de competencia las entidades fiscalizables que tengan su domicilio dentro del Municipio de Mexicali;
+XI. Dirección de Auditoría Mexicali a Entidades Estatales y Autónomos.- Es la Dirección de Auditoría que tiene como ámbito de competencia las entidades fiscalizables de la administración pública estatal, paraestatal y organismos públicos autónomos, con domicilio dentro del Municipio de Mexicali;
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2011)</small>
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2012)</small>
 
-XII. Dirección de Auditoría Tijuana a Entidades Estatales y Autónomos.- Es la Dirección de Auditoría que tiene como ámbito de competencia las entidades fiscalizables de la administración pública paraestatal y los organismos públicos autónomos, con domicilio en los municipios de Tijuana, Tecate y Playas de Rosarito;
-
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2011)</small>
-
-XIII. Dirección de Auditoría Tijuana a Entidades Municipales.- Es la Dirección de Auditoría que tiene como ámbito de competencia las entidades fiscalizables de la administración pública municipal y paramunicipal, con domicilio en los Municipios de Tijuana, Tecate y Playas de Rosarito;
+XII. Dirección de Auditoría Mexicali a Entidades Municipales.- Es la Dirección de Auditoría que tiene como ámbito de competencia las entidades fiscalizables de la administración pública municipal y paramunicipal, con domicilio dentro del Municipio de Mexicali;
 
 > <small>(REFORMADA, P.O. 25 DE MARZO DE 2011)</small>
 
-XIV. Dirección de Auditoría Ensenada.- Es la Dirección de Auditoría que tiene como ámbito de competencia las entidades fiscalizables que tengan su domicilio dentro del Municipio de Ensenada;
+XIII. Dirección de Auditoría Tijuana a Entidades Estatales y Autónomos.- Es la Dirección de Auditoría que tiene como ámbito de competencia las entidades fiscalizables de la administración pública paraestatal y los organismos públicos autónomos, con domicilio en los municipios de Tijuana, Tecate y Playas de Rosarito;
 
 > <small>(REFORMADA, P.O. 25 DE MARZO DE 2011)</small>
 
-XV. Unidades.- La Unidad General de Administración, la Unidad de Asuntos Jurídicos y la Unidad de Gestión de Calidad;
+XIV. Dirección de Auditoría Tijuana a Entidades Municipales.- Es la Dirección de Auditoría que tiene como ámbito de competencia las entidades fiscalizables de la administración pública municipal y paramunicipal, con domicilio en los Municipios de Tijuana, Tecate y Playas de Rosarito;
 
 > <small>(REFORMADA, P.O. 25 DE MARZO DE 2011)</small>
 
-XVI. Fiscalización Superior.- La facultad del Congreso, ejercida por conducto del Órgano de Fiscalización, para la revisión, análisis, auditoría y opinión de la Cuenta Pública de las Entidades del ejercicio fiscal correspondiente, la cual comprende la Cuenta Pública, los Informes de Avance de Gestión Financiera y la documentación comprobatoria y justificatoria mensual del ingreso y gasto público;
+XV. Dirección de Auditoría Ensenada.- Es la Dirección de Auditoría que tiene como ámbito de competencia las entidades fiscalizables que tengan su domicilio dentro del Municipio de Ensenada;
+
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2011)</small>
+
+XVI. Unidades.- La Unidad General de Administración, la Unidad de Asuntos Jurídicos y la Unidad de Gestión de Calidad;
+
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2011)</small>
+
+XVII. Fiscalización Superior.- La facultad del Congreso, ejercida por conducto del Órgano de Fiscalización, para la revisión, análisis, auditoría y opinión de la Cuenta Pública de las Entidades del ejercicio fiscal correspondiente, la cual comprende la Cuenta Pública, los Informes de Avance de Gestión Financiera y la documentación comprobatoria y justificatoria mensual del ingreso y gasto público;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE MARZO DE 2011)</small>
 
-XVII. Entidades Fiscalizables.- Las Entidades que ejerzan recursos públicos y, en general, cualquier entidad, persona física o moral, pública o privada, que haya tenido o tenga a su cargo la recaudación, administración, el manejo o el ejercicio de recursos públicos estatales o municipales;
+XVIII. Entidades Fiscalizables.- Las Entidades que ejerzan recursos públicos y, en general, cualquier entidad, persona física o moral, pública o privada, que haya tenido o tenga a su cargo la recaudación, administración, el manejo o el ejercicio de recursos públicos estatales o municipales;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE MARZO DE 2011)</small>
 
-XVIII. Confronta.- Reunión realizada entre servidores públicos de las entidades fiscalizables o quienes dejaron de serlo, y del Órgano de Fiscalización con el objeto de dar a conocer los resultados preliminares de la revisión realizada, para efecto de que se aclaren observaciones que no hayan quedado totalmente solventadas en los plazos establecidos en la Ley;
+XIX. Confronta.- Reunión realizada entre servidores públicos de las entidades fiscalizables o quienes dejaron de serlo, y del Órgano de Fiscalización con el objeto de dar a conocer los resultados preliminares de la revisión realizada, para efecto de que se aclaren observaciones que no hayan quedado totalmente solventadas en los plazos establecidos en la Ley;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE MARZO DE 2011)</small>
 
-XIX. A.S.F.- Auditoría Superior de la Federación; y
+XX. A.S.F.- Auditoría Superior de la Federación; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE MARZO DE 2011)</small>
 
-XX. ASOFIS.- Asociación Nacional de Organismos de Fiscalización Superior y Control Gubernamental, A. C.
+XXI. ASOFIS.- Asociación Nacional de Organismos de Fiscalización Superior y Control Gubernamental, A. C.
 
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2011)</small>
 
@@ -139,53 +143,69 @@ I.- Auditor Superior de Fiscalización.
 
 II.- Subauditor Superior de Fiscalización.
 
-III.- Dirección de Auditoría Mexicali, la cual estará adscrita al Subauditor Superior y tendrá los siguientes departamentos a su cargo:
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
 
-1. Departamento de Auditoría Presupuestal y Programática a Entidades Estatales y Autónomos.
+III.- Dirección de Auditoría Mexicali a Entidades Estatales y Autónomos, la cual estará adscrita al Subauditor Superior y tendrá los siguientes departamentos a su cargo:
+
+1. Departamento de Auditoría Financiera a Entidades Estatales y Autónomos.
+
+2. Departamento de Auditoría Financiera a Entidades Paraestatales.
+
+3. Departamento de Auditoría Presupuestal y Programática a Entidades Estatales y Autónomos.
+
+4. Departamento de Auditoría a Obra Pública a Entidades Estatales y Autónomos.
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+IV.- Dirección de Auditoría Mexicali a Entidades Municipales, la cual estará adscrita al Subauditor Superior y tendrá los siguientes departamentos a su cargo:
+
+1. Departamento de Auditoría Financiera a Entidades Municipales.
 
 2. Departamento de Auditoría Presupuestal y Programática a Entidades Municipales.
 
-3. Departamento de Auditoría Financiera a Entidades Estatales y Autónomos.
+3. Departamento de Auditoría a Obra Pública a Entidades Municipales.
 
-4. Departamento de Auditoría Financiera a Entidades Paraestatales.
+V.- Dirección de Auditoría Tijuana a Entidades Estatales y Autónomos, la cual estará adscrita al Subauditor Superior y tendrá los siguientes departamentos a su cargo:
 
-5. Departamento de Auditoría Financiera a Entidades Municipales.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
-6. Departamento de Auditoría a Obra Pública a Entidades Estatales y Autónomos.
+1. Departamento de Auditoría Financiera a Entidades Paraestatales y Autónomos.
 
-7. Departamento de Auditoría a Obra Pública a Entidades Municipales.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
-IV.- Dirección de Auditoría Tijuana a Entidades Estatales y Autónomos, la cual estará adscrita al Subauditor Superior y tendrá los siguientes departamentos a su cargo:
-
-1. Departamento de Auditoría Presupuestal y Programática a Entidades Paraestatales y Autónomos.
-
-2. Departamento de Auditoría Financiera a Entidades Paraestatales y Autónomos.
+2. Departamento de Auditoría Presupuestal y Programática a Entidades Paraestatales y Autónomos.
 
 3. Departamento de Auditoría a Obra Pública a Entidades Paraestatales y Autónomos.
 
-V.- Dirección de Auditoría Tijuana a Entidades Municipales, la cual estará adscrita al Subauditor Superior y tendrá los siguientes departamentos a su cargo:
+VI.- Dirección de Auditoría Tijuana a Entidades Municipales, la cual estará adscrita al Subauditor Superior y tendrá los siguientes departamentos a su cargo:
 
-1. Departamento de Auditoría Presupuestal y Programática a Entidades Municipales.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
-2. Departamento de Auditoría Financiera a Entidades Municipales.
+1. Departamento de Auditoría Financiera a Entidades Municipales.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
+
+2. Departamento de Auditoría Presupuestal y Programática a Entidades Municipales.
 
 3. Departamento de Auditoría a Obra Pública a Entidades Municipales.
 
-VI.- Dirección de Auditoría Ensenada, la cual estará adscrita al Subauditor Superior y tendrá los siguientes departamentos a su cargo:
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
 
-1. Departamento de Auditoría Financiera y Presupuestal a Entidades Municipales.
+VII.- Dirección de Auditoría Ensenada, la cual estará adscrita al Subauditor Superior y tendrá los siguientes departamentos a su cargo:
 
-2. Departamento de Auditoría a Obra Pública a Entidades Municipales.
+1. Departamento de Auditoría Financiera.
 
-3. Departamento de Auditoría a Entidades Paraestatales.
+2. Departamento de Auditoría Presupuestal y Programática.
 
-VII.- Dirección de Normatividad y Mejora Continua, la cual estará adscrita al Auditor Superior y tendrá los siguientes departamentos a su cargo:
+3. Departamento de Auditoría a Obra Pública.
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+VIII.- Dirección de Normatividad y Mejora Continua, la cual estará adscrita al Auditor Superior y tendrá los siguientes departamentos a su cargo:
 
 1. Departamento de Normatividad y Control de Procesos de Auditoría.
 
-2. Departamento de Enlace Institucional.
-
-VIII.- Unidad General de Administración, la cual estará adscrita al Auditor Superior y tendrá los siguientes departamentos a su cargo:
+IX.- Unidad General de Administración, la cual estará adscrita al Auditor Superior y tendrá los siguientes departamentos a su cargo:
 
 1. Departamento de Recursos Humanos.
 
@@ -195,15 +215,27 @@ VIII.- Unidad General de Administración, la cual estará adscrita al Auditor Su
 
 4. Departamento de Informática.
 
-IX.- Unidad de Asuntos Jurídicos, la cual estará adscrita al Auditor Superior.
+X.- Unidad de Asuntos Jurídicos, la cual estará adscrita al Auditor Superior.
 
-X.- Unidad de Gestión de Calidad, la cual estará adscrita al Auditor Superior.
+XI.- Unidad de Gestión de Calidad, la cual estará adscrita al Auditor Superior.
 
-XI.- Unidad de Planeación de Auditoría, la cual estará adscrita al Subauditor Superior.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
 
-XII.- Unidad de Planeación de Auditoría a Obra Pública, la cual estará adscrita al Subauditor Superior.
+XII.- Dirección General de Planeación de Auditoría, la cual estará adscrita al Auditor Superior.
 
-XIII.- Departamento de Enlace Legislativo, el cual estará adscrito al Auditor Superior.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+XIII.- Dirección General de Planeación de Auditoría a Obra Pública, la cual estará adscrita al Auditor Superior.
+
+XIV.- Departamento de Enlace Legislativo, el cual estará adscrito al Auditor Superior.
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+XV.- Departamento de Enlace - ASF, el cual estará adscrito al Auditor Superior.
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+XVI.- Departamento de Enlace Institucional, el cual estará adscrito al Auditor Superior.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2010)</small>
 
@@ -217,169 +249,119 @@ A falta de nombramiento de un Director, de un Titular de Unidad o de un Jefe de 
 
 Los Servidores Públicos del órgano de Fiscalización al igual que los prestadores de servicios profesionales que sean contratados por éste, estarán obligados a guardar estricta reserva y confidencialidad de las actuaciones, observaciones e información de que tengan conocimiento, en virtud del acceso, manejo y proceso de información referente a las Entidades Fiscalizables y al órgano de Fiscalización.
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 7.
 
-Queda prohibido al Subauditor Superior, Directores, Titulares de Unidades, Jefes de Departamento y en general a todo el personal técnico y administrativo del Órgano de Fiscalización, formar parte de algún partido político. Se entiende que se es parte de un partido político cuando se participa en actos políticos partidistas y se haga cualquier tipo de propaganda o promoción partidistas, bajo alguna designación que les haya hecho el partido político de que se trate.
+El Órgano de Fiscalización conducirá sus actividades en forma programada y conforme a las políticas, manuales, procedimientos o lineamientos, que para el logro de los objetivos institucionales establezca el Auditor Superior.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 8.
 
-El Órgano de Fiscalización conducirá sus actividades en forma programada y conforme a las políticas, manuales, procedimientos o lineamientos, que para el logro de los objetivos institucionales establezca el Auditor Superior.
+La interpretación de las disposiciones contenidas en el presente Reglamento queda a cargo del Órgano de Fiscalización, a través del Auditor Superior.
 
 ### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES DEL AUDITOR SUPERIOR
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 9.
 
-La interpretación de las disposiciones contenidas en el presente Reglamento queda a cargo del órgano de Fiscalización, a través del Auditor Superior.
+Al frente del Órgano de Fiscalización, como titular y autoridad ejecutiva, estará un Auditor Superior, a quien corresponde originalmente la representación, trámite y resolución de los asuntos de su competencia en los términos de la Constitución del Estado y de la Ley y quien, para la mejor distribución y desarrollo del trabajo, podrá conferir sus facultades delegables a los servidores públicos subalternos, sin perder por ello la posibilidad de su ejercicio directo, ejercicio que igualmente le corresponderá cuando lo juzgue necesario respecto a las facultades que el presente Reglamento atribuye al Subauditor Superior, Direcciones Generales, Direcciones de Auditoría, Unidades, Departamentos y demás personal que integre el Órgano de Fiscalización.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 10.
-
-Al frente del Órgano de Fiscalización, como titular y autoridad ejecutiva, estará un Auditor Superior, a quien corresponde originalmente la representación, trámite y resolución de los asuntos de su competencia en los términos de la Constitución del Estado y de la Ley y quien, para la mejor distribución y desarrollo del trabajo, podrá conferir sus facultades delegables a los servidores públicos subalternos, sin perder por ello la posibilidad de su ejercicio directo, ejercicio que igualmente le corresponderá cuando lo juzgue necesario respecto a las facultades que el presente Reglamento atribuye al Subauditor Superior, Direcciones, Unidades, Departamentos y demás personal que integre el Órgano de Fiscalización.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JUNIO DE 2010)</small>
-
-###### ARTÍCULO 11.
 
 El Auditor Superior tendrá, además de las conferidas en la Ley, las siguientes atribuciones:
 
 I.- Designar personal para el desempeño de comisiones y servicios ordinarios o especiales fijándole sus facultades;
 
-II.- Seleccionar y contratar a personal capacitado, así como promover, remover, suspender o cesar, en su caso, al personal del órgano de Fiscalización con sujeción a las leyes, disposiciones laborales y presupuesto autorizado;
-
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2011)</small>
+II.- Seleccionar y contratar a personal capacitado, así como promover, remover, suspender o cesar, en su caso, al personal del Órgano de Fiscalización con sujeción a las leyes, disposiciones laborales y presupuesto autorizado;
 
 III.- Planear, organizar, dirigir, ejecutar, controlar y evaluar las funciones del Órgano de Fiscalización, así como fijar las políticas de éste, además de coordinar y evaluar el funcionamiento del Subauditor Superior, Directores, Titulares de Unidades, Jefes de Departamento y demás personal del Órgano de Fiscalización;
-
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2010)</small>
 
 IV.- Representar o nombrar representante del Órgano de Fiscalización en las materias de su competencia en los términos de la Ley;
 
 V.- Contratar conforme al presupuesto de egresos del Órgano de Fiscalización, los servicios profesionales externos de personas físicas o morales para el mejor funcionamiento del mismo;
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2010)</small>
-
 VI.- Decidir respecto a la selección, contratación y baja de los prestadores de servicios y asesores externos;
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2010)</small>
-
-VII.- Asignar la coordinación de programas específicos a las Direcciones, Unidades, Departamentos o a cualquiera otra área del Órgano Fiscalización;
-
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2010)</small>
+VII.- Asignar la coordinación de programas específicos a las Direcciones, Unidades, Departamentos o a cualquier otra área del Órgano de Fiscalización;
 
 VIII.- Aprobar la designación de los inspectores, visitadores o auditores encargados de practicar las inspecciones, visitas y auditorías a su cargo, o, en su caso, habilitar a terceros, en los términos de la Ley, mediante la celebración de contratos de prestación de servicios profesionales independientes;
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2010)</small>
-
 IX.- Suscribir los pliegos de observaciones y las recomendaciones que deriven de los resultados de la revisión de la Cuenta Pública de las Entidades Fiscalizables;
-
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2010)</small>
 
 X.- Acatar las disposiciones de este Reglamento, así como resolver las dudas que se susciten con motivo de la interpretación o aplicación del mismo;
 
-XI.- Proponer al Congreso, por conducto de la Comisión que corresponda, los proyectos de Leyes, Reglamentos, Decretos y Acuerdos, sobre los asuntos que considere necesarios y que sean propios de la competencia del órgano de Fiscalización;
+XI.- Proponer al Congreso, por conducto de la Comisión que corresponda, los proyectos de Leyes, Reglamentos, Decretos y Acuerdos, sobre los asuntos que considere necesarios y que sean propios de la competencia del Órgano de Fiscalización;
 
-XII.- Expedir copias certificadas de constancias que obren en los archivos del órgano de Fiscalización cuando deban ser exhibidas ante las autoridades judiciales, administrativas o laborales y, en general, en cualquier procedimiento, proceso o averiguación, y
+XII.- Expedir copias certificadas de constancias que obren en los archivos del Órgano de Fiscalización cuando deban ser exhibidas ante las autoridades judiciales, administrativas o laborales y, en general, en cualquier procedimiento, proceso o averiguación; y
 
-XIII.- El despacho de los asuntos que le encomienden otras leyes, Decretos, Acuerdos y Solicitudes que expida el Congreso del Estado, así como el presente Reglamento.
+XIII.- El despacho de los asuntos que le encomienden otras Leyes, Decretos, Acuerdos y/o solicitudes que expida el Congreso del Estado, así como el presente Reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
-### CAPÍTULO TERCERO. DE LAS ATRIBUCIONES DEL SUBAUDITOR SUPERIOR
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MARZO DE 2011)</small>
-
-###### ARTÍCULO 12.
+###### ARTÍCULO 11.
 
 El Auditor Superior tendrá, además de las señaladas en la Ley, y en el artículo que precede las siguientes atribuciones no delegables:
 
-I.- Aprobar el Programa Anual de Auditorías, Visitas e Inspecciones del órgano de Fiscalización, así como las adecuaciones y modificaciones al mismo;
-
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2011)</small>
+I.- Aprobar el Programa Anual de Auditorías, visitas e inspecciones del Órgano de Fiscalización, así como las adecuaciones y modificaciones al mismo;
 
 II.- Expedir los nombramientos de todo el personal del Órgano de Fiscalización a partir del nivel de Subauditor Superior, así como resolver sobre la terminación de los efectos de dichos nombramientos;
 
 III.- Celebrar todo tipo de convenios de coordinación o colaboración con las Autoridades de los Poderes de la Unión y los Gobiernos Estatales y Municipales, así como con los Organismos que agrupen a Entidades de Fiscalización Superior homólogas, con éstas directamente y con el sector privado, con el objeto de desempeñar más eficientemente las funciones de fiscalización;
 
-IV.- Crear los comités internos que estime convenientes para la adecuada coordinación de las actividades en materia de capacitación, adquisiciones, arrendamientos, servicios, etc., así como emitir las normas para su organización y funcionamiento, de conformidad a la ley de la materia;
-
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2010)</small>
+IV.- Crear los comités internos que estime convenientes para la adecuada coordinación de las actividades en materia de capacitación, adquisiciones, arrendamientos, servicios, etc., así como emitir las normas para su organización y funcionamiento, de conformidad a la Ley de la materia;
 
 V.- Aprobar las políticas internas, normas, procedimientos y técnicas a que deban sujetarse las visitas, inspecciones y auditorías que ordene;
 
-VI.- Emitir las bases y reglas técnicas así como los lineamientos, acuerdos e instrucciones generales necesarios para el ejercicio de las atribuciones que las leyes otorguen al órgano de Fiscalización y a su Titular;
+VI.- Emitir las bases y reglas técnicas así como los lineamientos, acuerdos e instrucciones generales necesarias para el ejercicio de las atribuciones que las leyes otorguen al Órgano de Fiscalización y a su Titular;
 
 VII.- Expedir las bases y normas para la baja de documentos justificatorios y comprobatorios para efecto de destrucción, guarda y custodia de los que deban conservarse, microfilmarse o procesarse electrónicamente, sujetándose a las disposiciones legales establecidas en la materia;
 
-VIII.- Expedir los acuerdos de reformas y adiciones al Reglamento Interior del Órgano de Fiscalización debiendo enviarse para la publicación en el Periódico Oficial del Estado, y
+VIII.- Expedir los acuerdos de reformas y adiciones al Reglamento Interior del Órgano de Fiscalización debiendo enviarse para la publicación en el Periódico Oficial del Estado; y
 
 IX.- Las demás que se deriven de las Leyes, del presente Reglamento y las que le encomiende el Congreso para el mejor desempeño del Órgano de Fiscalización.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE MARZO DE 2011)</small>
 
-###### ARTÍCULO 13.
+### CAPÍTULO TERCERO. DE LAS ATRIBUCIONES DEL SUBAUDITOR SUPERIOR
 
-El Subauditor Superior estará adscrito al Auditor Superior, tendrá a su cargo la coordinación de las Direcciones y Unidades de Auditoría y tendrá además de lo dispuesto en otros artículos de este Reglamento, las siguientes atribuciones generales:
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2011)</small>
+###### ARTÍCULO 12.
 
-I.- Acordar con el Auditor Superior el despacho de los asuntos técnicos y administrativos relativos a las Direcciones y Unidades de Auditoría a su cargo;
+El Subauditor Superior estará adscrito al Auditor Superior, tendrá a su cargo la coordinación de las Direcciones de Auditoría y tendrá además de lo dispuesto en otros artículos de este Reglamento, las siguientes atribuciones generales:
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 11 DE JUNIO DE 2010)</small>
+I.- Acordar con el Auditor Superior el despacho de los asuntos técnicos y administrativos relativos a las Direcciones de Auditoría a su cargo;
 
 II.- Auxiliar al Auditor Superior cuando se lo requiera;
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2011)</small>
+III.- Coordinar y vigilar el funcionamiento de las Direcciones de Auditoría a su cargo, así como de los Programas Anuales de Actividades y Auditorías, Visitas e Inspecciones y sus adecuaciones, sometiéndolo a la aprobación del Auditor Superior.
 
-III.- Coordinar y vigilar el funcionamiento de las Direcciones y Unidades de Auditoría a su cargo, así como de los Programas Anuales de Actividades y Auditorías, Visitas e Inspecciones y sus adecuaciones, sometiéndolo a la aprobación del Auditor Superior;
+IV.- Proponer al Auditor Superior las medidas necesarias para subsanar las deficiencias que observe en las labores de las Direcciones de Auditoría a su cargo;
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2011)</small>
-
-IV.- Proponer al Auditor Superior las medidas necesarias para subsanar las deficiencias que observe en las labores de las Direcciones y Unidades de Auditoría a su cargo;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 11 DE JUNIO DE 2010)</small>
-
-V.- Participar en la evaluación del Informe de Avance de Gestión Financiera y en la elaboración del Informe de Resultado de la revisión de la Cuenta Pública, en la forma en que determine el Auditor Superior;
-
-(REFORMADA [N. DE E. REPUBLICADA], P.O. 11 DE JUNIO DE 2010
+V.- Participar en la evaluación del Informe de Avance de Gestión Financiera y en la elaboración del Informe de Resultados de la revisión de la Cuenta Pública, en la forma en que determine el Auditor Superior;
 
 VI.- Elaborar su programa anual de trabajo, donde se establecerán metas a cumplir, así como informar al Auditor Superior sobre el avance y cumplimiento del mismo;
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2011)</small>
-
-VII.- Someter a la aprobación del Auditor Superior, en coordinación con los Directores y Titulares de las Unidades de Auditoría a su cargo, el proyecto del Programa Anual de Auditorías, Visitas e Inspecciones;
-
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2010)</small>
+VII.- Someter a la aprobación del Auditor Superior, en coordinación con los Directores de Auditoría a su cargo, el proyecto del Programa Anual de Auditorías, Visitas e Inspecciones;
 
 VIII.- Desempeñar las comisiones que el Auditor Superior le encomiende y mantenerlo informado sobre el desarrollo de las mismas;
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2011)</small>
+IX.- Vigilar el cumplimiento de la normatividad aplicable al funcionamiento de las Direcciones de Auditoría a su cargo y, en su caso, proponer al Auditor Superior las modificaciones que estime convenientes;
 
-IX.- Vigilar el cumplimiento de la normatividad aplicable al funcionamiento de las Direcciones y Unidades de Auditoría a su cargo y, en su caso, proponer al Auditor Superior las modificaciones que estime convenientes;
+X.- Proponer a la Unidad General de Administración los programas y cursos de formación y capacitación para elevar el nivel técnico y profesional del personal de las Direcciones de Auditoría a su cargo;
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2011)</small>
+XI.- Presentar al Auditor Superior, a solicitud de la Unidad General de Administración, su anteproyecto de Presupuesto Anual de Egresos, así como integrar la información presupuestal correspondiente a las Direcciones de Auditoría a su cargo; y,
 
-X.- Proponer a la Unidad General de Administración los programas y cursos de formación y capacitación para elevar el nivel técnico y profesional del personal de las Direcciones y Unidades de Auditoría a su cargo;
+XII.- Los demás que le señalen otras disposiciones legales, este Reglamento o que le confiera el Auditor Superior.
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
-XI.- Presentar al Auditor Superior, a solicitud de la Unidad General de Administración, su anteproyecto de Presupuesto Anual de Egresos, así como integrar la información presupuestal correspondiente a las Direcciones y Unidades de Auditoría a su cargo; y,
-
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2010)</small>
-
-XII.- Las demás que le señalen otras disposiciones legales, este Reglamento o que le confiera el Auditor Superior.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MARZO DE 2011)</small>
-
-### CAPÍTULO CUARTO. DE LAS ATRIBUCIONES DE LAS DIRECCCIONES (SIC) DE AUDITORÍA
-
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2011)</small>
-
-###### ARTÍCULO 14.
+###### ARTÍCULO 13.
 
 Para ser Subauditor Superior se requiere satisfacer los requisitos siguientes:
 
@@ -389,21 +371,25 @@ II.- Tener cuando menos 35 años cumplidos el día de la designación;
 
 III.- Haber residido en el Estado de Baja California durante los cinco años anteriores al día de su designación;
 
-IV.- Poseer Título profesional de Contador Público;
+IV.- Poseer título profesional de Contador Público;
 
-V.- Tener reconocido prestigio profesional en el ejercicio de su profesión, capacidad y experiencia técnica en materia de auditoría, contabilidad, presupuestos, administración y fiscalización de recursos públicos, o bien acreditar experiencia en cargos relacionados con la Hacienda Pública, o su equivalente en la iniciativa privada, y
+V.- Tener reconocido prestigio profesional en el ejercicio de su profesión, capacidad, experiencia técnica en materia de auditoría, contabilidad, presupuestos, administración, fiscalización de recursos públicos, o bien acreditar experiencia en cargos relacionados con la Hacienda Pública, o su equivalente en la iniciativa privada; y
 
 VI.- No haber sido inhabilitado para desempeñar un cargo público o comisión en los últimos cinco años.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE MARZO DE 2011)</small>
 
-###### ARTÍCULO 15.
+### CAPÍTULO CUARTO. DE LAS ATRIBUCIONES DE LAS DIRECCCIONES (SIC) DE AUDITORÍA
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
+
+###### ARTÍCULO 14.
 
 Las Direcciones de Auditoría, para el despacho de los asuntos de su competencia, serán auxiliadas por los jefes de Departamento y demás personal necesario.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 19], P.O. 25 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
-###### ARTÍCULO 16.
+###### ARTÍCULO 15.
 
 A cada una de las Direcciones de Auditoría le corresponde atender los siguientes asuntos:
 
@@ -423,7 +409,7 @@ VII.- Llevar a cabo la fiscalización de la cuenta pública a través del person
 
 VIII.- Informar al Auditor Superior de las irregularidades que se detecten en el ejercicio de sus atribuciones que puedan constituir responsabilidades administrativas o penales;
 
-IX.- Asegurar la calidad técnica de los proyectos de pliegos de observaciones, de las recomendaciones e informes de resultado a su cargo, que sean sometidos a la consideración del Auditor Superior;
+IX.- Asegurar la calidad técnica de los proyectos de pliegos de observaciones, de las recomendaciones e Informes de Resultados a su cargo, que sean sometidos a la consideración del Auditor Superior;
 
 X.- Participar en las confrontas que se realicen con los servidores públicos de las Entidades fiscalizables;
 
@@ -437,45 +423,43 @@ XIV.- Dictar las medidas necesarias para subsanar las deficiencias que observe e
 
 XV.- Proponer al Subauditor Superior cursos de formación y capacitación para elevar el nivel técnico y profesional del personal a su cargo y evaluar su desempeño conforme a las políticas y procedimientos establecidos en el Órgano de Fiscalización;
 
-XVI.- Analizar y proponer al Auditor Superior el ingreso, sustitución, licencias, promoción, remoción y cese del personal a su cargo para su consideración; y
+XVI.- Analizar y proponer al Auditor Superior el ingreso, sustitución, licencias, promoción, remoción y cese del personal a su cargo para su consideración;
 
-XVII.- Los demás que le señalen otras disposiciones legales, el Manual de Organización y Procedimientos o que le confiera el Auditor Superior, así como asumir la atención de los asuntos que competan a los Departamentos a su cargo, cuando a su juicio sea necesario.
+XVII.- Valorar y presentar al Auditor Superior los proyectos de informes y opiniones resultantes de las comisiones y funciones diversas encomendadas; y
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 20], P.O. 25 DE MARZO DE 2011)</small>
+XVIII.- Los demás que le señalen otras disposiciones legales, el Manual de Organización y Procedimientos o que le confiera el Auditor Superior, así como asumir la atención de los asuntos que competan a los Departamentos a su cargo, cuando a su juicio sea necesario.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
+
+###### ARTÍCULO 16.
+
+A la Dirección de Auditoría Mexicali a Entidades Estatales y Autónomos, les corresponde, además de las señaladas en el Artículo 15 de este Reglamento, presentar al Auditor Superior la propuesta de opinión del Proyecto de Presupuesto de Egresos del Estado de Baja California y de los Organismos Públicos Autónomos y coadyuvar en la revisión del proyecto de opinión de la Iniciativa de la Ley de Ingresos del Estado, para el ejercicio fiscal correspondiente; (sic)
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 17.
 
-A la Dirección de Auditoría Mexicali le corresponde, además de las señaladas en el artículo 16 de este Reglamento, las siguientes atribuciones:
-
-I.- Presentar al Auditor Superior la propuesta de opinión del Proyecto de Presupuesto de Egresos del Estado de Baja California y de los Organismos Públicos Autónomos y coadyuvar en la revisión del proyecto de opinión de la Iniciativa de la Ley de Ingresos del Estado, para el ejercicio fiscal correspondiente; y,
-
-II.- Valorar y presentar al Auditor Superior los proyectos de informes y opiniones resultantes de las comisiones y funciones diversas encomendadas.
-
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 21], P.O. 25 DE MARZO DE 2011)</small>
-
-### CAPÍTULO QUINTO. DE LAS ATRIBUCIONES DE LA DIRECCIÓN DE NORMATIVIDAD Y MEJORA CONTINUA
-
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 23], P.O. 25 DE MARZO DE 2011)</small>
-
-###### ARTÍCULO 18.
-
-Para ser Director de Auditoría Mexicali; Director de Auditoría Tijuana a Entidades Estatales y Autónomos; Director de Auditoría Tijuana a Entidades Municipales y Director de Auditoría Ensenada; se requiere satisfacer los requisitos establecidos en el artículo 14 de este Reglamento.
+Para ser Director de Auditoría Mexicali a Entidades Estatales y Autónomos, Director de Auditoría Mexicali a Entidades Municipales; Director de Auditoría Tijuana a Entidades Estatales y Autónomos; Director de Auditoría Tijuana a Entidades Municipales y Director de Auditoría Ensenada; se requiere satisfacer los requisitos señalados en las Fracciones: I, II, V y VI del Artículo 13 de este Reglamento, poseer título profesional de Contador Público, Licenciado en Administración Pública, Licenciado en Derecho, Ingeniero Civil, Arquitecto y/o postgrado en alguna materia afín.
 
 > <small>(ADICIONADO, P.O. 25 DE MARZO DE 2011)</small>
 
-###### ARTÍCULO 19.
+### CAPÍTULO QUINTO. DE LAS ATRIBUCIONES DE LA DIRECCIÓN DE NORMATIVIDAD Y MEJORA CONTINUA
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
+
+###### ARTÍCULO 18.
 
 A la Dirección de Normatividad y Mejora Continua le corresponde atender los siguientes asuntos:
 
 I.- Elaborar su Programa Anual de Trabajo donde se establecerán metas a cumplir, y someterlo a la autorización del Auditor Superior, así como informarle sobre el avance y cumplimiento del mismo;
 
-II.- Acordar con el Auditor Superior el despacho de los asuntos técnicos y administrativos de los Departamentos a su cargo;
+II.- Acordar con el Auditor Superior el despacho de los asuntos técnicos y administrativos del Departamento a su cargo;
 
 III.- Auxiliar al Auditor Superior en el desempeño de sus funciones;
 
-IV.- Coordinar y evaluar el funcionamiento de los Departamentos a su cargo;
+IV.- Coordinar y evaluar el funcionamiento del Departamento a su cargo;
 
-V.- Dictar las medidas necesarias para subsanar las deficiencias que observe en las labores de los Departamentos a su cargo;
+V.- Dictar las medidas necesarias para subsanar las deficiencias que observe en las labores del Departamento a su cargo;
 
 VI.- Proponer a su superior inmediato para su aprobación en su caso, el ingreso, sustitución, licencias, promoción remoción y cese del personal a su cargo para los fines que procedan;
 
@@ -497,25 +481,23 @@ XIV.- Presentar al Auditor Superior los proyectos de opinión de las Iniciativas
 
 XV.- Proponer a la Unidad General de Administración los programas y cursos de formación y capacitación para elevar el nivel técnico y profesional del personal que interviene en las Auditorías, así como el personal a su cargo;
 
-XVI.- Proponer a solicitud de la Unidad General de Administración su anteproyecto de Presupuesto Anual de Egresos, así como el correspondiente a los departamentos a su cargo;
+XVI.- Proponer a solicitud de la Unidad General de Administración su anteproyecto de Presupuesto Anual de Egresos, así como el correspondiente al Departamento a su cargo; y
 
-XVII.- Ser el enlace institucional con la A.S.F. y la ASOFIS y coordinar las actividades derivadas de las relaciones con esos organismos; y
+XVII.- Los demás que le señalen otras disposiciones legales, el Manual de Organización y Procedimientos o que le confiera el Auditor Superior, así como asumir la atención de los asuntos que competan al Departamento a su cargo, cuando a su juicio sea necesario.
 
-XVIII.- Los demás que le señalen otras disposiciones legales, el Manual de Organización y Procedimientos o que le confiera el Auditor Superior, así como asumir la atención de los asuntos que competan a los Departamentos a su cargo, cuando a su juicio sea necesario.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
-(REUBICADO [N. DE E. ANTES ARTICULO 24], P.O. 25 DE MARZO DE 2011)
+###### ARTÍCULO 19.
 
-### CAPÍTULO SEXTO. DE LAS ATRIBUCIONES DE LA UNIDAD GENERAL DE ADMINISTRACIÓN
-
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 26], P.O. 25 DE MARZO DE 2011)</small>
-
-###### ARTÍCULO 20.
-
-Para ser Director de la Dirección de Normatividad y Mejora Continua, se requiere cumplir con los requisitos señalados en las fracciones I, II y VI del artículo 14 de este Reglamento, poseer título profesional de Contador Público, Licenciado en Administración Pública, Licenciado en Derecho o Postgrado en alguna materia afín, así como acreditar experiencia comprobada en cargos relacionados con la Administración Pública, tener conocimiento de la legislación relativa a la fiscalización en la administración pública, tener reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
+Para ser Director de la Dirección de Normatividad y Mejora Continua, se requiere cumplir con los requisitos señalados en las Fracciones I, II y VI del Artículo 13 de este Reglamento, poseer título profesional de Contador Público, Licenciado en Administración Pública, Licenciado en Derecho o Postgrado en alguna materia afín, así como acreditar experiencia comprobada en cargos relacionados con la Administración Pública, tener conocimiento de la legislación relativa a la fiscalización en la administración pública, tener reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
 
 (REUBICADO [N. DE E. ANTES CAPITULO QUINTO], P.O. 25 DE MARZO DE 2011)
 
-###### ARTÍCULO 21.
+### CAPÍTULO SEXTO. DE LAS ATRIBUCIONES DE LA UNIDAD GENERAL DE ADMINISTRACIÓN
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
+
+###### ARTÍCULO 20.
 
 A la Unidad General de Administración le corresponde atender los siguientes asuntos:
 
@@ -539,7 +521,7 @@ IX.- Dar cumplimiento cabal de las obligaciones fiscales, laborales, administrat
 
 X.- Gestionar, percibir y controlar los recursos financieros correspondientes al Presupuesto autorizado del Órgano de Fiscalización;
 
-XI.- Elaborar mensualmente los informes financieros del Órgano de Fiscalización, para someterlos a la autorización del Auditor Superior;
+XI.-Elaborar mensualmente los informes financieros del Órgano de Fiscalización, para someterlos a la autorización del Auditor Superior;
 
 XII.- Dar seguimiento a los lineamientos del Sistema de Control Presupuestal y Programático del Órgano de Fiscalización;
 
@@ -589,19 +571,19 @@ XXXIV.- Administrar el sistema de control de tiempos del personal del Órgano de
 
 XXXV.- Los demás que le señalen otras disposiciones legales, el Manual de Organización y Procedimientos o que le confiera el Auditor Superior, así como asumir la atención de los asuntos que competan a los Departamentos a su cargo, cuando a su juicio sea necesario.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 27], P.O. 25 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
-### CAPÍTULO SÉPTIMO. DE LAS ATRIBUCIONES DEL TITULAR DE LA UNIDAD DE ASUNTOS JURÍDICOS
+###### ARTÍCULO 21.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 28], P.O. 25 DE MARZO DE 2011)</small>
-
-###### ARTÍCULO 22.
-
-Para ser Titular de la Unidad General de Administración, se requiere satisfacer los requisitos establecidos en las fracciones I, II y VI del artículo 14 de este Reglamento y poseer título Profesional de Contaduría Pública, Administración de Empresas, Administración Pública o Postgrado en alguna de las profesiones descritas o así como alguna de las Licenciaturas afines, y ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
+Para ser Titular de la Unidad General de Administración, se requiere satisfacer los requisitos establecidos en las Fracciones I, II y VI del Articulo 13 de este Reglamento y poseer título Profesional de Contaduría Pública, Administración de Empresas, Administración Pública o Postgrado en alguna de las profesiones descritas o así como alguna de las Licenciaturas afines, y ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
 
 (REUBICADO [N. DE E. ANTES CAPITULO SEXTO], P.O. 25 DE MARZO DE 2011)
 
-###### ARTÍCULO 23.
+### CAPÍTULO SÉPTIMO. DE LAS ATRIBUCIONES DEL TITULAR DE LA UNIDAD DE ASUNTOS JURÍDICOS
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
+
+###### ARTÍCULO 22.
 
 La Unidad de Asuntos Jurídicos estará adscrita al Auditor Superior. El Titular de la Unidad tendrá a su cargo el personal que sea necesario para el despacho de los asuntos, correspondiéndole, sin menoscabo de lo establecido en la Ley y otros artículos del Reglamento, atender los siguientes asuntos:
 
@@ -671,19 +653,19 @@ XXXII.- Coordinar la elaboración de los proyectos de opinión de las Iniciativa
 
 XXXIII.- Las demás comisiones y requerimientos que le señalen expresamente el Auditor Superior y las disposiciones legales y administrativas aplicables.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 29], P.O. 25 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
+
+###### ARTÍCULO 23.
+
+Para ser Titular de la Unidad de Asuntos Jurídicos, se requiere satisfacer los requisitos establecidos en las Fracciones I, II y VI del Artículo 13 de este Reglamento, poseer título de Licenciado en Derecho y acreditar experiencia comprobada en cargos relacionados con la Administración Pública, tener conocimientos de la legislación relativa a la fiscalización en la administración pública y ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO SÉPTIMO], P.O. 25 DE MARZO DE 2011)
 
 ### CAPÍTULO OCTAVO. DE LAS ATRIBUCIONES DE LA UNIDAD DE GESTIÓN DE CALIDAD
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 30], P.O. 25 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 24.
-
-Para ser Titular de la Unidad de Asuntos Jurídicos, se requiere satisfacer los requisitos establecidos en las fracciones I, II y VI del artículo 14 de este Reglamento, poseer título de Licenciado en Derecho y acreditar experiencia comprobada en cargos relacionados con la Administración Pública, tener conocimientos de la legislación relativa a la fiscalización en la administración pública y ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le hayan sido encomendadas.
-
-(REUBICADO [N. DE E. ANTES CAPITULO SEPTIMO], P.O. 25 DE MARZO DE 2011)
-
-###### ARTÍCULO 25.
 
 La Unidad de Gestión de Calidad estará adscrita al Auditor Superior. El Titular de la Unidad tendrá a su cargo el personal necesario para el despacho de los asuntos, correspondiéndole las siguientes atribuciones:
 
@@ -707,63 +689,63 @@ IX. Desempeñar las comisiones que el Auditor Superior le encomiende y mantenerl
 
 X. Las demás que le señalen el Manual de Organización y Procedimientos, o que le confiera el Auditor Superior.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 31], P.O. 25 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
-### CAPÍTULO NOVENO. DE LAS ATRIBUCIONES DE LA UNIDAD DE PLANEACIÓN DE AUDITORÍA
+###### ARTÍCULO 25.
 
-> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2011)</small>
+Para ser Titular de la Unidad de Gestión de Calidad, se requiere cumplir con los requisitos I, II y VI del Artículo 13 de este Reglamento, poseer título profesional de Contador Público, Licenciado en Administración de Empresas, Licenciado en Administración Pública o postgrado en alguna materia afín, y ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JUNIO DE 2012)</small>
+
+### CAPÍTULO NOVENO. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE PLANEACIÓN DE AUDITORÍA
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 26.
 
-Para ser Titular de la Unidad de Gestión de Calidad, se requiere cumplir con los requisitos I, II y VI del artículo 14 de este Reglamento, poseer título profesional de Contador Público, Licenciado en Administración de Empresas, Licenciado en Administración Pública o postgrado en alguna materia afín, y ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
+La Dirección General de Planeación de Auditoría estará adscrita al Auditor Superior. El Director General tendrá a su cargo el personal necesario para el despacho de los asuntos, correspondiéndole las siguientes atribuciones:
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE MARZO DE 2011)</small>
+I.- Acordar con el Auditor Superior la Planeación de Auditoría Integral a Entidades Fiscalizables;
+
+II.- Acordar con el Auditor Superior los mecanismos para dar seguimiento al cumplimiento de la Planeación de Auditoría Integral a Entidades Fiscalizables, así como la implementación práctica de los mismos;
+
+III.- Las demás que le señalen el Manual de Organización y Procedimientos, o que le confiera el Auditor Superior.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 27.
 
-La Unidad de Planeación de Auditoría estará adscrita al Subauditor Superior. El Titular de la Unidad tendrá a su cargo el personal necesario para el despacho de los asuntos, correspondiéndole las siguientes atribuciones:
+Para ser Titular de la Dirección General de Planeación de Auditoría, se requiere satisfacer los requisitos señalados en las Fracciones I, II, V y VI del Artículo 13 de este Reglamento, poseer título profesional de Contador Público, Licenciado en Administración Pública, Licenciado en Derecho, Ingeniero Civil, Arquitecto y/o postgrado en alguna materia afín.
 
-I.- Acordar con el Subauditor Superior la Planeación de Auditoría Integral a Entidades Fiscalizables;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JUNIO DE 2012)</small>
 
-II.- Acordar con el Subauditor Superior los mecanismos para dar seguimiento al cumplimiento de la Planeación de Auditoría Integral a Entidades Fiscalizables, así como la implementación práctica de los mismos;
+### CAPÍTULO DÉCIMO. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE PLANEACIÓN DE AUDITORÍA A OBRA PÚBLICA
 
-III.- Las demás que le señalen el Manual de Organización y Procedimientos, o que le confiera el Subauditor Superior en acuerdo con el Auditor Superior.
-
-> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2011)</small>
-
-### CAPÍTULO DÉCIMO. DE LAS ATRIBUCIONES DE LA UNIDAD DE PLANEACIÓN DE AUDITORÍA A OBRA PÚBLICA
-
-> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 28.
 
-Para ser Titular de la Unidad de Planeación de Auditoría, se requiere satisfacer los requisitos establecidos en el artículo 14 de este Reglamento.
+La Dirección General de Planeación de Auditoría a Obra Pública estará adscrita al Auditor Superior. El Director General tendrá a su cargo el personal necesario para el despacho de los asuntos, correspondiéndole las siguientes atribuciones:
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE MARZO DE 2011)</small>
+I.- Acordar con el Auditor Superior y con el Director General de Planeación de Auditoría, la Planeación de Auditoría Integral a obra Pública de las Entidades Fiscalizables;
+
+II.- Acordar con el Auditor Superior los mecanismos para dar seguimiento al cumplimiento de la Planeación de Auditoría Integral a Obra Pública de las Entidades Fiscalizables, así como la implementación práctica de los mismos;
+
+III.- Las demás que le señalen el Manual de Organización y Procedimientos, o que le confiera el Auditor Superior.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 29.
 
-La Unidad de Planeación de Auditoría a Obra Pública estará adscrita al Subauditor Superior. El Titular de la Unidad tendrá a su cargo el personal necesario para el despacho de los asuntos, correspondiéndole las siguientes atribuciones:
-
-I.- Acordar con el Subauditor Superior y con el Titular de la Unidad de Planeación de Auditoría, la Planeación de Auditoría Integral a obra Pública de las Entidades Fiscalizables;
-
-II.- Acordar con el Subauditor Superior los mecanismos para dar seguimiento al cumplimiento de la Planeación de Auditoría Integral a Obra Pública de las Entidades Fiscalizables, así como la implementación práctica de los mismos;
-
-III.- Las demás que le señalen el Manual de Organización y Procedimientos, o que le confiera el Subauditor Superior en acuerdo con el Auditor Superior.
-
-> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2011)</small>
-
-### CAPÍTULO DÉCIMO PRIMERO. DE LAS ATRIBUCIONES GENERALES DE LOS JEFES DE DEPARTAMENTO
-
-(REUBICADO [N. DE E. ANTES ARTICULO 32], P.O. 25 DE MARZO DE 2011)
-
-###### ARTÍCULO 30.
-
-Para ser Titular de la Unidad de Planeación de Auditoría a Obra Pública, se requiere satisfacer los requisitos establecidos en las fracciones I, II y VI del artículo 14 de este Reglamento, poseer Título de Ingeniero Civil o Arquitecto y acreditar experiencia y conocimientos en supervisión a obra pública y ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
+Para ser Titular de la Dirección General de Planeación de Auditoría a Obra Pública, se requiere satisfacer los requisitos establecidos en las Fracciones I, II y VI del Artículo 13 de este Reglamento, poseer Título de Ingeniero Civil o Arquitecto y acreditar experiencia y conocimientos en supervisión a obra pública y ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
 
 (REUBICADO [N. DE E. ANTES CAPITULO OCTAVO], P.O. 25 DE MARZO DE 2011)
 
-###### ARTÍCULO 31.
+### CAPÍTULO DÉCIMO PRIMERO. DE LAS ATRIBUCIONES GENERALES DE LOS JEFES DE DEPARTAMENTO
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
+
+###### ARTÍCULO 30.
 
 Los Jefes de Departamento, tendrán las siguientes atribuciones de carácter general:
 
@@ -773,7 +755,7 @@ II.- Elaborar su programa anual de trabajo, donde se establecerán metas a cumpl
 
 III.- Proponer a su superior inmediato la resolución de los asuntos de su competencia;
 
-IV.- Elaborar y presentar a su superior inmediato cuando lo solicite la Unidad General de Administración su anteproyecto de Presupuesto Anual de Egresos;
+IV.- Elaborar y presentar a su superior inmediato, cuando lo solicite la Unidad General de Administración, su anteproyecto de Presupuesto Anual de Egresos;
 
 V.- Proponer a su superior inmediato para su aprobación en su caso, el ingreso, sustitución, licencias, promoción remoción y cese del personal del Departamento a su cargo, para los fines que procedan;
 
@@ -787,15 +769,11 @@ IX.- Elaborar en coordinación con su superior inmediato los programas de vacaci
 
 X.- Las demás que les confiera el Auditor Superior y su superior inmediato, dentro de la esfera de sus atribuciones.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 33], P.O. 25 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
-### CAPÍTULO DÉCIMO SEGUNDO. DE LAS ATRIBUCIONES DEL DEPARTAMENTO DE ENLACE LEGISLATIVO
+###### ARTÍCULO 31.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 35], P.O. 25 DE MARZO DE 2011)</small>
-
-###### ARTÍCULO 32.
-
-A los jefes de Departamento adscritos a las direcciones de auditoría, en el ámbito territorial de su competencia les corresponde además de las atribuciones señaladas en el artículo 31 de este Reglamento las siguientes:
+A los jefes de Departamento adscritos a las Direcciones de Auditoría, en el ámbito territorial de su competencia les corresponde además de las atribuciones señaladas en el Artículo 30 de este Reglamento las siguientes:
 
 I.- Elaborar el anteproyecto del Programa Anual de Auditorías, Visitas e Inspecciones, así como supervisar que las auditorías, visitas e inspecciones practicadas por el personal a su cargo se realicen de acuerdo a los manuales y procedimientos de auditoría institucionales;
 
@@ -803,7 +781,7 @@ II.- Verificar la elaboración, en su caso, de la solicitud de información a la
 
 III.- Informar a su superior inmediato de las irregularidades que se detecten en la revisión de la cuenta pública, en el ejercicio de sus atribuciones que puedan constituir responsabilidades administrativas o penales;
 
-IV.- Revisar los proyectos de pliegos de observaciones, las recomendaciones e informes de resultado a su cargo, que sean sometidos a la consideración de su superior inmediato;
+IV.- Revisar los proyectos de pliegos de observaciones, las recomendaciones e Informes de Resultados a su cargo, que sean sometidos a la consideración de su superior inmediato;
 
 V.- Participar, cuando así corresponda, en las confrontas que se realicen con los servidores públicos de las Entidades Fiscalizables;
 
@@ -811,27 +789,31 @@ VI.- Revisar la elaboración de los proyectos de Informes de Resultados y dictá
 
 VII.- Revisar la integración de la Carpeta de Informe de Resultados de Cuenta Pública de las Entidades Fiscalizables, misma que será sometida a la aprobación de su superior inmediato.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 34], P.O. 25 DE MARZO DE 2011)</small>
+VII (SIC).- Revisar los proyectos de informes y opiniones resultantes de las comisiones y funciones diversas encomendadas.
 
-###### ARTÍCULO 33.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
-A los jefes de Departamento de Auditoría adscritos a la Dirección de Auditoría Mexicali les corresponde además de las atribuciones señaladas en los artículos 31 y 32 de este Reglamento las siguientes:
+### CAPÍTULO DÉCIMO SEGUNDO. DE LAS ATRIBUCIONES DEL DEPARTAMENTO DE ENLACE LEGISLATIVO
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
+
+###### ARTÍCULO 32.
+
+A los jefes de Departamento de Auditoría adscritos a la Dirección de Auditoría Mexicali a Entidades Estatales y Autónomos y a la Dirección de Auditoría Mexicali a Entidades Municipales, les corresponde además de las atribuciones señaladas en los Artículos 30 y 31 de este Reglamento las siguientes:
 
 I.- Revisar los proyectos de opinión y dictámenes del proyecto de Presupuesto de Egresos del Estado de Baja California y de los Órganos Autónomos, y coadyuvar en la elaboración del proyecto de opinión de la Iniciativa de Ley de Ingresos del Estado para el ejercicio fiscal correspondiente, así como los comparativos respectivos;
 
-II.- Revisar los proyectos de opinión y dictámenes de las Iniciativas de las Leyes de Ingresos de los Municipios y de las Tablas de Valores Catastrales Unitarios Base del Impuesto Predial de los Municipios para el ejercicio fiscal correspondiente, así como los comparativos respectivos; y
-
-III.- Revisar los proyectos de informes y opiniones resultantes de las comisiones y funciones diversas encomendadas.
+II.- Revisar los proyectos de opinión y dictámenes de las Iniciativas de las Leyes de Ingresos de los Municipios y de las Tablas de Valores Catastrales Unitarios Base del Impuesto Predial de los Municipios para el ejercicio fiscal correspondiente, así como los comparativos respectivos; y (sic)
 
 (REUBICADO [N. DE E. ANTES CAPITULO NOVENO], P.O. 25 DE MARZO DE 2011)
 
-###### ARTÍCULO 34.
+###### ARTÍCULO 33.
 
 El Departamento de Enlace Legislativo estará adscrito al Auditor Superior, tendrá a su cargo el personal que sea necesario para el despacho de los siguientes asuntos:
 
 I.- Analizar las solicitudes de autorización de modificaciones al Presupuesto de Egresos de las Entidades Fiscalizables remitidas al Órgano de Fiscalización por la Comisión de Hacienda y Presupuesto del Congreso y formular el proyecto de dictamen respectivo;
 
-II.- Llevar el control de las resoluciones de las solicitudes de autorización de modificaciones presupuestales e informar periódicamente sobre su estado al Auditor Superior;
+II.- Llevar el control de las resoluciones de las solicitudes de autorización de modificaciones presupuesta les e informar periódicamente sobre su estado al Auditor Superior;
 
 III.- Analizar las solicitudes de autorización para contraer deuda pública por parte de las Entidades Fiscalizables remitidas al Órgano de Fiscalización por la Comisión de Hacienda y Presupuesto del Congreso y formular el proyecto de dictamen respectivo;
 
@@ -839,7 +821,7 @@ IV.- Llevar el control de las resoluciones de las solicitudes de autorización d
 
 V.- Llevar el control y seguimiento de los Acuerdos emitidos por el Pleno del Congreso a los órganos de control estatal o municipal, para la aplicación en su caso de medidas preventivas, correctivas y sanciones, así como de las respuestas de los mismos remitidas al Congreso y turnadas al Órgano de Fiscalización e informar al Auditor Superior;
 
-VI.- Llevar el control y archivo de las carpetas de Informe de Resultado de Cuenta Pública de las Entidades Fiscalizables, generadas por las Direcciones de Auditoría, una vez dictaminadas por la Comisión;
+VI.- Llevar el control y archivo de las carpetas de Informe de Resultados de Cuenta Pública de las Entidades Fiscalizables, generadas por las Direcciones de Auditoría, una vez dictaminadas por la Comisión;
 
 VII.- Coadyuvar en la revisión del proyecto de opinión del Proyecto de Presupuesto de Egresos del Estado de Baja California y de los Órganos Autónomos para el ejercicio fiscal correspondiente, así como los comparativos respectivos;
 
@@ -853,23 +835,75 @@ XI.- Mantener actualizado el catálogo de Entidades Fiscalizables de conformidad
 
 XII.- Los demás que le señalen otras disposiciones legales o que le confiera el Auditor Superior.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 36], P.O. 25 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
-### CAPÍTULO DÉCIMO TERCERO. DE LAS ATRIBUCIONES DE LOS DEPARTAMENTOS DE AUDITORÍA FINANCIERA
+###### ARTÍCULO 34.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 37], P.O. 25 DE MARZO DE 2011)</small>
+Para ser Jefe del Departamento de Enlace Legislativo, se requiere cumplir con los requisitos I y VI del Artículo 13 de este Reglamento, tener cuando menos 30 años cumplidos el día de la designación, poseer título profesional de Contador Público, Licenciado en Administración de Empresas o Licenciado en Administración Pública o Licenciaturas o Postgrado en alguna materia afín, y ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JUNIO DE 2012)</small>
+
+### CAPÍTULO DÉCIMO TERCERO. DE LAS ATRIBUCIONES DEL DEPARTAMENTO DE ENLACE - ASF
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 35.
 
-Para ser titular del Departamento de Enlace Legislativo, se requiere cumplir con los requisitos I y VI del artículo 14 de este Reglamento, tener cuando menos 30 años cumplidos el día de la designación, poseer título profesional de Contador Público, Licenciado en Administración de Empresas o Licenciado en Administración Pública o Licenciaturas o Postgrado en alguna materia afín, y ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
+El Departamento de Enlace - ASF estará adscrito al Auditor Superior, y contará con el personal necesario para el cumplimiento de sus funciones correspondiéndole la atención de los siguientes asuntos:
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES CAPITULO DECIMO], P.O. 25 DE MARZO DE 2011)</small>
+I.- Integrar el programa anual de trabajo del Departamento de Enlace - ASF y someterlo a consideración del Auditor Superior;
+
+II.- Ser el enlace institucional con la ASF;
+
+III.- Realizar las actividades derivadas de los convenios de colaboración y coordinación celebrados con la ASF;
+
+IV.- Realizar las actividades relativas al Programa para la Fiscalización del Gasto Federalizado (PROFIS) en base a las reglas de operación emitidas por la ASF;
+
+V.- Coadyuvar con el con el (sic) Auditor Superior en las actividades derivadas de la relación institucional con la ASF;
+
+VI.- Desempeñar cualquier otra función inherente a su cargo que le sea requerida por el Auditor Superior.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 36.
 
-Corresponde al Departamento de Auditoría Financiera a Entidades Estatales y Autónomos, al Departamento de Auditoría Financiera a Entidades Paraestatales, al Departamento de Auditoría Financiera a Entidades Paraestatales y Autónomos, así como a los Departamentos de Auditoría Financiera a Entidades Municipales, tanto de la Dirección de Auditoría Mexicali, de la Dirección de Auditoría Tijuana a Entidades Estatales y Autónomos, de la Dirección de Auditoría Tijuana a Entidades Municipales, dentro del ámbito de su competencia, además de lo señalado en los artículos 31 y 32 de este Reglamento, la atención de los siguientes asuntos:
+Para ser Jefe del Departamento de Enlace - ASF, se requiere cumplir con los requisitos I y VI del Artículo 13 de este Reglamento, tener cuando menos 30 años cumplidos el día de la designación, poseer título profesional de Contador Público, Licenciado en Administración de Empresas o Licenciado en Administración Pública o Postgrado en alguna materia afín y ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
 
-I.- Sugerir al superior inmediato el personal que practicará las visitas, inspecciones y auditorías previstas en el programa anual respectivo;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JUNIO DE 2012)</small>
+
+### CAPÍTULO DÉCIMO CUARTO. DE LAS ATRIBUCIONES DEL DEPARTAMENTO DE ENLACE INSTITUCIONAL
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
+
+###### ARTÍCULO 37.
+
+El Departamento de Enlace Institucional estará adscrito al Auditor Superior, y contará con el personal necesario para el cumplimiento de sus funciones correspondiéndole la atención de los siguientes asuntos:
+
+I.- Integrar el programa anual de trabajo del Departamento de Enlace Institucional y someterlo a consideración del Auditor Superior, así como informarle sobre el avance y cumplimiento del mismo;
+
+II.- Ser el enlace institucional con los organismos que agrupen a Entidades de Fiscalización Superior homólogas, ASOFIS, con éstas directamente y con el sector privado, así como con las autoridades de los Poderes de la Unión y los Gobiernos Estatales y Municipales, que le sea instruido por el Auditor Superior, con el objeto de desempeñar más eficientemente las funciones de fiscalización;
+
+III.- Realizar y coordinar las actividades derivadas de los convenios de coordinación o colaboración que celebre el Órgano de Fiscalización a través del Auditor Superior; y
+
+IV.- Desempeñar cualquier otra función inherente a su cargo que le sea requerida por el Auditor Superior.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
+
+###### ARTÍCULO 38.
+
+Para ser Jefe del Departamento de Enlace Institucional, se requiere cumplir con los requisitos I y VI del Artículo 13 de este Reglamento, tener cuando menos 30 años cumplidos el día de la designación, poseer título profesional de Contador Público, Licenciado en Administración de Empresas o Licenciado en Administración Pública o Licenciaturas o Postgrado en alguna materia afín, y ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JUNIO DE 2012)</small>
+
+### CAPÍTULO DÉCIMO QUINTO. DE LAS ATRIBUCIONES DE LOS DEPARTAMENTOS DE AUDITORÍA FINANCIERA
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
+
+###### ARTÍCULO 39.
+
+Corresponde a los Departamentos de Auditoría Financiera, dentro del ámbito de su competencia, además de lo señalado en los Artículos 30 y 31 de este Reglamento, la atención de los siguientes asuntos:
+
+I.- Sugerir al superior inmediato, el personal que practicará las visitas, inspecciones y auditorías previstas en el programa anual respectivo;
 
 II.- Formular los proyectos de pliegos de observaciones y las recomendaciones resultantes de la revisión de la Cuenta Pública de Patrimonio, Ingresos, Egresos y Deuda Pública de las Entidades Fiscalizables, y analizar los elementos aportados para su solventación;
 
@@ -877,31 +911,31 @@ III.- Fiscalizar los subsidios y subvenciones que otorgue el Gobierno Estatal y 
 
 IV.- Fiscalizar las cancelaciones, condonaciones o compensaciones de adeudos o cualquier otro concepto análogo, que concedan u otorguen las Entidades Fiscalizables;
 
-V.- Formular los proyectos de informes de resultados y dictámenes de la revisión de la Cuenta Pública Anual de las Entidades Fiscalizables; y
+V.- Formular los proyectos de Informes de Resultados y dictámenes de la revisión de la Cuenta Pública Anual de las Entidades Fiscalizables; y
 
 VI.- Cualquier otra función inherente a su cargo que le sea requerida o encomendada por su superior inmediato o por el Auditor Superior.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 38], P.O. 25 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
-### CAPÍTULO DÉCIMO CUARTO. DE LAS ATRIBUCIONES DE LOS DEPARTAMENTOS DE AUDITORÍA PRESUPUESTAL Y PROGRAMÁTICA
+###### ARTÍCULO 40.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 39], P.O. 25 DE MARZO DE 2011)</small>
+Para ser Jefe del Departamento de Auditoría Financiera se requiere cumplir con los requisitos contenidos en las Fracciones I, IV y VI del Artículo 13 de este Reglamento, tener cuando menos 30 años cumplidos el día de la designación, acreditar experiencia técnica en materia de auditoría, contabilidad y fiscalización de recursos públicos y ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
 
-###### ARTÍCULO 37.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JUNIO DE 2012)</small>
 
-Para ser Jefe del Departamento de Auditoría Financiera se requiere cumplir con los requisitos contenidos en las fracciones I, IV y VI del artículo 14 de este Reglamento, tener cuando menos 30 años cumplidos el día de la designación, acreditar experiencia técnica en materia de auditoría, contabilidad y fiscalización de recursos públicos y ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
+### CAPÍTULO DÉCIMO SEXTO. DE LAS ATRIBUCIONES DE LOS DEPARTAMENTOS DE AUDITORÍA PRESUPUESTAL Y PROGRAMÁTICA
 
-(REUBICADO [N. DE E. ANTES CAPITULO DECIMOPRIMERO], P.O. 25 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
-###### ARTÍCULO 38.
+###### ARTÍCULO 41.
 
-Corresponde al Departamento de Auditoría Presupuestal y Programática a Entidades Estatales y Autónomos, al Departamento de Auditoría Presupuestal y Programática a Entidades Paraestatales y Autónomos, así como a los Departamentos de Auditoría Presupuestal y Programática a Entidades Municipales, tanto de la Dirección de Auditoría Mexicali como de la Dirección de Auditoría Tijuana a Entidades Estatales y Autónomos y la Dirección de Auditoría Tijuana a Entidades Municipales dentro del ámbito de su competencia, además de lo señalado en los artículos 31 y 32 de este Reglamento, el despacho de los siguientes asuntos:
+Corresponde a los Departamentos de Auditoría Presupuestal y Programática, dentro del ámbito de su competencia, además de lo señalado en los Artículos 30 y 31 de este Reglamento, el despacho de los siguientes asuntos:
 
 I.- Sugerir al superior inmediato el personal que practicará las visitas, inspecciones y auditorías previstas en el programa anual respectivo;
 
 II.- Formular los proyectos de pliegos de observaciones, resultantes de la revisión de los Pronósticos de Ingresos y Presupuestos de Egresos de las Entidades Fiscalizables, así como respecto de sus programas y subprogramas y analizar los elementos aportados para su solventación;
 
-III.- Verificar que se lleve a cabo el seguimiento de manera sistemática, ordenada y objetiva a los programas operativos anuales de las Entidades Fiscalizables, a fin de comprobar si estos cumplen con las actividades, tareas o metas de acuerdo al Plan de Desarrollo respectivo, los objetivos generales de sus acuerdos de creación, proyectos especiales, políticas sectoriales o regionales;
+III.- Verificar que se lleve a cabo el seguimiento de manera sistemática, ordenada y objetiva a los programas operativos anuales de las Entidades Fiscalizables, a fin de comprobar si éstos cumplen con las actividades, tareas o metas de acuerdo al Plan de Desarrollo respectivo, los objetivos generales de sus acuerdos de creación, proyectos especiales, políticas sectoriales o regionales;
 
 IV.- Dar seguimiento al Presupuesto de Egresos de las Entidades para:
 
@@ -913,107 +947,51 @@ c) Detectar partidas no autorizadas en el Presupuesto de Egresos;
 
 d) Verificar el déficit o desfasamiento presupuestal en las partidas de gastos autorizados;
 
-e) Verificar el cierre Presupuestal Anual y de evaluación del alcance de objetivos y metas señaladas en los programas y subprogramas autorizados;
+e) Verificar el cierre Presupuestal Anual y de evaluación del alcance de objetivos y metas señaladas en los programas y subprogramas autorizados.
 
-V.- Llevar a cabo los proyectos de informes presupuestal y programáticos, así como las observaciones no solventadas que se considerarán en el proyecto de Informe de Resultado de la revisión de los pronósticos de Ingresos y Presupuestos de Egresos de las Entidades Fiscalizables, así como respecto de sus programas y subprogramas; y
+V.- Llevar a cabo los proyectos de informes presupuestales y programáticos, así como las observaciones no solventadas que se considerarán en el proyecto de Informe de Resultados de la revisión de los pronósticos de ingresos y presupuestos de egresos de las Entidades Fiscalizables, así como respecto de sus programas y subprogramas; y
 
 VI.- Cualquier otra función inherente a su cargo que le sea requerida o encomendada por su superior inmediato o por el Auditor Superior.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 40], P.O. 25 DE MARZO DE 2011)
-
-### CAPÍTULO DÉCIMO QUINTO. DE LAS ATRIBUCIONES DE LOS DEPARTAMENTOS DE AUDITORÍA A OBRA PÚBLICA
-
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 41], P.O. 25 DE MARZO DE 2011)</small>
-
-###### ARTÍCULO 39.
-
-Para ser Jefe del Departamento de Auditoría Presupuestal y Programática, se requiere cumplir con los requisitos contenidos en las fracciones I y VI del artículo 14 de este Reglamento, poseer título profesional de Contador Público, Licenciado en Administración de Empresas o Licenciado en Administración Pública, tener cuando menos 30 años cumplidos el día de la designación, acreditar experiencia técnica en materia de auditoría, presupuestos y fiscalización de recursos públicos y ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
-
-(REUBICADO [N. DE E. ANTES CAPITULO DECIMOSEGUNDO], P.O. 25 DE MARZO DE 2011)
-
-###### ARTÍCULO 40.
-
-Corresponde al Departamento de Auditoría a Obra Pública a Entidades Estatales y Autónomos; Departamento de Auditoría a Obra Pública a Entidades Paraestatales y Autónomos; Departamentos de Auditoría a Obra Pública a Entidades Municipales, tanto de la Dirección de Auditoría Mexicali como de la Dirección de Auditoría Tijuana a Entidades Estatales y Autónomos, Dirección de Auditoría Tijuana a Entidades Municipales, así como de la Dirección de Auditoría Ensenada, dentro del ámbito territorial de su competencia, además de lo señalado en los artículos 31 y 32 de este Reglamento, la atención de los siguientes asuntos:
-
-I.- Sugerir al superior inmediato el personal que practicará las visitas, inspecciones y auditorías previstas en el programa anual respectivo;
-
-II.- Evaluar que los recursos aprobados se hayan aplicado con apego a las disposiciones legales y normatividad aplicables a la obra pública, verificando el estado físico y financiero de los programas de la misma sobre procesos concluidos y la parte ejecutada de los procesos no concluidos;
-
-III.- Formular los proyectos de pliegos de observaciones y las recomendaciones, resultantes de la revisión de la obra pública de las Entidades Fiscalizables y analizar los elementos aportados para su solventación;
-
-IV.- Elaborar el informe de revisión de obra pública, así como las observaciones no solventadas que se considerarán en el proyecto de Informe de Resultado de la revisión de la obra pública de las Entidades Fiscalizables; y
-
-V.- Cualquier otra función inherente a su cargo que le sea requerida o encomendada por su superior inmediato o por el Auditor Superior.
-
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 42], P.O. 25 DE MARZO DE 2011)</small>
-
-### CAPÍTULO DÉCIMO SEXTO. DE LAS ATRIBUCIONES DEL DEPARTAMENTO DE AUDITORÍA FINANCIERA Y PRESUPUESTAL
-
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 43], P.O. 25 DE MARZO DE 2011)</small>
-
-###### ARTÍCULO 41.
-
-Para ser Jefe del Departamento de Auditoría a Obra Pública, se requiere además de los requisitos contenidos en el artículo 14 fracciones I y VI de este Reglamento, tener cuando menos 30 años cumplidos el día de la designación, poseer título de Ingeniero Civil o Arquitecto, y acreditar experiencia y conocimientos en supervisión a obra pública, y ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
-
-(REUBICADO [N. DE E. ANTES CAPITULO DECIMOTERCERO], P.O. 25 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 42.
 
-Corresponde al Departamento de Auditoría Financiera y Presupuestal a Entidades Municipales de la Dirección de Auditoría Ensenada, dentro de su ámbito territorial de competencia, además de lo señalado en los artículos 31 y 32 de este Reglamento, las siguientes atribuciones:
+Para ser Jefe del Departamento de Auditoría Presupuestal y Programática, se requiere cumplir con los requisitos contenidos en las Fracciones I y VI del Artículo 13 de este Reglamento, poseer título profesional de Contador Público, Licenciado en Administración de Empresas o Licenciado en Administración Pública, tener cuando menos 30 años cumplidos el día de la designación, acreditar experiencia técnica en materia de auditoría, presupuestos y fiscalización de recursos públicos y ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
 
-I.- Sugerir al superior inmediato el personal que practicará las visitas, inspecciones y auditorías previstas en el programa anual respectivo;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JUNIO DE 2012)</small>
 
-II.- Formular los proyectos de pliegos de observaciones y las recomendaciones resultantes de la revisión de la Cuenta Pública de Patrimonio, Ingresos, Egresos y Deuda Pública de las Entidades Fiscalizables y analizar los elementos aportados para su solventación;
+### CAPÍTULO DÉCIMO SÉPTIMO. DE LAS ATRIBUCIONES DE LOS DEPARTAMENTOS DE AUDITORÍA A OBRA PÚBLICA
 
-III.- Fiscalizar los subsidios y subvenciones que otorgue el Gobierno Municipal, cualesquiera que sea su destino, así como verificar su aplicación al fin autorizado;
-
-IV.- Fiscalizar las cancelaciones, condonaciones o compensaciones de adeudos o cualquier otro concepto análogo, que concedan u otorguen el Gobierno Municipal y Paraestatales;
-
-V.- Formular los proyectos de Informes de Resultado y dictámenes sobre el resultado de la revisión de la Cuenta Pública Anual de las Entidades Fiscalizables;
-
-VI.- Dar seguimiento al Presupuesto de Egresos de las Entidades Fiscalizables para:
-
-a) Verificar que cumplan con la normatividad que rige en la aplicación del gasto público;
-
-b) Verificar que el gasto público se destine a los programas y subprogramas específicos establecidos;
-
-c) Detectar partidas no autorizadas en el Presupuesto de Egresos;
-
-d) Verificar el déficit o desfasamiento presupuestal en las partidas de gastos autorizados;
-
-e) Verificar el cierre Presupuestal Anual y de evaluación del alcance de objetivos y metas señaladas en los programas y subprogramas autorizados;
-
-VII.- Cualquier otra función inherente a su cargo que le sea encomendada por su superior inmediato o por el Auditor Superior.
-
-(REUBICADO [N. DE E. ANTES ARTICULO 44], P.O. 25 DE MARZO DE 2011)
-
-### CAPÍTULO DÉCIMO SÉPTIMO. DE LAS ATRIBUCIONES DEL DEPARTAMENTO DE AUDITORÍA A ENTIDADES PARAESTATALES DE LA DIRECCIÓN DE AUDITORÍA ENSENADA
-
-> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 43.
 
-Para ser Jefe del Departamento de Auditoría Financiera y Presupuestal se requiere cumplir con los requisitos contenidos en las fracciones I, IV y VI del artículo 14 de este Reglamento, tener cuando menos 30 años cumplidos el día de la designación, acreditar experiencia técnica en materia de auditoría, contabilidad, presupuesto y fiscalización de recursos públicos, y ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
+Corresponde a los Departamentos de Auditoría a Obra Pública, dentro del ámbito de su competencia, además de lo señalado en los Artículos 30 y 31 de este Reglamento, la atención de los siguientes asuntos:
 
-> <small>(ADICIONADO, CON LOS ARTICULOS QUE INTEGRAN P.O. 25 DE MARZO DE 2011)</small>
+I.- Sugerir al superior inmediato, el personal que practicará las visitas, inspecciones y auditorías previstas en el programa anual respectivo;
+
+II.- Evaluar que los recursos aprobados se hayan aplicado con apego a las disposiciones legales y normatividad aplicables a la obra pública, verificando el estado físico y financiero de los programas de la misma, sobre procesos concluidos y la parte ejecutada de los procesos no concluidos;
+
+III.- Formular los proyectos de pliegos de observaciones y las recomendaciones, resultantes de la revisión de la obra pública de las Entidades Fiscalizables y analizar los elementos aportados para su solventación;
+
+IV.- Elaborar el informe de revisión de obra pública, así como las observaciones no solventadas que se considerarán en el proyecto de Informe de Resultados de la revisión de la obra pública de las Entidades Fiscalizables; y
+
+V.- Cualquier otra función inherente a su cargo que le sea requerida o encomendada por su superior inmediato o por el Auditor Superior.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 44.
 
-Corresponde al Departamento de Auditoría a Entidades Paraestatales de la Dirección de Auditoría Ensenada, las atribuciones señaladas en los Artículos 31, 32, 40 y 42 de este Reglamento, dentro del ámbito de su competencia.
-
-> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2011)</small>
-
-### CAPÍTULO DÉCIMO OCTAVO. DE LAS ATRIBUCIONES DEL DEPARTAMENTO DE NORMATIVIDAD Y CONTROL DE PROCESOS DE AUDITORÍA
-
-(REUBICADO [N. DE E. ANTES ARTICULO 45], P.O. 25 DE MARZO DE 2011)
-
-###### ARTÍCULO 45.
-
-Para ser Jefe del Departamento de Auditoría a Entidades Paraestatales de la Dirección de Auditoría Ensenada, se requiere cumplir con los requisitos contenidos en las fracciones I, IV y VI del artículo 14 de este Reglamento, tener cuando menos 30 años cumplidos el día de la designación, acreditar experiencia técnica en materia de auditoría, contabilidad, presupuesto y fiscalización de recursos públicos, y ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
+Para ser Jefe del Departamento de Auditoría a Obra Pública, se requiere además de los requisitos contenidos en el Artículo 13 Fracciones I y VI de este Reglamento, tener cuando menos 30 años cumplidos el día de la designación, poseer título de Ingeniero Civil o Arquitecto, y acreditar experiencia y conocimientos en supervisión a obra pública, y ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
 
 (REUBICADO [N. DE E. ANTES CAPITULO DECIMOCUARTO], P.O. 25 DE MARZO DE 2011)
 
-###### ARTÍCULO 46.
+### CAPÍTULO DÉCIMO OCTAVO. DE LAS ATRIBUCIONES DEL DEPARTAMENTO DE NORMATIVIDAD Y CONTROL DE PROCESOS DE AUDITORÍA
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
+
+###### ARTÍCULO 45.
 
 El Departamento de Normatividad y Control de Procesos de Auditoría estará adscrito a la Dirección de Normatividad y Mejora Continua, y contará con el personal necesario para el cumplimiento de sus funciones, correspondiéndole la atención de los siguientes asuntos:
 
@@ -1021,7 +999,7 @@ I. Coadyuvar con el Titular de la Dirección de Normatividad y Mejora Continua e
 
 II. Proponer al Director de Normatividad y Mejora Continua, los programas y cursos de capacitación del personal de nuevo ingreso, en la utilización de los manuales en materia de auditoría financiera, presupuestal y programática, obra pública, entre otras; así como para la debida actualización del personal en la utilización de las técnicas, métodos y procedimientos, que se utilizan y aquellos que se implementen en el Órgano de Fiscalización, para efecto de la revisión de la cuenta pública;
 
-III. Apoyar al Titular de la Dirección en el desarrollo de los proyectos de creación, modificación, reorganización y de fusión o eliminación de funciones y una vez autorizados, vigilar que estos se lleven a cabo;
+III. Apoyar al Titular de la Dirección en el desarrollo de los proyectos de creación, modificación, reorganización y de fusión o eliminación de funciones y una vez autorizados, vigilar que éstos se lleven a cabo;
 
 IV. Participar en el análisis, desarrollo e implementación de procesos, métodos de trabajo, sistemas y técnicas de apoyo a la función fiscalizadora, que permitan mejorar la calidad del trabajo, reducir los tiempos y esfuerzos para el logro de los objetivos de la misma;
 
@@ -1029,55 +1007,25 @@ V. Coadyuvar con el Titular de la Dirección de Normatividad y Mejora Continua e
 
 VI. Proponer al Titular de la Dirección de Normatividad y Mejora Continua las modificaciones a la normatividad y a la legislación aplicable al Órgano de Fiscalización, para el desarrollo de su trabajo cuando ésta inhiba su desempeño para el logro de su objeto;
 
-VII. Realizar anualmente el diagnóstico sobre el cumplimiento de las funciones establecidas en el reglamento interior del Órgano de Fiscalización;
+VII. Realizar anualmente el diagnóstico sobre el cumplimiento de las funciones establecidas en el Reglamento Interior del Órgano de Fiscalización Superior del Estado de Baja California;
 
-VIII. Verificar el cumplimento en la aplicación de los procedimientos y lineamientos institucionales en materia de revisión de cuentas públicas; y,
+VIII. Verificar el cumplimento en la aplicación de los procedimientos y lineamientos institucionales en materia de revisión de cuentas públicas;
 
 IX. Cualquier otra función inherente a su cargo que le sea requerida o encomendada por su Director o por el Auditor Superior.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 46], P.O. 25 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
-### CAPÍTULO DÉCIMO NOVENO. DE LAS ATRIBUCIONES DEL DEPARTAMENTO DE ENLACE INSTITUCIONAL
+###### ARTÍCULO 46.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 47], P.O. 25 DE MARZO DE 2011)
+Para ser Jefe del Departamento de Normatividad y Control de Procesos de Auditoría, se requiere cumplir con los requisitos I y VI del Artículo 13 de este Reglamento, tener cuando menos 30 años cumplidos el día de la designación, poseer título profesional de Contador Público, Licenciado en Administración de Empresas o Licenciado en Administración Pública o Postgrado en alguna materia afín, acreditar experiencia en cargos relacionados con la hacienda pública o su equivalencia en la iniciativa privada y ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JUNIO DE 2012)</small>
+
+### CAPÍTULO DÉCIMO NOVENO. DE LAS ATRIBUCIONES DEL DEPARTAMENTO DE INFORMÁTICA
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 47.
-
-Para ser Jefe del Departamento de Normatividad y Control de Procesos de Auditoría, se requiere cumplir con los requisitos I y VI del artículo 14 de este Reglamento, tener cuando menos 30 años cumplidos el día de la designación, poseer título profesional de Contador Público, Licenciado en Administración de Empresas o Licenciado en Administración Pública o Postgrado en alguna materia afín, acreditar experiencia en cargos relacionados con la hacienda pública o su equivalencia en la iniciativa privada y ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
-
-(REUBICADO [N. DE E. ANTES CAPITULO DECIMOQUINTO], P.O. 25 DE MARZO DE 2011)
-
-###### ARTÍCULO 48.
-
-El Departamento de Enlace Institucional estará adscrito a la Dirección de Normatividad y Mejora Continua, y contará con el personal necesario para el cumplimiento de sus funciones correspondiéndole la atención de los siguientes asuntos:
-
-I.- Integrar el programa anual de trabajo del Departamento de Enlace Institucional y someterlo a consideración del Director de Normatividad y Mejora Continua;
-
-II.- Realizar las actividades derivadas de los convenios de colaboración y coordinación celebrados con la A.S.F.;
-
-III.- Realizar las actividades relativas al Programa para la Fiscalización del Gasto Federalizado (PROFIS) en base a las reglas de operación emitidas por la A.S.F.;
-
-IV.- Coadyuvar con el Director de Normatividad y Mejora Continua y con el Auditor Superior en las actividades derivadas de la relación institucional con la A.S.F.;
-
-V.- Coadyuvar con el Director de Normatividad y Mejora Continua y con el Auditor Superior en las actividades derivadas de la participación del Órgano de Fiscalización en la ASOFIS;
-
-VI.- Coadyuvar con el Director de Normatividad y Mejora Continua y con el Auditor Superior en las actividades derivadas de la relación con otras Entidades de Fiscalización Superior; y,
-
-VII.- Desempeñar cualquier otra función inherente a su cargo que le sea requerida por el Director de Normatividad y Mejora Continua o por el Auditor Superior.
-
-(REUBICADO [N. DE E. ANTES ARTICULO 48], P.O. 25 DE MARZO DE 2011)
-
-### CAPÍTULO VIGÉSIMO. DE LAS ATRIBUCIONES DEL DEPARTAMENTO DE INFORMÁTICA
-
-(REUBICADO [N. DE E. ANTES ARTICULO 49], P.O. 25 DE MARZO DE 2011)
-
-###### ARTÍCULO 49.
-
-Para ser Jefe del Departamento de Enlace Institucional, se requiere cumplir con los requisitos I y VI del artículo 14 de este Reglamento, tener cuando menos 30 años cumplidos el día de la designación, poseer título profesional de Contador Público, Licenciado en Administración de Empresas o Licenciado en Administración Pública o Postgrado en alguna materia afín y ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
-
-(REUBICADO [N. DE E. ANTES CAPITULO DECIMOSEXTO], P.O. 25 DE MARZO DE 2011)
-
-###### ARTÍCULO 50.
 
 El Departamento de Informática, estará adscrito a la Unidad General de Administración y contará con el personal necesario para el cumplimiento de sus funciones, correspondiéndole la atención de los siguientes asuntos:
 
@@ -1097,23 +1045,23 @@ VII.- Evaluar y recomendar acerca de los sistemas y equipos de cómputo existent
 
 VIII.- Mejorar, operar y mantener actualizados los portales de internet e intranet del Órgano de Fiscalización;
 
-IX.- Mantener en el sistema para consulta legislativa, las leyes y reglamentos que comprendan la legislación estatal y municipal, a través de la información proporcionada por la Unidad, con el fin de que la misma se encuentre permanentemente actualizada; y,
+IX.- Mantener en el sistema para consulta legislativa, las leyes y reglamentos que comprendan la legislación estatal y municipal, a través de la información proporcionada por la Unidad de Asuntos Jurídicos, con el fin de que la misma se encuentre permanentemente actualizada; y,
 
 X.- Cualquier otra función inherente a su cargo que le sea requerida o encomendada por su superior inmediato o por el Auditor Superior.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 50], P.O. 25 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
-### CAPÍTULO VIGÉSIMO PRIMERO. DE LAS ATRIBUCIONES DE LOS DEPARTAMENTOS DE RECURSOS HUMANOS Y DE RECURSOS MATERIALES
+###### ARTÍCULO 48.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 51], P.O. 25 DE MARZO DE 2011)</small>
+Para ser Jefe del Departamento de Informática, se requiere además de los requisitos contenidos en el Artículo 13 Fracciones I y VI del presente Reglamento, tener cuando menos 30 años cumplidos el día de la designación, poseer título de Ingeniero o Licenciado en Sistemas Computacionales, en Informática o Carreras Profesionales afines, y acreditar experiencia en análisis y programación de sistemas computacionales del sector gubernamental o su equivalencia en la iniciativa privada, y ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
 
-###### ARTÍCULO 51.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JUNIO DE 2012)</small>
 
-Para ser Jefe del Departamento de Informática, se requiere además de los requisitos contenidos en el artículo 14 fracciones I y VI del presente Reglamento, tener cuando menos 30 años cumplidos el día de la designación, poseer título de Ingeniero o Licenciado en Sistemas Computacionales, en Informática o Carreras Profesionales afines, y acreditar experiencia en análisis y programación de sistemas computacionales del sector gubernamental o su equivalencia en la iniciativa privada, y ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
+### CAPÍTULO VIGÉSIMO. DE LAS ATRIBUCIONES DE LOS DEPARTAMENTOS DE RECURSOS HUMANOS Y DE RECURSOS MATERIALES
 
-(REUBICADO [N. DE E. ANTES CAPITULO DECIMOSEPTIMO], P.O. 25 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
-###### ARTÍCULO 52.
+###### ARTÍCULO 49.
 
 El Departamento de Recursos Humanos estará adscrito a la Unidad General de Administración y tendrá a su cargo el personal necesario para el cumplimiento de sus funciones, correspondiéndole la atención de los siguientes asuntos:
 
@@ -1131,7 +1079,7 @@ VI.- Calificar mediante el sistema establecido, las evaluaciones del personal de
 
 VII.- Proponer, coordinar y actualizar los convenios de intercambio en materia de servicio social, de capacitación y adiestramiento del personal del Órgano de Fiscalización, con otras instituciones afines, nacionales o extranjeras;
 
-VIII.- Organizar y coordinar los cursos y eventos de capacitación, tanto internos como externos y proponer las normas relativas a éstos, que (sic) deben sujetarse el personal del Órgano de Fiscalización;
+VIII.- Organizar y coordinar los cursos y eventos de capacitación, tanto internos como externos y proponer las normas relativas a éstos, que deben sujetarse el personal del Órgano de Fiscalización;
 
 IX.- Coordinar la capacitación al personal de nuevo ingreso mediante cursos de inducción;
 
@@ -1145,19 +1093,19 @@ XIII.- Valorar y someter a la aprobación de la Unidad General de Administració
 
 XIV.- Cualquier otra función inherente a su cargo que le sea requerida o encomendada por su superior inmediato o por el Auditor.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 52], P.O. 25 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
-### CAPÍTULO VIGÉSIMO SEGUNDO. DE LAS ATRIBUCIONES DEL DEPARTAMENTO DE PLANEACIÓN Y FINANZAS
+###### ARTÍCULO 50.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 55], P.O. 25 DE MARZO DE 2011)</small>
+Para ser Jefe del Departamento de Recursos Humanos, se requiere además de los requisitos contenidos en el Artículo 13 Fracciones I y VI de este Reglamento, tener cuando menos 30 años cumplidos el día de la designación, poseer título de alguna de las siguientes Licenciaturas: Recursos Humanos, Contaduría Pública, Administración de Empresas, Administración Pública o Licenciaturas afines, y acreditar experiencia en cargos relacionados con la materia y ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
 
-###### ARTÍCULO 53.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
-Para ser Jefe del Departamento de Recursos Humanos, se requiere además de los requisitos contenidos en el artículo 14 fracciones I y VI de este Reglamento, tener cuando menos 30 años cumplidos el día de la designación, poseer título de alguna de las siguientes Licenciaturas: Recursos Humanos, Contaduría Pública, Administración de Empresas, Administración Pública o Licenciaturas afines, y acreditar experiencia en cargos relacionados con la materia y ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
+### CAPÍTULO VIGÉSIMO PRIMERO. DE LAS ATRIBUCIONES DEL DEPARTAMENTO DE PLANEACIÓN Y FINANZAS
 
-(REUBICADO [N. DE E. ANTES ARTICULO 53], P.O. 25 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
-###### ARTÍCULO 54.
+###### ARTÍCULO 51.
 
 El Departamento de Recursos Materiales estará adscrito a la Unidad General de Administración y tendrá a su cargo el personal necesario para el cumplimiento de sus funciones, correspondiéndole la atención de los siguientes asuntos:
 
@@ -1187,19 +1135,19 @@ XII.- Llevar el control de los resguardos de los diversos bienes del Órgano de 
 
 XIII.- Cualquier otra función inherente a su cargo que le sea requerida o encomendada por su superior inmediato o por el Auditor Superior.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 54], P.O. 25 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
-### CAPÍTULO VIGÉSIMO TERCERO. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS
+###### ARTÍCULO 52.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 57], P.O. 25 DE MARZO DE 2011)
+Para ser Jefe del Departamento de Recursos Materiales, se requiere además de los requisitos contenidos en el Artículo 13 Fracciones I y VI de este Reglamento, tener cuando menos 30 años cumplidos el día de la designación, poseer título de alguna de las siguientes Licenciaturas: Recursos Humanos, Contaduría Pública, Administración de Empresas, Administración Pública o Licenciaturas afines, y ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
 
-###### ARTÍCULO 55.
+> <small>(REFORMADA SE DENOMINACIÓN, P.O. 29 DE JUNIO DE 2012)</small>
 
-Para ser Jefe del Departamento de Recursos Materiales, se requiere además de los requisitos contenidos en el artículo 14 fracciones I y VI de este Reglamento, tener cuando menos 30 años cumplidos el día de la designación, poseer título de alguna de las siguientes Licenciaturas: Recursos Humanos, Contaduría Pública, Administración de Empresas, Administración Pública o Licenciaturas afines, y ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
+### CAPÍTULO VIGÉSIMO SEGUNDO. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS
 
-(REUBICADO [N. DE E. ANTES CAPITULO DECIMOCTAVO], P.O. 25 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
-###### ARTÍCULO 56.
+###### ARTÍCULO 53.
 
 El Departamento de Planeación y Finanzas, estará adscrito a la Unidad General de Administración y contará con el personal necesario para el cumplimiento de sus funciones, teniendo a su cargo la atención de los siguientes asuntos:
 
@@ -1223,7 +1171,29 @@ IX.- Revisar la elaboración y efectuar los pagos correspondientes a las obligac
 
 X.- Cualquier otra función inherente a su cargo que le sea requerida o encomendada por su jefe inmediato o por el Auditor Superior.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 56], P.O. 25 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
+
+###### ARTÍCULO 54.
+
+Para ser Jefe del Departamento de Planeación y Finanzas, se requiere cumplir con los requisitos contenidos en las Fracciones I, IV y VI del Artículo 13 de este Reglamento, tener cuando menos 30 años cumplidos el día de la designación, acreditar experiencia técnica en materia de contabilidad, presupuestos y Administración de recursos públicos, y ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
+
+> <small>(REFORMADA SE DENOMINACIÓN, P.O. 29 DE JUNIO DE 2012)</small>
+
+### CAPÍTULO VIGÉSIMO TERCERO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
+
+###### ARTÍCULO 55.
+
+El Auditor Superior, será suplido en sus ausencias temporales por quien éste designe, o en su defecto, por quien designe la Comisión. En caso de falta definitiva, la Comisión lo hará del conocimiento del Congreso para que se haga nueva designación, de conformidad con el procedimiento que establezca la Ley.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
+
+###### ARTÍCULO 56.
+
+El Subauditor Superior, Directores y los Titulares de las Unidades, serán suplidos por la persona que designe el Auditor Superior, siempre que las ausencias no excedan de tres meses, si la ausencia fuere mayor el Auditor Superior podrá promover su remoción o sustitución.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
 ### CAPÍTULO VIGÉSIMO CUARTO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
 
@@ -1231,15 +1201,13 @@ X.- Cualquier otra función inherente a su cargo que le sea requerida o encomend
 
 ###### ARTÍCULO 57.
 
-Para ser Jefe del Departamento de Planeación y Finanzas, se requiere cumplir con los requisitos contenidos en las fracciones I, IV y VI del artículo 14 de este Reglamento, tener cuando menos 30 años cumplidos el día de la designación, acreditar experiencia técnica en materia de contabilidad, presupuestos y Administración de recursos públicos, y ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
+Los Jefes de Departamento, serán suplidos para el despacho de los asuntos de sus correspondientes competencias, por el servidor público que designe el Auditor Superior.
 
-(REUBICADO [N. DE E. ANTES CAPITULO DECIMONOVENO], P.O. 25 DE MARZO DE 2011)
+> <small>(REFORMADA SE DENOMINACIÓN, P.O. 29 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 58.
 
-El Auditor Superior, será suplido en sus ausencias temporales por quien éste designe, o en su defecto, por quien designe la Comisión. En caso de falta definitiva, la Comisión lo hará del conocimiento del Congreso para que se haga nueva designación, de conformidad con el procedimiento que establezca la Ley.
-
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 58], P.O. 25 DE MARZO DE 2011)</small>
+En cuanto a las responsabilidades en que incurran los servidores públicos del Órgano de Fiscalización, se estará a lo previsto por la Constitución del Estado, la Ley; la Ley de Responsabilidades de los Servidores Públicos y la Ley Orgánica del Poder Legislativo, ambas del Estado de Baja California.
 
 ###### ARTÍCULO 59.
 
@@ -1299,7 +1267,7 @@ AUDITOR SUPERIOR DE FISCALIZACIÓN DEL ESTADO DE BAJA CALIFORNIA,
 
 DR. VÍCTOR ADÁN LÓPEZ CAMACHO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 6 DE OCTUBRE DE 2006.
 
@@ -1354,5 +1322,19 @@ P.O. 25 DE MARZO DE 2011.
 Las presentes Reformas deberán publicarse en el Periódico Oficial del Estado y en los portales de Internet e Intranet del Órgano de Fiscalización.
 
 ###### ARTÍCULO SEGUNDO.
+
+Una vez emitidas las presentes Reformas, se deberán realizar las adecuaciones necesarias en la estructura y en el Manual de Organización del Órgano de Fiscalización.
+
+P.O. 29 DE JUNIO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes Reformas deberán publicarse en el Periódico Oficial del Estado y en los portales de Internet e Intranet del Órgano de Fiscalización.
+
+###### ARTÍCULO SEGUNDO.
+
+Los asuntos que se encuentren pendientes al entrar en vigor las presentes Reformas y que deban pasar a una Dirección o de un Departamento a otro u otros, continuarán su trámite y serán resueltos por aquél o aquéllos a quienes se les atribuye la competencia en las presentes Reformas.
+
+###### ARTÍCULO TERCERO.
 
 Una vez emitidas las presentes Reformas, se deberán realizar las adecuaciones necesarias en la estructura y en el Manual de Organización del Órgano de Fiscalización.
