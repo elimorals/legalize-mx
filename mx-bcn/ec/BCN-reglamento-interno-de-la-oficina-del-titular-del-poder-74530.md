@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-oficina-del-titular-del-poder-74530"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-26"
-last_updated: "2010-03-26"
+last_updated: "2012-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA OFICINA DEL TITULAR DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2012.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 26 de marzo de 2010.
 
@@ -55,7 +55,9 @@ a) Secretaría Particular del Ejecutivo;
 
 b) Coordinación General de Gabinete;
 
-c) Coordinación General de Relaciones Públicas e Internacionales;
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
+
+c) Coordinación General de Relaciones Públicas;
 
 d) Coordinación General de Comunicación Social; y,
 
@@ -91,7 +93,9 @@ VIII. Coordinar y vigilar la elaboración del proyecto de giras o reuniones de t
 
 IX. Representar al Gobernador del Estado en las comisiones que le asigne directamente e informarlo sobre el resultado de su intervención;
 
-X. Mantener la coordinación necesaria con los Coordinadores Generales de Relaciones Públicas e Internacionales y de Comunicación Social, respecto de la difusión de los actos cívicos, sociales o políticos, en que debe estar presente el Gobernador del Estado;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+X. Mantener la coordinación necesaria con los Coordinadores Generales de Relaciones Públicas y de Comunicación Social, respecto de la difusión de los actos, sociales o políticos, en que debe estar presente el Gobernador del Estado;
 
 XI. Acordar con los Secretarios auxiliares en Tijuana y Ensenada, sobre los asuntos que la población les plantee, para determinar la atención que proceda;
 
@@ -295,7 +299,9 @@ III. Coordinar las relaciones interinstitucionales de las diversas dependencias 
 
 IV. Gestionar las solicitudes que hagan las dependencias y entidades de la Administración Pública Estatal al Gobierno Federal y, en su caso, representarlas, informando sobre el avance de cada uno de los asuntos intersectoriales y los que el Gobernador del Estado indique;
 
-V. Mantener la coordinación necesaria con los Coordinadores Generales de Relaciones Públicas e Internacionales y de Comunicación Social, respecto de la difusión de las acciones y proyectos estratégicos de Gobierno del Estado;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+V. Mantener la coordinación necesaria con los Coordinadores Generales de Relaciones Públicas y de Comunicación Social, respecto de la difusión de las acciones y proyectos estratégicos de Gobierno del Estado;
 
 VI. Dar seguimiento a las estrategias de eficiencia administrativa acordadas por el Gobernador del Estado;
 
@@ -319,31 +325,39 @@ XV. Apoyar a la Dirección Administrativa en la elaboración del proyecto de pre
 
 XVI. Las demás que le sean encomendadas por el Gobernador del Estado y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
+
 ###### Artículo 14.
 
 Para el cumplimiento de las atribuciones de la Coordinación General de Gabinete, contará con las siguientes unidades administrativas:
 
-a) Unidad de Asesoría
+a) Unidad de Proyectos Estratégicos, y
 
-b) Unidad de Proyectos Estratégicos;
-
-c) Unidad de Evaluación y Seguimiento y
-
-d) Soporte técnico en sistemas.
+b) Unidad de Evaluación y Seguimiento.
 
 Las unidades administrativas previstas en el presente numeral tendrán a su cargo la atención y despacho de los asuntos que les instruya el titular de la Coordinación General de Gabinete, y demás disposiciones aplicables.
 
-### Capítulo IV. De la Coordinación General de Relaciones Públicas e Internacionales
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JUNIO DE 2012)</small>
+
+### Capítulo IV. De la Coordinación General de Relaciones Públicas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2012)</small>
 
 ###### Artículo 15.
 
-Corresponde a la Coordinación General de Relaciones Públicas e Internacionales, el ejercicio de las siguientes atribuciones:
+Corresponde a la Coordinación General de Relaciones Públicas, el ejercicio de las siguientes atribuciones:
 
-I. Dirigir y coordinar las relaciones públicas e internacionales del Ejecutivo Estatal que no sean competencia de otra dependencia, procediendo de conformidad con las políticas, objetivos y prioridades que establezca el Gobernador del Estado;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
 
-II. Someter al acuerdo del Gobernador del Estado, los asuntos encomendados en materia de relaciones públicas e internacionales, así como desempeñar las comisiones y funciones que le confieran;
+I. Dirigir y coordinar las relaciones públicas del Ejecutivo Estatal que no sean competencia de otra dependencia, procediendo de conformidad con las políticas, objetivos y prioridades que establezca el Gobernador del Estado;
 
-III. Llevar las relaciones públicas e internacionales del Ejecutivo Estatal en apego a la normatividad correspondiente, gestionar y resolver los asuntos en esta materia, así como cuidar el protocolo para las actividades públicas del Gobernador del Estado;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+II. Someter al acuerdo del Gobernador del Estado, los asuntos encomendados en materia de relaciones públicas, así como desempeñar las comisiones y funciones que le confieran;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+III. Llevar las relaciones públicas del Ejecutivo Estatal en apego a la normatividad correspondiente, gestionar y resolver los asuntos en esta materia, así como cuidar el protocolo para las actividades públicas del Gobernador del Estado;
 
 IV. Realizar en base a los sub-programas que le corresponda, la asignación de las actividades respectivas;
 
@@ -369,53 +383,23 @@ XIV. Girar Instrucciones al personal que se encuentre a su cargo; y,
 
 XV. Las demás que le sean encomendadas por el Gobernador del Estado y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
+
 ###### Artículo 16.
 
-Para el cumplimiento de las atribuciones de la Coordinación General de Relaciones Públicas e Internacionales, contará con las siguientes unidades administrativas:
+Para el cumplimiento de las atribuciones de la Coordinación General de Relaciones Públicas, contará con las siguientes unidades administrativas:
 
-a) Dirección de Relaciones Internacionales, Eventos Cívicos y Enlace Institucional;
+a) Jefatura de Eventos Cívicos y Especiales;
 
-b) Jefatura de Eventos Cívicos y Especiales;
+b) Jefatura de Enlace Institucional;
 
-c) Jefatura de Enlace Institucional;
-
-c) (sic) Coordinación de Relaciones Públicas e Internacionales Zona Costa; y,
+c) Coordinación de Relaciones Públicas Zona Costa, y
 
 d) Coordinación de Relaciones Públicas en Ensenada.
 
 ###### Artículo 17.
 
-Corresponde a la Dirección de Relaciones Internacionales. Eventos Cívicos y Enlace Institucional, el ejercicio de las siguientes atribuciones:
-
-I. Llevar las relaciones públicas en el ámbito internacional, en apego a la normatividad correspondiente, así como cuidar el protocolo para las actividades oficiales del Gobernador del Estado en el Extranjero;
-
-II. Establecer y fortalecer vínculos, relaciones respetuosas y sólidas de colaboración del Gobierno del Estado con Gobiernos extranjeros, así como con organismos y asociaciones civiles;
-
-III. Programar y coordinar la agenda internacional en la que participe el Gobernador del Estado y los Titulares de las dependencias de la Administración Pública Estatal;
-
-IV. Atender a los invitados oficiales y especiales que en materia internacional indique el superior inmediato;
-
-V. Proponer e implementar iniciativas y acuerdos para proyectar el posicionamiento de Baja California como Estado líder en el ámbito internacional;
-
-VI. Asesorar en los términos de la normatividad correspondiente, a las dependencias y entidades de la Administración Pública Estatal, organismos y asociaciones civiles en las iniciativas y proyectos que se generan en materia de cooperación internacional;
-
-VII. Institucionalizar los vinculas y relaciones de colaboración que sean establecidos con gobiernos locales y extranjeros;
-
-VIII. Fortalecer vínculos con la Secretaria de Relaciones Exteriores, así como con otras instancias y organismos estatales, federales e internacionales, a fin de establecer canales de comunicación ágiles para el mejor desarrollo de las actividades internacionales del Estado;
-
-IX. Desempeñar las comisiones que el Coordinador General le encomiende y por acuerdo expreso representar a la Dependencia en actos que el propio Titular determine;
-
-X. Mantener actualizada las logísticas y el protocolo de eventos cívicos y especiales y originar relaciones con organismos no gubernamentales y dependencias gubernamentales a través de la Jefatura de Eventos Cívicos y Especiales a su cargo;
-
-XI. Elaborar el programa de difusión del quehacer gubernamental a la comunidad Bajacaliforniana con la participación de los diversos sectores de la sociedad a través de la Jefatura de Enlace Institucional a su cargo;
-
-XII. Girar instrucciones al personal que se encuentre a su cargo;
-
-XIII. Acordar con el superior inmediato la resolución de los asuntos relevantes de su área de su responsabilidad e informar sobre los mismos;
-
-XIV. Establecer las políticas internas de organización de la Dirección a su cargo; y
-
-XV. Las demás que le sean encomendadas por el Gobernador del Estado, el Coordinador General de Relaciones Públicas e Internacionales, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
+(DEROGADO, P.O. 29 DE JUNIO DE 2012)
 
 ###### Artículo 18.
 
@@ -435,7 +419,9 @@ VI. Acordar con el superior inmediato la resolución de los asuntos relevantes d
 
 VII. Establecer las políticas internas de organización de la Jefatura a su cargo; y
 
-VIII. Las demás que le sean encomendadas por el Gobernador del Estado. el Coordinador General de Relaciones Públicas e Internacionales, el Director de Relaciones Internacionales, Eventos Cívicos y Enlace Institucional, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+VIII. Las demás que le sean encomendadas por el Gobernador del Estado y el Coordinador General de Relaciones Públicas, así como aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
 
 ###### Artículo 19.
 
@@ -443,7 +429,9 @@ Corresponde a la Jefatura de Enlace Institucional, el ejercicio de las siguiente
 
 I. Difundir y promover los programas de las Dependencias del Poder Ejecutivo Estatal en la comunidad Bajacaliforniana, mediante la participación de funcionarios públicos en reuniones de colegios, asociaciones y organismos empresariales, así como con los diversos organismos no gubernamentales, propiciando la comunicación y brindando a la ciudadanía organizada la oportunidad de expresarse;
 
-II. Coordinar el programa estatal de enlaces y procurar su ejecución por medio de las Coordinaciones de Relaciones Públicas e Internacionales en Zona Costa y de Ensenada;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+II. Coordinar el programa estatal de enlaces y procurar su ejecución por medio de las Coordinaciones de Relaciones Públicas en Zona Costa y Ensenada;
 
 III. Coordinar la elaboración de publireportajes e impresos especiales para la difusión favorable del Estado de Baja California a fin de que la población conozca y se familiarice con los programas de gobierno;
 
@@ -461,15 +449,21 @@ IX. Acordar con el superior inmediato la resolución de los asuntos relevantes d
 
 X. Establecer las políticas internas de organización de la Jefatura a su cargo; y
 
-XI. Las demás que ,e sean encomendadas por el Gobernador del Estado, el Coordinador General de Relaciones Públicas e Internacionales, el Director de Relaciones Internacionales, Eventos Cívicos y Enlace Institucional, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+XI. Las demás que le sean encomendadas por el Gobernador del Estado y el Coordinador General de Relaciones Públicas, así como aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2012)</small>
 
 ###### Artículo 20.
 
-Corresponde a las Coordinaciones de Relaciones Públicas e Internacionales Zona Costa y Ensenada, el ejercicio de las siguientes atribuciones.
+Corresponde a las Coordinaciones de Relaciones Públicas Zona Costa y Ensenada, el ejercicio de las siguientes atribuciones:
 
 I. Ejercer dentro de su ámbito territorial las atribuciones que expresamente se le deleguen siguiendo los lineamientos que al efecto establezca el superior inmediato;
 
-II. Representar a la Coordinación General de Relaciones Públicas e Internacionales en el ámbito de su circunscripción territorial;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+II. Representar a la Coordinación General de Relaciones Públicas en el ámbito de su circunscripción territorial;
 
 III. Elaborar los programas de trabajo y darles el seguimiento correspondiente en su coordinación;
 
@@ -479,7 +473,9 @@ V. Ejercer el recurso presupuestal que le sea asignado y remitir a la Dirección
 
 VI. Apoyar en la elaboración del proyecto de presupuesto anual de su área correspondiente y remitirlo al superior inmediato;
 
-VII. Establecer coordinación y comunicación permanente con las diversas unidades adscritas a la Coordinación General de Relaciones Públicas e Internacionales;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+VII. Establecer coordinación y comunicación permanente con las diversas unidades adscritas a la Coordinación General de Relaciones Públicas;
 
 VIII. Girar instrucciones al personal que se encuentre a su cargo;
 
@@ -487,7 +483,13 @@ IX. Acordar con el superior inmediato la resolución de los asuntos relevantes d
 
 X. Establecer las políticas internas de organización de la Coordinación a su cargo; y
 
-XI. Las demás que le sean encomendadas por el Gobernador del Estado, el Coordinador General de Relaciones Públicas e Internacionales, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables. Para los efectos del presente Reglamento, la Coordinación de Relaciones Públicas e Internacionales Zona Costa, ejercerá sus atribuciones en los municipios de Tijuana, Tecate y Playas de Rosarito, y la Coordinación de Relaciones Públicas e Internacionales Ensenada, exclusivamente en el municipio de Ensenada.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+XI. Las demás que le sean encomendadas por el Gobernador del Estado y el Coordinador General de Relaciones Públicas, así como aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2012)</small>
+
+Para los efectos del presente Reglamento, la Coordinación de Relaciones Públicas Zona Costa, ejercerá sus atribuciones en los municipios de Tijuana, Tecate y Playas de Rosarito, y la Coordinación de Relaciones Públicas en Ensenada, exclusivamente en el municipio de Ensenada.
 
 ### Capitulo V
 
@@ -639,6 +641,38 @@ XV. Nombrar y remover libremente a los servidores públicos de las unidades admi
 
 XVI. Las demás que le sean encomendadas por el Gobernador del Estado y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2012)</small>
+
+Artículo 26 BIS.- Para el cumplimiento de las atribuciones de la Representación del Gobierno del Estado de Baja California en la Ciudad de México, Distrito Federal, contará con la siguiente unidad administrativa:
+
+a) Dirección de Enlace Federal.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2012)</small>
+
+Artículo 26 TER.- Corresponde a la Dirección de Enlace Federal, por conducto de su titular, el ejercicio de las siguientes atribuciones:
+
+I. Dar seguimiento a la agenda del Titular del Poder Ejecutivo, en la Ciudad de México e informar sobre el desarrollo de la misma a los funcionarios estatales o federales según corresponda;
+
+II. Realizar el seguimiento de los asuntos acordados entre el Gobierno del Estado y las dependencias y entidades de la Administración Pública Federal, informando sobre su gestión y avance;
+
+III. Atender por encargo directo del Representante del Gobierno del Estado de Baja California en la Ciudad de México, Distrito Federal en audiencia, a personas en lo individual o en grupos, a los funcionarios de los tres niveles de gobierno, definiendo el curso de los planteamientos, y en su caso acordar con los funcionarios del Estado, lo conducente;
+
+IV. Dar seguimiento a las solicitudes que hagan al Gobierno Federal las dependencias y entidades de la Administración Pública Estatal y en su caso, representarlas, informando sobre el avance de cada uno de los asuntos;
+
+V. Dar seguimiento a la gestión de los recursos fiscales que se deriven del Sistema Nacional de Coordinación Fiscal, así como los apoyos extraordinarios que le correspondan al Gobierno del Estado de Baja California ante la Administración Pública Federal;
+
+VI. Coordinar y revisar los informes de gestión, derivados de la tramitación de oficios de petición a las dependencias y entidades de la Administración Pública Federal, a través de la intervención directa ante los responsables de cada una;
+
+VII. Dar seguimiento a los asuntos administrativos y jurisdiccionales que le sean encomendados por las dependencias y entidades de la Administración Pública Estatal y en su caso, representarlas, informado sobre el avance de cada uno de los asuntos;
+
+VIII. Mantener la coordinación necesaria con el personal de la Representación del Gobierno del Estado de Baja California en la Ciudad de México, Distrito Federal, para el cumplimiento del Programa de giras y de la agenda de trabajo del Gobernador del Estado en la Ciudad de México, Distrito Federal;
+
+IX. Recibir y revisar la correspondencia, y acordar su despacho con el Representante del Gobierno del Estado de Baja California en la Ciudad de México, Distrito Federal;
+
+X. Girar instrucciones al personal que se encuentre a su cargo, y
+
+XI. Las demás que le sean encomendadas por el Representante del Gobierno del Estado de Baja California en la Ciudad de México, Distrito Federal y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
+
 ### Capítulo VII. De las Suplencias
 
 ###### Artículo 27.
@@ -649,9 +683,11 @@ Las ausencias del Secretario Particular del Ejecutivo serán suplidas para el de
 
 Las ausencias del Coordinador General de Gabinete serán suplidas para el despacho de los asuntos de su competencia, por el funcionario que él mismo designe.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
+
 ###### Artículo 29.
 
-Las ausencias del Coordinador General de Relaciones Públicas e Internacionales serán suplidas para el despacho de los asuntos de su competencia, por el funcionario que él mismo designe.
+Las ausencias del Coordinador General de Relaciones Públicas serán suplidas para el despacho de los asuntos de su competencia, por el funcionario que el mismo designe.
 
 ###### Artículo 30.
 
@@ -684,3 +720,9 @@ JOSÉ GUADALUPE OSUNA MILLÁN
 SECRETARIO GENERAL DE GOBIERNO
 
 JOSÉ FRANCISCO BLAKE MORA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO</small>
+
+P.O. 29 DE JUNIO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Baja California.
