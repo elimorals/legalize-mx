@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-del-comite-de-planeacion-para-el-61694"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-10"
-last_updated: "2008-06-10"
+last_updated: "2012-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # REGLAMENTO INTERIOR DEL COMITE DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO
 
-REGLAMENTO INTERIOR DEL COMITE DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO
+REGLAMENTO INTERIOR DEL COMITÉ DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2012.
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 10 de junio de 2008.
 
@@ -97,21 +97,27 @@ II. Un Director General
 
 ## TÍTULO TERCERO. DE LA INTEGRACIÓN Y ADMINISTRACIÓN DEL ORGANISMO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2012)</small>
+
 ###### ARTÍCULO 8.
 
-El COPLADE tendrá como Órgano Supremo de Gobierno una Junta Directiva, que se integra de la siguiente manera:
+El COPLADE tendrá como Órgano supremo una Junta Directiva, que se integra de la siguiente manera:
 
 I. Un Presidente, que será el Gobernador del Estado;
 
 II. Un Vicepresidente, que será el Titular de la Secretaría de Planeación y Desarrollo Regional;
 
-III. Cuatro vocales, que serán los Titulares de las siguientes dependencias:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2012)</small>
+
+III. Cuatro Vocales, que serán los titulares de las siguientes Dependencias:
 
 a) Secretaría de Gobierno;
 
 b) Secretaría de Hacienda;
 
-c) Secretaría de Desarrollo Urbano y Medio Ambiente;
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
+
+c) Secretaría de Desarrollo Urbano.
 
 d) Oficialía Mayor.
 
@@ -864,3 +870,11 @@ C. ROSARIO ORTIZ YELADAQUI
 SECRETARIO DE PLANEACION Y DESARROLLO REGIONAL Y VICEPRESIDENTE DEL COPLADE
 
 C.P. JOSE ALBERTO ALONSO OVANDO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE JUNIO DE 2012.
+
+PRIMERO. La presente Reforma al Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
