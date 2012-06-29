@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-turismo-del-estado-21523
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-05-11"
-last_updated: "2001-05-11"
+last_updated: "2012-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARIA DE TURISMO DEL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DE LA SECRETARIA DE TURISMO DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. 29 DE JUNIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 11 de mayo de 2001.
 
@@ -650,3 +652,19 @@ C.P. JORGE RAMOS
 EL SECRETARIO DE TURISMO DEL ESTADO
 
 LIC. JUAN TINTOS FUNCKE
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE JUNIO DE 2012.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interno de la Secretaría de Turismo del Estado, publicado en el Periódico Oficial del Gobierno del Estado de fecha 11 de mayo de 2001, así como todas aquellas disposiciones que se opongan al presente ordenamiento.
+
+TERCERO. Se abroga el Acuerdo mediante el cual se crea la Comisión Estatal de Filmaciones de Baja California, publicada en el Periódico Oficial del Estado de fecha 31 de julio de 1998.
+
+CUARTO.- Las Unidades Administrativas con denominación nueva o distinta que aparecen en el presente Reglamento y que tienen competencia en asuntos que anteriormente correspondían a otras Áreas o Unidades, se harán cargo de los mismos, terminarán substancialmente y dictarán las resoluciones que correspondan.
+
+QUINTO.- Cuando la competencia de alguna de las Áreas o Unidades Administrativas establecidas con anterioridad a la vigencia de este Reglamento, deba ser ejercida por otra u otras Unidades de las que el mismo establece, pasarán el personal, archivo, mobiliario y en general, el equipo que aquella haya utilizado, a la Unidad o Unidades competentes distribuyéndose en su caso, de conformidad con el ámbito de atribuciones que a cada una correspondan.
+
+SEXTO. En tanto no se expidan los manuales que este Reglamento menciona, el Secretario queda facultado para resolver las cuestiones que conforme a dichos manuales se deban regular.
