@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-448
 country: "mx"
 rank: "otro"
 publication_date: "1998-06-30"
-last_updated: "2011-10-20"
+last_updated: "2012-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44840&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,96 +19,120 @@ issue_date: "1998-06-25"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (REPUBLICA DE NICARAGUA,1997)
 
-ACUERDO POR EL QUE SE DA A CONOCER EL CUPO Y MECANISMO DE ASIGNACION PARA IMPORTAR AZUCAR ORIGINARIA DE LA REPUBLICA DE NICARAGUA EN 2011 Y ENERO DE 2012
+ACUERDO POR EL QUE SE DA A CONOCER LA TASA APLICABLE A PARTIR DEL 1 DE JULIO DE 2012 DEL IMPUESTO GENERAL DE IMPORTACIÓN PARA LAS MERCANCÍAS ORIGINARIAS DE LA REPÚBLICA DE NICARAGUA
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 20 de octubre de 2011.
+Acuerdo publicado en la Novena Sección del Diario Oficial de la Federación, el viernes 29 de julio de 2012.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-Con fundamento en los capítulos VII del Tratado de Libre Comercio de América del Norte y IV del Tratado de Libre Comercio entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República de Nicaragua; en la Decisión No. 7 de la Comisión Administradora del Tratado de Libre Comercio entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República de Nicaragua; en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 4o., fracción III, 5o., fracciones V y X, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 27, 32, 33, 34 y 36 del Reglamento de la Ley de Comercio Exterior; 1 y 5, fracción XVI, del Reglamento Interior de la Secretaría de Economía, y
+Con fundamento en los artículos 133 de la Constitución Política de los Estados Unidos Mexicanos; 34, fracción XXXI de la Ley Orgánica de la Administración Pública Federal; 5o., fracción X de la Ley de Comercio Exterior; 5, fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el Tratado de Libre Comercio entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República de Nicaragua fue aprobado por el Senado de la República el 30 de abril de 1998, publicado en el Diario Oficial de la Federación el 1 de julio del mismo año y entró en vigor en esa misma fecha;
+Que el Tratado de Libre Comercio entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República de Nicaragua (Tratado) fue aprobado por el Senado de la República el 30 de abril de 1998, publicado en el Diario Oficial de la Federación el 1 de julio de 1998, y entró en vigor ese mismo día;
 
-Que de conformidad con el Anexo 2 del artículo 4-04 del Tratado de Libre Comercio entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República de Nicaragua y la Decisión No. 7 de la Comisión Administradora del propio tratado, publicada en el Diario Oficial de la Federación el 17 de agosto de 2005, se definió una participación de Nicaragua de 10% dentro del arancel cuota que México establezca, cuya participación estará exenta del pago del arancel;
+Que el Capítulo III Trato Nacional y Acceso de Bienes al Mercado del Tratado establece las condiciones para la eliminación de los aranceles aduaneros para el comercio de mercancías originarias de la región conformada por ambos países mediante el establecimiento de reglas de origen y otros mecanismos específicos para definir tales mercancías;
 
-Que corresponde a la Secretaría de Economía asegurar el abasto de bienes de consumo básico para la población y el abastecimiento de materias primas a los productores nacionales con objeto de promover la competitividad de las cadenas productivas;
+Que de conformidad con lo establecido en el Anexo al Artículo 3-04 del Tratado, a partir del 1 de julio de 2012 se eliminarán la gran mayoría de los aranceles aduaneros aplicables a las mercancías que conforman el comercio bilateral de mercancías originarias de la región;
 
-Que con base en la actualización a las estimaciones de los inventarios de azúcar, se ha detectado que la oferta nacional de azúcar podría llegar a ser insuficiente para satisfacer la demanda de este producto a principios del próximo ciclo azucarero que inicia en octubre de 2011, debido a la evolución reciente de algunos componentes de la demanda, por lo que resulta necesario complementar la oferta nacional con importaciones ordenadas;
+Que la desgravación prevista en el Tratado no exime del cumplimiento de medidas de regulación y restricción no arancelarias, ni de los requisitos previos de importación impuestos por la Secretaría de Economía o cualquier otra dependencia en el ámbito de sus facultades; de los requisitos previstos en Normas Oficiales Mexicanas o del trámite del despacho aduanero de mercancías, entre otros, siempre que estén de conformidad con los compromisos internacionales adquiridos por México;
 
-Que de no establecerse un cupo de importación de azúcar de manera oportuna, el precio interno de este producto podría incrementarse significativamente en perjuicio de la actividad industrial y la población consumidora;
+Que el 26 de junio de 2009 la Organización Mundial de Aduanas adoptó la Quinta Enmienda al Sistema Armonizado de Designación y Codificación de Mercancías
 
-Que existe coincidencia entre el sector público y el sector privado representante de la agroindustria azucarera, sobre la necesidad del establecimiento de un cupo de importación que permita equilibrar la oferta del mercado doméstico del azúcar;
+que incluye, entre otras, modificaciones a las notas legales, la eliminación de varias subpartidas que describen productos que han reportado escaso movimiento comercial, así como la creación o restructuración de otras para identificar productos nuevos en el comercio mundial;
 
-Que el artículo 7 del Decreto por el que se modifican diversos aranceles de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, del Decreto por el que se establecen diversos Programas de Promoción Sectorial y de los diversos por los que se establece el esquema de importación a la Franja Fronteriza Norte y Región Fronteriza, publicado en el Diario Oficial de la Federación el 30 de junio de 2007, establece el arancel-cupo, expresado en dólares de los Estados Unidos de América por kilogramo, para la importación de azúcar cuando el importador cuente con certificado de cupo expedido por la Secretaría de Economía, y
+Que el 18 de junio de 2007 se publicó en el Diario Oficial de la Federación la Ley de los Impuestos Generales de Importación y de Exportación, en la que se establece la Tarifa con los aranceles aplicables a la importación de mercancías al territorio nacional;
 
-Que la medida a que se refiere el presente ordenamiento cuenta con la opinión favorable de la Comisión de Comercio Exterior, se expide el siguiente
+Que el Decreto por el que se modifican la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación; el diverso por el que se modifican diversos aranceles de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación; los diversos por los que se establece el esquema de importación a la Franja Fronteriza Norte y Región Fronteriza, y el diverso por el que se establece el impuesto general de importación para la región fronteriza y la franja fronteriza norte, tiene por objeto adoptar a partir del 1 de julio de 2012, las modificaciones derivadas de la Quinta Enmienda antes señalada, y
+
+Que en razón de lo anterior, y siendo necesario dar a conocer a los operadores y autoridades aduaneras las condiciones arancelarias y los mecanismos que regirán la importación de las mercancías originarias de la República de Nicaragua a partir del 1 de julio de 2012, se expide el siguiente
 
 Acuerdo
 
-1.- Se establece un cupo para importar 15 mil toneladas de azúcar clasificada en las fracciones arancelarias 1701.11.01, 1701.11.02, 1701.99.01, 1701.99.02 y 1701.99.99 con arancel exento, de conformidad con lo establecido en la Decisión No. 7 de la Comisión Administradora del Tratado de Libre Comercio entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República de Nicaragua.
+Primero.- Conforme a lo dispuesto en el Tratado de Libre Comercio entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República de Nicaragua, la importación de las mercancías originarias de la región conformada por México y Nicaragua, independientemente de su clasificación en la Tarifa de Ley de los Impuestos Generales de Importación y de Exportación, estará exenta del pago de arancel, salvo aquellas mercancías en que se indique lo contrario en el presente Acuerdo.
 
-2.- Para los efectos del presente Acuerdo, se entenderá por:
+Segundo.- Para los efectos del presente Acuerdo, se entiende por:
 
-a) IMMEX, al programa autorizado al amparo del Decreto para el Fomento de la Industria Manufacturera, Maquiladora y de Servicios de Exportación, publicado en el Diario Oficial de la Federación el 1 de noviembre de 2006 y sus reformas, y
+I. LIGIE: la Ley de los Impuestos Generales de Importación y de Exportación;
 
-b) PROSEC, al programa autorizado al amparo del Decreto por el que se establecen diversos Programas de Promoción Sectorial, publicado en el Diario Oficial de la Federación el 2 de agosto de 2002 y sus reformas.
+II. mercancías originarias de la región conformada por México y Nicaragua: las mercancías que cumplan con las reglas de origen establecidas en el Capítulo VI “Reglas de Origen” del Tratado, y
 
-3.- El cupo de importación referido en el presente instrumento se asignará bajo el mecanismo de licitación pública a las personas físicas y morales establecidas en los Estados Unidos Mexicanos conforme al contenido de las bases de licitación pública que para este efecto se publiquen de acuerdo con lo siguiente:
+III. Tratado: el Tratado de Libre Comercio entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República de Nicaragua.
 
-a) Se asignará un monto de 7.5 mil toneladas entre las personas físicas y morales que utilicen azúcar como insumo en sus procesos productivos, y
+Tercero.- Conforme a lo dispuesto en el párrafo 2 del Anexo al Artículo 3-04 del Tratado, la importación de las mercancías provenientes de Nicaragua comprendidas en las fracciones arancelarias listadas en este punto estará sujeta al arancel previsto en el Artículo 1o. de la LIGIE, sin reducción alguna:
 
-b) Se asignará un monto de 7.5 mil toneladas entre las personas físicas y morales diferentes a las mencionadas en el inciso anterior.
+Fracción Descripción
 
-4.- Las personas físicas y morales a que se refiere el inciso a) del Punto anterior deberán demostrar su calidad de productores que utilizan azúcar en sus procesos productivos, con alguno de los siguientes documentos:
+0803.10.01 Plátanos para cocinar (plantains).
 
-a) Copia de la autorización vigente de un programa IMMEX o PROSEC a nombre del solicitante;
+0803.90.99 Los demás.
 
-b) Dictamen elaborado por Contador Público Registrado ante la Secretaría de Hacienda y Crédito Público en el que certifique que el interesado ha fabricado en 2011 productos que utilizan azúcar como insumo;
+0901.11.01 Variedad robusta.
 
-c) Acta de fe de hechos de Corredor Público en el que se certifique el objeto social de la empresa y que en su proceso productivo utiliza azúcar como insumo, o
+0901.11.99 Los demás.
 
-d) Escrito libre bajo protesta de decir verdad, firmado por el presidente, director general o representante legal de la Cámara o Asociación del ramo o sector en el que opera la persona moral, mediante el cual se acredite su calidad de productor. Dicho escrito deberá certificar que la persona moral es afiliada al organismo, el tipo de producto que elabora y el hecho de que utiliza azúcar como insumo.
+0901.12.01 Descafeinado.
 
-5.- La licitación pública a que se refiere el Punto 3 del presente Acuerdo podrá ser documental o electrónica y se sujetará a lo siguiente:
+0901.21.01 Sin descafeinar.
 
-La convocatoria correspondiente se publicará en el Diario Oficial de la Federación por lo menos 20 días antes de que inicie el periodo de registro y establecerá la fecha en que se pondrán a disposición de los interesados las bases conforme a las cuales se regirá la licitación pública.
+0901.22.01 Descafeinado.
 
-6.- Podrán participar en la licitación pública del presente cupo las personas físicas y morales establecidas en los Estados Unidos Mexicanos que cumplan con las disposiciones de este Acuerdo y los requisitos previstos en las bases de la licitación pública, de conformidad con lo siguiente:
+0901.90.01 Cáscara y cascarilla de café.
 
-a) En caso de convocatoria para licitación documental, los interesados deberán presentar su oferta en el formato SE-03-011-3 “Formato de oferta para participar en licitaciones públicas para adjudicar cupos para importar o exportar”, adjuntando la documentación que corresponda conforme a las bases de la licitación, y
+0901.90.99 Los demás.
 
-b) Tratándose de convocatoria para licitación electrónica, para poder presentar su oferta, los interesados deberán registrarse en el sistema electrónico que se establezca para la ejecución de la misma, conforme a la forma y plazos señalados en las bases de la licitación.
+1701.13.01 Azúcar de caña mencionado en la Nota 2 de subpartida de este Capítulo.
 
-Los resultados de la adjudicación de la licitación se darán a conocer al término del evento y podrán ser consultados en la página de Internet del Sistema Integral de Información de Comercio Exterior www.siicex.gob.mx/portalSiicex/.
+1701.14.01 Azúcar cuyo contenido en peso de sacarosa, en estado seco, tenga una polarización igual o superior a 99.4 pero inferior a 99.5 grados.
 
-7.- Una vez obtenida la adjudicación, el beneficiario deberá solicitar la expedición del certificado de cupo mediante la presentación del formato SE-03-013-6 "Solicitud de certificados de cupo (obtenido por licitación pública)", adjuntando el comprobante del pago correspondiente a la adjudicación, en la ventanilla de atención al público de la representación federal de la Secretaría de Economía que corresponda. La Secretaría de Economía emitirá el certificado de cupo dentro de los cinco días hábiles siguientes a la presentación de la solicitud.
+1701.14.02 Azúcar cuyo contenido en peso de sacarosa, en estado seco, tenga una polarización igual o superior a 96 pero inferior a 99.4 grados.
 
-8.- Los certificados de cupo que se expidan conforme a este Acuerdo serán nominativos, transferibles y su vigencia será al 31 de enero de 2012.
+1701.14.03 Azúcar cuyo contenido en peso de sacarosa, en estado seco, tenga una polarización inferior a 96 grados.
 
-9.- Para la aplicación del presente Acuerdo, la Dirección General de Comercio Exterior podrá solicitar la opinión de la Dirección General de Industrias Básicas de la Secretaría de Economía.
+1701.12.01 Azúcar cuyo contenido en peso de sacarosa, en estado seco, tenga una polarización igual o superior a 99.4 pero inferior a 99.5 grados.
 
-10.- Los formatos citados en el presente Acuerdo estarán a disposición de los interesados en las representaciones federales de la Secretaría de Economía y en la página de Internet de la Comisión Federal de Mejora Regulatoria, en las siguientes direcciones electrónicas:
+1701.12.02 Azúcar cuyo contenido en peso de sacarosa, en estado seco, tenga una polarización igual o superior a 96 pero inferior a 99.4 grados.
 
-Formato SE-03-011-3 “Formato de oferta para participar en licitaciones públicas para adjudicar cupos para importar o exportar”.
+1701.12.03 Azúcar cuyo contenido en peso de sacarosa, en estado seco, tenga una polarización inferior a 96 grados.
 
-http://www.cofemer.gob.mx/rfts/formulario/tramite.asp?coNodes=1566760&num_modalidad=0&epe=0&nv=0
+1701.91.01 Con adición de aromatizante o colorante.
 
-Formato SE-03-013-6 “Solicitud de certificados de cupo (obtenido por licitación pública)”.
+1701.99.01 Azúcar cuyo contenido en peso de sacarosa, en estado seco, tenga una polarización igual o superior a 99.5 pero inferior a 99.7 grados.
 
-http://www.cofemer.gob.mx/rfts/formulario/tramite.asp?coNodes=1296451&num_modalidad=0&epe=0&nv=0
+1701.99.02 Azúcar cuyo contenido en peso de sacarosa, en estado seco, tenga una polarización igual o superior a 99.7 pero inferior a 99.9 grados.
 
-Los formatos antes citados corresponden a los siguientes trámites inscritos en el Registro Federal de Trámites y Servicios (RFTS):
+1701.99.99 Los demás.
 
-a) “Asignación de cupo de importación y exportación a través de licitación pública”, para personas físicas o morales con homoclave en el RFTS SE-03-034, y
+1702.20.01 Azúcar y jarabe de arce ("maple").
 
-b) “Expedición de certificado de cupo obtenido por licitación pública”, para personas físicas o morales con homoclave en el RFTS SE-03-043.
+1702.30.01 Glucosa y jarabe de glucosa, sin fructosa o con un contenido de fructosa, calculado sobre producto seco, inferior al 20% en peso.
 
-11.- Las autorizaciones emitidas al amparo del presente ordenamiento no eximen del cumplimiento de otros requisitos y demás regulaciones y restricciones no arancelarias aplicables a las mercancías en la aduana de despacho.
+1702.40.01 Glucosa.
+
+1702.40.99 Los demás.
+
+1702.50.01 Fructosa químicamente pura.
+
+1702.60.01 Con un contenido de fructosa, calculado sobre producto seco, superior al 50% pero inferior o igual al 60%, en peso.
+
+1702.60.02 Con un contenido de fructosa, calculado sobre producto seco, superior al 60% pero inferior o igual al 80%, en peso.
+
+1702.60.99 Los demás.
+
+1702.90.01 Azúcar líquida refinada y azúcar invertido.
+
+1702.90.99 Los demás.
+
+1806.10.01 Con un contenido de azúcar igual o superior al 90%, en peso.
+
+2106.90.05 Jarabes aromatizados o con adición de colorantes.
+
+Cuarto.- La importación de mercancías procedentes de Nicaragua que se clasifiquen en el capítulo 62 de la LIGIE y que cumplan con lo establecido en el Anexo al Artículo 3-16 “Trato arancelario preferencial para los bienes clasificados en el Capítulo 62 del Sistema Armonizado que incorporen materiales de los Estados Unidos de América” del Tratado estarán exentas del pago de arancel, siempre que el importador adjunte al pedimento de importación un certificado de elegibilidad expedido por la Secretaría de Economía.
+
+Quinto.- Lo dispuesto en el presente Acuerdo no libera del cumplimiento de medidas de regulación y restricción no arancelarias en términos de lo dispuesto en los tratados de libre comercio celebrados por México, la Ley de Comercio Exterior, la Ley Aduanera y las demás disposiciones aplicables.
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación y su vigencia concluirá el 31 de enero de 2012.
+UNICO.- El presente Acuerdo entrará en vigor el 1 de julio de 2012.
 
-México, D.F., a 12 de octubre de 2011.- El Secretario de Economía, Bruno Ferrari García de Alba.- Rúbrica.
+México, D.F., a 15 de junio de 2012.- El Secretario de Economía, Bruno Ferrari García de Alba.- Rúbrica.
