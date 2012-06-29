@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-del-sistema-para-el-desarrollo-integral-5750
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-02"
-last_updated: "2007-11-02"
+last_updated: "2012-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO INTERNO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
-REGLAMENTO INTERNO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
+REGLAMENTO INTERNO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. 29 DE JUNIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 2 de noviembre de 2007.
 
@@ -1050,3 +1052,13 @@ BERNARDO H. MARTÍNEZ AGUIRRE.
 SECRETARIO DE DESARROLLO SOCIAL DEL ESTADO,
 
 CARLOS ARMANDO REYNOSO NUÑO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE JUNIO DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se abroga el Reglamento Interno del Sistema para el Desarrollo Integral de la Familia publicado en el Periódico Oficial del Estado el 02 de noviembre de 2007, a partir del día en que entre en vigor el presente Reglamento.
+
+TERCERO.- En tanto no se expidan los Manuales Administrativos que este Reglamento menciona, el Director General queda facultado para resolver los asuntos que conforme a dichos Manuales se deban regular.
