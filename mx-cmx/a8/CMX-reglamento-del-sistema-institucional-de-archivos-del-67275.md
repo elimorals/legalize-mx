@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-sistema-institucional-de-archivos-del-67275"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-10"
-last_updated: "2009-03-10"
+last_updated: "2012-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67275&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2009-02-19"
 
 REGLAMENTO DEL SISTEMA INSTITUCIONAL DE ARCHIVOS DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL SISTEMA INSTITUCIONAL DE ARCHIVOS DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 29 DE JUNIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 10 de marzo de 2009.
 
@@ -357,3 +359,13 @@ Lo que certifico en ejercicio de la atribución prevista en los artículos 188, 
 México, Distrito Federal, a diecinueve de febrero de dos mil nueve. DOY FE.
 
 (Firma)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 29 DE JUNIO DE 2012.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en los estrados del Tribunal.
+
+SEGUNDO. Se abroga el Reglamento del Sistema Institucional de Archivos del Tribunal Electoral del Distrito Federal aprobado por el Pleno de este órgano jurisdiccional mediante Acuerdo 011/2009 del 17 de febrero de 2009 y reformado mediante acuerdo 035/2010 del 17 de agosto de 2010.
+
+TERCERO. Publíquese en la Gaceta Oficial del Distrito Federal, así como en los estrados y en el sitio de Internet del Tribunal.
