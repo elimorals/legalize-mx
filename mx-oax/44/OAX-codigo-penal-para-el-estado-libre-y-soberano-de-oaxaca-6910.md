@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2012-06-22"
+last_updated: "2012-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2012.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -3971,6 +3971,14 @@ IV.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2003)
 
 231.- La parte, testigo, perito o intérprete que se retracte espontáneamente de sus falsas declaraciones rendidas en un juicio, antes de que se pronuncie la sentencia en la instancia en que las hubiere rendido, sólo pagará una multa de cinco a cincuenta veces el salario mínimo general; pero si al retractarse de su declaración faltare a la verdad, se le aplicará la pena que corresponda con arreglo a lo prevenido en este Capítulo, considerándolo como reincidente.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2012)</small>
+
+231 Bis.- Al que, por cualquier medio reporte hechos falsos a los elementos de las Policías Estatal o Municipales, Bomberos, personal de instituciones públicas o privadas que presten servicios de emergencia o protección civil; se le impondrá de seis meses a dos años de prisión y multa de diez a cien días multa.
+
+En caso de reincidencia se impondrá de dos a cuatro años de prisión y multa de quinientos a mil días multa.
+
+Si la conducta del infractor provoca un accidente o daños se impondrá de tres a cinco años de prisión y multa de quinientos a mil días multa.
+
 ### CAPITULO IV.
 
 Variación del nombre o del domicilio.
@@ -5716,6 +5724,10 @@ SEGUNDO.- La Comisión se integrará en un plazo de 60 días contados a partir d
 TERCERO.- La Comisión presentará el Programa en el plazo de un año, contado a partir de la entrada en vigor de la presente ley.
 
 CUARTO.- La Presente Ley deroga los delitos objetos de la misma del Código Penal para el Estado Libre y Soberano de Oaxaca.
+
+P.O. 29 DE JUNIO DE 2012.
+
+PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### Artículo 10.
 
