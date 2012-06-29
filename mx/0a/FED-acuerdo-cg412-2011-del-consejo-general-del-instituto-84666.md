@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-cg412-2011-del-consejo-general-del-instituto-84666"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-01-17"
-last_updated: "2012-01-17"
+last_updated: "2012-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84666&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-12-14"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE APRUEBA EL CATÁLOGO DE PROGRAMAS DE RADIO Y TELEVISIÓN QUE DIFUNDEN NOTICIAS, ASÍ COMO LA METODOLOGÍA QUE DEBERÁ UTILIZARSE PARA REALIZAR EL MONITOREO DE LAS TRANSMISIONES SOBRE LAS PRECAMPAÑAS Y CAMPAÑAS FEDERALES DEL PROCESO ELECTORAL FEDERAL 2011-2012 EN LOS PROGRAMAS EN RADIO Y TELEVISIÓN QUE DIFUNDAN NOTICIAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE JUNIO DE 2012.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el martes 17 de enero de 2012.
 
@@ -139,6 +139,8 @@ El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.
 
 > <small>N. DE E. VÉASE TABLA EN LA TERCERA SECCIÓN DEL D.O.F. DE 17 DE ENERO DE 2012, PÁGINAS DE LA 5 A LA 20.</small>
 
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN LA DECIMOSEGUNDA SECCIÓN DEL D.O.F. 29 DE JUNIO DE 2012, PÁGINAS DE LA 36 A LA 52.</small>
+
 METODOLOGIA PARA LA REALIZACION DE MONITOREOS DE LAS TRANSMISIONES EN LOS PROGRAMAS DE RADIO Y TELEVISION SOBRE LAS PRECAMPAÑAS Y CAMPAÑAS DEL PROCESO ELECTORAL FEDERAL 2011-2012 PARA PRESIDENTE DE LA REPUBLICA, DIPUTADOS Y SENADORES DEL CONGRESO DE LA UNION, EN LOS PROGRAMAS DE RADIO Y TELEVISION QUE DIFUNDAN NOTICIAS.
 
 I. Fundamento Legal
@@ -177,7 +179,7 @@ j) Proponer al Consejo la metodología y catálogo de noticieros para el monitor
 
 […]
 
-d) Procurar esquemas de comunicación de los monitoreos a que se refiere l (sic) artículo 75, párrafo 8, en forma conjunta con la Cámara Nacional de la Industria de Radio y Televisión y la Red de Radiodifusores Educativas y Culturales de México, A.C., preferentemente y
+d) Procurar esquemas de comunicación de los monitoreos a que se refiere l artículo 75, párrafo 8, en forma conjunta con la Cámara Nacional de la Industria de Radio y Televisión y la Red de Radiodifusores Educativas y Culturales de México, A.C., preferentemente y
 
 […]
 
@@ -303,15 +305,15 @@ b) El género periodístico equivale a una pieza informativa. El tiempo total de
 
 c) Para fines del monitoreo, los géneros periodísticos se definieron de la siguiente manera:
 
-- Nota informativa. Se trata de un hecho probable o consumado y que a juicio del periodista, será de gran trascendencia y de interés general. Expone oportunamente un hecho noticioso.
+Nota informativa. Se trata de un hecho probable o consumado y que a juicio del periodista, será de gran trascendencia y de interés general. Expone oportunamente un hecho noticioso.
 
-- Entrevista. Género descriptivo-narrativo. Da a conocer una situación, un hecho o una personalidad con base en una serie de preguntas y respuestas.
+Entrevista. Género descriptivo-narrativo. Da a conocer una situación, un hecho o una personalidad con base en una serie de preguntas y respuestas.
 
-- Reportaje. Género narrativo y expositivo que presenta los hechos, los interrelaciona, contrasta y analiza. A través de estas operaciones establece una interpretación, pero no los valora directamente. El reportaje cumple su función con el ofrecimiento de los datos. El reportaje atribuye las opiniones a las personas que las mantienen, pero no ofrece las del reportero.
+Reportaje. Género narrativo y expositivo que presenta los hechos, los interrelaciona, contrasta y analiza. A través de estas operaciones establece una interpretación, pero no los valora directamente. El reportaje cumple su función con el ofrecimiento de los datos. El reportaje atribuye las opiniones a las personas que las mantienen, pero no ofrece las del reportero.
 
-- De opinión y análisis. El enunciador interpreta y valora la noticia.
+De opinión y análisis. El enunciador interpreta y valora la noticia.
 
-- Debate. Género argumentativo donde los participantes exponen sus ideas respecto de algún tema desde distintos puntos de vista. Generalmente es moderado por el conductor o reportero.
+Debate. Género argumentativo donde los participantes exponen sus ideas respecto de algún tema desde distintos puntos de vista. Generalmente es moderado por el conductor o reportero.
 
 3. Valoración de la información y opinión.
 
@@ -414,3 +416,9 @@ d) El día de publicación de los resultados de la encuesta o sondeo de opinión
 e) Los resultados de la encuesta o sondeo de opinión que se difunden.
 
 Quedan exceptuadas de dicho registro, las encuestas ordenadas por los propios partidos políticos al ser considerada información no pública, conforme a lo dispuesto en el artículo 44, numeral 1, del Código Federal de Instituciones y Procedimientos Electorales.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 29 DE JUNIO DE 2012.
+
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
