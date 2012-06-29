@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-sobre-el-uso-de-medios-electronicos-y-firma-45097"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-03"
-last_updated: "2005-06-03"
+last_updated: "2012-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45097&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # REGLAMENTO SOBRE EL USO DE MEDIOS ELECTRONICOS Y FIRMA ELECTRONICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
 
-REGLAMENTO SOBRE EL USO DE MEDIOS ELECTRONICOS Y FIRMA ELECTRONICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
+REGLAMENTO SOBRE EL USO DE MEDIOS ELECTRÓNICOS Y FIRMA ELECTRÓNICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2012.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 3 de junio de 2005.
 
@@ -33,15 +33,21 @@ EL LIC. FRANCISCO JAVIER ZAMORA ROCHA, SECRETARIO GENERAL DEL CONSEJO DEL PODER 
 
 Reglamento sobre el uso de Medios Electrónicos y Firma Electrónica del Poder Judicial del Estado de Guanajuato.
 
-### CAPÍTULO PRIMERO. I. DISPOSICIONES GENERALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JUNIO DE 2012)</small>
+
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 1.
 
 El presente Reglamento tiene por objeto proveer al cumplimiento de la Ley Sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Guanajuato y sus Municipios en la esfera de competencia del Poder Judicial del Estado de Guanajuato.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
+
 ###### Artículo 2.
 
-El Consejo, la Presidencia, el Supremo Tribunal, las Salas, los Juzgados y todo (sic) los órganos jurisdiccionales, administrativos, técnicos o de cualquier naturaleza que integran el Poder Judicial promoverán y asumirán el uso de medios electrónicos y firma electrónica para agilizar y simplificar los actos, convenios, comunicaciones, trámites y procedimientos de naturaleza administrativa que corresponden a su esfera de competencia.
+El Consejo, la Presidencia, el Supremo Tribunal, las Salas, los Juzgados y todos los órganos jurisdiccionales, administrativos, técnicos o de cualquier naturaleza que integran el Poder Judicial promoverán y asumirán el uso de medios electrónicos y firma electrónica para agilizar y simplificar los actos, convenios, comunicaciones, trámites y procedimientos de naturaleza administrativa que corresponden a su esfera de competencia.
+
+De igual modo, los órganos que ejerzan la función jurisdiccional promoverán y asumirán el uso de los medios electrónicos y firma electrónica certificada en las actuaciones judiciales o comunicaciones procesales autorizadas en ley.
 
 ###### Artículo 3.
 
@@ -51,37 +57,69 @@ El empleo de los medios electrónicos y firma electrónica en el Poder Judicial,
 
 Para efectos del presente Reglamento se entenderá por:
 
-I. Autoridad Certificadora:- El Poder Judicial por conducto de la Secretaría General del Consejo, apoyada por la Dirección de Informática del Poder Judicial.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
 
-II. Acto Electrónico:- Los actos, notificaciones, requerimientos, trámites, solicitudes de informes o documentos, comunicaciones o resoluciones de naturaleza administrativa que los órganos jurisdiccionales o administrativos del Poder Judicial efectúen entre sí o hacia los particulares, a través de medios electrónicos o mediante firma electrónica.
+l. Autoridad Certificadora: El Poder Judicial por conducto de la Secretaría General del Consejo, apoyada por la Dirección de Informática del Poder Judicial;
 
-III. Ley:- La Ley Sobre el Uso de Medios Electrónicos y Firma Electrónica para el estado de Guanajuato y sus Municipios.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
 
-IV. Clave de Acceso:- a la serie de caracteres que sirven para identificar a un Usuario para entrar a los Sistemas Electrónicos.
+II. Acto Electrónico: Los actos, notificaciones, requerimientos, trámites, solicitudes de informes o documentos, comunicaciones o resoluciones de naturaleza administrativa, que los órganos jurisdiccionales o administrativos del Poder Judicial efectúen entre sí o hacia los particulares, a través de medios electrónicos o mediante firma electrónica;
 
-V. Consejo:- al Consejo del Poder Judicial del Estado.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
 
-VI. Contraseña: a la serie de caracteres generada por el Usuario que lo identifican y que junto con la clave de acceso .sirve para entrar a los Sistemas Electrónicos.
+III. Ley: La Ley Sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Guanajuato y sus Municipios;
 
-VII. Encriptación:- al método que utiliza el proceso de firma electrónica para brindar seguridad a los Usuarios de la misma, basado en un algoritmo indescifrable a simple vista.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
 
-VIII. Juzgados-: a los Juzgados de Partido y Menores del Poder Judicial del Estado.
+IV. Clave de Acceso: La serie de caracteres que sirven para identificar a un Usuario para entrar a los Sistemas de información;
 
-IX. Órganos del Poder Judicial:- a los que se identifican en el artículo 2° de este reglamento.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
 
-X. Poder Judicial:- al Poder Judicial del Estado de Guanajuato.
+V. Consejo: El Consejo del Poder Judicial;
 
-XI. Presidencia:- el Presidente del Supremo Tribunal de Justicia del Estado y del Consejo del Poder Judicial.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
 
-XII. Reglamento:- el reglamento sobre el Uso de Medios Electrónicos y Firma Electrónica del Poder Judicial del Estado de Guanajuato.
+VI. Contraseña: La serie de caracteres que generada por el Usuario que lo identifican y que junto con la clave de acceso sirve para entrar a los Sistemas de Información;
 
-XIII. Salas: a las salas del Supremo Tribunal de Justicia del Estado.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
 
-XIV. Tarjeta Inteligente: al instrumento que contiene un dispositivo electrónico para almacenar información.
+VII. Encriptación: El método que utiliza el proceso de firma electrónica para brindar seguridad a los Usuarios de la misma, basado en un algoritmo indescifrable a simple vista;
 
-XV. Trámite Electrónico:- las solicitudes, trámites o escritos de naturaleza administrativa que los particulares realicen a través de medios electrónicos y firma electrónica ante órganos jurisdiccionales o administrativos del Poder Judicial.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
 
-XVI. Usuario(s):- a los servidores públicos y particulares que en términos de este Reglamento están autorizados para usar medios electrónicos y firma electrónica.
+VIII. Juzgados: Los Juzgados de Partido y Menores del Poder Judicial;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+IX. Órganos del Poder Judicial: Los que se identifican en el artículo 2° de este Reglamento;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+X. Poder Judicial: El Poder Judicial del Estado de Guanajuato;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+XI. Presidencia: El Presidente del Supremo Tribunal de Justicia y del Consejo del Poder Judicial;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+XII. Reglamento: El Reglamento sobre el Uso de Medios Electrónicos y Firma Electrónica del Poder Judicial del Estado de Guanajuato;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+XIII. Salas: Las Salas del Supremo Tribunal de Justicia del Estado de Guanajuato;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+XIV. Tarjeta Inteligente: Instrumento que contiene un dispositivo electrónico para almacenar información;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+XV. Trámite Electrónico: Las solicitudes, trámites o escritos de naturaleza administrativa que los particulares realicen a través de medios electrónicos y firma electrónica ante órganos jurisdiccionales o administrativos del Poder Judicial y,
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+XVI. Usuario(s): Los servidores públicos y particulares que en términos de este Reglamento están autorizados para usar medios electrónicos y firma electrónica.
 
 ###### Artículo 5.
 
@@ -89,37 +127,53 @@ Para los efectos de este Reglamento son días hábiles los señalados en el Cale
 
 ### CAPÍTULO SEGUNDO. DE LOS TITULARES DE CERTIFICADO DE FIRMA ELECTRÓNICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2012)</small>
+
 ###### Artículo 6.
 
-Los titulares de Certificados de Firma Electrónica tendrán, además de los derechos que les confiere la Ley, los siguientes:
+Los titulares de Certificados de Firma Electrónica, además de los derechos que les confiere la Ley, tendrán los siguientes:
 
-I.- A ser informados, al menos con dos meses de anticipación, por los prestadores de servicios de certificación autorizados por el Poder Judicial, del cese de su actividad, con el fin de que esté en posibilidad de promover el traspaso de los datos de sus certificados a otro certificador, o bien, para que tome conocimiento de la extinción de los efectos de sus certificados, si no existiere posibilidad de traspaso a otro certificador;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+l.- A ser informados, al menos con dos meses de anticipación, por los prestadores de servicios de certificación autorizados por el Poder Judicial, del cese de su actividad, con el fin de que esté en posibilidad de promover el traspaso de los datos de sus certificados a otro certificador, o bien, para que tome conocimiento de la extinción de los efectos de sus certificados, si no existiere posibilidad de traspaso a otro certificador;
 
 II.- A traspasar sus datos de otro prestador de servicios de certificación acreditado;
 
-III.- A no recibir publicidad comercial de ningún tipo por medio del prestador, salvo autorización expresa del usuario; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+III.- A no recibir publicidad comercial de ningún tipo por medio del prestador, salvo autorización expresa del usuario y,
 
 IV.- A acceder por medios electrónicos al Registro de Prestadores de Servicios de Certificación que mantendrá la Autoridad Certificadora.
 
 ### CAPÍTULO TERCERO. DE LOS ACTOS Y TRÁMITES ELECTRÓNICOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2012)</small>
+
 ###### Artículo 7.
 
-El Poder Judicial contará con los equipos y sistemas tecnológicos que permitan emitir actos electrónicos, así como para recibir los trámites electrónicos que realicen los particulares, en términos de la Ley y del reglamento, procurando que dichos instrumentos representen mejoras en los tiempos de atención, disminución de costos, oportunidad para elevar la eficiencia y transparencia, incrementar la productividad y mejorar la calidad de los servicios que se prestan.
+El Poder Judicial contará con los equipos y sistemas tecnológicos que permitan emitir actos electrónicos, así como para recibir los trámites electrónicos que realicen los particulares, en términos de la Ley y del Reglamento, procurando que dichos instrumentos representen mejoras en los tiempos de atención, disminución de costos, oportunidad para elevar la eficiencia y transparencia, incrementar la productividad y mejorar la calidad de los servicios que se prestan.
 
-Los particulares deberán manifestar su conformidad, para recibir actos electrónicos.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
+
+Los particulares deberán manifestar su conformidad para recibir actos electrónicos.
 
 En caso de que el particular haga uso de los medios electrónicos y firma electrónica en el inicio de un procedimiento administrativo ante órganos del Poder Judicial, se entenderá que acepta desarrollarlo por dichos medios.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
+
 ###### Artículo 8.
 
-Los particulares que realicen trámites electrónicos mediante el uso de medios electrónicos y firma electrónica ante el Poder Judicial, aportarán los datos que les sean requeridos a través de los medios que sean necesarios, sin perjuicio de aquellos casos en que sea necesario la comprobación fehaciente de su identidad, en los cuales deberán emplear firma electrónica certificada.
+Los particulares que realicen trámites electrónicos o actos procesales en general mediante el uso de medios electrónicos y firma electrónica ante el Poder Judicial, aportarán los datos que les sean requeridos a través de los medios que sean necesarios, sin perjuicio de aquellos casos en que sea necesario la comprobación fehaciente de su identidad, en los cuales deberán emplear firma electrónica certificada.
 
 ###### Artículo 9.
 
 Los programas informáticos y los formatos electrónicos que diseñe, instrumente o apruebe el Poder Judicial, contendrán los elementos suficientes que permitan incorporar los datos de identificación de los particulares que en aplicación de la Ley y el Reglamento utilicen medios electrónicos y firma electrónica.
 
 El Consejo publicará los actos, trámites y procedimientos en los que podrán emplearse medios electrónicos y firma electrónica. Los formatos correspondientes se pondrán a disposición de los particulares a través de su página en Internet.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2012)</small>
+
+De igual modo, el Consejo diseñará y publicará el trámite para el acceso a la Dirección Electrónica del Sistema Informático del Poder Judicial, o a cualquier otro sistema de información, tratándose de comunicaciones procesales autorizadas en ley que deban realizar los órganos jurisdiccionales o administrativos del Poder Judicial.
 
 ###### Artículo 10.
 
@@ -133,7 +187,9 @@ III.- Descripción del trámite o acto electrónico;
 
 IV.- Datos del órgano que recibe;
 
-V.- Datos de quien realiza el trámite o acto electrónico; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+V.- Datos de quien realiza el trámite o acto electrónico y,
 
 VI.- Datos sobre la posibilidad de obtener en forma impresa el trámite o acto electrónico.
 
@@ -161,11 +217,15 @@ La conservación y administración de la información contenida en medios electr
 
 I.- La información deberá ser respaldada en cada proceso de actualización de documentos;
 
-II.- Se deberá mantener una copia de seguridad en el lugar de operación de los sistemas de información y otra en un centro especializado de almacenamiento de datos;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+II.- Se deberá mantener una copia de seguridad en el lugar de operación de los Sistemas de Información y otra en un centro especializado de almacenamiento de datos;
 
 III.- El esquema de respaldo deberá incrementarse en forma gradual con objeto de mantener la historia de la información en el mínimo de versiones posibles;
 
-IV.- El archivo electrónico deberá contar con sistemas de monitoreo y alarmas que se activen cuando ocurra un evento no autorizado o fuera de programación, para el caso de eventuales fallas de las medidas de seguridad; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+IV.- El archivo electrónico deberá contar con sistemas de monitoreo y alarmas que se activen cuando ocurra un evento no autorizado o fuera de programación, para el caso de eventuales fallas de las medidas de seguridad y,
 
 V.- La existencia de un programa alternativo de acción que permita la restauración del servicio en el menor tiempo posible, para el caso de que el archivo electrónico deje de operar por causas de fuerza mayor.
 
@@ -173,11 +233,15 @@ V.- La existencia de un programa alternativo de acción que permita la restaurac
 
 Los documentos electrónicos suscritos con firma electrónica certificada deberán permitir verificar la integridad y autenticidad de los mismos al ser impresos, mediante una cadena de caracteres asociados al documento electrónico y constituirán una copia fiel del documento original.
 
-### CAPÍTULO TERCERO (SIC). DE LA AUTORIDAD CERTIFICADORA
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 29 DE JUNIO DE 2012)</small>
+
+### CAPÍTULO CUARTO. DE LA AUTORIDAD CERTIFICADORA
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
 ###### Artículo 17.
 
-En los términos del artículo 22 de la Ley, el Poder Judicial es autoridad certificadora. Esta función la ejercerá por conducto de la Secretaría General del Consejo con apoyo de la Dirección de Informática.
+En los términos del artículo 22 de la Ley, el Poder Judicial es autoridad certificadora. Esta función la ejercerá por conducto de la Secretaría General del Consejo con apoyo de la Dirección de Informática, las Oficialías Común de Partes o cualquier otro órgano administrativo del Poder Judicial, conforme a lo dispuesto en los acuerdos generales del Consejo y la Declaración de Prácticas y Políticas de Certificación emitidos para tal efecto.
 
 ###### Artículo 18.
 
@@ -187,7 +251,9 @@ I.- Establecer un registro de Certificados de Firma Electrónica que garantice l
 
 II.- Iniciar el procedimiento para actualizar las disposiciones técnicas que permitan el uso de tecnologías y medios electrónicos, de conformidad con la Ley y este Reglamento;
 
-III.- Expedir reglas sobre prácticas de certificación, consistentes en una descripción detallada de las políticas, procedimientos y mecanismos que el certificador se obliga a cumplir en la prestación de sus servicios de certificación y homologación;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+III.- Expedir la Declaración de Prácticas y Políticas de Certificación, donde se detallarán las prácticas, políticas, procedimientos y mecanismos que la Autoridad Certificadora, Prestador de Servicios de Certificación o Autoridad de Registro se obligan a cumplir en la prestación de sus servicios de certificación y homologación;
 
 IV.- Analizar los informes sobre la evaluación de los prestadores de servicios de certificación;
 
@@ -197,9 +263,13 @@ VI.- Inscribir en los Certificados de Firma Electrónica, la fecha y hora en que
 
 VII.- Desarrollar un programa de calidad para la mejora continua del uso de medios electrónicos y firma electrónica en el Poder Judicial;
 
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
 VIII.- Aprobar planes de seguridad y de contingencia por el uso de medios electrónicos y firma electrónica por parte de los usuarios;
 
-IX.- Asesorar a los usuarios de medios electrónicos y firma electrónica;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+IX.- Asesorar a los usuarios de medios electrónicos y firma electrónica y,
 
 X.- Mantener permanentemente actualizada la tecnología aplicada al uso de medios electrónicos y firma electrónica.
 
@@ -215,7 +285,9 @@ III.- Registro de Certificados de Firma Electrónica;
 
 IV.- Alcance;
 
-V.- Limitaciones; y,
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+V.- Limitaciones y,
 
 VI.- Vigencia.
 
@@ -223,29 +295,37 @@ VI.- Vigencia.
 
 Los Certificados de Firma Electrónica deberán contener, además de los requisitos previstos en el artículo 33 de la Ley, los siguientes:
 
-I.- La identificación de la autoridad certificadora o del prestador de servicios de certificación acreditado, señalando su denominación, registro federal de contribuyentes, dirección de correo electrónico y en su caso, los antecedentes de su acreditación y su propia firma electrónica certificada; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+l.- La identificación de la autoridad certificadora o del prestador de servicios de certificación acreditado, señalando su denominación, registro federal de contribuyentes, dirección de correo electrónico y en su caso, los antecedentes de su acreditación y su propia firma electrónica certificada y,
 
 II.- Los datos de la identidad del titular del certificado de Firma Electrónica, mencionando nombre, domicilio, teléfono, dirección de correo electrónico y Clave Única de Registro de Población.
 
-### CAPÍTULO CUARTO. DEL CERTIFICADO DE FIRMA ELECTRÓNICA
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 29 DE JUNIO DE 2012)</small>
+
+### CAPÍTULO QUINTO. DEL CERTIFICADO DE FIRMA ELECTRÓNICA
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
 ###### Artículo 21.
 
-La autoridad certificadora y los prestadores de servicio de certificación acreditados, deberán comprobar fehacientemente la identidad del solicitante antes de la emisión del certificado correspondiente.
-
-Dicha comprobación se hará requiriendo la comparecencia personal y directa del solicitante o de su representante legal tratándose de una persona jurídica colectiva.
+La autoridad certificadora y los prestadores de servicio de certificación acreditados deberán comprobar fehacientemente la identidad del solicitante antes de la emisión del certificado correspondiente.
 
 ###### Artículo 22.
 
-Los datos de creación de firma, cuando sean generados por la autoridad certificadora o los prestadores de servicios de certificación, deberán ser entregados al titular del Certificado de Firma Electrónica garantizando la recepción de los mismos.
+(DEROGADO, P.O. 29 DE JUNIO DE 2012)
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
 ###### Artículo 23.
 
-El Certificado de Firma Electrónica podrá ser utilizado por su titular, conforme a lo establecido en las prácticas de certificación expedidas por la autoridad certificadora.
+El Certificado de Firma Electrónica deberá ser utilizado por su titular conforme a lo establecido en la Declaración de Prácticas y Políticas de Certificación expedidas por la autoridad certificadora.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
 ###### Artículo 24.
 
-El Certificado de Firma Electrónica deberá permitir a quien lo reciba, verificar en forma directa o mediante consulta electrónica, que ha sido emitido por la autoridad certificadora o por un prestador de servicios de certificación autorizado, con la finalidad de comprobar la validez del mismo.
+El Certificado de Firma Electrónica deberá permitir a quien lo reciba verificar, en forma directa o mediante consulta electrónica, que ha sido emitido por la autoridad certificadora o por un prestador de servicios de certificación autorizado, con la finalidad de comprobar la validez del mismo.
 
 ###### Artículo 25.
 
@@ -253,11 +333,17 @@ Para la obtención de un certificado de firma electrónica, se deberán satisfac
 
 I.- Presentar solicitud en el formato correspondiente;
 
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
 II.- Las personas físicas que ostenten la representación legal de una persona jurídica colectiva, deberán acompañar copia certificada de su acta constitutiva y, en su caso, del instrumento que acredite su personalidad, debidamente inscritos en el Registro Público de la Propiedad y del Comercio;
 
-III.- Realizar el pago de los derechos correspondientes; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
 
-IV.- Proporcionar la información complementaria que se le solicite, en términos de la Ley y este u otros Reglamentos.
+III.- Realizar el pago de los derechos correspondientes y,
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+IV.- Proporcionar la información complementaria que se le solicite, en términos de la Ley, Reglamento y Declaración de Prácticas y Políticas de Certificación expedidas por la autoridad certificadora.
 
 ###### Artículo 26.
 
@@ -267,29 +353,45 @@ Si la solicitud fuese confusa o incompleta, se requerirá al solicitante para qu
 
 Si transcurrido el término que se señala en el párrafo primero de este artículo, no se resuelve nada respecto a la solicitud, ésta se entenderá resuelta en sentido negativo.
 
-### CAPÍTULO QUINTO. DEL REGISTRO DE CERTIFICACIÓN DE FIRMA ELECTRÓNICA DEL PODER JUDICIAL
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 29 DE JUNIO DE 2012)</small>
+
+### CAPÍTULO SEXTO. DEL REGISTRO DE CERTIFICACIÓN DE FIRMA ELECTRÓNICA DEL PODER JUDICIAL
 
 ###### Artículo 27.
 
 La autoridad certificadora integrará y operará el Registro de Certificados de Firma Electrónica del Poder Judicial, conforme a lo siguiente:
 
-I.- El registro de Certificados de Firma Electrónica será público y deberá mantener permanentemente actualizada la información que corresponda a los certificados de firma electrónica, indicando si los mismos se encuentran vigentes, revocados, suspendidos, cancelados, traspasados a otro prestador de servicios de certificación u homologados.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
 
-II.- Dicha información podrá ser consultada de las inscripciones del Registro.
+I.- El registro de Certificados de Firma Electrónica será público y deberá mantener permanentemente actualizada la información que corresponda a los certificados de firma electrónica, indicando si los mismos se encuentran vigentes, revocados, suspendidos, cancelados, traspasados a otro prestador de servicios de certificación u homologados;
 
-III.- No podrá alegar ignorancia de las inscripciones del Registro.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
 
-IV.- El Registro comprenderá los Certificados de Firma Electrónica expedidos por la autoridad certificadora, así como los que expidan los prestadores de servicios de certificación autorizados en términos del artículo 25 de la Ley; y (sic)
+II.- Dicha información podrá ser consultada de las inscripciones del Registro;
 
-V.- Se deberá inscribir la constancia de homologación de los Certificados de Firma Electrónica.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+III.- No podrá alegar ignorancia de las inscripciones del Registro;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+IV.- El Registro comprenderá los Certificados de Firma Electrónica expedidos por la autoridad certificadora, así como los que expidan los prestadores de servicios de certificación autorizados en términos del artículo 25 de la Ley;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+V.- Se deberá inscribir la constancia de homologación de los Certificados de Firma Electrónica y,
 
 VI.- Los convenios que se suscriban entre la autoridad certificadora y los sujetos de la Ley deberán estar inscritos en el Registro.
 
-### CAPÍTULO SEXTO. DE LA HOMOLOGACIÓN DEL CERTIFICADO DE FIRMA ELECTRÓNICA Y DEL SERVICIO DE CONSIGNACIÓN Y REGISTRO
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 29 DE JUNIO DE 2012)</small>
+
+### CAPÍTULO SÉPTIMO. DE LA HOMOLOGACIÓN DEL CERTIFICADO DE FIRMA ELECTRÓNICA Y DEL SERVICIO DE CONSIGNACIÓN Y REGISTRO
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
 ###### Artículo 28.
 
-La autoridad certificadora podrá homologar los Certificados de Firma Electrónica expedidos por otras autoridades certificadoras, previa verificación de que se hayan expedido cumpliendo con las normas técnicas y la tecnología necesarias, de conformidad con lo previsto en este Reglamento y las prácticas de certificación.
+La autoridad certificadora podrá homologar los Certificados de Firma Electrónica expedidos por otras autoridades certificadoras, previa verificación de que se hayan expedido cumpliendo con las normas técnicas y la tecnología necesarias, de conformidad con lo previsto en este Reglamento y la Declaración de Prácticas y Políticas de Certificación.
 
 ###### Artículo 29.
 
@@ -299,7 +401,9 @@ I.- Exhibirse en original el Certificado de Firma Electrónica que se pretenda h
 
 II.- Proporcionar los datos requeridos en el procedimiento relativo a la obtención de un Certificado de Firma Electrónica previstos en este Reglamento;
 
-III.- Registrar el Certificado y la firma electrónica en el Registro de Certificados de Firma Electrónica del Poder Judicial; y,
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+III. Registrar el Certificado y la firma electrónica en el Registro de Certificados de Firma Electrónica del Poder Judicial y,
 
 IV.- Efectuar el pago de los derechos que correspondan.
 
@@ -311,7 +415,9 @@ El servicio de consignación consistirá en la acreditación por la autoridad ce
 
 Una vez que el solicitante ha cumplido con los requisitos establecidos por la autoridad certificadora o por el prestador de servicios de certificación, éstos deberán entregar al titular de la firma un Certificado de Firma Electrónica en el medio de almacenamiento electrónico que el titular haya elegido, así como una constancia de certificación de su firma electrónica, que describa las características del Certificado.
 
-### CAPÍTULO SÉPTIMO. DE LA EXTINCIÓN DE LOS CERTIFICADOS DE FIRMA ELECTRÓNICA
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 29 DE JUNIO DE 2012)</small>
+
+### CAPÍTULO OCTAVO. DE LA EXTINCIÓN DE LOS CERTIFICADOS DE FIRMA ELECTRÓNICA
 
 #### SECCIÓN PRIMERA. DE LOS SUPUESTOS DE EXTINCIÓN
 
@@ -325,29 +431,39 @@ La revocación de un Certificado de Firma Electrónica procederá por las siguie
 
 I.- Incumplimiento de las obligaciones previstas en la Ley o en este Reglamento;
 
-II.- Modificación o alteración del Certificado de Firma Electrónica o la firma electrónica expedida de conformidad con la Ley y este Reglamento; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+II.- Modificación o alteración del Certificado de Firma Electrónica o la firma electrónica expedida de conformidad con la Ley y este Reglamento y,
 
 III.- Uso indebido o ilícito del Certificado de Firma Electrónica o de la firma electrónica.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2012)</small>
+
 ###### Artículo 34.
 
-La suspensión de un Certificado de Firma Electrónica, procederá por las siguientes causas:
+La suspensión de un Certificado de Firma Electrónica procederá por las siguientes causas:
 
 I.- Como medida precautoria frente a un riesgo de confidencialidad de la clave privada;
 
-II.- Por solicitud del titular del Certificado de Firma Electrónica, de su representante o por mandato de la autoridad competente; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+II.- Por solicitud del titular del Certificado de Firma Electrónica, de su representante o por mandato de la autoridad competente y,
 
 III.- Por incapacidad superveniente total o parcial del titular o de su representante.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2012)</small>
+
 ###### Artículo 35.
 
-La cancelación de un Certificado de Firma Electrónica, procederá por las siguientes causas:
+La cancelación de un Certificado de Firma Electrónica procederá por las siguientes causas:
 
 I.- Cuando el servidor público deje de prestar sus servicios;
 
 II.- Por pérdida, robo o inutilización del Certificado de Firma Electrónica;
 
-III.- Por fallecimiento del firmante o su representante, así como en los casos de terminación de la representación o extinción de la persona jurídica colectiva representada; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+III.- Por fallecimiento del firmante o su representante, así como en los casos de terminación de la representación o extinción de la persona jurídica colectiva representada y,
 
 IV.- Por solicitud del titular del Certificado de Firma Electrónica.
 
@@ -357,9 +473,11 @@ IV.- Por solicitud del titular del Certificado de Firma Electrónica.
 
 La autoridad certificadora será competente para conocer, sustanciar y resolver el procedimiento administrativo que tenga por objeto revocar, suspender o cancelar un Certificado de Firma Electrónica.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2012)</small>
+
 ###### Artículo 37.
 
-El procedimiento para revocar o suspender un Certificado de Firma Electrónica, se regirá por las siguientes reglas:
+El procedimiento para revocar o suspender un Certificado de Firma Electrónica se regirá por las siguientes reglas:
 
 I.- Se iniciará de oficio por la autoridad certificadora o a petición del titular del Certificado de Firma Electrónica, según corresponda;
 
@@ -369,7 +487,9 @@ III.- Se notificará personalmente al titular del Certificado de Firma Electrón
 
 IV.- La autoridad certificadora abrirá un periodo probatorio de diez días hábiles para desahogar las pruebas ofrecidas;
 
-V.- Transcurrido el plazo anterior, la autoridad certificadora emitirá la resolución correspondiente en un término no mayor de cinco días hábiles; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+V.- Transcurrido el plazo anterior, la autoridad certificadora emitirá la resolución correspondiente en un término no mayor de cinco días hábiles y,
 
 VI.- La resolución se notificará personalmente al titular del Certificado de Firma Electrónica.
 
@@ -381,7 +501,9 @@ I.- En caso de pérdida, robo o inutilización del Certificado de Firma Electró
 
 II.- En el supuesto de que el titular del Certificado de Firma Electrónica deje de prestar sus servicios o fallezca, será el superior jerárquico quien presente la solicitud de cancelación ante la autoridad certificadora;
 
-III.- En caso de que el representante legal de una persona jurídica colectiva deje de fungir como tal o fallezca, será la persona a quien se encomiende dicha representación, la que deba presentar la solicitud de cancelación del Certificado de Firma Electrónica; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+III.- En caso de que el representante legal de una persona jurídica colectiva deje de fungir como tal o fallezca, será la persona a quien se encomiende dicha representación, la que deba presentar la solicitud de cancelación del Certificado de Firma Electrónica y,
 
 IV.- El Certificado de Firma Electrónica dejará de surtir efectos a partir de la fecha en que la autoridad certificadora tenga conocimiento cierto de la causa y así lo haga constar en el registro de certificados.
 
@@ -401,7 +523,9 @@ Las notificaciones serán personales:
 
 I.- Cuando se cite a las personas sujetas a los procedimientos contemplados en este Reglamento;
 
-II.- Cuando se notifique la resolución que ponga fin al procedimiento; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+II.- Cuando se notifique la resolución que ponga fin al procedimiento y,
 
 III.- Cuando la autoridad certificadora estime que se trata de un caso urgente o de alguna circunstancia especial que así lo haga necesario.
 
@@ -433,11 +557,19 @@ Los términos, salvo disposición diversa de la Ley empezarán a correr a partir
 
 Cuando la Ley o el Reglamento no señalen término para la práctica de alguna diligencia o para el ejercicio de algún derecho, se tendrá por señalado el de tres días hábiles.
 
-### CAPÍTULO OCTAVO. DE LOS PROCESOS ADMINISTRATIVOS INTERNOS PARA USO DE MEDIOS ELECTRÓNICOS Y FIRMA ELECTRÓNICA
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 29 DE JUNIO DE 2012)</small>
+
+### CAPÍTULO NOVENO. DE LOS PROCESOS ADMINISTRATIVOS INTERNOS PARA USO DE MEDIOS ELECTRÓNICOS Y FIRMA ELECTRÓNICA
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
 ###### Artículo 47.
 
-Para utilizar la firma electrónica los servidores públicos del Poder Judicial deberán contar con certificado de Firma Electrónica, una clave de acceso y contraseña, los cuales les serán proporcionados por la autoridad certificadora.
+El Consejo determinará los actos y trámites administrativos internos que los servidores públicos del Poder Judicial deberán realizar por medios electrónicos y mediante el uso de firma electrónica o firma electrónica certificada.
+
+Para utilizar la firma electrónica, los servidores públicos del Poder Judicial contarán con una clave de acceso y contraseña que serán proporcionadas por la Dirección de Informática, o en su caso, podrán ser generadas por el propio servidor público a través del módulo respectivo del sistema de información, bajo la estricta vigilancia y autorización del superior jerárquico.
+
+Tratándose de firma electrónica certificada, se estará a las disposiciones señaladas en la Ley, este Reglamento y en la Declaración de Prácticas y Políticas de Certificación que emita la Autoridad Certificadora, en cuanto a las claves de acceso, contraseñas, solicitud, uso, requisitos y demás normas relacionados con el Certificado de Firma Electrónica.
 
 ###### Artículo 48.
 
@@ -445,31 +577,35 @@ Los servidores públicos del Poder Judicial sólo podrán contar con una clave d
 
 ###### Artículo 49.
 
-Los servidores públicos del Poder Judicial que utilicen la Firma Electrónica tendrán el carácter de revisor, firmante, observador u operador, mismos que se definirán en los manuales y procedimientos de operación que se aprueben por el Consejo.
+(DEROGADO, P.O. 29 DE JUNIO DE 2012)
 
 ###### Artículo 50.
 
 Los Usuarios son responsables del buen uso de los Sistemas de Información.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
+
 ###### Artículo 51.
 
-La Secretaría General recibirá las solicitudes de altas, modificación, cancelación de claves de acceso y contraseñas y las dirigirá a la Dirección de Informática con el acuerdo correspondiente.
+La Dirección de Informática recibirá las solicitudes de altas, modificación y cancelación de claves de acceso y contraseña, y procederá en consecuencia.
 
 ###### Artículo 52.
 
-El Director General de Administración otorgará las claves de acceso y contraseñas.
+(DEROGADO, P.O. 29 DE JUNIO DE 2012)
 
 ###### Artículo 53.
 
-La Dirección General de Administración solicitará a la autoridad certificadora el registro, suspensión o cancelación de certificados de Firma Electrónica de los servidores públicos del Poder Judicial.
+(DEROGADO, P.O. 29 DE JUNIO DE 2012)
 
 ###### Artículo 54.
 
-La Autoridad Certificadora comunicará las respuestas de las referidas solicitudes a la Dirección General de Administración y al usuario en los términos de este Reglamento.
+(DEROGADO, P.O. 29 DE JUNIO DE 2012)
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
 ###### Artículo 55.
 
-El Certificado de Firma Electrónica se almacenará en una Tarjeta Inteligente que estará bajo el resguardo del Usuario. Este certificado tendrá una vigencia de 24 meses, contados a partir de su expedición.
+El Certificado de Firma Electrónica se almacenará en una Tarjeta Inteligente o en cualquier otro dispositivo electrónico que disponga la autoridad certificadora con autorización del Consejo, mismos que estarán bajo el resguardo del Usuario. Este certificado tendrá una vigencia de 24 meses, contados a partir de su expedición.
 
 Artículo 57 (sic).- El Usuario en lo que se refiere a su clave de acceso, Contraseña y certificado de Firma Electrónicas (sic), será responsable de:
 
@@ -481,23 +617,29 @@ III.- Otorgar ante la Autoridad Certificadora el acuse de recibo con firma autó
 
 IV.- Mantener informado a la Autoridad Certificadora sobre cualquier cambio en los datos personales o laborales;
 
-V.- Modificar la contraseña una vez realizado el primer acceso a los Sistemas de Información del Poder Judicial; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
 
-VI.- Las demás que establezcan otras disposiciones
+V.- Modificar la contraseña una vez realizado el primer acceso a los Sistemas de Información del Poder Judicial y,
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+VI.- Las demás que establezcan las leyes aplicables y la Declaración de Prácticas y Políticas de Certificación expedidas por la Autoridad Certificadora.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
 ###### Artículo 58.
 
-La Dirección General de Administración será responsable de:
+La Secretaría General del Consejo con apoyo de la Dirección de Informática será responsable de:
 
-I.- Asegurar la integridad y veracidad de la información registrada en los Sistemas Electrónicos;
+I. Asegurar la integridad y veracidad de la información registrada en los Sistemas de Información;
 
-II.- Resguardar la documentación original que sirvió de soporte para la realización de los trámites administrativos en los Sistemas Electrónicos;
+II. Resguardar la documentación original que sirvió de soporte para la realización de los trámites administrativos en los Sistemas de Información;
 
-III.- Integrar, resguardar y mantener actualizada la información de los Usuarios que contengan los expedientes sobre las solicitudes de las altas, bajas o modificación de claves de acceso y contraseñas, así como las altas, reexpedición o revocación de los certificados digitales;
+III. Integrar, resguardar y mantener actualizada la información de los Usuarios que contengan los expedientes sobre las solicitudes de las altas, bajas o modificación de claves de acceso y contraseñas, así como las altas, reexpedición o revocación de los Certificados de Firma Electrónica;
 
-IV.- Proveer los medios electrónicos necesarios con el propósito de que los Usuarios estén en condiciones de generar su certificado de Firma Electrónica y firmar electrónicamente, en los Sistemas de Información, en coordinación con la Dirección de Informática, y
+IV. Proveer los medios electrónicos necesarios con el propósito de que los Usuarios estén en condiciones de generar su Certificado de Firma Electrónica y firmar electrónicamente en los Sistemas de Información y,
 
-V.- Las demás que establezcan otras disposiciones.
+V. Las demás que establezcan las leyes aplicables y la Declaración de Prácticas y Políticas de Certificación expedidas por la Autoridad Certificadora.
 
 ###### Artículo 59.
 
@@ -507,9 +649,13 @@ I.- Interpretar el presente Reglamento y resolver sobre los aspectos administrat
 
 II.- Emitir criterios y disposiciones para la utilización de los Sistemas de Información;
 
-III.- Cancelar los certificados de Firma Electrónica en los casos establecidos en este Reglamento; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
 
-IV.- Las demás que establezcan otras disposiciones.
+III.- Cancelar los certificados de Firma Electrónica en los casos establecidos en este Reglamento y,
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+IV.- Las demás que establezcan las leyes aplicables y la Declaración de Prácticas y Políticas de Certificación expedidas por la Autoridad Certificadora.
 
 ###### Artículo 60.
 
@@ -523,43 +669,69 @@ III.- Cuidar la seguridad, protección y confidencialidad de las bases de datos 
 
 IV.- Cumplir con las instrucciones que le gire la Autoridad Certificadora;
 
-V.- Asesorar a la Autoridad Certificadora; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
 
-VI.- Las demás que establezcan otras disposiciones.
+V.- Asesorar a la Autoridad Certificadora y,
 
-### CAPÍTULO NOVENO. DEL RECIBO ELECTRÓNICO
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+VI.- Las demás que establezcan las leyes aplicables y la Declaración de Prácticas y Políticas de Certificación expedidas por la Autoridad Certificadora.
+
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 29 DE JUNIO DE 2012)</small>
+
+### CAPÍTULO DÉCIMO. DEL RECIBO ELECTRÓNICO
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
 ###### Artículo 61.
 
-Los actos y trámites administrativos firmados electrónicamente de conformidad con el presente Reglamento, contarán con un recibo electrónico que emitirán los Sistemas de información.
+Los actos y trámites administrativos firmados electrónicamente de conformidad con el presente Reglamento, contarán con un recibo electrónico que emitirán los Sistemas de Información.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
 ###### Artículo 62.
 
-Los Usuarios serán responsables de los actos y trámites administrativos que realicen en los Sistemas de información utilizando firma electrónica, desde el momento de obtener su certificado de Firma Electrónica.
+Los Usuarios serán responsables de los actos y trámites administrativos que realicen en los Sistemas de información utilizando firma electrónica.
 
 ###### Artículo 63.
 
 Los documentos generados electrónicamente con motivo de los actos o trámites administrativos que se realicen en los Sistemas de Información, se archivarán de manera electrónica en los referidos sistemas y deberán conservarse durante el tiempo que establezcan las disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
+
 ###### Artículo 64.
 
-La Autoridad Certificadora, apoyada en la Dirección de Informática, con la periodicidad y especificaciones técnicas informáticas requeridas, compilará, respaldará y resguardará los trámites administrativos que se realicen en los Sistemas Electrónicos, así como la documentación adicional que juzgue pertinente.
+La Autoridad Certificadora, apoyada en la Dirección de Informática, con la periodicidad y especificaciones técnicas informáticas requeridas, compilará, respaldará y resguardará los trámites administrativos que se realicen en los Sistemas de Información, así como la documentación adicional que juzgue pertinente.
 
-### CAPÍTULO DÉCIMO. DE LOS BIENES INFORMÁTICOS
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 29 DE JUNIO DE 2012)</small>
+
+CAPÍTULO DECIMOPRIMERO
+
+DE LOS BIENES INFORMÁTICOS
 
 ###### Artículo 65.
 
 La Dirección de Informática tendrá a su cargo los siguientes bienes informáticos:
 
-I.- Formato Único de Registro de Firma Electrónica para ser debidamente requisitado.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
 
-II.- Tarjeta inteligente para cada Usuario.
+I.- Formato Único de Registro de Firma Electrónica para ser debidamente requisitado;
 
-III.- Lectores de tarjetas.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
 
-IV.- Software de instalación de tarjetas inteligentes y lectoras.
+II.- Tarjeta inteligente o cualquier otro dispositivo electrónico autorizado por la Autoridad Certificadora o el Consejo;
 
-V.- Manual de Procedimientos para Operación de la Firma Electrónica en los Sistemas Electrónicos en el Poder Judicial.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+III.- Lectores de tarjetas;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+IV.- Software de instalación de tarjetas inteligentes y lectoras y,
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+
+V.- Manual de Procedimientos para Operación de la Firma Electrónica en los Sistemas de Información del Poder Judicial.
 
 ###### Artículo 66.
 
@@ -569,17 +741,23 @@ La Dirección General de Administración asignará los bienes informáticos conf
 
 La Dirección General de Administración tendrá siempre conocimiento de la ubicación de los bienes informáticos asignados a los Usuarios, quedando los usuarios obligados a notificar cualquier cambio al respecto.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
+
 ###### Artículo 68.
 
-Los bienes informáticos se deberán utilizar única y exclusivamente para la operación de los Sistemas de Información, conservando El Poder Judicial, los derechos y la facultad de otorgar las licencias de uso correspondiente.
+Los bienes informáticos se deberán utilizar única y exclusivamente para la operación de los Sistemas de Información, conservando el Poder Judicial los derechos y la facultad de otorgar las licencias de uso correspondiente.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
 ###### Artículo 69.
 
-El usuario conservará en buen estado los bienes informáticos y dará aviso a la Dirección General de Administración, de cualquier situación de deterioro que pudiera afectarlos para que se tomen las acciones que correspondan.
+El usuario conservará en buen estado los bienes informáticos y dará aviso a la Dirección General de Administración o a la Dirección de Informática de cualquier situación de deterioro que pudiera afectarlos para que se tomen las acciones que correspondan.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
 ###### Artículo 70.
 
-El Poder Judicial podrá supervisar en cualquier momento los bienes informáticos entregados para el sistema de firma electrónica.
+El Poder Judicial podrá supervisar en cualquier momento los bienes informáticos entregados para el uso de los Sistemas de Información.
 
 ###### Artículo 71.
 
@@ -591,7 +769,9 @@ PRIMERO.- El presente Reglamento acuerdo (sic) entrará en vigor al día siguien
 
 SEGUNDO.- Los Sistemas de Información deberán utilizarse en términos del presente Reglamento, así como de los manuales y procedimientos de operación que la Autoridad Certificadora expedirá.
 
-TERCERO.- El Poder Judicial podrá celebrar convenios con el Pode (sic) Ejecutivo y su autoridad certificadora para adoptar prácticas y servicios en materia de Usos de medios electrónicos, registro de certificados de firma electrónica y uso de firma electrónica.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
+
+TERCERO.- El Poder Judicial podrá celebrar convenios con el Poder Ejecutivo y su autoridad certificadora para adoptar prácticas y servicios en materia de Usos de medios electrónicos, registro de certificados de firma electrónica y uso de firma electrónica.
 
 El Consejo del Poder Judicial del Estado.- Presidente.- Lic. Héctor Manuel Ramírez Sánchez.- Consejeros Magistrados.- Lic. Tobías García Tovar.- Lic. Nora Maritza Hernández Castro.- Lic. J. Jesús Badillo Lara.- Lic. Carlos Eduardo Hernández Pérez.- Secretario General.- Lic. Francisco Javier Zamora Rocha.- Seis firmas ilegibles.- firmado.-
 
@@ -600,3 +780,11 @@ Lo anterior, se asienta para debida constancia, y efectos legales a que haya lug
 El Secretario General del Consejo del Poder Judicial del Estado.
 
 Lic. Francisco Javier Zamora Rocha
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE JUNIO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+Las reformas a este reglamento entrarán en vigor al cuarto día de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
