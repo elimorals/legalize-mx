@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-de-44466"
 country: "mx"
 rank: "otro"
 publication_date: "1999-04-19"
-last_updated: "2010-09-23"
+last_updated: "2012-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44466&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,45 +19,55 @@ issue_date: "1999-03-23"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO DE COMPLEMENTACION ECONOMICA NO. 6 (ARGENTINA, 2004)
 
-DECRETO POR EL QUE SE MODIFICA LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION, EL DECRETO POR EL QUE SE ESTABLECEN DIVERSOS PROGRAMAS DE PROMOCION SECTORIAL, ASI COMO LOS DIVERSOS QUE ESTABLECEN EL IMPUESTO GENERAL DE IMPORTACION PARA LA REGION FRONTERIZA Y LA FRANJA FRONTERIZA NORTE, LA TASA O PREFERENCIA ARANCELARIA APLICABLE, RESPECTO DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE ALGUNOS PAISES CON LOS QUE MEXICO HA CELEBRADO ACUERDOS COMERCIALES
+ACUERDO POR EL QUE SE DAN A CONOCER LAS PREFERENCIAS ARANCELARIAS DEL DECIMOQUINTO PROTOCOLO ADICIONAL AL ACUERDO DE COMPLEMENTACIÓN ECONÓMICA NO. 6 CELEBRADO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPÚBLICA ARGENTINA
 
-Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 23 de septiembre de 2010.
+Acuerdo publicado en la Quinta y Sexta Sección del Diario Oficial de la Federación, el viernes 29 de junio de 2012.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 4o., fracción I, 12 y 13 de la Ley de Comercio Exterior, y
+Con fundamento en los artículos 133 de la Constitución Política de los Estados Unidos Mexicanos; 34, fracción XXXI de la Ley Orgánica de la Administración Pública Federal; 5o., fracción X de la Ley de Comercio Exterior; 5, fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que para permitir que la industria nacional se abastezca de insumos necesarios para la producción de bienes en condiciones competitivas, es propicio eliminar el arancel aplicable a la importación de ciertos productos tales como la harina de algarroba, para la industria alimentaria; el mancozeb, para la industria agrícola; y el caucho butadieno, para la industria de manufacturas de hule;
+Que el 28 de diciembre de 1980 el Senado de la República aprobó el Tratado de Montevideo 1980, cuyo Decreto de promulgación se publicó en el Diario Oficial de la Federación el 31 de marzo de 1981, con objeto de dar continuidad al proceso de integración latinoamericano y establecer a largo plazo, en forma gradual y progresiva, un mercado común, para lo cual se instituyó la Asociación Latinoamericana de Integración;
 
-Que a fin de brindar mayor claridad en la redacción de ciertas fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación y evitar discrepancias en la interpretación por parte de los operadores del comercio exterior, resulta conveniente modificar la descripción de algunas fracciones arancelarias como es el caso de aquellas que comprenden desinfectantes de nariz y garganta, aditivos para aceites lubricantes y cuerdas de tripa;
+Que en el marco del Tratado de Montevideo 1980, los Estados Unidos Mexicanos y la República Argentina suscribieron, el 24 de octubre de 1986, el Acuerdo de Complementación Económica No. 6 (ACE No. 6);
 
-Que con el objeto de dar mayor certeza a las importaciones o exportaciones del aceite diesel y sus mezclas, y facilitar el monitoreo de las operaciones de comercio exterior que de los mismos se deriven, sin entorpecer las de otros productos petrolíferos, es imprescindible individualizar en una sola fracción arancelaria los bienes citados;
+Que el 24 de agosto de 2006, los Estados Unidos Mexicanos y la República Argentina suscribieron el Decimoquinto Protocolo Adicional al ACE No. 6 (Decimoquinto Protocolo), mediante el cual se adoptó el texto ordenado y consolidado de dicho Acuerdo y se pactaron las disposiciones vigentes que rigen el comercio bilateral de las Partes, el cual se dio a conocer mediante Acuerdo publicado en el Diario Oficial de la Federación el 22 de noviembre de 2006;
 
-Que la comercialización a nivel mundial de especialidades de café en pequeños envases individuales para elaborar café expresso, latte o capuchino, principalmente, ha tenido un importante incremento en los últimos años, generando en México un mercado potencial favorable para la inversión y, por ende, la creación de empleos, y tomando en cuenta además, que la importación de estas especialidades no daña a la producción nacional, sino que la complementa, se considera conveniente establecer un arancel-cupo para estos productos y así crear las condiciones para detonar el mercado de especialidades de café;
+Que el Artículo 3 del Decimoquinto Protocolo confirma la vigencia de los Anexos I y Il del Programa de Liberación, exclusivamente en lo que se refiere a las preferencias arancelarias pactadas con anterioridad en el Acuerdo original y sus protocolos;
 
-Que a efecto de actualizar la lista de fracciones arancelarias para la región fronteriza y la franja fronteriza norte del país, es necesario reformar el Decreto por el que se establece el impuesto general de importación para la región fronteriza y la franja fronteriza norte, publicado en el Diario Oficial de la Federación el 24 de diciembre de 2008 y sus modificaciones posteriores;
+Que de conformidad con lo previsto en el Artículo 5 del Decimoquinto Protocolo se incorporaron al Programa de Liberación del Acuerdo las preferencias arancelarias que los Estados Unidos Mexicanos otorgan a la República Argentina en el Anexo IV del ACE No. 6;
 
-Que las modificaciones arancelarias antes señaladas, hacen necesario actualizar los decretos por los que se establecen las preferencias arancelarias de los Acuerdos de Complementación Económica y Regionales de Apertura de Mercados y de Preferencia Arancelaria Regional, y
+Que el 26 de junio de 2007 se publicó en el Diario Oficial de la Federación el Acuerdo por el que se dan a conocer las modificaciones al Decimoquinto Protocolo Adicional al Acuerdo de Complementación Económica No. 6, suscrito entre los Estados Unidos Mexicanos y la República Argentina;
 
-Que conforme a lo dispuesto en la Ley de Comercio Exterior, las medidas arancelarias a que se refiere el presente Decreto fueron opinadas favorablemente por la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente
+Que el 26 de junio de 2009 la Organización Mundial de Aduanas adoptó la Quinta Enmienda al Sistema Armonizado de Designación y Codificación de Mercancías que incluye, entre otras, modificaciones a las notas legales, la eliminación de varias subpartidas que describen productos que han reportado escaso movimiento comercial, así como la creación o reestructuración de otras para identificar productos nuevos en el comercio mundial;
 
-DECRETO
+Que el 18 de junio de 2007 se publicó en el Diario Oficial de la Federación la Ley de los Impuestos Generales de Importación y de Exportación, en la que se establece la Tarifa con los aranceles aplicables a la importación de mercancías al territorio nacional;
 
-….
+Que el Decreto por el que se modifican la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación; el diverso por el que se modifican diversos aranceles de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación; los diversos por los que se establece el esquema de importación a la Franja Fronteriza Norte y Región Fronteriza, y el diverso por el que se establece el impuesto general de importación para la región fronteriza y la franja fronteriza norte, tiene por objeto adoptar a partir del 1 de julio de 2012, las modificaciones derivadas de la Quinta Enmienda antes señalada, y
 
-V. Tratados y Acuerdos Comerciales.
+Que en razón de lo anterior, y siendo necesario dar a conocer a los operadores y autoridades aduaneras las preferencias arancelarias acordadas en el Décimo Quinto Protocolo Adicional al ACE No. 6, se expide el siguiente
 
-…
+Acuerdo
 
-###### ARTÍCULO 12.
+Primero.- Los Estados Unidos Mexicanos otorgarán las preferencias arancelarias y canasta C de desgravación de conformidad con el presente punto, para las importaciones originarias y procedentes de la República Argentina, clasificadas en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, listadas en las columnas (1) y (2), con las acotaciones correspondientes, en su caso, de la columna (3), conforme al porcentaje o literal C indicado en la columna (4) de la tabla contenida al final del presente Acuerdo:
 
-Se modifica la Tabla del Artículo Segundo del Decreto para la aplicación del Decimoquinto Protocolo Adicional al Acuerdo de Complementación Económica No. 6, suscrito entre los Estados Unidos Mexicanos y la República Argentina, publicado en el Diario Oficial de la Federación el 30 de marzo de 2009 y sus modificaciones posteriores, en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que a continuación se indican, para quedar como sigue:
+margen de preferencia porcentual
 
-"Tabla de las preferencias arancelarias porcentuales o canastas de desgravación que otorgan los Estados Unidos Mexicanos a la República Argentina en el Acuerdo de Complementación Económica No. 6
+Cronograma A partir de A partir de A partir de
 
-(VEASE ARCHIVO ANEXO)
+01/01/2012 01/01/2013 01/01/2014
+
+Canasta C 80 90 100
+
+Segundo.- Para efectos de la aplicación del punto Primero del presente Acuerdo, se estará a lo dispuesto en la Tabla de las preferencias arancelarias porcentuales o canasta de desgravación C que otorgan los Estados Unidos Mexicanos a la República Argentina en el marco del Acuerdo de Complementación Económica No. 6., misma que se encuentra al final del presente Acuerdo.
+
+Tercero.- La determinación de origen de los productos a que se refiere el presente Acuerdo, así como la declaración, certificación, control, comprobación de origen, expedición, transporte y tránsito de las mercancías, se regirá por lo previsto en el Anexo VI “Régimen de Origen y Procedimientos Aduaneros para el Control y Verificación del Origen de las Mercancías” del Decimoquinto Protocolo Adicional al Acuerdo de Complementación Económica No. 6 suscrito entre los Estados Unidos Mexicanos y la República Argentina.
+
+Cuarto.- Los cupos de importación en la cantidad, volumen o valor que se señalan para algunos productos con preferencias arancelarias, previstos en la columna (3) de la Tabla ubicada al final del presente Acuerdo, se aplicarán a productos que cuenten con certificado de cupo expedido por la Secretaría de Economía de conformidad con lo dispuesto por la Ley de Comercio Exterior.
+
+Quinto.- Lo dispuesto en el presente Acuerdo no libera del cumplimiento de las medidas de regulación y restricción no arancelarias, en términos de lo dispuesto en los tratados de libre comercio celebrados por México, la Ley de Comercio Exterior, la Ley Aduanera y las demás disposiciones aplicables.
 
 ###### ARTICULO 4.
 
@@ -89,10 +99,12 @@ http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A
 
 http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042
 
-## TRANSITORIOS
+## TRANSITORIO
 
-PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+UNICO.- El presente Acuerdo entrará en vigor el 1 de julio de 2012.
 
-SEGUNDO.- La vigencia del artículo 2 del presente Decreto concluirá el 31 de diciembre de 2014.
+México, D.F., a 15 de junio de 2012.- El Secretario de Economía, Bruno Ferrari García de Alba.- Rúbrica.
 
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiuno de septiembre de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Ernesto Javier Cordero Arroyo.- Rúbrica.- El Secretario de Economía, Bruno Francisco Ferrari García de Alba.- Rúbrica.
+Tabla de las preferencias arancelarias porcentuales o canasta de desgravación C que otorgan los Estados Unidos Mexicanos a la República Argentina en el marco del Acuerdo de Complementación Económica No. 6
+
+> <small>N. DE E. VÉASE TABLAS EN LA QUINTA Y SEXTA SECCIÓN DEL D.O.F. DE 29 DE JUNIO DE 2012, PÁGINAS DE LA 3 A LA 128 Y DE LA 1 A LA 128 RESPECTIVAMENTE.</small>
