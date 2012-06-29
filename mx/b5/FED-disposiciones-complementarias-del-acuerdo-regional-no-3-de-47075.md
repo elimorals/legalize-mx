@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-regional-no-3-de-4707
 country: "mx"
 rank: "otro"
 publication_date: "2000-08-23"
-last_updated: "2010-09-23"
+last_updated: "2012-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47075&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,50 +19,44 @@ issue_date: "2000-08-11"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO REGIONAL No.3 DE APERTURA DE MERCADOS A FAVOR DE PARAGUAY (MULTILATERAL, 1983)
 
-DECRETO POR EL QUE SE MODIFICA LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION, EL DECRETO POR EL QUE SE ESTABLECEN DIVERSOS PROGRAMAS DE PROMOCION SECTORIAL, ASI COMO LOS DIVERSOS QUE ESTABLECEN EL IMPUESTO GENERAL DE IMPORTACION PARA LA REGION FRONTERIZA Y LA FRANJA FRONTERIZA NORTE, LA TASA O PREFERENCIA ARANCELARIA APLICABLE, RESPECTO DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE ALGUNOS PAISES CON LOS QUE MEXICO HA CELEBRADO ACUERDOS COMERCIALES
+ACUERDO POR EL QUE SE DAN A CONOCER LAS PREFERENCIAS ARANCELARIAS DEL ACUERDO REGIONAL NO. 3 DE APERTURA DE MERCADOS A FAVOR DE LA REPÚBLICA DEL PARAGUAY
 
-Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 23 de septiembre de 2010.
+Acuerdo publicado en la Decimoprimera Sección del Diario Oficial de la Federación, el viernes 29 de junio de 2012.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 4o., fracción I, 12 y 13 de la Ley de Comercio Exterior, y
+Con fundamento en los artículos 133 de la Constitución Política de los Estados Unidos Mexicanos; 34, fracción XXXI de la Ley Orgánica de la Administración Pública Federal; 5o., fracción X de la Ley de Comercio Exterior; 5, fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que para permitir que la industria nacional se abastezca de insumos necesarios para la producción de bienes en condiciones competitivas, es propicio eliminar el arancel aplicable a la importación de ciertos productos tales como la harina de algarroba, para la industria alimentaria; el mancozeb, para la industria agrícola; y el caucho butadieno, para la industria de manufacturas de hule;
+Que el 28 de diciembre de 1980 el Senado de la República aprobó el Tratado de Montevideo 1980 (Tratado), cuyo Decreto de promulgación se publicó en el Diario Oficial de la Federación el 31 de marzo de 1981, con objeto de dar continuidad al proceso de integración latinoamericano y establecer a largo plazo, en forma gradual y progresiva, un mercado común, para lo cual se instituyó la Asociación Latinoamericana de Integración;
 
-Que a fin de brindar mayor claridad en la redacción de ciertas fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación y evitar discrepancias en la interpretación por parte de los operadores del comercio exterior, resulta conveniente modificar la descripción de algunas fracciones arancelarias como es el caso de aquellas que comprenden desinfectantes de nariz y garganta, aditivos para aceites lubricantes y cuerdas de tripa;
+Que en el marco del Tratado, los Estados Unidos Mexicanos, la República Argentina, el Estado Plurinacional de Bolivia, la República Federativa del Brasil, la República de Colombia, la República de Chile, la República del Ecuador, la República del Paraguay, la República del Perú, la República Oriental del Uruguay y la República Bolivariana de Venezuela celebraron, el 30 de abril de 1983, el Acuerdo Regional No. 3 de Apertura de Mercados en favor de Paraguay (Acuerdo Regional No. 3), al cual posteriormente se adhirieron la República de Cuba y la República de Panamá;
 
-Que con el objeto de dar mayor certeza a las importaciones o exportaciones del aceite diesel y sus mezclas, y facilitar el monitoreo de las operaciones de comercio exterior que de los mismos se deriven, sin entorpecer las de otros productos petrolíferos, es imprescindible individualizar en una sola fracción arancelaria los bienes citados;
+Que en el Acuerdo Regional No. 3 las Partes pactaron otorgar en forma unilateral, a la República del Paraguay por ser un país de menor desarrollo económico, una Nómina de Apertura de Mercados, para la importación de productos con la eliminación de aranceles y de regulaciones no arancelarias, salvo las contempladas en el Artículo 50 del Tratado;
 
-Que la comercialización a nivel mundial de especialidades de café en pequeños envases individuales para elaborar café expresso, latte o capuchino, principalmente, ha tenido un importante incremento en los últimos años, generando en México un mercado potencial favorable para la inversión y, por ende, la creación de empleos, y tomando en cuenta además, que la importación de estas especialidades no daña a la producción nacional, sino que la complementa, se considera conveniente establecer un arancel-cupo para estos productos y así crear las condiciones para detonar el mercado de especialidades de café;
+Que el 16 de noviembre de 1994 los Estados Unidos Mexicanos negociaron la Nómina de Apertura de Mercados a favor de la República del Paraguay, en la que otorgó para algunos productos la exención del pago de los impuestos de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación;
 
-Que a efecto de actualizar la lista de fracciones arancelarias para la región fronteriza y la franja fronteriza norte del país, es necesario reformar el Decreto por el que se establece el impuesto general de importación para la región fronteriza y la franja fronteriza norte, publicado en el Diario Oficial de la Federación el 24 de diciembre de 2008 y sus modificaciones posteriores;
+Que el 29 de junio de 2009 la Organización Mundial de Aduanas adoptó la Quinta Enmienda al Sistema Armonizado de Designación y Codificación de Mercancías que incluye, entre otras, modificaciones a las notas legales, la eliminación de varias subpartidas que describen productos que han reportado escaso movimiento comercial, así como la creación o reestructuración de otras para identificar productos nuevos en el comercio mundial;
 
-Que las modificaciones arancelarias antes señaladas, hacen necesario actualizar los decretos por los que se establecen las preferencias arancelarias de los Acuerdos de Complementación Económica y Regionales de Apertura de Mercados y de Preferencia Arancelaria Regional, y
+Que el 18 de junio de 2007 se publicó en el Diario Oficial de la Federación la Ley de los Impuestos Generales de Importación y de Exportación, en la que se establece la Tarifa con los aranceles aplicables a la importación de mercancías al territorio nacional;
 
-Que conforme a lo dispuesto en la Ley de Comercio Exterior, las medidas arancelarias a que se refiere el presente Decreto fueron opinadas favorablemente por la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente
+Que el Decreto por el que se modifican la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación; el diverso por el que se modifican diversos aranceles de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación; los diversos por los que se establece el esquema de importación a la Franja Fronteriza Norte y Región Fronteriza, y el diverso por el que se establece el impuesto general de importación para la región fronteriza y la franja fronteriza norte, tiene por objeto adoptar a partir del 1 de julio de 2012, las modificaciones derivadas de la Quinta Enmienda antes señalada, y
 
-DECRETO
+Que en razón de lo anterior, y siendo necesario dar a conocer a los operadores y autoridades aduaneras las preferencias acordadas en el Acuerdo Regional No. 3, se expide el siguiente
 
-...
+Acuerdo
 
-V. Tratados y Acuerdos Comerciales.
+Primero.- Los Estados Unidos Mexicanos otorgarán a la República del Paraguay, la exención del pago de los aranceles de importación de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, de conformidad con la siguiente:
 
-...
+TABLA DE LOS PRODUCTOS INCLUIDOS EN LA NOMINA DE APERTURA DE MERCADOS EN FAVOR DE LA REPUBLICA DEL PARAGUAY, EN EL ACUERDO REGIONAL No. 3 DE APERTURA DE MERCADOS EN FAVOR DE PARAGUAY, QUE ESTAN EXENTOS DEL PAGO DE LOS ARANCELES DE IMPORTACION DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION
 
-###### ARTÍCULO 7.
+> <small>N. DE E. VÉASE TABLAS EN LA DECIMOPRIMERA SECCIÓN DEL D.O.F. DE 29 DE JUNIO DE 2012, PÁGINAS DE LA 112 A LA 128.</small>
 
-Se modifica la Tabla del Artículo Único del Decreto para la aplicación del Acuerdo Regional No. 3 de Apertura de Mercados a favor de Paraguay, publicado en el Diario Oficial de la Federación el 16 de noviembre de 2007 y sus modificaciones posteriores, en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que a continuación se indican, para quedar como sigue:
+Segundo.- Lo dispuesto en el presente Acuerdo no libera del cumplimiento de medidas de regulación y restricción no arancelarias en términos de lo dispuesto en los tratados de libre comercio celebrados por México, la Ley de Comercio Exterior, la Ley Aduanera y las demás disposiciones aplicables.
 
-"Tabla de los productos incluidos en la nómina de apertura de mercados a favor de Paraguay, del Acuerdo Regional No. 3 de la Asociación Latinoamericana de Integración, que están exentos del pago de los aranceles de importación de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación
+## TRANSITORIO
 
-(VEASE ARCHIVO ANEXO)
+UNICO.- El presente Acuerdo entrará en vigor el 1 de julio de 2012.
 
-## TRANSITORIOS
-
-PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- La vigencia del artículo 2 del presente Decreto concluirá el 31 de diciembre de 2014.
-
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiuno de septiembre de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Ernesto Javier Cordero Arroyo.- Rúbrica.- El Secretario de Economía, Bruno Francisco Ferrari García de Alba.- Rúbrica.
+México, D.F., a 15 de junio de 2012.- El Secretario de Economía, Bruno Ferrari García de Alba.- Rúbrica.
