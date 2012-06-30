@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-de-la-ley-organica-del-poder-judicial-del-estado-295
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-12-11"
-last_updated: "2004-06-11"
+last_updated: "2012-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29556&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-REGLAMENTO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA
+REGLAMENTO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO LIBRE Y SOBERANO DE OAXACA, PUBLICADO EN P.O. DE 30 DE JUNIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 11 de diciembre de 1999.
 
@@ -357,7 +359,7 @@ III.- Tener amistad o enemistad con alguna de las partes.
 
 Los Peritos que encontrándose en alguno de los supuestos a que se refiere el artículo anterior, no se excusen de conocer de los asuntos en que se les haya designado Peritos, serán sancionados en los términos que prevé la Ley Orgánica del Poder Judicial del Estado por faltas a la función pública encomendada.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE JUNIO DE 2004)</small>
 
 ### CAPÍTULO II. DEL CENTRO DE MEDIACIÓN JUDICIAL
 
@@ -1135,10 +1137,28 @@ INDICE
 
 ## TRANSITORIOS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 11 DE JUNIO DE 2004.
 
 PRIMERO.- Publíquese el presente acuerdo por una vez en el Periódico Oficial del Gobierno del Estado, así como el Boletín del Poder Judicial del Estado.
 
 SEGUNDO.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE JUNIO DE 2012.
+
+PRIMERO. El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga el reglamento de la Ley Orgánica del Poder Judicial del Estado Libre y Soberano de Oaxaca publicada (sic) en el Periódico Oficial del Gobierno del Estado con fecha once de diciembre de mil novecientos noventa y nueve.
+
+P.O. 30 DE JUNIO DE 2012.
+
+Artículo Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Se abroga el Reglamento de la Ley Orgánica del Poder Judicial del Estado Libre y Soberano de Oaxaca publicada (sic) en el Periódico Oficial del Estado, con fecha once de diciembre de mil novecientos noventa y nueve.
+
+Artículo Tercero. Las quejas, cuadernos de antecedentes e instructivos de responsabilidad, así como procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Reglamento Interior, continuarán tramitándose hasta su conclusión conforme a las disposiciones con las que fueron iniciados.
+
+Artículo Cuarto. Los titulares de las Unidades Auxiliares de la Presidencia del Tribunal del Estado, establecidas en las fracciones III, IV, V y VI del artículo 45 de este ordenamiento, en atención a lo dispuesto por este propio Reglamento, dentro de los treinta días hábiles siguientes a la entrada en vigor del mismo, elaboraran los reglamentos y manuales internos de sus respectivas coordinaciones y dirección, mismos que deberán de ser aprobados por el Pleno, en los términos de la fracción XVIII del artículo 14 de la Ley Orgánica, debiéndose publicar los mismos en el Periódico Oficial del Gobierno del Estado, señalándose en sus respectivos transitorios el inicio de su vigencia.
+
+Artículo Quinto. Se faculta al Presidente del Tribunal y del Consejo de la Judicatura para dictar todas las medidas necesarias para la efectividad e inmediato cumplimiento del presente Reglamento.
