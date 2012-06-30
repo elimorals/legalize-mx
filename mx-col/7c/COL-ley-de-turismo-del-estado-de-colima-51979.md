@@ -4,7 +4,7 @@ identifier: "COL-ley-de-turismo-del-estado-de-colima-51979"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-23"
-last_updated: "2009-09-26"
+last_updated: "2012-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE TURISMO DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2012.
 
 Ley publicada en el Suplemento No. 8 al Periódico Oficial del Estado de Colima, el sábado 23 de septiembre de 2006.
 
@@ -287,7 +287,7 @@ Podrán ser consideradas como zona de desarrollo turístico prioritario, aquéll
 
 La Secretaría, cuando se trate de proyectos de inversión en zonas de desarrollo turístico prioritario, emitirá su opinión ante la instancia o dependencia competente, para que sea considerada en el otorgamiento de los permisos y estímulos correspondientes, procurando siempre la armonía con el medio ambiente.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 ### CAPÍTULO II. DE LA CAPACITACIÓN TURÍSTICA
 
@@ -317,7 +317,7 @@ La Secretaría elaborará y propondrá el programa para su aprobación al Ejecut
 
 El programa será evaluado anualmente por la Secretaría, ciento ochenta días después de su publicación en el Periódico Oficial del Estado, solicitando la opinión de los señalados por el tercer párrafo del numeral 20 Bis, así como de los Órganos Municipales de Turismo, con el objeto de evaluar su correcto desempeño e instrumentar los mecanismos necesarios tendientes a su perfeccionamiento. El resultado de la evaluación será remitido al Poder Ejecutivo Estatal para las observaciones correspondientes, las cuales deberán ser atendidas por el siguiente programa anual que sea presentado por la Secretaría.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 ### CAPÍTULO III. CULTURA TURÍSTICA
 
@@ -393,7 +393,7 @@ La Secretaría propondrá al Ejecutivo del Estado la celebración de acuerdos co
 
 La Secretaría propondrá al Ejecutivo del Estado programas de capacitación, y se coordinará con la Secretaría de Turismo del Gobierno Federal, con otras dependencias estatales y entidades municipales, organismos de los sectores social y privado, a efecto de obtener su asistencia y colaboración para la impartición de cursos de capacitación turística, tanto a prestadores de servicios turísticos, como a servidores públicos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 ### CAPÍTULO I. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
@@ -413,7 +413,7 @@ En conjunto con la Secretaría de Educación del Estado, se crearán y promover�
 
 En conjunto con la Secretaría de Cultura, se establecerán programas que tengan por objeto fomentar y promover la cultura en el Estado, dichos programas deberán ser difundidos entre los prestadores de servicios turísticos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 ### CAPÍTULO II. DE LA PROTECCIÓN Y ORIENTACIÓN AL TURISTA
 
@@ -435,7 +435,25 @@ La base de datos del Registro Nacional de Turismo quedará bajo la guarda de la 
 
 ## TÍTULO CUARTO
 
-### CAPÍTULO III. DE LA VERIFICACIÓN
+### CAPÍTULO III. DE LA SITUACIÓN DE EMERGENCIA Y DESASTRE
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2012)</small>
+
+Artículo 52 Bis 2 (SIC).- El titular de la Secretaría, como autoridad competente conjuntamente con las autoridades que correspondan, velará por la seguridad de los turistas y los prestadores de servicios turísticos del Estado, cuando se presente alguna contingencia que ponga en riesgo la integridad física de éstos.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2012)</small>
+
+Artículo 52 Bis 3 (SIC).- La Secretaría en coordinación con la Unidad Estatal de Protección Civil y los Ayuntamientos, establecerán programas o acciones tendientes a fomentar en los turistas, que hacer ante la presencia de fenómenos hidrometeorológicos o ante cualquier contingencia que se presente y ponga en riesgo su integridad.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2012)</small>
+
+Artículo 52 Bis 4 (SIC).- Atendiendo a lo dispuesto en el artículo anterior, la Secretaría y los Ayuntamientos como medida preventiva difundirán entre los turistas y los prestadores de servicios turísticos, una lista detallada con los albergues y refugios acreditados por la Unidad Estatal de Protección Civil en el Estado, que pueden ser utilizados ante situaciones de emergencia.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2012)</small>
+
+Artículo 52 Bis 5 (SIC).- La Secretaría y los Ayuntamientos, en el ámbito de sus respectivas competencias, sin perjuicio de lo que disponga la ley de la materia, vigilarán que los prestadores de servicios turísticos, cumplan con las disposiciones establecidas en la Ley de Protección Civil del Estado, para la salvaguarda e integridad de las personas.
+
+> <small>(REFORMADO Y REUBICADO [ANTES CAPÍTULO III], P.O. 30 DE JUNIO DE 2012)</small>
 
 ###### Artículo 38.
 
@@ -452,6 +470,8 @@ Se promoverá de manera especial la educación ambiental del turista y de los re
 ###### Artículo 41.
 
 Los centros de hospedaje que pretendan estar clasificados dentro de este capítulo, deberán contar con la infraestructura, operación y la filosofía del concepto del ecoalojamiento, el cual deberá garantizar la preservación, conservación y restauración de la naturaleza, tomando como herramienta al turismo.
+
+### CAPÍTULO IV. DE LA VERIFICACIÓN
 
 ###### Artículo 42.
 
@@ -477,7 +497,7 @@ La prestación de los Servicios Turísticos se regirá por lo que las partes con
 
 En la prestación de los servicios turísticos no se permitirá la discriminación por origen étnico o nacional, capacidad diferente, condición social, condición de salud, religión, opiniones, preferencias, estado civil o cualquier otra que atente contra la dignidad humana.
 
-> <small>N. DE E. LA MODIFICACION PUBLICADA POR DECRETO No. 642, EN EL P.O. DE 26 DE SEPTIEMBRE DE 2009, REFERENTE AL ARTICULO 48 CORRESPONDE AL ARTICULO 47 DE TEXTO ORIGINAL.</small>
+> <small>N. DE E. LA MODIFICACIÓN PUBLICADA POR DECRETO No. 642, EN EL P.O. DE 26 DE SEPTIEMBRE DE 2009, REFERENTE AL ARTÍCULO 48 CORRESPONDE AL ARTÍCULO 47 DE TEXTO ORIGINAL.</small>
 
 ###### Artículo 47.
 
@@ -513,7 +533,7 @@ X. Aparecer en el Registro Nacional de Turismo, así como recibir los beneficios
 
 XI. Solicitar al personal encargado de las visitas de inspección y demás procedimientos de verificación, se identifiquen y presenten la documentación que autoriza su actuación.
 
-> <small>N. DE E. LA MODIFICACION PUBLICADA POR DECRETO No. 642, EN EL P.O. DE 26 DE SEPTIEMBRE DE 2009, REFERENTE AL ARTICULO 49 CORRESPONDE AL ARTICULO 48 DE TEXTO ORIGINAL.</small>
+> <small>N. DE E. LA MODIFICACIÓN PUBLICADA POR DECRETO No. 642, EN EL P.O. DE 26 DE SEPTIEMBRE DE 2009, REFERENTE AL ARTÍCULO 49 CORRESPONDE AL ARTÍCULO 48 DE TEXTO ORIGINAL.</small>
 
 ###### Artículo 48.
 
@@ -557,7 +577,7 @@ XIII. Expedir, aun sin solicitud del turista, factura detallada, nota de consumo
 
 > <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
-XlV. Profesionalizar a sus trabajadores y empleados en los términos de las leyes respectivas, en coordinación con la Secretaría;
+XIV. Profesionalizar a sus trabajadores y empleados en los términos de las leyes respectivas, en coordinación con la Secretaría;
 
 > <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -622,6 +642,10 @@ VI. Turnar al Consejo un informe de los asuntos en que ha intervenido, así como
 Independientemente de lo estipulado en el presente capítulo, cuando el turista resida en la República Mexicana, podrá presentar su queja por la mala prestación del servicio contratado u ofrecido ante la Procuraduría Federal de Protección al Consumidor en las oficinas más cercanas a su domicilio.
 
 En los casos en que el turista resida en el extranjero podrá presentar su queja ante dicha autoridad por correo certificado y seguir el procedimiento de conciliación o de arbitraje por ese mismo medio o por cualquier otra forma de comunicación que acuerden las partes y que permitan hacer el procedimiento más expedito.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO No. 530 PUBLICADO EN EL P.O. DE 30 DE JUNIO DE 2012, LA UBICACIÓN DE LOS ARTÍCULOS QUE INTEGRAN ESTE CAPÍTULO, SE COLOCAN DE ACUERDO A LA FIGURA JURÍDICA QUE REGULA, POR LO QUE SE SUGIERE CONSULTAR LA PUBLICACIÓN OFICIAL.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2012)</small>
 
 ###### Artículo 52.
 
@@ -727,8 +751,12 @@ Dado en Palacio de Gobierno, a los 21 días del mes de septiembre del año dos m
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. EL SECRETARIO DE TURISMO, LIC. MARCELINO BRAVO SANDOVAL. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 26 DE SEPTIEMBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 30 DE JUNIO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
