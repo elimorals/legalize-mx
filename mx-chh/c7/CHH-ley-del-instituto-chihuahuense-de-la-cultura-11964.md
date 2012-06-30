@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-instituto-chihuahuense-de-la-cultura-11964"
 country: "mx"
 rank: "ley"
 publication_date: "1991-01-19"
-last_updated: "1999-12-25"
+last_updated: "2012-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL INSTITUTO CHIHUAHUENSE DE LA CULTURA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 1999.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 19 de enero de 1991.
 
@@ -251,7 +251,9 @@ Los acuerdos del Comité Técnico se tomarán por mayoría de votos de los miemb
 
 El Director del Instituto será designado y removido libremente por el Gobernador Constitucional del Estado y tendrá las siguientes funciones:
 
-I.- Representar al Instituto como mandatario con todas las facultades generales y las particulares que requieran cláusula especial conforme a la Ley, sin limitación alguna, en los términos del Código Civil para el Estado. Tendrá facultades para actos de administración, dominio y para pleitos y cobranzas; así como para formular querellas, pudiendo conferir y revocar poderes generales y especiales, sin perder por ello la posibilidad de su ejercicio directo;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2012)</small>
+
+I.- Administrar y representar legalmente al Instituto con las facultades de un apoderado general para pleitos y cobranzas y actos de administración, con todas las facultades generales y especiales que requieran cláusula especial conforme a la ley; por lo que con carácter enunciativo, no limitativo, podrá desistirse del juicio de amparo, presentar denuncias y querellas penales y otorgar el perdón correspondiente; interponer y contestar demandas aun en materia laboral; formular y absolver posiciones aun en materia laboral y, en general, ejercer todos los actos de representación y mandato que sean necesarios, incluyendo los que para su ejercicio requieran cláusula especial en los términos que señalen las leyes. El Director General también tendrá facultades para sustituir y delegar el poder para pleitos y cobranzas, en uno o más apoderados, para que las ejerzan individual o conjuntamente, así como revocar los poderes que otorgue. Para actos de dominio, requerirá de la autorización expresa de la Junta de Gobierno para cada caso concreto;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1999)</small>
 
@@ -392,3 +394,9 @@ Las facultades y obligaciones contenidas en otros ordenamientos se entenderán r
 ###### ARTÍCULO SEXTO.
 
 Las obligaciones que a la entrada en vigor del presente decreto haya contraído el Centro de Información del Estado de Chihuahua, se entenderán contraídas por el Instituto Chihuahuense de la Cultura.
+
+P.O. 30 DE JUNIO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
