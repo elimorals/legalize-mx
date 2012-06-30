@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-instituto-chihuahuense-de-salud-11963"
 country: "mx"
 rank: "ley"
 publication_date: "1987-09-16"
-last_updated: "2009-12-05"
+last_updated: "2012-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2012.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 16 de septiembre de 1987.
 
@@ -95,31 +95,31 @@ El Consejo Directivo será el órgano rector del Instituto y se integrará de la
 
 I.- Por el Titular del Poder Ejecutivo, quien fungirá como Presidente, o por la persona en quien delegue su representación;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
 II.- Por el Secretario de Salud, quien fungirá como Secretario Técnico;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
 III.- Por el Secretario de Desarrollo Comercial y Turístico;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
 IV.- Por el Secretario de Desarrollo Rural;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
 V.- Por el Secretario de Finanzas y Administración;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
@@ -179,7 +179,9 @@ III.- En general, realizar y autorizar lo necesario para el mejor funcionamiento
 
 El Director General será designado y removido por el Gobernador del Estado y tendrá las siguientes facultades:
 
-I.- Representar al Instituto como mandatario con todas las facultades generales y las particulares que requieran cláusula especial conforme a la ley, sin limitación alguna, en los términos del Código Civil del Estado. Tendrá facultades para actos de administración, para pleitos y cobranzas, para formular querellas, pudiendo conferir y revocar poderes generales y especiales, sin perder por ello la posibilidad de su ejercicio directo. Para actos de dominio requerirá acuerdo del Consejo;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2012)</small>
+
+I.- Administrar y representar legalmente al Instituto con las facultades de un apoderado general para pleitos y cobranzas y actos de administración, con todas las facultades generales y especiales que requieran cláusula especial conforme a la ley; por lo que con carácter enunciativo, no limitativo, podrá desistirse del juicio de amparo, presentar denuncias y querellas penales y otorgar el perdón correspondiente; interponer y contestar demandas aun en materia laboral; formular y absolver posiciones aun en materia laboral y, en general, ejercer todos los actos de representación y mandato que sean necesarios, incluyendo los que para su ejercicio requieran cláusula especial en los términos que señalen las leyes. El Director General también tendrá facultades para sustituir y delegar el poder para pleitos y cobranzas, en uno o más apoderados, para que las ejerzan individual o conjuntamente, así como revocar los poderes que otorgue. Para actos de dominio, requerirá de la autorización expresa de la Junta de Gobierno para cada caso concreto;
 
 II.- Asistir a las sesiones del Consejo con derecho a voz pero sin voto;
 
@@ -263,7 +265,7 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. MARTHA I. LARA ALATORRE.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 24 DE SEPTIEMBRE DE 2003.
 
@@ -290,3 +292,9 @@ OCTAVO.- Todos los actos, procedimientos y recursos administrativos relacionados
 NOVENO.- Las autorizaciones que se hubieren expedido con anterioridad a la fecha de entrada en vigor de las reformas a la Ley Estatal de Salud, tendrán vigencia hasta su vencimiento. Las autorizaciones que se expidan a partir de la vigencia de este Decreto, se otorgarán de acuerdo a sus disposiciones.
 
 DÉCIMO.- En tanto se expidan los Reglamentos y Normas Técnicas que se deriven de la Ley Estatal de Salud, seguirán aplicándose los Reglamentos Federales y Estatales, así como las Normas Técnicas que la Autoridad Sanitaria Federal haya expedido.
+
+P.O. 30 DE JUNIO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
