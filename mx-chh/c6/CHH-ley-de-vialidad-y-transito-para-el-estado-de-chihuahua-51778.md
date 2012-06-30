@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vialidad-y-transito-para-el-estado-de-chihuahua-51778"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-20"
-last_updated: "2012-03-07"
+last_updated: "2012-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2012.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 20 de septiembre de 2006.
 
@@ -651,15 +651,21 @@ VI. Operar o accionar teléfonos celulares o cualquier otro aparato mecánico o 
 
 VII. Las demás que establezcan esta Ley y sus reglamentos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2012)</small>
+
 ###### Artículo 49.
 
-Ninguna persona podrá conducir, manejar o maniobrar vehículos con una cantidad de alcohol en aire expirado superior a los .089 miligramos por litro; los conductores del transporte público deberán conducir, manejar o maniobrar vehículos, libres de cualquier cantidad de alcohol.
+Ninguna persona podrá conducir, manejar o maniobrar vehículos con una cantidad de alcohol en aire expirado superior a los .050 miligramos por litro; los conductores del transporte público deberán conducir, manejar o maniobrar vehículos, libres de cualquier cantidad de alcohol.
 
 Los estados de ebriedad se clasifican de la siguiente manera:
 
-a) Aliento Alcohólico: De .001 a .089 % BAC (Miligramos por litro de concentración de alcohol en sangre);
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2012)</small>
 
-b) Primer Grado de Intoxicación Alcohólica: De .090 a .139 % BAC (Miligramos por litro de concentración de alcohol en sangre);
+a) Aliento Alcohólico: De .001 a .050% BAC (Miligramos por litro de concentración de alcohol en sangre);
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2012)</small>
+
+b) Primer Grado de Intoxicación Alcohólica: De .051 a .139% BAC (Miligramos por litro de concentración de alcohol en sangre);
 
 c) Segundo Grado de Intoxicación Alcohólica: De .140 a .229 % BAC (Miligramos por litro de concentración de alcohol en sangre);
 
@@ -1147,7 +1153,7 @@ En estos casos se deberá comprometer al infractor a asistir a tratamiento o cur
 
 ###### Artículo 92.
 
-El probable responsable de una infracción a la ley de Vialidad y Transito, podrá acudir ante el oficial calificador, a fin de alegar lo que a su derecho corresponda. Se fijará el día y hora determinado para tal efecto, para ser escuchado por la autoridad calificadora quien procederá en la audiencia a:
+El probable responsable de una infracción a la ley de Vialidad y Trasito, podrá acudir ante el oficial calificador, a fin de alegar lo que a su derecho corresponda. Se fijará el día y hora determinado para tal efecto, para ser escuchado por la autoridad calificadora quien procederá en la audiencia a:
 
 > <small>(F. DE E., P.O. 14 DE OCTUBRE DE 2006)</small>
 
@@ -1568,3 +1574,9 @@ Las licencias expedidas con anterioridad al presente Decreto, continuarán siend
 ###### ARTÍCULO TERCERO.
 
 Notifíquese a las demás Entidades Federativas, así como al Distrito Federal, el contenido de la presente reforma.
+
+P.O. 30 DE JUNIO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
