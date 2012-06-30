@@ -4,7 +4,7 @@ identifier: "CHH-decreto-que-crea-el-instituto-chihuahuense-de-las-mujeres-26971
 country: "mx"
 rank: "decreto"
 publication_date: "2002-08-28"
-last_updated: "2002-12-21"
+last_updated: "2012-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26971&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # DECRETO QUE CREA EL INSTITUTO CHIHUAHUENSE DE LAS MUJERES -ANTES DECRETO QUE CREA EL INSTITUTO CHIHUAHUENSE DE LA MUJER-
 
-DECRETO QUE CREA EL INSTITUTO CHIHUAHUENSE DE LA MUJER.
+DECRETO QUE CREA EL INSTITUTO CHIHUAHUENSE DE LA MUJER
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2002.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2012.
 
 Decreto publicado en el Periódico Oficial, el miércoles 28 de agosto de 2002.
 
@@ -271,9 +271,15 @@ IX.- Contratar y suscribir créditos, previa autorización del Consejo Directivo
 
 X.- Presentar al Consejo Directivo, dentro de los 30 días siguientes al cierre del ejercicio anual y cuantas veces sea requerida para ello, los estados financieros y el informe de actividades del Instituto;
 
-XI.- Representar al Instituto con facultades para realizar actos de dominio, actos de administración, así como de pleitos y cobranzas, con todas las facultades generales y las que requieren cláusula especial conforme a la Ley. Para el ejercicio de las facultades de dominio requerirá previo acuerdo del Consejo Directivo;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2012)</small>
 
-XII.- Otorgar, sustituir y revocar mandatos generales y especiales con las facultades que le competen. En las operaciones relativas a actos de dominio que se refieran al patrimonio del organismo, siempre deberán comparecer y firmar cuando menos dos apoderados del Instituto. Los Mandatos Generales, para surtir efectos frente a terceros, deberán inscribirse en el Registro Público de Organismos Descentralizados;
+XI.- Administrar y representar legalmente al Instituto con las facultades de un apoderado general para pleitos y cobranzas y actos de administración, con todas las facultades generales y especiales que requieran cláusula especial conforme a la ley; por lo que con carácter enunciativo, no limitativo, podrá desistirse del juicio de amparo, presentar denuncias y querellas penales y otorgar el perdón correspondiente; interponer y contestar demandas aun en materia laboral; formular y absolver posiciones aun en materia laboral y, en general, ejercer todos los actos de representación y mandato que sean necesarios, incluyendo los que para su ejercicio requieran cláusula especial en los términos que señalen las leyes;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2012)</small>
+
+XII.- Sustituir y delegar el poder para pleitos y cobranzas, en uno o más apoderados, para que las ejerzan individual o conjuntamente, así como revocar los poderes que otorgue. Para actos de dominio, requerirá de la autorización expresa de la Junta de Gobierno para cada caso concreto.
+
+Los Mandatos Generales, para surtir efectos frente a terceros, deberán inscribirse en el Registro Público de Organismos Descentralizados;
 
 XIII.- Fungir como Secretaria Técnica del Consejo Directivo, debiendo llevar en orden la documentación relativa a las sesiones, coordinando su adecuado funcionamiento;
 
@@ -421,8 +427,14 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. SERGIO ANTONIO MARTINEZ GARZA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE DECRETO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 21 DE DICIEMBRE DE 2002.
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Ofiical (sic) del Estado.
+
+P.O. 30 DE JUNIO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
