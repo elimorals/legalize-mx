@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2012-06-16"
+last_updated: "2012-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2012.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -293,9 +293,9 @@ LXIII.- SAUCILLO; con cabecera en la ciudad del mismo nombre y las secciones mun
 
 LXIV.- TEMÓSACHIC, con cabecera en el pueblo del mismo nombre y sus Secciones Municipales de Babícora de Conoachic, Cocomórachic, Tosanachic, Tutuaca, Yepachic y Yepómera;
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2012)</small>
 
-LXV.- URIQUE, con cabecera en el pueblo del mismo nombre y las secciones municipales de Cerocahui, Cuiteco, Guagueyvo, Colonia Bahuérachi, San Rafael, Cieneguita Lluvia de Oro, Tubares, Bahuichivo y Corareachi;
+LXV. URIQUE, con cabecera en el pueblo del mismo nombre y las Secciones Municipales de Cerocahui, Cuiteco, Guagueyvo, Colonia Bahuérachi, San Rafael, Cieneguita Lluvia de Oro, Tubares, Bahuichivo, Corareachi y Guapalayna;
 
 LXVI.- URUACHI; con cabecera en el pueblo del mismo nombre y als (sic) secciones municipales de Batopilillas y El Rebaje; y
 
@@ -4302,3 +4302,13 @@ P.O. 16 DE JUNIO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JUNIO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para la elección de la Junta Municipal en la Sección Municipal de Guapalayna, se estará a lo estipulado por el artículo 44 del Código Municipal para el Estado de Chihuahua, en lo conducente, debiéndose llevar a cabo la elección dentro de los 180 días siguientes a la entrada en vigor del presente Decreto.
