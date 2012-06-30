@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-procesal-penal-para-el-estado-de-zacatecas-56865"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-09-15"
-last_updated: "2009-06-27"
+last_updated: "2012-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56865&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ZAC"
 ---
 # CODIGO PROCESAL PENAL PARA EL ESTADO DE ZACATECAS
 
-CODIGO PROCESAL PENAL PARA EL ESTADO DE ZACATECAS
+CÓDIGO PROCESAL PENAL PARA EL ESTADO DE ZACATECAS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO QUE MODIFICA EL CODIGO, PUBLICADO EN EL P.O. DE 27 DE JUNIO DE 2009, Y EN RELACION CON SU ENTRADA EN VIGOR EN LOS DISTRITOS JUDICIALES PRIMERO Y SEGUNDO, VER ARTICULO SEGUNDO TRANSITORIO DEL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NO. 398, PUBLICADO EN EL P.O. DE 30 DE JUNIO DE 2012, SE REFORMA EL ARTÍCULO SEGUNDO TRANSITORIO REFERENTE A LA ENTRADA EN VIGOR DE ESTE ORDENAMIENTO EN DIVERSOS DISTRITOS JUDICIALES.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2012.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 15 de septiembre de 2007.
 
@@ -119,7 +119,7 @@ El Juez o el Tribunal limitará por auto fundado y motivado la intervención de 
 
 Inviolabilidad de la defensa
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 7.
 
@@ -133,7 +133,7 @@ Cuando el imputado esté privado de libertad, el encargado de custodiarlo comuni
 
 Defensa técnica
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 8.
 
@@ -203,7 +203,7 @@ Serán funciones de los jueces preservar el principio de igualdad procesal y all
 
 Única persecución
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 16.
 
@@ -249,7 +249,7 @@ Los jueces están obligados a fundar y motivar sus decisiones. La simple relaci�
 
 No existe motivación cuando se haya inobservado las reglas de la sana crítica, con respecto a medios o elementos probatorios de valor decisivo.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Legalidad de la prueba
 
@@ -385,7 +385,7 @@ En cualquier estado de la causa y a solicitud de la víctima, el Juez o el Tribu
 
 Resolución de peticiones o planteamientos de las partes
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 35.
 
@@ -507,7 +507,7 @@ En caso de tratarse de una autoridad administrativa o legislativa, el mismo Juez
 
 Notificaciones
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 49.
 
@@ -645,7 +645,7 @@ Los plazos individuales correrán desde que comienza el día siguiente a aquel e
 
 En los plazos por día no deberán contarse los días inhábiles. Los plazos restantes que venzan en día inhábil, se tendrán por prorrogados hasta el día hábil siguiente.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Cómputo de plazos fijados en protección de la libertad del imputado.
 
@@ -715,7 +715,7 @@ La multa o su exceso será devuelta, con actualización.
 
 Competencia
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 70.
 
@@ -741,7 +741,7 @@ La aceptación de la indemnización fijada anteriormente impide demandar ante lo
 
 Obligación
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 73.
 
@@ -817,7 +817,7 @@ El ejercicio de la acción penal dependerá de querella, sólo en aquellos casos
 
 Delito perseguible por querella
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 81.
 
@@ -923,7 +923,7 @@ Principio de legalidad procesal y oportunidad
 
 El Ministerio Público deberá ejercer la acción penal en todos los casos en que sea procedente, con arreglo a las disposiciones de la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 No obstante, el Ministerio Público podrá prescindir, total o parcialmente, de la persecución penal, que se limite a alguna o varias infracciones o a alguna de las personas que participaron en el hecho, cuando:
 
@@ -981,11 +981,11 @@ VIII. Por el cumplimiento de un convenio conciliatorio, o
 
 IX. Cuando no se haya reabierto la investigación dentro del plazo de dos años, luego de dictado el archivo temporal.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ### CAPÍTULO II. Justicia restaurativa y formas alternativas de solución de controversias
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 #### Sección Primera. Programa restaurativo
 
@@ -1039,7 +1039,7 @@ II. Cerciorarse que no se haya coaccionado a la víctima ni al infractor para qu
 
 Los agentes del Ministerio Público y los jueces se limitarán a exhortar a las partes para que utilicen las formas de justicia alternativa y restaurativa; reenviarán los casos cuando proceda a los facilitadores, mediadores o conciliadores, pero no podrán intervenir directamente con ese carácter.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Formas de justicia alternativa
 
@@ -1059,7 +1059,7 @@ Se entiende por conciliación el pacto entre la víctima u ofendido y el imputad
 
 Procedencia
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 100.
 
@@ -1121,7 +1121,7 @@ El cumplimiento de lo acordado extingue la acción penal.
 
 Procedencia
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 105.
 
@@ -1177,7 +1177,7 @@ Para fijar las reglas, el Juez podrá disponer que el imputado sea sometido a un
 
 La decisión sobre la suspensión del proceso se pronunciará en audiencia y en presencia del imputado, la víctima y sus representantes, con expresa advertencia sobre las reglas de conducta impuestas y las consecuencias de su inobservancia.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Conservación de los medios de prueba
 
@@ -1185,7 +1185,7 @@ Conservación de los medios de prueba
 
 En los asuntos suspendidos, en virtud de las disposiciones correspondientes a esta sección, el Ministerio Público tomará las medidas necesarias para evitar la pérdida, destrucción o ineficacia de los medios de prueba conocidos y las que soliciten las partes.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Revocación de la suspensión
 
@@ -1489,7 +1489,7 @@ Objetividad y deber de lealtad
 
 ###### Artículo 137.
 
-(DEROGADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)
+(DEROGADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)
 
 El Ministerio Público debe obrar durante todo el proceso con absoluta lealtad para con el ofendido, aunque no asuma el papel de acusador, el acusado y su defensor y para los demás intervinientes en el proceso. La lealtad comprende el deber de información veraz sobre la investigación cumplida y los conocimientos alcanzados, y al deber de no ocultar a los intervinientes elemento alguno que, a su juicio, pudiera resultar favorable para la posición que ellos asumen, sobre todo cuando ha resuelto no incorporar alguno de esos elementos al proceso.
 
@@ -1555,7 +1555,7 @@ Los elementos policiales a que se refiere el presente artículo no podrán infor
 
 Función, y facultades de la Policía Ministerial
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 145.
 
@@ -1737,7 +1737,7 @@ Se considerará imputado a quien, mediante cualquier acto del procedimiento, sea
 
 Derechos del imputado
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 159.
 
@@ -1837,7 +1837,7 @@ La declaración y la consecuente orden de aprehensión serán dispuestas por el 
 
 Efectos
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 167.
 
@@ -1967,7 +1967,7 @@ La policía sólo podrá entrevistarlo para constatar su identidad, cuando no es
 
 Derecho de elección
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 177.
 
@@ -2035,7 +2035,7 @@ Si se produjere el abandono de la defensa, el Juez respectivo lo comunicará al 
 
 Número de defensores
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 185.
 
@@ -2199,7 +2199,7 @@ El imputado contra quien se hubiere emitido la orden de aprehensión, podrá pre
 
 Detención por orden judicial
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 200.
 
@@ -2243,7 +2243,7 @@ Cuando se detenga a una persona por un hecho que pudiera constituir un delito qu
 
 El Ministerio Público podrá dejar sin efecto la detención u ordenar que el detenido sea conducido ante el Juez, dentro de un plazo de cuarenta y ocho horas. Deberá dejar sin efecto la detención cuando no pretenda solicitar prisión preventiva en contra del imputado, sin perjuicio de que solicite una medida cautelar anticipada ante el Juez, previo a la audiencia de control de detención.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Supuestos de flagrancia
 
@@ -2269,7 +2269,7 @@ Las autoridades que intervengan en la detención en el supuesto de flagrancia de
 
 Supuesto de caso urgente
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 205.
 
@@ -2341,7 +2341,7 @@ Cuando el imputado ha sido aprehendido después de habérsele formulado la imput
 
 Medidas
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 208.
 
@@ -2389,13 +2389,13 @@ Se podrán aplicar medidas cautelares, una vez que se haya vinculado a proceso a
 
 Imposición de medidas cautelares
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 209.
 
 A solicitud del Ministerio Público, el Juez puede imponer una sola de las medidas cautelares previstas en este Código o combinar varias de ellas, según resulte adecuado al caso, y dictar las órdenes necesarias para garantizar su cumplimiento.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -2405,7 +2405,7 @@ En ningún caso el Juez está autorizado para aplicar estas medidas desnaturaliz
 
 Procedencia de la prisión preventiva
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 210.
 
@@ -2417,7 +2417,7 @@ II. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
 
 III. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Peligro de no comparecencia del imputado
 
@@ -2435,11 +2435,11 @@ III. La importancia del daño que debe ser resarcido; el máximo de la pena que 
 
 IV. El comportamiento del imputado durante el proceso o en otro anterior, en la medida que indique su voluntad de someterse o no al proceso.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Peligro de obstaculización del desarrollo de la investigación o del proceso
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 212.
 
@@ -2451,7 +2451,7 @@ I. Destruirá, modificará, ocultará o falsificará elementos de prueba, o
 
 II. Influirá para que coimputados, testigos o peritos informen falsamente o se comporten de manera reticente, o inducirá a otros a realizar tales comportamientos.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -2491,7 +2491,7 @@ Restricciones de la prisión preventiva
 
 ###### Artículo 215.
 
-(DEROGADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)
+(DEROGADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)
 
 No puede ordenarse la prisión preventiva de una persona mayor de setenta años, si se estima que, en caso de condena, no le será imponible una pena mayor a cinco años de privación de libertad. Tampoco procede ordenarla en contra de mujeres embarazadas, de madres durante la lactancia o de personas afectadas por una enfermedad grave y terminal.
 
@@ -2551,7 +2551,7 @@ Si la garantía prestada es de carácter real y es sustituida por otra, ésta se
 
 Revisión de la prisión preventiva y de la internación
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 221.
 
@@ -2793,13 +2793,13 @@ Principio de oportunidad
 
 Los representantes del Ministerio Público podrán abstenerse de iniciar la persecución penal o abandonar la ya iniciada cuando se trate de un hecho comprendido en los supuestos del artículo 90 de este Código.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Control judicial
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 250.
 
@@ -2829,7 +2829,7 @@ Toda persona o servidor público está obligado a proporcionar oportunamente la 
 
 Secreto de las actuaciones de investigación y deber de descubrimiento
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 253.
 
@@ -2843,7 +2843,7 @@ A partir del momento en que el imputado se encuentre detenido, cuando pretenda r
 
 El Ministerio Público podrá solicitar excepcionalmente al Juez que cierta información se mantenga bajo reserva, cuando sea indispensable para evitar la destrucción, alteración u ocultamiento de pruebas, la intimidación o amenaza o influencia a los testigos del hecho, a fin de asegurar el éxito de la investigación, o para la protección de personas o bienes jurídicos. Si él Juez considera procedente la solicitud así lo resolverá y determinará el plazo de la reserva, siempre que sean oportunamente revelados para no afectar el derecho de defensa. El Juez de Garantía deberá revisar cada mes la reserva para determinar si subsisten los motivos que la justificaron. La reserva podrá ser prorrogada cuando sea estrictamente indispensable, pero nunca más allá de la formulación de la acusación.
 
-> <small>(DEROGADO CUARTO PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -2967,7 +2967,7 @@ Para realizar la inspección y el registro, podrá ordenarse que, durante la dil
 
 Cateo de domicilio particular
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 264.
 
@@ -3047,11 +3047,11 @@ Medidas de vigilancia
 
 Aún antes de que el Juez dicte la orden de cateo, el Ministerio Público podrá disponer las medidas de vigilancia que estime convenientes para evitar la fuga del imputado o la sustracción de documentos o cosas que constituyen el objeto de la diligencia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Ingreso a lugar cerrado sin orden judicial
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 269.
 
@@ -3077,7 +3077,7 @@ Los motivos que determinaron el ingreso sin orden judicial constarán detalladam
 
 Inspección de persona
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 270.
 
@@ -3085,9 +3085,9 @@ La policía podrá realizar una inspección personal, siempre que haya motivos s
 
 Antes de proceder a la inspección, deberá advertir a la persona acerca de la sospecha y del objeto buscado, invitándola a exhibirlo.
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-> <small>(DEROGADO CUARTO PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 De lo actuado se dejará constancia en un acta.
 
@@ -3117,7 +3117,7 @@ Inspecciones colectivas
 
 Cuando la policía realice inspecciones de personas o de vehículos, colectivamente, con carácter preventivo, deberá comunicar la circunstancia al Ministerio Público con una anticipación no menor a ocho horas. Si la inspección colectiva se realiza dentro de una investigación ya iniciada, se deberá realizar bajo dirección del Ministerio Público con el fin de que éste vele por la legalidad del procedimiento. Si es necesaria la inspección de personas o vehículos determinados o identificados, el procedimiento se regirá según los artículos anteriores.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Objetos y documentos no relacionados con el hecho investigado
 
@@ -3261,7 +3261,7 @@ Las partes propondrán los peritos que consideren necesarios para acreditar los 
 
 Al mismo tiempo, las partes fijarán con precisión los temas del peritaje en el momento procesal oportuno.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Facultad de las partes
 
@@ -3271,9 +3271,9 @@ Facultad de las partes
 
 Los peritos no podrán ser recusados. No obstante, durante la audiencia del juicio oral podrán dirigírseles preguntas orientadas a determinar su imparcialidad e idoneidad, así como el rigor técnico o científico de sus conclusiones.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Método para la declaración de los peritos
 
@@ -3283,9 +3283,9 @@ Método para la declaración de los peritos
 
 La declaración de los peritos se regirá por las reglas conducentes a los testigos.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Dictamen pericial
 
@@ -3401,7 +3401,7 @@ Casos de admisión
 
 Cuando sea necesario recibir declaraciones que, por algún obstáculo excepcionalmente difícil de superar, como la ausencia o la imposibilidad física o psíquica de quien deba declarar, se presuma que no podrán ser recibidas durante el juicio, las partes podrán solicitar al Juez el anticipo de prueba.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Procedimiento
 
@@ -3449,7 +3449,7 @@ En caso de que el testigo se encuentre en otro Estado, la petición se remitirá
 
 En el caso del párrafo anterior, en la solicitud se precisarán las personas a quienes deberá citarse para que concurran a la audiencia en que se recibirá la declaración, en la cual podrán ejercer todas las facultades que les corresponderían si se tratase de una declaración prestada durante la audiencia del juicio.
 
-> <small>(DEROGADO QUINTO PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Urgencia
 
@@ -3459,13 +3459,13 @@ Urgencia
 
 Cuando se ignore quién ha de ser el imputado o cuando la recepción de la declaración se deba practicar con extrema urgencia, las partes podrán requerir verbalmente la intervención del Juez y éste actuará prescindiendo de las citaciones previstas, designando, en su caso, un defensor público. En el acta se dejará constancia de los motivos que fundaron la urgencia.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 #### Sección octava. Registro de la investigación y cadena de custodia
 
 Registro de la investigación
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 309.
 
@@ -3525,7 +3525,7 @@ Si el Ministerio Público deseare formular imputación a una persona que no se e
 
 A esta audiencia se citará al imputado, a quien se le indicará que deberá comparecer acompañado de su Defensor. Al imputado se le citará bajo el apercibimiento de que, en caso de no comparecer, se ordenará su aprehensión.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Formulación de la imputación y oportunidad para declarar
 
@@ -3543,11 +3543,11 @@ Rendida la declaración del imputado o manifestado su deseo de no declarar, el J
 
 Antes de cerrar la audiencia, en caso de que el imputado no haya renunciado al plazo previsto en el artículo 19 de la Constitución Federal, fijará fecha para la realización de la audiencia de vinculación a proceso.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Efectos de la vinculación a proceso
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 317.
 
@@ -3591,7 +3591,7 @@ Se entenderá que existe un hecho que la ley señale como delito, cuando los dat
 
 El auto de vinculación a proceso únicamente podrá dictarse por los hechos que fueron motivo de la formulación de la imputación, pero el Juez podrá otorgarles una clasificación jurídica diversa a la asignada por el Ministerio Público al formular la imputación.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 No vinculación a proceso del imputado
 
@@ -3621,7 +3621,7 @@ Transcurrido el plazo de setenta y dos horas sin que se hubiere dictado el auto 
 
 Audiencia de vinculación a proceso
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 322.
 
@@ -3837,7 +3837,7 @@ IV. Ejercer la acción para obtener la reparación de los daños y perjuicios de
 
 Acusador coadyuvante
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 338.
 
@@ -3999,7 +3999,7 @@ V. Las pruebas que deberán producirse en el juicio, de acuerdo a lo previsto en
 
 VI. La individualización de quienes deban ser citados a la audiencia de juicio, con mención de los testigos a los que deba pagarse anticipadamente sus gastos de traslado y habitación y los montos respectivos.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Prueba anticipada
 
@@ -4027,7 +4027,7 @@ El Juez hará llegar la resolución de apertura del juicio al Tribunal competent
 
 Una vez radicado el proceso ante el Tribunal del juicio, el Juez que lo presida decretará la fecha para la celebración de la audiencia del juicio, la que deberá tener lugar no antes de quince ni después de sesenta días desde la notificación de la resolución de apertura del juicio. Indicará también el nombre de los jueces que integrarán el Tribunal y ordenará la citación de todos los obligados a asistir. El acusado deberá ser citado por lo menos con siete días de anticipación al comienzo de la audiencia.
 
-> <small>(ADICIONADO, P.O.31 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 El Tribunal de juicio oral designará de entre sus miembros, distintos (sic) a quien lo presida, a un relator, el cual se encargará de la redacción de la sentencia.
 
@@ -4041,7 +4041,7 @@ Cuando la pena máxima que pudiere corresponder a los hechos punibles acorde a l
 
 El Tribunal recibirá la prueba relevante para la imposición de una pena o medida de seguridad sólo después de haber resuelto sobre la culpabilidad del imputado, y no antes.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Inmediación
 
@@ -4113,7 +4113,7 @@ Quienes asistan a la audiencia deberán permanecer respetuosamente y en silencio
 
 Continuidad y suspensión
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 365.
 
@@ -4155,7 +4155,7 @@ Lectura
 
 Podrán introducirse al juicio oral, previa su lectura o reproducción, los registros en que constaren anteriores declaraciones o informes de testigos, peritos o imputados, cuando:
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 I.- Existan testimonios que se hayan recibido conforme a las reglas de la prueba anticipada, sin perjuicio de que las partes exijan la comparecencia personal del testigo o experto, cuando sea posible;
 
@@ -4165,7 +4165,7 @@ III.- Se trate de registros o dictámenes que todas las partes acuerden incorpor
 
 IV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Lectura para apoyo de memoria o superar contradicciones en la audiencia de juicio
 
@@ -4175,9 +4175,9 @@ Lectura para apoyo de memoria o superar contradicciones en la audiencia de juici
 
 Durante el interrogatorio al imputado, testigo o perito, se les podrá leer parte de sus declaraciones anteriores o documentos por ellos elaborados, cuando fuere necesario para ayudar a la memoria o para demostrar o superar contradicciones, o con el fin de solicitar las aclaraciones pertinentes.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Imposibilidad de asistencia
 
@@ -4283,7 +4283,7 @@ Si el Tribunal estima que el testigo invoca erróneamente la facultad de abstene
 
 Citación de testigos
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 382.
 
@@ -4361,7 +4361,7 @@ Además de los previstos en este Código, podrán utilizarse otros medios probat
 
 Apertura
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 391.
 
@@ -4417,7 +4417,7 @@ Después de la lectura de la acusación o de resueltas las cuestiones incidental
 
 El imputado podrá declarar libremente o a preguntas de su defensor y se aplicará en este último caso las reglas generales para los interrogatorios.
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Recepción de pruebas
 
@@ -4527,7 +4527,7 @@ En el caso de un Tribunal con integración plural, la formulación del recurso d
 
 Deliberación
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 410.
 
@@ -4549,9 +4549,9 @@ El Tribunal resolverá por mayoría de votos. Los jueces podrán fundar separada
 
 El Juez disidente que haya votado en contra de la condena, estará obligado a participar y a votar en la audiencia de individualización de la pena, cuando ésta tenga lugar.
 
-> <small>(DEROGADO SEPTIMO [N. DE E. ANTES SEXTO] PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO SÉPTIMO [N. DE E. ANTES SEXTO] PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-> <small>(DEROGADO OCTAVO [N. DE E. ANTES SEPTIMO] PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO OCTAVO [N. DE E. ANTES SÉPTIMO] PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -4611,7 +4611,7 @@ VI. La parte resolutiva, con mención de las disposiciones legales aplicadas; y
 
 VII. La firma de los jueces.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Lectura de sentencia
 
@@ -4621,11 +4621,11 @@ Lectura de sentencia
 
 La sentencia se pronunciará siempre en nombre del Estado Libre y Soberano de Zacatecas. Redactada la sentencia, el Tribunal se constituirá nuevamente en la sala de audiencia, en la fecha acordada y el documento será leído y explicado a los presentes. La lectura valdrá en todo caso como notificación y las partes que lo requieran verbalmente recibirán una copia de la sentencia.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Vicios de la sentencia
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 414.
 
@@ -4709,7 +4709,7 @@ Los procedimientos especiales se regirán por las disposiciones establecidas en 
 
 Procedencia
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 421.
 
@@ -4721,7 +4721,7 @@ Se escuchará a la víctima u ofendido de domicilio conocido, a pesar de que no 
 
 Oportunidad
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 422.
 
@@ -4771,7 +4771,7 @@ Terminado el debate, el Juez emitirá su fallo sobre condena o absolución en la
 
 En ningún caso el procedimiento abreviado se opondrá a la concesión de alguna de las medidas alternativas consideradas en la ley, cuando correspondiere.
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 La sentencia que se dicta en el procedimiento abreviado es apelable.
 
@@ -4813,7 +4813,7 @@ El procedimiento especial nunca concurrirá con un procedimiento ordinario respe
 
 Internación provisional del imputado
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 431.
 
@@ -5343,7 +5343,7 @@ Cuando la sentencia hubiere condenado al pago de cantidad líquida y no se hubie
 
 Ejecución de sentencia ilíquida
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 490.
 
@@ -5407,9 +5407,9 @@ Artículo primero.- El presente Código iniciará su vigencia el cinco de enero 
 
 Aplicación
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2012)</small>
 
-Artículo segundo.- Sus disposiciones se aplicarán a hechos que ocurran, en el Distrito Judicial Primero de la Capital, a partir de las cero horas del día cinco de enero del año dos mil nueve; en los Distritos Judiciales Segundo de Fresnillo y Séptimo de Calera, a partir de las cero horas del día primero de julio del año dos mil doce y, respecto a los hechos que ocurran en el resto del territorio del Estado, a partir de las cero horas del día siete de enero del año dos mil trece.
+Artículo segundo.- Sus disposiciones se aplicarán a hechos que ocurran, en el Distrito Judicial Primero de la Capital, a partir de las cero horas del día cinco de enero del año dos mil nueve; en el Distrito Judicial Séptimo de Calera, a hechos que ocurran a partir de las cero horas del día siete de enero del año dos mil trece; en el Distrito Judicial Décimo Cuarto de Ojocaliente, a hechos que ocurran a partir de las cero horas del día primero de julio del año dos mil trece; los Distritos Judiciales Sexto de Tlaltenango, Noveno de Jalpa, Décimo de Juchipila, Décimo Tercero de Nochistlán, Décimo Sexto de Teul de González Ortega y Décimo Octavo de Villanueva, a hechos que ocurran a partir de las cero horas del día seis de enero de dos mil catorce; los Distritos Judiciales Tercero de Jerez, Cuarto de Río Grande, Octavo de Concepción del Oro, Décimo Segundo de Miguel Auza y el Décimo Séptimo de Valparaíso, a hechos que ocurran a partir de las cero horas del día cinco de enero del año dos mil quince; los Distritos Judiciales Segundo de Fresnillo, Quinto de Sombrerete, Décimo Primero de Loreto y Décimo Quinto de Pinos, a hechos que ocurran a partir de las cero horas del día cuatro de enero del año dos mil dieciséis.
 
 Abrogación
 
@@ -5475,7 +5475,7 @@ Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, m
 
 DADO en el Despacho del Poder Ejecutivo del Estado, el día veinticuatro del mes de Agosto del año dos mil siete. ATENTAMENTE. «EL TRABAJO TODO LO VENCE». LA GOBERNADORA DEL ESTADO DE ZACATECAS.- AMALIA D. GARCÍA MEDINA; EL SECRETARIO GENERAL DE GOBIERNO.- LUIS GERARDO ROMO FONSECA.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 31 DE DICIEMBRE DE 2008.
 
@@ -5484,5 +5484,11 @@ P.O. 31 DE DICIEMBRE DE 2008.
 P.O. 27 DE JUNIO DE 2009.
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 30 DE JUNIO DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones que contravengan este Decreto.
