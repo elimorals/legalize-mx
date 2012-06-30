@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2012-02-04"
+last_updated: "2012-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2012.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -755,9 +755,9 @@ Cuando el jefe de la oficina tuviere conocimiento que los contrayentes procrearo
 
 113.- Ninguna inhumación o cremación se hará sin autorización escrita del jefe de la oficina, quien se asegurará del fallecimiento. Toda inhumación o cremación se hará dentro del término que establezca la Legislación de Salud.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2012)</small>
 
-114.- En el acta de fallecimiento se asentarán los datos que menciona el artículo siguiente y será firmada por dos testigos, prefiriéndose para el caso los parientes, si los hay.
+114.- En el acta de fallecimiento se asentarán los datos que menciona el artículo siguiente, en base a los documentos que se consideren necesarios a efecto de asegurar plenamente la identidad del cadáver, y será firmada por dos testigos, prefiriéndose para el caso los parientes, si los hay.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
@@ -787,7 +787,9 @@ VI.- La hora de la muerte, si se supiere y todos los informes que se tengan en c
 
 Los administradores de cementerios o panteones, están obligados a rendir a la oficina del registro civil de su jurisdicción, un informe mensual con los datos que menciona la fracción I del artículo anterior, de las personas que fueren inhumadas y la denominación de la agencia encargada de la propia inhumación.
 
-Las agencias funerarias presentarán ante la oficina del registro civil de su jurisdicción, durante el mes siguiente al de la inhumación, el certificado médico correspondiente de la persona fallecida.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2012)</small>
+
+Una vez que la autoridad sanitaria correspondiente lo expida, las agencias funerarias o cualquier persona interesada presentarán en un lapso no mayor a cinco días hábiles ante la oficina del registro civil de su jurisdicción, el certificado médico correspondiente de la persona fallecida.
 
 El incumplimiento de las obligaciones señaladas en los párrafos anteriores, se sancionará en los términos del Artículo 56 de este Código.
 
@@ -1483,9 +1485,9 @@ Faltando los parientes a que se refieren las disposiciones anteriores, tienen ob
 
 284.- El adoptante y el adoptado tienen la obligación de darse alimentos en los casos en que la tienen los padres y los hijos. En el supuesto de la adopción plena, se aplicará lo conducente a los derechos y obligaciones existentes entre los hijos consanguíneos y sus parientes.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2012)</small>
 
-285.- Los Alimentos comprenden la comida, el vestido, la habitación y la asistencia en casos de enfermedad, embarazo y parto. Respecto de los menores los alimentos comprenden, además, los gastos necesarios para la educación preescolar, primaria y secundaria o su equivalente y para proporcionarles algún oficio, arte o profesión lícitos adecuados a su sexo y circunstancias personales. Tratándose de personas con discapacidad, en los términos de la Ley de la materia, lo indispensable para lograr en lo posible su rehabilitación, tratamiento y desarrollo.
+285.- Los Alimentos comprenden la comida, el vestido, la habitación y la asistencia en casos de enfermedad, embarazo y parto. Respecto de las personas menores de edad, los alimentos comprenden, además, los gastos necesarios para la educación preescolar, primaria y secundaria o su equivalente y para proporcionarle algún oficio, arte o profesión lícitos y adecuados a sus circunstancias personales. Tratándose de personas con discapacidad o declarados en estado de interdicción, en los términos de la Ley de la materia, lo indispensable para lograr en lo posible su rehabilitación, tratamiento y desarrollo.
 
 286.- El obligado a dar alimentos cumple la obligación asignando una pensión competente al acreedor alimentario, o incorporándolo a la familia. Si el acreedor se opone a ser incorporado, compete al Juez, según las circunstancias, fijar la manera de ministrar los alimentos.
 
@@ -12772,6 +12774,22 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 Quedan sin efecto todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
 
 P.O. 4 DE FEBRERO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JUNIO DE 2012.
+
+DECRETO No. 463/2011 I P.O. POR EL QUE SE REFORMA EL ARTÍCULO 285 DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JUNIO DE 2012.
+
+DECRETO NÚMERO 803/2012 II P.O. POR EL QUE SE REFORMA EL ARTÍCULO 114 Y EL TERCER PÁRRAFO DEL ARTÍCULO 116, AMBOS DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA.
 
 ###### ARTÍCULO ÚNICO.
 
