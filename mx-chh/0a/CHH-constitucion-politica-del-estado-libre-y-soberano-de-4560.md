@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2012-06-27"
+last_updated: "2012-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2012.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -1973,7 +1973,7 @@ Los Jueces de Primera Instancia otorgarán la protesta de Ley, ante el President
 
 DE LA EDUCACION PUBLICA.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2012)</small>
 
 ###### Art. 114.
 
@@ -2077,7 +2077,7 @@ DEL MUNICIPIO LIBRE.
 
 El territorio del Estado se divide en sesenta y siete municipios que son:
 
-1. Ahumada, 2. Aldama, 3. Allende, 4. Aquiles Serdán, 5. Ascensión, 6. Bachíniva, 7. Balleza, 8. Batopilas, 9. Bocoyna, 10. Buenaventura, 11. Camargo, 12. Carichí, 13. Casas Grandes, 14. Coronado, 15. Coyame del Sotol, 16. Cuauhtémoc, 17. Cusihuiriachi, 18. Chihuahua, 19. Chínipas, 20. Delicias, 21. Dr.Belisario Domínguez, 22. El Tule, 23. Galeana, 24. Gómez Farías, 25. Gran Morelos, 26. Guadalupe, 27. Guadalupe y Calvo, 28. Guachochi, 29. Guazapares, 30.Guerrero, 31. Hidalgo del Parral, 32. Huejotitán, 33. Ignacio Zaragoza, 34. Janos, 35. Jiménez, 36.Juárez, 37. Julimes, 38. La Cruz, 39. López, 40. Madera, 41. Maguarichi, 42. Manuel Benavides, 43. Matachí, 44. Matamoros, 45. Meoqui, 46. Morelos, 47. Moris, 48. Namiquipa, 49. Nonoava, 50. Nuevo Casas Grandes, 51. Ocampo, 52. Ojinaga, 53. Praxedis G. Guerrero, 54. Riva Palacio, 55. Rosales, 56. Rosario, 57. San Francisco de Borja, 58. San Francisco de Conchos, 59. San Francisco del Oro, 60. Santa Bárbara, 61. Santa Isabel, 62. Satevó, 63. Saucillo, 64. Temósachic, 65. Urique, 66. Uruachi, 67. Valle de Zaragoza.
+1. Ahumada, 2. Aldama, 3. Allende, 4. Aquiles Serdán, 5. Ascensión, 6. Bachíniva, 7. Balleza, 8. Batopilas, 9. Bocoyna, 10. Buenaventura, 11. Camargo, 12. Carichí, 13. Casas Grandes, 14. Coronado, 15. Coyame del Sotol, 16. Cuauhtémoc, 17. Cusihuiriachi, 18. Chihuahua, 19. Chínipas, 20. Delicias, 21. Dr.Belisario Domínguez, 22. El Tule, 23. Galeana, 24. Gómez Farías, 25. Gran Morelos, 26. Guadalupe, 27. Guadalupe y Calvo, 28. Guachochi, 29. Guazapares, 30. Guerrero, 31. Hidalgo del Parral, 32. Huejotitán, 33. Ignacio Zaragoza, 34. Janos, 35. Jiménez, 36. Juárez, 37. Julimes, 38. La Cruz, 39. López, 40. Madera, 41. Maguarichi, 42. Manuel Benavides, 43. Matachí, 44. Matamoros, 45. Meoqui, 46. Morelos, 47. Moris, 48. Namiquipa, 49. Nonoava, 50. Nuevo Casas Grandes, 51. Ocampo, 52. Ojinaga, 53. Praxedis G. Guerrero, 54. Riva Palacio, 55. Rosales, 56. Rosario, 57. San Francisco de Borja, 58. San Francisco de Conchos, 59. San Francisco del Oro, 60. Santa Bárbara, 61. Santa Isabel, 62. Satevó, 63. Saucillo, 64. Temósachic, 65. Urique, 66. Uruachi, 67. Valle de Zaragoza.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2001)</small>
 
@@ -2531,7 +2531,7 @@ DE LA SALUD PUBLICA.
 
 ###### Art. 143.
 
-Todo habitante del Estado en edad escolar, tiene derecho a recibir la educación preescolar, primaria y secundaria, las cuales tendrán carácter de obligatorias y se impartirán gratuitamente en los planteles Oficiales, de acuerdo con la ley de la materia.
+Todo habitante del Estado en edad escolar, tiene derecho a recibir la educación preescolar, primaria, secundaria y media superior, las cuales tendrán el carácter de obligatorias y se impartirán gratuitamente en los planteles oficiales, de acuerdo con la ley de la materia.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -3714,3 +3714,13 @@ Conforme lo dispone el artículo 202 de la Constitución Política del Estado, e
 ###### ARTÍCULO SEGUNDO.
 
 Por lo que hace a la reforma constitucional contenida en el Artículo Primero del presente Decreto, ésta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. Las reformas y derogaciones a la Ley Electoral del Estado de Chihuahua, contenidas en el Artículo Segundo del presente Decreto, surtirán vigencia un día después de que lo haga la reforma constitucional señalada.
+
+P.O. 30 DE JUNIO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme a lo que dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y su aplicación estará sujeta a lo dispuesto por la legislación secundaria del Estado.
