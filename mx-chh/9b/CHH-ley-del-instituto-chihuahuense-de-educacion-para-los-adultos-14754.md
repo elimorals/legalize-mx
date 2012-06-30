@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-instituto-chihuahuense-de-educacion-para-los-adultos-14
 country: "mx"
 rank: "ley"
 publication_date: "1999-05-26"
-last_updated: "2010-01-13"
+last_updated: "2012-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY DEL INSTITUTO CHIHUAHUENSE DE EDUCACION PARA LOS ADULTOS
 
-LEY DEL INSTITUTO CHIHUAHUENSE DE EDUCACION PARA LOS ADULTOS
+LEY DEL INSTITUTO CHIHUAHUENSE DE EDUCACIÓN PARA LOS ADULTOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2012.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 26 de mayo de 1999.
 
@@ -51,7 +51,7 @@ DISPOSICIONES PRELIMINARES.
 
 Se crea el Instituto Chihuahuense de Educación para los Adultos, como organismo público descentralizado, con personalidad jurídica y patrimonio propios, con domicilio en la Ciudad de Chihuahua, Chih.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 2.
 
@@ -59,7 +59,7 @@ El Instituto Chihuahuense de Educación para los Adultos como Organismo Descentr
 
 La educación para adultos, como parte del sistema educativo nacional, deberá cumplir con los planes y programas de estudio que rigen a esta modalidad educativa no escolarizada y, consiguientemente, observar la normatividad establecida por el Instituto Nacional para la Educación de los Adultos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 3.
 
@@ -241,15 +241,17 @@ Son facultades y obligaciones del Director General:
 
 I.- Dirigir técnica y administrativamente al Instituto;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2012)</small>
 
-II.- Ejercer la representación legal del Instituto como apoderado general para pleitos y cobranzas, actos de administración y de dominio, con todas las facultades generales y las especiales que de acuerdo con la ley requieran autorización o cláusula especial. Para el ejercicio de las facultades para actos de dominio se procederá conforme a lo previsto en las leyes aplicables del Estado, de este ordenamiento y en el Reglamento Interno del Instituto;
+II.- Administrar y representar legalmente al Instituto con las facultades de un apoderado general para pleitos y cobranzas y actos de administración, con todas las facultades generales y especiales que requieran cláusula especial conforme a la ley; por lo que con carácter enunciativo, no limitativo, podrá desistirse del juicio de amparo, presentar denuncias y querellas penales y otorgar el perdón correspondiente; interponer y contestar demandas aun en materia laboral; formular y absolver posiciones aun en materia laboral y, en general, ejercer todos los actos de representación y mandato que sean necesarios, incluyendo los que para su ejercicio requieran cláusula especial en los términos que señalen las leyes;
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2000)</small>
 
 III.- Otorgar los poderes generales y especiales con las facultades que le competen, sin perder el ejercicio directo de éstas, incluyendo las que requieran autorización o cláusula especial, así como sustituir y revocar dichos poderes, conforme a lo previsto en las leyes aplicables del Estado, de este ordenamiento y en el Reglamento Interno del Instituto;
 
-IV.- Delegar en funcionarios subalternos, para la más ágil toma de decisiones y simplificación administrativa, las facultades que expresamente determine, sin menoscabo de conservar su ejercicio directo;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2012)</small>
+
+IV.- Delegar en funcionarios subalternos, para la más ágil toma de decisiones y simplificación administrativa, las facultades que expresamente determine; sustituir y delegar el poder para pleitos y cobranzas, en uno o más apoderados, para que las ejerzan individual o conjuntamente, así como revocar los poderes que otorgue. Para actos de dominio, requerirá de la autorización expresa de la Junta de Gobierno para cada caso concreto;
 
 V.- Someter a la aprobación de la Junta de Gobierno el Programa Operativo Anual y el proyecto de presupuesto anual de ingresos y egresos del Instituto;
 
@@ -389,7 +391,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. VICTOR E. ANCHONDO PAREDES.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 23 DE DICIEMBRE DE 2000.
 
@@ -452,3 +454,9 @@ Cuando en cualquier otro ordenamiento legal, acuerdo, convenio o contrato de la 
 P.O. 13 DE ENERO DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JUNIO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
