@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2012-04-28"
+last_updated: "2012-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2012.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -201,9 +201,9 @@ IV.- Las intervenciones consistirán en comentarios generales en torno al docume
 
 V.- Quedan prohibidas las imputaciones irrespetuosas y en forma de diálogo.
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2012)</small>
 
-Una vez recibido el informe el Presidente lo turnará a una comisión especial para su análisis a fin de que dentro del término de cuarenta y cinco días emita una opinión al Pleno. Asimismo, esta Comisión Especial tendrá a su cargo el análisis del Plan Estatal de Desarrollo, así como el seguimiento del mismo en forma semestral presentando sus conclusiones al Pleno. El mismo trámite se le dará a los informes que rindan los servidores públicos a que se refiere el párrafo segundo del artículo 96 de la Constitución Local. En ambos casos el Pleno podrá acordar a petición de la Comisión que se remitan a los presentadores del informe las observaciones que se estime pertinentes las que, en ningún caso, serán vinculantes.
+Una vez recibido el informe, el Presidente lo turnará a una Comisión Especial para su análisis a fin de que dentro del término de treinta días naturales emita una opinión al Pleno. Asimismo, está Comisión Especial tendrá a su cargo el análisis del Plan Estatal de Desarrollo, así como el seguimiento del mismo en forma semestral presentando sus conclusiones al Pleno. El mismo trámite se le dará a los informes que rindan los servidores públicos a que se refiere el párrafo segundo del artículo 96 de la Constitución Local. En ambos casos el Pleno podrá acordar, a petición de la Comisión, que se remitan a los presentadores del informe las observaciones que estime pertinentes las que, en ningún caso, serán vinculantes. Dicha Comisión deberá estar conformada a más tardar en sesión posterior a la fecha en (sic) sea recibido el informe por la Presidencia.
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2004)</small>
 
@@ -2320,6 +2320,12 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 Para dar cumplimiento a lo dispuesto en el Decreto, se contará con un plazo de ciento ochenta días naturales contados a partir de la publicación del presente Decreto en el Periódico Oficial del Estado.
 
 P.O. 28 DE ABRIL DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JUNIO DE 2012.
 
 ###### ARTÍCULO ÚNICO.
 
