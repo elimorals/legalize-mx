@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2010-10-02"
+last_updated: "2012-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2012.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -361,7 +361,7 @@ Si la excepción es declarada procedente, se condenará en costas, daños y perj
 
 ## TITULO SEGUNDO. REGLAS GENERALES DEL PROCEDIMIENTO
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE FEBRERO DE 2006)</small>
 
 ### CAPITULO I. De la capacidad, la personalidad y la representación procesal
 
@@ -1195,7 +1195,7 @@ El que haya obtenido la providencia de suspensión provisional de una obra nueva
 
 ## TITULO SEXTO. DEL JUICIO ORDINARIO
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE FEBRERO DE 2001)</small>
 
 ### CAPITULO I. De la demanda, de su contestación, de la rebeldía, de la fijación de la litis, y de la audiencia de conciliación y depuración procesal
 
@@ -1957,7 +1957,9 @@ Las que se pronuncien en los demás juicios sumarios incluyendo las sentencias, 
 
 410.- El divorcio por mutuo consentimiento sólo puede pedirse después de un año de celebrado el matrimonio. El divorcio contencioso puede solicitarse en cualquier tiempo.
 
-411.- En el divorcio por mutuo consentimiento se deberá presentar una solicitud por los interesados, la que contendrá el convenio que hayan celebrado respecto a la situación de los hijos y división de los bienes; o en su caso la manifestación de que no hay hijos o bienes que dividir provenientes de la sociedad conyugal formada con el matrimonio.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2012)</small>
+
+411.- En el divorcio por mutuo consentimiento se deberá presentar una solicitud por los interesados, la que contendrá el convenio que hayan celebrado respecto a la situación de los hijos, la pensión alimenticia y división de los bienes; o en su caso, la manifestación de que no hay hijos o bienes que dividir provenientes de la sociedad conyugal formada con el matrimonio.
 
 412.- Presentada la solicitud y el convenio o manifestación a que alude el artículo anterior, previa la ratificación hecha por ambos cónyuges o por uno de ellos y el legítimo representante del otro, el juez decretará el divorcio de plano, aprobando el convenio que aquéllos hayan celebrado, en su caso, respecto a la situación de los hijos y división de los bienes.
 
@@ -2305,7 +2307,7 @@ IV.- Por nombramiento recaído en el árbitro, de magistrado o juez, propietario
 
 V.- Por la expiración del plazo estipulado en el compromiso, en la cláusula compromisoria, o en la ley.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE MAYO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MAYO DE 2003)</small>
 
 ### CAPITULO VII. Del procedimiento en caso de rebeldía
 
@@ -2839,7 +2841,7 @@ Si todos los interesados tuvieren igual porción en la finca, el título quedar�
 
 631.- Será causa de remoción del albacea el hecho de no presentar el proyecto de distribución provisional de los frutos, a que se refiere el artículo 628, dentro del término fijado en ese mismo precepto y en su caso, dentro del señalado en el artículo que antecede; y lo será también el dejar de cubrir durante dos bimestres consecutivos, sin justa causa, las porciones de los frutos correspondientes a cada heredero o legatario.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
 #### SECCION OCTAVA. De la tramitación extrajudicial de las testamentarías e intestamentarías
 
@@ -4097,11 +4099,11 @@ VI.- La aclaración de actas del estado civil cuando se trate de errores gramati
 
 Los casos a que se refiere el párrafo anterior son: el depósito de menores o incapacitados que se hallen sujetos a la patria potestad o a tutela y que fueren maltratados por sus padres o tutores, reciban de éstos ejemplos perniciosos a juicio de juez o sean obligados por ellos a cometer actos reprobados por las leyes; y el depósito de huérfanos o incapacitados que queden en abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren.
 
-> <small>(ADICIONADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE MAYO DE 1981)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE MAYO DE 1981)</small>
 
 ## TITULO DECIMO CUARTO
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE MAYO DE 1981)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE MAYO DE 1981)</small>
 
 ### CAPITULO UNICO. De las controversias del orden familiar
 
@@ -4601,7 +4603,7 @@ QUINTO.- Las apelaciones ya interpuestas contra resoluciones dictadas en negocio
 
 P.O. 30 DE MAYO DE 1981.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 PRIMERO.- Este Decreto entrará en toda la Entidad veinte días después de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -4629,7 +4631,7 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 P.O. 12 DE AGOSTO DE 1995.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 ###### ARTICULO SEPTIMO.
 
@@ -4801,13 +4803,13 @@ P.O. 6 DE OCTUBRE DE 2004.
 
 DECRETO No. 1189/04 XVI P.E.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3º DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
 
 P.O. 6 DE OCTUBRE DE 2004.
 
 DECRETO No. 1190/04 XVI P.E.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3º DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
 
 P.O. 10 DE DICIEMBRE DE 2005.
 
@@ -4857,7 +4859,7 @@ P.O. 10 DE OCTUBRE DE 2009.
 
 P.O. 28 DE OCTUBRE DE 2009.
 
-DECRETO No. 644/09 II, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 520, 529 BIS, 572, 574, 601, 633 BIS Y 886 DEL CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA.
+DECRETO No. 644/09 II, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 520, 529 BIS, 572, 574, 601, 633 BIS Y 886 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -4929,7 +4931,7 @@ ARTÍCULO DECIMOCUARTO. Los trabajos para el diseño, acopio y conformación del
 
 P.O. 28 DE OCTUBRE DE 2009.
 
-DECRETO No. 728/09 VI, POR EL QUE SE DEROGAN LOS ARTICULOS 888 Y 889 DEL CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO.
+DECRETO No. 728/09 VI, POR EL QUE SE DEROGAN LOS ARTÍCULOS 888 Y 889 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -5020,3 +5022,9 @@ P.O. 2 DE OCTUBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JUNIO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
