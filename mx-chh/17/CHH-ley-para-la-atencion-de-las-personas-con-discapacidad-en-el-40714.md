@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-atencion-de-las-personas-con-discapacidad-en-el-407
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-24"
-last_updated: "2010-07-17"
+last_updated: "2012-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY PARA LA ATENCION DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO CHIHUAHUA
 
-LEY PARA LA ATENCION DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA
+LEY PARA LA ATENCIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 2010.
+ÚLTIMA REFORMA PÚBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2012.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 30 de julio de 2004.
 
@@ -579,9 +579,15 @@ Los edificios que tengan escaleras en su acceso desde la vía pública, deberán
 
 Bajo ninguna circunstancia la rampa de servicios de carga y de descarga de un edificio podrá destinarse a la función precisada en el párrafo anterior.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2012)</small>
+
 ###### Artículo 57.
 
-En los auditorios, cines, teatros, salas de conciertos y de conferencias, centros, recreativos, deportivos y en general recinto en que se presenten espectáculos públicos, los administradores u organizadores deberán establecer adecuadamente espacios reservados para personas con discapacidad que no puedan ocupar las butacas o asientos ordinarios.
+En los auditorios, cines, teatros, salas de conciertos y de conferencias, centros recreativos, deportivos y en general cualquier recinto en que se presenten espectáculos públicos, los administradores u organizadores deberán establecer adecuadamente espacios reservados para personas con discapacidad que no puedan ocupar las butacas o asientos ordinarios, que en ningún caso podrá ser inferior al 2% del total de los lugares.
+
+Los Ayuntamientos, en atención a las características imperantes en cada municipio, relativas a su población, infraestructura, tipo de evento y afluencia de espectadores, entre otras, podrán establecer en sus respectivos reglamentos los criterios que permitan incrementar el porcentaje antes mencionado.
 
 ###### Artículo 58.
 
@@ -741,14 +747,20 @@ EL PROCURADOR GENERAL DE JUSTICIA ENCARGADO DEL DESPACHO DE LA SECRETARIA GENERA
 
 LIC. JESUS ANTONIO PIÑON JIMENEZ.
 
-N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+N. DE E.: A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
 
 P.O. 20 DE SEPTIEMBRE DE 2006.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
 
 P.O. 17 DE JULIO DE 2010.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JUNIO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor seis meses después de la fecha de su publicación en el Periódico Oficial del Estado.
