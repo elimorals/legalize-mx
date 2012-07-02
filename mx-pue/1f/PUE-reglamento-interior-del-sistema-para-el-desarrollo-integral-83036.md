@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-sistema-para-el-desarrollo-integral-830
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-21"
-last_updated: "2011-10-10"
+last_updated: "2012-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83036&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 10 DE OCTUBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2012.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el miércoles 21 de septiembre de 2011.
 
@@ -57,21 +55,41 @@ El Sistema para el Desarrollo Integral de la Familia del Estado de Puebla, condu
 
 Para los efectos del presente Reglamento, se entenderá por:
 
-I. Consejo Técnico: el Consejo Técnico de Adopciones;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2012)</small>
 
-II. Director General: el Director General del SEDIF;
+I. Certificado de idoneidad o dictamen técnico: Al documento que declara a los futuros padres aptos e idóneos para el ejercicio de la paternidad adoptiva, en beneficio del menor que será su hijo;
 
-III. Junta Directiva: la Junta Directiva del SEDIF;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2012)</small>
 
-IV. Ley: la Ley sobre el Sistema Estatal de Asistencia Social;
+II. Consejo Técnico: Al Consejo Técnico de Adopciones;
 
-V. Patronato: el Patronato del Sistema para el Desarrollo Integral de la Familia del Estado de Puebla;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2012)</small>
 
-VI. Reglamento: el Reglamento Interior del Sistema para el Desarrollo Integral de la Familia del Estado de Puebla;
+III. Director General: Al Director General del SEDIF;
 
-VII. SEDIF: el organismo público descentralizado denominado Sistema para el Desarrollo Integral de la Familia del Estado de Puebla; y
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2012)</small>
 
-VIII. Sistemas Municipales DIF: las unidades administrativas de los municipios del Estado, encargadas del desarrollo y cumplimiento de los programas que implemente el SEDIF.
+IV. Junta Directiva: A la Junta Directiva del SEDIF;
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2012)</small>
+
+V. Ley: A la Ley Sobre el Sistema Estatal de Asistencia Social;
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2012)</small>
+
+VI. Patronato: Al Patronato del Sistema para el Desarrollo Integral de la Familia del Estado de Puebla;
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2012)</small>
+
+VII. Reglamento: Al Reglamento Interior del Sistema para el Desarrollo Integral de la Familia del Estado de Puebla;
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2012)</small>
+
+VIII. SEDIF: Al organismo público descentralizado denominado Sistema para el Desarrollo Integral de la Familia del Estado de Puebla; y
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2012)</small>
+
+IX. Sistemas Municipales DIF: A las Unidades Administrativas de los Municipios del Estado, encargadas del desarrollo y cumplimiento de los programas que implemente el SEDIF.
 
 ###### ARTÍCULO 4.
 
@@ -447,6 +465,38 @@ XXIII. Coordinar con la Secretaría General de Gobierno, el establecimiento, con
 
 El Consejo Técnico de Adopciones es un cuerpo colegiado coadyuvante de la asistencia social, que tendrá como objetivo vigilar el desempeño de la tutela que se le concede por ministerio de ley y sobre la delegación de aquélla y la posibilidad de adopción de los menores o incapaces, así como emitir los certificados de idoneidad correspondientes, protegiendo y cuidando el interés superior del menor o incapaz, conforme a las leyes de la materia, acuerdos y tratados internacionales.
 
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2012)</small>
+
+Los cargos de los miembros del Consejo serán honoríficos, por tal motivo no recibirán remuneración, emolumento, compensación o retribución alguna por su desempeño.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2012)</small>
+
+ARTÍCULO 15 BIS.- El Consejo Técnico tendrá las siguientes atribuciones:
+
+I. Recibir el informe de los ingresos y egresos de los menores bajo tutela y custodia del SEDIF;
+
+II. Conocer los casos de restitución al núcleo familiar de los menores bajo la protección del SEDIF, y en su caso, el traslado de éstos a su lugar de origen, autorizado por el Titular del Departamento de Procuraduría de la Defensa del Menor, la Mujer y la Familia del SEDIF;
+
+III. Conocer el seguimiento de los menores que se han restituido a su núcleo familiar;
+
+IV. Establecer los requisitos que deben cumplir los solicitantes de adopción para la integración del expediente respectivo;
+
+V. Analizar la situación jurídica, médica, psicológica y psiquiátrica de los menores que se encuentran bajo la tutela y custodia del SEDIF;
+
+VI. Determinar las medidas que conforme a la ley, se tengan que aplicar respecto a los menores e incapaces, asegurando su bienestar físico y mental;
+
+VII. Aprobar las propuestas sometidas a su consideración, relativa a los menores e incapaces candidatos a ingresar al programa de adopciones;
+
+VIII. Aprobar las solicitudes de adopción;
+
+IX. Asignar a los solicitantes que previamente hayan sido aceptados e incorporados a la lista de espera que corresponda y se consideren los más idóneos, a los menores e incapaces sujetos de adopción;
+
+X. Aprobar, conocer y tener seguimiento del menor que se encuentra bajo la protección del SEDIF, así como la dinámica familiar en el momento de la restitución;
+
+XI. Emitir lineamientos para su operación; y
+
+XII. Suscribir las actas de las sesiones del Consejo.
+
 ###### ARTÍCULO 16.
 
 El Consejo Técnico estará integrado por:
@@ -477,25 +527,51 @@ h) Un psiquiatra adscrito al SEDIF.
 
 i) Un psicólogo adscrito al SEDIF.
 
-IV. Los asesores que al efecto se inviten por el Presidente del Consejo Técnico, de las siguientes instituciones:
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2012)</small>
 
-a) Tribunal Superior de Justicia del Estado.
+IV. Los asesores que al efecto se inviten por el Presidente del Consejo Técnico, serán:
 
-b) Procuraduría General de Justicia del Estado.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2012)</small>
 
-c) El Titular de la Casa de Asistencia autorizada y con convenio donde se alberga al niño propuesto para adopción.
+a) Un representante del Tribunal Superior de Justicia del Estado.
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2012)</small>
+
+b) Un representante de la Procuraduría General de Justicia del Estado.
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2012)</small>
+
+c) El Titular de la Casa de Asistencia que con autorización y convenio suscrito con el SEDIF, alberga al menor propuesto para adopción.
 
 Los integrantes del Consejo Técnico señalados en las fracciones I, II y III del presente artículo, contarán con derecho a voz y voto, los asesores contarán únicamente con derecho a voz y en caso de empate el Presidente tendrá voto de calidad.
 
 A través del Presidente, podrán invitarse a participar en las sesiones del Consejo Técnico a cuatro especialistas en las disciplinas que lo integran, quienes tendrán derecho a voz pero no a voto.
 
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2012)</small>
+
+La Presidenta del Patronato del SEDIF podrá acudir a las sesiones del Consejo Técnico, con derecho a voz en su calidad de tutora de los menores que por ministerio de ley le corresponda.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2012)</small>
+
+El Consejo Técnico sesionará válidamente cuando concurran la mitad más uno de sus integrantes, dentro de los cuales deberá estar invariablemente el Presidente del Consejo Técnico. Los demás integrantes podrán designar un suplente que lo sustituya en sus ausencias; la designación deberá hacerse por escrito del propio integrante.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2012)</small>
+
+Las decisiones del Consejo Técnico serán irrevocables y válidas por el voto mayoritario de sus miembros presentes.
+
 ###### ARTÍCULO 17.
 
 El Consejo Técnico sesionará en forma ordinaria cada mes y medio y en forma extraordinaria las veces que sea necesario, atendiendo a la urgencia del caso a tratar.
 
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2012)</small>
+
+La convocatoria se enviará a los consejeros y asesores, con una anticipación mínima de tres días hábiles a la sesión tratándose de ordinarias.
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2012)</small>
+
 ###### ARTÍCULO 18.
 
-El Consejo Técnico actuará conforme a la instrucción del Director General, su reglamento interior y demás normatividad aplicable.
+El Consejo Técnico actuará conforme a la instrucción del Director General, sus lineamientos y demás normatividad aplicable.
 
 ### CAPÍTULO ÚNICO
 
@@ -562,3 +638,11 @@ TERCERO.- Se derogan todos los acuerdos, decretos, circulares, instructivos y de
 CUARTO.- Las aprobaciones de la Junta Directiva que prevé el artículo 6 del presente Reglamento, podrán ser posteriores a la instrumentación de las acciones que requieran ejecución inmediata. Lo anterior de acuerdo a la normatividad aplicable y sin menoscabo de las más amplias facultades de la Junta Directiva, para realizar a nombre del SEDIF todos los actos que fueron necesarios para el cumplimiento de su objetivo.
 
 Dado en la sede del Poder Ejecutivo del Estado, en la Heroica Puebla de Zaragoza, a los dos días de septiembre de dos mil once.- "Sufragio Efectivo. No Reelección".- El Gobernador Constitucional del Estado Libre y Soberano de Puebla.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.- El Secretario de Salud y Director General de los Servicios de Salud del Estado de Puebla.- C. JORGE FOUAD AGUILAR CHEDRAUI.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE JULIO DE 2012.
+
+PRIMERO.- El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO.- Quedan sin efecto las disposiciones de la misma naturaleza que contravengan lo dispuesto en este Decreto.
