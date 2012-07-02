@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-ingresos-del-gobierno-del-estado-de-morelos-84264"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2011-12-21"
-last_updated: "2011-12-21"
+last_updated: "2012-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE INGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS, CORRESPONDIENTE AL EJERCICIO FISCAL DEL PRIMERO DE ENERO AL TREINTA Y UNO DE DICIEMBRE DE DOS MIL DOCE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 21 de diciembre de 2011.
 
@@ -39,11 +39,13 @@ Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la sigui
 
 LEY DE INGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS, CORRESPONDIENTE AL EJERCICIO FISCAL DEL PRIMERO DE ENERO AL TREINTA Y UNO DE DICIEMBRE DE DOS MIL DOCE.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2012)</small>
+
 ###### ARTÍCULO PRIMERO.
 
 Se aprueba la Ley de Ingresos del Gobierno del Estado de Morelos, para el ejercicio fiscal del 1 de enero al 31 de diciembre de dos mil doce.
 
-El Gobierno del Estado de Morelos percibirá los ingresos provenientes de los conceptos señalados en el Artículo Segundo de la presente Ley de Ingresos, por la cantidad de: $ 17'649,341,000.00 (DIECISIETE MIL SEISCIENTOS CUARENTA Y NUEVE MILLONES TRESCIENTOS CUARENTA Y UN MIL PESOS 00/100 M. N.), el detalle de los ingresos estimados es el siguiente:
+El Gobierno del Estado de Morelos percibirá los ingresos provenientes de los conceptos señalados en el Artículo Segundo de la presente Ley de Ingresos, por la cantidad de: $ 17'789,374,000.00 (DIECISIETE MIL SETECIENTOS OCHENTA Y NUEVE MILLONES TRESCIENTOS SETENTA Y CUATRO MIL PESOS 00/100 M. N.), el detalle de los ingresos estimados es el siguiente:
 
 (MILES DE PESOS)
 
@@ -51,7 +53,7 @@ CONCEPTO IMPORTES IMPORTES TOTALES
 
 PARCIALES SUB TOTALES
 
-INGRESOS 17'649,341
+INGRESOS 17'789,374
 
 TOTALES
 
@@ -353,13 +355,13 @@ Cuota Venta Final 330,905
 
 Combustibles
 
-PARTICIPACIONES 5,979,753
+PARTICIPACIONES 6,119,786
 
 EN INGRESOS
 
 FEDERALES
 
-Fondo General de 5,469,330
+Fondo General de 5,609,363
 
 Participaciones
 
@@ -844,3 +846,11 @@ SECRETARIO DE GOBIERNO
 DR. OSCAR SERGIO HERNÁNDEZ BENÍTEZ
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE JULIO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y L bertad (sic)", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para los efectos a que se refiere el artículo 49 de la Constitución política del Estado Libre y Soberano de Morelos.
