@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-secretaria-de-la-contraloria-50191"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-27"
-last_updated: "2006-03-27"
+last_updated: "2012-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50191&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE CONTRALORIA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE CONTRALORÍA DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE CONTRALORÍA Y TRANSPARENCIA GUBERNAMENTAL, PUBLICADO EN P.O. DE 2 DE JULIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 27 de marzo de 2006.
 
@@ -596,3 +598,23 @@ Dado en la Residencia oficial del Poder Ejecutivo del Estado de Hidalgo, en la c
 GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO.
 
 LICENCIADO MIGUEL ÁNGEL OSORIO CHONG.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE JULIO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Decreto Gubernamental Publicado en el Periódico Oficial del Estado de Hidalgo el 24 de marzo del 2006, que contiene el Reglamento Interior de la Secretaría de Contraloría.
+
+###### ARTÍCULO TERCERO.
+
+Cuando el presente Reglamento confiera atribuciones a unidades administrativas con funciones equivalentes que se encuentren señaladas en otras disposiciones, con distintas denominaciones, se entenderá que corresponden a las unidades previstas en este Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+En tanto se expidan los Manuales de Organización, de Procedimientos y de Servicios al Público, el Secretario estará facultado para resolver lo que dichos Manuales deben regular.
