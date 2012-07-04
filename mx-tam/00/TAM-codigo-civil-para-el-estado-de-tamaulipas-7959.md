@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2012-02-15"
+last_updated: "2012-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2012.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -333,29 +333,21 @@ ART. 75.- Si el reconocimiento se hiciere en oficialía diferente de aquella en 
 
 ART. 76.- Dictada la resolución judicial definitiva que autorice la adopción, el adoptante o los adoptantes, dentro del término de quince días, presentarán al Oficial del Registro Civil de su domicilio copia certificada de la misma, a efecto de que se asiente el acta respectiva. La Autoridad Judicial que dicte la resolución estará obligada, asimismo, en igual término, a enviar copia certificada de la misma al Director del Registro Civil o bien a la oficialía que señalen los interesados, para su registro.
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
 
-ART. 77.- El acta de adopción simple contendrá los nombres, apellidos y domicilio del adoptante y del adoptado; el nombre y demás generales de las personas cuyo consentimiento hubiere sido necesario para la adopción, los nombres y apellidos y domicilio de las personas que intervienen como testigos. En el acta se insertarán los datos esenciales de la resolución judicial.
+ART. 77.- El acta de adopción se levantará en los mismos términos que la que se expide en la de nacimiento para los hijos consanguíneos.
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
-
-En los casos de adopción plena se levantará un acta, en los mismos términos que la que se expide en la de nacimiento para los hijos consanguíneos.
-
-ART. 78.- En el Acta de Adopción se insertará la parte resolutiva de la sentencia que haya autorizado la adopción. Por lo que se refiere a las adopciones hechas con anterioridad que no contengan todos los datos del artículo 77, se probarán por medio de diligencias de Jurisdicción Voluntaria sobre Información Ad-Perpetuam.
+ART. 78.- (DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS, P.O. 4 DE JULIO DE 2012)
 
 ART. 79.- La falta de registro de la adopción no quita a ésta sus efectos legales; pero sujeta al responsable a la pena señalada en el artículo 75.
 
-> <small>(REFORMADO P.O. 5 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
 
-ART. 80.- Extendida el acta de adopción simple se harán las anotaciones que correspondan al acta de nacimiento del adoptado y se archivará la copia de las diligencias relativas, poniéndole el mismo número del acta de adopción.
+ART. 80.- A partir del levantamiento del acta de adopción, se harán las anotaciones en el acta de nacimiento original, la cual quedará reservada. No se publicará ni expedirá constancia alguna que revele el origen del adoptado ni su condición de tal, salvo providencia dictada en el juicio.
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
 
-En el caso de adopción plena, a partir del levantamiento del acta a que se refiere el artículo anterior, se harán las anotaciones en el acta de nacimiento originaria, la cual quedará reservada. No se publicará ni expedirá constancia alguna que revele el origen del adoptado ni su condición de tal, salvo providencia dictada en el juicio.
-
-> <small>(REFORMADO P.O. 5 DE JUNIO DE 1999)</small>
-
-ART. 81.- El juez o tribunal que resuelva que una adopción simple queda sin efecto, remitirá dentro del término de ocho días copia certificada de su resolución al Juez del Registro Civil, para que cancele el acta de adopción y anote la de nacimiento.
+ART. 81.- El juez o tribunal que resuelva que una adopción queda sin efecto, remitirá dentro del término de ocho días copia certificada de su resolución al Juez del Registro Civil, para que cancele el acta de adopción y anote la de nacimiento.
 
 ### CAPITULO V. ACTAS DE MATRIMONIO
 
@@ -1169,13 +1161,7 @@ ART. 269.- El parentesco de consanguinidad es el que existe entre personas que d
 
 ART. 270.- El parentesco de afinidad es el que, con motivo del matrimonio, surge entre cada cónyuge y los parientes consanguíneos del otro.
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
-
-ART. 271.- El parentesco civil en la adopción simple es el que se produce por esta misma y se limita al adoptante y al adoptado.
-
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
-
-El parentesco en adopción plena, es el vínculo que existe con los ascendientes y descendientes del adoptante, así como los colaterales de éste.
+ART. 271.- (DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS, P.O. 4 DE JULIO DE 2012)
 
 ART. 272.- Cada generación forma un grado, y la serie de grados constituye lo que se llama línea de parentesco.
 
@@ -1215,13 +1201,9 @@ ART. 283.- A falta o por imposibilidad de los ascendientes o descendientes, la o
 
 ART. 284.- Los hermanos a que se refiere el artículo anterior, tienen obligación de dar alimentos a los menores, mientras éstos llegan a la edad de dieciocho años. También deben dar alimentos a sus hermanos incapaces.
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
 
-ART. 285.- En la adopción simple el adoptante y el adoptado tienen obligación de darse alimentos en los casos en que la tienen el padre y los hijos.
-
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
-
-En la adopción plena la obligación se extenderá a los ascendientes y descendientes de los adoptantes, así como a los colaterales de éste.
+ART. 285.- En la adopción el adoptante y el adoptado tienen obligación de darse alimentos en los casos en que la tienen el padre y los hijos.
 
 ART. 286.- El obligado a dar alimentos cumple la obligación asignando una pensión suficiente al acreedor alimentista, o incorporándolo a su familia. Si el acreedor se opone a ser incorporado compete al juez, según las circunstancias, fijar la manera de ministrar los alimentos.
 
@@ -1583,151 +1565,65 @@ ART. 357.- Los acreedores, legatarios o donatarios tendrán los mismos derechos 
 
 ART. 358.- Las acciones de que hablan los tres artículos que preceden, prescriben a los cuatro años, contados desde el fallecimiento del hijo.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS, P.O. 4 DE JULIO DE 2012)</small>
+
 ### CAPITULO III. DE LA ADOPCION
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 1999)</small>
+ART. 359.- (DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS, P.O. 4 DE JULIO DE 2012)
 
-ART. 359.- El marido y la mujer, o la persona mayor de veinticinco años libre de matrimonio, en pleno ejercicio de sus derechos, puede adoptar uno o más menores siempre que el adoptante tenga diecisiete años o más que el adoptado y a personas con incapacidad, aun cuando estas sean mayores de edad, acreditando además:
+ART. 359 BIS.- (DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS, P.O. 4 DE JULIO DE 2012)
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1999)</small>
+ART. 360.- (DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS, P.O. 4 DE JULIO DE 2012)
 
-I. Que tiene medios bastantes para proveer a la subsistencia, la educación y el cuidado de la persona que trata de adoptarse, como hijo propio, según las circunstancias de la persona que trata de adoptar;
+ART. 361.- (DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS, P.O. 4 DE JULIO DE 2012)
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1999)</small>
+ART. 362.- (DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS, P.O. 4 DE JULIO DE 2012)
 
-II. Que la adopción es benéfica para él o las personas que trata de adoptar, atendiendo al interés superior de la misma; y
+ART. 363.- (DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS, P.O. 4 DE JULIO DE 2012)
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1999)</small>
+ART. 364.- (DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS, P.O. 4 DE JULIO DE 2012)
 
-III. Que el adoptante es persona de reconocida probidad.
+ART. 365.- (DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS, P.O. 4 DE JULIO DE 2012)
 
-Cuando circunstancias especiales lo aconsejen, el juez puede autorizar la adopción de dos o más incapacitados. Lo mismo se observará si se pretende la adopción de menores e incapacitados simultáneamente.
+ART. 366.- (DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS, P.O. 4 DE JULIO DE 2012)
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+ART. 367.- (DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS, P.O. 4 DE JULIO DE 2012)
 
-ART. 359 BIS.- Con excepción de lo anunciado en la fracción III del Artículo anterior, cuyo procedimiento será determinado por el Juez. Lo demás relacionado con el mismo artículo, se comprobará exhibiendo el o los adoptantes.
+ART. 368.- (DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS, P.O. 4 DE JULIO DE 2012)
 
-I.- Curriculum Vitae;
+ART. 369.- (DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS, P.O. 4 DE JULIO DE 2012)
 
-II.- Certificado médico de buena salud expedido por una institución oficial, resultado de pruebas aplicadas para la detección del S.I.D.A., biometría hemática, química sanguínea;
+ART. 370.- (DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS, P.O. 4 DE JULIO DE 2012)
 
-III.- Copia certificada del acta de nacimiento y/o matrimonio;
+ART. 371.- (DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS, P.O. 4 DE JULIO DE 2012)
 
-IV.- Constancia de trabajo especificando puesto, sueldo y antigüedad;
+ART. 372.- (DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS, P.O. 4 DE JULIO DE 2012)
 
-V.- Carta de residencia de cada uno de los solicitantes; y
+ART. 373.- (DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS, P.O. 4 DE JULIO DE 2012)
 
-VI.- Copia de identificación de cada uno de los solicitantes.
+ART. 374.- (DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS, P.O. 4 DE JULIO DE 2012)
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+ART. 375.- (DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS, P.O. 4 DE JULIO DE 2012)
 
-ART. 360.- El marido y la mujer podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo aunque sólo uno de los cónyuges cumpla el requisito de la edad y de diferencia de edad a que se refiere el artículo anterior.
+ART. 376.- (DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS, P.O. 4 DE JULIO DE 2012)
 
-ART. 361.- Nadie puede ser adoptado por más de una persona, salvo en el caso previsto en el artículo anterior.
+ART. 377.- (DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS, P.O. 4 DE JULIO DE 2012)
 
-ART. 362.- El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de tutela.
+ART. 378.- (DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS, P.O. 4 DE JULIO DE 2012)
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+ART. 379.- (DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS, P.O. 4 DE JULIO DE 2012).
 
-ART. 363.- El menor que haya sido adoptado bajo la forma de adopción simple podrá impugnar dentro del año siguiente a la mayoría de edad; la persona con incapacidad que hubiese sido adoptado en esta misma modalidad, y en el caso de que dicha incapacidad hubiese desaparecido, podrá impugnar su adopción al cumplir su mayoría de edad.
-
-ART. 364.- El que adopta tendrá respecto de la persona y bienes del adoptado los mismos derechos y obligaciones que tienen los padres hacia la persona y bienes de los hijos.
-
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
-
-El adoptante dará nombre y sus apellidos al adoptado, salvo que por circunstancias específicas, en el caso de la adopción simple, no se estime conveniente.
-
-ART. 365.- El adoptado tendrá para con la persona o personas que lo adopten los mismos derechos y obligaciones que tiene un hijo.
-
-ART. 366.- Para que la adopción pueda efectuarse, deberán consentir en ella en sus respectivos casos:
-
-I.- El que ejerza o los que ejerzan la patria potestad sobre el menor que se trata de adoptar;
-
-II.- El tutor del que se va a adoptar;
-
-III.- Las personas que hayan acogido al que se pretenda adoptar y lo traten como a hijo cuando no hubiere quien ejerza la patria potestad sobre él ni tenga tutor;
-
-IV.- El Ministerio Público del lugar del domicilio del adoptado cuando éste no tenga padres conocidos, ni tutor ni persona que ostensiblemente le imparta su protección y lo haya acogido como hijo.
-
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
-
-Si el menor que va a adoptarse tiene más de doce años será necesario su consentimiento para la adopción. En el caso de personas con incapacidad, siempre y cuando fuese posible la expresión indubitable de su voluntad, será necesario el consentimiento del mismo.
-
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1999)</small>
-
-V.- Las instituciones de asistencia social públicas o privadas que hubieren aceptado al menor o al incapacitado que se pretenda adoptar.
-
-ART. 367.- Si el tutor, el Ministerio Público o las personas a que se refiere la fracción III del artículo anterior sin causa justificada no consienten en la adopción, podrá suplir el consentimiento el Presidente Municipal del lugar en que resida el incapacitado, cuando encontrare que la adopción es notoriamente conveniente para los intereses morales y materiales de éste.
-
-ART. 368.- El procedimiento para hacer la adopción será fijado en la Ley Procesal Civil.
-
-ART. 369.- Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando una adopción, quedará ésta consumada.
-
-ART. 370.- El juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente.
-
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
-
-ART. 371.- Los derechos y obligaciones que nacen de la adopción simple, así como el parentesco que de ella resulte, se limita al adoptante y al adoptado, excepto en lo relativo a los impedimentos de matrimonio, respecto de los cuales se observará lo que dispone el Artículo 139.
-
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
-
-ART. 372.- Los derechos y obligaciones que resulten del parentesco natural no se extinguen por la adopción simple, con excepción de la patria potestad, que será transferida al adoptante, salvo que, en su caso, esté casado con alguno de los progenitores del adoptado, porque entonces ejercerá por ambos cónyuges.
-
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
-
-ART. 373.- La adopción simple podrá convertirse en plena, debiendo obtenerse el consentimiento del adoptado si este hubiere cumplido doce años. Si fuere menor de esa edad se requiere el consentimiento de quien hubiere consentido en la adopción siempre y cuando sea posible obtenerlo; de lo contrario el juez deberá resolver atendiendo al interés superior del menor.
-
-ART. 374.- La adopción puede revocarse:
-
-I.- Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, es necesario que consientan en la revocación las personas que prestaron su consentimiento, conforme al artículo 366;
-
-II.- Por ingratitud del adoptado.
-
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1999)</small>
-
-III.- Cuando el Sistema para el Desarrollo Integral de la Familia justifique que existe causa grave que ponga en peligro al menor.
-
-ART. 375.- Para los efectos de la fracción II del artículo anterior, se considera ingrato al adoptado:
-
-I.- Si comete algún delito que merezca una pena mayor de un año de prisión contra la persona, la honra o los bienes del adoptante, de su cónyuge, de sus ascendientes o descendientes;
-
-II.- Si el adoptado acusa judicialmente al adoptante de algún delito grave que pudiera ser perseguido de oficio, aunque lo pruebe, a no ser que hubiere sido cometido contra el mismo adoptado, su cónyuge, sus ascendientes o descendientes;
-
-III.- Si el adoptado rehusa dar alimentos al adoptante que ha caído en pobreza.
-
-ART. 376.- En el primer caso del artículo 374, el juez decretará que la adopción queda revocada si convencido de la espontaneidad con que se solicitó la revocación, encuentra que ésta es conveniente para los intereses morales y materiales del adoptado.
-
-ART. 377.- El decreto del juez deja sin efecto la adopción y restituye las cosas al estado que guardaban antes de efectuarse ésta.
-
-ART. 378.- En el segundo caso del artículo 374, la adopción deja de producir efectos desde que se comete el acto de ingratitud, aunque la resolución judicial que declare revocada la adopción sea posterior.
-
-ART. 379.- Las resoluciones que dicten los jueces, aprobando la revocación, se comunicarán al oficial del Registro Civil del lugar en que aquella se hizo para que cancele el acta de adopción.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 1999)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS, P.O. 4 DE JULIO DE 2012)</small>
 
 ## TITULO QUINTO. DE LA FILIACION Y PATERNIDAD
 
-### CAPITULO V (SIC). DE LA ADOPCION PLENA
+### CAPITULO IV. DE LA ADOPCION PLENA
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+ART. 379 BIS.- (DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS, P.O. 4 DE JULIO DE 2012)
 
-ART. 379 BIS.- El adoptado bajo la forma de adopción plena se equipara al hijo consanguíneo para todos los efectos legales, incluyendo los pedimentos de matrimonio. El adoptado tiene en la familia de el o los adoptantes los mismos derechos, deberes y obligaciones del hijo consanguíneo y debe llevar los apellidos del adoptante o adoptantes.
+ART. 379 TER.- (DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS, P.O. 4 DE JULIO DE 2012)
 
-La adopción plena extingue la filiación preexistente entre el adoptado y sus progenitores y el parentesco con las familias de éstos, salvo para los impedimentos de matrimonio. En el supuesto de que el adoptante este casado con alguno de los progenitores del adoptado no se extinguirán los derechos, obligaciones y demás consecuencias jurídicas de la filiación consanguínea.
-
-La adopción plena es irrevocable.
-
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
-
-ART. 379 TER.- Para que la adopción plena pueda tener efectos, además de las personas a que se refiere el artículo 366 de este Código deberá otorgar su consentimiento el padre o la madre del menor que se pretenda adoptar, salvo que exista al respecto declaración judicial de abandono.
-
-No pueden adoptar mediante adopción plena, las personas que tengan vínculo de parentesco consanguíneo con el menor o incapaz.
-
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
-
-ART. 379 QUATER.- Tratándose de la adopción plena, el Registro Civil se abstendrá de proporcionar información sobre los antecedentes de la familia de origen del adoptado, excepto en los casos siguientes contando con autorización judicial:
-
-Para efectos de impedimento para contraer matrimonio, y cuando el adoptado desee conocer sus antecedentes familiares, siempre y cuando sea mayor de edad; si fuere mayor de edad se requerirá del consentimiento de los adoptantes.
+ART. 379 QUATER.- (DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS, P.O. 4 DE JULIO DE 2012)
 
 ### CAPITULO I. DE LOS EFECTOS DE LA PATRIA POTESTAD
 
@@ -1898,6 +1794,10 @@ IV.- Por la exposición que el padre o la madre hiciere de sus hijos, o porque l
 A.- Siendo recién nacido y menor de un año, por más de veinte días; o
 
 B.- Cuando sea mayor de un año, por un periodo de más de cuarenta y cinco días;
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2012)</small>
+
+Para efectos de la presente fracción se considerarán también menores abandonados, aquellos que hayan sido dejados en custodia por las personas que ejerzan la patria potestad, en los Centros Asistenciales del Estado, dentro de los plazos establecidos en los incisos A y B de esta fracción.
 
 V.- Por abandono ocasional o negligencia que ponga en peligro su integridad física o su salud, cualquiera que sea la edad del menor, si esta circunstancia se prolonga hasta por tres meses.
 
@@ -10098,3 +9998,29 @@ P.O. 15 DE FEBRERO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE JULIO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos de adopciones que se hayan iniciando con anterioridad a la entrada en vigor del presente Decreto, continuarán desarrollándose conforme al procedimiento que se venía aplicando hasta la entrada en vigor del mismo.
+
+###### ARTÍCULO TERCERO.
+
+El Consejo Técnico de Adopciones deberá quedar instalado a más tardar a los treinta días posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Reglamento de la Ley de Adopciones para el Estado de Tamaulipas, deberá de expedirse en un plazo no mayor a 90 días hábiles posteriores a la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan los Capítulos III "De la Adopción" y IV "De la Adopción Plena", del Titulo Quinto, del Libro Primero y los artículos 78, 271; y del 359 al 379 Quater del Código Civil para el Estado de Tamaulipas.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente Decreto.
