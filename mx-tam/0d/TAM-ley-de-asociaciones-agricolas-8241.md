@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-asociaciones-agricolas-8241"
 country: "mx"
 rank: "ley"
 publication_date: "1945-01-31"
-last_updated: "2006-09-06"
+last_updated: "2012-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8241&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE ASOCIACIONES AGRICOLAS
 
-LEY DE ASOCIACIONES AGRICOLAS DEL ESTADO DE TAMAULIPAS
+LEY DE ASOCIACIONES AGRÍCOLAS DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 4 DE JULIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el 31 de enero de 1945.
 
@@ -73,7 +75,7 @@ Las Asociaciones que se formen al amparo de esta Ley, deberán hacer constar en 
 
 De las Asociaciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2004)</small>
 
 ###### Artículo 6o.
 
@@ -147,7 +149,7 @@ g).- Promover el arbitraje de las diferencias o conflictos que sugieren entre lo
 
 h).- Obtener créditos para sus asociados, siempre que el producto de esos créditos se destine a los cultivos o actividades conexas y los interesados no tengan adeudos con los Bancos Nacionales de Crédito Ejidal y Agrícola.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2004)</small>
 
 Las Federaciones de Asociaciones tendrán las siguientes atribuciones:
 
@@ -349,7 +351,7 @@ IV.- En los gastos de sostenimiento de su organización.
 
 V.- En la cooperación con el Gobierno del Estado para el estudio y construcción de obras de irrigación y de todas aquellas que beneficien a los agricultores; en el concepto de que dicha cooperación no será inferior al 50 por ciento de los ingresos que la propia Federación obtenga en los términos señalados en el Artículo 42 de esta Ley.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 27 DE MAYO DE 2004)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 27 DE MAYO DE 2004)</small>
 
 ###### Artículo 44o.
 
@@ -479,7 +481,7 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 
 Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado, a los veintitrés días del mes de enero de mil novecientos cuarenta y cinco.- LIC. BENITO JUAREZ OCHOA.- El Oficial Mayor de Gobierno, ARSENIO SAEB.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
 
 P.O. 27 DE MAYO DE 2004.
 
@@ -496,3 +498,37 @@ P.O. 6 DE SEPTIEMBRE DE 2006.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE JULIO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Agrícola y Forestal para el Estado de Tamaulipas, expedida mediante Decreto número 105, de fecha 18 de enero de 1994 y publicada en el Anexo al Periódico Oficial del Estado, número 30, de fecha 13 de abril de 1994, sus reformas expedidas mediante Decreto LIX-563, de fecha 8 de agosto de 2006 y publicado en el anexo al Periódico Oficial del Estado, número 107, de fecha 6 de septiembre de 2006, por el cual se reforman diversas disposiciones de la Ley, para adecuarla a la Ley Orgánica de la Administración Pública del Estado de Tamaulipas; publicada en el anexo al Periódico Oficial del Estado, número 152 del 21 de diciembre de 2004.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley de Asociaciones Agrícolas del Estado de Tamaulipas, expedida mediante Decreto No. 502, de fecha 2 de enero de 1945 y publicado en el Periódico Oficial del Estado, número 9, de fecha 31 de enero de 1945; así como sus respectivas reformas expedidas mediante Decreto No. 725, de fecha 18 de mayo de 2004, publicado en el Periódico Oficial del Estado, número 64, de fecha 27 de mayo de 2004, por el cual se reforman los artículos 1°, 3°, 4°, 6°, 7°, 8°, 10, 13, 14, 32, 33, 43 fracción I, 56 fracciones II y V y se deroga el último párrafo del artículo 43 y, Decreto LlX-563, de fecha 8 de agosto de 2006, publicado en el anexo al Periódico Oficial del Estado, número 107, de fecha 6 de septiembre de 2006, por la cual se reforman diversas disposiciones, para adecuarla a la Ley Orgánica de la Administración Pública del Estado de Tamaulipas; publicada en el anexo al Periódico Oficial del Estado, número 152 de fecha 21 de diciembre de 2004.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+El titular del Poder Ejecutivo del Estado expedirá dentro de los 180 días posteriores a la publicación de la presente Ley, el reglamento que previene este cuerpo normativo y las demás disposiciones administrativas necesarias.
+
+###### ARTÍCULO SEXTO.
+
+La Comisión Estatal deberá instalarse a más tardar a los 90 días posteriores a la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Comisión Estatal deberá de publicar en el Periódico Oficial del Estado el Programa Estatal dentro de los 180 días a partir de la instalación de la misma.
+
+###### ARTÍCULO OCTAVO.
+
+Los Ayuntamientos deberán de publicar en el Periódico Oficial del Estado sus Programas Municipales dentro de los 60 días a partir de la publicación del Programa Estatal.
