@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2012-04-02"
+last_updated: "2012-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2012.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -1977,9 +1977,9 @@ II. Cuidar del puntual cumplimiento de esta Constitución y de las leyes, decret
 
 III. (DEROGADA, P.O. 9 DE JULIO DE 1994)
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
 
-IV. Presentar al Congreso en los primeros cinco días de diciembre de cada año la iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos Generales del Estado, con los anexos que determine la ley;
+IV. Presentar al Congreso a más tardar el 25 de noviembre de cada año la iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos del Estado, con el contenido y los anexos que determine la ley.
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
 
@@ -3189,7 +3189,7 @@ Acto continuo, la misma autoridad que tome la protesta dirá: "Si no lo hicierei
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE ABRIL DE 2011)</small>
 
-Los servidores públicos que la ley determine deberán someterse para su ingreso y permanencia en el servicio público a exámenes de control de confianza. El Congreso del Estado expedirá una ley que en razón de esta disposición establezcan las bases y procedimientos para tal efecto.
+Los servidores públicos que la ley determine deberán someterse para su ingreso y permanencia en el servicio público a exámenes de control de confianza. El Congreso del Estado expedirá una ley que en razón de esta disposición establezca las bases y procedimientos para tal efecto.
 
 (REUBICADO [N. DE E. ANTES TÍTULO SÉPTIMO], P.O. 8 DE DICIEMBRE DE 2000)
 
@@ -3783,7 +3783,9 @@ NOVENO.- El Instituto Estatal Electoral y el Tribunal Estatal Electoral, continu
 
 DECIMO.- Con la finalidad de homologar los calendarios de los procesos electorales locales y federales, al concluir el periodo constitucional para el que fue electo el actual Gobernador del Estado, la Legislatura, con la aprobación de las dos terceras partes de sus integrantes, designará un Gobernador Interino Constitucional, para un periodo de transición que comprenderá del primero de diciembre de 2010 al 30 de noviembre de 2012.
 
-UNDECIMO.- El Honorable Congreso del Estado, contará con un plazo de hasta seis meses para reformar el Código de Instituciones Políticas y Procedimientos Electorales de Oaxaca, emitir la normatividad correspondiente a los medios de impugnación en materia electoral y demás ordenamientos relativos.
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2007)</small>
+
+UNDECIMO.- El Honorable Congreso del Estado, tendrá un plazo de noventa días más, contados a partir de la entrada en vigor del presente Decreto, para reformar el Código de Instituciones Políticas y Procedimientos Electorales de Oaxaca, emitir la normatividad correspondiente a los medios de impugnación en materia electoral y demás ordenamientos relativos.
 
 DUODECIMO.- Se derogan todas las disposiciones constitucionales y legales que se opongan al presente Decreto.
 
@@ -3996,6 +3998,10 @@ DECRETO NÚM. 1178, POR EL QUE SE REFORMA LA FRACCIÓN II DEL APARTADO A DEL ART
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Dentro del término de 180 días el Congreso del Estado deberá realizar las reformas necesarias a las leyes secundarias para armonizarlas con la presente reforma.
+
+P.O. 4 DE JULIO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
