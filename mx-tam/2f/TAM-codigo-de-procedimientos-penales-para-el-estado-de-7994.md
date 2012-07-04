@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-penales-para-el-estado-de-7994"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-17"
-last_updated: "2012-05-10"
+last_updated: "2012-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 4 DE JULIO DE 2012, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO EN LA FECHA Y ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ EN QUE DETERMINEN LOS DECRETOS A QUE ALUDE EL ARTÍCULO PRIMERO TRANSITORIO DEL ORDENAMIENTO EN MENCIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 17 de enero de 1987.
 
@@ -5026,3 +5028,61 @@ P.O. 10 DE MAYO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE JULIO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Vigencia
+
+El Código de Procedimientos Penales del Estado de Tamaulipas contenido en el presente Decreto entrará en vigor, de manera sucesiva, según las siguientes prevenciones:
+
+I. Sus disposiciones se aplicarán el 1 de julio de 2013, en el Distrito Judicial o Región, según sea el caso, que tenga como cabecera la ciudad de Victoria, Tamaulipas. En caso de que entrara en vigor antes de la fecha señalada, se atenderá el procedimiento que señala la fracción siguiente de este artículo;
+
+II. En el resto de los Distritos Judiciales o Regiones, sus disposiciones se aplicarán en la fecha que contengan los Decretos respectivos que deberán ser emitidos por el Congreso del Estado o la Comisión Permanente. Los Decretos deberán ser publicados en el Periódico Oficial del Estado;
+
+III. En caso de contar con la suficiencia presupuestal para su implementación, el Sistema Penal Acusatorio podrá aplicarse en uno o más de los Distritos Judiciales o Regiones atendiendo la prevención contenida en la fracción II del presente artículo; y
+
+IV. En ningún caso las disposiciones de este Código Procesal Penal del Estado de Tamaulipas en la totalidad de los Distritos Judiciales o Regiones de la Entidad podrá exceder el plazo establecido en el artículo segundo transitorio del Decreto por el cual se reforma la Constitución Política de los Estados Unidos Mexicanos en materia penal y de seguridad pública, publicado en el Diario Oficial de la Federación de fecha 18 de junio de 2008.
+
+###### ARTÍCULO SEGUNDO.
+
+Abrogación y derogación
+
+El Código de Procedimientos Penales del Estado de Tamaulipas, expedido mediante Decreto 463, del 26 de diciembre de 1986, publicado en el Periódico Oficial del Estado anexo al número 5, del 17 de enero de 1987 y sus reformas posteriores, se abrogará en la fecha y ámbito espacial y temporal de validez en que determinen los decretos a que alude el artículo primero transitorio del presente Decreto, conforme a las siguientes prevenciones:
+
+I. En el Distrito Judicial o Región, según sea el caso, que tenga como cabecera la ciudad de Victoria, Tamaulipas, el Código referido con antelación, seguirá rigiendo, en los procedimientos por delitos cometidos con anterioridad a la entrada en vigor del presente Código de Procedimientos Penales del Estado de Tamaulipas, y quedará abrogado cuando el último de los procedimientos tramitados conforme al primero, haya causado ejecutoria;
+
+II. En el resto de los Distritos Judiciales o Regiones, sus disposiciones seguirán aplicándose hasta la fecha y en los términos que contengan los decretos respectivos que emitirán el Congreso del Estado o la Comisión Permanente, y que se publicarán en el Periódico Oficial del Estado.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Aplicación de este Código
+
+El presente Código, se aplicará en las fechas y ámbitos espaciales y temporales de validez que determinen los decretos respectivos a que alude el artículo primero transitorio del presente Decreto; y sus disposiciones sólo se aplicarán a los procedimientos por delitos cometidos a partir de su entrada en vigor.
+
+###### ARTÍCULO CUARTO.
+
+Delitos permanentes y continuados
+
+El procedimiento penal relativo a hechos delictuosos de carácter permanente o continuado que inició bajo la vigencia del aludido Código de Procedimientos Penales del Estado de Tamaulipas, de mil novecientos ochenta y seis y que continúen desarrollándose bajo las presentes disposiciones, continuarán siendo regulados por el primero de los ordenamientos citados en este artículo.
+
+###### ARTÍCULO QUINTO.
+
+Prohibición de acumulación de procesos
+
+No procederá la acumulación de procesos sobre hechos delictuosos, cuando alguno de ellos esté sometido al presente Código y el otro hecho delictuoso esté sometido al Código de Procedimientos Penales del Estado de Tamaulipas, expedido mediante Decreto 463, del 26 de diciembre de 1986, publicado en el Periódico Oficial del Estado anexo al número 5, del 17 de enero de 1987 y sus reformas posteriores.
+
+###### ARTÍCULO SEXTO.
+
+Eficacia retroactiva
+
+Ninguna norma del presente ordenamiento se podrá aplicar a los procesos que deban continuar tramitándose conforme al Código de Procedimientos Penales del Estado de Tamaulipas, publicado en el Periódico Oficial del Estado de Tamaulipas, con fecha 17 de enero de 1987 y sus reformas.
+
+###### ARTÍCULO SÉPTIMO.
+
+Legislación de transición
+
+Antes de la entrada en vigor de este Código, deberán reformarse las leyes que regulen la competencia y estructura de los órganos judiciales, de la Defensoría Pública, del Ministerio Público, de los Cuerpos de Seguridad Pública, así como toda aquella que sea necesaria para su implementación.
