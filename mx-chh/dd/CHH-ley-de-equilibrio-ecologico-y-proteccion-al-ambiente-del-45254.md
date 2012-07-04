@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-equilibrio-ecologico-y-proteccion-al-ambiente-del-45254"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-08"
-last_updated: "2011-11-16"
+last_updated: "2012-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2012.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 8 de junio de 2005.
 
@@ -259,7 +259,7 @@ V.- La regulación de actividades que no sean consideradas como altamente riesgo
 
 VI.- La regulación de las áreas naturales protegidas, así como su creación y, en su caso, la administración en coordinación con los municipios que corresponda;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
@@ -417,7 +417,7 @@ XXXIV.- Formar y administrar el registro público estatal de sitios contaminados
 
 XXXV.- Establecer un programa estatal de campañas mediáticas permanentes para la concientización ciudadana en la cultura ecológica;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
@@ -433,7 +433,7 @@ d) Entregar a los propietarios o poseedores de vehículos automotores, cuando pr
 
 e) Proponer al Ejecutivo Estatal el Reglamento del Programa de Verificación Vehicular; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
@@ -457,21 +457,21 @@ V.- La promoción ante el Congreso del Estado de la declaración de áreas natur
 
 VI.- La prevención y control de la contaminación de la atmósfera, generada por fuentes fijas que funcionan como establecimientos mercantiles o de servicios, fuentes naturales, quemas y fuentes móviles, excepto del transporte federal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
 VII. La verificación del cumplimiento de las Normas Oficiales Mexicanas en materia ambiental y de las Normas Técnicas Ecológicas Estatales, mediante el establecimiento y operación de sistemas de verificación, relativas a la emisión máxima permisible de contaminantes a la atmósfera, generada por fuentes fijas que funcionan como establecimientos mercantiles o de servicios;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 VIII. (DEROGADA, P.O. 16 DE NOVIEMBRE DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 IX. (DEROGADA, P.O. 16 DE NOVIEMBRE DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 X. (DEROGADA, P.O. 16 DE NOVIEMBRE DE 2011)
 
@@ -481,7 +481,7 @@ XII.- La prevención y control de la contaminación de aguas federales que tenga
 
 XIII.- La verificación del cumplimiento de las disposiciones que se expidan para el vertido de aguas residuales en los sistemas de drenaje y alcantarillado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
@@ -555,7 +555,7 @@ XXVI.- Las demás facultades que conforme a esta Ley les corresponden.
 
 En cada municipio podrá existir una unidad administrativa encargada de aplicar las disposiciones de esta ley y demás ordenamientos de la materia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
@@ -1363,7 +1363,7 @@ III.- Las emisiones de contaminantes a la atmósfera, sean de fuentes artificial
 
 Se prohíbe emitir a la atmósfera contaminantes, tales como humos, polvos, gases, vapores y olores, que rebasen los límites máximos permisibles contenidos en las Normas Oficiales Mexicanas en materia ambiental y en las disposiciones reglamentarias que se expidan por el Ejecutivo del Estado y los municipios.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
@@ -1371,7 +1371,7 @@ Se prohíbe emitir a la atmósfera contaminantes, tales como humos, polvos, gase
 
 Corresponde al Estado, por conducto de la Secretaría, la prevención y control de la contaminación atmosférica generada por fuentes fijas que funcionen como establecimientos industriales, así como de emisiones de contaminantes de la atmósfera, provenientes de fuentes móviles, que no sean consideradas de competencia federal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
@@ -1437,13 +1437,13 @@ La Secretaría y los Gobiernos Municipales promoverán, en las zonas que se hubi
 
 La Secretaría establecerá que en la determinación de usos de suelo que definan los programas de desarrollo urbano e industrial, se consideren como criterios ecológicos, las condiciones topográficas, climatológicas y meteorológicas, los cuales serán de utilidad para realizar el estudio de impacto ambiental y asegurar la adecuada dispersión de contaminantes, así como para imponer las medidas de contingencia necesarias.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
 ### CAPÍTULO I BIS. CENTROS DE VERIFICACIÓN VEHICULAR
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
@@ -1453,7 +1453,7 @@ Queda prohibida la circulación de automotores que emitan contaminantes, cuyos n
 
 La autoridad correspondiente podrá limitar la circulación de cualquier vehículo automotor que circule en el Estado, a fin de prevenir y reducir las emisiones contaminantes, conforme a lo previsto por el Programa de Verificación Vehicular y, en su caso, los reglamentos municipales que se emitan al respecto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
@@ -1467,7 +1467,7 @@ El propietario o poseedor de un vehículo automotor que no haya realizado la ver
 
 Las sanciones por el incumplimiento a lo previsto en el presente artículo, serán determinadas conforme a la presente Ley y a las disposiciones en materia de tránsito, según corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
@@ -1941,9 +1941,13 @@ II.- La política local en materia de residuos sólidos urbanos y de manejo espe
 
 III.- La definición de objetivos y metas locales para la prevención de la generación y el mejoramiento de la gestión de los residuos sólidos urbanos y de manejo especial, así como las estrategias y plazos para su cumplimiento;
 
-IV.- Los medios de financiamiento de las acciones consideradas en los programas; y
+IV.- Los medios de financiamiento de las acciones consideradas en los programas; y (sic)
 
 V.- Los mecanismos para fomentar la vinculación entre los programas municipales correspondientes, a fin de crear sinergias.
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2012)</small>
+
+VI.- Los mecanismos para promover la participación de los sectores social y privado.
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
 
@@ -2063,65 +2067,65 @@ II.- Incinerar residuos a cielo abierto; y
 
 III.- Abrir nuevos tiraderos a cielo abierto.
 
-> <small>(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)</small>
+> <small>(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCIÓN A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)</small>
 
 ## TÍTULO NOVENO. PROTECCIÓN DE LOS NO FUMADORES
 
-> <small>(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)</small>
+> <small>(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCIÓN A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)</small>
 
 ### CAPÍTULO I. DE LOS OBJETOS Y SUJETOS
 
 ###### ARTÍCULO 162.
 
-(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCIÓN A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)
 
 ###### ARTÍCULO 163.
 
-(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCIÓN A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)
 
 ###### ARTÍCULO 164.
 
-(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCIÓN A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)
 
-> <small>(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)</small>
+> <small>(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCIÓN A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)</small>
 
 ### CAPÍTULO II. DE LAS SECCIONES RESERVADAS EN LOS LOCALES CERRADOS Y ESTABLECIMIENTOS
 
 ###### ARTÍCULO 165.
 
-(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCIÓN A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)
 
 ###### ARTÍCULO 166.
 
-(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCIÓN A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)
 
 ###### ARTÍCULO 167.
 
-(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCIÓN A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)
 
-> <small>(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)</small>
+> <small>(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCIÓN A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)</small>
 
 ### CAPÍTULO III. DE LOS LUGARES EN QUE SE PROHÍBE FUMAR
 
 ###### ARTÍCULO 168.
 
-(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCIÓN A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)
 
 ###### ARTÍCULO 169.
 
-(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCIÓN A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)
 
-> <small>(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)</small>
+> <small>(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCIÓN A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)</small>
 
 ### CAPÍTULO IV. DE LA DIVULGACIÓN, CONCIENTIZACIÓN Y PROMOCIÓN
 
 ###### ARTÍCULO 170.
 
-(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCIÓN A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)
 
 ###### ARTÍCULO 171.
 
-(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCIÓN A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)
 
 ## TÍTULO DÉCIMO. INSTRUMENTOS ECONÓMICOS
 
@@ -2213,7 +2217,7 @@ Quienes resulten responsables de la contaminación de un sitio, así como de da�
 
 ### CAPÍTULO II. DENUNCIA POPULAR
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ENERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 184.
 
@@ -2269,7 +2273,7 @@ El denunciante podrá coadyuvar con la Secretaría, aportándole las pruebas, do
 
 La Secretaría podrá solicitar a las instituciones académicas, centros de investigación y organismos del sector público y privado, la elaboración de estudios, dictámenes o peritajes sobre cuestiones planteadas en las denuncias que sean presentadas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -2579,7 +2583,7 @@ Transcurrido el término para el desahogo de las pruebas, si las hubiere, dispon
 
 Dicha resolución se notificará al interesado, personalmente o por correo certificado con acuse de recibo.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2011)</small>
 
 ### CAPÍTULO VIII. DELITOS DEL ORDEN COMÚN
 
@@ -2779,7 +2783,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 29 DE OCTUBRE DE 2011.
 
-DECRETO NUMERO 287/2011 II P.O., POR EL QUE SE REFORMA EL ARTICULO 141 DE LA LEY DE EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE CHIHUAHUA.
+DECRETO NÚMERO 287/2011 II P.O., POR EL QUE SE REFORMA EL ARTÍCULO 141 DE LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CHIHUAHUA.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -2787,7 +2791,7 @@ El presente Decreto entrará en vigor el día siguiente de su publicación en el
 
 P.O. 29 DE OCTUBRE DE 2011.
 
-DECRETO NUMERO 288/2011 II P.O., POR EL QUE SE REFORMA LA FRACCION XIX DEL ARTICULO 8 DE LA LEY DE EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE CHIHUAHUA.
+DECRETO NÚMERO 288/2011 II P.O., POR EL QUE SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 8 DE LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CHIHUAHUA.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2813,11 +2817,15 @@ Dentro de los tres meses siguientes a la entrada en vigor del presente Decreto, 
 
 P.O. 29 DE OCTUBRE DE 2011.
 
-DECRETO NUMERO 370/2011 II P.O., POR EL QUE SE ADICIONAN LOS ARTICULOS 5, CON UNA FRACCION LXII; 7, CON UNA FRACCION XXVII, Y 142, CON UN PARRAFO SEGUNDO; SE REFORMAN LOS ARTICULOS 7, FRACCIONES XX, XXIV Y XXVI; 9, FRACCION XXIII, INCISO C); 142, PRIMER PARRAFO; 145, FRACCION II, Y 150 BIS, TODOS DE LA LEY DE EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE CHIHUAHUA.
+DECRETO NÚMERO 370/2011 II P.O., POR EL QUE SE ADICIONAN LOS ARTÍCULOS 5, CON UNA FRACCIÓN LXII; 7, CON UNA FRACCIÓN XXVII, Y 142, CON UN PÁRRAFO SEGUNDO; SE REFORMAN LOS ARTÍCULOS 7, FRACCIONES XX, XXIV Y XXVI; 9, FRACCIÓN XXIII, INCISO C); 142, PRIMER PÁRRAFO; 145, FRACCIÓN II, Y 150 BIS, TODOS DE LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CHIHUAHUA.
 
 ###### ARTÍCULO TERCERO.
 
 El trámite de los asuntos iniciados ante la Procuraduría General de Justicia del Estado y ante la Secretaría de Seguridad Pública Estatal, con anterioridad a la entrada en vigor del presente Decreto, serán continuados por la Fiscalía General del Estado.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2830,6 +2838,8 @@ El Titular del Ejecutivo del Estado deberá expedir el Reglamento del Programa d
 ###### ARTÍCULO TERCERO.
 
 Si a la entrada en vigor del presente Decreto, algún municipio se encuentra ejerciendo, por sí o mediante concesión, la verificación de emisiones contaminantes de fuentes móviles, continuarán realizándolo de acuerdo con su normatividad, la que deberá ajustarse al Reglamento del Programa de Verificación Vehicular.
+
+P.O. 4 DE JULIO DE 2012.
 
 ###### ARTÍCULO CUARTO.
 
