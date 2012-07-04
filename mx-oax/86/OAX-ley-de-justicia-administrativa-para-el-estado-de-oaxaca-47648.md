@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-justicia-administrativa-para-el-estado-de-oaxaca-47648"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2011-12-24"
+last_updated: "2012-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE OAXACA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE JULIO DE 2012 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2012.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 31 de diciembre de 2005.
 
@@ -45,9 +47,11 @@ LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE OAXACA
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 1.
 
-La presente Ley es de orden público y de interés social, se aplicará en todo el Estado de Oaxaca en los actos administrativos y los procedimientos que desarrollen las Dependencias del Poder Ejecutivo del Gobierno del Estado, Entidades Paraestatales y Órganos Desconcentrados de la Administración Pública Estatal; cuando éstas emitan una resolución administrativa de cualquier naturaleza; por los Ayuntamientos de los Municipios del Estado de Oaxaca, por las Dependencias de éstos y por sus Entidades Paramunicipales, en los términos establecidos por el artículo 125 de la Constitución Política del Estado. De igual forma regulará la organización y funcionamiento del Tribunal de lo Contencioso Administrativo del Estado de Oaxaca y la impartición de la Justicia Administrativa en el Estado de Oaxaca.
+La presente Ley es de orden público y de interés social, se aplicará en todo el Estado de Oaxaca en los actos administrativos y los procedimientos que desarrollen las Dependencias del Poder Ejecutivo del Gobierno del Estado, Entidades Paraestatales y Órganos Desconcentrados de la Administración Pública Estatal; cuando estas emitan una resolución administrativa de cualquier naturaleza; por los Ayuntamientos de los Municipios del Estado de Oaxaca, por las Dependencias de estos y por sus Entidades Paramunicipales, en los términos establecidos por el artículo 111 segundo párrafo e inciso C de la Constitución Política del Estado. De igual forma regulará la organización y funcionamiento del Tribunal de lo Contencioso Administrativo del Estado de Oaxaca y la impartición de la Justicia Administrativa en el Estado de Oaxaca.
 
 La presente Ley no será aplicable a las materias de carácter electoral, de justicia agraria y laboral, resoluciones administrativas que tengan relación con la defensa de los derechos humanos, con las actividades desarrolladas por la Universidad Autónoma “Benito Juárez” de Oaxaca; ni por las dictadas por el Ministerio Público en ejercicio de sus funciones constitucionales de investigación de los delitos o de la representación social. NI (SIC) con los conflictos suscitados entre los integrantes de los Ayuntamientos ni por la elección de las autoridades auxiliares de carácter municipal.
 
@@ -75,9 +79,17 @@ IX. Tribunal: Tribunal de lo Contencioso Administrativo del Estado de Oaxaca;
 
 X. Autoridad: La que dicta, ordena, ejecuta o trata de cumplir determinaciones de naturaleza administrativa con fundamento en la Ley o instrumento jurídico con el que habitualmente actúa, o en su decreto o instrumento de creación y que da origen al cumplimiento de la presente Ley o a ser parte en el Procedimiento Contencioso Administrativo;
 
-XI. Administrado: La persona física o moral, a quien beneficia o perjudica el acto administrativo, y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
 
-XII. Administración Pública Estatal o del Estado.- Aquella a la que se refiere el artículo 116 Fracción V de la Constitución Política de los Estados Unidos Mexicanos.
+XI. Administrado: La persona física o moral, a quien beneficia o perjudica el acto administrativo;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
+
+XII. Administración Pública Estatal o del Estado.- Aquella a la que se refiere el artículo 116 Fracción V de la Constitución Política de los Estados Unidos Mexicanos, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE JULIO DE 2012)</small>
+
+XIII.- Consejo de la Judicatura: Consejo de la Judicatura del Poder Judicial del Estado de Oaxaca.
 
 ###### ARTICULO 3.
 
@@ -339,7 +351,7 @@ Si la persona a quien haya de notificarse no atendiere el citatorio, la notifica
 
 De las diligencias en que conste la notificación, el notificador tomará razón por escrito.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 26.
 
@@ -363,7 +375,7 @@ Toda notificación deberá efectuarse en el plazo máximo de diez días, a parti
 
 Las notificaciones practicadas de manera irregular surtirán efectos a partir de la fecha en que se haga la manifestación expresa por el interesado o su representante legal de conocer su contenido o se interponga el recurso correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 30.
 
@@ -383,7 +395,7 @@ VI. Si se resuelve que no hubo notificación o que ésta no fue efectuada confor
 
 VII. Si resuelve que la notificación fue legalmente practicada y, como consecuencia de ello, la impugnación contra el acto se interpuso extemporáneamente, desechará dicho recurso.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(DEROGADO ULTIMO PÁRRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ### CAPITULO NOVENO. DE LA TRAMITACION
 
@@ -769,15 +781,21 @@ No se tomarán en cuenta en la resolución del recurso, hechos, documentos o ale
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 80.
 
-La organización y funcionamiento del Tribunal de lo Contencioso Administrativo del Estado de Oaxaca se regularán por las disposiciones contenidas en este Libro.
+La organización y funcionamiento del Tribunal de lo Contencioso Administrativo del Estado de Oaxaca se regulará por las disposiciones contenidas en este Libro, en la Ley Orgánica del Poder Judicial y el reglamento del Tribunal.
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE JULIO DE 2012 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 81.
 
-La jurisdicción administrativa la ejercerá el Tribunal de lo Contencioso Administrativo, órgano autónomo y de control de legalidad, Dotado de plena jurisdicción para dictar sus resoluciones e imperio para hacerlas cumplir; con facultad para interpretar la ley administrativa a través de sus resoluciones; con personalidad jurídica y patrimonio propio. Se compondrá del número de Magistrados que determine esta Ley, el presupuesto y las necesidades del trabajo, los que tendrán los mismos derechos, prerrogativas y obligaciones que los Magistrados del Tribunal Superior de Justicia del Estado. Los Jueces Instructores de lo Contencioso Administrativo, servidores públicos y demás personal del Tribunal, tendrán los mismos derechos y obligaciones que los del Tribunal Superior de Justicia.
+La jurisdicción administrativa la ejercerá el Tribunal de lo Contencioso Administrativo, Tribunal Especializado del Poder Judicial; órgano permanente, autónomo en su funcionamiento e independiente en sus decisiones, que ejerce el control de legalidad. Dotado de plena jurisdicción para dictar sus resoluciones e impedio (sic) para hacerlas cumplir; con facultad para interpretar la Ley de justicia administrativa a través de sus resoluciones. La estructura del Tribunal será determinada por esta ley. La administración, disciplina y vigilancia del Tribunal corresponderá al Consejo de la Judicatura.
+
+A los juzgados de primera instancia existentes se les otorga jurisdicción en materia administrativa y serán competentes conforme a los lineamientos que emita el Consejo de la Judicatura.
 
 ###### ARTICULO 82.
 
@@ -789,7 +807,9 @@ II. Entre los municipios y el Gobierno del Estado, con motivo de los actos deriv
 
 III. Entre dos o más municipios, derivados de los acuerdos o convenios administrativos de colaboración;
 
-IV. Entre los particulares y la administración pública municipal, en los casos a que se refiere el primer párrafo del artículo 125 de la Constitución Política del Estado Libre y Soberano de Oaxaca.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2012)</small>
+
+IV.- Entre los particulares y la administración pública municipal, en los casos a que se refiere el inciso C del artículo 111 de la Constitución Local.
 
 Cuando de acuerdo a las leyes de la materia, los municipios cuenten con organismos locales que diriman las controversias particulares y la administración pública municipal, el Tribunal tendrá competencia como instancia revisora de los anteriores.
 
@@ -799,61 +819,65 @@ V. Entre particulares y otros organismos públicos, cuando las leyes de la mater
 
 ### CAPITULO PRIMERO. DE LA INTEGRACION DEL TRIBUNAL
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 1297, PUBLICADO EN EL P.O. 4 DE JULIO DE 2012, SE MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 83.
 
 El Tribunal se integrará por:
 
-I. El Pleno;
+I.- Órganos:
 
-II. La Presidencia;
+a) El Pleno;
 
-III. La Sala Superior; y
+b) La Presidencia;
 
-IV. Las Salas de Primera Instancia.
+c) La Sala Superior; y
 
-El tribunal tendrá los siguientes servidores públicos:
+d) Los juzgados de lo contencioso administrativo de primera instancia.
 
-I. Magistrados;
+II. Los servidores públicos adscritos a los órganos son:
 
-II. Secretario General de Acuerdos;
+a) Magistrados;
 
-III. Jueces Instructores de lo Contencioso Administrativo;
+b) Secretario General de Acuerdos;
 
-IV. Secretarios de Acuerdos de las Salas;
+c) Jueces de primera instancia de lo Contencioso Administrativo;
 
-V. Secretarios de Estudio y Cuenta;
+c (sic) ) Secretarios de Estudio y Cuenta;
 
-VI. Actuarios;
+d) Secretarios Judiciales;
 
-VII. Director Administrativo;
+e) Actuarios;
 
-VIII. Coordinador de Asesores de lo Contencioso Administrativo;
+f) Unidad de Gestión administrativa;
 
-IX. Coordinador de Capacitación y Mejoramiento en materia Jurídico-Administrativa; y
+g) Coordinador de Asesores del Consejo de la Judicatura;
 
-X. Los empleados y auxiliares técnicos necesarios.
+h) Unidad de Capacitación;
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+i) Los servidores públicos y auxiliares técnicos necesarios.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 84.
 
-El número de Salas de Primera Instancia del Tribunal se determinará de acuerdo a las necesidades del trabajo, cuando lo considere necesario el Pleno; el acuerdo de creación se publicará en el Periódico Oficial del Estado, en donde deberá precisarse la competencia territorial de la Sala de nueva creación, la que tendrá todas las características de autoridad, soberanía, jurisdicción y competencia contempladas en esta Ley.
+En la capital del Estado, funcionarán hasta dos juzgados de primera instancia. El acuerdo de creación se publicará en el Periódico Oficial del Gobierno del Estado, donde deberá precisarse la competencia territorial del juzgado de nueva creación, con las características de jurisdicción y competencias previstas en esta ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+En el resto del Estado se actuara conforme a lo dispuesto en el segundo párrafo del artículo 81 de esta Ley.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 85.
 
-Las Salas de Primera Instancia del Tribunal se integraran por:
+Los juzgados de primera instancia se integrarán por:
 
-I. Un Magistrado;
+I. Un Juez;
 
-II. Un Secretario de Acuerdos de Sala;
+II. Secretarios judiciales;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
-
-Ill. Los Secretarios de Estudio y Cuenta, Actuarios, Oficiales Administrativos, y demás personal técnico y administrativo que el Pleno del Tribunal autorice al respecto.
+III. Actuarios, Oficiales Administrativos, y demás personal técnico y administrativo que el Consejo de la Judicatura autorice al respecto.
 
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
@@ -861,7 +885,9 @@ Ill. Los Secretarios de Estudio y Cuenta, Actuarios, Oficiales Administrativos, 
 
 La Sala Superior del Tribunal se integrará por:
 
-I. Tres Magistrados y será presidida por el Presidente del Tribunal;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
+
+l. Los magistrados y será presidida por el Presidente del Tribunal;
 
 II. Secretarios de Estudio y cuenta;
 
@@ -871,11 +897,11 @@ IV. Empleados y demás Funcionarios técnicos.
 
 En la tramitación y resolución de los recursos de revisión, el Presidente de la Sala Superior actuará con el Secretario General de Acuerdos del Tribunal.
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 87.
 
-Los Magistrados, y demás servidores públicos del Tribunal percibirán iguales emolumentos y prestaciones a los del Poder Judicial.
+Los Magistrados del Tribunal se regirán en cuanto a sus emolumentos, prestaciones y jubilación por lo establecido en la Ley Orgánica del Poder Judicial del Estado.
 
 ### CAPITULO SEGUNDO. DEL PLENO
 
@@ -883,11 +909,13 @@ Los Magistrados, y demás servidores públicos del Tribunal percibirán iguales 
 
 Las sesiones ordinarias del pleno se celebrarán en los días, horas y términos que señale el Reglamento Interno del Tribunal, las sesiones extraordinarias se celebrarán cuando lo considere necesario el Presidente o lo pida la mayoría de los Magistrados.
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 89.
 
-El Pleno del Tribunal se integrará por los Magistrados de las Salas Superior y de Primera Instancia. Para que sesionen se requiere de la instalación del quórum legal. Sesionará en número impar de Magistrados; si fuere par, se llamará a un Juez Instructor para que forme Pleno. El Presidente tendrá voto de calidad en caso de empate.
+El Pleno del Tribunal se integrará por la totalidad de magistrados. Para que sesionen se requiere de la instalación del quórum legal que será la mitad mas uno. El Presidente tendrá el voto de calidad en caso de empate, salvo cuando se trate de elegir al Presidente del Tribunal, para lo cual se estará a lo dispuesto por la fracción V del artículo 111 de la Constitución Local.
+
+Las decisiones del Pleno se tomarán por unanimidad o mayoría de votos. En caso de decisión por mayoría, se asentará el voto en contra, particular y razonado
 
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
@@ -897,61 +925,63 @@ Son atribuciones del Pleno del Tribunal:
 
 I. Elegir de entre sus Magistrados, al Presidente del Tribunal, quien también presidirá el Pleno y la Sala Superior;
 
-II. Crear nuevas Salas de Primera Instancia y determinar la circunscripción territorial de las mismas, así como fijar la adscripción de los Magistrados, Secretarios, Asesores de lo Contencioso Administrativo y Actuarios;
+II. (DEROGADA, P.O. 4 DE JULIO DE 2012)
 
-III. Acordar el nombramiento del Secretario General de Acuerdos y nombramiento y adscripción de los Jueces Instructores de lo Contencioso administrativo, resolver sobre las renuncias, remociones del personal nombrado, así como resolver sobre la inhabilitación de funcionarios, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca; y conceder licencias a los Magistrados, Secretarios, Jueces Instructores, Asesores y Actuarios, cuando en cada caso así proceda;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
 
-IV. Expedir y reformar el reglamento interior del Tribunal y dictar las disposiciones necesarias para el buen funcionamiento del mismo;
+III. Nombrar al secretario general de acuerdos común al Pleno y a la Sala Superior, a propuesta del Presidente;
 
-V. Discutir y aprobar el anteproyecto de presupuesto de egresos del Tribunal;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
 
-VI. Imponer los medios de apremio, cuando así proceda;
+IV. Aprobar y reformar el Reglamento Interior del Tribunal;
 
-VII. Dictar las medidas administrativas que exija el buen funcionamiento y la disciplina del Tribunal e imponer sanciones al personal;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
 
-VIII. Acordar la suspensión de labores del Tribunal por causas que a su juicio lo ameriten;
+V. Proponer el anteproyecto del presupuesto de egresos del Tribunal al Consejo de la Judicatura para su inclusión en el proyecto del presupuesto de egresos del Poder Judicial;
+
+VI. (DEROGADA, P.O. 4 DE JULIO DE 2012)
+
+VII. (DEROGADA, P.O. 4 DE JULIO DE 2012)
+
+VIII. (DEROGADA, P.O. 4 DE JULIO DE 2012)
 
 IX. Las demás que le fije esta Ley.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 91.
 
 Son atribuciones y obligaciones de la Presidencia del Tribunal:
 
-I. Representar amplia y jurídicamente al Tribunal ante toda clase de autoridades;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
+
+I. Representar al Tribunal ante toda clase de autoridades;
 
 II. Despachar la correspondencia del Tribunal y de la Sala Superior;
 
-III. Rendir los informes previos y justificados en los juicios de amparo interpuestos en contra del Tribunal y de la Sala Superior; en sus ausencias que no excedan de 15 días, lo hará el Magistrado que designe la presidencia;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
+
+III. Rendir los informes previos y justificados en los juicios de amparo interpuestos en contra del Pleno y Sala Superior del Tribunal; en sus ausencias que no excedan de 15 días, lo hará el magistrado que designa el Presidente del Tribunal;
 
 IV. Presidir, dirigir los debates y conservar el orden de las sesiones del pleno y de la Sala Superior;
 
-V. Proponer al pleno los nombramientos y remociones del personal del Tribunal, que corresponda;
+V. (DEROGADA, P.O. 4 DE JULIO DE 2012)
 
-VI. Determinar lo procedente con relación a licencias de los empleados administrativos del Tribunal, previa opinión del Magistrado al que se encuentren adscritos;
+VI. (DEROGADA, P.O. 4 DE JULIO DE 2012)
 
-VII. Formular anualmente el anteproyecto del Presupuesto de Egresos del Tribunal, así como remitir el proyecto aprobado por el Pleno al Poder Legislativo, para su validación o modificación y dictar las órdenes relacionadas con el ejercicio del mismo;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
+
+VII. Formular anualmente el anteproyecto del presupuesto de egresos del Tribunal, someterlo al Pleno para su aprobación y proponerlo al Consejo de la Judicatura para su inclusión en el proyecto de presupuesto del Poder Judicial;
 
 VIII. Rendir al pleno, en la última sesión de cada año, un informe de las actividades realizadas en este periodo;
 
-IX. Nombrar a los siguientes servidores públicos:
-
-a). Director Administrativo;
-
-b). Secretarios de Acuerdos de Sala;
-
-c). Asesores de lo Contencioso Administrativo;
-
-d). Oficial de partes;
-
-e). Actuarios;
-
-f). Secretarios de Estudio y Cuenta;
-
-g) Personal administrativo; y
+IX. (DEROGADA, P.O. 4 DE JULIO DE 2012)
 
 X. Las demás que le confiera la ley.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2012)</small>
+
+La Presidencia del Tribunal, para el ejercicio de sus atribuciones y el cumplimiento de sus obligaciones, se auxiliará de la Secretaría particular y de la Coordinación de Comunicación Social y Relaciones Públicas.
 
 ### CAPITULO TERCERO. DE LA PRESIDENCIA DEL TRIBUNAL
 
@@ -959,7 +989,7 @@ X. Las demás que le confiera la ley.
 
 ###### ARTICULO 92.
 
-Las salas del Tribunal, son el medio para que funcione éste, en su ámbito de competencia.
+La función jurisdiccional se ejerce por la Sala Superior y los Juzgados de lo Contencioso Administrativo en su respectivo ámbito de competencia.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
@@ -969,15 +999,31 @@ La Sala Superior tendrá las siguientes atribuciones:
 
 I. Resolver el recurso de revisión previsto en esta Ley;
 
-II. Conocer de las excusas e impedimentos de los Magistrados y designar a quien deba sustituirlos;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
 
-III. Fijar los criterios del tribunal, resolviendo las contradicciones entre las Salas de primera instancia;
+II. Conocer de las excusas e impedimentos de los magistrados y jueces;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
+
+III. Establecer los criterios obligatorios para los juzgados de primera instancia;
 
 IV. Conocer y resolver excitativas que formulen las partes en el juicio;
 
-V. Resolver los conflictos de competencia que se susciten entre las Salas; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
 
-VI. Las demás que fije la ley.
+V. Resolver los conflictos de competencia que se susciten entre los juzgados;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
+
+VI. Imponer los medios de apremio cuando así proceda, conforme a lo dispuesto por el artículo 124 de esta ley.
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2012)</small>
+
+VII. Conocer y resolver excitativas de justicia en contra de los Juzgados;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2012)</small>
+
+VIII. Las demás que fije la Ley y el reglamento interno del Tribunal.
 
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
@@ -987,35 +1033,19 @@ Las resoluciones de la Sala Superior se emitirán por unanimidad o por mayoría 
 
 Las sesiones de la Sala Superior serán públicas, con excepción de los casos en que el interés público, el orden o la ley exijan que sean privadas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
-
 ###### ARTICULO 95.
 
-Son atribuciones de las Salas de primera instancia:
+(DEROGADO, P.O. 4 DE JULIO DE 2012)
 
-I. Instruir y resolver el Procedimiento Contencioso Administrativo;
-
-II. Dictar las resoluciones en los asuntos de su competencia;
-
-III. Despachar su correspondencia;
-
-IV. Rendir al Presidente del Tribunal informe mensual de sus labores, así como de las principales resoluciones emitidas y los criterios sustentados;
-
-V. Imponer las correcciones disciplinarias, así como hacer uso de los medios de apremio que procedan;
-
-VI. Las demás atribuciones de carácter jurisdiccional-administrativo que se deriven de disposiciones contenidas en otras leyes, decretos, reglamentos y acuerdos.
-
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
-
-El trámite de los asuntos corresponderá por turno a las Salas de Primera Instancia, en los términos que disponga el Reglamento Interior del Tribunal.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 96.
 
-Las Salas de primera instancia del Tribunal son competentes para conocer y resolver los juicios que se promuevan en contra de:
+Los juzgados de primera instancia de lo Contencioso Administrativo son competentes para conocer y resolver de los juicios que se promuevan en contra de:
 
-I. Los actos y resoluciones emanados de las autoridades del Poder Ejecutivo, de los Municipios y de los Organismos Descentralizados y Desconcentrados, cuando éstos actúen como autoridades, dictándolas, ordenándolas, ejecutándolas o tratando de ejecutarlas y que causen agravio a los particulares, por no ajustarse a los elementos y requisitos de validez previstos por el artículo 7 de esta Ley;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
+
+I. Los actos y resoluciones emanados de las autoridades del Poder Ejecutivo, de los Municipios y de sus organismos descentralizados y desconcentrados, cuando éstos actúen como autoridades, dictándolas, ordenándolas, ejecutándolas o tratando de ejecutarlas y que causen agravios a los particulares, por no ajustarse a los elementos y requisitos de validez previstos por el artículo 7 de ésta ley;
 
 II. Las resoluciones dictadas por las autoridades fiscales, estatales, municipales y de sus órganos descentralizados y desconcentrados, en que se determine la existencia de una obligación fiscal, se fije ésta en cantidad líquida o se den las bases para su liquidación, nieguen la devolución de cantidades que procedan conforme a la ley, o cualquiera otra que cause un agravio de carácter fiscal.
 
@@ -1025,7 +1055,9 @@ IV. Las resoluciones que se dicten sobre interpretación y cumplimiento de contr
 
 V. Los actos fiscales o administrativos que impliquen una resolución negativa ficta, configurándose ésta cuando las promociones o peticiones que se formulen ante las autoridades no sean resueltas en los plazos que la ley o reglamento fijen o a falta de dicho plazo en noventa días naturales;
 
-En el caso de positiva fícta, que emane de otra autoridad distinta a la fiscal, bastará que el actor presente su petición, apegada al artículo 13 de la Constitución Política del Estado Libre y Soberano de Oaxaca, y acredite con el sello de la oficina o por cualquier otro medio, que fue recibida por la demandada, y esta no dio satisfacción al Derecho de Petición, la Sala declarará la existencia o inexistencia de la positiva fícta.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
+
+En el caso de positiva ficta, que emane de otra autoridad distinta a la fiscal, bastará que el actor presente su petición, apegada al artículo 13 de la Constitución Política del Estado Libre y Soberano de Oaxaca, y acredite con el sello de la oficina o por cualquier otro medio, que fue recibida por la demandada, y esta no dio satisfacción al Derecho de Petición, el juzgado declarará la existencia o inexistencia de la positiva ficta.
 
 VI. Las resoluciones administrativas y fiscales favorables a los particulares que se promuevan por las autoridades para que puedan ser modificadas o nulificadas;
 
@@ -1039,7 +1071,9 @@ b). Que el monto del crédito es inferior al exigible;
 
 c). Que es poseedor, a título de propietario del bien embargado;
 
-d). Que el procedimiento coactivo no se ajuste a la ley. En este caso, la oposición no se podrá hacer valer, sino contra la resolución que apruebe el remate; salvo que se trate (sic) resoluciones cuya ejecución material sea imposible reparación.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
+
+d). Que el procedimiento coactivo no se ajuste a la ley. En este caso, la oposición no se podrá hacer valer, sino contra la resolución que apruebe el remate; salvo que se trate de resoluciones cuya ejecución material sea de imposible reparación.
 
 IX. Conocerá del recurso de queja, procediendo en los términos de esta Ley;
 
@@ -1051,93 +1085,63 @@ XII. De los asuntos cuya resolución esté reservada al Tribunal de lo contencio
 
 ### CAPITULO CUARTO. DE LAS SALAS DEL TRIBUNAL
 
-> <small>(REFORMADO Y REUBICADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 97.
 
-Los Magistrados del Tribunal serán designados por el Congreso del Estado a propuesta que en terna le presente el Titular del Poder Ejecutivo. Para ser nombrado Magistrado se deberán satisfacer los siguientes requisitos:
+Los magistrados del Tribunal serán nombrados de acuerdo con lo dispuesto en los artículos 101 y 102 de la Constitución Política del Estado. Además de estos requisitos deberán poseer experiencia profesional de tres años en materia administrativa y fiscal.
 
-I. Ser ciudadano Mexicano por Nacimiento y oaxaqueño en pleno ejercicio de sus derechos;
-
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
-
-II. Tener título profesional de Licenciado en Derecho debidamente expedido y registrado, con antigüedad mínima de diez años a la fecha de la designación;
-
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
-
-III. Tener treinta y cinco años cumplidos el día de la designación;
-
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
-
-IV. Poseer reconocida experiencia en Derecho Administrativo y Fiscal, además de capacidad y honorabilidad;
-
-> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2009)</small>
-
-V. Acreditar carecer de antecedentes penales por comisión de delitos calificados como dolosos o graves;
-
-> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2009)</small>
-
-VI. Acreditar no haber desempeñado cargo dentro de la Administración Pública Estatal o Municipal en el año anterior a su designación.
-
-Los Magistrados rendirán la protesta de ley ante el Congreso del Estado.
+Los magistrados rendirán la protesta de ley ante el Pleno del Tribunal Superior de Justicia
 
 ###### ARTICULO 98.
 
-Los Magistrados que hayan concluido su periodo permanecerán en su cargo hasta que tome posesión el designado para sustituirlo.
+(DEROGADO, P.O. 4 DE JULIO DE 2012)
 
 ###### ARTICULO 99.
 
-El Magistrado Presidente del Tribunal, dentro de los primeros diez días del mes de enero de cada año, enviará al Congreso del Estado un informe de labores del Tribunal, el cual podrá ser leído por el Magistrado Presidente ante en sesión, si así lo acordara el Pleno del Congreso.
+(DEROGADO, P.O. 4 DE JULIO DE 2012)
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 100.
 
-Los Magistrados durarán en el ejercicio de su cargo quince años, podrán ser ratificados, y si lo fueren, solo podrán ser privados de sus puestos en los términos de la Constitución Política del Estado y de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, y podrán jubilarse en los términos que establece esta Ley.
+Los Magistrados durarán en el ejercicio de su cargo ocho años y podrán ser reelectos en los términos de la Constitución Política del Estado, y podrán jubilarse conforme a lo dispuesto en la Ley Orgánica del Poder Judicial del Estado
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 101.
 
-El Magistrado Presidente del Tribunal durará en el cargo un año, pudiendo ser reelecto; durante su gestión será además Titular de la Sala Superior. La elección se hará en Pleno, en la primera sesión del año correspondiente. Las faltas temporales del Presidente menores de 15 días serán cubiertas por el Magistrado que designe éste; el Pleno designará a quien cubra una ausencia mayor a dicho plazo, pero menor a seis meses. Cuando la falta sea definitiva, el Pleno elegirá nuevo Presidente.
+El magistrado Presidente del Tribunal durará en el cargo dos años, pudiendo ser reelecto por una vez; durante su gestión será además titular de la Sala Superior. La elección se hará en Pleno, en la primera sesión del año correspondiente. Las faltas temporales del Presidente menores de 15 días serán cubiertas por el Magistrado que designe éste, el Pleno designará a quien cubra una ausencia mayor a dicho plazo, pero menor a seis meses.
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+Cuando la falta sea definitiva, el Pleno elegirá nuevo Presidente
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 102.
 
-Las licencias de los Magistrados, que no excedan de diez días serán otorgadas por la Presidencia del Tribunal. Si exceden del plazo señalado corresponderá al Pleno del Tribunal, quien podrá autorizar la licencia hasta por seis meses. En todo caso, no se concederán licencias que impidan el funcionamiento del Tribunal, salvo el caso de enfermedad debidamente comprobada.
+Las licencias de los Magistrados, serán concedidas en los términos que establece la ley Orgánica del Poder Judicial del Estado
 
-Concluida la licencia de seis meses sin que se presente el Magistrado, la Presidencia del Tribunal dará aviso al Congreso y al Gobernador del Estado para los efectos del artículo 97 de esta Ley.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 103.
 
-Durante el ejercicio de su cargo, los Magistrados y los demás servidores públicos del Tribunal están impedidos para litigar y asesorar empresas o particulares, salvo en causa propia, de su cónyuge, ascendientes o descendientes en línea directa o colateral. Queda exceptuada de esta prohibición la actividad docente.
+Durante el ejercicio de su cargo, los Magistrados y los demás servidores púbicos del Tribunal están impedidos para litigar y asesorar empresas o particulares, salvo en causa propia. Queda exceptuada de esta prohibición la actividad docente de manera honorífica.
 
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+ARTICULO 103 BIS A- (DEROGADO, P.O. 4 DE JULIO DE 2012)
 
-ARTICULO 103 BIS A.- Al jubilarse, los Magistrados percibirán una pensión de carácter vitalicio, la cual será equivalente al cien por ciento del ingreso mensual que corresponda a los Magistrados en activo comprendiendo en ella el sueldo presupuestal, compensaciones, aguinaldo, bonos de actuación y cualquier otro emolumento que perciba.
+ARTICULO 103 BIS B.- (DEROGADO, P.O. 4 DE JULIO DE 2012)
 
-Lo anterior, será siempre y cuando hubieren desempeñado el cargo durante quince años consecutivos, o que acrediten haber prestado sus servicios a la administración estatal durante veinticinco años, de los cuales diez deberán ser como Magistrados y los otros quince como servidores públicos en cualquier dependencia o poder del Estado, en forma ininterrumpida.
+ARTICULO 103 BIS C.- (DEROGADO, P.O. 4 DE JULIO DE 2012)
 
-Cuando los Magistrados del Tribunal se retiren sin haber cumplido veinticinco años en la función pública, pero diez como Magistrados, tendrán derecho a la remuneración a que se refiere el párrafo anterior de manera proporcional al tiempo de su desempeño.
+ARTICULO 103 BIS D.- (DEROGADO, P.O. 4 DE JULIO DE 2012)
 
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+ARTICULO 103 BIS E.- (DEROGADO, P.O. 4 DE JULIO DE 2012)
 
-ARTICULO 103 BIS B.- Las solicitudes de jubilaciones de los Magistrados, se tramitarán ante el Pleno; el Presidente del Tribunal analizará la solicitud tomando en cuenta los documentos que justifiquen la antigüedad y emitirá el dictamen correspondiente, que presentará al Pleno, quien determinará lo que en derecho proceda.
-
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
-
-ARTICULO 103 BIS C.- Es causa de jubilación obligatoria, padecer incapacidad física o mental, total y permanente, que haga imposible el desempeño del cargo. La incapacidad a que se refiere este artículo la calificará el Pleno con vista en dictámenes que emitan facultativos en la materia, oyendo al Magistrado a jubilar y en su caso, del o los dictámenes de los facultativos que éste ofrezca.
-
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
-
-ARTICULO 103 BIS D.- Al fallecer un Magistrado en ejercicio, se otorgará pensión a la persona que legalmente le corresponda.
-
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
-
-ARTICULO 103 BIS E.- El pago de las pensiones mencionadas en el presente Capítulo, se hará por la Dirección de Administración del Tribunal a partir del día siguiente en que haya sido aprobada la jubilación respectiva; la aprobación deberá hacerse en un plazo de quince días contados a partir de la solicitud respectiva.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE JULIO DE 2012)</small>
 
 ### CAPITULO QUINTO. DE LOS MAGISTRADOS
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 104.
 
@@ -1171,67 +1175,135 @@ XII. Recibir las demandas, formar el expediente respectivo y realizar el registr
 
 XIII. Dar cuenta diariamente al Presidente del Tribunal bajo su más estricta responsabilidad y dentro de las veinticuatro horas siguientes a su recepción, de todas las demandas, promociones, y escritos que se reciban y turnarlos para su trámite a la Sala que corresponda por turno;
 
-XIV. Rendir ante el pleno, en la última sesión de cada año, un informe de las actividades realizadas;
+XIV. (DEROGADA, P.O. 4 DE JULIO DE 2012)
 
 XV. Las demás que por ley le correspondan, las que asigne (sic) Reglamento, el Tribunal en pleno o el Presidente del Tribunal.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 105.
 
-Corresponde a los Secretarios de Acuerdos de Sala:
+Corresponde a los jueces de primera instancia de lo Contencioso Administrativo:
 
-I. Engrosar los fallos emitidos por las Salas a la que estén adscritos, autorizándolos con su firma;
+I. Instruir y resolver el Procedimiento Contencioso Administrativo;
 
-II. Llevar los libros de gobierno para registro de documentos que con motivo de las funciones de la Sala, deban manejarse;
+II. Exhortar a las partes cuando la naturaleza del acto lo permita para que diriman sus controversias, mediante la utilización de vías alternas de solución de conflictos.
 
-III. Efectuar las diligencias que le encomienden la Sala, cuando éstas deban practicarse fuera del local de Tribunal;
+III. Dictar las resoluciones en los asuntos de su competencia;
 
-IV. Redactar y autorizar las actas de las diligencias, en las que les corresponda dar cuenta;
+IV. Despachar su correspondencia;
 
-V. Elaborar el proyecto de resolución en los asuntos que para tal efecto les sean turnados por la Sala;
+V. Rendir al Presidente del Tribunal informe mensual de sus labores, así como de las principales resoluciones emitidas y los criterios sustentados;
 
-VI. (DEROGADA, P.O. 12 DE OCTUBRE DE 2009)
+VI. En el ámbito jurisdiccional imponer las correcciones disciplinarias a si como (sic) hacer uso de los medios de apremio que procedan.
 
-VII. Expedir certificados de las constancias que obren en los expedientes, y
+VII. Suplir a los magistrados en sus faltas temporales, con excepción de las sesiones del pleno, en términos de la fracción XXXIV del Articulo 52 de la Ley Orgánica del Poder Judicial del Estado; y
 
-VIII. Las demás que les señale el Pleno, el Presidente del Tribunal y el Magistrado titular de la Sala.
+VIII. Las demás que le señale el Pleno, la Ley Orgánica del Poder Judicial, su reglamento interno, los acuerdos generales del Consejo de la Judicatura y demás atribuciones de carácter jurisdiccional que se deriven de disposiciones contenidas en otras leyes, decretos, reglamentos y acuerdos.
+
+El trámite de los asuntos corresponderá por turno a los Juzgados de primera instancia, en los términos que disponga esta Ley y el Reglamento Interno del Tribunal
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 106.
 
-Corresponde al Director Administrativo:
+Corresponde a los secretarios judiciales de lo contencioso administrativo de Primera Instancia:
 
-I. Acordar con el Presidente del Tribunal los asuntos de su competencia;
+I. Dar fe y firmar las resoluciones, acuerdos y actuaciones emitidos por los juzgados al que estén adscritos, autorizándolos con su firma;
 
-II. Ejecutar las órdenes relacionadas con la preparación y ejercicio del Presupuesto del Tribunal;
+II. Llevar los libros de gobierno para registro de documentos que con motivo de las funciones del Juzgado, deban manejarse;
 
-III. Tramitar los movimientos de personal y vigilar el cumplimiento de las obligaciones laborales de los empleados administrativos;
+III. Excepcionalmente efectuar las diligencias que le encomienden los Juzgados, cuando éstas deban practicarse fuera del local de Tribunal;
 
-IV. Controlar los bienes del Tribunal, mantener actualizado su inventario y vigilar su conservación;
+IV. Redactar y autorizar las actas de las diligencias, en las que les corresponda dar cuenta;
 
-V. Coordinar la prestación de los Servicios administrativos necesarios para el buen funcionamiento del Tribunal, y
+V. Expedir certificados de las constancias que obren en los expedientes; y
 
-VI. Las demás atribuciones que le asigne la Presidencia y el Reglamento Interior del Tribunal.
+VI. Las demás que les señale el Juez.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 107.
 
-Corresponde al Titular de la Coordinación de Asesores de lo Contencioso Administrativo:
+Los Secretarios de Estudio y Cuenta, formularán los proyectos de acuerdos o resolución que en el caso amerite, dando cuenta al magistrado de su ponencia para que una vez revisado y analizado el asunto, de estimarlo conveniente presente al Pleno de la Sala para su discusión y votación; además deberán:
+
+I. Auxiliar al Secretario General de Acuerdos en todas sus funciones;
+
+II. Suplir las ausencias del Secretario General de Acuerdos;
+
+III. Desempeñar las funciones que le asigne el Presidente de la Sala Superior; y
+
+IV. Las demás que le señale esta Ley y el Reglamento.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
+
+###### ARTICULO 108.
+
+Corresponde a los Actuarios:
+
+I. Notificar dentro de las veinticuatro horas siguientes a su recepción, las resoluciones o acuerdos dictados en los expedientes que para tal efecto le sean turnados;
+
+II. Practicar las diligencias que les encomienden y llevar el control de los expedientes que reciban;
+
+III. Elaborar diariamente la lista de acuerdos y resoluciones y fijarla en lugar visible del Tribunal, a partir de las nueve horas, conservando una copia para el archivo; y
+
+IV. Las demás que le encomiende el Tribunal en Pleno, el Magistrado de la Sala Superior y el Juez
+
+###### ARTICULO 109.
+
+Los Asesores de lo Contencioso Administrativo, desempeñarán, las siguientes funciones:
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
+
+I. Cumplir con las disposiciones de la comisión de administración del tribunal;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
+
+II. Ejecutar las órdenes relacionadas con la preparación y ejercicio del presupuesto del Tribunal;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
+
+III. Tramitar ante el Consejo de la Judicatura, los movimientos e incidencias del personal, y vigilar el cumplimiento de las obligaciones laborales de los empleados administrativos conforme a las disposiciones legales o acuerdos generales del propio Consejo;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
+
+IV. Vigilar la conservación y estado de los bienes del Tribunal e informar al Consejo de la Judicatura para mantener actualizado su inventario conforme a las disposiciones o acuerdos generales del propio Consejo;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
+
+V. Coordinar la prestación de los Servicios administrativos necesarios para el buen funcionamiento del Tribunal; y
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2012)</small>
+
+VI. Las demás atribuciones que le asigne el Consejo de la Judicatura y el Reglamento Interior del Tribunal.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
+
+###### ARTICULO 110.
+
+Coordinador de Asesores de lo Contencioso Administrativo:
 
 I. Llevar un registro pormenorizado de las consultas, visitas, asesorías y juicios promovidos ante el Tribunal de lo Contencioso Administrativo;
 
 II. Difundir y promover sus actividades y servicios;
 
-III. Rendir anualmente ante el pleno, antes del informe del Presidente del Tribunal, un informe sobre las actividades realizadas por ésta y por los Asesores de lo Contencioso Administrativo;
+III. Rendir anualmente ante el Consejo de la Judicatura el informe sobre las actividades realizadas por ésta y por los Asesores de lo Contencioso Administrativo;
 
-IV. Servir como órgano de consulta con relación a dudas y problemas técnico-jurídicos que les sean formuladas por los Asesores;
+IV. Servir como órgano de consulta de la ciudadanía con relación a dudas y problemas técnico-jurídicos que les sean necesarios;
 
-V. Proponer, en cualquier tiempo, la conciliación de intereses ante las autoridades o servidores públicos demandados, en los asuntos que presten asesoría;
+V. Proponer, en cualquier tiempo, la conciliación de intereses ante las autoridades o servidores públicos demandados, en los asuntos que presten asesoría, siempre que no fueran de carácter fiscal; y
 
-VI. Las demás que le encomiende el Pleno y las que le señalen otras disposiciones legales.
+VI. Las demás que le encomiende el Consejo de la Judicatura y las que le señalen otras disposiciones legales.
 
-###### ARTICULO 108.
+Los servicios prestados por esta Dirección serán de manera gratuita a los ciudadanos que lo soliciten.
 
-Corresponde al Titular de la Coordinación de Capacitación y Mejoramiento en materia Jurídico-Administrativa del Tribunal organizar periódicamente, diplomados, seminarios y cursos de actualización, en:
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
 
-I. Derecho Administrativo;
+###### ARTICULO 111.
+
+Corresponde a la Unidad de Capacitación en coordinación con la Escuela Judicial del Consejo de la Judicatura, organizar periódicamente diplomados, seminarios y cursos de actualización en:
+
+l. Derecho Administrativo;
 
 II. Derecho Burocrático;
 
@@ -1243,77 +1315,27 @@ V. Derecho Administrativo Municipal, y
 
 VI. Todas aquellas ramas relacionadas con las labores del Tribunal.
 
-Los estudios que organice, patrocine, difunda y otorgue el Tribunal por conducto de la Coordinación, tendrán el reconocimiento que se otorga a todos los de esta especie.
+Los estudios tendrán el reconocimiento que se otorga a todos los de esta especie.
 
 La difusión de la justicia administrativa y su fomento en la sociedad es una obligación del Estado.
 
-###### ARTICULO 109.
-
-Los Asesores de lo Contencioso Administrativo, desempeñarán, las siguientes funciones:
-
-I. Asesorar a los particulares de escasos recursos económicos en la tramitación de los juicios y recursos ante el Tribunal;
-
-II. Auxiliar a éstos en la formulación de las demandas y promociones relacionadas con asuntos de conocimiento del Tribunal;
-
-III. Vigilar puntualmente los procedimientos en que intervenga;
-
-IV. Brindar consultas gratuitas a los particulares, en materia administrativa y fiscal, y
-
-V. Las demás que sean derivadas del ejercicio de su encargo.
-
-###### ARTICULO 110.
-
-Corresponde a los Actuarios:
-
-I. Notificar dentro de las veinticuatro horas siguientes a su recepción, las resoluciones o acuerdos dictados en los expedientes que para tal efecto le sean turnados;
-
-II. Practicar las diligencias que les encomienden y llevar el control de los expedientes que reciban;
-
-III. Elaborar diariamente la lista de acuerdos y resoluciones y fijarla en lugar visible del Tribunal a las nueve horas, conservando una copia para el archivo, y
-
-IV. Las demás que le encomiende el Tribunal en pleno, el Presidente del Tribunal y el Magistrado de la Sala.
-
-###### ARTICULO 111.
-
-Corresponde a los Jueces Instructores de lo Contencioso Administrativo:
-
-I. Auxiliar en la instrucción del procedimiento;
-
-II. Celebrar audiencias de conciliación entre las partes si así estas lo solicitan;
-
-III. Mediar los asuntos de su competencia si las partes lo solicitan;
-
-IV. Suplir a los Magistrados en sus faltas temporales;
-
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
-
-V. Suplir al Magistrado ausente, o cuando éste se excuse, en el orden que disponga el reglamento;
-
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
-
-VI. Instruir y resolver los procedimientos en las Salas de primera instancia hasta en tanto se nombre al Magistrado correspondiente; y
-
-VII. Las demás que le señale el Pleno y el Reglamento.
-
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 112.
 
-El Secretario General de Acuerdos, los Jueces Instructores, los Secretarios de Acuerdos de Sala, los de Estudio y Cuenta, así como los Asesores, deberán contar con título de Licenciado en Derecho. Los Actuarios, deberán ser preferentemente licenciados en derecho o pasantes. El Director Administrativo, deberá ser Contador Público titulado; todos deberán ser mexicanos, de reconocida buena conducta y tener cuando menos dos años de práctica en materia administrativa y fiscal.
+El Secretario General de Acuerdos, los jueces, los secretarios de estudio y cuenta, secretarios judiciales, así como los asesores y actuarios, deberán contar con titulo y cédula profesional de licenciado en derecho. El Director de gestión administrativa, deberá contar con título y cédula profesional de administrador público, administración de empresas, ingeniero industrial o contador público; todos deberán ser mexicanos, tener cuando menos dos años de práctica en materia administrativa o fiscal; y no contar con antecedentes penales en términos de la Ley Orgánica del Poder Judicial del Estado.
 
-Las faltas temporales de los Secretarios de Sala serán cubiertas por el Secretario de Estudio y Cuenta de la adscripción, o a falta de éstos por el Actuario de la misma Sala. Las faltas temporales de los Actuarios de Sala, serán cubiertas por quien designe el Presidente del Tribunal.
+Las faltas temporales de los secretarios judiciales serán cubiertas por el secretario judicial de la adscripción, o a falta de éstos, por el actuario del mismo. Las faltas temporales de los actuarios, serán cubiertas por quien designe el Consejo de la Judicatura.
 
-### CAPITULO SEXTO. DEL SECRETARIO GENERAL DE ACUERDOS, SECRETARIOS DE ACUERDOS DE SALA, JUECES INSTRUCTORES, ACTUARIOS Y DEMAS FUNCIONARIOS DEL TRIBUNAL
+Las faltas temporales del Secretario General de Acuerdos serán cubiertas por el secretario de estudio y cuenta que designe el Consejo de la Judicatura
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+### CAPITULO SEXTO. DEL SECRETARIO GENERAL DE ACUERDOS, JUECES, SECRETARIOS JUDICIALES, ACTUARIOS Y DEMÁS SERVIDORES PÚBLICOS DEL TRIBUNAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 113.
 
-El Tribunal de lo Contencioso Administrativo, tendrá cada año, dos períodos de vacaciones de quince días, en la segunda quincena de julio y segunda quincena de diciembre.
-
-Se suspenderán las labores y no correrán los plazos, en los días referidos en el artículo 19, y todos aquellos que acuerde el Pleno del Tribunal.
-
-Las vacaciones y los días inhábiles no contemplados en la disposición citada en el párrafo anterior, se darán a conocer, mediante publicación en el Periódico Oficial del Gobierno del Estado.
+Los periodos vacacionales serán fijados por el Consejo de la Judicatura. Se suspenderán las labores y no correrán los plazos, en los días referidos en el artículo 19, y todos aquellos que acuerde el pleno del Tribunal.
 
 # LIBRO TERCERO. DEL JUICIO ANTE EL TRIBUNAL CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE OAXACA
 
@@ -1321,7 +1343,7 @@ Las vacaciones y los días inhábiles no contemplados en la disposición citada 
 
 ### CAPITULO SEPTIMO. DE LAS VACACIONES
 
-> <small>(F. DE E. , P.O. 3 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 114.
 
@@ -1537,7 +1559,7 @@ III. El tercero afectado, pudiendo intervenir con ese carácter cualquier person
 
 Sólo podrán demandar o intervenir en el juicio, las personas que tengan un interés jurídico o legítimo que funde su pretensión.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ### CAPITULO CUARTO. DE LAS PARTES
 
@@ -1565,7 +1587,7 @@ Cuando el particular falleciere dentro de los plazos a que se refiere este artí
 
 La presentación de demandas o promociones de término podrá hacerse el día en que éste concluya, aun fuera del horario, ante el Secretario de la Sala en turno, en su domicilio particular.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 138.
 
@@ -2267,13 +2289,13 @@ Los criterios que establezca el Tribunal, así como aquellos que constituyan pre
 
 Para la modificación de los criterios a que se refiere el artículo anterior, se observarán las mismas reglas establecidas para su formación.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ### CAPITULO VIGESIMO PRIMERO. DE LA REGLAMENTACION INTERNA
 
 ### CAPITULO VIGESIMO. DE LOS CRITERIOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 215.
 
@@ -2353,7 +2375,7 @@ LIC. JORGE F. FRANCO VARGAS.
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 18 DE FEBRERO DE 2006.
 
@@ -2378,3 +2400,11 @@ P.O. 24 DE DICIEMBRE DE 2011.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE JULIO DE 2012.
+
+PRIMERO.- La presente Ley entrará en vigor el día de su publicación.
+
+SEGUNDO.- Para los efectos del segundo párrafo del artículo 81, el Consejo de la Judicatura emitirá los lineamientos respectivos dentro de los ciento ochenta días siguientes, a la entrada en vigencia del presente Decreto.
+
+TERCERO.- El Consejo de la Judicatura determinará sobre el procedimiento que sigan los juicios iniciados hasta antes de la entrada en vigor del presente decreto, determinando la competencia respectiva a los juzgados de primera instancia existentes y los de nueva creación que serán hasta dos.
