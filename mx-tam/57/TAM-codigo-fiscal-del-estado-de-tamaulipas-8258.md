@@ -4,7 +4,7 @@ identifier: "TAM-codigo-fiscal-del-estado-de-tamaulipas-8258"
 country: "mx"
 rank: "codigo"
 publication_date: "1976-12-29"
-last_updated: "2012-04-19"
+last_updated: "2012-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO FISCAL DEL ESTADO
 
 > <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO SEGUNDO TRANSITORIO SE ABROGA EL PRESENTE CÓDIGO, EXCEPTUANDO SU CAPÍTULO RELATIVO AL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, HASTA EN TANTO INICIE SU VIGENCIA EL CÓDIGO DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE TAMAULIPAS QUE RESUELVE LAS CONTROVERSIAS DE CARÁCTER FISCAL, P.O. 28 DE DICIEMBRE DE 1991.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de Diciembre de 1976.
 
@@ -999,11 +999,11 @@ Conocerá del juicio de nulidad, el Tribunal Fiscal del Estado, el que dictará 
 
 El Tribunal Fiscal será unitario y estará a cargo de un Magistrado, que será nombrado y removido por el Congreso del Estado; durará en su encargo seis años y no podrá ser removido, sino por causa de responsabilidad.
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 200.
 
-Para ser Magistrado del Tribunal Fiscal del Estado, se requiere: ser ciudadano mexicano, mayor de veinticinco años, de notoria buena conducta, no haber sido sentenciado por delito intencional contra la propiedad, abogado con título registrado en la Dirección General de Profesiones y tener práctica fiscal.
+Para ser Magistrado del Tribunal Fiscal del Estado, se requiere: ser ciudadano mexicano, mayor de veinticinco años, de notoria buena conducta, no haber sido sentenciado por delito intencional, abogado con título registrado en la Dirección General de Profesiones y tener práctica fiscal.
 
 ###### ARTICULO 198o.
 
@@ -1648,3 +1648,9 @@ El articulo décimo tercero del presente Decreto surtirá efectos jurídicos a p
 ###### ARTICULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE JULIO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
