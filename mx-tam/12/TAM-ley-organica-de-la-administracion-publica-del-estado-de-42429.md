@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-42429"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-12-21"
-last_updated: "2012-03-28"
+last_updated: "2012-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2012.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 21 de diciembre de 2004.
 
@@ -545,11 +545,9 @@ XXXI. Administrar y operar los fondos para financiar a la micro, pequeña y medi
 
 XXXII. Coordinar, en el ámbito de su competencia, la operación de los fondos y fideicomisos de fomento establecidos por el titular del Ejecutivo con los gobiernos federal y municipales, y los sectores social y privado;
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
 
-XXXIII. Coordinar administrativamente las actividades de las entidades denominadas:
-
-Administración Portuaria Integral de Tamaulipas, A. C.; Servicios Aeroportuarios Tamaulipecos, S.A. de C.V.; Zoológico, Parque Recreativo y de Investigación Tamatán, así como las demás entidades que determine el Ejecutivo del Estado, de acuerdo a la materia de su competencia;
+XXXIII. Coordinar administrativamente las actividades de la entidad denominada Zoológico, Parque Recreativo y de Investigación Tamatán, así como las demás entidades que determine el Ejecutivo del Estado, de acuerdo a la materia de su competencia;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
@@ -1057,7 +1055,9 @@ X. Participar, conforme a las leyes o decretos de su creación, en los organismo
 
 XI. Asesorar y apoyar técnica y administrativamente a los Ayuntamientos y sus organismos, cuando lo requieran, en la realización de sus planes y programas de obras públicas;
 
-XII. Coordinar administrativamente las actividades del Instituto Tamaulipeco de Infraestructura Física Educativa, y de las otras entidades que determine el Ejecutivo del Estado, de acuerdo a la materia de su competencia;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
+
+XII. Coordinar administrativamente las actividades de las entidades denominadas: Administración Portuaria Integral de Tamaulipas, S.A. de C.V., Servicios Aeroportuarios Tamaulipecos, S.A. de C.V., y del Instituto Tamaulipeco de Infraestructura Física Educativa, así como las demás entidades que determine el Ejecutivo del Estado, de acuerdo a la materia de su competencia;
 
 XIII. Integrar y mantener actualizados los catálogos de conceptos, especificaciones y precios unitarios para la ejecución de las obras públicas estatales;
 
@@ -1526,3 +1526,13 @@ Las Secretarías de Finanzas, de Administración y la Contraloría Gubernamental
 ###### ARTÍCULO TERCERO.
 
 Con motivo de la reubicación administrativa del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, no se afectarán los derechos de los trabajadores del órgano desconcentrado.
+
+P.O. 4 DE JULIO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las Secretarías de Finanzas, de Administración y la Contraloría Gubernamental, coordinarán las acciones necesarias para el cumplimiento del presente Decreto en todos sus términos, gozando al efecto de las atribuciones necesarias para su estricta aplicación.
