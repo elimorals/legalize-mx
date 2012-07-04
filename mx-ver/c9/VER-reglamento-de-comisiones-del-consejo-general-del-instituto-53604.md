@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-comisiones-del-consejo-general-del-instituto-5360
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-01-08"
-last_updated: "2007-01-08"
+last_updated: "2012-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO DE COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL VERACRUZANO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 4 DE JULIO DE 2012.
 
 Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 8 de enero de 2007.
 
@@ -39,23 +39,21 @@ REGLAMENTO DE COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL VERACRUZANO
 
 El presente Reglamento tiene por objeto regular la integración, atribuciones y funcionamiento de las Comisiones del Consejo General del Instituto Electoral Veracruzano.
 
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2012)</small>
+
 ###### Artículo 2°.
 
 Para efectos del presente Reglamento, se entenderá por:
 
-Área: A la Contraloría Interna, Coordinación del Secretariado, Unidades Técnicas u órgano responsable, perteneciente al Instituto Electoral Veracruzano;
+Área: A la Contraloría General, Coordinación Jurídica, Unidades Técnicas u órgano responsable, perteneciente al Instituto Electoral Veracruzano;
 
-Coaliciones: A la alianza o unión transitoria que tenga por objeto efectuar fines comunes de carácter electoral, y que realicen: dos o más Partidos, dos o más Agrupaciones, uno o varios Partidos con una o varias Agrupaciones o una o más Asociaciones con uno o varios Partidos, o Agrupaciones.
+Coaliciones: A la alianza o unión transitoria que tenga por objeto efectuar fines comunes de carácter electoral, y que realicen: Dos o más partidos, un partido con una o varias asociaciones, o una o más asociaciones con varios partidos;
 
 Código: Al Código Electoral para el Estado de Veracruz de Ignacio de la Llave;
 
-Comisión: A cualquiera de las Comisiones del Consejo General del Instituto Electoral Veracruzano;
+Comisión: A cualquiera de las comisiones del Consejo General del Instituto Electoral Veracruzano;
 
 Presidencia: A la Presidencia del Consejo General del Instituto Electoral Veracruzano;
-
-Consejeros: A los Consejeros Electorales del Instituto Electoral Veracruzano;
-
-Consejo: Al Consejo General del Instituto Electoral Veracruzano;
 
 Estatuto: Al Estatuto del Servicio Profesional Electoral del Instituto Electoral Veracruzano;
 
@@ -63,21 +61,15 @@ Instituto: Al Instituto Electoral Veracruzano;
 
 Órganos Desconcentrados: A los Consejos Distritales y Municipales del Instituto; y las Mesas Directivas de Casilla del Instituto Electoral Veracruzano;
 
-Organizaciones Políticas: A los Partidos Políticos, Agrupaciones y Asociaciones Políticas acreditadas o con registro ante el Instituto Electoral Veracruzano respectivamente;
+Organizaciones Políticas: A los Partidos Políticos y Asociaciones Políticas acreditadas o con registro ante el Instituto Electoral Veracruzano respectivamente;
 
 Presidente: Al Consejero que presida cada Comisión;
 
-Reglamento: Al Reglamento de Comisiones del Consejo General del Instituto Electoral Veracruzano;
-
-Reglamento del Consejo: Al Reglamento del Consejo General del Instituto Electoral Veracruzano;
-
-Reglamento Interno: Al Reglamento Interno del Instituto Electoral Veracruzano;
+Reglamento: Al Reglamento de comisiones del Consejo General del Instituto Electoral Veracruzano;
 
 Representantes: A los Representantes propietarios o suplentes de los Partidos Políticos o Coaliciones acreditados ante el Consejo General del Instituto Electoral Veracruzano;
 
-Secretaría Ejecutiva: A la Secretaría Ejecutiva del Instituto Electoral Veracruzano;
-
-Secretario: Al Secretario Ejecutivo del Instituto Electoral Veracruzano;
+Secretaría Ejecutiva: A la Secretaria Ejecutiva del Instituto Electoral Veracruzano;
 
 Secretario Técnico: Al Secretario de la Comisión de que se trate.
 
@@ -95,15 +87,19 @@ En lo no previsto en el presente Reglamento se estará a lo dispuesto en el Cód
 
 ### CAPÍTULO PRIMERO. Disposiciones Generales
 
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2012)</small>
+
 ###### Artículo 5°.
 
-Las Comisiones del Consejo podrán ser: del Consejo, Temporales y Especiales.
+Las Comisiones del Consejo podrán ser: permanentes, temporales y especiales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE JULIO DE 2012)</small>
 
 ###### Artículo 6°.
 
-Para efectos de sistematización se entenderán como Comisiones del Consejo:
+Para efectos de sistematización se entenderán como Comisiones Permanentes, las que señala el Código Electoral del Estado de Veracruz y que son:
 
-I. Comisión de Fiscalización;
+I. (DEROGADA, G.O. 4 DE JULIO DE 2012)
 
 II. Comisión de Prerrogativas y Partidos Políticos;
 
@@ -113,19 +109,43 @@ IV. Comisión de Administración;
 
 V. Comisión de Servicio Profesional Electoral; y
 
-VI. Comisión de la Contraloría Interna.
+VI. (DEROGADA, G.O. 4 DE JULIO DE 2012)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE JULIO DE 2012)</small>
 
 ###### Artículo 7°.
 
-Además de lo previsto en el artículo anterior el Consejo deberá integrar las siguientes Comisiones Temporales:
+Además de lo previsto en el artículo anterior el Consejo deberá integrar las siguientes Comisiones temporales y especiales:
 
-I. Comisión de Medios de Comunicación; y
+I. Comisión de Medios de Comunicación; y (sic)
 
 II. Comisión de Supervisión del Programa de Monitoreo de los Medios de Comunicación.
 
+> <small>(ADICIONADA, G.O. 4 DE JULIO DE 2012)</small>
+
+III. Comisión de Quejas y Denuncias;
+
+> <small>(ADICIONADA, G.O. 4 DE JULIO DE 2012)</small>
+
+IV. Comisión de Programa de Resultados Electorales Preliminares;
+
+> <small>(ADICIONADA, G.O. 4 DE JULIO DE 2012)</small>
+
+V. Comisión de Debates;
+
+> <small>(ADICIONADA, G.O. 4 DE JULIO DE 2012)</small>
+
+VI. Comisión de Levantamiento y Difusión de Resultados de los Sondeos de Opinión y Encuestas; y,
+
+> <small>(ADICIONADA, G.O. 4 DE JULIO DE 2012)</small>
+
+VII. Las que considere necesarias para la atención de un fin específico y cuyo desahogo dará lugar a su disolución.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE JULIO DE 2012)</small>
+
 ###### Artículo 8°.
 
-El Consejo podrá crear las Comisiones Temporales y Especiales cuya duración no excederá de un año, para lo cual el acuerdo respectivo deberá contener:
+El Consejo podrá crear las Comisiones temporales y especiales, y serán aprobadas en la segunda sesión del año de proceso o cuando así lo requiera el caso, para lo cual el acuerdo respectivo deberá contener:
 
 I. Motivación y fundamentación;
 
@@ -143,15 +163,17 @@ VII. La forma y términos en que deba informar al Consejo sobre el desarrollo de
 
 ### CAPÍTULO SEGUNDO. Integración de las Comisiones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE JULIO DE 2012)</small>
+
 ###### Artículo 9°.
 
-Las Comisiones del Consejo se integrarán por tres Consejeros e igual número de Representantes y un Secretario Técnico.
+Las Comisiones del Consejo se integrarán por tres Consejeros, de los cuales uno fungirá como Presidente; e igual número de Representantes, así como por un Secretario Técnico, designados por el Consejo.
 
 La participación de los Representantes en las Comisiones podrá ser rotativa en los términos que en cada caso se acuerde.
 
-La Comisión de Fiscalización se integrará exclusivamente por tres Consejeros y el Director Ejecutivo Prerrogativas y Partidos Políticos, y estará sujeta a su propia reglamentación.
+> <small>(DEROGADO TERCERO PÁRRAFO, G.O. 4 DE JULIO DE 2012)</small>
 
-Las Comisiones serán presididas por un Consejero, designado por el Consejo.
+> <small>(DEROGADO CUARTO PÁRRAFO, G.O. 4 DE JULIO DE 2012)</small>
 
 ###### Artículo 10.
 
@@ -163,11 +185,13 @@ Las Comisiones Temporales y Especiales se integrarán por tres Consejeros e igua
 
 El Consejo podrá determinar que la participación de los Representantes en las Comisiones Temporales sea rotativa en los términos que así lo acuerde.
 
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2012)</small>
+
 ###### Artículo 12.
 
-La Comisión de Medios de Comunicación se integrará por los Representantes, un Consejero integrante de la Comisión de Fiscalización, un Consejero integrante de la Comisión de Prerrogativas y Partidos Políticos, así como los Directores Ejecutivos de Administración y de Prerrogativas y Partidos Políticos.
+La Comisión de Medios de Comunicación se integrará por dos consejeros electorales, todos los representantes de los partidos políticos y como Secretarios Técnicos los Directores Ejecutivos de la Unidad de Fiscalización y de Prerrogativas y Partidos Políticos.
 
-Las Comisiones de Fiscalización y de Prerrogativas y Partidos Políticos propondrán al Consejo cuál de los Consejeros integrantes de las mismas formarán parte de la Comisión de Medios de Comunicación.
+El Consejo General designará los Consejeros integrantes de la Comisión de Medios de Comunicación.
 
 ### CAPÍTULO TERCERO. Remoción de los Integrantes
 
@@ -189,17 +213,35 @@ La Comisión de Prerrogativas y Partidos Políticos tendrá las siguientes atrib
 
 I. Elaborar su propuesta de programa anual de actividades para que sea incluido en el Programa Operativo Anual del Instituto;
 
-II. Analizar y evaluar los expedientes presentando al Consejo el proyecto de dictamen de las solicitudes de registro de las organizaciones de ciudadanos que pretendan constituirse como Partidos Políticos, Agrupaciones de Ciudadanos de un Municipio y Asociaciones Políticas Estatales;
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2012)</small>
+
+II. Analizar y evaluar los expedientes, presentando al Consejo el proyecto de dictamen de las solicitudes de registro de las organizaciones de ciudadanos que pretendan constituirse como Partidos Políticos y/o Asociaciones Políticas Estatales;
 
 III. Presentar a consideración del Consejo el proyecto de dictamen de pérdida de registro de las Organizaciones Políticas;
 
 IV. Apoyar al Consejo en la supervisión del cumplimiento de las obligaciones de las Organizaciones Políticas en lo relativo a los derechos, obligaciones y prerrogativas de éstas;
 
-V. Proponer al Consejo la investigación de presuntas irregularidades en que hayan incurrido las Organizaciones Políticas, para el desahogo del procedimiento establecido en los artículos 333, 334, 335 y 336 del Código, sin perjuicio de la responsabilidad que corresponda;
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2012)</small>
 
-VI. Analizar, evaluar y, en su caso, proponer modificaciones a los estudios realizados por la Dirección Ejecutiva de Prerrogativas y Partidos Políticos, para la fijación de los topes de gastos de campaña; y
+V. Proponer al Consejo la investigación de presuntas irregularidades en que hayan incurrido las Organizaciones Políticas, para el desahogo del procedimiento establecido en los artículos 327, 328, 329 y 330 del Código, sin perjuicio de la responsabilidad que pudiese derivar;
 
-VII. Las demás que expresamente le confiera el Código, el presente Reglamento, los Acuerdos del Consejo y otras disposiciones aplicables.
+VI. Analizar, evaluar y, en su caso, proponer modificaciones a los estudios realizados por la Dirección Ejecutiva de Prerrogativas y Partidos Políticos, para la fijación de los topes de gastos de campaña; y (sic)
+
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2012)</small>
+
+VII. Supervisar el registro de candidatos;
+
+> <small>(ADICIONADA, G.O. 4 DE JULIO DE 2012)</small>
+
+VIII. Previo acuerdo del Consejo, supervisar que las Asociaciones Políticas Estatales cumplan con las obligaciones previstas en el Código e informarlo a éste;
+
+> <small>(ADICIONADA, G.O. 4 DE JULIO DE 2012)</small>
+
+IX. Elaborar los lineamientos a seguir para la constitución de las Asociaciones Políticas Estatales y Partidos Políticos Estatales, respectivamente; y
+
+> <small>(ADICIONADA, G.O. 4 DE JULIO DE 2012)</small>
+
+X. Las demás que expresamente le confiera el Código, el presente Reglamento, los Acuerdos del Consejo y demás disposiciones aplicables.
 
 ###### Artículo 16.
 
@@ -221,6 +263,8 @@ VII. Supervisar que el Instituto cuente con los recursos materiales y humanos ne
 
 VIII. Las demás que expresamente le confiera el Código, el presente Reglamento, los Acuerdos del Consejo y otras disposiciones aplicables.
 
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2012)</small>
+
 ###### Artículo 17.
 
 La Comisión de Organización y Capacitación Electoral tendrá las atribuciones siguientes:
@@ -233,21 +277,25 @@ III. Supervisar los programas y acciones de difusión y capacitación para orien
 
 IV. Supervisar los programas de capacitación electoral en los procesos de participación ciudadana, como plebiscito y referendo;
 
-V. Supervisar la capacitación a los ciudadanos que pretendan participar como observadores electorales, validando la misma;
+V. Participar en la elaboración del anteproyecto de estudios de la división del Estado en distritos electorales, en los términos que señala la fracción V del artículo 119 del Código;
 
-VI. Supervisar la capacitación electoral a los Órganos Desconcentrados;
+VI. Elaborar, en su caso, el anteproyecto de estudios del número de ediles que integrarán los ayuntamientos del Estado, con base en el último censo general de población, el cual será presentado al Consejo del Instituto para su revisión técnica y posterior envío al Congreso del Estado;
 
-VII. Supervisar la capacitación electoral que se otorgue a los funcionarios de las Mesas Directivas de Casilla que resulten insaculados;
+VII. Proponer al Consejo General los Lineamientos que deberán cumplir los ciudadanos que aspiren a ser Capacitadores-Asistentes Electorales;
 
-VIII. Analizar y evaluar los diseños y formatos de la documentación y material electoral, para aprobación del Consejo, proponiendo, en su caso, las observaciones correspondientes;
+VIII. Auxiliar a la Dirección Ejecutiva de Administración en la búsqueda de bienes inmuebles, para la instalación de los órganos del Instituto;
 
-IX. Analizar y, en su caso, verificar el cumplimiento de los requisitos en la integración de los expedientes de los aspirantes que pretendan integrar los Consejos Distritales y Municipales, para que los mismos sean propuestos y aprobados en los términos de la fracción XVIII del artículo 123 del Código;
+IX. Supervisar la capacitación a los ciudadanos que pretendan participar como observadores electorales, validando la misma;
 
-X. Participar en la elaboración del anteproyecto de estudios de la división del Estado en distritos electorales, en los términos que señala la fracción V del artículo 123 y la fracción III del artículo 132 del Código;
+X. Supervisar la capacitación electoral a los Órganos Desconcentrados y la evaluación a los ciudadanos que aspiren a ser Capacitadores-Asistentes Electorales de acuerdo con los Lineamientos que al efecto apruebe el Consejo General;
 
-XI. Elaborar, en su caso, el anteproyecto de estudios del número de ediles que integrarán los ayuntamientos del Estado, con base en el último censo general de población, el cual será presentado al Consejo del Instituto para su revisión técnica y posterior envío al Congreso del Estado; y
+XI. Analizar y, en su caso, verificar el cumplimiento de los requisitos en la integración de los expedientes de los aspirantes que pretendan integrar los Consejos Distritales y Municipales, para que los mismos sean propuestos y aprobados en los términos de la fracción XVIII del artículo 119 del Código;
 
-XII. Las demás que expresamente le confiera el Código, el presente Reglamento, los Acuerdos del Consejo y otras disposiciones aplicables.
+XII. Supervisar la capacitación electoral que se otorgue a los funcionarios de las Mesas Directivas de Casilla que resulten insaculados;
+
+XIII. Analizar y evaluar los diseños y formatos de la documentación y material electoral, para aprobación del Consejo, proponiendo, en su caso, las observaciones correspondientes;
+
+XIV. Las demás que expresamente le confiera el Código, el presente Reglamento, los Acuerdos del Consejo y demás disposiciones aplicables.
 
 ###### Artículo 18.
 
@@ -267,7 +315,7 @@ VI. Las demás que expresamente le confiera el Código, el presente Reglamento, 
 
 ###### Artículo 19.
 
-Las atribuciones y funcionamiento de las Comisiones de Fiscalización y Contraloría Interna se sujetarán a su reglamentación respectiva, conforme a lo dispuesto por el Código.
+(DEROGADO, G.O. 4 DE JULIO DE 2012)
 
 ### CAPÍTULO SEGUNDO. Del Presidente
 
@@ -447,9 +495,11 @@ Las Comisiones Temporales o Especiales podrán programar la periodicidad con que
 
 Las Comisiones podrán requerir, por conducto de la Presidencia, la presencia de los Servidores Públicos del Instituto, para que expongan, proporcionen información o apoyen en los trabajos de la Comisión.
 
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2012)</small>
+
 ###### Artículo 30.
 
-Los integrantes del Consejo podrán asistir a las reuniones de trabajo de las Comisiones a las que no pertenezcan, con excepción de aquellas que estén integradas exclusivamente por Consejeros.
+Los integrantes del Consejo podrán asistir a las reuniones de trabajo de las Comisiones a las que no pertenezcan.
 
 ###### Artículo 31.
 
@@ -626,3 +676,11 @@ Xalapa-Enríquez, Veracruz, a 22 de diciembre de 2006
 Carolina Viveros García, Presidenta del Consejo General del Instituto Electoral Veracruzano.-Rúbrica.
 
 Francisco Monfort Guillén, Secretario del Consejo General del Instituto Electoral Veracruzano.-Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 4 DE JULIO DE 2012.
+
+Artículo primero. Las reformas al presente Reglamento entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones, de menor jerarquía, que se opongan al presente Reglamento.
