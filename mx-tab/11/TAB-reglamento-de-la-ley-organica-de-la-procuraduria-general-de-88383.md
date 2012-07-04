@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-883
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-06-06"
-last_updated: "2012-06-06"
+last_updated: "2012-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE TABASCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TABASCO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 4 DE JULIO DE 2012.</small>
 
 Reglamento publicado en el Suplemento C del Periódico Oficial del Estado de Tabasco, el miércoles 6 de junio de 2012.
 
@@ -49,8 +49,6 @@ El presente ordenamiento tiene por objeto precisar y regular las disposiciones c
 
 La Procuraduría planeará, coordinará y desarrollará sus actividades de conformidad con las políticas, estrategias, prioridades, metas y objetivos que determine el Titular del Ejecutivo, y la propia Dependencia a través de su Titular, conforme a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Tabasco, el Plan Estatal de Desarrollo, la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco, la Ley Orgánica de la Procuraduría General de Justicia del Estado de Tabasco, la Ley General del Sistema Nacional de Seguridad Pública, la Ley General del Sistema Estatal de Seguridad Pública del Estado de Tabasco y demás disposiciones aplicables.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 3.
 
 Para los efectos del presente ordenamiento se entenderá por:
@@ -63,7 +61,9 @@ III. Procurador: Procurador General de Justicia del Estado de Tabasco;
 
 IV. Ley: Ley Orgánica de la Procuraduría General de Justicia del Estado de Tabasco;
 
-V. Reglamento: Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Tabasco;
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+V. Reglamento: Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Tabasco; y
 
 VI. Consejo: Consejo Consultivo y de Participación Ciudadana.
 
@@ -115,8 +115,6 @@ Son peritos para todos los efectos legales, el Director General de los Servicios
 
 ### CAPÍTULO I. ORGANIZACIÓN DE LA PROCURADURÍA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 10.
 
 Para el cumplimiento de los asuntos de la competencia de la Procuraduría y de su Titular, ésta se integra con las siguientes unidades administrativas:
@@ -133,7 +131,9 @@ c) Dirección General Técnica; que contará con:
 
 c.1. Dirección del Consejo Consultivo y Participación Ciudadana;
 
-c.2. Dirección de Planeación.
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+c.2. Dirección de Planeación; y
 
 d) Dirección de Comunicación Social.
 
@@ -151,7 +151,9 @@ a.4. Fiscales Especializados Adscritos para el Sistema Integral de Justicia para
 
 a.5. Fiscal Especializado para la Atención de Menores Víctimas de Violencia Familiar y Delitos Sexuales
 
-b) Dirección de Atención a Víctimas del Delito.
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+b) Dirección de Atención a Víctimas del Delito;
 
 c) Dirección de Consulta, Amparo e Inconformidades;
 
@@ -183,7 +185,9 @@ e) Dirección para la Atención a Victimas Vulnerables;
 
 f) Fiscalía Especializada para la Atención de Denuncias sobre Delitos Electorales; y
 
-g) Fiscalía Especializada para el Combate al Robo de Vehículos, Casa Habitación y Comercio; y
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+g) Fiscalía Especializada para el Combate al Robo de Vehículos, Casa Habitación y Comercio.
 
 IV. SUBPROCURADURÍA DE EVENTOS DE IMPACTO SOCIAL.
 
@@ -207,15 +211,27 @@ c) Dirección de Asuntos Internos y Contraloría;
 
 d) Dirección General de Informática y Estadística, la que contará con:
 
-d.1. Dirección de Informática y Estadística.
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
 
-e) Unidad de Transparencia.
+d.1. Dirección de Informática y Estadística; y
+
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+e) Unidad de Acceso a la Información.
+
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+Las unidades administrativas, de control e informática dependerán orgánicamente del Procurador.
 
 B. UNIDADES ADMINISTRATIVAS REGIONALES:
 
-I. Delegaciones Regionales;
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
 
-II. Agencias del Ministerio Público; y (sic)
+I. Delegaciones Regionales; y
+
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+II. Agencias del Ministerio Público.
 
 Las demás Unidades Administrativas que se establezcan por mandato de ley o acuerdo del Titular de la Procuraduría, quien decidirá lo necesario tomando en consideración al servicio y a las disponibilidades presupuestarias.
 
@@ -259,13 +275,13 @@ XVI. Solicitar a las autoridades jurisdiccionales competentes la intervención d
 
 XVII. Las demás que señalen otras disposiciones legales y reglamentarias.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 12.
 
 El Procurador ejercerá las siguientes atribuciones delegables:
 
-I. Ejercer la Titularidad de la procuraduría y por consiguiente la representación legal, que sea necesaria para el cumplimiento de todas las atribuciones y funciones que le asignen las leyes.
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+I. Ejercer la Titularidad de la procuraduría y por consiguiente la representación legal, que sea necesaria para el cumplimiento de todas las atribuciones y funciones que le asignen las leyes;
 
 II. Otorgar audiencia pública a la ciudadanía para atender las peticiones y posibles quejas sobre la procuración y administración de justicia, como consecuencia del trámite de las averiguaciones previas y procesos que se desarrollen en la Entidad;
 
@@ -335,8 +351,6 @@ XI. Las demás que le asigne el Procurador y la normatividad aplicable.
 
 ### CAPÍTULO II. SECRETARÍA DE AUDIENCIAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 14.
 
 La Secretaría de Audiencias tendrá las siguientes atribuciones:
@@ -353,15 +367,15 @@ V. Suplir en caso de ausencia al Secretario Particular;
 
 VI. Planear, organizar y ejercer las funciones de coordinación necesarias para el buen funcionamiento de la Secretaría de Audiencias;
 
-VII. Realizar los trámites relativos para allegar oportunamente al Procurador los recursos materiales y económicos necesarios para el desempeño de sus actividades; y (sic)
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+VII. Realizar los trámites relativos para allegar oportunamente al Procurador los recursos materiales y económicos necesarios para el desempeño de sus actividades;
 
 VIII. Llevar el control, seguimiento y cumplimiento de las audiencias públicas del Procurador, e informarle periódicamente sobre estas; y
 
 IX. Las demás que le asigne el Procurador y la normatividad aplicable.
 
 ### CAPÍTULO III. DIRECCIÓN GENERAL TÉCNICA
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### Artículo 15.
 
@@ -377,7 +391,9 @@ IV. Colaborar con la Dirección General de Informática y Estadística en el dis
 
 V. Representar al Procurador y ser su enlace en reuniones interinstitucionales federales, estatales y municipales, así como con instancias internacionales o, académicas, y en todos aquellos asuntos que le encomiende, llevando el seguimiento de información que se haya generado;
 
-VI. Llevar el seguimiento de información, por lo que respecta a Procuración de Justicia, de la Conferencia Nacional de Gobernadores, de la Conferencia Nacional de Procuradores, de la Conferencia Regional de Procuradores, y de la Instancia Regional de Coordinación del Sur-sureste del país. Así como la información que le encomiende el Procurador en relación con la Procuraduría General de la República, el Consejo Nacional de Seguridad Pública, el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, el Consejo Estatal de Seguridad Pública de Tabasco e instancias académicas.
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+VI. Llevar el seguimiento de información, por lo que respecta a Procuración de Justicia, de la Conferencia Nacional de Gobernadores, de la Conferencia Nacional de Procuradores, de la Conferencia Regional de Procuradores, y de la Instancia Regional de Coordinación del Sur-sureste del país. Así como la información que le encomiende el Procurador en relación con la Procuraduría General de la República, el Consejo Nacional de Seguridad Pública, el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, el Consejo Estatal de Seguridad Pública de Tabasco e instancias académicas;
 
 VII. Impulsar la celebración de convenios o acuerdos en materia de procuración de justicia, a nivel nacional, en coordinación con las unidades administrativas que correspondan;
 
@@ -389,7 +405,9 @@ X. Concertar reuniones con los Subprocuradores, Visitaduría General, Directores
 
 XI. Proponer al Procurador en coordinación con las unidades administrativas que correspondan, los análisis y diseños de proyectos de iniciativas, acuerdos o circulares para la actualización del marco normativo de la Procuraduría;
 
-XII. Llevar el seguimiento de la Secretaría Técnica del Comité Técnico Interinstitucional para Prevenir y Combatir la Trata de Personas.
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+XII. Llevar el seguimiento de la Secretaría Técnica del Comité Técnico Interinstitucional para Prevenir y Combatir la Trata de Personas;
 
 XIII. Compilar la Estadística General de la Procuraduría, relativa a todos los delitos, averiguaciones previas, procesos penales, apelaciones, órdenes de aprehensión, órdenes de investigación y órdenes de cateo, en coordinación con la Dirección General de Informática y Estadística;
 
@@ -399,13 +417,13 @@ XV. Proponer al Procurador la elaboración de convenios, instrumentos y bases de
 
 XVI. Elaborar el Programa Sectorial de Procuración de Justicia y la parte que corresponde a la Procuraduría de los Informes de Gobierno;
 
-XVII. Participar en coordinación con la Dirección General de Informática y Estadística en la elaboración de los Anuarios Estadísticos y analizar la información estadística que se refleja en los documentos oficiales a fin de conocer los indicadores de incidencia delictiva;
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+XVII. Participar en coordinación con la Dirección General de Informática y Estadística en la elaboración de los Anuarios Estadísticos y analizar la información estadística que se refleja en los documentos oficiales a fin de conocer los indicadores de incidencia delictiva; y
 
 XVIII. Las demás que conforme a la ley le correspondan o por necesidades del servicio le señale el Procurador.
 
 La Dirección General Técnica estará a cargo de un Director General, auxiliado en el ejercicio de sus atribuciones por directores de área, jefes de departamentos, y demás personal que se requiera para satisfacer las necesidades del servicio.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### Artículo 16.
 
@@ -421,9 +439,13 @@ IV. Coadyuvar con el Procurador en la integración del Consejo Consultivo y de P
 
 V. Dar seguimiento a las opiniones y recomendaciones emitidas en el seno del Consejo Consultivo y de Participación Ciudadana para su debido cumplimiento;
 
-VI. Gestionar ante la Dirección General Administrativa los requerimientos que resulten indispensables para el funcionamiento del Consejo Consultivo y de Participación Ciudadana; y (sic)
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
 
-VII. Elaborar y aplicar encuestas específicas de opinión ciudadana que permitan orientar los programas de política criminal en el Estado;
+VI. Gestionar ante la Dirección General Administrativa los requerimientos que resulten indispensables para el funcionamiento del Consejo Consultivo y de Participación Ciudadana;
+
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+VII. Elaborar y aplicar encuestas específicas de opinión ciudadana que permitan orientar los programas de política criminal en el Estado; y
 
 VIII. Las demás que conforme a la ley le correspondan o por necesidades del servicio le señale el Director General.
 
@@ -457,13 +479,13 @@ XII. Las demás que señalen las disposiciones aplicables y las que le confieran
 
 ### CAPÍTULO IV. DIRECCIÓN DE COMUNICACIÓN SOCIAL
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 18.
 
 La Dirección de Comunicación Social tendrá las siguientes atribuciones:
 
-I. Proponer y ejecutar en forma anual, estrategias de comunicación social que permitan una difusión eficaz de las políticas y acciones implementadas por la institución.
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+I. Proponer y ejecutar en forma anual, estrategias de comunicación social que permitan una difusión eficaz de las políticas y acciones implementadas por la institución;
 
 II. Planear, organizar y coordinar las relaciones entre la Procuraduría y los medios de difusión conforme a los lineamientos que establezca el Procurador y en afinidad con la política institucional de la Coordinación General de Comunicación Social y Relaciones Públicas del Ejecutivo;
 
@@ -529,8 +551,6 @@ XIX. Las demás que le señalen las disposiciones legales aplicables y las que l
 
 ### CAPÍTULO II. ATRIBUCIONES ESPECÍFICAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 20.
 
 El Subprocurador de Procesos tendrá las siguientes atribuciones específicas:
@@ -551,9 +571,13 @@ VII. Proponer las medidas necesarias para la modernización, simplificación y m
 
 VIII. Supervisar el desarrollo de los programas y acciones que tienen por objeto la atención a las víctimas del delito;
 
-IX. Vigilar que la asesoría jurídica proporcionada a las víctimas u ofendidos del delito, así como de sus derechohabientes, cumpla con los requisitos exigidos por las leyes en la materia; y (sic)
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
 
-X. Verificar que los agentes del Ministerio Público y sus órganos auxiliares, observen los tratados, acuerdos y protocolos nacionales e internacionales protectores de derechos fundamentales;
+IX. Vigilar que la asesoría jurídica proporcionada a las víctimas u ofendidos del delito, así como de sus derechohabientes, cumpla con los requisitos exigidos por las leyes en la materia;
+
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+X. Verificar que los agentes del Ministerio Público y sus órganos auxiliares, observen los tratados, acuerdos y protocolos nacionales e internacionales protectores de derechos fundamentales; y
 
 XI. Impulsar estrategias y acciones que posibiliten a las víctimas u ofendidos del delito y sus derechohabientes, el acceso a la justicia alternativa.
 
@@ -585,8 +609,6 @@ X. Solicitar a los concesionarios de redes públicas de telecomunicaciones, la i
 
 La Subprocuraduría de Investigaciones estará a cargo de un Subprocurador, auxiliado en el ejercicio de sus atribuciones por los directores generales, directores, fiscales en jefe, agentes del Ministerio Público, inspectores, peritos, médicos y demás personal que se requiera para satisfacer las necesidades del servicio.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 22.
 
 El Subprocurador de Eventos de Impacto Social, tendrá las siguientes atribuciones específicas:
@@ -605,11 +627,15 @@ VI. Vigilar y coordinar el correcto desempeño de los agentes del Ministerio Pú
 
 VII. Resolver las consultas de los agentes del Ministerio Público sobre la procedencia o no de la devolución de objetos relacionados en la averiguación previa, de conformidad con las disposiciones legales aplicables;
 
-VIII. Vigilar que el Fiscal Especializado para el Combate al Secuestro, preste auxilio al Ministerio Público de la Federación y de las demás entidades federativas, que lo soliciten, en términos de la legislación aplicable y convenios de colaboración suscritos para tales efectos, independientemente que dicha facultad la podrá realizar directamente.
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+VIII. Vigilar que el Fiscal Especializado para el Combate al Secuestro, preste auxilio al Ministerio Público de la Federación y de las demás entidades federativas, que lo soliciten, en términos de la legislación aplicable y convenios de colaboración suscritos para tales efectos, independientemente que dicha facultad la podrá realizar directamente;
 
 IX. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que le sean señalados por delegación o les correspondan por suplencia;
 
-X. Vigilar, la aplicación de protocolos de actuación en los asuntos de su competencia.
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+X. Vigilar, la aplicación de protocolos de actuación en los asuntos de su competencia;
 
 XI. Solicitar a los concesionarios de redes públicas de telecomunicaciones, la información relativa al número telefónico, que se le indique y datos del usuario registrado como cliente;
 
@@ -739,15 +765,15 @@ XV. Las demás que les señalen las disposiciones aplicables y las que confiera 
 
 ### CAPÍTULO I. DIRECCIÓN DE CONTROL DE PROCESOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 27.
 
 La Dirección de Control de Procesos tendrá las siguientes atribuciones específicas:
 
 I. Requerir informes, documentos y elementos de prueba en general, de las dependencias estatales, federales o de particulares, en los términos previstos por las normas aplicables;
 
-II. Tramitar las certificaciones que soliciten la Subprocuraduría de Investigaciones o la Dirección de la Policía Ministerial relacionadas con órdenes de aprehensión, reaprehensión o presentación, para su cumplimiento en otras entidades federativas, de acuerdo al convenio de colaboración vigente entre procuradurías o fiscalías generales de justicia.
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+II. Tramitar las certificaciones que soliciten la Subprocuraduría de Investigaciones o la Dirección de la Policía Ministerial relacionadas con órdenes de aprehensión, reaprehensión o presentación, para su cumplimiento en otras entidades federativas, de acuerdo al convenio de colaboración vigente entre procuradurías o fiscalías generales de justicia;
 
 III. Solicitar a la dependencia estatal o federal correspondiente, los antecedentes penales o procesales de cualquier persona vinculada con un hecho delictivo;
 
@@ -759,7 +785,9 @@ VI. Someter a la consideración del Subprocurador de Procesos las consultas de l
 
 VII. Poner a consideración del Subprocurador de Procesos la propuesta de resolución a las consultas que se formulen a propósito de conclusiones presentadas o no en el proceso penal o de actos cuya consecuencia sea el sobreseimiento del proceso o la libertad absoluta del procesado, antes de que se pronuncie sentencia;
 
-VIII. Por acuerdo del Subprocurador de Procesos, adscribir agentes del Ministerio Público y personal secretarial, a la Mesa Revisora de Consignaciones, juzgados y salas penales, civiles y de adolescentes del H. Tribunal Superior de Justicia del Estado, conforme a las necesidades del servicio.
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+VIII. Por acuerdo del Subprocurador de Procesos, adscribir agentes del Ministerio Público y personal secretarial, a la Mesa Revisora de Consignaciones, juzgados y salas penales, civiles y de adolescentes del H. Tribunal Superior de Justicia del Estado, conforme a las necesidades del servicio;
 
 IX. En materia penal, supervisar que los agentes del Ministerio Público Adscritos:
 
@@ -779,7 +807,9 @@ g) Formulen las conclusiones en los términos señalados por la ley en la materi
 
 h) Interpongan los recursos procedentes y formulen los agravios respectivos en las causas penales de su conocimiento;
 
-i) Concurran e intervengan en las diligencias y audiencias de vista que se practiquen en las salas penales del Tribunal Superior de Justicia del Estado;
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+i) Concurran e intervengan en las diligencias y audiencias de vista que se practiquen en las salas penales del Tribunal Superior de Justicia del Estado; y
 
 j) En los casos en que el agente del Ministerio Público adscrito a las salas penales no exprese agravios, expongan en una sinopsis las razones para ello, a fin de que sea enviada al apelante y se unifique el criterio;
 
@@ -795,7 +825,9 @@ b) Emitan mediante oficio que no formará parte de la indagatoria, las observaci
 
 c) Se apliquen los criterios jurisprudenciales actuales, así como los emitidos por el Procurador respecto de los asuntos de su competencia;
 
-XII. Realizar los actos preparatorios al ejercicio de la acción de extinción de dominio, sujetándose a lo dispuesto en las leyes aplicables.
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+XII. Realizar los actos preparatorios al ejercicio de la acción de extinción de dominio, sujetándose a lo dispuesto en las leyes aplicables;
 
 XIII. En el caso de adolescentes en conflicto con la ley penal, vigilar que los agentes del Ministerio Público adscritos tanto a los juzgados y sala especializados para adolescentes sujeten su intervención a lo dispuesto en la ley de la materia; y
 
@@ -809,7 +841,9 @@ c) Interpongan los recursos correspondientes en los juicios familiares y civiles
 
 d) Formulen y presenten los pedimentos procedentes conforme a lo previsto en la Ley aplicable;
 
-e) Promuevan fundada y razonadamente, las diligencias que procedan en los juicios e incidentes civiles o familiares que les notifiquen y en los que se advierta que existen hechos constitutivos de delitos;
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+e) Promuevan fundada y razonadamente, las diligencias que procedan en los juicios e incidentes civiles o familiares que les notifiquen y en los que se advierta que existen hechos constitutivos de delitos; y
 
 f) Promover cuando proceda ante los órganos jurisdiccionales, las acciones correspondientes a la Ley de Extinción de Dominio del Estado de Tabasco y demás leyes de la materia.
 
@@ -875,8 +909,6 @@ La Dirección de Consulta, Amparo e Inconformidades estará a cargo de un direct
 
 ### CAPÍTULO V (SIC). DIRECCIÓN DE LOS DERECHOS HUMANOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 30.
 
 La Dirección de los Derechos Humanos tendrá las siguientes atribuciones específicas:
@@ -891,7 +923,9 @@ IV. Vigilar el exacto y oportuno cumplimiento de las propuestas de conciliación
 
 V. Atender las quejas presentadas por los ciudadanos en contra de los servidores públicos de esta Institución, que presuntamente hubieren incurrido en violaciones a los derechos humanos;
 
-VI. Solicitar el inicio del procedimiento de responsabilidad administrativa o de la investigación ministerial contra los servidores públicos que hubieren incurrido en violaciones a los derechos humanos;
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+VI. Solicitar el inicio del procedimiento de responsabilidad administrativa o averiguación previa contra los servidores públicos que hubieren incurrido en violaciones a los derechos humanos;
 
 VII. Fomentar la cultura de respeto a los derechos humanos en los servidores públicos y la comunidad en general, mediante programas de orientación y difusión,
 
@@ -904,8 +938,6 @@ X. Las demás que conforme a la ley le correspondan o por necesidades del servic
 La Dirección de los Derechos Humanos estará a cargo de un Director, auxiliado en el ejercicio de sus atribuciones por los agentes del Ministerio Público, jefes de departamento y demás personal que se requiera para satisfacer las necesidades del servicio.
 
 ### CAPÍTULO VI. DEL INSTITUTO DE CAPACITACIÓN Y PROFESIONALIZACIÓN
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### Artículo 31.
 
@@ -933,7 +965,9 @@ X. Contribuir al desarrollo de la vocación de servicio, así como al ejercicio 
 
 XI. Participar en la formulación, regulación y desarrollo del Servicio de Carrera de la Procuraduría, en los términos de la Ley, y demás disposiciones aplicables;
 
-XII. Realizar las actividades inherentes a la Secretaría Técnica del Consejo de Profesionalización
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+XII. Realizar las actividades inherentes a la Secretaría Técnica del Consejo de Profesionalización;
 
 XIII. Planificar y coordinar el funcionamiento y actividades del Centro de Evaluación Psicosocial de la Institución;
 
@@ -953,15 +987,15 @@ El Centro empleará como mecanismos alternativos para la solución de controvers
 
 El personal directivo y los especialistas que formen parte del Centro deberán acreditar un mínimo de ciento cincuenta horas de capacitación en la materia, impartidas por una institución de reconocido prestigio. En el caso del personal administrativo, deberá acreditar un mínimo de sesenta horas.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 33.
 
 El Centro de Justicia Alternativa Penal tendrá las siguientes atribuciones:
 
 I. Conocer de todos aquellos asuntos en los cuales se requiera el requisito de procedibilidad de la querella, comprendidos en el artículo 115 del Código de Procedimientos Penales en vigor, siempre y cuando conste la petición expresa del interesado o su representante legal de acogerse a estos mecanismos alternativos;
 
-II. Intervenir en aquellos casos en los que no proceda el perdón, pero que se solicite la intervención del Centro, a efecto de lograr acuerdos relativos a la reparación del daño o para la aplicación de procesos restaurativos, siempre y cuando el ofensor acepte su participación en el delito.
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+II. Intervenir en aquellos casos en los que no proceda el perdón, pero que se solicite la intervención del Centro, a efecto de lograr acuerdos relativos a la reparación del daño o para la aplicación de procesos restaurativos, siempre y cuando el ofensor acepte su participación en el delito;
 
 III. Vigilar la adecuada aplicación de los mecanismos alternativos de solución de controversias en el ámbito de su competencia para lo cual se observará lo dispuesto en los manuales de organización y procedimientos autorizados, basándose en los principios de voluntariedad, confidencialidad, imparcialidad, equidad, neutralidad, flexibilidad, legalidad y economía procesal;
 
@@ -1131,37 +1165,55 @@ La Dirección de Policía Ministerial estará a cargo de un director, auxiliado 
 
 ### CAPÍTULO V. DIRECCIÓN GENERAL DE SERVICIOS PERICIALES Y MÉDICOS FORENSES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 42.
 
 La Dirección General de Servicios Periciales y Médicos Forenses, tendrá las siguientes atribuciones específicas:
 
 I. Auxiliar al Ministerio Público en la Investigación de los delitos, a través de la búsqueda, preservación, levantamiento y embalaje de los indicios, con el fin de identificar, a la víctima, la mecánica y dinámica de los hechos y, al autor de los mismos.
 
-II. Coordinar y evaluar de acuerdo con cada especialidad, la atención de solicitudes de intervención pericial requeridas por el Ministerio Público, y demás autoridades competentes.
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
 
-III. Establecer las políticas y procedimientos para la elaboración y presentación de los dictámenes e informes de las diversas especialidades periciales, de acuerdo a los manuales de organización y procedimientos vigentes para cada especialidad pericial.
+II. Coordinar y evaluar de acuerdo con cada especialidad, la atención de solicitudes de intervención pericial requeridas por el Ministerio Público, y demás autoridades competentes;
 
-IV. Proponer a las instancias superiores, la permanente modernización y actualización de equipos, sistemas y métodos de trabajo en materia de Servicios Periciales que permitan una investigación científica y especializada.
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
 
-V. Supervisar que la atención de las solicitudes del Ministerio Público y demás autoridades competentes en las diversas intervenciones Periciales, se realice con respeto a los derechos humanos.
+III. Establecer las políticas y procedimientos para la elaboración y presentación de los dictámenes e informes de las diversas especialidades periciales, de acuerdo a los manuales de organización y procedimientos vigentes para cada especialidad pericial;
 
-VI. Vigilar que se realice en forma eficiente el registro y control de solicitudes de Servicios Periciales formuladas por los agentes del Ministerio Público y autoridades competentes.
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
 
-VII. Supervisar permanentemente al personal técnico-científico de las diversas especialidades periciales para que se desempeñen con honradez, responsabilidad, veracidad y objetividad en el servicio encomendado.
+IV. Proponer a las instancias superiores, la permanente modernización y actualización de equipos, sistemas y métodos de trabajo en materia de Servicios Periciales que permitan una investigación científica y especializada;
 
-VIII. Proponer a la Subprocuraduría de Investigaciones y a la Dirección General Administrativa, la contratación de peritos externos, cuando dentro de la Procuraduría no existan especialistas en una determinada ciencia, arte o disciplina que se requiera.
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
 
-IX. Realizar el análisis que permita adscribir peritos en las Agencias Foráneas de la Procuraduría, para estar en posibilidades de desconcentrar funciones, de acuerdo con las necesidades del servicio y la incidencia delictiva en cada una de ellas.
+V. Supervisar que la atención de las solicitudes del Ministerio Público y demás autoridades competentes en las diversas intervenciones Periciales, se realice con respeto a los derechos humanos;
 
-X. Establecer mecanismos de coordinación permanente con las actividades jurisdiccionales para la integración, actualización y control de los casilleros de identificación criminalisticos.
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+VI. Vigilar que se realice en forma eficiente el registro y control de solicitudes de Servicios Periciales formuladas por los agentes del Ministerio Público y autoridades competentes;
+
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+VII. Supervisar permanentemente al personal técnico-científico de las diversas especialidades periciales para que se desempeñen con honradez, responsabilidad, veracidad y objetividad en el servicio encomendado;
+
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+VIII. Proponer a la Subprocuraduría de Investigaciones y a la Dirección General Administrativa, la contratación de peritos externos, cuando dentro de la Procuraduría no existan especialistas en una determinada ciencia, arte o disciplina que se requiera;
+
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+IX. Realizar el análisis que permita adscribir peritos en las Agencias Foráneas de la Procuraduría, para estar en posibilidades de desconcentrar funciones, de acuerdo con las necesidades del servicio y la incidencia delictiva en cada una de ellas;
+
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+X. Establecer mecanismos de coordinación permanente con las actividades jurisdiccionales para la integración, actualización y control de los casilleros de identificación criminalisticos;
 
 XI. Emitir los criterios y lineamientos de los programas y acciones especiales que permitan el intercambio de experiencias, conocimientos y avances tecnológicos con las Unidades de Servicios Periciales de las dependencias encargadas de la procuración de justicia internacionales, federales y estatales, para capacitar y adiestrar a los peritos de la Procuraduría, en coordinación con el Instituto de Capacitación y Profesionalización;
 
 XII. Verificar que las periciales en informática solicitadas por los Agentes del Ministerio Público, sean practicadas por el personal que habilite el Director General de Informática y Estadística, supervisando que éstas se encuentren apegadas a las normas técnicas aplicables;
 
-XIII. Vigilar la correcta alimentación de los bancos de datos biométricos y criminalísticos de acuerdo a las normas aplicables y los criterios establecidos por la Ley General del Sistema Nacional de Seguridad Pública; y (sic)
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+XIII. Vigilar la correcta alimentación de los bancos de datos biométricos y criminalísticos de acuerdo a las normas aplicables y los criterios establecidos por la Ley General del Sistema Nacional de Seguridad Pública;
 
 XIV. Auxiliar al Ministerio Público en la investigación de los delitos, a través de la búsqueda y preservación de los indicios y pruebas tendientes, en su caso, a la acreditación del cuerpo del delito y la probable responsabilidad de sus autores;
 
@@ -1191,23 +1243,25 @@ XXVI. Las demás que señalen las disposiciones legales aplicables o le confiera
 
 La Dirección General de Servicios periciales y Médicos Forenses, estará a cargo de un Director General, auxiliado en el ejercicio de sus atribuciones por el Director de Servicios Periciales, el Director de Servicios Médicos Forenses, los inspectores de peritos, los inspectores médicos, jefes de departamento, peritos, médicos legistas y demás personal que se requiera para satisfacer las necesidades del servicio.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 43.
 
 Compete a las Direcciones de la Dirección General de Servicios Periciales y Médicos Forenses, ejercer las facultades que a continuación se precisan:
 
 A. Dirección de Servicios Periciales:
 
-Las establecidas en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII y XXVI del artículo 42 (sic) este Reglamento;
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
 
-B. Dirección de Servicios Médicos Forenses;
+Las establecidas en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII y XXVI del artículo 42 de este Reglamento;
 
-Las establecidas en las fracciones XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV y XXVI del artículo 42 (sic) este Reglamento
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+B. Dirección de Servicios Médicos Forenses:
+
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+Las establecidas en las fracciones XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV y XXVI del artículo 42 de este Reglamento.
 
 ### CAPÍTULO VI. DIRECCIÓN PARA LA ATENCIÓN A VÍCTIMAS VULNERABLES
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### Artículo 44.
 
@@ -1229,25 +1283,37 @@ VII. Solicitar a la Dirección General de los Servicios Médicos Forenses, la el
 
 VIII. Solicitar a la Dirección General de los Servicios Periciales, la elaboración de los dictámenes que se requieran para la integración de las averiguaciones previas;
 
-VIII (SIC). Concertar acciones con instituciones públicas y privadas, para prestar las medidas de atención y protección que la Procuraduría no esté en posibilidad de proporcionar directamente;
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
 
-IX. Establecer criterios para brindar apoyo psicológico y social a las víctimas vulnerables de delitos, y sus familiares en su caso, así como proporcionar servicios en esta materia, en coordinación con las unidades administrativas de la procuraduría y las agencias especializadas del ministerio público que sean competentes;
+IX. Concertar acciones con instituciones públicas y privadas, para prestar las medidas de atención y protección que la Procuraduría no esté en posibilidad de proporcionar directamente;
 
-X. Promover y apoyar acciones para el auxilio y tratamiento de personas relacionadas en averiguaciones previas de esta área con problemas de trata de personas, farmacodependencia y alcoholismo;
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
 
-XI. Coordinarse con las áreas competentes de la Procuraduría, para promover que se garantice y se haga efectiva la reparación de los daños y perjuicios de las víctimas u ofendidos, en el ámbito de su competencia;
+X. Establecer criterios para brindar apoyo psicológico y social a las víctimas vulnerables de delitos, y sus familiares en su caso, así como proporcionar servicios en esta materia, en coordinación con las unidades administrativas de la procuraduría y las agencias especializadas del ministerio público que sean competentes;
 
-XII. Vigilar que se practiquen las diligencias necesarias para la debida integración de las averiguaciones previas;
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
 
-XIII. Ordenar a la policía ministerial, la realización de las actuaciones que correspondan a la averiguación previa; y
+XI. Promover y apoyar acciones para el auxilio y tratamiento de personas relacionadas en averiguaciones previas de esta área con problemas de trata de personas, farmacodependencia y alcoholismo;
 
-XIV. Operar y ejecutar bases, convenios y otros instrumentos de coordinación con instituciones públicas o privadas, nacionales o extranjeras, así como aplicar, en el ámbito de su competencia, los instrumentos internacionales vigentes en México, en materia de atención a víctimas;
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+XII. Coordinarse con las áreas competentes de la Procuraduría, para promover que se garantice y se haga efectiva la reparación de los daños y perjuicios de las víctimas u ofendidos, en el ámbito de su competencia;
+
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+XIII. Vigilar que se practiquen las diligencias necesarias para la debida integración de las averiguaciones previas;
+
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+XIV. Ordenar a la policía ministerial, la realización de las actuaciones que correspondan a la averiguación previa; y
+
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+XV. Operar y ejecutar bases, convenios y otros instrumentos de coordinación con instituciones públicas o privadas, nacionales o extranjeras, así como aplicar, en el ámbito de su competencia, los instrumentos internacionales vigentes en México, en materia de atención a víctimas;
 
 La Dirección para la Atención a Víctimas Vulnerables estará a cargo de un Director, auxiliado en el ejercicio de sus atribuciones por los jefes de departamento, agentes del Ministerio Público, secretarios, psicólogos y demás personal que se requiera para satisfacer las necesidades del servicio.
 
 ### CAPÍTULO VII. FISCALÍA ESPECIALIZADA PARA LA ATENCIÓN DE DENUNCIAS DE DELITOS ELECTORALES
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### Artículo 45.
 
@@ -1257,9 +1323,13 @@ I. Atender el despacho de los asuntos de su competencia;
 
 II. Ejercer, en el ámbito de su competencia, las atribuciones previstas en el artículo 34 del presente Reglamento;
 
-III. Coordinar el desarrollo y cumplimiento de las funciones del personal que la integre, vigilando que se observen los ordenamientos legales y demás disposiciones aplicables;
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
 
-IV. Establecer mecanismos de coordinación y de interrelación con otras áreas de la Procuraduría, para el óptimo cumplimiento de las funciones que le correspondan; y (sic)
+III. Coordinar el desarrollo y cumplimiento de las funciones del personal que la integre, vigilando que se observen los ordenamientos legales y demás disposiciones aplicables; y
+
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+IV. Establecer mecanismos de coordinación y de interrelación con otras áreas de la Procuraduría, para el óptimo cumplimiento de las funciones que le correspondan.
 
 La Fiscalía Especializada para la Atención de denuncias sobre Delitos Electorales estará a cargo de un Fiscal, el cual actuará con plena autonomía técnica, auxiliado en el ejercicio de sus atribuciones por los agentes del Ministerio Público, secretarios y demás personal que se requiera para satisfacer las necesidades del servicio.
 
@@ -1285,8 +1355,6 @@ La Fiscalía Especializada para el Combate al Robo de Vehículos, Casa Habitaci�
 
 ### CAPÍTULO I. DIRECCIÓN GENERAL ADMINISTRATIVA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 47.
 
 La Dirección General Administrativa tendrá las siguientes atribuciones específicas:
@@ -1301,13 +1369,21 @@ IV. Enviar a la Dirección General de Informática y Estadística, la Dirección
 
 V. Verificar que se mantenga actualizado el Registro Nacional de Personal de Seguridad Pública que depende del Centro Nacional de Información del Secretario Ejecutivo del Sistema Nacional de Seguridad Pública, acorde con la plantilla del personal de la Institución;
 
-VI. Proponer al Procurador las políticas, normas, sistemas, criterios técnicos y procedimientos de la administración de los recursos humanos y materiales de la Procuraduría, de conformidad con sus programas y objetivos, para proporcionar el apoyo que requieran las unidades administrativas y los servicios de la Institución;
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
 
-VII. Asesorar y coordinar las actividades de las subprocuradurías y las demás unidades administrativas, en la elaboración de sus correspondientes proyectos de presupuesto;
+VI. Proponer al Procurador las políticas, normas, sistemas, criterios técnicos y procedimientos de la administración de los recursos humanos, materiales y financieros de la Procuraduría, de conformidad con sus programas y objetivos, para proporcionar el apoyo que requieran las unidades administrativas y los servicios de la Institución;
 
-VIII. Someter a la consideración del Procurador el proyecto de presupuesto anual de la Procuraduría, con base en los anteproyectos de presupuestos propios y los presentados por las Subprocuradurías respectivas y demás unidades administrativas;
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
 
-IX. Proponer ante las instancias correspondientes, los proyectos de presupuesto por lo que respecta a recursos federales que le corresponden a la Procuraduría;
+VII. Asesorar y coordinar las actividades de las subprocuradurías y las demás unidades administrativas, en la elaboración de sus correspondientes anteproyectos de presupuesto;
+
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+VIII. Someter a la consideración del Procurador el anteproyecto de presupuesto anual de la Procuraduría, con base en los anteproyectos de presupuestos propios y los presentados por las Subprocuradurías respectivas y demás unidades administrativas;
+
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+IX. Proponer ante las instancias correspondientes, los anteproyectos de presupuesto por lo que respecta a recursos federales que le corresponden a la Procuraduría;
 
 X. Proporcionar los servicios generales de conservación y mantenimiento, depósito de objetos y de archivos, inventarios, intendencia, vehículos y demás prestaciones necesarias para el desempeño de las funciones de la Institución;
 
@@ -1319,7 +1395,9 @@ XII. Expedir las constancias de nombramientos, bajas e ingresos, a los servidore
 
 XIII. Adquirir, previa autorización del Procurador, los bienes necesarios para satisfacer las necesidades materiales de la Procuraduría, conservar y mantener los muebles e inmuebles en óptimas condiciones de uso, realizar las obras públicas y los servicios relacionados con los mismos; para el exacto cumplimiento y desarrollo de los programas de la Institución, de conformidad con las disposiciones jurídicas y administrativas aplicables, y los acuerdos de los comités de adquisiciones y obra pública;
 
-XIV. Dotar a todas las unidades administrativas de la institución, de los recursos materiales y financieros aprobados por el Procurador, a través de las áreas respectivas;
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+XIV. Dotar a todas las unidades administrativas de la institución, de los recursos humanos, materiales y financieros aprobados por el Procurador, a través de las áreas respectivas;
 
 XV. Desarrollar los sistemas de premios, estímulos, recompensas y reconocimientos a los servidores públicos, conforme a los criterios que determinen las condiciones generales de trabajo y las disposiciones jurídicas aplicables;
 
@@ -1341,17 +1419,19 @@ XXIII. Llevar el registro de títulos y firmas de los funcionarios de la Procura
 
 XXIV. Turnar y remitir los documentos y correspondencia que reciba, dándoles el destino que legalmente corresponda;
 
-XXV. Contestar las demandas civiles en que sea parte la Procuraduría, así como darle seguimiento hasta su total conclusión; y (sic)
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+XXV. Contestar las demandas civiles en que sea parte la Procuraduría, así como darle seguimiento hasta su total conclusión;
 
 XXVI. Compilar, ordenar, estructurar y realizar la información que contendrán los libros blancos de la Procuraduría;
 
-XXVII. Asesorar y apoyar a las unidades administrativas, en la elaboración e integración de la parte que les corresponda de los manuales de la Procuraduría; así como compilar dicha información, organizarla e integrarla, para presentarla ante las dependencias correspondientes para su aprobación.
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+XXVII. Asesorar y apoyar a las unidades administrativas, en la elaboración e integración de la parte que les corresponda de los manuales de la Procuraduría; así como compilar dicha información, organizarla e integrarla, para presentarla ante las dependencias correspondientes para su aprobación, y
 
 XXVIII. Las demás que le señalen las disposiciones legales aplicables y las que le confiera el Procurador.
 
 La Dirección General Administrativa estará a cargo de un Director General, auxiliado en el ejercicio de sus atribuciones por el Director de Recursos Humanos, el Director de Recursos Materiales y Servicios Generales, y el Director de Recursos Financieros, inspectores en jefe, jefes de departamento y demás personal que se requiera para satisfacer las necesidades del servicio.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### Artículo 48.
 
@@ -1359,15 +1439,21 @@ Compete a las Direcciones de la Dirección General Administrativa, ejercer las f
 
 A. Dirección de Recursos Humanos;
 
-Las establecidas en las fracciones I, II, IV, V, VI, XI, XII, XIII, XV, XVI, XVII, XVIII, XIX, XX, XXII, XXIII, XXV, XXVII y XXVIII del artículo 47 (sic) este Reglamento;
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+Las establecidas en las fracciones I, II, IV, V, VI, XI, XII, XIV, XV, XVI, XVIII, XIX, XX, XXII, XXIII, XXIV, XXVII y XXVIII del artículo 47 de este Reglamento;
 
 B. Dirección de Recursos Materiales y Servicios Generales;
 
-Las establecidas en las fracciones I, II, VI, X, XIV, XIII, XXI, XXIII, XXVI y XXVIII del artículo 47 (sic) este Reglamento
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+Las establecidas en las fracciones I, II, VI, X, XIII, XIV, XXII, XXIV y XXVIII del artículo 47 de este Reglamento.
 
 C. Dirección de Recursos Financieros:
 
-Las establecidas en las fracciones I, II, VI, VII, VIII, IX, XIII, XIV, XVI, XVII, XIX, XX, XXIII, XXVI y XXVIII del artículo 47 (sic) este Reglamento.
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+Las establecidas en las fracciones I, II, VI, VII, VIII, IX, XIV, XVI, XVII, XIX, XXI, XXIV, XXVI y XXVIII del artículo 47 de este Reglamento.
 
 ### CAPÍTULO II. DE LA VISITADURÍA GENERAL
 
@@ -1403,8 +1489,6 @@ Al frente de la Visitaduría General habrá un Director General, auxiliado en el
 
 ### CAPÍTULO III. DIRECCIÓN DE ASUNTOS INTERNOS Y CONTRALORÍA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 51.
 
 La Dirección de Asuntos Internos y Contraloría, tendrá las siguientes atribuciones:
@@ -1419,7 +1503,9 @@ IV. Ordenar las medidas cautelares que legalmente proceda aplicar a los servidor
 
 V. Desarrollar y actualizar el sistema de registro de sanciones administrativas impuestas a los servidores públicos de esta Procuraduría, en los términos de la Ley de Responsabilidades de los Servidores Públicos y en coordinación con la Secretaría de Contraloría;
 
-VI. Emitir, previa solicitud, las constancias de antecedentes del personal en servicio o ex servidores públicos, que se requieran para ascensos o contrataciones que se tramiten en la procuraduría.
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+VI. Emitir, previa solicitud, las constancias de antecedentes del personal en servicio o ex servidores públicos, que se requieran para ascensos o contrataciones que se tramiten en la procuraduría;
 
 VII. Vigilar que los procedimientos que se instauren en contra de cualquier servidor público de la Procuraduría, se desarrollen con el mayor sigilo y la confidencialidad correspondiente;
 
@@ -1437,7 +1523,9 @@ XIII. Proporcionar asesoría en materia laboral a las diversas áreas adscritas 
 
 XIV. Planear, programar, organizar, dirigir y evaluar el funcionamiento de las Jefaturas de Departamento y demás personal que conforma la dirección;
 
-XV. Intervenir en el proceso interno de entrega-recepción de las distintas unidades administrativas de la Institución.
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+XV. Intervenir en el proceso interno de entrega-recepción de las distintas unidades administrativas de la Institución;
 
 .
 
@@ -1445,7 +1533,9 @@ XVI. Elaborar, en el caso de ausencia o muerte de un servidor público de la Ins
 
 XVII. Practicar las diligencias de notificación de los acuerdos y resoluciones dictadas en los procedimientos administrativos de responsabilidad;
 
-XVIII. Representar a la Procuraduría y a su titular ante la Secretaría de Contraloría conforme a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos.
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+XVIII. Representar a la Procuraduría y a su titular ante la Secretaría de Contraloría conforme a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos;
 
 XIX. Inscribir y actualizar en el Registro Nacional de Servidores Públicos dados de Baja o Sujetos a Investigación por Actos de Corrupción o Conductas Ilícitas (RESEPU); a los servidores públicos que se encuentren en estos supuestos;
 
@@ -1455,27 +1545,31 @@ XXI. Las demás que le señalen las disposiciones legales aplicables y las que l
 
 La Dirección de Asuntos Internos y Contraloría estará a cargo de un director, auxiliado en el ejercicio de sus atribuciones por Ministerios Públicos, jefes de departamento y demás personal que se requiera para satisfacer las necesidades del servicio.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 52.
 
 Compete a las Jefaturas de Departamento de la Dirección de Asuntos Internos y Contraloría, ejercer las siguientes facultades:
 
 A. Jefatura de Departamento de Asuntos Internos:
 
-I. Las establecidas en las fracciones I a la XI y XIII del Artículo 51 de este Reglamento; y
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+I. Las establecidas en las fracciones I a la XI, XIII y XVII del Artículo 51 de este Reglamento; y
 
 II. Las demás que por necesidades del servicio le encomiende el Director de Asuntos Internos y Contraloría.
 
 B. Jefatura de Departamento de Contraloría:
 
-I. Las establecidas en las fracciones X, XI, XII y XIII del Artículo 51 de este Reglamento; y
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+I. Las establecidas en las fracciones VIII, IX, X y XV del Artículo 51 de este Reglamento; y
 
 II. Las demás que por necesidades del servicio le encomiende el Director de Asuntos Internos y Contraloría.
 
 C. Jefatura de Departamento de Asuntos Laborales y Contencioso:
 
-I. Las establecidas en las fracciones XIV y XV del Artículo 51 de este Reglamento; y
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+I. Las establecidas en las fracciones XI, XII, y XIII del Artículo 51 de este Reglamento; y
 
 II. Las demás que por necesidades del servicio le encomiende el Director de Asuntos Internos y Contraloría.
 
@@ -1515,8 +1609,6 @@ XIV. Las demás que le señalen las disposiciones legales aplicables y las que l
 
 La Dirección General de Informática y Estadística estará a cargo de un director general, auxiliado en el ejercicio de sus atribuciones por directores, jefes de departamento y demás personal que se requiera para satisfacer las necesidades del servicio.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 54.
 
 La Dirección de Informática y Estadística tendrá las siguientes atribuciones y obligaciones específicas:
@@ -1551,15 +1643,15 @@ XIV. Visitar las diversas direcciones de la Procuraduría para detectar las nece
 
 XV. Asistir a los eventos que organicen los proveedores donde presentan las nuevas tecnologías de vanguardia de redes y telecomunicaciones;
 
-XVI. Apoyar los eventos especiales de la Procuraduría con equipos informáticos;
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+XVI. Apoyar los eventos especiales de la Procuraduría con equipos informáticos; y
 
 XVII. Las demás que le señalen las disposiciones legales aplicables y las que le confiera el Director General.
 
 ## TÍTULO NOVENO. UNIDADES ADMINISTRATIVAS REGIONALES
 
 ### CAPÍTULO ÚNICO. DELEGACIONES REGIONALES
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### Artículo 55.
 
@@ -1569,17 +1661,21 @@ I. Representar al Procurador en los municipios de su circunscripción territoria
 
 II. Acordar con el Procurador y los subprocuradores, en su caso, sobre el despacho de los asuntos de su competencia y de las unidades administrativas a su cargo;
 
-III. Vigilar el cumplimiento de los principios de legalidad, honradez, lealtad, imparcialidad, eficiencia y trato digno en el desempeño de las funciones; del personal de la Procuraduría, en su circunscripción territorial;
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+III. Vigilar el cumplimiento de los principios de legalidad, honradez, lealtad, imparcialidad, eficiencia y trato digno en el desempeño de las funciones del personal de la Procuraduría, en su circunscripción territorial;
 
 IV. Ejercer en el ámbito de su competencia, las atribuciones previstas en el artículo 34 del presente Reglamento, respecto a las agencias del Ministerio Público Investigadoras y Especializadas;
 
-V. Coordinarse para el cumplimiento de sus funciones con las unidades administrativas de la Procuraduría, que correspondan;
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+V. Coordinarse para el cumplimiento de sus funciones con las unidades administrativas de la Procuraduría que correspondan;
 
 VI. Vigilar, en los municipios de su circunscripción territorial, las actividades y el debido funcionamiento de las agencias del Ministerio Público y del Ministerio Público Itinerante, de acuerdo con las atribuciones que a cada uno de los servidores públicos corresponda, conforme a las directrices que establezca el Procurador;
 
 VII. Revisar que los pliegos de consignación, cumplan con las normas tanto sustantivas como adjetivas que lo rigen, indicando cuando ello no ocurra, las diligencias que deben realizarse para su perfeccionamiento. Lo anterior, sin perjuicio de las facultades que tiene el Director de Control de Procesos para atraer su revisión;
 
-VIII. Efectuar el control estadístico y de seguimiento de las actividades propias de las Agencias y Unidades administrativas que le estén adscritas, para efectos de elaborar el diagnóstico y estadísticas de evaluación de desempeño institucional y concentrando la información en las Direcciones Generales Técnica, y la de Informática y Estadística durante los primeros cinco días del mes;
+VIII. Efectuar el control estadístico y de seguimiento de las actividades propias de las Agencias y Unidades administrativas que le estén adscritas, para efectos de elaborar el diagnóstico y estadísticas de evaluación de desempeño institucional, concentrando la información en las direcciones generales: Técnica y de Informática y Estadística, durante los primeros cinco días del mes;
 
 IX. Someter a la aprobación del Procurador el Programa de Trabajo, en el que se incluyan las visitas a las agencias del Ministerio Público de su circunscripción territorial y del Ministerio Público Itinerante;
 
@@ -1615,15 +1711,15 @@ XXIV. Las demás que le señalen las disposiciones legales aplicables y las que 
 
 Las delegaciones regionales estarán a cargo de un delegado, auxiliado en el ejercicio de sus atribuciones por un agente del Ministerio Público, secretarios y demás personal que se requiera para satisfacer las necesidades del servicio.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 56.
 
 Las sedes y circunscripciones territoriales de las delegaciones regionales serán las siguientes:
 
 I. Delegación Regional con sede en la ciudad de Cárdenas, cuya circunscripción territorial serán los municipios de Cárdenas y Huimanguillo;
 
-II. Delegación Regional con sede en la ciudad de Cunduacán, cuya circunscripción territorial serán los municipios de Comalcalco, Paraíso, Jalpa de Méndez y Cunduacán.
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+II. Delegación Regional con sede en la ciudad de Cunduacán, cuya circunscripción territorial serán los municipios de Comalcalco, Paraíso, Jalpa de Méndez y Cunduacán;
 
 III. Delegación Regional con sede en la ciudad de Frontera, cuya circunscripción territorial serán los municipios de Centla, Jonuta y Nacajuca;
 
@@ -1665,15 +1761,15 @@ III. Gozar de buena reputación y no haber sido condenado por sentencia ejecutor
 
 IV. No estar en funciones por cargo, empleo o comisión en el servicio público federal, estatal o municipal; (sic)
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 59.
 
 El Consejo tendrá las funciones siguientes:
 
 I. Formular opiniones, las cuales podrá hacer públicas, con motivo del establecimiento y aplicación de las políticas y acciones que implemente la Procuraduría;
 
-II. Formular opiniones, las cuales podrá hacer públicas, de los programas que implemente la institución para el combate a la delincuencia y la impunidad.
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+II. Formular opiniones, las cuales podrá hacer públicas, de los programas que implemente la institución para el combate a la delincuencia y la impunidad;
 
 III. Promover la participación con carácter evaluador y propositivo de la ciudadanía en las tareas de procuración de justicia;
 
@@ -1819,15 +1915,15 @@ El Consejo elaborará un plan anual de trabajo, en el cual se establecerán los 
 
 En la elaboración del plan a que se refiere el párrafo anterior, el Consejo deberá considerar los objetivos, estrategias y líneas de acción propuestas en el Plan Estatal de Desarrollo, que se relacionen con la procuración de justicia; de igual forma, deberá atender las sugerencias y recomendaciones que formule el Procurador.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 70.
 
-Las direcciones de la Procuraduría, otorgarán las facilidades necesarias para el desempeño de las funciones del Consejo. Lo anterior será siempre y cuando no se vean afectadas las labores normales del personal de la institución, así como su infraestructura, (sic)
+Las direcciones de la Procuraduría, otorgarán las facilidades necesarias para el desempeño de las funciones del Consejo. Lo anterior será siempre y cuando no se vean afectadas las labores normales del personal de la institución, así como su infraestructura,
 
 En todo caso, los directores deberán reunirse por lo menos una vez al mes con los miembros del Consejo para otorgarles las facilidades necesarias para el desempeño de sus funciones y acordar los asuntos del Consejo.
 
-Para ello el Procurador, designará a los directores que de acuerdo a su ámbito de competencia se deban relacionar con los análisis, propuestas y tareas designadas a cada una de las comisiones del Consejo, (sic)
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2012)</small>
+
+Para ello el Procurador, designará a los directores que de acuerdo a su ámbito de competencia se deban relacionar con los análisis, propuestas y tareas designadas a cada una de las comisiones del Consejo.
 
 La información que no esté catalogada como secreta podrá ser solicitada en todo momento por las comisiones respectivas.
 
