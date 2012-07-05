@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-del-colegio-de-bachilleres-del-estado-24758
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-27"
-last_updated: "2001-12-27"
+last_updated: "2012-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24758&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # REGLAMENTO INTERIOR DEL COLEGIO DE BACHILLERES DEL ESTADO DE MICHOACAN
 
-REGLAMENTO INTERIOR DEL COLEGIO DE BACHILLERES DEL ESTADO DE MICHOACAN
+REGLAMENTO INTERIOR DEL COLEGIO DE BACHILLERES DEL ESTADO DE MICHOACÁN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL COLEGIO DE BACHILLERES DEL ESTADO DE MICHOACÁN, PUBLICADO EN EL P.O. DE 5 DE JULIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el jueves 27 de diciembre de 2001.
 
@@ -394,3 +396,11 @@ Las faltas temporales de las subdirecciones o delegación administrativa será (
 Morelia, Michoacán, a 17 de diciembre de 2001.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- LIC. VÍCTOR MANUEL TINOCO RUBÍ.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. JUAN BENITO COQUETRAMOS.- SECRETARIO DE GOBIERNO.- C.P. OSCAR A. MENDOZA AHUMADA.- COORDINADOR DE CONTROL Y DESARROLLO ADMINISTRATIVO.- LIC. AGAPITO PÉREZ DÍAZ.- DIRECTOR GENERAL DEL COLEGIO DE BACHILLERES DEL ESTADO. (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE JULIO DE 2012.
+
+Artículo Primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Se abroga el Reglamento Interior del Colegio de Bachilleres del Estado de Michoacán, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 27 de diciembre de 2001, y se dejan sin efecto todas aquellas disposiciones de carácter administrativo que se opongan al presente Reglamento.
