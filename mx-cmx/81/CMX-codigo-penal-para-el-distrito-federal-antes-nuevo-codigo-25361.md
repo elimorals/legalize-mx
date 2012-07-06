@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2012-06-13"
+last_updated: "2012-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE JULIO DE 2012.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -1054,11 +1054,13 @@ VII. De tres a ocho años de prisión, cuando pongan en peligro la vida.
 
 A quien cause lesiones a un ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubina o concubinario, persona con la que mantenga o haya mantenido una relación de hecho, adoptante o adoptado o persona integrante de una sociedad de convivencia, se le aumentara en una mitad la pena que corresponda según las lesiones inferidas.
 
+> <small>(REFORMADO, G.O. 6 DE JULIO DE 2012)</small>
+
 ###### ARTÍCULO 132.
 
-Cuando las lesiones se infieran con crueldad o frecuencia a un menor de edad o a un incapaz, sujetos a la patria potestad, tutela o custodia del agente, la pena se incrementará con dos terceras partes de la sanción prevista.
+Cuando las lesiones se infieran con crueldad o frecuencia a un menor de edad o a un incapaz, sujetos a la patria potestad, tutela, custodia del agente o a una persona mayor de sesenta años, la pena se incrementará con dos terceras partes de la sanción prevista.
 
-En ambos casos, a juicio del juez, se decretará la suspensión o pérdida de los derechos que tenga el agente en relación con el sujeto pasivo, por un tiempo igual al de la pena de prisión que se imponga.
+En todos los casos, a juicio del juez, se decretará la suspensión o pérdida de los derechos que tenga el agente en relación con el sujeto pasivo, por un tiempo igual al de la pena de prisión que se imponga.
 
 ###### ARTÍCULO 133.
 
@@ -1734,13 +1736,17 @@ Para los efectos de este artículo, cuando uno de los hermanos, ascendiente o de
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE MARZO DE 2011)</small>
 
-### CAPÍTULO VI. EXPLOTACIÓN LABORAL DE MENORES O PERSONAS CON DISCAPACIDAD FÍSICA O MENTAL
+### CAPÍTULO VI. EXPLOTACIÓN LABORAL DE MENORES, PERSONAS CON DISCAPACIDAD FÍSICA O MENTAL Y ADULTOS MAYORES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE JULIO DE 2012)</small>
+
+ARTÍCULO 190 BIS. Al que por cualquier medio, regentee, administre, induzca u obtenga un beneficio económico, a través de la explotación laboral de un menor, de una persona con discapacidad física o mental o mayores de sesenta años, poniéndolo a trabajar en las calles, avenidas, ejes viales, espacios públicos, recintos privados o cualquier vía de circulación, se le impondrá de dos a seis años de prisión y de cien a trescientos días multa. También se le condenará al pago de la retribución omitida o despojada, la cual deberá fijarse con base en la naturaleza y condiciones de las actividades laborales desarrolladas por el sujeto pasivo; pero en ningún caso podrá ser menor al salario mínimo general vigente.
 
 > <small>(ADICIONADO, G.O. 22 DE JULIO DE 2005)</small>
 
-ARTÍCULO 190 BIS. Al que por cualquier medio, regentee, administre, induzca u obtenga un beneficio económico, a través de la explotación laboral de un menor o de una persona con discapacidad física o mental, poniéndolo a trabajar en las calles, avenidas, ejes viales, espacios públicos, recintos privados o cualquier vía de circulación, se le impondrá de dos a seis años de prisión y de cien a trescientos días multa. También se le condenará al pago de la retribución omitida o despojada, la cual deberá fijarse con base en la naturaleza y condiciones de las actividades laborales desarrolladas por el sujeto pasivo; pero en ningún caso podrá ser menor al salario mínimo general vigente.
-
 Se entiende por explotación laboral, la acción de despojar o retener, todo o en parte, el producto del trabajo, contra la voluntad de quien labora.
+
+> <small>(ADICIONADO, G.O. 22 DE JULIO DE 2005)</small>
 
 Las penas de prisión y multa, previstas en el párrafo inicial de este precepto, se incrementarán en una mitad en términos del artículo 71 de este ordenamiento, cuando la conducta se realice respecto de dos o más sujetos pasivos, o cuando se emplee la violencia física o moral, o cuando cometan el delito conjuntamente tres o más personas.
 
@@ -1916,7 +1922,7 @@ Al responsable de este delito se le impondrá prisión de ocho a quince años y 
 
 Las penas previstas para los artículos 189 y 189 bis se agravarán hasta en una mitad, si se emplea violencia física o moral.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES CAPITULO IV], G.O. 16 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 6 DE JULIO DE 2012)</small>
 
 ### CAPÍTULO ÚNICO. INHUMACIÓN, EXHUMACIÓN Y RESPETO A LOS CADÁVERES O RESTOS HUMANOS
 
@@ -2058,7 +2064,7 @@ I. La víctima sea menor de edad, incapaz o no tenga la capacidad de comprender 
 
 II. La víctima presente una discapacidad sensorial, física o mental, total o parcial, temporal o permanente.
 
-III. La víctima sea mayor de sesenta años de edad.
+III. (DEROGADA, G.O. 6 DE JULIO DE 2012)
 
 IV. La víctima sea una mujer en estado de embarazo o durante los tres meses posteriores al parto.
 
@@ -4729,3 +4735,9 @@ Primero. Publíquese en la Gaceta Oficial del Distrito Federal.
 Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Tercero. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+G.O. 6 DE JULIO DE 2012.
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal, y para su mayor difusión en el Diario Oficial de la Federación.
+
+Segundo.- La presente Ley entrará en vigor al día siguiente de su publicación
