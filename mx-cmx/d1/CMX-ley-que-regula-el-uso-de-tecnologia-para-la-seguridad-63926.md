@@ -4,7 +4,7 @@ identifier: "CMX-ley-que-regula-el-uso-de-tecnologia-para-la-seguridad-63926"
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-27"
-last_updated: "2008-10-27"
+last_updated: "2012-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63926&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2008-10-16"
 ---
 # LEY QUE REGULA EL USO DE TECNOLOGIA PARA LA SEGURIDAD CIUDADANA DE LA CIUDAD DE MEXICO -- ANTES LEY QUE REGULA EL USO DE TECNOLOGIA PARA LA SEGURIDAD PUBLICA DEL DISTRITO FEDERAL --
 
-LEY QUE REGULA EL USO DE TECNOLOGIA PARA LA SEGURIDAD PUBLICA DEL DISTRITO FEDERAL
+LEY QUE REGULA EL USO DE TECNOLOGÍA PARA LA SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE JULIO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 27 de octubre de 2008.
 
@@ -106,6 +106,24 @@ La instalación de equipos y sistemas tecnológicos, se hará en lugares en los 
 
 La ubicación estará basada en los criterios y prioridades establecidos en la presente Ley.
 
+> <small>(ADICIONADO, G.O. 6 DE JULIO DE 2012)</small>
+
+###### Artículo 4 Bis.
+
+Los equipos y sistemas tecnológicos instalados al amparo de la presente Ley, no podrán ser retirados bajo ninguna circunstancia.
+
+Exceptuará lo establecido en el párrafo anterior, solo en aquellos casos en los que la Secretaría previa consulta y autorización de la demarcación territorial correspondiente, determine que los equipos y sistemas tecnológicos instalados, ya sea por su ubicación o sus características:
+
+I. No contribuyen a los objetivos establecidos en el artículo 1, fracción II de la Ley.
+
+II. Se determine un deterioro físico que imposibilite el adecuado cumplimiento de sus funciones, en cuyo caso deberá repararse o sustituirse en un término no mayor a 30 días naturales.
+
+> <small>(ADICIONADO, G.O. 6 DE JULIO DE 2012)</small>
+
+###### Artículo 4 Ter.
+
+Cuando la inversión realizada por el Gobierno del Distrito Federal en la instalación de equipos y sistemas tecnológicos o cualquier infraestructura que se encuentre dentro del marco de regulación de esta ley, sea superior a los cinco mil días de salario mínimo vigente en el Distrito Federal, no podrá ser modificada o retirada sin previo informe a la Contraloría General del Distrito Federal en el que se justifique dicha acción.
+
 ###### Artículo 5.
 
 Queda prohibida la colocación, de equipos y sistemas tecnológicos al interior de los domicilios particulares, así como aquella instalada en cualquier lugar, con el objeto de obtener información personal o familiar, por parte de la
@@ -115,6 +133,12 @@ Secretaría.
 Sólo podrán ser instalados, sin previa autorización, los equipos tecnológicos fijos en bienes del dominio público o bienes del dominio privado del Distrito Federal. Para la instalación en cualquier otro lugar, se requerirá autorización por escrito del propietario o poseedor del lugar donde se pretenda ubicar los equipos y sistemas tecnológicos.
 
 Dicha autorización será clasificada como confidencial y deberá resguardarse junto con la información obtenida por esos sistemas tecnológicos, de conformidad con lo dispuesto en la presente Ley y la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 6 DE JULIO DE 2012)</small>
+
+###### Artículo 5 Bis.
+
+Queda prohibida la colocación de propaganda, mantas, lonas, carteles, espectaculares, estructuras, señalizaciones y en general, cualquier objeto que impida, distorsione, obstruya o limite el cumplimiento de las funciones de los equipos y sistemas tecnológicos.
 
 ###### Artículo 6.
 
@@ -457,3 +481,11 @@ SEXTO.- El Jefe de Gobierno por conducto del Secretario de Finanzas, hará las p
 Recinto de la Asamblea Legislativa del Distrito Federal, a los nueve días del mes de octubre del año dos mil ocho.- POR LA MESA DIRECTIVA.- DIP. MARTÍN CARLOS OLAVARRIETA MALDONADO, PRESIDENTE.- SECRETARIO, DIP. BALFRE VARGAS CORTEZ.- SECRETARIA, DIP. MARÍA ELBA GÁRFIAS MALDONADO.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los dieciséis días del mes de octubre del año dos mil ocho.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 6 DE JULIO DE 2012.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Artículo Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
