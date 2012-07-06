@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-de-la-secretaria-de-asuntos-indigenas-70903"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-03"
-last_updated: "2009-10-03"
+last_updated: "2012-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70903&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # REGLAMENTO INTERNO DE LA SECRETARIA DE ASUNTOS INDIGENAS
 
-REGLAMENTO INTERNO DE LA SECRETARIA DE ASUNTOS INDIGENAS
+REGLAMENTO INTERNO DE LA SECRETARÍA DE ASUNTOS INDÍGENAS DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE ASUNTOS INDÍGENAS, PUBLICADO EN EL P.O. DE 6 DE JULIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 3 de octubre de 2009.
 
@@ -498,3 +500,19 @@ LIC. MA. LILIA A. MENDOZA CRUZ
 EL SECRETARIO DE ADMINISTRACIÓN
 
 LIC. JOSÉ ANTONIO ESTEFAN GARFIAS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE JULIO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interno de la Secretaría de Asuntos Indígenas, de fecha 20 de Agosto de 2009, publicado en el Periódico Oficial del Gobierno del Estado numero 40, el 03 de Octubre del año 2009.
+
+###### ARTÍCULO TERCERO.
+
+Las disposiciones contenidas en el presente Reglamento, prevalecerán sobre cualquier disposición de igual o menor rango que se opongan a ellas.
