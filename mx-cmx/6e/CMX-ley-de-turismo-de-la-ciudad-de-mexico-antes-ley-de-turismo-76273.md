@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-turismo-de-la-ciudad-de-mexico-antes-ley-de-turismo-7627
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-30"
-last_updated: "2010-08-30"
+last_updated: "2012-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76273&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-08-23"
 
 LEY DE TURISMO DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE JULIO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 30 de agosto de 2010.
 
@@ -198,7 +198,9 @@ IV. Proporcionar orientación y asistencia a los turistas, directamente o a trav
 
 V. Recibir quejas en contra de autoridades y prestadores de servicios turísticos, con la finalidad de implementar las medidas pertinentes para mejorar la calidad en la prestación de los servicios turísticos;
 
-VI. Operar, por sí o a través de terceros, la Red de Módulos de Información Turística del Distrito Federal, en las ubicaciones con mayor afluencia de turistas en el Distrito Federal;
+> <small>(REFORMADA, G.O. 6 DE JULIO DE 2012)</small>
+
+VI. Operar, por sí o a través de terceros, la Red de Centros y Módulos de Información Turística del Distrito Federal, en las ubicaciones con mayor afluencia de turistas en el Distrito Federal;
 
 VII. Difundir información de atractivos turísticos, servicios y prestadores de servicios turísticos, a través de los medios de comunicación impresos, electrónicos, cibernéticos o cualquier otro;
 
@@ -446,7 +448,11 @@ La declaratoria de Zona de Desarrollo Turístico Local Saturada implica la suspe
 
 ## TITULO CUARTO. PROMOCIÓN Y FOMENTO AL TURISMO
 
-### CAPÍTULO I. DE LA PROMOCIÓN TURÍSTICA
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 6 DE JULIO DE 2012)</small>
+
+### CAPÍTULO I
+
+DE LA PROMOCIÓN E INFORMACÓN (SIC) TURÍSTICA.
 
 ###### Artículo 37.
 
@@ -482,13 +488,25 @@ VI. La difusión de la marca, imagen y servicios turísticos, así como los atra
 
 VII. Cualquier otra actividad cuya finalidad sea la comunicación persuasiva para incrementar la imagen, los flujos turísticos, la estadía y el gasto de los turistas en la Ciudad de México.
 
+> <small>(REFORMADO, G.O. 6 DE JULIO DE 2012)</small>
+
 ###### Artículo 41.
+
+La Secretaría difundirá la información turística a través del sitio de internet oficial, Centros y Módulos de Información Turística, entre otros medios.
 
 La Secretaría determinará el sitio de Internet oficial del Gobierno del Distrito Federal para la información y promoción turística de la Ciudad de México.
 
 La dirección electrónica del sitio de Internet deberá aparecer en todos los materiales de promoción y oficiales de la Secretaría.
 
-Para garantizar la uniformidad y confiabilidad de la información, el Gobierno del Distrito Federal no podrá realizar Promoción Turística a través de otro sitio distinto al señalado en el presente artículo.
+Para garantizar la uniformidad y confiabilidad de la información, el Gobierno del Distrito Federal no podrá realizar Promoción Turística a través de otro sitio de internet distinto al señalado en el presente artículo.
+
+Los Centros de Información Turística ofrecerán información, orientación y asesoramiento acerca de los servicios y atractivos de interés de un sitio turístico y deberán estar en lugares estratégicos y visibles para facilitar su localización, tener una rotulación y señalización en español e ingles, contar con equipo de computo y acceso a internet, destinar espacio para la promoción por parte de prestadores de servicios turísticos, información impresa conforme al Reglamento y el personal deberá estar capacitado con conocimientos de cultura general, habilidades de comunicación, dominio de al menos un idioma extranjero y conocimiento actualizado de los recursos, ofertas y atractivos turísticos del lugar.
+
+El Centro Histórico de la Ciudad de México, el Aeropuerto Internacional de la Ciudad de México y las principales zonas turísticas del Distrito Federal, deberán de contar con un Centro de Información Turística conforme al Reglamento.
+
+Los Módulos de Información Turística deberán estar ubicados en corredores turísticos y serán espacios de información y orientación al turista.
+
+Los Módulos cumplirán con aquellos requisitos establecidos para los Centros de Información, que sean acordes su (sic) dimensión física.
 
 ### CAPÍTULO II. DEL FONDO MIXTO DE PROMOCIÓN TURÍSTICA
 
@@ -945,3 +963,15 @@ Artículo Séptimo. El Jefe de Gobierno contará con sesenta días naturales, a 
 Recinto de la Asamblea Legislativa del Distrito Federal, a los treinta días del mes de junio del año dos mil diez.- POR LA MESA DIRECTIVA.- DIP. AXEL VÁZQUEZ BURGETTE, PRESIDENTA.- DIP. MA. NATIVIDAD PATRICIA RAZO VÁZQUEZ, SECRETARIA.- DIP. JOSÉ MANUEL RENDÓN OBERHAUSER, SECRETARIO.- (Firma)
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintitrés días del mes de agosto del año dos mil diez.- JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE LEAL FERNÁNDEZ.- FIRMA.- SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁSQUEZ ALZÚA.- FIRMA.- SECRETARIA DEL MEDIO AMBIENTE, MARTHA TERESA DELGADO PERALTA.- FIRMA.- SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- SECRETARIO DE FINANZAS, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.- SECRETARIO DE TURISMO, ALEJANDRO ROJAS DÍAZ DURÁN.- FIRMA.- SECRETARIA DE CULTURA, ELENA CEPEDA DE LEÓN.- FIRMA.- SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, MARÍA ROSA MÁRQUEZ CABRERA.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 6 DE JULIO DE 2012.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Artículo Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal y para mayor difusión en el Diario Oficial de la Federación.
+
+Artículo Tercero.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+Artículo Cuarto.- El Jefe de Gobierno deberá expedir las modificaciones en el Reglamento de la presente Ley derivadas del presente decreto, dentro de los 90 días naturales a partir de la entrada en vigor del presente decreto.
