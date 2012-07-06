@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-civiles-3371"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-12-24"
-last_updated: "2011-11-11"
+last_updated: "2012-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES
 
-CODIGO DE PROCEDIMIENTOS CIVILES
+CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2012.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 24 de diciembre de 1942.
 
@@ -233,7 +233,7 @@ La cosa juzgada deberá siempre hacerse constar por los autos originales o por c
 
 ## TITULO SEGUNDO. Reglas generales
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE OCTUBRE DE 1986)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ### CAPITULO I. De la personalidad de los litigantes y de la asistencia técnica
 
@@ -623,7 +623,7 @@ Todos los litigantes, en el primer escrito o en la primera diligencia judicial, 
 
 Cuando las partes omitan comunicar al tribunal el nuevo domicilio, las notificaciones personales seguirán haciéndose en el que aparezca en autos.
 
-(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 1993) (F. DE E., P.O. 18 DE JUNIO DE 1993)
+(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 1993) (F. DE E., P.O. 18 DE JUNIO DE 1993)
 
 ###### Art. 97.
 
@@ -2381,7 +2381,7 @@ Se exceptúa de lo dispuesto en la fracción II del artículo anterior, el caso 
 
 Contra las demás presunciones legales y contra las humanas es admisible la prueba.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE JULIO DE 2007)</small>
 
 ### CAPITULO XI-BIS. Fotografías, información que conste en medios electrónicos, y en general, todos aquellos elementos aportados por los descubrimientos de la ciencia
 
@@ -2809,7 +2809,9 @@ La resolución en que se declara que una sentencia ha causado o no ejecutoria, n
 
 Se tramitarán en la vía sumaria los juicios siguientes:
 
-I.- Los de alimentos y aseguración de ellos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+I. (DEROGADA, P.O. 6 DE JULIO DE 2012)
 
 II.- Los que se versen sobre pagos de rentas, desocupación de predios rústicos o urbanos, o sobre cualquiera otra cuestión relacionada con el contrato de arrendamiento;
 
@@ -2859,25 +2861,11 @@ El juez no podrá bajo ninguna circunstancia, dictar un acuerdo en el cual solam
 
 En los juicios sumarios, salvo las disposiciones del juicio hipotecario, todos los días de que conste el período probatorio son comunes para ofrecer y desahogar pruebas. Empero, aquellas cuyo perfeccionamiento requiera la citación de alguna persona, la constitución del personal del juzgado fuera de las oficinas del mismo o la intervención de peritos, deberán ofrecerse con la suficiente anticipación para que dicho perfeccionamiento tenga lugar sin exceder el periodo, de no ser así el juez las desechará de plano.
 
-> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### Artículo 514 Bis.
+###### Art. 514 Bis.
 
-Cuando se tramiten asuntos en materia de alimentos según la fracción I del Artículo 511 del presente Código, en el auto de admisión de la demanda, el juez fijará una pensión provisional en base a lo planteado por la parte actora y según su prudente arbitrio, contra la cual no se admitirá recurso alguno. Lo anterior se comunicará de inmediato a la persona física o moral de quien perciba sus ingresos el deudor alimentista, para que se haga entrega de la pensión provisional al que exige los alimentos. Lo mismo se observará respecto de cualquier emolumento u otro ingreso que exista a favor del deudor alimentista.
-
-Para fijar la pensión provisional, el juez podrá ordenar el desahogo de cualquier diligencia que considere necesaria. Fuera de los casos anteriores, se ordenará requerir al deudor alimentista sobre el pago inmediato de dicha pensión provisional, y embargar de manera precautoria, en su caso, bienes de su propiedad que garanticen su cumplimiento.
-
-Cuando no sea posible determinar las percepciones económicas del que debe darlos, se tendrá como base el tabulador de salarios mínimos generales y profesionales vigentes en el Estado, emitido por la Comisión Nacional de Salarios Mínimos.
-
-La sentencia que decrete los alimentos fijará la pensión correspondiente, la cual deberá abonarse siempre por adelantado. La sentencia respectiva indicará siempre, en su parte considerativa y en uno de sus puntos resolutivos, que el monto de la pensión, cuando sea en cantidad líquida, tendrá un incremento automático mínimo equivalente al aumento porcentual del salario mínimo general diario vigente en la zona económica correspondiente al deudor, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en igual proporción. En este caso, el incremento de los alimentos se ajustará a lo que realmente hubiese obtenido el deudor.
-
-Notificada la sentencia, se comunicará sin demora a la persona física o moral de quien perciba ingresos el deudor alimentista, si este es el caso.
-
-Cuando se hayan embargado bienes al deudor alimentista para garantizar la pensión provisional, se tendrá por definitivo dicho embargo, podrá ampliarse éste y procederse a la venta para cubrir el pago de las pensiones provisionales adeudadas, de la establecida en la sentencia y de las subsecuentes.
-
-El registrador público de la propiedad, en su caso, cuidará del debido cumplimiento de esta disposición.
-
-La pensión definitiva fijada en la sentencia sustituirá a la provisional.
+(DEROGADO, P.O. 6 DE JULIO DE 2012)
 
 ###### Art. 515.
 
@@ -2903,7 +2891,7 @@ Los incidentes que no tengan señalada tramitación especial en este Código, se
 
 En el caso de la fracción XV del artículo 511, una vez recibida por el juez el acta levantada por el oficial del Registro Civil, que contenga la denuncia del impedimento, se citará al denunciante, a los pretendientes y al Ministerio Público para una audiencia, en que expresarán lo que convenga a sus respectivas pretensiones. En caso necesario se recibirá a prueba el juicio por diez días, ajustándose la tramitación a las disposiciones de este capítulo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE ABRIL DE 1971)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ABRIL DE 1971)</small>
 
 ### CAPITULO II. Del juicio sumario de desahucio
 
@@ -4539,7 +4527,7 @@ Transcurrido el plazo a que alude el artículo 827, de oficio se citará a las p
 
 Son aplicables a las apelaciones las reglas del juicio ordinario, en lo que no esté previsto por las disposiciones de este Capítulo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE OCTUBRE DE 1986)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ### CAPITULO III. De la reclamación
 
@@ -6633,37 +6621,41 @@ Los actos de que tratan los capítulos siguientes, se sujetarán a las reglas qu
 
 ### CAPITULO II. De los alimentos provisionales
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Art. 1255.
 
-Para decretar alimentos provisionales a quien tenga derecho de exigirlos, se necesita:
+(DEROGADO, P.O. 6 DE JULIO DE 2012)
 
-I.- Que se acredite cumplidamente el título en cuya virtud se pidan;
-
-II.- Que se justifique, aproximadamente cuando menos, el caudal del que deba darlos;
-
-III.- Que se acredite suficientemente la urgente necesidad que haya de los alimentos provisionales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1256.
 
-La prueba de que trata la primera fracción del artículo anterior, será el testamento, el contrato o la ejecutoria en que conste la obligación de dar alimentos: el contrato deberá estar reducido a escritura pública.
+(DEROGADO, P.O. 6 DE JULIO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1257.
 
-Cuando los alimentos se pidan por razón de parentesco conforme al Código Civil, deberán presentarse los documentos que lo comprueben.
+(DEROGADO, P.O. 6 DE JULIO DE 2012)
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1993)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1258.
 
-Rendida la justificación prevenida en los artículos anteriores, el juez, si creyere fundada la solicitud, dictará resolución haciendo la designación de la cantidad, líquida o por equivalencia en porcentaje, en que deban consistir los alimentos, mandando abonarlo por semanas o quincenas anticipadas, según corresponda de acuerdo a los tiempos en que obtenga sus percepciones el deudor alimentista.
+(DEROGADO, P.O. 6 DE JULIO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1259.
 
-Contra la sentencia en que se otorguen los alimentos sólo procede la apelación en el efecto devolutivo.
+(DEROGADO, P.O. 6 DE JULIO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1260.
 
-En este expediente no se permitirá ninguna discusión sobre el derecho a percibir alimentos: cualesquiera reclamaciones que sobre ese derecho se hicieren, se sustanciarán en juicio sumario, y entre tanto, seguirá abonándose la suma señalada para alimentos.
+(DEROGADO, P.O. 6 DE JULIO DE 2012)
 
 ### CAPITULO III. Del nombramiento de tutores y curadores
 
@@ -7129,7 +7121,7 @@ Cuando se pida al juez que supla el consentimiento de los ascendientes o tutores
 
 Si antes de celebrarse éste se presentare el ascendiente o tutor, el juez revocará la licencia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE OCTUBRE DE 1986)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ## TITULO VIGESIMO. De la revisión de oficio
 
@@ -7295,6 +7287,954 @@ La segunda sección servirá para hacer constar el depósito y devolución de lo
 
 La tercera sección será destinada a la toma de razón de instrumentos privados de que trata el artículo anterior.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2012)</small>
+
+## TÍTULO VIGÉSIMO SEGUNDO. De los Procedimientos Orales en materia de Alimentos
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2012)</small>
+
+### CAPITULO I. Disposiciones Generales
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1376.
+
+Se tramitarán a través del procedimiento oral los siguientes asuntos:
+
+I. La fijación y aseguramiento de alimentos cuando exista controversia entre las partes; y
+
+II. Las solicitudes de alimentos cuando se requiera la intervención del juez sin que exista conflicto entre las partes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1377.
+
+Para decretar alimentos a favor de quien tenga derecho de exigirlos, se necesita:
+
+I. Que se acredite el título en cuya virtud se piden, por lo que se deberá aportar el testamento, los documentos comprobantes de parentesco o de matrimonio o concubinato, o el convenio o la ejecutoria en que conste la obligación de dar alimentos. En caso de concubinato también podrán ofrecerse testigos, para acreditar el mismo; y
+
+II. Que se justifique, al menos aproximadamente, la capacidad económica del que deba darlos.
+
+En caso de las solicitudes señaladas en la fracción II del artículo anterior, el que solicita los alimentos tiene a su favor la presunción de necesitarlos. Por lo tanto, no se requiere prueba para acreditar la necesidad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1378.
+
+El procedimiento oral se regirá bajo los principios procesales de inmediación, contradicción, continuidad, concentración y publicidad, salvo las excepciones que para éste último se establezcan expresamente en este título.
+
+El interés superior de los menores, que consiste en el respeto a todos sus derechos y garantías consignados en la Constitución Federal, los tratados internacionales y las leyes generales y estatales, son también principios rectores que el juez debe atender.
+
+En todo momento del procedimiento tendrán intervención el ministerio público, la Procuraduría de la Defensa del Menor, la Mujer y la Familia y los organismos de asistencia pública o privada, cuando estos últimos estén legalmente facultados para ello.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1379.
+
+Iniciado el proceso, el juez tomará de oficio las medidas tendientes a evitar su paralización y realizar su trámite con la mayor celeridad posible, excepto cuando este Código ordene la actividad de las partes para la continuación del mismo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1380.
+
+El juez deberá mantener la igualdad de oportunidades de las partes en el proceso. Asimismo, deberá interpretar las disposiciones contenidas en este Código de manera tal que se otorguen los mismos derechos al hombre y a la mujer.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1381.
+
+El juez y sus auxiliares tomarán los acuerdos pertinentes para lograr la mayor economía en la marcha pronta del proceso. Los actos procesales sometidos a los órganos de la jurisdicción deberán realizarse sin demora. Para ello, el juez deberá cumplir con los plazos que señala este Código. Asimismo, podrá concentrar las diligencias cuando lo considere conveniente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1382.
+
+Los jueces están obligados a suplir la deficiencia de los planteamientos de las partes y proveerán lo necesario a efecto de proteger la estabilidad familiar y el derecho de los menores e incapaces.
+
+En los procedimientos de alimentos cuando existe controversia, el juez deberá ordenar sólo en los casos que así lo ameriten, la obtención de estudios socioeconómicos a los deudores alimentarios, en los que los especialistas evalúen personalmente el entorno de cada uno constituyéndose en sus domicilios, deberán indagar y recabar los datos necesarios para realizar las evaluaciones, conforme a su especialidad y, concluirán respecto a las condiciones culturales, profesionales y económicas de los deudores alimentarios.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1383.
+
+El juez de lo familiar debe apreciar las pruebas, basado en las reglas de la lógica y la experiencia, así como en los mandatos constitucionales para que se cumplan las formalidades esenciales del procedimiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1384.
+
+Los escritos en que se solicite el desistimiento de la demanda, de la instancia o de la pretensión procesal, deberán ser ratificados ante la presencia judicial. Si no se cumple este requisito, no se les dará trámite.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1385.
+
+La solicitud o demanda inicial que se presente ante el juez de lo familiar podrá ser por escrito o por comparecencia personal.
+
+En caso de comparecencia personal, la exposición deberá hacerse de manera breve y concisa y deberán señalarse los hechos de que se trate, en la inteligencia de que será suplida de inmediato, y ante la presencia del demandante, la deficiencia de la exposición.
+
+En la comparecencia, el juez debe informar a la parte demandada que puede contar con el patrocinio de un defensor de oficio para conocer de su procedimiento y, como consecuencia, el juez dará parte a la Unidad de Defensoría Pública para que, en su caso, asesore o patrocine al solicitante.
+
+El auto de admisión de la demanda deberá ser dictado en el mismo acto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1386.
+
+La sentencia en la que se nieguen los alimentos es apelable en ambos efectos y la que los concede en el efecto devolutivo.
+
+La apelación se tramitará conforme a lo establecido en el Capítulo II del Título Decimocuarto de este Código.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2012)</small>
+
+### CAPITULO II. Del Procedimiento de Alimentos cuando exista Controversia
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 6 DE JULIO DE 2012)</small>
+
+#### SECCION PRIMERA. Generalidades
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1387.
+
+El procedimiento de alimentos cuando exista controversia se desarrollará a través de audiencias orales sucesivas hasta su conclusión, las cuales serán denominadas audiencia inicial, audiencia principal y audiencia incidental, en su caso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1388.
+
+La demanda se presentará por escrito o por comparecencia oral.
+
+Si se presenta por escrito, deberá cumplir con lo establecido en los artículos 261, 262, 263, 264 y 265 del presente código.
+
+Si se presenta por comparecencia oral, bastará con que el demandante se apersone al juzgado competente, formule su pretensión, pruebe su interés jurídico y señale los elementos base de su acción; el juez deberá asentar de manera escrita la demanda de la parte actora y solicitar la firma de la misma para el debido emplazamiento del demandado, conforme a lo dispuesto en el artículo 1385 del presente código.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1389.
+
+Admitida la demanda, el juez ordenará emplazar al demandado corriéndole traslado con copia de la misma y de los documentos acompañados, a fin de que dentro del plazo de tres días ocurra a producir su contestación. En el auto de admisión de la demanda, el juez:
+
+I. En el procedimiento de alimentos cuando exista controversia, fijará una pensión provisional en base a lo planteado por la parte actora y según su prudente arbitrio, contra la cual no se admitirá recurso alguno. Lo anterior se comunicará de inmediato a la persona física o moral de quien perciba sus ingresos el deudor alimentista, para que se haga entrega de la pensión provisional al que exige los alimentos. Lo mismo se observará respecto de cualquier emolumento u otro ingreso que exista a favor del deudor alimentista. Para fijar la pensión provisional, el juez podrá ordenar el desahogo de cualquier diligencia que considere necesaria. Fuera de los casos anteriores, se ordenará requerir al deudor alimentista sobre el pago inmediato de dicha pensión provisional, y embargar de manera precautoria, en su caso, bienes de su propiedad que garanticen su cumplimiento. Cuando no sea posible determinar las percepciones económicas del que debe darlos, se tendrá como base el tabulador de salarios mínimos generales y profesionales vigentes en el Estado, emitido por la Comisión Nacional de Salarios Mínimos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1390.
+
+El escrito de contestación se formulará ajustándose a los términos previstos para la demanda. Las excepciones que se tengan, cualquiera que sea su naturaleza, se harán valer simultáneamente en la contestación y nunca después, salvo las supervenientes.
+
+La excepción de incompetencia sólo podrá promoverse por declinatoria, dentro del término señalado para contestar la demanda y se pedirá al juez que se abstenga del conocimiento del asunto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1391.
+
+· Transcurrido el plazo fijado para contestar la demanda, sin que lo hubiere hecho, se tendrá por contestada en sentido negativo, sin que medie petición de parte. El juez examinará, escrupulosamente y bajo su más estricta responsabilidad, si el emplazamiento fue practicado al demandado en forma legal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1392.
+
+Una vez contestada la demanda y, en su caso, la reconvención, o transcurridos los plazos para ello, el juez señalará de inmediato fecha y hora para la celebración de la audiencia inicial, la que deberá fijarse dentro de los cinco días siguientes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1393.
+
+En los procedimientos de alimentos cuando exista controversia y en cualquier etapa del proceso, inclusive en segunda instancia hasta antes de dictar sentencia, las partes podrán utilizar los mecanismos alternativos de solución de controversias conforme a lo dispuesto en la Ley de Mediación y Conciliación del Estado de Campeche.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 6 DE JULIO DE 2012)</small>
+
+#### SECCION SEGUNDA. De las Audiencias
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1394.
+
+Las audiencias serán presididas por el juez, bajo pena de nulidad si no lo hiciere la publicidad estará restringida, salvo las excepciones establecidas en el artículo 1378, y se desarrollarán oralmente en lo relativo a toda intervención de quienes participen en ella.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1395.
+
+La citación a la audiencia inicial se realizará mediante notificación personal a las partes, según las reglas de las notificaciones establecidas en el presente código.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1396.
+
+Las partes deberán asistir a las audiencias del procedimiento, por sí o a través de sus legítimos representantes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1397.
+
+Las partes podrán, de común acuerdo, por una sola vez, solicitar la suspensión de la audiencia inicial, para lo cual, si fuere justificada, el juez señalará nuevos día y hora para su celebración dentro de un plazo que no excederá de dos días hábiles
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1398.
+
+El juez tendrá las más amplias facultades de dirección procesal para decidir en forma pronta y expedita lo que en derecho convenga.
+
+Para hacer cumplir sus determinaciones el juez puede emplear cualquiera de las medidas de apremio establecidas en este Código.
+
+Si el juez estima que en el caso hay elementos que pueden ser constitutivos de delito, dará vista de ellos al ministerio público.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1399.
+
+Solo durante las audiencias podrán reclamarse las nulidades que de ellas se originen, las cuales se resolverán en el propio acto.
+
+Son nulas las actuaciones judiciales cuando se verifiquen sin la concurrencia de los requisitos que la ley establece.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1400.
+
+La recusación del juez será admisible antes de la audiencia inicial. Si se declara fundada, será nulo lo actuado a partir del momento en que se interpuso la recusación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1401.
+
+Salvo lo dispuesto en este Título, las peticiones de las partes deberán formularse oralmente durante las audiencias. El juez proveerá, oralmente y al momento, sobre toda petición que le sea planteada durante las audiencias.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1402.
+
+El juez podrá suspender por un plazo no mayor a tres días hábiles el desarrollo de la audiencia principal, por las razones siguientes:
+
+I. Cuando el juez deba resolver alguna cuestión incidental que no pueda realizar en el desarrollo de la audiencia inicial o principal;
+
+II. Cuando se deba practicar alguna diligencia de prueba fuera de la sede del juzgado y no pudiera verificarse en el tiempo intermedio entre una y otra sesiones;
+
+III. Cuando no comparezcan los peritos o los testigos citados judicialmente y el juzgador considere imprescindible la declaración o el informe de los mismos;
+
+IV. Cuando después de iniciada la audiencia se produzca alguna de las circunstancias que determine la suspensión de su celebración.
+
+El juez comunicará oralmente la fecha y la hora de su continuación a las partes intervinientes.
+
+Cuando no pueda reanudarse la audiencia dentro de los tres días hábiles siguientes a su interrupción, se procederá a la celebración de nueva audiencia y se realizará el oportuno señalamiento para la fecha más inmediata posible, dentro de un plazo no mayor de los dos días hábiles siguientes.
+
+Lo mismo se hará cuando no hayan transcurrido dichos plazos, siempre que deba ser sustituido el juez ante el que comenzó a celebrarse la audiencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1403.
+
+Las resoluciones judiciales dictadas en las audiencias se tendrán por notificadas a quienes estén presentes.
+
+A los inasistentes se les notificará conforme a las reglas generales de las notificaciones.
+
+La notificación personal que ordene el juez contendrá un extracto sucinto del acto procesal respectivo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1404.
+
+En cada audiencia, el juez hará saber a las partes, comparecientes y público asistente, el orden, decoro y respeto que deberán observar, así como los nombres de los servidores públicos y demás participantes en la audiencia.
+
+Corresponde al secretario de actas auxiliar al juez, respetar en todo momento el principio de inmediación procesal y verificar la identidad de los que intervendrán en las audiencias; hará constar la inasistencia de alguna de las partes y, por escrito, lo actuado en las audiencias.
+
+Si una parte o los terceros llegan al recinto oficial después de iniciada la audiencia, podrán incorporarse a partir de ese momento, sin embargo, tendrán por precluido el derecho para hacer valer las manifestaciones y demás actos referentes a las actuaciones ya celebradas. El secretario de actas hará constar el momento de su incorporación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1405.
+
+El juez contará con las más amplias facultades disciplinarias para mantener el orden durante las audiencias, para lo cual podrá ejercer el poder de mando de la fuerza pública e imponer indistintamente las correcciones disciplinarias que estime más eficaces.
+
+El juez podrá impedir el acceso y ordenar la salida de aquellas personas que se presenten en condiciones incompatibles con la formalidad de la audiencia.
+
+Quienes asistan deberán permanecer en silencio mientras no estén autorizados para exponer o deban responder a las preguntas que se les realicen.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1406.
+
+Queda prohibido utilizar equipos de telefonía, grabación y videograbación foráneos en el recinto oficial, incluidos, indistintamente, los usados por los medios de comunicación, si estos tipos de medios provocan retrasos en la realización de la audiencia o las partes en el proceso manifiestan su inconformidad con los mismos, o el juez los considera inconvenientes para el mejor desarrollo de la audiencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1407.
+
+El juez ordenará el desahogo de las pruebas, dirigirá el debate, exigirá el cumplimiento de las formalidades que correspondan y moderará la discusión; podrá impedir que las alegaciones se desvíen hacia aspectos no pertinentes o inadmisibles; también podrá limitar el tiempo y número de veces del uso de la palabra a las partes que debieren de intervenir e interrumpirá a quienes hicieren uso abusivo de su derecho.
+
+Una vez que los testigos, peritos o partes concluyan su intervención, a petición de ellos podrán ausentarse del recinto oficial cuando el juez lo autorice.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1408.
+
+· En caso de que una audiencia en distinto proceso se prolongue, y llegue la hora señalada para la verificación de otra, las personas citadas deberán permanecer en el juzgado hasta que se termine aquélla, acorde al orden de audiencias establecido. El secretario de actas fijará diariamente en la lista las audiencias que se realizarán, con la mención del correspondiente número de expediente, si se trata de la audiencia inicial o principal, y el nombre de las partes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1409.
+
+El juez decretará los recesos que estime pertinentes para el mejor desarrollo de la audiencia, con la precisión de su duración; las partes quedarán obligadas a asistir a la hora señalada para la continuación y serán apercibidas que, de no comparecer, se les tendrá por renunciado su derecho a estar presentes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1410.
+
+La facultad de las partes para realizar determinados actos procesales en las audiencias producirá su preclusión de no hacerse valer en la fase correspondiente.
+
+El juez determinará el inicio y la conclusión de cada una de las etapas de las audiencias y declarará precluidos los derechos procesales que debieron ejercitarse en las anteriores.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1411.
+
+Las audiencias se registrarán en video, audiograbación o cualquier otro medio apto, a juicio del juez, para producir seguridad en las actuaciones y asegurar la información que permita garantizar su fidelidad, integridad, conservación, reproducción de su contenido y acceso a quienes, de acuerdo a la ley, tuvieren derecho a ello.
+
+Al inicio de las audiencias se hará constar oralmente, en el registro a que hace referencia el párrafo anterior, la fecha y el lugar de realización y los nombres de los servidores públicos del juzgado y de las demás personas que intervendrán.
+
+Las partes y los terceros que intervengan en el desarrollo de las audiencias deberán rendir, previamente, protesta de que se conducirán con la verdad. Para tal efecto, se les tomará la protesta y se les apercibirá de las sanciones que se imponen a quienes declaran con falsedad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1412.
+
+De cada audiencia se levantará acta que contendrá la fecha, las horas de inicio y de término, los nombres de los servidores públicos y personas que hubieren intervenido, la relación de los actos procesales celebrados y la mención sucinta de requerimientos, citaciones, apercibimientos y cualquier otro acto que el juez determine que deba comunicarse a las partes o terceros que no asistieron. El acta será firmada por el juez y el secretario de actas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1413.
+
+A los videos o audiograbaciones, y cualquier otro registro determinado por el juez, se les asignará un número consecutivo, el número de expediente y el año judicial.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1414.
+
+Cuando dentro o fuera de la audiencia se solicite copia de las grabaciones, se acompañará a la solicitud el soporte material adecuado para proporcionar las copias de las grabaciones.
+
+Queda prohibido a las partes, terceros y autoridades la difusión por cualquier medio de las constancias, video o audiograbaciones de las controversias que regula este título; para lo cual se estará a lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Estado, la Ley Orgánica del Poder Judicial del Estado, los reglamentos en la materia y demás legislación aplicable.
+
+En tratándose de copias simples de los documentos que obren en el expediente, el juzgado o tribunal deberá expedir, sin demora alguna, aquéllas que se le soliciten, y bastará para ello que la parte interesada lo realice verbalmente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1415.
+
+La conservación de las grabaciones, o de cualquier otro medio apto estimado por el juez, que integren el expediente, se hará por duplicado, y se depositará en el área de seguridad del juzgado. Cuando pueda dañarse el soporte material del registro y afectarse su contenido, el juez ordenará prevenir su reemplazo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1416.
+
+En el juzgado o tribunal estarán disponibles los instrumentos y el personal de auxilio necesario para que las partes tengan acceso a los registros del procedimiento, con el fin de conocer su contenido.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 6 DE JULIO DE 2012)</small>
+
+#### SECCION TERCERA. De la Audiencia Inicial
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1417.
+
+La audiencia inicial comprenderá:
+
+I. La enunciación de la litis;
+
+II. La fase conciliatoria, sólo en los casos de alimentos cuando exista controversia; y
+
+III. La admisión y preparación de pruebas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1418.
+
+En caso de inasistencia de las partes, se citará a una nueva audiencia que deberá celebrarse en un término no mayor de tres días hábiles, con el apercibimiento que, de no asistir, el juez resolverá conforme a los elementos presentados en la demanda y a las actuaciones realizadas hasta ese momento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1419.
+
+Declarada abierta la audiencia inicial, el juez precisará sucintamente las pretensiones de las partes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1420.
+
+En la etapa de conciliación, el juez mencionará los inconvenientes que conlleva la tramitación de un juicio, los invitará a acudir al Centro de Justicia Alternativa para que las partes lleguen a un acuerdo entre ellos y les hará saber los beneficios de los medios alternativos de solución de controversias, según lo dispuesto en la Ley de Mediación y Conciliación del Estado de Campeche.
+
+De llegar a un acuerdo, el convenio se elevará a calidad de cosa juzgada, podrá el juez revisarlo sólo para verificar que no se vulneren los derechos humanos de menores e incapaces.
+
+Si las partes no logran llegar a un acuerdo, el proceso seguirá su desarrollo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1421.
+
+El juez procederá a recepcionar los medios de prueba permitidos por la ley y que se refieran a los puntos controvertidos. Terminada la recepción de pruebas, procederá a admitirlas o desecharlas, según sea el caso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1422.
+
+El juez dictará las medidas necesarias para preparar el desahogo de las pruebas en la audiencia principal o fuera de ésta, según sea el caso.
+
+Queda a cargo de las partes su oportuna preparación, bajo el apercibimiento de que, de no hacerlo, se declararán desiertas de oficio o por causas imputables al oferente, por lo que la audiencia no se suspenderá ni diferirá, en ningún caso, por falta de preparación o desahogo de las pruebas admitidas, salvo caso fortuito o de fuerza mayor o interés de menores e incapaces.
+
+Cuando se advierta la falta de algún requisito en el ofrecimiento de una prueba, el juez requerirá a la oferente para que lo subsane en ese acto y, de no hacerlo en sus términos, la desechará.
+
+El juez podrá ordenar el desahogo y práctica de cualquier medio probatorio no ofrecido por la parte actora.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1423.
+
+El desahogo de las pruebas fuera de la sede del juzgado, pero dentro de su ámbito de competencia territorial, se realizará en los días, horas y lugares que señale el juez, pero antes de la audiencia principal, para lo cual, dictará las medidas conducentes.
+
+En el auto en que se admitan los medios de prueba, se dejará a disposición del oferente el oficio o exhorto respectivo para que realice los trámites necesarios, con el fin de exhibirlo debidamente diligenciado hasta la fecha de la audiencia principal, con el apercibimiento de deserción de la prueba.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1424.
+
+El juez señalará día y hora para la celebración de la audiencia principal dentro de los ocho días hábiles siguientes, en la que recibirá las pruebas pertinentes de desahogo, se formularán alegatos, y en su caso, dictara resolución definitiva.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 6 DE JULIO DE 2012)</small>
+
+#### SECCION CUARTA. De la Audiencia Principal
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1425.
+
+La audiencia principal se desarrollará de la siguiente manera:
+
+I. Fase de desahogo de pruebas: abierta la audiencia, el juez hará saber su objeto, llamará a las partes, peritos, testigos y demás personas que intervendrán, y precisará quiénes permanecerán en el recinto. Se recibirán los medios de prueba en el orden en que fueron ofrecidos. Desahogadas las pruebas, si el Juez considera necesaria la práctica de diligencias para el esclarecimiento de los hechos controvertidos, en protección al interés superior de los menores de edad o incapaces, podrá diferir la audiencia para el desahogo de las pruebas que estime pertinentes dentro de un término no mayor de cinco días hábiles.
+
+II. Fase de alegatos: desahogadas todas las pruebas, se formularán alegatos de clausura por un máximo de cinco minutos por cada parte; iniciará la parte actora, sin derecho a réplica.
+
+III. Fase de dictado de sentencia: en la misma audiencia, el Juez dictará la sentencia, que contendrá los motivos y fundamentos del fallo; su lectura podrá efectuarse de manera resumida.
+
+De no dictarse la sentencia definitiva en la audiencia, por la complejidad del asunto, se citará a las partes para oírla dentro de un plazo no mayor de tres días hábiles
+
+De la sentencia quedará constancia íntegra por escrito y se pondrá una copia a disposición de las partes en la secretaría respectiva.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1426.
+
+La audiencia principal sólo se suspenderá por caso fortuito, de fuerza mayor, interés de menores e incapaces o por los señalados en el artículo 1402 de este Código.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1427.
+
+Los incidentes y tercerías se formularán con ofrecimiento de pruebas durante la audiencia principal y, previa vista a la contraria, se resolverán en la misma audiencia. Si no fuere posible por la naturaleza del incidente o tercería, se realizará audiencia incidental en un plazo no mayor de tres días hábiles.
+
+El incidente de nulidad no suspende la citación para sentencia, siempre que no afecte el fondo del asunto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1428.
+
+La sentencia deberá quedar asentada por escrito y estará apegada a lo establecido en el artículo 487 del presente Código.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1429.
+
+La sentencia que decrete los alimentos fijará la pensión correspondiente, la cual deberá abonarse siempre por adelantado. La sentencia respectiva indicará siempre, en su parte considerativa y en uno de sus puntos resolutivos, que el monto de la pensión, cuando sea en cantidad líquida, tendrá un incremento automático mínimo equivalente al aumento porcentual del salario mínimo general diario vigente en la zona económica correspondiente al deudor, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en igual proporción. En este caso, el incremento de los alimentos se ajustará a lo que realmente hubiese obtenido el deudor.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1430.
+
+Notificada la sentencia, se comunicará sin demora a la persona física o moral de quien perciba ingresos el deudor alimentista, si este es el caso.
+
+Cuando se hayan embargado bienes al deudor alimentista para garantizar la pensión provisional, se tendrá por definitivo dicho embargo, podrá ampliarse éste y procederse a la venta para cubrir el pago de las pensiones provisionales adeudadas, de la establecida en la sentencia y de las subsecuentes.
+
+El registrador público de la propiedad, en su caso, cuidará del debido cumplimiento de esta disposición.
+
+La pensión definitiva fijada en la sentencia sustituirá a la provisional.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 6 DE JULIO DE 2012)</small>
+
+#### SECCION QUINTA. De las Pruebas
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1431.
+
+Desde la presentación de la demanda, o dentro del proceso, hasta antes de fijar la fecha para celebración de la audiencia principal, cualquiera de las partes podrá solicitar la práctica anticipada de algún dato o medio de prueba, cuando se encuentre dentro de los supuestos establecidos en el Capítulo Primero, Título Quinto, del presente Código, con el apercibimiento de que, de no hacerlo, no podrán solicitarlo con posterioridad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1432.
+
+Si la causa que dio lugar a la práctica de la prueba anticipada no existiera para la fecha fijada, se desahogará en la audiencia principal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1433.
+
+La prueba practicada anticipadamente podrá realizarse de nuevo si, en el momento de la audiencia principal, fuere posible llevarla a cabo y alguna de las partes así lo solicitara. En tal caso, el juez admitirá que se practique la prueba de que se trata y valorará tanto la realizada anticipadamente como la realizada con posterioridad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1434.
+
+Al ofrecer las pruebas, las partes cumplirán lo siguiente:
+
+I. Relacionarlas con los hechos controvertidos;
+
+II. Indicar los nombres y apellidos de los testigos; así como sus respectivos domicilios;
+
+III. Cuando un testigo radique fuera de la competencia territorial del juzgado, se exhibirá interrogatorio para los efectos del artículo 414 del presente Código;
+
+IV. En la prueba pericial se precisará su objeto y en caso necesario se exhibirá el cuestionario sobre el cual deba versar;
+
+V. De no cumplirse con los requisitos a que se refieren las fracciones anteriores y de no subsanarse en la audiencia inicial, se desecharán; y
+
+VI. Cuando se traten de documentos que obren ante personas morales o físicas, o de informes que deban rendir, se proporcionarán los datos necesarios que permitan su desahogo, para lo cual se librará de manera inmediata el oficio o exhorto correspondiente a fin de que, en un término no mayor de tres días a partir de su recepción, se remitan los documentos o rindan los informes solicitados por el juzgado, con el apercibimiento de multa o arresto para el caso de incumplimiento. El oficio o exhorto respectivo quedará a disposición del interesado el día de la publicación del acuerdo. La falta de interés en el desahogo de estos medios de prueba surtirá efectos de deserción en perjuicio de la parte oferente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1435.
+
+Se tendrán por ciertos los hechos que pretendan acreditar las partes al ofrecer los medios de prueba, cuando su contraria impida u obstaculice de cualquier forma su desahogo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1436.
+
+Las posiciones deberán llenar los requisitos siguientes:
+
+I. Estar formuladas en términos claros y precisos;
+
+II. Ser aseverativas, entendiéndose por tales las que en términos afirman algo, aunque estén redactadas en términos negativos;
+
+III. Contener hechos propios del que absuelva y no conceptos subjetivos u opiniones;
+
+IV. No han de ser insidiosas, entendiéndose por tales las que se dirijan a ofuscar la inteligencia del que deba responder, con objeto de obtener una confesión contraria a la verdad;
+
+V. No han de contener más de un solo hecho. Cuando la posición contenga dos o más hechos, el juez la examinará prudentemente, determinará si debe absolverse en dos o más respuestas, o si, por la íntima relación que exista entre los hechos que contiene, de manera que no pueda afirmarse o negarse uno sin afirmar o negar el otro u otros, y teniendo en cuenta lo ya declarado por el absolvente al contestar las anteriores posiciones, debe prevalecer como ha sido formulada;
+
+VI. No ser contradictorias entre sí. Las que resulten serlo serán desechadas;
+
+VII. Deberán concretarse a hechos que sean objeto del debate;
+
+VIII. No podrán referirse a hechos del declarante que deban constar probados por documento público o privado;
+
+IX. No contener términos técnicos, a menos que quien deponga, por razón de su profesión o actividad, resulte que tiene capacidad de dar respuesta a ellos;
+
+X. No se referirán a hechos que ya consten en el proceso; y
+
+XI. No contendrán repetición de posiciones.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1437.
+
+La prueba confesional en la audiencia principal se desahogará conforme a las siguientes reglas:
+
+I. Las posiciones se formularán oralmente en el acto de la audiencia;
+
+II. El Juez, en el acto de la audiencia, vigilará que se reformulen oralmente de ser necesario, a las que el absolvente responderá llanamente;
+
+III. Previo el apercibimiento correspondiente, en caso de que la persona que deba declarar no asista sin justa causa o no conteste las posiciones que se le formulen, de oficio se hará efectivo el apercibimiento y se tendrán por ciertos los hechos que la contraparte pretenda acreditar, salvo prueba en contrario;
+
+IV. El abogado del absolvente podrá permanecer durante su desahogo en la sala de audiencia, apercibido de que se le impondrá una multa y se le retirará si interviene de alguna manera o se comunica con su defendido;
+
+V. La parte que no comparezca a absolver posiciones deberá justificar fehacientemente su inasistencia hasta antes de la fase de alegatos; y
+
+VI. El juez valorará las circunstancias particulares, tendrá o no por justificada la inasistencia y, en su caso, tomará las providencias necesarias para su desahogo. De ser necesario se trasladará el personal de actuación al lugar en que se encuentre el absolvente para efectuar la diligencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1438.
+
+La declaración de parte consiste en la facultad de los litigantes para interrogar oralmente a la parte contraria sobre hechos y circunstancias de que tenga noticia y que guarden relación con el objeto de la controversia.
+
+Las preguntas de la declaración se formularán en forma interrogativa y podrán no referirse a hechos propios, pero con la debida precisión y claridad, sin incorporar valoraciones ni calificaciones, de manera que puedan ser entendidas sin dificultad.
+
+El juez resolverá las objeciones que se formulen, respecto a la claridad y precisión de las preguntas o a la pertinencia de los hechos por los cuales la parte haya sido requerida para declarar.
+
+Si el declarante se niega a contestar o se conduce con evasivas, el juez podrá exigirle las respuestas y aclaraciones; en todo caso, valorará prudentemente la conducta procesal adoptada.
+
+Si el que deba declarar no asiste, pese a haber agotado el juez los medios de apremio para hacerlo comparecer, la prueba se tendrá por desierta, pero se considerará la conducta procesal del citado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1439.
+
+La declaración de parte podrá recibirse con independencia de la confesional.
+
+Si se admiten la confesional y la declaración de parte, éstas se desahogarán al concluir aquella.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1440.
+
+La testimonial se desahogará mediante interrogatorio o contrainterrogatorio oral que formulen las partes. Los testigos responderán de viva voz.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1441.
+
+Cuando se trate de testigos que deban ser citados por el juez, se les apercibirá de que, en caso de desobediencia, se les aplicará un arresto de hasta treinta y seis horas, o se les hará comparecer por medio de la fuerza pública a juicio del juez.
+
+La citación se hará en forma personal por lo menos con dos días hábiles de anticipación al día señalado para recibir la declaración.
+
+Sólo una vez se ordenará la presentación del testigo; de no lograrse por causa injustificada e imputable al oferente de la prueba, se declarará desierta.
+
+El juez cuidará la indivisibilidad de la prueba.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1442.
+
+Los testigos podrán ser tachados en la audiencia inicial y el juez resolverá de inmediato.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1443.
+
+Cuando sobre uno o varios hechos controvertidos deban declarar dos o más testigos, sin sobrepasar cinco, se adoptarán las medidas necesarias para evitar que puedan comunicarse entre ellos y conocer previamente el contenido de las preguntas del interrogatorio o contrainterrogatorio y las respectivas respuestas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1444.
+
+Las preguntas del interrogatorio o contrainterrogatorio sólo se referirán a hechos o circunstancias que hayan podido apreciar los testigos por medio de sus sentidos; deben ser claras, precisas, inquisitivas y no llevar implícitas las respuestas conducentes a la cuestión debatida y se procurará que en una sola no se comprenda más de un solo hecho.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1445.
+
+Las preguntas del interrogatorio y contrainterrogatorio podrán ser objetadas cuando:
+
+I. No reúnan los requisitos del artículo anterior;
+
+II. Se refieran a hechos o circunstancias ya probadas;
+
+III. Sean insidiosas;
+
+IV. Sean contradictorias entre sí, caso en que se desecharán las preguntas que contengan tal contradicción; y
+
+V. Estén formuladas en términos técnicos o se refieran a opiniones o creencias subjetivas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1446.
+
+La parte contraria podrá objetar su admisibilidad únicamente en el momento en que se formule la pregunta del interrogatorio o contrainterrogatorio, y expondrá las razones. El juez, después de haber escuchado el argumento de la parte contraria, deberá calificarla en el acto antes de otorgar la palabra al testigo para responder.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1447.
+
+Una vez respondidas las preguntas formuladas por la parte oferente, la parte contraria podrá formular al testigo nuevas preguntas que considere pertinentes al hecho; asimismo, podrá dirigir al testigo las preguntas necesarias para acreditar cualquier circunstancia que afecte su credibilidad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1448.
+
+En el caso de personas de más de setenta años y personas enfermas, podrá el juez, según las circunstancias, recibirles la declaración en su domicilio, en los términos establecidos en el artículo 403 de este Código.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1449.
+
+Cuando el testigo propuesto no resida en el lugar del juicio, la parte oferente deberá presentar su pliego de preguntas del interrogatorio; el juez, previa calificación de legalidad, procederá conforme al artículo 414 de este Código.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1450.
+
+Los registros del procedimiento oral, cualquiera que sea el medio, serán instrumentos públicos, harán prueba plena y acreditarán el modo en que se desarrolló la audiencia o diligencia correspondiente, la observancia de las formalidades, las personas que hubieran intervenido, las resoluciones pronunciadas por el juez y los actos que se llevaron a cabo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1451.
+
+La objeción de documentos se realizará en la fase de admisión y preparación de pruebas de la audiencia inicial, con el ofrecimiento de los medios de convicción que la acrediten.
+
+Los documentos exhibidos en la audiencia principal se objetarán en la misma.
+
+El juez proveerá lo conducente para desahogar en la audiencia principal las pruebas admitidas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1452.
+
+Si se ofrece la prueba pericial, cada parte nombrará un perito, a no ser que se pusieren de acuerdo en el nombramiento de uno solo; en el caso en que los peritos de cada parte ofrezcan dictámenes contradictorios entre sí, las partes, de comun acuerdo, nombrarán un perito tercero para el caso de discordia y, de no nombrar al tercero, el juez lo designará.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1453.
+
+Las partes que hayan designado peritos quedan obligadas a que éstos acepten y protesten el cargo por escrito en el término de dos días hábiles contados a partir de la admisión de la prueba.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1454.
+
+Si para la elaboración del dictamen se requiere de la presencia de las partes o terceros, el juez los citará en día y hora determinado en el local del juzgado o en el lugar que se estime pertinente para que se practiquen exámenes, pruebas, y se efectúen las acciones necesarias acorde a la naturaleza de la pericial de que se trate.
+
+Se apercibirá a las partes de que, de negarse a los exámenes o ante su inasistencia injustificada, se tendrán por ciertos los hechos que pretenda acreditar el oferente, salvo prueba en contrario.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1455.
+
+El dictamen se exhibirá por escrito en la audiencia principal, en la que los peritos darán cuenta sucinta sólo de las consideraciones generales del caso y de la parte conclusiva, sin perjuicio de responder a las preguntas que las partes les formulen.
+
+El juez podrá formularle preguntas al perito sólo cuando, de manera fundada y motivada, se necesite aclarar algo en beneficio de menores o incapaces.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1456.
+
+Cuando los peritos de cada parte, sin causa justificada, no acepten ni protesten el cargo en el término señalado, no practiquen los exámenes o valoraciones a las partes o terceros involucrados o no asistan a la audiencia principal, aunque hayan exhibido con antelación sus respectivos dictámenes, se tendrá por desierto el desahogo de esta prueba por causas imputables a la parte oferente y se declarará precluido su derecho.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1457.
+
+El reconocimiento judicial se practicará en la forma estipulada en el Capítulo Noveno del Título Sexto de este Código y se utilizarán los medios de grabación de imagen y sonido para dejar constancia de lo que sea objeto del reconocimiento judicial y de las manifestaciones de quienes intervengan en él, con el fin de reproducirlos en la audiencia principal, sin menoscabo de la elaboración del acta en la que se señalarán, además, los datos necesarios para la identificación de las grabaciones llevadas a cabo, y que habrán de conservarse por el Tribunal de modo que no sufran alteraciones.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1458.
+
+Después de la fase de ofrecimiento y admisión de pruebas, sólo se les recibirán al actor y al demandado, respectivamente, para ser calificados, los documentos que se hallen en alguno de los casos siguientes:
+
+I. Ser de fecha posterior a dichos escritos de ofrecimiento;
+
+II. Los anteriores respecto de los cuales, bajo protesta de decir verdad, afirme la parte oferente no haber tenido conocimiento de su existencia;
+
+III. Los que no hayan sido obtenidos con anterioridad por causas que no sean imputables a la parte oferente.
+
+Las documentales supervenientes se ofrecerán y desahogarán a más tardar en la audiencia principal; se recibirán y se correrá traslado a la contraparte.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2012)</small>
+
+### CAPITULO III. Del Procedimiento Voluntario de Solicitud de Alimentos
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1459.
+
+La solicitud se presentará por escrito o por comparecencia personal ante el juez de lo familiar. Cuando se realice de manera escrita reunirá los requisitos señalados en las disposiciones generales del presente título.
+
+Si no se reúnen los requisitos previstos en el párrafo anterior, el juez concederá al promovente un término de tres días hábiles para completarlos. En caso de que no se cumpla esa prevención, se desechará de plano su solicitud.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1460.
+
+Cumplidas las exigencias, el juez señalará la fecha y hora para la celebración de la audiencia que se realizará en un término que no podrá exceder de cinco días hábiles, y citará a las partes que deban comparecer.
+
+En la misma audiencia se desahogarán todas las pruebas. Las pruebas que requieran diligencia especial se desahogarán en la misma y en el orden que el juez determine.
+
+Al concluir el desahogo de pruebas, el juez procederá a dictar sentencia. Si no es posible, el juez citará a las partes para dictarla en un plazo no mayor a tres días hábiles.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Art. 1461.
+
+Si a la solicitud se opusiere el deudor alimentario, el asunto se convierte en contencioso y se tramitará conforme a lo dispuesto en los capítulos I y II del presente título.
+
 DISPOSICIONES TRANSITORIAS
 
 ###### Artículo 1º.
@@ -7319,11 +8259,11 @@ Por tanto mando se imprima, publique y circule para su debido cumplimiento.
 
 Dado en el Palacio del Poder Ejecutivo del Estado, en Campeche, a los veintitrés días del mes de diciembre del año de mil novecientos cuarenta y dos.- El Gobernador Constitucional del Estado, Dr. Héctor Pérez Martínez.- El Secretario General de Gobierno Interino, Lic. Francisco Alvarez Barret.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 5 DE ENERO DE 1943.
 
-> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL ARTICULO UNICO DEL DECRETO.</small>
+> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO ÚNICO DEL DECRETO.</small>
 
 Artículo Unico.- El Código Civil del Estado a que se hace mención, comenzará a regir el día quince de los corrientes mes y año.
 
@@ -7440,3 +8380,13 @@ P.O. 11 DE NOVIEMBRE DE 2011.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido de este Decreto.
+
+P.O. 6 DE JULIO DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Estado.
+
+Los procedimientos relativos a las materias de alimentos iniciados antes de la entrada en vigor del presente decreto, se substanciarán y continuarán conforme a las disposiciones vigentes en el momento de su inicio.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido de este decreto.
+
+TERCERO.- El Pleno del H. Tribunal Superior de Justicia del Estado de Campeche realizará todas las acciones necesarias para la implementación de lo dispuesto en el presente decreto.
