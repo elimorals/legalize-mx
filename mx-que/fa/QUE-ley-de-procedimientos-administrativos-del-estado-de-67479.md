@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-procedimientos-administrativos-del-estado-de-67479"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-27"
-last_updated: "2009-02-27"
+last_updated: "2012-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67479&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE QUERETARO
 
-LEY DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE QUERETARO
+LEY DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 27 de febrero de 2009.
 
@@ -647,23 +647,59 @@ Capítulo Decimosegundo
 
 De las visitas de verificación o inspección
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2012)</small>
+
 ###### Artículo 87.
 
-Las autoridades administrativas, para comprobar el cumplimiento de las disposiciones legales y reglamentarias, podrán llevar a cabo visitas de verificación, mismas que podrán ser ordinarias y extraordinarias; las primeras se efectuarán en días y horas hábiles, las segundas en cualquier tiempo.
+Las autoridades administrativas, para comprobar el cumplimiento de las disposiciones legales y reglamentarias, podrán llevar a cabo visitas de verificación.
+
+Las autoridades administrativas podrán realizar visitas domiciliarias únicamente para cerciorarse de que se han cumplido los reglamentos sanitarios y de policía, y exigir la exhibición de los libros y papeles indispensables para comprobar que se han acatado las disposiciones fiscales, sujetándose en estos casos, a las leyes respectivas y a las formalidades previstas por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Artículo 87 Bis.
+
+Son objeto de la verificación o inspección los documentos, bienes muebles, lugares o establecimientos donde se desarrollen actividades o presten servicios, domicilios particulares o cualquier tipo de inmueble, siempre que dichas diligencias se realicen por las autoridades competentes y en estricto apego al artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Las personas usuarias de servicios públicos o quienes realicen actividades sujetas a regulación, deberán diseñar sus instalaciones, colocar los instrumentos de medición y los accesos a los mismos por parte de las autoridades, de tal forma que se faciliten estas acciones y no resulten incómodas o molestas a los administrados.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2012)</small>
 
 ###### Artículo 88.
 
-Los verificadores, para practicar visitas, deberán estar provistos de orden escrita con firma autógrafa expedida por la autoridad competente, en la que deberá precisarse la negociación o establecimiento que habrá de verificarse, el objeto de la visita, el nombre de la persona con la que habrá de entenderse, el alcance que deba tener y las disposiciones legales que la fundamenten.
+La verificación se realizará por la autoridad administrativa, con la participación, en su caso, de especialistas debidamente autorizados por esta, cuando las verificaciones tengan por objeto la constatación de hechos, situaciones o circunstancias científicas o técnicas que requieran de opiniones emitidas por peritos en materia específica.
+
+Las verificaciones podrán ser ordinarias y extraordinarias; las primeras se efectuarán en días y horas hábiles, las segundas en cualquier tiempo.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+
+###### Artículo 88 Bis.
+
+La autoridad administrativa, para practicar visitas, deberá estar provista de orden escrita con firma autógrafa expedida por la autoridad competente, en la que deberá precisarse lo siguiente:
+
+l. El objeto de la verificación, es decir, los documentos, bienes muebles, lugares o establecimientos donde se desarrollen actividades o presten servicios, domicilios particulares, o cualquier tipo de inmueble que habrá de verificarse;
+
+II. El objeto de la visita;
+
+III. El nombre de la persona con la que habrá de entenderse;
+
+IV. El alcance que deba tener; y
+
+V. Las disposiciones legales en que se fundamente.
 
 Bastará que en la orden de visita se mencione el nombre del propietario, responsable, encargado, dependiente u ocupantes, para que se tenga por cumplimentado el requisito del nombre de la persona con quien se habrá de entender la visita.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2012)</small>
+
 ###### Artículo 89.
 
-Los propietarios, responsables, encargados u ocupantes de las negociaciones o establecimientos a quienes vaya dirigida la orden de visita de verificación, están obligados a permitir el acceso y dar facilidades e informes a los verificadores en el desarrollo de su labor.
+Los propietarios, responsables, encargados u ocupantes de los bienes muebles, documentos, lugares o establecimientos donde se desarrollen actividades o presten servicios, domicilios particulares, o cualquier tipo de inmueble, a quienes vaya dirigida la orden de visita de verificación, están obligados a permitir el acceso y dar facilidades e informes a las autoridades en el desarrollo de su labor.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2012)</small>
 
 ###### Artículo 90.
 
-Al iniciar la visita, el verificador deberá identificarse exhibiendo credencial vigente con fotografía, expedida por la autoridad competente, que lo acredite para desempeñar dicha función, así como la orden de visita expresa, de la que se deberá dejar copia al propietario, responsable, encargado u ocupante del establecimiento.
+Al iniciar la visita, la autoridad deberá identificarse exhibiendo credencial vigente con fotografía, expedida por la autoridad competente, que lo acredite para desempeñar dicha función de verificación, así como la orden de visita expresa, de la que se deberá dejar copia al propietario, responsable, encargado u ocupante del bien mueble, documentos, lugares o establecimientos donde se desarrollen actividades o presten servicios, domicilios particulares, o cualquier tipo de inmueble.
 
 ###### Artículo 91.
 
@@ -679,11 +715,15 @@ I. El nombre, denominación o razón social de la negociación o establecimiento
 
 II. La hora, el día, el mes y el año en que inicie y concluya la diligencia;
 
-III. La calle, el número exterior e interior, la colonia, la población, el municipio o la delegación y el código postal en que se encuentre ubicado el lugar en que se practique la visita;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2012)</small>
+
+III. La calle, el número exterior e interior, la colonia, la población, el municipio o la delegación y el código postal en que se encuentre ubicado el bien mueble, documentos, lugares o establecimientos donde se desarrollen actividades o presten servicios, domicilios particulares, o cualquier tipo de inmueble en donde se practique la visita;
 
 IV. El número y la fecha de la orden de visita que la motive;
 
-V. El nombre y el cargo de la persona con quien se entendió la diligencia, así como la descripción precisa de los documentos con los que se identificó;
+> <small>(REFORMADA P.O. 6 DE JULIO DE 2012)</small>
+
+V. El nombre y, en su caso, el cargo de la persona con quien se entendió la diligencia, así como la descripción precisa de los documentos con los que se identificó;
 
 VI. El nombre y el domicilio de las personas que fungieron como testigos, así como la descripción detallada de los documentos con los que se identificaron;
 
@@ -697,9 +737,11 @@ IX. El nombre y la firma de quienes intervinieron en la diligencia, incluyendo l
 
 Las personas con quienes se haya entendido la visita de verificación o inspección, podrán formular observaciones en el acto de la diligencia y ofrecer pruebas en relación a los hechos contenidos en ella, o bien, por escrito, hacer uso de tal derecho dentro del plazo de los cinco días hábiles siguientes a la fecha en que se hubiere llevado a cabo la visita, ante la autoridad ordenadora.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2012)</small>
+
 ###### Artículo 94.
 
-La autoridad administrativa podrá, de conformidad con las disposiciones aplicables, verificar si los bienes y personas cumplen con los requisitos que exigen las disposiciones legales y reglamentarias aplicables, haciéndoselo saber en el momento de la diligencia a las personas con quienes se entienda, además de hacer constar tales hechos en el acta respectiva.
+La autoridad administrativa podrá, de conformidad con las disposiciones aplicables, verificar si los bienes muebles o inmuebles, y personas cumplen con los requisitos que exigen las disposiciones legales y reglamentarias aplicables, haciéndoselo saber en el momento de la diligencia a las personas con quienes se entienda, además de hacer constar tales hechos en el acta respectiva.
 
 ## Título Cuarto. De las infracciones y sanciones administrativas
 
@@ -972,3 +1014,11 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE JULIO DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga."
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la misma.
