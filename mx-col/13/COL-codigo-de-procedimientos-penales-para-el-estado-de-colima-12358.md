@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-penales-para-el-estado-de-colima-12358
 country: "mx"
 rank: "codigo"
 publication_date: "1997-08-02"
-last_updated: "2012-05-12"
+last_updated: "2012-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2012.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997.
 
@@ -2167,9 +2167,11 @@ El incumplimiento de las obligaciones que se consignan en éste capítulo hará 
 
 El Ministerio Público durante las diligencias de preparación de la acción procesal penal deberá dictar las medidas pertinentes para preservar, en tanto se inspeccionan o se aprecian por los peritos, las huellas del delito.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 260.
 
-Los instrumentos del delito, así como las cosas que sean objeto o producto de él, y aquellos en que existan huellas del mismo o pudiera tener relación con éste, serán asegurados por el Ministerio Público o el Juzgador en su caso, ya sea recogiéndolos o poniéndolos en depósito de alguna persona, con el fin de que no se alteren, destruyan o desaparezcan.
+Los instrumentos, objetos o productos del delito; los bienes del inculpado hasta por un valor equivalente a los primeros, cuando éstos se hayan perdido, consumido o extinguido, no sea posible localizarlos o constituyan garantías de créditos preferentes, así como los bienes en que existan o constituyan indicios o evidencias o pudieran tener relación con el delito; serán asegurados por el Ministerio Público o por el Juzgador en su caso, ya sea recogiéndolos o poniéndolos en depósito de alguna persona, a fin de que no se alteren, destruyan o desaparezcan. El agente del Ministerio Público, la policía y los peritos, durante la investigación y en cualquier etapa del proceso penal, deberán seguir las reglas relativas a la cadena de custodia. La administración de los bienes asegurados se realizará de conformidad con la ley de la materia.
 
 De todas las cosas aseguradas, se hará un inventario en el que se les describirá de tal manera que en cualquier tiempo puedan ser identificadas.
 
@@ -2333,13 +2335,83 @@ Cuando se trate de lesiones internas, el Ministerio Público practicará inspecc
 
 Cuando se trate de lesiones externas, el Ministerio Público deberá realizar la inspección de dichas lesiones y dos peritos médicos deberán describirlas y hacer su clasificación médico-legal, determinando sus probables consecuencias.
 
-### CAPITULO I. EJERCICIO DE LA ACCION PENAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+### CAPÍTULO VIII. DE LAS TECNICAS ESPECIALES DE INVESTIGACION
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2012)</small>
+
+ARTICULO 284 BIS 1. Para la investigación de los delitos de Terrorismo conforme a los párrafos primero y segundo del artículo 106 BIS; Uso Indebido de Información sobre Actividades de las Instituciones de Seguridad Pública, de Procuración e Impartición de Justicia, así como las del Sistema Penitenciario; Operaciones con Recursos de Procedencia Ilícita; Peculado; Corrupción y Explotación de Personas; Pornografía; Turismo Sexual; Lenocinio; Trata de Personas y Secuestro, previstos en el Código Penal para el Estado de Colima, el agente del Ministerio Público podrá emplear las técnicas especiales de investigación siguientes:
+
+I. Entregas vigiladas, consistentes en la identificación y, en su caso, la intercepción en tránsito de bienes o recursos que sean objeto, instrumento o producto del delito, a efecto de retirarlos o sustituirlos total o parcialmente, según sea el caso, para luego permitir, bajo vigilancia, su envío, distribución o transportación dentro del territorio del Estado o de éste hacia otro Estado o a la inversa, con el fin de investigar los delitos mencionados en el primer párrafo de este artículo, así como identificar y, en su caso, detener, con el empleo de los avances tecnológicos necesarios, a las personas u organizaciones involucradas en su comisión, y
+
+II. Operaciones encubiertas, en sus diferentes modalidades:
+
+a) La disposición de los recursos y medios necesarios, bajo el control del agente del Ministerio Público responsable de la investigación, con objeto de descubrir cualquier actividad vinculada directa o indirectamente con los delitos mencionados en el primer párrafo de este artículo, así como la identidad de los probables responsables de este tipo de delitos; y
+
+b) La infiltración de agentes, que serán policías en función de investigación de los delitos mencionados en el primer párrafo de este artículo.
+
+Para las entregas vigiladas y operaciones encubiertas, los agentes del Ministerio Público, previa autorización del Procurador General de Justicia del Estado o del servidor público en quien delegue esa función, podrán posponer el aseguramiento de bienes o recursos y la detención de probables responsables, con el propósito de identificar a los sujetos responsables de los delitos mencionados en el primer párrafo de este artículo, su forma de operación o ámbito de actuación, sistemas contables y de administración.
+
+Para el empleo de las técnicas especiales de investigación a que se refiere este artículo, se requiere de la autorización previa del Procurador General de Justicia del Estado o del servidor público en quien delegue esa función, y su aplicación se realizará bajo la orden y supervisión del agente del Ministerio Público responsable, en los términos de la autorización.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2012)</small>
+
+ARTICULO 284 BIS 2. El Procurador General de Justicia del Estado o el servidor público en quien delegue esa función, podrán requerir a las autoridades administrativas y entidades paraestatales de los tres órdenes de gobierno que presten la colaboración más eficaz para efectos de la ejecución de las entregas vigiladas u operaciones encubiertas, en el ámbito de sus respectivas competencias.
+
+El Gobierno del Estado por conducto del Ejecutivo, podrá suscribir con otras entidades federativas convenios generales de operaciones conjuntas para la ejecución de las técnicas especiales de investigación a que se refiere este capítulo.
+
+Asimismo, cuando sea indispensable para el éxito de la investigación, los particulares podrán colaborar en la ejecución de las técnicas especiales de investigación a que se refiere este capítulo, siempre que consientan en ello.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2012)</small>
+
+ARTICULO 284 BIS 3. El Procurador General de Justicia del Estado o el servidor público en quien delegue esa función, podrán autorizar a agentes de la policía en funciones de investigación de delitos, tomando en cuenta los fines de la investigación, que podrá actuar bajo identidad supuesta para infiltrarse en la organización delictiva, o adquirir y transportar los objetos, instrumentos o productos del delito, que en su momento, deberá retenerlos y ponerlos a disposición del agente del Ministerio Público.
+
+La identidad supuesta será otorgada por el tiempo indispensable para cumplir con el objetivo. Los agentes infiltrados deberán desenvolverse jurídica y socialmente bajo tal identidad.
+
+La autorización que obre en la averiguación previa deberá contemplar la identidad supuesta con la que actuará en el caso concreto el agente infiltrado, la verdadera identidad será reservada y deberá conservarse fuera de las actuaciones con la debida seguridad.
+
+El Procurador General de Justicia del Estado o el servidor público en quien delegue esa función, podrán requerir a las autoridades federales, de las entidades federativas y municipales competentes para que expidan documentos que amparen la identidad supuesta de los agentes infiltrados.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2012)</small>
+
+ARTICULO 284 BIS 4. Los agentes infiltrados, de conformidad con este código y demás disposiciones aplicables, proporcionarán al agente del Ministerio Público responsable de la investigación, la información, documentos, registros, grabaciones y todo aquello que sirva de medio de prueba o indicio sobre los delitos mencionados en el primer párrafo del artículo 284 BIS 1.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2012)</small>
+
+ARTICULO 284 BIS 5. A los agentes infiltrados, servidores públicos y demás personas que intervengan en la preparación y ejecución de las técnicas especiales de investigación a que se refiere este Capítulo, se les considerará que actúan en cumplimiento de un deber y, por tanto, no se procederá penalmente en su contra, siempre que cumplan los requisitos siguientes:
+
+a) Que se haya tratado de una técnica especial autorizada legalmente;
+
+b) Que durante su realización, haya rendido puntualmente sus informes;
+
+c) Que se haya sujetado a los lineamientos de la autorización;
+
+d) Que la conducta realizada por el agente infiltrado haya sido ineludible y con el exclusivo propósito de preservar su integridad, su cobertura o la propia investigación;
+
+e) Que se haya (sic) entregado oportunamente todos los recursos, bienes e información obtenidos en la realización de éstas; y
+
+f) Que se hayan tomado las medidas necesarias, conforme a sus posibilidades, para evitar al máximo la producción de daños.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2012)</small>
+
+ARTICULO 284 BIS 6. Las actividades que lleven a cabo los agentes, se sujetarán a lo dispuesto por este código y demás disposiciones aplicables, así como a los términos, limitaciones, modalidades y condiciones que, en cada caso concreto correspondan, atendiendo a la naturaleza de la investigación de que se trate y los términos de la autorización respectiva.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2012)</small>
+
+ARTICULO 284 BIS 7. Las autorizaciones que emita el Procurador General de Justicia del Estado o el servidor público en quien delegue esa función serán confidenciales; su aplicación y ejecución se realizará por conducto de los agentes del Ministerio Público y demás servidores públicos que en los mismos se determine, quienes en todo caso deberán guardar estricta reserva de su contenido.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2012)</small>
+
+ARTICULO 284 BIS 8. Las entregas vigiladas y operaciones encubiertas se deberán realizar bajo la más estricta confidencialidad.
+
+Durante el procedimiento penal, todos los documentos e información relacionados con las entregas vigiladas y operaciones encubiertas, así como los objetos, registros de voz e imágenes, cuentas u objetos que le estén relacionados con éstas son estrictamente reservados.
 
 ## TITULO SEGUNDO. DETERMINACIONES CON LAS QUE CONCLUYE EL PERIODO DE PREPARACION DE LA ACCION PROCESAL PENAL
 
-### CAPITULO II. NO EJERCICIO DE LA ACCION PENAL
+### CAPITULO I. EJERCICIO DE LA ACCION PENAL
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 285.
 
@@ -2363,7 +2435,7 @@ Si durante las diligencias de preparación de la acción procesal penal, se est�
 
 ARTICULO 288 BIS. Cuando se trate de delitos contra la salud, en su modalidad de narcomenudeo, independientemente del supuesto en que el inculpado adquiera o posea estupefacientes o psicotrópicos necesarios para su consumo personal, si también se advierte que incurrió en la comisión de cualquier delito contra la salud, se le consignará, sin perjuicio de que intervenga la Secretaría de Salud y Bienestar Social del Gobierno del Estado, para efectos de su tratamiento o programa preventivo.
 
-### CAPITULO I. AUTO DE RADICACION
+### CAPITULO II. NO EJERCICIO DE LA ACCION PENAL
 
 ###### ARTICULO 289.
 
@@ -2403,7 +2475,7 @@ Si la resolución de archivo es confirmada por el Procurador y persiste inconfor
 
 ## TITULO UNICO. PREPARACION DEL PROCESO
 
-### CAPITULO II. DECLARACION PREPARATORIA
+### CAPITULO I. AUTO DE RADICACION
 
 ###### ARTICULO 293.
 
@@ -2437,7 +2509,7 @@ Cuando se decrete la libertad exclusivamente por la causa que se menciona en las
 
 Al emitir el Juez su resolución, tomará en cuenta los hechos que fueron motivo de la consignación y sin sujetarse necesariamente al pedimento del Ministerio Público, determinará, conforme a su juicio, el tipo penal que resulte acreditado.
 
-### CAPITULO III. AUTOS DE PROCESAMIENTO
+### CAPITULO II. DECLARACION PREPARATORIA
 
 ###### ARTICULO 296.
 
@@ -2465,7 +2537,7 @@ El Juzgador, el defensor y el Agente del Ministerio Público, deberán estar pre
 
 Si fueran varios los inculpados por los mismos hechos, se les recibirá su declaración por separado, en una sola audiencia, tomándose las providencias a que se refiere el artículo 213 de éste Código.
 
-### CAPITULO IV. AUTOS DE LIBERTAD CON LAS RESERVAS DE LEY
+### CAPITULO III. AUTOS DE PROCESAMIENTO
 
 ###### ARTICULO 302.
 
@@ -2515,7 +2587,7 @@ Dictado el auto de formal prisión o el de sujeción a proceso, se identificará
 
 El auto de formal prisión no revoca la libertad provisional concedida, excepto cuando así lo determine el juez en el propio auto si procede.
 
-### CAPITULO UNICO. INSTRUCCION
+### CAPITULO IV. AUTOS DE LIBERTAD CON LAS RESERVAS DE LEY
 
 ###### ARTICULO 309.
 
@@ -2545,7 +2617,7 @@ Transcurrido este plazo, con o sin pedimento del Ministerio Público, el juez re
 
 ## TITULO PRIMERO. INSTRUCCION
 
-### CAPITULO I. CONCLUSIONES MINISTERIALES Y DEL OFENDIDO
+### CAPITULO UNICO. INSTRUCCION
 
 ###### ARTICULO 313.
 
@@ -2579,7 +2651,7 @@ Transcurrido el plazo señalado para el desahogo de los medios de prueba solicit
 
 ## TITULO SEGUNDO. PERIODO DE PREPARACION DEL JUICIO
 
-### CAPITULO II. CONCLUSIONES DEL DEFENSOR
+### CAPITULO I. CONCLUSIONES MINISTERIALES Y DEL OFENDIDO
 
 ###### ARTICULO 318.
 
@@ -2629,7 +2701,7 @@ Si el pedimento del Procurador General de Justicia, es de no acusación, el juez
 
 Si el Procurador General de Justicia modifica las conclusiones no acusatorias y formula de acusación, se procederá como lo dispone el artículo siguiente.
 
-### CAPITULO I. AUDIENCIA DE VISTA
+### CAPITULO II. CONCLUSIONES DEL DEFENSOR
 
 ###### ARTICULO 326.
 
@@ -2643,7 +2715,7 @@ Si, al concluir el plazo concedido al acusado y a su defensor, estos no han pres
 
 ## TITULO TERCERO. JUICIO
 
-### CAPITULO II. SENTENCIA
+### CAPITULO I. AUDIENCIA DE VISTA
 
 ###### ARTICULO 328.
 
@@ -2655,7 +2727,7 @@ En la audiencia, el Juez, el Ministerio Público y la defensa podrán interrogar
 
 Contra el auto que niegue o admita la repetición de los medios de prueba no procede recurso alguno.
 
-### CAPITULO III. ACLARACION DE SENTENCIA
+### CAPITULO II. SENTENCIA
 
 ###### ARTICULO 330.
 
@@ -2665,7 +2737,7 @@ En la sentencia, el juzgador, además de los elementos del tipo, examinará si e
 
 La antijuridicidad, se afirmará con la inexistencia de causa legal que justifique la conducta típica del imputado. La culpabilidad, con la inexistencia de causas que excluyan su imputabilidad, la falta de comprobación de que haya obrado bajo error de prohibición invencible y la inexistencia de causa de inexigibilidad de otra conducta diversa a la que realizó. La responsabilidad penal, con la determinación previa sobre la existencia del delito de que se trate y la identificación del imputado como la persona que lo cometió.
 
-### CAPITULO IV. SENTENCIA EJECUTORIADA
+### CAPITULO III. ACLARACION DE SENTENCIA
 
 ###### ARTICULO 331.
 
@@ -2693,7 +2765,7 @@ La resolución en que se aclare una sentencia se reputará parte integrante de e
 
 El procedimiento de aclaración de la sentencia interrumpe el plazo señalado para la apelación de ésta.
 
-### CAPITULO I. SUSPENSION DEL PROCEDIMIENTO
+### CAPITULO IV. SENTENCIA EJECUTORIADA
 
 ###### ARTICULO 336.
 
@@ -2713,7 +2785,7 @@ Causan ejecutoria por ministerio de ley las sentencias dictadas en segunda insta
 
 ## TITULO CUARTO. SUSPENSION Y EXTINCION DEL PROCEDIMIENTO
 
-### CAPITULO II. SOBRESEIMIENTO
+### CAPITULO I. SUSPENSION DEL PROCEDIMIENTO
 
 ###### ARTICULO 338.
 
@@ -2743,7 +2815,7 @@ Cuando desaparezca la causa de la suspensión, el procedimiento judicial continu
 
 El Juzgador resolverá de plano sobre la suspensión del procedimiento judicial, de oficio o a petición de parte.
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO II. SOBRESEIMIENTO
 
 ###### ARTICULO 342.
 
@@ -2779,7 +2851,7 @@ El sobreseimiento se decretará solo en relación con el imputado o delito en el
 
 ## TITULO QUINTO. IMPUGNACION
 
-### CAPITULO II. RECONSIDERACION
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### ARTICULO 347.
 
@@ -2837,9 +2909,7 @@ Si la impugnación es interpuesta por el Ministerio Público, el Juzgador se lim
 
 Cuando la impugnación sea interpuesta solamente por el imputado o su defensor, la resolución recurrida no deberá ser modificada en su perjuicio, salvo lo dispuesto en el artículo 367.
 
-### CAPITULO III. APELACION
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2008)</small>
+### CAPITULO II. RECONSIDERACION
 
 ###### ARTICULO 356.
 
@@ -2853,7 +2923,9 @@ La reconsideración deberá interponerse en el acto de la notificación del prov
 
 Admitido el recurso, el juzgador resolverá de plano lo que proceda, si no estima necesaria substanciación alguna. En caso contrario, citará a una audiencia, que deberá celebrarse dentro de los tres días siguientes y en la que se desahogarán los medios de prueba que se ofrezcan, recibiéndose los alegatos de las partes y dictándose de inmediato la resolución procedente, contra la que no se da recurso alguno.
 
-### CAPITULO IV. DENEGADA APELACION
+### CAPITULO III. APELACION
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 358.
 
@@ -3001,7 +3073,7 @@ VIII.- En los demás casos análogos a los de las fracciones anteriores a juicio
 
 Cuando el condenado cumpla la pena de prisión impuesta en primera instancia, encontrándose en trámite el recurso de apelación, será puesto en inmediata libertad, sin perjuicio de que, en caso de resultar procedente, se dicte orden de reaprehensión en su contra.
 
-### CAPITULO V. QUEJA
+### CAPITULO IV. DENEGADA APELACION
 
 ###### ARTICULO 375.
 
@@ -3017,7 +3089,7 @@ El Juez de primera instancia deberá enviar al Tribunal, en un plazo de tres dí
 
 Si el Tribunal declara admisible la apelación, ordenará al Juez que le envíe el expediente original o duplicado del mismo, según proceda, a fin de tramitar el recurso.
 
-### CAPITULO VI. REVISION EXTRAORDINARIA
+### CAPITULO V. QUEJA
 
 ###### ARTICULO 378.
 
@@ -3035,7 +3107,7 @@ Transcurrido este plazo con informe o sin él, se dictará la resolución que pr
 
 La interposición del recurso no es obstáculo para que se subsane la omisión, sin que esto impida que el Tribunal, en su caso, proceda en los términos del segundo párrafo del artículo 349 de este ordenamiento.
 
-### CAPITULO UNICO. INIMPUTABLES E IMPUTABLES DISMINUIDOS
+### CAPITULO VI. REVISION EXTRAORDINARIA
 
 ###### ARTICULO 381.
 
@@ -3077,7 +3149,7 @@ Si se declara fundada la solicitud de reconocimiento de inocencia del sentenciad
 
 ## TITULO PRIMERO. INIMPUTABLES E IMPUTABLES DISMINUIDOS
 
-### CAPITULO I. COMPETENCIAS
+### CAPITULO UNICO. INIMPUTABLES E IMPUTABLES DISMINUIDOS
 
 ###### ARTICULO 387.
 
@@ -3131,7 +3203,7 @@ En cualquier momento en que se determine por el Juzgador, con base en los dictá
 
 ## TITULO SEGUNDO. INCIDENTES
 
-### CAPITULO II. IMPEDIMENTOS, EXCUSAS Y RECUSACIONES
+### CAPITULO I. COMPETENCIAS
 
 ###### ARTICULO 394.
 
@@ -3173,7 +3245,7 @@ Lo actuado por un Juzgador incompetente será válido. El Juzgador declarado com
 
 Tratándose de actuaciones de Juez incompetente que no corresponda a la jurisdicción estatal, se aplicará la misma regla anterior, si dichas actuaciones se ajustan a las prevenciones de este Código; en caso contrario el Juez competente, de oficio, o a pedimento de las partes, determinará lo procedente.
 
-### CAPITULO III. ACUMULACION DE EXPEDIENTES
+### CAPITULO II. IMPEDIMENTOS, EXCUSAS Y RECUSACIONES
 
 ###### ARTICULO 400.
 
@@ -3239,7 +3311,7 @@ Los defensores de oficio podrán excusarse de una defensa, cuando el imputado cu
 
 Las substituciones de los defensores de oficio y agentes del Ministerio Público serán autorizadas por sus superiores jerárquicos, de acuerdo con las disposiciones orgánicas correspondientes.
 
-### CAPITULO IV. SEPARACION DE PROCESOS
+### CAPITULO III. ACUMULACION DE EXPEDIENTES
 
 ###### ARTICULO 411.
 
@@ -3281,9 +3353,7 @@ La acumulación deberá promoverse ante el juzgador que, conforme al artículo 1
 
 Las disposiciones de este Capítulo serán aplicables desde la etapa de preparación del proceso, siempre y cuando no haya detenido.
 
-### CAPITULO V. REPARACION DEL DAÑO EXIGIBLE A TERCEROS
-
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
+### CAPITULO IV. SEPARACION DE PROCESOS
 
 ###### ARTICULO 418.
 
@@ -3299,7 +3369,9 @@ El incidente sobre separación de procesos se substanciará por separado, sin su
 
 El juzgador que ordene la separación de procesos, conservará su competencia sobre los procesos separados, agregando en lo sucesivo al expediente principal, copias de las actuaciones que en el otro se lleven a cabo.
 
-### CAPITULO VI. LIBERTAD POR DESVANECIMIENTO DE DATOS
+### CAPITULO V. REPARACION DEL DAÑO EXIGIBLE A TERCEROS
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 421.
 
@@ -3375,7 +3447,7 @@ El fallo en este incidente será apelable en los efectos devolutivo y suspensivo
 
 En todo lo no previsto en este capítulo y no existiendo oposición, se aplicará la legislación Civil del Estado.
 
-### CAPITULO VII. INCIDENTES NO ESPECIFICADOS
+### CAPITULO VI. LIBERTAD POR DESVANECIMIENTO DE DATOS
 
 ###### ARTICULO 435.
 
@@ -3409,7 +3481,7 @@ La resolución que conceda la libertad por desvanecimiento de datos tendrá los 
 
 Surtiéndose alguno de los supuestos que se mencionan en el artículo 310, se decretará el sobreseimiento de la causa.
 
-### CAPITULO UNICO. EJECUCION DE SENTENCIAS
+### CAPITULO VII. INCIDENTES NO ESPECIFICADOS
 
 ###### ARTICULO 441.
 
@@ -3420,6 +3492,8 @@ Se dará vista de la promoción del incidente a las partes, para que contesten e
 # LIBRO SEXTO. EJECUCION DE SENTENCIAS
 
 ## TITULO UNICO. EJECUCION DE SENTENCIAS
+
+### CAPITULO UNICO. EJECUCION DE SENTENCIAS
 
 ###### ARTICULO 442.
 
@@ -3580,3 +3654,11 @@ P.O. 18 DE FEBRERO DE 2012.
 P.O. 12 DE MAYO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 7 DE JULIO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El titular del Ejecutivo del Estado deberá expedir las adecuaciones necesarias al Reglamento Interior de la Secretaría de Finanzas y Administración.
+
+TERCERO.- La Secretaría de Finanzas y Administración del Gobierno del Estado, asignará los recursos humanos, financieros y materiales para cubrir los requerimientos de operación de la unidad administrativa que ejercerá las atribuciones derivadas de lo dispuesto en la fracción XXI, apartado A), del artículo 21, de la Ley Orgánica de la Administración Pública del Estado de Colima, facultando a dicha dependencia para que realice las transferencias o ampliaciones presupuestarias que se requieran.
