@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-del-fondo-de-fomento-industrial-del-81886"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-18"
-last_updated: "2011-06-18"
+last_updated: "2012-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DEL FONDO DE FOMENTO INDUSTRIAL DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2012.
 
 Reglamento publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 18 de junio de 2011.
 
@@ -72,31 +72,35 @@ III.2. Coordinación de Crédito.
 
 ### CAPITULO II. DE LA INTEGRACIÓN Y FUNCIONAMIENTO DEL COMITÉ
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2012)</small>
+
 Artículo 5°
 
-El COMITÉ está integrado por:
+El Comité está integrado por:
 
-1.- El Gobernador del Estado como Presidente;
+1. El Gobernador del Estado Como Presidente;
 
-2.- El Secretario de Desarrollo Económico;
+2. El Secretario de Desarrollo Económico;
 
-3.- El Secretario de la Secretaría de Hacienda, como Vocal;
+3. El Secretario de la Secretaría de Hacienda, como Vocal;
 
-4.- El Director General de FONAY;
+4. Secretaria de Contraloría General del Estado de Nayarit;
 
-5.- El Contralor Interno del FONAY;
+5. El Director General de FONAY;
 
-6.- Un Representante de la Fiduciaria;
+6. El Contralor Interno del FONAY;
 
-7.- Un Representante del FONAES;
+7. Un Representante del Fiduciaria;
 
-8.- Un Representante de CANACINTRA;
+8. Un Representante del FONAES;
 
-9.- Un Representante de CANACO;
+9. Un Representante de CANACINTRA;
 
-10.- Un Representante de la Secretaría de Economía del gobierno federal,
+10. Un Representante de CANACO;
 
-11.- Un Representante de la Cámara Mexicana de la Industria de la Construcción.
+11. Un Representante de la Secretaría de Economía del gobierno federal,
+
+12. Un Representante de la cámara Mexicana de la Industria de la Construcción
 
 Artículo 6°
 
@@ -477,3 +481,9 @@ El presente reglamento entrara en vigor al día siguiente de su publicación en 
 Las relaciones laborales entre el FONAY y sus trabajadores se regirán por el apartado "A" del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ING. ALONSO VILLASEÑOR ANGUIANO, SECRETARIO DE DESARROLLO ECONÓMICO.- REPRESENTANTE: LIC. ARTURO JAVIER MÁRQUEZ HERNÁNDEZ.- RÚBRICA.- LIC. ROCIO DEL CARMEN LOZANO CÁRDENAS, REPRESENTANTE DE LA SECRETARIA DE HACIENDA.- RÚBRICA.- LIC. ANGELICA MARIA GONZÁLEZ CHÁVEZ, REPRESENTANTE DE LA SECRETARIA DE LA CONTRALORÍA GENERAL.- RÚBRICA.- ING. MARTIN MAISTERRA VACA, DIRECTOR DE LA OFICINA ESTATAL DE NACIONAL FINANCIERA.- RÚBRICA.- ING. OSCAR FIDEL CASTRO PIMIENTA, REPRESNENTANTE (SIC) FEDERAL DE FONAES.- SUPLENTE: ING. JOSE LUIS PARRA VÁZQUEZ.- RÚBRICA.- LIC. ROBERTO MILTON RUBIO PULIDO, PRESIDENTE DE CANACINTRA.- C.P. PEDRO SALVADOR GOMEZ VILLASEÑOR, DELEGADO FEDERAL DE LA SECRETARIA DE ECONOMÍA SUPLENTE: LIC. MARTHA ELENA RODRÍGUEZ ORTEGA, RÚBRICA.- LIC. JOSE ALFONSO PÉREZ OCHOA, PRESIDENTE DE COPARMEX.- C.P. JOSE DE JESÚS PÉREZ LÓPEZ, PRESIDENTE DE LA CAMARA NACIONAL DE COMERCIO.- SUPLENTE: LIC. PATRICIA RAMOS DE DIOS.- RÚBRICA.- LIC. J. OSCAR RIOS CORONADO, PRESIDENTE DE LA CAMARA MEXICANA DE LA INDUSTRIA DE LA CONSTRUCCIÓN.- SUPLENTE: LIC. JESÚS EDGARDO SIERRA ACOSTA.- RÚBRICA.- LIC. ALONSO GONÁLEZ (SIC) LÓPEZ, DIRECTOR GENERAL DE FONAY.- RÚBRICA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE JULIO DE 2012.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3°. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NAYARIT.
