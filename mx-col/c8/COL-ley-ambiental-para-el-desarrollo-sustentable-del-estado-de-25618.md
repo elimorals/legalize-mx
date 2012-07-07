@@ -4,7 +4,7 @@ identifier: "COL-ley-ambiental-para-el-desarrollo-sustentable-del-estado-de-2561
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-15"
-last_updated: "2012-05-05"
+last_updated: "2012-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2012.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 15 de junio de 2002.
 
@@ -283,9 +283,21 @@ LXXXVII. Servicios ambientales: Los beneficios de interés social que se derivan
 
 LXXXVIII. Tratamiento: Los procedimientos mecánicos, físicos, químicos, biológicos o térmicos, mediante los cuales se cambian las características de los residuos sólidos y se reduce su volumen o peligrosidad, para su posterior aprovechamiento total o parcial;
 
-LXXXIX. Unidad de salario: La equivalente de un día de salario mínimo general vigente en la entidad al momento de la imposición de la sanción; y
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2012)</small>
 
-XC. Vocación natural: Las condiciones que presenta un ecosistema para sostener una o varias actividades sin que produzcan desequilibrios ecológicos.
+LXXXIX. Unidad de salario: La equivalente de un día de salario mínimo general vigente en la entidad al momento de la imposición de la sanción;
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2012)</small>
+
+XC. Vocación natural: Las condiciones que presenta un ecosistema para sostener una o varias actividades sin que produzcan desequilibrios ecológicos;
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2012)</small>
+
+XCI. Cédula de Operación Anual: Es un mecanismo de reporte anual mediante el cual los responsables de las fuentes fijas de competencia estatal dan a conocer a la autoridad ambiental las actualizaciones sobre su operación y deriva de las obligaciones fijadas en la licencia local de funcionamiento; y
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2012)</small>
+
+XCII. Licencia Local de Funcionamiento: Es un trámite de regulación obligatoria, mediante el cual las fuentes fijas de competencia estatal que emiten o puedan emitir radiaciones electromagnéticas, olores, humos, ruido, vibraciones, gases o partículas sólidas o líquidas a la atmósfera dan cumplimiento a las obligaciones ambientales establecidas en la Ley.
 
 ###### ARTÍCULO 4º.
 
@@ -297,9 +309,11 @@ Las autoridades ambientales permitirán que cualquier persona pueda hacer exigib
 
 Las autoridades ambientales coadyuvarán con la Federación para garantizar la tutela que ésta ejerce sobre la preservación de la naturaleza, la biodiversidad y la integridad del ambiente para satisfacer las necesidades presentes sin comprometer las de generaciones futuras.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2012)</small>
+
 ###### ARTÍCULO 6º.
 
-El Ministerio Público deberá contar con una unidad administrativa en materia ambiental para que, en el ámbito de los delitos en los que se hubiera incurrido, se resuelvan las denuncias que al efecto se presenten.
+El Ministerio Público deberá contar con una unidad administrativa en materia ambiental para que, en el ámbito de los delitos en los que se hubiera incurrido, se resuelvan las denuncias que al efecto se presenten, de manera pronta y expedita, atendiendo el interés público que reviste el cuidado y preservación del medio ambiente.
 
 ###### ARTÍCULO 7º.
 
@@ -311,9 +325,11 @@ Toda persona, individual o colectivamente, podrá denunciar ante las autoridades
 
 Si la denuncia presentada resultare del orden federal, ésta deberá ser remitida para su atención y trámite a la autoridad federal correspondiente o cuando se trate de la comisión de algún delito, deberá remitirse ante el Ministerio Público, en un plazo que no exceda de 5 días hábiles contados a partir de la fecha de su recepción.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2012)</small>
+
 ###### ARTÍCULO 9º.
 
-Sin perjuicio de lo anterior, los interesados podrán presentar su denuncia directamente ante el Ministerio Público si consideran que el hecho, acto u omisión de que se trate pueden ser constitutivos de algún delito, en cuyo caso deberá sujetarse a lo dispuesto por el Código de Procedimientos Penales del Estado.
+Sin perjuicio de lo anterior, los interesados podrán presentar su denuncia directamente ante el Ministerio Público si consideran que el hecho, acto u omisión de que se trate pueden ser constitutivos de algún delito, en cuyo caso deberá sujetarse a lo dispuesto por el Código de Procedimientos Penales del Estado o, en su caso, a la legislación federal aplicable.
 
 ###### ARTÍCULO 10.
 
@@ -331,9 +347,11 @@ V. Los puntos petitorios; y
 
 VI. Las pruebas que, en su caso, ofrezca el denunciante.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2012)</small>
+
 ###### ARTÍCULO 11.
 
-Asimismo, podrá formularse la denuncia vía telefónica, en cuyo caso la persona que la reciba la turnará al área a que corresponda para iniciar el procedimiento y el denunciante deberá ratificarla por escrito, cumpliendo con los requisitos establecidos en el presente artículo, en un término de 3 días hábiles siguientes a la formulación de la misma, sin perjuicio de que la autoridad ambiental competente investigue de oficio los hechos denunciados.
+Asimismo, podrá formularse la denuncia vía telefónica, en cuyo caso la persona que la reciba la turnará al área a que corresponda para iniciar el procedimiento y el denunciante deberá ratificarla por escrito, cumpliendo con los requisitos establecidos en el artículo 10º, en un término de 3 días hábiles siguientes a la formulación de la misma, sin perjuicio de que la autoridad ambiental competente investigue de oficio los hechos denunciados
 
 ###### ARTÍCULO 12.
 
@@ -733,9 +751,15 @@ III. Establecer los criterios de regulación ecológica para la protección, pre
 
 La formulación, ejecución, vigilancia y evaluación de los programas de ordenamiento ecológico y territorial del Estado se llevará a cabo de conformidad con lo dispuesto en esta Ley y demás disposiciones legales aplicables. La Secretaría deberá promover la participación de grupos y organizaciones sociales y empresariales, instituciones académicas y de investigación y demás personas interesadas en su elaboración.
 
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2012)</small>
+
+Dicha participación se realizará a través de comités conformados por representantes de cada uno de los sectores productivos del área de aplicación del ordenamiento ecológico y territorial, así como la academia y otras organizaciones de la sociedad civil organizada. Los citados comités estarán conformados por un órgano ejecutivo y un órgano técnico, el primero responsable de la toma de decisiones para la instrumentación de las acciones, procedimientos, estrategias y programas del proceso de ordenamiento ecológico, el cual estará integrado por las autoridades de los tres órdenes de gobierno y miembros de la sociedad civil, y el segundo órgano, encargado de la realización de los estudios y análisis técnicos necesarios para el mismo fin. Estos comités se regirán por lo establecido en la presente ley y por su reglamento interior, en el cual se establecerán los mecanismos y procedimientos para su funcionamiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2012)</small>
+
 ###### ARTÍCULO 38.
 
-En la formulación, expedición e inscripción de los programas de ordenamiento ecológico y territorial del Estado, así como sus modificaciones, la Secretaría o la autoridad ambiental municipal, en su caso, se sujetarán al siguiente procedimiento:
+En la formulación, expedición e inscripción de los nuevos programas de ordenamiento ecológico y territorial del Estado, así como de las modificaciones de las políticas ambientales o unidades de gestión ambiental, la Secretaria o la autoridad ambiental municipal, en su caso, se sujetarán al siguiente procedimiento:
 
 I. Publicarán el aviso de inicio del proceso de elaboración del proyecto de programa o de sus modificaciones en el Periódico Oficial y en uno de mayor circulación en el Estado, por una sola vez;
 
@@ -754,6 +778,12 @@ d) El dictamen a que se refiere el inciso anterior estará disponible para consu
 IV. Una vez que termine el plazo de consulta pública, la autoridad ambiental competente incorporará las observaciones dictaminadas procedentes al proyecto; y
 
 V. Una vez concluida la etapa anterior, remitirán el proyecto al Gobernador o al Cabildo, según corresponda, para los efectos de su aprobación, promulgación y publicación.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2012)</small>
+
+###### ARTÍCULO 38.
+
+BIS.- Para el caso de la modificación, incremento o reducción de los criterios de regulación ecológica del Programa de Ordenamiento Ecológico que se trate, bastará que el comité técnico respectivo apruebe por mayoría dichos cambios, mismos que deberán estar fundados y motivados. El comité enviará al titular del ejecutivo estatal la propuesta de modificación para su publicación en el Periódico Oficial y, una vez publicado promoverá su difusión en un plazo no mayor a 30 días hábiles.
 
 ###### ARTÍCULO 39.
 
@@ -895,9 +925,11 @@ Si después de la presentación de un manifiesto de impacto ambiental, pero ante
 
 Transcurrido dicho plazo sin que exista comunicación de la autoridad ambiental competente, se entenderá que no es necesaria la presentación de información adicional.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2012)</small>
+
 ###### ARTÍCULO 50.
 
-Cuando se trate de obras o actividades existentes o que contraviniendo lo establecido en el presente ordenamiento, hayan sido iniciadas sin haberse sometido a la evaluación de impacto ambiental y que estén emitiendo contaminantes a la atmósfera, agua o suelo por arriba de los parámetros establecidos por la normatividad aplicable, o estén alterando el equilibrio ecológico de los ecosistemas, se deberá presentar un manifiesto de diagnóstico ambiental, conteniendo por lo menos la información señalada en el artículo anterior.
+Cuando se trate de obras o actividades existentes o que contraviniendo lo establecido en el presente ordenamiento, hayan sido iniciadas sin haberse sometido a la evaluación del impacto ambiental y que estén emitiendo contaminantes a la atmósfera, agua, suelo por arriba de los parámetros establecidos por la normatividad aplicable, o estén alterando el equilibrio ecológico de los ecosistemas, se deberá presentar como parte del procedimiento administrativo derivado de los actos de inspección y vigilancia un manifiesto de diagnóstico ambiental, conteniendo por lo menos la información señalada en el artículo anterior, además de las sanciones a que se pudiera hacer acreedor por infracciones a la Ley.
 
 ###### ARTÍCULO 51.
 
@@ -1043,9 +1075,11 @@ Lo dispuesto en el presente capítulo se aplicará sin perjuicio de las normas o
 
 ### CAPÍTULO VII. LICENCIA AMBIENTAL ÚNICA
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2012)</small>
+
 ###### ARTÍCULO 65.
 
-La Secretaría establecerá los mecanismos y procedimientos necesarios, en los términos del Reglamento, con el propósito de que los interesados obtengan en un solo trámite los diversos permisos, autorizaciones y licencias de competencia del Estado que establece esta Ley, para la operación y funcionamiento de establecimientos industriales. Lo mismo harán los ayuntamientos en los casos que se trate de establecimientos comerciales o de servicios.
+La Secretaría establecerá los mecanismos y procedimientos necesarios, en los términos del Reglamento, con el propósito de que los interesados obtengan en un solo trámite los diversos permisos, autorizaciones y licencias de competencia del Estado que establece esta Ley, para la operación y funcionamiento de establecimientos industriales y de servicios de competencia estatal. Lo mismo harán los ayuntamientos en los casos que se trate de establecimientos comerciales o de servicios.
 
 ### CAPÍTULO VIII. AUTORREGULACIÓN Y AUDITORÍAS AMBIENTALES
 
@@ -1185,11 +1219,31 @@ III. Adquieran, instalen u operen sistemas o equipos que reduzcan o eviten las e
 
 IV. Fabriquen, instalen o proporcionen mantenimiento a equipo de tratamiento de emisiones contaminantes a la atmósfera;
 
-V. Generen tecnologías cuya aplicación disminuya las emisiones contaminantes a la atmósfera; y
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2012)</small>
 
-VI. Ubiquen o relocalicen sus instalaciones a fin de evitar emisiones contaminantes en zonas urbanas.
+V. Generen tecnologías cuya aplicación disminuya las emisiones contaminantes a la atmósfera;
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2012)</small>
+
+VI. Ubiquen o relocalicen sus instalaciones a fin de evitar emisiones contaminantes en zonas urbanas; y
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2012)</small>
+
+VII. Financien al Instituto de Ecología en la generación de conocimiento e información a través de investigación científica aplicada y el fortalecimiento de capacidades, para apoyar la formulación de política ambiental y la toma de decisiones que promueva el desarrollo sustentable.
 
 Los lineamientos y procedimientos para el otorgamiento de incentivos y estímulos fiscales se establecerán (sic) el Reglamento de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2012)</small>
+
+ARTÍCULO 73 BIS 1.- Se consideran incentivos económicos los mecanismos normativos y administrativos de carácter fiscal, financiero o de mercado, mediante los cuales las personas asumen los beneficios y costos ambientales que generen sus actividades económicas, conduciéndolas a realizar acciones que favorezcan el ambiente.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2012)</small>
+
+ARTÍCULO 73 BIS 2.- Se consideran instrumentos económicos de carácter fiscal, los estímulos relacionados con el cumplimiento de obligaciones fiscales que incentiven el cumplimiento de los objetivos de la política ambiental.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2012)</small>
+
+ARTÍCULO 73 BIS 3.- Son instrumentos financieros los créditos, las fianzas, los seguros de responsabilidad civil, los fondos y los fideicomisos, cuando sus objetivos estén dirigidos a la conservación de los recursos naturales y el ambiente, así como al financiamiento de programas, proyectos, estudios e investigación científica y tecnológica para la preservación del equilibrio ecológico y protección al ambiente.
 
 ### CAPÍTULO XII. PARTICIPACIÓN SOCIAL
 
@@ -1681,7 +1735,9 @@ VIII. Autorizar el aprovechamiento de flora y fauna silvestre extractivos y no e
 
 IX. Señalar los términos, lineamientos de conservación, protección, preservación y aprovechamiento del hábitat de la flora y fauna urbana;
 
-X. Otorgar cuando se justifique, los permisos y autorizaciones para el derribo o poda de la flora que se encuentre en los terrenos agrícolas, localizados dentro de los límites de la población;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2012)</small>
+
+X. Otorgar cuando se justifique, los permisos y autorizaciones para el derribo, poda y trasplante de la flora que se encuentre en los terrenos agrícolas o predios no considerados como forestales.
 
 XI. Programar las acciones de control y combate de plagas y enfermedades de la flora y fauna urbanas;
 
@@ -1927,13 +1983,19 @@ VI. Dar aviso anticipado a la Secretaría del inicio de operación de sus proces
 
 VII. Dar aviso inmediato a la Secretaría, en el caso de falla del equipo de control, para que ésta determine lo conducente.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2012)</small>
+
 ###### ARTÍCULO 139.
 
-Para obtener la licencia local de funcionamiento a que se refiere el artículo anterior, los responsables de las fuentes fijas deberán presentar a la Secretaría, solicitud por escrito acompañada de la información y documentación que se establezca en el Reglamento.
+Para obtener la licencia local de funcionamiento a que se refiere el artículo anterior, los responsables de las fuentes fijas de competencia estatal deberán presentar a la Secretaría, solicitud por escrito acompañada de la información y documentación que se establezca en el Reglamento.
 
 La información a que se refiere este artículo deberá presentarse en el formato que determine la Secretaría, quien podrá requerir la información adicional que considere necesaria y verificar, en cualquier momento, la veracidad de la misma.
 
-Presentada la solicitud e integrado el expediente, la Secretaría, dentro de un plazo de 30 días hábiles, deberá emitir su resolución fundada y motivada en la que autorice o niegue la licencia local de funcionamiento. Transcurrido dicho plazo sin que la autoridad resuelva, se entenderá que la resolución se ha emitido en sentido negativo.
+Una vez presentada la solicitud, la autoridad ambiental competente revisará que se ajuste a las formalidades previstas en esta Ley y su Reglamento e, integrará el expediente respectivo en un plazo no mayor de 10 días hábiles.
+
+Integrado el expediente, la autoridad ambiental correspondiente iniciará el procedimiento de evaluación de la solicitud y dentro de un plazo de 30 días hábiles, deberá emitir su resolución fundada y motivada en la que autorice de forma total, autorice de forma condicionada o, se niegue la licencia local de funcionamiento. Transcurrido dicho plazo sin que la autoridad resuelva, se entenderá que la resolución se ha emitido en sentido negativo.
+
+Se deberá obtener una nueva Licencia Local de Funcionamiento cuando la empresa que la presenta cambia sus procesos industriales, incrementa la producción anual, cambia su razón social y/o no presenta en tiempo y forma la Cedula de Operación Anual (COA).
 
 ###### ARTÍCULO 140.
 
@@ -1948,6 +2010,18 @@ III. La periodicidad con que deberá remitirse a la Secretaría el inventario de
 IV. Las medidas y acciones que deberán llevarse a cabo en el caso de una contingencia; y
 
 V. El equipo y aquellas otras condiciones que la Secretaría determine, para prevenir y controlar la contaminación de la atmósfera.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2012)</small>
+
+ARTÍCULO 140 BIS.- La Cédula de Operación Anual es un mecanismo de reporte relativo a las emisiones, transferencias y manejo de contaminantes que deriva de las obligaciones fijadas en la licencia local de funcionamiento. Se presenta por establecimiento industrial, para actualizar su operación y facilitar su seguimiento por parte de la autoridad ambiental; asimismo ofrece información actualizada que contribuye a la definición de políticas ambientales prioritarias y de áreas críticas.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2012)</small>
+
+ARTÍCULO 140 BIS 1.- La Cédula de Operación Anual deberá entregarse a la Secretaría de forma anual dentro de los 15 días hábiles previos a la fecha de vencimiento de la vigencia autorizada en la Licencia local de Funcionamiento para el primer año y, para años subsecuentes, dentro de los 15 días hábiles previos a la fecha de vencimiento de la vigencia autorizada en el refrendo de la licencia local de funcionamiento. Su contenido corresponderá a la información acumulada en el año anterior transcurrido.
+
+La Cédula de Operación Anual deberá presentarse en el formato que determine la Secretaría acompañada de la información y documentación que se establezca en el Reglamento. La autoridad ambiental podrá requerir la información adicional que considere necesaria y verificar, en cualquier momento, la veracidad de la misma.
+
+De no entregar en tiempo y forma la Cédula de Operación Anual, se cancelará la licencia aprobada que dio origen al reporte anual, teniendo que ingresar nuevamente la información referida en los artículos 139 y 140 de la presente Ley.
 
 ### CAPÍTULO V. CONTAMINACIÓN VISUAL Y PROTECCIÓN DEL PAISAJE
 
@@ -2323,9 +2397,13 @@ IX. Identificación de los instrumentos metodológicos y elementos técnicos que
 
 Una vez presentado el manifiesto de riesgo ante la Secretaría, ésta emitirá la autorización correspondiente en un plazo no mayor de 30 días hábiles, en la que podrá:
 
-I. Aprobar el manifiesto de riesgo en los términos propuestos;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2012)</small>
 
-II. Aprobar el manifiesto de riesgo estableciendo medidas de mitigación, de seguridad o restauración adicionales a las propuestas por el promovente;
+I. Autorizar el manifiesto de riesgo en los términos propuestos;
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2012)</small>
+
+II. Autorizar el manifiesto de riesgo de manera condicionada estableciendo medidas de mitigación, de seguridad o restauración adicionales a las propuestas por el promovente;
 
 III. Solicitar la presentación de un nuevo estudio; o
 
@@ -2864,3 +2942,9 @@ P.O. 3 DE MARZO DE 2012.
 P.O. 5 DE MAYO DE 2012
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 7 DE JULIO DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Los Comités a que se refiere el último párrafo del artículo 37 del presente Dictamen, se deberán conformar en un plazo no mayor a noventa días a partir de la entrada en vigencia de éste y, su reglamento interior deberá elaborarse dentro de otro plazo igual una vez formalizada su integración.
