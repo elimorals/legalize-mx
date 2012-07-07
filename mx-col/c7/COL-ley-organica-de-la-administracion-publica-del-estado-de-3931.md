@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-administracion-publica-del-estado-de-3931"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-11-16"
-last_updated: "2011-08-31"
+last_updated: "2012-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COLIMA
 
-LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COLIMA
+LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 16 de noviembre de 1985.
 
@@ -285,9 +285,17 @@ XVIII. Efectuar los pagos conforme a los programas y presupuestos aprobados; ope
 
 XIX. Despachar los asuntos que en el área de su competencia, le encomiende el titular del Poder Ejecutivo;
 
-XX. Refrendar las Leyes, Reglamentos y Decretos del Ejecutivo Estatal que le correspondan; y
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2012)</small>
 
-XXI. Los demás que le atribuyan las leyes y reglamentos vigentes, siempre que esta Ley no los señale como exclusivos de otra dependencia.
+XX. Refrendar las Leyes, Reglamentos y Decretos del Ejecutivo Estatal que le correspondan;
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2012)</small>
+
+XXI. Generar, requerir, analizar y consolidar con fines de inteligencia, información patrimonial, económica, financiera, fiscal, civil y cualquier otra que pudieran proporcionar las dependencias y entidades de la administración pública estatal y municipal y presentarla a las autoridades competentes, a fin de prevenir y combatir los delitos en materia de operaciones con recursos de procedencia ilícita y financiamiento al terrorismo, dentro del territorio del Estado; y
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2012)</small>
+
+XXII. Los demás que le atribuyan las leyes y reglamentos vigentes, siempre que esta Ley no los señale como exclusivos de otra dependencia.
 
 B) En materia de Administración:
 
@@ -507,7 +515,7 @@ XXXIV.- Refrendar las Leyes, Reglamentos y Decretos del Ejecutivo Estatal que le
 
 XXXV.- Los demás que le atribuyan la Leyes y Reglamentos vigentes, siempre que esta Ley no los señale como exclusivos de otras dependencias.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 1997)</small>
 
 ###### ARTICULO 24o.
 
@@ -573,7 +581,7 @@ VII.- Las demás que le atribuyan las leyes, reglamentos y convenios vigentes, s
 
 ARTICULO 24 BIS (SIC).- (DEROGADO, P.O. 5 DE JUNIO DE 1993)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 1997)</small>
 
 ARTICULO 24 BIS 1.- A la SECRETARIA DE PLANEACION, corresponde el despacho de los siguientes asuntos:
 
@@ -1065,7 +1073,7 @@ Por tanto mando se imprima, publique, circule y observe.
 
 Palacio de Gobierno, Colima, Colima, a 15 de noviembre de 1985.- El Gobernador Const. del Estado, LIC. ELIAS ZAMORA VERDUZCO.- Rúbrica.- El Secretario General de Gobierno, LIC. HECTOR DUEÑAS GONZALEZ.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 15 DE FEBRERO DE 1986.
 
@@ -1208,3 +1216,11 @@ DÉCIMO TERCERO.- Los asuntos que se venían conociendo y tramitando ante las Se
 DÉCIMO CUARTO.- Se autoriza la reestructuración de las plazas indispensables para el funcionamiento y operatividad de la Secretaría de Finanzas y Administración.
 
 DÉCIMO QUINTO.- Las atribuciones que actualmente se encuentran asignadas a la Secretaría de Administración y que han de transferirse a la Contraloría General del Estado, al Instituto para la Competitividad del Estado de Colima y al Instituto Colimense para la Sociedad de la Información y el Conocimiento, quedarán a cargo de la nueva Secretaría de Finanzas y Administración hasta en tanto se realicen las reformas correspondientes.
+
+P.O. 7 DE JULIO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El titular del Ejecutivo del Estado deberá expedir las adecuaciones necesarias al Reglamento Interior de la Secretaría de Finanzas y Administración.
+
+TERCERO.- La Secretaría de Finanzas y Administración del Gobierno del Estado, asignará los recursos humanos, financieros y materiales para cubrir los requerimientos de operación de la unidad administrativa que ejercerá las atribuciones derivadas de lo dispuesto en la fracción XXI, apartado A), del artículo 21, de la Ley Orgánica de la Administración Pública del Estado de Colima, facultando a dicha dependencia para que realice las transferencias o ampliaciones presupuestarias que se requieran.
