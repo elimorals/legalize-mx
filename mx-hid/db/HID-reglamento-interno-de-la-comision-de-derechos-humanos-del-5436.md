@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interno-de-la-comision-de-derechos-humanos-del-5436"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-05-30"
-last_updated: "1998-03-02"
+last_updated: "2012-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 REGLAMENTO INTERNO DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 1998.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO, PUBLICADO EN EL P.O. DE 9 DE JULIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de mayo de 1994.
 
@@ -705,10 +707,18 @@ PRESIDENTE DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 19 DE SEPTIEMBRE DE 2003.
 
 Primero.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Segundo.- Publíquese las presentes reformas en el Periódico Oficial del gobierno del Estado.
+
+P.O. 9 DE JULIO DE 2012.
+
+Primero: El presente Reglamento entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+Segundo: Al haber quedado abrogada la Ley Orgánica de la Comisión de Derechos Humanos del Estado de Hidalgo, Publicada en el Periódico Oficial del Estado de Hidalgo del 20 de julio de 1992, se abroga el Reglamento Interno de la Comisión de Derechos Humanos del Estado de Hidalgo derivado de ella, aprobado por el Consejo de la Comisión en sesión de fecha 22 de octubre de 1992.
+
+Tercero: Publíquese el Reglamento en el Periódico Oficial del Estado de Hidalgo.
