@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-administracion-publica-para-el-estado-de-839
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-21"
-last_updated: "2011-11-28"
+last_updated: "2012-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE NOVIEMBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -299,13 +297,15 @@ XV.- Proponer al Gobernador del Estado, en coordinación con la Secretaría de C
 
 XVI.- Autorizar la administración de recursos para el ejercicio del gasto público en función con el presupuesto aprobado y de las disponibilidades financieras del Gobierno Estatal, de conformidad a las disposiciones que en materia de racionalidad, armonización contable y evaluación del desempeño establezca la Secretaría;
 
-XVII.- Estimar y dar a conocer a la Secretaría de Planeación y Desarrollo Regional el monto global y la calendarización provisional del presupuesto de inversión para el siguiente ejercicio fiscal, a fin de posibilitar las atribuciones de esta última en materia de programación;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2012)</small>
+
+XVII.- Estimar y dar a conocer a la Secretaría de Planeación, Desarrollo Regional y Metropolitano, el monto de inversión y la calendarización provisional del presupuesto de inversión para el siguiente ejercicio fiscal, a fin de posibilitar el ejercicio de las atribuciones de esta última en materia de programación y presupuestación;
 
 XVIII.- Aplicar las políticas que señale el Gobernador del Estado para el ejercicio del presupuesto de egresos;
 
 XIX.- Diseñar, instrumentar y actualizar las bases metodológicas y normativas del sistema de presupuesto del gasto público de acuerdo con los objetivos y necesidades de la administración pública del Estado, asesorando a las dependencias y entidades para la integración de su presupuesto específico;
 
-XX.- Establecer, en coordinación con la Secretaría de Planeación, Desarrollo Regional y Metropolitano, la programación-presupuestación del gasto público total para el ejercicio correspondiente en el programa financiero calendarizado;
+XX.- (DEROGADA, P.O. 9 DE JULIO DE 2012)
 
 XXI.- Elaborar y presentar al Titular del Ejecutivo, el Proyecto de Ley de Ingresos y Presupuesto de Egresos del Estado;
 
@@ -325,7 +325,9 @@ XXVIII.- Formular las querellas y denuncias en materia de delitos fiscales y de 
 
 XXIX.- Representar en toda clase de procedimientos judiciales o administrativos, los intereses de la hacienda pública del Estado y los que deriven de las funciones operativas inherentes a los acuerdos del Ejecutivo Federal, en materia de ingresos federales coordinados;
 
-XXX.- Intervenir en la autorización y evaluación de los programas de inversión de las dependencias y entidades de la Administración Pública del Estado;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2012)</small>
+
+XXX.- Intervenir en la autorización de los programas de inversión de las Dependencias y Entidades de la Administración Pública del Estado, conjuntamente con la Secretaría de Planeación, Desarrollo Regional y Metropolitano;
 
 XXXI.- Emitir opinión, sobre los precios y tarifas de los bienes y servicios de la Administración Pública del Estado;
 
@@ -333,31 +335,37 @@ XXXII.- Expedir la normatividad jurídico-administrativa de carácter general en
 
 XXXIII.- Realizar una labor permanente de difusión y orientación fiscal;
 
-XXXIV.- Recibir, revisar y analizar la demanda de obras factibles de financiarse con recursos federales, estatales y municipales para la integración de la propuesta de inversión del ejercicio correspondiente;
+XXXIV.- (DEROGADA, P.O. 9 DE JULIO DE 2012)
 
-XXXV.- Programar, presupuestar, ejecutar, controlar y evaluar lo relativo al gasto público en los capítulos de gasto corriente;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2012)</small>
+
+XXXV.- Programar, presupuestar, ejecutar, controlar y evaluar lo relativo al gasto público en los capítulos de gasto corriente, estableciendo mecanismos de coordinación con la Secretaría de Planeación, Desarrollo Regional y Metropolitano en materia de seguimiento y evaluación del gasto;
 
 XXXVI.- Determinar las políticas en materia de administración de los recursos materiales y servicios y vigilar su correcta aplicación;
 
 XXXVII.- Adquirir los bienes y contratar los servicios que requiera el funcionamiento del Poder Ejecutivo del Estado con apego a las Leyes de la materia, cuando no corresponda a otra dependencia, así como celebrar contratos de arrendamiento financiero;
 
-XXXVIII.- Coordinar, establecer y promover mecanismos de coordinación institucional que permitan incrementar el aprovechamiento de los recursos federales en beneficio de los proyectos prioritarios, previstos dentro de los programas sectoriales, especiales e institucionales que contempla el Plan Estatal de Desarrollo, promoviendo la realización de diagnósticos y estudios técnicos especializados que permitan identificar sus áreas de oportunidad así como adoptar las medidas preventivas necesarias que fortalezcan su ejecución en el Estado; así como procurar la celebración de esquemas de coordinación y asistencia técnica con la Secretaría de Planeación Desarrollo Regional y Metropolitano para la elaboración de guías e instrumentos técnicos que faciliten a las dependencias el seguimiento, accesibilidad técnica, aprovechamiento oportuno y eficiencia en la canalización de los recursos federales a la entidad;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2012)</small>
 
-XXXIX.- Diseñar, establecer y actualizar un sistema de programación del gasto público, incluido el de inversión, acorde con los objetivos del Plan Estatal de Desarrollo, los programas sectoriales, regionales y especiales, así como de las necesidades de la Administración Pública del Estado;
+XXXVIII.- Coadyuvar en la celebración de mecanismos de coordinación institucional, que permitan incrementar el aprovechamiento de los recursos Federales en beneficio de proyectos prioritarios que presenten las distintas Dependencias y Entidades de la Administración Pública Estatal a la Secretaría de Planeación, Desarrollo Regional y Metropolitano, y que contribuyan al logro de los objetivos y metas definidos en el Plan Estatal de Desarrollo";
 
-XL.- Elaborar con la participación de las dependencias y entidades de la Administración Pública del Estado, los programas de Inversión y por delegación del Titular del Ejecutivo, definir el establecimiento de prioridades para la asignación, autorización, aplicación y evaluación de estos recursos en los Municipios y proponer las adecuaciones que se requieran para el eficaz cumplimiento de los objetivos y metas programados;
+XXXIX.- (DEROGADA, P.O. 9 DE JULIO DE 2012)
 
-XLI.- Coordinar, programar, autorizar y evaluar los recursos destinados a los programas de inversión de las dependencias y entidades de la Administración Pública del Estado y establecer los mecanismos de colaboración y coordinación con los municipios para estos propósitos;
+XL.- (DEROGADA, P.O. 9 DE JULIO DE 2012)
 
-XLII.- Otorgar a los municipios, cuando así lo soliciten, la asesoría y el apoyo técnico necesario para la integración de los expedientes técnicos, la formulación de programas, proyectos y acciones del gasto de inversión;
+XLI.- (DEROGADA, P.O. 9 DE JULIO DE 2012)
 
-XLIII.- Vigilar y evaluar en coordinación con la Secretaría de Contraloría y Transparencia Gubernamental, que los programas de inversión de las dependencias y entidades del Ejecutivo, se realicen conforme a los objetivos y metas programadas;
+XLII.- (DEROGADA, P.O. 9 DE JULIO DE 2012)
 
-XLIV.- Establecer y operar un sistema de información, para el seguimiento de los recursos federales y estatales de gasto de inversión, conforme a la Legislación vigente aplicable a la materia;
+XLIII.- (DEROGADA, P.O. 9 DE JULIO DE 2012)
 
-XLV.- Vigilar el cumplimiento de la normatividad establecida para el gasto federalizado en materia de programación, presupuestación y evaluación;
+XLIV.- (DEROGADA, P.O. 9 DE JULIO DE 2012)
 
-XLVI.- Dar seguimiento y evaluar la aplicación de los recursos federales aprobados en el Presupuesto de Egresos de la Federación al Estado a fin de lograr un aprovechamiento integral, eficaz y eficiente de los mismos;
+XLV.- (DEROGADA, P.O. 9 DE JULIO DE 2012)
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2012)</small>
+
+XLVI.- Evaluar, en coordinación con la Secretaría de Planeación, Desarrollo Regional y Metropolitano, la correcta aplicación de los recursos Federales aprobados en el Presupuesto de Egresos de la Federación al Estado, a fin de lograr un aprovechamiento integral, eficaz y eficiente de los mismos;
 
 XLVII.- Determinar y ejecutar las políticas en materia de administración de recursos humanos y vigilar el cumplimiento de las disposiciones que rijan las relaciones entre el Ejecutivo del Estado y sus trabajadores;
 
@@ -431,17 +439,21 @@ III.- Establecer la coordinación entre el Plan Estatal y los Programas de Desar
 
 IV.- Coordinar las actividades del Comité de Planeación para el Desarrollo del Estado de Hidalgo, así como los comités equivalentes a nivel regional y municipal, representando en el ámbito de sus atribuciones al Gobernador del Estado ante la Federación en el ejercicio de los programas insertos en el Convenio de Desarrollo Social; debiendo promover la celebración de mecanismos de coordinación institucional con las dependencias, entidades y unidades de apoyo de la Administración Pública Estatal para la elaboración e integración uniforme de los indicadores de evaluación y desempeño que correspondan, de conformidad a la legislación aplicable en la materia;
 
-V.- Promover estrategias de desconcentración y descentralización hacia las Regiones. Municipios y Comunidades, de los programas y acciones que impacten en el desarrollo regional;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2012)</small>
 
-Para el cumplimiento de estos propósitos, se coordinarán, concertarán y ejecutarán las obras públicas que les sean encomendadas y aquéllas que obedezcan al cumplimiento de los propósitos del desarrollo de los habitantes de la Entidad, señalados en los programas que, con base en las facultades y atribuciones asignadas, correspondan a las áreas administrativas de la Secretaría, ubicadas en las regiones establecidas en el Plan Estatal de Desarrollo;
+V.- Promover e instrumentar estrategias de descentralización y desconcentración hacia las regiones, Municipios y comunidades, de los programas y acciones que impacten en el desarrollo regional, debiendo establecer mecanismos de coordinación y concertación con las Dependencias y Entidades de la Administración Pública del Estado de Hidalgo. Asimismo, supervisar las obras públicas que le sean encomendadas y aquellas que obedezcan al cumplimiento de los propósitos del desarrollo de los habitantes de la Entidad;
 
 VI.- Establecer los lineamientos que sirvan de base para elaboración de los programas sectoriales, metropolitanos, regionales y especiales;
 
-VII.- Formular, evaluar y coordinar la ejecución y supervisar proyectos estratégicos para el Titular del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2012)</small>
+
+VII.- Coadyuvar en el proceso de formulación, programación, instrumentación y evaluación de los proyectos estratégicos a cargo de la Unidad de Proyectos Estratégicos de la Coordinación del Despacho del Gobernador;
 
 VIII.- Elaborar estudios y proyectos regionales y municipales que permitan apoyar a las comunidades en su desarrollo y productividad para propiciar mejores condiciones de bienestar social y calidad de vida;
 
-IX.- Promover y apoyar la creación y modernización de la infraestructura industrial y comercial de la agroindustria, así como organizar y dirigir las acciones destinadas al impulso y desarrollo regional de la producción agropecuaria, estableciendo para tal caso, mecanismos de coordinación y vinculación institucional con las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2012)</small>
+
+IX.- Participar, en el ámbito de sus facultades, de conformidad a la legislación aplicable en la materia, en la promoción y apoyo de los programas y proyectos orientados a crear y modernizar la infraestructura agrícola, industrial, energética, logística, comercial y de servicios; así como organizar y dirigir las acciones destinadas al impulso y desarrollo regional, estableciendo para tal caso mecanismos de coordinación y vinculación institucional con las Dependencias y Entidades de la Administración Pública Estatal, Municipal y Federal, así como con la sociedad organizada;
 
 X.- Coordinar la vinculación de los municipios, con las dependencias estatales y federales, en el establecimiento de infraestructura, unidades de servicio y acciones que impulsen el desarrollo regional;
 
@@ -451,7 +463,9 @@ XII.- Promover la participación comunitaria en la ejecución de obras y accione
 
 XIII.- Formular y proponer al Ejecutivo del Estado la celebración, y en su caso celebrar convenios de Coordinación con la Administración Pública Federal, Estatal y Municipal, que fortalezcan la planeación del desarrollo regional y metropolitano;
 
-XIV.- En apoyo del Ejecutivo Estatal definir, establecer, dirigir y coordinar el establecimiento de las prioridades regionales, así como coordinar los instrumentos jurídicos y financieros para la autorización, distribución y supervisión de los recursos que garanticen la eficaz realización de las inversiones productivas y la consolidación del desarrollo rural sustentable en la entidad; todo ello en el marco de las prioridades estatales y regionales definidas;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2012)</small>
+
+XIV.- En apoyo del Ejecutivo Estatal, definir, establecer, dirigir y coordinar el establecimiento de las prioridades regionales, a través de la integración de la cartera de programas y proyectos de inversión, a realizarse en el ejercicio fiscal correspondiente;
 
 XV.- Promover, desarrollar, coordinar, supervisar y controlar el Sistema de Información Estadística y Geográfica del Gobierno Estatal, a través del organismo que para tal efecto establezca el Titular del Poder Ejecutivo del Estado, con el propósito de regular, captar, sistematizar, procesar y publicar, en su caso, la información relativa que disponga la legislación aplicable en la materia, así como apoyando el adecuado funcionamiento de sistemas especializados por sector, rama, o especialidad requerida, contribuyendo de esta manera a las tareas de planeación para el desarrollo;
 
@@ -485,9 +499,55 @@ XXIX.- Fomentar la participación ciudadana en la planeación y evaluación de a
 
 XXX.- Establecer acuerdos de coordinación y colaboración administrativa con las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, así como, con los representantes del sector privado, que propicien el fortalecimiento de las actividades en materia de información estadística y geográfica en la Entidad;
 
-XXXI.- Instrumentar, administrar y coordinar el sistema estatal de monitoreo de programas federales, integrando y operando la red interinstitucional de enlaces en la materia, vinculándose con la Secretaría de Finanzas y Administración para establecer los mecanismos de coordinación pertinentes que permitan incrementar los niveles de eficiencia institucional y el debido aprovechamiento de los recursos que se proporcionan a través de dichos programas, promoviendo la asistencia y facilitación técnica necesarias a las dependencias y entidades de la Administración Pública Estatal que lo soliciten, a efecto de garantizar el debido cumplimiento de los requisitos y procedimientos que establecen sus reglas de operación; y
+XXXI.- Instrumentar, administrar y coordinar el sistema estatal de monitoreo de programas federales, integrando y operando la red interinstitucional de enlaces en la materia, vinculándose con la Secretaría de Finanzas y Administración para establecer los mecanismos de coordinación pertinentes que permitan incrementar los niveles de eficiencia institucional y el debido aprovechamiento de los recursos que se proporcionan a través de dichos programas, promoviendo la asistencia y facilitación técnica necesarias a las dependencias y entidades de la Administración Pública Estatal que lo soliciten, a efecto de garantizar el debido cumplimiento de los requisitos y procedimientos que establecen sus reglas de operación; y (sic)
 
-XXXII.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2012)</small>
+
+XXXII.- Procurar el desarrollo y fortalecimiento de la infraestructura eléctrica, el aprovechamiento eficiente de los recursos energéticos, así como el desarrollo de fuentes alternas de energía;
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2012)</small>
+
+XXXIII.- Dirigir, establecer, conducir y coordinar el proceso de programación-presupuestación del gasto de inversión para el ejercicio correspondiente en el programa financiero calendarizado, conjuntamente con la Secretaría de Finanzas y Administración, en el ámbito de sus respectivas competencias, de conformidad a la Legislación aplicable vigente;
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2012)</small>
+
+XXXIV.- Diseñar, establecer, dirigir, coordinar y actualizar, con la participación de la Secretaría de Finanzas y Administración, un sistema de programación del gasto de inversión, acorde con los objetivos del Plan Estatal de Desarrollo, los programas sectoriales, regionales, institucionales y especiales, así como de las necesidades de la Administración Pública del Estado;
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2012)</small>
+
+XXXV.- Vigilar el cumplimiento de la normatividad establecida para el gasto federalizado en materia de programación, presupuestación y evaluación;
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2012)</small>
+
+XXXVI.- Otorgar a los Municipios, cuando así lo soliciten, la asesoría y el apoyo técnico necesario para la integración de los expedientes técnicos, la formulación de programas, proyectos y acciones del gasto de inversión;
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2012)</small>
+
+XXXVII.- Elaborar con la participación de las Dependencias y Entidades de la Administración Pública del Estado, los programas de inversión; además y por delegación del Titular del Ejecutivo, definir el establecimiento de prioridades para la asignación, autorización, aplicación y evaluación de estos recursos en los Municipios y proponer las adecuaciones que se requieran para el eficaz cumplimiento de los objetivos y metas programados;
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2012)</small>
+
+XXXVIII.- Recibir, revisar, analizar y dictaminar la demanda de obras factibles de financiarse con recursos Federales y Estatales, para la integración de la propuesta de inversión del ejercicio correspondiente, evaluando sus resultados;
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2012)</small>
+
+XXXIX.- Integrar y actualizar de manera permanente, un sistema de información para el seguimiento de los recursos Federales y Estatales de gasto de inversión, estableciendo los lineamientos y criterios que correspondan, de conformidad a la Legislación vigente aplicable a la materia;
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2012)</small>
+
+XL.- Vigilar y evaluar, en coordinación con la Secretaría de Contraloría y Transparencia Gubernamental, que los programas de inversión de las Dependencias y Entidades de la Administración Pública Estatal, se realicen conforme a los objetivos y metas programadas;
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2012)</small>
+
+XLI.- Promover la realización de diagnósticos y estudios técnicos especializados que permitan identificar áreas de oportunidad e incrementar el aprovechamiento de los recursos Federales en beneficio de los proyectos prioritarios, así como adoptar las medidas preventivas necesarias que fortalezcan su ejecución en el Estado; además de procurar la celebración de esquemas de coordinación y asistencia técnica con la Secretaría de Finanzas y Administración para la elaboración de guías e instrumentos técnicos que faciliten a las dependencias el seguimiento, accesibilidad técnica, aprovechamiento oportuno y eficiencia en la canalización de los recursos federales a la Entidad;
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2012)</small>
+
+XLII.- Coordinar, programar y autorizar los recursos destinados a los programas de inversión de las Dependencias y Entidades de la Administración Pública del Estado, y establecer los mecanismos de colaboración y coordinación con los Municipios para estos propósitos, conjuntamente con la Secretaría de Finanzas y Administración, en materia de programación y presupuestación, de conformidad a los lineamientos y criterios que la Secretaría de Planeación, Desarrollo Regional y Metropolitano establezca sobre el particular; y
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2012)</small>
+
+XLIII.- Las demás que señalen las Leyes y Reglamentos vigentes en el Estado.
 
 ###### Artículo 28.
 
@@ -643,7 +703,7 @@ XXXVI.- Integrar un Sistema de Información Económica y de Registro Estadístic
 
 XXXVII.- Suscribir los instrumentos jurídicos pertinentes, para la consolidación de los objetivos de la Secretaría y los que, por delegación o representación del Ejecutivo del Estado, se requieran;
 
-XXXVIII.- Procurar el fortalecimiento de la infraestructura eléctrica, el aprovechamiento eficiente de los recursos energéticos así como el desarrollo de fuentes alternas de energía; y
+XXXVIII.- (DEROGADA, P.O. 9 DE JULIO DE 2012)
 
 XXXIX.- Las demás que señalen las Leyes y Reglamentos vigentes en el Estado.
 
@@ -1220,3 +1280,19 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. JOSÉ FRANCISCO OLVERA RUIZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE JULIO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- En los casos en que, de conformidad con el presente ordenamiento, pasen a Dependencias del Poder Ejecutivo del Estado, atribuciones que los preceptos derogados otorgaban a otras Dependencias u órganos, deberá hacerse en consecuencia, el traspaso y readscripción de las unidades o áreas administrativas respectivas, incluyendo el personal adscrito a las mismas, las partidas presupuestales conducentes, el mobiliario, archivos y equipo en general.
+
+CUARTO.- Cuando las atribuciones que el presente Decreto confiere a las Dependencias del Poder Ejecutivo del Estado, se encuentren señaladas en las demás Leyes locales a otras dependencias u órganos con denominación diversa, se entenderá que corresponden a las Dependencias que este ordenamiento prevé, en los términos dispuestos por el mismo.
+
+QUINTO.- La readscripción de personal, en ninguna forma afectarán los derechos laborales que hubieren adquirido con la Administración Pública del Estado. Sin embargo, si de algún modo se estimaren afectados sus derechos, se dará intervención a las Secretarías de Gobierno, de Finanzas y Administración y a la organización sindical correspondiente, para su atención.
+
+SEXTO.- Los asuntos en trámite que deban pasar de una Dependencia u órgano de la Administración Pública del Estado, a otra, según lo que dispone esta Ley, permanecerán en el estado en que se encuentren hasta que la unidad que los venga desahogando se incorpore a su nueva adscripción, salvo que fueren de especial urgencia o de término improrrogable. En ambos casos se notificará a los interesados el cambio de radicación.
