@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-procuraduria-federal-del-consumidor-509
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-07-10"
-last_updated: "2010-07-21"
+last_updated: "2012-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50989&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2006-06-27"
 ---
 # ESTATUTO ORGANICO DE LA PROCURADURIA FEDERAL DEL CONSUMIDOR
 
-ESTATUTO ORGANICO DE LA PROCURADURIA FEDERAL DEL CONSUMIDOR
+ESTATUTO ORGÁNICO DE LA PROCURADURÍA FEDERAL DEL CONSUMIDOR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE JULIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE JULIO DE 2012.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 10 de julio de 2006.
 
@@ -585,7 +585,7 @@ XII.- Supervisar el cumplimiento, por parte de los delegados, subdelegados, titu
 
 XIII.- Las señaladas en el artículo 17 del Reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 14.
 
@@ -625,7 +625,7 @@ a) Delegación Campeche, con sede en la ciudad de San Francisco de Campeche.
 
 b) (DEROGADO, D.O.F. 21 DE JULIO DE 2010)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JULIO DE 2010)</small>
 
 V. Estado: Coahuila de Zaragoza.
 
@@ -645,11 +645,13 @@ a) Delegación Chiapas, con sede en la ciudad de Tuxtla Gutiérrez, y
 
 b) Subdelegación Tapachula, con sede en la ciudad de Tapachula de Córdova y Ordóñez.
 
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2012)</small>
+
 VIII. Estado: Chihuahua.
 
-a) Delegación Chihuahua, con sede en Ciudad Juárez, y
+a) Delegación Chihuahua, con sede en la ciudad de Chihuahua, y
 
-b) Subdelegación Chihuahua, con sede en la ciudad de Chihuahua.
+b) Subdelegación Chihuahua, con sede en Ciudad Juárez.
 
 IX. Estado: Durango.
 
@@ -675,7 +677,7 @@ XIII. Estado: Jalisco.
 
 a) Delegación Jalisco, con sede en la ciudad de Guadalajara.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JULIO DE 2010)</small>
 
 XIV. Estado: México.
 
@@ -689,7 +691,7 @@ d) Delegación Tlalnepantla, con sede en la ciudad de Tlalnepantla, y
 
 e) Subdelegación Ecatepec, con sede en la ciudad de Ecatepec de Morelos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JULIO DE 2010)</small>
 
 XV. Estado: Michoacán de Ocampo.
 
@@ -813,7 +815,7 @@ d) Delegación Poniente, con sede en el territorio de cualquiera de las Delegaci
 
 e) Delegación Oriente, con sede en el territorio de cualquiera de las Delegaciones Políticas de Iztacalco, Iztapalapa y Venustiano Carranza.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 15.
 
@@ -1221,7 +1223,7 @@ Atentamente
 
 México, D.F., a 26 de junio de 2006.- El Secretario, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
 
 D.O.F. 15 DE MARZO DE 2007.
 
@@ -1238,3 +1240,9 @@ PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el
 SEGUNDO.- Los procedimientos administrativos y demás asuntos a cargo de las unidades administrativas que en términos de presente Acuerdo desaparecen, independientemente de la etapa procesal en que se encuentren, junto con sus respectivos expedientes debidamente integrados, serán atendidos y resguardados por la Delegación de esta Procuraduría a la cual se encontraban adscritas, o por la unidad que determine el Procurador.
 
 TERCERO.- La Dirección General de Delegaciones, en coordinación con las unidades administrativas centrales competentes de esta Procuraduría, implementará las acciones necesarias que permitan la oportuna y adecuada atención de los procedimientos administrativos y otros asuntos en trámite, y el debido resguardo de los expedientes vinculados.
+
+D.O.F. 9 DE JULIO DE 2012.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Dirección General de Delegaciones, en coordinación con las unidades administrativas objeto del presente Acuerdo, implementará las acciones necesarias que permitan la oportuna y adecuada atención a los procedimientos administrativos y otros asuntos en trámite, con el debido resguardo de los expedientes vinculados.
