@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-concurso-progol-de-pronosticos-para-la-31947"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-18"
-last_updated: "2012-04-12"
+last_updated: "2012-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31947&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-05-19"
 
 REGLAMENTO DEL CONCURSO PROGOL DE PRONÓSTICOS PARA LA ASISTENCIA PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE JULIO DE 2012.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de junio de 2003.
 
@@ -811,11 +811,13 @@ El boleto deberá contener cuando menos los siguientes datos:
 
 12.- El importe del premio en caso de resultar ganador.
 
-> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 9 DE JULIO DE 2012)</small>
 
 ###### Artículo 68o.
 
-Pronósticos, a través del Sistema Central de Transacciones en Línea, suspenderá la recepción de participaciones para los partidos, indefectiblemente diez (10) minutos antes de la hora programada para su inicio; sin embargo, se podrá seguir participando para los partidos subsecuentes disponibles. En caso de que por algún motivo no se llegara a suspender la recepción de participaciones diez (10) minutos antes de que inicie el partido, el momio aplicable al resultado de la apuesta que hubiese sido ingresada después de los 10 minutos previos al inicio proporcionado en la Lista de Juegos será de uno (1).
+Pronósticos, a través del Sistema Central de Transacciones en Línea, suspenderá la recepción de participaciones para los partidos, indefectiblemente diez (10) minutos antes de la hora programada para su inicio, sin embargo, se podrá seguir participando para los partidos subsecuentes disponibles.
+
+En caso de que por algún motivo no se llegara a suspender la recepción de participaciones diez (10) minutos antes de que inicie el partido, o que se haya cambiado el horario del mismo, es decir, se adelante o retrase, sin ser notificado, el momio aplicable a cada resultado de ese partido para todas aquellas apuestas que hubiesen sido ingresadas después de los 10 (diez) minutos previos al inicio proporcionado en la Lista de Juegos será de uno (1)
 
 > <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
@@ -827,13 +829,15 @@ Pronósticos podrá limitar la aceptación de participaciones para quinielas id�
 
 ### Capítulo XIX. Determinación de Ganadores
 
-> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 9 DE JULIO DE 2012)</small>
 
 ###### Artículo 70o.
 
-Antes del inicio de cada partido, se generará un archivo con el registro de participaciones, el cual contendrá una firma electrónica que asegure la integridad del archivo emitido por el Sistema Central de Transacciones en Línea; a su vez el Sistema Central de Transacciones en Línea generará una bitácora en la que conste la hora de suspensión de la recepción de quinielas participantes para cada uno de los partidos.
+Pronósticos, a través del Sistema Central de Transacciones en Línea, generará diariamente los archivos denominados MJF's (Archivo Maestro de Transacciones), que contendrán el registro de las participaciones de los partidos efectuados durante el día. Además cada uno de los archivos deberá contener una firma electrónica que asegure su integridad al momento de ser generados por dicho sistema.
 
-Tanto el archivo que contiene el registro de participaciones de cada partido, así como la firma electrónica correspondiente se entregarán en un repositorio electrónico al Organo Interno de Control de Pronósticos para la Asistencia Pública una vez al día, esto con el fin de que pueda cotejar la información.
+Adicionalmente a lo anterior, al término de cada día después del cierre de apuestas y cancelaciones, el Sistema Central de Transacciones en Línea, generará una bitácora en la que conste el registro del cierre de apuestas y cancelaciones de cada uno de los partidos celebrados durante el día.
+
+Los archivos MJF's que contendrán el registro de participaciones de los partidos, así como la firma electrónica se grabarán en un medio de almacenamiento digital, el cual será entregado por el representante de la Subdirección General de Informática al Inspector de la Secretaría de Gobernación al término de cada día después del cierre de apuestas y cancelaciones, quien lo depositará junto con la bitácora en la caja fuerte utilizada para tal efecto, con el propósito de que la información pueda ser cotejada por el Organo Interno de Control en Pronósticos para la Asistencia Pública.
 
 > <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
@@ -845,13 +849,11 @@ Pronósticos publicará en su sitio web los resultados oficiales de los partidos
 
 Una vez verificado el cierre del concurso, es decir cuando hayan concluido todos los partidos programados en la Lista de Juegos, se publicarán los resultados en medios de comunicación masiva dentro del plazo de 48 horas.
 
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 9 DE JULIO DE 2012)</small>
 
 ###### Artículo 72o.
 
-Concluidos todos los partidos de la Lista de juegos del concurso, se generará un dispositivo de almacenamiento de datos con los archivos que contienen los registros de participaciones de todos los partidos que integraron el concurso y sus respectivas firmas electrónicas. El representante de la Subdirección General de Informática entregará este dispositivo al Inspector designado por la Secretaría de Gobernación, quien los depositará en una caja de seguridad asignada para tal efecto, a la cual únicamente tiene acceso el Organo Interno de Control.
-
-Acto seguido, se realizará el Cierre del concurso, el cual tendrá por objeto asentar en un acta, firmada por el Inspector designado por la Secretaría de Gobernación, el representante de la Dirección General, el representante de la Subdirección General de Informática y por el de la Subdirección de Concursos y Sorteos; los resultados oficiales de los partidos y la Determinación de Ganadores, así como cualquier incidente que hubiese ocurrido durante la vigencia del mismo. Dicha acta deberá ser firmada por los Servidores Públicos que intervienen en el acto.
+El Inspector designado por la Secretaría de Gobernación, el representante de la Dirección General, el representante de la Subdirección General de Informática y el representante de la Subdirección General de Mercadotecnia asentarán y firmarán en un acta después de cada cierre del concurso, los resultados oficiales de los partidos, la determinación de ganadores y cualquier incidente que se presente durante su vigencia.
 
 > <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
@@ -1000,6 +1002,18 @@ D.O.F. 7 DE MARZO DE 2012.
 UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 12 DE ABRIL DE 2012.
+
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE JULIO DE 2012.
+
+ACUERDO POR EL QUE SE REFORMAN LOS ARTÍCULOS 70 Y 72 DEL REGLAMENTO DEL CONCURSO PROGOL DE PRONÓSTICOS PARA LA ASISTENCIA PÚBLICA.
+
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE JULIO DE 2012.
+
+ACUERDO POR EL QUE SE REFORMA EL ARTÍCULO 68 DEL REGLAMENTO DEL CONCURSO PROGOL DE PRONÓSTICOS PARA LA ASISTENCIA PÚBLICA.
 
 UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
