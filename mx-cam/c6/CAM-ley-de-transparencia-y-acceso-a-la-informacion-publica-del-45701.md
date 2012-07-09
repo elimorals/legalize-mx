@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-4570
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-21"
-last_updated: "2009-07-15"
+last_updated: "2012-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45701&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 9 DE JULIO DE 2012, LAS PRESENTES REFORMAS ENTRAN EN VIGOR A LOS QUINCE DÍAS SIGUIENTES DE SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 21 de julio de 2005.
 
@@ -61,7 +63,7 @@ III. Fijar los procedimientos para el acceso a la información pública por part
 
 IV. Mejorar la organización, clasificación, manejo y sistematización de todo tipo de documentos en posesión de los sujetos obligados por esta ley a través de los lineamientos que al efecto establezca la Comisión;
 
-V. Garantizar la protección de los datos personales en posesión de los Entes Públicos siendo la Comisión el organismo de protección de este derecho;
+V. (DEROGADA POR EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 231, P.O. 9 DE JULIO DE 2012)
 
 VI. Establecer, de manera limitativa, los supuestos en que se restrinja el acceso a la información pública por resultar inconveniente al interés general su difusión o por el riesgo de causar, de manera injustificada, un daño o perjuicio a terceros;
 
@@ -385,61 +387,41 @@ Sin menoscabo de la protección enunciada en este capítulo la autoridad deberá
 
 El titular del Ente Público podrá solicitar a la Comisión con tres meses de anticipación a la fecha de fenecimiento del plazo al que se hace mención en el artículo 25 de esta ley, la ampliación del periodo de reserva hasta por diez años más, siempre y cuando subsistan las causas que dieron origen a su clasificación y se haga constar la prueba de daño establecida en el artículo 23 de esta Ley.
 
-### CAPÍTULO SÉPTIMO. DE LA PROTECCIÓN DE DATOS PERSONALES
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 231, P.O. 9 DE JULIO DE 2012)</small>
+
+### CAPÍTULO SÉPTIMO
 
 ###### Artículo 31.
 
-La protección del derecho a la intimidad de las personas, sin menoscabo de las acciones civiles ante los tribunales, es materia de regulación de la presente Ley en lo referente a los datos personales en posesión de los Entes Públicos y será tratada como información confidencial.
-
-La información confidencial relativa a datos personales limita el acceso a la información pública con la excepción de sus titulares y/o de terceros debidamente autorizados por los titulares de dicha información.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 231, P.O. 9 DE JULIO DE 2012)
 
 ###### Artículo 32.
 
-La información que contenga datos personales debe sistematizarse en archivos elaborados con fines lícitos y legítimos. Salvo en el caso de información necesaria para proteger la seguridad pública o la vida de las personas, no deberá registrarse ni se obligará a las personas a proporcionar datos que puedan originar discriminación, en particular información sobre el origen racial o étnico, preferencia sexual, aficiones, opiniones políticas, convicciones religiosas, filosóficas o de otro tipo, o sobre la participación en una asociación o afiliación a una agrupación gremial.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 231, P.O. 9 DE JULIO DE 2012)
 
 ###### Artículo 33.
 
-Los archivos que contengan datos personales en posesión de los Entes Públicos deberán ser enlistados y dichas listas remitidas a la Comisión la cual deberá asegurarse que:
-
-I. Los datos personales reunidos y registrados siguen siendo pertinentes a la finalidad perseguida al momento de su recolección;
-
-II. Ninguno de esos datos sea utilizado o revelado sin su consentimiento, con un propósito incompatible al que se haya especificado; y
-
-III. El periodo de conservación de los datos personales será el necesario para alcanzar la finalidad con que se hayan recolectado y registrado.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 231, P.O. 9 DE JULIO DE 2012)
 
 ###### Artículo 34.
 
-La Comisión emitirá los lineamientos para orientar la creación o modificación de ficheros o archivos que contengan datos personales, los que deberán ser atendidos por los sujetos obligados.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 231, P.O. 9 DE JULIO DE 2012)
 
 ###### Artículo 35.
 
-Los particulares tendrán acceso preferente a la información personal que de ellos mismos tenga cualquier Ente Público.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 231, P.O. 9 DE JULIO DE 2012)
 
 ###### Artículo 36.
 
-Los Entes Públicos serán responsables de los datos personales y, en relación con éstos, deberán:
-
-I. Capacitar a los servidores públicos en relación con la protección de los datos personales, conforme lo establezcan los lineamientos de la Comisión; y
-
-II. Adoptar las medidas necesarias que garanticen la seguridad de los datos personales y eviten su alteración, pérdida, transmisión y acceso no autorizado.
-
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2009)</small>
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 231, P.O. 9 DE JULIO DE 2012)
 
 ###### Artículo 37.
 
-Sin perjuicio de lo que dispongan otras leyes, sólo los interesados o sus representantes legalmente autorizados podrán solicitar a una Unidad de Acceso, previa acreditación y de manera gratuita, que les proporcionen los datos personales que de ellos obren en sus archivos, mediante el cumplimiento de los siguientes requisitos:
-
-I. Solicitud por escrito en la que se exprese el nombre, domicilio u otro medio para recibir notificaciones y los datos personales requeridos, señalando el sistema en que se encuentran;
-
-II. Identificación oficial del solicitante; y
-
-III. Firma o huella digital.
-
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2009)</small>
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 231, P.O. 9 DE JULIO DE 2012)
 
 ###### Artículo 38.
 
-Las personas interesadas o sus representantes podrán solicitar, de manera gratuita y previa acreditación ante la Unidad de Acceso, que se modifiquen sus datos personales que obren en poder de los Entes Públicos; con tal propósito el interesado deberá entregar una solicitud de modificaciones a la Unidad de Acceso que señale el sistema de datos personales, indique las modificaciones por realizarse y aporte la información que justifique su petición. La Unidad de Acceso deberá entregar al solicitante, en un plazo de 30 días hábiles desde la presentación de la solicitud, una comunicación que haga constar las modificaciones o bien, le informe de manera fundada y motivada las razones por las cuales no procedieron las modificaciones.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 231, P.O. 9 DE JULIO DE 2012)
 
 ## TÍTULO SEGUNDO. DEL PROCEDIMIENTO DE ACCESO A LA INFORMACIÓN PÚBLICA
 
@@ -984,3 +966,25 @@ Primero.- Este decreto entrará en vigor al día siguiente de su publicación en
 Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas en lo que se opongan al contenido del presente decreto.
 
 Tercero.- El establecimiento de los sistemas electrónicos para el acceso a la información y los procedimientos de revisión por parte de los Entes Públicos, deberá hacerse en el plazo de un año, a partir de la entrada en vigor del presente decreto.
+
+P.O. 9 DE JULIO DE 2012.
+
+> <small>N. DE E. POR SU IMPORTANCIA DE TRANSCRIBE EL ARTÍCULO DEL DECRETO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el Capítulo Séptimo “De la Protección de Datos Personales” del Título Primero “Disposiciones Comunes para los Sujetos Obligados”, artículos del 31 al 38, de la Ley de Transparencia y Acceso a la Información Pública del Estado de Campeche, así como la fracción V del Artículo 3 del mismo ordenamiento jurídico.
+
+T R A N S I T O R I O S
+
+PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los lineamientos para el acceso, rectificación, cancelación y oposición de los datos personales en poder de los entes públicos, serán actualizados o expedidos por la Comisión a más tardar dentro de los noventa días naturales siguientes a la entrada en vigor del presente decreto.
+
+TERCERO.- Las solicitudes que antes de la entrada en vigor de la presente Ley, hayan presentado los particulares ante las Unidades de Acceso de los Entes Públicos, para que les proporcionen, modifiquen o cancelen sus datos personales que obren en archivo o sistema determinado, deberán concluir observándose las disposiciones contenidas en la Ley de Transparencia y Acceso a la Información Pública del Estado de Campeche.
+
+CUARTO.- Los entes públicos deberán notificar a la Comisión, sesenta días después de la entrada en vigor de la presente Ley, la relación de los Sistemas de Datos Personales que posean para su registro.
+
+QUINTO.- El documento en el que se establezcan los niveles de seguridad a los que se refiere el Capítulo III del Título Segundo de la presente Ley, deberá ser emitido por los entes públicos dentro de los sesenta días posteriores a la entrada en vigor de la presente Ley, mismo que deberá ser remitido a la Comisión para su registro dentro del mismo plazo.
+
+SEXTO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
