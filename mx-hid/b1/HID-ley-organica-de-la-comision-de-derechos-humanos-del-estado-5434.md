@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-comision-de-derechos-humanos-del-estado-5434
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-07-20"
-last_updated: "2011-12-05"
+last_updated: "2012-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 5 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO, PUBLICADO EN EL P.O. DE 9 DE JULIO DE 2012, AL HABER QUEDADO ABROGADA LA LEY ORGÁNICA DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO, SE ABROGA EL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO DERIVADO DE ELLA.</small>
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
@@ -493,7 +493,7 @@ En los casos de grave violación de derechos humanos, no será aplicable la conc
 
 La Comisión sólo conocerá de asuntos sobre probables violaciones de derechos humanos, cuando éstas hubiesen ocurrido durante el año inmediato anterior a la fecha de presentación de la queja; también cuando el quejoso demuestre que tuvo conocimiento de los hechos que reclama, cuando éstos hubiesen ocurrido el año inmediato anterior a la fecha de presentación de su queja; la admisión de quejas en este último supuesto es facultad discrecional de la Comisión.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE MARZO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE MARZO DE 2008)</small>
 
 ### CAPITULO IX. PROCEDIMIENTO EN MATERIA DE DISCRIMINACION
 
@@ -865,11 +865,11 @@ EL SECRETARIO DE GOBERNACION
 
 PROFR. HERNAN MERCADO PEREZ.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 6 DE DICIEMBRE DE 2004.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. Y 4o.DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. Y 4o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
 
 P.O. 10 DE MARZO DE 2008.
 
@@ -888,3 +888,11 @@ Artículo Tercero.- Se abroga la Ley Orgánica de la Comisión de Derechos Human
 Artículo Cuarto.- Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
 
 Artículo Quinto.- La Comisión Estatal de Derechos Humanos, deberá emitir el Reglamento de la Presente Ley a más tardar en un plazo de 180 días posteriores a (sic) Publicación de la entrada en vigor, del presente Decreto.
+
+P.O. 9 DE JULIO DE 2012.
+
+Primero: El presente Reglamento entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+Segundo: Al haber quedado abrogada la Ley Orgánica de la Comisión de Derechos Humanos del Estado de Hidalgo, Publicada en el Periódico Oficial del Estado de Hidalgo del 20 de julio de 1992, se abroga el Reglamento Interno de la Comisión de Derechos Humanos del Estado de Hidalgo derivado de ella, aprobado por el Consejo de la Comisión en sesión de fecha 22 de octubre de 1992.
+
+Tercero: Publíquese el Reglamento en el Periódico Oficial del Estado de Hidalgo.
