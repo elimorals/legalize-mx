@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-del-tribunal-de-lo-contencioso-71091"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-25"
-last_updated: "2011-10-26"
+last_updated: "2012-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE JULIO DE 2012.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el miércoles 25 de noviembre de 2009.
 
@@ -53,7 +53,7 @@ El Tribunal de lo Contencioso Administrativo del Poder Judicial del Estado de Ve
 
 El presente ordenamiento tiene por objeto reglamentar las disposiciones de la Ley Orgánica del Poder Judicial del Estado, correspondientes a la organización, funcionamiento y atribuciones del Tribunal.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 23 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 23 DE JUNIO DE 2011)</small>
 
 ## TÍTULO SEGUNDO. DE LA INTEGRACIÓN DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO
 
@@ -83,61 +83,51 @@ En su estructura orgánica, el Tribunal de lo Contencioso Administrativo contar�
 
 La Presidencia para el despacho de los asuntos de su competencia será asistida por el Secretario General de Acuerdos del Tribunal, la Secretaría Particular, la Dirección Administrativa, las Subdirecciones de: Estadística y Sistema de Tecnología e Informática; de Supervisión de los Servicios de Defensoría Jurídica; de formación profesional y capacitación y demás servidores públicos necesarios. Para su validez y eficacia, las comunicaciones entre los servidores del Tribunal de lo Contencioso administrativo, deberán hacerse en forma escrita y podrá entregarse a través de medios electrónicos o informáticos.
 
-> <small>(ADICIONADO, G.O. 23 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, G.O. 10 DE JULIO DE 2012)</small>
 
-###### Artículo 7 Bis.
+Artículo 7 bis. Acorde con las Condiciones Generales de los Trabajadores de confianza del Poder Judicial del Estado, la relación de trabajo entre el Tribunal de lo Contencioso Administrativo y sus trabajadores de confianza, se regirá por:
 
-Acorde con las Condiciones Generales de los Trabajadores de Confianza del Poder Judicial del Estado, la relación de trabajo entre el Tribunal de lo Contencioso Administrativo y sus trabajadores de confianza, se regirá por:
+I. Constitución Política de los Estados Unidos Mexicanos;
 
-I. Constitución Política de los Estados Unidos Mexicanos
+II. Constitución Política del Estado de Veracruz de Ignacio de la Llave;
 
-II. Constitución Política del Estado de Veracruz de Ignacio de la Llave
+III. Ley Orgánica del Poder Judicial del Estado;
 
-III. Ley Orgánica del Poder Judicial del Estado
+IV. Ley Federal de los Trabajadores al Servicio del Estado;
 
-IV. Ley Federal de los Trabajadores al Servicio del Estado
+V. Ley Federal del Trabajo;
 
-V. Ley Federal del Trabajo
-
-VI. Ley Estatal del Servicio Civil
+VI. Ley Estatal del Servicio Civil;
 
 VII. Reglamento Interior del Tribunal de lo Contencioso Administrativo.
 
 Para ese efecto y conforme a la Cláusula Tercera fracción II de las Condiciones Generales del Trabajo del Poder Judicial del Estado, en el Tribunal de lo Contencioso Administrativo, son trabajadores de confianza:
 
-a. Magistrados
+a. Magistrados;
 
-b. Subdirectores adscritos a la Presidencia
+b. Director Administrativo;
 
-c. Secretario General de Acuerdos
+c. Director del Instituto de la Justicia Administrativa;
 
-d. Secretaria Adjunta
+d. Subdirectores adscritos a la Presidencia;
 
-e. Secretarios de Acuerdos de Salas Regionales
+e. Secretario General de Acuerdos;
 
-f. Secretarios de Estudio y Cuenta (proyectistas)
+f. Secretaria Adjunta;
 
-g. Actuarios
+g. Secretarios de Acuerdos de Salas Regionales;
 
-h. Defensores Jurídicos gratuitos
+h. Secretarios de Estudio y Cuenta (proyectistas);
 
-I (sic). Jefes de Departamentos y de Unidades de Áreas
+i. Actuarios;
 
-j. Secretarios particulares de los Magistrados
+j. Defensores Jurídicos gratuitos;
 
-k. Asistentes de Magistrado.
+k. Jefes de Departamentos y de Unidades de Áreas;
 
-Los servidores judiciales del Tribunal de lo Contencioso Administrativo, prestarán sus servicios en función del nombramiento que le sea expedido por el Consejo de la Judicatura y que contenga:
+l. Secretarios particulares de los Magistrados;
 
-I Nombre del trabajador
-
-II. Tipo de nombramiento
-
-III. Categoría y funciones del puesto
-
-IV. Área de adscripción
-
-V. Plazo o término del nombramiento.
+m. Asistentes de Magistrado.
 
 ###### Artículo 8.
 
@@ -175,23 +165,21 @@ El Tribunal de lo Contencioso Administrativo para fortalecer los mecanismos de a
 
 Los servidores públicos del Tribunal de lo Contencioso Administrativo, disfrutarán de dos períodos de vacaciones en el año, de quince días hábiles cada uno, de acuerdo con el calendario establecido por el Consejo de la Judicatura.
 
-> <small>(ADICIONADO, G.O. 23 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE JULIO DE 2012)</small>
 
 ###### Artículo 11 Bis.
 
-Los servidores públicos referidos en el párrafo segundo del artículo 7 del presente Reglamento quedarán adscritos de la siguiente manera:
+Los servidores públicos del Tribunal de lo Contencioso Administrativo quedarán adscritos de la siguiente manera:
 
-> <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 10 DE JULIO DE 2012)</small>
 
-I. A la Presidencia del Tribunal de lo Contencioso Administrativo: el Director Administrativo, los Subdirectores, Jefes de Departamento, Unidades de apoyo y personal administrativo adscritos a la presidencia; así también los Coordinadores del Instituto de la Justicia Administrativa y los Defensores jurídicos gratuitos, adscritos a la Sala Superior y Salas Regionales;
+I. A la Presidencia del Tribunal de lo Contencioso Administrativo: el Director Administrativo, el Director del Instituto de la Justicia Administrativa, los Subdirectores, Jefes de Departamento, Unidades de apoyo y personal administrativo adscritos a la Presidencia; así también los Coordinadores del Instituto de la Justicia Administrativa y los defensores jurídicos gratuitos adscritos a la Sala Superior y Salas Regionales;
 
-> <small>(F. DE E., G.O. 6 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, G.O. 10 DE JULIO DE 2012)</small>
 
-II. A los Magistrados de la Sala Superior: Secretario General de Acuerdos de la Sala Superior, Secretaria particular de Magistrado, Secretario de Estudio y Cuenta, oficiales de apoyo administrativo asignados a su ponencia;
+II. A los magistrados del Tribunal de lo Contencioso Administrativo: los Secretarios de Acuerdos, Secretarios de Estudio y Cuenta, los actuarios y personal administrativo adscritos a las Salas Superior y Regionales; así como su secretario particular y asistente;
 
-> <small>(F. DE E., G.O. 6 DE JULIO DE 2011)</small>
-
-III. A los Magistrados de las Salas Regionales: Secretaria particular de Magistrado, Secretarios de Estudio y Cuenta, asignados a su ponencia Secretarios de Acuerdos, Actuarios, Oficiales jurisdiccionales y administrativos adscritos a cada Sala;
+III. (DEROGADA, G.O. 10 DE JULIO DE 2012)
 
 > <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2011)</small>
 
@@ -205,7 +193,7 @@ V. Al Secretario General de Acuerdos: normativamente, los Secretarios Adjuntos d
 
 VI. Al Secretario de Acuerdos de las Salas Regionales: la Actuaría, oficialía de Partes, Archivo, oficiales jurisdiccionales, administrativos y de intendencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE JUNIO DE 2011)</small>
 
 ###### Artículo 12.
 
@@ -243,7 +231,7 @@ Los servidores públicos del Tribunal de lo Contencioso Administrativo serán re
 
 Los servidores públicos del Tribunal de lo Contencioso Administrativo, están impedidos para intervenir en asuntos litigiosos, con las salvedades que establece el artículo 159 de la Ley Orgánica del Poder Judicial del Estado.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 23 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 23 DE JUNIO DE 2011)</small>
 
 ### CAPÍTULO SEGUNDO. Del Pleno del Tribunal de lo Contencioso Administrativo
 
@@ -257,7 +245,7 @@ El Pleno del Tribunal de lo Contencioso Administrativo, estará integrado por el
 
 Las sesiones del Pleno se celebrarán en la sede de la Sala Superior, o en su caso, en el lugar que determine aquél. Habrá sesiones ordinarias o extraordinarias. Las primeras tendrán lugar cuando así lo determine este ordenamiento. Las segundas, cuando sea necesario efectuarlas y lo soliciten un mínimo de dos de sus integrantes. La convocatoria respectiva se hará con dos días hábiles de anticipación, anexándose la orden del día correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE JUNIO DE 2011)</small>
 
 ###### Artículo 16 Bis.
 
@@ -277,11 +265,11 @@ Los asuntos generales que proponga la Presidencia del Tribunal de lo Contencioso
 
 El Presidente del Pleno del Tribunal de lo Contencioso Administrativo vigilará que los acuerdos tomados por el pleno se cumplimenten, si no hay impedimento alguno, a partir de la fecha de autorización del acta y a través de quién tenga obligación de ejecutar el acto.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE JULIO DE 2012)</small>
 
 ###### Artículo 17.
 
-Corresponde al Pleno del Tribunal de lo Contencioso Administrativo
+Corresponde al Pleno del Tribunal de lo Contencioso Administrativo:
 
 I. Designar de entre sus miembros al Presidente del Tribunal;
 
@@ -293,7 +281,9 @@ III. Adscribir a los Magistrados a las Salas correspondientes; readscribir a Sec
 
 IV. Discutir y aprobar en su caso, el proyecto de presupuesto de egresos del Tribunal;
 
-V. Discutir y aprobar el Reglamento del Tribunal y disponer su publicación en la Gaceta Oficial del Estado, por conducto del Presidente del Tribunal Superior de Justicia del Estado en términos de ley;
+> <small>(REFORMADA, G.O. 10 DE JULIO DE 2012)</small>
+
+V. Discutir y aprobar el Reglamento del Tribunal y disponer su publicación en la Gaceta Oficial del Estado, por conducto de la Presidencia del Tribunal de lo Contencioso Administrativo, en los términos del presente Reglamento;
 
 VI. Fijar en su respectivo ámbito los precedentes obligatorios, en los términos que señala la Ley Orgánica del Poder Judicial, resolviendo las contradicciones existentes en las Salas;
 
@@ -319,11 +309,11 @@ d) El grado académico que comprende el nivel de estudios con que cuente el serv
 
 e) La antigüedad en el Tribunal de lo Contencioso Administrativo.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 23 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 23 DE JUNIO DE 2011)</small>
 
 ### CAPÍTULO TERCERO. Del Presidente del Tribunal de lo Contencioso Administrativo
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 18.
 
@@ -345,7 +335,7 @@ VI. El Presidente de Debates llamará al Magistrado electo para que rinda la pro
 
 VII. El Secretario General de Acuerdos, en acta pormenorizada dará fe del desarrollo de la sesión.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE JUNIO DE 2011)</small>
 
 ###### Artículo 19.
 
@@ -499,7 +489,7 @@ También conocerán de los asuntos planteados por quienes tengan su domicilio de
 
 ### CAPÍTULO SEXTO. De los Magistrados
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE JUNIO DE 2011)</small>
 
 ###### Artículo 25.
 
@@ -549,7 +539,7 @@ En todo caso, las faltas mayores a diez días consecutivos, sin que medie causa 
 
 Los Magistrados de reciente designación serán adscritos por el Pleno del Tribunal de lo Contencioso Administrativo.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 23 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 23 DE JUNIO DE 2011)</small>
 
 ### CAPÍTULO SÉPTIMO. Del Secretario General de Acuerdos del Tribunal de lo Contencioso Administrativo y de la Sala Superior y las Salas Regionales
 
@@ -569,7 +559,7 @@ IV. Gozar de buena reputación y no haber sido condenado por delito intencional 
 
 V. Haber asistido y aprobado el curso de capacitación del Instituto de Formación, Capacitación y Especialización del Poder Judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE JUNIO DE 2011)</small>
 
 ###### Artículo 30.
 
@@ -673,6 +663,60 @@ XIII. Las demás que expresamente establezcan esta ley y las leyes del Estado.
 
 El Secretario General de Acuerdos de la Sala Superior y los Secretarios de Acuerdos de las Salas Regionales, serán sustituidos en sus faltas temporales y en los casos de excusa y recusación, por el servidor público que designe el Presidente del Tribunal o el Magistrado de la Sala Regional correspondiente.
 
+> <small>(ADICIONADO, G.O. 10 DE JULIO DE 2012)</small>
+
+###### Artículo 34 Bis.
+
+Para la organización y control de las Secretarías de Acuerdos de las Salas Superior y Regionales, sus titulares estarán obligados a llevar los Libros de Gobierno siguientes:
+
+I. Sala Superior
+
+a) Índice;
+
+b) De amparo directo;
+
+c) De amparo indirecto;
+
+d) De incidentes;
+
+e) De cuadernos auxiliares;
+
+f) De registro de cédulas;
+
+g) De oficios;
+
+h) De cuadernos de ejecución de sentencia;
+
+i) De exhortos;
+
+j) De incompetencia;
+
+k) Y los relativos a la actuaría.
+
+II. Salas Regionales
+
+a) Índice;
+
+b) De incidentes;
+
+c) De recursos de revisión;
+
+d) De cuadernos auxiliares;
+
+e) De amparo directo;
+
+t) De amparo indirecto;
+
+g) De registro de nombramientos de autoridades;
+
+h) De cédulas profesionales;
+
+i) De recibos de depósito correspondientes al Fondo Auxiliar de Administración de Justicia;
+
+j) De registro de pliego de posiciones;
+
+k) Y los relativos a la actuaría.
+
 #### SECCIÓN CUARTA. De los Secretarios de Estudio y Cuenta
 
 ###### Artículo 35.
@@ -759,7 +803,7 @@ III. Proyectar los acuerdos de trámite que procedan, así como los informes pre
 
 IV. Todas las demás que procedan de acuerdo a las disposiciones legales de la materia.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 23 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 23 DE JUNIO DE 2011)</small>
 
 ## TÍTULO TERCERO. DE LOS ÓRGANOS AUXILIARES DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO
 
@@ -773,17 +817,17 @@ El Presidente podrá crear las Unidades Administrativas de Apoyo que estime nece
 
 La Dirección Administrativa, las Subdirecciones, Jefaturas de Departamento y las Unidades de Apoyo Administrativo tendrán a su cargo administrar los recursos humanos, materiales, tecnológicos y financieros del Tribunal; transparentar la información pública con apego a la reglamentación interna; así como mantener una organización administrativa integral tecnificada y sistematizada en lo relativo a los aspectos precisados, que coadyuve con las funciones fundamentales del Tribunal, proporcionando además el apoyo que le sea requerido en servicios de mensajería, fotocopiado, transportación y resguardo de los bienes y valores a disposición del Tribunal.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 26 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 26 DE OCTUBRE DE 2011)</small>
 
 ### CAPÍTULO PRIMERO. De la Dirección Administrativa
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 47.
 
 La Dirección Administrativa es la encargada de la administración de los recursos financieros, humanos, materiales y de servicios generales del Tribunal de lo Contencioso Administrativo.
 
-> <small>(ADICIONADO PRIMER PARRAFO, G.O. 26 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, G.O. 26 DE OCTUBRE DE 2011)</small>
 
 Para ser Director Administrativo del Tribunal se requiere:
 
@@ -797,7 +841,7 @@ IV. Tener una experiencia mínima de tres años en el ejercicio de su profesión
 
 V. Gozar de buena reputación y no haber sido condenado por delito patrimonial.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 48.
 
@@ -923,7 +967,7 @@ XXX. Elaborar los proyectos de manuales de organización y procedimientos del Tr
 
 XXXI. Las demás que sean necesarias para hacer efectivas las funciones anteriores.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 26 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 26 DE OCTUBRE DE 2011)</small>
 
 ### CAPÍTULO SEGUNDO. De la Subdirección de Estadística y Sistema de Tecnología e Informática judicial
 
@@ -1007,7 +1051,7 @@ XXIII. Someter a consideración del Comité Editorial, la publicación de la rev
 
 XXIV. Coadyuvar en la administración de la base de datos del sistema integral automatizado de bibliotecas (SIABUC).
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE JUNIO DE 2011)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE JUNIO DE 2011)</small>
 
 ### CAPÍTULO TERCERO. De la Subdirección de Comunicación y Difusión
 
@@ -1023,15 +1067,15 @@ XXIV. Coadyuvar en la administración de la base de datos del sistema integral a
 
 ### CAPÍTULO TERCERO (SIC). De la Subdirección de Supervisión de los Servicios de Defensoría Jurídica Gratuita
 
-> <small>(REFORMADO, G.O. 26 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, G.O. 10 DE JULIO DE 2012)</small>
 
 ###### Artículo 53.
 
-La subdirección supervisará y vigilará el cumplimiento de los servicios de defensoría jurídica gratuita que presta el Tribunal de lo Contencioso Administrativo conforme a lo establecido en los Lineamientos aprobados por el Pleno; asimismo será responsable de coordinar, verificar y participar en las jornadas itinerantes de defensoría gratuita, que de manera permanente realizarán los defensores jurídicos adscritos a las Sala Superior y Regionales.
+La Subdirección de Supervisión de los Servicios de Defensoría Jurídica Gratuita, supervisará y vigilará el cumplimiento de los servicios de defensoría jurídica gratuita que presta el Tribunal de lo Contencioso Administrativo conforme a lo establecido en los Lineamientos aprobados por el Pleno; asimismo será responsable de coordinar, verificar y participar en las jornadas itinerantes de defensoría gratuita, que de manera permanente realizarán los defensores jurídicos adscritos a las Sala Superior y Regionales.
 
-Los Servicios de Defensoría jurídica gratuita, se prestarán a los gobernados que lo soliciten. Para gozar del beneficio de los servicios que presta el Tribunal de lo Contencioso Administrativo, se observarán los requisitos previstos en este reglamento.
+Asimismo, representará legalmente a los titulares de: Presidencia, Sala Superior y Regionales, ante instancias jurisdiccionales de carácter federal o estatal, e intervendrá en los juicios laborales en los que el Tribunal de lo Contencioso Administrativa (sic) sea parte.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE JUNIO DE 2011)</small>
 
 ###### Artículo 54.
 
@@ -1047,7 +1091,7 @@ IV. Los gobernados pertenecientes a alguna etnia.
 
 En caso de que este servicio sea solicitado por partes contrarias o con intereses opuestos, se prestará el servicio a quién lo haya solicitado primero.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE JUNIO DE 2011)</small>
 
 ###### Artículo 55.
 
@@ -1063,43 +1107,47 @@ IV. Acreditar experiencia mínima de tres años en el ejercicio de su profesión
 
 V. Gozar de buena reputación, prestigio profesional y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión.
 
-(REFORMADO PRIMER PARRAFO, G.O. 23 DE JUNIO DE 2011) (F. DE E., G.O. 6 DE JULIO DE 2011)
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE JULIO DE 2012)</small>
 
 ###### Artículo 56.
 
-Corresponde al Subdirector de la Supervisión de los Servicios de la Defensoría Jurídica y Gratuita, las atribuciones siguientes:
+Corresponde al Subdirector de la Supervisión de los Servicios de Defensoría Jurídica Gratuita, las atribuciones siguientes:
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 23 DE JUNIO DE 2011)</small>
 
 I. Dar cuenta a la Presidencia, con los asuntos de su competencia;
 
+> <small>(ADICIONADA, G.O. 10 DE JULIO DE 2012)</small>
+
+II. Intervenir en representación del Tribunal, los titulares de: Presidencia, Sala Superior y Regionales, en los juicios o controversias laborales en que sean parte ante Tribunales federales y locales;
+
 > <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 23 DE JUNIO DE 2011)</small>
 
-II. Supervisar los servicios de Defensoría jurídica gratuita que preste el Tribunal de lo Contencioso Administrativo, a través del sistema de seguimiento de la defensoría jurídica (SISED);
+III. Supervisar los servicios de Defensoría jurídica gratuita que preste el Tribunal de lo Contencioso Administrativo, a través del sistema de seguimiento de la defensoría jurídica (SISED);
 
 (ADICIONADA [N. DE E. REFORMADA], G.O. 23 DE JUNIO DE 2011) (F. DE E., G.O. 6 DE JULIO DE 2011)
 
-III. Vigilar que el servicio de defensoría jurídica se preste conforme a los Lineamientos aprobados por el Pleno del Tribunal de lo Contencioso Administrativo.
+IV. Vigilar que el servicio de defensoría jurídica se preste conforme a los Lineamientos aprobados por el Pleno del Tribunal de lo Contencioso Administrativo.
 
-IV. Vigilar que se cumplan todas y cada una de las obligaciones impuestas a los defensores jurídicos;
+V. Vigilar que se cumplan todas y cada una de las obligaciones impuestas a los defensores jurídicos;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 23 DE JUNIO DE 2011)</small>
 
-V. Informar a la Presidencia del Tribunal de lo Contencioso Administrativo, de las quejas que se presenten contra los defensores jurídicos y en su caso previo acuerdo, investigar la probable responsabilidad;
+VI. Informar a la Presidencia del Tribunal de lo Contencioso Administrativo, de las quejas que se presenten contra los defensores jurídicos y en su caso previo acuerdo, investigar la probable responsabilidad;
 
-VI. (DEROGADA, G.O. 23 DE JUNIO DE 2011) (F. DE E., G.O. 6 DE JULIO DE 2011)
-
-> <small>(ADICIONADA, G.O. 23 DE JUNIO DE 2011)</small>
-
-VII. Inspeccionar que la asesoría jurídica gratuita en línea, se atienda por los defensores jurídicos adscritos a las Salas Regionales, con la inmediatez debida;
+VII. (DEROGADA, G.O. 23 DE JUNIO DE 2011) (F. DE E., G.O. 6 DE JULIO DE 2011)
 
 > <small>(ADICIONADA, G.O. 23 DE JUNIO DE 2011)</small>
 
-VIII. Informar a la Presidencia del Tribunal de lo Contencioso Administrativo, sobre el incumplimiento de obligaciones de los defensores jurídicos, por el cual se deba imponer sanciones y correcciones disciplinarias; y
+VIII. Inspeccionar que la asesoría jurídica gratuita en línea, se atienda por los defensores jurídicos adscritos a las Salas Regionales, con la inmediatez debida;
+
+> <small>(REFORMADA, G.O. 10 DE JULIO DE 2012)</small>
+
+IX. Informar a la Presidencia del Tribunal de lo Contencioso Administrativo, sobre el incumplimiento de obligaciones de los defensores jurídicos, por el cual se deba imponer sanciones y correcciones disciplinarias; y,
 
 > <small>(ADICIONADA, G.O. 23 DE JUNIO DE 2011)</small>
 
-IX. Rendir un informe mensual a la Presidencia, sobre las actividades integrales desarrolladas por todos los Defensores Jurídicos adscritos a las Salas Regionales.
+X. Rendir un informe mensual a la Presidencia, sobre las actividades integrales desarrolladas por todos los Defensores Jurídicos adscritos a las Salas Regionales.
 
 ###### Artículo 57.
 
@@ -1115,7 +1163,7 @@ IV. Gozar de buena reputación y no haber sido condenado por delito intencional 
 
 IV (SIC). Haber asistido y aprobado el curso de capacitación del Instituto de Formación, Capacitación y Especialización del Poder Judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE JUNIO DE 2011)</small>
 
 ###### Artículo 58.
 
@@ -1179,7 +1227,7 @@ Los Defensores Jurídicos actuarán y serán responsables de la elaboración de 
 
 La Subdirección será la encargada de las funciones de formación profesional y capacitación, de los servidores jurisdiccionales y empleados del Tribunal de lo Contencioso Administrativo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 62.
 
@@ -1193,7 +1241,7 @@ III. Poseer título de Licenciado en Derecho y contar preferentemente con un pos
 
 IV. Tener experiencia mínima de cinco años.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE JUNIO DE 2011)</small>
 
 ###### Artículo 63.
 
@@ -1265,11 +1313,11 @@ En la Sala Superior y Salas Regionales serán de información confidencial, los 
 
 Los datos personales de los Magistrados y de los servidores públicos del Tribunal, sólo podrán ser proporcionados, mediante su consentimiento.
 
-> <small>(ADICIONADO [N. DE E. REFORMADA SU DENOMINACION], G.O. 12 DE ENERO DE 2011)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADA SU DENOMINACIÓN], G.O. 12 DE ENERO DE 2011)</small>
 
 ## TÍTULO CUARTO. DEL INSTITUTO DE LA JUSTICIA ADMINISTRATIVA
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 12 DE ENERO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 12 DE ENERO DE 2011)</small>
 
 ### CAPÍTULO PRIMERO. Del Instituto de la Justicia Administrativa
 
@@ -1281,65 +1329,71 @@ El Tribunal de lo Contencioso Administrativo contará con el Instituto de la Jus
 
 La misión del Instituto de la Justicia Administrativa es garantizar mediante la docencia, investigación, divulgación y difusión, la profesionalización de los servidores públicos del Tribunal de lo Contencioso Administrativo.
 
-> <small>(REFORMADO, G.O. 12 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, G.O. 10 DE JULIO DE 2012)</small>
 
 ###### Artículo 70.
 
-El Instituto, dependerá de la Presidencia del Tribunal de lo Contencioso Administrativo; en su estructura orgánica se integrará con las siguientes Coordinaciones: de Docencia; de Investigación Revista Digital y Biblioteca; cuyos titulares serán nombrados por el Pleno del Tribunal a propuesta de la Presidencia.
+El Instituto dependerá de la Presidencia del Tribunal de lo Contencioso Administrativo; en su estructura orgánica se integrará con las siguientes Coordinaciones: de Investigación académica y empírica y Biblioteca; cuyos titulares serán nombrados por la Presidencia del Tribunal de lo Contencioso Administrativo.
 
-> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, G.O. 10 DE JULIO DE 2012)</small>
 
 ###### Artículo 71.
 
-El Instituto de la Justicia Administrativa, contará con un Director nombrado por el Pleno del Tribunal, a propuesta de la Presidencia; y para el cumplimiento de sus funciones y objetivos, dispondrá del personal administrativo que determine el presupuesto de egresos autorizado del Tribunal.
+El director del Instituto de la Justicia Administrativa, será nombrado por el Pleno del Tribunal de lo Contencioso Administrativo; para el cumplimiento de sus funciones y objetivos, dispondrá del personal administrativo que determine el presupuesto de egresos autorizado.
 
-> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, G.O. 10 DE JULIO DE 2012)</small>
 
 ###### Artículo 72.
 
 Para ser Director del Instituto de Justicia Administrativa se requiere:
 
-I. Ser magistrado en activo o en retiro del Tribunal de lo Contencioso Administrativo;
+I. Ser mexicano en pleno ejercicio de sus derechos;
 
-II. Haberse distinguido por su labor docente y de investigación en Instituciones de Educación Superior en las áreas del Derecho Administrativo y Fiscal;
+II. Contar con treinta años de edad, a la fecha de su nombramiento;
 
-III. Poseer grado académico de maestría o doctor, preferentemente.
+III. Haberse distinguido por su labor docente y de investigación en Instituciones de Educación Superior en las áreas del Derecho Administrativo y Fiscal;
 
-> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+IV. Poseer grado académico de maestría o doctorado, preferentemente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE JULIO DE 2012)</small>
 
 ###### Artículo 73.
 
-El Director del Instituto tendrá las siguientes atribuciones:
+El Director del Instituto tendrá las atribuciones siguientes:
 
-I. Presentar por conducto del Presidente, para aprobación del Pleno del Tribunal, el programa anual de actividades del Instituto;
+> <small>(REFORMADA, G.O. 10 DE JULIO DE 2012)</small>
 
-II. Planear, coordinar, operar y evaluar la impartición de cursos y programas de formación y superación del personal jurídico y jurisdiccional del Tribunal;
+I. Presentar por conducto de la Presidencia, para aprobación del Pleno del Tribunal de lo Contencioso Administrativo, el programa anual de actividades;
 
-III. Formular, de manera conjunta con la Subdirección de Formación Profesional Capacitación, Especialización y Actualización del Tribunal, el Estatuto Académico, las convocatorias, programas particulares y contenidos temáticos correspondientes a los cursos, programas académicos y diplomados que se impartan;
+II. (DEROGADA, G.O. 10 DE JULIO DE 2012)
 
-IV. Tramitar por conducto del Presidente, permisos y autorizaciones ante las autoridades competentes para realizar las funciones correspondientes;
+> <small>(REFORMADA, G.O. 10 DE JULIO DE 2012)</small>
 
-V. Presentar por conducto del Presidente, al Pleno del Tribunal, para su aprobación y operación, los programas de estudio e investigación en materia jurídico-administrativa, para el desarrollo y mejoramiento de las funciones del Tribunal;
+III. Formular las convocatorias, programas particulares y contenidos temáticos correspondientes a los cursos académicos y diplomados que se impartan;
 
-> <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 10 DE JULIO DE 2012)</small>
 
-VI. Someter a la aprobación de la Presidencia del Tribunal de lo Contencioso Administrativo, el programa de conferencias y cursos a otras instituciones, órganos jurisdiccionales y universidades en las materias de la competencia del Tribunal de lo Contencioso Administrativo;
+IV. Tramitar por conducto de la Presidencia, permisos y autorizaciones ante las autoridades competentes para realizar las funciones correspondientes;
 
-> <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 10 DE JULIO DE 2012)</small>
 
-VII. Proponer a la Presidencia las publicaciones que edite el Tribunal de lo Contencioso Administrativo, así como los materiales didácticos y de cualquier otra índole necesarios para el desarrollo de sus funciones;
+V. Presentar por conducto de la Presidencia al Pleno del Tribunal de lo Contencioso Administrativo, para su aprobación y operación, los programas de investigación en materia jurídico administrativa, para el desarrollo y mejoramiento de las funciones del Claustro de Investigadores;
+
+> <small>(REFORMADA, G.O. 10 DE JULIO DE 2012)</small>
+
+VI. Someter a la aprobación del Pleno del Tribunal de lo Contencioso Administrativo por conducto de la Presidencia, el programa de conferencias y cursos a otras instituciones, órganos jurisdiccionales y universidades en las materias de la competencia del Tribunal de lo Contencioso Administrativo;
+
+VII. (DEROGADA, G.O. 10 DE JULIO DE 2012)
 
 > <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2011)</small>
 
 VIII. Proponer a la Presidencia del Tribunal de lo Contencioso Administrativo, la celebración de convenios con Instituciones y Centros de Educación Superior y Órganos Impartidores de Justicia, para acrecentar el acervo bibliográfico de la biblioteca jurídica del Instituto;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE OCTUBRE DE 2011)</small>
+IX. (DEROGADA, G.O. 10 DE JULIO DE 2012)
 
-IX. Someter a consideración del Comité Editorial de la Revista Digital del Tribunal, las reglas de publicación;
+> <small>(REFORMADA, G.O. 10 DE JULIO DE 2012)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE OCTUBRE DE 2011)</small>
-
-X. Aprobar la metodología de investigación que aplicará el claustro de investigadores del Instituto; y,
+X. Difundir entre los integrantes del Claustro de Investigadores del Instituto de la Justicia Administrativa, la observancia de los Lineamientos para la redacción y publicación de Textos Jurídicos, en la Revista Digital vigentes; y,
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE OCTUBRE DE 2011)</small>
 
@@ -1367,15 +1421,15 @@ Corresponde al Coordinador de Investigación Académica y Empírica, las atribuc
 
 I. Ejecutar las acciones y estrategias plasmadas en el programa anual de actividades del Instituto de la Justicia Administrativa;
 
-II. Proponer al Director del Instituto de la Justicia Administrativa, la metodología de investigación a la que se sujetarán los integrantes del Claustro de Investigadores;
+II. (DEROGADA, G.O. 10 DE JULIO DE 2012)
 
 III. Coadyuvar en la realización, promoción y difusión de los cursos de capacitación, actualización profesional y demás eventos organizados por el Instituto de la Justicia Administrativa;
 
-IV. Someter a consideración del Director del Instituto de la Justicia Administrativa, las reglas de publicación para la revista digital; y,
+IV. (DEROGADA, G.O. 10 DE JULIO DE 2012)
 
 V. Las demás que le confiera el Director del Instituto de la Justicia Administrativa.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 12 DE ENERO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 12 DE ENERO DE 2011)</small>
 
 ### CAPÍTULO SEGUNDO. De la Revista Digital y del Comité Editorial
 
@@ -1393,11 +1447,11 @@ La Revista Digital estará dirigida por un Comité Editorial, que tendrá por ob
 
 El Comité Editorial estará integrado por la Presidencia del Tribunal, un Secretario Técnico elegido entre los Magistrados integrantes del Pleno del Tribunal; y tres Vocales, de preferencia distinguidos Magistrados en retiro, y/o académicos e investigadores pertenecientes a Instituciones de Educación Superior de reconocido prestigio en nuestra entidad.
 
-> <small>(REFORMADO, G.O. 26 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE JULIO DE 2012)</small>
 
 ###### Artículo 76.
 
-El Comité tendrá las siguientes atribuciones:
+El Comité tendrá las atribuciones siguientes:
 
 I. Aprobar la política editorial del Tribunal de lo Contencioso Administrativo;
 
@@ -1405,13 +1459,21 @@ II. Analizar y en su caso aprobar el programa editorial anual que se proponga;
 
 III. Emitir los dictámenes sobre el material que integrará las publicaciones;
 
-IV. Realizar la integración contenido, edición y formación tipográfica de la revista digital;
+> <small>(REFORMADA, G.O. 10 DE JULIO DE 2012)</small>
 
-V. Remitir a la Subdirección de Estadística y Sistema de Tecnología e Informática el contenido a publicar en la revista digital; y,
+IV. Realizar la integración, contenido, edición y formación tipográfica de la revista digital;
 
-VI. Las demás que conlleven a la divulgación, difusión y comunicación del mejor conocimiento de los temas de índole fiscal y administrativa.
+> <small>(REFORMADA, G.O. 10 DE JULIO DE 2012)</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 12 DE ENERO DE 2011)</small>
+V. Remitir a la Subdirección de Estadística y Sistemas de Tecnología e Informática el contenido a publicar en la revista digital;
+
+> <small>(ADICIONADA, G.O. 10 DE JULIO DE 2012)</small>
+
+VI. Vigilar el debido cumplimiento de los lineamientos para la redacción y publicación de textos jurídicos, en la Revista Digital vigentes; y,
+
+VII. Las demás que conlleven a la divulgación, difusión y comunicación del mejor conocimiento de los temas de índole fiscal y administrativa.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 12 DE ENERO DE 2011)</small>
 
 ### CAPÍTULO TERCERO. De la Biblioteca del Instituto
 
@@ -1647,11 +1709,11 @@ Las sanciones serán determinadas por el Coordinador Coordinador (sic) de la bib
 
 El personal adscrito al Tribunal, como usuario interno, que deje de prestar sus servicios, deberá recabar de la biblioteca el oficio de no adeudo de material bibliográfico, para que surta efectos de liberación.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, G.O. 12 DE ENERO DE 2011)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.O. 12 DE ENERO DE 2011)</small>
 
 ## TÍTULO QUINTO. DE LAS REFORMAS AL REGLAMENTO
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 12 DE ENERO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 12 DE ENERO DE 2011)</small>
 
 ### CAPÍTULO ÚNICO. Del Procedimiento de Reforma
 
@@ -1741,7 +1803,7 @@ El C. licenciado Ismael de los Santos y Rodríguez, secretario general de Acuerd
 
 Que el presente Reglamento Interior, fue aprobado por el Pleno del Tribunal, en Ejercicio de la Facultad que le confiere el artículo 50 bis, fracción IV de la Ley Orgánica del Poder Judicial del Estado de Veracruz de Ignacio de la Llave, en sesión celebrada el día viernes trece de noviembre del año dos mil nueve, por unanimidad de votos fue aprobado el presente Reglamento por los ciudadanos magistrados que integran el Pleno del Tribunal por (sic) ante el secretario general de Acuerdos habilitado que autoriza y da fe. Conste.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 G.O. 12 DE ENERO DE 2011.
 
@@ -1754,3 +1816,7 @@ Artículo único. Las reformas, modificación y adiciones al presente Reglamento
 G.O. 26 DE OCTUBRE DE 2011.
 
 Artículo Único. Las reformas, modificación y adiciones al presente reglamento entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+G.O. 10 DE JULIO DE 2012.
+
+Artículo Único. Las reformas, modificación y adiciones al presente Reglamento entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
