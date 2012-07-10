@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-84025"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-25"
-last_updated: "2012-05-08"
+last_updated: "2012-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2012.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 25 de noviembre de 2011.
 
@@ -587,11 +587,13 @@ Las autoridades competentes para expedir los certificados de aeronavegabilidad o
 
 ###### ARTICULO 51.
 
-Tratándose de vehículos de fabricación nacional o importados, a que se refieren los artículos 38, fracción II y 47 de esta Ley, así como de aeronaves, excepto automóviles destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor que corresponda conforme a los años de antigüedad del vehículo, de acuerdo con la siguiente:
+Tratándose de aeronaves usadas de hasta nueve años de antigüedad, el impuesto será la cantidad que resulte de multiplicar el peso máximo incluyendo la carga de la aeronave expresado en toneladas, por la cantidad de $7,313.00 (SIETE MIL TRESCIENTOS TRECE PESOS 00/100 M.N.) para aeronaves de pistón, turbo hélice y helicópteros y por la cantidad de $7,877.00 (SIETE MIL OCHOCIENTOS SETENTA Y SIETE PESOS 00/100 M.N.) para aeronaves de reacción.
+
+Al resultado obtenido, se multiplicará por el factor que corresponda conforme a los años de antigüedad de la aeronave de acuerdo a la siguiente tabla:
 
 TABLA
 
-Años de antigüedad Factor de depreciación
+Años de antigüedad Factor
 
 1 0.900
 
@@ -611,13 +613,43 @@ Años de antigüedad Factor de depreciación
 
 9 0.500
 
-El resultado obtenido conforme al párrafo anterior, se actualizará de acuerdo a lo dispuesto en el artículo 3 de esta Ley.
+La cantidad obtenida conforme al párrafo anterior, se actualizará con el factor que resulte de dividir el Índice Nacional de Precios al Consumidor del mes de octubre del año inmediato anterior entre el citado índice del mes de octubre del año anterior al señalado, de conformidad a lo dispuesto en el artículo 3 de esta Ley, obteniendo el importe a pagar.
 
-Tratándose de automóviles de servicio particular que pasen a ser de servicio público de transporte denominados "taxis", el impuesto sobre tenencia o uso de vehículos se calculará, para el ejercicio fiscal siguiente a aquél en el que se dé esta circunstancia, conforme al siguiente procedimiento:
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2012)</small>
 
-El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la tabla establecida en este artículo, y el resultado obtenido se deberá multiplicar por 0.245%.
+###### ARTÍCULO 51-A.
 
-Para los efectos de este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+Tratándose de vehículos de fabricación nacional o importados, de hasta nueve años modelos anteriores al de aplicación a que se refieren los artículos 38, fracción II y 47 de esta Ley, excepto automóviles destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+I. El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
+
+TABLA
+
+Años de Factor
+
+antigüedad
+
+1 0.900
+
+2 0.889
+
+3 0.875
+
+4 0.857
+
+5 0.833
+
+6 0.800
+
+7 0.750
+
+8 0.667
+
+9 0.500
+
+II. Al resultado obtenido conforme a la fracción anterior, se multiplicara por el factor de 0.245% si el peso bruto vehicular es menor a 15 toneladas o por 0.50% si el peso bruto vehicular esta entre 15 y 35 toneladas, multiplicados por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas entre 30. En el caso de que el peso sea mayor de 35 toneladas se tomará como peso bruto máximo esta cantidad.
+
+III. La cantidad obtenida conforme a la fracción anterior, se actualizará con el factor que resulte de dividir el Índice Nacional de Precios al Consumidor del mes de octubre del año inmediato anterior entre el citado índice del mes de octubre del año anterior al señalado, de conformidad a los (sic) dispuesto en el artículo 3 de esta Ley, obteniendo el importe a pagar.
 
 ###### ARTICULO 52.
 
@@ -647,9 +679,11 @@ Años de antigüedad Factor de depreciación
 
 9 0.075
 
-II. La cantidad obtenida conforme a la fracción anterior, se actualizará de acuerdo a lo dispuesto en el artículo 3 de esta Ley y al resultado se le aplicará la tarifa a que hace referencia el artículo 38 fracción I de esta Ley.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2012)</small>
 
-Para efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+II. La cantidad obtenida conforme a la fracción anterior, se actualizará con el factor que resulte de dividir el Índice Nacional de Precios al Consumidor del mes de octubre del año inmediato anterior entre el citado índice del mes de octubre del año anterior al señalado, de acuerdo a lo dispuesto en el artículo 3 de esta Ley y al resultado se le aplicará la tarifa a que hace referencia el artículo 38 fracción I de esta Ley.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 10 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 53.
 
@@ -848,6 +882,8 @@ Es base de este impuesto el volumen de materiales pétreos o de los derivados a 
 TASA
 
 #### SECCION TERCERA. VEHICULOS USADOS DE HASTA NUEVE AÑOS DE ANTIGÜEDAD
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 69.
 
@@ -1491,13 +1527,17 @@ TARIFA
 
 I. Expedición de tarjetas de circulación y calcomanía con número identificatorio o refrendo anual:
 
-1. Automóviles, camiones y camionetas:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2012)</small>
 
-a. Hasta de 10 años de fabricación anteriores al ejercicio fiscal en curso, $1,250.00 (MIL DOSCIENTOS CINCUENTA PESOS 00/100 M.N.).
+1. Para los siguientes vehículos:
 
-b. De más de 10 años y hasta 20 años de fabricación anteriores al ejercicio fiscal en curso, $670.00 (SEISCIENTOS SETENTA PESOS 00/100 M.N.).
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2012)</small>
 
-c. De más de 20 años de fabricación anteriores al ejercicio fiscal en curso, $460.00 (CUATROCIENTOS SESENTA PESOS 00/100 M.N.).
+a. Automóviles, camiones y camionetas, $1,250.00 (MIL DOSCIENTOS CINCUENTA PESOS 00/100 M.N.).
+
+b. (DEROGADO, P.O. 10 DE JULIO DE 2012)
+
+c. (DEROGADO, P.O. 10 DE JULIO DE 2012)
 
 d. Los vehículos de carga de tres o más toneladas, omnibuses y tractores no agrícolas tipo quinta rueda, además de la cuota que les corresponde conforme a los subincisos anteriores, deberán pagar la cantidad de $710.00 (SETECIENTOS DIEZ PESOS 00/100 M.N.) con el refrendo anual, a excepción de los vehículos que presten el servicio público de pasajeros o carga, mediante concesión otorgada por las autoridades estatales o municipales.
 
@@ -2139,7 +2179,9 @@ Los derechos a que se refiere este capítulo se causarán conforme a la siguient
 
 TARIFA
 
-I. $25.00 (VEINTICINCO PESOS 10/100 M.N.) del precio comercial de la tonelada del mineral beneficiado cuando sea mejorado, lavado, homogenizado, o trasladado.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2012)</small>
+
+I. $38.25 (TREINTA Y OCHO PESOS 25/100 M.N.) del precio comercial de la tonelada del mineral beneficiado cuando sea mejorado, lavado, homogenizado, o trasladado.
 
 II. La Secretaría de Fomento Económico, podrá prestar servicios para la capacitación y la comercialización a los productores mineros del Estado y prestarles asistencia técnica. Los derechos por este concepto se determinarán en el convenio que se celebre con los productores.
 
@@ -2902,6 +2944,20 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE JULIO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
 
 ###### ARTÍCULO TERCERO.
 
