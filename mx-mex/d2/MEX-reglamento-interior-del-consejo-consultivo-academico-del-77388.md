@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-consejo-consultivo-academico-del-77388"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-18"
-last_updated: "2010-11-18"
+last_updated: "2012-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL CONSEJO CONSULTIVO ACADÉMICO DEL COLEGIO DE BACHILLERES DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE JULIO DE 2012.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el jueves 18 de noviembre de 2010.
 
@@ -121,7 +121,9 @@ a) El Jefe de Departamento de Docencia y Orientación Educativa;
 
 b) El Jefe de Departamento de Control Escolar;
 
-c) El Abogado General;
+> <small>(REFORMADO, G.G. 10 DE JULIO DE 2012)</small>
+
+c) El Jefe de la Unidad Jurídica;
 
 d) Un Director de Plantel, representante de la región norponiente;
 
@@ -130,6 +132,18 @@ e) Un Director de Plantel, representante de la región nororiente;
 f) Un Director de Plantel, representante de la región surponiente;
 
 g) Un Director de Plantel, representante de la región oriente.
+
+> <small>(ADICIONADO, G.G. 10 DE JULIO DE 2012)</small>
+
+h) El Director de Planeación y Evaluación Institucional;
+
+> <small>(ADICIONADO, G.G. 10 DE JULIO DE 2012)</small>
+
+i) El Director de Administración y Finanzas, y
+
+> <small>(ADICIONADO, G.G. 10 DE JULIO DE 2012)</small>
+
+j) El Jefe de la Unidad de Difusión, Extensión y Vinculación.
 
 El Consejo podrá invitar a sus sesiones a representantes y asesores de los CEMSAD, docentes y personal de apoyo del COBAEM, así como profesionales vinculados con actividades académicas.
 
@@ -248,3 +262,13 @@ M. EN A.P. LILIANA ROMERO MEDINA
 DIRECTORA GENERAL DEL COLEGIO DE BACHILLERES Y SECRETARIA DE LA JUNTA DIRECTIVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 10 DE JULIO DE 2012.
+
+PRIMERO.- Publíquese la presente reforma en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se deja sin efecto lo previsto en el inciso c) de la fracción III del artículo 6, del Reglamento Interior del Consejo Consultivo Académico del Colegio de Bachilleres del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, de fecha 18 de noviembre de 2010.
