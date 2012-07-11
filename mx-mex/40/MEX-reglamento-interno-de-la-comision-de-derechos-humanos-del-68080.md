@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-comision-de-derechos-humanos-del-68080
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-14"
-last_updated: "2011-10-05"
+last_updated: "2012-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE JULIO DE 2012.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 14 de abril de 2009.
 
@@ -135,15 +135,21 @@ Para el despacho de los asuntos que directamente correspondan al Presidente, és
 
 I. Unidad Jurídica y Consultiva;
 
-II. Unidad de Información y Planeación Estratégica; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 11 DE JULIO DE 2012)</small>
+
+II. Unidad de Información, Planeación y Evaluación; y
 
 III. Unidad de Comunicación Social.
 
-> <small>(REFORMADO, G.G. 4 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 11 DE JULIO DE 2012)</small>
 
 ###### Artículo 8.
 
-Para la atención de quejas y el despacho de los asuntos que directamente correspondan a la Primera Visitaduría General, ésta contará con cinco Visitadurías Generales, la Dirección de Programas Especiales, así como las unidades administrativas establecidas en el Manual General de Organización del Organismo.
+Para la atención de quejas y el despacho de los asuntos que directamente correspondan a la Primera Visitaduría General, ésta contará con siete Visitadurías Generales, la Dirección de Programas Especiales, así como las unidades administrativas establecidas en el Manual General de Organización de la Comisión.
 
 > <small>(REFORMADO, G.G. 4 DE MAYO DE 2011)</small>
 
@@ -151,15 +157,43 @@ Para la atención de quejas y el despacho de los asuntos que directamente corres
 
 Las Visitadurías Generales se organizarán de conformidad con la denominación y distribución territorial siguiente:
 
-I. La Visitaduría General sede Toluca, tendrá competencia en el territorio que comprenden los municipios de: Acambay; Aculco; Almoloya de Alquisiras; Almoloya de Juárez; Almoloya del Río; Atizapán; Atlacomulco; Amanalco; Amatepec; Calimaya; Capulhuac; Chapa de Mota; Chapultepec; Coatepec Harinas; Donato Guerra; El Oro; Huixquilucan; Ixtapan de la Sal; Ixtapan del Oro; Ixtlahuaca; Jilotepec; Jiquipilco; Jocotitlán; Joquicingo; Lerma; Luvianos; Malinalco; Metepec; Mexicaltzingo; Morelos; Ocoyoacac; Ocuilan; Otzoloapan; Otzolotepec; Polotitlán; Rayón; San Antonio la Isla; San Felipe del Progreso; San José del Rincón; San Mateo Atenco; San Simón de Guerrero; Santo Tomás; Soyaniquilpan de Juárez; Sultepec; Tejupilco; Temascalcingo; Temascaltepec; Temoaya; Tenancingo; Tenango del Valle; Texcaltitlán; Texcalyacac; Tianguistenco; Timilpan; Tlatlaya; Toluca; Tonatico; Valle de Bravo; Villa de Allende; Villa Guerrero; Villa Victoria; Xalatlaco; Xonacatlán; Zacazonapan; Zacualpan; Zinacantepec y Zumpahuacán;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. La Visitaduría General sede Tlalnepantla, tendrá competencia en el territorio que comprenden los municipios de: Apaxco; Atizapán de Zaragoza; Coyotepec; Cuautitlán; Cuautitlán Izcalli; Huehuetoca; Hueypoxtla; Isidro Fabela; Jilotzingo; Melchor Ocampo; Naucalpan de Juárez; Nicolás Romero; Teoloyucan; Tepotzotlán; Tequixquiac; Tlalnepantla de Baz; Villa del Carbón y Zumpango;
+> <small>(REFORMADA, G.G. 11 DE JULIO DE 2012)</small>
+
+I. La Visitaduría General sede Toluca, tendrá competencia en el territorio que comprenden los municipios de: Almoloya de Alquisiras; Almoloya de Juárez; Almoloya del Río; Atizapán; Amanalco; Amatepec; Calimaya; Capulhuac; Chapultepec; Coatepec Harinas; Donato Guerra; Ixtapan de la Sal; Ixtapan del Oro; Joquicingo; Lerma; Luvianos; Malinalco; Metepec; Mexicaltzingo; Ocoyoacac; Ocuilan; Otzoloapan; Otzolotepec; Rayón; San Antonio la Isla; San Mateo Atenco; San Simón de Guerrero; Santo Tomás; Sultepec; Tejupilco; Temascaltepec; Temoaya; Tenancingo; Tenango del Valle; Texcaltitlán; Texcalyacac; Tianguistenco; Tlatlaya; Toluca; Tonatico; Valle de Bravo; Villa de Allende; Villa Guerrero; Villa Victoria; Xalatlaco; Xonacatlán; Zacazonapan; Zacualpan; Zinacantepec y Zumpahuacán;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 11 DE JULIO DE 2012)</small>
+
+II. La Visitaduría General sede Tlalnepantla, tendrá competencia en el territorio que comprenden los municipios de: Apaxco; Atizapán de Zaragoza; Coyotepec; Cuautitlán; Cuautitlán Izcalli; Huehuetoca; Hueypoxtla; Tepotzotlán; Tequixquiac; Tlalnepantla de Baz y Zumpango;
 
 III. La Visitaduría General sede Chalco, tendrá competencia en el territorio que comprenden los municipios de: Amecameca; Atlautla; Ayapango; Cocotitlán; Chalco; Ecatzingo; Ixtapaluca; Juchitepec; Ozumba; Temamatla; Tenango del Aire; Tepetlixpa; Tlalmanalco y Valle de Chalco Solidaridad;
 
-IV. La Visitaduría General sede Nezahualcóyotl, tendrá competencia en el territorio que comprenden los municipios de: Atenco; Chicoloapan; Chiconcuac; Chimalhuacán; La Paz; Nezahualcóyotl y Texcoco; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V. La Visitaduría General sede Ecatepec, tendrá competencia en el territorio que comprenden los municipios de: Acolman; Axapusco; Coacalco de Berriozabal; Chiautla; Ecatepec de Morelos; Jaltenco; Nextlalpan; Nopaltepec; Otumba; Papalotla; San Martín de las Pirámides; Tecámac; Temascalapa; Teotihuacan; Tepetlaoxtoc; Tezoyuca; Tonanitla; Tultepec y Tultitlán.
+> <small>(REFORMADA, G.G. 11 DE JULIO DE 2012)</small>
+
+IV. La Visitaduría General sede Nezahualcóyotl, tendrá competencia en el territorio que comprenden los municipios de: Atenco; Chicoloapan; Chiconcuac; Chimalhuacán; La Paz; Nezahualcóyotl y Texcoco;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 11 DE JULIO DE 2012)</small>
+
+V. La Visitaduría General sede Ecatepec, tendrá competencia en el territorio que comprenden los municipios de: Acolman; Axapusco; Coacalco de Berriozabal; Chiautla; Ecatepec de Morelos; Jaltenco; Nextlalpan; Nopaltepec; Otumba; Papalotla; San Martín de las Pirámides; Tecámac; Temascalapa; Teotihuacan; Tepetlaoxtoc; Tezoyuca; Tonanitla; Tultepec y Tultitlán;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.G. 11 DE JULIO DE 2012)</small>
+
+VI. La Visitaduría General sede Atlacomulco, tendrá competencia en el territorio que comprenden los municipios de: Acambay; Aculco; Atlacomulco; Chapa de Mota; El Oro; Ixtlahuaca; Jilotepec; Jiquipilco; Jocotitlán; Morelos; Polotitlán; San Felipe del Progreso; San José del Rincón; Soyaniquilpan de Juárez; Temascalcingo y Timilpan; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.G. 11 DE JULIO DE 2012)</small>
+
+VII. La Visitaduría General sede Naucalpan, tendrá competencia en el territorio que comprenden los municipios de: Huixquilucan; Isidro Fabela; Jilotzingo; Melchor Ocampo; Naucalpan de Juárez; Nicolás Romero; Teoloyucan y Villa del Carbón.
 
 ###### Artículo 10.
 
@@ -233,9 +267,13 @@ VIII. Asistir y participar en las sesiones de Comités y Subcomités de la Comis
 
 IX. Las demás que le confieren otras disposiciones y aquellas que le encomiende el Presidente.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE JULIO DE 2012)</small>
+
 ###### Artículo 13.
 
-Corresponde a la Unidad de Información y Planeación Estratégica:
+Corresponde a la Unidad de Información, Planeación y Evaluación:
 
 I. Coadyuvar al diseño e implementación de los procesos de planeación, programación y presupuestación del Organismo;
 
@@ -245,7 +283,11 @@ III. Diseñar y establecer sistemas de información que permitan generar estadí
 
 IV. Diseñar, implementar, coordinar y dirigir procesos integrales de evaluación de los programas, planes y proyectos ejecutados por las unidades administrativas de la Comisión;
 
-V. Solicitar la información a las unidades administrativas respecto de la ejecución de programas, planes y proyectos institucionales, estableciendo el término en el que se deberá remitir;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 11 DE JULIO DE 2012)</small>
+
+V. Solicitar información a las unidades administrativas sobre la ejecución de programas, planes y proyectos institucionales, estableciendo el término para su remisión;
 
 VI. Proponer y ejecutar, en su caso, lineamientos, reglas, criterios y metodología en materia de información, planeación, programación y evaluación;
 
@@ -255,11 +297,25 @@ VII. Elaborar el proyecto de informe anual de actividades del Presidente, así c
 
 VIII. Asistir y participar en las sesiones de Comités y Subcomités del Organismo en los que tenga intervención, conforme a las disposiciones aplicables;
 
-IX. Realizar las funciones correspondientes a la unidad de información del Organismo, en materia de transparencia y acceso a la información pública; y
+IX. Realizar las funciones correspondientes a la unidad de información del Organismo, en materia de transparencia y acceso a la información pública; y (sic)
 
-> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-X. Las demás que le confieren otras disposiciones y aquellas que le encomiende el Presidente.
+> <small>(REFORMADA, G.G. 11 DE JULIO DE 2012)</small>
+
+X. Proponer y ejecutar, en su caso, lineamientos, reglas y criterios en materia de información y actualización de la página web del Organismo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.G. 11 DE JULIO DE 2012)</small>
+
+XI. Proponer y ejecutar, en su caso, lineamientos, reglas y criterios para el diseño de las aplicaciones gráficas institucionales; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.G. 11 DE JULIO DE 2012)</small>
+
+XII. Las demás que le confieren otras disposiciones y aquellas que le encomiende el Presidente.
 
 ###### Artículo 14.
 
@@ -335,9 +391,23 @@ I. Coordinar las funciones de las Secretarías Técnica y Ejecutiva a su cargo;
 
 II. Proponer y ejecutar, en el ámbito de su competencia, el programa de la Comisión para prevenir y eliminar la discriminación;
 
-III. Coordinar la realización de eventos en materia de derechos humanos, en que tenga injerencia el Organismo; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV. Asistir y participar en las sesiones de Comités y Subcomités de la Comisión, en los que tenga intervención conforme a las disposiciones aplicables.
+> <small>(REFORMADA, G.G. 11 DE JULIO DE 2012)</small>
+
+III. Coordinar la realización de eventos en materia de derechos humanes, en que tenga injerencia el Organismo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 11 DE JULIO DE 2012)</small>
+
+IV. Asistir y participar en las sesiones de Comités y Subcomités de la Comisión, en los que tenga intervención conforme a las disposiciones aplicables; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.G. 11 DE JULIO DE 2012)</small>
+
+V. Administrar el Sistema Integral de Defensorías Municipales de la Comisión.
 
 ### Capítulo VIII. De las atribuciones específicas dé las unidades administrativas de la Secretaría General
 
@@ -1076,3 +1146,17 @@ Artículo segundo. Este Acuerdo entrará en vigor a los diez días hábiles sigu
 Artículo tercero. La Visitaduría General Sede Ecatepec, deberá instalar el Comité de Defensores Municipales a que se refieren los artículos 22, 23 y 24 del Reglamento de Organización y Funcionamiento de las Defensorías Municipales de Derechos Humanos del Estado de México, dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Acuerdo.
 
 Artículo cuarto. Derivado de la redistribución de la competencia de las Visitadurías Generales de esta Defensoría de Habitantes, se faculta a los Visitadores Generales para hacer las modificaciones correspondientes en los Comités de Defensores Municipales de Derechos Humanos, para su debido funcionamiento, de conformidad con lo establecido en el Reglamento Interno de la Comisión de Derechos Humanos del Estado de México.
+
+G.G. 11 DE JULIO DE 2012.
+
+PRIMERO.- Publíquense las presentes modificaciones en el Periódico Oficial del Gobierno del Estado de México "Gaceta del Gobierno" y en la Gaceta de Derechos Humanos órgano informativo de la Comisión.
+
+SEGUNDO.- Estas modificaciones entrarán en vigor a los 10 días hábiles siguientes a su publicación en el Periódico Oficial del Gobierno del Estado de México "Gaceta del Gobierno".
+
+TERCERO.- Toda disposición reglamentaria o administrativa que haga referencia a la Unidad de Información y Planeación Estratégica, se entenderá que es a la Unidad de Información, Planeación y Evaluación.
+
+CUARTO.- La Visitaduría General sede Atlacomulco y la Visitaduría General sede Naucalpan, deberán instalar los comités de defensores municipales a que se refieren los artículos 22, 23 y 24 del Reglamento de Organización y Funcionamiento de las Defensorías Municipales de Derechos Humanos del Estado de México, dentro de los veinte días hábiles siguientes a la entrada en vigor del presente documento.
+
+QUINTO.- Derivado de la redistribución de la competencia territorial de las visitadurías generales de esta Defensoría de Habitantes, se faculta a los visitadores generales a efecto de realizar las modificaciones correspondientes en los comités de defensores municipales de derechos humanos, para su debido funcionamiento, de conformidad con las disposiciones legales, reglamentarias y administrativas aplicables.
+
+SEXTO.- El Primer Visitador General, en el ejercicio de sus atribuciones y derivado de las presentes modificaciones, deberá prever lo necesario a efecto de que los expedientes de queja que se iniciaron con anterioridad a la entrada en vigor de las modificaciones en comento, en su caso, sean remitidos a la visitaduría que corresponda para su debida sustanciación, privilegiando en todo momento los derechos de los quejosos.
