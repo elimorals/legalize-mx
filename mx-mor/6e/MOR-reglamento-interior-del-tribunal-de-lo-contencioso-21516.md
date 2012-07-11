@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-tribunal-de-lo-contencioso-21516"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-13"
-last_updated: "2008-02-13"
+last_updated: "2012-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21516&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL PODER JUDICIAL DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 13 de junio de 2001.
 
@@ -117,7 +117,7 @@ La asignación de adscripción de los Magistrados, será por el término de su c
 
 ## TÍTULO SEGUNDO. DEL PLENO DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO
 
-> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES CAPITULO UNICO], P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO ÚNICO], P.O. 13 DE FEBRERO DE 2008)</small>
 
 ### CAPÍTULO PRIMERO. DE SU INTEGRACIÓN, ATRIBUCIONES Y FUNCIONAMIENTO
 
@@ -233,7 +233,7 @@ II.- Dictar las medidas necesarias para el desempeño pronto y expedito de los a
 
 ## TÍTULO QUINTO. DE LA SECRETARÍA GENERAL DE ACUERDOS
 
-> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES CAPITULO UNICO], P.O, 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO ÚNICO], P.O, 13 DE FEBRERO DE 2008)</small>
 
 ### CAPÍTULO PRIMERO
 
@@ -293,7 +293,7 @@ El Encargado de la Unidad de Amparos del Tribunal para ser designado, deberá cu
 
 ## TÍTULO SEXTO. DE LOS SECRETARIOS DE ACUERDOS DE LAS SALAS
 
-> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES CAPITULO UNICO], P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO ÚNICO], P.O. 13 DE FEBRERO DE 2008)</small>
 
 ### CAPÍTULO PRIMERO
 
@@ -447,11 +447,135 @@ II.- Recibir y registrar en el libro correspondiente, la correspondencia y promo
 
 III.- Llevar el Registro de oficios que envíe la Sala de su adscripción y el minutario de los mismos.
 
-## TÍTULO DÉCIMO SEGUNDO. DISPOSICIONES COMUNES SOBRE DISCIPLINA Y RELACIONES LABORALES
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2012)</small>
+
+## TÍTULO DÉCIMO SEGUNDO BIS (SIC). DEL FONDO AUXILIAR PARA LA ADMINISTRACIÓN DE JUSTICIA ADMINISTRATIVA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2012)</small>
 
 ### CAPÍTULO ÚNICO
 
-## TÍTULO DÉCIMO TERCERO. DE LAS SUPLENCIAS DEL PRESIDENTE DEL TRIBUNAL, DE LOS MAGISTRADOS DE LAS SALAS, DE LOS SECRETARIOS DE ACUERDOS Y ACTUARIOS
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2012)</small>
+
+ARTÍCULO 29 BIS.- Con el objeto de allegarse de recursos económicos para fortalecer la administración de justicia administrativa y fiscal, el Tribunal de lo Contencioso Administrativo del Poder Judicial del Estado de Morelos, contará con un Fondo Auxiliar para la Administración de Justicia Administrativa, el que se integrará, administrará y vigilará, en los términos previstos en el presente capítulo. El Fondo Auxiliar no constituye patrimonio ni personalidad jurídica propia.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2012)</small>
+
+ARTÍCULO 29 BIS 1.- El Fondo Auxiliar para la Administración de Justicia Administrativa, será administrado y operado en forma autónoma e independiente por el Magistrado Presidente del Tribunal de lo Contencioso Administrativo del Poder Judicial del Estado de Morelos, quién lo ejercerá a través del Departamento de Administración del propio Tribunal, además de ser fiscalizado y vigilado por el Pleno del propio Tribunal.
+
+El Magistrado Presidente podrá invertir las cantidades que integran el Fondo en la adquisición de valores de renta fija o inversiones bancarias, sobre la base de procurar las de mayor rendimiento, siempre que éstas, dentro de lo previsible, garanticen disponibilidad inmediata y suficiente de dinero para devoluciones de depósitos judiciales que deban hacerse, siempre que sea aprobado por mayoría por el Pleno del Tribunal.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2012)</small>
+
+ARTÍCULO 29 BIS 2.- El Fondo Auxiliar estará integrado con recursos propios y con recursos ajenos.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2012)</small>
+
+ARTÍCULO 29 BIS 3.- Son recursos propios del Fondo Auxiliar:
+
+I. Las multas que por cualquier causa impongan el Tribunal o sus Salas;
+
+II. Los intereses que se generen por las inversiones de los depósitos en dinero o valores que efectúe el Tribunal;
+
+III. Los muebles y valores depositados por cualquier motivo ante el Tribunal que no fueren retirados por el depositario o por quien tenga derecho a ello;
+
+IV. Los ingresos provenientes de contratos, convenios o concesiones celebrados por el Magistrado Presidente con terceros, previa aprobación del Pleno del Tribunal;
+
+V. Los derechos derivados de la expedición de copias certificadas emitidas por cualesquier área facultada del Tribunal, conforme a lo dispuesto por la Ley General de Hacienda del Estado;
+
+VI. El producto de la venta de bienes del Tribunal; así como de aquellos que en términos de ley pasen a ser propiedad del Estado.
+
+VII. Las donaciones o aportaciones hechas a su favor por terceros, y;
+
+VIII. Cualesquier otros ingresos que por cualquier titulo obtenga el Tribunal de lo Contencioso Administrativo del Poder Judicial del Estado de Morelos.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2012)</small>
+
+ARTÍCULO 29 BIS 4.- Son recursos ajenos, los depósitos en efectivo que, por cualquier causa y mediante la exhibición del certificado de depósito correspondiente, se hagan ante las Salas.
+
+Los depositantes no percibirán interés, rendimiento o contraprestación alguna por los depósitos que efectúen en los términos del párrafo anterior. Los billetes o certificados de depósito que emita la depositaria, insertarán de manera íntegra el presente párrafo, y contendrán la aceptación del depositante al mismo y a las demás condiciones propias del depósito.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2012)</small>
+
+ARTÍCULO 29 BIS 5.- El Tribunal, las Salas o el área que por cualquier motivo hayan recibido o reciban un depósito en dinero o en valores, deberá remitirlos al Departamento de Administración del propio Tribunal.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2012)</small>
+
+ARTÍCULO 29 BIS 6.- El registro y control contable de las operaciones activas y pasivas del Fondo Auxiliar, se llevará de conformidad a los lineamientos que establece la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2012)</small>
+
+ARTÍCULO 29 BIS 7.- Los recursos que integran el Fondo se destinarán exclusivamente a los siguientes fines:
+
+I. A la adquisición de mobiliario en general, equipo de cómputo y libros de consulta para el Tribunal, no considerados en el presupuesto;
+
+II. Adquisición de bienes inmuebles para el establecimiento de oficinas del Tribunal y acondicionamiento de éstas;
+
+III. A propuesta de cualquier Magistrado, el otorgamiento de estímulos y recompensas económicas a los servidores públicos del Tribunal, excepto a los propios Magistrados;
+
+IV. Pago de rentas y servicios; y
+
+V. A la formación, actualización y especialización profesional del personal del Tribunal;
+
+VI. Cualquier otro gasto no presupuestado.
+
+Sólo podrán destinarse recursos a tales fines, siempre que sea aprobado por mayoría del Pleno del Tribunal
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2012)</small>
+
+ARTÍCULO 29 BIS 8.- El Departamento de Administración, con relación al Fondo Auxiliar, tendrá las siguientes atribuciones específicas:
+
+I. Recabar y custodiar los valores que le remitan las áreas del Tribunal, registrándolos contablemente;
+
+II. Recibir los bienes que por cualquier motivo deban integrar o incrementar el patrimonio administrado por el Fondo Auxiliar.
+
+III. Cuidar que las inversiones del Fondo se hagan de manera prevista en este capítulo, recabando la documentación correspondiente;
+
+IV. Proveer de inmediato las cantidades que deban de ser reintegradas a los beneficiarios o depositantes, recabando los recibos correspondientes;
+
+V. Presentar un informe mensual contable, a fin de que sea revisado y en su caso aprobado por el Magistrado Presidente, con supervisión del Pleno del Tribunal;
+
+VI. Proporcionar inmediatamente a quien realice una auditoria, todos los documentos comprobatorios, libros y auxiliares necesarios;
+
+VII. Comunicar oportunamente al Magistrado Presidente las fechas de vencimiento de valores, así como investigar y sugerirle las mejores opciones de rendimiento financiero;
+
+VIII. Comunicar al Magistrado Presidente cualquier novedad que exista en el manejo del Fondo Auxiliar;
+
+IX. Efectuar los pagos que, con cargo al Fondo Auxiliar, le ordene el Magistrado Presidente, siempre que sean aprobados por mayoría por el Pleno del Tribunal;
+
+X. En general, realizar todos aquellos actos que se requieran para la mejor administración del Fondo Auxiliar; y
+
+XI. Aquéllos que le indique de manera específica el Magistrado Presidente.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2012)</small>
+
+ARTÍCULO 29 BIS 9.- Los depósitos en efectivo recibidos por el Departamento de Administración, se documentarán mediante formas denominadas “Recibo de Ingreso”, la que estará debidamente foliada, conteniendo la cantidad que se recibe, el concepto, el nombre del depositante y del beneficiario en su caso, fecha del depósito y número de expediente judicial, debiendo el receptor registrarlo e ingresarlo de inmediato en la forma autorizada para tal efecto.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2012)</small>
+
+ARTÍCULO 29 BIS 10.- En el caso de que se carezca de las formas impresas de “Recibo de Ingreso” y los depósitos de dinero sean de carácter urgente, el Departamento de Administración, expedirá un recibo provisional debidamente foliado, cuya copia se agregará al expediente judicial correspondiente, cuidando de obtener a primera hora del día hábil siguiente el recibo que se refiere el artículo anterior, que también se agregará al expediente, bajo su responsabilidad.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2012)</small>
+
+ARTÍCULO 29 BIS 11.- Las garantías que se otorguen en Pólizas de Fianza, Prenda e Hipoteca, se conservarán en custodia por el área que las reciba, hasta la conclusión del juicio, las cuales deberán registrarse en el libro de valores y las que se otorguen en efectivo a través de recibos de ingreso en forma inmediata.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2012)</small>
+
+ARTÍCULO 29 BIS 12.- En todos los expedientes judiciales se asentará razón de los documentos a través de los cuales se hayan efectuado depósitos y pagos.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2012)</small>
+
+ARTÍCULO 29 BIS 13.- La devolución del depósito a quien corresponda, se hará invariablemente previo acuerdo judicial, recabándose la firma del recibo en el área del Tribunal que lo tenga bajo su custodia.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2012)</small>
+
+ARTÍCULO 29 BIS 14.- Corresponde al Tribunal Pleno la fiscalización y vigilancia del Fondo Auxiliar, practicando anualmente una auditoria a los recursos que integran el Fondo Auxiliar de Administración de Justicia Administrativa del Tribunal de lo Contencioso Administrativo del Poder Judicial del Estado de Morelos.
+
+A tal efecto el Magistrado Presidente, a través del Departamento de Administración, al momento de rendir informe anual de actividades, incluirá un aparatado (sic) relativo a las finanzas del Fondo Auxiliar.
+
+Todo gasto, inversión o enajenación de bienes inherentes al fondo auxiliar, deberá ser aprobado por mayoría por Pleno del Tribunal.
+
+## TÍTULO DÉCIMO SEGUNDO. DISPOSICIONES COMUNES SOBRE DISCIPLINA Y RELACIONES LABORALES
 
 ### CAPÍTULO ÚNICO
 
@@ -503,7 +627,7 @@ X.- Checar tarjetas o firmar listas de control de asistencia de otros trabajador
 
 Al tomar posesión de su encargo los servidores públicos del Tribunal recibirán la oficina correspondiente del servidor público saliente, mediante acta circunstanciada, la que se levantará por triplicado y formarán parte de la misma los inventarios correspondientes, ante la presencia del Secretario General de Acuerdos y del Jefe del Departamento Administrativo, se distribuirán una para el Tribunal, una para el Servidor Público entrante y otra para el saliente.
 
-## TÍTULO DÉCIMO CUARTO. DE LAS LABORES, DE LOS DESCANSOS, VACACIONES Y GUARDIAS
+## TÍTULO DÉCIMO TERCERO. DE LAS SUPLENCIAS DEL PRESIDENTE DEL TRIBUNAL, DE LOS MAGISTRADOS DE LAS SALAS, DE LOS SECRETARIOS DE ACUERDOS Y ACTUARIOS
 
 ### CAPÍTULO ÚNICO
 
@@ -523,7 +647,7 @@ Las faltas temporales del Secretario General de Acuerdos serán suplidas por el 
 
 Las faltas temporales de los Actuarios y del resto del personal, serán suplidas por el servidor público que designe el Magistrado de la Sala, siempre y cuando éste cumpla con los requisitos legales respectivos.
 
-## TÍTULO DÉCIMO QUINTO. DE LAS RESPONSABILIDADES DEL PERSONAL
+## TÍTULO DÉCIMO CUARTO. DE LAS LABORES, DE LOS DESCANSOS, VACACIONES Y GUARDIAS
 
 ### CAPÍTULO ÚNICO
 
@@ -546,6 +670,10 @@ El personal del Tribunal checará tarjeta de asistencia.
 ###### ARTÍCULO 43.
 
 El horario de labores del Tribunal será de las 8:00 a las 15:00 horas, sin perjuicio de que por necesidades del servicio se deba laborar fuera del mismo.
+
+## TÍTULO DÉCIMO QUINTO. DE LAS RESPONSABILIDADES DEL PERSONAL
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 44.
 
@@ -596,3 +724,13 @@ PRIMERO. El presente Decreto iniciará su vigencia a partir del día siguiente d
 SEGUNDO. Publíquese éste Decreto en el periódico oficial "Tierra y Libertad" del Gobierno del Estado de Morelos y en el Boletín Judicial del Estado de Morelos para que surta sus efectos legales correspondientes.
 
 TERCERO. Las cuestiones no previstas en el presente Reglamento, serán resueltas por el Pleno del Tribunal.
+
+P.O. 11 DE JULIO DE 2012.
+
+Artículo Primero.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+Artículo Segundo.- Se crea el Fondo Auxiliar para la Administración de Justicia Administrativa del Tribunal de lo Contencioso Administrativo del Poder Judicial del Estado de Morelos.
+
+Artículo Tercero.- Se adiciona al Reglamento Interior del Tribunal de lo Contencioso Administrativo del Poder Judicial del Estado de Morelos, el "TÍTULO DÉCIMO SEGUNDO BIS DEL FONDO AUXILIAR PARA LA ADMINISTRACIÓN DE JUSTICIA ADMINISTRATIVA" y su "CAPÍTULO ÚNICO DE LA CONSTITUCIÓN E INTEGRACIÓN DEL FONDO", así como los artículos 29 bis al 29 bis 14, contendidos (sic) en tal capítulo.
+
+Artículo Cuarto.- Remítase el presente acuerdo a la Secretaría de Gobierno del Estado, para su publicación correspondiente en el Periódico Oficial "Tierra y Libertad".
