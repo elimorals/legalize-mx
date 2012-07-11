@@ -4,7 +4,7 @@ identifier: "ZAC-estatuto-del-servicio-profesional-electoral-y-del-personal-6850
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-04-22"
-last_updated: "2009-04-22"
+last_updated: "2012-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68501&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL Y DEL PERSONAL ADMINISTRATIVO DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL Y DEL PERSONAL ADMINISTRATIVO DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 11 DE JULIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Estatuto publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 22 de abril de 2009.
 
@@ -209,7 +211,7 @@ VI. El tercer lunes de noviembre en conmemoración del 20 de noviembre;
 
 VII. El 1 de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal;
 
-VIII. EI 25 de diciembre;
+VIII. El 25 de diciembre;
 
 IX. El veintinueve de octubre, y
 
@@ -1944,3 +1946,17 @@ Décimo.- Los casos no previstos en el presente Estatuto serán resueltos por el
 Décimo Primero.- Se deroga el Estatuto del Servicio Profesional Electoral del Estado de Zacatecas, aprobado en lo general mediante acuerdo ACG/026/II/2003 del Consejo General de fecha 3 de diciembre de 2003.
 
 Décimo Segundo.- Se derogan las disposiciones dictadas por el Consejo General que se opongan al contenido del presente Estatuto.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE JULIO DE 2012.
+
+Primero.- El presente Estatuto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado.
+
+Segundo.- Se abroga el Estatuto del Servicio Profesional Electoral y del Personal Administrativo del Instituto Electoral del Estado de Zacatecas, aprobado por el Consejo General, mediante acuerdo ACG-IEEZ-010/III/2009, de fecha 3 de abril de 2009.
+
+Tercero.- Hasta en tanto no se cuente con los resultados de la primera evaluación al desempeño, para la ocupación de plazas vacantes o de nueva creación, por la vía de la promoción o movilidad horizontal, no serán exigibles los requisitos establecidos en las fracciones I y III; del artículo 69; de esta última fracción, solo en lo que se refiere a la titularidad.
+
+Cuarto.- El personal eventual que a la entrada en vigor del presente Estatuto, ocupe una plaza de la Rama del Servicio Profesional Electoral, podrá participar en el concurso de selección mediante la vía de la Promoción o Movilidad Horizontal, para cubrir la vacante.
+
+Quinto.- Se derogan las disposiciones dictadas por el Consejo General que se opongan al contenido del presente Estatuto.
