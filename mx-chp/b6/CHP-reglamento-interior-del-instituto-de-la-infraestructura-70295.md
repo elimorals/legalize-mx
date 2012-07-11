@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-instituto-de-la-infraestructura-70295"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-19"
-last_updated: "2010-06-16"
+last_updated: "2012-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70295&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE LA INFRAESTRUCTURA FISICA EDUCATIVA DEL ESTADO DE CHIAPAS
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE LA INFRAESTRUCTURA FISICA EDUCATIVA DEL ESTADO DE CHIAPAS
+REGLAMENTO INTERIOR DEL INSTITUTO DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO POR EL QUE SE ABROGA EL REGLAMENTO INTERIOR DEL INSTITUTO DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE CHIAPAS, EXPEDIDO POR EL PODER EJECUTIVO DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. 11 DE JULIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 19 de agosto de 2009.
 
@@ -677,7 +679,7 @@ Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estad
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Javier Álvarez Ramos, Secretario de Educación.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 16 DE JUNIO DE 2010.
 
@@ -686,3 +688,11 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a éste Decreto.
 
 Artículo Tercero.- Conforme a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado, publíquese el presente Decreto en el Periódico Oficial.
+
+P.O. 11 DE JULIO DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día veinte de julio del año dos mil doce.
+
+Artículo Segundo.- Se derogan todas las disposiciones que tengan igual o menor jerarquía al presente Decreto, y que se opongan al mismo.
+
+Artículo Tercero.- En cumplimiento a lo previsto en el artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
