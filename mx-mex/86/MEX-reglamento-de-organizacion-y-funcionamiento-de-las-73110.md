@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-organizacion-y-funcionamiento-de-las-73110"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-15"
-last_updated: "2011-10-05"
+last_updated: "2012-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73110&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO DE ORGANIZACION Y FUNCIONAMIENTO DE LAS DEFENSORIAS MUNICIPALES DE DERECHOS HUMANOS DEL ESTADO DE MEXICO
 
-REGLAMENTO DE ORGANIZACION Y FUNCIONAMIENTO DE LAS DEFENSORIAS MUNICIPALES DE DERECHOS HUMANOS DEL ESTADO DE MEXICO
+REGLAMENTO DE ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS DEFENSORÍAS MUNICIPALES DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE JULIO DE 2012.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 15 de febrero de 2010.
 
@@ -47,7 +47,7 @@ El presente ordenamiento tiene por objeto regular la organización y el funciona
 
 Las Defensorías Municipales de Derechos Humanos del Estado de México son órganos creados por los ayuntamientos de la entidad con autonomía en sus decisiones y en el ejercicio presupuestal, que en el cumplimiento de sus atribuciones deben coordinarse con la Comisión de Derechos Humanos del Estado de México; y tienen por objeto la promoción, divulgación, estudio y defensa de los derechos humanos en el municipio que les corresponda, de conformidad con lo dispuesto por la Ley Orgánica Municipal del Estado de México, la Ley de la Comisión de Derechos Humanos del Estado de México y demás disposiciones aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADO, G.G. 5 DE OCTUBRE DE 2011)</small>
 
@@ -73,7 +73,11 @@ VI. Ley Orgánica: la Ley Orgánica Municipal del Estado de México;
 
 VII. Secretaría General: la Secretaría General de la Comisión de Derechos Humanos del Estado de México; y
 
-VIII. Visitaduría General: las Visitadurías Generales dependientes de la Primera Visitaduría General de la Comisión de Derechos Humanos del Estado de México.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 11 DE JULIO DE 2012)</small>
+
+VIII. SIDEMUN: el Sistema Integral de Defensorías Municipales de la Comisión de Derechos Humanos del Estado de México.
 
 ###### Artículo 5.
 
@@ -93,13 +97,13 @@ I. Una vez recibidos en la Visitaduría General correspondiente, los expedientes
 
 a) Si de la revisión se desprende que no participaron por lo menos cuatro aspirantes o bien, que ninguno o mínimo tres acreditan los requisitos de ley y de la convocatoria, el Visitador General debe solicitar al ayuntamiento que emita una segunda convocatoria dentro de los 10 días naturales siguientes al vencimiento de la primera; o
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADO, G.G. 5 DE OCTUBRE DE 2011)</small>
 
 b) Si con la documentación exhibida por lo menos tres aspirantes acreditan fehacientemente o cumplen los requisitos de ley y de la convocatoria, el Visitador General remitirá a la Unidad Jurídica y Consultiva, en 3 días hábiles contados a partir de la fecha de recepción, los documentos originales enviados por el ayuntamiento, a efecto de que se proceda a realizar la calificación de los aspirantes, en los formatos que para tal efecto autorice el Presidente del Organismo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
 
@@ -123,11 +127,11 @@ Los Defensores Municipales, además de las establecidas en el artículo 147 K de
 
 I. Elaborar y entregar propuestas al ayuntamiento para que éste las considere en el presupuesto de egresos que apruebe de conformidad con las disposiciones aplicables;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 11 DE JULIO DE 2012)</small>
 
-II. Presentar a la Comisión, a través de la Unidad de Información y Planeación Estratégica, con copia para la Secretaría General el informe anual sobre las actividades desarrolladas durante el período inmediato anterior;
+II. Presentar a la Comisión, a través de la Secretaría General el informe anual sobre las actividades desarrolladas durante el periodo inmediato anterior;
 
 III. Fomentar la participación ciudadana en actividades encaminadas a promover el respeto de los derechos humanos en el ámbito municipal;
 
@@ -155,13 +159,13 @@ Los Defensores Municipales deben establecer los medios necesarios para garantiza
 
 ### Capítulo I. Disposiciones generales
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, G.G. 5 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 11 DE JULIO DE 2012)</small>
 
 ###### Artículo 11.
 
-Las Defensorías Municipales harán del conocimiento de la Unidad de Información y Planeación Estratégica de la Comisión su Plan Anual de Trabajo, considerando un año calendario, debiendo presentar los informes trimestrales relacionados con su ejecución.
+Las Defensorías Municipales harán del conocimiento de la Secretaría General durante el mes de diciembre, previo al ejercicio a programar, su Plan Anual de Trabajo considerando un año calendario.
 
 ###### Artículo 12.
 
@@ -178,6 +182,42 @@ Artículo .14.- Las Defensorías Municipales, en coordinación con la Secretaria
 ###### Artículo 15.
 
 Las Defensorías Municipales deben atender oportunamente las reuniones y eventos a los que la Secretaria General les convoque.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 11 DE JULIO DE 2012)</small>
+
+Artículo 15 A.- Las Defensorías Municipales deben presentar a través del SIDEMUN, los informes trimestrales relacionados con la ejecución de su Plan Anual de Trabajo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 11 DE JULIO DE 2012)</small>
+
+Artículo 15 B.- La información que se incorpore al SIDEMUN debe estar soportada, de conformidad con los medios de verificación que establezca el Organismo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 11 DE JULIO DE 2012)</small>
+
+Artículo 15 C.- El SIDEMUN puede habilitarse fuera del periodo establecido para el registro de los informes trimestrales, dentro de los 15 días hábiles siguientes a la conclusión del plazo señalado para tal efecto, mediante escrito dirigido a la Secretaría General, en los casos siguientes:
+
+I. Se haya omitido enviar el informe trimestral de actividades correspondiente; y
+
+II. Se tenga que hacer una aclaración o modificación a la información reportada.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 11 DE JULIO DE 2012)</small>
+
+Artículo 15 D.- La Secretaría General, en coordinación con la Unidad de Informática del Organismo, proporcionará capacitación relacionada con el funcionamiento del SIDEMUN.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 11 DE JULIO DE 2012)</small>
+
+Artículo 15 E.- La Secretaría General debe revisar los informes trimestrales de las Defensorías Municipales, capturados en el SIDEMUN, con el objeto de verificar el cumplimiento de su Plan Anual de Trabajo.
+
+Para efectos de lo anterior, la Secretaría General podrá solicitar la información y documentación soporte que considere necesaria.
 
 ### Capítulo III. De la coordinación con las Visitadurías Generales
 
@@ -231,35 +271,47 @@ Los cargos de los integrantes de los Comités son honoríficos.
 
 Los Comités Municipales se organizan de conformidad con la denominación y distribución territorial siguiente:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
 
 I. El Comité de Defensores Municipales de Derechos Humanos Región Toluca, comprende los municipios establecidos en el artículo 9 fracción I del Reglamento Interno de la Comisión;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
 
 II. El Comité de Defensores Municipales de Derechos Humanos Región Tlalnepantla, comprende los municipios establecidos en el artículo 9 fracción II del Reglamento Interno del Organismo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
 
 III. El Comité de Defensores Municipales de Derechos Humanos Región Chalco, comprende los municipios establecidos en el artículo 9 fracción III del Reglamento Interno de la Comisión;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 11 DE JULIO DE 2012)</small>
 
-IV. El Comité de Defensores Municipales de Derechos Humanos Región Nezahualcóyotl, comprende los municipios establecidos en el artículo 9 fracción IV del Reglamento Interno del Organismo; y
+IV. El Comité de Defensores Municipales de Derechos Humanos Región Nezahualcóyotl, comprende los municipios establecidos en el artículo 9 fracción IV del Reglamento Interno del Organismo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 11 DE JULIO DE 2012)</small>
 
-V. El Comité de Defensores Municipales de Derechos Humanos Región Ecatepec, comprende los municipios establecidos en el artículo 9 fracción V del Reglamento Interno de la Comisión.
+V. El Comité de Defensores Municipales de Derechos Humanos Región Ecatepec, comprende los municipios establecidos en el artículo 9 fracción V del Reglamento Interno de la Comisión;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.G. 11 DE JULIO DE 2012)</small>
+
+VI. El Comité de Defensores Municipales de Derechos Humanos Región Atlacomulco, comprende los municipios establecidos en el artículo 9 fracción VI del Reglamento Interno del Organismo; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.G. 11 DE JULIO DE 2012)</small>
+
+VII. El Comité de Defensores Municipales de Derechos Humanos Región Naucalpan, comprende los municipios establecidos en el artículo 9 fracción VII del Reglamento Interno de la Comisión.
 
 ###### Artículo 25.
 
@@ -409,7 +461,7 @@ SECRETARIA GENERAL Y SECRETARIA TÉCNICA DEL CONSEJO CONSULTIVO DE LA COMISIÓN 
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.G. 5 DE OCTUBRE DE 2011.
 
@@ -420,3 +472,17 @@ Artículo segundo. Este Acuerdo entrará en vigor a los diez días hábiles sigu
 Artículo tercero. La Visitaduría General Sede Ecatepec, deberá instalar el Comité de Defensores Municipales a que se refieren los artículos 22, 23 y 24 del Reglamento de Organización y Funcionamiento de las Defensorías Municipales de Derechos Humanos del Estado de México, dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Acuerdo.
 
 Artículo cuarto. Derivado de la redistribución de la competencia de las Visitadurías Generales de esta Defensoría de Habitantes, se faculta a los Visitadores Generales para hacer las modificaciones correspondientes en los Comités de Defensores Municipales de Derechos Humanos, para su debido funcionamiento, de conformidad con lo establecido en el Reglamento Interno de la Comisión de Derechos Humanos del Estado de México.
+
+G.G. 11 DE JULIO DE 2012.
+
+PRIMERO.- Publíquense las presentes modificaciones en el Periódico Oficial del Gobierno del Estado de México "Gaceta del Gobierno" y en la Gaceta de Derechos Humanos órgano informativo de la Comisión.
+
+SEGUNDO.- Estas modificaciones entrarán en vigor a los 10 días hábiles siguientes a su publicación en el Periódico Oficial del Gobierno del Estado de México "Gaceta del Gobierno".
+
+TERCERO.- Toda disposición reglamentaria o administrativa que haga referencia a la Unidad de Información y Planeación Estratégica, se entenderá que es a la Unidad de Información, Planeación y Evaluación.
+
+CUARTO.- La Visitaduría General sede Atlacomulco y la Visitaduría General sede Naucalpan, deberán instalar los comités de defensores municipales a que se refieren los artículos 22, 23 y 24 del Reglamento de Organización y Funcionamiento de las Defensorías Municipales de Derechos Humanos del Estado de México, dentro de los veinte días hábiles siguientes a la entrada en vigor del presente documento.
+
+QUINTO.- Derivado de la redistribución de la competencia territorial de las visitadurías generales de esta Defensoría de Habitantes, se faculta a los visitadores generales a efecto de realizar las modificaciones correspondientes en los comités de defensores municipales de derechos humanos, para su debido funcionamiento, de conformidad con las disposiciones legales, reglamentarias y administrativas aplicables.
+
+SEXTO.- El Primer Visitador General, en el ejercicio de sus atribuciones y derivado de las presentes modificaciones, deberá prever lo necesario a efecto de que los expedientes de queja que se iniciaron con anterioridad a la entrada en vigor de las modificaciones en comento, en su caso, sean remitidos a la visitaduría que corresponda para su debida sustanciación, privilegiando en todo momento los derechos de los quejosos.
