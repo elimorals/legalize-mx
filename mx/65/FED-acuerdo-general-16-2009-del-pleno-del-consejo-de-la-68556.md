@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-16-2009-del-pleno-del-consejo-de-la-68556"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-05-27"
-last_updated: "2011-07-13"
+last_updated: "2012-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68556&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2009-04-15"
 ---
 # ACUERDO GENERAL 16/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACION Y DIFUSION
 
-ACUERDO GENERAL 16/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACION Y DIFUSION
+ACUERDO GENERAL 16/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE JULIO DE 2012.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 27 de mayo de 2009.
 
@@ -57,7 +57,7 @@ Las sesiones ordinarias serán celebradas, por lo menos, una vez por semana, y t
 
 Sólo podrán dejar de celebrarse cuando así lo determine el Pleno del tribunal colegiado de Circuito en la sesión inmediata anterior, o por causa de fuerza mayor o caso fortuito.
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 49/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 49/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 3.
 
@@ -91,7 +91,7 @@ Cada ponencia entregará a las otras dos con tres días de anticipación, el lis
 
 Este listado se fijará en los estrados del tribunal, identificando los asuntos, el día y la hora de inicio de la sesión, y el orden en que se discutirán de conformidad con el acuerdo al que hace referencia el artículo 5, fracción IV, de este Acuerdo.
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 24/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JULIO DE 2011)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 24/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JULIO DE 2011)</small>
 
 ###### Artículo 7.
 
@@ -175,7 +175,11 @@ En caso de que no sea factible videograbar la sesión, el funcionario anterior t
 
 Los asuntos se fallarán en el orden en que se listen. Si no pudieran despacharse en la sesión todos los asuntos listados, los restantes figurarán en la lista siguiente en primer lugar, sin perjuicio de que el tribunal acuerde que se altere el orden de la lista, que se retire algún asunto, o que se aplace la vista del mismo, cuando exista causa justificada.
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 24/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JULIO DE 2011)</small>
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 18/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE JULIO DE 2012)</small>
+
+Ningún asunto podrá dejarse en lista, aplazarse o retirarse más de una ocasión excepto que exista causa justificada para ello.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 24/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JULIO DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -263,7 +267,7 @@ TERCERO. En la primera sesión inmediata posterior a la vigencia del presente Ac
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 16/2009, del Pleno del Consejo de la Judicatura Federal, que Regula las Sesiones de los Tribunales Colegiados de Circuito y Establece los Lineamientos para su Videograbación y Difusión, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de quince de abril de dos mil nueve, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Juan Carlos Cruz Razo, María Teresa Herrera Tello, César Alejandro Jáuregui Robles, Jorge Moreno Collado y Oscar Vázquez Marín.- México, Distrito Federal, a dieciocho de mayo de dos mil nueve.- Conste.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 23 DE OCTUBRE DE 2009.
 
@@ -280,3 +284,11 @@ PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 16/2009, del Pleno del Consejo de la Judicatura Federal, que regula las sesiones de los Tribunales Colegiados de Circuito y establece los lineamientos para su videograbación y difusión.
+
+D.O.F. 11 DE JULIO DE 2012.
+
+PRIMERO. El presente acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en las páginas de Internet e Intranet del Consejo de la Judicatura Federal.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 16/2009, del Pleno del Consejo de la Judicatura Federal, que regula las sesiones de los Tribunales Colegiados de Circuito y establece los lineamientos para su videograbación y difusión.
