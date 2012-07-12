@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2012-03-28"
+last_updated: "2012-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -1007,7 +1007,9 @@ El Presidente Municipal asumirá la representación jurídica del Ayuntamiento e
 
 I. Cuando el Síndico esté legalmente impedido para ello, y
 
-II. Cuando el Síndico se niegue a asumir la representación.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2012)</small>
+
+II. En cualquier otra circunstancia por la que el Síndico se vea impedido para ello. En este caso deberá presentar escrito al cabildo, a través de la Secretaría del municipio, de las razones que justifiquen su impedimento; recibido el escrito se emitirá convocatoria, de acuerdo a la urgencia del caso, para que el cabildo en pleno la valide o rechace.
 
 ###### ARTICULO 72.
 
@@ -1247,9 +1249,17 @@ XII. Las demás que le señalen las leyes y reglamentos municipales.
 
 Los municipios del Estado que cuenten con una población mayor de cuarenta mil habitantes tendrán en el Ayuntamiento un Oficial Mayor.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 83.
 
-Para ser Oficial Mayor se requiere contar con título profesional de nivel licenciatura.
+Para ser Oficial Mayor se requiere:
+
+I. Contar con título profesional de nivel licenciatura;
+
+II. No ser pariente consanguíneo o por afinidad, hasta el cuarto grado, de cualquiera de los integrantes del ayuntamiento, y
+
+III. No haber sido condenado, por sentencia firme, por la comisión de delitos patrimoniales que hayan ameritado pena privativa de la libertad.
 
 ###### ARTICULO 84.
 
@@ -2380,5 +2390,21 @@ UNICO. Este Decreto entrará en vigencia el día siguiente de su publicación en
 P.O. 28 DE MARZO DE 2012.
 
 PRIMERO. Este Decreto entra en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 12 DE JULIO DE 2012.
+
+DECRETO No. 993, POR EL QUE SE REFORMA EL ARTÍCULO 71, EN SU FRACCIÓN II, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 12 DE JULIO DE 2012.
+
+DECRETO No. 994, POR EL QUE SE REFORMA EL ARTÍCULO 83, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
