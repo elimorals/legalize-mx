@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-85674"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-02-03"
-last_updated: "2012-05-30"
+last_updated: "2012-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85674&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,267 +19,353 @@ issue_date: "2012-01-26"
 ---
 # ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-LEY ESTATAL DEL DEPORTE
+ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE JULIO DE 2012.
 
-Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 16 de julio de 1987.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de febrero de 2012.
 
-LIC. MARIANO PALACIOS ALCOCER Gobernador Constitucional del Estado Libre y Soberano de Querétaro Arteaga, a los habitantes del mismo, sabed que:
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
 
-LA CUADRAGÉSIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 63 DE LA CONSTITUCIÓN POLÍTICA LOCAL Y... ha tenido a bien expedir la siguiente:
+ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO.
 
-LEY ESTATAL DEL DEPORTE
+CONSIDERANDO
+
+PRIMERO.- La administración, vigilancia, disciplina y carrera judicial del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del mismo, corresponde al Consejo de la Judicatura Federal, con fundamento en los artículos 94, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos y 68 de la Ley Orgánica del Poder Judicial de la Federación;
+
+SEGUNDO.- De conformidad con el artículo 100, primer párrafo constitucional, el Consejo de la Judicatura Federal es un órgano del Poder Judicial de la Federación con independencia técnica, de gestión y para emitir sus resoluciones;
+
+TERCERO.- Es facultad del Consejo de la Judicatura Federal emitir acuerdos generales para el adecuado ejercicio de sus funciones, de conformidad con lo previsto en los artículos 100 de la Constitución Política de los Estados Unidos Mexicanos y 81, fracción II, de la Ley Orgánica del Poder Judicial de la Federación;
+
+CUARTO.- La experiencia adquirida en el desempeño de las actividades de las diversas áreas del Consejo de la Judicatura Federal, permite adoptar medidas tendentes a optimizar y fortalecer su desempeño
+
+QUINTO.- El fortalecimiento conlleva necesariamente la adecuación de la estructura orgánica con una visión integradora y sistémica;
+
+SEXTO.- El 8 de junio de 2011 el Pleno del Consejo de la Judicatura Federal aprobó la modificación de la estructura orgánica y de la adscripción de diversas áreas administrativas del propio Consejo; y
+
+SEPTIMO.- A fin de atender con mayor eficacia y eficiencia las necesidades operativas del Consejo, resulta necesario adecuar el marco jurídico que hasta hoy ha regulado su estructura orgánica, de conformidad con el artículo 81, fracción XVIII, de la Ley Orgánica del Poder Judicial de la Federación, por lo que se abroga el Acuerdo General que reglamenta la organización y funcionamiento del propio Consejo, publicado el 3 de octubre de 2006 en el Diario Oficial de la Federación, para actualizar su contenido.
+
+Por lo antes expuesto, y con fundamento en las disposiciones constitucionales y legales antes mencionadas, el Pleno del Consejo de la Judicatura Federal, expide el siguiente
+
+ACUERDO
 
 ## TITULO PRIMERO. Disposiciones Generales
 
 > <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2012)</small>
 
-###### ARTICULO 1.
+###### Artículo 1.
 
-Las normas de esta Ley son de orden público e interés social y tienen por objeto coadyuvar en la formación y desarrollo integrales de los habitantes del Estado de Querétaro por medio de la promoción y puesta en marcha de actividades relacionadas con la cultura física y el deporte.
+Las disposiciones de este ordenamiento son de observancia general en el Consejo de la Judicatura Federal, correspondiendo a su Presidente, consejeros, Oficial Mayor, Secretario General de la Presidencia, secretarios ejecutivos, coordinadores, titulares de unidades y órganos auxiliares, así como directores generales, velar por su debido cumplimiento; su objeto es regular la estructura orgánica y funcionamiento de la Institución, para llevar a cabo la administración, vigilancia, disciplina y carrera judicial del Poder Judicial de la Federación.
 
-###### ARTICULO 2.
+###### Artículo 2.
 
-En el Estado de Querétaro el deporte es una actividad prioritaria en el desarrollo integral del ser humano, y al constituir un derecho de sus habitantes, el Gobierno del Estado y los Gobiernos Municipales tienen la obligación de incluir dentro de sus planes, programas y presupuestos, acciones y recursos que propicien las prácticas deportivas.
+Para los efectos de este Acuerdo se entenderá por:
 
-###### ARTICULO 3.
+I. Poder Judicial de la Federación: A los órganos señalados en el artículo 94 de la Constitución, con excepción de la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del Poder Judicial de la Federación;
 
-Es facultad del Gobierno del Estado establecer la normatividad y los lineamientos específicos para la planeación y regulación de las prácticas deportivas que se realizan en la entidad, debiendo procurar que tales prácticas se hagan de manera organizada y que los beneficios del deporte sean de calidad y abarquen al mayor número posible de personas.
+II. Constitución: Constitución Política de los Estados Unidos Mexicanos;
 
-###### ARTICULO 4.
+III. Ley: Ley Orgánica del Poder Judicial de la Federación;
 
-Para cumplir eficazmente lo dispuesto por el Artículo anterior, es competencia de la Secretaría de Cultura y Bienestar Social el fomento, coordinación, promoción y organización de la práctica del deporte no profesional en el territorio del Estado de Querétaro, dependencia estatal que será la responsable de coordinar a todas las entidades de los Sectores Público, Social y Privado que tengan relación o fomenten u organicen prácticas deportivas no profesionales.
+IV. Acuerdo: Acuerdo General del Pleno del Consejo de la Judicatura Federal que Reglamenta la Organización y Funcionamiento del propio Consejo;
 
-La Secretaría de Cultura y Bienestar Social, a través de la dependencia responsable, dictará las medidas necesarias para la mejor aplicación de esta Ley.
+V. Consejo: Consejo de la Judicatura Federal;
+
+VI. Pleno: Pleno del Consejo de la Judicatura Federal;
+
+VII. Presidente: Consejero Presidente del Consejo de la Judicatura Federal;
+
+VIII. Consejeros: Consejeros de la Judicatura Federal;
+
+IX. Coordinaciones: La de Administración Regional y la de Seguridad del Poder Judicial de la Federación;
+
+X. Organos jurisdiccionales: Tribunales de Circuito y Juzgados de Distrito;
+
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
+
+XI. Unidades administrativas: Las ponencias de los consejeros, Oficialía Mayor, Secretaría General de la Presidencia, secretarías ejecutivas, coordinaciones, Unidad de Implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación, secretarías técnicas de comisiones, direcciones generales, así como la Unidad de Enlace y el Archivo General del Consejo, y demás que sean autorizadas por el Pleno; y
+
+XII. Areas administrativas: las unidades administrativas y los órganos auxiliares.
+
+###### Artículo 3.
+
+El Consejo ejercerá sus atribuciones a través de los órganos creados en la Ley, los reglamentos y las diversas disposiciones aplicables, así como en los acuerdos generales expedidos por el Pleno, los que tendrán las atribuciones que en esos ordenamientos se les señalen.
+
+###### Artículo 4.
+
+La notificación de las resoluciones del Pleno y de las comisiones se efectuará en términos de lo dispuesto por el Libro I, Título VII, Capítulo III, del Código Federal de Procedimientos Civiles, salvo en el caso de los asuntos en materia laboral, los que se regirán por la Ley Federal de los Trabajadores al Servicio del Estado.
 
 ## TITULO SEGUNDO. De la Organización y Funcionamiento
 
-### CAPITULO I. PRINCIPIOS GENERALES
+### Capítulo I. Del Pleno
 
-###### ARTICULO 5.
+###### Artículo 5.
 
-Es facultad de los Municipios del Estado, en los términos de esta Ley y de sus disposiciones reglamentarias, promover y organizar, en el territorio de sus respectivas comunidades, actividades y prácticas físicas y deportivas, buscando que éstas consigan una participación amplia y numerosa de sus habitantes para lo cual deberán coordinarse con las organizaciones y asociaciones deportivas de la localidad.
+Las sesiones del Pleno serán ordinarias o extraordinarias, y se desarrollarán conforme a lo que determine el propio Pleno a propuesta de su Presidente o a solicitud de cualquiera de los Consejeros.
 
-###### ARTICULO 6.
+El carácter público o privado de las sesiones se determinará de conformidad con lo establecido en el artículo 75 de la Ley, así como de las disposiciones aplicables de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
 
-Los Municipios ejercerán las facultades derivadas de sus propias atribuciones en materia de promoción deportiva y el H. Ayuntamiento deberá destinar una partida de su presupuesto anual de egresos para este fin, en la medida de sus propias necesidades y recursos.
+El Presidente dirigirá la sesión, una vez debatido el asunto ordenará al Secretario Ejecutivo del Pleno tome la votación y con su resultado efectúe la declaratoria de la resolución.
 
-###### ARTICULO 7.
+###### Artículo 6.
 
-Además de las atribuciones que esta Ley otorga, los Municipios tendrán las siguientes:
+El Secretario Ejecutivo del Pleno remitirá la convocatoria y los asuntos a tratar en la sesión, y tomará nota durante la misma de los acuerdos establecidos y de las observaciones formuladas para la elaboración del acta correspondiente.
 
-I.- Desarrollar la Política Física Deportiva y vigilar la plena utilización de las instalaciones deportivas en su ámbito territorial.
+###### Artículo 7.
 
-II. Llevar un censo de las instalaciones deportivas de su territorio, así como su Estado de conservación, dotando a éstas del personal adecuado para su utilización y mantenimiento, dándose participación a los deportistas cuando exista interés.
+De cada sesión se deberá levantar acta, la cual contendrá las siguientes formalidades:
 
-III.- Asegurar el cumplimiento de la Legislación urbanística en materia de reserva de espacios y zonas para la práctica del deporte.
+I. Lugar, fecha, así como hora de apertura y clausura;
 
-IV.- Celebrar convenios con Organismos e Instituciones Públicas, Privadas y Sociales con el objeto de dar cumplimiento a los fines de la presente Ley.
+II. El nombre del Presidente o del Ministro que presida la sesión;
 
-V.- Las demás que les asignen otras Leyes y Reglamentos.
+III. Una relación nominal de los consejeros presentes y de los ausentes y, en su caso, el motivo por el que no asistieron o por el que se hubiesen retirado de la sesión, así como de su reincorporación o incorporación;
 
-###### ARTICULO 8.
+IV. La aprobación del acta anterior;
 
-La Educación Física y el deporte son actividades obligatorias en los niveles de educación Pre-escolar, Primaria, Secundaria, Bachillerato y Profesional, así como en educación especial, de acuerdo con lo que en su parte conducente establezca la Ley de Educación Pública del Estado y demás disposiciones relativas.
+V. Una relación sucinta y clara de los asuntos tratados, en el orden en que se hayan presentado, y la relación de aquéllos que fueron retirados o aplazados, expresando el resultado de la votación de los acuerdos tomados, así como los votos particulares emitidos; y
 
-###### ARTICULO 9.
+VI. Aquellas cuestiones que los consejeros hayan solicitado expresamente.
 
-Las entidades sociales y privadas pueden promover libremente las actividades relacionadas con la cultura física y el deporte, así como constituir asociaciones para la organización de estas actividades, siempre que no contravengan el espíritu y letra de la presente Ley y sus disposiciones reglamentarias.
+###### Artículo 8.
 
-###### ARTICULO 10.
+Cuando el proyecto presentado por un consejero sea desechado por la mayoría, será returnado a otro para que formule un nuevo proyecto, que se presentará al Pleno dentro del plazo que éste determine.
 
-La organización de las actividades físicas y deportivas de las Instituciones a las que la Ley les otorga autonomía, se regirán por lo que establezcan sus propias Legislaciones.
+###### Artículo 9.
 
-###### ARTICULO 11.
+En caso de ausencia del consejero ponente, cualquier otro consejero que se encuentre de acuerdo con el sentido del proyecto de resolución presentado, podrá hacerlo suyo.
 
-Los planes de desarrollo urbano que se aprueben para el Estado de Querétaro deberán considerar la reserva de espacios que se destinen a la práctica del deporte, estableciéndose la obligación a cargo de los fraccionadores de terrenos de reservar un espacio determinado para este mismo objeto en los términos que señale el Reglamento respectivo u otras Legislaciones aplicables.
+Asimismo, cuando el ausente sea el Presidente de alguna de las comisiones, podrá dar cuenta de los asuntos que deban someterse a consideración del Pleno, cualquiera de los consejeros integrantes de la Comisión respectiva y hacer suyos los proyectos del Presidente.
 
-###### ARTICULO 12.
+En los supuestos previstos en el presente artículo, la resolución será firmada por ambos consejeros, siempre y cuando no exista imposibilidad para ello.
 
-El Ejecutivo del Estado determinará los espacios que deban destinarse a la creación de áreas deportivas y recreativas públicas, incluso la expropiación de predios para estos fines.
+###### Artículo 10.
 
-###### ARTICULO 13.
+Los consejeros podrán abstenerse de exponer sus puntos de vista sobre el asunto sujeto a debate, pero no podrán abstenerse de votar, a menos que hubiere impedimento calificado previamente de legal o no hubieren estado presentes en la discusión del asunto.
 
-Además de las atribuciones que esta Ley determine en favor de la Secretaría de Cultura y Bienestar Social, tendrá las siguientes:
+###### Artículo 11.
 
-I.- Planear, programar, encauzar, promover y organizar la práctica del deporte no profesional entre los habitantes del Estado de Querétaro.
+Los reglamentos, acuerdos o resoluciones del Pleno que sean aprobados con modificaciones, serán remitidos al Secretario Ejecutivo del Pleno dentro de los tres días siguientes, contados a partir del día de su aprobación, para el trámite que corresponda.
 
-II.- Expedir los lineamientos a partir de los cuales se deberá practicar el deporte en la entidad, teniendo como base la coordinación de esfuerzos y recursos de los Sectores Público, Social y Privado.
+Si el asunto fuere de interés general, deberá remitirse en algún medio de almacenamiento magnético o digital al Secretario Ejecutivo antes mencionado, al día siguiente de su aprobación, a fin de agilizar su publicación en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de internet del Consejo.
 
-III.- Propiciar las condiciones para la práctica organizada del deporte profesional.
+###### Artículo 12.
 
-IV.- Vigilar el bien uso de las instalaciones deportivas que sean patrimonio del Estado.
+Las atribuciones no delegables del Pleno, contenidas en las fracciones II, XVII, XVIII, XIX, así como en la XL, del artículo 81 de la Ley, se regirán por los lineamientos contenidos en los acuerdos generales y demás disposiciones que emita el Pleno.
 
-V.- Vigilar que las organizaciones y asociaciones deportivas de la entidad cumplan con esta Ley, su reglamento y demás disposiciones reglamentarias y estatutarias, procurando el respeto a los derechos de las asociaciones.
+###### Artículo 13.
 
-VI.- Intervenir en los conflictos que se presenten en las asociaciones u organizaciones deportivas, conciliando los distintos intereses y, en su caso, resolver lo procedente.
+El Pleno otorgará nombramiento a los titulares a que se refiere la fracción IV del artículo 17 de este Acuerdo, por mayoría calificada de cinco votos.
 
-VII.- Firmar convenios con las distintas entidades Públicas, Privadas y Sociales que de manera directa o indirecta fomenten el deporte, lo practiquen o lo organicen.
+###### Artículo 14.
 
-VIII.- Promover entre los habitantes del Estado la práctica del deporte y la cultura física, especialmente entre los escolares.
+Los consejeros que integren la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación serán designados por el Pleno, de conformidad con el artículo 205 de la Ley.
 
-IX.- Contribuir al fomento de la Educación Física no escolar y del deporte a fin de que alcance la máxima difusión y mejora de su nivel técnico.
+###### Artículo 15.
 
-X.- Prestar colaboración y asesoría a las asociaciones deportivas respecto de las competencias que tienen atribuidas.
+El Pleno supervisará el funcionamiento administrativo de los Institutos Federales de Defensoría Pública y de Especialistas de Concursos Mercantiles, en los términos de las leyes que los regulan.
 
-XI.- Impulsar y asistir a las asociaciones para la formación de su personal técnico y deportivo especializado.
+###### Artículo 16.
 
-XII.- Conocer los estatutos y reglamentos de las asociaciones deportivas, los que deberán adecuarse al espíritu de esta Ley.
+(DEROGADO, D.O.F. 25 DE MAYO DE 2012)
 
-XIII.- Conocer de los planes y programas de las Asociaciones.
+### Capítulo II. Del Consejero Presidente
 
-XIV.- Conceder apoyos económicos y de equipamiento a las Asociaciones y Entidades deportivas controlando el uso adecuado de los mismos.
+###### Artículo 17.
 
-XV.- Realizar y promover estudios e investigaciones en materia físico deportiva para facilitar la debida asistencia técnica y asesoramiento a las asociaciones y entidades con actividad semejante.
+De conformidad con las atribuciones previstas en el artículo 85 de la Ley, son facultades del consejero Presidente las siguientes:
 
-XVI.- Autorizar y, en su caso, avalar cualquier tipo de actividad deportiva no profesional el ámbito del territorio estatal.
+I. Representar al Consejo por sí o por medio del servidor público que se designe conforme a la normativa aplicable;
 
-XVII.- Cooperar en el desarrollo de la educación física y del deporte para minusválidos.
+II. Designar a un consejero ponente para que someta un asunto dudoso o trascendental a la consideración del Pleno, a fin de que éste determine lo que corresponda;
 
-XVIII.- Dotar al deporte de elementos para la elevación de su nivel técnico, así como para llevar la vigilancia, seguimiento y mejora de la condición física de los deportistas de alto rendimiento.
+III. Dirigir los debates y conservar el orden en las sesiones plenarias;
 
-XIX.- Coordinar y supervisar la preparación y avalar la participación de deportistas representativos del Estado en competencias y campeonatos regionales y nacionales.
+IV. Proponer al Pleno dentro de los quince días siguientes a que se dé la vacante respectiva, los nombramientos de los titulares de los órganos auxiliares; secretarías ejecutivas; coordinaciones de Administración Regional y de Seguridad del Poder Judicial de la Federación; directores generales; unidades administrativas del Instituto Federal de la Defensoría Pública; así como de los vocales del Instituto Federal de Especialistas de Concursos Mercantiles; del representante del Consejo ante la Comisión Substanciadora Unica del Poder Judicial de la Federación, y de los miembros de la Junta Directiva del Instituto Federal de Defensoría Pública;
 
-XX.- Otorgar especial atención al desarrollo del deporte y a la creación de instalaciones deportivas en los medios rurales.
+V. Nombrar y remover al Oficial Mayor, al Secretario General de la Presidencia, al Titular de la Unidad de Implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación, y al personal de la Oficina de la Presidencia;
 
-XXI.- Prestar atención y colaboración al deporte de masas y a los clubes, agrupaciones, entidades o sectores que lo fomenten.
+VI. Vigilar el funcionamiento de los órganos auxiliares;
 
-###### ARTICULO 14.
+VII. Informar al Pleno de la Suprema Corte de Justicia de la Nación, al Senado de la República o al Presidente de la República, según corresponda, la designación, la terminación del encargo de los consejeros respectivos, con dos meses de antelación o la falta definitiva del Consejero que hubiesen designado, a efecto de que con toda oportunidad puedan hacerse los nombramientos concernientes;
 
-Para el debido cumplimiento de las atribuciones anteriores, la Secretaría de Cultura y Bienestar Social contará con una área administrativa que se denominará Departamento de Fomento Deportivo, órgano que será encargado de ejecutar los acuerdos del Secretario y vigilar el exacto cumplimiento de esta Ley, su Reglamento y demás disposiciones estatutarias.
+VIII. Otorgar licencias que no excedan de treinta días a los magistrados de circuito, jueces de distrito, Oficial Mayor, Secretario General de la Presidencia, secretarios ejecutivos, titulares de órganos auxiliares, coordinadores, Titular de la Unidad de Implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación, directores generales y personal subalterno del Pleno; cuando éstas tengan como motivo asistir a eventos académicos nacionales o internacionales, podrá solicitar la opinión de las instancias que correspondan;
 
-###### ARTICULO 15.
+IX. Firmar las resoluciones del Pleno, conjuntamente con el Secretario Ejecutivo respectivo y el ponente, así como con quien haya hecho suyo el proyecto, en su caso;
 
-El Consejo Estatal del Deporte es un órgano de carácter consultivo en materia de cultura física y deporte y su función primordial consistirá en asesorar a las entidades de los Sectores Público, Social y Privado que fomenten u organicen actividades deportivas de cualquier índole, además de proponer a la Secretaría de Cultura y Bienestar Social las políticas y acciones que deban promoverse con el objeto de que un mayor número de queretanos alcancen los beneficios de dichas actividades, y promover la calidad de las mismas.
+X. Admitir o desechar las quejas administrativas o denuncias que se presenten en contra de los servidores públicos del Poder Judicial de la Federación;
 
-###### ARTICULO 16.
+XI. Dar inicio al procedimiento de ratificación de magistrados de circuito y jueces de distrito, mediante la emisión del proveído correspondiente;
 
-Son facultades del Consejo Estatal del Deporte:
+XII. Dictar el auto correspondiente a la presentación de los recursos de revisión administrativa, interpuestos en contra de las resoluciones del Consejo;
 
-I.- Servir como órgano asesor en materia de deporte y cultura física.
+XIII. Tomar la protesta de ley en sesión pública extraordinaria a los consejeros designados por la Suprema Corte de Justicia de la Nación, a los magistrados de circuito y jueces de distrito, a los titulares de los órganos auxiliares, a los visitadores judiciales, así como al Oficial Mayor; al Secretario General de la Presidencia, a los secretarios ejecutivos, y por escrito al resto de los empleados del Consejo;
 
-II.- Proponer a la Secretaría de Cultura y Bienestar Social las políticas deportivas a implantarse en el Estado.
+XIV. Dictar las providencias oportunas para la corrección o remedio inmediato de los hechos motivo de una queja administrativa, cuando la naturaleza de aquéllos lo permita;
 
-III.- Colaborar con las asociaciones deportivas en todo lo relativo a su funcionamiento interior y a la práctica deportiva de los asociados.
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2012)</small>
 
-IV.- Elaborar y ejecutar cursos de capacitación técnica y deportiva, sobre todo en aquellas áreas y deportes que más lo requieran, a juicio de la Secretaría de Cultura y Bienestar Social.
+XV. Instruir al Secretario Ejecutivo de Vigilancia, Información y Evaluación para que en el ámbito de su competencia y bajo los parámetros que se emitan, realice los procedimientos de corroboración y constatación de información, así como de hechos denunciados, para obtener datos de prueba;
 
-V.- Elaborar su Reglamento y someterlo a la aprobación de la Secretaría de Cultura y Bienestar Social.
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2012)</small>
 
-VI.- Asesorar a las Asociaciones Deportivas en la elaboración de sus estatutos.
+XVI. Suscribir los nombramientos de los servidores públicos comprendidos en los niveles 2 al 9 del Catálogo General de Puestos;
 
-VII.- Realizar y proponer estudios e investigaciones en materia deportiva.
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2012)</small>
 
-VIII.- Avaluar permanentemente la práctica del deporte y la Cultura Física en el Estado, proponiendo las recomendaciones que considere adecuadas para el mejor cumplimiento de los fines de esta Ley.
+XVII. Firmar las credenciales que acrediten al personal del Poder Judicial de la Federación, de los niveles 2 al 7 del Tabulador de Puestos; y
 
-IX.- Las demás que le otorgue esta Ley, su Reglamento y demás normas reglamentarias y estatutarias.
+> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2012)</small>
 
-### CAPITULO II
+XVIII. Las demás que establezca el Pleno, mediante acuerdos generales.
 
-DEL CONSEJO ESTATAL DEL DEPORTE.
+###### Artículo 18.
 
-###### ARTICULO 17.
+La Presidencia del Consejo contará, para el adecuado ejercicio de sus atribuciones, con la Secretaría General de la Presidencia, la Unidad de Implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación y la Oficina de la Presidencia, sin perjuicio de que el Pleno determine alguna otra.
 
-El Consejo Estatal del Deporte se integrará de la siguiente manera:
+### Capítulo III. De los demás Consejeros
 
-I.- Un presidente que será el titular del Ejecutivo del Estado o la persona que él designe.
+###### Artículo 19.
 
-II.- Un secretario que será la persona que designe el Secretario de Cultura y Bienestar Social.
+Son atribuciones de los consejeros:
 
-III.- Un Consejero por cada una de las siguientes Instituciones:
+I. Integrar el Pleno y al menos una de las comisiones permanentes del Consejo, así como las comisiones transitorias y los comités, conforme lo determine el Pleno;
 
-a) 1 por cada Institución de Estudios Superiores de la Entidad.
+II. Velar por el orden y la disciplina dentro y fuera de sus ponencias;
 
-b) 1 por cada Organización Deportiva debidamente acreditada ante la Secretaría de Cultura y Bienestar Social;
+III. Velar por la autonomía de los órganos del Poder Judicial de la Federación y por la independencia e imparcialidad de sus miembros;
 
-c) Un Presidente por cada uno de los Comités Municipales.
+IV. Integrar la Comisión de Receso cuando así lo determine el Pleno;
 
-###### ARTICULO 18.
+V. Despachar la correspondencia de sus oficinas;
 
-El Consejo Estatal del Deporte funcionará en pleno y celebrará sesiones ordinarias por lo menos una vez al año y extraordinarias cuando las convoque el Presidente.
+VI. Enviar al Secretario Ejecutivo del Pleno las peticiones y promociones que los particulares presenten relacionadas con acciones de carácter jurisdiccional;
 
-### CAPITULO III
+VII. Cumplir con aquellas comisiones que le encomiende el Pleno;
 
-DE LOS COMITES MUNICIPALES DEL DEPORTE Y RECREACION.
+VIII. Integrar la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación, en términos del artículo 205 de la Ley;
 
-###### ARTICULO 19.
+IX. Dar cuenta al Pleno con las medidas urgentes tomadas durante la Comisión de Receso;
 
-Se crean los Comités Municipales del deporte y recreación en cada uno de los Municipios de esta Entidad Federativa, cuya función principal será la de ejecutar las facultades que esta Ley determina para los Municipios, así como las demás que sean necesarias para el fomento del deporte y la Cultura Física y recreación de sus respectivos territorios.
+X. Dar cuenta al Pleno con los asuntos trascendentes;
 
-### CAPITULO IV
+XI. Convocar a sesión extraordinaria del Pleno cuando la trascendencia del caso lo amerite;
 
-DE LAS ASOCIACIONES DEPORTIVAS.
+XII. Solicitar, para el adecuado desempeño de sus funciones, la cooperación de los órganos jurisdiccionales y áreas administrativas;
 
-###### ARTICULO 20.
+XIII. Presentar los proyectos de resolución de los procedimientos administrativos de responsabilidad y de ratificación de los servidores públicos que les corresponda conforme al turno;
 
-En todo caso, los Comités Municipales deberán coordinar y adecuar sus planes y programas a los generales del Estado.
+XIV. Presidir cualquiera de las Comisiones permanentes, del Consejo, y participar, en términos de las disposiciones aplicables, en la designación del Presidente de cada una de las comisiones y comités que integren;
 
-###### ARTICULO 21.
+XV. Colaborar en caso necesario, en cualquier actividad que guarde relación directa con el propio Consejo;
 
-Los Comités Municipales del deporte y recreación se integrarán de la siguiente manera:
+XVI. Asistir a las sesiones a las que sea convocado, salvo caso fortuito o fuerza mayor, o bien, porque le haya sido encomendada alguna comisión;
 
-I.- Un Presidente que será el Presidente Municipal.
+XVII. Nombrar y remover al personal adscrito a su ponencia, con excepción del nombramiento de los secretarios técnicos que las integren;
 
-II.- Un Secretario que será designado por el anterior.
+XVIII. Otorgar licencias con o sin goce de sueldo, hasta por treinta días, a los servidores públicos adscritos a sus ponencias;
 
-III.- Cinco Vocales que serán propuestos por las Asociaciones Deportivas del Municipio.
+XIX. Someter a consideración del Pleno el proyecto de resolución por el que se dé cumplimiento a las resoluciones pronunciadas en los recursos de revisión administrativa en el plazo que fija el artículo 128 de la Ley;
 
-###### ARTICULO 22.
+XX. Someter al Pleno, por conducto de la Secretaría Ejecutiva del Pleno, iniciativas de acuerdos generales, reglamentos, manuales internos u otras disposiciones de acatamiento obligatorio, así como las propuestas para la reforma, modificación o derogación de ellos;
 
-El Comité Municipal funcionará en pleno y celebrará sesiones ordinarias por lo menos una vez cada seis meses y extraordinarias cuando sean convocadas por el Presidente.
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
 
-Cada Comité Municipal elaborará su Reglamento y lo someterá a la aprobación a la Secretaría de Cultura y Bienestar Social.
+XXI. Ordenar que les sea entregada cualquier información elaborada, recopilada, resguardada o investigada por cualquiera de las áreas administrativas;
 
-###### ARTICULO 23.
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
 
-Son Asociaciones Deportivas para los efectos de esta Ley las organizaciones con personalidad jurídica y cuyo exclusivo objeto sea el fomento y la práctica de actividades físicas y deportivas sin ánimo de lucro.
+XXII. Dirigir y supervisar las funciones de la Unidad de Enlace Legislativo, en aquellos casos en que sean designados por el Pleno; y
 
-###### ARTICULO 24.
+> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2012)</small>
 
-Las Asociaciones Deportivas elaborarán sus estatutos sin contravenir el espíritu y letra de esta Ley y en los términos que para tal efecto determinen los Estatutos o Reglamentos de las Federaciones o Confederaciones, Nacionales o Internacionales, a las que esten afiliadas.
+XXIII. Las demás que establezcan la Ley; este Acuerdo; y los acuerdos plenarios.
 
-###### ARTICULO 25.
+### Capítulo IV. De las Comisiones y Comités
 
-Para participar en competencias oficiales, toda Asociación Deportiva deberá estar afiliada a la Federación que rija la modalidad deportiva que corresponda.
+Sección 1a.
 
-###### ARTICULO 26.
+Disposiciones Generales
 
-Se crea el Registro de Asociaciones Deportivas que estará a cargo de la Dependencia competente de la Secretaría de Cultura y Bienestar Social, a efecto de que las Asociaciones Deportivas existentes y las que surjan se inscriban.
+###### Artículo 20.
 
-La Secretaría de Cultura y Bienestar Social establecerá los mecanismos administrativos necesarios para que todas las Asociaciones Deportivas obtengan su registro.
+El Consejo contará con comisiones permanentes y transitorias. Las comisiones permanentes son las siguientes:
 
-###### ARTICULO 27.
+I. De Administración;
 
-El Gobierno del Estado reconocerá solo a las Asociaciones Deportivas que se ajusten al contenido del Artículo 13 de esta Ley.
+II. De Carrera Judicial;
 
-###### ARTICULO 28.
+III. De Disciplina;
 
-Las Asociaciones Deportivas reconocidas por virtud de esta Ley se sujetarán a las siguientes normas:
+IV. De Creación de Nuevos Organos;
 
-I.- No pueden destinarse sus bienes a fines Industriales, Comerciales, Profesionales o de Servicios, ni ejercer actividades de igual carácter si esto se hace con la finalidad de repartir beneficios entre sus socios, sus ingresos se aplicarán íntegramente a conseguir su objetivo social.
+V. De Adscripción;
 
-II.- Pueden fomentar actividades de carácter físico y deportivo dirigidas al público en general aplicando los beneficios obtenidos al desarrollo de las mismas actividades entre sus asociados.
+VI. De Vigilancia, Información y Evaluación; y
 
-III.- En caso de disolución, su patrimonio total será liquidado en un plazo no mayor de seis meses conforme lo estipulan los Capítulos IV y V del Código Civil para el Estado.
+VII. Las demás que determine el Pleno.
 
-###### ARTICULO 29.
+Las comisiones transitorias son:
 
-Las Asociaciones de las que habla esta Ley no tendrán limitado el número de participantes y las cuotas de sus agremiados serán exclusivamente para beneficio de sus actividades deportivas.
+I. La de Receso; y
 
-###### ARTICULO 30.
+II. Las demás que determine el Pleno.
 
-El ámbito de la potestad disciplinaria se extiende a las infracciones reglamentarias de las reglas de juego y de la conducta deportiva.
+###### Artículo 21.
 
-###### ARTICULO 31.
+Cada Comisión permanente se formará por tres consejeros designados por el Pleno, por mayoría calificada de cinco votos, en el año en que deba renovarse. Podrá funcionar con dos consejeros; en caso de ausencia del Presidente de la Comisión respectiva, presidirá el consejero de mayor antigüedad.
 
-La aplicación de la Reglamentación Disciplinaria corresponderá a:
+En el supuesto anterior, la votación dividida entre los dos consejeros presentes en la sesión, será resuelta por el Pleno.
 
-A).- Las Agrupaciones, Asociaciones, Clubes y Entidades Deportivas sobre sus deportistas, afiliados y técnicos, de conformidad con sus estatutos, reglamentos y disposiciones de su régimen interior.
+Las comisiones se renovarán cada dos años. En el caso de que se designe nuevo consejero durante el periodo de funcionamiento de las comisiones, éste se integrará a las de aquél que concluyó su encargo.
 
-B).- Las Asociaciones sobre las personas físicas y morales afiliadas sobre técnicos, jueces y árbitros, según sus normas reglamentarias y estatutarias.
+###### Artículo 22.
 
-T R A N S I T O R I O S
+Cada Comisión elegirá a su respectivo Presidente y determinará el tiempo de su encargo de acuerdo con lo dispuesto en el artículo 79 de la Ley.
+
+Cada uno de los consejeros presidirá al menos una Comisión.
+
+###### Artículo 23.
+
+La integración de las comisiones será en forma rotativa.
+
+###### Artículo 24.
+
+El Pleno podrá fijar las excepciones a los criterios contenidos en este capítulo, para el mejor desempeño de las funciones de las comisiones.
+
+###### Artículo 25.
+
+Las comisiones celebrarán sesiones ordinarias con la frecuencia y horario que determinen los consejeros que las integran. La convocatoria deberá contener el día y la hora de la sesión, y se acompañará con el orden del día de los asuntos a desahogar y la documentación relativa.
+
+Cualquiera de los consejeros integrantes de la Comisión podrá convocar a sesión extraordinaria, mediante oficio dirigido al Presidente de la propia comisión, el cual contendrá la fecha y hora de la sesión, la situación urgente o trascendente que amerite su celebración y la documentación correspondiente.
+
+###### Artículo 26.
+
+Las sesiones ordinarias y extraordinarias de las comisiones serán privadas.
+
+###### Artículo 27.
+
+Las comisiones calificarán de plano las excusas o impedimentos de sus integrantes.
+
+Si la excusa o impedimento se presenta por más de un integrante de la Comisión, serán calificados por el Pleno y, de resultar fundado más de uno de ellos, el asunto correspondiente será resuelto por el propio Pleno.
+
+###### Artículo 28.
+
+Los asuntos a tratar en las sesiones ordinarias de las comisiones, se listarán en el orden del día correspondiente y la documentación relativa se distribuirá entre los consejeros miembros, con cuarenta y ocho horas de antelación a la celebración de la sesión, excepto en el caso de la Comisión de Disciplina, en la que deberá entregarse con cinco días hábiles de anticipación.
+
+Los asuntos que presenten los integrantes de la Comisión con carácter urgente o extraordinario, serán incluidos en el capítulo de asuntos generales, el cual se insertará en todas las sesiones al final del orden del día correspondiente.
+
+###### Artículo 29.
+
+Para la discusión de los proyectos de resolución que se sometan al conocimiento de la Comisión de Disciplina, los consejeros ponentes, que no formen parte de ella, podrán asistir a la sesión correspondiente, si así lo consideran, para exponer sus puntos de vista respecto de dichos proyectos, quienes podrán, en su caso, designar al secretario técnico que haya elaborado el proyecto respectivo para que comparezca en su representación. Para tal efecto, se dará a conocer oportunamente a todos los consejeros, cuyos asuntos se incluyan en el orden del día, la lista de asuntos a tratar en la Comisión, así como la fecha y hora en que se habrá de realizar la sesión correspondiente.
+
+###### Artículo 30.
+
+Cuando no se obtenga la aprobación de un asunto en alguna Comisión, o bien, cuando el asunto sea de trascendencia a criterio de la Comisión o de alguno de sus consejeros, se someterá a consideración del Pleno para su resolución.
+
+###### Artículo 31.
+
+Las atribuciones de cada Comisión serán consultivas o propositivas respecto de las atribuciones contempladas en las fracciones I a XXI del artículo 81 de la Ley, y decisorias en el caso de las atribuciones delegadas en este Acuerdo.
 
 ###### Artículo 32.
 
@@ -545,7 +631,9 @@ XIV. Conocer de aquellos asuntos generales que sean sometidos a su consideració
 
 XV. Desahogar las audiencias a que se refiere el artículo 134, fracción III, de la Ley;
 
-XVI. Aprobar la integración de los comités de investigación que proponga el Secretario Ejecutivo de Disciplina, así como ordenar la práctica de visitas extraordinarias e integración de comités de investigación, cuando estime que se ha cometido una falta grave o cuando así lo solicite el Pleno de la Suprema Corte de Justicia de la Nación, sin perjuicio de las facultades que corresponden a la Visitaduría Judicial y a la Contraloría del Poder Judicial de la Federación;
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2012)</small>
+
+XVI. Aprobar la integración de los comités de investigación que proponga el Secretario Ejecutivo de Disciplina e instruir al Secretario Ejecutivo de Vigilancia, Información y Evaluación para que en el ámbito de su competencia, realice los procedimientos de corroboración y constatación de información y de hechos denunciados, para obtener datos de prueba; así como ordenar la práctica de visitas extraordinarias e integración de comités de investigación, cuando estime que se ha cometido una falta grave o cuando así lo solicite el Pleno de la Suprema Corte de Justicia de la Nación, sin perjuicio de las facultades que corresponden a la Visitaduría Judicial y a la Contraloría del Poder Judicial de la Federación;
 
 XVII. Designar, a propuesta de su presidente, al secretario técnico de la Comisión y determinar, en su caso, su remoción;
 
@@ -639,7 +727,9 @@ Son atribuciones de la Comisión de Vigilancia, Información y Evaluación, las 
 
 I. Vigilar el cumplimiento de los programas, así como proponer las medidas pertinentes para el óptimo funcionamiento de los órganos jurisdiccionales;
 
-II. Establecer medios adecuados de vigilancia, información y evaluación del Poder Judicial de la Federación, como apoyo a la toma de decisiones tendentes a garantizar su autonomía y preservar la independencia e imparcialidad de sus miembros, cuidando que su actuación se apegue a los principios de excelencia, profesionalismo y objetividad;
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2012)</small>
+
+II. Establecer medios adecuados de vigilancia, información y evaluación del Poder Judicial de la Federación, como apoyo a la toma de decisiones tendentes a garantizar su autonomía y preservar la independencia e imparcialidad de sus miembros, cuidando que su actuación se apegue a los principios de excelencia, profesionalismo y objetividad; e instruir al Secretario Ejecutivo de Vigilancia, Información y Evaluación para que en el ámbito de su competencia, realice los procedimientos de corroboración y constatación de información, así como de hechos denunciados, para obtener datos de prueba;
 
 III. Formular los criterios normativos de operación y evaluación, para hacer posible el cumplimiento de las atribuciones a que se refiere la fracción anterior y someterlos a la aprobación del Pleno;
 
@@ -681,9 +771,13 @@ IV. Los demás que determine el Pleno.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 25 DE MAYO DE 2012)</small>
 
-### CAPITULO IV (SIC)
+### Capítulo V
 
-DEL REGIMEN DISCIPLINARIO DEPORTIVO.
+De la Oficialía Mayor, Secretaría General de la Presidencia, Secretarías Ejecutivas, Coordinaciones y Unidad de Implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación
+
+Sección 1a.
+
+Generalidades
 
 ###### Artículo 52.
 
@@ -1311,9 +1405,15 @@ XIX. Someter a la consideración de las comisiones, las disposiciones, reglas, b
 
 XX. Informar a las comisiones, en los plazos establecidos, sobre el ejercicio de las atribuciones conferidas y del avance de los proyectos y programas a su cargo;
 
-XXI. Presentar ante el Pleno, el Informe Anual de Labores correspondiente a la unidad administrativa de su competencia; y
+XXI. Presentar ante el Pleno, el Informe Anual de Labores correspondiente a la unidad administrativa de su competencia; y (sic)
 
-XXII. Las demás que establezcan, el Pleno, y las comisiones.
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2012)</small>
+
+XXII. Proponer al Presidente, al Pleno o a la Comisión de Disciplina los procedimientos de corroboración y constatación de información, así como de hechos denunciados, para obtener datos de prueba, que podrán realizarse en forma paralela con la Secretaría Ejecutiva de Vigilancia, Información y Evaluación; y
+
+> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2012)</small>
+
+XXIII. Las demás que establezcan, el Pleno, y las comisiones.
 
 ###### Artículo 78.
 
@@ -1339,7 +1439,9 @@ VII. Dar seguimiento a las acciones que en materia judicial determine el Consejo
 
 VIII. Presentar, con la periodicidad que determine la Comisión de Vigilancia, Información y Evaluación, los directorios biográficos del personal del Poder Judicial de la Federación;
 
-IX. Coordinarse con la Contraloría del Poder Judicial de la Federación, para el oportuno y eficaz cumplimiento de las atribuciones que les son propias;
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2012)</small>
+
+IX. Coordinarse con las diversas áreas del Consejo y requerir a las unidades administrativas y órganos jurisdiccionales la información necesaria para el oportuno y eficaz cumplimiento de las atribuciones que les son propias;
 
 X. Verificar que los informes que presenten los diferentes órganos y miembros del Poder Judicial de la Federación, cumplan con los requisitos de veracidad, exactitud y buena fe;
 
@@ -1363,9 +1465,27 @@ XIX. Someter a la consideración de las comisiones, las disposiciones, reglas, b
 
 XX. Informar a las comisiones, en los plazos establecidos, sobre el ejercicio de las atribuciones conferidas y del avance de los proyectos y programas a su cargo;
 
-XXI. Presentar ante el Pleno, el Informe Anual de Labores correspondiente a la unidad administrativa de su competencia; y
+XXI. Presentar ante el Pleno, el Informe Anual de Labores correspondiente a la unidad administrativa de su competencia; y (sic)
 
-XXII. Las demás que establezcan el Pleno, y las comisiones.
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2012)</small>
+
+XXII. Coordinar la operación del centro de atención telefónica para la recepción de quejas y denuncias del Consejo de la Judicatura Federal;
+
+> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2012)</small>
+
+XXIII. Proveer lo conducente para la ejecución de los procedimientos de corroboración y constatación de información, así como de hechos denunciados, para obtener datos de prueba; que le encomiende el Pleno, el Presidente, la Comisión de Disciplina, la Comisión de Vigilancia, Información y Evaluación o la Contraloría;
+
+> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2012)</small>
+
+XXIV. Recibir las quejas o denuncias formuladas a través de los buzones físicos o virtuales, el centro de atención telefónica o comparecencias, respecto de las cuales deberá elaborar un proveído en el que se decida desechar, prevenir, aclarar u ordenar su remisión al área correspondiente para los efectos legales que se estimen conducentes. El proveído por medio del cual se decida desechar las referidas quejas o denuncias, deberá ser autorizado por el Presidente;
+
+> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2012)</small>
+
+XXV. Conocer de aquellas quejas o denuncias, provenientes de las diversas áreas del Consejo de la Judicatura Federal, en las que por no colmar los requisitos legales, no se hubiere ordenado el trámite del procedimiento de responsabilidad respectivo; y
+
+> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2012)</small>
+
+XXVI. Las demás que establezcan el Pleno y las comisiones.
 
 ###### Artículo 80.
 
@@ -2997,19 +3117,311 @@ Las áreas administrativas brindarán el apoyo que les sea requerido por la Secr
 
 Cualquier consulta o situación no prevista suscitada con motivo de la aplicación de este Título, será competencia de la Comisión de Vigilancia, Información y Evaluación.
 
-## TITULO DECIMO. De las Reformas al Acuerdo
+> <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE MAYO DE 2012)</small>
+
+## TITULO DECIMO. Del Registro de las Asociaciones Civiles
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE MAYO DE 2012)</small>
+
+### Capítulo I. Disposiciones Generales
+
+> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
 
 ###### Artículo 187.
 
-El Pleno podrá modificar el contenido del presente Acuerdo cuando así lo determine, por iniciativa del Presidente, cualquiera de los consejeros o de las Comisiones.
+Se crea el Registro a que se refiere el artículo 619 del Código Federal de Procedimientos Civiles, que tiene como finalidad la inscripción de las asociaciones civiles previstas en el diverso numeral 585, fracción II, del propio código federal adjetivo, esto es, de las colectividades conformadas por al menos treinta miembros cuya matrícula corresponde al Consejo.
+
+> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
 
 ###### Artículo 188.
+
+El Registro será público y su información estará disponible en la página electrónica del Consejo.
+
+Las asociaciones civiles podrán presentar sus solicitudes de inscripción en el Registro, así como de modificación o cancelación del mismo, por escrito en las oficinas del Edificio Sede del Consejo, de las Administraciones Regionales y de las Delegaciones Administrativas, o a través de la página electrónica del Consejo. En ambos casos lo harán bajo protesta de decir verdad.
+
+> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
+
+###### Artículo 189.
+
+Las asociaciones civiles, cuya solicitud de inscripción resulte procedente, serán dadas de alta, mediante folios identificados por el año de su apertura, numerados de manera consecutiva y cronológica, siendo que cada año reiniciará la numeración.
+
+El folio contendrá:
+
+I. La fecha de inscripción;
+
+II. La razón o denominación social;
+
+III. El objeto social, duración y domicilio fiscal;
+
+IV. Los nombres de los socios o asociados; y
+
+V. El nombre de los representantes y de quienes ejerzan cargos directivos.
+
+En caso de modificación, cancelación o revocación del Registro, se asentarán éstas en el folio y las fechas en que se modifique, cancele o revoque el Registro. Y en el primer caso, además, las modificaciones de los datos a que se refieren las fracciones II a V del párrafo anterior.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE MAYO DE 2012)</small>
+
+### Capítulo II. Administración del Registro
+
+> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
+
+###### Artículo 190.
+
+El Registro será administrado por la Dirección General de Asuntos Jurídicos, la Dirección General de Tecnologías de la Información, la Secretaría Ejecutiva del Pleno, así como la Coordinación de Administración Regional, en el ámbito de sus competencias previstas en este Acuerdo.
+
+> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
+
+###### Artículo 191.
+
+La Dirección General de Asuntos Jurídicos, tendrá las siguientes atribuciones:
+
+I. Determinar la procedencia de las solicitudes de inscripción en el Registro, así como de modificación y cancelación del mismo;
+
+II. Inscribir en el Registro a las asociaciones civiles, cuya solicitud resulte procedente y, en su caso, asentar las modificaciones, cancelaciones o revocaciones del Registro, en el folio respectivo;
+
+III. Tramitar y resolver los procedimientos de revocación de la inscripción en el Registro, en aquellos casos en que las asociaciones civiles incumplan con las obligaciones a que alude el artículo 623 del Código Federal de Procedimientos Civiles;
+
+IV. Expedir constancias de la inscripción en el Registro, de las asociaciones civiles a que se refiere la fracción II del artículo 585 del Código Federal de Procedimientos Civiles, así como de modificación o cancelación o revocación del mismo;
+
+V. Mantener actualizada la base de datos del Registro;
+
+VI. Revisar el Informe anual que presenten las asociaciones civiles, a fin de verificar que cumplan con sus obligaciones para mantener el Registro y dejar constancia de ello en el expediente respectivo, así como, en su caso, iniciar el procedimiento de revocación correspondiente; y
+
+VII. Brindar asesoría jurídica sobre el uso del sistema electrónico de Registro.
+
+> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
+
+###### Artículo 192.
+
+La Dirección General de Tecnologías de la Información tendrá las siguientes atribuciones:
+
+I. Desarrollar e instalar el sistema electrónico para permitir el registro de las solicitudes en forma escrita o en línea, a través de la página de internet del Consejo;
+
+II. Crear el micro-sitio de la página de internet del Consejo con los campos necesarios para que el Registro pueda ser fácilmente consultable y utilizable en línea;
+
+III. Incorporar al sistema electrónico de Registro, las instrucciones para su uso;
+
+IV. Mantener el acceso permanente al Registro en la página electrónica del Consejo;
+
+V. Autenticar la información contenida en el Registro; y
+
+VI. Asesorar técnicamente en el uso del sistema electrónico de Registro.
+
+> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
+
+###### Artículo 193.
+
+Corresponde al personal autorizado de las Administraciones Regionales, de las Delegaciones Administrativas y del Edificio Sede del Consejo:
+
+I. Recibir las solicitudes de inscripción en el Registro, así como de modificación o cancelación del mismo, que presenten las asociaciones civiles y remitirlas digitalizadas, a través de medios electrónicos, a la Dirección General de Asuntos Jurídicos para su tramitación;
+
+II. Cotejar los documentos originales que presenten las asociaciones civiles para el trámite de su solicitud, y dejar constancia de ello; y
+
+III. Certificar las copias de los documentos a que se refiere la fracción anterior, y remitirlas, digitalizadas a través de medios electrónicos, a la Dirección General de Asuntos Jurídicos.
+
+La Coordinación de Administración Regional, capacitará a los servidores públicos adscritos a las Administraciones Regionales y Delegaciones Administrativas, en el uso del sistema electrónico de Registro, en coordinación con las Direcciones Generales de Asuntos Jurídicos y de Tecnologías de la Información. La Secretaría Ejecutiva del Pleno llevará a cabo la capacitación en los mismos términos respecto del personal de la Oficialía de Partes y Certificación del Edificio Sede del Consejo.
+
+El Secretario Ejecutivo del Pleno y el Coordinador de Administración Regional designarán al personal a que se refiere el primer párrafo de este artículo, en su ámbito de competencia.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE MAYO DE 2012)</small>
+
+### Capítulo III. De la inscripción en el Registro, su modificación y cancelación
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 30 DE MAYO DE 2012)</small>
+
+#### Sección Primera. Disposiciones Generales
+
+> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
+
+###### Artículo 194.
+
+Las asociaciones civiles que podrán solicitar su inscripción en el Registro son aquellas colectividades que estén conformadas por al menos treinta miembros.
+
+Las asociaciones registradas deberán informar al Consejo las modificaciones que sufra la información a que se refiere el artículo 189, fracciones II a V de este Acuerdo, dentro de los diez días hábiles siguientes a que se haya realizado.
+
+Las asociaciones civiles podrán solicitar en cualquier momento la cancelación de su inscripción en el Registro.
+
+> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
+
+###### Artículo 195.
+
+En caso de que la solicitud sea presentada en el Edificio Sede del Consejo, en las Administraciones Regionales, o en las Delegaciones Administrativas, la asociación civil deberá acompañar a la solicitud de inscripción la siguiente documentación en original y copia para su cotejo:
+
+I. Solicitud con firma autógrafa del representante de la asociación civil, que esté facultado para hacer el trámite;
+
+II. Los estatutos sociales;
+
+III. Testimonio del acta constitutiva de la asociación civil, con sus modificaciones;
+
+IV. La cédula fiscal de la asociación civil;
+
+V. Identificación oficial con fotografía del representante de la asociación civil que pretende llevar a cabo el trámite; y
+
+VI. El poder general o especial que faculte al representante a llevar a cabo el trámite de solicitud.
+
+Si la solicitud es de modificación del Registro se deberá anexar la documentación, en original y copia, a que se refieren las fracciones I, V y VI de este artículo, y la correspondiente a la modificación, prevista en las fracciones II a IV, del mismo precepto. En el caso de las solicitudes de cancelación los documentos que deben presentarse sólo serán los previstos en las fracciones V y VI antes mencionadas.
+
+Presentada la solicitud en los lugares a que se refiere el primer párrafo de este artículo, el servidor público autorizado llevará a cabo el cotejo de la documentación y certificará su contenido.
+
+En el supuesto de que la solicitud sea presentada a través de la página electrónica del Consejo, la asociación civil deberá remitir, mediante correo certificado la solicitud a que se refiere la fracción I del primer párrafo de este artículo, así como copias certificadas ante notario público del resto de la documentación a que aluden las fracciones II a VI del citado párrafo de este artículo, indicando el número de trámite, o presentarla en original y copia para cotejo en el Edificio Sede de Consejo, en la Administración Regional o en la Delegación Administrativa que corresponda, dentro de los tres días hábiles siguientes al de la presentación de la solicitud. En este último caso se observará lo previsto en el párrafo anterior.
+
+> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
+
+###### Artículo 196.
+
+Después del primer año de entrada en vigor del Decreto por el que se reforman y adicionan el Código Federal de Procedimientos Civiles, el Código Civil Federal, la Ley Federal de Competencia Económica, la Ley Federal de Protección al Consumidor, la Ley Orgánica del Poder Judicial de la Federación, la Ley General del Equilibrio Ecológico y la Protección al Ambiente y la Ley de Protección y Defensa al Usuario de Servicios Financieros, publicado en el Diario Oficial de la Federación el 30 de agosto de 2011, además de los requisitos en el artículo anterior, las asociaciones civiles deberán acreditar tener al menos un año de haberse constituido y haber realizado actividades inherentes al cumplimiento de su objeto social.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 30 DE MAYO DE 2012)</small>
+
+#### Sección Segunda. De las solicitudes de inscripción en el Registro, así como de modificación y cancelación del mismo, presentadas por escrito
+
+> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
+
+###### Artículo 197.
+
+Las solicitudes de inscripción en el Registro, así como de modificación y cancelación del mismo, podrán ser presentadas por escrito, en la Oficialía de Partes y Certificación del Edificio Sede del Consejo en un horario de atención de las nueve a las dieciocho horas, en días hábiles, conforme a lo dispuesto por el artículo 180 de este Acuerdo.
+
+> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
+
+###### Artículo 198.
+
+Las solicitudes de inscripción en el Registro, así como de modificación y cancelación del mismo, que se formulen por escrito, también podrán ser presentadas en la Administración Regional o Delegación Administrativa que corresponda al domicilio fiscal de la asociación, en un horario de atención de las nueve a las quince y de las dieciséis a las dieciocho horas, en días hábiles, en términos de lo previsto por el Acuerdo General 48/2011 del Pleno del Consejo de la Judicatura Federal, que establece la jornada y el horario de trabajo de los servidores públicos adscritos a las áreas administrativas del propio Consejo.
+
+> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
+
+###### Artículo 199.
+
+Recibidos los escritos de solicitud de inscripción en el Registro, así como de modificación o cancelación del mismo, el personal administrativo autorizado, adscrito a la Oficialía de Partes y Certificación del Edificio Sede del Consejo, a las Administraciones Regionales o Delegaciones Administrativas, según sea el caso, procederá al cotejo y, en caso, certificación de los documentos anexos y los enviará digitalizados a la Dirección General de Asuntos Jurídicos.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 30 DE MAYO DE 2012)</small>
+
+#### Sección Tercera
+
+De la (sic) solicitudes de inscripción en el Registro, así como de modificación y cancelación del mismo, presentadas en línea, a través de la página electrónica del Consejo
+
+> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
+
+###### Artículo 200.
+
+La solicitud de inscripción, modificación o cancelación en el Registro podrá efectuarse en línea, a través de la página electrónica del Consejo, las veinticuatro horas, todos los días del año. En caso de que sean presentadas en días y horas inhábiles, la fecha y hora de recepción serán las que correspondan al primer día hábil subsecuente al envío para los efectos del cómputo de los plazos a que se refiere este Título.
+
+> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
+
+###### Artículo 201.
+
+Para ingresar en línea la solicitud de inscripción, modificación o cancelación, el sistema electrónico de Registro proporcionará una clave de usuario y una contraseña cuyo uso, confidencialidad y administración, será responsabilidad exclusiva del solicitante.
+
+Una vez dada de alta la solicitud, el sistema emitirá automáticamente un acuse de recibo electrónico, que contendrá la fecha y la hora de recepción, así como el número de trámite.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 30 DE MAYO DE 2012)</small>
+
+#### Sección Cuarta. Del resultado de la solicitud de inscripción, modificación o cancelación
+
+> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
+
+###### Artículo 202.
+
+Dentro de los tres días hábiles siguientes a la recepción de la solicitud de inscripción, modificación o cancelación y de las copias certificadas de los documentos anexos a la misma que le remita la Oficialía de Partes y Certificación del Edificio Sede del Consejo, las Administraciones Regionales o las Delegaciones Administrativas, la Dirección General de Asuntos Jurídicos revisará el cumplimiento de los requisitos y generará una respuesta en la que se hará constar la inscripción, la procedencia de la modificación o cancelación, o bien, la improcedencia de la solicitud, y será enviada digitalizada a través del sistema a la dirección de correo electrónico que hubiere proporcionado la asociación civil solicitante, con la firma autógrafa del Titular de la Dirección General de Asuntos Jurídicos, sin perjuicio de que la respuesta se notifique a través de correo certificado en el domicilio de la asociación civil solicitante.
+
+> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
+
+###### Artículo 203.
+
+La negativa de inscripción en el Registro no impide que la asociación interesada presente nuevamente su solicitud.
+
+> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
+
+###### Artículo 204.
+
+El resultado de la solicitud será consultable a través de la página electrónica del Consejo, el día hábil siguiente a aquél en que la Dirección General de Asuntos Jurídicos la hubiese resuelto; esto último sin perjuicio de que la solicitud se haya presentado por escrito, ni de que se haya enviado la respuesta al correo electrónico proporcionado por la asociación solicitante.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 30 DE MAYO DE 2012)</small>
+
+### Capítulo IV. Del mantenimiento del folio de inscripción en el Registro
+
+> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
+
+###### Artículo 205.
+
+Para mantener su registro las asociaciones deberán:
+
+I. Evitar que sus asociados, socios, representantes o aquéllos que ejerzan cargos directivos, incurran en situaciones de conflicto de interés respecto de las actividades que realizan, en términos de lo dispuesto en el Título Unico del Libro Quinto del Código Federal de Procedimientos Civiles;
+
+II. Dedicarse a actividades compatibles con su objeto social;
+
+III. Conducirse con diligencia, probidad y en estricto apego a las disposiciones legales aplicables;
+
+IV. Entregar en las oficinas del Edificio Sede del Consejo, bajo protesta de decir verdad, el acta de asamblea de la asociación civil, debidamente protocolizada en la que conste el informe anual sobre su operación y actividades respecto del año inmediato anterior, a más tardar el último día hábil del mes de abril de cada año, mediante correo certificado o personalmente; y
+
+V. Mantener actualizada en forma permanente la información que deba entregar al Consejo, en términos de lo dispuesto en este Acuerdo.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE MAYO DE 2012)</small>
+
+### Capítulo V. De la revocación del Registro
+
+> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
+
+###### Artículo 206.
+
+El incumplimiento de las obligaciones previstas en el artículo 205 de este Acuerdo, generará la revocación del registro.
+
+> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
+
+###### Artículo 207.
+
+El procedimiento de revocación del Registro puede iniciar de oficio o a petición de parte que tenga interés jurídico en ello.
+
+Quien tenga interés jurídico en la revocación deberá hacer del conocimiento del Consejo por escrito, los hechos que presuntamente actualicen los supuestos de revocación, acompañando las pruebas que acrediten el incumplimiento a que se refiere el artículo anterior.
+
+> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
+
+###### Artículo 208.
+
+Corresponde a la Dirección General de Asuntos Jurídicos tramitar y resolver el procedimiento de revocación.
+
+En los casos en que la Dirección General de Asuntos Jurídicos tenga conocimiento de alguna causal de revocación de la inscripción en el Registro, notificará a los representantes legales de la asociación que obren en el folio del Registro, en el domicilio asentado en el mismo, el inicio del procedimiento de revocación, para que dentro de los quince días hábiles siguientes expongan lo que a su derecho convenga y, en su caso, ofrezcan las pruebas con las que cuenten.
+
+Una vez desahogadas las pruebas admitidas, así como recibidos los alegatos de los representantes legales de la asociación civil, dentro de los diez días hábiles siguientes, la Dirección General de Asuntos Jurídicos dictará la resolución que proceda, la cual será notificada en forma personal o por correo certificado.
+
+> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
+
+###### Artículo 209.
+
+En todo lo no previsto en este Capítulo se aplicará supletoriamente el Código Federal de Procedimientos Civiles.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 30 DE MAYO DE 2012)</small>
+
+### Capítulo VI. Disposiciones Finales
+
+> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
+
+###### Artículo 210.
+
+Las circunstancias no previstas en este Título serán resueltas por el Pleno.
+
+(REUBICADO [N. DE E. ANTES TÍTULO DÉCIMO], D.O.F. 30 DE MAYO DE 2012)
+
+TITULO DECIMOPRIMERO
+
+De las Reformas al Acuerdo
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 187], D.O.F. 30 DE MAYO DE 2012)
+
+###### Artículo 211.
+
+El Pleno podrá modificar el contenido del presente Acuerdo cuando así lo determine, por iniciativa del Presidente, cualquiera de los consejeros o de las Comisiones.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 188], D.O.F. 30 DE MAYO DE 2012)
+
+###### Artículo 212.
 
 Las modificaciones que en lo sucesivo se realicen al presente Acuerdo, la Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá incorporarlas al texto de este instrumento, a efecto de que se sustituyan, adicionen o supriman en el articulado.
 
 A los acuerdos generales que tengan por objeto modificar este Acuerdo no se les asignará número alguno para efectos de su identificación, será suficiente con la fecha de su publicación en el Diario Oficial de la Federación.
 
-###### Artículo 189.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 189], D.O.F. 30 DE MAYO DE 2012)
+
+###### Artículo 213.
 
 El procedimiento anterior será aplicable para la modificación o derogación de cualquier otro Acuerdo General del Pleno, siempre que no se establezca un procedimiento especial en el acuerdo relativo.
 
@@ -3017,45 +3429,27 @@ El procedimiento anterior será aplicable para la modificación o derogación de
 
 ###### ARTICULO PRIMERO.
 
-Las actuales Asociaciones Deportivas y demás entidades deportivas disponen de ocho meses a partir de la vigencia de esta Ley para solicitar a la Secretaría de Cultura y Bienestar Social aprobación de sus estatutos y la respectiva inscripción en el registro a que se refiere el Artículo 26.
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo previsto en el párrafo siguiente.
+
+Respecto del artículo 39, fracción II, durante el período del Presidente actual el Pleno determinará lo que corresponda, tomando en consideración los trabajos de planeación existentes en el Consejo.
 
 ###### ARTICULO SEGUNDO.
 
-Se deroga el Decreto que crea el Consejo Estatal del Deporte del Estado de Querétaro, publicado en el Periódico Oficial de Gobierno del Estado No. 46 de fecha de 12 de noviembre de 1981.
+Se abroga el Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta la organización y funcionamiento del propio Consejo publicado en el Diario Oficial de la Federación el 3 de octubre de 2006, así como los acuerdos generales que lo reforman o adicionan; y, se derogan todas las disposiciones que se opongan al presente Acuerdo.
 
 ###### ARTICULO TERCERO.
 
-En tanto se integra la estructura y los procedimientos a que esta Ley se refiere, el Secretario de Cultura y Bienestar Social tomará las decisiones y acuerdos que sean necesarios para el cumplimiento de la presente.
+Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta y en el portal de Internet del Consejo.
 
 ###### ARTICULO CUARTO.
 
-Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+El personal de la Secretaría Ejecutiva de Obra, Recursos Materiales y Servicios Generales, y de las Direcciones Generales de Recursos Materiales y Servicios Generales; de Inmuebles y Mantenimiento; de Estadística y Planeación Judicial; de Programación y Presupuesto, así como de la Coordinación de Administración Regional; que a la entrada en vigor del presente Acuerdo desempeñan funciones relacionadas con las atribuciones que dicho instrumento jurídico confiere a las Direcciones Generales de Tecnologías de la Información y de Innovación, Planeación y Desarrollo Institucional se integrarán con su plaza a dichas Direcciones Generales, según corresponda, conservando sus derechos laborales.
 
-LO TENDRA ENTENDIDO EN C. GOBERNADOR CONSTITUCIONAL DEL ESTADO Y MANDARA QUE SE IMPRIMA, PUBLIQUE Y OBSERVE.
+Asimismo, los recursos materiales y financieros relacionados con el desempeño de las atribuciones a que se refiere el párrafo anterior, con que cuenten la referida Secretaria Ejecutiva y las mencionadas Direcciones Generales se transferirán a la Dirección General de Tecnologías de la Información y a la Dirección General de Innovación, Planeación y Desarrollo Institucional, según corresponda.
 
-DADA EN EL RECINTO OFICIAL DEL PODER LEGISLATIVO DEL ESTADO A LOS DIEZ DIAS DEL MES DE JULIO DE MIL NOVECIENTOS OCHENTA Y SIETE.
+Lo previsto en este artículo se deberá llevar a cabo dentro de los treinta días naturales siguientes a la entrada en vigor del presente Acuerdo, mediante la suscripción de las actas de entrega recepción respectivas y demás instrumentos necesarios.
 
-Diputado Presidente,
-
-ING. EDGARDO ROCHA PEDRAZA.
-
-Diputado Secretario,
-
-DR. JAIME ZUÑIGA BURGOS.
-
-Diputado Secretario,
-
-RAÚL SOTO.
-
-EN CUMPLIMIENTO CON LO DISPUESTO POR LA FRACCION SEGUNDA DEL ARTICULO 93 DE LA CONSTITUCION POLITICA DE ESTA ENTIDAD Y PARA SU DEBIDA PUBLICACION Y OBSERVANCIA, EXPIDO LA PRESENTE LEY, EN LA RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO DE QUERETARO A LOS SEIS DIAS DEL MES DE JUNIO DE MIL NOVECIENTOS OCHENTA Y SIETE.
-
-El Gobernador Constitucional del Estado,
-
-LIC. MARIANO PALACIOS ALCOCER.
-
-El Secretario de Gobierno,
-
-LIC. JOSE MARIA HERNANDEZ SOLIS.
+La Dirección General de Tecnologías de la Información y la Dirección General de Innovación, Planeación y Desarrollo Institucional deberán informar al Pleno sobre el cumplimiento de lo previsto en este artículo.
 
 ###### ARTICULO QUINTO.
 
@@ -3106,3 +3500,27 @@ Los Consejeros responsables de la dirección y supervisión de la Unidad de Enla
 ###### ARTICULO CUARTO.
 
 La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá incorporar el texto de este instrumento, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo.
+
+D.O.F. 30 DE MAYO DE 2012.
+
+PRIMERO. El presente acuerdo entrará en vigor el 30 de mayo de 2012, salvo lo previsto en el párrafo siguiente.
+
+A partir de la aprobación del presente Acuerdo, la Secretaría Ejecutiva del Pleno, la Coordinación de Administración Regional y las Direcciones Generales de Asuntos Jurídicos y de Tecnologías de la Información, llevarán a cabo las acciones necesarias para su implementación.
+
+SEGUNDO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá incorporar el presente acuerdo al texto del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo, publicado el tres de febrero de dos mil doce, en el Diario Oficial de la Federación, a efecto de que se sustituya y adicione su articulado.
+
+TERCERO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y en el portal de internet del Consejo.
+
+D.O.F. 12 DE JULIO DE 2012.
+
+###### ARTICULO PRIMERO.
+
+El presente acuerdo entrará en vigor el día de su aprobación.
+
+###### ARTICULO SEGUNDO.
+
+Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta y en el portal de Internet del Consejo.
+
+###### ARTICULO TERCERO.
+
+La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá incorporar el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo.
