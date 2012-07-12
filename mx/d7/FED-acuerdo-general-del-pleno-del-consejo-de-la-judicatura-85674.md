@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-85674"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-02-03"
-last_updated: "2012-05-30"
+last_updated: "2012-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85674&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-01-26"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE JULIO DE 2012.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de febrero de 2012.
 
@@ -203,11 +203,21 @@ XIII. Tomar la protesta de ley en sesión pública extraordinaria a los consejer
 
 XIV. Dictar las providencias oportunas para la corrección o remedio inmediato de los hechos motivo de una queja administrativa, cuando la naturaleza de aquéllos lo permita;
 
-XV. Suscribir los nombramientos de los servidores públicos comprendidos en los niveles 2 al 9 del Catálogo General de Puestos;
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2012)</small>
 
-XVI. Firmar las credenciales que acrediten al personal del Poder Judicial de la Federación, de los niveles 2 al 7 del Tabulador de Puestos; y
+XV. Instruir al Secretario Ejecutivo de Vigilancia, Información y Evaluación para que en el ámbito de su competencia y bajo los parámetros que se emitan, realice los procedimientos de corroboración y constatación de información, así como de hechos denunciados, para obtener datos de prueba;
 
-XVII. Las demás que establezca el Pleno, mediante acuerdos generales.
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2012)</small>
+
+XVI. Suscribir los nombramientos de los servidores públicos comprendidos en los niveles 2 al 9 del Catálogo General de Puestos;
+
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2012)</small>
+
+XVII. Firmar las credenciales que acrediten al personal del Poder Judicial de la Federación, de los niveles 2 al 7 del Tabulador de Puestos; y
+
+> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2012)</small>
+
+XVIII. Las demás que establezca el Pleno, mediante acuerdos generales.
 
 ###### Artículo 18.
 
@@ -621,7 +631,9 @@ XIV. Conocer de aquellos asuntos generales que sean sometidos a su consideració
 
 XV. Desahogar las audiencias a que se refiere el artículo 134, fracción III, de la Ley;
 
-XVI. Aprobar la integración de los comités de investigación que proponga el Secretario Ejecutivo de Disciplina, así como ordenar la práctica de visitas extraordinarias e integración de comités de investigación, cuando estime que se ha cometido una falta grave o cuando así lo solicite el Pleno de la Suprema Corte de Justicia de la Nación, sin perjuicio de las facultades que corresponden a la Visitaduría Judicial y a la Contraloría del Poder Judicial de la Federación;
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2012)</small>
+
+XVI. Aprobar la integración de los comités de investigación que proponga el Secretario Ejecutivo de Disciplina e instruir al Secretario Ejecutivo de Vigilancia, Información y Evaluación para que en el ámbito de su competencia, realice los procedimientos de corroboración y constatación de información y de hechos denunciados, para obtener datos de prueba; así como ordenar la práctica de visitas extraordinarias e integración de comités de investigación, cuando estime que se ha cometido una falta grave o cuando así lo solicite el Pleno de la Suprema Corte de Justicia de la Nación, sin perjuicio de las facultades que corresponden a la Visitaduría Judicial y a la Contraloría del Poder Judicial de la Federación;
 
 XVII. Designar, a propuesta de su presidente, al secretario técnico de la Comisión y determinar, en su caso, su remoción;
 
@@ -715,7 +727,9 @@ Son atribuciones de la Comisión de Vigilancia, Información y Evaluación, las 
 
 I. Vigilar el cumplimiento de los programas, así como proponer las medidas pertinentes para el óptimo funcionamiento de los órganos jurisdiccionales;
 
-II. Establecer medios adecuados de vigilancia, información y evaluación del Poder Judicial de la Federación, como apoyo a la toma de decisiones tendentes a garantizar su autonomía y preservar la independencia e imparcialidad de sus miembros, cuidando que su actuación se apegue a los principios de excelencia, profesionalismo y objetividad;
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2012)</small>
+
+II. Establecer medios adecuados de vigilancia, información y evaluación del Poder Judicial de la Federación, como apoyo a la toma de decisiones tendentes a garantizar su autonomía y preservar la independencia e imparcialidad de sus miembros, cuidando que su actuación se apegue a los principios de excelencia, profesionalismo y objetividad; e instruir al Secretario Ejecutivo de Vigilancia, Información y Evaluación para que en el ámbito de su competencia, realice los procedimientos de corroboración y constatación de información, así como de hechos denunciados, para obtener datos de prueba;
 
 III. Formular los criterios normativos de operación y evaluación, para hacer posible el cumplimiento de las atribuciones a que se refiere la fracción anterior y someterlos a la aprobación del Pleno;
 
@@ -1391,9 +1405,15 @@ XIX. Someter a la consideración de las comisiones, las disposiciones, reglas, b
 
 XX. Informar a las comisiones, en los plazos establecidos, sobre el ejercicio de las atribuciones conferidas y del avance de los proyectos y programas a su cargo;
 
-XXI. Presentar ante el Pleno, el Informe Anual de Labores correspondiente a la unidad administrativa de su competencia; y
+XXI. Presentar ante el Pleno, el Informe Anual de Labores correspondiente a la unidad administrativa de su competencia; y (sic)
 
-XXII. Las demás que establezcan, el Pleno, y las comisiones.
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2012)</small>
+
+XXII. Proponer al Presidente, al Pleno o a la Comisión de Disciplina los procedimientos de corroboración y constatación de información, así como de hechos denunciados, para obtener datos de prueba, que podrán realizarse en forma paralela con la Secretaría Ejecutiva de Vigilancia, Información y Evaluación; y
+
+> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2012)</small>
+
+XXIII. Las demás que establezcan, el Pleno, y las comisiones.
 
 ###### Artículo 78.
 
@@ -1419,7 +1439,9 @@ VII. Dar seguimiento a las acciones que en materia judicial determine el Consejo
 
 VIII. Presentar, con la periodicidad que determine la Comisión de Vigilancia, Información y Evaluación, los directorios biográficos del personal del Poder Judicial de la Federación;
 
-IX. Coordinarse con la Contraloría del Poder Judicial de la Federación, para el oportuno y eficaz cumplimiento de las atribuciones que les son propias;
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2012)</small>
+
+IX. Coordinarse con las diversas áreas del Consejo y requerir a las unidades administrativas y órganos jurisdiccionales la información necesaria para el oportuno y eficaz cumplimiento de las atribuciones que les son propias;
 
 X. Verificar que los informes que presenten los diferentes órganos y miembros del Poder Judicial de la Federación, cumplan con los requisitos de veracidad, exactitud y buena fe;
 
@@ -1443,9 +1465,27 @@ XIX. Someter a la consideración de las comisiones, las disposiciones, reglas, b
 
 XX. Informar a las comisiones, en los plazos establecidos, sobre el ejercicio de las atribuciones conferidas y del avance de los proyectos y programas a su cargo;
 
-XXI. Presentar ante el Pleno, el Informe Anual de Labores correspondiente a la unidad administrativa de su competencia; y
+XXI. Presentar ante el Pleno, el Informe Anual de Labores correspondiente a la unidad administrativa de su competencia; y (sic)
 
-XXII. Las demás que establezcan el Pleno, y las comisiones.
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2012)</small>
+
+XXII. Coordinar la operación del centro de atención telefónica para la recepción de quejas y denuncias del Consejo de la Judicatura Federal;
+
+> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2012)</small>
+
+XXIII. Proveer lo conducente para la ejecución de los procedimientos de corroboración y constatación de información, así como de hechos denunciados, para obtener datos de prueba; que le encomiende el Pleno, el Presidente, la Comisión de Disciplina, la Comisión de Vigilancia, Información y Evaluación o la Contraloría;
+
+> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2012)</small>
+
+XXIV. Recibir las quejas o denuncias formuladas a través de los buzones físicos o virtuales, el centro de atención telefónica o comparecencias, respecto de las cuales deberá elaborar un proveído en el que se decida desechar, prevenir, aclarar u ordenar su remisión al área correspondiente para los efectos legales que se estimen conducentes. El proveído por medio del cual se decida desechar las referidas quejas o denuncias, deberá ser autorizado por el Presidente;
+
+> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2012)</small>
+
+XXV. Conocer de aquellas quejas o denuncias, provenientes de las diversas áreas del Consejo de la Judicatura Federal, en las que por no colmar los requisitos legales, no se hubiere ordenado el trámite del procedimiento de responsabilidad respectivo; y
+
+> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2012)</small>
+
+XXVI. Las demás que establezcan el Pleno y las comisiones.
 
 ###### Artículo 80.
 
@@ -3470,3 +3510,17 @@ A partir de la aprobación del presente Acuerdo, la Secretaría Ejecutiva del Pl
 SEGUNDO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá incorporar el presente acuerdo al texto del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo, publicado el tres de febrero de dos mil doce, en el Diario Oficial de la Federación, a efecto de que se sustituya y adicione su articulado.
 
 TERCERO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y en el portal de internet del Consejo.
+
+D.O.F. 12 DE JULIO DE 2012.
+
+###### ARTICULO PRIMERO.
+
+El presente acuerdo entrará en vigor el día de su aprobación.
+
+###### ARTICULO SEGUNDO.
+
+Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta y en el portal de Internet del Consejo.
+
+###### ARTICULO TERCERO.
+
+La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá incorporar el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo.
