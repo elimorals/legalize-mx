@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-salud-del-estado-de-durango-25631"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-11"
-last_updated: "2011-05-12"
+last_updated: "2012-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE SALUD DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 11 de julio de 2002.
 
@@ -123,121 +123,125 @@ III. Sistema Estatal de Salud: El conjunto de dependencias y entidades de la Adm
 
 IV. Comité: El Comité de Planeación para el Desarrollo del Estado;
 
-V. Junta de Gobierno: Órgano administrador del Organismo Público Descentralizado Servicios de Salud de Durango;
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2012)</small>
 
-VI. NOMs: Normas Oficiales Mexicanas;
+V. Consentimiento Informado: Es la autorización, signada por el paciente, su familiar más cercano, tutor o su representante legal, mediante el cual se acepta, un procedimiento médico o quirúrgico con fines de diagnóstico, terapéuticos o rehabilitatorios.
 
-VII. Director General: El Director del Organismo Descentralizado Servicios de Salud de Durango;
+VI. Junta de Gobierno: Órgano administrador del Organismo Público Descentralizado Servicios de Salud de Durango;
 
-VIII. Órgano de vigilancia: Contralor Interno designado para el cumplimiento de la función de control y vigilancia;
+VII. NOMs: Normas Oficiales Mexicanas;
 
-IX. Servicios básicos de salud: Los señalados en el artículo 43 del presente ordenamiento;
+VIII. Director General: El Director del Organismo Descentralizado Servicios de Salud de Durango;
 
-X. Salud pública: Conjunto de acciones que tienen por objeto promover, proteger, fomentar y restablecer la salud de la población, elevar el nivel de bienestar y prolongar la vida humana; mismas que complementan los servicios de atención médica y asistencia social;
+IX. Órgano de vigilancia: Contralor Interno designado para el cumplimiento de la función de control y vigilancia;
 
-XI. Atención médica: El conjunto de servicios que se proporcionan al individuo, con el fin de prevenir la enfermedad, proteger, promover y restaurar su salud;
+X. Servicios básicos de salud: Los señalados en el artículo 43 del presente ordenamiento;
+
+XI. Salud pública: Conjunto de acciones que tienen por objeto promover, proteger, fomentar y restablecer la salud de la población, elevar el nivel de bienestar y prolongar la vida humana; mismas que complementan los servicios de atención médica y asistencia social;
+
+XII. Atención médica: El conjunto de servicios que se proporcionan al individuo, con el fin de prevenir la enfermedad, proteger, promover y restaurar su salud;
 
 > <small>(ADICIONADA, P.O. 12 DE MAYO DE 2011)</small>
 
-XII.- Violencia obstétrica: Cualquier acto o trato deshumanizado que ejerza el personal de salud sobre las mujeres en la atención médica que se les ofrece durante el embarazo, el parto y puerperio, en los términos establecidos en la Ley de las Mujeres para una Vida sin Violencia: (sic)
+XIII. Violencia obstétrica: Cualquier acto o trato deshumanizado que ejerza el personal de salud sobre las mujeres en la atención médica que se les ofrece durante el embarazo, el parto y puerperio, en los términos establecidos en la Ley de las Mujeres para una Vida sin Violencia: (sic)
 
-XIII. Patrimonio de la Beneficencia Pública: Órgano administrativo descentralizado dependiente de la Secretaría de Salud del Gobierno del Estado;
+XIV. Patrimonio de la Beneficencia Pública: Órgano administrativo descentralizado dependiente de la Secretaría de Salud del Gobierno del Estado;
 
-XIV. Instituciones de asistencia privada: Las que se constituyan conforme a la Ley específica de la materia, al reglamento y demás disposiciones aplicables y cuyo objeto sea la prestación de servicios asistenciales, sin propósito de lucro y sin designar individualmente a los beneficiarios;
+XV. Instituciones de asistencia privada: Las que se constituyan conforme a la Ley específica de la materia, al reglamento y demás disposiciones aplicables y cuyo objeto sea la prestación de servicios asistenciales, sin propósito de lucro y sin designar individualmente a los beneficiarios;
 
-XV. Servicios de Salud: Todas aquellas acciones que se realicen con el fin de proteger, promover y restaurar la salud de la persona y de la colectividad;
+XVI. Servicios de Salud: Todas aquellas acciones que se realicen con el fin de proteger, promover y restaurar la salud de la persona y de la colectividad;
 
-XVI. Cuota de recuperación: Cantidad pecuniaria estipulada por la legislación fiscal federal y los convenios de coordinación con el Ejecutivo Federal, por la prestación de los servicios de salud;
+XVII. Cuota de recuperación: Cantidad pecuniaria estipulada por la legislación fiscal federal y los convenios de coordinación con el Ejecutivo Federal, por la prestación de los servicios de salud;
 
-XVII. Usuario de los servicios de salud: Toda persona que requiera y obtenga los servicios de salud que presten los sectores públicos, social y privado, en las condiciones y conforme a las bases que para cada modalidad se establezcan en esta Ley y demás disposiciones aplicables;
+XVIII. Usuario de los servicios de salud: Toda persona que requiera y obtenga los servicios de salud que presten los sectores públicos, social y privado, en las condiciones y conforme a las bases que para cada modalidad se establezcan en esta Ley y demás disposiciones aplicables;
 
-XVIII. Autoridades sanitarias: Las contempladas en el artículo 5 de esta legislación;
+XIX. Autoridades sanitarias: Las contempladas en el artículo 5 de esta legislación;
 
-XIX. Asistencia social: El conjunto de acciones tendientes a modificar y mejorar circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección y desventaja física y mental hasta lograr su incorporación a una vida plena y productiva, sea que tales servicios sean prestados por particulares o por el Estado;
+XX. Asistencia social: El conjunto de acciones tendientes a modificar y mejorar circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección y desventaja física y mental hasta lograr su incorporación a una vida plena y productiva, sea que tales servicios sean prestados por particulares o por el Estado;
 
-XX. Discapacidad: La limitación en la capacidad de una persona para realizar por sí misma actividades necesarias para el desempeño físico, mental, social, ocupacional y económico como consecuencia de una insuficiencia somática, psicológica y social;
+XXI. Discapacidad: La limitación en la capacidad de una persona para realizar por sí misma actividades necesarias para el desempeño físico, mental, social, ocupacional y económico como consecuencia de una insuficiencia somática, psicológica y social;
 
-XXI. Servicios públicos a la población en general: Los que se presten en establecimientos públicos de salud y los habitantes del Estado que así lo requieran, regidos por criterios de universalidad y de gratuidad fundada en las condiciones socioeconómicos de los usuarios;
+XXII. Servicios públicos a la población en general: Los que se presten en establecimientos públicos de salud y los habitantes del Estado que así lo requieran, regidos por criterios de universalidad y de gratuidad fundada en las condiciones socioeconómicos de los usuarios;
 
-XXII. Accidente: El hecho súbito que ocasione daños a la salud y que se produzca por la concurrencia de condiciones potencialmente prevenibles;
+XXIII. Accidente: El hecho súbito que ocasione daños a la salud y que se produzca por la concurrencia de condiciones potencialmente prevenibles;
 
-XXIII. Insumos para la salud: Los medicamentos, substancias psicotrópicas, estupefacientes y las materias primas y aditivos que intervengan para su elaboración; así como los equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, de curación y productos higiénicos, estos últimos, en los términos de la fracción VI del artículo 262 de la Ley General de Salud;
+XXIV. Insumos para la salud: Los medicamentos, substancias psicotrópicas, estupefacientes y las materias primas y aditivos que intervengan para su elaboración; así como los equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, de curación y productos higiénicos, estos últimos, en los términos de la fracción VI del artículo 262 de la Ley General de Salud;
 
-XXIV. Alimento: Cualquier sustancia o producto, sólido o semi-sólido, natural o transformado, que proporcione al organismo elementos para su nutrición;
+XXV. Alimento: Cualquier sustancia o producto, sólido o semi-sólido, natural o transformado, que proporcione al organismo elementos para su nutrición;
 
-XXV. Bebida no alcohólica: Cualquier líquido, natural o transformado, que proporcione al organismo elementos para su nutrición;
+XXVI. Bebida no alcohólica: Cualquier líquido, natural o transformado, que proporcione al organismo elementos para su nutrición;
 
-XXVI. Bebidas alcohólicas: Aquellas que contengan alcohol etílico en una proporción de 2% y hasta el 55% en volumen.
+XXVII. Bebidas alcohólicas: Aquellas que contengan alcohol etílico en una proporción de 2% y hasta el 55% en volumen.
 
 Cualquiera otra que contenga una proporción mayor no podrá comercializarse como bebida;
 
-XXVII. Control sanitario: El conjunto de acciones de orientación, educación, muestreo, verificación, vigilancia, y en su caso, aplicación de medidas de seguridad y sanciones que ejercen, en materia de salubridad local, la Secretaría y el Organismo, de conformidad con lo establecido en las disposiciones legales aplicables;
+XXVIII. Control sanitario: El conjunto de acciones de orientación, educación, muestreo, verificación, vigilancia, y en su caso, aplicación de medidas de seguridad y sanciones que ejercen, en materia de salubridad local, la Secretaría y el Organismo, de conformidad con lo establecido en las disposiciones legales aplicables;
 
-XXVIII. Mercados: el sitio público destinado a la compra y venta de productos en general, preferentemente agrícolas y de primera necesidad, en forma permanente o en días determinados;
+XXIX. Mercados: el sitio público destinado a la compra y venta de productos en general, preferentemente agrícolas y de primera necesidad, en forma permanente o en días determinados;
 
-XXIX. Centros de abasto: el sitio destinado al servicio público en maniobras de carga y descarga, la conservación en frío y demás operaciones relativas a la compraventa, al mayoreo y medio mayoreo de productos en general;
+XXX. Centros de abasto: el sitio destinado al servicio público en maniobras de carga y descarga, la conservación en frío y demás operaciones relativas a la compraventa, al mayoreo y medio mayoreo de productos en general;
 
-XXX. Construcción: Toda edificación o local que se destine a la habitación, comercio, enseñanza, recreación, trabajo o cualquier otro uso;
+XXXI. Construcción: Toda edificación o local que se destine a la habitación, comercio, enseñanza, recreación, trabajo o cualquier otro uso;
 
-XXXI. Cementerios: El lugar destinado a la inhumación de los cadáveres y restos humanos;
+XXXII. Cementerios: El lugar destinado a la inhumación de los cadáveres y restos humanos;
 
-XXXII. Crematorios: Las instalaciones destinadas a la incineración de cadáveres y restos humanos;
+XXXIII. Crematorios: Las instalaciones destinadas a la incineración de cadáveres y restos humanos;
 
-XXXIII. Funeraria: El establecimiento dedicado a la prestación del servicio de venta de féretros, velación, preparación y traslado de cadáveres de seres humanos a los cementerios o crematorios, dentro o fuera del país;
+XXXIV. Funeraria: El establecimiento dedicado a la prestación del servicio de venta de féretros, velación, preparación y traslado de cadáveres de seres humanos a los cementerios o crematorios, dentro o fuera del país;
 
-XXXIV. Servicio de limpieza pública: La recolección, traslado, tratamiento y disposición final de residuos sólidos a cargo de los Ayuntamientos, los que deberán prestar el servicio en forma continua, uniforme, regular y permanente, procurando que se cuente para tal fin con vehículos y rutas de recolección;
+XXXV. Servicio de limpieza pública: La recolección, traslado, tratamiento y disposición final de residuos sólidos a cargo de los Ayuntamientos, los que deberán prestar el servicio en forma continua, uniforme, regular y permanente, procurando que se cuente para tal fin con vehículos y rutas de recolección;
 
-XXXV. Residuo sólido: Al material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control y tratamiento de cualquier producto cuya calidad no permita usarlo nuevamente en el proceso que lo generó, provenga de actividades que se desarrollen en domicilios, establecimientos mercantiles, industriales o de servicios y de las vías públicas;
+XXXVI. Residuo sólido: Al material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control y tratamiento de cualquier producto cuya calidad no permita usarlo nuevamente en el proceso que lo generó, provenga de actividades que se desarrollen en domicilios, establecimientos mercantiles, industriales o de servicios y de las vías públicas;
 
-XXXVI. Rastro: el establecimiento destinado al sacrificio de animales para el consumo humano;
+XXXVII. Rastro: el establecimiento destinado al sacrificio de animales para el consumo humano;
 
-XXXVII. Baño público: al establecimiento destinado a utilizar el agua para el aseo corporal, deporte o uso medicinal bajo la forma de baño y al que pueda concurrir el público. Quedan incluidos en la nominación de baños, los llamados de vapor y de aire caliente;
+XXXVIII. Baño público: al establecimiento destinado a utilizar el agua para el aseo corporal, deporte o uso medicinal bajo la forma de baño y al que pueda concurrir el público. Quedan incluidos en la nominación de baños, los llamados de vapor y de aire caliente;
 
-XXXVIII. Albercas: El establecimiento público o privado destinado para la natación, recreación familiar, personal o deportiva;
+XXXIX. Albercas: El establecimiento público o privado destinado para la natación, recreación familiar, personal o deportiva;
 
-XXXIX. Gimnasio: Todo establecimiento público o privado destinado para la práctica de ejercicios corporales o actividades deportivas;
+XL. Gimnasio: Todo establecimiento público o privado destinado para la práctica de ejercicios corporales o actividades deportivas;
 
-XL. Establos: todos aquellos sitios dedicados a la explotación de animales productores de lácteos y sus derivados;
+XLI. Establos: todos aquellos sitios dedicados a la explotación de animales productores de lácteos y sus derivados;
 
-XLI. Granjas avícolas: los establecimientos dedicados a la cría, reproducción y explotación de las especies y variedades de aves útiles a la alimentación humana;
+XLII. Granjas avícolas: los establecimientos dedicados a la cría, reproducción y explotación de las especies y variedades de aves útiles a la alimentación humana;
 
-XLII. Granjas porcícolas: los establecimientos dedicados a la cría, reproducción, mejoramiento y explotación de cerdos;
+XLIII. Granjas porcícolas: los establecimientos dedicados a la cría, reproducción, mejoramiento y explotación de cerdos;
 
-XLIII. Apiarios: El conjunto de colmenas destinadas a la cría, explotación y mejoramientos genético de abejas;
+XLIV. Apiarios: El conjunto de colmenas destinadas a la cría, explotación y mejoramientos genético de abejas;
 
-XLIV. Establecimientos similares: Todos aquellos dedicados a la cría, reproducción, mejoramiento y explotación de especies animales no incluidas en las fracciones anteriores, pero aptas para el consumo humano;
+XLV. Establecimientos similares: Todos aquellos dedicados a la cría, reproducción, mejoramiento y explotación de especies animales no incluidas en las fracciones anteriores, pero aptas para el consumo humano;
 
-XLV. Reclusorio o centro de readaptación social: El local destinado a la internación de quienes se encuentran restringidos de su libertad por una resolución judicial o administrativa;
+XLVI. Reclusorio o centro de readaptación social: El local destinado a la internación de quienes se encuentran restringidos de su libertad por una resolución judicial o administrativa;
 
-XLVI. Centros de reunión y espectáculos: Los establecimientos destinados a la concentración de personas con fines recreativos, sociales, deportivos o culturales;
+XLVII. Centros de reunión y espectáculos: Los establecimientos destinados a la concentración de personas con fines recreativos, sociales, deportivos o culturales;
 
-XLVII. Prostitución: La práctica de la actividad sexual ejercida a cambio de una remuneración en dinero o en especie;
+XLVIII. Prostitución: La práctica de la actividad sexual ejercida a cambio de una remuneración en dinero o en especie;
 
-XLVIII. Establecimientos para el Hospedaje: Cualquier edificación que se destine a albergar a toda persona que pague por ello;
+XLIX. Establecimientos para el Hospedaje: Cualquier edificación que se destine a albergar a toda persona que pague por ello;
 
-XLIX. Centro Antirrábico: El establecimiento instalado y operado o concesionado por el Ayuntamiento con el propósito de contribuir a la prevención y control de la rabia animal y coadyuvar con las autoridades sanitarias competentes en los casos en que seres humanos hubieran contraído dicha enfermedad;
+L. Centro Antirrábico: El establecimiento instalado y operado o concesionado por el Ayuntamiento con el propósito de contribuir a la prevención y control de la rabia animal y coadyuvar con las autoridades sanitarias competentes en los casos en que seres humanos hubieran contraído dicha enfermedad;
 
-L. Peluquería y salones de belleza: Los establecimientos dedicados a rasurar, teñir, peinar, cortar, rizar o realizar cualquier actividad similar con el cabello de las personas, así como al cuidado estético de uñas de manos y pies y a la aplicación al público de cualquier tratamiento de belleza corporal en las que no se requiera de atención médica en cualquiera de sus prácticas;
+LI. Peluquería y salones de belleza: Los establecimientos dedicados a rasurar, teñir, peinar, cortar, rizar o realizar cualquier actividad similar con el cabello de las personas, así como al cuidado estético de uñas de manos y pies y a la aplicación al público de cualquier tratamiento de belleza corporal en las que no se requiera de atención médica en cualquiera de sus prácticas;
 
-LI. Tintorería: El establecimiento dedicado al lavado y planchado de ropa, independientemente del procedimiento utilizado;
+LII. Tintorería: El establecimiento dedicado al lavado y planchado de ropa, independientemente del procedimiento utilizado;
 
-LII. Lavandería: El establecimiento dedicado al lavado de ropa;
+LIII. Lavandería: El establecimiento dedicado al lavado de ropa;
 
-LIII. Lavadero público: El establecimiento al cual acuden los interesados para realizar personalmente el lavado de la ropa;
+LIV. Lavadero público: El establecimiento al cual acuden los interesados para realizar personalmente el lavado de la ropa;
 
-LIV. Transporte: Todo aquel vehículo destinado al traslado de carga o de pasajeros, sea cual fuere su medio de propulsión;
+LV. Transporte: Todo aquel vehículo destinado al traslado de carga o de pasajeros, sea cual fuere su medio de propulsión;
 
-LV. Gasolinera: Al establecimiento dedicado al expendio de gasolina, aceites y demás productos derivados del petróleo que sean usados en vehículos automotores;
+LVI. Gasolinera: Al establecimiento dedicado al expendio de gasolina, aceites y demás productos derivados del petróleo que sean usados en vehículos automotores;
 
-LVI. Certificado: La constancia expedida en los términos que establezcan las autoridades sanitarias competentes, para la comprobación e información de determinados hechos;
+LVII. Certificado: La constancia expedida en los términos que establezcan las autoridades sanitarias competentes, para la comprobación e información de determinados hechos;
 
-LVII. Aislamiento: La separación de personas infectadas, durante el periodo de transmisibilidad, en lugares y condiciones que eviten el peligro de contagio; y (sic)
+LVIII. Aislamiento: La separación de personas infectadas, durante el periodo de transmisibilidad, en lugares y condiciones que eviten el peligro de contagio; y (sic)
 
-LVIII. Cuarentena: La limitación a la libertad de tránsito de personas sanas que hubieren estado expuestas a una enfermedad transmisible, por el tiempo estrictamente necesario para controlar el riesgo de contagio;
+LIX. Cuarentena: La limitación a la libertad de tránsito de personas sanas que hubieren estado expuestas a una enfermedad transmisible, por el tiempo estrictamente necesario para controlar el riesgo de contagio;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JUNIO DE 2008)</small>
 
-LIX. COPRISED: La Comisión para la Protección contra Riesgos Sanitarios del Estado de Durango.
+LX. COPRISED: La Comisión para la Protección contra Riesgos Sanitarios del Estado de Durango.
 
 ###### ARTÍCULO 4.
 
@@ -1062,6 +1066,12 @@ La Secretaría y el Organismo coadyuvarán con las autoridades educativas compet
 ###### ARTÍCULO 69.
 
 Los usuarios tendrán derecho a la prestación de salud integral, oportuna, de calidad y a recibir atención profesional y ética, así como un trato respetuoso y digno de los profesionales, técnicos y auxiliares.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2012)</small>
+
+ARTÍCULO 69 BIS.- Los Usuarios tendrán derecho a recibir información suficiente, clara, oportuna y veraz, así como la orientación que sea necesaria respecto a la atención de su salud y sobre los riesgos y alternativas de los procedimientos diagnósticos, terapéuticos y quirúrgicos, sustentados en literatura médica actualizada, que se le indiquen o apliquen.
+
+Así mismo, a otorgar o no su consentimiento válidamente informado y a rechazar tratamientos o procedimientos. Cuando el riesgo del acto médico autorizado se encuentre descrito en la carta de consentimiento previamente aceptada por el usuario, constituirá una exclusión de responsabilidad.
 
 ###### ARTÍCULO 70.
 
@@ -3318,3 +3328,7 @@ P.O. 12 DE MAYO DE 2011.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE JULIO DE 2012.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
