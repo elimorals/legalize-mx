@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2012-06-14"
+last_updated: "2012-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -97,7 +97,9 @@ III. Regular el uso adecuado y el aprovechamiento de los sistemas y los servicio
 
 IV. Impulsar la implementación de la infraestructura y equipamiento urbano, que eviten la interferencia de los espacios destinados a los sistemas de transporte público de pasajeros, por parte de los peatones o vehículos particulares, y viceversa, y
 
-V. Los sistemas de transporte público, en coordinación con las autoridades correspondientes, desarrollarán programas de seguridad pública y protección civil.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2012)</small>
+
+V. Los sistemas de transporte público, en coordinación con las autoridades correspondientes, desarrollarán programas de seguridad pública y protección civil; así como de sensibilización para el respeto y trato digno de las personas con discapacidad.
 
 ###### ARTICULO 6°.
 
@@ -107,9 +109,17 @@ I. Las autoridades del transporte público deberán impulsar de manera permanent
 
 II. Los concesionarios y permisionarios deberán conocer y actualizar los derechos y obligaciones derivados de la concesión o permiso otorgado. Asimismo, mantenerse actualizados en el conocimiento de los avances tecnológicos y administrativos en la materia;
 
-III. Los usuarios deberán conocer, en beneficio de ellos mismos y de la sociedad en general, los derechos y obligaciones inherentes al uso de cualquier sistema de transporte público, y
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2012)</small>
 
-IV. Las autoridades correspondientes, estatales y municipales, deberán de implementar programas y acciones de difusión sobre las disposiciones aplicables en materia de tránsito y transporte público, así como sobre el uso responsable de vehículos particulares y de las vialidades, propiciando el fomento de la cultura del respeto para una mejor convivencia urbana y preferencia vial al peatón y al transporte colectivo.
+III. Los usuarios deberán conocer, en beneficio de ellos mismos y de la sociedad en general, los derechos y obligaciones inherentes al uso de cualquier sistema de transporte público;
+
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2012)</small>
+
+IV. Las autoridades correspondientes, estatales y municipales, deberán implementar programas y acciones de difusión sobre las disposiciones aplicables en materia de tránsito y transporte público, así como el uso responsable de vehículos particulares y de las vialidades, propiciando el fomento de la cultura del respeto, para una mejor convivencia urbana, y preferencia vial a, las personas con discapacidad, al peatón y al transporte colectivo, y
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2012)</small>
+
+V. Las autoridades de transporte público, los concesionarios y permisionarios deben implementar en sus cursos de capacitación, la sensibilización acerca de las personas con discapacidad.
 
 ###### ARTICULO 7°.
 
@@ -121,7 +131,9 @@ También podrá prestarlo a través de las entidades de la administración públ
 
 El titular del Ejecutivo del Estado, por si, o a través de la Secretaría de Comunicaciones y Transportes, está facultado para emitir el Programa Sectorial de Transporte Público, en donde se especificarán los objetivos, metas, estrategias y líneas de acción en materia de transporte público.
 
-El Programa Sectorial de Transporte Público deberá considerar todas las medidas administrativas y operativas, que garanticen el adecuado funcionamiento del transporte público de pasajeros, carga y mixto en función del máximo aprovechamiento del diseño de vialidades, tomando siempre en cuenta la obligación de garantizar tanto al usuario como al peatón, las condiciones e infraestructura para su libre tránsito en óptimas condiciones del seguridad.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2012)</small>
+
+El Programa Sectorial de Transporte Público deberá considerar todas las medidas administrativas y operativas, que garanticen el adecuado funcionamiento del transporte público de pasajeros, carga y mixto en función del máximo aprovechamiento del diseño de vialidades, tomando siempre en cuenta la obligación de garantizar, tanto al usuario, como al peatón, las condiciones e infraestructura para su libre tránsito en óptimas condiciones de seguridad y accesibilidad.
 
 ###### ARTICULO 9°.
 
@@ -129,19 +141,29 @@ El Programa Sectorial de Transporte Público a que se refiere el artículo anter
 
 Los ayuntamientos, conforme a las disposiciones de esta Ley, participarán en la elaboración y aplicación del programa a que alude el artículo anterior, en lo que afecte al ámbito territorial del municipio correspondiente, presentándole sus proyectos al titular del Ejecutivo del Estado.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 10.
 
-El titular del Ejecutivo del Estado, a través de la Secretaría de Comunicaciones y Transportes, atendiendo al interés público y tomando en cuenta la opinión del Consejo Estatal de Transporte, los consejos municipales o, en su caso, de los ayuntamientos, establecerá conforme a esta Ley y su Reglamento, los siguientes elementos del sistema de transporte público: itinerarios, tarifas, horarios, frecuencias, sitios, terminales, bahías, centros de transferencia, lanzaderas, tipos de vehículos, desplazamientos, enlaces, enrolamientos, fusiones y escisiones o cualquier otra especificación del servicio, así como la normatividad de los servicios auxiliares.
+El titular del Ejecutivo del Estado, a través de la Secretaría de Comunicaciones y Transportes, atendiendo al interés público y tomando en cuenta la opinión del Consejo Estatal de Transporte, los consejos municipales o, en su caso, de los ayuntamientos, establecerá conforme a esta ley y su Reglamento, los siguientes elementos del sistema de transporte público: itinerarios, tarifas, horarios, frecuencias, sitios, terminales, bahías, centros de transferencia, lanzaderas, tipos de vehículos, desplazamientos, enlaces, enrolamientos, fusiones y escisiones, o cualquier otra especificación del servicio, así como la normatividad de los servicios auxiliares y la accesibilidad para las personas con discapacidad.
 
 ###### ARTICULO 11.
 
 Cuando se presenten circunstancias de caso fortuito o de fuerza mayor, la Secretaría de Comunicaciones y Transportes dictará las disposiciones que considere necesarias, para prestar el servicio y resguardar la seguridad de la población en materia de transporte.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 12.
 
-En la aplicación e interpretación de la presente Ley, se utilizará el siguiente glosario de términos:
+Para la aplicación e interpretación de esta Ley, se utilizará el siguiente glosario:
 
-I. Aforo: a la cantidad de usuarios transportados por un vehículo de transporte público de pasajeros en un periodo determinado;
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2012)</small>
+
+I. Accesibilidad: medidas pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones que las demás, al entorno físico, transporte, la información y las comunicaciones, incluidos los sistemas, tecnologías de la información y las comunicaciones, y a otros servicios e instalaciones abiertos al público, o de uso público, tanto en zonas urbanas, como rurales;
+
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2012)</small>
+
+I Bis. Aforo: a la cantidad de usuarios transportados por un vehículo de transporte público de pasajeros en un periodo determinado;
 
 II. Ayuntamientos: a los ayuntamientos del Estado de San Luis Potosí;
 
@@ -186,6 +208,10 @@ XXI. Peatón: a la persona que transita a pie por la vía pública;
 XXII. Permiso: al acto administrativo, y unilateral del Poder Ejecutivo del Estado, por si o a través de la Secretaría, para otorgar a personas físicas o morales el derecho para explotar temporalmente el servicio de transporte público, en cualquiera de sus modalidades;
 
 XXIII. Permisionario: a la persona física o moral que, al amparo de un permiso, realiza temporalmente la prestación del servicio de transporte público en las vías de jurisdicción estatal y municipal, mediante la utilización de bienes de su propiedad o de aquéllos en los que acredite fehacientemente el derecho de su uso;
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2012)</small>
+
+XXIII Bis. Persona con discapacidad: toda aquélla que por razón congénita o adquirida presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal, y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en igualdad de condiciones con las demás;
 
 XXIV. Ramal: a la extensión al itinerario de una ruta, que se autoriza a partir de puntos intermedios del recorrido;
 
@@ -237,9 +263,11 @@ XLVII. Vialidad: al conjunto integrado de vías de comunicación terrestre, fede
 
 XLVIII. Vías públicas: a las avenidas, calzadas, plazas, calles, parques, andadores, caminos, bulevares, caminos de acceso, ciclopistas y banquetas; así como los caminos vecinales, carreteras, brechas, desviaciones, veredas, senderos, sus acotamientos, los puentes que unan a las vías públicas y a las zonas de protección de ambos, destinados al tránsito de vehículos, peatones y semovientes.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 13.
 
-La Secretaría coordinará y llevará a cabo, en los términos de esta Ley, programas de información, orientación y asesorías a transportistas, permisionarios, concesionarios y usuarios del transporte público, en todas sus modalidades, en relación con los servicios del transporte, así como sobre los derechos y obligaciones de unos y otros; asimismo, llevará a cabo campañas de orientación, y de concientización a usuarios, y prestadores del servicio para la prevención de accidentes.
+La Secretaría coordinará y llevará a cabo, en los términos de esta Ley, programas de información, orientación y asesorías a transportistas, permisionarios, concesionarios y usuarios del transporte público, en todas sus modalidades, en relación con los servicios del transporte, así como sobre los derechos y obligaciones de unos y otros; asimismo, realizará campañas de orientación y de concientización a usuarios, personas con discapacidad, y prestadores del servicio, para la prevención de accidentes.
 
 ## TITULO SEGUNDO. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
 
@@ -1199,7 +1227,9 @@ XVII. Presentar las unidades de transporte para la revista vehicular correspondi
 
 XVIII. Abstenerse de colocar publicidad y propaganda de cualquier tipo, en las unidades del transporte público, en sus paraderos, bases de servicio y terminales, sin que medie autorización previa y por escrito de la Secretaría;
 
-XIX. Proporcionar a su costa capacitación continua y permanente a sus operadores y demás personas que tengan relación con el servicio prestado, en los términos de la presente Ley y demás disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2012)</small>
+
+XIX. Proporcionar, a su costa, capacitación contínua y permanente a sus operadores y demás personas que tengan relación con el servicio prestado, en los términos de la presente Ley y demás disposiciones jurídicas aplicables. Además, implementar cursos de capacitación referentes a la sensibilización acerca de las personas con discapacidad;
 
 XX. Proporcionar a la Secretaría, cuando ésta la requiera, todos los informes, datos y documentos necesarios para conocer y evaluar la prestación del servicio concesionado o permisionado;
 
@@ -1373,6 +1403,8 @@ Se considera tarifa especial aquélla que aplica a los usuarios que por sus cond
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 98.
 
 Son servicios auxiliares del transporte público los siguientes:
@@ -1417,7 +1449,7 @@ Lo dispuesto en el párrafo precedente no exime a los concesionarios o permision
 
 ###### ARTICULO 103.
 
-La Secretaría mediante la celebración de convenios con las autoridades municipales, organismos privados e instituciones educativas, promoverá en forma permanente las acciones necesarias en materia de educación vial para peatones, conductores, usuarios y población en general, haciendo uso de los avances tecnológicos y de los medios de comunicación.
+La Secretaría, mediante la celebración de convenios con las autoridades municipales, organismos privados e instituciones educativas, promoverá en forma permanente las acciones necesarias en materia de educación vial para peatones, personas con discapacidad, conductores, usuarios y población en general, haciendo uso de los avances tecnológicos y de los medios de comunicación.
 
 ###### ARTICULO 104.
 
@@ -1739,59 +1771,137 @@ V. La condición socioeconómica del infractor.
 
 En el caso de los operadores del servicio de transporte público, se ordenará además la reevaluación de sus aptitudes físicas y psicológicas, así como la capacitación específica para el acto u omisión de que se trate.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 129.
 
-La aplicación de las multas por el incumplimiento de las obligaciones de los concesionarios, permisionarios y operadores se ajustará a los siguientes tabuladores:
+La aplicación de multas por incumplimiento de las obligaciones de los, concesionarios, permisionarios, y operadores, se ajustará a los tabuladores siguientes:
 
-I. Por efectuar ascenso y descenso de pasaje fuera de los lugares autorizados, multa de cinco a veinte salarios mínimos vigentes en la zona, siempre y cuando esto no ponga en riesgo la seguridad de usuarios y terceros, de ser así se aplicará la fracción IV de este mismo artículo;
+I. De las sanciones al incumplimiento de las obligaciones de los operadores:
 
-II. Por prestar servicio con mala presentación personal, desaseado y, en su caso, sin el uniforme requerido, multa de cinco a veinte salarios mínimos vigentes en la zona;
+a) Por efectuar ascenso y descenso de pasaje fuera de los lugares autorizados, multa de cinco a veinte salarios mínimos vigentes en la zona, siempre y cuando esto no ponga en riesgo la seguridad de usuarios y terceros, de ser así, se aplicará el inciso d) de este mismo artículo.
 
-III. Por tratar en forma irrespetuosa a usuarios y terceros durante la prestación del servicio, multa de diez a treinta salarios mínimos vigentes en la zona;
+b) Por prestar servicio con mala presentación personal, desaseado y, en su caso, sin el uniforme requerido, multa de tres a veinte salarios mínimos vigentes en la zona.
 
-IV. Por poner en riesgo la seguridad de los usuarios y terceros al operar las unidades con falta de precaución, multa de veintiuno a cien salarios mínimos vigentes en la zona;
+c) Por tratar en forma irrespetuosa a usuarios y terceros durante la prestación del servicio, multa de cinco a treinta salarios mínimos vigentes en la zona.
 
-V. Por no portar la licencia y el gafete de identificación a la vista del usuario, multa de veintiuno a cien salarios mínimos vigentes en la zona;
+d) Por poner en riesgo la seguridad de los usuarios y terceros al operar las unidades con falta de precaución, multa de veintiuno a cien salarios mínimos vigentes en la zona.
 
-VI. Por rehusar someterse a los exámenes que para verificar su aptitud y sus capacidades psicofísicas determine la Secretaría, multa de veintiuno a cien salarios mínimos vigentes en la zona;
+e) Por no portar la licencia para conducir vehículos de servicio público, y el gafete de identificación a la vista del usuario, multa de cinco a treinta salarios mínimos vigentes en la zona.
 
-VII. Por prestar el servicio en mal estado de salud, multa de veintiuno a cien salarios mínimos vigentes en la zona;
+f) Por conducir un vehículo de servicio público sin contar con la licencia respectiva, o ésta sea insuficiente para la modalidad, multa de veinte a cincuenta salarios mínimos.
 
-VIII. Por no respetar el trato preferencial en la prestación del servicio a los adultos mayores, niños, personas con discapacidad y mujeres embarazadas, multa de veintiuno a cien salarios mínimos vigentes en la zona;
+g) Por no presentarse a acreditar los exámenes que para verificar su aptitud y sus capacidades psicofísicas determine la Secretaría, multa de tres a veinte salarios mínimos vigentes en la zona.
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2012)</small>
+h) Por conducir vehículos de servicio público en ostensible mal estado de salud, multa de tres a veinte salarios mínimos.
 
-IX. Por prestar el servicio como operador del transporte público sin cumplir y aprobar la capacitación que determine la Secretaría, multa de veintiún a cien salarios mínimos vigentes en la zona;
+i) Por no respetar el trato preferencial en la prestación del servicio a los adultos mayores, niños, personas con discapacidad, y mujeres embarazadas, multa de cinco a veinte salarios mínimos vigentes en la zona.
 
-X. Por no acatar las indicaciones de las autoridades en materia de transporte, o bien por agredirlos física o verbalmente durante las diligencias de inspección, sin menoscabo de la responsabilidad penal que en su caso resulte, multa de veintiuno a cien salarios mínimos vigentes en la zona;
+j) Por no cumplir y aprobar la capacitación que determine la Secretaría, multa de cinco a veinte salarios mínimos vigentes en la zona.
 
-XI. Por utilizar o colocar en la unidad accesorios no indispensables para la prestación del servicio, o que produzcan ruido y molesten, o pongan en riesgo la seguridad de usuarios y terceros, multa de veintiuno a cien salarios mínimos vigentes en la zona;
+k) Por no acatar las indicaciones de las autoridades en materia de transporte, o bien por agredirlos física o verbalmente durante las diligencias de inspección, sin menoscabo de la responsabilidad penal que, en su caso, resulte, multa de cinco a veinte salarios mínimos vigentes en la zona.
 
-XII. Por circular con la o las puertas abiertas, o con pasaje en los estribos, multa de cincuenta y uno a cien salarios mínimos vigentes en la zona;
+l) Por utilizar o colocar en la unidad accesorios no indispensables para la prestación del servicio, o que produzcan ruido y molesten, o pongan en riesgo la seguridad de usuarios y terceros, multa de cinco a veinte salarios mínimos vigentes en la zona.
 
-XIII. Por exceder el número de pasajeros autorizados para cada vehículo en su tarjeta de circulación y/o modalidad de servicio, multa de cincuenta y uno a cien salarios mínimos vigentes en la zona;
+m) Por circular con la o las puertas abiertas, o con pasaje en los estribos, multa de veinte a cincuenta salarios mínimos vigentes en la zona.
 
-XIV. Por alterar las tarifas o sus reglas de aplicación, multa de cien a quinientos salarios mínimos vigentes en la zona.
+n) Por exceder el número de pasajeros autorizados para cada vehículo en su tarjeta de circulación y/o modalidad de servicio, multa de cinco a veinte salarios mínimos vigentes en la zona.
 
-Cuando este hecho sea instruido o con conocimiento del titular de la concesión o permiso, será causal de revocación de la concesión o permiso;
+ñ) Por alterar las tarifas o sus reglas de aplicación, multa de cinco a cincuenta salarios mínimos vigentes en la zona. Cuando este hecho sea instruido o con conocimiento del titular de la concesión o permiso, será causal de revocación de los mismos.
 
-XV. Por conducir un vehículo del servicio del transporte público sin haber aprobado los exámenes establecidos por la Secretaría, multa de ciento uno a quinientos salarios mínimos vigentes en la zona;
+o) Por conducir un vehículo del servicio del transporte público sin haber aprobado los exámenes previstos en la presente Ley y su reglamento, multa de cinco a cincuenta salarios mínimos vigentes en la zona.
 
-XVI. Por la conducción de vehículos de transporte público, dentro o fuera del servicio, bajo la influencia del alcohol, enervantes o demás sustancias tóxicas, multa de cuatrocientos uno a quinientos salarios mínimos vigentes en la zona, y
+p) Por la conducción de vehículos de transporte público, dentro o fuera del servicio, bajo la influencia de bebidas alcohólicas, enervantes o demás sustancias tóxicas, multa de cien a doscientos salarios mínimos vigentes en la zona; esto sin perjuicio de las demás sanciones que establezca esta Ley y demás ordenamientos jurídicos aplicables.
 
-XVII. Por abastecer de combustible a los vehículos del servicio de transporte público con pasaje a bordo de los mismos, multa de cuatrocientos uno a quinientos salarios mínimos vigentes en la zona.
+q) Por abastecer de combustible a los vehículos del servicio de transporte público con pasaje a bordo de los mismos, multa de cinco a cincuenta salarios mínimos vigentes en la zona.
+
+r) Por negar, sin causa justificada, el servicio público de transporte, multa de cinco a treinta salarios mínimos; para el caso de que se obstaculice, impida o niegue el servicio a adultos mayores, niños, personas con discapacidad, y mujeres embarazadas, la multa será de diez a cincuenta salarios mínimos.
+
+s) El conductor de los vehículos de transporte público de pasajeros que fume durante la prestación del servicio en el mismo, será sancionado en los términos que dispone la Ley de Protección a la Salud de las Personas no Fumadoras.
+
+t) Por llevar acompañantes a bordo del vehículo de servicio público cuando éste se encuentre en la prestación del mismo, multa de cinco a veinte salarios mínimos.
+
+u) Por permitir o inducir el ascenso de usuarios por la puerta trasera, en el caso de vehículos del servicio de transporte público colectivo urbano, multa de cinco a treinta salarios mínimos.
+
+v) Por utilizar teléfonos celulares, o exceder la velocidad permitida, o no acatar las disposiciones de tránsito y vialidad, será sancionado en los términos que establece el inciso d) fracción I del presente artículo.
+
+w) Por no respetar los itinerarios autorizados; o establecer terminal en lugar no autorizado, o no resguardar los vehículos en patios de pernocta o encierro, para las modalidades de transporte público colectivo urbano, suburbano, foráneo, mixto, y colectivo de ruta rural, multa de cinco a treinta salarios mínimos.
+
+x) Por utilizar el vehículo de servicio público para otros usos diferentes a la prestación del servicio, multa de cinco a treinta salarios mínimos.
+
+y) Por la falta de cumplimiento de las demás obligaciones establecidas en los artículos 82 y 83 de la presente Ley, y 50 de su reglamento, multa de cinco a treinta salarios mínimos, y
+
+II. De las sanciones al incumplimiento de las obligaciones, de los titulares de concesiones, permisos o autorizaciones:
+
+a) Por ordenar al operador del vehículo prestar el servicio en modalidad distinta a la autorizada, multa de cien a quinientos salarios mínimos, y se revocará la concesión, permiso o autorización.
+
+b) Por no contar con lugares de encierro para los vehículos del servicio de transporte público cuando así lo determine la Secretaría y se utilice la vía pública para este fin, multa de cien a trescientos salarios mínimos.
+
+c) Por portar un vehículo afecto a una concesión, permiso o autorización para la prestación del servicio público de transporte, publicidad sin la autorización correspondiente, multa de cincuenta a trescientos salarios mínimos.
+
+d) Por no presentarse a la revista vehicular en las fechas y lugares que señale la Secretaria mediante convocatoria respectiva, multa de cien a doscientos salarios mínimos; en el caso de que presentado el vehículo no haya aprobado la revisión, y siga prestando el servicio, multa de doscientos a trescientos salarios mínimos.
+
+e) Por interrumpir la prestación del servicio en forma injustificada, o sin haber dado aviso a la Secretaría, o que ésta no lo haya autorizado, multa de cien a trescientos salarios mínimos, y se revocará la concesión, permiso o autorización.
+
+f) Por negarse los titulares de las concesiones, permisos o autorizaciones a proporcionar la información a que hace referencia la fracción XX del artículo 81 de la presente Ley, multa de cincuenta a cien salarios mínimos para el caso de personas físicas; para personas morales multa de cien a trescientos salarios mínimos.
+
+g) Por alterar en cualquier forma el diseño, estructura y construcción original de los vehículos afectos al servicio sin la autorización de la Secretaría, multa de cincuenta a cien días de salario mínimo; en caso de no conservar los vehículos, equipos e instalaciones en óptimas condiciones para la prestación del servicio, multa de treinta a cincuenta salarios mínimos; en ambos casos los vehículos serán retirados de la circulación.
+
+h) Por utilizar como terminal la vía pública en lugares no autorizados por la Secretaría, prohibidos, o no destinados para ello, multa de cincuenta a cien salarios mínimos.
+
+i) Por modificar o alterar sin autorización de la Secretaría, los itinerarios, rutas, horarios, frecuencias de servicio, terminales, o condiciones autorizadas para la prestación del servicio público de transporte, multa de cincuenta a cien salarios mínimos.
+
+j) Por permitir que personas que carezcan de la licencia o el gafete para conducir vehículos de servicio público, sean éstos insuficientes, o de modalidad distinta a la del servicio que se presta, o se encuentren vencidos, multa de cincuenta a cien a trescientos salarios mínimos. (sic)
+
+k) Por no portar póliza de seguro vigente a bordo de vehículo afecto a una concesión de servicio público de transporte, multa de cincuenta, a trescientos salarios mínimos; y el vehículo será retirado de la circulación.
+
+l) Por ordenar aplicación de tarifas y reglas de operación no autorizadas por la Secretaría, multa de cincuenta a trescientos salarios mínimos; y el vehículo será retirado de la circulación.
+
+m) Por falta de una o ambas placas, éstas estén vencidas, o no portar a bordo del vehículo afecto a la prestación del servicio de transporte público la tarjeta de circulación, multa de cincuenta a trescientos salarios mínimos.
+
+n) Por no contar con número económico y demás elementos de identificación e información al usuario, que con fundamento en la presente Ley determine la Secretaría, o no llevar en lugar visible la tarifa autorizada, multa de veinte a cincuenta salarios mínimos.
+
+ñ) Por no cumplir con las disposiciones en materia de accesibilidad a personas con discapacidad que se establezcan con fundamento en la presente Ley y su reglamento, multa de cincuenta a cien salarios mínimos.
+
+o) Por no dotar de por lo menos dos uniformes al año a los operadores, multa de veinte a cincuenta salarios mínimos.
+
+p) Por no cumplir las obligaciones de seguridad social y proporcionar a su costa, la capacitación continua y permanente a sus operadores y demás personas que tengan relación con el servicio público de transporte concesionado, permisionado o autorizado, multa de veinte a cien salarios mínimos.
+
+q) Por prestar el servicio público de transporte en vehículos que excedan la antigüedad máxima permitida por la presente Ley, o que se encuentren en malas condiciones mecánicas, físicas o de operación, multa de veinte a cien salarios mínimos, y el vehículo será retirado de la circulación.
+
+r) Por no cumplir las disposiciones jurídicas y administrativas en materia ambiental aplicables al servicio público de transporte, o que los vehículos ostensiblemente emitan humo en exceso, multa de veinte a cincuenta salarios mínimos.
+
+s) Por negarse a prestar el servicio de manera gratuita cuando por causas de fuerza mayor, caso fortuito, desastres naturales, contingencias, movimientos sociales o cuestiones de seguridad pública así se requiera, multa de veinte a cien salarios mínimos.
+
+t) Por instruir o inducir a sus operadores a no cumplir las disposiciones legales y administrativas en materia de tránsito, transporte y vialidad, así como las políticas y programas dictados por el titular del Ejecutivo por si, o a través de la Secretaría, multa de veinte a cien salarios mínimos.
+
+u) Por no instalar o mantener fuera de operación los dispositivos para el control de velocidad a que hace referencia la fracción III del artículo 36 de la presente Ley, y aquéllos que con fundamento en la misma determine el titular del Ejecutivo por si, o a través de la Secretaría, multa de veinte a cien salarios mínimos.
+
+v) Por alterar los taxímetros, sistemas de prepago y demás equipos utilizados para el cobro y aplicación de tarifas autorizadas, multa de cincuenta a cien salarios mínimos.
+
+w) Por falta de cumplimiento de las demás obligaciones establecidas en el artículo 81 de la presente Ley, multa de cinco a cincuenta salarios mínimos.
+
+En la comisión de las infracciones establecidas en la presente Ley, se considera solidariamente responsable al titular de la concesión, permiso o autorización de que se trate.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 130.
 
-La comisión de infracciones por parte de los operadores del servicio de transporte público, generará un aviso a los titulares de las concesiones y permisos correspondientes, que deberá ser notificado de manera personal.
+La comisión de infracciones por parte de los operadores del servicio de transporte público, generará un aviso a los titulares de las concesiones, permisos y autorizaciones correspondientes, que deberá ser notificado de manera personal. Las sanciones que se señalan en este capítulo, se aplicarán sin perjuicio de las causas de remisión de unidades a los depósitos vehiculares, la revocación de la concesión, el permiso o la autorización, y la responsabilidad civil o penal que resulten de la comisión de la infracción.
+
+En caso de reincidencia, se podrá imponer una multa que oscilará entre el cincuenta por ciento y el cien por ciento adicional de las cuantías señaladas, de acuerdo con la gravedad de la infracción, las circunstancias de ejecución, y las condiciones del infractor.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 131.
 
-La falta de cumplimiento de las demás obligaciones de los concesionarios o permisionarios del transporte público contenidas en esta Ley, dará lugar a una multa de cien a quinientos salarios mínimos vigentes en la zona.
+El mal uso comprobado fehacientemente de las tarifas especiales a que hacen referencia los artículos, 96, y 97 de la presente Ley, dará lugar en primera instancia, a la suspensión del infractor del goce de las mismas durante noventa días; la reincidencia se sancionará con la revocación del beneficio de las tarifas especiales.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 132.
 
-Asimismo, se hará acreedor a una multa de cuatrocientos a quinientos salarios mínimos vigentes en la zona; quien ofrezca el servicio de transporte publico de cualquier modalidad, careciendo de concesión o permiso otorgados por el Gobierno del Estado.
+Se hará acreedor a multa de trescientos a quinientos salarios mínimos vigentes en la zona, quien ofrezca o preste el servicio de transporte público de cualquier modalidad, y carezca de concesión o permiso otorgados por el Ejecutivo del Estado.
 
 ### Capítulo Único
 
@@ -1894,3 +2004,19 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. La Secretaría de Comunicaciones y Transportes tendrá tres meses a partir de la vigencia del presente Decreto, para realizar las modificaciones a su reglamento, sobre la operación y vigilancia de las cámaras de video en el transporte público.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 12 DE JULIO DE 2012.
+
+DECRETO NÚMERO 991, POR EL QUE SE REFORMA LOS ARTÍCULOS, 5 EN SU FRACCIÓN V, 6 EN SUS FRACCIONES III Y IV, 8 EN SU PÁRRAFO SEGUNDO, 10, 12 EN SU PÁRRAFO PRIMERO, 13, 81 EN SU FRACCIÓN XIX, Y 103; Y ADICIONA, AL ARTICULO 6 LA FRACCIÓN V, Y AL ARTICULO 12 DOS FRACCIONES, ESTAS COMO I Y XXIII BIS, POR LO QUE ACTUAL I PASA A SER FRACCIÓN I BIS, DE Y A LA LEY DE TRANSPORTE PUBLICO DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+DECRETO NÚMERO 992, POR EL QUE SE REFORMA LOS ARTÍCULOS, 129, 130, 131, Y 132, DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ.
+
+P.O. 12 DE JULIO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
