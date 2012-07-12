@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-planeacion-del-estado-y-municipios-de-san-luis-potosi-26
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-24"
-last_updated: "2003-10-31"
+last_updated: "2012-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE PLANEACION DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-LEY DE PLANEACION DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
+LEY DE PLANEACIÓN DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 24 de noviembre de 2001.
 
@@ -49,7 +49,9 @@ Las disposiciones de esta Ley son de orden público e interés social y tienen p
 
 Para efectos de esta Ley se entenderá por:
 
-I. Sistema Estatal de Planeación Democrática, al conjunto de actividades, procedimientos, instancias e instituciones en el que participan las dependencias y entidades de la administración pública federal, estatal y municipal; los sistemas de información y consulta; los organismos de los sectores social y privado, y ciudadanos en general vinculados funcionalmente para llevar a cabo en forma coordinada y concertada el proceso de planeación del desarrollo en la Entidad;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2012)</small>
+
+I. Sistema Estatal de Planeación Democrática, al conjunto de actividades, procedimientos, instancias e instituciones en el que participan las dependencias y entidades de la administración pública federal, estatal y municipal; los sistemas de información y consulta; los organismos de los sectores social y privado, y ciudadanos en general vinculados funcionalmente para llevar a cabo en forma coordinada y concertada el proceso de planeación del desarrollo en la Entidad; así como el Programa Estatal de Infraestructura contemplado en la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado y Municipios de San Luis Potosí.
 
 II. Planeación Estatal del Desarrollo, la ordenación racional y sistemática de las acciones gubernamentales, cuyo propósito es la transformación de las condiciones económicas y sociales prevalecientes en la Entidad de conformidad con las normas y principios legales establecidos, y
 
@@ -69,9 +71,11 @@ IV. El impulso del desarrollo regional equilibrado y el fortalecimiento de la au
 
 V. El equilibrio de los factores productivos, que proteja y promueva el empleo y la inversión, en un marco de estabilidad económica y social.
 
-###### ARTICULO 4º.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2012)</small>
 
-El proceso de planeación normado por la presente Ley se sujetará a un instrumento rector denominado Plan Estatal de Desarrollo. Con base en él se elaborarán los demás instrumentos de la planeación del desarrollo estatal, tales como planes municipales, programas regionales, sectoriales, especiales e institucionales.
+###### ARTICULO 4°.
+
+El proceso de planeación normado por la presente Ley se sujetará a un instrumento rector denominado Plan Estatal de Desarrollo. Con base en él se elaborarán los demás instrumentos de la planeación del desarrollo estatal, tales como planes municipales, programas regionales, sectoriales, especiales e institucionales, incluyendo el Programa Estatal de Infraestructura contemplado en la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado y Municipios de San Luis Potosí.
 
 Los objetivos y prioridades de la planeación estatal serán congruentes con los establecidos en la planeación nacional.
 
@@ -249,15 +253,21 @@ a) Plan Estatal de Desarrollo;
 
 b) Planes municipales de Desarrollo, y
 
-c) Programas de mediano plazo:
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2012)</small>
+
+c). Programas de mediano plazo y/o largo plazo:
 
 1. Regionales;
 
 2. Sectoriales;
 
-3. Institucionales, y
+3. Institucionales;
 
-4. Especiales;
+4. Especiales; y
+
+5. El Programa Estatal de Infraestructura contemplado en la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado y Municipios de San Luis Potosí.
+
+d). ... (sic)
 
 II. Operativos:
 
@@ -583,10 +593,16 @@ LIC. JORGE DANIEL HERNANDEZ DELGADILLO
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 31 DE OCTUBRE DE 2003.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 12 DE JULIO DE 2012.
+
+PRIMERO. Estas reformas y adiciones entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abrogan y derogan las disposiciones que se opongan al presente decreto.
