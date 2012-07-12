@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-adquisiciones-del-estado-de-san-luis-potosi-12345"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-29"
-last_updated: "2012-06-14"
+last_updated: "2012-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el miércoles 29 de enero de 1997.
 
@@ -133,7 +133,7 @@ XI.- Las demás que les confieran otras disposiciones legales o que les sean inh
 
 ###### ARTICULO 6o.
 
-Cada institución a través del área administrativa que determine, ejecutará las adquisiciones, arrendamientos y servicios que deban adjudicarse conforme lo establece esta ley. Toda operación o contratación realizada fuera de procedimiento legal será nula de pleno derecho y hará incurrir en responsabilidad a quien la autorice o lleve al cabo en contravención a lo anterior.
+Cada institución a través del área administrativa que determine, ejecutará las adquisiciones, arrendamientos y servicios que deban adjudicarse conforme lo establece esta ley. Toda operación o contratación realizada fuera de procedimiento legal será nula de pleno derecho y hará incurrir en responsabilidad a quien la autorice o lleve al (sic) cabo en contravención a lo anterior.
 
 Por ningún motivo el importe total de las operaciones deberá fraccionarse con el fin de evitar la celebración de una licitación pública.
 
@@ -177,7 +177,9 @@ En los casos no previstos por esta ley serán aplicables, en cuanto procedan, la
 
 En la planeación, programación y presupuestación de las adquisiciones, arrendamientos y servicios, las instituciones deberán ajustarse a la observancia y cumplimiento de:
 
-I.- Los objetivos y prioridades contenidos en el Plan Estatal de Desarrollo y en los programas sectoriales e institucionales, incluyendo sus programas anuales; y
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2012)</small>
+
+I.- Los objetivos y prioridades contenidos en el Plan Estatal de Desarrollo y en los programas sectoriales e institucionales, incluyendo sus programas anuales; así como en el Programa Estatal de Infraestructura contemplado en la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado y Municipios de San Luis Potosí; y
 
 II.- Los objetivos, metas y previsiones de aplicación de los recursos financieros establecidos en los presupuestos de egresos de cada una de las instituciones.
 
@@ -457,7 +459,7 @@ La invitación a todo proveedor deberá hacerse por escrito, indicando la inform
 
 El procedimiento de invitación restringida a cuando menos tres proveedores, deberá realizarse en forma sumaria, en una sola etapa conforme a las siguientes formalidades:
 
-I.- Entrega de propuesta económica, firmada por quien esté autorizado legalmente para ello, misma que será obsequiada en sobre cerrado dirigido al requeriente, conteniendo las especificaciones técnicas del bien o servicio de que se trate;
+I.- Entrega de propuesta económica, firmada por quien esté autorizado legalmente para ello, misma que será obsequiada en sobre cerrado dirigido al requeriente (sic), conteniendo las especificaciones técnicas del bien o servicio de que se trate;
 
 II.- El acto de apertura de propuesta económica se llevará a cabo sin la presencia de los correspondientes proveedores pero, invariablemente, se invitará al representante del órgano de control de la institución;
 
@@ -714,3 +716,9 @@ P.O. 14 DE JUNIO DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE JULIO DE 2012.
+
+PRIMERO. Estas reformas y adiciones entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abrogan y derogan las disposiciones que se opongan al presente decreto.
