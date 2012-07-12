@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2012-03-28"
+last_updated: "2012-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO 951 , PUBLICADO EN EL P.O. 28 DE MARZO DE 2012, TODA MENCIÓN CONTENIDA EN LEYES , REGLAMENTOS Y, EN GENERAL, CUALQUIER DISPOSICIÓN RESPECTO DE LAS FUNCIONES DESEMPEÑADAS POR LA SECRETARÍA GENERAL DE GOBIERNO, EN MATERIA DE PREVENCIÓN Y REINSERCIÓN SOCIAL, ASÍ COMO DEL SISTEMA DE MENORES INFRACTORES, SE ENTENDERÁN AHORA REFERIDAS A LA SECRETARÍA DE SEGURIDAD PÚBLICA A LA CUAL SE HAN TRANSFERIDO, HASTA EN TANTO SE LLEVEN A CABO LAS ADECUACIONES CORRESPONDIENTES.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -407,9 +407,9 @@ XXX. (DEROGADA, P.O. 31 DE ENERO DE 2006)
 
 XXXI. Diseñar el Sistema Estatal de Planeación, y establecer la normatividad del proceso de planeación, programación, presupuestación y evaluación en apego a las disposiciones legales aplicables;
 
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2012)</small>
 
-XXXII. Formular, con la participación de las dependencias y entidades de la administración pública y con las organizaciones sociales, el Plan Estatal de Desarrollo y los programas respectivos;
+XXXII. Formular, con la participación de las dependencias y entidades de la administración pública y con las organizaciones sociales, el Plan Estatal de Desarrollo y los programas respectivos; así como también el Programa Estatal de Infraestructura contemplado en la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado y Municipios de San Luis Potosí.
 
 > <small>(ADICIONADA, P.O. 31 DE ENERO DE 2006)</small>
 
@@ -1670,3 +1670,9 @@ SEXTO. Los derechos laborales y antigüedad del personal administrativo que actu
 Los derechos de los servidores públicos de confianza, y de seguridad y custodia, se rigen conforme a las disposiciones legales aplicables.
 
 SEPTIMO. Los asuntos que con motivo de este Decreto deban pasar de una secretaría a otra, permanecerán en el último trámite que hubieran alcanzado, hasta que las unidades administrativas que los despachen se incorporen a la dependencia que señale el mismo, a excepción de aquéllos urgentes o sujetos a término, los cuales se atenderán por la dependencia que los conocía.
+
+P.O. 12 DE JULIO DE 2012.
+
+PRIMERO. Estas reformas y adiciones entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abrogan y derogan las disposiciones que se opongan al presente decreto.
