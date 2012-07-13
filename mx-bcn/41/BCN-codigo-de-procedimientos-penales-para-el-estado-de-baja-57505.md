@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-57505"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-19"
-last_updated: "2012-06-22"
+last_updated: "2012-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2012.
 
 Código publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2007.
 
@@ -1688,6 +1688,12 @@ a) Fue sorprendido en el momento de su comisión.
 b) Fue señalado por alguna persona que presenció el hecho delictivo.
 
 c) Se encuentre en su rango de disposición objetos materiales del delito u otros indicios o huellas del mismo, que hagan presumir que lo cometió o participó en el mismo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2012)</small>
+
+Para efectos de la fracción III del presente artículo, se entenderá por inmediatamente, como el lapso de tiempo razonable existente entre la comisión del delito y su detención, según las circunstancias del caso, siempre y cuando no se hayan suspendido las actividades de persecución tendientes a la detención.
 
 ###### Artículo 164.
 
@@ -4784,3 +4790,7 @@ El presente decreto entrará en vigor, al día siguiente de publicarse en el per
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo Estatal en términos de la fracción XVI, del artículo 49, de la Constitución Política del Estado Libre y Soberano de Baja California, así como los Ayuntamientos deberán adecuar la reglamentación interna, dentro del plazo de 60 días naturales contados a partir de la entrada en vigor del presente Decreto de reforma de ley, en todo lo necesario para alcanzar el objetivo de la presente reforma.
+
+P.O. 13 DE JULIO DE 2012.
+
+ÚNICO.- La presente reforma entrará en vigor de conformidad a las fracciones I y II en lo dispuesto en el artículo primero transitorio del Código de Procedimientos Penales para el Estado de Baja California, publicado en el Periódico Oficial el 19 de octubre de 2007.
