@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-general-de-gobierno-86206"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-01-30"
-last_updated: "2012-01-30"
+last_updated: "2012-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86206&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 13 DE JULIO DE 2012.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 30 de enero de 2012.
 
@@ -643,7 +643,13 @@ XXI. Impulsar una política de promoción, defensa y respeto de los derechos hum
 
 XXII. Coordinar las acciones de gobierno para la atención de los asuntos agrarios, atender y ejecutar los programas y acciones que instruya el Gobernador y el Secretario, en materia agraria e informar oportunamente al Secretario sobre la situación agraria del Estado.
 
-XXIII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Gobernador y el Secretario.
+> <small>(REFORMADA, G.G. 13 DE JULIO DE 2012)</small>
+
+XXIII. Coordinar las acciones relativas a la demarcación y conservación de Límites.
+
+> <small>(ADICIONADA, G.G. 13 DE JULIO DE 2012)</small>
+
+XXIV. Las demás que le confieran otras disposiciones legales y aquellas que le encomienden el Gobernador y el Secretario.
 
 ###### Artículo 25.
 
@@ -660,6 +666,10 @@ IV. Dirección de Legalización y del Periódico Oficial “Gaceta del Gobierno�
 V. Unidad de Derechos Humanos.
 
 VI. Unidad de Asuntos Agrarios.
+
+> <small>(ADICIONADA, G.G. 13 DE JULIO DE 2012)</small>
+
+VII. Coordinación General de Límites.
 
 ###### Artículo 26.
 
@@ -784,6 +794,34 @@ VI. Asesorar a los involucrados en los asuntos agrarios, respecto a la prevenci�
 VII. Atender y ejecutar los programas y acciones que instruya el Gobernador y el Secretario, para coordinar con las instancias federales, la solución de los problemas agrarios donde el Gobierno del Estado sea parte o coadyuve a su solución entre particulares y ejidatarios.
 
 VIII. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario o el Subsecretario de Asuntos Jurídicos.
+
+> <small>(ADICIONADO, G.G. 13 DE JULIO DE 2012)</small>
+
+###### Artículo 31 Bis.
+
+Corresponde a la Coordinación General de Límites, las siguientes atribuciones:
+
+I.- Representar a la Comisión de Límites del Estado de México por delegación del Subsecretario de Asuntos Jurídicos;
+
+II.- Asesorar a las Instancias Estatales y Municipales en materia de demarcación y conservación de límites territoriales;
+
+III.- Acudir a la Comisión Legislativa de Límites Territoriales del Estado de México y sus municipios, cuando así se le solicite;
+
+IV.- Proponer medidas para vigilar y controlar la conservación y demarcación de límites territoriales del Estado y sus Municipios;
+
+V.- Presidir las Sesiones de la Comisión Estatal, en ausencia del Subsecretario de Asuntos Jurídicos;
+
+VI.- Convocar a Sesiones ordinarias y extraordinarias, así como al grupo de trabajo, en ausencia del Subsecretario de Asuntos Jurídicos;
+
+VII.- Ejecutar y dar seguimiento a los planes, programas y acuerdos de la Comisión de Límites del Estado de México;
+
+VIII.- Preservar y mantener actualizada la información en materia de límites territoriales del Estado y sus municipios;
+
+IX.- Proponer a la Comisión de Límites del Estado de México, la integración de grupos de trabajo;
+
+X.- Atender la solicitud de creación de municipios.
+
+XI.- Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Subsecretario de Asuntos Jurídicos.
 
 #### Sección Cuarta. De la Subsecretaría de Desarrollo Municipal
 
@@ -996,3 +1034,13 @@ SECRETARIO GENERAL DE GOBIERNO
 LIC. ERNESTO JAVIER NEMER ÁLVAREZ
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 13 DE JULIO DE 2012.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que sean contrarias a las establecidas en el presente Reglamento.
