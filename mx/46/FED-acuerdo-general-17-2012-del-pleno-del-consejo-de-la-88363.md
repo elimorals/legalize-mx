@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-17-2012-del-pleno-del-consejo-de-la-88363"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-06-15"
-last_updated: "2012-06-26"
+last_updated: "2012-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88363&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,13 +19,13 @@ issue_date: "2012-06-07"
 ---
 # ACUERDO GENERAL 17/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO]
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE JULIO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>N. DE E. CUENTA CON LA MODIFICACIÓN DEL ACUERDO 19/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, A EFECTO DE MOSTRAR EL TEXTO ACTUALIZADO DE LA VERSIÓN VIGENTE.</small>
 
 ACUERDO GENERAL 17/2012, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
 TEXTO ORIGINAL: 26 DE JUNIO DE 2012 Y ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JUNIO DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 13 DE JULIO DE 2012.</small>
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 26 de junio de 2012.
 
@@ -113,8 +113,6 @@ XXXI. TRIGESIMO PRIMER CIRCUITO: Estado de Campeche.
 
 XXXII. TRIGESIMO SEGUNDO CIRCUITO: Estado de Colima.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE JULIO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 SEGUNDO. Cada uno de los Circuitos a que se refiere el punto primero comprenderá los tribunales colegiados y unitarios de Circuito y los juzgados de Distrito que a continuación se precisan:
 
 I. PRIMER CIRCUITO:
@@ -185,7 +183,9 @@ VIII. OCTAVO CIRCUITO:
 
 2. Dos tribunales unitarios con sede en Torreón.
 
-3. Ocho juzgados de distrito en el Estado de Coahuila de Zaragoza: dos con residencia en Saltillo, uno con sede en Piedras Negras, uno con residencia en Monclova y cuatro en La Laguna, con sede en Torreón.
+> <small>(F. DE E., D.O.F. 13 DE JULIO DE 2012)</small>
+
+3. Nueve juzgados de distrito en el Estado de Coahuila de Zaragoza: dos con residencia en Saltillo, uno con sede en Piedras Negras, dos con residencia en Monclova y cuatro en La Laguna, con sede en Torreón.
 
 IX. NOVENO CIRCUITO:
 
@@ -489,8 +489,6 @@ XXXI. TRIGESIMO PRIMER CIRCUITO: Estado de Campeche.
 
 XXXII. TRIGESIMO SEGUNDO CIRCUITO: Estado de Colima.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE JULIO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CUARTO. La jurisdicción territorial de los juzgados de Distrito es la siguiente:
 
 I. PRIMER CIRCUITO:
@@ -549,7 +547,9 @@ Los juzgados de Distrito en el Estado de Coahuila de Zaragoza, con residencia en
 
 El juzgado de Distrito en el Estado de Coahuila de Zaragoza, con residencia en Piedras Negras, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Acuña, Allende, Guerrero, Hidalgo, Jiménez, Juárez, Morelos, Múzquiz, Nava, Piedras Negras, Progreso, Sabinas, San Juan de Sabinas, Villa Unión y Zaragoza.
 
-El juzgado de Distrito en el Estado de Coahuila de Zaragoza, con residencia en Monclova, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Abasolo, Candela, Castaños, Cuatro Ciénegas, Escobedo, Frontera, Lamadrid, Monclova, Nadadores, Ocampo, Sacramento, San Buenaventura y Sierra Mojada.
+> <small>(F. DE E., D.O.F. 13 DE JULIO DE 2012)</small>
+
+Los juzgados de Distrito en el Estado de Coahuila de Zaragoza, con residencia en Monclova, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Abasolo, Candela, Castaños, Cuatro Ciénegas, Escobedo, Frontera, Lamadrid, Monclova, Nadadores, Ocampo, Sacramento, San Buenaventura y Sierra Mojada.
 
 Los juzgados de Distrito en La Laguna, con residencia en Torreón, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del Estado de Coahuila de Zaragoza, General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo del Estado de Durango.
 
@@ -693,8 +693,6 @@ Los juzgados de Distrito en el Estado de Colima, con residencia en la ciudad del
 
 XXXIII. Los Jueces de Distrito de Procesos Penales Federales del Primero y Segundo Circuito, los Penales del Tercer Circuito y los Mixtos, así como los de Procesos Penales Federales que en lo futuro se lleguen a crear en aquellos lugares donde exista un centro federal de readaptación social de máxima seguridad, ejercerán jurisdicción en toda la República para conocer de aquellos asuntos que se encuentren en la hipótesis del artículo 10, párrafo tercero, del Código Federal de Procedimientos Penales.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE JULIO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 QUINTO. Se contará con:
 
 1. El Centro Auxiliar de la Primera Región, se integrará por nueve tribunales colegiados de Circuito Auxiliares, cuatro con residencia en el Distrito Federal, tres con sede en Cuernavaca, Morelos, y dos con residencia en Naucalpan de Juárez, Estado de México, y siete juzgados de Distrito auxiliares, cinco con residencia en el Distrito Federal y dos en Cuernavaca, Morelos.
@@ -715,7 +713,9 @@ QUINTO. Se contará con:
 
 9. El Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, se integrará por dos tribunales colegiados de Circuito Auxiliares y siete juzgados de Distrito Auxiliares.
 
-10. El Centro Auxiliar de la Décima Región, con residencia en Saltillo, Coahuila de Zaragoza, se integrará por cuatro tribunales colegiados de Circuito Auxiliares, y cuatro juzgados de Distrito Auxiliares.
+> <small>(F. DE E., D.O.F. 13 DE JULIO DE 2012)</small>
+
+10. El Centro Auxiliar de la Décima Región, con residencia en Saltillo, Coahuila de Zaragoza, se integrará por cuatro tribunales colegiados de Circuito Auxiliares, y tres juzgados de Distrito Auxiliares.
 
 11. El Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz, el cual se integrará por dos juzgados de Distrito Auxiliares y dos tribunales Colegiados de Circuito Auxiliares.
 
