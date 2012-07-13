@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-78511"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-01-24"
-last_updated: "2012-03-16"
+last_updated: "2012-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78511&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2010-11-03"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ENERO DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 16 DE MARZO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE JULIO DE 2012.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el lunes 24 de enero de 2011.
 
@@ -527,7 +525,11 @@ La destitución se aplicará a los servidores públicos cuando la falta administ
 
 La sanción de inhabilitación se regirá de la manera siguiente:
 
-I. De seis meses a un año: al servidor público que con la comisión de la falta administrativa no cause daño o perjuicio, ni obtenga beneficio o lucro alguno;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2012)</small>
+
+I. De tres meses a un año: al servidor público que con la comisión de la falta administrativa no cause daño o perjuicio, ni obtenga beneficio o lucro alguno;
 
 II. De uno a diez años: al servidor público que con la comisión de la falta administrativa, cause daño o perjuicio u obtenga un beneficio o lucro, siempre que el monto de éstos no exceda de doscientas veces el salario mínimo general mensual vigente en el Distrito Federal; y
 
@@ -897,11 +899,187 @@ En ese supuesto ordenará la devolución del proyecto a la Secretaría o a la Co
 
 Si el Pleno o la Comisión estiman que la queja o denuncia fue interpuesta de manera notoriamente improcedente o infundada; afirmando hechos falsos u omitiendo los que le consten; o presentando pruebas o documentos alterados o apócrifos; se impondrá al quejoso o denunciante, o a su representante, o a ambos, una multa de diez a ciento veinte días de salario mínimo vigente en el Distrito Federal en el momento de interponerse la queja o denuncia, de conformidad con el artículo 139 de la Ley Orgánica. La imposición de la multa debe fundarse y motivarse en la resolución correspondiente, así como en la orden de ejecución.
 
-### Capítulo VI: Ejecución de sanciones
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-#### Sección I: Modalidades
+> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2012)</small>
+
+### Capítulo VI: Recursos
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 13 DE JULIO DE 2012)</small>
+
+#### Sección I: Reglas generales
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2012)</small>
 
 ###### Artículo 106.
+
+En el procedimiento de responsabilidad administrativa, los recursos podrán interponerse por el quejoso, denunciante y servidor público involucrado, contra las resoluciones definitivas y las de trámite establecidas en este capítulo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2012)</small>
+
+###### Artículo 107.
+
+Los recursos se interpondrán por escrito y deberán contener:
+
+I. Nombre y firma del recurrente;
+
+II. Resolución que se recurre y la fecha de notificación;
+
+III. Agravios que le causa; y
+
+IV. En su caso, documento que acredita la personalidad.
+
+Cuando exista error u omisión en el escrito de interposición del recurso, se prevendrá al recurrente para que lo subsane o complete en un plazo de tres días hábiles. En caso de no atender la prevención se tendrá por no interpuesto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2012)</small>
+
+###### Artículo 108.
+
+Los recursos podrán interponerse personalmente, por correo certificado o por servicio de mensajería de empresa especializada. En los últimos dos supuestos la fecha de presentación será la del día de su depósito.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2012)</small>
+
+###### Artículo 109.
+
+El Presidente o el presidente de la Comisión, según su competencia, calificará la procedencia del recurso, admitiéndolo o desechándolo dentro de los tres días hábiles siguientes a su interposición.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2012)</small>
+
+###### Artículo 110.
+
+No se admitirá recurso notoriamente improcedente. En este supuesto se podrá imponer multa al recurrente en términos del artículo 105 del Acuerdo, así como cuando afirme hecho falso u omita el que le conste, presente prueba o documento alterado o apócrifo, o testigo que no se conduzca con verdad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2012)</small>
+
+###### Artículo 111.
+
+La interposición de los recursos no suspende la ejecución de la resolución recurrida y se tramitarán, según su competencia, por el Presidente o el presidente de la Comisión, con el auxilio de la Secretaría.
+
+El Presidente y el presidente de la Comisión podrán designar a (sic) órgano auxiliar instructor para realizar actuaciones y diligencias con motivo del trámite de los recursos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2012)</small>
+
+###### Artículo 112.
+
+Los acuerdos de trámite de los recursos serán firmados por el órgano competente y por el Secretario Ejecutivo de Disciplina, quien los autorizará y dará fe de los mismos.
+
+Las resoluciones de los recursos serán firmadas por el órgano competente que las emita y por la secretaría correspondiente, quien autorizará y dará fe de las mismas.
+
+En su caso, las resoluciones de los recursos deberán expresar con claridad sus efectos y fijar las medidas necesarias para restablecer las cosas al estado que guardaban antes de su interposición.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 13 DE JULIO DE 2012)</small>
+
+#### Sección II: Reglas particulares
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2012)</small>
+
+###### Artículo 113.
+
+El recurso de inconformidad procede contra el acuerdo que desecha, declara improcedente o tiene por no presentada la queja o denuncia por:
+
+I. Falta de personalidad;
+
+II. Falta de prueba suficiente para establecer la existencia de la infracción y presumir la responsabilidad del servidor público denunciado; y
+
+III. Falta de motivación y fundamentación del referido acuerdo.
+
+Este recurso lo admite y tramita el Presidente, lo resuelve el Pleno cuando se involucra a Titular y resuelve la Comisión en los demás supuestos. El plazo para la interposición de la inconformidad será de tres días hábiles y treinta días hábiles para su resolución.
+
+No procede recurso contra el acuerdo que desecha o tenga por no interpuesta la inconformidad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2012)</small>
+
+###### Artículo 114.
+
+El recurso de revisión procede contra resoluciones definitivas de:
+
+I. La Comisión; y
+
+II. La Contraloría.
+
+En la fracción I admite y tramita el Presidente y resuelve el Pleno; y, en la fracción II admite y tramita el presidente de la Comisión y resuelve ésta. El plazo para la interposición de la revisión será de cinco días hábiles y sesenta días hábiles para su resolución.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2012)</small>
+
+###### Artículo 115.
+
+El recurso de reconsideración procede contra las resoluciones definitivas del Pleno en las que:
+
+I. No imponga sanción; o
+
+II. Imponga sanción salvo las de destitución o inhabilitación a Titular.
+
+Este recurso lo admite y tramita el Presidente y lo resuelve el Pleno. El plazo para la interposición de la reconsideración será de cinco días hábiles y sesenta días hábiles para su resolución.
+
+Si el recurso de reconsideración se interpuso en contra de resolución emitida con fundamento en el artículo 61, primer párrafo, del Acuerdo, por la que se haya destituido o inhabilitado a servidor público que no sea Titular, la reconsideración no podrá resolverse hasta en tanto se decida, en su caso, la suerte del recurso constitucional de revisión administrativa.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2012)</small>
+
+###### Artículo 116.
+
+El recurso de reclamación procede contra el acuerdo que desecha o tenga por no interpuesto los recursos de revisión y reconsideración, mismo que resolverá el Pleno cuando haya acordado el Presidente y la Comisión cuando lo haya hecho el presidente de ésta. El plazo para la interposición de la reclamación será de tres días hábiles y quince días hábiles para su resolución.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2012)</small>
+
+###### Artículo 117.
+
+En los recursos de revisión y reconsideración podrán hacerse valer violaciones al procedimiento de responsabilidad administrativa con motivo de:
+
+I. La admisión de la queja o denuncia;
+
+II. El emplazamiento;
+
+III. La audiencia establecida en la fracción III del artículo 134 de la Ley Orgánica;
+
+IV. La admisión y desahogo de pruebas; y
+
+V. Los alegatos.
+
+En los señalados recursos, únicamente podrá ser ofrecida la prueba superveniente y la que tenga relación inmediata y directa con violaciones al procedimiento administrativo de responsabilidad. Para su desahogo se concederá un plazo no mayor a diez días hábiles que podrá ampliarse por causa motivada y fundada hasta por treinta días hábiles.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2012)</small>
+
+###### Artículo 118.
+
+Una vez substanciados los recursos de inconformidad y de reclamación, el Presidente en el primer caso, y el Presidente o el presidente de la Comisión en el segundo -según corresponda-, formularán el proyecto de resolución con apoyo de la Secretaría y lo someterán al órgano competente para su resolución.
+
+Tramitados los recursos de revisión y reconsideración se remitirán, con los expedientes y anexos de ambas instancias, al consejero a quien por turno corresponda formular proyecto de resolución y someterlo al órgano competente. En su caso, se deberá excluir del turno al consejero que haya sido ponente de la resolución recurrida.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO VI], D.O.F. 13 DE JULIO DE 2012)
+
+### Capítulo VII: Ejecución de sanciones. (REUBICADO [N. DE E. ANTES ARTÍCULO 106], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 119.
 
 Para la ejecución de las sanciones a que se refiere el artículo 51 del Acuerdo, se observarán las siguientes reglas:
 
@@ -917,27 +1095,41 @@ IV. Suspensión, destitución e inhabilitación: tratándose de titulares de ór
 
 En los demás casos, se dará a conocer a través de notificación personal realizada por la Secretaría o la Contraloría o, en su caso, con el apoyo de un juez de distrito o del titular de la unidad administrativa en la que se encuentre adscrito el servidor público sancionado.
 
-###### Artículo 107.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Deberá remitirse copia certificada de toda resolución que contenga una sanción a la Dirección General de Recursos Humanos, para que se agregue al expediente personal del servidor público sancionado, y otra a la Contraloría para la actualización del Registro de Servidores Públicos Sancionados.
+(REFORMADO PRIMER PÁRRAFO Y REUBICADO [N. DE E. ANTES ARTÍCULO 107], D.O.F. 13 DE JULIO DE 2012), D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 120.
+
+Deberá remitirse copia certificada de toda resolución que cause estado e imponga sanción, a la Dirección General de Recursos Humanos para que la agregue al expediente personal del servidor público sancionado y a la Contraloría para la actualización del Registro de Servidores Públicos Sancionados.
 
 Si la sanción impuesta consiste en inhabilitación, también se enviarán copias certificadas a la Contraloría de la Suprema Corte de Justicia de la Nación, Contraloría del Tribunal Electoral, Secretaría de la Función Pública, judicaturas y contralorías de las entidades federativas.
 
 Las quejas y denuncias que sean desechadas, se declaren improcedentes o infundadas, y los procedimientos de responsabilidad administrativa en que se declare sin materia o prescrita la facultad para sancionar, únicamente se remitirán a la Secretaría o Contraloría, según el caso, para constituir un registro de tales resoluciones.
 
-###### Artículo 108.
+(REUBICADO [N. DE E. ANTES CAPÍTULO VII], D.O.F. 13 DE JULIO DE 2012)
+
+### Capítulo VIII: Asuntos relacionados. (REUBICADO [N. DE E. ANTES ARTÍCULO 108], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 121.
 
 Si la Secretaría o la Contraloría advierten que un procedimiento de responsabilidad administrativa en trámite o turnado para resolución tiene alguna conexión con otro que hace necesario que se resuelvan simultáneamente, lo harán del conocimiento del Pleno o de la Comisión para que ordenen lo procedente.
 
-###### Artículo 109.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 109], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 122.
 
 Cuando un procedimiento de responsabilidad administrativa en trámite, en contra de Titulares o servidores públicos adscritos a órganos jurisdiccionales, esté relacionado con otro que ya hubiera sido resuelto, la Secretaría deberá turnarlo, de ser posible, al mismo consejero ponente.
 
-###### Artículo 110.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 110], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 123.
 
 En los supuestos considerados en los dos artículos precedentes se compensará el turno de los asuntos.
 
-###### Artículo 111.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 111], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 124.
 
 Procederá la acumulación de los procedimientos de responsabilidad administrativa, hasta antes de su resolución, en los supuestos siguientes:
 
@@ -947,25 +1139,35 @@ II. Cuando se hayan instaurado contra el mismo servidor o servidores públicos.
 
 También procederá la acumulación cuando a juicio del órgano competente sea necesario para evitar resoluciones contradictorias.
 
-###### Artículo 112.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 112], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 125.
 
 Corresponde al Pleno o a la Comisión, conforme a su competencia, ordenar la acumulación, en cuyo caso, el procedimiento más reciente se acumulará al más antiguo, para lo cual se remitirá el expediente respectivo.
 
-#### Sección II: Plazos y términos
+(REUBICADO [N. DE E. ANTES CAPÍTULO VIII], D.O.F. 13 DE JULIO DE 2012)
 
-###### Artículo 113.
+### Capítulo IX: Criterios en materia de disciplina. (REUBICADO [N. DE E. ANTES ARTÍCULO 113], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 126.
 
 El Pleno y la Comisión podrán establecer criterios en materia de disciplina derivados de las resoluciones que emitan en el ámbito de su competencia, cuando al fallar un asunto lo estimen procedente, cuando se trate de un tema novedoso o que por su importancia o trascendencia deba fijarse criterio, o también cuando a propuesta del consejero ponente se actualice cualquiera de esas hipótesis.
 
-###### Artículo 114.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 114], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 127.
 
 Los criterios que se emitan son orientadores en los procedimientos de responsabilidad administrativa en los que se haga pronunciamiento sobre el asunto específico sustentado en ellos.
 
-###### Artículo 115.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 115], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 128.
 
 Para la aprobación del criterio se requiere mayoría calificada de cinco votos del Pleno y mayoría simple en Comisión.
 
-###### Artículo 116.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 116], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 129.
 
 El trámite para la aprobación de los criterios será el siguiente:
 
@@ -973,37 +1175,47 @@ I. La propuesta, en su caso, deberá acompañarse al proyecto de resolución de 
 
 II. Aprobado el criterio, el archivo electrónico que contenga éste y la resolución de la que derive, deberá enviarse a la Secretaría Técnica de la Comisión que será la encargada de llevar el control, compilación y sistematización de los criterios, así como de verificar que se realice su publicación y difusión.
 
-###### Artículo 117.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 117], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 130.
 
 Para la modificación de un criterio se observarán las mismas reglas establecidas para su formación. No obstante, los criterios se interrumpirán por el Pleno o la Comisión, según corresponda, cuando emitan una resolución en contrario, cuando por virtud de una reforma a los ordenamientos legales o administrativos sea necesario ajustar su contenido, o cuando a su juicio existan circunstancias que lo justifiquen.
 
-###### Artículo 118.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 118], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 131.
 
 El Pleno podrá declarar sin efectos los criterios emitidos por la Comisión.
 
-### Capítulo VII: Asuntos relacionados
+(REUBICADO [N. DE E. ANTES ARTÍCULO 119], D.O.F. 13 DE JULIO DE 2012)
 
-###### Artículo 119.
+###### Artículo 132.
 
 Los criterios se compondrán de rubro, texto y datos de identificación, en los que deberán incluirse las fechas de aprobación de la resolución de la que derive y la de aprobación del criterio.
 
-###### Artículo 120.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 120], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 133.
 
 Para la elaboración y publicidad de los criterios se observarán las reglas establecidas en los lineamientos que al efecto se aprueben.
 
-### Capítulo VIII: Criterios en materia de disciplina
+### Capítulo IX: Inscripción. (REUBICADO [N. DE E. ANTES ARTÍCULO 121], D.O.F. 13 DE JULIO DE 2012)
 
-###### Artículo 121.
+###### Artículo 134.
 
 La Contraloría inscribirá en el Registro de Servidores Públicos Sancionados las sanciones impuestas por el Pleno, la Comisión y la propia Contraloría, derivadas de un procedimiento de responsabilidad administrativa.
 
 Sin perjuicio de lo previsto en el párrafo anterior, también se inscribirán en el Registro de Servidores Públicos Sancionados las resoluciones remitidas por los órganos competentes de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral, las cuales deberán atender lo establecido en el presente capítulo.
 
-###### Artículo 122.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 122], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 135.
 
 Los efectos del registro de las sanciones administrativas tendrán una duración de tres años tratándose de faltas no graves y cinco si se trata de faltas graves, contados a partir de la fecha en que se ejecute o concluya la sanción correspondiente.
 
-###### Artículo 123.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 123], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 136.
 
 Para garantizar la correcta identificación del servidor público sancionado y la determinación de la sanción impuesta, en el comunicado de aviso de inscripción que elabore el Pleno, la Comisión o la Contraloría, además de la resolución respectiva, se señalará lo siguiente:
 
@@ -1029,53 +1241,73 @@ X. Monto de las sanciones de carácter económico; y
 
 XI. Duración de los efectos de la sanción impuesta y, en su caso, fecha de inicio y conclusión.
 
-###### Artículo 124.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 124], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 137.
 
 La autoridad que imponga suspensión o inhabilitación, deberá acompañar a la resolución respectiva, copia certificada de la constancia de notificación efectuada al servidor público sancionado; asimismo, señalará el periodo de ejecución aplicable a dichas sanciones, fecha de inicio y conclusión.
 
-###### Artículo 125.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 125], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 138.
 
 Sólo serán inscritas en el Registro de Servidores Públicos Sancionados las sanciones previstas en el artículo 51 del Acuerdo.
 
-### Capítulo IX: Inscripción
+(REUBICADO [N. DE E. ANTES ARTÍCULO 126], D.O.F. 13 DE JULIO DE 2012)
 
-###### Artículo 126.
+###### Artículo 139.
 
 Las sanciones y los datos correspondientes a los servidores públicos sancionados deberán inscribirse en el registro en un plazo no mayor a tres días hábiles, contados a partir del día hábil siguiente en que se reciba la resolución respectiva.
 
-###### Artículo 127.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 127], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 140.
 
 La Contraloría expedirá las normas para la operación del Registro de Servidores Públicos Sancionados, así como las constancias que acrediten la inscripción, inexistencia y cumplimiento de las sanciones.
 
 El interesado podrá obtener dichas constancias a través del sistema electrónico que al efecto establezca la Contraloría.
 
-###### Artículo 128.
+## TITULO CUARTO: Registro patrimonial de los servidores públicos
+
+### Capítulo I: Reglas generales. (REUBICADO [N. DE E. ANTES ARTÍCULO 128], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 141.
 
 Las declaraciones de situación patrimonial de los servidores públicos obligados deberán presentarse ante la Dirección de Registro Patrimonial de la Contraloría, en los módulos que al efecto se instalen, por correo certificado, mensajería o vía electrónica, en términos del Acuerdo.
 
-###### Artículo 129.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 129], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 142.
 
 Los formatos para las declaraciones de situación patrimonial deberán imprimirse de la página electrónica correspondiente y directamente por los servidores públicos obligados a presentarlas.
 
-###### Artículo 130.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 130], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 143.
 
 La Dirección General de Recursos Humanos del Consejo, dentro de los primeros cinco días hábiles de cada mes, proporcionará a la Contraloría la información necesaria para que cuente con los elementos suficientes para determinar qué servidores públicos están obligados a presentar las declaraciones de inicio y de conclusión. En dicho informe se precisará la fecha en que el servidor público respectivo inició sus labores o las concluyó.
 
-###### Artículo 131.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 131], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 144.
 
 Tratándose de la información referida en el artículo anterior correspondiente a los servidores públicos del Tribunal Electoral, la Contraloría solicitará los datos necesarios a la Coordinación de Recursos Humanos y Enlace Administrativo de ese Tribunal.
 
-###### Artículo 132.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 132], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 145.
 
 El personal que determine el titular de la Contraloría, proporcionará el asesoramiento y apoyo que soliciten los servidores públicos para la debida requisición de los formatos.
 
-###### Artículo 133.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 133], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 146.
 
 La Dirección de Registro Patrimonial generará un comprobante al recibir las declaraciones de situación patrimonial, que contendrá el código de identificación electrónica y que podrá ser impreso del sistema correspondiente por los servidores públicos.
 
-### Capítulo I: Reglas generales
+(REUBICADO [N. DE E. ANTES ARTÍCULO 134], D.O.F. 13 DE JULIO DE 2012)
 
-###### Artículo 134.
+###### Artículo 147.
 
 Si concluida la investigación prevista en el artículo 142, fracción V, del Acuerdo, los resultados obtenidos revelan alguna incongruencia con relación a los bienes que integran el patrimonio de un servidor público, en términos de lo previsto en el artículo 42 de la Ley de Responsabilidades, la Contraloría lo citará personalmente y le hará saber dichas incongruencias, para que dentro del plazo de treinta días hábiles contados a partir de la recepción del citatorio, formule las aclaraciones pertinentes, para lo que podrá ofrecer pruebas documentales.
 
@@ -1083,15 +1315,21 @@ La Contraloría analizará las referidas aclaraciones y dentro de los quince dí
 
 El informe puede servir de base para iniciar el procedimiento de responsabilidad administrativa en términos de lo previsto en los artículos 74 y siguientes del Acuerdo.
 
-###### Artículo 135.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 135], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 148.
 
 Entre los bienes que adquieran los servidores públicos o con respecto de los cuales se conduzcan como dueños, se computarán los que reciban o de los que dispongan su cónyuge, concubina o concubinario y sus dependientes económicos, salvo que se acredite que éstos los obtuvieron por sí mismos y por motivos ajenos al servidor público.
 
-###### Artículo 136.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 136], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 149.
 
 Cuando en el ámbito de sus respectivas competencias, el Pleno, el Presidente, la Comisión o, en su caso, la Contraloría, estimen que existen elementos para considerar la probable responsabilidad de algún servidor público de los que se rigen por este Título en materia de seguimiento de su situación patrimonial, iniciarán procedimiento de responsabilidad administrativa y, en su caso, declararán y comunicarán formalmente al Ministerio Público de la Federación que en la investigación se encontraron elementos que acreditan un incremento sustancial no justificado del patrimonio de dicho servidor, y que éste pudo haber incurrido en la comisión de algún delito.
 
-###### Artículo 137.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 137], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 150.
 
 En términos de lo previsto en el artículo 40 de la Ley de Responsabilidades y observando las disposiciones en materia de transparencia, el titular de la Contraloría llevará un registro informático de los servidores públicos que se rigen por este Título.
 
@@ -1109,7 +1347,9 @@ La Contraloría expedirá las normas para la operación del registro y las const
 
 Dichas constancias podrán obtenerse del sistema electrónico que establezca la Contraloría.
 
-###### Artículo 138.
+### Capítulo II: Organos competentes. (REUBICADO [N. DE E. ANTES ARTÍCULO 138], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 151.
 
 Los órganos competentes para ejercer las atribuciones correspondientes al registro, seguimiento y declaración de la situación patrimonial de los servidores públicos, así como de los procedimientos de responsabilidad administrativa que se inician por este motivo, serán los siguientes:
 
@@ -1121,21 +1361,23 @@ III. La Contraloría para llevar el registro, control, análisis y seguimiento d
 
 IV. La Secretaría para tramitar los procedimientos de responsabilidad administrativa que se lleven a cabo en contra de servidores públicos de la Contraloría.
 
-###### Artículo 139.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 139], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 152.
 
 Los procedimientos de responsabilidad administrativa que se inicien con motivo de la declaración de situación patrimonial deberán tramitarse y resolverse de conformidad con el Título Tercero del Acuerdo.
 
 Cuando la Contraloría observe incumplimiento por parte de los servidores públicos, emitirá el dictamen correspondiente, el que se someterá a la consideración del órgano competente para que determine lo procedente.
 
-###### Artículo 140.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 140], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 153.
 
 En caso de incumplimiento de los servidores públicos considerados en el inciso c) del artículo 145 del Acuerdo, la Contraloría deberá informar a su similar del Tribunal Electoral y le remitirá la documentación correspondiente para que ésta proceda conforme a sus atribuciones.
 
-## TITULO CUARTO: Registro patrimonial de los servidores públicos
+(REUBICADO [N. DE E. ANTES ARTÍCULO 141], D.O.F. 13 DE JULIO DE 2012)
 
-### Capítulo II: Organos competentes
-
-###### Artículo 141.
+###### Artículo 154.
 
 El Pleno y la Comisión ejercerán en forma exclusiva y de conformidad con la competencia señalada en el artículo 138, fracciones I y II, del Acuerdo, las siguientes atribuciones y facultades:
 
@@ -1147,7 +1389,9 @@ III. Hacer declaratoria ante el Ministerio Público de la Federación de que el 
 
 IV. Ordenar el inicio de los procedimientos de responsabilidad administrativa, resolverlos y revisarlos en términos de lo previsto en el Título Tercero del Acuerdo.
 
-###### Artículo 142.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 142], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 155.
 
 El titular de la Contraloría tendrá las siguientes atribuciones en materia de situación patrimonial, de conformidad con su competencia, señalada en el artículo 138, fracción III, del Acuerdo:
 
@@ -1169,6 +1413,8 @@ VIII. Llevar el registro de los bienes a que se refiere el artículo 45 de la Le
 
 IX. Devolver las declaraciones de situación patrimonial, en términos de lo establecido en el párrafo segundo del artículo 153 del Acuerdo.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 156], D.O.F. 13 DE JULIO DE 2012)
+
 ###### Artículo 143.
 
 La Secretaría tendrá las siguientes atribuciones en materia de situación patrimonial, de conformidad con la competencia establecida en el artículo 138, fracción IV, del Acuerdo:
@@ -1181,11 +1427,19 @@ III. Poner a consideración de la Comisión el proyecto de resolución; y
 
 IV. Remitir la información correspondiente a la Contraloría para efectos de control y registro.
 
-###### Artículo 144.
+###### Artículo 156.
+
+Para los efectos del artículo anterior, se proporcionará a los servidores públicos obligados el código de identificación electrónica, conforme lo determine el Pleno a propuesta de la Contraloría.
+
+### Capítulo III: Sujetos obligados. (REUBICADO [N. DE E. ANTES ARTÍCULO 144], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 157.
 
 La Contraloría llevará el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos del Consejo, de los órganos jurisdiccionales y del Tribunal Electoral.
 
-###### Artículo 145.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 145], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 158.
 
 Tienen obligación de presentar ante la Contraloría declaración de situación patrimonial, bajo protesta de decir verdad, los servidores públicos que ocupan las siguientes plazas:
 
@@ -1463,17 +1717,25 @@ c) En Tribunal Electoral, con excepción de los magistrados electorales, los ser
 
 Además, deberán presentar declaración de situación patrimonial, los servidores públicos de mando medio y superior del Consejo y del Tribunal Electoral que ocupan puestos homólogos o tengan el mismo nivel salarial que los antes indicados.
 
-###### Artículo 146.
+### Capítulo IV: Declaración patrimonial
+
+#### Sección I: Modalidades. (REUBICADO [N. DE E. ANTES ARTÍCULO 156], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 159.
 
 La declaración de situación patrimonial se presentará bajo las modalidades de inicial, de modificación patrimonial y de conclusión en el cargo.
 
-###### Artículo 147.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 147], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 160.
 
 La Contraloría elaborará un padrón general de los servidores públicos que tienen obligación de presentar declaración patrimonial en los términos del Acuerdo, y lo mantendrá actualizado mediante la información que le proporcionen mensualmente la Dirección General de Recursos Humanos del Consejo y la Coordinación de Recursos Humanos y Enlace Administrativo del Tribunal Electoral.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 148], D.O.F. 13 DE JULIO DE 2012)
+
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-###### Artículo 148.
+###### Artículo 161.
 
 Los servidores públicos que ocupan cargos de los mencionados en el artículo 145 del Acuerdo, no estarán obligados a presentar declaración de situación patrimonial de inicio o conclusión del encargo en los siguientes casos:
 
@@ -1511,7 +1773,9 @@ El plazo de 60 días naturales que establece el artículo 149, fracción III, pa
 
 En el supuesto de que algún servidor público sea suspendido por una investigación, un procedimiento de responsabilidad o una sanción, no deberá presentar declaración de conclusión ni de inicio cuando se reincorpore a su cargo.
 
-###### Artículo 149.
+#### Sección II: Plazos y términos. (REUBICADO [N. DE E. ANTES ARTÍCULO 149], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 162.
 
 La declaración de situación patrimonial deberá presentarse en los siguientes plazos y términos:
 
@@ -1535,25 +1799,33 @@ Cuando el último día del plazo sea inhábil la declaración podrá presentarse
 
 El plazo y término previstos en las fracciones I y II de este artículo, no quedarán sin efectos a causa del nombramiento en otro cargo de los considerados en el artículo 145 del Acuerdo.
 
-###### Artículo 150.
+#### Sección III: Contenido. (REUBICADO [N. DE E. ANTES ARTÍCULO 150], D.O.F. 13 DE JULIO DE 2012)
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+###### Artículo 163.
 
 En las declaraciones de inicio y conclusión del encargo se manifestarán con precisión los ingresos mensuales, vehículos, bienes inmuebles, muebles, inversiones y gravámenes con la fecha y valor de adquisición que soporten el patrimonio del declarante, su cónyuge, concubina o concubinario y sus dependientes económicos, sin importar que en otras declaraciones ya se haya hecho referencia a ello.
 
 Para la declaración de conclusión se manifestarán además, los vehículos, bienes inmuebles y muebles que hubieren sido enajenados, así como las inversiones que se hayan cancelado o gravámenes que se hayan adquirido, entre la última declaración presentada y la de conclusión del encargo.
 
-### Capítulo III: Sujetos obligados
+(REUBICADO [N. DE E. ANTES ARTÍCULO 151], D.O.F. 13 DE JULIO DE 2012)
 
-###### Artículo 151.
+###### Artículo 164.
 
 En las declaraciones de modificación patrimonial se manifestarán sólo las modificaciones al patrimonio del declarante, su cónyuge, concubina o concubinario y sus dependientes económicos, con fecha y valor de adquisición. En todo caso se indicará el medio por el que se hizo la adquisición.
 
-###### Artículo 152.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 152], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 165.
 
 Si los servidores públicos reciben algún bien o donación en los términos de la fracción XII, del artículo 8 de la Ley de Responsabilidades, al momento de su recepción, deberán informarlo y ponerlo a disposición de la Contraloría en un plazo no mayor a quince días hábiles.
 
 En su caso, la Contraloría propondrá al Pleno el destino de los bienes en atención a su naturaleza.
 
-###### Artículo 153.
+#### Sección IV: Aclaraciones. (REUBICADO [N. DE E. ANTES ARTÍCULO 153], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 166.
 
 La Contraloría, a través de la Dirección de Registro Patrimonial, recibirá en cualquier momento las aclaraciones a las declaraciones de situación patrimonial formuladas por los servidores públicos del Poder Judicial de la Federación obligados en los términos de este Título, en tanto no se haya notificado el inicio del procedimiento de responsabilidad administrativa por alguna irregularidad detectada en las declaraciones presentadas y en la forma que la Contraloría establezca para tal efecto.
 
@@ -1561,7 +1833,9 @@ Para el caso de que el servidor público presente la declaración de situación 
 
 Si la declaración de situación patrimonial no contiene los requisitos correspondientes, la Contraloría podrá devolverla al servidor público mediante oficio, a fin de que la subsane, y para lo cual otorgará un plazo de cinco días hábiles siguientes a la recepción del requerimiento que formule, el que podrá prorrogarse por un periodo igual a petición del interesado. En caso de incumplimiento la Contraloría determinará lo conducente.
 
-###### Artículo 154.
+#### Sección V: Formatos. (REUBICADO [N. DE E. ANTES ARTÍCULO 154], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 167.
 
 Las declaraciones de situación patrimonial deberán ser presentadas a través de formatos impresos, medios magnéticos con formato impreso o medios remotos de comunicación electrónica, en este último caso se emplearán medios de identificación electrónica.
 
@@ -1569,19 +1843,23 @@ La Contraloría tendrá a su cargo el sistema de certificación de los medios de
 
 Asimismo, la Contraloría someterá a la aprobación del Pleno, los formatos impresos, en medios electrónicos y magnéticos, mediante los cuales los servidores públicos deberán presentar las declaraciones de situación patrimonial, así como los manuales e instructivos que establecen los datos de lo que es obligatorio declarar. La Contraloría difundirá entre los servidores públicos los beneficios que implica el uso de medios electrónicos remotos para cumplir con las referidas obligaciones.
 
-###### Artículo 155.
+#### Sección VI: Declaración electrónica. (REUBICADO [N. DE E. ANTES ARTÍCULO 155], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 168.
 
 Los servidores públicos que decidan presentar sus declaraciones de situación patrimonial por medio de Intranet, deberán utilizar el formato localizado en la dirección electrónica correspondiente. La Contraloría, a través de la Dirección de Registro Patrimonial, no admitirá ni reconocerá el envío de declaraciones por medios electrónicos diversos al señalado.
 
 El formato e instructivo de declaración de modificación patrimonial aludidos en el párrafo precedente, contendrán los mismos datos que los exigidos en el formato impreso, y en sustitución de la firma autógrafa se utilizarán medios de identificación electrónica.
 
-###### Artículo 156.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 156], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 169.
 
 Para los efectos del artículo anterior, se proporcionará a los servidores públicos obligados el código de identificación electrónica, conforme lo determine el Pleno a propuesta de la Contraloría.
 
-### Capítulo IV: Declaración patrimonial
+(REUBICADO [N. DE E. ANTES ARTÍCULO 157], D.O.F. 13 DE JULIO DE 2012)
 
-###### Artículo 157.
+###### Artículo 170.
 
 El uso de medios de identificación electrónica sujeta al servidor público a las siguientes condiciones:
 
@@ -1589,27 +1867,23 @@ I. Reconocer como propia y auténtica la información que por Intranet envíe a 
 
 II. Utilizar el código de forma personal, ya que su uso es responsabilidad exclusiva de su titular.
 
-###### Artículo 158.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 158], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 171.
 
 Los servidores públicos que presenten su declaración a través de Intranet no tendrán la obligación de exhibir copia de la declaración del impuesto sobre la renta del año que corresponda, ni la constancia de percepciones y retenciones.
 
 La Contraloría, a través de la Dirección de Registro Patrimonial, emitirá un acuse de recibo electrónico que contendrá un código de validación que acreditará la recepción de la declaración.
 
-### CAPITULO V: Procedimiento de responsabilidad administrativa en línea
+(REUBICADO [N. DE E. ANTES ARTÍCULO 159], D.O.F. 13 DE JULIO DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
-
-#### Sección III: Contenido
-
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
-
-###### Artículo 159.
+###### Artículo 172.
 
 Las consultas técnicas relativas a la operación del sistema estarán a cargo de la Dirección General de Informática y las correspondientes a la requisición del formato a cargo de la Dirección de Registro Patrimonial. Estas unidades administrativas vigilarán e implementarán los programas, conexiones y, en general, las acciones que se requieran para el óptimo funcionamiento.
 
-###### Artículo 160.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 160], D.O.F. 13 DE JULIO DE 2012)
+
+###### Artículo 173.
 
 La Contraloría instrumentará los sistemas informáticos que se requieran para llevar el registro patrimonial de los servidores públicos, su seguimiento y evaluación.
 
@@ -1617,7 +1891,13 @@ La Contraloría instrumentará los sistemas informáticos que se requieran para 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-###### Artículo 161.
+### CAPITULO V: Procedimiento de responsabilidad administrativa en línea. (REUBICADO [N. DE E. ANTES ARTÍCULO 161], D.O.F. 13 DE JULIO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+###### Artículo 174.
 
 El procedimiento de responsabilidad administrativa por incumplimiento en la presentación de las declaraciones de situación patrimonial se promoverá, substanciará y resolverá en línea, a través del Sistema de Justicia en Línea que deberá establecer y desarrollar la Contraloría.
 
@@ -1627,87 +1907,99 @@ Si se hace uso del procedimiento de responsabilidad en línea deberán observars
 
 La Firma Electrónica producirá los mismos efectos legales que la firma autógrafa y garantizará la integridad del documento, teniendo el mismo valor probatorio.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 162], D.O.F. 13 DE JULIO DE 2012)
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-#### Sección IV: Aclaraciones
-
-###### Artículo 162.
+###### Artículo 175.
 
 En el Sistema de Justicia en Línea, la Contraloría integrará el Expediente Electrónico, mismo que incluirá todas las promociones, pruebas y otros anexos que presenten el denunciante y denunciados, oficios, acuerdos, y resoluciones, así como las demás actuaciones que deriven de la substanciación del procedimiento de responsabilidad en línea, garantizando su seguridad, inalterabilidad, autenticidad, integridad y durabilidad, conforme a los lineamientos que expida la Contraloría.
 
 En los procedimientos de responsabilidad en línea, la autoridad requerida, desahogará las pruebas testimoniales utilizando el método de videoconferencia cuando ello sea posible, o bien videograbará la diligencia, para su posterior envío a la Contraloría.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 163], D.O.F. 13 DE JULIO DE 2012)
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-#### Sección V: Formatos
-
-###### Artículo 163.
+###### Artículo 176.
 
 La Firma Electrónica, Clave de Acceso y Contraseña se proporcionarán, a través del Sistema de Justicia en Línea de la Contraloría, previa obtención del registro y autorización correspondientes. El registro de la Firma Electrónica, Clave de Acceso y Contraseña, implica el consentimiento expreso de que dicho Sistema registrará la fecha y hora en que se abran los Archivos Electrónicos, que contengan las constancias que integran el Expediente Electrónico, para los efectos legales establecidos en este Acuerdo.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 164], D.O.F. 13 DE JULIO DE 2012)
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-###### Artículo 164.
+###### Artículo 177.
 
 Solamente el denunciado, así como las personas autorizadas tendrán acceso al Expediente Electrónico, exclusivamente para su consulta, una vez que tengan registrada su Clave de Acceso y Contraseña.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 165], D.O.F. 13 DE JULIO DE 2012)
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-###### Artículo 165.
+###### Artículo 178.
 
 Los titulares de una Firma Electrónica, Clave de Acceso y Contraseña serán responsables de su uso, por lo que el acceso o recepción de las notificaciones, la consulta al Expediente Electrónico y el envío de información mediante la utilización de cualquiera de dichos instrumentos, les serán atribuibles y no admitirán prueba en contrario, salvo que se demuestren fallas en el Sistema de Juicio en Línea.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 166], D.O.F. 13 DE JULIO DE 2012)
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-#### Sección VI: Declaración electrónica
-
-###### Artículo 166.
+###### Artículo 179.
 
 Una vez recibida por vía electrónica cualquier promoción, el Sistema de Justicia en Línea de la Contraloría emitirá el Acuse de Recibo Electrónico correspondiente, señalando la fecha y la hora de recibido.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 167], D.O.F. 13 DE JULIO DE 2012)
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-###### Artículo 167.
+###### Artículo 180.
 
 Cualquier actuación en el procedimiento en línea se efectuará a través del Sistema de Juicio en Línea de la Contraloría en términos del presente Capitulo. Dichas actuaciones serán validadas con las firmas electrónicas y/o firmas Digitales del Contralor, Director General de Responsabilidades o de cualquier otro servidor público que intervenga.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 168], D.O.F. 13 DE JULIO DE 2012)
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-###### Artículo 168.
+###### Artículo 181.
 
 Respecto de los documentos que el denunciado ofrezca como prueba, tratándose de documentos digitales, se deberá manifestar bajo protesta de decir verdad la naturaleza de los mismos, especificando si la reproducción digital corresponde a una copia simple, una copia certificada o al original y tratándose de esta última, si tiene o no firma autógrafa.
 
 La omisión de la manifestación presume en perjuicio sólo del denunciado que el documento digitalizado corresponde a una copia simple.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 169], D.O.F. 13 DE JULIO DE 2012)
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-###### Artículo 169.
+###### Artículo 182.
 
 Para el caso de pruebas diversas a las documentales, los instrumentos en los que se haga constar la existencia de dichas pruebas se integrarán al Expediente Electrónico. El servidor público a cuya mesa corresponda el asunto, deberá digitalizar las constancias relativas y procederá a la certificación de su cotejo con los originales físicos, así como a garantizar el resguardo de los originales y de los bienes materiales que en su caso hubieran sido objeto de prueba.
 
 Para el caso de pruebas diversas a las documentales, éstas deberán ofrecerse en el informe de contestación y ser presentadas en la misma fecha en la que se registre en el Sistema de Justicia en Línea de la Contraloría correspondiente a su ofrecimiento, haciendo constar su recepción por vía electrónica.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 170], D.O.F. 13 DE JULIO DE 2012)
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-###### Artículo 170.
+###### Artículo 183.
 
 Las notificaciones que se practiquen dentro del procedimiento de responsabilidad en línea, se efectuarán conforme a lo siguiente:
 
@@ -1721,29 +2013,29 @@ IV. Se tendrá como legalmente practicada la notificación, cuando el Sistema de
 
 V. En caso de que el Sistema de Justicia en Línea de la Contraloría no genere el acuse de recibo donde conste que la notificación fue realizada, la misma se efectuará mediante lista al cuarto día hábil contado a partir de la fecha de envío del correo electrónico, fecha en que se tendrá por legalmente notificado.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 171], D.O.F. 13 DE JULIO DE 2012)
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-###### Artículo 171.
+###### Artículo 184.
 
 Para los efectos del procedimiento administrativo en línea son hábiles las 24 horas de los días en que se encuentren abiertas al público las Oficinas del Area correspondiente.
 
 Las promociones se considerarán, salvo prueba en contrario, presentadas el día y hora que conste en el Acuse de recibo Electrónico que emita el Sistema de Juicio en Línea de la Contraloría, en el lugar en donde el promovente tenga su domicilio y, por recibidas, en el lugar del Area correspondiente. Tratándose de un día inhábil se tendrán por presentadas el día hábil siguiente.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 172], D.O.F. 13 DE JULIO DE 2012)
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-###### Artículo 172.
+###### Artículo 185.
 
 Cuando por caso fortuito, fuerza mayor o por fallas técnicas se interrumpa el funcionamiento del Sistema de Justicia en Línea, haciendo imposible el cumplimiento de los plazos establecidos en este acuerdo general, las partes deberán dar aviso a la Contraloría en la misma promoción sujeta a término, quien pedirá un reporte al titular de la unidad administrativa responsable de la administración del Sistema sobre la existencia de la interrupción del servicio.
 
 El reporte que determine que existió interrupción en el Sistema deberá señalar la causa y el tiempo de dicha interrupción, indicando la fecha y hora de inicio y término de la misma. Los plazos se suspenderán, únicamente, el tiempo que dure la interrupción del Sistema. Para tal efecto, la Contraloría hará constar esta situación mediante acuerdo en el expediente electrónico y, considerando el tiempo de la interrupción, realizará el cómputo correspondiente, para determinar si hubo o no incumplimiento de los plazos legales.
-
-### Capítulo Tercero. Del Centro de Evaluación y Control de Confianza del Estado de Querétaro
-
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 ## TRANSITORIOS
 
@@ -2000,3 +2292,11 @@ TERCERO.- La Contraloría del Poder Judicial de la Federación dentro de los tre
 CUARTO.- Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en la páginas de Internet e Intranet del Consejo de la Judicatura Federal.
 
 QUINTO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta el procedimiento de responsabilidad administrativa y el seguimiento de la situación patrimonial.
+
+D.O.F. 13 DE JULIO DE 2012.
+
+PRIMERO. El presente acuerdo entrará en vigor a los treinta días siguientes de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, y en las páginas de Internet e Intranet del Consejo de la Judicatura Federal.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar inmediatamente el texto de este acuerdo al diverso Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta el procedimiento de responsabilidad administrativa y el seguimiento de la situación patrimonial.
