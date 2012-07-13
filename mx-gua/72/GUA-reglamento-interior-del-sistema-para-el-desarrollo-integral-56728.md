@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-sistema-para-el-desarrollo-integral-567
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-08-28"
-last_updated: "2010-12-03"
+last_updated: "2012-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 13 DE JULIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 28 de agosto de 2007.
 
@@ -564,3 +566,13 @@ JUAN CARLOS LÓPEZ RODRÍGUEZ
 P.O. 3 DE DICIEMBRE DE 2010.
 
 Artículo Único. El presente Decreto Gubernativo entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 13 DE JULIO DE 2012.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia al día cuarto siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento vigente
+
+Artículo Segundo. Se abroga el Reglamento Interior del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, expedido mediante el Decreto Gubernativo 39, publicado en el Periódico Oficial del Gobierno del Estado número 138, Tercera Parte, el 28 de agosto de 2007
