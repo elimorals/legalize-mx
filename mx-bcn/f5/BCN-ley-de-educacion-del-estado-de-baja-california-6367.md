@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2012-03-16"
+last_updated: "2012-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2012.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -237,7 +237,9 @@ El Ejecutivo del Estado, tiene las siguientes facultades y obligaciones en mater
 
 I.- Impartir en toda la entidad los servicios de educación en todos los niveles que atiende el Estado, así como la normal y demás para la formación de docentes.
 
-II.- Estructurar el Sistema Educativo Estatal, de tal manera que permita al educando integrarse a la vida económica y social de la entidad, sin que suspenda su escolaridad.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2012)</small>
+
+II.- Estructurar el Sistema Educativo Estatal, de tal manera que permita al educando integrarse a la vida económica y social de la entidad, sin que suspenda su escolaridad, para tal efecto, por conducto de la Secretaría de Educación y Bienestar Social, establecerá acciones y mecanismos pedagógicos tendientes a evitar el abandono anticipado del educando, en educación básica y media superior.
 
 > <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2011)</small>
 
@@ -586,6 +588,14 @@ En la impartición de la educación para menores de edad se tomarán medidas que
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2011)</small>
 
 En caso de que los educadores así como las autoridades educativas, tengan conocimiento de la comisión de algún delito en agravio de los educandos, lo harán del conocimiento inmediato de la autoridad correspondiente.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2012)</small>
+
+Cada escuela que imparta educación básica y educación media superior en el Sistema Educativo Estatal y Municipal, deberá de contar con un área especializada en psicología para la rápida y oportuna atención de los educandos, principalmente aquellos que sean canalizados y detectados por las autoridades escolares y que se evidencíe problemas de aprendizaje, maltrato físico, psicoemocional o presenten conductas violentas, sean o hayan sido víctimas de cualquier tipo de abuso que colocara en riesgo su desarrollo integral, así como cualquier trauma o estrés postraumático. De igual manera el área especializada en psicología deberá de ofrecer asesoría y apoyo a maestros y padres de familia para la oportuna y acertada atención a los educandos dentro de los planteles regulares de una manera colegiada e integral.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2012)</small>
+
+El cabal cumplimiento de esta disposición estará sujeto a la planeación y disponibilidad presupuestaria.
 
 ###### ARTICULO 36.
 
@@ -1458,3 +1468,15 @@ PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publ
 SEGUNDO.- Las erogaciones que deban realizarse a fin de dar cumplimiento a las presentes reformas, se sujetarán a los recursos aprobados para tales fines por el Congreso del Estado, en el respectivo presupuesto de egresos.
 
 TERCERO.- La constitución de los sistemas y registros a que hace referencia la fracción XXV del artículo 15 se llevarán a cabo con base en la disponibilidad presupuestal y de manera gradual con la participación coordinada de las autoridades educativas de los órdenes de gobierno correspondiente
+
+P.O. 13 DE JULIO DE 2012.
+
+DECRETO NÚMERO 232, POR EL QUE SE APRUEBA LA REFORMA DEL ARTÍCULO 35 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 13 DE JULIO DE 2012.
+
+DECRETO NÚMERO 234, POR EL QUE SE APRUEBA LA REFORMA AL ARTÍCULO 15 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
