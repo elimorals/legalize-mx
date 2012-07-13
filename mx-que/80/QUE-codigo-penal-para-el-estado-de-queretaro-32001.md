@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2012-06-08"
+last_updated: "2012-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "QUE"
 ---
 # CODIGO PENAL PARA EL ESTADO DE QUERETARO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE JULIO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2012.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 13 DE JULIO DE 2012 NO APLICA AL ARTICULADO DE LA LEY QUE REFORMA LOS ARTÍCULOS 129, 130, 135, 137, 148, 149 BIS, 150, 155, 156, 158, 167 BIS, 191, 193, 197, 198, 200, 202, 212, 217 BIS Y 217 SEXIES Y LA DENOMINACIÓN DEL CAPÍTULO II, DEL TÍTULO ÚNICO, SECCIÓN SEGUNDA, PARTE ESPECIAL DEL LIBRO SEGUNDO Y SE ADICIONA EL ARTÍCULO 212 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 8 DE JUNIO DE 2012.</small>
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -3239,7 +3239,7 @@ En ningún caso se devolverán a los responsables del delito de cohecho, el dine
 
 ###### ARTICULO 269.
 
-Comete el delito de concusión el servidor público que con ese carácter y a titulo de impuesto o contribución, recargo, renta, réditos, salario o emolumentos, exija por sí o por medio de otro, dinero, valores, servicios o cualquier otra cosa que sepa no ser debida o en mayor cantidad que la señalada por la Ley.
+Comete el delito de concusión el servidor público que con ese carácter y a título de impuesto o contribución, recargo, renta, réditos, salario o emolumentos, exija por sí o por medio de otro, dinero, valores, servicios o cualquier otra cosa que sepa no ser debida o en mayor cantidad que la señalada por la Ley.
 
 ### CAPITULO IX. USO INDEBIDO DE UNIFORMES OFICIALES Y
 
@@ -3919,7 +3919,7 @@ Esta Ley entrará en vigor al día siguiente al de su publicación en el Periód
 
 ###### ARTICULO SEGUNDO.
 
-Se derogan todas las disposiciones que se opongan a la presente.
+Se derogan todas las disposiciones que se opongan a al presente.
 
 P.O. 2 DE ABRIL DE 1999
 
@@ -3935,7 +3935,7 @@ P.O. 16 DE JULIO DE 1999
 
 ###### ARTICULO UNICO.
 
-La presente Ley entrará en vigor al día siguiente de su publicación en el periódico Oficial del Gobierno del Estado "La Sombra de Arteaga"
+La presente Ley entrará en vigor al día siguiente de su publicación en el periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 P.O. 15 DE OCTUBRE DE 1999
 
