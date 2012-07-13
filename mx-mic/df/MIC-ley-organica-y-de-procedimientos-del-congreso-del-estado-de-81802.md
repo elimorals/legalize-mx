@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2011-06-15"
+last_updated: "2012-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2012.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -747,7 +747,9 @@ XXII. Pueblos Indígenas;
 
 XXIII. Puntos Constitucionales;
 
-XXIV. Régimen y Prácticas Parlamentarias;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2012)</small>
+
+XXIV. Régimen Interno y Prácticas Parlamentarias;
 
 XXV. Salud y Asistencia Social;
 
@@ -969,9 +971,11 @@ V. Los relativos a la política de desarrollo económico integral y de beneficio
 
 VI. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2012)</small>
+
 ###### ARTÍCULO 74.
 
-Corresponde a la Comisión de Desarrollo Sustentable, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
+Corresponde a la Comisión de Desarrollo Sustentable y Medio Ambiente, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
 
 I. Dar a conocer, en su caso, los asuntos relacionados con la legislación en materia de ecología, biodiversidad y recursos naturales;
 
@@ -3650,3 +3654,11 @@ ATENTAMENTE.- «SUFRAGIO EFECTIVO, NO REELECCIÓN».- PRESIDENTE DE LA MESA DIRE
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 3 tres días del mes de Junio del año 2011 dos mil once.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LEONEL GODOY RANGEL.- EL SECRETARIO DE GOBIERNO.- FIDEL CALDERÓN TORREBLANCA. (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE JULIO DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación, con forme (sic) a lo previsto en el Artículo 42 de la Constitución del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
