@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-bienes-y-servicios-del-municipio-de-tijuana-24553
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-03-08"
-last_updated: "2009-09-04"
+last_updated: "2012-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24553&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE BIENES Y SERVICIOS DEL MUNICIPIO DE TIJUANA BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE SEPTIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 8 de marzo de 2002.
 
@@ -121,7 +121,7 @@ La adquisición de bienes municipales se hará conforme al reglamento respectivo
 
 Adquirido un bien a favor del Municipio, la oficialía Mayor hará la asignación del mismo a la dependencia o área del gobierno que corresponda, señalando el régimen de dominio público o privado en el que lo haya registrado a efecto de que las dependencias los registren en sus propios inventarios como corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 11.
 
@@ -163,23 +163,25 @@ Desincorporado un bien del dominio público se registrará en los inventarios de
 
 Las solicitudes de cualquier tipo de desincorporación será por medio de la Dirección de Oficialía Mayor, quien a su vez solicitara al interesado que recabe cada uno de los requisitos por su cuenta, cumpliendo lo dispuesto por el articulo 16 de la Ley del Régimen Municipal para el Estado de Baja California y una vez contando con la totalidad de los mismos se enviara a la Secretaria de Gobierno Municipal para el análisis de procedimiento y posterior dictamen.
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2012)</small>
+
 CONTENIDO DEL EXPEDIENTE TÉCNICO:
 
 1. Solicitud del interesado.
 
-2. Acreditamiento del bien solicitado.
+2. Acreditar el bien solicitado.
 
 3. Dictamen de no inconveniente para que se lleve a cabo la desincorporación, emitido por la Dirección de Administración Urbana.
 
-4. Opinión Técnica de cambio de uso de suelo para lo que se quiere el bien a desincorporar, emitido por la Dirección de Administración Urbana.
+4. Opinión Técnica de cambio de uso de suelo del bien a desincorporar, emitido por la Dirección de Administración Urbana.
 
-5. Avalúo del bien a desincorporar, emitido por la Comisión Estatal de Avalúos, el cual deberá ser pagado por el solicitante. Este Avalúo tendrá una vigencia de un año después de la fecha de expedición.
+5. Avalúo del bien a desincorporar, emitido por la Comisión de Avalúos de Bienes del Municipio de Tijuana (“CABIMT”), el cual deberá ser pagado por el solicitante.
 
 6. Deslinde topográfico certificado del inmueble a desincorporar, emitido por la Dirección Administración (sic) Urbana.
 
-7- oficios expedidos por la comisión federal de electricidad y comisión estatal de servicios públicos acreditando qué no cuenta con ningún tipo de uso sobre el bien inmueble que implique la instalación de cables vías y o tuberías etc.
+7. Oficios expedidos por la Comisión Federal de Electricidad y la Comisión Estatal de Servicios Públicos acreditando qué no cuenta con ningún tipo de uso sobre el bien inmueble que implique la instalación de cables vías y o tuberías etc.
 
-8.- cuando el particular solicitante se encuentre constituido como persona moral, deberá acreditar su personalidad a través de poder general expedido por notario publico
+8. Cuando el solicitante sea persona moral, deberá acreditar su representación legal a través de poder general expedido por notario publico.
 
 Para la enajenación de los bienes una vez autorizada, se procederá conforme lo siguiente:
 
@@ -213,7 +215,7 @@ V.- Resuelto el ganador, el Tesorero así lo declarará por escrito y comunicar�
 
 ## TÍTULO SEGUNDO. De las Concesiones
 
-> <small>(REFORMADA SU DENOMINACION [N. DE E. ANTES CAPITULO CUARTO], P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ANTES CAPÍTULO CUARTO], P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 ### Capítulo Primero
 
@@ -475,7 +477,7 @@ Artículo Segundo.- Se deroga cualquier disposición que se oponga al presente R
 
 Artículo Tercero.- Los trámites de concesión o enajenación que se hayan iniciado conforme a la legislación anterior a la aprobación del presente reglamento, se concluirán conforme a tales disposiciones, salvo el requisito de obtener la autorización del Congreso del Estado misma que será sustituida por el requisito de la autorización y ratificación del Ayuntamiento, mediante la aprobación de las dos terceras partes de sus integrantes en sesión de Cabildo.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 4 DE SEPTIEMBRE DE 2009.
 
@@ -484,3 +486,9 @@ Primero.- Las reformas y modificaciones realizadas al presente reglamento entrar
 Segundo.- Se reforman los artículos 16, 17, 18, 19, 20, 21, 22, 23, 24 y se derogan los artículos 25, 26 y 27 del Reglamento de Bienes y Servicios del Municipio de Tijuana, así como cualquier disposición que se oponga al presente Reglamento.
 
 Tercero.- Los trámites de concesión o enajenación que se hayan iniciado conforme a la legislación vigente a la aprobación de las reformas y modificaciones al reglamento, se concluirán conforme a tales disposiciones.
+
+P.O. 13 DE JULIO DE 2012.
+
+PRIMERO.- EL PRESENTE ACUERDO ENTRARA EN VIGOR AL MOMENTO DE SU APROBACIÓN, MISMO QUE DEBERÁ PUBLICARSE EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA, ASI COMO EN LA GACETA MUNICIPAL DEL H. AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA.
+
+SEGUNDO.- SE DEROGAN TODAS Y CADA UNA DE LAS DISPOSICIONES NORMATIVAS Y REGLAMENTARIAS DERIVADAS DE ACUERDOS Y REGLAMENTOS QUE SE OPONGAN A LAS PRESENTES DISPOSICIONES LEGALES.
