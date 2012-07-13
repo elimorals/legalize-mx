@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-practica-de-avaluos-fiscales-para-el-12594"
 country: "mx"
 rank: "reglamento"
 publication_date: "1989-10-20"
-last_updated: "2004-12-24"
+last_updated: "2012-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 ---
 # REGLAMENTO PARA LA PRACTICA DE AVALUOS FISCALES PARA EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-REGLAMENTO PARA LA PRACTICA DE AVALUOS FISCALES PARA EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
+REGLAMENTO PARA LA PRÁCTICA DE AVALÚOS FISCALES PARA EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 20 de octubre de 1989.
 
@@ -39,11 +39,13 @@ REGLAMENTO PARA LA PRACTICA DE AVALUOS FISCALES.
 
 ### CAPITULO PRIMERO. DISPOSICIONES FISCALES
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 1.
 
-El presente Reglamento es de orden publico e interés general, tiene por objeto fijar las normas para la practica de avalúos y reglamentar la actividad de los valuadores fiscales municipales y es de observancia general en todo el Territorio del Municipio de Tijuana.
+El presente Reglamento es de orden público e interés general, tiene por objeto fijar las normas para la práctica de avalúos y reglamentar la actividad de los valuadores fiscales municipales y es de observancia general en todo el Territorio del Municipio de Tijuana.
+
+Los avalúos de bienes muebles e inmuebles, donde sean parte las dependencias, órganos desconcentrados y entidades de la Administración Pública del Municipio de Tijuana, serán regidos por el Reglamento de la Comisión de Avalúos de Bienes del Municipio de Tijuana.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1998)</small>
 
@@ -205,7 +207,7 @@ En los avalúos fiscales podrán utilizarse fundadamente los factores de castigo
 
 ###### ARTICULO 14.
 
-Las Autoridades en materia de Avalúos Fiscales determinarán en que casos se requiere avalúo fiscal: para los efectos del impuesto sobre adquisición de inmuebles y transmisión de dominio; para el calculo de la renta de la Zona Federal Marítima Terrestre, se hará designación de un valuador autorizado en todos los casos.
+Las Autoridades en materia de Avalúos Fiscales determinarán en que casos se requiere avalúo fiscal: para los efectos del impuesto sobre adquisición de inmuebles y transmisión de dominio; para el cálculo de la renta de la Zona Federal Marítima Terrestre, se hará designación de un valuador autorizado en todos los casos.
 
 ### CAPITULO CUARTO. DE LOS VALUADORES Y SU REGISTRO
 
@@ -259,13 +261,17 @@ Las Autoridades en materia de Avalúos Fiscales, podrán cancelar el registro de
 
 4.- Cuando deje de satisfacer cualquiera de los requisitos que señala el Articulo 16.
 
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2012)</small>
+
+5.- Cuando hayan incurrido en cualquiera de los supuestos establecidos en la fracción IV del artículo 23 del Reglamento de la Comisión del (sic) Avalúos de Bienes del Municipio de Tijuana.
+
 ### CAPITULO QUINTO. SANCIONES
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2012)</small>
 
-###### ARTICULO 19.
+###### Artículo 19.
 
-Cuando el Valuador incurra en violaciones al presente Reglamento y a cualquiera de las disposiciones que como Auxiliar de la Administración Pública debe cumplir de acuerdo a lo previsto en la legislación municipal, el Tesorero podrá imponer las siguientes sanciones de acuerdo con la gravedad de la ofensa.
+Cuando el Valuador incurra en violaciones al presente Reglamento, al Reglamento de la Comisión de Avalúos de Bienes del Municipio de Tijuana o a cualquiera de las disposiciones que como Auxiliar de la Administración Pública debe cumplir de acuerdo a lo previsto en la legislación municipal, el Tesorero podrá imponer las siguientes sanciones de acuerdo con la gravedad de la ofensa.
 
 I.- Amonestación escrita.
 
@@ -277,7 +283,9 @@ IV.- Cancelación del registro.
 
 Asimismo, independientemente de las sanciones administrativas y de la responsabilidad real en que incurran los Valuadores Fiscales, éstos serán responsables solidarios del importe de las prestaciones fiscales que dejaren de pagar los contribuyentes del impuesto sobre adquisiciones y traslación de dominio por variaciones encontradas en los valores fiscales, de conformidad con lo establecido en la Ley de Ingresos para el Municipio de Tijuana.
 
-La autoridad fiscal tendrá la facultad de ordenar un nuevo avalúo a costa del contribuyente cuando estime que el avalúo presentado por este, no se apegue a las condiciones del mercado que prevalezcan en la región. Para efectos de este Reglamento se entenderá como una violación cuando exista una variación mayor a un 10% entre los valores de avalúo que presente el contribuyente y los que arroje el avalúo ordenado por la autoridad fiscal.
+La autoridad fiscal tendrá la facultad de ordenar un nuevo avalúo a costa del contribuyente cuando estime que el avalúo presentado por este, no se apegue a las condiciones del mercado que prevalezcan en la región. Para efectos de este Reglamento se entenderá como una violación cuando exista una variación mayor a un 10%, entre los valores de avalúo que presente el contribuyente y los que arroje el avalúo ordenado por la autoridad fiscal.
+
+El Tesorero está obligado a cancelar el registro del perito que incurra en cualquiera de los supuestos establecidos en la fracción IV del artículo 23 del Reglamento del Sistema de Avalúos de Bienes del Municipio de Tijuana.
 
 (REFORMADO [N. DE E. ANTES ARTICULO 21 (SIC)], P.O. 9 DE OCTUBRE DE 1998)
 
@@ -331,11 +339,11 @@ JORGE GILDARDO LOPEZ LOPEZ.
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 9 DE OCTUBRE DE 1998.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
 
 P.O. 27 DE DICIEMBRE DE 2002.
 
@@ -346,3 +354,9 @@ SEGUNDO.- Se derogan todas aquellas disposiciones u ordenamientos que contraveng
 P.O. 24 DE DICIEMBRE DE 2004.
 
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) estado y deberán publicarse en un Periódico de mayor circulación en la localidad para el conocimiento de la ciudadanía. SEGUNDO.- Se derogan las disposiciones que se opongan a las presentes reformas.
+
+P.O. 13 DE JULIO DE 2012.
+
+PRIMERO.- EL PRESENTE ACUERDO ENTRARA EN VIGOR AL MOMENTO DE SU APROBACIÓN, MISMO QUE DEBERÁ PUBLICARSE EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA, ASI COMO EN LA GACETA MUNICIPAL DEL H. AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA.
+
+SEGUNDO.- SE DEROGAN TODAS Y CADA UNA DE LAS DISPOSICIONES NORMATIVAS Y REGLAMENTARIAS DERIVADAS DE ACUERDOS Y REGLAMENTOS QUE SE OPONGAN A LAS PRESENTES DISPOSICIONES LEGALES.
