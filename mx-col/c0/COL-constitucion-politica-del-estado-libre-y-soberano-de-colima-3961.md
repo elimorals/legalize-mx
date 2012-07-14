@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2012-05-05"
+last_updated: "2012-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2012.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -2105,9 +2105,15 @@ XI.- Toda persona tiene derecho a vivir en un medio ambiente seguro, a que se le
 
 XII.- Toda persona que sufra una lesión en sus bienes y derechos, con motivo de la actividad administrativa del Estado y de los Municipios, tendrá derecho a ser indemnizada en forma equitativa, conforme a las bases y procedimientos que establezca la ley. La obligación del Estado y de los Municipios de resarcir los daños y perjuicios será directa.
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2012)</small>
 
-XIII.- El Estado y los municipios en el ámbito de su competencia, promoverán la participación de la sociedad en el rescate, preservación y difusión de la cultura, lenguas, usos, costumbres y tradiciones indígenas, otorgarán el reconocimiento a las personas o comunidades de origen étnico que residan de manera temporal o permanente en el territorio, e instrumentarán políticas públicas para promover su desarrollo integral y la salvaguarda de sus derechos.
+XIII.- El Estado tiene una composición pluricultural sustentada originalmente en sus pueblos indígenas que son aquellos que descienden de poblaciones que habitan en el territorio actual de la entidad al iniciarse la colonización y que conservan sus propias instituciones sociales, económicas, culturales y políticas, o parte de ellas.
+
+Ante ello, el Estado y los municipios en el ámbito de su competencia, promoverán la participación de la sociedad en el rescate, preservación y difusión de la cultura, lenguas, usos, costumbres y tradiciones indígenas.
+
+Así, esta Constitución reconoce y garantiza el derecho de los pueblos y comunidades indígenas que residan de manera temporal o permanente en el territorio, a la libre determinación, a la autonomía, al reconocimiento como pueblo o comunidad indígena, a la identidad indígena, a aplicar sus propios sistemas normativos, a la preservación de su identidad cultural, a la tierra, de consulta y participación, a acceder plenamente a la jurisdicción del Estado y, al desarrollo. Derechos que se regularán en la ley correspondiente.
+
+El Estado y los municipios, para promover la igualdad de oportunidades de los indígenas y eliminar cualquier práctica discriminatoria, establecerán las instituciones y determinarán las políticas necesarias para garantizar la vigencia de los derechos de los indígenas y el desarrollo integral de sus pueblos y comunidades, las cuales deberán ser diseñadas y operadas conjuntamente con ellos.
 
 > <small>(ADICIONADA, P.O. 26 DE JULIO DE 2008)</small>
 
@@ -2938,6 +2944,10 @@ P.O. 30 DE AGOSTO DE 2011.
 P.O. 5 DE MAYO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 14 DE JULIO DE 2012.
+
+PRIMERO (SIC).- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
 
 ###### ARTÍCULO ÚNICO.
 
