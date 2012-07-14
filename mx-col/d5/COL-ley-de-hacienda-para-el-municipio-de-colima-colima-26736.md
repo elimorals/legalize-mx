@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-colima-colima-26736"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2011-12-24"
+last_updated: "2012-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2012.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -195,13 +195,13 @@ Este impuesto se determinará y liquidará de conformidad con las cuotas y tasas
 
 I. Para los predios urbanos edificados se aplicará la siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 II. Para los predios urbanos no edificados se aplicará a la base gravable la tasa anual del 0.006.
 
 III. Para los predios rústicos se aplicará la siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 Para la determinación del impuesto aplicando las tarifas previstas en las fracciones I y III de este artículo, se sujetará al siguiente procedimiento:
 
@@ -253,7 +253,7 @@ Los notarios públicos, para autorizar en forma definitiva escrituras en que se 
 
 Únicamente están exentos del pago de este impuesto los bienes del dominio público de la federación, del Estado y de sus municipios, salvo que sean utilizados por entidades paraestatales, paramunicipales o por particulares, bajo cualquier título, con fines administrativos o propósitos distintos a su objeto público.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -383,7 +383,7 @@ III. En las transmisiones que se realicen con motivo de la disolución de la soc
 
 Los contribuyentes calcularán el impuesto aplicando a la base que resulte conforme a lo dispuesto por los artículos 25, 26 y 27 de esta Ley, según el caso, la siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 El pago del impuesto deberá efectuarse dentro de los quince días siguientes a aquél en que se realice cualesquiera de los supuestos que a continuación se señalan:
 
@@ -631,7 +631,7 @@ Garantizarán preferentemente el pago de este impuestos con los bienes inmuebles
 
 No se pagará el impuesto por los espectáculos públicos de funciones de cine.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO IV. DE LOS ACCESORIOS DE LOS IMPUESTOS
 
@@ -643,7 +643,7 @@ ARTÍCULO 51 A.- En los términos de lo dispuesto en el último párrafo del art
 
 ARTÍCULO 51 B.- En el supuesto del párrafo tercero del artículo 19 de esta Ley, se cobrará a los contribuyentes ahí señalados, el 50 por ciento de los recargos y multas que se hayan generado hasta que se efectúe el pago correspondiente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ## TITULO TERCERO. CONTRIBUCIONES DE MEJORAS
 
@@ -709,31 +709,31 @@ A).- CONSTRUCCIONES
 
 Las personas físicas o morales que pretendan llevar a cabo la construcción, reparación o demolición de obras, deberán obtener previamente la autorización correspondiente y pagarán los derechos conforme a las siguientes tarifas:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ###### ARTICULO 63.
 
 Los términos de vigencia que se refiere a los permisos señalados en el artículo anterior serán los siguientes:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ###### ARTICULO 64.
 
 Los derechos de alineamiento, designación de número oficial, dictamen de vocación del suelo e inspección, se pagarán de conformidad con la siguiente tarifa:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ###### ARTICULO 65.
 
 Las personas físicas y morales que para la realización de obras requieran del servicio que a continuación se expresa, previamente cubrirán el derecho conforme a la siguiente tarifa:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ###### ARTICULO 66.
 
 Quienes para la realización de obras requieran de romper pavimentos, banquetas o machuelos, están obligados a obtener para ello la autorización previa de la dependencia municipal competente y pagar los derechos que se establecen en esta Ley cuando sean por mas de 10 metros lineales, por metro lineal, de acuerdo a la siguiente clasificación:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ###### ARTICULO 67.
 
@@ -745,13 +745,13 @@ En el caso de construcción de edificios en el régimen de condominio, sólo se 
 
 Las personas físicas o morales que realicen subdivisión o modificación de terrenos en lotes o fraccionamientos o que reciban obras de urbanización deberán obtener previamente la autorización correspondiente de las autoridades competentes y pagar los derechos conforme a la siguiente tarifa.
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ###### ARTICULO 69.
 
 Las personas físicas o morales que pretendan inscribirse o refrendar su inscripción como directores responsables de obra, corresponsables de obras de urbanización y edificación, deberán obtener la autorización correspondiente y pagar los derechos conforme a las siguientes tarifas:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ###### ARTICULO 70.
 
@@ -783,7 +783,7 @@ Para la realización de los actos de publicidad referidos en el artículo 71 de 
 
 Los derechos a que se refiere la presente sección se pagarán de conformidad con las siguientes tarifas:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ###### ARTICULO 77.
 
@@ -821,7 +821,7 @@ Para la apertura de nuevos establecimientos se requerirá tener previamente la l
 
 Los derechos consignados en la presente sección se pagarán por anualidad, previo a la expedición de la licencia, autorización o permiso correspondiente, de conformidad con las siguientes tarifas:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 D).- OTRAS LICENCIAS Y PERMISOS
 
@@ -829,7 +829,7 @@ D).- OTRAS LICENCIAS Y PERMISOS
 
 Las personas físicas o morales que exploten el uso de máquinas de video juegos y sinfonolas, pagarán anualmente, durante los meses de enero y febrero, por cada una, conforme a la siguiente tarifa:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 #### SECCION SEGUNDA. DE LOS REGISTROS, CERTIFICACIONES Y LEGALIZACIONES
 
@@ -839,7 +839,7 @@ A).- REGISTRO CIVIL
 
 Los derechos por servicios que preste el registro civil se causarán y pagarán conforme a la siguiente tarifa:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 B) CATASTRO
 
@@ -847,7 +847,7 @@ B) CATASTRO
 
 Los derechos por servicios que preste el catastro municipal se causarán y pagarán conforme a la siguiente tarifa, por cada pieza:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 C).- ECOLOGÍA
 
@@ -855,7 +855,7 @@ C).- ECOLOGÍA
 
 Los montos establecidos para que la dependencia municipal competente otorgue las siguientes autorizaciones, certificaciones y permisos, son:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
@@ -927,7 +927,7 @@ IV.- Constancias 1.50
 
 Los servicios médicos municipales, causarán los siguientes derechos:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 #### SECCION SEGUNDA. USO DE VIAS Y AREAS PUBLICAS
 
@@ -935,7 +935,7 @@ Los servicios médicos municipales, causarán los siguientes derechos:
 
 Los derechos por el uso de la vía pública y estacionamiento se causarán y pagarán conforme a la siguiente tarifa:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ### CAPITULO IV. DE LOS SERVICIOS PUBLICOS
 
@@ -971,7 +971,7 @@ Los propietarios o poseedores de predios considerados catastralmente como no con
 
 El derecho de alumbrado público se pagará de conformidad con las tasas y cuotas siguientes:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 #### SECCION SEGUNDA. ASEO PUBLICO
 
@@ -987,7 +987,7 @@ Son sujetos de este derecho las personas físicas o morales que requieran servic
 
 Las personas físicas o morales a quienes se presten los servicios especiales que en esta sección se enumeran, pagarán los derechos correspondientes conforme a las siguientes tarifas:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ###### ARTICULO 97.
 
@@ -1007,7 +1007,7 @@ IV. Cinco días posteriores al requerimiento de pago al propietario o poseedor d
 
 Las personas a quienes se les presten servicios en los casos que se mencionan en este artículo, pagarán los derechos correspondientes a las siguientes cuotas:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ###### ARTICULO 99.
 
@@ -1023,7 +1023,7 @@ Los derechos por rastro municipal deberán ser cubiertos en forma anticipada en 
 
 Las personas que realicen la matanza de cualquier clase de animales, dentro del rastro, deberán obtener la autorización correspondiente y pagar los derechos conforme a las siguientes cuotas:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ###### ARTICULO 102.
 
@@ -1045,7 +1045,7 @@ Igualmente queda facultada para decomisar carnes no aptas para el consumo humano
 
 Los servicios públicos que de conformidad con la Ley del Municipio Libre del Estado sean concesionados, causarán los derechos que se establezcan en el título de concesión correspondiente y en las disposiciones específicas que expida el Cabildo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO VI. DE LOS ACCESORIOS DE LOS DERECHOS
 
@@ -1075,19 +1075,19 @@ El municipio obtendrá ingresos por la enajenación de bienes, siempre y cuando 
 
 Las personas físicas o morales que tomen en arrendamiento algún bien propiedad del municipio, pagarán a éste, las rentas respectivas por mes, de conformidad con las siguientes cuotas:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ###### ARTICULO 109.
 
 Los propietarios de ganado que circule en las vías públicas y sea recogido por la autoridad municipal, haciendo uso de las instalaciones del municipio, pagarán diariamente los productos correspondientes, conforme a la siguiente tarifa:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ###### ARTICULO 110.
 
 En los cementerios públicos se causarán y pagarán los productos de conformidad a la siguiente tarifa:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ### CAPITULO III. RENDIMIENTOS FINANCIEROS DE CAPITAL Y VALORES
 
@@ -1101,7 +1101,7 @@ Los ingresos que se obtengan por los rendimientos financieros o intereses genera
 
 Por la venta de formas impresas de la autoridad municipal se cobrará por juego:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ### CAPITULO V. VENTA DE PUBLICACIONES
 
@@ -1133,7 +1133,7 @@ La venta de esquilmos, productos de aparcería, desechos y basura, será de conf
 
 Los productos derivados de arrastre de grúas y maniobras se cubrirán de conformidad a lo siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ### CAPITULO X. OTROS PRODUCTOS
 
@@ -1141,7 +1141,7 @@ Los productos derivados de arrastre de grúas y maniobras se cubrirán de confor
 
 Los productos que por los conceptos que a continuación se detallan, se causarán y pagarán conforme a las siguientes tarifas:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ## TITULO SEXTO. DE LOS APROVECHAMIENTOS
 
@@ -1169,7 +1169,7 @@ El importe de los ingresos por concepto de multas deberá ser cubierto en la Tes
 
 Para determinar el pago por concepto de multas se considerarán, inclusive, las fracciones del peso. Sin embargo, para efecto de la determinación y liquidación del monto a pagar en los módulos de atención automatizados se deberá observar la siguiente regla de ajuste: los montos que contengan cantidades que incluyan de 1 hasta 50 centavos se ajustarán a la unidad inmediata inferior y los que contengan cantidades de 51 a 99 centavos, se ajustarán a la unidad inmediata superior.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ## TITULO SEPTIMO. DE LAS PARTICIPACIONES, APORTACIONES Y RECURSOS TRANSFERIDOS
 
@@ -1203,7 +1203,7 @@ Son los ingresos que percibirá el Ayuntamiento en forma independiente y adicion
 
 Son los ingresos que percibirá el Ayuntamiento por los convenios suscritos con el gobierno federal o estatal destinados a la ejecución de programas federales o estatales mediante la reasignación de responsabilidades y recursos presupuestarios al municipio, de conformidad con las reglas de operación autorizadas, así como los que se deriven de los convenios de colaboración administrativa en materia de coordinación fiscal pactados con el Estado o la Federación.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ## TITULO OCTAVO. INGRESOS EXTRAORDINARIOS
 
@@ -1269,19 +1269,15 @@ AÑO 2003 2004 2005 2006 2007
 
 BASE 60% 70% 80% 90% 100%
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2012)</small>
 
 ###### ARTÍCULO SÉPTIMO.
 
-Por concepto de estímulo fiscal, a los contribuyentes que paguen Impuesto Predial en el segundo semestre del ejercicio fiscal 2011, se les condonan los recargos generados por la falta de pago oportuno en los ejercicios 2011 y anteriores, así como las multas que hubieran sido impuestas por el mismo concepto, en los porcentajes y periodos que a continuación se señalan:
+Por concepto de estímulo fiscal, a los contribuyentes que paguen Impuesto Predial en el segundo semestre del ejercicio fiscal 2012, se les condonan los recargos generados por la falta de pago oportuno en los ejercicios 2012 y anteriores, así como las multas que hubieran sido impuestas por el mismo concepto, en los porcentajes y periodos que a continuación se señalan:
 
-PERIÓDO JULIO AGOSTO SEPTIEMBRE OCTUBRE
+PERIÓDO JULIO AGOSTO SEPTIEMBRE OCTUBRE NOVIEMBRE DICIEMBRE
 
-BASE 100% 80%
-
-NOVIEMBRE DICIEMBRE
-
-60%
+BASE 100% 80% 60%
 
 Lo dispuesto en este TRANSITORIO, no es aplicable cuando el contribuyente y la Tesorería Municipal celebren convenio para pago en parcialidades.
 
@@ -1303,7 +1299,7 @@ Dado en Palacio de Gobierno a los 11 días del mes de noviembre del año dos mil
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIC. FERNANDO MORENO PEÑA. Rúbrica. EL DIRECTOR GENERAL DE GOBIERNO, ENCARGADO DEL DESPACHO DE LA SECRETARÍA GENERAL DE GOBIERNO, LIC. JOSÉ GILBERTO GARCÍA NAVA. Rúbrica. EL SECRETARIO DE FINANZAS, ING. ALMAR PETTERSEN MORA. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 31 DE DICIEMBRE DE 2003.
 
@@ -1384,3 +1380,7 @@ P.O. 2 DE JULIO DE 2011.
 P.O. 24 DE DICIEMBRE DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor el 1° de enero de 2012, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 14 DE JULIO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
