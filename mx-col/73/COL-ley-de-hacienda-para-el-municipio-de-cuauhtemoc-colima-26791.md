@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-cuauhtemoc-colima-26791"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2011-07-02"
+last_updated: "2012-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26791&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COL"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE CUAUHTEMOC, COLIMA
 
-LEY DE HACIENDA PARA EL MUNICIPIO DE CUAUHTEMOC
+LEY DE HACIENDA PARA EL MUNICIPIO DE CUAUHTÉMOC
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2012.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -311,7 +311,7 @@ Para la determinación del impuesto aplicando las tarifas previstas en las fracc
 
 3. Se sumarán los resultados obtenidos de ejecutar los pasos 1 y 2, siendo el producto el impuesto anual a pagar.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ENERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2003)</small>
 
 IV. Tratándose de parcelas ejidales, se causará un impuesto anual por derecho parcelario de 3 unidades de salario.
 
@@ -355,7 +355,7 @@ Los notarios públicos, para autorizar en forma definitiva escrituras en que se 
 
 Únicamente están exentos del pago de este impuesto los bienes del dominio público de la federación, del Estado y de sus municipios, salvo que sean utilizados por entidades paraestatales, paramunicipales o por particulares, bajo cualquier título, con fines administrativos o propósitos distintos a su objeto público.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -761,7 +761,7 @@ ARTICULO 51 A.- En los términos de lo dispuesto en el último párrafo del art�
 
 ARTICULO 51 B.- En el supuesto del párrafo tercero del artículo 19 de esta Ley, se cobrará a los contribuyentes ahí señalados, el 50 por ciento de los recargos y multas que se hayan generado hasta que se efectúe el pago correspondiente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ## TITULO TERCERO. CONTRIBUCIONES DE MEJORAS
 
@@ -1915,7 +1915,7 @@ cerveza vinos y licores 150.00 a 200.00
 
 35.- Otros no especificados 60.00 a 1000.00
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2007)</small>
 
 En zona rural cada uno:
 
@@ -1945,7 +1945,7 @@ cerveza y mezcal 40.00 a 50.00
 
 6.- Ramadas 30.00 a 60.00
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIOS DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
@@ -2257,7 +2257,7 @@ cerveza vinos y Licores 30.00 a 60.00
 
 31.- Otros giros no especificados 5.00 a 250.00
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2007)</small>
 
 En zona rural cada uno:
 
@@ -2683,7 +2683,7 @@ certificaciones y dictámenes no previstos
 
 en este artículo de 1.00 a 100.00
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
 D).- PROTECCION CIVIL
 
@@ -3093,7 +3093,7 @@ Igualmente queda facultada para decomisar carnes no aptas para el consumo humano
 
 Los servicios públicos que de conformidad con la Ley del Municipio Libre del Estado sean concesionados, causarán los derechos que se establezcan en el título de concesión correspondiente y en las disposiciones específicas que expida el Cabildo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO VI. DE LOS ACCESORIOS DE LOS DERECHOS
 
@@ -3343,7 +3343,7 @@ El importe de los ingresos por concepto de multas deberá ser cubierto en la Tes
 
 Para determinar el pago por concepto de multas se considerarán, inclusive, las fracciones del peso. Sin embargo, para efecto de la determinación y liquidación del monto a pagar en los módulos de atención automatizados se deberá observar la siguiente regla de ajuste: los montos que contengan cantidades que incluyan de 1 hasta 50 centavos se ajustarán a la unidad inmediata inferior y los que contengan cantidades de 51 a 99 centavos, se ajustarán a la unidad inmediata superior.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ## TITULO SEPTIMO. DE LAS PARTICIPACIONES, APORTACIONES Y RECURSOS TRANSFERIDOS
 
@@ -3377,7 +3377,7 @@ Son los ingresos que percibirá el Ayuntamiento en forma independiente y adicion
 
 Son los ingresos que percibirá el Ayuntamiento por los convenios suscritos con el gobierno federal o estatal destinados a la ejecución de programas federales o estatales mediante la reasignación de responsabilidades y recursos presupuestarios al municipio, de conformidad con las reglas de operación autorizadas, así como los que se deriven de los convenios de colaboración administrativa en materia de coordinación fiscal pactados con el Estado o la Federación.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ## TITULO OCTAVO. INGRESOS EXTRAORDINARIOS
 
@@ -3443,11 +3443,11 @@ AÑO 2003 2004 2005 2006 2007
 
 BASE 60% 70% 80% 90% 100%
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2012)</small>
 
 ###### ARTICULO SEPTIMO.
 
-Por concepto de estímulo fiscal, a los contribuyentes que paguen Impuesto Predial en el segundo semestre del ejercicio fiscal 2011, se les condonan los recargos generados por la falta de pago oportuno en los ejercicios 2011 y anteriores, así como las multas que hubieran sido impuestas por el mismo concepto, en los porcentajes y periodos que a continuación se señalan:
+Por concepto de estimulo fiscal, a los contribuyentes que paguen Impuesto Predial en el segundo semestre del ejercicio fiscal 2012, se les condonan los recargos generados por la falta de pago oportuno en los ejercicios 2012 y anteriores, así como las multas que hubieran sido impuestas por el mismo concepto, en los porcentajes y periodos que a continuación se señalan:
 
 PERIÓDO JULIO SEPTIEMBRE NOVIEMBRE
 
@@ -3475,7 +3475,7 @@ Dado en Palacio de Gobierno a los 11 días del mes de noviembre del año dos mil
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO PEÑA MORA. Rúbrica. EL DIRECTOR GENERAL DE GOBIERNO, ENCARGADO DEL DESPACHO DE LA SECRETARÍA GENERAL DE GOBIERNO, LIC. JOSÉ GILBERTO GARCÍA NAVA. Rúbrica. EL SECRETARIO DE FINANZAS, ING. ALMAR PETTERSEN MORA. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 18 DE ENERO DE 2003.
 
@@ -3562,3 +3562,7 @@ P.O. 18 DE DICIEMBRE DE 2010.
 P.O. 2 DE JULIO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 14 DE JULIO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
