@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-pensiones-y-prestaciones-sociales-para-los-21479"
 country: "mx"
 rank: "ley"
 publication_date: "2001-05-21"
-last_updated: "2012-06-19"
+last_updated: "2012-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21479&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 21 de mayo de 2001.
 
@@ -1047,9 +1047,17 @@ I. Los beneficiarios del trabajador que fallezca a causa o como consecuencia de 
 
 II. Los beneficiarios del trabajador que habiendo prestado servicios por más de veinticinco años y contribuido al fondo por el mismo periodo, falleciera por causas ajenas al servicio, aunque el deceso ocurriere sin que el trabajador hubiese cumplido sesenta y cinco años de edad;
 
-III. Los beneficiarios de los trabajadores que hubieren pasado a ser pensionista por jubilación, por edad avanzada, o inhabilitación en servicio, y
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2012)</small>
 
-IV. Los deudos de los trabajadores que habiéndose separado del servicio después de haber contribuido al fondo no menos de veinticinco años, hubiesen dejado su fondo.
+III. Los beneficiarios de los trabajadores que hubieren pasado a ser pensionista por jubilación, por edad avanzada, o inhabilitación en servicio;
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2012)</small>
+
+IV. Los beneficiarios del trabajador, en activo y con derecho a pensión, que hubiere desaparecido por más de un mes sin que se tengan noticias de su paradero, de acuerdo a los requisitos y condiciones establecidas en la presente Ley, y
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2012)</small>
+
+V. Los deudos de los trabajadores que habiéndose separado del servicio después de haber contribuido al fondo no menos de veinticinco años, hubiesen dejado su fondo.
 
 > <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
 
@@ -1074,6 +1082,10 @@ V. La concubina o el concubinario tendrán los derechos reservados al cónyuge, 
 a) Que tanto el trabajador como la concubina o el concubinario hayan permanecido libres de matrimonio durante el concubinato.
 
 b) Que el trabajador contribuyente al fondo haya vivido con la concubina o el concubinario los cinco años que precedieron inmediatamente a su muerte.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2012)</small>
+
+Se observará lo conducente, en el caso de beneficiarios del trabajador que hubiere desaparecido de su domicilio por más de un mes sin que se tengan noticias de su paradero.
 
 Si al morir el trabajador o trabajadora, tenía varias concubinas o concubinarios, y éstos demuestran que se encuentran en las circunstancias señaladas en los incisos a) y b) anteriores, se estará a lo dispuesto en el Código Familiar para el Estado.
 
@@ -1104,6 +1116,10 @@ Si el trabajador incluye en su escrito de designación de deudos personas divers
 ###### ARTICULO 123.
 
 Si un pensionado desapareciere de su domicilio por más de un mes sin que se tengan noticias de su paradero, quienes tuvieran derecho a la transmisión de la pensión podrán solicitar que se les transfiera con el carácter de provisional, en los términos del artículo 127 fracción VI de esta Ley, y con sólo la comprobación de la desaparición y de su parentesco, sin que sea necesario promover diligencias de declaración de ausencia. Si el pensionista llegare a presentarse tendrá derecho a recibir las diferencias entre el monto de la pensión y la parte entregada a sus beneficiarios. Si se comprueba el fallecimiento del pensionista, la transmisión tendrá el carácter de definitiva.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2012)</small>
+
+En el caso del trabajador en activo y con derecho a pensión, que hubiere desaparecido de su domicilio por más de un mes sin que se tenga noticias de su paradero, el derechohabiente de aquél podrá solicitar que se le pague con el carácter de provisional la pensión, tan pronto presente la denuncia ante el Ministerio Público, se gire la orden de pesquisas, y demuestre su derecho a la pensión en los términos de la presente Ley; supuesto en el cual la Dirección de Pensiones queda relevada de responsabilidad alguna. Si el trabajador llegare a presentarse podrá recibir el pago de la pensión, descontando la parte entregada al beneficiario; o bien, de ser procedente, reintegrarse al servicio y seguir cotizando al fondo respectivo, descontándose la parte que se entregó al beneficiario. Una vez resueltas las diligencias que declaren la ausencia del trabajador o comprobado el fallecimiento del mismo, el pago del recurso tendrá el carácter de definitivo.
 
 > <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
 
@@ -1786,6 +1802,12 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan a éste.
 
 P.O. 19 DE JUNIO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE JULIO DE 2012.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
