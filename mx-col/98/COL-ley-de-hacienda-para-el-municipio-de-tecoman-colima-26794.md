@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-tecoman-colima-26794"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2011-12-24"
+last_updated: "2012-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26794&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE TECOMÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2012.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -1331,11 +1331,11 @@ AÑO 2003 2004 2005 2006 2007
 
 BASE 60% 70% 80% 90% 100%
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2012)</small>
 
 ###### ARTICULO SEPTIMO.
 
-Por concepto de estímulo fiscal, a los contribuyentes que paguen Impuesto Predial en el segundo semestre del ejercicio fiscal 2011, se les condonan los recargos generados por la falta de pago oportuno en los ejercicios 2011 y anteriores, así como las multas que hubieran sido impuestas por el mismo concepto, en los porcentajes y periodos que a continuación se señalan:
+Por concepto de estimulo fiscal, a los contribuyentes que paguen Impuesto Predial en el segundo semestre del ejercicio fiscal 2012, se les condonan los recargos generados por la falta de pago oportuno en los ejercicios 2012 y anteriores, así como las multas que hubieran sido impuestas por el mismo concepto, en los porcentajes y periodos que a continuación se señalan:
 
 PERIÓDO JULIO SEPTIEMBRE NOVIEMBRE
 
@@ -1448,3 +1448,7 @@ P.O. 2 DE JULIO DE 2011.
 P.O. 24 DE DICIEMBRE DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor el 1° de enero de 2012, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 14 DE JULIO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
