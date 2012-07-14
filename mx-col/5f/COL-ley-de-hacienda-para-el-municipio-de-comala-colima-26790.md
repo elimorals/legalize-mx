@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-comala-colima-26790"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2011-12-24"
+last_updated: "2012-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COL"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE COMALA, COLIMA
 
-LEY DE HACIENDA PARA EL MUNICIPIO DE COMALA
+LEY DE HACIENDA PARA EL MUNICIPIO DE COMALA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2012.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -363,7 +363,7 @@ Los notarios públicos, para autorizar en forma definitiva escrituras en que se 
 
 Únicamente están exentos del pago de este impuesto los bienes del dominio público de la federación, del Estado y de sus municipios, salvo que sean utilizados por entidades paraestatales, paramunicipales o por particulares, bajo cualquier título, con fines administrativos o propósitos distintos a su objeto público.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -769,7 +769,7 @@ ARTICULO 51 A.- En los términos de lo dispuesto en el último párrafo del art�
 
 ARTICULO 51 B.- En el supuesto del párrafo cuarto del artículo 19 de ésta Ley, se cobrará a los contribuyentes ahí señalados, el 50 por ciento de los recargos y multas que se hayan generado hasta que se efectúe el pago correspondiente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ## TITULO TERCERO. CONTRIBUCIONES DE MEJORAS
 
@@ -785,7 +785,7 @@ Para la determinación del monto, forma y plazos de pago, se estará a lo que di
 
 ###### ARTICULO 54.
 
-No se pagará esta contribución por los bienes del dominio público de la federación, del Estado y de los municipios, salvo que tales bienes sean utilizados por entidades paraestateles (sic), paramunicipales o por particulares, bajo cualquier título para fines administrativo o propósitos distintos a los de su objeto público.
+No se pagará esta contribución por los bienes del dominio público de la federación, del Estado y de los municipios, salvo que tales bienes sean utilizados por entidades paraestatales (sic), paramunicipales o por particulares, bajo cualquier título para fines administrativo o propósitos distintos a los de su objeto público.
 
 ###### ARTICULO 55.
 
@@ -1019,7 +1019,7 @@ este artículo, por metro cuadrado o
 
 fracción: 0.30 a 5.00
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
@@ -1029,7 +1029,7 @@ a).- Antenas de comunicación. 1.83
 
 b).- Antenas de radio comunicación. 1.83
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
@@ -1045,7 +1045,7 @@ d).- Empedrados. 2.00
 
 e).- Adoquín. 4.00
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
@@ -1059,7 +1059,7 @@ c).- Concreto hidráulico. 0.07
 
 d).- Adoquín. 0.09
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
@@ -1471,7 +1471,7 @@ VII. Por la supervisión de las obras de urbanización se cobrará el 1.81 por c
 
 En caso de que el promotor no asigne supervisor para los trabajos de urbanización, el Ayuntamiento realizará la supervisión de las obras. En este caso, el promotor pagará al Ayuntamiento aplicando la tasa del uno por ciento del valor catastral del predio.
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 VIII.- Por el trámite de incorporación municipal de predios rústicos a zona urbana, de conformidad con la Ley de Asentamientos Humanos del Estado, se pagará el monto que se determine en función del estudio técnico elaborado por la dependencia municipal competente, por lote:
 
@@ -1579,7 +1579,7 @@ Es base para el cálculo de los derechos a que se refiere este Capítulo, el nú
 
 Para la realización de los actos de publicidad referidos en el artículo 71 de esta Ley, se requerirá tener previamente la licencia o autorización respectiva; tratándose de publicidad ya instalada deberá solicitarse el refrendo durante los meses de enero y febrero del ejercicio que se trate.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
@@ -2563,7 +2563,7 @@ fotogramétricas en coordenadas Universal
 
 Transversal de Mercator 120.00
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
 C).- PROTECCION CIVIL
 
@@ -3025,7 +3025,7 @@ Igualmente queda facultada para decomisar carnes no aptas para el consumo humano
 
 Los servicios públicos que de conformidad con la Ley del Municipio Libre del Estado sean concesionados, causarán los derechos que se establezcan en el título de concesión correspondiente y en las disposiciones específicas que expida el Cabildo.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO VI. DE LOS ACCESORIOS DE LOS DERECHOS
 
@@ -3177,7 +3177,7 @@ El importe de los ingresos por concepto de multas deberá ser cubierto en la Tes
 
 Para determinar el pago por concepto de multas se considerarán, inclusive, las fracciones del peso. Sin embargo, para efecto de la determinación y liquidación del monto a pagar en los módulos de atención automatizados se deberá observar la siguiente regla de ajuste: los montos que contengan cantidades que incluyan de 1 hasta 50 centavos se ajustarán a la unidad inmediata inferior y los que contengan cantidades de 51 a 99 centavos, se ajustarán a la unidad inmediata superior.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ## TITULO SÉPTIMO. DE LAS PARTICIPACIONES, APORTACIONES Y RECURSOS TRANSFERIDOS
 
@@ -3277,11 +3277,11 @@ AÑO 2003 2004 2005 2006 2007
 
 BASE 60% 70% 80% 90% 100%
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2012)</small>
 
 ###### ARTICULO SEPTIMO.
 
-Por concepto de estímulo fiscal, a los contribuyentes que paguen Impuesto Predial en el segundo semestre del ejercicio fiscal 2011, se les condonan los recargos generados por la falta de pago oportuno en los ejercicios 2011 y anteriores, así como las multas que hubieran sido impuestas por el mismo concepto, en los porcentajes y periodos que a continuación se señalan:
+Por concepto de estimulo fiscal, a los contribuyentes que paguen Impuesto Predial en el segundo semestre del ejercicio fiscal 2012, se les condonan los recargos generados por la falta de pago oportuno en los ejercicios 2012 y anteriores, así como las multas que hubieran sido impuestas por el mismo concepto, en los porcentajes y periodos que a continuación se señalan:
 
 PERIÓDO JULIO SEPTIEMBRE NOVIEMBRE
 
@@ -3309,7 +3309,7 @@ Dado en Palacio de Gobierno a los 11 días del mes de noviembre del año dos mil
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA. Rúbrica. EL DIRECTOR GENERAL DE GOBIERNO, ENCARGADO DEL DESPACHO DE LA SECRETARÍA GENERAL DE GOBIERNO, LIC. JOSÉ GILBERTO GARCÍA NAVA. Rúbrica. EL SECRETARIO DE FINANZAS, ING. ALMAR PETTERSEN MORA. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 31 DE DICIEMBRE DE 2003.
 
@@ -3398,3 +3398,7 @@ P.O. 2 DE JULIO DE 2011.
 P.O. 24 DE DICIEMBRE DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor el 1° de enero de 2012, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 14 DE JULIO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
