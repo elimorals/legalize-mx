@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-manzanillo-colima-26795"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2011-12-24"
+last_updated: "2012-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2012.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -213,7 +213,7 @@ I. Para los predios urbanos edificados se aplicará la siguiente:
 
 TARIFA
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 II. Para los predios urbanos no edificados se aplicará a la base gravable la tasa anual del 0.006;
 
@@ -221,7 +221,7 @@ III. Para los predios rústicos se aplicará la siguiente:
 
 TARIFA
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 Para la determinación del impuesto aplicando las tarifas previstas en las fracciones I y III de este artículo, se sujetará al siguiente procedimiento:
 
@@ -273,7 +273,7 @@ Los notarios públicos, para autorizar en forma definitiva escrituras en que se 
 
 Únicamente están exentos del pago de este impuesto los bienes del dominio público de la federación, del Estado y de sus municipios, salvo que sean utilizados por entidades paraestatales, paramunicipales o por particulares, bajo cualquier título, con fines administrativos o propósitos distintos a su objeto público.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -389,7 +389,7 @@ A petición del contribuyente se pondrá el valor de la transacción, siempre y 
 
 En los casos en que se transmita la nuda propiedad de inmuebles, la base del impuesto será el 50 por ciento del valor aplicable. Al extinguirse el usufructo se pagará el impuesto que resulte del otro 50 por ciento del valor catastral.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2003)</small>
 
 ###### ARTICULO 27.
 
@@ -409,9 +409,9 @@ Los contribuyentes calcularán el impuesto aplicando a la base que resulte confo
 
 TARIFA
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 El pago del impuesto deberá efectuarse dentro de los treinta días naturales siguientes a aquél en que se realice cualesquiera de los supuestos que a continuación se señalan:
 
@@ -663,7 +663,7 @@ Garantizarán preferentemente el pago de este impuesto con los bienes inmuebles 
 
 No se pagará el impuesto por los espectáculos públicos de funciones de cine y palenques de gallos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ### CAPÍTULO IV. DE LOS ACCESORIOS DE LOS IMPUESTOS
 
@@ -675,7 +675,7 @@ ARTICULO 51 A.- En los términos de lo dispuesto en el último párrafo del art�
 
 ARTICULO 51 B.- En el supuesto del párrafo tercero del artículo 19 de esta Ley, se cobrará a los contribuyentes ahí señalados, el 50 por ciento de los recargos y multas que se hayan generado hasta que se efectúe el pago correspondiente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ## TITULO TERCERO. CONTRIBUCIONES DE MEJORAS
 
@@ -743,7 +743,7 @@ Las personas físicas o morales que pretendan llevar a cabo la construcción, re
 
 Unidad de salario
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 I. Permiso de construcción o ampliación, reparación o remodelación, incluyendo inspección de la obra, por metro cuadrado, según el tipo, de acuerdo a la siguiente clasificación:
 
@@ -761,7 +761,7 @@ De más de 40 M2 0.03
 
 3.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 b) Habitacional densidad media: 0.08
 
@@ -775,7 +775,7 @@ b) Habitacional densidad media: 0.08
 
 4.- Vivienda unifamiliar en usos mixtos 0.08
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 c) Habitacional densidad baja: 0.19
 
@@ -1083,7 +1083,7 @@ i) Turístico 6.00
 
 j) Otros 6.00
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2003)</small>
 
 IV. Dictamen de vocación del uso de suelo, por evento;
 
@@ -1229,7 +1229,7 @@ Para que la dependencia municipal competente otorgue el permiso de construcción
 
 En el caso de construcción de edificios en el régimen de condominio, sólo se podrá otorgar la licencia de construcción previa comprobación del pago del derecho de constitución en régimen de condominio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 68.
 
@@ -1389,7 +1389,7 @@ j) Otros de 0.05 a 0.24
 
 Las áreas de estacionamiento comprendidas en las categorías en los incisos e), f), g), h) e i), se considerará en el cobro, con el 10 por ciento de las mismas tarifas de acuerdo a la superficie habilitada para este servicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2003)</small>
 
 VII. Por la supervisión de las obras de urbanización se cobrará hasta el 2.5% del valor catastral del predio.
 
@@ -1431,7 +1431,7 @@ IX. Por la expedición del certificado de habitabilidad de las construcciones, e
 
 3.- Más de 1000.00 M2 20.00
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 69.
 
@@ -1883,7 +1883,7 @@ venta de cerveza 60.00
 
 60.- Otros giros no especificados de 23.00 a 1000.00
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2007)</small>
 
 En zona rural cada uno
 
@@ -2743,7 +2743,7 @@ e).- Por la localización de coordenadas
 
 geodésicas para orientación de terrenos 40.00
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2007)</small>
 
 IV.- Por la fusión o subdivisión de predios y relotificación.
 
@@ -3061,7 +3061,7 @@ XXVIII. Registro municipal de fundaciones y asociaciones civiles con actividades
 
 XXX. (SIC) Por la expedición de autorizaciones, certificaciones y dictámenes no previstos en este articulo de 1.00 a 100
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
 D) PROTECCION CIVIL
 
@@ -3533,7 +3533,7 @@ c) Tercera Zona 3.75
 
 III. Permiso de traslado de cadáveres fuera del municipio 2.94
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 15 DE ENERO DE 2003)</small>
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2003)</small>
 
 IV. Por la limpieza de lotes en propiedad particular, anualmente por gaveta, que deberá pagarse en los meses de enero y febrero 2.50
 
@@ -3865,11 +3865,11 @@ El importe de los ingresos por concepto de multas deberá ser cubierto en la Tes
 
 Para determinar el pago por concepto de multas se considerarán, inclusive, las fracciones del peso. Sin embargo, para efecto de la determinación y liquidación del monto a pagar en los módulos de atención automatizados se deberá observar la siguiente regla de ajuste: los montos que contengan cantidades que incluyan de 1 hasta 50 centavos se ajustarán a la unidad inmediata inferior y los que contengan cantidades de 51 a 99 centavos, se ajustarán a la unidad inmediata superior.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ## TITULO SEPTIMO. DE LAS PARTICIPACIONES, APORTACIONES Y RECURSOS TRANSFERIDOS
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO I. DE LAS PARTICIPACIONES
 
@@ -3899,7 +3899,7 @@ Son los ingresos que percibirá el Ayuntamiento en forma independiente y adicion
 
 Son los ingresos que percibirá el Ayuntamiento por los convenios suscritos con el gobierno federal o estatal destinados a la ejecución de programas federales o estatales mediante la reasignación de responsabilidades y recursos presupuestarios al municipio, de conformidad con las reglas de operación autorizadas, así como los que se deriven de los convenios de colaboración administrativa en materia de coordinación fiscal pactados con el Estado o la Federación.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ## TITULO OCTAVO. INGRESOS EXTRAORDINARIOS
 
@@ -3911,7 +3911,7 @@ Son los ingresos que percibirá el Ayuntamiento por los convenios suscritos con 
 
 Son ingresos extraordinarios los que perciba la hacienda pública municipal por financiamientos, transferencias, subsidios y subvenciones, ayudas sociales y otros ingresos que obtenga el municipio, de conformidad con las leyes correspondientes.
 
-> <small>(DEROGADO CON EL CAPITULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADO CON EL CAPÍTULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ## TITULO NOVENO. INGRESOS EXTRAORDINARIOS
 
@@ -3919,11 +3919,11 @@ Son ingresos extraordinarios los que perciba la hacienda pública municipal por 
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 15 DE ENERO DE 2003)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE ENERO DE 2003)</small>
 
 ## TITULO DECIMO. ESTIMULOS FISCALES Y FINANCIEROS
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE ENERO DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE ENERO DE 2003)</small>
 
 ### CAPITULO UNICO
 
@@ -3997,11 +3997,11 @@ AÑO 2003 2004 2005 2006
 
 BASE 70% 80% 90% 100%
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2012)</small>
 
 ###### ARTICULO SEPTIMO.
 
-Por concepto de estímulo fiscal, a los contribuyentes que paguen Impuesto Predial en el segundo semestre del ejercicio fiscal 2011, se les condonan los recargos generados por la falta de pago oportuno en los ejercicios 2011 y anteriores, así como las multas que hubieran sido impuestas por el mismo concepto, en los porcentajes y periodos que a continuación se señalan:
+Por concepto de estimulo fiscal, a los contribuyentes que paguen Impuesto Predial en el segundo semestre del ejercicio fiscal 2012, se les condonan los recargos generados por la falta de pago oportuno en los ejercicios 2012 y anteriores, así como las multas que hubieran sido impuestas por el mismo concepto, en los porcentajes y periodos que a continuación se señalan:
 
 PERIÓDO JULIO SEPTIEMBRE NOVIEMBRE
 
@@ -4041,7 +4041,7 @@ Dado en Palacio de Gobierno a los 11 días del mes de noviembre del año dos mil
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA. Rúbrica. EL DIRECTO GENERAL DE GOBIERNO, ENCARGADO DEL DESPACHO DE LA SECRETARÍA GENERAL DE GOBIERNO, LIC. JOSÉ GILBERTO GARCÍA NAVA. Rúbrica. EL SECRETARIO DE FINANZAS, ING. ALMAR PETTERSEN MORA. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 15 DE ENERO DE 2003.
 
@@ -4073,7 +4073,7 @@ P.O. 18 DE FEBRERO DE 2006.
 
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigor el día se su publicación en el Periódico Oficial "El Estado de Colima".
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 4 DE ABRIL DE 2006.
 
@@ -4132,3 +4132,7 @@ P.O. 2 DE JULIO DE 2011.
 P.O. 24 DE DICIEMBRE DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor el 1° de enero de 2012, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 14 DE JULIO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
