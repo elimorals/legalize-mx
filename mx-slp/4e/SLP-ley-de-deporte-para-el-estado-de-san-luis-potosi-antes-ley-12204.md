@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-deporte-para-el-estado-de-san-luis-potosi-antes-ley-1220
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-26"
-last_updated: "2001-03-20"
+last_updated: "2012-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE DEPORTE PARA EL ESTADO DE SAN LUIS POTOSI -ANTES LEY ESTATAL DEL DEPORTE DEL ESTADO DE SAN LUIS POTOSI-
 
-LEY ESTATAL DEL DEPORTE DEL ESTADO DE SAN LUIS POTOSI
+LEY DE DEPORTE PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 26 de agosto de 1996.
 
@@ -37,7 +37,9 @@ LA QUINCUAGESIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO D
 
 ...
 
-LEY ESTATAL DEL DEPORTE DEL ESTADO DE SAN LUIS POTOSI
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE JULIO DE 2012)</small>
+
+LEY DE DEPORTE PARA EL ESTADO DE SAN LUIS POTOSÍ
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -47,9 +49,11 @@ LEY ESTATAL DEL DEPORTE DEL ESTADO DE SAN LUIS POTOSI
 
 Las disposiciones de esta ley son de orden público e interés social y tienen por objeto establecer el Sistema Estatal del Deporte, así como las bases para su funcionamiento, con el fin de garantizar en igualdad de condiciones y oportunidades, el acceso de la población al conocimiento, práctica y desarrollo del deporte, considerando que éste es un elemento esencial en la formación integral del individuo y contribuye al bienestar general.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 2o.
 
-El Ejecutivo del Estado a través del Instituto Potosino de la Juventud y el Deporte, constituirá el Sistema Estatal del Deporte, consistente en el conjunto de acciones, estrategias, recursos, métodos y procedimientos destinados a impulsar, fomentar y desarrollar la actividad física en el Estado.
+El Ejecutivo del Estado, a través del Instituto Potosino del Deporte, constituirá el Sistema Estatal del Deporte, consistente en el conjunto de acciones, estrategias, recursos, métodos y procedimientos destinados a impulsar, fomentar y desarrollar la actividad física en el Estado.
 
 ###### ARTICULO 3o.
 
@@ -71,9 +75,11 @@ V.- Formular el Programa Estatal del Deporte y realizar las acciones que se deri
 
 VI.- Planear mediante diagnósticos las necesidades deportivas del Estado en todos los ámbitos y niveles; y determinar la programación y presupuestación de acciones orientadas a satisfacerlas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 5o.
 
-El Ejecutivo del Estado a través del Instituto Potosino de la Juventud y el Deporte ejercerá sus atribuciones, con las siguientes facultades:
+El Ejecutivo del Estado, a través del Instituto Potosino del Deporte ejercerá sus atribuciones, con las siguientes facultades:
 
 I.- Coordinar sus acciones, acuerdos y programas a través del Sistema Estatal del Deporte;
 
@@ -83,13 +89,17 @@ III.- Representar al deporte estatal ante organismos regionales, nacionales e in
 
 IV.- Establecer los mecanismos necesarios a fin de llevar a efecto el registro y seguimiento del Sistema Estatal del Deporte, en coordinación permanente con el organismo a cargo de dichas funciones en el ámbito federal;
 
-V.- Corresponde al Instituto Potosino de la Juventud y el Deporte programar cursos de formación, capacitación y actualización para entrenadores e instructores deportivos y profesores de educación física; y
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2012)</small>
+
+V.- Corresponde al Instituto Potosino del Deporte programar cursos de formación, capacitación y actualización para entrenadores e instructores deportivos y profesores de educación física, y
 
 VI.- Las demás que le otorguen otras disposiciones legales y que sean necesarias para el desarrollo y mejoramiento constante del deporte estatal.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 6o.
 
-Para el cumplimiento de las atribuciones que al Ejecutivo Estatal a través del Instituto Potosino de la Juventud y el Deporte le otorga esta ley, se expedirá el reglamento correspondiente.
+Para el cumplimiento de las atribuciones que al Ejecutivo Estatal, a través del Instituto Potosino del Deporte, le otorga esta Ley, se expedirá el reglamento correspondiente.
 
 ###### ARTICULO 7o.
 
@@ -103,9 +113,11 @@ Es obligatorio estimular en el Sistema Educativo Estatal, la impartición de las
 
 Con el fin de coadyuvar en las tareas y actividades deportivas en forma ordenada y debidamente planificada, se crea el Programa Estatal del Deporte en donde se establecerán los objetivos, metas, estrategias y acciones.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 9o.
 
-El Programa Estatal es el instrumento rector y orientador de las políticas y actividades del Sistema Estatal del Deporte. El Poder Ejecutivo del Estado a través del Instituto Potosino de la Juventud y el Deporte elaborará el Programa Estatal del Deporte, así como los programas operativos anuales.
+El Programa Estatal es el instrumento rector y orientador de las políticas y actividades del Sistema Estatal del Deporte. El Poder Ejecutivo del Estado, a través del Instituto Potosino del Deporte, elaborará el Programa Estatal del Deporte, así como los programas operativos anuales.
 
 ###### ARTICULO 10.
 
@@ -167,13 +179,17 @@ VII. Coadyuvar en el desarrollo de la infraestructura deportiva para personas co
 
 De la Participación de los Municipios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 13.
 
-Con el fin de impulsar, fomentar y desarrollar el deporte, la educación física y la recreación conforme a los objetivos y estrategias de los Planes Nacional y Estatal de Desarrollo, el Ejecutivo a través del Instituto Potosino de la Juventud y el Deporte promoverá la integración y coordinación de los municipios del Estado de San Luis Potosí al Sistema Estatal del Deporte, para la consecución de los siguientes fines:
+Con el fin de impulsar, fomentar y desarrollar el deporte, la educación física y la recreación conforme a los objetivos y estrategias de los Planes Nacional y Estatal de Desarrollo, el Ejecutivo, a través del Instituto Potosino del Deporte, promoverá la integración y coordinación de los municipios del Estado de San Luis Potosí al Sistema Estatal del Deporte, para la consecución de los siguientes fines:
 
 I.- Planear, programar, presupuestar, establecer y coordinar las actividades deportivas en el ámbito municipal incluyendo las zonas urbanas y rurales, dentro del marco del Sistema Estatal del Deporte;
 
-II.- Fomentar programas municipales de carácter deportivo dentro del Sistema Estatal del Deporte, de acuerdo al Programa Estatal elaborado por el Instituto Potosino de la Juventud y el Deporte; y
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2012)</small>
+
+II.- Fomentar programas municipales de carácter deportivo dentro del Sistema Estatal del Deporte, de acuerdo al Programa Estatal elaborado por el Instituto Potosino del Deporte, y
 
 III.- Otorgar estímulos, premios o apoyos económicos a dependencias, organizaciones deportivas, instituciones, entrenadores, investigadores y deportistas que se destaquen en la promoción, organización y práctica de disciplinas deportivas que estén incorporadas al Sistema Estatal del Deporte.
 
@@ -181,9 +197,11 @@ III.- Otorgar estímulos, premios o apoyos económicos a dependencias, organizac
 
 Los municipios del Estado podrán asociarse entre sí o con municipios de otras Entidades Federativas en materia de deporte, previo acuerdo de sus Cabildos y la autorización del Congreso del Estado, en los casos en que corresponda conforme a la ley.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 14.
 
-La incorporación de los municipios al Sistema Estatal del Deporte, se hará mediante la celebración de convenios de coordinación a través del Instituto Potosino de la Juventud y el Deporte.
+La incorporación de los municipios al Sistema Estatal del Deporte, se hará mediante la celebración de convenios de coordinación, a través del Instituto Potosino del Deporte.
 
 ###### ARTICULO 15.
 
@@ -253,9 +271,11 @@ Las ligas deportivas son organizaciones que, en cada especialidad, afilian clube
 
 Las asociaciones deportivas son las organizaciones con carácter estatal o municipal que puedan agrupar a ligas y clubes en cada disciplina.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 27.
 
-Las ligas y clubes deportivos a través de sus asociaciones respectivas, deben registrar ante el Instituto Potosino de la Juventud y el Deporte el programa de sus actividades para su inclusión y seguimiento en el Programa Estatal del Deporte y en los programas operativos anuales.
+Las ligas y clubes deportivos, a través de sus asociaciones respectivas, deben registrar ante el Instituto Potosino del Deporte el programa de sus actividades, para su inclusión y seguimiento en el Programa Estatal del Deporte, y en los programas operativos anuales.
 
 ###### ARTICULO 28.
 
@@ -305,7 +325,9 @@ II.- Cumplir cabalmente con los estatutos de sus organismos y reglamentos de su 
 
 III.- Asistir a competencias de distintos niveles cuando sea requerido;
 
-IV.- Los deportistas inscritos en el registro del Sistema Estatal del Deporte, deberán comunicar por escrito al Instituto Potosino de la Juventud y el Deporte, cuando formen parte de organizaciones o clubes deportivos profesionales;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2012)</small>
+
+IV.- Los deportistas inscritos en el registro del Sistema Estatal del Deporte, deberán comunicar por escrito al Instituto Potosino del Deporte, cuando formen parte de organizaciones o clubes deportivos profesionales;
 
 V.- Representar dignamente a su Municipio, Estado y País en el evento a que se le haya convocado;
 
@@ -325,9 +347,11 @@ IX.- Las demás que sean señaladas por la presente Ley y su reglamento.
 
 Se crea el Registro Estatal del Deporte cuya finalidad es la de inscribir y llevar un registro actualizado de organizaciones deportivas, deportistas, jueces, árbitros, técnicos, entrenadores e instalaciones para la práctica del deporte y eventos deportivos.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 34.
 
-Los requisitos a cubrir para la inscripción en el Registro Estatal del Deporte, así como los lineamientos para su integración y funcionamiento, serán determinados por el Instituto Potosino de la Juventud y el Deporte en el estado, de conformidad con la normatividad nacional.
+Los requisitos a cubrir para la inscripción en el Registro Estatal del Deporte, así como los lineamientos para su integración y funcionamiento, serán determinados por el Instituto Potosino del Deporte en el Estado, de conformidad con la normatividad nacional.
 
 ###### ARTICULO 35.
 
@@ -345,21 +369,27 @@ Para obtener los estímulos, apoyos, gestiones o prerrogativas actuales o futura
 
 Se considera de interés para la sociedad la construcción, conservación, mantenimiento, diversificación, transformación y operación de las instalaciones deportivas, que permitan atender adecuadamente las demandas que requiera el desarrollo del deporte, promoviendo para este fin, la participación de los sectores social y privado.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 38.
 
-Con el propósito de obtener el máximo aprovechamiento de las instalaciones deportivas de uso público, ubicadas en el territorio del Estado, éstas se declaran bajo el control y autoridad del Instituto Potosino de la Juventud y el Deporte.
+Con el propósito de obtener el máximo aprovechamiento de las instalaciones deportivas de uso público, ubicadas en el territorio del Estado, éstas se declaran bajo el control y autoridad del Instituto Potosino del Deporte.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 39.
 
-El Ejecutivo del Estado a través del Instituto Potosino de la Juventud y el Deporte en coordinación con los ayuntamientos, determinará las prioridades para el espacio y uso de las instalaciones públicas que se destinen para la práctica deportiva y de recreación.
+El Ejecutivo del Estado, a través del Instituto Potosino del Deporte, en coordinación con los ayuntamientos, determinará las prioridades para el espacio y uso de las instalaciones públicas que se destinen para la práctica deportiva y de recreación.
 
 ###### ARTICULO 40.
 
 Las personas físicas y morales e instituciones deportivas, que cuenten con instalaciones o espacios propios que utilicen para la práctica del deporte y recreación, deberán registrarlos en el Sistema Estatal del Deporte.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 41.
 
-El Instituto Potosino de la Juventud y el Deporte promoverá el funcionamiento eficiente de instalaciones deportivas de uso público, programándolas de tal manera que presten servicio al mayor número de deportistas.
+El Instituto Potosino del Deporte promoverá el funcionamiento eficiente de instalaciones deportivas de uso público, programándolas de tal manera que presten servicio al mayor número de deportistas.
 
 ###### ARTICULO 42.
 
@@ -377,17 +407,21 @@ En las instalaciones existentes y las que se construyan, se acondicionarán espa
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 45.
 
-Los estímulos y apoyos a que se refiere este capítulo, estarán a cargo del Sistema Estatal del Deporte, a través del Instituto Potosino de la Juventud y el Deporte.
+Los estímulos y apoyos a que se refiere este capítulo, estarán a cargo del Sistema Estatal del Deporte, a través del Instituto Potosino del Deporte.
 
 ###### ARTICULO 46.
 
 Se crea el Fondo Estatal del Deporte, con aportación del Ejecutivo del Estado, los ayuntamientos y los donativos de los sectores social y privado, con el propósito de fomentar y estimular la práctica deportiva.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 47.
 
-El Ejecutivo del Estado a través del Instituto Potosino de la Juventud y el Deporte, podrá gestionar ante las autoridades competentes, que los donativos y esfuerzos materiales que los particulares destinen para el fomento del deporte sean deducibles de impuestos.
+El Ejecutivo del Estado, a través del Instituto Potosino del Deporte, podrá gestionar ante las autoridades competentes, que los donativos y esfuerzos materiales que los particulares destinen para el fomento del deporte sean deducibles de impuestos.
 
 ###### ARTICULO 48.
 
@@ -411,17 +445,23 @@ VI.- Gestoría; y
 
 VII.- Distinciones meritorias y su difusión pública.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 50.
 
-Los apoyos y estímulos se otorgarán conforme a las bases que establezca el Instituto Potosino de la Juventud y el Deporte.
+Los apoyos y estímulos se otorgarán conforme a las bases que establezca el Instituto Potosino del Deporte.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 51.
 
-El Instituto Potosino de la Juventud y el Deporte promoverá las acciones necesarias para la formación, capacitación, actualización y especialización, en el país o en el extranjero, de los instructores que se requieran para la enseñanza y práctica del deporte.
+El Instituto Potosino del Deporte promoverá las acciones necesarias para la formación, capacitación, actualización y especialización, en el país o en el extranjero, de los instructores que se requieran para la enseñanza y práctica del deporte.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 52.
 
-El Ejecutivo del Estado a través del Instituto Potosino de la Juventud y el Deporte, instituirá los Premios Estatales del Deporte en sus diferentes modalidades.
+El Ejecutivo del Estado, a través del Instituto Potosino del Deporte, instituirá los Premios Estatales del Deporte en sus diferentes modalidades.
 
 ###### ARTICULO 53.
 
@@ -431,11 +471,15 @@ El Ejecutivo del Estado creará el Salón de Honor del Deporte Potosino, como un
 
 Los potosinos que por sus merecimientos ingresen al Salón de Honor del Deporte, serán seleccionados a través de propuestas de las organizaciones deportivas de cada una de las diferentes disciplinas.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 55.
 
-El Instituto Potosino de la Juventud y el Deporte establecerá los requisitos, que deberán reunir las propuestas para que, los deportistas distinguidos ingresen al Salón de Honor del Deporte Potosino.
+El Instituto Potosino del Deporte establecerá los requisitos que deberán reunir las propuestas, para que los deportistas distinguidos ingresen al Salón de Honor del Deporte Potosino.
 
 ### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2012)</small>
 
 ## TITULO OCTAVO. DEL SERVICIO MEDICO EN EL DEPORTE
 
@@ -445,11 +489,13 @@ De las Sanciones Administrativas.
 
 ###### ARTICULO 56.
 
-En las competencias autorizadas por el Instituto Potosino de la Juventud y el Deporte, ya sea de carácter municipal, estatal, regional, prenacional o nacional, todo deportista que participe en cualquiera de las disciplinas tendrá derecho a recibir atención médica.
+En las competencias autorizadas por el Instituto Potosino del Deporte, ya sea de carácter municipal, estatal, regional, prenacional o nacional, todo deportista que participe en cualquiera de las disciplinas tendrá derecho a recibir atención médica.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 57.
 
-El Instituto Potosino de la Juventud y el Deporte promoverá los mecanismos de concertación con las instituciones públicas y privadas que integran el Sector Salud, a efecto de que los deportistas a que se refiere el artículo anterior tengan acceso a los servicios médicos.
+El Instituto Potosino del Deporte promoverá los mecanismos de concertación con las instituciones públicas y privadas que integran el Sector Salud, a efecto de que los deportistas a que se refiere el artículo anterior, tengan acceso a los servicios médicos.
 
 ## TITULO NOVENO. DE LAS SANCIONES ADMINISTRATIVAS Y DE LOS RECURSOS EN EL DEPORTE
 
@@ -461,7 +507,9 @@ De los Recursos.
 
 La aplicación de sanciones administrativas por infracciones a esta ley corresponde a:
 
-I.- El Ejecutivo del Estado, a través del Instituto Potosino de la Juventud y el Deporte; y
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2012)</small>
+
+I.- El Ejecutivo del Estado, a través del Instituto Potosino del Deporte, y
 
 II.- A las autoridades deportivas municipales, en el ámbito de su jurisdicción.
 
@@ -577,10 +625,16 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. FERNANDO SILVA NIETO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 20 DE MARZO DE 2001.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE JULIO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o inferior jerarquía jurídica que se opongan al presente Decreto.
