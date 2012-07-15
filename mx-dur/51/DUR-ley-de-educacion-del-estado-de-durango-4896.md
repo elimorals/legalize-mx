@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-educacion-del-estado-de-durango-4896"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-29"
-last_updated: "2012-04-12"
+last_updated: "2012-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 1995.
 
@@ -354,6 +354,14 @@ X.- Vigilar que la educación que impartan los particulares en planteles incorpo
 XI.- Mantener actualizado el Registro de Educandos, Educadores e Instituciones Educativas pertenecientes al Sistema Estatal de Educación; así como de Títulos y Colegios de Profesionistas;
 
 XII.- Expedir constancias y certificaciones de estudios, otorgar diplomas, títulos y grados académicos de las Instituciones Educativas del Sistema Estatal de Educación, conforme a las disposiciones legales aplicables;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE JULIO DE 2012)</small>
+
+En caso de los títulos profesionales que emitan las instituciones de educación particulares en el Estado, deberán ser firmados por la autoridad máxima de dichas instituciones y por el Secretario de Educación en el Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE JULIO DE 2012)</small>
+
+En caso de los títulos profesionales que emitan las Escuelas Normales del Estado, así como de las instituciones de educación pública formadoras de docentes, cuya normatividad requiera de la validación por parte del Gobierno del Estado, en representación de éste, serán firmados por la autoridad máxima de la Institución Educativa y por el Secretario de Educación en el Estado.
 
 XIII.- Otorgar reconocimientos, distinciones, estímulos y recompensas a los educadores que se destaquen en el ejercicio de su profesión, en los términos establecidos en la normatividad correspondiente. Asimismo, realizar actividades que propicien mayor aprecio social por el trabajo del Magisterio;
 
@@ -1894,3 +1902,17 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Dentro del plazo de 90 días después de la publicación del presente Decreto, el Ejecutivo del Estado, por conducto de la Secretaría de Educación, deberá expedir las disposiciones reglamentarias de este Decreto.
 
 TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE JULIO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Educación, contará con 30 días hábiles a partir de la entrada en vigor del presente decreto, para informar oportunamente de las disposiciones adoptadas a la Ley de Educación en el Estado de Durango, en relación a las atribuciones de la propia Secretaría, a la Dirección General del (sic) Educación Superior para Profesionales de la Educación, para los trámites legales correspondientes.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales que se opongan al presente decreto.
