@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-vivienda-del-estado-de-durango-81766"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-22"
-last_updated: "2011-06-23"
+last_updated: "2012-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE VIVIENDA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 22 de mayo de 2011.
 
@@ -613,9 +613,11 @@ La Comisión Estatal de Suelo y Vivienda de Durango promoverá ante los organism
 
 Normas para la regularización territorial
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2012)</small>
+
 ###### Artículo 47.
 
-Todas las acciones de regularización territorial que se realicen en el Estado deberán ajustarse a las siguientes normas:
+Todas las acciones de regularización territorial en el Estado, que se deriven de cualquier tipo de hecho ilícito, deberán acreditar ante la autoridad administrativa previamente al inicio de trámites, que no existe conflicto alguno respecto a la posesión o que ya fue solucionado, o que se cuenta con resolución judicial favorable, y deberán ajustarse a las siguientes normas:
 
 I. Las disposiciones de planeación urbana estatal y municipal aplicables;
 
@@ -630,6 +632,12 @@ V. Tendrán preferencia los poseedores de buena fe de acuerdo a la antigüedad d
 VI. Ninguna persona podrá regularizar más de un lote o predio, y
 
 VII. No se podrá regularizar lote o predio alguno que exceda de la extensión determinada en el programa de regularización correspondiente.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2012)</small>
+
+###### Artículo 47 Bis.
+
+Todas las demás acciones de regularización territorial, que se realicen en el Estado de Durango, deberán cumplir con lo que establece el artículo 47 de la presente Ley en sus fracciones I, II, III, V y VII.
 
 Políticas Inclusivas
 
@@ -848,3 +856,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente decreto.
+
+P.O. 15 DE JULIO DE 2012.
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
