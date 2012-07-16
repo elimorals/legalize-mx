@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-libro-decimo-tercero-del-codigo-35517"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-22"
-last_updated: "2003-12-22"
+last_updated: "2012-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35517&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO DEL LIBRO DECIMO TERCERO DEL CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-REGLAMENTO DEL LIBRO DECIMO TERCERO DEL CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
+REGLAMENTO DEL LIBRO DÉCIMO TERCERO DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE JULIO DE 2012.
 
 Reglamento publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 22 de diciembre de 2003.
 
@@ -171,9 +171,11 @@ De presentarse modificaciones a dicha información, las dependencias, entidades 
 
 ## TITULO TERCERO. DE LAS OPERACIONES CONSOLIDADAS
 
+> <small>(REFORMADO, G.G. 16 DE JULIO DE 2012)</small>
+
 ###### Artículo 13.
 
-La Secretaría establecerá los instrumentos de ejecución y control administrativo del sistema de operaciones consolidadas de las dependencias del Poder Ejecutivo.
+La Secretaría establecerá los instrumentos de ejecución y control administrativo del sistema de operaciones consolidadas de las dependencias y entidades del Poder Ejecutivo.
 
 ###### Artículo 14.
 
@@ -206,6 +208,10 @@ XII. Adquisición de aeronaves y equipo;
 XIII. Adquisición de equipo de cómputo;
 
 XIV. Adquisición de materiales para construcción.
+
+> <small>(ADICIONADA, G.G. 16 DE JULIO DE 2012)</small>
+
+XV. Bienes producidos por sociedades cooperativas, de producción rural, de interés colectivo, de solidaridad social, sociedades y asociaciones de fin social cuyo objeto no sea preponderantemente lucrativo, producidos en el Estado de México y adquiridos directamente a éstas.
 
 La convocante podrá instaurar y substanciar procedimientos de operaciones consolidadas, atendiendo a los requerimientos de las dependencias.
 
@@ -1582,3 +1588,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 16 DE JULIO DE 2012.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que sean contrarias a las establecidas en el presente Acuerdo.
