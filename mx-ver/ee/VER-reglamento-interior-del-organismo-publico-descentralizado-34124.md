@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-del-organismo-publico-descentralizado-34124
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-25"
-last_updated: "2003-09-25"
+last_updated: "2012-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34124&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # REGLAMENTO INTERIOR DEL ORGANISMO PUBLICO DESCENTRALIZADO RADIOTELEVISION DE VERACRUZ
 
-REGLAMENTO INTERIOR DEL ORGANISMO PÚBLICO DESCENTRALIZADO RADIOTELEVISION DE VERACRUZ
+REGLAMENTO INTERIOR DEL ORGANISMO PÚBLICO DESCENTRALIZADO RADIOTELEVISIÓN DE VERACRUZ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL ORGANISMO PÚBLICO DESCENTRALIZADO RADIOTELEVISIÓN DE VERACRUZ, PUBLICADO EN LA G.O. DE 16 DE JULIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el jueves 25 de septiembre de 2003.
 
@@ -630,3 +632,21 @@ RICARDO GARCÍA GUZMÁN
 CONTRALOR GENERAL
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 16 DE JULIO DE 2012.
+
+Artículo primero. Este Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Se abroga el Reglamento Interior del Organismo Público Descentralizado RADIOTELEVISIÓN DE VERACRUZ identificado con folio 913, así como el folio 914, publicados con fecha 25 de septiembre de 2003, en la Gaceta Oficial del estado.
+
+Artículo tercero. El Organismo expedirá en un plazo no mayor de ciento ochenta días, contados a partir de la entrada en vigor del presente Reglamento, los Manuales de Organización y Procedimientos.
+
+Artículo cuarto. En tanto se expidan los Manuales de Organización y Procedimientos, el Director General estará facultado para resolver las cuestiones que dichos documentos deben regular.
+
+Artículo quinto. Para la modificación del presente Reglamento, la Junta de Gobierno podrá reunirse en forma ordinaria o extraordinaria, según las necesidades Institucionales, para dictaminar acerca de un proyecto de reforma.
+
+Artículo sexto. Para su validez, toda reforma al presente Reglamento, se publicará en la Gaceta Oficial del estado y en la tabla de avisos de las instalaciones del Organismo.
+
+Artículo séptimo. Se derogan todas las disposiciones que se opongan al presente Reglamento.
