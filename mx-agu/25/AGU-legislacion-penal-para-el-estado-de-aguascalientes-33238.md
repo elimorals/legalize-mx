@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2012-03-05"
+last_updated: "2012-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACIÓN PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2012.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -1864,6 +1864,18 @@ La obligación de pagar la reparación de los daños y perjuicios es preferente 
 ###### Artículo 106.
 
 El pago de la reparación de los daños y perjuicios tiene el carácter de pena pública y siempre se exigirá su pago por el Ministerio Público en todo procedimiento penal, y los tribunales y autoridades competentes, no podrán absolver al responsable del pago de dicha reparación, si se ha emitido una sentencia condenatoria o si se determina la aplicación de medida de seguridad.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2012)</small>
+
+El incidente de ejecución de la reparación de daños y perjuicios se iniciará de oficio por la autoridad judicial, una vez que la sentencia haya causado ejecutoria. Su inicio se notificará personalmente a las partes para el efecto de que, en un término común de quince días hábiles, ofrezcan las pruebas que permitan cuantificar su monto, o manifiesten su desinterés en proponerlas. Desahogada la prueba ofrecida, o en caso de no haberse propuesto, la autoridad judicial resolverá el incidente.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2012)</small>
+
+Para cuantificar la obligación de reparar el daño, se tomará en cuenta el monto de cualquier erogación efectuada o futura que se acredite, con el fin de que se restablezcan las cosas al estado en que se encontraban antes de la comisión del hecho punible, en los casos en que esto sea factible.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2012)</small>
+
+El incidente se tramitará por una sola vez, y su duración no podrá exceder de sesenta días hábiles, contados a partir de la notificación de su apertura hasta su total conclusión.
 
 ###### Artículo 107.
 
@@ -3767,9 +3779,9 @@ b) Informar el inculpado de la existencia del hecho punible a las autoridades co
 
 c) Reparar el inculpado los daños y perjuicios ocasionados, o disminuir sus efectos, antes de que se dicte sentencia, o se encuentre en el supuesto procesal establecido en el artículo 342.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2012)</small>
 
-Par (sic) efecto, se consideran circunstancias Agravantes, aplicables a todos los hechos punibles:
+Para el efecto, se consideran circunstancias agravantes, aplicables a todos los hechos punibles:
 
 a) Realizar la conducta con Alevosía, mediante disfraz, con abuso de superioridad o aprovechando las circunstancias de lugar, tiempo o falta de auxilio, que debiliten la defensa de la víctima o la impunidad del inculpado;
 
@@ -3777,13 +3789,15 @@ b) Realizar la conducta mediante precio o recompensa;
 
 c) Aumentar deliberadamente el sufrimiento de la víctima, causando a ésta padecimientos innecesarios durante la ejecución de la conducta;
 
-d) Obrar con abuso de confianza;
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2012)</small>
+
+d) Que el inculpado aproveche o se valga de la confianza de la víctima hacia su persona.
 
 > <small>(REFORMADO, P.O. 23 DE ABRIL DE 2007)</small>
 
 e) Pertenecer o haber pertenecido el inculpado a un cuerpo de seguridad pública o privada;
 
-f) Tener el inculpado antecedentes de ser persona conflictiva para la sociedad, según informes que proporcionen al respecto las autoridades policíacas, o ser reincidente, según informes que proporcione al respecto la autoridad encargada de la aplicación de las penas y medidas de seguridad previstas en la presente legislación, a las que la propia autoridad jurisdiccional obtenga por informes de las instituciones del Poder Judicial;
+f) (DEROGADO, P.O. 16 DE JULIO DE 2012)
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -4719,7 +4733,7 @@ XXIII. Ejercicio Indebido del Servicio Público, previsto en las Fracciones XXXI
 
 XXIV. Uso indebido de llamadas telefónicas para movilizar los sistemas de respuesta de emergencia, previsto en el Artículo 91 G si la conducta del infractor provoca un accidente o daños a consecuencia de su llamada falsa;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2009)</small>
 
@@ -6002,3 +6016,9 @@ P.O. 5 DE MARZO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 16 DE JULIO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
