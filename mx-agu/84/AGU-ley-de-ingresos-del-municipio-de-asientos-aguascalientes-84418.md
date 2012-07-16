@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-municipio-de-asientos-aguascalientes-84418"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2011-12-31"
-last_updated: "2011-12-31"
+last_updated: "2012-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE INGRESOS DEL MUNICIPIO DE ASIENTOS, AGS., PARA EL EJERCICIO FISCAL 2012
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2012.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el sábado 31 de diciembre de 2011.
 
