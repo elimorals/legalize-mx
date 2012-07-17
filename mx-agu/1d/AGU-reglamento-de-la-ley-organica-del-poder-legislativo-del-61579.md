@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-la-ley-organica-del-poder-legislativo-del-61579"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-16"
-last_updated: "2010-11-15"
+last_updated: "2012-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
+REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2012.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de junio de 2008.
 
@@ -651,17 +651,17 @@ Si del estudio y análisis se desprende que existen diversos preceptos u ordenam
 
 Si al momento del estudio y análisis de un asunto, la comisión advierte que involucra la materia o competencia de otras comisiones, el Presidente deberá hacerlo del conocimiento del Pleno para que lo turne a las comisiones correspondientes.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2012)</small>
+
 ###### ARTÍCULO 51.
 
-Cuando alguna comisión detecte que por razones de materia u ordenamiento existan varias iniciativas en estudio, la comisión o comisiones podrán solicitar su acumulación a fin de que las mismas sean resueltas en un solo dictamen.
+La comisión o comisiones podrán acumular iniciativas cuando se traten de una misma materia u ordenamiento, a fin de que las mismas sean resueltas en un Dictamen.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2012)</small>
 
 ###### ARTÍCULO 52.
 
-Para la acumulación de iniciativas, la comisión o comisiones dictaminadoras lo solicitarán al Pleno mediante acuerdo legislativo bajo las siguientes reglas:
-
-I. La acumulación inicia con la fecha de la primer iniciativa presentada materia de la acumulación, hasta la que se presente a más tardar sesenta días posteriores a dicha fecha; y
-
-II. Los términos para la dictaminación a los que se refiere este Reglamento, iniciarán a partir de la fecha de presentación de la última iniciativa, por lo que la aprobación del acuerdo legislativo tiene efectos suspensivos para la dictaminación de las iniciativas materia de la acumulación.
+Cuando la comisión o comisiones acumulen iniciativas, los términos para dictaminar se computarán a partir de la fecha de presentación de la última.
 
 ###### ARTÍCULO 53.
 
@@ -997,7 +997,9 @@ V. Uno de los Secretarios dará lectura en voz alta a todas y cada una de las c�
 
 VI. El Presidente dará a conocer al Pleno Legislativo, el resultado de la votación.
 
-Los integrantes de la Mesa Directiva no podrán ser reelectos en sus cargos o en cargos distintos para el período ordinario o extraordinario siguiente, ni para estos dentro de la Diputación Permanente.
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2012)</small>
+
+A excepción del Presidente, los integrantes de la Mesa Directiva podrán ser reelectos en sus cargos o en cargos distintos para el período inmediato siguiente.
 
 #### SECCIÓN PRIMERA. Del Presidente
 
@@ -1419,13 +1421,21 @@ VI. Los Secretarios darán lectura a los asuntos en cartera y el Presidente acor
 
 VII. Se dará lectura a los dictámenes, votos particulares, propuestas y puntos de acuerdo, que rindan las comisiones o presenten los Diputados y se procederá a su debate y votación, para lo cual se acatarán las disposiciones contenidas en este Reglamento, ordenándose la expedición de los decretos, acuerdos, leyes o reglamentos que correspondan;
 
-VIII. Se tratarán los Asuntos Generales, para lo cual la Presidencia de la Mesa Directiva, en coordinación con la Vicepresidencia, realizarán la insaculación de las boletas previamente registradas por los Diputados, en el transcurso correspondiente a la lectura y en su caso aprobación del acta y en el desahogo de los asuntos en cartera.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2012)</small>
 
-Las participaciones de (sic) desahogarán conforme al registro que realice el Presidente de acuerdo a la insaculación; los Diputados ausentes sin permiso de la Presidencia, no presentes al momento de su participación, perderán el derecho a realizarlo con posterioridad.
+VIII. Tratándose de Puntos de Acuerdo, deberán presentarse ante la Comisión de Gobierno cuarenta y ocho horas antes de la sesión plenaria en la cual se vaya a tratar el asunto, una vez presentados, dicha Comisión analizará el asunto, el cual, se incluirá en el Orden del Día de la próxima sesión ordinaria;
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2012)</small>
+
+IX. Se tratarán los Asuntos Generales, para lo cual la Presidencia de la Mesa Directiva, en coordinación con la Vicepresidencia, realizarán la insaculación de las boletas previamente registradas por los Diputados, en el transcurso correspondiente a la lectura y en su caso aprobación del acta y en el desahogo de los asuntos en cartera.
+
+Las participaciones se desahogarán conforme al registro que realice el Presidente de acuerdo a la insaculación; los Diputados ausentes sin permiso de la Presidencia, no presentes al momento de su participación, perderán el derecho a realizarlo con posterioridad.
 
 Las promociones y peticiones realizadas en el apartado de Asuntos Generales, deberán presentarse por escrito a fin de dar su trámite legal correspondiente; y
 
-IX. El Presidente citará para la próxima sesión y declarará clausurados los trabajos de la sesión, señalando la fecha y hora exactas de su conclusión.
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2012)</small>
+
+X. El Presidente citará para la próxima sesión y declarará clausurados los trabajos de la sesión, señalando la fecha y hora exactas de su conclusión.
 
 ###### ARTÍCULO 138.
 
@@ -1467,9 +1477,11 @@ La Diputación Permanente se integra por cinco Diputados Propietarios con voz y 
 
 Se elegirán junto con los propietarios a tres Diputados suplentes, a quienes se les elegirá como primer, segundo y tercer suplente y en ese orden, entrarán en funciones ante las ausencias de los primeros.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2012)</small>
+
 ###### ARTÍCULO 141.
 
-La Mesa Directiva de la Diputación Permanente, se integrará con un Presidente, un Vicepresidente, dos Secretarios, un Prosecretario y tres Suplentes, quienes durarán en sus funciones el período de sesiones del receso de que se trate y sus miembros no podrán ser reelectos en sus cargos o cargos distintos para el período ordinario o del período de la Diputación Permanente inmediato siguiente.
+La Mesa Directiva de la Diputación Permanente, se integrará con un Presidente, un Vicepresidente, dos Secretarios, un Prosecretario y tres Suplentes, quienes durarán en sus funciones el período de sesiones del receso de que se trate y sus miembros podrán ser reelectos a excepción del Presidente quien en el período inmediato sólo podrá ser designado para un cargo distinto.
 
 La falta del Presidente será cubierta por el Vicepresidente; la de éste por un Secretario; y la de los Secretarios por el Prosecretario y la de este último por los Suplentes de acuerdo al orden en que fueron electos.
 
@@ -1501,11 +1513,23 @@ IX. Intervenir, erigido en Gran Jurado y de acuerdo con las prevenciones de la C
 
 X. Las demás que le confiere la Constitución.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2012)</small>
+
 ###### ARTÍCULO 143.
 
-La Diputación Permanente conocerá de asuntos generales, en los cuales no habrá debate; de plantearse un Punto de Acuerdo, Peticiones o Iniciativas, éstas serán turnadas a la comisión correspondiente, para que lo presente dentro del período ordinario de sesiones correspondiente, salvo los casos previstos en la Constitución y la propia Ley.
+La Diputación Permanente conocerá de asuntos generales bajo los siguientes lineamientos:
 
-La Diputación Permanente podrá mediante el voto unánime de sus integrantes, acordar realizar pronunciamientos en relación con temas urgentes que así reclamen una actuación del Congreso del Estado.
+I. El registro para participar dentro del apartado de Asuntos Generales, será en términos de la Fracción IX del Artículo 137 del presente Reglamento;
+
+II. El Presidente de la Mesa Directiva de la Diputación Permanente concederá el uso de la palabra a cada Diputado hasta por diez minutos en el orden en que se realizó el registro;
+
+III. Cuando un Diputado haya expuesto un posicionamiento, pronunciamiento o tema de interés general, el Presidente de la Mesa Directiva abrirá el debate correspondiente por lo que cada integrante de la Diputación Permanente podrá participar en dos ocasiones y hasta por cinco minutos en base al registro que para tal efecto realice el propio Presidente de la Mesa Directiva.
+
+Quien intervenga en términos del párrafo anterior, no quedará impedido para participar en los Asuntos Generales en virtud del registro que haya realizado la Presidencia al inicio del apartado de Asuntos Generales.
+
+De plantearse Puntos de Acuerdo, Peticiones o Iniciativas, éstas serán turnadas a la comisión o comisiones competentes, para que lo presente dentro del período ordinario de sesiones correspondiente, salvo los casos previstos en la Constitución y la propia Ley.
+
+La Diputación Permanente podrá acordar, mediante el voto unánime de sus integrantes, realizar pronunciamientos en relación con temas urgentes que reclamen la actuación del Congreso del Estado.
 
 ### CAPÍTULO X. De los Debates en el Pleno
 
@@ -1587,13 +1611,25 @@ Para los efectos de este Capítulo, se entiende por alusiones personales, a la e
 
 Durante los debates, cualquier Diputado podrá intervenir para solicitar aclaraciones explicaciones al promovente de la iniciativa, si este es un Diputado, o a la comisión dictaminadora, siempre y cuando sean aceptadas por el Diputado que esté en uso de la palabra; una vez resuelto el punto, continuará el debate.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2012)</small>
+
 ###### ARTÍCULO 154.
 
-En asuntos generales no habrá debate, pero sí podrá haber algún Punto de Acuerdo, bajo las siguientes consideraciones:
+En asuntos generales podrán presentarse Iniciativas, Puntos de Acuerdo, Posicionamientos, Pronunciamientos y temas de interés general por parte de los Diputados, bajo las siguientes consideraciones:
 
-I. Una vez que se presente el Punto de Acuerdo, será analizado, estudiado, debatido y votado en la próxima sesión ordinaria; y
+I. Respecto de Iniciativas de ley o reformas, una vez leídas o expuestas, serán turnadas a la o las comisiones correspondientes, en términos del Artículo 119 de la Ley;
 
-II. Cuando se solicite que un Punto de Acuerdo, sea considerado urgente y de obvia resolución, deberá darse conocimiento a la Mesa Directiva con 48 horas de anticipación a la sesión ordinaria en la que se pretenda desahogar; y tendrá que ser aprobado por la mayoría calificada del Pleno Legislativo.
+II. En cuanto a los Puntos de Acuerdo que se presenten ante el Pleno en el apartado de asuntos generales, la Mesa Directiva lo turnará para incluirse en el Orden del Día de la siguiente sesión ordinaria del Pleno Legislativo;
+
+III. Los posicionamientos, pronunciamientos o temas de interés general que se expongan ante el Pleno que no requieran votación, se presentarán por el Diputado, contando con una participación de hasta diez minutos.
+
+La Presidencia de la Mesa Directiva, someterán a discusión y debate el tema propuesto, procediendo a realizar el registro de participación a favor o en contra, por lo que los Grupos Parlamentarios y Fuerzas Políticas podrán registrar hasta dos Diputados para hacer uso de la palabra hasta por cinco minutos cada uno, dentro de los cuales deberán centrar su participación y argumentación sobre el tema a debate.
+
+El Diputado que presente un posicionamiento, pronunciamiento o tema de interés general, podrá hacer uso de la palabra hasta por cinco minutos para realizar las réplicas correspondientes a los legisladores que hayan participado en la discusión.
+
+Los diputados que hubieren hecho uso de la palabra, podrán intervenir por una segunda ocasión, y el promovente concluirá realizando la réplica final del tema a debate, con lo cual se tendrá como suficientemente discutido.
+
+El Diputado que intervenga en términos de esta Fracción, podrá participar en asuntos generales en virtud del registro que haya realizado ante la Presidencia al inicio de ese apartado.
 
 Para el uso de la voz en esta etapa, los Diputados intervendrán en el orden en que fueron registrados para tal efecto, cualquier alteración del orden de registro, podrá denunciarse al Presidente de la Mesa Directiva para que tome las medidas conducentes.
 
@@ -1971,7 +2007,7 @@ Patricia Lucio Ochoa,
 
 DIPUTADA SEGUNDA SECRETARIA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 19 DE JULIO DE 2010.
 
@@ -1988,3 +2024,27 @@ P.O. 15 DE NOVIEMBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+DECRETO No. 218, POR EL QUE SE REFORMAN LAS FRACCIONES VIII, IX Y SE ADICIONA LA FRACCIÓN X AL ARTICULO 137; ASIMISMO, SE REFORMAN LOS ARTÍCULOS 143 Y 154 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES.
+
+P.O. 17 DE JULIO DE 2012.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+DECRETO No. 219, POR EL QUE SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 106 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 141 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES.
+
+P.O. 17 DE JULIO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE JULIO DE 2012.
+
+DECRETO No. 220, POR EL QUE SE REFORMAN LOS ARTÍCULOS 51 Y 52 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
