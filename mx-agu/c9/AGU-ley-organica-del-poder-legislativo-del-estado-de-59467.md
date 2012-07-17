@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-59467"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-02-04"
-last_updated: "2012-06-25"
+last_updated: "2012-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2012.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de febrero de 2008.
 
@@ -373,9 +373,11 @@ El Pleno Legislativo del Congreso del Estado sólo podrá ejercer sus funciones 
 
 #### SECCIÓN PRIMERA. De su integración
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2012)</small>
+
 ###### ARTÍCULO 35.
 
-La Mesa Directiva del Congreso del Estado se integrará con un Presidente, un Vicepresidente, un Primer Secretario, un Segundo Secretario y un Prosecretario; durará en sus funciones el período de sesiones ordinario o extraordinario, y sus miembros no podrán ser reelectos en sus cargos o cargos distintos para el período inmediato siguiente.
+La Mesa Directiva del Congreso del Estado se integrará con un Presidente, un Vicepresidente, un Primer Secretario, un Segundo Secretario y un Prosecretario; durará en sus funciones el período de sesiones ordinario o extraordinario, y sus miembros podrán ser reelectos a excepción del Presidente quien en el período inmediato sólo podrá ser designado para un cargo distinto.
 
 ###### ARTÍCULO 36.
 
@@ -1157,9 +1159,7 @@ VIII. Otros análogos, que a juicio del Presidente del Congreso o de la Diputaci
 
 > <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
 
-###### ARTÍCULO 87 Bis.
-
-Corresponde a la Comisión de la Juventud, el estudio y Dictamen de los siguientes asuntos:
+ARTÍCULO 87 BIS.- Corresponde a la Comisión de la Juventud, el estudio y Dictamen de los siguientes asuntos:
 
 I. Las normas jurídicas relacionadas con la juventud;
 
@@ -1171,9 +1171,7 @@ IV. Otros análogos que a juicio del Presidente del Congreso o de la Diputación
 
 > <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
 
-###### ARTICULO 87 Ter.
-
-Corresponde a la Comisión de Fomento Cooperativo y Economía Social, el estudio y Dictamen de los siguientes asuntos:
+ARTÍCULO 87 TER.- Corresponde a la Comisión de Fomento Cooperativo y Economía Social, el estudio y Dictamen de los siguientes asuntos:
 
 I. Las normas jurídicas en el ámbito del Estado, relativas al comercio justo;
 
@@ -1185,9 +1183,7 @@ IV. Otros análogas que a juicio del Presidente del Congreso o de la Diputación
 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-###### ARTICULO 87 Quater.
-
-Corresponde a la Comisión de Desarrollo Metropolitano el Estudio y Dictamen de los siguientes Asuntos:
+ARTÍCULO 87 QUATER.- Corresponde a la Comisión de Desarrollo Metropolitano el Estudio y Dictamen de los siguientes Asuntos:
 
 I. Legislar en materia de Desarrollo Metropolitano y de zonas conurbadas;
 
@@ -1259,7 +1255,9 @@ II. Rendir un informe semestral de sus actividades a la Comisión de Gobierno y 
 
 III. Organizar y mantener un archivo de todos los asuntos que les sean turnados, siendo responsable el Presidente de la Comisión. Dicho archivo deberá ser entregado a la Legislatura siguiente;
 
-IV. Sesionar cuando menos dos veces al mes;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2012)</small>
+
+IV. Sesionar cuando menos una vez al mes;
 
 V. Resolver los asuntos que la Mesa Directiva del Congreso les turne en un plazo no mayor de quince días naturales contados a partir de la fecha en la cual le fueron remitidos. Transcurrido este plazo el Presidente del Congreso o la Diputación Permanente, por sí o a petición de un Diputado, solicitará información sobre las causas y razones por las cuales no se han dictaminado los asuntos. Este plazo podrá ser prorrogado con petición por escrito, detallando las causas;
 
@@ -1988,3 +1986,19 @@ P.O. 25 DE JUNIO DE 2012
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE JULIO DE 2012.
+
+DECRETO NÚMERO 219 POR LO QUE SE REFORMA EL ARTÍCULO 35 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE JULIO DE 2012.
+
+DECRETO NÚMERO 220 POR LO QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 94 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
