@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-14456
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-06-11"
-last_updated: "2012-01-10"
+last_updated: "2012-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NUM. 286
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE SEPTIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE GUERRERO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 286
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 11 de junio de 1999.
 
@@ -359,13 +361,17 @@ La calificación de la elección de los Diputados se efectuará por el Organo El
 
 ### Capítulo II. De la instalación de la Legislatura al Congreso del Estado
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2012)</small>
+
 ###### Artículo 17.
 
-El Congreso del Estado, antes de clausurar el último período ordinario de sesiones de cada Legislatura, nombrará, de entre sus miembros, una Comisión Instaladora de la Legislatura que deba sucederla, cuya integración será de carácter plural.
+El Congreso del Estado, cuarenta y cinco días antes de que concluya la legislatura, nombrará de entre sus miembros y a propuesta de la Comisión de Gobierno, una Comisión Instaladora de la Legislatura que deba sucederla, cuya integración será de carácter plural.
 
 La Comisión estará integrada por cinco miembros en el orden siguiente: un Presidente, dos Secretarios y dos suplentes primero y segundo, quienes entrarán en funciones sólo cuando falte cualquiera de los tres propietarios.
 
 La Cámara de Diputados comunicará al Consejo Estatal Electoral y al Tribunal Electoral del Estado la designación de la Comisión a que se refiere este artículo.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE SEPTIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE GUERRERO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### Artículo 18.
 
@@ -373,11 +379,15 @@ La Comisión Instaladora tendrá a su cargo las siguientes funciones:
 
 I. Recibir de la Oficialía Mayor copias certificadas de las constancias de mayoría y las de asignación expedidas por los organismos electorales competentes, así como la documentación electoral que corresponda, en los términos de la legislación electoral del Estado y, en su caso, las resoluciones del Tribunal Electoral del Estado;
 
-II. Reunirse a más tardar cinco días antes del 15 de noviembre del año de la renovación, para verificar la documentación a que se refiere la fracción anterior. Si a las doce horas del día diez de noviembre del año de la renovación, el Presidente no ha convocado a reunión, lo podrán hacer los diputados integrantes de la Comisión en el orden de prelación en que hayan sido designados;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2012)</small>
+
+II. Reunirse a más tardar cinco días antes de la instalación de la nueva legislatura, para verificar la documentación a que se refiere la fracción anterior. Si a las doce horas del quinto día previo a la renovación, el Presidente no ha convocado a reunión, lo podrán hacer los diputados integrantes de la Comisión en el orden de prelación en que hayan sido designados;
 
 III. Expedir las credenciales que acrediten a los Diputados electos, de conformidad con las constancias y, en su caso, las resoluciones a que se refiere la fracción I de este artículo. Las credenciales serán firmadas por el Presidente y Secretarios de la Comisión;
 
-IV. Citar, por conducto de su Presidente, a los Diputados electos, tres días antes de la instalación de la Legislatura a junta preparatoria, con el único objeto de elegir a la Mesa Directiva que presidirá los trabajos correspondientes al primer mes del ejercicio constitucional, citando en el mismo acto a la sesión de instalación de la nueva Legislatura, para el día 15 de noviembre del año de la renovación.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2012)</small>
+
+IV. Citar, por conducto de su Presidente, a los Diputados electos, tres días antes de la instalación de la Legislatura a junta preparatoria, con el único objeto de elegir a la Mesa Directiva que presidirá los trabajos correspondientes al primer mes del ejercicio constitucional, citando en el mismo acto a la sesión de instalación de la nueva Legislatura, para el día que señala la Constitución Política Local.
 
 En caso de que a la junta preparatoria no concurra la mayoría de los Diputados electos, se citará para el día siguiente, en términos de lo dispuesto por el artículo 40 de la Constitución Política del Estado;
 
@@ -1463,11 +1473,11 @@ En los períodos siguientes al de la instalación de la Legislatura y antes de c
 
 Una vez instalada la Mesa Directiva se procederá a comunicarlo a los Poderes Ejecutivo y Judicial del Estado, a los Ayuntamientos de la Entidad, así como a los Poderes de la Unión.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2012)</small>
 
 ###### Artículo 100.
 
-El Congreso del Estado se reunirá en tres períodos ordinarios de sesiones por año de ejercicio. El primero iniciará el 15 de noviembre y se clausurará el 15 de febrero del año siguiente; el segundo, se instalará el 1º de abril y concluirá el 15 de junio y el tercero, se llevará a cabo del 1º de septiembre al 15 de octubre del mismo año.
+El Congreso del Estado se reunirá en tres periodos de sesiones ordinarias por año de ejercicio. El primero se iniciará el 13 de Septiembre y se clausurará el 15 de Enero; el segundo se iniciará el 1° de Marzo y se clausurará el 15 de Mayo y el tercero el 15 de Junio y se clausurará el 30 de Julio. Estos periodos podrán prorrogarse por el tiempo que acuerde el Congreso y lo requiera la importancia de los asuntos en trámite. En caso de que por alguna circunstancia no pudieran instalarse o clausurarse los periodos de sesiones en los días señalados, estos actos se verificarán en la forma que acuerde la legislatura.
 
 Durante los recesos, el Congreso podrá celebrar períodos extraordinarios de sesiones, previa convocatoria formulada por la Comisión Permanente a solicitud de la mayoría de sus integrantes o del Gobernador del Estado. La convocatoria respectiva fijará la fecha de inicio del período y el o los asuntos a tratar durante el mismo.
 
@@ -2682,3 +2692,21 @@ P.O. 10 DE ENERO DE 2012.
 PRIMERO. El presente Decreto entrará en vigor a partir de la fecha de su aprobación.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado y en la página web, para su conocimiento y efectos legales procedentes, en términos del artículo 1°, segundo párrafo de la Ley Orgánica del Poder Legislativo del Estado vigente en la Entidad.
+
+P.O. 17 DE JULIO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir de su aprobación.
+
+###### ARTÍCULO SEGUNDO.
+
+La reforma al artículo 100 entrará en vigor a partir del 13 de septiembre del presente año.
+
+###### ARTÍCULO TERCERO.
+
+Por única ocasión, la Comisión Instaladora de la Legislatura, se nombrará a más tardar el 15 de Junio del 2012, a propuesta de la Comisión de Gobierno de Esta Legislatura.
+
+###### ARTÍCULO CUARTO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado, no requiriendo la sanción del Titular del Poder Ejecutivo Estatal.
