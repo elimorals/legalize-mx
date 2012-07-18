@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-los-derechos-3400
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-29"
-last_updated: "2012-05-21"
+last_updated: "2012-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34003&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-08-12"
 
 REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE JULIO DE 2012.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 29 de septiembre de 2003.
 
@@ -243,11 +243,13 @@ Las visitadurías generales son los órganos sustantivos de la Comisión Naciona
 
 La Secretaría Ejecutiva y la Secretaría Técnica del Consejo Consultivo auxiliarán a la Presidencia de la Comisión Nacional de conformidad con este Reglamento.
 
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2012)</small>
+
 ###### Artículo 20.
 
 (Ausencias temporales del presidente de la Comisión Nacional)
 
-Durante las ausencias temporales del presidente de la Comisión Nacional, sus funciones y su representación legal serán ejercidas por el primer visitador general, en ausencia de éste por el segundo visitador general o, en su caso, el tercer, cuarto o quinto visitadores generales, en su orden.
+Durante las ausencias temporales del presidente de la Comisión Nacional, sus funciones y su representación legal serán ejercidas por el primer visitador general, en ausencia de éste por el segundo visitador general o, en su caso, el tercer, cuarto, quinto o sexto visitadores generales, en su orden.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE MAYO DE 2012)</small>
 
@@ -629,11 +631,13 @@ La Secretaría Particular dependerá directamente del Presidente de la Comisión
 
 ### CAPITULO III. ORGANO INTERNO DE CONTROL
 
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2012)</small>
+
 ###### Artículo 37.
 
 (Del Organo Interno de Control)
 
-La Comisión Nacional contará con un Organo Interno de Control que estará a cargo de un titular designado por el presidente de la Comisión Nacional y ejercerá las facultades y atribuciones a que hacen referencia la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, el presente Reglamento y las disposiciones legales aplicables.
+La Comisión Nacional contará con un Organo Interno de Control que estará a cargo de un titular designado por el Presidente de la Comisión Nacional y ejercerá las facultades y atribuciones a que hacen referencia la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, la Ley Federal Anticorrupción en Contrataciones Públicas, el presente Reglamento y las demás disposiciones legales aplicables.
 
 ###### Artículo 38.
 
@@ -655,9 +659,9 @@ V. Establecer las políticas que regirán las contrataciones de auditores extern
 
 VI. Recibir, registrar y custodiar las declaraciones de situación patrimonial que presenten los servidores públicos de la Comisión Nacional en términos de las disposiciones legales aplicables e intervenir en los actos de entrega y recepción del cargo;
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2012)</small>
 
-VII. Recibir y atender las quejas y denuncias administrativas que se presenten en contra de los servidores públicos de la Comisión Nacional, sustanciar los procedimientos respectivos, fincar las responsabilidades a que haya lugar y aplicar e imponer las sanciones que correspondan de acuerdo con lo dispuesto por la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y por este Reglamento Interno en lo que a la ejecución de sanciones administrativas se refiere;
+VII. Recibir y atender las quejas y denuncias administrativas que se presenten en contra de los servidores públicos de la Comisión Nacional, y denuncias por infracciones en que incurran personas físicas o morales, nacionales o extranjeras, que participen o hayan participado en contrataciones públicas de este organismo, así como sustanciar los procedimientos respectivos, fincar las responsabilidades a que haya lugar y aplicar e imponer las sanciones que correspondan de acuerdo con lo dispuesto por la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, la Ley Federal Anticorrupción en Contrataciones Públicas, y por este Reglamento Interno en lo que a la ejecución de sanciones se refiere;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 28 DE JUNIO DE 2007)</small>
 
@@ -693,9 +697,9 @@ III. Evaluación y Gestión.
 
 Además, contará con el personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 28 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2012)</small>
 
-El Titular del área de Responsabilidades, Inconformidades y Normatividad tendrá atribuciones para recibir, registrar y tramitar las quejas y denuncias que se presenten en contra de servidores públicos de la Comisión Nacional; sustanciar los procedimientos de investigación y de responsabilidad, en los términos previstos por la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos; recibir y tramitar las inconformidades que presenten los particulares en contra de actos del procedimiento de contratación que pudieran contravenir las disposiciones de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, o de la Ley de Obras Públicas y Servicios Relacionadas con las Mismas; formular los proyectos de resolución que correspondan a los procedimientos anteriores, y someterlos a la consideración del Titular del Organo Interno de Control. En su caso, las sanciones que resulten se aplicarán y ejecutarán de acuerdo a lo dispuesto en este Reglamento Interno.
+El Titular del Area de Responsabilidades, Inconformidades y Normatividad tendrá atribuciones para recibir, registrar y tramitar las quejas y/o denuncias que se presenten en contra de servidores públicos de la Comisión, en contra de personas físicas o morales, nacionales o extranjeras, que participen o hayan participado en contrataciones públicas de este organismo; sustanciar los procedimientos administrativos de investigación, disciplinario y sancionador, en los términos previstos por la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y la Ley Federal Anticorrupción en Contrataciones Públicas, así como recibir y tramitar las inconformidades que presenten los particulares en contra de actos del procedimiento de contratación que pudieran contravenir las disposiciones de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, o de la Ley de Obras Públicas y Servicios Relacionadas con las Mismas; formular los proyectos de resolución que correspondan a los procedimientos anteriores, y someterlos a consideración del Titular del Organo Interno de Control. En su caso, las sanciones que resulten se aplicarán y ejecutarán de acuerdo a lo dispuesto en este Reglamento Interno.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 28 DE JUNIO DE 2007)</small>
 
@@ -851,11 +855,13 @@ Además, contará con el personal profesional, técnico y administrativo autoriz
 
 ### CAPITULO V. VISITADURIAS GENERALES
 
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2012)</small>
+
 ###### Artículo 53.
 
 (Número de visitadurías generales)
 
-La Comisión Nacional podrá contar hasta con cinco visitadurías generales.
+La Comisión Nacional podrá contar hasta con seis visitadurías generales.
 
 ###### Artículo 54.
 
@@ -879,11 +885,13 @@ Los visitadores generales se reunirán de manera colegiada para establecer linea
 
 El primer visitador general someterá a consideración del presidente de la Comisión Nacional los acuerdos antes mencionados, los que, una vez suscritos por el presidente, formarán parte de los lineamientos de actuación de las visitadurías generales.
 
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2012)</small>
+
 ###### Artículo 57.
 
 (Denominación de las visitadurías generales)
 
-Las visitadurías generales serán denominadas de la siguiente manera: Primera Visitaduría General, Segunda Visitaduría General, Tercera Visitaduría General, Cuarta Visitaduría General y Quinta Visitaduría General.
+Las visitadurías generales serán denominadas de la siguiente manera: Primera Visitaduría General, Segunda Visitaduría General, Tercera Visitaduría General, Cuarta Visitaduría General, Quinta Visitaduría General y Sexta Visitaduría General.
 
 ###### Artículo 58.
 
@@ -1965,9 +1973,13 @@ En el caso de informes especiales dirigidos a alguna autoridad, la Comisión Nac
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE JULIO DE 2012)</small>
 
 ###### Artículo 176.
+
+(De la imposición y ejecución de sanciones administrativas)
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2005)</small>
 
 Para la imposición y ejecución de las sanciones administrativas a que hace referencia el artículo 13 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos se seguirán los siguientes criterios:
 
@@ -1991,11 +2003,23 @@ IV. Las sanciones económicas serán impuestas por el titular del Organo Interno
 
 El incumplimiento a lo dispuesto en este artículo por parte del Titular del Organo Interno de Control o del Jefe Inmediato, será causa de responsabilidad administrativa en los términos de la ley de la materia.
 
-> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE JULIO DE 2012)</small>
+
+En el acto de ejecución de las sanciones administrativas, deberá estar presente el Titular del Organo Interno de Control o el titular del Area de Responsabilidades, Inconformidades y Normatividad de dicho órgano, el jefe inmediato del servidor público sancionado, un representante de la Dirección General de Asuntos Jurídicos y uno del Area de Recursos Humanos de la Oficialía Mayor, para los efectos de la misma en virtud de sus respectivas atribuciones.
+
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2012)</small>
 
 ###### Artículo 177.
 
-En el acto de ejecución de las sanciones administrativas, deberá estar presente el Titular del Organo Interno de Control o el titular del Area de Responsabilidades, Inconformidades y Normatividad de dicho órgano, el jefe inmediato del servidor público sancionado, un representante de la Dirección General de Asuntos Jurídicos y uno del Area de Recursos Humanos de la Oficialía Mayor, para los efectos de la misma en virtud de sus respectivas atribuciones en términos de lo previsto por el artículo anterior.
+(Sanciones por infracciones a la Ley Federal Anticorrupción)
+
+El Titular del Organo Interno de Control o el Titular del Area de Responsabilidades, Inconformidades y Normatividad podrán imponer, en términos de la Ley Federal Anticorrupción en Contrataciones Públicas, por la comisión de infracciones previstas en la misma, las siguientes sanciones:
+
+I. Inhabilitación para participar en contrataciones públicas con este Organismo Nacional conforme a lo previsto en la Ley en cita, según se trate de personas físicas o morales, misma que será ejecutada por el área contratante de esta Comisión. La resolución que determine la inhabilitación respectiva, será notificada al Oficial Mayor de la Comisión Nacional, a efecto de que éste publique en el Diario Oficial de la Federación la sanción impuesta al infractor; y
+
+II. Sanciones económicas hasta por los montos previstos en la Ley Federal Anticorrupción en Contrataciones Públicas, según se trate de personas físicas o morales, las cuales serán ejecutadas por la autoridad fiscal competente.
+
+Para tales efectos, el Oficial Mayor de la Comisión Nacional notificará a la autoridad fiscal competente la imposición de la multa, para que aquella proceda a su cobro.
 
 > <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2005)</small>
 
@@ -2090,3 +2114,11 @@ D.O.F. 21 DE MAYO DE 2012.
 PRIMERO. El presente Acuerdo deberá ser publicado en la Gaceta de la Comisión Nacional de los Derechos Humanos y en el Diario Oficial de la Federación.
 
 SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE JULIO DE 2012.
+
+PRIMERO. El presente Acuerdo deberá ser publicado en la Gaceta de la Comisión Nacional de los Derechos Humanos y en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO. La parte conducente del Manual de Organización General de la Comisión Nacional, que refleje las modificaciones realizadas al Reglamento Interno, será expedida dentro de los seis meses siguientes a la entrada en vigor del presente Acuerdo, y deberá ser publicada en el Diario Oficial de la Federación.
