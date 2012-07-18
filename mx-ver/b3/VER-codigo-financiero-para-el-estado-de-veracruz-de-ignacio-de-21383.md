@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2012-05-09"
+last_updated: "2012-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO NÚMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE, EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO ÚNICAMENTE COMO TEMAPACHE SE ENTENDERÁN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE JULIO DE 2012.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -3053,6 +3053,126 @@ b) Rural mixto: 150 salarios mínimos
 
 No se causarán estos derechos cuando la transferencia se realice por personas físicas para constituir una moral, siempre y cuando la aportación a la sociedad sea la concesión. Cuando la persona física enajene o transfiera su titularidad en la sociedad, se generará el pago previsto en esta fracción.
 
+> <small>(ADICIONADO, G.O. 18 DE JULIO DE 2012)</small>
+
+E. Por servicios de Catastro:
+
+I. Por la expedición de una cédula catastral.
+
+A. Por servicios de Catastro.
+
+7 Salarios mínimos
+
+II. Por la expedición de un certificado de Valor Catastral o Catastral Provisional.
+
+10 Salarios mínimos
+
+III. Por la expedición de una constancia de datos catastrales.
+
+3 Salarios mínimos
+
+IV. Por la certificación de cada plano catastral expedido por la Secretaría.
+
+3 Salarios mínimos
+
+a) Se exceptúan del pago de derechos por la expedición de la cédula catastral y el certificado de Valor Catastral o Catastral Provisional:
+
+1. La Federación, el Estado y los Municipios, respecto de los bienes del dominio público, y los partidos políticos nacionales, siempre y cuando dichos inmuebles sean parte de su patrimonio.
+
+2. A los poseedores de predios en las colonias populares, reservas territoriales y fundos legales estatales, destinados a usos habitacionales y en proceso de regularización por parte de cualquiera de las dependencias y entidades del Gobierno del Estado facultadas para ello.
+
+3. A los adquirentes de vivienda de interés social y popular construida en el Estado, cuando la adquisición sea financiada con créditos otorgados por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores (INFONAVIT), el Fondo de Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (FOVISSSTE), el Fideicomiso Fondo Nacional de Habitaciones Populares (FONHAPO), el Fondo de Operación y Financiamiento Bancario a la Vivienda (FOVI), el Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas (ISSFAM), el Banco Nacional del Ejército, Fuerza Aérea y Armada S.N.C. (BANJERCITO), y el Instituto de Pensiones del Estado (IPE).
+
+4. A los poseedores de predios en proceso de regularización por la Comisión para la Regularización de la Tenencia de la Tierra (Corett).
+
+b) Se exceptúan del pago de derechos por la expedición de la Cédula Catastral:
+
+1. Todos los sujetos pasivos del Catastro, cuando se trate de incorporaciones o revaluaciones masivas por la ejecución de programas de Catastro;
+
+2. Los cambios de registro originados por regularización de la nomenclatura Catastral, o de la circunscripción municipal;
+
+V. Por copias en papel heliográfico o bond por plano general de localidad, con curvas de nivel al metro y cotas de crucero, en esc: 1:2,000, por hoja.
+
+4.5 Salarios mínimos
+
+VI. Por copias en papel heliográfico o bond por plano general de localidad, en escalas aproximadas 1:4,000, 1:5,000, 1:7,500 y 1:10,000.
+
+3.0 Salarios mínimos
+
+VII. Por copias en papel heliográfico o bond por plano manzanero de localidades catastradas, en escala 1:500 ó 1:1,000.
+
+a) De 1 hasta 100 planos, por plano.
+
+4.5 Salarios mínimos
+
+b) De 101 planos en adelante por plano.
+
+3.0 Salarios mínimos
+
+VIII. Por copias del plano de región catastral, sin escala, con nomenclatura y valores catastrales del suelo urbano, por hoja.
+
+3.0 Salarios mínimos
+
+IX. Por copias del plano perimetral tamaño carta de un predio registrado en la cartografía catastral urbana, en esc. 1:500, por plano.
+
+3.0 Salarios mínimos
+
+X. Por la expedición de cartografía digital Esc. 1:1,000 en formatos DXF., DWG. y ARC/INFO., por Km2:
+
+a) Cobertura de manzanas
+
+22.0 Salarios mínimos
+
+b) Cobertura de predios
+
+64.0 Salarios mínimos
+
+c) Cobertura de construcciones
+
+64.0 Salarios mínimos
+
+d) Cobertura de curvas de nivel a cada metro
+
+10.0 Salarios mínimos
+
+XI. Por copias de contacto de fotografías aéreas escalas 1:4,500 1:10,000 y 1:20,000:
+
+a) En papel bond, imagen blanco y negro en formato 23 x 23 cm, por copia.
+
+1.0 Salario mínimo
+
+b) Grabada con escáner e impresión en papel bond, blanco y negro en formato 23 x 23 cm, por copia.
+
+1.1 Salarios mínimos
+
+c) Grabada en diskette de 3.5" ó disco compacto, por copia.
+
+3.8 Salarios mínimos
+
+Se exceptúan del pago de derechos por la expedición de cartografía catastral y copias de contacto de fotografías aéreas, las dependencias y organismos Federales, Estatales y Municipales; estos últimos en los términos de los convenios de colaboración que en materia catastral se suscriban, previo cumplimiento de las disposiciones legales aplicables.
+
+XII. Por la elaboración del padrón factura para el cobro del impuesto predial, incluye recibos impresos o papelería y el sistema para el cobro automatizado del impuesto, por predio registrado.
+
+0.03 Salario mínimo
+
+XIII. Por la expedición de un avalúo comercial.
+
+20 Salarios mínimos
+
+XIV. Por la expedición de un dictamen de arrendamiento.
+
+10 Salarios mínimos
+
+XV. Por la corrección de datos o la actualización de la vigencia de un avalúo comercial.
+
+1 Salario mínimo
+
+XVI. Por la corrección de datos o la actualización de la vigencia de un dictamen de arrendamiento.
+
+1 Salario mínimo
+
+Se exceptúan del pago de derechos por la expedición de avalúos comerciales, dictámenes de arrendamiento y la corrección de datos o la actualización de la vigencia correspondiente, los bienes propiedad del Estado o de los Ayuntamientos.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 141.
@@ -3187,97 +3307,7 @@ Por día:
 
 Por los servicios prestados por la Secretaría, se causarán y pagarán los derechos siguientes:
 
-A. Por servicios de Catastro.
-
-> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
-
-I. Por la expedición de una cédula catastral. 7 salarios mínimos
-
-> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
-
-II. Por la expedición de un certificado de Valor Catastral o Catastral Provisional. 10 salarios mínimos
-
-III. Por la expedición de una constancia de datos catastrales. 3 salarios mínimos
-
-> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2001)</small>
-
-IV. Por la certificación de cada plano catastral expedido por la Secretaría. 3 salarios mínimos
-
-a) Se exceptúan del pago de derechos por la expedición de la cédula catastral y el certificado de Valor Catastral o Catastral Provisional:
-
-1. La Federación, el Estado y los Municipios, respecto de los bienes del dominio público, y los partidos políticos nacionales, siempre y cuando dichos inmuebles sean parte de su patrimonio.
-
-> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
-
-2. A los poseedores de predios en las colonias populares, reservas territoriales y fundos legales estatales, destinados a usos habitacionales y en proceso de regularización por parte de cualquiera de las dependencias y entidades del Gobierno del Estado facultadas para ello, y
-
-3. A los adquirentes de vivienda de interés social y popular construida en el Estado, cuando la adquisición sea financiada con créditos otorgados por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores (Infonavit), el Fondo de Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (Fovissste), el Fideicomiso Fondo Nacional de Habitaciones Populares (Fonhapo), el Fondo de Operación y Financiamiento Bancario a la Vivienda (Fovi), el Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas (ISSFAM), el Banco Nacional del Ejercito, Fuerza Aérea y Armada S.N.C. (BANJERCITO), y el Instituto de Pensiones del Estado (IPE).
-
-4. A los poseedores de predios en proceso de regularización por la Comisión para la Regularización de la Tenencia de la Tierra (Corett).
-
-b) Se exceptúan del pago de derechos por la expedición de la Cédula Catastral:
-
-1. Todos los sujetos pasivos del Catastro, cuando se trate de incorporaciones o revaluaciones masivas por la ejecución de programas de Catastro;
-
-2. Los cambios de registro originados por regularización de la nomenclatura Catastral, o de la circunscripción municipal;
-
-V. Por copias en papel heliográfico o bond por plano general de localidad, con curvas de nivel al metro y cotas de crucero, en esc: 1:2,000, por hoja. 4.5 salarios mínimos
-
-VI. Por copias en papel heliográfico o bond por plano general de localidad, en escalas aproximadas 1:4,000, 1:5,000, 1:7,500 y 1:10,000. 3.0 salarios mínimos
-
-VII. Por copias en papel heliográfico o bond por plano manzanero de localidades catastradas, en escala 1:500 ó 1:1,000.
-
-a) De 1 hasta a 100 planos, por plano. 4.5 salarios mínimos
-
-b) De 101 planos en adelante por plano. 3.0 salarios mínimos
-
-VIII. Por copias del plano de región catastral, sin escala, con nomenclatura y valores catastrales del suelo urbano, por hoja. 3.0 salarios mínimos
-
-IX. Por copias del plano perimetral tamaño carta de un predio registrado en la cartografía catastral urbana, en esc. 1:500, por plano. 3.0 salarios mínimos
-
-> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2001)</small>
-
-X. Por la expedición de cartografía digital Esc. 1:1,000 en formatos DXF., DWG. Y ARC/INFO., por Km2:
-
-a) Cobertura de manzanas 22.0 salarios mínimos
-
-b) Cobertura de predios 64.0 salarios mínimos
-
-c) Cobertura de construcciones. 64.0 salarios mínimos
-
-d) Cobertura de curvas de nivel a cada metro 10.0 salarios mínimos
-
-> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2001)</small>
-
-XI. Por copias de contacto de fotografías aéreas escalas 1:4,500 1:10,000 y 1:20,000:
-
-a) En papel bond, imagen blanco y negro en formato 23 x 23 cm., por copia.
-
-b) Grabada con escaner e impresión en papel bond, blanco y negro en formato 23 x 23 cm., por copia. 1.0 salarios mínimos
-
-c) Grabada en diskette de 3.5" ó disco compacto, por copia. 3.8 salarios mínimos
-
-Se exceptúan del pago de derechos por la expedición de cartografía catastral y copias de contacto de fotografías aéreas, las dependencias y organismos Federales, Estatales y Municipales; éstos últimos en los términos de los convenios de colaboración que en materia catastral se suscriban, previo cumplimiento de las disposiciones legales aplicables.
-
-> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2001)</small>
-
-XII. Por la elaboración del padrón factura para el cobro del impuesto predial, incluye recibos impresos o papelería y el sistema para el cobro automatizado del impuesto, por predio registrado. 0.03 salario mínimo
-
-> <small>(ADICIONADA, G.O. 6 DE ENERO DE 2003)</small>
-
-XIII. Por la expedición de un avalúo comercial. 20 salarios mínimos
-
-> <small>(ADICIONADA, G.O. 6 DE ENERO DE 2003)</small>
-
-XIV. Por la expedición de un dictamen de arrendamiento. 10 salarios mínimos
-
-> <small>(ADICIONADA, G.O. 6 DE ENERO DE 2003)</small>
-
-XV. Por la corrección de datos o la actualización de la vigencia de un avalúo comercial. 1 salario mínimo
-
-> <small>(ADICIONADA, G.O. 6 DE ENERO DE 2003)</small>
-
-XVI. Por la corrección de datos o la actualización de la vigencia de un dictamen de arrendamiento. 1 salario mínimo
+A. (DEROGADO, G.O. 18 DE JULIO DE 2012)
 
 > <small>(REFORMADO, G.O. 6 DE ENERO DE 2003)</small>
 
@@ -6550,3 +6580,17 @@ G.O. 9 DE MAYO DE 2012.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 18 DE JULIO DE 2012.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. El presupuesto, mobiliario, equipo, archivos y todos los recursos humanos, financieros y materiales que tenía asignados, adscritos e incorporados la Secretaría de Finanzas y Planeación para la operación de toda la estructura de la Dirección General de Catastro y Valuación, en el territorio de la entidad, se transferirán a la Secretaría de Gobierno.
+
+Cuarto. El personal que por lo dispuesto en el presente Decreto cambie de adscripción, conservará sus derechos laborales conforme a la ley.
+
+Quinto. Los procedimientos y recursos que se encuentran en trámite a la entrada en vigor de este decreto, se substanciarán con arreglo a la ley por la dependencia en que se iniciaron hasta su total conclusión.
+
+Sexto. En todo instrumento jurídico, ya sea decreto, reglamento o reglas que se deriven de las leyes referidas a la materia catastral, se entenderán referidos a la Secretaría de Gobierno, como cabeza de sector. La adecuación correspondiente se deberá realizar con la brevedad posible.
