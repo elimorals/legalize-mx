@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2012-05-18"
+last_updated: "2012-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE JULIO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -369,7 +369,9 @@ X. Designar y remover a los representantes de la Secretaría en las comisiones u
 
 XI. Autorizar el proyecto del presupuesto anual de egresos de la Secretaría y de las comisiones que presida, así como autorizar y supervisar la aplicación eficiente de los recursos financieros, humanos y materiales de la Secretaría;
 
-XII. (DEROGADA, G.O. 13 DE ENERO DE 2006)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 18 DE JULIO DE 2012)</small>
+
+XII. Administrar el Catastro de la Entidad, de conformidad a lo establecido en las disposiciones legales respectivas;
 
 XIII. Someter a la consideración del Gobernador del Estado, las propuestas para regular el aprovechamiento del tiempo que corresponda a la Entidad, en los canales concesionados de radio y televisión, conforme a la legislación aplicable;
 
@@ -621,7 +623,7 @@ XXIX. Otorgar, previo acuerdo del Ejecutivo Estatal, estímulos fiscales en los 
 
 XXX. Tramitar y resolver los recursos administrativos en la esfera de su competencia;
 
-XXXI. Administrar el catastro de la Entidad, de conformidad a lo establecido en las disposiciones legales respectivas;
+XXXI. (DEROGADA, G.O. 18 DE JULIO DE 2012)
 
 XXXII. Elaborar y mantener actualizado el Padrón de Contribuyentes;
 
@@ -2478,3 +2480,19 @@ Cuarto. El personal que por lo dispuesto en el presente Decreto cambie de adscri
 Quinto. Los procedimientos y recursos que se encuentren en trámite a la entrada en vigor de este decreto se substanciarán hasta su total conclusión, con arreglo a la ley, en la Secretaría del Medio Ambiente.
 
 Sexto. Las menciones en todo tipo de ordenamientos a la Secretaría de Desarrollo Agropecuario, Rural, Forestal y Pesca, como dependencia competente en materia forestal, se entenderán referidas a la Secretaría de Medio Ambiente, cuya normativa interior se reformará a la brevedad posible en términos del presente Decreto.
+
+G.O. 18 DE JULIO DE 2012.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 565 QUE DEROGA LA FRACCIÓN XXXI DEL ARTÍCULO 20 Y REFORMA LA FRACCIÓN XII DEL ARTÍCULO 18 DE LA LEY NÚMERO 58 ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ; REFORMA LA FRACCIÓN XXVIII DEL ARTÍCULO 4 DE LA LEY NÚMERO 42 DE CATASTRO DEL ESTADO DE VERACRUZ; Y DEROGA EL APARTADO A DEL ARTÍCULO 143; Y ADICIONA EL APARTADO E AL ARTÍCULO 140 DEL CÓDIGO NÚMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. El presupuesto, mobiliario, equipo, archivos y todos los recursos humanos, financieros y materiales que tenía asignados, adscritos e incorporados la Secretaría de Finanzas y Planeación para la operación de toda la estructura de la Dirección General de Catastro y Valuación, en el territorio de la entidad, se transferirán a la Secretaría de Gobierno.
+
+Cuarto. El personal que por lo dispuesto en el presente Decreto cambie de adscripción, conservará sus derechos laborales conforme a la ley.
+
+Quinto. Los procedimientos y recursos que se encuentran en trámite a la entrada en vigor de este decreto, se substanciarán con arreglo a la ley por la dependencia en que se iniciaron hasta su total conclusión.
+
+Sexto. En todo instrumento jurídico, ya sea decreto, reglamento o reglas que se deriven de las leyes referidas a la materia catastral, se entenderán referidos a la Secretaría de Gobierno, como cabeza de sector. La adecuación correspondiente se deberá realizar con la brevedad posible.
