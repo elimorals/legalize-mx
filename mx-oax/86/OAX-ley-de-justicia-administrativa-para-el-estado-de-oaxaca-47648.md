@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-justicia-administrativa-para-el-estado-de-oaxaca-47648"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2012-07-04"
+last_updated: "2012-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "OAX"
 ---
 # LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE OAXACA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE JULIO DE 2012 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE OAXACA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 18 DE JULIO DE 2012.</small>
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 31 de diciembre de 2005.
 
@@ -787,13 +787,11 @@ No se tomarán en cuenta en la resolución del recurso, hechos, documentos o ale
 
 La organización y funcionamiento del Tribunal de lo Contencioso Administrativo del Estado de Oaxaca se regulará por las disposiciones contenidas en este Libro, en la Ley Orgánica del Poder Judicial y el reglamento del Tribunal.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE JULIO DE 2012 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
+(REFORMADO, P.O. 4 DE JULIO DE 2012) (F. DE E., P.O. 18 DE JULIO DE 2012)
 
 ###### ARTICULO 81.
 
-La jurisdicción administrativa la ejercerá el Tribunal de lo Contencioso Administrativo, Tribunal Especializado del Poder Judicial; órgano permanente, autónomo en su funcionamiento e independiente en sus decisiones, que ejerce el control de legalidad. Dotado de plena jurisdicción para dictar sus resoluciones e impedio (sic) para hacerlas cumplir; con facultad para interpretar la Ley de justicia administrativa a través de sus resoluciones. La estructura del Tribunal será determinada por esta ley. La administración, disciplina y vigilancia del Tribunal corresponderá al Consejo de la Judicatura.
+La jurisdicción administrativa la ejercerá el Tribunal de lo Contencioso Administrativo, Tribunal Especializado del Poder Judicial; órgano permanente, autónomo en su funcionamiento e independiente en sus decisiones, que ejerce el control de legalidad. Dotado de plena jurisdicción para dictar sus resoluciones e imperio para hacerlas cumplir; con facultad para interpretar la Ley de justicia administrativa a través de sus resoluciones. La estructura del Tribunal será determinada por esta ley. La administración, disciplina y vigilancia del Tribunal corresponderá al Consejo de la Judicatura.
 
 A los juzgados de primera instancia existentes se les otorga jurisdicción en materia administrativa y serán competentes conforme a los lineamientos que emita el Consejo de la Judicatura.
 
