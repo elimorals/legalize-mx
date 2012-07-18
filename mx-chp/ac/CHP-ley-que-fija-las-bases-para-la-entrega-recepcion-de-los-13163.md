@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-fija-las-bases-para-la-entrega-recepcion-de-los-13163"
 country: "mx"
 rank: "ley"
 publication_date: "1998-08-26"
-last_updated: "2006-10-12"
+last_updated: "2012-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13163&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY QUE FIJA LAS BASES PARA LA ENTREGA-RECEPCION DE LOS AYUNTAMIENTOS DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE FIJA LAS BASES DE ENTREGA-RECEPCIÓN DE LOS AYUNTAMIENTOS DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. 18 DE JULIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Chiapas, el miércoles 26 de agosto de 1998.
 
@@ -304,3 +306,11 @@ P.O. 12 DE OCTUBRE DE 2006.
 PRIMERO.- EL PRESENTE DECRETO, ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
 
 SEGUNDO.- SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN AL PRESENTE DECRETO.
+
+P.O. 18 DE JULIO DE 2012.
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga la Ley que Fija las Bases para la Entrega-Recepción de los Ayuntamientos del Estado de Chiapas, publicada por Decreto número 354 en el Periódico Oficial número 045 Segunda Sección, de fecha 26 de agosto de 1998, y todas aquellas disposiciones que se oponga o contravengan lo dispuesto en la presente Ley.
+
+Artículo Tercero.- Las referencias que en otros ordenamientos legales se hagan a la Ley que Fija las Bases para la Entrega-Recepción de los Ayuntamientos del Estado de Chiapas, se entenderán hechas a la Ley de Entrega y Recepción de los Ayuntamientos del Estado de Chiapas.
