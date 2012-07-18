@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interno-de-la-secretaria-de-turismo-43531"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-26"
-last_updated: "2006-01-25"
+last_updated: "2012-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43531&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO INTERNO DE LA SECRETARIA DE TURISMO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMODEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. 18 DE JULIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 26 de enero de 2005.
 
@@ -834,3 +836,17 @@ Primero.- Las presentes reformas y adiciones al Reglamento Interior de la Secret
 Segundo.- Se derogan todas las disposiciones que tengan similar o menor jerarquía a este Acuerdo y que se opongan al mismo.
 
 Tercero.- Cuando las facultades y obligaciones de alguna unidad administrativa a que se refiere este acuerdo deban ser ejercidas por otra u otras unidades administrativas conforme a lo estipulado en el mismo, los recursos humanos, (sic)
+
+P.O. 18 DE JULIO DE 2012.
+
+Artículo Primero.- El presente Reglamento, entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga el Reglamento Interior de la Secretaría de Turismo, publicado en el Periódico Oficial número 285, de fecha 26 de enero de 2005 y las disposiciones que del mismo emanen, así como las reformas y adiciones a las diversas disposiciones del Reglamento Interior de la Secretaría de Turismo, publicado en el Periódico Oficial número 342, de fecha 25 de enero de 2006 y se derogan aquellas otras que se opongan al presente Reglamento.
+
+Artículo Tercero.- Para las cuestiones no previstas en este Reglamento, respecto al funcionamiento de las Delegaciones, Áreas, Departamentos y demás funciones del personal, se estará a lo dispuesto por el Manual de Organización de la Secretaría.
+
+Artículo Cuarto.- El Manual de Organización de la Secretaría, deberá actualizarse en un plazo no mayor a noventa días hábiles, después de la publicación del presente Reglamento.
+
+Artículo Quinto.- En tanto se expide el Manual de Organización respectivo, el Secretario queda facultado para resolver las incidencias de procedimiento y operación, que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Sexto.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento en el Periódico Oficial.
