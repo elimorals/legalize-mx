@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-42-de-catastro-del-estado-de-veracruz-de-ignacio-228
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-21"
-last_updated: "2003-03-21"
+last_updated: "2012-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE CATASTRO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE MARZO DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE JULIO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 21 de diciembre de 2001.
 
@@ -39,19 +39,19 @@ LA HONORABLE QUINCUAGÉSIMA NOVENA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y S
 
 LEY NÚMERO 42
 
-> <small>(REFORMADA SU DENOMINACION POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 DE CATASTRO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADO POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 ###### Artículo 1.
 
 Las disposiciones de esta Ley son de orden público y de observancia general en el Estado de Veracruz de Ignacio de la Llave, y tienen por objeto normar el funcionamiento y coordinación que en materia catastral compete a los Gobiernos Estatal y Municipales.
 
-> <small>(REFORMADO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADO POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 ###### Artículo 2.
 
@@ -87,7 +87,7 @@ X. Certificado de Valor Catastral: Documento expedido por la autoridad, donde se
 
 XI. Clave Catastral: Símbolo numérico que se asigna a un predio para su identificación en el catastro, de acuerdo a lo establecido en el Reglamento de esta Ley;
 
-> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 XII. Congreso: El Congreso del Estado de Veracruz de Ignacio de la Llave;
 
@@ -121,7 +121,9 @@ XXVI. Geodesia: Ciencia que estudia la forma y dimensiones de la tierra así com
 
 XXVII. Geomática: Disciplina que integra la informática con las ciencias de la tierra con objeto de medir, representar, analizar, manejar, recuperar y visualizar información geográficamente referenciada;
 
-XXVIII. Gobierno Estatal: El Poder Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y Planeación;
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2012)</small>
+
+XXVIII. Gobierno Estatal: El Poder Ejecutivo del Estado, por conducto de la Secretaría de Gobierno;
 
 XXIX. Gobierno Municipal: El Ayuntamiento de que se trate, por conducto de su respectiva Tesorería Municipal;
 
@@ -133,7 +135,7 @@ XXXII. Información territorial: Conjunto de planos, documentos y bases de datos
 
 XXXIII. Infraestructura Urbana: Sistemas de dotación y distribución de los servicios básicos: agua, drenaje, alcantarillado, energía eléctrica, teléfono y vías de comunicación, necesarios para el buen funcionamiento de las ciudades;
 
-> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 XXXIV. Ley: La Ley de Catastro para el Estado de Veracruz de Ignacio de la Llave;
 
@@ -347,7 +349,7 @@ p) Informar a la autoridad catastral estatal sobre los valores de los terrenos y
 
 q) Expedir certificados de valor catastral y demás constancias de los registros catastrales de su circunscripción territorial, previo pago de los derechos correspondientes;
 
-> <small>(REFORMADO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADO POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 r) Notificar a los interesados los actos relacionados con la función catastral, en los términos que establezcan la presente ley y el Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave;
 
@@ -369,7 +371,7 @@ Los propietarios o poseedores de bienes inmuebles solicitarán el registro de é
 
 Asimismo, deberán manifestar cualquier modificación realizada por concepto de nuevas construcciones, reconstrucciones, remodelaciones, demoliciones, así como del estado ruinoso de ellas, en el plazo que no excederá de treinta días contado a partir de la terminación de las obras.
 
-> <small>(REFORMADO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADO POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 ###### Artículo 9.
 
@@ -851,7 +853,7 @@ Sufragio efectivo. No reelección
 
 Licenciado Miguel Alemán Velazco, Gobernador del Estado.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 6 DE ENERO DE 2003.
 
@@ -865,7 +867,7 @@ CUARTO. Las disposiciones reglamentarias en materia de catastro, deberán ajusta
 
 G.O. 10 DE MARZO DE 2003.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente Código entrara en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
@@ -891,8 +893,22 @@ OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 G.O. 21 DE MARZO DE 2003.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente Código entrara en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 CUARTO.- Las disposiciones relativas a la clasificación de predios suburbanos, de conformidad con lo previsto por el artículo sexto transitorio de la Ley de Catastro del Estado de Veracruz-Llave, entraran en vigor a partir del 1 de enero del año 2004.
+
+G.O. 18 DE JULIO DE 2012.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. El presupuesto, mobiliario, equipo, archivos y todos los recursos humanos, financieros y materiales que tenía asignados, adscritos e incorporados la Secretaría de Finanzas y Planeación para la operación de toda la estructura de la Dirección General de Catastro y Valuación, en el territorio de la entidad, se transferirán a la Secretaría de Gobierno.
+
+Cuarto. El personal que por lo dispuesto en el presente Decreto cambie de adscripción, conservará sus derechos laborales conforme a la ley.
+
+Quinto. Los procedimientos y recursos que se encuentran en trámite a la entrada en vigor de este decreto, se substanciarán con arreglo a la ley por la dependencia en que se iniciaron hasta su total conclusión.
+
+Sexto. En todo instrumento jurídico, ya sea decreto, reglamento o reglas que se deriven de las leyes referidas a la materia catastral, se entenderán referidos a la Secretaría de Gobierno, como cabeza de sector. La adecuación correspondiente se deberá realizar con la brevedad posible.
