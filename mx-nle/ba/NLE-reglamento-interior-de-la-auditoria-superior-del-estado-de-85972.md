@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-auditoria-superior-del-estado-de-8597
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-02-06"
-last_updated: "2012-02-06"
+last_updated: "2012-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DEL ESTADO DE NUEVO LEON
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE JULIO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE NUEVO LEÓN
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 18 DE JULIO DE 2012.</small>
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 6 de febrero de 2012.
 
@@ -249,8 +249,6 @@ XIX. Llevar a cabo las comisiones, tareas y demás actividades que les encomiend
 
 XX. Las demás que les confiera el Auditor General.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE JULIO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 14.
 
 Corresponde al Auditor Especial de Evaluación al Desempeño, el ejercicio de las facultades y atribuciones siguientes:
@@ -273,7 +271,9 @@ VIII. Incorporar a los expedientes de auditoría, la evidencia suficiente, compe
 
 IX. Elaborar y someter a consideración del Auditor General, los resultados de las revisiones practicadas y en su caso, las observaciones preliminares para su comunicación a los sujetos de fiscalización;
 
-X. Comunicar, en términos de lo dispuesto en el artículo 47 de la Ley, las observaciones preliminares;
+> <small>(F. DE E., P.O. 18 DE JULIO DE 2012)</small>
+
+X. Comunicar, en términos de lo dispuesto en el artículo 46 de la Ley, las observaciones preliminares;
 
 XI. Analizar las justificaciones, aclaraciones y la documentación para la solventación de las observaciones preliminares detectadas, que presenten los titulares de los sujetos de fiscalización, o quienes hayan ejercido dicho cargo durante el periodo objeto de revisión, en los casos en que hayan dejado de desempeñar el mismo, y resolver sobre la solventación o no de las mismas;
 
@@ -296,8 +296,6 @@ XIX. Promover que la rendición de cuentas por parte de los entes públicos, inc
 XX. Proponer a los entes públicos, la aplicación de los principios, normas, procedimientos, métodos y sistemas de registro y contabilidad; las disposiciones para el archivo, guarda y custodia de los libros y documentos justificativos y comprobatorios del ingreso, gasto y deuda pública; así como todos aquellos elementos que posibiliten la adecuada rendición de cuentas y la práctica idónea de las auditorías; y
 
 XXI. Las demás que le confieran la Ley, el Reglamento, los manuales de organización y procedimientos de la Auditoría Superior del Estado o le sean delegadas por el Auditor General.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE JULIO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### Artículo 15.
 
@@ -325,7 +323,9 @@ X. Incorporar a los expedientes de auditoría, la evidencia que soporte la funci
 
 XI. Elaborar y someter a consideración del Auditor General, los resultados de las revisiones practicadas y en su caso las observaciones preliminares;
 
-XII. Comunicar, en términos de lo dispuesto en el artículo 47 de la Ley, las observaciones preliminares;
+> <small>(F. DE E., P.O. 18 DE JULIO DE 2012)</small>
+
+XII. Comunicar, en términos de lo dispuesto en el artículo 46 de la Ley, las observaciones preliminares;
 
 XIII. Analizar las justificaciones, aclaraciones y la documentación para la solventación de las observaciones preliminares detectadas, que presenten los titulares de los sujetos de fiscalización, o quienes hayan ejercido dicho cargo durante el periodo objeto de revisión, en los casos en que hayan dejado de desempeñar el mismo, y resolver sobre la solventación o no de las mismas;
 
@@ -358,8 +358,6 @@ XXV. Las demás que les confieran la Ley, el Reglamento, los manuales de organiz
 ###### Artículo 16.
 
 Corresponde al Director de Auditoría de Obra Pública y Desarrollo Urbano, auxiliar al Auditor General en la fiscalización de la aplicación, uso y destino de recursos públicos, en relación con la planeación, proyecto urbanístico-arquitectónico, programación, elaboración del presupuesto, adjudicación, contratación, ejecución, conservación, modificación, ejercicio de recursos, entrega, evaluación y control de las obras públicas, de los bienes adquiridos y los servicios contratados relacionados con las mismas, y para la evaluación y comprobación de su calidad, así como para la verificación de la observancia de la Ley de Desarrollo Urbano del Estado de Nuevo León, planes y programas de desarrollo urbano y su zonificación, y demás disposiciones legales de la materia, por parte de las autoridades estatales y municipales.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE JULIO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### Artículo 17.
 
@@ -405,7 +403,9 @@ XIX. Requerir a terceros que hubieren contratado con los entes públicos, obra p
 
 XX. Elaborar y someter a consideración del Auditor General, los resultados de las revisiones practicadas y en su caso las observaciones preliminares;
 
-XXI. Comunicar, en términos de lo dispuesto en el artículo 47 de la Ley, las observaciones preliminares;
+> <small>(F. DE E., P.O. 18 DE JULIO DE 2012)</small>
+
+XXI. Comunicar, en términos de lo dispuesto en el artículo 46 de la Ley, las observaciones preliminares;
 
 XXII. Analizar las justificaciones, aclaraciones y la documentación para la solventación de las observaciones preliminares detectadas, que presenten los titulares de los sujetos de fiscalización, o quienes hayan ejercido dicho cargo durante el periodo objeto de revisión, en los casos en que hayan dejado de desempeñar el mismo, y resolver sobre la solventación o no de las mismas;
 
