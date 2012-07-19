@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-de-medio-ambiente-para-202
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-01"
-last_updated: "2007-06-05"
+last_updated: "2012-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE MEDIO AMBIENTE PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE MEDIO AMBIENTE PARA EL DESARROLLO SUSTENTABLE, PUBLICADO EN EL P.O. DE 19 DE JULIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 1 de marzo de 2001.
 
@@ -1086,3 +1088,9 @@ P.O. 11 DE MARZO DE 2006.
 P.O. 5 DE JUNIO DE 2007.
 
 ÚNICO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 19 DE JULIO DE 2012.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Medio Ambiente para el Desarrollo Sustentable publicado en el periódico oficial "EL Estado de Jalisco" el 1 de marzo de 2001, así como sus respectivas reformas, y se derogan todas las disposiciones administrativas que se opongan a lo establecido en el presente Reglamento.
