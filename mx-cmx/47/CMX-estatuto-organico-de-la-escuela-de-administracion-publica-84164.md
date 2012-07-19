@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-de-la-escuela-de-administracion-publica-84164
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-12-16"
-last_updated: "2011-12-16"
+last_updated: "2012-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84164&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2011-12-14"
 ---
 # ESTATUTO ORGANICO DE LA ESCUELA DE ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE OCTUBRE DE 2012 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 ESTATUTO ORGÁNICO DE LA ESCUELA DE ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE JULIO DE 2012.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el viernes 16 de diciembre de 2011.
 
@@ -102,7 +104,9 @@ El gobierno y la administración de la Escuela de Administración Pública del D
 
 Los miembros de la Junta de Gobierno participarán en ésta a título honorario. Las sesiones que celebre la Junta de Gobierno serán ordinarias y extraordinarias, sesionará ordinariamente cuatro veces durante cada año de acuerdo con el calendario que será aprobado en la última reunión que se celebre en el ejercicio fiscal anterior, y las sesiones extraordinarias las veces que su presidente o la mitad más uno de sus miembros lo considere necesario, previa convocatoria que realizará el Secretario Técnico de la Junta de Gobierno.
 
-Para la celebración de las sesiones de la Junta de Gobierno, se formulará la orden del día al que se adjuntará la documentación pertinente de los asuntos a tratar información que deberá ser recibida por sus miembros, el Comisario Público y el Contralor con una anticipación no menor de cinco días hábiles en el caso de las ordinarias y de tres días en el caso de las extraordinarias.
+> <small>(REFORMADO, G.O. 19 DE JULIO DE 2012)</small>
+
+La Junta de Gobierno sesionará ordinariamente cuatro veces al año y extraordinariamente las veces que sean necesarias. Las convocatorias podrán emitirse por el Presidente o por el Secretario Técnico, o bien, a solicitud de la mitad más uno de sus miembros cuando lo consideren necesario.
 
 Las sesiones que celebre la Junta de Gobierno se realizarán de acuerdo con el reglamento que para tal efecto ésta expida.
 
@@ -112,11 +116,15 @@ El presidente de la Junta de Gobierno será el Jefe de Gobierno del Distrito Fed
 
 I. Presidir las sesiones de la Junta de Gobierno;
 
-II. Convocar a las sesiones ordinarias y extraordinarias que considere necesarias o a solicitud de la mitad más uno de sus miembros, así como instalar y moderar los debates de las mismas;
+> <small>(REFORMADA, G.O. 19 DE JULIO DE 2012)</small>
+
+II. Emitir, por sí o por conducto del Secretario Técnico, o bien, a solicitud de la mitad más uno de sus miembros, las convocatorias a los miembros de la Junta de Gobierno, y, en su caso, a los invitados, acompañando el orden del día correspondiente;
 
 III. Someter a votación los asuntos tratados en las sesiones y resolver los empates con su voto de calidad, y
 
 IV. Las demás que le encomiende la Junta de Gobierno.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE OCTUBRE DE 2012 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### Artículo 13.
 
@@ -145,6 +153,12 @@ X. Llevar el registro y dar seguimiento a los acuerdos tomados en las sesiones d
 XI. Informar a la Junta de Gobierno en cada sesión, sobre el estado que guardan los acuerdos tomados en las sesiones anteriores, y
 
 XII. Las demás que le confiera la Junta de Gobierno y el Estatuto Orgánico.
+
+> <small>(ADICIONADA, G.O. 19 DE JULIO DE 2012)</small>
+
+XIV (SIC). Convocar, por sí o a solicitud del Presidente de la Junta de Gobierno, o de la mitad más uno de sus miembros, a las sesiones de la Junta de Gobierno;
+
+XV. … (SIC)
 
 ## Título Segundo. De la Estructura y Funciones de la Escuela
 
@@ -412,15 +426,21 @@ VI. Fijar, de acuerdo a las disposiciones jurídicas y administrativas aplicable
 
 VII. Convocar y dirigir, de conformidad con la normatividad aplicable, los concursos de proveedores y de contratistas para la adquisición de bienes y servicios;
 
-VIII. Autorizar previo acuerdo con el titular de la Dirección General, la adquisición de bienes, contratación de servicios y arrendamientos de bienes inmuebles, observando al efecto las disposiciones jurídicas y administrativas aplicables;
+> <small>(REFORMADA, G.O. 19 DE JULIO DE 2012)</small>
+
+VIII. Revisar, autorizar y suscribir, previo acuerdo con el Titular de la Dirección General, los dictámenes, justificaciones, convenios y contratos, incluyendo la rescisión y terminación anticipada de estos últimos y demás actos jurídicos y documentos relacionados, en materia de adquisición de bienes, arrendamiento y prestación de servicios que la Escuela requiera, debiendo proveer su cumplimiento y resguardo documental.
 
 IX. Observar y aplicar al interior de la Escuela en lo que corresponda, las políticas en materia de desarrollo y administración del personal, de organización, de sistemas administrativos, de información y servicios generales, de conformidad con las disposiciones jurídicas aplicables y los lineamientos que emitan la Oficialía Mayor y la Contraloría General en el ámbito de sus respectivas competencias;
 
 X. Instrumentar los programas tendientes al desarrollo del personal;
 
-XI. Planear y coordinar la prestación de servicios de apoyo que requieran las diversas Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo de la Escuela, y
+XI. Planear y coordinar la prestación de servicios de apoyo que requieran las diversas Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo de la Escuela, y (sic)
 
-XII. Las demás que de manera directa le asigne el titular de la Dirección General, así como las que se establezcan en la normatividad aplicable.
+> <small>(ADICIONADA, G.O. 19 DE JULIO DE 2012)</small>
+
+XII. Expedir copias certificadas de los documentos que obren en los archivos de la Dirección de Administración sobre los asuntos de su competencia.
+
+XIII. Las demás que de manera directa le asigne el titular de la Dirección General, así como las que se establezcan en la normatividad aplicable.
 
 ### Capítulo XI. De la Dirección Jurídica
 
@@ -524,6 +544,10 @@ Primero.- El presente Estatuto entrará en vigor al día siguiente de su publica
 
 Segundo.- Los Manuales de Organización y Procedimientos, así como cualquier otra disposición administrativa, deberán publicarse en la Gaceta Oficial del Distrito Federal dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente Estatuto.
 
+> <small>(ADICIONADO, G.O. 19 DE JULIO DE 2012)</small>
+
+Tercero.- Las facultades que el presente Estatuto otorga a la Coordinación Académica, serán realizadas por la Coordinación General de Certificación, Soporte Legal e Informática, hasta en tanto se realicen los actos administrativos ante la Coordinación General de Modernización Administrativa para autorizar la estructura orgánica que deriven de la entrada en vigor del presente Estatuto.
+
 México, Distrito Federal a los 14 días de diciembre de 2011.
 
 El presente Aviso por el que se da a conocer el Estatuto Orgánico de la Escuela de Administración Pública del Distrito Federal se emite en México, Distrito Federal, a los 14 días del mes de diciembre de 2011.
@@ -535,3 +559,9 @@ LA DIRECTORA GENERAL Y SECRETARIA TÉCNICA DE LA JUNTA DE GOBIERNO DE LA ESCUELA
 (Firma)
 
 DRA. MARA NADIEZHDA ROBLES VILLASEÑOR
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+G.O. 19 DE JULIO DE 2012.
+
+ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
