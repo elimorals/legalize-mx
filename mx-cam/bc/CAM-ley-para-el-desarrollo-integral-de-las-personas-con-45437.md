@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-el-desarrollo-integral-de-las-personas-con-45437"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-01"
-last_updated: "2008-09-10"
+last_updated: "2012-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY PARA EL DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 19 DE JULIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 1 de julio de 2005.
 
@@ -944,3 +946,17 @@ P.O. 10 DE SEPTIEMBRE DE 2008.
 Primero.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 19 DE JULIO DE 2012.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga la Ley para el Desarrollo Integral de las Personas con Discapacidad en el Estado de Campeche publicada en el Periódico Oficial del Estado el diez de septiembre del año dos mil ocho.
+
+Tercero.- El Sistema para el Desarrollo Integral de la Familia en el Estado, por conducto de su cabeza de sector, en un término no mayor de 180 días hábiles contados a partir de la entrada en vigor del presente decreto, deberá remitir a la Consejería Jurídica del Gobernador para su revisión, el anteproyecto del reglamento de esta Ley, de conformidad con el artículo 22 de la Ley Orgánica de la Administración Pública del Estado, en vigor.
+
+Cuarto.- A partir de la entrada en vigor de la presente Ley, todas las dependencias del Estado y los HH. Ayuntamientos de los Municipios del mismo, deberán prever los recursos necesarios para el diseño e implementación de acciones y políticas públicas a fin de lograr, de manera progresiva, el pleno ejercicio de los derechos de las personas con discapacidad en congruencia con la Convención sobre los Derechos de las Personas con Discapacidad y su protocolo facultativo.
+
+Quinto.- Los HH. Ayuntamientos de los Municipios del Estado deberán realizar las adecuaciones necesarias a los reglamentos municipales en materia de construcciones a fin de armonizarlos con los instrumentos jurídicos internacionales, la presente ley, así como las correspondientes Normas Oficiales Mexicanas, en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor de la presente Ley o, en su caso, emitir o modificar los reglamentos específicos y/o acuerdos de observancia general que consideren pertinentes.
+
+Sexto.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente decreto.
