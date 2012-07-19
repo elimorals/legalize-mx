@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-el-funcionamiento-expedicion-y-revalidacion-de-14520"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-30"
-last_updated: "2011-12-26"
+last_updated: "2012-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY PARA EL FUNCIONAMIENTO, EXPEDICIÓN Y REVALIDACIÓN DE LICENCIAS Y PERMISOS A DISTRIBUIDORES Y COMERCIALIZADORES DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 30 de mayo de 1996.
 
@@ -55,23 +55,37 @@ Para los efectos de esta Ley, se consideran bebidas con contenido alcohólico to
 
 Los establecimientos y giros que se dediquen al almacenamiento, distribución, venta y consumo de bebidas alcohólicas sólo se autorizarán en los lugares que señale la presente Ley y que reúnan los requisitos previstos en la misma o en su reglamento respectivo, previo el pago de los derechos y otros conceptos que fijen las leyes hacendarias que les sean aplicables.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 4.
 
-Para la operación y funcionamiento de los establecimientos o giros que se dediquen al almacenamiento, distribución, venta y consumo de bebidas alcohólicas, en envase cerrado o abierto, deberán contar previamente con la licencia o permiso expedido por el Ejecutivo del Estado, que podrá delegar en el titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, la que las otorgará en los términos y bajo las condiciones que establece la presente Ley.
+Para la operación y funcionamiento de los establecimientos o giros que se dediquen al almacenamiento, distribución, venta y consumo de bebidas alcohólicas, en envase cerrado o abierto, deberán contar previamente con la licencia o permiso expedido por el Ejecutivo del Estado, que podrá delegar en el titular de la Secretaría de Finanzas del Gobierno del Estado, la que las otorgará en los términos y bajo las condiciones que establece la presente Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 5.
 
-Es facultad del Ejecutivo del Estado, vigilar todo lo concerniente al cumplimiento y aplicación de la presente Ley, a través de la Secretaría de Finanzas y Administración del Gobierno del Estado, sin perjuicio de las facultades que el presente ordenamiento otorga al Ministerio Público del Estado y a las autoridades municipales.
+Es facultad del Ejecutivo del Estado, vigilar todo lo concerniente al cumplimiento y aplicación de la presente Ley, a través de las Secretarías de Finanzas, de Salud y de Seguridad Pública y Protección a la Comunidad, en el ámbito de sus respectivas competencias, sin perjuicio de las facultades que el presente ordenamiento otorga al Ministerio Público del Estado y a las autoridades municipales.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 6.
 
-Para garantizar el cumplimiento de esta ley, el Ejecutivo del Estado, por conducto de su Secretaría de Finanzas y Administración, podrá celebrar acuerdos de coordinación con los Ayuntamientos, en los términos que dispone la Ley Orgánica de los Municipios, delegando en éstos el ejercicio de las atribuciones que esta ley le confiere, salvo las que expresamente se exceptúen en dichos acuerdos o en esta ley, sin perjuicio de poder ejercerlas en cualquier momento en forma paralela o exclusiva.
+Para garantizar el cumplimiento de esta ley, el Ejecutivo del Estado, por conducto de su Secretaría de Finanzas, podrá celebrar acuerdos de coordinación con los Ayuntamientos, en los términos que dispone la Ley Orgánica de los Municipios, delegando en éstos el ejercicio de las atribuciones que esta ley le confiere, salvo las que expresamente se exceptúen en dichos acuerdos o en esta ley, sin perjuicio de poder ejercerlas en cualquier momento en forma paralela o exclusiva.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 7.
 
-El Gobernador del Estado expedirá el Reglamento que estime pertinente para el mejor cumplimiento y observancia de las disposiciones de esta Ley. Asimismo, el Secretario de Finanzas y Administración del Gobierno del Estado estará facultado para expedir circulares y disposiciones administrativas de carácter general, que establezcan los criterios de interpretación para la aplicación de las disposiciones que establece esta Ley y su Reglamento, debiendo difundirlas por los medios de comunicación que juzgue necesarios, para que su conocimiento pleno llegue a la población en general.
+El Gobernador del Estado expedirá el Reglamento que estime pertinente para el mejor cumplimiento y observancia de las disposiciones de esta Ley. Asimismo, el Secretario de Finanzas del Gobierno del Estado estará facultado para expedir circulares y disposiciones administrativas de carácter general, que establezcan los criterios de interpretación para la aplicación de las disposiciones que establece esta Ley y su Reglamento, debiendo difundirlas por los medios de comunicación que juzgue necesarios, para que su conocimiento pleno llegue a la población en general.
 
 A falta de disposición expresa en esta Ley, siempre que no se contravenga la misma, será aplicable supletoriamente el Código Fiscal del Estado y las normas de derecho común.
 
@@ -207,7 +221,11 @@ Son obligaciones de los propietarios, representantes legales o encargados de los
 
 I.- No vender bebidas alcohólicas que estén adulteradas, contaminadas o alteradas, en los términos de las disposiciones de salud aplicables, sin perjuicio de las sanciones administrativas de las autoridades sanitarias o penales que correspondan cuando sean constitutivas de delitos.
 
-II.- Permitir la inspección de sus negocios, local completo, licencia y demás documentos que esta Ley señala, a los inspectores de la Secretaría de Finanzas y Administración del Gobierno del Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2012)</small>
+
+II.- Permitir la inspección de sus negocios, local completo, licencia y demás documentos que esta Ley señala, a los inspectores de la Secretaría de Finanzas del Gobierno del Estado;
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 1998)</small>
 
@@ -297,7 +315,11 @@ II.- Los que no tengan capacidad legal de ejercicio.
 
 III.- A quienes hayan sufrido condena por delitos sexuales, contra la vida o la salud, si no han transcurrido cinco años desde que se extinguió la condena.
 
-IV.- Los que hubieren tenido permiso y hayan cedido los derechos del mismo a terceras personas, sin la autorización respectiva de la Secretaría de Finanzas y Administración del Gobierno del Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2012)</small>
+
+IV.- Los que hubieren tenido permiso y hayan cedido los derechos del mismo a terceras personas, sin la autorización respectiva de la Secretaría de Finanzas del Gobierno del Estado;
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 1998)</small>
 
@@ -355,59 +377,75 @@ XII.- Distribuidoras de lunes a sábado de 9:00 horas a 20:00 horas.
 
 El horario estipulado en los artículos anteriores es para la venta y para el consumo, sin que por motivo alguno pueda excederse de lo señalado salvo el permiso expreso de la autoridad correspondiente.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 21.
 
-Es facultad del Ejecutivo por conducto de la Secretaría de Finanzas y Administración del Gobierno del Estado, señalar discrecionalmente, los días en que, en los establecimientos a que se refiere la presente Ley, no podrá venderse ni consumirse bebidas alcohólicas. En este caso, el Ejecutivo a través de la Secretaría de Finanzas y Administración del Gobierno del Estado los dará a conocer por los medios de comunicación social que considere convenientes, respetando por Ley, los días de elección popular, cambios de poder, e informes de gobiernos federales, estatales y municipales.
+Es facultad del Ejecutivo por conducto de la Secretaría de Finanzas del Gobierno del Estado, señalar discrecionalmente, los días en que, en los establecimientos a que se refiere la presente Ley, no podrá venderse ni consumirse bebidas alcohólicas. En este caso, el Ejecutivo a través de la Secretaría de Finanzas del Gobierno del Estado los dará a conocer por los medios de comunicación social que considere convenientes, respetando por Ley, los días de elección popular, cambios de poder, e informes de gobiernos federales, estatales y municipales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 22.
 
-El Ejecutivo, por conducto de la Secretaría de Finanzas y Administración del Gobierno del Estado, podrá modificar los horarios y los días establecidos para el almacenamiento, distribución, venta y consumo de bebidas alcohólicas a través de disposiciones generales que se publicarán con la debida anticipación en la prensa, o bien, se podrá hacerlo mediante disposiciones generales de tipo administrativo, cuando por razones de orden público o interés general estime necesario o convenientes los cambios indicados.
+El Ejecutivo, por conducto de la Secretaría de Finanzas del Gobierno del Estado, podrá modificar los horarios y los días establecidos para el almacenamiento, distribución, venta y consumo de bebidas alcohólicas a través de disposiciones generales que se publicarán con la debida anticipación en la prensa, o bien, se podrá hacerlo mediante disposiciones generales de tipo administrativo, cuando por razones de orden público o interés general estime necesario o convenientes los cambios indicados.
 
-Asimismo, el Ejecutivo por conducto de la Secretaría de Finanzas y Administración del Gobierno del Estado, podrá establecer en forma discrecional, un horario distinto que se hará constar en las propias licencias o permisos que se expidan para aquellos establecimientos y giros en los que medien circunstancias especiales.
+Asimismo, el Ejecutivo por conducto de la Secretaría de Finanzas del Gobierno del Estado, podrá establecer en forma discrecional, un horario distinto que se hará constar en las propias licencias o permisos que se expidan para aquellos establecimientos y giros en los que medien circunstancias especiales.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1998)</small>
+Los Presidentes Municipales de acuerdo con las circunstancias propias de cada Municipio, podrán proponer mediante escrito debidamente fundado y motivado a las autoridades correspondientes, la modificación de horarios y días para el almacenamiento, distribución, venta y consumo de bebidas alcohólicas, los cuales para que entren en vigor, deberán contar con el correspondiente acuerdo del Ejecutivo emitido por conducto de su Secretaría de Finanzas.
 
-Los Presidentes Municipales de acuerdo con las circunstancias propias de cada Municipio, podrán proponer mediante escrito debidamente fundado y motivado a las autoridades correspondientes, la modificación de horarios y días para el almacenamiento, distribución, venta y consumo de bebidas alcohólicas, los cuales para que entren en vigor, deberán contar con el correspondiente acuerdo del Ejecutivo emitido por conducto de la Secretaría de Finanzas y Administración.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 23.
 
-Las asociaciones civiles, centros cívicos, clubes de servicios o agrupaciones que tengan finalidades mutualistas, recreativas o de cualquiera otra que sea lícita y de naturaleza no lucrativa, se sujetarán a los horarios y días establecidos en la presente Ley, salvo en los casos especiales que el Ejecutivo, por conducto de la Secretaría de Finanzas y Administración del Gobierno del Estado considere conveniente.
+Las asociaciones civiles, centros cívicos, clubes de servicios o agrupaciones que tengan finalidades mutualistas, recreativas o de cualquiera otra que sea lícita y de naturaleza no lucrativa, se sujetarán a los horarios y días establecidos en la presente Ley, salvo en los casos especiales que el Ejecutivo, por conducto de la Secretaría de Finanzas del Gobierno del Estado considere conveniente.
 
 ###### ARTICULO 24.
 
 Todos los establecimientos y giros a que se refiere esta Ley, se regirán para el almacenamiento, distribución, venta y consumo de bebidas alcohólicas, por los horarios que se señalen en la presente ley o los que se hagan constar en las propias licencias o permisos.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 25.
 
-Sólo el Ejecutivo a través de la Secretaría de Finanzas y Administración del Gobierno del Estado, podrá conceder horas extras a los establecimientos y giros señalados en esta Ley, para que almacenen distribuyan, vendan o se consuma en ellos bebidas alcohólicas, fuera de las horas a que se refiere este Ordenamiento, previo pago de derechos, de conformidad con la Ley de Hacienda del Estado.
+Sólo el Ejecutivo a través de la Secretaría de Finanzas del Gobierno del Estado, podrá conceder horas extras a los establecimientos y giros señalados en esta Ley, para que almacenen, distribuyan, vendan o se consuma en ellos bebidas alcohólicas, fuera de las horas a que se refiere este Ordenamiento, previo pago de derechos, de conformidad con la Ley de Hacienda del Estado.
 
 ### CAPITULO V. DE LA EXPEDICION Y REVALIDACION DE LICENCIAS Y PERMISOS
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 26.
 
-Para la apertura de los establecimientos y giros en las actividades de almacenamiento, distribución, venta y consumo a que se refiere esta Ley, se requerirá de licencia o permiso que expedirá el Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y Administración del Gobierno del Estado, pudiendo emitir opinión, en su caso, la autoridad municipal correspondiente, en los términos y con los requisitos que señale esta Ley.
-
-Ningún establecimiento de los que esta Ley regula, podrá iniciar sus actividades sin contar con la licencia o permiso respectivo.
+Para la apertura de los establecimientos y giros en las actividades de almacenamiento, distribución, venta y consumo a que se refiere esta Ley, se requerirá de licencia o permiso que expedirá el Ejecutivo del Estado, por conducto de la Secretaría de Finanzas del Gobierno del Estado, pudiendo emitir opinión, en su caso, la autoridad municipal correspondiente, en los términos y con los requisitos que señale esta Ley.
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1998)</small>
 
+Ningún establecimiento de los que esta Ley regula, podrá iniciar sus actividades sin contar con la licencia o permiso respectivo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 27.
 
-Para los efectos de esta Ley, se entiende por licencia o permiso la autorización que otorgue el Ejecutivo, por conducto del Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado a las personas físicas o morales que se dediquen al almacenamiento, distribución, venta o el consumo de bebidas alcohólicas en los locales que establece la presente Ley, entendiéndose siempre que es un acto discrecional de la autoridad, que constituye exclusivamente, al otorgarse al solicitante un derecho personal, intransferible y condicionado, y consecuentemente, podrá cancelarse cuando a juicio del Ejecutivo lo requiera el orden público, la moral, o las buenas costumbres, o cuando medie algún otro motivo de interés general, quedando además, sujeta a la revalidación anual.
+Para los efectos de esta Ley, se entiende por licencia o permiso la autorización que otorgue el Ejecutivo, por conducto del Titular de la Secretaría de Finanzas del Gobierno del Estado a las personas físicas o morales que se dediquen al almacenamiento, distribución, venta o el consumo de bebidas alcohólicas en los locales que establece la presente Ley, entendiéndose siempre que es un acto discrecional de la autoridad, que constituye exclusivamente, al otorgarse al solicitante un derecho personal, intransferible y condicionado, y consecuentemente, podrá cancelarse cuando a juicio del Ejecutivo lo requiera el orden público, la moral, o las buenas costumbres, o cuando medie algún otro motivo de interés general, quedando además, sujeta a la revalidación anual.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 28.
 
-Para obtener licencia o permiso con el objeto de operar establecimientos y giros destinados para el almacenamiento, distribución, venta y consumo de bebidas alcohólicas, el interesado bajo protesta de decir verdad deberá presentar su solicitud en las formas que establezca la Secretaría de Finanzas y Administración del Gobierno del Estado, acompañándola de los siguientes documentos:
+Para obtener licencia o permiso con el objeto de operar establecimientos y giros destinados para el almacenamiento, distribución, venta y consumo de bebidas alcohólicas, el interesado bajo protesta de decir verdad deberá presentar su solicitud en las formas que establezca la Secretaría de Finanzas del Gobierno del Estado, acompañándola de los siguientes documentos:
 
 I.- Copia certificada del acta de nacimiento si se trata de persona física o copia del acta constitutiva y de los estatutos si se trata de persona moral.
 
@@ -427,31 +465,45 @@ VIII.- Licencia de uso de suelo otorgada por el H. Ayuntamiento correspondiente 
 
 IX.- Fotografías de interiores y exteriores del local.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 29.
 
-Recibida la solicitud y los anexos a que se refiere el artículo anterior, el Ejecutivo del Estado, por conducto del titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, si considera que no se lesiona el orden público o el interés social, dentro de los quince días de calendario siguientes a la recepción de la solicitud, ordenará una visita de inspección al local, a efecto de comprobar si se reúnen los requisitos establecidos por esta Ley, independientemente de lo que establezcan las leyes sanitarias.
+Recibida la solicitud y los anexos a que se refiere el artículo anterior, el Ejecutivo del Estado, por conducto del titular de la Secretaría de Finanzas del Gobierno del Estado, si considera que no se lesiona el orden público o el interés social, dentro de los quince días de calendario siguientes a la recepción de la solicitud, ordenará una visita de inspección al local, a efecto de comprobar si se reúnen los requisitos establecidos por esta Ley, independientemente de lo que establezcan las leyes sanitarias.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 30.
 
-Una vez practicada la inspección, y consecuentemente comprobado que el local reúne los requisitos de Ley, el Ejecutivo del Estado, por conducto del titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, dentro de los 90 días siguientes, resolverá discrecionalmente si es de otorgarse o no la licencia o permiso correspondiente. Si después de concluido este plazo no se hubiere otorgado la licencia o permiso, se considerará como rechazada la solicitud del interesado.
+Una vez practicada la inspección, y consecuentemente comprobado que el local reúne los requisitos de Ley, el Ejecutivo del Estado, por conducto del titular de la Secretaría de Finanzas del Gobierno del Estado, dentro de los 90 días siguientes, resolverá discrecionalmente si es de otorgarse o no la licencia o permiso correspondiente. Si después de concluido este plazo no se hubiere otorgado la licencia o permiso, se considerará como rechazada la solicitud del interesado.
 
 ###### ARTICULO 31.
 
 En los casos de solicitud de licencia o permiso para los establecimientos y giros a que se alude en el artículo 8 de esta Ley, el Ejecutivo por conducto del titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, en forma discrecional, podrá dispensar algún o algunos de los requisitos a que se refieren los artículos anteriores.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 32.
 
-Las licencias o permisos para el almacenamiento, distribución, venta y consumo de bebidas alcohólicas expedidas conforme a esta Ley, serán personales e intransferibles, no podrán ser objeto de comercio, arrendamiento, comodato, venta o gravamen por cualquier concepto, salvo autorización expresa del Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado. La transgresión a lo anterior, tendrá como consecuencia la nulidad de la operación y dará lugar a la cancelación de la licencia o permiso y la clausura del establecimiento que esté operando al amparo de la misma.
+Las licencias o permisos para el almacenamiento, distribución, venta y consumo de bebidas alcohólicas expedidas conforme a esta Ley, serán personales e intransferibles, no podrán ser objeto de comercio, arrendamiento, comodato, venta o gravamen por cualquier concepto, salvo autorización expresa del Titular de la Secretaría de Finanzas del Gobierno del Estado. La transgresión a lo anterior, tendrá como consecuencia la nulidad de la operación y dará lugar a la cancelación de la licencia o permiso y la clausura del establecimiento que esté operando al amparo de la misma.
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2000)</small>
 
 Las licencias o permisos a que se refiere esta Ley, concebidas como un acto discrecional que constituye un derecho personal, intransferible y condicionado en términos del artículo 27 de este mismo ordenamiento legal, en consecuencia, tampoco podrán ser objeto de embargo decretado por autoridades judiciales, administrativas o del trabajo, siendo nulo de pleno derecho el acto jurisdiccional o administrativo que lo decretare.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 33.
 
-Se exceptúan de lo dispuesto en el artículo anterior, los casos de fallecimiento del titular de la licencia o permiso, en los cuales podrá expedirse discrecionalmente éstos a favor del o de los herederos que reúnan los requisitos previstos en esta Ley, debiéndose elaborar la solicitud correspondiente para que el Ejecutivo del Estado, por conducto del titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, autorice el cambio respectivo, y entretanto, con permiso especial, el establecimiento continuará funcionando.
+Se exceptúan de lo dispuesto en el artículo anterior, los casos de fallecimiento del titular de la licencia o permiso, en los cuales podrá expedirse discrecionalmente éstos a favor del o de los herederos que reúnan los requisitos previstos en esta Ley, debiéndose elaborar la solicitud correspondiente para que el Ejecutivo del Estado, por conducto del titular de la Secretaría de Finanzas del Gobierno del Estado, autorice el cambio respectivo, y entre tanto, con permiso especial, el establecimiento continuará funcionando.
 
 En el caso de que hubiere oposición entre los herederos legítimos o testamentarios, deberá tomarse en cuenta lo que decida la autoridad judicial conforme al derecho civil para la expedición de la licencia o permiso al nuevo titular.
 
@@ -471,9 +523,11 @@ Cuando una misma persona física o moral sea propietaria o poseedora de varios e
 
 Si en un mismo local se encuentran establecidos diversos giros sean o no propiedad de la misma persona física o moral, se deberá obtener la licencia o permiso y revalidación o renovación para cada uno de ellos.
 
-> <small>(ADICIONADO, P.O. 8 DE ENERO DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-El establecimiento de giros diversos en un mismo local, previsto en el párrafo que antecede, queda sujeto a dictamen previo favorable de la Secretaría de Finanzas y Administración, el que se emitirá atendiendo a que las características físicas del local permitan una distribución adecuada y delimitación plena de aquellos.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2012)</small>
+
+El establecimiento de giros diversos en un mismo local, previsto en el párrafo que antecede, queda sujeto a dictamen previo favorable de la Secretaría de Finanzas, el que se emitirá atendiendo a que las características físicas del local permitan una distribución adecuada y delimitación plena de aquellos.
 
 > <small>(ADICIONADO, P.O. 8 DE ENERO DE 1997)</small>
 
@@ -521,33 +575,49 @@ Entretanto transcurre el lapso para autorizar la revalidación o renovación de 
 
 Tratándose de cambio de giro o de reposición de la documentación que ampare la licencia o permiso en caso de extravío, el reglamento establecerá el procedimiento y requisitos correspondientes para ello.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 43.
 
-La Secretaría de Finanzas y Administración del Gobierno del Estado, podrá otorgar permisos eventuales para venta y consumo de bebidas alcohólicas, cuando se trate de la celebración de eventos especiales o en locales debidamente acondicionados, previo pago de los derechos correspondientes mencionados en la Ley de Hacienda del Estado.
+La Secretaría de Finanzas del Gobierno del Estado, podrá otorgar permisos eventuales para venta y consumo de bebidas alcohólicas, cuando se trate de la celebración de eventos especiales o en locales debidamente acondicionados, previo pago de los derechos correspondientes mencionados en la Ley de Hacienda del Estado.
 
 Asimismo los H.H. Ayuntamientos, por conducto de sus Presidentes, podrán expedir permisos eventuales para bailes de especulación o negocio y fiestas tradicionales con venta de bebidas alcohólicas en envase abierto y al copeo, para una sola fecha o por varios días determinados. Estos permisos sólo se expedirán, en su caso, cuando lo soliciten clubes u organizaciones de servicio social o asistencial, legalmente constituidos. Los derechos que causen tales permisos, deberán cubrirse previamente en la oficina recaudadora de rentas del Gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-No se otorgarán permisos ni licencias para la venta de bebidas alcohólicas en los domicilios particulares con motivo de festejo alguno o por cualquier otro motivo o fin. En caso de contravención a este precepto, la sanción procedente se impondrá tanto al propietario o poseedor del inmueble donde se cometa la infracción como al propietario de las bebidas alcohólicas o promotor de su venta, debiendo los inspectores de la Secretaría de Finanzas y Administración del Gobierno del Estado o los elementos de los cuerpos policiacos correspondientes, levantar el acta respectiva.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2012)</small>
+
+No se otorgarán permisos ni licencias para la venta de bebidas alcohólicas en los domicilios particulares con motivo de festejo alguno o por cualquier otro motivo o fin. En caso de contravención a este precepto, la sanción procedente se impondrá tanto al propietario o poseedor del inmueble donde se cometa la infracción como al propietario de las bebidas alcohólicas o promotor de su venta, debiendo los inspectores de la Secretaría de Finanzas del Gobierno del Estado o los elementos de los cuerpos policiacos correspondientes, levantar el acta respectiva.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 44.
 
-La Secretaría de Finanzas y Administración del Gobierno del Estado a través de la Dirección de Ingresos deberá recabar periódicamente de los H.H. Ayuntamientos, una relación de los permisos expedidos en los términos del artículo anterior.
+La Secretaría de Finanzas del Gobierno del Estado a través de la Dirección de Ingresos deberá recabar periódicamente de los H.H. Ayuntamientos, una relación de los permisos expedidos en los términos del artículo anterior.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 45.
 
-En todo caso de venta clandestina de bebidas alcohólicas, entendiéndose por ésta la que se realiza en casa-habitación o en cualquier otro lugar sin contar con la licencia o permiso correspondiente, se suspenderá la venta y se hará el secuestro de las bebidas alcohólicas y envases vacíos de las mismas, para garantizar el interés fiscal independientemente de la aplicación de las sanciones que señala el Capítulo XII de esta Ley. El producto se pondrá, en riguroso inventario, a disposición de la Secretaría de Finanzas y Administración del Gobierno del Estado para que se afecte al fin que legalmente proceda.
+En todo caso de venta clandestina de bebidas alcohólicas entendiéndose por ésta la que se realiza en casa-habitación o en cualquier otro lugar sin contar con la licencia o permiso correspondiente, se suspenderá la venta y se hará el secuestro de las bebidas alcohólicas y envases vacíos de las mismas, para garantizar el interés fiscal independientemente de la aplicación de las sanciones que señala el capítulo XII de esta Ley. El producto se pondrá, en riguroso inventario, a disposición de la Secretaría de Finanzas del Gobierno del Estado para que se afecte al fin que legalmente proceda.
 
 Los inspectores o servidores públicos que en ejercicio de sus funciones conozcan de hechos u omisiones que entrañen o puedan entrañar infracción a otras disposiciones, lo comunicarán a la autoridad competente.
 
 ### CAPITULO VI. DE LOS CAMBIOS DE DOMICILIO, NOMBRE, RAZON SOCIAL Y GIRO DE LOS ESTABLECIMIENTOS
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 46.
 
-El Ejecutivo del Estado por conducto del titular de la Secretaría de Finanzas y Administración del Gobierno del Estado discrecionalmente, podrá autorizar los cambios de domicilio, nombre, razón social y giro a los titulares de licencias o permisos destinados al almacenamiento, distribución, venta y consumo de bebidas alcohólicas, en el territorio del Estado, siempre y cuando se compruebe que el solicitante ha cumplido con todos los requisitos establecidos en la presente Ley y su reglamento y hayan cubierto los derechos correspondientes mencionados en la Ley de Hacienda del Estado.
+El Ejecutivo del Estado por conducto del titular de la Secretaría de Finanzas del Gobierno del Estado discrecionalmente, podrá autorizar los cambios de domicilio, nombre, razón social y giro a los titulares de licencias o permisos destinados al almacenamiento, distribución, venta y consumo de bebidas alcohólicas, en el territorio del Estado, siempre y cuando se compruebe que el solicitante ha cumplido con todos los requisitos establecidos en la presente Ley y su reglamento y hayan cubierto los derechos correspondientes mencionados en la Ley de Hacienda del Estado.
 
 > <small>(ADICIONADO, P.O. 8 DE ENERO DE 1997)</small>
 
@@ -557,31 +627,43 @@ No se autorizará el cambio de domicilio si en el local o lugar a donde se prete
 
 Las correspondientes solicitudes de cambio se harán bajo protesta de decir verdad.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 47.
 
-El Ejecutivo por conducto del titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, podrá disponer el cambio de domicilio de los establecimientos con licencia o permiso cuando así lo requiera el interés general.
+El Ejecutivo por conducto del titular de la Secretaría de Finanzas del Gobierno del Estado, podrá disponer el cambio de domicilio de los establecimientos con licencia o permiso cuando así lo requiera el interés general.
 
 ### CAPITULO VII. DE LAS VISITAS DE INSPECCION Y VIGILANCIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DEL 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 48.
 
-La Secretaría de Finanzas y Administración del Gobierno del Estado podrá ordenar y practicar visitas de inspección a los establecimientos o cualquier otro lugar en donde se desarrollen las actividades que regula la presente ley, independientemente de que cuenten o no con la licencia o permiso correspondientes, para verificar el cumplimiento de las disposiciones legales. En los ámbitos municipales los Presidentes de los HH. Ayuntamientos de los Municipios del Estado, coadyuvarán en el cumplimiento de dicha función, por conducto de los servidores públicos que los propios Ayuntamientos designen.
+La Secretaría de Finanzas del Gobierno del Estado podrá ordenar y practicar visitas de inspección a los establecimientos o cualquier otro lugar en donde se desarrollen las actividades que regula la presente ley, independientemente de que cuenten o no con la licencia o permiso correspondientes, para verificar el cumplimiento de las disposiciones legales. En los ámbitos municipales los Presidentes de los HH. Ayuntamientos de los Municipios del Estado, coadyuvarán en el cumplimiento de dicha función, por conducto de los servidores públicos que los propios Ayuntamientos designen.
 
-La Policía Judicial del Estado y los Cuerpos de Seguridad Pública Municipal estarán obligados a prestar el auxilio necesario y a consignar cualquier infracción que descubran en el cumplimiento de sus obligaciones de vigilancia, para lo cual deberán levantar acta, la que remitirán a la Secretaría de Finanzas y Administración del Gobierno del Estado.
+La Policía Judicial del Estado y los Cuerpos de Seguridad Pública Municipal estarán obligados a prestar el auxilio necesario y a consignar cualquier infracción que descubran en el cumplimiento de sus obligaciones de vigilancia, para lo cual deberán levantar acta, la que remitirán a la Secretaría de Finanzas del Gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 49.
 
-La vigilancia, para el cumplimiento de las disposiciones a que esta ley se refiere, estará a cargo de los inspectores que designen la Secretaría de Finanzas y Administración o, en su caso, el Ayuntamiento, quienes para verificar las infracciones se auxiliarán de los agentes de policía judicial del fuero común o de seguridad pública destacamentados en la respectiva localidad.
+La vigilancia, para el cumplimiento de las disposiciones a que esta ley se refiere, estará a cargo de los inspectores que designen la Secretaría de Finanzas o, en su caso, las Secretarías de Salud y la de Seguridad Pública y Protección a la Comunidad, o el Ayuntamiento, en el ámbito de sus respectivas competencias, quienes para verificar las infracciones se auxiliarán de los agentes de policía judicial del fuero común o de seguridad pública destacamentados en la respectiva localidad.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DEL 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 50.
 
-Los inspectores en el ejercicio de sus funciones tendrán libre acceso a los establecimientos a cualquier otro lugar a que esta Ley se refiere, debiendo previamente identificarse ante la persona con quien se entienda la diligencia, con credencial expedida por la Secretaría de Finanzas y Administración del Gobierno del Estado.
+Los inspectores en el ejercicio de sus funciones tendrán libre acceso a los establecimientos o a cualquier otro lugar a que esta Ley se refiere, debiendo previamente identificarse ante la persona con quien se entienda la diligencia, con credencial expedida por la Secretaría de Finanzas del Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DEL 2000)</small>
 
 Los permisionarios, representantes legales, encargados o cualquiera otra persona que se encuentre en el establecimiento o lugar objeto de la inspección, estarán obligados a permitir el acceso a los mismos, a dar facilidades e informes a los inspectores para el desarrollo de su labor.
 
@@ -629,21 +711,29 @@ La negativa a firmar por parte del visitado o recibir copia de la misma o de la 
 
 Procederá la cancelación de las licencias o permisos correspondientes mediante el procedimiento administrativo, cuando se den además de las causas señaladas en forma especial en esta Ley, las siguientes:
 
-I.- Por hechos o actos que se realicen dentro de los establecimientos que alteren el orden público, la moral o las buenas costumbres, cuando sea culpa del permisionario o encargado o bien cuando medien motivos de interés general, a juicio discrecional del Ejecutivo por conducto del titular de la Secretaría de Finanzas y Administración del Gobierno del Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 8 DE ENERO DE 1997)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2012)</small>
 
-II.- Cuando, mediante la correspondiente acta de verificación, se compruebe la inactividad del establecimiento, por un lapso de treinta o más días de calendario consecutivos, o que el establecimiento es inexistente, o cuando se tenga noticia de su baja en los Registros Federal o Estatal de Contribuyentes, o se desconozca el domicilio del titular de la licencia o permiso. En estos casos la cancelación procederá de oficio, mediante resolución administrativa que al efecto se emita.
+I.- Por hechos o actos que se realicen dentro de los establecimientos que alteren el orden público, la moral o las buenas costumbres, cuando sea culpa del permisionario o encargado o bien cuando medien motivos de interés general, a juicio discrecional del Ejecutivo por conducto del titular de la Secretaría de Finanzas del Gobierno del Estado.
 
-> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-En el caso de que el Titular de la Licencia o Permiso presente Aviso de Suspensión de Actividades ante la Autoridad Fiscal Federal, deberá, asimismo, comunicarlo anexando copia de éste a la Secretaría de Finanzas y Administración, dentro de los siete días siguientes a la presentación de su Aviso de Suspensión, para el efecto de darle continuidad a la vigencia de su Licencia o Permiso, siempre que cumpla con las disposiciones establecidas en esta propia Ley y subsistan las condiciones que dieron origen a su expedición, ya que de no realizar el referido trámite ante la citada dependencia Estatal, ameritará la cancelación de su Licencia o Permiso.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2012)</small>
+
+II.- Cuando, mediante la correspondiente acta de verificación, se compruebe la inactividad del establecimiento, por un lapso de treinta o más días de calendario consecutivos, o que el establecimiento es inexistente, o cuando se tenga noticia de su baja en los Registros Federal o Estatal de Contribuyentes, o se desconozca el domicilio del titular de la licencia o permiso. En estos casos la cancelación procederá de oficio, mediante resolución administrativa que al efecto se emita;
+
+En el caso de que el Titular de la Licencia o Permiso presente Aviso de Suspensión de Actividades ante la Autoridad Fiscal Federal, deberá, asimismo, comunicarlo anexando copia de éste a la Secretaría de Finanzas, dentro de los siete días siguientes a la presentación de su Aviso de Suspensión, para el efecto de darle continuidad a la vigencia de su Licencia o Permiso, siempre que cumpla con las disposiciones establecidas en esta propia Ley y subsistan las condiciones que dieron origen a su expedición, ya que de no realizar el referido trámite ante la citada dependencia Estatal, ameritará la cancelación de su Licencia o Permiso;
 
 III.- Cuando el establecimiento haya dejado de reunir cualquiera de los requisitos que establece la presente Ley o se incurra por parte de los permisionarios en faltas u omisiones graves.
 
 IV.- A quienes vendan bebidas con contenido alcohólico a menores de edad e incapacitados legales, o les permitan su consumo en el interior de su establecimiento.
 
-V.- Cuando se compruebe la enajenación, traspaso o arrendamiento de la licencia o permiso de funcionamiento sin la autorización de la Secretaría de Finanzas y Administración del Gobierno del Estado o bien cuando ésta haya sido alterada u objeto de gravamen.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2012)</small>
+
+V.- Cuando se compruebe la enajenación, traspaso o arrendamiento de la licencia o permiso de funcionamiento sin la autorización de la Secretaría de Finanzas del Gobierno del Estado o bien cuando ésta haya sido alterada u objeto de gravamen.
 
 VI.- Que se realicen actos constitutivos de delitos o que entrañen violación a las leyes y reglamentos aplicables en el interior de los establecimientos a que se refiere la presente Ley, sin perjuicio de las sanciones de carácter penal o administrativo a que se dieren lugar, si hay culpa o responsabilidad del permisionario o encargado.
 
@@ -653,9 +743,11 @@ VIII.- En los casos de reincidencia a las infracciones a que se refiere el Capí
 
 IX.- En los casos de que el permisionario haya cambiado de domicilio del establecimiento sin antes haber solicitado de las autoridades correspondientes, el permiso respectivo, o de que esté operando con giro distinto al que indica su licencia.
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-X.- Por operar fuera de los horarios establecidos en la licencia o permiso correspondiente. En este caso el establecimiento podrá ser clausurado preventivamente en tanto el permisionario regularice su situación, a reserva de que su licencia o permiso le pueda ser cancelada si existe reincidencia o motivos graves a juicio del Ejecutivo por conducto de la Secretaría de Finanzas y Administración del Gobierno del Estado.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2012)</small>
+
+X.- Por operar fuera de los horarios establecidos en la licencia o permiso correspondiente. En este caso el establecimiento podrá ser clausurado preventivamente en tanto el permisionario regularice su situación, a reserva de que su licencia o permiso le pueda ser cancelada si existe reincidencia o motivos graves a juicio del Ejecutivo por conducto de la secretaría de Finanzas del Gobierno del Estado.
 
 > <small>(ADICIONADA, P.O. 8 DE ENERO DE 1997)</small>
 
@@ -663,17 +755,29 @@ XI.- Por contravención a lo previsto en el tercer párrafo del artículo 36 o e
 
 ### CAPITULO IX. DEL PROCEDIMIENTO ADMINISTRATIVO DE CANCELACION DE LICENCIAS DE FUNCIONAMIENTO
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 54.
 
-El Ejecutivo por conducto del titular de la Secretaría de Finanzas y Administración del Gobierno del Estado puede iniciar de oficio o a petición de la autoridad que intervenga en la vigilancia de esta Ley, el procedimiento de cancelación de la licencia o permiso y una vez tomado el acuerdo en tal sentido, notificará por escrito al permisionario la anterior decisión y las causas que la fundan y motivan, concediéndole un plazo de diez días para que exponga lo que a sus intereses convenga y ofrezca las pruebas que estime pertinentes, las que deberán ser de tal naturaleza que puedan desahogarse en un plazo máximo de treinta días.
+El Ejecutivo por conducto del titular de la Secretaría de Finanzas del Gobierno del Estado puede iniciar de oficio o a petición de la autoridad que intervenga en la vigilancia de esta Ley, el procedimiento de cancelación de la licencia o permiso y una vez tomado el acuerdo en tal sentido, notificará por escrito al permisionario la anterior decisión y las causas que la fundan y motivan, concediéndole un plazo de diez días para que exponga lo que a sus intereses convenga y ofrezca las pruebas que estime pertinentes, las que deberán ser de tal naturaleza que puedan desahogarse en un plazo máximo de treinta días.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 55.
 
-Transcurridos los términos a que se refiere el artículo anterior, el Ejecutivo por conducto de la Secretaría de Finanzas y Administración del Gobierno del Estado, dentro del término de 15 días, dictará la resolución que corresponda, la que notificará de inmediato al permisionario, con la consecuencia de que si se declara la cancelación de la licencia o permiso, de inmediato se procederá a la clausura preventiva del establecimiento o a la suspensión de la venta o consumo de bebidas alcohólicas, según sea el caso.
+Transcurridos los términos a que se refiere el artículo anterior, el Ejecutivo por conducto de la Secretaría de Finanzas del Gobierno del Estado, dentro del término de 15 días, dictará la resolución que corresponda, la que notificará de inmediato al permisionario, con la consecuencia de que si se declara la cancelación de la licencia o permiso, de inmediato se procederá a la clausura preventiva del establecimiento o a la suspensión de la venta o consumo de bebidas alcohólicas, según sea el caso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 56.
 
-El Ejecutivo por conducto de la Secretaría de Finanzas y Administración del Gobierno del Estado al resolver sobre un procedimiento de cancelación, apreciará discrecionalmente el valor de las pruebas ofrecidas por el interesado y expondrá en sus resoluciones los fundamentos fácticos y legales que apoyen su decisión.
+El Ejecutivo por conducto de la Secretaría de Finanzas del Gobierno del Estado al resolver sobre un procedimiento de cancelación, apreciará discrecionalmente el valor de las pruebas ofrecidas por el interesado y expondrá en sus resoluciones los fundamentos fácticos y legales que apoyen su decisión.
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1998)</small>
 
@@ -709,7 +813,11 @@ V.- Instalar compartimientos o reservados que se encuentren cerrados o que impid
 
 VI.- Utilizar los establecimientos en que se expendan y consuman bebidas alcohólicas como casa habitación, viviendas u oficinas o que estén comunicadas con ellas, con un solo acceso de entrada al interior de la misma.
 
-VII.- Por los hechos o actos que se realicen dentro de los establecimientos que alteren el orden público, la moral o las buenas costumbres, cuando sea culpa del permisionario o encargado, o bien cuando medien motivos de interés general, a juicio discrecional del Ejecutivo por conducto de la Secretaría de Finanzas y Administración del Gobierno del Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2012)</small>
+
+VII.- Por los hechos o actos que se realicen dentro de los establecimientos que alteren el orden público, la moral o las buenas costumbres, cuando sea culpa del permisionario o encargado, o bien cuando medien motivos de interés general, a juicio discrecional del Ejecutivo por conducto de la Secretaría de Finanzas del Gobierno del Estado.
 
 VIII.- Cuando el establecimiento haya dejado de reunir cualquiera de los requisitos que establece la presente ley o se incurra por parte de los permisionarios en falta u omisiones graves.
 
@@ -725,7 +833,11 @@ III.- Que se realicen actos constitutivos de delitos o que entrañen violación 
 
 La clausura deberá sujetarse a lo siguiente:
 
-I.- Solamente podrá realizarse por orden escrita debidamente fundada y motivada expedida por el titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, salvo lo previsto por el artículo 61.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2012)</small>
+
+I.- Solamente podrá realizarse por orden escrita debidamente fundada y motivada expedida por el titular de la Secretaría de Finanzas del Gobierno del Estado, salvo lo previsto por el artículo 61.
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 1998)</small>
 
@@ -747,11 +859,15 @@ El inspector o persona autorizada que descubra un establecimiento que funciona e
 
 Las bebidas alcohólicas que sean recogidas y secuestradas en los términos de esta Ley, a excepción de lo dispuesto por el artículo 45 en caso de venta clandestina, deberán ser recuperadas por su propietario en un término de cinco días hábiles, a partir de la fecha en que se hayan cubierto los requisitos que establece el presente ordenamiento.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 64.
 
-Cumplido el plazo que señala el artículo anterior, sin que hubieren sido recuperadas las bebidas alcohólicas, la Secretaría de Finanzas y Administración del Gobierno del Estado procederá, levantando un acta, a destruir los envases abiertos o cerrados que contengan bebidas alcohólicas. Los envases cerrados que contengan bebidas alcohólicas legalmente registrados, podrán ser rematados en los términos del Código Fiscal del Estado.
+Cumplido el plazo que señala el artículo anterior, sin que hubieren sido recuperadas las bebidas alcohólicas, la Secretaría de Finanzas del Gobierno del Estado procederá, levantando un acta, a destruir los envases abiertos o cerrados que contengan bebidas alcohólicas. Los envases cerrados que contengan bebidas alcohólicas legalmente registrados, podrán ser rematados en los términos del Código Fiscal del Estado.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2000)</small>
 
 Procederá también el remate o destrucción de las bebidas alcohólicas y sus envases que hayan sido secuestradas o decomisadas a establecimientos o casas habitación que en forma clandestina realicen las actividades reguladas por esta ley.
 
@@ -775,11 +891,13 @@ Cuando se desprendan, alteren o destruyan parcial o totalmente, sin autorizació
 
 El procedimiento administrativo para decretar las sanciones señaladas en la presente Ley, se iniciará con la recepción de las actas de inspección que remitan los inspectores, o las que remitan los Cuerpos Policiacos respectivos.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 68.
 
-La Secretaría de Finanzas y Administración o, en caso de delegación de atribuciones, el Ayuntamiento serán los encargados de llevar este procedimiento y decretar las sanciones correspondientes.
+La Secretaría de Finanzas o, en caso de delegación de atribuciones, el Ayuntamiento serán los encargados de llevar este procedimiento y decretar las sanciones correspondientes.
 
 ###### ARTICULO 69.
 
@@ -805,21 +923,27 @@ Una vez desahogadas las pruebas se dictará resolución dentro del plazo que al 
 
 Si la resolución decreta la sanción de multa, ésta se cubrirá en la forma y términos que disponga la misma, a través de las oficinas recaudadoras del Gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 73.
 
 La contravención a las disposiciones que se señalan en este Ordenamiento se sancionarán con multa, clausura del establecimiento o cancelación de la licencia o permiso respectivo.
 
-La aplicación de las sanciones consistentes en clausura definitiva y cancelación de la licencia para el almacenamiento, distribución, venta o consumo de bebidas alcohólicas, son facultades indelegables del Ejecutivo, por lo que sólo él podrá aplicarlas a través de la Secretaría de Finanzas y Administración.
+La aplicación de las sanciones consistentes en clausura definitiva y cancelación de la licencia para el almacenamiento, distribución, venta o consumo de bebidas alcohólicas, son facultades indelegables del Ejecutivo, por lo que sólo él podrá aplicarlas a través de la Secretaría de Finanzas.
 
 ###### ARTICULO 74.
 
 Para la imposición de una sanción pecuniaria, deberá fijarse ésta entre el mínimo y el máximo que para cada caso se indique, tomando en consideración la gravedad de la infracción concreta, la disposición que se contraviene, el giro o establecimiento y las demás circunstancias que sirvan de base para individualizar la sanción.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 75.
 
-Las infracciones a las disposiciones establecidas en esta ley, serán sancionadas en la siguiente forma:
+Las infracciones a las disposiciones establecidas en esta Ley, serán sancionadas en la siguiente forma:
 
 I.- Con multa equivalente de setenta a setecientas veces el salario mínimo general diario vigente, según las circunstancias que medien en cada caso:
 
@@ -843,9 +967,11 @@ i) Por la venta de bebidas con contenido alcohólico en los días prohibidos por
 
 j) A los solicitantes o titulares de licencias o permisos que suministren datos falsos a las autoridades del Estado, encargados de la aplicación y vigilancia de la presente Ley.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-k) A los que en cualquier forma enajenen, traspasen, arrienden, graven, alteren o afecten la licencia o permiso para el almacenamiento, distribución, venta o consumo de bebidas alcohólicas, sin previa autorización de la Secretaría de Finanzas y Administración del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2012)</small>
+
+k) A los que en cualquier forma enajenen, traspasen, arrienden, graven, alteren o afecten la licencia o permiso para el almacenamiento, distribución, venta o consumo de bebidas alcohólicas, sin previa autorización de la Secretaría de Finanzas del Gobierno del Estado.
 
 l) Cuando el establecimiento opere sin haber tramitado u obtenido la revalidación de la licencia o permiso respectivo.
 
@@ -887,13 +1013,21 @@ La imposición de las sanciones establecidas en el artículo anterior, es sin pe
 
 Cuando la infracción pudiera dar lugar a la cancelación de la licencia o permiso, se estará a lo dispuesto por el Capítulo IX de esta Ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 78.
 
-Las sanciones que establece la presente Ley se aplicarán y harán efectivas por conducto de la Secretaría de Finanzas y Administración del Gobierno del Estado, independientemente de que los hechos revistan el carácter de delito, en cuyo caso se harán del conocimiento del Ministerio Público.
+Las sanciones que establece la presente Ley se aplicarán y harán efectivas por conducto de la Secretaría de Finanzas del Gobierno del Estado, independientemente de que los hechos revistan el carácter de delito, en cuyo caso se harán del conocimiento del Ministerio Público.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 79.
 
-El titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, dictará las medidas que estime pertinentes para el mejor cumplimiento de las disposiciones de esta Ley.
+El titular de la Secretaría de Finanzas del Gobierno del Estado, dictará las medidas que estime pertinentes para el mejor cumplimiento de las disposiciones de esta Ley.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE OCTUBRE DE 1998)</small>
 
@@ -923,9 +1057,11 @@ La reincidencia en la comisión de estos delitos será considerada como delito g
 
 En el caso de los delitos precisados en esta Ley, independientemente de las medidas y sanciones que imponga la autoridad administrativa, procederá, en el procedimiento judicial respectivo, el decomiso de las bebidas alcohólicas, siempre y cuando éstas no hayan sido secuestradas por la autoridad administrativa, caso en el cual, el acta circunstanciada levantada por tal motivo, hará prueba de la preexistencia de las aludidas bebidas, cuyo documento en copia certificada, deberá ser puesto a disposición del agente investigador del Ministerio Público, a solicitud de éste.
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Una vez decretada la sentencia condenatoria y la misma haya causado ejecutoria, la autoridad judicial deberá poner de inmediato a disposición de la Secretaría de Finanzas y Administración, las bebidas alcohólicas y los envases decomisados para que ésta proceda a su destrucción o remate.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2012)</small>
+
+Una vez decretada la sentencia condenatoria y la misma haya causado ejecutoria, la autoridad judicial deberá poner de inmediato a disposición de la Secretaría de Finanzas, las bebidas alcohólicas y los envases decomisados para que ésta proceda a su destrucción o remate.
 
 T R A N S I T O R I O S:
 
@@ -980,5 +1116,11 @@ Tercero.- Se derogan todas aquellas disposiciones legales o reglamentarias en lo
 P.O. 26 DE DICIEMBRE DE 2011.
 
 Primero.- El presente decreto entrará en vigor el día 1 de enero de 2012, previa publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 19 DE JULIO DE 2012.
+
+Primero.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
