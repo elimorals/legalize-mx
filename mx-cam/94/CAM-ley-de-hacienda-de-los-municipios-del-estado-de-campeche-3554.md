@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-de-los-municipios-del-estado-de-campeche-3554"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-04"
-last_updated: "2011-12-28"
+last_updated: "2012-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTICULO UNICO DEL DECRETO NÚMERO 196, PUBLICADO EN EL P.O. DE 28 DE DICIEMBRE DE 2011, SE MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ORDENAMIENTO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 4 de diciembre de 1993.
 
@@ -2263,33 +2261,69 @@ certificaciones y
 
 constancias 2.09 2.09 2.09
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2012)</small>
 
 ###### ARTÍCULO 129.
 
-Tratándose de los servicios a que se refiere la Ley de Transparencia y Acceso a la Información Pública del Estado de Campeche, se pagarán derechos conforme a las cuotas que para cada caso se señala, salvo en aquellos casos que expresamente se establezcan excepciones:
+Tratándose de los servicios a que se refiere la Ley de Transparencia y Acceso a la Información Pública del Estado de Campeche, se pagarán derechos conforme a las cuotas que para cada caso se señalan, salvo en aquellos casos que expresamente se establezcan excepciones:
 
 Concepto Salario Mínimo General
 
 Diario Vigente en el Estado
 
-I.- Por expedición de copias certificadas, constancias y cualesquiera otra certificación de documentos que expidan los entes públicos.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2012)</small>
+
+I.- Por expedición de copias certificadas, constancias y cualesquiera otra certificación de documentos que expidan los Entes Públicos:
 
 a).- Por la primera hoja. 1.50
 
 b).- Por las hojas subsecuentes, cada una. 0.10
 
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2012)</small>
+
+c).- Por la primera hoja: .59
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2012)</small>
+
+d).- Por las hojas subsecuentes, cada una: .017
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2012)</small>
+
 II.- Por expedición de copias simples,
 
-cada hoja 0.07
+cada hoja: .017
 
-III.- Por reproducción de copias en medios electrónicos
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2012)</small>
+
+III.- Por reproducción de la información en medios electrónicos:
 
 a).- Disco magnético y CD, por cada uno 0.91
 
 b).- DVD, por cada uno 1.82
 
-Si el interesado aporta el medio magnético en el que será almacenada la información, la reproducción será sin costo. Lo anterior queda sujeto a la compatibilidad del medio magnético que aporte el solicitante y el equipo de reproducción o grabación con que cuente el ente público.
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2012)</small>
+
+c).- Disco magnético y CD, por cada uno: .17
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2012)</small>
+
+a) (sic) DVD, por cada uno: .34
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2012)</small>
+
+Si el interesado aporta el medio magnético u óptico en el que será almacenada la información, la reproducción será sin costo. Lo anterior queda sujeto a la compatibilidad del medio magnético u óptico que aporte el solicitante y el equipo de reproducción o grabación con que cuente el Ente Público.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2012)</small>
+
+En el caso de reproducción de fotografías, cintas de video, audio casetes, planos, cartografía y, en general, todos aquellos medios o soportes derivados de los avances de la ciencia y la tecnología, en que obre la información pública solicitada, serán proporcionados o correrán por cuenta del interesado.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2012)</small>
+
+El envío de la información solicitada podrá realizarse por correo o paquetería, para lo cual los solicitantes que opten por estos servicios deberán cubrir los costos que correspondan según las tarifas vigentes que mantengan las empresas de mensajería establecidas y el Servicio Postal Mexicano, costo que se deberá incluir en la resolución correspondiente y notificarse al interesado.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2012)</small>
+
+No se cobrarán costos de envío cuando el solicitante manifieste expresamente en su solicitud que se presentará personalmente a recoger la información solicitada.
 
 IV.- Por concepto de costos de envío
 
@@ -2686,5 +2720,11 @@ Segundo.- Se derogan todas las disposiciones legales y reglamentarias que se opo
 P.O. 28 DE DICIEMBRE DE 2011.
 
 Primero.- El presente decreto entrará en vigor el día uno de enero del año dos mil doce, previa publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 19 DE JULIO DE 2012.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
