@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-4570
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-21"
-last_updated: "2012-07-09"
+last_updated: "2012-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45701&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CAM"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 9 DE JULIO DE 2012, LAS PRESENTES REFORMAS ENTRAN EN VIGOR A LOS QUINCE DÍAS SIGUIENTES DE SU PUBLICACIÓN.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 21 de julio de 2005.
 
@@ -160,6 +158,10 @@ XXIII. Cualquier otra información que sea de utilidad, a juicio del Ente Públi
 > <small>(REFORMADO, P.O. 15 DE JULIO DE 2009)</small>
 
 Los Entes Públicos colocarán la información que señala este artículo en su página de Internet, con la excepción señalada en el artículo 40 de ésta Ley.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2012)</small>
+
+El servidor público que luego de tres recomendaciones emitidas por la Comisión dentro del término de un año calendario no de cumplimiento a lo dispuesto en el presente artículo, será sancionado de conformidad con lo previsto en el artículo 77 de esta Ley.
 
 ###### Artículo 6.
 
@@ -675,7 +677,9 @@ IV. Poseer al día de la designación, título profesional expedido por una inst
 
 V. Haber destacado en el desempeño de actividades profesionales particulares, académicas o de servicio público;
 
-VI. No ser ni haber sido dirigente de algún partido o agrupación política ni ministro de culto religioso o servidor público, salvo el de docencia, por lo menos un año antes al momento de su designación; y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2012)</small>
+
+VI. No ser ni haber sido dirigente de algún partido o agrupación política ni ministro de culto religioso o servidor público de los ámbitos federal, estatal o municipal, por lo menos un año antes del momento de su designación; no quedan comprendidos en este impedimento los servidores de los organismos públicos autónomos; y
 
 VII. No estar inhabilitado para el desempeño de funciones públicas ni estar sujeto a proceso para determinar alguna responsabilidad administrativa, al momento de ser propuesto.
 
@@ -683,7 +687,9 @@ VII. No estar inhabilitado para el desempeño de funciones públicas ni estar su
 
 Los Comisionados durarán en su encargo un período de seis años y no podrán ser reelectos. Los Comisionados no podrán ser retirados de sus cargos durante el período para el cual fueron designados, salvo por causa grave y sujetándose al procedimiento de juicio político o declaración de procedencia que para ello señala la Ley de la materia.
 
-Los Comisionados no podrán desempeñar ningún otro empleo, cargo o comisión público o privado, salvo el de docencia, siempre y cuando sea compatible con el tiempo que requiere la Comisión.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2012)</small>
+
+Los Comisionados no podrán desempeñar ningún otro empleo, cargo o comisión, salvo el de docencia, siempre y cuando sea compatible con el tiempo que requiere la Comisión.
 
 La Comisión tomará sus resoluciones por mayoría de votos y para que sus sesiones sean válidas se requerirá la asistencia de cuando menos dos de sus integrantes, siendo necesaria, invariablemente, la presencia del Comisionado Presidente.
 
@@ -861,6 +867,10 @@ III. La Entidad Pública responsable, modifique o revoque a satisfacción del in
 
 IV. El interesado haya acudido, durante la tramitación del recurso, directamente al procedimiento contencioso administrativo por el mismo caso.
 
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2012)</small>
+
+En el caso de la fracción III, no se requerirá la conformidad del recurrente cuando el Ente Público compruebe ante la Comisión la entrega de la información recurrida.
+
 ###### Artículo 73.
 
 (DEROGADO, P.O. 15 DE JULIO DE 2009)
@@ -988,3 +998,9 @@ CUARTO.- Los entes públicos deberán notificar a la Comisión, sesenta días de
 QUINTO.- El documento en el que se establezcan los niveles de seguridad a los que se refiere el Capítulo III del Título Segundo de la presente Ley, deberá ser emitido por los entes públicos dentro de los sesenta días posteriores a la entrada en vigor de la presente Ley, mismo que deberá ser remitido a la Comisión para su registro dentro del mismo plazo.
 
 SEXTO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 19 DE JULIO DE 2012.
+
+Primero.- EI presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que opongan al presente decreto.
