@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-72269"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-21"
-last_updated: "2011-12-26"
+last_updated: "2012-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 21 de diciembre de 2009.
 
@@ -1363,37 +1363,41 @@ a ) Por expedición de copias simples y fotostáticas,
 
 cada hoja .07
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2012)</small>
+
 ###### ARTÍCULO 59.
 
-Tratándose de los servicios a que se refiere la Ley de Transparencia y Acceso a la Información Pública del Estado de Campeche, se pagarán derechos conforme a las cuotas que para cada caso se señala, salvo en aquellos casos que expresamente se establezcan excepciones:
+Tratándose de los servicios a que se refiere la Ley de Transparencia y Acceso a la Información Pública del Estado de Campeche, se pagarán derechos conforme a las cuotas que para cada caso se señalan, salvo en aquellos casos que expresamente se establezcan excepciones:
 
 Salario Mínimo
 
-General Diario
+General
 
-Vigente
+Diario Vigente
 
-I.- Por expedición de copias certificadas, constancias y cualesquiera otra certificación de documentos que expidan los Entes Públicos:
+I.- Por expedición de copias certificadas, constancias y
 
-a) Por la primera hoja 1.5
+cualesquiera otra certificación de documentos que expidan
 
-b) Por las hojas subsecuentes, cada una .1
+los Entes Públicos:
 
-II.- Por expedición de copias simples, cada hoja .07
+a) Por la primera hoja: .59
 
-III.- Por reproducción de copias en medios electrónicos:
+b) Por las hojas subsecuentes, cada una: .017
 
-a) Disco magnético y CD, por cada uno .91
+II.- Por expedición de copias simples, cada hoja: .017
 
-b) DVD, por cada uno 1.82
+III.- Por reproducción de la información en medios electrónicos:
 
-Si el interesado aporta el medio magnético en el que será almacenada la información, la reproducción será sin costo. Lo anterior queda sujeto a la compatibilidad del medio magnético que aporte el solicitante y el equipo de reproducción o grabación con que cuente el ente público.
+a) Disco magnético y CD, por cada uno: .17
 
-IV.- Por concepto de costos de envío:
+b) DVD, por cada uno: .34
 
-a) Dentro del Estado 3
+(sic) interesado aporta el medio magnético u óptico en el que será almacenada la información, la reproducción será sin costo. Lo anterior queda sujeto a la compatibilidad del medio magnético u óptico que aporte el solicitante y el equipo de reproducción o grabación con que cuente el Ente Público.
 
-b) Fuera del Estado, pero dentro del territorio nacional 7
+En el caso de reproducción de fotografías, cintas de video, audio casetes, planos, cartografía y, en general, todos aquellos medios o soportes derivados de los avances de la ciencia y la tecnología, en que obre la información pública solicitada, serán proporcionados o correrán por cuenta del interesado.
+
+El envío de la información solicitada podrá realizarse por correo o paquetería, para lo cual los solicitantes que opten por estos servicios deberán cubrir los costos que correspondan según las tarifas vigentes que mantengan las empresas de mensajería establecidas y el Servicio Postal Mexicano, costo que se deberá incluir en la resolución correspondiente y notificarse al interesado.
 
 No se cobrarán costos de envío cuando el solicitante manifieste expresamente en su solicitud que se presentará personalmente a recoger la información solicitada.
 
@@ -2420,3 +2424,9 @@ P.O. 26 DE DICIEMBRE DE 2011.
 Primero.- El presente decreto entrará en vigor el día 1 de enero de 2012, previa publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 19 DE JULIO DE 2012.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
