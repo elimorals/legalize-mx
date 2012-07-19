@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-del-servicio-policial-de-carrera-del-estado-de-74932
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-07-04"
-last_updated: "2000-07-04"
+last_updated: "2012-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74932&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,13 @@ state: "TAM"
 ---
 # REGLAMENTO DEL SERVICIO POLICIAL DE CARRERA DEL ESTADO DE TAMAULIPAS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE JULIO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO DEL SERVICIO POLICIAL DE CARRERA DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DEL DESARROLLO POLICIAL DE LAS INSTITUCIONES PREVENTIVAS DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 19 DE JULIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 4 de julio de 2000.
 
@@ -359,3 +363,13 @@ ATENTAMENTE
 SUFRAGIO EFECTIVO. NO REELECCION
 
 EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. TOMAS YARRINGTON RUVALCABA.- EL C. SECRETARIO GENERAL DE GOBIERNO.- LIC. ROMERO DIAZ RODRIGUEZ.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE JULIO DE 2012.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS ARTÍCULOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE JULIO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+Artículo primero.- Este Reglamento se publicará en el Periódico Oficial del Estado y entrará en vigor a los 30 días siguientes.
+
+Artículo segundo.- Al personal que hubiere ingresado a las instituciones preventivas de seguridad pública estatal con anterioridad a la entrada en vigor de este Reglamento, se le aplicarán las previsiones del mismo para efectos de si (sic) incorporación a la Carrera Policial. En todo caso, dicho personal deberá apegarse a las disposiciones propias de permanencia y desarrollo policial.
