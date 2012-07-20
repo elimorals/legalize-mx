@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2012-07-13"
+last_updated: "2012-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2012.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -139,11 +139,11 @@ La educación que impartan los Gobiernos Estatal, Municipal, sus organismos desc
 
 El gobierno del Estado promoverá y atenderá todos los tipos y modalidades educativos, incluidas la educación superior, la investigación científica y tecnológica y alentará el fortalecimiento de la cultura universal, nacional y regional.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 10.
 
-La educación que se imparta en el sistema educativo estatal será laica, por lo que se mantendrá ajena por completo a cualquier creencia o práctica religiosa, el criterio que orientará dicha educación se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los perjuicios, la formación de estereotipos y la discriminación. Sustentará los ideales de fraternidad e igualdad de derechos de todos los seres humanos evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos.
+La educación que se imparta en el Sistema Educativo Estatal será laica, por lo que se mantendrá ajena por completo a cualquier creencia o práctica religiosa, el criterio que orientará dicha educación se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios, la formación de estereotipos, la discriminación y la violencia especialmente la que se ejerce contra las mujeres, niñas y niños, debiendo implementar políticas públicas de Estado orientadas a la transversalidad de criterios. Sustentará los ideales de fraternidad e igualdad de derechos de todos los seres humanos evitando los privilegios de razas, de religión, de grupos, de género o de individuos.
 
 ###### ARTICULO 11.
 
@@ -1480,3 +1480,7 @@ P.O. 13 DE JULIO DE 2012.
 DECRETO NÚMERO 234, POR EL QUE SE APRUEBA LA REFORMA AL ARTÍCULO 15 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE JULIO DE 2012.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
