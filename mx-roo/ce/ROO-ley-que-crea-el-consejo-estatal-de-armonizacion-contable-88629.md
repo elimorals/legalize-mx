@@ -4,7 +4,7 @@ identifier: "ROO-ley-que-crea-el-consejo-estatal-de-armonizacion-contable-88629"
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-20"
-last_updated: "2012-06-20"
+last_updated: "2012-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88629&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ROO"
 ---
 # LEY QUE CREA EL CONSEJO ESTATAL DE ARMONIZACION CONTABLE DEL ESTADO DE QUINTANA ROO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE JULIO DE 2012 EN EL P.O. DEL ESTADO DE QUINTANA ROO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY QUE CREA EL CONSEJO ESTATAL DE ARMONIZACIÓN CONTABLE DEL ESTADO DE QUINTANA ROO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 20 DE JULIO DE 2012.</small>
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 20 de junio de 2012.
 
@@ -127,11 +127,11 @@ X. Aprobar sus reglas de operación; y
 
 XI. Las demás que se deriven de las disposiciones legales o administrativas o que se determinen conforme a sus Reglas.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE JULIO DE 2012 EN EL P.O. DEL ESTADO DE QUINTANA ROO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 20 DE JULIO DE 2012)</small>
 
 ###### Artículo 7.
 
-Los integrantes del Consejo Estatal tendrán derecho a voz y voto respecto de los asuntos que se traten, con excepción de los señalados en las fracciones VII y IX del artículo 4 de la presente Ley, quienes solo tendrán derecho a voz. Las mismas facultades tendrá el suplente de cada integrante propietario del Consejo Estatal, en caso de ausencia de éste.
+Los integrantes del Consejo Estatal tendrán derecho a voz y voto respecto de los asuntos que se traten, con excepción de los señalados en las fracciones VIII y X del artículo 4 de la presente Ley, quienes solo tendrán derecho a voz. Las mismas facultades tendrá el suplente de cada integrante propietario del Consejo Estatal, en caso de ausencia de este.
 
 ###### Artículo 8.
 
@@ -155,13 +155,13 @@ Las convocatorias a las sesiones extraordinarias deben ser notificadas a los mie
 
 Los actos u omisiones que impliquen el incumplimiento a los preceptos establecidos en la presente Ley y las Reglas que apruebe el Consejo Estatal, así como aquellas derivadas de los acuerdos que se aprueben o de las demás disposiciones aplicables en la materia, serán sancionados de conformidad con lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo por conducto de sus Órganos de Control competentes.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE JULIO DE 2012 EN EL P.O. DEL ESTADO DE QUINTANA ROO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ARTÍCULOS TRANSITORIOS:
 
 Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
-Segundo.- El Consejo Estatal deberá instalarse y llevar a cabo su primera sesión ordinaria dentro de los treinta días naturales posteriores a la entrada en vigor de esta Ley, teniendo el Presidente del Consejo Estatal la facultad por única ocasión de designar al Municipio que represente a los Municipios de la Zona Norte y al Municipio que represente a los Municipios de la Zona Sur del Estado, así como designar al Representante de los Contadores Públicos a que se refiere el artículo 4 fracción IX de esta Ley.
+> <small>(F. DE E., P.O. 20 DE JULIO DE 2012)</small>
+
+Segundo.- El Consejo Estatal deberá instalarse y llevar a cabo su primera sesión ordinaria dentro de los treinta días naturales posteriores a la entrada en vigor de esta Ley, teniendo el Presidente del Consejo Estatal la facultad por única ocasión de designar al municipio que represente a los municipios de la zona norte y al municipio que represente a los municipios de la zona sur del Estado, así como designar al representante de los Contadores Públicos a que se refiere el artículo 4 fracción X de esta ley.
 
 Tercero.- El Secretario Técnico el día de la instalación deberá presentar al Consejo Estatal, para su conocimiento y en su caso aprobación las Reglas de Operación.
 
