@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-3379"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-08"
-last_updated: "2012-05-07"
+last_updated: "2012-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE, PUBLICADO EN P.O. DE 20 DE JULIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el martes 8 de enero de 1974.
 
@@ -3915,7 +3917,7 @@ Dado en el Edificio de los Poderes del Estado, en Campeche, a los ocho días del
 
 P.O. 16 DE DICIEMBRE DE 1975.
 
-POR SU IMPORTANCIA SE TRANSCRIBE EL ARTICULO UNICO DEL DECRETO.
+POR SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO ÚNICO DEL DECRETO.
 
 ###### ARTICULO UNICO.
 
@@ -4084,3 +4086,19 @@ QUINTO.- Se derogan todas las disposiciones legales y reglamentarias del marco j
 P.O. 7 DE MAYO DE 2012.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE JULIO DE 2012.
+
+Primero.- El presente decreto entrará en vigor a los treinta días hábiles de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga el Código Penal del Estado de Campeche, no vigente, aprobado mediante decreto No. 169, publicado en el Periódico Oficial del Estado de Campeche No. 4090 de fecha 04 de Agosto de 2008.
+
+Tercero.- Como consecuencia de lo señalado en el transitorio segundo que antecede, al entrar en vigor el presente Código quedará abrogado el Código Penal del Estado de Campeche, vigente, desde el 2 de enero de 1976, publicado en el Periódico Oficial del Estado el día 16 de diciembre de 1975, pero seguirá aplicándose por los hechos ejecutados durante su vigencia, salvo que las disposiciones del nuevo Código beneficien al imputado o sentenciado o que manifiesten su voluntad de acogerse al presente ordenamiento.
+
+Cuarto.- Se derogan los tipos penales contenidos en la Ley para Prevenir y Sancionar la Tortura en el Estado de Campeche y en la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Campeche, así como las disposiciones legales y reglamentarias del marco jurídico estatal que se opongan al contenido del presente decreto.
+
+Quinto.- La modificación o reubicación de cualquier tipo penal a que se refiere este decreto, no implicará la libertad de los responsables por los delitos cometidos con anterioridad a su vigencia, siempre que los hechos se comprendan en los tipos penales modificados. Asímismo, las acciones u omisiones que en el presente decreto hayan dejado de tipificarse como delitos, producirán la inmediata libertad de los procesados o sentenciados y cesará el procedimiento o los efectos de la sentencia, con excepción de la reparación del daño cuando ésta ya se hubiere hecho efectiva.
+
+Sexto.- Forma parte de este decreto un Anexo Único denominado Tabla de Delitos.
+
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 20 DE JULIO DE 2012, PÁGINA 77.</small>
