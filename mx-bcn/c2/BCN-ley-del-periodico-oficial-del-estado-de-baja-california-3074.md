@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-periodico-oficial-del-estado-de-baja-california-3074"
 country: "mx"
 rank: "ley"
 publication_date: "1992-11-10"
-last_updated: "1999-04-30"
+last_updated: "2012-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3074&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 1999.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 10 de noviembre de 1992.
 
@@ -37,7 +37,9 @@ LA H. XIII LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFO
 
 LEY DEL PERIODICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-### CAPITULO UNICO. DEL PERIODICO OFICIAL DEL ESTADO
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 20 DE JULIO DE 2012)</small>
+
+### CAPÍTULO PRIMERO. DEL PERIÓDICO OFICIAL DEL ESTADO
 
 ###### ARTICULO 1.
 
@@ -111,6 +113,40 @@ Los Ayuntamientos del Estado no estarán obligados al pago de contribuciones tra
 
 En los casos de los Tres Poderes del Estado y de los Ayuntamientos de los Municipios el Periódico Oficial será distribuido gratuitamente.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE JULIO DE 2012)</small>
+
+### CAPÍTULO SEGUNDO. DE LA DIVULGACIÓN DEL PERIÓDICO OFICIAL POR MEDIOS ELECTRÓNICOS
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2012)</small>
+
+###### ARTICULO 10.
+
+La Secretaría General de Gobierno administrará la página electrónica del Periódico Oficial en la Internet.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2012)</small>
+
+###### ARTICULO 11.
+
+Cada edición del Periódico será reproducida en la página electrónica del Periódico dentro de los siguientes seis días hábiles de su publicación impresa.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2012)</small>
+
+###### ARTICULO 12.
+
+La publicación del Periódico Oficial en la página electrónica correspondiente deberá identificarse con los mismos datos y requisitos que se enumeran en el artículo 5 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2012)</small>
+
+###### ARTÍCULO 13.
+
+La publicación electrónica del Periódico Oficial será únicamente para efectos de divulgación, por lo que no afecta la entrada en vigor ni el contenido oficial de los materiales publicados en el formato impreso.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2012)</small>
+
+###### ARTICULO 14.
+
+La Secretaría General de Gobierno procurará editar compilaciones electrónicas del Periódico Oficial para facilitar su colección y análisis.
+
 T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO.
@@ -156,3 +192,7 @@ Rúbrica
 P.O. 30 DE ABRIL DE 1999.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 20 DE JULIO DE 2012.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
