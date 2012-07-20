@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-del-estado-de-guerrero-5098"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-14"
-last_updated: "2012-03-09"
+last_updated: "2012-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CÓDIGO PENAL DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 14 de noviembre de 1986.
 
@@ -1079,11 +1079,73 @@ II.- Cuando el embarazo sea resultado de una violación o de una inseminación a
 
 III.- Cuando a juicio de dos médicos exista razón suficiente para suponer que el producto padece alteraciones genéticas o congénitas, que den por resultado el nacimiento de un ser con trastornos físicos o mentales graves.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE JULIO DE 2012)</small>
+
+### CAPÍTULO VI. DELITOS CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2012)</small>
+
+121 Bis.- Comete el delito de narcomenudeo, quien comercie, suministre, aún gratuitamente, o tenga en posesión algún estupefaciente, psicotrópico y demás sustancia o vegetales que la Ley General de Salud determine como narcótico.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2012)</small>
+
+121 Ter.- Para la investigación, sanción y aplicación de medidas de seguridad, se deberá observar lo previsto en el Capítulo VII, del Título Décimo Octavo de la Ley General de Salud.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2012)</small>
+
+121 Quater.- Las autoridades del fuero común tendrán competencia para conocer de los delitos a que se refiere el presente Capítulo, siempre y cuando, los narcóticos objeto de los mismos, sean inferior a la cantidad que resulte de multiplicar por mil, el monto previsto en la siguiente tabla:
+
+TABLA DE ORIENTACIÓN DE DOSIS MÁXIMA DE CONSUMO PERSONAL E INMEDIATO
+
+Narcótico Dosis máxima de consumo personal e inmediato
+
+Opio 2 gr.
+
+Diacetilmorfina o Heroína 50 mg.
+
+Cannabis Sativa, indica o
+
+Marihuana 5 gr.
+
+Cocaína 500 mg.
+
+Lisergida (LSD) 0.015 mg.
+
+Polvo, granulado o cristal Tabletas o cápsulas
+
+MDA, Metilendioxianfetamina 40 mg. Una unidad con
+
+peso no mayor a
+
+200 mg.
+
+MDMA, dl-34-metilendoxi-n-
+
+dimetilfeniletilamina 40 mg. Una unidad con
+
+peso no mayor a
+
+200 mg.
+
+Metanfetamina 40 mg. Una unidad con
+
+Peso no mayor a
+
+200 mg.
+
+## TITULO II. DELITOS DE OMISION DE AUXILIO O DE CUIDADO
+
 ### CAPITULO I. OMISION DE AUXILIO
 
 122.- Al que omita prestar el auxilio necesario a quien se encuentre desamparado y en peligro manifiesto en su persona, cuando según las circunstancias pudiere hacerlo sin riesgo propio ni de terceros, o al que no estando en condiciones de prestarlo no diere aviso inmediato a la autoridad o no solicitare auxilio a quienes pudieren prestarlo, se le impondrá prisión de tres a seis meses o de diez a treinta días multa.
-
-## TITULO II. DELITOS DE OMISION DE AUXILIO O DE CUIDADO
 
 ### CAPITULO II. OMISION DE CUIDADO
 
@@ -1095,6 +1157,8 @@ III.- Cuando a juicio de dos médicos exista razón suficiente para suponer que 
 
 124.- Al que habiendo atropellado a una persona, no le preste auxilio o solicite la asistencia que requiera, pudiendo hacerlo, se le aplicará prisión de 3 meses a 2 años o multa de 30 a 90 días de salario.
 
+## TITULO III. EXPOSICION DE INCAPACES
+
 ### CAPITULO UNICO. EXPOSICION DE INCAPACES
 
 125.- Al que teniendo la obligación de hacerse cargo de un incapaz de cuidarse por sí mismo, lo entregue a una institución o a cualquier otra persona, contraviniendo la ley, o contra la voluntad de quien se lo confió o sin la anuencia del juez de lo familiar, se le aplicará prisión de tres meses a un año o trabajo en favor de la comunidad hasta por seis meses.
@@ -1103,7 +1167,7 @@ No se aplicará pena alguna a la madre que entregue a su hijo por extrema pobrez
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 1999)</small>
 
-## TITULO III. EXPOSICION DE INCAPACES
+## TITULO IV. DELITOS DE PRIVACION ILEGAL DE LA LIBERTAD
 
 ### CAPITULO I. PRIVACION DE LA LIBERTAD PERSONAL
 
@@ -1128,8 +1192,6 @@ III.- Que la privación de la libertad, fuera de las causas previstas por la ley
 127 BIS.- A los administradores de hoteles, servicios turísticos, hospitalarios, comerciales o profesionales, que ejerzan violencia sobre los usuarios pretextando algún adeudo los priven de su libertad ilegalmente, se les aplicará de seis meses a cinco años de prisión y de veinte a cien días multa, independientemente de la sanción que les corresponda por cualquier otro delito cometido.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 1999)</small>
-
-## TITULO IV. DELITOS DE PRIVACION ILEGAL DE LA LIBERTAD
 
 ### CAPITULO II. VIOLACION DE LA LIBERTAD DE TRABAJO
 
@@ -1231,6 +1293,10 @@ Al que cometa dicho ilícito se le impondrá de veinte a cuarenta años de prisi
 
 133 BIS 2.- (DEROGADO, P.O. 19 DE AGOSTO DE 2011)
 
+## TITULO V. DELITOS CONTRA LA PAZ Y LA SEGURIDAD DE LAS PERSONAS
+
+> <small>(REFORMADO EN SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 ### CAPITULO I. AMENAZAS Y DISCRIMINACIÓN
 
 > <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1993)</small>
@@ -1240,16 +1306,6 @@ Al que cometa dicho ilícito se le impondrá de veinte a cuarenta años de prisi
 El delito previsto en este artículo se perseguirá a petición de la parte ofendida.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
-
-## TITULO V. DELITOS CONTRA LA PAZ Y LA SEGURIDAD DE LAS PERSONAS
-
-> <small>(REFORMADO EN SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2010)</small>
-
-### CAPITULO II. ASALTO
-
-135.- Al que en lugar solitario o desprotegido haga uso de la violencia sobre una persona, con el propósito de causar un mal, obtener un lucro o exigir su asentimiento para cualquier fin, se le sancionará con prisión de uno a seis años y hasta cincuenta días multa.
-
-136.- Cuando el asalto se cometa contra un poblado, se aplicarán de seis a veinte años de prisión y de cincuenta a doscientos días multa.
 
 ###### ARTÍCULO 134 Bis.
 
@@ -1271,6 +1327,14 @@ No serán consideradas discriminatorias todas aquellas medidas tendientes a la p
 
 Este delito se perseguirá por querella.
 
+### CAPITULO II. ASALTO
+
+135.- Al que en lugar solitario o desprotegido haga uso de la violencia sobre una persona, con el propósito de causar un mal, obtener un lucro o exigir su asentimiento para cualquier fin, se le sancionará con prisión de uno a seis años y hasta cincuenta días multa.
+
+136.- Cuando el asalto se cometa contra un poblado, se aplicarán de seis a veinte años de prisión y de cincuenta a doscientos días multa.
+
+## TITULO VI. DELITO CONTRA LA INVIOLABILIDAD DEL DOMICILIO
+
 ### CAPITULO UNICO. ALLANAMIENTO DE MORADA
 
 137.- Al que sin el consentimiento de la persona que legítimamente pueda otorgarlo o empleando engaño, se introduzca a una casa habitación o a sus dependencias o permanezca en ellas, se le impondrá prisión de seis meses a tres años.
@@ -1279,7 +1343,7 @@ Si el medio empleado fuese la violencia, la penalidad se aumentará hasta en una
 
 Este delito se perseguirá por querella.
 
-## TITULO VI. DELITO CONTRA LA INVIOLABILIDAD DEL DOMICILIO
+## TITULO VII. DELITOS CONTRA LA INVIOLABILIDAD DEL SECRETO
 
 ### CAPITULO UNICO. REVELACION DEL SECRETO
 
@@ -1287,7 +1351,7 @@ Este delito se perseguirá por querella.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 1999)</small>
 
-## TITULO VII. DELITOS CONTRA LA INVIOLABILIDAD DEL SECRETO
+## TITULO VIII. DELITOS CONTRA LA LIBERTAD SEXUAL
 
 ### CAPITULO I. VIOLACION
 
@@ -1352,8 +1416,6 @@ La misma pena se aplicará cuando la violación se ejecute con motivo de un asal
 142 BIS.- El que cometa el delito de violación en cualquiera de las modalidades previstas en este Capítulo, no tendrá derecho a gozar de la conmutación de sanciones, remisión parcial de la pena, tratamiento preliberacional, libertad preparatoria o cualquiera de los otros beneficios que la Ley respectiva establece.
 
 > <small>(REFORMADO EN SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2010)</small>
-
-## TITULO VIII. DELITOS CONTRA LA LIBERTAD SEXUAL
 
 ### CAPÍTULO II. ABUSO SEXUAL
 
@@ -1459,13 +1521,13 @@ III.- Se lleve a cabo por dos o más personas.
 
 148 BIS.- Cuando a consecuencia de la comisión de alguno de los delitos previstos en los Capítulos I, III, V y VI de este Título; resulte descendencia además de la reparación del daño, se fijará el pago de alimentos para los descendientes y para la madre.
 
+## TITULO IX. DELITOS CONTRA EL HONOR
+
 ### CAPITULO I. INJURIAS
 
 149.- (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
 150.- (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
-
-## TITULO IX. DELITOS CONTRA EL HONOR
 
 ### CAPITULO II. DIFAMACION
 
@@ -1498,6 +1560,8 @@ III.- Se lleve a cabo por dos o más personas.
 162.- (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P. O. 20 DE ABRIL DE 1999)</small>
+
+## TITULO X. DELITOS EN CONTRA DE LAS PERSONAS EN SU PATRIMONIO
 
 ### CAPITULO I. ROBO
 
@@ -1598,8 +1662,6 @@ No se castigará al que, sin emplear engaño ni medios violentos, se apodere una
 > <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1993)</small>
 
 166.- Al que se apodere de una cosa mueble ajena, sin consentimiento del dueño o legítimo poseedor y acredite haberla tomado con carácter temporal y no para apropiársela o venderla, se le aplicarán de 3 meses a 1 año de prisión o multa de 30 a 90 días de salario, siempre que justifique no haberse negado a devolverla si se le requirió para ello. Como reparación del daño, además, pagará al ofendido el doble del alquiler, arrendamiento o intereses de la cosa usada.
-
-## TITULO X. DELITOS EN CONTRA DE LAS PERSONAS EN SU PATRIMONIO
 
 ### CAPITULO II. ABIGEATO
 
@@ -1843,6 +1905,10 @@ Al que en las circunstancias arriba expresadas adquiera, reciba u oculte ganado 
 
 187.- Si el juez lo creyere conveniente, además de las penas previstas para cada uno de los delitos mencionados en este Título, podrá imponer al delincuente suspensión de tres meses a seis años, para ser perito, depositario, interventor judicial, síndico, interventor en concursos o quiebras, asesor, representante de ausentes o en el ejercicio de cualquier profesión para las que se requiera título o autorización especial.
 
+#### SECCION SEGUNDA. DELITOS CONTRA LA FAMILIA
+
+## TITULO UNICO. DELITOS CONTRA LA FAMILIA
+
 ### CAPITULO I. INCUMPLIMIENTO DE LAS OBLIGACIONES DE ASISTENCIA FAMILIAR
 
 188.- Al que no proporcione los recursos indispensables de subsistencia de las personas con las que tenga ese deber legal, se le impondrá prisión de tres meses a cinco años y suspensión o privación de los derechos de familia, en relación con el ofendido. Los concubinos quedan comprendidos en las disposiciones de este párrafo.
@@ -1861,9 +1927,15 @@ Si el obligado paga todas las cantidades debidas o se somete al régimen de pago
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-#### SECCION SEGUNDA. DELITOS CONTRA LA FAMILIA
+###### ARTÍCULO 188 Bis.
 
-## TITULO UNICO. DELITOS CONTRA LA FAMILIA
+Las mismas sanciones se impondrán a quienes con el propósito de eludir o suspender el cumplimiento de sus obligaciones alimentarias decretadas por autoridad judicial, renuncie, abandone su trabajo, u obtenga licencia sin causa justificada.
+
+Se impondrá prisión de seis meses a dos años y multa de cincuenta a cien salarios mínimos, a aquellas personas que obligadas a informar acerca de los ingresos de quienes deban cumplir con las obligaciones señaladas, incumplan con la orden judicial de hacerlo.
+
+189.- Al que dolosamente se coloque en estado de insolvencia, con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrá prisión de tres meses a tres años. El juez resolverá sobre la aplicación del producto del trabajo que realice el agente, a la satisfacción de las obligaciones alimentarias de éste.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 1999)</small>
 
 ### CAPITULO II. SUSTRACCION DE MENORES O INCAPACES Y ROBO DE INFANTE
 
@@ -1892,16 +1964,6 @@ Además de las sanciones señaladas en los párrafos anteriores, se le privará 
 190 B.- Al que entregue o reciba un infante menor de siete años de edad, sin consentimiento de quien legalmente dependa, con el propósito de obtener un beneficio económico, se le aplicará prisión de tres a seis años y de doscientos a quinientos días multa.
 
 Cuando el delito lo cometa un familiar del infante, que ejerciendo o no la custodia legal se le impondrá de cuatro a ocho años de prisión y de trescientos a seiscientos días multa, sancionándose además, con la pérdida de la patria potestad, tutela, custodia, guarda o educación y en su caso, de los derechos sucesorios con respecto de la víctima.
-
-###### ARTÍCULO 188 Bis.
-
-Las mismas sanciones se impondrán a quienes con el propósito de eludir o suspender el cumplimiento de sus obligaciones alimentarias decretadas por autoridad judicial, renuncie, abandone su trabajo, u obtenga licencia sin causa justificada.
-
-Se impondrá prisión de seis meses a dos años y multa de cincuenta a cien salarios mínimos, a aquellas personas que obligadas a informar acerca de los ingresos de quienes deban cumplir con las obligaciones señaladas, incumplan con la orden judicial de hacerlo.
-
-189.- Al que dolosamente se coloque en estado de insolvencia, con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrá prisión de tres meses a tres años. El juez resolverá sobre la aplicación del producto del trabajo que realice el agente, a la satisfacción de las obligaciones alimentarias de éste.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 1999)</small>
 
 ### CAPITULO III. TRAFICO DE MENORES
 
@@ -1977,15 +2039,15 @@ Cuando exista reincidencia por parte del activo, se aumentará la pena en una te
 
 > <small>(DEROGADO ULTIMO PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
+#### SECCION TERCERA. DELITOS CONTRA LA SOCIEDAD
+
+## TITULO I. DELITOS DE PELIGRO CONTRA LA SEGURIDAD COLECTIVA
+
 ### CAPITULO I. PELIGRO DE DEVASTACION
 
 195.- Al que por incendio, explosión, inundación o por cualquier otro medio, cree un peligro común para los bienes o para las personas, se le impondrá prisión de uno a cinco años.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE NOVIEMBRE DE 1991)</small>
-
-#### SECCION TERCERA. DELITOS CONTRA LA SOCIEDAD
-
-## TITULO I. DELITOS DE PELIGRO CONTRA LA SEGURIDAD COLECTIVA
 
 ### CAPITULO I BIS. DELITOS CONTRA LA SALUD PUBLICA
 
@@ -2034,6 +2096,12 @@ Se aplicará la misma regla descrita en el segundo párrafo del artículo anteri
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
 
 198.- Al que públicamente provoque a otro a cometer un delito o haga defensa o alabanza de éste; se le impondrá prisión de uno a tres años y de ochenta a doscientos días multa.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE ESTA DENOMINACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2011)</small>
+
+## TITULO II. DELITOS CONTRA LA SEGURIDAD Y EL NORMAL FUNCIONAMIENTO DE LAS VIAS Y MEDIOS DE COMUNICACION ASI COMO MEDIOS DE TRANSPORTE PUBLICO
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE ESTA DENOMINACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2101,12 +2169,6 @@ Si en el vehículo de que se trata no se hallare persona alguna, se aplicará pr
 
 207.- Cuando se cause algún daño por medio de cualquier vehículo, motor o maquinaria, además de aplicar las sanciones por el delito que resulte, se inhabilitará al delincuente para manejar aquellos aparatos por un tiempo no menor de seis meses ni mayor de cinco años. En caso de reincidencia, la inhabilitación será definitiva.
 
-## TITULO II. DELITOS CONTRA LA SEGURIDAD Y EL NORMAL FUNCIONAMIENTO DE LAS VIAS Y MEDIOS DE COMUNICACION ASI COMO MEDIOS DE TRANSPORTE PUBLICO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE ESTA DENOMINACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2011)</small>
-
 ### CAPITULO II. DELITOS CONTRA LA SEGURIDAD DEL TRANSITO DE VEHICULOS
 
 208.- Al que maneje un vehículo hallándose en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos u otras sustancias que impidan o perturben su adecuada conducción, se le aplicará prisión de tres meses a dos años.
@@ -2131,6 +2193,8 @@ El delito previsto en este artículo se perseguirá a petición de la parte ofen
 
 209 BIS.- Al que utilice habitualmente la vía pública o sitios de uso común tales como calles, avenidas, andadores públicos, plazas, estacionamientos y otros, independientemente de su denominación, y los bienes destinados a servicio público, para obtener lucro o ventaja económica ofreciendo o enajenando bienes o derechos de uso, goce, disfrute o propiedad de bienes muebles o inmuebles, sin la debida autorización cuando se requiera legalmente de las autoridades competentes, se le impondrá prisión de 3 meses a 3 años y multa equivalente de 3 veces a 200 veces el salario mínimo vigente.
 
+## TITULO III. DELITOS CONTRA LA FE PUBLICA
+
 ### CAPITULO I. FALSIFICACION Y USO INDEBIDO DE SELLOS, MARCAS, LLAVES, CONTRASEÑAS Y OTROS OBJETOS
 
 210.- Se impondrá prisión de uno a cinco años y de cincuenta a trescientos días multa, al que con el fin de obtener un beneficio indebido o para causar daño, falsifique, altere, enajene o haga desaparecer cualquier clase de sellos, marcas, llaves, estampillas, boletos, contraseñas, troqueles o cuños oficiales.
@@ -2138,8 +2202,6 @@ El delito previsto en este artículo se perseguirá a petición de la parte ofen
 Si los objetos falsificados o alterados son propiedad de un particular, la sanción será de tres meses a tres años de prisión y de quince a noventa días multa.
 
 Al que use indebidamente cualquiera de los objetos arriba señalados, se le aplicarán las penas previstas en el párrafo anterior.
-
-## TITULO III. DELITOS CONTRA LA FE PUBLICA
 
 ### CAPITULO II. FALSIFICACION Y USO INDEBIDO DE DOCUMENTOS
 
@@ -2187,6 +2249,10 @@ Las mismas penas se aplicarán al que sin tener título o autorización o permis
 
 > <small>(REFORMADA SU DENOMINACIÓN, P. O. 17 DE ABRIL DE 2007)</small>
 
+## TITULO IV. DELITOS CONTRA LA EVOLUCION O DESARROLLO DE LA PERSONALIDAD
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE ABRIL DE 2007)</small>
+
 ### CAPITULO I
 
 DELITOS CONTRA LA FORMACION DE LAS PERSONAS MENORES DE EDAD, LA PROTECCION INTEGRAL DE PERSONAS CON CAPACIDADES DIFERENTES Y LA PROTECCION INTEGRAL DE PERSONAS QUE NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
@@ -2218,10 +2284,6 @@ No se actualizará el delito tratándose de programas preventivos, educativos o 
 > <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2007)</small>
 
 216 BIS 2.- A quien pague o prometa pagarle con dinero u otra ventaja de cualquier naturaleza a una persona menor de dieciocho años o a un tercero para que aquélla sostenga relaciones o acto sexuales o eróticos, se le impondrá una pena de ocho a catorce años de prisión y de mil a dos mil días multa, sin perjuicio de las penas que correspondan por la comisión de otros delitos.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE ABRIL DE 2007)</small>
-
-## TITULO IV. DELITOS CONTRA LA EVOLUCION O DESARROLLO DE LA PERSONALIDAD
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE ABRIL DE 2007)</small>
 
@@ -2293,6 +2355,8 @@ IV. Hasta en una mitad cuando sean cometidos por dos o más personas.
 
 219 BIS 3.- Los sujetos activos de los delitos a que se refiere este capítulo quedarán inhabilitados para ser tutores o curadores.
 
+## TITULO V. DELITOS CONTRA EL RESPETO A LOS MUERTOS Y CONTRA LAS NORMAS DE INHUMACION Y EXHUMACION
+
 ### CAPITULO UNICO. DELITOS CONTRA EL RESPETO A LOS MUERTOS Y CONTRA LAS NORMAS DE INHUMACION Y EXHUMACION
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 1993)</small>
@@ -2305,7 +2369,7 @@ II.- Sustraiga o esparza las cenizas de un cadáver o restos humanos o cometa ac
 
 221.- Al que profane un cadáver con actos de necrofilia, se le impondrá prisión de uno a cinco años y de treinta a ciento cincuenta días multa.
 
-## TITULO V. DELITOS CONTRA EL RESPETO A LOS MUERTOS Y CONTRA LAS NORMAS DE INHUMACION Y EXHUMACION
+## TITULO VI. DELITOS COMETIDOS EN EL EJERCICIO DE LA PROFESION
 
 ### CAPITULO UNICO. RESPONSABILIDAD PROFESIONAL
 
@@ -2345,17 +2409,15 @@ III.- Retarden o nieguen por cualquier motivo la entrega de un cadáver, excepto
 
 226.- A los encargados, empleados o dependientes de farmacias, que al surtir una receta sustituyan la medicina específicamente señalada, por otra que cause daños o sea evidentemente inapropiada al padecimiento para el cual se prescribió, se les impondrá prisión de tres meses a dos años y hasta cincuenta días multa.
 
-## TITULO VI. DELITOS COMETIDOS EN EL EJERCICIO DE LA PROFESION
+#### SECCION CUARTA. DELITOS CONTRA EL ESTADO
+
+## TITULO I. DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO
 
 ### CAPITULO I. SEDICION
 
 227.- A los que en forma tumultuaria resistan o ataquen a la autoridad con alguna de las finalidades a que se refiere el artículo 229 se les aplicará prisión de uno a seis años.
 
 A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de sedición, se les sancionará con prisión de dos a doce años.
-
-#### SECCION CUARTA. DELITOS CONTRA EL ESTADO
-
-## TITULO I. DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO
 
 ### CAPITULO II. MOTIN
 
@@ -2425,13 +2487,13 @@ Tratándose de extranjeros, se aumentarán hasta la mitad las penas previstas pa
 
 A los mexicanos que cometan algún delito de carácter político, se les privará de sus derechos políticos o se les suspenderá en el ejercicio de éstos hasta por ocho años, contados a partir de que se extinga la pena de prisión o la potestad de ejecutarla.
 
+## TITULO II. DELITOS CONTRA EL SERVICIO PUBLICO COMETIDOS POR LOS SERVIDORES PUBLICOS
+
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 239.- Para los efectos de este Código, servidor público es toda persona que desempeñe algún empleo, cargo o comisión de cualquier naturaleza en la administración pública del Estado o sus municipios, organismos descentralizados, empresas de participación estatal o municipal mayoritaria, organizaciones y sociedades asimiladas a éstas, fideicomisos públicos, o en los Poderes Legislativo y Judicial del Estado de Guerrero.
 
 240.- Los servidores públicos que cometan alguno de los delitos previstos en el presente Título, serán sancionados con las penas de prisión y multa que para cada caso se señalan y privación del cargo e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, hasta por el mismo tiempo que el señalado en las penas privativas de libertad.
-
-## TITULO II. DELITOS CONTRA EL SERVICIO PUBLICO COMETIDOS POR LOS SERVIDORES PUBLICOS
 
 ### CAPITULO II. EJERCICIO INDEBIDO Y ABANDONO DEL SERVICIO PUBLICO
 
@@ -2595,11 +2657,11 @@ I.- Promueva o gestione la tramitación o resolución ilícita de negocios públ
 
 II.- Indebidamente solicite o promueva alguna resolución o la realización de cualquier acto materia del empleo, cargo o comisión de otro servidor público, que produzca beneficios económicos para sí o para cualquiera de las personas a que se hace referencia en la fracción III del artículo anterior.
 
+## TITULO III. DELITOS CONTRA EL SERVICIO PUBLICO COMETIDOS POR PARTICULARES
+
 ### CAPITULO I. PROMOCION DE CONDUCTAS ILICITAS
 
 253.- Al particular que promueva una conducta ilícita de un servidor público o se preste para que él mismo o por interpósita persona promueva o gestione la tramitación o resolución ilícita de negocios públicos ajenos a las responsabilidades inherentes a su empleo, cargo o comisión, se le impondrá prisión de tres meses a cuatro años y de diez a cien días multa.
-
-## TITULO III. DELITOS CONTRA EL SERVICIO PUBLICO COMETIDOS POR PARTICULARES
 
 ### CAPITULO II. COHECHO COMETIDO POR PARTICULARES
 
@@ -2751,6 +2813,8 @@ Además de las penas establecidas en el párrafo que antecede, el agente sufrir�
 
 Tratándose de servidores públicos que tengan a su cargo funciones de prevención, persecución, investigación o sanción de delitos, además de aplicárseles la sanción señalada en el primer párrafo de este Artículo, se les destituirá e inhabilitará definitivamente para desempeñar cargos de la misma especie.
 
+## TITULO IV. DELITOS CONTRA LA ADMINISTRACION DE JUSTICIA
+
 ### CAPITULO II. FRAUDE PROCESAL
 
 271.- Al que para obtener un beneficio indebido para sí o para otro, simule un acto jurídico o un juicio o un acto o escrito judiciales, o altere elementos de prueba en perjuicio de otro, se le impondrá prisión de tres meses a cinco años y de veinte a doscientos días multa.
@@ -2758,8 +2822,6 @@ Tratándose de servidores públicos que tengan a su cargo funciones de prevenci�
 Se entenderá simulado el juicio que se siga en contra de un depositario, si trae como consecuencia el secuestro de la cosa embargada o depositada con anterioridad en otro procedimiento judicial o administrativo.
 
 También se entenderá simulado el que se siga contra cualquier otra persona, si con ese motivo se desposee al depositario de la cosa previamente embargada o secuestrada en otro juicio o procedimiento, siempre que éste no la reclame dentro de los tres días siguientes.
-
-## TITULO IV. DELITOS CONTRA LA ADMINISTRACION DE JUSTICIA
 
 ### CAPITULO III. IMPUTACION DE HECHOS FALSOS Y SIMULACION DE PRUEBAS
 
@@ -3141,6 +3203,10 @@ Igual pena se aplicará a quien sin mediar resolución de autoridad competente, 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2005)</small>
 
+## TITULO V. DELITOS ELECTORALES
+
+> <small>(REFORMADA [N. DE E. DEROGADA] SU DENOMINACIÓN, P.O. 13 FEBRERO DE 2004)</small>
+
 ### CAPITULO UNICO. DELITOS AMBIENTALES
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2005)</small>
@@ -3230,10 +3296,6 @@ III.- Destruya en predio ajeno los nidos, huevos y crías de aves de cualquier e
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2005)</small>
 
 311.- Cuando en la comisión de alguno de los delitos previstos en este Capítulo, intervenga un servidor público en ejercicio, con motivo de sus funciones o aprovechándose de su calidad de servidor, la pena prevista se aumentará hasta en una mitad y se le inhabilitará para ocupar cargo, empleo o comisión por un tiempo igual al que se le hubiera fijado como pena privativa de libertad, sanción que deberá contabilizarse a partir del día en que el sentenciado haya cumplido con la prisión o ésta se hubiere tenido por cumplida.
-
-## TITULO V. DELITOS ELECTORALES
-
-> <small>(REFORMADA [N. DE E. DEROGADA] SU DENOMINACIÓN, P.O. 13 FEBRERO DE 2004)</small>
 
 #### SECCION QUINTA. DELITOS CONTRA EL AMBIENTE, LOS RECURSOS NATURALES, LA GESTION AMBIENTAL Y LA PROTECCION A LA FAUNA
 
@@ -3508,3 +3570,11 @@ El presente Decreto entrará en vigor a los dos meses siguientes del día de su 
 ###### ARTÍCULO SEGUNDO.
 
 Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
+
+P.O. 20 DE JULIO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor a los sesenta días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- En tanto se emita la nueva Ley Orgánica de la Procuraduría General de Justicia en el Estado, la Procuraduría designara el área que se encargara de seguir y conocer los delitos contra la salud en su modalidad de narcomenudeo.
+
+TERCERO.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
