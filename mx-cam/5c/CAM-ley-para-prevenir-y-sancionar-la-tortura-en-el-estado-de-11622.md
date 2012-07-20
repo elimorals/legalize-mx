@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-prevenir-y-sancionar-la-tortura-en-el-estado-de-11622"
 country: "mx"
 rank: "ley"
 publication_date: "1993-10-28"
-last_updated: "2011-10-27"
+last_updated: "2012-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11622&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY PARA PREVENIR Y SANCIONAR LA TORTURA EN EL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 235, POR EL CUAL SE EXPIDE EL CÓDIGO PENAL DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 20 DE JULIO DE 2012, SE DEROGAN LOS TIPOS PENALES CONTENIDOS EN LA LEY PARA PREVENIR Y SANCIONAR LA TORTURA DEL ESTADO DE CAMPECHE.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 28 de octubre de 1993.
 
@@ -127,10 +129,26 @@ En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII d
 
 Dado en el Palacio de Gobierno del Estado, en Campeche, a los veintiséis días del mes de octubre de mil novecientos noventa y tres.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, ING. JORGE SALOMON AZAR GARCIA.- EL SECRETARIO DE GOBIERNO, LIC. CRUZ MANUEL ALFARO ISAAC.- RUBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 27 DE OCTUBRE DE 2011.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido de este Decreto.
+
+P.O. 20 DE JULIO DE 2012.
+
+Primero.- El presente decreto entrará en vigor a los treinta días hábiles de su publicacion en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga el Código Penal del Estado de Campeche, no vigente, aprobado mediante decreto No. 169, publicado en el Periódico Oficial del Estado de Campeche No. 4090 de fecha 04 de Agosto de 2008.
+
+Tercero.- Como consecuencia de lo señalado en el transitorio segundo que antecede,al (sic) entrar en vigor el presente Código quedará abrogado el Código Penal del Estado de Campeche, vigente desde el 2·de enero de 1976, publicado en el Periódico Oficial del Estado el día 16 de diciembre de 1975, pero seguirá aplicándose por los hechos ejecutados durante su vigencia, salvo que las disposiciones del nuevo Código beneficien al imputado o sentenciado o que manifiesten su voluntad de acogerse al presente ordenamiento.
+
+Cuarto.- Se derogan los tipos penales contenidos en la Ley para Prevenir y Sancionar la Tortura en el Estado de Campeche y en la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Campeche, así como las disposiciones legales y reglamentarias del marco jurídico estatal que se opongan al contenido del presente decreto.
+
+Quinto.- La modificación o reubicación de cualquier tipo penal a que se refiere este decreto, no implicará la libertad de los responsables por los delitos cometidos con anterioridad a su vigencia, siempre que los hechos se comprendan en los tipos penales modificados. Asímismo, las acciones u omisiones que en el presente decreto hayan dejado de tipificarse como delitos, producirán la inmediata libertad de los procesados o sentenciados y cesará el procedimiento o los efectos de la sentencia, con excepción de la reparación del daño cuando ésta ya se hubiere hecho efectiva.
+
+Sexto.- Forma parte de este decreto un Anexo Único denominado Tabla de Delitos.
+
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 20 DE JULIO DE 2012, PÁGINA 77.</small>
