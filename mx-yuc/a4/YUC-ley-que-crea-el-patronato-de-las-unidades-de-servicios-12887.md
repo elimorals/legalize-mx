@@ -4,7 +4,7 @@ identifier: "YUC-ley-que-crea-el-patronato-de-las-unidades-de-servicios-12887"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-23"
-last_updated: "1998-08-29"
+last_updated: "2012-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY QUE CREA EL PATRONATO DE LAS UNIDADES DE SERVICIOS CULTURALES Y TURISTICOS DEL ESTADO DE YUCATAN
 
-LEY QUE CREA EL PATRONATO DE LAS UNIDADES DE SERVICIOS CULTURALES Y TURISTICOS DEL ESTADO DE YUCATAN
+LEY QUE CREA EL PATRONATO DE LAS UNIDADES DE SERVICIOS CULTURALES Y TURÍSTICOS DEL ESTADO DE YUCATÁN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE AGOSTO DE 1998.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL PATRONATO DE LAS UNIDADES DE SERVICIOS CULTURALES Y TURÍSTICOS DEL ESTADO DE YUCATÁN, PUBLICADA EN EL D.O. DE 20 DE JULIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: ABROGADA.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 23 de Noviembre de 1987.
 
@@ -441,7 +443,7 @@ EL SECRETARIO DE GOBIERNO
 
 JOSE IGNACIO MENDICUTI PAVON
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O. 25 DE ABRIL DE 1994.
 
@@ -458,3 +460,17 @@ Se derogan las disposiciones legales que se opongan a lo dispuesto en este decre
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 20 DE JULIO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley que crea el Patronato de las Unidades de Servicios Culturales y Turísticos del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 23 de noviembre de 1987, sin perjuicio de que aquélla por la que se establece la creación del propio Patronato.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones normativas de igual o menor rango que se opongan a lo dispuesto en esta Ley.
