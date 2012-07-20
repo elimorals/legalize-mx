@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-ley-de-catastro-inmobiliario-del-estado-de-273
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-12-02"
-last_updated: "2011-08-12"
+last_updated: "2012-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA LEY DEL CATASTRO INMOBILIARIO DEL ESTADO DE BAJA CALIFORNIA PARA EL MUNICIPIO DE TIJUANA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2012.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 2 de diciembre de 1994.
 
@@ -49,9 +49,9 @@ I.- La Ley: la Ley de Catastro Inmobiliario del Estado de Baja California.
 
 II.- La Tesorería: la Tesorería Municipal.
 
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2012)</small>
 
-III.- La Dirección: La Dirección de Administración Urbana.
+III.- La Dirección: La Dirección de Catastro.
 
 IV.- El Titular: el titular de la dependencia municipal responsable del catastro.
 
@@ -63,7 +63,9 @@ VII.- El Consejo: el Consejo Municipal del Catastro Inmobiliario.
 
 VIII.- Área Urbanizada: son los suelos que habiendo sido rústicos o previamente urbanizados, han sido habilitados para alojar actividades de habitación, educación, esparcimiento y producción de bienes y servicios.
 
-IX.- Perito Deslindador: profesional facultado para elaborar trabajos topográficos, con registro vigente ante la Dirección.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2012)</small>
+
+IX.- Perito deslindador: Profesional facultado para elaborar trabajos topográficos DE AGRIMESURA Y DESLINDES con registro vigente ante la dirección.
 
 X.- Perito Valuador Catastral: profesional facultado para elaborar trabajos de valuación, con registro vigente ante la Dirección.
 
@@ -82,6 +84,10 @@ XIII.- Deslinde Catastral: Es la acción de medir y señalar físicamente en el 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE SEPTIEMBRE DE 2000)</small>
 
 XIV.- Certificación de Polígonos Catastrales: Es la Constancia de los datos declarados que obran en los archivos de la dirección, que definen los linderos de un predio mayor de 5,000 m2.
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2012)</small>
+
+XV.- Sistema de Información Territorial Municipal: Es el relativo a la propiedad inmueble, cuyo propósito es obtener un censo analítico y descriptivo de las características físicas, cualitativas, legales, fiscales y administrativas de los inmuebles ubicados en el Municipio, que permita el uso multifinalitario organizado, integral, informático actualizado que admita consultas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
@@ -111,9 +117,13 @@ b) Archivos digitales.
 
 III.- Archivos, documentales integrados por expedientes que contienen la documentación propia de cada bien inmueble, así mismo medios digitales integrados por expedientes que contienen la documentación y las características digitalizadas propias de cada bien inmueble, basada en información generada por medios electrónicos, ópticos o de cualquier tipo o cualquier otra tecnología, condicionando su valor a la fiabilidad del método en que haya sido generada, comunicada, recibida o archivada y, en su caso, si es posible atribuir a las personas obligadas el contenido de la información relativa y ser accesible para su ulterior consulta.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 5.
 
-La Dirección deberá inscribir la totalidad de los bienes inmuebles ubicados dentro del territorio del Municipio, así como hacerlos objeto de avalúo, sin importar u (sic) tipo de tenencia, régimen de propiedad, uso o destino.
+La dirección deberá inscribir la totalidad de los bienes inmuebles ubicados dentro del territorio del Municipio, así como de hacerlos objeto de avalúo, sin importar su tipo de tenencia, régimen de propiedad, uso o destino.
+
+Una vez inscrito el inmueble dentro del padrón catastral, se le asignara una clave, para efectos estadísticos, motivo por el cual el contribuyente no generará derechos sobre ésta.
 
 ## TITULO SEGUNDO. DEL CONSEJO MUNICIPAL
 
@@ -319,9 +329,45 @@ III.- Iniciar un expediente que contendrá la documentación propia del predio e
 
 IV.- Registrar en los padrones alfanuméricos de la Dependencia, los datos que definan los atributos del predio.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 38.
 
-Para modificar los datos registrales de un predio será necesario que sea presentada la documentación que acredite las causas de la modificación, o en su defecto que la Dirección certifique las circunstancias que la motivaron.
+Para modificar los datos registrales de un predio será necesaria (sic) que sea presentada la documentación que acredite las causas de la modificación, o en su defecto que la dirección certifique las circunstancias que la motivaron.
+
+En caso de conflicto en el registro catastral, salvo ordenado y/o solicitado por autoridad competente, el Catastro Municipal se abstendrá de modificar y/o cancelar el registro a favor de persona o personas distintas a la empadronada y de expedir documentos, constancias o certificaciones, dejando a salvo el derecho de las partes para que ejerzan su derecho de preferencia ante la jurisdicción competente.
+
+Existe conflicto en el registro catastral, cuando sobre un mismo bien inmueble hubiere dos o más títulos de propiedad o posesión que propicien registro catastral a nombre de personas diferentes y no se trate de una copropiedad o coposesión.
+
+La autoridad Catastral podrá cancelar los registros, cedulas, certificaciones y manifiestos en los siguientes casos:
+
+I.- Cuando se hubieren contraviniendo (sic) lo dispuesto en este articulo.
+
+II.- Cuando no se acredite la legítima propiedad o posesión del inmueble.
+
+III.- Cuando el registro asignado a un predio, no corresponda a las características descritas en el título de propiedad o posesión; y
+
+IV.- Cuando así lo determine la Autoridad Competente.
+
+En los supuestos descritos en las fracciones I, II, y III que anteceden, se deberá respetar el derecho a la garantía de audiencia de parte afectada, en cado (sic) que dicho principio se haya llevado a cabo dentro de un procedimientos (sic) desahogado en los términos de la fracción IV, se entenderá también cumplido por la Autoridad Catastral.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2012)</small>
+
+###### ARTICULO 38 Bis.
+
+La Dirección de Catastro, previo pago de los derechos correspondientes, siempre que no constituyan una violación a la Ley de Transparencia, podrá expedir documentos, planos y copias certificadas relacionadas con los bienes inmuebles inscritos en catastro a:
+
+I.- Su propietario.
+
+II.- Su poseedor legalmente reconocido.
+
+III.- Al representante legalmente constituido y/o autorizado.
+
+IV.- Las Autoridades Jurisdiccionales y Administrativas mediante solicitud oficial;
+
+V.- Los Fedatarios Públicos, que con ese carácter intervengan en actos o contratos relacionados con dichos predios, mediante solicitud escrita.
+
+Las resoluciones, certificaciones, datos y demás elementos catastrales cualesquiera que sean, que emita la Dirección de Catastro, solo producirán efectos fiscales, urbanísticos y estadísticos.
 
 ###### ARTICULO 39.
 
@@ -361,9 +407,11 @@ El registro catastral deberá contar con un señalamiento que permita identifica
 
 En el caso de construcciones constituidas en régimen de condominio, se tomará como unidad de registro cada condominio, asignándole una clave catastral a cada uno, incluyendo en cada caso, los atributos que le correspondan por su parte proporcional de áreas comunes.
 
+(REPUBLICADO [N. DE E. REFORMADO], P.O. 20 DE JULIO DE 2012)
+
 ###### ARTICULO 43.
 
-La Dirección notificará a los propietarios o poseedores de bienes inmuebles, en los casos y términos establecidos por la Ley, debiendo publicar a través del Periódico Oficial del Gobierno del Estado, por lo menos una vez cada tres meses, las notificaciones de los casos que no fueron localizados.
+La Dirección notificara a los propietarios o poseedores de bienes inmuebles, en los casos y términos establecidos por la ley y este Reglamento, debiendo publicar a través del Periódico Oficial del Gobierno del Estado, por lo menos una vez cada tres meses, las notificaciones de los casos que no fueron localizados.
 
 ###### ARTICULO 44.
 
@@ -698,3 +746,11 @@ P.O. 12 DE AGOSTO DE 2011.
 PRIMERO.- EL PRESENTE ACUERDO ENTRARA EN VIGOR AL MOMENTO DE SU APROBACIÓN, MISMO QUE DEBERÁ PUBLICARSE EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA.
 
 SEGUNDO.- SE DEROGAN TODAS Y CADA UNA DE LAS DISPOSICIONES NORMATIVAS Y REGLAMENTARIAS DERIVADAS DE ACUERDOS Y REGLAMENTOS QUE SE OPONGAN A LAS PRESENTES DISPOSICIONES LEGALES.
+
+P.O. 20 DE JULIO DE 2012.
+
+PRIMERO.- EL PRESENTE ACUERDO ENTRARA EN VIGOR AL MOMENTO DE SU APROBACIÓN, MISMO QUE DEBERÁ PUBLICARSE EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA, ASÍ COMO EN LA GACETA MUNICIPAL DEL H. AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA.
+
+SEGUNDO.- SE DEROGAN TODAS Y CADA UNA DE LAS DISPOSICIONES NORMATIVAS Y REGLAMENTARIAS DERIVADAS DE ACUERDOS Y REGLAMENTOS QUE SE OPONGAN A LAS PRESENTES DISPOSICIONES LEGALES.
+
+TERCERO.- UNA VEZ DEBIDAMENTE PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA Y EN LA GACETA MUNICIPAL, NOTIFÍQUESE POR MEDIO DE LA SECRETARIA GENERAL DE GOBIERNO MUNICIPAL A LAS DEPENDENCIAS CORRESPONDIENTES DE ESTA ADMINISTRACIÓN, PARA LA IMPLEMENTACIÓN INMEDIATA A LAS REFORMAS Y ADICIONES APROBADAS.
