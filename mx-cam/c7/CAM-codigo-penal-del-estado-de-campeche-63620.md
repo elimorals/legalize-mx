@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-63620"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-08-04"
-last_updated: "2008-08-04"
+last_updated: "2012-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63620&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # CODIGO PENAL DEL ESTADO DE CAMPECHE
 
-CODIGO PENAL DEL ESTADO DE CAMPECHE
+CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CODIGO, VER TRANSITORIO PRIMERO DEL DECRETO QUE LO CREA.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE, PUBLICADO EN P.O. DE 20 DE JULIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 TEXTO ORIGINAL.
 
@@ -4006,3 +4008,21 @@ CUARTO.- La modificación o reubicación de cualquier tipo penal a que se refier
 Dado en el Salón de Sesiones del Palacio Legislativo, en la ciudad de San Francisco de Campeche, Campeche, a los veintitrés días del mes de julio del año dos mil ocho.- C. Carlos Felipe Ortega Rubio, Diputado Presidente.- C. José Antonio Rodríguez Rodríguez, Diputado Secretario.- C. Gaspar Alberto Cutz Can, Diputado Secretario. RUBRICAS.
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los veintiocho días del mes de Julio del año dos mil ocho. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C.P. JORGE CARLOS HURTADO VALDEZ.- EL SECRETARIO DE GOBIERNO, M en D. RICARDO MEDINA FARFAN.- RUBRICAS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE JULIO DE 2012.
+
+Primero.- El presente decreto entrará en vigor a los treinta días hábiles de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga el Código Penal del Estado de Campeche, no vigente, aprobado mediante decreto No. 169, publicado en el Periódico Oficial del Estado de Campeche No. 4090 de fecha 04 de Agosto de 2008.
+
+Tercero.- Como consecuencia de lo señalado en el transitorio segundo que antecede, al entrar en vigor el presente Código quedará abrogado el Código Penal del Estado de Campeche, vigente, desde el 2 de enero de 1976, publicado en el Periódico Oficial del Estado el día 16 de diciembre de 1975, pero seguirá aplicándose por los hechos ejecutados durante su vigencia, salvo que las disposiciones del nuevo Código beneficien al imputado o sentenciado o que manifiesten su voluntad de acogerse al presente ordenamiento.
+
+Cuarto.- Se derogan los tipos penales contenidos en la Ley para Prevenir y Sancionar la Tortura en el Estado de Campeche y en la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Campeche, así como las disposiciones legales y reglamentarias del marco jurídico estatal que se opongan al contenido del presente decreto.
+
+Quinto.- La modificación o reubicación de cualquier tipo penal a que se refiere este decreto, no implicará la libertad de los responsables por los delitos cometidos con anterioridad a su vigencia, siempre que los hechos se comprendan en los tipos penales modificados. Asímismo, las acciones u omisiones que en el presente decreto hayan dejado de tipificarse como delitos, producirán la inmediata libertad de los procesados o sentenciados y cesará el procedimiento o los efectos de la sentencia, con excepción de la reparación del daño cuando ésta ya se hubiere hecho efectiva.
+
+Sexto.- Forma parte de este decreto un Anexo Único denominado Tabla de Delitos.
+
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 20 DE JULIO DE 2012, PÁGINA 77.</small>
