@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-593-de-expropiacion-para-el-estado-de-veracruz-71412
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-23"
-last_updated: "2009-12-23"
+last_updated: "2012-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71412&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY NUMERO 593 DE EXPROPIACIÓN PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 564 DE EXPROPIACIÓN, OCUPACIÓN TEMPORAL Y LIMITACIÓN DE DOMINIO DE BIENES DE PROPIEDAD PRIVADA PARA EL ESTADO DE VERACRUZ, PUBLICADA EN LA G.O. 20 DE JULIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADA.
 
 Ley publicada en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 23 de diciembre de 2009.
 
@@ -224,3 +226,11 @@ Licenciado Fidel Herrera Beltrán
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 20 DE JULIO DE 2012.
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se abroga la Ley de Expropiación para el Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial del estado el 23 de diciembre del año dos mil nueve, y se derogan todas las disposiciones que se opongan al presente ordenamiento.
