@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-159-de-salud-del-estado-de-guerrero-5188"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-25"
-last_updated: "2012-03-06"
+last_updated: "2012-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 159, DE SALUD DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 25 de abril de 1995.
 
@@ -407,17 +407,21 @@ XVII.- La asistencia social;
 
 XVIII.- Participar con las autoridades federales en el desarrollo de los programas contra el alcoholismo, el tabaquismo y la farmacodependencia, de conformidad con el acuerdo de coordinación específico que al efecto se celebre;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA] P.O. 20 DE JULIO DE 2012)</small>
 
-XIX.- Ejercer la verificación y el control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas en estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera del mismo establecimiento basándose en las normas que al efecto se emitan; y (sic),
+XIX.- La promoción y prevención del consumo de narcóticos, y la atención a las adicciones.
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2012)</small>
 
-XX.- La atención especializada de los senescentes;
+XX.- Ejercer la verificación y el control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas en estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera del mismo establecimiento basándose en las normas que al efecto se emitan;
 
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2012)</small>
 
-XXI.- Las demás que establezcan la Ley General de Salud y otras disposiciones jurídicas aplicables.
+XXI.- La atención especializada de los senescentes; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE JULIO DE 2012)</small>
+
+XXII.- Las demás que establezcan la Ley General de Salud y otras disposiciones jurídicas aplicables.
 
 B).- En materia de salubridad local; vigilar y procurar condiciones adecuadas de saneamiento en:
 
@@ -1899,25 +1903,63 @@ I.- La investigación de las causas del tabaquismo y de las acciones para contro
 
 II.- La educación a la familia para prevenir el consumo de tabaco por parte de niños y adolescentes.
 
-### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE JULIO DE 2012)</small>
+
+### CAPITULO III. DE LA PREVENCIÓN, ATENCIÓN Y COMBATE A LA FARMACODEPENDENCIA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 164.
 
-El Gobierno del Estado, realizará acciones coordinadas con la Secretaría de Salud del Gobierno Federal, en la ejecución del programa nacional contra la farmacodependencia, en los términos del acuerdo de coordinación específico que celebren ambos órdenes de gobierno.
+La Secretaría de Salud del Estado, en coordinación con la Secretaría de Salud Federal, ejecutará el Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia.
 
-###### ARTICULO 165.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE JULIO DE 2012)</small>
 
-El Gobierno del Estado y los municipios para evitar y prevenir el consumo de substancias e inhalantes, que produzcan efectos psicotrópicos en las personas, se ajustarán a lo siguiente:
+Los criterios y procedimientos establecidos bajo el Programa señalado en el párrafo que antecede, serán obligatorios para los prestadores de servicio del Sistema Estatal de Salud, de los establecimientos del sector público, privado y social, que realicen actividades preventivas, de tratamiento y de control de las adicciones y la farmacodependencia.
 
-I.- Determinarán y ejercerán medios de control en el expendio de substancias e inhalantes, para prevenir su consumo por parte de menores de edad e incapaces;
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2012)</small>
 
-II.- Establecerán sistemas de vigilancia en los establecimientos destinados al expendio y uso de dichas substancias, para evitar el empleo indebido de las mismas;
+###### ARTÍCULO 165.
 
-III.- Brindarán la atención médica que se requiera, a las personas que realicen o hayan realizado el consumo de substancias e inhalantes, y
+El Gobierno del Estado y los municipios, en la ejecución del Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia, establecerán:
 
-IV.- Promoverán y llevarán a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de substancias e inhalantes, y otros tóxicos.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2012)</small>
+
+I. Campañas permanentes de información, orientación al público, para la prevención de daños a la salud provocados por el consumo de estupefacientes y psicotrópicos;
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2012)</small>
+
+II. Los medios que permitan informar y brindar atención médica y los tratamientos que se requieran a las personas que consuman estupefacientes y psicotrópicos;
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2012)</small>
+
+III. Los medios de control y vigilancia en los establecimientos que expendan substancias e inhalantes, para prevenir su consumo por parte de menores de edad e incapaces, y
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2012)</small>
+
+IV. Acciones conjuntas con los sectores público, privado y social, para prevenir la farmacodependencia, con base en la información y desarrollo de habilidades para proteger, promover, restaurar, cuidar la salud individual, familiar, escolar y colectiva.
 
 A los establecimientos que vendan o utilicen substancias e inhalantes con efectos psicotrópicos que no se ajusten al control que dispongan el Gobierno Estatal y los Municipios, así como a los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan en los términos de esta Ley.
+
+> <small>N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN EL P.O. EL 20 DE JULIO DE 2012, SE ADVIERTE QUE SE AGREGÓ ESTE PÁRRAFO, TODA VEZ QUE EN EL TEXTO ANTERIOR NO EXISTÍA.</small>
+
+Cuando a la autoridad sanitaria se le informe por parte del Ministerio Público del no ejercicio de la acción penal, promoverá la orientación médica o de prevención del farmacodependiente o consumidor, conminándolo para formar parte en los programas contra la farmacodependencia; previendo lo necesario para la protección de la información personal.
+
+###### ARTICULO 164 Bis.
+
+La atención de los farmacodependientes, deberá realizarse en centros especializados en tratamiento, atención, y rehabilitación, con base en procedimientos modernos de tratamiento y rehabilitación, y que garanticen el respeto a la integridad y a la libertad de decisión del farmacodependiente.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2012)</small>
+
+ARTICULO 164 TER.- La Secretaría de Salud, establecerá un sistema de información que contenga:
+
+I. El padrón de instituciones del sector público, privado y social, que realicen actividades de prevención, de tratamiento y de control de las adicciones y la farmacodependencia, en la entidad;
+
+II. Las características y tendencias de la farmacodependencia, y
+
+III. El impacto y magnitud en lo individual, familiar y colectivo, de la farmacodependencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2012)</small>
 
 ## TITULO DECIMO SEGUNDO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS
 
@@ -3194,3 +3236,9 @@ P.O. 6 DE MARZO DE 2012.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su aprobación.
 
 Segundo.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en la página web del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
+
+P.O. 20 DE JULIO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor a los sesenta días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
