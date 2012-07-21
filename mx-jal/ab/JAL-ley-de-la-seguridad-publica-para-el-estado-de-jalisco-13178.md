@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-la-seguridad-publica-para-el-estado-de-jalisco-13178"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-28"
-last_updated: "2007-02-24"
+last_updated: "2012-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13178&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE LA SEGURIDAD PUBLICA PARA EL ESTADO DE JALISCO
 
-LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE JALISCO
+LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO DÉCIMO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO, PUBLICADA EN EL P.O. DE 21 DE JULIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de diciembre de 1993.
 
@@ -1173,7 +1175,7 @@ El Secretario General de Gobierno
 
 Lic. José Luis Leal Sanabria
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 13 DE SEPTIEMBRE DE 1997.
 
@@ -1234,3 +1236,31 @@ P.O. 24 DE FEBRERO DE 2007.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco."
 
 Segundo. Los procedimientos iniciados con anterioridad a la presente reforma se concluirán de acuerdo a las disposiciones vigentes con las que iniciaron.
+
+P.O. 21 DE JULIO DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes al de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El Poder Ejecutivo y los ayuntamientos del estado, sin perjuicio de sus facultades constitucionales, deberán adecuar o crear, en su caso, el reglamento del servicio profesional de carrera y los demás reglamentos correspondientes contenidos en el presente decreto, en un plazo que no exceda de noventa días a partir de su entrada en vigor.
+
+TERCERO. Las instituciones de seguridad pública, dentro de los treinta días siguientes de la vigencia de los reglamentos correspondientes, deberán instalar los órganos internos para instaurar los procedimientos del servicio profesional de carrera, así como el de sanciones y separación.
+
+CUARTO. En les casos de sanción y separación previstos en la presente ley, estarán a cargo del titular de la institución de seguridad pública a través de sus órganos de control interno, hasta en tanto se instale la instancia que para tal efecto deben crear conforme a las disposiciones aplicables. Los procedimientos instaurados con anterioridad a la publicación del presente decreto, se desahogarán conforme a la ley que se abroga en el transitorio décimo segundo de esta ley.
+
+QUINTO. Los delitos señalados en el Titulo Noveno de esta ley entrarán en vigor a partir del día 3 de enero del año 2013, a excepción de los señalados en los artículos 177, fracción I, y 179, los cuales entrarán en vigor a partir de la vigencia de este decreto.
+
+SEXTO. Se autoriza al Poder Ejecutivo, por conducto de la Secretaría de Finanzas y de Administración, a realizar todas las modificaciones y adecuaciones presupuestales y administrativas necesarias para el debido cumplimiento del presente decreto.
+
+SÉPTIMO. Se autoriza al titular del Poder Ejecutivo del Estado y a los municipios para expedir los nuevos nombramientos del personal que se encuentre comprendido dentro de los grupos sujetos a la vigencia de esta ley, de tal manera que, si fuera el caso, queden sin efecto aquellos nombramientos, contratos o equivalentes que se hayan fundamentado en leyes que rijan la relación laboral entre el Estado y los municipios con sus trabajadores o servidores públicos, y para ello se dará inicio treinta días después de vigente el reglamento del servicio profesional de carrera; en el caso de que un elemento operativo se negase a firmar su nuevo nombramiento será motivo de separación, de conformidad con la presente ley.
+
+OCTAVO. A partir de la entrada en vigor de la presente ley, en las leyes, reglamentos, decretos, circulares, acuerdos, oficios, juicios, procedimientos administrativos, tratados, contratos, convenios, donde sea mencionada la Secretaría de Seguridad Pública, Prevención y Readaptación Social, se entenderá que se trata de la Secretaria de Seguridad Pública, Prevención y Reinserción Social, sin menoscabo a lo anterior el Poder Ejecutivo deberá adecuar los respectivos reglamentos de conformidad a lo dispuesto por el presente decreto.
+
+NOVENO. Todos los integrantes de las instituciones de seguridad pública deberán contar con el certificado a que se refieren el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública y la Ley del Sistema de Seguridad Pública para el Estado de Jalisco, en los términos y plazos previstos en los artículos tercero y cuarto transitorios de la ley General del Sistema Nacional de Seguridad Pública. Quienes no obtengan el certificado serán separados del servicio, observando lo dispuesto en el artículo 123, apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos, conforme al procedimiento establecido en la presente ley y demás disposiciones legales aplicables.
+
+DÉCIMO. Se otorga entera validez y reconocimiento a los certificados y evaluación emitidos con anterioridad a la vigencia de esta ley, por el Centro Estatal de Evaluación y Control de Confianza, los centros federales y los de los estados de conformidad con la Ley General del Sistema Nacional de Seguridad Pública.
+
+DÉCIMO PRIMERO. Los elementos operativos de las áreas de prevención, reacción e investigación, a fin de permanecer en las instituciones de seguridad pública, deberán demostrar, a más tardar el día 3 de enero del 2013, que se encuentren inscritos en una institución de educación con reconocimiento oficial para obtener el nivel académico requerido. Los elementos operativos deberán acreditar fehacientemente, con documento idóneo, el avance de sus estudios en forma continua e ininterrumpida hasta culminarlos, para obtener la recertificación.
+
+DÉCIMO SEGUNDO. Se abrogan la Ley de Seguridad Pública para el Estado de Jalisco y sus respectivas reformas.
+
+DÉCIMO TERCERO. Se derogan las disposiciones legales y reglamentarias que se opongan al presente decreto.
