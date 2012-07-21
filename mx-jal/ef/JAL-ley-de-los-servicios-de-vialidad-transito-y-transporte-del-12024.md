@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "2012-06-09"
+last_updated: "2012-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRÁNSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2012.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 9 DE JUNIO DE 2012, NO APLICA A LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 5 DE JUNIO DE 2012, PÁGINA 5.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -2575,9 +2573,7 @@ XVIII. Rebasar por la derecha;
 
 XIX. Cambiar de carril sin precaución; y
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 2005)</small>
-
-XX. A la persona que conduzca un vehículo de motor en ciclo pistas, zonas peatonales, jardines, plazas y pistas para uso exclusivo de peatones, pudiéndose aplicar sanción alternativa, a elección del infractor, consistente en una jornada de trabajo de índole social, en materia de vialidad y tránsito, a no ser que cuente con la autorización respectiva de la autoridad competente para circular por dichas zonas;
+XX. (DEROGADA, P.O. 21 DE JULIO DE 2012)
 
 > <small>(REFORMADA, P.O. 7 DE JULIO DE 2005)</small>
 
@@ -2667,13 +2663,21 @@ II. Transportar un menor de doce años de edad en los asientos delanteros, salvo
 
 Los vehículos de transporte público observarán respecto a esta disposición lo que la norma técnica correspondiente señale;
 
-III. Al conductor de un vehículo que exceda en más de diez kilómetros por hora el límite de velocidad máximo permitido, siempre que existan señalamientos en donde se anuncie el citado límite de velocidad. En aquellas zonas en que expresamente se restrinja el límite máximo de velocidad, como son las próximas a centros escolares y hospitalarios, el reglamento señalará tanto la velocidad máxima permitida en ellas como qué otras zonas se considerarán con velocidad restringida. En estos casos no habrá tolerancia alguna y, en consecuencia, no se deberá, por ningún motivo, rebasar la velocidad permitida, y
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2012)</small>
+
+III. Al conductor de un vehículo que exceda en más de diez kilómetros por hora el límite de velocidad máximo permitido, siempre que existan señalamientos en donde se anuncie el citado límite de velocidad. En aquellas zonas en que expresamente se restrinja el límite máximo de velocidad, como son las próximas a centros escolares y hospitales, el reglamento señalará tanto la velocidad máxima permitida en ellas como qué otras zonas se considerarán con velocidad restringida. En estos casos no habrá tolerancia alguna y, en consecuencia, no se deberá, por ningún motivo rebasar la velocidad permitida;
 
 IV. No disponer de un seguro que cubra daños a terceros. Dicha sanción quedará condonada, si el infractor presenta dentro de los veinte días hábiles siguientes la póliza de seguro contra daños a terceros a la dependencia del Ejecutivo del Estado competente en materia de vialidad, tránsito y transporte o la que señale el reglamento de la Ley de los Servicios de Vialidad, Tránsito y Transporte del Estado de Jalisco.
 
 Los vehículos de transporte público y los de transporte especializado en las modalidades contempladas en esta ley, para que puedan prestar dicho servicio, además del seguro de daños a terceros, deben contar con un seguro de vida para los ocupantes y que además garantice las posibles lesiones que puedan sufrir los usuarios en los casos de los que transporten pasajeros.
 
-Además del seguro de daños a terceros, los vehículos que presten servicio de grúa deberán contar con un seguro que garantice los posibles daños que puedan sufrir los vehículos objeto del servicio.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2012)</small>
+
+Además del seguro de daños a terceros, los vehículos que presten servicio de grúa deberán contar con un seguro que garantice los posibles daños que puedan sufrir los vehículos objeto del servicio, y
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2012)</small>
+
+V. A la persona que conduzca un vehículo de motor en ciclovías, zonas peatonales, jardines, plazas y pistas para uso exclusivo de peatones, a no ser que cuente con la autorización respectiva de la autoridad competente para circular por dichas zonas.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3362,5 +3366,9 @@ P.O. 23 DE FEBRERO DE 2012.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 19 DE MAYO DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 21 DE JULIO DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
