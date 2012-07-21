@@ -4,7 +4,7 @@ identifier: "COL-ley-de-proteccion-del-patrimonio-cultural-para-el-estado-de-639
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-11"
-last_updated: "2009-05-30"
+last_updated: "2012-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY DE PROTECCION DEL PATRIMONIO CULTURAL PARA EL ESTADO DE COLIMA
 
-LEY DE PROTECCION DEL PATRIMONIO CULTURAL PARA EL ESTADO DE COLIMA
+LEY DE PROTECCIÓN DEL PATRIMONIO CULTURAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2012.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 11 de octubre de 2008.
 
@@ -217,7 +217,15 @@ III. Contribuir con la SECULT en el desarrollo de las condiciones que permitan p
 
 IV. Coordinar sus actividades con los diferentes organismos y dependencias del sector, para apoyar en el ejercicio de aquellas funciones que tengan relación con la materia de protección del patrimonio cultural en el Estado; y
 
-V. Las demás que le señalen las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2012)</small>
+
+IV.- Coordinar sus actividades con los diferentes organismos y dependencias del sector, para apoyar en el ejercicio de aquellas funciones que tengan relación con la materia de protección del patrimonio cultural en el Estado;
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2012)</small>
+
+V.- Promover y fomentar en los educandos una cultura de protección, conservación, cuidado y valorización del patrimonio cultural del Estado y de la Nación; y
+
+VI.- Las demás que le señalen las disposiciones legales aplicables.
 
 ###### ARTÍCULO 16.
 
@@ -255,7 +263,7 @@ II. Un Presidente, que será el Secretario de Cultura;
 
 III. Un Secretario Ejecutivo, que será el Secretario de Educación; y
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2009)</small>
 
 IV.- Cinco vocales que serán:
 
@@ -625,8 +633,12 @@ Dado en Palacio de Gobierno, al día 08 del mes de octubre del año dos mil ocho
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. HÉCTOR MICHEL CAMARENA. Rúbrica. EL SECRETARIO DE CULTURA, LIC. RUBÉN PÉREZ ANGUIANO. Rúbrica. EL SECRETARIO DE EDUCACIÓN, PROFR. CARLOS CRUZ MENDOZA. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 30 DE MAYO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 21 DE JULIO DE 2012.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
