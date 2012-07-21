@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-3971"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-28"
-last_updated: "2012-06-23"
+last_updated: "2012-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3971&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2012.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 28 de mayo de 1994.
 
@@ -133,13 +133,17 @@ XVI.- Mantendrá actualizado el acervo tecnológico y científico del Estado, y 
 
 XVII.- Promover el valor de la justicia, de la observancia de la ley y de la igualdad de los individuos ante ésta, así como propiciar el conocimiento de los derechos humanos y el respeto a los mismos;
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2012)</small>
 
-XVIII.- Promoverá y fomentará la competitividad de los educandos, entendida ésta como la capacidad del estado para sostener y expandir su participación en la población y combatir el desempleo; y
+XVIII.- Promoverá y fomentará la competitividad de los educandos, entendida ésta como la capacidad del estado para sostener y expandir su participación en la población y combatir el desempleo;
 
-> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2012)</small>
 
-XIX.- Realizará acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad o de personas que no tengan la capacidad de comprender el significado del hecho o para resistirlo.
+XlX.- Realizará acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad o de personas que no tengan la capacidad de comprender el significado del hecho o para resistirlo; y
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2012)</small>
+
+XX.- Promoverá y fomentará en los educandos una cultura de protección, conservación, cuidado y valorización del patrimonio cultural del Estado y de la Nación.
 
 Siendo los fines primordiales del proceso educativo la instrucción y la formación del educando, para que éste logre el desarrollo armónico de su personalidad, debe asegurársele la participación activa que le corresponde en dicho proceso, estimulando su iniciativa, su sentido de responsabilidad social y su espíritu creador.
 
@@ -1210,5 +1214,9 @@ P.O. 12 DE MAYO DE 2012.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 23 DE JUNIO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 21 DE JULIO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
