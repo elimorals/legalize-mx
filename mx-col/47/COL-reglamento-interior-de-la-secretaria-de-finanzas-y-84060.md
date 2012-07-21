@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-de-la-secretaria-de-finanzas-y-84060"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-26"
-last_updated: "2011-11-26"
+last_updated: "2012-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84060&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2012.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 26 de noviembre de 2011.
 
@@ -53,7 +53,9 @@ b).- Secretaría: a la Secretaría de Finanzas y Administración;
 
 c).- Secretario: al titular de la Secretaría de Finanzas y Administración;
 
-d).- Unidades Administrativas: a las Direcciones Generales, a las Unidades de Apoyo del Secretario, a las Direcciones y a las Receptorías de Rentas; y
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2012)</small>
+
+d).- Unidades Administrativas: a las Direcciones Generales, a la Unidad de Inteligencia Patrimonial y Económica, a las Unidades de Apoyo del Secretario, a las Direcciones y a las Receptorías de Rentas; y
 
 e).- Titulares: a los Directores Generales, Directores, Receptores de Rentas, Secretario Particular, Coordinadores y Representante del Gobierno del Estado de Colima en la ciudad de México.
 
@@ -104,6 +106,16 @@ V.- Dirección General Jurídica:
 a).- Dirección de Consultoría y Normatividad; y
 
 b).- Dirección de Asuntos Contenciosos y Resoluciones.
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2012)</small>
+
+VI.- Unidad de Inteligencia Patrimonial y Económica:
+
+a).- Dirección de Análisis Patrimonial y Económico;
+
+b).- Dirección de Procedimientos Legales; y
+
+c).- Dirección de Tecnologías de Información y Comunicaciones.
 
 ###### Artículo 4°.
 
@@ -403,9 +415,11 @@ XXI.- Las demás que le confieran las leyes, reglamentos, disposiciones legales 
 
 DE LAS FACULTADES GENÉRICAS DE LAS DIRECCIONES GENERALES.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2012)</small>
+
 ###### Artículo 14.
 
-Cada una de las Direcciones Generales, tiene al frente a un Director General.
+Cada una de las Direcciones Generales y la Unidad de Inteligencia Patrimonial y Económica, tienen al frente a un Director General.
 
 ###### Artículo 15.
 
@@ -467,6 +481,12 @@ XXVII.- Cumplir y vigilar el cumplimiento de las disposiciones administrativas d
 
 XXVIII.- Las demás que les sean conferidas por otras disposiciones legales y administrativas, así como las que expresa y legalmente le señale el Secretario.
 
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2012)</small>
+
+###### Artículo 15 Bis.
+
+Las facultades genéricas previstas en el artículo anterior, son atribuidas también a la Unidad de Inteligencia Patrimonial y Económica.
+
 ### CAPÍTULO QUINTO. DE LAS FACULTADES GENÉRICAS DE LAS DIRECCIONES
 
 ###### Artículo 16.
@@ -520,6 +540,12 @@ XX.- Desempeñar las comisiones que le sean encomendadas por el Director General
 XXI.- Cumplir y vigilar el cumplimiento de las disposiciones administrativas dictadas por el Director General del área correspondiente; y
 
 XXII.- Las demás que les sean conferidas por otras disposiciones legales y administrativas, así como las que expresa y legalmente le señalen el Secretario o el Director General del área correspondiente.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2012)</small>
+
+###### Artículo 17 Bis.
+
+Las referencias de Dirección General, que se hacen en las fracciones VI y XI del artículo anterior, se entenderán hechas también respecto de la Unidad de Inteligencia Patrimonial y Económica.
 
 ### CAPÍTULO SEXTO
 
@@ -1695,9 +1721,171 @@ XI.- Ejercer, en el ámbito de su competencia, las facultades delegadas a travé
 
 XII.- Proponer los términos de los informes previos y justificados que en Juicio de Amparo deban rendir el Secretario y los servidores públicos de las Unidades Administrativas en los asuntos competencia de la Secretaría; intervenir como tercero perjudicado; proponer los términos de los recursos que procedan; así como formular, en general, todas las promociones que en dichos juicios se requieran.
 
-### CAPÍTULO DÉCIMO PRIMERO. DE LAS SUPLENCIAS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE JULIO DE 2012)</small>
 
-### CAPÍTULO DÉCIMO SEGUNDO. DISPOSICIONES COMPLEMENTARIAS
+### CAPÍTULO DÉCIMO PRIMERO. DE LAS FACULTADES ESPECÍFICAS DE LA UNIDAD DE INTELIGENCIA PATRIMONIAL Y ECONÓMICA Y SUS DIRECCIONES
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2012)</small>
+
+###### Artículo 45 Bis.
+
+Son facultades de la Unidad de Inteligencia Patrimonial y Económica, las siguientes:
+
+l. Requerir a las dependencias y entidades de la Administración Pública Estatal y Municipal, para que proporcionen la información y documentación que posean y sea necesaria para el ejercicio de las atribuciones conferidas, en los plazos que les establezca;
+
+II. Emitir lineamientos para agrupar y jerarquizar, por niveles de riesgo la información que obtenga;
+
+III. Analizar y consolidar información fiscal, financiera, patrimonial, civil, así como cualquier otra que proporcionen las dependencias y entidades facultadas, relacionada con conductas que pudieran estar vinculadas con la comisión de delitos de operaciones con recursos de procedencia ilícita, financiamiento al terrorismo, trata de personas, delincuencia organizada y enriquecimiento ilegítimo, dentro del territorio del Estado;
+
+IV. Recibir, recopilar y analizar, en el ámbito de su competencia, las pruebas, constancias, reportes, documentación e informes sobre las conductas que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos de terrorismo y su financiamiento o de operaciones con recursos de procedencia ilícita, integrando los expedientes respectivos;
+
+V. Presentar a las autoridades competentes para la investigación, persecución y procesamiento de delitos, la información fiscal, financiera y patrimonial relacionada con conductas que pudieran estar vinculadas con la comisión de delitos de operaciones con recursos de procedencia ilícita, financiamiento al terrorismo, trata de personas, delincuencia organizada y enriquecimiento ilegítimo;
+
+VI. Denunciar o querellarse ante el Ministerio Público competente, de los hechos que tenga conocimiento y puedan constituir delitos de operaciones con recursos de procedencia ilícita, financiamiento al terrorismo, trata de personas, delincuencia organizada y enriquecimiento ilegítimo;
+
+VII. Gestionar ante la autoridad competente el decomiso, abandono o extinción de dominio de los bienes objeto o producto del delito, a favor del Estado;
+
+VIII. Realizar, en el ámbito de su competencia el seguimiento y control de los procesos originados por las denuncias y querellas que haya formulado la Unidad de Inteligencia Patrimonial y Económica, así como de aquellas en que ésta tenga interés;
+
+IX. Participar en el ámbito de su competencia, en la formulación, vigilancia y cumplimiento de los convenios y acuerdos de coordinación con las autoridades fiscales de la Secretaría de Hacienda y Crédito Público;
+
+X. Expedir certificaciones de constancias de los expedientes relativos a los asuntos de su competencia;
+
+XI. Suscribir los documentos y celebrar los actos jurídicos necesarios para el ejercicio de sus funciones;
+
+XII. Organizar y participar en foros y eventos relacionados con la capacitación en materia de prevención de operaciones con recursos de procedencia ilícita, financiamiento al terrorismo, trata de personas, delincuencia organizada y enriquecimiento ilegítimo;
+
+XIII. Solicitar a las autoridades competentes la realización de auditorías externas, en caso de que existan indicios que hagan probable la comisión de delitos de operaciones con recursos de procedencia ilícita, financiamiento al terrorismo, trata de personas, delincuencia organizada y enriquecimiento ilegítimo;
+
+XIV. Supervisar, ejecutar y explotar la información con motivo de sus facultades; así como vigilar y fomentar las políticas de seguridad de conformidad con las normas y lineamientos aplicables;
+
+XV. Coordinarse con las autoridades competentes para la práctica de los actos de fiscalización que resulten necesarios con motivo del ejercicio de sus facultades;
+
+XVI. Emitir recomendaciones de medidas para prevenir y detectar operaciones con recursos de procedencia ilícita, financiamiento al terrorismo, trata de personas, delincuencia organizada y enriquecimiento ilegítimo, a los sectores público y privado;
+
+XVII. Realizar consultas a expertos, instituciones académicas y de investigación, relacionadas con el ámbito de su competencia;
+
+XVIII. Prestar asistencia técnica a las autoridades competentes, en los procesos penales relacionados con los asuntos de su competencia;
+
+XIX. Ser el enlace entre las unidades administrativas, órganos desconcentrados y entidades de la Administración Pública Estatal, y las diversas dependencias y entidades de la Administración Pública Federal y de otras entidades federativas en los asuntos de su competencia, para el intercambio de información; así como negociar, celebrar e implementar acuerdos con esas instancias;
+
+XX. Tramitar y resolver en el ámbito de su competencia, los requerimientos de autoridades judiciales, administrativas o ministeriales;
+
+XXI. Notificar las determinaciones que dicte, los citatorios, requerimientos, solicitudes de informes y otros actos administrativos, así como los actos relacionados con el ejercicio de sus facultades;
+
+XXII. Desarrollar los sistemas de información necesarios para el ejercicio de sus funciones y de bases estadísticas del fenómeno delictivo en su territorio;
+
+XXIII. Participar, en coordinación con la Dirección General Jurídica, en el estudio y elaboración de anteproyectos de iniciativas de leyes o decretos relativos a los actos de su competencia;
+
+XXIV. Proponer al Secretario, el desarrollo de sistemas de información necesarios para el ejercicio de sus funciones y de bases estadísticas del fenómeno delictivo en el territorio del Estado; y
+
+XXV. Las demás que le señalen otras disposiciones legales y las que le confiera directamente el Secretario.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2012)</small>
+
+###### Artículo 45 Bis 1.
+
+La Unidad de Inteligencia Patrimonial y Económica, se integra por:
+
+I. La Dirección de Análisis Patrimonial y Económico;
+
+II. La Dirección de Procedimientos Legales; y
+
+III. La Dirección de Tecnologías de Información y Comunicaciones.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2012)</small>
+
+###### Artículo 45 Bis 2.
+
+Son facultades de la Dirección de Análisis Patrimonial y Económico, las siguientes:
+
+l. Proponer al Director General de la Unidad de Inteligencia Patrimonial y Económica, lineamientos para agrupar y jerarquizar, por niveles de riesgo la información que obtenga;
+
+II. Analizar y consolidar información fiscal, financiera, patrimonial, civil, así como cualquier otra que proporcionen las dependencias facultadas, relacionada con conductas que pudieran estar vinculadas con la comisión de delitos de operaciones con recursos de procedencia ilícita, financiamiento al terrorismo, trata de personas, delincuencia organizada y enriquecimiento ilegítimo, dentro del territorio del Estado;
+
+III. Expedir certificaciones de constancias de los expedientes relativos a los asuntos de su competencia;
+
+IV. Suscribir los documentos y celebrar los actos jurídicos necesarios para el ejercicio de sus funciones;
+
+V. Proponer al Director General de la Unidad de Inteligencia Patrimonial y Económica la realización de auditorías externas, en caso de que· existan indicios que hagan probable la comisión de delitos de operaciones con recursos de procedencia ilícita, financiamiento al terrorismo, trata de personas, delincuencia organizada y enriquecimiento ilegítimo;
+
+VI. Coordinarse con las autoridades competentes para la práctica de los actos de fiscalización que resulten necesarios con motivo del ejercicio de sus facultades;
+
+VII. Realizar consultas a expertos, instituciones académicas y de investigación, relacionadas con el ámbito de su competencia;
+
+VIII. Prestar asistencia técnica a las autoridades competentes, en los procesos penales relacionados con los asuntos de su competencia;
+
+IX. Tramitar y resolver en el ámbito de su competencia los requerimientos de autoridades judiciales, administrativas o ministeriales;
+
+X. Apoyar a la Unidad de Inteligencia Patrimonial y Económica, en su función de enlace entre las unidades administrativas de la Secretaría y las diversas dependencias y entidades de la Administración Pública Estatal, así como participar en la implementación de los acuerdos adoptados, derivados de dicha función de enlace; y
+
+XI. Proporcionar a la Dirección de Procedimientos Legales, la información y documentación que requiera para el cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2012)</small>
+
+###### Artículo 45 Bis 3.
+
+Son facultades de la Dirección de Procedimientos Legales, las siguientes:
+
+l. Requerir a las dependencias y entidades de la Administración Pública Estatal y Municipal, para que proporcionen la información y documentación que posean y sea necesaria para el ejercicio de las atribuciones conferidas, en los plazos que les establezca;
+
+II. Recibir, recopilar y analizar, en el ámbito de su competencia, las pruebas, constancias, reportes, documentación e informes sobre las conductas que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos de terrorismo y su financiamiento o de operaciones con recursos de procedencia ilícita, integrando los expedientes respectivos;
+
+III. Formular las denuncias o querellas que habrán de presentarse ante el Ministerio Público competente de los hechos que tenga conocimiento la Unidad de Inteligencia Patrimonial y Económica y puedan constituir delitos de operaciones con recursos de procedencia ilícita, financiamiento al terrorismo, trata de personas, delincuencia organizada y enriquecimiento ilegítimo;
+
+IV. Formular las promociones necesarias para gestionar ante la autoridad competente el decomiso, abandono o extinción de dominio de los bienes objeto o producto del delito, a favor del Estado;
+
+V. Realizar, en el ámbito de la competencia de la Unidad de Inteligencia Patrimonial y Económica, el seguimiento y control de los procesos originados por las denuncias y querellas que haya formulado así como de aquellas en que ésta tenga interés;
+
+VI. Llevar a cabo el análisis de los proyectos de los convenios y acuerdos de coordinación con las autoridades fiscales de la Secretaría de Hacienda y Crédito Público y emitir su opinión al Director General de la Unidad de Inteligencia Patrimonial y Económica;
+
+VII. Expedir certificaciones de constancias de los expedientes relativos a los asuntos de su competencia;
+
+VIII. Suscribir los documentos y celebrar los actos jurídicos necesarios para el ejercicio de sus funciones;
+
+IX. Participar, así como organizar foros y eventos relacionados con la capacitación en materia de prevención de operaciones con recursos de procedencia ilícita, financiamiento al terrorismo, trata de personas, delincuencia organizada y enriquecimiento ilegítimo;
+
+X. Proponer al Director General de la Unidad de Inteligencia Patrimonial y Económica, recomendaciones de medidas para prevenir y detectar operaciones con recursos de procedencia ilícita, financiamiento al terrorismo, trata de personas, delincuencia organizada y enriquecimiento ilegítimo, a los sectores público y privado;
+
+XI. Realizar consultas a expertos, instituciones académicas y de investigación, relacionadas con el ámbito de su competencia;
+
+XII. Prestar asistencia técnica a las autoridades competentes, en los procesos penales relacionados con los asuntos de su competencia;
+
+XIII. Tramitar y resolver en el ámbito de su competencia los requerimientos de autoridades judiciales, administrativas o ministeriales;
+
+XIV. Notificar las determinaciones, los citatorios, requerimientos, solicitudes de informes y otros actos administrativos, así como los actos relacionados con el ejercicio de sus facultades, que emita la Unidad de Inteligencia Patrimonial y Económica y sus Direcciones;
+
+XV. Apoyar a la Unidad de Inteligencia Patrimonial y Económica, en su función de enlace entre las unidades administrativas de la Secretaría y las diversas dependencias y entidades de la Administración Pública Estatal, así como participar en la implementación de los acuerdos adoptados; derivados de dicha función de enlace;
+
+XVI. Formular los anteproyectos de iniciativas de leyes o decretos relativos a los actos de su competencia; y
+
+XVII. Designar a los notificadores y demás personal para que intervenga en la práctica de diligencias, así como expedir las constancias de los mismos.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2012)</small>
+
+###### Artículo 45 Bis 4.
+
+Son facultades de la Dirección de Tecnologías de Información y Comunicaciones, las siguientes:
+
+I. Definir y establecer las estrategias institucionales que en materia de tecnologías de información y comunicaciones se deban aplicar por la Unidad de Inteligencia Patrimonial y Económica;
+
+II. Definir y establecer la plataforma de tecnologías de información y comunicaciones y el marco tecnológico de referencia, así como promover su evolución, innovación, optimización y estandarización;
+
+III. Desarrollar los sistemas de información necesarios para el ejercicio de las funciones de la Unidad de Inteligencia Patrimonial y Económica y de bases estadísticas del fenómeno delictivo en su territorio;
+
+IV. Administrar y operar los servicios de infraestructura de cómputo, comunicaciones, aplicaciones, información y servicios informáticos;
+
+V. Proporcionar la atención y el soporte técnico a los usuarios en materia de servicios informáticos, a fin de promover el uso y operación adecuados de los sistemas, equipos, redes y dispositivos informáticos;
+
+VI. Implementar las políticas, normas y mecanismos que permitan una operación continua de la red de comunicaciones y de la infraestructura de tecnologías de la información;
+
+VII. Investigar y evaluar nuevas tecnologías de información y comunicaciones, con el fin de incorporar aquellas que refuercen, evolucionen y complementen la plataforma de tecnologías de información y comunicaciones de la Unidad de Inteligencia Patrimonial y Económica;
+
+VIII. Realizar consultas a expertos, instituciones académicas y de investigación, relacionadas con el ámbito de su competencia; y
+
+IX. Apoyar a la Unidad de Inteligencia Patrimonial y Económica, en su función de enlace entre las unidades administrativas de la Secretaría y las diversas dependencias y entidades de la Administración Pública Estatal, así como participar en la implementación de los acuerdos adoptados, derivados de dicha función de enlace.
+
+### CAPÍTULO DÉCIMO SEGUNDO. DE LAS SUPLENCIAS
 
 ###### Artículo 46.
 
@@ -1710,6 +1898,8 @@ Los Directores Generales serán suplidos por cualquiera de los Directores en raz
 ###### Artículo 48.
 
 Los Directores serán suplidos por su inferior jerárquico inmediato en razón de la competencia y ejercicio de las facultades que les son propias de su despacho.
+
+### CAPÍTULO DÉCIMO TERCERO. DISPOSICIONES COMPLEMENTARIAS
 
 ###### Artículo 49.
 
@@ -1730,3 +1920,11 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en la residencia del Poder Ejecutivo Estatal, en Palacio de Gobierno, a los 22 días del mes de noviembre del año 2011.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. RENÉ RODRÍGUEZ ALCARAZ. Rúbrica. EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN, DR. J. JESÚS OROZCO ALFARO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE JULIO DE 2012.
+
+###### ARTICULO ÚNICO.
+
+El Presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial "El Estado de Colima".
