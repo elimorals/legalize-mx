@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-de-transparencia-y-acceso-a-la-informacion-88776"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-21"
-last_updated: "2009-02-21"
+last_updated: "2012-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE MATEHUALA, S.L.P.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2012.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 21 de febrero de 2009.
 
@@ -81,9 +81,15 @@ II. ADMINISTRACIÓN MUNICIPAL.- Conjunto de Direcciones, Organismos Auxiliares M
 
 III. COMITÉ.- El Comité de Información, Órgano Colegiado que se integra para resolver sobre la información que deberá clasificarse como reservada y confidencial;
 
-IV. DATOS PERSONALES.- La información concerniente a una persona física identificada o identificable relativo a su origen étnico o racial, o que este referida a las características físicas, morales, vida afectiva, y familiar, domicilio, número telefónico, situación patrimonial, ideología y opinión política; creencias o convicciones religiosas, estado de salud, orientación sexual o análogas relacionadas con su intimidad; y en general toda aquélla información de carácter personal susceptible de ser tutelada por los derechos humanos a la privacidad, intimidad, honor y dignidad, que se encuentra en posesión del Gobierno Municipal y sobre la que no puede realizarse ningún acto o hecho sin consentimiento expreso de la persona a quién se refiera;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2012)</small>
 
-V. DERECHO DE ACCESO A LA INFORMACIÓN PÚBLICA.- Prerrogativa de las personas para acceder a la información pública en posesión de los entes obligados;
+IV. DATOS PERSONALES.- Toda información sobre una persona física identificada o identificable, como lo es la relativa a su origen étnico o racial, características físicas, morales o emocionales, a su vida afectiva y familiar, domicilio, número telefónico, correo electrónico, patrimonio, ideología y opiniones políticas, afiliación sindical, creencias o convicciones religiosas o filosóficas, los estados de salud físicos o mentales, información genética, preferencia sexual, y otras análogas que afecten su intimidad.
+
+Se considerará identificable toda persona cuya identidad pueda determinarse, directa o indirectamente, en particular mediante un número de identificación o uno o varios elementos específicos, característicos de su identidad física, fisiológica, psíquica, económica, cultural o social;
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2012)</small>
+
+V. DERECHO DE ACCESO A LA INFORMACIÓN PÚBLICA.- Prerrogativa de las personas para acceder a la información pública en posesión de los entes obligados, en los términos de este Reglamento;
 
 VI. DOCUMENTO.- Oficios, acuerdos, correspondencia, directivas, circulares, minutas, expedientes, reportes, estudios, contratos, actas, convenios, resoluciones, instructivos, memorandos, notas, estadísticas, sondeos, encuestas, expresiones y representaciones materiales que den constancia de un hecho o acto del pasado o del presente de las entidades y servidores públicos en el ejercicio de sus funciones, o cualquier otro registro que documente la existencia y actividades de los entes obligados sin excepción de su fuente, tipo o fecha de elaboración. Los documentos pueden ser papeles escritos o en cualquier medio o formato impreso, sonoro, electrónico, fotográfico, gráfico, visual, holográfico, electrónico o digital;
 
@@ -91,13 +97,21 @@ VII. ESTRADO.- Espacio físico ubicado en el edifico que ocupa el Palacio Munici
 
 VIII. GOBIERNO MUNICIPAL.-·Conjunto de órganos de gobierno conformado por el Ayuntamiento, los Órganos Auxiliares del Presidente Municipal.
 
-IX. INFORMACIÓN CONFIDENCIAL.- La información en poder del Gobierno Municipal que contiene datos personales relativos a las características físicas, morales o emocionales, origen étnico o racial, domicilio, vida familiar, privada, íntima y afectiva, patrimonio, número telefónico, correo electrónico, ideología, opiniones políticas, preferencias sexuales, salud y expediente médico, y toda aquella información susceptible de ser tutelada por los derechos humanos a la privacidad, intimidad, honor y dignidad, que se encuentra en posesión de alguno de los entes obligados y sobre la que no puede realizarse ningún acto o hecho, sin la autorización debida de los titulares o sus representantes legales;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2012)</small>
 
-X. INFORMACIÓN PÚBLICA.- Toda aquella información que esta en posesión del Gobierno Municipal, exceptuando la clasificada como reservada o confidencial;
+IX. INFORMACIÓN CONFIDENCIAL.- Es la que contiene datos personales relativos a las características físicas, morales o emocionales, origen étnico o racial, domicilio, vida familiar, privada, íntima y afectiva, patrimonio, número telefónico, correo electrónico, ideología, opiniones políticas, preferencias sexuales, salud y expediente médico, y toda aquella información susceptible de ser tutelada por los derechos humanos a la privacidad, intimidad, honor y dignidad, que se encuentra en posesión de alguno de los entes obligados y sobre la que no puede realizarse ningún acto o hecho, sin la autorización debida de los titulares o sus representantes legales;
+
+a) INDICADORES DE GESTIÓN.- Los parámetros que permiten medir y evaluar el desempeño de la entidad pública, frente a sus objetivos, actividades, metas, estrategias y responsabilidades;
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2012)</small>
+
+X. INFORMACIÓN PÚBLICA. La información creada, administrada o en posesión de los sujetos obligados, exceptuando la clasificada como reservada o confidencial;
 
 XI. INFORMACIÓN PÚBLICA DE OFICIO.- La información que el Gobierno Municipal y servidores públicos están obligados a difundir conforme a lo establecido en la Ley de manera obligatoria; permanente y actualizada sin que medie para ello solicitud de acceso;
 
-XII. INFORMACIÓN RESERVADA.- Aquélla información que se encuentra temporalmente como restringida al acceso público o por disposición expresa de alguna otra ley;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2012)</small>
+
+XII. INFORMACIÓN RESERVADA. Aquella clasificada con carácter temporal como restringida al acceso del público;
 
 XIII. LEY.- Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí;
 
@@ -116,6 +130,10 @@ XIX. SERVIDOR PÚBLICO.- Toda persona que desempeñe un empleo, cargo, o comisi�
 XX. SOLICITANTE.- Cualquier persona física o moral que solicite, requiera o peticione información pública al Gobierno Municipal en los términos a que se refiere el presente Reglamento;
 
 XXI. UNIDAD DE INFORMACIÓN PÚBLICA.- La Unidad administrativa del Municipio, responsable de atender las solicitudes de acceso a la información publica.
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2012)</small>
+
+XXII. PRUEBA DE DAÑO.- La expresión de las razones lógico jurídicas que acrediten que el daño que pueda producirse, con la liberación de información pública catalogada como reservada, es mayor que el interés público de conocer la información de referencia; (sic)
 
 ###### ARTÍCULO 3°.
 
@@ -169,7 +187,9 @@ V. El nombre del Titular de la Unidad de Información Pública, puesto, domicili
 
 Salvo las excepciones que prevé el presente Reglamento, los sujetos obligados deberán tener disponible en medio impreso o electrónico, de manera permanente y actualizada la siguiente información:
 
-I. Su estructura orgánica, normatividad, nombramientos y funciones;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2012)</small>
+
+I. La estructura orgánica, normatividad, nombramientos, funciones que realiza cada dependencia y unidad administrativa, perfil de puestos y plazas conforme a lo prescrito por la normatividad de la materia, así como versión pública del currículo vitae de sus funcionarios;
 
 II. Las atribuciones, responsabilidades y facultades de cada órgano del Gobierno Municipal;
 
@@ -463,6 +483,14 @@ El Comité adoptará sus decisiones por mayoría de votos, teniendo el president
 
 Cuando se disponga hacer un acuerdo de reserva, ante el Comité se podrá presentar el titular del Área del Gobierno Municipal donde se resguarda la información que se propone reservar, para exponer los motivos y fundamentación de la reserva; teniendo derecho a voz pero no a voto.
 
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2012)</small>
+
+Se considerará la participación dentro del Comité de un Regidor representando al H. Cabildo, siendo votado y aprobado por mayoría.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2012)</small>
+
+El Regidor coadyuvará con las funciones del Comité con voz pero no voto.
+
 ###### ARTÍCULO 33.
 
 El Comité de Información tendrá las siguientes funciones:
@@ -475,9 +503,13 @@ III. Realizar los trámites y gestiones necesarios ante las entidades públicas 
 
 IV. Supervisar dentro del Gobierno Municipal, la aplicación de las disposiciones emitidas por la CEGAIP, el Sistema Estatal de Documentación y Archivo, y los titulares de las Áreas del Gobierno Municipal, con el objeto de hacer cumplir la Ley;
 
-V. Aprobar el Programa Anual de Acciones de Mejoramiento de la Transparencia, que le presente la Unidad de Información Pública, mismo que servirá para evaluar el desempeño de los servidores públicos en la materia; y
+V. Aprobar el Programa Anual de Acciones de Mejoramiento de la Transparencia, que le presente la Unidad de Información Pública, mismo que servirá para evaluar el desempeño de los servidores públicos en la materia; y (sic)
 
 VI. Elaborar el informe anual que cada entidad pública deberá enviar a la CEGAIP, en el que se dé cuenta de la aplicación de la Ley.
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2012)</small>
+
+VII. El Comité de Información sesionará obligatoriamente mínimo una vez al mes, con el fin de cumplir con las obligaciones asignadas en este Reglamento y en la Ley que lo rige.
 
 ### CAPÍTULO VIII. DEL PROCEDIMIENTO DE ACCESO A LA INFORMACIÓN
 
@@ -601,9 +633,11 @@ V. Se tendrá como fecha de notificación por correo certificado, mensajería, f
 
 ### CAPÍTULO XI. COSTOS POR REPRODUCCIÓN Y ENVÍO DE LA INFORMACIÓN
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2012)</small>
+
 ###### ARTÍCULO 55.
 
-El acceso a la información pública gubernamental es gratuito, si para su entrega se requiere de su reproducción ya sea en papel o en algún otro medio, el solicitante deberá cubrir el pago de derechos, derivados de su costo, mismo que cubrirá de conformidad a la Ley de Ingresos del Municipio de Matehuala de S.L.P que se encuentre vigente.
+Los entes obligados deberán atender el principio de gratuidad para permitir el acceso a la información pública de oficio, y demás información reproducible que no aparezca gravada en las leyes de ingresos. En los demás casos, las cuotas serán establecidas de conformidad con la Ley de Ingresos de Matehuala, S.L.P. que se encuentra vigente. Los organismos autónomos constitucionales podrán cobrar las cuotas que correspondan a estos servicios.
 
 ###### ARTÍCULO 56.
 
@@ -730,3 +764,9 @@ LIC. RAÚL ORTEGA RODRÍGUEZ
 SECRETARIO DEL H. AYUNTAMIENTO
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE JULIO DE 2012.
+
+ÚNICO.- Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Reglamento.
