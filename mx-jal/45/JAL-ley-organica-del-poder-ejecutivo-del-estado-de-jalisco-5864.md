@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-5864"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-02-28"
-last_updated: "2012-06-09"
+last_updated: "2012-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2012.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 9 DE JUNIO DE 2012 NO APLICA AL ARTICULADO DEL PRESENTE ORDENAMIENTO PUBLICADO EN EL P.O. DE 5 DE JUNIO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de febrero de 1989.
 
@@ -227,11 +225,13 @@ XXIII. Ejercer en coordinación con la Federación y los municipios en el ámbit
 
 XXIV. Las demás atribuciones generales que le confieran las leyes, reglamentos y decretos vigentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2012)</small>
 
 ###### Art. 23.
 
-Las atribuciones que la Ley otorga al Gobernador del (sic) Jalisco, como titular del Poder Ejecutivo, se encomendarán a las siguientes secretarías y dependencias:
+Las atribuciones que la ley otorga al Gobernador de Jalisco, como titular del Poder Ejecutivo, se encomendarán a las siguientes secretarías y dependencias:
 
 > <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
@@ -281,9 +281,11 @@ XI. Secretaría de Vialidad de (sic) Transporte;
 
 XII. Secretaría de Administración;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XIII. Secretaría de Seguridad Pública, Prevención y Readaptación Social;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2012)</small>
+
+XIII. Secretaría de Seguridad Pública, Prevención y Reinserción Social;
 
 > <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
@@ -1165,47 +1167,93 @@ XVI. Practicar visitas de inspección a las distintas Secretarías y Dependencia
 
 XVII. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
-> <small>(ADICIONADO, P.O. 10 DE ENERO DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2012)</small>
 
 ###### Art. 38 Bis.
 
-La Secretaría de Seguridad Pública, Prevención y Readaptación Social es la dependencia encargada de conducir y proporcionar los servicios de seguridad pública en el ámbito de su competencia, prevención y readaptación social, asistencia y apoyo a reos liberados, así como de diseñar e implantar los lineamientos estatales en materia criminal y de prevención del delito, fundando sus acciones en la integridad y derechos de las personas, en la preservación de las libertades y la paz pública y el respeto y preservación de los derechos humanos. Dicha Secretaría tendrá a su cargo las siguientes atribuciones:
+La Secretaría de Seguridad Pública, Prevención y Reinserción Social es la dependencia encargada de conducir y proporcionar los servicios de seguridad pública en el ámbito de su competencia, prevención y reinserción social, asistencia y apoyo a reos liberados, así como de diseñar e implantar los lineamientos estatales en materia criminal y de prevención del delito, fundando sus acciones en la integridad y derechos de las personas, en la preservación de las libertades y la paz pública y el respeto y preservación de los derechos humanos. Dicha Secretaría tendrá a su cargo las siguientes atribuciones:
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 1998)</small>
 
 I. La conservación y mantenimiento del orden, la tranquilidad y seguridad pública en el Estado, así como la prevención social contra la delincuencia;
 
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 1998)</small>
+
 II. Conducir en el Estado las normas, políticas y programas que derivan de la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública;
 
-III. La prevención del delito y de las infracciones penales y administrativas del ámbito de su competencia, así como el tratamiento en todos los ámbitos, de los individuos que se encuentren internos en alguno de los Centros de Prevención y Readaptación Social en el Estado, así como el control y administración de estos últimos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2012)</small>
+
+III. La prevención del delito y de las infracciones penales y administrativas del ámbito de su competencia, así como el tratamiento en todos los ámbitos, de los individuos que se encuentren internos en alguno de los centros de prevención y reinserción social en el estado, así como el control y administración de estos últimos;
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 1998)</small>
 
 IV. Establecer la creación, estructuración y aplicación de los programas tendientes a prevenir y combatir los hechos delictivos, y en los que deben participar las diferentes instituciones policiales, las cuales se distribuirán de acuerdo a la gravedad de los delitos y al índice de criminalidad de la circunscripción territorial;
 
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 1998)</small>
+
 V. Crear bancos de información que permitan el establecimiento de programas especiales que conlleven a la formación de una estrategia de prevención y combate a la delincuencia, así como a la coordinación para tal fin de los diferentes cuerpos policiales;
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 1998)</small>
 
 VI. Diseñar, colaborar en la implantación y evaluar la política criminal del Estado, atendiendo a las modalidades sociales, económicas y culturales de la sociedad;
 
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 1998)</small>
+
 VII. Captar, procesar, ordenar y analizar la información estadística criminal del Estado, para presentarla de manera oportuna y confiable a las distintas instituciones públicas involucradas en la prevención y combate al delito y brindar información a la comunidad, a fin de ampliar la cultura cívica en estas materias y prevenir los delitos;
 
-VIII. Establecer y organizar programas y actividades que tengan como fin la readaptación social del procesado o sentenciado durante la ejecución de la sentencia, así como el estricto seguimiento que se dé al cumplimiento de la sanción que se le impone, la cual se ceñirá a lo que establece la normatividad emitida para tal efecto;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2012)</small>
+
+VIII. Establecer y organizar programas y actividades que tengan como fin la reinserción social del procesado o sentenciado durante la ejecución de la sentencia, así como el estricto seguimiento que se dé al cumplimiento de la sanción que se le impone, la cual se ceñirá a lo que establece la normatividad emitida para tal efecto;
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 1998)</small>
 
 IX. Diseñar, implantar, conducir, coordinar y evaluar las funciones de apoyo y asistencia a reos liberados, preliberados o que deban ejecutar algún substitutivo penal en el seno social, procurando su eficaz y pronta reinserción social, disponiendo para ello de todos los mecanismos adecuados de concertación social y de participación de la comunidad que sean recomendables, dándole seguimiento a los asistidos durante el tiempo que sea necesario, para evitar la reincidencia, así como realizar los estudios necesarios en torno a este fenómeno, para prevenirlo y combatirlo;
 
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 1998)</small>
+
 X. Crear sistemas tendientes a la reinserción social de los sentenciados;
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 1998)</small>
 
 XI. Diseñar, implantar y evaluar instrumentos y programas de educación preventiva y de organización vecinal para la prevención del delito, apoyándose, entre otros, en medios eficaces de promoción y comunicación masiva;
 
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 1998)</small>
+
 XII. Difundir entre la población los programas que se establezcan de manera particular y general, en materia de prevención del delito;
 
-XIII. Diseñar, implantar, impulsar y fortalecer la profesionalización del personal dedicado a las tareas de seguridad pública y readaptación social, a través de una rigurosa selección de los aspirantes, de su capacitación en instalaciones adecuadas, de manera sistemática y continua, así como del Servicio Civil de Carrera y de la mejora de las condiciones laborales y salariales de este personal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2012)</small>
+
+XIII. Diseñar, implantar, impulsar y fortalecer la profesionalización del personal dedicado a las tareas de seguridad pública y reinserción social, a través de una rigurosa selección de los aspirantes, de su capacitación en instalaciones adecuadas, de manera sistemática y continua, así como del servicio profesional de carrera y de la mejora de las condiciones laborales y salariales de este personal;
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 1998)</small>
 
 XIV. Emitir las normas técnicas que deban regir en todo el Estado en cuanto a las características que deba reunir el personal de seguridad pública, así como de su desarrollo permanente y de los instrumentos, equipos, instalaciones y recursos en general que se apliquen para el desempeño de sus funciones;
 
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 1998)</small>
+
 XV. Proponer al titular del Ejecutivo del Estado, todas las políticas y medidas que propicien una conducta policial basada en los principios de legalidad, eficiencia, profesionalismo y honradez, y combatir de manera enérgica y eficaz cualquier abuso o desviación en la conducta policial, así como aplicar y dirigir dichas políticas en el ámbito de su competencia;
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 1998)</small>
 
 XVI. Conducir las funciones y vigilar la aplicación de las resoluciones emitidas por la Comisión de Honor y Justicia de las diversas corporaciones policiales del Estado, en los términos de ley;
 
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 1998)</small>
+
 XVII. Ejercitar las atribuciones que le confieren al Estado, las leyes reglamentarias del artículo 10 de la Constitución General de la República;
 
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 1998)</small>
+
 XVIII. Administrar los recursos que le sean asignados a efecto de realizar una equitativa distribución de los mismos, entre las diferentes áreas que la integran asignado de acuerdo a las necesidades y requerimientos de cada una de ellas los recursos financieros, humanos y materiales de que disponga y de acuerdo a la normatividad existente para tal efecto.
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 1998)</small>
 
 XIX. Las demás que les sean encomendadas por el titular del Poder Ejecutivo o le confiera esta Ley y otras disposiciones legales aplicables.
 
@@ -2036,3 +2084,31 @@ P.O. 31 DE DICIEMBRE DE 2009.
 P.O. 19 DE MAYO DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 21 DE JULIO DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes al de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El Poder Ejecutivo y los ayuntamientos del estado, sin perjuicio de sus facultades constitucionales, deberán adecuar o crear, en su caso, el reglamento del servicio profesional de carrera y los demás reglamentos correspondientes contenidos en el presente decreto, en un plazo que no exceda de noventa días a partir de su entrada en vigor.
+
+TERCERO. Las instituciones de seguridad pública, dentro de los treinta días siguientes de la vigencia de los reglamentos correspondientes, deberán instalar los órganos internos para instaurar los procedimientos del servicio profesional de carrera, así como el de sanciones y separación.
+
+CUARTO. En los casos de sanción y separación previstos en la presente ley, estarán a cargo del titular de la institución de seguridad pública a través de sus órganos de control interno, hasta en tanto se instale la instancia que para tal efecto deben crear conforme a las disposiciones aplicables. Los procedimientos instaurados con anterioridad a la publicación del presente decreto, se desahogarán conforme a la ley que se abroga en el transitorio décimo segundo de esta ley.
+
+QUINTO. Los delitos señalados en el Titulo Noveno de esta ley entrarán en vigor a partir del día 3 de enero del año 2013, a excepción de los señalados en los artículos 177, fracción I, y 179, los cuales entrarán en vigor a partir de la vigencia de este decreto.
+
+SEXTO. Se autoriza al Poder Ejecutivo, por conducto de la Secretaría de Finanzas y de Administración, a realizar todas las modificaciones y adecuaciones presupuestales y administrativas necesarias para el debido cumplimiento del presente decreto.
+
+SEPTIMO. Se autoriza al titular del Poder Ejecutivo del Estado y a los municipios para expedir los nuevos nombramientos del personal que se encuentre comprendido dentro de los grupos sujetos a la vigencia de esta ley, de tal manera que, si fuera el caso, queden sin efecto aquellos nombramientos, contratos o equivalentes que se hayan fundamentado en leyes que rijan la relación laboral entre el Estado y los municipios con sus trabajadores o servidores públicos, y para ello se dará inicio treinta días después de vigente el reglamento del servicio profesional de carrera; en el caso de que un elemento operativo se negase a firmar su nuevo nombramiento será motivo de separación, de conformidad con la presente ley.
+
+OCTAVO. A partir de la entrada en vigor de la presente ley, en las leyes, reglamentos, decretos, circulares, acuerdos, oficios, juicios, procedimientos administrativos, tratados, contratos, convenios, donde sea mencionada la Secretaría de Seguridad Pública, Prevención y Readaptación Social, se entenderá que se trata de la Secretaría de Seguridad Pública, Prevención y Reinserción Social, sin menoscabo a lo anterior el Poder Ejecutivo deberá adecuar los respectivos reglamentos de conformidad a lo dispuesto por el presente decreto.
+
+NOVENO. Todos los integrantes de las instituciones de seguridad pública deberán contar con el certificado a que se refieren el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública y la Ley del Sistema de Seguridad Pública para el Estado de Jalisco, en los términos y plazos previstos en los artículos tercero y cuarto transitorios de la Ley General del Sistema Nacional de Seguridad Pública. Quienes no obtengan el certificado serán separados del servicio, observando lo dispuesto en el artículo 123, apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos, conforme al procedimiento establecido en la presente ley y demás disposiciones legales aplicables.
+
+DÉCIMO. Se otorga entera validez y reconocimiento a los certificados y evaluación emitidos con anterioridad a la vigencia de esta ley, por el Centro Estatal de Evaluación y Control de Confianza, los centros federales y los de los estados de conformidad con la Ley General del Sistema Nacional de Seguridad Pública.
+
+DÉCIMO PRIMERO. Los elementos operativos de las áreas de prevención, reacción e investigación, a fin de permanecer en las instituciones de seguridad pública, deberán demostrar, a más tardar el día 3 de enero del 2013, que se encuentren inscritos en una institución de educación con reconocimiento oficial para obtener el nivel académico requerido. Los elementos operativos deberán acreditar fehacientemente, con documento idóneo, el avance de sus estudios en forma continua e ininterrumpida hasta culminarlos, para obtener la recertificacion.
+
+DÉCIMO SEGUNDO. Se abrogan la Ley de Seguridad Pública para el Estado de Jalisco y sus respectivas reformas.
+
+DÉCIMO TERCERO. Se derogan las disposiciones legales y reglamentarias que se opongan al presente decreto.
