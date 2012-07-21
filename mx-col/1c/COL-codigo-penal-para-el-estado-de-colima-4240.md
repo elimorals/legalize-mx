@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2012-07-07"
+last_updated: "2012-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -2895,11 +2895,29 @@ No se procederá contra el activo sino por querella de la mujer ofendida o de su
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO IV.
+### CAPÍTULO V. PEDERASTIA
 
-HOSTIGAMIENTO SEXUAL.
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2002)</small>
+ARTICULO 216 BIS 1.- Se aplicará de cinco a diez años de prisión y multa por hasta 100 unidades, a quien se aproveche de la confianza, subordinación o superioridad que tiene sobre un menor de dieciocho años, derivada de su parentesco en cualquier grado, tutela, curatela, guarda o custodia, relación docente, religiosa, laboral, médica, cultural, doméstica o de cualquier índole y ejecute, obligue, induzca o convenza a ejecutar cualquier acto sexual, con o sin su consentimiento.
+
+La misma pena se aplicará a quien cometa la conducta descrita del párrafo anterior, en contra de la persona que no tenga la capacidad de comprender el significado del hecho o para resistirlo.
+
+Si el agente hace uso de violencia física, las penas se aumentarán en una mitad más.
+
+El autor del delito podrá ser sujeto a tratamiento médico integral el tiempo que se requiera, mismo que no podrá exceder el tiempo que dure la pena de prisión impuesta.
+
+Además de las anteriores penas, el autor del delito perderá, en su caso, la patria potestad, la tutela, la curatela, la adopción, el derecho de alimentos y el derecho que pudiera tener respecto de los bienes de la víctima, en términos de la legislación civil.
+
+Cuando el delito fuere cometido por un servidor público o un profesionista en ejercicio de sus funciones o con motivo de ellas, además de la pena de prisión antes señalada, será inhabilitado en sus derechos o funciones por un término igual a la pena impuesta.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2012)</small>
+
+ARTICULO 216 BIS 2.- Para efecto de determinar el daño ocasionado al libre desarrollo de la personalidad de la víctima, se deberán solicitar los dictámenes necesarios para conocer su afectación. En caso de incumplimiento a la presente disposición por parte del Ministerio Público, éste será sancionado en los términos del presente Código y de la legislación aplicable.
+
+En los casos en que el sentenciado se niegue o no pueda garantizar la atención médica, psicológica o de la especialidad que requiera, el Estado deberá proporcionar esos servicios a la víctima.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 216 Bis.
 
@@ -2910,8 +2928,6 @@ Si se ocasionan daños y perjuicios la pena aumentará de 1 a 2 años de prisió
 Si el sujeto activo fuere servidor público y utilizare los medios o circunstancias que le proporciona su cargo, será destituido e inhabilitado para ocupar un empleo, cargo o comisión en el sector público, por un periodo de uno a dos años.
 
 Solo se procederá contra el responsable a petición de la parte ofendida o de su representante legal, en su caso.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 214.
 
@@ -2935,29 +2951,13 @@ El delito de abuso sexual se perseguirá por querella de parte ofendida.
 
 Cuando el sujeto pasivo sea menor de catorce años, o carezca de capacidad para comprender el significado del hecho, el delito se perseguirá de oficio no admitiendo el perdón del ofendido o de sus legítimos representantes.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE JUNIO DE 2002)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE MAYO DE 2012)</small>
 
-### CAPÍTULO V. PEDERASTIA
+### CAPITULO IV.
 
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2012)</small>
+HOSTIGAMIENTO SEXUAL.
 
-ARTICULO 216 BIS 1.- Se aplicará de cinco a diez años de prisión y multa por hasta 100 unidades, a quien se aproveche de la confianza, subordinación o superioridad que tiene sobre un menor de dieciocho años, derivada de su parentesco en cualquier grado, tutela, curatela, guarda o custodia, relación docente, religiosa, laboral, médica, cultural, doméstica o de cualquier índole y ejecute, obligue, induzca o convenza a ejecutar cualquier acto sexual, con o sin su consentimiento.
-
-La misma pena se aplicará a quien cometa la conducta descrita del párrafo anterior, en contra de la persona que no tenga la capacidad de comprender el significado del hecho o para resistirlo.
-
-Si el agente hace uso de violencia física, las penas se aumentarán en una mitad más.
-
-El autor del delito podrá ser sujeto a tratamiento médico integral el tiempo que se requiera, mismo que no podrá exceder el tiempo que dure la pena de prisión impuesta.
-
-Además de las anteriores penas, el autor del delito perderá, en su caso, la patria potestad, la tutela, la curatela, la adopción, el derecho de alimentos y el derecho que pudiera tener respecto de los bienes de la víctima, en términos de la legislación civil.
-
-Cuando el delito fuere cometido por un servidor público o un profesionista en ejercicio de sus funciones o con motivo de ellas, además de la pena de prisión antes señalada, será inhabilitado en sus derechos o funciones por un término igual a la pena impuesta.
-
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2012)</small>
-
-ARTICULO 216 BIS 2.- Para efecto de determinar el daño ocasionado al libre desarrollo de la personalidad de la víctima, se deberán solicitar los dictámenes necesarios para conocer su afectación. En caso de incumplimiento a la presente disposición por parte del Ministerio Público, éste será sancionado en los términos del presente Código y de la legislación aplicable.
-
-En los casos en que el sentenciado se niegue o no pueda garantizar la atención médica, psicológica o de la especialidad que requiera, el Estado deberá proporcionar esos servicios a la víctima.
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2002)</small>
 
 ### CAPITULO I.
 
@@ -3239,31 +3239,37 @@ Al que engañando a alguien o aprovechándose del error en que éste se halla, s
 
 Se equipara al fraude y se sancionará con las penas previstas en el artículo anterior al que:
 
-I.- Enajene o traspase una negociación sin autorización de los acreedores de ella o sin que el nuevo adquiriente se comprometa a responder de los créditos, siempre que estos últimos resulten insolutos, o
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2012)</small>
 
-II.- Por sí o por interpósita persona, cause perjuicio público o privado, al fraccionar y transferir o prometer transferir la propiedad, la posesión o cualquier otro derecho sobre un terreno urbano o rústico, propio, con o sin construcciones, sin previo permiso de las autoridades administrativas competentes, o cuando existiendo éste no se hayan satisfecho los requisitos en él señalados.
+I.- Enajene o traspase una negociación sin autorización de los acreedores de ella o sin que el nuevo adquiriente se comprometa a responder de los créditos, siempre que estos últimos resulten insolutos;
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2012)</small>
+
+II.- Por sí o por interpósita persona, cause perjuicio público o privado, al fraccionar y transferir o prometer transferir la propiedad, la posesión o cualquier otro derecho sobre un terreno urbano o rústico, propio, con o sin construcciones, sin previo permiso de las autoridades administrativas competentes, o cuando existiendo éste no se hayan satisfecho los requisitos en él señalados;
 
 III.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2011)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2012)</small>
 
-IV.- Reciba el pago total o parcial de un adeudo o interés, y no expida la constancia o recibo correspondiente;
+IV.- Reciba el pago total o parcial de un adeudo o interés, y no expida la constancia o recibo correspondiente.
 
-> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2010)</small>
+Este delito se sancionará aún en el caso de falta de pago total o parcial del precio de la cosa, el derecho transmitido, de la obligación alimentaria o en su caso de la expedición de la constancia o recibo correspondiente;
 
-V.- Para obtener un lucro indebido, explote las preocupaciones, las supersticiones o la ignorancia de las personas, por medio de supuestas evocaciones de espíritus, adivinaciones o curaciones u otros procedimientos carentes de validez técnica o científica.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+V.- Para obtener un lucro indebido, explote las preocupaciones, las supersticiones o la ignorancia de las personas, por medio de supuestas evocaciones de espíritus, adivinaciones o curaciones u otros procedimientos carentes de validez técnica o científica;
 
-Este delito se sancionará aun en el caso de falta de pago total o parcial del precio de la cosa, el derecho transmitido, de la obligación alimentaria o en su caso de la expedición de la constancia o recibo correspondiente.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2012)</small>
 
-> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2011)</small>
+VI.- Celebre de manera verbal o escrita, un convenio para la comercialización primaria de productos agropecuarios, pesqueros o forestales, utilizando engaños, artificios, maquinaciones o cualquier otra causa injustificada, incumpla con la obligación del pago en el término pactado;
 
-VI.- Celebre de manera verbal o escrita, un convenio para la comercialización primaria de productos agropecuarios, pesqueros o forestales, utilizando engaños, artificios, maquinaciones o cualquier otra causa injustificada, incumpla con la obligación del pago en el término pactado.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2012)</small>
 
-> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2011)</small>
+VII.- Con el fin de procurarse ilícitamente una cosa u obtener un lucro indebido libre un cheque contra una cuenta bancaria, que sea rechazado por la institución, en los términos de la legislación aplicable, por no tener el librador cuenta en la institución, estar cancelada, o por carecer éste de fondos suficientes para su pago; o
 
-VII.- Con el fin de procurarse ilícitamente una cosa u obtener un lucro indebido libre un cheque contra una cuenta bancaria, que sea rechazado por la institución, en los términos de la legislación aplicable, por no tener el librador cuenta en la institución, estar cancelada, o por carecer éste de fondos suficientes para su pago.
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2012)</small>
+
+VIII.- Venda a dos o más personas una misma cosa, sea mueble o inmueble, y reciba el precio de la primera, de la segunda enajenación o de ambas, o parte de él, o cualquier otro lucro, con prejuicio del primero o del segundo comprador.
 
 La certificación relativa a la inexistencia de la cuenta o a la falta de fondos suficientes para el pago deberá realizarse exclusivamente por personal específicamente autorizado para tal efecto por la institución de crédito de que se trate.
 
@@ -4012,3 +4018,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El titular del Ejecutivo del Estado deberá expedir las adecuaciones necesarias al Reglamento Interior de la Secretaría de Finanzas y Administración.
 
 TERCERO.- La Secretaría de Finanzas y Administración del Gobierno del Estado, asignará los recursos humanos, financieros y materiales para cubrir los requerimientos de operación de la unidad administrativa que ejercerá las atribuciones derivadas de lo dispuesto en la fracción XXI, apartado A), del artículo 21, de la Ley Orgánica de la Administración Pública del Estado de Colima, facultando a dicha dependencia para que realice las transferencias o ampliaciones presupuestarias que se requieran.
+
+P.O. 21 DE JULIO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
