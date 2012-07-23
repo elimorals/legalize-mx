@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-interior-del-instituto-estatal-de-acceso-a-la-64224"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-24"
-last_updated: "2011-01-18"
+last_updated: "2012-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64224&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE YUCATAN
 
-REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE YUCATAN
+REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE YUCATÁN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE ENERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JULIO DE 2012.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 24 de octubre de 2008.
 
@@ -221,7 +221,7 @@ X. Expedir certificaciones de las constancias de los documentos a cargo, del Con
 
 XI. Delegar, la práctica de las notificaciones derivadas del recurso de revisión y de los procedimientos de cumplimiento de las resoluciones, en el personal que estime conveniente;
 
-XII. Recibir del Secretario Ejecutivo, los expedientes relativos a los recursos de revisión y de los procedimientos de cumplimiento de las resoluciones, turnarlos al Pleno del Consejo para resolver sobre su admisión, y en su caso, turnarlo al Consejero ponente que corresponda;
+XII. (DEROGADA, D.O. 23 DE JULIO DE 2012)
 
 XIII. Acordar a petición de parte legítima, la expedición de copias certificadas de las constancias que obren en los expedientes derivados del recurso de revisión y de los procedimientos de cumplimiento de las resoluciones; y
 
@@ -357,7 +357,7 @@ VII. Establecer las bases de operación del Instituto;
 
 VIII. Delegar la representación legal del Instituto en la persona que designe;
 
-IX. Elaborar un informe anual de las actividades del Instituto y presentarlos al Consejo, dentro de los quince primeros días hábiles del mes de agosto, así como los demás que le sean solicitados por el propio Consejo;
+IX. (DEROGADA, D.O. 23 DE JULIO DE 2012)
 
 X. Asistir a las sesiones del Consejo con voz, excepto en aquellas en las que se resuelva el Recurso de Revisión;
 
@@ -421,9 +421,7 @@ XXXVII. Realizar las actividades y actos jurídicos que el Consejo determinare p
 
 XXXVIII. Presentar al Consejo informes o quejas, relativas al incumplimiento a la Ley, por parte de cualquier sujeto obligado;
 
-> <small>(ADICIONADA, D.O. 18 DE ENERO DE 2011)</small>
-
-XXXIX. Coordinar la elaboración del informe anual que en el mes de septiembre de cada año debe de rendir el Consejero Presidente; y
+XXXIX. (DEROGADA, D.O. 23 DE JULIO DE 2012)
 
 > <small>(ADICIONADA, D.O. 18 DE ENERO DE 2011)</small>
 
@@ -685,11 +683,11 @@ XIX. Asistir al personal en las cartas de entrega-recepción, por términos del 
 
 XX. Las demás tareas que le encomiende el Secretario Ejecutivo.
 
-> <small>(REFORMADA SU DENOMINACION, D.O. 18 DE ENERO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 18 DE ENERO DE 2011)</small>
 
 #### SECCIÓN CUARTA. DE LA DIRECCIÓN DE CAPACITACIÓN Y PROYECTOS EDUCATIVOS
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 18 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 18 DE ENERO DE 2011)</small>
 
 ###### Artículo 30.
 
@@ -723,11 +721,11 @@ XIII. Proponer al Secretario Ejecutivo la metodología y criterios para evaluar 
 
 XIV. Las demás tareas que le encomiende el Secretario Ejecutivo.
 
-> <small>(REFORMADA SU DENOMINACION, D.O. 18 DE ENERO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 18 DE ENERO DE 2011)</small>
 
 #### SECCIÓN QUINTA. DE LA DIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 18 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 18 DE ENERO DE 2011)</small>
 
 ###### Artículo 31.
 
@@ -1503,7 +1501,7 @@ II. Se contarán por días hábiles, entendiéndose por estos los días a que se
 
 ### CAPÍTULO SEXTO. DE LA APLICACIÓN DE LOS MEDIOS DE APREMIO
 
-> <small>(REFORMADA SU DENOMINACION, D.O. 17 DE ABRIL DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 17 DE ABRIL DE 2009)</small>
 
 #### SECCIÓN PRIMERA. PROCEDIMIENTO PARA VIGILAR EL CUMPLIMIENTO DE LAS RESOLUCIONES DE LOS RECURSOS DE INCONFORMIDAD Y DE REVISIÓN
 
@@ -1531,7 +1529,7 @@ IV. Las determinaciones que recaigan con motivo del presente procedimiento, debe
 
 V. Las notificaciones de este procedimiento se llevarán a cabo en los mismos términos que establece el Capítulo Quinto del Título Cuarto del presente Reglamento.
 
-> <small>(REFORMADA SE DENOMINACION, D.O. 17 DE ABRIL DE 2009)</small>
+> <small>(REFORMADA SE DENOMINACIÓN, D.O. 17 DE ABRIL DE 2009)</small>
 
 #### SECCIÓN SEGUNDA. PROCEDIMIENTO PARA VIGILAR EL CUMPLIMIENTO DE LA LEY
 
@@ -1605,7 +1603,7 @@ LIC. PABLO LORÍA VÁZQUEZ
 
 SECRETARIO EJECUTIVO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O. 17 DE ABRIL DE 2009.
 
@@ -1632,3 +1630,7 @@ Las reformas y adiciones previstas en los artículos 15, 21, 24 y 27 bis de este
 ###### ARTÍCULO TERCERO.
 
 Concluidos los procedimientos de cumplimiento de las resoluciones de los recursos de inconformidad y procedimientos para vigilar el cumplimiento de la Ley, que hayan sido radicados con anterioridad a la entrada en vigor del presente ordenamiento, deberán ser remitidos a la Secretaría Técnica para su resguardo.
+
+D.O. 23 DE JULIO DE 2012.
+
+ÚNICO. Las presentes reformas entraran el (sic) vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
