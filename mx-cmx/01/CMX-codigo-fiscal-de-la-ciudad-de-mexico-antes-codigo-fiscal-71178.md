@@ -4,7 +4,7 @@ identifier: "CMX-codigo-fiscal-de-la-ciudad-de-mexico-antes-codigo-fiscal-71178"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-29"
-last_updated: "2012-03-29"
+last_updated: "2012-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71178&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-12-28"
 
 CÓDIGO FISCAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE JULIO DE 2012.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 2009.
 
@@ -734,9 +734,13 @@ XXI. Las demás personas físicas o morales que señale este Código y las leyes
 
 La responsabilidad solidaria comprenderá los accesorios, con excepción de las multas. Lo dispuesto en este párrafo no impide que los responsables solidarios puedan ser sancionados por los actos u omisiones propios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 49.
 
-Las autoridades fiscales están obligadas a devolver las cantidades pagadas indebidamente y las que procedan de conformidad con este Código y demás leyes aplicables. La devolución podrá hacerse de oficio o a petición del interesado, mediante cheque nominativo para abono en cuenta del contribuyente o depósito en su cuenta, para lo cual deberá manifestar su aprobación y proporcionar su número de cuenta en la solicitud de devolución correspondiente, o certificado de devolución expedido a nombre de este último, el cual se podrá utilizar para cubrir cualquier contribución que se pague mediante declaración, ya sea a su cargo o que deba enterar en su carácter de retenedor, o bien, transmitirse a diverso contribuyente quien podrá aplicarlo como medio de pago en los mismos términos o a su vez transmitirlo. Los retenedores podrán solicitar la devolución siempre que ésta se haga directamente a los contribuyentes.
+Las autoridades fiscales están obligadas a devolver las cantidades pagadas indebidamente y las que procedan de conformidad con este Código y demás leyes aplicables. La devolución podrá hacerse de oficio o a petición del interesado, mediante cheque nominativo para su abono en cuenta del contribuyente o depósito en su cuenta, para lo cual deberá manifestar su aprobación y proporcionar su número de cuenta en la solicitud devolución (sic)
+
+correspondiente, o certificado de devolución expedido a nombre de este último, el cual se podrá utilizar para cubrir cualquier contribución o aprovechamiento que se pague mediante declaración o formato para trámite de pago, ya sea a su cargo o que deba enterar en su carácter de retenedor, o bien, transmitirse a diverso contribuyente quien podrá aplicarlo como medio de pago en los mismos términos o a su vez transmitirlo. Los retenedores podrán solicitar la devolución siempre que esta se haga directamente a los contribuyentes.
 
 En su caso podrá también realizarse la devolución mediante la dación en pago.
 
@@ -762,9 +766,9 @@ Si la devolución no se hubiera efectuado en el plazo de 120 días hábiles, las
 
 La actualización en el monto deberá incluirse en la liquidación correspondiente, sin necesidad de que exista petición expresa del pago por parte del contribuyente.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2012)</small>
 
-El contribuyente que habiendo efectuado el pago de una contribución determinada por él mismo o por la autoridad, interponga oportunamente los medios de defensa que el presente Código y demás leyes establezcan y obtenga resolución firme que le sea favorable total o parcialmente, tendrá derecho a la devolución del monto actualizado correspondiente. En estos casos el contribuyente podrá compensar las cantidades a su favor, contra la misma o distinta contribución que se pague mediante declaración, ya sea a su cargo o que deba enterar en su carácter de retenedor.
+El contribuyente que habiendo efectuado el pago de una contribución o aprovechamiento determinados por él mismo o por la autoridad, interponga oportunamente los medios de defensa que el presente Código y demás leyes establezcan y obtenga resolución firme que le sea favorable total o parcialmente, tendrá derecho a obtener del Distrito Federal el pago de intereses conforme a una tasa que será igual a la prevista para los recargos en los términos del artículo 41 del este Código, sobre las cantidades que se hayan pagado indebidamente y a partir de que se efectúe el pago. En estos casos el contribuyente podrá compensar las cantidades a su favor, incluyendo los intereses, contra la misma o distinta contribución o aprovechamiento que se pague mediante declaración o formato para trámite de pago, ya sea a su cargo de diverso contribuyente o que deba enterar en su carácter de retenedor.
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -790,11 +794,11 @@ La declaratoria de prescripción de créditos fiscales podrá hacerse de oficio 
 
 Asimismo, se interrumpirá el plazo a que se refiere este artículo cuando el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 51.
 
-Los contribuyentes obligados a pagar mediante declaración o cualquier otro formato de trámite de pago podrán optar por compensar las cantidades que tengan a su favor contra las que estén obligados a pagar por adeudo propio o por retención a terceros, así como por cantidades a cargo de un tercero, siempre que deriven de una misma contribución o de contribuciones distintas que no tengan destino específico, incluyendo sus accesorios, y se realizará en los formatos que al efecto emita la Secretaría.
+Los contribuyentes obligados a pagar mediante declaración o cualquier otro formato de trámite de pago podrán optar por compensar las cantidades que tengan a su favor contra las que estén obligados a pagar por adeudo propio o por retención a terceros, así como cantidades a cargo de un tercero, siempre que deriven de una misma contribución, un mismo aprovechamiento o, de contribuciones y aprovechamientos distintos, cuando se concentren en la Tesorería incluyendo sus accesorios, y se realizará en los formatos que al efecto emita la Tesorería.
 
 La compensación de contribuciones de distinta naturaleza, se deberá efectuar a partir de la declaración correspondiente al mes o período inmediato siguiente a aquél al que corresponda la declaración en la que se determinó el saldo a favor.
 
@@ -808,7 +812,9 @@ No se podrán compensar las cantidades cuya devolución se haya solicitado o cua
 
 Las autoridades fiscales podrán compensar de oficio las cantidades que los contribuyentes estén obligados a pagar por adeudos propios o por retención a terceros cuando éstos sean objeto de una sentencia ejecutoriada o sean firmes por cualquier otra causa, contra las cantidades que las autoridades fiscales estén obligadas a devolver al mismo contribuyente en los términos de lo dispuesto en el artículo 49, aun cuando la devolución ya hubiera sido solicitada. En este caso se notificará personalmente al contribuyente la resolución que efectúe la compensación.
 
-Se entenderá que es una misma contribución si se trata del mismo impuesto, contribución de mejoras o derechos.
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2012)</small>
+
+Se entenderá que es una misma contribución o aprovechamiento si se trata del mismo impuesto, contribución de mejoras, derechos o aprovechamientos, con independencia de que se paguen mediante declaración o cualquier otro formato para trámite de pago.
 
 Se podrán compensar los créditos y deudas entre el Distrito Federal por una parte y la Federación, los Estados, Municipios, organismos descentralizados o empresas de participación estatal mayoritarias, por la otra. Por reciprocidad, la Secretaría en estos convenios de compensación podrá aplicar a los créditos que tengan a su favor el factor de actualización que, en su caso, aplique la otra parte.
 
@@ -5010,7 +5016,13 @@ Para los actos registrales relacionados con la adquisición o transmisión de in
 
 Cuando la adquisición o transmisión se realice sobre una porción de un inmueble o derecho, el valor que se considerará para el pago de la cuota será proporcional al porcentaje adquirido o transmitido.
 
-En los casos en que las autoridades federales, o de las entidades federativas, o del Distrito Federal, requieran las inscripciones de embargos, expedición de certificados de libertad de gravamen, o cualquier otro servicio necesario para la correcta continuación del Procedimiento Administrativo de Ejecución, los servicios se prestarán al momento de la solicitud, y los derechos correspondientes serán pagados cuando concluya dicho Procedimiento y la propia autoridad ordene al contribuyente deudor el pago de los gastos que se hayan originado, o en su caso, cuando sean sacados al remate los bienes respectivos; salvo que el Procedimiento Administrativo de Ejecución concluya por haber quedado sin efectos jurídicos cuando así lo determine una resolución administrativa o sentencia firme, caso en el cual, no habrá lugar al pago de derechos.
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2012)</small>
+
+En los casos en que las autoridades federales o de las entidades federativas, o del Distrito Federal, requieran las inscripciones de embargos, expedición de certificados de libertad de gravamen o cualquier otro servicio necesario para la correcta continuación del Procedimiento Administrativo de Ejecución o de cualquier acto de fiscalización, los servicios se prestarán al momento de la solicitud, y los derechos correspondientes serán pagados cuando concluyan los procedimientos iniciados por la autoridad fiscal y la propia autoridad ordene al contribuyente deudor el pago de los gastos que se hayan originado, o en su caso, cuando sean sacados al remate los bienes respectivos; salvo que el Procedimiento Administrativo de Ejecución o el ejercicio de las facultades de comprobación concluyan por haber quedado sin efectos jurídicos cuando así lo determina una resolución administrativa o sentencia firme, caso en el cual no habrá lugar a pago de derechos.
+
+> <small>(ADICIONADO, G.O. 23 DE JULIO DE 2012)</small>
+
+En los supuestos de que dichas autoridades requieran para los efectos antes mencionados la prestación de los servicios a que hacen referencia los artículos 198, fracciones II y V; 200, fracción V, 208, fracciones I, II y V, artículos 213 y 214, fracción I, inciso b) de este Código.
 
 Las cuotas a que se refiere este artículo comprenderán la búsqueda de antecedentes registrales.
 
@@ -5176,23 +5188,7 @@ III. De corresponsalía mercantil, por su registro o cancelación - $865.00
 
 Por los actos que a continuación se mencionan se pagarán derechos conforme a las siguientes cuotas:
 
-I. Depósito de testamentos ológrafos en el Archivo General de Notarías:
-
-> <small>(REFORMADO EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2011)</small>
-
-a). Si fueren hechos en los locales de las oficinas respectivas, en horas hábiles - $865.00
-
-> <small>(REFORMADO EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2011)</small>
-
-b). Si fueren hechos en los locales de las oficinas respectivas, en horas inhábiles - $1,266.00
-
-> <small>(REFORMADO EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2011)</small>
-
-c). Si fueren hechos fuera de los locales de las oficinas respectivas, en horas hábiles - $1,721.00
-
-> <small>(REFORMADO EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2011)</small>
-
-d). Si fueren hechos fuera de los locales de las oficinas respectivas, en horas inhábiles - $2,594.00
+I. (DEROGADA, G.O. 23 DE JULIO DE 2012)
 
 > <small>(REFORMADA EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -5322,11 +5318,9 @@ e). Certificación de instrumento que solo contenga documento de Voluntad Antici
 
 II. Cualquier anotación marginal en un protocolo, aún y cuando se realicen varias en un mismo folio, se pagará por cada una - $61.00
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2012)</small>
 
-III. Registro de avisos de testamentos públicos abiertos, cerrados o simplificados, otorgados ante notarios - $61.00
-
-Por el informe respecto al registro o depósito de testamentos o designaciones de tutor cautelar, que se rindan a solicitud de jueces, notarios o partes interesadas - $1,151.00
+III. Registro de avisos de testamentos públicos abiertos $59
 
 > <small>(REFORMADA EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -6594,17 +6588,17 @@ Los derechos a que se refiere el inciso c) de la fracción I de este artículo, 
 
 Por la expedición en copia certificada, simple o fotostática o reproducción de información pública, derivada del ejercicio del derecho de acceso a la información pública, se deberán pagar las cuotas que para cada caso se indican a continuación:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2012)</small>
 
-I. De copia certificada, por una sola cara - $5.00
+l. De copia certificada, por una sola cara $2.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2012)</small>
 
-II. De versión pública, por una sola cara - $2.00
+II. De versión pública, por una sola cara $1.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2012)</small>
 
-III. De copia simple o fotostática, por una sola cara - $2.00
+III. De copia simple o fotostática, por una sola cara $0.50
 
 > <small>(REFORMADA EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -6625,6 +6619,10 @@ VII. De audiocassettes - $17.00
 > <small>(REFORMADA EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
 VIII. De videocasetes - $44.00
+
+> <small>(ADICIONADO, G.O. 23 DE JULIO DE 2012)</small>
+
+Para efecto de lo dispuesto en la fracción III del presente artículo, no será aplicable la regla prevista en el artículo 38 del presente ordenamiento, por tanto el pago de ese derecho no sufrirá ajuste alguno.
 
 #### Sección Décima Novena. De las autorizaciones y certificaciones en relación al turismo alternativo, árboles y venta de mascotas
 
@@ -6754,27 +6752,25 @@ II. Por la supervisión de campo en los lugares donde se celebren espectáculos 
 
 B) De la Secretaría de Seguridad Pública del Distrito Federal:
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2012)</small>
 
-Por los servicios que preste la Secretaría de Seguridad Pública, con motivo de espectáculos públicos considerados como masivos por la normatividad aplicable, celebrados por particulares, que afecten las funciones de control, supervisión y regulación de tránsito de personas y de vehículos en la vía pública, se pagarán los derechos que se indican:
+Por los servicios que preste la Secretaría de Seguridad Pública, con motivo de espectáculos públicos considerados como masivos por la normatividad aplicable, celebrados por particulares, que afecten las funciones de control, supervisión y regulación de tránsito de personas y de vehículos en la vía pública, se pagarán derechos por elemento de seguridad y unidad vehicular, de acuerdo a las cuotas que a continuación se indican:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+CONCEPTO CUOTA
 
-CONCEPTO CUOTA MÍNIMA CUOTA MÁXIMA
-
-Elementos de
-
-Seguridad $809.00 $917.00
-
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 30 DE DICIEMBRE DE 2011)</small>
-
-VEHÍCULO CUOTA POR UNIDAD
+ELEMENTO DE SEGURIDAD $530.00
 
 PATRULLA $539.00
 
 GRÚAS $809.00
 
 MOTOCICLETA $269.50
+
+> <small>(ADICIONADO, G.O. 23 DE JULIO DE 2012)</small>
+
+El número de elementos de seguridad, patrullas, grúas o motocicletas que serán necesarios para la celebración de los espectáculos públicos que refiere el párrafo anterior, será de conformidad con el aforo, en los términos siguientes:
+
+> <small>N. DE E. VÉASE TABLA EN LA G.O. DE 23 DE JULIO DE 2012, PÁGINA 6.</small>
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -12341,3 +12337,185 @@ G.O. 29 DE MARZO DE 2012.
 PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 23 DE JULIO DE 2012.
+
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL DISTRITO FEDERAL.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente a su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese para su mayor difusión en el Diario Oficial de la Federación.
+
+TERCERO.- Cuando el usuario de la toma de agua cuyo cobro le sea realizado regularmente mediante el sistema de servicio medido, compruebe con fotografía del medidor o inspección directa del Sistema de Aguas de la Ciudad de México que no hay consistencia numérica entre lo expresado en su boleta de cobro y las fotografías del medidor o con las lecturas directas del medidor realizadas en la inspección del Sistema de Aguas de la Ciudad de México; el usuario podrá optar por pagar bajo el esquema de cuota fija que le corresponda de acuerdo al uso de agua y la clasificación que le corresponde a su manzana catastral. Lo mismo procederá en el caso de que en la boleta por cobro de suministro no contenga la expresión de las lecturas de consumo inicial y final del periodo, siendo necesario para ello presentar solo la boleta de cobro y una copia de la identificación oficial del usuario.
+
+CUARTO.- Para efectos de lo dispuesto por el artículo 181 del presente ordenamiento, las solicitudes de factibilidades de servicios que se realicen, tratándose de predios que únicamente requieran reconstrucción, remodelación y/o ampliación de la estructura del inmueble y cuenten con servicios que lo abastezcan, quedarán exentos de los pagos a que se refiere este código, siempre y cuando de la reconstrucción, remodelación y/o de la ampliación de la estructura, no resulte una nueva vivienda o local comercial.
+
+Para la obtención de este beneficio será indispensable presentar el aviso, manifestación de construcción o licencia de reconstrucción, ampliación y/o remodelación del inmueble, según corresponda.
+
+La autoridad fiscal cobrará los derechos siempre que compruebe que los servicios con los que en ese momento cuenta el predio no son suficientes para abastecer su totalidad y requieran modificaciones a la red hidráulica, siendo aplicables los costos y tarifas vigentes al momento de la solicitud.
+
+QUINTO.- Por única ocasión durante el ejercicio fiscal 2012, a los usuarios de uso doméstico y de uso doméstico y no doméstico simultáneamente, (uso mixto) que se encuentren en las colonias que se mencionan a continuación, podrán realizar el pago de derechos por suministro de agua mediante el sistema de cuota fija a que se refiere el artículo 172 fracción I del Código Fiscal del Distrito Federal, aún y cuando les sea emitida la facturación mediante el sistema de servicio medido; por lo que el Sistema de Aguas de la Ciudad de México, sin mas trámite que el de la solicitud del usuario o titular de la toma, procederá a realizar el cobro de la cuota fija que le corresponda de acuerdo al tipo de manzana en que se encuentra la toma.
+
+COLONIA DELEGACIÓN
+
+LA HUERTA ÁLVARO OBREGÓN
+
+SANTA ROSA XOCHIAC ÁLVARO OBREGÓN
+
+TARANGO ÁLVARO OBREGÓN
+
+LOMAS DE LA ERA ÁLVARO OBREGÓN
+
+CEDROS ÁLVARO OBREGÓN
+
+TORRES DE POTRERO ÁLVARO OBREGÓN
+
+AMPL. TORRES DE POTRERO ÁLVARO OBREGÓN
+
+RINCON DE LA BOLSA ÁLVARO OBREGÓN
+
+ARBOLEDAS GUSTAVO A. MADERO
+
+AMPLIACION MALACATES GUSTAVO A. MADERO
+
+BARRIO SAN MIGUEL GUSTAVO A. MADERO
+
+CHALMA DE GUADALUPE GUSTAVO A. MADERO
+
+CUAUTEPEC CENTRO GUSTAVO A. MADERO
+
+JUVENTINO ROSAS GUSTAVO A. MADERO
+
+MALACATES GUSTAVO A. MADERO
+
+PARQUE METROPOLITANO GUSTAVO A. MADERO
+
+TLALPEXCO GUSTAVO A. MADERO
+
+VISTA HERMOSA GUSTAVO A. MADERO
+
+BARRIO DE SAN MIGUEL DEL
+
+PUEBLO SAN JUAN DE ARAGÓN GUSTAVO A. MADERO
+
+SAN PABLO I IZTAPALAPA
+
+SAN PABLO II IZTAPALAPA
+
+SAN PABLO V IZTAPALAPA
+
+SANTA MARTHA ACATITLA SUR IZTAPALAPA
+
+ISIDRO FABELA IZTAPALAPA
+
+XALPA IZTAPALAPA
+
+U. H. LA COLMENA IZTAPALAPA
+
+EL OCOTAL MAGDALENA CONTRERAS
+
+LA GAVILLERO MAGDALENA CONTRERAS
+
+LA MESITA MAGDALENA CONTRERAS
+
+SAN NICOLAS CAZULCO MAGDALENA CONTRERAS
+
+LOPEZ PORTILLO TLAHUAC
+
+AMPLIACION TEPEXIMILPA TLAHUAC
+
+EJIDOS DE PADIERNA TLALPAN
+
+HEROES DE 1910 TLALPAN
+
+LOMAS DE TEMEMECA TLALPAN
+
+MAGDALENA PETLACALCO TLALPAN
+
+OCOTLAN TLALPAN
+
+SAN ANDRES TOTOLTEPEC
+
+(CENTRO) TLALPAN
+
+SAN PEDRO MARTIR
+
+(CENTRO) TLALPAN
+
+SOLIDARIDAD TLALPAN
+
+TIERRA COLORADA TLALPAN
+
+MIGUEL HIDALGO PRIMERA
+
+SECCION TLALPAN
+
+BARRIO LA LONJA TLALPAN
+
+BARRIO LA FAMA TLALPAN
+
+SANTA URSULA XITLA TLALPAN
+
+PEDREGAL DE LAS AGUILAS TLALPAN
+
+TLALCOLIGIA TLALPAN
+
+AMALACACHICO XOCHIMILCO
+
+BARRIO LA CANDELARIA XOCHIMILCO
+
+BOSQUES DE LA PAZ XOCHIMILCO
+
+JACARANDAS XOCHIMILCO
+
+LA RINCONADA SANTA CRUZ XOCHIMILCO
+
+PEDREGAL DE TOPILEJO XOCHIMILCO
+
+SAN JUAN MOYOTEOPEC XOCHIMILCO
+
+TAXIAL TEMALCO XOCHIMILCO
+
+TLAXOPA XOCHIMILCO
+
+Asimismo, por única ocasión durante el ejercicio fiscal 2012, a los usuarios de uso doméstico y de uso doméstico y no doméstico simultáneamente, (uso mixto) que se encuentren en las colonias que se mencionan a continuación, se les realizará una disminución del 100% en el pago de derechos por suministro de agua; por lo que el Sistema de Aguas de la Ciudad de México, de manera automática procederá a realizar la disminución respectiva.
+
+COLONIA DELEGACIÓN
+
+DEGOLLADO IZTAPALAPA
+
+EL MOLINO IZTAPALAPA
+
+EL ROSARIO IZTAPALAPA
+
+LA NORIA IZTAPALAPA
+
+LOMAS DE SAN LORENZO IZTAPALAPA
+
+PARAJE DE SAN JUAN IZTAPALAPA
+
+PUEBLO DE SAN LORENZO IZTAPALAPA
+
+PUEBLO DE SANTA MARIA
+
+AZTAHUACAN IZTAPALAPA
+
+PUEBLO DE SANTA MARTHA
+
+ACATITLA IZTAPALAPA
+
+REFORMA POLITICA IZTAPALAPA
+
+SANTA MARIA AZTAHUACAN ZONA
+
+URBANA IZTAPALAPA
+
+G.O. 23 DE JULIO DE 2012.
+
+DECRETO POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 214 Y SE DEROGA LA FRACCIÓN I DEL ARTÍCULO 207 DEL CÓDIGO FISCAL DEL DISTRITO FEDERAL.
+
+Primero.- Aquellos testamentos públicos cerrados, públicos simplificados, ológrafos, privados, militares o marítimos que hayan sido otorgados con anterioridad al presente decreto, subsistirán en sus términos y para su apertura y declaración de ser formal testamento se substanciarán de conformidad con las disposiciones vigentes al momento de su otorgamiento.
+
+Segundo.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Tercero.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
