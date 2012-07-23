@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-comision-de-agua-potable-19753"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-06"
-last_updated: "2000-11-06"
+last_updated: "2012-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,11 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE JESUS MARIA, AGUASCALIENTES, COMO ORGANISMO DESCENTRALIZADO DE LA ADMINISTRACION MUNICIPAL
 
-REGLAMENTO INTERIOR DE LA COMISION DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE JESUS MARIA, AGS., COMO ORGANISMO DESCENTRALIZADO DE LA ADMINISTRACION MUNICIPAL
+REGLAMENTO INTERIOR DE LA COMISIÓN DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE JESÚS MARÍA, AGS., COMO ORGANISMO DESCENTRALIZADO DE LA ADMINISTRACIÓN MUNICIPAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISIÓN DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE JESÚS MARÍA, AGS., COMO ORGANISMO DESCENTRALIZADO DE LA ADMINISTRACIÓN MUNICIPAL, PUBLICADO EN EL P.O. DE 23 DE JULIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de noviembre de 2000.
 
@@ -509,3 +511,19 @@ L.A.E. Rodolfo Esquivel Cañedo.
 EL DIRECTOR GENERAL DEL ORGANISMO OPERADOR,
 
 L.A.E. Gilberto Mendoza Sotelo.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE JULIO DE 2012.
+
+###### ARTICULO PRIMERO.
+
+El presente Reglamento entrará en vigor una vez aprobado por el Consejo Directivo de la Comisión de Agua Potable, Alcantarillado y Saneamiento del Municipio de Jesús María (CAPASMJM), y publicado en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Comisión de Agua Potable, Alcantarillado y Saneamiento del Municipio de Jesús María, Ags., publicado en el Periódico Oficial No. 45 del 6 de noviembre de 2000.
+
+###### ARTICULO TERCERO.
+
+El Director General a través de la Dirección Administrativa, designará el personal y los bienes de acuerdo a las funciones citadas en este reglamento, para el debido desempeño en las diferentes áreas.
