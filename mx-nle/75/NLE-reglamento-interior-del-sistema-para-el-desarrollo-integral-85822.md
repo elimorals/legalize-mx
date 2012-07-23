@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-sistema-para-el-desarrollo-integral-858
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-02-10"
-last_updated: "2012-02-10"
+last_updated: "2012-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85822&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS AL PRESENTE ORDENAMIENTO, PUBLICADO EN EL P.O. DE 23 DE JULIO DE 2012, LAS REFERENCIAS A CUALQUIER UNIDAD ADMINISTRATIVA QUE EN VIRTUD DE LAS PRESENTES MODIFICACIONES HAYA DESAPARECIDO O CAMBIADO DE DENOMINACIÓN, CONTENIDAS EN CUALQUIER OTRO INSTRUMENTO JURÍDICO, DEBERÁN ENTENDERSE HECHAS A LA UNIDAD ADMINISTRATIVA QUE LAS SUSTITUYA O CUENTE CON LAS ATRIBUCIONES RESPECTIVAS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 10 de febrero de 2012.
 
@@ -91,25 +93,45 @@ a. Coordinación Técnica;
 
 b. Coordinación de Planeación, Evaluación e Innovación;
 
-c. Subdirección General de Concertación Institucional;
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2012)</small>
 
-d. Dirección de Administración y Finanzas;
+c. Dirección de Administración y Finanzas;
 
-e. Dirección de Bienestar Social;
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2012)</small>
 
-f. Dirección de Protección al Menor y la Familia;
+d. Dirección de Atención Integral al Menor y la Familia;
 
-g. Dirección de Asistencia Alimentaria;
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2012)</small>
 
-h. Dirección de Integración Social;
+e. Dirección de Asistencia Social;
 
-i. Dirección de Comunicación;
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2012)</small>
 
-j. Dirección del Voluntariado;
+f. Dirección de Comunicación;
 
-k. Centro Estatal de Rehabilitación y Educación Especial,
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2012)</small>
 
-III. Los (sic) demás que establezcan las leyes y disposiciones aplicables.
+g. Dirección del Voluntariado;
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2012)</small>
+
+h. Centro Estatal de Rehabilitación y Educación Especial;
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2012)</small>
+
+i. Organismos Administrativos Desconcentrados:
+
+1. Procuraduría de la Defensa del Adulto Mayor, y
+
+2. Procuraduría de la Defensa de las Personas con Discapacidad.
+
+j. (DEROGADO, P.O. 23 DE JULIO DE 2012)
+
+k. (DEROGADO, P.O. 23 DE JULIO DE 2012)
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE JULIO DE 2012)</small>
+
+III. Los demás que establezcan las leyes y disposiciones aplicables.
 
 ###### Artículo 6°.
 
@@ -245,6 +267,14 @@ VI. Las demás que sean conferidas por la Junta de Gobierno y por las disposicio
 
 Sin perjuicio de lo dispuesto en el artículo anterior, el Director General, para el despacho de los asuntos de su competencia podrá delegar facultades a los servidores públicos del Organismo mediante el acuerdo delegatorio correspondiente, sin que tal circunstancia lo excluya de intervenir en el ejercicio directo de ellas.
 
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2012)</small>
+
+###### Artículo 26° Bis.
+
+El Director General podrá autorizar la constitución de los comités internos que estime convenientes para la adecuada coordinación y atención de las actividades en materia de administración, manejo de recursos económicos y financieros.
+
+Sin perjuicio alguno de los actos jurídicos celebrados por los Comités ya constituidos podrán crearse otros que se estimen necesarios para el buen funcionamiento y organización del Organismo.
+
 ### CAPÍTULO SEXTO. DE LAS UNIDADES ADMINISTRATIVAS
 
 ###### Artículo 27.
@@ -263,9 +293,17 @@ V. En el ámbito de su competencia, dar el debido seguimiento a programas federa
 
 VI. Coordinarse con las diversas áreas que integran la estructura administrativa del Organismo para el mejor desempeño de los asuntos de su competencia;
 
-VII. Asignar funciones y responsabilidades al personal a su cargo, conforme a las disposiciones legales aplicables y a las políticas y lineamientos señalados en los manuales de organización y de servicios, así como de procedimientos del Organismo, y
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2012)</small>
 
-VIII. Las demás que les confieran las disposiciones legales aplicables y el Director General o la Junta de Gobierno, en la esfera de sus atribuciones.
+VII. Asignar funciones y responsabilidades al personal a su cargo, conforme a las disposiciones legales aplicables y a las políticas y lineamientos señalados en los manuales de organización y de servicios, así como de procedimientos del Organismo;
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2012)</small>
+
+VIII. Remitir a la Dirección General la documentación, proyectos y anexos que sean necesarios para celebrar todos aquellos documentos jurídicos que crean, transmitan, extingan o modifiquen derechos y obligaciones a cargo del Organismo, y
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2012)</small>
+
+IX. Las demás que les confieran las disposiciones legales aplicables y el Director General o la Junta de Gobierno en la esfera de sus atribuciones.
 
 ###### Artículo 28.
 
@@ -287,9 +325,29 @@ VII. Proporcionar apoyo y asesoría al Director General y a las Unidades Adminis
 
 VIII. Expedir las copias certificadas que la normatividad pertinente así lo determine o deban darse a las partes en virtud de acuerdo que se dicte al efecto;
 
-IX. Expedir constancia de acreditación de actividades de asistencia social dirigida a los beneficiarios a que se refiere la Ley, en coordinación con las instancias competentes, pudiendo realizar las visitas que sean necesarias para acreditar las actividades asistenciales, y
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2012)</small>
 
-X. Las demás que les confieran las disposiciones legales aplicables y la Dirección General o la Junta de Gobierno, en la esfera de sus atribuciones.
+IX. Expedir constancia de acreditación de actividades de asistencia social dirigida a los beneficiarios a los que se les refiere la Ley, en coordinación con las instancias competentes, pudiendo realizar las visitas que sean necesarias para acreditar las actividades asistenciales;
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2012)</small>
+
+X. Diseñar y ejecutar proyectos, programas y acciones para el fortalecimiento de los Sistemas Municipales para el Desarrollo Integral de la Familia;
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2012)</small>
+
+XI. Establecer los vínculos con las Organizaciones de la Sociedad Civil para lograr sinergias en beneficio de la población sujeta de asistencia social;
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2012)</small>
+
+XII. Conceder audiencia o en su caso coordinar y gestionar para su atención las diversas peticiones que requieran de una atención ciudadana y que sean encomendadas por la Dirección General;
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2012)</small>
+
+XIII. Vigilar que la Subdirección Jurídica lleve una adecuada representación legal de la Dirección General y Unidades Administrativas del Organismo que así lo requieran en los Juicios de Amparo en que estas sean parte, conforme a lo dispuesto en el artículo 19 último párrafo de la Ley de Amparo, y
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2012)</small>
+
+XIV. Las demás que les confieran las disposiciones legales aplicables y la Dirección General o la Junta de Gobierno, en la esfera de sus atribuciones.
 
 ###### Artículo 29.
 
@@ -313,21 +371,7 @@ VIII. Las demás que les confieran las disposiciones legales aplicables y el Dir
 
 ###### Artículo 30.
 
-A la Subdirección General de Concertación Institucional le compete, además de lo establecido en el artículo 27, lo siguiente:
-
-I. Diseñar y ejecutar proyectos, programas y acciones para el fortalecimiento de los Sistemas Municipales para el Desarrollo Integral de la Familia;
-
-II. Mantener un sistema de comunicación permanente con los Sistema (sic) Municipales para el Desarrollo Integral de la Familia, con la finalidad de orientarlos en su operación y canalizar sus necesidades a las instancias correspondientes;
-
-III. Realizar diagnósticos para la detección de las necesidades de los Sistemas Municipales para el Desarrollo Integral de la Familia en las áreas de infraestructura, operación y profesionalización;
-
-IV. Implementar un sistema de capacitación anual en coordinación con diversas instancias públicas y privadas, para la formación del personal adscrito a los Sistemas Municipales para el Desarrollo Integral de la Familia, tanto para el nivel directivo como el operativo;
-
-V. Coordinar las giras de trabajo que realizan la (sic) Presidente y el Director General del Organismo;
-
-VI. Establecer los vínculos con las Organizaciones de la Sociedad Civil para lograr sinergias en beneficio de la población sujeta de asistencia social, y
-
-VII. Las demás que les confieran las disposiciones legales aplicables y el Director General o la Junta de Gobierno, en la esfera de sus atribuciones.
+(DEROGADO, P.O. 23 DE JULIO DE 2012)
 
 ###### Artículo 31.
 
@@ -345,65 +389,43 @@ V. Proponer y ejecutar programas y acciones de mantenimiento al equipo de transp
 
 VI. Cuidar y atender el apego de las normas legales aplicables de todos los procesos administrativos y operativos ejecutados por el Organismo;
 
-VII. Gestionar a través de la Subdirección de Recaudación de Fondos las aportaciones en especie o efectivo, así como las donaciones y legados otorgados por instituciones públicas y privadas y personas físicas o morales;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2012)</small>
+
+VII. Gestionar a través de la Subdirección de Recaudación de Fondos las aportaciones en especie o efectivo, así como las donaciones nacionales o del extranjero y legados otorgados por instituciones públicas y privadas y personas físicas o morales;
 
 VIII. Llevar el control de los donativos en especie o en efectivo que el organismo reciba, vigilando que sea administrado correctamente;
 
 IX. Coordinar la entrega de donativos a dependencias o personas físicas y morales y mantener informados a los donantes respecto a los beneficios producidos;
 
-X. Organizar eventos con el objeto de recibir aportaciones y donativos para el Organismo, y
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2012)</small>
 
-XI. Las demás que les confieran las disposiciones legales aplicables y el Director General o la Junta de Gobierno, en la esfera de sus atribuciones.
+X. Organizar eventos con el objeto de recibir aportaciones y donativos para el Organismo;
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2012)</small>
+
+XI. Llevar a cabo todas las acciones necesarias para la administración y cuidado los bienes inmuebles que formen parte del Patrimonio del Organismo y formar un registro el cual deberá mantener actualizado en relación con la regularización de los mismos, y
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2012)</small>
+
+XII. Las demás que les confieran las disposiciones legales aplicables y el Director General o la Junta de Gobierno, en la esfera de sus atribuciones.
 
 ###### Artículo 32.
 
-A la Dirección de Bienestar Social le compete, además de lo establecido en el artículo 27, lo siguiente:
-
-I. Coordinar y ejecutar la asignación de apoyos a personas sujetas a las (sic) asistencia social de conformidad a la disponibilidad de recursos y a los criterios pertinentes;
-
-II. Promover, proponer y en su caso implementar mecanismos para la obtención de apoyos, provenientes de instituciones públicas y privadas de asistencia social, y de organizaciones no gubernamentales;
-
-III. Fungir como enlace entre el Organismo y los Sistemas Municipales para el Desarrollo Integral de la Familia, para la atención de necesidades y demandas de la población, de conformidad a las normas relativas;
-
-IV. Implementar y operar programas especiales en materia de bienestar social, para la atención y apoyo a la población en situaciones de emergencia y/o afectada por contingencias;
-
-V. Promover, proponer y realizar campañas para la difusión de programas y proyectos orientados a la asistencia y bienestar social;
-
-VI. Proponer, operar e impulsar programas asistenciales tendientes a mejorar las condiciones de vida de la población;
-
-VII. Atender y realizar la valoración de casos especiales, para la prestación de servicios de asistencia social, y
-
-VIII. Las demás que les confieran las disposiciones legales aplicables y el Director General o la Junta de Gobierno, en la esfera de sus atribuciones.
+(DEROGADO, P.O. 23 DE JULIO DE 2012)
 
 ###### Artículo 33.
 
-La Dirección de Protección al Menor y la Familia es competente, además de lo establecido en el artículo 27, para lo siguiente:
+(DEROGADO, P.O. 23 DE JULIO DE 2012)
 
-I. Diseñar, ejecutar y coordinar programas para la protección del menor y la familia, enfatizando en la detección y atención del maltrato infantil;
-
-II. Ejecutar, coordinar y llevar el seguimiento de programas para la protección a los niños, niñas y adolescentes privados del cuidado parental, orientados a la reintegración al entorno familiar de origen, o en su caso, a la familia extensa, solidaria o adoptiva;
-
-III. Administrar y operar el Centro de Atención Familiar (CAFAM);
-
-IV. Vigilar la representación, operación y administración de los servicios que brinda el Centro de Atención Integral a Niñas, Niños y Adolescentes del Estado de Nuevo León (CAPULLOS), con un enfoque interdisciplinario e interinstitucional para su protección integral;
-
-V. Proponer e implementar programas conjuntos con los sistemas municipales para la protección social de la familia, que permitan su atención y desarrollo integral, así como el seguimiento de casos de menores egresados del Centro de Atención Integral a Niñas, Niños y Adolescentes del Estado de Nuevo León (CAPULLOS), y el fortalecimiento familiar conducentes a evitar la separación de la niña o niño de su familia;
-
-VI. Fungir como integrante del Consejo Estatal de Adopciones, de conformidad con la normatividad aplicable;
-
-VII. Dirigir los trabajos del Organismo relativos a las niñas, niños y adolescentes en conflicto con la Ley, brindando la intervención oportuna en los términos de las diversas disposiciones legales aplicables;
-
-VIII. Participar en la elaboración de propuestas legales y reglamentarias en materia de protección al menor y la familia;
-
-IX. Dirigir, coordinar y supervisar el funcionamiento, operación de programas y proyectos de la Procuraduría de la Defensa del Menor y la Familia creada como dependencia del Organismo en la Ley de la Procuraduría de la Defensa del Menor y la Familia, que regula sus acciones y establece su organización y funcionamiento, con el objeto de brindar protección y asistencia en cualquier orden, en cuestiones y asuntos relacionados con los menores y la familia, y
-
-X. Las demás que les confieran las disposiciones legales aplicables y el Director General o la Junta de Gobierno, en la esfera de sus atribuciones.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2012)</small>
 
 ###### Artículo 34.
 
-A la Dirección de Asistencia Alimentaria le compete, además de lo establecido en el artículo 27, lo siguiente:
+A la Dirección de Asistencia Social le compete, además de lo establecido en el artículo 27, lo siguiente:
 
-I. Ejecutar y coordinar programas y acciones de orientación y de asistencia alimentaria, en beneficio de los sujetos a que se refiere el artículo 4 de la Ley;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2012)</small>
+
+I. Ejecutar, coordinar y orientar programas y acciones de asistencia alimentaria y bienestar social, en beneficio de los sujetos a que se refiere el artículo 4 de la Ley;
 
 II. Proponer e implementar mecanismos de coordinación, con los Sistemas Municipales del Desarrollo Integral de la Familia y con planteles educativos para la ejecución de los programas alimentarios;
 
@@ -415,13 +437,31 @@ V. Diseñar y administrar programas de asistencia social, que otorguen apoyos al
 
 VI. Realizar estudios e investigación ya sea a través del Sistema DIF Nuevo León y/o en coordinación con otras instituciones educativas, dependencias gubernamentales, empresas, para el mejoramiento de los programas alimentarios y las acciones de orientación alimentaria;
 
-VII. Coordinar la entrega de apoyos alimentarios a la población beneficiaria con los Sistemas Municipales del Desarrollo Integral de la Familia a través de convenios de colaboración y conforme a lo establecido en las reglas de operación, y
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2012)</small>
 
-VIII. Las demás que les confieran las disposiciones legales aplicables y el Director General o la Junta de Gobierno, en la esfera de sus atribuciones.
+VII. Coordinar la entrega de apoyos alimentarios a la población beneficiaria con los Sistemas Municipales del Desarrollo Integral de la Familia a través de convenios de colaboración y conforme a lo establecido en las reglas de la operación;
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2012)</small>
+
+VIII. Fungir como enlace entre el Organismo y los Sistemas Municipales para el Desarrollo Integral de la Familia, para la atención de necesidades y demandas de la población, de conformidad a las normas relativas;
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2012)</small>
+
+IX. Implementar y operar programas especiales en materia de bienestar social, para la atención y apoyo a la población en situaciones de emergencia o afectada por contingencias;
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2012)</small>
+
+X. Promover, proponer y realizar campañas para la difusión de programas y proyectos orientados a la asistencia y bienestar social;
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2012)</small>
+
+XI. Las demás que les confieran las disposiciones legales aplicables y el Director General o la Junta de Gobierno, en la esfera de sus atribuciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2012)</small>
 
 ###### Artículo 35.
 
-A la Dirección de Integración Social le compete, además de lo establecido en el artículo 27, lo siguiente:
+A la Dirección de Atención Integral al Menor y la Familia le compete, además de lo establecido en el artículo 27, lo siguiente:
 
 I. Ejecutar programas, acciones y proyectos para la integración social de la familia y la comunidad en condiciones de riesgo, que les permita afrontar su problemática, con énfasis en la participación y organización comunitaria;
 
@@ -429,13 +469,29 @@ II. Proponer y ejecutar acciones y programas de prevención de problemáticas y 
 
 III. Diseñar e implementar programas preventivos, orientados a la superación personal de niñas, niños, adolescentes y jóvenes en situaciones de riesgo;
 
-IV. Brindar atención al adulto mayor mediante el diseño, ejecución, desarrollo y seguimiento de programas y acciones orientadas a su actividad física, social y mental, organizando talleres, actividades recreativas, culturales, educativas y la promoción de una cultura gerontológica;
+IV. (DEROGADA, P.O. 23 DE JULIO DE 2012)
 
 V. Formular diagnósticos, estudios e investigaciones en materia de integración social, para la detección de necesidades de los sectores marginados y de escasos recursos de la comunidad;
 
-VI. Vigilar la representación, administración y operación de los albergues juveniles, guarderías, para la atención y apoyo a niños, niñas, adolescentes y adultos mayores, de conformidad con la normatividad aplicable, y
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2012)</small>
 
-VII. Las demás que les confieran las disposiciones legales aplicables y el Director General o la Junta de Gobierno, en la esfera de sus atribuciones.
+VI. Vigilar la representación, administración y operación de los albergues juveniles, guarderías infantiles, y Centro de Atención Integral a Niñas, Niños y Adolescentes del Estado de Nuevo León, de conformidad con la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2012)</small>
+
+VII. Ejecutar, coordinar y llevar el seguimiento de programas para la protección a los niños, niñas y adolescentes privados del cuidado parental, orientados a la reintegración al entorno familiar de origen, o en su caso, a la familia extensa, solidaria o adoptiva;
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2012)</small>
+
+VIII. Administrar y operar el Centro de Atención Familiar (CAFAM);
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2012)</small>
+
+IX. Dirigir, coordinar y supervisar el funcionamiento y operación de programas y proyectos de la Procuraduría de la Defensa del Menor y la Familia, y
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2012)</small>
+
+X. Las demás que les confieran las disposiciones legales aplicables y el Director General o la Junta de Gobierno, en la esfera de sus atribuciones.
 
 ###### Artículo 36.
 
@@ -554,3 +610,13 @@ INTEGRAL DE LA FAMILIA DEL
 ESTADO DE NUEVO LEÓN
 
 JOSÉ RAMÓN CARRALES BATRES
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE JULIO DE 2012.
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán su valor y fuerza legales.
+
+TERCERO. Las referencias a cualquier Unidad Administrativa que en virtud de las presentes modificaciones haya desaparecido o cambiado de denominación, contenidas en cualquier otro instrumento jurídico, deberán entenderse hechas a la Unidad Administrativa que las sustituya o cuente con las atribuciones respectivas.
