@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-para-el-otorgamiento-de-la-medalla-alejandro-de-6218
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-21"
-last_updated: "2011-06-27"
+last_updated: "2012-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "AGU"
 
 REGLAMENTO PARA EL OTORGAMIENTO DE LA MEDALLA "ALEJANDRO DE LA CRUZ SAUCEDO" DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL OTORGAMIENTO DEL RECONOCIMIENTO AL MERITO EMPRESARIAL "JESÚS MARÍA", PUBLICADO EN EL P.O. 23 DE JULIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2008.
 
@@ -122,3 +124,9 @@ Jesús María, Aguascalientes.
 P.O. 27 DE JUNIO DE 2011.
 
 ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Estado de Aguascalientes."
+
+P.O. 23 DE JULIO DE 2012.
+
+PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se abroga el Reglamento para el otorgamiento de la Medalla "Alejandro de la Cruz Saucedo" publicado en el Periódico oficial del Estado de Aguascalientes, de fecha 21 de julio de 2008, segunda sección.
