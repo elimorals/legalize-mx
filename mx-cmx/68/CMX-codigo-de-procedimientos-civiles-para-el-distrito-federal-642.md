@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2012-06-18"
+last_updated: "2012-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "1932-08-29"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE JULIO DE 2012.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -7972,107 +7972,53 @@ IV.- De ser procedente, el notario redactará el instrumento en el que se relaci
 
 V.- En el instrumento a que se refiere la fracción anterior, los legatarios podrán otorgar, a su vez, un testamento público simplificado en los términos del artículo 1549-Bis del Código Civil.
 
-### CAPITULO IX. Del testamento público cerrado
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE JULIO DE 2012)</small>
 
-ARTICULO 877
+### CAPITULO IX. ARTICULO 877 (DEROGADO, G.O. 23 DE JULIO DE 2012)
 
-Para la apertura del testamento cerrado, los testigos reconocerán separadamente sus firmas y el pliego que lo contenga. El representante del Ministerio Público asistirá a la diligencia.
+ARTICULO 878 (DEROGADO, G.O. 23 DE JULIO DE 2012)
 
-ARTICULO 878
+ARTICULO 879 (DEROGADO, G.O. 23 DE JULIO DE 2012)
 
-Cumplido lo prescrito en sus respectivos casos en los artículos del Código Civil números 1,542 a 1,547, el juez, en presencia del notario, testigos, representante del Ministerio Público y secretario, abrirá el testamento, lo leerá para sí y después le dará lectura en voz alta, omitiendo lo que deba permanecer en secreto.
+ARTICULO 880 (DEROGADO, G.O. 23 DE JULIO DE 2012)
 
-En seguida firmarán al margen del testamento las personas que hayan intervenido en la diligencia, con el juez y el secretario, y se le pondrá el sello del juzgado asentándose acta de todo ello.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE JULIO DE 2012)</small>
 
-ARTICULO 879
+### CAPITULO X. ARTICULO 881 (DEROGADO, G.O. 23 DE JULIO DE 2012)
 
-Será preferida para la protocolización de todo testamento cerrado, la notaría del lugar en que haya sido abierto, y si hubiere varias, se preferirá la que designe el promovente.
+ARTICULO 882 (DEROGADO, G.O. 23 DE JULIO DE 2012)
 
-ARTICULO 880
+ARTICULO 883 (DEROGADO, G.O. 23 DE JULIO DE 2012)
 
-Si se presentaren dos o más testamentos cerrados de una misma persona, sean de la misma fecha o de diversa, el juez procederá respecto a cada uno de ellos como se previene en este capítulo y los hará protocolizar en un mismo oficio para los efectos a que haya lugar en los casos previstos por los artículo (sic) 1,494 y 1,496 del Código Civil.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE JULIO DE 2012)</small>
 
-### CAPITULO X. Declaración de ser formal el testamento ológrafo
+### CAPITULO XI. ARTICULO 884 (DEROGADO, G.O. 23 DE JULIO DE 2012)
 
-ARTICULO 881
+ARTICULO 885 (DEROGADO, G.O. 23 DE JULIO DE 2012)
 
-El Tribunal competente para conocer de una sucesión, que tenga noticia de que el autor de la herencia, depositó su testamento ológrafo, como se dispone en el artículo 1,553 del Código Civil dirigirá oficio al encargado del Registro Público en que se hubiere hecho el depósito, a fin de que le remita el pliego cerrado en que el testador declaró que se contiene su última voluntad.
+ARTICULO 886 (DEROGADO, G.O. 23 DE JULIO DE 2012)
 
-ARTICULO 882
+ARTICULO 887 (DEROGADO, G.O. 23 DE JULIO DE 2012)
 
-Recibido el pliego, procederá el tribunal como se dispone en el artículo 1,561 del Código Civil.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE JULIO DE 2012)</small>
 
-ARTICULO 883
+### CAPITULO XII. ARTICULO 888 (DEROGADO, G.O. 23 DE JULIO DE 2012)
 
-Si para la debida identificación fuere necesario reconocer la firma por no existir los testigos de identificación que hubieren intervenido, o por no estimarse bastante sus declaraciones, el tribunal nombrará un perito para que confronte la firma con las indubitadas que existan del testador, y teniendo en cuenta su dictamen hará la declaración que corresponda.
+ARTICULO 889 (DEROGADO, G.O. 23 DE JULIO DE 2012)
 
-### CAPITULO XI. Declaración de ser formal el testamento privado
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 23 DE JULIO DE 2012)</small>
 
-ARTICULO 884
-
-A instancia de parte legítima formulada ante el tribunal del lugar en que se haya otorgado, puede declararse formal el testamento privado de una persona, sea que conste por escrito o sólo de palabra en el caso del artículo 1,568 del Código Civil.
-
-ARTICULO 885
-
-Es parte legítima para los efectos del artículo anterior:
-
-I.- El que tuviere interés en el testamento;
-
-II.- El que hubiere recibido en él algún encargo del testador.
-
-ARTICULO 886
-
-Hecha la solicitud, se señalarán día y hora para el examen de los testigos que hayan concurrido al otorgamiento.
-
-Para la información se citará al representante del Ministerio Público, quien tendrá obligación de asistir a las declaraciones de los testigos y repreguntarlos para asegurarse de su veracidad.
-
-Los testigos declararán al tenor del interrogatorio respectivo que se sujetará estrictamente a lo dispuesto en el artículo 1,564 del Código Civil.
-
-Recibidas las declaraciones, el tribunal procederá conforme al artículo 1,575 del Código Civil.
-
-ARTICULO 887
-
-De la resolución que niegue la declaración solicitada pueden apelar el promovente y cualquiera de las personas interesadas en la disposición testamentaria, de la que acuerde la declaración puede apelar el representante del Ministerio Público.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
-
-El efecto en ambas apelaciones será devolutivo de tramitación inmediata.
-
-### CAPITULO XII. Del Testamento Militar
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
-
-ARTICULO 888
-
-Luego que el tribunal reciba, por conducto del Secretario de la Defensa Nacional, el parte a que se refiere el artículo 1581 del Código Civil, citará a los testigos que estuvieren en el lugar y respecto a los ausentes mandará exhorto al tribunal del lugar donde se hallen.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
-
-ARTICULO 889
-
-De la declaración judicial se remitirá copia autorizada al Secretario de la Defensa Nacional. En lo demás, se observará lo dispuesto en el capítulo que antecede.
-
-### CAPITULO XIII. Del Testamento Marítimo
-
-ARTICULO 890
-
-Hechas las publicaciones que ordena el artículo 1,590 del Código Civil, podrán los interesados ocurrir al Tribunal competente para que pida de la Secretaría de Relaciones Exteriores la remisión del testamento o directamente a ésta para que lo envíe.
+### CAPITULO XIII. ARTICULO 890 (DEROGADO, G.O. 23 DE JULIO DE 2012)
 
 ### CAPITULO XIV. Del Testamento hecho en el país extranjero
 
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2012)</small>
+
 ARTICULO 891
 
-Si el testamento fuere ológrafo, luego que lo reciba el encargado del registro público, tomará razón en el libro a que se refiere el artículo 1,557 del Código Civil, asentando acta en que se hará constar haber recibido el pliego del Secretario de Legación, Cónsul o Vicecónsul por conducto de la Secretaría de Relaciones Exteriores, así como las circunstancias en que se halle la cubierta. En todo lo demás obrará como se dispone en el capítulo IV, título III, libro tercero del Código Civil.
+El testamento hecho en país extranjero será declarado válido por el juez competente, cuando haya sido formulado por las leyes del país en que se otorgue y no contravengan disposiciones contrarias al orden público mexicano.
 
-ARTICULO 892
-
-Ante el Tribunal competente se procederá, con respecto al testamento público cerrado, al privado o al ológrafo, como está dispuesto para esas clases de testamento otorgados en el país.
+ARTICULO 892 (DEROGADO, G.O. 23 DE JULIO DE 2012)
 
 TITULO DECIMOQUINTO
 
@@ -10495,3 +10441,11 @@ G.O. 18 DE JUNIO DE 2012.
 Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 Segundo.- La presente reforma entrará en vigor una vez que se apruebe el presupuesto para la compra e instalación del equipo necesario para la estenografía proyectada.
+
+G.O. 23 DE JULIO DE 2012.
+
+Primero.- Aquellos testamentos públicos cerrados, públicos simplificados, ológrafos, privados, militares o marítimos que hayan sido otorgados con anterioridad al presente decreto, subsistirán en sus términos y para su apertura y declaración de ser formal testamento se substanciarán de conformidad con las disposiciones vigentes al momento de su otorgamiento.
+
+Segundo.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Tercero.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
