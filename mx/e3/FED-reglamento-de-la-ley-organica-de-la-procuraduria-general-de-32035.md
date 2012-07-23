@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-320
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-25"
-last_updated: "2008-08-20"
+last_updated: "2012-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32035&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2003-06-24"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE LA REPUBLICA
 
-REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE LA REPUBLICA.
+REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA.
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE AGOSTO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA, PUBLICADO EN EL D.O.F. DE 23 DE JULIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de junio de 2003.
 
@@ -299,7 +301,7 @@ IV. Gozar de buena reputación, y
 
 V. No haber sido condenado por delito doloso.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 9.
 
@@ -1189,7 +1191,7 @@ X. Intervenir en coordinación con las unidades administrativas competentes, en 
 
 XI. Las demás que le confieran otras disposiciones o el Fiscal Especializado para la Atención de Delitos Electorales.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 45.
 
@@ -1223,7 +1225,7 @@ VII. Las demás que le confieran otras disposiciones o el Fiscal Especializado p
 
 (DEROGADO, D.O.F. 20 DE AGOSTO DE 2008)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 47.
 
@@ -1363,7 +1365,7 @@ VIII. (DEROGADA, D.O.F. 20 DE AGOSTO DE 2008)
 
 IX. Las demás que le confieran otras disposiciones o el Procurador.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 52.
 
@@ -2165,7 +2167,7 @@ En tanto entren en vigor las normas reglamentarias de la Secretaría de la Funci
 
 Dado en la residencia oficial del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinticuatro días del mes de junio del año dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 20 DE AGOSTO DE 2008.
 
@@ -2174,3 +2176,55 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
 
 TERCERO.- Las modificaciones a la estructura orgánica que deriven de la entrada en vigor del presente decreto serán realizadas mediante movimientos compensados, por lo que no aumentarán el presupuesto regularizable de la Procuraduría General de la República.
+
+D.O.F. 23 DE JULIO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor a los sesenta días de su publicación en el Diario Oficial de la Federación, salvo lo previsto en los siguientes párrafos.
+
+Entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación las disposiciones del Reglamento relativas a las atribuciones del Visitador General y de los Directores Generales de Evaluación Técnico Jurídica, de Asuntos Internos, de Delitos Cometidos por Servidores Públicos de la Institución, y de Procedimientos de Remoción.
+
+Las disposiciones del Reglamento relativas a las atribuciones del Centro Federal de Protección a Personas, entrarán en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+A la entrada en vigor del presente ordenamiento quedará abrogado el Reglamento de la Ley Orgánica de la Procuraduría General de la República, publicado en el Diario Oficial de la Federación el veinticinco de junio de dos mil tres. Los acuerdos, circulares, instructivos, y demás disposiciones administrativas emitidas por el Procurador General de la República con base en el Reglamento que se abroga, continuarán en vigor en lo que no se opongan al presente ordenamiento.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos que a la entrada en vigor de este Reglamento estén tramitando las unidades administrativas y órganos desconcentrados contemplados en el Reglamento que se abroga o creados mediante Acuerdo del Procurador General de la República, pasarán al conocimiento de las unidades administrativas y órganos desconcentrados que asuman sus atribuciones, en los términos que establece el presente Reglamento y, para los casos no contemplados en el mismo, conforme a lo que disponga el Procurador General de la República en el Acuerdo respectivo.
+
+Los órganos colegiados que al momento de la entrada en vigor del presente Reglamento continúen en funciones, se conformarán por las unidades administrativas y órganos que asuman las atribuciones de los integrantes anteriores. Dichos órganos serán presididos por el servidor público Titular de la unidad administrativa u órgano desconcentrado respectivo y, en su defecto, en los términos que disponga el Procurador.
+
+###### ARTÍCULO CUARTO.
+
+La Oficialía Mayor de la Procuraduría realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las unidades administrativas u órganos desconcentrados que se modifican o desaparecen, sean transferidos a las unidades administrativas u órganos desconcentrados que correspondan, en los términos del presente ordenamiento y de conformidad con las normas aplicables y la disponibilidad presupuestal.
+
+La Oficialía Mayor, en un plazo máximo de seis meses contados a la entrada en vigor del presente Reglamento, realizará las acciones conducentes para que sean asignados los recursos humanos, financieros y materiales que resulten necesarios para el debido funcionamiento de las unidades administrativas u órganos desconcentrados de nueva creación, cuyas atribuciones no estaban contempladas en el Reglamento que se abroga.
+
+En tanto se realiza la asignación de los recursos a que se refiere el párrafo que antecede, las unidades administrativas y órganos desconcentrados de la Institución auxiliarán a los titulares de las unidades administrativas y órganos desconcentrados de nueva creación para el debido desempeño de sus funciones, en los términos que disponga el Procurador.
+
+###### ARTÍCULO QUINTO.
+
+Las fiscalías especializadas, así como otras unidades administrativas con facultades de investigación, creadas mediante Acuerdo del Procurador antes de la entrada en vigor del presente Reglamento y que no se encuentren contempladas en el mismo, continuarán en el ejercicio de sus funciones conforme a sus respectivos instrumentos de creación y las demás disposiciones aplicables, hasta el momento en que concluyan el objeto para el que fueron establecidas o que el Procurador determine su terminación.
+
+###### ARTÍCULO SEXTO.
+
+La Coordinación General de Investigación, subsistirá en sus funciones adscrita a la unidad administrativa que determine el Procurador, con las facultades previstas en el artículo 4, fracciones I, IV, V y VI, de la Ley Orgánica, y continuará conociendo de las averiguaciones previas y procesos penales relacionados con los homicidios de José Francisco Ruiz Massieu y Juan Jesús Posadas Ocampo hasta su conclusión. Las averiguaciones previas y procesos penales relacionados con el homicidio de Luis Donaldo Colosio Murrieta igualmente pasarán al conocimiento de la Coordinación de referencia hasta su conclusión.
+
+###### ARTÍCULO SÉPTIMO.
+
+En tanto se regulariza la estructura administrativa de la Visitaduría General, continuarán en el ejercicio de sus funciones los agentes del Ministerio Público de la Federación visitadores, quienes realizarán las visitas de evaluación técnico-jurídica, seguimiento, inspección y supervisión al personal de la Institución así como la integración de los expedientes de investigación, hasta que dichas funciones sean asumidas por los visitadores en los términos del presente ordenamiento y acuerdos que emita el Procurador.
+
+###### ARTÍCULO OCTAVO.
+
+Dentro de un plazo no mayor a seis meses posteriores a la entrada en vigor del presente ordenamiento, las Subprocuradurías, la Oficialía Mayor y las áreas homólogas realizarán las acciones necesarias para eliminar las coordinaciones administrativas distintas a las que se refiere el artículo 3 de este Reglamento.
+
+###### ARTÍCULO NOVENO.
+
+Los Procedimientos de Remoción que a la entrada en vigor de las disposiciones relativas del presente Reglamento, se encuentren en trámite o pendientes de resolución ante el Visitador General, pasarán al conocimiento y resolución del Director General de Procedimientos de Remoción.
+
+###### ARTÍCULO DÉCIMO.
+
+En términos del artículo TRANSITORIO CUARTO del presente Reglamento, la Procuraduría General de la República realizará las acciones necesarias para que en su implementación no requiera de recursos adicionales a los aprobados en el Presupuesto de Egresos de la Federación para el ejercicio fiscal 2012 y subsecuentes, además de que no incrementará su presupuesto regularizable de servicios personales.
