@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-contra-los-efectos-nocivos-del-tabaco-75305"
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-07"
-last_updated: "2010-06-07"
+last_updated: "2012-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # LEY DE PROTECCION CONTRA LOS EFECTOS NOCIVOS DEL TABACO PARA EL ESTADO DE HIDALGO
 
-LEY DE PROTECCION CONTRA LOS EFECTOS NOCIVOS DEL TABACO PARA EL ESTADO DE HIDALGO
+LEY DE PROTECCIÓN CONTRA LOS EFECTOS NOCIVOS DEL TABACO PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 7 de junio de 2010.
 
@@ -467,6 +467,10 @@ TERCERO.- Lo no previsto por esta Ley en cuanto al fondo, se estará a lo dispue
 
 CUARTO.- Se derogan las disposiciones que contravengan lo dispuesto en la presente Ley.
 
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2012)</small>
+
+QUINTO.- El Reglamento de la presente Ley se expedirá a más tardar 180 días naturales después de su publicación en el Periódico Oficial del Estado.
+
 AL EJECUTIVO DE LA ENTIDAD PARA LOS EFECTOS DEL ARTÍCULO 51 DE LA CONSTITUCION POLÍTICA DEL ESTADO DE HIDALGO.- DADO EN LA SALA DE SESIONES DEL CONGRESO DEL ESTADO, EN LA CIUDAD DE PACHUCA DE SOTO, HGO., A LOS VEINTE DÍAS DEL MES DE MAYO DEL AÑO DOS MIL DIEZ.
 
 PRESIDENTE
@@ -488,3 +492,11 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ANGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE JULIO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
