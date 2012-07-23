@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2012-03-09"
+last_updated: "2012-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JULIO DE 2012.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -381,19 +381,31 @@ La violación a estas disposiciones será sancionada conforme a la Ley.
 
 El Poder Legislativo se deposita en una asamblea denominada Congreso del Estado.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2012)</small>
 
 ###### Artículo 21.
 
-El Congreso del Estado se compondrá de diputados elegidos por el principio de mayoría relativa en los distritos electorales uninominales, y de diputados elegidos por el principio de representación proporcional, conforme a las listas que presenten los partidos políticos en la circunscripción plurinominal que se constituya en el territorio del Estado; en un porcentaje de sesenta y cuarenta, respectivamente; de acuerdo a la fórmula establecida en la ley.
+El Congreso del Estado se compondrá por cincuenta diputados, de los cuales treinta serán electos por el principio de mayoría relativa en los distritos electorales uninominales, y veinte por el principio de representación proporcional, conforme a las listas que presenten los partidos políticos en la circunscripción plurinominal que se constituya en el territorio del Estado.
 
-La ley establecerá la formula de asignación de diputados electos por el principio de representación proporcional. Para la modificación del número de distritos electorales uninominales, se atenderá lo establecido por esta Constitución y la ley.
+El Congreso se renovará en su totalidad cada tres años y se instalará el día cinco de noviembre inmediato posterior a las elecciones.
 
-El Congreso se renovará en su totalidad cada tres años y se instalará el día 5 de noviembre inmediato posterior a las elecciones. Los diputados, cuando tengan el carácter de propietarios, no podrán ser elegidos para el período inmediato siguiente, ni aún con el carácter de suplentes; pero los que tengan el carácter de suplentes, sí podrán ser elegidos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
+La ley desarrollará la fórmula de asignación de diputados electos por el principio de representación proporcional con base en lo previsto en este artículo. Para la modificación de la demarcación de los distritos electorales uninominales se atenderá lo establecido por esta Constitución y la ley.
 
-En caso de que el Congreso se integre por menos de 50 diputados, al partido mayoritario no podrán asignársele más de 4 diputados por el principio de representación proporcional, y en caso de que el Congreso se integre por 50 diputados o más, al partido mayoritario no podrá asignársele más de 5 diputados por este principio. En ningún caso el Congreso se integrará por más de 60 diputados.
+La elección de diputados según el principio de representación proporcional y el sistema de asignación se sujetarán a las siguientes bases y a lo que disponga la ley:
 
-Ningún partido político podrá contar con un número de diputados, por ambos principios, mayor al número total de distritos electorales uninominales.
+I. Un partido político, para obtener el registro de sus listas, deberá acreditar que participa con candidatos a diputados por mayoría relativa en por lo menos veinte de los distritos uninominales;
+
+ll. Todo partido político que alcance por lo menos el dos por ciento del total de la votación estatal emitida para las listas tendrá derecho a que le sean asignados diputados según el principio de representación proporcional;
+
+III. Al partido político que cumpla con las dos bases anteriores, independiente y adicionalmente a las constancias de mayoría relativa que hubieren obtenido sus candidatos, le serán asignados por el principio de representación proporcional, de acuerdo con su porcentaje de la votación estatal emitida, el número de diputados de su lista que le correspondan;
+
+IV. Ningún partido político podrá contar con más de treinta diputados por ambos principios;
+
+V. En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que represente un porcentaje del total del Congreso que exceda en dieciséis puntos a su porcentaje de votación estatal emitida. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total del Congreso superior a la suma del porcentaje de su votación estatal emitida más el dieciséis por ciento; y,
+
+VI. En los términos de lo establecido en las bases contenidas en las fracciones III, IV y V anteriores, las diputaciones de representación proporcional que resten después de asignar las que correspondan al partido político que se halle en los supuestos de las fracciones IV o V, se adjudicarán a los demás partidos con derecho a ello, en proporción directa con las respectivas votaciones estatales efectivas de estos últimos. La ley desarrollará las reglas y fórmulas para estos efectos.
+
+Los diputados, cuando tengan el carácter de propietarios, no podrán ser elegidos para el periodo inmediato siguiente, ni aun con el carácter de suplentes; pero los que tengan el carácter de suplentes si podrán ser elegidos para el periodo inmediato como propietarios, a menos que hayan estado en ejercicio.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -641,9 +653,9 @@ h) La creación de entidades paramunicipales.
 
 XVII. Llevar el registro de la situación patrimonial de los servidores públicos estatales y municipales, los cuales se harán públicos en los términos establecidos por la ley;
 
-> <small>(REFORMADA, G.O. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2012)</small>
 
-XVIII. Con la aprobación de las dos terceras partes de sus miembros presentes, designar a propuesta de los partidos políticos representados en el Congreso del Estado, previa realización de una amplia consulta a la sociedad que realicen éstos, a los Consejeros Electorales del Consejo General del Instituto Electoral Veracruzano, en los términos que fije la ley; y nombrar al titular de la Contraloría General del Instituto Electoral Veracruzano, a propuesta de instituciones públicas de educación superior del Estado, previa convocatoria que para el efecto se emita;
+XVIII. Con la aprobación de las dos terceras partes de sus miembros presentes, designar a los Consejeros Electorales del Consejo General y al titular de la Contraloría General del Instituto Electoral Veracruzano, en los términos que señalen esta Constitución y la ley;
 
 > <small>(REFORMADA, G.O. 29 DE ENERO DE 2007)</small>
 
@@ -1559,7 +1571,9 @@ III. Interpretar y aplicar las leyes del fuero común y las federales en jurisdi
 
 IV. Resolver las impugnaciones que se presenten en las elecciones de Gobernador, de diputados al Congreso del Estado y de los Ayuntamientos; así como los demás recursos que señale la ley de la materia, teniendo sus resoluciones el carácter de definitivas;
 
-V. Realizar el cómputo final y, en su caso, la declaración de validez de la elección de Gobernador, y la de Gobernador electo del candidato que hubiere obtenido el mayor número de sufragios, ordenando su publicación en la Gaceta Oficial del Estado;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2012)</small>
+
+V. Confirmar, revocar o modificar el cómputo estatal de la elección de Gobernador, la declaración de validez de la elección de Gobernador y la de Gobernador Electo emitidos por el Instituto Electoral Veracruzano, cuando éstos hubieren sido impugnados;
 
 VI. Dirimir las controversias que se susciten entre la administración pública estatal o municipal, y los particulares;
 
@@ -1787,17 +1801,21 @@ I. La organización, desarrollo y vigilancia de las elecciones, plebiscitos y re
 
 a) El Instituto se regirá por los principios de legalidad, imparcialidad, objetividad, certeza, independencia, profesionalismo, equidad y definitividad, y tendrá la integración y funcionamiento que señale la ley;
 
-> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2012)</small>
 
-b) El Instituto tendrá las siguientes atribuciones: las actividades relativas a la capacitación y educación cívica, la geografía electoral, los derechos y prerrogativas de los partidos y demás organizaciones políticas, vigilancia de los procesos internos y precampañas de los partidos políticos, las campañas electorales partidos y organizaciones políticas, el padrón y la lista de electores, la impresión de materiales electorales, la preparación de la jornada electoral, los cómputos en los términos que señale la ley, la declaración de validez y el otorgamiento de constancias en las elecciones de diputados y ayuntamientos; así como la regulación de la observación electoral y de las encuestas y sondeos de opinión con fines electorales, y las demás que señale la ley. El Instituto podrá convenir con el Instituto Federal Electoral la organización del proceso electoral en los términos que establezca la ley;
+b) El Instituto tendrá las siguientes atribuciones: las actividades relativas a la capacitación y educación cívica, la geografía electoral, los derechos y prerrogativas de los partidos y demás organizaciones políticas, vigilancia de los procesos internos y precampañas de los partidos políticos, las campañas electorales, partidos y organizaciones políticas, el padrón y la lista de electores, la impresión de materiales electorales, la preparación de la jornada electoral, los cómputos en los términos que señale la ley, la declaración de validez y el otorgamiento de constancias en las elecciones de Gobernador, diputados y ayuntamientos, además de la declaratoria de Gobernador Electo; así como la regulación de la observación electoral y de las encuestas y sondeos de opinión con fines electorales, y las demás que señale la ley. El Instituto podrá convenir con el Instituto Federal Electoral la organización del proceso electoral en los términos que establezca la ley;
 
 > <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2008)</small>
 
 c) El órgano superior de dirección del Instituto será el Consejo General, que funcionará de manera permanente.
 
-El Consejo General se integrará por un Presidente Consejero y cuatro consejeros electorales, con derecho a voz y voto en las sesiones del Consejo General; y los representantes por cada uno de los partidos políticos que hubieren obtenido su registro o acreditación, en su caso, para participar en las elecciones correspondientes, con derecho a voz pero sin voto en las sesiones del Consejo General.
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2012)</small>
 
-El consejero Presidente durará en su cargo seis años y podrá ser reelecto una sola vez. Los consejeros electorales durarán en su cargo nueve años, serán renovados en forma escalonada y no podrán ser reelectos. Según sea el caso, uno y otros serán elegidos sucesivamente por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, a propuesta de los partidos políticos representados en el mismo, previa realización de una amplia consulta a la sociedad. De darse la falta absoluta del consejero Presidente o de cualquiera de los consejeros electorales, el sustituto será elegido para concluir el periodo de la vacante. La ley establecerá las reglas y el procedimiento correspondientes;
+El Consejo General se integrará por un Presidente Consejero y cuatro Consejeros Electorales, con derecho a voz y voto en las sesiones del Consejo General, y los representantes por cada uno de los partidos políticos con registro nacional o estatal, con derecho a voz pero sin voto en las sesiones.
+
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2012)</small>
+
+El Consejero Presidente durará en su cargo seis años y no podrá ser reelecto, salvo cuando se le designe para concluir un período por menos de tres años. Los Consejeros Electorales durarán en su cargo cuatro años con posibilidad de una reelección. El Consejero Presidente y los Consejeros Electorales serán elegidos por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, a propuesta de los partidos políticos representados en el mismo, y se les renovará en forma escalonada. En caso de falta absoluta del Consejero Presidente o de cualquiera de los Consejeros Electorales, el sustituto será elegido para concluir el periodo de la vacante. La ley establecerá las reglas y el procedimiento correspondiente dentro de los cuales deberá preverse un método de voto alternativo o preferencial para alcanzar las dos terceras partes requeridas cuando dicha mayoría no se consiga en dos vueltas sucesivas de elección.
 
 > <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2008)</small>
 
@@ -12032,6 +12050,16 @@ G.O. 9 DE MARZO DE 2012.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 23 DE JULIO DE 2012.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. El Congreso del Estado realizará las adecuaciones correspondientes en las leyes secundarias en un plazo máximo de treinta días naturales, contado a partir del inicio de la vigencia del presente Decreto.
+
+Tercero. Al término del periodo de los Consejeros Electorales que concluye en enero de dos mil trece, el Congreso del Estado designará a dos Consejeros, uno, por única ocasión, para cubrir un periodo de tres años y otro para cubrir el periodo de cuatro años. El Congreso procederá de la misma manera al finalizar el periodo de los Consejeros que concluyen su función en el año dos mil dieciocho.
+
+Cuarto. Se derogan todas las disposiciones que se opongan a este Decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1915 DEL CÓDIGO CIVIL FEDERAL".]
 
