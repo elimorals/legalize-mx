@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-residuos-solidos-de-la-ciudad-de-mexico-antes-ley-de-301
 country: "mx"
 rank: "ley"
 publication_date: "2003-04-22"
-last_updated: "2010-12-23"
+last_updated: "2012-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30102&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2003-04-05"
 ---
 # LEY DE RESIDUOS SOLIDOS DE LA CIUDAD DE MEXICO -- ANTES LEY DE RESIDUOS SOLIDOS DEL DISTRITO FEDERAL --
 
-LEY DE RESIDUOS SOLIDOS DEL DISTRITO FEDERAL
+LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE JULIO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 22 de abril de 2003.
 
@@ -78,7 +78,7 @@ V. Biogás: El conjunto de gases generados por la descomposición microbiológic
 
 VI. Biopolímero: Es un polímero de origen natural que puede ser sintetizado por microorganismos u obtenido de fuentes animales o plantas. Son básicamente generados de recursos renovables y por regla general son fácilmente biodegradables, pero pueden no serlo;
 
-> <small>(REFORMADA [N. DE E. ESTA DUPLICADA CON LA FRACCION V], G.O. 26 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA [N. DE E. ESTA DUPLICADA CON LA FRACCIÓN V], G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
 VII. Biogás: El conjunto de gases generados por la descomposición microbiológica de la materia orgánica;
 
@@ -334,7 +334,7 @@ VII. Realizar los estudios y proyectos de obras de infraestructura para el manej
 
 VIII. Diseñar, construir, organizar, operar y mantener las estaciones de transferencia, plantas de selección y tratamiento, y sitios para la disposición final de los residuos sólidos, con base en el Programa de Gestión Integral de los Residuos Sólidos;
 
-IX. Participar en la celebración de convenios para el traslado de los residuos sólidos desde o hacia otras entidades federativas, así como la inspección y vigilancia de dicho traslado;
+IX. Participar en la celebración de convenios para el traslado de los residuos sólidos desde o hacia otras entidades federativas,así como la inspección y vigilancia de dicho traslado;
 
 > <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
@@ -445,6 +445,10 @@ XII. Promover medidas para evitar el depósito, descarga, acopio y selección de
 > <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
 XIII. Promover sistemas de reutilización y reciclaje, depósito retorno u otros similares que reduzcan la generación de residuos, en el caso de productos o envases que después de ser utilizados generen residuos en alto volumen o que originen impactos ambientales significativos.
+
+> <small>(ADICIONADA, G.O. 24 DE JULIO DE 2012)</small>
+
+XIII BIS. Establecer las medidas adecuadas entre los diversos sectores productivos, a fin de que se realice previo a su disposición final, la destrucción o la inutilización de los envases que contuvieron sustancias nocivas para la salud, una vez que estos han terminado su vida útil, evitando su posterior uso para almacenar o transportar productos de consumo humano;
 
 XIV Establecer las medidas adecuadas para reincorporar al ciclo productivo materiales o sustancias reutilizables o reciclables y para el desarrollo de mercados de subproductos para la valorización de los residuos sólidos;
 
@@ -603,6 +607,10 @@ XI BIS. Que se entreguen para transportación, carga o traslado del consumidor f
 XII. Mezclar residuos peligrosos con residuos sólidos e industriales no peligrosos; y
 
 XIII. Confinar o depositar en sitios de disposición final residuos en estado líquido o con contenidos líquidos que excedan los máximos permitidos por las normas oficiales mexicanas o las normas ambientales del Distrito Federal.
+
+> <small>(ADICIONADA, G.O. 24 DE JULIO DE 2012)</small>
+
+XIV. Utilizar envases que hayan contenido sustancias tóxicas con fines distintos para los que fueron creados, como almacenar o trasportar productos para consumo humano.
 
 Las violaciones a lo establecido en este artículo se sancionarán de conformidad con lo dispuesto en esta Ley, sin perjuicio de lo establecido en la Ley de Justicia Cívica del Distrito Federal y demás ordenamientos jurídicos aplicables.
 
@@ -814,7 +822,7 @@ IV. Area para segregar y almacenar temporalmente los residuos, por tiempos acord
 
 V. Los demás requisitos que determine el Reglamento y normas aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 46.
 
@@ -870,7 +878,7 @@ El personal que labore en los sitios de disposición final deberá estar debidam
 
 ###### Artículo 54.
 
-Los rellenos sanitarios que hayan cumplido su vida útil se destinarán únicamente como parques, jardínes, centros de educación ambiental o sitios para el fomento de la recreación y la cultura.
+Los rellenos sanitarios que hayan cumplido su vida útil se destinarán únicamente como parques, jardines, centros de educación ambiental o sitios para el fomento de la recreación y la cultura.
 
 ## TÍTULO QUINTO. DE LA VALORIZACIÓN Y COMPOSTEO DE LOS RESIDUOS SÓLIDOS
 
@@ -1110,7 +1118,7 @@ POR LA MESA DIRECTIVA.- DIP. ALEJANDRO DIEZ BARROSO REPIZO, PRESIDENTE.- DIP. RO
 
 En cumplimiento de lo dispuesto por los artículos 122. apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48,49 y 67 fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los cinco días del mes de abril del dos mil tres.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, LIC. ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, CLAUDIA SHEINBAUM PARDO - FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, CÉSAR BUENROSTRO HERNÁNDEZ - FIRMA.- LA SECRETARIA DE SALUD, ASA CRISTINA LAURELL.- FIRMA.
 
-N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+N. DE E.: A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
 
 G.O. 10 DE FEBRERO DE 2004.
 
@@ -1153,3 +1161,9 @@ G.O. 23 DE DICIEMBRE DE 2010.
 PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y, para su mayor difusión, en el Diario Oficial de la Federación.
+
+G.O. 24 DE JULIO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese para su mayor difusión en el Diario Oficial de la Federación.
