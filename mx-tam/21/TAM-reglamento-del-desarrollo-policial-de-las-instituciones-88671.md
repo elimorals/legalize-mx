@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-del-desarrollo-policial-de-las-instituciones-88671"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-07-19"
-last_updated: "2012-07-19"
+last_updated: "2012-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "TAM"
 ---
 # REGLAMENTO DEL DESARROLLO POLICIAL DE LAS INSTITUCIONES PREVENTIVAS DE SEGURIDAD PUBLICA DEL ESTADO DE TAMAULIPAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE JULIO DE 2012 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DEL DESARROLLO POLICIAL DE LAS INSTITUCIONES PREVENTIVAS DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA PRESENTE FE DE ERRATAS QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE JULIO DE 2012.</small>
 
 Reglamento publicado en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 19 de julio de 2012.
 
@@ -1847,13 +1849,61 @@ IV. Recibido el expedientillo, procederá sin demora a ejecutar la baja del Inte
 
 V. La ejecución de la baja dejará la plaza liberada y susceptible de ser reasignada, lo que será comunicado a la institución en la que se encontraba radicada la misma.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE JULIO DE 2012 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+## ARTICULOS TRANSITORIOS
 
-## TRANSITORIOS
+> <small>(F. DE E., P.O. 24 DE JULIO DE 2012)</small>
 
-Artículo primero.- Este Reglamento se publicará en el Periódico Oficial del Estado y entrará en vigor a los 30 días siguientes.
+###### ARTÍCULO PRIMERO.
 
-Artículo Segundo.- Al personal que hubiere ingresado a las instituciones preventivas de seguridad pública estatal con anterioridad a la entrada en vigor de este Reglamento, se le aplicarán las previsiones del mismo para efectos de si (sic) incorporación a la Carrera Policial. En todo caso, dicho personal deberá apegarse a las disposiciones propias de permanencia y desarrollo policial.
+El presente Reglamento entrará en vigor a los noventa días de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+> <small>(F. DE E., P.O. 24 DE JULIO DE 2012)</small>
+
+###### ARTÍCULO SEGUNDO.
+
+Al personal que hubiere ingresado a las instituciones preventivas de seguridad pública estatal con anterioridad a la entrada en vigor de este Reglamento, se le aplicarán las previsiones del mismo para efectos de su incorporación a la Carrera Policial. En todo caso, dicho personal deberá apegarse a las disposiciones propias de permanencia y desarrollo policial.
+
+> <small>(F. DE E., P.O. 24 DE JULIO DE 2012)</small>
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos iniciados con las disposiciones anteriores al presente Reglamento, deberán concluirse con el procedimiento mediante el cual fueron iniciados.
+
+> <small>(F. DE E., P.O. 24 DE JULIO DE 2012)</small>
+
+###### ARTÍCULO CUARTO.
+
+Se abroga el Reglamento del Servicio Policial de Carrera para Estado de Tamaulipas, publicado mediante Acuerdo Gubernamental Anexo al Periódico Oficial del Estado de Tamaulipas número 63, de fecha 04 de julio de 2000.
+
+> <small>(F. DE E., P.O. 24 DE JULIO DE 2012)</small>
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+> <small>(F. DE E., P.O. 24 DE JULIO DE 2012)</small>
+
+###### ARTÍCULO SEXTO.
+
+El Servicio Profesional de Carrera Policial de las Instituciones Preventivas de Seguridad Pública del Estado de Tamaulipas se establecerá de forma gradual, de conformidad con las disposiciones presupuestales y los acuerdos que se celebren con el Estado.
+
+> <small>(F. DE E., P.O. 24 DE JULIO DE 2012)</small>
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Seguridad Pública del Estado llevará a cabo las acciones necesarias a fin de elaborar el Manual de Organización, un catálogo de puestos, los manuales de procedimientos y la herramienta de seguimiento y control.
+
+> <small>(F. DE E., P.O. 24 DE JULIO DE 2012)</small>
+
+###### ARTÍCULO OCTAVO.
+
+La Secretaría celebrará convenios de coordinación con los Municipios que integran la Entidad Federativa, respetando la autonomía municipal, a fin de implementar y homologar gradualmente el Servicio Profesional de Carrera Policial.
+
+> <small>(F. DE E., P.O. 24 DE JULIO DE 2012)</small>
+
+###### ARTÍCULO NOVENO.
+
+Lo no previsto en el presente Reglamento, será resuelto en única instancia por el Secretario de Seguridad Pública del Estado.
 
 Dado en la sede el Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, el dieciocho de julio de dos mil doce.
 
