@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-tribunal-de-lo-contencioso-administrativo-7002
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-10"
-last_updated: "2009-09-10"
+last_updated: "2012-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70025&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2009-08-28"
 ---
 # LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL DISTRITO FEDERAL
 
-LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL DISTRITO FEDERAL
+LEY ORGÁNICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE JULIO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 10 de septiembre de 2009.
 
@@ -98,7 +98,9 @@ Será causa de retiro forzoso de los Magistrados haber cumplido setenta años de
 
 La elección del Presidente del Tribunal, del Presidente de las Salas Ordinarias y Auxiliares y de los integrantes de la Junta de Gobierno, se efectuará en la primera sesión del año o periodo que corresponda.
 
-En la elección del Presidente del Tribunal, tendrán derecho a voto los Magistrados de la Sala Superior y sólo podrá ser electo un Magistrado integrante de la misma, quien durará en su encargo cuatro años.
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2012)</small>
+
+En la elección del Presidente del Tribunal tendrán derecho a voto los Magistrados de la Sala Superior y sólo podrá ser electo un Magistrado integrante de la misma, quien durará en su encargo cuatro años y podrá ser reelecto, por una sola vez, para el periodo siguiente.
 
 El Presidente del Tribunal lo será también de la Sala Superior y de la Junta de Gobierno.
 
@@ -134,9 +136,13 @@ Las licencias de los Magistrados de Salas Ordinarias o Auxiliares, serán otorga
 
 El total de las licencias concedidas a un Magistrado no podrá exceder de un año calendario dentro de un periodo de seis años.
 
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2012)</small>
+
 ###### Artículo 12.
 
-El Tribunal tendrá dos Secretarios Generales de Acuerdos, un Secretario General de Compilación y Difusión, un Secretario General de Defensoría Jurídica, un Contralor Interno, y los Secretarios de Acuerdos, Actuarios y Defensores Jurídicos necesarios para el despacho de los negocios del Tribunal y demás personal, de conformidad con el Presupuesto del mismo. Los Secretarios tendrán fe pública en el desempeño de su encargo. Los Defensores Jurídicos proporcionarán gratuitamente sus servicios al público.
+El Tribunal tendrá dos Secretarios Generales de Acuerdos, un Secretario General de Compilación y Difusión, un Secretario General de Defensoría Jurídica, un Director Administrativo, un Contralor Interno, Secretarios de Estudio y Cuenta para la Sala Superior y los Secretarios de Acuerdos, Actuarios y Defensores Jurídicos necesarios para el despacho de los negocios del Tribunal y demás personal, de conformidad con el Presupuesto del mismo.
+
+Los Secretarios Generales de Acuerdos, los Secretarios de Estudio y Cuenta, los Secretarios de Acuerdos y los Actuarios tendrán fe pública en el desempeño de su encargo.
 
 ###### Artículo 13.
 
@@ -146,19 +152,25 @@ El ingreso o promoción de los servidores públicos de carácter jurisdiccional 
 
 La designación de los Secretarios de Acuerdos y Actuarios de las Salas Ordinarias y Auxiliares, se efectuará por la Junta de Gobierno del Tribunal, conforme a las disposiciones que establezca el Reglamento Interior del Tribunal, quienes tendrán fe pública en el desempeño de sus funciones.
 
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2012)</small>
+
 ###### Artículo 15.
 
-Los Secretarios de Acuerdos deberán ser mexicanos, mayores de 25 años, Licenciados en derecho, con título debidamente registrado, con experiencia por lo menos un año en materia administrativa o fiscal, notoria buena conducta y no haber sido condenados por sentencia irrevocable por delito doloso, así como tampoco haber sido suspendidos o inhabilitados por más de tres meses como servidor público.
+El Secretario General de Acuerdos, el Secretario General de Compilación y Difusión y el Secretario General de Defensoría deberán ser mexicanos, mayores de 25 años, Licenciados en derecho, con título debidamente registrado, con experiencia por lo menos de dos años en materia administrativa o fiscal, notoria buena conducta y no haber sido condenados por sentencia irrevocable por delito doloso, así como no haber sido suspendido, destituido o inhabilitado por resolución firme como servidor público. El Director Administrativo deberá cumplir estos requisitos excepto el que se refiere a la licenciatura y título que corresponderá a las ciencias económico administrativas fiscales.
 
-Los Actuarios deberán reunir los requisitos a que se refiere el párrafo anterior, excepto el de la experiencia en materia administrativa o fiscal.
+Los Secretarios de Estudio y Cuenta, los Secretarios de Acuerdos, Actuarios y los Defensores jurídicos deberán ser Licenciados en Derecho y reunir los demás requisitos establecidos en el párrafo anterior. Para los Actuarios no es requisito la experiencia.
+
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2012)</small>
 
 ###### Artículo 16.
 
-El Contralor Interno deberá ser mexicano, mayor de treinta y cinco años, con título en licenciatura en Derecho y/o Administración Pública, contar con título y cédula debidamente registrados en la Dirección General de Profesiones, con experiencia de cuando menos tres años en materia de contralorías, de notoria buena conducta y no haber sido condenado por sentencia irrevocable por delito doloso, así como tampoco haber sido suspendido o inhabilitado como servidor público.
+El Contralor Interno deberá ser mexicano, mayor de treinta y cinco años, con título en licenciatura en Derecho o Administración Pública, contar con título y cédula debidamente registrados en la Dirección General de Profesiones, con experiencia de cuando menos tres años en materia de contralorías, de notoria buena conducta y no haber sido condenado por sentencia irrevocable por delito doloso, así como no haber sido destituido, suspendido o inhabilitado por resolución firme como servidor público.
+
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2012)</small>
 
 ###### Artículo 17.
 
-Los Magistrados, Secretarios, Actuarios, Defensores Jurídicos y el Contralor Interno, estarán impedidos para desempeñar cualquier otro cargo o empleo administrativo de la Federación, Distrito Federal, Estados, Municipios, Organismos Descentralizados, Empresas de Participación Estatal o de naturaleza privada, excepto los cargos o empleos de carácter académico que no se contrapongan al horario del Tribunal, y los honoríficos. También estarán impedidos para ejercer su profesión, salvo en causa propia, o de su familia en primer grado.
+Los Magistrados, Secretarios Generales de Acuerdos, Secretarios de Estudio y Cuenta, Secretarios de Acuerdos, Actuarios, Defensores Jurídicos y el Contralor Interno, estarán impedidos para desempeñar cualquier otro cargo o empleo administrativo de la Federación, Distrito Federal, Estados, Municipios, Organismos Descentralizados, Empresas de Participación Estatal o de naturaleza privada, excepto los cargos o empleos de carácter académico que no se contrapongan al horario del Tribunal, y los honoríficos. También estarán impedidos para ejercer su profesión, salvo en causa propia, o de su familia en primer grado.
 
 ###### Artículo 18.
 
@@ -168,13 +180,17 @@ Los conflictos de competencia que se susciten entre el Tribunal de lo Contencios
 
 Las relaciones de trabajo entre el Tribunal y sus trabajadores de base, se regirán por la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del apartado B del artículo 123 Constitucional.
 
-Para efectos de esta Ley, son trabajadores de confianza los Magistrados, Secretario General de Acuerdos, Secretario General de Compilación y Difusión, Secretario General de Defensoría, Secretarios de Acuerdos, Actuarios, Defensores, Oficiales Jurisdiccionales y Contralor Interno, y los demás mandos medios y superiores que con ese carácter mencione el Reglamento Interior y se encuentren previstos en el presupuesto autorizado.
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2012)</small>
+
+Para efectos de esta Ley, son trabajadores de confianza los Magistrados, Secretario General de Acuerdos, Secretario General de Compilación y Difusión, Secretario General de Defensoría, Director Administrativo, Secretarios de Estudio y Cuenta, Secretarios de Acuerdos, Actuarios, Defensores, Oficiales Jurisdiccionales y Contralor Interno, y los demás mandos medios y superiores que con ese carácter mencione el Reglamento Interior y se encuentren previstos en el presupuesto autorizado.
 
 Para todos los efectos de las relaciones de trabajo, el Presidente del Tribunal será el representante de la Institución.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE JULIO DE 2012)</small>
+
 ###### Artículo 20.
 
-El Tribunal contará con un sistema profesional de carrera jurisdiccional, basado en los principios de eficiencia, capacidad y experiencia el cual comprenderá al Secretario General de Acuerdos, al Secretario General de Compilación y Difusión, al Secretario General de Defensoría Jurídica, a los Secretarios de Acuerdos y Actuarios.
+El Tribunal contará con un sistema profesional de carrera jurisdiccional, basado en los principios de eficiencia, capacidad y experiencia el cual comprenderá al Secretario General de Acuerdos, al Secretario General de Compilación y Difusión, al Secretario General de Defensoría Jurídica, a los Secretarios de Estudio y Cuenta, a los Secretarios de Acuerdos y Actuarios.
 
 El sistema abarcará las fases de ingreso, promoción, permanencia y retiro de dichos servidores públicos de manera que se procure la excelencia por medio de concursos y evaluaciones periódicas y de acuerdo con los procedimientos y criterios establecidos en el Estatuto del Servicio Civil de Carrera Jurisdiccional del Tribunal de lo Contencioso Administrativo del Distrito Federal correspondiente, los cuales serán aplicados por la Junta de Gobierno.
 
@@ -208,7 +224,9 @@ IV. Resolver el recurso de reclamación en contra de los acuerdos de trámite di
 
 V. Conocer de las excitativas para la impartición de justicia que promuevan las partes, cuando los Magistrados no formulen el proyecto de resolución que corresponda o no emitan su voto respecto de proyectos formulados por otros Magistrados, dentro de los plazos señalados por la Ley;
 
-VI. Calificar las recusaciones, excusas e impedimentos de los Magistrados del Tribunal y, en su caso, designar al Magistrado que deba sustituirlos; y (sic)
+> <small>(REFORMADA, G.O. 24 DE JULIO DE 2012)</small>
+
+VI. Calificar las recusaciones, excusas e impedimentos de los Magistrados del Tribunal y del personal jurisdiccional a que se refiere el artículo 84 de esta Ley, y en su caso, designar al Magistrado o al servidor público jurisdiccional que deba sustituirlos;
 
 VII. Establecer las reglas para la distribución de los asuntos entre las Salas del Tribunal, así como entre los Magistrados Instructores y Ponentes;
 
@@ -222,9 +240,13 @@ I. Designar de entre sus miembros al Presidente del Tribunal, quien lo será tam
 
 II. Designar al Contralor Interno;
 
-III. Aprobar a proposición del Presidente, la designación del Secretario General de Acuerdos, Secretario General de Compilación y Difusión y Secretario General de Defensoría Jurídica;
+> <small>(REFORMADA, G.O. 24 DE JULIO DE 2012)</small>
 
-IV. Designar a los Secretarios de Acuerdos y Actuarios y demás personal jurisdiccional de la Sala Superior;
+III. Aprobar a propuesta del Presidente, la designación del Secretario General de Acuerdos, Secretario General de Compilación y Difusión, Secretario General de Defensoría Jurídica y del Director Administrativo;
+
+> <small>(REFORMADA, G.O. 24 DE JULIO DE 2012)</small>
+
+IV. Designar a los Secretarios de Acuerdos, Secretarios de Estudio y Cuenta, Actuarios y demás personal jurisdiccional de la Sala Superior;
 
 V. Acordar la remoción de los empleados administrativos de la Sala Superior, cuando proceda conforme a la Ley;
 
@@ -270,11 +292,15 @@ IV. Dirigir los debates y conservar el orden en las sesiones de la Junta de Gobi
 
 V. Denunciar a la Sala Superior las contradicciones de que tenga conocimiento entre sentencias dictadas por las Salas;
 
-VI. Designar por turno al Magistrado Instructor en los recursos de apelación y en los de reclamación; y al Magistrado Ponente en los de queja. Dar cuenta a la Sala Superior hasta ponerlos en estado de resolución;
+> <small>(REFORMADA, G.O. 24 DE JULIO DE 2012)</small>
+
+VI. Designar por turno al Magistrado Ponente en los recursos de apelación y en los de reclamación, así como en las instancias de Sala Ordinaria o Auxiliar a que refiere el artículo 133 de esta Ley.
 
 VII. Nombrar al personal administrativo del Tribunal, de acuerdo con las disposiciones legales aplicables;
 
-VIII. Conceder o negar licencias al personal administrativo de la Sala Superior en los términos de las disposiciones aplicables, previa opinión, en su caso, del Magistrado a que esté adscrito;
+> <small>(REFORMADA, G.O. 24 DE JULIO DE 2012)</small>
+
+VIII. Conceder o negar licencias al personal administrativo de la Sala Superior en los términos de las disposiciones aplicables, previa opinión, en su caso, del Magistrado o del titular del área al que esté adscrito;
 
 IX. Dictar las órdenes relacionadas con el ejercicio del presupuesto del Tribunal;
 
@@ -302,7 +328,7 @@ La Junta de Gobierno del Tribunal de lo Contencioso Administrativo del Distrito 
 
 La Junta de Gobierno se integra por el Presidente del Tribunal, quien también será presidente de la Junta de Gobierno, por dos Magistrados de Sala Superior y dos de las Salas Ordinarias, los cuales serán electos por la Sala Superior en forma escalonada por periodos de dos años y no podrán ser reelectos para el periodo inmediato siguiente.
 
-Para atender lo previsto en la parte final del párrafo anterior, sólo serán elegibles aquéllos Magistrados cuyo nombramiento cubra el periodo del cargo en dicha junta y tengan el carácter de inamovibles.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 24 DE JULIO DE 2012)</small>
 
 Los acuerdos y resoluciones de la Junta de Gobierno se tomarán por unanimidad o por mayoría de votos de sus integrantes presentes, quienes no podrán abstenerse de votar sino cuando tengan impedimento legal, en caso de empate se confiere voto de calidad al Presidente del Tribunal.
 
@@ -364,9 +390,13 @@ XXIV. Integrar y desarrollar un sistema de información estadística sobre el de
 
 XXV. Dirigir la buena marcha del Tribunal dictando las medidas necesarias para el despacho pronto y expedito de los asuntos administrativos del Tribunal y aplicar las sanciones que correspondan;
 
-XV (SIC). Las que no estén expresamente asignadas al Presidente del Tribunal o a la Sala Superior; y
+> <small>(REFORMADA, G.O. 24 DE JULIO DE 2012)</small>
 
-XVI. Las demás que establezcan las leyes.
+XXVI. Las que no estén expresamente asignadas al Presidente del Tribunal o a la Sala Superior; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 24 DE JULIO DE 2012)</small>
+
+XXVII. Las demás que establezcan las leyes.
 
 ### CAPITULO V. De las Salas del Tribunal
 
@@ -400,9 +430,11 @@ El particular podrá optar por esta vía o acudir ante la instancia judicial com
 
 XII. De los demás que expresamente señalen ésta u otras Leyes.
 
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2012)</small>
+
 ###### Artículo 32.
 
-Las atribuciones de carácter administrativo de la Sala Superior, Presidencia, Salas Ordinarias, Salas Auxiliares, Secretaría General de Acuerdos, Secretaría General de Compilación y Difusión, Secretaría General de Defensoría Jurídica, Secretarios de Acuerdos, Actuarios, Dirección Administrativa, Contraloría y demás servidores públicos que las necesidades del servicio requieran y determine su Presupuesto, se establecerán en el Reglamento Interior del Tribunal.
+Las atribuciones de carácter administrativo de la Sala Superior, Presidencia, Salas Ordinarias, Salas Auxiliares, Secretaría General de Acuerdos, Secretaría General de Compilación y Difusión, Secretaría General de Defensoría Jurídica, Dirección Administrativa, Secretarios de Estudio y Cuenta, Secretarios de Acuerdos, Actuarios, Contraloría y demás servidores públicos que las necesidades del servicio requieran y determine su Presupuesto, se establecerán en el Reglamento Interior del Tribunal.
 
 ### CAPITULO VI. De la Contraloría Interna
 
@@ -490,9 +522,11 @@ En caso de duda sobre la aplicación de las disposiciones contenidas en este Cap
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2012)</small>
+
 ###### Artículo 39.
 
-Los juicios que se promuevan ante el Tribunal se substanciarán y resolverán con arreglo al procedimiento que señala esta Ley. A falta de disposición expresa y en cuanto no se oponga a lo que prescribe este ordenamiento, se estará a lo dispuesto por la Ley Federal de Procedimiento Contencioso Administrativo; la Ley que Regula el Uso de la Tecnología para la Seguridad Pública del Distrito Federal; el Código de Procedimientos Civiles para el Distrito Federal; al Código Financiero del Distrito Federal, en lo que resulten aplicables.
+Los juicios que se promuevan ante el Tribunal se substanciarán y resolverán con arreglo al procedimiento que señala esta Ley. A falta de disposición expresa y en cuanto no se oponga a lo que prescribe este ordenamiento, se estará a lo dispuesto por la Ley Federal de Procedimiento Contencioso Administrativo; la Ley que Regula el Uso de la Tecnología para la Seguridad Pública del Distrito Federal; el Código de Procedimientos Civiles para el Distrito Federal; al Código Fiscal del Distrito Federal, en lo que resulten aplicables.
 
 ###### Artículo 40.
 
@@ -550,6 +584,10 @@ El pago no admitido de una contribución por la autoridad fiscal, podrá ser con
 
 Recibido por este Órgano Jurisdiccional y por el Presidente del Tribunal de lo Contencioso Administrativo del Distrito Federal, éste lo remitirá a la autoridad fiscal en el término de dos días hábiles a partir de su recepción, en el caso que no reúna los requisitos señalados en el párrafo anterior, se prevendrá por única ocasión, a efecto de que se subsane la (sic) deficiencias, para lo cual contará con un término de tres días hábiles, si fuere omiso o no cumpliere con lo requerido se tendrá por no hecha la consignación, ordenando la devolución de los documentos presentados.
 
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2012)</small>
+
+Artículo 49 bis.- El Tribunal resolverá los juicios de lesividad en un plazo máximo de seis meses y otorgará, a solicitud de la autoridad promovente, la suspensión de las actividades del particular ejecutadas al amparo del acto de cuya lesividad se trate, siempre que de continuarse con los mismos se afecte el entorno urbano, el medio ambiente, la debida prestación de servicios públicos o la seguridad de las personas.
+
 ### CAPITULO II. De las Partes
 
 ###### Artículo 50.
@@ -574,17 +612,25 @@ f) La Administración Pública Paraestatal y Descentralizada cuando actúen con 
 
 III.- El tercero interesado, o sea, cualquier persona cuyos intereses puedan verse afectados por las resoluciones del Tribunal, o que tenga un interés contrario o incompatible con la pretensión del demandante.
 
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2012)</small>
+
 ###### Artículo 51.
 
-Sólo podrán intervenir en el juicio, las personas que tengan interés legítimo.
+Solo podrán intervenir en el juicio las personas que tengan interés legítimo en el mismo.
+
+En los casos en que el actor pretenda obtener sentencia que le permita realizar actividades reguladas, deberá acreditar su interés jurídico mediante la correspondiente concesión, licencia, permiso, autorización o aviso.
 
 ###### Artículo 52.
 
 Las partes podrán autorizar para recibir notificaciones en su nombre a cualquier persona con capacidad legal. Las personas autorizadas quedan facultadas para interponer recursos, ofrecer y rendir pruebas, formular alegatos y pedir aclaración de Sentencia.
 
-Si son varios los actores, los terceros perjudicados o las autoridades, deberán designar a sus respectivos representantes comunes que estarán facultados para actuar en los términos del párrafo anterior.
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2012)</small>
 
-La representación en juicio terminará en el momento de la revocación del nombramiento respectivo, o en su caso, hasta que haya sido ejecutada la sentencia correspondiente.
+Si son varios los actores, los terceros interesados o las autoridades, deberán designar a sus respectivos representantes comunes que estarán facultados para actuar en los términos del párrafo anterior.
+
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2012)</small>
+
+La representación en juicio terminará en el momento de la revocación del nombramiento respectivo, por fallecimiento del representado, o en su caso, hasta que haya sido ejecutada la sentencia correspondiente.
 
 ### CAPITULO III. De los Incidentes
 
@@ -599,6 +645,10 @@ II. Nulidad de notificaciones; e
 III. Interrupción del procedimiento.
 
 Los incidentes ajenos al negocio principal o notoriamente frívolos e improcedentes, deberán ser desechados por los Magistrados, pudiendo imponer a quien lo promueva una multa de diez a cincuenta veces el salario mínimo general vigente en el Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2012)</small>
+
+El procedimiento se interrumpirá por así requerirlo alguna autoridad jurisdiccional o ministerial, porque hayan cesado los efectos de la representación en términos del artículo 52 de esta Ley.
 
 ###### Artículo 54.
 
@@ -712,9 +762,11 @@ Las notificaciones que deban hacerse a las partes y que no deben ser personales,
 
 La lista contendrá nombre de la persona, expediente y tipo de acuerdo. En los autos se hará constar la fecha de la lista.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE JULIO DE 2012)</small>
+
 ###### Artículo 68.
 
-Las notificaciones que deban hacerse personalmente a las autoridades administrativas, se harán siempre por oficio.
+Las notificaciones se harán a las autoridades administrativas siempre por oficio.
 
 Tratándose de las autoridades administrativas, las resoluciones que se dicten en los juicios que se tramiten ante el Tribunal de lo Contencioso Administrativo del Distrito Federal, deben notificarse en todos los casos, únicamente a la Unidad Administrativa a la que corresponda la representación en juicio.
 
@@ -778,9 +830,11 @@ En caso de que por circunstancias extraordinarias o ajenas a las partes no sea p
 
 ### CAPITULO V. De los Impedimentos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE JULIO DE 2012)</small>
+
 ###### Artículo 81.
 
-Los Magistrados y los Secretarios de Acuerdos de las Salas se encuentran impedidos para actuar, y deben excusarse en los juicios en que se presenten los siguientes supuestos:
+Los Magistrados, los Secretarios de Estudio y Cuenta y los Secretarios de Acuerdos de las Salas se encuentran impedidos para actuar, y deben excusarse en los juicios en que se presenten los siguientes supuestos:
 
 I. Si son cónyuges, parientes consanguíneos o afines de las partes en línea recta sin limitación de grado; o dentro del cuarto grado, en lo colateral por consanguinidad o dentro del segundo, en lo colateral por afinidad; o bien, de sus representantes legítimos o de las personas por ellos autorizadas;
 
@@ -796,19 +850,25 @@ VI. Si han conocido del asunto en primera instancia; y
 
 VII. Los demás que señale el Código de Procedimientos Civiles para el Distrito Federal.
 
-Incurren en responsabilidad el Magistrado o el Secretario de Acuerdos de la Sala del conocimiento que estando impedidos para intervenir en un negocio no se excusen.
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2012)</small>
+
+Incurren en responsabilidad el Magistrado, los Secretarios de Estudio y Cuenta o el Secretario de Acuerdos de la Sala del conocimiento que estando impedidos para intervenir en un negocio no se excusen.
+
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2012)</small>
 
 ###### Artículo 82.
 
-Los Magistrados y los Secretarios de Acuerdos que se consideren impedidos para conocer de algún negocio, presentarán la manifestación respectiva ante la Sala Superior a través de su Presidente.
+Los Magistrados, los Secretarios de Estudio y Cuenta y los Secretarios de Acuerdos que se consideren impedidos para conocer de algún negocio, presentarán la manifestación respectiva ante la Sala Superior a través de su Presidente.
 
 ###### Artículo 83.
 
 El impedimento base de la excusa, se calificará por la Sala Superior en el acuerdo en que se dé cuenta del mismo. En caso de empate, el Presidente tendrá voto de calidad. El manifestante podrá participar en las deliberaciones más no así en la decisión que se pronuncie.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE JULIO DE 2012)</small>
+
 ###### Artículo 84.
 
-Las partes podrán recusar a los Magistrados o Secretarios de las Salas, por cualquiera de las causas a que se refiere el artículo 81. La recusación se hará valer ante la Sala Superior, la que decidirá en los términos del artículo 83.
+Las partes podrán recusar a los Magistrados, Secretarios de Estudio y Cuenta o Secretarios de Acuerdos de las Salas, por cualquiera de las causas a que se refiere el artículo 81. La recusación se hará valer ante la Sala Superior, la que decidirá en los términos del artículo 83.
 
 La recusación se promoverá mediante escrito que se presente ante la Sala Superior, en el que se aporten las pruebas documentales en que se funde la petición, sin que sea admisible ningún otro medio de prueba.
 
@@ -848,13 +908,17 @@ X. La firma del actor, si éste no supiere o no pudiere firmar, lo hará un terc
 
 XI. Las pruebas que se ofrezcan.
 
-Las pruebas deben ofrecerse expresando con toda claridad, cuáles son los hechos o conceptos de nulidad que se tratan de probar con las mismas, así como las razones por las que el oferente estima que demostrarán sus afirmaciones, declarando en su caso en los términos anteriores el nombre y domicilio de testigos y peritos.
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2012)</small>
+
+Las pruebas deben ofrecerse relacionándolas con toda claridad, cuáles son los hechos que se tratan de probar con las mismas, así como las razones por las que el oferente estima que demostrarán sus afirmaciones, declarando en su caso en los términos anteriores el nombre y domicilio de testigos y peritos.
 
 Cuando se omitan los datos previstos en las fracciones I y X de este artículo, el Magistrado Instructor tendrá por no interpuesta la demanda.
 
-Si no señala domicilio para recibir notificaciones estas se harán por lista.
+> <small>(DEROGADO CUARTO PÁRRAFO, G.O. 24 DE JULIO DE 2012)</small>
 
-Cuando se omitan los datos previstos en las fracciones II, III, IV, V, VI, VII, VIII y IX de este artículo, el Magistrado Instructor requerirá al promovente para que los señale, así como las pruebas, dentro del plazo de cinco días siguientes a partir de que surta efectos la notificación del auto correspondiente, apercibiéndolo que de no hacerlo en tiempo, se desechará la demanda, salvo que no se cumpla con el requisito previsto en la fracción XI en cuyo caso se tendrán por no ofrecidas las pruebas.
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2012)</small>
+
+Cuando se omitan los datos previstos en las fracciones III, IV, V, VI, VII, VIII y IX de este artículo, el Magistrado Instructor requerirá al promovente para que los señale, así como las pruebas, dentro del plazo de cinco días siguientes a partir de que surta efectos la notificación del auto correspondiente, apercibiéndolo que de no hacerlo en tiempo, se desechará la demanda, salvo que no se cumpla con el requisito previsto en la fracción XI en cuyo caso se tendrán por no ofrecidas las pruebas. Por lo que hace al requisito de la fracción II, si no se señala domicilio para recibir notificaciones estas se harán por lista.
 
 ###### Artículo 86.
 
@@ -922,9 +986,17 @@ Cuando las pruebas documentales no obren en poder del demandante o cuando no hub
 
 Si no se adjuntan las copias a que se refiere este artículo, el Magistrado Instructor requerirá al promovente para que las presente dentro del plazo de cinco días. Si no las presenta dentro de dicho plazo, se tendrá por no presentada la ampliación a la demanda. Si se trata de las pruebas documentales o de los cuestionarios dirigidos a peritos y testigos, a que se refieren las fracciones IV, V y VI del artículo 86 de esta ley, las mismas se tendrán por no ofrecidas.
 
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2012)</small>
+
 ###### Artículo 90.
 
-Dentro del término de 48 horas de haber recibido la demanda, el Presidente del Tribunal la turnará al Magistrado que corresponda.
+Dentro del término de 48 horas de haber recibido la demanda, el Presidente del Tribunal la turnará al Magistrado que corresponda, quien la admitirá, o en los siguientes casos la desechará:
+
+I.- Si encontrare motivo manifiesto e indudable de improcedencia
+
+II.- Si siendo oscura o irregular y prevenido el actor para subsanarla, en el término de cinco días no lo hiciere; la oscuridad o irregularidad subsanables, sólo versarán respecto de los requisitos a que se refieren las fracciones III, IV, V, VI, VII, VIII y IX del artículo 85.
+
+Contra los autos de desechamiento a que se refiere este artículo, procede el recurso de reclamación.
 
 ###### Artículo 91.
 
@@ -962,7 +1034,9 @@ Tratándose de la prueba pericial o testimonial, se precisarán los hechos sobre
 
 El demandado deberá adjuntar a su contestación:
 
-I. Copias de la misma y de los documentos que acompañe para el demandante y para el tercero perjudicado señalado en la demanda, si lo hubiere;
+> <small>(REFORMADA, G.O. 24 DE JULIO DE 2012)</small>
+
+I. Copias de la misma y de los documentos que acompañe para el demandante y para el tercero interesado señalado en la demanda, si lo hubiere;
 
 II. El documento en que acredite su personalidad en los términos de las disposiciones jurídicas aplicables;
 
@@ -1016,9 +1090,11 @@ Cuando se solicite la suspensión para la realización de actividades reguladas,
 
 En contra del incumplimiento de las autoridades a la suspensión concedida, procederá la queja ante la Sala respectiva. La suspensión podrá ser revocada cuando se acredite que variaron las condiciones bajo las cuales se otorgó.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE JULIO DE 2012)</small>
+
 ###### Artículo 103.
 
-Tratándose de créditos fiscales, se concederá la suspensión, condicionada a que se garantice su importe ante la Tesorería del Distrito Federal en alguna de las formas y con los requisitos previstos en el Código Financiero del Distrito Federal.
+Tratándose de créditos fiscales, se concederá la suspensión, debiéndose garantizar su importe ante la Tesorería del Distrito Federal en alguna de las formas y con los requisitos previstos en el Código Fiscal del Distrito Federal.
 
 Si la suspensión fue concedida, dejará de surtir efectos si la garantía no se otorga dentro de los cinco días siguientes al en que quede notificado el auto que la hubiere concedido.
 
@@ -1208,6 +1284,10 @@ La Sala del conocimiento al pronunciar sentencia, suplirá las deficiencias de l
 
 En materia fiscal se suplirán las deficiencias de la demanda siempre y cuando de los hechos narrados se deduzca el concepto de nulidad.
 
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2012)</small>
+
+En materia registral, podrá revocarse la calificación del documento presentado al Registro Público de la Propiedad, cuya inscripción haya sido denegada y esta última no sea competencia del Tribunal Superior de Justicia del Distrito Federal, sin que pueda la Sala de conocimiento, en ningún momento, resolver sobre cuestiones de titularidad, características y modalidades de derechos reales.
+
 ###### Artículo 126.
 
 Las sentencias que emitan las Salas del Tribunal, no necesitan formulismo alguno, pero deberán contener:
@@ -1250,6 +1330,10 @@ e) Cuando no se dé a conocer al contribuyente visitado el resultado de una comp
 
 f) Cuando no se valore alguna prueba para acreditar los hechos asentados en el acta de visita o en la última acta parcial, siempre que dicha prueba no sea idónea para dichos efectos.
 
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2012)</small>
+
+Cuando se hagan valer diversas causales de ilegalidad, la Sala al emitir su sentencia, deberá examinar primero aquéllas que puedan llevar a declarar la nulidad lisa y llana de la resolución o acto administrativo impugnado.
+
 El Tribunal podrá hacer valer de oficio, por ser de orden público, la incompetencia de la autoridad para dictar la resolución impugnada o para ordenar o tramitar el procedimiento del que derive y la ausencia total de fundamentación o motivación en dicha resolución.
 
 ###### Artículo 128.
@@ -1262,7 +1346,13 @@ II. Declarar la nulidad lisa y llana del acto impugnado;
 
 III. Declarar la nulidad del acto impugnado para determinados efectos, debiendo precisar con claridad la forma y términos en que la autoridad debe cumplirla, salvo que se trate de facultades discrecionales; y
 
-IV. Sobreseer el juicio en los términos de la ley.
+> <small>(REFORMADA, G.O. 24 DE JULIO DE 2012)</small>
+
+IV. Tratándose de la anulación de resoluciones que confirmen la calificación hecha por el registrador en términos del artículo 43 de la Ley Registral para el Distrito Federal, la sentencia podrá ordenar la revocación de la calificación respectiva, a efecto de determinar la procedencia o no de la inscripción del mismo, la cual, de resultar procedente, surtirá efectos desde que por primera ves (sic) se presentó el título, sin que pueda la Sala de conocimiento, en ningún momento, resolver sobre cuestiones de titularidad, características y modalidades de derechos reales; y
+
+> <small>(ADICIONADA, G.O. 24 DE JULIO DE 2012)</small>
+
+V. Sobreseer el juicio en los términos de Ley.
 
 Si la sentencia obliga a la autoridad a realizar un determinado acto o a iniciar un procedimiento, deberá cumplirse en un plazo no mayor de quince días contados a partir de que la sentencia quede firme.
 
@@ -1272,9 +1362,11 @@ Siempre que se esté en el supuesto previsto en la fracción III de este artícu
 
 Cuando alguna de las partes estime que la sentencia es contradictoria, ambigua u obscura, podrá promover por una sola vez su aclaración dentro de los cinco días siguientes a la notificación. La aclaración no admite recurso alguno y se reputará parte de la sentencia, la que debe de resolver en un plazo de cinco días siguientes a la fecha en que sea interpuesta. La aclaración de sentencia podrá hacerse de oficio, dentro del mismo plazo que las partes tienen para promoverla.
 
-###### Artículo 130.
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2012)</small>
 
-Las sentencias pronunciadas por la Sala Superior del Tribunal de lo Contencioso Administrativo del Distrito Federal, causan ejecutoria por ministerio de Ley.
+###### Articulo 130.
+
+Causan ejecutoria por ministerio de ley las sentencias pronunciadas por la Sala Superior del Tribunal de lo Contencioso Administrativo del Distrito Federal así como las dictadas en los juicios tramitados en la vía sumaria a que se refiere el Capítulo XV del presente Título Segundo.
 
 ###### Artículo 131.
 
@@ -1312,6 +1404,10 @@ El recurso se substanciará corriendo traslado a las demás partes, por un térm
 
 Transcurrido dicho término, la Sala resolverá lo conducente.
 
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2012)</small>
+
+Contra las resoluciones que dicten las salas ordinarias en el recurso de reclamación, procederá el recurso de apelación ante la Sala Superior.
+
 ###### Artículo 137.
 
 Contra las resoluciones de las Salas Ordinarias y Auxiliares que decreten o nieguen sobreseimiento, las que resuelvan el juicio o la cuestión planteada en el fondo, y las que pongan fin al procedimiento serán apelables por cualquiera de las partes ante la Sala Superior.
@@ -1320,9 +1416,11 @@ Contra las resoluciones de las Salas Ordinarias y Auxiliares que decreten o nieg
 
 El recurso de apelación tiene por objeto que la Sala Superior confirme, ordene reponer el procedimiento, revoque o modifique las resoluciones dictadas por las Salas Ordinarias y Auxiliares.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE JULIO DE 2012)</small>
+
 ###### Artículo 139.
 
-El recurso de apelación se interpondrá por escrito con expresión de agravios ante el Magistrado que dicte la resolución, dentro de los diez días siguientes al en que surta efectos la notificación de la resolución que se impugna.
+El recurso de apelación se interpondrá por escrito con expresión de agravios ante el Magistrado Instructor del juicio, dentro de los diez días siguientes al en que surta efectos la notificación de la resolución que se impugna.
 
 El Magistrado Instructor dentro de los cinco días siguientes a que tenga integrado el expediente del juicio lo remitirá al Presidente de la Sala Superior.
 
@@ -1330,9 +1428,27 @@ El Presidente de la Sala Superior, al admitir a trámite el recurso designará a
 
 Vencido dicho término, el Magistrado Ponente formulará el proyecto y dará cuenta del mismo a la Sala Superior en un plazo de sesenta días.
 
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2012)</small>
+
 ###### Artículo 140.
 
-Contra las resoluciones de la Sala Superior a que se refiere el artículo anterior, las partes podrán interponer los medios de defensa previstos en la Ley de Amparo.
+Contra las resoluciones de la Sala Superior a que se refiere el artículo anterior, las autoridades podrán interponer el recurso de revisión ante el Tribunal Colegiado de Circuito competente por conducto de la Sala Superior, mediante escrito dirigido a dicho Tribunal dentro del término de 15 días siguientes a aquel en que surta efectos la notificación respectiva, en los casos siguientes:
+
+I. Cuando la resolución que se dicte afecte el interés fiscal o el patrimonio del Distrito Federal;
+
+II. Cuando se trate de la interpretación de leyes o reglamentos;
+
+III. Cuando se trate de las formalidades esenciales del procedimiento;
+
+IV. Cuando se fije el alcance de los elementos constitutivos de las contribuciones;
+
+V. Por violaciones procesales cometidas durante el juicio siempre que afecten las defensas del recurrente y trasciendan al sentido del fallo; o por violaciones cometidas en las propias resoluciones o sentencias;
+
+VI. Cuando el negocio sea de importancia y trascendencia, debiendo el recurrente razonar tal circunstancia;
+
+VII. Cuando se trate de resoluciones en materia de responsabilidades administrativas de los servidores públicos o la ley que resulte aplicable; y
+
+VIII. Cuando el valor del negocio exceda de 20 veces el salario mínimo general vigente elevado al año en el Distrito Federal, al momento de emitirse la resolución de que se trate.
 
 ### CAPITULO XIV. De la Jurisprudencia
 
@@ -1359,6 +1475,146 @@ Los Magistrados de la Sala Superior podrán proponer la interrupción de una jur
 ###### Artículo 145.
 
 Las Salas del Tribunal están obligadas a aplicar la jurisprudencia del Tribunal, salvo que ésta contravenga la jurisprudencia del Poder Judicial Federal.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 24 DE JULIO DE 2012)</small>
+
+### CAPÍTULO XV. DEL JUICIO EN LA VÍA SUMARIA
+
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2012)</small>
+
+###### Artículo 146.
+
+El juicio contencioso administrativo a que se refiere esta Ley se tramitará y resolverá en la vía sumaria, de conformidad con las disposiciones específicas que para su simplificación y abreviación se establecen en este Capítulo y, en lo no previsto, se aplicarán las demás disposiciones de esta Ley.
+
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2012)</small>
+
+###### Artículo 147.
+
+Cuando se impugnen resoluciones definitivas cuyo importe no exceda de dos veces el salario mínimo general vigente en el Distrito Federal elevado al año al momento de su emisión, procederá el Juicio en la vía Sumaria siempre que se trate de alguna de las resoluciones definitivas siguientes:
+
+I. Las dictadas por autoridades del Distrito Federal, por las que se fije en cantidad líquida un crédito fiscal;
+
+II. Las que únicamente impongan multas o sanciones, pecuniaria o restitutoria, por infracción a las normas administrativas vigentes en el Distrito Federal;
+
+III. Las que exijan el pago de créditos fiscales, cuando el monto de los exigibles no exceda el importe citado;
+
+IV. Las recaídas a un recurso administrativo, cuando la impugnada sea alguna de las consideradas en los incisos anteriores y el importe de esta última, no exceda el antes señalado.
+
+Para determinar la cuantía en los casos de las fracciones I, II y III, sólo se considerará el crédito principal sin accesorios ni actualizaciones.
+
+Cuando en un mismo acto se contenga más de una determinación de las mencionadas anteriormente no se acumulará el monto de cada una de ellas para efectos de determinar la procedencia de esta vía.
+
+La demanda deberá presentarse por escrito dirigido al Tribunal, dentro de los quince días siguientes a aquél en que surta efectos la notificación de la resolución impugnada o del día siguiente al que se hubiera tenido conocimiento u ostentado sabedor del mismo o de su ejecución.
+
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2012)</small>
+
+###### Artículo 148.
+
+La tramitación del Juicio en la vía Sumaria será improcedente cuando:
+
+I. No se encuentre en alguno de los supuestos previstos en el artículo 147;
+
+II. Se trate de sanciones económicas en materia de responsabilidades administrativas de los servidores públicos;
+
+III. Se trate de multas por infracciones a las normas en materia ambiental;
+
+IV. Se trate de resoluciones que además de imponer una multa o sanción pecuniaria, incluyan alguna otra carga u obligación.
+
+En estos casos, en el primer acuerdo que se dicte, el Magistrado Instructor determinará la improcedencia de la vía sumaria y ordenará que el juicio se siga conforme a las demás disposiciones de esta Ley.
+
+Contra la determinación de improcedencia de la vía sumaria, podrá interponerse el recurso de reclamación.
+
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2012)</small>
+
+###### Artículo 149.
+
+Una vez admitida la demanda, se correrá traslado al demandado para que la conteste dentro del término de diez días y emplazará, en su caso, al tercero, para que en igual término, se apersone en juicio.
+
+En el mismo auto en que se admita la demanda, se fijará día y hora para la audiencia de desahogo de pruebas y alegatos. Dicha fecha no excederá de los veinte días siguientes al de emisión de ese auto.
+
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2012)</small>
+
+###### Artículo 150.
+
+El Magistrado proveerá la correcta integración del juicio, mediante el desahogo oportuno de las pruebas, a más tardar en la fecha prevista para la celebración de la audiencia.
+
+Serán aplicables, en lo conducente, las reglas contenidas en el Capítulo VIII del Título Segundo de esta Ley.
+
+Por lo que toca a la prueba pericial, ésta se desahogará en los términos que prevé el artículo 116 de esta Ley, con la salvedad de que todos los plazos serán de tres días, incluyendo el que corresponde a la rendición y ratificación del dictamen, en el entendido de que cada perito deberá hacerlo en un solo acto ante el Magistrado Instructor.
+
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2012)</small>
+
+###### Artículo 151.
+
+El actor podrá ampliar la demanda, en los casos a que se refiere el artículo 89 de esta Ley, en un plazo de cinco días siguientes a aquél en que surta efectos la notificación del auto que tenga por presentada la contestación.
+
+La parte demandada o en su caso el tercero, contestarán la ampliación a la demanda, en el plazo de cinco días siguientes a que surta efectos la notificación de su traslado.
+
+En caso de omisión de los requisitos y documentos a que se refieren los artículos 85, 86, 89, último párrafo, y 95, último párrafo de esta Ley, las partes deberán subsanarla en el plazo de tres días siguientes a aquél en que surta efectos la notificación del requerimiento o prevención.
+
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2012)</small>
+
+###### Artículo 152.
+
+Los incidentes a que se refiere el artículo 53 de esta Ley, podrán promoverse dentro de los tres días siguientes a que surtió efectos la notificación del auto que tuvo por presentada la contestación de la demanda o, en su caso, la contestación a la ampliación.
+
+El incidente de acumulación sólo podrá plantearse respecto de expedientes que se encuentren tramitándose en esta misma vía y con las características de los juicios previstas en este capítulo.
+
+Los incidentes de nulidad de notificaciones y de interrupción del procedimiento, se deberán interponer dentro del plazo de tres días siguientes a aquél en que se conoció del hecho, respectivamente, y la contraparte deberá contestar la vista en igual término.
+
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2012)</small>
+
+###### Artículo 153.
+
+El recurso de reclamación a que se refiere el artículo 134 de esta Ley, deberá interponerse dentro del plazo de tres días siguientes a aquél en que surta efectos la notificación del proveído o acuerdo correspondiente del Magistrado Instructor, y se tramitará en términos de lo dispuesto en los artículos 135 y 136 de la misma.
+
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2012)</small>
+
+###### Artículo 154.
+
+La suspensión de los actos impugnados se tramitará conforme a las reglas generales establecidas en el Capítulo VII del Título Segundo de esta Ley.
+
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2012)</small>
+
+###### Artículo 155.
+
+En los casos de suspensión del juicio, por surtirse alguno de los supuestos contemplados para ello en esta Ley, en el auto en que el Magistrado Instructor acuerde la reanudación del procedimiento, fijará fecha para la celebración de la audiencia, en su caso, dentro de los cinco días siguientes a aquél en que haya surtido efectos la notificación a las partes de la reanudación del juicio.
+
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2012)</small>
+
+###### Artículo 156.
+
+Las partes podrán presentar sus alegatos por escrito antes de la fecha señalada para la audiencia.
+
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2012)</small>
+
+###### Artículo 157.
+
+En la fecha fijada para la audiencia, el Magistrado Instructor procederá a verificar si el expediente se encuentra debidamente integrado; en caso contrario, fijará nueva fecha para la celebración de dicha audiencia, dentro de un plazo máximo de diez días.
+
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2012)</small>
+
+###### Artículo 158.
+
+Una vez celebrada la audiencia de ley, la Sala pronunciará sentencia dentro de los cinco días hábiles siguientes.
+
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2012)</small>
+
+###### Artículo 159.
+
+En contra de las sentencias que se dicten con motivo del juicio previsto en este capítulo, no procederá el recurso de apelación señalado en el artículo 137 de esta Ley.
+
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2012)</small>
+
+###### Artículo 160.
+
+Si la sentencia ordena la reposición del procedimiento administrativo o realizar un determinado acto, la autoridad deberá cumplirla en un plazo que no exceda de quince días contados a partir de que dicha sentencia haya quedado firme de conformidad con el artículo que antecede.
+
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2012)</small>
+
+###### Artículo 161.
+
+A falta de disposición expresa que establezca el plazo respectivo en la vía sumaria, se aplicará el de tres días.
 
 ## TRANSITORIOS
 
@@ -1397,3 +1653,31 @@ Los Magistrados que fueron nombrados con anterioridad a la reforma que entro en 
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veinte días del mes de agosto del año dos mil nueve.- POR LA MESA DIRECTIVA.- DIP. ISAÍAS VILLA GONZÁLEZ, PRESIDENTE.- DIP. AVELINO MÉNDEZ RANGEL, SECRETARIO.- DIP. ELVIRA MURILLO MENDOZA, SECRETARIA.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintiocho días del mes de agosto del año dos mil nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 24 DE JULIO DE 2012.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 12, PRIMER PÁRRAFO, 15, 16, 17, 19, SEGUNDO PÁRRAFO, 20, PRIMER PÁRRAFO, 24, FRACCIÓN VI, 25, FRACCIONES III Y IV, 26, FRACCIONES VI Y VIII, 30, FRACCIÓN XXVI, 32, 39, 52, SEGUNDO PÁRRAFO, 81, PÁRRAFOS PRIMERO Y ÚLTIMO, 82, 84, PRIMER PÁRRAFO, 85, 90, 95, FRACCIÓN I, 103, PRIMER PÁRRAFO Y 139, PRIMER PÁRRAFO; SE ADICIONAN UN SEGUNDO PÁRRAFO AL ARTÍCULO 12, LA FRACCIÓN XXVII AL ARTÍCULO 30, DOS FRACCIONES Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 90, Y UN PENÚLTIMO PÁRRAFO AL ARTÍCULO 127; Y SE DEROGA EL CUARTO PÁRRAFO DEL ARTÍCULO 85, RECORRIÉNDOSE EL SUBSECUENTE; TODOS ELLOS DE LA LEY ORGÁNICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL DISTRITO FEDERAL.
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Tercero.- El Tribunal de lo contencioso Administrativo del Distrito Federal dispondrá de ciento ochenta días naturales a partir de la expedición del presente Decreto, para formular e instrumentar sus respectivos reglamentos interiores.
+
+Cuarto.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+Quinto.- Los juicios actualmente en trámite se regirán hasta su conclusión por las disposiciones vigentes con anterioridad a la entrada en vigor del presente decreto.
+
+G.O. 24 DE JULIO DE 2012.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 6 EN SU SEGUNDO PÁRRAFO, 39, 51 EN SU PRIMER PÁRRAFO, EL TERCER PÁRRAFO DEL ARTÍCULO 52, EL PRIMER PÁRRAFO DEL ARTÍCULO 68, LA FRACCIÓN IV DEL ARTÍCULO 128, EL ARTÍCULO 130 Y EL ARTÍCULO 140; SE DEROGA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 28 Y SE ADICIONAN EL ARTÍCULO 49 BIS, UN SEGUNDO PÁRRAFO AL ARTÍCULO 51, UN CUARTO PÁRRAFO AL ARTÍCULO 53, UN TERCER PÁRRAFO AL ARTÍCULO 125, UNA FRACCIÓN V AL ARTÍCULO 128, UN TERCER PÁRRAFO AL ARTÍCULO 136 Y UN CAPÍTULO XV DENOMINADO DEL JUICIO EN LA VÍA SUMARIA, CON LOS ARTÍCULOS 146 A 161 AL TÍTULO SEGUNDO, TODOS DE LA LEY ORGÁNICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL DISTRITO FEDERAL.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- La vía sumaria será procedente en los juicios que se inicien a partir de la entrada en vigor del presente Decreto.
+
+Tercero.- La Sala Superior del Tribunal de lo Contencioso Administrativo del Distrito Federal, adscribirá a los secretarios de acuerdos y demás personal necesario de las seis Ponencias de la Sala Superior a las Salas Ordinarias, en un plazo no mayor a 15 días posteriores a la entrada en vigor del presente decreto, a efecto de que se pueda atender con mayor eficacia las disposiciones contenidas en el Capítulo XV del presente Decreto.
+
+Cuarto.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el diario Oficial de la Federación.
