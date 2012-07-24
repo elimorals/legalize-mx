@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-del-servicio-policial-de-carrera-del-estado-de-74932
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-07-04"
-last_updated: "2012-07-19"
+last_updated: "2012-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74932&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,13 +20,13 @@ state: "TAM"
 ---
 # REGLAMENTO DEL SERVICIO POLICIAL DE CARRERA DEL ESTADO DE TAMAULIPAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE JULIO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DEL SERVICIO POLICIAL DE CARRERA DEL ESTADO DE TAMAULIPAS
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DEL DESARROLLO POLICIAL DE LAS INSTITUCIONES PREVENTIVAS DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 19 DE JULIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE JULIO DE 2012.</small>
 
 Reglamento publicado en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 4 de julio de 2000.
 
@@ -368,8 +368,56 @@ EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. TOMAS YARRINGTON RUVALCABA.- E
 
 P.O. 19 DE JULIO DE 2012.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS ARTÍCULOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE JULIO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., 24 DE JULIO DE 2012)</small>
 
-Artículo primero.- Este Reglamento se publicará en el Periódico Oficial del Estado y entrará en vigor a los 30 días siguientes.
+###### ARTÍCULO PRIMERO.
 
-Artículo segundo.- Al personal que hubiere ingresado a las instituciones preventivas de seguridad pública estatal con anterioridad a la entrada en vigor de este Reglamento, se le aplicarán las previsiones del mismo para efectos de si (sic) incorporación a la Carrera Policial. En todo caso, dicho personal deberá apegarse a las disposiciones propias de permanencia y desarrollo policial.
+Este Reglamento entrará en vigor a los noventa días de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+> <small>(F. DE E., 24 DE JULIO DE 2012)</small>
+
+###### ARTÍCULO SEGUNDO.
+
+Al personal que hubiere ingresado a las instituciones preventivas de seguridad pública estatal con anterioridad a la entrada en vigor de este Reglamento, se le aplicarán las previsiones del mismo para efectos de su incorporación a la Carrera Policial. En todo caso, dicho personal deberá apegarse a las disposiciones propias de permanencia y desarrollo policial.
+
+> <small>(F. DE E., 24 DE JULIO DE 2012)</small>
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos iniciados con las disposiciones anteriores al presente Reglamento, deberán incluirse con el procedimiento el cual fueron iniciados.
+
+> <small>(F. DE E., 24 DE JULIO DE 2012)</small>
+
+###### ARTÍCULO CUARTO.
+
+Se abroga el Reglamento del Servicio Policial de Carrera para (sic) Estado de Tamaulipas, publicado mediante Acuerdo Gubernamental Anexo al Periódico Oficial del Estado de Tamaulipas número 63, de fecha 04 de julio de 2000.
+
+> <small>(F. DE E., 24 DE JULIO DE 2012)</small>
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+> <small>(F. DE E., 24 DE JULIO DE 2012)</small>
+
+###### ARTÍCULO SEXTO.
+
+El Servicio Profesional de Carrera Policial de las Instituciones Preventivas de Seguridad Pública del Estado de Tamaulipas se establecerá de forma gradual, de conformidad con las disposiciones presupuestales y los acuerdos que se celebren con el Estado.
+
+> <small>(F. DE E., 24 DE JULIO DE 2012)</small>
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Seguridad Pública del Estado llevará a cabo las acciones necesarias a fin de elaborar el Manual de Organización, un catálogo de puestos, los manuales de procedimientos y la herramienta de seguimiento y control.
+
+> <small>(F. DE E., 24 DE JULIO DE 2012)</small>
+
+###### ARTÍCULO OCTAVO.
+
+La Secretaría celebrará convenios de coordinación con los Municipios que integran la Entidad Federativa, respetando la autonomía municipal, a fin de implementar y homologar gradualmente el Servicio Profesional de Carrera Policial.
+
+> <small>(F. DE E., 24 DE JULIO DE 2012)</small>
+
+###### ARTÍCULO NOVENO.
+
+Lo no previsto en el presente Reglamento, será resuelto en única instancia por el Secretario de Seguridad Pública del Estado.
