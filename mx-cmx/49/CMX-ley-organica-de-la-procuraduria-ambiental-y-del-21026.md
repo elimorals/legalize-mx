@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-procuraduria-ambiental-y-del-21026"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-04-24"
-last_updated: "2011-12-15"
+last_updated: "2012-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21026&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2001-04-09"
 
 LEY ORGÁNICA DE LA PROCURADURÍA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE JULIO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 24 de abril de 2001.
 
@@ -278,7 +278,7 @@ III. Tener conocimientos y experiencia acreditable en materia ambiental y de ord
 
 IV. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena privativa de libertad y no encontrarse inhabilitado(a) conforme a las disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE ENERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE ENERO DE 2006)</small>
 
 ###### Artículo 9°.
 
@@ -288,7 +288,7 @@ La o el Procurador sólo podrá ser removido en términos del Título Cuarto de 
 
 En ese supuesto o en el de renuncia, la o el Procurador será sustituido interinamente por alguno(a) de los Subprocuradores que designe el Consejo, en tanto se procede al nombramiento por la o el Jefe de Gobierno, bajo el procedimiento de ratificación establecido en la presente Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 10.
 
@@ -496,9 +496,9 @@ Los Consejeros Ciudadanos durarán en su encargo tres años, prorrogables por un
 
 El Reglamento de esta Ley establecerá, entre otros aspectos, las reglas a que se sujetará el Comité Técnico Asesor, respecto de su operación y funcionamiento, periodicidad de reuniones, quórum para sesionar, toma de decisiones, así como substitución y ratificación de consejeros ciudadanos.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO POR EL QUE SE REFORMA Y ADICIONA LA LEY, EL PRESENTE ARTICULO HA SIDO MODIFICADO EN CUANTO A SU ESTRUCTURA; POR TAL MOTIVO, SE PRESENTA EL TEXTO APROBADO Y PUBLICADO EN LA G.O. DE 31 DE OCTUBRE DE 2008.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO POR EL QUE SE REFORMA Y ADICIONA LA LEY, EL PRESENTE ARTÍCULO HA SIDO MODIFICADO EN CUANTO A SU ESTRUCTURA; POR TAL MOTIVO, SE PRESENTA EL TEXTO APROBADO Y PUBLICADO EN LA G.O. DE 31 DE OCTUBRE DE 2008.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 15 Bis 4.
 
@@ -716,27 +716,21 @@ En todos los casos que se requiera, la Procuraduría levantará acta circunstanc
 
 La formulación de denuncias, así como las resoluciones, recomendaciones y sugerencias que emita la Procuraduría, no afectarán el ejercicio de otros derechos y medios de defensa que puedan corresponder a los afectados conforme a las leyes, no suspenderán ni interrumpirán sus plazos preclusivos, de prescripción o caducidad. Esta circunstancia deberá señalarse a los interesados en el acuerdo de admisión de la instancia.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 9 DE ENERO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 9 DE ENERO DE 2006)</small>
 
 #### Sección II. De la Denuncia Ciudadana
 
-> <small>(REFORMADO Y REUBICADO, G.O. 9 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2012)</small>
 
 ###### Artículo 22.
 
-Toda persona, grupo social, organización no gubernamental, asociación o sociedad podrá denunciar ante la Procuraduría, cualquier hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al ambiente o a los recursos naturales, o constituya o pueda constituir una contravención o falta de aplicación de las disposiciones jurídicas en materia ambiental o del ordenamiento territorial del Distrito Federal.
+Toda persona, comités ciudadanos y consejos del pueblo electos, grupo social, organización no gubernamental, asociación o sociedad, podrá denunciar ante la procuraduría cualquier hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al ambiente o a los recursos naturales, o constituya o pueda constituir una contravención o falta de aplicación de las disposiciones jurídicas en materia ambiental o del ordenamiento territorial del Distrito Federal.
 
-La denuncia podrá ser presentada por escrito, vía telefónica o por cualquier medio electrónico.
-
-Excepto cuando la denuncia sea presentada por escrito, deberá ser ratificada por el o los interesados, dentro del término de tres días hábiles posteriores a que se comunicaron a la Procuraduría los actos, hechos u omisiones respectivos; de no ser así, la denuncia se tendrá por no presentada. Sin embargo, si a juicio de la Procuraduría el asunto lo amerita, podrá llevar a cabo las investigaciones que correspondan.
-
-El servidor público que reciba una denuncia vía telefónica o por medios electrónicos, deberá realizar el registro correspondiente, en el cual se hará constar tal circunstancia.
-
-> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2012)</small>
 
 ###### Artículo 22 Bis.
 
-Los grupos sociales y las organizaciones no gubernamentales que presenten con tal carácter denuncias en los términos de esta Ley, deberán designar un representante común.
+Los grupos sociales, comités ciudadanos y consejos del pueblo electos y las organizaciones no gubernamentales que presenten con tal carácter denuncias en los términos de ley, deberán designar un representante común.
 
 > <small>(ADICIONADO, G.O. 9 DE ENERO DE 2006)</small>
 
@@ -884,7 +878,7 @@ II. La capacitación permanente de investigadores, y
 
 III. La renovación anual de las acreditaciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 27.
 
@@ -970,7 +964,7 @@ Las conclusiones del expediente, que serán la base de las resoluciones, Recomen
 
 Concluida la investigación respectiva, se deberán analizar los actos, hechos u omisiones, los argumentos y pruebas, así como los elementos de convicción y las diligencias practicadas, a fin de determinar si existen o han existido violaciones, incumplimientos o falta de aplicación de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial, con el propósito de formular el proyecto de resolución, recomendación o sugerencia que corresponda.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 9 DE ENERO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 9 DE ENERO DE 2006)</small>
 
 #### Sección III. De las Recomendaciones y Sugerencias
 
@@ -1120,7 +1114,7 @@ ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL II LEGISLATURA.- Recinto Legislativo, 
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; - 48, 49, y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los nueve días del mes de abril del año dos mil uno. JEFE DE GOBIERNO DEL DISTRITO FEDERAL. II LEGISLATURA- ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, CLAUDIA SHEINBAUM PARDO.- FIRMA.- EL SECRETARIO DE FINANZAS, CARLOS MANUEL URZÚA MACÍAS.- FIRMA.- LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA, LAURA ITZEL CASTILLO JUÁREZ.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 9 DE ENERO DE 2006.
 
@@ -1165,3 +1159,9 @@ G.O. 15 DE DICIEMBRE DE 2011.
 PRIMERO: Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
 SEGUNDO: El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 25 DE JULIO DE 2012.
+
+PRIMERO: Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO: El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
