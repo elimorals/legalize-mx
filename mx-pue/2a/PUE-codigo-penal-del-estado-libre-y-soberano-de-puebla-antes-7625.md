@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2012-03-05"
+last_updated: "2012-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "PUE"
 
 CÓDIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2012.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 5 DE MARZO DE 2012 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 4 DE ENERO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2012.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -571,13 +569,13 @@ II.- Si el ofendido o la persona que tuviere derecho al pago de la reparación d
 
 Si se trata de delitos que afecten la vida o la integridad corporal, el monto de la reparación del daño no podrá ser menor del que resulte de aplicar las disposiciones relativas de la Ley Federal del Trabajo.
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 51 Quinquies.
 
 En los delitos cometidos por servidores públicos a que se refiere el Capítulo Decimonoveno de este Código, la reparación del daño consistirá en la aplicación de hasta tres tantos del lucro obtenido y de los daños y perjuicios causados.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE ENERO DE 2012)</small>
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
 
 ### CAPITULO DUODECIMO.- REGLAS DEL ASEGURAMIENTO DE BIENES, ENAJENACIÓN DE BIENES ABANDONADOS, DECOMISO, PÉRDIDA DE LOS INSTRUMENTOS DEL DELITO Y DESTRUCCIÓN DE COSAS PELIGROSAS O NOCIVAS
 
@@ -655,11 +653,9 @@ Las autoridades competentes procederán al aseguramiento de los bienes que pudie
 
 Si los instrumentos o cosas decomisadas son substancias nocivas o peligrosas se destruirán a juicio de la autoridad que esté conociendo, la que de estimarlo conveniente, podrá determinar su conservación para fines de docencia o investigación.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2010)</small>
-
 ###### Artículo 56 Bis.
 
-Los objetos, bienes o valores que no hayan sido reclamados en el término señalado en el artículo 53 Bis por quien tenga derecho a ellos, serán declarados en estado de abandono, mediante acuerdo que emita la autoridad investigadora, el cual se publicará por una sola vez en el Periódico Oficial del Estado y en un diario de mayor circulación en la Entidad, para que en el improrrogable término de treinta días naturales realice las impugnaciones correspondientes ante la autoridad investigadora; transcurrido el plazo sin reclamación alguna, el acuerdo surtirá sus efectos legales.
+(DEROGADO, P.O. 25 DE JULIO DE 2012)
 
 > <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2010)</small>
 
@@ -5520,6 +5516,12 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 4 DE ENERO DE 2012.
 
 DECRETO ÚNICO POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 245 BIS, LA FRACCIÓN XXIII DEL 404; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 355 Y LA FRACCIÓN XXIV AL 404, TODOS DEL CÓDIGO DE DEFENSA SOCIAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE JULIO DE 2012.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
