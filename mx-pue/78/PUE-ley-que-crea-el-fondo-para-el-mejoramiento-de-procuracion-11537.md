@@ -4,7 +4,7 @@ identifier: "PUE-ley-que-crea-el-fondo-para-el-mejoramiento-de-procuracion-11537
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-04"
-last_updated: "1996-06-04"
+last_updated: "2012-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # LEY QUE CREA EL FONDO PARA EL MEJORAMIENTO DE PROCURACION DE JUSTICIA EN EL ESTADO DE PUEBLA
 
-LEY QUE CREA EL FONDO PARA EL MEJORAMIENTO DE LA PROCURACION DE JUSTICIA EN EL ESTADO DE PUEBLA
+LEY QUE CREA EL FONDO PARA EL MEJORAMIENTO DE LA PROCURACIÓN DE JUSTICIA EN EL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2012.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el martes 4 de junio de 1996.
 
@@ -91,19 +91,33 @@ I.- Fondos propios:
 
 a).- El importe de las cauciones que se hagan efectivas por el Ministerio Público, en términos de lo dispuesto por el artículo 353 fracción II, del Código de Procedimientos en Materia de Defensa Social;
 
-b).- El producto de la venta de los bienes asegurados a los indiciados, que no sean reclamados en términos de lo dispuesto por el artículo 56 Bis del Código de Defensa Social para el Estado;
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
 
-c).- Los intereses que generen los depósitos que ante el Ministerio Público realicen los indiciados; y
+b).- El producto de la venta de los bienes asegurados a los indiciados, que hayan causado abandono en términos de lo dispuesto por el artículo 53 Bis del Código de Defensa Social para el Estado Libre y Soberano de Puebla;
 
-d).- Las donaciones y aportaciones a favor del Fondo;
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
+
+c).- Los intereses que generen los depósitos que ante el Ministerio Público realicen los indiciados;
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
+
+d).- Las donaciones y aportaciones a favor del Fondo; y
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2012)</small>
+
+e).- El producto de la enajenación de los bienes de los que se haya declarado extinción de dominio, en términos de la Ley de la materia.
 
 II.- Fondos ajenos:
 
 a).- Los depósitos que para gozar de su libertad provisional, realicen los indiciados, mientras no deban remitirse al Organo Jurisdiccional o reintegrarse a los inculpados;
 
-b).- Las garantías que para la autorización y registro de los Servicios Privados de Seguridad, realicen los solicitantes; y
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
 
-c).- El producto de la venta de los bienes asegurados a los indiciados que no sean reclamados, durante el lapso de seis meses, contados a partir de la enajenación de los bienes en subasta pública, de conformidad con los ordenamientos legales aplicables de esta materia.
+b).- El producto de la venta de los bienes asegurados a los indiciados que no sean reclamados, durante el lapso de treinta días, contados a partir de la enajenación de los bienes en subasta pública, de conformidad con los ordenamientos legales aplicables de esta materia; y
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
+
+c).- Los depósitos y recursos de los que la Procuraduría General de Justicia del Estado tenga la custodia y aprovechamiento pero no la propiedad.
 
 ###### ARTICULO 6º.
 
@@ -145,9 +159,11 @@ El Consejo Técnico determinará en qué Institución Bancaria se invertirán la
 
 ### CAPITULO III. DE LA APLICACION DEL FONDO
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 15.
 
-El Consejo Técnico determinará la disposición anual, hasta del sesenta por ciento del promedio ponderado anual de los recursos propios del Fondo.
+El Consejo Técnico determinará la disposición de los fondos propios a que se refiere la fracción I del artículo 5 de esta Ley, previendo una reserva para efectos de responder a las obligaciones eventuales que pudieran corresponder al Fondo a favor de terceros.
 
 ###### ARTICULO 16.
 
@@ -157,9 +173,15 @@ I.- La compra de equipo y materiales necesarios;
 
 II.- La adquisición, mejoramiento y ampliación de instalaciones;
 
-III.- La capacitación y profesionalización del personal de la Procuraduría; y
+III.- La capacitación y profesionalización del personal de la Procuraduría; y (sic)
 
-IV.- El otorgamiento de estímulos y recompensas al personal de la Procuraduría.
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2012)</small>
+
+IV.- El otorgamiento de estímulos y recompensas al personal de la Procuraduría; y
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2012)</small>
+
+V.- Los gastos generados por la custodia, mantenimiento y vigilancia de los bienes asegurados por el Ministerio Público.
 
 ## TRANSITORIOS
 
@@ -178,3 +200,11 @@ Siempre que para el mejor cumplimiento de lo dispuesto en esta Ley, sea necesari
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo en la Heroica Ciudad de Puebla de Zaragoza a los catorce días del mes de marzo de mil novecientos noventa y seis.- WILLEBALDO GARCIA DE LA CADENA ROMERO.- Diputado Presidente.- Rúbrica.- JOSE MARIA SOLANA RIVERO.- Diputado Secretario.- Rúbrica.- SAUL CORONEL AGUIRRE.- Diputado Secretario.- Rúbrica.
 
 POR LO TANTO, MANDO SE IMPRIMA , PUBLIQUE Y CIRCULE PARA SUS EFECTOS. DADO EN EL PALACIO DEL PODER EJECUTIVO, EN LA HEROICA CIUDAD DE PUEBLA DE ZARAGOZA A LOS VEINTE DIAS DEL MES DE MARZO DE MIL NOVECIENTOS NOVENTA Y SEIS.- El Gobernador Constitucional del Estado.- LICENCIADO MANUEL BARTLETT DIAZ.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE JULIO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
