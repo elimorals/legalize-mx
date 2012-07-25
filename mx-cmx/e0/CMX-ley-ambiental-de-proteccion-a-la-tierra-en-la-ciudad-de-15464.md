@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2012-05-31"
+last_updated: "2012-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-31"
 
 LEY AMBIENTAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE JULIO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -66,9 +66,13 @@ V. Prevenir y controlar la contaminación del aire, agua y suelo en el Distrito 
 
 VI. Establecer las medidas de control, de seguridad y las sanciones administrativas que correspondan, para garantizar el cumplimiento y la aplicación de esta ley y de las disposiciones que de ella se deriven;
 
-VII. Regular por daños al ambiente y establecer los mecanismos adecuados para garantizar la incorporación de los costos ambientales en los procesos productivos; y
+VII. Regular por daños al ambiente y establecer los mecanismos adecuados para garantizar la incorporación de los costos ambientales en los procesos productivos; y (sic)
 
 VIII. Establecer el ámbito de participación de la sociedad en el desarrollo y la gestión Ambiental.
+
+> <small>(ADICIONADA, G.O. 25 DE JULIO DE 2012)</small>
+
+IX. Promover y establecer el ámbito de participación ciudadana individual, colectiva o a través de los órganos de representación ciudadana e instrumentos de participación ciudadana en los términos de la ley, en el desarrollo sustentable y de gestión ambiental.
 
 ###### ARTÍCULO 2°.
 
@@ -414,7 +418,9 @@ I. Formular, conducir y evaluar la política ambiental en el Distrito Federal, c
 
 II. Establecer el fondo ambiental a que se refiere la presente Ley para la investigación, estudio y atención de aquellos asuntos que en materia ambiental se consideren de interés para el Distrito Federal;
 
-III. Promover la participación en materia ambiental de las organizaciones sociales, civiles y empresariales, instituciones académicas, y ciudadanos interesados;
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2012)</small>
+
+III. Promover la participación ciudadana en materia ambiental individual, colectiva o a través de los órganos de representación ciudadana e instrumentos de participación ciudadana, así como de las organizaciones sociales, civiles y empresariales e instituciones académicas;
 
 IV. Proponer que en las disposiciones del Código Financiero del Distrito Federal, se establezca el pago de derechos por la prestación de los servicios públicos en materia ambiental;
 
@@ -504,7 +510,9 @@ XV. Proponer la declaración de zonas de restauración ecológica;
 
 XVI. Proponer la declaración de zonas intermedias de salvaguarda;
 
-XVII. Promover la participación de la ciudadanía en materia ambiental;
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2012)</small>
+
+XVII. Promover la participación ciudadana en materia ambiental individual, colectiva o a través de los órganos de representación ciudadana e instrumentos de participación ciudadana;
 
 XVIII. Realizar y promover en forma coordinada, concertada y corresponsable, acciones relacionadas con la conservación del ambiente, la protección ecológica y la restauración del equilibrio ecológico, entre las organizaciones sociales, civiles y empresariales, así como con los ciudadanos interesados, a fin de desarrollar en la población, una mayor cultura ambiental, y promover el mejor conocimiento de esta Ley;
 
@@ -652,7 +660,9 @@ I. Proponer y opinar, según el caso, respecto del establecimiento de áreas de 
 
 II. Celebrar convenios con el Gobierno del Distrito Federal para la administración y preservación de las áreas naturales protegidas, los recursos naturales y la biodiversidad;
 
-III. Promover la participación de la ciudadanía en materia ambiental;
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2012)</small>
+
+III. Promover la participación ciudadana en materia ambiental individual, colectiva o a través de los órganos de representación ciudadana e instrumentos de participación ciudadana.
 
 > <small>(REFORMADA, G.O. 3 DE MAYO DE 2011)</small>
 
@@ -801,6 +811,10 @@ XIV. El fondo ambiental público.
 Los habitantes del Distrito Federal tienen derecho a disfrutar de un ambiente sano. Las autoridades, en los términos de ésta y otras Leyes tomarán las medidas necesarias para conservar ese derecho.
 
 Todo habitante del Distrito Federal tiene la potestad de exigir el respeto a este derecho y el cumplimiento de las obligaciones correlativas por parte de las autoridades del Distrito Federal, a través de los mecanismos jurídicos previstos en este título y en otros ordenamientos jurídicos.
+
+> <small>(ADICIONADO, G.O. 25 DE JULIO DE 2012)</small>
+
+La participación ciudadana podrá ser individual, colectiva o a través del órgano de representación ciudadana electo en cada colonia o pueblo, así como de las organizaciones sociales, civiles y empresariales e instituciones académicas, en los términos del artículo 171 fracción IV de la Ley de Participación Ciudadana, y serán los medios para promover y fomentar los derechos en materia ambiental y la utilización de los instrumentos de participación ciudadana, que garantizarán la participación corresponsable de la ciudadanía a fin de que se conozca e informe de la elaboración en los programas de protección ambiental, desarrollo sustentable y educación en materia ambiental a la sociedad.
 
 ###### ARTÍCULO 21.
 
@@ -1362,7 +1376,7 @@ VII. Medidas contempladas para la prevención o mitigación de impactos ambienta
 
 VIII. En su caso, el estudio de riesgo si se tratase de acciones que lo ameriten sin requerir una manifestación de impacto ambiental.
 
-> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 58.
 
@@ -1400,7 +1414,7 @@ Las obras o actividades antes mencionadas, quedan sujetas al cumplimiento de las
 
 El Jefe de Gobierno, mediante acuerdos o en el Reglamento correspondiente a la materia podrá establecer la posibilidad de que la Declaratoria de Cumplimiento Ambiental se presente a través de los medios de comunicación electrónica, otorgando a la firma electrónica que se autorice al mismo valor probatorio que a los presentados con firma autógrafa.
 
-> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 58 Ter.
 
@@ -4195,3 +4209,9 @@ G.O. 31 DE MAYO DE 2012.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación, para su mayor difusión.
 
 SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 25 DE JULIO DE 2012.
+
+PRIMERO: Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO: El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
