@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-cementerios-en-el-municipio-de-apodaca-nuevo-4177
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-01"
-last_updated: "1995-11-01"
+last_updated: "2012-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "NLE"
 
 REGLAMENTO DE CEMENTERIOS EN EL MUNICIPIO DE APODACA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO PARA EL FUNCIONAMIENTO Y OPERACIÓN DE LOS PANTEONES EN EL MUNICIPIO DE APODACA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 25 DE JULIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en Periódico Oficial de Estado de Nuevo León, el miércoles 1 de noviembre de 1995.
 
@@ -398,3 +400,39 @@ C. LOMBARDO GUAJARDO GUAJARDO
 C. SRIO. DEL R. AYUNTAMIENTO
 
 LIC. CÉSAR GARZA VILLARREAL
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE JULIO DE 2012.
+
+###### ARTÍCULO PRIMERO
+
+Se abroga el Reglamento de Cementerios en el Municipio de Apodaca, Nuevo León, y se derogan las disposiciones vigentes que se relacionen con la materia y aquellas que se opongan a lo dispuesto en el presente Reglamento.
+
+###### ARTÍCULO SEGUNDO
+
+El presente reglamento entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+###### ARTÍCULO TERCERO
+
+Para los efectos de este Reglamento a partir de su publicación los panteones en el Municipio se identificarán con la siguiente nomenclatura:
+
+PANTEONES EN EL MUNICIPIO DE APODACA NUEVO LEÓN
+
+PANTEÓN SANTA LUCIÍA MUNICIPAL
+
+PANTEÓN MOISÉS SAENZ MUNICIPAL
+
+PANTEÓN SANTA ROSA MUNICIPAL
+
+PANTEÓN AGUA FRÍA MUNICIPAL
+
+PANTEÓN SAN MIGUEL MUNICIPAL
+
+PANTEÓN HUINALA MUNICIPAL
+
+PANTEÓN JARDIN DE LOS ÁNGELES PARTICULAR
+
+PARQUE FUNERAL SANTA ROSA PARTICULAR
+
+PARQUE FUNERAL JUAN PABLO II PARTICULAR
