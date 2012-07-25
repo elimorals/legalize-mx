@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-del-estado-libre-6912
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-06-26"
-last_updated: "2011-09-01"
+last_updated: "2012-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69120&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,29 +21,189 @@ state: "MOR"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
+LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE NOVIEMBRE DE 2015.
 
-Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 26 de junio de 2009.
+Ley publicada en la Sección Tercera del Boletín Oficial del Gobierno del Estado de Sonora, lunes 31 de diciembre de 1962.
 
-Al margen izquierdo un sello con el Escudo del Estado de Morelos que dice: "Tierra y Libertad".- La Tierra volverá a quienes la trabajan con sus manos. Poder Legislativo.- L Legislatura.- 2006- 2009.
+LUIS ENCINAS, Gobernador del Estado Libre y Soberano de Sonora, a sus habitantes sabed:
 
-MTRO. MARCO ANTONIO ADAME CASTILLO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
+Que el H. Congreso del Estado, se ha servido dirigirme la siguiente Ley:
 
-Que el Congreso del Estado se ha servido enviarme para su promulgación lo siguiente:
+NUMERO 38.-
 
-LA QUINCUAGÉSIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y, CON LOS SIGUIENTES:
+EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SONORA, EN NOMBRE DEL PUEBLO, DECRETA LA SIGUIENTE
 
-I. Antecedentes de la iniciativa.
+LEY
 
-Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente:
-
-LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
+DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA
 
 ## TÍTULO PRIMERO. DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO PRIMERO PÁRRAFO, B.O. 3 DE JULIO DE 1989)</small>
+
+###### Artículo 1o.
+
+La presente Ley es de orden público, de interés social y de observancia general en el Estado de Sonora; y se aplicará:
+
+I.- A los trabajadores del servicio civil del Estado de Sonora;
+
+> <small>(REFORMADA, B.O. 3 DE JULIO DE 1989)</small>
+
+II.- A los trabajadores o empleados de organismos que por ley o por disposición legal del Ejecutivo del Estado sean incorporados a su régimen.
+
+III.- A los pensionistas del Estado y de organismos públicos a que se refiere la fracción anterior;
+
+IV.- A los familiares derechohabientes tanto de los trabajadores como de los pensionistas mencionados;
+
+V.- Al Estado y organismos públicos que se menciona en este artículo.
+
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
+
+###### Artículo 2o.
+
+Para los efectos de esta Ley, se entiende por:
+
+I.- Instituto: al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora:
+
+II.- Estado: a las dependencias de la Administración Pública Estatal, al igual que los poderes Legislativo y Judicial;
+
+III.- Organismos públicos incorporados: a las entidades de la Administración Pública Estatal, los municipios de la Entidad y los organismos o instituciones que se incorporen al régimen de seguridad social que regula esta Ley;
+
+IV.- Trabajador: a toda persona que preste sus servicios al Estado o a los organismos públicos incorporados, mediante designación legal y siempre que sus retribuciones estén consignadas en la normatividad y los presupuestos respectivos, o se paguen con cargo a alguna de estas partidas, o por estar incluido en las nóminas de trabajadores temporales. No se considerarán como trabajadores a las personas que presten sus servicios mediante contrato sujeto a la legislación común, a las que perciban emolumentos con cargo a la partida de honorarios y a los menores de 16 años;
+
+V.- Pensionista o pensionado: a toda persona que tiene derecho a percibir y cobrar una pensión en los términos de esta Ley;
+
+VI.- Familiares derechohabientes, a:
+
+A) El o la cónyuge o, en su caso, la persona con quien el trabajador o pensionista ha vivido como si lo fuera durante los cinco años anteriores, o con la que tuviese hijos, siempre que ambos permanezcan libres de matrimonio. Si el trabajador o pensionista tiene varias concubinas, ninguno de ellas tendrá derecho a recibir la prestación.
+
+B) Los hijos del asegurado menores de 18 años, siempre que dependan económicamente de él.
+
+C) Los hijos solteros mayores de 18 años, hasta la edad de 25, previa comprobación de que están y continúan realizando estudios de nivel medio o superior, en cualquier rama del conocimiento, en planteles oficiales o reconocidos y que no tengan un trabajo remunerado.
+
+D) Los hijos mayores de 18 años incapacitados física o psíquicamente que no puedan trabajar para obtener su subsistencia, según comprobación que se hará mediante certificado médico expedido por el Instituto y por los medios legales procedentes.
+
+E) Los padres de los trabajadores, en los términos que establece esta Ley; y
+
+Los familiares que se mencionan en esta fracción tendrán los derechos que esta Ley les concede si reúnen los requisitos que para el otorgamiento de dichas prestaciones señala el presente ordenamiento.
+
+> <small>(ADICIONADA, B.O. 11 DE JULIO DE 2011)</small>
+
+VII.- Maternidad: el estado fisiológico de la mujer originado por el proceso de la reproducción humana, en relación con el embarazo, el parto, el puerperio y la lactancia. En el caso de adopción se equipara el término entre madre adoptiva y biológica, para todos los efectos legales, a partir del parto.
+
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+
+###### Artículo 3o.
+
+El Instituto podrá celebrar convenios con las entidades de la Administración Pública Estatal y con los Ayuntamientos de los Municipios del Estado, así como con organismos o instituciones públicos, con el fin de que sus trabajadores y los familiares derechohabientes de éstos reciban las prestaciones y servicios del régimen de esta Ley.
+
+La Junta Directiva del Instituto establecerá los requisitos, condiciones, modalidades y obligaciones, a los que se sujetarán los organismos que decidan incorporarse al régimen de esta Ley. La incorporación podrá ser total o parcial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE JUNIO DE 2005)</small>
+
+###### Artículo 4º.
+
+Se establecen con el carácter de obligatorias las siguientes prestaciones, salvo la prevención señalada en el párrafo segundo del artículo 3º de esta Ley:
+
+I.- Seguro de enfermedades no profesionales y de maternidad;
+
+II.- Seguro de accidentes del trabajo y enfermedades profesionales;
+
+> <small>(ADICIONADA, B.O. 19 DE MARZO DE 1975)</small>
+
+II bis.- Servicio de reeducación y readaptación de inválidos.
+
+III.- Créditos para la adquisición en propiedad de casas o terrenos para la construcción de las mismas, destinados a la habitación familiar del trabajador;
+
+> <small>(ADICIONADA, B.O. 19 DE MARZO DE 1975)</small>
+
+III bis.- Actividades que eleven el nivel cultural del servidor público y su familia.
+
+IV.- Arrendamiento de habitaciones económicas pertenecientes al Instituto;
+
+V.- Préstamos hipotecarios;
+
+VI.- Préstamos a corto plazo;
+
+VII.- Jubilación;
+
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 1966)</small>
+
+VIII.- Pensión por vejez.
+
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 1966)</small>
+
+IX.- Pensión por invalidez.
+
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 1966)</small>
+
+X.- Pensión por muerte.
+
+XI.- Indemnización global.
+
+> <small>(REFORMADA, B.O. 6 DE AGOSTO DE 1969)</small>
+
+XII.- Pago Póstumo en los términos del Capítulo Séptimo Bis.
+
+> <small>(ADICIONADA, B.O. 3 DE JULIO DE 1989)</small>
+
+XIII.- Fondo colectivo de retiro.
+
+###### Artículo 5o.
+
+La Dirección de Pensiones del Estado creada por la Ley Número 5 del 14 de noviembre de 1949, publicada en el Boletín Oficial del Estado correspondiente al día 19 del propio mes y año, se transforma en un organismo que se denominará Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, que tendrá el carácter de organismo público descentralizado con personalidad jurídica y patrimonio propios y cuyo domicilio será la Ciudad de Hermosillo.
+
+Este Instituto tendrá a su cargo las prestaciones que esta ley establece.
+
+###### Artículo 6o.
+
+El Estado y organismos públicos deberán remitir al Instituto en enero de cada año, una relación del personal sujeto al pago de las cuotas a que se refiere el artículo 16 de este Ordenamiento.
+
+Asimismo, pondrán en conocimiento del Instituto, dentro de los 15 días siguientes a su fecha:
+
+I.- Las altas y bajas de los trabajadores;
+
+II.- Las modificaciones de los sueldos sujetos a descuentos;
+
+III.- Los nombres de los familiares que los trabajadores deben señalar para disfrutar de los beneficios que esta ley concede. Esto último dentro de los 15 días siguientes a la fecha de la toma de posesión del trabajador.
+
+En todo tiempo, el Estado y organismos públicos incorporados proporcionarán al Instituto los datos que les solicite y requiera en relación con las funciones que le señala esta ley.
+
+Los funcionarios y empleados designados por el Estado u organismos públicos incorporados para el cumplimiento de estas obligaciones, serán responsables de los daños y perjuicios que ocasionen con sus omisiones y serán sancionados en los términos de esta ley.
+
+###### Artículo 7o.
+
+Los trabajadores están obligados a proporcionar al Instituto y al Estado y organismos públicos incorporados en que presten sus servicios:
+
+I.- Los nombres de los familiares que deben disfrutar de los beneficios que esta ley concede;
+
+II.- Los informes y documentos que se les pidan, relacionados con la aplicación de esta ley.
+
+Los trabajadores tendrán derecho, en su caso, a gestionar que el Instituto los inscriba, y exigir al Estado y organismos públicos incorporados correspondientes al estricto cumplimiento de las obligaciones que les impone el artículo anterior.
+
+###### Artículo 8o.
+
+El Instituto estará obligado a expedir a todos los beneficiarios de esta ley, una cédula de identificación, a fin de que puedan ejercitar los derechos que la misma les confiere, según el caso.
+
+En dicha cédula se anotarán los nombres y datos que establezca el reglamento.
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 9o.
+
+Para que los beneficiarios puedan percibir las prestaciones que les correspondan, deberán cumplir los requisitos que esta Ley establece y los de los reglamentos y acuerdos que expida el Instituto con apoyo en la misma. No obstante lo anterior, los requisitos que impongan tales normatividades no podrán condicionar la prestación de los servicios en virtud de circunstancias relativas al estado de salud y/o físico del trabajador. Durante el proceso de ingreso o reingreso de los trabajadores como derechohabientes del Instituto, éste únicamente podrá exigir la realización de estudios médicos a aquéllos, con el exclusivo propósito de determinar si el Estado y/o alguno de los organismo (sic) públicos incorporados, debe cubrir aportaciones adicionales a favor del Instituto, así como la cuantía de las mismas, de acuerdo a lo dispuesto por el artículo 21 de esta Ley.
+
+> <small>(ADICIONADO, B.O. 3 DE JULIO DE 1989)</small>
+
+###### Artículo 9o. Bis.
+
+Los servicios médicos que tiene encomendados el Instituto en los términos de los capítulos relativos a los seguros de enfermedades profesionales, no profesionales y de maternidad, los prestará directamente, o bien, a través de personas físicas o morales con las cuales se hayan celebrado los contratos respectivos.
+
+En tales casos, las personas que hubieren suscrito esos contratos, estarán obligadas a proporcionar al Instituto los informes y estadísticas médicas o administrativas que éste les solicite, sujetándose a las instrucciones, normas técnicas, inspecciones y vigilancia prescritas por el Instituto.
 
 ###### ARTÍCULO 1.
 
@@ -89,17 +249,125 @@ Las Secretarías, Dependencias y Entidades, deberán coordinar sus funciones, pa
 
 En los juicios de amparo, la persona titular del Poder Ejecutivo, podrá ser suplido por el titular de la Secretaría, Dependencia o Entidad a que corresponda el asunto, según la distribución de competencias previstas en ésta Ley, las demás relativas y aplicables, y en los reglamentos interiores respectivos, sin perjuicio de las facultades de la Consejería Jurídica que al respecto se establecen.
 
-###### ARTÍCULO 8.
+###### Artículo 8.
 
-La persona titular del Poder Ejecutivo, expedirá los reglamentos interiores de cada Secretaría y Dependencia, donde se determinarán las unidades administrativas que la conformarán y sus facultades; así mismo, expedirá los decretos, acuerdos administrativos, circulares y demás disposiciones que tiendan a regular en general el funcionamiento de éstas.
+(DEROGADO, B.O. 3 DE JULIO DE 1989)
 
-En el caso de las Entidades y para el cumplimiento de lo anterior, la persona titular del Poder Ejecutivo expedirá la reglamentación interna, previa aprobación que de dichos instrumentos realice el órgano de gobierno de la Entidad, de conformidad con lo previsto en la Ley de los Organismos Auxiliares del Estado de Morelos y la ley o decreto que le de origen, y demás disposiciones jurídicas aplicables.
+###### Artículo 9o.
 
-Las Secretarías, Dependencias o Entidades, formularán los proyectos de iniciativas de ley, reglamentos, decretos, acuerdos, circulares y otras disposiciones normativas de carácter general en la materia de su competencia, las cuales deberán someterse al análisis de la Consejería Jurídica para su consideración y una vez aprobados, los remitirá a la Secretaría de Gobierno para el trámite de refrendo, promulgación y publicación correspondiente, o en su caso, la presentación de la iniciativa ante el H. Congreso del Estado.
+(DEROGADO, B.O. 3 DE JULIO DE 1989)
 
-Las leyes, decretos, reglamentos, acuerdos y demás disposiciones de carácter general que expida o promulgue el Poder Ejecutivo, para que sean obligatorias deberán estar refrendadas por la persona titular de la Secretaría de Gobierno, y por la persona titular de la Secretaría, Dependencia y/o Entidad a la que competa el asunto, debiendo ser publicados en el Periódico Oficial "Tierra y Libertad".
+###### Artículo 10.
 
-Los acuerdos, decretos o circulares delegatorios de facultades o aquellos donde se adscriban o sectoricen unidades administrativas o Entidades, deberán ser publicados en el Periódico Oficial "Tierra y Libertad".
+Para los efectos de la fracción I del artículo 113, al entrar en vigor la presente Ley la Dirección de Pensiones del Estado, con intervención de la Tesorería General de la propia entidad, hará entrega formal de su patrimonio al Instituto que ahora se constituye.
+
+> <small>(REFORMADOS, B.O. 3 DE JULIO DE 1989)</small>
+
+###### Artículo 11.
+
+Las prestaciones establecidas en esta Ley podrán ser ampliadas previo estudio actuarial financiero que determine el monto de la prima que deba aportarse a fin de disfrutar el nuevo beneficio.
+
+###### Artículo 12.
+
+A partir de la vigencia del presente Ordenamiento quedan abrogadas la Ley número 112 de 20 de diciembre de 1948 que estableció el "Fondo de Protección Burocrática"; la Número 5 de 14 de noviembre de 1949, que modificó y adicionó la anterior e instituyó la Dirección de Pensiones del Estado y la número 60 de 4 de diciembre de 1950 que aprobó el Reglamento de la Dirección de Pensiones del Estado; así como la número 13, de 14 de marzo de 1962, que estableció un pago adicional del cinco por ciento del sueldo base para los servidores públicos del Gobierno del Estado, por concepto de Asistencia Médica y Medicinas, porcentaje que pasará a formar parte del sueldo y se tomará en cuenta al hacer las deducciones que esta propia ley establece; quedan derogadas asimismo todas las disposiciones de carácter general que se opongan a la presente ley.
+
+###### Artículo 13.
+
+(DEROGADO, B.O. 3 DE JULIO DE 1989)
+
+Comuníquese al Ejecutivo para su sanción y promulgación.
+
+Salón de Sesiones del H. Congreso del Estado.
+
+Hermosillo, Sonora, a 31 de diciembre de 1962.
+
+CARLOS MARTINEZ CARRANZA.
+
+DIPUTADO PRESIDENTE.
+
+ING. ARMANDO HOPKINS DURAZO.
+
+DIPUTADO SECRETARIO.
+
+RAMIRO OQUITA Y MELENDREZ.
+
+DIPUTADO SECRETARIO.
+
+POR TANTO, mando se publique en el Boletín Oficial del Estado y se le dé el debido cumplimiento.
+
+PALACIO DE GOBIERNO, Hermosillo, Sonora, a treinta y uno de diciembre de mil novecientos sesenta y dos.
+
+EL GOBERNADOR DEL ESTADO,
+
+LIC. LUIS ENCINAS.
+
+EL SECRETARIO DE GOBIERNO,
+
+LIC. ENRIQUE FOX ROMERO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LAS LEYES QUE REFORMAN A LA PRESENTE LEY.</small>
+
+B.O. 31 DE DICIEMBRE DE 1963.
+
+UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 13 DE ENERO DE 1965.
+
+UNICO.- Esta Ley entrará en vigor a partir del día de su publicación en el Boletín Oficial del Estado.
+
+B.O. 15 DE SEPTIEMBRE DE 1965.
+
+UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 17 DE AGOSTO DE 1966.
+
+UNICO.- Esta Ley entrará en vigor a partir de su publicación en el Boletín Oficial del Estado.
+
+B.O. 12 DE JULIO DE 1967.
+
+UNICO.- Esta Ley entrará en vigor a partir de su publicación en el Boletín Oficial del Estado.
+
+B.O. 6 DE AGOSTO DE 1969.
+
+###### ARTICULO 1o.
+
+Al iniciar su vigencia la presente ley, la Comisión del Servicio Civil remitirá el Instituto toda la documentación que obre en su Archivo.
+
+###### ARTICULO 2o.
+
+Los expedientes que, al momento de publicarse esta ley, se hallaren en trámite ante la Comisión del Servicio Civil, serán de inmediato enviados al Instituto para su resolución definitiva.
+
+###### ARTICULO 3o.
+
+Los oficios de designación de beneficiarios que se encuentren dirigidos, hasta antes de la expedición de esta Ley, a la Comisión del Servicio Civil, se tendrán por dirigidos al Instituto.
+
+###### ARTICULO 4o.
+
+La presente ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
+
+B.O. 9 DE MAYO DE 1973.
+
+###### ARTICULO UNICO.
+
+Esta Ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
+
+B.O. 17 DE ABRIL DE 1974.
+
+PRIMERO.- Las personas que hubieren presentado sus avisos de terminación de obra durante la vigencia de la Ley que se abroga y preceptos derogados tendrán derechos a las franquicias en los términos consagrados por aquellas disposiciones.
+
+SEGUNDO.- Esta Ley entrará en vigor tres días después de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 18 DE MAYO DE 1974.
+
+###### ARTICULO UNICO.
+
+Esta Ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
+
+B.O. 19 DE MARZO DE 1975.
+
+UNICO.- Esta ley entrará en vigor tres días después de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 11 DE ENERO DE 1982.
 
 ###### ARTÍCULO 9.
 
@@ -107,1174 +375,1916 @@ Será facultad de las personas titulares de las Secretarías, Dependencias y Ent
 
 La persona titular de cada Secretaría, Dependencia o Entidad, contará con facultades para certificar copias de los documentos en los que intervenga y que se encuentren en los archivos de su oficina.
 
-###### ARTÍCULO 10.
+###### Artículo 10.
 
-La persona titular del Poder Ejecutivo, podrá celebrar convenios de coordinación con el Ejecutivo Federal, otros Estados, con los Ayuntamientos del Estado u Órganos Constitucionales Autónomos, para la prestación de servicios públicos, la ejecución de obras o la realización de cualquier otro propósito de beneficio colectivo o social; así mismo podrá concertar la ejecución de programas y proyectos conjuntos con los diversos sectores sociales y productivos del Estado Libre y Soberano de Morelos, suscribiendo los convenios de colaboración necesarios, bajo los mismos términos y condiciones antes expuestos.
+Los trabajadores que por cualquier causa no perciban íntegramente su sueldo, sólo podrán continuar disfrutando de los beneficios que esta ley les otorga, si pagan la totalidad de las cuotas que les correspondan.
 
-En cualquier caso, la persona titular del Poder Ejecutivo, designará a las Secretarías, Dependencias y Entidades de la administración pública que para el efecto deban coordinarse. Los convenios y concertaciones se sujetarán a las disposiciones legales que correspondan e invariablemente se formalizarán en un instrumento de naturaleza jurídica.
+###### Artículo 11.
 
-###### ARTÍCULO 11.
+El Instituto recopilará y clasificará la información sobre el personal a efecto de formular escalas de sueldos, promedios de duración de los servicios que esta ley regula, tablas de mortalidad, y, en general, las estadísticas y cálculos necesarios para encauzar las prestaciones establecidas en el artículo 4o., y, en su caso, proponer al Ejecutivo las modificaciones que fueren procedentes.
 
-El nombramiento y remoción de los titulares de las Secretarías, Dependencias y Entidades, corresponderá de manera indelegable a la persona Titular del Poder Ejecutivo, excepto en aquellos casos en que su nombramiento o remoción esté determinado en la Constitución Política del Estado Libre y Soberano de Morelos o en otras Leyes específicas del Estado.
+###### Artículo 12.
 
-###### ARTÍCULO 12.
+El Instituto formulará el censo general de trabajadores en servicio y cuidará de registrar las altas y bajas que ocurran, para que dicho censo esté al corriente y sirva de base para formular las liquidaciones que se refieran a las cuotas de los trabajadores y a las aportaciones a cargo del Estado y organismos públicos incorporados.
 
-Las personas titulares de las Secretarías, Dependencias y Entidades de la administración pública, así como todos aquellos servidores públicos del Estado Libre y Soberano de Morelos, que ocupen cargos considerados de confianza, sean de mando superior o medio, deberán atender de tiempo completo las funciones de su encargo, además de que ningún servidor público podrá:
+###### Artículo 13.
 
-I. Desempeñar otro empleo, cargo o comisión en la Federación, los Estados, Municipios, así como en los Órganos Constitucionales Autónomos o trabajos particulares, que motiven conflictos de intereses en relación a sus atribuciones;
+El Estado y organismos públicos incorporados quedan obligados a remitir sin demora al Instituto, los expedientes y datos que solicite de los trabajadores o ex-trabajadores, para las investigaciones correspondientes.
 
-II. Desempeñar otro empleo, cargo o comisión en el Gobierno Federal, Estatal, Municipal o los Órganos Constitucionales Autónomos, por el que disfruten de sueldo, honorarios, gratificación o cualquier otra ministración de dinero, con excepción de los del ramo de instrucción pública y la beneficencia pública, y siempre que no interfieran en su encargo público;
-
-III. Desempeñar ningún otro puesto, cargo o comisión de la Federación, de los Estados, de los Municipios u Órganos Constitucionales Autónomos, que no esté directamente relacionado con sus funciones y no sea autorizado por su superior jerárquico. Debiendo ser en estos casos siempre de carácter honorífico, y
-
-IV. Desempeñar trabajos o empleos que las leyes prohíban.
-
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-ARTÍCULO 12 BIS.- Ante la vacante que se produzca por ausencia temporal o definitiva en los cargos considerados de confianza, deberá quedar como encargado de manera temporal y por un plazo que no exceda los noventa días naturales, el funcionario de jerarquía inmediata inferior; periodo dentro del cual deberá nombrarse al titular que de manera definitiva continuará en el encargo.
-
-###### ARTÍCULO 13.
-
-En los casos en que exista duda sobre la competencia y atribuciones de alguna Secretaría, Dependencia o Entidad, para conocer de algún asunto determinado, será resuelto por la persona Titular del Poder Ejecutivo, por conducto de la Secretaría de Gobierno, quien realizará la comunicación oficial de tal determinación.
+En caso de negativa o demora injustificada para proporcionar dichos expedientes o datos o cuando los mismos se suministren en forma inexacta o fueren alterados, la autoridad competente exigirá la responsabilidad e impondrá las sanciones respectivas en los términos de esta ley.
 
 ## TÍTULO SEGUNDO. DE LA ADMINISTRACIÓN PÚBLICA CENTRAL
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPITULO SEGUNDO. DE LOS SUELDOS, CUOTAS Y APORTACIONES
 
-###### ARTÍCULO 14.
+###### Artículo 14.
 
-Al frente de cada Secretaría y Dependencia, habrá una persona titular, quien para la atención de los asuntos del ramo, se auxiliará de los servidores públicos que señale el reglamento interior respectivo, los manuales administrativos y demás disposiciones legales aplicables.
+Las controversias judiciales que surjan sobre la aplicación de esta ley, así como todas aquellas en que el Instituto tuviere el carácter de actor o demandado, serán de la competencia de los Tribunales del Estado.
 
-###### ARTÍCULO 15.
+###### Artículo 15.
 
-Para ocupar la titularidad de cualquier Secretaría, se requiere cumplir con los requisitos que establece la Constitución Política del Estado Libre y Soberano de Morelos.
+El sueldo que se tomará como base para los efectos de esta Ley, se integrará con el sueldo presupuestal y los demás emolumentos de carácter permanente que el trabajador obtenga por disposición expresa de las leyes respectivas, con motivo de su trabajo.
 
-###### ARTÍCULO 16.
+El sueldo básico integrado por las prestaciones a que se refiere el párrafo anterior, estará sujeto a las cotizaciones establecidas en los artículos 16 y 21 de esta Ley y se tomará en cuenta para la determinación del monto de los seguros, pensiones, subsidios y préstamos que la misma establece.
 
-Al frente de la Consejería Jurídica, habrá una persona titular, que deberá reunir los requisitos que para ser Magistrado del Tribunal Superior de Justicia, establece la Constitución Política del Estado Libre y Soberano de Morelos. Quien a su vez, será nombrada y removida libremente por la persona titular del Poder Ejecutivo.
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
 
-###### ARTÍCULO 17.
+El sueldo básico de los trabajadores de los organismos públicos incorporados se determinará en cada caso particular mediante los convenios que celebren con el Instituto, en los términos del párrafo segundo del artículo 3º de esta Ley.
 
-Las personas titulares de la Secretaría de Gestión e Innovación Gubernamental y de la Representación del Poder Ejecutivo, deberán cubrir los siguientes requisitos:
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE JUNIO DE 2005)</small>
 
-I. Ser ciudadano mexicano en pleno goce de sus derechos;
+###### Artículo 16.
 
-II. Ser mayor de veinticinco años;
+Todo trabajador al servicio del Estado deberá aportar la cuota obligatoria del 17.5% sobre el sueldo básico integrado que devengue, definido en el primer párrafo del artículo anterior, aplicándose dicha cuota de la siguiente manera:
 
-III. No haber sido sentenciado por delito doloso que merezca pena privativa de la libertad, y
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
 
-IV. Tener probada experiencia en las funciones del cargo.
+A) El 10% para pensiones y jubilaciones;
 
-###### ARTÍCULO 18.
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
 
-Para la atención y despacho de los asuntos de su competencia, las Secretarías y Dependencias podrán contar con los órganos desconcentrados que determine la persona titular del Poder Ejecutivo, los cuales formarán parte de la administración pública central y tendrán autonomía técnica. La creación de estas unidades administrativas, se realizará mediante decreto o acuerdo administrativo de la persona titular del Poder Ejecutivo.
+B) El 5.5% para servicios médicos;
 
-Tales unidades estarán adscritas y jerárquicamente subordinadas a la Secretaría o Dependencia que se determine en el propio instrumento de creación, en el cual, además, se precisarán sus facultades y atribuciones. Los reglamentos interiores de las Secretarías y Dependencias del Ejecutivo, incorporarán la previsión de estos órganos y las funciones correspondientes.
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
 
-En todos los casos, deberán sujetarse al presupuesto de egresos respectivo.
+C) El .5% para préstamos a corto plazo;
 
-###### ARTÍCULO 19.
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
 
-Corresponde originalmente a las personas titulares de las Secretarías y Dependencias, el trámite y resolución de los asuntos sometidos a su competencia, para la mejor organización y desempeño de sus actividades, podrán delegar en sus subalternos, cualesquiera de sus facultades, con excepción de aquellas que por disposición de la Constitución Política del Estado Libre y Soberano de Morelos, las leyes o reglamentos respectivos, deban ser ejercidas directamente por ellos. Tal designación de facultades deberá establecerse en el reglamento interior respectivo.
+D) El .5% para préstamos prendarios.
 
-###### ARTÍCULO 20.
+> <small>(ADICIONADO, B.O. 29 DE JUNIO DE 2005)</small>
 
-Las Secretarías y Dependencias deberán programar y conducir sus actividades con sujeción a las disposiciones del Plan Estatal de Desarrollo, así como a las políticas y lineamientos que determine la persona titular del Poder Ejecutivo.
+E) El 1% para infraestructura, equipamiento y mantenimiento hospitalario.
 
-###### ARTÍCULO 21.
+###### Artículo 17.
 
-Al tomar posesión del cargo, las personas titulares de las Secretarías y Dependencias del Ejecutivo, procederán conforme a las normas reglamentarias que sobre el ramo se establezcan.
+Los trabajadores que desempeñen dos o más empleos compatibles entre sí en el Estado y organismos públicos incorporados a que se refiere el artículo 1o. de esta ley, o aquellos a que se refiere el artículo 3o., cubrirán sus cuotas sobre la totalidad de los sueldos que tengan asignados.
 
-###### ARTÍCULO 22.
+###### Artículo 18.
 
-Las personas titulares de las Secretarías, asistirán a las sesiones del Congreso del Estado:
+El Estado y organismos públicos incorporados están obligados:
 
-I. Cuando el Ejecutivo tuviere que informar de los proyectos de leyes. La presencia de las personas titulares de las Secretarías se dará por instrucciones de la persona titular del Poder Ejecutivo y según su competencia;
+I.- A efectuar los descuentos de las cuotas a que se refiere el artículo 16 de esta ley y los que el Instituto ordene con motivo de la aplicación de la misma;
 
-II. Cuando, a solicitud de la Legislatura del Estado, el Poder Ejecutivo tenga que informar sobre el estado que guarda algún asunto, y
+II.- A enviar al Instituto las nóminas y recibos en que figuren los descuentos dentro de los diez días siguientes a la fecha en que deban hacerse;
 
-III. Cuando sean requeridos por el Congreso del Estado, en términos de lo establecido en los artículos 45 y 77 de la Constitución Política del Estado Libre y Soberano de Morelos.
+III.- A expedir los certificados y proporcionar informes que les soliciten tanto el Instituto como los interesados.
 
-En el caso de las personas titulares de las Dependencias, la asistencia a sesiones del Congreso será por instrucción expresa de la persona titular del Poder Ejecutivo y en aquellos asuntos de su competencia.
+Los pagadores y los encargados de cubrir sueldos serán responsables en los términos de esta ley y de sus reglamentos de los actos y omisiones que realicen con perjuicio del Instituto o de los trabajadores, independientemente de la responsabilidad civil, penal o administrativa que proceda.
 
-### CAPÍTULO SEGUNDO. DE LA COMPETENCIA DE LAS SECRETARÍAS DE DESPACHO Y LAS DEPENDENCIAS
+###### Artículo 19.
 
-###### ARTÍCULO 23.
+La separación por licencia sin goce de sueldo o por suspensión de los efectos de nombramiento por causa de prisión preventiva del trabajador seguida de sentencia absolutoria, se computará como tiempo de servicios en los siguientes casos:
 
-Para el estudio, planeación y despacho de los asuntos, el Poder Ejecutivo, se auxiliará de las siguientes Secretarías de Despacho:
+I.- Cuando las licencias sean concedidas por un período que no exceda de seis meses;
 
-I. Secretaría de Gobierno;
+II.- Cuando las licencias se concedan para el desempeño de cargos públicos o comisiones sindicales, mientras duren dichos cargos o comisiones;
 
-II. Secretaría de Finanzas y Planeación;
+III.- Cuando el trabajador sufra prisión preventiva seguida de sentencia absolutoria, mientras dure la privación de libertad.
 
-III. Secretaría de Desarrollo Económico;
+IV.- Cuando el trabajador fuere suspendido, por todo el tiempo que dure la suspensión y siempre que por resolución firme sea reinstalado en su empleo.
 
-IV. Secretaría de Turismo;
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
 
-V. Secretaría de Desarrollo Agropecuario;
+Para disfrutar del cómputo mencionado en los cuatro casos anteriores, el trabajador deberá pagar la totalidad de las cuotas a que se refieren los artículos 16 y 21. Si el trabajador falleciere antes de reanudar sus labores y sus familiares derechohabientes tuvieren derecho a pensión, éstos deberán cubrir el importe de esas cuotas, si desean que se compute el período de servicio correspondiente. Estas liquidaciones causarán el interés que corresponda, el cual se calculará con base en una tasa equivalente al 80% del costo porcentual promedio vigente al momento de la liquidación.
 
-VI. Secretaría de Desarrollo Urbano y Obras Públicas;
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
 
-VII. Secretaría de Salud;
+###### Artículo 20.
 
-VIII. Secretaría de Educación;
+Cuando no se hubieren hecho a los trabajadores los descuentos procedentes conforme a esta Ley, el Instituto ordenará descontar hasta un 50% del sueldo mientras el adeudo no esté cubierto.
 
-IX. Secretaría de Seguridad Pública;
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE JUNIO DE 2005)</small>
 
-X. Secretaría de la Contraloría;
+###### Artículo 21.
 
-XI. Secretaría de Desarrollo Humano y Social;
+El Estado cubrirá al Instituto por vía de aportaciones el 29.5% sobre el sueldo básico integrado de los trabajadores según éste se define por el artículo 15 de esta Ley.
 
-XII. Secretaría del Trabajo y Productividad, y
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
 
-XIII. Procuraduría General de Justicia.
+Estas aportaciones se aplicarán de la siguiente manera:
 
-Para los mismos fines, se auxiliará de las siguientes Dependencias:
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
 
-I. Consejería Jurídica;
+A) El 17% para pensiones y jubilaciones;
 
-II. Secretaría de Gestión e Innovación Gubernamental, y
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
 
-III. Representación del Poder Ejecutivo del Estado.
+B) El 7.5% para servicio médico;
 
-La Procuraduría General de Justicia, dependerá de la persona titular del Poder Ejecutivo y ejercerá las funciones que la Constitución Política del Estado Libre y Soberano de Morelos, su Ley Orgánica y demás leyes le confieren.
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
 
-###### ARTÍCULO 24.
+C) El .5% para préstamos a corto plazo;
 
-A la Secretaría de Gobierno corresponde, además de las atribuciones que expresamente le confiere la Constitución Política del Estado Libre y Soberano de Morelos, el despacho de los siguientes asuntos:
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
 
-I. Conducir las relaciones del Poder Ejecutivo con los otros Poderes y con los Ayuntamientos del Estado Libre y Soberano de Morelos;
+D) El .5% para préstamos prendarios;
 
-II. Llevar los asuntos de orden político interno, así como aquellos que le sean encomendados por el Ejecutivo;
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
 
-III. Vigilar y controlar todo lo relativo a la demarcación y conservación de los límites del Estado Libre y Soberano de Morelos y sus Municipios;
+E) El .4% para indemnización global;
 
-IV. Proponer las declaratorias de reservas, usos, destinos y provisiones de áreas y predios, así como conocer y dictaminar sobre las que sometan los ayuntamientos a la aprobación y publicación por el Ejecutivo;
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
 
-V. Planear, organizar, coordinar, dirigir y promover acciones tendientes a la regularización de la tenencia de la tierra;
+F) El .1% para ayuda de funeral;
 
-VI. Adquirir, en coordinación con la Federación y los ayuntamientos, las reservas territoriales, así como promover su desarrollo, enajenación y ocupación a través de las instancias que corresponda;
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2010)</small>
+G) El 2.5% para gastos de administración.
 
-VII. Planear, organizar, regular, vigilar y, en su caso, administrar el servicio público de transporte en cualquiera de sus modalidades; así como otorgar concesiones y permisos necesarios para la explotación de las vialidades de jurisdicción estatal, tomando en cuenta la opinión de los ayuntamientos en el ámbito de su competencia, conforme a las disposiciones jurídicas aplicables;
+> <small>(ADICIONADO, B.O. 29 DE JUNIO DE 2005)</small>
 
-VIII. Intervenir en auxilio o coordinación de las autoridades federales, en los términos de las leyes relativas, en materia de:
+H) El 1% para infraestructura, equipamiento y mantenimiento hospitalario.
 
-A) Cultos religiosos;
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
-B) Detonantes y pirotecnia;
+Sin perjuicio de las aportaciones recién señaladas, el Instituto podrá determinar, de forma debidamente justificada con estudios actuariales, aportaciones adicionales al Estado y/o a los organismos públicos incorporados, cuando algún trabajador de cualquiera de ellos presente padecimientos preexistentes cuyo tratamiento, presente o futuro, impacte adicionalmente en las finanzas del Instituto.
 
-C) Portación de armas;
+###### Artículo 22.
 
-D) Loterías, rifas y juegos prohibidos;
+El Estado y organismos públicos incorporados harán entregas quincenales al Instituto, por conducto de sus respectivas Tesorerías o Departamentos correspondientes, del monto de las cantidades que correspondan por concepto de las cuotas y aportaciones a que se refieren los artículos 16 y 21. También entregarán quincenalmente el importe de los descuentos que el Instituto ordene que se hagan a los trabajadores por otros adeudos derivados de la aplicación de esta ley.
 
-E) Migración, y
+### CAPITULO TERCERO. DEL SEGURO DE ENFERMEDADES NO PROFESIONALES Y DE MATERNIDAD
 
-F) Auxilio y apoyo a la población en caso de desastres;
+SECCION 1a.
 
-IX. Ejercer las atribuciones derivadas de los convenios que, en las materias de su competencia, celebre el Gobierno del Estado Libre y Soberano de Morelos, con la Federación y los Ayuntamientos;
+SEGURO DE ENFERMEDADES NO PROFESIONALES
 
-X. Realizar estudios para promover el desarrollo municipal y coadyuvar con los ayuntamientos con asesoría y asistencia técnica, en coordinación con las Secretarías y Dependencias del Ejecutivo, en las materias de su competencia, por conducto del Instituto de Desarrollo y Fortalecimiento Municipal;
+###### Artículo 23.
 
-XI. Expedir, previo acuerdo de la persona titular del Poder Ejecutivo, las licencias, autorizaciones, concesiones y permisos cuyo otorgamiento no esté atribuido a otras Secretarías, Dependencias o Entidades del Poder Ejecutivo;
+En caso de enfermedad no profesional, el trabajador y el pensionista tendrán derecho a las siguientes prestaciones:
 
-XII. Ejecutar, por acuerdo de la persona titular del Poder Ejecutivo, las expropiaciones, ocupación temporal y limitación de dominio de los bienes en los casos de utilidad pública, de conformidad con la legislación relativa;
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE MARZO DE 1975)</small>
 
-XIII. Intervenir y ejercer las atribuciones que en materia electoral le señalen las leyes, reglamentos, o los convenios que al efecto se celebren;
+I.- Asistencia médica, quirúrgica, farmacéutica, y hospitalaria que sean necesarias, desde el comienzo de la enfermedad y durante el plazo máximo de cincuenta y dos semanas para la misma enfermedad. El Reglamento de Servicios Médicos determinará qué se entiende por este último concepto.
 
-XIV. Organizar y administrar la Defensoría de Oficio;
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
 
-XV. Promover la participación de la sociedad civil en los programas de protección civil, así como cumplir y hacer cumplir las disposiciones legales sobre protección civil y las que de ellas deriven;
+El Instituto no estará obligado a proporcionar servicios de cirugía cosmética, ni a proveer dentífricos, cosméticos, aparatos de prótesis, de odontología o aparatos de prótesis de ortopedia.
 
-XVI. Tramitar los nombramientos que la persona titular del Poder Ejecutivo expida para el ejercicio de las funciones notariales y ordenar periódicamente las visitas de inspección a las notarias del Estado Libre y Soberano de Morelos;
+En caso de enfermos ambulantes, cuyo tratamiento médico no les impida trabajar, el tratamiento de una misma enfermedad se continuará hasta su curación.
 
-XVII. Autorizar la apertura y uso de folios y protocolos notariales, así como los mecanismos que para ello se utilicen; llevar el Libro de Registro de Notarios;
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE MARZO DE 1975)</small>
 
-XVIII. Planear, organizar, coordinar, dirigir y vigilar el ejercicio de las funciones del Registro Civil;
+II.- Cuando se trate de un trabajador y la enfermedad lo incapacite para el trabajo, tendrá derecho a licencia con goce de sueldo, o con medio sueldo, de acuerdo con las disposiciones legales vigentes que reglamenten las relaciones laborales entre el Estado y los organismos públicos incorporados, por una parte, y sus servidores, por la otra. Si al vencer la licencia con medio sueldo continua la incapacidad, el trabajador tendrá derecho a disfrutar licencia sin goce de sueldo mientras dure la incapacidad, hasta completar con las licencias anteriores y a partir de la fecha en que se inició aquélla, el término de cincuenta y dos semanas, no obstante cualquiera disposición en contrario contenida en las expresadas leyes reglamentarias. Durante la licencia sin goce de sueldo a que acaba de aludirse, el Instituto cubrirá al asegurado un subsidio en dinero equivalente al cincuenta por ciento del sueldo que percibía el trabajador.
 
-XIX. Planear, programar, presupuestar y vigilar la operación y ejercicio de las funciones del Instituto del Registro Público de la Propiedad y del Comercio y del Archivo General de Notarias del Estado Libre y Soberano de Morelos;
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
 
-XX. Coordinar y controlar los Sistemas de Radio-Comunicación y de Comunicación del Ejecutivo;
+Al principiar la licencia sin goce de sueldo, y para los efectos de pago del subsidio señalado en el párrafo anterior, el trabajador deberá dar el aviso respectivo, dentro de las 48 horas siguientes a la fecha en que se le haya extendido la incapacidad correspondiente; en caso contrario, el Instituto no entregará el subsidio.
 
-XXI. Llevar el registro, legalizar y certificar las firmas autógrafas de los funcionarios estatales, de los presidentes y secretarios municipales, y de los demás funcionarios a quienes esté encomendada la fe pública;
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE JUNIO DE 2005)</small>
 
-XXII. Ser el conducto para presentar ante el Congreso del Estado las iniciativas de ley o decreto del Ejecutivo, así como refrendar y publicar las leyes, reglamentos, decretos, acuerdos y demás disposiciones jurídicas que deban regir en el Estado Libre y Soberano de Morelos;
+###### Artículo 24.
 
-XXIII. Dirigir y administrar y publicar el Periódico Oficial "Tierra y Libertad";
+También tendrán derecho a los servicios que señala la fracción I del artículo 23 de esta Ley en caso de enfermedad, siempre y cuando reúnan los requisitos y condiciones que establece la misma y el Reglamento para los Servicios Médicos del Instituto, los familiares del trabajador y del pensionista que enseguida se señalan:
 
-XXIV. Cumplir y hacer cumplir los decretos, acuerdos, circulares, órdenes y demás disposiciones que expida la persona titular del Poder Ejecutivo, excepto aquellos que sean de competencia exclusiva de otra Secretaría o Dependencia;
+> <small>(REFORMADA, B.O. 29 DE JUNIO DE 2005)</small>
 
-XXV. Asesorar a la persona titular del Poder Ejecutivo, en la elaboración de convenios que celebre con la Federación y los Ayuntamientos en el ámbito de su competencia;
+I.- La cónyuge o, en su caso, la persona con quien ha vivido como si lo fuera durante los cinco años anteriores a la enfermedad o aún durante un término menor si con ella tuviese hijos, siempre que ambos permanezcan libres de matrimonio. Si el trabajador o pensionista tiene varias concubinas, ninguna de ellas tendrá derecho a recibir las mencionadas prestaciones.
 
-XXVI. Establecer el Calendario Oficial del Gobierno del Estado del Estado Libre y Soberano de Morelos;
+En el caso de fallecimiento de la trabajadora o pensionista, únicamente continuará recibiendo el servicio médico el esposo o concubinario que esté incapacitado física o psíquicamente y haya dependido económicamente de ella;
 
-XXVII. Coordinar de manera oportuna la atención a las demandas y consultas ciudadanas en términos de lo previsto por el artículo 19 bis de la Constitución Política del Estado Libre y Soberano de Morelos;
+II.- Los hijos menores de 18 años.
 
-XXVIII. Organizar y controlar la documentación que emitan y resguarden las Secretarías y Dependencias de la administración pública;
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
 
-XXIX. Tramitar los recursos administrativos que competa conocer a la persona titular del Poder Ejecutivo, así como los del área de su competencia;
+Los familiares que se mencionan en esta fracción y la precedente, tendrán el derecho antes establecido cuando el trabajador o el pensionista tengan derecho a las prestaciones señaladas en la fracción I del artículo 23 de esta Ley y cuando dichos familiares no tengan por sí mismos derechos propios a las prestaciones otorgadas por esta Ley o por la Ley del Seguro Social o la del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado dependientes de la Federación.
 
-XXX. Suscribir los convenios y contratos que le correspondan en el ámbito de su competencia;
+> <small>(ADICIONADA, B.O. 19 DE MARZO DE 1975)</small>
 
-XXXI. Elaborar los anteproyectos de iniciativas de ley, reglamentos, decretos, acuerdos y demás disposiciones jurídicas en el ámbito de su competencia y proponérselos a la persona titular del Poder Ejecutivo, previa obtención de la validación y rúbrica por parte de la Consejería Jurídica, y
+III.- Los hijos mayores de 18 y hasta 25 años.
 
-XXXII. Las demás que señalen otras disposiciones jurídicas o le delegue la persona titular del Poder Ejecutivo por mandato específico.
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
 
-###### ARTÍCULO 25.
+Los familiares que se mencionan en esta fracción, tendrán el derecho antes establecido si reúnen además de los requisitos que se señalan en la fracción anterior, los siguientes:
 
-A la Secretaría de Finanzas y Planeación le corresponde el despacho de los siguientes asuntos:
+a).- Que esté cursando estudios de nivel medio superior o subsecuentes.
 
-I. Proponer e instrumentar la política fiscal del Estado Libre y Soberano de Morelos, tomando en cuenta los convenios celebrados por el Ejecutivo con la Federación y los ayuntamientos, así como las disposiciones jurídicas sobre la materia;
+b).- Que a satisfacción del Instituto compruebe periódicamente tanto la inscripción como el promedio de calificación aprobatoria.
 
-II. Definir, organizar y coordinar el Sistema Estatal de Planeación Democrática en sus distintas vertientes; promoviendo la participación de los sectores social y privado de la (sic) Estado Libre y Soberano de Morelos, así como inducir el compromiso en actividades conjuntas o con la participación exclusiva de éstos;
+> <small>(ADICIONADA, B.O. 3 DE JULIO DE 1989)</small>
 
-III. Elaborar, con la participación de las Secretarías, Dependencias y Entidades, el Plan Estatal de Desarrollo, los programas estatales de desarrollo (sectoriales, institucionales, regionales y especiales), los programas operativos anuales y cualquier otro programa que determine la persona titular del Poder Ejecutivo, verificando que exista congruencia entre el Plan Estatal de Desarrollo y dichos programas;
+IV.- Los hijos mayores de 18 años, incapacitados física o psíquicamente, que no puedan trabajar para obtener su subsistencia, lo que se comprobará mediante certificado médico expedido por el Instituto y por los medios legales procedentes.
 
-IV. Coordinar la convergencia de acciones entre los programas del sector público Estatal, el Gobierno Federal y los Municipios del Estado Libre y Soberano de Morelos, así como proporcionar los recursos financieros que correspondan al gobierno local;
+> <small>(ADICIONADA, B.O. 3 DE JULIO DE 1989)</small>
 
-V. Prestar asesoría y asistencia técnica a los Municipios en la elaboración de planes, programas y presupuestos, así como en la evaluación de resultados. Tales servicios se otorgarán a solicitud expresa de los Ayuntamientos y por conducto del Instituto de Desarrollo y Fortalecimiento Municipal;
+V.- El esposo o concubinario de la trabajadora o pensionista, siempre que esté incapacitado física o psíquicamente y dependa económicamente de ella.
 
-VI. Proyectar y calcular los ingresos y egresos del Gobierno del Estado Libre y Soberano de Morelos, así como los correspondientes a las Entidades de la administración pública paraestatal;
+> <small>(ADICIONADA, B.O. 3 DE JULIO DE 1989)</small>
 
-VII. Autorizar los precios y tarifas de los bienes y servicios que producen o prestan las Entidades de la administración pública paraestatal, escuchando la opinión de la Secretaría o Dependencia que corresponda;
+VI.- Los padres del trabajador.
 
-VIII. Ejercer las atribuciones derivadas de los convenios que sobre las materias de su competencia, celebre el Gobierno del Estado Libre y Soberano de Morelos con otros Estados, con la Federación o con los ayuntamientos, así como sobre aquellas que sean propias de dicha Secretaría, dentro del territorio estatal;
+En este supuesto, la prestación se otorgará:
 
-IX. Elaborar el anteproyecto de Ley de Ingresos del Estado Libre y Soberano de Morelos y someterlo a consideración de la persona titular del Poder Ejecutivo;
+A).- Sin costo adicional, a quienes dependan económicamente en forma exclusiva del trabajador.
 
-X. Aprobar las obras y/o acciones derivadas de los programas y proyectos de inversión que propongan las Secretarías, Dependencias y Entidades de la administración pública, verificando su congruencia con los programas operativos anuales, sectoriales e institucionales y conforme a la disponibilidad presupuestal existente. Así mismo, controlar, verificar y evaluar la correcta aplicación y comprobación de recursos, respecto a su ejercicio;
+B).- Con el costo que determinen los aranceles, a quienes no demuestren la dependencia económica en forma exclusiva. En este caso, el paciente cubrirá el importe del servicio al momento del otorgamiento del mismo.
 
-XI. Planear, organizar, integrar y vigilar el Padrón Fiscal de Causantes, asegurando su actualización permanente;
+Quedan excluidos del servicio médico los padres que tengan derechos propios en otras instituciones de seguridad social, sean del Estado o de la Federación.
 
-XII. Recaudar los impuestos, derechos, productos y aprovechamientos que correspondan al Estado Libre y Soberano de Morelos, así como aquellos que se establezcan en los Convenios de Coordinación Fiscal con la Federación y los Ayuntamientos;
+###### Artículo 25.
 
-XIII. Recibir las participaciones y apoyos que correspondan y otorgue la Federación al Gobierno del Estado Libre y Soberano de Morelos, conforme a las disposiciones jurídicas aplicables;
+La cuota del seguro de enfermedades no profesionales y de maternidad que establece este Artículo en favor de pensionistas y de sus familiares derechohabientes, se cubrirá en la siguiente forma:
 
-XIV. Planear, organizar y dirigir las tareas de revisión y de auditoría a causantes;
+I.- Siete por ciento, a cargo del pensionista, sobre la pensión que disfrute, cuyo descuento será hecho por el Instituto;
 
-XV. Substanciar el Procedimiento Administrativo de Ejecución, conforme a las disposiciones jurídicas aplicables;
+II.- Siete por ciento de la misma pensión a cargo del Estado u organismo público incorporado a que corresponda.
 
-XVI. Contratar la deuda pública del Estado Libre y Soberano de Morelos, así como administrar y controlar su servicio;
+Para el efecto establecido en la fracción II, el Instituto remitirá el día 15 de cada mes la nómina de los pensionistas a la Tesorería General del Estado, a fin de que esta Dependencia entregue en la quincena inmediata, la cantidad que resulte por concepto de aportación del Gobierno del Estado. En la misma forma se procederá cuando se trate de organismos incorporados. La misma cuota dará a los pensionistas el derecho a las demás prestaciones que les otorga esta ley.
 
-XVII. Realizar una labor permanente de difusión y orientación fiscal sobre las leyes tributarias del Estado Libre y Soberano de Morelos, así como proporcionar asesoría a los ayuntamientos y los particulares sobre la interpretación y aplicación de tales leyes. Esto último se dará a solicitud expresa;
+###### Artículo 26.
 
-XVIII. Intervenir por sí o a través de representante, en los juicios de carácter fiscal en defensa de los intereses de la Hacienda Pública del Estado Libre y Soberano de Morelos; esto último en los casos que existan Convenios de Colaboración Administrativa suscritos con la autoridad federal competente, para tales fines;
+Cuando se haga la hospitalización del asegurado en los términos del Reglamento de Servicios Médicos, el subsidio establecido en la Fracción II del artículo 23 se pagará al trabajador o a los familiares derechohabientes señalados en el orden del artículo 24.
 
-XIX. Integrar el anteproyecto de Presupuesto de Egresos del Gobierno del Estado Libre y Soberano de Morelos y el Programa General del Gasto del Sector Público, y someterlos a consideración de la persona titular del Ejecutivo por conducto de la persona titular de la Secretaría de Gobierno;
+Para la hospitalización se requiere el consentimiento expreso del enfermo o de sus familiares, a menos que se trate de casos graves y de urgencia o cuando por la naturaleza de la enfermedad, se imponga como indispensable esa medida.
 
-XX. Intervenir en el otorgamiento de transferencias que conceda el Gobierno del Estado Libre y Soberano de Morelos, así como comprobar que su aplicación se efectúe en los términos establecidos;
+En caso de incumplimiento por parte del enfermo a la orden del Instituto de someterse a hospitalización o cuando se interrumpa el tratamiento sin la autorización debida, se suspenderá el pago del subsidio.
 
-XXI. Autorizar la administración de recursos para el ejercicio del Presupuesto de Egresos de las Secretarías y Dependencias de la administración pública central, así como lo correspondiente a las transferencias a las Entidades de la administración pública paraestatal y los Ayuntamientos;
+SECCION 2a
 
-XXII. Autorizar la ministración de recursos que corresponda a los ayuntamientos por concepto de participaciones;
+SEGURO DE MATERNIDAD
 
-XXIII. Controlar y evaluar el ejercicio del Gasto Público y del Presupuesto de Egresos del Gobierno del Estado Libre y Soberano de Morelos, de conformidad con las disposiciones jurídicas aplicables;
+###### Artículo 27.
 
-XXIV. Dictar las medidas administrativas sobre responsabilidades que afecten la Hacienda Pública del Estado Libre y Soberano de Morelos, en el ejercicio del gasto;
+La mujer trabajadora, la esposa del trabajador o del pensionista, o a falta de la esposa la concubina de uno u otro, tendrán derecho a las siguientes prestaciones:
 
-XXV. Verificar que los servidores públicos que manejen fondos del Estado Libre y Soberano de Morelos, otorguen fianza suficiente para garantizar su manejo, en los términos que establezcan las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2011)</small>
 
-XXVI. Programar y efectuar los pagos que con cargo al presupuesto y conforme a las ministraciones autorizadas correspondan;
+I.- Asistencia obstétrica necesaria a partir del día en que los servicios médicos del Instituto certifiquen el estado de embarazo, o de la fecha en que se otorgue legalmente la adopción, en lo conducente.
 
-XXVII. Custodiar documentos que constituyan valores del Estado Libre y Soberano de Morelos;
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2011)</small>
 
-XXVIII. Planear, organizar, conducir y coordinar el Sistema de Contabilidad Gubernamental del Sector Público del Estado Libre y Soberano de Morelos;
+II.- Ayuda para la lactancia solo para la mujer trabajadora. Esta prestación se hará extensiva a la esposa o concubina del trabajador o pensionista, en los casos en que según dictamen médico exista incapacidad física para amamantar al hijo. Dicha ayuda será proporcionada en especie por un lapso de seis meses con posterioridad al nacimiento y se entregará a la madre, o a falta de ésta, a la persona encargada de alimentar al niño. Los mismos derechos aplicarán en el caso de adopción legalmente otorgada.
 
-XXIX. Hacer la glosa preventiva de los ingresos y egresos del Gobierno del Estado Libre y Soberano de Morelos;
+> <small>(ADICIONADA, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
-XXX. Proponer a la persona titular del Poder Ejecutivo, la cancelación de cuentas incobrables;
+III.- A la capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de vida.
 
-XXXI. Normar la celebración de actos y contratos en los que se establezcan pagos, derechos y obligaciones del Gobierno del Estado Libre y Soberano de Morelos, así como definir e instrumentar el Sistema de Registro correspondiente;
+> <small>(ADICIONADA, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
-XXXII. Formular mensualmente los estados financieros de la Hacienda Pública, incluyendo el correspondiente al de origen y aplicación de recursos, así como elaborar la cuenta pública y mantener la relación con la Auditoría Superior de Fiscalización del Congreso del Estado de Morelos;
+IV.- Durante la lactancia podrá tener dos descansos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos, sean biológicos o por adopción, o en su caso el tiempo equivalente acordado con la autoridad responsable, en lugar adecuado e higiénico que designe la institución o dependencia.
 
-XXXIII. Ser cabeza de sector y controlar financieramente la operación de las Entidades de la administración pública paraestatal que no estén expresamente encomendadas a otra Secretaría o Dependencia;
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2011.)</small>
 
-XXXIV. Normar, coordinar e integrar la participación de las Secretarías, Dependencias y Entidades del sector público en la elaboración de los documentos necesarios para preparar el informe anual a que hace referencia el primer párrafo del artículo 33 de la Constitución Política del Estado Libre y Soberano de Morelos;
+###### Artículo 28.
 
-XXXV. Planear, organizar y coordinar el Sistema Estatal de Información Estadística y Geográfica, así como la información estadística del Gobierno del Estado Libre y Soberano de Morelos;
+Para que la trabajadora, la esposa o concubina derechohabiente tengan derecho a las prestaciones que establece el artículo anterior, será necesario que, durante los seis meses anteriores al parto, o de la fecha en que se otorgue legalmente la adopción, se hayan mantenido vigentes los derechos de la trabajadora asegurada o del trabajador del que se deriven estas prestaciones.
 
-XXXVI. Planear, organizar, coordinar, dirigir y controlar el Sistema de Catastro del Estado Libre y Soberano de Morelos, conforme a las disposiciones jurídicas aplicables;
+SECCION 3a
 
-XXXVII. Integrar y mantener actualizada la Cartografía Catastral del Estado;
+CONSERVACION DE DERECHOS
 
-XXXVIII. Auxiliar a las autoridades Municipales, en la capacitación y Asesoría Técnica y Jurídica para la realización de las funciones catastrales;
+###### Artículo 29.
 
-XXXIX. Proporcionar la asesoría que en materia de interpretación fiscal le otorgan los ordenamientos tributarios del Estado Libre y Soberano de Morelos;
+El trabajador dado de baja por cese o renuncia, pero que haya prestado servicios ininterrumpidos inmediatamente antes de la separación durante un mínimo de seis meses, conservará durante los dos meses siguientes a la misma el derecho de recibir las prestaciones establecidas en este capítulo. Del mismo derecho disfrutarán, en lo que proceda, sus familiares derechohabientes.
 
-XL. Concentrar y requerir en su caso las garantías que se otorguen en favor del Gobierno del Estado Libre y Soberano de Morelos, por conducto de cualesquiera de sus Secretarías y Dependencias, o bien en favor de la Federación, de acuerdo a los convenios celebrados para tal efecto; registrarlas, cancelarlas o hacerlas efectivas conforme a las disposiciones legales aplicables;
+###### Artículo 30.
 
-XLI. Realizar la evaluación general de la gestión gubernamental en los términos previstos por el Sistema Estatal de Planeación Democrática;
+Se establece el seguro de accidentes del trabajo y enfermedades profesionales en favor de los trabajadores a que se refiere el artículo 1o. de esta Ley y de aquellos que se acojan a sus beneficios en los términos del Artículo 3o. de la misma. El Instituto se subrogará, en la medida y términos de esta Ley, en las obligaciones del Estado y organismos públicos incorporados derivadas de las leyes que regulen sus relaciones con sus respectivos trabajadores.
 
-XLII. Elaborar los anteproyectos de iniciativas de ley, reglamentos, decretos, acuerdos y demás disposiciones jurídicas en el ámbito de su competencia y proponérselos a la persona titular del Poder Ejecutivo, previa obtención de la validación y rúbrica de la Consejería Jurídica;
+###### Artículo 31.
 
-XLIII. Refrendar los decretos, acuerdos, reglamentos y demás disposiciones de carácter general que expida el Ejecutivo, en materia de su competencia;
+La profesionalidad de los accidentes y enfermedades será calificada técnicamente por el Instituto. El afectado inconforme con la calificación podrá designar un perito técnico o médico para que dictamine a su vez. Es (sic) caso de desacuerdo entre la calificación del Instituto y el dictamen del perito del afectado, el Instituto le proporcionará una terna preferentemente de especialistas de notorio prestigio profesional para que entre ellos elija uno, quien resolverá en forma definitiva, en la inteligencia de que una vez hecha la elección por el afectado del tercero en discordia, el dictamen de éste será inapelable y por lo tanto obligatorio para el interesado y para el Instituto.
 
-XLIV. Vigilar el cumplimiento de las disposiciones jurídicas en el ámbito de su competencia;
+###### Artículo 32.
 
-XLV. Tramitar y resolver los recursos administrativos en el ámbito de su competencia;
+En caso de accidente o enfermedad profesional, el trabajador tendrá derecho a las siguientes prestaciones:
 
-XLVI. Asesorar a la persona titular del Poder Ejecutivo, en la elaboración de convenios y todo tipo de instrumentos jurídicos, que celebre con la Federación y los ayuntamientos del Estado Libre y Soberano de Morelos, en el ámbito de su competencia;
+> <small>(REFORMADA, B.O. 19 DE MARZO DE 1975)</small>
 
-XLVII. Regular y controlar administrativa y financieramente todo lo relacionado a los trámites de licencias de conducir y actualizaciones, así como la planeación, elaboración, organización, integración, actualización y vigilancia del Registro Estatal de Control Vehicular, por medios tradicionales o magnéticos;
+I.- Asistencia médica, quirúrgica, farmacéutica, así como aparatos de prótesis de ortopedia y hospitalización que sea necesaria.
 
-XLVIII. Suscribir convenios, contratos y demás de instrumentos con la Federación, los Municipios y otras instituciones públicas o privadas, en la materia de su competencia;
+II.- Licencia con goce de sueldo íntegro cuando el accidente o enfermedad profesional incapaciten al trabajador para desempeñar sus labores. El pago del sueldo se hará desde el primer día de incapacidad y será cubierto en la siguiente forma:
 
-XLIX. Autorizar la expedición de las placas metálicas, tarjetas de circulación, calcomanías, autorizaciones, permisos y licencias de conducir para la prestación del servicio particular, así como llevar un control de todo lo relacionado a estas actividades.
+a).- Por el Estado y organismos públicos incorporados, durante los períodos y de acuerdo con las disposiciones que para el efecto estén en vigor.
 
-L. Expedir, suspender y cancelar licencias y permisos de conducir en sus diversas modalidades;
+b).- Por el Instituto, desde el día en que cese la obligación del Estado y organismos a que se refiere el inciso anterior y hasta que termine la incapacidad cuando esta sea temporal, o bien hasta que se declare la incapacidad permanente del trabajador y este comience a disfrutar de la pensión por invalidez.
 
-LI. Validar los procedimientos y la documentación para la autorización en el cobro de las contribuciones por los servicios de control vehicular;
+Para los efectos de la determinación de la incapacidad producida por accidente o enfermedad profesional, debe estarse a lo que dispongan las leyes que rijan las relaciones del Estado o de los organismos incorporados, en su caso, con sus trabajadores. El trabajador será sometido a examen (sic) periódicos, con intervalos que no excederán de tres meses, cuando la índole de la incapacidad lo amerite, con el fin de apreciar su estado de salud y dictaminar si se encuentra en aptitud de volver al servicio. En un término que no excederá de un año después de iniciada una incapacidad, deberá declararse si la misma es permanente, en cuyo caso se estará a lo dispuesto en los siguientes artículos.
 
-LII. Expedir y actualizar la Revista Mecánica, conversiones o adaptaciones para los vehículos automotores del Estado de conformidad con las disposiciones jurídicas aplicables;
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
 
-LIII. Proponer e instrumentar las medidas tendientes a evitar la evasión y elusión fiscal;
+###### Artículo 33.
 
-LIV. Representar al Gobierno del Estado y participar activamente dentro del Sistema Nacional de Coordinación Fiscal y en el Sistema Estatal de Coordinación Hacendaria;
+Al ser declarada una incapacidad parcial permanente, se concederá al incapacitado una indemnización por la cantidad que resulte, calculada conforme a la tabla de valuación de incapacidades aplicable, en los términos de las leyes a que se refiere la fracción II del artículo anterior y, en su defecto, a la contenida en la Ley Federal del Trabajo, atendiendo al sueldo básico definido por el artículo 15. El tanto por ciento se fijará entre el máximo y el mínimo que establezcan las tablas de valuación mencionadas, teniendo en cuenta la edad del trabajador y la importancia de su incapacidad, según sea o no absoluta para el ejercicio de su profesión, oficio o trabajo habitual, aún cuando quede habilitado para dedicarse a otra actividad, o aún si solamente hubiere disminuido su aptitud para el desempeño de la misma.
 
-LV. Realizar los estudios y análisis para la aplicación del presupuesto con base en resultados, y
+Al ser declarada una incapacidad total permanente, se concederá al incapacitado una pensión igual al sueldo íntegro que venía disfrutando y sobre el cual hubiese pagado las cuotas correspondientes, cualquiera que sea el tiempo que hubiese estado en funciones.
 
-LVI. Las demás que señalen las disposiciones jurídicas o le delegue la persona titular del Ejecutivo por mandato específico.
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
 
-###### ARTÍCULO 26.
+###### Artículo 34.
 
-A la Secretaría de Desarrollo Económico le corresponde el despacho de los siguientes asuntos:
+Al declararse una incapacidad permanente total, se concederá la pensión respectiva con carácter provisional, por un período de dos años. En el transcurso de este lapso, el Instituto podrá ordenar, y, por su parte, el afectado tendrá derecho a solicitar, la revisión de la incapacidad con el fin de aumentar, disminuir o revocar la cuantía de la pensión, según el caso. Transcurrido el período anterior, la pensión se considerará como definitiva y su revisión sólo podrá hacerse una vez al año, salvo que existieran pruebas de un cambio substancial en las condiciones de la incapacidad.
 
-I. Proponer e instrumentar la política de fomento y promoción de las actividades industriales, comerciales y de servicios, con especial atención a la micro, pequeña y mediana empresa, así como de promoción de inversiones, en el territorio del Estado Libre y Soberano de Morelos;
+El incapacitado estará obligado, en todo tiempo, a someterse a los reconocimientos, tratamientos y exámenes médicos que determine el Instituto.
 
-II. Elaborar, dirigir, coordinar, implementar y ejecutar los programas y acciones de fomento a las actividades industriales, comerciales y de servicios, con especial atención a la micro, pequeña y mediana empresa, así como de promoción de inversiones estratégicas;
+###### Artículo 35.
 
-III. Promover la participación de los sectores social y privado del Estado Libre y Soberano de Morelos, en la instrumentación de los programas de su competencia, así como inducir el establecimiento de compromisos en actividades conjuntas;
+Cuando el trabajador fallezca a consecuencia de un riesgo profesional, los derechohabientes señalados en el artículo 83 y en el orden que establece, gozarán por un año de una pensión íntegra, equivalente al 100% del sueldo o sueldos que hubiese percibido el trabajador en el momento de ocurrir el fallecimiento, disminuyendo dicha pensión un 10% el segundo año y así sucesivamente en los subsecuentes, hasta llegar a la mitad de la pensión original.
 
-IV. Ejercer las atribuciones derivadas de los convenios que, en materia de Desarrollo Económico, celebre el Gobierno del Estado Libre y Soberano de Morelos, con la Federación y con los municipios;
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
 
-V. Suscribir convenios, contratos y demás de instrumentos con la Federación, los Municipios y otras instituciones públicas o privadas, en la materia de su competencia;
+###### Artículo 36.
 
-VI. Promover el desarrollo de espacios dedicados a las actividades industriales, comerciales y de servicios;
+Cuando un pensionado por incapacidad permanente total fallezca, se aplicarán las siguientes reglas:
 
-VII. Organizar y promover la producción y comercialización de la actividad de las microempresas del Estado;
+I.- Si el fallecimiento se produce como consecuencia directa de la incapacidad total permanente, los familiares derechohabientes señalados en esta Ley y en el orden que la misma establece, continuarán percibiendo la pensión con cuota íntegra durante el primer año, diez por ciento menos en el segundo año e igual deducción en los años sucesivos, hasta llegar al cincuenta por ciento de la pensión original.
 
-VIII. Promover la integración eficiente del sistema estatal de abasto, con especial atención en la distribución y acceso de la población, a los productos básicos;
+II.- Si la muerte es originada por causas ajenas a la incapacidad permanente total, se entregará a los derechohabientes, como única prestación, el importe de seis meses de la cuota disfrutada por el pensionista.
 
-IX. Promover el desarrollo de infraestructura económica estratégica;
+###### Artículo 37.
 
-X. Orientar la actividad científico-tecnológica del Estado Libre y Soberano de Morelos, hacia el desarrollo empresarial;
+Para la división de la pensión derivada de este capítulo, entre los familiares derechohabientes, se estará a lo dispuesto en el último párrafo del artículo 83 de esta ley.
 
-XI. Promover la cultura de la calidad, innovación y competitividad de las empresas;
+En cuanto a la determinación de la pensión para la viuda, concubina, hijos o divorciada, en su caso, se estará a lo dispuesto en los artículos 86 y 87.
 
-XII. Promover e impulsar la agroindustria y la industria rural, difundiendo esquemas de producción, asociación y comercialización modernas y eficientes, en coordinación con la Secretaría de Desarrollo Agropecuario;
+###### Artículo 38.
 
-XIII. Promover y coordinar programas y actividades de desarrollo económico, con organismos internacionales, gobiernos de otros países y sus Estados y/o regiones, así como sus representaciones diplomáticas y comerciales en México;
-
-XIV. Promover la planeación e integración regional con otros Estados en materia de logística y consolidación de concentraciones geográficas de empresas e instituciones interrelacionadas, que actúen en una determinada actividad productiva y agrupen una amplia gama de industrias relacionadas, y que sean importantes para competir en el escenario económico nacional.
-
-XV. Servir de órgano de consulta y asesoría en materia de desarrollo económico, tanto a los organismos públicos y privados, como a las Secretarías, Dependencias y Entidades del Poder Ejecutivo;
-
-XVI. Asesorar a los Ayuntamientos en materia de desarrollo económico, cuando así los soliciten;
-
-XVII. Promover la realización de ferias, exposiciones y congresos industriales y comerciales;
-
-XVIII. Solicitar, cuando le exija el interés público y de acuerdo con las leyes respectivas, se designen bienes que deban destinarse al desarrollo de los programas de la Secretaría;
-
-XIX. Elaborar los anteproyectos de iniciativas de ley, reglamentos, decretos, acuerdos y demás disposiciones jurídicas en el ámbito de su competencia y proponérselos a la persona titular del Poder Ejecutivo, previa obtención de la validación y rúbrica de la Consejería Jurídica;
-
-XX. Refrendar los decretos, acuerdos, reglamentos y demás disposiciones de carácter general que expida el Ejecutivo, en materia de su competencia;
-
-XXI. Vigilar el cumplimiento de las disposiciones jurídicas en el ámbito de su competencia;
-
-XXII. Tramitar y resolver los recursos administrativos en el ámbito de su competencia;
-
-XXIII. Asesorar a la persona titular del Poder Ejecutivo, en la elaboración de convenios que celebre con la Federación y los Ayuntamientos del Estado Libre y Soberano de Morelos, en el ámbito de su competencia;
-
-XXIV. Desempeñar las comisiones y funciones especiales que le confiera la persona titular del Ejecutivo;
-
-XXV. Suscribir los convenios y contratos que le correspondan en el ámbito de su competencia;
-
-XXVI. Ejecutar las acciones que considere necesarias para fomentar el desarrollo económico del Estado, y
-
-XXVII. Las demás que señalen las disposiciones jurídicas o le delegue la persona Titular del Ejecutivo por mandato específico.
-
-###### ARTÍCULO 27.
-
-A la Secretaría de Turismo le corresponde el despacho de los siguientes asuntos:
-
-I. Planear, programar, estudiar y evaluar toda clase de actividades turísticas dentro del Estado Libre y Soberano de Morelos;
-
-II. Proveer, en general, el desarrollo eficiente y sustentable de todas las actividades turísticas del Estado Libre y Soberano de Morelos;
-
-III. Realizar actividades para la promoción, desarrollo y fomento de la oferta e infraestructura turística;
-
-IV. Proporcionar capacitación turística con su propia organización, así como orientar y supervisar las actividades públicas o privadas que se realicen con ese fin;
-
-V. Coordinarse con los organismos o Entidades, tanto Federales como Estatales y Municipales relacionadas con la materia turística, así como con los particulares, para elaborar programas y realizar las acciones correspondientes dentro de su ámbito de competencia;
-
-VI. Promover, en coordinación con las autoridades federales y municipales competentes, la preservación, conservación y, en su caso, administración de zonas arqueológicas, bienes y monumentos artísticos e históricos;
-
-VII. Participar en la protección de lugares turísticos o de belleza natural, procurando la protección ecológica y ambiental;
-
-VIII. Mantener relaciones con organizaciones turísticas estatales, nacionales e internacionales, con el fin de promover y difundir el turismo en el Estado Libre y Soberano de Morelos;
-
-IX. Intervenir en la creación, conservación, mejoramiento, protección y aprovechamiento de los recursos y zonas de desarrollo turístico del Estado Libre y Soberano de Morelos, por sí o en coordinación con la Federación y los Municipios;
-
-X. Celebrar convenios y contratos con las autoridades y particulares relacionados con el turismo, en la materia de su competencia;
-
-XI. Elaborar y mantener actualizado el inventario turístico y las estadísticas en la materia;
-
-XII. Atender las quejas y canalizar a las autoridades competentes las denuncias que se formulen respecto de los prestadores de servicio turístico;
-
-XIII. Promover y difundir las publicaciones e información turística del Estado Libre y Soberano de Morelos;
-
-XIV. Promover la calidad y excelencia de los servicios turísticos;
-
-XV. Registrar, controlar y supervisar los servicios turísticos, de acuerdo con la legislación aplicable y los convenios que para ese objeto se celebren;
-
-XVI. Proporcionar los servicios de auxilio, protección, orientación e información a los turistas en coordinación con las Secretarías y Dependencias Federales, Estatales y Municipales;
-
-XVII. Otorgar, en el ámbito de su competencia, concesiones y permisos necesarios para la explotación sustentable de los recursos turísticos del Estado Libre y Soberano de Morelos, controlando y supervisando la prestación de estos servicios conforme a las disposiciones jurídicas aplicables.
-
-XVIII. Cuando derivado de las Concesiones a que se refiere el párrafo anterior se afecten bienes inmuebles, deberá previamente cumplirse con lo establecido en el artículo 40 fracción XIV de la Constitución Política Local;
-
-XIX. Establecer y dirigir la política interna en materia de atracción y promoción de proyectos de inversión cinematográficos, en los términos de la legislación aplicable y de los lineamientos que la persona titular del Ejecutivo establezca al efecto;
-
-XX. Elaborar los anteproyectos de iniciativas de ley, reglamentos, decretos, acuerdos y demás disposiciones jurídicas en el ámbito de su competencia y proponérselos a la persona titular del Poder Ejecutivo, previa obtención de la validación y rúbrica de la Consejería Jurídica;
-
-XXI. Refrendar los decretos, acuerdos, reglamentos y demás disposiciones de carácter general que expida el Ejecutivo, en materia de su competencia;
-
-XXII. Vigilar el cumplimiento de las disposiciones jurídicas, en el ámbito de su competencia;
-
-XXIII. Tramitar y resolver los recursos administrativos en el ámbito de su competencia;
-
-XXIV. Asesorar a la persona titular del Poder Ejecutivo, en la elaboración de convenios que celebre con la Federación y los Ayuntamientos, en el ámbito de su competencia;
-
-XXV. Desempeñar las comisiones y funciones especiales que le confiera el titular del Ejecutivo, y
-
-XXVI. Las demás que señalen las leyes y reglamentos vigentes y las que le delegue la persona titular del Poder Ejecutivo.
-
-###### ARTÍCULO 28.
-
-A la Secretaría de Desarrollo Agropecuario le corresponde el despacho de los siguientes asuntos:
-
-I. Proponer e instrumentar la política de fomento y promoción del desarrollo agropecuario y agroindustrial en el ámbito de competencia del Estado Libre y Soberano de Morelos;
-
-II. Elaborar el Programa de Fomento y Promoción de las Actividades Agropecuarias y Agroindustriales del Estado Libre y Soberano de Morelos, así como dirigir, coordinar y controlar su instrumentación;
-
-III. Fomentar, en coordinación con la Secretaría de Educación, programas de investigación y enseñanza en las materias de su competencia, así como divulgar técnicas y sistemas que permitan mejorar la producción en dichos campos;
-
-IV. Promover la participación de los sectores social y privado del Estado Libre y Soberano de Morelos, en la instrumentación de los programas de su competencia, así como inducir el establecimiento de compromisos en actividades conjuntas o con la participación exclusiva de éstos;
-
-V. Ejercer las atribuciones derivadas de los convenios que en materia agropecuaria celebre el Gobierno del Estado Libre y Soberano de Morelos, con la Federación y los ayuntamientos;
-
-VI. Celebrar, por acuerdo del Ejecutivo, convenios con los ayuntamientos para el fomento y promoción en las materias de su competencia;
-
-VII. Promover la creación y desarrollo de organizaciones de productores en las materias de su competencia, así como proporcionarles la asistencia técnica que requieran;
-
-VIII. Promover y coordinar acciones tendientes a la obtención de créditos, seguros, insumos y asistencia técnica, comercial y administrativa para los productores agropecuarios del Estado Libre y Soberano de Morelos;
-
-IX. Promover y coordinar acciones tendientes a apoyar la comercialización de los productos agropecuarios y agroindustriales del Estado Libre y Soberano de Morelos;
-
-X. Promover y participar en ferias, exposiciones y concursos agropecuarios y agroindustriales en el Estado Libre y Soberano de Morelos;
-
-XI. Coadyuvar con las autoridades competentes en la atención y solución de los asuntos agrarios en el Estado Libre y Soberano de Morelos;
-
-XII. Regular la sanidad agropecuaria, en el ámbito de su competencia;
-
-XIII. Elaborar el inventario de los recursos agrícolas y ganaderos en el Estado Libre y Soberano de Morelos;
-
-XIV. Proponer y promover la constitución de empresas del sector agrario, vinculadas al desarrollo rural;
-
-XV. Elaborar los anteproyectos de iniciativas de ley, reglamentos, decretos, acuerdos y demás disposiciones jurídicas en el ámbito de su competencia y proponérselos a la persona titular del Poder Ejecutivo, previa obtención de la validación y rúbrica de la Consejería Jurídica;
-
-XVI. Refrendar los decretos, acuerdos, reglamentos y demás disposiciones de carácter general que expida el Ejecutivo, en materia de su competencia;
-
-XVII. Vigilar el cumplimiento de las disposiciones jurídicas en el ámbito de su competencia;
-
-XVIII. Tramitar y resolver los recursos administrativos en el ámbito de su competencia;
-
-XIX. Asesorar a la persona titular del Poder Ejecutivo, en la elaboración de convenios que celebre con la Federación y los ayuntamientos en el ámbito de su competencia;
-
-XX. Suscribir los convenios y contratos que le correspondan en el ámbito de su competencia, y
-
-XXI. Las demás que señalen las disposiciones jurídicas o le delegue la persona Titular del Ejecutivo por mandato específico.
-
-###### ARTÍCULO 29.
-
-A la Secretaría de Desarrollo Urbano y Obras Públicas le corresponde el despacho de los siguientes asuntos:
-
-I. Proponer e instrumentar las políticas y planes para el ordenamiento territorial sustentable de los asentamientos humanos y el desarrollo humano y sustentable de los centros de población;
-
-II. Normar la planeación urbana sustentable de los Municipios en términos de las disposiciones aplicables;
-
-III. Proponer e instrumentar las políticas de fomento y promoción en materia de vivienda, infraestructura, y vías de comunicación;
-
-IV. Conocer y dictaminar la congruencia de los programas de planeación de competencia municipal con los niveles de planeación superior que competen al Estado Libre y Soberano de Morelos y proponer a la persona Titular del Poder Ejecutivo los acuerdos para la publicación en el Periódico Oficial “Tierra y Libertad” de los programas de desarrollo urbano sustentable de carácter municipal;
-
-V. Formular y administrar los programas Estatales de Ordenamiento Territorial y Desarrollo Urbano Sustentable, así como en materia de infraestructura y vías de comunicación y los demás de competencia estatal de conformidad otras (sic) disposiciones jurídicas aplicables;
-
-VI. Integrar, con la participación de las Secretarías y Dependencias de la administración pública central, el Programa General de Obras del Gobierno del Estado Libre y Soberano de Morelos, así como efectuar la dirección técnica de las mismas;
-
-VII. Promover la participación de los sectores social y privado del Estado Libre y Soberano de Morelos, en la instrumentación de los programas de su competencia, así como inducir el establecimiento de compromisos en actividades conjuntas o con la participación exclusiva de éstos;
-
-VIII. Ejercer las atribuciones derivadas de los convenios en materia de planeación, administración urbana, así como en materia de vivienda, infraestructura y vías de comunicación que celebre el Gobierno del Estado Libre y Soberano de Morelos;
-
-IX. Autorizar la expedición de permisos, licencias y autorizaciones para el establecimiento de fusiones, divisiones, fraccionamientos, condominios y conjuntos urbanos y sus modificaciones conforme a las disposiciones jurídicas aplicables;
-
-X. Establecer los términos de referencia para la formulación de programas de desarrollo urbano sustentable en sus distintos niveles, conforme a la legislación vigente en la materia;
-
-XI. Proyectar y coordinar la participación que corresponda al Gobierno Federal y los ayuntamientos en materia de planeación y administración urbana, en zonas prioritarias;
-
-XII. Expedir concesiones, autorizaciones y permisos en relación con las materias de su competencia, y conforme a las disposiciones jurídicas aplicables;
-
-XIII. Proyectar, ejecutar, administrar, mantener y realizar las obras que propongan las Secretarías y Dependencias de la administración pública central, incluyendo dentro de éstas la construcción, reparación y mantenimiento de las vías de comunicación terrestre estatales, y sus derechos de vía, previa suficiencia presupuestal;
-
-XIV. Establecer de acuerdo con los proyectos, programas y contratos el Sistema de Seguimiento Físico y Financiero de las Obras Públicas que realice el Sector Público Estatal;
-
-XV. Expedir las bases a que se sujetarán los concursos para la ejecución de obras del Gobierno del Estado Libre y Soberano de Morelos, previa suficiencia presupuestal, con apego a lo establecido en la legislación de la materia, así como adjudicar, vigilar cumplimientos y, en su caso, rescindir los contratos celebrados de conformidad con las disposiciones jurídicas aplicables;
-
-XVI. Asesorar y dar asistencia técnica a las Secretarías, Dependencias y Entidades del Poder Ejecutivo Estatal y a los ayuntamientos en las materias que son de su competencia;
-
-XVII. Elaborar los anteproyectos de iniciativas de ley, reglamentos, decretos, acuerdos y demás disposiciones jurídicas en el ámbito de su competencia y proponérselos a la persona titular del Poder Ejecutivo, previa obtención de la validación y rúbrica de la Consejería Jurídica;
-
-XVIII. Refrendar los decretos, acuerdos, reglamentos y demás disposiciones de carácter general que expida el Ejecutivo, en materia de su competencia;
-
-XIX. Vigilar el cumplimiento de las disposiciones jurídicas en el ámbito de su competencia;
-
-XX. Tramitar y resolver los recursos administrativos en el ámbito de su competencia;
-
-XXI. Asesorar a la persona titular del Poder Ejecutivo en la elaboración de convenios que celebre con la Federación y los ayuntamientos en el ámbito de su competencia;
-
-XXII. Suscribir los convenios y contratos que le correspondan en el ámbito de su competencia, y
-
-XXIII. Las demás que señalen las disposiciones jurídicas o le delegue la persona Titular del Ejecutivo por mandato específico.
-
-###### ARTÍCULO 30.
-
-A la Secretaría de Salud le corresponde el despacho de los siguientes asuntos:
-
-I. Proponer al Ejecutivo Estatal las políticas y programas en materia de salud de conformidad con lo dispuesto en las leyes general y estatal de salud, sus reglamentos respectivos, y en su caso, los acuerdos celebrados con el Gobierno Federal respecto a la descentralización operativa de estas funciones;
-
-II. Coordinar los servicios de atención integral a la salud individual, familiar y comunitaria en aspectos preventivos, de asistencia médica y de rehabilitación, que prestan los organismos que le estén sectorizados;
-
-III. Impulsar la ejecución de políticas públicas en materia de salud y establecer los acuerdos que correspondan para el logro de éste objetivo;
-
-IV. Coordinar y evaluar los programas de atención médica, medicina preventiva y de epidemiología, promoviendo su ejecución en las instituciones públicas o privadas que presten servicios de salud, así como coordinar y establecer los acuerdos que correspondan para el logro de estos objetivos;
-
-V. Coordinar y normar el sistema estatal de salud;
-
-VI. Promover el acceso de la población a los servicios de salud;
-
-VII. Coordinar sus acciones con otras instituciones públicas y privadas de salud para mejorar la prestación de los servicios;
-
-VIII. Promover y coordinar la realización de congresos y actividades académicas que promuevan el desarrollo de los servicios de salud y su investigación científica;
-
-IX. Celebrar convenios con las instituciones de educación media y superior, para la formación de recursos humanos en el campo de la salud y la ejecución de programas de servicio social, universitario y profesional, en las áreas de salud y asistencia social;
-
-X. Ejercer el fomento y control sanitario que determinen las leyes general y estatal de salud y sus disposiciones reglamentarias;
-
-XI. Determinar la información que en materia de salud, deberán proporcionar las Secretarías, Dependencias y Entidades de la administración pública, e instituciones de salud en el Estado Libre y Soberano de Morelos, para la elaboración de planes o programas de salud;
-
-XII. Impulsar las actividades científicas, el desarrollo tecnológico y la innovación, en el campo de la salud;
-
-XIII. Promover la vinculación y participación de la sociedad en la realización de programas orientados a la promoción, prevención y educación en el cuidado de la salud;
-
-XIV. Impulsar y vigilar en el ámbito de su competencia la observancia de las normas oficiales mexicanas que emitan las autoridades competentes en materia de salud;
-
-XV. Fomentar y vigilar que el ejercicio de los profesionales, técnicos, auxiliares y demás prestadores de servicios de salud y asistencia social se ajusten a los preceptos legales establecidos en la legislación y normatividad de salud, así como apoyar su capacitación y actualización;
-
-XVI. Promover y realizar acciones de prevención y control para el cuidado del medio ambiente en coordinación con las autoridades competentes, cuando pueda resultar afectada la salud de la población;
-
-XVII. Dictar en los términos de las disposiciones jurídicas aplicables, las medidas de seguridad sanitaria que sean necesarias para proteger la salud de la población;
-
-XVIII. Imponer y aplicar sanciones en los términos de las leyes, reglamentos y demás disposiciones aplicables;
-
-XIX. Conocer y resolver en el ámbito de su competencia, los recursos administrativos que interpongan los particulares en contra de los actos emanados de esta Secretaría;
-
-XX. Celebrar los convenios y contratos que se requieran en el ámbito de su competencia;
-
-XXI. Impulsar las acciones necesarias para la ejecución y consolidación del Sistema de Protección Social en Salud;
-
-XXII. Elaborar los anteproyectos de iniciativas de ley, reglamentos, decretos, acuerdos y demás disposiciones jurídicas en el ámbito de su competencia y proponérselos a la persona titular del Poder Ejecutivo, previa obtención de la validación y rúbrica de la Consejería Jurídica;
-
-XXIII. Refrendar los decretos, acuerdos, reglamentos y demás disposiciones de carácter general que expida el Ejecutivo, en materia de su competencia, y
-
-XXIV. Las demás que señalen expresamente las leyes y reglamentos vigentes en el Estado Libre y Soberano de Morelos o le delegue la persona titular del Poder Ejecutivo.
-
-###### ARTÍCULO 31.
-
-A la Secretaría de Educación le corresponde el despacho de los siguientes asuntos:
-
-I. Proponer a la persona Titular del Ejecutivo estatal las políticas en materia educativa, cultural y recreativa en el ámbito de competencia del (sic) Libre y Soberano de Morelos;
-
-II. Diseñar y formular los programas relativos a la educación, la cultura, el deporte y la recreación con base en la normatividad vigente en materia de planeación;
-
-III. Formular y promover la celebración de convenios de concertación con los sectores social y privado, para la formulación y ejecución de los programas de educación, cultura, deporte y recreación;
-
-IV. Formular y promover la celebración de convenios de coordinación con la Federación y con los Municipios del Estado Libre y Soberano de Morelos, en materia de educación, cultura, deporte y recreación;
-
-V. Representar al Gobierno del Estado Libre y Soberano de Morelos, ante todo tipo de autoridades y organismos educativos;
-
-VI. Planear, organizar, coordinar, dirigir, vigilar y evaluar los servicios educativos a cargo del Gobierno del Estado Libre y Soberano de Morelos o de sus organismos descentralizados en todos los tipos, niveles y modalidades, en términos de la legislación vigente en la materia;
-
-VII. Planear, organizar, coordinar, dirigir y vigilar los servicios educativos a cargo de los particulares en todos los tipos (sic) niveles y modalidades, de conformidad con la legislación aplicable en la materia;
-
-VIII. Crear y mantener las escuelas oficiales que dependan directamente del Gobierno del Estado Libre y Soberano de Morelos y autorizar la creación de las que formen parte de sus organismos descentralizados, con excepción de las instituciones de educación superior autónomas;
-
-IX. Formular los contenidos regionales de los planes y programas de estudio de la educación básica;
-
-X. Promover y coordinar la realización de actos cívicos y escolares en las fechas señaladas por el calendario oficial, que coadyuven a fortalecer la identidad nacional y regional;
-
-XI. Planear, organizar, dirigir y controlar el sistema para la equivalencia y revalidación de estudios, diplomas, grados y títulos, conforme a las disposiciones jurídicas aplicables en el ámbito de su competencia;
-
-XII. Llevar el registro y control de los profesionistas que egresen del Sistema Educativo Estatal, así como de los colegios o asociaciones profesionales y organizar el servicio social respectivo en los niveles y modalidades competencia de esta Secretaría;
-
-XIII. Formular programas permanentes de educación para adultos, de alfabetización y demás programas especiales, en coordinación con los Gobiernos federal y municipal;
-
-XIV. Formular programas de educación a comunidades indígenas, en coordinación con otras instancias competentes;
-
-XV. Fomentar y difundir la cultura, así como la educación artística en el Estado Libre y Soberano de Morelos;
-
-XVI. Coordinar, organizar, dirigir y fomentar el establecimiento de bibliotecas, hemerotecas, museos, teatro y casas de cultura, así como conservar y acrecentar el patrimonio cultural del Estado Libre y Soberano de Morelos;
-
-XVII. Promover el desarrollo de la investigación científica y tecnológica en el Estado Libre y Soberano de Morelos;
-
-XVIII. Elaborar el programa anual de construcción de obra destinada a la educación, la cultura, el deporte y la recreación, así como el de mantenimiento y conservación de estos inmuebles e instalaciones, en coordinación con la Secretaría de Desarrollo Urbano y Obras Públicas;
-
-XIX. Elaborar los anteproyectos de iniciativas de ley, reglamentos, decretos, acuerdos y demás disposiciones jurídicas en el ámbito de su competencia y proponérselos a la persona titular del Poder Ejecutivo, previa obtención de la validación y rúbrica de la Consejería Jurídica;
-
-XX. Refrendar los decretos, acuerdos, reglamentos y demás disposiciones de carácter general que expida el Ejecutivo, en materia de su competencia;
-
-XXI. Vigilar el cumplimiento de las disposiciones jurídicas en el ámbito de su competencia;
-
-XXII. Planear, organizar, coordinar, dirigir y controlar las actividades orientadas a la celebración de los actos cívicos de la administración pública central;
-
-XXIII. Tramitar y resolver los recursos administrativos en el ámbito de su competencia;
-
-XXIV. Suscribir los convenios y contratos que le correspondan en el ámbito de su competencia, y
-
-XXV. Las demás que señalen las leyes y reglamentos vigentes en el Estado Libre y Soberano de Morelos o le delegue la persona Titular del Poder Ejecutivo.
-
-###### ARTÍCULO 32.
-
-A la Secretaría de Seguridad Pública, le corresponderá el despacho de los siguientes asuntos:
-
-I. La conservación y preservación del orden, la tranquilidad y la seguridad pública en el Estado Libre y Soberano de Morelos;
-
-II. Coordinarse con las instancias Federales, Estatales y Municipales, para cumplir los objetivos y fines en la materia, así como participar en la integración de las instancias, instrumentos, políticas, servicios y acciones, tendientes a cumplir dichos objetivos y fines, en los términos, que dispongan los ordenamientos jurídicos Federales y Estatales aplicables;
-
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2010)</small>
-
-III. Conducir en el Estado Libre y Soberano de Morelos, las normas, políticas y programas en materia de seguridad pública que deriven de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública, la Ley del Sistema de Seguridad Pública del Estado de Morelos, la Ley de Reinserción Social y Seguimiento de Medidas Cautelares, la Legislación Penal, el Reglamento de los Servicios de Seguridad Privada y las demás disposiciones legales aplicables en ésta materia;
-
-IV. La prevención del delito en el ámbito de su competencia;
-
-V. Establecer la creación, estructuración y aplicación de los programas tendientes a combatir los hechos delictivos e infracciones administrativas, en los que deben participar las diferentes instituciones policiales;
-
-VI. Diseñar, implementar y evaluar las políticas, tendientes a la prevención de conductas antisociales, atendiendo a las modalidades sociales, económicas y culturales de la colectividad;
-
-VII. Planear, organizar y ejecutar los programas relativos a la protección de los habitantes, al orden público, a la prevención de delitos, conforme lo disponga la legislación de la materia;
-
-VIII. Diseñar, implantar y evaluar instrumentos y programas de educación preventiva, de la cultura de la legalidad, de prevención del delito y de organización vecinal, apoyándose, en medios eficaces de promoción y comunicación masiva dirigidos a la colectividad;
-
-IX. Difundir entre la población los programas que se establezcan de manera particular y general, en materia de prevención del delito;
-
-X. Implantar, impulsar vigilar y fortalecer los programas tendientes al Desarrollo Policial, la Carrera Policial, los sistemas de acreditación y la profesionalización del personal dedicado a las tareas de seguridad pública, así como implantar los mecanismos para la selección de los aspirantes, de su capacitación, de manera sistemática y continua, de conformidad con lo previsto en la Ley General del Sistema Nacional y las leyes locales en la materia, ello con el fin de brindar un servicio profesional y promover la dignificación de la labor policial;
-
-XI. Proponer a la persona titular del Poder Ejecutivo las políticas y medidas que propicien una conducta policial basada en los principios de legalidad, objetividad, eficiencia, honradez y respeto a los derechos humanos con el fin de combatir de manera enérgica y eficaz cualquier abuso o desviación en la conducta policial;
-
-XII. Conducir las funciones y vigilar la aplicación de las resoluciones emitidas por el Consejo de Honor y Justicia de las diversas corporaciones policiales del Estado Libre y Soberano de Morelos, en los términos de ley;
-
-XIII. Registrar de las denuncias y procedimientos administrativos del personal operativo en la base de datos correspondiente en el Sistema Nacional de Seguridad Pública;
-
-XIV. Administrar los recursos que le sean asignados a efecto de realizar una equitativa distribución de los mismos, entre las diferentes áreas que la integran asignando de acuerdo a las necesidades y requerimientos de cada una de ellas, los recursos financieros, humanos y materiales de que disponga, de acuerdo a la normatividad existente para tal efecto;
-
-XV. Fomentar la participación ciudadana en la realización de programas y acciones tendientes a prevenir la drogadicción, fármaco-dependencia, el alcoholismo y la toxicomanía en todos sus tipos, coordinándose con las autoridades competentes;
-
-XVI. Celebrar y suscribir los convenios y contratos necesarios para el cumplimiento de su función, con cualquier instancia pública o privada, en términos de la legislación aplicable;
-
-XVII. Auxiliar, dentro del marco legal aplicable a las autoridades Judiciales, Administrativas y del Trabajo para el ejercicio de sus funciones;
-
-XVIII. Otorgar la protección y auxilio necesario a la población, en casos de catástrofe, siniestro o desastres naturales en coordinación con las Secretarías y Dependencias directamente responsables para ello;
-
-XIX. Llevar el control de las estadísticas y reportes de las acciones y operativos que realice la policía estatal y supervisar, controlar y custodiar el registro administrativo de detenciones;
-
-XX. Vigilar y controlar el uso, portación y adquisición de armas de fuego de los diferentes cuerpos policiales de los Municipios y de la Corporación Estatal bajo su mando y que se encuentren registradas en la Licencia Oficial Colectiva correspondiente;
-
-XXI. Crear y administrar los respectivos bancos de información que permita el análisis y planeación estratégica de las acciones que debe tomar la policía preventiva estatal para la prevención del delito y la preservación de la seguridad pública del Estado Libre y Soberano de Morelos;
-
-XXII. Concentrar, registrar, procesar y analizar la estadística de la incidencia delictiva del Estado Libre y Soberano de Morelos, como una herramienta básica en la toma de decisiones de los mandos operativos de la policía preventiva estatal y que sea soporte de la planeación de acciones para la reducción de los índices delictivos vigentes;
-
-XXIII. Regular, supervisar, controlar y vigilar la prestación de los servicios de seguridad privada, y en consecuencia, expedir la autorización y revalidación para el establecimiento, integración y operación de las empresas del ramo que llevan a cabo sus funciones dentro del territorio estatal;
-
-XXIV. Administrar y controlar el Sistema Penitenciario Estatal y los centros de reclusión y de custodia preventiva en el Estado, asegurando las medidas tendientes a la reinserción social integral de los individuos, mediante los principios de trabajo, capacitación para el mismo, la educación, la salud y el deporte, conforme lo disponen las leyes de la materia;
-
-XXV. Asegurar, y ejecutar las medidas cautelares y sancionadoras aplicables a los menores que hayan cometido alguna conducta antisocial tipificada como delito, en términos de lo dispuesto por los artículos 18 de la Constitución Política de los Estados Unidos Mexicanos, 19 de la Constitución Política del Estado Libre y Soberano de Morelos, y de las leyes relativas y aplicables;
-
-XXVI. (DEROGADA, P.O. 2 DE JUNIO DE 2010)
-
-XXVII. Planear, organizar, regular y vigilar los sistemas de vialidad y tránsito en el Estado tomando en cuenta la opinión de los Ayuntamientos en el ámbito de su competencia, conforme a las disposiciones jurídicas aplicables;
-
-XXVIII. (DEROGADA, P.O. 2 DE JUNIO DE 2010)
-
-XXIX. (DEROGADA, P.O. 2 DE JUNIO DE 2010)
-
-XXX. Establecer los lineamientos del funcionamiento, registros y capturas de información relativas a las llamadas de emergencia y registros de Seguridad Pública e información sobre seguridad pública;
-
-XXXI. Elaborar los anteproyectos de iniciativas de ley, reglamentos, decretos, acuerdos y demás disposiciones jurídicas en el ámbito de su competencia y proponérselos a la persona titular del Poder Ejecutivo, previa obtención de la validación y rúbrica de la Consejería Jurídica;
-
-XXXII. Refrendar los decretos, acuerdos, reglamentos y demás disposiciones de carácter general que expida el Ejecutivo, en materia de su competencia; y
-
-XXXIII. Las demás que le sean encomendadas por la persona Titular del Poder Ejecutivo, y las que le confiera esta Ley y otras disposiciones legales aplicables.
-
-###### ARTÍCULO 33.
-
-A la Secretaría de la Contraloría le corresponde el despacho de los siguientes asuntos:
-
-I. Proponer e instrumentar la política de control, inspección y supervisión en la administración pública del Estado, vigilando la ejecución y aplicación del gasto público, de conformidad con las disposiciones jurídicas aplicables;
-
-II. Ejercer las atribuciones derivadas de los convenios que, en materia de su competencia, celebre el Gobierno del Estado Libre y Soberano de Morelos, con la Federación y los ayuntamientos;
-
-III. Planear, organizar, coordinar y dirigir actividades tendientes a la difusión de las disposiciones jurídicas aplicables a la función pública, así como establecer mecanismos para su análisis e interpretación, con excepción de los asuntos de naturaleza fiscal;
-
-IV. Planear, organizar, coordinar un sistema de introducción y capacitación para la prevención de irregularidades en el desempeño de los servidores públicos, así como auxiliar a las Secretarías, Dependencias y Entidades de la administración pública en el establecimiento de sistemas para la prevención de irregularidades en los procesos administrativos y para el diseño de sistemas de control;
-
-V. Normar, orientar y autorizar los Programas Anuales de Auditoria y Revisiones en las Secretarías, Dependencias y Entidades de la administración pública;
-
-VI. Realizar auditorías, revisiones, verificaciones, fiscalizaciones y supervisiones de manera selectiva en las Secretarías, Dependencias, Entidades de la administración pública y municipios cuando existan convenios para tal fin, así como aquellas que le soliciten las autoridades competentes;
-
-VII. Realizar auditorías, verificaciones, fiscalizaciones y supervisiones de manera directa o conjunta con la Secretaría de la Función Pública, con base en los instrumentos jurídicos celebrados por el Ejecutivo con la Federación, así como las disposiciones jurídicas sobre la materia;
-
-VIII. Planear, organizar, coordinar y dirigir los Sistemas de Auditoria, Verificaciones, Fiscalizaciones y Supervisiones de la administración pública;
-
-IX. Atender y canalizar las quejas y denuncias que reciba con motivo de actos u omisiones de los servidores públicos en el ejercicio de sus funciones;
-
-X. Recibir y registrar las declaraciones patrimoniales de los servidores públicos, así como realizar las investigaciones que fueren pertinentes, en el ámbito de su competencia;
-
-XI. Vigilar y, en su caso, autorizar la compatibilidad de funciones, ya sea de oficio o a petición de los servidores públicos que desempeñen un cargo, empleo o comisión en la administración pública;
-
-XII. Designar a los auditores externos de las Secretarías, Dependencias y Entidades de la administración pública, los cuales deberán de estar debidamente registrados en el padrón de auditores externos que para tal efecto lleve esta Secretaría, así como normar y controlar sus actividades;
-
-XIII. Designar a los Contralores Internos y Comisarios Públicos o sus equivalentes en los órganos de vigilancia de las Secretarías, Dependencias y Entidades de la administración pública;
-
-XIV. Asesorar a las Secretarías, Dependencias y Entidades de la administración pública que le requieran en el ámbito de su competencia;
-
-XV. Vigilar el cumplimiento de las disposiciones jurídicas en el ámbito de su competencia;
-
-XVI. Tramitar y resolver los recursos administrativos en el ámbito de su competencia;
-
-XVII. Asesorar a la persona titular del Poder Ejecutivo, en la elaboración de convenios que celebre con la Federación y los Ayuntamientos en el ámbito de su competencia;
-
-XVIII. Participar e intervenir en la celebración de acuerdos, convenios, contratos y demás instrumentos jurídicos en el ámbito de su competencia; suscribir dichos instrumentos, así como ejercer las atribuciones y obligaciones que se deriven con motivo de dicha participación;
-
-XIX. Ejercer todas aquellas facultades que le confiere la Ley Estatal de Responsabilidades de los Servidores Públicos;
-
-XX. Elaborar los anteproyectos de iniciativas de ley, reglamentos, decretos, acuerdos y demás disposiciones jurídicas en el ámbito de su competencia y proponérselos a la persona titular del Poder Ejecutivo, previa obtención de la validación y rúbrica de la Consejería Jurídica;
-
-XXI. Refrendar los decretos, acuerdos, reglamentos y demás disposiciones de carácter general que expida el Ejecutivo, en materia de su competencia, y
-
-XXII. Las demás que señalen las disposiciones jurídicas o le delegue la persona Titular del Ejecutivo por mandato específico.
-
-###### ARTÍCULO 34.
-
-A la Secretaría de Desarrollo Humano y Social le corresponde el despacho de los siguientes asuntos:
-
-I. Formular, conducir y evaluar la política general de desarrollo social y humano para el combate efectivo a la pobreza; el impulso al deporte; el ejercicio de los programas sociales de beneficio comunitario y de desarrollo social;
-
-II. Proyectar y coordinar, con la participación que corresponda a las Secretarías, Dependencias y Entidades de la administración pública estatal y municipal, la planeación regional en el ámbito social;
-
-III. Coordinar las acciones que incidan en el combate a la pobreza fomentando un mejor nivel de vida, en lo que el Ejecutivo Estatal convenga con las Secretarías, Dependencias y Entidades Estatales y Municipales, buscando en todo momento propiciar la simplificación de los procedimientos y el establecimiento de medidas de seguimiento y control;
-
-IV. Administrar los fondos públicos que le asigne el Ejecutivo Estatal destinados a los sectores sociales cuya función le corresponda;
-
-V. Coordinar, concretar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos, en especial de los pobladores de las áreas rurales, así como de los colonos de las áreas urbanas, para elevar el nivel de vida de la población, con la intervención de las Secretarías, Dependencias y Entidades de la administración pública estatal correspondientes y de los gobiernos Municipales y, con la participación de los sectores social y privado;
-
-VI. Coordinar con las instituciones de estadística y demografía el ejercicio de los programas sobre ordenación territorial de los centros de población, cuya opinión se le solicite conjuntamente con las Secretarías, Dependencias y Entidades de la administración pública estatal que corresponda;
-
-VII. Promover y concertar programas de vivienda, desarrollo sustentable y el ejercicio de los programas sociales para comunidades e individuos en situación de desventaja, con la participación de los gobiernos municipales, y los diversos grupos sociales;
-
-VIII. Promover y apoyar mecanismos de financiamiento para el desarrollo regional y urbano, así como para la vivienda, los programas para migrantes y los sociales que el Ejecutivo del Estado le encomiende y aquellos que los municipios deseen convenir para su mejor ejercicio o desarrollo;
-
-IX. Desarrollar y coordinar los programas sociales y humanistas que impulsen el desarrollo social en el Estado;
-
-X. Intervenir en la operación de los programas sociales mediante la suscripción de instrumentos técnicos que emanen de su ejecución y la planeación dentro del Comité de Planeación del Estado Libre y Soberano de Morelos en el ámbito social y humano;
-
-XI. Formalizar la vinculación de los actores del desarrollo social a través del Sistema de Planeación del Desarrollo Social y su inserción en el Plan Estatal de Desarrollo del Estado Libre y Soberano de Morelos;
-
-XII. Establecer y coordinar los objetivos, estrategias y ejecución del gasto social a través del Programa Estatal de Desarrollo Social, así como el marco jurídico que regula la participación en programas sociales;
-
-XIII. Promover y ejecutar obras y acciones sociales en materia de su competencia.
-
-XIV. Elaborar los anteproyectos de iniciativas de ley, reglamentos, decretos, acuerdos y demás disposiciones jurídicas en el ámbito de su competencia y proponérselos a la persona titular del Poder Ejecutivo, previa obtención de la validación y rúbrica de la Consejería Jurídica
-
-XV. Refrendar los decretos, acuerdos, reglamentos y demás disposiciones de carácter general que expida el Ejecutivo, en materia de su competencia;
-
-XVI. Intervenir, y en su caso, suscribir convenios, contratos y acuerdos de colaboración con autoridades, instituciones u organizaciones federales, estatales o municipales, con el objeto de fortalecer el ámbito social en el Estado Libre y Soberano de Morelos, apegada al marco legal correspondiente, así como elaborar, implementar y ejecutar planes y programas para el desarrollo y promoción del desarrollo humano y social, y
-
-XVII. Las demás que señalen las disposiciones jurídicas o le delegue la persona Titular del Ejecutivo por mandato específico.
-
-###### ARTÍCULO 35.
-
-A la Secretaría del Trabajo y Productividad le corresponde el despacho de los siguientes asuntos:
-
-I. Vigilar la observancia y aplicación dentro del ámbito estatal, de las disposiciones relativas contenidas en el Artículo 123 y demás de la Constitución Política de los Estados Unidos Mexicanos, en la Ley Federal del Trabajo y en sus reglamentos, así como las que regulen las relaciones del Gobierno del Estado Libre y Soberano de Morelos con sus trabajadores;
-
-II. Conducir y evaluar la política estatal en materia laboral de los diversos sectores sociales y productivos en el Estado Libre y Soberano de Morelos, así como ejercer facultades de designación y coordinación de los organismos de justicia laboral;
-
-III. Atender y resolver los asuntos que conforme a la Ley Federal del Trabajo le competen al Ejecutivo Estatal;
-
-IV. Atender los asuntos encomendados a las Entidades que le estén sectorizadas, que así lo ameriten;
-
-V. Elaborar los anteproyectos de iniciativas de ley, reglamentos, decretos, acuerdos y demás disposiciones jurídicas en el ámbito de su competencia y proponérselos a la persona titular del Poder Ejecutivo, previa obtención de la validación y rúbrica de la Consejería Jurídica;
-
-VI. Refrendar los decretos, acuerdos, reglamentos y demás disposiciones de carácter general que expida el Ejecutivo, en materia de su competencia;
-
-VII. Coordinar el establecimiento y la integración de la Junta Local de Conciliación y Arbitraje del Estado, de las Juntas Especiales de la Local de Conciliación y Arbitraje del Estado y del Tribunal Estatal de Conciliación y Arbitraje del Estado de Morelos; proponer a dichas autoridades laborales, en estricto respeto a su autonomía jurisdiccional, las acciones tendientes a lograr el mejoramiento de la administración de justicia laboral en el Estado Libre y Soberano de Morelos;
-
-VIII. La creación y presidencia, en su caso, de las comisiones o comités transitorios o permanentes necesarios para la mejor atención de los asuntos de naturaleza laboral;
-
-IX. Intervenir conciliatoriamente en los conflictos que se deriven de la aplicación y administración de los contratos colectivos de trabajo, recomendando el cumplimiento y la observancia de las disposiciones legales, reglamentarias y condiciones de trabajo pactadas;
-
-X. Procurar la conciliación de los conflictos laborales colectivos o individuales, con el objeto de que las partes resuelvan sus diferencias mediante la celebración de convenios;
-
-XI. Vigilar que se proporcione asesoría gratuita en materia laboral a los sindicatos y trabajadores que así lo soliciten, por conducto de la Procuraduría Estatal de la Defensa del Trabajo o de la unidad administrativa que para tal efecto se designe;
-
-XII. Participar en la planeación de la capacitación y adiestramiento de los trabajadores de la (sic) Estado Libre y Soberano de Morelos, a través de la unidad administrativa o del organismo público descentralizado correspondiente, para cumplir lo establecido en la Ley Federal del Trabajo en sus artículos 153-A al 153-X;
-
-XIII. Vigilar la instalación y funcionamiento de las comisiones obrero patronal que ordene la Ley Federal del Trabajo dentro del ámbito de competencia estatal;
-
-XIV. Promover el incremento de la productividad del trabajo en el territorio estatal en coordinación con la Secretaría encargada del sector económico en el Estado Libre y Soberano de Morelos;
-
-XV. Promover el desarrollo de la capacitación y el adiestramiento en y para el trabajo, así como realizar investigaciones, prestar servicios de asesoría e impartir cursos de capacitación que para incrementar la productividad en el trabajo requieran los sectores productivos del Estado Libre y Soberano de Morelos, en coordinación con otras Secretarías y Dependencias;
-
-XVI. Actualizar a partir de su registro, la información estadística de los sindicatos, federaciones, confederaciones de trabajadores y patrones, asociaciones obreras, patronales y profesionales, la cual será pública en términos de la ley de la materia;
-
-XVII. Suscribir convenios y acuerdos de colaboración con autoridades, instituciones u organizaciones federales, estatales o municipales, con el objeto de fortalecer la cultura laboral en el Estado Libre y Soberano de Morelos, apegada al marco legal correspondiente, así como elaborar, implementar y ejecutar planes y programas para el desarrollo y promoción del empleo;
-
-XVIII. Promover en coordinación con las autoridades competentes, la integración laboral de personas pertenecientes a grupos vulnerables, así como de aquellas recluidas en los centros de readaptación social;
-
-XIX. Fungir como órgano de consulta ante los sectores productivos del Estado Libre y Soberano de Morelos, encaminadas a mantener la estabilidad laboral;
-
-XX. Llevar las estadísticas estatales correspondientes a la materia del trabajo, de acuerdo con las disposiciones jurídicas aplicables;
-
-XXI. Promover la cultura y recreación entre los trabajadores morelenses y sus familias;
-
-XXII. Suscribir los convenios y contratos que le correspondan en el ámbito de su competencia, y
-
-XXIII. Las demás que señalen expresamente las leyes y reglamentos vigentes en el Estado Libre y Soberano de Morelos o le delegue la persona titular del Poder Ejecutivo.
-
-###### ARTÍCULO 36.
-
-A la Consejería Jurídica le corresponde el despacho de los siguientes asuntos:
-
-I. Representar y constituirse en Asesor Jurídico del Ejecutivo del Estado Libre y Soberano de Morelos, en todos los actos en que éste sea parte;
-
-II. Representar a la persona titular del Poder Ejecutivo, cuando éste así lo acuerde, en las acciones y controversias a que se refiere el Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos;
-
-III. Intervenir con la representación jurídica del Poder Ejecutivo en todos los juicios o negocios en que intervenga como parte, o con cualquier carácter que afecten su patrimonio o tenga interés jurídico;
-
-IV. Asesorar al Poder Ejecutivo en todo lo relativo a la política laboral contenciosa de la administración pública central;
-
-V. Participar como coadyuvante en los juicios o negocios en que las Secretarías, Dependencias y Entidades de la administración pública del Estado Libre y Soberano de Morelos intervengan con cualquier carácter; en su caso y previo acuerdo con la persona titular del Poder Ejecutivo, ejercer las acciones y excepciones que correspondan y actuar en general, para su defensa administrativa y judicial;
-
-VI. Prestar asesoría jurídica cuando la persona titular del Poder Ejecutivo, así lo acuerde, en asuntos en que intervengan varias Secretarías o Dependencias de la administración pública estatal;
-
-VII. Procurar la congruencia de los criterios jurídicos de las Secretarías, Dependencias y Entidades, y emitir los lineamientos para tal efecto;
-
-VIII. Prestar apoyo y asesoría en materia jurídica a los municipios que lo soliciten, sin perjuicio de la competencia de otras Secretarías, Dependencias y Entidades;
-
-IX. Vigilar que en los asuntos de orden administrativo que competen al Poder Ejecutivo, se observen los principios de constitucionalidad y legalidad;
-
-X. Prestar consejo jurídico, emitir opinión y resolver las consultas que en materia jurídica le sean planteadas por la persona titular del Poder Ejecutivo, por las Secretarías, Dependencias y Entidades de la administración pública estatal;
-
-XI. Intervenir en el trámite de los casos de expropiación de conformidad con lo establecido en la legislación de la materia;
-
-XII. Elaborar los anteproyectos de iniciativas de ley, reglamentos, decretos, acuerdos y demás disposiciones jurídicas en el ámbito de su competencia o a solicitud de la persona titular del Poder Ejecutivo y someterlos a consideración del mismo;
-
-XIII. Refrendar los decretos, acuerdos, reglamentos y demás disposiciones de carácter general que expida el Ejecutivo, en materia de su competencia;
-
-XIV. Analizar, dar opinión y en su caso, validar y sancionar con su firma todos los anteproyectos de iniciativas de leyes, reglamentos, decretos, acuerdos y demás disposiciones jurídicas de carácter normativo que las Secretarías, Dependencias y Entidades sometan a consideración del la persona titular del Poder Ejecutivo;
-
-XV. Formular o emitir opinión sobre la constitucionalidad y legalidad de los proyectos de ley reglamentos, decretos, acuerdos y demás disposiciones jurídicas de carácter normativo que le encomiende el Ejecutivo del Estado Libre y Soberano de Morelos;
-
-XVI. Revisar los proyectos de nombramientos, resoluciones administrativas y demás instrumentos de carácter jurídico, a efecto de someterlos a consideración y, en su caso, firma de la persona titular del Poder Ejecutivo;
-
-XVII. Participar, junto con las demás Secretarías, Dependencias y Entidades competentes, en la actualización y simplificación del orden normativo jurídico;
-
-XVIII. Integrar y coordinar el Programa de Informática Jurídica del Poder Ejecutivo; actualizar, compilar y difundir el marco jurídico vigente en el Estado Libre y Soberano de Morelos, en coordinación con los órganos correspondientes;
-
-XIX. Tramitar los recursos administrativos que competan conocer a la persona titular del Poder Ejecutivo, así como el del área de su competencia;
-
-XX. Dar opinión a la persona titular del Poder Ejecutivo, sobre los proyectos de convenios, contratos o cualquier otro instrumento de carácter jurídico a celebrar con otros poderes, los órganos constitucionales autónomos, los Estados, el Distrito Federal o los Municipios;
-
-XXI. Revisar y, en su caso, aprobar con su rúbrica, todos los contratos y convenios, que procedan de las Secretarías y Dependencias del Poder Ejecutivo, en atención a la política que fije ésta Dependencia;
-
-XXII. Suscribir los convenios y contratos que le correspondan en el ámbito de su competencia, y
-
-XXIII. Las demás que le atribuyan expresamente las leyes, sus reglamentos o le sean asignadas por la persona titular del Poder Ejecutivo.
-
-###### ARTÍCULO 37.
-
-A la Secretaría de Gestión e Innovación Gubernamental, le corresponde el despacho de los siguientes asuntos:
-
-I. Proponer, instrumentar y normar, la política de administración de recursos humanos, adquisiciones, enajenaciones, arrendamientos, prestación de servicios, organización y patrimonio de la administración pública central, conforme a las disposiciones jurídicas aplicables;
-
-II. Integrar el Programa Anual de Adquisiciones de la administración pública central, así como coordinar y dirigir su instrumentación;
-
-III. Ejercer las facultades derivadas de los convenios que, sobre las materias de su competencia, celebre el Ejecutivo del Estado Libre y Soberano de Morelos, con los demás poderes, los Órganos Constitucionales Autónomos, la Federación, los Estados y los Ayuntamientos;
-
-IV. Planear, organizar, coordinar, dirigir y controlar la administración de los recursos humanos de la administración pública central, así como conducir las relaciones con los representantes de los trabajadores;
-
-V. Planear, organizar, coordinar, dirigir y controlar la adquisición de bienes y servicios, así como las enajenaciones y arrendamientos, de la administración pública central, proveyéndola de lo necesario, para su adecuado funcionamiento;
-
-VI. Controlar y en su caso suscribir, las contrataciones que requiera la administración pública central, exceptuando aquellas que versen en materia de obra pública y servicios relacionados con la misma y aquellas cuya autorización, suscripción y ejercicio corresponda a otra autoridad en términos de las leyes y reglamentos respectivos;
-
-VII. Administrar los almacenes generales de la administración pública central, determinando para el caso los criterios y políticas a seguir para que las Secretarías y Dependencias, mantengan actualizados los inventarios correspondientes;
-
-VIII. Administrar, coordinar y controlar los talleres gráficos de la administración pública central, así como coordinar la edición y publicación de información oficial de la administración pública central, con excepción del Periódico Oficial “Tierra y Libertad”;
-
-IX. Establecer los criterios y las políticas de conservación de las unidades vehiculares de la administración pública central, a través de la implementación de los programas de mantenimiento preventivo y correctivo;
-
-X. Planear, organizar, coordinar, dirigir y controlar los sistemas generales de organización de la administración pública central, así como mantener actualizados los registros de estructura y plantilla de este personal, por Secretaría y Dependencia;
-
-XI. Proponer al ejecutivo los proyectos de creación, modificación o supresión de Secretarías, Dependencias y unidades administrativas de la administración pública central, en coordinación con las diversas autoridades involucradas;
-
-XII. Autorizar las propuestas de modificación de estructuras administrativas y plantillas de personal de la administración pública central, así como verificar, que en los casos que impliquen modificaciones a los reglamentos interiores, los interesados elaboren los proyectos correspondientes y someterlos a la revisión y sanción de la Consejería Jurídica;
-
-XIII. Planear, organizar, dirigir y controlar, en coordinación con las autoridades correspondientes de la administración pública central, la elaboración y actualización de sus manuales administrativos de organización, políticas y procedimientos y los demás que correspondan al ejercicio de su función;
-
-XIV. Coordinarse con la Secretaría de Desarrollo Urbano y Obras Públicas y la Secretaría de Turismo, en todo lo relativo a la construcción, reconstrucción y conservación de edificios públicos, monumentos, y edificios del patrimonio del Estado Libre y Soberano de Morelos y obras de ornato, conforme a las disposiciones jurídicas aplicables y los convenios que sobre el particular suscriba el Estado con la Federación;
-
-XV. Planear, organizar, coordinar y dirigir el sistema de administración, registro y control de bienes de la administración pública central;
-
-XVI. Realizar todos los actos necesarios para la conservación, protección y recuperación de los bienes propiedad de la administración pública central del Estado, en coordinación con la Consejería Jurídica;
-
-XVII. Reivindicar la propiedad del Estado Libre y Soberano de Morelos, con la intervención de la Consejería Jurídica y de las autoridades competentes;
-
-XVIII. Regular y, en su caso, representar el interés de la administración pública central en la adquisición, enajenación, comodato, destino o afectación de los bienes inmuebles de su patrimonio, así como, en coordinación con las Secretarías y Dependencias involucradas, determinar normas y procedimientos para formular inventarios y los avalúos de los mismos;
-
-XIX. Intervenir dentro de su ámbito de competencia, en los procesos de entrega y recepción de la administración pública central, con la participación de la Secretaría de la Contraloría;
-
-XX. Proponer e instrumentar las políticas de Tecnologías de la Información y Comunicaciones, así como la de telecomunicaciones y telefonía, de la administración pública central; sin perjuicio de la coordinación y control de los sistemas de radiocomunicación y de comunicación que le corresponda a la Secretaría de Gobierno o la Secretaría de Seguridad en el ámbito de sus respectivas competencias;
-
-XXI. Elaborar y proponer a la persona titular del Poder Ejecutivo, los proyectos de ley, reglamentos y demás disposiciones jurídicas en el ámbito de su competencia; remitirlos a la Consejería Jurídica, para su revisión y análisis, tanto de constitucionalidad como de legalidad, y una vez validados, enviarlos al Secretario de Gobierno para su trámite correspondiente.
-
-XXII. Proponer e instrumentar las políticas de control del gasto administrativo de la administración pública central, así como los sistemas para su asignación, ejecución, control y evaluación;
-
-XXIII. Vigilar el cumplimiento de las disposiciones jurídicas en el ámbito de su competencia;
-
-XXIV. Tramitar y resolver los recursos administrativos en el ámbito de su competencia;
-
-XXV. Concurrir a las sesiones del Congreso, cuando se discuta una Ley o se estudie un asunto concerniente a las materias de su competencia, previa instrucción de la persona titular del Poder Ejecutivo;
-
-XXVI. Refrendar los decretos, acuerdos, reglamentos y demás disposiciones de carácter general que expida el Ejecutivo, en materia de su competencia;
-
-XXVII. Planear y establecer la implantación de un Modelo de Calidad Total, enfocado a la satisfacción de Usuarios y Ciudadanos en la administración pública central;
-
-XXVIII. Planear y promover la implantación y operación del sistema de gestión de la calidad en la administración pública central;
-
-XXIX. Asesorar a la persona titular del Poder Ejecutivo, en la elaboración de convenios que celebre con la Federación, otros Estados y los Ayuntamientos en el ámbito de su competencia;
-
-XXX. Organizar, coordinar, dirigir, controlar y en su caso, adscribir jerárquica y funcionalmente, a las personas titulares de las unidades de coordinación administrativa y las responsables de las tecnologías de información y comunicaciones de las Secretarías y Dependencias, para el adecuado desempeño de las atribuciones conferidas;
-
-XXXI. Establecer la política de innovación gubernamental dentro de la administración pública central;
-
-XXXII. Suscribir los convenios y contratos que le correspondan en el ámbito de su competencia, y
-
-XXXIII. Las demás que le señalen las disposiciones jurídicas aplicables o le delegue la persona titular del Poder Ejecutivo, por mandato específico.
-
-###### ARTÍCULO 38.
-
-A la Representación del Poder Ejecutivo del Estado, le corresponde el despacho de los siguientes asuntos:
-
-I. Promover, en coordinación con las Secretarías y Dependencias que correspondan, proyectos de inversión en los sectores privado y social, nacionales y extranjeros, para ejecutarse en el Estado Libre y Soberano de Morelos;
-
-II. Representar al Poder Ejecutivo, para efectos de promoción, ante otros Estados, el Distrito Federal y ante sus Secretarías, Dependencias y Entidades, en asuntos de su competencia, conforme lo determine la persona titular del Ejecutivo;
-
-III. Representar al Poder Ejecutivo, para efectos de promoción, ante autoridades de estados extranjeros, organismos públicos internacionales en asuntos de su competencia, conforme lo determine al (sic) persona titular del Poder Ejecutivo y en coordinación con la las Secretarías y Dependencias que correspondan;
-
-IV. Promover la celebración de reuniones, para consolidar proyectos de interés para el Estado Libre y Soberano de Morelos, en coordinación con las autoridades competentes del Poder Ejecutivo;
-
-V. Representar a la persona titular del Poder Ejecutivo, en reuniones técnicas, actos cívicos y, en general, en todos los eventos que éste determine;
-
-VI. Intervenir por encargo de la persona titular del Poder Ejecutivo en los trámites previos a la celebración de convenios entre el Gobierno del Estado Libre y Soberano de Morelos y la Federación, otros organismos y empresas, y en las diligencias posteriores relativas a su ejecución;
-
-VII. Apoyar a las autoridades Municipales, Secretarías y Dependencias Estatales; a sus titulares, integrantes y representantes, en sus gestiones, comunicaciones oficiales y relaciones con otras autoridades federales y de otros Estados, así como instituciones públicas y privadas con sede en la Ciudad de México;
-
-VIII. Promover, impulsar, organizar y apoyar una mejor participación de la comunidad morelense en la Ciudad de México;
-
-IX. Asesorar a la persona titular del Poder Ejecutivo, en los asuntos que éste solicite;
-
-X. Elaborar los anteproyectos de iniciativas de ley, reglamentos, decretos, acuerdos y demás disposiciones jurídicas en el ámbito de su competencia y proponérselos a la persona titular del Poder Ejecutivo, previa obtención de la validación y rúbrica de la Consejería Jurídica;
-
-XI. Suscribir los convenios y contratos que le correspondan en el ámbito de su competencia,
-
-XII. Refrendar los decretos, acuerdos, reglamentos y demás disposiciones de carácter general que expida el Ejecutivo, en materia de su competencia, y
-
-XIII. Las demás que determinen las disposiciones legales aplicables o le delegue la persona Titular del Ejecutivo.
+Para los efectos de este capítulo el Estado y organismos públicos incorporados deberán avisar al Instituto la realización del accidente del trabajador dentro de los tres días siguientes. El trabajador, su representante legal o sus familiares derechohabientes, también podrán dar el aviso de referencia, así como el de presunción de la existencia de una enfermedad profesional.
 
 ## TÍTULO TERCERO. DE LOS ORGANISMOS ADMINISTRATIVOS Y DE JUSTICIA LABORAL
 
-### CAPÍTULO PRIMERO. DE LOS ORGANISMOS ADMINISTRATIVOS
+### CAPITULO CUARTO. DEL SEGURO DE ACCIDENTES DEL TRABAJO Y ENFERMEDADES PROFESIONALES
 
-###### ARTÍCULO 39.
+###### Artículo 39.
 
-A efecto de proveer mecanismos de conciliación y defensa de los intereses de los trabajadores, existirá la Procuraduría Estatal de Defensa del Trabajo, que dependerá directamente del Secretario del Trabajo y Productividad.
+No se considerarán accidentes o enfermedades profesionales:
 
-### CAPÍTULO SEGUNDO. DE LOS ORGANISMOS DE JUSTICIA LABORAL
+I.- Los que ocurran encontrándose el trabajador en estado de embriaguez o bajo la acción de narcóticos o estupefacientes;
 
-###### ARTÍCULO 40.
+II.- Los que provoque intencionalmente el trabajador;
 
-Con el propósito de satisfacer los requerimientos de la Ley Federal del Trabajo, se establece la Junta Local de Conciliación y Arbitraje, así como el Tribunal Estatal de Conciliación y Arbitraje, los que se encargarán de administrar justicia en el ámbito de su competencia, conforme a lo dispuesto en los apartados A y B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, respectivamente; organismos que dependerán de la Secretaría del Trabajo y Productividad, se integrarán y serán competentes en términos de lo dispuesto en la Ley Federal del Trabajo y la Ley del Servicio Civil del Estado Libre y Soberano de Morelos.
+III.- Los que sean resultado de un intento de suicidio, efecto de una riña en que hubiere participado el trabajador u originados por algún delito cometido por éste;
 
-###### ARTÍCULO 41.
+IV.- Los que sean debidos (sic) a caso fortuito o de fuerza mayor extraños al trabajo u ocurridos fuera del lugar donde aquel se desempeña.
 
-Serán del conocimiento y resolución del Tribunal Estatal de Conciliación y Arbitraje y de la Junta Local de Conciliación y Arbitraje los conflictos que se presenten en las relaciones laborales entre los Poderes del Estado Libre y Soberano de Morelos y sus trabajadores, los Municipios y sus trabajadores y los patrones y sus trabajadores, en los términos de la Ley del Servicio Civil del Estado de Morelos y la Ley Federal del Trabajo, según sea el caso.
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 3 DE JULIO DE 1989)</small>
 
-###### ARTÍCULO 42.
+### CAPITULO QUINTO. DE LA VIVIENDA PARA TRABAJADORES
 
-Las autoridades a que se refiere el artículo anterior, tendrán autonomía jurisdiccional plena para ejercer sus funciones y dictar sus resoluciones.
+SECCION 1a
 
-###### ARTÍCULO 43.
+HABITACION PARA TRABAJADORES
 
-Para el desempeño de las autoridades, que comprende este Título, el Ejecutivo proporcionará el apoyo administrativo necesario, por conducto de las Secretarías y Dependencias competentes.
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
 
-###### ARTÍCULO 44.
+###### Artículo 40.
 
-Las autoridades a que se refiere el artículo 40 de esta Ley, se regirán en cuanto a su organización, integración y competencia, por las disposiciones y ordenamientos particulares que les den origen.
+En los términos de la presente Ley, se instituye el Fondo de la Vivienda para los Trabajadores, el cual tendrá por objeto:
+
+I.- Establecer y operar un sistema de financiamiento que permita a los trabajadores obtener crédito barato y suficiente, mediante préstamos con garantía hipotecaria para:
+
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
+
+A) El pago de enganche para la adquisición de vivienda o, en su caso, la adquisición en propiedad de habitaciones cómodas e higiénicas, incluyendo aquellas sujetas al régimen de condominio;
+
+B).- La construcción, reparación, ampliación o mejoramiento de sus habitaciones;
+
+C).- El pago de pasivos contraídos por los conceptos anteriores, en los términos que acuerde la Comisión Ejecutiva del Fondo;
+
+D).- La adquisición de terrenos en los que deberá construir la habitación el trabajador.
+
+II.- Coordinar y financiar programas de construcción de habitaciones destinadas a ser adquiridas en propiedad o en arrendamiento por los trabajadores; y
+
+III.- Los demás que esta Ley establece.
+
+> <small>(ADICIONADO, B.O. 29 DE JUNIO DE 2005)</small>
+
+###### Artículo 40 Bis.
+
+Para el cumplimiento del objeto del Fondo de la Vivienda para los Trabajadores, el Instituto podrá diseñar e instrumentar coordinadamente con las organizaciones sindicales o, en su caso, con los organismos incorporados, los mecanismos necesarios para acceder a esquemas de financiamiento compartido con instituciones del ramo de la vivienda, como sociedades financieras de objeto limitado, sociedades o asociaciones hipotecarias, bancos, compañías constructoras o inmobiliarias y otras semejantes. Asimismo, el Instituto podrá convenir con las organizaciones u organismos mencionados la transferencia de recursos y obligaciones para la instrumentación de tales mecanismos.
+
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+
+###### Artículo 41.
+
+El Instituto podrá adquirir o urbanizar terrenos destinados a formar conjuntos habitacionales y servicios sociales, a favor de los trabajadores.
+
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+
+###### Artículo 42.
+
+Los organismos públicos incorporados podrán celebrar convenios con el Instituto para incorporar a sus trabajadores a los beneficios del Fondo.
+
+SECCION 2a
+
+PRESTAMOS HIPOTECARIOS
+
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+
+###### Artículo 43.
+
+Los recursos del Fondo se integrarán:
+
+I.- Con las aportaciones del Estado por el equivalente al 4% sobre el sueldo básico integrado de los trabajadores, definido en el artículo 15 de esta Ley.
+
+El tope máximo para el pago de las aportaciones, será el equivalente a diez veces el salario mínimo general vigente en la zona de que se trate.
+
+II.- Con los bienes y derechos adquiridos por cualquier título; y
+
+III.- Con los rendimientos que se obtengan de las inversiones de los recursos a que se refieren las fracciones anteriores.
+
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+
+###### Artículo 44.
+
+Para asignar los créditos a los trabajadores, se tomarán en cuenta el número de miembros de la familia, el sueldo o salario o el ingreso conyugal, si hay acuerdo por los interesados, y las características y precios de venta de las habitaciones disponibles.
+
+Si dentro de cada grupo de trabajadores en una clasificación semejante, hay varios con el mismo derecho, se asignarán entre éstos los créditos individuales mediante sorteos.
+
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
 
 ## TÍTULO CUARTO. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
 
-### CAPÍTULO ÚNICO. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
+### CAPITULO SEXTO. DE LOS PRESTAMOS A CORTO PLAZO
 
-###### ARTÍCULO 45.
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
 
-Las Entidades de la administración pública paraestatal, serán organismos auxiliares del Poder Ejecutivo y conducirán sus actividades en forma programada y con sujeción a las disposiciones del Plan Estatal de Desarrollo, a la Ley de los Organismos Auxiliares de la Administración Pública del Estado Libre y Soberano de Morelos, a su decreto o ley de creación, a los programas sectoriales correspondientes, así como a las políticas y lineamientos de coordinación de la Secretaría o Dependencia a la cual estén sectorizadas.
+###### Artículo 51.
 
-Son Entidades u organismos auxiliares, los organismos públicos descentralizados, los fideicomisos públicos y las empresas de participación estatal mayoritaria, creados con la finalidad de apoyar al Ejecutivo Estatal en la realización de sus atribuciones o atención a las áreas de desarrollo prioritario.
+Los préstamos a corto plazo se harán a los trabajadores que hayan cubierto al Instituto las cuotas a que se refiere el artículo 16, cuando menos por un año, conforme a las reglas siguientes:
 
-###### ARTÍCULO 46.
+I.- Los recursos destinados para este préstamo serán: el 1% del monto de la masa salarial, más los recursos que autorice la Junta Directiva del concepto de recuperación de estos créditos.
 
-Los organismos públicos descentralizados son aquellas Entidades, creadas por ley o decreto del Congreso del Estado, dotados con personalidad jurídica, patrimonio propios y autonomía jerárquica respecto de la administración pública central, por lo que sólo estarán sectorizados a la dependencia o entidad que se establezca por acuerdo la persona titular del Poder Ejecutivo, a efecto (sic) ejercer su coordinación, cualquiera que sea la estructura legal que adopten.
+II.- Podrá prestarse hasta el importe de cuatro veces el sueldo básico integrado a que se refiere el artículo 15, si la aportación con derecho a retiro, en caso de indemnización global a que se refiere el artículo 89, es igual o mayor que el monto del préstamo.
 
-###### ARTÍCULO 47.
+III.- El plazo para el pago del préstamo no será mayor de 36 quincenas iguales, e incluirá capital e intereses.
 
-Las Empresas de Participación Estatal Mayoritaria, son aquellas Entidades, en que:
+IV.- Los préstamos a corto plazo causarán un interés sobre saldos insolutos que en ningún caso será inferior al 50% del costo porcentual promedio vigente; el monto del préstamo y los intereses serán pagados en abonos quincenales iguales. Sólo se concederá nuevo préstamo cuando se haya liquidado el anterior.
 
-I. El Gobierno del Estado Libre y Soberano de Morelos o una o más Entidades paraestatales, conjunta o separadamente, aporten o sean propietarios de más del 50% del capital social;
+Los pensionistas gozarán de los beneficios que establece este artículo, con sujeción a los acuerdos generales que en los términos y dentro de los lineamientos de esta Ley, dicte la Junta Directiva.
 
-II. Por ley o disposición de sus estatutos corresponda al Gobierno del Estado Libre y Soberano de Morelos, la facultad de nombrar a la mayoría de los miembros del Órgano de Gobierno, designar al Director General o equivalente, o cuando tenga facultades para vetar los acuerdos del propio Órgano de Gobierno, y
+###### Artículo 52.
 
-III. En la constitución de su capital se hagan figurar títulos representativos de capital social de serie especial que sólo puedan ser suscritos por el Gobierno del Estado Libre y Soberano de Morelos.
+(DEROGADO, B.O. 3 DE JULIO DE 1989)
 
-Se asimilan a las empresas de participación estatal mayoritaria, las sociedades civiles y asociaciones civiles en las que la mayoría de los asociados sean Secretarías, Dependencias o Entidades de la administración pública del Estado o algunas o varias de ellas se obliguen a realizar o realicen las aportaciones preponderantes.
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
 
-Asimismo, el Gobierno del Estado Libre y Soberano de Morelos, podrá poseer menos del 50% de las acciones representativas del capital social de empresas que actúen en campos de interés prioritario. En estos casos, las empresas no se considerarán como Entidades de la administración pública paraestatal, si bien se adscribirán a la coordinación sectorial de la Secretaría o Dependencia que corresponda, en los términos de esta Ley, para efectos de los derechos corporativos y patrimoniales que derivan de la titularidad de dichas acciones.
+###### Artículo 53.
 
-###### ARTÍCULO 48.
+Los préstamos se harán de tal manera que los abonos para reintegrar la cantidad prestada y sus intereses, sumados en su caso, a los descuentos por préstamos hipotecarios y a los que deban hacerse por cualquier otro adeudo a favor del Instituto, no excedan del 50% de los sueldos del interesado, y se ajustarán al reglamento respectivo.
 
-Los fideicomisos públicos, son aquellas Entidades públicas, cuya constitución se formaliza a través del contrato de fideicomiso correspondiente, suscrito por la persona titular del Poder Ejecutivo, previa autorización para la constitución del mismos, por parte del Congreso del Estado; con un fin lícito y determinado, para impulsar las áreas prioritarias o específicas de desarrollo del Estado Libre y Soberano de Morelos. Los fideicomisarios públicos serán aquellos que con ese carácter se reconozcan en los instrumentos jurídicos de su constitución, la fiduciaria será cualquier institución o sociedad nacional de crédito legalmente constituida y el fideicomitente único de la administración pública central, invariablemente será la Secretaría de Finanzas y Planeación, contarán con un Comité Técnico; tendrán la estructura orgánica estrictamente necesaria para el desempeño de sus funciones.
+###### Artículo 54.
 
-Las personas titulares de las Secretarías o Dependencias, a la cuales esté sectorizado algún fideicomiso público, están facultados para celebrar el contrato de fideicomiso respectivo, sin perjuicio de la comparecencia que por Ley, tiene encomendada la Secretaría de Finanzas y Planeación en su carácter de fideicomitente único y sin que ello implique la representatividad de la administración pública central, por parte de la Secretaría o Dependencia a la cual se sectorizó.
+(DEROGADO, B.O. 3 DE JULIO DE 1989)
 
-###### ARTÍCULO 49.
+###### Artículo 54.
 
-Las Entidades de la administración pública paraestatal se agruparán por sectores definidos, considerando el objeto de cada una de ellas, en relación a la esfera de competencia que determinen las leyes respectivas de las Secretarías y Dependencias que las coordinarán. Estarán sectorizadas a éstas, mediante el acuerdo de sectorización que expida la persona titular del Poder el Ejecutivo.
+(DEROGADO, B.O. 3 DE JULIO DE 1989)
 
-La coordinación comprenderá las actividades de planeación, programación, presupuestación y autorización de transferencias, así como el conocimiento de la operación y los resultados de gestión.
+###### Artículo 56.
 
-###### ARTÍCULO 50.
+(DEROGADO, B.O. 3 DE JULIO DE 1989)
 
-La persona titular del Poder Ejecutivo podrá ordenar la extinción o desincorporación de la administración pública de cualquier Entidad, informando al Congreso del Estado de las razones y justificaciones correspondientes.
+###### Artículo 57.
 
-En los casos de organismos auxiliares creados por ley o decreto del Congreso del Estado, la persona titular del Poder Ejecutivo presentará a éste la iniciativa de decreto por el cual se desincorpora o extingue el organismo descentralizado correspondiente para su análisis, y en su caso, aprobación.
+(DEROGADO, B.O. 3 DE JULIO DE 1989)
 
-Los procesos de desincorporación de Entidades podrán abarcar la disolución y liquidación, la enajenación a los sectores privado y social y cualquier otro mecanismo que se considere pertinente en los términos de la Legislación aplicable.
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
 
-## TRANSITORIOS
+###### Artículo 58.
 
-PRIMERO.- La presente Ley entrará en vigor a los treinta días naturales posteriores a su publicación en el Periódico "Tierra y Libertad", Órgano Oficial de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+Los adeudos por concepto de préstamo a corto plazo que no fueren cubiertos a su vencimiento, se pagarán con cargo a las aportaciones del deudor.
 
-SEGUNDO.- Se abroga la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos, publicada en el Periódico Oficial 4079, de fecha 29 de septiembre de 2000, así como sus reformas y adiciones hechas con posterioridad y que emanan de aquellas; así mismo, se derogan las demás disposiciones legales que se opongan a lo establecido en la presente Ley.
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 12 DE JULIO DE 1967)</small>
 
-TERCERO.- El personal de las Secretarías y Dependencias que, en la aplicación de esta Ley, pase a otra, en ninguna forma será afectado en los derechos que haya adquirido en su relación laboral con la administración pública del Estado Libre y Soberano de Morelos.
+### CAPITULO SEXTO BIS
 
-CUARTO.- Los asuntos iniciados al amparo de la Ley que se abroga, deberán substanciarse y concluirse conforme al ordenamiento jurídico que les dio origen.
+DE LOS PRESTAMOS PRENDARIOS PARA LA ADQUISICION DE BIENES DE CONSUMO DURADERO.
 
-QUINTO.- Cuando en esta Ley se de una denominación nueva o distinta a alguna Secretaría o Dependencia cuyas funciones estén establecidas por la ley anterior, dichas atribuciones se entenderán concedidas a la Secretaría o Dependencia que determine esta Ley y demás disposiciones relativas.
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
 
-SEXTO.- A partir de la entrada en vigor de la presente Ley, el Poder Ejecutivo, por conducto de sus Secretarías, Dependencias y Entidades competentes contará con noventa días naturales para promover y en su caso, publicar las propuestas de modificaciones y reformas a los ordenamientos legislativos o reglamentos que por virtud de esta Ley, han de ser armonizados. En tanto sucede esto, se mantendrán vigentes los actuales, siempre que no se opongan a lo establecido en ésta Ley y las leyes respectivas.
+###### Artículo 58 Bis.
 
-SÉPTIMO.- La Secretaría de la Contraloría, la Secretaría de Finanzas y Planeación y la Secretaría de Gestión e Innovación Gubernamental, en el ámbito de sus respectivas competencias, gestionarán ante las Secretarías y Dependencias, la realización de los cambios administrativos necesarios, en los temas relativos a recursos materiales, humanos y financieros, respectivamente, vigilando el cumplimiento de lo anterior.
+Los trabajadores y pensionistas podrán obtener créditos para adquirir bienes de uso duradero, si satisfacen, en lo conducente, las condiciones que esta Ley establece en el caso de los préstamos a corto plazo, y si cumplen con los requisitos que prevenga el Reglamento que al efecto expida la Junta Directiva.
 
-Recinto Legislativo a los dieciséis días del mes de junio de dos mil nueve.
+Los créditos para la adquisición de los bienes a que se refiere el párrafo anterior, se otorgarán mediante garantía prendaría, pagaderos en forma directa del derechohabiente al Instituto o mediante los mecanismos que se precisen en el reglamento que sobre el particular emita la Junta Directiva. El plazo mayor que se concederá para estos préstamos, será de 72 quincenas, en pagos iguales que incluyan capital e intereses; el interés que deberá calcularse sobre saldos insolutos no será inferior al 30 % del costo porcentual promedio vigente, y la cantidad autorizada será hasta ocho veces el sueldo básico integrado de los trabajadores en las mismas condiciones a las de los préstamos a corto plazo.
 
-ATENTAMENTE.
+Los adeudos por concepto de préstamos prendarios que no fueren cubiertos a su vencimiento, se pagarán con cargo a las aportaciones del deudor, siempre que las mismas no estén garantizando préstamos a corto plazo; si ese fondo no fuera suficiente, el Instituto podrá dar por rescindido el contrato prendario y exigir el pago del adeudo o la entrega del bien constituido en prenda.
 
-"SUFRAGIO EFECTIVO. NO REELECCIÓN".
+Los préstamos prendarios se otorgarán hasta el importe de ocho veces el sueldo básico integrado, si la aportación con derecho a retiro, en el caso de indemnización global a que se refiere el artículo 89, es igual o mayor que el monto del préstamo.
 
-LOS CC. DIPUTADOS INTEGRANTES DE LA MESA DIRECTIVA DEL CONGRESO DEL ESTADO.
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 29 DE JUNIO DE 2005)</small>
 
-DIP. JORGE TOLEDO BUSTAMANTE
+### CAPÍTULO SÉPTIMO. DE LA JUBILACIÓN Y DE LAS PENSIONES POR VEJEZ, CESANTÍA EN EDAD AVANZADA, INVALIDEZ Y MUERTE
 
-PRESIDENTE
+SECCION 1a
 
-DIP. MATÍAS QUIROZ MEDINA
+GENERALIDADES
 
-VICEPRESIDENTE
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
 
-DIP. FERNANDO BUSTAMANTE ORAÑEGUI
+###### Artículo 59.
 
-SECRETARIO
+El derecho a la jubilación, pensión por vejez, cesantía por edad avanzada, invalidez o muerte se genera cuando el trabajador o sus familiares derechohabientes se encuentran en los supuestos establecidos en esta Ley y satisfacen los requisitos que la misma señala.
 
-DIP. FRANCISCO LEÓN Y VÉLEZ RIVERA
+Los montos de las pensiones y jubilaciones que se otorguen con base en esta Ley se incrementarán en beneficio de quienes las reciban en el mismo porcentaje en que aumente el salario mínimo general en la zona de Hermosillo, Sonora, o conforme al índice inflacionario que anualmente determine el Banco de México, el que sea mayor, con posterioridad a la fecha de su otorgamiento.
 
-SECRETARIO
+El Instituto deberá resolver la solicitud de pensión en un plazo no mayor de treinta días hábiles a partir de la fecha en que quede integrado el expediente. Dentro de los treinta días hábiles siguientes, el Gobernador del Estado revisará y resolverá en definitiva acerca de la solicitud de que se trate, para los efectos que expresa la primera parte del artículo 108 de esta Ley.
 
-RÚBRICAS.
+> <small>(ADICIONADO, B.O. 29 DE JUNIO DE 2005)</small>
 
-Por tanto mando se imprima, publique circule y se le dé el debido cumplimiento.
+###### Artículo 59 Bis.
 
-Dado en la Residencia del Poder Ejecutivo en la Ciudad de Cuernavaca, Capital del Estado de Morelos, a los veinticinco días del mes de junio de dos mil nueve.
+El Fondo de Pensiones y Jubilaciones del Instituto será administrado a través de un fideicomiso cuya operación y reglamentación será prevista en el acto jurídico de su constitución. El Comité Técnico del fideicomiso estará obligado a solicitarle al Director General del Instituto la publicación trimestral en la página de Internet del Organismo, de la información relativa al manejo de los recursos del relacionado Fondo, y éste deberá publicarla en los términos y condiciones previstos por la Ley de Acceso a la Información Pública del Estado de Sonora.
 
-"SUFRAGIO EFECTIVO. NO REELECCIÓN".
+###### Artículo 60.
 
-GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS
+Todas las pensiones que se concedan, se otorgarán por cuota diaria.
 
-MTRO. MARCO ANTONIO ADAME CASTILLO
+> <small>(ADICIONADO, B.O. 19 DE MARZO DE 1975)</small>
 
-SECRETARIO DE GOBIERNO
+Para el otorgamiento de las pensiones directas por vejez o invalidez, si el sueldo regulador fuere inferior al salario mínimo vigente, se tomará éste para los efectos de la aplicación de la tabla de porcentajes contenida en el artículo 71 de ésta ley.
 
-JORGE MORALES BARUD
+> <small>(ADICIONADO, B.O. 29 DE JUNIO DE 2005)</small>
 
-RÚBRICAS.
+Artículo 60 Bis A.- Quienes accedan a una pensión o jubilación tendrán derecho a recibir un apoyo extraordinario anual en el mes de diciembre por concepto de aguinaldo, por el equivalente a 40 días de la cuota diaria que señala el primera párrafo del artículo precedente.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+Artículo 60 Bis B.- (DEROGADO, B.O. 26 DE NOVIEMBRE DE 2015)
 
-P.O. 2 DE JUNIO DE 2010.
+###### Artículo 61.
 
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+Cuando un trabajador a quien se haya otorgado una pensión siga en servicio, sin haberla disfrutado, podrá renunciar a ella y obtener otra, de acuerdo con las cuotas aportadas y el tiempo de servicios prestados con posterioridad.
 
-SEGUNDO.- Los reglamentos de las leyes y reglamentos interiores de las dependencias relacionados con la materia del presente Decreto, deberán de modificarse en un plazo de 90 días hábiles a partir de la entrada en vigor del presente Decreto; en tanto, se mantendrán vigentes los actuales, considerando que la Secretaría de Gobierno, ejercerá las atribuciones que en materia de vigilancia e inspección del transporte tiene consignado el Reglamento Interior de la Secretaría de Seguridad Pública.
+En ningún caso un pensionista podrá regresar a servicio activo, salvo el de inhabilitados que quedaren aptos para el servicio, los que fueren electos para cargos de elección popular o los designados para puestos de confianza del Ejecutivo.
 
-TERCERO.- Los asuntos que con motivo de este Decreto deban pasar de la Secretaría de Seguridad Pública a la Secretaría de Gobierno, permanecerán en el último trámite que hubieren alcanzado hasta que el personal o las unidades administrativas de la Secretaría de Seguridad Pública que deban conocer de los mismos, se incorporen a la Secretaría de Gobierno, con excepción de los trámites urgentes o sujetos a plazos improrrogables, que serán resueltos por la Secretaría que actualmente tenga el asunto a su cargo, fundamentando para ello sus actuaciones en las normas que les dieron origen a dichos trámites.
+> <small>(REFORMADO, B.O. 9 DE MAYO DE 1973)</small>
 
-CUARTO.- Las Secretarías de Finanzas y Planeación, Gestión e Innovación Gubernamental y de la Contraloría, coordinarán con la intervención que corresponda a las Secretarías de Seguridad Pública y Gobierno, el proceso de transferencia de los recursos humanos, materiales y financieros para hacer operativas las disposiciones contenidas en el presente Decreto.
+###### Artículo 62.
 
-P.O. 1 DE SEPTIEMBRE DE 2011.
+Es incompatible la percepción de una pensión, otorgada por el Instituto con la percepción de cualquiera otra pensión concedida por el propio Instituto y organismos públicos a que se refieren los artículos 1º y 3º de esta Ley y que están incorporados al régimen de la misma. Es igualmente incompatible la percepción de una pensión ganada por derecho propio con el desempeño de cualquier cargo, empleo o comisión remunerados por el Estado y organismos públicos, siempre que tales cargos y empleos impliquen la incorporación al régimen de esta Ley. Los interesados podrán gozar nuevamente de la pensión, cuando desaparezca la incompatibilidad. Tal incompatibilidad no existirá entre la percepción de una pensión concedida por el Instituto por servicios prestados al Gobierno del Estado y el desempeño de la docencia en la Universidad de Sonora o en otro organismo público descentralizado de fines educativos, ni entre aquella y la pensión por servicios docentes en otros organismos.
+
+El Infractor a la disposición antes expresada estará obligado a reintegrar las cantidades percibidas indebidamente en el plazo que le será fijado por el Instituto, pero que nunca será menor al tiempo en que las hubiera recibido. Desaparecida la incompatibilidad y reintegradas las cantidades indebidamente recibidas, el pensionista puede volver a disfrutar de la pensión otorgada. Si no hiciese el reintegro en los términos de este artículo, perderá todo derecho a la pensión.
+
+Los pensionistas quedan obligados a dar aviso inmediato al Instituto cuando acepten cualesquiera de los empleos, cargos o comisiones a que se ha hecho referencia; igualmente quedan obligados a dar aviso en caso de otorgamiento de alguna pensión. En todo caso, el Instituto ordenará la suspensión de la pensión otorgada.
+
+###### Artículo 63.
+
+La edad y el parentesco de los trabajadores y sus derechohabientes se acreditará ante el Instituto en los términos de la Legislación Civil; y la dependencia económica será constatada por el Instituto a través de los medios que tuviere a su disposición.
+
+###### Artículo 64.
+
+El Instituto podrá ordenar en cualquier tiempo, la verificación de la autenticidad de los documentos y la justificación de los hechos que hayan servido de base para conceder una pensión. Cuando se sospechase que son falsos, el Instituto, con audiencia del interesado, procederá a la respectiva revisión y de comprobar la falsedad ordenará la suspensión del pago de la misma y su cancelación y denunciará los hechos al Ministerio Público, para los efectos que procedan.
+
+###### Artículo 65.
+
+Para que un trabajador pueda disfrutar de pensión, deberá cubrir previamente al Instituto los adeudos que tuviese con el mismo, por concepto de cuotas, así como las que hubiere retirado o las que se hubiesen aplicado a cubrir importe de préstamos insolutos, en los términos del artículo 58. En caso de fallecimiento del trabajador, sus derechohabientes tendrán igual obligación. Los adeudos que al transmitirse una pensión a los derechohabientes tuviesen el trabajador o el pensionista, serán cubiertos por los derechohabientes en los plazos que se convengan con el Instituto con la aprobación de la Junta Directiva.
+
+> <small>(ADICIONADO, B.O. 3 DE JULIO DE 1989)</small>
+
+En los casos de devolución de cuotas, para que se tenga derecho a disfrutar de las pensiones, además de la devolución de aquéllas, tendrán la obligación de cubrir una cantidad por concepto de interés, que en ningún caso será inferior al último interés aplicable a los préstamos a corto plazo y que se calculará a partir de la fecha en que se debió haber entregado las cuotas.
+
+###### Artículo 66.
+
+Es nula toda enajenación, cesión o gravamen de las pensiones que esta Ley establece. Devengadas o futuras, serán inembargables y sólo podrán ser afectadas para hacer efectiva la obligación de ministrar alimentos por mandato judicial o para el pago de adeudos con el Instituto, con motivo de la aplicación de esta Ley.
+
+###### Artículo 67.
+
+A los trabajadores que tengan derecho, tanto a pensión de vejez como a pensión de invalidez, se les otorgará solamente una de ellas, a elección del beneficiario.
+
+SECCION 2a
+
+JUBILACION
+
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
+
+###### Artículo 68.
+
+Tienen derecho a la pensión por jubilación los trabajadores del sexo masculino con treinta y cinco años o más de servicio e igual tiempo de cotización al Instituto, en los términos de esta Ley, cualquiera que sea su edad. En el caso de trabajadoras mujeres el derecho lo adquieren al cumplir treinta y tres años o más de servicio e igual tiempo de cotización al Instituto.
+
+La jubilación dará derecho al pago de una cantidad equivalente a lo que resulte menor entre veinte salarios mínimos mensuales o el cien por ciento del sueldo regulador, entendiéndose por éste, el promedio ponderado de los sueldos cotizados de los últimos diez años, previa su actualización con el índice nacional de precios al consumidor o, en su caso, el incremento salarial del año correspondiente, el que sea menor, si se cumple con los requisitos abajo señalados y su recepción comenzará a partir del día siguiente a aquél en que el trabajador lo hubiese devengado. En ningún caso, las pensiones por jubilación podrán ser menores al equivalente a dos salarios mínimos generales mensuales en la zona de Hermosillo, Sonora.
+
+Además de lo anterior, deberán cubrirse los siguientes requisitos:
+
+I.- Que la cantidad contribuida por el trabajador al Fondo de Pensiones resulte de la base del cálculo del sueldo regulador; y
+
+II.- Que cumplan con los demás requisitos que establezca el reglamento respectivo que emita la Junta Directiva del Instituto.
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 29 DE JUNIO DE 2005)</small>
+
+SECCION 3a
+
+PENSIÓN POR VEJEZ Y DE CESANTÍA POR EDAD AVANZADA
+
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
+
+###### Artículo 69.
+
+Tienen derecho a pensión por vejez los trabajadores que, habiendo cumplido cincuenta y cinco años de edad, tuviesen quince años de servicio como mínimo e igual tiempo de contribución al Instituto o a la antigua Dirección General de Pensiones del Estado, y recibirán como pensión un porcentaje del sueldo regulador dependiendo de los años de cotización al momento del retiro conforme a la siguiente tabla:
+
+AÑOS DE COTIZACIÓN PORCENTAJE DEL SUELDO REGULADOR
+
+15 50.0%
+
+16 52.0%
+
+17 54.0%
+
+18 56.0%
+
+19 58.0%
+
+20 60.0%
+
+21 62.5%
+
+22 65.0%
+
+23 67.5%
+
+24 70.0%
+
+25 72.5%
+
+26 75.0%
+
+27 77.5%
+
+28 80.0%
+
+29 82.5%
+
+30 85.0%
+
+31 88.0%
+
+32 91.0%
+
+33 94.0%
+
+34 97.0%
+
+35 o más 100.0%
+
+> <small>(ADICIONADO, B.O. 29 DE JUNIO DE 2005)</small>
+
+###### Artículo 69 Bis.
+
+Tienen derecho a pensión de cesantía por edad avanzada los trabajadores que, habiendo cumplido sesenta años de edad, tuviesen diez años de servicio como mínimo e igual tiempo de contribución al Instituto y recibirán como pensión un porcentaje del sueldo regulador dependiendo de la edad al momento del retiro conforme a la siguiente tabla:
+
+CON UN MÍNIMO DE 10 AÑOS COTIZADOS PORCENTAJE DEL SUELDO
+
+Y LA SIGUIENTE EDAD REGULADOR
+
+60 40.0%
+
+61 42.0%
+
+62 44.0%
+
+63 46.0%
+
+64 48.0%
+
+65 o más 50.0%
+
+###### Artículo 70.
+
+El cómputo de los años de servicios se hará considerando uno solo de los empleos, en los casos en que el trabajador hubiese desempeñado simultáneamente varios, cualesquiera que fuesen; en consecuencia, para dicho cómputo se considerará por una sola vez el tiempo durante el cual haya tenido o tenga el interesado el carácter de trabajador.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE JUNIO DE 2005)</small>
+
+###### Artículo 71.
+
+Para los efectos del otorgamiento de las pensiones por invalidez, cuando el trabajador haya prestado servicios al Gobierno del Estado y organismos incorporados durante diez años por lo menos y contribuido al Instituto por el mismo período, aquella se calculará aplicando el sueldo regulador a que se refiere el artículo 68 de esta Ley, de acuerdo con los porcentajes que especifica la tabla siguiente:
+
+AÑOS DE SERVICIO PORCENTAJE DEL SUELDO REGULADOR
+
+10 40.0%
+
+11 42.0%
+
+12 44.0%
+
+13 46.0%
+
+14 48.0%
+
+15 50.0%
+
+16 52.5%
+
+17 55.0%
+
+18 57.5%
+
+19 60.0%
+
+20 62.5%
+
+21 65.0%
+
+22 67.5%
+
+23 70.0%
+
+24 72.5%
+
+25 75.0%
+
+26 77.5%
+
+27 80.0%
+
+28 82.5%
+
+29 85.0%
+
+30 87.5%
+
+31 90.0%
+
+32 92.5%
+
+33 95.0%
+
+34 97.5%
+
+35 o más 100%
+
+> <small>(REFORMADO, B.O. 19 DE MARZO DE 1975)</small>
+
+En el cómputo final, toda fracción de más de seis meses se considerará como año completo.
+
+###### Artículo 72.
+
+(DEROGADO, B.O. 3 DE JULIO DE 1989)
+
+###### Artículo 73.
+
+Para calcular el monto de la pensión a que tengan derecho los trabajadores, se tomarán en cuenta exclusivamente el sueldo o sueldos percibidos, y, a partir del 1 de enero de 1949, sólo se considerarán aquellos sobre los cuales se hubiesen cubierto las aportaciones correspondientes.
+
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
+
+Todas las pensiones que otorgue el Instituto se calcularán sobre la base del sueldo regulador que define el artículo 68 de esta Ley.
+
+> <small>(ADICIONADO, B.O. 29 DE JUNIO DE 2005)</small>
+
+El Instituto tendrá la obligación de publicar en el Boletín Oficial del Gobierno del Estado, dentro de los siete días hábiles siguientes a su autorización por el órgano de gobierno, los aumentos porcentuales que sirvan de base para la actualización de los montos de las pensiones que otorga.
+
+###### Artículo 74.
+
+El derecho al pago de la pensión por vejez comenzará a partir del día siguiente a aquel en que el trabajador hubiese percibido el último sueldo por haber causado baja.
+
+###### Artículo 75.
+
+El trabajador que se separe del servicio después de haber contribuido cuando menos quince años al Instituto, podrá, mediante solicitud expresa, dejar en éste la totalidad de las aportaciones, a efecto de que al cumplir la edad requerida para la pensión, se le otorgue la misma a que tuviese derecho. Si falleciere antes de cumplir los cincuenta y cinco años de edad, a sus familiares derechohabientes se les otorgará la pensión en los términos de esta Ley.
+
+SECCION 4a
+
+PENSION POR INVALIDEZ
+
+###### Artículo 76.
+
+La pensión por invalidez se otorgará a los trabajadores que se inhabiliten física o mentalmente por causas ajenas al desempeño de su cargo o empleo, si hubiesen contribuido al Instituto cuando menos durante quince años. El derecho al pago de esta pensión comienza a partir de la fecha en que el trabajador cause baja motivada por la inhabilitación.
+
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+
+Para calcular el monto de esta pensión, se aplicará la tabla contenida en el artículo 71, en relación con el artículo 73.
+
+###### Artículo 77.
+
+No se concederá la pensión por invalidez:
+
+I.- Cuando el estado de inhabilitación sea consecuencia de un acto intencional del trabajador u originado por algún delito cometido por el trabajador;
+
+II.- Cuando el estado de invalidez sea anterior al nombramiento del trabajador.
+
+###### Artículo 78.
+
+El otorgamiento de la pensión por invalidez queda sujeto a la satisfacción de los siguientes requisitos:
+
+I.- Solicitud del trabajador o de sus representantes legales;
+
+II.- Dictamen de uno o más médicos o técnicos designados por el Instituto, que certifiquen la existencia del estado de invalidez. Si el afectado no estuviere de acuerdo con el dictamen del Instituto, él o sus representantes podrán designar médicos particulares para que dictaminen. En caso de desacuerdo entre ambos dictámenes el Instituto propondrá al afectado una terna preferentemente de especialistas de notorio prestigio profesional para que entre ellos elija uno, quien dictaminará en forma definitiva, en la inteligencia de que una vez hecha la elección por el afectado del tercero en discordia, el dictamen de éste será inapelable y por tanto obligatorio para el interesado y para el Instituto.
+
+###### Artículo 79.
+
+Los trabajadores que soliciten pensión por invalidez y los pensionados por la misma causa están obligados a someterse a los reconocimientos y tratamientos que el Instituto les prescriba y proporcione y, en caso de no hacerlo, no se les tramitará su solicitud o se les suspenderá el goce de la pensión.
+
+###### Artículo 80.
+
+La pensión por invalidez y la tramitación de la misma se suspenderá:
+
+I.- Cuando el pensionista o solicitante esté desempeñando cargo o empleo en el Estado o en los organismos públicos incorporados o acogidos al régimen de esta ley, de conformidad con los artículos 1o. y 3o. de la misma.
+
+II.- En el caso de que el pensionista o solicitante se niegue injustificadamente a someterse a las investigaciones que en cualquier tiempo ordene el Instituto se practiquen, o se resista a las medidas preventivas o curativas a que deba sujetarse. El pago de la pensión o la tramitación de la solicitud se reanudará a partir de la fecha en que el pensionado se someta al tratamiento médico, sin que haya lugar, en el primer caso, al reintegro de las prestaciones que dejó de percibir durante el tiempo que duró la suspensión.
+
+###### Artículo 81.
+
+La pensión por invalidez, será revocada cuando el trabajador recupere su capacidad para el servicio; en tal caso el Estado u organismo público en que hubiere prestado sus servicios al trabajador recuperado, tendrá la obligación de restituirlo en su empleo si de nuevo es apto para el mismo o, en caso contrario, asignarle un trabajo que pueda desempeñar, debiendo ser cuando menos de un sueldo y categoría equivalente a los que disfrutaba al acontecer la invalidez. Si el trabajador no aceptare reingresar al servicio en tales condiciones o bien estuviese desempeñando cualquier trabajo remunerado, le será revocada la pensión.
+
+Si el trabajador no fuere restituido a su empleo o no se le asigne otro en los términos del párrafo anterior por causa imputable al Estado u organismo público en que hubiere prestado sus servicios, seguirá percibiendo la pensión, pero ésta será a cargo del Estado u organismo público correspondiente.
+
+SECCION 5a
+
+PENSION POR CAUSA DE MUERTE
+
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
+
+###### Artículo 82.
+
+La muerte del trabajador por causas ajenas al servicio, cualquiera que sea su edad, y siempre que hubiere contribuido al Instituto por al menos diez años, así como la de un pensionado por vejez, invalidez o por cesantía por edad avanzada, darán origen a las pensiones de viudez y de orfandad o pensiones a los ascendientes, en su caso, según lo previene esta Ley. El derecho al pago de esta pensión se iniciará a partir del día siguiente al de la muerte de la persona que haya originado la pensión.
+
+###### Artículo 83.
+
+El orden para gozar de las pensiones a que se refiere este capítulo será el siguiente:
+
+> <small>(REFORMADA, B.O. 29 DE JUNIO DE 2005)</small>
+
+I.- Esposa supérstite e hijos menores de 18 años o, en su caso, aquellos hijos que habiendo alcanzado la mayoría de edad, no pudieren mantenerse por su propio trabajo debido a una enfermedad duradera, defectos físicos o afectación psíquica, ya sean habidos dentro o fuera de matrimonio;
+
+II.- A falta de esposa legítima, la mujer con quien viviere el trabajador o pensionado al ocurrir el fallecimiento y tuvieren hijos o aquella con la que haya vivido maritalmente durante los cinco años que precedieron a su muerte, siempre que ambos hayan estado libres de matrimonio. Si al morir el trabajador tuviere varias concubinas, ninguna tendrá derecho a pensión;
+
+III.- El esposo supérstite, siempre que a la muerte de la esposa trabajadora o pensionada fuese mayor de 55 años, o esté incapacitado para trabajar, siendo condición en ambos casos que hubiere dependido económicamente de ella;
+
+IV.- A falta de las personas a las que se refieren las tres fracciones anteriores, la pensión por muerte se entregará a los ascendientes en caso de que hubiesen dependido económicamente del trabajador o pensionado, durante los cinco años anteriores a su muerte.
+
+La cantidad total a que tengan derecho los deudos señalados en cada una de las fracciones anteriores, se dividirá por partes iguales entre ellos. Cuando fuesen varios los beneficiarios de una pensión y alguno de ellos perdiese el derecho, la parte que le corresponda será repartida proporcionalmente entre los restantes.
+
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
+
+###### Artículo 84.
+
+El monto de las pensiones se calculará aplicando las siguientes reglas:
+
+I.- Cuando el trabajador fallezca habiendo cumplido diez o más años de servicios y cotizado al Instituto por un período similar, la pensión será equivalente a la que hubiese correspondido al trabajador en los términos de los artículos 71 y 73 de esta Ley;
+
+II.- Al fallecer un jubilado o un pensionista por vejez, invalidez o por cesantía por edad avanzada, sus deudos, en el orden establecido por esta Ley, continuarán recibiendo una pensión por un monto equivalente al 80% de la jubilación o pensión de la que percibía el fallecido.
+
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
+
+###### Artículo 85.
+
+Si el hijo del trabajador o del pensionado, cualquiera que fuese su edad, no pudiere mantenerse por su propio trabajo debido a una enfermedad duradera, defectos físicos o afectación psíquica, el pago de la pensión por orfandad se otorgará por el tiempo que subsista su inhabilitación. En tal caso estará obligado a someterse a los reconocimientos y tratamientos que el Instituto le prescriba y proporcione y a las investigaciones que en cualquier tiempo éste ordene para los efectos de determinar su estado de invalidez, pudiendo decretarse, en caso contrario, a la suspensión de la pensión.
+
+###### Artículo 86.
+
+Sólo se pagará la pensión a la viuda o a la concubina mientras no contraigan nupcias o entren en concubinato. Al contraer matrimonio recibirán como única y última prestación el importe de seis meses de la pensión que hubiere disfrutado alguna de ellas.
+
+La divorciada no tendrá derecho a la pensión de quien haya sido su cónyuge, a menos que a la muerte del marido éste estuviese pagándole pensión alimenticia por condena judicial y siempre que no existan viuda, hijos, concubina y ascendientes con derecho a la misma. Cuando la divorciada disfrutase de la pensión en los términos de este artículo perderá ese derecho si contrae nuevas nupcias, si viviese en concubinato o si no viviese honestamente, previa declaración judicial correspondiente. El importe de la pensión a la divorciada no será mayor de la que hubiese estado disfrutando antes de la muerte del deudor alimentista.
+
+###### Artículo 87.
+
+Si un pensionista desaparece de su domicilio por más de un mes sin que se tengan noticias de su paradero, los deudos con derecho a la transmisión de la pensión, disfrutarán de la misma en los términos de la fracción II del artículo 84 con carácter provisional, y previa la solicitud respectiva, bastando para ello que se comprueben el parentesco y la desaparición del pensionista, sin que sea necesario, promover diligencias formales de declaración de ausencia. Si posteriormente y en cualquier tiempo el pensionista se presentase, tendrá derecho a disfrutar el mismo su pensión y a recibir las diferencias entre el importe original de la misma y aquel que hubiese sido entregado a sus familiares. Cuando se compruebe el fallecimiento del pensionista, la transmisión será definitiva.
+
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+
+###### Artículo 88.
+
+Cuando fallezca un trabajador pensionista, el Instituto entregará a sus herederos legítimos o a las personas que se hubiesen hecho cargo de la inhumación, al momento de ocurrir el fallecimiento, el importe de siete veces el salario mínimo general mensual vigente en la capital del Estado de Sonora, por concepto de gastos de funeral, sin más trámite que la presentación del certificado de defunción y la constancia de los gastos del sepelio.
+
+Si no existiesen parientes o personas que se encarguen de la inhumación, el instituto lo hará.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 17 DE AGOSTO DE 1966)</small>
+
+### CAPITULO SEPTIMO BIS.. DEL PAGO POSTUMO
+
+> <small>(REFORMADO, B.O. 19 DE MARZO DE 1975)</small>
+
+###### Artículo 88 Bis.
+
+El Instituto se obliga a cubrir el pago póstumo, que podrá ser ordinario o extraordinario.
+
+a).- Es pago póstumo ordinario el que se fija en favor de los beneficiarios de quien, conforme a esta Ley, tiene la calidad de derechohabiente. Consistirá en el pago de $100,000.00, que el Instituto entregará, a la muerte de los trabajadores incorporados al propio Instituto, a los beneficiarios que éstos designen y a la falta de designación, a sus herederos legítimos. Para el cumplimiento de esta prestación el Gobierno del Estado aportará una cuota mensual de $37.50 por cada trabajador, e igual cantidad aportará cada uno de los trabajadores, sin que exista el derecho a la devolución de tales cuotas. En iguales términos podrá proporcionarse el pago póstumo a los trabajadores de otras instituciones u organizaciones que se incorporen al Instituto. Los trabajadores que se pensionen a partir de la fecha de vigencia de esta reforma, podrán disfrutar del mismo derecho, mediante una cuota mensual de ... $ 75.00, previa manifestación de su interés que hagan al Instituto, sin que en este caso exista obligación de parte del Gobierno del Estado de aportar alguna cuota adicional. El pago póstumo a que se refiere este capítulo quedará sujeto a las siguientes bases:
+
+PRIMERA:- El Gobierno del Estado, por conducto de la Tesorería General, hará los descuentos a los trabajadores el día 1ro. de cada mes y entregará de inmediato al Instituto las cuotas correspondientes, tanto del Gobierno como de cada trabajador. Los remanentes que arroje la operación, se incorporarán al fondo de pensiones. Así como en caso de insuficiencia, el fondo de pensiones proporcionará el faltante para el cumplimiento oportuno de los pagos póstumos.
+
+SEGUNDA:- El Instituto deberá expedir un certificado individual a cada uno de los trabajadores, por lo que, previamente, cada trabajador firmará una solicitud, proporcionando los datos necesarios y designará a sus beneficiarios.
+
+TERCERA:- El trabajador que tenga derecho al pago póstumo podrá en cualquier tiempo hacer una nueva designación del beneficiario, notificándolo al Instituto.
+
+CUARTA:- Con el fin de que el beneficiario compruebe sus derechos, deberá identificarse a satisfacción del instituto y presentar el acta de defunción del trabajador fallecido.
+
+QUINTA:- Cuando el trabajador no haya designado beneficiario, el importe del pago póstumo se pagará a los herederos de acuerdo con el orden que establece el Código Civil del Estado, en lo relativo a la sucesión legítima.
+
+SEXTA:- Al fallecimiento del trabajador y cuando este no haya designado beneficiario el Instituto al enterarse del fallecimiento, convocará, por medio de uno de los periódicos de mayor circulación del lugar en donde haya aquél tenido domicilio y en el Boletín Oficial del Estado, para que dentro de los 30 días siguientes a la última publicación, comparezcan las personas que tengan derecho, de acuerdo con la Ley, a reclamar el pago póstumo. Transcurrido el término anterior y una vez estudiadas las reclamaciones y las pruebas presentadas, el Instituto resolverá dentro de quince días a quien corresponde entregar el beneficio. Para acreditar el derecho de percibir el pago póstumo y en todo lo relativo a la valorización de las pruebas que se ofrezcan, se estará a lo dispuesto en la legislación civil.
+
+b).- Es pago póstumo extraordinario el que se establece a favor de los beneficiarios, del derechohabiente, su pago quedará sujeto a las siguientes bases:
+
+PRIMERA:- En caso de fallecimiento de un trabajador al servicio del Gobierno del Estado, jubilado o pensionado, tendrán derecho los beneficiarios a percibir como pago póstumo extraordinario la cantidad de $10,000.00, que no estará sujeto a descuento alguno. Este pago se hará a la persona o personas que el propio empleado en servicio o jubilado haya designado expresamente para tal fin; los intresados hará (sic) la designación, llenando y autorizando con su firma y huella digital la forma correspondiente que les será proporcionada, por duplicado, quedando uno de los ejemplares en poder el interesado y el otro depositado en las oficinas del Instituto.
+
+SEGUNDA:- En defecto de la manifestación expresa a que se refiere el párrafo anterior, para decidir qué persona o personas tienen derecho a recibir el pago póstumo, se seguirá el siguiente orden:
+
+I.- La esposa y los hijos legítimos o naturales que sean menores de dieciocho años y los ascendientes, a menos que se pruebe que no dependían económicamente del empleado;
+
+II.- A falta de esposa, hijos y ascendientes en los términos de la fracción anterior el pago póstumo se entregará a las personas que, económicamente, dependían parcial o totalmente del empleado, según lo decida el Instituto, en vista de las pruebas rendidas.
+
+Artículo 88 A.- (DEROGADO, B.O. 19 DE MARZO DE 1975)
+
+Artículo 88 B.- (DEROGADO, B.O. 19 DE MARZO DE 1975)
+
+Artículo 88 C.- (DEROGADO, B.O. 19 DE MARZO DE 1975)
+
+### CAPITULO OCTAVO. DE LA INDEMNIZACION GLOBAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE JULIO DE 1989)</small>
+
+###### Artículo 89.
+
+Al trabajador que sin tener derecho a jubilación o a pensión por vejez o invalidez, se separe definitivamente del servicio, se le otorgará una indemnización global equivalente a las cuotas con que hubiese contribuido al Fondo de Pensiones a que se refiere el artículo 16 de esta Ley.
+
+> <small>(REFORMADO, B.O. 9 DE MAYO DE 1973)</small>
+
+Si el trabajador falleciere sin tener derecho a las pensiones mencionadas al principio de este artículo, el Instituto entregará el importe de la indemnización global a los beneficiario (sic) que aquél hubiere designado, y a falta de designación, a sus derechos legítimos.
+
+###### Artículo 90.
+
+Sólo podrá afectarse la indemnización a que se refiere el artículo anterior, en los siguientes casos:
+
+I.- Si el trabajador tuviese algún adeudo con el Instituto o responsabilidades con el Estado u organismos públicos incorporados.
+
+II.- Cuando al trabajador se le impute la comisión de algún delito con motivo del desempeño de su cargo y que entrañe responsabilidad con el Estado u organismo público correspondiente. En este caso se retendrá el total de la indemnización hasta que los Tribunales dicten fallo absolutorio y, en caso contrario, sólo se entregará al trabajador el sobrante, si lo hubiere, después de cubrir dicha responsabilidad. Si el trabajador estuviere caucionado por algún fondo de garantía para el desempeño de su empleo, operará este en primer término. En el caso del último párrafo del artículo anterior, la indemnización global sólo podrá afectarse para cubrir los adeudos que tuviese para con el Instituto hasta la fecha de su muerte.
+
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+
+###### Artículo 91.
+
+Si el trabajador o extrabajador hubiere cobrado una indemnización global y quisiere que el tiempo que abarque dicha indemnización se le compute, para los efectos de esta Ley, reintegrará, en el plazo máximo de un año, contado a partir de la notificación personal que se le haga por parte del Instituto, la indemnización global que hubiere recibido, más sus intereses calculados a la tasa vigente para los préstamos a corto plazo en el momento de la devolución. Si falleciere antes de ejercer este derecho o de solventar el adeudo, sus familiares derechohabientes podrán optar por el pago de la indemnización que en su caso hubiere correspondido al trabajador en los términos del artículo 89, o bien, por cubrir íntegramente el saldo adeudado, para disfrutar de la pensión, en los casos en que ésta proceda.
+
+La Junta Directiva del Instituto, está facultada para resolver cualquier caso que se presente con motivo de la interpretación y aplicación de este precepto, observando lo dispuesto por el Reglamento.
+
+> <small>(ADICIONADO, B.O. 3 DE JULIO DE 1989)</small>
+
+###### Artículo 91-A.
+
+El fondo colectivo de retiro en beneficio de los trabajadores al servicio del Estado, se otorgará en los siguientes casos:
+
+I.- A los trabajadores con 30 años o más de servicio y 15 años de contribución al Instituto, como mínimo, que causen baja definitiva del servicio. En este caso, la suma será de 2.6 veces el salario mínimo general mensual vigente de la capital del Estado.
+
+II.- A los trabajadores con 15 años o más de servicio e igual tiempo de aportación al Instituto, y 55 años o más de edad, que causen baja definitiva del servicio. En este caso, se entregará la suma que resulte de aplicar, a la cantidad señalada en la fracción que antecede y según los años de servicio que correspondan, el porcentaje establecido en la siguiente tabla:
+
+AÑOS DE SERVICIOS PORCENTAJE DEL MONTO
+
+DEL BENEFICIO
+
+15 50%
+
+16 52.5%
+
+17. 55%
+
+18. 57.5%
+
+19. 60%
+
+20. 62.5%
+
+21. 65%
+
+22. 67.5%
+
+23. 70%
+
+24. 72.5%
+
+25. 75%
+
+26. 80%
+
+27. 85%
+
+28. 90%
+
+29. 95%
+
+III.- A los trabajadores que causen baja del servicio por incapacidad o invalidez total permanente, en los términos de esta Ley. La suma correspondiente dependerá, en este caso, de la causa que haya originado la incapacidad o invalidez conforme a lo siguiente:
+
+A) Tratándose de accidentes o enfermedades profesionales, la suma que se entregará al trabajador será igual a la señalada en la fracción I de este artículo; y
+
+B) Tratándose de invalidez por causas ajenas al servicio, el monto del beneficio corresponderá a la tabla de la fracción II de este artículo, sin tomar en cuenta la edad.
+
+> <small>(ADICIONADO, B.O. 3 DE JULIO DE 1989)</small>
+
+###### Artículo 91-B.
+
+El fondo colectivo de retiro se integrará con las aportaciones mensuales que, en igual proporción, realicen el Estado y los trabajadores. Dichas aportaciones, en conjunto, serán equivalentes al 0.3% del salario mínimo general mensual vigente en la capital del Estado, por cada trabajador.
+
+Corresponde al Estado hacer mensualmente las retenciones que procedan, para ser entregadas al Instituto.
+
+> <small>(ADICIONADO, B.O. 3 DE JULIO DE 1989)</small>
+
+###### Artículo 91-C.
+
+Los trabajadores que desempeñen más de dos empleos compatibles, cubrirán la prima correspondiente en una sola plaza.
+
+> <small>(ADICIONADO, B.O. 3 DE JULIO DE 1989)</small>
+
+###### Artículo 91-D.
+
+Si el trabajador falleciese, el Instituto entregará el importe que le corresponda del Fondo a los beneficiarios que hubiere designado y a falta de designación, a sus herederos legítimos.
+
+> <small>(ADICIONADO, B.O. 3 DE JULIO DE 1989)</small>
+
+###### Artículo 91-E.
+
+El Instituto pagará a los asegurados el importe que proceda, a los 20 días de que se hayan acreditado los requisitos que señale el Reglamento, mediante los cuales se pruebe que se tiene derecho a la prestación.
+
+> <small>(ADICIONADO, B.O. 3 DE JULIO DE 1989)</small>
+
+###### Artículo 91-F.
+
+El Instituto podrá celebrar con los organismos públicos incorporados, convenios mediante los cuales se otorgue a sus funcionarios o empleados el Fondo de Retiro.
+
+### CAPITULO NOVENO. DE LA PRESCRIPCION
+
+###### Artículo 92.
+
+El derecho a la jubilación y a la pensión es imprescriptible. Las pensiones caídas, las indemnizaciones globales y cualquiera prestación en dinero a cargo del Instituto que no se reclame dentro de los tres años siguientes a la fecha en que hubieren sido exigibles, prescribirán a favor del Instituto.
+
+###### Artículo 93.
+
+Los créditos respecto de los cuales el Instituto tenga el carácter de acreedor, cualquiera que sea su especie, prescribirán en diez años, a contar de la fecha en que el propio Instituto pueda, conforme a la ley, ejercitar sus derechos
+
+###### Artículo 94.
+
+Las obligaciones que en favor del Instituto señala la presente ley a cargo del Estado y organismos públicos incorporados prescribirán en el plazo de diez años contados a partir de la fecha que sean exigibles.
+
+La prescripción se interrumpirá por cualquier gestión de cobro, hecha por escrito, judicial o extrajudicial.
+
+### CAPITULO DECIMO. DE LAS FUNCIONES Y ORGANIZACIONES DEL INSTITUTO
+
+SECCION 1a.
+
+FUNCIONES DEL INSTITUTO.
+
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+
+###### Artículo 95.
+
+El Instituto tendrá personalidad jurídica para celebrar toda clase de actos y contratos, así como para defender sus derechos ante los tribunales o fuera de ellos, y para ejercitar las acciones judiciales o gestiones extrajudiciales que le competan.
+
+###### Artículo 96.
+
+El Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora tendrán las siguientes funciones:
+
+I.- Otorgar y administrar los diversos servicios a su cargo;
+
+II.- Vigilar la concentración de las cuotas, aportaciones y demás recursos del Instituto;
+
+III.- Satisfacer las prestaciones a su cargo;
+
+IV.- Otorgar jubilaciones y pensiones;
+
+V.- Invertir los fondos de acuerdo con las disposiciones de esta ley;
+
+VI.- Realizar toda clase de actos jurídicos y celebrar los contratos que requiera el servicio;
+
+VII.- Adquirir bienes muebles e inmuebles necesarios para la realización de sus fines;
+
+VIII.- Organizar sus dependencias y fijar la estructura y funcionamiento de las mismas;
+
+IX.- Expedir los reglamentos para la debida prestación de sus servicios y de su organización interna; y
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1963)</small>
+
+X.- Obtener préstamos, créditos o financiamientos para aplicarlos a sus propios fines y para gravar en garantía de esas operaciones, su patrimonio, previa sanción del Ejecutivo del Estado.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 1963)</small>
+
+XI.- Las demás que le confieran esta Ley y sus reglamentos.
+
+###### Artículo 97.
+
+Los órganos de Gobierno del Instituto serán:
+
+I.- La Junta Directiva, y
+
+II.- El Director General.
+
+> <small>(ADICIONADA, B.O. 11 DE ENERO DE 1982)</small>
+
+III.- La Comisión Ejecutiva del Fondo de la Vivienda.
+
+###### Artículo 98.
+
+La Junta Directiva se compondrá de siete miembros: El primero designado directamente por el Gobernador del Estado con el cargo expreso de Director General del Instituto; tres nombrados por los poderes Ejecutivo, Legislativo y Judicial, uno por cada poder; y, los otros tres designados por la Federación de Sindicatos de Trabajadores al Servicio del Estado y Municipios de Sonora, en la inteligencia de que dos de ellos como máximo pertenecerán al Magisterio. El Director General fungirá como presidente de la Junta.
+
+###### Artículo 99.
+
+Por cada miembro propietario de la Junta Directiva, excepción hecha del Director General, se nombrará un suplente, el cual lo sustituirá en sus faltas temporales, en los términos del Reglamento.
+
+###### Artículo 100.
+
+Los miembros de la Junta Directiva no podrán ser al mismo tiempo empleados o funcionarios del Instituto, salvo lo previsto en el artículo noventa y ocho por lo que se refiere al Director.
+
+###### Artículo 101.
+
+Los miembros de la Junta Directiva durarán en sus funciones tres años y podrán ser reelectos. En todo caso sus puestos se considerarán de confianza.
+
+###### Artículo 102.
+
+Para ser miembro de la Junta Directiva se requiere:
+
+I.- Ser ciudadano mexicano por nacimiento y en pleno ejercicio de sus derechos;
+
+II.- No estar desempeñando cargo alguno de elección popular o sindical;
+
+III.- Ser de reconocida competencia y honorabilidad.
+
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+
+###### Artículo 103.
+
+El Director General percibirá el sueldo que acuerde la Junta Directiva al aprobar el presupuesto del Instituto.
+
+###### Artículo 104.
+
+Corresponde a la Junta Directiva:
+
+I.- Planear las operaciones y servicios del Instituto;
+
+II.- Decidir las inversiones del Instituto;
+
+> <small>(REFORMADA, B.O. 29 DE JUNIO DE 2005)</small>
+
+III.- Dictar los acuerdos que resulten necesarios para satisfacer las prestaciones establecidas en esta Ley, incluso aquellos relativos a la autorización de transferencia de recursos entre programas cuando las condiciones financieras del Instituto así lo requieran, exceptuando los recursos de los Fondos de Pensiones y de Vivienda para los Trabajadores;
+
+IV.- Conceder, negar, suspender, modificar y revocar las jubilaciones y pensiones, en los términos de esta ley;
+
+V.- Nombrar y remover el personal de base y de confianza del Instituto, a propuesta del Director General;
+
+VI.- Aprobar y poner en vigor los reglamentos interiores económicos y de servicios médicos del Instituto;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 31 DE DICIEMBRE DE 1963)</small>
+
+VII.- Conferir poderes generales o especiales de acuerdo con el Director, sin perjuicio de la facultad que en esta materia concede al propio Director el artículo 109.
+
+VIII.- Examinar para su aprobación o modificación los balances anuales, los presupuestos de ingresos y egresos y el plan de labores del Instituto;
+
+IX.- Otorgar gratificaciones y recompensas a los funcionarios y empleados del Instituto, de acuerdo con el Director;
+
+X.- Conceder licencias a los Consejeros;
+
+XI.- Proponer al Ejecutivo del Estado los proyectos de reforma a esta ley;
+
+> <small>(REFORMADA, B.O. 11 DE ENERO DE 1982)</small>
+
+XII.- En relación con el Fondo de la Vivienda:
+
+A).- Examinar y en su caso aprobar dentro de los últimos tres meses del año, el Presupuesto del Ingresos y Egresos y los planes de labores y de financiamientos del Fondo para el siguiente año;
+
+B).- Examinar y en su caso aprobar, dentro de los cuatro primeros meses del año, los estados financieros que resulten de la operación en el último ejercicio y el informe de actividades de la Comisión Ejecutiva del Fondo;
+
+C).- Establecer las reglas para el otorgamiento de créditos y para la operación de los depósitos relacionados con el Fondo;
+
+D).- Examinar y aprobar anualmente el presupuesto de gastos de administración, operación y vigilancia del Fondo, los que no deberán exceder del 5% de los recursos totales que maneje;
+
+E).- Determinar las reservas que deban constituirse para asegurar la operación del fondo y el cumplimiento de los demás fines y obligaciones del mismo. Estas reservas deberán invertirse en valores de máxima rentabilidad.
+
+F).- Vigilar que los créditos y los financiamientos que se otorguen, se destinen a los fines para los que fueron concedidos; y
+
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+
+G) Las demás necesarias para el cumplimiento de los fines del Fondo;
+
+> <small>(REFORMADA, B.O. 3 DE JULIO DE 1989)</small>
+
+XIII.- Ordenar cuando lo estime necesario, la realización de estudios financieros actuariales, a fin de determinar el monto de sus reservas y la suficiencia de las aportaciones para el correcto cumplimiento de las funciones del Instituto; y
+
+> <small>(ADICIONADA, B.O. 3 DE JULIO DE 1989)</small>
+
+XIV.- En general, realizar todos aquellos actos y operaciones autorizadas por esta Ley y los que fuesen necesarios para la mejor administración o gobierno del Instituto y prestación de los servicios, incluyendo en su caso, el establecimiento de delegaciones o agencias del propio Instituto en otros lugares del Estado.
+
+###### Artículo 105.
+
+La Junta Directiva celebrará las sesiones que sean necesarias para la debida marcha de la Institución. Las sesiones serán válidas con la asistencia por lo menos de cuatro consejeros, tres de los cuales deberán ser representantes del Estado.
+
+###### Artículo 106.
+
+Las votaciones de la Junta Directiva se tomarán por mayoría de votos de los miembros presentes. En caso de empate el presidente o quien haga sus veces tendrá voto de calidad.
+
+###### Artículo 107.
+
+A falta del presidente de la Junta, las sesiones serán presididas por uno de los representantes del Estado en el orden del artículo 98.
+
+###### Artículo 108.
+
+Los acuerdos de la Junta Directiva por los cuales se concedan, nieguen, modifiquen, suspendan o revoquen las jubilaciones y pensiones a que esta ley se refiere, serán sancionadas por el Gobernador del Estado para que puedan ser ejecutados.
+
+Las demás resoluciones de la Junta Directiva que afecten intereses particulares, podrán recurrirse ante la misma dentro de los quince días siguientes. Si la Junta sostiene su resolución, los interesados podrán acudir ante el Gobernador del Estado dentro de los quince días siguientes, para que éste resuelva en definitiva.
+
+###### Artículo 109.
+
+El Director del Instituto tendrá las obligaciones y facultades siguientes:
+
+I.- Representar al Instituto y a la Junta Directiva y ejecutar los acuerdos de la Junta;
+
+II.- Presentar cada año a la Junta un informe pormenorizado del estado del Instituto;
+
+III.- Someter a la decisión de la Junta todas aquellas cuestiones que sean de la competencia de la misma;
+
+IV.- Firmar las escrituras y títulos de crédito en que el Instituto intervenga. Esta facultad podrá delegarse mediante poder expreso otorgado por la Junta Directiva.
+
+V.- Representar al Instituto en toda gestión judicial, extrajudicial y administrativa, sin perjuicio de los poderes otorgados al efecto.
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1963)</small>
+
+VI.- Conferir poderes generales y especiales, y resolver bajo su inmediata y directa responsabilidad los asuntos urgentes de la competencia de la Junta, a reserva de dar cuenta a la misma en la sesión inmediata siguiente.
+
+VII.- Formular y presentar para discusión y aprobación de la Junta, el balance, el presupuesto de ingresos y egresos y el plan de labores del Instituto, correspondientes a cada ejercicio anual;
+
+VIII.- Llevar la firma del Instituto, sin perjuicio de la delegación de facultades que para tal efecto fueren necesarias;
+
+IX.- Formular el Calendario Oficial del Instituto y autorizar en casos extraordinarios la suspensión de labores;
+
+X.- Conceder licencias al personal en los términos de las leyes correspondientes;
+
+XI.- Vigilar las labores del personal, exigiendo su debido cumplimiento, e imponer a los trabajadores del Instituto las correcciones disciplinarias procedentes;
+
+XII.- Someter a la consideración de la Junta las reformas o adiciones que considere pertinentes a los reglamentos interiores, económicos y de servicios médicos del Instituto;
+
+XIII.- Convocar a sesiones ordinarias y extraordinarias a los miembros de la Junta Directiva cuando proceda o a su juicio existan razones suficientes;
+
+XIV.- Todas las demás que le fijen los reglamentos o le otorgue la Junta Directiva.
+
+###### Artículo 110.
+
+Cuando el Director falte temporalmente al desempeño de sus funciones, el Gobernador del Estado determinará la persona que lo sustituya cuando el caso lo amerite.
+
+###### Artículo 111.
+
+El Director General será auxiliado en sus funciones por los Sub-Directores que nombre la Junta Directiva del Instituto a propuesta del Director y quienes deberán reunir los requisitos exigidos por el artículo 102 de esta Ley.
+
+> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+
+###### Artículo 111-A.
+
+Los integrantes de la Comisión Ejecutiva, representantes de las Organizaciones Sindicales, durarán en sus funciones tres años, pero podrán ser removidos libremente a petición de quienes los hayan propuesto.
+
+> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+
+###### Artículo 111-B.
+
+La Comisión Ejecutiva sesionará con la frecuencia que requiera la atención oportuna de los asuntos de su competencia, a propuesta de su presidente.
+
+Las sesiones serán válidas con la asistencia de por lo menos cuatro de sus miembros, de los cuales uno será el Presidente y dos representantes de las Entidades Públicas a que se refiere el Artículo 111-D.
+
+Las decisiones se tomarán por mayoría de los presentes y en caso de empate, el Presidente tendrá voto de calidad.
+
+> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+
+###### Artículo 111-C.
+
+El Organo del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, para la operación del Fondo de la Vivienda, será la Comisión Ejecutiva, la cual tendrá las atribuciones y funciones siguientes:
+
+I.- Decidir a propuesta de su Presidente, las inversiones de los recursos y los financiamientos del Fondo;
+
+II.- Resolver sobre las operaciones del Fondo, excepto aquellas que por su importancia ameriten acuerdo expreso de la Junta Directiva, la que deberá resolver lo conducente dentro de los quince días siguientes a la fecha en que se haga la petición correspondiente;
+
+III.- Examinar y en su caso, aprobar la presentación a la Junta Directiva de los Presupuestos de Ingresos y Egresos, los planes de labores y de financiamiento, así como los estados financieros y el informe de actividades formulado por el Vocal Ejecutivo;
+
+IV. Presentar a la Junta Directiva para su aprobación, en su caso, el Presupuesto de gastos de administración, operación y vigilancia del Fondo;
+
+V.- Proponer a la Junta Directiva las reglas para el otorgamiento de créditos, así como para la operación de los Depósitos a que se refiere esta Ley; y
+
+VI.- Las demás que señale la Junta Directiva.
+
+> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+
+###### Artículo 111-D.
+
+La Comisión Ejecutiva del Fondo, estará integrada por siete miembros, uno de los cuales será el Director General del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, que tendrá el carácter de Presidente, por el Secretario de Programación y Presupuesto, por el Tesorero General del Estado, por el Secretario de Desarrollo Urbano y Rural, por dos representantes designados por la Sección 54 del Sindicato Nacional de Trabajadores de la Educación y por un representante designado por el Sindicato Unico de Trabajadores al Servicio de los Poderes del Estado de Sonora. Por cada miembro propietario se designará un suplente.
+
+Los integrantes de la Comisión Ejecutiva excepto por lo que hace su Presidente, no podrán ser miembros de la Junta Directiva ni tener otro cargo dentro del Instituto.
+
+Los integrantes de la Comisión Ejecutiva deberán ser mexicanos por nacimiento, de reconocida honorabilidad y experiencia técnica y administrativa.
+
+> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+
+###### Artículo 111-E.
+
+Para la atención de las labores Administrativas propias del funcionamiento del Fondo, el Presidente de la Comisión Ejecutiva designará un auxiliar que se denominará Vocal Ejecutivo de la Comisión.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1963)</small>
+
+###### Artículo 112.
+
+Los trabajadores del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, quedan incorporados al régimen de la presente Ley y las relaciones de trabajo entre ambos, se regirán por la Ley del Servicio Civil del Estado de Sonora.
+
+> <small>(ADICIONADO, B.O. 3 DE JULIO DE 1989)</small>
+
+Son trabajadores de confianza al servicio del Instituto: el Director General, el Subdirector General, Subdirectores, Jefes de Departamento, Gerentes, Subgerentes, Tesoreros, Cajeros, Pagadores, Asistentes Ejecutivos y Administrativos, Coordinadores Generales, Asesores, Coordinadores Médicos, Jefes de Enfermeras, Responsables de Farmacia, Delegados, Personal al Servicio del Director General, Supervisores, Jefe de Auditores, Auditores, Auditores Auxiliares y personal en labores de seguridad y vigilancia.
+
+### CAPITULO DECIMO PRIMERO. DEL PATRIMONIO E INVERSIONES DEL INSTITUTO
+
+SECCION 1a.
+
+PATRIMONIO DEL INSTITUTO
+
+###### Artículo 113.
+
+El patrimonio del Instituto lo constituirán:
+
+I.- Las propiedades, posesiones, derechos y obligaciones que al entrar en vigor esta ley integran el patrimonio de la Dirección de Pensiones del Estado;
+
+II.- Las aportaciones de los Trabajadores y Pensionistas en los términos de esta ley;
+
+III.- Las aportaciones que hagan el Estado y organismos públicos incorporados en los términos de esta ley;
+
+IV.- El importe de los créditos e intereses a favor del Instituto y a cargo de los Trabajadores y del Estado y organismos públicos incorporados;
+
+V.- Los intereses, rentas, plusvalías y demás utilidades que se obtengan de las inversiones que conforme a esta Ley haga el Instituto;
+
+VI.- El importe de las indemnizaciones, pensiones caídas e intereses que prescriban en favor del Instituto.
+
+VII.- El producto de las sanciones pecuniarias derivadas de la aplicación de esta ley;
+
+VIII.- Las donaciones, herencias y legados que se hicieren a favor del Instituto;
+
+IX.- Los muebles e inmuebles que el Estado y organismos públicos incorporados destinen y entreguen para el servicio público que establece la presente ley;
+
+X.- Cualquiera otra percepción respecto de la cual el Instituto resultare beneficiario.
+
+###### Artículo 114.
+
+Los trabajadores contribuyentes no adquieren derecho alguno ni individual ni colectivo al Patrimonio del Instituto, sino sólo a disfrutar de los servicios que esta ley concede.
+
+###### Artículo 115.
+
+Los bienes muebles e inmuebles pertenecientes al Instituto gozarán de las franquicias, prerrogativas y privilegios concedidos a los fondos y bienes del Estado. Dichos bienes así como los actos y contratos que celebre el Instituto estarán igualmente exentos de toda clase de impuestos y derechos.
+
+El Instituto se considerará de acreditada solvencia y no estará obligado a constituir depósitos ni fianza legales.
+
+###### Artículo 116.
+
+Si llegare a ocurrir en cualquier tiempo que los recursos del Instituto no bastaren para cumplir con las obligaciones a su cargo establecidas por esta ley, el déficit que hubiese será cubierto por el Estado y organismos incorporados a que se refieren los artículos 1o. y 3o., en la proporción que a cada uno corresponda.
+
+SECCION 2a.
+
+INVERSIONES
+
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
+
+###### Artículo 117.
+
+La inversión de los recursos y reservas financieras del Instituto deberá hacerse procurándose las mejores condiciones de seguridad, rendimiento y liquidez, prefiriéndose en igualdad de circunstancias aquellas que generen un mayor beneficio social.
+
+###### Artículo 118.
+
+Las reservas se invertirán preferentemente:
+
+I.- En bonos o títulos emitidos por el Gobierno Federal y del Estado, instituciones nacionales de crédito o entidades encargadas del manejo de servicios públicos, siempre que se sujeten a lo dispuesto en el artículo siguiente.
+
+II.- En la adquisición, construcción o financiamiento de hospitales, sanatorios, maternidades, dispensarios, farmacias, laboratorios, habitaciones para trabajadores y demás muebles e inmuebles propios para los fines del Instituto;
+
+III.- (DEROGADA, B.O. 3 DE JULIO DE 1989)
+
+IV.- (DEROGADA, B.O. 3 DE JULIO DE 1989)
+
+###### Artículo 119.
+
+Los bonos o títulos a que se refiere la fracción I del artículo anterior, deberán estar garantizados con la afectación en fideicomiso de alguna contribución suficiente para el servicio de sus intereses y amortización, por participaciones en impuestos federales. En los emitidos por el Gobierno Federal o por instituciones nacionales de crédito, bastará con que se hallen al corriente en sus servicios.
+
+###### Artículo 120.
+
+Todo acto, contrato o documento que implique obligación o derecho inmediato o eventual para el Instituto, deberá ser registrado en su contabilidad.
+
+La contabilidad del Instituto mostrará por separado la situación de los servicios a que se refiere el artículo 4o. en la forma siguiente:
+
+I.- Los de la fracción I;
+
+> <small>(REFORMADA, B.O. 3 DE JULIO DE 1989)</small>
+
+II.- Los de la fracción II;
+
+III.- Los de las fracciones III a la XI.
+
+> <small>(ADICIONADA, B.O. 3 DE JULIO DE 1989)</small>
+
+IV.- Los de la fracción XII; y
+
+> <small>(ADICIONADA, B.O. 3 DE JULIO DE 1989)</small>
+
+V.- Los de la fracción XIII.
+
+> <small>(ADICIONADO, B.O. 29 DE JUNIO DE 2005)</small>
+
+###### Artículo 120 Bis.
+
+Con atribuciones específicas para vigilar el gasto del Instituto y la inversión de sus recursos, así como fiscalizar su aplicación según los programas correspondientes, éste contará con un Comité de Vigilancia y Fiscalización, cuya operación y reglamentación será emitida por la Junta directiva del Instituto, y que estará integrado por un representante de la Secretaría de Hacienda, otro del Sindicato Único de Trabajadores al Servicio de los Poderes del Estado de Sonora, uno de la Sección 54 del Sindicato Nacional de Trabajadores de la Educación, y de los organismos incorporados al régimen de la Ley, un representante elegido de entre las Instituciones de Educación Media Superior y Superior, otro de los Ayuntamientos, otro de los Organismos Públicos Descentralizados y uno más de las organizaciones sindicales, respectivamente.
+
+Los integrantes del Comité de Vigilancia no podrán ser miembros de la Junta Directiva ni tener cargo alguno en el Instituto, con excepción del Director General de éste, quien fungirá como Secretario Técnico del Comité con derecho a voz pero sin voto.
+
+Los integrantes del Comité ejercerán su cargo honoríficamente.
+
+Sin perjuicio de lo establecido por el artículo 121 de esta Ley, el Comité de Vigilancia y Fiscalización tendrá las siguientes atribuciones:
+
+I.- Exigir y obtener del Director General un informe trimestral sobre el manejo financiero de todos los fondos del Instituto
+
+II. Exigir y obtener del Director General un informe detallado del comportamiento del sistema de pensiones con la periodicidad que el propio Comité determine.
+
+III.- Exigir y obtener del Director General un dictamen semestral de los estados financieros del Instituto.
+
+IV.- Obtener del Contador Mayor de Hacienda del Congreso, o del órgano que lo substituya, información relativa al estado financiero y el resultado de las auditorías, inspecciones y visitas que se le practiquen al Instituto.
+
+V.- Participar en el procedimiento de contratación de los auditores externos que elaboren los dictámenes sobre los estados financieros del Instituto, con la facultad especial de vetar, con las dos terceras partes del voto del Comité, la contratación de auditores.
+
+VI.- Definir las acciones que se consideren necesarias y conducentes al cumplimiento de los objetivos y metas del Instituto, según se encuentren previstos en los presupuestos y programas respectivos.
+
+VII.- Obtener, analizar y, en su caso, opinar sobre la valoración actuarial del Instituto.
+
+VIII.- Cada vez que lo considere conveniente, examinar la suficiencia de las aportaciones y el cumplimiento de los programas anuales de constitución de reservas.
+
+IX.- Intervenir como coadyuvante de la Contraloría General en las auditorías y procedimientos de revisión que ésta practique sobre el Instituto.
+
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+
+###### Artículo 121.
+
+Las actividades de control, vigilancia y evaluación en el Instituto, estarán a cargo de un comisario público que será designado por la Secretaría de la Contraloría General del Estado y de un órgano de control interno; ambos formarán parte de la estructura orgánica de dicho Instituto.
+
+El Comisario Público evaluará el desempeño general y por funciones del Instituto; realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos de recursos económicos del organismo, así como en lo referente a los ingresos y, en general, solicitará la información y efectuará los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de la Contraloría General del Estado le asigne específicamente conforme a las leyes.
+
+Las acciones del órgano de control interno tendrán por objeto apoyar la función directiva y promover el mejoramiento de gestión del Instituto; dicho órgano desarrollará sus funciones conforme a los lineamientos que emita la Secretaría de la Contraloría General del Estado.
+
+### CAPITULO DECIMO SEGUNDO.
+
+DE LAS RESPONSABILIDADES Y SANCIONES.
+
+###### Artículo 122.
+
+Los funcionarios y trabajadores del Estado y organismos públicos incorporados que dejen de cumplir con alguna de las obligaciones que les impone esta ley, serán sancionados con multa de cincuenta a cinco mil pesos, según la gravedad del caso.
+
+###### Artículo 123.
+
+Los pagadores y encargados de cubrir sueldos que no efectúen los descuentos que proceda en los términos de esta ley, serán sancionados con una multa equivalente al cinco por ciento de las cantidades no descontadas, independientemente de la responsabilidad civil o penal en que incurran, sin perjuicio de regularizar la situación en los términos del artículo 20.
+
+###### Artículo 124.
+
+Las sanciones pecuniarias previstas en los artículos anteriores, a que se hicieren acreedores los trabajadores o funcionarios al servicio del Instituto, serán impuestas por el Director General, después de oír al interesado y son revisables por la Junta Directiva si se hace valer la inconformidad por escrito dentro del plazo de quince días. Las mismas sanciones, cuando se trate de los funcionarios o trabajadores que no presten servicios al Instituto, se impondrán por la Tesorería General del Estado con vista de la documentación que envíe a dicha dependencia, el Director General del Instituto y previa audiencia del afectado.
+
+###### Artículo 125.
+
+Sin perjuicio de lo establecido en los preceptos anteriores, los miembros de la Junta Directiva, el Director, los funcionarios y trabajadores del Instituto, como encargados de un servicio público, estarán sujetos a las responsabilidades civiles y penales en que pudieren incurrir.
+
+###### Artículo 126.
+
+Se reputará como fraude y se sancionará como tal, en los términos del Código Penal del Estado, el obtener las prestaciones que esta ley concede a los trabajadores del Estado, sin tener el carácter de beneficiario de los mismos o derecho a ellos, mediante cualquier engaño, ya sea en virtud de simulaciones, sustitución de personas o cualquier otro acto.
+
+###### Artículo 127.
+
+Cuando se establezca una responsabilidad pecuniaria a cargo del trabajador y a favor del Instituto por la imposición de las sanciones establecidas en este capítulo o por haber recibido servicios indebidamente, el Estado u organismos públicos incorporados de quienes dependa el trabajador, le harán a petición del Instituto los descuentos correspondientes hasta por el importe de su responsabilidad, con la limitación establecida en el artículo 20 de esta ley.
+
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
+
+Artículo 127 bis.- Aquellos médicos que le presten sus servicios al Instituto y que expidan incapacidades que resulten improcedentes por contravención a las normas que regulan su expedición y que se encuentren contenidas en el Reglamento de Servicios Médicos que emita la Junta Directiva del Instituto, serán denunciados inmediatamente ante el Ministerio Público y la Secretaría de la Contraloría General para la determinación de las responsabilidades correspondientes.
+
+### CAPITULO DECIMO TERCERO. DISPOSICIONES GENERALES
+
+###### Artículo 128.
+
+(DEROGADO, B.O. 3 DE JULIO DE 1989)
+
+###### Artículo 129.
+
+(DEROGADO, B.O. 3 DE JULIO DE 1989)
+
+###### Artículo 130.
+
+(DEROGADO, B.O. 3 DE JULIO DE 1989)
+
+###### Artículo 45.
+
+Con sujeción a los requisitos que fije la Junta Directiva, se determinarán: los montos máximos de los créditos que se otorguen, la relación de dichos montos con el sueldo o salario de los trabajadores acreditados, la protección de los préstamos, así como los precios máximos de venta de las habitaciones cuya adquisición o construcción pueda ser objeto de los créditos que se otorguen con cargo al Fondo.
+
+En ningún caso el importe del préstamo que se conceda, ya sea para una sola persona o dos o más en mancomún, podrá exceder del valor total que señale el Banco de México para el financiamiento de vivienda de interés social.
+
+El avalúo deberá coincidir con los precios unitarios de las tablas generales que el Instituto formulará oportunamente.
+
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+
+###### Artículo 46.
+
+Los créditos que se otorguen con cargo al Fondo, deberán darse por vencidos anticipadamente si los deudores, sin el consentimiento del Instituto, enajenan las viviendas, gravan los inmuebles que garanticen el pago de los créditos concedidos, o incurren en las causas de rescisión consignadas en los contratos respectivos.
+
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+
+###### Artículo 47.
+
+Los créditos que se otorguen a los trabajadores estarán cubiertos por un seguro, para los casos de muerte y daños, que libere a sus beneficiarios de las obligaciones derivadas de los mismos. El costo de este seguro quedará a cargo del acreditado.
+
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+
+###### Artículo 48.
+
+Cuando un trabajador deje de percibir ingresos por cualquier causa y hubiere recibido un préstamo a cargo del Fondo, se le otorgará una prórroga, sin causar intereses, en los pagos de las amortizaciones que tenga que hacer por concepto de capital e intereses. La prórroga tendrá un plazo máximo de seis meses y terminará anticipadamente cuando el trabajador vuelva a prestar servicios remunerados.
+
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+
+###### Artículo 49.
+
+El Estado continuará haciendo los depósitos para constituir el Fondo de la Vivienda, sobre los sueldos o salarios de los trabajadores que disfruten licencia por enfermedad, en los términos de las leyes que rijan sus relaciones de trabajo, así como sobre los de aquéllos que sufran suspensión temporal de los efectos de su nombramiento; debiendo suspenderse esos depósitos a partir de la fecha en que cese el pago de salarios.
+
+La existencia de los supuestos a que se refiere este artículo y el anterior deberán comprobarse a satisfacción del Instituto.
+
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2005)</small>
+
+###### Artículo 50.
+
+Los créditos a los trabajadores a que se refieren las fracciones I y II del artículo 40 de esta Ley devengarán un interés que en ningún caso será inferior al 30% del costo porcentual promedio vigente al momento del otorgamiento del financiamiento, con un plazo para su amortización que no podrá ser mayor a quince años.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 11 DE ENERO DE 1982)</small>
+
+SECCION 3a.
+
+DEL FONDO DE LA VIVIENDA.
+
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+
+###### Artículo 50-A.
+
+Los depósitos constituidos en favor de los trabajadores estarán exentos de toda clase de impuestos.
+
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+
+###### Artículo 50-B.
+
+El Instituto no estará obligado a proporcionar servicios de operación o mantenimiento de conjuntos habitacionales construidos con recursos del Fondo, ni sufragar los gastos correspondientes a estos conceptos.
+
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+
+###### Artículo 50-C.
+
+Los depósitos constituidos en favor de los trabajadores para la integración del Fondo, no podrán ser objeto de cesión o embargo y sólo podrán afectarse cuando se trate de hacer efectivos los créditos otorgados con cargo al Fondo.
+
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+
+###### Artículo 50-D.
+
+El Instituto deberá mantener en efectivo o en depósitos bancarios a la vista, las cantidades estrictamente necesarias para la realización de sus operaciones diarias, relacionadas con el Fondo de la Vivienda. Los recursos del Fondo, en tanto se aplican a los fines señalados en el artículo 40 de la presente Ley, deberán mantenerse invertidos en las mejores condiciones de rentabilidad.
+
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+
+###### Artículo 50-E.
+
+El Instituto sólo podrá realizar con cargo al Fondo, las inversiones en los bienes muebles e inmuebles estrictamente necesarias para el cumplimiento de los fines del mismo.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 29 DE JUNIO DE 2005)</small>
+
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+
+###### Artículo 50-F.
+
+El Instituto cuidará de que sus actividades relacionadas con el Fondo, se realicen dentro de una política integrada de vivienda y desarrollo urbano. Para ello, deberá coordinarse con los organismos del sector público responsables de esta materia.
+
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+
+###### Artículo 50-G.
+
+Son obligaciones del Estado:
+
+I.- Inscribir a sus trabajadores y beneficiarios del Fondo;
+
+II.- Efectuar las aportaciones en los términos de la presente Ley y sus Reglamentos; y
+
+III.- Practicar a los sueldos y salarios de sus trabajadores, los descuentos que se destinen al pago de abonos para cubrir préstamos otorgados por el Fondo, y enterar el importe de dichos descuentos en la forma y términos que señala el artículo 22 de esta Ley.
+
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+
+###### Artículo 50-H.
+
+Los recursos destinados a los préstamos a que se refiere el artículo 40 de la presente Ley, serán: el 1% del monto de la masa salarial del Fondo de la Vivienda, más los recursos que autorice la Junta Directiva del concepto de recuperación de estos créditos.
+
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+
+###### Artículo 50-I.
+
+Los contratos de compra-venta de vivienda que realice el Instituto con sus derechohabientes, y los contratos de hipoteca en virtud de los cuales se garanticen las obligaciones contenidas en los mismos, podrán hacerse constar en instrumentos privados, debiéndose inscribir éstos en el Registro Público de la Propiedad que corresponda, con la constancia del Registrador sobre la autenticidad de las firmas y de la voluntad de las partes.
+
+También se podrán hacer constar en instrumentos privados, con las mismas formalidades establecidas en el párrafo anterior, los contratos de hipoteca que celebre el instituto con sus derechohabientes y que tengan por objeto garantizar las obligaciones derivadas del otorgamiento de los préstamos o créditos a que se refiere la fracción I, incisos A), B), C) y D) del artículo 40 de la presente Ley.
+
+Los instrumentos privados en que consten los contratos de hipoteca a que se refiere este artículo, tendrán el carácter de escritura pública, para los efectos de la fracción I del artículo 528 del Código de Procedimientos Civiles del Estado de Sonora.
+
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+
+###### Artículo 50-J.
+
+Los actos jurídicos referidos en el artículo 40 de la presente Ley realizados por los trabajadores con fondos suministrados directamente por el Instituto, o con recursos que provengan del Fondo de la Vivienda, o los suministrados por Instituciones de crédito, en sus programas de vivienda de interés social, quedarán exentos de todos los impuestos y derechos estatales.
+
+###### Artículo 50-K.
+
+(DEROGADO, B.O. 3 DE JULIO DE 1989)
+
+###### Artículo 50-L.
+
+(DEROGADO, B.O. 3 DE JULIO DE 1989)
+
+###### Artículo 50-M.
+
+(DEROGADO, B.O. 3 DE JULIO DE 1989)
+
+###### Artículo 50-N.
+
+(DEROGADO, B.O. 3 DE JULIO DE 1989)
+
+###### Artículo 50
+
+Ñ.- (DEROGADO, B.O. 3 DE JULIO DE 1989)
+
+###### Artículo 50-O.
+
+(DEROGADO, B.O. 3 DE JULIO DE 1989)
+
+###### Artículo 50-P.
+
+(DEROGADO, B.O. 3 DE JULIO DE 1989)
+
+###### Artículo 50-Q.
+
+(DEROGADO, B.O. 3 DE JULIO DE 1989)
+
+###### Artículo 50-R.
+
+(DEROGADO, B.O. 3 DE JULIO DE 1989)
+
+###### Artículo 50-S.
+
+(DEROGADO, B.O. 3 DE JULIO DE 1989)
+
+###### Artículo 50-T.
+
+(DEROGADO, B.O. 3 DE JULIO DE 1989)
+
+###### Artículo 50-U.
+
+(DEROGADO, B.O. 3 DE JULIO DE 1989)
+
+###### Artículo 50-V.
+
+(DEROGADO, B.O. 3 DE JULIO DE 1989)
+
+###### Artículo 50-W.
+
+(DEROGADO, B.O. 3 DE JULIO DE 1989)
+
+###### Artículo 50-X.
+
+(DEROGADO, B.O. 3 DE JULIO DE 1989)
+
+## ARTICULOS TRANSITORIOS
+
+###### Artículo 1o.
+
+Esta Ley entrará en vigor el día 1 de enero de 1963, previa su publicación en el Boletín Oficial del Estado.
+
+###### Artículo 2o.
+
+Las pensiones concedidas con anterioridad a esta Ley con arreglo a las disposiciones de la Ley que creó el Fondo de Protección Burocrática, la que instituyó la Dirección de Pensiones y la que aprobó el Reglamento de ésta última, serán cubiertas en lo sucesivo por el Instituto con cargo a su propio patrimonio.
+
+###### Artículo 3o.
+
+Las solicitudes que al entrar en vigor esta ley se encuentren en trámite ante la Dirección de Pensiones del Estado, se sujetarán a los términos de la Ley anterior, para lo cual serán turnadas al Instituto. Las que se formulen a partir del 1 de enero de 1963, se ajustarán a la presente Ley.
+
+###### Artículo 4o.
+
+(DEROGADO, B.O. 3 DE JULIO DE 1989)
+
+###### Artículo 5o.
+
+El personal del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, se formará con los trabajadores que estaban adscritos a la Dirección de Pensiones del Estado y los de nuevo ingreso.
+
+###### Artículo 6o.
+
+Los servicios prestados con anterioridad al primero de enero de mil novecientos cuarenta y nueve, se tomarán en cuenta para el otorgamiento de la jubilación y de la pensión de vejez.
+
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
+
+###### Artículo 7o.
+
+Las prestaciones establecidas en los capítulos 5º., 6º. Bis, se harán efectivas en proporción a las posibilidades financieras del Instituto.
+
+###### ARTICULO PRIMERO.
+
+Las aportaciones a que se refiere la fracción I del Artículo 50-B, empezarán a pagarse a partir del mes de enero de 1982.
+
+###### ARTICULO SEGUNDO.
+
+La presente Ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 20 DE JULIO DE 1987.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todos los preceptos que se opongan a esta Ley.
+
+B.O. 3 DE JULIO DE 1989.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en la presente Ley.
+
+B.O. 29 DE JUNIO DE 2005.
 
 ###### ARTÍCULO PRIMERO.
 
-Remítase al titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
-
-El presente decreto entrará en vigor al día siguiente de su publicación.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
-A más tardar en 60 días hábiles contados a partir de la entrada en vigor del presente decreto, se deberán reformar o derogar las disposiciones del Reglamento de la Administración Pública del Estado de Morelos, del Reglamento de los Organismos Auxiliares de la Administración Pública del Estado de Morelos y de los manuales respectivos de cada Secretaría u Organismo auxiliar del ejecutivo del estado, que no se ajusten a las presentes reformas.
+La Junta Directiva del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora deberá realizar las acciones necesarias para que el fideicomiso que señala el artículo 59 BIS adicionado, se constituya dentro de un plazo no mayor a noventa días hábiles contados a partir del día siguiente al de la vigencia de esta reforma.
 
 ###### ARTÍCULO TERCERO.
 
-En el caso de los Organismos Descentralizados, fideicomisos y empresas de participación estatal mayoritarias que cuenten con personal encargado sin nombramiento en algún puesto que no sea de base, deberá ser sometido al escrutinio de su respectivo Órgano de Gobierno para la expedición del nombramiento correspondiente, en caso de ser procedente conforme a su manual de organización vigente.
+En el caso de las generaciones actuales, conformadas por aquellos trabajadores, mujeres y hombres, que iniciaron su prestación de servicios al Estado con anterioridad a la vigencia del presente Decreto, se incrementarán gradualmente sus porcentajes de cotización al fondo de pensiones hasta alcanzar compartidamente con el Estado el 27% de cuotas y aportaciones, aumentándose de la forma gradual indicada los porcentajes de cotización que refieren los incisos A) de los artículos 16 y 21 de la Ley en la medida de un punto porcentual por año, de acuerdo a la siguiente tabla:
+
+AÑO CUOTA DEL TRABAJADOR APORTACIÓN DEL PATRÓN
+
+2005 5% 12%
+
+2006 6% 13%
+
+2007 7% 14%
+
+2008 8% 15%
+
+2009 9% 16%
+
+2010 10% 17%
+
+Las generaciones futuras, que estarán conformadas por aquellas personas que ingresen a trabajar al servicio del Estado con posterioridad a la vigencia de este Decreto, cubrirán íntegramente el porcentaje de cuotas para pensiones y jubilaciones que prevé el artículo 16, inciso A) de la Ley. Las aportaciones que por el mismo concepto le corresponden al Estado, se cubrirán con el porcentaje que establece el artículo 21, párrafo segundo, inciso A) de este ordenamiento.
 
 ###### ARTÍCULO CUARTO.
 
-Se otorga un plazo de noventa días naturales a partir de la entrada en vigor de la presente reforma, para que los titulares de las secretarías y organismos auxiliares acrediten ante la Contraloría del Estado el cumplimiento de las presentes reformas.
+Para las generaciones actuales se entenderá por sueldo regulador al promedio ponderado de los sueldos cotizados de los últimos tres años, previa su actualización con el índice nacional de precios al consumidor o, en su caso, el incremento salarial correspondiente, el que sea menor.
+
+###### ARTÍCULO QUINTO.
+
+Los montos de las pensiones y jubilaciones que actualmente cubre el Instituto y las que se autoricen en el futuro a los trabajadores que conforman a las generaciones actuales, se incrementarán en el mismo porcentaje en que aumente el salario mínimo general en la zona de Hermosillo, Sonora o, en su caso, conforme al aumento derivado de la negociación de los trabajadores del Estado con éste, el que sea mayor, con posterioridad a la fecha de su otorgamiento.
+
+###### ARTÍCULO SEXTO.
+
+Para el caso de los trabajadores que conforman las generaciones actuales, el tiempo cotizado requerido para jubilarse se modifica en los términos siguientes:
+
+A).- En el caso de los trabajadores:
+
+NÚMERO DE AÑOS REQUERIRÁN LOS SIGUIENTES
+
+COTIZADOS AL MOMENTO DE AÑOS DE COTIZACIÓN
+
+LA VIGENCIA DE ESTE DECRETO PARA JUBILARSE
+
+15 o más 30.0
+
+14 30.5
+
+13 30.5
+
+12 30.5
+
+11 31.0
+
+10 31.0
+
+9 31.0
+
+8 31.5
+
+7 31.5
+
+6 31.5
+
+5 o menos 32.0
+
+B) En el caso de las trabajadoras:
+
+NÚMERO DE AÑOS REQUERIRÁN LOS SIGUIENTES
+
+COTIZADOS AL MOMENTO DE AÑOS DE COTIZACIÓN
+
+LA VIGENCIA DE ESTE DECRETO PARA JUBILARSE
+
+14 o más 28.0
+
+13 28.5
+
+12 28.5
+
+11 28.5
+
+10 29.0
+
+9 29.0
+
+8 29.0
+
+7 29.5
+
+6 29.5
+
+5 29.5
+
+4 o menos 30.0
+
+Los trabajadores con 30 o más años y las trabajadoras con 28 o más años cotizados al momento de la vigencia de este Decreto, recibirán sus jubilaciones con base en el último salario cotizado, los restantes trabajadores o trabajadoras con menor número de años cotizados, recibirán sus jubilaciones con base en el sueldo regulador que refiere el artículo cuarto transitorio.
+
+Como caso de excepción y exclusivamente para efectos jubilatorios, cuando un trabajador se haya mantenido durante un período de 3 años en un mismo nivel y rango laboral, se le aplicará dicho período de años para calcular el sueldo regulador, previa su actualización con el índice nacional de precios al consumidor.
+
+###### ARTÍCULO SÉPTIMO.
+
+Para el caso de las generaciones actuales, el Estado y los organismos incorporados podrán implementar programas con cargo a sus respectivos presupuestos para estimular la permanencia de los trabajadores que hayan cumplido con el tiempo cotizado requerido para acceder a su jubilación en los términos que prevé el artículo sexto transitorio. El estímulo que se llegare a otorgar no será considerado para los efectos de la determinación del monto de la pensión cuando se solicite.
+
+###### ARTÍCULO OCTAVO.
+
+Las solicitudes de pensión o jubilación presentadas y en trámite con anterioridad al inicio de la vigencia del presente Decreto, se resolverán conforme al momento y a las condiciones en que se haya generado el derecho correspondiente, por lo que no serán afectadas por las modificaciones establecidas en ésta. Igual suerte correrán las que presenten los trabajadores de uno u otro sexo con el derecho adquirido antes del inicio de la vigencia de este Decreto.
+
+En tratándose de trabajadores de generaciones actuales, en ningún caso les resultará aplicable la restricción de monto de jubilación referida en el artículo 68 de este Decreto.
+
+###### ARTÍCULO NOVENO.
+
+El Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora continuará cubriendo el importe de las pensiones concedidas con anterioridad a la entrada en vigor de esta reforma en los términos en que se hayan otorgado.
+
+###### ARTÍCULO DÉCIMO.
+
+El pago del porcentaje que establece el artículo 60 BIS B, tendrá aplicación en los casos de aquéllos trabajadores o sus derechohabientes que obtengan una pensión o jubilación del Instituto a partir de la vigencia de este decreto. La señalada obligación de pago se cumplirá por los beneficiarios de pensiones o jubilaciones en los plazos y en los incrementos porcentuales que establece la siguiente tabla:
+
+AÑO PORCENTAJE A CUBRIR MENSUALMENTE DEL
+
+MONTO DE LA PENSIÓN O JUBILACIÓN MENSUAL
+
+2005 5.0%
+
+2006 6.0%
+
+2007 7.0%
+
+2008 8.0%
+
+2009 9.0%
+
+2010 10%
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Las generaciones actuales empezarán a cubrir el 0.5% de incremento a la cuota del rubro de servicio médico previsto por el artículo 16, inciso B), de esta Ley, a partir del mes de enero del año 2006. En esa misma fecha se empezarán a cubrir las aportaciones correspondientes al Estado por el mismo concepto.
+
+Para estas mismas generaciones, los conceptos de cuotas y aportaciones de los trabajadores y el Estado para el rubro de infraestructura, equipamiento y mantenimiento hospitalario o establecidas por los incisos E) y H) de los artículos 16 y 21 de la Ley, respectivamente, se cubrirán de manera gradual a partir del año 2005 con un 0.5% y el restante en un porcentaje similar en el año 2006.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Durante un plazo no mayor de dos años contado a partir de la vigencia de este Decreto y previa autorización expresa de la Junta Directiva del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, los recursos de las diferentes prestaciones económicas para los trabajadores podrán transferirse cuando exista insuficiencia en la prestación de los servicios médicos que presta el Instituto, mismas que deberán reflejarse en los presupuestos de ingresos o egresos correspondientes.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+La Junta Directiva del Instituto Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora deberá emitir, dentro de un plazo de cuarenta y cinco días hábiles contados a partir de la entrada en vigor de este Decreto, las Bases, Convocatorias y el Reglamento a que se refiere el artículo 120 BIS de la misma.
+
+B.O. 30 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+A la entrada en vigor del presente Decreto, se derogan todas aquellas disposiciones que se contrapongan al mismo.
+
+B.O. 11 DE JULIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado, en un plazo de 90 días naturales a partir de la entrada en vigor del presente Decreto, realizará las modificaciones pertinentes en las disposiciones reglamentarias de la materia.
+
+B.O. 9 DE NOVIEMBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 26 DE NOVIEMBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
