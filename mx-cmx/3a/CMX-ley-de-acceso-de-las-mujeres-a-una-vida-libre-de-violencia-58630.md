@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5863
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-29"
-last_updated: "2011-01-14"
+last_updated: "2012-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58630&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-12-20"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE ENERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE JULIO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de enero de 2008.
 
@@ -492,9 +492,35 @@ V. Desarrollar campañas de difusión sobre los derechos que tienen las víctima
 
 VI. Crear bases de datos que contengan información de carácter público a efecto que pueda registrarse el seguimiento de los casos donde la mujer es víctima de algún delito que atente contra su integridad personal, desde la etapa de averiguación previa y hasta la ejecución de la sentencia, incluyendo el procedimiento respectivo para la reparación del daño;
 
-VII. Realizar estudios estadísticos e investigaciones referentes al acceso a la justicia de las mujeres víctimas de violencia, así como de las causas y sentencias que se dictan en contra de las mujeres responsables de delitos; y
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2012)</small>
 
-VIII. Las demás que le señalen las disposiciones legales aplicables y el Reglamento de esta Ley.
+VII. Realizar estudios estadísticos e investigaciones referentes al acceso a la justicia de las mujeres víctimas de violencia, así como de las causas y sentencias que se dictan en contra de las mujeres responsables de delitos;
+
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2012)</small>
+
+VIII. Crear un sistema de registro público de los delitos cometidos en contra de mujeres, que integre la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar en que ocurrieron, especificando su tipología, características de la víctima y del sujeto activo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño;
+
+> <small>(ADICIONADA, G.O. 25 DE JULIO DE 2012)</small>
+
+IX. Elaborar una página de Internet en la cual se encuentren los datos generales de las mujeres y niñas que sean reportadas como desaparecidas. Dicha página deberá actualizarse constantemente. La información deberá ser pública y permitir que la población en general pueda aportar información sobre el paradero de las mujeres y niñas desaparecidas; atendiendo en los términos de que (sic) establece la Ley de Protección de Datos Personales para el Distrito Federal.
+
+> <small>(ADICIONADA, G.O. 25 DE JULIO DE 2012)</small>
+
+X. Especializar a las y los agentes del Ministerio Público, peritos, personal que atiende a víctimas a través de programas y cursos permanentes, instaurados por el Instituto de Formación Profesional, en: derechos humanos y género; perspectiva de género para la debida diligencia en la conducción de averiguaciones previas y procesos judiciales relacionados con discriminación, violencia y feminicidios; incorporación de la perspectiva de género en los servicios periciales; eliminación de estereotipos sobre el rol social de las mujeres, entre otros;
+
+> <small>(ADICIONADA, G.O. 25 DE JULIO DE 2012)</small>
+
+XI. Elaborar, aplicar y actualizar Protocolos especializados con perspectiva de género en: la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los feminicidios y la violencia sexual;
+
+> <small>(ADICIONADA, G.O. 25 DE JULIO DE 2012)</small>
+
+XII. Crear una Base de Información Genética que contenga la información personal disponible de mujeres y niña (sic) desaparecidas; la información genética y muestras celulares de los familiares de las personas desaparecidas que lo consientan; la información genética y muestras celulares proveniente de los cuerpos de cualquier mujer o niña no identificada;
+
+La información integrada en esta base deberá ser resguardada y únicamente podrá ser utilizada para la confrontación de información genética entre cuerpos no identificados y personas desaparecidas; y
+
+> <small>(ADICIONADA, G.O. 25 DE JULIO DE 2012)</small>
+
+XIII. Las demás que le señalen las disposiciones legales aplicables y el Reglamento de esta Ley.
 
 ###### Artículo 27.
 
@@ -702,7 +728,7 @@ III. De acceso a la justicia, el cual será coordinado por la Procuraduría.
 
 El Reglamento de la presente Ley establecerá el funcionamiento de la Comisión Interinstitucional en cuanto al seguimiento y evaluación de la presente Ley.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 14 DE ENERO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 14 DE ENERO DE 2011)</small>
 
 ### CAPÍTULO V. DE LAS CASAS DE EMERGENCIA, CENTROS DE REFUGIO Y REFUGIOS ESPECIALIZADOS PARA MUJERES VÍCTIMAS DE VIOLENCIA
 
@@ -830,9 +856,15 @@ III. Fortalecer el Fondo de Apoyo a Víctimas del Delito para apoyar económicam
 
 IV. Gestionar convenios con la Secretaría de Finanzas para exención del pago de derechos a las mujeres víctimas de violencia en la emisión de copias certificadas de los procedimientos en materia penal;
 
-V. Habilitar una línea única de atención telefónica para recibir denuncias de violencia contra las mujeres, por parte de la propia víctima o cualquier otra persona, y dar inicio a la investigación respectiva; y
+V. Habilitar una línea única de atención telefónica para recibir denuncias de violencia contra las mujeres, por parte de la propia víctima o cualquier otra persona, y dar inicio a la investigación respectiva; y (sic)
 
-VI. Las demás que le atribuyan otros ordenamientos legales.
+> <small>(ADICIONADA, G.O. 25 DE JULIO DE 2012)</small>
+
+VI. Realizar las diligencias de feminicidios, a través de la Unidad de Investigación que para tal efecto prevea, conforme a su Ley Orgánica; y
+
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2012)</small>
+
+VII. Las demás que le atribuyen otros ordenamientos legales.
 
 ###### Artículo 59.
 
@@ -1034,7 +1066,7 @@ Recinto de la Asamblea Legislativa del Distrito Federal, a los trece días del m
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, base segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veinte días del mes de diciembre del año dos mil siete.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, JESÚS ARTURO AISPURO CORONEL.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE SALUD, MANUEL MONDRAGÓN Y KALB.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, A. JOEL ORTEGA CUEVAS.- FIRMA.- LA SECRETARIA DE CULTURA, ELENA CEPEDA DE LEÓN.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO, BENITO MIRÓN LINCE.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, AXEL DIDRIKSSON TAKAYANAGUI.- FIRMA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 29 DE JULIO DE 2010.
 
@@ -1049,3 +1081,17 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- El Jefe de Gobierno del Distrito Federal incluirá en el proyecto de presupuesto de egresos que envíe a este órgano legislativo en cada ejercicio fiscal, las previsiones necesarias que permitan contar con un Centro de Refugio para la atención de violencia familiar en las zonas de mayor incidencia del Distrito Federal, en un plazo que no excederá de ocho años, a partir de la aprobación de la presente reforma.
 
 CUARTO.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y publicación y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 25 DE JULIO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor al siguiente día de su publicación.
+
+###### ARTÍCULO TERCERO.
+
+Las autoridades del presente Decreto, conforme a la suficiencia presupuestal asignada por la Asamblea Legislativa, instrumentarán las acciones establecidas para dar cumplimiento a la misma.
