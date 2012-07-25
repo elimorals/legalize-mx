@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-del-estado-libre-6912
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-06-26"
-last_updated: "2011-09-01"
+last_updated: "2012-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69120&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
+LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 26 de junio de 2009.
 
@@ -153,9 +153,11 @@ Para ocupar la titularidad de cualquier Secretaría, se requiere cumplir con los
 
 Al frente de la Consejería Jurídica, habrá una persona titular, que deberá reunir los requisitos que para ser Magistrado del Tribunal Superior de Justicia, establece la Constitución Política del Estado Libre y Soberano de Morelos. Quien a su vez, será nombrada y removida libremente por la persona titular del Poder Ejecutivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JULIO DE 2012)</small>
+
 ###### ARTÍCULO 17.
 
-Las personas titulares de la Secretaría de Gestión e Innovación Gubernamental y de la Representación del Poder Ejecutivo, deberán cubrir los siguientes requisitos:
+La persona titular de la Secretaría de Gestión e Innovación Gubernamental deberá cubrir los siguientes requisitos:
 
 I. Ser ciudadano mexicano en pleno goce de sus derechos;
 
@@ -235,7 +237,7 @@ I. Consejería Jurídica;
 
 II. Secretaría de Gestión e Innovación Gubernamental, y
 
-III. Representación del Poder Ejecutivo del Estado.
+III. (DEROGADA, P.O. 25 DE JULIO DE 2012)
 
 La Procuraduría General de Justicia, dependerá de la persona titular del Poder Ejecutivo y ejercerá las funciones que la Constitución Política del Estado Libre y Soberano de Morelos, su Ley Orgánica y demás leyes le confieren.
 
@@ -507,13 +509,17 @@ III. Realizar actividades para la promoción, desarrollo y fomento de la oferta 
 
 IV. Proporcionar capacitación turística con su propia organización, así como orientar y supervisar las actividades públicas o privadas que se realicen con ese fin;
 
-V. Coordinarse con los organismos o Entidades, tanto Federales como Estatales y Municipales relacionadas con la materia turística, así como con los particulares, para elaborar programas y realizar las acciones correspondientes dentro de su ámbito de competencia;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2012)</small>
+
+V. Coordinarse con los organismos o Entidades, tanto Federales como Estatales y Municipales relacionadas con la materia turística, así como con los particulares, para elaborar programas de promoción turística del Estado Libre y Soberano de Morelos y realizar las acciones correspondientes dentro de su ámbito de competencia;
 
 VI. Promover, en coordinación con las autoridades federales y municipales competentes, la preservación, conservación y, en su caso, administración de zonas arqueológicas, bienes y monumentos artísticos e históricos;
 
 VII. Participar en la protección de lugares turísticos o de belleza natural, procurando la protección ecológica y ambiental;
 
-VIII. Mantener relaciones con organizaciones turísticas estatales, nacionales e internacionales, con el fin de promover y difundir el turismo en el Estado Libre y Soberano de Morelos;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2012)</small>
+
+VIII. Mantener relaciones con los sectores público, privado y social, así como con organizaciones turísticas, tanto a nivel estatal, como nacional e internacional, con el fin de promover y difundir el turismo en el Estado Libre y Soberano de Morelos;
 
 IX. Intervenir en la creación, conservación, mejoramiento, protección y aprovechamiento de los recursos y zonas de desarrollo turístico del Estado Libre y Soberano de Morelos, por sí o en coordinación con la Federación y los Municipios;
 
@@ -547,9 +553,19 @@ XXIII. Tramitar y resolver los recursos administrativos en el ámbito de su comp
 
 XXIV. Asesorar a la persona titular del Poder Ejecutivo, en la elaboración de convenios que celebre con la Federación y los Ayuntamientos, en el ámbito de su competencia;
 
-XXV. Desempeñar las comisiones y funciones especiales que le confiera el titular del Ejecutivo, y
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2012)</small>
 
-XXVI. Las demás que señalen las leyes y reglamentos vigentes y las que le delegue la persona titular del Poder Ejecutivo.
+XXV. Representar al Poder Ejecutivo, para efectos de promoción turística, ante otros Estados, el Distrito Federal y ante sus Secretarías, Dependencias y Entidades, en asuntos de su competencia, conforme lo determine la persona titular del Ejecutivo;
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2012)</small>
+
+XXVI. Representar a la persona titular del Poder Ejecutivo, en reuniones técnicas, actos cívicos y, en general, en todos los eventos que éste determine;
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2012)</small>
+
+XXVII. Desempeñar las comisiones y funciones especiales que le confiera el titular del Ejecutivo; así como promover reuniones para consolidar proyectos de interés turístico para el Estado, en coordinación con otras autoridades competentes, e intervenir, en los asuntos de su competencia, por encargo del titular del Ejecutivo en los trámites previos a la celebración de convenios con la Federación, organismos o empresas, y en las diligencias para su posterior ejecución, y
+
+XXVIII. Las demás que señalen las leyes y reglamentos vigentes y las que le delegue la persona titular del Poder Ejecutivo.
 
 ###### ARTÍCULO 28.
 
@@ -1083,33 +1099,7 @@ XXXIII. Las demás que le señalen las disposiciones jurídicas aplicables o le 
 
 ###### ARTÍCULO 38.
 
-A la Representación del Poder Ejecutivo del Estado, le corresponde el despacho de los siguientes asuntos:
-
-I. Promover, en coordinación con las Secretarías y Dependencias que correspondan, proyectos de inversión en los sectores privado y social, nacionales y extranjeros, para ejecutarse en el Estado Libre y Soberano de Morelos;
-
-II. Representar al Poder Ejecutivo, para efectos de promoción, ante otros Estados, el Distrito Federal y ante sus Secretarías, Dependencias y Entidades, en asuntos de su competencia, conforme lo determine la persona titular del Ejecutivo;
-
-III. Representar al Poder Ejecutivo, para efectos de promoción, ante autoridades de estados extranjeros, organismos públicos internacionales en asuntos de su competencia, conforme lo determine al (sic) persona titular del Poder Ejecutivo y en coordinación con la las Secretarías y Dependencias que correspondan;
-
-IV. Promover la celebración de reuniones, para consolidar proyectos de interés para el Estado Libre y Soberano de Morelos, en coordinación con las autoridades competentes del Poder Ejecutivo;
-
-V. Representar a la persona titular del Poder Ejecutivo, en reuniones técnicas, actos cívicos y, en general, en todos los eventos que éste determine;
-
-VI. Intervenir por encargo de la persona titular del Poder Ejecutivo en los trámites previos a la celebración de convenios entre el Gobierno del Estado Libre y Soberano de Morelos y la Federación, otros organismos y empresas, y en las diligencias posteriores relativas a su ejecución;
-
-VII. Apoyar a las autoridades Municipales, Secretarías y Dependencias Estatales; a sus titulares, integrantes y representantes, en sus gestiones, comunicaciones oficiales y relaciones con otras autoridades federales y de otros Estados, así como instituciones públicas y privadas con sede en la Ciudad de México;
-
-VIII. Promover, impulsar, organizar y apoyar una mejor participación de la comunidad morelense en la Ciudad de México;
-
-IX. Asesorar a la persona titular del Poder Ejecutivo, en los asuntos que éste solicite;
-
-X. Elaborar los anteproyectos de iniciativas de ley, reglamentos, decretos, acuerdos y demás disposiciones jurídicas en el ámbito de su competencia y proponérselos a la persona titular del Poder Ejecutivo, previa obtención de la validación y rúbrica de la Consejería Jurídica;
-
-XI. Suscribir los convenios y contratos que le correspondan en el ámbito de su competencia,
-
-XII. Refrendar los decretos, acuerdos, reglamentos y demás disposiciones de carácter general que expida el Ejecutivo, en materia de su competencia, y
-
-XIII. Las demás que determinen las disposiciones legales aplicables o le delegue la persona Titular del Ejecutivo.
+(DEROGADO, P.O. 25 DE JULIO DE 2012)
 
 ## TÍTULO TERCERO. DE LOS ORGANISMOS ADMINISTRATIVOS Y DE JUSTICIA LABORAL
 
@@ -1247,7 +1237,7 @@ JORGE MORALES BARUD
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 2 DE JUNIO DE 2010.
 
@@ -1278,3 +1268,11 @@ En el caso de los Organismos Descentralizados, fideicomisos y empresas de partic
 ###### ARTÍCULO CUARTO.
 
 Se otorga un plazo de noventa días naturales a partir de la entrada en vigor de la presente reforma, para que los titulares de las secretarías y organismos auxiliares acrediten ante la Contraloría del Estado el cumplimiento de las presentes reformas.
+
+P.O. 25 DE JULIO DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+TERCERO. Los recursos humanos, materiales y financieros de la Representación del Poder Ejecutivo del Estado se transferirán a la Secretaría de Turismo del Gobierno del Estado y, en su caso, a aquella o aquellas áreas que determine el Poder Ejecutivo que en uso de sus facultades y competencia deba coadyuvar en la función de promoción y fomento del Estado que dicha Dependencia venía realizando.
