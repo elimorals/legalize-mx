@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2012-06-09"
+last_updated: "2012-07-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY DE EDUCACION DEL ESTADO DE JALISCO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE NOVIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE EDUCACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2012.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 9 DE JUNIO DE 2012, NO APLICA A LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 5 DE JUNIO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -103,7 +103,11 @@ II.- Fomentar la adquisición de conocimientos científicos y culturales, el des
 
 III.- Fortalecer la conciencia de la nacionalidad y de la soberanía, el conocimiento y aprecio por la historia, el amor y respeto a los símbolos patrios y las instituciones nacionales, así como la valoración de las tradiciones y particularidades culturales de las diversas regiones del país, especialmente, las del Estado de Jalisco;
 
-IV.- Enseñar el español como lengua nacional común de los mexicanos, sin menoscabo de la preservación y la enseñanza de las lenguas de los grupos indígenas que existen en el Estado. Así como promover en educación básica el estudio de una lengua extranjera;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2012)</small>
+
+IV.- Enseñar el español como lengua nacional común de los mexicanos, sin menoscabo de la preservación y la enseñanza de las lenguas de los grupos indígenas que existen en el estado; así como promover en educación básica el estudio de una lengua extranjera, preferentemente el inglés, cuya enseñanza será obligatoria en el nivel medio superior y superior;
 
 V.- Infundir el conocimiento y la práctica de la democracia como forma de gobierno y como sistema de vida que permita la participación de todos en el desarrollo político, económico y social del Estado, y en general, en la toma de decisiones para el mejoramiento de la sociedad;
 
@@ -835,6 +839,24 @@ El Ejecutivo Estatal, a través de la Secretaría de Educación, vigilará que t
 
 Las escuelas de educación media superior terminal o de enseñanza técnica dependientes del Estado, normarán sus trabajos de acuerdo a los programas que cubran las necesidades del alumnado y de la entidad, con el fin de preparar personal calificado en las diferentes actividades de la industria, del comercio, del campo y del trabajo en general. Los particulares podrán coadyuvar con el Estado en este tipo de preparación.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2012)</small>
+
+Las instituciones de este nivel educativo deberán asegurar que, máximo la mitad de las asignaturas, se impartan en lengua extranjera, preferentemente el inglés.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2012)</small>
+
+El personal docente responsable de este nivel educativo que imparta asignaturas en lengua extranjera, deberá acreditar su dominio de ese idioma, cuya certificación y evaluación se hará en los términos que establezcan la propia Secretaría de Educación o las instituciones de educación dentro de sus respectivas competencias.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2012)</small>
+
+Las autoridades educativas estatales, en el ámbito de su competencia y mediante los instrumentos de coordinación y cooperación que sean necesarios, establecerán los mecanismos para que, con pleno respeto a los derechos laborales, los docentes adquieran las competencias lingüísticas exigidas por la ley.
+
 ###### ARTICULO 64.
 
 El Ejecutivo del Estado podrá, sin perjuicio de las disposiciones de las autoridades educativas federales y conforme a la Ley General de Educación, emitir lineamientos referidos a la formación para el trabajo en la entidad, en atención a sus requerimientos particulares, con el objeto de definir aquellos conocimientos o destrezas susceptibles de certificación, así como los procedimientos de evaluación correspondientes.
@@ -869,6 +891,16 @@ II.- Investigación, y
 
 III.- Difusión de la cultura y de la protección al medio ambiente.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2012)</small>
+
+ARTICULO 68 bis.- Las instituciones de educación superior regidas por esta ley, normarán sus trabajos de acuerdo con los programas que cubran las necesidades del alumnado y de la entidad, con el fin de preparar personal calificado en las diferentes actividades de la industria, del comercio, del campo y del trabajo en general. Los particulares podrán coadyuvar con el Estado en este tipo de preparación.
+
+Las instituciones de este nivel educativo deberán asegurar que al menos la mitad de las asignaturas se impartan en lengua extranjera, preferentemente el inglés.
+
+El personal docente responsable de este nivel educativo deberá comprobar el dominio de un idioma extranjero, preferentemente el inglés, cuya certificación y evaluación se hará en los términos que establezcan la propia Secretaría de Educación o las instituciones de educación dentro de sus respectivas competencias.
+
 ###### ARTICULO 69.
 
 La Universidad de Guadalajara se regirá por su propia Ley Orgánica. Las unidades de la Universidad Pedagógica Nacional, así como las demás instituciones del nivel superior y los servicios educativos a su cargo, a las que la ley otorga autonomía según la fracción VII del 3o. Constitucional, se regirán por su Ley Orgánica o su normatividad.
@@ -886,6 +918,18 @@ III.- Las instituciones oficiales y particulares de educación superior, que imp
 ###### ARTICULO 71.
 
 Los servicios para la formación de maestros a cargo de las autoridades educativas locales, tendrán además de las finalidades previstas en el artículo 20 de la Ley General de Educación, la de regularizar, con nivel de licenciatura, a maestros en servicio que por cualquier circunstancia tengan un nivel de estudios inferior a dicho nivel.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2012)</small>
+
+El personal docente que imparta asignaturas en lengua extranjera en este nivel educativo deberá acreditar su dominio de ese idioma, cuya certificación y evaluación se hará en los términos y plazos que establezcan la propia Secretaría de Educación o las instituciones de educación dentro de sus respectivas competencias; la acreditación se implementará de manera paulatina y progresiva, para que el personal que no cuenta con dicho dominio de una segunda lengua, pueda capacitarse dentro de los planes y programas que determine para ello la Secretaría de Educación. Asimismo la Secretaría de Educación deberá vigilar que las nuevas contrataciones de personal docente acrediten el dominio pleno de la lengua extranjera.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2012)</small>
+
+Las autoridades educativas estatales, con estricto respeto de la autonomía universitaria, en el ámbito de su competencia y mediante los instrumentos de coordinación y cooperación que sean necesarios, establecerán los mecanismos para que, con pleno respeto a los derechos laborales, los docentes en servicio adquieran las competencias lingüísticas exigidas por la ley.
 
 ###### ARTICULO 72.
 
@@ -2278,3 +2322,13 @@ CUARTO. Los centros educativos deberán emitir el reglamento interno a que se re
 P.O. 19 DE MAYO DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 26 DE JULIO DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor a partir del ciclo escolar 2015-2016, o su equivalente de acuerdo con los calendarios oficiales de enseñanza media superior y superior que autoricen las autoridades educativas, previa su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El Poder Ejecutivo del Estado, por conducto de la Secretaría de Educación, dispondrá lo conducente para que previamente a la entrada en vigor de este decreto, todas las personas autorizadas en el estado de Jalisco para impartir asignaturas en el nivel medio superior, certifiquen su dominio de una lengua extranjera, preferentemente el idioma inglés, cuya certificación y evaluación se hará en los términos que establezcan la propia Secretaría de Educación o las instituciones de educación dentro de sus respectivas competencias.
+
+TERCERO. Se concede un plazo de tres años para que, de manera paulatina y progresiva, las instituciones autorizadas o reconocidas para impartir educación media superior y superior en el estado se preparen para la entrada en vigor del decreto.
+
+CUARTO. El presente decreto aplicará para los maestros que ingresen a partir de la entrada en vigor, dejando a salvo los derechos de los actuales.
