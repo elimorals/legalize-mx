@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-finanzas-y-44972"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-17"
-last_updated: "2008-12-12"
+last_updated: "2012-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y ADMINISTRACION
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y ADMINISTRACION
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE AGOSTO DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2008.
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN DEL ESTADO DE GUANAJUATO
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN, PUBLICADO EN EL P.O. DE 27 DE JULIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 17 de mayo de 2005.
 
@@ -361,11 +365,11 @@ XVII. Expedir certificaciones de los documentos existentes en los archivos de la
 
 XVIII. Las demás que las disposiciones legales y reglamentarias les atribuyan, así como aquellas que les confieran el Secretario o el Subsecretario del ramo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
 ### CAPÍTULO CUARTO. DE LAS FACULTADES DE LOS SUBPROCURADORES, DIRECTORES DE ÁREA, COORDINADORES Y JEFES DE OFICINAS RECAUDADORAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 10.
 
@@ -555,7 +559,7 @@ XXIX. Coadyuvar jurídicamente con la Unidad de Acceso a la Información Públic
 
 XXX. Expedir copias certificadas de las constancias que obren en los archivos de la Secretaría.
 
-> <small>(REFORMADA SU DENOMINACION, P.O.12 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O.12 DE DICIEMBRE DE 2008)</small>
 
 #### SECCIÓN PRIMERA. DE LA SUBPROCURADURÍA FISCAL DE CONSULTORÍA Y NORMATIVIDAD
 
@@ -593,7 +597,7 @@ XIV. Asesorar y apoyar en materia jurídica, en el ámbito de su competencia, a 
 
 XV. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario o el Procurador Fiscal del Estado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
 #### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE CONSULTORÍA Y PROCEDIMIENTOS ADMINISTRATIVOS
 
@@ -651,7 +655,7 @@ VIII. Formular, para aprobación superior, sus proyectos de manuales de organiza
 
 IX. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Procurador Fiscal del Estado o el Subprocurador Fiscal de Consultoría y Normatividad.
 
-> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES SECCION TERCERA], P.O. 12 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES SECCIÓN TERCERA], P.O. 12 DE DICIEMBRE DE 2008)</small>
 
 #### SECCIÓN CUARTA. DE LA SUBPROCURADURÍA FISCAL DE ASUNTOS CONTENCIOSOS V RESOLUCIONES
 
@@ -703,7 +707,7 @@ XX. Proponer, para aprobación superior, los proyectos del programa de actividad
 
 XXI. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario o el Procurador Fiscal del Estado.
 
-> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES SECCION CUARTA], P.O. 12 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES SECCIÓN CUARTA], P.O. 12 DE DICIEMBRE DE 2008)</small>
 
 #### SECCIÓN QUINTA. DE LA DIRECCIÓN DE LO CONTENCIOSO
 
@@ -741,7 +745,7 @@ XIII. Formular, para aprobación superior, sus proyectos de manuales de organiza
 
 XIV. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Procurador Fiscal del Estado o el Subprocurador Fiscal de Asuntos Contenciosos y Resoluciones.
 
-> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES SECCION QUINTA], P.O. 12 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES SECCIÓN QUINTA], P.O. 12 DE DICIEMBRE DE 2008)</small>
 
 #### SECCIÓN SEXTA. DE LA DIRECCIÓN DE PROCESOS Y RESOLUCIONES
 
@@ -1373,7 +1377,7 @@ Cuando en un Municipio exista más de una oficina recaudadora, podrán ejercer s
 
 ### CAPÍTULO CUARTO. DE LA DIRECCIÓN GENERAL DE AUDITORÍA FISCAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 44.
 
@@ -2099,7 +2103,7 @@ XI. Proponer al Director General, el modelo y estructura de la cuenta pública e
 
 XII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPÍTULO OCTAVO. DE LA DIRECCIÓN GENERAL DE CARRETERAS ESTATALES DE CUOTA
 
@@ -2113,7 +2117,7 @@ I. Dirección Operativa; y
 
 II. Dirección de Administración Financiera.
 
-(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2006) (F. DE E., P.O. 17 DE NOVIEMBRE DE 2006)
+(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2006) (F. DE E., P.O. 17 DE NOVIEMBRE DE 2006)
 
 ###### Artículo 66.
 
@@ -2155,11 +2159,11 @@ X. Someter para aprobación del Subsecretario del ramo, los actos, contratos y c
 
 XI. Informar mensualmente al Secretario, por conducto del Subsecretario del ramo, el flujo de ingresos y aforos derivados del peaje de las carreteras, puentes e infraestructura complementaria.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 #### SECCIÓN PRIMERA. DE LA DIRECCIÓN OPERATIVA
 
-(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2006) (F. DE E., P.O. 17 DE NOVIEMBRE DE 2006)
+(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2006) (F. DE E., P.O. 17 DE NOVIEMBRE DE 2006)
 
 ###### Artículo 67.
 
@@ -2201,7 +2205,7 @@ X. Emitir los dictámenes técnicos que determinen la viabilidad de las solicitu
 
 XI. Las demás que las disposiciones legales, reglamentarias y administrativas le atribuyan, y que le confiera el Secretario o el Subsecretario del ramo o su Director General.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 #### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE ADMINISTRACIÓN FINANCIERA
 
@@ -2233,7 +2237,7 @@ VIII. Elaborar, en coordinación con la Procuraduría Fiscal del Estado, los pro
 
 IX. Las demás que las disposiciones legales, reglamentarias y administrativas le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 19 DE JUNIO DE 2007)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE JUNIO DE 2007)</small>
 
 ### CAPÍTULO NOVENO. DE LA DIRECCIÓN GENERAL DE VERIFICACIÓN AL COMERCIO EXTERIOR
 
@@ -2369,11 +2373,11 @@ XXXIII. Ejercer las demás facultades que resulten necesarias para la ejecución
 
 La Dirección General de Verificación al Comercio Exterior y sus direcciones de área se auxiliarán, en el ejercicio de sus facultades, de verificadores quienes tendrán facultades para requerir y recibir documentación y demás elementos de los particulares; así como identificar, determinar el valor y clasificación arancelaria de mercancías de procedencia extranjera, en términos de las disposiciones aplicables en materia aduanera; además para llevar a cabo los actos necesarios para cerciorarse del cumplimiento de las disposiciones legales que regulan y gravan la entrada al territorio nacional de mercancías y medios de transporte.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE DICIEMBRE DE 2007)</small>
 
 #### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE VERIFICACIÓN DE MERCANCÍAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2007)</small>
 
 Artículo 68 quáter.- La Dirección de Verificación de Mercancías tendrá las siguientes facultades:
 
@@ -2439,11 +2443,11 @@ XVI. (DEROGADA, P.O. 12 DE DICIEMBRE DE 2008)
 
 XVII. (DEROGADA, P.O. 12 DE DICIEMBRE DE 2008)
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 19 DE JUNIO DE 2007)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE JUNIO DE 2007)</small>
 
 #### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE VISITAS DOMICILIARIAS DE COMERCIO EXTERIOR
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUMERO 92 PUBLICADO EN EL P.O. DE 12 DE DICIEMBRE DE 2008, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO, QUEDANDO EN XVII FRACCIONES.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 92 PUBLICADO EN EL P.O. DE 12 DE DICIEMBRE DE 2008, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO, QUEDANDO EN XVII FRACCIONES.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2007)</small>
 
@@ -2661,7 +2665,7 @@ III. Dirección de Relaciones Laborales y Prestaciones; y
 
 IV. Dirección del Servicio Civil de Carrera.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 72.
 
@@ -2941,7 +2945,7 @@ IV. Diseñar, promover, establecer y dar seguimiento a programas de desarrollo i
 
 V. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE DICIEMBRE DE 2007)</small>
 
 ### CAPÍTULO CUARTO. DE LA DIRECCIÓN GENERAL DE TECNOLOGÍAS DE LA INFORMACIÓN Y TELECOMUNICACIONES
 
@@ -2959,7 +2963,7 @@ III. Dirección de Sistemas Estratégicos de Información; y
 
 IV. Unidad de Medios Electrónicos y Firma Electrónica.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 82.
 
@@ -2997,11 +3001,11 @@ XI. Administrar el Sistema Integral de la Hacienda Pública en coordinación con
 
 XII. Realizar las acciones relativas al empleo de la firma electrónica certificada, así como difundir su uso y el de los medios electrónicos en el Estado de Guanajuato, conforme a la normatividad aplicable a la materia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE DICIEMBRE DE 2007)</small>
 
 #### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE REDES Y TELECOMUNICACIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 83.
 
@@ -3329,11 +3333,11 @@ Para la más eficaz atención y el más eficiente despacho de los asuntos de su 
 
 De acuerdo con las disposiciones legales relativas, el Secretario podrá revocar, modificar o confirmar las resoluciones dictadas por los órganos desconcentrados.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA] SU DENOMINACION, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA] SU DENOMINACIÓN, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 ## TÍTULO SÉPTIMO. DE LAS COMISIONES INTERNAS
 
-> <small>(REFORMADO [N. DE E. ANTES CAPITULO UNICO], P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO ÚNICO], P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPÍTULO PRIMERO. DE LA COMISIÓN INTERNA DE PROGRAMACIÓN Y EVALUACIÓN
 
@@ -3439,7 +3443,7 @@ EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN
 
 JOSÉ LUIS MARIO AGUILAR Y MAYA MEDRANO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 12 DE SEPTIEMBRE DE 2006.
 
@@ -3462,3 +3466,23 @@ P.O. 12 DE DICIEMBRE DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE JULIO DE 2012.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor el 1 de septiembre de 2012, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+Adecuaciones presupuestales
+
+Artículo Segundo. La Secretaría deberá realizar las operaciones presupuestales y administrativas que se requieran, en congruencia con la estructura orgánica que se deriva de este Reglamento.
+
+Abrogación del Reglamento vigente
+
+Artículo Tercero. Se abroga el Decreto Gubernativo número 220, publicado en el Periódico Oficial del Gobierno del Estado número 78, Tercera Parte, de fecha 17 de mayo del 2005, mediante el cual se expidió el Reglamento Interior de la Secretaría de Finanzas y Administración.
+
+Asuntos en trámite
+
+Artículo Cuarto. Los asuntos que a la fecha de entrada en vigor del presente Decreto se encuentren en trámite, serán resueltos hasta su conclusión en los términos del presente Decreto Gubernativo.
+
+Cuando la competencia de alguna unidad administrativa establecida con anterioridad a la fecha de inicio de la vigencia de las disposiciones de este Decreto, que deba ser ejercida por otra u otras unidades que en el mismo se establecen, corresponderá a la unidad administrativa competente conforme al presente instrumento, terminar la sustanciación de los asuntos que se encuentren en trámite en la fecha señalada en el artículo transitorio primero de este Decreto.
