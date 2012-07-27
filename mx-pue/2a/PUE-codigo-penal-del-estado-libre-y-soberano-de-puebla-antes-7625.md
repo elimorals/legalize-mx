@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2012-07-25"
+last_updated: "2012-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2012.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -2249,9 +2249,9 @@ II.- Cuando se trate de cónyuges o de concubinos, sólo podrá procederse por q
 
 III.- La pena se impondrá, sin perjuicio de las sanciones que correspondan si se causa el contagio o algún otro daño o lesión, o de los que resultaren por la transmisión de una enfermedad.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE JULIO DE 2012)</small>
 
-### CAPITULO SEPTIMO.- DELITOS CONTRA LA DIGNIDAD Y EL LIBRE DESARROLLO DE LA PERSONALIDAD
+### CAPITULO SEPTIMO.- DELITOS CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD
 
 #### SECCION SEGUNDA.- CORRUPCION Y PORNOGRAFIA DE MENORES E INCAPACES O PERSONAS QUE NO PUDIEREN RESISTIR
 
@@ -3571,9 +3571,11 @@ Por riña se entiende la contienda de obra y no la de palabra, entre dos o más 
 
 No se entenderá que hay riña en la lucha que se entabla entre un agresor y un agredido, cuando éste se ve obligado a valerse de las vías de hecho en su propia y legítima defensa.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2012)</small>
+
 ###### Artículo 323.
 
-Se entiende que las lesiones o el homicidio son calificados, cuando se cometen con premeditación, con ventaja, con alevosía o traición.
+El homicidio y las lesiones son calificadas cuando se cometen con: Premeditación, ventaja, alevosía, traición u odio.
 
 ###### Artículo 324.
 
@@ -3610,6 +3612,14 @@ La alevosía consiste en sorprender intencionalmente a alguien de improviso, o e
 ###### Artículo 330.
 
 Se dice que obra a traición, quien además de la alevosía emplea la perfidia, violando la fe o seguridad que expresamente había prometido a su víctima, o la tácita que ésta debía prometerse de aquél por sus relaciones de parentesco, gratitud, amistad o cualquiera otra que inspire confianza.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2012)</small>
+
+###### Artículo 330 Bis.
+
+Para los efectos del artículo 323 de este Código, existe odio cuando el agente lo comete por razón del origen étnico o nacional, raza, género, edad, discapacidad, condición social o económica, condiciones de salud, preferencias sexuales, apariencia física, estado civil, creencia religiosa, ideología política, opiniones expresadas o cualquier otra que atente contra la dignidad humana, la libertad o la igualdad.
+
+La existencia de cualquier otro móvil no excluye el odio; siempre se estará a lo que aparezca probado.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 1990)</small>
 
@@ -3667,7 +3677,9 @@ I.- (DEROGADA, P.O. 1 DE JULIO DE 1994)
 
 II.- (DEROGADA, P.O. 1 DE JULIO DE 1994)
 
-#### SECCION SEGUNDA.- DIFAMACION
+#### SECCION SEGUNDA.- DISCRIMINACION
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE JULIO DE 2012)</small>
 
 ###### Artículo 339.
 
@@ -3845,7 +3857,9 @@ I.- Si el procesado paga las pensiones alimentarias que deba, decretadas por un 
 
 II.- El sobreseimiento a que se refiere la fracción anterior se dictará sin perjuicio de considerar al deudor alimentario como reincidente o como habitual, si incurre una o más veces en este delito.
 
-CAPITULO DECIMOSEPTIMO.- DELITOS CONTRA EL HONOR
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE JULIO DE 2012)</small>
+
+CAPITULO DECIMOSEPTIMO.- DELITOS CONTRA EL HONOR Y LA DIGNIDAD
 
 #### SECCION TERCERA.- ABUSO DE CONFIANZA
 
@@ -3861,11 +3875,27 @@ Si el ofendido fuere mayor de sesenta años o persona con discapacidad, la sanci
 
 Son simples los golpes y las violencias físicas que no causen lesión en el ofendido.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE JULIO DE 2012)</small>
+
 #### SECCION CUARTA.- FRAUDE
 
 ###### Artículo 357.
 
-(DEROGADO, P.O. 23 DE FEBRERO DE 2011)
+Se aplicará prisión de uno a tres años y de cien a quinientos días de multa a todo aquél que, por razón del origen étnico o nacional, raza, género, edad, discapacidad, condición social o económica, condiciones de salud, preferencias sexuales, apariencia física, estado civil, creencia religiosa, ideología política, opiniones expresadas o cualquier otra que atente contra la dignidad humana, la libertad o la igualdad:
+
+I.- Provoque o incite al odio o a la violencia;
+
+II.- Niegue a una persona un servicio o una prestación a la que tenga derecho. Para los efectos de esta fracción, se considera que toda persona tiene derecho a los servicios o prestaciones que se ofrecen al público en general;
+
+III.- Veje o excluya persona alguna o grupo de personas; y
+
+IV.- Niegue o restrinja derechos laborales de cualquier tipo.
+
+Al servidor público que por las razones previstas en el primer párrafo de este artículo, niegue o retarde a una persona un trámite, servicio o prestación al que tenga derecho, se le aumentará en una mitad la pena prevista en este numeral, además se le impondrá destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos, por el mismo lapso de la privación de la libertad impuesta.
+
+No serán consideradas discriminatorias todas aquellas medidas tendientes a la protección de los grupos socialmente desfavorecidos.
+
+Este delito se perseguirá por querella de la parte ofendida.
 
 ###### Artículo 358.
 
@@ -3947,13 +3977,13 @@ Comete el delito de robo, el que se apodera de un bien ajeno mueble, sin derecho
 
 El delito de robo se sancionará en los siguientes términos:
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2012)</small>
 
-I.- Cuando el valor de lo robado no exceda de treinta veces el salario mínimo, se impondrán de seis meses a dos años de prisión o de cien a doscientos días de salario mínimo;
+I.- Cuando el valor de lo robado no exceda de treinta veces el salario mínimo, se impondrán de seis meses a dos años de prisión y de cien a doscientos días de salario mínimo;
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2012)</small>
 
-II.- Cuando el valor de lo robado exceda de treinta pero no de cien veces el salario mínimo, se impondrá de uno a tres años de prisión o de ciento cincuenta a trescientos días de salario mínimo;
+II.- Cuando el valor de lo robado exceda de treinta pero no de cien veces el salario mínimo, se impondrán de uno a tres años de prisión y de ciento cincuenta a trescientos días de salario mínimo;
 
 > <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
@@ -3979,27 +4009,35 @@ I.- Desmantele algún vehículo robado, enajene o trafique conjunta o separadame
 
 > <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
 
-II.- Enajene o trafique de cualquier manera algún vehículo a sabiendas de que es robado:
+II.- Enajene o trafique de cualquier manera algún vehículo a sabiendas de que es robado;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2012)</small>
+
+III.- Adquiera en más de dos ocasiones vehículos de motor, como motocicletas, automóviles, camiones, tractores, remolques y semi-remolques u otros semejantes, sin cerciorarse previamente de su legítima procedencia;
 
 > <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
 
-III.- Enajene, adquiera, detente, almacene o pignore en más de dos ocasiones vehículos de motor, como motocicletas, automóviles, camiones, tractores, remolques y semi remolques u otros semejantes, sin cerciorarse previamente de su legítima procedencia:
-
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
-
-IV.- Detente, posea, custodie, altere o modifique de cualquier manera la documentación que acredite la propiedad o los medios de identificación originales de algún vehículo robado:
+IV.- Detente, posea, custodie, altere o modifique de cualquier manera la documentación que acredite la propiedad o los medios de identificación originales de algún vehículo robado;
 
 > <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
 
 V.- Traslade algún vehículo robado a otra entidad federativa o al extranjero a sabiendas de su ilegítima procedencia;
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2012)</small>
 
-VI.- Utilice algún vehículo robado en la comisión de otro u otros delitos; y
+VI.- Utilice algún vehículo robado en la comisión de otro u otros delitos;
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2012)</small>
 
-VII.- Utilice el o los vehículos robados en la prestación de un servicio público o actividad oficial.
+VII.- Utilice el o los vehículos robados en la prestación de un servicio público o actividad oficial;
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2012)</small>
+
+VIII.- Detente, posea o custodie algún vehículo que cuente con sus medios de identificación alterados o modificados; y
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2012)</small>
+
+IX.- Detente, almacene o pignore un vehículo robado.
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
 
@@ -4077,13 +4115,33 @@ XVII.- Cuando se cometa estando la víctima en un vehículo particular o de tran
 
 XVIII.- Si se realiza en contra de un establecimiento abierto al público, o en contra de las personas que lo custodian.
 
-> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2012)</small>
 
-XIX.- Cuando se cometa el robo de una o más de las partes que conforman un vehículo automotor o de la mercancía transportada a bordo de aquél, sin perjuicio, en su caso, de la agravante a que se refiere la fracción I de este artículo; y
+XIX.- Cuando se cometa el robo de una o más de las partes que conforman un vehículo automotor o de la mercancía transportada a bordo de aquél, sin perjuicio, en su caso, de la agravante a que se refiere la fracción I de este artículo;
 
-> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2012)</small>
 
-XX.- Cuando se cometa contra transeúntes.
+XX.- Cuando se cometa contra transeúntes;
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2012)</small>
+
+XXI.- Cuando recaiga sobre equipaje o valores de viajero, en cualquier lugar durante el transcurso de viaje o en terminales de transporte;
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2012)</small>
+
+XXII.- Cuando recaiga sobre documentos que se conserven en oficinas públicas, cuando la sustracción afecte el servicio público o cause daño a terceros;
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2012)</small>
+
+XXIII.- Cuando se cometa en una oficina bancaria, recaudadora u otra en que se conserven caudales o valores, o contra personas que las custodien o transporten;
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2012)</small>
+
+XXIV.- Cuando se cometa en contra de persona con discapacidad o de más de sesenta años de edad; y
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2012)</small>
+
+XXV.- Por quien haya sido o sea personal de empresas que presten servicios de seguridad privada, aunque no esté en servicio.
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
 
@@ -5524,5 +5582,29 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 25 DE JULIO DE 2012.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE JULIO DE 2012.
+
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 323 Y SE ADICIONA EL ARTÍCULO 330 BIS AL CÓDIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE JULIO DE 2012.
+
+DECRETO POR EL QUE SE REFORMAN LA DENOMINACIÓN DEL CAPÍTULO SÉPTIMO, EL CAPÍTULO DECIMOSÉPTIMO Y SU SECCIÓN SEGUNDA DEL LIBRO SEGUNDO Y EL ARTÍCULO 357 DEL CÓDIGO DE DEFENSA SOCIAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE JULIO DE 2012.
+
+DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES I Y II DEL ARTÍCULO 374; LAS FRACCIONES III, VI Y VII DEL 375, Y LAS FRACCIONES XIX Y XX DEL 380; SE ADICIONAN LAS FRACCIONES VIII Y IX DEL ARTÍCULO 375 Y LAS FRACCIONES XXI, XXII, XXIII, XXIV Y XXV DEL ARTÍCULO 380; TODOS DEL CÓDIGO DE DEFENSA SOCIAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+PRIMERO.- El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el día hábil siguiente de su publicación.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
