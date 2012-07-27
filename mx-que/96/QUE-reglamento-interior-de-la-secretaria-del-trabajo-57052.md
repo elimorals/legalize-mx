@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-de-la-secretaria-del-trabajo-57052"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-14"
-last_updated: "2007-09-14"
+last_updated: "2012-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57052&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, PUBLICADO EN EL P.O. DE 27 DE JULIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 14 de septiembre de 2007.
 
@@ -416,3 +418,13 @@ Lic. Rafael Camacho Sandoval
 Secretario del Trabajo
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE JULIO DE 2012.
+
+Primero. El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+Segundo. Se abroga el Reglamento Interior de la Secretaría del Trabajo publicado en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga" el 14 de septiembre del 2007.
+
+Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente reglamento.
