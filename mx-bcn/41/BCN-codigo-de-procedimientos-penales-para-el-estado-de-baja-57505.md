@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-57505"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-19"
-last_updated: "2012-07-13"
+last_updated: "2012-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2012.
 
 Código publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2007.
 
@@ -2623,7 +2623,7 @@ Inspecciones colectivas.- Cuando la policía realice inspecciones de personas o 
 
 Aseguramiento.- El Juez, el Ministerio Público y la policía, deberán disponer que sean recogidos y conservados los objetos relacionados con el delito, los sujetos a decomiso y aquellos que puedan servir como medios de prueba; para ello, cuando sea necesario, ordenarán su aseguramiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO. DE IGUAL MODO, SE ADVIERTE QUE EL ANTIGUO PÁRRAFO TERCERO FORMA PARTE DEL ACTUAL PÁRRAFO SEGUNDO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -3233,7 +3233,7 @@ Oralidad e inmediación.- La audiencia intermedia será dirigida por el Juez y s
 
 ###### Artículo 308.
 
-Exposición de las presentaciones de las partes. Al inicio de la audiencia, cada parte hará una breve exposición de su presentación.
+Exposición de las presentaciones de las partes.- Al inicio de la audiencia, cada parte hará una breve exposición de su presentación.
 
 ###### Artículo 309.
 
@@ -3413,7 +3413,7 @@ IV. Cuando esté previsto específicamente en este Código o en otra Ley.
 
 V. Cuando el Tribunal estime que existen razones fundadas para justificarlo.
 
-La resolución será fundada y constará en el registro del debate de juicio oral. Desaparecida la causa, se permitirá ingresar nuevamente al público y quien presida el debate informará brevemente sobre el resultado esencial de los actos cumplidos a puertas cerradas, cuidando, de no afectar el bien protegido por la reserva. El Tribunal podrá imponer a las partes en el acto el deber de reserva sobre aquellas circunstancias que han presenciado, decisión que constará en el registro del debate de juicio oral.
+La resolución será fundada y constará en el registro del debate de juicio oral. Desaparecida la causa, se permitirá ingresar nuevamente al público y quien presida el debate informará brevemente sobre el resultado esencial de los actos cumplidos a puertas cerradas, cuidando de no afectar el bien protegido por la reserva. El Tribunal podrá imponer a las partes en el acto el deber de reserva sobre aquellas circunstancias que han presenciado, decisión que constará en el registro del debate de juicio oral.
 
 El Tribunal señalará en cada caso las condiciones en que se ejercerá el derecho a informar y podrá restringir o prohibir, mediante resolución fundada, la grabación, fotografía, edición o reproducción de la audiencia, cuando puedan resultar afectados algunos de los intereses señalados en este artículo o cuando se limite el derecho del acusado o de la víctima u ofendido a un juicio imparcial y justo.
 
@@ -3439,7 +3439,7 @@ Continuidad.- La audiencia del juicio oral se desarrollará en forma continua y 
 
 ###### Artículo 325.
 
-Suspensión.- Excepcionalmente, la audiencia de debate de juicio oral, podrá suspenderse por un plazo máximo de diez días hábiles cuando:
+Suspensión.- Excepcionalmente, la audiencia de debate de juicio oral podrá suspenderse por un plazo máximo de diez días hábiles cuando:
 
 I. Se deba resolver una cuestión incidental que no pueda, por su naturaleza, resolverse inmediatamente;
 
@@ -3451,7 +3451,7 @@ IV. Algún Juez o el imputado se enfermen a tal extremo que no puedan continuar 
 
 V. El defensor, el Ministerio Público o el acusador coadyuvante, no puedan ser reemplazados inmediatamente en el supuesto en que legalmente deban serlo;
 
-VI. Si el Ministerio Público lo requiera para variar la acusación con motivo de las pruebas deshogadas y el defensor lo solicite una vez variada la acusación; o
+VI. Si el Ministerio Público lo requiera para variar la acusación con motivo de las pruebas deshogadas (sic) y el defensor lo solicite una vez variada la acusación; o
 
 VII. Alguna catástrofe o algún hecho extraordinario tornen imposible su continuación.
 
@@ -4279,7 +4279,7 @@ IV. Revisión.
 
 ###### Artículo 396.
 
-Condiciones de interposición.- Los recursos se interpondrán en las condiciones de tiempo y forma que se determinan en este Código, con indicación especifica de la parte impugnada de la resolución recurrida.
+Condiciones de interposición.- Los recursos se interpondrán en las condiciones de tiempo y forma que se determinan en este Código, con indicación específica de la parte impugnada de la resolución recurrida.
 
 ###### Artículo 397.
 
@@ -4627,7 +4627,7 @@ I.- Ensenada, a partir de las cero horas del día once de agosto del año dos mi
 
 II.- Tijuana, Tecate y Playas de Rosarito, a partir de las cero horas del día once de agosto del año dos mil quince.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -4649,11 +4649,17 @@ V.- Como ordenamiento jurídico supletorio de la Ley de Justicia de Adolecentes 
 
 VI.- Como ordenamiento jurídico aplicable en los delitos contra la salud en su modalidad de narcomenudeo de competencia estatal que se señalan en el capítulo VII del título XVIII de la Ley General de Salud.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JULIO DE 2012)</small>
+
+VII.- Como ordenamiento jurídico supletorio de la LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE BAJA CALIFORNIA, en los términos que ésta disponga.
+
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 15 DE OCTUBRE DE 2010)</small>
 
 El Código de Procedimientos Penales publicado en el Periódico Oficial del Estado de fecha 20 de agosto de 1989, podrá seguir siendo reformado o adicionado hasta en tanto se siga actualizando alguno de los supuestos contenidos en las fracciones anteriores.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -4661,13 +4667,13 @@ Artículo Tercero.- Inaplicabilidad de normas incompatibles. Con las excepciones
 
 Artículo Cuarto.- Delitos Permanentes y Continuados. El procedimiento penal relativo a hechos delictuosos de carácter permanente o continuado que iniciaron bajo la vigencia del aludido Código de Procedimientos Penales de mil novecientos ochenta y nueve y que continúen desarrollándose bajo la vigencia de la presente Ley, será regulado por el primero de los Ordenamientos citados en este Artículo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 Artículo Quinto.- Prohibición de Acumulación de Procesos. No procederá la acumulación de procesos sobre hechos delictuosos, cuando alguno de ellos esté sometido al presente Código y otro al Código de procedimientos Penales publicado en el Periódico Oficial del Estado con fecha veinte de agosto de 1989.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -4794,3 +4800,11 @@ El Ejecutivo Estatal en términos de la fracción XVI, del artículo 49, de la C
 P.O. 13 DE JULIO DE 2012.
 
 ÚNICO.- La presente reforma entrará en vigor de conformidad a las fracciones I y II en lo dispuesto en el artículo primero transitorio del Código de Procedimientos Penales para el Estado de Baja California, publicado en el Periódico Oficial el 19 de octubre de 2007.
+
+P.O. 27 DE JULIO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor a los noventa días posteriores de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- En tanto el Ejecutivo estatal realice las adecuaciones a la reglamentación correspondiente, a fin de dar el debido cumplimiento a las disposiciones de este ordenamiento, serán competentes para conocer sobre los delitos previstos en el artículo 4 párrafo primero de esta ley y ejercer la acción de extinción de dominio, las áreas o unidades adscritas a la Subprocuraduría contra la Delincuencia Organizada de la Procuraduría General de Justicia del Estado, de conformidad con los acuerdos que para tal efecto emita el Procurador.
+
+TERCERO.- En tanto el Poder Judicial del Estado realice las adecuaciones necesarias a su estructura interna, a fin de dar cumplimiento en el ámbito de su competencia a lo establecido en esta ley, serán competentes para conocer del procedimiento de extinción de dominio los juzgados de lo civil, de conformidad con los acuerdos que para tal efecto determine el Consejo de la Judicatura.
