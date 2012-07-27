@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-voluntad-anticipada-para-el-distrito-federal-57775"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-07"
-last_updated: "2008-01-07"
+last_updated: "2012-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57775&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-12-19"
 
 LEY DE VOLUNTAD ANTICIPADA PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE JULIO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 7 de enero de 2008.
 
@@ -52,151 +52,229 @@ LEY DE VOLUNTAD ANTICIPADA PARA EL DISTRITO FEDERAL
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2012)</small>
+
 ###### Artículo 1.
 
-La presente ley es de orden público e interés social, y tiene por objeto establecer y regular las normas, requisitos y formas de realización de la voluntad de cualquier persona con capacidad de ejercicio, respecto a la negativa a someterse a medios, tratamientos y/o procedimientos médicos que pretendan prolongar de manera innecesaria su vida, protegiendo en todo momento la dignidad de la persona, cuando por razones médicas, fortuitas o de fuerza mayor, sea imposible mantener su vida de manera natural.
+La presente ley es de orden público e interés social, y tiene por objeto establecer las normas para regular el otorgamiento de la voluntad de una persona con capacidad de ejercicio, para que exprese su decisión de ser sometida o no a medios, tratamientos o procedimientos médicos que pretendan prolongar su vida cuando se encuentre en etapa terminal y, por razones médicas, sea imposible mantenerla de manera natural, protegiendo en todo momento la dignidad de la persona.
+
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2012)</small>
 
 ###### Artículo 2.
 
-La aplicación de las disposiciones establecidas en la presente ley, son relativas a la Voluntad Anticipada de las personas en materia de Ortotanasia, y no permiten ni facultan bajo ninguna circunstancia la realización de conductas que tengan como consecuencia el acortamiento intencional de la vida.
+Las disposiciones establecidas en la presente ley, son relativas a la práctica médica aplicada al enfermo en etapa terminal, consistente en el otorgamiento del tratamiento de los Cuidados Paliativos, protegiendo en todo momento la dignidad del enfermo en etapa terminal.
 
 ###### Artículo 3.
 
 Para efectos de esta ley se define y entiende por:
 
-I. Código Civil: Código Civil para el Distrito Federal;
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
 
-II. Código de Procedimientos: Código de Procedimientos Civiles para el Distrito Federal;
+I. Coordinación Especializada: unidad administrativa adscrita a la Secretaría de Salud en materia de Voluntad Anticipada;
 
-III. Código Penal: Código Penal para el Distrito Federal;
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
 
-IV. Cuidados Paliativos: el cuidado activo y total de aquellas enfermedades que no responden a tratamiento curativo e incluyen el control del dolor y otros síntomas, así como la atención psicológica del paciente;
+II. Cuidados Paliativos: cuidado integral, que de manera específica se proporciona a enfermos en etapa terminal, orientados a mantener o incrementar su calidad de vida en las áreas biológica, psicológica y social e incluyen las medidas mínimas ordinarias así como el tratamiento integral del dolor con el apoyo y participación de un equipo interdisciplinario, conformado por personal médico, de enfermería, de psicología, de trabajo social, de odontología, de rehabilitación, y de tanatología;
 
-V. Documento de Voluntad Anticipada: consiste en el documento público suscrito ante Notario, en el que cualquier persona con capacidad de ejercicio y en pleno uso de sus facultades mentales, manifiesta la petición libre, consciente, seria, inequívoca y reiterada de no someterse a medios, tratamientos y/o procedimientos médicos, que propicien la Obstinación Médica;
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
 
-VI. Enfermo en Etapa Terminal: es el que tiene un padecimiento mortal o que por caso fortuito o causas de fuerza mayor tiene una esperanza de vida menor a seis meses, y se encuentra imposibilitado para mantener su vida de manera natural, con base en las siguientes circunstancias:
+III. Documento de Voluntad Anticipada: instrumento, otorgado ante Notario Público, en el que una persona con capacidad de ejercicio y en pleno uso de sus facultades mentales, manifiesta la petición libre, consciente, seria, inequívoca y reiterada de ser sometida o no a medios, tratamientos o procedimientos médicos, que propicien la Obstinación Terapéutica;
 
-a) Presenta diagnóstico de enfermedad avanzada, irreversible, incurable, progresiva y/o degenerativa;
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
 
-b) Imposibilidad de respuesta a tratamiento específico; y/o
+IV. Enfermo en Etapa Terminal: paciente con diagnóstico sustentado en datos objetivos, de una enfermedad incurable, progresiva y mortal a corto o mediano plazo; con escasa o nula respuesta a tratamiento específico disponible y pronóstico de vida inferior a seis meses.
 
-c) Presencia de numerosos problemas y síntomas, secundarios o subsecuentes;
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
 
-VII. Institución Privada de Salud: Son los servicios de salud que prestan las personas físicas o morales, en las condiciones que convengan con los usuarios, y sujetas a los ordenamientos legales, civiles y mercantiles;
+V. Formato: Documento de Instrucciones de Cuidados Paliativos previamente autorizado por la Secretaría, suscrito por el enfermo terminal, ante el personal de salud correspondiente y dos testigos, en el que se manifiesta la voluntad de seguir con tratamientos que pretendan alargar la vida o bien la suspensión del tratamiento curativo y el inicio de la atención en cuidados paliativos, preservando en todo momento la dignidad de la persona;
 
-VIII. Ley: Ley de Voluntad Anticipada para el Distrito Federal;
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JULIO DE 2012)</small>
 
-IX. Ley de Salud: Ley de Salud para el Distrito Federal;
+VI. Institución de Salud: Son todas las instituciones de salud pública, social y privada que prestan servicios en el territorio del Distrito Federal;
 
-X. Medidas Mínimas Ordinarias: consisten en la hidratación, higiene oxigenación, nutrición y/o curaciones del paciente en etapa terminal según lo determine el personal de salud correspondiente;
+a). (DEROGADO, G.O. 27 DE JULIO DE 2012)
 
-XI. Notario: Notario Público del Distrito Federal;
+b). (DEROGADO, G.O. 27 DE JULIO DE 2012)
 
-XII. Obstinación Terapéutica: utilización innecesaria de los medios, instrumentos y métodos médicos, para mantener vivo a un enfermo en etapa terminal;
+c). (DEROGADO, G.O. 27 DE JULIO DE 2012)
 
-XIII. Ortotanasia: significa muerte correcta. Distingue entre curar y cuidar, sin provocar la muerte de manera activa, directa o indirecta, evitando la aplicación de medios, tratamientos y/o procedimientos médicos obstinados, desproporcionados o inútiles, procurando no menoscabar la dignidad del enfermo en etapa terminal, otorgando los Cuidados Paliativos, las Medidas Mínimas Ordinarias y Tanatológicas, y en su caso la Sedación Controlada;
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
 
-XIV. Personal de salud: son los profesionales, especialistas, técnicos, auxiliares y demás trabajadores que laboran en la prestación de los servicios de salud;
+VII. Ley: Ley de Voluntad Anticipada para el Distrito Federal;
 
-XV. Coordinación Especializada: es la unidad administrativa adscrita a la Secretaría de Salud en materia de Voluntad Anticipada;
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
 
-XVI. Reanimación: conjunto de acciones que se llevan a cabo para tratar de recuperar las funciones y/o signos vitales;
+VIII. Ley de Salud: Ley de Salud para el Distrito Federal;
 
-XVII. Secretaría: Secretaría de Salud del Distrito Federal;
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
 
-XVIII. Sedación Controlada: es la administración de fármacos por parte del personal de salud correspondiente, para lograr el alivio, inalcanzable con otras medidas, de un sufrimiento físico y/o psicológico, en un paciente en etapa terminal, con su consentimiento explícito, implícito o delegado, sin provocar con ello la muerte de manera intencional de éste; y
+IX. Médico tratante: médico responsable de la atención del enfermo en etapa terminal;
 
-XIX. Tanatología: significa tratado o ciencia de la muerte. Consiste en la ayuda médica y psicológica brindada tanto al enfermo en etapa terminal como a los familiares de éste, a fin de comprender la situación y consecuencias de la aplicación de la Ortotanasia.
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
+
+X. Medidas Mínimas Ordinarias: consisten en la hidratación, higiene, oxigenación, nutrición o curaciones del paciente en etapa terminal, según lo determine el personal de salud correspondiente;
+
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
+
+XI. Obstinación Terapéutica: la adopción de métodos médicos desproporcionados o inútiles con el objeto de alargar la vida en situación de agonía;
+
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
+
+XII. Personal de salud: profesionales, especialistas, técnicos, auxiliares y demás trabajadores que laboran en la prestación de los servicios de salud;
+
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
+
+XIII. Reanimación: conjunto de acciones que se llevan a cabo para tratar de recuperar las funciones o signos vitales;
+
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
+
+XIV. Secretaría: Secretaría de Salud del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
+
+XV. Sedo - analgesia Controlada: prescripción y administración de fármacos por parte del personal de salud para lograr el alivio, inalcanzable con otras medidas, de un sufrimiento físico y psicológico, del enfermo en etapa terminal;
+
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
+
+XVI. Tanatología: ayuda médica, psicológica y el acompañamiento emocional brindados tanto al enfermo en etapa terminal como a sus familiares, con el objeto de que comprendan y acepten la posibilidad de la muerte cercana, y
+
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
+
+XVII. Tratamiento en Cuidados Paliativos: estrategia del equipo interdisciplinario de salud, para mejorar síntomas físicos, emocionales y bienestar social en el contexto cultural de la población y la buena práctica médica; a través de la prevención temprana por medio de evaluación, identificación y manejo lo más óptimo posible para cada situación de acuerdo con la mejor evidencia disponible, con el fin de disminuir el sufrimiento y facilitar al paciente y su familia la autonomía, el acceso a la información, elección y la mejor calidad de vida posible en la etapa terminal.
+
+XVIII. (DEROGADA, G.O. 27 DE JULIO DE 2012)
+
+XIX. (DEROGADA, G.O. 27 DE JULIO DE 2012)
+
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2012)</small>
 
 ###### Artículo 4.
 
-En lo no previsto en la presente Ley, se aplicará de manera supletoria lo dispuesto por el Código Civil y el Código de Procedimientos Civiles, cuando fueren aplicables, y no afecte derechos de terceros o contravenga otras disposiciones legales vigentes.
+En lo no previsto en la presente Ley, se aplicará de manera supletoria lo dispuesto por la Ley de Salud, el Código Civil, el Código de Procedimientos Civiles y la Ley del Notariado, todos del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2012)</small>
 
 ###### Artículo 5.
 
-La presente Ley se aplicará única y exclusivamente en el territorio del Distrito Federal con base en los términos y disposiciones establecidas en la misma.
-
-### CAPÍTULO SEGUNDO. DE LOS REQUISITOS DEL DOCUMENTO DE VOLUNTAD ANTICIPADA
-
-###### Artículo 6.
-
-La aplicación de las disposiciones establecidas en la presente Ley no eximen de responsabilidades, sean de naturaleza civil, penal o administrativa, a quienes intervienen en su realización, si no se cumple con los términos de la misma.
+La aplicación de las disposiciones establecidas en la presente Ley no exime de responsabilidades, sean de naturaleza civil, penal o administrativa, a quienes intervienen en su realización, si no se cumple con los términos de la misma.
 
 Ningún solicitante, profesional o personal de salud que haya actuado en concordancia con las disposiciones establecidas en la presente Ley, estará sujeto a responsabilidad civil, penal o administrativa.
 
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 27 DE JULIO DE 2012)</small>
+
+### CAPÍTULO SEGUNDO. DE LOS REQUISITOS DEL DOCUMENTO Y FORMATO
+
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2012)</small>
+
+###### Artículo 6.
+
+El Documento de Voluntad Anticipada podrá suscribirlo toda persona con capacidad de ejercicio.
+
+En caso de que el enfermo en etapa terminal se encuentre imposibilitado físicamente para acudir ante el Notario Público, podrá suscribir el Formato ante el personal de salud correspondiente y dos testigos en el documento que emita la Secretaría, mismo que deberá ser notificado a la Coordinación Especializada en los términos de esta Ley.
+
+El Formato se otorgará con los requisitos que dispone el Capítulo Segundo de esta Ley ante el personal de salud que para tal efecto se designe conforme al Reglamento de la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JULIO DE 2012)</small>
+
 ###### Artículo 7.
 
-El Documento de Voluntad Anticipada podrá suscribirlo:
+El Documento de Voluntad Anticipada o Formato deberán contar con las siguientes formalidades y requisitos:
 
-I. Cualquier persona con capacidad de ejercicio;
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
 
-II. Cualquier enfermo en etapa terminal, médicamente diagnosticado como tal;
+I. Realizarse de manera personal, libre e inequívoca ante Notario Público o personal de salud según corresponda y ante dos testigos;
 
-III. Los familiares y personas señaladas en los términos y supuestos de la presente Ley, cuando el enfermo en etapa terminal se encuentre de manera inequívoca impedido para manifestar por sí mismo su voluntad; y
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
 
-IV. Los padres o tutores del enfermo en etapa terminal cuando éste sea menor de edad o incapaz legalmente declarado.
+II. El nombramiento de un representante y, en su caso, un sustituto, para velar por el cumplimiento de la voluntad del enfermo en etapa terminal en los términos del propio documento, y
 
-Para los efectos de las fracciones III y IV del presente artículo el signatario deberá acreditar con el acta correspondiente el parentesco a que haya lugar.
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
+
+III. La manifestación de su voluntad respecto a la disposición de órganos susceptibles de ser donados.
+
+IV. (DEROGADA, G.O. 27 DE JULIO DE 2012).
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 27 DE JULIO DE 2012)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JULIO DE 2012)</small>
 
 ###### Artículo 8.
 
-El documento de Voluntad Anticipada deberá contar con las siguientes formalidades y requisitos:
+El Notario Público dará aviso del otorgamiento del Documento de Voluntad Anticipada a la Coordinación Especializada.
 
-I. Realizarse por escrito de manera personal, libre e inequívoca ante Notario;
+I. (DEROGADA, G.O. 27 DE JULIO DE 2012)
 
-II. Suscrito por el solicitante, estampando su nombre y firma en el mismo;
+II. (DEROGADA, G.O. 27 DE JULIO DE 2012)
 
-III. El nombramiento de un representante para corroborar la realización del Documento de Voluntad Anticipada en los términos y circunstancias determinadas en él; y
+III. (DEROGADA, G.O. 27 DE JULIO DE 2012)
 
-IV. La manifestación respecto a la disposición de órganos susceptibles de ser donados.
+IV. (DEROGADA, G.O. 27 DE JULIO DE 2012)
+
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2012)</small>
 
 ###### Artículo 9.
 
-El Documento de Voluntad Anticipada suscrito ante Notario, deberá se (sic) notificado por éste a la Coordinación Especializada para los efectos a que haya lugar.
+El personal de salud, ante quien se otorgó el Formato, nombrará un responsable que será encargado de dar aviso a la Coordinación Especializada.
+
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2012)</small>
 
 ###### Artículo 10.
 
-En caso de que el enfermo en etapa terminal se encuentre imposibilitado para acudir ante el Notario, podrá suscribir el Documento de Voluntad Anticipada ante el personal de salud correspondiente y dos testigos en los términos del Formato que para los efectos legales y conducentes emita la Secretaría, mismo que deberá ser notificado a la Coordinación Especializada para los efectos a que haya lugar.
-
-###### Artículo 11.
-
-Una vez suscrito el Documento o el Formato de Voluntad Anticipada en los términos de los dos artículos anteriores, la Coordinación Especializada deberá hacerlo del conocimiento del Ministerio Público para los efectos a que haya lugar, y del personal de salud correspondiente para integrarlo, en su momento, al expediente clínico del enfermo en etapa terminal.
-
-###### Artículo 12.
+Podrán ser testigos del otorgamiento del Documento de Voluntad Anticipada o del otorgamiento del Formato toda persona que goce de capacidad de ejercicio.
 
 No podrán ser testigos:
 
-I. Los menores que no han cumplido 16 años de edad;
+I. Los menores de edad;
 
-II. Los que habitual o accidentalmente no disfrutan de su cabal juicio;
+II. El médico tratante;
 
-III. Los familiares del enfermo en etapa terminal hasta el cuarto grado;
+III. Los que habitual o accidentalmente no disfrutan de su cabal juicio;
 
-IV. Los que no entiendan el idioma que habla el enfermo en etapa terminal, salvo que se encuentre un intérprete presente; y
+IV. Los que no entiendan el idioma que habla el enfermo en etapa terminal, salvo que se encuentre un intérprete presente;
 
-V. Los que hayan sido condenados por el delito de falsedad.
+V. Los que hayan sido condenados por el delito de falsedad, y
 
-###### Artículo 13.
+VI. Los que se encuentren en algún supuesto de excepción establecido en la Ley.
 
-No podrán ser representante (sic) para la realización del Documento de Voluntad Anticipada:
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2012)</small>
 
-I. Las personas que no han cumplido 16 años de edad;
+###### Artículo 11.
 
-II. Los que habitual o accidentalmente no disfrutan de su cabal juicio;
+Podrá ser representante para el cumplimiento del Documento de Voluntad Anticipada o Formato cualquier persona con capacidad de ejercicio. El cargo es voluntario y gratuito, una vez aceptado constituye una obligación de desempeñarlo.
 
-III. Los que no entiendan el idioma que habla el enfermo en etapa terminal, salvo que se encuentre un intérprete presente; y
+No podrán ser representantes:
 
-IV. Los que hayan sido condenados por el delito de falsedad.
+I. Los menores de edad;
 
-###### Artículo 14.
+II. El médico tratante;
 
-El cargo de representante es voluntario y gratuito; pero el que lo acepte, se constituye en la obligación de desempeñarlo.
+III. Los que habitual o accidentalmente no disfrutan de su cabal juicio;
 
-###### Artículo 15.
+IV. Los que hayan sido condenados por el delito de falsedad, y
+
+V. Los que se encuentren en algún supuesto de excepción establecido en la Ley.
+
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2012)</small>
+
+###### Artículo 12.
 
 El representante que presente excusas, deberá hacerlo al momento en que tuvo noticia de su nombramiento.
 
-###### Artículo 16.
+Son obligaciones del representante:
+
+I. La revisión y confirmación de las disposiciones establecidas por el suscriptor en el Documento de Voluntad Anticipada o Formato;
+
+II. La verificación del cumplimiento exacto e inequívoco de las disposiciones establecidas en el Documento de Voluntad Anticipada;
+
+III. La verificación, cuando tenga conocimiento por escrito, de la integración de los cambios o modificaciones que realice el suscriptor al Documento de Voluntad Anticipada o Formato;
+
+IV. La defensa del Documento de Voluntad Anticipada o Formato, en juicio y fuera de él, así como de las circunstancias del cumplimiento de la voluntad del suscriptor y de la validez del mismo; y,
+
+V. Las demás que establezca la ley.
+
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2012)</small>
+
+###### Artículo 13.
 
 Pueden excusarse de ser representantes:
 
@@ -206,239 +284,295 @@ II. Los militares en servicio activo;
 
 III. Los que por el mal estado habitual de salud, o por no saber leer ni escribir, no puedan atender debidamente su representación;
 
-IV. Cuando por caso fortuito o fuerza mayor no pueda realizar el cargo conferido; y
+IV. Cuando por caso fortuito o fuerza mayor no pueda realizar el cargo conferido, y
 
 V. Los que tengan a su cargo otra representación en los términos de la presente Ley.
 
-###### Artículo 17.
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2012)</small>
 
-Son obligaciones del representante:
+###### Artículo 14.
 
-I. La revisión y confirmación de las disposiciones establecidas por el signatario en el Documento de Voluntad Anticipada;
+El Notario Público hará constar la identidad del otorgante del Documento de Voluntad Anticipada conforme a lo establecido en la Ley del Notariado del Distrito Federal.
 
-II. La verificación del cumplimiento exacto e inequívoco de las disposiciones establecidas en el Documento de Voluntad Anticipada;
+El personal de salud identificará al otorgante del Formato mediante:
 
-III. La verificación, cuando tenga conocimiento por escrito, de la integración de los cambios y/o modificaciones que realice el signatario al Documento de Voluntad Anticipada;
+I. Documento oficial con fotografía, y
 
-IV. La defensa del Documento de Voluntad Anticipada, en juicio y fuera de él, así como de las circunstancias del cumplimiento de la voluntad del signatario y de la validez del mismo; y,
+II. La Declaración de dos testigos mayores de edad, a su vez identificados conforme a la fracción anterior, expresándose así en el formato.
 
-V. Las demás que le imponga la ley.
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2012)</small>
 
-###### Artículo 18.
+###### Artículo 15.
 
-Los cargos de representante concluyen:
+El otorgante del Documento de Voluntad Anticipada, preferentemente asistirá al acto acompañado de aquél o aquellos que haya de nombrar como representante a efecto de asentar en el mismo, la aceptación del cargo.
 
-I. Por el término natural del encargo;
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JULIO DE 2012)</small>
 
-II. Por muerte del representante;
-
-III. Por muerte del representado;
-
-IV. Por incapacidad legal, declarada en forma;
-
-V. Por excusa que el juez califique de legítima, con audiencia de los interesados y del Ministerio Público, cuando se interesen menores (sic) o el Sistema para el Desarrollo Integral de la Familia del Distrito Federal en el ámbito de sus atribuciones; y,
-
-VI. Por revocación de sus nombramientos o remoción, hecha por el signatario para su realización.
-
-### CAPÍTULO TERCERO. DE LA NULIDAD Y REVOCACIÓN DE LA VOLUNTAD ANTICIPADA
-
-###### Artículo 19.
-
-Podrán suscribir el Documento de Voluntad Anticipada en los términos establecidos por la fracción III del artículo 7 de la presente Ley, por orden subsecuente y a falta de:
-
-I. El o la cónyuge;
-
-II. El concubinario o la concubina; o el o la conviviente;
-
-III. Los hijos mayores de edad consanguíneos o adoptados;
-
-IV. Los padres o adoptantes;
-
-V. Los nietos mayores de edad; y
-
-VI. Los hermanos mayores de edad o emancipados.
-
-El familiar signatario del Documento o Formato de Voluntad Anticipada en los términos del presente artículo fungirá a su vez como representante del mismo para los efectos de cumplimiento a que haya lugar.
-
-###### Artículo 20.
-
-Podrán suscribir el Documento de Voluntad Anticipada en los términos establecidos por la fracción IV del artículo 7 de la presente Ley, por orden e importancia de prelación y a falta de y de manera subsecuente:
-
-I. Los padres o adoptantes;
-
-II. Los familiares o personas que ejerzan la patria potestad del menor; o,
-
-III. Los hermanos mayores de edad o emancipados.
-
-El familiar signatario del Documento o Formato de Voluntad Anticipada en los términos del presente artículo fungirá a su vez como representante del mismo para los efectos de cumplimiento a que haya lugar.
-
-###### Artículo 21.
-
-En caso de que existan hijos menores de 18 años y mayores de 16 años podrán igualmente suscribir el Documento de Voluntad Anticipada en los supuestos establecidos en los dos artículos anteriores, a falta de las demás personas facultadas.
-
-###### Artículo 22.
-
-Cuando el Documento de Voluntad Anticipada sea suscrito ante Notario, éste dará lectura al mismo en voz alta a efecto de que el signatario asiente que es su voluntad la que propiamente se encuentra manifiesta en dicho documento.
-
-Cuando el solicitante del Documento de Voluntad Anticipada ignore el idioma del país, el Notario deberá nombrar a costa del solicitante un intérprete que sea perito traductor, quien concurrirá al acto y explicará totalmente al solicitante los términos y condiciones en que se suscribe el Documento de Voluntad Anticipada.
-
-### CAPÍTULO CUARTO. DEL CUMPLIMIENTO DE LA VOLUNTAD ANTICIPADA
-
-###### Artículo 23.
-
-El Notario deberá verificar la identidad del solicitante, y de que se halla en su cabal juicio y libre de cualquier coacción.
-
-###### Artículo 24.
-
-Si la identidad del solicitante no pudiere verificarse, se declarará esta circunstancia por el Notario, solicitando la presencia de dos testigos, que bajo protesta de decir verdad, verifiquen la personalidad de este y en caso de que no existiera la posibilidad de presencia de los dos testigos, el Notario agregará al Documento de Voluntad Anticipada todas las señas o características físicas y/o personales del solicitante.
-
-###### Artículo 25.
-
-En caso de que el Documento de Voluntad Anticipada sea suscrito en los términos del artículo 10 de la presente Ley, igualmente deberá darse lectura en voz alta, a efecto de que el solicitante asiente que es su voluntad la que propiamente se encuentra manifiesta en dicho documento, pero no tendrá validez el Documento de Voluntad Anticipada hasta que no se verifique la identidad de este por los dos testigos.
-
-###### Artículo 26.
-
-Se prohíbe a los Notarios y a cualesquiera otras personas que hayan de redactar Documentos de Voluntad Anticipada, dejar hojas en blanco y servirse de abreviaturas o cifras, bajo la pena de quinientos días de salario mínimo general vigente como multa.
-
-###### Artículo 27.
-
-El solicitante expresará de modo claro y terminante su voluntad al Notario o a las personas facultadas para los efectos por la Secretaría según sea el caso, quienes redactarán por escrito las cláusulas del Documento de Voluntad Anticipada o cumplirán con los requisitos del Formato correspondiente, sujetándose estrictamente a la voluntad del solicitante y las leerá en voz alta para que éste manifieste si está conforme.
-
-Si lo estuviere, lo firmarán el solicitante, el Notario, los testigos y el intérprete, según el caso, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
-
-El solicitante preferentemente asistirá al acto acompañado de aquél que haya de nombrar como representante a efecto de asentar en el Documento de Voluntad Anticipada, la aceptación del cargo.
-
-### CAPÍTULO QUINTO. DE LA COORDINACIÓN ESPECIALIZADA EN MATERIA DE VOLUNTAD ANTICIPADA
-
-###### Artículo 28.
-
-En los casos previstos en los artículos 29, 30, 31, 32 y 33 de la presente Ley, así como cuando el solicitante o el Notario lo requieran, deberán concurrir al otorgamiento del acto, dos testigos y firmar el Documento de Voluntad Anticipada.
-
-###### Artículo 29.
+###### Artículo 16.
 
 Cuando el solicitante declare que no sabe o no puede firmar el Documento de Voluntad Anticipada o el Formato según sea el caso, deberá igualmente suscribirse ante dos testigos, y uno de ellos firmará a ruego del solicitante, quien imprimirá su huella digital.
 
-###### Artículo 30.
+I. (DEROGADA, G.O. 27 DE JULIO DE 2012)
+
+II. (DEROGADA, G.O. 27 DE JULIO DE 2012)
+
+III. (DEROGADA, G.O. 27 DE JULIO DE 2012)
+
+IV. (DEROGADA, G.O. 27 DE JULIO DE 2012)
+
+V. (DEROGADA, G.O. 27 DE JULIO DE 2012)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JULIO DE 2012)</small>
+
+###### Artículo 17.
 
 Si el solicitante fuere enteramente sordo o mudo, pero que sepa leer, deberá dar lectura al Documento de Voluntad Anticipada o Formato correspondiente; si no supiere o no pudiere hacerlo, designará una persona que lo haga a su nombre.
 
-###### Artículo 31.
+I. (DEROGADA, G.O. 27 DE JULIO DE 2012)
 
-En caso de que el solicitante fuere sordomudo, y supiera el lenguaje a señas, el Notario estará a lo dispuesto por el artículo 22 párrafo segundo de la presente Ley.
+II. (DEROGADA, G.O. 27 DE JULIO DE 2012)
 
-###### Artículo 32.
+III. (DEROGADA, G.O. 27 DE JULIO DE 2012)
 
-Cuando el solicitante sea ciego o no pueda o no sepa leer, se dará lectura al documento de Voluntad Anticipada dos veces: una por el Notario, como está prescrito en el artículo 22 primer párrafo, y otra, en igual forma, por uno de los testigos u otra persona que el solicitante designe.
+IV. (DEROGADA, G.O. 27 DE JULIO DE 2012)
 
-Si el solicitante no puede o no sabe leer y escribir, concurrirá al acto una persona que fungirá como intérprete, quien corroborará la voluntad que dicte aquél.
+V. (DEROGADA, G.O. 27 DE JULIO DE 2012)
 
-###### Artículo 33.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JULIO DE 2012)</small>
 
-Cuando el solicitante ignore el idioma del país, si puede, manifestará su voluntad, que será traducida al español por el intérprete a que se refiere el artículo 22, párrafo segundo.
+###### Artículo 18.
 
-La traducción se transcribirá como Documento de Voluntad Anticipada y tanto el suscrito en el idioma original como el traducido, serán firmados por el solicitante, el intérprete y el Notario, integrándose como un solo documento.
+El enfermo en etapa terminal o su representante deberán entregar el Documento de Voluntad Anticipada al personal de salud encargado de implementar el tratamiento respectivo, para su integración al expediente clínico, y dar cumplimiento a las disposiciones establecidas en el mismo. Los cuidados paliativos se proporcionarán desde el momento en que se diagnostica el estado terminal de la enfermedad por el médico especialista.
 
-Si el solicitante no puede o no sabe leer, dictará en su idioma su voluntad, al intérprete; traducida ésta, se procederá como dispone el párrafo primero de este artículo.
+I. (DEROGADA, G.O. 27 DE JULIO DE 2012)
 
-###### Artículo 34.
+II. (DEROGADA, G.O. 27 DE JULIO DE 2012)
 
-Las formalidades expresadas en este capítulo se practicarán en un solo acto que comenzará con la lectura del Documento de Voluntad Anticipada o el Formato correspondiente y el Notario o la persona facultada para los efectos, dará fe de haberse llenado aquéllas.
+III. (DEROGADA, G.O. 27 DE JULIO DE 2012)
 
-###### Artículo 35.
+IV. (DEROGADA, G.O. 27 DE JULIO DE 2012)
 
-El solicitante o su representante deberán entregar el Documento de Voluntad Anticipada al personal de salud encargado de implementar el tratamiento del enfermo en etapa terminal, para su integración al expediente clínico, y dar cumplimiento a las disposiciones establecidas en el mismo.
+V. (DEROGADA, G.O. 27 DE JULIO DE 2012)
 
-###### Artículo 36.
+VI. (DEROGADA, G.O. 27 DE JULIO DE 2012)
 
-Es nulo el Documento de Voluntad Anticipada realizado bajo las siguientes circunstancias:
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 27 DE JULIO DE 2012)</small>
 
-I. El realizado en documento diverso al Documento de Voluntad Anticipada o el Formato correspondiente autorizado por la Secretaría;
+### CAPÍTULO TERCERO. DE LA NULIDAD Y REVOCACIÓN DEL DOCUMENTO Y FORMATO
 
-II. El realizado bajo influencia de amenazas contra el signatario o sus bienes, o contra la persona o bienes de su cónyuge, parientes, concubinario o concubina;
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JULIO DE 2012)</small>
 
-III. El captado por dolo o fraude;
+###### Artículo 19.
 
-IV. Aquel en el que el signatario no exprese clara e inequívocamente su voluntad, sino sólo por señales o monosílabos en respuesta a las preguntas que se le hacen;
+Es nulo el Documento de Voluntad Anticipada o el Formato cuando:
 
-V. Aquél que se otorga en contravención a las formas prescritas por la ley; y
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
 
-VI. Aquel en el que medie alguno de los vicios del consentimiento para su realización.
+I. Es otorgado en contravención a lo dispuesto por esta Ley;
 
-###### Artículo 37.
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
 
-El signatario que se encuentre en algunos de los supuestos establecidos en el artículo anterior, podrá, luego que cese dicha circunstancia, revalidar su Documento o Formato de Voluntad Anticipada con las mismas solemnidades que si lo signara de nuevo; de lo contrario será nula la revalidación.
+II. Es realizado bajo influencia de amenazas contra el suscriptor o sus bienes, o contra la persona o bienes de sus parientes por consangüineidad (sic) en línea recta sin limitación de grado, en la colateral hasta cuarto grado y por afinidad hasta el segundo grado, cónyuge, concubinario o concubina o conviviente;
 
-###### Artículo 38.
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
 
-El Documento o Formato de Voluntad Anticipada únicamente podrá ser revocado por el signatario del mismo en cualquier momento.
+III. El suscriptor no exprese clara e inequívocamente su voluntad, sino sólo por señales o monosílabos en respuesta a las preguntas que se le hacen, y
+
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
+
+IV. Aquel en el que medie alguno de los vicios de la voluntad para su otorgamiento.
+
+V. (DEROGADA, G.O. 27 DE JULIO DE 2012)
+
+VI. (DEROGADA, G.O. 27 DE JULIO DE 2012)
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 27 DE JULIO DE 2012)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JULIO DE 2012)</small>
+
+###### Artículo 20.
+
+El suscriptor del Documento de Voluntad Anticipada o el Formato, que se encuentre en algunos de los supuestos establecidos en el artículo anterior, podrá, luego que cese dicha circunstancia, convalidarlo con las formalidades previstas en esta Ley.
+
+I. (DEROGADA, G.O. 27 DE JULIO DE 2012)
+
+II. (DEROGADA, G.O. 27 DE JULIO DE 2012)
+
+III. (DEROGADA, G.O. 27 DE JULIO DE 2012)
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 27 DE JULIO DE 2012)</small>
+
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2012)</small>
+
+###### Artículo 21.
+
+El Documento de Voluntad Anticipada y el Formato podrán ser revocados en cualquier momento mediante la manifestación de la voluntad con las mismas formalidades que señala esta Ley para su otorgamiento.
 
 No podrán por ninguna circunstancia establecerse o pretenderse hacer valer disposiciones testamentarias, legatarias o donatarias de bienes, derechos u obligaciones diversos a los relativos a la Voluntad Anticipada en los documentos o formatos que regula la presente Ley.
 
-###### Artículo 39.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JULIO DE 2012)</small>
 
-En caso de que existan dos o más Documentos o Formatos de Voluntad Anticipada será válido el último firmado por el signatario.
+###### Artículo 22.
 
-###### Artículo 40.
+En caso de que existan dos o más Documentos de Voluntad Anticipada o Formatos será válido el último otorgado.
 
-Para efectos del cumplimiento de las disposiciones establecidas en el Documento o Formato de Voluntad Anticipada, el signatario o en su caso su representante, deberá solicitar al personal de salud correspondiente se efectúen las disposiciones establecidas en dicho documento.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 27 DE JULIO DE 2012)</small>
 
-El personal de salud correspondiente deberá realizar dichas disposiciones en los términos solicitados y prescritos en el Documento o Formato de Voluntad Anticipada y en referencia al derecho establecido para ello en el artículo 16 Bis 3 de la Ley de Salud.
+### CAPÍTULO CUARTO. DEL CUMPLIMIENTO DE LA VOLUNTAD ANTICIPADA
 
-###### Artículo 41.
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2012)</small>
 
-Al momento en que el personal de salud correspondiente dé inicio al cumplimiento de las disposiciones y términos contenidos en el Documento de Voluntad Anticipada deberá asentar en el historial clínico del enfermo en etapa terminal, toda la información que haga constar dicha circunstancia hasta su terminación, en los términos de las disposiciones de salud correspondientes.
+###### Artículo 23.
 
-Para los efectos del párrafo anterior se incluirán los Cuidados Paliativos, las Medidas Mínimas Ordinarias, la Sedación Controlada y el tratamiento Tanatológico que el personal de salud correspondiente determine.
+El suscriptor solicitará, al médico tratante, se apliquen las disposiciones contenidas en el Documento de Voluntad Anticipada o Formato.
 
-###### Artículo 42.
+Cuando el suscriptor se encuentre incapacitado para expresar su solicitud, le corresponde a su representante el cumplimiento de dichas disposiciones.
 
-El personal de salud a cargo de cumplimentar las disposiciones establecidas en el Documento o Formato de Voluntad Anticipada y las disposiciones de la presente Ley, cuyas creencias religiosas o convicciones personales sean contrarias a tales disposiciones, podrán ser objetores de conciencia y por tal razón excusarse de intervenir en su realización.
+Los familiares del enfermo en etapa terminal, tienen la obligación de respetar la decisión que de manera voluntaria tome el enfermo en los términos de esta Ley.
 
-Será obligación de la Secretaría, garantizar y vigilar en las instituciones de salud, la oportuna prestación de los servicios y la permanente disponibilidad de personal de salud no objetor, a fin de verificar el cumplimiento de la Voluntad Anticipada del enfermo en etapa terminal.
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2012)</small>
+
+###### Artículo 24.
+
+Al momento en que el personal de salud correspondiente dé inicio al cumplimiento de las disposiciones y términos contenidos en el Documento de Voluntad Anticipada o Formato, deberá asentar en el historial clínico del enfermo en etapa terminal, toda la información que haga constar dicha circunstancia hasta su conclusión, en los términos de las disposiciones de salud correspondientes.
+
+Para los efectos del párrafo anterior se incluirá el tratamiento en Cuidados Paliativos que el personal de salud correspondiente determine.
+
+El paciente en situación terminal que esté recibiendo los cuidados paliativos, podrá solicitar nuevamente recibir el tratamiento curativo en la forma y términos previstos en la presente Ley.
+
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2012)</small>
+
+###### Artículo 25.
+
+El personal de salud a cargo de cumplimentar lo dispuesto en el Documento de Voluntad Anticipada o el Formato y lo prescrito en la presente Ley, cuyas creencias religiosas o convicciones personales sean contrarias a tales disposiciones, podrán ser objetores de conciencia y por tal razón excusarse de intervenir en su aplicación.
+
+Será obligación de la Secretaría, garantizar y vigilar en las instituciones de salud, la oportuna prestación de los servicios y la permanente disponibilidad de personal de salud no objetor, a fin de garantizar el otorgamiento de los Cuidados Paliativos como parte del cumplimiento de la voluntad anticipada del enfermo en etapa terminal.
 
 La Secretaría en el ámbito de sus atribuciones y posibilidades financieras, ofrecerá atención médica domiciliaria a enfermos en etapa terminal, de conformidad con los lineamientos que para tal efecto emita en los términos de la presente Ley.
 
-Asimismo, la Secretaría emitirá los lineamientos correspondientes para la aplicación de la Ley de Voluntad Anticipada en las instituciones privadas de Salud.
+Asimismo, la Secretaría emitirá los lineamientos correspondientes para la aplicación de la Ley de Voluntad Anticipada en las instituciones de salud de carácter privado.
 
-###### Artículo 43.
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2012)</small>
+
+###### Artículo 26.
 
 El personal de salud en ningún momento y bajo ninguna circunstancia podrá suministrar medicamentos o tratamientos médicos, que provoquen de manera intencional el deceso del enfermo en etapa terminal.
 
-###### Artículo 44.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JULIO DE 2012)</small>
 
-No podrán realizarse las disposiciones contenidas en el Documento o Formato de Voluntad Anticipada y en la presente Ley, a enfermo que no se encuentre en etapa terminal.
+###### Artículo 27.
 
-###### Artículo 45.
+No podrán aplicarse las disposiciones contenidas en el Documento de Voluntad Anticipada o en el Formato a enfermos que no se encuentre en etapa terminal, de conformidad con la presente Ley.
 
-La Coordinación Especializada es la unidad administrativa adscrita a la Secretaría encargada de velar por el cumplimiento de las disposiciones establecidas en la presente Ley y en los Documentos y Formatos de Voluntad Anticipada.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 27 DE JULIO DE 2012)</small>
 
-###### Artículo 46.
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 27 DE JULIO DE 2012)</small>
+
+### CAPÍTULO QUINTO. DE LA COORDINACIÓN ESPECIALIZADA EN MATERIA DE VOLUNTAD ANTICIPADA
+
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2012)</small>
+
+###### Artículo 28.
+
+La Coordinación Especializada es la unidad administrativa, adscrita a la Secretaría, encargada de velar por el cumplimiento de las disposiciones establecidas en la presente Ley, en los Documentos de Voluntad Anticipada y en los Formatos.
+
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2012)</small>
+
+###### Artículo 29.
 
 Son atribuciones de la Coordinación Especializada:
 
-I. Recibir, archivar y resguardar los Documentos y Formatos de Voluntad Anticipada, procedentes de las instituciones públicas y privadas de salud;
+I. Recibir, archivar y resguardar los Documentos y Formatos a los que se refiere la presente Ley;
 
-II. Hacer del conocimiento del Ministerio Público los Documentos y Formatos de Voluntad Anticipada; procedentes de las instituciones públicas y privadas de salud;
+II. Coadyuvar con el registro de donantes en coordinación con el Centro Nacional de Trasplantes y el Centro de Trasplantes del Distrito Federal;
 
-III. Supervisar en la esfera de su competencia:
+III. Fomentar, promover y difundir la cultura de la voluntad anticipada, sustentada en la deliberación previa e informada que realicen las personas, tendiente a fortalecer la autonomía de su voluntad;
 
-a) El cumplimiento de las disposiciones de los Documentos y Formatos de Voluntad Anticipada; y
+IV. Proponer, en el ámbito de su competencia, la celebración de convenios de colaboración con otras instituciones y asociaciones públicas o privadas en las que se promuevan (sic) la Ley;
 
-b) Lo relativo en materia de Trasplantes y Donación de Órganos y Tejidos;
+V. Realizar campañas permanentes de sensibilización y capacitación dirigidas a la sociedad, personal de salud de la Secretaría y de las instituciones de salud de carácter privado, respecto a la materia de la Ley;
 
-IV. Coadyuvar con el control y registro de donantes y receptores de Órganos y Tejidos en coordinación con el Centro Nacional de Trasplantes y los Centros Estatales de Trasplantes en el ámbito de sus atribuciones;
+VI. Vigilar el cumplimiento de las disposiciones establecidas en los Documentos de Voluntad Anticipada y Formatos, y
 
-V. Fungir como vínculo con los Centros Nacional y Estatales de Trasplantes en el ámbito de su competencia;
+VII. Las demás que le otorguen otras leyes y reglamentos.
 
-VI. Fomentar, promover y difundir la cultura de Donación de Órganos y Tejidos en el ámbito de su competencia;
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2012)</small>
 
-VII. Proponer en el ámbito de su competencia, la celebración de convenios de colaboración con otras instituciones y asociaciones públicas o privadas en las que se promuevan y realicen Trasplantes de Órganos y Tejidos; y
+###### Artículo 30.
 
-VIII. Las demás le otorguen las otras leyes y reglamentos.
+Son obligaciones de la Coordinación Especializada:
+
+I. Supervisar que el personal de salud proporcione al otorgante información clara y oportuna, respecto de las condiciones de la enfermedad de que se trate, así como los tratamientos respectivos, a fin de fortalecer la autonomía de la voluntad del paciente y posibilitar que el otorgamiento del Formato o Documento de Voluntad Anticipada, sea resultado de un análisis y deliberación personal previa, sobre la base de dicha información, y
+
+II. Proporcionar información al personal de salud para que en los casos en que el otorgante del Documento de Voluntad Anticipada exprese en éste su decisión de ser sometido a medios, tratamientos o procedimientos médicos que pretendan prolongar su vida, éstos no sean contraindicados para la enfermedad de que se trate o vayan en contra de las prácticas médicas o la ética profesional.
+
+###### Artículo 31.
+
+(DEROGADO, G.O. 27 DE JULIO DE 2012)
+
+###### Artículo 32.
+
+(DEROGADO, G.O. 27 DE JULIO DE 2012)
+
+###### Artículo 33.
+
+(DEROGADO, G.O. 27 DE JULIO DE 2012)
+
+###### Artículo 34.
+
+(DEROGADO, G.O. 27 DE JULIO DE 2012)
+
+###### Artículo 35.
+
+(DEROGADO, G.O. 27 DE JULIO DE 2012)
+
+###### Artículo 36.
+
+(DEROGADO, G.O. 27 DE JULIO DE 2012)
+
+###### Artículo 37.
+
+(DEROGADO, G.O. 27 DE JULIO DE 2012)
+
+###### Artículo 38.
+
+(DEROGADO, G.O. 27 DE JULIO DE 2012)
+
+###### Artículo 39.
+
+(DEROGADO, G.O. 27 DE JULIO DE 2012)
+
+###### Artículo 40.
+
+(DEROGADO, G.O. 27 DE JULIO DE 2012)
+
+###### Artículo 41.
+
+(DEROGADO, G.O. 27 DE JULIO DE 2012)
+
+###### Artículo 42.
+
+(DEROGADO, G.O. 27 DE JULIO DE 2012)
+
+###### Artículo 43.
+
+(DEROGADO, G.O. 27 DE JULIO DE 2012)
+
+###### Artículo 44.
+
+(DEROGADO, G.O. 27 DE JULIO DE 2012)
+
+###### Artículo 45.
+
+(DEROGADO, G.O. 27 DE JULIO DE 2012)
+
+###### Artículo 46.
+
+(DEROGADO, G.O. 27 DE JULIO DE 2012)
 
 ###### Artículo 47.
 
-Las disposiciones derivadas de la Voluntad Anticipada establecidas en el presente Capítulo en materia de Trasplantes y Donación de Órganos se regirán por lo dispuesto en la Ley de Salud para el Distrito Federal y en la Ley General de Salud, en los términos que las mismas determinen en lo conducente y aplicable en el Distrito Federal.
+(DEROGADO, G.O. 27 DE JULIO DE 2012)
 
 ...
 
@@ -465,3 +599,15 @@ NOVENO.- Publíquese el presente Decreto en el Diario Oficial de la Federación 
 Recinto de la Asamblea Legislativa del Distrito Federal, a los cuatro días del mes de diciembre del año dos mil siete.- POR LA MESA DIRECTIVA.- DIP. KENIA LÓPEZ RABADÁN, PRESIDENTA.- DIP. MARÍA ELBA GÁRFIAS MALDONADO, SECRETARIA.- DIP. ALFREDO VINALAY MORA, SECRETARIO.- (Firmas)
 
 En cumplimiento de lo dispuesto por el artículo 122, Apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los diecinueve días del mes de diciembre del año dos mil siete.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE SALUD, MANUEL MONDRAGÓN Y KALB.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 27 DE JULIO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. La Secretaría de Salud, conforme a la suficiencia presupuestal asignada por la Asamblea Legislativa del Distrito Federal, instrumentará las acciones establecidas en el presente Decreto.
+
+SEGUNDO.- A partir de la entrada en vigor del presente Decreto, se derogan las demás disposiciones que contravengan al mismo.
+
+TERCERO.- El Jefe de Gobierno del Distrito Federal tendrá 180 días naturales para modificar el Reglamento y los lineamientos conducentes para la aplicación de la presente Ley.
+
+CUARTO.- La Asamblea Legislativa del Distrito Federal, deberá establecer en el Presupuesto de Egresos para el ejercicio fiscal 2013, los recursos presupuestales correspondientes y suficientes para la operación y difusión de la Ley de Voluntad Anticipada para el Distrito Federal.
