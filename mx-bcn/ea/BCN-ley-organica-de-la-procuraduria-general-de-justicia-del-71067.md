@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-procuraduria-general-de-justicia-del-71067"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-11-13"
-last_updated: "2011-10-28"
+last_updated: "2012-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
+LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2012.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 13 de noviembre de 2009.
 
@@ -111,77 +111,123 @@ XIX.- Certificar copias sobre constancias de actuaciones o registros que obren e
 
 XX.- Proporcionar la información que en materia de seguridad pública le sea requerida y mantenerla actualizada, en términos de la Ley de Seguridad Pública del Estado y las disposiciones respectivas; y (sic)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NÚMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 REFORMADA, P.O. 15 DE OCTUBRE DE 2010
 
 XXI.- Perseguir y conocer de los delitos contra la salud en su modalidad de narcomenudeo a que se refiere el capítulo VII del título XVIII de la Ley General de Salud, así como recibir su investigación, cuando se colmen los supuestos del artículo 474 de dicho ordenamiento;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
 XXII.- Remitir al Ministerio Público de la Federación cuando éste así lo solicite, conforme a lo dispuesto en el inciso b) de la fracción IV del artículo 474 de la Ley General de Salud, la investigación correspondiente relativa a los delitos contra la salud en su modalidad de narcomenudeo previstos en el capítulo VII del título XVIII de dicho ordenamiento;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
 XXIII.- Informar oportunamente al Ministerio Público de la Federación, del inicio de las averiguaciones previas por los delitos contra la salud en su modalidad de narcomenudeo a que se refiere el capítulo VII del título XVIII de la Ley General de Salud;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
 XXIV.- Practicar en los casos a que se refiere el párrafo segundo del artículo 474 de la Ley General de Salud, las diligencias de averiguación previa que correspondan y remitir el acta o actas levantadas y todo lo que con ellas se relacione, al Ministerio Público de la Federación dentro de los tres días de haberlas concluido;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
 XXV.- Remitir el expediente relativo a los delitos contra la salud en su modalidad de narcomenudeo a que se refiere el capítulo VII del título XVIII de la Ley General de Salud al Ministerio Público de la Federación o al juez federal que corresponda, dependiendo de la etapa procesal en que se encuentre, a fin de que se continúe el procedimiento, cuando de las constancias de éste se advierta su incompetencia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
 XXVI.- Comprar, adquirir, o recibir la transmisión material de algún narcótico, por conducto de su policía y para fines de investigación, a efecto de lograr la detención del probable responsable del comercio o suministro de narcóticos o de la posesión de los mismos con dichos fines y el aseguramiento correspondiente; siempre y cuando haya sido autorizado en cada caso por el Titular del Ministerio Público de la Federación o por el servidor público que éste designe;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
 XXVII.- Señalar por escrito en la orden respectiva, los lineamientos, términos, limitaciones, modalidades y condiciones a los que deberá sujetarse el agente o agentes de la policía que la ejecuten, una vez expedida la autorización a que se refiere la fracción anterior;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
 XXVIII.- Realizar a la Secretaría de Salud del Estado el reporte de no ejercicio de la acción penal por el delito previsto en el artículo 477 de la Ley General de Salud en contra de quien sea farmacodependiente o consumidor y posea alguno de los narcóticos señalados en la tabla contenida en el artículo 479 de dicha Ley, siempre y cuando sea fuera de los lugares señalados en la fracción II del artículo 475 y se colmen los supuestos del artículo 474 del mismo ordenamiento;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
 XXIX.- Informar de inmediato y en su caso dar intervención a las autoridades sanitarias competentes, para los efectos del tratamiento que corresponda, tan pronto identifique que una persona relacionada con un procedimiento es farmacodependiente;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
 XXX.- Informar según le corresponda, a la autoridad administrativa competente, cuando tenga conocimiento que el propietario, poseedor, arrendatario o usufructuario de un establecimiento de la naturaleza que sea lo empleare para realizar cualquiera de las conductas sancionadas en el capítulo VII del título XVIII de la Ley General de Salud;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
 XXXI.- Recibir del Ministerio Público de la Federación o de quien para tal efecto haya designado, el aviso mediante el cual éste autorizó para fines de investigación a los agentes de la policía bajo su conducción y mando, para comprar, adquirir o recibir la transmisión material de algún narcótico en la entidad para lograr la detención y el aseguramiento correspondiente del probable responsable del comercio o suministro de narcóticos o de la posesión de los mismos con dichos fines;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 236 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2012)</small>
 
-XXXII.- las demás que le otorguen las disposiciones legales y reglamentarias aplicables.
+XXXII.- Preparar y ejercer la acción de extinción de dominio, así como ejercer las atribuciones que le correspondan en el procedimiento respectivo, de conformidad con la ley de la materia, y demás disposiciones aplicables;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 236 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2012)</small>
+
+XXXIII.- Ejercer las acciones que las disposiciones normativas en materia de extinción de dominio de bienes prevean a favor o en beneficio de las víctimas y ofendidos, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 236 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2012)</small>
+
+XXXIV.- Las demás que le otorguen las disposiciones legales y reglamentarias aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 236 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2012)</small>
+
+###### ARTÍCULO 6 Bis.
+
+Las atribuciones en materia de extinción de dominio a que se refiere la fracción XXXII del artículo 6 de esta Ley y que ejercerá el Ministerio Público especializado en la materia, comprenden:
+
+I.- Solicitar al Juez las medidas cautelares necesarias y, en su caso, su ampliación, respecto de los bienes señalados en la Ley de la materia o su ampliación;
+
+II.- Requerir información o documentos del sistema financiero, a través del Juez de Extinción de Dominio, que puedan servir para la sustanciación del procedimiento;
+
+III.- Vigilar el respeto, durante el transcurso del procedimiento, a las garantías de audiencia y debido proceso del afectado, terceros, ofendidos o víctimas del delito;
+
+IV.- Preparar, ejercer la Acción de Extinción de Dominio y ser parte en los términos que señale la ley de la materia;
+
+V.- Ampliar la Acción de Extinción de Dominio;
+
+VI.- Someter la resolución de improcedencia de la Acción de Extinción de Dominio a revisión del Procurador;
+
+VII.- Someter al visto bueno del Procurador el desistimiento de la Acción de Extinción de Dominio;
+
+VIII.- Solicitar al Procurador la ampliación del término para la preparación de la Acción de Extinción de Dominio;
+
+IX.- Ordenar la búsqueda o solicitar información, a las autoridades correspondientes, de las personas a notificar personalmente de las que no se conozca su domicilio;
+
+X.- Aclarar y subsanar las observaciones que formule el Juez por el ejercicio de la acción;
+
+XI.- Ofrecer los medios de prueba conducentes para acreditar la existencia de los hechos ilícitos y que los bienes son de los señalados en la ley de la materia;
+
+XII.- Presentar los medios de impugnación que señala la ley en la materia, cuando sea procedente, y
+
+XIII.- Las demás que le otorguen las disposiciones legales y reglamentarias aplicables.
 
 ###### ARTÍCULO 7.
 
@@ -495,17 +541,17 @@ b) La remoción.
 
 La separación del servicio de carrera de procuración de justicia, por el incumplimiento de los requisitos de permanencia, se realizará como sigue:
 
-I.- El superior jerárquico deberá presentar queja fundada y motivada ante la Visitaduría General, en la cual deberá señalar el requisito de permanencia que presuntamente haya sido incumplido por el miembro del servicio de carrera de procuración de justicia de que se trate; en el escrito de queja ofrecerá las pruebas y, en su caso, indicará los nombres de testigos y peritos y señalarán los archivos para la compulsa de aquellos documentos que no tuviere en su poder;
+I. El superior jerárquico deberá presentar queja fundada y motivada ante la Visitaduría General, en la cual deberá señalar el requisito de permanencia que presuntamente haya sido incumplido por el miembro del servicio de carrera de procuración de justicia de que se trate; en el escrito de queja ofrecerá las pruebas y, en su caso, indicará los nombres de testigos y peritos y señalarán los archivos para la compulsa de aquellos documentos que no tuviere en su poder;
 
-II.- La Visitaduría General notificará la queja al miembro del servicio de carrera de procuración de justicia de que se trate y lo citará a una audiencia para que manifieste lo que a su derecho convenga y ofrezca pruebas, indicando los nombres de testigos y peritos y señalando los archivos para la compulsa de aquellos documentos que no tuviere en su poder. La Visitaduría General señalará fecha para que tenga verificativo la audiencia de desahogo de pruebas y alegatos;
+II. La Visitaduría General notificará la queja al miembro del servicio de carrera de procuración de justicia de que se trate y lo citará a una audiencia para que manifieste lo que a su derecho convenga y ofrezca pruebas, indicando los nombres de testigos y peritos y señalando los archivos para la compulsa de aquellos documentos que no tuviere en su poder. La Visitaduría General señalará fecha para que tenga verificativo la audiencia de desahogo de pruebas y alegatos;
 
-III.- La Visitaduría General podrá suspender al miembro del servicio de carrera de procuración de justicia hasta en tanto resuelva lo conducente;
+III. La Visitaduría General podrá suspender al miembro del servicio de carrera de procuración de justicia hasta en tanto resuelva lo conducente;
 
-IV.- Una vez celebrada la audiencia, agotadas las fases probatoria y de alegatos, la Visitaduría General resolverá sobre la queja respectiva, y
+IV. Una vez celebrada la audiencia, agotadas las fases probatoria y de alegatos, la Visitaduría General resolverá sobre la queja respectiva, y
 
 Cuando se resuelva la separación del servicio de carrera, se procederá a la cancelación del certificado del servidor público, debiéndose hacer la anotación respectiva en el Registro Nacional de Personal de Seguridad Pública.
 
-V.- Contra la resolución de la Visitaduría General procederá el recurso de inconformidad ante el Procurador, el cual se substanciará en los términos que disponga el Reglamento.
+V. Contra la resolución de la Visitaduría General procederá el recurso de inconformidad ante el Procurador, el cual se substanciará en los términos que disponga el Reglamento.
 
 ###### ARTÍCULO 37.
 
@@ -541,9 +587,23 @@ V.- No trabar el aseguramiento de bienes, objetos, instrumentos o productos de d
 
 VI.- Omitir la práctica de las diligencias necesarias en cada asunto;
 
-VII.- Incumplir cualquiera de las obligaciones a que se refiere el siguiente artículo, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 236 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII.- Las demás que establezcan otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2012)</small>
+
+VII.- Incumplir cualquiera de las obligaciones a que se refiere el siguiente artículo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 236 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2012)</small>
+
+VIII.- Abstenerse de ejercer la acción de extinción de dominio en los casos y en los términos que establezca la ley de la materia, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 236 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2012)</small>
+
+IX.- Las demás que establezcan otras disposiciones aplicables.
 
 ###### ARTÍCULO 41.
 
@@ -679,15 +739,15 @@ SECRETARIO GENERAL DE GOBIERNO.
 
 JOSÉ FRANCISCO BLAKE MORA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 22 DE ENERO DE 2010.
 
-LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
 
 P.O. 23 DE ABRIL DE 2010.
 
-EL DECRETO CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+EL DECRETO CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.
 
 P.O. 15 DE OCTUBRE DE 2010.
 
@@ -698,3 +758,11 @@ SEGUNDO.- Las autoridades locales desde el momento en que se publique este Decre
 P.O. 28 DE OCTUBRE DE 2011.
 
 ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE JULIO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor a los noventa días posteriores de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- En tanto el Ejecutivo estatal realice las adecuaciones a la reglamentación correspondiente, a fin de dar el debido cumplimiento a las disposiciones de este ordenamiento, serán competentes para conocer sobre los delitos previstos en el artículo 4 párrafo primero de esta ley y ejercer la acción de extinción de dominio, las áreas o unidades adscritas a la Subprocuraduría contra la Delincuencia Organizada de la Procuraduría General de Justicia del Estado, de conformidad con los acuerdos que para tal efecto emita el Procurador.
+
+TERCERO.- En tanto el Poder Judicial del Estado realice las adecuaciones necesarias a su estructura interna, a fin de dar cumplimiento en el ámbito de su competencia a lo establecido en esta ley, serán competentes para conocer del procedimiento de extinción de dominio los juzgados de lo civil, de conformidad con los acuerdos que para tal efecto determine el Consejo de la Judicatura.
