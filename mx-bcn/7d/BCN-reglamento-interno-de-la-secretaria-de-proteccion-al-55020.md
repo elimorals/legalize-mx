@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-proteccion-al-55020"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-16"
-last_updated: "2008-09-12"
+last_updated: "2012-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,15 @@ state: "BCN"
 ---
 # REGLAMENTO INTERNO DE LA SECRETARIA DE PROTECCION AL AMBIENTE
 
-REGLAMENTO INTERNO DE LA SECRETARIA DE PROTECCION AL AMBIENTE
+REGLAMENTO INTERNO DE LA SECRETARÍA DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE PROTECCIÓN AL AMBIENTE, PUBLICADO EN EL P.O. DE 27 DE JULIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 16 de marzo de 2007.
 
-EU0GENIO ELORDUY WALTHER, GOBERNADOR DEL ESTADO, EN EJERCICIO DE LA FACULTAD QUE ME CONFIERE EL ARTÍCULO 49 FRACCIONES I Y XVI, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, Y CON FUNDAMENTO EN LOS ARTÍCULOS 3, 9 Y 10, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, Y
+EUGENIO ELORDUY WALTHER, GOBERNADOR DEL ESTADO, EN EJERCICIO DE LA FACULTAD QUE ME CONFIERE EL ARTÍCULO 49 FRACCIONES I Y XVI, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, Y CON FUNDAMENTO EN LOS ARTÍCULOS 3, 9 Y 10, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, Y
 
 CONSIDERANDO
 
@@ -797,8 +799,20 @@ SECRETARIO DE PROTECCIÓN AL AMBIENTE
 
 ENRIQUE VILLEGAS IBARRA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 12 DE SEPTIEMBRE DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE JULIO DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interno de la Secretaría de Protección al Ambiente, publicado en el Periódico Oficial del Estado, en fecha 16 de marzo de 2007, y se derogan todas aquellas disposiciones que se opongan al presente ordenamiento.
+
+TERCERO.- Las unidades administrativas con denominación nueva o distinta que aparecen en el presente Reglamento y que tienen competencia en asuntos que anteriormente correspondían a otras áreas o unidades, se harán cargo de los mismos, dictando la resolución correspondiente.
+
+CUARTO.- Cuando la competencia de alguna de las unidades administrativas establecidas con anterioridad a la vigencia de este Reglamento, deba ser ejercida por otra u otras unidades de las que el mismo establece, pasarán el personal, archivo, mobiliario y, en general, el equipo que aquella haya utilizado, a la unidad o unidades competentes, distribuyéndose en su caso, de conformidad con el ámbito de atribuciones que a cada una correspondan.
+
+QUINTO.- En tanto no se expidan los manuales que el presente Reglamento menciona, el Secretario queda facultado para resolver los asuntos que conforme a dichos manuales se deban regular.
