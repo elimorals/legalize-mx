@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2012-06-22"
+last_updated: "2012-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
 > <small>N. DE E. EL PRESENTE ORDENAMIENTO SERA ABROGADO PROGRESIVAMENTE, SEGÚN CORRESPONDA EL PARTIDO JUDICIAL DEL ESTADO, POR LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 19 DE OCTUBRE DE 2007, 13 DE NOVIEMBRE DE 2009 Y 22 DE ENERO DE 2010.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2012.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2003,7 +2003,7 @@ a) Ordenar al activo la separación inmediata del domicilio de la víctima, ofen
 
 b) Prohibir al agresor acercarse a la víctima, ofendido o testigo.
 
-El Ministerio Público deberá dictar medidas tendientes a impedir que se pierdan, destruyan o alteren las huellas o vestigios del hecho delictuoso, los instrumentos, cosas, objetos o efectos del mismo; determinar que personas fueron testigos; evitar que el delito se siga cometiendo y, en general, impedir que se dificulte la averiguación, precediendo a la detención de los probables responsables en los casos de flagrante delito.
+El Ministerio Público deberá dictar medidas tendientes a impedir que se pierdan, destruyan o alteren las huellas o vestigios del hecho delictuoso, los instrumentos, cosas, objetos o efectos del mismo; determinar que personas fueron testigos; evitar que el delito se siga cometiendo y, en general, impedir que se dificulte la averiguación, procediendo a la detención de los probables responsables en los casos de flagrante delito.
 
 El agente del Ministerio Público al que le sean solicitadas estas medidas y no las dicte de manera inmediata, poniendo con esto en riesgo la seguridad, tranquilidad e integridad de la víctima o el ofendido, será responsable por omisión, debiéndosele imponer las sanciones previstas en los artículos 43 y 44 de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Baja California.
 
@@ -3741,7 +3741,7 @@ TERCERO.- El Ejecutivo del Estado, en un plazo no mayor de 30 días deberá elab
 
 P.O. 19 DE OCTUBRE DE 2007.
 
-DECRETO NUMERO 444
+DECRETO NÚMERO 444
 
 > <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
 
@@ -3766,6 +3766,12 @@ IV.- Como ordenamiento jurídico supletorio de la Ley de Responsabilidades de lo
 V. Como ordenamiento jurídico supletorio de la Ley de Justicia de Adolescentes para el Estado de Baja California publicada el día 27 de octubre de 2006 en el Periódico Oficial del Estado.
 
 El Código de Procedimientos Penales publicado en el Periódico Oficial del Estado de fecha 20 de agosto de 1989, podrá seguir siendo reformado o adicionado hasta en tanto se siga actualizando alguno de los supuestos contenidos en las fracciones anteriores.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JULIO DE 2012)</small>
+
+VII (Sic).- Como ordenamiento jurídico supletorio de la LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE BAJA CALIFORNIA, en los términos que ésta disponga.
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -3874,3 +3880,11 @@ El presente decreto entrará en vigor, al día siguiente de publicarse en el per
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo Estatal en términos de la fracción XVI, del artículo 49, de la Constitución Política del Estado Libre y Soberano de Baja California, así como los Ayuntamientos deberán adecuar la reglamentación interna, dentro del plazo de 60 días naturales contados a partir de la entrada en vigor del presente Decreto de reforma de ley, en todo lo necesario para alcanzar el objetivo de la presente reforma.
+
+P.O. 27 DE JULIO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor a los noventa días posteriores de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- En tanto el Ejecutivo estatal realice las adecuaciones a la reglamentación correspondiente, a fin de dar el debido cumplimiento a las disposiciones de este ordenamiento, serán competentes para conocer sobre los delitos previstos en el artículo 4 párrafo primero de esta ley y ejercer la acción de extinción de dominio, las áreas o unidades adscritas a la Subprocuraduría contra la Delincuencia Organizada de la Procuraduría General de Justicia del Estado, de conformidad con los acuerdos que para tal efecto emita el Procurador.
+
+TERCERO.- En tanto el Poder Judicial del Estado realice las adecuaciones necesarias a su estructura interna, a fin de dar cumplimiento en el ámbito de su competencia a lo establecido en esta ley, serán competentes para conocer del procedimiento de extinción de dominio los juzgados de lo civil, de conformidad con los acuerdos que para tal efecto determine el Consejo de la Judicatura.
