@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-tribunal-superior-de-justicia-del-distrito-258
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-01-29"
-last_updated: "2011-12-30"
+last_updated: "2012-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2580&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,683 +20,495 @@ issue_date: "1996-01-09"
 ---
 # LEY ORGANICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-LEY ORGÁNICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
+REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA DE LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
 
-Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 29 de enero de 1996 y republicada en la Sección Primera del Diario Oficial de la Federación, el miércoles 7 de febrero de 1996.
+Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el sábado 30 de junio de 2001.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+AL MARGEN UN SELLO CON EL ESCUDO DE LA NACION.- PODER EJECUTIVO.- GUANAJUATO.
 
-ERNESTO ZEDILLO PONCE DE LEON, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
+Juan Carlos Romero Hicks, Gobernador Constitucional del Estado Libre y Soberano de Guanajuato, en ejercicio de las facultades que me confieren los artículos 77 fracciones II y III y 79 de la Constitución Política del Estado de Guanajuato; y en observancia de lo dispuesto por los artículos 2o, 3o, 9o y 38 de la Ley Orgánica del Poder Ejecutivo para el Estado, y
 
-Que la H. Asamblea de Representantes del Distrito Federal, se ha servido dirigirme el siguiente
+CONSIDERANDO.
 
-DECRETO
+Por lo anteriormente expuesto y con fundamento en las disposiciones legales y consideraciones previamente señaladas, he tenido a bien expedir el siguiente:
 
-"LA ASAMBLEA DE REPRESENTANTES DEL DISTRITO FEDERAL, DECRETA:
+DECRETO GUBERNATIVO NÚMERO 61
 
-LEY ORGANICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
+Artículo Único.- Se expide el Reglamento Interior de la Universidad Tecnológica de León, para quedar en los siguientes términos:
+
+REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA DE LEÓN
 
 ## TITULO PRIMERO. De la Función Jurisdiccional
 
-### CAPITULO UNICO. Disposiciones Generales
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 1o.
 
-Las disposiciones de esta Ley son de orden público e interés general y tienen por objeto regular la organización y funcionamiento del Tribunal Superior de Justicia, del Consejo de la Judicatura del Distrito Federal y demás órganos judiciales que esta ley señale, con base en lo que establece la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal y demás ordenamientos legales aplicables.
-
-El Tribunal Superior de Justicia es Órgano de Gobierno y autoridad local del Distrito Federal cuyo objeto en (sic) la administración e impartición de justicia del fuero común en el Distrito Federal.
-
-El Consejo de la Judicatura es el órgano encargado de manejar, administrar y ejercer, de manera autónoma, el presupuesto tanto del Tribunal Superior de Justicia del Distrito Federal como el propio, de conformidad con las disposiciones jurídicas aplicables en materia presupuestal.
-
-Se establecen como principios que regulan la función judicial, tanto en su aspecto de impartición de Justicia, como en su aspecto administrativo los siguientes: la expeditez, el impulso procesal oficioso, la imparcialidad, la legalidad, la honradez, la independencia, la caducidad, la sanción administrativa, la oralidad, la formalidad, la calidad total en sus procesos operativos, administrativos y contables, la excelencia en recursos humanos, la vanguardia en sistemas tecnológicos, la carrera judicial, la eficiencia y eficacia.
-
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO QUE MODIFICA LA LEY, PUBLICADO EN LA G.O. DE 10 DE SEPTIEMBRE DE 2009, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTICULO DE OCHO FRACCIONES A DOS.</small>
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE DICIEMBRE DE 2008)</small>
+El presente Reglamento tiene por objeto regular la organización, funcionamiento y facultades de las unidades administrativas que integran el organismo público descentralizado de la Administración Pública Estatal denominado Universidad Tecnológica de León.
 
 ###### Artículo 2o.
 
-El ejercicio jurisdiccional en todo tipo de asuntos Civiles, Mercantiles, Penales, de Extinción de Dominio, familiares y los del orden federal en los casos que expresamente las leyes les confieran jurisdicción, corresponde a los servidores públicos y órganos judiciales que se señalan a continuación:
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
-
-I. Magistrados del Tribunal Superior de Justicia del Distrito Federal; y
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
-
-II. Jueces del Distrito Federal.
-
-> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
-
-Los demás servidores públicos y auxiliares de la administración de justicia intervendrán en dicha función en los términos que establece esta Ley, los Códigos de Procedimientos y demás leyes aplicables.
+La Universidad Tecnológica de León tiene a su cargo el desempeño de las facultades que le señalen su Decreto de Reestructuración, el Convenio de Coordinación celebrado entre el Gobierno del Estado y el Gobierno Federal, los reglamentos, acuerdos y demás disposiciones de carácter general dentro del ámbito de su competencia.
 
 ###### Artículo 3o.
 
-Los árbitros no ejercerán autoridad pública, pero de acuerdo con las reglas y restricciones que fija el Código de Procedimientos Civiles para el Distrito Federal, conocerán, según los términos de los compromisos respectivos, del negocio o negocios civiles que les encomienden los interesados. Para que resulten ejecutables sus fallos, éstos deben ser homologados por la autoridad civil correspondiente, sólo en relación con los requisitos inherentes a su formalidad.
+Para los efectos del presente Reglamento, se entenderá por:
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2011)</small>
+I.- Universidad: La Universidad Tecnológica de León;
+
+II.- Convenio: El Convenio de Coordinación para la creación, operación y apoyo financiero de la Universidad Tecnológica de León, celebrado entre el Gobierno Estatal y Federal;
+
+III.- Decreto: El Decreto Gubernativo de Reestructuración de la Universidad;
+
+IV.- Consejo: El Consejo Directivo de la Universidad; y
+
+V.- Rector: El Rector de la Universidad.
 
 ###### Artículo 4o.
 
-Son auxiliares de la administración de Justicia y están obligados a cumplir órdenes que, en el ejercicio de sus atribuciones legales, emitan jueces y magistrados del Tribunal:
-
-I. El Registro Civil;
-
-II. El Registro Público de la Propiedad y el Comercio;
-
-III. Los peritos médicos legistas;
-
-IV. Los intérpretes oficiales y demás peritos en las ramas que les sean encomendadas;
-
-V. Los síndicos e interventores de concursos y quiebras;
-
-VI. Los albaceas, interventores, depositarios, tutores, curadores y notarios, en las funciones que les encomienden las leyes correspondientes;
-
-VII. La Secretaría de Finanzas;
-
-VIII. La Secretaría del Trabajo y Fomento al Empleo;
-
-IX. La Secretaría de Salud;
-
-X. La Secretaría de Educación;
-
-XI. La Secretaría de Desarrollo Social;
-
-XII. Sistema para el Desarrollo Integral de la Familia, y (sic)
-
-XIII. La Secretaría de Seguridad Pública y la Policía adscrita a la Procuraduría General de Justicia del Distrito Federal, y
-
-XIV. Todos los demás a quienes las leyes les confieran ese carácter.
-
-El Jefe de Gobierno del Distrito Federal facilitará el ejercicio de las funciones a que se refiere este artículo.
-
-> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
+La Comunidad Universitaria estará integrada por el personal académico, los alumnos, los egresados, las autoridades que establece el Decreto, los funcionarios, el personal administrativo y los integrantes del Patronato.
 
 ###### Artículo 5o.
 
-Para los efectos de esta Ley, habrá un sólo partido judicial con la extensión y límites que para el Distrito Federal señale la Ley Orgánica de la Administración Pública correspondiente.
+La Comunidad Universitaria, tendrá las siguientes facultades:
+
+I.- Cumplir con los fines de la Universidad;
+
+II.- Preservar el patrimonio material y cultural de la Universidad; y
+
+III.- Proteger los intereses de la Universidad, adoptando las medidas necesarias para evitar la realización de actos que menoscaben su prestigio moral y académico.
 
 ## TITULO SEGUNDO. De las Condiciones y Prohibiciones para Ejercer Funciones Judiciales
 
-### CAPITULO I. De la Designación
-
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+### CAPÍTULO SEGUNDO. DEL GOBIERNO DE LA UNIVERSIDAD
 
 ###### Artículo 6o.
 
-Los nombramientos de los Magistrados al Tribunal Superior de Justicia del Distrito Federal se harán en los términos previstos por la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal y la Ley Orgánica de la Asamblea Legislativa del Distrito Federal.
-
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+El órgano máximo de gobierno de la Universidad será el Consejo Directivo, el cual se integra de conformidad con lo dispuesto en el Decreto, mismo que establece las facultades que a éste le corresponden.
 
 ###### Artículo 7o.
 
-Para que surtan efectos los nombramientos a que se refiere el artículo anterior, se sujetarán a la aprobación de la Asamblea Legislativa del Distrito Federal, la cual deberá otorgar o negar la aprobación dentro del improrrogable plazo de quince días, contados desde que se reciba en la propia Asamblea el oficio respectivo de la autoridad correspondiente. Para computar dicho plazo, el oficio que contenga la designación de los servidores públicos se remitirá a la Asamblea de Legislativa del Distrito Federal con una copia, a fin de que en ésta, el Oficial Mayor o quien haga sus veces, asiente razón de recibo con la fecha correspondiente.
-
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+El Consejo sesionará ordinaria y extraordinariamente de conformidad a la normatividad que para tal efecto expida el mismo.
 
 ###### Artículo 8o.
 
-Si la Asamblea Legislativa del Distrito Federal no resolviere dentro de los quince días a que se refiere el artículo anterior, se tendrán por aprobados los nombramientos hechos por el Jefe de Gobierno del Distrito Federal y se hará saber así a los interesados para que entren desde luego al desempeño de sus funciones.
+Para el estudio, planeación, programación, ejecución y despacho de sus asuntos, la Universidad contará con la siguiente estructura organizacional:
 
-Si la Asamblea Legislativa del Distrito Federal desecha el nombramiento, el Jefe de Gobierno del Distrito Federal someterá nuevo nombramiento en los términos previstos por el artículo 67 fracción VIII del Estatuto de Gobierno del Distrito Federal.
+I.- Rector;
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+II.- Secretarios;
+
+III.- Direcciones;
+
+IV.- Subdirecciones; y
+
+V.- Jefaturas de Departamento.
 
 ###### Artículo 9o.
 
-En caso de que la Asamblea no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Jefe de Gobierno del Distrito Federal hará un tercero que surtirá sus efectos desde luego como provisional y que estará sometido a la aprobación de la Asamblea Legislativa del Distrito Federal.
-
-Dentro de los quince días a que se refiere el artículo 7o. de esta ley, la Asamblea Legislativa del Distrito Federal deberá aprobar o no el nombramiento, y si nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo, haciendo el Jefe de Gobierno del Distrito Federal la declaración correspondiente. Si la Asamblea Legislativa del Distrito Federal rechaza el nombramiento, cesará en sus funciones el Magistrado provisional y el Jefe de Gobierno del Distrito Federal someterá nuevo nombramiento en los términos que se indican en este precepto y en los artículos anteriores.
-
-(REFORMADO, G.O. 24 DE ABRIL DE 2003) (F. DE E., G.O. 1 DE JULIO DE 2003)
+Los titulares de las unidades administrativas señaladas en el artículo anterior, podrán auxiliarse del personal que requieran las necesidades del servicio y permita el presupuesto de la Universidad.
 
 ###### Artículo 10.
 
-Los Magistrados del Tribunal Superior de Justicia del Distrito Federal, deberán de rendir la protesta de ley ante la Asamblea Legislativa del Distrito Federal.
+El Rector, además de las facultades previstas en el Decreto, tendrá las siguientes:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+I.- Expedir, junto con el Secretario Académico, los títulos, diplomas y reconocimientos, que deba otorgar la Universidad, conforme a los planes de estudios autorizados;
 
-> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+II.- Dar a conocer oficialmente los reglamentos, acuerdos y demás documentos de observancia general que expida el Consejo; y
+
+III.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquéllas que le confiera el Consejo.
 
 ###### Artículo 11.
 
-Todo Magistrado al término de su encargo, será sometido al procedimiento de ratificación. Para tal efecto, el Presidente del Tribunal Superior de Justicia del Distrito Federal deberá hacer del conocimiento del Jefe de Gobierno del Distrito Federal, con una antelación de por lo menos cuarenta y cinco días, el nombre del o los Magistrados que estén por concluir el ejercicio de su encargo.
+Los Secretarios, tendrán a su cargo las siguientes facultades genéricas:
 
-El Jefe de Gobierno del Distrito Federal remitirá a la Asamblea Legislativa del Distrito Federal, con una antelación de treinta días a la fecha de conclusión del encargo del funcionario judicial, el nombre del o los Magistrados propuestos por él, en los términos del Estatuto de Gobierno.
+I.- Colaborar con el Rector en todos los asuntos que éste le encomiende y los que sean de su competencia;
 
-En los casos de propuesta de nombramiento así como en el de ratificación del encargo, el Jefe de Gobierno del Distrito Federal anexará un expediente en el que se integren un extracto curricular del desarrollo profesional del candidato así como con la documentación que acredite el cumplimiento de los requisitos establecidos por el artículo 16 de la presente ley.
+II.- Firmar conjuntamente con el Rector, en su caso, los grados, certificados, constancias y demás documentos oficiales; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+III.- Las demás que les señale el presente Reglamento y las disposiciones legales y reglamentarias aplicables, así como aquéllas que les confiera el Rector.
 
 ###### Artículo 12.
 
-El nombramiento de los Jueces será por un período de seis años, mismo que a su conclusión se puede ampliar por períodos iguales, si el Consejo de la Judicatura del Distrito Federal así lo determina, atendiendo al resultado aprobatorio del examen de actualización, los antecedentes del servidor de que se trate, conforme a la hoja de servicios que de él se tenga y en relación con el desempeño de las labores encomendadas por la Ley, considerando además los elementos que precisa el artículo 194 de esta Ley.
+La Universidad contará con los siguientes Secretarios:
+
+I.- Secretario Académico; y
+
+II.- Secretario de Vinculación y Extensión.
 
 ###### Artículo 13.
 
-El Pleno y las Salas del Tribunal Superior de Justicia, así como los Jueces y demás órganos judiciales que con cualquier otra denominación se creen, nombrarán y removerán a sus funcionarios y empleados conforme a lo que establezca esta Ley en materia de carrera judicial.
+El Secretario Académico, tendrá las siguientes facultades:
+
+I.- Proponer las políticas, lineamientos y acciones que permitan el cumplimiento de las labores de la Universidad, en el ámbito de su competencia;
+
+II.- Planear los servicios escolares que se proporcionan a la comunidad estudiantil;
+
+III.- Coordinar, en forma general, todas las actividades académicas;
+
+IV.- Proponer políticas de superación académica y establecer programas de formación y actualización docente;
+
+V.- Planear y coordinar la creación, actualización y cumplimiento de los planes y programas de estudio; y
+
+VI.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables, así como aquéllas que le confiera el Rector.
 
 ###### Artículo 14.
 
-Los Jueces rendirán protesta ante los respectivos Plenos del Tribunal Superior de Justicia del Distrito Federal y del Consejo de la Judicatura. Los demás servidores públicos judiciales harán lo propio ante el titular del órgano que los haya nombrado.
+El Secretario de Vinculación y Extensión, tendrá las siguientes facultades:
+
+I.- Analizar las tendencias del mercado ocupacional y los cambios económicos, sociales, científicos y tecnológicos, estatales, nacionales e internacionales para la vinculación con el sector productivo;
+
+II.- Promover la participación del sector productivo en los ámbitos académicos, administrativos, financieros y profesionales de la Universidad, de acuerdo con la normatividad vigente;
+
+III.- Promover la realización de convenios en virtud de los cuales la Universidad apoyará al sector productivo en la realización de proyectos de investigación y desarrollo tecnológico para elevar la calidad de sus productos y la productividad de sus procesos, así como para fortalecer el impulso y mejoría académica;
+
+IV.- Difundir y proporcionar a las empresas, personas o instancias que así lo requieran, los servicios que genere, atendiendo a la normatividad aplicable;
+
+V.- Promover cursos de capacitación, actualización y especialización, para alumnos y egresados;
+
+VI.- Realizar todo lo concerniente a la promoción y captación de alumnos; y
+
+VII.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables, así como aquéllas que le confiera el Rector.
 
 ###### Artículo 15.
 
-Toda persona que fuere nombrada para desempeñar algún cargo o empleo judicial, una vez rendida la protesta de ley, comenzará a ejercer las funciones que le correspondan, dentro de los quince días siguientes a la fecha del nombramiento. Si no se presentare sin causa justificada, el nombramiento se tendrá por no hecho y se procederá a hacer una nueva designación. Tratándose de servidores públicos de la administración de justicia que deban trasladarse para tomar posesión de su puesto a lugares distintos, al plazo señalado deberá aumentarse el lapso que fije la autoridad que hizo la designación.
+Los Directores tendrán las siguientes facultades genéricas:
 
-> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
+I.- Vigilar y hace cumplir los planes y programas de estudio, así como de los objetivos y metas propuestas;
 
-Las relaciones de trabajo entre el personal y el Tribunal Superior de Justicia del Distrito Federal se regirán por la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del apartado B del artículo 123 Constitucional y las condiciones generales de trabajo.
+II.- Vigilar el cumplimiento de las disposiciones que norman la estructura y funcionamiento de la Universidad y ejecutar los acuerdos que dicten sus autoridades;
 
-### CAPITULO II. De los Requisitos
+III.- Determinar y aplicar las sanciones que sean de su competencia;
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE ABRIL DE 2003)</small>
+IV.- Desempeñar las comisiones que le confieran las autoridades universitarias;
+
+V.- Establecer vínculos con los sectores público y privado para la consecución de objetivos tendientes a lograr beneficios para la comunidad universitaria; y
+
+VI.- Las demás que les señale el presente Reglamento y las disposiciones legales y reglamentarias aplicables, así como aquéllas que les confiera el Rector.
+
+### CAPÍTULO TERCERO. DE LA ESTRUCTURA ORGÁNICA DE LA UNIVERSIDAD
 
 ###### Artículo 16.
 
-Para ser nombrado Magistrado se requiere:
+La Universidad contará con las siguientes Direcciones:
 
-> <small>(REFORMADA, G.O. 17 DE JUNIO DE 1997)</small>
+I.- Direcciones de Área;
 
-I. Ser mexicano por nacimiento, no haber adquirido otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+II.- Direcciones de División; y
 
-II. Tener cuando menos treinta y cinco años de edad cumplidos al día de la designación;
-
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
-
-III. Poseer al día de la designación, con antigüedad mínima de diez años, título profesional de Licenciado en Derecho y cédula profesional expedidos por la autoridad o institución legalmente facultada para ello;
-
-IV. Gozar de buena reputación;
-
-V. No haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo, cualquiera que haya sido la pena;
-
-VI. Haber residido en el país durante los dos años anteriores al día de la designación, y
-
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
-
-VII. No haber ocupado el cargo de Jefe de Gobierno del Distrito Federal, Secretario General, Procurador General de Justicia o Diputado a la Asamblea Legislativa del Distrito Federal, durante el año previo al día de la designación.
-
-Los nombramientos de los Magistrados serán hechos preferentemente, de entre aquellas personas que se hayan desempeñado como Jueces o que hayan prestado sus servicios con eficiencia y probidad en la impartición o procuración de justicia, o en su caso, que por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica se consideren aptos para impartirla. En igualdad de circunstancias, se preferirá a los originarios o vecinos del Distrito Federal.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+III.- Direcciones de Carrera.
 
 ###### Artículo 17.
 
-Para ser Juez del Distrito Federal, se requiere:
+La Universidad contará con las siguientes Direcciones de Área:
 
-> <small>(REFORMADA, G.O. 17 DE JUNIO DE 1997)</small>
+I.- Dirección de Desarrollo Académico y Docente;
 
-I. Ser mexicano por nacimiento, no haber adquirido otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+II.- Dirección de Extensión Universitaria;
 
-II. Tener cuando menos treinta años de edad cumplidos al día de la designación;
+III.- Dirección de Administración y Finanzas; y
 
-III. Tener título de Licenciado en Derecho y Cédula Profesional expedida por la autoridad o institución legalmente facultada para ello;
-
-> <small>(REFORMADA, G.O. 21 DE ENERO DE 1999)</small>
-
-IV. Tener práctica profesional mínima de cinco años, contados a partir de la obtención del título profesional en el campo jurídico, relacionada con el cargo para el que se concursa;
-
-V. Haber residido en el Distrito Federal o en su área Metropolitana durante los dos años anteriores al día de la designación;
-
-VI. Gozar de buena reputación;
-
-VII. No haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo, cualquiera que haya sido la pena, y
-
-> <small>(REFORMADA, G.O. 21 DE ENERO DE 1999)</small>
-
-VIII. Participar y obtener resultado favorable en el concurso de oposición y en los demás exámenes que establece ésta Ley, en los mismos términos de lo que ésta dispone.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+IV.- Dirección de Asuntos Jurídicos.
 
 ###### Artículo 18.
 
-(DEROGADO, G.O. 10 DE SEPTIEMBRE DE 2009)
+La Dirección de Desarrollo Académico y Docente, tendrá las siguientes facultades:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+I.- Apoyar a las carreras en la generación e implementación de programas que fortalezcan el desarrollo docente y estudiantil;
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+II.- Generar estrategias de apoyo al estudiante para solucionar las causas de no acreditación y deserción escolar;
+
+III.- Dar seguimiento a las actividades educativas tendientes al logro de una mayor eficiencia terminal de los estudiantes;
+
+IV.- Desarrollar diversas alternativas de formación y actualización permanente de la planta docente;
+
+V.- Detectar las necesidades de apoyo bibliográfico de las carreras y solicitar las adquisiciones pertinentes;
+
+VI.- Operar las políticas y lineamientos de control escolar con el fin de tener un sistema de información actualizado de los expedientes académicos de los alumnos;
+
+VII.- Administrar los centros de cómputo para ofrecer apoyo a la demanda de equipo computacional de las diversas carreras;
+
+VIII.- Establecer programas y métodos de apoyo al estudiante, personal docente y administrativo, para el otorgamiento de becas; y
+
+IX.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables, así como aquéllas que le confiera el Rector.
 
 ###### Artículo 19.
 
-Para ser Secretario de Acuerdos en los Juzgados y en las Salas del Tribunal Superior de Justicia, así como para Secretario Proyectista de Segunda Instancia, se requiere:
+La Dirección de Extensión Universitaria, tendrá las siguientes facultades:
 
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
+I.- Fomentar todas aquellas actividades que contribuyan al desarrollo armónico del ser humano;
 
-II. Ser Licenciado en Derecho con cédula profesional expedida por la autoridad o institución legalmente facultada para ello;
+II.- Fortalecer la cultura científica, humanística y tecnológica, así como las actividades artísticas y deportivas en beneficio de la comunidad y su entorno;
 
-III. Tener dos años de práctica profesional, contados desde la fecha de expedición del título. El requisito de la práctica profesional podrá ser dispensado, tratándose de personal que tenga una antigüedad en el Tribunal de cuando menos dos años, y
+III.- Impulsar actividades editoriales y de divulgación tendientes a transmitir el acervo del conocimiento científico y tecnológico que se genera y conserva en la Universidad;
 
-IV. No haber sido condenado por delito que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena.
+IV.- Promover la comunicación interinstitucional;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+V.- Impulsar los programas de imagen y promoción institucional en concordancia con el modelo educativo del Sistema de Universidades Tecnológicas; y
 
-> <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
-
-Para ser Secretario Auxiliar de Acuerdos de Sala, se necesita que los mismos requisitos señalados en las fracciones anteriores y sus funciones serán asignadas por el Presidente de la Sala a la que se encuentren adscritos.
-
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 1997)</small>
+VI.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables, así como aquéllas que le confiera el Rector.
 
 ###### Artículo 20.
 
-Para ser Primero o Segundo Secretario de Acuerdos de la Presidencia y Tribunal Pleno, así como Secretario Auxiliar de la misma, se necesita que los interesados sean mexicanos por nacimiento y no hayan adquirido otra nacionalidad, satisfagan los requisitos indicados en el artículo que antecede, con la salvedad que en el caso del Secretario Auxiliar no se requiere tener dos años de práctica profesional. El Presidente del Tribunal Superior de Justicia les asignará sus funciones.
+La Dirección de Administración y Finanzas, tendrá las siguientes facultades:
+
+I.- Planear, organizar y controlar los recursos financieros y materiales asignados a la Universidad, conforme a la normatividad aplicable;
+
+II.- Aplicar la estructura orgánica autorizada y verificar el cumplimiento de los procedimientos establecidos;
+
+> <small>(F. DE E., P.O. 21 DE MARZO DE 2002)</small>
+
+III.- Coordinar la elaboración y actualización de manuales administrativos, así como verificar su cumplimiento y difusión;
+
+IV.- Analizar y en su caso, gestionar las modificaciones presupuestales que procedan aplicar;
+
+V.- Coordinar los procesos derivados del control de ingresos propios y del presupuesto de la Universidad;
+
+VI.- Llevar a cabo los procesos de licitación de conformidad a la legislación aplicable; y
+
+VII.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables, así como aquéllas que le confiera el Rector.
 
 ###### Artículo 21.
 
-Para ser Secretario Actuario se requiere:
+La Dirección de Asuntos Jurídicos estará a cargo del Abogado General, quien será el Representante Legal de la Universidad con facultades de Apoderado General para pleitos y cobranzas, con todas las facultades generales y las que requieran mandato o cláusula especial conforme a la Ley, con facultades para:
 
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
+I.- Interponer todo tipo de demandas, ejercitando acciones u oponiendo excepciones y reconviniendo a la parte contraria;
 
-II. Tener título profesional de Licenciado en Derecho con cédula profesional expedida por la autoridad o institución legalmente facultada para ello;
+II.- Ofrecer y desahogar todo tipo de pruebas, incluyendo la confesional ofrecida a cargo de quien resulte representante legal de la Universidad;
 
-III. No haber sido condenado por delito que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inabilitado (sic) para el cargo, cualquiera que haya sido la pena, y
+III.- Hacer pagos y recibirlos a nombre de la Universidad;
 
-IV. Tener una práctica profesional en el campo jurídico de seis meses y haber hecho un curso de preparación no menor de tres meses en el Instituto de Estudios Judiciales.
+IV.- Firmar todo tipo de documentos, contratos, convenios, finiquitos y todo lo que sea necesario en representación o defensa de los intereses de la Universidad, así como la elaboración y revisión de éstos en coordinación con las áreas correspondientes;
 
-Para ser Secretario Auxiliar Actuario de Sala se deben cubrir los requisitos del artículo 19 de esta Ley, a excepción del relativo a la práctica profesional.
+V.- Presentar denuncias y querellas en materia penal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+VI.- Recibir todo tipo de bienes y documentos propiedad o del interés de la Universidad;
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+VII.- Promover todo tipo de recursos, así como incluyendo el juicio de amparo;
+
+VIII.- Otorgar el perdón o desistirse en los asuntos que así lo permita la Ley;
+
+IX.- Acudir ante las autoridades laborales y celebrar todo tipo de contratos, convenios, demandas y finiquitos;
+
+X.- Realizar todas las actividades necesarias a efecto de cumplir con su cometido de conformidad a los estatutos, reglamentos y demás normatividad aplicable;
+
+XI.- Tramitar el registro de patentes, marcas y derechos de autor que requiera la Universidad;
+
+XII.- Gestionar ante las instancias públicas o privadas, los requerimientos de la Universidad, dentro del ámbito de su competencia; y
+
+XIII.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables, así como aquéllas que le confiera el Rector.
 
 ###### Artículo 22.
 
-Para ser Secretario Proyectista de Juzgado y Secretario Conciliador, se deberán reunir los mismos requisitos señalados en el artículo 19, con excepción de la fracción III.
+La Universidad contará con las siguientes Direcciones de División:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 24 DE ABRIL DE 2003)</small>
+I.- Dirección de la División de Sistemas;
 
-Los servidores públicos a que se refieren los artículos 19, 20 y 21 de esta Ley, deberán además, aprobar los exámenes que el Instituto de Estudios Judiciales habrá de aplicar, para cada caso, en los términos de esta Ley.
+II.- Dirección de la División de Tecnologías; y
 
-### CAPITULO III. De las Incompatibilidades e Incapacidades
+III.- Dirección de la División Económico-Administrativa.
+
+Los cargos de los Directores de División serán honoríficos, por lo que no recibirán retribución, emolumento, ni compensación alguna por su desempeño.
+
+### CAPÍTULO CUARTO. DE LOS ÓRGANOS COLEGIADOS
 
 ###### Artículo 23.
 
-Los Magistrados, Jueces, Consejeros y Secretarios no podrán en ningún caso aceptar ni desempeñar empleo, cargo o comisión de la Federación, de los Estados, del Distrito Federal o de particulares, salvo los cargos no remunerados en asociaciones o instituciones científicas, docentes, artísticas o de beneficencia que no interfieran en su horario de trabajo ni menoscabe el pleno ejercicio de sus funciones.
+Al frente de las Direcciones de División, habrá un director de carrera, quienes tendrán las siguientes facultades:
 
-Las incompatibilidades a que se refiere este precepto serán aplicables a los servidores públicos judiciales que gocen de licencia.
+I.- Supervisar y coordinar a los Directores de Carrera de la División que les corresponda;
+
+II.- Supervisar el cumplimiento de los planes de estudio de las carreras que dependan de su División;
+
+III.- Participar en las comisiones u órganos colegiados de la Universidad;
+
+IV.- Participar con el Secretario de Vinculación y Extensión, o quien él designe, a efecto de llevar a cabo un seguimiento de los alumnos en materia de prácticas y estadías;
+
+V.- Colaborar con el Secretario Académico en las actividades que le sean encomendadas;
+
+VI.- Gestionar ante las diversas instituciones públicas o privadas los acuerdos necesarios para el cumplimiento de los fines de la Universidad en el ámbito de su competencia; y
+
+VII.- Las demás que les señalen las disposiciones legales y reglamentarias aplicables, así como aquéllas que les confiera el Rector.
 
 ###### Artículo 24.
 
-Los nombramientos que se hagan para servidores públicos judiciales, del Consejo de la Judicatura y auxiliares de la administración de justicia, no podrán recaer en ascendientes, descendientes, cónyuges o colaterales dentro del cuarto grado por consanguinidad y segundo por afinidad, del servidor público que haga la designación.
+La Dirección de la División de Sistemas, tendrá las siguientes facultades:
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+I.- Establecer un vínculo entre las carreras que integren su división;
+
+II.- Asesorar en materia de sistemas a la Universidad; y
+
+III.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables, así como aquéllas que le confieran sus superiores jerárquicos.
 
 ###### Artículo 25.
 
-Los servidores públicos de la administración de justicia, no podrán ser corredores, comisionistas, apoderados judiciales, tutores, curadores, albaceas, depositarios, síndicos, administradores, interventores, árbitros, peritos, asesores jurídicos ni ejercer la abogacía, salvo en asuntos de carácter personal.
+La Dirección de la División de Tecnologías, tendrá las siguientes facultades:
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+I.- Establecer un vínculo entre las carreras que integren su División;
 
-###### Articulo 26.
+II.- Brindar asesoría en materia ambiental, de maquinaria y equipo industrial a la Universidad; y
 
-El retiro de los Jueces y Magistrados se producirá, por sobrevenir incapacidad física o mental que imposibilite el adecuado desempeño del cargo, o al cumplir setenta años de edad.
+III.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables, así como aquéllas que le confieran sus superiores jerárquicos.
 
-> <small>(F. DE E., G.O. 1 DE JULIO DE 2003)</small>
+###### Artículo 26.
 
-Los Magistrados ratificados, tendrán derecho al haber por retiro de carácter vitalicio, equivalente al setenta por ciento de sus percepciones mensuales netas, durante los dos primeros años y al cincuenta por ciento de éstas durante el resto de su vida, cuando se encuentren bajo los siguientes supuestos:
+La Dirección de la División Económico-Administrativa, tendrá las siguientes facultades:
 
-a).- Tener quince años o más como Magistrados; o
+I.- Establecer un vínculo entre las carreras que integren su División;
 
-b).- Tener treinta años o más al servicio del Tribunal Superior de Justicia del Distrito Federal
+II.- Proporcionar asesoría en materia de administración de servicios y comercialización a la Universidad; y
 
-> <small>(F. DE E., G.O. 1 DE JULIO DE 2003)</small>
-
-Los Magistrados que no fueren ratificados, al concluir su encargo si cumplen con el supuesto a que se refiere el inciso b) del párrafo anterior, tendrán derecho a un haber especial por retiro durante dos años, en el primer año será el equivalente al setenta por ciento de la percepción mensual neta del último año de ejercicio y el segundo será por el equivalente al cincuenta por ciento de dichas percepciones.
-
-El ingreso mensual a que se refiere este párrafo, se tomará como base para su tabulación las percepciones de los Magistrados en activo.
-
-Los Magistrados ratificados, al cumplir sesenta y cinco años de edad podrán retirarse voluntariamente del cargo, en este caso cuando se retiren sin tener quince años de ejercicio y cuenten con veinticinco años o más al servicio del Tribunal, disfrutarán del haber por retiro, el que será proporcional al tiempo en que se hayan desempeñado como Magistrados.
-
-> <small>(F. DE E., G.O. 1 DE JULIO DE 2003)</small>
-
-Del monto total al que tenga derecho deberá deducirse, en su caso, aquél que reciba por parte del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
-
-No podrán recibir ninguna otra prestación que establezca la Ley del Fondo de Apoyo a la Administración de Justicia en el Distrito Federal.
-
-El haber por retiro se entregará por medio de ministraciones mensuales, las cuales se incrementarán en la misma proporción en que se aumenten las percepciones de los Magistrados en activo.
-
-> <small>(F. DE E., G.O. 1 DE JULIO DE 2003)</small>
-
-Los Jueces ratificados, al retirarse del cargo, disfrutarán de un haber por retiro de carácter vitalicio en los términos del que corresponde a los Magistrados ratificados, de conformidad con lo establecido por los párrafos aplicables de este artículo; para lo cual se deberá cumplir, además de las aportaciones a que se refiere el Artículo Cuarto Transitorio, con lo siguiente: haber sido ratificado, haberse desempeñado en el cargo de Juez por quince años o más y contar, por lo menos, con veinte años de servicio en el Tribunal Superior de Justicia del Distrito Federal.
+III.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables, así como aquéllas que le confieran sus superiores jerárquicos.
 
 ## TITULO TERCERO. De la Organización del Tribunal
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO I. Del Tribunal Superior de Justicia del Distrito Federal
-
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+### CAPÍTULO QUINTO. DEL ALUMNADO
 
 ###### Artículo 27.
 
-El Tribunal Superior de Justicia del Distrito Federal, funcionará en Pleno y en Salas. El Pleno es el órgano máximo del Tribunal Superior de Justicia del Distrito Federal, éste se integra por todos los Magistrados, uno de ellos será su Presidente y no formará parte de ninguna Sala.
-
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+La Universidad reconoce como Directores de Carrera a los titulares o encargados de las carreras que sean impartidas por la Universidad.
 
 ###### Artículo 28.
 
-El número de Salas del Tribunal Superior de Justicia del Distrito Federal, será determinado por el Consejo de la Judicatura del Distrito Federal, conforme a las necesidades y el presupuesto.
+Los Directores de Carrera, tendrán las siguientes facultades:
+
+I.- Coordinar, dirigir y evaluar el desarrollo de las actividades académicas, de docencia, investigación y vinculación, relacionadas con la carrera de acuerdo con los planes de estudio para cumplir con el objetivo de la institución;
+
+II.- Coordinar y dirigir el desarrollo de proyectos a cargo de la Dirección de Carrera;
+
+III.- Seleccionar y proponer al personal docente a contratar;
+
+IV.- Promover y controlar el establecimiento de programas de formación y actualización docente; y
+
+V.- Las demás que les señalen las disposiciones legales y reglamentarias aplicables, así como aquéllas que les confieran los Directores de División.
 
 ###### Artículo 29.
 
-Para que funcione el Tribunal en Pleno se necesita la concurrencia de cuando menos las dos terceras partes de los Magistrados que lo integran y las resoluciones se tomarán por unanimidad o mayoría de votos de los Magistrados presentes. En caso de empate, se confiere voto de calidad al Presidente del Tribunal.
+La Universidad contará con las siguientes Subdirecciones:
+
+I.- Subdirección de Servicios Administrativos;
+
+II.- Subdirección de Vinculación; y
+
+III.- Subdirección de Desempeño Institucional.
 
 ###### Artículo 30.
 
-Las sesiones del Tribunal en Pleno serán ordinarias o extraordinarias y, en ambos casos, públicas o privadas. Las sesiones ordinarias deberán celebrarse cuando menos una vez al mes y las extraordinarias cuando sea necesario para tratar y resolver asuntos urgentes, previa convocatoria del Presidente del mismo, en la que determinará si son públicas o privadas, a iniciativa propia o a solicitud de tres Magistrados cuando menos.
+La Subdirección de Servicios Administrativos, tendrá las siguientes facultades:
+
+I.- Coordinar, aplicar y vigilar la administración y uso de los recursos humanos y financieros, así como de los servicios generales y recursos materiales, asignados a la Universidad;
+
+II.- Apoyar en la planeación, dirección y evaluación de la adquisición de bienes y servicios;
+
+III.- Coadyuvar en el establecimiento de políticas de administración de recursos;
+
+IV.- Vigilar la aplicación de la normatividad contable financiera;
+
+V.- Evaluar la prestación de servicios administrativos y generales en la Universidad; y
+
+VI.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables, así como aquéllas que le confieran sus superiores jerárquicos.
 
 ###### Artículo 31.
 
-Para la Presidencia y Tribunal en Pleno se designarán un Primer Secretario de Acuerdos, un Segundo Secretario de Acuerdos y el número de Secretarios Auxiliares de la Presidencia, así como los servidores públicos de la administración de justicia que fije el presupuesto de egresos respectivo, atendiendo al efecto lo dispuesto por el artículo 20 de esta Ley.
+La Subdirección de Vinculación, tendrá las siguientes facultades:
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE ABRIL DE 2003)</small>
+I.- Generar, promover y ejecutar actividades de vinculación con el sector productivo e instituciones gubernamentales de la región;
+
+II.- Coadyuvar en el establecimiento de programas de vinculación técnica con el sector productivo;
+
+III.- Impulsar proyectos tecnológicos que fortalezcan a la planta productiva y los objetivos educacionales de la Universidad;
+
+IV.- Establecer diagnósticos de necesidades y requerimientos para incrementar la productividad y eficiencia de las empresas de la región;
+
+V.- Mantener comunicación con el sector productivo en materia de requerimientos tecnológicos; y
+
+VI.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables, así como aquéllas que le confieran sus superiores jerárquicos.
 
 ###### Artículo 32.
 
-Son facultades del Tribunal Superior del Distrito Federal en Pleno:
+La Subdirección de Desempeño Institucional, tendrá las siguientes facultades:
 
-I. Elegir, de entre los Magistrados con una antigüedad no menor de tres años al Presidente del Tribunal Superior de Justicia del Distrito Federal;
+I.- Organizar y coordinar las operaciones de planeación, evaluación, capacitación y desarrollo humano y organizacional de la Universidad;
 
-II. Conocer de la calificación de la recusación de dos o tres Magistrados integrantes de una Sala;
+II.- Proponer políticas de operación interna;
 
-> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
+III.- Evaluar el cumplimiento de programas y metas de las distintas áreas de la Universidad;
 
-III. Resolver sobre las contradicciones de criterios generales sustentados por Magistrados y entre las Salas del Tribunal, sin perjuicio de observarse la jurisprudencia de los Tribunales Federales. Lo anterior podrá hacerse a petición de parte o de los órganos en conflicto ante el Pleno del Tribunal Superior de Justicia del Distrito Federal.
+IV.- Vigilar el cumplimiento del programa de desarrollo institucional;
 
-> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
+V.- Establecer proyecciones de crecimiento y desarrollo de la Universidad; y
 
-La resolución que se dicte no afectará las situaciones jurídicas concretas derivadas de los juicios en los cuales se hubiesen dictado las sentencias que sustentaron las tesis contradictorias.
+VI.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables, así como aquéllas que le confiera el Rector.
 
-> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
-
-El Pleno deberá dictar la resolución correspondiente dentro del término de tres meses y deberá ordenar su publicación en el Boletín Judicial y en los Anales de Jurisprudencia y la remitirá a todos los órganos jurisdiccionales en la materia, que forman parte del Tribunal Superior de Justicia del Distrito Federal;
-
-IV. Solicitar al Consejo de la Judicatura, el cambio de adscripción de Jueces y, en su caso, su remoción del cargo por causa justificada;
-
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
-
-V. Expedir los acuerdos generales y demás disposiciones reglamentarias para el adecuado ejercicio de sus propias funciones y de las relativas a la función jurisdiccional del Tribunal Superior de Justicia del Distrito Federal, del Servicio Medico Forense y de los órganos judiciales.
-
-Establecer los mecanismos que permitan evaluar el desempeño jurisdiccional de las Salas y Juzgados, y en caso de existir irregularidades, determinar la sanción aplicable, dando cuenta al Consejo de la Judicatura del Distrito Federal, para el efecto de que imponga la sanción correspondiente en los términos de esta Ley.
-
-Ordenar y supervisar que el Instituto de Estudios Judiciales implemente cursos de capacitación y actualización de carácter jurisdiccional de forma permanente, en los que participen los servidores públicos de la administración de justicia;
-
-VI. Recibir y en su caso aceptar o rechazar la renuncia del Presidente del Tribunal;
-
-VII. Determinar la materia de las Salas del Tribunal Superior de Justicia;
-
-VIII. Calificar en cada caso las excusas o impedimentos que sus miembros presenten para conocer de determinados asuntos, así como de las recusaciones que se promuevan en contra de los Magistrados, en negocios de la competencia del Pleno;
-
-IX. Proponer al Consejo de la Judicatura, a través de su Presidente las adecuaciones administrativas tendientes a simplificar y eficientar los procedimientos de registro, control y seguimiento de los asuntos que sean tramitados ante los Tribunales del Fuero Común y del Tribunal Superior de Justicia procurando en todo caso, y en la medida de lo posible, la incorporación de los métodos más modernos de sistematización y computarización para la más expedita, eficaz y transparente administración de justicia;
-
-X. Conocer de las quejas que se presenten en contra de su Presidente, y
-
-XI. Conocer de los asuntos cuya resolución no esté expresamente atribuida a otro órgano judicial;
-
-> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
-
-XII. Resolver las revisiones administrativas a que se refiere el párrafo octavo del artículo 100 de la Constitución Política de los Estados Unidos Mexicanos, en los términos que esta Ley dispone;
-
-> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
-
-XIII. Solicitar al Consejo de la Judicatura del Distrito Federal, la expedición de aquellos acuerdos generales que considere necesarios para asegurar un adecuado ejercicio de la función de los órganos judiciales;
-
-> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
-
-XIV. Revisar, modificar y, en su caso, revocar los acuerdos que el Consejo de la Judicatura del Distrito Federal apruebe, siempre y cuando se refieran a la designación, adscripción, remoción de magistrados o jueces u opinión para designación o ratificación de magistrados o jueces, requiriéndose para ello el voto de cuando menos dos terceras partes de sus integrantes;
-
-> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
-
-XV. Acordar la realización de visitas periódicas a las instituciones del sistema penitenciario del Distrito Federal, para entrevistarse con los individuos sujetos a proceso y conocer las condiciones bajo las cuales se están llevando los procesos penales;
-
-> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
-
-XVI. Designar a los Magistrados que integren comisiones substanciadoras de aquellos procesos judiciales que corresponda resolver al Pleno, mismas que podrán dictar los acuerdos de trámite necesarios;
-
-> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
-
-XVII. Revisar el cumplimiento de los requisitos que exige el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, en la resolución que dicte el Juez de la causa, mediante la que determine la procedencia de la orden de aprehensión o comparecencia, cuando se hubiere ejercitado acción penal en contra de un Magistrado, Consejero o Juez en el desempeño de su cargo o con motivo de éste. De resultar procedente se asentará mediante acuerdo y éste se comunicará al Consejo de la Judicatura del Distrito Federal, por conducto de su Presidente, para que proceda en términos de la fracción VII, del artículo 201 de esta ley;
-
-> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
-
-XVIII. Conocer de los recursos de apelación que se interponga en las causas que se instauren en contra de un Magistrado, Consejero o Juez;
-
-> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
-
-XIX. Las demás que expresamente le confieran esta ley y otras disposiciones aplicables.
-
-> <small>(REFORMADA SU DENOMINACION, G.O. 24 DE ABRIL DE 2003)</small>
-
-### CAPITULO II. Del Presidente del Tribunal Superior de Justicia del Distrito Federal
-
-> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
+### CAPÍTULO SEXTO. DE LOS PLANES Y PROGRAMAS DE ESTUDIO
 
 ###### Artículo 33.
 
-El Presidente del Tribunal Superior de Justicia del Distrito Federal durará en su cargo cuatro años y podrá ser reelecto, por una sola vez para el período siguiente. Será electo de entre los Magistrados que tengan una antigüedad no menor de tres años en su cargo, por el Pleno del Tribunal Superior de Justicia del Distrito Federal mediante escrutinio secreto, en la última sesión que habrá de celebrarse en el mes de diciembre del año previo a su mandato.
+Los Jefes de Departamento, tendrán las siguientes facultades genéricas:
 
-El período de ejercicio del Presidente iniciará en el mes de enero del año que corresponda y rendirá la protesta de Ley ante el Pleno del Tribunal Superior de Justicia del Distrito Federal, en la primera sesión.
+I.- Coordinar lo concerniente al área de aplicación de su servicio;
 
-> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
+II.- Ejecutar las actividades inherentes a su área;
+
+III.- Resolver e informar el trámite de los asuntos encomendados; y
+
+IV.- Las demás que les señalen las disposiciones legales y reglamentarias aplicables, así como aquéllas que les confieran sus superiores jerárquicos.
 
 ###### Artículo 34.
 
-El Presidente tendrá las atribuciones que le confiere la presente Ley, siendo sus funciones principales las de: impulsar el desarrollo del Sistema de Impartición y Administración de Justicia en el Distrito Federal, procurar la correcta aplicación de la ley y velar para que la administración de justicia sea eficaz y expedita; dictando al efecto las providencias que fueren necesarias, promoviendo la modernización y adecuado funcionamiento de los diversos órganos jurisdiccionales y administrativos, por sí o por conducto de los servidores públicos judiciales facultados al efecto.
+La Universidad para su mejor funcionamiento, podrá contar con los órganos colegiados que requiera, cuya integración y funcionamiento será la que se indique en los reglamentos respectivos, previa aprobación del Consejo.
 
 ###### Artículo 35.
 
-Las providencias y acuerdos del Presidente pueden reclamarse ante el Tribunal en Pleno, por parte interesada, dentro del plazo de tres días hábiles, siempre que dicha reclamación se presente por escrito, con motivo fundado.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE ABRIL DE 2003)</small>
+Serán alumnos de la Universidad quienes habiendo cumplido con los procedimientos y requisitos de selección e ingreso, sean admitidos para cursar cualquiera de las carreras que se impartan, y tendrán los derechos y las obligaciones que les confieren el Decreto y las disposiciones reglamentarias que se expidan.
 
 ###### Artículo 36.
 
-Corresponde al Presidente del Tribunal Superior de Justicia del Distrito Federal:
-
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
-
-I. Representar al Tribunal Superior de Justicia del Distrito Federal:
-
-a). En los actos oficiales, teniendo la facultad de delegar en Magistrados o Jueces dicha representación, y
-
-b). Ante las autoridades en cualquier procedimiento en que el Tribunal Superior de Justicia del Distrito Federal sea parte, teniendo la facultad de delegar por causas de fuerza mayor en aquellos casos que las leyes lo permitan, la representación en el Titular de la Dirección Jurídica.
-
-II. Nombrar a los Secretarios de la Presidencia y del Pleno del Tribunal;
-
-> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
-
-III. Designar a los Secretarios Auxiliares y Secretarios Técnicos, y demás personal de la Presidencia. De igual forma a los funcionarios, técnicos y personal que señale la presente ley;
-
-IV. Llevar el turno de los Magistrados que se excusen de conocer de alguno de los asuntos de su competencia o que sean recusados, para suplirlos con otros Magistrados;
-
-V. Llevar una lista de las excusas, recusaciones, incompetencias y sustituciones que estará a disposición de los interesados en la Secretaría de Acuerdos correspondiente;
-
-VI. Remitir al juez correspondiente los exhortos, rogatorias, suplicatorias, requisitorias y despachos, de acuerdo con el turno que al efecto se lleve;
-
-VII. Llevar la correspondencia del Tribunal Superior de Justicia;
-
-VIII. Recibir quejas sobre demoras, excusas o faltas en el despacho de los negocios, turnándolas, en su caso, a quien corresponda;
-
-> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
-
-IX. Regular, instrumentar, sistematizar, dirigir y supervisar en el Tribunal Superior de Justicia del Distrito Federal, las funciones de desarrollo institucional, programación, política financiera, información, evaluación y de coordinación con otros sectores e instituciones; asimismo le corresponde instrumentar y supervisar el Programa General de Trabajo de la Institución, con la colaboración y participación de todas las áreas integrantes de la misma. Para la realización de esas funciones dispondrá de las correspondientes unidades de apoyo, de conformidad con las disponibilidades presupuestales del Tribunal y con las facultades que se les confieran en el Reglamento Interior del mismo;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 24 DE ABRIL DE 2003)</small>
-
-X. Hacer del conocimiento del Jefe de Gobierno del Distrito Federal:
-
-a) En un plazo no mayor de cinco días, sobre la vacante de Magistrado que, por muerte, haya cesado en el ejercicio del encargo;
-
-b) En un plazo no mayor de cinco días, sobre la vacante de Magistrado que, por incapacidad física o mental, esté imposibilitado para el desempeño del cargo, y
-
-c) Con una antelación no menor a cuarenta y cinco días, el nombre del o los Magistrados que estén por concluir el ejercicio de su encargo;
-
-> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
-
-XI. Formar la estadística judicial con los datos que proporcionan las Salas y Juzgados del Tribunal, así como elaborar y difundir la información estadística relevante, desglosada por rubros y categorías; ya sea para fines meramente informativos, o bien para el seguimiento, control y evaluación de los asuntos. El Consejo de la Judicatura del Distrito Federal establecerá los niveles de divulgación y privilegios de acceso a la misma, según la naturaleza y fines de la información;
-
-> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCION X], G.O. 24 DE ABRIL DE 2003)</small>
-
-XII. Las demás que expresamente le confiera esta Ley y otras disposiciones aplicables.
+Los alumnos podrán constituirse en asociaciones de alumnos, cuyas funciones serán independientes de las que correspondan a las autoridades educativas.
 
 ###### Artículo 37.
 
-El Presidente del Tribunal Superior de Justicia es Presidente del Tribunal en Pleno y como tal tendrá las obligaciones siguientes:
+Los planes de estudio de la Universidad, tenderán a desarrollar en los estudiantes su ser y la capacidad de saber y hacer, para cumplir con las funciones de dirección y apoyo técnico, diseño, investigación, desarrollo e innovación que establezcan los distintos perfiles de egreso.
 
-I. Presidir las sesiones que celebre dicho Tribunal;
+### CAPÍTULO SÉPTIMO. ÓRGANO INTERNO DE CONTROL
 
-II. Convocar a sesiones ordinarias o extraordinarias;
-
-III. Dirigir los debates y conservar el orden durante las sesiones;
-
-IV. Proponer al Tribunal en Pleno los acuerdos que juzgue conducentes para el mejor desempeño de la función judicial;
-
-V. Tramitar todos los asuntos de la competencia del Tribunal en Pleno hasta ponerlos en estado de resolución;
-
-VI. Autorizar en unión del Secretario de Acuerdos que corresponda, las actas de las sesiones, haciendo constar en ellas las deliberaciones del Tribunal en Pleno y los acuerdos que éste dicte en los negocios de su competencia;
-
-VII. Dar cuenta al Tribunal en Pleno con las demandas de responsabilidad civil presentadas en contra de los Magistrados;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-VIII. (DEROGADA, G.O. 18 DE MARZO DE 2011)
-
-IX. Turnar a la Sala que competa, para los efectos a que hubiere lugar, los expedientes a que se refiere el párrafo primero del artículo 165 del Código de Procedimientos Civiles para el Distrito Federal;
-
-> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
-
-X. Dar cuenta al Tribunal en Pleno, en el informe anual correspondiente, de los actos que lleve a cabo en el ejercicio de sus funciones, así como del desempeño general de los servicios que le sean adscritos;
-
-> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
-
-XI. Aprobar la formalización de acuerdos y convenios de colaboración teórico-académica, con instituciones públicas o privadas tendientes a una mayor profesionalización y capacitación en el campo de la impartición de justicia; y
-
-> <small>(ADICIONADA, G.O. 18 DE MARZO DE 2011)</small>
-
-XII. Las demás que expresamente le confiera esta Ley y otras disposiciones aplicables.
-
-### CAPITULO III. De las Salas del Tribunal
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
 
 ###### Artículo 38.
 
-Las Salas del Tribunal del Tribunal (sic) Superior de Justicia del Distrito Federal, se integrarán cada una por tres magistrados, y serán designadas cada una por un número ordinal, en Salas Civiles, Penales, Familiares, Justicia para Adolescentes y Especializadas en Ejecución de Sentencias Penales.
-
-Los Magistrados integrantes de las mismas actuarán en forma unitaria o colegiada en los términos establecidos por esta Ley. El Pleno del Tribunal determinará las materias de las Salas, de acuerdo con los requerimientos de una buena administración de justicia.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 17 DE JUNIO DE 2011)</small>
-
-La (sic) Salas Especializadas en Ejecución de Sanciones Penales del Tribunal Superior de Justicia en el Distrito Federal resolverán en forma colegiada sobre le negativa o el otorgamiento de los beneficios en materia penitenciaria y en todos los demás casos resolverán de manera unitaria.
+Los planes de estudio basarán su estructura en tres ejes rectores de la formación: teórico-práctico, general-especializado y universidad-sector productivo.
 
 ###### Artículo 39.
 
-Los Magistrados de cada Sala, elegirán anualmente de entre ellos un Presidente que durará en su cargo un año y no podrá ser reelecto para el período siguiente.
+Las materias y asignaturas del plan de estudios se agruparán en las siguientes áreas: ciencias básicas aplicadas, conocimientos técnicos, lenguajes y métodos y formación ética y sociocultural.
 
 ###### Artículo 40.
 
-Los Magistrados de las Salas desahogarán semanariamente por orden progresivo y en forma equitativa todo el trámite de Segunda Instancia.
+Los planes y programas de estudio tomarán en cuenta las orientaciones del desarrollo socioeconómico, tecnológico ambiental del país y las necesidades del sector productivo.
 
 ###### Artículo 41.
 
-Las resoluciones colegiadas de las Salas se tomarán por unanimidad o mayoría de votos.
+Los programas de las asignaturas deberán señalar objetivos, duración, unidades, bibliografía, prácticas, materiales a utilizar y metodología de evaluación.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE JULIO DE 2018)</small>
 
 ###### Artículo 42.
 
-Corresponde a los presidentes de Sala:
+El Órgano Interno de Control es la unidad administrativa responsable de controlar, vigilar, fiscalizar y evaluar el uso correcto de los recursos materiales y financieros de la Universidad, con el fin de determinar su correcto desempeño.
 
-I. Llevar la correspondencia de la Sala, autorizándola con su firma;
-
-II. Distribuir por riguroso turno los negocios, entre él y los demás miembros de la Sala, para su estudio y presentación oportuna, en su caso, del proyecto de resolución que en cada uno deba dictarse;
-
-III. Presidir las audiencias de la Sala, cuidar el orden de la misma y dirigir los debates;
-
-IV. Dirigir la discusión de los negocios sometidos al conocimiento de la Sala y ponerlos a votación cuando la Sala declare terminado el debate;
-
-V. Dar a la Secretaría de Acuerdos los puntos que comprendan las disposiciones resolutivas votadas y aprobadas;
-
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
-
-VI. Llevar la administración de la oficina de la Sala; y
-
-VII. Vigilar que los Secretarios y demás servidores públicos de la Sala cumplan con sus deberes respectivos.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
 
 ###### Artículo 43.
 
-Las Salas en materia Civil, conocerán:
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2008)</small>
-
-I. De los casos de responsabilidad civil y de los recursos de apelación y queja que se interpongan en asuntos civiles y de Extinción de Dominio, contra las resoluciones dictadas por los jueces de lo Civil, Arrendamiento Inmobiliario y de Extinción de Dominio;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2008)</small>
-
-II. De las excusas y recusaciones de los Jueces Civiles, del Arrendamiento Inmobiliario y de Extinción de Dominio, del Tribunal Superior de Justicia del Distrito Federal;
-
-III. De los conflictos competenciales que se susciten en materia Civil entre las autoridades judiciales del Tribunal Superior de Justicia, y
-
-IV. De los demás asuntos que determinen las leyes.
-
-Las sentencias definitivas o resoluciones que pongan fin a la instancia que recaigan a los asuntos a que se refieren las fracciones anteriores, se pronunciarán de manera colegiada. En todos los demás casos se dictarán unitariamente por los Magistrados que integren la Sala conforme al turno correspondiente.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
-
-Cualquiera de los Magistrados podrá determinar que el fallo se realice en forma colegiada en razón del criterio que se va a establecer o por otra circunstancia.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE ABRIL DE 2003)</small>
+El Órgano Interno de Control ejercerá las facultades que le asigna el Decreto de Creación de la Universidad, así como las que les señalen las disposiciones legales y reglamentarias aplicables y en materia de responsabilidades administrativas.
 
 ###### Artículo 44.
 
-Las Salas en materia Penal, conocerán:
-
-I. De los recursos de apelación y denegada apelación que les correspondan y que se interpongan en contra de las resoluciones dictadas por los Jueces del orden Penal del Distrito Federal, incluyéndose las resoluciones relativas a incidentes civiles que surjan en los procesos;
-
-II. (DEROGADA, G.O. 24 DE ABRIL DE 2003)
-
-III. De las excusas y recusaciones de los Jueces Penales del Tribunal Superior de Justicia;
-
-IV. Del conflicto competencial que se susciten en materia penal entre las autoridades judiciales del Tribunal Superior de Justicia del Distrito Federal;
-
-V. De las contiendas de acumulación que se susciten en materia penal, entre las autoridades que expresa la fracción anterior, y
-
-VI. De los demás asuntos que determinen las leyes.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
-
-Estas Salas resolverán de manera colegiada, cuando se trate de apelaciones contra sentencias definitivas derivadas de procedimientos ordinarios dictadas en procesos instruidos por delito grave en los que se imponga pena de prisión mayor a cinco años. En todos los demás casos, las resoluciones se dictarán en forma unitaria conforme al turno correspondiente.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
-
-Cualquiera de los Magistrados podrá determinar que el fallo se realice en forma colegiada en razón del criterio que se va a establecer o por otra circunstancia.
-
-> <small>(ADICIONADO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+En ausencias temporales del Rector, menores a 30 días, este designará quien lo sustituya en su cargo.
 
 ###### Artículo 44 Bis.
 
@@ -738,61 +550,53 @@ IV. De los demás asuntos que determinen las leyes.
 
 ###### Artículo 45.
 
-Las Salas en materia Familiar, conocerán:
-
-I. De los casos de responsabilidad civil y de los recursos de apelación y queja que se interpongan en asuntos de materia Familiar, contra las resoluciones dictadas por los jueces del mismo ramo;
-
-II. De las excusas y recusaciones de los Jueces del Tribunal Superior de Justicia, en asuntos del orden Familiar;
-
-III. De las competencias que se susciten en materia Familiar entre las autoridades judiciales del Tribunal Superior de Justicia del Distrito Federal, y
-
-IV. De los demás asuntos que determinen las leyes.
-
-Las sentencias en los asuntos a que se refieren las fracciones anteriores, se pronunciarán de manera colegiada tratándose de definitivas o de resoluciones que pongan fin a la instancia y las que versen sobre custodia de menores. En todos los demás casos se dictarán unitariamente por los Magistrados que integren la Sala conforme al turno correspondiente.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
-
-Cualquiera de los Magistrados podrá determinar que el fallo se realice en forma colegiada en razón del criterio que se va a establecer o por otra circunstancia.
-
-> <small>(ADICIONADO PRIMER PARRAFO, G.O. 24 DE ABRIL DE 2003)</small>
+En ausencias temporales menores a treinta días de los Secretarios y Directores de Área, estos serán designados por el Rector o quien lo substituya en su cargo.
 
 ###### Artículo 46.
 
-Las Salas al resolver sobre las excusas de los Jueces, en caso de que éstas sean infundadas, remitirán la resolución al Consejo de la Judicatura del Distrito Federal para que imponga la sanción correspondiente.
-
-> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
-
-Para el desempeño de los asuntos encomendados, cada Sala tendrá cuando menos un Secretario de Acuerdos, un Secretario Auxiliar, nueve Secretarios Proyectistas y un Secretario Actuario, que serán designados y removidos por los Magistrados integrantes de la Sala y la planta de servidores públicos de la administración de justicia que fije el presupuesto de egresos.
-
-> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
-
-Los Secretarios de Acuerdos y Secretarios Auxiliares de Salas, tendrán en lo conducente, las mismas atribuciones que los Secretarios de Acuerdos de los Juzgados de Primera Instancia.
+En ausencias menores a treinta días de los Directores de División o de Carrera, el Secretario Académico, o quien lo supla determinará quien los substituya en su cargo.
 
 ## TITULO CUARTO. De la Organización de los Juzgados del Tribunal Superior de Justicia
 
-### CAPITULO I. Disposiciones Generales
+### CAPÍTULO OCTAVO. DE LAS SUPLENCIAS
 
 ###### Artículo 47.
 
-(DEROGADO, G.O. 8 DE SEPTIEMBRE DE 2004)
+En los casos de ausencias mayores a 30 días deberá convocarse a sesión al Consejo, a efecto de nombrar un suplente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA SU DENOMINACION, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
-
-### CAPITULO II. De los Juzgados del Distrito Federal
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+### CAPÍTULO NOVENO. DE LAS REFORMAS
 
 ###### Artículo 48.
 
-Los Juzgados son órganos jurisdiccionales del Tribunal Superior de Justicia del Distrito Federal.
+Para reformar el presente Reglamento Interior se requerirá:
 
-(REUBICADO, G.O. 14 DE NOVIEMBRE DE 2007)
+I.- Que se haga del conocimiento de los integrantes del 30 treinta días a la fecha en que dicho Consejo deba reunirse; y
+
+II.- Que la reforma sea aprobada por el voto de cuando menos las dos terceras partes de los integrantes del Consejo.
+
+T R A N S I T O R I O S
+
+Artículo Primero.- El presente Decreto Gubernativo entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- La Contraloría Interna entrará en funciones una vez que haya sido determinado y asignado el presupuesto para ello.
+
+Dado en la Residencia del Poder Ejecutivo, en la Ciudad de Guanajuato, Capital, a los 30 treinta días del mes de junio del año 2001 dos mil uno.
+
+JUAN CARLOS ROMERO HICKS.
+
+EL SUBSECRETARIO DE GOBIERNO
+
+Por ausencia del Secretario de Gobierno y con fundamento en el artículo 63 del Reglamento Interior de la Secretaría de Gobierno
+
+GERARDO LUIS RODRÍGUEZ OROZCO.
+
+EL SECRETARIO DE EDUCACIÓN
+
+VÍCTOR MANUEL RAMÍREZ VALENZUELA.
+
+P.O. 18 DE OCTUBRE DE 2016.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 ###### Artículo 49.
 
@@ -1812,15 +1616,13 @@ Los abogados que intervengan en juicios civiles o mercantiles por derecho propio
 
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
-#### SECCION PRIMERA. De los Interventores y Albaceas Judiciales
-
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+#### SECCIÓN PRIMERA. DEL RECTOR
 
 ###### Artículo 132.
 
 En los juicios sucesorios, los interventores y albaceas judiciales cobrarán el 4% del importe de los bienes, si no exceden de ocho mil días de salario mínimo general vigente en el Distrito Federal, si exceden de esta suma, pero no del equivalente a veinticuatro mil días de salario mínimo general vigente en el Distrito Federal, cobrará además el 2% sobre el exceso; si excediere del equivalente a veinticuatro mil días de salario mínimo general vigente en el Distrito Federal cobrará además el 1 % sobre la cantidad excedente.
 
-#### SECCION SEGUNDA. De los Depositarios
+#### SECCIÓN SEGUNDA. DE LOS SECRETARIOS
 
 ###### Artículo 133.
 
@@ -1848,9 +1650,7 @@ Los depositarios de fincas rústicas percibirán como honorarios los que señale
 
 Cuando el secuestro recaiga sobre créditos, el depositario, además de los honorarios a que se refiere el artículo 133, cobrará el 5% sobre el importe de los réditos o pensiones que recaude.
 
-#### SECCION TERCERA. De los Intérpretes y Traductores
-
-(REFORMADO PRIMER PARRAFO, G.O. 24 DE ABRIL DE 2003) (F. DE E., G.O. 1 DE JULIO DE 2003)
+#### SECCIÓN TERCERA. DE LAS DIRECCIONES
 
 ###### Artículo 139.
 
@@ -1862,7 +1662,7 @@ II. Por traducción de cualquier documento, por hoja, el equivalente a dos días
 
 Las anteriores cantidades serán actualizadas conforme al incremento anualizado que se dé en el Indice Nacional de Precios al Consumidor señalado por el Banco de México.
 
-#### SECCION CUARTA. De los Peritos
+#### SECCIÓN CUARTA. DE LAS SUBDIRECCIONES
 
 ###### Artículo 140.
 
@@ -1878,7 +1678,7 @@ II. En exámenes de grafoscopía, dactiloscopía y de cualquier otra técnica, v
 
 III. En los negocios de cuantía indeterminada, los peritos cobrarán hasta doscientos cuarenta días de salario mínimo general vigente en el Distrito Federal, cantidad que se determinará por el Juzgador, tomando en cuenta la naturaleza del negocio y la complejidad de la materia sobre la que verse el peritaje. Dicha cantidad se actualizará en términos de lo dispuesto por el último párrafo del artículo anterior.
 
-#### SECCION QUINTA. De los Arbitros
+#### SECCIÓN QUINTA. DE LAS JEFATURAS DE DEPARTAMENTO
 
 ###### Artículo 141.
 
@@ -3715,3 +3515,19 @@ G.O. 30 DE DICIEMBRE DE 2011.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Segundo. Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNATIVO NÚMERO 171, MEDIANTE EL CUAL, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS DE TREINTA Y UN DECRETOS PARA ADECUAR LA SECTORIZACIÓN DE LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS DE EDUCACIÓN SUPERIOR A LA SECRETARÍA DE INNOVACIÓN, CIENCIA Y EDUCACIÓN SUPERIOR”.]
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 229, POR EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS NORMATIVOS DE DISTINTAS DEPENDENCIAS Y ENTIDADES QUE INTEGRAN LA ADMINISTRACIÓN PÚBLICA ESTATAL, A EFECTO DE ARMONIZAR LO REFERENTE A LOS ÓRGANOS INTERNOS DE CONTROL”.]
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. En tanto se cuenta con suficiencia presupuestal, la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, emitirá los acuerdos correspondientes en los cuales se designe a las unidades administrativas de las dependencias y entidades de la administración pública estatal que ejercerán las facultades de investigación, sustanciación y resolución que corresponden a los Órganos Internos de Control, en los términos de la Ley Orgánica del Poder Ejecutivo, de la Ley de Responsabilidades Administrativas para el Estado de Guanajuato, las disposiciones que deriven del presente Decreto y demás disposiciones aplicables.
+
+Los acuerdos que emita la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, especificarán las atribuciones que se delegarán en los mismos, a los servidores públicos titulares o adscritos a las unidades administrativas a que se refiere el párrafo anterior.
+
+Los acuerdos a que se refiere el presente artículo, se publicarán en el Periódico Oficial del Gobierno del Estado.
