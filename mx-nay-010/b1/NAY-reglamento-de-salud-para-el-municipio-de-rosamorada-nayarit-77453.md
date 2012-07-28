@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-salud-para-el-municipio-de-rosamorada-nayarit-774
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-13"
-last_updated: "2010-11-13"
+last_updated: "2012-07-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77453&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "NAY"
 
 REGLAMENTO DE SALUD PARA EL MUNICIPIO DE ROSAMORADA DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2012.
 
 Reglamento publicado en la Sección Octava del Periódico Oficial del Estado de Nayarit, el sábado 13 de noviembre de 2010.
 
@@ -254,15 +254,21 @@ Queda prohibida la cremación de restos o cuerpos humanos en la zona urbana de l
 
 El servicio público de limpia tiene como fin preservar la limpieza, el medio ambiente y la salud de la población del Municipio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 35.
 
-Los vecinos, los habitantes y los visitantes del Municipio, tienen en materia de limpieza las obligaciones siguientes:
+Los vecinos, los habitantes y los visitantes del Municipio, tienen en materia de limpieza las obligaciones siguientes
 
 I. Depositar la basura de su domicilio, de los centros comerciales, industriales o de servicio en los lugares, horarios y depósitos de basura que determine la autoridad, o en los lugares que se designen como destino final de los mismos.
 
 II. Tener limpias las banquetas y el arroyo de las calles frente a sus domicilios.
 
 III. Participar en las campañas de limpieza que convoque la autoridad mpal.
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2012)</small>
+
+IV. Mantener los patios y solares baldíos barridos, desyerbados, ordenado, evitando tiraderos de agua, tapar los depósitos de agua; lavarlos por los menos una vez al mes los tambos y otros recipientes, de no ser usados tenerlos boca abajo y resguardar bajo techo objetos que acumulen agua.
 
 ###### ARTICULO 36.
 
@@ -628,6 +634,18 @@ En el Municipio de Rosamorada no se concederá ninguna licencia de gasolinera o 
 
 El Presidente Municipal por si a (sic) través de las (sic) Dirección de Salud Municipal, Arquitectura o de Protección Civil, tendrá en todo tiempo la facultad permanente de indicar a los propietarios o responsables de la (sic) gasolineras o gaseras, las medidas que considere necesarias para prevenir y combatir siniestros.
 
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2012)</small>
+
+La multa administrativa podrá ser de 1 hasta 100 veces el salario mínimo vigente en la zona del Municipio de Rosamorada, Nayarit, de acuerdo a la gravedad de la falta cometida, el peligro expuesto, la naturaleza y el tipo de giro o establecimiento y a la capacidad económica del infractor. Si se tratare de vendedores ambulantes de escasos recursos, la multa no excederá de un día de salario.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2012)</small>
+
+Para dar seguimiento a la solución del problema, se procederá al trámite administrativo; se hará llegar a su domicilio un requerimiento expedido por el fiscal de salud municipal, dando un plazo máximo de 10 días para la solución por parte del infractor, de hacer caso omiso se procederá a la aplicación de la sanción durante el periodo de 5 días posteriores al termino del tiempo señalado para la solución del problema.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2012)</small>
+
+En caso de reincidencia se aplicara al infractor hasta el doble de la sanción que se haya hecho acreedora con antelación y si se percibe en la misma falta se sancionara con la cancelación de la licencia o permiso, o clausura del establecimiento.
+
 ###### ARTICULO 102.
 
 El Ayuntamiento podrá infraccionar o clausurar temporal o definitivamente los giros dedicados la (sic) venta de gasolina y gas por violaciones al presente Reglamento, por contaminación ambiental o por riesgos a la comunidad.
@@ -875,3 +893,9 @@ En contra de las resoluciones dictadas por la autoridad municipal al resolver lo
 CÚMPLASE.- Dado en el Salón de Cabildo de H. Ayuntamiento Constitucional de Rosamorada, Nayarit.
 
 ATENTAMENTE SEFRAGIO (SIC) EFECTIVO NO REELECCIÓN, ING. ROMÁN VILLELA MALLORQUÍN, PRESIDENTE MUNICIPAL.- Rúbrica.- C. GREGORIO MALLORQUÍN GALVÁN, SINDICO MUNICIPAL.- Rúbrica.- PROFR. EDGAR ULISES OROZCO LARA, REGIDOR.- Rúbrica.- C. JAVIER ARAMBUL DE LA ROSA, REGIDOR.- Rúbrica.- C. CAMILO GONZÁLEZ RAMOS, REGIDOR.- Rúbrica.- C. JESÚS RAMOS DUEÑAS VALDERRAMA, REGIDOR.- Rúbrica.- C. JORGE RODRÍGUEZ VALLE, REGIDOR.- Rúbrica.- C. IGNACIO ORTEGA GONZÁLEZ, REGIDOR.- Rúbrica.- FRANCISCO RAMÍREZ SENCION, REGIDOR.- Rúbrica.- C.J. GUADALUPE GONZÁLEZ MEDINA, REGIDOR.- Rúbrica.- LIC. LUCIO MARTÍNEZ BARRON, REGIDOR.- Rúbrica.- LIC. CRISTIAN GPE. MEDINA SÁNCHEZ, REGIDOR.- Rúbrica.- SECRETARIO MUNICIPAL, C. ISAIS SANDOVAL AVIÑA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE JULIO DE 2012.
+
+Artículo Primero.- El presente Decreto entrara en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado.
