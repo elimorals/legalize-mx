@@ -4,7 +4,7 @@ identifier: "CHH-ley-que-regula-el-funcionamiento-de-las-instituciones-48789"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-04"
-last_updated: "2009-10-28"
+last_updated: "2012-07-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY QUE REGULA EL FUNCIONAMIENTO DE LAS INSTITUCIONES PRESTADORAS DE SERVICIOS PARA EL CUIDADO INFANTIL Y DE MENORES EN EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2012.
 
 Ley publicada en el periódico oficial del Estado de Chihuahua, el sábado 4 de febrero de 2006.
 
@@ -115,21 +115,55 @@ VII.- Contrato: El acuerdo suscrito entre el usuario y la institución con el ob
 
 VIII.- Normas técnicas: Conjunto de acuerdos administrativos de carácter general, mediante los cuales la Secretaría desarrolla y clarifica los conceptos abordados por las Normas Oficiales Mexicanas que correspondan, relativos a los requerimientos a los que las instituciones deberán sujetar su actividad.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2012)</small>
 
 ###### Artículo 5.
 
-Las instituciones deberán propiciar las acciones necesarias para que los menores adquieran hábitos higiénicos, sana convivencia y cooperación, aprecio por la dignidad de las personas y la integridad de la familia, evitando privilegios de raza, religión, grupo, sexo o condición económica, en concordancia con su entorno social, con absoluto respeto a los elementos formativos de estricta incumbencia familiar.
+Las instituciones deberán propiciar las acciones necesarias para que las niñas y niños adquieran hábitos higiénicos, sana convivencia y cooperación, aprecio por la dignidad de las personas y la integración familiar, evitando privilegios de raza, religión, grupo, sexo o condición económica, en concordancia con su entorno social y su edad, con absoluto respeto a los elementos formativos de estricta incumbencia familiar.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2012)</small>
 
 ###### Artículo 6.
 
-En todo caso, los servicios de cuidado infantil y de menores incluirán el aseo, la alimentación, el cuidado de la salud, la educación y la recreación, en los términos que esta Ley prevé, además de los reglamentos que de ella deriven.
+Los servicios de cuidado comprenderán:
+
+I. Atención sustentada en principios científicos, éticos y sociales.
+
+II. Alimentación nutritiva, suficiente, oportuna y en condiciones de higiene.
+
+III. Fomento, cuidado y fortalecimiento de la salud para su sano desarrollo en todos los aspectos, vigilando que todos estén al corriente en aplicación de sus vacunas.
+
+IV. Actividades educativas y recreativas que promuevan los conocimientos, aptitudes y desarrollo de las esferas cognoscitiva, afectiva y psicomotora.
+
+V. Vigilancia del desarrollo educativo.
+
+VI. Atención especial a las niñas y niños con discapacidad no dependientes.
+
+VII. Respeto a sus derechos y pertenencias.
+
+VIII. Protección, seguridad y vigilancia.
+
+IX. Las demás que la presente Ley y otros ordenamientos en la materia dispongan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2012)</small>
 
 ###### Artículo 7.
 
-Las instituciones que acepten niños mayores a tres años, velarán por el derecho que tiene el menor a la educación básica obligatoria, establecida en el primer párrafo del artículo 3° de la Constitución Federal y las demás disposiciones que establece la legislación en materia educativa.
+Las instituciones que acepten niños mayores a tres años, velarán por el derecho que tiene el menor a la educación básica obligatoria, establecida en el primer párrafo del artículo 3° de la Constitución Federal y las demás disposiciones que establece la legislación en materia educativa, inculcando la socialización, creatividad, valores éticos y desarrollo armónico de la personalidad.
 
 Las instituciones que carezcan de los servicios educativos a que hace referencia el párrafo anterior, deberán implementar mecanismos para garantizar tal derecho, observando las medidas de seguridad que dicha actividad requiera.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2012)</small>
+
+Artículo 7 BIS.- Las Instituciones Prestadoras de Servicios para el Cuidado Infantil y de Menores en el Estado de Chihuahua, estarán obligadas a recibir en igualdad de condiciones a las niñas y niños con discapacidad no dependientes.
+
+Su ingreso quedará sujeto a la disponibilidad de lugares con que cuenta cada institución, con respecto a la admisión general.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2012)</small>
+
+Artículo 7 TER.- Se entenderá por niñas o niños con discapacidad no dependientes, a los que padezcan algún tipo de discapacidad pero que no dependan del cuidado o atención especializados distintos a los previstos en la Ley.
+
+Para efecto de lo anterior, deberán contar, al momento de su ingreso, con un documento expedido por médico especialista, de acuerdo al tipo y grado de discapacidad, en el que se acredite tal circunstancia.
 
 ###### Artículo 8.
 
@@ -141,11 +175,13 @@ Se excluyen de las disposiciones de esta Ley a las instituciones dependientes de
 
 ### CAPÍTULO SEGUNDO. DEL FUNCIONAMIENTO DE INSTITUCIONES PRESTADORAS DE SERVICIOS PARA EL CUIDADO INFANTIL Y DE MENORES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2012)</small>
 
 ###### Artículo 10.
 
 Las instituciones requieren para su funcionamiento autorización de la Secretaría, quien otorgará la licencia correspondiente, previo cumplimiento de los requisitos señalados en el artículo 15 de la presente Ley, y los siguientes:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 28 DE JULIO DE 2012)</small>
 
 I.- Espacios, áreas e instalaciones especializadas, así como implementos de aseo, cocina y primeros auxilios.
 
@@ -156,6 +192,24 @@ III.- Materiales didácticos y pedagógicos de acuerdo a los parámetros educati
 IV.- Personal capacitado especialmente al efecto.
 
 V.- Los demás enseres y utensilios necesarios para el sano desarrollo físico y mental de los menores.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2012)</small>
+
+VI.- Reglamento Interno que contendrá como mínimo las condiciones de trabajo de la Institución, así como los derechos y obligaciones tanto de los padres de familia, como de las niñas y niños inscritos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2012)</small>
+
+VII.- Manual Técnico Administrativo que contemplará las funciones de todas las personas que trabajen en la Institución y los procedimientos de operación de la misma.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2012)</small>
+
+VIII.- Programa General de Trabajo orientado a elevar los niveles de salud y educación, y ofrecer protección, atención y cuidado, a fin de favorecer el desarrollo de las niñas y niños e incorporar a aquéllos con discapacidad no dependientes.
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
@@ -478,3 +532,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Las instituciones prestadoras de servicios para el cuidado infantil y de menores, dentro de un término de seis meses contados a partir de la publicación del presente Decreto, deberán hacer lo conducente para dar cumplimiento a lo establecido en el párrafo final del artículo 10.
+
+P.O. 28 DE JULIO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones previstas en las fracciones VI, VII y VIII, todas del artículo 10, entrarán en vigor ciento ochenta días después de su publicación en el Periódico Oficial del Estado.
