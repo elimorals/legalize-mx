@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2012-06-30"
+last_updated: "2012-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2012.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -417,9 +417,17 @@ Además de los nombres de los padres, se hará constar en el acta de nacimiento 
 
 63.- Si el padre o la madre no pudieren concurrir ni tuvieren apoderado, pero solicitaren ambos o alguno de ellos la presencia del jefe de la oficina, éste pasará al lugar en que se halle el interesado y allí levantará el acta.
 
-> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2012)</small>
 
-64.- Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso, ni a petición de persona alguna, podrá asentarse como padre a otro que no sea el mismo marido, salvo que éste haya desconocido al hijo y exista sentencia ejecutoria que así lo declare.
+64.- Cuando el hijo nazca de una mujer casada que viva con su marido no podrá atribuirse la paternidad a otro que no sea a aquél, salvo que exista sentencia ejecutoriada que declare el desconocimiento de la misma.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2012)</small>
+
+En aras de proteger el interés superior del menor y a efecto de privilegiar el establecimiento de su verdadera identidad, cuando una mujer casada que se encuentre separada físicamente de su marido, procree un hijo con otro hombre, este podrá reconocerlo como hijo suyo, con el consentimiento de la madre, siempre y cuando esta última compruebe, ante la autoridad judicial competente, en los términos de lo dispuesto por el Código de Procedimientos Civiles, la separación física de su cónyuge por más de 300 días anteriores al nacimiento del hijo. De igual forma, de no mediar el reconocimiento del padre biológico, la mujer estará en posibilidad de llevar a cabo el registro como madre soltera, previa justificación de lo antes señalado.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2012)</small>
+
+En caso de que quien aparezca como el padre no sea el cónyuge de la madre, el acta de nacimiento del hijo no contendrá el estado civil de aquéllos.
 
 > <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2010)</small>
 
@@ -1743,7 +1751,9 @@ V.- Por confesión judicial directa y expresa.
 
 350.- El marido podrá reconocer a un hijo habido antes de su matrimonio o durante éste, pero no tendrá derecho de llevarlo a vivir al domicilio familiar, si no es con el consentimiento expreso de la esposa.
 
-351.- El hijo de una mujer casada no podrá ser reconocido como hijo por otro hombre distinto del marido, sino cuando éste lo haya desconocido, y por sentencia ejecutoriada se haya declarado que no es hijo suyo.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2012)</small>
+
+351.- El hijo de una mujer casada no podrá ser reconocido como hijo por otro hombre distinto del marido, salvo lo dispuesto por el artículo 64 de este Código.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
 
@@ -12794,3 +12804,17 @@ DECRETO NÚMERO 803/2012 II P.O. POR EL QUE SE REFORMA EL ARTÍCULO 114 Y EL TER
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE JULIO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Supremo Tribunal de Justicia del Estado, realizará las adecuaciones necesarias a su normatividad interna, con la finalidad de dar cabal cumplimiento a lo establecido en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado, realizará las acciones necesarias, dentro del ámbito de su competencia, para garantizar el registro de los menores de acuerdo a su identidad.
