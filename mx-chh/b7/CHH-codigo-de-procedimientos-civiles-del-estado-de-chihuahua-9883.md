@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2012-06-30"
+last_updated: "2012-07-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2012.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -3967,7 +3967,45 @@ III.- De los casos previstos por los artículos del 2914 al 2920 del Código Civ
 
 IV.- De comprobar la posesión de un derecho real.
 
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2012)</small>
+
+V.- Del supuesto previsto en el artículo 64 del Código Civil, del cual conocerán los jueces de primera instancia o los menores.
+
 En los casos de las dos primeras fracciones, la información se recibirá con citación del Ministerio Público; en el de la tercera, con las formalidades señaladas en el Código Civil sin perjuicio de lo dispuesto en los artículos siguientes; y en el previsto en la fracción cuarta, con citación del propietario de la cosa que reporte el gravamen y, en su caso, con la de los demás partícipes del derecho real.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2012)</small>
+
+Por lo que respecta a la fracción V, se atenderá a lo siguiente:
+
+a) Estas diligencias deberán tramitarse con base en los principios de oralidad, inmediación, abreviación, publicidad, concentración, continuidad y de suplencia de la queja deficiente a favor de los menores. En el desarrollo de dichas diligencias, se velará en todo tiempo por el interés superior del menor.
+
+b) En la tramitación de estas diligencias no habrá días ni horas inhábiles. El Juez proveerá, oralmente, en el momento en que se (sic)
+
+presente, toda cuestión que le sea planteada durante el desarrollo de la audiencia.
+
+c) Las diligencias podrán tramitarse después del nacimiento del niño o niña, o bien, antes de tal evento.
+
+d) En el primero de los supuestos, bastará para iniciar las diligencias, la simple manifestación de la madre de que se encuentra unida en matrimonio, pero separada físicamente de su cónyuge por más de 300 días previos al nacimiento del menor.
+
+e) En el segundo de los supuestos, será suficiente el certificado médico en el que conste el estado de gravidez y la época del nacimiento; de tal suerte que con la resolución dictada en las diligencias, se registre inmediatamente el nacimiento del menor.
+
+f) La solicitud para acreditar la separación física de los cónyuges por más de 300 días previos al nacimiento del menor, podrá presentarse por escrito o mediante simple comparecencia de los interesados.
+
+g) A la solicitud deberá anexarse copia certificada del acta de matrimonio de la cónyuge que solicite el registro del menor, o bien, la certificación a que se refiere el artículo 49 del Código Civil.
+
+h) Inmediatamente que se reciba la promoción o la comparecencia de la interesada, el Juez deberá ordenar la radicación de las diligencias de jurisdicción voluntaria, y mandará de oficio, se notifique en forma personal al Agente del Ministerio Público, proveyendo lo conducente, para que en esa misma fecha, o a más tardar el día siguiente en que se reciba la promoción o comparecencia, se celebre la audiencia, en la que deberán desahogarse las pruebas ofrecidas por los solicitantes, dictándose en la misma la resolución en la cual se acreditará la separación física de los cónyuges, de la que se mandará expedir de oficio copia autorizada, poniéndose a disposición de los interesados en la fecha de la celebración de la audiencia, para ser entregada al Registro Civil y, en base en ella, se proceda al registro correspondiente.
+
+i) En el supuesto de que las diligencias se promuevan antes del nacimiento del menor, las copias de la resolución se entregarán con anticipación al Registro Civil, para que proceda a registrarlo inmediatamente después de ocurrido el natalicio.
+
+j) Si al momento de emitir la resolución correspondiente, el Juez estima que se omitió acreditar alguno de los extremos a que se refiere el artículo 64 del Código Civil, deberá reponer el procedimiento, ordenando la celebración de la audiencia en esa fecha, en la cual, se deberán colmar las deficiencias señaladas por el Juez, y se dictará la resolución correspondiente.
+
+k) No será causa de suspensión de la audiencia ni del dictado de la resolución, lo relativo al horario de trabajo, por lo cual, el Juez deberá tomar las providencias necesarias, para que la resolución se emita a más tardar al día siguiente de la solicitud.
+
+l) En contra de las determinaciones pronunciadas dentro de dichas diligencias, no cabrá recurso alguno.
+
+m) Si durante la tramitación de las diligencias, se apersona el cónyuge de quien pretende registrar al menor, no se suspenderá el curso de las diligencias, y el Juez dejará a salvo sus derechos para que impugne la paternidad en el juicio que corresponda.
+
+n) Es causa de responsabilidad administrativa, para los servidores del tribunal, no acatar o incumplir los términos indicados para estas diligencias.
 
 891.- En las informaciones a que se refiere la fracción III del artículo anterior se cumplirán las siguientes formalidades:
 
@@ -5028,3 +5066,17 @@ P.O. 30 DE JUNIO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE JULIO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Supremo Tribunal de Justicia del Estado, realizará las adecuaciones necesarias a su normatividad interna, con la finalidad de dar cabal cumplimiento a lo establecido en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado, realizará las acciones necesarias, dentro del ámbito de su competencia, para garantizar el registro de los menores de acuerdo a su identidad.
