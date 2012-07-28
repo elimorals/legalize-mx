@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2012-06-30"
+last_updated: "2012-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2012.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -693,9 +693,15 @@ XLI.- Impulsar la creación de instancias municipales que sean las encargadas de
 
 XLII.- Aprobar, a propuesta del Presidente Municipal, al titular de la Dirección de Seguridad Pública Municipal. Dicha aprobación se hará dentro de los cinco días hábiles siguientes a aquél en que reciba la propuesta del Presidente Municipal, tomando en cuenta lo que señala el artículo 22 del presente ordenamiento y, necesariamente, en ese momento, deberá quedar designado, no pudiéndose suspender ni prorrogar el término señalado, debiendo, en caso de encontrarse en receso, citar a sesión extraordinaria, para tales efectos. Durante el tiempo que dure el procedimiento de designación del Director de Seguridad Pública, el Presidente Municipal designará libre y directamente a quien deba encargarse del mencionado despacho.
 
-> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2012)</small>
 
-XLIII.- Las demás que le confieren las leyes y sus reglamentos.
+XLIII.- Como una medida preventiva del delito de robo, ejercer las funciones de inspección, verificación, vigilancia y registro de todas aquellas empresas o establecimientos dedicados a la comercialización, acumulación, almacenamiento, fundición o transformación de productos metálicos o derivados de una aleación metálica.
+
+Los establecimientos dedicados a las actividades señaladas en el párrafo anterior, independientemente de los requisitos que se señalen dentro de los reglamentos que para tal efecto expidan los Ayuntamientos, deberán contar con un registro de proveedores, que contenga entre otros los datos de la empresa que realiza las actividades objeto del control señalado en esta fracción, como son: nombre comercial, domicilio del establecimiento, nombre del propietario o propietarios y, en su caso, nombre del representante legal y su domicilio; así mismo, el registro de proveedores contendrá la identidad de los proveedores, fecha, clase y cantidad de los metales adquiridos.
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2012)</small>
+
+XLIV.- Las demás que le confieren las leyes y sus reglamentos.
 
 ### CAPITULO IV. ATRIBUCIONES DE LOS PRESIDENTES MUNICIPALES
 
@@ -2885,7 +2891,7 @@ Cuando, se trate de actos, otorgados o celebrados fuera del territorio de la Rep
 
 Los plazos que establecen los artículos anteriores, se interrumpirán únicamente por consulta formulada por escrito a la Tesorería Municipal cuando exista duda sobre la procedencia del impuesto o por inconformidad con el avalúo practicado. Los plazos continuarán corriendo a partir de la fecha en que se notifique al causante la resolución.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 25 DE MAYO DE 2002)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE MAYO DE 2002)</small>
 
 ### CAPITULO V. CONTRIBUCION ESPECIAL SOBRE PAVIMENTACION
 
@@ -2995,7 +3001,7 @@ Son objeto de derechos por servicios generales en los rastros municipales, toda 
 
 DERECHO POR SERVICIO DE ALUMBRADO PUBLICO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2011)</small>
 
@@ -3005,7 +3011,7 @@ Es objeto de este derecho, el servicio de alumbrado público que el municipio pr
 
 Son sujetos de este derecho, los propietarios o poseedores de predios, ya sean urbanos, semiurbanos o rústicos, ubicados en el área territorial del municipio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2011)</small>
 
@@ -3031,13 +3037,13 @@ Son objeto de éste derecho, el aseo de los lugares de uso común, la recolecci�
 
 Se exceptúa de lo anterior, a los particulares que depositen residuos sólidos en los lugares que al efecto establezca la autoridad municipal, por sus propios medios, con cargo a su propio peculio y que su actividad no sea con fines lucrativos. La autoridad municipal difundirá la localización de los centros de recepción de residuos sólidos gratuitos en este caso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
 DERECHOS POR LOS SERVICIOS DE LIMPIEZA DE PREDIOS BALDIOS O NO EDIFICADOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
@@ -3077,7 +3083,9 @@ II.- Agua potable y saneamiento, drenaje, alcantarillado, tratamiento y disposic
 
 III.- Pavimentación y nomenclaturas de calles;
 
-IV.- Limpia, recolección, traslado, tratamiento y disposición final de residuos;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2012)</small>
+
+IV.- Limpia, recolección, almacenamiento, traslado, tratamiento y disposición final de residuos de su competencia;
 
 V.- Alumbrado público;
 
@@ -3385,7 +3393,7 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. EDUARDO ROMERO RAMOS.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 30 DE DICIEMBRE DE 1995.
 
@@ -3961,7 +3969,7 @@ P.O. 8 DE JUNIO DE 2005.
 
 P.O. 26 DE OCTUBRE DE 2005.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LA ADICIÓN AL PRESENTE CÓDIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LA ADICIÓN AL PRESENTE ORDENAMIENTO.</small>
 
 PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -4312,3 +4320,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Para la elección de la Junta Municipal en la Sección Municipal de Guapalayna, se estará a lo estipulado por el artículo 44 del Código Municipal para el Estado de Chihuahua, en lo conducente, debiéndose llevar a cabo la elección dentro de los 180 días siguientes a la entrada en vigor del presente Decreto.
+
+P.O. 28 DE JULIO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
