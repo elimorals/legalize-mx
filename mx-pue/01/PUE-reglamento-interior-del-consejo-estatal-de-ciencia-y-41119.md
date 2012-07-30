@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-consejo-estatal-de-ciencia-y-41119"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-01"
-last_updated: "2004-09-01"
+last_updated: "2012-07-30"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41119&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE CIENCIA Y TECNOLOGIA
 
-REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE CIENCIA Y TECNOLOGÍA
+REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE CIENCIA Y TECNOLOGIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL CONSEJO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE 30 DE JULIO DE 2012, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: SIN EFECTOS.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 1 de septiembre de 2004.
 
@@ -260,3 +262,11 @@ PRIMERO.- El presente Reglamento Interior entrará en vigor al día siguiente de
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Acuerdo.
 
 Dado en la Heroica Ciudad de Puebla de Zaragoza, a los 8 días del mes de junio de 2004.- La Junta Directiva: Suplente del Secretario De Educación Pública y Presidente de la Junta Directiva.- CONTADOR PÚBLICO APOLONIO HERNÁNDEZ VERA.- Rúbrica.- Suplente del Secretario De Cultura y Vicepresidente de la Junta Directiva.- PROFESOR ROBERTO REYES GARRIDO.- Rúbrica.- Vocales de la Junta Directiva: Suplente del Secretario de Desarrollo Rural.- INGENIERO RAÚL ZARATE MADRIGAL.- Rúbrica.- Suplente del Director del Instituto Tecnológico de Puebla.- DOCTORA EVELINDA SANTIAGO JIMÉNEZ.- Rúbrica.- Representante de la SEP Federal en Puebla.- LICENCIADO ALFONSO VICENTE DÍAZ.- Rúbrica.- Suplente del Secretario de Finanzas y Administración.- LICENCIADA CLAUDIA MORALES MÉNDEZ.- Rúbrica.- Suplente del Secretario de Desarrollo Económico.- LICENCIADA VERÓNICA SÁNCHEZ GARDUÑO.- Rúbrica.- Suplente del Presidente de la Liga de Comunidades Agrarias y Sindicatos Campesinos del Estado.- MÉDICA VETERINARIA ZOOTECNISTA MARGARITA BLANCAS SALAZAR.- Rúbrica.- Suplente del Director Del Instituto Nacional De Astrofísica, Óptica y Electrónica.- DOCTOR FRANCISCO SOTO EGUÍBAR.- Rúbrica.- Presidente de la Comisión Gran Visión Plan 2020.- LICENCIADO ALFONSO VÉLEZ PLIEGO.- Rúbrica.- Rector de la Universidad Tecnológica de Tecamachalco.- INGENIERO JOSÉ LÓPEZ MEDINA.- Rúbrica.- Delegado de la SEDECAP en el Sector Educativo.- CONTADOR PÚBLICO EDUARDO BRETÓN ESCAMILLA.- Rúbrica.- Directora General del Consejo Estatal de Ciencia y Tecnología.- DOCTORA AMICLA ARELLANO HUACUJA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE JULIO DE 2012.
+
+PRIMERO.- El presente Reglamento deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO.- Se deja sin efectos el Reglamento Interior del Consejo Estatal de Ciencia y Tecnología, publicado en el Periódico Oficial del Estado el uno de septiembre de dos mil cuatro, así como las disposiciones que se opongan al presente ordenamiento.
