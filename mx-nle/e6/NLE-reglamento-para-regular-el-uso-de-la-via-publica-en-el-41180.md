@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-regular-el-uso-de-la-via-publica-en-el-41180"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-22"
-last_updated: "2004-09-22"
+last_updated: "2012-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41180&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO PARA REGULAR EL USO DE LA VIA PUBLICA EN EL EJERCICIO DE LA ACTIVIDAD COMERCIAL DE LA CIUDAD DE SANTIAGO, NUEVO LEON
 
-REGLAMENTO PARA REGULAR EL USO DE LA VIA PUBLICA EN EL EJERCICIO DE LA ACTIVIDAD COMERCIAL DE LA CIUDAD DE SANTIAGO, N.L
+REGLAMENTO PARA REGULAR EL USO DE LA VÍA PÚBLICA EN EL EJERCICIO DE LA ACTIVIDAD COMERCIAL DE LA CIUDAD DE SANTIAGO, N.L
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO PARA REGULAR EL USO DE LA VÍA PÚBLICA EN EL EJERCICIO DE LA ACTIVIDAD COMERCIAL DEL MUNICIPIO DE SANTIAGO, N.L., PUBLICADO EN EL P.O. DE 30 DE JULIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 22 de septiembre de 2004.
 
@@ -782,3 +784,19 @@ PRESIDENTE MUNICIPAL
 C. LIC. ARNOLDO GERARDO LEAL CORDERO
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE JULIO DE 2012.
+
+###### ARTICULO PRIMERO
+
+Se abroga el Reglamento para regular el uso de la vía pública en el ejercicio de la actividad comercial de la ciudad de Santiago, N.L. publicado en el Periódico Oficial con fecha 22 de septiembre del 2004
+
+###### ARTICULO SEGUNDO
+
+Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO TERCERO
+
+De acuerdo a lo ordenado en el referido acuerdo del Ayuntamiento, publíquese el presente y difúndase para su debido conocimiento y observación.
