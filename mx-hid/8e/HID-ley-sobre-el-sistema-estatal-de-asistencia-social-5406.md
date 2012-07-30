@@ -4,7 +4,7 @@ identifier: "HID-ley-sobre-el-sistema-estatal-de-asistencia-social-5406"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-31"
-last_updated: "1988-12-31"
+last_updated: "2012-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5406&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "HID"
 ---
 # LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE AGOSTO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-TEXTO ORIGINAL.
+LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE HIDALGO
+
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 30 DE JULIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1988.
 
@@ -568,3 +572,19 @@ Por lo tanto mando se imprima, publique y circule para su debido cumplimiento el
 Dado en el Palacio del Poder Ejecutivo, en la Ciudad de Pachuca de Soto, Estado de Hidalgo, a los treinta días del mes de diciembre de mil novecientos ochenta y ocho.
 
 El Gobernador Constitucional del Estado.- LIC. ADOLFO LUGO VERDUZCO.- El Secretario de Gobernació (sic).- LIC. ERNESTO GIL ELORDUY.- Rúbricas.
+
+P.O. 30 DE JULIO DE 2012.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se abroga la Ley sobre el Sistema Estatal de Asistencia Social publicada en el
+
+Periódico Oficial del Estado de Hidalgo el 31 de diciembre de 1988, así como las demás disposiciones que se opongan a lo dispuesto por esta Ley.
+
+TERCERO.- El Gobernador del Estado a través de las instancias pertinentes instrumentará lo conducente, en un tiempo no mayor a 180 días naturales, produciendo la normatividad jurídico administrativa reglamentaria pertinente para la organización y funcionamiento de la Procuraduría de la Defensa del Menor y la Familia.
+
+CUARTO.- El Gobernador del Estado a través de las instancias pertinentes instrumentará lo
+
+conducente, en un tiempo no mayor a 180 días naturales, con el fin de generar el mecanismo mediante el cual se formulen el traslado de los bienes inmuebles, muebles, equipos, recursos, presupuestos e insumos diversos provenientes y previstos de la beneficencia, administrados por la Junta General de Asistencia, a efecto de ajustar debidamente la calidad jurídica prevista por la presente Ley; asimismo en dicho término deberá establecer la normatividad jurídico - administrativa reglamentaria pertinente para su organización, funcionamiento y administración de la beneficencia pública.
+
+QUINTO.- El Reglamento correspondiente al presente ordenamiento se deberá expedir en un término no mayor de 360 días naturales a partir de la fecha de entrada en vigor de la presente Ley.
