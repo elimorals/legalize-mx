@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2012-06-19"
+last_updated: "2012-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2012.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -297,9 +297,9 @@ III. A falta de los anteriores, los demás descendientes y ascendientes que depe
 
 IV. El Estado, a través del área encargada de la atención a las víctimas del delito, en los casos en que haya cubierto el costo de los tratamientos curativos y psicoterapéuticos necesarios para las víctimas de delitos, y
 
-> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
 
-V. El Estado a través del área estatal encargada de la ecología y gestión ambiental, en los casos de delitos contra el medio ambiente.
+V. El Estado, a través de la Secretaría de Ecología y Gestión Ambiental, en los casos de delitos a los que se refiere el Título Vigésimo de este Código.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ENERO DE 2011)</small>
 
@@ -3863,6 +3863,288 @@ En todo centro de reclusión se prestarán servicios de rehabilitación al farma
 
 Cuando el Ministerio Público tenga conocimiento que el propietario, poseedor, arrendatario o usufructuario de un establecimiento de cualquier naturaleza lo empleare para realizar cualquiera de las conductas sancionadas en el presente Título o que permitiere su realización por terceros, informará a la autoridad administrativa competente para que, en ejercicio de sus atribuciones, realice la clausura del establecimiento, sin perjuicio de las sanciones que resulten por la aplicación de la Ley de Extinción de Dominio del Estado de San Luis Potosí, y demás ordenamientos legales aplicables.
 
+> <small>(ADICIONADO CON CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE JULIO DE 2012)</small>
+
+## TITULO VIGESIMO. DELITOS CONTRA EL AMBIENTE; LA GESTION AMBIENTAL; Y EL DESARROLLO TERRITORIAL SUSTENTABLE
+
+> <small>(ADICIONADO CON ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE JULIO DE 2012)</small>
+
+### CAPITULO I. DELITOS CONTRA EL AMBIENTE
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
+
+###### ARTICULO 332.
+
+Se impondrán de uno a cinco años de prisión y sanción pecuniaria de trescientos a un mil quinientos días de salario mínimo vigente en el Estado, a quien ilícitamente descargue o deposite hasta tres metros cúbicos de residuos de la industria de la construcción en:
+
+I. Un área natural protegida o área de valor ambiental de competencia del Estado, de conformidad con las disposiciones jurídicas aplicables;
+
+II. Una barranca;
+
+III. Una zona de recarga de mantos acuíferos;
+
+IV. Un área verde en suelo urbano, y
+
+V. En un predio baldío.
+
+Se impondrán de tres a nueve años de prisión y sanción pecuniaria de un mil a cinco mil días de salario mínimo, a quien ilícitamente descargue o deposite más de tres metros cúbicos, en cualquier estado físico, excepto líquido, residuos de la industria de la construcción en las zonas descritas en las fracciones anteriores.
+
+Cuando una o más de las conductas descritas en el presente artículo se cometa a nombre, bajo el amparo o a beneficio de una persona moral, a ésta se le impondrá la consecuencia jurídica accesoria consistente en la prohibición de realizar determinados negocios u operaciones hasta por cinco años, independientemente de la responsabilidad en que hubieren incurrido las personas físicas por el delito cometido.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
+
+###### ARTICULO 333.
+
+Se impondrán de dos a seis años de prisión y sanción pecuniaria de un mil a cinco mil días de salario mínimo vigente en el Estado, a quien ocasione daños a los recursos naturales, la fauna, la flora, los ecosistemas, el ambiente, o la calidad del agua, al realizar alguna o algunas de las siguientes acciones:
+
+I. Emita, despida, descargue en la atmósfera, o lo ordene, gases, humos, polvos o contaminantes, sin aplicar medidas de prevención, siempre que dichas emisiones excedan los límites permitidos y provengan de fuentes fijas de competencia local, o móviles que circulan en el Estado;
+
+II. Descargue, deposite, o infiltre, lo autorice u ordene, aguas residuales, líquidos químicos o bioquímicos, desechos o contaminantes en los suelos, subsuelos, ríos, cuencas, vasos o demás depósitos o corrientes de agua de competencia local, sin aplicar las medidas de prevención;
+
+III. Genere emisiones de energía térmica o lumínica, olores, ruidos o vibraciones, provenientes de fuentes fijas ubicadas en el Estado, o de fuentes móviles que circulan en el Estado;
+
+IV. Realice actividades riesgosas de las previstas en las disposiciones jurídicas aplicables en el Estado, sin contar con la autorización correspondiente de las autoridades ambientales estatales;
+
+V. Deposite sobre suelo natural, o predios agrícolas, bancos de materiales abandonados o agotados, residuos industriales no peligrosos, o residuos de manejo especial, y residuos sólidos urbanos;
+
+VI. Provoque un incendio en el lugar donde se almacena los residuos industriales no peligrosos, o residuos de manejo especial;
+
+VII. Provoque un in (sic) en sitios de disposición final de residuos llamados rellenos sanitarios; o en tiraderos clandestinos;
+
+VIII. Realice las acciones tendientes a la desecación de cuerpos de aguas naturales de competencia estatal;
+
+IX. Modifique cauces naturales de arroyos y ríos estatales, sin la autorización correspondiente;
+
+X. Vierta residuos de plaguicidas y fertilizantes en cuerpos de aguas naturales y predios rústicos;
+
+XI. Realice depósitos de residuos sólidos de competencia estatal en sitios no autorizados por la Secretaría de Ecología y Gestión Ambiental;
+
+XII. Vierta sobre suelo natural residuos fecales en predios rústicos abandonados;
+
+XIII. Extraiga material de algún río de competencia estatal sin contar con la autorización correspondiente;
+
+XIV. Construya o edifique sin la autorización correspondiente, en áreas naturales protegidas de orden estatal;
+
+XV. Omita llevar a cabo las labores de saneamiento de un relleno sanitario o de un tiradero no autorizado, ordenadas por la autoridad competente, y
+
+XVI. Omita llevar cabo la remediación de bancos de material abandonados o agotados.
+
+El incendio de un tiradero a cielo abierto descontrolado, o de un relleno sanitario, será atribuible al municipio respectivo por falta de control y ausencia de acciones de inspección.
+
+Las penas previstas en este artículo se impondrán siempre que se ocasionen daños a la salud de las personas, o a uno o más ecosistemas o sus elementos.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
+
+###### ARTICULO 334.
+
+Se impondrán de un año a siete años de prisión y sanción pecuniaria de un mil a siete mil días de salario mínimo vigente en el Estado, a quien transporte, comercie, acopie, almacene o transforme madera en rollo o cualquier otro recurso forestal maderable, en cantidades de hasta cuatro metros cúbicos de madera en rollo o su equivalente.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
+
+###### ARTICULO 335.
+
+Se impondrán de dos a cinco años de prisión y sanción pecuniaria de un mil a cinco mil días de salario mínimo vigente en el Estado, a quien ilícitamente ocasione uno o más incendios que dañen:
+
+I. Un área natural protegida o área de valor ambiental de competencia del Estado, de conformidad con las disposiciones jurídicas aplicables;
+
+II. El suelo de conservación en términos de lo establecido en el programa o programas de ordenamiento ecológico del Estado o municipios aplicables, así como lo establecido en el Programa o Programas de Desarrollo Urbano aplicables;
+
+III. Una barranca, o
+
+IV. Un área verde en suelo urbano.
+
+Las penas previstas en este artículo se aumentarán en una mitad cuando el área afectada sea igual o mayor a cinco hectáreas o se afecten recursos forestales maderables en una cantidad igual o mayor a mil metros cúbicos rollo total árbol.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
+
+###### ARTICULO 336.
+
+Se impondrán de tres meses a cinco años de prisión y sanción pecuniaria de quinientos a dos mil días de salario mínimo vigente en el Estado, al que ilícitamente derribe, tale u ocasione la muerte de uno o más árboles.
+
+Las penas previstas en este artículo se duplicarán cuando uno a más de las conductas descritas en el párrafo anterior, se desarrollen en un área natural protegida o área de valor ambiental de competencia del Estado, de conformidad con las disposiciones jurídicas aplicables.
+
+Cuando una o más de las conductas descritas en el presente artículo resulte cometida a nombre, bajo el amparo, o a beneficio de una persona moral, a ésta se impondrá la consecuencia jurídica accesoria consistente en la prohibición de realizar determinados negocios u operaciones hasta por cinco años, independientemente de la responsabilidad en que hubieren incurrido las personas físicas por el delito cometido.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
+
+###### ARTICULO 337.
+
+Se impondrán de seis meses a cinco años de prisión y sanción pecuniaria de quinientos a dos mil días de salario mínimo vigente en el Estado, a quien ilícitamente extraiga suelo, tierra, piedra, o cubierta vegetal por un volumen igual o mayor a dos metros cúbicos, de:
+
+I. Un área natural protegida o área de valor ambiental de competencia del Estado, de conformidad con las disposiciones jurídicas aplicables;
+
+II. El suelo de conservación en términos de lo establecido en el programa o programas de ordenamiento ecológico del Estado, o municipios aplicables, así como lo establecido en el programa o programas de desarrollo urbano aplicables;
+
+III. Una barranca, o
+
+IV. Un área verde en suelo urbano.
+
+> <small>(ADICIONADO CON ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE JULIO DE 2012)</small>
+
+### CAPITULO II. DELITOS CONTRA LA GESTION AMBIENTAL
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
+
+###### ARTICULO 338.
+
+Se impondrán de seis meses a cinco años de prisión y sanción pecuniaria de quinientos a dos mil días de salario mínimo vigente en el Estado, al que realice el cambio provisional de aditamentos o equipos de cualquier vehículo automotor, con el objeto de obtener uno o más documentos que acrediten la aprobación de la verificación vehicular prevista en las disposiciones jurídicas aplicables en el Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
+
+###### ARTICULO 339.
+
+Se impondrán de seis meses a cinco años de prisión y sanción pecuniaria de un mil a tres mil días de salario mínimo vigente en el Estado, al que obtenga una autorización proveniente de cualquier autoridad ambiental, del Estado o municipal, y faltare a la verdad provocando que se cause un daño a los recursos naturales, a la flora, a la fauna, a los ecosistemas, a la calidad del agua, o al ambiente.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
+
+###### ARTICULO 340.
+
+Se impondrán de tres a nueve años de prisión y sanción pecuniaria de un mil a cinco mil días de salario mínimo vigente en el Estado, a quien:
+
+I. Altere, permita la alteración u opere en forma indebida cualquier equipo o programa utilizado para la verificación vehicular, prevista en las disposiciones jurídicas aplicables en el Estado, o
+
+II. Ilícitamente venda o posea uno o más documentos que acrediten la aprobación de la verificación vehicular, prevista en las disposiciones jurídicas aplicables en el Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
+
+###### ARTICULO 341.
+
+Se impondrán de seis meses a tres años de prisión y sanción pecuniaria de veinte a quinientos días de salario mínimo vigente en el Estado:
+
+I. Al propietario, responsable o técnico de los centros de verificación vehicular, que por sí o por interpósita persona, solicite o reciba indebidamente dinero o cualquier otra dádiva para la aprobación de la verificación vehicular, o por cualquier motivo cobre una cantidad superior a la autorizada oficialmente, y
+
+II. Al usuario del servicio de verificación vehicular, que ilícitamente ofrezca, prometa o entregue dinero o cualquier dadiva, con el fin de obtener la aprobación de la verificación vehicular obligatoria.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
+
+###### ARTICULO 342.
+
+Se impondrán de seis meses a tres años de prisión y sanción pecuniaria de veinte a quinientos días de salario mínimo vigente en el Estado, al prestador, propietario, director, administrador, responsable, técnico o empleado de una persona moral, incluyendo los laboratorios de servicios ambientales, que proporcionen documentos o información falsa, u omitan datos, con el objeto de que las autoridades ambientales otorguen o avalen cualquier tipo de permiso, autorización o licencia.
+
+Las penas previstas en este artículo se impondrán siempre que la autoridad ambiental haya otorgado el permiso, autorización o licencia de que se trate.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
+
+###### ARTICULO 343.
+
+Se impondrán de seis meses a cuatro años de prisión y sanción pecuniaria de sesenta a seiscientos días de salario mínimo vigente en el Estado, a quien:
+
+I. Asiente información o datos falsos en los registros, bitácoras o cualquier otro documento utilizado, con el propósito de simular el cumplimiento de las obligaciones derivadas de la normatividad ambiental local;
+
+II. Destruya, altere u oculte información, registros, reportes o cualquier otro documento que se requiera mantener o archivar, de conformidad a la normatividad ambiental local;
+
+III. Destruya, retire, altere, oculte o viole los sellos de clausura colocados por la Secretaría de Ecología y Gestión Ambiental, o impida su visibilidad por cualquier medio, aun sin retirarlos;
+
+IV. Lleve a cabo la apertura y aprovechamiento de bancos de material geológico, sin contar con la autorización correspondiente de la Secretaría de Ecología y Gestión Ambiental, ni con los criterios establecidos en la Norma Técnica Ecológica Estatal NTE- SLP-BMG-002/2002 para la localización de bancos de materiales, y sin la autorización de impacto ambiental correspondiente;
+
+V. Omita realizar o incumpla las medidas técnicas, correctivas o de seguridad, necesarias, para evitar un daño o riesgo ambiental que la autoridad administrativa o judicial le ordene o imponga, y
+
+VI. Omita acatar las medidas de suspensión de actividades, parcial, total, temporal o definitiva, impuesta por la Secretaría de Ecología y Gestión Ambiental, derivado de un procedimiento administrativo.
+
+Los delitos previstos en el presente capítulo se perseguirán de oficio y en su caso, por la denuncia o querella que presente la Secretaría de Ecología y Gestión Ambiental.
+
+> <small>(ADICIONADO CON ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE JULIO DE 2012)</small>
+
+### CAPITULO III. DELITOS CONTRA EL DESARROLLO TERRITORIAL SUSTENTABLE
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
+
+###### ARTICULO 344.
+
+Se impondrán de tres a nueve años de prisión y sanción pecuniaria de un mil a cinco mil días de salario mínimo vigente en el Estado, a quien ilícitamente realice la ocupación o invasión de:
+
+I. Un área natural protegida o área de valor ambiental, de competencia del Estado, de conformidad con las disposiciones jurídicas aplicables;
+
+II. El suelo de conservación en términos de lo establecido en el programa o programas de ordenamiento ecológico aplicables decretados por el Estado o los municipios, así como lo establecido en el programa o programas de desarrollo urbano aplicables, o
+
+III. Un área verde en suelo urbano.
+
+Las penas previstas en este artículo se aumentarán en una mitad cuando la ocupación o invasión se realice con violencia, así como a quien instigue, promueva, dirija o incite la comisión de las conductas anteriores.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
+
+###### ARTICULO 345.
+
+Se impondrán de tres a nueve años de prisión y sanción pecuniaria de un mil a cinco mil días de salario mínimo vigente en el Estado, a quien ilícitamente realice el cambio del uso de suelo en:
+
+I. Un área natural protegida, o área de valor ambiental, de competencia del Estado, de conformidad con las disposiciones jurídicas aplicables;
+
+II. El suelo de conservación en términos de lo establecido en el programa o programas de ordenamiento ecológico aplicables decretados por el Estado o los municipios, así como lo establecido en el programa o programas de desarrollo urbano aplicables, o
+
+III. Un área verde en suelo urbano.
+
+Las penas previstas en este artículo se disminuirán en una mitad, cuando el cambio de uso de suelo se realice de uno a otro de los previstos en el programa o programas de ordenamiento ecológico del Estado o municipios, así como lo establecido en el programa o programas de desarrollo urbano aplicables.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
+
+###### ARTICULO 346.
+
+Se impondrán de seis meses a cinco años de prisión y sanción pecuniaria de un mil a tres mil días de salario mínimo vigente en el Estado, a quien realice obras o edificaciones en suelo urbano o de conservación, sin contar con la autorización municipal que los ordenamientos correspondientes exijan.
+
+Las mismas sanciones que señala el párrafo anterior, se impondrán a quien lleve a cabo la construcción de una gasolinera o estación de servicio cerca de casas habitación, o lugares de concentración, o dentro de un área natural protegida estatal. En general, a todas aquéllas obras civiles o de servicio que no cuenten con una autorización previa de la Secretaría de Ecología y Gestión Ambiental.
+
+> <small>(ADICIONADO CON ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE JULIO DE 2012)</small>
+
+### CAPITULO IV. DISPOSICIONES COMUNES A LOS DELITOS PREVISTOS EN ESTE TITULO
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
+
+###### ARTICULO 347.
+
+Para los efectos del presente Título se estará a las definiciones establecidas en la Ley General del Equilibrio Ecológico y la Protección Ambiental; y Ley Ambiental del Estado de San Luis Potosí, así como las determinadas en los ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
+
+###### ARTICULO 348.
+
+Los delitos previstos en el presente Título se perseguirán por querella; salvo que el daño ambiental ocasionado sea irreversible, en cuyo caso se perseguirán de oficio.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
+
+###### ARTICULO 349.
+
+La Secretaría de Ecología y Gestión Ambiental deberá coadyuvar con la autoridad que conozca de la averiguación previa, o el proceso penal seguido por las denuncias o querellas, respecto de los delitos a que se refiere este Título.
+
+La Secretaría de Ecología y Gestión Ambiental del Estado tiene la facultad para otorgar el perdón, por la comisión de delitos tipificados en este Título, en los casos que proceda.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
+
+###### ARTICULO 350.
+
+El juez competente, de oficio o a petición de parte, podrá reducir las penas impuestas para los delitos previstos en este Titulo, hasta en tres cuartas partes, cuando él o los responsables hayan restablecido las condiciones de los elementos naturales afectados al estado en que se encontraban antes de realizarse la conducta; y cuando ello no sea posible, ejecutando las acciones u obras que compensen los daños e impactos ambientales que se hubiesen generado.
+
+A efecto de que pueda acreditarse el supuesto de procedencia de la enunciada atenuante, deberá constar en autos, dictamen técnico favorable emitido por la autoridad ambiental competente en el Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
+
+###### ARTICULO 351.
+
+Para los efectos del presente Título, la reparación del daño se ordenará a petición del Ministerio Público, u oficiosamente por el juez competente, e incluirá además:
+
+I. La realización de las acciones necesarias para restaurar las condiciones de los elementos naturales afectados al estado en que se encontraban antes de realizarse el delito; cuando ello no sea posible, la ejecución de acciones u obras que permitan compensar los daños ambientales que se hubiesen generado; y si ninguna de ellas fuera posible, el pago de una indemnización que se integrará a los recursos del Fondo Ambiental Público previsto en la Ley Ambiental del Estado.
+
+Para determinar el monto de la indemnización a que se refiere esta fracción, el juez deberá considerar los daños ambientales ocasionados, el valor de los bienes afectados, y el derecho de toda persona de tener un ambiente sano; debiendo apoyarse en todo caso, en un dictamen técnico emitido por la autoridad ambiental competente, para fijar el monto de la indemnización correspondiente, la cual, en ninguno de los casos, deberá ser inferior al valor de los bienes afectados, o de los beneficios obtenidos por la conducta, y
+
+II. La suspensión, modificación o demolición de las construcciones, obras o actividades, que hubieren dado lugar al delito ambiental respectivo.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
+
+###### ARTICULO 352.
+
+Tratándose de los delitos previstos en este Título, el trabajo a favor de la comunidad consistirá en actividades relacionadas con la protección al ambiente, o la restauración de los recursos naturales.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
+
+###### ARTICULO 353.
+
+En caso de concurso de delitos, en lo referente a la reparación del daño, tendrá preferencia la reparación del daño ambiental; con excepción de la reparación de los daños a la salud, integridad de las personas, o a la vida.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
+
+###### ARTICULO 354.
+
+Cuando en la comisión de un delito previsto en este Título intervenga un servidor público en ejercicio, con motivo de sus funciones o aprovechándose de su calidad de servidor, la pena de prisión se aumentará en una mitad y será destituido del cargo, e inhabilitará para ocupar empleo o comisión en el servicio público de tres a diez años.
+
 ## TRANSITORIOS
 
 PRIMERO. Este Código entrará en vigor a los quince días de su publicación en el Periódico Oficial del Estado.
@@ -4250,3 +4532,11 @@ P.O. 19 DE JUNIO DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE JULIO DE 2012
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Ejecutivo del Estado expedirá en ciento veinte días los reglamentos a que se refiere este Decreto; y adecuará aquellos que así lo requieran.
