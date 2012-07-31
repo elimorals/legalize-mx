@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-planeacion-del-estado-de-mexico-y-municipios-22804"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-21"
-last_updated: "2012-05-03"
+last_updated: "2012-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE PLANEACIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE JULIO DE 2012.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 21 de diciembre de 2001.
 
@@ -379,9 +379,11 @@ VI. Las demás que se establezcan en otros ordenamientos.
 
 ### CAPITULO TERCERO. DE LOS PLANES DE DESARROLLO Y SUS PROGRAMAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE JULIO DE 2012)</small>
+
 ###### Artículo 22.
 
-Los planes de desarrollo se formularán, aprobarán y publicarán dentro de un plazo de seis meses para el Ejecutivo del Estado y cuatro meses para los ayuntamientos, contados a partir del inicio del período constitucional de gobierno y en su elaboración se tomarán en cuenta las opiniones y aportaciones de los diversos grupos de la sociedad; así como el Plan de Desarrollo precedente; también habrán de considerarse estrategias, objetivos y metas, que deberán ser revisadas y consideradas en la elaboración de los planes de desarrollo del siguiente período constitucional de gobierno, a fin de asegurar la continuidad y consecución de aquellos que por su importancia adquieran el carácter estratégico de largo plazo. Su vigencia se circunscribirá al período constitucional o hasta la publicación del plan de desarrollo del siguiente período constitucional de gobierno.
+Los planes de desarrollo se formularán, aprobarán y publicarán dentro de un plazo de seis meses para el Ejecutivo del Estado y tres meses para los ayuntamientos, contados a partir del inicio del período constitucional de gobierno y en su elaboración se tomarán en cuenta las opiniones y aportaciones de los diversos grupos de la sociedad; así como el Plan de Desarrollo precedente; también habrán de considerarse estrategias, objetivos y metas, que deberán ser revisadas y consideradas en la elaboración de los planes de desarrollo del siguiente período constitucional de gobierno, a fin de asegurar la continuidad y consecución de aquellos que por su importancia adquieran el carácter estratégico de largo plazo. Su vigencia se circunscribirá al período constitucional o hasta la publicación del plan de desarrollo del siguiente período constitucional de gobierno.
 
 Por lo que respecta al Plan de Desarrollo del Estado de México, antes de su aprobación, el titular del Ejecutivo Estatal lo remitirá a la Legislatura para su examen y opinión. De igual forma la Legislatura formulará las observaciones que estime convenientes durante la ejecución del plan.
 
@@ -780,3 +782,9 @@ G.G. 3 DE MAYO DE 2012.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 31 DE JULIO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
