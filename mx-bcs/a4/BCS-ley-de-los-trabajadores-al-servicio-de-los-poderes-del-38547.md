@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-trabajadores-al-servicio-de-los-poderes-del-38547"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-23"
-last_updated: "2007-12-01"
+last_updated: "2012-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 1 DE DICIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2012.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 23 de febrero de 2004.
 
@@ -51,9 +51,9 @@ La presente Ley es de observancia general para los titulares y trabajadores de l
 
 Para los efectos de esta Ley, la relación jurídica de trabajo se entiende establecida entre los titulares de los Poderes del Estado, Municipios y los trabajadores a su servicio.
 
-> <small>(ADICIONADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 2012)</small>
 
-Quedan excluidos del régimen de la presente Ley, el personal de vigilancia de los establecimientos penitenciarios, cárceles, de los cuerpos de seguridad pública y aquellos que presten sus servicios mediante contrato civil o que sean sujetos al pago de honorarios.
+Quedan excluidos del régimen de la presente Ley, los miembros de las Instituciones Policiales del Estado y Municipios, Peritos, Agentes del Ministerio Público del Fuero Común y demás funcionarios públicos de carácter de Ministerio Público que hace referencia el artículo 8 de la Ley Orgánica del Ministerio Publico del Estado de Baja California Sur. Así también el personal de vigilancia de los establecimientos penitenciarios, cárceles, y aquellos que presten sus servicios mediante contrato civil o que sean sujetos al pago de honorarios.
 
 ###### ARTICULO 3º.
 
@@ -87,7 +87,9 @@ II.- Inspección, vigilancia, auditoria y fiscalización, aquellas que se realic
 
 III.- Asesorías, la asistencia técnica o profesional que se brinde mediante consejos, opiniones o dictámenes a los titulares de las instituciones públicas o de sus dependencias y unidades administrativas.
 
-IV.- Procuración de justicia, las relativas a la investigación y persecución de los delitos de fuero común y al ejercicio de la acción penal para proteger los intereses de la sociedad.
+> <small>(REFORMADA, B.O. 31 DE JULIO DE 2012)</small>
+
+IV.- Procuración de justicia, todo servidor público que no pertenezca a los Servicios de Carrera Policial, Pericial y Policía Ministerial que coadyuven en las tareas relativas a la investigación y persecución de los delitos de fuero común y al ejercicio de la acción penal para proteger los intereses de la sociedad.
 
 V.- Administración de justicia, aquellas que se refieren al ejercicio de la función jurisdiccional.
 
@@ -1063,7 +1065,7 @@ V.- La indicación del lugar en que puedan obtenerse las pruebas que el reclaman
 
 VI.- A la demanda se acompañarán las pruebas de que disponga y los documentos que acrediten la personalidad de su representante, si no concurre personalmente.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 1 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 135.
 
@@ -1259,11 +1261,11 @@ Para el caso de que los titulares de los Poderes del Estado o Municipios, como p
 
 En caso de incumplimiento se aplicará lo dispuesto en el capítulo de embargo de la Ley Federal del Trabajo.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, B.O. 1 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, B.O. 1 DE DICIEMBRE DE 2007)</small>
 
 ## TITULO NOVENO. DE LAS RELACIONES LABORALES ENTRE EL ESTADO Y LOS TRABAJADORES TRANSFERIDOS POR LA FEDERACION
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 1 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 1 DE DICIEMBRE DE 2007)</small>
 
 ### CAPITULO PRIMERO. DE LOS TRABAJADORES DEL SISTEMA EDUCATIVO ESTATAL
 
@@ -1333,7 +1335,7 @@ Los beneficios de la Seguridad Social le serán otorgados a los trabajadores por
 
 Conforme lo dispuesto en los artículos anteriores de este capítulo, los acuerdos, convenios y reglamentos a que se hace referencia, así como las prestaciones y derechos de cualesquier naturaleza, serán de observancia general y obligatoria para el titular del Poder Ejecutivo, los titulares de las dependencias y de la institución o instituciones públicas a las que estén adscritos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 1 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 1 DE DICIEMBRE DE 2007)</small>
 
 ### CAPITULO SEGUNDO. DE LOS TRABAJADORES DEL INSTITUTO DE SERVICIOS DE SALUD
 
@@ -1413,7 +1415,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 C. PROFR. VÍCTOR MANUEL LIZÁRRAGA PERAZA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 B.O. 1 DE DICIEMBRE DE 2007.
 
@@ -1438,3 +1440,13 @@ En tanto no entren en vigor los catálogos de puestos correspondientes, la categ
 ###### ARTÍCULO QUINTO.
 
 La presente reforma no aplicara retroactivamente en perjuicio de los trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California Sur.
+
+B.O. 31 DE JULIO DE 2012.
+
+###### ARTÍCULO PRIMERO
+
+El presente Decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTICULO SEGUNDO
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
