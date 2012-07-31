@@ -4,7 +4,7 @@ identifier: "COA-reglamento-de-transito-del-municipio-de-monclova-coahuila-25492
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-08"
-last_updated: "2011-04-05"
+last_updated: "2012-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,9 @@ state: "COA"
 ---
 # REGLAMENTO DE TRANSITO DEL MUNICIPIO DE MONCLOVA, COAHUILA
 
-REGLAMENTO DE TRANSITO DEL MUNICIPIO DE MONCLOVA
+REGLAMENTO DE TRÁNSITO DEL MUNICIPIO DE MONCLOVA DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 8 de diciembre de 2000.
 
@@ -1350,7 +1350,13 @@ III.- En zonas suburbanas el vehículo deberá quedar fuera de la superficie de 
 
 IV.- Cuando el vehículo queda estacionado en bajada, además de aplicar el freno de estacionamiento, las ruedas delanteras deberán quedar dirigidas hacia la guarnición de la vía. La fracción quinta que se propone quedaría de la siguiente manera: (sic)
 
-V.- “En el caso de que se pretenda estacionar en cajones destinados para vehículos de discapacitados, dichos vehículos deberán contar con las placas de circulación con el símbolo que lo acredite como tal, así mismo preferentemente deberá viajar en el vehículo la persona con la discapacidad”
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
+
+V.- “En el caso de que se pretenda estacionar en cajones destinados para vehículos de discapacitados, dichos vehículos deberán contar con las placas de circulación con el símbolo que lo acredite como tal, así mismo deberá viajar en el vehículo la persona con la discapacidad"
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE JULIO DE 2012)</small>
+
+VI.- El primer y último cajón de estacionamiento de las aceras es zona exclusiva de estacionamiento para vehículos que porten placas de personas con discapacitados, respetando en todos los casos los primeros y últimos 5 metros como zona Peatonal.
 
 ###### ARTICULO 122.
 
@@ -1397,6 +1403,10 @@ XIX.- En zonas o vías públicas en donde exista señalamiento prohibiendo el es
 XX.- En zonas tarifadas, utilizando más de un cajón de estacionamiento o donde existan marcadas en el piso, fuera del cajón de estacionamiento.
 
 XXI.- Al lado de guarniciones pintadas de color amarillo.
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2012)</small>
+
+XXII.- Queda prohibido estacionarse a cualquier vehículo incluso con placas de discapacitados, en el ultimo cajón de las aceras, cuando la unidad vehicular tenga una altura mayor a un metro sesenta centímetros.
 
 ###### ARTICULO 123.
 
@@ -1526,7 +1536,7 @@ Para los casos de infracciones no previstas con sanción en los capítulos respe
 
 La contravención a las disposiciones de la Ley y este Reglamento se sancionará conforme a lo establecido en el siguiente TABULADOR:
 
-(VEASE ARCHIVOANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ###### ARTICULO 141.
 
@@ -1554,16 +1564,24 @@ LIC. GILBERTO ANTONIO MUELA GONZALEZ
 
 SECRETARIO DEL R. AYUNTAMIENTO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 5 DE ABRIL DE 2011.
 
-SE ADICIONA UNA FRACCION XXV AL ARTICULO 4 Y UN TERCER PARRAFO AL ARTICULO 9 DEL REGLAMENTO DE TRANSITO MUNICIPAL VIGENTE.
+SE ADICIONA UNA FRACCIÓN XXV AL ARTÍCULO 4 Y UN TERCER PÁRRAFO AL ARTÍCULO 9 DEL REGLAMENTO DE TRÁNSITO MUNICIPAL VIGENTE.
 
-> <small>N. DE E. LA REFORMA DEL REGLAMENTO CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA.</small>
+> <small>N. DE E. LA REFORMA DEL REGLAMENTO CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA.</small>
 
 P.O. 5 DE ABRIL DE 2011.
 
-SE ADICIONA UNA FRACCION V AL ARTICULO 121, DEL REGLAMENTO DE TRANSITO MUNICIPAL VIGENTE.
+SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 121, DEL REGLAMENTO DE TRÁNSITO MUNICIPAL VIGENTE.
 
-> <small>N. DE E. LA REFORMA DEL REGLAMENTO CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA.</small>
+> <small>N. DE E. LA REFORMA DEL REGLAMENTO CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA.</small>
+
+P.O. 31 DE JULIO DE 2012.
+
+Artículo Primero. La presente Reforma y Adición al Reglamento, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Coahuila de Zaragoza.
+
+Artículo Segundo. Se abrogan todas las Disposiciones contrarias al presente Reglamento.
+
+Artículo Tercero. Se faculta a los ciudadanos, Presidente Municipal y Secretario del Ayuntamiento, a suscribir la documentación inherente al cumplimiento del presente acuerdo.
