@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2012-04-24"
+last_updated: "2012-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE JULIO DE 2012.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -725,6 +725,14 @@ XXIV. Participar en la creación y administración de sus reservas territoriales
 
 XXIV Bis. Promover las acciones y ejecutar los programas sociales necesarios para la recuperación de espacios públicos, a fin de fortalecer la seguridad jurídica, mantenimiento, sostenibilidad, control y la apropiación social de éstos;
 
+> <small>(ADICIONADA, G.G. 31 DE JULIO DE 2012)</small>
+
+XXIV Ter. Prohibir el establecimiento de una gasolinera o estación de servicio con respecto a otra similar, en una distancia menor en forma radial de 1,000 metros en áreas urbanas y menor de 10,000 metros lineales en áreas rurales y carreteras, como una acción preventiva ante un riesgo, observando invariablemente las disposiciones federales, estatales y municipales en materia de protección civil, ambientales, de seguridad, desarrollo urbano y demás aplicables; así como los lineamientos que señala el Plan de Desarrollo Urbano Municipal.
+
+Tratándose de municipios colindantes en el Estado, que integren una zona conurbada o metropolitana, para el cumplimiento de lo dispuesto en esta fracción, deberán establecer los mecanismos de coordinación necesarios para el cumplimiento de esta disposición.
+
+Los ayuntamientos informarán a la autoridad federal competente sobre las autorizaciones que otorguen para el funcionamiento de gasolineras o estaciones de servicio.
+
 > <small>(ADICIONADA, G.G. 23 DE AGOSTO DE 2005)</small>
 
 XXV. Coadyuvar con la Secretaría del Medio Ambiente a la creación y desarrollo del mercado de derechos de uso del medio ambiente;
@@ -1177,7 +1185,9 @@ En el caso de que sean dos los síndicos que se elijan, uno estará encargado de
 
 En el caso de que se elija un tercer síndico, este ejercerá las atribuciones del segundo a que se refieren las fracciones VII, VIII, IX, y X.
 
-Los síndicos no pueden desistirse, transigir, comprometerse en árbitros, ni hacer cesión de bienes municipales, sin la autorización expresa del ayuntamiento.
+> <small>(REFORMADO, G.G. 31 DE JULIO DE 2012)</small>
+
+Los síndicos y los presidentes municipales que asuman la representación jurídica del Ayuntamiento, no pueden desistirse, transigir, comprometerse en árbitros, ni hacer cesión de bienes muebles o inmuebles municipales, sin la autorización expresa del Ayuntamiento.
 
 ###### Artículo 54.
 
@@ -1985,9 +1995,11 @@ Cada ayuntamiento elaborará su plan de desarrollo municipal y los programas de 
 
 La formulación, aprobación, ejecución, control y evaluación del plan y programas municipales estarán a cargo de los órganos, dependencias o servidores públicos que determinen los ayuntamientos, conforme a las normas legales de la materia y las que cada cabildo determine.
 
+> <small>(REFORMADO, G.G. 31 DE JULIO DE 2012)</small>
+
 ###### Artículo 116.
 
-El Plan de Desarrollo Municipal deberá ser elaborado, aprobado y publicado, dentro de los primeros cuatro meses de la gestión municipal. Su evaluación deberá realizarse anualmente.
+El Plan de Desarrollo Municipal deberá ser elaborado, aprobado y publicado, dentro de los primeros tres meses de la gestión municipal. Su evaluación deberá realizarse anualmente; y en caso de no hacerse se hará acreedor a las sanciones de las dependencias normativas en el ámbito de su competencia.
 
 ###### Artículo 117.
 
@@ -3368,3 +3380,29 @@ G.G. 24 DE ABRIL DE 2012.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+DECRETO No. 455, POR EL QUE SE REFORMA EL ARTÍCULO 116 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+G.G. 31 DE JULIO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+DECRETO No. 456, POR EL QUE SE REFORMA EL PÁRRAFO CUARTO DEL ARTICULO 53 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+G.G. 31 DE JULIO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+DECRETO No. 457, POR EL QUE SE ADICIONA LA FRACCIÓN XXIV TER AL ARTICULO 31 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+G.G. 31 DE JULIO DE 2012
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- La Secretaría General de Gobierno notificará el presente Decreto a las Dependencias Federales competentes, para los efectos legales correspondientes.
