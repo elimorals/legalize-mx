@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2012-02-11"
+last_updated: "2012-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -183,7 +183,9 @@ XVII. Calificar las excusas que expongan el Gobernador, diputados locales y miem
 
 XVIII. Cuidar que en los días fijados por las leyes se celebren las elecciones que previenen la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado;
 
-XIX. Rendir a la ciudadanía, a través de su Presidente, un informe de sus actividades a más tardar el día último de septiembre de cada año de ejercicio;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
+
+XIX. Rendir a la ciudadanía, a través de su Presidente, un Informe Anual de Actividades, durante la primera quincena de septiembre del año del ejercicio legal que corresponda;
 
 XX. Recibir la protesta de ley que ante él deban rendir los servidores públicos, y
 
@@ -1978,3 +1980,9 @@ DECRETO 910 POR EL QUE SE REFORMA LOS ARTÍCULOS, 98 EN SU FRACCIÓN XVIII, Y 11
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE JULIO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
