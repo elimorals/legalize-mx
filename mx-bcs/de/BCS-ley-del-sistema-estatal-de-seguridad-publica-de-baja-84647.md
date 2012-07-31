@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-sistema-estatal-de-seguridad-publica-de-baja-84647"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-31"
-last_updated: "2011-12-31"
+last_updated: "2012-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2012.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 31 de diciembre de 2011.
 
@@ -733,9 +733,11 @@ Todo servidor público de las Instituciones Policiales y de Procuración de Just
 
 Los efectos de los nombramientos de los servidores públicos a que se refiere el artículo anterior, se podrán dar por terminados en cualquier momento, así como cuando no acrediten las evaluaciones de control de confianza.
 
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 2012)</small>
+
 ###### Artículo 45.
 
-Las relaciones laborales de las Instituciones Policiales y sus integrantes se regirán por la fracción XIII, del Apartado B, del Artículo 123 de la Constitución, la presente Ley y demás disposiciones legales aplicables.
+Las relaciones jurídicas de las Instituciones Policiales y de Procuración de Justicia con sus integrantes se regirán por la fracción XIII, del apartado B, del artículo 123 de la Constitución, la presente Ley y demás disposiciones legales aplicables.
 
 #### SECCIÓN SEGUNDA. DE LAS OBLIGACIONES
 
@@ -1988,3 +1990,15 @@ MARCOS ALBERTO COVARRUBIAS VILLASEÑOR
 SECRETARIO GENERAL DE GOBIERNO
 
 ARMANDO MARTÍNEZ VEGA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 31 DE JULIO DE 2012.
+
+###### ARTÍCULO PRIMERO
+
+El presente Decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
