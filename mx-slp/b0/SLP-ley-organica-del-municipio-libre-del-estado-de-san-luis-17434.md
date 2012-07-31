@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2012-07-12"
+last_updated: "2012-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -993,13 +993,17 @@ XXXVI. Visitar cuando menos dos veces al año todas las localidades que se encue
 
 XXXVII. En materia de seguridad pública ejercer las facultades que le confieren la Ley de Seguridad Pública del Estado, las que le correspondan en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, así como las que le confiera la Ley que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, y los convenios que en materia de seguridad pública celebre el Ayuntamiento;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
 
-XXXVIII. Substanciar los procedimientos administrativos disciplinarios y resarcitorios, determinando o no la existencia de responsabilidades administrativas, por incumplimiento de las obligaciones de los servidores públicos municipales no sujetos a responsabilidad por parte del Congreso del Estado, sólo en los casos en los que no se encuentre en funciones el contralor interno, cuando por cualquiera de las razones establecidas en el artículo 56 fracción XIII de la Ley de Responsabilidades de los Servidores Públicos del Estado, el contralor interno se encuentra impedido para conocer o, cuando sea el propio contralor interno el presunto responsable al que se someterá a procedimiento administrativo sancionatorio, pudiendo aplicar las sanciones disciplinarias correspondientes, por acuerdo de Cabildo, y
+XXXVIII. Substanciar los procedimientos administrativos disciplinarios y resarcitorios, determinando o no la existencia de responsabilidades administrativas, por incumplimiento de las obligaciones de los servidores públicos municipales no sujetos a responsabilidad por parte del Congreso del Estado, sólo en los casos en los que no se encuentre en funciones el contralor interno, cuando por cualquiera de las razones establecidas en el artículo 56 fracción XIII de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, el contralor interno se encuentra impedido para conocer o, cuando sea el propio contralor interno el presunto responsable al que se someterá a procedimiento administrativo sancionatorio, pudiendo aplicar las sanciones disciplinarias correspondientes, por acuerdo de Cabildo;
 
-> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
 
-XXXIX. Las demás que se deriven de esta Ley u otros ordenamientos aplicables.
+XXXIX. Asistir a los cursos de capacitación y formación que instrumente e imparta la Auditoría Superior del Estado, durante el tiempo del ejercicio de la administración para la cual fue electo, y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2012)</small>
+
+XL. Las demás que se deriven de esta Ley u otros ordenamientos aplicables.
 
 ###### ARTICULO 71.
 
@@ -1067,9 +1071,17 @@ VI. Concurrir a las ceremonias oficiales y a los demás actos que fueren citados
 
 VII. Solicitar se convoque a sesiones ordinarias y extraordinarias al Cabildo. Cuando se rehusare el Presidente Municipal a convocar a sesión sin causa justificada, o cuando por cualquier motivo no se encontrare en posibilidad de hacerlo, los regidores podrán convocar en los términos del último párrafo del artículo 21 de la presente Ley;
 
-VIII. Suplir las faltas temporales de los síndicos suplentes en funciones, cuando para ello fueren designados por el Cabildo, y
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
 
-IX. Las demás que les otorguen la ley y los reglamentos aplicables.
+VIII. Suplir las faltas temporales de los síndicos suplentes en funciones, cuando para ello fueren designados por el Cabildo;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
+
+IX. Asistir a los cursos de capacitación y formación que instrumente e imparta la Auditoría Superior del Estado, durante el tiempo del ejercicio de la administración para la cual fue electo, y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2012)</small>
+
+X. Las demás que les otorguen la Ley y los reglamentos aplicables.
 
 ### CAPITULO III. De las Facultades y Obligaciones del Síndico
 
@@ -1103,9 +1115,17 @@ IX. Presidir las comisiones para las cuales fuere designado;
 
 X. Intervenir como asesor en las demás comisiones cuando se trate de dictámenes o resoluciones que afecten al Municipio;
 
-XI. Fungir como Agente del Ministerio Público en los casos que determinen las leyes de la materia, y
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
 
-XII. Las demás que le concedan o le impongan las leyes, los reglamentos o el Ayuntamiento.
+XI. Fungir como Agente del Ministerio Público en los casos que determinen las leyes de la materia;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
+
+XII. Asistir a los cursos de capacitación y formación que instrumente e imparta la Auditoría Superior del Estado, durante el tiempo del ejercicio de la administración para la cual fue electo, y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2012)</small>
+
+XIII. Las demás que le concedan o le impongan las leyes, los reglamentos o el Ayuntamiento.
 
 ###### ARTICULO 76.
 
@@ -1189,7 +1209,7 @@ XIX. Las demás que le señalen las leyes y reglamentos municipales.
 
 ###### ARTICULO 79.
 
-Para el control del erario municipal cada ayuntamiento contará con un Tesorero, mismo que no deberá guardar parentesco con ninguno de los integrantes del ayuntamiento, conforme a lo establecido por la legislación de responsabilidades de los servidores públicos aplicable.
+Para el control del erario municipal cada ayuntamiento contará con un Tesorero, mismo que no deberá guardar parentesco con ninguno de los integrantes del ayuntamiento conforme a lo establecido por la legislación de responsabilidades de los servidores públicos aplicable.
 
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2010)</small>
 
@@ -2408,3 +2428,9 @@ DECRETO No. 994, POR EL QUE SE REFORMA EL ARTÍCULO 83, DE LA LEY ORGÁNICA DEL 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 31 DE JULIO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
