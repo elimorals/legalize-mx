@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-derechos-de-las-ninas-y-los-ninos-del-estado-de-2476
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-07"
-last_updated: "2011-06-30"
+last_updated: "2012-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS Y LOS NIÑOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2012.
 
 Ley publicada en el Número Extraordinario al Boletín Oficial del Estado de Baja California Sur, el lunes 7 de enero de 2002.
 
@@ -539,29 +539,51 @@ III. Promover la concertación entre los sectores público, privado y social, pa
 
 ### CAPITULO VI. DEL COMITE ESTATAL DE SEGUIMIENTO Y VIGILANCIA DE LOS DERECHOS DE LAS NIÑAS Y NIÑOS EN BAJA CALIFORNIA SUR
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 2012)</small>
 
 ###### Artículo 25.
 
-Se crea el Comité Estatal de Seguimiento y Vigilancia de los Derechos de las Niñas y Niños en Baja California Sur como órgano honorario, de asesoría, apoyo y consulta del Gobierno del Estado y Municipios, así como de concertación entre los sectores público, social y privado. Tendrá por objeto cumplir con el compromiso contraído por nuestro país, de proteger los derechos de las niñas y los niños del Estado, y buscar se garantice el beneficio de sus derechos fundamentales, de conformidad con la Convención sobre los Derechos de la Niñez, aprobada por la Asamblea General de las Naciones Unidas el 20 de Noviembre de 1989 y ratificada por el Senado de la República el 31 de Julio de 1990, así como con las disposiciones de la presente Ley.
+Se crean los Comités Estatal y Municipales de Seguimiento y Vigilancia de los Derechos de las Niñas y Niños en Baja California Sur como órgano honorario, de asesoría, apoyo y consulta del Gobierno del Estado y Municipios, así como de concertación entre los sectores público, social y privado. Tendrá por objeto cumplir con el compromiso contraído por nuestro país, de proteger los derechos de las niñas y los niños del Estado, y buscar se garantice el beneficio de sus derechos fundamentales, de conformidad con la Convención sobre los Derechos de la Niñez, aprobada por la Asamblea General de las Naciones Unidas el 20 de Noviembre de 1989 y ratificada por el Senado de la República el 31 de Julio de 1990, así como con las disposiciones de la presente Ley.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2012)</small>
+
+###### Artículo 25 Bis.
+
+En la esfera de su competencia, corresponde a los Municipios:
+
+I.- Conformar el Comité Municipal de Seguimiento y Vigilancia de los Derechos de las Niñas y Niños como órgano honorífico, de asesoría, apoyo y consulta de los Municipios, y emitir su reglamentación;
+
+II.- Los Comités Municipales de Seguimiento y Vigilancia de los Derechos de las Niñas y Niños, estarán integrados y tendrán las facultades que por similitud o equivalencia le son aplicables de conformidad a los artículos 26, 27 y 28 de la presente Ley, y los que la autoridad en ejercicio de su autonomía municipal estime pertinentes para alcanzar los objetivos en materia de protección a la niñez en su demarcación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE JULIO DE 2012)</small>
 
 ###### Artículo 26.
 
-El Comité Estatal de Seguimiento y Vigilancia de los Derechos de las Niñas y Niños en Baja California Sur, estará integrado por:
+los Comités Estatales y Municipales de Seguimiento y Vigilancia de los Derechos de las Niñas y Niños en Baja California Sur, estarán integrados por una Asamblea y según corresponda, será integrada por:
 
-I.- Una Asamblea: Que estará conformada por cada una de las dependencias e instituciones públicas, sociales y privadas vinculadas con la niñez sudcaliforniana;
+I.- (DEROGADA, B.O. 31 DE JULIO DE 2012)
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2007)</small>
 
 II.- Una Presidencia: Que será ocupada por el Titular del Poder Ejecutivo del Estado;
 
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2007)</small>
+
 III.- Una Vicepresidencia: Que será la Presidenta del Patronato del Sistema DIF Estatal;
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2007)</small>
 
 IV.- Una Coordinación General: Presidida por quien ocupe la Dirección General del Sistema para el Desarrollo Integral de la Familia en la Entidad;
 
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2007)</small>
+
 V.- Una Secretaría Técnica: Que será ocupada por quien designe la Dirección General del Sistema DIF Estatal;
 
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2007)</small>
+
 VI.- Vocales "A".- Representados por las o los Responsables de las diferentes Áreas del Sistema DIF Estatal; y
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2007)</small>
 
 VII.- Vocales "B".- Representados por las o los Responsables Operativos de las dependencias del gobierno estatal y de la sociedad civil organizada.
 
@@ -916,3 +938,17 @@ El presente decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se le concede al titular de la Secretaria de Seguridad Pública y las demás Autoridades del Estado un término de sesenta días, contados a partir de la entrada en vigor del presente Decreto, para que implementen en forma coordinada con la Federación, el Estado y los Municipios, respectivamente, y en el ámbito de sus respectivas atribuciones, programas, mecanismos y protocolos de seguridad que tengan por objeto la búsqueda inmediata de menores de edad desaparecidos o secuestrados, para lo cual podrán solicitar la participación de la sociedad y de los medios masivos de comunicación para atender este tipo de casos y darles la difusión necesaria, a fin de facilitar su localización o rescate.
+
+B.O. 31 DE JULIO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo no mayor de 30 días hábiles a partir de la entrada en vigor del presente Decreto, los Gobiernos Municipales del Estado, deberán instalar los Comités Municipales de Seguimiento y Vigilancia de los Derechos de las Niñas y Niños en Baja California Sur, en términos de los que dispone la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+En un término no mayor de 90 días naturales a partir de la instalación de los Comités Municipales de Seguimiento y Vigilancia de los Derechos de las Niñas y Niños en Baja California Sur, estos deberán expedir el Reglamento a que se refiere la fracción XVI del artículo 27 de la Ley de los Derechos de las Niñas y los Niños del Estado de Baja California Sur.
