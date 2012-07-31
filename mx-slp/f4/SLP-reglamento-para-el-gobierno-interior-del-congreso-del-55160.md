@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2012-02-11"
+last_updated: "2012-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2012.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -473,7 +473,7 @@ El Congreso determinará las medidas conducentes, en el caso de que algún diput
 
 ###### ARTICULO 43.
 
-Las actas de las sesiones privadas, leí das (sic), discutidas y aprobadas, serán firmadas por el Presidente y los secretarios; después de lo cual serán archivadas en lugar seguro y bajo clave.
+Las actas de las sesiones privadas, leí das, discutidas y aprobadas, serán firmadas por el Presidente y los secretarios; después de lo cual serán archivadas en lugar seguro y bajo clave.
 
 #### Sección Tercera. De las Sesiones Solemnes
 
@@ -585,9 +585,11 @@ Si algún diputado faltare a cualquier sesión del Pleno sin causa justificada, 
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 60.
 
-El Congreso del Estado deberá rendir un informe anual de actividades, a través del Presidente de la Directiva, durante la segunda quincena del mes de septiembre de cada año de ejercicio de la Legislatura.
+El Congreso del Estado Libre y Soberano de San Luis Potosí, debe rendir un Informe Anual de Actividades, a través del Presidente de la Directiva, durante la primera quincena de septiembre de cada año del ejercicio de la Legislatura.
 
 El informe se rendirá en sesión solemne. Dicha sesión deberá sujetarse a la siguiente orden del día:
 
@@ -2042,3 +2044,9 @@ P.O. 11 DE FEBRERO DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE JULIO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
