@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-auditoria-superior-del-estado-de-san-luis-potosi-52480"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-30"
-last_updated: "2011-10-20"
+last_updated: "2012-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE AUDITORIA SUPERIOR DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE AUDITORIA SUPERIOR DEL ESTADO DE SAN LUIS POTOSI
+LEY DE AUDITORÍA SUPERIOR DEL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2012.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 30 de mayo de 2006.
 
@@ -185,13 +185,21 @@ XXVIII. Tener a su cargo y responsabilidad la recepción y análisis de las decl
 
 XXIX. Determinar, conforme al procedimiento señalado en esta Ley, en su caso, los daños y perjuicios que afecten a las haciendas públicas, estatal o municipales, o al patrimonio de otros entes auditables; fincar las responsabilidades a que haya lugar, y determinar las indemnizaciones y las sanciones correspondientes;
 
-> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
 
-XXX. Expedir las certificaciones de los documentos originales que obren en los expedientes y archivos de la Auditoría Superior, y
+XXX. Expedir las certificaciones de los documentos originales que obren en los expedientes y archivos de la Auditoría Superior;
 
-> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
 
-XXXI. Las demás que expresamente señalen la Constitución Política Local; ésta y las demás leyes del Estado, y el Reglamento Interior de la Auditoría.
+XXXI. Elaborar e impartir los cursos de capacitación conforme a la Ley Orgánica del Municipio libre del Estado, a los miembros electos de los ayuntamientos, a fin de que cuenten con conocimientos y habilidades necesarios para cumplir con las funciones, bajo criterios de eficacia y legalidad;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2012)</small>
+
+XXXII. Elaborar el registro estatal de servidores públicos sancionados e inhabilitados, el cual deberá actualizar semestralmente, y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2012)</small>
+
+XXXIII. Las demás que expresamente señalen la Constitución Política y las leyes del Estado, y su Reglamento Interno.
 
 ### CAPITULO III. Del Auditor Superior
 
@@ -393,7 +401,7 @@ ARTICULO 16 BIS. Son facultades y obligaciones del Coordinador de Auditorías Es
 
 #### Sección Segunda. De las funciones de las áreas
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 17.
 
@@ -511,7 +519,7 @@ XI. En general, todas las demás que se deriven de esta Ley y de otras disposici
 
 La Coordinación de Ejecución será la encargada de llevar a efecto el procedimiento administrativo de ejecución, de los créditos fiscales que deriven de la imposición de sanciones pecuniarias impuestas por la Auditoría, de conformidad con lo dispuesto en el Código Fiscal del Estado; y tendrá las demás funciones que establezca el Reglamento.
 
-## TITULO TERCERO. DE LOS SERVIDORES PUBLlCOS DE LA AUDITORIA SUPERIOR
+## TITULO TERCERO. DE LOS SERVIDORES PUBLICOS DE LA AUDITORIA SUPERIOR
 
 ### CAPITULO I. Generalidades
 
@@ -523,7 +531,7 @@ Los servidores públicos de la Auditoría Superior del Estado, por la naturaleza
 
 Se entenderá exceptuado de la anterior medida, el personal de base; así como el personal cuyas actividades no se relacionen directamente con cualquiera de las funciones vinculadas al cumplimiento de las atribuciones esenciales a cargo del órgano de auditoría; o que en los términos de ley corresponda atribuirle otra calidad de empleados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 23.
 
@@ -649,7 +657,7 @@ VIII. Las responsabilidades a que haya lugar, y
 
 IX. Las indemnizaciones y sanciones correspondientes en los términos de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 36.
 
@@ -727,7 +735,7 @@ Sin perjuicio de la revisión de los informes trimestrales, la Auditoría Superi
 
 #### Sección Primera. Generalidades
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 42.
 
@@ -831,7 +839,7 @@ Las actas, así como las declaraciones, manifestaciones o hechos en ellas conten
 
 La Auditoría Superior del Estado, en ejercicio de sus facultades de fiscalización, podrá realizar revisiones, visitas y auditorías durante el ejercicio fiscal en curso, en términos de lo previsto en la presente Ley, respecto de las acciones, obras y programas reportados como concluidos; en caso contrario, sólo podrá realizar visitas y auditorías a partir de que la comisión le haga entrega de la cuenta pública, así como en los casos de revisión de situaciones excepcionales que dispone esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 52.
 
@@ -857,7 +865,7 @@ Los microfilmes y los archivos guardados mediante procesamiento electrónico a q
 
 ### CAPITULO IV. De los Pliegos de Observaciones
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 55.
 
@@ -967,7 +975,7 @@ Si la Comisión del Agua del Congreso del Estado encontrara que el informe envia
 
 La Comisión deberá presentar al Congreso los informes y dictámenes relativos a las cuentas públicas, a más tardar el quince del mes de junio del año en que aquéllas fueron recibidas, con excepción de los informes y dictámenes concernientes a las cuentas públicas de los poderes del Estado, pues éstos deberán presentarse a más tardar el veinte del mes de junio del año en que dichas cuentas fueron presentadas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 68.
 
@@ -1039,7 +1047,7 @@ Cuando la Auditoría Superior del Estado, además de imponer la sanción respect
 
 Lo dispuesto en el presente Capítulo no excluye la imposición de las sanciones que conforme a ésta u otras leyes fueren aplicables por la Auditoría Superior del Estado, ni del fincamiento de otras responsabilidades.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 77.
 
@@ -1151,7 +1159,7 @@ Para hacer cumplir sus determinaciones, la Auditoria Superior del Estado podrá 
 
 En el caso de que exista base para presumir que algún servidor público de la Auditoría Superior del Estado incurrió en alguna responsabilidad en los términos de este Ordenamiento, para efectos del procedimiento y las sanciones aplicables, se observará lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí. De igual forma se procederá cuando durante el proceso de auditoria, o con motivo de éste, algún servidor público de un ente auditable incurra en alguna falta administrativa que no cause daños o perjuicios a las haciendas públicas, estatales o municipales, o al patrimonio de algún ente auditable.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 89.
 
@@ -1285,7 +1293,7 @@ Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 21 DE DICIEMBRE DE 2006.
 
@@ -1332,3 +1340,9 @@ P.O. 20 DE OCTUBRE DE 2011.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE JULIO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
